@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Suggest corrections to user-misspelled email addresses",
+    "homepage": "https://github.com/dbarlett/pymailcheck",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "e5ab28bffafd51eae86aecdb6aed71b0fd383ac372b773c29d44f0658662fd9a",
+        "url": "https://files.pythonhosted.org/packages/55/68/1647b2a673cf5daa1a7b75c5ebab20acf2f1f3e7e68f7eaefabb361bc897/pymailcheck-1.0.0.zip"
+      },
+      "1.0.0rc1": {
+        "sha256": "18795aa50e9317fd3b370a92be1287fa62e7acbb8b6d39f6b564878323dd7e7c",
+        "url": "https://files.pythonhosted.org/packages/82/7f/323900eba7652e75d222695c4fc3da694574ba51507ea48982a0f72eb9c7/pymailcheck-1.0.0rc1.zip"
+      },
+      "1.0.0rc2": {
+        "sha256": "58b0374400edcb8805871402d25ee27c25f752b48ab9f3b1584f381cf1c32cbb",
+        "url": "https://files.pythonhosted.org/packages/65/6c/daca6ae25c7566bfea7a82ca5064d2d4dcf52df97db47c02d5fec857d2e4/pymailcheck-1.0.0rc2.zip"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Python binding to the C++ KrovetzStemmer package",
+    "homepage": "https://github.com/rmit-ir/KrovetzStemmer"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "4ab19aa85b3758acca54688193e8b7c26bcf11d0253d2909fc7dc4086a919afd",
+        "url": "https://files.pythonhosted.org/packages/c1/26/23f7cfe57233337b90f00cd75aea6a491fc534d4f0c983428a9b2d3bad85/KrovetzStemmer-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "dbb3f2d03c420197ebbaae585f8dfe8301a6aa9254397a73d9299d5d1adf04b3",
+        "url": "https://files.pythonhosted.org/packages/8d/64/bea221a427f16e5d2f0ec9d19c5869a5eb21309a95b1c70b7910132f9b00/KrovetzStemmer-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "a602a1814ab8adec831634f89326e73e7ed5fe48d7d70045028ff17ec37af4ce",
+        "url": "https://files.pythonhosted.org/packages/00/2b/b679e2242cf8cb5fcea55438c514b3741e50bd35ed57c8e02433cb91dc55/KrovetzStemmer-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "1590ce680e9d9162680db37d4a857608c89f95fd9fbdbf63436345a31706c4e0",
+        "url": "https://files.pythonhosted.org/packages/97/15/7f7830ac1a0410855b8d01033fc502b6976d65be990abffadca57ccfcb3c/KrovetzStemmer-0.4.tar.gz"
+      }
+    }
+  ]
+}

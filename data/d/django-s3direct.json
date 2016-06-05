@@ -1,0 +1,193 @@
+{
+  "latest_version": [
+    "0.4.0"
+  ],
+  "meta": {
+    "description": "Add direct uploads to S3 functionality with a progress bar to file input fields",
+    "homepage": "https://github.com/bradleyg/django-s3direct"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "d61f74f005fe5f8383c6995d6db3a011679feb1b9a5ef7fb856b0eba94cbe95b",
+        "url": "https://files.pythonhosted.org/packages/ea/d3/f0f4226a21763944a0020a3c2b31d23b9f757fdbf549535dfb84ce8a2374/django-s3direct-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "140025d17a87eef8eaca6574b0d2fb3bbb020f44694f38df64b40a6384e8dd9d",
+        "url": "https://files.pythonhosted.org/packages/08/16/ce563a9624e4968d2ba0cf9d03f5cbcadcfb802bd8e3a22d6d6138481799/django-s3direct-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "b76cb1e0a19a99fe9e0973afff4bdbe45fb1dd2324dd10ce7ad0b8b97ff0973e",
+        "url": "https://files.pythonhosted.org/packages/bc/62/251d40e005bfba5a53f888b62a2d0a228841d263ece302e6a892301a8cd6/django-s3direct-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "12d1b2cbfeec625a4d1bdbb3e8e97dedea928f45101e50cae82151090eb4b49c",
+        "url": "https://files.pythonhosted.org/packages/8b/f8/7238a6003950d75f51208c70d98574c2d1d139a972cbe17a02a6eaecfcea/django-s3direct-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "a2e4dbf84c4b7f433dad486ff8c84e4c8455d268363d33761f9906cc489eb7a7",
+        "url": "https://files.pythonhosted.org/packages/d6/94/3157421b01d5f60a44beb7c23a5811653c88b2bfc945516696886bbf1658/django-s3direct-0.0.5.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "0a4dd56a5bba2df5e2bfe193edd4ed9513a83ce87d71a146525d0203c4ecad65",
+        "url": "https://files.pythonhosted.org/packages/ef/93/6766c4216ec07048f8f2eedaccbf5a37956f7d9221c1ed7ef4235218f48a/django-s3direct-0.0.6.tar.gz"
+      },
+      "0.0.7": {
+        "sha256": "5eed35b0262cfac2dbe3a0f0bdfa32537d97f03633f51d445a332b83e506ebef",
+        "url": "https://files.pythonhosted.org/packages/29/24/a31995520e01c366d12d8763996deec281f383d55da62c5e952072ab7b4b/django-s3direct-0.0.7.tar.gz"
+      },
+      "0.0.8": {
+        "sha256": "d5777c60a6a1bc534c7618fdffa38ee47df5b5dac5084a87386021396725218f",
+        "url": "https://files.pythonhosted.org/packages/b4/d0/f4834bed368eed3e4d65fbf5793a828c111ea645ddb67595a2326216ebe9/django-s3direct-0.0.8.tar.gz"
+      },
+      "0.0.9": {
+        "sha256": "bab2f961bc18babcf9f1c09ff2381de57bce38811fc23e1a04cf40a4f601cd69",
+        "url": "https://files.pythonhosted.org/packages/82/f4/1441bb884d6110d625727b3579393294584e0480f115ce1d683ce3d8029d/django-s3direct-0.0.9.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "fd77d6c0abab96999a26b705bd3b67317b5a99f047ffe3cd8ae792a80c57fc5f",
+        "url": "https://files.pythonhosted.org/packages/2e/86/cf76de6de6a39e73c143cfa002a136ff85506278a81011c46df34d769453/django-s3direct-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "c9ab5a132fc73d9f28216c98c849f26e985ccf69455a460f64eba136c5fc5a1a",
+        "url": "https://files.pythonhosted.org/packages/12/5f/8b6e715b40e824067f75c9a59afe32cd30db408bc0d13ee1cd68ff8467c1/django-s3direct-0.1.1.tar.gz"
+      },
+      "0.1.10": {
+        "sha256": "1a35a922ff2ae9fb95d7006a85286f3d6b314beeba3ebb2a19b61a6e41e5dc33",
+        "url": "https://files.pythonhosted.org/packages/04/15/2f03454b8488504ba23018722b83503f75d113991e3115987a13a7b31d1d/django-s3direct-0.1.10.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "08538a99f36c76541df2bd2f7e6cda397a8e7914df15e68f466c89d71afda421",
+        "url": "https://files.pythonhosted.org/packages/26/d3/00cda532f1274412a4e422f41cb5641e3e6a2a3abaf980b95cc78e33e3f6/django-s3direct-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "fd7a2b08e532bd6dec1d9d7030f565598bc1b6c25f0d1e03e2424111a5016c3b",
+        "url": "https://files.pythonhosted.org/packages/d4/7b/b0eb7bc232091da81a676a626987bfcc0c8bb3993b55791198811766a93e/django-s3direct-0.1.3.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "d05453085fd8d4e44f5e571dce3934645c7466fb6d039cb016da711a87f78daa",
+        "url": "https://files.pythonhosted.org/packages/5e/dc/54a8a84386db120f64d5f2991f10da73ec14c80c5375700544dcfc80bd8a/django-s3direct-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "ce8181d721aa2373b097fcff5b8ad881a4695161e56b28afd34cbb54d3e31545",
+        "url": "https://files.pythonhosted.org/packages/19/b7/30d448d9a899b723d3d9e4b0e7e2eba256c69a316a37c077e796f09a14c6/django-s3direct-0.1.6.tar.gz"
+      },
+      "0.1.7": {
+        "sha256": "379f02a6c8d2189f0cb2128e3b577df7bd28117687e80a8bb29807ead4763680",
+        "url": "https://files.pythonhosted.org/packages/6f/c5/bc68207a4ef1fd26e1cfe4bf068428ce901e33d4a74c4e7d76841517cfec/django-s3direct-0.1.7.tar.gz"
+      },
+      "0.1.8": {
+        "sha256": "80506ffde386859109370ea3715084ef244c6a1145a797dfdd05b58e7dbef337",
+        "url": "https://files.pythonhosted.org/packages/b2/23/f317dcaec84629706dea7b2b20ae3382c4c87b119542c0b1dce923aa8d48/django-s3direct-0.1.8.tar.gz"
+      },
+      "0.1.9": {
+        "sha256": "2947f0f2af65c08f77dab3ff9cc14d6876db9ed6a4c0336b0b49f6033ee0e77d",
+        "url": "https://files.pythonhosted.org/packages/00/e4/5afcd6adbe531512061964b44fb71b6564ecbb7779f75738d43629151fa0/django-s3direct-0.1.9.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "6dda189acda8bf416af62a8a7dfe2910a9cbe5276b1c9807b417d52dbf9a1d7b",
+        "url": "https://files.pythonhosted.org/packages/50/22/323a802171e97996af063dc16eac61f8a1de0eea9ee378cce802ad494178/django-s3direct-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "b32f350fc8a86876ae03960978eea3cbbd623024b772feca1c5dfe3475f50fd1",
+        "url": "https://files.pythonhosted.org/packages/12/e5/c79680c4b94f140f8246fc4f7318abc1cf1b97450c1d32bb1a303f215694/django-s3direct-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "fea0a25e67317019eae9f3fc7979a272bba51b8a4e3d6417d901b6243f589028",
+        "url": "https://files.pythonhosted.org/packages/c5/a6/e0002c50d7c1457ff6bcc41d901b75a0700011480baeb97010b5ff40339b/django-s3direct-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "4e98b8c7142705d2b0d8d50106094703e12b1fdc904e95f13772e2f216341912",
+        "url": "https://files.pythonhosted.org/packages/91/fd/b8157e411728706f46df16983482429cf51fcf14c17dd7c90816a4345e63/django-s3direct-0.2.3.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "2e4547291cf538654aafd6c3e7a7845cf476659d0cc0d723cf11c4e7121c8fca",
+        "url": "https://files.pythonhosted.org/packages/b1/5e/d833bca65534bb812e861d750a45a790169da2ffac73ee965138ec2a8adb/django-s3direct-0.2.4.tar.gz"
+      },
+      "0.2.5": {
+        "sha256": "22306586e5000a8e08af209c4179c4c3f09099597077c6107e75a8dbf5947fcd",
+        "url": "https://files.pythonhosted.org/packages/32/01/7d2ebd44ab7443e7f1b9788a7dd07b0fb8fb80548deda2a4e5d8936955c7/django-s3direct-0.2.5.tar.gz"
+      },
+      "0.2.6": {
+        "sha256": "2ae22dd0cacce4e4ab1ab0f8a0b6d3fa199daa86e2c60d27d0f7e5bfbaf0860f",
+        "url": "https://files.pythonhosted.org/packages/df/d1/b2318ee51d056cc45514ed2874dea34e9b1aa1f0d5cc9501576ba250e5af/django-s3direct-0.2.6.tar.gz"
+      },
+      "0.2.7": {
+        "sha256": "a6f6326823a5e7e0aa969e8c2c358b62e7ef8f793f222c6a77d1fe945c7eb546",
+        "url": "https://files.pythonhosted.org/packages/e4/b1/fde49306087846abad4a1c968331ea4d7096743623c681aa2f815ef876b8/django-s3direct-0.2.7.tar.gz"
+      },
+      "0.2.8": {
+        "sha256": "74d3cf14abd4290a120dd471adc5d09472884f2927904b0719edc635be23c7e7",
+        "url": "https://files.pythonhosted.org/packages/38/45/a0f0d3a73eb028f34ff1ecbb0b77ba2e52fb3c629e29237e317be8a1baf9/django-s3direct-0.2.8.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "1a4e6d37c9befc358989b9ebb133f88b19c2f57ab392399ec5966136f0f00bc8",
+        "url": "https://files.pythonhosted.org/packages/f7/73/f910d9575a42a6050c76f75e3af5fa0411851aed2af1c1807da1be04adce/django-s3direct-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "2ac1e262f7fec1d2dc6ec6efddb009e8fa67386c2d8ad8cfed6b265152275984",
+        "url": "https://files.pythonhosted.org/packages/69/43/6a312d16c92874ef8dd5e45d024134687a15b161b5f330d1123357fa7b4d/django-s3direct-0.3.1.tar.gz"
+      },
+      "0.3.10": {
+        "sha256": "c806803ee34c7c05707550a5df29882818d58644d6e98a7383f82dc6822012b8",
+        "url": "https://files.pythonhosted.org/packages/33/59/9101ba981a90024ef45c477cfd48b6bd564afe4dc68eeaa53eb7b1955822/django-s3direct-0.3.10.tar.gz"
+      },
+      "0.3.11": {
+        "sha256": "2ed819c09560058e69f8c094372748b4f8ec045d2183ba8a21972e712d9261ec",
+        "url": "https://files.pythonhosted.org/packages/5c/b0/a325ce325079c048a286718bea68bb5297145a07a60eafac4105830b41e8/django-s3direct-0.3.11.tar.gz"
+      },
+      "0.3.12": {
+        "sha256": "567bf112eb8ca1b5d6d52cdbeff55692466d9cad4956773565661ceecb66659e",
+        "url": "https://files.pythonhosted.org/packages/21/ea/5965dd6dd6fd8c4c1d317ee51c7ab601805c2f259842a17454d4b2989423/django-s3direct-0.3.12.tar.gz"
+      },
+      "0.3.13": {
+        "sha256": "a8acc0804105d11561673a204067a83e3bde2c43c57a6ff14d90ea9293ca3287",
+        "url": "https://files.pythonhosted.org/packages/46/df/6992160ddf9e83b59c8cc7659a70e59044580dbb72ffe49629071bde51e9/django-s3direct-0.3.13.tar.gz"
+      },
+      "0.3.14": {
+        "sha256": "680cf87f5190ceda37c25282e3b9beeb23a32114330876639ea480d0f0cd2142",
+        "url": "https://files.pythonhosted.org/packages/0e/63/8bd0cc58756643ed8576de3a508a8d7ff785cab37afdc2ad9b973b860146/django-s3direct-0.3.14.tar.gz"
+      },
+      "0.3.15": {
+        "sha256": "68ca43a3a2496db75e8e9f8a2447f778aa58aa44bf63476ff9bf74d8400da4f6",
+        "url": "https://files.pythonhosted.org/packages/d7/79/5da7a8ebf9e354abe31d0e56938dccf4c06f239dceb94a60eec60e5a41d2/django-s3direct-0.3.15.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "8828cf4807abb961621e3e5eb7159f82fde722d1c6e6e41c6225eb34330c6000",
+        "url": "https://files.pythonhosted.org/packages/75/f8/d2d1a815ef3186271620a0283598925008bc74b894647332a8f3eea3cc61/django-s3direct-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "593b5e4f967bbfa9b23a0b22d97c88bab85868e71733e96a9faa4970262a21be",
+        "url": "https://files.pythonhosted.org/packages/52/c9/ce9033a6546a49f2307f4aae52814cfa89d05f01aae400591fdafc768e28/django-s3direct-0.3.3.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "fa397161899f3f2892deeb159d48082baaff290ef407b007fd9f69298439faf0",
+        "url": "https://files.pythonhosted.org/packages/85/fa/e6e4e26941e61fd6b5869d8abea03a944e64c697136a28e5a7c9da6de374/django-s3direct-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "b98faf38ad8e8d912416d39a0e8e74039240ea76ee87b061d148d76693294c03",
+        "url": "https://files.pythonhosted.org/packages/3c/d8/44aaa1b2020ff06106193c414b3305d5ef676bae050e8170a5dd5103d268/django-s3direct-0.3.5.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "bf6764d5641ef100b57c745d2667b54ba73251c63a62bb9b70dd6c922e7b7471",
+        "url": "https://files.pythonhosted.org/packages/a2/fe/06a9a2088d9df0e86726685df6c59de20df47401b2af4ed3b3d9667a41e6/django-s3direct-0.3.6.tar.gz"
+      },
+      "0.3.7": {
+        "sha256": "7ab7bcea329e7e2105dc4aa28be576ea2bb03fe4a958497266d6e6d71983d10b",
+        "url": "https://files.pythonhosted.org/packages/46/f5/41ab4b3a34d52b15f877dd13dd6f36340c34559c126e725b2536b62529e3/django-s3direct-0.3.7.tar.gz"
+      },
+      "0.3.8": {
+        "sha256": "33542d7d448afc49d7658d0fb4f1524b37642de0af6c5013414019ebbf534d5b",
+        "url": "https://files.pythonhosted.org/packages/7d/45/d19bf7dd71c4329740b0617c28f6529bf0c8b4863631d2dcc9880d8a43a5/django-s3direct-0.3.8.tar.gz"
+      },
+      "0.3.9": {
+        "sha256": "7ce1a640c05ded27b14659bd358d8bb67338fa14ca69f5f6e6e7893b1c436c05",
+        "url": "https://files.pythonhosted.org/packages/52/bb/e09de49d06b8053a5507813d1cdfacbe57f0a8319467f62acb67dcaf8a48/django-s3direct-0.3.9.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "7de5e83151ae829e9df9f83e2751681fbf1620bdabb0cca9ebd88ad2cd47ced7",
+        "url": "https://files.pythonhosted.org/packages/f2/2c/bbb9b536bf8ada58435a6f4be0903a6d9be3fa55c7b06be8911ea4591998/django-s3direct-0.4.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "django middleware to ban users, prevent too many concurrent connections",
+    "homepage": "http://github.com/yourabi/django-banish",
+    "license": "Apache"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "1d0857cc4206c416040c5202ae2ad2c8b56d3aa55248a9f27c8a4aebf9a8027b",
+        "url": "https://files.pythonhosted.org/packages/51/30/4e86c5d519c69284a3f2fd96a4398a122b82baa735ab49866e2a0fa325ac/django-banish-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "f5fe30ecc00bae23aa7eb1a404725f5fbab4866999c353685b6d61310c62d1eb",
+        "url": "https://files.pythonhosted.org/packages/d9/5c/5d910a34ea87e14e1d0ae82813f8ef24c4b7c81b23747e71b35e38527429/django-banish-0.2.tar.gz"
+      }
+    }
+  ]
+}

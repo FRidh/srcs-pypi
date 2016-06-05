@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Python wrapper for the Curve25519-donna cryptographic library",
+    "homepage": "https://github.com/Muterra/donna25519",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "0b6d2ab2b5bd5e604f0232e5f930ac8011351d63fe45f80a800f06f342f2f500",
+        "url": "https://files.pythonhosted.org/packages/f9/6e/0388d7f2f1db9d98836503e155a7976235b805aff84b04f9507ce7bc0806/donna25519-0.1.0.zip"
+      },
+      "0.1.1": {
+        "sha256": "6c3e1a66dc713fbaa4fcbf57ec0da946c5f053b9783cd2e38fd757ee189b74c9",
+        "url": "https://files.pythonhosted.org/packages/30/45/381a5a99d61d557df4b0110f0211e5fe988602474248ae8a0c9a8fff702f/donna25519-0.1.1.zip"
+      }
+    }
+  ]
+}

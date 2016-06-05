@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.6.1"
+  ],
+  "meta": {
+    "description": "Pure Storage FlashArray REST Client",
+    "homepage": "http://www.purestorage.com/",
+    "license": "BSD 2-Clause"
+  },
+  "versions": [
+    {
+      "1.2.0": {
+        "sha256": "63bbb9d1ec3a7e5b93f6485b5c517c2a4cc77857b8e582b5d8c482b212b49572",
+        "url": "https://files.pythonhosted.org/packages/19/8a/280791daea51292ec4a9ba4be8a7828751743dde39bf8b805f380fc17fd4/purestorage-1.2.0.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "60ea716363af296b9f3d26bd1890154f9d5a1bef3a681b0b034144768f8bd965",
+        "url": "https://files.pythonhosted.org/packages/86/d8/c200197a4c8af38ce73343cd5de8dfe168e0add4a0881268f4c7414ac7a5/purestorage-1.4.0.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "168cb425d6a0a4b9dceb45301fb346537c983df7c2361b6517231d405204e9df",
+        "url": "https://files.pythonhosted.org/packages/7a/56/cde70b141e7529ce01d3fd9139fe2ecf84dfadb6d821520ff95ef2c4626e/purestorage-1.6.0.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "83b1450a9305041278a94ca043a721757814abd19bdfb722c4397eaa8c2acfc0",
+        "url": "https://files.pythonhosted.org/packages/9e/d1/aaa9e6ebcd4b9303b8485c95badff81ac1f9968916c37d6999fc1d058e69/purestorage-1.6.1.tar.gz"
+      }
+    }
+  ]
+}

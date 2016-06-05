@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.2.11"
+  ],
+  "meta": {
+    "description": "pysndfile provides PySndfile, a Cython wrapper class for reading/writing soundfiles using libsndfile",
+    "homepage": "http://forge.ircam.fr/p/pysndfile",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.2.1": {
+        "sha256": "2a612614ad79a34485c5493fee3e53b02141ad0d7c2883eb94b1cc5e9b624711",
+        "url": "https://files.pythonhosted.org/packages/e3/6b/86f6dcddf2725540c5a365710b3697c80b0fa1f2b5aec8974b6557c3ec58/pysndfile-0.2.1.tar.gz"
+      },
+      "0.2.10": {
+        "sha256": "19fd1dba9533677f23d3b13939b7cf8b42f07bbe8855ae75de3b848487348c1e",
+        "url": "https://files.pythonhosted.org/packages/bd/e5/f8b3ba13f39d5fd1027c8aab13a42c5e70dacd0ee9ee52b0bd2c23a6ec85/pysndfile-0.2.10.tar.gz"
+      },
+      "0.2.11": {
+        "sha256": "da98ee0b71f509d0e4e4581b3989d458f0d532b6ef7207558142de10745efa48",
+        "url": "https://files.pythonhosted.org/packages/88/63/a874ab001fa26dcf5dfbd382210f78ad0f99194fb09b06e23d91204207ec/pysndfile-0.2.11.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "f582b51d2def209dba35aa4a285bb8aaf4b04bddce073730a2da08fabf147a40",
+        "url": "https://files.pythonhosted.org/packages/4d/4a/8642a46ebcbf3e5ca8d19eda0b4ea4dbd17f7ba6aa900041cdd634124272/pysndfile-0.2.4.tar.gz"
+      },
+      "0.2.9": {
+        "sha256": "6cbf321653fc65e223b526a22767f99ed1b473723d2ca77ed4056700eab4bc99",
+        "url": "https://files.pythonhosted.org/packages/29/27/67ab3b960c6b99a6c9961b14a50f4d7a19ac346cbac84df5b8420ed57a00/pysndfile-0.2.9.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.3"
+  ],
+  "meta": {
+    "description": "Wrapper that combines argparse with yaml config files",
+    "homepage": "https://github.com/kampka/yconf",
+    "license": "BSD-3"
+  },
+  "versions": [
+    {
+      "0.3.1": {
+        "sha256": "1e1d3f189031e9c3b2c5d09732db3a9e987f5205ca4e424ab1b9306f9388c48b",
+        "url": "https://files.pythonhosted.org/packages/ca/2c/39fb5c239fed9bef025e7fd3ab0d016daafd521d5eebd4ca9846c6a69647/yconf-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "8bf53b9917ee6d3315734dffd6e9d459e4f02684ade6e773ce6901b489fd2519",
+        "url": "https://files.pythonhosted.org/packages/25/4b/45a37f6a5d4a9ce065ca33ae06e5ffbadddbb01beb43c18024133d12eaeb/yconf-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "ac21c07567a777891268317480bbe94757f25b0a9fbd51aebd1991d77810df62",
+        "url": "https://files.pythonhosted.org/packages/2d/6f/859b1b69aebea3ac68af62e63fc4e40d8d1e9e66bf2c92ae055680294efb/yconf-0.3.3.tar.gz"
+      }
+    }
+  ]
+}

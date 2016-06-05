@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4.dev0"
+  ],
+  "meta": {
+    "description": "User role access for tornado",
+    "homepage": "http://github.com/comger/tor_access",
+    "license": "https://github.com/comger/tor_access/blob/master/LICENSE"
+  },
+  "versions": [
+    {
+      "0.1.dev": {
+        "sha256": "62bc4d2e4c9b7e8855bfb4eb7965204373c38c4e8d0addfae5bbaaeb31bf90c7",
+        "url": "https://files.pythonhosted.org/packages/14/85/8a4a32d5e57a8b266ace7b974d607196f563cf970af73c55bd4136ba234b/tor_access-0.1.dev.tar.gz"
+      },
+      "0.2.1.dev": {
+        "sha256": "cd44f6b11b667b32f975c8aa2bd723648cec288d7c0b5cd48555376db949e62c",
+        "url": "https://files.pythonhosted.org/packages/25/52/703ced364a55aa4aa9976b767413f945ec5d383eaa64f57dd4d2926fbbaa/tor_access-0.2.1.dev.tar.gz"
+      },
+      "0.2.dev": {
+        "sha256": "93b056a91b63f3bee3ba03adbeb9af0219d1661d23fae229ea122d0a2fb24d6e",
+        "url": "https://files.pythonhosted.org/packages/4c/fa/379a396ae213ce07b80ea8d581854469cbc6ae46956b5fd9dccd89ebd3ca/tor_access-0.2.dev.tar.gz"
+      }
+    }
+  ]
+}

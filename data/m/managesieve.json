@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "ManageSieve client library for remotely managing Sieve scripts",
+    "homepage": "http://packages.python.org/managesieve",
+    "license": "Python"
+  },
+  "versions": [
+    {
+      "0.4.2": {
+        "sha256": "6b1fcb6fe7145c8bdfc6fc286b4ec2c4541fccef8aed36a16ad1b10002b1e810",
+        "url": "https://files.pythonhosted.org/packages/46/0f/a9b64a664d30b6f1e347fa431f253cf81cb7cdf020dd05fd903d59eafa2f/managesieve-0.4.2.tar.bz2"
+      },
+      "0.5": {
+        "sha256": "7cf507b4fce555839e0346d2c1f439f81286809820319f28eebc23445f6c96fd",
+        "url": "https://files.pythonhosted.org/packages/e4/bb/7cb50bba4775df2351798ab7a75cb011022ffa38ba9a18931155f3c32847/managesieve-0.5.tar.bz2"
+      }
+    }
+  ]
+}

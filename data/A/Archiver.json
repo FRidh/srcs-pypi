@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "Manage files based on their SHA1 hashes",
+    "homepage": "http://jimmyg.org/work/code/archiver/index.html",
+    "license": "GNU AGPLv3"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "4d946ff860d019671751a2e32051bc17aa7280c213a4091aeb29a2d8a14d4b52",
+        "url": "https://files.pythonhosted.org/packages/6d/7f/3dff3cea0165926f2ad30343729a6db9f2b85f7fb66421d9aa733046de55/Archiver-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "209ff060b01ccb7936ecabd623c819e2e90160c5b11019bb4563e7cf443f9901",
+        "url": "https://files.pythonhosted.org/packages/66/30/3e48b1dd84d6d73882565b4fbdd06e8c32d18236a83f256a32afc71992d9/Archiver-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "9e70e63a42177b57ad92f207fcc3f5a84986af01427dcb7091ea08a588bb7024",
+        "url": "https://files.pythonhosted.org/packages/da/4e/94298ad31b077895ee5e7740b831b31e91bc1980cb33b47ef54d4c1b22c9/Archiver-0.2.2.tar.gz"
+      }
+    }
+  ]
+}

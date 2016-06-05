@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "A Django template tag for rendering Markdown (by Misaka Markdown parser)",
+    "homepage": "http://github.com/chiehtu/django-misaka/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "57ea1b58c40ed797f7a6bf8ecbc99eaf4d0b66b0799a327b61921291d2953378",
+        "url": "https://files.pythonhosted.org/packages/7f/77/32b937bce5c97ee4ca1693ac03d75e4c5238c49c8bb45d269e62d71f7e87/django-misaka-0.1.zip"
+      },
+      "0.2.0": {
+        "sha256": "8785cc95aa3828fd9ce534d1a7d45cbae9ed49afdabd67970baf91cc6ba92054",
+        "url": "https://files.pythonhosted.org/packages/1a/ea/c3245d7df5c1f4f8cf159b417b6f31c61879fa05ef081159ac2fa7e6f237/django-misaka-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

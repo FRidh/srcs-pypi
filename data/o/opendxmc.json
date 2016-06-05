@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Monte Carlo dose simulation for diagnostic x-rays",
+    "homepage": "https://github.com/medicalphysics/OpenDXMC",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.2.1": {
+        "sha256": "00429f335071b9b85a2271916d3cd31b6f2e277ffc6af171a3e781cf2eea59e7",
+        "url": "https://files.pythonhosted.org/packages/cf/35/2231aa5bd8db42606e31a3f1de5d5678a56870af10c5e1e3159e13d54d2c/opendxmc-0.2.1.zip"
+      },
+      "0.3.0": {
+        "sha256": "fdf4ca3ea7c6b5e6b26f6edc0488cb135ecb99a1280ab16639255021b4188565",
+        "url": "https://files.pythonhosted.org/packages/9e/36/3095a12e923203de82db56201f8956dae600999965bf1d66e7ea9892c285/opendxmc-0.3.0.zip"
+      }
+    }
+  ]
+}

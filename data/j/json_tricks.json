@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "2.1"
+  ],
+  "meta": {
+    "description": "Add features to json: en/decoding of numpy arrays, preservation of ordering and ignoring of comments in input",
+    "homepage": "https://github.com/mverleg/pyjson_tricks",
+    "license": "Revised BSD License (LICENSE.txt)"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "969b2fe8811e102cb55a0ce2ffde5f93b60a998bd960b980c76964ec600a78e7",
+        "url": "https://files.pythonhosted.org/packages/5c/41/7c8dd43bf61d269a7d3457afd02bb78aceba3cc244166970ab112716353d/json_tricks-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "b32fdfcab5103f7d0cd63dd4fa01f8fea463765cf3d12d784d260a6f7876b6bd",
+        "url": "https://files.pythonhosted.org/packages/73/99/04874ef8c6357d2f38f49d63a778e09df8b822b88039642de5e872f65b5c/json_tricks-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "9f0d4f95f3110feab30c3408b807ce07137116dd2227a597811018248bbaad25",
+        "url": "https://files.pythonhosted.org/packages/f1/db/7d7d4db0609dc87d30f54957b4b064a29e558782a1fa110cc19ff2c48174/json_tricks-1.2.tar.gz"
+      },
+      "2.0": {
+        "sha256": "67f6ac9b4ad86cf8cdc8de35bc7788da694a7ffca497e25578b2d5c7528a880a",
+        "url": "https://files.pythonhosted.org/packages/f8/01/6cc4fbaa48395ede29c87923365c51a51f7cbf55ca6530ffce6c37e3bcbc/json_tricks-2.0.tar.gz"
+      },
+      "2.1": {
+        "sha256": "c9d923ebd0ac7a7ac2b2f7becd1e41b16121f2bb1950f9333f1146df4b80e769",
+        "url": "https://files.pythonhosted.org/packages/28/6a/355e74a57645516343cac964b2cc7d9a7cf2205c0edb0579f43780170d4f/json_tricks-2.1.tar.gz"
+      }
+    }
+  ]
+}

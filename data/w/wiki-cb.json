@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.14.0.1"
+  ],
+  "meta": {
+    "description": "Django wiki redux, maintained by Code Black",
+    "homepage": "https://github.com/audioburn/wiki-cb",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.13.dev": {
+        "sha256": "0fbd933216c116f0f27d17a24e38431ce8ca01ff2562b6e39350de8489145459",
+        "url": "https://files.pythonhosted.org/packages/5e/c3/1743ad9fe3271e64ec20435e2aa34cc2c7cd30f5b596bad798292fc28366/wiki-cb-0.13.dev.zip"
+      },
+      "0.14": {
+        "sha256": "9de20da951335c7321f4e90ffa069b7cbbacdead4ee57c0c8ea3a15a26743f7e",
+        "url": "https://files.pythonhosted.org/packages/e3/30/aefc58e618b2224e5f5f351bbb7bfa31551020df3cd49585f64115268ea3/wiki-cb-0.14.zip"
+      },
+      "0.14.0.1": {
+        "sha256": "e733b07c985d7a756d04766a20c7a2028efdee035c4eff8f0d993956543838b1",
+        "url": "https://files.pythonhosted.org/packages/38/23/ac34d2f194e5728ca2ff8fe920bf427b6d02fd328afa3e3358198d7eca10/wiki-cb-0.14.0.1.zip"
+      }
+    }
+  ]
+}

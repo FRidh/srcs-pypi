@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4.0"
+  ],
+  "meta": {
+    "description": "rdflib extension adding JSON-LD parser and serializer",
+    "homepage": "https://github.com/RDFLib/rdflib-jsonld",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "aed044b9c9eb7b136446e169e88c9626b53991066696a533482051c0ccf84375",
+        "url": "https://files.pythonhosted.org/packages/a7/60/267b54976f779d0c5b22448525495524c069285586dc22f21bfb29c25cf6/rdflib-jsonld-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "944a1cf22a217bd78acacc183ea329848cba3f24d0cfb86541b42732cd412a88",
+        "url": "https://files.pythonhosted.org/packages/c0/eb/f2113006f73f6270fdb29eca74ce3e6c7a172c9166aa2a482f039cda2c3e/rdflib-jsonld-0.3.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "144774786a2fc7de09b24a9309cbcccc78bc48b152536d2ea1c1df2ad715bc2d",
+        "url": "https://files.pythonhosted.org/packages/ba/48/edaad22fc9de34500699f0c7fc9124385dd425fd18857244f126a6f7df66/rdflib-jsonld-0.4.0.tar.gz"
+      }
+    }
+  ]
+}

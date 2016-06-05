@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.3"
+  ],
+  "meta": {
+    "description": "Search and replace tool that outputs a diff compatible with patch",
+    "homepage": "https://github.com/naufraghi/sar",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "a78389393706bb9af3758f3455caf23d7ac0d5013c279fe07b48e0069a66b825",
+        "url": "https://files.pythonhosted.org/packages/92/0a/ed10825c605d6a57ddbde4ec2ed4e78d79f1d76bf36e7eb1b0fccc2ff3ec/sar-tool-1.0.1.linux-x86_64.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "d58d65738dcc670f8c24bfee42560db01e2ee5d99b3baa5b4b9d4f2702da50a7",
+        "url": "https://files.pythonhosted.org/packages/48/03/9537363eddbfc88ed0ae0ae1ca8b83884fc8899e5172f2e774f64f13e66d/sar-tool-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "7dc83efe9e619af3c6b39e1882414039b8042a698e92e138b43d75da3610bd12",
+        "url": "https://files.pythonhosted.org/packages/38/28/94cb0fd400d99934f93c6d2fcf7e05cec5b3a86fa7ec3f478de98a31cee8/sar-tool-1.0.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Extract and process resources from Quake-style pak files",
+    "homepage": "http://github.com/neogeographica/expak",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "c33ce4bfde7f12f808d9f5e46eb23940eb3b1aba9a02e6dc8f08a2af4f1ed041",
+        "url": "https://files.pythonhosted.org/packages/59/8f/5c65d6a7a84fcc91c3844d652f23f0415a7230e004f5e7bba7f77d2a6453/expak-0.9.tar.gz"
+      },
+      "1.0": {
+        "sha256": "4bbabcb35ebf52abcc957520bb0df4ec5fd2bf32ba33ee4df9c137a737dd1ea1",
+        "url": "https://files.pythonhosted.org/packages/ff/94/6ee667329b0e64ec1269a0c63e57e13a49a9f3dd1ed85275eb763eb86651/expak-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "363524f4c69913fcf83461251fbe6fae17f396a3fc187e5364dea3456e88bbbf",
+        "url": "https://files.pythonhosted.org/packages/71/e2/656c0de904b113b43369a137c31d9125371330dd18540422837ed7a95734/expak-1.1.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "9724f1fcbe6adb3d862e44a8adf89fe21112ebaac7c26241f91a2c93f6826afc",
+        "url": "https://files.pythonhosted.org/packages/bb/5e/5ad4178a65a528a4beb1f55fe7d1df1857612c94a123549fff68c45d692d/expak-1.1.1.tar.gz"
+      }
+    }
+  ]
+}

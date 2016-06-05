@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Tiny RML2PDF is a tool to easily create PDF document using special HTML-like markup language. It can be used as a Python library or as a standalone binary. It converts a RML, an XML dialect that lets you define the precise appearance of a printed document, to a PDF. You can use your existing tools to generate an input file  that exactly describes the layout of a printed document, and RML2PDF converts it into PDF. RML is a much more powerfull and flexible alternative to XSL:FO.The executable read a RML file to the standard input and output a PDF file to the standard output",
+    "homepage": "http://github.com/romanlv/trml2pdf/",
+    "license": "GNU LESSER GENERAL PUBLIC LICENSE"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "427dd137c4eec592576978af80223522fa0ff5aa38acd9bb118b17fe470b1326",
+        "url": "https://files.pythonhosted.org/packages/5e/e8/b2b11510448431cf8c451790ec3801e675d3624f2d49172abf692620fcf0/trml2pdf-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "9248fc001e7c6eec718e6278d30aa3c54ed1d96801367de16d13677010e207f0",
+        "url": "https://files.pythonhosted.org/packages/ae/86/95e87e551421fe1cf7b25bd1860a437ebb76eda7ebc192cc338425b53864/trml2pdf-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "8c21e02b7c0ec55831e666c177900927f2464771e8128a9d07208c03b6116976",
+        "url": "https://files.pythonhosted.org/packages/69/ec/faa26db4b3be00f07812e21239065682d0a7d8bb3ff124d5bb6f4995b5c4/trml2pdf-0.4.tar.gz"
+      }
+    }
+  ]
+}

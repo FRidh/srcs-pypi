@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.0.dev4"
+  ],
+  "meta": {
+    "description": "IntelMQ is a solution for CERTs to process data feeds, pastebins, tweets throught a message queue",
+    "homepage": "https://github.com/certtools/intelmq/",
+    "license": "AGPLv3"
+  },
+  "versions": [
+    {
+      "1.0.0.dev3": {
+        "sha256": "d24d71cff65d50c9a723c26edd5a859ed8d1d4b835f9b1f6358d8704b8641cef",
+        "url": "https://files.pythonhosted.org/packages/94/99/d7895a46ab1d1e7f98a333ac7f2429db339656a532967843841b164af8d7/intelmq-1.0.0.dev3-py2.py3-none-any.whl"
+      },
+      "1.0.0.dev4": {
+        "sha256": "2a2150fdf35f50fb47aaaea4155a40bc95aac094feed01f1c8641f8a21ed0220",
+        "url": "https://files.pythonhosted.org/packages/39/4b/2ae455596719b3def1fa27a918ec3a0944cb7fc50fba3fef2a4820f71b8f/intelmq-1.0.0.dev4.tar.gz"
+      }
+    }
+  ]
+}

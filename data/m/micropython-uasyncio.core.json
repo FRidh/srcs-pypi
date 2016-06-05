@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "uasyncio.core module for MicroPython",
+    "homepage": "https://github.com/micropython/micropython/issues/405",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.7": {
+        "sha256": "3ef00229d9e159a99451b9de0fbb4fc2c9d8835c9fb4b7d1af9108a453b2eb37",
+        "url": "https://files.pythonhosted.org/packages/70/7e/58c55db8704011ac7ee8e641b61497c9e2e1cc7e21005819655a67a81c57/micropython-uasyncio.core-0.7.tar.gz"
+      },
+      "0.8": {
+        "sha256": "07a1971e57c9336393bc524cede7baf6c4ffd13687fdd22049534e8438b2bb17",
+        "url": "https://files.pythonhosted.org/packages/46/87/921450bfab505e7c34d5aef22c7f6116110b53fe14029e20bc1913ab25c7/micropython-uasyncio.core-0.8.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "ad65ecba1efb99f11c29f03d294918830e0541acd7552ca3e62b2fbbb83d4fdc",
+        "url": "https://files.pythonhosted.org/packages/a6/ad/57213c880e6fe8dba17c83c09b9d311f7845dcf74522cbc6159875c5e83e/micropython-uasyncio.core-0.8.1.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "094a7498ca5e884b4f37fb1a664638de4c6905fd20d8730204f40a18c1fd1373",
+        "url": "https://files.pythonhosted.org/packages/d3/5a/e5461b4f927d8ca517c7d7d0c580bc58ba39bb60f29c987da02e7bae8830/micropython-uasyncio.core-0.8.3.tar.gz"
+      },
+      "0.9": {
+        "sha256": "3e7c4ba889328cd1261023da65b863b98eca9561200242875e432fb323bb0487",
+        "url": "https://files.pythonhosted.org/packages/4d/12/45137aa909ece38a03f1ee685148136729df070e23ae3a16c277f44f157c/micropython-uasyncio.core-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "4ff25446af0564ad920bea06ff642e933cf12ca6b97c0ed522dd9b806878c3a4",
+        "url": "https://files.pythonhosted.org/packages/05/18/790dca60d7c110f80b8da6258ae3ef62d2227f35baa0c981b0d7d8195212/micropython-uasyncio.core-0.9.1.tar.gz"
+      }
+    }
+  ]
+}

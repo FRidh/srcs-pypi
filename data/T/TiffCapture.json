@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.1.3"
+  ],
+  "meta": {
+    "description": "Brings the power of OpenCV to TIFF videos; provides interface to multi-part TIFFs compatible with OpenCV's VideoCapture",
+    "homepage": "https://github.com/cdw/TiffCapture",
+    "license": "LICENSE.txt"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "62ce1799211344fca1aca0a82880cc1053121bf554deffc2c0b2261d7ca6db3a",
+        "url": "https://files.pythonhosted.org/packages/ff/1f/9812c3315de1f8957f8e3691a6c3c4714244ef2499bff31114ee0c3ee14e/TiffCapture-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "2de91bbf1f2dde6c030b4d0125f1d6e8fa8a23aed643cfec9e685ac0ae2e486e",
+        "url": "https://files.pythonhosted.org/packages/b9/57/e48124a81bd694ba80ac62ebb317b09a445250ecf423d3bc11a70b3bde9e/TiffCapture-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "89184fb912162d376e3350cbfb11b5394e9aa4d36083e3d948e4176de6ad81a4",
+        "url": "https://files.pythonhosted.org/packages/2b/e1/a41e89bf76a3991d4e2927c13086a5cb72e0c85feb96d5444a4dc933d36c/TiffCapture-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "006a333b7882bca7891b049be8660c6cc284034c7320a4ed7aceac4420200e1f",
+        "url": "https://files.pythonhosted.org/packages/ab/2c/5cc8a32af7a99d1914009ee7e01b3501a056a7c9b29026b2b48ad764358c/TiffCapture-0.1.3.tar.gz"
+      }
+    }
+  ]
+}

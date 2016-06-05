@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.6.1"
+  ],
+  "meta": {
+    "description": "Pure-Python bindings to glibc (based on ctypes)",
+    "homepage": "https://github.com/zyga/python-glibc/",
+    "license": "LGPLv3"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "b88e383dc488426bdb9e2d44def320f88681c2d03a0473a11e79477a8695f454",
+        "url": "https://files.pythonhosted.org/packages/99/c9/c232a4d85257b4095754974966f4cf6db61abd1c6f5378ea951dd88cec4a/glibc-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "5e7d4ee6712ddb75bdda59889bda43ee9e0c8dba505abc574c962d80f15c0823",
+        "url": "https://files.pythonhosted.org/packages/ea/ba/ce6432571e942b29b982be3d412472f39ba5a311b62b3f327d52b0803c33/glibc-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "29854dbf7e49c4eea2fc8fa9b59efdddd4fafbbe2790568819ab4cfe773445ec",
+        "url": "https://files.pythonhosted.org/packages/95/5c/0171e45282098de608c6569e428d39bdb4ae9c83d4438e413b874662b62b/glibc-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "c3b05c2979d915e0cee321a92ba90d36699b59058fe4da989740164c87c21110",
+        "url": "https://files.pythonhosted.org/packages/b4/63/e0ae4ac2950de3b6fafaeb9b6b4374cd85af5005d4de12dc278b698b121c/glibc-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "6be226796a07fb005ef5907f1811708d37c6cc18e3e0ce0ae0fd7c23d70a13e8",
+        "url": "https://files.pythonhosted.org/packages/fe/b3/f8a2b0a5335f43650225c89048eec83cfd5a4101a3fcfcb1d87b9a33d1d3/glibc-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "f10c4f0ee31999d61590923eb27a8b248cc7442b7654af72d0f16c491e97860b",
+        "url": "https://files.pythonhosted.org/packages/20/db/2429de910d6ad20721ae6468a4f136271a87ca53a7744fc3601c4f7581bb/glibc-0.6.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "22a39c34742a60e739cfc501bd1fa7b4c529aa0f13cd612a83186ecc087b22c5",
+        "url": "https://files.pythonhosted.org/packages/9c/8a/abc11cfecf3e80ddcc3ce66886c25ff71b819a4fadbbd8ad5d5c9949bcd2/glibc-0.6.1.tar.gz"
+      }
+    }
+  ]
+}

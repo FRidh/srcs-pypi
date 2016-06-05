@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4.1"
+  ],
+  "meta": {
+    "description": "XML bomb protection for Python stdlib modules",
+    "homepage": "https://bitbucket.org/tiran/defusedxml",
+    "license": "PSFL"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "b7e655a01dba57a86fc996aa9b0d10a3d25bdc90a0fc89149125d5fff9a3f469",
+        "url": "https://files.pythonhosted.org/packages/b0/11/cb91fd91d878fc993a43236622e29b7bec93bcc3be29b78a0fcd5c87ff38/defusedxml-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "51445f028ed7bd793a1cd2f57b86f071d2072db52cb99e8025107d1c9e2e55d4",
+        "url": "https://files.pythonhosted.org/packages/2d/8c/08f34d5d900f1292f5d9b935bfa98a02e1fd6623a51916babda4e0ddb3ab/defusedxml-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "cd551d5a518b745407635bb85116eb813818ecaf182e773c35b36239fc3f2478",
+        "url": "https://files.pythonhosted.org/packages/09/3b/b1afa9649f48517d027e99413fec54f387f648c90156b3cf6451c8cd45f9/defusedxml-0.4.1.tar.gz"
+      }
+    }
+  ]
+}

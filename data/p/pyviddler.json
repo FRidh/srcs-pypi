@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "This provides a Python wrapper around Viddler's v2 API",
+    "homepage": "https://github.com/callowayproject/pyviddler"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "92d8b7e1948ef2623d2f5b8adb3c70f8054542cf8a9ad40660cecdd0f170b236",
+        "url": "https://files.pythonhosted.org/packages/91/43/c4d24a566f33793d7de719c3a93afd0d961c7c35d6d2d980cf00a820aa4a/pyviddler-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "225694bb1cbaa5a29cd69bb043104341ccde59275bc67ab221ea3611e057bf25",
+        "url": "https://files.pythonhosted.org/packages/90/74/2a48bba7fc5c9996dd88a7cb964cc2b5e94f2622f6664d191b71b53bcf96/pyviddler-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "8db831342ae81de7367bbea3e070ae2f7cb000bab422fc7b9c7cd540c557ca09",
+        "url": "https://files.pythonhosted.org/packages/6c/37/1b2efe64b672ad38cfa1aa8652bccab058b50e7a47666bae68a27d9d71a7/pyviddler-0.5-py2-none-any.whl"
+      }
+    }
+  ]
+}

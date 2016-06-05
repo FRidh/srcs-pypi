@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "1.0b3"
+  ],
+  "meta": {
+    "description": "This patch product is for downloaded filename become strange ascii code in muluti-byte languages on Plone",
+    "homepage": "http://www.cmscom.jp",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0a1": {
+        "sha256": "b45addf17cfde91b422def77f3722d3ee7d268076aaf45757ffd978909aa97cc",
+        "url": "https://files.pythonhosted.org/packages/d3/09/465354cd4d57b46f2d3fcc87e71ce3304ec4046b99d4fca6f5128ce16cef/c2.patch.filenamenormalizer-1.0a1.tar.gz"
+      },
+      "1.0a2": {
+        "sha256": "dac45729df1d56ed256d3260d0e74da069000aec1f750e50923425374c37c9f6",
+        "url": "https://files.pythonhosted.org/packages/86/86/5cb8151416df428a5009e97767a61bb53706fe329b515868dfe0ed0bc5cd/c2.patch.filenamenormalizer-1.0a2.tar.gz"
+      },
+      "1.0a3": {
+        "sha256": "0c48fb88aec73ba525957f34959cd9076d06600351fb042f42c70e1a54f48c03",
+        "url": "https://files.pythonhosted.org/packages/3c/68/b55e844af33fd627eb9e76a8f28b8d8a1d385c151f6d7ddb6bb7510ebe22/c2.patch.filenamenormalizer-1.0a3.tar.gz"
+      },
+      "1.0a4": {
+        "sha256": "46d53d5808ad27d2164564f63e825778d1d771ee72afcdb08330e50f09acb6dd",
+        "url": "https://files.pythonhosted.org/packages/5b/b2/375e27546ce6c8a8c2ddb442b493830df7da7ac33445726b313b13ac32b4/c2.patch.filenamenormalizer-1.0a4.tar.gz"
+      },
+      "1.0a5": {
+        "sha256": "c5948af21333af1743efd8782f24405ceabbe5c321e0ebfcf3c9d150bc355c4b",
+        "url": "https://files.pythonhosted.org/packages/f2/fd/ec78584435ca8affee053bc6d83171b14b37607d6e94de9da50cef75d110/c2.patch.filenamenormalizer-1.0a5.tar.gz"
+      },
+      "1.0b1": {
+        "sha256": "115603234adde9658938b519b38830dbdcec2b39f77894772e9d5322a07daa62",
+        "url": "https://files.pythonhosted.org/packages/9f/d5/b93b5094dc21afa5305894bb7036def1b3101f7e10bd7cf97fdff269f4d5/c2.patch.filenamenormalizer-1.0b1.tar.gz"
+      },
+      "1.0b2": {
+        "sha256": "8b3dde38a941987238009fc98b1a7dbe984e5e233a82927d118b413e03743bac",
+        "url": "https://files.pythonhosted.org/packages/92/7b/9f489f86efe96769611a2412e074319cdc27bc5ac7be3833a94179ebeb19/c2.patch.filenamenormalizer-1.0b2.tar.gz"
+      },
+      "1.0b3": {
+        "sha256": "0011e36f3b092ea3bccb20d79ce16ea69576708146ed569c2099ca1ecb598f61",
+        "url": "https://files.pythonhosted.org/packages/e4/a5/b5ff9c067d9f265d44239007c586b3aefaf32aacd7227e601698f4b1a123/c2.patch.filenamenormalizer-1.0b3.tar.gz"
+      }
+    }
+  ]
+}

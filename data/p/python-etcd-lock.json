@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.0.4"
+  ],
+  "meta": {
+    "description": "A distributed lock recipe for etcd",
+    "homepage": "https://github.com/appuri/python-etcd-lock",
+    "license": "ISC"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "181d8c4638cde81dd94087a6ceec204a65a65da0f33bf9c9411179a88023ec60",
+        "url": "https://files.pythonhosted.org/packages/48/71/dde92e8483a4f7f9391075f1ca7f2e0dc531b2e2a8fbdf25901be1cf96f6/python-etcd-lock-0.0.1.macosx-10.10-intel.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "d7ecca02700479d502df1fac566f8fe3ecd7e0ea43c80eebed1b47737943da16",
+        "url": "https://files.pythonhosted.org/packages/6e/d7/9b67411ce9789870c0fc1d4f3595cf8313a0177f2f893d20514881708db8/python-etcd-lock-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "6293d0d35cf82b6be03535656ce5baa3adb9518d2ca23371dce970ed32a2ac15",
+        "url": "https://files.pythonhosted.org/packages/9e/27/fe49cd298707533fe1e5a2d9998f5f2f39e5ce477c5f5ee7eee0adb98227/python-etcd-lock-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "99df4deb2b0d54b907b631292b65aa0d81b928af4f458be6fafcc4a3d5d91c8b",
+        "url": "https://files.pythonhosted.org/packages/26/c4/798459d31bb41c3bc39e70f6f6cb3b676fc5e96b18552f9471ae57b4ad3b/python-etcd-lock-0.0.4.tar.gz"
+      }
+    }
+  ]
+}

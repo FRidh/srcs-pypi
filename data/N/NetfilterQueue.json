@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Python bindings for libnetfilter_queue",
+    "homepage": "https://github.com/kti/python-netfilterqueue",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "ad797bd4dd083b59b05dd96720c20d22b296a09418bd1fa7840e0b27c35468d4",
+        "url": "https://files.pythonhosted.org/packages/2e/dd/fa1099d27644b053567922cc41d4e67cca5e39938ff0f6ac65ef373719aa/NetfilterQueue-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "c72f90b93a95adb8273bbd6b70c69709de4a6647caa4c5df0d0e71fa19e3745b",
+        "url": "https://files.pythonhosted.org/packages/4b/32/d6baddf0718bfb5fab708992781c6f979aa871672e7f6e8ce53f88d9edea/NetfilterQueue-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "06d0980c245b2bef4bd15bf6a8f4520e42be44309ccd81166854e9c3f15259b7",
+        "url": "https://files.pythonhosted.org/packages/8d/f5/bc84583edb9733e00f9efbf05c3c448cfdd1afcf00e84cae0e7f3f15acf9/NetfilterQueue-0.3.tar.gz"
+      }
+    }
+  ]
+}

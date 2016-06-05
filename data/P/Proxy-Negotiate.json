@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "HTTP Negotiate (SPNEGO) proxy authentication support for applications",
+    "homepage": "https://github.com/cour4g3/proxy-negotiate",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "8da237ecadc0522da302f8e025c324fe86e608af434f6156616c9616f11fbddd",
+        "url": "https://files.pythonhosted.org/packages/8e/2c/70926ff2e4237ad80c65b9a2f077b8a514a61a86b3e45874ed31fcf18b7f/Proxy-Negotiate-0.1.0.linux-x86_64.tar.gz"
+      },
+      "0.2": {
+        "sha256": "95401060320d227cc1fb3df2b7a2d27dcffb501ed47a1e93f1d7b660653aca21",
+        "url": "https://files.pythonhosted.org/packages/ed/a7/d604773ac057c53d041a2ef0e971c13da0e9e28cf91a0ae582cd432b1191/Proxy-Negotiate-0.2.tar.gz"
+      }
+    }
+  ]
+}

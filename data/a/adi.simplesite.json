@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Configs for small sites",
+    "homepage": "http://svn.plone.org/svn/collective/adi.simplesite",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "7a3d7340bd9721238febc9b804dbdff1360d1be417031ffd75950abb988e79d7",
+        "url": "https://files.pythonhosted.org/packages/4c/a3/9d02c1add6702981b6419f097080c50e497e8e35b50e2d906eccd6441be9/adi.simplesite-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "bf2e2fa9c3e0f5ff4e8e07db785ef43b30e85f463355b364128cbc783083c89f",
+        "url": "https://files.pythonhosted.org/packages/91/31/e8bb09c9906284a39687b693208958fcfd68bb3bdeaed2ad734729a5b214/adi.simplesite-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "754ed59fd39787c96689cf8681cb70c3a4f621f92990c344da1049072e1fe53f",
+        "url": "https://files.pythonhosted.org/packages/33/59/8543592bdb47d5f1593fd92ed6eeeb85fcc9fcff4872e9bd4e334be95e3f/adi.simplesite-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "e0aadc35f72001117a6fc1cab97f22fd3e9dd81304b5809825cb35f454e792b7",
+        "url": "https://files.pythonhosted.org/packages/f0/2c/12a08fcdb6d57bf103856037bc7e478d43776fb64c6f7400c5dd41b26e67/adi.simplesite-0.6.tar.gz"
+      }
+    }
+  ]
+}

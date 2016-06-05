@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "A thin layer just a tad above SQL, for use with PostgreSQL and psycopg2, when you want to wrap queries in a convenient way, using plain data structures (but you don't feel like using an ORM, for some reason)",
+    "homepage": "https://github.com/cjauvin/little_pger",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "e9765a847efd149d20fa0b91b8290d6acd36191a5dcb2879ddfb75ffb6dad306",
+        "url": "https://files.pythonhosted.org/packages/18/86/289d98cf33cb20d7e80ccfb3bc23a0612f5a3096afcbd9dec83e2062f8de/little_pger-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "2665a3043e100f9bb48b37966855ecd351e7c5a81bf3cc78a2bcca71d1a487a4",
+        "url": "https://files.pythonhosted.org/packages/84/ac/622270024c0eed726293b6115acc8adbcfb79698ab89920502ab768a81d5/little_pger-0.6.tar.gz"
+      },
+      "0.65": {
+        "sha256": "4270f2c78d2a05d8170e64d8b1fe10d1bc08a6282bf5b655a1233c7438444633",
+        "url": "https://files.pythonhosted.org/packages/95/7f/1a0168d55f3dab0f351bdc1896a13eb079f1cd1edc0bbe2fa5e7b5a85857/little_pger-0.65.tar.gz"
+      },
+      "1.0": {
+        "sha256": "d54adc740d9a8cfd6588c12d16218f89e06e76aa6ec6fb134f20f73732e67b78",
+        "url": "https://files.pythonhosted.org/packages/b4/c3/4d81f9580da3611a44208a5387069cd10c4f2de388d58d17f1004aa2381c/little_pger-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "796da990d3968e1ba9567cfdc3f5056c612606147ab014877c46987b8e726df1",
+        "url": "https://files.pythonhosted.org/packages/3e/c1/907109676aa96d29f95aad90d2478290d9fbdfa20e8659409dcd4eca6d51/little_pger-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

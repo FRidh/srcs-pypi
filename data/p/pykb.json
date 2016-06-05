@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.5"
+  ],
+  "meta": {
+    "description": "Python API to access a KB-API conformant knowledge base",
+    "homepage": "https://github.com/severin-lemaignan/pykb",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.4": {
+        "sha256": "aaae795a41d513867947a6724ce241421eef2beda5a0a1c3da87766000296fb5",
+        "url": "https://files.pythonhosted.org/packages/27/d0/55d8926903fc12b280c9f47b6c464dd4030719cbf278d018d17a715b6967/pykb-1.4.tar.gz"
+      },
+      "1.5": {
+        "sha256": "1c36743ba7c27559c00a1a4aa878262bdb4ff81dbd974fe834f418996bc9566d",
+        "url": "https://files.pythonhosted.org/packages/b8/9e/8270541fa3bfb83a55c20d85c109a16865fea39f89eea86758bb91d8ee55/pykb-1.5.tar.gz"
+      }
+    }
+  ]
+}

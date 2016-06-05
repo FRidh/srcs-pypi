@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0b1"
+  ],
+  "meta": {
+    "description": "This product is supsupported Duplicate Content for plone, not objcet paste",
+    "homepage": "http://www.cmscom.jp",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0a1": {
+        "sha256": "1fa2eac974e69121be0de78a1572480441e70f1dd57199ff91f250c272693df2",
+        "url": "https://files.pythonhosted.org/packages/0a/ab/9aba9b5ede0f77d8e179ea72242e0bb4a3fd50fd1e2965b4134f483c8e84/c2.patch.contentpaste-1.0a1.tar.gz"
+      },
+      "1.0a2": {
+        "sha256": "b1001fa165cc9aae1fb289a26973bb96ae24e3816fd08bdc9500e25b4a81ed7d",
+        "url": "https://files.pythonhosted.org/packages/db/73/7aa872427a48d3ee8697959542ad394655d5c3604f07aeb67bd57d11f036/c2.patch.contentpaste-1.0a2.tar.gz"
+      },
+      "1.0b1": {
+        "sha256": "7428b2f291412c16737daa073b10af74b2426a11bf481713ba499ec087e38331",
+        "url": "https://files.pythonhosted.org/packages/e6/41/15c798f1fca750a4fcf13c0f3362088f71723627ef4a7dcd09898cf62a74/c2.patch.contentpaste-1.0b1.tar.gz"
+      }
+    }
+  ]
+}

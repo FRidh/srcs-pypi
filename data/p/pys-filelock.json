@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "A simple platform independent file lock",
+    "homepage": "https://github.com/jenson-shi/pys-filelock",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "c5c6cbdc08f34cb88820f144487cdd22b93e557c0d4fc4d6ff7f6782a6bf2312",
+        "url": "https://files.pythonhosted.org/packages/28/d2/db6c038ec43fef47144228074bb591f464e7d63bd3b4009c9d72b0efcee0/pys-filelock-0.1.zip"
+      },
+      "0.2": {
+        "sha256": "74a08c81ed7a8c3917000689eed37d49049690ffee59cbf613dadf914084ac9f",
+        "url": "https://files.pythonhosted.org/packages/81/82/6702840d80f867aed8ce2afe9e7e9c7a4a0b2e48b10d49c7aa1d0dda3486/pys-filelock-0.2.zip"
+      },
+      "0.3": {
+        "sha256": "6221ce6cb2e80550847cb4465149c13aa813717cd712e61fe292cb94004d2aa5",
+        "url": "https://files.pythonhosted.org/packages/4a/92/8a92e8725498ef8371837053f9f29c3057303dbb03167fb268e1530ab2f6/pys-filelock-0.3.zip"
+      }
+    }
+  ]
+}

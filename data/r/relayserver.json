@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1.2"
+  ],
+  "meta": {
+    "description": "A relay-server to defeat NATs, with pools",
+    "homepage": "https://github.com/dsoprea/RelayServer",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "4b657c0b68751d2e788b1820f1f5de0d408db7eb5c476fa0d953b3b83abc43f9",
+        "url": "https://files.pythonhosted.org/packages/9a/9a/e009b86939f944e027d3bbaefca1320f1886aad926f873138503ebe9b6e6/relayserver-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "c03c1f368bc8211f1f7322bf3e2d3958ca28c09a4c58dabb3a5a8c276cd20b06",
+        "url": "https://files.pythonhosted.org/packages/28/c0/4066f26e29c0cb03d4bd1c87d0dbe61c1b0bb398451efa60ae4d2847f9c2/relayserver-1.1.0.linux-x86_64.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "9339db076a5a3abac26899cc780dd86704e888acdb32885626a3ed72cf058757",
+        "url": "https://files.pythonhosted.org/packages/61/22/3fbfff0ebe198327d71be91da2825d5473b3220a31218f62ee5a2ded2107/relayserver-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "6ec03e52e25659dd8ce80fae3bd76d55b5df603e8b96a709bbff4ec817868d58",
+        "url": "https://files.pythonhosted.org/packages/97/b9/3934a0bcd9a82c4afc3d2897fa0f2dc996dde310f809dc62a7317e4413d4/relayserver-1.1.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.22"
+  ],
+  "meta": {
+    "description": "Simple standalone utility script to manage \\*nix permissions on file and directory trees based on patterns",
+    "homepage": "https://github.com/trebor74hr/permset"
+  },
+  "versions": [
+    {
+      "0.21": {
+        "sha256": "953646a9edcd7cbd481f26ecd03090eebf212e5ccbb4332a61f0d2e7ef6dbc33",
+        "url": "https://files.pythonhosted.org/packages/54/3c/a8400e471b3413c83647f38fe7e394c50d4af34f9f995c0125e230ef9336/permset-0.21.tar.gz"
+      },
+      "0.22": {
+        "sha256": "4a986582b2c434a04deee3766c382259b2f8d5481f96f37a0249775390d22406",
+        "url": "https://files.pythonhosted.org/packages/da/ba/3ae01ba7a332f17dac4fd87d161378e6da9f2766ac0dac20d75013942c7e/permset-0.22.tar.gz"
+      }
+    }
+  ]
+}

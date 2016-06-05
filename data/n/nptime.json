@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4.1"
+  ],
+  "meta": {
+    "description": "Extends datetime.time, allowing time arithmetic",
+    "homepage": "https://github.com/tgs/nptime",
+    "license": "3-clause BSD"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "bcfcc9316df799585dac8b4203c64a350b75deb89ca5818d6d2bc0b3113cd560",
+        "url": "https://files.pythonhosted.org/packages/5d/0c/f8366df0be5bb5c76576f77ffebc902af004ffa11dd8a4a9a582ee46f082/nptime-0.3.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "158b8dd99eea6feb5c785432a2b05749807d5e4365c8f779f2363fed26294f63",
+        "url": "https://files.pythonhosted.org/packages/fc/cb/f3ed8f8ac7997cd8ddec92aa21dfd5121a3896135b7c52f694435f7a6df8/nptime-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "f03e35bb1d198366bc4673bdfdfe19334df894ba7d4fbf27a2c1054e29947188",
+        "url": "https://files.pythonhosted.org/packages/1f/5d/a679e97f5849431da34f1b59502fdaa2080d819d1f1240f16643e79dc326/nptime-0.4.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "3.5"
+  ],
+  "meta": {
+    "description": "MDP is a Python library for building complex data processing software by combining widely used machine learning algorithms into pipelines and networks",
+    "homepage": "http://mdp-toolkit.sourceforge.net",
+    "license": "http://mdp-toolkit.sourceforge.net/license.html"
+  },
+  "versions": [
+    {
+      "3.4": {
+        "sha256": "13af021b5e10ada1de977b78c077d4d2350e2ce86ad3c52d2dfaa1cda25ab7b0",
+        "url": "https://files.pythonhosted.org/packages/01/78/07421384f7f2976e91c9e317ca53ee0e5ac3ecf1d1fc37cb81f8cfaf7cde/MDP-3.4.tar.gz"
+      },
+      "3.5": {
+        "sha256": "33f13804d32a2430caeef04f5cf3a11209a854ab78f5686b75cff4ed6bff812b",
+        "url": "https://files.pythonhosted.org/packages/5d/2b/e9a6484ac7f1aba44270898ff39443e4206efa64fb934d3ca5cbdebd3865/MDP-3.5.tar.gz"
+      }
+    }
+  ]
+}

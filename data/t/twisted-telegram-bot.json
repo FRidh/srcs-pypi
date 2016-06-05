@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.2.3"
+  ],
+  "meta": {
+    "description": "Asynchronous Twisted-based Telegram Bot API for Python",
+    "homepage": "https://github.com/unintended/twisted-telegram-bot",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "566d752f5d7a3903759794c449a36a992b199d9dfc0632c55d1649140cbf9adc",
+        "url": "https://files.pythonhosted.org/packages/aa/39/61f6d9b82710974db1889d69e2ccd19b08788e3693c540b4cdb74e2709df/twisted-telegram-bot-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "7609566440f545d97a9dfea7a4e88e77a5f6c560963542b1357e59c167d84966",
+        "url": "https://files.pythonhosted.org/packages/aa/ef/7afe263acc4e658b2d3e59d783f21ad8831cc27e89060846cde5b77e4413/twisted-telegram-bot-1.1.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "61f9c2ee8735a713213e6ec6e820f9accc7577c08b346e19e8461a88f1a23b29",
+        "url": "https://files.pythonhosted.org/packages/ec/b2/ca19e439d7834f1ab2e54d5eeebc15774ec52a399901e7152f7cfb49f5b3/twisted-telegram-bot-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "ac1c756ae0008e6ac795db0dfb52e668832328bcb8e3686eadbef5eb08ff36e5",
+        "url": "https://files.pythonhosted.org/packages/10/14/9ecd77aef7f55897e265f16599cff0dc9f8eefeb083f4df5a2a612569064/twisted-telegram-bot-1.2.1.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "13fb5d44f619e7aaa2de92c03476bcf6e11fca886e8671761a6f7d3c75cc2efc",
+        "url": "https://files.pythonhosted.org/packages/55/65/62868ce88de1c4e311c199e79ce8fb5a34c5f2e8d23e72ad1da4ce7d285f/twisted-telegram-bot-1.2.3.tar.gz"
+      }
+    }
+  ]
+}

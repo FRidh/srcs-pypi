@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Phoenix database adapter for Python",
+    "homepage": "https://bitbucket.org/lalinsky/python-phoenixdb",
+    "license": "Apache 2"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "0df920e2bc87194b3133bfa2fb4fcf5bd0ede43d99e25b6c0d60ab1f68b6e455",
+        "url": "https://files.pythonhosted.org/packages/b6/8a/3fc9a6b725fd8c6b31d74f992f057a2d2846cc79564220bec31ebbfa931b/phoenixdb-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "c177187ae228b5033fe89df0f3b24afd0fbe52e648a92eb1cb0b9088c0c61977",
+        "url": "https://files.pythonhosted.org/packages/41/b6/d49e3c5461ff4228999156a3e77aa5d80e958934db18281bdea9285c59ef/phoenixdb-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "de4a108601e23949aea3172270fec8f48fe091a7588683ff09f82f7a8f38f6ce",
+        "url": "https://files.pythonhosted.org/packages/49/81/c82a898868b808a56d1fcd58ab988b190837b662ff62bef598a781088b53/phoenixdb-0.3.tar.gz"
+      }
+    }
+  ]
+}

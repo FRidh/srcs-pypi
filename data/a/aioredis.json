@@ -1,0 +1,74 @@
+{
+  "latest_version": [
+    "0.2.7"
+  ],
+  "meta": {
+    "description": "asyncio (PEP 3156) Redis support",
+    "homepage": "https://github.com/aio-libs/aioredis",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.2": {
+        "sha256": "3f712d7a367bb7d265bcb97b141e998f899c319665ee664862ad0d35ece50889",
+        "url": "https://files.pythonhosted.org/packages/05/b8/43ccc6a45a674522f2b97155b66cc107aa4fad5c80ec582bf778ac9e2b57/aioredis-0.0.2.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "777aff145eb63f42ed1cdc2611370f59f9872482bbf94b77aac05506f92010b7",
+        "url": "https://files.pythonhosted.org/packages/b2/03/62fa6ce4f1f5d55914a4405f33e7cb2927d7c0ad37bac0107de1676dc9db/aioredis-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "db9a37e69a86bf0f602c2f3e8d8015fcf5b10d1044b95bc2107342522d745939",
+        "url": "https://files.pythonhosted.org/packages/21/5b/519630e10d924fd50030f2cca028a53b10e38515007e562dbe6cb7721bd1/aioredis-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "70c68d8c538fa0d4915f120a8224b21c3f02448cef740f004fb60ee0c11c7104",
+        "url": "https://files.pythonhosted.org/packages/dc/69/fd9dae72b73e71a3395985a72409b31a0054a0e169e30b284d65e1a3cd07/aioredis-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "b7e3e1aaff9706e31a3908b5b71143b5896b8befe9acf23b63fd5e1dae90cccc",
+        "url": "https://files.pythonhosted.org/packages/e1/6b/ead4c2623aa8120090b2618e13792280b4cedd3e4fd0f8e1677edd90ff49/aioredis-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "c46e249b57a83402d389885e09027356e8e1914f45385e927d3c4a3934465f27",
+        "url": "https://files.pythonhosted.org/packages/a3/c0/93096aeea7e84933c62e1d2c63aa3d5110c3e35e5eba9adea4f53992f96e/aioredis-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "14c79be5fc4304127880216a1223719a081105637ac4f63779917fb06aa8a8b6",
+        "url": "https://files.pythonhosted.org/packages/27/2d/4c86df966d215430a0de45be227d0cf0f646d7acc9d91838fec73164f7e8/aioredis-0.1.5.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "9c85d791db0e99aa1a9508df02459b983bd16a6d4c11e9082bbff10014c218f0",
+        "url": "https://files.pythonhosted.org/packages/31/2e/367096cfc37c9f0e2f88dc8f668972ab96c5a6b6467cb261dbfa35fcd9fb/aioredis-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "767f0c990f7b757fa139b1d404c8d6fe849f2609ddae72068908890028cc7b52",
+        "url": "https://files.pythonhosted.org/packages/9e/5f/df968653e9c545443e4604f3a40b08389918fe924e5b6db5c8b420ca3fb5/aioredis-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "15f7911146709dc32c836a1095d46955e91f8d62d383eceda67d634a58f4c5e6",
+        "url": "https://files.pythonhosted.org/packages/b4/b7/065451022c6a8fb46dd70a18a92d0a8f2e3472f9da75790eecd292716c52/aioredis-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "22b121cb830621fa3706e811d6d0ea32d7d29f7817f86fa591c6d3cab0d4ed7b",
+        "url": "https://files.pythonhosted.org/packages/66/5a/a35f0084730133c4eae3681293073c942e5b4d3ae377bdfbe2519e1b0919/aioredis-0.2.3.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "6991d143c107a6851b8320c529c939b9004af81db03836cec19abc4e9bcdda0b",
+        "url": "https://files.pythonhosted.org/packages/32/70/3a7b627303bf729c8503980c7ec93ca417a00382817c19f80b2d2e896585/aioredis-0.2.4.tar.gz"
+      },
+      "0.2.5": {
+        "sha256": "7544031b818142b3fe060f6f8bed92327e22a8c76b5f620dc444a578b68870e2",
+        "url": "https://files.pythonhosted.org/packages/a3/8c/996935f69198dbf8778291f294554352060d0910d614261b0177f6849fe9/aioredis-0.2.5.tar.gz"
+      },
+      "0.2.6": {
+        "sha256": "70625da10886f852bf06f7366c5717c3d4da17ff43a85649af55dc60e772983c",
+        "url": "https://files.pythonhosted.org/packages/cf/fe/29e2fbad688035ee5d5b0e76575e4431092fd24d225c39181564bf860135/aioredis-0.2.6.tar.gz"
+      },
+      "0.2.7": {
+        "sha256": "32f563ed897a31981b115f7e1b7cbae3ba01c4015eef4a3aee6470641370e1d0",
+        "url": "https://files.pythonhosted.org/packages/a6/a5/63a21921db6241369c04f4c3b7aa757e1a4e30cbd441c4b9e93ffe6c6e82/aioredis-0.2.7.tar.gz"
+      }
+    }
+  ]
+}

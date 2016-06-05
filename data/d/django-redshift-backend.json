@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Redshift database backend for Django",
+    "homepage": "https://github.com/shimizukawa/django-redshift-backend",
+    "license": "Apache Software License"
+  },
+  "versions": [
+    {
+      "0.2.1": {
+        "sha256": "41ba45b62dbe8f295e62a1eb46e9bb27bc4f25d42b15492cb5bcf072b06e8904",
+        "url": "https://files.pythonhosted.org/packages/30/26/fdb2d52339273851bc3f27b38e614a3bf0d924f2dcca52004609fff52dbf/django-redshift-backend-0.2.1.tar.gz"
+      },
+      "0.3": {
+        "sha256": "a581496a9005a54dd3624bff89a9ee3938bd4bd14bc4c1433a11af19c33a5ebb",
+        "url": "https://files.pythonhosted.org/packages/53/a7/50ceb7dd7e74a2f76cad73b4f65698fc4d67d118f0c167279f7bc35c6e73/django-redshift-backend-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "c6ceae1cddd97658725f271ec16e3c37097564cf7b6d5f4a4d8671497d67b6fa",
+        "url": "https://files.pythonhosted.org/packages/dd/bf/0803d9f5182d76c5c07f4165a31ce3337a04e76df2370ff92051e631ceff/django-redshift-backend-0.4.tar.gz"
+      }
+    }
+  ]
+}

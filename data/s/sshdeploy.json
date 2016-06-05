@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.1.4"
+  ],
+  "meta": {
+    "description": "Generates and distributes SSH keys",
+    "homepage": "http://nurdletech.com/linux-utilities/sshdeploy",
+    "license": "GPLv3+"
+  },
+  "versions": [
+    {
+      "1.1.0": {
+        "sha256": "00c4447c1ec857aea21402005e5b2674fc93ba0c41e43c9acee9c7c4353e59f0",
+        "url": "https://files.pythonhosted.org/packages/8d/d5/50c29a71c3b77bc6c05aab58567c69e5075e66ecc348bf6d2773c436156d/sshdeploy-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "5b615c5cca80ef30e3e3e030619e81954595951b6b9973c33db593f40df5a521",
+        "url": "https://files.pythonhosted.org/packages/6e/fe/1144e3663a68adf8885a519ffcffad2700bb61fa4f769c32460918dc2b32/sshdeploy-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "1a45e02145a41ca0efa578dea9b33c9e775632f1885f38d5e693af23dd34de0a",
+        "url": "https://files.pythonhosted.org/packages/d5/2f/467d60ea07dce43906cb4f39297956b2e69634474e363ba08c1e8062627c/sshdeploy-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "7323bea7e35544911512584dc505f2764e7ad3f6384d6e7416db402c0eb101f6",
+        "url": "https://files.pythonhosted.org/packages/30/52/d8bedeb960117d245d4a320c261d22d6d201bc6167bb041b4235130a9cdd/sshdeploy-1.1.3.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "2fd9934aed4a6c37dadc609f64b6e28ea45cf9073e7ee62f304cb9cfa3b47140",
+        "url": "https://files.pythonhosted.org/packages/39/a2/603a63c494a9f45eecdccf043e71f5e0b3581df225ba995d0dc7ee5abce3/sshdeploy-1.1.4.tar.gz"
+      }
+    }
+  ]
+}

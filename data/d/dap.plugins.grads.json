@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "GrADS/GRIB plugin for pydap server",
+    "homepage": "http://pydap.org/plugins/grads.html",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "03b2baba37e2ba0d16cceb9ec087655ff27c68b090dedcb42988a92b31bfe3a7",
+        "url": "https://files.pythonhosted.org/packages/86/95/f42ecab76a8a206255bf38fa4744850aa0f7942c23b4b0c564e3bfa4108b/dap.plugins.grads-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "9982b4c00e008f38f07cc01aeb4de3a2d7dc851e32194b2d21880ef8d09b001f",
+        "url": "https://files.pythonhosted.org/packages/c0/93/13f88f1d6086e95c7ac0f4a6ad976f4a0883fd7bc4d4d9bb2e326762fa8e/dap.plugins.grads-0.1.1.tar.gz"
+      },
+      "0.1dev-r201": {
+        "sha256": "6ac3c9908c8b18eddcd8625482bb96c2726c5dc1ddc9735b62aa8f10e160e4c4",
+        "url": "https://files.pythonhosted.org/packages/32/0a/5c69125f136b7ca6075160e0a82a6e1598f7e79f20cae34b2bd58f087a01/dap.plugins.grads-0.1dev-r201.tar.gz"
+      }
+    }
+  ]
+}

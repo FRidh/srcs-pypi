@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.7.0"
+  ],
+  "meta": {
+    "description": "An async beanstalkd client for Tornado",
+    "homepage": "https://bitbucket.org/nephics/beanstalkt",
+    "license": "http://www.apache.org/licenses/LICENSE-2.0"
+  },
+  "versions": [
+    {
+      "0.6.0": {
+        "sha256": "cb695fa1e5c48f2d140f54a732213f3bf7761ddd998bb0e7f104b03385544879",
+        "url": "https://files.pythonhosted.org/packages/96/f6/237b8a7ff3e41a23adc951206ff1f1204542ae129f0e322073fb04a1716b/beanstalkt-0.6.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "49a21984b670aa53df6d19236630c5219432e436cac12a8b4e5e83dcd4309e8f",
+        "url": "https://files.pythonhosted.org/packages/04/4c/26ef932cac3f13726f30cded4ac39107bc35c9bcf6fbf1e0b87dd7d2109d/beanstalkt-0.7.0.tar.gz"
+      }
+    }
+  ]
+}

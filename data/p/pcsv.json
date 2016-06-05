@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "This module can be used to handle comma-separated values (CSV) files and do lightweight processing of their data with support for row and column filtering",
+    "homepage": "http://github.com/pmacosta/pcsv/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "2081452caf48cf47feadc1252e3e7b365373a028dcb47e0642e6cad227916f0c",
+        "url": "https://files.pythonhosted.org/packages/f4/49/cbfeb82fc01a1d92ad27283415e5668354a0f9a56e94421d7a5e86e1eca4/pcsv-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "edbec309c018c72bc0209597d6126bbe2e386fe3681a5813f038a1f4422b3d84",
+        "url": "https://files.pythonhosted.org/packages/60/4e/f4bcd3106be1e0f27f17f116ae0ec53b1637d2e6237358457bb9a0979689/pcsv-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "3bc64604ca3aa8f463d1b95f4fc8887a1b003335e263e2b2e9d7ccc57e52ec1c",
+        "url": "https://files.pythonhosted.org/packages/c3/9b/db87a1b7c2c99cf5c372457e3a29e23ba5c24a277d8f89f61e2b9727bdb2/pcsv-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

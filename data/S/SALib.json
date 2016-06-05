@@ -1,0 +1,54 @@
+{
+  "latest_version": [
+    "0.7.1"
+  ],
+  "meta": {
+    "description": "Tools for sensitivity analysis. Contains Sobol, Morris, and FAST methods",
+    "homepage": "https://github.com/SALib/SALib",
+    "license": "The MIT License (MIT)\r\n\r\nCopyright (c) 2013-2015 Jon Herman, Will Usher, and others.\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy\r\nof this software and associated documentation files (the \"Software\"), to deal\r\nin the Software without restriction, including without limitation the rights\r\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\r\ncopies of the Software, and to permit persons to whom the Software is\r\nfurnished to do so, subject to the following conditions:\r\n\r\nThe above copyright notice and this permission notice shall be included in all\r\ncopies or substantial portions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\r\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\r\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\r\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\r\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\r\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\r\nSOFTWARE."
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "2041a5c5e62d9716bdc879eed0f5aeb9c79a66191c6ebe745f04365b371b13fa",
+        "url": "https://files.pythonhosted.org/packages/e4/5f/55a8668351c4db0e3f2fc5d377060b2d2dbe228b3c49791d06f07f6c5cdb/SALib-0.1.zip"
+      },
+      "0.2": {
+        "sha256": "4ffa7fc0bbc0cccfaef2e9549093277842ecbfc09b3a8c9a509672406f7a4861",
+        "url": "https://files.pythonhosted.org/packages/73/0a/15f9d8c8d8e517f83127d29a25c09cf56468d3b990808fea5fae290c8a72/SALib-0.2.zip"
+      },
+      "0.3": {
+        "sha256": "1e7642605b5c943ee53626bc6d189029e92730df26a235f1ede650503e342c2d",
+        "url": "https://files.pythonhosted.org/packages/82/58/d1166fbf24e054ca2d064b51fd86b853db24bb62b109598bee9d22603ed5/SALib-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "c9417fb477d754ff8dd8f4e5794ad0eef485794ed9279a2be4930d3ee91a3dd0",
+        "url": "https://files.pythonhosted.org/packages/35/31/4b9840960964e80871c2de4f39e119ac8eeba98113251bc4eab2b89b69ab/SALib-0.4.zip"
+      },
+      "0.5": {
+        "sha256": "55040ecf46fd007901bcf33e561de0262cbc343ebff4d81115110148359d0f5f",
+        "url": "https://files.pythonhosted.org/packages/ef/7b/56556fca1248b74a64851c68110ddea5fb3d0889783ff617b2abb09f16ef/SALib-0.5.zip"
+      },
+      "0.6": {
+        "sha256": "10d32956e463cc605f37dd1c3b6a5f114b982fc39df62afd1188f620bcfa3a09",
+        "url": "https://files.pythonhosted.org/packages/55/38/1c7afdae7089ddc58220a0d7596c25b6edce6883deed2412a0f5ab0edc7b/SALib-0.6.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "fc887cb90f313e18077ecefeab5d7dafa2d8387e840dee44f77f50fe9e93fab7",
+        "url": "https://files.pythonhosted.org/packages/f2/01/b5deb827d43fd314040bbc32d492d4ea87f51d9fe9720757c30a7378ec3c/SALib-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "a48de988ebc1596fb8b3bf3eba13f0e04eac775afad51b3801926ff9d69cc2b7",
+        "url": "https://files.pythonhosted.org/packages/79/8d/f216bb02f5764de45a49ecab71c41aba533bcf3544e1f983ba8781e065df/SALib-0.6.3.tar.gz"
+      },
+      "0.7": {
+        "sha256": "b144225f2ea82bd2d4be6c57da3679dcf6170e0f265008f694cac19e0254c327",
+        "url": "https://files.pythonhosted.org/packages/57/9a/675cea8c9a1581a10e4209578003366ac08351794554eddf21234a1a8e93/SALib-0.7.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "9072ed8866d4936cc39fa8d5f18b8cd0b7c70d48156c7b1c9885924283779613",
+        "url": "https://files.pythonhosted.org/packages/dc/66/ab52cd473f1eaee49be3f21b7b4957a8ce9abe5d2252bb906acf67e61918/SALib-0.7.1.tar.gz"
+      }
+    }
+  ]
+}

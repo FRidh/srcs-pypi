@@ -1,0 +1,358 @@
+{
+  "latest_version": [
+    "2.3.5"
+  ],
+  "meta": {
+    "description": "Regression range finder for Mozilla nightly builds",
+    "homepage": "http://github.com/mozilla/mozregression",
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "ccf2f4baffe30ca4b3fe5bcc87e88e7ae0fd83cfed9575a5ed79789b22beadef",
+        "url": "https://files.pythonhosted.org/packages/bc/55/f16974e697ffdd6aeb0a5f36857434409f5ca08cba9daf72cb17527a924c/mozregression-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "2d89b64ed22b2482a77013b54a0ee41cbfe9b2599517ec7acd24f5c28d058de7",
+        "url": "https://files.pythonhosted.org/packages/01/71/bdf1dcc83d0d29245838384f121a4e94e411bd7d67fe091b02898de8208c/mozregression-0.1.1.tar.gz"
+      },
+      "0.1.10": {
+        "sha256": "17424b6440bd7e671245e485ccbc490f41fc620d00d72cd8a56ad0de751f6cb1",
+        "url": "https://files.pythonhosted.org/packages/65/27/eebd9afec020ccc2d86fcaca1469b3de007cdbfb75f5054b5216c26dfbe1/mozregression-0.1.10.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "30aacb8b7b06bb8b82dc8a2f4cbe96002341c5a7437625478f9c956ae7e112d0",
+        "url": "https://files.pythonhosted.org/packages/f3/d3/30415792e78103dd9475ab46142c0ffdf11161135b369a16f7da47484f5b/mozregression-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "38feb70889e7c5155e2a30437408525b9ac3201ade32050add1bd58ad9105eda",
+        "url": "https://files.pythonhosted.org/packages/89/c6/5235d06bd7ee162cfdaa892ad1c08c3908706843037215a281e4219152a2/mozregression-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "f8e2081d735fcb8938ddaa3d699036f018a91993e8bd3091d1b62672b771ce0b",
+        "url": "https://files.pythonhosted.org/packages/c5/08/5b0ab49501ef82493779ea05c657efc379bac94c8258457382b5ef8531fb/mozregression-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "fa563631f754304e9c096261d1350b36ae130eeae8d7436e2f385d8db65f0f02",
+        "url": "https://files.pythonhosted.org/packages/d0/51/a83e05c78302c5faedcc036ecfda645ec12e7cab2eb69b885884951f6dc4/mozregression-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "898acf63e4ae1a0756226698d991d8ba5c01d766b6d97b3fa014d8d1ad520023",
+        "url": "https://files.pythonhosted.org/packages/92/a8/901503ce8f62adac14dbc0fc41cf0a093f46a192be21bf9caaa2f20647a1/mozregression-0.1.6.tar.gz"
+      },
+      "0.1.7": {
+        "sha256": "8c41e95988d2f291bd24a016fad09392e1950f11147a2647350c5a5d9a3f74cf",
+        "url": "https://files.pythonhosted.org/packages/f4/da/e67485da1f5acb6606ea0049ea013e4d8e754d53efba7cb1810d1be9f5d2/mozregression-0.1.7.tar.gz"
+      },
+      "0.1.8": {
+        "sha256": "3393d1df94c25383d9bd862ad600aa2030a77154c6f573f53fb06122a158d551",
+        "url": "https://files.pythonhosted.org/packages/e4/db/bbe06aa4e6c2ec22c1b09c9fc754eacc9d4d9cb23e8f2373fbf686c68463/mozregression-0.1.8.tar.gz"
+      },
+      "0.1.9": {
+        "sha256": "597b7fccea22c5d27d858042f84e24cae0478f6ef19e422d5e2cfbc2e099b224",
+        "url": "https://files.pythonhosted.org/packages/a8/fd/f04e44ede1e051e506dcc0d3ec722d31d9bd53e08090d87ef4242000e907/mozregression-0.1.9.tar.gz"
+      },
+      "0.10": {
+        "sha256": "f448ebc26084d4579ae0c1757b7a20e36d80509833cb3597241403ab75e15c7f",
+        "url": "https://files.pythonhosted.org/packages/3a/d7/b028b5346ffa197ef6f67a7bec33bbac35ff1069c81b65d9fc7a765d8317/mozregression-0.10.tar.gz"
+      },
+      "0.11": {
+        "sha256": "32522e68217907f0930b5de390a397eddf733b8745a23ad08df547187c4ead14",
+        "url": "https://files.pythonhosted.org/packages/07/cb/87741f9ca565db8962e6e4129989ecfc82e9c224721ae895af5f25a16cd9/mozregression-0.11.tar.gz"
+      },
+      "0.12": {
+        "sha256": "08c165c0328811d7539767ab2fc5268b07c1264144e1082c69b76414c62c454a",
+        "url": "https://files.pythonhosted.org/packages/b9/8c/659aea0f6b0770d24779c8a884f22068372618fc4efd029f22195b91ffcd/mozregression-0.12.tar.gz"
+      },
+      "0.13": {
+        "sha256": "4b91a4f01c93da08be6c704398abd3eb1140bec7869c535e95bcc88dca3dda4d",
+        "url": "https://files.pythonhosted.org/packages/b1/fe/f8561c1130199616d86ac5b72b7900dfab251acc51e9daa50ddf64c930f4/mozregression-0.13.tar.gz"
+      },
+      "0.14": {
+        "sha256": "12cab9b0697c5fd6b2bb1167fdfc727e4e845db67a1c11588203ff3cd94946f4",
+        "url": "https://files.pythonhosted.org/packages/a6/fa/c5da6c037b9900fd77cab71cf8b88f65cd7f1209b306b361925a25ec0ce5/mozregression-0.14.tar.gz"
+      },
+      "0.15": {
+        "sha256": "b82bb2bc7b5a8e51c8b4a082681df6df1ab7d7eae82d83fad7521784bc534e1a",
+        "url": "https://files.pythonhosted.org/packages/a3/ac/2572fb2249394248976a8dcb622097830372fd550dbe076ea87feba06cdf/mozregression-0.15.tar.gz"
+      },
+      "0.16": {
+        "sha256": "4b6d90a6762af7ee64f7ccb7c90fcc73627b75e15cb1ef109760697cc724489c",
+        "url": "https://files.pythonhosted.org/packages/b8/a9/d801b89958711d638d8b855393658262dc6eb62c90dd118225845bd75828/mozregression-0.16.tar.gz"
+      },
+      "0.17": {
+        "sha256": "0c0e7a532cc28ea297d63cee3fc47e8e4bf69ab898cc292c2e0dd7692c85aea7",
+        "url": "https://files.pythonhosted.org/packages/f9/8e/fef43a0e6d3e3edfb5657b92991bf530fcce1007522617f49d0a68fa61b3/mozregression-0.17.tar.gz"
+      },
+      "0.18": {
+        "sha256": "9ffa22b41a7fcee960d5da92d62c3d3afa06f8beffa24b32b332a5077a3cc392",
+        "url": "https://files.pythonhosted.org/packages/4d/e3/bc47775f84eacbb55ac6727b8186128fbcf1a000172ee73b4c11334b6eb8/mozregression-0.18.tar.gz"
+      },
+      "0.19": {
+        "sha256": "1d512ce9f96c54287be24ae5632222aaf135519b12bffe1f1444d1532021fddb",
+        "url": "https://files.pythonhosted.org/packages/3b/32/65397d0e5a5beea7b614c2bd8d4dfffc9c7eb371ef7c839e7bae1530dbdf/mozregression-0.19.tar.gz"
+      },
+      "0.2": {
+        "sha256": "bfd1c24ba707eec4e1d52d9a5e9eb3b35ba5bd7542c3c321ca8f08616a9ffe8b",
+        "url": "https://files.pythonhosted.org/packages/df/7a/e531610f5e3e569424d21e888bd482bb36a182df30b6060f2ee6137ad4c9/mozregression-0.2.tar.gz"
+      },
+      "0.20": {
+        "sha256": "7a57143153c6901dfd8b033b669325fd29d63ac024727cade624ec29e5fb3ade",
+        "url": "https://files.pythonhosted.org/packages/a9/83/cc0583422cbb47177d0823bbe80de1f5384a2548c6da3cd8025c8c7f18dd/mozregression-0.20.tar.gz"
+      },
+      "0.21": {
+        "sha256": "8eb20fe8defcf776df9745088e00b930fd84536309748ba4da10dd3de0ce5248",
+        "url": "https://files.pythonhosted.org/packages/66/e1/8526e28b8e0096e54a9662525ab1fe8f9a08b6dcb030d237a9b7dbb0c4b8/mozregression-0.21.tar.gz"
+      },
+      "0.22": {
+        "sha256": "b565d70bdc3296989924057293fb0edbd3b617394cf8e591424596aa4e19c54e",
+        "url": "https://files.pythonhosted.org/packages/a0/e4/5b583559d722cd89257d331889ec7f40bcc18f2b7ac105fa5f6a6497c5b4/mozregression-0.22.tar.gz"
+      },
+      "0.23": {
+        "sha256": "4e8343720e4f90102dd36f670a3ef4ef85a940af509ef151389213816daeeaee",
+        "url": "https://files.pythonhosted.org/packages/6d/89/b154044b9910a5648f013fde67e4c9bdf51369210be3696417d4f6c5ebf8/mozregression-0.23.tar.gz"
+      },
+      "0.24": {
+        "sha256": "3d809ecf59d544adc62ef7c3bc9e3904173c2497926905f1dcab5e058f13945e",
+        "url": "https://files.pythonhosted.org/packages/54/79/6efd2a1ccccb0dfb39210c9ed245c3ad537830a0c75be668c7b7072e511e/mozregression-0.24.tar.gz"
+      },
+      "0.25": {
+        "sha256": "d07236731dffcc951069a4d7bafa5994519828ef668bb85beea80f7a4d7deb90",
+        "url": "https://files.pythonhosted.org/packages/80/af/11c6e35c43064aace42e1ab18069c858eee9388e97d6427ebf7f219ed1c2/mozregression-0.25.tar.gz"
+      },
+      "0.26": {
+        "sha256": "ef19dc470d9269a0c4a32b87128eb4b766a00941ca1b3e71dc6ae50d419ebd81",
+        "url": "https://files.pythonhosted.org/packages/6a/fd/4e105e4b8fede8957408d1cfc1d7febc608334501e57d50182cf763bd746/mozregression-0.26.tar.gz"
+      },
+      "0.27": {
+        "sha256": "a133ae2669fda358df1b425718dd9350361471f09cd0aa57762c96cbc5961c4e",
+        "url": "https://files.pythonhosted.org/packages/70/be/ff6b787a65f822c04c3af57000f7dc69ad4465a2b4d74bd4da8fc8593e0a/mozregression-0.27.tar.gz"
+      },
+      "0.28": {
+        "sha256": "8d5c4ff1ee0e069a4cfa575e2f2a492513c9455efc19ad325338201846154a2d",
+        "url": "https://files.pythonhosted.org/packages/96/31/11e5009c57fb9ca1a68a638de92584f9665ff56e2cb04ff620546d7c1b01/mozregression-0.28.tar.gz"
+      },
+      "0.29": {
+        "sha256": "f156142b4b5ae6028372e724ee96c9f344ab6ab77ce0c490dc9a8db4f0270024",
+        "url": "https://files.pythonhosted.org/packages/8a/5d/f8ef9b44e98bd0b7b71d27be3af9c21bc98bb00b1e21f434388b79b76279/mozregression-0.29.tar.gz"
+      },
+      "0.3": {
+        "sha256": "f74e3ad43f411c0283fe12d8be61f8138c671dc59571e0b15cc9937958df42f8",
+        "url": "https://files.pythonhosted.org/packages/bf/ba/ff82b2fda9b77f5d4d7041bf95df6929103b18fbbf07a1506ecd890c1ea2/mozregression-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "27c7720fbbec00367b4683d485e369fb72e1b02adfb6abe33366bac12d48e418",
+        "url": "https://files.pythonhosted.org/packages/f7/f6/a38bc50d9b234434e7c9389c40c1c054f0b44b281a74eaf414aeb37d6594/mozregression-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "6f3a475e377d9ef03ef0bff324213e832f56b7b71cb862d861e6aeb9ab2ccd16",
+        "url": "https://files.pythonhosted.org/packages/98/b8/6b8e68096257ec0488b3ce3799280858cedadc5973a6a19cb6cf5c9aa1ad/mozregression-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "21f7fc46f17b6c67de3aa74834c4958afa36d89494303ed04083dcebd328a905",
+        "url": "https://files.pythonhosted.org/packages/5b/88/5e07fad0da782d980f12ec5baf73c14d6fbf5b9ce72e56f12eb9fd390185/mozregression-0.3.3.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "5ce11d54ee56475687b6b8c30511a8c2ff5d62015daf7ab0b180c10fd38d1bf0",
+        "url": "https://files.pythonhosted.org/packages/f0/49/8d8d39ba4d5784957a554324507edfa40616df0d7e33deff2be10919ec6f/mozregression-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "6105f6cb805455ebaede098ce996236a199d17c9752b69d5aa01c7802cedfee6",
+        "url": "https://files.pythonhosted.org/packages/25/cd/35434861654c900163ab9c9cf140f073396cf6cd78d197198339d478988f/mozregression-0.3.5.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "f5c50ef768a14a2819ea7afbe62d6c2db82684d13a9fd67df7dbcbbd534ec616",
+        "url": "https://files.pythonhosted.org/packages/76/4c/21f8a84b51dd5cd971b5b4a2aab4851a5fa6172d6bd0f5c5bc5f20985810/mozregression-0.3.6.tar.gz"
+      },
+      "0.3.7": {
+        "sha256": "66d690bc6751319036f17740375c7cf9185cd343abcbff384f5635225bcb4f2c",
+        "url": "https://files.pythonhosted.org/packages/cc/56/b4b21acf86e9ffa731ffed336b80775631f090b3d5b47f6fbed5b61f8cc6/mozregression-0.3.7.tar.gz"
+      },
+      "0.3.8": {
+        "sha256": "dd70e79dc31bed65ece36229b8c21d11adc0818a5774bf567b21ff576a45c3aa",
+        "url": "https://files.pythonhosted.org/packages/1d/86/922a0d8ba4f9472112f7f8102431f9ea619ee17dbd615b65f4fe0b1773ce/mozregression-0.3.8.tar.gz"
+      },
+      "0.30": {
+        "sha256": "e5e377de1536b86e6faf0b2dcc137b18bba549cfc0ff040e65df92ebaca9f7d1",
+        "url": "https://files.pythonhosted.org/packages/a5/6b/232efb85d420984750d0f13ace9ca334b71499f465aabb68da271dd8b0a0/mozregression-0.30.tar.gz"
+      },
+      "0.31": {
+        "sha256": "02b04cbccb298cf400de600eb9857ebcee692cbbb6d8de8f7fffa2ee09e1e87f",
+        "url": "https://files.pythonhosted.org/packages/04/ca/80240b5d698971c506e9558ea186a36d9d2428e7aa3cf2af256331b85cb4/mozregression-0.31.tar.gz"
+      },
+      "0.32": {
+        "sha256": "1cc013cc9cc0de8d8abab14720e777d5aee6b65768287597427c70ab0fc7e574",
+        "url": "https://files.pythonhosted.org/packages/f4/9f/5ec352b3046cd8f91de411e455bf32966bfc762c11c463d5705f3e31c2af/mozregression-0.32.tar.gz"
+      },
+      "0.33": {
+        "sha256": "088ace364b474669f3b1f2686a6e8cabeda5f53a8747647885591180d7f8eb88",
+        "url": "https://files.pythonhosted.org/packages/1a/8a/53144895c91cae06d9f95fe210eaf02f2556b93abdde70ae25b840038faa/mozregression-0.33.tar.gz"
+      },
+      "0.34": {
+        "sha256": "f780f62e249f8ceafa23c202bd686f6123d8d1741f05d15e65efd18fbdc78389",
+        "url": "https://files.pythonhosted.org/packages/a6/c2/303c5a553bd94c6e1ad78edd73e4103813ff725bd85779e3b10336bc2166/mozregression-0.34.tar.gz"
+      },
+      "0.35": {
+        "sha256": "d74250e7494e7e263594ebf18eea3d5168ffb2d1e9c11d8b1b03646c98c842ab",
+        "url": "https://files.pythonhosted.org/packages/49/74/74b8cfda0688f00449890d98f9603b9e044695332e900ae8db79ee665eaf/mozregression-0.35.tar.gz"
+      },
+      "0.36": {
+        "sha256": "194c4911e26003f1f8e7f71d745435059df05108b3928dad7c4ac80bbc946713",
+        "url": "https://files.pythonhosted.org/packages/e6/df/19e6a5e0d97051cdd347a5d6d8313c12693a98bff10b930397f2decefc7d/mozregression-0.36.tar.gz"
+      },
+      "0.37": {
+        "sha256": "379db1043e9d4820399dee6b53de6b0facfaa08416f30836417c9a627a26fcab",
+        "url": "https://files.pythonhosted.org/packages/43/56/29982b7cdf107a2d223b058ff6291fc2176284ee527ce0016ea69fe4dd4c/mozregression-0.37.tar.gz"
+      },
+      "0.38": {
+        "sha256": "ede5651530fd9c52468ab7b30519f7fb7b388f635c26c17afa4ef11bebf6e049",
+        "url": "https://files.pythonhosted.org/packages/39/a3/12e8df317fbf733fc6d326c714908b92de196d2293a89836a1981e7857a6/mozregression-0.38.tar.gz"
+      },
+      "0.39": {
+        "sha256": "17f59916a13ac0834cc08c60d97f579580205b5bb5e94d41137c313e08b5501f",
+        "url": "https://files.pythonhosted.org/packages/ba/8b/92502c914d56605680a445778f510bc8d48b6025f62c5a5ab08bc3e03017/mozregression-0.39.tar.gz"
+      },
+      "0.40": {
+        "sha256": "a5f136d782a7faffee832d5c93e7e2065c9aafcb7f773018bf70b4e202aeda99",
+        "url": "https://files.pythonhosted.org/packages/6f/c5/e4ac7619b57e17f107995ba61b9888471f1c7c637b32c5e2bbd1a8c36fbb/mozregression-0.40.tar.gz"
+      },
+      "0.41": {
+        "sha256": "95bdaceeb94437d4258f0badce7f26ad8f092814ee52ff86b1a61b1a57842592",
+        "url": "https://files.pythonhosted.org/packages/a8/09/726b642041ce8805725137c2c36e844187e3fcaba1adfb493150a07bb603/mozregression-0.41.tar.gz"
+      },
+      "0.42": {
+        "sha256": "cd04bae8800f477a09fb59f945ee808298675a83755568445cefb3221b4802cb",
+        "url": "https://files.pythonhosted.org/packages/76/0b/837d18bb44e8e1cb0d6770c52b4bf9d890778257a896d4dec37c20db07a2/mozregression-0.42.tar.gz"
+      },
+      "0.5": {
+        "sha256": "9556fbbf5c7d38546b025e496f5ffcea095ee12e979c8609da76932f5b00ed14",
+        "url": "https://files.pythonhosted.org/packages/f4/8d/f54b0a4f015758f1d25c8bc6cd1b39effd676b03b3fd9457ad4233ea4898/mozregression-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "77c8eefb33098616e6805fe841c4d499c80c9c7b4476c410867609627d373e2c",
+        "url": "https://files.pythonhosted.org/packages/a7/ef/682873a3fac77ba6602fc63964c1f0384d8b1b06523fac329a3e0268c4db/mozregression-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "445a6585a8427364cdc6ba85ef15b911fb1b98034e6588cdcc49631c72c4a966",
+        "url": "https://files.pythonhosted.org/packages/61/f8/6d8841d08f257ca8d08fbd11cc4940690b8fb36a935d7937615fd5400e1f/mozregression-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "10670393d9ec28da8ebef75e81faf661208db59d27c3c7b8b24390bbe62012c3",
+        "url": "https://files.pythonhosted.org/packages/12/ea/62fa14058479ed06cbc29d813e14ffd1de09a6a271694616604cee7c87b4/mozregression-0.5.3.tar.gz"
+      },
+      "0.5.4": {
+        "sha256": "0c559e1fc74d5e453a8aa87c82073c1b251eb6003b5f2a2a9d87aaa6a50bbebb",
+        "url": "https://files.pythonhosted.org/packages/c0/1e/40f56f13489641a0507481f18fda27880040a43dec013992e0d976cc9eba/mozregression-0.5.4.tar.gz"
+      },
+      "0.6": {
+        "sha256": "7acaa730eb184985a9ad07febbac2fa3ec1952f7051354cbbcefb9fccd58b212",
+        "url": "https://files.pythonhosted.org/packages/6c/f9/9506cec539b1055739353d10086492bec0d0b7624f3afc53e877981800a9/mozregression-0.6.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "e1900553b5ea8760c94736077531adb3ef9319fa70fdfa5102abeffa20fdb340",
+        "url": "https://files.pythonhosted.org/packages/58/49/258e1046bb2e0f588d9853a5c3efbd47a1e57ee191998434a86615202060/mozregression-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "5fc7cd4c8d1ecbb784e3d8e859ea4064d90084a5d5c7b0c5f101eb7342254d69",
+        "url": "https://files.pythonhosted.org/packages/86/af/36f3a2280f87a1095d7c99163454c0b3d3be642d9782078f572302004bba/mozregression-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "e22293bc672a724499a26dac1431fd65a02a66b687b067fedb05ed36ff72e990",
+        "url": "https://files.pythonhosted.org/packages/b3/c9/4f61ebb1bc68c3d0272b8b20c213371ef52085f037f7edd93805b742c83b/mozregression-0.6.3.tar.gz"
+      },
+      "0.6.4": {
+        "sha256": "b7ab1081582663177f7fe99ee384754810ef8d93c3b88759b82ae04c5da419e2",
+        "url": "https://files.pythonhosted.org/packages/cb/51/4aa425bbce84cc811be4e4c9c1a25537ff8d9739baf435d2b320aa6e791d/mozregression-0.6.4.tar.gz"
+      },
+      "0.7": {
+        "sha256": "a2d5d412bd30dc657a4fbaf99ccfd0f9e879fe629f8932592c0bbcf7cd449816",
+        "url": "https://files.pythonhosted.org/packages/97/71/a8fa905d22f786fd2b0c3e00bae6dd3225aeee87777042237c7cf73f89c6/mozregression-0.7.tar.gz"
+      },
+      "0.9": {
+        "sha256": "d71b0e40ceedbc3167621f1356292e118f89fd45fd6e228d39399f9a9114e12f",
+        "url": "https://files.pythonhosted.org/packages/d1/2f/d091aa5ab2a56d4259d03869e4fc273c929e54df33963fcf1a8738f0e991/mozregression-0.9.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "200bd24f6a70bd056b100cceeadf4aef9810d5ecfe5f66bef833c5a16d5b7868",
+        "url": "https://files.pythonhosted.org/packages/ba/91/ac83bc5f6da361908ab2365bf46b460dfac2e9e71f5eed0de48667e12d69/mozregression-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "b062a47da7e8070c6f085df4353b9d51ff54d4c902b6e57c152dff9bee95ba3a",
+        "url": "https://files.pythonhosted.org/packages/3f/84/9adc8e528b3f4cefcd910345f398df0dcdff7cdcab7b3bb255deb7534a22/mozregression-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "eee051c00ecc05025b7fcc35588e58269d24bf477645b4f1b9b59bba94a8aeea",
+        "url": "https://files.pythonhosted.org/packages/6b/12/bba09a5ef46ceab950869195ffc936b5764255e780d6cc91f68c28da1eda/mozregression-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "08fb7836b3ee1717f20e8f88a83c2d500fb611b8160127d2e3f1e22aaaf29abf",
+        "url": "https://files.pythonhosted.org/packages/d7/3d/40d77a8b040cd9d62f017f9bd07925c4010ac8d78a0e32803dfe600033f6/mozregression-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "ef6fb3da78357f0fe4bb7a39575f2247b4857482229b0f8a4d5d5780da66ddac",
+        "url": "https://files.pythonhosted.org/packages/37/7c/615e7887a4c239ed103103a32e4d6eb373012a5feb57a008914cd45b01c8/mozregression-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "f1eb676f2003df6ff528da483b3c62d4342c5c24e1459dc0efb1ab0f7a98ff86",
+        "url": "https://files.pythonhosted.org/packages/3b/03/c7866111fc0900030213cfb5f680fea93ca3bf825be8e39077734c2d1df7/mozregression-1.0.5.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "8ff53112cd00d870a0396f9d9d8f718a664b7fd239f0721437c47ce5b3658c76",
+        "url": "https://files.pythonhosted.org/packages/78/8c/edb0bce4294ce493a5b9180ff3bbe1968c503d60056c2ca75f5c1c78e42e/mozregression-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "fbe171d8466da7f6725b7ffd14df50f6a132501e6c73740c9d12ed48c22e917b",
+        "url": "https://files.pythonhosted.org/packages/78/e6/485c8292042e23339f9007c3e05d22ce5d5a3f95e14236256de8088c058a/mozregression-1.2.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "eef0c4e6bba9d1b8247ef2769f200261ced947be9514ac250c46493a26300cb0",
+        "url": "https://files.pythonhosted.org/packages/ea/c1/559c6c5e1b4d41a7c0e185997da3782400cad46e00deb44ac060125c93f0/mozregression-2.0.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "d4a30cd38d960b893f6decce9bf5c6b9146b911bdaec414b878a81cab434899d",
+        "url": "https://files.pythonhosted.org/packages/cc/3f/e9162c6ec363a9b6f264670868dc60c57fcd46960211fe05cdae919c0f63/mozregression-2.0.1.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "95946b6d66cf55112f6c9a7027ae59218ac36e2884447796c34aebb496df691a",
+        "url": "https://files.pythonhosted.org/packages/1e/c9/a59898a89e0fb14f0d6b2a6d7bcd5fc2af8c3b1605213ce8d3feb1b81b9b/mozregression-2.1.0.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "20d2b5942dbe75d3b80d20ffb78cea82bc8ed14c258d64148eb0ac987419d489",
+        "url": "https://files.pythonhosted.org/packages/b0/43/58e57f3c648510a2ffb320f9dacc3dbf65d6c1d00167bf5963d6b006f954/mozregression-2.1.1.tar.gz"
+      },
+      "2.2.0": {
+        "sha256": "cfa8c3a95bddb307fb785cbb44c63cf6305f3289388eae5c9d97d829a00180ea",
+        "url": "https://files.pythonhosted.org/packages/a7/16/ad28ea3451d01c08ad766fdf99720250de53e372d0ed77119b6fa8970beb/mozregression-2.2.0.tar.gz"
+      },
+      "2.2.1": {
+        "sha256": "373ea80d0bb3ad6b242f54000feb49277d8a02bf504142bd6a1a9ded10f7864f",
+        "url": "https://files.pythonhosted.org/packages/95/22/c194c6f97a26fd433a2e4422c4ebc83bb6ea288e9c4282c56add3a14e804/mozregression-2.2.1.tar.gz"
+      },
+      "2.3.0": {
+        "sha256": "f19d0e6af63e8063974916bbac423129f723f529d8801015993feeaf78b1a3a5",
+        "url": "https://files.pythonhosted.org/packages/60/f9/02b97888ccef13ab3736a049781caf2f55323757109446196a8150698072/mozregression-2.3.0.tar.gz"
+      },
+      "2.3.1": {
+        "sha256": "6fc8dac90cd5457e244faf77471376e45c14b313aebfde5d5f5f5d440e74875c",
+        "url": "https://files.pythonhosted.org/packages/f7/ce/3c5936347e7ff0ed736d19a2df6fae9d8636924eedf2795445227bcf6e30/mozregression-2.3.1.tar.gz"
+      },
+      "2.3.2": {
+        "sha256": "055f1affe67b17bb5d271cba32e249de5003a900afd87222d3467aa5cdf64e5f",
+        "url": "https://files.pythonhosted.org/packages/b3/56/1ebf411cf5442495080614f8076de38e1cff9115a13b154c12edbe85fc21/mozregression-2.3.2.tar.gz"
+      },
+      "2.3.3": {
+        "sha256": "430299fec98e11883563ad7ce467eaa26d898beefe2be9a537000727940f5ad0",
+        "url": "https://files.pythonhosted.org/packages/35/40/10d78624061788f25b9b7f7f09b7d1509c3ec0333c763a7200128cbe2e65/mozregression-2.3.3.tar.gz"
+      },
+      "2.3.4": {
+        "sha256": "91be0dc01842a03ac7512cd14b795d1c7d8a9ca8aa9d24961859b9f996355add",
+        "url": "https://files.pythonhosted.org/packages/3b/df/893797acd357f2fa483c5157b09759268f2e31047ddb4561fdac3192e2fb/mozregression-2.3.4.tar.gz"
+      },
+      "2.3.5": {
+        "sha256": "685b0331858afc23d3d93875e388dad8f37e53776d7dc5c14769f4ec1c6b3c74",
+        "url": "https://files.pythonhosted.org/packages/65/87/9926ae9ff9d8f9e9898390d6b00f409f9885dabaef79ab72ed084ca42e9f/mozregression-2.3.5.tar.gz"
+      }
+    }
+  ]
+}

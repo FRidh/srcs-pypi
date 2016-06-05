@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Make pkg installer and dmg from wheels",
+    "homepage": "http://github.com/matthew-brett/wheels2dmg",
+    "license": "BSD license"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "acd08e406635c98318dae442e30360c408873b8944b76b54dfb89fad7fa7aef2",
+        "url": "https://files.pythonhosted.org/packages/d0/9e/c6b695e1d8aa919bd3abef2c0556195ccde5c83827bbd8442cbb7b501bde/wheels2dmg-0.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "a868bacb41343cca4707563039cf709b1a8d451d29c34edc8fdbe70dc5c90c93",
+        "url": "https://files.pythonhosted.org/packages/65/c9/debcb6f9bde880779ab1f4197a835f2d5766bdffef42423de001ced94811/wheels2dmg-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.0.6"
+  ],
+  "meta": {
+    "description": "A command-line tool to query and control a running Tor. Based on txtorcon + Twisted",
+    "homepage": "https://github.com/meejah/carml",
+    "license": "Public Domain (http://unlicense.org/)"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "167184425d8c523c8680d48c9ee2422d4767b971c796f0607f74fdbd1657b39d",
+        "url": "https://files.pythonhosted.org/packages/7e/ff/69491de02a2175ac0472661c84dbee8298eb56786eaf4d67c02422e57c96/carml-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "89c8024322575d7d3fe7c0624d45304ab24e95d62fce9b833326021f570beadb",
+        "url": "https://files.pythonhosted.org/packages/ff/47/67c03cc9f0cca80ba0628a80b1a6177f4d245438a4c2cc903a1387338cac/carml-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "d22537573c0bd42c97ec5ed0ad8e3630fec685b4210c5c3c0249e46eedc64f79",
+        "url": "https://files.pythonhosted.org/packages/6b/c5/b3fc65a778ed62cdbe87ffd14a7dc885f67616c6656228d782d1b53a7e19/carml-0.0.3.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "d33e9d2b26f3c21b73d5424fb3313c4417897497bf35d6c8b77ac33fb6f8878a",
+        "url": "https://files.pythonhosted.org/packages/b6/06/fd605e944736c5aa6c340ef56e99c8cb2b7b8c714d57cac6301448c31968/carml-0.0.5.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "fc620c800702376b6f5c74b0fc90f168735ec709a2b979eca658f479037622a6",
+        "url": "https://files.pythonhosted.org/packages/07/33/1a371af40f0008bec0190445d1b3b847706145b0e1db1b59f204a9ca54a9/carml-0.0.6.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "A lightweight Python 2/3 package for handling HOTP/TOTP (Google Authenticator) authentication",
+    "homepage": "https://github.com/steveherrin/SpookyOTP",
+    "license": "Apache2"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "96024e462b9ac7f85872b82b09dc35d6e2aba8babe210fd17b0ec1efcc1b87fe",
+        "url": "https://files.pythonhosted.org/packages/1e/5b/b8e27121e449832be68846bf5a7149f49fdcc29a0da0b2508d5e646d3043/SpookyOTP-0.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "ffd9f45bb5f4eb864b6c1befd2d87d0a69df29b87c71dbc4fbfcbf31d7b30be3",
+        "url": "https://files.pythonhosted.org/packages/52/4a/20ac08f71f1063f05b955057338cb627f50f61d61f2bf34a458b8b7863b2/SpookyOTP-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "5102b1fcefeb76fa9a471c0c402e3d5caa61a8afcc76d641509c6b31db318e02",
+        "url": "https://files.pythonhosted.org/packages/19/02/33d1be9382e8887d2ecb2eca2c94824fa7525b297f1d030d81fa2a4d9ab8/SpookyOTP-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Compute a dependency graph between active Python eggs",
+    "homepage": "http://thomas-lotze.de/en/software/eggdeps/",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "41e8001871ce19cb1bb8c0f477dc8496517d1fcea31ef88783a7e53d5d2c5eb8",
+        "url": "https://files.pythonhosted.org/packages/d5/17/0f7b5d728ea246399de618857a315a21ead7b57c40dae54fe61e98eeabad/tl.eggdeps-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "3d4365ab0f32ff8b3fd6829b99dbb5e82145c59643732a9bf4486078898f2bcc",
+        "url": "https://files.pythonhosted.org/packages/fa/ab/d69d0e3bbe88009c57a453d777a899bbb21636563a4d64de6415e16a07ff/tl.eggdeps-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "ecd8d241c6a1dc3bdc814d8e43fce4d71fe84565f2afce1446968a8b05c46398",
+        "url": "https://files.pythonhosted.org/packages/76/10/7b3e1ff0917975ca6b23c7f4bc7f2455f4590c183c43ab06e3187728eab0/tl.eggdeps-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "4656fd2cea2035a2f2e632003679dfca281d411d8135dd460be2326ccd9f9000",
+        "url": "https://files.pythonhosted.org/packages/53/b8/0c1378a2c97409081d3fda886a038724238a949ad0017fc891ecae9597c8/tl.eggdeps-0.2.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "aff82d6c1547c7c1315abc7c1c58d548bbd446e7a4d8ff3af957f347635d313c",
+        "url": "https://files.pythonhosted.org/packages/ff/33/60824a70ea44e057acd22cccebc100f04f325fe4a190bbed34897435ef63/tl.eggdeps-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "3b4667fa25b0f4eb15256f9454c41bdb66d721963f180cd402a9a62073083deb",
+        "url": "https://files.pythonhosted.org/packages/fe/41/69044a26ecfa4b26292e4281d7375308380f05f9cd79219a355a47f0f6dc/tl.eggdeps-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "a16c959f1027bacfddc239587e951a313d49f7386251182a610244642e56e5ad",
+        "url": "https://files.pythonhosted.org/packages/9f/82/cc7c4cc54a4bb8aeaf02adc423b59d0b00b530aefa8fa5486499352edd45/tl.eggdeps-0.3.2.tar.gz"
+      },
+      "0.4": {
+        "sha256": "a99de5e4652865224daab09b2e2574a4f7c1d0d9a267048f9836aa914a2caf3a",
+        "url": "https://files.pythonhosted.org/packages/72/55/c6774bd47e749e1de2b4bbff0002fa1567b7c9d41ee317dc603d13d1d467/tl.eggdeps-0.4.tar.gz"
+      }
+    }
+  ]
+}

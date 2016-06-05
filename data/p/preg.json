@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.11"
+  ],
+  "meta": {
+    "description": "Python-customisable grep-like command-line searcher",
+    "homepage": "UNKNOWN",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "4d46718c2a27c680ee410bbb3f404b1bdc4222ed63df0e4dc20a62b5cc37479a",
+        "url": "https://files.pythonhosted.org/packages/b6/12/7e9fcda74697dcebbb572cec9cda0e957a989302025d85f55a6d5f946814/preg-0.10.tar.gz"
+      },
+      "0.11": {
+        "sha256": "3f56faff5c24cf2f17d131ac256399f804cc17dccb2d0c89b1ccecf205a88fec",
+        "url": "https://files.pythonhosted.org/packages/ef/3e/065785726fe7ff25af3d1ce1fdad7a7df0e1974f76e0bce40b094b2c258f/preg-0.11.tar.gz"
+      }
+    }
+  ]
+}

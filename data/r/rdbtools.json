@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.6"
+  ],
+  "meta": {
+    "description": "Utilities to convert Redis RDB files to JSON or SQL formats",
+    "homepage": "https://github.com/sripathikrishnan/redis-rdb-tools",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.4": {
+        "sha256": "3952b998a2e57074102261468ad12781f0eafab1891a69ca4f78675b7fdc3a06",
+        "url": "https://files.pythonhosted.org/packages/69/bc/9c32b482c2726a06ad3d2a308f93a46a7a5a4a2797a6786cfec61baff747/rdbtools-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "c08b33b9e0ffeb92b79f43bf46defff6b80a681eba844307f7409275db45d9d1",
+        "url": "https://files.pythonhosted.org/packages/09/e1/531bcbf9d060f84fb0218a8fbc2210565b9bb49251e9032a5bf5721cf135/rdbtools-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "bf875016deab28ea2725b75f4bb09914328285c4ef4c03dfe5a96d4d3db07448",
+        "url": "https://files.pythonhosted.org/packages/41/5e/ae3d2a32214cd67df19c324906ef7a61a8601fcc3bf5c37f047aef86b729/rdbtools-0.1.6.tar.gz"
+      }
+    }
+  ]
+}

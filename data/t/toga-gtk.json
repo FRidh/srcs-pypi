@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "A GTK+ backend for the Toga widget toolkit",
+    "homepage": "http://pybee.org/toga",
+    "license": "New BSD"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "cbd6eec67fb468c232f0420358fe74cc78836c13125bff640913b1a7b128560c",
+        "url": "https://files.pythonhosted.org/packages/75/55/f31534ecd002b156d42af3d1dee0ceeab006dd38d66969bc2f8e3b7f406c/toga-gtk-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "24418f6b8f9f6b31a07189697c8e7c4dcc8efce11c2c5336df5b130092d75811",
+        "url": "https://files.pythonhosted.org/packages/95/53/214f0861ec12919581efda7e0dfc6d86f7f65da679433a5fc7743b587772/toga-gtk-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

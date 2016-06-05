@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Exim4 obedient for Dominator",
+    "homepage": "https://github.com/yandex-sysmon/obedient-exim",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "1.1": {
+        "sha256": "07d8180c35c99b115d3c20cb59bbeb203840363048a82306b55f3bc0035eb23a",
+        "url": "https://files.pythonhosted.org/packages/30/08/aa21cc5a4c96e210531d9e6a56399686ef32f563a73b86cd3d5d6d2d6c75/obedient.exim-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "9a1202434772cb880e98ef222d4c172de75dfafedb5b3f8a9f70f2d17f3575f2",
+        "url": "https://files.pythonhosted.org/packages/52/3c/f3c6b697b9058d9ac43f7c9ec4fd93603ec13d60a5f00277bfe5111aad27/obedient.exim-1.2.tar.gz"
+      }
+    }
+  ]
+}

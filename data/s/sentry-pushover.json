@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "A Sentry plugin that integrates with pushover",
+    "homepage": "https://github.com/dz0ny/sentry-pushover",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "4575937c88e93048ae13062a2a2f8b5c97884d1212102c7e9c57b2c6c1b32df2",
+        "url": "https://files.pythonhosted.org/packages/02/ca/7747d6c11cf43e636a1e6c8308d7f8b56e67a387ea8987550e02a6964cac/sentry-pushover-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "3ece58cd87af9386b76c4a8aad6fd92354230810bd2b34f731466a670e2276d7",
+        "url": "https://files.pythonhosted.org/packages/76/e8/b13f7ff4cb98089b0dae88bc08e8c17035f512229b082d7fcaadee2f9eab/sentry-pushover-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "3f6c020d77e40194b378b00b0788bc9ae47fa2a9f4ff7b70fd5fe22d833a2372",
+        "url": "https://files.pythonhosted.org/packages/2b/3a/412766acc06f4ad91e744c6c2d658addb4bc4e3fc56199b724cca98cd59f/sentry-pushover-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

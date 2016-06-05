@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "tgext.odt is a Pluggable application for TurboGears2 that allows the rendering of .odt (openoffice/libreoffice) documents as an output templates",
+    "homepage": "https://github.com/puria/tgext.odt"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "7885474e3d830569ec93643c72d606875fb0bbc41438c5d69084abbe76dff4dd",
+        "url": "https://files.pythonhosted.org/packages/05/08/1aa4ccb5cf62d327dd2f761b3e830f2ecfb18c422716a9dce23d596f405b/tgext.odt-0.1.tar.gz"
+      },
+      "0.1a": {
+        "sha256": "c770b297f8590603ba56e00847b62f0029d26c4538c2b4fe005f5b54f5a1e2d1",
+        "url": "https://files.pythonhosted.org/packages/1c/a1/8b1050433d44be2e4fc7db2ab59b340baa134e6c41a84ae192baef1dffd5/tgext.odt-0.1a.tar.gz"
+      },
+      "0.2": {
+        "sha256": "b8bdef8b881919b3ea47b7993e920df7cf099bf82fb680674d55defa41902509",
+        "url": "https://files.pythonhosted.org/packages/ac/90/b1f2bff6556bcbfb02a1867a3186b0af46408119a1155259d216ab42fe47/tgext.odt-0.2.tar.gz"
+      }
+    }
+  ]
+}

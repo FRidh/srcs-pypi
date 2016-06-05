@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.0.2"
+  ],
+  "meta": {
+    "description": "Concatenate comma separated value files",
+    "homepage": "https://github.com/dhellmann/csvcat",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "1.1": {
+        "sha256": "1b9fe48c9db3f5d48aa3a50510bc92cb1df2312e5210d8efeb5efbc9a15f4355",
+        "url": "https://files.pythonhosted.org/packages/24/80/85963bf4c6ebabcbbe88095e0eb24fd36ed432d820192ebe124ca5e4a219/csvcat-1.1.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "92dcb51d731e187c54fd4e7d035ffaa4d279f63d081b6cf582241f2181080ec9",
+        "url": "https://files.pythonhosted.org/packages/6b/d9/d6cf8b302a116e0d216abcb15ce0f87c7fc510bac89eda108a417e85c32b/csvcat-2.0.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "55608fc0043dacdc7e3033ba033a5b860de209fa7394955337a28899cbd414dc",
+        "url": "https://files.pythonhosted.org/packages/42/b3/257e6652f3f289c56f2caa8b19184513d4e27bb08ba9f526d4d310a8feb9/csvcat-2.0.1.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "e61a70e470d5480ca55cda0da46354b3b45d5a72f4e82c6c075312d0a8d2785b",
+        "url": "https://files.pythonhosted.org/packages/15/11/42c268fcc69999e6b4824dddbb6c27a2cd5ae098a56a88605ce6e4126aba/csvcat-2.0.2.tar.gz"
+      }
+    }
+  ]
+}

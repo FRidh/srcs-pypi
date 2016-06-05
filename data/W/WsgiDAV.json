@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "1.2.0"
+  ],
+  "meta": {
+    "description": "Generic WebDAV server based on WSGI",
+    "homepage": "https://github.com/mar10/wsgidav/",
+    "license": "The MIT License"
+  },
+  "versions": [
+    {
+      "0.4.0b1": {
+        "sha256": "4562b3215a4a7a4307d90c4580b590b49b6720218f1da4c0b2f039ddb775e85d",
+        "url": "https://files.pythonhosted.org/packages/0b/ca/fd40ce062819d0e042eafd8ef8e206262eb01211f22b585bb7d71fb759a0/WsgiDAV-0.4.0b1.zip"
+      },
+      "0.4.0b2": {
+        "sha256": "7906723057092365e18f3c87f940523f0e561b92781fb48f209ef03ebe08414e",
+        "url": "https://files.pythonhosted.org/packages/59/e9/6f3d0005993db8b813070219e760af2a7c82c9660fd32bb832b848832c00/WsgiDAV-0.4.0b2.zip"
+      },
+      "0.5.0": {
+        "sha256": "364ed316cac27ac9d3fc9336ed1df31d5cfd03d098dc9019ce37fb0fe25a609c",
+        "url": "https://files.pythonhosted.org/packages/d1/aa/9c46a2de6a8d8c22bc592cd0da75e1400ecf4ba1f5c844c0ed1cc373d8d6/WsgiDAV-0.5.0.zip"
+      },
+      "1.0.0": {
+        "sha256": "a47feda3ebea7ed7a9d57da948e1897b422caac8d9017a18d8daa3db2f378f8f",
+        "url": "https://files.pythonhosted.org/packages/ee/ea/645fdc82cd8eef752c6e1e66fb31e27acf0290e2a206150479b125c134b0/WsgiDAV-1.0.0.zip"
+      },
+      "1.1.0": {
+        "sha256": "fde76947dad2cb3e7d40201188b8aa3e2b02dd88962a09d18f5d47fa9f80a55b",
+        "url": "https://files.pythonhosted.org/packages/9f/7c/b1a4967eded7933575df01ad47204b2ba0a6c77d9ef55bd5da262d15840e/WsgiDAV-1.1.0.zip"
+      },
+      "1.2.0": {
+        "sha256": "674bd1954ee698c95b3c97c71aa63c7380dc9f6fc9e2aa79cb6b94f5aadbd2a3",
+        "url": "https://files.pythonhosted.org/packages/cf/6c/49464d02fe351b269f21bca4354375b57ed3ac76975f68fe8056dbf66655/WsgiDAV-1.2.0.zip"
+      },
+      "1.2.0b1.dev-20150419": {
+        "sha256": "088c8fde3fcf37b58f829df5971acd89b90ce30b22c94ffd4d30ddb7d30108f6",
+        "url": "https://files.pythonhosted.org/packages/c5/ce/9adbaabfb301688be4b2645427cf504bf118515a25e564042b3ac0e7e417/WsgiDAV-1.2.0b1.dev-20150419.tar.gz"
+      }
+    }
+  ]
+}

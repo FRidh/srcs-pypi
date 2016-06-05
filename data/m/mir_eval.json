@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Common metrics for common audio/music processing tasks",
+    "homepage": "https://github.com/craffel/mir_eval",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "0a2417afc5b9cabead2bd288d5b64776f16abc39b007d848a1e7e0f3ee1bbf89",
+        "url": "https://files.pythonhosted.org/packages/27/1b/e20ef40f0317308563209cdc5af9089f54df3e11d43349a38bb7e8a159bf/mir_eval-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "b2a07d2b1f483ce935bc81a780876308ae65639382c8996c10710bbfe72cc4e6",
+        "url": "https://files.pythonhosted.org/packages/79/72/04cceebbd424d35838375a13ffe54563efdee8d5bf28411b621e458e94ce/mir_eval-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "647bfac0ceff15d46eeb7b96ee27b941ba0ba7b70652a3f93cef7676f96c1cf2",
+        "url": "https://files.pythonhosted.org/packages/d2/75/f9539a90873848ec6fab16d201387475a26e26a7683cbe98500f901de3e3/mir_eval-0.3.tar.gz"
+      }
+    }
+  ]
+}

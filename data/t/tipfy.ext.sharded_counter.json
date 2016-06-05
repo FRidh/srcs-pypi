@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "A general purpose sharded counter implementation for App Engine",
+    "homepage": "http://www.tipfy.org/",
+    "license": "Apache"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "975458d57e4b17212c3bcf379a3081ae493a9a41fed6db66600cbb9a52aeae22",
+        "url": "https://files.pythonhosted.org/packages/b6/6f/24c2eed3634651b8870ea9f32c1ca45d26923fbaed546caf41b0068147e1/tipfy.ext.sharded_counter-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "27d741cf1e15809c2c030a289c90f6d3910ae67ab78bf1e8f90f8f8b37e2fb07",
+        "url": "https://files.pythonhosted.org/packages/55/cd/60f171bcd71f806d05229fb4a070ac5819ab342ea4f960e9f485b4d77ec2/tipfy.ext.sharded_counter-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "80815e2358d3c504b947f2bc26936d861a089943843697da359854bb9ae0b91c",
+        "url": "https://files.pythonhosted.org/packages/27/83/49191f2c389c80003ff8c7b96594ec3fe18f851d5d340c90f97808fe4481/tipfy.ext.sharded_counter-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "9280786247127fe72ed224764013e65f2ffac49f76db57033436d2be0559e178",
+        "url": "https://files.pythonhosted.org/packages/a8/df/2a8e2d8601a5f97f7ce97ea47b2e1cfa9641a2e474b2d6710b763607027e/tipfy.ext.sharded_counter-0.4.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "2.1.2"
+  ],
+  "meta": {
+    "description": "A wrapper around CASACORE, the radio astronomy library",
+    "homepage": "https://github.com/casacore/python-casacore",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "374e3fa7870fd8b5997ebe941cd3c7b85402e98fb2dcb71b36ab4e398ea758c8",
+        "url": "https://files.pythonhosted.org/packages/c1/6a/c874aafc0307beee38ac33511da974fa3f2902626f32dab2a3fdab467716/python-casacore-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "55c65ed7d307c9a49ea79d1537a4ff65d5ae857e888aa857cbf126ba605967f3",
+        "url": "https://files.pythonhosted.org/packages/cd/8e/e7159e987c9fd6d95cbe6c761552511b1e94a74d0335d3157d6e326bf75c/python-casacore-0.1.1.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "18dd0c23cd8062afd6a6e10c5cac72383f644de1610eb851a7ed356f8b4e8879",
+        "url": "https://files.pythonhosted.org/packages/b7/9b/786a324c104358beda6361ed1d4c2f9a85c27467860af00596cf1d943e6e/python-casacore-2.0.0.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "8776d839ab601931937bbfd01f395d53b2c575efb31799b1f3fcce042746a66f",
+        "url": "https://files.pythonhosted.org/packages/69/1c/62d922c5a3ba2d291a32a5bcf5bf21ce470c11224af5bfee23dd4042a627/python-casacore-2.1.0.tar.gz"
+      },
+      "2.1.2": {
+        "sha256": "b33345f4595b47f6131b5e78514df5be627822c03b9fd112f0175c6a26524067",
+        "url": "https://files.pythonhosted.org/packages/ff/e3/cf54db1e0b536f15351843a09bb7b9b3cabd62ca0389e7ef4ade2f3a0dab/python-casacore-2.1.2.tar.gz"
+      }
+    }
+  ]
+}

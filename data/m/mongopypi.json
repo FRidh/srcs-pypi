@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "Client librairy for PyPiMongo, a mongodb replica of pypi",
+    "homepage": "http://bitbucket.org/pior/mongopypi"
+  },
+  "versions": [
+    {
+      "0.3.dev0": {
+        "sha256": "7f1305c0148ab306277e500db61615350d4d50c93ceab83bab42302f115e0c1e",
+        "url": "https://files.pythonhosted.org/packages/bb/1b/38ba89babeaf9dcfef86d75e0b7a9a7dc67e560c4c278c88408dcbbb0ced/mongopypi-0.3.dev0.tar.gz"
+      },
+      "0.9": {
+        "sha256": "0550dab8879a13032132e68e5da001c6b7387844d41d41607f2c8c8c747a70e4",
+        "url": "https://files.pythonhosted.org/packages/31/0d/7a660fa4929d50ec2fb2408b64e8677b966de5a758ca245dfc48c90d73e9/mongopypi-0.9.zip"
+      },
+      "1.0": {
+        "sha256": "6c217e35ad89fe14ab408a4de8b36dff9793bb1ae41dfe8fd9c1a1450ac367a0",
+        "url": "https://files.pythonhosted.org/packages/53/c0/9678e9b3a49e720a9646c849d546426be62347412ce32be88500d352e271/mongopypi-1.0.zip"
+      },
+      "1.0.dev1": {
+        "sha256": "3d8313e78cb54fc2c93279fe01be387f3c22f7506a4f4b86a08ab866bb2fd6a4",
+        "url": "https://files.pythonhosted.org/packages/33/ef/9d964801a1437114b30e7f91955c66ae01ac3e9c794b8d5a04bd6509c40f/mongopypi-1.0.dev1.zip"
+      }
+    }
+  ]
+}

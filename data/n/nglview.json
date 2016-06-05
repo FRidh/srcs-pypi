@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "IPython widget to interactively view molecular                     structures and trajectories",
+    "homepage": "https://github.com/arose/nglview",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "5c802d36908c0f036b81db5cd72ca80afd6b1cc3b811e27a52722e6b381db31f",
+        "url": "https://files.pythonhosted.org/packages/d1/47/7695f98e9db16530277e201bc77019f0c8e0494899599a44ec178cc3e529/nglview-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "5f386e5ee1140acd0dc431c6c57d3cdeaf42b987b7f8b999064fa0c36cf69856",
+        "url": "https://files.pythonhosted.org/packages/5d/5d/bac27d69d4ae538cfb3de665e09b15a1f47addf0595f3104d5ff1fd5bac3/nglview-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "83c7922bc3f42017ae220407fca0f24d55c0bf61cd7bd993e25adf05b6925093",
+        "url": "https://files.pythonhosted.org/packages/4b/28/bea95c55ce59c59f7b2e2ecd22e9b7970bfb1cb0a08f15725504b6b5f704/nglview-0.4.tar.gz"
+      }
+    }
+  ]
+}

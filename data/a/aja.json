@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "Buildout-based deployment made safe and easy",
+    "homepage": "https://github.com/pingviini/aja",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.9.0": {
+        "sha256": "a4a30409fdd2bf4d0637ec4e89db9249298c503048ad94a6bd69a89dfaaee21e",
+        "url": "https://files.pythonhosted.org/packages/8d/28/a9aea61ff1a52825e9e5f23bf67f56b588656831b18ef237b5a3e72c8e74/aja-0.9.0.zip"
+      },
+      "0.9.1": {
+        "sha256": "9ccfa79fb249b1f412683fb9036d7b9354067ad54f8148e71b07d71939e5f0e8",
+        "url": "https://files.pythonhosted.org/packages/95/a6/cd8ca3c1a5464f34caa7aa6fdcfd21553346dd88ef3c0948a0f4630fa074/aja-0.9.1.tar.gz"
+      }
+    }
+  ]
+}

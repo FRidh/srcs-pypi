@@ -1,0 +1,610 @@
+{
+  "latest_version": [
+    "2.10.80"
+  ],
+  "meta": {
+    "description": "Electrophys Feature Extract Library (eFEL)",
+    "homepage": "https://github.com/BlueBrain/eFEL",
+    "license": "LGPLv3"
+  },
+  "versions": [
+    {
+      "2.10.1": {
+        "sha256": "d2d93c6634a792c238b43cb85886625a6ab5f93438b768fe591bfd356db9cc6e",
+        "url": "https://files.pythonhosted.org/packages/d4/f9/58b000f3a808ad92b5237b3f03a9ae7ffe062b58006da337dbec1508e8e9/efel-2.10.1.tar.gz"
+      },
+      "2.10.11": {
+        "sha256": "e05d4f105f8c9da92f932888e71147b3ed465c27231b23d53e7f6381f1cc02d0",
+        "url": "https://files.pythonhosted.org/packages/e0/c5/3624e380638781259632ec9f1b8c5dacede90efd2724ee3995d5fca1d2b0/efel-2.10.11.tar.gz"
+      },
+      "2.10.13": {
+        "sha256": "dc814e4ce2cf6f724498b737e692eb48a0bc37feef860b7db245141fc2e43f6d",
+        "url": "https://files.pythonhosted.org/packages/8b/3d/4a8925ebb5067fb7afd971e5ae07453b9dbbab705885e874c0db34063987/efel-2.10.13.tar.gz"
+      },
+      "2.10.15": {
+        "sha256": "3b2a7b4729811611b7f78fee214e9356388586972ab575d16727241aa514f658",
+        "url": "https://files.pythonhosted.org/packages/9d/2f/28ba6c757dba02cd0b6aed07814a799fcb5b90c7d8f5a00b88c872ee1ca5/efel-2.10.15.tar.gz"
+      },
+      "2.10.18": {
+        "sha256": "5128320c9a6d7beb0129c4be24de98be222c72c9ab70ba5dd6e6a83e8815a8e0",
+        "url": "https://files.pythonhosted.org/packages/44/21/f2a04df4bcbc0cc04fbcc3247287c54b3c7700c273176e03bcb680ddf1f5/efel-2.10.18.tar.gz"
+      },
+      "2.10.20": {
+        "sha256": "3163188b1bb847015a81d1ccaaa2c4645bc2ef7d7149d0244666e7e0408f124c",
+        "url": "https://files.pythonhosted.org/packages/eb/b7/6bf4998b45a0086a4fbafe2309fd7c5c63952429043799cd3a965f066da9/efel-2.10.20.tar.gz"
+      },
+      "2.10.21": {
+        "sha256": "7ef79099f1eedc09573b764eb2e65c20b4176a3ffc3d005e028d6429c506a6f1",
+        "url": "https://files.pythonhosted.org/packages/b5/28/f1d03f90418a1c73209c40cb733ee447a263afca2bf87b28d9015d1eadd6/efel-2.10.21.tar.gz"
+      },
+      "2.10.25": {
+        "sha256": "03e73e2bbac77e4bb80c6c5f6edeee9dc548cb323744f3e055fd18cd234d1f8e",
+        "url": "https://files.pythonhosted.org/packages/e7/39/14775d89cdcbef2681019d645c7b631d7b1874fce32aecbe266d40af0758/efel-2.10.25.tar.gz"
+      },
+      "2.10.28": {
+        "sha256": "9b155372c0da8c9534f5d760b12c6e7f5fd0d273aaf97bb6e6f591abfed6f5c8",
+        "url": "https://files.pythonhosted.org/packages/e1/1c/4503df26571b2fe71ee7b7dfd70ed490451bff9fc0b397965122517efb3a/efel-2.10.28.tar.gz"
+      },
+      "2.10.29": {
+        "sha256": "e83256c8a19cd2b61bcb58903dd0984f9fa8e88c76ed10251d63cc63575f1737",
+        "url": "https://files.pythonhosted.org/packages/6e/8a/e1472a8ae1bb2b5534169fc62993cfa3ed3ab01a078c81090d7d2d4d3893/efel-2.10.29.tar.gz"
+      },
+      "2.10.3": {
+        "sha256": "ae2fee0915f63c14b3b4ccac7ec5dc9d9b032258cfe1a98a8e62685709fdee77",
+        "url": "https://files.pythonhosted.org/packages/4c/a4/6916c0014e4e4ecb0618e8f0e8bef1d9ba759de7acd0fe886dff7716ac4a/efel-2.10.3.tar.gz"
+      },
+      "2.10.30": {
+        "sha256": "40d67dfc5ea3dfed8996cc138fe873b6a4f4de39c3e386a9c71be0ef0cd58db6",
+        "url": "https://files.pythonhosted.org/packages/02/a2/d84950a8e324a13631c4e6786b327370f265f3eb97ba98788639079a5620/efel-2.10.30.tar.gz"
+      },
+      "2.10.31": {
+        "sha256": "ac90f1fd60c44e2d3b8d1839fff332da40f144ff6eaee0b1fe1e6c272f00cfac",
+        "url": "https://files.pythonhosted.org/packages/54/df/19c2ccbb4eac4667a02277167f21a922f113bcf475493832920942508734/efel-2.10.31.tar.gz"
+      },
+      "2.10.32": {
+        "sha256": "89bd64f2e41ab0368db41186b86de73ca2161eb9727e26e96014bc715c4c106c",
+        "url": "https://files.pythonhosted.org/packages/45/79/585f2766b4e67563e34a18e344e429eab3e5aa7c790655476d878a5e6ffd/efel-2.10.32.tar.gz"
+      },
+      "2.10.33": {
+        "sha256": "209ee33bce395843bbb6390a3a9639470b245b227c67e64155d73288723c0920",
+        "url": "https://files.pythonhosted.org/packages/e1/3d/45974c26c38170f68bada75964684abfa6f3ce51e2c158b94d616c8b3a23/efel-2.10.33.tar.gz"
+      },
+      "2.10.34": {
+        "sha256": "5aabc5ec8f9873b2bc2b249b6ddffe998282204ea199288f14af7ccd4c7862c4",
+        "url": "https://files.pythonhosted.org/packages/61/10/a8730854a48fef1c802ae2cc6ef53838504b9923f6e4ee9db46e5f483905/efel-2.10.34.tar.gz"
+      },
+      "2.10.36": {
+        "sha256": "359979e52c415e5ef76d5287f51cb51bc6ed93723301e80fae3551f2c263c964",
+        "url": "https://files.pythonhosted.org/packages/b8/b7/752ae82fad82341fe214034c6470a7f598fe6876b958545266f33e9c4bee/efel-2.10.36.tar.gz"
+      },
+      "2.10.38": {
+        "sha256": "7b1166dbc97b0419e965bb24077ee7f3d80ddecce09f130683d888bd321846c4",
+        "url": "https://files.pythonhosted.org/packages/8f/b0/ef420397987552b0b6e2f16a374438dd0b9a13d0f2dc25976d8bf0ac7099/efel-2.10.38.macosx-10.11-x86_64.tar.gz"
+      },
+      "2.10.39": {
+        "sha256": "6a10d43fc54c1e5f600820a03c578f20974687ca48b4cfabd1c97975d5b68227",
+        "url": "https://files.pythonhosted.org/packages/ba/51/edc6cdc0bd277f47a9c816a914a15f7e86bfabec1eca53eb2181e9148074/efel-2.10.39.tar.gz"
+      },
+      "2.10.4": {
+        "sha256": "b841173900cf28a73314b263744e0938ccad368ab325cff08cdfab22019f640b",
+        "url": "https://files.pythonhosted.org/packages/32/b0/9217147d2d16df1dce4de28ba7f2c0661518e695348052e136d30afc977b/efel-2.10.4.tar.gz"
+      },
+      "2.10.41": {
+        "sha256": "805e148ea2417eb6dd1fbb5a50670795b6a1618e2bc5099036085f74f94532e0",
+        "url": "https://files.pythonhosted.org/packages/49/25/5e3b61f9e040140f2a05013c89781e3ade99e6382f1dc73e398fd5608ddc/efel-2.10.41.tar.gz"
+      },
+      "2.10.43": {
+        "sha256": "42c2a917770da29f4b71356687f9c9e49e38b17a0f7da3a91c51ffdd87f52723",
+        "url": "https://files.pythonhosted.org/packages/9e/63/d3fccc2e9154fd1bf08342788697276e7d601c5d9073cdb6c7d7b36ce3a0/efel-2.10.43.tar.gz"
+      },
+      "2.10.45": {
+        "sha256": "0b1af8dd71ddead5a3ec6d4e43ed070fa7cd439b013a754e7fcd333f47070077",
+        "url": "https://files.pythonhosted.org/packages/be/5d/fd244eaa19c4f57148fdc106b6a0b61a622817a3198f5a59c5c5c3ba018f/efel-2.10.45.tar.gz"
+      },
+      "2.10.47": {
+        "sha256": "25743bd3ed3fec6fef3831d0633c23b76fb2fe64cf02e1457f3fb2aaea784a81",
+        "url": "https://files.pythonhosted.org/packages/0b/7b/f8db48a44c45fc84aa9c5f53dc2e6f811ca86bfeb95a71c9d887a43de566/efel-2.10.47.tar.gz"
+      },
+      "2.10.49": {
+        "sha256": "c128c45ec0ac4665416d8e1a02393fbc6f8d9bd3c9d08449ead9f3e53bc05c38",
+        "url": "https://files.pythonhosted.org/packages/a8/e7/9c1ad38d1e1a37b1427026c49386c68083b343f6d096a1bb8dd0b9186bfc/efel-2.10.49.tar.gz"
+      },
+      "2.10.51": {
+        "sha256": "f4973049afec4f40641b1dafb54a0ac593208c30a882a512de0b1019caed63c5",
+        "url": "https://files.pythonhosted.org/packages/a9/ab/0d3ed74988909a6b4871ecc3caede191268128c7a366beb38576837e3121/efel-2.10.51.tar.gz"
+      },
+      "2.10.53": {
+        "sha256": "efb9e450cf166063460234ac8ddb7ae6ca56bda9441207d942029cf6b77e8536",
+        "url": "https://files.pythonhosted.org/packages/4b/66/b3bacf695c05ac83c51e1189956cc84776af9f1cb8482c50462bf19e0661/efel-2.10.53.tar.gz"
+      },
+      "2.10.57": {
+        "sha256": "e8a84fec10b964dd5991ee51b10ddcccb4c3cc77f782fd48328593107ac51bfd",
+        "url": "https://files.pythonhosted.org/packages/e4/14/442e335f649c2e1d29795de3a0de72561451537507019653499e3bd3f080/efel-2.10.57.tar.gz"
+      },
+      "2.10.59": {
+        "sha256": "93867f7cd9f3d94265b53c81078282fdce497bdc7605bab35c883eb1138642a4",
+        "url": "https://files.pythonhosted.org/packages/44/9c/ae699fdd97b72f428a5dc22115f0b7394ad690383ad40655cfaea3d46240/efel-2.10.59.tar.gz"
+      },
+      "2.10.6": {
+        "sha256": "1a796fa5b94614346018b61f21660bfbf75be79a9719107ff90aece6792e24b7",
+        "url": "https://files.pythonhosted.org/packages/18/b9/a35a5701358d405cf89c41b7f516f96c70a86a142d7135d2fdebaaf8181a/efel-2.10.6.tar.gz"
+      },
+      "2.10.60": {
+        "sha256": "250f548d49c0da095936417d627426de8c1f4b489e11eee74b5b441731be23fa",
+        "url": "https://files.pythonhosted.org/packages/dc/63/25b9038182ca15ce0d4b543db0ce00f0b9a3e8f848c8a4640097e68a8ac9/efel-2.10.60.tar.gz"
+      },
+      "2.10.61": {
+        "sha256": "634256e161783fe7e9732cffbb239e85126034790431bc793371081690ef1375",
+        "url": "https://files.pythonhosted.org/packages/62/61/f264ac0cb12296d9f7ac15c5b0b7a74833203eca7d6650301cdb0f4271d9/efel-2.10.61.tar.gz"
+      },
+      "2.10.63": {
+        "sha256": "85f8150e6f289f63e72e5fbdceb1de6a8a9980b319720b8036c13456bc54fac9",
+        "url": "https://files.pythonhosted.org/packages/78/e0/2e0145814d7d531c0d4f1fd26f025b05928fe1425c4852bc806ce9914118/efel-2.10.63.tar.gz"
+      },
+      "2.10.65": {
+        "sha256": "d9bef2dd5755babde52b45b491fbd6e5b76569bc26d12d36166af33687ba0e14",
+        "url": "https://files.pythonhosted.org/packages/e8/a5/4b227e9fe112ac9a40ea1376d38b6712aa8df3474cb264b10fddb02bcbcd/efel-2.10.65.tar.gz"
+      },
+      "2.10.66": {
+        "sha256": "baae61855c1ac2bb6a33604524c96bbbc6522ed6722acb95757875cc90f7148a",
+        "url": "https://files.pythonhosted.org/packages/2f/c8/e231443a7e260315dcb65308441105ed391cfc74cc746c45ed50a62d1d79/efel-2.10.66.tar.gz"
+      },
+      "2.10.7": {
+        "sha256": "9a4c3250579857c346328b27564e14a3e711963e71cfe7211e0543df5d8dd52c",
+        "url": "https://files.pythonhosted.org/packages/a6/d9/0f5e1a689d781e03f5eb23378f264c930b143982ceed234f04e76a68e728/efel-2.10.7.tar.gz"
+      },
+      "2.10.72": {
+        "sha256": "2d3d609b6304ab36a737f9ad89441704c3909320ec528c90e08ad47dcdc038a1",
+        "url": "https://files.pythonhosted.org/packages/94/1a/96d89e7a8e0f102bc013d1352b7d48d1f8dd31558b92cde3e30f6cedf542/efel-2.10.72.tar.gz"
+      },
+      "2.10.74": {
+        "sha256": "5e257102bff9a6e6defbe2aa415fcd075140afaad2e867b4fb89d2b4cf865ed7",
+        "url": "https://files.pythonhosted.org/packages/88/d7/f8eab7cb15a1ef024222aa48af643d99624e1ac3bf068c8324e1306b3981/efel-2.10.74.tar.gz"
+      },
+      "2.10.76": {
+        "sha256": "0bee9df70fad41993073271949601a6b158ddfae6ffedc3044f0a44098315765",
+        "url": "https://files.pythonhosted.org/packages/92/3d/1210a080949dc83ffe1de794ad27dca906384108729456eb8d7d8b6782d2/efel-2.10.76.tar.gz"
+      },
+      "2.10.78": {
+        "sha256": "ab42a53daf2afc9d716a205ce350a58c63028d48733825b9b654a79247ff7586",
+        "url": "https://files.pythonhosted.org/packages/26/20/c958a51dfc41d25bdd2bc24a0702cc481901b69795f062f1b23ab4ef43d2/efel-2.10.78.tar.gz"
+      },
+      "2.10.80": {
+        "sha256": "69352dda8058087eeebe9eee6e4929a9ec39fa744e8828d359e4587d31e4625d",
+        "url": "https://files.pythonhosted.org/packages/ae/0c/ce9b690bd1d84ec64d9cd9fdc90fa8550af903f23f951f0db86c9d402856/efel-2.10.80.tar.gz"
+      },
+      "2.10.9": {
+        "sha256": "78632bf9ae481055545dc1c7d2ee875eb5dd30fbd592a4d63c14fe4822ad4112",
+        "url": "https://files.pythonhosted.org/packages/07/5b/6919a70c30d755014e12e6ad58d5afab122dae7eda2c3f9c40aefe17e9db/efel-2.10.9.tar.gz"
+      },
+      "2.3.16": {
+        "sha256": "099aaf728e35a760391e7d7dc4c1cf451ccc26800eddbbcc1cfd2982e2b752ac",
+        "url": "https://files.pythonhosted.org/packages/31/15/a3db64452985893789712eec5b70359f7224204009e95c1f9ed3fe5ebab2/efel-2.3.16.macosx-10.8-x86_64.tar.gz"
+      },
+      "2.3.17": {
+        "sha256": "9beb0c4de06b7d20e2d0f613ad3cdb735624b3653ec5f6cf53e587ed796cea99",
+        "url": "https://files.pythonhosted.org/packages/b1/09/5229f52ccb1968861cde877cfe34c796b52d74b179068399f478c5e4f588/efel-2.3.17.macosx-10.8-x86_64.tar.gz"
+      },
+      "2.3.18": {
+        "sha256": "a427a972aad87e1915ae0dd9e6d1ed1a74062e05fbaaa44bfce39dce7da2bac6",
+        "url": "https://files.pythonhosted.org/packages/1b/bd/e9239e3d2c645a2b7e2391406ff8421c16c4d92540d77ea7cf4e4b09ca02/efel-2.3.18.macosx-10.8-x86_64.tar.gz"
+      },
+      "2.3.19": {
+        "sha256": "89d221c0d5ab3a08852443e8d0ccba866b7d879ad95283bdc8a8067407a56133",
+        "url": "https://files.pythonhosted.org/packages/9c/7b/4977ee7b37e08581face38aa22f699951f123a3dabcb41d819769daf7653/efel-2.3.19.macosx-10.8-x86_64.tar.gz"
+      },
+      "2.3.20": {
+        "sha256": "fee25869f95d42302f0b3be316c749ee21342172d0f94aa78195cb4df100d85c",
+        "url": "https://files.pythonhosted.org/packages/38/39/04dfb524fbd575fc9e73524dbe04ffb6e34c119720d8c7e5375572513d7b/efel-2.3.20.macosx-10.8-x86_64.tar.gz"
+      },
+      "2.3.21": {
+        "sha256": "69f5938ced8d36a9829c986b0efd84894ad649930de1d1537d7794304abc023a",
+        "url": "https://files.pythonhosted.org/packages/58/b6/5f179c8c2124234614846066a799f0db2805f0fd9faf12c392f278c24340/efel-2.3.21.macosx-10.8-x86_64.tar.gz"
+      },
+      "2.3.22": {
+        "sha256": "96d23e443a39405ed47b50ec9994aa21fd19e3b88e445594a37e299c3a7dafde",
+        "url": "https://files.pythonhosted.org/packages/8b/1d/46e04e8723166ba8dedcc045753a94c82dfa9d023addaa52c2f96fd14794/efel-2.3.22.tar.gz"
+      },
+      "2.3.23": {
+        "sha256": "cae314107c6f44dd1903d3aacdbc6cf8c304082e448a1ecaaacada1398fcb12c",
+        "url": "https://files.pythonhosted.org/packages/fb/3f/dced73628fe3bd3df962f97dff8daf357bc8e18f8ac5fb0e7a8d4bc77dd2/efel-2.3.23.tar.gz"
+      },
+      "2.3.24": {
+        "sha256": "ad2f02ce561c8ec9c05f99b9be9868b7f90232411a31680e3711788a95098f3a",
+        "url": "https://files.pythonhosted.org/packages/34/3c/2902609f9bb154349be8bfd3454974b72fbfc7b16147142e31643c305315/efel-2.3.24.tar.gz"
+      },
+      "2.3.25": {
+        "sha256": "8c057361037bc5f0994b43c484678dda666af308509d2ec1c5855567ab3824f9",
+        "url": "https://files.pythonhosted.org/packages/f2/ad/40130caa22566c620027180e29cc5364c21820feab4895ef988ff603f541/efel-2.3.25.tar.gz"
+      },
+      "2.3.26": {
+        "sha256": "13df2c0838d536c54a63415d932a04e51d97a3d5016826504c78867bcefe4b25",
+        "url": "https://files.pythonhosted.org/packages/59/c7/deab8e2b3f198ed94dc4a58eb8537926235bc1bd272add3161eab4065cb1/efel-2.3.26.tar.gz"
+      },
+      "2.3.27": {
+        "sha256": "970d93840db7d01be7cf9d9dbe9bd0a8a317e2e18995ca05fdd598338a12aede",
+        "url": "https://files.pythonhosted.org/packages/1f/b8/621180174cd405aefb7241a7b11aa4c9001448ad1ca35a2727efd5677dbb/efel-2.3.27.tar.gz"
+      },
+      "2.3.28": {
+        "sha256": "cbffbf6cbe70adb9c4f63841dc2c5a9a9f9bc6e527b8a9d404d000aa8c5735c0",
+        "url": "https://files.pythonhosted.org/packages/e9/9a/c11008a736c1f99e76556aab5797eaee6c5fb6467554b9e37673b4483059/efel-2.3.28.tar.gz"
+      },
+      "2.3.29": {
+        "sha256": "16f72736977a92cda93b56c216234c81ad38aad534ba209ac74a2aeffa5ac256",
+        "url": "https://files.pythonhosted.org/packages/3a/ab/7490c6ea2aaa7e600108ff2d8f3f10bad6e264f2ee1557c94a03da2a39ec/efel-2.3.29.tar.gz"
+      },
+      "2.3.31": {
+        "sha256": "51ae7585bb26554db2ab26d834db20484ecdb7f5bd19e56610a9df669a891298",
+        "url": "https://files.pythonhosted.org/packages/22/fa/55675622780d4987b1d582ad3e087391db8fc3a63ac006772ad99389e861/efel-2.3.31.tar.gz"
+      },
+      "2.3.32": {
+        "sha256": "58d62999b73f30e9ca15b3f0dd7fbb02d121c5d9cc9bd8ce1577017e5c1f9bae",
+        "url": "https://files.pythonhosted.org/packages/8e/95/b8851ddcf33c0cf77b43eb0ab870ddb0686646ef02613fd0942209be08c3/efel-2.3.32.tar.gz"
+      },
+      "2.3.33": {
+        "sha256": "7b20ef6841e8485bb5593297e526b72b14af38ee54f71e567838d7466b7c91df",
+        "url": "https://files.pythonhosted.org/packages/fa/5e/bd46c9d68a9d366022dd0ac85c790c7bf682fa3d43e92f424dcda353283e/efel-2.3.33.tar.gz"
+      },
+      "2.3.34": {
+        "sha256": "63d4519551549db083e12af75a6bf5ed6941d2d9d778bb2d0632469857875d08",
+        "url": "https://files.pythonhosted.org/packages/a7/fe/20978b302de37606a3a11c4d32a0dd9bfda37c2aceceb2597e1fa7310e9c/efel-2.3.34.tar.gz"
+      },
+      "2.3.35": {
+        "sha256": "ea3a782fe42789aea4e06460feec10dd4a9ea80168200598ee8855c39a059430",
+        "url": "https://files.pythonhosted.org/packages/2b/b8/b1bde9043c6adcf62dbc125580a1eff80a2e0e682f01ed77ef339974482e/efel-2.3.35.tar.gz"
+      },
+      "2.3.36": {
+        "sha256": "5b22214b8a514ca0f80c16f1de5a9061a64029df3d6d65a1b6ec5442a212e35c",
+        "url": "https://files.pythonhosted.org/packages/f1/16/7e784b22b76db5c2d9c47e620b03a530f24b71d6434f6f1e552d6d766492/efel-2.3.36.tar.gz"
+      },
+      "2.3.37": {
+        "sha256": "93dd4c7f4ad99865a396207c1fc61ac4c5869841edb9a3233beab9a90b20778d",
+        "url": "https://files.pythonhosted.org/packages/25/9d/ddf8472360ed16836ae320b28909924922c5814968d8af2dac7ae50da964/efel-2.3.37.tar.gz"
+      },
+      "2.3.44": {
+        "sha256": "d6f5e3a500c94f493cdd721834a955e2146118564e1ab0aa32c5ab9f9bc4700c",
+        "url": "https://files.pythonhosted.org/packages/73/7c/bfcdcb32049ec1055821bce3c6b9e2bdb5fb986d5e20aa86870db6841d78/efel-2.3.44.tar.gz"
+      },
+      "2.3.46": {
+        "sha256": "8fa9bade99c22dbe3fdfda157c9b36efa8050731e1c18692d4b29351ee44f561",
+        "url": "https://files.pythonhosted.org/packages/3f/f1/1a78a0bdde5adca4901102b4a6dbed4656fe9c93f24c33295f05bd536cea/efel-2.3.46.tar.gz"
+      },
+      "2.3.47": {
+        "sha256": "794fc682c7f7322f610b399265d845df731ccceecd61ac895861283d722b48f4",
+        "url": "https://files.pythonhosted.org/packages/c3/8e/8765205dc23c7d421bdf03e1b0d5271e72c5dab03a17e7481e569a7597b8/efel-2.3.47.tar.gz"
+      },
+      "2.3.48": {
+        "sha256": "ced77ac7d2242b9aa8e5d46700e8997bec4a478f6084bbc82f97dd77b7fb0058",
+        "url": "https://files.pythonhosted.org/packages/06/27/9abed97b1551ae1926415eece336ae7229a93c1f9cb344d91e478c3f2e77/efel-2.3.48.tar.gz"
+      },
+      "2.3.49": {
+        "sha256": "58f5129628d3134f0dddcb098bbaa175a6dc646b2bebcd87425820f820ed717c",
+        "url": "https://files.pythonhosted.org/packages/5d/7e/025cac87adfe165c7085e59591da6e726eafc55e752c444fd6549967c765/efel-2.3.49.tar.gz"
+      },
+      "2.3.57": {
+        "sha256": "0b3c81cb365fc15c85d02b834d03e90e229a766240186807511858041718ffe5",
+        "url": "https://files.pythonhosted.org/packages/cf/83/9a10a010fcdc17bf267dbc3eff1bdd983573a37598bc2daa9ab2469b9e09/efel-2.3.57.tar.gz"
+      },
+      "2.3.59": {
+        "sha256": "db0002c60e3444bde229ce8c8a18c7276c97e1e4776caf81eaccf4bc163f66fb",
+        "url": "https://files.pythonhosted.org/packages/7d/8f/4b9bcc8b870d83dfd03e4b8dcfe1e6a91c1e65aafd2d8966b7f726e5b700/efel-2.3.59.tar.gz"
+      },
+      "2.3.60": {
+        "sha256": "ba2347b46778095f65cceb62601bdf1ccbfaca36f1288bb1dd79cdc76cbda9af",
+        "url": "https://files.pythonhosted.org/packages/02/b3/5b8ef7aa46c347f2987edb9a4f6d1102a7b0e2b78d2bbc8e39a66fa0207c/efel-2.3.60.tar.gz"
+      },
+      "2.3.62": {
+        "sha256": "8694e4f4ab7d7183fc157b9ac8ee41e2f55bf471d1566d7dec577afc9594a25a",
+        "url": "https://files.pythonhosted.org/packages/7b/3c/a0c944aaf6223c11e169125578510019e81981816a2b13dbba38ab31b706/efel-2.3.62.tar.gz"
+      },
+      "2.3.63": {
+        "sha256": "9e509df327804682c72a679a8a160e58dc7d261dab065b5d0c58c47325baa6b4",
+        "url": "https://files.pythonhosted.org/packages/99/b8/e662e76c747c256e16451b346b4c76eee9f2251b3035ed3fe1569faafc43/efel-2.3.63.tar.gz"
+      },
+      "2.3.64": {
+        "sha256": "2b6b49f5c29c4658d6e6775923dc4120d17bb41cfda862eb53fb1391a61f67b4",
+        "url": "https://files.pythonhosted.org/packages/0c/95/c14b6422e852be74cf0008b3c6d3bf05dd850ea1e8b22f57640781eefe73/efel-2.3.64.tar.gz"
+      },
+      "2.3.66": {
+        "sha256": "c6cd0d586bfc841f220429f94d458c811661ca608cf198045c8a3d4086b49e97",
+        "url": "https://files.pythonhosted.org/packages/2b/f2/cee146bb2f46b1b809de7f7776ae151cb1484d635b6dad1c8bdff300e488/efel-2.3.66.tar.gz"
+      },
+      "2.3.67": {
+        "sha256": "8173ecc5867f0944409220fb2f7c93f17a568034a156378fe1e2fa475542c6f2",
+        "url": "https://files.pythonhosted.org/packages/59/06/ad0a308741ca9cd37290c5b4b2be2a34a2c99d65a60da06b4f42f6a51b4d/efel-2.3.67.tar.gz"
+      },
+      "2.3.68": {
+        "sha256": "8f1bc161a9b6827173006807fd1f4a1930142d909bda40de14758f2efd532317",
+        "url": "https://files.pythonhosted.org/packages/b4/b2/e55ffb44837db1d383d107bdfb3bd598300c711972fad4d33b98f8f8b39a/efel-2.3.68.tar.gz"
+      },
+      "2.3.70": {
+        "sha256": "389c9ced4a3c24aff36e435d9204f6a7e69387c6fda0a64738292cf035a4bb43",
+        "url": "https://files.pythonhosted.org/packages/9d/9b/d889125dfbe9e18240903a0a8f0101c13cc08ffeda7243f4e46c6557867a/efel-2.3.70.tar.gz"
+      },
+      "2.3.71": {
+        "sha256": "49c2334476985b9e6afdcb2f8e33a7262240a2794e35b90b1cbfd8f0f0bc5ea7",
+        "url": "https://files.pythonhosted.org/packages/36/88/1f4a3395d5460ebdd227c09081ca161cbff4fd370eef7ad251d175cc21b9/efel-2.3.71.tar.gz"
+      },
+      "2.3.73": {
+        "sha256": "d9722120baab6d2f9863b4cf2734c28263953448d6a55209870c98c60000725d",
+        "url": "https://files.pythonhosted.org/packages/2e/79/fa1195f867ebd54e62b529e609cccfb133e082e97a46afa6893a40feaeb4/efel-2.3.73.tar.gz"
+      },
+      "2.3.90": {
+        "sha256": "85e304759a5f5ce23a34f5cef69f26a354be361493e4b1874172eb391fc7dded",
+        "url": "https://files.pythonhosted.org/packages/90/35/173cc2ee9067da901ac5012acc5b1a1b7e645595f1f79b2d99468633b788/efel-2.3.90.tar.gz"
+      },
+      "2.4.1": {
+        "sha256": "4dbba165c2f8ae0ac6add6197a8eb34d8e0711cbcfe8586f5cb1ec3c42a6484b",
+        "url": "https://files.pythonhosted.org/packages/8b/b7/5e860358c401c21399b041099e2a4a2ccf871710ca8fba4c4295e163130e/efel-2.4.1.tar.gz"
+      },
+      "2.4.11": {
+        "sha256": "df0c5e17f0527ab81e79149be5134a83be2a4cd3d30bdb9a2b52dcd5bbc63fa4",
+        "url": "https://files.pythonhosted.org/packages/78/a1/7a661a52cea4e86b43b3c1221909d686bdfd7efcd428e3207ceb7e4b47e7/efel-2.4.11.tar.gz"
+      },
+      "2.4.12": {
+        "sha256": "5cea6bdf28a448da1438ce2850129937919df5924bac491fd45102fcc6679d6c",
+        "url": "https://files.pythonhosted.org/packages/73/3d/dd3add3005311e764958cc7eaa190a2cbf0e2855c58a1d47b733ff764159/efel-2.4.12.tar.gz"
+      },
+      "2.4.13": {
+        "sha256": "c05bba2155b6c213137595763ac2cf1e631e4dd39799a2702767c4344279dac7",
+        "url": "https://files.pythonhosted.org/packages/b9/36/449fadbb6bf77a9a3ba77a744403fee4fd6a22881e1802c44911807700aa/efel-2.4.13.tar.gz"
+      },
+      "2.4.18": {
+        "sha256": "05df0fc30f2fffc2d78ad119e2415bc1ffb45da5d52bcc3f368b73dc952deb28",
+        "url": "https://files.pythonhosted.org/packages/35/66/f5ded23c2aad463f8dca655b0823f49e2add3e052b6f00635007c1db49e9/efel-2.4.18.tar.gz"
+      },
+      "2.4.2": {
+        "sha256": "e6447e003e0327e2082433439ad0ed87dda6ae6a2f292fce02406b24d419aa55",
+        "url": "https://files.pythonhosted.org/packages/1e/1e/3c391a481559c1c87f7dadf493ec95a308e8dc1ef406db335e8a75df3dd3/efel-2.4.2.tar.gz"
+      },
+      "2.4.21": {
+        "sha256": "e98ad9f064b877a174563327731ff33eb714144368a2aa4bcac0537838ff4121",
+        "url": "https://files.pythonhosted.org/packages/ec/23/e1a0680d050b57cefd0c98ac49e2972b3c92917dbd58de2dd4d733f7981d/efel-2.4.21.tar.gz"
+      },
+      "2.4.22": {
+        "sha256": "d024f91fcccbf886884f926fd7fc26f8a8089fb2954688c1a67fa7bbb08ad941",
+        "url": "https://files.pythonhosted.org/packages/f8/b8/517f96634ea21f1ed5873b3a7c23a1fbb0b65e95fdcb3036406dee2a2be8/efel-2.4.22.tar.gz"
+      },
+      "2.4.24": {
+        "sha256": "479f6ca3ae777c5be3e73cedfc0ce14d1742bdc8a02eb43763eddcd60d14884b",
+        "url": "https://files.pythonhosted.org/packages/74/be/ea851091826435d9fc9d83e0ad6d7c285016269ea389a1809c34fb25a90a/efel-2.4.24.tar.gz"
+      },
+      "2.4.27": {
+        "sha256": "a191dfb838132f3f439e1b12b051772f18227b3f7b6b921532e062677785b9d4",
+        "url": "https://files.pythonhosted.org/packages/1c/4a/6f1749901b67958c11e072eb2732565720a8d366aec6fba2cb69a9b63522/efel-2.4.27.tar.gz"
+      },
+      "2.4.28": {
+        "sha256": "84ff02621083fdcd272097056d3fb141963909ba91f32977775e346f7ad8d017",
+        "url": "https://files.pythonhosted.org/packages/f5/60/95c93c9d99031a665528d01e5ec6c9b85a014182c3ce76444185db985641/efel-2.4.28.tar.gz"
+      },
+      "2.4.8": {
+        "sha256": "46946c067fc89c4d73fc7a95d6a940272469dfbb140a398d22095a526d5aa94f",
+        "url": "https://files.pythonhosted.org/packages/a4/f4/c1b0779d5bee62252ef28b1f97299c4b74c9d78487d3c5f07e39ea216ba1/efel-2.4.8.tar.gz"
+      },
+      "2.4.9": {
+        "sha256": "e4b6759e0f7a1aaab77c5e818917a78b8a6d6507206f6f0b15c184b4e4633686",
+        "url": "https://files.pythonhosted.org/packages/19/d0/289182207b9a25ec8e6fe0fd71f64e5c67643d45143de04e4a806f771c57/efel-2.4.9.tar.gz"
+      },
+      "2.6.1": {
+        "sha256": "87b0cded3ea08958d557dac9c57f03d629996f95e382543c7177741f667f37a9",
+        "url": "https://files.pythonhosted.org/packages/ab/be/e4e7cad86d25bd9e6f79dedbdbdb8068906b551db85a618e9832515eb5ca/efel-2.6.1.tar.gz"
+      },
+      "2.6.10": {
+        "sha256": "7b1bbb75079a5ff6d8c728166e519f7e57a31126cd64480e1795079b00b30c06",
+        "url": "https://files.pythonhosted.org/packages/7e/87/fdab846d1f233bb9fce652dbb4da97a4aa223a4ba2776aeb0b00c4531e4c/efel-2.6.10.tar.gz"
+      },
+      "2.6.11": {
+        "sha256": "c362e8dac548b45d587437144fae4b3d593e7c7eb160a51575a4ef8ceff7b58b",
+        "url": "https://files.pythonhosted.org/packages/e1/ab/cc99fdb5affacd7da344aea502143d30c3d2e532c5da789f8fe6494ffde7/efel-2.6.11.tar.gz"
+      },
+      "2.6.12": {
+        "sha256": "02e99ee71b5850ed4faab80db12704194ee6ac061cb0f79ee37c7458a28a3889",
+        "url": "https://files.pythonhosted.org/packages/bf/6c/0f70c11e5322d5068dea5c99e867f7fd0e11835d3421eb0175c3c229a7f7/efel-2.6.12.tar.gz"
+      },
+      "2.6.13": {
+        "sha256": "48f36d58d4d9a580deb406885a48680da2dbea59618aed9219acb74badc5128e",
+        "url": "https://files.pythonhosted.org/packages/06/9d/8aeb70d8b4dffb636536e5a9ca323818158e8ae1a866a9b891c9e795075e/efel-2.6.13.tar.gz"
+      },
+      "2.6.14": {
+        "sha256": "85691ad471aee85f0bddabbb8d92a9e88557abe9af3755dc2685deb9d04bfef5",
+        "url": "https://files.pythonhosted.org/packages/87/25/700f44065959d0b4f1683becdec5dc7e19730cbcf7c816ec5f1114294a5e/efel-2.6.14.tar.gz"
+      },
+      "2.6.17": {
+        "sha256": "4e758edaf3cc37ab7164eae80828cd638d50be914ae7291798b9c0020f93f22f",
+        "url": "https://files.pythonhosted.org/packages/fc/0f/627670ae09e51f8d29943f37204b3ef7e31af7dbc86bfc14f1abec85285c/efel-2.6.17.tar.gz"
+      },
+      "2.6.18": {
+        "sha256": "0c4ea9757dc501cc02ad24bdeafaa3b6f216c49ff791e59b096471e2d5a491bc",
+        "url": "https://files.pythonhosted.org/packages/d4/8f/13978728bfcb3eee5fa21fbb89c07dbcd0b10aa8eb51d5e1167267147001/efel-2.6.18.tar.gz"
+      },
+      "2.6.19": {
+        "sha256": "68e3c3e6ce4f4de767e06b4848a059133ed03d098f37463ddc91fd396026c5ee",
+        "url": "https://files.pythonhosted.org/packages/16/cc/c8d4e59aca1d8fc766065e7117ce2e72d6e2b34cfb08cac03901035c37d4/efel-2.6.19.tar.gz"
+      },
+      "2.6.20": {
+        "sha256": "68c8e895005e734be417f54c56e6fcedbf285cf3d4faad95cff2ea501ca8102b",
+        "url": "https://files.pythonhosted.org/packages/9e/01/cc9adbe4783b76ac78008fe927c774fb97bcc7d5c37bcec850f1c3f134ee/efel-2.6.20.tar.gz"
+      },
+      "2.6.21": {
+        "sha256": "48ad6f29bb728cdb997cd1d140a121d5b06c4e1f9d0291fc75eca47d95e5de78",
+        "url": "https://files.pythonhosted.org/packages/c5/ae/c30604a2d42e0bfd827fd20ea5624a171a5d631fed7e578fc3edd13c0640/efel-2.6.21.tar.gz"
+      },
+      "2.6.22": {
+        "sha256": "fa845f618c53b6c2cbaaf207878de98d71cfeadafa233e5b6744db69310cb672",
+        "url": "https://files.pythonhosted.org/packages/fc/4e/d1c571b149058029c7dab6d92eebbe6def15d51831fa005c36cc0d41113a/efel-2.6.22.tar.gz"
+      },
+      "2.6.23": {
+        "sha256": "34986a09972d49cc3e07720c00bb101a063c5f6f206a939b39156e4690b81d7b",
+        "url": "https://files.pythonhosted.org/packages/2c/7b/1e835c1848affb43d6143502b463ce8d46cc28dfd835a04f0480d1bedc25/efel-2.6.23.tar.gz"
+      },
+      "2.6.24": {
+        "sha256": "9411f54ef235d1b9946965520299f4048586f610d9c686b57254782f1ca8374b",
+        "url": "https://files.pythonhosted.org/packages/20/09/805232a7341d4ccb8015d5d8b3524f8b9f071b23abb801a1f3a2d132c5e8/efel-2.6.24.tar.gz"
+      },
+      "2.6.25": {
+        "sha256": "35821478a6a40e7e0282d620d178a3ffbc11b956b11336f0d7ee54b28c7cf830",
+        "url": "https://files.pythonhosted.org/packages/01/8a/028efde888af3f9bc0dfb12cda6346887c29c09c93c36647de51c6cff5fe/efel-2.6.25.tar.gz"
+      },
+      "2.6.26": {
+        "sha256": "152a54d8102f9b7a487493cecab74344bea6ec09cbf9b64523074a20ff091f1c",
+        "url": "https://files.pythonhosted.org/packages/7f/bb/0e8faebc7fe99dce8215c07f43670d7a46ba764abb32c68c334102c6c6bd/efel-2.6.26.tar.gz"
+      },
+      "2.6.29": {
+        "sha256": "a82240086e5de8c7de2b1bf137ab8ba8049f0f8ec6e0f357a1e747c4baa1249f",
+        "url": "https://files.pythonhosted.org/packages/6c/0e/2769cb886e99ddb6bb49a9d4408063af4e5edc6c1d12b7d1c5295aa0c010/efel-2.6.29.tar.gz"
+      },
+      "2.6.3": {
+        "sha256": "0e1291fb18cdfb69daec51026a8434d0445e533d05b2b3b24e3b3be58dabc293",
+        "url": "https://files.pythonhosted.org/packages/a7/c6/43c1b0ab58bab77fa4eff88441d1e302fa2fe967a8b57b664b183d923718/efel-2.6.3.tar.gz"
+      },
+      "2.6.30": {
+        "sha256": "026c52edb72d1b4ae0c9dfae4c18099deae537ba203da0547745102560ac9fd7",
+        "url": "https://files.pythonhosted.org/packages/8b/da/4a91b8f9b647bdd194c20583774a22946fb81b9628e6a6eb5171f6de67bf/efel-2.6.30.tar.gz"
+      },
+      "2.6.31": {
+        "sha256": "6aadda265b644cac17460da7168307c497a5e9a5a477c88b04ccd591e301bf6c",
+        "url": "https://files.pythonhosted.org/packages/05/16/c9bb4ecda9ac09a3ccc1a0039a431fb08703770f3f2d9c7cc73cb2c0dd25/efel-2.6.31.tar.gz"
+      },
+      "2.6.32": {
+        "sha256": "878abec2c8e4ebfe4b197b10c4cc0520f6a47946dd1a09ae4282cb817f77ee3f",
+        "url": "https://files.pythonhosted.org/packages/d7/57/75e77f2612ef791005bc6a70d2cfff453a2a445e8e78173382ce75c4a956/efel-2.6.32.tar.gz"
+      },
+      "2.6.34": {
+        "sha256": "af0a969aa41892171c6cf73a11ae11a5b9be27ca0906f20a76261b9eb9c2a78c",
+        "url": "https://files.pythonhosted.org/packages/4a/8e/1513f29669217ba9b71579ed8946ead4c019c9b8079660565b1ce2259832/efel-2.6.34.tar.gz"
+      },
+      "2.6.35": {
+        "sha256": "2fef50b4807ed44fb9852ecb1d00e12b9bd28d80b54e0791e0feeab6bf496ae6",
+        "url": "https://files.pythonhosted.org/packages/f7/8d/a350f53b2b5d74686f51a87abcc194eb346186aa3460402d157ea32df219/efel-2.6.35.tar.gz"
+      },
+      "2.6.36": {
+        "sha256": "b3f8ce9e7c7b435e49e5823f6fa174f37a12d5a4a5eaa33bbf8385ca38bdceb2",
+        "url": "https://files.pythonhosted.org/packages/d7/42/d469a474ba51c0b0b406ec33ee09ccb57811e728ded51aa7a96a3176890a/efel-2.6.36.tar.gz"
+      },
+      "2.6.37": {
+        "sha256": "42bc4cacc7e577893d8e32f2a1948b4f4eba3fd7e53242aaca278aa1836cf123",
+        "url": "https://files.pythonhosted.org/packages/94/32/3ac4247c548d0f54fb5af17586eedc099ed781903d0627a0dbb197553d31/efel-2.6.37.tar.gz"
+      },
+      "2.6.38": {
+        "sha256": "579820074e8f7d4fb5a9d3fcc34dc30103611907de04ae600c5b9cf01f811beb",
+        "url": "https://files.pythonhosted.org/packages/e2/df/7b3fecde26d337a2cf7766f74bc7f3472162a1d35aac06302a83289d9d6a/efel-2.6.38.tar.gz"
+      },
+      "2.6.40": {
+        "sha256": "678515428a70be754e917b5f4249addb760e34889efe7b142804774077152e6c",
+        "url": "https://files.pythonhosted.org/packages/88/5d/6bbfc3bdd62e73b3d44927a86328fca4961f193a52e155ab5bd24ccf54ff/efel-2.6.40.tar.gz"
+      },
+      "2.6.7": {
+        "sha256": "fe23cbe42a1863a3fb2819badf7b5a6110a0bffead220d2ab5f08a5aa425cb59",
+        "url": "https://files.pythonhosted.org/packages/44/96/102bd9d2eca2274a69313fbdc7a36d3a9bfd7cd2d1734e21891499866554/efel-2.6.7.tar.gz"
+      },
+      "2.6.9": {
+        "sha256": "976a5a6289ec4d7d10a99b6627983312e39c24bb89b3a679c0ccd3bcde91bb6f",
+        "url": "https://files.pythonhosted.org/packages/db/b9/18efd95ad98a7444f3614af7f497630cdef5b8d6a81ff2f83c35b5300705/efel-2.6.9.tar.gz"
+      },
+      "2.7.10": {
+        "sha256": "d699aae1cf8bd6e3b2a256aecc3dbd98be9a77d33bbecedeebe6bede635d1c1b",
+        "url": "https://files.pythonhosted.org/packages/88/8c/d81d81101b756125dfef3a7f33fb8e32861eb87adb14b9605162a7d85c1a/efel-2.7.10.tar.gz"
+      },
+      "2.7.4": {
+        "sha256": "42e84bbf23b718fee898dd2c53b0353affcb9e8df786fedc65713cf7a795a744",
+        "url": "https://files.pythonhosted.org/packages/d7/44/7d81262dc6270bf0f9b5bbf79843ac0781c07687f2622cb5c7bdb06ef68d/efel-2.7.4.tar.gz"
+      },
+      "2.7.5": {
+        "sha256": "82fc7f8b26aa2909a5702be411400d4948960f950775ae447556fc4b85df291f",
+        "url": "https://files.pythonhosted.org/packages/ae/15/63d4ae6202f5e36244adcfcdf95ecf58d9e2bef848981f96458395b1ac20/efel-2.7.5.tar.gz"
+      },
+      "2.7.7": {
+        "sha256": "91105b07c56e44aadc19e27dd7e49c25ed8b0f1a17e6ec0356d972687dc68502",
+        "url": "https://files.pythonhosted.org/packages/d3/7f/b5f8a12b4d30a856c878006ffdcf336a176efaefc3f7b261411b4f238627/efel-2.7.7.tar.gz"
+      },
+      "2.7.8": {
+        "sha256": "43f748321227412ccde5b3211481a7567712fa9b1a218ac60d0086e8c2d925a9",
+        "url": "https://files.pythonhosted.org/packages/38/bd/aebb65599c3c0c43bffc242b9d9625fdf84f9a0cb0fd79cbc90d05c5ced7/efel-2.7.8.tar.gz"
+      },
+      "2.7.9": {
+        "sha256": "3d415f6941cf8e79bd5c7f4ee75c5374674dcf4211350364092b37a0cf28ddee",
+        "url": "https://files.pythonhosted.org/packages/99/6e/54df83699fadb895993b8dc505f933f2529e1ce93e2cee442e637a303c3f/efel-2.7.9.tar.gz"
+      },
+      "2.7.post0.dev12": {
+        "sha256": "7241287ca592cb72eef0816331e6becc2eeedd26114fdccc162493304b0a0cf5",
+        "url": "https://files.pythonhosted.org/packages/54/55/2bc3894355f1d395f245448f1004fb61f5be3cdfde3553b0f82d394b8c9f/efel-2.7.post0.dev12.tar.gz"
+      },
+      "2.7.post0.dev13": {
+        "sha256": "9d9e534dd865bdd9e4142a01fa31e150177e4dc53a089b52b677444eac7a75bb",
+        "url": "https://files.pythonhosted.org/packages/58/3e/a052d843d27d84f4164176212d568af9ada012c7fe862f6c7daa41ca3ae9/efel-2.7.post0.dev13.tar.gz"
+      },
+      "2.7.post0.dev15": {
+        "sha256": "ca8ba893504c124ff2302c1d870ddac081c34329b95209ba63ab94e7d53aea1d",
+        "url": "https://files.pythonhosted.org/packages/d4/69/b68cab298a607edf1204cb5d31f1567348f7577383680e7836aac456135a/efel-2.7.post0.dev15.tar.gz"
+      },
+      "2.8": {
+        "sha256": "f6aa8c7fe21a57a6990604f66b46f1059a9dc939a00b923e3ba45467e0994637",
+        "url": "https://files.pythonhosted.org/packages/47/33/064f7d1ab3824862f10a53b3d6b7f9f1f3e62f8744f28095aad86c63d706/efel-2.8.tar.gz"
+      },
+      "2.8.1": {
+        "sha256": "3db4fba1d87e9afa317557754a778c1a079d27aa96fd72fdc8810195a8c8eeab",
+        "url": "https://files.pythonhosted.org/packages/c6/19/09ea2d1885cec1f0ee69011a05e46cf07bbc2582575f2987cf104046a355/efel-2.8.1.tar.gz"
+      },
+      "2.8.2": {
+        "sha256": "feba18e80df776b17365838c8a3fec831e6a9c5842047cdaaebcc6cf84604b85",
+        "url": "https://files.pythonhosted.org/packages/42/df/135a4e058bdaeeaee118180081e7437e29136aa2b4bc55d8d347ef7d811c/efel-2.8.2.tar.gz"
+      },
+      "2.8.8": {
+        "sha256": "02c2a1ee04f6ed407abd7d86c7fd31fe82ba9fdee6b3a543ab98060946690e91",
+        "url": "https://files.pythonhosted.org/packages/89/f7/f41e4bb341b49a8974c4b3ed5f08ad531e3706229795272c538e0ba0c0b3/efel-2.8.8.tar.gz"
+      },
+      "2.9.1": {
+        "sha256": "331ec94a9206f2195fc3b2d2a35c4a5746ec8245f2a19facb182b10c606800f6",
+        "url": "https://files.pythonhosted.org/packages/f7/73/738d3d20dac0617f70419bfb53dbf4a8c669be30f3dafd52edea04b3cf0a/efel-2.9.1.tar.gz"
+      },
+      "2.9.10": {
+        "sha256": "2cb15936cfdb1ab27b6f0c4c99d37d6901871ed94b85d3f6969d895d7c6bfc5d",
+        "url": "https://files.pythonhosted.org/packages/fa/fc/a48fb89204f85efa64d168547fa7a0befc95c2e88bcfd52159a5bd18ae51/efel-2.9.10.tar.gz"
+      },
+      "2.9.11": {
+        "sha256": "41ca07e2cbd870e610f63098e2518a0c461b0ca0e6131e3eca220004133afe1c",
+        "url": "https://files.pythonhosted.org/packages/16/fa/e60ffa3f8b392fe2378828e95c648d07c89df0998d8b2aa870178793a757/efel-2.9.11.tar.gz"
+      },
+      "2.9.12": {
+        "sha256": "a948c8554c35be2dd25fc315012fa73c6fee8f8fdc319f7888cf693c41da0187",
+        "url": "https://files.pythonhosted.org/packages/77/d1/afbb13ca1c905a608a4a96d2591e99ee668ec53547ee04979ae4f70d9f8d/efel-2.9.12.tar.gz"
+      },
+      "2.9.13": {
+        "sha256": "1649090f762aca6556abf051e6062a2aafec5ef91a96032da46e63d34ced6145",
+        "url": "https://files.pythonhosted.org/packages/5e/9d/5247933be8072a5923845b6504917ee4a2f8a5464c93038bb3b2e85d4d22/efel-2.9.13.tar.gz"
+      },
+      "2.9.14": {
+        "sha256": "94c1991c639a3e35dd3a3ba6bd3a39b161f878a2112f8334cbfd71f2fa4e5d27",
+        "url": "https://files.pythonhosted.org/packages/73/fa/96f44fd4b412fa81ebf507becc558cfc8e75539793d81d8de3957ee4a759/efel-2.9.14.tar.gz"
+      },
+      "2.9.15": {
+        "sha256": "2a7d2e28341ceffc34808d18f3681a43754f4fab2a02fb53bb039e7cf63889e4",
+        "url": "https://files.pythonhosted.org/packages/66/cb/da8e03c923260190edaeb54c8e554f1111eb6e78a01533555e369ba34ca3/efel-2.9.15.tar.gz"
+      },
+      "2.9.17": {
+        "sha256": "d111c2f59b06edc1c62232ddbf6a435bb07f6803d28da2333070272092a0b959",
+        "url": "https://files.pythonhosted.org/packages/d8/66/bf264c587732e603bcfe47d5999a61d8a1b0533085b9fd3e9dc008c07613/efel-2.9.17.tar.gz"
+      },
+      "2.9.19": {
+        "sha256": "3c1021bea6bb1cf39d30f3a3154b2478c53d8c29e5e4d0920f01385cfcb3a3d1",
+        "url": "https://files.pythonhosted.org/packages/ab/cf/f168cce92b876182db3c2b3f1a580f31444f9fd477806b065a0de84febd3/efel-2.9.19.tar.gz"
+      },
+      "2.9.2": {
+        "sha256": "426cfa56dde9867e2803b07abbb7f2810ff764d6de329943c8adf8c1dac238da",
+        "url": "https://files.pythonhosted.org/packages/f4/66/ef9f4c357828ecc6e9eed54b5e9f515eb193595304b32519e9dbfe4454b0/efel-2.9.2.tar.gz"
+      },
+      "2.9.22": {
+        "sha256": "93b6b2ea63180b6ccebe971cae7d869709b9dd3174853ddeba5850b72e5d3a8f",
+        "url": "https://files.pythonhosted.org/packages/0f/4e/e99757a66d4f37525cea25b3206ff8aa7705744c97d3bd6777f78bfa074c/efel-2.9.22.tar.gz"
+      },
+      "2.9.3": {
+        "sha256": "06a6bd33aeecb7f35bac02aad20c83eda4b846e87002990fc7943904e584aca8",
+        "url": "https://files.pythonhosted.org/packages/43/aa/8e692d0058622524d666be4bd6cebfed8050e9b6ceef2b2cb568cc4c5a7c/efel-2.9.3.tar.gz"
+      },
+      "2.9.4": {
+        "sha256": "59c536a013d4cb40f7e43aab6cf0775c6b06551d46931ad2d070eb28bcbf9729",
+        "url": "https://files.pythonhosted.org/packages/a7/2f/428357cd9af8306f3a4d0e2979faf2b7ce834bfc5d94c65b2b7e5ef0f96d/efel-2.9.4.tar.gz"
+      }
+    }
+  ]
+}

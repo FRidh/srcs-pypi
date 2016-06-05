@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.2.2"
+  ],
+  "meta": {
+    "description": "Interface to Mightex LED controllers",
+    "homepage": "https://github.com/janelia-pypi/mightex_device_python",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "311e080afbe013263cd40a1b6a10fadd2a5a2ed1ab60f0b6857ef33adcec7bd1",
+        "url": "https://files.pythonhosted.org/packages/1d/6a/2da68630fe260f88730d4035e5713647ca44f613023181731d3888ba9cd7/mightex_device-0.2.tar.gz"
+      },
+      "1.0": {
+        "sha256": "5cc20bc89b95d2d1979b2718966586c47afb24054dc16c16a24bf8a30bfa8fad",
+        "url": "https://files.pythonhosted.org/packages/49/f7/efb15a94c36a97bf95e9d0ae06c4c9bd59c20732dc015e785879cad5650a/mightex_device-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "63dbabe3972a42f87099b6cedb6458e6cdf6206dd3262ed956801dd9690a685d",
+        "url": "https://files.pythonhosted.org/packages/e7/9c/a65895d8be42f432e63b4ed6f97f1f33ab35bda5b7cc856f5eeb752eb77c/mightex_device-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "a50fa18383c022c5f9086c59ba48f205761694afdac3a6c0ca5cb2dbb539728c",
+        "url": "https://files.pythonhosted.org/packages/09/13/55d2866d06d6007685df24a31296ac37e074ab19ef96d18f5e71d598d4bf/mightex_device-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "e1581bd8eefbdab7c57f6acf3fc06632d516f6f34697e692b50884f58d54f10d",
+        "url": "https://files.pythonhosted.org/packages/27/8c/da1c66374bb48483acc1096c17c068c6f98ce2219a1d34ec88bda9ba97d2/mightex_device-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "29b8616e248548dad468248b80d6752425423c09e3cd706c78541a96341fcd1a",
+        "url": "https://files.pythonhosted.org/packages/bd/84/f88120a8060535f89ba7f6631ed227330336c4088f53589d9fdeffbdbd09/mightex_device-1.2.2.tar.gz"
+      }
+    }
+  ]
+}

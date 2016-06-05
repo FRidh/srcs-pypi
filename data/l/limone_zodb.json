@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1a2"
+  ],
+  "meta": {
+    "description": "ZODB persistence for Limone content types",
+    "homepage": "http://pylonsproject.org",
+    "license": "BSD-derived (http://www.repoze.org/LICENSE.txt)"
+  },
+  "versions": [
+    {
+      "0.1a1": {
+        "sha256": "485750f354312418381fe9760ebe623ad64db0c58337c400d11dbb0b2f5d2afd",
+        "url": "https://files.pythonhosted.org/packages/41/27/37524c36248399881f8c3cd4ec7f21739fefb20e4c1d0b112b981a443f86/limone_zodb-0.1a1.tar.gz"
+      },
+      "0.1a2": {
+        "sha256": "a83719c525c2303ef2da5c303f94a2dc509d0132aad22a340c12ba777fb6f53f",
+        "url": "https://files.pythonhosted.org/packages/b9/25/850d2faf16c028eb17bfcd54c768f5d6ea249d61a480f9510fa3a79fa68b/limone_zodb-0.1a2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "latest_version": [
+    "0.0.23"
+  ],
+  "meta": {
+    "description": "3xsd is a native epoll server serving TCP/UDP connections, a high performance static web server, a failover dns server, a http-based distributed file server, a load-balance proxy-cache server, and a warp-drive server. Written in python, take the full power of multi-cores",
+    "homepage": "https://github.com/zihuaye/3xsd",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "0.0.15": {
+        "sha256": "ee442ca1a817349dc216ae08bbfbd6a5872af5873e0b8335b00b719db6080edb",
+        "url": "https://files.pythonhosted.org/packages/e8/70/ccb76e3c05306ab4592b93f980dc3cbb35371a4fc6b6ea28fdd559bbfb21/3xsd-0.0.15.tar.gz"
+      },
+      "0.0.16": {
+        "sha256": "0aa9ff14fc357c880eb745890c2cd01a94ae1586eeb24ae7991e7513886bd266",
+        "url": "https://files.pythonhosted.org/packages/b2/cd/aafd89911b24cb48fc29c5c3fe378da1c3c63a7b8041aaf5897e1253ca65/3xsd-0.0.16.tar.gz"
+      },
+      "0.0.17": {
+        "sha256": "932b2ae06e8de3ccaabf04957e07b1c07ab57618498b6424f155536c5f8915b2",
+        "url": "https://files.pythonhosted.org/packages/27/49/ea4e7c3588ff81026f5801b9f0251c5f01f5dbe812adb33a227fbbea1c3a/3xsd-0.0.17.tar.gz"
+      },
+      "0.0.18": {
+        "sha256": "64926b26c5cd4b552a70e8f6b78d630858f0d34e243332d4a9c8b399d02b4f1d",
+        "url": "https://files.pythonhosted.org/packages/bc/de/0c1916c66ba0445053497e1fa0ed55f28abdf03763aef56757e9cddb5558/3xsd-0.0.18.tar.gz"
+      },
+      "0.0.19": {
+        "sha256": "2d4d5353bea8a1aac7a9ed9effee4c7b46ee525ad3d7a6273441d455ed26ec81",
+        "url": "https://files.pythonhosted.org/packages/41/53/bc19e73836b7ca97c7f1eb42ee056ba06a357d5a0b4717b5b4a2e678885f/3xsd-0.0.19.tar.gz"
+      },
+      "0.0.20": {
+        "sha256": "eb0172106144f18ba403dab01182662a1df110820941ab238c06f02f407968a7",
+        "url": "https://files.pythonhosted.org/packages/57/9e/374030409d3956ce1f4f387a49cc4d3f37b2c39dd8547e90f7e0974f8f04/3xsd-0.0.20-1.tar.gz"
+      },
+      "0.0.21": {
+        "sha256": "183e5174e55e8237d619f68ad283f81cda4228c6b5ab50e0742ed768d2eb36fd",
+        "url": "https://files.pythonhosted.org/packages/c4/69/0f1f32a04410c65852c8c943ac4aa4e46ab7e58126b607d950f90bf53ecb/3xsd-0.0.21.tar.gz"
+      },
+      "0.0.22": {
+        "sha256": "3fc5a2adf427c8b3ec1713623f15454117ba6f1088adaa6497e66fac90b031ec",
+        "url": "https://files.pythonhosted.org/packages/1e/60/9507193a031c3c06e0c58e68bcf44a8031ef92f2b4bf6f265d5975d2c383/3xsd-0.0.22.tar.gz"
+      },
+      "0.0.23": {
+        "sha256": "24cec573d166bb41c5b4e9f94d04d10e9a7a04df077a7fdc7be25b38882908e1",
+        "url": "https://files.pythonhosted.org/packages/a5/2b/70ed58f0df654ef38b2b4c5b0511af78c6af0fd2cf3a8de4931d7cae8a27/3xsd-0.0.23.tar.gz"
+      }
+    }
+  ]
+}

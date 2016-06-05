@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.25.0"
+  ],
+  "meta": {
+    "description": "Specify targets and run sets of tools against them",
+    "homepage": "https://github.com/nccgroup/autopwn",
+    "license": "GNU Affero GPL v3"
+  },
+  "versions": [
+    {
+      "0.21.1": {
+        "sha256": "68036210c438aca24c23e35228e1d2c4ec6264c571ca669a5696f0ab3cc62d47",
+        "url": "https://files.pythonhosted.org/packages/a3/af/61922a0292672796d130448259b30aff12e68feb9add607866e39fda2211/autopwn-0.21.1.tar.gz"
+      },
+      "0.24.0": {
+        "sha256": "4cf99382ab85e8880159b50596558197fe61e0e50631a31db75b48d38c5f84b4",
+        "url": "https://files.pythonhosted.org/packages/03/1d/5a6f8b6fb92997b9fe44be100fe1ceb9d390b6811cbae57962b5aa8ff2b2/autopwn-0.24.0.tar.gz"
+      },
+      "0.25.0": {
+        "sha256": "44465e385c89691335da814351c3db58c9b87712a37737d8a779d82e959a7e6f",
+        "url": "https://files.pythonhosted.org/packages/08/2b/db5970bce1a930e78a38ae20a20268a948bca001372f6b19f3e15c59108f/autopwn-0.25.0.tar.gz"
+      }
+    }
+  ]
+}

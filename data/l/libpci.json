@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Pure-Python, high-level bindings to libpci",
+    "homepage": "https://github.com/zyga/libpci",
+    "license": "LGPLv3"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "45a7806bff79913c920a6ed3311c8760a53afaf090340642cc6c936ece93cbb8",
+        "url": "https://files.pythonhosted.org/packages/a3/3e/3f4438a47a1288a0780513d3428ca91437e1aa556575a60b83e99604bc83/libpci-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "a95d26cda21d9afa728bbbb87619605f42869bfbaec6e577eca3545b4b9906ba",
+        "url": "https://files.pythonhosted.org/packages/d9/e5/5336ee2a3877d0d9540ff72d3790058b7536dc561716d5e0698bc9c9cfec/libpci-0.1.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "d66b4d3e9555c1af8c05949dc31db1b5f61bbf9644115e270600cdc221e6f630",
+        "url": "https://files.pythonhosted.org/packages/5a/e6/f59f170735a97f16b5541f8c02df006366705bb07b2669442317310940f1/libpci-0.2.tar.gz"
+      }
+    }
+  ]
+}

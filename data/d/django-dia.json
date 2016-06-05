@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Generate .dia diagram of your django project's models",
+    "homepage": "https://github.com/neumond/django-dia",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "d75d30456ccaf0480e624af67d7445b3f61eb4479c2e9c2fefe8c7bd493cdd8e",
+        "url": "https://files.pythonhosted.org/packages/0f/67/719c8e2a4d8bad82481ae1036eb2992ef8b1599ec7be0471b27b13c92321/django-dia-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "2a0b4904ec5e88e757b1e6c70e7ec062abcf2f5ac52ef836dcfa303507a82772",
+        "url": "https://files.pythonhosted.org/packages/5d/fe/62fddf5c480116cba110ada045b8e06a36476e33eb465500efd1a2c6ffee/django-dia-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "c54cc485f098c5542b9dccd06a6d55c49f353158adbc01c7f1429050f8fdb620",
+        "url": "https://files.pythonhosted.org/packages/e1/2f/e518ce9de662178aad4860a7b54faab0fe2fe328a1a2e4f629177267af14/django-dia-0.3.tar.gz"
+      }
+    }
+  ]
+}

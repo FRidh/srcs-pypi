@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.3"
+  ],
+  "meta": {
+    "description": "Provides Django email integration for RQ (Redis Queue)",
+    "homepage": "https://github.com/jefftriplett/django-rq-email-backend",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "4d41eea28e880b850a803d79d9b5609fe43899230e928a33eedce2f4a1af0f1a",
+        "url": "https://files.pythonhosted.org/packages/72/3a/8e6c54032119814cbdb47ca9ecbcac8438922570777e637ef07a8dc6dcdf/django-rq-email-backend-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "78d80ca4bb7e4d86e4e346afd7bf67680d1fec5ca7cd986867d3c57d858500b4",
+        "url": "https://files.pythonhosted.org/packages/24/39/612056d41295c7dcf92492f1b02ceb6db136c2222d3ce51d4be55db383c0/django-rq-email-backend-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "8b48416fc031817e1acca615f87d58c9b08ce445f294641edb4d430a9409eadb",
+        "url": "https://files.pythonhosted.org/packages/17/f4/0829f8906f3920d28cd7033d9d88e312a09c046fa6f8ef885bbd7240e349/django-rq-email-backend-0.1.3.tar.gz"
+      }
+    }
+  ]
+}

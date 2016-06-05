@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.2-dev"
+  ],
+  "meta": {
+    "description": "a freebox (French set-top box) python client and cli  management",
+    "homepage": "https://github.com/iXioN/python-freebox.git",
+    "license": "LGPLv3"
+  },
+  "versions": [
+    {
+      "0.1-dev": {
+        "sha256": "98e419eaac34e54352c47ad0bf7aed5c82d70a4b9de005ffb6df7d9a373d49f6",
+        "url": "https://files.pythonhosted.org/packages/54/9b/75ce350c7898be895efaea5eb49bbb64082178b247b1d665419fcb1617e5/freebox-0.1-dev.tar.gz"
+      },
+      "0.1.2-dev": {
+        "sha256": "5dd5b9386c8dc43f5ead190320dd62a5580ca37dd3352553aed92d3d4918d8e1",
+        "url": "https://files.pythonhosted.org/packages/10/b4/e1384b0f884dd4a6237ccf5ac605e15c30c78370998d6a4071960aae621f/freebox-0.1.2-dev.tar.gz"
+      }
+    }
+  ]
+}

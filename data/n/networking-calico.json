@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1.3"
+  ],
+  "meta": {
+    "description": "This project contains documentation and code for integrating Project Calico networking into OpenStack/Neutron",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "ee5a920a021823e8ba9415249fb17e1b6882a416986228f718e27acf6d7a445b",
+        "url": "https://files.pythonhosted.org/packages/83/63/da8692d13cd9af524566ae9f40ecab12c834683b3f49feb56af7f6d25543/networking-calico-1.0.0.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "a4a18df13e89494598f9d92cf117583d0cbf4dee498b9ff3919c4cceebcd3d35",
+        "url": "https://files.pythonhosted.org/packages/0e/b9/6d24df608a899ee0b96a9acf07b533677ddcf678922361254513e9b41ba6/networking-calico-1.1.3.tar.gz"
+      }
+    }
+  ]
+}

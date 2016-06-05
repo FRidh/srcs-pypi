@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.1.5"
+  ],
+  "meta": {
+    "description": "Build DPKGs natively with Python",
+    "homepage": "https://github.com/beneboy/deb-constrictor",
+    "license": "BSD 3-Clause"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "147bd378f51a16c04d9ab70d2a8f1f254557ea2210b18da41857ad21684ccdb1",
+        "url": "https://files.pythonhosted.org/packages/c0/b4/6f348d8c5722c61a4571f2bf2f82c8c57736804037d3467e98c19dd792d6/deb-constrictor-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "ea5481aef2c30d54e84c22e1e155ed511fe367947d0d466ded45282a1621f606",
+        "url": "https://files.pythonhosted.org/packages/a0/74/55df749625a2db0a14887ce6e0bd4e55e6a1141ade531c4e626ba0d38265/deb-constrictor-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "c32ec775284d48edb4017497c8a88313d2f5d164cc18ab8d65e484ccceb945c7",
+        "url": "https://files.pythonhosted.org/packages/c1/0b/3a58274c2904d1aa040feef6a751505908ec6d1a5c60a0733be96987e844/deb-constrictor-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "a2f7eddcea9d323bfdcc94f7160f425f61a9ad4f1808c676d13eb8d021e670a3",
+        "url": "https://files.pythonhosted.org/packages/65/11/2e98b934f372b36c2ec302aa9e640b34c218672a2f0b1f547868efa5b99d/deb-constrictor-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "f7c5f0fb892f308dbc6bd4ddded20ab2090b7f4b0af1da9b7d7b88d971a243f9",
+        "url": "https://files.pythonhosted.org/packages/27/77/799db53b60d8ddd24eb84321d52176cd5ca7613462a0670a2850a7603c97/deb-constrictor-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "4a03355d80436b1b967906ee29c1d5a13f436ab289c8aa298d4106fc4f777ae2",
+        "url": "https://files.pythonhosted.org/packages/df/38/9e7cbd243c88892ebe1cf4fc457800d10e8232f9a603b9ac65f55fa8ade1/deb-constrictor-0.1.5.tar.gz"
+      }
+    }
+  ]
+}

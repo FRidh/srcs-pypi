@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.8.4"
+  ],
+  "meta": {
+    "description": "Tools for building cloud images (make_provisioner and fedora2ova)",
+    "homepage": "https://github.com/sapphirecat/cloud-maker",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.8.2": {
+        "sha256": "1847ed57e024391b3345dcdf6ba41bb45a85a7a0b61a314942c90b1ef1447795",
+        "url": "https://files.pythonhosted.org/packages/0f/0b/0d1d1c465262d08963e7849b910da460db0702371ebda90ebaf6b9329466/cloud-maker-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "cacebcd94118e90e640d4a5869431587a49c991b38c8f7e398a5c860f5bd6b1e",
+        "url": "https://files.pythonhosted.org/packages/fa/41/0034531907923f45d7df9702cc3d5e2dbe9a22dbd5cbf57d3b5cc6a9af00/cloud_maker-0.8.3-py2.py3-none-any.whl"
+      },
+      "0.8.4": {
+        "sha256": "dc449dd3325ead62428057f55afa430e3aa46ee4cfecfd836788200bfcad13eb",
+        "url": "https://files.pythonhosted.org/packages/3d/e7/9cc4ad4cb2688b16131b43d16d68d7053c33f7927e083b37e4c8eb40aca8/cloud_maker-0.8.4-py2.py3-none-any.whl"
+      }
+    }
+  ]
+}

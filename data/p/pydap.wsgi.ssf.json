@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1.1"
+  ],
+  "meta": {
+    "description": "WSGI middleware implementing Opendap server-side functions on the Pydap server",
+    "homepage": "http://pydap.org/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "8263acd7e8c47711cab86cbfa10cf35c70109bef1b0781fbbd7cb2c8b51f7187",
+        "url": "https://files.pythonhosted.org/packages/31/bb/546c4885c5faf53ca89a770ff841f68e1dc49d7be19904d92724a6a2cbdd/pydap.wsgi.ssf-0.1.1.tar.gz"
+      },
+      "0.1.1.1": {
+        "sha256": "88441d1b46a88f5f7bbf5d64f9777f810cf905b03132e9ff69bc718c8a84a47b",
+        "url": "https://files.pythonhosted.org/packages/00/d1/9f3369c7fe979e93cd2c035e0c1f94ab22485875717f85dfaa6c1cd91589/pydap.wsgi.ssf-0.1.1.1.tar.gz"
+      }
+    }
+  ]
+}

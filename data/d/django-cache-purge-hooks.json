@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.5.1"
+  ],
+  "meta": {
+    "description": "Drop-in cache (e.g. varnish) purging hooks for django",
+    "homepage": "https://github.com/RealGeeks/django-cache-purge-hooks",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "649046048281cb40edff94c5370f3c54852ab5933b5f9aeb2402fd45541f3f10",
+        "url": "https://files.pythonhosted.org/packages/ae/39/4f5754106a5b985781a845237e6db2c0527d180d88b359df4a3247e14a40/django-cache-purge-hooks-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "8124a44390e4f92d8abfb818c2ac5623986f15bad4e7a287703c6c488d045d27",
+        "url": "https://files.pythonhosted.org/packages/fa/31/afaefdc1eb8298f7fb0a14e86b6a715d814396eef1cbe24de1639ce7a458/django-cache-purge-hooks-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "72c720501a2196234a6dd679c9ca09102cb77160db5f93c1002353c1689f97b1",
+        "url": "https://files.pythonhosted.org/packages/1b/6b/12f368d2c063f0cbe3ed31202db50dc58e42a975509c344a3c1e2b10d271/django-cache-purge-hooks-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "d056782320766c2dbc5d3adcfdd1c43882c95afa617a7a342dc8f073d442a56d",
+        "url": "https://files.pythonhosted.org/packages/4c/ce/c59b16f24c97838ce8bcbaeedfcec539ee984abb95fd172be695e94d6f11/django-cache-purge-hooks-0.4.2.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "5832c79e0f3cd50e396a67e5c6c75e925369c421ac61b34edb2f100c65d451a4",
+        "url": "https://files.pythonhosted.org/packages/c4/c4/41db08f989dc15f38f380be1c7e01cec8f19c4c2a6f57c0612fc0d8831b9/django-cache-purge-hooks-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "4dad636bc4f29cbee6e85255d5fad16227a11e86ab5163f932e8b946ca3d651f",
+        "url": "https://files.pythonhosted.org/packages/18/3a/d1939d181b62c5526c9a6b9dd881736cdf6729e90e6e7978d66ef981ea7f/django-cache-purge-hooks-0.5.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9"
+  ],
+  "meta": {
+    "description": "('Tools for stack-usage in Python expressions',)",
+    "homepage": "https://github.com/jsbueno/stackfull",
+    "license": "License :: OSI Approved :: Python Software Foundation License"
+  },
+  "versions": [
+    {
+      "0.8": {
+        "sha256": "20713213ca0ace906716dcb23d0c3cf636c867a1ecc570de1a455d783f69b952",
+        "url": "https://files.pythonhosted.org/packages/e6/6e/fcbc1c014034af20a894f96f06b4a1d0a4c8fbd080301fadcaf42d20a2da/stackfull-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "a228f7180dc5c61ba07aa934443997d0ca586917a1aa16117a975a435317094a",
+        "url": "https://files.pythonhosted.org/packages/27/1a/9975ce34787b399dec0602d79b884bfb2c21d16f3c2968727bba368f84b4/stackfull-0.9.tar.gz"
+      }
+    }
+  ]
+}

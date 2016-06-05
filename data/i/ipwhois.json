@@ -1,0 +1,146 @@
+{
+  "latest_version": [
+    "0.13.0"
+  ],
+  "meta": {
+    "description": "Retrieve and parse whois data for IPv4 and IPv6 addresses",
+    "homepage": "https://github.com/secynic/ipwhois",
+    "license": "Copyright (c) 2013, 2014, 2015, 2016 Philip Hane\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met: \n\n1. Redistributions of source code must retain the above copyright notice, this\n   list of conditions and the following disclaimer. \n2. Redistributions in binary form must reproduce the above copyright notice,\n   this list of conditions and the following disclaimer in the documentation\n   and/or other materials provided with the distribution. \n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR\nANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES\n(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\nLOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND\nON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "1b41f83bb1212952b1821378dbd9891f3f6ade34e90a4913dae2948741285ab3",
+        "url": "https://files.pythonhosted.org/packages/24/c1/a0f8bde968c6de7d80029cb89b7eea8c36a7381ef22da514b088727eb7a3/ipwhois-0.1.0.zip"
+      },
+      "0.1.1": {
+        "sha256": "f0690f42e54dfa67a876568af5eb92384d55c1819d6edd8ce47c2ffc6e98e5da",
+        "url": "https://files.pythonhosted.org/packages/af/2a/db840de3a0aad4ef80d44e28e9bddbc1e4a8265485af5137295115102130/ipwhois-0.1.1.zip"
+      },
+      "0.1.2": {
+        "sha256": "63cfeee98888c4ec5c05a095f3cebd43cb49fe9ed69fff6d089d681f8e9854d2",
+        "url": "https://files.pythonhosted.org/packages/d9/1c/76054cef97761e496c32a86d34d55d7372f38d9c55ecd3934c6dc47a8541/ipwhois-0.1.2.zip"
+      },
+      "0.1.3": {
+        "sha256": "2895c9e2965e8083ba59f167e55aae30ff35495ca81fe582ea4b903be5f349e0",
+        "url": "https://files.pythonhosted.org/packages/4a/c9/89d9c4c4813bc18b96214425a942f0d902ea6aa60657624f51791a31ffb4/ipwhois-0.1.3.zip"
+      },
+      "0.1.4": {
+        "sha256": "6f36d82ba5d1d0b87296034d32782b72e6ae6ca629e646e4419fc60468b7927e",
+        "url": "https://files.pythonhosted.org/packages/4f/a3/3dfb18e0194314d99a29433d0c88b62a862dd460b2cc224623fc1f7327a8/ipwhois-0.1.4.zip"
+      },
+      "0.1.5": {
+        "sha256": "bd0d1e46a3d6091d79899bf6633ac1976602829ecb1449c26530b659f569ed9c",
+        "url": "https://files.pythonhosted.org/packages/2b/5b/56856d5a6c40887ca1107d91d6e1129b42b0cfea0f670a8733c85dcf284e/ipwhois-0.1.5.zip"
+      },
+      "0.1.6": {
+        "sha256": "0ac0661e729f6f8f1090caae0b298cb662455cad5493e52e263ea397d114fb19",
+        "url": "https://files.pythonhosted.org/packages/8a/d5/eefa5dcab3c0cc5f3c17225b55d79f3fea75f457d5742854bca94d3349d8/ipwhois-0.1.6.zip"
+      },
+      "0.1.7": {
+        "sha256": "6a21e1c5bd96668a087450434cb3f9db3b0937b33703795c55c11fba3bd20384",
+        "url": "https://files.pythonhosted.org/packages/72/0a/21d1ed9f0b2e2881fe6a7abd5354bf7c0d009a970899763f5d9b0b00e554/ipwhois-0.1.7.zip"
+      },
+      "0.1.8": {
+        "sha256": "81d31127dc107ad30daffb88d10af1d6a6e648c469aee5b1c4df5c7b6145fd17",
+        "url": "https://files.pythonhosted.org/packages/a4/55/1bd6a375647da284f3099e807426eba8f0e20e5a44bdfe58dafefa6a9464/ipwhois-0.1.8.zip"
+      },
+      "0.1.9": {
+        "sha256": "733b56fc5130f64370492551a3e951d799088b1892d6191052a96d2380e3dc49",
+        "url": "https://files.pythonhosted.org/packages/c6/cc/e1b3aa9bd276d5b35317bd2fc5880723c45bacda1eeba7d88fd4b262e9aa/ipwhois-0.1.9.zip"
+      },
+      "0.10.0b": {
+        "sha256": "dc8839964088b0129770ce8e167f18d4115814b5af415ee71f5e42e66e6f1406",
+        "url": "https://files.pythonhosted.org/packages/dd/33/fcc98b025a8807812bede0ed8c00b8d50775b1ec099ba118c2be66b6bb1b/ipwhois-0.10.0b.zip"
+      },
+      "0.10.1": {
+        "sha256": "0d1eb38984eca4d13ef69d9ceb5160ba3515e9ffb1800d70d9cd908345644e20",
+        "url": "https://files.pythonhosted.org/packages/3c/80/755ed0341fce063439e2795dd7da1b95072a489039b84d9aea23c518adde/ipwhois-0.10.1.zip"
+      },
+      "0.10.2": {
+        "sha256": "34f6cd3b8082803d20a16d0c3d356c2687e7a197e5d089cc5d4a2fc78cedd6d3",
+        "url": "https://files.pythonhosted.org/packages/b2/b5/3f9dd2e84e028b565eb9d104c7ad68c74cb985ec5f8407fa3492c05ba330/ipwhois-0.10.2.zip"
+      },
+      "0.10.3": {
+        "sha256": "3702f3358b5678d04b39abcb63abc00bc65b1c9c2c7eab7cab89a6e1c27d952e",
+        "url": "https://files.pythonhosted.org/packages/94/6f/198334bc914c0347415097848dc812d3515b4fb7e7c191a41b29250d5c09/ipwhois-0.10.3.zip"
+      },
+      "0.11.0": {
+        "sha256": "a239230e41574fb45c4aac3951a82d5a0c788bde623c7db472cde20a69a96afa",
+        "url": "https://files.pythonhosted.org/packages/b3/3d/6b1164bff4cb6026387813406ac02863cc3d6d6c9effef02f7ef67f5a5d3/ipwhois-0.11.0.zip"
+      },
+      "0.11.1": {
+        "sha256": "55b731cbbc541a9a81430529eb79b7108e05303f0d10d9cb6592fa0f9081f0b7",
+        "url": "https://files.pythonhosted.org/packages/ef/cc/2588b5e341125c80449dc633c26827fe9aed852396dcbfbfb5d757b1736f/ipwhois-0.11.1.zip"
+      },
+      "0.11.2": {
+        "sha256": "a3c372c273ffd3af841e02877bbe4475c4c6288887390dc4e5f28a0940a27d0c",
+        "url": "https://files.pythonhosted.org/packages/b5/88/f6307d29cdd4a0c33781d32f3cea64c667a711589641c3d28169a0520cd2/ipwhois-0.11.2.zip"
+      },
+      "0.12.0": {
+        "sha256": "29494cf958af77e3c19aa20cd4c16db0b1d0381709c4dd275dcbf267f6178ed4",
+        "url": "https://files.pythonhosted.org/packages/ba/4e/cce08682c9ee8f911efeaeee59b363306cd0bdf0681a96549638bfeb4c78/ipwhois-0.12.0.zip"
+      },
+      "0.13.0": {
+        "sha256": "6047d7977d59f3d24051fc8123e31b13a7af9cf2dcc50e5358794a3695ba5d75",
+        "url": "https://files.pythonhosted.org/packages/d2/b2/f5aef7090a6ce31c303af5236ddfd38c32fe03f89cb0b0d1945ef2c54592/ipwhois-0.13.0.zip"
+      },
+      "0.2.0": {
+        "sha256": "cf5e1bada07b13caa017be0650c1dd7298648ecbcf8de7bbf7c4a86745068ab9",
+        "url": "https://files.pythonhosted.org/packages/8b/a5/5443c5954ae1078503236aa186f138043e435c523c4de451dce3dfa57717/ipwhois-0.2.0.zip"
+      },
+      "0.2.1": {
+        "sha256": "5bafb6a2f0b9c263ccee79b1673ff9a784d86b15a8e270c270a44f5aaf245209",
+        "url": "https://files.pythonhosted.org/packages/1c/28/12188ae173a92395b42c86f76acce1a0ac2dc5995c373f45a0e6b239fc7b/ipwhois-0.2.1.zip"
+      },
+      "0.3.0": {
+        "sha256": "6b98eccf73a84482462e1c3d4bef0c8c0de0413afad7a697ec3a07ec9cc5102c",
+        "url": "https://files.pythonhosted.org/packages/e5/dd/7b92aa5f79e80ba464595e882c56ad2166f3672ac6132fbde1f856636259/ipwhois-0.3.0.zip"
+      },
+      "0.4.0": {
+        "sha256": "b223ba782d645ffe475eea6f0bc51ac805cf31665cf855e61e81b65f67890eda",
+        "url": "https://files.pythonhosted.org/packages/8c/c4/045dd9f5f1eb164bf9fd89303790c100204520c6db09da50e5050daac492/ipwhois-0.4.0.zip"
+      },
+      "0.5.0": {
+        "sha256": "9f0a95bc04942c9f65236284153b9db745c3b189d0d8fff354b032c137ed8747",
+        "url": "https://files.pythonhosted.org/packages/84/9c/b72ecdac915979389c7b2facddd79b97ccff732aa8d832c06d2c11f0986e/ipwhois-0.5.0.zip"
+      },
+      "0.5.1": {
+        "sha256": "55615d0a7516f69803a885f7379715131d0e1206500977ee31b94ff87a008b28",
+        "url": "https://files.pythonhosted.org/packages/ba/e9/8edae2675a11553c106bdd0c113a9defbe8eb63417a003d64c8ce8116ba7/ipwhois-0.5.1.zip"
+      },
+      "0.5.2": {
+        "sha256": "3ecbd526b2d27665f2615de0f0f66a21bd2be79256af7ba0c66e63a6c7175760",
+        "url": "https://files.pythonhosted.org/packages/aa/b4/0b98d26c11d64e9a56398538e8adf3bb4b0e0751af0d46d6f3348469fe57/ipwhois-0.5.2.zip"
+      },
+      "0.6.0": {
+        "sha256": "d2a97094b4371fa531cd9b10ce30ef5e36a410b728c2dbedc6b97bd929291dc2",
+        "url": "https://files.pythonhosted.org/packages/86/e9/5a0c49075478a5f4ee7fd85b20ee06dcc51769be6bf98d126e6137933b66/ipwhois-0.6.0.zip"
+      },
+      "0.7.0": {
+        "sha256": "7f273466396435ba16965086f1082868ab092149f02be4a3705af354f63bd277",
+        "url": "https://files.pythonhosted.org/packages/cd/a9/49b15c74b4ce6a5b23a4308ca5279f6d481cfb70119beb7ffaf5ca6e456b/ipwhois-0.7.0.zip"
+      },
+      "0.8.0": {
+        "sha256": "28e3182f15d5a3909827e8ae63cdb09f08a8e83f323ddc826aa6394193f7b0c5",
+        "url": "https://files.pythonhosted.org/packages/ec/0d/25cc9dab4aabf74e0afc073617a90ec84cde72cf750f4d6899b3e35db19f/ipwhois-0.8.0.zip"
+      },
+      "0.8.1": {
+        "sha256": "c13e6f1af07fb73c6e1845c863b539f2289d04419f329613c8e7499d74ed513c",
+        "url": "https://files.pythonhosted.org/packages/00/db/e51ab10d8bdb7c5f5d87105bdb9673dcd7810f1e2f91746d89b83d75c917/ipwhois-0.8.1.zip"
+      },
+      "0.8.2": {
+        "sha256": "a5f5faaf1564bb2d038786ddae4f03142a8f3b0e514e1f18d260f11a1f3bfc37",
+        "url": "https://files.pythonhosted.org/packages/b5/a3/31fe6f2f57e1239ceb07bddbc8a21b955060f903b81c6f06f19f3bb7039a/ipwhois-0.8.2.zip"
+      },
+      "0.9.0": {
+        "sha256": "5f5503b3fa608600c58de4bad01f91aef118d4b0c77483ca788213619157633c",
+        "url": "https://files.pythonhosted.org/packages/cb/57/ce0d4efd58517e04331a39bb5ed34215dfb343a52750427816bede891fa0/ipwhois-0.9.0.zip"
+      },
+      "0.9.1": {
+        "sha256": "146b528f6acdd207b645785ca4b8458ce4d4b8ecd393447df52b61c02533c29c",
+        "url": "https://files.pythonhosted.org/packages/e9/24/5750af4e309b810e007b64d4010d44b4b7b199f01ac77f31ad6dd7b5e741/ipwhois-0.9.1.zip"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "Pyoko is a Django-esque ORM for Riak KV",
+    "homepage": "https://github.com/zetaops/pyoko",
+    "license": "GPL v3"
+  },
+  "versions": [
+    {
+      "0.6.2": {
+        "sha256": "3d7feaaaaa3fdc5e62abfad0492b85dc7f40f422f50dc9f3664f556cf67ef461",
+        "url": "https://files.pythonhosted.org/packages/dd/5d/99fbc1288447435766ca6cc9b867c34fb1f09245edae81a06bc6e4ea16e5/Pyoko-0.6.2.tar.gz"
+      },
+      "0.7": {
+        "sha256": "72e0eff4c0bf321ae58d0545c0845b7b3fced01cb59f09ababae762b39a1df8f",
+        "url": "https://files.pythonhosted.org/packages/89/b9/57b4ec082e60eab5f574cbaad0f72c106be6818413ed0f0a55908c2ed402/Pyoko-0.7.tar.gz"
+      }
+    }
+  ]
+}

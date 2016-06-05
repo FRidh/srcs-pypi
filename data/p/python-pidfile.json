@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "PIDFile context processor. Supported py2 and py3",
+    "homepage": "https://github.com/mosquito/python-pidfile",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "1fd9f1d062f0f8e810ba82a4e4fa23a37fb66f553ba4422d78237f1d0603c80b",
+        "url": "https://files.pythonhosted.org/packages/7f/44/47bbb4eaf978eef57bb4e7fe4bcfdc973ecda931dd29932248aa74ea1263/python-pidfile-0.1.0.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "69960bc3386721deea16215453a286d5c32e640cb82ecfee1c81e201ea30c1a4",
+        "url": "https://files.pythonhosted.org/packages/3b/e8/d4252d3541b1f68602bb01b94257bd025e87959b183ef49e69fa5c6c36e9/python-pidfile-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "19b1525610697dbc5db188d8d13341d1939eaea4b616acb09a3b3b6fa1415fce",
+        "url": "https://files.pythonhosted.org/packages/a0/26/4e499769c4f953f1543681563c870507fc47e7fee027627eb6ac037facd3/python-pidfile-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

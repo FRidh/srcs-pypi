@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A python generator object that provides sequential access to features inside a FeatureCollection of a GeoJson file",
+    "homepage": "https://github.com/scubbx/sequential-geojson",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "a0e5e97858ab3f9bd841a58fbc01600e324d9ccb0276971e706bce0206b52c54",
+        "url": "https://files.pythonhosted.org/packages/e6/a4/c1872c9d99004ae0f4f14f5086f51b977e841a2e292889901e377c44854a/sequentialGeojson-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "5c2c4ca622f65b63923863c07f1dd39f1ddfd019aa85b628843034616e192b5d",
+        "url": "https://files.pythonhosted.org/packages/5a/4a/83685f2394fb76e197815f2e7ef4b698306e280c637b0bd2f082a138fd39/sequentialGeojson-0.2.tar.gz"
+      }
+    }
+  ]
+}

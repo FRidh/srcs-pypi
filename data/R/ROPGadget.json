@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "5.4"
+  ],
+  "meta": {
+    "description": "This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation.\nROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.\nhttp://www.shell-storm.org/project/ROPgadget/",
+    "homepage": "https://github.com/JonathanSalwan/ROPgadget",
+    "license": "GLPv2"
+  },
+  "versions": [
+    {
+      "5.2": {
+        "sha256": "ee89c2585fb1d81907fd70108c831922613e7251226373a9d496dcced03e6c7e",
+        "url": "https://files.pythonhosted.org/packages/dc/0c/ac26f101ec160138c4e3805840690bdacec2737595c1432622a1f683aaff/ROPGadget-5.2.tar.gz"
+      },
+      "5.4": {
+        "sha256": "af37e327908796894928f0b3831008c7747d189812d37b4362e3e03a3af194a7",
+        "url": "https://files.pythonhosted.org/packages/c5/d5/03e3afe251a7aed91254a0ccef7bdb59923e29016ac41ac8a5d57f3461d6/ROPGadget-5.4.tar.gz"
+      }
+    }
+  ]
+}

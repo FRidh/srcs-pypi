@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Cache-based rate-limiting for Django",
+    "homepage": "https://github.com/jsocol/django-ratelimit",
+    "license": "Apache Software License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "694f9974b2b502bde516c048f0c3126648dc68b6ad4cbe4348ccbed9ef89f233",
+        "url": "https://files.pythonhosted.org/packages/94/53/cbe1603e8eefed09bab170939601b90e6fbce5096dc60dfb51f74d51db08/django-ratelimit-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "fd63d16262cc5c8ada97098464c50a6f26894beb8845bd4d3526d160151d1780",
+        "url": "https://files.pythonhosted.org/packages/95/f7/d8a07947eeba49d4aaf34ac1989b8a97743f04a1ee02926f038d5f44e1e0/django-ratelimit-0.2.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "78c317bbc2ae169a13e8c5bd31aae611abb76c264a64c3dfd71391e6767925df",
+        "url": "https://files.pythonhosted.org/packages/55/c7/fb67d7858203628c2a673a67b561d050a32d47cba38adbd82693d1860145/django-ratelimit-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "fad845ee27eaa928a2ed16c0121e2bb5dd13ccde95d1c0144d23f9a4250c1a6c",
+        "url": "https://files.pythonhosted.org/packages/67/8b/5e62b5d079757030277c0475c5850dd90d5fa6ddb5dd9c005339779b9e1c/django-ratelimit-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "2dd0e0dc389486a2d4a62ed914a10c6297b5ada117d1ed3f94ff7abac8e89db0",
+        "url": "https://files.pythonhosted.org/packages/f2/e6/c9bb14c0804824b6ecc9a5a69daae9d386838d9811ca37b89653af9527a2/django-ratelimit-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "93dabcd3131a88d6fd19ff4de0a8351ed44b4ec943e8d58d27306f7faf8821af",
+        "url": "https://files.pythonhosted.org/packages/e3/b7/5002e685dd58a4f5e14dc539b089ada1790b0262f8fe015463de6b7d2a93/django-ratelimit-0.6.0.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "64ca4f165d9c4dd883a3c26aada68d4ef91088bfbdc0ed2ed0f7be22215aebe6",
+        "url": "https://files.pythonhosted.org/packages/d7/71/791cdf4439caf8315dd1398407e59d0d3ba2bfac8af26bbb749b10b85a4f/django-ratelimit-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.5.0"
+  ],
+  "meta": {
+    "description": "Tool to translate non-heat templates to Heat Orchestration Template",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "ce73237035c300cb34bf43bc95465f8594082499ae615b7e2f0fb0cef2805142",
+        "url": "https://files.pythonhosted.org/packages/93/e2/7443e837877bbf7e7dec0cd1388ea555116d08d7d47e9572e8b88f6edff6/heat-translator-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "df9294151f702cfdb58ccd5d8b060173f4617a21130731e6b11a9142949f601c",
+        "url": "https://files.pythonhosted.org/packages/46/c9/d3840918765afdacba8884b2831448ba6e94ed889c2de619b11e084bb411/heat-translator-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "46065f3e305ac1f7b083b12209cb8dabefeb358ae1ee6cdf103c8c81f2c54f80",
+        "url": "https://files.pythonhosted.org/packages/f3/92/2fac13560bd6fed2b7b10ad009b57383c2420df8a49159b9c171fdbb03f3/heat-translator-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "abefa07b6b29cb01057da51e0cac2a7763a2fb997ed4264535d0011ce704f66a",
+        "url": "https://files.pythonhosted.org/packages/5a/1b/c8887a3a48da5b325f679ca209a8c9e8eb9d8186a49e497c2c832900e86e/heat-translator-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "b4fdc2b33edb6be9aa175de04e3ac14f0d9f93f9d7c215d099074b1a5ae4bf66",
+        "url": "https://files.pythonhosted.org/packages/c3/52/85a606f541d627164b8159fd68da9e945ecec375d185069c05b84d5e4aa1/heat-translator-0.5.0.tar.gz"
+      }
+    }
+  ]
+}

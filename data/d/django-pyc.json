@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Manage .pyc files in Django project",
+    "homepage": "http://github.com/dex4er/django-pyc",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "55291639bac804999f11ebbd51094e12fe8ed0d22b20b85662c1b333ead5f37d",
+        "url": "https://files.pythonhosted.org/packages/6f/39/46bb4a15fed6d6d484644ef69c5adb6ebe154ce7f9740b0caff4a8d66f8b/django-pyc-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "31156b39a4b010422b4594795432d25afbb4e1b1f87418c2dcaf03823235a18a",
+        "url": "https://files.pythonhosted.org/packages/05/22/c2e742f03b8c772a010fdd7f2ab4e672170bf8f0b6662eda09fb1a56d0a2/django-pyc-0.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "scp client, for use with paramiko",
+    "homepage": "https://bitbucket.org/ericvsmith/scpclient",
+    "license": "Apache License Version 2.0"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "5d0e185094f605e62e6ba2bbfd250c0b3ded7a7192a71ae0af07c7972e1176e3",
+        "url": "https://files.pythonhosted.org/packages/31/0d/05cb23e3d7dfd12990d0bdaea39aded66fbdd7e3fd561dd6d9905433285c/scpclient-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "15df729ff9c2a856322ee44076fbc4830c4e894863b6fb4b007667d494268429",
+        "url": "https://files.pythonhosted.org/packages/a8/fb/7a5bc9a1eb2f5a469508e223ba7702f7948a980ef2c6358e00b16b2b6a34/scpclient-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "eef0a7611e3d57f84b808bfa1e594a9e18ee4f06a40d8c4cb90235e91766e99d",
+        "url": "https://files.pythonhosted.org/packages/b8/79/40ad446eabfa22909dc3f41e8f469cce4804c9ec999ae3823c79d9eb59d3/scpclient-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "4b875a87cb5c54d689f2bae6a6b5e53ce1d1c0ad14baf63b607f76017bf1d8aa",
+        "url": "https://files.pythonhosted.org/packages/4b/3c/3cc6560fecdd5e01cb4c3d234e82b186b50db2cf75c595b87cb95d3cb5e2/scpclient-0.5.tar.gz"
+      }
+    }
+  ]
+}

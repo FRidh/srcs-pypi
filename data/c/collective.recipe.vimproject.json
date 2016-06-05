@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.3.2"
+  ],
+  "meta": {
+    "description": "Set up a VIM development environment",
+    "homepage": "https://svn.plone.org/svn/collective/buildout/collective.recipe.vimproject/trunk",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "d9f0f67211d02b52629a538e91f6272569f2a360051f27e03cc302316965db98",
+        "url": "https://files.pythonhosted.org/packages/23/a5/78f96cb386f2d065cf7a0b6465f0ce830bfc65041eaca616db2327643fe6/collective.recipe.vimproject-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "990b1096323adf143cb3fd0c95c2de0aeb392118bc7376e27abf2063a7e44d82",
+        "url": "https://files.pythonhosted.org/packages/76/58/9b11b8b74e90973124f8ca9e809abbc89ea29f439d0e8e8ba7fa19c08b43/collective.recipe.vimproject-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "b97fee383d4b3a383ec6b2c14c6a572014a62105e061a3fc2d1a98ce7a6aa46c",
+        "url": "https://files.pythonhosted.org/packages/93/1e/022c8fc948707817d371ab7b6c29835420ae44c86c3c615bacc773cff975/collective.recipe.vimproject-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "45883d42cfd046c6aa427c8edc8995502c9963df88d2b2b5da50829086c7aa9e",
+        "url": "https://files.pythonhosted.org/packages/df/ff/2ab09374da5dfa09da4060dd3da2968940179ab04e5f59cf886b9f979dbc/collective.recipe.vimproject-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "d30ec843e670b9b1881dc35835faba6a90a7ad84b6a6edffe9e51a6a88e5c7c3",
+        "url": "https://files.pythonhosted.org/packages/7b/bd/77bb15d5deaf6d33ec58230c53d0c1c50bdaff58d7b425943f2cf230c71a/collective.recipe.vimproject-0.3.2.tar.gz"
+      }
+    }
+  ]
+}

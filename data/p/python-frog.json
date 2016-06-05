@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "Python binding to FROG, an NLP suite for Dutch doing part-of-speech tagging, lemmatisation, morphological analysis, named-entity recognition, shallow parsing, and dependency parsing",
+    "homepage": "https://github.com/proycon/python-frog",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.2.1": {
+        "sha256": "d7c87d6a3061b04021e3c9be1531248ac5c846432e87e9c44067e81584394a4d",
+        "url": "https://files.pythonhosted.org/packages/c3/ec/6aa238370ed2d978601197f0e0879c0c1466264539c8286cf963d5b3d741/python-frog-0.2.1.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "15a2f7550fe91be57d8db15192ffbf0f2e2610cc26580bb41a8f2bca9b165f04",
+        "url": "https://files.pythonhosted.org/packages/08/e1/f7c2544db0951921e7b666479a317376b42cf689cbdced76110c722f4bf4/python-frog-0.2.4.tar.gz"
+      },
+      "0.2.5": {
+        "sha256": "7fb85a5bb4e70f60d90ded277d35d23710f835c0e9f0d235cf0cb355fbd39eed",
+        "url": "https://files.pythonhosted.org/packages/6f/21/eb5d338923193c1904a672861565d7456aaa2a09b782181c31a7087a9e98/python-frog-0.2.5.tar.gz"
+      },
+      "0.2.5.1": {
+        "sha256": "b6bd25c9de1ac96937cebc718ab3f9c480eaebe31f6959874ea111056726d33d",
+        "url": "https://files.pythonhosted.org/packages/45/f3/855f878ce1ab58b5919d78576a4d3cf2ad809c38e8466cddda133776b90a/python-frog-0.2.5.1.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "a749b7f01f38357dffdedcad397ceb36e07a87a02b8ad800c6e9b2d43220d5e5",
+        "url": "https://files.pythonhosted.org/packages/e9/ff/a03cd18d9d8ef78ffd273f87a73dd6b272f00c61f2103d379e7852449e4b/python-frog-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "57ae509636acd3db6c6a08468b6035650b96769b1608e0009bf8a43c073a1d94",
+        "url": "https://files.pythonhosted.org/packages/0f/15/433ca6e949506b093754bb97b5474e78f589504883037b4986e24432f64d/python-frog-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

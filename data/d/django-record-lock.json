@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Advisory per-record database locking",
+    "homepage": "https://gitlab.com/Boojum/django-record-lock",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "07c8fdb4e77b79f36dca32710acef9ad6912dd23304bbdcaf60bbe218ca8a622",
+        "url": "https://files.pythonhosted.org/packages/79/90/a21e4a7a90773c73e697cb5724cde6592cb82e02d8ca91dfd3616926ecc5/django-record-lock-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "26d38d3dd4e4e66b5c9aee06d76ae9a3f8ae89f9d3e84042e655d05e8e57550b",
+        "url": "https://files.pythonhosted.org/packages/e5/66/2596eb1770aa6096657c1988752702431b66acdd440bc1fbac7f345bec44/django-record-lock-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.2"
+  ],
+  "meta": {
+    "description": "Simple wrapper around flask that uses environment variables for host, port, endpoint prefix. Also uses the py-hancock library for the ability to sign endpoints. Endpoints for `time`, `ping`, and `status` are automatically added as well",
+    "homepage": "http://pypi.python.org/pypi/tinflask",
+    "license": "Simplified BSD"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "10dad402a9d47c7277e0f26752e9c182e9a2146ade4b0518e6ab729703eb3aac",
+        "url": "https://files.pythonhosted.org/packages/19/a3/94f286bf71a4fc3fca5c24c6fe5b2a94ffecd3f686db7c408ae75f438913/tinflask-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "7185780eb6f04fd2d5417684c3bbd562352965cee5557cb3d87c8efcbeb74a36",
+        "url": "https://files.pythonhosted.org/packages/4b/75/692dff10584aee81e23cf578d565cf097d8749bdb78da5319b3b23af3e41/tinflask-0.0.2.tar.gz"
+      }
+    }
+  ]
+}

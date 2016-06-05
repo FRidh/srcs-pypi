@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.3.13.2"
+  ],
+  "meta": {
+    "description": "A python wrapper for the ENet library by Lee Salzman, http://enet.bespin.org",
+    "homepage": "https://github.com/swalladge/pyenet",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.3.13.1": {
+        "sha256": "fc69f60b9ac921645722678513737b79b461211d3e15296ab6f889b310e6a7d0",
+        "url": "https://files.pythonhosted.org/packages/9f/02/b0833d2c96f47629204dfcdbd64843b972d5ad0f5bed4e088872c91f8b91/pyenet-1.3.13.1.tar.gz"
+      },
+      "1.3.13.2": {
+        "sha256": "0bde3a07f6d5490315f1c462b2e8b3e47140104070045608954e8e3f6e2e4b73",
+        "url": "https://files.pythonhosted.org/packages/17/c3/475117b3d2fc8a998e5600474a5ca6de1588f56f0ac828c32d9733656721/pyenet-1.3.13.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "latest_version": [
+    "4.0.1"
+  ],
+  "meta": {
+    "description": "Tryton module to add cost method \"on percentage\" on carrier",
+    "homepage": "http://www.tryton.org/",
+    "license": "GPL-3"
+  },
+  "versions": [
+    {
+      "2.4.1": {
+        "sha256": "ca79ea0c032289deb562d0fb8503768515a5d9529cd656368a7cb9c336215269",
+        "url": "https://files.pythonhosted.org/packages/1f/37/57770be1c91aee82986c15a826ce6b48c69780d19bdccf6b28ba0f6576f3/trytond_carrier_percentage-2.4.1.tar.gz"
+      },
+      "2.6.0": {
+        "sha256": "e2e6fab551876a5b84198c6041d74aab05d861d5eac66dc0c4367d4f2a251869",
+        "url": "https://files.pythonhosted.org/packages/b8/61/0874108b249f7a6003668a9ccae17710dd93dcf57e3f51b14da4beafefc2/trytond_carrier_percentage-2.6.0.tar.gz"
+      },
+      "2.6.1": {
+        "sha256": "0c75052b32564787d1fa477412b08c17a5acc4aeb2463dd8b24129381843fa14",
+        "url": "https://files.pythonhosted.org/packages/da/d7/808eec8865a97db1dc4a2112d44ac94e4af27138ce1da0887bc36a57b327/trytond_carrier_percentage-2.6.1.tar.gz"
+      },
+      "2.8.0": {
+        "sha256": "1fa388e62e2085f2dfe9af629706e1429300eb71333660bc3c34c782b0f7a2a1",
+        "url": "https://files.pythonhosted.org/packages/8e/32/fa383e4ca97010df1f8819355f0b7a3b30a15849a423652327bd088c5d4c/trytond_carrier_percentage-2.8.0.tar.gz"
+      },
+      "2.8.1": {
+        "sha256": "689c3d6fa8e0d68166e1ef21ca5923201b6028eca64cc5d96fa51b924d16aa49",
+        "url": "https://files.pythonhosted.org/packages/03/02/245beb71c2ffd439d68d056f1e7face136b6fe2a806034fe7ffa6301f439/trytond_carrier_percentage-2.8.1.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "06e8b871ff22e7089432bbb95e1606f8d1a86af2226327533b1f70e3f3cf76e7",
+        "url": "https://files.pythonhosted.org/packages/a7/98/b733bce78a82cdbe5ad52828854163f3a103102b623088ad12bf27e6966f/trytond_carrier_percentage-3.0.0.tar.gz"
+      },
+      "3.0.1": {
+        "sha256": "77fc4c1f6375f8b1d8050602c8e0c5d70279b1629e12fef894a0d371109dfe95",
+        "url": "https://files.pythonhosted.org/packages/66/15/d8e7fc01c18f525cb5d5a708678cb71a3d35eb74f3ff09cf52a4e8a96ff9/trytond_carrier_percentage-3.0.1.tar.gz"
+      },
+      "3.2.0": {
+        "sha256": "9032bffaeb86780e1d62af9ac55e23fdcd2be3494c20b26d44bcdb954ee62a1b",
+        "url": "https://files.pythonhosted.org/packages/05/c2/c3313f7b58a35dcf8e4a9c0ff9c38168de6ca31cd921375ae0ab88b3c635/trytond_carrier_percentage-3.2.0.tar.gz"
+      },
+      "3.2.1": {
+        "sha256": "4743bc4d66c6a357dd12a6d5df704f3112d508c2178e68512444a176f04b0b5a",
+        "url": "https://files.pythonhosted.org/packages/65/fd/37c8f00a27615dd1a6632c27bfb2f16cf911ed535cf9fbffc0766a5d6523/trytond_carrier_percentage-3.2.1.tar.gz"
+      },
+      "3.2.2": {
+        "sha256": "9c78859d26c8f86e47ebefefe1171b720efd44aa095273d4153de78e05599b79",
+        "url": "https://files.pythonhosted.org/packages/ed/3a/d7ae5592f3b81fccd99c3a283a27b915090cf9d561a969e91b9d6ae12d68/trytond_carrier_percentage-3.2.2.tar.gz"
+      },
+      "3.4.0": {
+        "sha256": "24f5f9c80e7cf8e9a74ec40bc824a33ebf64405a0cc3e3c5c85071ff8f4098aa",
+        "url": "https://files.pythonhosted.org/packages/fb/d8/ee0d3a172c41feb038d31e1207295276267abc61080f389e67cadfad4fb3/trytond_carrier_percentage-3.4.0.tar.gz"
+      },
+      "3.4.1": {
+        "sha256": "4ed5d3edf0480d6e9cb7085508dfa2e3d4b7d3e9fd14459d4c08a06463d114dc",
+        "url": "https://files.pythonhosted.org/packages/9b/17/5bd5cc6bc2ff763541308420086a109f28c6e75a974de5379ed148d10b2f/trytond_carrier_percentage-3.4.1.tar.gz"
+      },
+      "3.6.0": {
+        "sha256": "1ed7a95bea81a22a70944102d6218466082ff4fd79e32fcb63b24454ece47f75",
+        "url": "https://files.pythonhosted.org/packages/6f/5d/237dc9de93a4905e74ff1fb73ab1c6c263334a37504977eb9eb43dddeee4/trytond_carrier_percentage-3.6.0.tar.gz"
+      },
+      "3.8.0": {
+        "sha256": "041b626857bf7caf7658a0518b7f50969e30cb068cf15d180d0586853c860349",
+        "url": "https://files.pythonhosted.org/packages/c1/33/b099002fcf454947532f0e3035510e092953805b8b78bc7b620ed209aa45/trytond_carrier_percentage-3.8.0.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "e8ab17c4636eb6edb4882133dfab6fe598b2e364caada196e569f69fc316419e",
+        "url": "https://files.pythonhosted.org/packages/15/d4/3dc09394d7195f91bd4e6d1863b0b7067cef759ecb91a6dcd93a2bf2d823/trytond_carrier_percentage-4.0.0.tar.gz"
+      },
+      "4.0.1": {
+        "sha256": "77e6494d4fcaf2ae2389e9e14a96d75742e9dd04a4c8ead64dbf1b34e1d804f0",
+        "url": "https://files.pythonhosted.org/packages/69/d8/fe8ae15683dc1b1309173e99c810448e1e33a36895fe6bd9c7c86c249c42/trytond_carrier_percentage-4.0.1.tar.gz"
+      }
+    }
+  ]
+}

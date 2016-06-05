@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Register JQuery timeago plugin into Plone resource registry",
+    "homepage": "https://github.com/collective/collective.js.timeago",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "bfc15c712d3a126420a66a7459a3bde7e4cfae5c223f6610655417dcda89ab6d",
+        "url": "https://files.pythonhosted.org/packages/17/89/fc0c6009106d1c14b8b42382bd84f63cb8f2fcd4050aaf623c3f957367b1/collective.js.timeago-1.0.zip"
+      },
+      "1.1": {
+        "sha256": "f415c7b0bac7843272816e603361402c242b29865a5c03b7dd3e10527e377208",
+        "url": "https://files.pythonhosted.org/packages/59/11/4daaba5f07b73610813ba4777c0dce2dedf29b981d982a44802d58d5e2ce/collective.js.timeago-1.1.zip"
+      }
+    }
+  ]
+}

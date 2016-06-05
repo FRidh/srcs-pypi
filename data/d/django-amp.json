@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.a2"
+  ],
+  "meta": {
+    "description": "A small toolset for rendering Google AMP pages for Django projects",
+    "homepage": "http://github.com/blturner/django-amp",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.a1": {
+        "sha256": "f591527abf8f834993055fae3554c44ead3c5e6f46b27762995ae1f7869782d6",
+        "url": "https://files.pythonhosted.org/packages/24/66/2d4edf067bcd04f2d576db466ce65b3bba571bc4a89a69ce32494d1a8ca4/django-amp-1.0.a1.tar.gz"
+      },
+      "1.0.a2": {
+        "sha256": "6db67c5a9a2ecdd87726a2a8d868cbf81d9ac9b26d570b8531163322c5b41b3f",
+        "url": "https://files.pythonhosted.org/packages/12/0b/45dea4bebb2519938e40321454933f909f31977ee84503e6a13c218b8429/django-amp-1.0.a2.tar.gz"
+      }
+    }
+  ]
+}

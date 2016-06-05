@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.3-rc3"
+  ],
+  "meta": {
+    "description": "EMC Centera Content Addressable Storage binding library",
+    "homepage": "https://github.com/ioggstream/caspython-centera",
+    "license": "#########################################################################\n#\n#  Copyright (c) 2006 EMC Corporation. All Rights Reserved\n#\n#  This file is part of Python wrapper for the Centera SDK.\n#\n#  Python wrapper is free software; you can redistribute it and/or\n#  modify it under the terms of the GNU General Public License as\n#  published by the Free Software Foundation version 2.\n#\n#  In addition to the permissions granted in the GNU General Public\n#  License version 2, EMC Corporation gives you unlimited permission\n#  to link the compiled version of this file into combinations with\n#  other programs, and to distribute those combinations without any\n#  restriction coming from the use of this file. (The General Public\n#  License restrictions do apply in other respects; for example,\n#  they cover modification of the file, and distribution when not\n#  linked into a combined executable.)\n#\n#  Python wrapper is distributed in the hope that it will be useful,\n#  but WITHOUT ANY WARRANTY; without even the implied warranty of\n#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU\n#  General Public License version 2 for more details.\n#\n#  You should have received a copy of the GNU General Public License\n#  version 2 along with Python wrapper; see the file COPYING. If not,\n#  write to:\n#\n#   EMC Corporation\n#   Centera Open Source Intiative (COSI)\n#   80 South Street\n#   1/W-1\n#   Hopkinton, MA 01748\n#   USA\n#\n#########################################################################"
+  },
+  "versions": [
+    {
+      "1.2": {
+        "sha256": "b0a13b47ab5d0bc71a9b4e7bca60bc5b26c62e18c2e078b118060aacfc1fd92f",
+        "url": "https://files.pythonhosted.org/packages/e4/bb/3a80870f4c482f117caf89ac7600093466eb0bcef1ff269f28402f49f44f/Filepool-1.2.tar.gz"
+      },
+      "1.3-rc3": {
+        "sha256": "19c6dff9c14dd1bf7b606f4ac581a61c269787f734ac5d870d71e85acc427ccb",
+        "url": "https://files.pythonhosted.org/packages/a2/a5/799f02022166ab7e20ec2ab5119997a2a4b01837d95ba3a173c4d3151951/Filepool-1.3-rc3.tar.gz"
+      }
+    }
+  ]
+}

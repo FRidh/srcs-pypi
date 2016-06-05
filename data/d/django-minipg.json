@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Yet another Django PostgreSQL database backend for minipg",
+    "homepage": "https://github.com/nakagami/django-minipg/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "862237c06e75b5661f3052955e6288deb3a24cc586bfecbd934d3f5442c96d3d",
+        "url": "https://files.pythonhosted.org/packages/46/7b/027ad21b3a79ec2d3c78587bcddfa2d8fc7c636c1ccafd113b5402331704/django-minipg-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "fc3ca52503f513e2d1d509c975eb80a54c1cab77f7766cf6cf18eaa3069fb711",
+        "url": "https://files.pythonhosted.org/packages/fa/29/ffc373c9362f9158f6837efb19099ca2bb96c52ad24c3cedf4d3fd238ada/django-minipg-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "1824a4fcce1bec06959fa691cab3e03a93ba48828d321130299af29449d9a687",
+        "url": "https://files.pythonhosted.org/packages/5b/8e/3c038f9b520aa68bca804a97df275d231e5000c4d50956fa5c7fa6b22069/django-minipg-0.1.2.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "c2f5ee2d3b67bea4bfff992e01bafe96f90d59337670e1939da80a159dcee82b",
+        "url": "https://files.pythonhosted.org/packages/b6/be/ce3738be9d75f675b1f2a219621a46cb368499da045e4c6c21c70bbfb384/django-minipg-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

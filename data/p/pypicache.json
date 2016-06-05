@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "The main script provides a relatively painless way to convert a \r\n    single directory of python packages into an easy_install compatible package\r\n    archive.  A typical use would be to expose the contents of your\r\n    PYTHON_EGG_CACHE directory, or your zc.buildout download_cache, to other\r\n    people or computers on your local area network",
+    "homepage": "http://trac.wiretooth.com/public/wiki/pypicache",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "eb4df6314903632df28d8fe779489eee3ad3b040f2665b0c46a56db0aa3da0d1",
+        "url": "https://files.pythonhosted.org/packages/e2/e2/d5ab8d2f16fa7b749ecf85e316021c96e4386254efc40a988a420a0ea6fd/pypicache-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "914a7bbb9c9a36c9651f7c655e89b9a6cb31a29e777c82c16d839042ab79511b",
+        "url": "https://files.pythonhosted.org/packages/1a/9a/e70c4338609459a4ef114db9b5a56f6017297f5d5653362080446a10ef62/pypicache-0.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "An ad-hoc DRF policy service to assist with complex authorization requirements",
+    "homepage": "https://github.com/sassoo/drfpolicy",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "715773fad6d1bbfb154b06cbbf58d906c5bc4144647e8f4d99a64f81bd2714ef",
+        "url": "https://files.pythonhosted.org/packages/e1/63/a3ce3e8611152eb4788f75df31403b433561e85fa325478d272bfbc3a83f/drfpolicy-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "cc1a096a3e1265205f2f420b9e3fbc4c2e5ca8a7c46755dcc6972ead9ac3d62b",
+        "url": "https://files.pythonhosted.org/packages/5e/30/cc3ebf5300fb49a17862b0caa0719d215e8c9d32b984b637c4b103bcc4b0/drfpolicy-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

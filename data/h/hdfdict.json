@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1alpha"
+  ],
+  "meta": {
+    "description": "Helps h5py to load and dump dictionaries containg types supported by h5py",
+    "homepage": "https://github.com/SiggiGue/hdfdict",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.1alpha": {
+        "sha256": "82d5cf0bcae9b337acbfd41aa6c3983c96d2b4717f7a57d7385fc69ea21115be",
+        "url": "https://files.pythonhosted.org/packages/22/47/694c7e3260c962cf25f6782139b982c49e24c7ac7ce8ec5a84283ca962ce/hdfdict-0.1.1alpha-py2.py3-none-any.whl"
+      },
+      "0.1alpha": {
+        "sha256": "d4e8977c74d92227687f9afc413cac25702ad98b15a83fa8bbe4f0c6fd05d779",
+        "url": "https://files.pythonhosted.org/packages/d1/fc/49131cd0e5285567a62fb70509787894bf7f3c645fe43bfe44db5af875ec/hdfdict-0.1alpha-py2.py3-none-any.whl"
+      }
+    }
+  ]
+}

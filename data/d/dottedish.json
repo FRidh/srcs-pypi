@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "A dotted key accessor that handles numeric keys for list entries",
+    "homepage": "http://ish.io/projects/show/dottedish",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "57ad16cf2d2fb4a325c773eb01093286f56be9dbf70a11d2efbc901f7580eba0",
+        "url": "https://files.pythonhosted.org/packages/81/48/d70ce13afc651c673cfb34cd9d962bac62de90b0f87465c13d91623cae5f/dottedish-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "61e065df151c063266120aa5405ac203298532453a6d825d9ef8334dc69b3638",
+        "url": "https://files.pythonhosted.org/packages/74/77/2ddb648fdfd92742009421f9da9b77597af896f7d2c85cfcc4d6308480fd/dottedish-0.6.tar.gz"
+      }
+    }
+  ]
+}

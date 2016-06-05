@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.8.1"
+  ],
+  "meta": {
+    "description": "Functions extending the scons build tool for reproducible research in bioinformatics",
+    "homepage": "http://github.com/nhoffman/bioscons",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "8b9f748ddc85e739061f1f2033ba79fba4d9e848e1dbce93dd906904e63b6769",
+        "url": "https://files.pythonhosted.org/packages/cc/51/188f9b317426159fe3a956afbfd3c072ccc15bc2def44792e9a719c72945/bioscons-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "593ee9aa2f8dca24dac59ac0f9f43c6f5d93c0a8a02b8aee7d0966e544f8db0d",
+        "url": "https://files.pythonhosted.org/packages/ce/df/f1c3ae8788fe00800d3a392efd6830c5b3b91630ce5588097cf9c1bb84d3/bioscons-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "0943b6ac13ee2547675dd4533e63bae4d37a0033f2379d3064c38a3c87cf15ed",
+        "url": "https://files.pythonhosted.org/packages/36/4b/2a96dd49bbf7ebc8ae6c36b4ff297f42eb8f0f9bfaea4c58c6c0efa102cf/bioscons-0.7.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "8ed6db01a892d64172458412a0267dccc6d7ddc5562c382b9aa0cd4f986f31a8",
+        "url": "https://files.pythonhosted.org/packages/73/f3/ba6f9923b82fe05b002f29b592f7dece569d1c337c30305e195d8c719faa/bioscons-0.7.1.tar.gz"
+      },
+      "0.8": {
+        "sha256": "79c48042a6cd07b8f77e49bc8b6378ac7de01db6fb0eb698e0e1076dace9809b",
+        "url": "https://files.pythonhosted.org/packages/f4/1d/3c4d9f4103c35eed5cf87f068f7785c60faed7a6330a0696f029a7a4da01/bioscons-0.8.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "513b9af47e14c364a430a68ebf7dba8365305edf624ea69aff58bb2e5ab9167f",
+        "url": "https://files.pythonhosted.org/packages/0c/67/38e7405ab95939802c1fd14299b8efa017daccb420d5bdc82199321463d8/bioscons-0.8.1.tar.gz"
+      }
+    }
+  ]
+}

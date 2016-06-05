@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.0.2"
+  ],
+  "meta": {
+    "description": "A very poor tool to do S/MIME signatures on binary files. Probably insecurely",
+    "homepage": "https://github.com/seporaitis/poor-smime-sign",
+    "license": "AGPLv3+"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "b305524345ec4e20a67f8ffe1d75b2bbc1582680a124dad560ff281d707e0543",
+        "url": "https://files.pythonhosted.org/packages/46/23/59a932835ac811327b1e32e0280f15ebcf4bb319cce54504a7b06b064eb7/poor-smime-sign-1.0.1.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "b0e271fefe2bb1a8cd577c3b8de2eb20355308056c8239707365cb1aec3ce5cc",
+        "url": "https://files.pythonhosted.org/packages/39/01/0e68e564d9f17f367b14f64959ed87ba8332930da62d80336ded902a2748/poor-smime-sign-2.0.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "1bebff9764bb244b24a706c707971b16c121096a159dd494be14104915ed3fa5",
+        "url": "https://files.pythonhosted.org/packages/fd/fa/3adcf0c8f8aaf762b2d520254d97391b918b459718478c2fb2e43bafc894/poor-smime-sign-2.0.1.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "67cce3f8454277e7a1ffee7b0ff91cc6b4754474aba0bca1f0efae796d862dfc",
+        "url": "https://files.pythonhosted.org/packages/33/f4/0213e0364b155df0185a8e426d3b1e72e305545295bcdcdac3dc229a7648/poor-smime-sign-2.0.2.tar.gz"
+      }
+    }
+  ]
+}

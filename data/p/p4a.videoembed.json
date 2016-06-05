@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.3"
+  ],
+  "meta": {
+    "description": "A registry and adapters for converting urls for various video sharing sites into embed codes",
+    "homepage": "http://www.plone4artists.org/svn/projects/p4a.videoembed",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "036a0344fed8a587304ae1b322fcc78dadf31353ef16b5cabde8d3fa6effa53c",
+        "url": "https://files.pythonhosted.org/packages/4f/43/5a0953e8eb6e7d007c3d7f5569b84e930f1e47467ed532669cb9e9314d47/p4a.videoembed-1.0.tar.gz"
+      },
+      "1.0beta1dev-r1552": {
+        "sha256": "3489a9039d5f0b44a61d7b4a78f4b50bb9a09f209cdde09f990955403b480bb6",
+        "url": "https://files.pythonhosted.org/packages/4e/64/f4ca10f04e5c5cfc9c0555383b2948def9beb7ac93600fe4ae7489abeb30/p4a.videoembed-1.0beta1dev-r1552.tar.gz"
+      },
+      "1.1": {
+        "sha256": "6b1f79ff8d8fa6eb169b2e70a37116e7f9372e27173fb40d141745ce77836e79",
+        "url": "https://files.pythonhosted.org/packages/21/84/42120340fda78cfa984466e92276dd611740724b8284ca6a3547cd08e70c/p4a.videoembed-1.1.tar.gz"
+      },
+      "1.1b1": {
+        "sha256": "4f903c17da4e92eb507b6e806ac24f22504e1eace3a41c2cff95ef26df621757",
+        "url": "https://files.pythonhosted.org/packages/23/c4/9ac9990bad0c7a2bb5364bb0fccdf12fef4ba03ae5d4b4d95ac6f74deca8/p4a.videoembed-1.1b1.tar.gz"
+      },
+      "1.3": {
+        "sha256": "0fe117599d3d3053ab235d721173faa5961b2365f6fd110f22dbb88ece23fc76",
+        "url": "https://files.pythonhosted.org/packages/33/52/8af0396970a8e8e1144e2a6a7fc020531cf18b19b78da08ec0be22dc7b19/p4a.videoembed-1.3.zip"
+      }
+    }
+  ]
+}

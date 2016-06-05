@@ -1,0 +1,41 @@
+{
+  "latest_version": [
+    "1.4.2"
+  ],
+  "meta": {
+    "description": "Manages building sphinx documentation and deploying documentation to gh-pages via travis",
+    "homepage": "https://github.com/syntaf/travis-sphinx"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "dfaf774299cb25fcfd1e429f285f4667df873fb29e7fcf95b56a578ca0fad4f3",
+        "url": "https://files.pythonhosted.org/packages/00/d4/ea83b44da32843084a1ae3bc642b7d60b18ebe34393a21791d3eb64fab28/travis-sphinx-1.0.0.zip"
+      },
+      "1.1.0": {
+        "sha256": "880864c494f4cc005da63ec9359068b13d7b9cb59e6db37e91980931388f7d13",
+        "url": "https://files.pythonhosted.org/packages/36/42/d105cab7dd0b0c595e5dbbc7c173f63ddbc169590944ce01b91793e25296/travis-sphinx-1.1.0.zip"
+      },
+      "1.2.0": {
+        "sha256": "7d1dd6f8626659075d3be12e8113cc7d74f1f88e56090b3c68a121ee2c59d5ef",
+        "url": "https://files.pythonhosted.org/packages/6b/a0/18c51f14a80861648aaf0cb26c9b84e0bf720fbc9f94fa90ffc1e47efae2/travis-sphinx-1.2.0.zip"
+      },
+      "1.3.0": {
+        "sha256": "dbb160bb062c6f62b31d3f550ecd1492bcdde894255a98762affa310b52c3c61",
+        "url": "https://files.pythonhosted.org/packages/17/76/767afe014349be119a97e76712b937d208ae1fca8ab11f7a8308f7a06472/travis-sphinx-1.3.0.zip"
+      },
+      "1.4.0": {
+        "sha256": "7541dbb29e6cf29bb442c576b197a975fa38afe9bc0de542c4e5dc7884aede9a",
+        "url": "https://files.pythonhosted.org/packages/0b/e4/c2efa749c969e0d11829223dc6b2650493f8459c49f69ce12fcb4b2c7496/travis-sphinx-1.4.0.zip"
+      },
+      "1.4.1": {
+        "sha256": "7f512da8f4d2810e4caedac5de966518de22d502ec232a98437e78d11ccab15e",
+        "url": "https://files.pythonhosted.org/packages/97/38/9aee631d96130e5196a2f4c0646b813800157d099744cf7c27620604be36/travis-sphinx-1.4.1.zip"
+      },
+      "1.4.2": {
+        "sha256": "7f380c583d45fdda0ca8325e43cd90d18d1efc6b212e5adfabcec85c0fcab0e1",
+        "url": "https://files.pythonhosted.org/packages/24/3a/739a6968aa6a530f00e612ff90f86e25ddda3bd2149eb64ae97bb5817ccc/travis-sphinx-1.4.2.zip"
+      }
+    }
+  ]
+}

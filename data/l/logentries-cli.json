@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Get your logs from Logentries on the comandline",
+    "homepage": "http://github.com/adamchainz/logentries-cli/",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "b338f29ecb6e83c9f54c8125e4456a39355cef5c6958a956c9cadfc88194a365",
+        "url": "https://files.pythonhosted.org/packages/2c/bd/a8658a1d03b663512ad176d382f7644e8f4bc4f0ade177a6f5bc311215c7/logentries-cli-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "d2a7980ca6fe884b402ccd059d6e9d4732c7d0befdf55760ae7ee823969c7a35",
+        "url": "https://files.pythonhosted.org/packages/dd/7e/86bf9db7a69633f1519d4313b7128ef8ec9ff462a70a0f9fdbbd194ca6bf/logentries-cli-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "980a1e861039eb00741fefe51f9691bd5fbe14d5e52d5358458197454ed2b974",
+        "url": "https://files.pythonhosted.org/packages/cf/29/6b04adfa72e765fb924f00e0ec8b70c3ca2ed92c6c98c9796a8080891c72/logentries-cli-1.2.tar.gz"
+      }
+    }
+  ]
+}

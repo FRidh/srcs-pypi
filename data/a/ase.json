@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "3.11.0"
+  ],
+  "meta": {
+    "description": "Atomic Simulation Environment",
+    "homepage": "https://wiki.fysik.dtu.dk/ase",
+    "license": "LGPLv2.1+"
+  },
+  "versions": [
+    {
+      "3.10.0": {
+        "sha256": "bfd713bfc36b68537f82b29bcc9b03985b02d47640ae8364a5cc7c34a0966655",
+        "url": "https://files.pythonhosted.org/packages/da/f1/7e040fa76ed0e9c568518023f61dfbc3a0268c3d87e447b1ffc3b35725bd/ase-3.10.0.tar.gz"
+      },
+      "3.11.0": {
+        "sha256": "d66bcc9581d95b49c4e4f11a2c33a01f5d45f4b37e18327cb32d8bce4dd78e4d",
+        "url": "https://files.pythonhosted.org/packages/fc/7b/558e7321f7a879c034ead5d10789b9d6f41beabaee0b156e807c19422ad0/ase-3.11.0.tar.gz"
+      },
+      "3.8.2": {
+        "sha256": "5340680647731a8b3772db62aebf85225d637cd999934700e66bdd13d61fd7ec",
+        "url": "https://files.pythonhosted.org/packages/e7/44/4c6ea3b1741359b66e41487585eb323930cd18ed654d42e840652ad41b63/ase-3.8.2.tar.gz"
+      },
+      "3.9.0": {
+        "sha256": "bb339a1fac940dbf21847da0642ce9a60057a0f1b109f5343f6c08e58769a81e",
+        "url": "https://files.pythonhosted.org/packages/7e/41/504b1183d6328f9a71fd9b64bb51adb23c972e94576783abd5dee102049f/ase-3.9.0.tar.gz"
+      },
+      "3.9.1": {
+        "sha256": "af542737e3f03f3b74ed43e0967dc4c4ab980ff1100bd831bd07bed84d61b547",
+        "url": "https://files.pythonhosted.org/packages/c1/32/c7a102936e877b43a90e3242c95a719c2056fd3184b33767948c16defd22/ase-3.9.1.tar.gz"
+      }
+    }
+  ]
+}

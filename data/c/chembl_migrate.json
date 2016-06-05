@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.6.0"
+  ],
+  "meta": {
+    "description": "Django custom management tool intended to perform data exports and migration of CheMBL database",
+    "homepage": "https://www.ebi.ac.uk/chembl/",
+    "license": "Apache Software License"
+  },
+  "versions": [
+    {
+      "0.5.9": {
+        "sha256": "de5ca6b92f5695aae4b7cbdbd6f3644ac46cd57d0ef92c3b83dfba437df8bc34",
+        "url": "https://files.pythonhosted.org/packages/1e/db/f95cd442e64c9e5182c15a8cdd16274f48d7dffb5a7a7e57cc725e22b552/chembl_migrate-0.5.9.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "2f766dbd6224816237b6115d2d00dcbfd4ea588004effeff4d1b56a8fd06cf3e",
+        "url": "https://files.pythonhosted.org/packages/ab/11/04a5ff289c1fe119010e9f91c8678f8e324288668aa55b6252d1d3c84246/chembl_migrate-0.6.0.tar.gz"
+      }
+    }
+  ]
+}

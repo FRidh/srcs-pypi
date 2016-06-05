@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Native MonetDB client Python API",
+    "homepage": "http://www.monetdb.org/",
+    "license": ""
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "a62bee9b0b4532b99b55ff56a8923018695c46c511d67093e781c5b353298fd8",
+        "url": "https://files.pythonhosted.org/packages/11/91/3ef162bfbbecbc9d057a056852e210eb68d655ba8b9cb5fd1943ccbbb608/pymonetdb-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "3ae3269b04f2637da341bbda0a4d43dd16c004d627b490c7d3833b29a8a625b3",
+        "url": "https://files.pythonhosted.org/packages/98/2d/06174300a2dec2fc805683e1692dcf8b4315c93fba1a7620848c2f078f0e/pymonetdb-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

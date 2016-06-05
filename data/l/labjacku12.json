@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "LabJack U12 driver",
+    "homepage": "https://launchpad.net/labjacku12",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "60b23949f74b68a24c03c5a42ae525754c152d5b9e9d42f8bf4755b9bcda517c",
+        "url": "https://files.pythonhosted.org/packages/cd/84/102de49e6ae293e462d1de36335ebf2ed9a11f9001bb698433376a134503/labjacku12-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "7b999d645706008bd7748aec4d3fedd5fa9e0c2731c80804bb877d9eb31ec984",
+        "url": "https://files.pythonhosted.org/packages/a3/59/73e13e1f20d56de181140dcdb328a8af6dc921d4d644fe0154264f65bf62/labjacku12-0.2.linux-i686.tar.gz"
+      },
+      "0.3": {
+        "sha256": "25a387948d41d8fa119233332a79821866902c84cdf3cee06b4f53d717c944d1",
+        "url": "https://files.pythonhosted.org/packages/ba/d9/b1354020fe6a5e5512c19a5d13dab223f8f84a74c605f3d9900ff17ebaa2/labjacku12-0.3.linux-i686.tar.gz"
+      },
+      "0.4": {
+        "sha256": "761e12016f7bf644b5df212c26c5eb8d73069748fef0612c1ecdcd7a5fab8219",
+        "url": "https://files.pythonhosted.org/packages/bc/20/fef387ef7338d457c5632556b947a9195ea9dbd21f848146c153655fb8c7/labjacku12-0.4.tar.gz"
+      }
+    }
+  ]
+}

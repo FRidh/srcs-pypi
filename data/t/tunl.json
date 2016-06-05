@@ -1,0 +1,33 @@
+{
+  "latest_version": [
+    "0.17"
+  ],
+  "meta": {
+    "description": "lightweight shh tunnel management utility.  supports command-line and programmatic usage",
+    "homepage": "https://github.com/mattvonrocketstein/tunl/"
+  },
+  "versions": [
+    {
+      "0.11": {
+        "sha256": "a8367021e190f5ebc8bdbdde9f012a395a407a8d9ac0df7f0819766368475ff9",
+        "url": "https://files.pythonhosted.org/packages/d4/42/9491cce51605d04d4f80cc7b85bfcc5ad7e8ebde1a3e457d6ec46fa0efa5/tunl-0.11.tar.gz"
+      },
+      "0.12": {
+        "sha256": "b94f1e96b84d2ab771a1095916eaa5811bfab1b4abc7a8bdae14842c34c9cf49",
+        "url": "https://files.pythonhosted.org/packages/ab/e6/f487cf396724978fd98b90ecc060efa65a4ff54b345cf6bbd241b39181b0/tunl-0.12.tar.gz"
+      },
+      "0.13": {
+        "sha256": "1a74f1842ab566bf7e654a5129094815e5f60f9ea259b88a4bf09cae07eb5534",
+        "url": "https://files.pythonhosted.org/packages/28/88/c42ffa99c89f0941ef13bd4e7043c4cf73a5e2b591dcbaf1801e88c9108d/tunl-0.13.tar.gz"
+      },
+      "0.16": {
+        "sha256": "f656f3acd14753e6d563f8f94489681b3d3b5a8c9538c91ceca8c6649a07aebd",
+        "url": "https://files.pythonhosted.org/packages/b7/ba/88dc64dd6abb9d5bdab0a2d3321bb8dea3c692940b16047f4672c0bb05e6/tunl-0.16.tar.gz"
+      },
+      "0.17": {
+        "sha256": "cce8e2de5bbc863d8f157b3e7f99f477c7ff976c426a3ee09c4f701dc54b95cd",
+        "url": "https://files.pythonhosted.org/packages/e0/d9/184504ac0167b681a814bc1f2c048e744e3a248890e75e0bcd5d1aab7d3a/tunl-0.17.tar.gz"
+      }
+    }
+  ]
+}

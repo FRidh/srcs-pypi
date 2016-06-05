@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.2"
+  ],
+  "meta": {
+    "description": "Client that uses the PostgreSQL client inside a Docker container",
+    "homepage": "http://packages.python.org/docker-postgres-client",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "d02bc65058213a27ed25b01f65ab1984c6deab881d84bc25c412335e020e657c",
+        "url": "https://files.pythonhosted.org/packages/fd/fb/9eb34201407e50f09a39e6272ef933d5d9cc42c9f44d78731762b83a644c/docker-postgres-client-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "3316b88501c8378d1e8c3286e40823ee055b4deff7dd3c3d780a10e140420d08",
+        "url": "https://files.pythonhosted.org/packages/17/5f/55750acfc663b82e42a24fde2371d378be8a0e0f2e10e33ad75b620b4534/docker-postgres-client-0.0.2.tar.gz"
+      }
+    }
+  ]
+}

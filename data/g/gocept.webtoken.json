@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "Wrapper around JWT tokens and the Zope Component Architecture (ZCA)",
+    "homepage": "UNKNOWN",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "f5a9024b7da45e6be35d231585c6ca2c32b1bf5aa6219f4cb3109285ba03ef69",
+        "url": "https://files.pythonhosted.org/packages/cf/9a/7bcc2704d729b898ffe363f46d3c30f7f17fe69be69335e165d9e2b6fbea/gocept.webtoken-1.0.zip"
+      },
+      "1.1": {
+        "sha256": "ce43503116f3cdd8c6776d27830289a84b13cd7d06177ab7ccfff3ae692b07ea",
+        "url": "https://files.pythonhosted.org/packages/da/72/59ce44f5d23b71331701ebcd5a889c53ac6649368cc216178cd0479e8c15/gocept.webtoken-1.1.zip"
+      },
+      "1.2": {
+        "sha256": "3af18e9027809c924244b490816fa5703488008e04b0b02c8882224c794e3420",
+        "url": "https://files.pythonhosted.org/packages/0c/86/dbb7915685179f939d3b4516edb7cb3d4fa3d3076b0b80b9860dae13a7f2/gocept.webtoken-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "e07b3ccd5e70956debf24ead38f0f12a5ab257f217474c80aa9c91209ed700e6",
+        "url": "https://files.pythonhosted.org/packages/a3/41/c7ea06f5abee5c41196dc00a235c146c483c791886002cabad52bdf2a784/gocept.webtoken-1.2.1.tar.gz"
+      }
+    }
+  ]
+}

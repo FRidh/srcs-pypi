@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.5.2"
+  ],
+  "meta": {
+    "description": "DHT 11 v.2 Temperature/Humidity GPIO driver for Raspberry PI",
+    "homepage": "https://github.com/Sulverus/pydht",
+    "license": "http://www.apache.org/licenses/LICENSE-2.0"
+  },
+  "versions": [
+    {
+      "0.5.1": {
+        "sha256": "50ff8b1e8936cddd24371905c65b40c619f8e67ead1dcfcbf1060745c35dd3fd",
+        "url": "https://files.pythonhosted.org/packages/06/b7/d3aba225dfa93fe396d4fe113c17d68a58eed6eb2673aeef8d86d911443d/pydht2-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "da5a41c9fb6dd4a9aa71aadfc48f8e599a74421c37fca6f0318547ec8c17abfe",
+        "url": "https://files.pythonhosted.org/packages/2b/c5/2997a81da7cd67dea07b065bf7896385ac181f24a23ced84958e5c8d3e7a/pydht2-0.5.2.tar.gz"
+      }
+    }
+  ]
+}

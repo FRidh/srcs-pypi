@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "0.0.3"
+  ],
+  "meta": {
+    "description": "Deamon service to enroll nodes to be used for the Ironic OneView Driver",
+    "homepage": "http://git.lsd.ufcg.edu.br/ironic-drivers/ironic-oneviewd"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "16bd0b08bc1b9947987826c188720820f90b21ebcb606f9649e6a6994d45cefa",
+        "url": "https://files.pythonhosted.org/packages/37/a3/8ad1048c46fd29044621f339fc3f7e7654192954f5b32e73a418106baa2f/ironic-oneviewd-0.0.1.tar.gz"
+      },
+      "0.0.1.dev18": {
+        "sha256": "e7d7bed0ad996bc2d5894e873c3033107c2099a4608e695f0da923de04b771a4",
+        "url": "https://files.pythonhosted.org/packages/af/dd/d6d4b509581d746c2fbf57db2d17688caec7fe0d1537b78af3e288786e21/ironic-oneviewd-0.0.1.dev18.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "babb179ecfa6673f3e726c4e5e08333f40c5edb9a646efcb3803064ad3b6178a",
+        "url": "https://files.pythonhosted.org/packages/4a/e2/6e95b8d97a45dfbc1351052cffd91052dd688c26fee9144bf482e4174942/ironic-oneviewd-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "ecbcfd15af7ca0f8dabfb7d1df4bdee2b9078548919dce533a62b050b1228bad",
+        "url": "https://files.pythonhosted.org/packages/91/4f/2c5941c5424af3bf94c2b4c47bfe1779387c45d2a49858a17763d0506f26/ironic-oneviewd-0.0.3.tar.gz"
+      }
+    }
+  ]
+}

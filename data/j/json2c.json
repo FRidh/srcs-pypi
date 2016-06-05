@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "Convert JSON to C data literals",
+    "homepage": "https://github.com/orangeduck/json2c",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "d7ef33ddf00d9ec714029a1f3e7f1c523b03b0e2a60d24e3e6633eeb30f26b42",
+        "url": "https://files.pythonhosted.org/packages/6b/9c/8c2b1835658b62ea7fd0ad74fe2ed7a75fd3f4aca3a161b872fee66f6ba5/json2c-0.9.win-amd64.zip"
+      },
+      "0.9.1": {
+        "sha256": "743e9eda1a87070a4facd20ff467eede8bb36ff39c6c36b0029ed06e56dd33f5",
+        "url": "https://files.pythonhosted.org/packages/13/18/fda7e79fc560637da0d09b53400b25ab9b6aa5393b0cb23c96336d5aee56/json2c-0.9.1.win-amd64.zip"
+      }
+    }
+  ]
+}

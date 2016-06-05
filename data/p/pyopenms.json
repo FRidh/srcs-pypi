@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "Python wrapper for C++ LCMS library OpenMS",
+    "homepage": "http://open-ms.de",
+    "license": "http://opensource.org/licenses/BSD-3-Clause"
+  },
+  "versions": [
+    {
+      "1.11": {
+        "sha256": "1c633b98394baefdfc4ea90897f6c61d536650bcdaa43fea823ea905f81d1c0b",
+        "url": "https://files.pythonhosted.org/packages/69/dc/66e9233db4021d20b0ce6bae25fb7aa70d4400d56945907867fe7b30d23b/pyopenms-1.11-cp27-none-macosx_10_9_x86_64.whl"
+      },
+      "2.0.0": {
+        "sha256": "c5ba2c35e7fbfdd172d64b0f3620eb2618e10c3dfd0a2854876fb819f7a68f25",
+        "url": "https://files.pythonhosted.org/packages/32/18/1a63d63e6d8c64b5cf7f578166d3e21395667e6e60f759632d4e8d09b83f/pyopenms-2.0-cp27-none-macosx_10_10_intel.whl"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.5.7.ipp"
+  ],
+  "meta": {
+    "description": "several image analysis functions that require Intel IPP and FastImage",
+    "homepage": "http://code.astraw.com/projects/motmot",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.5.5": {
+        "sha256": "71b84ed2b2d32702de7908c9dc3a07222b5596302e21da90a3fc86d5851deef5",
+        "url": "https://files.pythonhosted.org/packages/d6/59/b3c3deba8c1fe1392db089ff3076375918d5a48736bddaf6c2d480aadb0b/motmot.realtime_image_analysis-0.5.5.tar.gz"
+      },
+      "0.5.7": {
+        "sha256": "35bf29066c6ce061b5a4657587eb4ce88a568c7dc637fbbf2779a33a916b1b6d",
+        "url": "https://files.pythonhosted.org/packages/bf/d0/db86c38169a80c298489211beab7cb25422aab4ec61cfc5a30fd160355c1/motmot.realtime_image_analysis-0.5.7.tar.gz"
+      },
+      "0.5.7.ipp": {
+        "sha256": "cc6edce06e5ab14d699b00a80777a47865c4999afa0d95f5d24b7c855ef2f64e",
+        "url": "https://files.pythonhosted.org/packages/39/3b/b50784ceaeb763b898c7a2fa236a6bd0e526f262fc8e34832b354bc25653/motmot.realtime_image_analysis-0.5.7.ipp.tar.gz"
+      }
+    }
+  ]
+}

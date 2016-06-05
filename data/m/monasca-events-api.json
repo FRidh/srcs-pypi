@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.0.6"
+  ],
+  "meta": {
+    "description": "OpenStack Events Monitoring Service",
+    "homepage": "https://launchpad.net/monasca",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "c4df461631cf323e615792142825723f9900163519df211c22929d3f7ac2bca9",
+        "url": "https://files.pythonhosted.org/packages/72/fb/12bd93775f1a5f8582d44653dc1ae0a21e9f8b36e5d5b4eb5e84f9708153/monasca-events-api-0.0.2.dev862.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "616e2ee5f002eb1305593a8f37e524d60263c34c8167d7eb1ccd29001b65abe7",
+        "url": "https://files.pythonhosted.org/packages/fb/ab/f6796370b541c08f4fb77114c3bf9740bd521e4067910c4a509ed5f11895/monasca-events-api-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "d6d6a8e715e1110c7898286498684bfaa76f1b96924eb510551cb20615699cb0",
+        "url": "https://files.pythonhosted.org/packages/be/b6/c7c85910261e7c1d3f64319427c51e0073e7253d80b6495c93ba9b7e398b/monasca-events-api-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "78499912747d84ee1eb26118bddc6cad54cac4e669b6ab48e8761e14e61bf93d",
+        "url": "https://files.pythonhosted.org/packages/c1/ff/730917ed4084f017dc942f3adca96ef88276472cda311e4130c90cdc53a5/monasca-events-api-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "071a73991d1a3505050788e4c96c7d69829f450d5c86055594087266bd3876d1",
+        "url": "https://files.pythonhosted.org/packages/c7/da/5381cdfbb583b2f6296b96eda252730daf0151ae1e34ff19f17d3ebc94a3/monasca-events-api-0.0.5.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "9ad3b1f388936e58091721c38558e5cadc984726bac01643f8d9e25c8ea33c83",
+        "url": "https://files.pythonhosted.org/packages/f1/f4/bc7515b1d985def53dbde7bbe4984c0496744548fc6057affa875be51f01/monasca-events-api-0.0.6.tar.gz"
+      }
+    }
+  ]
+}

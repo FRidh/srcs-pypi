@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Kafka integration with asyncio",
+    "homepage": "http://aiokafka.readthedocs.org",
+    "license": "Apache 2"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "c5888b00598a496f2e052c21ad299685efbd33e233125ec59e8c053bbc3a6d78",
+        "url": "https://files.pythonhosted.org/packages/8c/06/2d3ca95bd673613dd16299540651609e5dadb30e2d7e55752de60a44daba/aiokafka-0.0.1.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "3cc67687e7cc5a58db2eecfe5cf198e4546a24008358cd1e914791874c4f26c0",
+        "url": "https://files.pythonhosted.org/packages/0c/de/2055b80402c1c87dc0d3aa015a13047800b9d0a132e32d0e9ed63f251c9e/aiokafka-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "1b3f758a3dbedcbfa4a3b72e34923367776e3478a2d25f4a8c8465dd69417e14",
+        "url": "https://files.pythonhosted.org/packages/88/17/c1233e5ae3b62aa33c61e5664e7d3dbd9bfcb94e452fcbff0549f9ace2d6/aiokafka-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "8f9c544d85be2a83bb8f2b52b93cf133778eea667e0cf25f6074b0a344e2f7d8",
+        "url": "https://files.pythonhosted.org/packages/fc/35/bed3eb04190421a9398dc7946a0077b1600e6e569045d96e6ffe39909630/aiokafka-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

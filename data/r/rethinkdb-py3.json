@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Unofficial RethinkDB driver ported to Python 3",
+    "homepage": "http://rethinkdb.com/"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "b3e4819367b197e72c6824e12fd30be8ae00ddb2212258dbbe9c71ebd90de119",
+        "url": "https://files.pythonhosted.org/packages/43/ca/09dc4a18205b841cf578ebe8dd41036eeab68e107bc956e865a22c74d995/rethinkdb-py3-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "3213105cd619d5bd9c0d2cc0d5e3d94a38782c1fbd6a2f6edb6b6a5b63553909",
+        "url": "https://files.pythonhosted.org/packages/8b/40/dd430b396ac069c867470dcb9f4e8e5ff5182ea9406d044cf30cb833092c/rethinkdb-py3-0.2.tar.gz"
+      }
+    }
+  ]
+}

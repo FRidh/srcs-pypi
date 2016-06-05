@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "ZC Buildout recipe to fake zope 2 packages as eggs",
+    "homepage": "http://svn.affinitic.be/zope/affinitic.recipe.fakezope2eggs",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "102bb00cb216dbd0fe7d06dcc5485fe288e419bbc849b1cf180eea643664c1aa",
+        "url": "https://files.pythonhosted.org/packages/e8/1f/3a76b83303870402352d201c9796e8c25a4a4e0183e4de9aab234c86b174/affinitic.recipe.fakezope2eggs-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "db39496eeabbc4bb215e66facc2daaa54aba769043f3389a48f0af93768dbc80",
+        "url": "https://files.pythonhosted.org/packages/61/5b/cd33d07db7bcb3431c9c47aed3803a319d2f8fcf7021bca5aad076ff0768/affinitic.recipe.fakezope2eggs-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "c574a9933f061636061b841abfff72426acccd477c89579ebe9d4cef98dbaa3a",
+        "url": "https://files.pythonhosted.org/packages/2f/84/5684340dfbcf2d4ce2fec40c6e126f8fa8fcf32562d797a21a1a9259307d/affinitic.recipe.fakezope2eggs-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "04e5332e73e3716d62843cadb83ae911ffcbffaf8c50bf8316fae66af33bf606",
+        "url": "https://files.pythonhosted.org/packages/63/48/c73eec8e97da53621e6bd8af7eb1855f31221feed8cc7f5e0b8d65ab89d3/affinitic.recipe.fakezope2eggs-0.4.tar.gz"
+      }
+    }
+  ]
+}

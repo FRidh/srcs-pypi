@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "3.0.0"
+  ],
+  "meta": {
+    "description": "A Python 3.4+ program for creating invoices from CSV timesheets",
+    "homepage": "https://github.com/araichev/invoicing",
+    "license": "LICENSE"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "04f2d0b6349b655ffd1927b06666cb6ab27398521014f67153ac768a172ac8d4",
+        "url": "https://files.pythonhosted.org/packages/6c/72/f7a1336447eb170966b3b3a3ee01bb5ce0d0095ef024cc0db0357ed76bfa/invoicing-1.0.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "dd025a680f2f27ba76f4c7d9d436a6189cf409bc9534511469c34771ca305080",
+        "url": "https://files.pythonhosted.org/packages/9b/3a/7d3b3aa69006fc41e24e19660d524df61fb3c1b742172d27eb257c4e5908/invoicing-2.0.0.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "356239c0b492395b012d2ff45425ba759e74f1a88414857ae990d1d2da06ebc1",
+        "url": "https://files.pythonhosted.org/packages/6a/8e/b98fc267735db26dc75ce9bfa386c7d6be868e4179ee93cf82dd9c26b0fb/invoicing-3.0.0.tar.gz"
+      }
+    }
+  ]
+}

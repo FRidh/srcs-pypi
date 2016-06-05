@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.8.3"
+  ],
+  "meta": {
+    "description": "Manage Galaxy servers",
+    "homepage": "https://github.com/galaxyproject/gravity",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.8.1": {
+        "sha256": "b2f7016941996b0ddd64ef7776969bf4c33171ab5d4be63b882dba06725d4e29",
+        "url": "https://files.pythonhosted.org/packages/44/27/32decc9a491473e920b821aa34fcb085ca49982a58840a28353d256846d2/gravity-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "27fda7f7beffea1332af4836315f3456dc078c576913c2e9558101227211c061",
+        "url": "https://files.pythonhosted.org/packages/cd/88/20425fc94fd247142eaa7670fd1cf2e65e2a4e3ee954984d00210d45d1f6/gravity-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "d8dcaa2b55b46f762e252b581c23c98445912c8868f4b19d3050c2567b133d73",
+        "url": "https://files.pythonhosted.org/packages/78/32/4b1f7a219082c3059dce4ab211f1c3b10398f80decaadcd1e978f4d7dbda/gravity-0.8.3.tar.gz"
+      }
+    }
+  ]
+}

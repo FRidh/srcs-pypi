@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.8.3"
+  ],
+  "meta": {
+    "description": "A Prolog kernel for Jupyter that can use Python libraries",
+    "homepage": "https://github.com/Calysto/calysto_prolog"
+  },
+  "versions": [
+    {
+      "0.8.2": {
+        "sha256": "ec919f50c5653006775c41fabc1065a2169508abf36d2802fe6eb14ce2504a6e",
+        "url": "https://files.pythonhosted.org/packages/15/c8/a0065493f37a5601fc1c39c8482dd65170537a08098a42c64b182c3edd7b/calysto_prolog-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "1d1b0309f4c7479933df9bbeafb8d77a19fa16eedbfc13c8039decbb67eb917a",
+        "url": "https://files.pythonhosted.org/packages/59/8e/568584bf80cf255e45016c7a34433772592df0e04ffdd766ac339a3ddcaf/calysto_prolog-0.8.3.tar.gz"
+      }
+    }
+  ]
+}

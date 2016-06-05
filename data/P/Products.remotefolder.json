@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Folderish type that loads content from an external source like, for example, RSS feeds",
+    "homepage": "http://svn.collective.org/Products.remotefolder",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "215c5200e965ee5dbab62be1a396661e4c53bd0fb3df2ba82d936b8fa932b686",
+        "url": "https://files.pythonhosted.org/packages/c8/81/bfcfb290f8c86007aaa239a28b45ef29ffb27d5aa881a39a24a990f17fdd/Products.remotefolder-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "ce53eccba03698745e1fe20e7828468766dfe218fa3c00ee3e014a08024f43da",
+        "url": "https://files.pythonhosted.org/packages/b6/25/818330013e501e8edb1106d9cce2ea29c5b4b99bf4cfbb0a837ba37e8f75/Products.remotefolder-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "412c983c51b9b2748dd4eaf9528f0a5a119038698f8201b70e96b0a6e0eb11cf",
+        "url": "https://files.pythonhosted.org/packages/51/38/331662dbe6a40f6ea3fdeea411c6e4dba20a1c0fc294b93d625ef032f92b/Products.remotefolder-0.3.tar.gz"
+      }
+    }
+  ]
+}

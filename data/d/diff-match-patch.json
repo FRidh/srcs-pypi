@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "20121119"
+  ],
+  "meta": {
+    "description": "The Diff Match and Patch libraries offer robust algorithms to perform the operations required for synchronizing plain text",
+    "homepage": "http://code.google.com/p/google-diff-match-patch/",
+    "license": "Apache"
+  },
+  "versions": [
+    {
+      "20110725": {
+        "sha256": "775acb3da1f77c5752934e8c58ebde62cc424deccdf30c653ebb2278c6ae4098",
+        "url": "https://files.pythonhosted.org/packages/a5/68/642b2fa1877f6a55c5f53a61b1a9def283098a4dbdb8f8dd3416c9b62c7f/diff-match-patch-20110725.tar.gz"
+      },
+      "20110725.1": {
+        "sha256": "d876417dcf4210765e0c705b97d1b278588bf82304ec6d875e33f61447266300",
+        "url": "https://files.pythonhosted.org/packages/25/8f/213d4eee154f3450c37e79a0ed41027adbf14f0649bc9721b859a229e31b/diff-match-patch-20110725.1.tar.gz"
+      },
+      "20120106": {
+        "sha256": "78476e0057827fefdcebd991bec48e56c2576bf9253dfc1486c837455c45757a",
+        "url": "https://files.pythonhosted.org/packages/bd/af/bdde901de3ce671ce8130fc8c67fcd2a5cea41c4c3daed924f75449fd9b7/diff-match-patch-20120106.tar.gz"
+      },
+      "20121119": {
+        "sha256": "9dba5611fbf27893347349fd51cc1911cb403682a7163373adacc565d11e2e4c",
+        "url": "https://files.pythonhosted.org/packages/22/82/46eaeab04805b4fac17630b59f30c4f2c8860988bcefd730ff4f1992908b/diff-match-patch-20121119.tar.gz"
+      }
+    }
+  ]
+}

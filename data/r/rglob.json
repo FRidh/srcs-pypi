@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.4"
+  ],
+  "meta": {
+    "description": "Python Recursive Glob",
+    "homepage": "http://cpiekarski.com/2011/09/23/python-recursive-glob/",
+    "license": "OSI Approved Apache Software License"
+  },
+  "versions": [
+    {
+      "1.2": {
+        "sha256": "595114e566fc58a1fe5d8f85209290ea038953a2c413ee5d66f9565d90961ca9",
+        "url": "https://files.pythonhosted.org/packages/c4/4c/ef99567647d47950ba0f82883ed115767db4a910d083e726645254727470/rglob-1.2.linux-x86_64.tar.gz"
+      },
+      "1.3": {
+        "sha256": "190478964d7dda7f80fe3c5ed5f0932e95b1d98c8951de77fad3d8d7dcd59243",
+        "url": "https://files.pythonhosted.org/packages/e1/90/34a8f782769e036b788968e8b425f288749ae454c23b68cfb9b582e8e033/rglob-1.3.linux-x86_64.tar.gz"
+      },
+      "1.4": {
+        "sha256": "6d7cb1208ecaaba258861ad367a955dd80bee9d1562f7465cbb1dd6eec8d6ee0",
+        "url": "https://files.pythonhosted.org/packages/cb/22/6685ecff402dd6f24f4062e71478a369149ec9a5ba0784a486a96103f12b/rglob-1.4.tar.gz"
+      }
+    }
+  ]
+}

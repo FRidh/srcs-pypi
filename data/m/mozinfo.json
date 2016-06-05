@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "0.9"
+  ],
+  "meta": {
+    "description": "Library to get system information for use in Mozilla testing",
+    "homepage": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase",
+    "license": "MPL"
+  },
+  "versions": [
+    {
+      "0.3.2": {
+        "sha256": "980338059ae0082f31d80a8080fcd03e3138f11272923b2f6537ccbeb9754e28",
+        "url": "https://files.pythonhosted.org/packages/05/6c/08cbe02eaf9358e5e60305b4f801805a90896448fe0181b8dc595e1f2d67/mozinfo-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "236398de92fef2e6fdc1d858295c305027b5b2512cd64665ec7665fbe125fa6c",
+        "url": "https://files.pythonhosted.org/packages/f0/38/73e94572e71d73603c614a865cf0daf92ccb766d2bea4a75cb1c09b2c90a/mozinfo-0.3.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "80c0b0f2120336685a0ee072a00b18a7726f696dd2c9168987dbe1f786d1cb95",
+        "url": "https://files.pythonhosted.org/packages/81/a2/9a0a19220c577887eb2f0f547d4d62944528f2cc7aad2c6c987722d6bff8/mozinfo-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "97f1362f77dbeaf9bdf62fb59642a9c620f8eb20759709fa35da1590a6952bd5",
+        "url": "https://files.pythonhosted.org/packages/ed/21/a2cf70c36be80ecff045d6cadccd97bb7f9d23c7bf74c22a9c7500f4491b/mozinfo-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "114c9c6c096f466611a54480d058273d812bd3386b5316b6d154dd8e8c20643b",
+        "url": "https://files.pythonhosted.org/packages/1a/a7/c828e24e1a2ec387d33f9b70a8bd4a5d45f58845172a42a1cfe07297eac7/mozinfo-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "d27f75b668614f28df2e61b8aa4beb6f68f3c9936fc9139fae755728f2b4844a",
+        "url": "https://files.pythonhosted.org/packages/0c/b0/ebe25560d86735148c6b07e49974915e8404165dd84c0fcc4b2865efefd3/mozinfo-0.7.tar.gz"
+      },
+      "0.8": {
+        "sha256": "87fac0af02f5d002dd904402e5e91b489ce1fce2245e4371dd256d59f1350bfd",
+        "url": "https://files.pythonhosted.org/packages/c6/8a/c45ec417d485428391ae5a4737d0df836e40ee20044cf2d361e6ab8f47fc/mozinfo-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "9f78612fafc05727aeb913b2906f13c6bcc2af08f5383e06e437f62317b490cb",
+        "url": "https://files.pythonhosted.org/packages/cd/18/666fe2f87bb833966a5c4834fe2397fc95cd2083fff0419f548fb04bfe7d/mozinfo-0.9.tar.gz"
+      }
+    }
+  ]
+}

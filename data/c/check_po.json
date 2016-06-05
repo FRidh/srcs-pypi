@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Check_po to verify if everything is translated\n                       and that no fuzzy are still here",
+    "homepage": "https://github.com/novagile/check_po",
+    "license": "WTFPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "199e447efc6a32c41a719859501b4494e4a28e37a198862de8190b4b04272e17",
+        "url": "https://files.pythonhosted.org/packages/38/ba/91ffaea5b0c040515f5dc1b243578a52597b62c26aed672ef9e126bcf8ec/check_po-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "02d3f3d7e72e87225b02b6488b72313e5332a4aec00bf76bf8e2063036ddef3b",
+        "url": "https://files.pythonhosted.org/packages/16/c1/afe8700256423fd9309ee8bb6a60bdb7e9882e27bcf40c7698e05ea93c4d/check_po-0.2.zip"
+      },
+      "0.3": {
+        "sha256": "1dd44f4ecffe526223875d245c934d76817def9da63266b718c8f45c6e5e1991",
+        "url": "https://files.pythonhosted.org/packages/9d/91/10cbdcd52a38cabb675354533a5c2102031c2f3d3f05d013aa56549be77d/check_po-0.3.zip"
+      },
+      "0.4": {
+        "sha256": "95c99ee316c7b3ab806b2699a57e724bcd1c97a31f0344763a85319a69b45ba1",
+        "url": "https://files.pythonhosted.org/packages/e1/f3/d554bb45dbb1b35751afac5f5bb94441a357eb4306d905a7d3b7299a225c/check_po-0.4.zip"
+      },
+      "0.5": {
+        "sha256": "b588c7ce425c372ca883fbca4f229706e4ca62585e4953d0a1ce575dfbaa0661",
+        "url": "https://files.pythonhosted.org/packages/33/52/476b6d7157ec8ba930ec650f30d7d0e23caae859da7bc6b295b50b8b2c16/check_po-0.5.zip"
+      },
+      "0.6": {
+        "sha256": "57c171b18c7cbfa64763955ad67a63c2f28fd48ad5d7065130df1e485a275494",
+        "url": "https://files.pythonhosted.org/packages/a6/4a/7d12215f909572f322f12affd2f3e57bd62b7ff9094a0da61ec9e8fff381/check_po-0.6.zip"
+      }
+    }
+  ]
+}

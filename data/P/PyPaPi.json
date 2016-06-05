@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.8"
+  ],
+  "meta": {
+    "description": "PyPaPi - Python and Qt Application Framework (PyQt and SQLAlchemy)",
+    "homepage": "http://www.pypapi.org/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.8": {
+        "sha256": "931fbf141242406e060e95a5c500c6b171b006bf13574670e35429d2a941f5fa",
+        "url": "https://files.pythonhosted.org/packages/06/62/c0f3da41c24bdba75dfdd3cd667a3a67248f356077de01a2ad2e870531bb/pypapi-0.8.tar.gz"
+      },
+      "0.8beta": {
+        "sha256": "a4b83afd486d0f506f053bcab1dde5c5332c447f31e91b11ac277853608135b6",
+        "url": "https://files.pythonhosted.org/packages/34/b6/40632406fab88188ba34f254b1d70c4424d13675ba3b887e73d371311082/pypapi-0.8beta.tar.gz"
+      }
+    }
+  ]
+}

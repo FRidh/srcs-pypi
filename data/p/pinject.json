@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.10.2"
+  ],
+  "meta": {
+    "description": "A pythonic dependency injection library",
+    "homepage": "https://github.com/google/pinject",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "ed5495ffab981295f2d26426f56bab01c18347502fed8fa3fb63873a358cc420",
+        "url": "https://files.pythonhosted.org/packages/e8/66/cb404c2ed0e35d15cc30e0a2dbe1682ff08a2b89b7a626a7640f607a174f/pinject-0.10.1.tar.gz"
+      },
+      "0.10.2": {
+        "sha256": "38ea2f457bf02635544c6784ee7a9f8c1f4faf2fd04dccd9b352b3c00710e968",
+        "url": "https://files.pythonhosted.org/packages/a9/9a/412b1f4dff67957835297ad6489bb7e3fce2e27e11966786dceb57dd509b/pinject-0.10.2.tar.gz"
+      },
+      "0.8": {
+        "sha256": "aafb3617bc2067e3ce58ae2fdc98f05491ce707028d6bc47cd8a7c23884d3f9a",
+        "url": "https://files.pythonhosted.org/packages/37/ae/432985f759e3e8842f87de81bb6a2f2bba3eb5e63dec61ca3167952dd177/pinject-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "638a4da8894350298606c7228387b37599d189c76f7a9abcacfa23c2e1072701",
+        "url": "https://files.pythonhosted.org/packages/7e/ec/af093f3c0b2e5eb136af6d56b4cbc66badc443dce93d3ff96b061b691fad/pinject-0.10.tar.gz"
+      }
+    }
+  ]
+}

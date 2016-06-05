@@ -1,0 +1,282 @@
+{
+  "latest_version": [
+    "0.5.20"
+  ],
+  "meta": {
+    "description": "Python compiler with full language support and CPython compatibility",
+    "homepage": "http://nuitka.net",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.4.0": {
+        "sha256": "67b63dbc0bdf38b004640177f29ed4e441e864568f168653136589ee261210f8",
+        "url": "https://files.pythonhosted.org/packages/34/f4/22c5269e65304f898b7c6ed7fdae8205267b2a5654cf138cc0fa6987c5ab/Nuitka-0.4.0.linux-x86_64.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "25e93dd255ebdf3e435764e08e6e97bd1e6fb6d82e99e5509cc8f1a774c33104",
+        "url": "https://files.pythonhosted.org/packages/5c/e3/143e45ea5de6ac6841f4e79b7f0b5a35b64d08871b0c66e30348fdf9b919/Nuitka-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "349473e701e6a4133e6e6143445276749053219941a653e4a88f1a0b3b33ca1c",
+        "url": "https://files.pythonhosted.org/packages/ff/fb/588a2a1afc73f60671fea3007a5c4ea8a71321d4c4936903313711d37199/Nuitka-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "d9970814a747f3909b56969b9e46b479e861158fbba4e3ddebb01c4a6f95afe1",
+        "url": "https://files.pythonhosted.org/packages/0a/0a/0e79047f89c68f4bbfebbfd625d983970555355184a0cacc4fde827bdd08/Nuitka-0.4.3.tar.gz"
+      },
+      "0.4.4": {
+        "sha256": "4d91875caa0b2a0d4f291b8499b431fae01690afce207cee5fd481084fa2e34c",
+        "url": "https://files.pythonhosted.org/packages/d7/56/4931190dcebb4159f4c07afc2572031650564eec3cba00bad1e300e3c19e/Nuitka-0.4.4.tar.gz"
+      },
+      "0.4.4.1": {
+        "sha256": "6fc65953c42ad1c1acfbbf4868adf090ea31c97a2c8038fc91237bb7caf92546",
+        "url": "https://files.pythonhosted.org/packages/24/29/4c2d52aba044c7c1250cd2f07f7b4cd76f52aa6f10da43285767201e81df/Nuitka-0.4.4.1.tar.gz"
+      },
+      "0.4.4.2": {
+        "sha256": "46d3ada28e280a0e6ee85a23a09c165deb3a9e46f76c7ae54d73658e162af882",
+        "url": "https://files.pythonhosted.org/packages/54/6c/6ec6d2b73f5621e87f37ea06fec4e7f6f1c61d01be5ea480fe72d25b7cf9/Nuitka-0.4.4.2.tar.gz"
+      },
+      "0.4.5": {
+        "sha256": "31f285f24647b7b45687c0eb0a452090b68284408ad614bf6b1570dc6f613228",
+        "url": "https://files.pythonhosted.org/packages/7b/ca/a5d33f1bfee8df1ddf5474abea5dd0fdff3855bcd30cbe4e34b1fa309b08/Nuitka-0.4.5.tar.gz"
+      },
+      "0.4.5.1": {
+        "sha256": "5fd39dae8f1ad35a9314dde57566407811ca4972b0f4afb3530f1de064f4a474",
+        "url": "https://files.pythonhosted.org/packages/a0/55/fd3430f64928d16e979fc120c7b0c258ec67785a171cf4d095bf1bae769b/Nuitka-0.4.5.1.tar.gz"
+      },
+      "0.4.5.2": {
+        "sha256": "2e017b0e171f9bc862d14a9de02201be2ffa1a0b204c95197e990d6f65b97ead",
+        "url": "https://files.pythonhosted.org/packages/15/af/dd475ace0a257e1c1f43e00b5bbd916343a1d479b90b85eb3a01e51f7a6b/Nuitka-0.4.5.2.tar.gz"
+      },
+      "0.4.5.3": {
+        "sha256": "876167dc58e61f59f79dc5b8fa1deedbcdd11740f2724b6645d6b174b5beae96",
+        "url": "https://files.pythonhosted.org/packages/7b/6d/c4de69612191cab90488789bbc012ec577e1da2189f69cb959dbe05431d2/Nuitka-0.4.5.3.tar.gz"
+      },
+      "0.4.6": {
+        "sha256": "0ed1b2e7cd2ef776aa37a0773b4ead249af36f79cac990aeea6e375d0875a138",
+        "url": "https://files.pythonhosted.org/packages/e0/e0/071557975f44702bdc51a72202a156d98ab8865feb66653ef2c7d86ede71/Nuitka-0.4.6.tar.gz"
+      },
+      "0.4.6.1": {
+        "sha256": "0df21881f51673e3df09676ed61c8c76b48cb6ef6f8e7ac112a2c460301c3081",
+        "url": "https://files.pythonhosted.org/packages/08/49/d3d7754990726db099f34602a03cc86370d3b2690ef0c63ab5515e73a267/Nuitka-0.4.6.1.tar.gz"
+      },
+      "0.4.6.2": {
+        "sha256": "f38feae50028fba1c2163f62e537565a0423c651e632c7179dcca65364f1735c",
+        "url": "https://files.pythonhosted.org/packages/41/07/2fa72a9cbf50fe013415062c5f23d93ba733802ddb8af564010891ec7a27/Nuitka-0.4.6.2.tar.gz"
+      },
+      "0.4.7": {
+        "sha256": "1c078f14328218872b5e1099816488eee3c4871d86ef6b5b57ad6cec63085cac",
+        "url": "https://files.pythonhosted.org/packages/63/c6/3df37793d35138b5f2ae239a0b85e8b3683e1e0f6c054b7569b511e14a37/Nuitka-0.4.7.tar.gz"
+      },
+      "0.4.7.1": {
+        "sha256": "2130bbd468796d50428ea5bbd92f46e91aaca75546983dfa1719626a855b8d0a",
+        "url": "https://files.pythonhosted.org/packages/85/c7/13bbb521120b28992def5e3cb74b6f4736d122d9c16b2d848c5f6ee98bcf/Nuitka-0.4.7.1.tar.gz"
+      },
+      "0.4.7.2": {
+        "sha256": "97e668652e7d289e22a7e951f25dbe4fec5b4c9bc8fabf0ef172d2841cda278e",
+        "url": "https://files.pythonhosted.org/packages/6b/9e/b0cbf6037456b9d55048def6cab43834a822947aab7621a0bbf8598450ae/Nuitka-0.4.7.2.tar.gz"
+      },
+      "0.5.0.1": {
+        "sha256": "57136447e1e87d02b3dcd1119f94140e3f7d29bda8c6f8de0e13a7d7320e3cbf",
+        "url": "https://files.pythonhosted.org/packages/a0/9f/91e0f5a64a13adbaf624d5827007e1950a73d4accdcf9c6b37c22d6f7673/Nuitka-0.5.0.1.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "2497bd76fa6675aecd25d35e452bd330ddb10d7f5241586763a9216708ab9aa4",
+        "url": "https://files.pythonhosted.org/packages/57/cb/3455ff73a874910f3e8e8ea34c78a056e1c6bdf65a99045c6b72aee9f658/Nuitka-0.5.1.tar.gz"
+      },
+      "0.5.1.1": {
+        "sha256": "0b749bd2b2ff828120b742393f8fa40edc887d1f59165a31e2b98f4d5f2c9a4c",
+        "url": "https://files.pythonhosted.org/packages/c1/67/1176f1f5cd9c6b9bf2329bcea9eaff7af5498e4ab125c387b67c8699b67e/Nuitka-0.5.1.1.tar.gz"
+      },
+      "0.5.1.5": {
+        "sha256": "4a7de90409aacf0e9b7b3ede8632de01afb45d4e22f4479804b2efb1a3eddfbe",
+        "url": "https://files.pythonhosted.org/packages/09/80/1f127eb9e33e5efd99ceb80406b3e30ac2d50788016330c76472e817baf8/Nuitka-0.5.1.5.tar.gz"
+      },
+      "0.5.1.6": {
+        "sha256": "d66e05ffcb262f3685316835c919b535393783820b57673008e288719801c5ba",
+        "url": "https://files.pythonhosted.org/packages/c8/38/a29434bbaad7796d0a162f6d32c898c85c93706051ade5bdcfc836ea4272/Nuitka-0.5.1.6.tar.gz"
+      },
+      "0.5.10": {
+        "sha256": "7f8377839811139c010506bf0efac3a5fdca8fec8b8a511ad69edd1523d8724e",
+        "url": "https://files.pythonhosted.org/packages/9d/1d/5ce5d988bb6d06fc6aad5d904b51b0e33126b527af2ff87e6ed4cd70f2c2/Nuitka-0.5.10.tar.gz"
+      },
+      "0.5.10.1": {
+        "sha256": "a800facf3b385540b119b7774df023488944f6c879ed7e05f8a6a9bbe99ad37e",
+        "url": "https://files.pythonhosted.org/packages/bb/8d/cda96f359b939258f31423e251f83e29850ad3fcf7904ee5a64d8c49c797/Nuitka-0.5.10.1.tar.gz"
+      },
+      "0.5.10.2": {
+        "sha256": "b98004caf0e80d7d118d05ae9ec6ce11a107d5053219c12636285242c430fda1",
+        "url": "https://files.pythonhosted.org/packages/52/de/90e47b6db39e218861aaa45ca1ab9680299e051e481f3d0c7580012b2f10/Nuitka-0.5.10.2.tar.gz"
+      },
+      "0.5.11": {
+        "sha256": "2d6e4ced89f327a5685acd3eea883ae64377b784253c41307588172a2843a1a8",
+        "url": "https://files.pythonhosted.org/packages/a4/c5/b3d6349fef6567a2d4e5cb0c47479472ed99a02a1cc455d071498592bdf7/Nuitka-0.5.11.tar.gz"
+      },
+      "0.5.11.1": {
+        "sha256": "5c2fbd74c1f2daf2f81c41d856c4ef7711bc2f74663e28fa57354abdddb009e4",
+        "url": "https://files.pythonhosted.org/packages/f7/40/a7a9cfdde751f5a0ca4476ef09bdcc49ef41cd27a31e604ac02cf44888a0/Nuitka-0.5.11.1.tar.gz"
+      },
+      "0.5.11.2": {
+        "sha256": "556bb2fa98dfcf9eebcd48bd610eabef05815da5cc3edb8dd41fdf4c25154f0a",
+        "url": "https://files.pythonhosted.org/packages/7c/13/8b0851570c35d37a9b8b533b60d46ecdf8b40c701a4bc2a1c7133bd5e206/Nuitka-0.5.11.2.tar.gz"
+      },
+      "0.5.12": {
+        "sha256": "55ec021aa66cd8691f5bf88bd7167f5a37fb0cd5a8a5f143c8d40863aac6e901",
+        "url": "https://files.pythonhosted.org/packages/fb/69/159cbcc6b1f2c9f1f599a95811bb9807d9e3c670be4a218b9858f62fdb52/Nuitka-0.5.12.tar.gz"
+      },
+      "0.5.12.1": {
+        "sha256": "4504a619470784937859d9034faa2ce4f23bfac7acc1106a28e75610064d38ca",
+        "url": "https://files.pythonhosted.org/packages/86/78/4e737399efa5c9a312c3308ea6d48ffbc51691ff757c6f805f845dec22e7/Nuitka-0.5.12.1.tar.gz"
+      },
+      "0.5.12.2": {
+        "sha256": "1ccb10aa304b1cb9787d438372ab3f489511e7fdd798f2594f3630259b832f78",
+        "url": "https://files.pythonhosted.org/packages/83/4d/2fc1d9108bc560ea52e0babfdd05f0d7af3c2defbb611b115d27165e2660/Nuitka-0.5.12.2.tar.gz"
+      },
+      "0.5.13": {
+        "sha256": "79fdb833a613c425a35289be18d85abcc994f4e0d0d6d979067e7344a4f23edc",
+        "url": "https://files.pythonhosted.org/packages/3b/5e/0b9e3258175cd85e557e2ccb117bc65bf4634f90531a9eebbe98cee44cf3/Nuitka-0.5.13.tar.gz"
+      },
+      "0.5.13.1": {
+        "sha256": "1dfb380473fa909bbb28e3e21194f6d5ae339de83c35aeb7909562a633c7e18e",
+        "url": "https://files.pythonhosted.org/packages/42/40/9a45280fb138df5fae81ebe1858e1ed31a10e8adad19e394d4eed94bd9af/Nuitka-0.5.13.1.tar.gz"
+      },
+      "0.5.13.2": {
+        "sha256": "f1f73a42c491053f05b860a21d7a3ccf66a643fe0032c5348697e25df2f0fa4c",
+        "url": "https://files.pythonhosted.org/packages/db/e9/8133da266713462ce2e94422ef5e5c0ab5e4601cd896a2a7753a54a60bdb/Nuitka-0.5.13.2.tar.gz"
+      },
+      "0.5.13.3": {
+        "sha256": "7afe9c67972b3f4ff71dacc7b8e74983f59b53d473726401e428e8e5abdf4750",
+        "url": "https://files.pythonhosted.org/packages/b9/de/92d62f61d7229cd73c6f585f4c68760d8492abcf1f22b4954d5cc27f0e5c/Nuitka-0.5.13.3.tar.gz"
+      },
+      "0.5.13.4": {
+        "sha256": "e3e3a8b5bb8a5652d3509f20cd534047da352d54bc6048a7c07594f7adebc682",
+        "url": "https://files.pythonhosted.org/packages/e7/41/229989c8d319ea152180c016d179d12e59f7719b9c187056c1877bd9bba2/Nuitka-0.5.13.4.tar.gz"
+      },
+      "0.5.13.6": {
+        "sha256": "c085f347427384d533a8b5c99ca83c9f34f96d5451d2cbdcc8f3dc7bbd0fe42e",
+        "url": "https://files.pythonhosted.org/packages/cf/d9/454b400277e0096d252ca5052df4a4c05f5a2a1bdda163443dd4c0210d6a/Nuitka-0.5.13.6.tar.gz"
+      },
+      "0.5.13.7": {
+        "sha256": "81f26a8148d4f70af5ca6b30fa34905db5e0e25cc888d3dea0a2f675067fcb79",
+        "url": "https://files.pythonhosted.org/packages/17/c4/db0fe817e64ef5ecf6d050fa01342c85f95d30f69c7a50c2940571d5fdbc/Nuitka-0.5.13.7.tar.gz"
+      },
+      "0.5.13.8": {
+        "sha256": "b3c986e860f22b15d6ceff1eddf924bfa55a00ffd1bb8db3004c5d5891d3427a",
+        "url": "https://files.pythonhosted.org/packages/ce/67/4891a73f0c950b339334b6403c881330e5b87b67a2d3e05173b5b3012a5b/Nuitka-0.5.13.8.tar.gz"
+      },
+      "0.5.14": {
+        "sha256": "61c8dcdcf7de2bdb46583b3766e95af77dd2f9648abf34102b16668be0244ba0",
+        "url": "https://files.pythonhosted.org/packages/10/b6/74578b4e6996ffce547fb2bb2e44e7313331cf82d2bc846c2c85e1406fed/Nuitka-0.5.14.tar.gz"
+      },
+      "0.5.14.1": {
+        "sha256": "0f488324a99b2da5e3be5c58539272c4ae394b24b486565e638f48b980a965b1",
+        "url": "https://files.pythonhosted.org/packages/4f/ca/ed8cd41ae73460b1c8ab49a1a855a67d8e7e082c963fc83f9abd6622487c/Nuitka-0.5.14.1.tar.gz"
+      },
+      "0.5.14.2": {
+        "sha256": "51c91e69dcfced6a161e9d8a6e7c7582051549050c2c7fd12f3ff74f17a3e308",
+        "url": "https://files.pythonhosted.org/packages/a0/63/f867ef6f6241faab48391d29e2910be826408f7e3199a8f2a9c7ae24e626/Nuitka-0.5.14.2.tar.gz"
+      },
+      "0.5.14.3": {
+        "sha256": "4432b6080e4e9e0802796e4544e6a86d1b03dee175f76eb31512e3e25cd34f65",
+        "url": "https://files.pythonhosted.org/packages/72/88/6c098de9d8bf7f463cef218b733ed604e780391c3ea270792988c6c0fc20/Nuitka-0.5.14.3.tar.gz"
+      },
+      "0.5.15": {
+        "sha256": "98078cfe8778421d36c3e167dbf68fc5855b4df9ed1e864d198fb2c726c1983e",
+        "url": "https://files.pythonhosted.org/packages/9b/44/ec2e748af15c7339eba8b3072d4b109d6941dfde09b6c47972ce2fd9abf8/Nuitka-0.5.15.tar.gz"
+      },
+      "0.5.16": {
+        "sha256": "154689da7cf88b46e90f5d0a303a1172e3713d4c4e3fd3137a318b9a36e402b8",
+        "url": "https://files.pythonhosted.org/packages/d4/4e/ce4ef5f7d6690a743e2d413dfbc097410ea75a3973d5bc6a034cd353d4ab/Nuitka-0.5.16.tar.gz"
+      },
+      "0.5.16.1": {
+        "sha256": "4573d62e35629176db09c47ad5fea37559f220f4f04e5e7bbcc5705da4104bf6",
+        "url": "https://files.pythonhosted.org/packages/38/5e/75a103e2bd6aaf3f05eb9d793ffc0e4d06397f4ce92c36c2a9d7878a238c/Nuitka-0.5.16.1.tar.gz"
+      },
+      "0.5.19": {
+        "sha256": "e8c61773a101aaeb816c5be683e5138c0525a5f79838ce03ccbbe858f26c87b5",
+        "url": "https://files.pythonhosted.org/packages/e0/59/05adbe0ec9685b1337a05cd7a9671bebcb1b97a2be585fe1f05b8ace5ed5/Nuitka-0.5.19.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "4c6cba61943f89769856db22facd33c9ee14bb456f63330bc911723407bcb440",
+        "url": "https://files.pythonhosted.org/packages/32/70/0e14e8320e4c8ff980f5036da3c2627eebad98a2f133fe45bfbe4736a966/Nuitka-0.5.2.tar.gz"
+      },
+      "0.5.2.1": {
+        "sha256": "743bd566b17377180ac226b0f80bd2cedf6a266a136a81b34e519d6f602dd9db",
+        "url": "https://files.pythonhosted.org/packages/40/95/e3f7eda945646e24e3996fe34de7201f3c37737331bf8dbb87a70b640a1e/Nuitka-0.5.2.1.tar.gz"
+      },
+      "0.5.20": {
+        "sha256": "d4badb706deba2d6344822df43e339f477063ed4e6e691c504fc7419a1d175ee",
+        "url": "https://files.pythonhosted.org/packages/54/9c/3804a1dc054189c11fa73362c3b0d917a126ff55ec2203a298feb352c059/Nuitka-0.5.20.tar.gz"
+      },
+      "0.5.3.2": {
+        "sha256": "12afa3c6a58fea40c2f7fcb8c639241f8dc76655698a5a2aec8405ac8f563010",
+        "url": "https://files.pythonhosted.org/packages/d2/15/fa7ff43e940e6a1f5ac81a962456b32431c21f93c41aa0f556e854c5f738/Nuitka-0.5.3.2.tar.gz"
+      },
+      "0.5.3.3": {
+        "sha256": "d3a88a7d6b4f564dccc98546d471f5fc6a06f4f7a2d0cd52bdb86ac77fcbfa06",
+        "url": "https://files.pythonhosted.org/packages/3d/43/e1d5b1ca9838c19827cbd2ff84031dd80c3d0c1b80bc76557b740e911e7f/Nuitka-0.5.3.3.tar.gz"
+      },
+      "0.5.3.4": {
+        "sha256": "a460306071aa6e7f72080daf7b01ffce441bcc6ad169dbb3bb37c56bcfd10e21",
+        "url": "https://files.pythonhosted.org/packages/6b/c2/cc806acbb1c4d925d390f732c6e81ec3d40c9c146fbd310c1add0402a54a/Nuitka-0.5.3.4.tar.gz"
+      },
+      "0.5.3.5": {
+        "sha256": "1fa7d3dab52a2fee250b95eba04c78ede7255f87c35e0f1edecff28797ac0053",
+        "url": "https://files.pythonhosted.org/packages/1e/5e/15d5975ef90b353dd450bb1fc0ae37c2fd04e499b40d3f9586f4172f3701/Nuitka-0.5.3.5.tar.gz"
+      },
+      "0.5.4": {
+        "sha256": "6f8c6a829e0a251ea55c3aa5f367df84dd270131cc6a5ee11e921acd83718068",
+        "url": "https://files.pythonhosted.org/packages/a9/e7/3b37530f7177477cd32a680739642107f748b05c5161e4944ab3b037666c/Nuitka-0.5.4.tar.gz"
+      },
+      "0.5.4.1": {
+        "sha256": "a8e71e911942cbd0576d0dbbb7e8ab655184abb46a620cab0e53572b709a24c5",
+        "url": "https://files.pythonhosted.org/packages/31/52/ea51d5c818ca53bea2b539af31a0d6a98622123649ff7042e058f6975d60/Nuitka-0.5.4.1.tar.gz"
+      },
+      "0.5.4.2": {
+        "sha256": "a9bc6ea40a3518c87652e892e226339a8f35dc917241235ea6577251d166ffca",
+        "url": "https://files.pythonhosted.org/packages/86/fd/1a7b510e6e591ffea62d8c1f5812eae993a0bafc69fa8c7d9ff54b350d7a/Nuitka-0.5.4.2.tar.gz"
+      },
+      "0.5.4.3": {
+        "sha256": "a42e0af12c053248638c0a6e76c20f21592133bda70a7bda0cfccc54cebcbb81",
+        "url": "https://files.pythonhosted.org/packages/ea/85/1d69c89d6b6ed0054a0475a3d0d2664a3388fd1f6414fa202dc5f0952c52/Nuitka-0.5.4.3.tar.gz"
+      },
+      "0.5.5": {
+        "sha256": "b533e8af231bfd207683685f1e46f350062f4b97129fefb0741e0be9ee44eaaa",
+        "url": "https://files.pythonhosted.org/packages/b8/c8/86ea5b8579b7c757ca01a2427c0a94edfea9eb6c9f01cee03f49b7f138ef/Nuitka-0.5.5.tar.gz"
+      },
+      "0.5.5.1": {
+        "sha256": "24d1b2cbba7605f4122be86f93eb42194b81a380ed551c49857e83513d899dfd",
+        "url": "https://files.pythonhosted.org/packages/45/44/d5f7abc13c55c96feecb4e3c02b7892b37a62981085b32e3be160ee52230/Nuitka-0.5.5.1.tar.gz"
+      },
+      "0.5.5.2": {
+        "sha256": "669edb334fc8089feee3b0642b9d3bf2def82a24820c9017cdcc2e9cf2d297cf",
+        "url": "https://files.pythonhosted.org/packages/8b/e7/17b229019e70eaebb551e9e1479be788bede881baa1d099ce38675df343f/Nuitka-0.5.5.2.tar.gz"
+      },
+      "0.5.5.3": {
+        "sha256": "2f1f5b170dbf93ec2f748cc24e8ac29f22b500b8bacbab754562c061095391aa",
+        "url": "https://files.pythonhosted.org/packages/73/0f/eca74db47395ef46439b9217834d148fdacfcfa171a65ca12b4e15a8c53a/Nuitka-0.5.5.3.tar.gz"
+      },
+      "0.5.6.1": {
+        "sha256": "2e73efd285ffb7271f5587c79a2c660eed57cfc8029488e02228ba18818c8a5d",
+        "url": "https://files.pythonhosted.org/packages/25/be/f79c746c1e495eaf8b886d42ee4dfb87874f6bc8451cc7dfc5791fd79c70/Nuitka-0.5.6.1.tar.gz"
+      },
+      "0.5.7": {
+        "sha256": "7c76cf43be5e9bf2896d788ac89d6824ba250346d7c72617bd3447c5dba7f6b5",
+        "url": "https://files.pythonhosted.org/packages/5a/b7/4b3c8143336586b9191da6a21572387a64d2338681b95c12b69a09d778cb/Nuitka-0.5.7.tar.gz"
+      },
+      "0.5.7.1": {
+        "sha256": "940e7ae0d5837bb51fe25e2a17d23d30eb54a2eddb2117830916684d61660bb6",
+        "url": "https://files.pythonhosted.org/packages/13/bf/d630688e34f41b8dc079811226857183f3fefb4d0f7e15c638f56df461f2/Nuitka-0.5.7.1.tar.gz"
+      },
+      "0.5.8": {
+        "sha256": "d0caaf0a3ca378887b5aff71f6364f0a3c60b8e2e8861090c0ab84296853fdec",
+        "url": "https://files.pythonhosted.org/packages/7d/2e/7db03b40319c7c179bbdd36b5bfa9dc43a0bb9b2f4d0bf57814fd36308b4/Nuitka-0.5.8.tar.gz"
+      },
+      "0.5.9": {
+        "sha256": "b2c9718b9c91b868c1a9538b1a8859988d5f988a7ef1d542b87c19837522b270",
+        "url": "https://files.pythonhosted.org/packages/e9/4b/7cb59dc68c61eaeb51f389516d40581bfda88f7518b4acbb7363489c7149/Nuitka-0.5.9.tar.gz"
+      }
+    }
+  ]
+}

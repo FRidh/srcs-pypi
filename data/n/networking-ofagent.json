@@ -1,0 +1,50 @@
+{
+  "latest_version": [
+    "2015.1.6"
+  ],
+  "meta": {
+    "description": "OpenStack Networking ofagent",
+    "homepage": "https://wiki.openstack.org/wiki/Neutron/OFAgent",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "363bf04a7a3d1ead46a634fe488e9218aa7d97a46084bba8731d8ba0923328af",
+        "url": "https://files.pythonhosted.org/packages/34/63/87cb483f52c8b8e47925a4ab71c53b539f458a0c0c89d6d7d6a4e71bd2c8/networking-ofagent-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "b114344d6ae849e2f06fe97c832c5a89821a9b6e48c5fbcb00778a34fc48b3c5",
+        "url": "https://files.pythonhosted.org/packages/67/3e/fbdebdc313974c656a09ca0e856ba881d29f9c3e79d415d6b473b40da588/networking-ofagent-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "649207b408b7248517bf7d86c87c81efa7643f304e19183b7f4d97538cb74abe",
+        "url": "https://files.pythonhosted.org/packages/7d/79/9a8da3d10f8ed5f4999d130e539e8c28918c9e73132a6c0f94c38e952f30/networking-ofagent-1.0.2.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "aaeec64166a54e31b639318e3ede2ed816fbf9a9a0d777fd3fdb5707b875f335",
+        "url": "https://files.pythonhosted.org/packages/f6/79/726f199aadfc9c328aee36b5ae114040fe9c72ce4b765d828441373e67ce/networking-ofagent-2.0.0.tar.gz"
+      },
+      "2015.1.2": {
+        "sha256": "b882c7b6d0235e34b0ebb3ee1ec520890455935edfba1abaf2c26ae213471356",
+        "url": "https://files.pythonhosted.org/packages/39/d8/85c2582f09c2ee4261351f081617fc8f9a92807f42f137ef95d37abd0e03/networking-ofagent-2015.1.2.tar.gz"
+      },
+      "2015.1.3": {
+        "sha256": "ca8016cc1e2a3188f4c25d9d1a563e5282a4042f8836592e68359566482ed595",
+        "url": "https://files.pythonhosted.org/packages/8a/a3/d7c4d761109deb3bd9af1fec59417c4dae9e1bbc063d8e625455bb64cf7d/networking-ofagent-2015.1.3.tar.gz"
+      },
+      "2015.1.4": {
+        "sha256": "eadfe1c37af18193624d5494010df6825cac7b04c2cfc99355d0a0727f3e6533",
+        "url": "https://files.pythonhosted.org/packages/b0/70/56a9f840caacd544b59518b96cc949fdc07138be6227e103e85c586e6b61/networking-ofagent-2015.1.4.tar.gz"
+      },
+      "2015.1.5": {
+        "sha256": "5696f5f5f0c4142a6bce91bd66d7a5564479f51b4733ee656accff1ec7a16617",
+        "url": "https://files.pythonhosted.org/packages/36/34/329c4609f899069d040ccc4e2c160fe687cf2241afc6b0b9dc3627356864/networking-ofagent-2015.1.5.tar.gz"
+      },
+      "2015.1.6": {
+        "sha256": "55bd66ed80fac7e4ab2d2ddc29309eef82b030bc464f32f2ff396b28d8be6dfe",
+        "url": "https://files.pythonhosted.org/packages/40/b9/3a7206e63ec31d6238379dafa34e8e29f8bbb8652ee16d196c2ec59460bf/networking-ofagent-2015.1.6.tar.gz"
+      }
+    }
+  ]
+}

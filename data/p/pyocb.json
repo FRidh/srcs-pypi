@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "OCB-AES authenticated encryption for Python",
+    "homepage": "http://pypi.python.org/pypi/pyocb",
+    "license": "GNU General Public License v3 or later (GPLv3+)"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "a0116d5ecc7950247c9694cd6df0a0b190dc576caaa8abaff3928b0e1ef54366",
+        "url": "https://files.pythonhosted.org/packages/da/60/32c66f522a8d9b0efc65f76a734801613a49596f961cd7129db9b55d8910/pyocb-1.0.zip"
+      },
+      "1.1": {
+        "sha256": "01423a67baacf2f46d7542597bdb3d6f2aa4b1e9628b8302de8143ade5648e5d",
+        "url": "https://files.pythonhosted.org/packages/be/8e/970e89e936fd625ee108fb75690d8b78b3fe8c6e1b5c2a1d7099e1b5aaa4/pyocb-1.1.zip"
+      },
+      "1.2": {
+        "sha256": "616e36726aef8a0964aa6f86b6a85b2b4067e0c69ba4c943ac34b4a977b290bf",
+        "url": "https://files.pythonhosted.org/packages/08/bf/1802534cd46b83128239e72206c3daf7b55661bf5937e78a508c14e72052/pyocb-1.2.zip"
+      }
+    }
+  ]
+}

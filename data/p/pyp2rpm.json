@@ -1,0 +1,98 @@
+{
+  "latest_version": [
+    "3.1.1"
+  ],
+  "meta": {
+    "description": "Convert Python packages to RPM SPECFILES",
+    "homepage": "https://github.com/fedora-python/pyp2rpm",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "ec331970516548de2e716ebdf0deddba7d3e44c02348824ce741b568f25e184c",
+        "url": "https://files.pythonhosted.org/packages/47/66/974189c49a5cf5554cfdcae47017e97eac84752f48e4760461c885a2e06f/pyp2rpm-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "85884e5dd308f43e370ff669980b5213560a7f749ffdcadc36d16209a0f667b6",
+        "url": "https://files.pythonhosted.org/packages/df/98/673852bd243adc4cf64b5b4cce742e693ef955273b72d3b79eb1b4726123/pyp2rpm-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "9881157436d4700a78509bba19b3c9812ae0209574c381084b4b37f5dc839c44",
+        "url": "https://files.pythonhosted.org/packages/f5/66/d3f7989dde340a63488b4f2f7e75dc348e1be2f3b5a01169be87d842643c/pyp2rpm-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "e0e260afecab105284eed19dccadb47f66b9d9af3e25000a211ec7edea87995e",
+        "url": "https://files.pythonhosted.org/packages/7c/1a/d50898dae522526f3b2c29e149321f9e9c2673feafc4ceecc94ff3415b9d/pyp2rpm-0.3.1.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "fe96ca58a913b504397e3ffd8be3ce708048151f08841574a8071c7c958a17c9",
+        "url": "https://files.pythonhosted.org/packages/a9/a2/6079c12fc35bc24022579c720bbbdfe1d38a1e75f3a12412bf7f3a18a58a/pyp2rpm-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "b2230a7eafde775a5a619c6ba28a78b02140f497067bdbdbe822426f4eac750f",
+        "url": "https://files.pythonhosted.org/packages/e5/d4/cd0f93d802a12bc5a9a6d5316f9001dc0e4aa9c0125870f4f9774dfc58f9/pyp2rpm-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "31be12f33359350460b12d0d308ce154c27481a00765a0a955681c47e8c1c109",
+        "url": "https://files.pythonhosted.org/packages/fc/36/6af7f07d9dbf21ed861364aa0ab07499a0a5239d69796910fb7fdce72986/pyp2rpm-0.4.2.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "6d2347081a545f6e00955dc9215e0c92eec8055d5fe0008f7705a7f85b333d17",
+        "url": "https://files.pythonhosted.org/packages/b8/55/cc2932f5f84bc3730ff5babc04b3ab42e0839798c6fe6e0f5db3068673ce/pyp2rpm-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "d430d0c86666ba2342af85f9e964598be3881891555b2c2a1272da0c4c1c049d",
+        "url": "https://files.pythonhosted.org/packages/21/47/7d1369b429ab49f5cdcf9117f87aa141c06d91136d13d896361bafa8f0bd/pyp2rpm-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "d5dbc22caec4dafbaf37ae2f130a17f51e79e9ef9af347a753e34b981ecc043a",
+        "url": "https://files.pythonhosted.org/packages/c4/11/0aeb637482336fb88915583435f48e35f2d5cae5162957f2a3fbac536616/pyp2rpm-0.5.2.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "852f7058dd517390b0692e6a576493514fba6894678075f662984b3b9429f134",
+        "url": "https://files.pythonhosted.org/packages/24/c9/78c66df8b34461adc83ab1e0c5ab7270a7754c66e7944047222f1cb85343/pyp2rpm-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "0fab61930ec728d119208c2753d63fb80a91d8f548e95f565499f6398a9ef923",
+        "url": "https://files.pythonhosted.org/packages/1f/fc/4cf0d1c9a729ab2e23f3eb889c822297c30df5377a4f58c72d4f6cc85697/pyp2rpm-1.0.1.tar.gz"
+      },
+      "1.1.0a": {
+        "sha256": "4998ee41204062a34b24a24c18bd6df937cc8fbc318bacef722993f9d6384f69",
+        "url": "https://files.pythonhosted.org/packages/0f/14/c2de156c345915b81c35885a9d388f9a979f5985bbf3eab6f4a64abf21de/pyp2rpm-1.1.0a.tar.gz"
+      },
+      "1.1.0b": {
+        "sha256": "5b86e9d382c08e95a6c61a8f88e085a4b1671dc5cd9f8b0e72284c703e00efce",
+        "url": "https://files.pythonhosted.org/packages/ec/a1/87d2035eed549fe315742a9840938f35c50a48bde1fb79c54594d86d104c/pyp2rpm-1.1.0b.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "926146744cd9c8790be8095cfa524cab9cfa1432475796c789085cb28d457bcd",
+        "url": "https://files.pythonhosted.org/packages/81/15/d04a9a3ee766d6ce2f9446d515c939e5bcbc8590ccf3b816eed26044eb63/pyp2rpm-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "3e259618ff491a8b643709750f1d7367c9f818b082c4e24c82da5875bbded20f",
+        "url": "https://files.pythonhosted.org/packages/82/56/401848eec010427797a1abdaf76874bdc3a301d17e5c4ac27cbccda9c018/pyp2rpm-1.1.2.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "b6cb1baf0b79ea056b3521e7988076dfd9222c88cd15edff658b5cb3ab9b4f48",
+        "url": "https://files.pythonhosted.org/packages/10/05/c080b3cda91ebeb59de3e8efa6c52063e39abc9b3d991a02e75ed0383b86/pyp2rpm-2.0.0.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "efa83008601fdd3b7eefd1e3790b40f8aedbdeb8fc886c916d3758b25052affa",
+        "url": "https://files.pythonhosted.org/packages/33/1c/b7b0bca9c9beaf357ce01f458616e01fb40af1007e069c020bdfffdb5584/pyp2rpm-3.0.0.tar.gz"
+      },
+      "3.0.1": {
+        "sha256": "a20707560d017690de117b120667d2dabdfd384604169e2750dbd533f0ed9805",
+        "url": "https://files.pythonhosted.org/packages/0e/8c/350f3cb1f270b174283d440c24d9d42801fb293709f5619bf79865535702/pyp2rpm-3.0.1.tar.gz"
+      },
+      "3.0.2": {
+        "sha256": "4303e1d0da2e219cdce05bcd1c84bfe0437127466ed9748cb468bb307a73d85b",
+        "url": "https://files.pythonhosted.org/packages/b2/4d/ccf546126dfe49473b98448a3742ec973e139ef4eb9a0210c52fdf628ecc/pyp2rpm-3.0.2.tar.gz"
+      },
+      "3.1.1": {
+        "sha256": "43668ca55c5948bc1bd6c1c0192169ed333674aada95ea4d8abc1811e88ee198",
+        "url": "https://files.pythonhosted.org/packages/af/99/7153a070cfc7d71d86a90d4172351b18386629907c6f67bc2d257e8999a1/pyp2rpm-3.1.1.tar.gz"
+      }
+    }
+  ]
+}

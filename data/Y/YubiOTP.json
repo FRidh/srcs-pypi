@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "A library for verifying YubiKey OTP tokens, both locally and through a Yubico web service",
+    "homepage": "https://bitbucket.org/psagers/yubiotp",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "95bbd20bac029070dcd9c171524087d681e0395584b28d7a6d83ea1cc60d9bd0",
+        "url": "https://files.pythonhosted.org/packages/1b/9e/a7d4cde4522371d9e708e54e1cdb20e7e3627dd6dc076e0fe66ae7b35f70/YubiOTP-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "458b6db6e9988740766dc47ca5583ac4c4db8b7483ffa7e3bc82101e6b07075c",
+        "url": "https://files.pythonhosted.org/packages/7a/8f/d5d2efe28d84d8cce6ebd5356c7b18473827d7273d1474a8458bea3cc2f3/YubiOTP-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

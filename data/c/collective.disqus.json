@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "2.1"
+  ],
+  "meta": {
+    "description": "Integration of Disqus comments platform API into Plone",
+    "homepage": "http://github.com/collective/collective.disqus",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "718a3c6abce239b1365db7bd3c811e99b18160aba9cfdd29d75808c9086e6de9",
+        "url": "https://files.pythonhosted.org/packages/76/34/56ca8792a3f0b1845b55e64cba078a1ab5923b38f8ed8417775fd13278cd/collective.disqus-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "d2331e444fa4067b1666e6a5dbc8099313d874c41392492c966a6af6ad1219ed",
+        "url": "https://files.pythonhosted.org/packages/8c/f7/708d2f4630b895e481cdfa58d7adb399633e7e79b36753cb1d3f37e5f1d5/collective.disqus-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "a19c96ce7fd246134869b096c739d95a0eb16f080318b01cdb9610701fc0bcd4",
+        "url": "https://files.pythonhosted.org/packages/bb/76/d7c02bd36ce291654cfb185e4cb64dc9ce5ea380b640b35cb39c2a18bf6c/collective.disqus-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "87270011388be94611dad22f4ec2f573c66cd1824e5877dc52040f01495a93a4",
+        "url": "https://files.pythonhosted.org/packages/bb/b0/f55acc973df2fd93cb461aa2aedc5514e11917ce6b1b98ac27150ab5c664/collective.disqus-0.3.1.zip"
+      },
+      "2.0b1": {
+        "sha256": "8802fd6800db751d6c511853e4b8f52196f12d4ec0f814aa90f7d5041935ca3c",
+        "url": "https://files.pythonhosted.org/packages/6d/57/2ff56236c8a84a3223d7568e0bfa160c61d4bb6bff7a281f1eedb541efc5/collective.disqus-2.0b1.zip"
+      },
+      "2.0b2": {
+        "sha256": "b1f10216bb5974239dfebd53029f015ba4ef0c3a6280a3509196dec64e2948d0",
+        "url": "https://files.pythonhosted.org/packages/b6/ff/30129ed297de1e67665da402a1f6af7845a71d08e126850c25cf1f5f36a1/collective.disqus-2.0b2.zip"
+      },
+      "2.0rc1": {
+        "sha256": "fc71bc77344994e73c6132ed73f7a4db34ea078eb4c04e87c0f4a606cbb6dd28",
+        "url": "https://files.pythonhosted.org/packages/23/af/641700c28f9ca53045f94af3bad25055951bba6dd816b1a80f0a15193935/collective.disqus-2.0rc1.zip"
+      },
+      "2.1": {
+        "sha256": "d7d0358493f03ff42fae36cb87cf384f7c3e6a51bba7282dac2dee3aa1e689cc",
+        "url": "https://files.pythonhosted.org/packages/56/7f/5f2652f70c81b384aff90348d75cffb912b6615466448c064b717585b1fd/collective.disqus-2.1.tar.gz"
+      }
+    }
+  ]
+}

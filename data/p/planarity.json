@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Graph planarity tools",
+    "homepage": "https://github.com/hagberg/planarity/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "7f32c6771a577f915303ef48a635ec6b9bd7816c37db3cdaef4b458fee0eae6b",
+        "url": "https://files.pythonhosted.org/packages/c7/1f/432a77483a0a8cea3e8630bcf6a8788851df55e509ea9b4d32db02373ee9/planarity-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "7aff3a621b7695e550a94a011ddf657314fc36d7cb8642dc60245da42df935ca",
+        "url": "https://files.pythonhosted.org/packages/c7/19/9085ced386dc9c0f8be557f0cab6e8570a3b216f85cab52e0991c13303aa/planarity-0.3.1.tar.gz"
+      },
+      "0.4": {
+        "sha256": "d33f5a1716401962700363bddd098d701427d6cba58f460d211831a4732ffddf",
+        "url": "https://files.pythonhosted.org/packages/08/c4/c6d0d57b15a1cb4af4066b8adaf31f1552489633c49f255b2b4c046fd87e/planarity-0.4.tar.gz"
+      }
+    }
+  ]
+}

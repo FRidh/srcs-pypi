@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Plug Kinto notifications to a collection endpoint",
+    "homepage": "https://github.com/kinto/kinto-changes",
+    "license": "Apache License (2.0)"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "bee0bfd202089c09e5054369881bac7843cd5b21297c9cc1a4c128f95a2b440d",
+        "url": "https://files.pythonhosted.org/packages/57/3b/1b715667a1f68a4790d55cfd8c9c4c045bfbfea504f245b3e78605a3e28e/kinto-changes-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "9e5e8ef636d00a11b143d02534b25711848f5c490e3257a6d206818a6becc5d2",
+        "url": "https://files.pythonhosted.org/packages/7f/2b/6a41ca2827141effa30e72448f85991816d57c9301fab747c6bce9a6d7a4/kinto-changes-0.2.0.zip"
+      },
+      "0.3.0": {
+        "sha256": "f0c6edb9981ce7ce614586c29bc854b74fb6c9e01036aa0eb7f520d5450da290",
+        "url": "https://files.pythonhosted.org/packages/58/2d/dbd3612e5905e9ae46fa2413d2802219aeaf5d3be17d9fdbccaadd0fe0d7/kinto-changes-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

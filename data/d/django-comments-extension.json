@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "contrib.comments extensions. Currently only provides edit functionality",
+    "homepage": "https://github.com/rhblind/django-comments-extension",
+    "license": "Copyright (c) 2012 Rolf Havard Blindheim\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n       http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License."
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "14b556e16956efff2236462217a61ed8ac56a3956fed8e12dd1c3e5d319bc507",
+        "url": "https://files.pythonhosted.org/packages/73/2f/9ebbe2cd1c1177b7253b753a5fab5d9e8aaf1b3e92906c2845760dadee67/django-comments-extension-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "01823f5df2fe0c7adebaee0bd1068c2e9e08aebe49a8dec815f9985059f850eb",
+        "url": "https://files.pythonhosted.org/packages/f9/d3/48be6000c2dc62832ef01b8cb6643fb18853506b1675107230693bd7433f/django-comments-extension-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "fc4c1ec829073bda560f31a9768f28072686bcf892e8a65c65459cd03deebc3e",
+        "url": "https://files.pythonhosted.org/packages/21/7a/6353bde9566aa213013cd0e13d52c68afa861c05cd9c45273183780a5cde/django-comments-extension-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "d47369f73186ccd008be29408c7608bb4e5a0040328d4dca8321b172cefa6e2d",
+        "url": "https://files.pythonhosted.org/packages/41/21/330a435b86c2885f9555eac2ea6ce91bbe343b36af6d8bcf2b4e01aa0b81/django-comments-extension-1.2.1.tar.gz"
+      }
+    }
+  ]
+}

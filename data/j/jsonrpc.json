@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "A JSON-RPC 2.0 client-server library",
+    "homepage": "https://github.com/NCMI/jsonrpc",
+    "license": "BSD 2.0"
+  },
+  "versions": [
+    {
+      "0.99a": {
+        "sha256": "9f7b865d7d2c166de7bd31e2d383f5b6411b15d3d50fdeb09bb80942efb2c99b",
+        "url": "https://files.pythonhosted.org/packages/a6/f7/07dd07d273bda385e62012b0ead40cf25b0634df8943a9da355caad538f3/jsonrpc-0.99a.tar.gz"
+      },
+      "0.99a01": {
+        "sha256": "75e08346e98319240218df79dd904b5352a1f39b0aeee8fdeb40aa9208dc715f",
+        "url": "https://files.pythonhosted.org/packages/53/fb/01db43d6ba9eeff5388978c16e1721c7116f3f20a01fc8a58d8279dc7c15/jsonrpc-0.99a01.tar.gz"
+      },
+      "0.99a02": {
+        "sha256": "d60e25e7077b7f65fbfc496311d09610106fc9ea1d8209b806613ddb13d8af9a",
+        "url": "https://files.pythonhosted.org/packages/9e/9e/5e0278b91f05f7b4480ef52270f1de14f41a6f65110cc95eeb12600ca3fa/jsonrpc-0.99a02.tar.gz"
+      },
+      "1.0": {
+        "sha256": "5bdaff933c6ba40e15b70857099dfa4fa9d7d5c23f5f61f6c84a6d6801997db3",
+        "url": "https://files.pythonhosted.org/packages/da/e8/5498472e982c39dc136a74b3f112408b87f1d5b33ecae712c87e298ee51d/jsonrpc-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "89f06bf8f81671741b78f2f61561a717715f481484844440b014c690f15ce185",
+        "url": "https://files.pythonhosted.org/packages/72/2b/4df9055a8995a6794afc30ff6205799fc497025e92120fcfa33f168e7537/jsonrpc-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "3fa3d4fa2bf08fc243961835ac10140d5f954c6cc251be40e44af8cd584df00f",
+        "url": "https://files.pythonhosted.org/packages/c1/5c/c78e7ca2c8e062e5db07e914e63fac7a81d2861be3ccc49a4d18fd63c25a/jsonrpc-1.2.tar.gz"
+      }
+    }
+  ]
+}

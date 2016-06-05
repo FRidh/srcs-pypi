@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "4.0.0"
+  ],
+  "meta": {
+    "description": "Page template resource plugin for zope.browserresource",
+    "homepage": "http://pypi.python.org/pypi/zope.ptresource/",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "3.9.0": {
+        "sha256": "63f72d82e21a816f51af70a813ba9a6f7c7fcd214944e413b387bcb711500116",
+        "url": "https://files.pythonhosted.org/packages/dd/34/f39379faab73f2a8330d0413b5b38402b6af8dbe77ed34c2fb6e1289507d/zope.ptresource-3.9.0.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "4b893ee83f3e87aeafd15ed090cd2ceae69ad992eadb11d88b94f1c7262ed466",
+        "url": "https://files.pythonhosted.org/packages/48/78/03d9c846ba07e717dcaf804c96d0524427fdc0e026920ae5dd37f4c0f450/zope.ptresource-4.0.0.tar.gz"
+      },
+      "4.0.0a1": {
+        "sha256": "e6bcaefbe131e31250c06c81d1652075de7fb196f4e6a220120a5becc4a7506a",
+        "url": "https://files.pythonhosted.org/packages/37/a3/e041b86fddef539ae2bf4e94b449bd33c97719e7104f60f283301b0ddf86/zope.ptresource-4.0.0a1.zip"
+      }
+    }
+  ]
+}

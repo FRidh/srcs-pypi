@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.9.0"
+  ],
+  "meta": {
+    "description": "A lightweight XML schema validator written in pure Python",
+    "homepage": "http://www.leuthe-net.de/MiniXsv.html",
+    "license": "Python (MIT style)"
+  },
+  "versions": [
+    {
+      "0.7": {
+        "sha256": "543e3e6420acc5982046b30243006d5f4437f345b0a32afb106106c7b03c47e8",
+        "url": "https://files.pythonhosted.org/packages/4a/c2/0d461460bf2ecf5dcd4c0a5312b50dbd97829ccfe6dcebef5671f2971c1e/minixsv_0.7.tar.gz"
+      },
+      "0.8": {
+        "sha256": "2d879c76feb5766271a0fb1df907a37e3ac358b3dd586ffe56a53f4f8f982a74",
+        "url": "https://files.pythonhosted.org/packages/ac/59/8f355944db998b2098a68e5307f7c08ea2a993bc22d751dc232b7875e1a6/minixsv-0.8.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "ad770abadef943b60d7290114fdef3abb41900fe83593bbb1bd0ee8caa8ef774",
+        "url": "https://files.pythonhosted.org/packages/b0/a8/d5adc8954ce6e18b7cc7d34b48ae680bca9db15ef1ad04aaed830f4fec33/minixsv-0.9.0.tar.gz"
+      }
+    }
+  ]
+}

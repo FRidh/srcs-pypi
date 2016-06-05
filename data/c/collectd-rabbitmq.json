@@ -1,0 +1,58 @@
+{
+  "latest_version": [
+    "1.6.0"
+  ],
+  "meta": {
+    "description": "A collected plugin, written in python, tocollect statistics from RabbitMQ",
+    "homepage": "https://github.com/NYTimes/collectd-rabbitmq",
+    "license": "Apache"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "e889ef57ee019fce5e9393213811ae266167bed0f70053b48573455ef777a6f7",
+        "url": "https://files.pythonhosted.org/packages/6f/20/481d0b7c70fee027f353a19cd8675798fcc08fc6695fc15b5afe0f8b27b2/collectd-rabbitmq-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "48c7031ae76dd91f7350d9906344bb8c2ff069b6094189cb79b9cc1cb3e55947",
+        "url": "https://files.pythonhosted.org/packages/c9/00/772def583dd437df7500d90c1c5dd6e7d0ed70b67165139f0d027a175502/collectd-rabbitmq-1.0.1.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "1d82cc46db96aa005d44d99e415b1e450f87374334604892962cfd1ed436a5cc",
+        "url": "https://files.pythonhosted.org/packages/ba/64/eb9409c78b3d9dca217ef9e8d171b52cf052b3ceaab9362588ea852dede8/collectd-rabbitmq-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "aa12e46ba86dce806fa3f7df5ca5b87a837d87f7a1aa1aad987416b43ba10589",
+        "url": "https://files.pythonhosted.org/packages/b8/93/8f15394eca6633d16b1ad02e7a7c3367a9d98cdacd50656f1cf64a1f5246/collectd-rabbitmq-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "ebfa0a91ccfb381a719e85bfc06544861033a485cc5d42c25fbe01bcb21359de",
+        "url": "https://files.pythonhosted.org/packages/9e/1e/29fb335f7cfa4d55cd6fbe3abc0e5f9b946ccb87dc240d46fd7db821301b/collectd-rabbitmq-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "282140290e95097ab870450cdaca2be898547fedf3025170f6ebe884e49426b4",
+        "url": "https://files.pythonhosted.org/packages/7a/07/3565c81cf1d01f89fe05e939f400661872ffdc5e7f0e602f212650623c0f/collectd-rabbitmq-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "eb87e9af9e93d8b0da0634b52d4507ba140cdb20fb48702b965f73e848ee8c3e",
+        "url": "https://files.pythonhosted.org/packages/d8/ef/936a256738a83b6f1636fec6d934f8d75f5f8d8bca8bd47a767696e8b5f5/collectd-rabbitmq-1.2.3.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "dde9775769c6f62c439aa836359e8f54d583770a19296d8d307b135bdb12e94a",
+        "url": "https://files.pythonhosted.org/packages/69/d9/d5df5b6941c5a212d6650a05bb04c86169afc6d72b6b90ba953cffebbe25/collectd-rabbitmq-1.3.0.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "0e81773510b49fd93ffb49010e8f9bbc03f1042b9ab0d2aac04ec0ad26af1613",
+        "url": "https://files.pythonhosted.org/packages/f4/ef/51ea58a0794760696b629375bd430862abf11a3fb7b13a5d64680f60c22a/collectd-rabbitmq-1.4.0.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "4e2338f46eea166303c37b45ce62ff3634f45a70e7b523ef1360ee3be25e0676",
+        "url": "https://files.pythonhosted.org/packages/28/16/337ee1d91021d4fada5f4a7223390de8c4479dae16209c3c1d07746396ab/collectd-rabbitmq-1.5.0.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "c22c8b04008b069d2de0950eefe893242e9de6952d1d68109fb2d5ae5c0df47c",
+        "url": "https://files.pythonhosted.org/packages/3e/c7/96f9ed543f1c07ffc4e2f12172d16ba0eb30d7f92dcc3d839d1df4d136ad/collectd-rabbitmq-1.6.0.tar.gz"
+      }
+    }
+  ]
+}

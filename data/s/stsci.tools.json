@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "3.4"
+  ],
+  "meta": {
+    "description": "This package contains code used by multiple packages within the stsci_python distribution",
+    "homepage": "http://www.stsci.edu/resources/software_hardware/stsci_python"
+  },
+  "versions": [
+    {
+      "3.2": {
+        "sha256": "f0b0e35f2b813d2e356ceb8c6a0808bd9ee879e32d97534b3b3223976870f7cd",
+        "url": "https://files.pythonhosted.org/packages/e3/d3/c5fc7f629a255203bd0f8bf756b9d3f268152cd4578529d9168604724c82/stsci.tools-3.2.tar.gz"
+      },
+      "3.2.1": {
+        "sha256": "a399c461ff28be3113c1a04c35e50c46c73e22dcfebbe1bfd65fd6a014a88753",
+        "url": "https://files.pythonhosted.org/packages/0f/7b/89bdfef5a2d3c49bc9446ce43c4ad6459c5d590dfca1f29de474a7bee3e5/stsci.tools-3.2.1.tar.gz"
+      },
+      "3.4": {
+        "sha256": "3b2c1e5940928714439bce032adf063135aa0209ef008b7703f84e78233aeecf",
+        "url": "https://files.pythonhosted.org/packages/d4/52/1dcd5e9e0d39397843e2fd75c143397722781dd9b90f4ac4338a86f98933/stsci.tools-3.4.tar.gz"
+      }
+    }
+  ]
+}

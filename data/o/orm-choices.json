@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "A helpful decorator for choice fields (Django choices or SQLAlchemy ChoiceType)",
+    "homepage": "https://github.com/dhilipsiva/choices",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "131210476d4b5f1731047498102d5849eda080d6e05ea11155ae55ae8ea57592",
+        "url": "https://files.pythonhosted.org/packages/89/e5/3d927a25f5e1cc8b9186a4471f5fa2d0bc347d52181009f2bd9ab5e0a744/orm-choices-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "73396a18d23d8cf13b270808072afffe9d170c26d78cd3443582e8ca7773119f",
+        "url": "https://files.pythonhosted.org/packages/51/6a/06908728d045e3a9e5d3d36c712c9bdd25db0a0da950e54ebe9f7271d162/orm-choices-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

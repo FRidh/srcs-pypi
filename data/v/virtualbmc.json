@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.0.4"
+  ],
+  "meta": {
+    "description": "Create virtual BMCs for controlling virtual instances via IPMI",
+    "homepage": "http://github.com/umago/virtualbmc",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "f2fec12b41827de99e59febfc68679bde3411351381b473759237b9ed21d1136",
+        "url": "https://files.pythonhosted.org/packages/62/95/3dea1545d1d5d20d1c7d7745124e9e07f8010df8d967abc8be76e89797d5/virtualbmc-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "b6f9ed5299ca37013ab00c2566825fe36ad8ae36160dcfde5d7b79e0cbf27bd0",
+        "url": "https://files.pythonhosted.org/packages/a5/1d/69b7044009d0215f07a088c8fd4b2d7d72e20440567b647eebfde0453680/virtualbmc-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "207dcd31dadbe3da656f0f55020b3129371072479303430d2d91a76640d4b0ed",
+        "url": "https://files.pythonhosted.org/packages/7d/9e/3277c1407b9179614b0d5a9ba218dc3accf66ebbb8a840feb2e30f31676d/virtualbmc-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "8dce300e0792a6f81764433f8210dbff061942695d9cae119fa76c9cd72f473c",
+        "url": "https://files.pythonhosted.org/packages/ce/35/4086a3c898fa15bf30504465eeb72371521b9d000e71e1e986987f9a9977/virtualbmc-0.0.4.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "latest_version": [
+    "4.3.2"
+  ],
+  "meta": {
+    "description": "SNMP library for Python",
+    "homepage": "http://sourceforge.net/projects/pysnmp/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "4.1.12a": {
+        "sha256": "1be53a37f8d39e84fe437dc5fa958c7df20a54a95f80262d040da2d7d621fc01",
+        "url": "https://files.pythonhosted.org/packages/b1/22/173a19ed99f263526f1b1cdabbe32e05f634539d155378fd66c2a744b14d/pysnmp-4.1.12a.tar.gz"
+      },
+      "4.1.13a": {
+        "sha256": "ec98d607b7a100cff66be21dcff34259d9ba38c76181144cea05e370ef1afe88",
+        "url": "https://files.pythonhosted.org/packages/e9/d5/174b67fdd5910e5edf3dfff7e9de3e102d5e35e137188794feac8b20355a/pysnmp-4.1.13a.tar.gz"
+      },
+      "4.1.15a": {
+        "sha256": "94ff42abe135ae34684b7a82417f5188eb16317704b7af433edcc6e2332b3582",
+        "url": "https://files.pythonhosted.org/packages/b7/5c/0ebbdcb263b4351fbed7809cd0c68afcc2f086497e82e412119884dd028e/pysnmp-4.1.15a.tar.gz"
+      },
+      "4.1.16a": {
+        "sha256": "cece884d0179e4121915878477cec7c6a7275f4662d3058f836e18313d0c6284",
+        "url": "https://files.pythonhosted.org/packages/f0/ef/07d282576dd449e4d2157c383ca54dd662cae8bd15587e6fb7e059f11dd1/pysnmp-4.1.16a.tar.gz"
+      },
+      "4.1.16b": {
+        "sha256": "5e5bda99c62bdf4f11d6a59137595c8b3bfc9eab637d89ed16223af803f7df0a",
+        "url": "https://files.pythonhosted.org/packages/39/d8/0e84d7c3c33c6565c920bdfedb3afc9f7d05dae3cba61f65555bd6fc9de7/pysnmp-4.1.16b.tar.gz"
+      },
+      "4.1.16c": {
+        "sha256": "2b16665388313201bf64e329f96f39424ddf2704a001443a037aff4d004ae55b",
+        "url": "https://files.pythonhosted.org/packages/a4/51/ae23357d33435fd2dbb4a4f13b83f36c83e575ee82fc570b674df72c9032/pysnmp-4.1.16c.tar.gz"
+      },
+      "4.1.16d": {
+        "sha256": "570d94c74741021cbf534f4593ad86fa0acc31bea2858169bc79bc791d8e4c7e",
+        "url": "https://files.pythonhosted.org/packages/e4/c0/c41520bd16bd385b500d9b1201eae20f8f5734c6f5020177d0688d78cca0/pysnmp-4.1.16d.tar.gz"
+      },
+      "4.2.1": {
+        "sha256": "e9b8b0d4ecc45e6f6a920b13f09e28e9d6051ed0b5cf458847bc34bcb0422ff0",
+        "url": "https://files.pythonhosted.org/packages/77/90/12b069db77fae311dfd65d5af888c4642c38f30d3e7a44b7a93dd843e292/pysnmp-4.2.1.tar.gz"
+      },
+      "4.2.2": {
+        "sha256": "9402238abbaa24187544595d9ca37971b1e1ae0212d6307c60396290d32d6637",
+        "url": "https://files.pythonhosted.org/packages/a6/6c/3aba828d4e1da2c26166c0125445d70b5312117821f5912f54e5a601d160/pysnmp-4.2.2.tar.gz"
+      },
+      "4.2.3": {
+        "sha256": "4883e49c01570f23ab665cd9b046d8b42f9c652e36ea1cf6996823b283a74ece",
+        "url": "https://files.pythonhosted.org/packages/fd/37/cbbec438f08bd48404dc07531af73b6adc5c1769da92a5847d9bdc7e454e/pysnmp-4.2.3.tar.gz"
+      },
+      "4.2.4": {
+        "sha256": "c5d78273f14afc6401b7456f086e7b56baaaa51fa0c39830d159bed611c9d89d",
+        "url": "https://files.pythonhosted.org/packages/5b/d8/e91cbc4ac774f43e765a063928032dbabf698ee3f67a4fff1cbff14d01b6/pysnmp-4.2.4.tar.gz"
+      },
+      "4.2.5": {
+        "sha256": "c46e65d99a604f690b3d5800e2f6e26e1ed9a3c7f7e17e7b4b4d897150f7077f",
+        "url": "https://files.pythonhosted.org/packages/36/84/c9535d11d056b33c12d03d3801d52effcd164f302fe5b62002453d6369c2/pysnmp-4.2.5.tar.gz"
+      },
+      "4.3.0": {
+        "sha256": "8baf97fb1c8bc4376e151d570b6b8358a0e93f002fae6d67ea78b0283bf64574",
+        "url": "https://files.pythonhosted.org/packages/4a/fd/1c35b12850b2c52bf7abbcbb23d8806b6de3df634d5fa5cf0f17d7ca9906/pysnmp-4.3.0.tar.gz"
+      },
+      "4.3.1": {
+        "sha256": "a24c1835a9c0fee7a8b29891650e5531ab0ceac25036129de1c03dc4b76e6129",
+        "url": "https://files.pythonhosted.org/packages/c2/bb/a5ef454b7603866d2ce39dc36ca8f433c4e07d8075f9eb4c18d28381bfdf/pysnmp-4.3.1.tar.gz"
+      },
+      "4.3.2": {
+        "sha256": "7c2bd81df17aa7dca0057a68e7a32284a72231309a0237d66d5b803b5c118977",
+        "url": "https://files.pythonhosted.org/packages/9e/77/795fcc9d9a01adcb6175a3bf6532132addb8904922afd7877a9930d89f2f/pysnmp-4.3.2.tar.gz"
+      }
+    }
+  ]
+}

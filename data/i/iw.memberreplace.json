@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.0-RC1"
+  ],
+  "meta": {
+    "description": "Replace a Plone member by another one (ownership, creators, sharings and mutable groups)",
+    "homepage": "http://plone.org/products/iw.memberreplace",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0.0-RC1": {
+        "sha256": "0b80c51e0cac91b635175a99478cea9419534024c88d1cefe533655559363897",
+        "url": "https://files.pythonhosted.org/packages/10/cc/385c377738d84d22777a9046e4825bfe08664839f91d535576d96db8690d/iw.memberreplace-1.0.0-RC1.tar.gz"
+      },
+      "1.0.0alpha1": {
+        "sha256": "e54bf9d385176d5dc2886696fde875e98de61e3422f4cf529e51af0a9b71c25d",
+        "url": "https://files.pythonhosted.org/packages/42/67/1561c3251002c5c2dbcb23e63b9b7376050022f991ea83a56c7e07225437/iw.memberreplace-1.0.0alpha1.tar.gz"
+      }
+    }
+  ]
+}

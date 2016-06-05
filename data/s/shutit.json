@@ -1,0 +1,1258 @@
+{
+  "latest_version": [
+    "0.9.177"
+  ],
+  "meta": {
+    "description": "An programmable automation tool designed for complex builds",
+    "homepage": "http://ianmiell.github.io/shutit/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.0": {
+        "sha256": "6b1993eeb1bdea1d4cf8c69161c8181b01acc3986f54dd9fd62e3551130cd04d",
+        "url": "https://files.pythonhosted.org/packages/91/44/f2d16a026aaadd688e7d1b20d2c3715b66e948ceb6425531fd777f449983/shutit-0.0.0.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "10ada1b6fb745c9549a9775afb960ef61b549f388bff53c49f3e4a20de77187a",
+        "url": "https://files.pythonhosted.org/packages/55/42/8fd8d66d389e5f565151b85fdf479e9afd7de14fab694284ad0476e525bb/shutit-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "9a423c8736d6e1c4fb8d94ed370b488b21e9b86094485747d2ef9dffd0889b04",
+        "url": "https://files.pythonhosted.org/packages/9b/2a/955067cd9693eaa5b00c190c5bde4e89356e37a19e591bf7f8c8b3e36f6d/shutit-0.8.1.tar.gz"
+      },
+      "0.8.10": {
+        "sha256": "e8ebc225d710eb921307c0c984e34bcb1db44739d9edce251fec8793f37c1b95",
+        "url": "https://files.pythonhosted.org/packages/6e/f4/be5651b89d3ba851f75f051ba2535d34d06b35307a06f9535dba40c854cd/shutit-0.8.10.tar.gz"
+      },
+      "0.8.100": {
+        "sha256": "8bf7774d0db721f0833ff25daad1e5b959f958221c6fa4578a4cb9c2bf878825",
+        "url": "https://files.pythonhosted.org/packages/43/a5/82c50b756540a04d91b259a50a35cf330405a4bf1a1f7fea5b6fd7ce43b4/shutit-0.8.100.tar.gz"
+      },
+      "0.8.101": {
+        "sha256": "a6f7be9146809c288259a2c645cee38fe38877f83124bdd2f9bff6fd750339ae",
+        "url": "https://files.pythonhosted.org/packages/76/51/4c62472ab75c369d388d94e7e10142cf7a3e0419da79a177933d3b935c80/shutit-0.8.101.tar.gz"
+      },
+      "0.8.102": {
+        "sha256": "5c24e8e47325a51a60a7b383bd51b0e9c83751df0c75f133a059492ce9b3a762",
+        "url": "https://files.pythonhosted.org/packages/04/8d/9186001085fd1d14e7442a35f5f4c6fb5f96558702555791bcf72ad8c436/shutit-0.8.102.tar.gz"
+      },
+      "0.8.103": {
+        "sha256": "e3f39f387908a8b786f844192c04f5db7333d212ad79c8f44086ab3cfcd765c2",
+        "url": "https://files.pythonhosted.org/packages/92/71/32238557109ab0ba0b9b984ca00a676f9b57125c0708657df5919f486df3/shutit-0.8.103.tar.gz"
+      },
+      "0.8.104": {
+        "sha256": "814894b2dd89a2236cae02614be19f0edd6665192893820656d9438f7dc966cf",
+        "url": "https://files.pythonhosted.org/packages/41/bc/72e84838b50125049c5cc33d69d016e160d849dc89e09a53285511ec338e/shutit-0.8.104.tar.gz"
+      },
+      "0.8.105": {
+        "sha256": "ff0f6ce8dc5aff887d692a7321e24bde302ae0f69e8be7d208bab8e8bb00f317",
+        "url": "https://files.pythonhosted.org/packages/91/df/e1dd774015a1166ada36931971f40c0b78675cf7f692f5d478eb885dfe06/shutit-0.8.105.tar.gz"
+      },
+      "0.8.106": {
+        "sha256": "1c103531168d7724f5b2644f49b7f3e7f00012f5b56a42967518a8fd7ba3f570",
+        "url": "https://files.pythonhosted.org/packages/19/52/9294ca6a55fd3929da6a32007299d949c454e99cfa11b1cdd9551b994b8d/shutit-0.8.106.tar.gz"
+      },
+      "0.8.107": {
+        "sha256": "c6c07372add48f8245d0c9bdbab34e84ba7949b6591d469f22b03da6c113ec28",
+        "url": "https://files.pythonhosted.org/packages/5f/ba/5ed44bc2ab6488c5d9d9f5f1657b795c352b96a19430abc11e628970a413/shutit-0.8.107.tar.gz"
+      },
+      "0.8.108": {
+        "sha256": "685d92c19d94460e0006f4a6ad14ab19446b1899a121a07bcc2cb12b7950a3f8",
+        "url": "https://files.pythonhosted.org/packages/a4/86/cf86848d01ef506d0788f61bfece1a3fce257ccc530f2fbc36ba444f9ef8/shutit-0.8.108.tar.gz"
+      },
+      "0.8.109": {
+        "sha256": "0b0f6e44272cff96d398a99bf496bc4f86dd247e3bc12d00d39b7e5df094c8e8",
+        "url": "https://files.pythonhosted.org/packages/99/0f/c4b2958c900285e42abe9e32d17878cf0e46378c996da8c35c12a4c27393/shutit-0.8.109.tar.gz"
+      },
+      "0.8.11": {
+        "sha256": "685a92423e43ab22ce716ec00e6f340577009c2ae3d6d9c5e29a451410bf0440",
+        "url": "https://files.pythonhosted.org/packages/4b/73/c25fc934864efe3dc0b5286b09a4e00a8b9d095a164cdac234ab3eea2c7e/shutit-0.8.11.tar.gz"
+      },
+      "0.8.110": {
+        "sha256": "78b35529eb9e8609ad17e7187993208ac2a3d5b19a66d6e37423c71ba2c06101",
+        "url": "https://files.pythonhosted.org/packages/40/3d/cf562e64bb511f014432a5513a0983a8175e7efb26bbe1a72d4c5ff0b4b5/shutit-0.8.110.tar.gz"
+      },
+      "0.8.111": {
+        "sha256": "272d88611533b387962ab709dc625e74dad29a62f31fe351bc2b4b50a0e5adc3",
+        "url": "https://files.pythonhosted.org/packages/35/0c/59012c6bcb6f5ea43e3e67fbd369c2612cb8139559184c104c36dd2836ec/shutit-0.8.111.tar.gz"
+      },
+      "0.8.112": {
+        "sha256": "7b02b21a8bbc1d3f3d975a35c5c03c520889e8c0ab69765a6a48e2744d1b777b",
+        "url": "https://files.pythonhosted.org/packages/d9/09/a8beecd38b06f5565c00404db095ab0d4a565ccd1e32af5a2b9f762bdd1b/shutit-0.8.112.tar.gz"
+      },
+      "0.8.113": {
+        "sha256": "db22bf379188e4f2e2a19563dfceafc7103754d0efefde3d899faea55a035cfd",
+        "url": "https://files.pythonhosted.org/packages/50/6b/4e58e00a9ebd43c97287fd9614a19eefd386e36699e047d286f8cd8ac5f3/shutit-0.8.113.tar.gz"
+      },
+      "0.8.114": {
+        "sha256": "342c4e4302e27540cb92d1367e5b849d438a39225b702f5dcc21f64b7904db18",
+        "url": "https://files.pythonhosted.org/packages/3b/cc/4b3bfbe4f8ba5dbc542c7f25ad9864712cdff3b8948c81c1b076856f282a/shutit-0.8.114.tar.gz"
+      },
+      "0.8.115": {
+        "sha256": "dfc64b3a2f1e7626c08fac519f03eb7afa5dd5de47d4de72437e23002002c095",
+        "url": "https://files.pythonhosted.org/packages/53/2a/ca368d4582db0b46e4d15aee7f8524754d3d312f98fcbb2a9148a4f9296d/shutit-0.8.115.tar.gz"
+      },
+      "0.8.116": {
+        "sha256": "70a47094a992c37b14f50dbc4a8b3ed8f881e8956c73f5c62664bf643b020623",
+        "url": "https://files.pythonhosted.org/packages/32/53/7078f7cd2d2c97db45a681598a5ae5f576cfcdfa2cb92bea2ad5b7fa975b/shutit-0.8.116.tar.gz"
+      },
+      "0.8.117": {
+        "sha256": "d0a1e6a38355d9ccc48badfed0d4493d16d5eb8f28892ccdda7467f54c451631",
+        "url": "https://files.pythonhosted.org/packages/a3/ee/d8d7102766d21e229f86e032c678d7d66e61b7f62bbee5fe8a9db35c9bcb/shutit-0.8.117.tar.gz"
+      },
+      "0.8.118": {
+        "sha256": "b267e07df866d37fe28d0046e850fb5ef4e129bc84e451fd80cbcdeee6050ecc",
+        "url": "https://files.pythonhosted.org/packages/20/94/52b2423dfce51297c2134971ecd8030082c3462d362790d0649756708c2f/shutit-0.8.118.tar.gz"
+      },
+      "0.8.119": {
+        "sha256": "6ba74663d5cd69248fed271e1ad1c1860b69de7b5f08ffa59ac7eedbd2b99e80",
+        "url": "https://files.pythonhosted.org/packages/1b/1b/dacd796bbb556d48535e4a2a155e25e8d06c597c286aea4870f7350ba530/shutit-0.8.119.tar.gz"
+      },
+      "0.8.120": {
+        "sha256": "a280292bdc2b5e76167b0f5763cc1e62d4eb8eefb93b98c42f4e16ec516be25b",
+        "url": "https://files.pythonhosted.org/packages/da/53/f4c616a2ee8022b776491c5cbec0dbb294815093c47bc28b0419486a9010/shutit-0.8.120.tar.gz"
+      },
+      "0.8.121": {
+        "sha256": "6d708f90ad1334d8dac3df3624ccfa388e3dce5cd22656ff62176453a50908ba",
+        "url": "https://files.pythonhosted.org/packages/ff/20/64ab3d2bbaccdad2ef81076e2f0e2d85ed4f47838877ecbe5e940596191c/shutit-0.8.121.tar.gz"
+      },
+      "0.8.122": {
+        "sha256": "f4f21d4c487e4d60dfff9115a4e055d385206e2e43bcaf7f62f7e2d0d6a636e2",
+        "url": "https://files.pythonhosted.org/packages/2d/68/9f7c0697a98f7ff711bf255a74e93c9142159e645174f8e3272c55cc207f/shutit-0.8.122.tar.gz"
+      },
+      "0.8.123": {
+        "sha256": "0143de5660d7c22c4ba21d877824b406ccf74f4be2fd6101323388f484e5beee",
+        "url": "https://files.pythonhosted.org/packages/f5/3f/ba99c2aff82cedbf782dd48f6af529f71024415711bd1f8670b076e849c5/shutit-0.8.123.tar.gz"
+      },
+      "0.8.124": {
+        "sha256": "a3371f910d576197079b8be040a93b711f20975ecedb26b74dcd22ccc51f3dcd",
+        "url": "https://files.pythonhosted.org/packages/71/83/53b6318c069b7b7f35aeeee07ca1e85eaa7f1a93e009ce855a6f0fa32d8d/shutit-0.8.124.tar.gz"
+      },
+      "0.8.125": {
+        "sha256": "54badc0f294b09eeda0e92ac8b53f33c0e3db9beba11e5a38ac8fbfef9bc4951",
+        "url": "https://files.pythonhosted.org/packages/6b/ac/096fbdc1c00b2c2839bb50181bc6e5db4d33651b64b0fb42ea5a0dc2d71b/shutit-0.8.125.tar.gz"
+      },
+      "0.8.126": {
+        "sha256": "2ff6109dc2358419981e9c9f24d9bd71af7c3bd07ef499123e6dd6970e0b88da",
+        "url": "https://files.pythonhosted.org/packages/d7/1f/52b5e1204816dab45d1d2d037a9d6787917cce7df26e65727eb4ba7f1248/shutit-0.8.126.tar.gz"
+      },
+      "0.8.127": {
+        "sha256": "434b35c8e08fea6b8eb85b5751c34d4356400defe2c949792ea665599d3d230b",
+        "url": "https://files.pythonhosted.org/packages/27/07/f07e8996ffa19909c790f0170601bdeb33adcfbb0db8f4b9344b60b79b11/shutit-0.8.127.tar.gz"
+      },
+      "0.8.128": {
+        "sha256": "e686b78a241223ef698d01cc514d7bdcaa93242f095e3721151fbcf421269284",
+        "url": "https://files.pythonhosted.org/packages/5e/55/87b54fde12add9b8b5c2aa7c0b6af8e276283936d6d4ff64184fce70f19f/shutit-0.8.128.tar.gz"
+      },
+      "0.8.129": {
+        "sha256": "b8106a7e26c2249fc1a184ffa3a78adfdc0eef988dfa883590a89c8064a6a841",
+        "url": "https://files.pythonhosted.org/packages/c7/57/d5e0424a7a7803eea9e7cbe4eb550b56fffe2aec42dc29c0c11dd20b782b/shutit-0.8.129.tar.gz"
+      },
+      "0.8.13": {
+        "sha256": "2fac3bb89c401cb291a8c47ee82a0e80128e965ab0960e0278e0bd5d158ea52a",
+        "url": "https://files.pythonhosted.org/packages/c6/b3/6ad257e908cf789e6ceb21c85f2afe5c0b983a3c5aefdce5bda1702683bb/shutit-0.8.13.tar.gz"
+      },
+      "0.8.130": {
+        "sha256": "8d6150afc48ca9c49b87d1c29093ac2077097f5dbe77daeac5c39399ef53c4da",
+        "url": "https://files.pythonhosted.org/packages/41/44/8e70bfc94945e75e14c2b92462592c320bc576e2d7420e6c17914281f26d/shutit-0.8.130.tar.gz"
+      },
+      "0.8.131": {
+        "sha256": "c4babd450706f5bdfca7e94cb0d88cf0c8ca13686c0d2535fae7eca13e563c23",
+        "url": "https://files.pythonhosted.org/packages/6b/11/1dfdc839bd3b542d557dc81c02d6392284288045ee819479f4285d1cbc5d/shutit-0.8.131.tar.gz"
+      },
+      "0.8.132": {
+        "sha256": "aa51ff85c3de9279b765904a4c9ea5da47b9f1472f107e024662456138246a8e",
+        "url": "https://files.pythonhosted.org/packages/a7/da/c59c05147c1b98e7f51f323ec3b668ef6f235f7e2edd7af35974a625faa6/shutit-0.8.132.tar.gz"
+      },
+      "0.8.133": {
+        "sha256": "588ecf5c1466ebe9781bead9bfe1db0146e851fd8231587f6dd4fe5187ccca27",
+        "url": "https://files.pythonhosted.org/packages/05/cc/0aac3b6de91ae46f06e7dc814660d27b82e52c535df46a4168fa0a4f8cb1/shutit-0.8.133.tar.gz"
+      },
+      "0.8.134": {
+        "sha256": "51511bf22979240695f989d870709dee2740c475d4232a1a7eabd4203c77732b",
+        "url": "https://files.pythonhosted.org/packages/40/66/1e97cf85daa97a008d960c3362b6121c760a5b5c2cf666fb3e0da5294473/shutit-0.8.134.tar.gz"
+      },
+      "0.8.135": {
+        "sha256": "6fdc5a02c0a44103f9610f0956db6b842319020b18ca96d2b1f9aa078beb7823",
+        "url": "https://files.pythonhosted.org/packages/0d/0b/d6839ca55e3fb1bacced1aec3789512c769c9e95ed4bfb3826e3b34eb196/shutit-0.8.135.tar.gz"
+      },
+      "0.8.136": {
+        "sha256": "33c4376333ec55608e408de611f97ec986d593a8c1afe22024a34c402cf17027",
+        "url": "https://files.pythonhosted.org/packages/c1/60/45b8c4230d022e779824d2b29f897e0e595c28cc14721ee0ef75ee3418d2/shutit-0.8.136.tar.gz"
+      },
+      "0.8.14": {
+        "sha256": "3b4aeb3689faf6550cfe5f0d80b695f1c1ca3d471ea496c463fc05f6a0c6067c",
+        "url": "https://files.pythonhosted.org/packages/ab/70/9868b7a06c45f2b30f4ab13fe16e9b8594432b3199196fd70d53e66bec0b/shutit-0.8.14.tar.gz"
+      },
+      "0.8.140": {
+        "sha256": "42827072f9326f4ac2e42ea1e22d43d19a12aed2fd0ea29ba9de3e672407e199",
+        "url": "https://files.pythonhosted.org/packages/1c/af/5ed038377942e8753d73d4387ed9f16d33d541ac5a251f31351c81e32bc5/shutit-0.8.140.tar.gz"
+      },
+      "0.8.141": {
+        "sha256": "40c6a2e6359ddd1c3e13d7ffb4184695c67d1014e9213afe465115f775437ff1",
+        "url": "https://files.pythonhosted.org/packages/0f/f5/d20f1cbea4b89298bef92c2205e2fc03f84425d487c6ce655a7133349ad5/shutit-0.8.141.tar.gz"
+      },
+      "0.8.142": {
+        "sha256": "e1939fd72991a27ba5e237442d29ae30472172ef3f032767e0c795c4e4d2731a",
+        "url": "https://files.pythonhosted.org/packages/1a/1d/065b3a23b1d8ab79ae0b6dd7c6b179b35b741728e83c246639a9d28cdc2f/shutit-0.8.142.tar.gz"
+      },
+      "0.8.143": {
+        "sha256": "3ae02800044284de229853dd5a440b109b349ecebf7a69bb292b3f9b12991bdf",
+        "url": "https://files.pythonhosted.org/packages/31/06/5796e75c12676ad4b9daa8fc6baf346a637a05b4157b9ca5bf8e1574c50a/shutit-0.8.143.tar.gz"
+      },
+      "0.8.144": {
+        "sha256": "87948bfdacb1cdda1a580cd7542e4ddd613b0ac1ffba2e15c254756d4fd3e18c",
+        "url": "https://files.pythonhosted.org/packages/32/a6/417237946f48d75339f8bb0c2778c6dc2d33fe1291b756e5338171390524/shutit-0.8.144.tar.gz"
+      },
+      "0.8.145": {
+        "sha256": "a3702c6549ee6a5268a91f5ff3fe9180da842019d390f3c2e54378d72376af3f",
+        "url": "https://files.pythonhosted.org/packages/37/40/40fafe1b24cd9bcda799687e9f671f2601f21f152a728a08b418d74dfa61/shutit-0.8.145.tar.gz"
+      },
+      "0.8.146": {
+        "sha256": "4ca4f49908d8f685596087060c70b30d2a36dd250e83ca2c3c92a40934762521",
+        "url": "https://files.pythonhosted.org/packages/0c/81/a704a7a2ae1cbb10ef5afb629b419f5fb647afde5bc6360710f33a833de7/shutit-0.8.146.tar.gz"
+      },
+      "0.8.147": {
+        "sha256": "20cbf9435bde31d0c665bbea916efc121be0edda3214eff0854f8cd94f2fc3d4",
+        "url": "https://files.pythonhosted.org/packages/46/97/a8dfc93b69c5e214845ba5bde5dadf89d80be187660475709a5f372ad035/shutit-0.8.147.tar.gz"
+      },
+      "0.8.148": {
+        "sha256": "305346b1a3f347ceada73b4290682d0971315819e5189e26c23fe22c4591752a",
+        "url": "https://files.pythonhosted.org/packages/f4/a0/906509419e6305f91e3aad3b151c541401636db92849d7f79a55be6a8dd5/shutit-0.8.148.tar.gz"
+      },
+      "0.8.149": {
+        "sha256": "bee62bb0a244c59ab8a538f7a881c5ea39b623e95452410e1a7ce20de1d7991d",
+        "url": "https://files.pythonhosted.org/packages/f3/34/dfbc770e776bb74abd812f8770669fd3c958e17fd20bf6ba40851b26fd11/shutit-0.8.149.tar.gz"
+      },
+      "0.8.15": {
+        "sha256": "61a38b4db80f6af99d5667369fb5dce69e608f36c66b29e512cd809b08a85ad5",
+        "url": "https://files.pythonhosted.org/packages/32/5c/8eab7661720e70d431c58b250adce00e3f7c689c44646b41450e320d87e1/shutit-0.8.15.tar.gz"
+      },
+      "0.8.150": {
+        "sha256": "bcc0434f40a5f4e9fed043111c8519109fd0cad104f6c601f91d696207225638",
+        "url": "https://files.pythonhosted.org/packages/51/bb/be0838edc5b7679b8d638c6d4401138db5f08e60e78629f785715ad729dd/shutit-0.8.150.tar.gz"
+      },
+      "0.8.151": {
+        "sha256": "e5cd0d5a548984a9f0c70b1cce8f9130cd860293565130089f7fac435cc9b9c8",
+        "url": "https://files.pythonhosted.org/packages/dd/2d/db240912d29601b59dc47979425d75631ca4dbb50faadcc4d97a10e5c97e/shutit-0.8.151.tar.gz"
+      },
+      "0.8.152": {
+        "sha256": "1887eb106387a5c991a0885b19e8cfe4420b632b705a52e5bb8162ecb15d73b6",
+        "url": "https://files.pythonhosted.org/packages/74/89/50ec4e19c65e8b7e0debe95df7038311276eef414211b8b9c3146989d61d/shutit-0.8.152.tar.gz"
+      },
+      "0.8.153": {
+        "sha256": "cf77c9024feb69057194bd4f15de00f90906cbcaaa3c34b3760213626ccec200",
+        "url": "https://files.pythonhosted.org/packages/a7/c2/943a4de2ac74b93e8b985c86a726e7537f8395893ab470f0aee560d9a395/shutit-0.8.153.tar.gz"
+      },
+      "0.8.154": {
+        "sha256": "23b4db69c2a80830d174dce8c25993a3b4b6019f6d0d818ab74ed504adc3ae4f",
+        "url": "https://files.pythonhosted.org/packages/6c/a3/49e8ee154455857261d6fc44a4ceccbea2163fa06b81d34caba8b719f51e/shutit-0.8.154.tar.gz"
+      },
+      "0.8.155": {
+        "sha256": "7967adb661d829a39c3db9e23b3f7153ff8072df900667ca05c00a1b1b40d4dc",
+        "url": "https://files.pythonhosted.org/packages/85/dc/cea4a85924a817a296a8781bddbf0b9a9daa5b427ddd5a60a58656c32692/shutit-0.8.155.tar.gz"
+      },
+      "0.8.156": {
+        "sha256": "0761e64b5b23a9cf27e3443fd5ed07f2943201c6feae0b9d816545cf2d2deeb8",
+        "url": "https://files.pythonhosted.org/packages/c5/30/56017259c76a68eb20aa36af52e3c9a3783216a6a177e5962298a7d9f0d3/shutit-0.8.156.tar.gz"
+      },
+      "0.8.158": {
+        "sha256": "09ba0d525236d9fdee3e122a282a79551fca59faaf8a02fb4dbb7bf7336ab5e8",
+        "url": "https://files.pythonhosted.org/packages/fe/cf/6a9282cef03cc54ff1b46628b5114bf1c77bec21405ed4ef9da3ae2855b2/shutit-0.8.158.tar.gz"
+      },
+      "0.8.159": {
+        "sha256": "75d2dc0df0c946e08c159e122bd741967e9003e435dcdf230a7cbe242ad9e30d",
+        "url": "https://files.pythonhosted.org/packages/0e/21/ac54f150b0ce136e1147ae53531772b7810f60908ff2e2f4b0e082231dff/shutit-0.8.159.tar.gz"
+      },
+      "0.8.16": {
+        "sha256": "01eecd9768b809e70f14e998eeffe223a55872ed0fd9a3a5b1a636e0b6d49e1e",
+        "url": "https://files.pythonhosted.org/packages/96/5d/8a5479033a0dc79857fb82d07dd278081deb7b2d91cda197c58cba00a64e/shutit-0.8.16.tar.gz"
+      },
+      "0.8.160": {
+        "sha256": "1386c75f498976ab6b6d91c2c1158fc33915b363146836f2ada5cde7f554a426",
+        "url": "https://files.pythonhosted.org/packages/27/bf/9a5167b6a31d9f5c90f78ea723cbb37ef0a213a526968bf47c5a2e600fa2/shutit-0.8.160.tar.gz"
+      },
+      "0.8.17": {
+        "sha256": "c741cf9c9baab4bd58927d312059c70a362310119183c7ae904f6cab8fb167f0",
+        "url": "https://files.pythonhosted.org/packages/c2/c5/f080efb142c569305efd47a3b32d340ea20c1839182188d1aa367f1c3007/shutit-0.8.17.tar.gz"
+      },
+      "0.8.18": {
+        "sha256": "f3dffe3ebc3b4df75e8b63381c4de486504fac4dfaeca08b97488f8ffce73007",
+        "url": "https://files.pythonhosted.org/packages/3e/66/0fb21188f8b697ea3252f051d9d632033e02e4c793c404a7c18adaae7765/shutit-0.8.18.tar.gz"
+      },
+      "0.8.19": {
+        "sha256": "515c28da3772efc8a32fd4b7a29dab49367c087adcf8db139e16e27765c99424",
+        "url": "https://files.pythonhosted.org/packages/29/3f/6f39d6289223139c98f09829ca4afff1447d59703c6d74ebb92ef27d4f97/shutit-0.8.19.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "99be6f03c0c3e0ab58778b627466214649bb058fcae799472a6b98e493a71e73",
+        "url": "https://files.pythonhosted.org/packages/36/fa/fa7147d62b1759ca7b92d9aa6f522716fd331a85f5ae6c53f7346c93b1c2/shutit-0.8.2.tar.gz"
+      },
+      "0.8.20": {
+        "sha256": "f795fe7fa90c862687af33c486150379d8b66f0dcb065c91afcaa1b1d565ce23",
+        "url": "https://files.pythonhosted.org/packages/13/cf/5200ab66d609c1d3184644bb4eae58b66eae8d40b066534f633de5d15da6/shutit-0.8.20.tar.gz"
+      },
+      "0.8.21": {
+        "sha256": "b8ddb830630cac44992d84b1ef2cd209aefb2545a3a04e3cfdf592c03c2b4236",
+        "url": "https://files.pythonhosted.org/packages/87/b8/30ebd45cfe8875340b3643d6eafbc4099a58e0ef6b0940fbd4457fcb765b/shutit-0.8.21.tar.gz"
+      },
+      "0.8.22": {
+        "sha256": "a9d35059382162a7c0140ae549e5c1832aa7284fd505763c279820cc00741f2b",
+        "url": "https://files.pythonhosted.org/packages/94/b7/550230346b9a805e2a62a05c493528db116ca2182d16fbc36ae6a73e5f4f/shutit-0.8.22.tar.gz"
+      },
+      "0.8.23": {
+        "sha256": "7f6f485cc8c20808014e289b01f17677fb5d6aaba93614fa4eae9a268689c68b",
+        "url": "https://files.pythonhosted.org/packages/cd/e8/eaabae1e94a37b8a71f9a1855174952d00678cd789ba836a991bd53ef3fc/shutit-0.8.23.tar.gz"
+      },
+      "0.8.24": {
+        "sha256": "1eb5c4990a61b8692c9fe7f3b594a5f08029f7b3d83fdb169bb79669f3feb75a",
+        "url": "https://files.pythonhosted.org/packages/a5/d8/b0420ed9b3d6929e50e13bdd9f05f4661fa133296f398f7a65a3e66f40a7/shutit-0.8.24.tar.gz"
+      },
+      "0.8.25": {
+        "sha256": "a88231858ed661f389eeac0a9f8572dbd7ae3fa2149a6eadaa1852452bf87393",
+        "url": "https://files.pythonhosted.org/packages/81/4b/43e1ccee5bb317578549e3ead8e7aa97cb464710c004e3e1c8295228561c/shutit-0.8.25.tar.gz"
+      },
+      "0.8.26": {
+        "sha256": "1bd6498655516a626b472c396d56d1dcb01260de4478b37c844ffba84cbf460d",
+        "url": "https://files.pythonhosted.org/packages/43/ef/e409e2f1d4a737b7f2d90f03e8f3e2cd8fcff888700a3597df57a0e5fc0b/shutit-0.8.26.tar.gz"
+      },
+      "0.8.27": {
+        "sha256": "adb61b2345ff13fe5a409259acfc8e3baf4fcd7286cc0d5cf9a16f4b5faf5154",
+        "url": "https://files.pythonhosted.org/packages/d9/e9/74d8f43d7565bdc8eaada71949d3f00a9fa4cee724f1e78454814b8f9669/shutit-0.8.27.tar.gz"
+      },
+      "0.8.28": {
+        "sha256": "3368812c58b4547e9b6afee43356b9762da3dc270eb4e501e7fb6c0b37a1fb56",
+        "url": "https://files.pythonhosted.org/packages/31/fe/a3b33b8670d7692ccbdeaedd1454fbf9a56de78b552dda7c86f305da0f07/shutit-0.8.28.tar.gz"
+      },
+      "0.8.29": {
+        "sha256": "2e7b4d98108dc9cc5561bfc34c73a293c86a6d32f00b8deb29d84407282c66c8",
+        "url": "https://files.pythonhosted.org/packages/6a/c3/301fde76977250782f72dac9ad960113649835c59b1f0b8749c5685f4da1/shutit-0.8.29.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "4e5bb6de0a380da1eb8301734c50312144d1a1293fadeb5142b973bef2e30f44",
+        "url": "https://files.pythonhosted.org/packages/78/47/1881d85bbccca8a439a779620c69de3b7f6cc6f0bdaa6bd706add03e4282/shutit-0.8.3.tar.gz"
+      },
+      "0.8.30": {
+        "sha256": "f08e25e76758f918617fb0675c060c1299838fa42fffdb670a492aa3a86fa1ee",
+        "url": "https://files.pythonhosted.org/packages/c9/15/50b28f9a8c610140402c0815b5b5c1897216bb79d1e65c177a2550536e63/shutit-0.8.30.tar.gz"
+      },
+      "0.8.31": {
+        "sha256": "813b7053b7b63d4cbad9053826a3afbab4b4cc1588c0d86d48c6a2d4dc7a83a3",
+        "url": "https://files.pythonhosted.org/packages/b6/b7/16dc82fa46ea89d08f9160b4c97f8e80dc0b76fa3dbbbb6d76d2c4932b94/shutit-0.8.31.tar.gz"
+      },
+      "0.8.32": {
+        "sha256": "4d5051b5a849e9e16178bfdac846b1d5abb9de25d1cac904d8a222c2f5a43f52",
+        "url": "https://files.pythonhosted.org/packages/d3/8f/24202fab345bfda46726a3b60b558d57d9c5597e79dd99a22249689b2456/shutit-0.8.32.tar.gz"
+      },
+      "0.8.33": {
+        "sha256": "7f80e22f780ab04b7873c725ca43df12856ea4b1ff9ddf40b9f17e4ee05ec448",
+        "url": "https://files.pythonhosted.org/packages/86/0e/bdea16b27302cac855e638c63a373e7e5e4cd432bf29fa471499faaf663f/shutit-0.8.33.tar.gz"
+      },
+      "0.8.35": {
+        "sha256": "00d348a2e533fc635ee95944489331efe12c84ae759e8d2852ce0537e8e3d378",
+        "url": "https://files.pythonhosted.org/packages/38/9c/d2532fc5f451519f842e575ff80a2d2c0a1a8e076b545107b1a81065f7e7/shutit-0.8.35.tar.gz"
+      },
+      "0.8.37": {
+        "sha256": "3bd7f7626190f05a364de932f084b01cad52d8765b2166356806aea803df0e54",
+        "url": "https://files.pythonhosted.org/packages/97/ba/abbc95c82b18007ae49aedf67cc80c467e73293b68a62d5a929cd0cde448/shutit-0.8.37.tar.gz"
+      },
+      "0.8.38": {
+        "sha256": "1d15493307a1d9d6b5ab49e7dabde2ff141c00d7b30af58080a1b8935363969b",
+        "url": "https://files.pythonhosted.org/packages/97/53/9ee6b5f89d03b9538451a0f0a49324557e3ed2266ccb440c5271b47d0f01/shutit-0.8.38.tar.gz"
+      },
+      "0.8.39": {
+        "sha256": "ce4bdc5052d7f73d51b2d3b6884f06c335ba7b29f2ef6b3b7fa9c87938f118a9",
+        "url": "https://files.pythonhosted.org/packages/76/32/4bd6ec4472a4afe1e774225f2c207dd281b9bf0d609051055d1df74b372f/shutit-0.8.39.tar.gz"
+      },
+      "0.8.4": {
+        "sha256": "c87e58560175d9405e97c8330e97cf4ff3ed348d29934f5ae524d01d1449b0d6",
+        "url": "https://files.pythonhosted.org/packages/41/8d/9b48e3e99426dfc9e5e89321ce6a5a9f15de5bcef4617fe602bb20fd25d9/shutit-0.8.4.tar.gz"
+      },
+      "0.8.40": {
+        "sha256": "ae54ca87d63433c7788ecda77c638634f3ed22e36261094b41a92aa5acbf22bd",
+        "url": "https://files.pythonhosted.org/packages/b8/d5/778851226953847c6bf44059212baf1196a4b7f7e2c2d50e49ee81a7a7e2/shutit-0.8.40.tar.gz"
+      },
+      "0.8.41": {
+        "sha256": "bb8813f974ec987c180f90f26541125be4e943826de79635b5b89ac8addd1cee",
+        "url": "https://files.pythonhosted.org/packages/4c/fc/f57e125cb2f1fac8159184783de2e0b31e9caef3f58b0bd431bb5d20da5f/shutit-0.8.41.tar.gz"
+      },
+      "0.8.42": {
+        "sha256": "2b5bba14a097665b93aa8ab88d38790a0e84defec1e10a677127140ed7ea03d0",
+        "url": "https://files.pythonhosted.org/packages/56/c1/9da733c57221ef27ef69fe277c6a082a008eed8a35c9a5e216e5be9bbeff/shutit-0.8.42.tar.gz"
+      },
+      "0.8.44": {
+        "sha256": "7984610472e986ef0c2afd3a8b44245fb252511ff9e90679219469922c132603",
+        "url": "https://files.pythonhosted.org/packages/92/24/7e42348903b840bf1cf31dbf3e68349a491ae27aabedceec55742251c6c9/shutit-0.8.44.tar.gz"
+      },
+      "0.8.45": {
+        "sha256": "1642cd3ef9710a5f777e6d247ac9c1d67f8a5bd98fa320923ccbaedecf31c0e1",
+        "url": "https://files.pythonhosted.org/packages/5e/7c/e2b1c6b78948a6fbe0848be52a34ddcc28687a35841c25515b46504ebfbe/shutit-0.8.45.tar.gz"
+      },
+      "0.8.46": {
+        "sha256": "6ca0f1b5c5139686608c2da5e3a945445574f5269b26173da43f766bc1c26d6b",
+        "url": "https://files.pythonhosted.org/packages/76/0b/cfb901f09d48bad8964b8b75c08bb2724d2447039fbad862ef0374054f5e/shutit-0.8.46.tar.gz"
+      },
+      "0.8.47": {
+        "sha256": "49ae644456f44c2de5bab25902ada75e73d3738f44047679d3023ea0281127d1",
+        "url": "https://files.pythonhosted.org/packages/f5/91/f2f7cc1b0a9d118e05a39b142b3a225395c973428dcaa6181bbd196464e0/shutit-0.8.47.tar.gz"
+      },
+      "0.8.48": {
+        "sha256": "9fc813dc044a2786c616d27e19bdc68b15d71680420cf05b487e82977ababd9a",
+        "url": "https://files.pythonhosted.org/packages/7e/f5/77e02ec6c58cc1a2b4d4093f005039d483421f7863fd1f3198a7bb69aa44/shutit-0.8.48.tar.gz"
+      },
+      "0.8.49": {
+        "sha256": "2436be5e2b2ee1abb3b296092da3df168a91b22fbfcbecb889a8c43627257fe8",
+        "url": "https://files.pythonhosted.org/packages/ec/57/8a2e1f283a19a08c708aecf2553e634515b58ef045dd7073fd29bcb829f4/shutit-0.8.49.tar.gz"
+      },
+      "0.8.5": {
+        "sha256": "c24c91e28e1f02fed28652d95351c31fab927c2e8166a54b0158b12d8b23e1fa",
+        "url": "https://files.pythonhosted.org/packages/12/b6/3a23b7f56efe389058b2b5b491e43436b8305527badf851ff4aa70588ade/shutit-0.8.5.tar.gz"
+      },
+      "0.8.50": {
+        "sha256": "b5e4d094a040a47a5407ccf76bfa4c2ff35c6f26f0d70a6725df4b86ecf77186",
+        "url": "https://files.pythonhosted.org/packages/84/ce/46516b858d2298c03de0f8308637a5b64508d7b39b014ea072d07ae0b79e/shutit-0.8.50.tar.gz"
+      },
+      "0.8.51": {
+        "sha256": "d7ee9ca0eade6b4bc30aace8e4aaa49afe341c7364638019246acc7ad6b7bcb1",
+        "url": "https://files.pythonhosted.org/packages/dd/0b/8f92e4c7c77e1beb5844c823697da2031b6636e681e2e97a76c9fb4b8f3f/shutit-0.8.51.tar.gz"
+      },
+      "0.8.52": {
+        "sha256": "8fb5462cd5b6659c18965cf67cac7db2379e5b1180700d17eec09ede0d36f1d8",
+        "url": "https://files.pythonhosted.org/packages/53/e8/7bb217306a1e0292d585ef68da5b4acde057e11f6639fbdd3167757bfa6e/shutit-0.8.52.tar.gz"
+      },
+      "0.8.53": {
+        "sha256": "e8aff882f0f42bdd0e8dda229f4e4305703f7d4123734dcc029ed52c7381a5b0",
+        "url": "https://files.pythonhosted.org/packages/3c/ed/6c6fc9b1d7be86ae4770cec011bbe9137ab9e66276047b704dcb1d49310d/shutit-0.8.53.tar.gz"
+      },
+      "0.8.54": {
+        "sha256": "e32fd363f620d2ed03e381d060e0cb5e5991053897af257b1eaab1191965272f",
+        "url": "https://files.pythonhosted.org/packages/e6/1f/0638e2375a37f9b0d204701a9f77fa3a24bdc847778f331cb60af17a5cea/shutit-0.8.54.tar.gz"
+      },
+      "0.8.55": {
+        "sha256": "d3f53248d870eb3abb41c0e9f152e25318490a47889d9a1e3463eac0881ac45b",
+        "url": "https://files.pythonhosted.org/packages/62/4d/497b3ed1423186bd9751911d6c93c29d29ccfdf5273a3c5d365f6c174d38/shutit-0.8.55.tar.gz"
+      },
+      "0.8.57": {
+        "sha256": "8ee79a8d3c0a785a6cbc90edf6aaf90a5f00c3921f08be8ecda8cb6c5fb2f305",
+        "url": "https://files.pythonhosted.org/packages/37/da/6586f42cf994abd69f07095b9ffb8c4f07322c295fac033584e586d46fe7/shutit-0.8.57.tar.gz"
+      },
+      "0.8.58": {
+        "sha256": "b9c4b813fccbe163d88043061632e8dfb58cabc86dd9c02d9369a7ab84defda6",
+        "url": "https://files.pythonhosted.org/packages/6f/1e/3da1b0e7ac04d848c1e503a31a233e765ab9154188d8e0d973dc7a3550f7/shutit-0.8.58.tar.gz"
+      },
+      "0.8.59": {
+        "sha256": "79e09eeb754f38c6b5f43ed685b39eb4c3099038b87dbd4980ef29061497aeaf",
+        "url": "https://files.pythonhosted.org/packages/28/24/aa54ea632db5c7f11d8db883fc5de318b38aa9757e65f8c2c8a368fb95ba/shutit-0.8.59.tar.gz"
+      },
+      "0.8.6": {
+        "sha256": "eae48aa634da820f1739ce871991f152acea7728d6604422edcf5530cac514c6",
+        "url": "https://files.pythonhosted.org/packages/d8/5b/9a5d5aa8a2236f9e9b2d60f53fb30258912f5b5f7268231999cdd227bd91/shutit-0.8.6.tar.gz"
+      },
+      "0.8.60": {
+        "sha256": "a530a6a4b1987c67b6ca7a8ca648c03939e3c85f8d671b4082f7aa4e9708f519",
+        "url": "https://files.pythonhosted.org/packages/ff/88/4746692765fe2528878d07251e7d901a3bfcbbf9fce4701787005d3f8416/shutit-0.8.60.tar.gz"
+      },
+      "0.8.61": {
+        "sha256": "b8ac319f6be94c953878c11e7830bbee7820d657cb5025faa11169c30ccf2842",
+        "url": "https://files.pythonhosted.org/packages/b8/ad/556b28b630bb13894ba4c17a6ae8dee2f3277650278b6da6c1b2cbf676ca/shutit-0.8.61.tar.gz"
+      },
+      "0.8.62": {
+        "sha256": "5119248ee88a6c3fb081217464f3e1b230630a1e410386d079e0c4c8f546a982",
+        "url": "https://files.pythonhosted.org/packages/05/82/c3a454c9a036a34ce46636a322b6b3fbcc070577219be8f36baf3c7f8772/shutit-0.8.62.tar.gz"
+      },
+      "0.8.63": {
+        "sha256": "50baab339909ec0b8870e3b639d287cd39dde76ff85d8d2871c986401404bfd6",
+        "url": "https://files.pythonhosted.org/packages/d6/f5/515137ee120a2196bd8047b708d4a5ae04066a01ea0587c3b1026b2ee6b9/shutit-0.8.63.tar.gz"
+      },
+      "0.8.64": {
+        "sha256": "85579feee6c5477b610610a1bf09e645ca840ab011c6fa13a338bc18f4c26829",
+        "url": "https://files.pythonhosted.org/packages/d2/3b/f80df6c75370ad70a3e04d08587dcadc070155441b5f2e868cf5513c5ec6/shutit-0.8.64.tar.gz"
+      },
+      "0.8.65": {
+        "sha256": "7bdc5aebfc1af4a7a5dc22aca2fc984b2e9129f47cedc9a1dcfe9e303528acee",
+        "url": "https://files.pythonhosted.org/packages/c8/76/ff47e1f6ecc5bd3a870c50035f28bc9f8807a158cbc5a7742e72ee8f7c3e/shutit-0.8.65.tar.gz"
+      },
+      "0.8.66": {
+        "sha256": "3302b2de1a6723d3d44d0056a15b6a849ba41939851193bd7f531c0d11bed2a6",
+        "url": "https://files.pythonhosted.org/packages/a6/5e/1abbffad58740c09cd220de304e21534a8643b499eb6520b2fc265e29541/shutit-0.8.66.tar.gz"
+      },
+      "0.8.67": {
+        "sha256": "492c76cf3cab0a2f5cbbe638080c8f6be3ca7a429f8c859711ed4e6ac69526bc",
+        "url": "https://files.pythonhosted.org/packages/67/0d/d8d9df5fb9ec01f69fbcf3309381066ce80a51e169f9e086240892296ebc/shutit-0.8.67.tar.gz"
+      },
+      "0.8.68": {
+        "sha256": "c79812bfaf4488063643ad20e76c22f28744d638346ad5a9d44acba3873e1951",
+        "url": "https://files.pythonhosted.org/packages/77/ec/e08990d5e20a9044453d73664ce8564ecde9f92a225aa99f01a011ba3d99/shutit-0.8.68.tar.gz"
+      },
+      "0.8.69": {
+        "sha256": "ea8848c681f568dbec7a57d675b744fcbd9215daa62014bdcbea120ec2c97bf6",
+        "url": "https://files.pythonhosted.org/packages/d7/89/2617397b6b47ea2517de7e6b7572535c4f92aefe2b571d18bde8b4cbaf8c/shutit-0.8.69.tar.gz"
+      },
+      "0.8.7": {
+        "sha256": "1c81a9c4cc1549d5ec07fc3a336ff592278f3fab156f6680a13ad94c24ce04be",
+        "url": "https://files.pythonhosted.org/packages/ed/42/af7c7edd6b82c03fda4df10c273f101ec25218bd1d43fcadbafed121c83a/shutit-0.8.7.tar.gz"
+      },
+      "0.8.70": {
+        "sha256": "d224c9de16324d36ecc0dafb06a6f1edbada3bc79606ffeecd43bc1652ce71c9",
+        "url": "https://files.pythonhosted.org/packages/bf/29/5e8cceac4f146e4e742bab05976e4e59f353d8d1170bcf78c57dd98c3545/shutit-0.8.70.tar.gz"
+      },
+      "0.8.71": {
+        "sha256": "e362116d7704c9c2f17baa348b10de05366156d6002bbe6b3d73c76026e6903e",
+        "url": "https://files.pythonhosted.org/packages/db/ec/3abf1331c446bb76ddf056f792990f5c11160478abd64f47443c9027cc48/shutit-0.8.71.tar.gz"
+      },
+      "0.8.72": {
+        "sha256": "aa1c6781cd68be446b1591570fa18d43b5949ee8832860655a3234a85d63097b",
+        "url": "https://files.pythonhosted.org/packages/67/b4/3a967a96d72ef9e2e04a437e09d3017566b3602b3c41b337e57de11e1b6b/shutit-0.8.72.tar.gz"
+      },
+      "0.8.73": {
+        "sha256": "38b4da7058a84c8864670f9b19cb53ac111133f2264d0b644cb930328d82e052",
+        "url": "https://files.pythonhosted.org/packages/99/8f/e4db457b19d568db8e43ec48442a941255a33c9ccdf52a20f31c6a5a244f/shutit-0.8.73.tar.gz"
+      },
+      "0.8.75": {
+        "sha256": "9af450c59923fedcd016007a40256f5273fc234cd2dff84247c6a31fba36f9bf",
+        "url": "https://files.pythonhosted.org/packages/fd/80/23081061255b7c849d2fb9d656516ba2fec43dd18b5ec799c96d2bc84905/shutit-0.8.75.tar.gz"
+      },
+      "0.8.76": {
+        "sha256": "a198384aca9613059ec71c77c2b7c481740acc99c62b481797f1556f1430424d",
+        "url": "https://files.pythonhosted.org/packages/c5/1a/b7ca8bb3709e573667b0d361a494f619244b27ff859360ecf445071226f3/shutit-0.8.76.tar.gz"
+      },
+      "0.8.77": {
+        "sha256": "fe62780c0837747cbbd6e93e355c5b0560119b949ecc38dd31869f9a52e58a6d",
+        "url": "https://files.pythonhosted.org/packages/04/94/ce512bcf093016485fc74258d583a139e8496311dc908cb0650b8802cf03/shutit-0.8.77.tar.gz"
+      },
+      "0.8.78": {
+        "sha256": "d06c89e19eb46e56cd874503f2fb1a3e61371a3fb043f4259238ef53f5d4911a",
+        "url": "https://files.pythonhosted.org/packages/d3/81/aa9be7fffb063f684056af53a3627de874610c87235c924732f6272a0724/shutit-0.8.78.tar.gz"
+      },
+      "0.8.79": {
+        "sha256": "87b4b50fa3d7e2830d1c05fe45a6e32e7931024046b2f3d5ed9b62ea2bdac56b",
+        "url": "https://files.pythonhosted.org/packages/32/26/2f17def726eee11bdcf87bc84e62563d7fd8ad957b049af14766601860e3/shutit-0.8.79.tar.gz"
+      },
+      "0.8.8": {
+        "sha256": "9ec3e88d1cb011a8382d18b266674fe442d00dd53c492459d832263825129666",
+        "url": "https://files.pythonhosted.org/packages/da/15/310e009911fabcd0e87d8d1ae85ac25ccc13f5d55fe9c572834dab4d13e9/shutit-0.8.8.tar.gz"
+      },
+      "0.8.80": {
+        "sha256": "b6ab70b45d94c3f296c9a68e4ee66020c6b0e90e2b6a6d66aac5d0e6236aaba3",
+        "url": "https://files.pythonhosted.org/packages/e9/c1/80fb28f54bdd9b866e70043d8223e054c597d15b75c0128fbbcac8f44d4b/shutit-0.8.80.tar.gz"
+      },
+      "0.8.81": {
+        "sha256": "7a6beed1eba67a471743231195d2d0674d7cc41d495fa55e764b8884571a1b97",
+        "url": "https://files.pythonhosted.org/packages/f2/b2/017bef37a1809c3e59eb166a21d9586d9ced82c5df121cd0eb3ee38805b0/shutit-0.8.81.tar.gz"
+      },
+      "0.8.82": {
+        "sha256": "b1d5dfac65b409fd63193a5fc6308eb0122b6312b7670c56d16c2dc0514cdca2",
+        "url": "https://files.pythonhosted.org/packages/7b/cd/cbc355936094c8c18b39c1fc9540582b58c206d98e5e0fe9313d260bc699/shutit-0.8.82.tar.gz"
+      },
+      "0.8.83": {
+        "sha256": "2ba4545182fb5bbf7557944460c6019d9cab33f358c0a682a618147d4cdf391a",
+        "url": "https://files.pythonhosted.org/packages/be/90/d1cf978d0cd1ba20f935b537ea052b015625cc478e2cecde039043b0adb5/shutit-0.8.83.tar.gz"
+      },
+      "0.8.84": {
+        "sha256": "d147108896e23eab6ec84d22b7ec063abeabaf4c306e9aa45666dd56709a9366",
+        "url": "https://files.pythonhosted.org/packages/be/3a/6349b62130d5f2bb6cde9522b95b6003dbfcbbc6705e0e8ecff2434a748c/shutit-0.8.84.tar.gz"
+      },
+      "0.8.85": {
+        "sha256": "79bfda926c282c82f075f6d511aaab1e64239993f3a031b3971a69fcbc5da8d5",
+        "url": "https://files.pythonhosted.org/packages/4c/ae/08093705e2662648badb2699367f687fddd11c319cbbeaa10733dbd4cf89/shutit-0.8.85.tar.gz"
+      },
+      "0.8.86": {
+        "sha256": "026074776016ad0b37f204f45108a0c33cc8898f7171400e3418a26fa2da5c50",
+        "url": "https://files.pythonhosted.org/packages/02/d8/38f8dfcdaccb1d35c74766459e5a0b9927b32eb20266d11a8be2cf344506/shutit-0.8.86.tar.gz"
+      },
+      "0.8.87": {
+        "sha256": "e0c0d3c0a279ef3802a526e4ab9936d8adbe2a5ed85ae2dafbe00f9aeebd4405",
+        "url": "https://files.pythonhosted.org/packages/91/db/81df21ff6c3f3aa15e29efae4fb436860057235b103745d7f9d3923504bc/shutit-0.8.87.tar.gz"
+      },
+      "0.8.88": {
+        "sha256": "c3c9832afa6d3b478a792f92d005bcd20991b20b7bed0d8d82faef99910f6fd4",
+        "url": "https://files.pythonhosted.org/packages/db/fe/be9a5f79f16ca1b40fee36bd564fc05dc7ab08a1aadd8ae5d877161613c4/shutit-0.8.88.tar.gz"
+      },
+      "0.8.89": {
+        "sha256": "d3b40fa4f52285c78ecb4adaba6a2b5134d3ffde8f604add2d800fcf48f1c0ba",
+        "url": "https://files.pythonhosted.org/packages/06/0f/42e8dabc7a2c39668ee02ca322b495f3f1b497c15df7b8a26badb436e044/shutit-0.8.89.tar.gz"
+      },
+      "0.8.9": {
+        "sha256": "b60221b47d8618b8d3e5c24a80f6f85113abe60af63c3d57699e09398acff38c",
+        "url": "https://files.pythonhosted.org/packages/c6/5f/6983018f6c0fbd4bcdf40fe5da8d8031d330428ecf43af0da213a8dfff1f/shutit-0.8.9.tar.gz"
+      },
+      "0.8.90": {
+        "sha256": "a40f92c950f6616fca29451fa441e6bd6b9796107dc02a770cec06198c4aa101",
+        "url": "https://files.pythonhosted.org/packages/24/99/9692951b3a753923052dfe65c4d0463dc895a210db92721daa5ddc2f8527/shutit-0.8.90.tar.gz"
+      },
+      "0.8.91": {
+        "sha256": "ea8dc3b5cc5a28b889e62d58b4187f8564b9ab00749f202e1ae1544f85edd5ac",
+        "url": "https://files.pythonhosted.org/packages/db/6c/e98fae6d57041d0a331446f153c03855e0677a40a65fd154bfea9a1e0feb/shutit-0.8.91.tar.gz"
+      },
+      "0.8.92": {
+        "sha256": "5ebb7bc00dcc83bbec417ea57c461c24c21795c6d354580c7dded02e11955ddb",
+        "url": "https://files.pythonhosted.org/packages/f7/ba/85231545d3f6ff7eab9fc92316561aa5f2c194c69669b2d66eb0c2c0b896/shutit-0.8.92.tar.gz"
+      },
+      "0.8.93": {
+        "sha256": "fcb5cf46aa22efe121e51a030d9feb4f787a36c5a981f0fa7089266b47aa05c0",
+        "url": "https://files.pythonhosted.org/packages/2e/65/e1e695b61e7e9db31f80dcd9514ce35db30df366bed706eb14dbc448d36f/shutit-0.8.93.tar.gz"
+      },
+      "0.8.94": {
+        "sha256": "f1b123aca2da7622bace4b3ee1e3638b9b7ec5828db01c4b78356163e4d80a7e",
+        "url": "https://files.pythonhosted.org/packages/13/76/d8f0114d9b60febaf1c495524d3616993013e5d8340b6e7b9ab5cba63d34/shutit-0.8.94.tar.gz"
+      },
+      "0.8.95": {
+        "sha256": "2adc3c528de08a58c56a90040934bdb2e4164b565a7dd79ad3f46d22a4d01ee5",
+        "url": "https://files.pythonhosted.org/packages/64/43/391300482a382919dab33f8646479c73b938198e3e5290ce21fa9b3a8609/shutit-0.8.95.tar.gz"
+      },
+      "0.8.96": {
+        "sha256": "34b6abef51bba6e97c0815f15d69bc82e80a3d5f778e057a48d3b3039f658e0a",
+        "url": "https://files.pythonhosted.org/packages/40/28/088a118ac6068033702bbb92bd2824d5f0dfedf2a7a4e297bfdedf6a7b9d/shutit-0.8.96.tar.gz"
+      },
+      "0.8.97": {
+        "sha256": "bd7c23dcd7e81b10377b02c439ddbc410f70d80d19cacd0c66d1b8d196b0fa89",
+        "url": "https://files.pythonhosted.org/packages/09/30/d830dd9674569e99a6359d3addb4995a7e29a1d1426f06e3cb4b7ba0a23c/shutit-0.8.97.tar.gz"
+      },
+      "0.8.98": {
+        "sha256": "9b8bf90adf038d98efaed0a15a09dd467634caef46d70eacdc725ab6c3330b79",
+        "url": "https://files.pythonhosted.org/packages/d2/93/98c656c921db5d7dc36823423387fb508b827cc56abd372aad79467f498c/shutit-0.8.98.tar.gz"
+      },
+      "0.8.99": {
+        "sha256": "e6bb0a85d893cb2926f1b67f7c7ff345a990859f31970bab59d4f3e84723fcd3",
+        "url": "https://files.pythonhosted.org/packages/d6/80/1c2baedd38612628e13f12c38ad3d89f0477ba5ef28d2769741d4d9f65a0/shutit-0.8.99.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "391cd98b94f432a463092a71747ac4537fae7438fab795a53419685f2f61e0b6",
+        "url": "https://files.pythonhosted.org/packages/4c/53/fc177a8e71bc87ac60a529f343b9a446e3a8f915994afdb7ac6d13dd8326/shutit-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "7de2cfe4b3c16266f536b10b2683186781d3d22826afdf77912772714f8f1c01",
+        "url": "https://files.pythonhosted.org/packages/65/e9/a38b3af7deccf79562405feee7018ef5069e1a02dfdb4c365db83f3f0cf1/shutit-0.9.1.tar.gz"
+      },
+      "0.9.10": {
+        "sha256": "5db45f5d607f43ee8e8ad4e88d0e7911b75f2bac21db12461095590e181b51e0",
+        "url": "https://files.pythonhosted.org/packages/17/a5/6487cf12a792528c18926ec92438103b37aad5ea3b86806cd6941a02de0f/shutit-0.9.10.tar.gz"
+      },
+      "0.9.100": {
+        "sha256": "18229a4ccd04990911a4b48237e3b995022d072498217439af2ecc7c1f42f97f",
+        "url": "https://files.pythonhosted.org/packages/f7/31/db1afb99927388d835d436a37053527c6a7edb1f01bad49b3ef62dce4b29/shutit-0.9.100.tar.gz"
+      },
+      "0.9.101": {
+        "sha256": "167a77aded21b751d9372b7cae453bf666bed913b7d31fba46a2490022708068",
+        "url": "https://files.pythonhosted.org/packages/61/e9/351c485d5ea9853e13c5e55f2a43f2a00943e9fba6b8df495e4d93b30b75/shutit-0.9.101.tar.gz"
+      },
+      "0.9.103": {
+        "sha256": "c65e34b6f6d08a08f2a4db88f5a89c871f202b1d3258857759b79ea5a7c919cf",
+        "url": "https://files.pythonhosted.org/packages/6d/78/adf4c2f478808b91fcfabde345c9091fe18ec135367939caad985d44ef29/shutit-0.9.103.tar.gz"
+      },
+      "0.9.104": {
+        "sha256": "4e6d350a7fb1b0db0dd03172235c49bf7c3de3eda49e096fa54ce79be99083ca",
+        "url": "https://files.pythonhosted.org/packages/17/fc/367e048c4033c39860d005915681fc791e1016a87b0b345383d55f4c3069/shutit-0.9.104.tar.gz"
+      },
+      "0.9.105": {
+        "sha256": "8ddd1dc942f1b63bebaf28d4463a1148950cb3f64cd2c62d6f9cf1a925cc42bb",
+        "url": "https://files.pythonhosted.org/packages/7b/a3/e6dc5232d8b0e0ef0d5c9486a19c78aad972f7aba1e83a8dbfccafbda377/shutit-0.9.105.tar.gz"
+      },
+      "0.9.106": {
+        "sha256": "bf5e82b4fdb747dd0319853a86f0c9c850c17972f95139aae5fc998356a01273",
+        "url": "https://files.pythonhosted.org/packages/ca/6f/6bacc6a383eb393c6edac7b8c1b691e7e993ee2c9c31adbc1af95e115530/shutit-0.9.106.tar.gz"
+      },
+      "0.9.107": {
+        "sha256": "dc7f91c99f6c5e7a72e5fc5cde832156d47c9d1b7538c8dff15d6922d3bac32a",
+        "url": "https://files.pythonhosted.org/packages/9c/c2/cc73121158a95d9c7615d5c4839c8e0cd29c544f212041affe895ac22f31/shutit-0.9.107.tar.gz"
+      },
+      "0.9.108": {
+        "sha256": "e529deb22776f4161159a53d518faf48366c0ed9ad78bcd43c8882de72296f12",
+        "url": "https://files.pythonhosted.org/packages/c2/70/70c8b92cd68c265138c885a760b2e383d9bf9ffe7473df7f7ddc4d0aa21b/shutit-0.9.108.tar.gz"
+      },
+      "0.9.109": {
+        "sha256": "6eaa5b51f1b28fa21dd704c6c9b04b74a55ded3d6724c10dfa59acd929d95b3b",
+        "url": "https://files.pythonhosted.org/packages/58/10/8944e733d7fb8dae5b8fa79ef21199c32ca417c59590760e71017dc4c93a/shutit-0.9.109.tar.gz"
+      },
+      "0.9.11": {
+        "sha256": "99e62da9660cbb79367a1b403e3188df429b6d6cea170e18a3484e727dbdc22b",
+        "url": "https://files.pythonhosted.org/packages/9c/2c/481f73a3df5a55fb1eb7c1f05dd80c34877a8c83f11cb95fbded867c36ec/shutit-0.9.11.tar.gz"
+      },
+      "0.9.110": {
+        "sha256": "bb032c939a0b4e86b5d01bbf5fab15baaf3b2aaa6b28f4b34473694104a7ebae",
+        "url": "https://files.pythonhosted.org/packages/16/ea/8c94b77e57d23ed944d0d8769402ba847ee4f92cc330b59acb0f3c068a48/shutit-0.9.110.tar.gz"
+      },
+      "0.9.111": {
+        "sha256": "907bc0becf25cfc4c144480a19b3c9a82dd3ba21a63ce1490349bcdefaff411a",
+        "url": "https://files.pythonhosted.org/packages/df/95/1ef6754ff6337e31df2b815f1e0f24f3f63c7eb8b762ad6999b24fb3ff65/shutit-0.9.111.tar.gz"
+      },
+      "0.9.112": {
+        "sha256": "fa2f7261eb891dd6763c0e35ade10ba02cf2d7200fc577e4944f7dd4ea3a971b",
+        "url": "https://files.pythonhosted.org/packages/65/92/ab65cc9adeea29fa343ecd329a74bd011f399a30fd162f0475933aa7620e/shutit-0.9.112.tar.gz"
+      },
+      "0.9.113": {
+        "sha256": "703ef7525622d53f619931caa85aa6f4102475200c67b9a772fc9ad0599d7f04",
+        "url": "https://files.pythonhosted.org/packages/84/1b/d03df9e253191d5c2132707b08b29a8276d7d58f90717ee1428977f6293a/shutit-0.9.113.tar.gz"
+      },
+      "0.9.114": {
+        "sha256": "44af775f36f639168f263b08d3c88625d522742d82314856a9ef76e4977e850f",
+        "url": "https://files.pythonhosted.org/packages/d0/ff/1328f22d7df36e328ef3e2355eec570664b4264e61f35fc1c09da9380eaf/shutit-0.9.114.tar.gz"
+      },
+      "0.9.115": {
+        "sha256": "70e279dd91a73d36f20e7478b9ff8a80872b2f0aeb4abbb46d6f22b732dad5e1",
+        "url": "https://files.pythonhosted.org/packages/b3/1d/2f361f6643a47a5eceac0f660361d2cb772f399e5bddca14d6780562ac04/shutit-0.9.115.tar.gz"
+      },
+      "0.9.119": {
+        "sha256": "d8943a913e80b1722e9b623b0935a6a57583bbbb4a48c90002382e1ed2fc7471",
+        "url": "https://files.pythonhosted.org/packages/4a/10/46270f1b8274a9f36a64597a167844648795df939480e2fb838d81bf9f8b/shutit-0.9.119.tar.gz"
+      },
+      "0.9.12": {
+        "sha256": "03f9cba58bd4eac02af24806d93c4efcdcac4cb252cdd0aeb0f8f9b2910f87d3",
+        "url": "https://files.pythonhosted.org/packages/a6/d4/e5b8806d1c460ff942107a3aee10214a795fbe7f74fd2e2543cab0495350/shutit-0.9.12.tar.gz"
+      },
+      "0.9.120": {
+        "sha256": "5065337cdacd2fd0101f9d989fc73637e1bbde6af28522ba290ab12aff6d23e6",
+        "url": "https://files.pythonhosted.org/packages/2e/2e/097ffe29f2d25fdf44a972d86c8adef1d1543f2b33e2de52ad93cb019ac1/shutit-0.9.120.tar.gz"
+      },
+      "0.9.121": {
+        "sha256": "50f6f34f3501795f6bfc1a02e6433682b9c98f836babbbf972b653140196605c",
+        "url": "https://files.pythonhosted.org/packages/57/83/f6d8b6cd4541afac4d633d577f178804285ce30b9405bb12842c15052c98/shutit-0.9.121.tar.gz"
+      },
+      "0.9.123": {
+        "sha256": "73496035314fbb8b32cbb0755acf7a9866fac2d85bf0dd10b76a26b9cef4763b",
+        "url": "https://files.pythonhosted.org/packages/03/15/664b9122700336e10f8e347b43886b1045a987f0d2fe99a1649e86a9a304/shutit-0.9.123.tar.gz"
+      },
+      "0.9.124": {
+        "sha256": "1d9c6b2ff68dff4751fbd0065e5d50f279f0d20f6996461adf7de095d28ace4b",
+        "url": "https://files.pythonhosted.org/packages/3a/6b/a729882892580284efcedb1cfb49ee4ffcdbbda51d16606b1df0b4603780/shutit-0.9.124.tar.gz"
+      },
+      "0.9.125": {
+        "sha256": "c8606d2c82e825b2833670fb20f14b7f3bd09d3b11fb71ddbb96e66bc9683eef",
+        "url": "https://files.pythonhosted.org/packages/9d/af/1672b9e8ce74c13e353f365f0a74ce7c80c56f99403af535c931c9153ced/shutit-0.9.125.tar.gz"
+      },
+      "0.9.126": {
+        "sha256": "8d428aad447daf2dbe7839c67b54bf1ee21081981f1d3650691113cca047436a",
+        "url": "https://files.pythonhosted.org/packages/8b/62/83eff483c49b0e411df530c19993f2a6d03e10044ecbdfa663928aaff590/shutit-0.9.126.tar.gz"
+      },
+      "0.9.127": {
+        "sha256": "f40d20b4002b19ad581fd63dacfe0885f59c2b9ebaf841cb4d3fe8993b137bde",
+        "url": "https://files.pythonhosted.org/packages/26/73/98a562593b439fcdbd4fd28dfd7b86a1da76a79115ada0cfeb908a6b11ee/shutit-0.9.127.tar.gz"
+      },
+      "0.9.128": {
+        "sha256": "947bc9a37ede4304e5fd6dbbac33175415b764bb6a918092203bd8ac8bdc0dde",
+        "url": "https://files.pythonhosted.org/packages/11/83/5b02a31b46ba846ac6ca283336908fbf37127d3fe472dc2d64375a6d6447/shutit-0.9.128.tar.gz"
+      },
+      "0.9.129": {
+        "sha256": "48532975d4bcd264615f83e84ef92bda4295ecf587e9b362097ed331ad819481",
+        "url": "https://files.pythonhosted.org/packages/31/80/79dee927c7c3a45bd34c699c55eff449ac7482a7fd9de0c3d89b723149c0/shutit-0.9.129.tar.gz"
+      },
+      "0.9.13": {
+        "sha256": "25dadfc6f6d26236870dc59740166a14b1cc515a8fa6407c6b5d411e6bc4465a",
+        "url": "https://files.pythonhosted.org/packages/35/d7/7275ce88cedc03bacb26c02cc9ad490784a2b7f760f734fe7ddd2c8c876f/shutit-0.9.13.tar.gz"
+      },
+      "0.9.130": {
+        "sha256": "758034a61c583055c6c6642df1c2f480df1e381b4288f72faf42f59d7b70003a",
+        "url": "https://files.pythonhosted.org/packages/1f/6e/5313c7a1c943cdb4cbd40a17784a53b6724e0104158684eb06fc68710f36/shutit-0.9.130.tar.gz"
+      },
+      "0.9.14": {
+        "sha256": "b6c3363ed8b726abea9a60474d5f489e59aabc7197d9ef8ef9bb97445a532ca2",
+        "url": "https://files.pythonhosted.org/packages/ae/8e/a5a305f664ff3cc3bbf13d76da15ec60bb2af27d89dfbb652965e4a3af0d/shutit-0.9.14.tar.gz"
+      },
+      "0.9.140": {
+        "sha256": "276e8e259bd898a57eb591ada8f352e6726675818d1432391fe8000139ba7eba",
+        "url": "https://files.pythonhosted.org/packages/ae/0e/99eb88530d6a7b10b95ef571741b487509985542125a7282ecccdbeaed74/shutit-0.9.140.tar.gz"
+      },
+      "0.9.141": {
+        "sha256": "a91089f767e4c0be62c393c6e86c073840a34ed95a9447c308216f62ddd20534",
+        "url": "https://files.pythonhosted.org/packages/50/6a/934d1b1d0dcdcb5fd9074b28f0d2818f8bc565775af28faafcf71be03867/shutit-0.9.141.tar.gz"
+      },
+      "0.9.142": {
+        "sha256": "9436c38148154c9d07934329d58ab8ae24385b781a70c8ff13ebd9bd8016a553",
+        "url": "https://files.pythonhosted.org/packages/50/e3/76436c2de53b653b060324edb20ca743db2069aa9004d211311a72699c3d/shutit-0.9.142.tar.gz"
+      },
+      "0.9.143": {
+        "sha256": "02d0dc9424a10423d773bcdc69a92ab512e10d0300153e9970aab0d5172880d9",
+        "url": "https://files.pythonhosted.org/packages/d3/1a/0e23852f2e3b5f2ccb8d92c45e7a5a8ed41105af8491bc9d1641e4248c3f/shutit-0.9.143.tar.gz"
+      },
+      "0.9.145": {
+        "sha256": "be3016e2a2109683e96c1421ae28509ca083ace27f22bf19b2e0fa51de9ed757",
+        "url": "https://files.pythonhosted.org/packages/af/b2/b550d5bc8267dda58a795ca693b6aed7ee39ccfbaf5c371391d0bb9e8024/shutit-0.9.145.tar.gz"
+      },
+      "0.9.146": {
+        "sha256": "8901410d0e5978564351c5355c5e44595c9d744d86f1023c7da5ac5a087503a8",
+        "url": "https://files.pythonhosted.org/packages/37/af/ae674e95ed282d2c6ad7ea6146d957d597692758b48cd6468017b1b33abd/shutit-0.9.146.tar.gz"
+      },
+      "0.9.147": {
+        "sha256": "6de9fb5e51ca741dcec58b3122998fdbe99c6c5c442a7b16e8b3bf3b016b7e08",
+        "url": "https://files.pythonhosted.org/packages/00/52/755099c8165d85f5c4f5cadefa567ac70f8c3f7236ffb2f2ca0ebee3f629/shutit-0.9.147.tar.gz"
+      },
+      "0.9.148": {
+        "sha256": "bcb05f6e35e8faa5a5c2c4217aa51d266f504ede3da1f4248f1071457f13698f",
+        "url": "https://files.pythonhosted.org/packages/0a/9d/d3c797d941de588cbfd4b383764e39eb493bf0b724a99e3071b690cd65fe/shutit-0.9.148.tar.gz"
+      },
+      "0.9.149": {
+        "sha256": "25230b0234ad8bf7a88a4d70a5ba9f95575847bec8dd1a3219f6af7eeeb15be0",
+        "url": "https://files.pythonhosted.org/packages/ec/03/c49ce97bdeff93c88a5f7ac57a156c839420e3357a9b037b85dedebf1869/shutit-0.9.149.tar.gz"
+      },
+      "0.9.15": {
+        "sha256": "5f197ebb3d1426626c02d87d671ebae746900d3c3133d0b38861e13c04581636",
+        "url": "https://files.pythonhosted.org/packages/f7/2a/5b6cbd0b537dd43cf36877bc3f59349c3ec08457132f92ecd4b35afeb7ab/shutit-0.9.15.tar.gz"
+      },
+      "0.9.150": {
+        "sha256": "cdce4fb427ae4de36cfd2cc08f5f994d2a9108aea4f4c23e6497f3f4b25fa368",
+        "url": "https://files.pythonhosted.org/packages/a5/04/f96be4e8cc9173cb70ae177a0a216feee894e84903e034bcd7528bf1ae89/shutit-0.9.150.tar.gz"
+      },
+      "0.9.151": {
+        "sha256": "1c409a6e701de301fb5be259badf6963bb05fed5a46635a811624f50d80bfe1c",
+        "url": "https://files.pythonhosted.org/packages/08/82/6aac07f63c0e29b44e3140793fa13256ee9aa2626e6ea4e48279aed93ec9/shutit-0.9.151.tar.gz"
+      },
+      "0.9.152": {
+        "sha256": "7b2b2b7f955b540c0d69777bdb351d3422d2622a80569f7aab55571e41f27f20",
+        "url": "https://files.pythonhosted.org/packages/20/aa/16c5aae64ccfcfe10f8a25ae83203dc7008581afc96f38db64a1bf26b57d/shutit-0.9.152.tar.gz"
+      },
+      "0.9.153": {
+        "sha256": "c30a5357299bba81fb428f4ce80d772bd4a0ddc1b612251df9bcf159be94cb5c",
+        "url": "https://files.pythonhosted.org/packages/05/2a/8f89a975ed9656c92292f30cefd829e100038ea3630d47004a746b1f5c17/shutit-0.9.153.tar.gz"
+      },
+      "0.9.154": {
+        "sha256": "de1dd211ce7bca1b731fb703bd13168b8041766732711d9a38bdb35f6b26e457",
+        "url": "https://files.pythonhosted.org/packages/b9/05/3c90e31afafdc1bdd6fb1aa32dc59540d80eee1af5807c24525ceb323021/shutit-0.9.154.tar.gz"
+      },
+      "0.9.155": {
+        "sha256": "df409608a5c4c47b6d492bab9f47e73a57771c4e5a5b68cf885c7be0fef6a27a",
+        "url": "https://files.pythonhosted.org/packages/2c/8c/986b9f355634eddc0ac4fc5ede0cb882003e3de645bc6155d7e1cb1b081f/shutit-0.9.155.tar.gz"
+      },
+      "0.9.156": {
+        "sha256": "9c3ee9e4039d83d884cd29fa0fb0623ae049880094f2e10936559b7069508cbf",
+        "url": "https://files.pythonhosted.org/packages/69/03/b5f8a6a61209da2cde02fcb2f1edb65fab92c206137f9f6dd16f5cb8e26d/shutit-0.9.156.tar.gz"
+      },
+      "0.9.157": {
+        "sha256": "bd5987a5e48e3c2546d6961d08644e23905fcf667c81c516bed2c210bfb39bb3",
+        "url": "https://files.pythonhosted.org/packages/eb/f1/082ce530d16c7cc8a23a13a4c0239169480531793fc2ca3f6e77fc4c2422/shutit-0.9.157.tar.gz"
+      },
+      "0.9.158": {
+        "sha256": "6fc1e0fa21da2eac2b942deb0ef71603c598e49997cc1a79b4426700f61d9549",
+        "url": "https://files.pythonhosted.org/packages/25/31/1ceaefdee945de0f598933588f5219024d7d3ea00c9f91fa95c354705b26/shutit-0.9.158.tar.gz"
+      },
+      "0.9.159": {
+        "sha256": "edaf382d37854bdf367aadb1798257756a35eb9e4f687de48c7c5a14e290d5da",
+        "url": "https://files.pythonhosted.org/packages/6a/0a/5db37dedb6b0718bd0a7ebd32f214ad8dc19d475bff06d8f6e504f4885fa/shutit-0.9.159.tar.gz"
+      },
+      "0.9.16": {
+        "sha256": "8013efbf909609fa74405698ad610527567312811b10296547c2259e3311d023",
+        "url": "https://files.pythonhosted.org/packages/6b/5c/feeb62cbb354a9b0543a74fe653152eb9d04e2e0eb8a8e44141f59e81f56/shutit-0.9.16.tar.gz"
+      },
+      "0.9.160": {
+        "sha256": "260ca367dcae98cbedaddd69946d9a2f338474e9486cb4e756b51f133d93a7e9",
+        "url": "https://files.pythonhosted.org/packages/ee/dd/45dd882c73d0b699be4671dbce0e267fc2e47e0aac42b28d87473cdf8491/shutit-0.9.160.tar.gz"
+      },
+      "0.9.161": {
+        "sha256": "cb361fb9e40b7c7382dd9253a8626eee0b7b5c80c2caf1684325f93739ed108f",
+        "url": "https://files.pythonhosted.org/packages/8a/9f/98c1788160aa50f014e6ddcf7ef3509bcd4aa1fbb468e5f0f6c04b926b04/shutit-0.9.161.tar.gz"
+      },
+      "0.9.162": {
+        "sha256": "177c9ba1677349d87ccbeb8213819863adb8dc11b1c77dfcc105996770c9cb62",
+        "url": "https://files.pythonhosted.org/packages/1c/9b/8e1832e5fc3bf5cd0d2ff6d06debed18af46fd7fd0e827025ec0a0e1edb8/shutit-0.9.162.tar.gz"
+      },
+      "0.9.163": {
+        "sha256": "da7025d0414119006a70ee6753aa6ed23f2e1f959a4b10e96850326a8df52bd1",
+        "url": "https://files.pythonhosted.org/packages/9f/e0/30387e0ada655eb5c278877f959059195d20db6dc8e1f23a0fc4c0b158e7/shutit-0.9.163.tar.gz"
+      },
+      "0.9.164": {
+        "sha256": "adfd1981bc35ecd2f9b6350a9c205cdd3ad9311f272a451a4a030504bd7bfea1",
+        "url": "https://files.pythonhosted.org/packages/cf/65/5fcee51fdb016d1f10eec930c22437e95e91dc214be86cf3b498860fb5ea/shutit-0.9.164.tar.gz"
+      },
+      "0.9.166": {
+        "sha256": "bbcae26109c3f9791008e8448f408f404df26f638973c02a7a7820ff422761d4",
+        "url": "https://files.pythonhosted.org/packages/2a/bf/9770cfede8bb630a99be24aaa5db87805e3f13e4018383ae59399dca0463/shutit-0.9.166.tar.gz"
+      },
+      "0.9.167": {
+        "sha256": "2766ed746e0b28aa3a3aeb63672a4d9b56aee5dde7194cdc432c19c3008d9cf0",
+        "url": "https://files.pythonhosted.org/packages/73/b7/affc96bad38f7df10262c784fb55a5dedf7063ff313d5ecda6ac8eb8ebaf/shutit-0.9.167.tar.gz"
+      },
+      "0.9.168": {
+        "sha256": "49f1b23d1d6e4b74aac3bba3012e756159bd5b7304c6ae6e8fed966d874a2f75",
+        "url": "https://files.pythonhosted.org/packages/78/7a/0ee375a4494be4178e90a1101140e516c8a39a41c12b3c2974c8bb0fef09/shutit-0.9.168.tar.gz"
+      },
+      "0.9.169": {
+        "sha256": "14e5c79f7c158e1dbd05d558edf0c838f948034dd4841c7c68b33dfa6cc52206",
+        "url": "https://files.pythonhosted.org/packages/50/77/90ab0f1eaf5615a785c33603b5898a781b36148cdcbeec5b470298011be0/shutit-0.9.169.tar.gz"
+      },
+      "0.9.170": {
+        "sha256": "30d95805f682ce41dae2e577699b4f3420f2995da53cf08d40b40d0e61703ca3",
+        "url": "https://files.pythonhosted.org/packages/3b/88/d09d3b146b1b79abe8772058833bbcf335e40f1a8a69c53cbfc78bcdf165/shutit-0.9.170.tar.gz"
+      },
+      "0.9.171": {
+        "sha256": "4fad58f318b69800bb6f5bee7053dfc1f9527340ac930f846356df72a0d379ae",
+        "url": "https://files.pythonhosted.org/packages/5e/9c/e9beba6b53a04ec6b2408a69333efdb6906228cde77f196a8d85a5148e8a/shutit-0.9.171.tar.gz"
+      },
+      "0.9.172": {
+        "sha256": "6e1779f89c73638a98c296476d99806b3038fb1c8ad354587103c05eaeb2c978",
+        "url": "https://files.pythonhosted.org/packages/f6/53/3477fdf03525fdad4b3fd0280fdbb737290c7d7824ecd39ccb9700b79086/shutit-0.9.172.tar.gz"
+      },
+      "0.9.173": {
+        "sha256": "c9164ef9d800164a917b761dfd1ff440843d5370f4e15b30515a74cc3e2ef37e",
+        "url": "https://files.pythonhosted.org/packages/fe/ed/a4f639e46e53e7929e25d1d57c0d90bc55a6d96e022025014c715ff65cd1/shutit-0.9.173.tar.gz"
+      },
+      "0.9.174": {
+        "sha256": "28e46b2e413d552bd81f2c56a5b2ff95ef73cfee9a9a0790e30c3438f0b285ec",
+        "url": "https://files.pythonhosted.org/packages/87/64/36263b2a9743edb083758a9a60af312057e4f97616a07154f3e1a6575928/shutit-0.9.174.tar.gz"
+      },
+      "0.9.175": {
+        "sha256": "9cb2f1f60bb42f5e56646466f8ae1cff7767d93975f14ee2f886065de029e76c",
+        "url": "https://files.pythonhosted.org/packages/cb/2f/eeb6462f7d5b853ad87560b93f2ff27dd6c84c50922e051d4c2c04a41d13/shutit-0.9.175.tar.gz"
+      },
+      "0.9.176": {
+        "sha256": "ed5df8354d9486248cbf4835986471ed7861fa9a0de0c6bc8b2433b14a59511e",
+        "url": "https://files.pythonhosted.org/packages/a7/1a/f2e7047da687da82ca38e7fd0f58bd1c8f6332d7b15d8b13d92fe31cfde9/shutit-0.9.176.tar.gz"
+      },
+      "0.9.177": {
+        "sha256": "648846b37bb359c2398a4463466b27adc4ea68f35465429f257d3d6bdb04955d",
+        "url": "https://files.pythonhosted.org/packages/84/59/a9846437ea52a5466dfa0545a92a96cba20998186d5c0f24166a651a554e/shutit-0.9.177.tar.gz"
+      },
+      "0.9.18": {
+        "sha256": "1cf6993bc3866a086395ff45e903c014d4105ea08f6ad1d3562768c0cec920d0",
+        "url": "https://files.pythonhosted.org/packages/fb/38/f261483f82098d40accc486152210d3dd1dee3d0b21dddd3d9c7b29435c4/shutit-0.9.18.tar.gz"
+      },
+      "0.9.19": {
+        "sha256": "4b5fe9036afa145d06fa7133c663d6a9135d4642dd5400633b72a17ebfdaea07",
+        "url": "https://files.pythonhosted.org/packages/64/5b/9659d57f9e2f8ebea480c16aa6bd4331a221f9432c7492ccc97f000bbef2/shutit-0.9.19.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "7e6f1d968f98458893d36cd7f2593f243f208bf87bc6266c539306879e523612",
+        "url": "https://files.pythonhosted.org/packages/63/08/9290a5d511a13dd886f6cb67c456a29bc4252c4db610c13e65288c6bc749/shutit-0.9.2.tar.gz"
+      },
+      "0.9.20": {
+        "sha256": "f83c39ec6823e798f5a30caec6216814cdc95a116e70e9772eb8e01ff7840a9a",
+        "url": "https://files.pythonhosted.org/packages/fc/7c/0183e968c1494943c95f2fc265214397d963339455cbe369ace721986d0d/shutit-0.9.20.tar.gz"
+      },
+      "0.9.21": {
+        "sha256": "1cdae6d2dd996ebf366f70f8682e78f99db1084450bf55c2ad8c1e6da7832553",
+        "url": "https://files.pythonhosted.org/packages/32/cf/862dc749e3e4af0858884442028a18b1e48a7d7b5f8df2ca85212016b124/shutit-0.9.21.tar.gz"
+      },
+      "0.9.22": {
+        "sha256": "f789e7ffb387368ef74e8f79eb0cc56c36ceb59642e770871ca16dc6bff429de",
+        "url": "https://files.pythonhosted.org/packages/7c/94/364828b2aa14d8ec617bbe7e514dae4ec2dc34cba110198d041c7d675df1/shutit-0.9.22.tar.gz"
+      },
+      "0.9.23": {
+        "sha256": "117e306c2502bc260c34313aed2ac674c7f83d7d38ac2258fc14d9d92e43880e",
+        "url": "https://files.pythonhosted.org/packages/12/bc/cdccfb33134f4ed6c784210177c59bff9b0f96024f0a0c1f3a08bf3443e8/shutit-0.9.23.tar.gz"
+      },
+      "0.9.24": {
+        "sha256": "97f8db849b6bd660ddf0dcfdffc61d63e5a99a7292505f78b710fa6a5d86d225",
+        "url": "https://files.pythonhosted.org/packages/10/cf/5f1dad591722ae1b2a5011e9e46e3eea00998938abde92817c0a7ef05239/shutit-0.9.24.tar.gz"
+      },
+      "0.9.25": {
+        "sha256": "57346f1cc4d3d43ff16df2c8e0e48c1dc1545f5e9ac0e100437b20784b9cb9e7",
+        "url": "https://files.pythonhosted.org/packages/a3/c6/148ad6b6281e11bd9f35341ff896a8fb39754824da1cb99e6b9d48488d7a/shutit-0.9.25.tar.gz"
+      },
+      "0.9.26": {
+        "sha256": "ae0bd2e55f606269220b16d7bda85294d6a6ad81d41cfc3264c0b27bddca7eeb",
+        "url": "https://files.pythonhosted.org/packages/b9/78/749934e659855e88c943277a31d09f4551f713b2d63da94cf492816fbf50/shutit-0.9.26.tar.gz"
+      },
+      "0.9.27": {
+        "sha256": "ae0cda6cdc47435124aad4397a56a3fd1dd43fbced367965e954623a8d70227c",
+        "url": "https://files.pythonhosted.org/packages/b1/f3/095005567ef1b40b3fef8322fc5f8f46fecc617af08a0c984ab8fe713bfb/shutit-0.9.27.tar.gz"
+      },
+      "0.9.28": {
+        "sha256": "57b624c6bd0472339305b630b6578c53616068e7ec2115102608312d7e769c77",
+        "url": "https://files.pythonhosted.org/packages/a8/e2/cd2617b9b89cc1f5f56e2675074f8fddf5bcb655d90bb3a74d0143f1abd1/shutit-0.9.28.tar.gz"
+      },
+      "0.9.29": {
+        "sha256": "6515a90ff3a6a41064f85a7e24102040540e5f83ce40510fdf69eae10b2c23ae",
+        "url": "https://files.pythonhosted.org/packages/a3/4f/870a68dfb27ef78b472769e983d5a52fc6e34b8348f67b77bf7c8dc21f43/shutit-0.9.29.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "a61cd941dc0ab07594083016c2e9f3693ba55ed0adec2e1a344d6892caa166b4",
+        "url": "https://files.pythonhosted.org/packages/e7/66/2ed155de0f1a1918c6e6341fff3c96c522391d250e282ef783121bf0587a/shutit-0.9.3.tar.gz"
+      },
+      "0.9.30": {
+        "sha256": "321156bf1b71e56a01c6a4796f5732fba08962f8fb43a8789c4da3481524b8f5",
+        "url": "https://files.pythonhosted.org/packages/67/c9/587ba7928b14da858c3e6e527e1e97eee6f3a22e5937658fde3c271f1ef5/shutit-0.9.30.tar.gz"
+      },
+      "0.9.31": {
+        "sha256": "4c5f78d9b843e35ac91988227803c6f62855ef84f4fd5137370b2178febb7c0e",
+        "url": "https://files.pythonhosted.org/packages/6f/01/22695fa09f48b836d004bffd855725f63b5841b785b3b3b13ae8de609669/shutit-0.9.31.tar.gz"
+      },
+      "0.9.32": {
+        "sha256": "89cdf31ea1ebde1f218406da6da6c4a5487c56e1fef12c6818ee5a8538c97eac",
+        "url": "https://files.pythonhosted.org/packages/f6/8e/a232b35c74745ca872aff7ab6abf67e0837c61525ffbc6528ba3b74535be/shutit-0.9.32.tar.gz"
+      },
+      "0.9.33": {
+        "sha256": "9c48a1f380583644eae786371653deba5f600e303b5c68b1ed9b1702aa9bbb2a",
+        "url": "https://files.pythonhosted.org/packages/95/ee/27eace1cdf7ff751923e8bfaf7f6e3fa4c3aea8a49935639d21de499fd08/shutit-0.9.33.tar.gz"
+      },
+      "0.9.34": {
+        "sha256": "2855e3f6114d699d5b4069d914a567c5bad22ab321710ed1d6235e11ee30518f",
+        "url": "https://files.pythonhosted.org/packages/29/77/aa83f7ebb18e5936f1acafa8129e3a57b3e33a3fdb99a029c76561a74d6b/shutit-0.9.34.tar.gz"
+      },
+      "0.9.35": {
+        "sha256": "2710c13f0d6dc8e0c3897e7dbcf1e51957addbeef2a1d6749761ba6ec45d5b47",
+        "url": "https://files.pythonhosted.org/packages/aa/c3/f0dac42fcd11e4c4f2de16e61866cc03fc9e291ea5fe3ff24fcc738ff5bc/shutit-0.9.35.tar.gz"
+      },
+      "0.9.36": {
+        "sha256": "ea897b3eca2120c995f25d8a040ef4b3ccfc4f0d19fec1ce17526aa8bfe3fca4",
+        "url": "https://files.pythonhosted.org/packages/e0/7c/c7faa141a8618c40765a6e4e3ee347bb282978d31342e79973c59195ab39/shutit-0.9.36.tar.gz"
+      },
+      "0.9.37": {
+        "sha256": "85ac7a4feaf58e962d92ab74715fa0d11333f675bd9681527e24df52c7fbcf5b",
+        "url": "https://files.pythonhosted.org/packages/5d/6d/7d1182a6f7f6e153d9699a76400d52d663ca5c746cbe26beb9fc0f4733a3/shutit-0.9.37.tar.gz"
+      },
+      "0.9.38": {
+        "sha256": "fe280613a65452c208b6c251b0c6559e584a4daf39114ec66953705fb6c8ec67",
+        "url": "https://files.pythonhosted.org/packages/2c/89/c4a05f40d63ab6566c629ffaedb9f71a7ae46873868a4dc704df6204e48a/shutit-0.9.38.tar.gz"
+      },
+      "0.9.39": {
+        "sha256": "762b4b0bcebbde8d35e6e13ce70a8f1e66f531ec61141d0e7aea86c34db9ce31",
+        "url": "https://files.pythonhosted.org/packages/b8/8e/0b80ebc5e2388ca258d1831fb92b9ed284bf8bc9fb61964672806f3ac205/shutit-0.9.39.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "f55f2b376a149b2cff7ffaad5af38b926389f99f739788d6d0d7f2e9e086adb7",
+        "url": "https://files.pythonhosted.org/packages/e6/e9/2a5368e893901faf5a3f681438f406a30447d83cec1287bf26b871d086da/shutit-0.9.4.tar.gz"
+      },
+      "0.9.40": {
+        "sha256": "bf8fced1107220cfaf67f58f464dc5a18fc8323889b10f559fd849234bdfa873",
+        "url": "https://files.pythonhosted.org/packages/bd/b2/5a6ffb1c073cbb63e3e9b481c0bd71bcfdfb021c3d6023d03686cfc92101/shutit-0.9.40.tar.gz"
+      },
+      "0.9.41": {
+        "sha256": "5d6e8df9e7f435f4d544139d8ae634624cc760520d75e9e8ab44eb38a271b6df",
+        "url": "https://files.pythonhosted.org/packages/51/45/e6a77fb67996b42de125e024c8fc3ea216c32ba3868aa82628310fe76b85/shutit-0.9.41.tar.gz"
+      },
+      "0.9.42": {
+        "sha256": "aec0b9f64eae9b21543f668297b36de6eb5c2f76354289ccfcd04574df72421f",
+        "url": "https://files.pythonhosted.org/packages/e5/79/4e5363d1657fd8765624c860ce6a4ee6d655f85d06c09637db60524f03ba/shutit-0.9.42.tar.gz"
+      },
+      "0.9.43": {
+        "sha256": "99304753c0c484ef0a47d1d367a3f00b6e5e0cb079f76717ec630f4ee280df52",
+        "url": "https://files.pythonhosted.org/packages/e1/4a/d3e633e48b3e4dca382c1b7ce98a8896ed3f4700e979c180b66a1a7b6538/shutit-0.9.43.tar.gz"
+      },
+      "0.9.44": {
+        "sha256": "5f12332726c07593c2337185eaf7f2e198f37d7c247c7bf8324514ffee0cdfc6",
+        "url": "https://files.pythonhosted.org/packages/17/b3/b00af80e12d34845e3d718423d04a632aee3983097979943d253c4aeefc7/shutit-0.9.44.tar.gz"
+      },
+      "0.9.45": {
+        "sha256": "4c9ebd92652f6d05d5067fa178c7273103891eaa716abd09d5204742aabe3a77",
+        "url": "https://files.pythonhosted.org/packages/c1/b5/2f9e348e23eda6682b3cd64139fd1afd2e3ecc46fa42ed56b6f8b408407d/shutit-0.9.45.tar.gz"
+      },
+      "0.9.46": {
+        "sha256": "8a15c30399e36345610e0d7a9b3a45db68044df93d8a6c2b296e1e3179f27221",
+        "url": "https://files.pythonhosted.org/packages/1c/5b/a136ecc129ade66d0fe7263717a6eb463520364d826bc4dfc75f8ce0bcaa/shutit-0.9.46.tar.gz"
+      },
+      "0.9.47": {
+        "sha256": "69e23ee4a4ee8ffcf2a288b2bf92a79570053918c629c48f97ab1a7a3e35b3dc",
+        "url": "https://files.pythonhosted.org/packages/b0/96/f17510fc4d4760a9cdc20e5cd1dae0390596f2b49ae6d0955fef7c1b57ee/shutit-0.9.47.tar.gz"
+      },
+      "0.9.48": {
+        "sha256": "911e729d81fd206f263b826395ce4b0be7d9a5425deacc1e8b787720201e5e20",
+        "url": "https://files.pythonhosted.org/packages/42/fe/d69a93c5038aff36e12c33e00f6dc2ef7680912bd4a2710bea658ed40d9a/shutit-0.9.48.tar.gz"
+      },
+      "0.9.49": {
+        "sha256": "4cd7c193dcdd7e77bd57f578ec84a1930a33842717545f90096fe0b19e315001",
+        "url": "https://files.pythonhosted.org/packages/01/7b/ab2e5d1e1935819c19ba2576fe3a70cab390469c4cc61c3741b733319094/shutit-0.9.49.tar.gz"
+      },
+      "0.9.50": {
+        "sha256": "fbcc9217d9d1bbc023d79698be2952e141702c8a9447bbe3bea4bd9b13a7af39",
+        "url": "https://files.pythonhosted.org/packages/f8/30/903f240005507b5d280de3b802e9126ec3ba31f37b8e884e643af38ff256/shutit-0.9.50.tar.gz"
+      },
+      "0.9.51": {
+        "sha256": "c91ee9a145269ca4f93ffa9b386095f59894a5fb120f377e98290dac8447fa4b",
+        "url": "https://files.pythonhosted.org/packages/c8/68/730d1a639239a02bb4220e01a3f9a224eba411692bc8bf55ebf43f093b37/shutit-0.9.51.tar.gz"
+      },
+      "0.9.52": {
+        "sha256": "944ef841a356230d53338e9e1d150d6c682b50a087759791fc17eb62e3bae319",
+        "url": "https://files.pythonhosted.org/packages/a3/19/71fe24e803f37b1ce6030d8dd2a49fecd8145c8a98996bd706baa6d552f1/shutit-0.9.52.tar.gz"
+      },
+      "0.9.53": {
+        "sha256": "c24e3ed575df22dfd3630e83d5c9e33dc015bd8eead0f15dad1fb7814542b792",
+        "url": "https://files.pythonhosted.org/packages/06/29/8276206b707241511a4e21b82be04a060e9ec2d0434ab05963fe0e6b49ea/shutit-0.9.53.tar.gz"
+      },
+      "0.9.54": {
+        "sha256": "76ab44f7bc6ba6e607866dc148f8e034b30c54bf219815d3d058ebb0b7b80b1f",
+        "url": "https://files.pythonhosted.org/packages/49/5a/491485f59e669c6b2dd775a879ccb13af498865c9702ddac78825e5a7de8/shutit-0.9.54.tar.gz"
+      },
+      "0.9.55": {
+        "sha256": "fb27470e1d3221a745e1cfb8029bef9647f38639a1f0858d7a23a36183a650b0",
+        "url": "https://files.pythonhosted.org/packages/53/55/7f735a167f27d15a38cf40a4988b23fff4007e3282939c6ce90ba297ed8c/shutit-0.9.55.tar.gz"
+      },
+      "0.9.56": {
+        "sha256": "2cdae5b53f076f191cc43265184db9a7721d8c85d9cf646ec3b1bafbcc875d17",
+        "url": "https://files.pythonhosted.org/packages/82/36/4667fc2ee2135f3706f0c6612687eefb5099c31c5122c1bcf9443fac0674/shutit-0.9.56.tar.gz"
+      },
+      "0.9.57": {
+        "sha256": "1f33d6475bf95e8cf6208868be7a644ab4a338d52d1e36578760b284442714df",
+        "url": "https://files.pythonhosted.org/packages/80/10/da247e30018f8ec120766e75dc19a1d94509ee4b8488d4d7eddf1047ff6e/shutit-0.9.57.tar.gz"
+      },
+      "0.9.58": {
+        "sha256": "0fb02402272b0728760237ae1fdb54d808cac43eb6a776990d92204ee90d2316",
+        "url": "https://files.pythonhosted.org/packages/b8/20/d08dd7243e66242357d312c7766a9f0422e02c2cbca07c8f926b8a75c9d8/shutit-0.9.58.tar.gz"
+      },
+      "0.9.59": {
+        "sha256": "ad896398366768cf05fa87890c6cdbd27b9e1712f223d71beac6cdc43c807a60",
+        "url": "https://files.pythonhosted.org/packages/53/4e/81cf03d8d038a509a824c553dc99f804770670025c7d39a1961015d5fd09/shutit-0.9.59.tar.gz"
+      },
+      "0.9.6": {
+        "sha256": "22430cd358421d62b9c313376f20cf524616f30b60cba9002d5e5eea1b2c158f",
+        "url": "https://files.pythonhosted.org/packages/a2/40/df61b97b7520b5fd3afc615e9f2e28c464962a0b06105b4f0416f9a01934/shutit-0.9.6.tar.gz"
+      },
+      "0.9.60": {
+        "sha256": "d865b61754c65139d482190fb8d370a66e89b7f398f60a63f649d31ef9d156ac",
+        "url": "https://files.pythonhosted.org/packages/c3/e1/8494be71f2492bcd138b3ac00a839e4876f39659d7be2a9f999456f7b5b2/shutit-0.9.60.tar.gz"
+      },
+      "0.9.61": {
+        "sha256": "7d0bdf1eac32272796e1a53dc8543e707feee6f7a818055d518b460d9c11bff9",
+        "url": "https://files.pythonhosted.org/packages/21/70/fc8ae8708f75ae2f6d76ca42087d552fb3f189d450a53a0629a34655513f/shutit-0.9.61.tar.gz"
+      },
+      "0.9.62": {
+        "sha256": "9c7d1fbe35af7b32afb6dc6e269db9374be286050230ebb9e9bf5f89ad4e829e",
+        "url": "https://files.pythonhosted.org/packages/a4/9a/31757d04694810ae0ba917ae5e9d6710b678f7eae5c33b8d27759ba56e71/shutit-0.9.62.tar.gz"
+      },
+      "0.9.63": {
+        "sha256": "cb4370b7737a18084b055ec61f385f307efc97841d2b17482a3c07b9729bc860",
+        "url": "https://files.pythonhosted.org/packages/6d/8a/f3537ad5867df778f4f3f545439525eca949fcb5335f17637add5d9730d0/shutit-0.9.63.tar.gz"
+      },
+      "0.9.64": {
+        "sha256": "92eeb5e866eedd41ff6f130347c127778253f488ae82abef230d318209c31d7d",
+        "url": "https://files.pythonhosted.org/packages/9c/2a/f1cb351889e9ba263ea708673f4d260aa98d38222c273d07bd5299929fcd/shutit-0.9.64.tar.gz"
+      },
+      "0.9.65": {
+        "sha256": "c7768a669bc53cdd5eb103c4315795efd63275b2216bf3407d45461f33b708d2",
+        "url": "https://files.pythonhosted.org/packages/da/dc/ead1222559691c977c1d803185fab06e62543f976226358f3b8a9644ac1b/shutit-0.9.65.tar.gz"
+      },
+      "0.9.66": {
+        "sha256": "0698dd76278dffa2757180bc0da06f86757fd9943c911246bc80d02235d54c09",
+        "url": "https://files.pythonhosted.org/packages/02/d3/4dcab88f3eefddd8ec6d27a0c5ed0d3bb993109e159bbb5f7e2965e3a61a/shutit-0.9.66.tar.gz"
+      },
+      "0.9.67": {
+        "sha256": "d42aab3c17f52d69f291ccc500c04f8edad0107b06b4be3d74c852522bac4aa7",
+        "url": "https://files.pythonhosted.org/packages/6e/f5/450e22f42b060c0c70b8752945c85000b55e4f33a5896625866e2cbaf282/shutit-0.9.67.tar.gz"
+      },
+      "0.9.68": {
+        "sha256": "3cf575cceb83b91fd25bd1c1199f9505fc645c2fc53ff2db4b28bca01ac5c6e9",
+        "url": "https://files.pythonhosted.org/packages/63/98/e86608181a0f40cbec42bada028fd6ebf8dd449510f24cad9d7aac0904c8/shutit-0.9.68.tar.gz"
+      },
+      "0.9.69": {
+        "sha256": "fbf85af7bb42b1e41585533b08692dca4c23e0b8a66d06d04ab06003cc00bfe2",
+        "url": "https://files.pythonhosted.org/packages/a3/39/c432fd30f03db421de5dd9243f2ed19d8ff4845496d29629550f3bd78fef/shutit-0.9.69.tar.gz"
+      },
+      "0.9.7": {
+        "sha256": "e16f02a249aaa21800fa98cfe7821e7b9085d21df13099734ed2b4154e9ad25f",
+        "url": "https://files.pythonhosted.org/packages/8b/76/0f7ed0851b568d606f255af06dbddde134ecc68e2e7055bd5d09bddbf224/shutit-0.9.7.tar.gz"
+      },
+      "0.9.70": {
+        "sha256": "7014246b243815ecc1c99244e243fa119e023cd377e7283c1e0da2adf84dd59c",
+        "url": "https://files.pythonhosted.org/packages/98/b8/ad2b8a13826582413573365fcf112c90ee70dd8d25eb3ff17f937eb711a7/shutit-0.9.70.tar.gz"
+      },
+      "0.9.71": {
+        "sha256": "235a4862f712d1a566a7ca980f26a7cb3709dd5d39dfc1deb785bd3801cbfc36",
+        "url": "https://files.pythonhosted.org/packages/89/03/ab41d4970b5294c17e98faf0ca2afe65243bacd8afb106ced0274f7b9175/shutit-0.9.71.tar.gz"
+      },
+      "0.9.72": {
+        "sha256": "1f0de00b128af9accd3f884546e6904efdcbfeb8e714e936492e4008be18527f",
+        "url": "https://files.pythonhosted.org/packages/7c/96/8a905bb1c6582faeffb85629c1179d043be9eec72d31d2f4835d2100fea3/shutit-0.9.72.tar.gz"
+      },
+      "0.9.73": {
+        "sha256": "890ad506cb1ed4e352d25e400d57a22990f94587608d0167cc6face63750260e",
+        "url": "https://files.pythonhosted.org/packages/f7/87/38dab3927f0f79cd7e99293da3fa9657600b0f19b1e3110127b46709dc32/shutit-0.9.73.tar.gz"
+      },
+      "0.9.74": {
+        "sha256": "1eb0a08279c18b2ae3f0aee7636263eea6882e3f784bf8f376ab1778bc5c3572",
+        "url": "https://files.pythonhosted.org/packages/da/05/43ef35ec5f8a81a34ea0e0a23d9d7cac8c6925e1b834ea44c5285ff9c5a8/shutit-0.9.74.tar.gz"
+      },
+      "0.9.75": {
+        "sha256": "0fdbdab29acb0581bad8541cc41abe667b9b680a3cf0d98a65edd8b95e7b1784",
+        "url": "https://files.pythonhosted.org/packages/14/9d/1997164f5e01409301706ef5b392135ee27174d7abc02a333f038f4ab4cd/shutit-0.9.75.tar.gz"
+      },
+      "0.9.77": {
+        "sha256": "fe8f993d662fb50279ba7e85a08d04d97194578c1257efd48c05ca162dadbc7a",
+        "url": "https://files.pythonhosted.org/packages/71/11/d3f0dbc1b2d3b1d2b9dceed102d74ff5960d93b935238dad9b53cbda413d/shutit-0.9.77.tar.gz"
+      },
+      "0.9.78": {
+        "sha256": "c90986ef8b45b15b9a79914fa0ebab556736e1c8bc504bd79ded1a686506cdfa",
+        "url": "https://files.pythonhosted.org/packages/54/a9/a702598ac9f48d5d434e4d6a11f553686b7033d42912b91ab9bfd6cc33a3/shutit-0.9.78.tar.gz"
+      },
+      "0.9.79": {
+        "sha256": "f81f38f5cf87e4ea850747004d723e619abfa7d0ef7467e8095588659e097e18",
+        "url": "https://files.pythonhosted.org/packages/de/ba/f735a5146ad97d3134f8169f1b799ed11891a326aa8138fcc5916a31f158/shutit-0.9.79.tar.gz"
+      },
+      "0.9.8": {
+        "sha256": "6b272530cf29b7a2a6e5de017c4abd8b1ae3b64ade4be9e716a0faaa1ea4a93e",
+        "url": "https://files.pythonhosted.org/packages/e2/4b/6321fe7f279ad59a6996a899cde1529d4b1d8ae44505bb7024e2fafc2346/shutit-0.9.8.tar.gz"
+      },
+      "0.9.80": {
+        "sha256": "4d238ade26fd10b6a2a7d98f6af86e983f52e22c0ff448a6773ffb900e474f29",
+        "url": "https://files.pythonhosted.org/packages/2b/bd/edd4a0c977c7c73782d7a449964c61397f9293fa9ebe74a1e1f97d73927f/shutit-0.9.80.tar.gz"
+      },
+      "0.9.81": {
+        "sha256": "4b6b157a9950d22d4c0b96ebeff3e485baf9ae7a3ea03dbcac0142954103fa16",
+        "url": "https://files.pythonhosted.org/packages/01/b1/f8a57af8befac855bc41ce8a429855b9edb7d0d7d199225d68a09fd297cb/shutit-0.9.81.tar.gz"
+      },
+      "0.9.82": {
+        "sha256": "9ef38acfe6ad481cc1614d41865f11373ca01e8c6e6bdff5da3098a3b553f833",
+        "url": "https://files.pythonhosted.org/packages/d1/f6/dee60e4aa71910c11780f492ff01cfaab77ca42ac7de87126fadc2a31e90/shutit-0.9.82.tar.gz"
+      },
+      "0.9.83": {
+        "sha256": "a10e543f77a36c342090f1dc4ecbaa474442bbe5899b46e437ecff0f2e1a1d7c",
+        "url": "https://files.pythonhosted.org/packages/60/e8/90f1441ee896f5facbe681e98ce5ce84cd67c1012de35ea336f798323a78/shutit-0.9.83.tar.gz"
+      },
+      "0.9.84": {
+        "sha256": "cf1f1e1a4cf2e5ac2bdd6a4c307a25adb899139c6e9d715434098a7ce58cb555",
+        "url": "https://files.pythonhosted.org/packages/f7/41/bb3004d1064ee5750064f041d57400bdce6f78a30fb29158e1b43c36c952/shutit-0.9.84.tar.gz"
+      },
+      "0.9.85": {
+        "sha256": "3474addc8f6fce0e219ec01b2a0e1fa4715653ce427270637f2d218ef39ba744",
+        "url": "https://files.pythonhosted.org/packages/39/7e/59b84309f9abc9f511caeb8f5852e9782b5d20149edb7cddd2b87df29cc7/shutit-0.9.85.tar.gz"
+      },
+      "0.9.86": {
+        "sha256": "81ed69cb24232cf9188a15c2709b91df27a18b340a7358e53adea6bbde5312cc",
+        "url": "https://files.pythonhosted.org/packages/db/d0/ba994ca98c84c28f0a74097500e8e5891b0c6b6aa4ef0e512d0763f565f8/shutit-0.9.86.tar.gz"
+      },
+      "0.9.87": {
+        "sha256": "e871d17fb42a44e837d8c2261d6dd3152d4dc2b63cda87a39afc4591896b217c",
+        "url": "https://files.pythonhosted.org/packages/f3/98/dad806c92d9615e84f48af4eaab28ddb17f6ea45d3b7d485f2868de0dab6/shutit-0.9.87.tar.gz"
+      },
+      "0.9.88": {
+        "sha256": "af918bb6bbd41dfb49f758066dfb8f905d825e57cc72148434896193065d577a",
+        "url": "https://files.pythonhosted.org/packages/ab/11/9869fffea1386b961e418087613e737db7db7b4f0a09c203a07636dc91a6/shutit-0.9.88.tar.gz"
+      },
+      "0.9.89": {
+        "sha256": "ab2bd85285865bf31a8a6e681cd3fe122adbb51e19c5b635e9d566f3ea0776f3",
+        "url": "https://files.pythonhosted.org/packages/2e/dd/cc0a418f97fd054eaaaf821d49b20be57a9744c4ac17700c5bf64c9818c2/shutit-0.9.89.tar.gz"
+      },
+      "0.9.9": {
+        "sha256": "fca447d274fe18b0a290e7040ce32339d685cd569255d4c8c60d101c27713f30",
+        "url": "https://files.pythonhosted.org/packages/9e/11/0ff9415c60fa21c369d296f3e20e51f3a43996b2437bcd03366f7755e090/shutit-0.9.9.tar.gz"
+      },
+      "0.9.90": {
+        "sha256": "3b725a601a256cb09265496a32c56387089201fb7593d5707f9e0ada77c71106",
+        "url": "https://files.pythonhosted.org/packages/64/76/dfb45a6b09aa712466743ca0d71d28073e5eb8f5396d4b7997ba379bed6f/shutit-0.9.90.tar.gz"
+      },
+      "0.9.91": {
+        "sha256": "df914e5c2e8e37ee69bb6fda924d1e1206a7f00c5ba3a2608e844db4534db70c",
+        "url": "https://files.pythonhosted.org/packages/69/1c/42faf7619bc79d049401032ef9a900bd8c3f4e09273187ee6b03d1415f60/shutit-0.9.91.tar.gz"
+      },
+      "0.9.92": {
+        "sha256": "1083e472857f9a73a886aed4d52dd77d1b292724035500cc9bc7add617ad0f87",
+        "url": "https://files.pythonhosted.org/packages/dc/9b/91f162d177b9558149e2fe41dbe264a584c3c7c36e97ddcc19ab3959b67d/shutit-0.9.92.tar.gz"
+      },
+      "0.9.93": {
+        "sha256": "c1159dd9f4ade2dcc759d080281f2730245da331701823716574ced4ddb1c39e",
+        "url": "https://files.pythonhosted.org/packages/a0/a3/fb58cc5bb1f592b5c8216bfe19f2caaa00f6405ef7695942ca68298a99c4/shutit-0.9.93.tar.gz"
+      },
+      "0.9.94": {
+        "sha256": "68912ea22b3d7358123f86c6878b117b8b0f1c793bbc59f79c5fdd7b48d08afe",
+        "url": "https://files.pythonhosted.org/packages/df/e2/54c2db81b693bab06e7bec59e5e0fc1a647f0297aa4fb0a93d7913059ba8/shutit-0.9.94.tar.gz"
+      },
+      "0.9.95": {
+        "sha256": "d471206cd92f04ccaab8ecf2953c169fc4536c67457300af665bb75028e0ddc4",
+        "url": "https://files.pythonhosted.org/packages/0b/7c/fd3de36477da628d2f74432fc6034d5ba7e9a040280dc6c98eb72f844004/shutit-0.9.95.tar.gz"
+      },
+      "0.9.96": {
+        "sha256": "475508272f32068b6535413adeac5a249855507df13e820c887ce0ce82b310b7",
+        "url": "https://files.pythonhosted.org/packages/58/4c/74a0aa102dc5a46bd5635835ac8bfcd4c1b8fa01ce6e43027bb6f369e2a9/shutit-0.9.96.tar.gz"
+      },
+      "0.9.97": {
+        "sha256": "3d7c8abd8740177d8df2a2455fd0d5fa2e1f08943129dc51cb5f8ff49eab7026",
+        "url": "https://files.pythonhosted.org/packages/15/66/08473cdd9673eb496cd769daa2a327b6b1010bcd9ed301be4cdcd46757c2/shutit-0.9.97.tar.gz"
+      },
+      "0.9.98": {
+        "sha256": "c5b2a17e8eb28f667241ed2a25bcb1d74acd291e00c92823878299980b033970",
+        "url": "https://files.pythonhosted.org/packages/37/d3/23bb41a153159f64a923453cf48cd6e0f765f88d4b9cfb90167cbe8d4cb8/shutit-0.9.98.tar.gz"
+      },
+      "0.9.99": {
+        "sha256": "7e894a6cc8aaf6e2a8919c3f1c34905602b6c11e32c86433f693c9176f057f42",
+        "url": "https://files.pythonhosted.org/packages/d7/d6/afbb22394d041b9a42dceb37cf1a87e9955fbac2e9c6dd23cb0d3ec74f15/shutit-0.9.99.tar.gz"
+      }
+    }
+  ]
+}

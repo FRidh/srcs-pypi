@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.10.10"
+  ],
+  "meta": {
+    "description": "BigBrotherBot (B3) is a cross-platform, cross-game game administration bot. Features in-game administration of game servers, multiple user access levels, and database storage. Currently include parsers for Call of Duty 1 to 8, Urban Terror (ioUrT 4.1 and 4.2), BF3, Arma II, CS:GO, Red Orchestra 2, BFBC2, MOH 2010, World of Padman, ETpro, Smokin' Guns, HomeFront, Open Arena, Altitude",
+    "homepage": "http://www.bigbrotherbot.net",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.10.10": {
+        "sha256": "ef13d431a18f09188fde2c328cd39c11689c00e7fada86a9bffee2f6be8e765a",
+        "url": "https://files.pythonhosted.org/packages/6d/6c/ac915e9e3f18da79132dec3f33a41e32a24101d498855240d7114d9be924/b3-1.10.10.zip"
+      },
+      "1.9.1": {
+        "sha256": "39a3c3d4d2fbda0cb3d1f0e91f41c3648980269a9040e9e28a56608ecbd22f40",
+        "url": "https://files.pythonhosted.org/packages/6f/c1/c252fefd16663374de2983d947058da911c84982282372df67c42809abdc/b3-1.9.1.zip"
+      },
+      "1.9.2": {
+        "sha256": "f3345e3e72cee7cd5a2b3aaec47d0432d736f46e09420ca86ea72bfcd725f72f",
+        "url": "https://files.pythonhosted.org/packages/72/a4/4f4779744fb2e515f66671652218ccf0a2781bdf4dd04e34a15ec6581493/b3-1.9.2.zip"
+      }
+    }
+  ]
+}

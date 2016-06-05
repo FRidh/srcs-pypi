@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Allows IPython notebook extension authors to make their extension pip installable!",
+    "homepage": "https://github.com/jdfreder/jupyter-pip",
+    "license": "New BSD License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "b5d60d560d0cb793c1bb5f9402db077053e7bc0ad873d0f2542ceb6b1de68be9",
+        "url": "https://files.pythonhosted.org/packages/00/8d/c9b8c7af8ff0e7b5cde21097618307f3138b33e16413c85e5443adf80b14/jupyter-pip-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "f17781c3df97cb93d4defd621193ad32d053c799ae78c1cbb25ce52eb5c3cae8",
+        "url": "https://files.pythonhosted.org/packages/95/4c/6a09cf397526d2490ac656ab7b20f8fba8dbd52ccf3314954a75d8549f9c/jupyter-pip-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "816d3c4d806aa7c50a038159de6d741f5e0c686ec24a9b450cdb6ee630f8ce20",
+        "url": "https://files.pythonhosted.org/packages/59/78/f82d1b07e4717530de707077940f05a1934cf38b34608313b407642f8eab/jupyter-pip-0.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "A framework for creating evolutionary computations in Python",
+    "homepage": "http://ecspy.googlecode.com",
+    "license": "GPLv3+"
+  },
+  "versions": [
+    {
+      "0.6": {
+        "sha256": "8d5bb09290d0e382a344d30d1d2a27ff8fd7edfc8274f59e7ffe11b921aab890",
+        "url": "https://files.pythonhosted.org/packages/86/02/a7688f9e0bfd8f38fcf3ff1059c1d2d7d962541843edf100c8ffd5d1b17f/ecspy-0.6.zip"
+      },
+      "0.7": {
+        "sha256": "cb6ce533091e99ef92f61aa70b824453215d0c192c33dbb91a45d7fcf1d83f4b",
+        "url": "https://files.pythonhosted.org/packages/5d/d9/80df7344aa61c60b984ee082e518b69f977fe09e1cdc7e605aae0914628c/ecspy-0.7.zip"
+      },
+      "1.0": {
+        "sha256": "28e6eb1213b25171a22da4d5182d3204899a22a8cd7bd94b150261d34d66480b",
+        "url": "https://files.pythonhosted.org/packages/3b/46/4614ea88e1695d65442dd3d5e48845a193cc038d10960f085b4bb3ab337b/ecspy-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "c46d7a4d2b93c52ca63bce2d2aa3eb1d108ad3d24f1dca9772a6d9fc8818d3e7",
+        "url": "https://files.pythonhosted.org/packages/73/dc/5338e5d26f0cf19a3e6f8eebb438e328ecddb2f21f946a6b360fdb2c5a01/ecspy-1.1.tar.gz"
+      }
+    }
+  ]
+}

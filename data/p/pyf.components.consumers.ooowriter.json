@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.2"
+  ],
+  "meta": {
+    "description": "py3o-powered OpenOffice.org ODT Writer for PyF Framework with support for rendering (pdf, html, doc, docx, etc) on py3o renderservers",
+    "homepage": "http://pyfproject.org",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "1a7ef145df8f28398d1f765d745db1c5f0a0a64a7328dab8363e340fbdd6968b",
+        "url": "https://files.pythonhosted.org/packages/e8/49/0673519fcec4334aa2bd2f6ee9eeb5b68fad072b8e8a80066dbfa8e33aa9/pyf.components.consumers.ooowriter-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "91916321c77899bef82d926d71af360894ae324c4387be4fc2a83001391ec0ef",
+        "url": "https://files.pythonhosted.org/packages/8c/73/fe8bef410cf1ba62e1558eb89b3c35649fc0405c702e609df103d53859d8/pyf.components.consumers.ooowriter-0.3.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "70ade1602a163a11114bef76994a28d0805663134f9fce899a497223dfa83b2a",
+        "url": "https://files.pythonhosted.org/packages/6e/d2/a7bca2fccd4751268885dd9deab52792711084657145e8bd969571ff8d6f/pyf.components.consumers.ooowriter-0.3.2.tar.gz"
+      }
+    }
+  ]
+}

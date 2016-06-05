@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "A kernel for trace-based systems",
+    "homepage": "http://github.com/ktbs/ktbs",
+    "license": "LGPL v3"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "d4a449754f6847eca1c7202d731d893b760a8fba0b5a644e951606c95682c425",
+        "url": "https://files.pythonhosted.org/packages/6b/c4/01195ba96f0e0b5ba056e7731d862afed915deb80a6a9d8060693eef27a1/kTBS-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "f704d1b77fb2d3496c80dbd6aac2e1ad0bb1a18e60d6d162204f7f0114f1ac59",
+        "url": "https://files.pythonhosted.org/packages/dd/c9/573cff56db8e754a055f3d0aab8e93b4a9734c4d4fea81cdacfca12221c0/kTBS-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "633cd844afaf0c210e34d99817613d48a67735e9161c78576010715ab683641b",
+        "url": "https://files.pythonhosted.org/packages/cd/35/49d9eb9e50dd6bd71fe4424595a4d81bcbf9526bb89ecba165ebbd25159d/kTBS-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "eca81488037c16354226c72e6f69dd2724a2345e6e2e8d296a7b21161e83f3bc",
+        "url": "https://files.pythonhosted.org/packages/b5/6b/67238e6193210c1dd4de2e0afa91db3b82cdafb70e6e4d10dc8378ac41f1/kTBS-0.4.tar.gz"
+      }
+    }
+  ]
+}

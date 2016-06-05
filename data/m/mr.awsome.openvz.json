@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.0b2"
+  ],
+  "meta": {
+    "description": "A plugin for mr.awsome providing support for OpenVZ containers",
+    "homepage": "http://github.com/fschulze/mr.awsome.openvz"
+  },
+  "versions": [
+    {
+      "1.0b1": {
+        "sha256": "b8dc8d68f6aa6312195a15474a5399431d233238af39fe6453d3a01942dd46d0",
+        "url": "https://files.pythonhosted.org/packages/d6/72/8cf2e39d3e4018c6a1bbe68a378a149aaffe8ec05769bccfc78c37d07faf/mr.awsome.openvz-1.0b1.zip"
+      },
+      "1.0b2": {
+        "sha256": "cf7ac393efc9aafee6af0083c45db6695ef7480e28aeae88c1d675d5a9acb423",
+        "url": "https://files.pythonhosted.org/packages/48/b7/d27fd30c5e9e053a3980d22657238c06efc497c178b38a9c8ce5b227f9a0/mr.awsome.openvz-1.0b2.zip"
+      }
+    }
+  ]
+}

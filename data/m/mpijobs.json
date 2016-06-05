@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "Run many jobs using MPI processes through a master/slave approach",
+    "homepage": "https://github.com/ziotom78/mpijobs",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "f6eac1cd2a72fa48ac3400ab8507180f2df74ed7496d6a41c724aa3751f80900",
+        "url": "https://files.pythonhosted.org/packages/ce/d9/16f392edcae154f35df56c02428f840f85c5f2f62de45d371cbc9b24a842/mpijobs-0.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "5806dd063df176878cd13fe36a43887a93b4fc57bc4c8e3cdf88e21c424a3f2b",
+        "url": "https://files.pythonhosted.org/packages/47/ea/4c9496a2f149e4627cc78e764c2e194a040559880cdef143a9ae5c0a630b/mpijobs-0.2.0-py3-none-any.whl"
+      },
+      "0.2.1": {
+        "sha256": "640869d2609e9cca522a3ef3992e4266d42cff8cd3310cf3d8dd7ecaf70105c2",
+        "url": "https://files.pythonhosted.org/packages/22/5f/d0e8ef3a2915ff58c126199316d537db90dc42ec2a7d0bf14159a4e5cd00/mpijobs-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "e33d5f56c51297d185eb07bfaad473e44278a4bc4fc9d0fdf4240a5b69c59ada",
+        "url": "https://files.pythonhosted.org/packages/ec/a9/f3dd8a990063a6ed70329688f4af78017c66cb6d3dc72e960ba8052e2e90/mpijobs-0.2.2-py3-none-any.whl"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0rc3"
+  ],
+  "meta": {
+    "description": "Djaken is a complete web-based notes application for Django",
+    "homepage": "https://github.com/ethoms/django-djaken/",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "1.0rc2": {
+        "sha256": "c693064f64849dc5a029492f257a3d64e93ec1108cf3e4c9f3b6a205051fdaa1",
+        "url": "https://files.pythonhosted.org/packages/27/63/f00c25b3f3dcca30fb5feb0d7dfecbb4da802e341963be2e846019ec9d21/django-djaken-1.0rc2.tar.gz"
+      },
+      "1.0rc3": {
+        "sha256": "c308fc621e70e1dab50fee0858742e8d22e2a7f0782914ebbc00c5a11b3f2fc4",
+        "url": "https://files.pythonhosted.org/packages/78/71/f39e53c1feb08e2df1a39f3f8ab98adaebb6dd5de769f471299b65d2bbf3/django-djaken-1.0rc3.tar.gz"
+      }
+    }
+  ]
+}

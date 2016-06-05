@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "A Sentry extension to add S3 as a NodeStore backend",
+    "homepage": "http://github.com/ewdurbin/sentry-s3-nodestore",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "08e3e67e2efcedd8874463628c7bf4e6e3de0a2df0b7789f1de8a54fa4bb7c0d",
+        "url": "https://files.pythonhosted.org/packages/b3/8d/288f4d57367e182465e8237f1a46ade964bce9ec2f91a1f177c2a904b411/sentry-s3-nodestore-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

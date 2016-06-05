@@ -1,0 +1,74 @@
+{
+  "latest_version": [
+    "1.5.0"
+  ],
+  "meta": {
+    "description": "Pure-python wrapper for libusb-1.0",
+    "homepage": "http://github.com/vpelletier/python-libusb1",
+    "license": "LGPLv2.1+"
+  },
+  "versions": [
+    {
+      "0.1.2": {
+        "sha256": "ed280f35999c70cd8a4d052a7890ff1206e07691329f04225e35f39dba51b1ab",
+        "url": "https://files.pythonhosted.org/packages/5c/7d/18638d9f830cd4b2d3359cd10c339f7c66ba5beff9fa1f98e8f0fe2b6930/libusb1-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "24f0fda7391fb869fa783144e74ea1cce77e27b7c0b724518b0952baa09ccbda",
+        "url": "https://files.pythonhosted.org/packages/c4/2a/244095e765c64dafe29135935ac53ccc8c265d3f22f884ee87fe8a7d8510/libusb1-0.1.3.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "23ed5775d82d415c4dc037c499184a783359c8f909ba8a01ba3fb2fa204df644",
+        "url": "https://files.pythonhosted.org/packages/ef/92/b0395b3fd07505eac0231732808ef5993247f1cdacd4f07cf37504dd5cec/libusb1-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "e809d026cce4d52eb3aa7d0879ad1bb3192dc375c20f222833b571394ecc52e2",
+        "url": "https://files.pythonhosted.org/packages/62/fd/86c54451daaf4aec41a763e3137b3d5bd4b1f92c51fd778c7c02d1415897/libusb1-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "8cb678d6ffb3b4425a87a300c1fb00f29be6476cacdc282065bfd42e482a0cd6",
+        "url": "https://files.pythonhosted.org/packages/ce/95/e47a6de77d372a74eeb799601dc238422fa12f3f4ca3a7b0e156cf954fb2/libusb1-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "3f2f955d6277dd53031b4c57905339bcadb2a45333f13fa2540c0cef70bda86b",
+        "url": "https://files.pythonhosted.org/packages/93/c6/0fe842d6d841dd84352fb9f24f5bbecdc47a9bf092527ba6f1752a8ecd90/libusb1-0.2.3.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "8abc1765a82107c39469ef08d20684339350a5cdd60d921ed24378ea65cb198e",
+        "url": "https://files.pythonhosted.org/packages/b9/e2/0835f776d94a4096bd35c5c5c5b850931b38020a4b153772d2a27552ab5c/libusb1-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "3b7adae5020842503aebce5f275a2965b06c8db292dec4ac2889c62135f67860",
+        "url": "https://files.pythonhosted.org/packages/74/13/aff070092f885e19ae970d04eb6f8cc4282e1d81fe124ebdb7c93cdc767e/libusb1-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "1f59697d91a0549574e38708d939fa86c2358fd7c1559f15d1ed7520339b141e",
+        "url": "https://files.pythonhosted.org/packages/ad/9d/eca70d867b5b9347483d14f591d513945e7b1391e147edf81bf80b164ba6/libusb1-1.2.0.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "36f2777f43053876810debe867dd93c047cc3cc990c68aa4797d9dffc1170d7a",
+        "url": "https://files.pythonhosted.org/packages/0f/7e/fd8fe4c1a8a1c0b9c7d2c4d309fddc3a302eeaf3d1a7d2275b64a38fee31/libusb1-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "8e1ac80f4476ef354e452275bf41dd1c745ba71b49c3c3cb836ac63860a8da19",
+        "url": "https://files.pythonhosted.org/packages/18/70/474b9d2a2430670e582c4aa2ef3bee0223ee07a28a579fef3625e90766b0/libusb1-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "0bd8c28c2b62d053afacec8bec8b6512315780f25cc355fa450b8239b192e1e0",
+        "url": "https://files.pythonhosted.org/packages/2a/6d/46fe1a61c74b565bd42b0655f0058e6402c9cb603c9b2757edfa5ae96554/libusb1-1.3.2.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "18c0c128ec8c32dd977505f5767125a137dfad67b1ebfd7f27ab343814660373",
+        "url": "https://files.pythonhosted.org/packages/69/e4/afc7849729e33a339b1991d7123fd2b97ed456cb3f0a078a26d988c2d2cf/libusb1-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "454230c59a3924754c6703e104e07f5b2ddb9e0a0f71cc6fa4f0a8ae2bd4aa1c",
+        "url": "https://files.pythonhosted.org/packages/ab/b1/74ce4a4fe7f03a0a1e7da03e5dae2ffc94d525233341d224963ec760e161/libusb1-1.4.1.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "88b26387c0ae5ea1d9410db1d57b9f8cbbf08e083e08e1cfaffb5fec74e230db",
+        "url": "https://files.pythonhosted.org/packages/10/92/00ad3d479d73da83ee0276c48698a767f0b31be735c2bca156ca90f45648/libusb1-1.5.0.tar.gz"
+      }
+    }
+  ]
+}

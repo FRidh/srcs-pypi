@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.3"
+  ],
+  "meta": {
+    "description": "zope index to query a daterange on objects with a daterange",
+    "homepage": "UNKNOWN",
+    "license": "Simplified BSD"
+  },
+  "versions": [
+    {
+      "1.1": {
+        "sha256": "48f174a85709e32abe4942c34af774a7ecd146bcd56f651d44ebcff001f52864",
+        "url": "https://files.pythonhosted.org/packages/5a/b2/3c38918e5bce1cc1cb1d9d75509b173d3e583e69c2a8beba9f02cb5595b4/Products.DateRangeInRangeIndex-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "f077800f8569638689873eeaa934f540fcb80081bf5825fb475e1d72bd9b91bd",
+        "url": "https://files.pythonhosted.org/packages/06/b5/57af75a7c00185ba8b9d2a8460146fa42be8c5814e1c94bd03f36be0a467/Products.DateRangeInRangeIndex-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "1ff6d6792173fa9d96c271de7c39c17c50b5dcb9c3bc29a4c20662fed2da24b2",
+        "url": "https://files.pythonhosted.org/packages/bc/f6/60a3325946198ae5e6606b1f51fe3d7983fe130bb5ace4eae8146dad9fa4/Products.DateRangeInRangeIndex-1.3.tar.gz"
+      }
+    }
+  ]
+}

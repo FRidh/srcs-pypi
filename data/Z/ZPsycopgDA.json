@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.4.6"
+  ],
+  "meta": {
+    "description": "Zope bindings for psycopg2",
+    "homepage": "http://initd.org/psycopg/",
+    "license": "GPL with exceptions or ZPL"
+  },
+  "versions": [
+    {
+      "2.4.4": {
+        "sha256": "b5637a3a2a64a25d2de6a526b8abc0954b21c18234c9ece366ff447cf1497763",
+        "url": "https://files.pythonhosted.org/packages/a9/f1/a260495b9d35e3dac2dc5c31d039c2bec9426de1820cf525efc7c3854d94/ZPsycopgDA-2.4.4.tar.gz"
+      },
+      "2.4.6": {
+        "sha256": "644e440e46641dcf9e236f5c24cff0def3a81271ff85aa895dfc0afde42d00b5",
+        "url": "https://files.pythonhosted.org/packages/a7/28/b5a74123cbcab89b582a2a648c0f303a8bcdb894801ea57637f973bc9a41/ZPsycopgDA-2.4.6.tar.gz"
+      }
+    }
+  ]
+}

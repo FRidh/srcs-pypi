@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "Python interface to OpenSlide",
+    "homepage": "http://openslide.org/",
+    "license": "GNU Lesser General Public License, version 2.1"
+  },
+  "versions": [
+    {
+      "0.5.1": {
+        "sha256": "3b4de935c900bf4415691c265c29719eccdfa4a36407ca581024946e3db4872b",
+        "url": "https://files.pythonhosted.org/packages/c7/ed/81990cde1f7bcc7d6bc30250d7b27d46e2b9ae573e9837077b8e3e2596d5/openslide-python-0.5.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "65f2702992c83c1f9ebaba082cfd4600024bce2929cdf313777e30e0c9297677",
+        "url": "https://files.pythonhosted.org/packages/04/14/78bdda1f10b888446d371bfbba39412ab48ff2d4198566e308c50c230171/openslide-python-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "f8f1082f95145202da15315497b36d16e9bfd3438629068f61a601f133d8954a",
+        "url": "https://files.pythonhosted.org/packages/a3/4a/989572d190260568192d3095715e79fdd77c3b2f18b5dfb1fbffbfb0e2c4/openslide-python-1.0.1.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "3166ca9ef0a72228658ca9f485304c1204ee745bb6ca2c349d85472ee599bcc1",
+        "url": "https://files.pythonhosted.org/packages/ae/c3/a691d533287435823f73b6812734ca930cf2ae48a56ebee0197de74e328d/openslide-python-1.1.0.tar.gz"
+      }
+    }
+  ]
+}

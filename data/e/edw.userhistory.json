@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.6"
+  ],
+  "meta": {
+    "description": "User login history",
+    "homepage": "http://svn.plone.org/svn/collective/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.5": {
+        "sha256": "5b1ab06e9c525909725b7c0c7602d5a57385a7298eb8bd56151d20a1a6137bf0",
+        "url": "https://files.pythonhosted.org/packages/16/58/6bf10d227f28e091ce9ef93f0e64c9cbb75768e54108e5325277b6067254/edw.userhistory-1.5.zip"
+      },
+      "1.6": {
+        "sha256": "3380ccb3f9da84b3c582fc4e48df06ddb9376e0da5ccbd8886d041283590c22f",
+        "url": "https://files.pythonhosted.org/packages/2b/42/457ba935529a062a7fd8ea0f395a0635e5292e8fc62a1bdbc9b6f1550689/edw.userhistory-1.6.zip"
+      }
+    }
+  ]
+}

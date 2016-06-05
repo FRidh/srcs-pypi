@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.59"
+  ],
+  "meta": {
+    "description": "GD Package",
+    "homepage": "http://newcenturycomputers.net/projects/gdmodule.html"
+  },
+  "versions": [
+    {
+      "0.56": {
+        "sha256": "0ff4fe3cbb78c51102b6cf456d5c7b88c2452bb8a6cbd7ed50929b2a8774c7b9",
+        "url": "https://files.pythonhosted.org/packages/9e/16/7eafb88be50bfe48b0145143b8f0f76aa31a15071bfd1f1b495ec41165e8/gdmodule-0.56.tar.gz"
+      },
+      "0.58": {
+        "sha256": "203f10a85e8048ffd3d732ab669fdd245ed192a18c80ab5e6b21e70c5cc6da49",
+        "url": "https://files.pythonhosted.org/packages/67/76/1077e58101f926c75431a7cfd797a0c1c601a836a48f5c5c01ebe7375a2f/gdmodule-0.58.linux-x86_64.tar.gz"
+      },
+      "0.59": {
+        "sha256": "b9af5e92d33cdc11346421e8e9a51f6980269a9d7311ef95e922f96da9ea5e57",
+        "url": "https://files.pythonhosted.org/packages/8d/83/7c7bf4186de4f368962d65f2556fd18e2816d13443a0c5ff2bc5e60ecf19/gdmodule-0.59.tar.gz"
+      }
+    }
+  ]
+}

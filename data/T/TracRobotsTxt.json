@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.0"
+  ],
+  "meta": {
+    "description": "Serve a robots.txt file from Trac",
+    "homepage": "http://trac-hacks.org/wiki/RobotsTxtPlugin",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "87520663ef64932db6d6589ee2b5664ea0c2dc582b62ddb61c3f6a5a27e09059",
+        "url": "https://files.pythonhosted.org/packages/2b/a9/658a9608c8046f65674f958803b20b5f703acc58bf0de909cffa67ee9b37/TracRobotsTxt-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "78509402045cc60d38a0ef630ebdda46a69449be0d08e5807588367d6be289b9",
+        "url": "https://files.pythonhosted.org/packages/91/77/13d11d7cabcacaf93f4c7881708e5e49a9ef0d2af44010cd61deb0d20cb0/TracRobotsTxt-1.0.1.tar.gz"
+      },
+      "2.0": {
+        "sha256": "81d9225d22d885606ebc25aedc51d1fbff85b6f76fb8795196400fe0bb19510f",
+        "url": "https://files.pythonhosted.org/packages/07/ea/6c912b743c73dfc3698b27fed2b440137a5754be4c3b5da9a460a62b379f/TracRobotsTxt-2.0.tar.gz"
+      }
+    }
+  ]
+}

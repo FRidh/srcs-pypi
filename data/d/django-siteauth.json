@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Middleware to allow to deny access to particular URLs",
+    "homepage": "https://github.com/cbmi/django-siteauth",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.9b1": {
+        "sha256": "1a1001884140acc9fc10a4ca53cdc5dc30a16117af733e910a2abf18d05a3dd7",
+        "url": "https://files.pythonhosted.org/packages/20/1c/c40fb22aed81ee0aae3f2867c32242c19bbf75f249263ee7faf3562dd605/django-siteauth-0.9b1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "64d17e2b5316523131ec669517b51fd14fbd788d10906134421e02aa17ba2ca8",
+        "url": "https://files.pythonhosted.org/packages/23/10/c8d1f3a5e770ebe322e855ed432432635d9e580f630d7e6f5554b264a847/django-siteauth-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

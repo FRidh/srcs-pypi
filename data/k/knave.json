@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "Authorization library for WSGI applications",
+    "homepage": "https://bitbucket.org/ollyc/knave",
+    "license": "Apache"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "7b954529238d06a5775f9762799bc51635bb913f500354716733840a1fe4f57c",
+        "url": "https://files.pythonhosted.org/packages/d5/cd/71e08e5228f32580c44a75e2a105409f6fbe2b2ef8f10bce0d7cfd03c535/knave-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "e4c63c9484e4bcef531b4c31efe3746e862cba85838e46897eafee6072366fd4",
+        "url": "https://files.pythonhosted.org/packages/94/cc/062c61d4ae3795f4c226b275c8f166ffcde5bb66224c6d5cda0cf200a6a5/knave-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "a34bceeff25b137c7b17195bd2b7e20efaa2e8ef8377c61717615d0e1467d995",
+        "url": "https://files.pythonhosted.org/packages/99/ee/7ccd8572cfd404a4e123424a2cb9eaa9dd6434872373dc6ea19e37008213/knave-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

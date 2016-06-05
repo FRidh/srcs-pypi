@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9.5"
+  ],
+  "meta": {
+    "description": "Prat fork of Jeffrey Gelen's gevent Websocket handler",
+    "homepage": "https://bitbucket.org/Jeffrey/gevent-websocket",
+    "license": "Copyright 2011-2013 Jeffrey Gelens <jeffrey@noppo.pro>\n\n   Licensed under the Apache License, Version 2.0 (the \"License\");\n   you may not use this file except in compliance with the License.\n   You may obtain a copy of the License at\n\n     http://www.apache.org/licenses/LICENSE-2.0\n\n   Unless required by applicable law or agreed to in writing, software\n   distributed under the License is distributed on an \"AS IS\" BASIS,\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n   See the License for the specific language governing permissions and\n   limitations under the License."
+  },
+  "versions": [
+    {
+      "0.3.7": {
+        "sha256": "c9507b068e369a578ea4773e28d8c903247071e4204e727078644d7ec097a080",
+        "url": "https://files.pythonhosted.org/packages/61/46/92f7cd1e99092cedb119e7558d2a297650075885797423ceb6af73218235/prat-geventwebsocket-0.3.7.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "fb0d1192f17b407fa7f26404621357780bd017a099590035aab532f1e6438d91",
+        "url": "https://files.pythonhosted.org/packages/f4/28/0294cb3e95fce5aa15734723f383e4d6df4e626b920dfc76885425f342e8/prat-geventwebsocket-0.9.5.macosx-10.11-x86_64.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "7.0.0-rc1"
+  ],
+  "meta": {
+    "description": "Disconnected Universal IMAP Mail Synchronization/Reader Support",
+    "homepage": "http://www.offlineimap.org",
+    "license": "Copyright 2002-2016 John Goerzen & contributors, Licensed under the GPL version 2"
+  },
+  "versions": [
+    {
+      "6.5.5": {
+        "sha256": "dbc52e0608e40c22facb2e439c0945bbc3af301516ff2ded574ce392bdb8942c",
+        "url": "https://files.pythonhosted.org/packages/17/d7/753c5d7c10d806460edc833d3a520cec97547bc6189631b67feb692fe4be/offlineimap-6.5.5.tar.gz"
+      },
+      "6.5.7": {
+        "sha256": "3db6a60a3fd77a58d4e84b923900f9a96b02200c13c2d63d7ffe6759f5d432b4",
+        "url": "https://files.pythonhosted.org/packages/2f/3f/d43ce50a0c424640cb0d26f28b202a8a7aaf36c5afc00700b79a7b4436a4/offlineimap-6.5.7.tar.gz"
+      },
+      "6.6.0": {
+        "sha256": "b9c7733873fce6715fa975917e933e4141f3e2d08f6b133c7b70ef8b82e81d84",
+        "url": "https://files.pythonhosted.org/packages/32/90/bea737e51ee754008a919b7e018a98fc0c3aa1a7286031753ba62788eb08/offlineimap-6.6.0.tar.gz"
+      },
+      "6.6.1": {
+        "sha256": "a030e4f824ae5eeb9b95de04a1f7be6798ddf53e940847e09b00632cd00b2ed8",
+        "url": "https://files.pythonhosted.org/packages/2b/2b/b49224da2fe16fcf74d4da6f179181e56e1b5a12b0c7963d73aa58fc9138/offlineimap-6.6.1.tar.gz"
+      },
+      "7.0.0-rc1": {
+        "sha256": "b5fcfd388fd7c46542931039eb8e0ec479359fc05f6d9d42ada80f5c29ac531f",
+        "url": "https://files.pythonhosted.org/packages/a6/aa/b35e9d11d4e1f7d22b8fb2c5f2bfc45b6fb56e05035901e0761b809965ad/offlineimap-7.0.0-rc1.tar.gz"
+      }
+    }
+  ]
+}

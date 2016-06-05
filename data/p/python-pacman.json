@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Simple Python interface to Arch Linux package manager (pacman)",
+    "homepage": "https://git.coderouge.co/coderouge/python-pacman",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "5c1abdf8c453fd2f850668394255b0d1822cb5a46bb488e518f21363061c0747",
+        "url": "https://files.pythonhosted.org/packages/ea/2c/176bd2fdeff4b8c48dbeda4410570719fad2b9b86c5b25d2239e2e398f62/python-pacman-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "2c7999cf7e3376848b40732fdace93ab7fa96f2adfd57113b8b389ff5f048880",
+        "url": "https://files.pythonhosted.org/packages/b1/06/4c0ef400707f01954a4b0fd3d253325e28c712d8b3fa514f44002db7ae55/python-pacman-0.1.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "32730b010b3aee1efd23ec6b7348e7a8e8518a56e1cf4290df7284ac0948c914",
+        "url": "https://files.pythonhosted.org/packages/dd/40/ac5aba0ad2b452da4a1fc5097862fa2b6aad44f356837792192ca3527acd/python-pacman-0.2.tar.gz"
+      }
+    }
+  ]
+}

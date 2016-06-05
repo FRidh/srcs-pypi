@@ -1,0 +1,105 @@
+{
+  "latest_version": [
+    "2.8"
+  ],
+  "meta": {
+    "description": "Invoke py.test as distutils command with dependency resolution",
+    "homepage": "https://github.com/pytest-dev/pytest-runner"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "f6fb90ce5bc4d5f349c699ec0ee4e084b5e2220d7dc203b351ed31bfa1f6cffe",
+        "url": "https://files.pythonhosted.org/packages/31/ba/7518a0b75aec727bb9d59931db84b886deed954c6043e292a2ee50bcf129/pytest-runner-1.0.zip"
+      },
+      "1.0b2": {
+        "sha256": "abc2abda1b0a435822faf5bb7f372435b58ad7b04ebf156a7c03f31f46609542",
+        "url": "https://files.pythonhosted.org/packages/ee/e0/8df7aa66766e278cca76febb1c0f20d658836f34cdd39c2fffe85ab24b5e/pytest-runner-1.0b2.zip"
+      },
+      "1.0dev": {
+        "sha256": "bee5aaca2e1ae9604942b5e3d0b53cadfcd18b5b1ed52565c1e858073af8cc16",
+        "url": "https://files.pythonhosted.org/packages/65/61/05c2ddff49beb3b25b6cc298b9f7bf20711409ed78996677902ad113d902/pytest-runner-1.0dev.zip"
+      },
+      "1.1": {
+        "sha256": "47d672ca89c414cd3b7e1d8d0f95c56f44876ee1cc0d0409426b55cba9b989d2",
+        "url": "https://files.pythonhosted.org/packages/56/52/7b2f01bd5f26b1cf2109d93e9d43f3c709b75d0e19787697191c51a2f7cd/pytest-runner-1.1.zip"
+      },
+      "1.1b1": {
+        "sha256": "1a11566efeccb8bf247c830ffa1720b4eea2c7bf6b1be4156cc1a31a961d66ac",
+        "url": "https://files.pythonhosted.org/packages/7b/57/4788ce182bd6d50487f42ad111fe4ad6701007157314b8d22645fadd554a/pytest-runner-1.1b1.zip"
+      },
+      "1.2": {
+        "sha256": "1a7ae452115f454a92f94f124c093eae65c8f3cc942d2e16a6b879b813396ead",
+        "url": "https://files.pythonhosted.org/packages/42/0f/d3040864641345526ef7b7b61a4d80b119e1b3fbf11c330d67e8355e6666/pytest-runner-1.2.zip"
+      },
+      "2.0": {
+        "sha256": "65178b9f8367c84b7af196722d1132d236cc5abbafce1910c0fa49db8bd31483",
+        "url": "https://files.pythonhosted.org/packages/c6/b9/526311371a74cd30cceceff5edb75d13bcd0598de559d9f53adc86d2f839/pytest-runner-2.0.zip"
+      },
+      "2.1": {
+        "sha256": "40cdb1b69e6fbd11eed1833dc4a38b700bdb72d75877923d8fd1689b9e96f983",
+        "url": "https://files.pythonhosted.org/packages/14/06/40bc387ce77158f908a0625b3f90deb80eccf402966658e0c016a8d3cbaa/pytest-runner-2.1.zip"
+      },
+      "2.1.1": {
+        "sha256": "fd0416ace547726d300d2a72c51a3e8bc0a1a4bc6cf9d4ecfa4227134c1285ce",
+        "url": "https://files.pythonhosted.org/packages/43/8f/bfabd2f0593fcc77c19ef701f22696c27dcfdabd70649a35c0bb792e3c5b/pytest-runner-2.1.1.zip"
+      },
+      "2.1.2": {
+        "sha256": "544b53ade15931ad9bc74fecd897c49b2f3a9a1affc94bcbd88508548f6abbfc",
+        "url": "https://files.pythonhosted.org/packages/ab/61/c8b64b1f828a14c30763ebe49ad05d2c7d123cc606ada3ec456abb1956e5/pytest-runner-2.1.2.zip"
+      },
+      "2.2": {
+        "sha256": "64b752897ebc5108f795bf5476a04e7d58aa0c281036c85591ba15ce28825696",
+        "url": "https://files.pythonhosted.org/packages/0e/7c/bd5fafea6503128118547ce8dd673685ee0832e536bcec7dd17f7014bf03/pytest-runner-2.2.zip"
+      },
+      "2.2.1": {
+        "sha256": "fe0a772d7456c503c59b49a1cfde80c6079c01d3e5b6bdf7baff02e6b21523c0",
+        "url": "https://files.pythonhosted.org/packages/0d/41/80d745d1ee43a3e98c0ea1ba728adfd0faa90043072adaa370b53eb6d924/pytest-runner-2.2.1.zip"
+      },
+      "2.3": {
+        "sha256": "d6fa9be850d36ee26e46296833b3710587451caab1844aef78ee24d789b61d6e",
+        "url": "https://files.pythonhosted.org/packages/77/7b/1b418747591d009bb5c13ea67ccff1383c68c15ee64c0f3f56f03aedecf4/pytest-runner-2.3.zip"
+      },
+      "2.4": {
+        "sha256": "9b6edb388681c6c507776e2e5922b0a88b329ae132e64080f93e363bc6c8ac37",
+        "url": "https://files.pythonhosted.org/packages/dc/be/c498e62ba44e93a58f18c0bea81105689a8ff5529966c1a4167b326f54fc/pytest-runner-2.4.zip"
+      },
+      "2.5": {
+        "sha256": "c584a8fae4fd9d4e3a5f36d04502ab5238abc89a84a17e70f21efce20850a04e",
+        "url": "https://files.pythonhosted.org/packages/da/3d/1ff51e6c6a7180b1436b16bd9cb0e4842b5a35ec7e3bc0026a9843f5ae6e/pytest-runner-2.5.zip"
+      },
+      "2.5.1": {
+        "sha256": "9c2d1d1ab4595d5cd5eef6950e3e11ca8f1719c7504d16a111ae1f5757660a7f",
+        "url": "https://files.pythonhosted.org/packages/89/97/2ba6851996020d6cf1574a77110fffac25ac46455199bc1334555ec05a95/pytest-runner-2.5.1.zip"
+      },
+      "2.6": {
+        "sha256": "7a7353be8658ba085ba548747dd51783467fcee241977dc1ae03e6450261c9e0",
+        "url": "https://files.pythonhosted.org/packages/51/bb/240c324f1ba7247cf87c78d7f7f37dd4564fa17d130079a7548afe6bfe40/pytest-runner-2.6.tar.gz"
+      },
+      "2.6.1": {
+        "sha256": "761c6bb1e6ffe3788f23a3b18170a4d83d1d0b29ffaff8213dbc5ff6fd41714c",
+        "url": "https://files.pythonhosted.org/packages/56/11/bd93dbb9f45d251490a18acfb1869db274ee2b096f4e145ee586ebb1baef/pytest-runner-2.6.1.tar.gz"
+      },
+      "2.6.2": {
+        "sha256": "e775a40ee4a3a1d45018b199c44cc20bbe7f3df2dc8882f61465bb4141c78cdb",
+        "url": "https://files.pythonhosted.org/packages/de/7a/a6b4f85476e29fcb35a5d4d7cf4b8d91b8919dedf8e7b070877d83deaa80/pytest-runner-2.6.2.tar.gz"
+      },
+      "2.6.3": {
+        "sha256": "97660d94d44543ed2cfe7482706144c15cf229c94ad2073b381b7feecec4dfa2",
+        "url": "https://files.pythonhosted.org/packages/58/b6/494d47b1212704b886323cd05fc4c7dd490005ebc1ef911695b9d5cb4bff/pytest-runner-2.6.3.tar.gz"
+      },
+      "2.7": {
+        "sha256": "7b7682a5b4c00ed249cb72e0ffa06eec088a5fe9078e84c76517c90f1b3ce3f8",
+        "url": "https://files.pythonhosted.org/packages/59/c6/889943024f981da56d1e83a26691fbeb40a773c68a7d7e77023b18808b94/pytest-runner-2.7.tar.gz"
+      },
+      "2.7.1": {
+        "sha256": "c335d1821567e6d489451e99ded1a83f5657b99c6549e6d7029e42461c4ea72d",
+        "url": "https://files.pythonhosted.org/packages/99/6b/c4ff4418d3424d4475b7af60724fd4a5cdd91ed8e489dc9443281f0052bc/pytest-runner-2.7.1.tar.gz"
+      },
+      "2.8": {
+        "sha256": "1ec44deddaa551f85fd563c40a4c483a2609aca1f284a95399566a74d0680d5c",
+        "url": "https://files.pythonhosted.org/packages/46/6c/ff61a9e0d513222afa3529bdb565a465812b7e50b218a5afd705f46b258c/pytest-runner-2.8.tar.gz"
+      }
+    }
+  ]
+}

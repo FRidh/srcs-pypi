@@ -1,0 +1,37 @@
+{
+  "latest_version": [
+    "0.1rc2"
+  ],
+  "meta": {
+    "description": "BrainFreeze is an SQLAlchemy plugin that supports object composition (as opposed to \nclass inheritance).  Google for \"composition vs inheritance\" to get the general idea.\n\nAnother way to think of BrainFreeze is that it's a plugin for proxying properties on\none-to-one related objects.  BrainFreeze uses SQLAlchemy's AssociationProxy for the\npython properties, only BrainFreeze goes the extra step of making those properties\nquery-able using SQLAlchemy's session.query() machinery",
+    "homepage": "http://brainfreeze-alchemy.googlecode.com/"
+  },
+  "versions": [
+    {
+      "0.1a1": {
+        "sha256": "a2f35b29b28dc8e130a7b4c47c01dc770bd983046c16047f9853806f1b0e1ded",
+        "url": "https://files.pythonhosted.org/packages/9b/cd/106731c987bf83318e7ec5eb49b05d468b72e14b2d3115048b6f2c28b79d/BrainFreeze-0.1a1.tar.gz"
+      },
+      "0.1b1": {
+        "sha256": "eb17e50ebc9bddacaba7d879263b2099ed64dabbf84f4fc2639398cdef6c2bdf",
+        "url": "https://files.pythonhosted.org/packages/6f/4b/250a5d159f876f054e8f0229fd5015ddbe9911bc1465f3fb3cfc6e42391a/BrainFreeze-0.1b1.tar.gz"
+      },
+      "0.1b2": {
+        "sha256": "e10d0c63514b9919bb40433394d1f587635db34552ea9b782fb80400bd0445cd",
+        "url": "https://files.pythonhosted.org/packages/cb/2c/f49bec6d6709c46a3c459e2a13d7d7ab732bfc63fb5a44416c0dd543cd4e/BrainFreeze-0.1b2.tar.gz"
+      },
+      "0.1b3": {
+        "sha256": "646afd73e960c7d791a20c9ae4a9c8aa8889a2a9a0ed850788dd2c069af393cf",
+        "url": "https://files.pythonhosted.org/packages/d3/b9/c72e17b37f62cbb24ce21e7f7789a7703128063cf56207a0dc23224037e0/BrainFreeze-0.1b3.tar.gz"
+      },
+      "0.1rc1": {
+        "sha256": "e2cea816e4c16c33a5162cceb2d560972bd96f3170dabebbba07a40629038651",
+        "url": "https://files.pythonhosted.org/packages/d3/98/1a3250a23ef39b3e67c7e4693651ff7e6db3308029d0bed6c46e2480e0a5/BrainFreeze-0.1rc1.tar.gz"
+      },
+      "0.1rc2": {
+        "sha256": "66ce82286c879d75615997a0c66716b1a6448477bd2636e06207a3bb42df01bb",
+        "url": "https://files.pythonhosted.org/packages/d4/92/89f7b4d3e8849121603f8ebd2603bca59eb24652adce38389fcbc5ac4ece/BrainFreeze-0.1rc2.tar.gz"
+      }
+    }
+  ]
+}

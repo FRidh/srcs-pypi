@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Leonardo module which wrapps django-hijack allows superusers to hijack (=login as) and work on behalf of other users without knowing their credentials",
+    "homepage": "https://github.com/leonardo-modules/leonardo-hijack"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "057e1a07dc10897910df07e037dcbf7cc2df5771b3248cf1516b2c4f5c372b03",
+        "url": "https://files.pythonhosted.org/packages/c3/b1/ebd462bd2049aa895f06ab6d04dbd91132d73389bbfc9823605e2375622f/leonardo-hijack-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "fd59a5473b5c6b4f7a0023d42d4573210794c8674123e425df7f7f4c72b36383",
+        "url": "https://files.pythonhosted.org/packages/28/2f/bab1ccc53a0c314fdc3b346a7a9651d59a6c1d66d9d539e5f42286137cdf/leonardo-hijack-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

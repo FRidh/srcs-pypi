@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.1.2"
+  ],
+  "meta": {
+    "description": "OpenStack Monitoring as a Service",
+    "homepage": "https://launchpad.net/monasca",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "583fe43245e38a08e15926e4cee7bfd427e9356dfaa77f24bfea385d971f7952",
+        "url": "https://files.pythonhosted.org/packages/25/a1/2c11c83f4bf7265e240a442fe96c46e575288c7c61a3698a148cfb6ca431/monasca-api-0.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "0702f26dc100c426af34aa9280b96c83725aa304d48db0d04af8e7a2c8dd0f48",
+        "url": "https://files.pythonhosted.org/packages/58/83/92072baa51fcbca46b2be0fcc82a80be6f73f3a39924b534429773095ea5/monasca-api-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "61675ca41740cce543bbbfb6afd3a728456098024e2c0e86968d2bf146501c35",
+        "url": "https://files.pythonhosted.org/packages/a6/73/7f514dfe91cb4f131f2d03fcf80972cc7ca7711d72e23399a4079d3ac099/monasca-api-1.0.1.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "cefb9e710d47a57bcdbcfdb6fe86eea139800623e77705515bec616bd04a8f0d",
+        "url": "https://files.pythonhosted.org/packages/43/85/8542dc139b9e5744f3591e9a254d9dbe97179f6115d032bec6aced77ca7e/monasca-api-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "6a6ae43f7ad1dcee83df0e83a5ca066236bc9b47fbc5b9f083c41fc2c860b2c0",
+        "url": "https://files.pythonhosted.org/packages/51/b7/2e63b4f7636a0cff5a15a97dc46b7b4038bf0d4d9aab1310bad8e7224552/monasca-api-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "aed805418a8fd6248f18d9d5cfd3b02ecfb3e2ee2a22de5ee70ce0353e577f18",
+        "url": "https://files.pythonhosted.org/packages/ab/28/15e5b1d57b9dce48875e57f8d94cf702c032dfdf2603a8797fb81e1e026a/monasca-api-1.1.2.tar.gz"
+      }
+    }
+  ]
+}

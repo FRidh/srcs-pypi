@@ -1,0 +1,74 @@
+{
+  "latest_version": [
+    "4.0.1"
+  ],
+  "meta": {
+    "description": "Tryton module to add measurements to product",
+    "homepage": "http://www.tryton.org/",
+    "license": "GPL-3"
+  },
+  "versions": [
+    {
+      "2.6.0": {
+        "sha256": "51c04994d08bf5fe44fe316e229ff66c9364615e66ee63bb405a30c77ff70a07",
+        "url": "https://files.pythonhosted.org/packages/9b/32/346bb3704f857adcfe10e62699919169794ede853839a5afb3198beaa09d/trytond_product_measurements-2.6.0.tar.gz"
+      },
+      "2.6.1": {
+        "sha256": "dd9aca3512c619c28c25e8f5701391a1816317b75bbe504a9a01c208776fd21b",
+        "url": "https://files.pythonhosted.org/packages/59/d3/46198eef14957bd0dac55b61173792fe114e33ed70935fb106a4acfc2fdc/trytond_product_measurements-2.6.1.tar.gz"
+      },
+      "2.8.0": {
+        "sha256": "b8a5c97e0534383134e6317a0ccf25a07d37b7ca21f2076f45d36a3d472e7366",
+        "url": "https://files.pythonhosted.org/packages/e5/5e/b73fc6be1a56610e5fc15fdfce5115b6c91abc993daa77b65bd7950e8582/trytond_product_measurements-2.8.0.tar.gz"
+      },
+      "2.8.1": {
+        "sha256": "33ee79c8c1c6f87d666e9fb85baa309c7dc190a8b434fb8500f228731286dffd",
+        "url": "https://files.pythonhosted.org/packages/a9/98/6a84e157ee1eb4b58f69b538a5090b7a806f9ad7c2192467dc034bf48592/trytond_product_measurements-2.8.1.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "155b8c2f84678afa2235f6279de7ac461a7ec230087c92e46158f144ad2ff36a",
+        "url": "https://files.pythonhosted.org/packages/40/50/a6b5e9dd0a0a99f5877b9c7ba993bda5e61291731fd3bd34d5c99e414da1/trytond_product_measurements-3.0.0.tar.gz"
+      },
+      "3.0.1": {
+        "sha256": "3f4dfeb2d5d445d8a2aa9d7cb850b6341734b70d159541f31aa90c672d024486",
+        "url": "https://files.pythonhosted.org/packages/45/b2/19369c20b926478fb028f34852d4fdf214a7fc5ad256acd08b391817638d/trytond_product_measurements-3.0.1.tar.gz"
+      },
+      "3.2.0": {
+        "sha256": "f815b73c8edd6d68479f35a0809cddcf4b97990defed947acb89b82a92f10b39",
+        "url": "https://files.pythonhosted.org/packages/e0/a6/6c09ecf3704c3638cdc5ccbed141119da64c08a4b2e3075a96fc680c36f9/trytond_product_measurements-3.2.0.tar.gz"
+      },
+      "3.2.1": {
+        "sha256": "d071f4296c3ad5c6a21093cf689686a10261314e56f70902795bdf83df03e92d",
+        "url": "https://files.pythonhosted.org/packages/a4/e1/ab50922c1caa945f17d2f37fbb0dc51adfc205829849ea65d504579feb64/trytond_product_measurements-3.2.1.tar.gz"
+      },
+      "3.2.2": {
+        "sha256": "4deb1a1c2e11e2da0b3b1271bca5dae93aa5b6bba0bfc148eb85b11abb11e1b5",
+        "url": "https://files.pythonhosted.org/packages/40/b8/44064a738f1cff4ea98816c915a1b9e35c525470de6bc366e8b0cc3fa9a6/trytond_product_measurements-3.2.2.tar.gz"
+      },
+      "3.4.0": {
+        "sha256": "fdd660b33564b46bfacca1b2d8b05b29478cf6458c8f79565b6c42e835a291d8",
+        "url": "https://files.pythonhosted.org/packages/f8/55/ebbba6b0f9443d18fd5dbd475045305b9ed6791ec79cece86d18c1e5e029/trytond_product_measurements-3.4.0.tar.gz"
+      },
+      "3.4.1": {
+        "sha256": "35f5ce70bb460b39a7151b7b4000a557a18fc78dd7280c17d5ceac0b8980b925",
+        "url": "https://files.pythonhosted.org/packages/fe/16/aec036f85ab2ba4e4b6974dc4714972d19e34a451bf039ea4db0f53a972b/trytond_product_measurements-3.4.1.tar.gz"
+      },
+      "3.6.0": {
+        "sha256": "53129f80c0fe5a7e6dc50117f56fa5559919b85e94aab397014f25206dc37f91",
+        "url": "https://files.pythonhosted.org/packages/6c/0c/3faeebdc9e45bc0f85dc563b2c4c948e388c7ebc3948f58594a286ebe7e7/trytond_product_measurements-3.6.0.tar.gz"
+      },
+      "3.8.0": {
+        "sha256": "43971a675b91ad137e55308a663305dc870e734210603526db147356c53cf6fa",
+        "url": "https://files.pythonhosted.org/packages/a1/cf/29e477e0910ea898b84ac44518429c1a38fca59ce6e7c700cff305494e8f/trytond_product_measurements-3.8.0.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "e28dbbb20b6191a8a05ed4e9e4f86753d62cbfe09c6f1acf1e889f17c20a86ab",
+        "url": "https://files.pythonhosted.org/packages/7f/88/250e472b946665784b97a08143c3b8669a5e7fe5fa2043f024229d39ecbf/trytond_product_measurements-4.0.0.tar.gz"
+      },
+      "4.0.1": {
+        "sha256": "6d5a2e7d1310fdd874c6dc3757aa535425a088bdc91cf6efe826c1425cf989df",
+        "url": "https://files.pythonhosted.org/packages/26/2d/4458c8881f4d1a235e11b5bd6539780e27ce96ff1273c78efe94c1ee1a42/trytond_product_measurements-4.0.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Gradually reduce redis maxmemory.REDIS (redis.io) will block while ensuring maxmemory is honored, so when reducing it significantlyit is helpful to do so over a period of time in smaller steps if necessary.  For example an AWS EC2m2.2xlarge instance takes in the vicinity of 1-5 seconds to evict 256MB of keys",
+    "homepage": "https://github.com/steinnes/redis-memslider"
+  },
+  "versions": [
+    {
+      "0.1.2": {
+        "sha256": "bb6b509e75a880fce6216e8f7a31ad72d0fa3e25f93afdc40baa850a8c25c081",
+        "url": "https://files.pythonhosted.org/packages/2b/4c/a01fd454b4af7e701187da23d9def70f015dbfa56de30775011d1987245f/redis-memslider-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

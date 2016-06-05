@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "SQLAlchemy-based cross-database migration tool",
+    "homepage": "https://github.com/ei-grad/sqlacrossover",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.2.1": {
+        "sha256": "6b621a27c7e85611f6b4ca859c3c731e2121728d3f297064ba525f1f8d2c02eb",
+        "url": "https://files.pythonhosted.org/packages/57/06/db8df23c8d544e2d6b89f9f38ee23fb208cd177d02cbb94805461e7e690d/sqlacrossover-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "00e3e1861a17d1cc0caa8bdf5641ec22b526e3b9f5b743217a8c9f4b193c1fee",
+        "url": "https://files.pythonhosted.org/packages/11/6a/3930a29cadd0d2797f4f23c0d9e145bf8d1fad27edf0d7411917d540f335/sqlacrossover-0.2.2.tar.gz"
+      }
+    }
+  ]
+}

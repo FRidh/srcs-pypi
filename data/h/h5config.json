@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Conveniently save and load config-options from HDF5 and YAML files",
+    "homepage": "http://blog.tremily.us/posts/h5config/",
+    "license": "GNU General Public License (GPL)"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "11acb7cf41ec1a04c7e64d272e04e67d0b100caa7ff5e6d9c197f1e9a9421ab0",
+        "url": "https://files.pythonhosted.org/packages/1e/ff/b7355b417317124839b66c1f945b6906b3b8121b924e4e9bad3b0a64a57e/h5config-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "b6e0cb957a86dccbef181bef83bf31d2c7fa16fdad42886b9b4f808a4e5598ea",
+        "url": "https://files.pythonhosted.org/packages/a5/f6/5ed790e598d1d6c5f7a661438ae60da6154db633ee3a2ae967318b48e640/h5config-0.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Python bindings for QSopt_ex, an exact linear programming solver",
+    "homepage": "https://github.com/jonls/python-qsoptex",
+    "license": "GPLv3+"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "d1f748a623a958d84259d4c6b2ef40e123d2cafc7e3fd487464f1f854a2c68c5",
+        "url": "https://files.pythonhosted.org/packages/80/9c/57eb70c05ed937261350b5de106f9fee7123ad060f1aaac702dd099b34cc/python-qsoptex-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "2e72181d0e7edc343a25f7be7f374b947f70cabf16936495864a5b9be4efcd76",
+        "url": "https://files.pythonhosted.org/packages/86/11/1723ae5f10b473c2c231180a9f8dca75a1419598fd97dfc6f6a66557d10d/python-qsoptex-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "2cd1623020fd6b52f948577c4ca89c8149a6239ddb848d5e53c539f9422dc7f9",
+        "url": "https://files.pythonhosted.org/packages/a4/d7/add489cca51fe5a3bcaea40c53dcc7359726e59c1eeb0b8d35ccdf702d66/python-qsoptex-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "7705dc95277b5b70e9a38c8fdc251213b677bf75dc87159b8deb7a6617132503",
+        "url": "https://files.pythonhosted.org/packages/e7/e7/e0b69c7f4ac7398ef4e845d090abcfe6009ca0a6823e79fca795fb02ff52/python-qsoptex-0.5.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "EC2 tasks and utilities for use with fabric",
+    "homepage": "https://github.com/garethr/cloth/",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "ece9c323f681656fa4e49277839eb20189bd8421fc9eb0187974e86aa9cdadc5",
+        "url": "https://files.pythonhosted.org/packages/43/9e/c8a71764ea82acc36d321e5a7853f6f446d847dad99e4812442a060253ba/cloth-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "9a72b92b915734c0a9c4703ec02f638d4deec38f47b79f0e23b40bde1a815e89",
+        "url": "https://files.pythonhosted.org/packages/21/20/ec50228ae5ce15e301cd6c18a55d154dfc157388efbfcf3744945829605e/cloth-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "9958bf2b2c13166bd4d73e21ece5e5d194f1eceade9e50cf2a9b543ddfd249bd",
+        "url": "https://files.pythonhosted.org/packages/f3/d1/a3edbc79da81e993399d895f45794c1c5a9400498f703b15eb6ef894eedd/cloth-0.3.tar.gz"
+      }
+    }
+  ]
+}

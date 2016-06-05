@@ -1,0 +1,33 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Lightweight, portable Github wrapper. Retrieval of dotfiles (.emacs, .vimrc, etc.) in any environment",
+    "homepage": "http://www.github.com/louisrli/grabrc-client/"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "3f86698a990e8f98c1de618e108f62f49e5ab9deab861fb6d000e959bf3f2af2",
+        "url": "https://files.pythonhosted.org/packages/ea/70/c6b1121393d6bd11cf3e0d72fd7d6af5387dcc5b1f84af56f6122fe9ed07/grabrc-client-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "f557a2390209f77b4595fe1ab57dc76f84e27900d3b2f8af0fe168495826e20c",
+        "url": "https://files.pythonhosted.org/packages/d5/e1/910f6bf6751ba8479319ba93c7c46f5aef2efca02ab923a51961b49a93a6/grabrc-client-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "44f02c3d2b797072fa54dd5432a37c8d5df944ab6a40cea3c4ccd1032bcd4ab7",
+        "url": "https://files.pythonhosted.org/packages/25/85/f5cb8b31c915bf7d11c12628fc79bb64b2ad87247113f6bb115fe5ce8819/grabrc-client-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "ed9d79b2c8d88ebe36529dbc42cf7f7fa481565830817ff833eb2cf8a4b21ba6",
+        "url": "https://files.pythonhosted.org/packages/81/0a/333d318e901528f2d0b60124594376804756495f13cf1d9973e7b6aab09d/grabrc-client-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "15ec76b6558f1efec261b0c0c4b66af07811a7aff4c7771201c64f0e07f6b9d0",
+        "url": "https://files.pythonhosted.org/packages/f3/c4/6145d6e1a43242a266d0c6da0c9d6c4a9cb8e5cc117781adf9cc36fa6827/grabrc-client-0.5.tar.gz"
+      }
+    }
+  ]
+}

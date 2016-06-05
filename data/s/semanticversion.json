@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "0.1.7"
+  ],
+  "meta": {
+    "description": "Version generator tool. Semver, markdown json woohoo!",
+    "homepage": "https://github.com/oskarnyqvist/semanticversion",
+    "license": "The MIT License (MIT)\n\nCopyright (c) 2015 Oskar Nyqvist\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "4dd24a09ac740cf5c7706b0cf0e6462982dbee0e07a5fc8808cbe24319b1c016",
+        "url": "https://files.pythonhosted.org/packages/f2/52/bf04f0ac9c2ec0cd08871efb58c9b70060555a190aa5aa67003724ad3b89/semanticversion-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "3082959b8c24ee4297818f4022fc4704f6e2839df32788a0a0c35529e4519b86",
+        "url": "https://files.pythonhosted.org/packages/1c/b8/a980f6c328b6e8d2e6920bbba94fd1b4ae6322705d88357174a19755035c/semanticversion-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "8e505421c1f5dc3f35badbe5fbb740f0a827619e2560fcdd14806f6c33119881",
+        "url": "https://files.pythonhosted.org/packages/19/4a/85e32cf0f3fe1db1e5436acf42cd5fd9d545543b9699543de009f672db79/semanticversion-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "6b49ef0f3476484a3e639a6b5321e2e5845a316dce0128bb2277bacae1a21475",
+        "url": "https://files.pythonhosted.org/packages/04/f2/20c41d6805b912a14984ef4a262288f186bfdbb21055d6042916c2bfaea7/semanticversion-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "1c12b174f18e9a43ccbcf8efae971db04dcceff662b69398029c7b1538b4ff5e",
+        "url": "https://files.pythonhosted.org/packages/f2/ce/4ae959955fcef11b775f575e196de52177b264b28e6521fb573ff0f2e84d/semanticversion-0.0.5.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "0008f804ff70a786c9e80e52e7024ff34e77ff6a8ffcdfba307d39e8a92ec0b1",
+        "url": "https://files.pythonhosted.org/packages/d2/0d/5e8774122b93f83c641750fd8fe80335bf88791b21792a2aa7f9a89199a7/semanticversion-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "b6d713d8ca8ba21e9b579787bc53dc75e795120feda4a5a469443cfe2e3795db",
+        "url": "https://files.pythonhosted.org/packages/75/49/96d48562bfc0ca663334045b419bbaa6215bee840edccc1290fe0d4e4c41/semanticversion-0.1.6.tar.gz"
+      },
+      "0.1.7": {
+        "sha256": "287890a93e0eee1154a1ccfb923e3f8e017c0e100de6109f1457b038beb8a405",
+        "url": "https://files.pythonhosted.org/packages/f9/ad/c17ab16c1a70999643f94b73a2f70ac39a5b0052a96101387c01a11cc8df/semanticversion-0.1.7.tar.gz"
+      }
+    }
+  ]
+}

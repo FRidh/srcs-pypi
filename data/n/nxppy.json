@@ -1,0 +1,37 @@
+{
+  "latest_version": [
+    "1.3.2"
+  ],
+  "meta": {
+    "description": "A python extension for interfacing with the NXP PN512 NFC Reader. Targeted specifically for Raspberry Pi and the EXPLORE-NFC module",
+    "homepage": "http://github.com/svvitale/nxppy"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "ed44d0ab3cd2a2bd018cced37283f1246ea6fe7ca4fb0eb75422382e8e0f749e",
+        "url": "https://files.pythonhosted.org/packages/44/bf/7aadcdb34d53c7ea9450bc71eb7cb9dc5ce1c6f9b32dc4703eb35ef57635/nxppy-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "33b80b64f8c92675ec975e9fb94969008b8365fcee533f09bbcd7ed4adf88609",
+        "url": "https://files.pythonhosted.org/packages/60/a4/92bf1f0049c8b177b6302f85d9d5a97b2f1104d0533c165c481eb4ba0cab/nxppy-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "d96a328906431de7c3d6878389347c70793b44c2886c25b724ae12012798f278",
+        "url": "https://files.pythonhosted.org/packages/3e/0a/c2b52bb9c2d3deadf9c276181247c5bf369022287e1499838d79bec037c0/nxppy-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "5dc1695381c22641c274b4dfcc98ca2f685c40c85a09596a42ce112a505a057a",
+        "url": "https://files.pythonhosted.org/packages/ea/54/1e033f5f79bcf77ebff434bd34619c4825dc8b02d0b9325147ce85e03399/nxppy-1.2.1.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "89611d3491c843123d06ed3d36ed68b3ed6008efa18409063ca7e098f8526811",
+        "url": "https://files.pythonhosted.org/packages/42/af/76fb3a57761a10d5109b122ecf7b7167635e141caa19556f2a3ae102bf34/nxppy-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "5df3355f100c5dbe0e87b6b5d5c6bf41ced9b6eef896b5c0e0a6a1ea971432d3",
+        "url": "https://files.pythonhosted.org/packages/7a/d3/65ab5d8fc475eb710707a68eada02eca948c9cc44e6a1d5420bdb20d93e0/nxppy-1.3.2.tar.gz"
+      }
+    }
+  ]
+}

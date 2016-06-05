@@ -1,0 +1,78 @@
+{
+  "latest_version": [
+    "2.0.0b2"
+  ],
+  "meta": {
+    "description": "Tools and API for translation and localization engineering",
+    "homepage": "http://toolkit.translatehouse.org/",
+    "license": "GNU General Public License (GPL)"
+  },
+  "versions": [
+    {
+      "1.10.0": {
+        "sha256": "2db825cd039648b4f29c1530334f22dc25fe85ea2cefa4b393488aefd76554b1",
+        "url": "https://files.pythonhosted.org/packages/70/10/9f0d2b4ed5c922a5420e8010c686bd7050e929cdaaa50645ccc5519ece04/translate-toolkit-1.10.0.tar.bz2"
+      },
+      "1.11.0": {
+        "sha256": "7089a9216a0877349364de1dc1fd40b3aa4b87422a147c787116a4cfd03749f9",
+        "url": "https://files.pythonhosted.org/packages/c0/97/2b91c41b56c85f2ded32af9c9e76af2fb4d2151f38b0bea8cc5481c48be5/translate-toolkit-1.11.0.tar.bz2"
+      },
+      "1.11.0-rc1": {
+        "sha256": "30eb7f40d830535b868d1682dffbb718e5c84c02e1122e6d12e36c1a4357dde1",
+        "url": "https://files.pythonhosted.org/packages/e7/f4/0e134ba469d2627f851b2468ea78473952702200c0ae0035bb3d4a3cfea8/translate-toolkit-1.11.0-rc1.tar.bz2"
+      },
+      "1.12.0": {
+        "sha256": "11e332f2a29d8644364b4ca79b4ac079df328626ec8c27ac0e8cc454696719ca",
+        "url": "https://files.pythonhosted.org/packages/ab/7b/fba182e159908c72d4a04391b9ce3fa61949a7ec8d770c52acd162d8972d/translate-toolkit-1.12.0.tar.bz2"
+      },
+      "1.12.0-rc1": {
+        "sha256": "aead6b3c8b7b1ee3eb14e7df8b7c0c72fda98c115c8bc290fa67fe7af5413802",
+        "url": "https://files.pythonhosted.org/packages/da/6f/3c2a54f2faf5f5eda15b3dc6a48d6ade665e82fe282234537572a936ed27/translate-toolkit-1.12.0-rc1.tar.bz2"
+      },
+      "1.13.0": {
+        "sha256": "dcbbf49058e4196a06e988d9dc1e762321ab0d057c4be035b84e3c11353fc2f8",
+        "url": "https://files.pythonhosted.org/packages/f5/dc/bc687b5af95bcbff2c32ca0d4d81016434475c9de73b409e9e0774458c25/translate-toolkit-1.13.0.tar.bz2"
+      },
+      "1.13.0-rc1": {
+        "sha256": "1ed0a630e337bfe9fe30cc5b6a2ceeb6c0f107ac2a9be625f803f7db3dfa93aa",
+        "url": "https://files.pythonhosted.org/packages/25/19/c15467c727151cb6907d1d5d939a576f7934fb9083400ad0b6e53a526b09/translate-toolkit-1.13.0-rc1.tar.bz2"
+      },
+      "1.14.0-rc1": {
+        "sha256": "fb098e70de6af2bd3b326761e480f222edadfbad231e5a91614b3e53cea9a2ee",
+        "url": "https://files.pythonhosted.org/packages/c1/72/57f751516fe3aeade367b303cc349fe2957007980a541becd28353635e8d/translate-toolkit-1.14.0-rc1.tar.bz2"
+      },
+      "1.5.1": {
+        "sha256": "586c339737e726e6647b9f9b91ed56244f648b62cbdc932d5ebe1498e1c41a3d",
+        "url": "https://files.pythonhosted.org/packages/1d/7a/3c5d5725d9b514c6c52b3e2d0fef9540bf2198907fef6f04cf3e88e09609/translate-toolkit-1.5.1.tar.bz2"
+      },
+      "1.5.3": {
+        "sha256": "c0ced4874e694d6054514f8731917141c82a528302b63b07ab05b725f9a0d31e",
+        "url": "https://files.pythonhosted.org/packages/a3/57/30798386e476f835fb95641318ce2a34741ae391e83c2bf4617bca4a1b8c/translate-toolkit-1.5.3.tar.bz2"
+      },
+      "1.6.0": {
+        "sha256": "02832f3b1b071efacb235b4590fd54c7ed0d8911de8d72f46b087d0c86b21350",
+        "url": "https://files.pythonhosted.org/packages/1e/11/957051a111afbd367625f46613ec4705bd4bf002998295e0ff73910a51ef/translate-toolkit-1.6.0.tar.bz2"
+      },
+      "1.7.0": {
+        "sha256": "afb99129df63751708c0ea8384ed494e83da010c82abe0c984062e9ffa618311",
+        "url": "https://files.pythonhosted.org/packages/c8/12/b1dd44f2bc83c40b905b4a095f86b3223f87deea67c1a1087da36b1fbf1f/translate-toolkit-1.7.0.tar.bz2"
+      },
+      "1.8.0": {
+        "sha256": "b146d8cdc287db07f6ef4491766d841a931b1b267040fef81eb559a475fe3db9",
+        "url": "https://files.pythonhosted.org/packages/75/9a/9611135a91d0151be91b3f4e39edaffca4fe5035b6712db0bf663a5dc79c/translate-toolkit-1.8.0.tar.bz2"
+      },
+      "1.9.0": {
+        "sha256": "ee5e58dfe06fbf80352659d3ef3768fb237bd0d4ec2b88159e4e939c87a246ea",
+        "url": "https://files.pythonhosted.org/packages/c2/b0/f56ef37f9723af496da8ba68f72d8dc5c008f7bc05366ad827c8a7d0611b/translate-toolkit-1.9.0.tar.gz"
+      },
+      "2.0.0b1": {
+        "sha256": "1be78d0e0e37caafbe344c4975c9027399bb8ca0e4a612bde05eda9f22425162",
+        "url": "https://files.pythonhosted.org/packages/3b/eb/928c92da5362c118132052b006e082f415a189559356fe63b3cd642e2994/translate-toolkit-2.0.0b1.tar.bz2"
+      },
+      "2.0.0b2": {
+        "sha256": "0114c29060d043527870cb84f4549854b9ca03b432100d43f29d9c21a0bc95fa",
+        "url": "https://files.pythonhosted.org/packages/c7/1c/54091adab4d3c20e61aac7814f89cf9a3ed21afa9d8f582e2fdeb203be4f/translate-toolkit-2.0.0b2.tar.bz2"
+      }
+    }
+  ]
+}

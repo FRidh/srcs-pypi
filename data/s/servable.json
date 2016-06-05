@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2009c"
+  ],
+  "meta": {
+    "description": "Webservice mixin. Just subclass Servable, create your class, and transmute it into a webservice with the Servable-inherited 'wsgi_app' method. Plug that method into your favorite webserver, and go. If you don't have a favorite webserver, you can call 'run_test_server' on your Servable-derived class. That'll do in a pinch",
+    "homepage": "http://code.google.com/p/servable/",
+    "license": "New BSD License"
+  },
+  "versions": [
+    {
+      "2009b": {
+        "sha256": "2baa057623ffd708ae795d09c9334473a4df41cf17ec059213c64ed5e0858223",
+        "url": "https://files.pythonhosted.org/packages/1f/7e/c1197c0167046561b6192d4875b83a21205b35bc77b5c0f9186ac6030fb9/servable-2009b.tar.gz"
+      },
+      "2009c": {
+        "sha256": "2054145907941a511efaf466343d1b48e29acfe10aa1c09566ede1c97a765fd9",
+        "url": "https://files.pythonhosted.org/packages/06/f8/9cb520ebf0162d5c835c192014bac60058d6caa3c47453f1074e4d173c2b/servable-2009c.tar.gz"
+      }
+    }
+  ]
+}

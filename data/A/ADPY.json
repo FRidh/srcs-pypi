@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.12.alpha"
+  ],
+  "meta": {
+    "description": "ADPY is a Python library for algorithmic differentiation",
+    "homepage": "https://github.com/zwenson/ADPY",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.11.alpha": {
+        "sha256": "0c985a56598e2003bd1019806164f93b9a2d9a6bcd230c9b3171298496f06978",
+        "url": "https://files.pythonhosted.org/packages/a8/24/d23fce4bec3ad52d0271d3ff6f69872a4a54271ef6606a2fa56acb281297/ADPY-0.11.alpha.tar.gz"
+      },
+      "0.12.alpha": {
+        "sha256": "a27d0a2eaeb2fe7ed555c1e38327b3472374a963ca2b9c023089989ed54589c6",
+        "url": "https://files.pythonhosted.org/packages/9b/5a/90d0a5a2260de3f3174c069c3ae84bf2102518ebb4d4293d3d6951a83a26/ADPY-0.12.alpha.tar.gz"
+      }
+    }
+  ]
+}

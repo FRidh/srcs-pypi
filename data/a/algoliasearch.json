@@ -1,0 +1,246 @@
+{
+  "latest_version": [
+    "1.8.0"
+  ],
+  "meta": {
+    "description": "Algolia Search API Client for Python",
+    "homepage": "https://github.com/algolia/algoliasearch-client-python",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "3968dd9d3edbf24dcf232a537913c216dea99b61ed2d78d0b177acf0f5592d86",
+        "url": "https://files.pythonhosted.org/packages/b4/f5/56f837158a311930c5354be6a66da96a7597bc6225226bb54af9f430da18/algoliasearch-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "e499b8a8ffe4d7d5b4882f92d13b66e09f7d589195dfdbfbdf3c3fd3f6007b74",
+        "url": "https://files.pythonhosted.org/packages/1b/5e/b16837d1de28e4159ca3b7a6a3b1ad4e99c472a8b234fa72c1e3a9108a18/algoliasearch-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "533a1da69cb626456ff602ba6c1ec80c18bb68459515de28101fa1d1cd3fa621",
+        "url": "https://files.pythonhosted.org/packages/8f/97/ee6fa2865b21f5526379d320ddcff3593fadd459dfd76ab881ca2a88a6a9/algoliasearch-1.0.2.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "e2770ce1392a7252a34bbb7d2d77d8ad7ccdcb8c247b686fea5cf49eed222f0e",
+        "url": "https://files.pythonhosted.org/packages/71/d8/3f05055e9f69cd1d6377a01830a1cdcbfd01beef99726c661140acb10926/algoliasearch-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "53cc4323cb1d979af1d5d0411f9187f2e83bbd6d7f7f816a1091a03d5de2a12b",
+        "url": "https://files.pythonhosted.org/packages/ef/d5/c7c9491225aac6ae24a2a21cf133ba1ef92fed3eda86ef8a87a96614c198/algoliasearch-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "3a431f896ead54aa68f963799bcae6f0afccc9070f9e5dece7cc81eb0a92141e",
+        "url": "https://files.pythonhosted.org/packages/a0/aa/245bb03e73ef8484ff3b2bd570b39107a46ad4ecbbcdeec3a8529f0356ff/algoliasearch-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "95ad0b392499ae7af52d8252f08169d75cade29e15f62a4e97370a3610b58612",
+        "url": "https://files.pythonhosted.org/packages/c4/dd/fae1596ea5722e8658637d442a3ffddf32988b62f98a1e9314db2d33924e/algoliasearch-1.1.3.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "b0da72b5c37365cc97e7dd276200d409f9e3d73f7ac6be6535527b9ed39220da",
+        "url": "https://files.pythonhosted.org/packages/93/6e/26bfc78ffbb4fbf375131ea9ed46a7670b563cf8b15ad5bbf76b1056f5df/algoliasearch-1.1.4.tar.gz"
+      },
+      "1.1.5": {
+        "sha256": "1381a9c4a573240ee2e378dd5c56cc128cf4a1741b33fe8f0fa3ca275a09eff6",
+        "url": "https://files.pythonhosted.org/packages/a1/75/b5ae96d36a7b9cd44658a3e4bfefac910330e32346ddd9224b913e810ead/algoliasearch-1.1.5.tar.gz"
+      },
+      "1.1.6": {
+        "sha256": "8f2590ad3e5359959ec3803ae2688ff874d82e22ed9b7e0efdf5962fc7f6c1aa",
+        "url": "https://files.pythonhosted.org/packages/15/af/6189cf1c51382b10cf622d66c5f3eee53e6de7c156e87d02279d930350cf/algoliasearch-1.1.6.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "2273d90d38d8f5fafa5c95c45b46715c9defb127eb5b3cd58cf004b0c0e77019",
+        "url": "https://files.pythonhosted.org/packages/44/76/d7efad00c7d376f1c1f2129c4ada629a8276980550a4fe0bba76c9533234/algoliasearch-1.2.1.tar.gz"
+      },
+      "1.2.10": {
+        "sha256": "ba83bbd9100457bb1ce856f8d48d2714612ecc289d2b8273a0b1ab70b5b32963",
+        "url": "https://files.pythonhosted.org/packages/85/6e/56a695a877d81b4207d4c80ccf35224f7b222a6c2e1429646892c69c5056/algoliasearch-1.2.10.tar.gz"
+      },
+      "1.2.11": {
+        "sha256": "78c8d1410d3e36750250eeac8ae10cf2f7e1076e975bf7a98cacfcb6931e6369",
+        "url": "https://files.pythonhosted.org/packages/dc/11/2aa64fb26b23dadc118f81c8663bcc01561d13e6e61e71dde3a2d5d87c1e/algoliasearch-1.2.11.tar.gz"
+      },
+      "1.2.12": {
+        "sha256": "4b0c172f73e327928702c2112fea5b2d01aba6de14cb04555bc9e334a93cf77a",
+        "url": "https://files.pythonhosted.org/packages/aa/2f/c3b61c6a9f9368243b2b168312d3ec95a76c6f861ca6b20b99241e7b06b6/algoliasearch-1.2.12.tar.gz"
+      },
+      "1.2.13": {
+        "sha256": "49e5b0b18679aed202b032ee7c6ac874c037a87c032b813dd664dc45f21fc496",
+        "url": "https://files.pythonhosted.org/packages/a3/d2/6aae14ac79a98cf5d2c5c856e0a023eb966f4c027043d5a7387965d0e82e/algoliasearch-1.2.13.tar.gz"
+      },
+      "1.2.14": {
+        "sha256": "ccd699a9e7b277540b463b9487daa394e5e1bc1cd925b64a1a603691deb3426a",
+        "url": "https://files.pythonhosted.org/packages/cc/ee/3efcecaf5d0d8329f23244b32c50e8d0547270e452e4d22f1bd36669439d/algoliasearch-1.2.14.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "d8c498c77def5023b94f65f22b1e8c20da0e45d270d4d8ca58836fff11cfa483",
+        "url": "https://files.pythonhosted.org/packages/a1/7e/265092d53880cada4533756ab9f3d791cb3f7b971c1900bb0964836995d5/algoliasearch-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "6e82d6c5db31bd63dbbd01042b1b302440a8646eb911687025df4fa456029a8e",
+        "url": "https://files.pythonhosted.org/packages/2e/23/18e66ad42d98e9fd7148208d78ae904719b847c543a36fb0edd3f7f6a462/algoliasearch-1.2.3.tar.gz"
+      },
+      "1.2.4": {
+        "sha256": "fa73c439017c346e54357f9f3f18bd3fd64bfb7610618c32a8c4d914a3410b9b",
+        "url": "https://files.pythonhosted.org/packages/a8/ef/f58e59cb5a34f086ac766af0cb9e9fd64ea80d4889f27f0361ef8d070682/algoliasearch-1.2.4.tar.gz"
+      },
+      "1.2.5": {
+        "sha256": "7f0f4add5cc00a5ccefd28c16250cbe8a86369450d1b9cf66fbdb67b72e11809",
+        "url": "https://files.pythonhosted.org/packages/4e/ea/2fea0a8674fd42ed517a3735f8ac1c4dbeb2ee87365e695a3025acebce45/algoliasearch-1.2.5.tar.gz"
+      },
+      "1.2.6": {
+        "sha256": "28088d21dcc3cc124f31dfb4f294428d9a521dfe000e68fd65a89ed3eac1f6f1",
+        "url": "https://files.pythonhosted.org/packages/2d/7c/cd1e81235e3c4cd816478c918a68f74bd952fe2eea1343b7944d40d35733/algoliasearch-1.2.6.tar.gz"
+      },
+      "1.2.7": {
+        "sha256": "0a65a49181d47b37e66f7bda409200adec997da90cf337d08a3e8c1509487cdb",
+        "url": "https://files.pythonhosted.org/packages/cd/f9/93c7ed7978d6ff43a39e5420f1f92c7a034cb8b62b483cd0a25c9b84ab03/algoliasearch-1.2.7.tar.gz"
+      },
+      "1.2.8": {
+        "sha256": "b2c452ae5fa12dad93cca140b1cb745a859899baefb7fa6177d54399ee4fd2c8",
+        "url": "https://files.pythonhosted.org/packages/a0/94/4ab1db1a01f3437e00dd178b7f1407476a8d67d4c50d24b7efcbfe3e7cee/algoliasearch-1.2.8.tar.gz"
+      },
+      "1.2.9": {
+        "sha256": "4036d01cfae834d01a6c381cfcb2065ed0fdd7659405af9211fdc3bc5a137864",
+        "url": "https://files.pythonhosted.org/packages/7b/5e/e819fe02e310f57298121e57fcf7c178eb0905392192ea30a7d43ec56f66/algoliasearch-1.2.9.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "c7a9c76a5e2f7074f1826fc79f806d45a2028b5f9afa7e7d81fba861a98a3f00",
+        "url": "https://files.pythonhosted.org/packages/20/2e/4ef8da056d56961affcb39b00d30c31204c0422e4577f61fd1c3171312de/algoliasearch-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "27e4165cf8406f2d5c9f7e83f80b5fa87fbb91a218b672b2e36b76982a6026bd",
+        "url": "https://files.pythonhosted.org/packages/c3/69/e57dd9ddc935e50aa0c111e92d481c21421df0e14e57b021bd86e594f410/algoliasearch-1.3.1.tar.gz"
+      },
+      "1.3.10": {
+        "sha256": "9146f2eea474378b39f42820f4876057d776590ece058f54ca7e846b3002f852",
+        "url": "https://files.pythonhosted.org/packages/ac/25/1665dbd5dbd934986f1b1c9cc7712bc9a09539b51e9cea2e35fe74276d66/algoliasearch-1.3.10.tar.gz"
+      },
+      "1.3.11": {
+        "sha256": "d6464375ca08367f15b4935c95280a5d40531e39d87cc9cbde95d498003c1316",
+        "url": "https://files.pythonhosted.org/packages/df/ae/712c168a3670c22e91f5ee553fff2b58900342c9d1a8fb9ba2bc9757a335/algoliasearch-1.3.11.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "452acf4a049993934ef31a3dd9f9a5b1f0d4a860ee6c4ecc74522b8b8cf21f49",
+        "url": "https://files.pythonhosted.org/packages/20/e2/9733d2ddf65992d757b064b32c291a0a50221a13ad2ed55ff0c1c96b682a/algoliasearch-1.3.2.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "133e192dff3b9b31934007809aabe54c9ac3d3f2c0878c97ac5433c86765e75f",
+        "url": "https://files.pythonhosted.org/packages/77/1e/f3ac3bc9db089197d2ea5e4d987e8ae951d60c49d4603746add668a9681a/algoliasearch-1.3.3.tar.gz"
+      },
+      "1.3.4": {
+        "sha256": "63dadd554c4e65b1bb3e2d3bd285effe6c686957c10330e768ffca57c5f32ea3",
+        "url": "https://files.pythonhosted.org/packages/a8/9b/9fa4d3f9ad79323f0a1a3526dcf52f4f3141e7871754ac52c25946d4c6c3/algoliasearch-1.3.4.tar.gz"
+      },
+      "1.3.5": {
+        "sha256": "56fd267fd02deab3dff60e0373f1746cc7f948a193df79007d88bf72ea446c69",
+        "url": "https://files.pythonhosted.org/packages/50/6e/b452e3e7bc944a9783aec580b23d68f0bc9a21e4af265e3e6db3dca484a4/algoliasearch-1.3.5.tar.gz"
+      },
+      "1.3.6": {
+        "sha256": "cb2a6b1274f42e109a222345423d937ad42a4327af965c7039a516afecec1453",
+        "url": "https://files.pythonhosted.org/packages/f3/e9/7507804ec6ea04379c9e1bc308a29027d902e49f66abfb1d9a0bb0990ac1/algoliasearch-1.3.6.tar.gz"
+      },
+      "1.3.7": {
+        "sha256": "a65c83c6654880c950400ab7fa697e235761f721267df5fda2f104928710dfb3",
+        "url": "https://files.pythonhosted.org/packages/d0/34/e6b57e05cbcff20ba35a42d3f1fe16af757bc88a90949901bb90e4683f93/algoliasearch-1.3.7.tar.gz"
+      },
+      "1.3.8": {
+        "sha256": "6291cc74f42f8bdea8ba39b84eb0daf3d6ffc413935f6d9cee8e4913a5b0b023",
+        "url": "https://files.pythonhosted.org/packages/03/e2/3df026417e0729fad1338b97cfe5190ea45ea0e67580b043594ac96fbba0/algoliasearch-1.3.8.tar.gz"
+      },
+      "1.3.9": {
+        "sha256": "bf7ee3718364dc6c45ef014d2e361e3a1e1a0c434d58767c839b07519303e830",
+        "url": "https://files.pythonhosted.org/packages/de/b4/318b0027615d2e9288363ad1d3f3aad89db03330231d39afedd74875b80d/algoliasearch-1.3.9.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "62be08e1ce7f17157ad625723d60c078c409e1f71cd7d02e4e1cfa1345bf59f9",
+        "url": "https://files.pythonhosted.org/packages/25/99/66251820a91a39c4e9ba2976bf56729601fac21aeb4ae9fcc40946ff94e7/algoliasearch-1.4.0.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "1275baf9d5014a06ca9051c284ad11e7bfc4f70225dd5ced2b6ffa7b583d2ec0",
+        "url": "https://files.pythonhosted.org/packages/d1/f8/8833f3c0074b7800759799df47d0ec164f7e145ad7c22cb209d2dc312a35/algoliasearch-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "c5d4ecf4e02b32ec1252b57abbf72a355b77dd8b1289ce61055da8ed4139db85",
+        "url": "https://files.pythonhosted.org/packages/05/c1/601750c9a92e5508a55f33cb0bc3bea50df06e4b2d9c4ff8f73f553885c7/algoliasearch-1.5.1.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "5808554a97e5595c504eafac424b40e540cb528174e519ff05888701b221a91f",
+        "url": "https://files.pythonhosted.org/packages/7b/ec/6aae19df05c0a51f62822cb4aed6f6975d811c484c43de173d597e3ecf50/algoliasearch-1.5.2.tar.gz"
+      },
+      "1.5.3": {
+        "sha256": "ef20e21ff476508347bd5ad455cecc44c0b60e531ac51c305bfe571f01e0aba6",
+        "url": "https://files.pythonhosted.org/packages/40/11/6f75f14edc7816da78cf287f71a768d8ffac3847f93bc2a8ed23f478f833/algoliasearch-1.5.3.tar.gz"
+      },
+      "1.5.4": {
+        "sha256": "99c25e72ef551c554e87aad2debca10b226a58489bc7873984f03d89e3138909",
+        "url": "https://files.pythonhosted.org/packages/5d/5f/d0f776634c687b1e84b09469297853236e6582e87b96a4eef09c98da627b/algoliasearch-1.5.4.tar.gz"
+      },
+      "1.5.5": {
+        "sha256": "ee318a61f1e470bee20ea2b1ac246e5393bed8852a15c6437a8d88b1da75222f",
+        "url": "https://files.pythonhosted.org/packages/8e/e2/6df399a71b96be06eec525f63e0e9a80e141af61d4fde0501dcf29b6e37a/algoliasearch-1.5.5.tar.gz"
+      },
+      "1.5.6": {
+        "sha256": "6c8c0ea2a56758c294b54e223c9f208b455e959f03f1e41ce736b94f2c25b045",
+        "url": "https://files.pythonhosted.org/packages/4e/8c/1dc60344ec35a7a22d33a2b58f2e3ed91cdde184478d5214930ae1fcb424/algoliasearch-1.5.6.tar.gz"
+      },
+      "1.5.7": {
+        "sha256": "f259d9b66e2a7632caf826d0f3ab03fbd1b94e7d692edb9b94c9c25b6356346a",
+        "url": "https://files.pythonhosted.org/packages/14/70/554fad6459196dd8cb910067dc637e86d2387f34faf984e5023a31a1c89a/algoliasearch-1.5.7.tar.gz"
+      },
+      "1.5.8": {
+        "sha256": "6341edced354f1d8bc1beff7d76d544819ab7a1a3c4da607ff17e3466453c3e0",
+        "url": "https://files.pythonhosted.org/packages/a9/1f/5d4b175f521fef6dde4a287becbbbdbfe2c82a71e75e056a4774c7a5ef31/algoliasearch-1.5.8.tar.gz"
+      },
+      "1.5.9": {
+        "sha256": "9c8c4a3ad77f4aaef828c9a557c8c09af5134d86d66802b2f52798d75e075610",
+        "url": "https://files.pythonhosted.org/packages/88/f4/1f094b89e965dd9c635817259d5a8921e785e3a46cb595b1d217a1d4c4a7/algoliasearch-1.5.9.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "e46123bd1d88c61da692323596bd1552c4f9f8c475ecd5cc2e5abfb82418d3e0",
+        "url": "https://files.pythonhosted.org/packages/e2/45/8314799f37017006fb1403e996bfabcecbc58d97cfd5fa9b620bd798b3c3/algoliasearch-1.6.1.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "b7d7e3d9f09e8cb1dd9779ba23597e0fb0430fc814d97ed3ee135f47a1ca2b77",
+        "url": "https://files.pythonhosted.org/packages/4d/e4/96620d3c8d93bb6b42c88246e568b9aeb04b72cf8b73fd47fad37770dcda/algoliasearch-1.6.2.tar.gz"
+      },
+      "1.6.3": {
+        "sha256": "3d73a10fbe87daf52f77b81d25461220dcd230641580fd94c0f7edcc0caadbce",
+        "url": "https://files.pythonhosted.org/packages/13/b3/97e49633cdff06666dceb9b02a9c0640b7a430b4cdd95fa6a8d0a4c868f2/algoliasearch-1.6.3.tar.gz"
+      },
+      "1.6.4": {
+        "sha256": "d71641a057fe0fab858fb0cf0b4a1bd9b4e69c7b58cf2fc18c728f80ae14346c",
+        "url": "https://files.pythonhosted.org/packages/12/4e/be57a2e86b607f3098aa72ff6e3ab9c9ef7396431eaecd0b461b792e16bf/algoliasearch-1.6.4.tar.gz"
+      },
+      "1.6.5": {
+        "sha256": "2bdd7c2fee891909a16f0edb462cc5575e950bbc39b54b688229ef08689e8903",
+        "url": "https://files.pythonhosted.org/packages/9d/32/7cd7c1b2e1ec9044d072b223a07abf02c80340fb81af041be74f608e5bde/algoliasearch-1.6.5.tar.gz"
+      },
+      "1.6.6": {
+        "sha256": "2e83bee3e722a4f8c9bcbddd9d68f4a17c92d99c552511e51d609240b6973195",
+        "url": "https://files.pythonhosted.org/packages/26/7e/c772161ca2fe6b1fa8da0b57256804a7828cfdef42419f472bf7cf75f0d2/algoliasearch-1.6.6.tar.gz"
+      },
+      "1.6.7": {
+        "sha256": "744a8c5566def9955f104f2c55312ee51e5b91da6311602372d82c78ced22d5c",
+        "url": "https://files.pythonhosted.org/packages/e7/dc/6c51d29cadd56402d06061582fbf998e62f9e14516b102c60d6ac8bb2bff/algoliasearch-1.6.7.tar.gz"
+      },
+      "1.6.8": {
+        "sha256": "28a226df97fff00720a7de2162c1ddeb503125fdfb9dadb43457da3f62f4af55",
+        "url": "https://files.pythonhosted.org/packages/f8/1d/8398f4908b87f28faf24504bdb7a9e8c9a1e6ed674dc4de542d08d4c3d7f/algoliasearch-1.6.8.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "39ab0512b60ba54ac932492c40b241dcd9592888fe664e4fcb4f6919a5bc3ecf",
+        "url": "https://files.pythonhosted.org/packages/fa/f6/dcdb85ed21ddb78577b06cc664c409e62ae9af7f44c64f04a8833c4a9865/algoliasearch-1.7.0.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "9044af8567e85a99d9e86764bc1a4bf5d88a2231829d7bfabb71b0461fd17503",
+        "url": "https://files.pythonhosted.org/packages/bc/15/0f9d83a66c348371d04d482ea2838039a2e9b52d3254fb70b0498ea806c3/algoliasearch-1.7.1.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "07baecd14ecb4aabc46e50c6eb3643f72b7c5f4a962204da0f14dbe95afa75f3",
+        "url": "https://files.pythonhosted.org/packages/9d/d1/8fcc978d4e5b00811618b689a4c244223b66914db8ebd8b6e00033531dfd/algoliasearch-1.8.0.tar.gz"
+      }
+    }
+  ]
+}

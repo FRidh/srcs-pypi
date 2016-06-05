@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.4.2"
+  ],
+  "meta": {
+    "description": "Covest estimates the coverage and genome size, just from k-mer abundance histogram computed from DNA sequences reads",
+    "homepage": "https://github.com/mhozza/covest",
+    "license": "GNU GPLv3"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "bafdca7466d704bc796eaff4890cd48a40e54ec0c1f8679e72c2f1b478b612b4",
+        "url": "https://files.pythonhosted.org/packages/55/37/9f65bed68067d94b55d91dbeef1f36dec7f6b39229affb7a251cbf601e47/covest-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "faa55788267f28c4dbf927aa2dd680732d5a814a9cb71338583c6d32f9a4ff37",
+        "url": "https://files.pythonhosted.org/packages/79/74/18bbf24452e5f659c49be7aaef032d8a1b6f7b5a40ede143e7417851befc/covest-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "e9ac23af88d7e9163299336f0427b7702d8b84394fe4a995255677807f7f76be",
+        "url": "https://files.pythonhosted.org/packages/ea/b0/87947cca0abea19139727aafb5060b8a85e17200d4e7cff7b02b4cc9cab7/covest-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "f207ebea210298614eef2f6c739ad172272f27434a38925053874ad7a4cf866f",
+        "url": "https://files.pythonhosted.org/packages/59/8b/50d881b3e5046583f38c0d3340742d5dc9a17556a8a2120b841a6c418af3/covest-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "872a587b86dcb7e3613e49f0bef1e7f2901d9b52c845d6b79c96e8d9589094c4",
+        "url": "https://files.pythonhosted.org/packages/69/7e/11d0cb3a53af5704581b478f8add419ef4f2196da76dd6f6293298a62a61/covest-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "30da57f112f8b98bd3add2b4d9a23e353fa0824b6533c88d0665926e6a844ecf",
+        "url": "https://files.pythonhosted.org/packages/73/fa/2f2f02809480f7f6f12b4246650b125fa32169487ebeb1501805d47872f2/covest-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "96d72937f686e2c5159854b83e6f924216f4e5f92f37bbba16222ae24652d132",
+        "url": "https://files.pythonhosted.org/packages/d2/67/49ccd60827ee3b5916f3ea984edc4f8b6d6dd5f7aa53d591fe801c1f4c80/covest-0.4.2.tar.gz"
+      }
+    }
+  ]
+}

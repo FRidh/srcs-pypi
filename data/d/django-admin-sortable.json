@@ -1,0 +1,246 @@
+{
+  "latest_version": [
+    "2.0.15"
+  ],
+  "meta": {
+    "description": "Drag and drop sorting for models and inline models in Django admin",
+    "homepage": "https://github.com/iambrandontaylor/django-admin-sortable",
+    "license": "APL"
+  },
+  "versions": [
+    {
+      "1.4": {
+        "sha256": "c5fcfca645219b1203dc3eaf9ceb41de2f5ce534847058ff87d427a0b95e8501",
+        "url": "https://files.pythonhosted.org/packages/51/2a/d23bab06c1c25d6cd4ba2575944b593feddc0bad597f1eb63442c64fb176/django-admin-sortable-1.4.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "3d518d92f59f1bd1d87dc55132c3d8097a6e2ccc1fcb2748dc30535aebd527ad",
+        "url": "https://files.pythonhosted.org/packages/8d/1a/a67202b69ca11249a654246ad4cfc767954991452614086ed8cf52201755/django-admin-sortable-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "52105b8775dc5fc9eddfc00cf9d2c4b9ccff2d98cb3f42f5592a29948f76958a",
+        "url": "https://files.pythonhosted.org/packages/e7/1a/d1874ac9de637f736f59ce30f83df3c520ffe7d3dcc9eb903d0aa38395dc/django-admin-sortable-1.4.2.tar.gz"
+      },
+      "1.4.3": {
+        "sha256": "0ec2e901fa2d9df07bafb07c70d87024afdc921fb45fc37cfd55ce3d3fd5e5ef",
+        "url": "https://files.pythonhosted.org/packages/1f/c5/e5d02ba0cc04144aa05c3013c6498b7da4c738a8a7f5759bc4232c80a7fb/django-admin-sortable-1.4.3.tar.gz"
+      },
+      "1.4.4": {
+        "sha256": "be83af1b7ea3e5a250f4e03c17199abe057317e519b84dfb1bbfc305fe0d0114",
+        "url": "https://files.pythonhosted.org/packages/e8/6f/308522e68b63a5ff525bfcf5ae74de3be83022a46c917239a89a47725b54/django-admin-sortable-1.4.4.tar.gz"
+      },
+      "1.4.5": {
+        "sha256": "4729c7f419f2e1f0664ed90a04a886fdfb61a235ed574e04b1af3de38775c877",
+        "url": "https://files.pythonhosted.org/packages/51/16/4718981958869fa207d0802a26e4881403453fc98b88c56b810270deab8b/django-admin-sortable-1.4.5.tar.gz"
+      },
+      "1.4.5.1": {
+        "sha256": "a0fd4918657e5b61595e5bb9a0e084824dafb95eaafbb29bf3b772a1daa72066",
+        "url": "https://files.pythonhosted.org/packages/21/d8/fb6acb8ff9882ebb7d25418547a32bf2612cf8b81dc064c6980b47b24de7/django-admin-sortable-1.4.5.1.tar.gz"
+      },
+      "1.4.6": {
+        "sha256": "49d83d551dfd04c908550e221eca2a3ce62a8390a17085bc6583d254a82e5b71",
+        "url": "https://files.pythonhosted.org/packages/48/ec/fd63081a35a2f7d83bf6e7385fcc2dafcc94e6d67730d447253998396576/django-admin-sortable-1.4.6.tar.gz"
+      },
+      "1.4.7": {
+        "sha256": "0115218cd3b8d04388b19c6932e838f4876d20c84346c59402706d9432ceab48",
+        "url": "https://files.pythonhosted.org/packages/f9/b5/c0d778ace15d5670d5b47eb46e5c0b88a6b2506a9154f34eec84e1bee746/django-admin-sortable-1.4.7.tar.gz"
+      },
+      "1.4.8": {
+        "sha256": "f72a4d5890fc068aafe98e2d6ca9516a1e2cf2b9d41260d660187c6ecb91d22b",
+        "url": "https://files.pythonhosted.org/packages/05/e9/ed6a8092c1ba9a79e3553d1e4d115452492c3cf60f3d54f98b8303c7d231/django-admin-sortable-1.4.8.tar.gz"
+      },
+      "1.4.9": {
+        "sha256": "6df983445a6f29e5b00bdb306cc51b86c56ea7b6a772757f8d4cc9e7d20b57a1",
+        "url": "https://files.pythonhosted.org/packages/66/e3/a5a20a1d12e01a7e2261e42d3e1f71173c0dc4859e9d69ed0c9a15f32af1/django-admin-sortable-1.4.9.tar.gz"
+      },
+      "1.5": {
+        "sha256": "b28804b6566d8acce0ef6e6ee403c4b700b4aa4d17b00223965198965c5e82b4",
+        "url": "https://files.pythonhosted.org/packages/25/9e/8f76392e83e3cbb1fb9bb3f4c4b97a08739ffca0f3152ea9cc019d814b74/django-admin-sortable-1.5.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "ffd448e43e7c776315654579b8bc6b730fed2533729aa385f368b39b747f9a6c",
+        "url": "https://files.pythonhosted.org/packages/77/e8/7b8050001b6d69da8fb253160f7d4d04cb83d154f95602c529194352d484/django-admin-sortable-1.5.1.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "5849b9d618073af5b372f0a2ccd3bbe69484d517aef764069bdb0fa1770f8151",
+        "url": "https://files.pythonhosted.org/packages/5c/71/bd4bdd97d1bcf9d5e655b83e3ae92b92e05e340da1d8973e329b2dc3d612/django-admin-sortable-1.5.2.tar.gz"
+      },
+      "1.5.3": {
+        "sha256": "d43ae49385f6436f2e7ca2402e7e0e2d24aa2c1fc80305eed7b4d8109fbf9f6e",
+        "url": "https://files.pythonhosted.org/packages/c5/aa/6359ed11372f6c94345f6375f502987ecf586e4dce9529fb7f4ea44d71cc/django-admin-sortable-1.5.3.tar.gz"
+      },
+      "1.5.4": {
+        "sha256": "57fac4571b61141dbba205ea837288f511a4d095da337aa6d96490f87474392b",
+        "url": "https://files.pythonhosted.org/packages/72/80/69d6de66b70938182909f342d453ff172752d8a96ad9af06e331164042a7/django-admin-sortable-1.5.4.tar.gz"
+      },
+      "1.5.5": {
+        "sha256": "7d597dc187997f70e97af0164afba16c273a177db32ef875d2144a95c0ab5a2e",
+        "url": "https://files.pythonhosted.org/packages/0b/3e/c0be46ded59327058f2d39a9eac277e080599ef8c281512b23ed46e9824d/django-admin-sortable-1.5.5.tar.gz"
+      },
+      "1.6": {
+        "sha256": "acc8ce9610ffa471ae863da3267e9ff9fd4f0bafa40ade6b247176a89a6c2044",
+        "url": "https://files.pythonhosted.org/packages/c6/7d/9394429225055b74e95de80cbf1b99ad74b4d654133db1f5e090fcc380d5/django-admin-sortable-1.6.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "80475d5923d3643a639d31e570d5283fc70e3e085f89f86f6ccb86ff766280c8",
+        "url": "https://files.pythonhosted.org/packages/c3/7b/9e7fb44e6a7f1e0d8707cce576caabd57914f11b6191660093c2ff57770b/django-admin-sortable-1.6.1.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "39b6b2f865c1952f6ab398f9ac613d576e94eb638c3dced8340945ed871bb17a",
+        "url": "https://files.pythonhosted.org/packages/20/64/ee46a0cc36d6c59f9af0fef2f197dc4596b243187e3f2c2e2dc5169cd805/django-admin-sortable-1.6.2.tar.gz"
+      },
+      "1.6.3": {
+        "sha256": "92932c1182a378f8995ccb50d0369d5d7fdaffb43660b50f2bfeb74975cba3cd",
+        "url": "https://files.pythonhosted.org/packages/1a/9d/4732d6407b94bea4f9c32f56a8fdf9674a6e319ee87bf7f6853cae49a376/django-admin-sortable-1.6.3.tar.gz"
+      },
+      "1.6.4": {
+        "sha256": "e1c8f160a057a18c0fe93114537a8d45aa51fa3e4c61d97749663b115cdddfef",
+        "url": "https://files.pythonhosted.org/packages/98/a1/8909dfc94971404a04241e9397b2e89427cbcf87e93e5a577ab37a8ec881/django-admin-sortable-1.6.4.tar.gz"
+      },
+      "1.6.5": {
+        "sha256": "91b4792461fda1d5cccf3fd4c0159249bca9690e59ae4b8caca59fa36e7e2360",
+        "url": "https://files.pythonhosted.org/packages/2b/70/ad04746f47c326f91ffc2422a86a8cb7584f0b4ddb36ee46649cf176d03d/django-admin-sortable-1.6.5.tar.gz"
+      },
+      "1.6.6": {
+        "sha256": "b78447be8390ad1d5ac302f69e22395c976bd303d22205a6bc8600eb01775798",
+        "url": "https://files.pythonhosted.org/packages/be/46/4d7ecbec4fa6c2e0de7bdbfbf6bfae364e689f6bf866e6d105c4668ca69d/django-admin-sortable-1.6.6.tar.gz"
+      },
+      "1.6.7": {
+        "sha256": "8f459147a9f5cb32d1f76f054a85422fdfa539d58ee96e4ff2c5a24b27ca763d",
+        "url": "https://files.pythonhosted.org/packages/97/26/668921de5859e2a1dc6de5b5eb317075f585c9d60999ec7fbf2954d3eb65/django-admin-sortable-1.6.7.tar.gz"
+      },
+      "1.6.8": {
+        "sha256": "78bfc30c8881f332354731c5c78d895a17a8479f1c1b0e23e3c8afd8ca334211",
+        "url": "https://files.pythonhosted.org/packages/f1/dd/d80f8fd178600749a22fd5c80a9ecc596bd70235f74ccc9c7f26f54f2d6d/django-admin-sortable-1.6.8.tar.gz"
+      },
+      "1.6.9": {
+        "sha256": "622b1a1318ab2d28b740764431f942ac64f6e974cc5255dddbf484d6323121ba",
+        "url": "https://files.pythonhosted.org/packages/a9/14/e5c906d564cae810289391e3d4714c1186e805ffea5b1ef94832c8914236/django-admin-sortable-1.6.9.tar.gz"
+      },
+      "1.7": {
+        "sha256": "848b817d39fa0321fe07b0225ecbc90aa27535a4a04852c3d0e4ce48ca19fbb0",
+        "url": "https://files.pythonhosted.org/packages/5c/c4/0690e2fc1528bf885dd9feca5774d51cb9068d8aecb797935402c2fb7b62/django-admin-sortable-1.7.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "bad7888fcd0ed1687a077e974655c25d860556d6c7a06cf4eda8578b0fec43b3",
+        "url": "https://files.pythonhosted.org/packages/51/87/b98948e6190ceb084d67b68cf1aa34794a648228c4dd8c7fa3b68580bd2f/django-admin-sortable-1.7.1.tar.gz"
+      },
+      "1.7.2": {
+        "sha256": "275808c85968d6cebe48274b7e40dfcbae3a60d6e8150b273a7b4bd1121be986",
+        "url": "https://files.pythonhosted.org/packages/2d/d1/a5b70e3e436f1ccd2d6da4a4dff8abb36ddc37fdf251d49185a871486e54/django-admin-sortable-1.7.2.tar.gz"
+      },
+      "1.7.3": {
+        "sha256": "093ffbcf665046718e61ed32c6a8238d02f7d90173887209eaac8cddf7da3501",
+        "url": "https://files.pythonhosted.org/packages/3d/b6/9a541be229c6df7cd500977fc020a9f15e65dad5f93bc28cb617ddda4d3d/django-admin-sortable-1.7.3.tar.gz"
+      },
+      "1.7.4": {
+        "sha256": "a317f04a1bf605a652375e05209450d557c269657b86d3cf32e9df8caeac38b9",
+        "url": "https://files.pythonhosted.org/packages/9f/5f/0e153ffeed114d70ff0afa35074c02825c9fbfae6330eb1dffd76624ad42/django-admin-sortable-1.7.4.tar.gz"
+      },
+      "1.7.5": {
+        "sha256": "987046315f6f44243e3a31910ca9abb5a9661208f74ac91619d02c485cd302b7",
+        "url": "https://files.pythonhosted.org/packages/d8/0c/b06ed1ce1a870e7c68c49764654b57657a1792906cb98aeca078ff79cbea/django-admin-sortable-1.7.5.zip"
+      },
+      "1.7.6": {
+        "sha256": "eba81e35a9af26b91b0b9e64c20a633a612aa53eea79d5b6278e8d407a101253",
+        "url": "https://files.pythonhosted.org/packages/9c/e1/76372bf5287d7ef02859309703b177397f3858559ff1ed232661ed60fbc1/django-admin-sortable-1.7.6.zip"
+      },
+      "1.7.7": {
+        "sha256": "56302bcbc17f2a2f8f23b5da2a843335f55d7977125ec35fe2aec658c01fc7f3",
+        "url": "https://files.pythonhosted.org/packages/26/69/a1f6c283dde04092b378f813931a2adb9204e0671c63316e3e6bfa2a0b67/django-admin-sortable-1.7.7.zip"
+      },
+      "1.7.8": {
+        "sha256": "c5913073ffac6d7855cf8c3df5ff7a0db09caefe636e42000e7058477fb43302",
+        "url": "https://files.pythonhosted.org/packages/83/a6/3696e0ce7a3596841ad5b8add5c9163e3b2fec469b11170afbe6afdfea69/django-admin-sortable-1.7.8.zip"
+      },
+      "1.7.9": {
+        "sha256": "f0f1acf03aa299658565a92635f9665e443e4c4a6b79104933e8599a68dc0193",
+        "url": "https://files.pythonhosted.org/packages/69/37/ec08adad1ad4aea83fc2a1916942a1dd40f67df5f8b99669fe82d1452c06/django-admin-sortable-1.7.9.tar.gz"
+      },
+      "1.7.9.1": {
+        "sha256": "118121609e231dadfa7a07073dc66c504ce4d9121fe2a3c486e9c6d0bf3d97d9",
+        "url": "https://files.pythonhosted.org/packages/68/a6/ffd55f090152753f81dbc230750510a8a256757e89d4ec4127f3f14418fe/django-admin-sortable-1.7.9.1.tar.gz"
+      },
+      "1.8": {
+        "sha256": "32fe8fe118a1d23975c608636a61a9a0715cb10558932cc09177e97764f08b3d",
+        "url": "https://files.pythonhosted.org/packages/66/e9/97f475c9014a3fae4e98c1166963943b975976c128d8072b717af92d44ac/django-admin-sortable-1.8.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "a7794f26e9bdef2ae55c49480b2700b94db2e3232f37388b67d1445abbb5ae3f",
+        "url": "https://files.pythonhosted.org/packages/ac/ba/823594c92ac50116f191aa1f176dc318f5de0474ae324b609b50b4c37386/django-admin-sortable-1.8.1.tar.gz"
+      },
+      "1.8.2": {
+        "sha256": "9088ae5c3c1068895a16130a6da846e34f8c347d6536dd68705f21e53f91ae51",
+        "url": "https://files.pythonhosted.org/packages/b4/43/2677d6fb609cb390042c12433eb10aca53c95b8c9e305248d143c552131f/django-admin-sortable-1.8.2.tar.gz"
+      },
+      "1.8.3": {
+        "sha256": "efb32c4c2fef7f6db4bde399103a46c7323db280be5350b0c8c13d8851d8f04e",
+        "url": "https://files.pythonhosted.org/packages/1d/f2/11391782d5559883271d0c9b8c2fcd3a5b92806bbe85d36694e0d859f464/django-admin-sortable-1.8.3.tar.gz"
+      },
+      "1.8.4": {
+        "sha256": "a725a4b53df4651d3e52067d01bff1a56ae8daacc21ce5bdebf60cf0e2e99e34",
+        "url": "https://files.pythonhosted.org/packages/db/ed/4d61a5c24e7c88a87accaa64095489f9299c7a4a6621b6996e366a900fe3/django-admin-sortable-1.8.4.tar.gz"
+      },
+      "2.0": {
+        "sha256": "1a2b12f4f02a6c9c2208ab882813d5ff212d982b65cc623a00de39d3bea60220",
+        "url": "https://files.pythonhosted.org/packages/06/59/38f7e0c19778e715912cd3f7eb11ca47e38bee3c3666df98825fb943cd4c/django-admin-sortable-2.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "fd75b2f7149286e59dc4cb97f0a298311613634fb9252486525485e3a80689f5",
+        "url": "https://files.pythonhosted.org/packages/36/ce/772ffd3a101b721f4fd3655caf77a2bd305425518c911036f1aa1a5156be/django-admin-sortable-2.0.1.tar.gz"
+      },
+      "2.0.10": {
+        "sha256": "67411b0d749c5a8c1f38018f4d61a9f003832f3f4d2cff0436e85ff68c3de5e3",
+        "url": "https://files.pythonhosted.org/packages/7c/ca/263f11c3bdce7b81dbefc25cfad2d2348459f23366d71e2894e52b9e2936/django-admin-sortable-2.0.10.tar.gz"
+      },
+      "2.0.11": {
+        "sha256": "7c49c4b7382a50d4753d8f4ec465c8e9d5e49662a567670341096d45efa40552",
+        "url": "https://files.pythonhosted.org/packages/5f/9d/7e01bda1287807092ebf6f91d518cfb90a7c9c112c1cd010669a59d8e4d6/django-admin-sortable-2.0.11.tar.gz"
+      },
+      "2.0.12": {
+        "sha256": "9547f8f925b488f37c1e659ad71d1c1818d04718e36ff47a17deb622003ea93b",
+        "url": "https://files.pythonhosted.org/packages/c7/b2/d8012ad68138848a9d27fe6501605d664fd120155f36058d8e6035d5fcd3/django-admin-sortable-2.0.12.tar.gz"
+      },
+      "2.0.13": {
+        "sha256": "71028f18e163f56de763780776f28e04253a0fbc48d3d0943eaa152f9614cfc5",
+        "url": "https://files.pythonhosted.org/packages/49/9b/f8a396d970f077ac724dddcf35b640c2f64604029b26fe148e27deff4a0f/django-admin-sortable-2.0.13.tar.gz"
+      },
+      "2.0.15": {
+        "sha256": "233e7770cda33dc648ffeacf4fa2cc3f677ee1e05840f6dda621cb52939871e8",
+        "url": "https://files.pythonhosted.org/packages/76/11/d9e3b63606eaa2bdeb958a7e8ab82810096bdd358e410d7ca2dc372144e5/django-admin-sortable-2.0.15.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "1dea4771a5515ba62f4a1811bbccf44789cc810e5265afbec196381c621ad6c1",
+        "url": "https://files.pythonhosted.org/packages/a4/8b/9283b5fa648b4655a507b62a39a10095292bedb541b91727de397efaa648/django-admin-sortable-2.0.2.tar.gz"
+      },
+      "2.0.3": {
+        "sha256": "fbe8cb066e181775f7e3b366b3b8c17c041f32f4c814d3911312bd4790d2465e",
+        "url": "https://files.pythonhosted.org/packages/54/40/c902b2ed06b31981fea4f5e3a26d6fe1ea41683f37657786b4355fa0f659/django-admin-sortable-2.0.3.tar.gz"
+      },
+      "2.0.4": {
+        "sha256": "7945eb11d77fd2f719e7174df20512e5e63fd0e50d4e24c2d1e49cc9394f0708",
+        "url": "https://files.pythonhosted.org/packages/68/c2/026729ff99e90571873c59943472ce5867ee72b031cffc25c0b5aefb97fe/django-admin-sortable-2.0.4.tar.gz"
+      },
+      "2.0.5": {
+        "sha256": "1765a62a39be14965d419f4d80e341b57ab529450b7bc4bbd648d317e1d99ebd",
+        "url": "https://files.pythonhosted.org/packages/5b/af/a8527c3817f77015ce225239a28b41b4f5c98f9a28df5b95260e59892352/django-admin-sortable-2.0.5.tar.gz"
+      },
+      "2.0.6": {
+        "sha256": "6b7c815d128a17867b275ffaa57f3fba915a6b98f86dbdb5e07c5f9d21835613",
+        "url": "https://files.pythonhosted.org/packages/4e/b8/f61f11b6655ea68889d72c87450235a9b32191c4f489f387f5e5727205d8/django-admin-sortable-2.0.6.tar.gz"
+      },
+      "2.0.7": {
+        "sha256": "bd259bf2e7baea53b23c64de19503b02a5bac15f1bd67392a26df3b18ab6fb58",
+        "url": "https://files.pythonhosted.org/packages/a1/26/8d3ab5cdd50e2cf43d4b2f9d0a177f5bed4fcbda16f4d2de5fab827e3143/django-admin-sortable-2.0.7.tar.gz"
+      },
+      "2.0.8": {
+        "sha256": "278efaf95b785190febfe64379f3e632ed150ae7abf176b8b4c9094c1f406072",
+        "url": "https://files.pythonhosted.org/packages/64/62/781ba159a5ed686865d57d8c7195f3acce32024280f5f74fc06ec53e14a4/django-admin-sortable-2.0.8.tar.gz"
+      },
+      "2.0.9": {
+        "sha256": "47966a44208e24f4278ae58be72620388de405d2dc16b36b9d263f9a960ad12d",
+        "url": "https://files.pythonhosted.org/packages/29/ad/046b0926729c0bf126406323f616430905c512356f486d4fcb1b48121403/django-admin-sortable-2.0.9.tar.gz"
+      }
+    }
+  ]
+}

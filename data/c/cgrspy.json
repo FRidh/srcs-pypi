@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1.1rc1"
+  ],
+  "meta": {
+    "description": "Python interface to the CellML Generics and Reflection Service",
+    "homepage": "http://cellml-api.sf.net/",
+    "license": "GPL/LGPL/MPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "4e71c9127f0fcaaa734c2081e09a7cb4653bad2eb785f1f09de17235b7c8555c",
+        "url": "https://files.pythonhosted.org/packages/93/83/154eb7f904444f2f7e31afae040bee3e352339b8e06d2dad75c343978eb0/cgrspy-1.0.linux-x86_64.tar.gz"
+      },
+      "1.1.1pre": {
+        "sha256": "c46f0989b791e4d5cd3f247bc4817c8e7d5a90ef83293684312f06946529bfaa",
+        "url": "https://files.pythonhosted.org/packages/07/36/03ef57f334d43fd7f4f2469250df568a9e16ebbb60e36032edc60177f359/cgrspy-1.1.1pre.tar.gz"
+      },
+      "1.1.1rc1": {
+        "sha256": "2377f13227406dc541b291cbfac5f90bcd984e3fb406da6e8da1941cf9e5c3d5",
+        "url": "https://files.pythonhosted.org/packages/ae/33/e5a7a0fc464525b1876e516860bd3379d13211b6e514addeec5c4cb4f56e/cgrspy-1.1.1rc1.tar.gz"
+      },
+      "1.1pre": {
+        "sha256": "489de274c1259706eb71a994f8932d6768f7e311c0e1e507cb7545c8b11b3a7a",
+        "url": "https://files.pythonhosted.org/packages/ec/43/2f181946981dfcd666594d7e53785860c6ba94a80e98dd55f9e273650fe2/cgrspy-1.1pre.tar.gz"
+      }
+    }
+  ]
+}

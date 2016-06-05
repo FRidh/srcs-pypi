@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.12"
+  ],
+  "meta": {
+    "description": "An extension of docutils' rst2latex with inline math, equations, references, and raw latex",
+    "homepage": "http://muralab.org/rstex",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "5fd1feecb76f4aef7e43f8085b57fff94803c09032e063155c5cef6a87e95a20",
+        "url": "https://files.pythonhosted.org/packages/91/86/03a6b6b5d26ea64e13c74bb377aa0fa8039fe8c48c4381f429d4d7ebde99/rstex-0.10.tar.gz"
+      },
+      "0.11": {
+        "sha256": "9b6916f06cadf323071650459e0d476d3dab1c8268625454b2835becd4773bef",
+        "url": "https://files.pythonhosted.org/packages/9c/04/edebb6f61baddcb737ba8a9b9591e3a89e7e6920a59c745892872d935c67/rstex-0.11.tar.gz"
+      },
+      "0.12": {
+        "sha256": "ef3b85d07bc8691f3f96e7731788f113e3e34c601e85e0fdcbd817726a64e754",
+        "url": "https://files.pythonhosted.org/packages/66/fa/aab997066163ca2f6594c52c6dcd696f289b021e1bd9eaae7280e2405c7c/rstex-0.12.tar.gz"
+      }
+    }
+  ]
+}

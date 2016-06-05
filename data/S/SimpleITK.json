@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "Simplified interface to the Insight Toolkit for image registration and segmentation",
+    "homepage": "http://simpleitk.org/",
+    "license": "Apache"
+  },
+  "versions": [
+    {
+      "0.8.0": {
+        "sha256": "8583372fa5136f855954d090d85b5640ec90bb89526fa8a19d7acb6cf0cd97f6",
+        "url": "https://files.pythonhosted.org/packages/cc/67/ac612bc8fbc93084343500560a25f533ddb586e393d43871193bdba0c68c/SimpleITK-0.8.0-cp27-none-macosx_10_7_intel.macosx_10_8_intel.macosx_10_9_intel.macosx_10_10_intel.whl"
+      },
+      "0.8.1": {
+        "sha256": "ef4d63d20c780552509809ba6905698ff8e07f05c8e51580802db279a5a3a1a8",
+        "url": "https://files.pythonhosted.org/packages/e7/3b/55e783d86953d1e27ae73e9e73b6a4560dcf1ee72ac7250cdea5b1989420/SimpleITK-0.8.1-cp27-none-win32.whl"
+      },
+      "0.9.0": {
+        "sha256": "9e7a7cf21d71d1de2464577212538a2ac588221c57671c036c29f5e33b446c7a",
+        "url": "https://files.pythonhosted.org/packages/cb/fc/3ca848d28aabd5c2d9a096eb9936d6202e660943acc8b1fb8fa680a81de7/SimpleITK-0.9.0.0-cp27-none-win32.whl"
+      },
+      "0.9.1": {
+        "sha256": "e872338181c9639739be24f62920693f87bcda16c65053e0c341b5ac41d3d862",
+        "url": "https://files.pythonhosted.org/packages/c2/75/6073a8d618986f332f69f8795a9ac0c59e265dbbc2a7a4c28a45e56ccd28/SimpleITK-0.9.1-cp27-none-win32.whl"
+      }
+    }
+  ]
+}

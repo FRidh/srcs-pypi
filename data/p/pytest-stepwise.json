@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Run a test suite one failing test at a time",
+    "homepage": "https://github.com/nip3o/pytest-stepwise",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "d0578f2be65de1d532c35e205adb9ddd0aa833917df2cf711cdaa5ae58f82fd4",
+        "url": "https://files.pythonhosted.org/packages/41/82/ba79726770a0115ff6f7be9ecf411d22bedba967dee188d4433dd5acafb6/pytest-stepwise-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "3c5042aefd4bac168a38ac9872f62f96c7bf5a7a47ea865dfed924b6e33cf01f",
+        "url": "https://files.pythonhosted.org/packages/e1/6d/4c6ce375eadc8b419fcb8c8c666a53b1ce598c2ed2de676bcf2f6e9a6241/pytest-stepwise-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "250ff7e63024152503eb2f0502257247ca0a3eecd73a587c49408a46558f6051",
+        "url": "https://files.pythonhosted.org/packages/78/1e/ea6939be89c05cba4d1344a7344c951f97a12c08835c5d7e63f268371d29/pytest-stepwise-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "6f5a47f2fd91d4d9522334b1694e18ea74883cea1cf0ac585b4af70098089051",
+        "url": "https://files.pythonhosted.org/packages/4a/57/7dd848cfec8f8ca8fc94c26a7df798273ce336e804c9e43598b08d0467e3/pytest-stepwise-0.4.tar.gz"
+      }
+    }
+  ]
+}

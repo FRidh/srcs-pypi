@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Command line to private gist. Example: gi.py myFile",
+    "homepage": "http://github.com/inconditus/gi",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "3a3bf86a31f46eb2b5f115d885355912754c09017d5c8f5ceecba320a926bd92",
+        "url": "https://files.pythonhosted.org/packages/93/c5/57f8045822a90dd0df3b644a357323ce86c9ba96b20d851fb5ba7b8b8002/gi-0.1.tar.gz"
+      },
+      "1.0": {
+        "sha256": "5628e47ee99806a50c36223e2ba65fce0f62800e98e607d3bb1f34fe504bb808",
+        "url": "https://files.pythonhosted.org/packages/a2/d7/c55d7fc74948dc5b0c3c52a922718279f62db85e1c93f610ddba66a14ded/gi-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "6b35e906abd9f6c828b388dc672ab8fb3a46673c9ba99cb0a183ec59812e8a60",
+        "url": "https://files.pythonhosted.org/packages/d1/9e/36eb134eb4da86ea570cafa4056537576574baef2078009052dbe4f818dd/gi-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "13e5a3c227a8bb6fdaf22ca5b70aa81acc936955cb5d3ec10c1c8bf34b79aaea",
+        "url": "https://files.pythonhosted.org/packages/0f/6a/6baccd9dba213be347964fcf27a7946005e9fbad2192876b17edb0c1b842/gi-1.2.tar.gz"
+      }
+    }
+  ]
+}

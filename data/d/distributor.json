@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "2.4.2"
+  ],
+  "meta": {
+    "description": "Nginx, Haproxy configs and DNS analyzer",
+    "homepage": "https://github.com/m-messiah/distributor",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "4d8cdaf981ecf110f6104f729dccfc499e1a7e3897e21462809be0b95f933fdb",
+        "url": "https://files.pythonhosted.org/packages/ea/74/00dc7fbb271ffa92613223055f7f700b0d76bfb3ce434b644ca6f3ffc13e/distributor-1.0.tar.gz"
+      },
+      "2.0": {
+        "sha256": "7fcccf7db1b6b4425e51447ed68afc53e78a594525937dadf8aec1b7f8178930",
+        "url": "https://files.pythonhosted.org/packages/a8/2b/5793922da65764d8506b5bed094d74d10042fe17fc08f5b8bc311d7e8b5a/distributor-2.0.tar.gz"
+      },
+      "2.1": {
+        "sha256": "1fdbc0f45ef62b3cfb49f692b2acf9bf54c2d13787e72d399e22c363f10ee711",
+        "url": "https://files.pythonhosted.org/packages/7b/7e/b8e89461e18f5c4d94fdef4a10ebff578a7d9d64e46afeafe47aa92c4e3c/distributor-2.1.tar.gz"
+      },
+      "2.2": {
+        "sha256": "3b903fd62d68bb1d79e47c13b4056aed38701790310147c0bb878079ca0c4d2c",
+        "url": "https://files.pythonhosted.org/packages/5b/29/315cbe09e9000d45b048a1d3e28c9838fbceb02c19e6de98372171564048/distributor-2.2.tar.gz"
+      },
+      "2.3": {
+        "sha256": "8bc771505a0581504d104126046f7d8a079c831c758f1851f14ff449c49b84d8",
+        "url": "https://files.pythonhosted.org/packages/f5/65/094e73ff89c2ec5c39921b4fb31d446810f57ec68036f1bcac5e66ed177d/distributor-2.3.tar.gz"
+      },
+      "2.4": {
+        "sha256": "61c0ccd3b9fb83f794e88906d224d602f79d78aa53785e81a0d906f126830778",
+        "url": "https://files.pythonhosted.org/packages/a2/c4/63afca4a3129a0be00d72f6b0bb263e7f7d84076e28221adbb9e5fab0e85/distributor-2.4.macosx-10.11-x86_64.tar.gz"
+      },
+      "2.4.1": {
+        "sha256": "79c2286521a25ca502f8e2cb615f2c4e4f2f2c44e29e6f86a48d012ce19287eb",
+        "url": "https://files.pythonhosted.org/packages/57/be/ccf3567dd6d0677cae3af13b556e28d89a2ff47b0293413b3f73f1f0def1/distributor-2.4.1.linux-x86_64.tar.gz"
+      },
+      "2.4.2": {
+        "sha256": "51ebb843ee0e24bf303bd9947e018525d10f85f4164454414e6eba4bad7254b1",
+        "url": "https://files.pythonhosted.org/packages/e3/0f/0288cbd7badb07138a16acd665b16df87fab4f532e4df15cf62b371f98f9/distributor-2.4.2.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

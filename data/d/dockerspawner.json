@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Dockerspawner: A custom spawner for Jupyterhub",
+    "homepage": "https://jupyter.org",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "df84194aedbdd352ab2d5ff178feefc75a2f4e50436201fe7090a94bd3419efc",
+        "url": "https://files.pythonhosted.org/packages/97/70/42a6a43e22c791ccb8d4900ea0a74587de52e8af763fa1c486734d9a4600/dockerspawner-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "04c4173442a65adb1508aabefd98ce0732784b7deac0f182f28df841be6cd51b",
+        "url": "https://files.pythonhosted.org/packages/75/42/09d726b2562d7cdfe325d4f077b18b280f4d31b6cd6e4cccc6351435d7cb/dockerspawner-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "ddffa261be1036b49b95eb50d085f25f4c10dc225fe93b302dfa4a45d97da847",
+        "url": "https://files.pythonhosted.org/packages/97/bd/5c8eb204356453ff36c783a73a4b16c3288ad8f3859ed760e53c903f5165/dockerspawner-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

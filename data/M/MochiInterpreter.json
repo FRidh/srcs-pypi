@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.3.1"
+  ],
+  "meta": {
+    "description": "This widget is an implementation of the interpreter example from MochiKit code.  It is provided as a facility to develop TurboGears applications that needs JavaScript. It is based on code provided at http://trac.turbogears.org/turbogears/ticket/255",
+    "homepage": "http://www.g2ctech.com/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "7f5c6c5c53ed13d0a133b06f1ee8142f32bed91ed4e1ba717468211ce29a30c3",
+        "url": "https://files.pythonhosted.org/packages/50/72/3df132e5d02e8fa9ece5e0355b9a98fc34d9e501db9eec4189cb121da81d/MochiInterpreter-0.5.linux-i686.tar.gz"
+      },
+      "1.0": {
+        "sha256": "b342a866a6df9c0ae74c69e733700d53b4b8d4b86d1d5a662721f878a769b89b",
+        "url": "https://files.pythonhosted.org/packages/6d/67/c4575ca4f3058a5a8f93f06445546c857f1ccb2b73e2573e55fffd8e0b73/MochiInterpreter-1.0.linux-i686.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "087c5e3e6e8d6bc5ef28aec92c594f8ba6c0e16c8238d58d395fb14326f05f59",
+        "url": "https://files.pythonhosted.org/packages/2b/f2/fc3561ad36b83c360f376da94d744a2905438b517ba54063a8fb19b88925/MochiInterpreter-1.3.1.tar.gz"
+      }
+    }
+  ]
+}

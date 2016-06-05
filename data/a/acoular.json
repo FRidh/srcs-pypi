@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "16.5"
+  ],
+  "meta": {
+    "description": "Library for acoustic beamforming",
+    "homepage": "http://www.acoular.org",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "15.02.28": {
+        "sha256": "97a0ea55b8c155bc3d6f3498e8c49f1ec5a240da50b0e1dce442d07db9ffa129",
+        "url": "https://files.pythonhosted.org/packages/95/6f/063383c5d6f8706098fce185d7c350ea82cab982dee80c44191ed051c5fb/acoular-15.02.28.tar.gz"
+      },
+      "15.2.28": {
+        "sha256": "965d898ec0bee85966b14fd7d8ec597e7643317115f9a2cb81406b6535cbd6b6",
+        "url": "https://files.pythonhosted.org/packages/30/36/bfbe2636658a0f3a64e8071a474d6a1eda9f8f268f4bc79c45fe7bf4e4de/acoular-15.2.28.tar.gz"
+      },
+      "15.4.23": {
+        "sha256": "629613e9a6708daf9a3dc1e33d9c8fa88a74c13d33e89e0f43e7970be68b0a16",
+        "url": "https://files.pythonhosted.org/packages/4f/38/1c133cef3501f8dc652347b6149352d750cfb1b9166cfbdd2870359320df/acoular-15.4.23.tar.gz"
+      },
+      "16.5": {
+        "sha256": "3b0d8b757e16ac8eb295ff759cb0668dfffb734e8869d91e66f7ec96267caa9d",
+        "url": "https://files.pythonhosted.org/packages/fd/44/8c44e47775d24caca02affb6356b849261e67a7d0d6394a36d94def42706/acoular-16.5.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.5.0.2"
+  ],
+  "meta": {
+    "description": "Python client library for Apache Accumulo",
+    "homepage": "https://github.com/accumulo/pyaccumulo"
+  },
+  "versions": [
+    {
+      "1.5.0-SNAPSHOT.1": {
+        "sha256": "0964bd416e7bc384c1e8766634c6b43135bde260fe2322ee6a392a4171e87dcc",
+        "url": "https://files.pythonhosted.org/packages/06/0a/c7c428404d42525f933cb4e46fa60a4afba9347f3993bc9a40425120aaf1/pyaccumulo-dev-1.5.0-SNAPSHOT.1.tar.gz"
+      },
+      "1.5.0.2": {
+        "sha256": "1a8eb858831f423c6f407b524036a4af45e97171b417069f85e622952ff43222",
+        "url": "https://files.pythonhosted.org/packages/36/5a/27075bd02e79ba0e22ddd000b5f961017c33cc7c2d1fa0ed897bc04564aa/pyaccumulo-dev-1.5.0.2.tar.gz"
+      }
+    }
+  ]
+}

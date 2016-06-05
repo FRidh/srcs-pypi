@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.11"
+  ],
+  "meta": {
+    "description": "OCF resource agents based on inqbus.ocf.generic",
+    "homepage": "http://inqbus.de",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "fc00b4e80ff84b526e234716281d6d09d3de4dbed5634816351221838517fe20",
+        "url": "https://files.pythonhosted.org/packages/a6/f0/826c2ee6b33dfdaf34d39765d0064d718ea8303f3e641765d9435cbcbf25/inqbus.ocf.agents-0.1.tar.gz"
+      },
+      "0.11": {
+        "sha256": "7968d893e0d9c3ad14482d1a232cdfa2c9c5fc6ab697201e3a5e7b900202cda8",
+        "url": "https://files.pythonhosted.org/packages/85/a2/07b0a55bff32a5a077ab19ae9cd5d96dca83a55156a444a5c35f77124312/inqbus.ocf.agents-0.11.tar.gz"
+      }
+    }
+  ]
+}

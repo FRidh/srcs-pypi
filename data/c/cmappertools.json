@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.24"
+  ],
+  "meta": {
+    "description": "Optional helper module for the Python Mapper package with fast, parallel C++ algorithms",
+    "homepage": "http://danifold.net",
+    "license": "GPLv3 <http://www.gnu.org/licenses/gpl.html>"
+  },
+  "versions": [
+    {
+      "1.0.21": {
+        "sha256": "6739ee2e1932146498a30a06c5f627383f48450c5eacf2ae4714c13d4ed149fa",
+        "url": "https://files.pythonhosted.org/packages/d3/8d/d1f479e6504394e37ca4237614dfec4dcc5447c23eafb3981f232628a2ed/cmappertools-1.0.21.tar.gz"
+      },
+      "1.0.22": {
+        "sha256": "ff5f43461919cc0c8548950f2bb0bc886f67e9bf9836f9555b62ff50fa1e29b3",
+        "url": "https://files.pythonhosted.org/packages/d8/83/ed69778d004ea482de5c6562d2f5dd093ecc128bda131148c4c4daadbee4/cmappertools-1.0.22.tar.gz"
+      },
+      "1.0.23": {
+        "sha256": "4110eb4a6a1b41b62663ffd95dc7b9bd77f0a51b1dfe074ede34df720c6d13df",
+        "url": "https://files.pythonhosted.org/packages/bb/56/b784c957b284da6ac7f8d17c7b003778ff30875b4bdac9edac347b74633f/cmappertools-1.0.23.tar.gz"
+      },
+      "1.0.24": {
+        "sha256": "537f206170be0f083f952311742e5273d0eabc63a616b485c60614f90484082d",
+        "url": "https://files.pythonhosted.org/packages/23/38/f913b01b6a77fb89fe2b2a7482d19c5bd3153c32c7fb563f4cefc884602f/cmappertools-1.0.24.tar.gz"
+      }
+    }
+  ]
+}

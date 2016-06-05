@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4.1"
+  ],
+  "meta": {
+    "description": "scripting library / orm for tmux",
+    "homepage": "http://github.com/tony/libtmux/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "80e1145323737ee09d397f8ac860ff2cf560a5fd5743e78065930d2cd5b3e3e8",
+        "url": "https://files.pythonhosted.org/packages/1e/1f/e1bbe15df220992f2baf0602c5bd08198809fee921dacba2b494a8ef655f/libtmux-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "1c05986bd629971faa8d3d5025e1ba6d2ca5fe49130ebb1517a7a93adb0d8560",
+        "url": "https://files.pythonhosted.org/packages/a3/a8/32fd5cacc95ca630c3abbd5da492913657331cf6404244abc7c16f8f6fd7/libtmux-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "78d8081c9c5af681e1ea5c28fe7cdc48a45a7d6b828ceb75fa8b1af771ac1dfb",
+        "url": "https://files.pythonhosted.org/packages/d8/47/e9d4cd592fb82f454f5faed26ea6599ba6cd8770210b8acaa57d6006ad62/libtmux-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "ce973afa6b156bd961795aff85915ac4c3857760d3cf5660bb61c25fbd76e786",
+        "url": "https://files.pythonhosted.org/packages/8d/65/17c886e93d46fa4ffc45a497e537b874c7bd1dd4654fa032db4adef0b923/libtmux-0.4.1.tar.gz"
+      }
+    }
+  ]
+}

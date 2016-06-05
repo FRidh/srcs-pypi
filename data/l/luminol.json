@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "luminol is an anomaly detection and correlation library for timeseries data",
+    "homepage": "https://github.com/linkedin/luminol",
+    "license": "Apache 2.0"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "dbaed0665e7e823cf98bfd5ef936f0f018b05db66d99ce41c726f97867e0a7ca",
+        "url": "https://files.pythonhosted.org/packages/01/00/4316a95f3f5fcde3c8122b446ad4ae8af80e781c8fe0df8893d93e923c74/luminol-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "9c947cf5eb7a897c438bfa00f4c47799bb9a4e634b360a85c2b140a45bde8f3b",
+        "url": "https://files.pythonhosted.org/packages/3c/b4/66b39cd6f081b08456be7e3d0d5e13fafbf8e463bc672bc84f78667fe6da/luminol-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "54bf530e147edb6734a40084b4287d380949e0050253364cc179997ffca9039d",
+        "url": "https://files.pythonhosted.org/packages/f9/09/29e6a5c201da92fa32b42441d273c1b4631672d6796bd8c1fa31b7d3b520/luminol-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "7f888f8a43ceea0c215209778b7b65d04df95b60753c1d2331546d7667c10d4a",
+        "url": "https://files.pythonhosted.org/packages/6c/28/6e1f15326c6d7474efc29d2371ae2238ddd8adbd16f0058042d356f71b44/luminol-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

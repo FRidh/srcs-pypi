@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Certificate Authority Web Service",
+    "homepage": "https://github.com/cedadev/online_ca_service",
+    "license": "BSD - See LICENSE file in contrail.security.onlineca.server"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "cad65f58545d47e5935a823022cf5fe98b93d5301dd7adddb27c742b7460e20d",
+        "url": "https://files.pythonhosted.org/packages/fd/87/20d2f7779e092cbde6d93e58e5a3575b642bc14eb7ae27be49bb61460cca/ContrailOnlineCAService-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "3ea9ae1c4dfbca396b5c20dbbd2f0b62a6e64fe0385e523faf7da484bbe83913",
+        "url": "https://files.pythonhosted.org/packages/f0/71/b0fdd2033314d7a56e1426f9698bc4d8f184a82474b6da26920917b3c590/ContrailOnlineCAService-0.1.1.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "8eec283c1617e78bac62b53b35fa3854eb0ca3cb1165758f1ea7f3e6c26ea4a2",
+        "url": "https://files.pythonhosted.org/packages/5a/35/adc1778dc30cf1d895a009725f509fa59d03aa37bf12b21923a2dcf6648e/ContrailOnlineCAService-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

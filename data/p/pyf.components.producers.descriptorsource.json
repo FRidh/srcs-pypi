@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Pyjon Descriptor source as PyF component",
+    "homepage": "http://pyfproject.org",
+    "license": "MIT or PSF"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "ba5077913bbb030a3a3b0f1b57b662d6d30dbf31bf04bf308487c121548b9603",
+        "url": "https://files.pythonhosted.org/packages/2a/8c/5e90a011356a8540914e5aa77f39eefa1ab429145c1366e179b728360531/pyf.components.producers.descriptorsource-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "655f00cf3bf9e57996c9050c98e192f06010dfb69b40b5e8e5d95e200552739d",
+        "url": "https://files.pythonhosted.org/packages/a3/b3/1aac9693b77b62663595318deda37f03840856601f83777ea4d6b3dc41ca/pyf.components.producers.descriptorsource-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "691e771f5e3489126b283a85bf0e1850f8d7bc67827f09c609559b707f58c8c8",
+        "url": "https://files.pythonhosted.org/packages/06/be/0abaf60aa3b1d0d2e69fef3dbcdde5e0c09f496dbc6a701db572ce27040f/pyf.components.producers.descriptorsource-0.5.tar.gz"
+      }
+    }
+  ]
+}

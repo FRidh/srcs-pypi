@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Open-source library for distributing computations over multiple cores and machines",
+    "homepage": "http://code.google.com/p/playdoh/"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "7dbad8032b2fb7ff30381fd11fd8298dbe2221b3445565b87c3c5abd0ec38a91",
+        "url": "https://files.pythonhosted.org/packages/6b/c0/1b80d645034aa19784e41f7714445574d5ecbe1829102d39bfc5e4be796d/playdoh-0.1.zip"
+      },
+      "0.2": {
+        "sha256": "ab925de76904fc096e6cf9fc1c3caacf08a3419ba7f46c1c2c9d224aa79859b2",
+        "url": "https://files.pythonhosted.org/packages/3f/75/e64fcb76ebaea1ba37ac4b63588cbc6b5f30b6a9f015bc391fd485c5e586/playdoh-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "13c2087e8fc22e771040a56a29ceb4719253122252ac15b664c5cff8828bfec8",
+        "url": "https://files.pythonhosted.org/packages/77/c5/28a745b8649c330aa645d6d3308514b21e9c4b16382d43f186debcbc127f/playdoh-0.3.zip"
+      }
+    }
+  ]
+}

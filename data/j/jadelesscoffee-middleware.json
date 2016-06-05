@@ -1,0 +1,17 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "WSGI middleware class that executes the Node.js JadeLessCoffee compiler on a `src` folder in the JLC_DIRS environment variable",
+    "homepage": "http://github.com/nuulogic/jadelesscoffee-middleware/"
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "0e60aaf69e6d17687936929f5d7b7a7b107ea3347197b48d39af0aec1a32e335",
+        "url": "https://files.pythonhosted.org/packages/54/ad/b218e0b46e7d87aaf635e3271cacbe51b3700f645a05ef9b212c37d9411c/jadelesscoffee-middleware-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

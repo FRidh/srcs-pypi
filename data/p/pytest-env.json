@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.6.0"
+  ],
+  "meta": {
+    "description": "py.test plugin that allows you to add environment variables",
+    "homepage": "https://github.com/MobileDynasty/pytest-env",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "ef2e1682d2b60159f564b03009cb2f2bbb1c21db4edcf36dbc66349390cb51aa",
+        "url": "https://files.pythonhosted.org/packages/0b/50/72037b5199391b2f5752dcf825e117150a9ccdb2418874d4f96adde2ff56/pytest-env-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "a7ed55503d10600ec95f35de3281262b5051b8ef310d68a89484da687c1dd691",
+        "url": "https://files.pythonhosted.org/packages/32/c8/a9dee3231c85395c7be501e072a8bd940830f975108dee823fb9d064a1d6/pytest-env-0.5.1.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "f4d61885b0befcb474e73e775597a798bd37808f8856ebb624b0822f054f6c0c",
+        "url": "https://files.pythonhosted.org/packages/57/2a/0d57e419e9fdc967573a318ac7af757bac3c4d2474be2e960359e8211e3a/pytest-env-0.6.0.tar.gz"
+      }
+    }
+  ]
+}

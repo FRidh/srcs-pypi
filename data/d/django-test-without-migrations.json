@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Disable migrations when running your Django tests",
+    "homepage": "http://github.com/henriquebastos/django-test-without-migrations/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "a6368125f1ee4cb6c25a69dd3b8a22225fd3c0bfacf5215e39529d157137d7c0",
+        "url": "https://files.pythonhosted.org/packages/f9/f7/92375b39e3c17f6ee91a47d856f907c21a22e2aaf1cdb5163c9974461d61/django-test-without-migrations-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "881afcbd3f539432450b856549467b6276b28fdf94acee0810b79039218d22e6",
+        "url": "https://files.pythonhosted.org/packages/67/1c/7aa9b392dee10edf48e339c1d2f3448f4c1a3399edde09e9fb01286866d2/django-test-without-migrations-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "b9601da1bfd63e20caba3cff598dae37c554567c98d2a610a6510aeccabd62dd",
+        "url": "https://files.pythonhosted.org/packages/64/9e/183f4cb85a0e3ec2e21099048234238c3291b2d96c0e52e31e6bfefd71f0/django-test-without-migrations-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "2b69474796827083bd3f3cb242c87a57e6fecf3f5bb7c87dfab46e589464a07c",
+        "url": "https://files.pythonhosted.org/packages/99/38/1b8e963a3c9800d5bc0d55ebd3d6ad7d25394a90c55e3e9f8c6cd4123617/django-test-without-migrations-0.4.tar.gz"
+      }
+    }
+  ]
+}

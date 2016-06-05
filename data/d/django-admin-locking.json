@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.7.2"
+  ],
+  "meta": {
+    "description": "A reusable app for locking objects within the admin while another editoris editing the page",
+    "homepage": "https://dev.jonasundderwolf.de/opensource/django-admin-locking/"
+  },
+  "versions": [
+    {
+      "0.7.1": {
+        "sha256": "51edb56c0a7d0335b42fce01b3887092d13d9f37ab2b064510ad208408c47bd6",
+        "url": "https://files.pythonhosted.org/packages/d4/a3/4bdf2fb7c9813d0a3c51015329e58b78e6cbc8f768b7b974625b2a9866db/django-admin-locking-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "cd3c676155754f2190b1b9549fd4c8bcbfbb2eca181fad1b3954c8fe9b372bb4",
+        "url": "https://files.pythonhosted.org/packages/ba/b5/ff42bc155630a2113fce13a2914af0de7ef1957161bc41e9711474a89b26/django-admin-locking-0.7.2.tar.gz"
+      }
+    }
+  ]
+}

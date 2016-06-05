@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.4.0b1"
+  ],
+  "meta": {
+    "description": "Tool to predict HLA genotypes from RNA-Seq and DNA-Seq Data",
+    "homepage": "http://github.com/jjfarrell/hla-genotyper",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.3.0b19": {
+        "sha256": "2e40531a6b1da6abbfc0cea169c65173fb007696b44dabdd0e6e8113b0c32e99",
+        "url": "https://files.pythonhosted.org/packages/fc/35/392f75f180b59dd207aa08201a6355ef7e499f0193333606c406a7ca7b5b/hla-genotyper-0.3.0b19.tar.gz"
+      },
+      "0.4.0b1": {
+        "sha256": "fd64d6c4aa1d2374b48fcff095afea268fd3001ad3e12c8c15272f8a0fac397e",
+        "url": "https://files.pythonhosted.org/packages/2c/2f/d55483a296af676a49a0e6d58454b1467adabb63068ab40bd047d80e44f8/hla-genotyper-0.4.0b1.tar.gz"
+      }
+    }
+  ]
+}

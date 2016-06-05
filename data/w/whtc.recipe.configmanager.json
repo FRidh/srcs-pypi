@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "A buildout recipe to manage auto-populating portions of shared configuration files that cannot simply be overwritten",
+    "homepage": "http://pypi.python.org/pypi/whtc.recipe.configmanager",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "1.0rc1": {
+        "sha256": "c4abda4b44e7b3b698bde2b15645630374595162bb8bc297c0c241a494573c60",
+        "url": "https://files.pythonhosted.org/packages/6a/73/06574ee565ecb9c7ac46eac4b26999a01a00973b8a2a203e4d1497120b72/whtc.recipe.configmanager-1.0rc1.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "530ccb2ce387f54986abc443bc5fb822d0051bde1c86ee3a8002479bbfd8ced2",
+        "url": "https://files.pythonhosted.org/packages/5f/b2/393101fa2f49f8c2a0cb5b8463b258a912922f29bf2d80bbdc481d0ef8fb/whtc.recipe.configmanager-1.1.1.tar.gz"
+      }
+    }
+  ]
+}

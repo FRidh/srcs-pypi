@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Mixed sync-async queue to interoperate between asyncio tasks and classic threads",
+    "homepage": "https://github.com/aio-libs/janus/",
+    "license": "Apache 2"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "3a96430ef47c44f6925c5d17b4a948ab6e7e5203bdc094e690f653033ff9c80a",
+        "url": "https://files.pythonhosted.org/packages/e3/c3/bc2240ddc59a187a47affdcdeeac1c0d777b60b8a12142d49fe27bae95db/janus-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "651831e2f7f8f54a9cb19bcbdeeb64b8dc15126827054f6cf18fee3539c634a7",
+        "url": "https://files.pythonhosted.org/packages/f3/ca/6fa306d93c9499e70eda3c0c174cab62d7a050dbccb2223b5d64d516f035/janus-0.0.2.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "0b0a787b878ccde67aad8f6569230555090a1016d40b57bd35053998a9481dbf",
+        "url": "https://files.pythonhosted.org/packages/48/c2/0c709d81521f574255486ad15168fc70cc380eaafc67aae2245188aa9893/janus-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "0ad8372e065ad587ee52d43a10b90db581601b9d595cf5e735bc604ba1cb22b6",
+        "url": "https://files.pythonhosted.org/packages/9c/c1/113fcc9c39a20738b6727e0f3dde4495575677ac81defd49c4498380ff31/janus-0.1.5.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "98e8c6c734d5809430a289cd79e664829a3b43f10fd296b6227204e5174e7321",
+        "url": "https://files.pythonhosted.org/packages/ae/64/1d1ad91e4d7ff5adae88bed0f3ddbb3f2ea8dd57649028dd38af9d882d03/janus-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "332c782828440485cf6c26021faabd27887713480e12ee9013a258c7a068febd",
+        "url": "https://files.pythonhosted.org/packages/96/04/737c77de209858d5b3fec1c4bfcc2e4b151463b620eb7afa647ae4d31a0c/janus-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

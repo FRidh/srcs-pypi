@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "1.1.5"
+  ],
+  "meta": {
+    "description": "FUSE file system that forwards all write to all files to stdout",
+    "homepage": "UNKNOWN"
+  },
+  "versions": [
+    {
+      "1.1.1": {
+        "sha256": "b75bb6c27d5b665a99dacae59812df2bea1cb587d1adc5b76384d4ed8d12a604",
+        "url": "https://files.pythonhosted.org/packages/35/ad/ef58a11ffb30eb3b935e12d3b2b58e0b884e0e4936126f0e4e96b649f4a4/stdout-fs-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "a060699b9c1161ee45dd032478ba4a2a8f050af34981b8019116f61679cd14bc",
+        "url": "https://files.pythonhosted.org/packages/fa/1b/4d0f189c7e1518a63805c49d589ae23c4765a609475c0d0f96829d508c96/stdout-fs-1.1.2.macosx-10.11-x86_64.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "5af79be2ce9f9caac64ab92899854d54f266821961fda6e7ebf9dc7a903f4634",
+        "url": "https://files.pythonhosted.org/packages/ce/e1/149d20528397e0dd7a168c9516efb7428693a670a7bede8b3fb9176360e8/stdout-fs-1.1.4.macosx-10.11-x86_64.tar.gz"
+      },
+      "1.1.5": {
+        "sha256": "3289332a14c2c725a60bf063d21e29881df095c59949cf53bd32df05f07d57bd",
+        "url": "https://files.pythonhosted.org/packages/a7/e2/0b60534a9a3e5ea662b1a48fe69c38438ee0390293c949430eca2da482a4/stdout-fs-1.1.5.tar.gz"
+      }
+    }
+  ]
+}

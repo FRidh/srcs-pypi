@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.9.3"
+  ],
+  "meta": {
+    "description": "Python SDL2 bindings",
+    "homepage": "http://bitbucket.org/marcusva/py-sdl2",
+    "license": "Public Domain / zlib"
+  },
+  "versions": [
+    {
+      "0.9.0": {
+        "sha256": "84b6c09267fefcd78462c17b364b62aa67222d1ca63bd394c4cde1846433d5e7",
+        "url": "https://files.pythonhosted.org/packages/f4/1e/5452b852f45cf89bb030dbe6497c700a0fb4bf55f4682e62fe2d27c54ef2/PySDL2-0.9.0.zip"
+      },
+      "0.9.1": {
+        "sha256": "681849bde2a5b25b42c2ec0cccc461b32e91d01414ffbd9e55620d54d21f27e3",
+        "url": "https://files.pythonhosted.org/packages/13/ef/2804b204464d2f7f7d848731b20ecb20db115a9b0166e645752617aae524/PySDL2-0.9.1.zip"
+      },
+      "0.9.2": {
+        "sha256": "45c51593ff36d62ca5419ac80050b21fc25f71cee217d4f47ab02e8d5d7ca366",
+        "url": "https://files.pythonhosted.org/packages/62/f5/66b24911cf9e41e4cd20e0b0577aadb6ffba5f0118537813c5a1b5e2690f/PySDL2-0.9.2.zip"
+      },
+      "0.9.3": {
+        "sha256": "143480ee80100974076f4beae2eeb6eef6971ba368bb71959ebea3cc84357ae9",
+        "url": "https://files.pythonhosted.org/packages/8f/36/f9b843969afed0e81ae722ef6c3042ced3f63985f5fe240e21a1bbab75a1/PySDL2-0.9.3.zip"
+      }
+    }
+  ]
+}

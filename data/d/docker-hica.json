@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.5.1"
+  ],
+  "meta": {
+    "description": "The goal of this project is to define a set of image label metadata and launcher tooling that understands said metadata to provide for smooth experience running containerized applications with tight integration with the host operating system",
+    "homepage": "https://github.com/shaded-enmity/docker-hica",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "a164e8f25c6335a65cd274ecdaae4023a912544a619c16353c42d8ecaceeabe4",
+        "url": "https://files.pythonhosted.org/packages/37/2d/aa922c0c9fa8f27f55ab9c9724df52168f2d7f9e9f7f380519e63317020e/docker-hica-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "218fe3967d3d85a230b45af75f8d5793f330f2118970a7e01779e32e2520a9d4",
+        "url": "https://files.pythonhosted.org/packages/f3/83/b105164cf5bb352754550ba2fae13ef9fda52cca06c08c3509928aef4c5d/docker-hica-0.5.1.tar.gz"
+      }
+    }
+  ]
+}

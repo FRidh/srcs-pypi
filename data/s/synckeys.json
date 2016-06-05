@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "A simple script to manage the deployment of your ssh keys on your servers",
+    "homepage": "https://github.com/theodo/synckeys",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "54151bb06ba6ecc4d59ed26e327823d4c65989f6160186f3e82af62855abafbb",
+        "url": "https://files.pythonhosted.org/packages/8a/b4/558658447f42e4b5b07e051eb9934369c34f3cfabde95ec4c00e311eeeb5/synckeys-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "6e27e86b3a85ca017b1d7b88f970b41a31ca1e36a0443403e14891778959e80a",
+        "url": "https://files.pythonhosted.org/packages/ea/7e/0607a324654dfd814ed5998c7e430640f658e373720e8aaac7756d2af087/synckeys-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

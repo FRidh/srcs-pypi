@@ -1,0 +1,126 @@
+{
+  "latest_version": [
+    "1.5.6"
+  ],
+  "meta": {
+    "description": "A Python wrapper to Qhull (http://www.qhull.org/) for the computation of the convex hull, Delaunay triangulation and Voronoi diagram",
+    "homepage": "https://github.com/materialsvirtuallab/pyhull",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1a": {
+        "sha256": "112bd0e636b1ed38dc46f068fd1f057e44b1c824050550ad48b6f7ce0cccc857",
+        "url": "https://files.pythonhosted.org/packages/43/2f/e0801a902ea0bac29a8c6399dfdbb9550052714860b5c949c57b6a8c2989/pyhull-0.1a.tar.gz"
+      },
+      "0.2": {
+        "sha256": "f27e3a72358bf2a870cccac52956b9503d426a01fbb1b4abdd3b5fb57483281e",
+        "url": "https://files.pythonhosted.org/packages/cc/cc/1df877fece0ac1d1750763bf02c5d883200424220f5467872cc13565c57c/pyhull-0.2.tar.gz"
+      },
+      "1.0": {
+        "sha256": "3962e1402f422b900c79f9100899d76ce51f23a074de67f97e5a0485f85549ef",
+        "url": "https://files.pythonhosted.org/packages/07/a7/f28e2eefe9dbaad54b34c59e54d2c2eb6bf6b45597e146ab67140bea8eb1/pyhull-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "726da3d157bf2ccb6d0228a0464805b4b5ec6d828e08f183478e857c5a3166b6",
+        "url": "https://files.pythonhosted.org/packages/32/50/e9c350404cccdc377158e1c9eb8b091f24261caa090243f7098cf3a648df/pyhull-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "388620cc47771a50d65b2df14116ef8118a2301595e375d99137c3f95955da1a",
+        "url": "https://files.pythonhosted.org/packages/bc/0c/196022dc7a6c685091cc78513afb74a2335c6c8edc2f790362ce89288c18/pyhull-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "cac6b37b9a6fbb0d1b877f8bf8f40b515aec41357c26b176307cabb82682650f",
+        "url": "https://files.pythonhosted.org/packages/c8/d9/40d5c88076591fc5f5eb1de5c1800b57422a0faf264fe99c43144d398182/pyhull-1.2.1.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "37ae3e4e09ef6eb3d4aab753d7edb9b923783aa94e4d9b574e3a2da6790995f0",
+        "url": "https://files.pythonhosted.org/packages/be/83/cdc1e0ce0c3e2f14999fe65c9d4a50feaa6c955a4e8d19d9ad5752cdc826/pyhull-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "7ab1569ba87879b81d1e535361b2ed143a266513cacd96bd7f951e911a84df02",
+        "url": "https://files.pythonhosted.org/packages/42/ff/1cd6fa2a9223f62a51389d02dfca29a3ea50d45be33b930c7a1f0b122d48/pyhull-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "cbf3e00dd0a4f7f3f385130121e41073414fc77225ffde7a484a97b0f87c8b65",
+        "url": "https://files.pythonhosted.org/packages/8a/f4/f170ac87eea7655a38fb3703de9b13293177c387be3343c3e9663b410599/pyhull-1.3.2.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "80d7eecd32e075eb36c5cdac32ce0312784733cf86325b6875576e9b4294ba9d",
+        "url": "https://files.pythonhosted.org/packages/ce/81/3f878dd5c6dfba88ee7c3880b564c6f54f004dbe6944853049930459a410/pyhull-1.3.3.tar.gz"
+      },
+      "1.3.5": {
+        "sha256": "7c6cdf07fb12c7b4386af6b9c28eab89bf0d9f27747d8632781906254c48fb38",
+        "url": "https://files.pythonhosted.org/packages/25/c5/705de9cb50ba1ef93d9fdf71cf18b5a3b7490ae5d171ccc690936ec0d7c8/pyhull-1.3.5.tar.gz"
+      },
+      "1.3.6": {
+        "sha256": "7db18008ae2d362af7d61d95a3220711ae36c99aecba07d3695998efe208c93c",
+        "url": "https://files.pythonhosted.org/packages/b8/36/cd6c165393f846f230449ebf49a1122ca03ed690f6428d1b17a7e77ac4d1/pyhull-1.3.6.tar.gz"
+      },
+      "1.3.7": {
+        "sha256": "7617a2546f752d3f5ce3c180cfbf6a33195b3a971db47aecb6afd25a3a4497cf",
+        "url": "https://files.pythonhosted.org/packages/35/12/0a4b2216ac35a53debd19b85ee955637c6f6b3cec0994db6393fe0dd1e84/pyhull-1.3.7.tar.gz"
+      },
+      "1.3.8": {
+        "sha256": "010746ca1dee1fa15ae34d58d9ac0dd057a2215e38e854b31bb85d9d30b802e6",
+        "url": "https://files.pythonhosted.org/packages/ee/ea/4783c06c2de51b800cf1a6dd717b105fbeef1f0ed3d6caee9c68ac31b927/pyhull-1.3.8.tar.gz"
+      },
+      "1.3.9": {
+        "sha256": "ecac751e57dcba7bc2743cede7222ceadb808cc10b1ee9f60d079b17525655e7",
+        "url": "https://files.pythonhosted.org/packages/72/91/3032a1cf6bd77ff982d904de3a6ece8628a71d4da1e85e3403c2d141aea3/pyhull-1.3.9.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "f2265fa0c3a755d8bba586202a16e6c3c1deba089b864ba39895d8453007ad6d",
+        "url": "https://files.pythonhosted.org/packages/8f/ce/ff91ffc73abab19b1facc2be4e594c82b1e1f8a55e338e0ccb3f2a5894b2/pyhull-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "ff55c2cd631e10b74cd9afac95a818599fbc3afbf0fa231b20e175ad4d4a2cc6",
+        "url": "https://files.pythonhosted.org/packages/d3/b7/fd1bae8873fcb10b253bcab99eeee52f6293f08565e49a84e6ca27b15cc3/pyhull-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "be6f266876c86b03d172ee76e5041682b3758b12f00d65db533c50fcc4dceac3",
+        "url": "https://files.pythonhosted.org/packages/77/41/eda195ee360813b4c0a9d09e0278379933114481a702a862cac4fee24a59/pyhull-1.4.2.tar.gz"
+      },
+      "1.4.3": {
+        "sha256": "c10f0aa24d7947cc41b313544b3433304292e9069d730b2f194604e63ce87b7a",
+        "url": "https://files.pythonhosted.org/packages/51/50/9e4c512026863b7383ca04de2357209d11ec8ea8d2d9649678b08b24792b/pyhull-1.4.3.tar.gz"
+      },
+      "1.4.4": {
+        "sha256": "ef0c22d0f62aaea5fe621cdcaae090c33d422a6e0da8fa18e4486a728ce5c62c",
+        "url": "https://files.pythonhosted.org/packages/57/b3/00dfa6c1e3950c3e8d0a0ef1a51b359150c69975c67f16d39f15e4d7272c/pyhull-1.4.4.tar.gz"
+      },
+      "1.4.5": {
+        "sha256": "680ebf67df34ba50f87ae57a41bf4952939d243658ccae05afcaa05a048402b5",
+        "url": "https://files.pythonhosted.org/packages/80/5c/89734ad3d66790b373a256646cc90ebd4006e25f1ad762db9b14d7ea6db8/pyhull-1.4.5.tar.gz"
+      },
+      "1.4.6": {
+        "sha256": "2e00e28c23b90881913a2de3f1a600a47a6c492edbbf84fcd350235eeed55638",
+        "url": "https://files.pythonhosted.org/packages/10/fc/5e336010a1d2493c0669ab2f13a177af11e5ed5fbbf0a6cd0bac2e2c8be8/pyhull-1.4.6.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "6fab7504deb95c258eaf7f8e966a46a22494f562d5d98afc8ee69b4629c500ae",
+        "url": "https://files.pythonhosted.org/packages/fe/61/014ada63306daacc6b0038d41402a57c8e9dd6674ea2f16bb05d6f618d44/pyhull-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "a8bd8f2f06499fa3bea0ad40b2ac126148fef004a2cd3443b36a4f52f4ca1423",
+        "url": "https://files.pythonhosted.org/packages/3b/8c/e29e39093fc7313e2efd6bd7fe780ee61d11afab67650e37b1d1453fbc73/pyhull-1.5.1.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "d7e81e285d9ce1cec9d4c48fcd6bb366e515b111a3da1cf555b0e62a120b125e",
+        "url": "https://files.pythonhosted.org/packages/02/19/5a500d90229c027cbd367d7a189fce7f38d321afc5a5d87eec5641b29a90/pyhull-1.5.2.tar.gz"
+      },
+      "1.5.3": {
+        "sha256": "1341b6f6da86726b72633ba2c23a7e8f4d55e9bd6c8a956b239e42a2541f0605",
+        "url": "https://files.pythonhosted.org/packages/db/f4/17fcb5601d9ba336d8a27e527ccba8c01c263a35c4e73a72cf06b18c118a/pyhull-1.5.3.tar.gz"
+      },
+      "1.5.4": {
+        "sha256": "11e4f25d2bef1fcd650acfc4bda63371d80b327de818d8937207e2c2565dbe03",
+        "url": "https://files.pythonhosted.org/packages/31/4c/502f0dd2987ec9257333afdc0aecde92d6126cbe1e6c228fa89412f1bb97/pyhull-1.5.4.tar.gz"
+      },
+      "1.5.6": {
+        "sha256": "4d14bf6e6ba695de4d4ae28d2c15b97eb2dabc1e840bb9d1120ed1ffa2c52cb1",
+        "url": "https://files.pythonhosted.org/packages/49/69/391fcd61783fa9ab2ee758fa7eccf2ded9d2526e66bd1933e356020d34e6/pyhull-1.5.6.tar.gz"
+      }
+    }
+  ]
+}

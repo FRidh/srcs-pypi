@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.4.2"
+  ],
+  "meta": {
+    "description": "Adds i18n/l10n support to Flask applications easily. Uses CSV files(or database) to load translations",
+    "homepage": "http://github.com/derkan/flask-locale",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "ee147d3659cb33f77a4c07a46eec9b887bac56beea7cacb26d0b709ecf3f4142",
+        "url": "https://files.pythonhosted.org/packages/01/02/2d93e5b19912320db5bb822b38aafb5e1e90c9a17603f6fba133003c312f/Flask-Locale-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "545826ea7a10c04b6fc239c60c6820fb5e5b7cd42e7767a78fb9c8fc10bd0fe0",
+        "url": "https://files.pythonhosted.org/packages/71/90/220310a00334fe3921d039037a09b4ca6c768412fd72dd4f3f42ecf06739/Flask-Locale-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "d59fc24e0abf06f8477d62d04f470077174b2465cb2bd07bb17b43def089bde2",
+        "url": "https://files.pythonhosted.org/packages/5d/d8/ea80995c35542a78c5a66de64fee8c4a5556e8fd19a1ac3bdf0cb5ae8108/Flask-Locale-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "8dd6a06ebf67a3588d626ea7ea2ca64d17bbb3b4487ea3b794ddfb1a7790ea69",
+        "url": "https://files.pythonhosted.org/packages/17/6f/a3d401be6ae967439417ad2d4caa458ed0c22cda248dc501d90ffa52f194/Flask-Locale-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "13c3cfb97e920d636a96c224f2509fb524312265cef6b45896fa851422c1cdb2",
+        "url": "https://files.pythonhosted.org/packages/41/79/4a4be404777c5c00bef630a25a1310d7c580e8f0ade40e32c2b0f7340f03/Flask-Locale-0.4.2.tar.gz"
+      }
+    }
+  ]
+}

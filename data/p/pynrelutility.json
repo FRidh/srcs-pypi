@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Python interface for NREL's Utility API API. The API is providing                 utility names and rates for a given location",
+    "homepage": "https://github.com/hanneshapke/pynrelutility",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "b2bef569f636185d80a9a13510f057514a825fb066ceed43f5cd1bf8017c4203",
+        "url": "https://files.pythonhosted.org/packages/dd/f7/e4e4f5434f0ba7595fd56e2ed4d59e9eef959490d2c1b992c9f2b6e994f8/pynrelutility-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "b6c85d884517d47bb0226d38d7323afabe7247a7e5b1380798023dcb67d1ba29",
+        "url": "https://files.pythonhosted.org/packages/54/28/3ba58fd461290f3fd61775119e5dda94ade47a7f552bddd867495f028e21/pynrelutility-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.0.5"
+  ],
+  "meta": {
+    "description": "SNMP exporter for the Prometheus monitoring system",
+    "homepage": "https://github.com/prometheus/snmp_exporter",
+    "license": "Apache Software License 2.0"
+  },
+  "versions": [
+    {
+      "0.0.3": {
+        "sha256": "fece9e64daeaddd7188de6f3db92e41e8582ef2ff9d1db1def649805c2d5e648",
+        "url": "https://files.pythonhosted.org/packages/9d/12/9f5b40f9a259e1a26b1a1d236040d8301b0642b8a62ff1dd35a67f31f486/snmp_exporter-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "ebcc857de51126c541c046ede40e2961c2efc26f5fcce5af4efd716e284d0bf2",
+        "url": "https://files.pythonhosted.org/packages/d8/92/06cf68e826617eb19539984ec7a47ba83d644cde7e65491d02fd261df2f8/snmp_exporter-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "14c7266a400e938733ee963ce324daebf7f9a4b2ef38de25a56020338fe3c209",
+        "url": "https://files.pythonhosted.org/packages/6a/00/f25787c4dd06127a09c17c0868f20f62f6787bf11d99f05f653dd9532b03/snmp_exporter-0.0.5.tar.gz"
+      }
+    }
+  ]
+}

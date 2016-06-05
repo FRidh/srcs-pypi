@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "20160424"
+  ],
+  "meta": {
+    "description": "Python bindings module for libsmraw",
+    "homepage": "https://github.com/libyal/libsmraw/",
+    "license": "GNU Lesser General Public License v3 or later (LGPLv3+)"
+  },
+  "versions": [
+    {
+      "20151005": {
+        "sha256": "c24a902638897a1c99598141f82e5a96a073a53ac1b23b997184510f0b36a810",
+        "url": "https://files.pythonhosted.org/packages/87/65/9f743afa8fdb9fbb057d1492bd6e24dfb70a776fedf82ebfb0661a1f868b/libsmraw-python-20151005.tar.gz"
+      },
+      "20151219": {
+        "sha256": "abff1a672e32d858069f77c9dbaf2ba7a3a1dda4b29921d4f3408930a2a79352",
+        "url": "https://files.pythonhosted.org/packages/a6/19/7a3c6863764bb88c2bf7a89adfb43fedf265c7d18771f3d402b01fb247c2/libsmraw-python-20151219.tar.gz"
+      },
+      "20160424": {
+        "sha256": "23c9afb935560207db0f098733bee6eac69599d9879d9ce08b0b23ebe85a758a",
+        "url": "https://files.pythonhosted.org/packages/b1/2d/95a3c668bdacc722b514e802f46c459842f363cde42f8296c185f1a778c7/libsmraw-python-20160424.tar.gz"
+      }
+    }
+  ]
+}

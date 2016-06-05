@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.4.3"
+  ],
+  "meta": {
+    "description": "Your Debian-based data center in a box",
+    "homepage": "http://debops.org/",
+    "license": "GPL 3.0"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "026246801d649eeacea8d4d2fbf7d908b1ce3c8d57e815d607ff074db658cb30",
+        "url": "https://files.pythonhosted.org/packages/ab/ac/94329e293067f0920a10ece2261fc9f14bb827fe0e57a19f903d3c172f7f/debops-0.1.0.tar.bz2"
+      },
+      "0.2.0": {
+        "sha256": "5377f8aa486c5c7d6d8adf3db5dbd6b4626e8a9d673cb20495d7a661d9d6e89e",
+        "url": "https://files.pythonhosted.org/packages/7e/25/d11d9a934937465ca99425cbd235a5adbf3410b565c093e5c64112ac1a15/debops-0.2.0.tar.bz2"
+      },
+      "0.3.0": {
+        "sha256": "222cdb6d75201d0da5bd9b9c5f594746256e444d87f2aa522955986c2323f3f5",
+        "url": "https://files.pythonhosted.org/packages/f4/51/7e2c4009612212487190e2521ff04abeb1c5ae01aee558eb2167408ba8af/debops-0.3.0.tar.bz2"
+      },
+      "0.4.0": {
+        "sha256": "847277a877dcf4b6b7c9a6ae87d5fa39949aa83910cc33391ed37a91ab850f46",
+        "url": "https://files.pythonhosted.org/packages/f3/0c/69c402cbe14aa45ab7e037d0ba91e3edc8645db92df250b119046dbc3a86/debops-0.4.0.tar.bz2"
+      },
+      "0.4.1": {
+        "sha256": "204e7acd3c66b1f57af446931ccc91fda16105ae3b278cf4800e0de7d4e25097",
+        "url": "https://files.pythonhosted.org/packages/79/59/1158832fc9cc950a7b8b85e52e13f35a72a5104d80869e30b65359bcaccd/debops-0.4.1.tar.bz2"
+      },
+      "0.4.2": {
+        "sha256": "3e6100a70fd0a4bff83f85b63d8b5c66205a5b02c6746f3f3a43ba8cb6f0978a",
+        "url": "https://files.pythonhosted.org/packages/2b/27/f52a598c433dcd171bdb5284a36b1f311a3040153884f29cfac677cadb1c/debops-0.4.2.tar.bz2"
+      },
+      "0.4.3": {
+        "sha256": "886bebeb07d2a6ea469be87afc3be3bbf239e3e497770e43212e00baddd50d31",
+        "url": "https://files.pythonhosted.org/packages/86/ab/6282015d92fe8139235c98d900078896ee8c29184554eb15acef511a42b6/debops-0.4.3.tar.bz2"
+      }
+    }
+  ]
+}

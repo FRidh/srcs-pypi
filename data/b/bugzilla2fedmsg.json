@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Consume BZ messages over STOMP and republish to fedmsg",
+    "homepage": "https://github.com/fedora-infra/bugzilla2fedmsg",
+    "license": "LGPLv2+"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "1f13b144664203604c679e0a111e43884148886cbf18bbf0817eea9713fe2969",
+        "url": "https://files.pythonhosted.org/packages/da/0c/4306d5ff3194ee97a6c147a5c1224b1b6aac9d963e23cdf2094e7fa96f51/bugzilla2fedmsg-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "27f0599abc8a12252a31f2a7ffd40de6b1ccd1bf849b0e4d4b96e6d0441adb7e",
+        "url": "https://files.pythonhosted.org/packages/30/67/25ed9de8f75d62e41e542a2b7b0a5662ae6a620b1ab1807cc3bab763c8e2/bugzilla2fedmsg-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "e35d8c6c78b6dfdbf5e44668cb4fb7ab61a447c2315983b69f26860e23361338",
+        "url": "https://files.pythonhosted.org/packages/19/95/e333d622063958866d50a823f469a45b001c228f87ab55c995d0fc515e6d/bugzilla2fedmsg-0.1.3.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "8c19c3faebd6c1504f7d7e407fe0899460cb7a47c7d632b58fbc63496f29584c",
+        "url": "https://files.pythonhosted.org/packages/80/ff/f48bf47974043e566ef554d81419e8aaaf9af2938020522e4a657c357786/bugzilla2fedmsg-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "4e55e1b8b135bb01499feb2954c6433ac54b9beaa79dd494f0aca5549f268444",
+        "url": "https://files.pythonhosted.org/packages/e3/3f/057f314837bc7f86801c2b35e74216252caa79e4c9cde28f3d348adfb721/bugzilla2fedmsg-0.2.1.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "ff27e8b57fb878cc0ea66a760a81cd1de092187ad7d6338f444bc62eefab8015",
+        "url": "https://files.pythonhosted.org/packages/e3/28/b1235cd69568787ce01dc2749c3d1ef94a0d92f2c3357c09b359f27ce767/bugzilla2fedmsg-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

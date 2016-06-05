@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.91"
+  ],
+  "meta": {
+    "description": "Toolbox for completing common tasks for Ti2 projects",
+    "homepage": "http://www.ti2.com.au",
+    "license": "Creative Commons Attribution-Noncommercial-Share Alike license"
+  },
+  "versions": [
+    {
+      "0.4dev": {
+        "sha256": "ff8eba07eb6e775c7b82ea0fadbe88542acd1fecf6039c4b967d653309844f31",
+        "url": "https://files.pythonhosted.org/packages/40/be/28ac88c6ed68fe18246cdafa3585660452f098663b5fc6ef28b5729641b7/ti2toolbox-0.4dev.linux-x86_64.tar.gz"
+      },
+      "0.5dev": {
+        "sha256": "b96d79b096167e81dda0e15c27add81896f10cc504d98365f88c6cc56898e335",
+        "url": "https://files.pythonhosted.org/packages/12/68/129067436ac6aac8eb9eb5ff7fcc8df2770d1a391eea433fb98a4e141bc7/ti2toolbox-0.5dev.linux-x86_64.tar.gz"
+      },
+      "0.6dev": {
+        "sha256": "afc840ec61fc3d62d9e80c60eacf2bc6417f91af8b89e08979adfc852098af85",
+        "url": "https://files.pythonhosted.org/packages/c1/79/9b2079d07d143f464d8e4fb60c1d88caf4b2957dccc3311d407f7e914f1f/ti2toolbox-0.6dev.linux-x86_64.tar.gz"
+      },
+      "0.7dev": {
+        "sha256": "ab4eba798eb94c72240d077239aeaef2fd81afab98afe49814bfa879a6732099",
+        "url": "https://files.pythonhosted.org/packages/80/e7/1d5979cdb14033509adcf455202d67c5d71b49d683396a6d80dbc902d4f7/ti2toolbox-0.7dev.tar.gz"
+      },
+      "0.8dev": {
+        "sha256": "99e93636a8016e0ce692dac292a7590116b67187f585cfbf921d8c8d06747ec5",
+        "url": "https://files.pythonhosted.org/packages/33/8d/84e5e4071eff5882ed41cd6c06aafb003c3a3ea180f23207aeebc1bb40e1/ti2toolbox-0.8dev.tar.gz"
+      }
+    }
+  ]
+}

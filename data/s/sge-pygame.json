@@ -1,0 +1,126 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "A 2-D game engine for Python",
+    "homepage": "http://stellarengine.nongnu.org",
+    "license": "GNU Lesser General Public License"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "953f86a8608674666012a6d850c0338cff97a745f6caccd7d8be29efd8654e14",
+        "url": "https://files.pythonhosted.org/packages/c3/f0/5877e1b38b16dfc90d73691138f17c64ddb257644eba641f7a3b781bb4f3/sge-pygame-0.10.0-python2.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "0a8aace32a780ed9fbe32e735ace4b5ab37f02142beede450105f8638ee888c6",
+        "url": "https://files.pythonhosted.org/packages/03/d8/be65dc01cc403d11876fd2e5c6f112c3dd42d214abb2cb2c65718cea91ba/sge-pygame-0.10.1-python2.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "e8959124c4f59c35b1f8db31bd91347e28967ad8c26e67cb79dfea69bae61082",
+        "url": "https://files.pythonhosted.org/packages/52/1a/ee7cc9fa034c8c5b0b6b0615a4094441abec6256c430a611087f1a5bdaae/sge-pygame-0.11.0.tar.gz"
+      },
+      "0.12": {
+        "sha256": "46cc4af4513c32b04f9f4b15e735b0182765dc6cf4c356b940ed1597e74f0b06",
+        "url": "https://files.pythonhosted.org/packages/7c/18/924a7ccf62ec55410cf95687eff1762a86cffc0f6d52796aa397fb642fc8/sge-pygame-0.12.linux-x86_64.tar.gz"
+      },
+      "0.13": {
+        "sha256": "7e35dfb0bb56276fd2ca072084f7dd0618ec3321c69cb12fced29b690f906c1f",
+        "url": "https://files.pythonhosted.org/packages/9b/9f/714d5b402b53304c426b795e5971c7fe417cfdf2469be4ee60fe061b99fb/sge-pygame-0.13.linux-x86_64.tar.gz"
+      },
+      "0.14": {
+        "sha256": "4556b264e590bdd6de163c5dc8c22a1bd9491f101cff645cfacf8b1983603002",
+        "url": "https://files.pythonhosted.org/packages/32/3a/41e78a3acf58e137df7f3960888b3693604fab8b85c9f4eee4aee2cad154/sge-pygame-0.14.linux-x86_64.tar.gz"
+      },
+      "0.15": {
+        "sha256": "2b0923846a49cf8f2cd6da243dda9234808f4324a40e22f89a5f3c91548b9c0c",
+        "url": "https://files.pythonhosted.org/packages/6b/d0/17f9272eab26a8cbeb048711a969a866c146d3028d8fffe746fe339ea68b/sge-pygame-0.15.linux-x86_64.tar.gz"
+      },
+      "0.16": {
+        "sha256": "b046fc412fa33cb84da34aae0ae769f6e7795d709f97a75a2db0393c1ec7b456",
+        "url": "https://files.pythonhosted.org/packages/15/3d/cbce9bafcb4af2b7332fbef158a0a3f9ba532e2d57d413b75c99156317cf/sge-pygame-0.16.linux-x86_64.tar.gz"
+      },
+      "0.17": {
+        "sha256": "5c75f61e29c0883327dabffb3e993ff29fc361310c0fda086a79ea282d9dd917",
+        "url": "https://files.pythonhosted.org/packages/98/73/f81b3e7e3138a9b2bf45862724e0f6713ea78b4bebe2b08c55c6703247b6/sge-pygame-0.17.linux-x86_64.tar.gz"
+      },
+      "0.18": {
+        "sha256": "47c6dde218c0f558103453776f6907801d337f0fc98a8ad7780481985fd8175c",
+        "url": "https://files.pythonhosted.org/packages/83/3e/179904f08014a5f746f5755b075865c52a58b6e420373d5d288c0415533e/sge-pygame-0.18.linux-x86_64.tar.gz"
+      },
+      "0.18.1": {
+        "sha256": "5ea385b65f047de96e0613fd19111e4289e9b48ee8df517df6e6ed0032f76c22",
+        "url": "https://files.pythonhosted.org/packages/ee/41/533d96a0564da19e7ffede02602280bd8a4e7a40f5020456a11b25c76316/sge-pygame-0.18.1.linux-x86_64.tar.gz"
+      },
+      "0.18.2": {
+        "sha256": "98e298d6867bb389638e452b1ced076b2b0475ac9abc81a3162e69bc55fc1b30",
+        "url": "https://files.pythonhosted.org/packages/82/ce/b354681d2152c740ec70c50037b2fbec6810c7f8301e46b9146a0c27e6ff/sge-pygame-0.18.2.linux-x86_64.tar.gz"
+      },
+      "0.18.2.1": {
+        "sha256": "18cf169f6d56794d7dde6a6ecff151d540b930824786c89599edac238226e62d",
+        "url": "https://files.pythonhosted.org/packages/62/d4/2bc92caa176ae25322f887174ed3fb012faeec99f13347c615bbcb174d4b/sge-pygame-0.18.2.1.linux-x86_64.tar.gz"
+      },
+      "0.19": {
+        "sha256": "0fc1210f04f28ef8f43b0e5f161888022899d0ffb0b2b5909cfcabeaaf3b23ec",
+        "url": "https://files.pythonhosted.org/packages/b0/55/2ba761e6252315d7392f1658535db80525caa82c2c32b99aa95dc7f4e5b6/sge-pygame-0.19.linux-x86_64.tar.gz"
+      },
+      "0.20": {
+        "sha256": "11595975cd02d9b7ea04ea9e6601a2c779391993fb4afda1b527813cd5cda8ee",
+        "url": "https://files.pythonhosted.org/packages/59/22/7e1f9008295457b9b4fe3fee8d6865c8464b937ce8ecc323e4ea22fa2d26/sge-pygame-0.20.linux-x86_64.tar.gz"
+      },
+      "0.21": {
+        "sha256": "ec80870318a828e5a9a5108a1c7a2f7135de249ae7349b469fdccd6be7f40af6",
+        "url": "https://files.pythonhosted.org/packages/83/34/0fbae58edc820943531c95108ff4ef8ad8f52e4e4cf264ea6fa167483662/sge-pygame-0.21.linux-x86_64.tar.gz"
+      },
+      "0.22": {
+        "sha256": "0119dfd7a4666f2554578bc3273b5e4366297beebb899737f3194b9ec7a51d2f",
+        "url": "https://files.pythonhosted.org/packages/59/c0/fcf07187cc1fbe3cd08ca4f271bcb7a6655e1fd4033d0730d6fc95b3d2f0/sge-pygame-0.22.linux-x86_64.tar.gz"
+      },
+      "0.23": {
+        "sha256": "180929624759414ed3d39616d1905f8c37ac9629d2ed011c15edaa36a15af515",
+        "url": "https://files.pythonhosted.org/packages/f9/b0/6a589c1b54be8b608dc64157e7e6a6ff7765a3aae0b3ee09fa50491650d8/sge-pygame-0.23.linux-x86_64.tar.gz"
+      },
+      "0.24": {
+        "sha256": "e801ab5e1db95928cd364709cfed9c661013f803621fb3fddb09582e1c6eb938",
+        "url": "https://files.pythonhosted.org/packages/c2/6e/99392301f7f74d41191da7d3e36149712dce5165af18d49e2cdfce5bec83/sge-pygame-0.24.linux-x86_64.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "da23314f339ea3a878e430f4e249e79616566f16e9c193ca26ab42c2b3f5dcd9",
+        "url": "https://files.pythonhosted.org/packages/7f/d1/6dec103aca4356d3c98c40cad7f849093782b68cc2e15e64682a6f7112c9/sge-pygame-0.5.0-py2.6.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "e3300c798d8758bea429a904746e02711dbc0c902cba1fffaafdce2bd1e7603d",
+        "url": "https://files.pythonhosted.org/packages/2b/69/8d21d51c24c97147c9443e38ff91f7b949514d625ffb27fd9c81b4c26d52/sge-pygame-0.5.1-py2.6.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "8ef37e36e10a4efb37559fa3ee1a191b090591f4c7ca38923ac9997b51f886ba",
+        "url": "https://files.pythonhosted.org/packages/09/91/9cafc48174227d567d2d0623d148e3696bb6080829d77b18ddd94002e252/sge-pygame-0.6.0-py2.6.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "c68d83465758b330d30668eaaecf61aeaac02d5a4f692d752e59d447cb8f1452",
+        "url": "https://files.pythonhosted.org/packages/16/85/5f01e7d01b654b9d49bf60a6f7050904cca95d20a2cd3cddfa6fec477082/sge-pygame-0.7.0-py2.7.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "483110c301ed067a1e881f5a9bc539145d041bd12e57748b0a6c541ebc856863",
+        "url": "https://files.pythonhosted.org/packages/31/7d/ccde0a5e5a7cafe8ceb0e320420870ce951e5c96e079f1295a49f5949985/sge-pygame-0.8.0-py2.7.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "10cb483bafc3237f3597cf46becce6c5134ae9b2c6cb5f1f9d96991e29e0c00e",
+        "url": "https://files.pythonhosted.org/packages/77/4b/13aa57e6a89e757b17e3c3437901a6f4bff704902ad91970df072e16d9fb/sge-pygame-0.9.1-py2.7.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "70dcbc531d517543a3bd47c38dced173bcdfe173a74585b7f74921fd0ad2ab84",
+        "url": "https://files.pythonhosted.org/packages/d8/df/fe70c56bcf469873c3a6b5c3025d3a39f367c5cc595d74f43597fd33a894/sge-pygame-0.9.2-py2.7.tar.gz"
+      },
+      "1.0": {
+        "sha256": "cb0cd0770373a27cbde7a7e55019c74de25442e829830147452d76dd4ef31ebb",
+        "url": "https://files.pythonhosted.org/packages/32/df/cbdc3b263ea824938fac2ea8f1e22b40f0d005d2009ea45b6f0776edec66/sge-pygame-1.0.linux-x86_64.tar.gz"
+      },
+      "1.0rc1": {
+        "sha256": "52c814b3ae2ff71857e54c90d939d60fc401054d88b8fbadc585c9515cb114d0",
+        "url": "https://files.pythonhosted.org/packages/b4/53/a2749f638780e2c1a628887a5e903a2bcb0a9595e56a5f59647903f536b0/sge-pygame-1.0rc1.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

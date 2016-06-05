@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Export Plone registry content to a JSON compatible Python structure",
+    "homepage": "http://github.com/keul/collective.regjsonify",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "08bb13e223c5d457f008c605b455f653c2cf3ddd63443068afb9827a740bcc46",
+        "url": "https://files.pythonhosted.org/packages/28/32/7398e175f010666a578b28e2e2f664be805dba269fd8ef836f56419c3f62/collective.regjsonify-0.1.0.zip"
+      },
+      "0.2.0": {
+        "sha256": "687ab1ebc8419480cdf15ac2bccedaed849ae9ebc162eaf7f00a766998765f05",
+        "url": "https://files.pythonhosted.org/packages/8a/9a/7eaff56326caa3beab09f0139c5d76a7b60fc9aba174227a40c72329a783/collective.regjsonify-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

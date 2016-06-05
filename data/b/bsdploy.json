@@ -1,0 +1,74 @@
+{
+  "latest_version": [
+    "2.1.0"
+  ],
+  "meta": {
+    "description": "A tool to remotely provision, configure and maintain FreeBSD jails",
+    "homepage": "http://github.com/ployground/bsdploy",
+    "license": "Beerware Licence"
+  },
+  "versions": [
+    {
+      "0.1a2": {
+        "sha256": "abb73ec8fc2896d52d906e157039363d77013ae56b753090d8a65e22f17c87ba",
+        "url": "https://files.pythonhosted.org/packages/25/c9/d69bd683c9f01004b3e0928a8c5a64a76e13f1ae6069c302b27fdeef1ae1/bsdploy-0.1a2.zip"
+      },
+      "0.1a3": {
+        "sha256": "f475aaa8a7233663229076206fb5044fc2391b387289fee6ce904466de1debc5",
+        "url": "https://files.pythonhosted.org/packages/51/b4/625b97ac54e4b2fcae1f0c31e2b19f37e167db9f8265b3f0e2f2736974fe/bsdploy-0.1a3.zip"
+      },
+      "0.1a4": {
+        "sha256": "70109ff89761e19538e3a3c0386e0f668432962466212fec26283bc40f593347",
+        "url": "https://files.pythonhosted.org/packages/2d/a3/ca32f7250eaab879b7737c0619714ad3092a718bb0f7e3a048b37f8bf778/bsdploy-0.1a4.zip"
+      },
+      "0.1alpha1": {
+        "sha256": "70b86ed515367d0c549a30c71ba9668460033fb070168fa97db8490440db834d",
+        "url": "https://files.pythonhosted.org/packages/61/a9/6fb4288cce75297afc167b30a43ed638b1a18a8ec1f4297c3c03b3d54f85/bsdploy-0.1alpha1.zip"
+      },
+      "1.0.0": {
+        "sha256": "4e9b7b233963a2fdee9f1025cb17b739b9fa14d0ad6908c2dd0679d148773698",
+        "url": "https://files.pythonhosted.org/packages/db/b9/bd8aa88d4c6d7b74e0e62faa8306fad8d6fe2a06c60501de2ce7a1e0d241/bsdploy-1.0.0.zip"
+      },
+      "1.0b1": {
+        "sha256": "b7189f3fcea27b0826fee309fef7b53250cf37c2f3344612f9796134702e5d9c",
+        "url": "https://files.pythonhosted.org/packages/c9/b1/c5027d92855163be52706b04fadc5117281982012ee51b613fd1bb57bce6/bsdploy-1.0b1.zip"
+      },
+      "1.0b2": {
+        "sha256": "47ed3d712375ca923007a82dc8967e32aa741c403bccdda1704d853deb158ad0",
+        "url": "https://files.pythonhosted.org/packages/02/a1/6ec0561918df3466e44c44aa21ce341485680e8b2b9c66fd1f6ba5586ba8/bsdploy-1.0b2.zip"
+      },
+      "1.0b3": {
+        "sha256": "c23dc2e4406aafa66899db5252b6e2c009c87af4c38f869749687fade2967938",
+        "url": "https://files.pythonhosted.org/packages/7a/11/93f96b504fa8732bfb07a2f439c3df2e1f3a2de3700ac69194446adc4e41/bsdploy-1.0b3.zip"
+      },
+      "1.0b4": {
+        "sha256": "c4a026bab828768cae4335463a56b7f95c898e5b9df50ae83b077731f3f1f0e2",
+        "url": "https://files.pythonhosted.org/packages/1c/fd/a71f6e72a3af781bd9c6ee2e12bcd58d3bb9af5022e8e8b4f7f98efeb941/bsdploy-1.0b4.zip"
+      },
+      "1.1.0": {
+        "sha256": "f507d86b287b7fcc792a24bdd50bb0905884aaa0a93b6efc5e9495e64bbf71fb",
+        "url": "https://files.pythonhosted.org/packages/ae/df/117bdac029040608f4341fc6f4f4c1934b5d0b345453aae30483e628b256/bsdploy-1.1.0.zip"
+      },
+      "1.1.1": {
+        "sha256": "813efacd175014885f1bbb0ce4e8cf5af013c191ec1ee7e85686d4bbbbc74f15",
+        "url": "https://files.pythonhosted.org/packages/79/6a/7d6e9b31cd970808d936d5188ad8a5fb53768d079a6075059e6c153bf0e6/bsdploy-1.1.1.zip"
+      },
+      "1.2": {
+        "sha256": "5f359fef67c680153fe90b332c03b263f4538953d1d76fa8524a0f6dbacfe650",
+        "url": "https://files.pythonhosted.org/packages/d3/f0/d6bdb1c7273128944bbc437f614a4038afe7af275969e74d8d6f62061faa/bsdploy-1.2.zip"
+      },
+      "1.3": {
+        "sha256": "dcc80dc2e82b5780cbd8231e869bdca047a3014ac41c49c450bab7cf1b994cc6",
+        "url": "https://files.pythonhosted.org/packages/83/ae/e5c44e446d9efb2dbd8d8f7037b55b7950621aa8a292f65379a55e219724/bsdploy-1.3.zip"
+      },
+      "2.0.0": {
+        "sha256": "4fe58015cc4f342322d931c66eaebd4bf9ab9fed5e6cf7bcfcc17c125f6e65de",
+        "url": "https://files.pythonhosted.org/packages/54/b3/0e689ba9e921ff01132fdc1fef47879f21405828fd094bce0ef043c84b8b/bsdploy-2.0.0.zip"
+      },
+      "2.1.0": {
+        "sha256": "4ab415ae7c496e694b450a521a0b245ab672642d8360b16495033f0d229b7200",
+        "url": "https://files.pythonhosted.org/packages/d6/80/8cf8d6215e43988239b3bc2f1ba86ab9203e30001182aeb90ef7157659b3/bsdploy-2.1.0.zip"
+      }
+    }
+  ]
+}

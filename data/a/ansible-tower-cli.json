@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "2.3.1"
+  ],
+  "meta": {
+    "description": "A CLI tool for Ansible Tower",
+    "homepage": "https://github.com/ansible/tower-cli",
+    "license": "Apache 2.0"
+  },
+  "versions": [
+    {
+      "2.0.0": {
+        "sha256": "720e7e9a8adbec14689da2682aa32fcf81667b161c0f45a3f8e388c798fc9422",
+        "url": "https://files.pythonhosted.org/packages/ce/05/316af7cae7578208dc78b45ae56e3afebda0a48d23217862fe5a322a81f9/ansible-tower-cli-2.0.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "786c55cdf387045adef01c141ba5dc5e490cd82c876a656e0c6b63fa285864c6",
+        "url": "https://files.pythonhosted.org/packages/f2/e2/7f0ac64c7f1403f7ba51d322098a9231621c26e99c2157d7300a9a32eafa/ansible-tower-cli-2.0.1.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "694254cf514d225e81ecaaa825f163fff6571afc7d2b77a909cc7a28c4ff743f",
+        "url": "https://files.pythonhosted.org/packages/69/01/687095921ffdac8d012cdefc3a3c44c4f3cd50f07c954088dab7b130e892/ansible-tower-cli-2.0.2.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "379adc895f62e98cb83723e5dace45d3fd39c0e313e95aecf8383c128ffbb428",
+        "url": "https://files.pythonhosted.org/packages/ca/65/0cd2501a27ba6e1265d97225e45fa2bd93f96db40f8f1cd53dfc93004626/ansible-tower-cli-2.1.0.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "de6e1376c1d746c3bda6d6c641c24ad5ee946cef1b1ef5887cff0761076e0701",
+        "url": "https://files.pythonhosted.org/packages/10/71/187946bd2518bde37aad417a9f2ef8fbc3f1ee7032c56becfe6529e04271/ansible-tower-cli-2.1.1.tar.gz"
+      },
+      "2.3.0": {
+        "sha256": "a1c7ac0ea43832515fcc4e72eccb365c279238c9919731706aad6efeb7d5514e",
+        "url": "https://files.pythonhosted.org/packages/ba/04/de4e087bb05ef74f98b4ba8d9006da349148b7112c0a572ef2f793da3b32/ansible-tower-cli-2.3.0.tar.gz"
+      },
+      "2.3.1": {
+        "sha256": "bbea087452e2c2d325f24f475be23789caddb53cf013579c7276a6e5c5a5479c",
+        "url": "https://files.pythonhosted.org/packages/f7/7d/ee885225933bb498c34e2ad704194ed188662489a4ca4936a2d82248b6e8/ansible-tower-cli-2.3.1.tar.gz"
+      }
+    }
+  ]
+}

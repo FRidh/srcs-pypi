@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.4"
+  ],
+  "meta": {
+    "description": "A Python decorator library for caching function results in MongoDB",
+    "homepage": "http://github.com/ikuyamada/mongo-memoize/",
+    "license": "Copyright 2014 Ikuya Yamada\n\n   Licensed under the Apache License, Version 2.0 (the \"License\");\n   you may not use this file except in compliance with the License.\n   You may obtain a copy of the License at\n\n       http://www.apache.org/licenses/LICENSE-2.0\n\n   Unless required by applicable law or agreed to in writing, software\n   distributed under the License is distributed on an \"AS IS\" BASIS,\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n   See the License for the specific language governing permissions and\n   limitations under the License."
+  },
+  "versions": [
+    {
+      "0.0.3": {
+        "sha256": "a06fbd790f35bfd1555545d0faeab07601a08191332bb4731ca919af02ebee05",
+        "url": "https://files.pythonhosted.org/packages/49/b3/d59320a134742cef1a3d88d49eee03400f92920abcedfce8f2d1f2d9ea90/mongo-memoize-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "c1500e25f2ca54be0fae5f3631db7ce3be0e92daa3e66d665dbe8b4c316b8130",
+        "url": "https://files.pythonhosted.org/packages/9c/cf/d1a17858125f66ccce612c94bdfc8a41d118d676b3197e004cc8f318738b/mongo-memoize-0.0.4.tar.gz"
+      }
+    }
+  ]
+}

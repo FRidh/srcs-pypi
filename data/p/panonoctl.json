@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4.2"
+  ],
+  "meta": {
+    "description": "Python API to interact with the PANONO 360-camera",
+    "homepage": "https://github.com/florianl/panonoctl/",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "7f0b1d7edbf3e9ee89964fbd25f31c6808582d9d2e1e78c0db86433dc8d30004",
+        "url": "https://files.pythonhosted.org/packages/dd/c0/61520fe5b54b20905721c52296b8b5dbc9b1cbc911ad90a6f239f98dbe93/panonoctl-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "80c5738a35b6818cfcf0595059f7c9285281f7bfabb4c98f28da80b027a58fa7",
+        "url": "https://files.pythonhosted.org/packages/78/98/86ef7b5b0f8ad5554a9de7d502597533c4cf2ab37ca35df46c31f63c650a/panonoctl-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "e2eb6e5cbb26cbee049c7f38151a0f3c310729bfa7b39e7ab07d59f98f01c619",
+        "url": "https://files.pythonhosted.org/packages/1e/2f/5731477f54c4038f2a8c7f892040dabddd85469ab58c5e29cb14a5f0e1b8/panonoctl-0.4.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "2953bdd708ac0f9236f042ed1c42888a52fa71f9c965ebcaf10b91c6e6a653af",
+        "url": "https://files.pythonhosted.org/packages/45/64/53db57cc06973be1b5fdc04d358d7a7e424b4b32ff619ddef1fd7ad9c7ef/panonoctl-0.4.2.tar.gz"
+      }
+    }
+  ]
+}

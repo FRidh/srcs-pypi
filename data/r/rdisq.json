@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.4"
+  ],
+  "meta": {
+    "description": "Super minimal workload distribution framework over redis queues",
+    "homepage": "UNKNOWN",
+    "license": "As stated on github"
+  },
+  "versions": [
+    {
+      "0.0.3": {
+        "sha256": "02a248f330f5806f0ef8065990f259f52f6c7bc26e29404c96aa38759c547dd9",
+        "url": "https://files.pythonhosted.org/packages/f1/8e/103ab28d6c438bae695d2ec8915e34561a4d1daacae23c2d165c02be5a1e/rdisq-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "ba649291dd2a300667b6150358dd6439dabefd36e75dcd12099b536af9ada46e",
+        "url": "https://files.pythonhosted.org/packages/d1/6f/864cfeea0c76445b981fee8f02b33700e1950dd79cdada9e491f5036643a/rdisq-0.0.4.tar.gz"
+      }
+    }
+  ]
+}

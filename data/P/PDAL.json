@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2.0"
+  ],
+  "meta": {
+    "description": "Point cloud data processing",
+    "homepage": "http://pdal.io",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "1b06f664a86da15a9409e2e2d028982f9f1136613c32a8199cbc4e7b9f8b807a",
+        "url": "https://files.pythonhosted.org/packages/05/d4/4fb51d3dae25f7715a03c4fb7ecabcccda1966096201ccd2b0cbc14672af/PDAL-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "42b1ad6a5d6a019d769e806d18db454c768e955271f2d17f32f7692ce271c183",
+        "url": "https://files.pythonhosted.org/packages/1a/03/9e135160b44384318b3a73012b62f52ed5e42b1493b7a254ddfce1bcf114/PDAL-1.1.0.zip"
+      },
+      "1.2.0": {
+        "sha256": "36ed522c2a7e1ee628000f0c9d821e5beaf9d4c4cc48b32c8d5446c861105a3d",
+        "url": "https://files.pythonhosted.org/packages/5e/bb/f5e247b16b00a5c178c3118351bb7a2d4395216f3b48ec058d3f3eee1e71/PDAL-1.2.0.tar.gz"
+      }
+    }
+  ]
+}

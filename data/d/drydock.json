@@ -1,0 +1,138 @@
+{
+  "latest_version": [
+    "0.6.10"
+  ],
+  "meta": {
+    "description": "A Docker cluster construction utility",
+    "homepage": "https://github.com/Nekroze/drydock",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "e24a779adc92beb7725a42dcc959ee848c4aaa93b6fc9b3dd4c43ff8576a9767",
+        "url": "https://files.pythonhosted.org/packages/1c/f3/97626c8dc0dae1e89838784f8e4b5b6796240e5e03b582ea7d92f58b42eb/drydock-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "0e67d93b6bc487107ca2d98409caf35cf39a157c6cff09e3e5fcb4228b0a2f9d",
+        "url": "https://files.pythonhosted.org/packages/ed/ca/3f5a7e940f4a4bd9e0d3f188a1a47e0299e93d65277f13a1f00609adf646/drydock-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "fa2cbffa67723238de27dc8a70c798c94752a45f9ec611f6a3ba3b57b885cf5f",
+        "url": "https://files.pythonhosted.org/packages/5d/ab/44c77b85adb510f93c1fb956d426ee6125900e6f5931442c3a74019c2716/drydock-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "d3be00cc70834853941fdd20d1edca579071ac0dc2f19a6cedd9235bd0e0b9fc",
+        "url": "https://files.pythonhosted.org/packages/28/aa/55d27dcba9ff5c5a862a2838ae4f6b7ef5f7b9ee3d1b9980602beed6b3b5/drydock-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "71b9edce5b87f1f9fb4331983ee9031f11f5e2ae0f66fbd37580a332ab3be4ae",
+        "url": "https://files.pythonhosted.org/packages/4d/19/d009dbfbe037177d199850cb061588b2393ae63bffd9519474ec0f55093d/drydock-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "10e062a076f76c0402fb69eaa13e866f7d851509cbe7afa3fc7f67156a378cee",
+        "url": "https://files.pythonhosted.org/packages/5f/5d/7471c9d4877afe528282a1f05fab3c08a5728b62215d62e422942d8bf53a/drydock-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "d9773d6011151a3b4033ce796c0f2a7aa3458d94b578bd91e0d0d75ba6e515b5",
+        "url": "https://files.pythonhosted.org/packages/c6/31/3aba82e99f9c765542a85aa2b7dfc1bddcbf43e4abdeab709572e9d79b34/drydock-0.4.3.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "70b1be7117b03eae5985a4d9ec9eb7e715f96a5e5f92ae7398525e118a693cd6",
+        "url": "https://files.pythonhosted.org/packages/5c/bc/f36d49930c773bec55992c14a9963eb0c59c65cf2038b55f2efb5e53c79a/drydock-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "1592abdd935b49879b3937a25ee904c0ad4f706dc8a0733a88d4575e260b629b",
+        "url": "https://files.pythonhosted.org/packages/d4/cd/7bb9f66febcb3edc01c3d9d44b52a86c25921af5f7a7eb86668e4a3e3917/drydock-0.5.1.tar.gz"
+      },
+      "0.5.10": {
+        "sha256": "adbc679c72d6b43ba7ad85be3f026f089e723b50d70c648f8a9df57dac6294d6",
+        "url": "https://files.pythonhosted.org/packages/97/13/8a5e8cc5d75ae6b3031aa89a56ec3b497d80b564ebb54d130daee95933b3/drydock-0.5.10.tar.gz"
+      },
+      "0.5.11": {
+        "sha256": "d3e92cef992d8785561bd1d9960972d61e79e3a1675eb676487dbd6eb55b3fdf",
+        "url": "https://files.pythonhosted.org/packages/c5/ef/c2a1876ea85752d010237c673f3f7b8aa2937e0c0519c2ab0949b43a7100/drydock-0.5.11.tar.gz"
+      },
+      "0.5.12": {
+        "sha256": "9a0e4c013308ad358e2c4353dc54a702790442f53c70f7c7d7a93c41e44b49e2",
+        "url": "https://files.pythonhosted.org/packages/12/a9/96f2d2082ec2f45807bab3006f28d2a40aa04db2e94602843faab3b5e3f8/drydock-0.5.12.tar.gz"
+      },
+      "0.5.13": {
+        "sha256": "acbbb917697db97edbfb4c19a1e790db54d0483ac50f56a763750cddf08976b5",
+        "url": "https://files.pythonhosted.org/packages/61/25/9e3c3c194980df61d75e770b0b9fc232a223054231508e11079a2bf698c0/drydock-0.5.13.tar.gz"
+      },
+      "0.5.14": {
+        "sha256": "5db1a81658a6f86fb4d06ca87906490bd2c48f68f7b15758d8a8e82ae32d6672",
+        "url": "https://files.pythonhosted.org/packages/5e/24/be93e5d4d108344771033248bae203c36a2f5c753895abedf7cbc6d22616/drydock-0.5.14.tar.gz"
+      },
+      "0.5.15": {
+        "sha256": "c5a61d8a464ebc729af11ec4f7cd9c5c46aa709818829cd3d236b25f493d4a4d",
+        "url": "https://files.pythonhosted.org/packages/9d/5d/bdd298887458e1f5c6971ab4670fc9233cbac23ae082e274d70143284277/drydock-0.5.15.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "19fcf933fe12e926b80af86983965a1b9d16db15e21cbb34f289048c587a0540",
+        "url": "https://files.pythonhosted.org/packages/80/ab/1901abf07ae0ee9bf3aa29ada831e3a1641cdcfac2d7dc6245d33f307021/drydock-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "cf631cd434eb48a76faa7c179a51b7fc1bef40a71fbdf0101a3c30222fc39c71",
+        "url": "https://files.pythonhosted.org/packages/a2/32/d2c0d368a1461eb9a8e46b20aff04b1311bc27aa06a2d1ae15473fc82a1c/drydock-0.5.3.tar.gz"
+      },
+      "0.5.4": {
+        "sha256": "ebcae1bc9b48fac6bf277c7ae0fb68b71e1e8c1bc46a35181003bedc6961ea3f",
+        "url": "https://files.pythonhosted.org/packages/2a/7a/dfadeb2da3d0464fd64ee6808f8bc3a102882e8b505ed2342586d71f9f80/drydock-0.5.4.tar.gz"
+      },
+      "0.5.5": {
+        "sha256": "159f9c967db155b73fb492688aa1b3f56ff6d7ddf0097e6c14efb6e7bb376d88",
+        "url": "https://files.pythonhosted.org/packages/a1/b7/94bc01217f6a4fd1dc9a9ca548c22ec11c3bd7495190461d94c1092f3629/drydock-0.5.5.tar.gz"
+      },
+      "0.5.6": {
+        "sha256": "4d8b57694797e949117f3a450ba9b04db103e785c79abeff8b49ab3cac7c917f",
+        "url": "https://files.pythonhosted.org/packages/de/00/a6b20d1a563facbe86107426b98a6170da3b056b0167b1172b1eaf55c42c/drydock-0.5.6.tar.gz"
+      },
+      "0.5.7": {
+        "sha256": "7d31b4bf7ec03a37f15fc2d45f9e011a6b51026105665c73dd4139f353a80959",
+        "url": "https://files.pythonhosted.org/packages/c5/61/b9bb06b91ac78425b46e4645d91a177260c0e373aa668a062a819a32f931/drydock-0.5.7.tar.gz"
+      },
+      "0.5.8": {
+        "sha256": "41cebed71b490eefcb01f29d5a474eedcdaec6452c84f15cf4215b38f5717c13",
+        "url": "https://files.pythonhosted.org/packages/2b/70/900e8157efcdaff1b330d9288dd544ef174ee08c020107be6ac2b165a3b8/drydock-0.5.8.tar.gz"
+      },
+      "0.5.9": {
+        "sha256": "87fd3160e38984c1013fc8c786e89cd4a3e37dce59b1a346c761e2b7f6c8cd11",
+        "url": "https://files.pythonhosted.org/packages/2f/66/1c7111f00832a580e195c24d05a7eae4d55ac209770b098a30e914a8d49f/drydock-0.5.9.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "123f7cfc9a812969520bb072761da75a8ef4c52ee6498bfd534a9d2bf7ce62bc",
+        "url": "https://files.pythonhosted.org/packages/ff/7c/5255bd283da6f9f589bc40ab67a3fc67e6f39ed31d97bca6b9bc7537b231/drydock-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "a51f02e63aa6c61bfb23817a331e074bb9e822f658eb3ad60e41eadf061ee63e",
+        "url": "https://files.pythonhosted.org/packages/2e/39/d3575e2d61ae10de538b9924a1cb809e5995c1b6b9a01d0c3de1feb1c597/drydock-0.6.1.tar.gz"
+      },
+      "0.6.10": {
+        "sha256": "cb64d0e5ba29724e5706f4a9b4575788afb84c68d3bc006e104cb3918bd73da8",
+        "url": "https://files.pythonhosted.org/packages/ec/68/2504dc42fb97744a23c3ae2db396c62f541f1533027c34ff226472a431de/drydock-0.6.10.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "09d8e97e31ad95ab90b82caf2d6f756c8ea504d2d63d9655eb240ef02b4acd0e",
+        "url": "https://files.pythonhosted.org/packages/51/4a/a214592320bc610403dde2df4a952a6a5e8c7821c3850b854df22a86d141/drydock-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "2341bbb6046a218f0a309b607d324936048d53016fb025d7cb58dffd94468456",
+        "url": "https://files.pythonhosted.org/packages/bc/e7/c54d0d2d70f052b758f9c3724e162a34808403ef323b6bb80f784d65e128/drydock-0.6.3.tar.gz"
+      },
+      "0.6.5": {
+        "sha256": "9f768becf33bea28c75c14cb8c70a69c67f1d36677a36eb821392658dd8d6861",
+        "url": "https://files.pythonhosted.org/packages/f0/d9/26fbdd1824fd884892fe45a59c9a44e72fdf643c8aeda55b6baa782d2d08/drydock-0.6.5.tar.gz"
+      },
+      "0.6.6": {
+        "sha256": "20f30adba990bc44071bd26b6e84cf58f0638049339ce2dbb911811ba1935746",
+        "url": "https://files.pythonhosted.org/packages/14/62/68ead33f32904ca70865bc1cdb38841f953d3f8bc19a49c4e7ab8bdfd7b3/drydock-0.6.6.tar.gz"
+      },
+      "0.6.9": {
+        "sha256": "79f5bb67e854e2c6fe710d6edea113012b740958c292c7bd1e11cbd4b7e44913",
+        "url": "https://files.pythonhosted.org/packages/c9/fc/30c654b35a5c3783b92467566ac69a689d5ad5810aba03f2e0ef14bc83ca/drydock-0.6.9.tar.gz"
+      }
+    }
+  ]
+}

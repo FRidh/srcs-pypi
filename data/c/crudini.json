@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "A utility for manipulating ini files",
+    "homepage": "http://www.pixelbeat.org/programs/crudini/",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "0194fd92314e3c1f53178daf93a69ee95df68766acf53e5d580396cbe6c996ed",
+        "url": "https://files.pythonhosted.org/packages/02/de/85f0ddabc9c8f1851b675494dcf1026a3514b279476e4e4674cdda65346a/crudini-0.3.tar.gz"
+      },
+      "0.6": {
+        "sha256": "254a8c02f1ac5a6e61f43e44f3fc73a2f8998860ba606cca7e2ed212a07abe71",
+        "url": "https://files.pythonhosted.org/packages/b3/5f/e1c782bf9d8dbfbf07a639a9b865cf575ce9627f37efc68e7c9a1ca5edba/crudini-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "5d493ae6600e54f9e0296b12d3adba99b88a439d8c4b2ebf9bc6f9c0613a03d7",
+        "url": "https://files.pythonhosted.org/packages/54/23/0b5b9405979f1796627330734b46f9f9b35bbe776961f088dcaa56e42de6/crudini-0.7.tar.gz"
+      }
+    }
+  ]
+}

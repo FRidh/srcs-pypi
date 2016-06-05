@@ -1,0 +1,98 @@
+{
+  "latest_version": [
+    "1.1.10"
+  ],
+  "meta": {
+    "description": "Peak-calling and Prioritization pipeline for replicated ChIP-Seq data",
+    "homepage": "https://github.com/shawnzhangyx/PePr/",
+    "license": "GNU GPL v3"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "e15e2c8a5b2f4c8dad248819398e6ebe6aca139619a884169fa8d17fd5aebb71",
+        "url": "https://files.pythonhosted.org/packages/fc/0f/eccf6b197b492a79923da7794383ff463effc3d44e41f49a079386bae7e2/PePr-1.0.1.tar.gz"
+      },
+      "1.0.2a": {
+        "sha256": "b47010e61f267e372743bbe3a2b89f940935213961a6c13c8e920abf38f5d34b",
+        "url": "https://files.pythonhosted.org/packages/64/51/90cb7c3e5693324e4ca7d544c97b054c8c8a6e06c4cbea44955627e40b83/PePr-1.0.2a.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "3d17f55db766aecac643a16816bce87607ab5f9f765fbce69219301b91d9078e",
+        "url": "https://files.pythonhosted.org/packages/38/e2/aaab08ea43b5889264b27b2abc2df4a32689c4345ca302f46b890568e0ef/PePr-1.0.3.tar.gz"
+      },
+      "1.0.3a": {
+        "sha256": "26811a7fe965e54bde67b980d7cd93ceaa132decf1b98eb8d675587af86c5845",
+        "url": "https://files.pythonhosted.org/packages/e0/03/c6907a0c622e1f23153cd15618a3f7090802034268812e1f3fed62cbd124/PePr-1.0.3a.tar.gz"
+      },
+      "1.0.3b": {
+        "sha256": "b5f7d8c2bcf24827ec93af76b37f802db6558576e714ac5a63da1d887af3ac90",
+        "url": "https://files.pythonhosted.org/packages/12/4c/8f3420f02df39690f43a6151b1d63b13f09b2523dab631f313ecee73363f/PePr-1.0.3b.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "f39fb2e474c410d09dcab33fd716e0e369e10c3535f2a569f1bb267ac7074aa7",
+        "url": "https://files.pythonhosted.org/packages/54/6a/c33d7ee2066f3f7c0a130854127c0b92aebfac19b05e790bb49b96638229/PePr-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "cdbe23e86815a613e5b54750b47d0be5b97d8c31d7271c0755f2de1f45ed82f9",
+        "url": "https://files.pythonhosted.org/packages/10/fc/3b945921005cc7fe3e52f549908484de1986ebcf10e284da31264b135653/PePr-1.0.5.tar.gz"
+      },
+      "1.0.6": {
+        "sha256": "d69baf17cd36cac886b5509d1a51eadb559de96ff84a0a8040684650310d422c",
+        "url": "https://files.pythonhosted.org/packages/10/15/2d25f622f758e476599f583cd4dd41055d56c890376c932f568bebeef4df/PePr-1.0.6.tar.gz"
+      },
+      "1.0.7": {
+        "sha256": "27084d672728879cbf09b47fc049e06f59a8fc659cd20f11b06459239544960e",
+        "url": "https://files.pythonhosted.org/packages/52/51/108ad351ea647f77743c87aa340b26350e2a0dd4955d6bf55de3b704df6d/PePr-1.0.7.tar.gz"
+      },
+      "1.0.8": {
+        "sha256": "96a6f07a62d7c50ba65f770f32e7f685c9a5f178d2f985497f5e067c868f32f8",
+        "url": "https://files.pythonhosted.org/packages/89/60/74ac7170659fc5f3201614658957397fafc912a294f5b492503d7de79311/PePr-1.0.8.tar.gz"
+      },
+      "1.0.9": {
+        "sha256": "bd3dd3bd7210b3af736a1a79d42bffe44ce30a6a4273c6ec283eac406f73b263",
+        "url": "https://files.pythonhosted.org/packages/1f/3c/e3133e6485030ae06fe3c25f29e4894b37163687b1ec11777db894bdf210/PePr-1.0.9.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "c0817a72cd139c2dc1fe4ad7055b74ff1ebd1b3de670dd1277ca5fd503fdb4f8",
+        "url": "https://files.pythonhosted.org/packages/b0/b2/a8b3e880dde5ab86dcd1a308919f7810adae64eba30e2768d841de747002/PePr-1.1.0.tar.gz"
+      },
+      "1.1.10": {
+        "sha256": "3f445ccaa5d48718fc455c27e0d79c69f62520bf3905a7567bd0a74b5a8e6637",
+        "url": "https://files.pythonhosted.org/packages/35/3a/46390d46364b8c97a155df1a0a2af1f85b61aa73bd1fb4d7e2de6fc0b46f/PePr-1.1.10.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "46c7a6d3362f704db290dcb3470f51f3ebc37cc8537aa8db7d03602a7d8b1d84",
+        "url": "https://files.pythonhosted.org/packages/a6/5a/f91ec90f2f1b517169d31e75a90e6f8d1a2d540e5c297212abe14f7a3974/PePr-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "a7b2a8a9f3a974075a58fc8a91a3f2253cafca5098059f2ee20254660d686ffc",
+        "url": "https://files.pythonhosted.org/packages/96/e7/ab74f91cde89be0b455457030fe5c13061332fde06932c304cbe4c3eaebd/PePr-1.1.3.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "a825defa991c3f84864214358e8649a361e7b422a6412bd8bf1d27a50567a6e7",
+        "url": "https://files.pythonhosted.org/packages/80/8c/60208ca06ae3d4b217f266faf4e0951eac5ba8948478b2916b4f0b68989d/PePr-1.1.4.tar.gz"
+      },
+      "1.1.5": {
+        "sha256": "33ae37464638ff53c074b56699889855263ed5bfb3c165dc268741ab3d8257f7",
+        "url": "https://files.pythonhosted.org/packages/8a/d7/eec8b616547f1c1dd02d2bee59fc69fde77d6b8520b8b54f2512d7cc5f76/PePr-1.1.5.tar.gz"
+      },
+      "1.1.6": {
+        "sha256": "d339101758a4f872ca825aa285a9e32fbc7e805354bc03274a6003dbfbdb2c17",
+        "url": "https://files.pythonhosted.org/packages/94/5e/22539f7a617f3ef31ee2fdcbb99867f8edc92f5d371cff42e7b6eed54415/PePr-1.1.6.tar.gz"
+      },
+      "1.1.7": {
+        "sha256": "2c2a52d1aa14770eec909510c13495cd81dd442e0129cc9436f5697f2f049fa2",
+        "url": "https://files.pythonhosted.org/packages/f5/03/5c59259367a6ed5d8bcd603129d0275a38aae4a65b74feb2eec15f581157/PePr-1.1.7.tar.gz"
+      },
+      "1.1.8": {
+        "sha256": "0469fe9750f9725ed37e838091c86db5811a6766fe79cf202ecbc1313bf29762",
+        "url": "https://files.pythonhosted.org/packages/61/56/7c2853a590bbefc222b86727ad3cb3c2fe8ca8f7374006c79f5e377bc1b2/PePr-1.1.8.tar.gz"
+      },
+      "1.1.9": {
+        "sha256": "0900e51c1de143bf730cb39e7ac288e28236734de667db81fb418ea07b06d601",
+        "url": "https://files.pythonhosted.org/packages/9f/be/2379573e5c969ec610ea81fc7b24916e1c0201183e941c2bf2d35d9fc730/PePr-1.1.9.tar.gz"
+      }
+    }
+  ]
+}

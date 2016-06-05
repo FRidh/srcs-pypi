@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "awslib is a program can implement amason web service ,such as download bucket files             and upload files to bucket etc",
+    "homepage": "https://github.com/wekay102200/genetalk_upload.git",
+    "license": "Genetalks"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "e25990b70766aede553c93caecfdba69d88b91b3146c1154609a3d5ca8970b01",
+        "url": "https://files.pythonhosted.org/packages/be/9f/2e57c7fff651d8d27e2e3c28ea1824b53986a6cfb9586c67d4c431f7aed3/libaws-1.0.1.zip"
+      },
+      "1.0.2": {
+        "sha256": "f6c82c3881f7768a3d0e80f62bad349ad0a2fb2eebb5ad4e27f09c023d7a3fd3",
+        "url": "https://files.pythonhosted.org/packages/bf/90/6b46012e63ce382de2ff12cbf15a2365d85cc3978c151304a76c2c46630b/libaws-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

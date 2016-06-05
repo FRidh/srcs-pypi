@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.7.1"
+  ],
+  "meta": {
+    "description": "LDAP extensions for Trac 0.12",
+    "homepage": "http://trac-hacks.org/wiki/LdapPlugin",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.7.0dev": {
+        "sha256": "f5f5a8520ca77bc9df635cb0e2455d91ee2b38fbfc3df449750b31e10e0a2d51",
+        "url": "https://files.pythonhosted.org/packages/c4/06/f1d79f94fd1d957c2ceda2c3f292484fe693489bb651cfe5052069bbeaeb/TracLdapPlugin-0.7.0dev.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "01931edcb4e479b04ee61bbad46269519250349bcc8f17657bdbbda682570b8c",
+        "url": "https://files.pythonhosted.org/packages/b1/9b/f8f6faa22ebdca73cd861316ed4123b1ce309f70c1ee4c24c7767faecb4e/TracLdapPlugin-0.7.1.tar.gz"
+      }
+    }
+  ]
+}

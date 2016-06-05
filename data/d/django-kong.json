@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.9"
+  ],
+  "meta": {
+    "description": "A server description and deployment testing tool for King Kong sized sites",
+    "homepage": "http://github.com/ericholscher/django-kong/tree/master"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "134f90d0d260cd7d69923feb5da2c42e6cf87645aeb4d83b4adc27a9d5fb6ee7",
+        "url": "https://files.pythonhosted.org/packages/05/83/953fd01ed62539ff1642481e92c2e40ca11bf23ea0866ad6a9b7959f91b0/django-kong-0.1.tar.gz"
+      },
+      "0.9": {
+        "sha256": "fb41b718b98736023d7d9fc9b8e90ad78a6282199577720b95c973824d452317",
+        "url": "https://files.pythonhosted.org/packages/87/eb/b2b15fcc15516b985c49457678ba92ae18cc9a7aa2df3351c70d523930ba/django-kong-0.9.tar.gz"
+      }
+    }
+  ]
+}

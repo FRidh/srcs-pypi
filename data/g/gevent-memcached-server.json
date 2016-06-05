@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "gevent based memcached binary protocol server",
+    "homepage": "https://github.com/jvtm/gevent-memcached-server",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "760206afcf6a7150bc9aafd691bf1471f0ea4ff11567de3f85a6ae6040be70bc",
+        "url": "https://files.pythonhosted.org/packages/71/88/da849fd2cb4a618ce900f5a52ca9a584819984e295b6664c9c3951ccf992/gevent_memcached_server-0.1.0-py2-none-any.whl"
+      },
+      "0.2.0": {
+        "sha256": "cb5adbaf031c9801ade4d41dffefdfc175b67180a582c97081986563035c1cbd",
+        "url": "https://files.pythonhosted.org/packages/ec/00/c3d39a93034d1a6a05a35e571705f6323a964d30248065e2fa4518a73f54/gevent-memcached-server-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

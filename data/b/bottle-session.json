@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Redis based sessions for bottle",
+    "homepage": "https://bitbucket.org/devries/bottle-session",
+    "license": "Artistic"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "e35aa08c59a369655a7782fbd3282266c5e6574bb5257959f8ee627474ec49a3",
+        "url": "https://files.pythonhosted.org/packages/b8/58/c5d2a03dbb0da0406ac4dd2c703d2da1258ed607a531528be07a1719e4d7/bottle-session-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "06168cdd01d503211f8fc4e734eb39f5ba741e64b395d19c07e079d117629a09",
+        "url": "https://files.pythonhosted.org/packages/44/7a/ee322b7a19f816b06f990f455e9b6f8c6939c661cd415e2c80eee0da7641/bottle-session-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "19a7f7a1e55ce2e3f0d47f1c892d9dfb75f2ce58525a33f820cbfca8e317ddb6",
+        "url": "https://files.pythonhosted.org/packages/c4/56/48c16b72e40776bef2db07a6d168dd53f75c3f537066f5709357266a4764/bottle-session-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "c62fb9348e3cdc3251ece83a0373c159859d435032afa68aa39fefd8f7ba89e1",
+        "url": "https://files.pythonhosted.org/packages/a2/59/a691b81da5f9b8877893b3c95974478249e3a50314af6afb4fc69877baa2/bottle-session-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "7b8f4356b451b49221493d0552eb17fdf816aa8d541d9c45f4449de780e20500",
+        "url": "https://files.pythonhosted.org/packages/10/cd/97b22a4b691fc37daf8cfade37bb3215591f01dbe6459008532788b5fb64/bottle-session-0.5.tar.gz"
+      }
+    }
+  ]
+}

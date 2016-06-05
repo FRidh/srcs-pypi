@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.5.3.rc2"
+  ],
+  "meta": {
+    "description": "Python asteroids game demonstrating pyagents library",
+    "homepage": "https://github.com/ggstuart/pyasteroids.git",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.5.2": {
+        "sha256": "1065c3083bbc7c2b61ff00091efc913e487443c9e96fc1648829349924f7cf3f",
+        "url": "https://files.pythonhosted.org/packages/aa/16/eb7e89841f685830a8c1082f90353d526598d8059e2333053a780972b8b3/pyasteroids-0.5.2.zip"
+      },
+      "0.5.3.rc1": {
+        "sha256": "e7c5293158e2f173121b57186d53041a725cebb1bc134329ffef0b4501e03dd3",
+        "url": "https://files.pythonhosted.org/packages/9e/ea/556bbba75ccb55853c35454c06ee1e6bd7b73aae2fc08f949c4a00bc4b1d/pyasteroids-0.5.3.rc1.zip"
+      },
+      "0.5.3.rc2": {
+        "sha256": "8f92c357386ca164d32f48cc8f0560f9ef980d1fed98f8dcf83f091866bb01b8",
+        "url": "https://files.pythonhosted.org/packages/b3/ed/2388adff502c8399949ae7282f1c283ff666f0110b228aae5f6c3e185a74/pyasteroids-0.5.3.rc2.zip"
+      }
+    }
+  ]
+}

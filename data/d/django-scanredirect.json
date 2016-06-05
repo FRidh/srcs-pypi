@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.0.1"
+  ],
+  "meta": {
+    "description": "Django app thats adds URL rules to redirect scripts looking for webapps exploits to their own IP",
+    "homepage": "https://github.com/quinode/scanredirect/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "1f0cfa2d9b1867cd2eb70fce3c97547361a52aff33601298a0f24120b9802da9",
+        "url": "https://files.pythonhosted.org/packages/af/83/382d1844282c0ddb922f5fd86ca3c02044c97bf629fcb8a9009a69499d49/django-scanredirect-0.0.1.tar.gz"
+      }
+    }
+  ]
+}

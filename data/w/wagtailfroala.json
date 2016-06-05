@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.3"
+  ],
+  "meta": {
+    "description": "Extends Wagtail to use the Froala WYSIWYG editor in RichTextFields/RichTextBlocks",
+    "homepage": "https://github.com/jaydensmith/wagtailfroala",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "ae8e4401d0be19eb77200f46fa6b24b674777946b06ecd646b6dfda3a1bcb6ba",
+        "url": "https://files.pythonhosted.org/packages/06/c3/a428a30ebbdc1dce778494d29f700c5ddfab1c0a4840cc288c65d62e008b/wagtailfroala-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "57692eb5e0d2d39916772d691c4e7e7001b3d3f941fdf359d2f2f26e12b4a5c3",
+        "url": "https://files.pythonhosted.org/packages/27/3f/dc0d1745ecf5fa1371787a82da679be8703beae87226f934eeee107ad441/wagtailfroala-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "ec35786e0e3b2904af3b57c6be63915711a4d3e61de4d87fb28427750e742cfe",
+        "url": "https://files.pythonhosted.org/packages/e8/84/2a12f3c679ac7eedf6d8af136c075b8d6b4cef200763fae6e8ca3b287848/wagtailfroala-0.2.1.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "b30d71d2e448cdc79047897ef6d98e287a533884a44a5beeb43708f79069c4e3",
+        "url": "https://files.pythonhosted.org/packages/a2/49/baabf9041e9395fd2832b07946f9e65c792084b559bd0cc95ddbfb54f480/wagtailfroala-0.2.3.tar.gz"
+      }
+    }
+  ]
+}

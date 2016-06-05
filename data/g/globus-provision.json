@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.4.0"
+  ],
+  "meta": {
+    "description": "A tool for deploying fully-configured Globus systems on Amazon EC2",
+    "homepage": "http://globus.org/provision",
+    "license": "Apache Software License"
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "66d75c992e5c0111452b10d41d216a3f2e8013382ab9b577244006bfbf6f8d94",
+        "url": "https://files.pythonhosted.org/packages/cf/b4/3d8730aaa804a9982195e5a3edcc73cf21f4dfe8fb72ab50a1498563a2c7/globus-provision-0.3.0.tar.gz"
+      },
+      "0.3.0rc1": {
+        "sha256": "57773740063fa42bf529d1688d32dad2c8f225e6a7fa55b0fd4ef48d0b465b0a",
+        "url": "https://files.pythonhosted.org/packages/b4/11/aeaf9a88721cfe3c913442adea778e4dca6dca63a6c93febd5c2cadfc798/globus-provision-0.3.0rc1.tar.gz"
+      },
+      "0.3.0rc2": {
+        "sha256": "19b17bf01754035ba4b3e5a7f2ebab25aedc702fed203d33aecd8ea47d0eee53",
+        "url": "https://files.pythonhosted.org/packages/47/82/65a96570bdb7b1689b4603a49ee4b8d0f19f10f570e3e14c13c844288e72/globus-provision-0.3.0rc2.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "2bca720c511bffe6d77673748fe36c2b7e3e397889128578e29bf4db2f055212",
+        "url": "https://files.pythonhosted.org/packages/c8/36/1d2d8f50d2f96d68f7f13ff71a39bd2d1fe3dfa3820b1e3f059bd94f56ac/globus-provision-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "293c8091b38fd23954fe19f10e9ffdbd815266716eb14f60ef0b9cf99181dff7",
+        "url": "https://files.pythonhosted.org/packages/07/d8/e21236ce224372d1718410ef3da241f9bb384f968a93de6d06a04f747c04/globus-provision-0.3.2.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "80a69419733a89f5742c9e9dc81cc0b871a58931659fa619237a206319ae66cb",
+        "url": "https://files.pythonhosted.org/packages/ea/dc/28d9fc3e8aff6fac2793f576b41be9297986617a928d59d3b833bf9f3b00/globus-provision-0.4.0.tar.gz"
+      }
+    }
+  ]
+}

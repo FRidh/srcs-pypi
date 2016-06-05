@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Static site generator for Markdown based blogs, with a built-in webserver",
+    "homepage": "http://www.github.com/jeffknupp/blug",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "69b7058580c1ac3fde92f3252b723afcce1e60de58c344dc0e2704b645f480c1",
+        "url": "https://files.pythonhosted.org/packages/36/68/db082710fda469b96866a67b7ff86255ab1bc2345303e200c24639bf7f49/blug-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "19207b138664cb3969e81e9f7509667c68d46ee22a0d34c1333af8a726f8cff5",
+        "url": "https://files.pythonhosted.org/packages/03/4a/0d21359a19c1cabed073742003f40344ca231f84c5a4a2d960beb912af3a/blug-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

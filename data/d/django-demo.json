@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.0.0-beta-1"
+  ],
+  "meta": {
+    "description": "Helper app to build a demo page for your django app",
+    "homepage": "http://github.com/ojii/django-demo"
+  },
+  "versions": [
+    {
+      "1.0.0-alpha-1": {
+        "sha256": "42a58ae23ca71fae51b2d15d0f3a5da50e95fe72ed23b086ab5a0f9c2e794615",
+        "url": "https://files.pythonhosted.org/packages/e7/52/f7ebde23f0f049027a7f2e6219e93d190e60ba75b261e99500c1749076e9/django-demo-1.0.0-alpha-1.tar.gz"
+      },
+      "1.0.0-beta-1": {
+        "sha256": "4591f047c42a67d0c945eead05cbe5981869f3dae828385585a6e2e419a24bef",
+        "url": "https://files.pythonhosted.org/packages/92/13/5316b7cd540db3c72cbd4eb615e97b7498bb0bcead9a21f7c9018cc1ab95/django-demo-1.0.0-beta-1.tar.gz"
+      }
+    }
+  ]
+}

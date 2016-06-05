@@ -1,0 +1,134 @@
+{
+  "latest_version": [
+    "2.9.0.0"
+  ],
+  "meta": {
+    "description": "Python interface to Stan, a package for Bayesian inference",
+    "homepage": "https://github.com/stan-dev/pystan",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "b9433c53adc89745b59b30316df7c660aed698902118be4fd327b175827f97f5",
+        "url": "https://files.pythonhosted.org/packages/19/e7/3eefd382a96b2c023ebfbab93a7706e1ea67737b18782a0beb7f32502f72/pystan-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "9140cbe9f7ca2462c5fcdb82d2004c72f45e54e0f2cc61142baa260c355e4b6b",
+        "url": "https://files.pythonhosted.org/packages/26/69/170274773be5351970dc105b4ff45448759efdb0a36bd0ed28e12a82ad36/pystan-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "32e781b47ca5564f59dc721d40ba28a4f7587f66c79de4e1c41abb8d772ba761",
+        "url": "https://files.pythonhosted.org/packages/13/b2/a6dde15673656a23b218ce4eaed615569b21b530705166c4129895ac293a/pystan-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "69f9b9da817389e3e5c8150729cc7387b15713492652cfe7fd54374edf75a105",
+        "url": "https://files.pythonhosted.org/packages/e0/f0/39b98b7eda2df70a010a8ad695c03cc939eb751e9cf7f888545b0ca978c7/pystan-0.2.2.tar.gz"
+      },
+      "2.0.0.0": {
+        "sha256": "1c1d89f0f18f1bf06bed732cbe8965d0af377e99b879539d0d78d06d09b94504",
+        "url": "https://files.pythonhosted.org/packages/89/3c/cd08aae62056fda5225c046b5cd50549d3694849f78bb4c0d358916f7e20/pystan-2.0.0.0.tar.gz"
+      },
+      "2.0.0.1": {
+        "sha256": "707cf7f64d2a8a139d92d7495a566aec43c230b5cd6c746a851dbab4ac3af99c",
+        "url": "https://files.pythonhosted.org/packages/bf/03/e04d72c04184eaec4dabcb9b158edecad48b88b7823b7f976b1216fee4a7/pystan-2.0.0.1.tar.gz"
+      },
+      "2.0.1.0": {
+        "sha256": "218394d18f4b9b89d2cda6dd317f9d4082b4ca9f048fcfd94b7bc59585675452",
+        "url": "https://files.pythonhosted.org/packages/c9/8d/ee97d7a5e8f3f09b424a08a9595d7bd29e262ab1a71529d7b53ee67bae03/pystan-2.0.1.0.tar.gz"
+      },
+      "2.0.1.1": {
+        "sha256": "a2caa87d54f07c3000bc851be40b2808fbe82d0c2c68f6403daf987b5cf11ed7",
+        "url": "https://files.pythonhosted.org/packages/64/f2/792fc507e326096b47ebd30a582f950b89970442354b910e00f4be9c6228/pystan-2.0.1.1.tar.gz"
+      },
+      "2.0.1.2": {
+        "sha256": "93d6a9bd8354e2d39441ef310843d73c87924fe6d7f56f768913e821f42dc062",
+        "url": "https://files.pythonhosted.org/packages/23/38/456a74504f5e0f298a12841de721ad980e912685db99982ec1f77001cada/pystan-2.0.1.2.tar.gz"
+      },
+      "2.0.1.3": {
+        "sha256": "1fcd02d5e85b223755930d74ea97f0fd7031d9357cb42ea07296ed578bba6b3a",
+        "url": "https://files.pythonhosted.org/packages/cc/d3/917cbf5a2dae1d8e67fda9ae8c2788a3e7158f2518898ebfd8869f75002d/pystan-2.0.1.3.tar.gz"
+      },
+      "2.1.0.0": {
+        "sha256": "0e3d59041052045c321909ded54f82e8232abde4f6191b12a1633fa4cfc69153",
+        "url": "https://files.pythonhosted.org/packages/bb/85/abbac441889f106427c301882a504063425c62e4c044744b672d4f448036/pystan-2.1.0.0.tar.gz"
+      },
+      "2.1.0.1": {
+        "sha256": "030cf717ffa41db2a73fc3e963714dd296c07c8c6053fcde0c327ffbe1f331d8",
+        "url": "https://files.pythonhosted.org/packages/01/fe/f78a88447d37b322e0c5fdbb47c8e37eca32f1bb8ded4f15254067b2fec2/pystan-2.1.0.1.tar.gz"
+      },
+      "2.2.0.0": {
+        "sha256": "8534e3650aa6ae2a46431d9fb7525495d24d9f0cfeddb246dca7d5bdd20d587a",
+        "url": "https://files.pythonhosted.org/packages/d4/b6/436a631c154e0d902e6b5e680fa34189dc1296efa730491c4a6be01782a7/pystan-2.2.0.0.tar.gz"
+      },
+      "2.2.0.1": {
+        "sha256": "030362638853f325d3401937cb7ed3055519c73c3634fbe94ef05744db008b0a",
+        "url": "https://files.pythonhosted.org/packages/14/40/cc2f4333968bb6e4430a135b35316f2aca09f2392657f8d90614f41f9a85/pystan-2.2.0.1.tar.gz"
+      },
+      "2.3.0.0": {
+        "sha256": "ddd1156b4adc617934f59f5089332589ae86951de471422cf4650c6013a276e7",
+        "url": "https://files.pythonhosted.org/packages/d8/69/de9fbd09ca87ee9cd11960bf2f54637fec997df26014e6a704bb1d0811c6/pystan-2.3.0.0.tar.gz"
+      },
+      "2.4.0.0": {
+        "sha256": "e8b82ff638a06c13221084d77a2a0c2a53dc0dba1071837782318acefcb4c72b",
+        "url": "https://files.pythonhosted.org/packages/d6/16/478a22bbbf8db5b7ae76f7a5d0f9ffaa7f8f008cfa8287425ce63fd5acbe/pystan-2.4.0.0.tar.gz"
+      },
+      "2.4.0.1": {
+        "sha256": "6fd6a5b1941d627e6b098a26eb4a2662240ea0291cd445734f2bbd0775026818",
+        "url": "https://files.pythonhosted.org/packages/c9/6f/5411b067b330c9ccf7f25a7d269d8f6aebcdecb4ac57b7a48eccc3efd3b4/pystan-2.4.0.1.tar.gz"
+      },
+      "2.4.0.2": {
+        "sha256": "6ca8441e8acfcd5b51eec58354885495c1666262084899c865a4077f4bd84d3c",
+        "url": "https://files.pythonhosted.org/packages/86/97/60a5ded7fa0fd881a0a892c3555ce7937ce79f85d5807bf1707558262436/pystan-2.4.0.2.tar.gz"
+      },
+      "2.4.0.3": {
+        "sha256": "9e2ffcc971f93221ee2fb678f3fe21a00d814a1b6ce75418ff4e09953d305bf4",
+        "url": "https://files.pythonhosted.org/packages/77/61/1c0cfcb04335c8135878cc624ee1925b00cfbd8a1b09e0e1c21827c75f30/pystan-2.4.0.3.tar.gz"
+      },
+      "2.5.0.0": {
+        "sha256": "84c88d71a5279e26d3667cbc2992aa189415b63d6dc371c6a551d8231b27e14c",
+        "url": "https://files.pythonhosted.org/packages/9b/2b/f5ecde0d4567bf5b3f0dc6d926a86bf7f1bac32d64a324774cc8b4f89f4f/pystan-2.5.0.0.tar.gz"
+      },
+      "2.5.0.1": {
+        "sha256": "c5b79fb23184440a34496feae4ebb3bbefc8d51bbf17456146c8a75bda03d724",
+        "url": "https://files.pythonhosted.org/packages/6d/8b/9dd4bcf13329de79c87a475190cbc3d8a1db783669ed825b4c5286e87a97/pystan-2.5.0.1.tar.gz"
+      },
+      "2.5.0.2": {
+        "sha256": "8bbd5b4edd14143bde5fc3f2298e77a5ddd41de69e5825532fb9925895f0f356",
+        "url": "https://files.pythonhosted.org/packages/c8/d5/187763e9b1ebd4bb931059b735bbd3fbbe1567e1f727ff667a90656efc1c/pystan-2.5.0.2.tar.gz"
+      },
+      "2.6.0.0": {
+        "sha256": "a5899714e31df20d644279a87eac811b4af2e9e748f3796563a0fe438ed474e2",
+        "url": "https://files.pythonhosted.org/packages/c0/54/91497ac35a1585049fc16cf722c3683c27bb87ab6f954a4a5fa1f8561774/pystan-2.6.0.0.tar.gz"
+      },
+      "2.6.3.0": {
+        "sha256": "506f8f4e245c775b051bb45f74d7559f205b614063fc7dbe3f586c5898a77653",
+        "url": "https://files.pythonhosted.org/packages/b6/35/6d2c22a1c31ac64cfdcb491690d69c23969e4646a42a9359557eaa9f798e/pystan-2.6.3.0.tar.gz"
+      },
+      "2.7.0.0": {
+        "sha256": "c8668d8ce41c09501d210ba6f5d33039b61445a53d2cb9ac0a7d065012157efe",
+        "url": "https://files.pythonhosted.org/packages/5d/85/bff23f4f9005fc1a958ae42d494e26725cc80089121856370816b304b2c9/pystan-2.7.0.0.tar.gz"
+      },
+      "2.7.0.1": {
+        "sha256": "5c2030590a2f2433c115082ccd1790dd107bb2108e10f5bcc7c039bebe45a7de",
+        "url": "https://files.pythonhosted.org/packages/2c/6a/308c5ee9a55bd007535ee22148c5b0345ebfbd50e40500fa7f6a2593b77e/pystan-2.7.0.1.tar.gz"
+      },
+      "2.8.0.0": {
+        "sha256": "adab190c52cdfe023fbf69593c5ac8048e08306eff3435df14b0167493119932",
+        "url": "https://files.pythonhosted.org/packages/2a/2d/57b486cd394cff4297abed246cdf5cc27aa946444a954eada056da84bb3d/pystan-2.8.0.0.tar.gz"
+      },
+      "2.8.0.1": {
+        "sha256": "0edb76cb74ac0480d92febb7ff8b533b7a163fdc47034f293c302c03c85b1661",
+        "url": "https://files.pythonhosted.org/packages/16/d6/798ebc02f9ad9a61855116e54c65be8f18c94315b38be349082522dde3bb/pystan-2.8.0.1.tar.gz"
+      },
+      "2.8.0.2": {
+        "sha256": "5e38e4cc7a71c299491eb7a4d7a82fed1fe44d6464481a65eac0c42c906a0cf7",
+        "url": "https://files.pythonhosted.org/packages/37/b7/7277d44eb63f705d81dbe75b653c1fcabdd58e6a85adbbfc21c324f03a0d/pystan-2.8.0.2.tar.gz"
+      },
+      "2.9.0.0": {
+        "sha256": "a5ed9a570a6a5db7fa760e71a9d51f0fcd854e13c097fff9aa371a149dc9cc7f",
+        "url": "https://files.pythonhosted.org/packages/91/23/59b60946f55debc5bc834e3fdef48d0cc8945460291bf9dab4e24161a8d3/pystan-2.9.0.0.tar.gz"
+      }
+    }
+  ]
+}

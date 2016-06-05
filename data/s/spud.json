@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.0.5"
+  ],
+  "meta": {
+    "description": "SPUD is a Sortable Photo album Using a Django based database",
+    "homepage": "https://github.com/brianmay/spud",
+    "license": "GPL3+"
+  },
+  "versions": [
+    {
+      "1.14": {
+        "sha256": "3aef664fa11e7dbff7157c4760e0e797c23de0708fddddb4dd644e6f7cdd7d14",
+        "url": "https://files.pythonhosted.org/packages/2f/f2/dbcda684d388c176069cf0d0897e31bcc595cb9de87d944bc8218169e925/spud-1.14.tar.gz"
+      },
+      "2.0.3": {
+        "sha256": "bea312eba387e2640bd64e394e50d3189f7528838a86c36b07af5f9639cb5b3a",
+        "url": "https://files.pythonhosted.org/packages/e1/d5/01579d57395998870242becb15d5e2c57e29fcd31b51280b2dbe0c31e2e0/spud-2.0.3.tar.gz"
+      },
+      "2.0.4": {
+        "sha256": "b7d5ed3cc762ba11c867e7f4e3fbb4e9c46f437799f53060628d8d64b76ddff4",
+        "url": "https://files.pythonhosted.org/packages/56/01/eee5b54f8044a1ccc3db81bf623358961c64bcb35c25c5050374422224d0/spud-2.0.4.tar.gz"
+      },
+      "2.0.5": {
+        "sha256": "58fc755a63ca858d1320882b5f3fd97e0b6d1783cac7adc12029bf7cc4c4595f",
+        "url": "https://files.pythonhosted.org/packages/32/79/f6f5f3c317334f8bb1252e02823e78be7a4c2bbbf8ed7913a4655cb0d4ba/spud-2.0.5.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A multithreaded task scheduler for task queues and recurrent tasks",
+    "homepage": "https://github.com/mdipierro/taskutils",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "4b64da91c4f6bfeca2a8d43256f017ccd311dec836e938feda44c1103047767c",
+        "url": "https://files.pythonhosted.org/packages/da/8e/05fef66a182a694a48b788ea01cc2e1b3c149fa7d968a42d62c30461152b/taskutils-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "82e39b64b1d4ddf9117c616dc0f2e8597c57f7a5684541758d198866cc654156",
+        "url": "https://files.pythonhosted.org/packages/9e/72/1855e806cc850d8866e7b69cbb682a0983342f1d041df07136c8ef37f35e/taskutils-0.2.tar.gz"
+      }
+    }
+  ]
+}

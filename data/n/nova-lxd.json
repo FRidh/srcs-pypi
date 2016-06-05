@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "13.0.0"
+  ],
+  "meta": {
+    "description": "native lxd driver for openstack",
+    "homepage": "http://www.openstack.org/"
+  },
+  "versions": [
+    {
+      "0.19.0": {
+        "sha256": "12a7a9710825973484e0fe735fae63f61e0f7540d8b486c74f07aa2ad36e54b8",
+        "url": "https://files.pythonhosted.org/packages/95/df/fc413a616de51a2cd7514083a3e08bfb8b6666e702caa6b233216e59d6bc/nova-lxd-0.19.0.tar.gz"
+      },
+      "13.0.0": {
+        "sha256": "74878a6ed5afa26b6904d93b3cd74c348c22d2003a900b4ee9b106c15cb17824",
+        "url": "https://files.pythonhosted.org/packages/cc/0a/fb9e48c2c46586f4ba7cf328cab9baf29d0a803ca7293d122ff8bb7ce6e2/nova-lxd-13.0.0.tar.gz"
+      },
+      "13.0.0.0b2": {
+        "sha256": "de09afd6d32ca7a23708b31bd2c706e9723e46d64cf5ae5da077644e348c3c8d",
+        "url": "https://files.pythonhosted.org/packages/7f/a2/e3a6b8dc89162f21feeb8eb5185a70a5a57b8f1c892cc06486ad9ffdf5af/nova-lxd-13.0.0.0b2.tar.gz"
+      },
+      "13.0.0.0b3": {
+        "sha256": "0595647838987939bea4e22d547e9f41a508b989e212047a6b74845c85d02388",
+        "url": "https://files.pythonhosted.org/packages/6f/ac/836fbec0e91d88b2f4cc05a8d439f2b1d00e641233c037a82f665c04e8f6/nova-lxd-13.0.0.0b3.tar.gz"
+      }
+    }
+  ]
+}

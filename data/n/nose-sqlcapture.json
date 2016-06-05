@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.5"
+  ],
+  "meta": {
+    "description": "Capture SQL queries being generated from a nosetests run",
+    "homepage": "https://github.com/freshbooks/nose-sqlcapture",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.2": {
+        "sha256": "04ec61036db80990c695dad4f46b226a6a182d3474fdc043ff22a21cea75257a",
+        "url": "https://files.pythonhosted.org/packages/12/77/777f4d72effade3b34e386b87a09624a280f3f94a0777d744959dd949369/nose-sqlcapture-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "e33e77c057261aefa73a03ec19fa73714260f6ab933b3649dbf2207262378f47",
+        "url": "https://files.pythonhosted.org/packages/15/22/ba0b569dc3dfb9edad2f7e32b375c805902aa9703f38192aa2dcbd563227/nose-sqlcapture-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "7fffd94708b29096819b204a04ed5a302b3eb9013e0983ce05064c19cea3f8b8",
+        "url": "https://files.pythonhosted.org/packages/ba/66/cbf694259fcc63cfb717a45ccb9f2c0334fff74e250ae8a214d46f05022a/nose-sqlcapture-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "f3aa6ad8a8404031ab6d2da0ac406371390323a7e20e3d71a3d3875c32ba05b5",
+        "url": "https://files.pythonhosted.org/packages/8d/06/c5c0a099029c26fd6ddad26c6ebe052d8987de8332c7c65333ed1b303b83/nose-sqlcapture-1.0.5.tar.gz"
+      }
+    }
+  ]
+}

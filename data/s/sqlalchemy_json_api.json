@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Fast SQLAlchemy query builder for returning JSON API responses",
+    "homepage": "https://github.com/kvesteri/sqlalchemy-json-api",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "d69de0af4a0b61f0668cb4b02bf7db489766044864b970442411f661ada6bcf6",
+        "url": "https://files.pythonhosted.org/packages/fb/57/2bb5654ab3b1e99f83a6ba51661ba9132147b841f3d0297fec70df76d9ee/sqlalchemy_json_api-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "290ac1f1344702befdec8bf8147e2d4216c0442d5228ce58688243e91d85be8e",
+        "url": "https://files.pythonhosted.org/packages/1c/03/39b0ab4d85e87d0258b3e642d94574791243cfba8e17d381ce2b52d77160/SQLAlchemy-JSON-API-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "20c2bdb664471614182acba409e3f5b66814af23aa685c177a5335006e7d36fd",
+        "url": "https://files.pythonhosted.org/packages/4a/af/d50adede879175f8c09f71c7320e81115d0f983d02c39ea0bb050c49a7b7/SQLAlchemy-JSON-API-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "57c14f65f44e74742580d4002b570eb5fa5864e1550355dcdc93055d30a7996a",
+        "url": "https://files.pythonhosted.org/packages/74/34/203072d2c400ad1c28ee2ac5e4502ec02b9be4e39b71436d88cde2a8267d/SQLAlchemy-JSON-API-0.2.2.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "a1c614c30a20cebaad012a1c1111c61ec1f28ce5c1a6c94e428b24e5b95f33cd",
+        "url": "https://files.pythonhosted.org/packages/e7/f8/9abc8c48c81b37206147cb300f664c3064f1e6639149c39963233eadefbc/SQLAlchemy-JSON-API-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

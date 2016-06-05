@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Plone UI for CAS login",
+    "homepage": "https://svn.plone.org/svn/collective/collective.castle",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "ca76ec04f858abb1e62cdaceee0b685c4a849ed633fc3aab6c1d13a71f43d51b",
+        "url": "https://files.pythonhosted.org/packages/3e/cd/a1e3048c9e3d1a9d9292d7cc1689162ab4eec21da744d875c258d4b2847e/collective.castle-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "6d5c4956d91e85363ee9e6c47e420122240fac1e754d607f9140363ecce5793c",
+        "url": "https://files.pythonhosted.org/packages/2e/94/0bc6873e244607f0fcd1153a5beaadfa9b0b08c5a816b51e8ead7f25090b/collective.castle-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "ae37cbdb1deb76d4c520d363c80b8fb695051d0c60830e1eebb698aa72df2d16",
+        "url": "https://files.pythonhosted.org/packages/3c/2e/2576050420739e7e19406c4fc4f4fa18c416c5f98f7e002ecce5304a3064/collective.castle-1.2.tar.gz"
+      }
+    }
+  ]
+}

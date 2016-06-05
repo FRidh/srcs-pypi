@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.6"
+  ],
+  "meta": {
+    "description": "Terminal MUA using notmuch mail",
+    "homepage": "https://github.com/pazz/alot",
+    "license": "Copyright (C) 2014 Patrick Totzke"
+  },
+  "versions": [
+    {
+      "0.3.5": {
+        "sha256": "c06e08a3747a7603facd201ed0890b99dfcabc260d15994ddb491b03c13fffd6",
+        "url": "https://files.pythonhosted.org/packages/5b/50/c1d41e93a4dd24993d1e25b3c1ca13c15337d65d7d7ad1cc71067e76424e/alot-0.3.5.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "72a256d4d6820280bedd8d76187dbd11d792aaf71040f4c49e2f5031964f2b4c",
+        "url": "https://files.pythonhosted.org/packages/0e/e4/ef9836c8eb0c882efc5e3466fea88f7f5af05eabd44c7acbc89e5ada22f9/alot-0.3.6.post1.tar.gz"
+      }
+    }
+  ]
+}

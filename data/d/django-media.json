@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "A basic Django application to store and manage media",
+    "homepage": "https://github.com/pigmonkey/django-media"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "090e0516042d5278a890546f1c51841362b3469eff29004bd42404bdb903b74c",
+        "url": "https://files.pythonhosted.org/packages/65/3d/d01e8d7761ce14ca65932f78183b167ab221ec6f4b161a5438d1eedba144/django-media-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "a4f0c9de90cd73f7e620a76dc1cd40ddc35a925a46c9aa9c41275e6e96451c05",
+        "url": "https://files.pythonhosted.org/packages/ae/da/c8d6df79c807071ca05823c2c523c0a3563eeb756f733c48d20838ed0e0c/django-media-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "3.1.0rc2"
+  ],
+  "meta": {
+    "description": "GRR Rapid Response",
+    "homepage": "https://github.com/google/grr",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "3.1.0rc1": {
+        "sha256": "4d3f277e0442b010e3620adaa635de412cdbb0abd88982fb0625ee07bf57752f",
+        "url": "https://files.pythonhosted.org/packages/08/ee/fbc983e0c5888265ce16f6e05e0a667adb8d45d9dda954256244126eed51/grr-response-core-3.1.0rc1.zip"
+      },
+      "3.1.0rc2": {
+        "sha256": "81fa2948d1ffff33eb5c9475ea50f4f41083178c545fbac93107ad17f6c1c68e",
+        "url": "https://files.pythonhosted.org/packages/bb/16/f4516af13139eb94af1f5b0ec8d8d2443c534bad69a77cbf947a7d5c776e/grr-response-core-3.1.0rc2.zip"
+      }
+    }
+  ]
+}

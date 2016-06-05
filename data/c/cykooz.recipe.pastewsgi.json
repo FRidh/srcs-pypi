@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.6.1"
+  ],
+  "meta": {
+    "description": "Buildout recipe to create paste.deploy entry points for mod_wsgi or uwsgi",
+    "homepage": "https://bitbucket.org/cykooz/cykooz.recipe.pastewsgi",
+    "license": "GPL 2"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "c1db8b18a35788fd1db38dfef7e3669c2f5f1f89f8fe3124813b45342de5f6e5",
+        "url": "https://files.pythonhosted.org/packages/0f/4b/fe3befdb7335c446e5577668ea157406d51681bb1f99e35a5d0800fc7a72/cykooz.recipe.pastewsgi-0.5.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "e576b12b2aba6335500a7d990cfde193a3368a5c9f311bc97a2e7833217e8177",
+        "url": "https://files.pythonhosted.org/packages/5c/d9/6208a1f808d3ac968916fa085ae6fae2895be40495f33fd7ce83c4017390/cykooz.recipe.pastewsgi-0.6.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2bdev"
+  ],
+  "meta": {
+    "description": "A python client for Cosmote web2sms service",
+    "homepage": "http://www.bitbucket.org/vinilios",
+    "license": "GNU LGPL"
+  },
+  "versions": [
+    {
+      "0.2bdev": {
+        "sha256": "de5b340249fe2e0248f8301b648550cb7a553b3a2feb359f380cf886f674c55c",
+        "url": "https://files.pythonhosted.org/packages/4b/6f/9f1ef07e1d442d1158a6cfbd406bb31687b695dad2f21bdbab658592a736/web2sms-0.2bdev.tar.gz"
+      },
+      "0.2dev": {
+        "sha256": "3d92814e4ef6af01916d5a277cb331e24661c413aa5581131b60ba82dad79a97",
+        "url": "https://files.pythonhosted.org/packages/22/71/6e39cec646cdae1a4608d4216a19847d67e771b53a3e4632eba506e49f0b/web2sms-0.2dev.tar.gz"
+      }
+    }
+  ]
+}

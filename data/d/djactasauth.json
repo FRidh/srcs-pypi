@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.5"
+  ],
+  "meta": {
+    "description": "Django authentication backend allowing admins to login as another user",
+    "homepage": "https://github.com/PaesslerAG/django-act-as-auth",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.4": {
+        "sha256": "42f437027ebcd087d68dfe78bdcad22506d6b7510940b3f5cb46b2092f48674f",
+        "url": "https://files.pythonhosted.org/packages/38/7b/3e41b89f28629743f607c474c6c4ec8a48d018923004bebf8647ea913e37/djactasauth-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "d46253705cd381b245b86a797133a524beaa7ebd017d2ab954e7187c91ddcd61",
+        "url": "https://files.pythonhosted.org/packages/8d/41/1d4646658f6cafa99bf595fc6a3a309872d107c165ebea97984ee0e370c6/djactasauth-0.1.5.tar.gz"
+      }
+    }
+  ]
+}

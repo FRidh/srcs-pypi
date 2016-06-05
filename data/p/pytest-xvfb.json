@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "A pytest plugin to run Xvfb for tests",
+    "homepage": "https://github.com/The-Compiler/pytest-xvfb",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "aafe5136813b92fed05f0878914ab9245c9d70f6d48d011ab772910879878f30",
+        "url": "https://files.pythonhosted.org/packages/ae/a9/48329a16374c1936969c8bef59e5882171147e3ee86f16f7465381e6743d/pytest-xvfb-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "bbdff50568b9754aacfcf1b8c7613b2f503fc1066ce39a81e155bb2075c38891",
+        "url": "https://files.pythonhosted.org/packages/64/5d/0e7d4c370e7b60149990301f2a8dd5bcfdfc690214485c7fb2e0e8d230eb/pytest-xvfb-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

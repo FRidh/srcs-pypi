@@ -1,0 +1,33 @@
+{
+  "latest_version": [
+    "2.2.6"
+  ],
+  "meta": {
+    "description": "A simple pbs queue management framework for multiple supercomputers",
+    "homepage": "http://github.org/cloudmesh/pbs"
+  },
+  "versions": [
+    {
+      "2.2.1.post0": {
+        "sha256": "13bdbc3a532289f494158803054b0b15c12feb9e3b345c31bc5e25a732f2978b",
+        "url": "https://files.pythonhosted.org/packages/ef/2d/cf7f2f3d7eb881d73d77eb02a4d1f0379c4cc1286cb0eeb6e0645f4aff1e/cloudmesh_pbs-2.2.1.post0.tar.bz2"
+      },
+      "2.2.2": {
+        "sha256": "d874d531721632c1064c6ff0b9a56559982ce9b33722685f36b65fc8fe551650",
+        "url": "https://files.pythonhosted.org/packages/50/f7/b3d8c8803a05e087f46e71c3cba3721cb5c3c9fcdba99c24190ea9e662c0/cloudmesh_pbs-2.2.2.tar.bz2"
+      },
+      "2.2.3": {
+        "sha256": "4bfdcdd2b2488ff0b1323935227a00abf3b72ac286e0991a877a184761dbf165",
+        "url": "https://files.pythonhosted.org/packages/3f/e3/1e447888324749b49e440229efcc111d39e2bbce3ab11722cf66e1881fce/cloudmesh_pbs-2.2.3.tar.bz2"
+      },
+      "2.2.4": {
+        "sha256": "4770993793b63567593f12a262e4755871437a2bbc0e08a5721fbcdd7b9518bd",
+        "url": "https://files.pythonhosted.org/packages/9d/75/e3c9551aaa768afbebea8832edc1943e99ef042412e97fd4e86480e0969a/cloudmesh_pbs-2.2.4.tar.bz2"
+      },
+      "2.2.6": {
+        "sha256": "2baf24cff2ef78512b7bd6190e6d8022f2e69341878624c28f3d3b3d7c49b101",
+        "url": "https://files.pythonhosted.org/packages/a3/2e/5c5333901f8bffb3c186f5ba8bb3a4951df38d3fa1297bef088d519f8197/cloudmesh_pbs-2.2.6.tar.bz2"
+      }
+    }
+  ]
+}

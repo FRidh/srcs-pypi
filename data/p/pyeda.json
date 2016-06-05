@@ -1,0 +1,182 @@
+{
+  "latest_version": [
+    "0.28.0"
+  ],
+  "meta": {
+    "description": "Python Electronic Design Automation",
+    "homepage": "https://github.com/cjdrake/pyeda",
+    "license": "Copyright (c) 2012, Chris Drake\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n\n* Redistributions of source code must retain the above copyright notice, this\n  list of conditions and the following disclaimer.\n\n* Redistributions in binary form must reproduce the above copyright notice,\n  this list of conditions and the following disclaimer in the documentation\n  and/or other materials provided with the distribution.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE\nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\nOR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "4cc420b4796f39448607b24b9b0fd7a0e13ac5b3ce851c846cee6f45d7517608",
+        "url": "https://files.pythonhosted.org/packages/61/58/9ceefcf522ef932f0abe49cd28502e2fc46c6573ad7bc5e6899b66539f87/pyeda-0.10.0.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "7ad5cef7520f432bcaa3b5564819b14ee53ce050e73c18abd3f563c7ac36569d",
+        "url": "https://files.pythonhosted.org/packages/70/75/b93b226017e1c88c273356f7f6fa055b81ba161232fec179afeea9e77ee8/pyeda-0.11.0.tar.gz"
+      },
+      "0.11.1": {
+        "sha256": "319ca2e52fa12b6a2dc8a100141c0df8cd7e43c686521caeff30a429563db0d3",
+        "url": "https://files.pythonhosted.org/packages/e0/ec/65bd22b45c86d207acf0b77f245c5225929105d8d6cc86459d16ee20e8ef/pyeda-0.11.1.tar.gz"
+      },
+      "0.12.0": {
+        "sha256": "39b92d258cf30f956a104641de9951dae9dc5c65bc43b079c91cc048495833eb",
+        "url": "https://files.pythonhosted.org/packages/e3/b0/b9d6de27934c5f167199fad2425a6c78a1668148c40699b025c55e57b902/pyeda-0.12.0.tar.gz"
+      },
+      "0.13.0": {
+        "sha256": "13dc35cf829d45dfcdab142b3d98c631737d2cf5580aaf5aebb735d08bd8ac49",
+        "url": "https://files.pythonhosted.org/packages/37/01/c9d88df9e4ab88e0b3a8f84db9dcb568e7d3602f50eb7a8c3471005d613d/pyeda-0.13.0.tar.gz"
+      },
+      "0.14.0": {
+        "sha256": "6d8d45c2210900dfbb73f2a1de4a0e08a88598859812c813792bc5e9b683c3d6",
+        "url": "https://files.pythonhosted.org/packages/dd/bf/83d0ebf83e1fc300ab51bf834c0a58a43cbc03ddfe89d2b88daa40cff359/pyeda-0.14.0.tar.gz"
+      },
+      "0.14.1": {
+        "sha256": "cd1367983742d00364828f5671ec55781960c722af79c99b8615bbf737635ae2",
+        "url": "https://files.pythonhosted.org/packages/4d/9d/6c3f336ea7716e7be773b4cb5fb9307bb3443a3b7e3c91ec4a0362b76199/pyeda-0.14.1.tar.gz"
+      },
+      "0.14.2": {
+        "sha256": "8e9ec7f39905199fc9a1325b6db9fb3bd7eaa29a3211222ba3368fd7d14637db",
+        "url": "https://files.pythonhosted.org/packages/68/f4/cf650ac746167874331b0e6f920e83ff4b9e85f166a0961f8cad12927050/pyeda-0.14.2.tar.gz"
+      },
+      "0.15.0": {
+        "sha256": "c553763a43989034054471c8bbb083e8e98ad1e16868687fb321ea4c71d70c6f",
+        "url": "https://files.pythonhosted.org/packages/0e/18/0fe11f1996d042e7f0425bb9e5ff2636755e95b87fd8ff9b4eab68eaefc1/pyeda-0.15.0.tar.gz"
+      },
+      "0.15.1": {
+        "sha256": "bcc7c8d48123583a897de399fe39ba70985af252499a5df87b99453d65a4226a",
+        "url": "https://files.pythonhosted.org/packages/c2/de/4ef389f2530a1dfab7a11e721d611ca8bdfecd1de63ffb2e3555dd1c39f4/pyeda-0.15.1.tar.gz"
+      },
+      "0.16.0": {
+        "sha256": "cf2e3d332610360cd2f6be09589b5c07e3482f30bf2399276323beb355523b85",
+        "url": "https://files.pythonhosted.org/packages/02/61/d291e4c463a735e58ac6f259107bffbcebb6b9f0c4539a1c2f15e10481ca/pyeda-0.16.0.tar.gz"
+      },
+      "0.16.1": {
+        "sha256": "778938ea2b3f13e40d3b0ecd78e603f98d97f4cd13796ce426bfdc1529a54eb0",
+        "url": "https://files.pythonhosted.org/packages/15/67/3e77f1b958b12985bb30a2852c0e23a739fcae8a7fc213e0d22c24cee198/pyeda-0.16.1.tar.gz"
+      },
+      "0.16.2": {
+        "sha256": "3d604c0a853a01c592abd4a0eb660c6710031b8c52f878d8c8e3c7383d66c275",
+        "url": "https://files.pythonhosted.org/packages/fd/ba/22785dbc5feeafe5693b6868ee0c4ca82277996f243989543e8d66fb2679/pyeda-0.16.2.tar.gz"
+      },
+      "0.16.3": {
+        "sha256": "c7a60100623742f0f5b322b9393b1dbac3d09b954ecdf7d5e46cb41016cf3899",
+        "url": "https://files.pythonhosted.org/packages/1c/1d/dbe639dad987b031c6f28bbe321a51e144e4d956b8635412444a56201158/pyeda-0.16.3.tar.gz"
+      },
+      "0.17.0": {
+        "sha256": "28b539b9c8d387ffc661eca025b526b7293d6f1a772a3ab71955d6b3615412fb",
+        "url": "https://files.pythonhosted.org/packages/8f/bf/c2b5dcab0e7b095ec6e7fd6db3d87bde36a835764d71bb681f9e3f27ea41/pyeda-0.17.0.tar.gz"
+      },
+      "0.17.1": {
+        "sha256": "a55a97a4cc836cb4d3657a8abe5ece4fb07a72834af9e3f44121f6e634a54403",
+        "url": "https://files.pythonhosted.org/packages/7b/25/ee56d1a697994bf4191537c099a8401809bd2b33b818afd333c42644fff5/pyeda-0.17.1.tar.gz"
+      },
+      "0.18.0": {
+        "sha256": "93da895a7de0471523b54f18a2485a4887131e90547a30384e4ec1839b68ab4e",
+        "url": "https://files.pythonhosted.org/packages/b7/25/d39efde34d7a00ffc6dbfcb8c06ed05eedd01dd1324ae9f29cb177ef0f06/pyeda-0.18.0.tar.gz"
+      },
+      "0.18.1": {
+        "sha256": "3fbfc67e9d8b92c2a665447fa06cb54248b8e56511c18395ff67101ebadae294",
+        "url": "https://files.pythonhosted.org/packages/5f/f5/85b4803388b5a55a040e37be945808982f0b29c943d3ca6d420880aee7a1/pyeda-0.18.1.tar.gz"
+      },
+      "0.19.0": {
+        "sha256": "5dd296a9b268e586c902f5505430d550661c7206da618eca7203001d17d79b41",
+        "url": "https://files.pythonhosted.org/packages/2b/73/64f2f19d11fc78e71db0dec125981322864c0cda50a9de0a7381ddeec60e/pyeda-0.19.0.tar.gz"
+      },
+      "0.19.1": {
+        "sha256": "091ac28591f3bfca553798aebb44f9467c94c50de019436e54662b5063daa4c4",
+        "url": "https://files.pythonhosted.org/packages/a6/8a/c7a896412218ec42855ba0a5809e4271844be3f0c625bb5bbc04087267a8/pyeda-0.19.1.tar.gz"
+      },
+      "0.19.2": {
+        "sha256": "031bcf98293d8ce68dd729f5384d448d709f3009e48492ddf1cbf9242c203a58",
+        "url": "https://files.pythonhosted.org/packages/c8/83/ccb312faf7de85a3527ab4d19425adac01c039954f035e3b3f2555b7e78a/pyeda-0.19.2.tar.gz"
+      },
+      "0.19.3": {
+        "sha256": "4fa3f6e5c8b44c7d2a5ee134c7a2e2a8dfa1408d7cc132ee3d2e57b94e81924b",
+        "url": "https://files.pythonhosted.org/packages/c6/9b/9a9d8c007c8b87b068717aaf655e5842c9b9a5291d11857730f20f07fb42/pyeda-0.19.3.tar.gz"
+      },
+      "0.20.0": {
+        "sha256": "7e77a2e7aba2d2848d4aca57ea8a671d60abc63958d6b7682d46b69867eea66e",
+        "url": "https://files.pythonhosted.org/packages/8e/8e/afc642b23da5719ddd9f610a7fe411de78c9e0b341cbc32265a555f69baf/pyeda-0.20.0.tar.gz"
+      },
+      "0.21.0": {
+        "sha256": "991e666abc7d1e7a3bb3a02ad7926b9c5557d208d4bd1fa8ed147bc209361b28",
+        "url": "https://files.pythonhosted.org/packages/d7/49/2808747802b8f039a4df66674e586357b1a576bd0147988f71d5a3b942cd/pyeda-0.21.0.tar.gz"
+      },
+      "0.22.0": {
+        "sha256": "465f20bba9061c140d7c8ede35003dc08bf211d16b3762accfda62d0ece789af",
+        "url": "https://files.pythonhosted.org/packages/3f/f1/7651cd0b461784aa209a67e393c7381bf172896d79ed637100aa7b57d6ff/pyeda-0.22.0.tar.gz"
+      },
+      "0.23.0": {
+        "sha256": "154a0ee765cbc2363e0212e7faeca0c9f5ab3a43bc6e286fadf2218505d614ad",
+        "url": "https://files.pythonhosted.org/packages/d2/e4/96ba87787d9fc6ce08217e56eac0ccbbcc5e755dae7faec9c0b4852834a2/pyeda-0.23.0.tar.gz"
+      },
+      "0.24.0": {
+        "sha256": "8aecbc83c2c6b467313bb3d4e16ca4148242c6365db9ef0f0fb254e8a0f56a02",
+        "url": "https://files.pythonhosted.org/packages/1d/69/6d13dbd8c5edef46f2a039ac30fb4609b8f73a339033ccce69a2230915f1/pyeda-0.24.0.tar.gz"
+      },
+      "0.25.0": {
+        "sha256": "78794c3cddd0350b892d73566accf73f722ccb680ee1eba1590936a66cffb824",
+        "url": "https://files.pythonhosted.org/packages/d4/af/a70eaa319080c17689b208c43abfd22e99f0a951b2b765ba976a0288ab18/pyeda-0.25.0.tar.gz"
+      },
+      "0.26.0": {
+        "sha256": "9f497edb47072d60fa8e26c0bb428c4006aa0171958d135aa872cb21c212daa8",
+        "url": "https://files.pythonhosted.org/packages/3a/eb/d2ae2c7f09d82a45516b3cb0a7e33378f160ebae70f46362d0b132c16de7/pyeda-0.26.0.tar.gz"
+      },
+      "0.27.0": {
+        "sha256": "b518d47841a65456bf178d883912a0bba716180aa8cf6776281e51cd0caf1a91",
+        "url": "https://files.pythonhosted.org/packages/45/e1/d867b55abd0bf6ec018810e36e82bd917f693bcc54dadd2f9be1405d1532/pyeda-0.27.0.tar.gz"
+      },
+      "0.27.1": {
+        "sha256": "6a3814c7f68c93d20a7731e37cb72f1eebb73d0c7e47539796a5fd595733678b",
+        "url": "https://files.pythonhosted.org/packages/f7/b1/43255d23a8714e7d8e5a79aab00e6c4eb480b78187385899d1f5182c8f3c/pyeda-0.27.1.tar.gz"
+      },
+      "0.27.2": {
+        "sha256": "5d1ca4975f3a8c6936c4a99ace679de458037a64a75ddf632fabd7a849997ba8",
+        "url": "https://files.pythonhosted.org/packages/1a/a6/7381a92a268cad71c53f191e38bd1083fbdcafbadd9b003300b7bc48ecbd/pyeda-0.27.2.tar.gz"
+      },
+      "0.27.3": {
+        "sha256": "7074be4c7a78b94e35b9c542cc95ad9d814fb634ef14a4c148a90b676f995c72",
+        "url": "https://files.pythonhosted.org/packages/e3/64/30834f10e6e38909d6bfcc6768f002724ec5446f4cb23933217bbd0962e7/pyeda-0.27.3.tar.gz"
+      },
+      "0.27.4": {
+        "sha256": "282ec3ba08f3df045a0e21592149921cc3dbf9bef8bfa25ee65857e35e53fc6e",
+        "url": "https://files.pythonhosted.org/packages/5b/91/493842d681a1c8385f6336ce21af61bb9b309666f3fa170bd289a8849306/pyeda-0.27.4.tar.gz"
+      },
+      "0.27.5": {
+        "sha256": "fa9fd0c66b7544f4d191fb266984481d15b41f44a1e6d4980ee74c20d4c99ac4",
+        "url": "https://files.pythonhosted.org/packages/c4/38/baa7ce561fd86fcbd1b81b462762a7397e6c69afbe739f5aac72939596f4/pyeda-0.27.5.tar.gz"
+      },
+      "0.28.0": {
+        "sha256": "07185f458d5d0b2ba5058da8b95dad6ab7684ceaf41237a25bcd3f005490f59d",
+        "url": "https://files.pythonhosted.org/packages/01/29/b6ce038a75409239db8762b4744c8b53eb62e0b6240ece1c2969a7250206/pyeda-0.28.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "139a3e03e60525cfeb2cfb24e95d4ea78c57163b78eac8a677f89eeac8ece827",
+        "url": "https://files.pythonhosted.org/packages/4e/76/9ff1744e9c7085062482d8a3089ff8da95977caf66d32c96ae1eafa2869a/pyeda-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "03727ea3e24c15de14fcad65b26f43a224a0ebbe1641cf22d63aabd0212f22f2",
+        "url": "https://files.pythonhosted.org/packages/e4/20/65eed019f716a4dad98df3ae952a388f730309becb313921eeff39d92b6a/pyeda-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "92264d4382923da8f585d975989b7eee0d3d346e05804854926544863df868d4",
+        "url": "https://files.pythonhosted.org/packages/a6/a0/808d8a03857dda014b7b5bae544f3d8a71bafaf608b5d7e185816a6cff16/pyeda-0.6.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "8762ccd38765c870b3c22f40ee530913b45097d13c7c9f3e5c0ec93e511bf939",
+        "url": "https://files.pythonhosted.org/packages/1e/3c/b9381cde2a06a83e997bbf4f52a50517abf3fdd63d7cef3e9f6afcd8d9e3/pyeda-0.7.0.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "a9afc091c9a028c546299768ed772bac5cc8cd6ac4d381a46e990b2973b8cbae",
+        "url": "https://files.pythonhosted.org/packages/d5/f2/89c73667ade461a456ce42f24c5d33d7005ee4cf31cd31b825aac7198260/pyeda-0.8.0.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "c59f2897ef3e4cc7b2f95afe83798eef14827d3a4a83d4a75d5e444606ad9081",
+        "url": "https://files.pythonhosted.org/packages/d3/e5/bb322954256c3d617c0c0aff4d53ea3247c00ab2813a05b2ef1c7edc14f0/pyeda-0.9.0.tar.gz"
+      }
+    }
+  ]
+}

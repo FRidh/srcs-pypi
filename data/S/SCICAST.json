@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "SCICAST: Single Cell Iterative Clustering and Statistical Testing. A package for interrogating single cell sequencing data",
+    "homepage": "https://github.com/iandriver/SCICAST",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.dev0": {
+        "sha256": "c89609305006b5f623a88a274eed114cff5663dc74b212f6d0e7bbd04c715056",
+        "url": "https://files.pythonhosted.org/packages/46/05/7c111ec1ccbb91057c27fda9c8c0c19693b8e1fd23796500a1b3983169ff/SCICAST-0.1.dev0.tar.gz"
+      },
+      "0.2": {
+        "sha256": "b8281c76dce76c65baf992d7e224e2312f5265d624b854f1a1a214b54ddf075d",
+        "url": "https://files.pythonhosted.org/packages/3f/a5/68ae55318df19ce9389df54f64fe80e9891eef75021c9545657490abdfbf/SCICAST-0.2.tar.gz"
+      },
+      "0.2.dev0": {
+        "sha256": "20f9c799bcfef6230245d6325388e35629fbe0a8323cf94f7a2e1d99357935b3",
+        "url": "https://files.pythonhosted.org/packages/a7/05/18e0b620665b1d24115ca1a1881fa552246cdb87cb52d241442d8b0081c3/SCICAST-0.2.dev0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "SQL converter of the electoral registry published by the Costa Rican Supreme Electoral Tribunal",
+    "homepage": "https://tse2sql.readthedocs.org/"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "1f41e1eeeb33a30628facbec05799be8dae59facbac4ed8f13f93f874221c04e",
+        "url": "https://files.pythonhosted.org/packages/4c/eb/eec4b351bbf121b7aa3366c693465e39be27d2472ab291b2d1500e4611f7/tse2sql-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "ed595a3d6bb20fa433b28c93899cc1bae0bcf66861179830ca8ec000921eb948",
+        "url": "https://files.pythonhosted.org/packages/43/82/f092ab7f0e67d1a81ef4adb68cc523cbd8259bd274caf5f8499f5de071e6/tse2sql-1.1.0.tar.gz"
+      }
+    }
+  ]
+}

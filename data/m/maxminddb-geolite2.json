@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "2015.0708"
+  ],
+  "meta": {
+    "description": "Provides access to the geolite2 database.  This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/",
+    "homepage": "http://github.com/rr2do2/maxminddb-geolite2"
+  },
+  "versions": [
+    {
+      "2015.0206": {
+        "sha256": "a78fb81516d322fb7cfdf7fe70886fbb4f1392679301836ff48b1bb33f0833ee",
+        "url": "https://files.pythonhosted.org/packages/c8/22/dec2b7cf1355eacfa54c9f6611a74c3cfb18a69c094413c4c9f2eebe2b4f/maxminddb-geolite2-2015.0206.tar.gz"
+      },
+      "2015.0303": {
+        "sha256": "5fc5021c035c1dbba0c1ece8fa8608830b091744d208414f6506858cd00d3a2d",
+        "url": "https://files.pythonhosted.org/packages/5d/42/bc64b46a47aaf7bef6140b5d0e7da94c72fdb896d0185c58f0d77ba0c011/maxminddb-geolite2-2015.0303.tar.gz"
+      },
+      "2015.0507": {
+        "sha256": "fcb68913b695b4b27795b98ca4ca845566f0218c04539ff112d7a6ac229cc0e0",
+        "url": "https://files.pythonhosted.org/packages/05/db/721351c618556c07512ce2d4b67869bad213ab0d26d55bd2b6b1605fbde5/maxminddb-geolite2-2015.0507.tar.gz"
+      },
+      "2015.0708": {
+        "sha256": "92283ee9831db7c45856767fe4425b436e11a37bfd50ddfa0dd3ed7404469ca1",
+        "url": "https://files.pythonhosted.org/packages/11/1b/97f67831dbaec60d966f5ff5573f92294f2e2753ce9e92f656d6074a36b9/maxminddb-geolite2-2015.0708.tar.gz"
+      }
+    }
+  ]
+}

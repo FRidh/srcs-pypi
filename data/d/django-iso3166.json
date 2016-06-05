@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "10.1.1"
+  ],
+  "meta": {
+    "description": "This is a application for Django projects providing list of world countries based on ISO3166",
+    "homepage": "https://trac.co-capacity.biz/trac/cocap/wiki/django-ISO3166"
+  },
+  "versions": [
+    {
+      "10.1": {
+        "sha256": "2c8758023dcaffc89dca54dd163018d270142f1a44c8f696d368716c55167672",
+        "url": "https://files.pythonhosted.org/packages/25/81/3fcb2535af03342cfdb69c41a6820e3f65c6b6a08a9404abc9f377b98f37/django-iso3166-10.1.tar.gz"
+      },
+      "10.1.1": {
+        "sha256": "b08fd29c3b206548701e58f4a37d7464308e3bf91bb8c234e7ab4c0a76452c87",
+        "url": "https://files.pythonhosted.org/packages/b3/dc/a22775bd1a2bc25afa4317ca6a2f29503f136a79edbffa70552058209c2b/django-iso3166-10.1.1.tar.gz"
+      }
+    }
+  ]
+}

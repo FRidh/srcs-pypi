@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.2.1"
+  ],
+  "meta": {
+    "description": "FastCGI/WSGI server implemented using gevent",
+    "homepage": "http://github.com/momyc/gevent-fastcgi",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.25.2dev": {
+        "sha256": "92efdc47bde6861b31c268cd6015a158ead42845862f7967f48de1f7e31bd84c",
+        "url": "https://files.pythonhosted.org/packages/0c/e8/ee78d57685f5069d3904fe39126fe79bbae4acf6827e8bc8d811a26b5eaf/gevent-fastcgi-0.1.25.2dev.tar.gz"
+      },
+      "0.1.25dev": {
+        "sha256": "66906984311fa695b21c783c4d6f91a30bf04301d2c2ff5c406c901bc5f673d8",
+        "url": "https://files.pythonhosted.org/packages/9a/2a/baffec7f4b8b7280a5544dcd1a78c1531651cc2c5f22ba44d60af86a2fb7/gevent-fastcgi-0.1.25dev.tar.gz"
+      },
+      "1.0": {
+        "sha256": "8e4ffbc2a60001d6f3acc40641d2189faafe34e32574771eeaa4db47d6335af9",
+        "url": "https://files.pythonhosted.org/packages/65/bf/9824e64d67c9cfc21105f318a02fbc5566122000724a07533586aae21d4c/gevent-fastcgi-1.0.tar.gz"
+      },
+      "1.0.2.1": {
+        "sha256": "8d85475f0ee04b3224261fa3dcc0a5458ec04d4f8dfedf5f56b1440782327316",
+        "url": "https://files.pythonhosted.org/packages/6a/4a/daa85700875444e54fa05e10a2cd227ab7cb44fd3480e4c170d56d145b5f/gevent-fastcgi-1.0.2.1.tar.gz"
+      }
+    }
+  ]
+}

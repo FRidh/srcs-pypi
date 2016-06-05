@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "A python module that do a mapping from pygame controller events to actions. Actions are also combined to Directions",
+    "homepage": "https://thornpw@bitbucket.org/thornpw/steuer",
+    "license": "GNU LGPLv3"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "233132296c07e5575380978daa2104bd81ce78ffcd1b54e9a481a5e0299b57f1",
+        "url": "https://files.pythonhosted.org/packages/0e/25/05b9232f800dd7a8875bc84eb8c06221ee0f0cb71b1775e4997aad77d620/steuer-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "1595a016eeca3429f9d5187b1a044fe5e406155ad22f00a69e4ad8baec010106",
+        "url": "https://files.pythonhosted.org/packages/57/17/7b20a73639159ac44e921fb64a4f04e9234160b2c7f50e78b9b2ca26da9d/steuer-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

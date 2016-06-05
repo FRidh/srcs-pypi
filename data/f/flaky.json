@@ -1,0 +1,114 @@
+{
+  "latest_version": [
+    "3.1.1"
+  ],
+  "meta": {
+    "description": "Plugin for nose or py.test that automatically reruns flaky tests",
+    "homepage": "https://github.com/box/flaky",
+    "license": "Apache License\n                       Version 2.0, January 2004\n                    http://www.apache.org/licenses/\n\nTERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n1. Definitions.\n  \"License\" shall mean the terms and conditions for use, reproduction,\n  and distribution as defined by Sections 1 through 9 of this document.\n  \"Licensor\" shall mean the copyright owner or entity authorized by\n  the copyright owner that is granting the License.\n  \"Legal Entity\" shall mean the union of the acting entity and all\n  other entities that control, are controlled by, or are under common\n  control with that entity. For the purposes of this definition,\n  \"control\" means (i) the power, direct or indirect, to cause the\n  direction or management of such entity, whether by contract or\n  otherwise, or (ii) ownership of fifty percent (50%) or more of the\n  outstanding shares, or (iii) beneficial ownership of such entity.\n  \"You\" (or \"Your\") shall mean an individual or Legal Entity\n  exercising permissions granted by this License.\n  \"Source\" form shall mean the preferred form for making modifications,\n  including but not limited to software source code, documentation\n  source, and configuration files.\n  \"Object\" form shall mean any form resulting from mechanical\n  transformation or translation of a Source form, including but\n  not limited to compiled object code, generated documentation,\n  and conversions to other media types.\n  \"Work\" shall mean the work of authorship, whether in Source or\n  Object form, made available under the License, as indicated by a\n  copyright notice that is included in or attached to the work\n  (an example is provided in the Appendix below).\n  \"Derivative Works\" shall mean any work, whether in Source or Object\n  form, that is based on (or derived from) the Work and for which the\n  editorial revisions, annotations, elaborations, or other modifications\n  represent, as a whole, an original work of authorship. For the purposes\n  of this License, Derivative Works shall not include works that remain\n  separable from, or merely link (or bind by name) to the interfaces of,\n  the Work and Derivative Works thereof.\n  \"Contribution\" shall mean any work of authorship, including\n  the original version of the Work and any modifications or additions\n  to that Work or Derivative Works thereof, that is intentionally\n  submitted to Licensor for inclusion in the Work by the copyright owner\n  or by an individual or Legal Entity authorized to submit on behalf of\n  the copyright owner. For the purposes of this definition, \"submitted\"\n  means any form of electronic, verbal, or written communication sent\n  to the Licensor or its representatives, including but not limited to\n  communication on electronic mailing lists, source code control systems,\n  and issue tracking systems that are managed by, or on behalf of, the\n  Licensor for the purpose of discussing and improving the Work, but\n  excluding communication that is conspicuously marked or otherwise\n  designated in writing by the copyright owner as \"Not a Contribution.\"\n  \"Contributor\" shall mean Licensor and any individual or Legal Entity\n  on behalf of whom a Contribution has been received by Licensor and\n  subsequently incorporated within the Work.\n\n2. Grant of Copyright License. Subject to the terms and conditions of\n  this License, each Contributor hereby grants to You a perpetual,\n  worldwide, non-exclusive, no-charge, royalty-free, irrevocable\n  copyright license to reproduce, prepare Derivative Works of,\n  publicly display, publicly perform, sublicense, and distribute the\n  Work and such Derivative Works in Source or Object form.\n\n3. Grant of Patent License. Subject to the terms and conditions of\n  this License, each Contributor hereby grants to You a perpetual,\n  worldwide, non-exclusive, no-charge, royalty-free, irrevocable\n  (except as stated in this section) patent license to make, have made,\n  use, offer to sell, sell, import, and otherwise transfer the Work,\n  where such license applies only to those patent claims licensable\n  by such Contributor that are necessarily infringed by their\n  Contribution(s) alone or by combination of their Contribution(s)\n  with the Work to which such Contribution(s) was submitted. If You\n  institute patent litigation against any entity (including a\n  cross-claim or counterclaim in a lawsuit) alleging that the Work\n  or a Contribution incorporated within the Work constitutes direct\n  or contributory patent infringement, then any patent licenses\n  granted to You under this License for that Work shall terminate\n  as of the date such litigation is filed.\n\n4. Redistribution. You may reproduce and distribute copies of the\n  Work or Derivative Works thereof in any medium, with or without\n  modifications, and in Source or Object form, provided that You\n  meet the following conditions:\n\n  (a) You must give any other recipients of the Work or\n      Derivative Works a copy of this License; and\n\n  (b) You must cause any modified files to carry prominent notices\n      stating that You changed the files; and\n\n  (c) You must retain, in the Source form of any Derivative Works\n      that You distribute, all copyright, patent, trademark, and\n      attribution notices from the Source form of the Work,\n      excluding those notices that do not pertain to any part of\n      the Derivative Works; and\n\n  (d) If the Work includes a \"NOTICE\" text file as part of its\n      distribution, then any Derivative Works that You distribute must\n      include a readable copy of the attribution notices contained\n      within such NOTICE file, excluding those notices that do not\n      pertain to any part of the Derivative Works, in at least one\n      of the following places: within a NOTICE text file distributed\n      as part of the Derivative Works; within the Source form or\n      documentation, if provided along with the Derivative Works; or,\n      within a display generated by the Derivative Works, if and\n      wherever such third-party notices normally appear. The contents\n      of the NOTICE file are for informational purposes only and\n      do not modify the License. You may add Your own attribution\n      notices within Derivative Works that You distribute, alongside\n      or as an addendum to the NOTICE text from the Work, provided\n      that such additional attribution notices cannot be construed\n      as modifying the License.\n\n  You may add Your own copyright statement to Your modifications and\n  may provide additional or different license terms and conditions\n  for use, reproduction, or distribution of Your modifications, or\n  for any such Derivative Works as a whole, provided Your use,\n  reproduction, and distribution of the Work otherwise complies with\n  the conditions stated in this License.\n\n5. Submission of Contributions. Unless You explicitly state otherwise,\n  any Contribution intentionally submitted for inclusion in the Work\n  by You to the Licensor shall be under the terms and conditions of\n  this License, without any additional terms or conditions.\n  Notwithstanding the above, nothing herein shall supersede or modify\n  the terms of any separate license agreement you may have executed\n  with Licensor regarding such Contributions.\n\n6. Trademarks. This License does not grant permission to use the trade\n  names, trademarks, service marks, or product names of the Licensor,\n  except as required for reasonable and customary use in describing the\n  origin of the Work and reproducing the content of the NOTICE file.\n\n7. Disclaimer of Warranty. Unless required by applicable law or\n  agreed to in writing, Licensor provides the Work (and each\n  Contributor provides its Contributions) on an \"AS IS\" BASIS,\n  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or\n  implied, including, without limitation, any warranties or conditions\n  of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A\n  PARTICULAR PURPOSE. You are solely responsible for determining the\n  appropriateness of using or redistributing the Work and assume any\n  risks associated with Your exercise of permissions under this License.\n\n8. Limitation of Liability. In no event and under no legal theory,\n  whether in tort (including negligence), contract, or otherwise,\n  unless required by applicable law (such as deliberate and grossly\n  negligent acts) or agreed to in writing, shall any Contributor be\n  liable to You for damages, including any direct, indirect, special,\n  incidental, or consequential damages of any character arising as a\n  result of this License or out of the use or inability to use the\n  Work (including but not limited to damages for loss of goodwill,\n  work stoppage, computer failure or malfunction, or any and all\n  other commercial damages or losses), even if such Contributor\n  has been advised of the possibility of such damages.\n\n9. Accepting Warranty or Additional Liability. While redistributing\n  the Work or Derivative Works thereof, You may choose to offer,\n  and charge a fee for, acceptance of support, warranty, indemnity,\n  or other liability obligations and/or rights consistent with this\n  License. However, in accepting such obligations, You may act only\n  on Your own behalf and on Your sole responsibility, not on behalf\n  of any other Contributor, and only if You agree to indemnify,\n  defend, and hold each Contributor harmless for any liability\n  incurred by, or claims asserted against, such Contributor by reason\n  of your accepting any such warranty or additional liability.\n\nEND OF TERMS AND CONDITIONS"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "c1166d4157eec40885a46c4d945312409c6841cd5e515a397f0323bc818ccf8f",
+        "url": "https://files.pythonhosted.org/packages/b0/2c/136fc3a6f25a1728501ba4f4429e3fc5f11021a0c4e5f10914dc9fb8fd15/flaky-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "89cd8d1e6c2d3346e21193533e4be6a6db417cf60185a7e8f257e0d183583b86",
+        "url": "https://files.pythonhosted.org/packages/28/02/9d62a00b60db5f68b68d54739d1345d3a7a4878b6d0dc21f10b0db993933/flaky-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "ccea1a543c4a2d447bfde4cc0115a20bfe67eb9714e06295bde1d013b6b7acd7",
+        "url": "https://files.pythonhosted.org/packages/6d/89/bb2761663a842ae1103e45cec9b3555a1f0d65fd74ecd57117f0bed4043a/flaky-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "cc095d658292b8a296f925274313acc74e05421ac54eaf07c1e86dad0f6d3351",
+        "url": "https://files.pythonhosted.org/packages/f7/de/25f93ba7e4ec9541751e734a0e6f395c326ef6edc9eff011e64d7121b1e1/flaky-0.0.4.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "b36debfa8c70b02f26762af34b2ef7e1a66efb3ca3446f72839337291283aefb",
+        "url": "https://files.pythonhosted.org/packages/94/10/d83490ddb98d44fb9f1cf3c987f474672809957fde0dcc69ad003515b55c/flaky-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "d4abdc3aa0570bd86bba1a6fb7fd8901a681a166a8fe678a940edfab0a186467",
+        "url": "https://files.pythonhosted.org/packages/12/96/b5d24489a1979b92899a746ae20349d9a197629c53188ea1ab2f3d50c021/flaky-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "256a18f0690e2f1bf33ea8fe33a525f62a447ee364935f32b70116a747114199",
+        "url": "https://files.pythonhosted.org/packages/6c/12/b5f5568a8e4b726fbed53129621e342db7d37c097634da761f0432143e9b/flaky-0.4.0.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "b007cbb2dad84a63272326ff9879d970a80b8bb277da9555d57174ebbe99fd0a",
+        "url": "https://files.pythonhosted.org/packages/e6/5b/ecd6d8cdb9544970a7ab651398bcabfede10a48e9b20a5836b2eea64a37b/flaky-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "a34101bb2f1947c5246af8285e48829d142265d4681f8791e66ad4bb444020f6",
+        "url": "https://files.pythonhosted.org/packages/10/b1/dd14c8d7951907bd586057b8115fda7a08520d7529629aef3faf7f201a2d/flaky-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "dfd772dd17aa379cec8808e25415f14b4fd9a85bc25d0e7706b63713feb93940",
+        "url": "https://files.pythonhosted.org/packages/8d/c6/a6e647e0eb4facc7f8d21e636d6df71a9cdbed79e0f27d2c64b81e0c28f1/flaky-1.0.2.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "284395016e4285c9bfa164ad9f6cd9a2012fcd2b238e643961651295c709a57e",
+        "url": "https://files.pythonhosted.org/packages/9d/87/98545e0bc6cffe4e66904323e6be17fb36b49e421d928697afbaa4935125/flaky-1.1.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "8141e92a10a088fe2bdc2e55b71b14fb5b7790df9939b3483c2ac53fdaf4b95e",
+        "url": "https://files.pythonhosted.org/packages/11/c4/74241120be0be6a44db8db6baf81b17851782775f20116ee198e9e75d2c6/flaky-2.0.0.tar.gz"
+      },
+      "2.0.3": {
+        "sha256": "cc2c808ec6498b8bb473322a00230a53f7d7529461cd806656b858545841799b",
+        "url": "https://files.pythonhosted.org/packages/bf/71/689e47245416a7d425a79ff07f33570f12b4894fa3ce3a71b0585bd43b86/flaky-2.0.3.tar.gz"
+      },
+      "2.0.4": {
+        "sha256": "23d37d11845ea40330734053de98f6a492b159f877f51d0d98d76a9c80c032de",
+        "url": "https://files.pythonhosted.org/packages/b2/59/fb28a4e5cf2291264605c8f4ebdd29d2666b659bff2293b8ae925582dbbd/flaky-2.0.4.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "a4f0063ce303020065ca443013ef8cbec58505cb6275071e3250c02b1a6bfde6",
+        "url": "https://files.pythonhosted.org/packages/76/55/39dd647df5ffd77b79b67a5b1ef72a19670061663cc1d52207c6a80ecce1/flaky-2.1.0.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "20db2a3e2f9d103df703621356fc723706f154062b283a3e0d3c7828eaeab0fe",
+        "url": "https://files.pythonhosted.org/packages/6f/79/d7c25708c037c8dcd4d4208184149be7246abd9e0e2d90eca1c55ce82676/flaky-2.1.1.tar.gz"
+      },
+      "2.1.2": {
+        "sha256": "55e29197473d457c2c0c51f73e8698810e1b0c3b97df367ddc8229a496c27019",
+        "url": "https://files.pythonhosted.org/packages/a7/9d/9ad16c918354723fd933451037fdd7e90c62ab2a6d8f520218db1b13b1aa/flaky-2.1.2.tar.gz"
+      },
+      "2.2.0": {
+        "sha256": "9f9777a9e852ea06b1a2e84a51e88cd874262ec3c1d5d443da7bc55c3e0348fc",
+        "url": "https://files.pythonhosted.org/packages/ed/33/9a8cd97e586a9eae4ff93a498f1fa90bbc043e9b4659f551bbe5cd0eb982/flaky-2.2.0.tar.gz"
+      },
+      "2.4.0": {
+        "sha256": "6446e186674db9d67be5e85857b6e98a68a6491d5d307447d9a1a6721aca9fad",
+        "url": "https://files.pythonhosted.org/packages/11/61/af296890b663b0f46fa593eb8111484725137e43361c366c7fde03a68948/flaky-2.4.0.tar.gz"
+      },
+      "2.4.1": {
+        "sha256": "e8e94450c7c5d56bd30e0634fc6c725936e7585322d60469195dfa416c0ab2ea",
+        "url": "https://files.pythonhosted.org/packages/c3/99/58b078735f2aa2eed7a93d34d9009ad544b2c81983dbc3ccd027ca723b4c/flaky-2.4.1.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "166f872d9da3a0d0e9df97154d0ed70b4725a94b243f121feed55c1b314de699",
+        "url": "https://files.pythonhosted.org/packages/5d/d1/df8366bf44d2700047a75db7ebfda5642f7c77111d8aab399cfc3a500945/flaky-3.0.0.tar.gz"
+      },
+      "3.0.1": {
+        "sha256": "9004f24832130835a89c1d767b1353f867b1e6aae434cde13749485d377a515e",
+        "url": "https://files.pythonhosted.org/packages/50/ef/efde7a1516e37df6683e9bd99b33d90528283938e05a8d0a7705ccfc3f1d/flaky-3.0.1.tar.gz"
+      },
+      "3.0.3": {
+        "sha256": "24da4483ff313171e5ecbc341c50b8b7fb481850259c44628e2c90f726407770",
+        "url": "https://files.pythonhosted.org/packages/80/82/0473c10b83470c374dda0bb32df25b6ef5c43359f02d9279daf6d0e71972/flaky-3.0.3.tar.gz"
+      },
+      "3.1.0": {
+        "sha256": "8168823da71a415a8fa437807e719b4dc9337780da72d4459112f3a366ec31f5",
+        "url": "https://files.pythonhosted.org/packages/5b/9f/cd0d41dae65982ea396d047b5e1531ce04234471e0ecd2109f7deb735660/flaky-3.1.0.tar.gz"
+      },
+      "3.1.1": {
+        "sha256": "d50eb4034d5fc1bbe043f2c9a364024f436ebdcadc03e89f091a332407b7cf7e",
+        "url": "https://files.pythonhosted.org/packages/b1/2e/58c8b2217533e8283bdb666956db0b33bffb955fa406756c9da7cd7f9774/flaky-3.1.1.tar.gz"
+      }
+    }
+  ]
+}

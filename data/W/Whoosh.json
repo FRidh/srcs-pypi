@@ -1,0 +1,578 @@
+{
+  "latest_version": [
+    "2.7.4"
+  ],
+  "meta": {
+    "description": "Fast, pure-Python full text indexing, search, and spell checking library",
+    "homepage": "http://bitbucket.org/mchaput/whoosh",
+    "license": "Two-clause BSD license"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "5a2fd2be65a3866988383e495c87f6573d82eb1f34009a2f71e8c3b24feef2d1",
+        "url": "https://files.pythonhosted.org/packages/c0/20/4fb98f4ec0678818843e710ae658f8c385fc4e36d6527afca427f92090c3/Whoosh-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "7a70ee2cf71d10a2601bf994198497ae851d2771e9366bb062f59cc022984d40",
+        "url": "https://files.pythonhosted.org/packages/08/30/427497d0c0d30aa09cfcc96ae94197898b489eef22ad60cd3e1f6025c000/Whoosh-0.1.1.tar.gz"
+      },
+      "0.1.10": {
+        "sha256": "2d5f3cc86f03dd03d44cd0aa1f60906cc9bc0e11aa5387dc8944fa5548069180",
+        "url": "https://files.pythonhosted.org/packages/5d/a7/375fd40f61958655f74088a26974a31639471522d0df4dac73d2a9b3af24/Whoosh-0.1.10.tar.gz"
+      },
+      "0.1.11": {
+        "sha256": "f9437aa189694d07a04dee78eda8a0ca5d68cc5238ffbe20ce57029720440c0e",
+        "url": "https://files.pythonhosted.org/packages/b4/27/8c998d346c72bc58d1f645bb54a28fe7d7263c13c59874e2aef532e9fd01/Whoosh-0.1.11.tar.gz"
+      },
+      "0.1.12": {
+        "sha256": "4f6bdaa557c2e518fcee2d7741f80e65308f7e4123299c88a692be1ff97627ea",
+        "url": "https://files.pythonhosted.org/packages/e4/af/8bd379eb541ad3cb19cd53a4e4e2afefbd9b373f88bca767d1554bfd134e/Whoosh-0.1.12.tar.gz"
+      },
+      "0.1.13": {
+        "sha256": "df2b49764d0990569c8982c7f62365b6075ea4917fc796aee36c50169e6e2d89",
+        "url": "https://files.pythonhosted.org/packages/9d/b0/b2ab6bd59702f8172bdd896a81cb8bd6511a125dd6f8f2b4e3a277109118/Whoosh-0.1.13.tar.gz"
+      },
+      "0.1.14": {
+        "sha256": "9bfd8ed4941f5d4373777ae594d18833cd638cb59cc24c0bb387391499f3d643",
+        "url": "https://files.pythonhosted.org/packages/6b/8f/3d4cbb8ed16093c9f2432abd000f8f180b1492e87bd1bd348730cf8b2c92/Whoosh-0.1.14.tar.gz"
+      },
+      "0.1.15": {
+        "sha256": "378d2c3854bef58458fa4b74d3fb9f71c3f5ade3f4b4fb3587250315c171ff61",
+        "url": "https://files.pythonhosted.org/packages/11/38/de7b5db0616898c3ffc5bc643d7ff46558cee4c833453947be3b904b0104/Whoosh-0.1.15.tar.gz"
+      },
+      "0.1.16": {
+        "sha256": "a6c942d9bbbc89115eeaa6cea7c9bb99c26fbef8cccb48787bbe6e6d776c4745",
+        "url": "https://files.pythonhosted.org/packages/e2/cf/2897083856f24b8df5ff3a7dc2173d5237c096ba57cec78b846ac7197c95/Whoosh-0.1.16.tar.gz"
+      },
+      "0.1.17": {
+        "sha256": "977f5efc943da32b59aa9e77bbc34069c735a59ffc7a1b5be3838c0fc77d11d2",
+        "url": "https://files.pythonhosted.org/packages/34/6c/38a35377101efa9755cf6c0d2e8c285018a484f672529aa0195f30c2beaa/Whoosh-0.1.17.tar.gz"
+      },
+      "0.1.18": {
+        "sha256": "2b8c93f3b1d7ddb0656c6253e3d3dce29ab0c4cd3be3a62351d43ab87f64ecbc",
+        "url": "https://files.pythonhosted.org/packages/5e/36/8ecad4bb7af601585beeb8b6954361a66cb8a3cff9322d04e77901dc0fb9/Whoosh-0.1.18.tar.gz"
+      },
+      "0.1.19": {
+        "sha256": "f3015006c7c744895fc980301534a8f5f5cbd17334af8d76d1b1d44c94da1aba",
+        "url": "https://files.pythonhosted.org/packages/b3/a3/048024bf3ec33beb8ff3d98ce2e5b848e6d244e4d6ff1a0c8647bb7d41a8/Whoosh-0.1.19.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "9fca11ad108fd92487065d1a9e69dceeedaac9f149115ba95d4d1c850e90b9e0",
+        "url": "https://files.pythonhosted.org/packages/ca/f3/01ffe74d01a6bf3d1c235bbe82ecd2c57e8e8256464b0b648448de62d1f0/Whoosh-0.1.2.tar.gz"
+      },
+      "0.1.20": {
+        "sha256": "848b17d2a629013d60953b715be161aa105f4322571c2ff25e0f5886b644d50a",
+        "url": "https://files.pythonhosted.org/packages/9b/32/a804b610fe0acf2c5df1f19ee8fc479e80b655f6d94a793a7b6cb02810e3/Whoosh-0.1.20.tar.gz"
+      },
+      "0.1.21": {
+        "sha256": "9ad9bce6ea0ca383ee3a9239a2ba959a9eec2c3f24b232d72e7676bda7b0cb72",
+        "url": "https://files.pythonhosted.org/packages/50/25/82ed509be04689e8e7e0d9c0ccc02ab3239dc7f3a4ad6392f67f6632cc42/Whoosh-0.1.21.tar.gz"
+      },
+      "0.1.22": {
+        "sha256": "420f36d7935770296388a220e8f9146cefd62365e10dbd1c8963e4949ae49757",
+        "url": "https://files.pythonhosted.org/packages/97/3f/453cf0f7a544303e6203ba43b3fe9049c7aa8fc6908f787a2b444e0770d3/Whoosh-0.1.22.tar.gz"
+      },
+      "0.1.23": {
+        "sha256": "250d398d6f58692281a36d526d65f5b48e50e2b1503f19e3643a5508afbcbfa0",
+        "url": "https://files.pythonhosted.org/packages/84/9b/2bd80071eebc89b553bab5b878b28aabd78f95c3e6224742fd988dafd8ad/Whoosh-0.1.23.tar.gz"
+      },
+      "0.1.24": {
+        "sha256": "0a3385034bb5f67d032ef16b7c9aa9f9f7ea4617cfeb0ab8514d86c5e88e20ee",
+        "url": "https://files.pythonhosted.org/packages/fa/76/2dd47f4591700d1f2d762cff728daa338279392513292166657bdda8aec0/Whoosh-0.1.24.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "510d751b23b566318c89165c0338b40555356e80a564ad40952a0db09b2bfb9e",
+        "url": "https://files.pythonhosted.org/packages/ed/f8/4d730621ab1baa484faca574bf16752fd674ddfefda976763fe5b863af98/Whoosh-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "889385dc9b4968f053a847e7bb9afc5120e40695f5e38b69763ae95a7968208f",
+        "url": "https://files.pythonhosted.org/packages/50/27/7c1b5c7ad56b47d7a977148125362b14bdddfe83d0136e108ba690486928/Whoosh-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "38dda34b52dc28866df80dddd2f66f2f00967c1197b44c1094d93b8f7b2ac905",
+        "url": "https://files.pythonhosted.org/packages/d8/60/700945cbd8268337fccd3d02aefbea314da2680976426b1e3d8d3a972aba/Whoosh-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "090e441583f1df000ac741c64f84d9f99d2e7c34d533727f08b64a5606216ed5",
+        "url": "https://files.pythonhosted.org/packages/30/d3/890c63fa0e99d5117e6ca558eefc8d256daf9dbbd9953a22ff914c47dbe3/Whoosh-0.1.6.macosx-10.5-i386.tar.gz"
+      },
+      "0.1.7": {
+        "sha256": "62106f70bcfc9f8a71df3dd0d878052187454f225cc585e1aeee845275307b00",
+        "url": "https://files.pythonhosted.org/packages/a6/c3/6f3986cd3ec2382852ecd720cd48184baae4606ccd8a67df1e7a86fefa6a/Whoosh-0.1.7.tar.gz"
+      },
+      "0.1.8": {
+        "sha256": "07b964d85780c53e30ce7174032d46798c84bc08ee3cf539825b989db501172d",
+        "url": "https://files.pythonhosted.org/packages/b2/a2/27cece27adf0181ea2f7083a6321c6c203454370ab19fa38032a26fe2aa1/Whoosh-0.1.8.tar.gz"
+      },
+      "0.1.9": {
+        "sha256": "9656348cd296f182fd8df3832d71ee052c45acc1ee1e54b6d985e7a12bc59ff8",
+        "url": "https://files.pythonhosted.org/packages/9a/c4/905c6698f551f4b3a264cdff6cc7ebe5f29b619d051b08ff58bd26439f27/Whoosh-0.1.9.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "99649fa0a2b1938313546bd294ff1c0a60b76c01c1c6c7a1fa4eb19cba8e477c",
+        "url": "https://files.pythonhosted.org/packages/5a/4b/defd1be0cfb682a89dd4b8f26c73a31ef4f463d39aee414f6c8561b96cb1/Whoosh-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "7b8efb29d7d2688385d9057d1cb4196fe4215db81727cae3119a4dfd2e4ec46b",
+        "url": "https://files.pythonhosted.org/packages/b1/6e/c4fbfd8ac4d9ae5586ae4bac4bcd8bc56f12125f994a52242e539b29ecb3/Whoosh-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "75e4ce62f90ee5f94eef569cf8d9bb9274e08b0d109274df429c33bcf081b184",
+        "url": "https://files.pythonhosted.org/packages/e4/98/94a8d6136c81c922e338644cffc9f59b9ef906664ec60a9007721d1fab1f/Whoosh-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "c5c798467fdccf679b4842fc976280f096a7f0f69cedb75e4d1421ce6c1df996",
+        "url": "https://files.pythonhosted.org/packages/69/22/40b3e70c33905bc1bbed4391929d87d1ce0eadfd028bc8b24ae1935b196b/Whoosh-0.2.3.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "329396b23f3b9ea3174e2c46dccba3746c45c7cb9bf2110d0571122855171c82",
+        "url": "https://files.pythonhosted.org/packages/15/44/71c6338c33423094cde6baea7f5e292f2ca67df0482f23f51b975975c4b0/Whoosh-0.2.4.tar.gz"
+      },
+      "0.2.5": {
+        "sha256": "6b5cf1b254f5426ad4eb5502d4096247940a460fad08f20f2668a916b5dcbc7e",
+        "url": "https://files.pythonhosted.org/packages/92/42/9af5207936fa77cea493951288b17867bbb0fa0b3030b765acd542f780ba/Whoosh-0.2.5.tar.gz"
+      },
+      "0.2.6": {
+        "sha256": "7177f081079f75ca1c15e1f2e501a00a23fd4a5563848c8217b2fd4fd3010688",
+        "url": "https://files.pythonhosted.org/packages/1f/fa/9c231eed09a1166e63632c8718fd2a5ad5c06d56a5e42390b84f8b270e6f/Whoosh-0.2.6.tar.gz"
+      },
+      "0.2.7": {
+        "sha256": "ff20139b4d8caf7a677d4c926f10c9b4c6e0090c86eeac51077153488e2dcf3f",
+        "url": "https://files.pythonhosted.org/packages/05/d3/9c0dfa8d648458bc81e0d632bbb7b1023b598ea784634bea8a086c151958/Whoosh-0.2.7.tar.gz"
+      },
+      "0.2.8": {
+        "sha256": "64ae77a3e2c3a79829656446c04f67ed34c4af6ed37576c3013cce2e9c224a44",
+        "url": "https://files.pythonhosted.org/packages/bd/4f/6603a6c2bf6f78643fd851625ceda5c361c9932e70c9a245b2b3c9d42d45/Whoosh-0.2.8.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "6b6c2cdf30d7c01d6ff37919ae1fd263fac3cf2697bffd0c54f75b190f534b7d",
+        "url": "https://files.pythonhosted.org/packages/b0/00/e230185f93e3785c8c6dd6798950d9bc0d0aae0e8339f161cd9cbed6182a/Whoosh-0.3.0.tar.gz"
+      },
+      "0.3.0b20": {
+        "sha256": "3f190d37aee3cee4c03529ba618a297319e1970d590e4230d0fd42c5c3349017",
+        "url": "https://files.pythonhosted.org/packages/63/51/932f772094bc4b8523844f0700b22824e61129e3b00a592bd4b1372d1616/Whoosh-0.3.0b20.tar.gz"
+      },
+      "0.3.0b21": {
+        "sha256": "fec9a25b3e9b28c3cf79a5e79968cd01ccfa080b80d069b6927a7532318f5e62",
+        "url": "https://files.pythonhosted.org/packages/53/ec/cf928e7956d4ec9f0257f6e23f23d67e481160182a9290f1241ffc05a3f8/Whoosh-0.3.0b21.tar.gz"
+      },
+      "0.3.0b22": {
+        "sha256": "6bea4932ea1818057ba491d7917eeb9369218f69fb622da96ddb3d2e08b75ae3",
+        "url": "https://files.pythonhosted.org/packages/47/f4/43a37faf444e0ad106c9d2c57dc58c439621286aafef7f14e922ed327bcc/Whoosh-0.3.0b22.tar.gz"
+      },
+      "0.3.0b23": {
+        "sha256": "1016a18231384b13afce423bf135ee8f20dc3f1351f51f79214e230d78d5a698",
+        "url": "https://files.pythonhosted.org/packages/69/f8/6abde1a60ff44cc0b793355899e15b03b0ff10103c5198c132d6a92842b0/Whoosh-0.3.0b23.tar.gz"
+      },
+      "0.3.0b24": {
+        "sha256": "a2aa8400b4f2663506649b8a02af7298a6c884cb0eda6025b472c3da1abab8a4",
+        "url": "https://files.pythonhosted.org/packages/9c/04/cee842d244c9221662724498016507d9a0f86ad1320005a01dcd578281a9/Whoosh-0.3.0b24.tar.gz"
+      },
+      "0.3.10": {
+        "sha256": "b60c80ca0532e16ac3d069a8db76296293ed969badf78a4075798c206291e996",
+        "url": "https://files.pythonhosted.org/packages/bb/79/0e0613c1b3f596c6179f274a54a0929aa5528ad6de13391cee32dc0354d9/Whoosh-0.3.10.tar.gz"
+      },
+      "0.3.11": {
+        "sha256": "1769e2b56df36a22b17e58eef7880c5adb0aee376e0b4c5266a13310f63d2e42",
+        "url": "https://files.pythonhosted.org/packages/5c/56/a87424e40f099c1ffe3eb1bf43d58f5d6402d6b288359cb93919251b6559/Whoosh-0.3.11.tar.gz"
+      },
+      "0.3.12": {
+        "sha256": "10d5054f885ccdae837f05de04f0564d4e7e541ac19f73c1d3c79a70c40f8181",
+        "url": "https://files.pythonhosted.org/packages/8b/7c/05e440e626d8d9df9104839d69c2804a66c0c4946f033555ef0ba7def2e1/Whoosh-0.3.12.tar.gz"
+      },
+      "0.3.14": {
+        "sha256": "abb5d7746ec860bfbc5f178218faf8c4b2a87949f065e79ecd2eaa054e861114",
+        "url": "https://files.pythonhosted.org/packages/7d/0e/c807a3dbd540cd00112f911c664fbe46eb7a6ed4d0ea06176fa9b64b6f41/Whoosh-0.3.14.tar.gz"
+      },
+      "0.3.15": {
+        "sha256": "b296bb7e135a3d92331f7d4f0536f97c4bae0694ff47e9f3054f4258e66fccde",
+        "url": "https://files.pythonhosted.org/packages/56/5d/362c6aa3ccf12d7614f22aa29cd4fb7c0f449e01aaa6df2a7445bbad24b3/Whoosh-0.3.15.tar.gz"
+      },
+      "0.3.16": {
+        "sha256": "9449ab986f52d22720e36911a4cf71a1a65b9336de0d7cc7265ac24309a3ff9e",
+        "url": "https://files.pythonhosted.org/packages/75/c5/ae60e27b3d80f17cd293a4ffa47beda2fbe29f62d02a3f155e63fb30ae62/Whoosh-0.3.16.tar.gz"
+      },
+      "0.3.17": {
+        "sha256": "572c405960fb8460c6a4d1099da0f7d0ed6ea1effdcd8c7982d61e169b27ead2",
+        "url": "https://files.pythonhosted.org/packages/74/a7/4260cc9f415f3ddba33034966d6937acb8b222de307f65e314a9c3b95cc2/Whoosh-0.3.17.tar.gz"
+      },
+      "0.3.18": {
+        "sha256": "29bfbaf8ad97308c6843a70671ec0d291a92349b3e5ccc99fc87024f7bb82db0",
+        "url": "https://files.pythonhosted.org/packages/7b/51/f9970fd0199437d625a59de8e46f6a4cc46c60faf5de2a1eb9832ef61606/Whoosh-0.3.18.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "03b221270d42895bbb9b3dcdc92c1b3c117a523ff22ad83413bae30ed27b138b",
+        "url": "https://files.pythonhosted.org/packages/8e/dc/98002eff189881cf803a807a77fd8d45db400a0c0cb965c90cb7799f32ef/Whoosh-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "1ff24178d7bceed4441c740ba234bb247915b6f43e793a753ccc056e9abe9140",
+        "url": "https://files.pythonhosted.org/packages/7c/16/f15b31937c6145a833b744351fa78a2296bd1533ff1be630bef087ee6130/Whoosh-0.3.3.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "4daa0a1a673555738695cfbcc02f3f2c253e192d77f2fe49f1251d4d3e2250b9",
+        "url": "https://files.pythonhosted.org/packages/2d/90/1cf608786cc607ef2086914edcb1857f217aada5a434fb8aad17a8d5a396/Whoosh-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "efdd3cc187634178b108ff6033d22ee219dae0b1be41ce702d780391409a744c",
+        "url": "https://files.pythonhosted.org/packages/dc/b9/72ea42b64c40bc13b9e6c8881e0ddd242b0a83966d097df651af41fd1efe/Whoosh-0.3.5.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "c96382e7f2a961b8b01a97fff5da76f63e910a10a56d2826905b7fc9fc77f3bd",
+        "url": "https://files.pythonhosted.org/packages/fb/c6/af13a22867572b515dd9d4ff7c1591e6d5c2dddccb02dcfe1ce2388e9e62/Whoosh-0.3.6.tar.gz"
+      },
+      "0.3.7": {
+        "sha256": "26924061368c6d362e4c3efb66de3a2b3e1bc04ea4baecb3a3e29239b6e2dbd2",
+        "url": "https://files.pythonhosted.org/packages/49/54/ab599fa51e949740e2b2d8c925bb917a0ec80a13aa80334f2c542623649d/Whoosh-0.3.7.tar.gz"
+      },
+      "0.3.8": {
+        "sha256": "e414f4682cbaaf618f99b5b64a9ba18e9a9c295a6e80202cd2bb4bd46661b2b0",
+        "url": "https://files.pythonhosted.org/packages/66/8d/c85c6ec7373f5ca97562e5ddcd63f0c814901bb414cf38221883f677c715/Whoosh-0.3.8.tar.gz"
+      },
+      "0.3.9": {
+        "sha256": "c112ecc9d223c63edd58519b9c1a6c03caad3d9a9635b03546858f74060f5ad3",
+        "url": "https://files.pythonhosted.org/packages/e0/9e/44d9cc36493e7c8981f070f256be5bb4c6c5527e79abebe13d38e2a4407b/Whoosh-0.3.9.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "ad23d4b754f131dfae4e3a5aa3dff33d9f2dbe8743980ffa91d49f863b2b9cb2",
+        "url": "https://files.pythonhosted.org/packages/15/cc/7d773109c4558ca13dc84b72c054e3f94102afe651808fdc0e865e8efc33/Whoosh-1.0.0.tar.gz"
+      },
+      "1.0.0b1": {
+        "sha256": "58195160ee23b48d3cf8b280cba9eda6a1d278efaf6fca3352aa18d26c6f8834",
+        "url": "https://files.pythonhosted.org/packages/54/95/5da763b8c14f26a8e1e7d89195776d2980e874071b0aff8f1c796c075103/Whoosh-1.0.0b1.tar.gz"
+      },
+      "1.0.0b10": {
+        "sha256": "4208aa0b37e680a23e53b5acef9ff813f33958f2e20946886682fe2ac78a50f3",
+        "url": "https://files.pythonhosted.org/packages/b0/f5/1a32b2584c942bd9b15ca23672a4ebb56fa3bb1e5b92bc79a403fa6bde95/Whoosh-1.0.0b10.tar.gz"
+      },
+      "1.0.0b11": {
+        "sha256": "c431b54ff279f6d17c4937eb70dbb5e95135d98ebe7b4155c6bd5a2623932b01",
+        "url": "https://files.pythonhosted.org/packages/c8/88/392eeee4ea0698f57475619198e9eb48c5d70eb954d4187ed8745617d2f3/Whoosh-1.0.0b11.tar.gz"
+      },
+      "1.0.0b12": {
+        "sha256": "5d4bc6123c4f9ced83ce4085216dffa2dfaf2b4705055800171fff1e1ec934b8",
+        "url": "https://files.pythonhosted.org/packages/1c/5e/67f8aeac1aaa89284a095835196af05b38c5f0c9ac9c2dac96788a002070/Whoosh-1.0.0b12.tar.gz"
+      },
+      "1.0.0b14": {
+        "sha256": "7ea3e59beb5944a70494ddbe4d28f7ab667c8e3ca8a02e1fdf185011e1279d10",
+        "url": "https://files.pythonhosted.org/packages/71/05/7672684c6bdd6c4d3ec87abf49d509601c97a8cf925c00f57cc92f58a586/Whoosh-1.0.0b14.tar.gz"
+      },
+      "1.0.0b15": {
+        "sha256": "0fb3d8447d2bc4d6ce9cb3b4f952f104ff00f3fb64a44d57e9992ee25639079e",
+        "url": "https://files.pythonhosted.org/packages/38/1c/6e8908a386d4bc17739427641243ea8aeade043b2c42a7da2bdfde73c51d/Whoosh-1.0.0b15.tar.gz"
+      },
+      "1.0.0b16": {
+        "sha256": "223662872fc6e866812ca13aaecddafc1a86108a98cffb17115ad399caac1aa3",
+        "url": "https://files.pythonhosted.org/packages/05/65/bcfae02eb6890a11ced00ba1ffa7016451274c24bf388f25e6caee7a9daf/Whoosh-1.0.0b16.tar.gz"
+      },
+      "1.0.0b17": {
+        "sha256": "0ee78b5cddb859e595277aab6d8c63bb04a6e9a5e5d41aeffab0fad2c2828ccc",
+        "url": "https://files.pythonhosted.org/packages/2b/3a/55e08539f8412b1c108eb3de7c3ea152578281e18527c2006e7560f3f46d/Whoosh-1.0.0b17.tar.gz"
+      },
+      "1.0.0b18": {
+        "sha256": "f158e76b60c7c9ad2986d54b3b4e7eae42d363fef598bef6fa4a07a783f3b6c0",
+        "url": "https://files.pythonhosted.org/packages/6e/9d/b7e32ffbee1e8212949316d103f45057e946eea2e5a55a6ec7633aed28ba/Whoosh-1.0.0b18.tar.gz"
+      },
+      "1.0.0b19": {
+        "sha256": "787b2f2ab01f32d1fef332a398a1147cb98e56651df9b31885818b0c2da26da0",
+        "url": "https://files.pythonhosted.org/packages/57/05/4812af6568acdaee1442f95a989a1868e5c83a198e40f764a10b7e8c64a4/Whoosh-1.0.0b19.tar.gz"
+      },
+      "1.0.0b2": {
+        "sha256": "6d05335ba90d50d571c0031ab1aad6f07a5654996d6a47d40212fb071e70b7da",
+        "url": "https://files.pythonhosted.org/packages/da/04/717ebb5e329c5da0bbff27db0931872899016ea5e57a5672ab82ac5a29f8/Whoosh-1.0.0b2.tar.gz"
+      },
+      "1.0.0b20": {
+        "sha256": "c6fbc36c45e9776f3f1370838d31fd62d308d870dfac74ad45645141152a9ba0",
+        "url": "https://files.pythonhosted.org/packages/81/33/26d2290af6ed4a919efae72118d89cb8033ea23eaa7036aa5c739b1973d9/Whoosh-1.0.0b20.tar.gz"
+      },
+      "1.0.0b21": {
+        "sha256": "34bb1f2aafd0d21fc7fd5daf1f3088bf99d3b78d79810e5554f066ff8d23bc58",
+        "url": "https://files.pythonhosted.org/packages/bf/ef/2a5b8b8a4c894f652b241c5589e6b96198bafd2f793f19d4a72b1fc8d543/Whoosh-1.0.0b21.tar.gz"
+      },
+      "1.0.0b4": {
+        "sha256": "5c2e834ea9812164861cd3cb8ebbb33c07eeb28123e3add2f55c19e7f3c039ac",
+        "url": "https://files.pythonhosted.org/packages/e0/4a/4b21d68b63eac7d01cc874f291527b303a505e97b534b8123a9375c4617a/Whoosh-1.0.0b4.tar.gz"
+      },
+      "1.0.0b5": {
+        "sha256": "13f4f754b5019e1cc252fd510c2a43c403c1c533a393bddf5e96dcb76948983e",
+        "url": "https://files.pythonhosted.org/packages/b7/64/53f7bc4cc07c29eb3edb951573fe710e6220a763e072576bfbfd23f280c7/Whoosh-1.0.0b5.tar.gz"
+      },
+      "1.0.0b6": {
+        "sha256": "5b1fd8475350d5697b226d8e3e43176528b34914d8fd9eb221f97f5302d76cf5",
+        "url": "https://files.pythonhosted.org/packages/b3/49/9a61c6ffd7dd3ddfb3b4868f66c0b11f26814c8b227b69c62deccd8e46dc/Whoosh-1.0.0b6.tar.gz"
+      },
+      "1.0.0b7": {
+        "sha256": "40a4e166ad0fb5b1f50bc836e76b31a63790343d5352044357bcc4830469cd7f",
+        "url": "https://files.pythonhosted.org/packages/3a/95/52bd63e486f071a2656a17ad8c3d2e2675e0054ad15bb212dc8b6aac7068/Whoosh-1.0.0b7.tar.gz"
+      },
+      "1.0.0b8": {
+        "sha256": "5e6036326606fd57ddb28c7c4991eb623e3cea0f4c53be691c2d7675e22405c4",
+        "url": "https://files.pythonhosted.org/packages/7d/8e/f027a0f32285d946e6f1417e03dee6b374860a872ef2db619eefd2243a00/Whoosh-1.0.0b8.tar.gz"
+      },
+      "1.0.0b9": {
+        "sha256": "fb5532de1fa44887163d29afc8743e9c382b455eae379bddb85a620131c534b4",
+        "url": "https://files.pythonhosted.org/packages/d8/79/40acf5af300dd58c84c225e64b046a6e4d4c5e33ae0bd725af87a73fa7fc/Whoosh-1.0.0b9.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "a793a945d24de6d7e824db8c00aaf6a3a20c456b90adcedd72227fc15af676b6",
+        "url": "https://files.pythonhosted.org/packages/f9/7d/b11ffa79c18854cb5493cb6bd7b39aab2043d7a8b1e631ac3a11170bb779/Whoosh-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "2e260efb78a92aefb6dd8413390e218e660c9aeeb0f05cb2918e26ca5e29ac4a",
+        "url": "https://files.pythonhosted.org/packages/1a/73/ea7975acae10c227a8b15292d0933a867acc2be3936f9d03e1f708d5efca/Whoosh-1.1.1.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "792e15b6cbfde9d444b3fee826a95763f2fa972f38a709de0ed334afe1bade19",
+        "url": "https://files.pythonhosted.org/packages/5d/e8/c618507f3a66fbcfb86f47fa1f8b7c54dab2cb491360429ed0b8f9b460f4/Whoosh-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "45f666dec9ae9c307d03b706285b6421e19164aca4850dc35e25fb0ab2f9632c",
+        "url": "https://files.pythonhosted.org/packages/ac/fa/8be9a5d7832f48e1e7cd96fa90d1a55a4b5b391b48a6b70ce6bc037c621b/Whoosh-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "1e6424b5987e17f4c3f712b77a7dc6d0b9103567aa9865d627ee550a918d9da7",
+        "url": "https://files.pythonhosted.org/packages/df/99/8d43cd64db004fa9f442bd72fda5e429716eb17c885d0a7a09f5bddf61bb/Whoosh-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "0d00279f78ad74b8a7aa15bed4de2020147c3473a1598f46566b92747e4b0ae0",
+        "url": "https://files.pythonhosted.org/packages/58/90/81e780ced96805a0333d32fa94462667f329fffdb90d9613b0e85b76ab34/Whoosh-1.2.3.tar.gz"
+      },
+      "1.2.4": {
+        "sha256": "10406c2ec1f716e96874894b4327a29d705c31bd2b7b7b4bcc80512f09608598",
+        "url": "https://files.pythonhosted.org/packages/f4/b1/c6f16ea0aac6844bb391f33706b1b204831bd94bd208b007377b42714c37/Whoosh-1.2.4.tar.gz"
+      },
+      "1.2.5": {
+        "sha256": "019259e79b8f53aeddd3e83e755db5d4a1f734327e0999d055659c749f508dee",
+        "url": "https://files.pythonhosted.org/packages/e5/d0/0dedba2f308e3f325fb497b8496130f95960e6493819bb7ef1d0d9c9650e/Whoosh-1.2.5.tar.gz"
+      },
+      "1.2.6": {
+        "sha256": "540ae65efd9992aabed17f6208196ed98814ad28dc121e2edc0c352e7b8b5d01",
+        "url": "https://files.pythonhosted.org/packages/ac/b5/230e63c56357fd6803da328df1d5a502834e3b351e7b56619d5c54204618/Whoosh-1.2.6.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "53d3e424acd02b356ec0dd0bbd1e328216a10b8f36bc53d2bfca5ca838ab7966",
+        "url": "https://files.pythonhosted.org/packages/61/1d/bd4fce71ca5b64306192f9b7057b5ff211845583ddb0dc2d05014a507ba7/Whoosh-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "864de8ff05359ae31ebe49b718bb5327b8dd5f53b7b296df18aeac962849f28a",
+        "url": "https://files.pythonhosted.org/packages/39/68/aad412496bb45457f1d43d113a65168e09f2bdb0fb51ae9c88f060f20864/Whoosh-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "26fc0eb060e4e3ea47dcb6f7baab2e24ca99221e79b93456d9c2ea448f68eb9a",
+        "url": "https://files.pythonhosted.org/packages/35/01/7e380508ed6483470e4c40f95316a7620ad6ffba7c8a52285fd304da034a/Whoosh-1.3.2.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "7883152ff76de42c17516ab26bb12e9fe43478a19853937bba1beaacbc22e3cf",
+        "url": "https://files.pythonhosted.org/packages/f3/95/13fedb8f800051e7e3eb92ac5db9c398d9300ae0244296ecfb2bdef5c1de/Whoosh-1.3.3.tar.gz"
+      },
+      "1.3.4": {
+        "sha256": "7bb8219d021d07574f293b7c20f45caf291e012907e25ad185ed4dea1889a587",
+        "url": "https://files.pythonhosted.org/packages/8a/c1/39441a14def0d20a3508d7183548abb81827110fa9bf0b28d5c82fbf9fbd/Whoosh-1.3.4.tar.gz"
+      },
+      "1.3.5": {
+        "sha256": "6cedaaccab3d7ece269de3caa2afd7d0873e33fb9ef769bea54a8a7638049d9c",
+        "url": "https://files.pythonhosted.org/packages/54/68/72cac3730177706aa59c4d4417e94ab41ce9c949a2f0d9f018a8bcb26561/Whoosh-1.3.5.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "ffbc4a64671a22ced9953d837255abd9a6a59e138b02585e8bd48b637ad41b77",
+        "url": "https://files.pythonhosted.org/packages/ad/2a/5d27232612941739bae2619ee7ff63ab03fad88155c61f663f49580529b1/Whoosh-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "915f7c706ababcae89262c345afc3cbc85874291ab9a62a7de30a97f97c6070a",
+        "url": "https://files.pythonhosted.org/packages/a0/69/5dc0eb6d0022b76173dac7a5fe957751b7ef936c19944fe2ba452790768c/Whoosh-1.4.1.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "7a4a5f6858218936bf46e12d00d4a652f3602460dc2f2cac19dc562e50cf24fd",
+        "url": "https://files.pythonhosted.org/packages/d4/09/b3a02459fb499de2c2d1fecd0f510fd79f5429950ff98f7b4a086f31d284/Whoosh-1.5.2.tar.gz"
+      },
+      "1.5.3": {
+        "sha256": "7480103c0a70e77f76de5b916dc3ac6899b626289de29c81b28aa28907bd7e7c",
+        "url": "https://files.pythonhosted.org/packages/ee/a6/c384d3f49db9a96c7a3e0b27475447a493e27b9b6db2faf45f8da15b4a80/Whoosh-1.5.3.tar.gz"
+      },
+      "1.5.4": {
+        "sha256": "38cf3c7bfffe68b71f701d887209b2915351eb941dfa72cb8de431dae00eec2b",
+        "url": "https://files.pythonhosted.org/packages/b4/2f/d8ee692e0624ef83fafef70d331c1e6a1e90ca0d25fb39cc4614149eedd2/Whoosh-1.5.4.tar.gz"
+      },
+      "1.5.5": {
+        "sha256": "23c460998c74215ca3e4f324fe1c0398b1ff28f167a93ba5f5a5208a0a42d958",
+        "url": "https://files.pythonhosted.org/packages/20/84/1e3c91385d478dff9b8acb003183f676db67996d067ef9cd91fcfb74f671/Whoosh-1.5.5.tar.gz"
+      },
+      "1.5.6": {
+        "sha256": "1c2a8984f653a608b33bc127864fe2026fbd1a1b3834b00a4cb865c344085fd1",
+        "url": "https://files.pythonhosted.org/packages/6a/81/dfb202b290b2b53bc38e003a1de5d55f76573da43ae72d7afeb59e0f9af5/Whoosh-1.5.6.tar.gz"
+      },
+      "1.5.7": {
+        "sha256": "b10da10d74e8c20bd7200af389e530443b8007894f66c6bfcf34d92431796f7f",
+        "url": "https://files.pythonhosted.org/packages/b8/dd/9671132e1999a7fccdeee41ac225ba69fe374940d87fbbf32aaa5c5d57cf/Whoosh-1.5.7.tar.gz"
+      },
+      "1.5.8": {
+        "sha256": "b11800780ea0749e1eb5ce760cb799170bc01b86fbf9359633addbefcb54e5a1",
+        "url": "https://files.pythonhosted.org/packages/98/21/6283352c79457d117b0375f457d659765e4ec4c0746ec0dde88215544907/Whoosh-1.5.8.tar.gz"
+      },
+      "1.5.9": {
+        "sha256": "8e9a8aad9def7ceb0558623535f5b90b0e5038988d3fa7c35de45d690408999f",
+        "url": "https://files.pythonhosted.org/packages/e6/36/90af86e646267f7d0b3a652d7fc7d20af626ac0922f2d8653627bb4cf378/Whoosh-1.5.9.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "5b3757e05d9c77d2ed605cadb7ee7e4e4f3ae2998ad50714d694ba24d9d45d38",
+        "url": "https://files.pythonhosted.org/packages/e8/22/60ef25bfa622ce2e9c62c457c0be5027848c2c47919b8c14e5aabe1f6fc1/Whoosh-1.6.0.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "e39f94ed83bece1ea199d11939acf07b54e9ecfbe6d62f6cdc1fa631342f9cd8",
+        "url": "https://files.pythonhosted.org/packages/70/29/07b25ddad5e166c95ffdf573c8a6ee94e5349f54fd4f42fa19f06d03f2fd/Whoosh-1.6.1.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "8c200b25396f0fbeca34bbd6b31b6ef57020511a6f0374b04bc75ad07d628c82",
+        "url": "https://files.pythonhosted.org/packages/27/e8/145fa06ac1c79240cb2e4079595e528fabba90c3bf173d9d82481b47fe48/Whoosh-1.6.2.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "3246b8d473f98c7859c3ff62b34cc70c8eeb4cafe2436f6db523dece14ab457c",
+        "url": "https://files.pythonhosted.org/packages/eb/75/6c2446a88c2607cc2ce9e8b5570696d85741c610f473d2c3c708cc99f719/Whoosh-1.7.0.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "04de401183b52b6f2c23968cbe2e20b1efeca072eef100850cbc78e3b73c0b31",
+        "url": "https://files.pythonhosted.org/packages/97/d8/62fd3bcd47d532690cabe58fbed5374f7e60078c6685c5d65b9b6bf65c46/Whoosh-1.7.1.tar.gz"
+      },
+      "1.7.2": {
+        "sha256": "3271c42e9d044e8fcf49465fca8128141bc87e0409303a08424e47c589258503",
+        "url": "https://files.pythonhosted.org/packages/ad/be/f77830e5ab56e71feb3376f6dd2be40d4f0c563a27edf949aab42fc37ae1/Whoosh-1.7.2.tar.gz"
+      },
+      "1.7.3": {
+        "sha256": "e5ae5ad28794b9a76876e2922af0765001b620504d00c470946fa77f51af67f1",
+        "url": "https://files.pythonhosted.org/packages/b0/db/dd55291fe56b10095c124da5aecab600541d2682fcfe64484b1341a42d17/Whoosh-1.7.3.tar.gz"
+      },
+      "1.7.4": {
+        "sha256": "4a18ce1e9df7422f158637d96855faf0c3fa035ceb7763905b7b723497ad3f67",
+        "url": "https://files.pythonhosted.org/packages/55/39/9785e9e701d4445c40875c692200a64f3bd2393299c52a78cf60f04413bf/Whoosh-1.7.4.tar.gz"
+      },
+      "1.7.5": {
+        "sha256": "6fb1090df9cf5a9f1c120a26006180f15063a25a2954f633877393caee11c700",
+        "url": "https://files.pythonhosted.org/packages/0f/6e/3fb46a9adfebd4b46028ec6b657f7bb9f80b93904a46987de85334914a27/Whoosh-1.7.5.tar.gz"
+      },
+      "1.7.6": {
+        "sha256": "db1a47dad51d9b8820bc79098a92a7cae373dbffa3751f15ade38b14acd3b15f",
+        "url": "https://files.pythonhosted.org/packages/84/18/e4dc695ea12ad04d47762ee0526d583d6df300edb124fe4a6c38c60a87fa/Whoosh-1.7.6.tar.gz"
+      },
+      "1.7.7": {
+        "sha256": "663a2c05e1d3b67570564fe7595ffe20a9e2a05c14fca989804a4392e9735eda",
+        "url": "https://files.pythonhosted.org/packages/6b/e4/c02a40afe5c9f3c5782fdcd240b29860e55d137add8216810eb9bfc6f48b/Whoosh-1.7.7.tar.gz"
+      },
+      "1.7.8": {
+        "sha256": "d15f502ff5097f21a6d4bfaf2076e8d226151b1ddd3f5d858ff0d6506efed292",
+        "url": "https://files.pythonhosted.org/packages/ad/c8/d7fcf927311aec1c9ca2f6c0a71396c37d6fd4a0842126ec4671ae9e73dc/Whoosh-1.7.8.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "c273c7bb3b1f2474018bff0fbfb5079f51ab255fbe17d08e204a3245aa801f11",
+        "url": "https://files.pythonhosted.org/packages/35/1b/4c045beb2d5943c5ba7b676f601035122d089c05fc903a35944d8a0957ed/Whoosh-1.8.0.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "885ba4e84c5c174d61c239ca1ee5cb21b2861a4c48408ead29fdb6e462eb8403",
+        "url": "https://files.pythonhosted.org/packages/cf/ce/b3c6e11a641c45301e6a474067da86abb431cf8b78a679c98bbbf7b82bf3/Whoosh-1.8.1.tar.gz"
+      },
+      "1.8.2": {
+        "sha256": "4e622bf9c29858cf4bad1aae9bdc748077f81be9511d7035b347df361493773a",
+        "url": "https://files.pythonhosted.org/packages/f3/1c/b14fbea637441ebdbd260f111acf0d91182fa13308c99490201a3c89b540/Whoosh-1.8.2.tar.gz"
+      },
+      "1.8.3": {
+        "sha256": "cb6267b25b75564a25d10b1e7bca058dd5e08df1bfb942ed61d7a3835013079f",
+        "url": "https://files.pythonhosted.org/packages/ff/7f/d41b9970c819ee1d6d43ecacbf5d34a49dda39bc8675b941262a1698a4a0/Whoosh-1.8.3.tar.gz"
+      },
+      "1.8.4": {
+        "sha256": "52fb3a2676367b248db27d6ea7c9418912f8c442a98cbf5805d5fba4571bc5cd",
+        "url": "https://files.pythonhosted.org/packages/7f/88/50400c1b6703c9399e6767a9be357b6d72746c9224cd407d00a07443b833/Whoosh-1.8.4.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "61c3d7300be5b432bb9c8f2b9eb573b825dff530ccede7f00eeda457c6042fe0",
+        "url": "https://files.pythonhosted.org/packages/fc/84/e8dc7366267448c380b8dc510b9fc82b3bdd34b06cd2aa26a392a83c7ab0/Whoosh-2.0.0.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "bdad59f4bdc34d53580bc47851c08e9959b524edf273cb824a3a415df902c2b3",
+        "url": "https://files.pythonhosted.org/packages/36/cc/6743ad26240014ce6327fe7a80fdb382b296b250ec4d70e5edb4616ada36/Whoosh-2.1.0.tar.gz"
+      },
+      "2.2.0": {
+        "sha256": "7cbbc275d92b2cabbf18643510d4ab798a7ed899011f8b4eec42dbaeaec8dbf6",
+        "url": "https://files.pythonhosted.org/packages/2f/ac/4fc613a3f37398fa22b3a8afd3f6ca3c7299f4b921f67244bdb588d4c310/Whoosh-2.2.0.tar.gz"
+      },
+      "2.2.1": {
+        "sha256": "b8df014f8ef2d7b8b3a0f404943e04d610fb5713ccbbd8a1f8ba8ae6786c0f4c",
+        "url": "https://files.pythonhosted.org/packages/bc/84/80e421565677971b5b32c06218eeaba3764d1ffeb71493865aa0332d3904/Whoosh-2.2.1.tar.gz"
+      },
+      "2.2.2": {
+        "sha256": "6909d035fe902ab26fd33982a357d9d776eab4693a12d1277fe63bc74ea99c8e",
+        "url": "https://files.pythonhosted.org/packages/b2/e9/925fb7bc403a75068d6128e3838dff9dc6bbbc2669449780e20689067490/Whoosh-2.2.2.tar.gz"
+      },
+      "2.3.0": {
+        "sha256": "18bb918ab2b52fad4a4f3b8c6ec7780d2106a4f5658a7f3887f5be4b4dafc4ba",
+        "url": "https://files.pythonhosted.org/packages/0b/ba/621a3647c5e083870fa9387d031dac81073878c6c57c3a1f4fab090dc2c8/Whoosh-2.3.0.tar.gz"
+      },
+      "2.3.2": {
+        "sha256": "15d451a6045bffed6dfc141a72647ec350e08d218ac0f550b0120af81e5152c7",
+        "url": "https://files.pythonhosted.org/packages/cf/80/264086f2be7ad5af23fb3a027e1d5351a7ab48f08dbd7c6be156a9b54c67/Whoosh-2.3.2.tar.gz"
+      },
+      "2.4.0": {
+        "sha256": "12d55e0a844dce25a5764b1b0dedcc12fe91d2f5082ee1015fcc693acdba9198",
+        "url": "https://files.pythonhosted.org/packages/da/13/0365c35089468e2dcffc53e9763202f26da2318496f6e6c3de9dbc41686d/Whoosh-2.4.0.tar.gz"
+      },
+      "2.4.1": {
+        "sha256": "466c377ae8567aed86abef401774ddb27e80055ac34a33bd0e12d6b7db69a40e",
+        "url": "https://files.pythonhosted.org/packages/55/6c/c2ef99a8c851010b0700bf3ee036184911762b1146177be543fe17f39d52/Whoosh-2.4.1.tar.gz"
+      },
+      "2.5.0": {
+        "sha256": "7f551f39056a8b754f204171b80e708723f8bd939caaa478f6babfea62428472",
+        "url": "https://files.pythonhosted.org/packages/01/f8/277c571e79e271c3b546a75866e8953ebd28c58a2d5b951247790415dd90/Whoosh-2.5.0.tar.gz"
+      },
+      "2.5.1": {
+        "sha256": "4dd66349e19845a1c80db243b4eeabf4273676dc8aec414c597dae138513b8bb",
+        "url": "https://files.pythonhosted.org/packages/d7/a4/594ff3fcc144f4b82624a800c77465640b6bde41cd0c60b32a71869c4b98/Whoosh-2.5.1.tar.gz"
+      },
+      "2.5.2": {
+        "sha256": "69df29092d16bd5add51c34048625258efc35060c42ceabf431f6c96da6fb513",
+        "url": "https://files.pythonhosted.org/packages/30/a5/ce99e22c4ed1378c10eb335890a02222fc6e70c1b88f509a18a750c217af/Whoosh-2.5.2.tar.gz"
+      },
+      "2.5.3": {
+        "sha256": "b95cb28a3a415adfbc4bbc5f27c1449da28571a718e2710bdd2c4a9d5882623b",
+        "url": "https://files.pythonhosted.org/packages/26/bf/381708b91c201d9ce501bedc55a5246fd4908b8a618c3ec30d0967b92c4c/Whoosh-2.5.3.tar.gz"
+      },
+      "2.5.4": {
+        "sha256": "e80be2c5efc2574fe587573da7fae8401a09af4ad92f1bb8257cc6e0509d26cf",
+        "url": "https://files.pythonhosted.org/packages/50/5c/58aa320bcd5339bae3fc58957880e8ca77b913f82bb32aa4ec66853eaff5/Whoosh-2.5.4.tar.gz"
+      },
+      "2.5.5": {
+        "sha256": "c4ff29fe281d409e71736b49d88fbbac791bc1caa2b1d8ffea816ff47febf012",
+        "url": "https://files.pythonhosted.org/packages/b7/2e/7cb1131853b39f97faea68ecb6fd3d7b4cb6bc796787ac778141cf608f0d/Whoosh-2.5.5.tar.gz"
+      },
+      "2.5.6": {
+        "sha256": "84d08a49089c761df779d2ab3474d5f3d5b4782a40fbc067e8e3a507790fcd6b",
+        "url": "https://files.pythonhosted.org/packages/7a/df/4c3abbe7fc72d7169e3909c774d237f0eb89b2488828609efa59858dbdc0/Whoosh-2.5.6.tar.gz"
+      },
+      "2.5.7": {
+        "sha256": "450d3b76c45dd26ceda101ebafee181c7ab377e8ea37ff5aaca1be79227f73fa",
+        "url": "https://files.pythonhosted.org/packages/01/ee/1b66692f8e7f51da428cd9c4355675636e760213c0058c68156c7d5f622c/Whoosh-2.5.7.tar.gz"
+      },
+      "2.6.0": {
+        "sha256": "7de7bc4d00a6d051dbb360b48eb7f3cd002373d87252fb0b284a3c9c453a7677",
+        "url": "https://files.pythonhosted.org/packages/0d/cf/ca8a176f03260b1dc0d4c182e2b236a944854ccf6367b25cb04e5e5498ce/Whoosh-2.6.0.zip"
+      },
+      "2.7.0": {
+        "sha256": "cdfc0e1c5173207ac7b312afe78d83fb552cfed30427bf7b3dba8b1d26cea8f7",
+        "url": "https://files.pythonhosted.org/packages/bc/61/316c8ebc5d247a7e37876aa3b38b55d1a3cbc358e4c1631dde99aa163646/Whoosh-2.7.0.tar.gz"
+      },
+      "2.7.1": {
+        "sha256": "ccdf80f268f9b7016e933a0fbf0269f39303798d33eebff2237430fa9db68f8e",
+        "url": "https://files.pythonhosted.org/packages/04/69/92d35d7781edd112df5ec7d9d7205b202ad8a71fe364c2a71fc9b60ec5e1/Whoosh-2.7.1.tar.gz"
+      },
+      "2.7.2": {
+        "sha256": "baa11544c788ddbefc8fb48d900862fc02d48cf65e0c99f8f1984c281abad7e1",
+        "url": "https://files.pythonhosted.org/packages/9a/ac/08b11b5cadb1fdcf329032a1dffc30c051e13008bf6f548e2f0185d09957/Whoosh-2.7.2.tar.gz"
+      },
+      "2.7.3": {
+        "sha256": "aa6db447522e208ae652c6ce063bb23cedec47f5ed630121b3debaa011fcb9c4",
+        "url": "https://files.pythonhosted.org/packages/0e/b2/16034ee3678e65e1e6bce9b20a00881d36047f8879fe409d677989869eed/Whoosh-2.7.3.zip"
+      },
+      "2.7.4": {
+        "sha256": "7ca5633dbfa9e0e0fa400d3151a8a0c4bec53bd2ecedc0a67705b17565c31a83",
+        "url": "https://files.pythonhosted.org/packages/25/2b/6beed2107b148edc1321da0d489afc4617b9ed317ef7b72d4993cad9b684/Whoosh-2.7.4.tar.gz"
+      }
+    }
+  ]
+}

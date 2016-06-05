@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "2.2"
+  ],
+  "meta": {
+    "description": "Highlight/Remove chunked NetCDF files producing overlpas in a time series",
+    "homepage": "https://github.com/Prodiguer/cmip5-overlap"
+  },
+  "versions": [
+    {
+      "2.0": {
+        "sha256": "7c129757d471f71dad05248b0899925f18f59b44df50e0cedc3133714b76f21c",
+        "url": "https://files.pythonhosted.org/packages/05/1b/2cb99c9285c66d6e12bb9d0137baf5e54f9a3c397eb74bec97957fa8a71e/overlap-2.0.1.tar.gz"
+      },
+      "2.1": {
+        "sha256": "8a3dd5dc5772b8c088f4accc7868ca2b7b036dfc9a8a4cda5a3a8260e6db1362",
+        "url": "https://files.pythonhosted.org/packages/92/5d/2855cb6cf2ca561357c1cf54760608f66bbf0ff233fd113fbbd00f6f6041/overlap-2.1.tar.gz"
+      },
+      "2.2": {
+        "sha256": "436dd905b5fe4a1ddc1cfed176a842d701333b38a972c3cf1c65733ba9a70548",
+        "url": "https://files.pythonhosted.org/packages/f2/d4/d991612e217f46f7c89c3fedc7e9004d17ecab1fa75ff2035bde0199fd17/overlap-2.2.1.tar.gz"
+      }
+    }
+  ]
+}

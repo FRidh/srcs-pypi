@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "raven-sh is a client for Sentry which can be used as a wrapper for cron jobs",
+    "homepage": "http://github.com/doist/raven-sh"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "cf640f0e0f2267b856e89823b517909e3f91237c91a143d8054d8889db89061f",
+        "url": "https://files.pythonhosted.org/packages/38/5b/e5afd7c6f7e0cb5950ce923f8254a2242940bca3a1c44e123fee042c9ef1/raven-sh-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "222c7567e7f6dae6a88148b8a152b6767dbc1d16a846e35e25d0e9d7464ff721",
+        "url": "https://files.pythonhosted.org/packages/9c/66/6c8a413027b8e379d1cc2b133a573689398860422ff9f6c74d73cad73e8c/raven-sh-0.2.tar.gz"
+      }
+    }
+  ]
+}

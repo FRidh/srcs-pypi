@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "This is extended Python Debugger (pdb). It offers few very useful features that helps in debugging, especially zope2/zope3/plone instances",
+    "homepage": "http://stxnext.pl/open-source/stxnext.pdb",
+    "license": "Zope Public License, Version 2.1 (ZPL)"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "28ab4551e6ebe330c63a15590f54843dba62c5681726ec540bd76066c5408ae6",
+        "url": "https://files.pythonhosted.org/packages/86/3c/59b403bd57be594931365bcd6f241cd18058836d5c5c4b19fd7898031c07/stxnext.pdb-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "fa2ff25681895122d5eca41d16c8d03e46a8964e3f45893261be1382fb482f54",
+        "url": "https://files.pythonhosted.org/packages/23/27/8ea1475b950f034a409f80094f5de41ba0680394b619d6d8ada5faace11d/stxnext.pdb-0.1.2.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "434d845ff4b7ee1cecc94fe123d703364de83bd5159202694550d2aaaffcca11",
+        "url": "https://files.pythonhosted.org/packages/37/b1/81449551b64cf7ab6a41ffcaeec9b96c7f0a7d6f7a47990f83fde1140edc/stxnext.pdb-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "a174e3225e7f9cad8a6829c144eb4034421a1c10018c2bd71225e40f3a92c4ef",
+        "url": "https://files.pythonhosted.org/packages/ae/17/cd38693cf84681641ce22a81ce26a55fe98933d8328ece12c55f6dead10a/stxnext.pdb-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

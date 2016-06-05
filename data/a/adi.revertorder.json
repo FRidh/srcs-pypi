@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "A Plone addon, to prepend any newly created content-item to its siblings, instead of appending it",
+    "homepage": "https://github.com/ida/adi.revertorder/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "7648a597452832fffca8defb28385567f407f17c2caab9b7e0237c2fe3e3c569",
+        "url": "https://files.pythonhosted.org/packages/41/f0/a70f69e0b6569fe27b56f3e9f552d3049b1b9fd5a535750acd8536b347ae/adi.revertorder-1.0.linux-x86_64.tar.gz"
+      },
+      "1.1": {
+        "sha256": "8c484c6da4f15f8908fc36b2de2d5db159015beae31dc89a64597c6c4edf012a",
+        "url": "https://files.pythonhosted.org/packages/bc/b6/43c57393f0ea7cfc7ed4467873f2fcc749e276cc9d7591beca0f6b0a6e1c/adi.revertorder-1.1.linux-x86_64.tar.gz"
+      },
+      "1.2": {
+        "sha256": "bae61bdc40d5c293a45beeba7bfcefae86eb94f5966fdba0c6b026a368d52e02",
+        "url": "https://files.pythonhosted.org/packages/53/67/1639ed38482437aa9a818efa41b8cfcd96c54970bc73c455dd499479fbf9/adi.revertorder-1.2.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

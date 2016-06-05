@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Cloud style wsgi deployment, while keeping control over the environment",
+    "homepage": "http://flyingelephantsoftware.de/homunculus-server/",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.1-dev": {
+        "sha256": "05b0639bbcb00cd7237015844c637d0d592c0c877d94233b62514fe04f2a9fb4",
+        "url": "https://files.pythonhosted.org/packages/bf/99/9ab4b795e4097f3510a2210d07c69761c0cc61cb34d300eb89b33273ece7/homunculus_server-0.1-dev.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "707655163bee13afdbb299ab6b8bada4ca54d52b0ef8034e1d22626430b00985",
+        "url": "https://files.pythonhosted.org/packages/14/22/295722d70bab56183bc40ffb53e8c4eda1b61b6d9bf6c5a757f64a317086/homunculus_server-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

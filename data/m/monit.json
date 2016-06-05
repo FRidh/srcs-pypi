@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Interface to the Monit system manager and monitor (http://mmonit.com/monit/)",
+    "homepage": "https://github.com/polymeris/python-monit"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "3f1c84ddf920760b508704b29ed224e96b30d05b5c1b976f76e6b8b2f7e1f847",
+        "url": "https://files.pythonhosted.org/packages/0a/4e/378046ca524a022c3379bec88e2f9e5d9c6e03ac1f2c7299a843b68d4702/monit-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "34254db4372d6d3538c1dd0ac1a198963a316f2ea4b2be33fed53180c080f2f3",
+        "url": "https://files.pythonhosted.org/packages/22/b7/3370e6e7f92975f7b79f8c3cec005dc78b5fe7e793ccd8b190dd4234ea51/monit-0.2.tar.gz"
+      }
+    }
+  ]
+}

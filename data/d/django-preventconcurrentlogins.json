@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "Django middleware that prevents multiple concurrent logins",
+    "homepage": "https://github.com/pcraston/django-preventconcurrentlogins",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "7bd5e57399bbdcc6dab0de1aed52eb448f6433f45ead961b351415d22c4a1675",
+        "url": "https://files.pythonhosted.org/packages/6c/ea/11a79cce7144fa893b28d07b7386be6d1af5d2a244d1523c3b847e7223dc/django-preventconcurrentlogins-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "71b58f3e7809e87977080f7ea4774a294e1f2feb74d8471596dbef105da57513",
+        "url": "https://files.pythonhosted.org/packages/46/f3/ae402427f4ae556bbb3f8ed0e7f9b30082d43050387a3812f73a9dd3d10d/django-preventconcurrentlogins-0.3.zip"
+      },
+      "0.4": {
+        "sha256": "d8d6b84673233ebf4fe8eacfcdd2f3858c0a5f7650280dab9d97788e13ab1225",
+        "url": "https://files.pythonhosted.org/packages/43/d7/fa56878d62d7da1991bcb711601beb1198edc36d444659d0b3779f6d41ef/django-preventconcurrentlogins-0.4.zip"
+      },
+      "0.5": {
+        "sha256": "712f540220c3b94078bb9b4490c0586588ae3db8321d5a6a1546ea433e7e58e6",
+        "url": "https://files.pythonhosted.org/packages/37/a1/fdafeaf77db908289caf28420dd07656afe56288c5492925c907cc88b813/django-preventconcurrentlogins-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "715490100d55ebe107681c5e4b41414e7d2419964d7f0263c24e9ac3bf11417e",
+        "url": "https://files.pythonhosted.org/packages/b9/8c/d5bbc17ee3a9b7b0098927adbe13d3dccc95d08a8d0c5fedd1f40a508feb/django-preventconcurrentlogins-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "3ad66366e320e57e17109ded6d031696ae1d64d559ce72728c0e025e09459546",
+        "url": "https://files.pythonhosted.org/packages/82/6b/abaeff01f3181719e2e7d9393dffff7fed3dacf778003ab370dc96cfb7c7/django-preventconcurrentlogins-0.7.tar.gz"
+      }
+    }
+  ]
+}

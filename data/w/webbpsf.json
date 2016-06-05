@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.4.1"
+  ],
+  "meta": {
+    "description": "'Creates simulated point spread functions for the James Webb Space Telescope'",
+    "homepage": "http://www.stsci.edu/~mperrin/software/webbpsf",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2.8": {
+        "sha256": "b7e8ed4203c2e998c85d18b717bb14be24cd882dd1f8fedab346dd9b1f171a88",
+        "url": "https://files.pythonhosted.org/packages/8b/ee/1b1e25fd32f1bf21f23d9a597d5d70c05c9699b64f880bd27a15b30ef1d5/webbpsf-0.2.8.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "73cb2209320b6201bccc172df400ffbc24af6961bb7530ce8e074e8487cd0a3c",
+        "url": "https://files.pythonhosted.org/packages/b9/62/61aa2ebf5efe3670f3bc8bf8768305e794afe54dea7505a72244da2e9a0b/webbpsf-0.3.0.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "452932d78924e9ad13146785cc6baf3054ebab79fa66d8bdb22fcb7b031c5869",
+        "url": "https://files.pythonhosted.org/packages/c1/ad/6af0f568edf06573248161fb8e0fdcd4cba74b54714cbc562932adddf858/webbpsf-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "635a51fd05f858064b85d09cddc3380e1d2468cf7d3c8b4331645473d5b33c15",
+        "url": "https://files.pythonhosted.org/packages/7e/f4/c91ccf7ef2b3906f1144891f2602d17da5dd36c8b0d01b62d5cd7f897928/webbpsf-0.3.3.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "7718c6bd24b941b24450dedc6b0ec82e13996b372b655d778754ab93dafd7d36",
+        "url": "https://files.pythonhosted.org/packages/ac/ae/766776aac7e4a63f361422ad67d9705e633c16c0d5aad8d06d8e99a0595f/webbpsf-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "8b877bd6235bcb81d72efd6da64265b8f4b7d39c09e19ea1327d505b9d598744",
+        "url": "https://files.pythonhosted.org/packages/95/5f/c86633cd7baf7d115e0485ee49021f2c17f69212fd10f76eba0a9dfc82d3/webbpsf-0.4.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Memo is a Redis clone wanna be in Python",
+    "homepage": "https://github.com/amirouche/Memo",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "57186ea094f23851845d7309c33805a579f2887ec1176e56a61158b47e43f541",
+        "url": "https://files.pythonhosted.org/packages/2f/06/6b5c5b8c01d26e8adc91e62cc755cac02985f56ba62c096af6f0f6046e97/memo-client-0.1.tar.gz"
+      },
+      "0.3": {
+        "sha256": "fa3a11d1cdca620e62df059b54c0841885e514e42e2d0f76610e6e9c81a3be84",
+        "url": "https://files.pythonhosted.org/packages/96/95/0a7d074de87ba357584dd568eeb972e4cb9fa5d077a79863c23c5fa3a82f/memo-client-0.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.2.15"
+  ],
+  "meta": {
+    "description": "GTFS library and tools",
+    "homepage": "https://github.com/google/transitfeed/",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "1.2.14": {
+        "sha256": "5b19c52d5f2555029d4b12ccb3e3892e0dc927c06fed025dbbaac5dfe415e81a",
+        "url": "https://files.pythonhosted.org/packages/73/bc/462d02644f3d676105c338681c705862094e322924f3f4c930f8a3a8b5e3/transitfeed-1.2.14.tar.gz"
+      },
+      "1.2.15": {
+        "sha256": "0f89a3abd9337855d424d97a76a4003463c0ae9bc7c2168c7b00a79694b31917",
+        "url": "https://files.pythonhosted.org/packages/cf/5c/47297d3c475fef5fbdc0f656a96f96dfd32bbbbece2f101d3dfc4545941d/transitfeed-1.2.15-blah.tar.gz"
+      }
+    }
+  ]
+}

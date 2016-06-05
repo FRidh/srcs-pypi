@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Checks that all grokked \"view-like\" components require a permission",
+    "homepage": "http://www.thehealthagency.com",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "e99ecc95a8d4c0eebc04c79c359f3ac17584de1a714ec02d5fc208a425ce431f",
+        "url": "https://files.pythonhosted.org/packages/97/0d/ce39fe310674938a9156d0af5b7a0414394ed28e6385d43e295d7665e47d/megrok.strictrequire-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "c4c28742409c299f9e53cec2857c27671142fc742bcf3640d555499756ce191d",
+        "url": "https://files.pythonhosted.org/packages/27/18/119a34db3c82d6efd30731bde6281571f66fe7b5c9d7bb379b8a3f341f93/megrok.strictrequire-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "6af35b9f93e62a6210cfb1a36c13555edc2c649f182a9892aa5cd61f84d71546",
+        "url": "https://files.pythonhosted.org/packages/33/f7/146fad0fa94afbcccae2c6914df7362bef7a3b71f65634164fa411cbf2af/megrok.strictrequire-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "d28e29840c5682e8549d08a1b660ef9c53d09a97c9fa22ac655bb51cc996e1e7",
+        "url": "https://files.pythonhosted.org/packages/1f/e8/a893793641ae6b48be8cbda194ab4c2bb46912c9e8b24a827b58ad1bc895/megrok.strictrequire-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "83e7812080f6ebcbe83fa7883f3141cb7cfe559d8a1eb429076678198a7b8dc2",
+        "url": "https://files.pythonhosted.org/packages/f0/2a/6263d8c1122146a1ddd2d602347c886f258338144f2259e6ea2d31d0bd40/megrok.strictrequire-0.6.zip"
+      }
+    }
+  ]
+}

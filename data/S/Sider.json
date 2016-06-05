@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "A persistent object library based on Redis",
+    "homepage": "http://sider.dahlia.kr/",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "c7a6711ed582a505e9ac24ae385ffb4b2411fe650549bc7537053ba799a72f23",
+        "url": "https://files.pythonhosted.org/packages/f4/a3/7321c9774eb23d576b48036b657807edc3085af96da14612205adba51c56/Sider-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "6ecb25d6999ff3466328733cda5c521165efaaaf2d54b71390d93c199102df5d",
+        "url": "https://files.pythonhosted.org/packages/df/5a/3357146f3ca7155430c453b2650db3f5a2731d53aa7bac1f0f204679f8dc/Sider-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "53a3041ceb1cca92011cc23cb84c9b482f34053c9db55e0153a9263bc9fa4d5d",
+        "url": "https://files.pythonhosted.org/packages/a0/69/a5bddc1e431153adbd5384ee8c425d18a96e958e14a722d5441358b4082a/Sider-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

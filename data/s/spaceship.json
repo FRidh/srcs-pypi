@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.8.2"
+  ],
+  "meta": {
+    "description": "Python utility for chat and streaming files across machines in the same network",
+    "homepage": "https://github.com/antoan-angelov/spaceship/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.7": {
+        "sha256": "032305dc7cb7684c71e29811d37d92113962600b336f0a59ae196520043ea41a",
+        "url": "https://files.pythonhosted.org/packages/c4/18/726190820deab7cdd226c69c84d0aa1e41da666f3924b8fda70929937ab6/spaceship-0.7.tar.gz"
+      },
+      "0.8": {
+        "sha256": "71dd65100960622f1adf076c7df2db97d291c420b3536e14efc7d11c2ebd4dbe",
+        "url": "https://files.pythonhosted.org/packages/00/1d/2df60c9dcccd1cc3c1ed3bf00b4ddd46b71a138a428636d4a8022daf729c/spaceship-0.8.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "41d4cfc1d9a5617dbc3b1b8a57fdfae2d1b08190209ca777eabd953ee37611e7",
+        "url": "https://files.pythonhosted.org/packages/4e/0f/fd6216f03f3d9ed7011f763e2d866b14c9380356077a27fac3caa3f5001a/spaceship-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "1d7f6962ccaca488aad11af2def735de8a4b75f0a36401007c8629fd2b09a71c",
+        "url": "https://files.pythonhosted.org/packages/9c/ec/494cfc7c3a2b3a16f50cbda012e3b82d6a75417bb7fcfc7b3e0596e7557c/spaceship-0.8.2.tar.gz"
+      }
+    }
+  ]
+}

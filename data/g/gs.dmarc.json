@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "2.1.7"
+  ],
+  "meta": {
+    "description": "Look up and report on the DMARC status of a domain",
+    "homepage": "https://github.com/groupserver/gs.dmarc",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "038b0caaca7ebb26d3f4ecbda0d4dd0376cc41944addb6fa9b6803b885bf1e14",
+        "url": "https://files.pythonhosted.org/packages/d8/87/2016d18f08546eb6bc54d3721e25a6de08263c436728edac126bb1643e2f/gs.dmarc-1.0.0.zip"
+      },
+      "2.1.1": {
+        "sha256": "7a1c946e79a0d74d695e1ae9f5e3c7011973bc0ad2bfd44a35d379653724b539",
+        "url": "https://files.pythonhosted.org/packages/70/be/9da7d559fecc522d27d1227178482a012cc87b5fe0cb19e4a7cad5d517ad/gs.dmarc-2.1.2.zip"
+      },
+      "2.1.2": {
+        "sha256": "d483c8f29e48d72af4b56e11cc8acc099aa1c22303f5bb3a603408641e011a5c",
+        "url": "https://files.pythonhosted.org/packages/08/55/2bd41596d9a203536ca140345ff945ee5b726893b3e8d5407e688327ade1/gs.dmarc-2.1.4.zip"
+      },
+      "2.1.5": {
+        "sha256": "ca289637bc40d0713e725e2b6552a42c3c7e68778570aaed7ef69b3629f1bf33",
+        "url": "https://files.pythonhosted.org/packages/5b/e8/7b98ed5e0ed8417d9f76e1ddc9c110fea5f0249b24993af495d8ec3dcf70/gs.dmarc-2.1.5a.zip"
+      },
+      "2.1.6": {
+        "sha256": "b91330219ddb964769190df96958bd8d56cc6c15809f566da1ed120f8271ed10",
+        "url": "https://files.pythonhosted.org/packages/4f/fe/397356902613ce8c1c7b26d6c7d4d331861578a9c283034054f6253084ec/gs.dmarc-2.1.6.tar.gz"
+      },
+      "2.1.7": {
+        "sha256": "cf99ed1fb814adc530fa55b3a41f315592bd89ecc9f9b1736adf156ee9cdc4f8",
+        "url": "https://files.pythonhosted.org/packages/8c/51/c54bd487066ea29f60a535a453bf80f0f2423fda504e290c6475c91d8f6d/gs.dmarc-2.1.7.zip"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.26"
+  ],
+  "meta": {
+    "description": "Python code for training and deploying Locally Optimized Product Quantization (LOPQ) for approximate nearest neighbor search of high dimensional data",
+    "homepage": "http://github.com/yahoo/lopq",
+    "license": "Apache-2.0"
+  },
+  "versions": [
+    {
+      "1.0.26": {
+        "sha256": "93f5b05468b5ca3a0b6afe5b7cc54c337ab9a4346fef8445ee98a5451acb5578",
+        "url": "https://files.pythonhosted.org/packages/83/84/63b35b37bcc1335f7864e55b309dba70fcce6ec91bce46d69d4fe819ce33/lopq-1.0.26-py2-none-any.whl"
+      },
+      "1.0.8": {
+        "sha256": "53943dd29ea37f57e4d3f7cddc99c20a401fdc92b6d43e7d8859e4350ba35a59",
+        "url": "https://files.pythonhosted.org/packages/f7/b4/5c98374da0c864a6e598ca9319875b8cf2e3f4e9752508f9c6d964f975cd/lopq-1.0.8-py2-none-any.whl"
+      }
+    }
+  ]
+}

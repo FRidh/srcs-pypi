@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Control program and python interface to Waters 2700 (and compatible) liquid handling robots",
+    "homepage": "http://www.tydirium.org/daniel/py-liquidhandler.html",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "7b49aee2a9846fb65a4d849fe9573204f48e38ac9a25083fc6f72de3184a5398",
+        "url": "https://files.pythonhosted.org/packages/4c/8f/9253c23a21a51b09ffe27a5661c5129638ebf3f09818a063e888046e1a89/py-liquidhandler-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "f0996a4b00f4e75c6edc0c27515b98b3bcb0644730746834cb5560a87bd1b037",
+        "url": "https://files.pythonhosted.org/packages/a6/7f/6436be1c5be61741e84ce8ac8b57c84f1c34e28e62fe4165663e631c59aa/py-liquidhandler-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "d3b78917c824fa4d67c44a614fecbf00cf22ee35b3607a49772fe6c4a61cbeb6",
+        "url": "https://files.pythonhosted.org/packages/c2/07/f8ebed5d44d94319c6f5925ccef884644afe0f9186526987584199fa4d14/py-liquidhandler-0.5.tar.gz"
+      }
+    }
+  ]
+}

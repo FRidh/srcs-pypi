@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.6.0"
+  ],
+  "meta": {
+    "description": "Python interface to Debian's Bug Tracking System",
+    "homepage": "https://github.com/venthur/python-debianbts",
+    "license": "GPL2"
+  },
+  "versions": [
+    {
+      "1.10": {
+        "sha256": "8b67b1640ab87247677c01fe6b5aa7729dbffc3f69284c1ca860728580c0b3c9",
+        "url": "https://files.pythonhosted.org/packages/c6/53/dda1b7a2fe06737b05d38c7329f6ff24f5758b81b84afd93600d58a34d58/python-debianbts-1.10.tar.gz"
+      },
+      "2.5.2": {
+        "sha256": "308f464f13a8aafdedc7bb6d887ae55bf70660f8730e8ca169857b64dbd93f2d",
+        "url": "https://files.pythonhosted.org/packages/00/6c/61de46d0b227d8ea8727b409f2803235ddbf3b4cd2012b73bf1c59430f20/python-debianbts-2.5.2.tar.gz"
+      },
+      "2.6.0": {
+        "sha256": "10ee4def7066afdb129f4724368e079fcfd0e52c8560f9f5c469d6a88e097474",
+        "url": "https://files.pythonhosted.org/packages/9c/ec/e203d6247896400d7261e87ab3c9b40fad42e21f461aaee9f24b963a0cfb/python-debianbts-2.6.0.tar.gz"
+      }
+    }
+  ]
+}

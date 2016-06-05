@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "A mini cron library for python. Allows scheduling jobs on a single node and provides a simple web interface for monitoring and manual triggering",
+    "homepage": "https://github.com/barakschiller/cronen"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "1f2bd7f9b6271f70df3ce95b913af07500849e1c8b63e6db226b613c608d95ac",
+        "url": "https://files.pythonhosted.org/packages/34/bf/902248c62368634cad4a3929a00cfb4a6923c8993d6acf0e5127e2d99b51/cronen-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "e785f2da005e66e40feb500037fead35522704490699aa4acad50f0e5309ef51",
+        "url": "https://files.pythonhosted.org/packages/e1/cd/64e3e45d30d16857e41c8da22ecfc90cf91dd7e1d176d453f076e6bf5da1/cronen-1.1.tar.gz"
+      }
+    }
+  ]
+}

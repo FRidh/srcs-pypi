@@ -1,0 +1,114 @@
+{
+  "latest_version": [
+    "1.4"
+  ],
+  "meta": {
+    "description": "A configurable set of panels that display various debug information about the current request/response",
+    "homepage": "https://github.com/django-debug-toolbar/django-debug-toolbar",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "7022017769694432c4ec51729b80bfc90e3079d116036033f5a4ab89d42d9275",
+        "url": "https://files.pythonhosted.org/packages/0c/47/44c019565a3448228d383539c36dc4ddd791c5384a242f9bcc91efc06a4b/django-debug-toolbar-0.10.0.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "5805c63d8e5b6b9655b495da5e8f83badbe7ab0266d6ea38ed9b445ed05a8946",
+        "url": "https://files.pythonhosted.org/packages/dd/f4/7b04ef5630074ea37e089f804c6ca36ce573c87f70dad49b7f5b51ec2c6f/django-debug-toolbar-0.10.1.tar.gz"
+      },
+      "0.10.2": {
+        "sha256": "e6a2eaaa08ae11e8a4a63c0fd39f7e71700477bb4bdaf7b8564fb7ed5ef3ba7f",
+        "url": "https://files.pythonhosted.org/packages/6b/88/34b6892ec05d30f7acca895daf3f0e4d20df742d08fa823307a2e05e620b/django-debug-toolbar-0.10.2.tar.gz"
+      },
+      "0.11": {
+        "sha256": "584efacb64fb71853494b6877c4be0de434e355e35f541a3015d5061bce20f62",
+        "url": "https://files.pythonhosted.org/packages/81/8a/68d19d1536733eee5269b6537321d085e8694fa82992bf14769c7c1eebb7/django_debug_toolbar-0.11-py2.py3-none-any.whl"
+      },
+      "0.11.0": {
+        "sha256": "c2fec4dc6381e60a07f1587831277a5f85bdcdc880f275e28be5093b8be47e29",
+        "url": "https://files.pythonhosted.org/packages/ba/08/389108b258193cdd0c8992444250a837921ed48967f510ad201671cf514e/django-debug-toolbar-0.11.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "2a91bda4435b06043958acbdec7ecbf6e41f53672f757b9d30d9b5a34f3ac72c",
+        "url": "https://files.pythonhosted.org/packages/3e/9c/7b583782144605e7ec466ef2ed9265c43fc1bfddc3d68f8c86ce2cba7fe0/django-debug-toolbar-0.7.0.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "842e7af1e4de836ecdbf46c75d483b9aff89a8583fa784a09b7717dd590bf601",
+        "url": "https://files.pythonhosted.org/packages/fe/15/9a50a4fcaa5e519e1f3ccf0e18268a46d3b054d36585af11d3e0f2ec7333/django-debug-toolbar-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "9b7318e36100fccb82e2b26058515f7d22f9c8dd09eeb425bfa6a83fdb996296",
+        "url": "https://files.pythonhosted.org/packages/fc/90/340ccf72a039a6df1c629daaa3a511d91c32b8ca10d60e1e72c34fbefd53/django-debug-toolbar-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "8bc85fc56f498135392a84c534aa1ad007c1fcb37b970896f055459740de17c6",
+        "url": "https://files.pythonhosted.org/packages/cd/c6/d19cfb2260d302e8c9485992f99738792ee7a445fb467a14d707cfc70e70/django-debug-toolbar-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "2403bb5613433177ecdfe0d2d4bba2e8ab43c532a926f5927096ac23310cde4f",
+        "url": "https://files.pythonhosted.org/packages/30/be/90bd1e02ffb6d3ced121a0870c1b49554f7974f94b83724fe91893ca729c/django-debug-toolbar-0.8.3.tar.gz"
+      },
+      "0.8.4": {
+        "sha256": "c97638ef837a7469f1008d092bbd5ecbbd7d7d8a98823dfff1d87d2b0be741b9",
+        "url": "https://files.pythonhosted.org/packages/92/44/1e4c4fe6d4c7aded9eae33d1abe3f1572529002c3bb6dc9ef4d2925354ea/django-debug-toolbar-0.8.4.tar.gz"
+      },
+      "0.8.5": {
+        "sha256": "b1a18349944e0f3b3fd5c9d66bbe4ee49e8ccb6b7f22685b7883a481dad2a70f",
+        "url": "https://files.pythonhosted.org/packages/35/fb/e3a604d0842fd84edb1aaf25788a59f6e4d7066910de9bb2e216a2271e85/django-debug-toolbar-0.8.5.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "cb3a7c8eba99bc0cdf48b6de618caa2c3b82fdd6af2a4f72a5bb3e37a493f438",
+        "url": "https://files.pythonhosted.org/packages/30/02/51777b8dfca4e957f706083080b8418c3ea56d5e0393d4ecc47f49af6714/django-debug-toolbar-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "622912de269208d83ad33c3c9d872041bd8ddabfce90ed2afebb8befda31a8a7",
+        "url": "https://files.pythonhosted.org/packages/03/2d/28ea8a69bddc9e49e32e815fb457c2679b1e8ac72632b89edaad1d189464/django-debug-toolbar-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "3c67a3309d319e566ff481a02a55d9c57b30f50a8922e5a8754bd6b4feb935d4",
+        "url": "https://files.pythonhosted.org/packages/d1/fc/649d6980ef3a1197bd1b3055ea3a473d8affdc3c3b4919f9bdcf1b4f933e/django-debug-toolbar-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "d6bc217b672ddf0e729f76da2df1d4a50d45f1c934239851f7f7ae6a51201f4b",
+        "url": "https://files.pythonhosted.org/packages/ae/af/53e26c4d191ab58653e90ea7eff69277025fa0428eb6540690c0e3727f28/django-debug-toolbar-0.9.4.tar.gz"
+      },
+      "1.0": {
+        "sha256": "440feb5f50b0457fdb788f58f6fe10af31515d12dd83b421a5455438281fc39e",
+        "url": "https://files.pythonhosted.org/packages/49/dc/3b1cc99c2dbf502b07a595d8951d6a076ac420d9614a2496c98db0540d13/django-debug-toolbar-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "535b1e0176a9d955601aaba3271a148368d7710569403fbc77e5299cf097c18a",
+        "url": "https://files.pythonhosted.org/packages/02/cd/2c3ded6dc5bce8b4eccad9c209f7ee26c3b2f5a274c121e4cabeaa1338b1/django-debug-toolbar-1.0.1.tar.gz"
+      },
+      "1.1": {
+        "sha256": "8a4df84f9d50da3b8480be12cf41ea85223dd0dacbecc460755049aa47c968d1",
+        "url": "https://files.pythonhosted.org/packages/06/df/a7a78feddfbb7324fe74686bd5a0524832ff79007374f9dc7506de13b8ab/django-debug-toolbar-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "aebfe38efb040921204b488c65266aef5f48b94a914fc8bf74b30a1b56949b90",
+        "url": "https://files.pythonhosted.org/packages/0d/1d/8dce2aabb99fb8a762b11caa0e80d50f3cfd17d0908368c93fddf2567250/django-debug-toolbar-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "257492c846f6ef5047134fa224c6037af0d034b75e770e6dd262e0f86306e342",
+        "url": "https://files.pythonhosted.org/packages/32/f9/551ca4b5ecef8510ddb823ef5faee715acbb59d71dd87509ce050c9a6b5e/django-debug-toolbar-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "e94eacc996edf11abba372f0dc03e9d8f1d00889fd29e8935c4e9bbd9ba2afdc",
+        "url": "https://files.pythonhosted.org/packages/c8/b9/62b736e46cec03102cb0da3574fd9bde25be616df0d67eeb46f1089b8329/django-debug-toolbar-1.2.2.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "f3bab7aa4d257516cccaede9c1c4431b55773462332e86700bbe86ab4be80e4f",
+        "url": "https://files.pythonhosted.org/packages/03/b5/4a9a6f372025b69cb03e1b14975b2098a49a78495a305cc8e9dc64d9dd51/django-debug-toolbar-1.3.0.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "6c1353b68a158642e14860f7278b81755e87bbda89e353673862c9079475d103",
+        "url": "https://files.pythonhosted.org/packages/c3/d7/2a2afd4b17e1fe316febd9804d6ccc916e9519f0ea6f3bd579c6c48f3b8f/django-debug-toolbar-1.3.2.tar.gz"
+      },
+      "1.4": {
+        "sha256": "0cbae8760f4851d480a70b72ace5b075f8191ecf899bc97427715e50fb0e90b9",
+        "url": "https://files.pythonhosted.org/packages/eb/08/501be174c3edbddf0e276b96971d2399c3b4d9c57df28189358e6668c7ad/django-debug-toolbar-1.4.tar.gz"
+      }
+    }
+  ]
+}

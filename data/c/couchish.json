@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "Couchdb library that includes reference cacheing triggers and consolidates updates",
+    "homepage": "http://ish.io"
+  },
+  "versions": [
+    {
+      "0.2.1": {
+        "sha256": "73dd9c2ddabefc3fedf016d251b896e51181171bd7225684c7bd60d6fed23a3c",
+        "url": "https://files.pythonhosted.org/packages/af/d6/997ffe158f079b1d6f21a0029fdb1b4e0ec666506c8babffdaeb5556ec33/couchish-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "3950308bac2a011632c1aa126f13656234ed9142b97c345e13b5a1ef51b4811f",
+        "url": "https://files.pythonhosted.org/packages/b4/63/f0b36ce8b22496e9d2bf894058ed82d200cb6995df0081f336637bc8e47a/couchish-0.2.2.tar.gz"
+      }
+    }
+  ]
+}

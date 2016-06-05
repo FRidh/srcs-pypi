@@ -1,0 +1,226 @@
+{
+  "latest_version": [
+    "0.3.21"
+  ],
+  "meta": {
+    "description": "Pure Python implementation of the Spark RDD interface",
+    "homepage": "https://github.com/svenkreiss/pysparkling",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "00fe2444a914a1e465668caf428b666c5434b90923a74ec88dd2c6b69976e497",
+        "url": "https://files.pythonhosted.org/packages/63/aa/2d77f827767c71984f3160f6d372e80341b8d25f885bad2594a55bb376f5/pysparkling-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "684ad52f3c4cfc4e78edf22d38787da92509ca88067c00b1fd8dbb352b469494",
+        "url": "https://files.pythonhosted.org/packages/e2/2f/30c8bce572c3c613372ebb417f99c24c7ba8d552f1391d3d955616e81062/pysparkling-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "2e797a7a802b44cfaa44f4374821f794d4ccecbcd1e4408f8c7c4d3588e7a920",
+        "url": "https://files.pythonhosted.org/packages/c0/ea/64a143be3fca256a5e5af1d266001f7ab9282166df762e054bdf370c26bc/pysparkling-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "c7ed2562620cfec8b16ab796bd1b64cb8495180acbc711b50445e5c70b724c37",
+        "url": "https://files.pythonhosted.org/packages/f5/b6/c8a08c3d5475d774c83e2f4cbadacb22b708c3e7383320a3a47962b4951a/pysparkling-0.2.1.tar.gz"
+      },
+      "0.2.10": {
+        "sha256": "262b0147fe6361961f2d60e2d12697915983937722e417b28deb7d4a9c146270",
+        "url": "https://files.pythonhosted.org/packages/7b/ef/b4fe55a87deca8abfb46d5393a40b495f09137233ebd950394665a414da2/pysparkling-0.2.10.tar.gz"
+      },
+      "0.2.11": {
+        "sha256": "fb516b910ae54950f7c21378c9f50f40656208d3c759a861d085f43c70681ace",
+        "url": "https://files.pythonhosted.org/packages/7e/69/c2f00f39039c91def5ea6a4a7700a25880069deb1173579cd688f494ae48/pysparkling-0.2.11.tar.gz"
+      },
+      "0.2.12": {
+        "sha256": "13fe40cc7688c18ace57693f0332b7ceddafe97051249bbf4be87eaef15774bb",
+        "url": "https://files.pythonhosted.org/packages/a8/a8/79008b836e6fb3b4cfe4e8cf9b986c096ce0563b1d13a2fdaaf35009786e/pysparkling-0.2.12.tar.gz"
+      },
+      "0.2.13": {
+        "sha256": "8756f31dae17c0809403bee653ff9ad43e9f41d32903d3e8d0831b6325b5de88",
+        "url": "https://files.pythonhosted.org/packages/2f/f4/2c931a2957a83489e1e3f03d8cead714b2d7927f1d939ac23f9efba2e52b/pysparkling-0.2.13.tar.gz"
+      },
+      "0.2.14": {
+        "sha256": "7bdce7d6accf4dff3f9cadea7268445697ed15d26536df282e50722444fee271",
+        "url": "https://files.pythonhosted.org/packages/c1/49/f0ca61275f60fa02ba8e66520dd5ac709e3b225e494b1fd6599950c33ff2/pysparkling-0.2.14.tar.gz"
+      },
+      "0.2.15": {
+        "sha256": "eb28dce3619b588c890174ecccaa74d350c4fa8ca799214577e8dc1c74248219",
+        "url": "https://files.pythonhosted.org/packages/b4/b7/dd03eab620ac0d050a0b5c1eed6c1370c72a71be49c23809480e2bd61d11/pysparkling-0.2.15.tar.gz"
+      },
+      "0.2.16": {
+        "sha256": "ea1bf682258cbdf4b216d0bb461bc5beb7f1c60243a33d67ae092d52c9971cbf",
+        "url": "https://files.pythonhosted.org/packages/4c/6a/49a7ca85b2536a5b704124a21f9be746a483faff1f15f080e77b2bc8051b/pysparkling-0.2.16.tar.gz"
+      },
+      "0.2.17": {
+        "sha256": "54cc7e2f71a0d9902b8ae91c6c720aee1ffc749a3196ad34eeab768036c6bd68",
+        "url": "https://files.pythonhosted.org/packages/58/1e/0e38c274bfcae86f2f22d66f0375197fa6d64a31e91bf2ff404b6d044cb8/pysparkling-0.2.17.tar.gz"
+      },
+      "0.2.18": {
+        "sha256": "cfc9252ea7e4253d88673a644bd0a0991e5a70448d4c8692fa82f829347e82c7",
+        "url": "https://files.pythonhosted.org/packages/97/17/5f3db0a148dc76f4b42c9bf0125e219d45be56549f81d83795be05cc569c/pysparkling-0.2.18.tar.gz"
+      },
+      "0.2.19": {
+        "sha256": "c0a59865449673fe99e2d91817a3e490692a28ab2011a45f42d97af82b6f4801",
+        "url": "https://files.pythonhosted.org/packages/47/ca/9b44ccf601fed207065d28fb020bf61b4fc0e1bd59727024972950884049/pysparkling-0.2.19.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "845f9d9f1b52be9ae391b6143595f1dd6d086927bfc5687e57f49609a2edb6c3",
+        "url": "https://files.pythonhosted.org/packages/b2/14/99d1ff7593965524754d46a875c7f24b29b3ac8847f82fdd3ac37605ba99/pysparkling-0.2.2.tar.gz"
+      },
+      "0.2.20": {
+        "sha256": "6ad35de867f89674f78060a9b85debce45e5c29c60fb269792cad27cc3b428d9",
+        "url": "https://files.pythonhosted.org/packages/f3/6e/2c834464beeb6d8e3e9ea6e42a3d0f09e6e0d4ed4a5dea00d03d52f4071f/pysparkling-0.2.20.tar.gz"
+      },
+      "0.2.21": {
+        "sha256": "c4168c021f732be28f1acd4f39c82b51d59c176cf9d7d3b922ffb1d37c0c9a97",
+        "url": "https://files.pythonhosted.org/packages/3b/01/d14545a0aac038a285cd4734c9c34834b37dd2efbedcf0389872270f4617/pysparkling-0.2.21.tar.gz"
+      },
+      "0.2.22": {
+        "sha256": "b0aeb0458fe6c835ac15384322c50abcc1922e29db42f1c163a727e61ed77f52",
+        "url": "https://files.pythonhosted.org/packages/80/2f/1d93c6a571fe7ce5708b8431aef111469349e280ef081fb9dda6955e3ea0/pysparkling-0.2.22.tar.gz"
+      },
+      "0.2.23": {
+        "sha256": "de22f7b608dc8ec0ac755f753704bb0701fc9221b2afd118550e0980c764c0b9",
+        "url": "https://files.pythonhosted.org/packages/7a/f6/3ae59ded75316268e9c88f45e0f737987cc83e9b11a9cd1294f3aad3ddd0/pysparkling-0.2.23.tar.gz"
+      },
+      "0.2.24": {
+        "sha256": "dfa9191c38ff9f8fc4a6eaf94c0ded2d4e2457a35f46b90fcf36e150debfe9ed",
+        "url": "https://files.pythonhosted.org/packages/47/99/a6d358ba9165cc2e86af2a64577d67cf208b217153e135b3c99098968bb9/pysparkling-0.2.24.tar.gz"
+      },
+      "0.2.25": {
+        "sha256": "cb4e727bfc741b7d06a0d23649024c8755706ed72b2811041c2ff1cf8e0498e9",
+        "url": "https://files.pythonhosted.org/packages/4f/60/b682410bdcdc1e0a5a6ba0fa02a5f10a9bf91511158ea83342c1a7f20c57/pysparkling-0.2.25.tar.gz"
+      },
+      "0.2.26": {
+        "sha256": "017ff877970b37717286321ef311744425b030840b87a03d532bc873335386d2",
+        "url": "https://files.pythonhosted.org/packages/dc/c4/fbbcd3ca8992bb66889604dc64920e04f9eeeb06dd45e2ddb1ebac63cf8c/pysparkling-0.2.26.tar.gz"
+      },
+      "0.2.27": {
+        "sha256": "ff581669bd8388fb3cfba32cf341066ce41da8f6705226901d53ec71609eb091",
+        "url": "https://files.pythonhosted.org/packages/d7/c2/9cfe1bf9d666c0f68e95c9117724a2c8d13cb27b9036ed8b54c2448cdf42/pysparkling-0.2.27.tar.gz"
+      },
+      "0.2.28": {
+        "sha256": "a7202efd39440fa9246d661f8cce816716da87d95579793349ce1ef3df3e651e",
+        "url": "https://files.pythonhosted.org/packages/a7/12/bf59c97f8f76eee08cb8f3ab88e73da0ae748a64bee0125584e9cd73a1ce/pysparkling-0.2.28.tar.gz"
+      },
+      "0.2.29": {
+        "sha256": "d504a5320646f52da2855965122dd350f780dc12e44aae258b199ec19149c31d",
+        "url": "https://files.pythonhosted.org/packages/aa/84/74465e9dcab0021017e258d5d64e9e33fda7711717162b23cf01c90913cb/pysparkling-0.2.29.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "955fd187698a6dd15d786dacd3e87858eb9fe5918cc0b7913d7d027421295e95",
+        "url": "https://files.pythonhosted.org/packages/b1/31/b3a8c78f6a78ae27bda9fc9bdb9e9e53cea9e25edb662f0a9e6894296ae0/pysparkling-0.2.3.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "647b3a0318583deb864a96e7d7430039b07b5b671194ea9ed513e44cc9e86b42",
+        "url": "https://files.pythonhosted.org/packages/5e/29/6a3418d8115a3135e952f4ff84e7b73d99e17d92def5ed2a0dedb53a45c3/pysparkling-0.2.4.tar.gz"
+      },
+      "0.2.5": {
+        "sha256": "6dcc8c2d91f542df520aa72babc2fbaf894c33f5ad5fff8b5a1668f9ec995c50",
+        "url": "https://files.pythonhosted.org/packages/96/a3/17846fe23b90cd09c86f5d13090a18fb7b97e4f1a44200ed9c81450e2a20/pysparkling-0.2.5.tar.gz"
+      },
+      "0.2.6": {
+        "sha256": "3ea366903021dbb07879808c9d514e2f81d86bc6cbf2181045adcb773f56c29c",
+        "url": "https://files.pythonhosted.org/packages/7f/f7/edfe77579574f6bfc2fc7ce08a276971f49e65bea37e01bd1bc98661f329/pysparkling-0.2.6.tar.gz"
+      },
+      "0.2.7": {
+        "sha256": "4b886ef5191d05027e3a1fa864cf64943a47a4939bc9cc5d5f1430e946d50411",
+        "url": "https://files.pythonhosted.org/packages/13/49/3c4d53a2044e3c5da070e85a8e16595be797a2d8a6d2d7c78cb4c3ef7ddf/pysparkling-0.2.7.tar.gz"
+      },
+      "0.2.8": {
+        "sha256": "69b32de7ca363cc7e1e5502845bfb9bf40e00240c169283f836069fb5dfd2da7",
+        "url": "https://files.pythonhosted.org/packages/16/ec/e72d27bcfc0c3bacaacd88d2296b00083aec961d0a7110c6745f1ac4db2d/pysparkling-0.2.8.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "fbc41baa8ce96ecf9d1ff6131ee6c0d252226e785a34351745e7f32c2fe11e02",
+        "url": "https://files.pythonhosted.org/packages/42/16/e05a6e125e96aad07f0982079196489a595ec35d42da4d67a07f8a578e6f/pysparkling-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "d061376644ca65189842ea277016fdc8eda302435869cf3fb6a1b6f9e655127a",
+        "url": "https://files.pythonhosted.org/packages/50/f4/17306fb21556cda297ee6cac4795818806848ca87804fbffc9885ce91ecd/pysparkling-0.3.1.tar.gz"
+      },
+      "0.3.10": {
+        "sha256": "6218567dfb26291de2b708eb758e31e0e2b79a9ffe9bd6af9bd140c2fc68ddc4",
+        "url": "https://files.pythonhosted.org/packages/2c/f6/ebe76d1fab171f8aee0d9e4b2fd26ded51466d254e3bd036e60642ee5d60/pysparkling-0.3.10.tar.gz"
+      },
+      "0.3.11": {
+        "sha256": "625b372df7ae088631fc0d763df880b8af0a3ccf794b0607e4b48c8570077d2f",
+        "url": "https://files.pythonhosted.org/packages/50/de/7ed01179bbc4f4c7f82b273e56b24b8ab924f69d91681e6745f9dff71181/pysparkling-0.3.11.tar.gz"
+      },
+      "0.3.12": {
+        "sha256": "54d847fd2f1a3da6574c89d34eb4a9299197a29fa25d7f13591e93c6258d5f51",
+        "url": "https://files.pythonhosted.org/packages/04/0d/d223e285656edfc37a80427c1585e5935680b8c1c17e402ab9fe45fcebc5/pysparkling-0.3.12.tar.gz"
+      },
+      "0.3.13": {
+        "sha256": "3e6bb051a6258480ddfb38a8e0c4a001897cbd9cdab4998130639b4d6a0af734",
+        "url": "https://files.pythonhosted.org/packages/83/90/32cc195152dd7becdd1ff7d22caff77b4a6cca90bfda66311060dd011bb6/pysparkling-0.3.13.tar.gz"
+      },
+      "0.3.14": {
+        "sha256": "9d2545291dd2d37d987c7911d892685177dcd0584d35b7e5693d8d9541203f5b",
+        "url": "https://files.pythonhosted.org/packages/bc/52/e951984333ecc44c89445163ad6064af4d51a005bc35a08f501ea00218f5/pysparkling-0.3.14.tar.gz"
+      },
+      "0.3.15": {
+        "sha256": "a06eec674b8535efaebe45a3dea4330c5cb8188a9168a2516351cc949a82a505",
+        "url": "https://files.pythonhosted.org/packages/0c/3e/141ede7928283205c1e63c3b4ebef6155680df257d93379be241d58831b9/pysparkling-0.3.15.tar.gz"
+      },
+      "0.3.16": {
+        "sha256": "a646ce5fe63636de54271c34d2a3fa069d5e7551429d018b5c1f236b04ff75ee",
+        "url": "https://files.pythonhosted.org/packages/d6/88/0a2b29b4fd27e1666424b85091801a70d2d8e439a7145ba67278509c5555/pysparkling-0.3.16.tar.gz"
+      },
+      "0.3.17": {
+        "sha256": "cefada0edeafdb036b7382e71f9dad3507115cae8dafaeede207d6de5039941e",
+        "url": "https://files.pythonhosted.org/packages/a5/d3/abb5a1e7f5f1a193bac0870a108e33100a10249bb8f65d66cbcae56f3f03/pysparkling-0.3.17.tar.gz"
+      },
+      "0.3.18": {
+        "sha256": "16e367febe47377524a314abbeb397e6f47b697b3d0747d053cbb16822ed56f5",
+        "url": "https://files.pythonhosted.org/packages/6a/74/7b34194cd9f238d40a331b9aeb6de2cddefdca84999628d84e624316d487/pysparkling-0.3.18.tar.gz"
+      },
+      "0.3.19": {
+        "sha256": "e304ef2638cf439f03fdec988a94957d7071c272ed45ba93111d3f1f96f667e2",
+        "url": "https://files.pythonhosted.org/packages/e2/d7/828a8ae3440029e248f2b9f414d075a71e1af341e485c70c1489949f4d54/pysparkling-0.3.19.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "e84e813bb82e734bc8031f7a9d3560eaa1e29f5b68d6d81ecad5ef9307f57835",
+        "url": "https://files.pythonhosted.org/packages/39/ea/327656b68e6d2f5db637e891a9958fbf7b70d790562d953015368df5b5c3/pysparkling-0.3.2.tar.gz"
+      },
+      "0.3.20": {
+        "sha256": "ccbf35b9ad7addf7f9e9398974bfccd08a5bdd86ca7dc5d72b29dd3ac11602c7",
+        "url": "https://files.pythonhosted.org/packages/bb/f1/d6b3c26683e0236580f67b38c32241a982706b9ac4072158136dba388a2f/pysparkling-0.3.20.tar.gz"
+      },
+      "0.3.21": {
+        "sha256": "2bd0dc550951f548f700ddcd7263e6d4e38aaf6d94d5d7b45bb747dfa02e35a4",
+        "url": "https://files.pythonhosted.org/packages/c3/d4/722a562e9af0c0ab6f496ae74fcdfa2b665e5c742b2a1101fbc4e48908ed/pysparkling-0.3.21.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "a8abc77f38586c21c51b972e2a394345a4547c3bf94b43f805db52d0915982bb",
+        "url": "https://files.pythonhosted.org/packages/eb/7f/99906aaf613f4129c1d7338af898b0e72dd2e55efc5955cec2981378710e/pysparkling-0.3.3.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "b8e219e51dc9a2fa30183eacea201809df8760074d80f81cc0d8c1fd7dc4eb00",
+        "url": "https://files.pythonhosted.org/packages/73/ac/e2ec0f020d351dab407a66562cf8f6e25fb9b9b920501b9061efc191fafa/pysparkling-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "19cd423c9c4b99af47b1b617d3e82b3d76cb3d257acb440286d4b3370ebfd230",
+        "url": "https://files.pythonhosted.org/packages/d1/c4/8c5ed5cc69c34c46885b12877c1750a6369417c8cef4dfcb528d5f387913/pysparkling-0.3.5.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "6f251216daf8e5c566380eb91eaf17512abcbc5de6e42a5d1acbf988df7bfbf3",
+        "url": "https://files.pythonhosted.org/packages/3e/44/84645e276d136eccd2de1a4ae0418ee1ae27d4a16dd090bb71c5f0140578/pysparkling-0.3.6.tar.gz"
+      },
+      "0.3.7": {
+        "sha256": "5557aa3e5d1e491c540ef7fdc7e9ccd4291682b31e305d43b402915c14ac8cf9",
+        "url": "https://files.pythonhosted.org/packages/bd/3b/3a49670a26626e96d50f0c15f5fbdb988a6fc1e6371e775febeb74ef6bf0/pysparkling-0.3.7.tar.gz"
+      },
+      "0.3.8": {
+        "sha256": "0b51f3b861681c30c2e1af4f314bae5c33e96b466a9e1de35ebd66a7c99a2520",
+        "url": "https://files.pythonhosted.org/packages/9a/6c/5a688c9178c797225623c5e5562533d2fa9710eca55a38af06ee4e2d5a1e/pysparkling-0.3.8.tar.gz"
+      },
+      "0.3.9": {
+        "sha256": "cc036221f302d487d960e91823f7d2906bac33972422726b6dc0578a35d3e61f",
+        "url": "https://files.pythonhosted.org/packages/19/89/1938ac340c8ed874e50383b796307c15a2d0fb883e9965fa6fad2bdee250/pysparkling-0.3.9.tar.gz"
+      }
+    }
+  ]
+}

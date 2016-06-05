@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "2.6"
+  ],
+  "meta": {
+    "description": "A web-based translation tool with tight version control integration",
+    "homepage": "https://weblate.org/",
+    "license": "GPLv3+"
+  },
+  "versions": [
+    {
+      "2.1": {
+        "sha256": "8936d7d08209d5b59d7d40b579f45faeab216535515ea9752d72acebb6f15e97",
+        "url": "https://files.pythonhosted.org/packages/6e/1f/5e49646f99acf704e23f8796e7039534865202ec5e35a48e8e114aa3bc30/weblate-2.1.tar.gz"
+      },
+      "2.2": {
+        "sha256": "bffcb67f8abb4047e89baf7760cb3931a3ccaf581e32c7408ab25563c91ff253",
+        "url": "https://files.pythonhosted.org/packages/56/48/f2ae2cf703d8e5d488a3562824cb096d3f992e524a3717746d821f25a258/Weblate-2.2.tar.gz"
+      },
+      "2.3": {
+        "sha256": "152c7bf7109b71134f97620a4fb48c39480ac9aabd406737b7e872f8c4278bfd",
+        "url": "https://files.pythonhosted.org/packages/7c/58/a851fa12181f1590492d0857640f6b6b85fee297ecac8c1f99e652bd95df/weblate-2.3.tar.gz"
+      },
+      "2.4": {
+        "sha256": "4451d09bee0dc4bd0e5bda57f61c9f7aa2bf0a1867463c6bd9561e1fee1b85bb",
+        "url": "https://files.pythonhosted.org/packages/a9/67/2f7a7bfb80112eaa4bf1fdadcdfdc89cb28d46ddb971014e4df3f61fe3eb/Weblate-2.4.tar.gz"
+      },
+      "2.5": {
+        "sha256": "114e492fa21232d942a64cacb5bacf4335ddb096b90336b36bbc7947e8741989",
+        "url": "https://files.pythonhosted.org/packages/71/0d/b11677ef0f38a1674fbcd6925621ca4a7da65988cf98bd17b2e8ab1df585/Weblate-2.5.tar.gz"
+      },
+      "2.6": {
+        "sha256": "d0ce1d63391f4daa3b929a13fb651b0dc91e9580e93faee2a88bfbeac83ce4bf",
+        "url": "https://files.pythonhosted.org/packages/bb/21/f6932bcd76724b56ca85cc456bf10299907b24e34d46622548c3e5b437ce/Weblate-2.6.tar.gz"
+      }
+    }
+  ]
+}

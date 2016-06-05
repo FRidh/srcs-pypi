@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Convert Ruby output of older Hiera versions to equivalent Python or JSON data structures",
+    "homepage": "https://github.com/marthjod/hipy",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "975de814d583101bff5a15181f02d4008c46641daf9c972715976675656f9567",
+        "url": "https://files.pythonhosted.org/packages/14/64/3061d51bfa2c5ff6d51428941148cdc8071e4c07908dfd9ad9fb6270ce98/hipy-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "1882193c834448bb4a282530ecdd45eb8b790f829db6057c450efbfdfff435bf",
+        "url": "https://files.pythonhosted.org/packages/ac/5f/68649ecfede8e94ca9fd7af576cef7adbdb8a548d0d3fc0834703d1d9710/hipy-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "9e0cd47556842f1615fe3cfb3eba1261f77c5de417e27e1eed16074dd2461432",
+        "url": "https://files.pythonhosted.org/packages/ee/c7/49a74e68c61192276f94a45929081ae3fa9f42530ad2c3e85d9db4580f2f/hipy-0.4.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.1.2"
+  ],
+  "meta": {
+    "description": "A python wrapper for analysis of RNA-seq data with the popular tophat/cufflinks pipeline",
+    "homepage": "https://github.com/xguse/",
+    "license": "GPL 3"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "ad538cc632ea39a08aee18246cb1f9a157ca2cef4ea56d1bbd5a17e502f83994",
+        "url": "https://files.pythonhosted.org/packages/27/7e/e26d951e2a951cddab81609358448ed51cac18d12083f25a31481669d087/blacktie-0.1.1.tar.gz"
+      },
+      "0.2.0rc1": {
+        "sha256": "f7fe29989788ab701969d25ca6dc8783913f149ce0d70289dd020aa4a83adb85",
+        "url": "https://files.pythonhosted.org/packages/4e/04/4e7e68ec3ada6fa951af1817ac8f7e83ebb84e83d29f605536af0988426d/blacktie-0.2.0rc1.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "ffd70c8eae7416e2be1a8dc93a0291c4e2d916b9d4a2f158acd4021ad5e0e916",
+        "url": "https://files.pythonhosted.org/packages/8e/fc/bd7f12c1ed14849698f31a8b9886112854f5fef81aa866e813d5dd718689/blacktie-0.2.1.tar.gz"
+      },
+      "0.2.1.2": {
+        "sha256": "4b12ed6f2aabf5d627a41a517b28f6a588df46eebe24f080e84d04074fe705a9",
+        "url": "https://files.pythonhosted.org/packages/e1/f6/a0ade5907be44eb0ff943f369e50607ddd3e05843e23f641a46f62c6e801/blacktie-0.2.1.2.tar.gz"
+      }
+    }
+  ]
+}

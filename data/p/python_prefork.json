@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "parallel processing fork manager inspired by Parallel::Prefork in CPAN",
+    "homepage": "http://github.com/taichino/python_prefork",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "0a92a7312b5bf498fd20dbe0325fb574f8cf72062efae1d3c393515aa2b622ba",
+        "url": "https://files.pythonhosted.org/packages/e4/9a/31d9c88424f5da086069307058efd8220f9bdf7abd5a62b48e8d78fedb2e/python_prefork-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "caade93f2043b423d8f20e3737cedcbd766b589741099f0010468ead85fc4b1e",
+        "url": "https://files.pythonhosted.org/packages/81/f4/45531a8f8919f5bf9d839527101b827c4f2828415e88ac93f9f124facc56/python_prefork-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

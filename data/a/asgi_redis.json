@@ -1,0 +1,50 @@
+{
+  "latest_version": [
+    "0.12.0"
+  ],
+  "meta": {
+    "description": "Redis-backed ASGI channel layer implementation",
+    "homepage": "http://github.com/andrewgodwin/asgi_redis/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "03f4c6abdb8525fdbfe2a41a454db53b37574d9621aa30b3e595189a70a44c49",
+        "url": "https://files.pythonhosted.org/packages/c0/91/b1dd29ef462a8b8f55cff8ef320b04030d546541175371d618f0bec603fb/asgi_redis-0.10.0.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "f98245534e6d4f8d74c096c29481613305a99c197c100c66513e31da5d8d97b3",
+        "url": "https://files.pythonhosted.org/packages/c2/c5/9889f43bc17d0f602031ebd8066320ca6a7fa443fb8e65d3284699944d60/asgi_redis-0.11.0.tar.gz"
+      },
+      "0.12.0": {
+        "sha256": "fcb74640eebe18e334f68072be21f83f67b4e5bc92e9012386fed46761ef3f3a",
+        "url": "https://files.pythonhosted.org/packages/0c/15/c1775e9c2fa0ce426b5344a0acd2718e92053237372cc9e6e5116bbdcca9/asgi_redis-0.12.0.tar.gz"
+      },
+      "0.8": {
+        "sha256": "9f134946434c583f0425bfbb04b4dd884636e2b5ee90c6acf8dd4c357d6a70de",
+        "url": "https://files.pythonhosted.org/packages/9c/6c/3db668835832bc24c7b7da3a7ba01fd79082e34c19fdb8ff866b52c67499/asgi_redis-0.8.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "5194e518039bf6b4ad7166e790592eb74cb15cb41f6f66bca78e0fd9f4a9c43c",
+        "url": "https://files.pythonhosted.org/packages/c5/d5/c1961e7b7ea68072f8a8321180aa74de05d60df437d479c4da7ed672cb7a/asgi_redis-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "075fdfc14f36e258ed5dd1631883560c6f776cc4e3cb7ba4c897f3fa734c0759",
+        "url": "https://files.pythonhosted.org/packages/12/d0/819ca3b4e97b1640310b8f1dd1e63906b9a913de97764f547c08eb2b2ddb/asgi_redis-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "ee58744ff2357ee4d688973263e4e885a2120215300826f0a1e5c2ceb64b9b12",
+        "url": "https://files.pythonhosted.org/packages/2e/52/07c17753edfb69996bf6d18c7fbbb19196ae9db1d84d7ae586bd6897813c/asgi_redis-0.8.3.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "118dd81df7b0766ad9784bd0214a24ea4b09b3f4523226d111023f820f3d738f",
+        "url": "https://files.pythonhosted.org/packages/bc/f0/bb002d3e7fe2ad0235278ce09c978d5d889f4ae2be0e2937c5b6c0164758/asgi_redis-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "f81f9fe2ce6667e02cfbd35af2f027140b620ff8c2e7541169140608155feee1",
+        "url": "https://files.pythonhosted.org/packages/8c/7b/e830b323359f7ca07c45230cdab31335819b5a03d1245a9fea01f7a3840d/asgi_redis-0.9.1.tar.gz"
+      }
+    }
+  ]
+}

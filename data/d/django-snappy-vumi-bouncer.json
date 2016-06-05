@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "A Django app that bounces messages from Vumi to Snappy and back",
+    "homepage": "https://github.com/westerncapelabs/django-snappy-vumi-bouncer",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "4b433b60be4904c631b24690143007cbedc4f7793e3fac3d3573daf24a844fe6",
+        "url": "https://files.pythonhosted.org/packages/91/bd/bf84c8148cd0fa16fc2059761fd2e745ce591f0d483ca256f648156e3115/django-snappy-vumi-bouncer-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "53c8b948e70e15f6e7ed022750e2ac12939227533038f22f89f7f2a481eb5d8f",
+        "url": "https://files.pythonhosted.org/packages/0f/7d/517413a244f954c513659efd247d4e313ec140ade2af81d736c9c31c1f17/django-snappy-vumi-bouncer-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

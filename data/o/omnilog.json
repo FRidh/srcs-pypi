@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.9.2"
+  ],
+  "meta": {
+    "description": "A remote log watcher daemon that uses ssh, and multithreaded design",
+    "homepage": "https://github.com/sandboxwebs/omnilog",
+    "license": "GPLV3"
+  },
+  "versions": [
+    {
+      "0.9.0": {
+        "sha256": "28466745a356488108698e9f521e49efee5f1acf93cabca40cd674dfbe48e48b",
+        "url": "https://files.pythonhosted.org/packages/21/aa/8c580aa37a2f8cba0ccda002b7bcc31b15b5dd5835ec5929b8d9b893fd8c/omnilog-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "bc9258d1a3d5e0230e35b9112017046738fa4f1ed8439e8244e061fabaa3563f",
+        "url": "https://files.pythonhosted.org/packages/4a/b8/4f82aa31dc43fe1fac2f7e762a4387ec5a64a4ed5397a5b050f11bab0b50/omnilog-0.9.1.linux-x86_64.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "0cac270c1b8e0471cb1cbbf48e5cd9746c4dff531cb005e57d578027bc4132c6",
+        "url": "https://files.pythonhosted.org/packages/02/77/5f05e077522c9b4bfaf03c10f5fa37dc3a586f488dd8289821e785ffef2e/omnilog-0.9.2.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

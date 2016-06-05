@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.0rc6"
+  ],
+  "meta": {
+    "description": "Docker layer squashing tool",
+    "homepage": "https://github.com/goldmann/docker-squash",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0rc3": {
+        "sha256": "36bf14d1885e2bf93f43f1bcf87d94aba1f3c4f1f77d8c32733943e4a3b73dd0",
+        "url": "https://files.pythonhosted.org/packages/4b/ce/3a20e1a33c5a934790383b202d06351688c815c3cf8df7c3b1e85dc8523f/docker-squash-1.0.0rc3.tar.gz"
+      },
+      "1.0.0rc4": {
+        "sha256": "20c5457a2b43ad4d54cd7d00a38da1f353ddbcefc51a7c8d2fcbf728cfb42b4c",
+        "url": "https://files.pythonhosted.org/packages/97/68/015e9cc2ee01d86921ccb58693e5b9188f5b5267b9465a1ce7781a1420a9/docker-squash-1.0.0rc4.tar.gz"
+      },
+      "1.0.0rc5": {
+        "sha256": "49c7a2de55c90336e63e74300202141c40110ceeabf839b10d351e0a8332440f",
+        "url": "https://files.pythonhosted.org/packages/c2/d8/552181a1f8333e7c5015d89c11e3b0250bf9ab4fd6070457c2091e29d862/docker-squash-1.0.0rc5.tar.gz"
+      },
+      "1.0.0rc6": {
+        "sha256": "b5d16e6c60501696b53f943a27524d93fbb2e23b1313297d009a45b7eecdfe86",
+        "url": "https://files.pythonhosted.org/packages/74/eb/cd7a38615a78c1d1e014a082899e6559388c5296165c4e35bfaab0f0bc7b/docker-squash-1.0.0rc6.tar.gz"
+      }
+    }
+  ]
+}

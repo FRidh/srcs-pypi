@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "3.1.1"
+  ],
+  "meta": {
+    "description": "Difio registration agent for stand-alone Python virtualenv applications",
+    "homepage": "http://github.com/difio/difio-virtualenv-python",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "2.0": {
+        "sha256": "27ff75ec7646cf25eff133a63c3b99822c1a313134c327b243cc834a04639ba2",
+        "url": "https://files.pythonhosted.org/packages/aa/97/cde8dc923044a4b9d6962741dce91580b7ca9b2e737b25911c188c269d39/difio-virtualenv-python-2.0.tar.gz"
+      },
+      "3.1": {
+        "sha256": "59e11f00d19f3345c6339fae2d9391ea05bf21db0444725694558872e160db78",
+        "url": "https://files.pythonhosted.org/packages/2d/f2/591a8899ec0d1627671ec3d18e27612760d006e200496dc251a3d8a5f628/difio-virtualenv-python-3.1.tar.gz"
+      },
+      "3.1.1": {
+        "sha256": "f92750906d2fa73df14674e464bf1f9d595f1a2796719fe48979dd1d36251cbe",
+        "url": "https://files.pythonhosted.org/packages/03/44/34bf83b5b9e1788d19f7313d11152433a3e551f1bda3fc475c76bdf68e8b/difio-virtualenv-python-3.1.1.tar.gz"
+      }
+    }
+  ]
+}

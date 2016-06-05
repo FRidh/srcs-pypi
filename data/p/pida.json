@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "0.6.2"
+  ],
+  "meta": {
+    "description": "An integrated development environment that reuses tools such as Vim, and all version control systems",
+    "homepage": "http://pida.co.uk/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "feb902299473153d6f721143ea0da157054df30de375fa36d4f089aba05a6a4c",
+        "url": "https://files.pythonhosted.org/packages/e4/5c/7dbe7bde91a22643d9f7fb423291627b97048d39e1bbb54214bcf7115113/pida-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "92ee36549001a2185379e5524d04588da31b86ea5d6fb92bc56dd8ca474e2710",
+        "url": "https://files.pythonhosted.org/packages/40/bb/f0c68e93eef78ebb26f2a268cc1b3c630d616e9e6eef30ef24de98dedca4/pida-0.3.1.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "b19b5a02da6156d1928643b8f054cfc3ab94f2e4bb7f34636f26ebc9c0f7ff7e",
+        "url": "https://files.pythonhosted.org/packages/2a/eb/392a072bdb7beafb83f8e52d80cd4c8cb1125911b55e00220e00f6f1158a/pida-0.4.0.tar.gz"
+      },
+      "0.6": {
+        "sha256": "2aaa2cb585f5fdf06cccc24f83dfb12910e1c14b21813f12c9f785b95d8b988d",
+        "url": "https://files.pythonhosted.org/packages/66/98/46d1907e9a29f962ff769894cc29f167492c088f3165cb4493c768672e49/pida-0.6.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "dc9c0a77fc4b8e25e4517e594a1837bb8114f99fede4586c1b3c139010302f52",
+        "url": "https://files.pythonhosted.org/packages/50/2d/b967fb76b48c406fa7211010b9c5c6ab179f109dbd5e10713f76b9205009/pida-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "f8476c9a36399b525a18761b709c204ae3f3c4344a4334b726d4ddccfca17a34",
+        "url": "https://files.pythonhosted.org/packages/47/70/abb5fae71af6f86c4341b0f5c1ab2163cb48b47259a6f86ddcecae27e2d0/pida-0.6.2.tar.gz"
+      },
+      "0.6beta2": {
+        "sha256": "85bde54d5781c86ab4c7c307a57b0f81eb6c86aa29b401286c4959c5d2802158",
+        "url": "https://files.pythonhosted.org/packages/10/6a/a1dbfa77e2160e709431635790bd77c724862b334455b02e023179430db3/pida-0.6beta2.tar.gz"
+      },
+      "0.6beta3": {
+        "sha256": "81d823f6f8ce69686e38b1414f3154d20c5f0411cb272bbb34ae031b90cb327e",
+        "url": "https://files.pythonhosted.org/packages/d2/13/de77dfa620c652da8c14921e9156ec22cb9c702ca455c0fce8ca07f25655/pida-0.6beta3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.1"
+  ],
+  "meta": {
+    "description": "About\n=====\n\n*aco2sass* is a small python script which converts photoshop `.aco` swatch files \nto a list of the corresponding swatch colors formatted as SASS varibles.\n\nThe implementation is based on the file format specified by `Adobe` here::\n\n    https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/#50577411_pgfId-1055819",
+    "homepage": "https://github.com/vinilios/aco2sass",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "1caeffbe17a4162128cfb205c42a09e5ffe9774dd881b6706d8c96724ac1e8c2",
+        "url": "https://files.pythonhosted.org/packages/21/49/9f5f58dfa8dee0b5ba4511bc1adca812f753d61c1899caaa8b2935efa6ce/aco2sass-0.1.tar.gz"
+      }
+    }
+  ]
+}

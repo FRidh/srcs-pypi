@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.5.1"
+  ],
+  "meta": {
+    "description": "Convert serial device to tcp socket",
+    "homepage": "http://www.cs.earlham.edu/~charliep/ecoi/serial/pyserial-2.2/examples/tcp_serial_redirect.py",
+    "license": "GNU GPL v3"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "cfc295b855a3a0bea7b089952185bcb6b2c93372d463e26c22b1c73d666a0ff5",
+        "url": "https://files.pythonhosted.org/packages/f8/da/be1f8060c70779397f9332ed459c83b88872162727240f4ec4a2cc319e92/serial2tcp-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "dc185a692f4e574d77d46fd17b3dfd9bb15387c054216da8870e1d893ff9db96",
+        "url": "https://files.pythonhosted.org/packages/e5/80/843a942aee4acf02d506fb495ea83d9aeeeea105af3eef981558761c649b/serial2tcp-0.5.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "latest_version": [
+    "2.5.6"
+  ],
+  "meta": {
+    "description": "Template tool for putting up the scaffold of a Python project",
+    "homepage": "http://pyscaffold.readthedocs.org/",
+    "license": "new BSD"
+  },
+  "versions": [
+    {
+      "0.0.0": {
+        "sha256": "d2bf1e6920b1810368fd9400e83b03b8abea3dfe9ad96a9dc2920b2aca9b0401",
+        "url": "https://files.pythonhosted.org/packages/b8/5d/37d6f252253facc6cd383c866cb465f9e43a9ae7263f803b072a43e7ed48/PyScaffold-0.0.0.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "fbb18e2ceb2dd5b07adcd0db0a2f3fbfeda142894ea016cc6791f45f989817d7",
+        "url": "https://files.pythonhosted.org/packages/4e/73/3ee2a5ab1cfa057434c33d6226d24a3c117d2df56aa948621603026b05ed/pyscaffold-0.1.2.tar.gz"
+      },
+      "0.2": {
+        "sha256": "4e8f9a3de669db3c42d1295baf9bf54d3ea684e748d2f862234a1e8796fa9089",
+        "url": "https://files.pythonhosted.org/packages/e8/f8/bd5829d7a7d8be1ff387a3f60c61e77ac6dc33d3d4c980997adbe91aafd9/pyscaffold-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "9961a6277c79c1f00485913ee543b75a21cbf82217248ab0bf3da36295b54860",
+        "url": "https://files.pythonhosted.org/packages/75/13/72c90ebc42764878a7eba3e0982bf80d2a58dbae0d030015dd09c2e935ca/pyscaffold-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "433fd1ff0b556dbdfe15d59d22340ecd5723e89e8a12fc113a68e2d0d44f6705",
+        "url": "https://files.pythonhosted.org/packages/d0/5b/257fea91304a65634b62d846c2c4cf414cfb2386e8672abd45e51944790f/pyscaffold-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "c87717eecd20ee5e82dddaab84c48826427c80557eb0e07b2c6137cc5074aac4",
+        "url": "https://files.pythonhosted.org/packages/61/8a/42a92412d7addaf29d1af8abfc179e3998dcacaffe5aa5424d9392693abc/pyscaffold-0.4.1.tar.gz"
+      },
+      "0.5": {
+        "sha256": "61a49f0523602d49ccd2b55ac64be9cae8e2414deedac52ee2f1c03831a2ae8b",
+        "url": "https://files.pythonhosted.org/packages/b3/69/5c151f3e01c79d831d9c3788df9eb4b77025c4f1bf6636aa618f1a397b70/pyscaffold-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "32ddaf76eebe20a0c51821320602c0052c328ab3e3565f9e1cc2fbb30c662bfe",
+        "url": "https://files.pythonhosted.org/packages/4b/9a/6ec2c6c0c0305a39908bafe0371ec4aff5756e5a3489659d881c8c543268/pyscaffold-0.6.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "b1e2f3712406bcbfb1178c5c021c287e2a5e1a91112f9d53d1be533f5a7f4c79",
+        "url": "https://files.pythonhosted.org/packages/de/f7/739262a8e295e733811bc7bda52b682fdd4cea1a3f7cf5566a12d5f7309c/pyscaffold-0.6.1.tar.gz"
+      },
+      "0.7": {
+        "sha256": "6b65997875a890a39ff4ddf4cd56bd044b89eb1236414b72121b98f2c4584efd",
+        "url": "https://files.pythonhosted.org/packages/16/c6/3bee568a1a2c661d009b0458c79a497fff56af59c2017c116f020d69e72a/pyscaffold-0.7.tar.gz"
+      },
+      "0.8": {
+        "sha256": "0ec231f8580ba8a91e0009de587a4511760b5004fb7880361a38258c9a1813ee",
+        "url": "https://files.pythonhosted.org/packages/e0/3e/7c84fdcb26af71370e06ed9d4905822c72fc22887964ea2cb794a40b11c1/pyscaffold-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "b1023fafe375baa6fe1193657b8a0e65b74e9be601ba9b0b315676b006bb199d",
+        "url": "https://files.pythonhosted.org/packages/6b/34/a4c4004472b6359ba2726a0904867acbdb8b5445f06a03a6e384e11f6de7/pyscaffold-0.9.tar.gz"
+      },
+      "1.0": {
+        "sha256": "e048ab91081c28619b06739196ae20f449f78ea27b29e4698323a4997a215a1e",
+        "url": "https://files.pythonhosted.org/packages/a9/1c/a2e4920e88969477e2d300d1c64596f2496f242195e26449638ab01eeac5/pyscaffold-1.0.tar.gz"
+      },
+      "1.0c1": {
+        "sha256": "de906ac19a1ee9c045c56bfed1ac0935e137f8d51128312d60ff19fbfdbdf2b8",
+        "url": "https://files.pythonhosted.org/packages/7b/25/29df782d9302103fc00bc03312cd79666d339a379dcb60e2beb2d29001df/pyscaffold-1.0c1.tar.gz"
+      },
+      "1.0c2": {
+        "sha256": "bc72db4309dfdcb8ed7e12273c89edbe7cf1fca06d83adfc51ee1d3bdf2626d8",
+        "url": "https://files.pythonhosted.org/packages/f9/19/b77c6aae448ad00a0596347d33d999efe75b33f4a8350453702442e773b3/pyscaffold-1.0c2.tar.gz"
+      },
+      "1.0c3": {
+        "sha256": "5b909fad9f01585408a0829bcdac0d1b68f0dac9ae47f3a96e54b4989c652301",
+        "url": "https://files.pythonhosted.org/packages/9a/60/8b9b326c5a138070d936026914c4c939794d40a0fca3acba61b12aa8e86c/pyscaffold-1.0c3.tar.gz"
+      },
+      "1.0c4": {
+        "sha256": "c1a53688cb2cd8f9b6c0b5028dce54a62e6e6d7b76f6f0f79be40cbb85d7a568",
+        "url": "https://files.pythonhosted.org/packages/99/80/1b4b1a3ddce763df49745750d9f86cf4d9f466eb97a8d104407aeb1bcaa1/pyscaffold-1.0c4.tar.gz"
+      },
+      "1.1": {
+        "sha256": "5503ddb3f515a346db7cd5d4dfac0d2a4d7ccd09608e051d262634eff3b71c05",
+        "url": "https://files.pythonhosted.org/packages/00/9e/0c1b4a368ebca0f20619a5e116cff770be1b85d7cedf4a2f5de22635e659/pyscaffold-1.1.tar.gz"
+      },
+      "1.1c1": {
+        "sha256": "099db6a5882e412666f8bb8d3fa489def48f31853bd01af5e283bdcbf41df1aa",
+        "url": "https://files.pythonhosted.org/packages/79/e8/e5d50cca9063c4e7d826687aac686ecb4442437159bd79f0e897d82e81d8/pyscaffold-1.1c1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "5c59c8233b9cafdf4122d554e4d5011f2f7f2dfce2952e02e7858753941a6440",
+        "url": "https://files.pythonhosted.org/packages/7c/ea/2d50e8e7e38a36504e46918966310cdf46ac35e76eb39e326c905c00e923/pyscaffold-1.2.tar.gz"
+      },
+      "1.2c1": {
+        "sha256": "3f3825168ce24c802b5061cd5117e352a3321cfcdef85eb96e98ac6ff751d6f1",
+        "url": "https://files.pythonhosted.org/packages/0f/04/bfbf9735fff8102c71e8f7ac42e35783552ab403ae10be914f702bd2e589/pyscaffold-1.2c1.tar.gz"
+      },
+      "1.3": {
+        "sha256": "7fff36fbc59122b32f25a7cb4eb541bb8704fc5edf4b43c1213befc613c250fe",
+        "url": "https://files.pythonhosted.org/packages/5e/cd/317cb2cc9e70afb0d6736ce0a391c51e27622f8d3b7bed894c1bcc6bfa1b/pyscaffold-1.3.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "794259fb2b35252b94084d602a4941425032b75156c30a94c3ebab5905781f53",
+        "url": "https://files.pythonhosted.org/packages/f3/d9/07c184f7e0c32ebb5fbb20f37acf3db6106b531566379ba92c5a993aabf3/pyscaffold-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "68b49c8a0535c6b50682b8d6a7aaa36cec4156de4010a805e49ffbee1b0eaa39",
+        "url": "https://files.pythonhosted.org/packages/fe/cf/4e3d12ed9426e21451e7e916ef2b985c2fd85c28457f3fd9739e8f1dc377/pyscaffold-1.3.2.tar.gz"
+      },
+      "1.3c1": {
+        "sha256": "e8cafd6dc062bfe968a11ba6f8f3a2b58db2c89cc752408034211897e0e61098",
+        "url": "https://files.pythonhosted.org/packages/13/4f/623c8e8a27214b0cecba21bbf9550104c1834d022ecd76f1493d230b5432/pyscaffold-1.3c1.tar.gz"
+      },
+      "1.3c2": {
+        "sha256": "dbf6a51e5a04525bff7d4464fe001e0bfb07381214fa397dd24dcfdabd9bd4a3",
+        "url": "https://files.pythonhosted.org/packages/44/e1/61e0b028f9a37f312adfe5bf355cea66e26fe190fa599ef0e44fde0d71a2/pyscaffold-1.3c2.tar.gz"
+      },
+      "1.4": {
+        "sha256": "e2d66cebb3ee3122face2389716f973fa98772808b852a51103ecccb84e51039",
+        "url": "https://files.pythonhosted.org/packages/1d/cc/e4adcd8d6e9c6f53ddf4ae9cc8958cf586991d616bbdfc76d8afe064be7a/pyscaffold-1.4.tar.gz"
+      },
+      "2.0": {
+        "sha256": "a03a61849252528b79650c00e536358450c9aa482dc67b4344f2653b77e8faf7",
+        "url": "https://files.pythonhosted.org/packages/cb/46/ceafb2d0335829081953b7084eab919de8c835dd6258893c0576d6521685/pyscaffold-2.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "76e84c8b561755b339b12f2af3bfa903c79b1ce3d9f63cfaa5959cf96f2a6f99",
+        "url": "https://files.pythonhosted.org/packages/d2/bc/45482a223ec26c5e36cb893eb4ec1b69629f021a4c55dc36af50cc4be7bf/pyscaffold-2.0.1.tar.gz"
+      },
+      "2.0.1c1": {
+        "sha256": "5d5078237c35931a4ed07e5fc9d7143c011f7c568727d504f23a042d530179b8",
+        "url": "https://files.pythonhosted.org/packages/91/03/7f3841e12f664a07bc8888744a33ab96930f20df544329a6b6cb87c3c627/pyscaffold-2.0.1c1.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "75b6a3c012e2d05606fe963daf0528de9d113b45bd8af61e8718d8f1047dbe33",
+        "url": "https://files.pythonhosted.org/packages/ed/45/e476f12e3ffe32cb693afd2e9cbe759f6b0b401d4baf17b4693c04e9c5dc/pyscaffold-2.0.2.tar.gz"
+      },
+      "2.0.3": {
+        "sha256": "0341748e8fde849954d40cae3989a9a3a432d235854d7e3eaa87584b9dd92c88",
+        "url": "https://files.pythonhosted.org/packages/e4/e1/4c6b42a958cf643a5204d46ebd21ad82e93b4fd50318a9f9d0fdb91f45b0/pyscaffold-2.0.3.tar.gz"
+      },
+      "2.0.4": {
+        "sha256": "b2ea1ceabffd0b10aead9c88100c49de94b12080cb78745f776ca424859bc552",
+        "url": "https://files.pythonhosted.org/packages/a7/ff/1d4132bf477e463ecf2c3dab81bf659fad4b1604942a648bc74bfa264b1a/pyscaffold-2.0.4.tar.gz"
+      },
+      "2.0b1": {
+        "sha256": "bdab2398b656f86144c807e97071a379fd1dd311d253e25ffa3b06247f9a8fa5",
+        "url": "https://files.pythonhosted.org/packages/d2/57/eacd8838c1b2c273877c6266fa82d26a633cf35797cddf46b56fd23f9882/pyscaffold-2.0b1.tar.gz"
+      },
+      "2.0b2": {
+        "sha256": "97c33908e64474d8d60616d5cf10316eb0c74cae6b62fcd22e1362e54e8112da",
+        "url": "https://files.pythonhosted.org/packages/68/bd/f9c13f1ecdc1d8de33377c9df06837bdd4c7b1a143518e5cda51dae02d44/pyscaffold-2.0b2.tar.gz"
+      },
+      "2.0b4": {
+        "sha256": "3d4ab708f0b49809049dca170ad5b865aa6827c60628d55894e5869f4600b174",
+        "url": "https://files.pythonhosted.org/packages/90/a0/22a9f1c6ecb94e20b26909a3f838178d87c0092d93b2ec5340cd3d95c0fa/pyscaffold-2.0b4.tar.gz"
+      },
+      "2.0b5": {
+        "sha256": "60c13ee4f336796dabd6908c6506b9665115b597dea7ba6c98daa729ca0bcbab",
+        "url": "https://files.pythonhosted.org/packages/01/19/c26a8108611e9c7c18517b884ae5823ec5f3410d5487a0c16fa82ffb6a9b/pyscaffold-2.0b5.tar.gz"
+      },
+      "2.1": {
+        "sha256": "85a44ff780b573fda65d49488f39af29ba1ab05240a7b6845f594d585290ee6e",
+        "url": "https://files.pythonhosted.org/packages/95/05/85305d3305865e98d3ebb1f80396f7a2a7939f44b8aa63272abae435930f/pyscaffold-2.1.tar.gz"
+      },
+      "2.1b1": {
+        "sha256": "a81008468d5324edf1d29603d0ef781796a4271ed9204f3e0014355f660d2340",
+        "url": "https://files.pythonhosted.org/packages/3e/87/ac5aaaaae163b6d4bac9d0270ddfd1b928418356b3b5568862e73a347925/pyscaffold-2.1b1.tar.gz"
+      },
+      "2.2": {
+        "sha256": "e9231f36650a324f92d7f270394807b5d4a46c9482f78fcbdf8936ecf9e14fac",
+        "url": "https://files.pythonhosted.org/packages/d1/07/6f8481f1c0c79c4de9299bcbf8a46e9160b67f8f21e2a0d616754bd341f6/pyscaffold-2.2.tar.gz"
+      },
+      "2.2.1": {
+        "sha256": "0e1449a56550ff2740dc94e902f5d5d9118758bae226b737a7702f3c4df0c26b",
+        "url": "https://files.pythonhosted.org/packages/e9/a9/23079f92dfc488097e5d4c602e29247b27e4fdfaf1a0b7b1333e5ebc5156/pyscaffold-2.2.1.tar.gz"
+      },
+      "2.2b1": {
+        "sha256": "59d1f9cfb9e3ae28dcef097203bb4d15536c9d82c7c814f337c7ac2cd3aca7aa",
+        "url": "https://files.pythonhosted.org/packages/62/62/4b282775ca1691a8393a3a1c198f29154f70d00f34a96990dc7a4fd479cf/pyscaffold-2.2b1.tar.gz"
+      },
+      "2.2b2": {
+        "sha256": "9b8fd3cc0b3041c91dac91fc35c3631200c331d960232fceb22e69be86c4ec46",
+        "url": "https://files.pythonhosted.org/packages/53/5c/d8d2423d3458f538ff2b19f66cdcc8d80eeb1ea35693af9dbee3e2ab674d/pyscaffold-2.2b2.tar.gz"
+      },
+      "2.2b3": {
+        "sha256": "efc853a37d92d75aa312e1e3eedcc189c61bc326650414272a9d78711a4c9c7b",
+        "url": "https://files.pythonhosted.org/packages/5c/6d/a9a7b7baa42d7ec4c6746c87a254c9771f06d5b48dd5964070241dedbf5b/pyscaffold-2.2b3.tar.gz"
+      },
+      "2.2b4": {
+        "sha256": "324e0429fe0618f88e7304faef3868933c8e2e8b51ed05326b27e19ec02a3b28",
+        "url": "https://files.pythonhosted.org/packages/59/21/2c6077c702c52b438755910d578242006cad9476b7531a5c9b16b196d974/pyscaffold-2.2b4.tar.gz"
+      },
+      "2.2b5": {
+        "sha256": "5f39f10fd5ac1f19830fc1a2c14edabc2dc2c914c9c5dd9471e69649b6a3e77e",
+        "url": "https://files.pythonhosted.org/packages/78/db/6f68bae8e3101df79a4308b2429297d0750b4ad61321119342e03b6b1f0b/pyscaffold-2.2b5.tar.gz"
+      },
+      "2.2rc1": {
+        "sha256": "fdebc2f0f24e2db8fca11cac1d4e0f3c30a27125edc629e678d4ec687e191b42",
+        "url": "https://files.pythonhosted.org/packages/2f/9c/55ea65d8aa1878a86fe0ee74145e0672e1c4c4de6360d774f3ed70541311/pyscaffold-2.2rc1.tar.gz"
+      },
+      "2.2rc2": {
+        "sha256": "1078f7a2c3d8b44618d2102b0ad8745a0ae921324edc416a5a0c19e794396756",
+        "url": "https://files.pythonhosted.org/packages/4e/f8/5915afceeecba104546a9fc76df8e51014204ae69329eece03b7acc39271/pyscaffold-2.2rc2.tar.gz"
+      },
+      "2.3": {
+        "sha256": "507364f28926e9b482bee057eaaba85d1d1d132a9e1282de7a0f9b19f740c8d8",
+        "url": "https://files.pythonhosted.org/packages/30/ba/f5bf015aaad6af331e5d9c521a50f07f3e9c5c114c30521750037ca6e36b/pyscaffold-2.3.tar.gz"
+      },
+      "2.3rc1": {
+        "sha256": "3fde1d4bdbc75837c44d1bb4dff0e27ac6ea382489b98e5992384a5f869ea532",
+        "url": "https://files.pythonhosted.org/packages/32/77/950881255c6c36913541c6ebb939df4d2a3787a26a635d62f6a8857e3998/PyScaffold-2.3rc1.tar.gz"
+      },
+      "2.3rc10": {
+        "sha256": "07d05b7c5dc661ebd81a4d27540ca4f2843fe21a9ae897dd9d05536174d88905",
+        "url": "https://files.pythonhosted.org/packages/30/ad/1b39c89ea4b5d7c892f41ee1522a554aad9e40f5550b53048414844d8621/pyscaffold-2.3rc10.tar.gz"
+      },
+      "2.3rc11": {
+        "sha256": "b4971b2e68589402d81beca41f48db17b366347d0aed1af696e007dc6dcd4a7e",
+        "url": "https://files.pythonhosted.org/packages/b6/9a/6ef1e078dbc8519191774d274baf4a974cc5f150ef37d0d78873e4ed4d61/pyscaffold-2.3rc11.tar.gz"
+      },
+      "2.3rc12": {
+        "sha256": "6b624f5687723c8df1412ba210e9ae9fb0407f76d28e3c0584e351c39f78074b",
+        "url": "https://files.pythonhosted.org/packages/cb/3b/b18efea94254be7cf04583ac86ae0c9681165dd4a56348ac06b9c6c4ad8c/pyscaffold-2.3rc12.tar.gz"
+      },
+      "2.3rc13": {
+        "sha256": "d82ec16627074ca811684eeae367a4827b6bb6fc8a1ec2972712bc1f0abdb65d",
+        "url": "https://files.pythonhosted.org/packages/b0/e7/31ebbff6ee87132f2ba8b54b0829cdbaf20b6a06894bd7cbb8feb93c6806/pyscaffold-2.3rc13.tar.gz"
+      },
+      "2.3rc3": {
+        "sha256": "718073478d1df06eec69ce9a6a3575979a0285a8687c8b88cb46e88c29668807",
+        "url": "https://files.pythonhosted.org/packages/db/d1/2feddfd2dd175f7aba60337d20637593c174f6638465e273c12ae06bb3a3/PyScaffold-2.3rc3.tar.gz"
+      },
+      "2.3rc4": {
+        "sha256": "c33590dcd58c82f65b495951618725f4067a967f661d9416f0db438888d11858",
+        "url": "https://files.pythonhosted.org/packages/db/89/93020c01501ca2e4eef02ac48044c96a5eed059db1c5985d32578c3b3503/PyScaffold-2.3rc4.tar.gz"
+      },
+      "2.3rc5": {
+        "sha256": "4af8751eac0bcd3e1326fbca606b2e765e286c81d88f67307b60173934fb1e5f",
+        "url": "https://files.pythonhosted.org/packages/5e/5d/b80a495f55f04cd942f8394891bc116a63690420c8c47dba6dbdd2786473/PyScaffold-2.3rc5.tar.gz"
+      },
+      "2.3rc6": {
+        "sha256": "04ee02e66d42c316c59931339a49177b513e2b44edb32eb5d61c244adf17fc2f",
+        "url": "https://files.pythonhosted.org/packages/4d/dd/a4b7c3e3f7cc92cfbf192c06719d77a0e8cbb0f8e59eb38dc513d8c62c03/pyscaffold-2.3rc6.tar.gz"
+      },
+      "2.3rc7": {
+        "sha256": "d9a4ac7420ca05e2e08a6ebb08a9e97bee65ea00b46782cbd11e63d6887ddf3b",
+        "url": "https://files.pythonhosted.org/packages/31/7d/6a3e05f714abd2ea5711f07238f2db1b1b1ed3c418e75142ad5112dae360/pyscaffold-2.3rc7.tar.gz"
+      },
+      "2.3rc8": {
+        "sha256": "708c41732b1fa32103b1efa82441140c9b1b91eca69dac77e38cf8e82dc6a6f5",
+        "url": "https://files.pythonhosted.org/packages/83/5b/0d09bc61195b42a035edc7a5a68151633c8b6e2ab2eaa5fdb98b313c417e/pyscaffold-2.3rc8.tar.gz"
+      },
+      "2.3rc9": {
+        "sha256": "bb21b6c6299a5c9ec52885a3f9784e0400930b09e5dc48d7ea677c5bcffa6dbd",
+        "url": "https://files.pythonhosted.org/packages/ab/4c/7282738081cf49327bb8449d4472e36882bc8665fcbe55cf8fd3f912833d/pyscaffold-2.3rc9.tar.gz"
+      },
+      "2.4": {
+        "sha256": "3e2b11306b5c3d4c81cf26fea619524997f4e53f41db90f175dbb1dc9fedd72a",
+        "url": "https://files.pythonhosted.org/packages/31/8a/e183c31ae98ec0f027de1e37056de530d434bcca4a559e42f95573534f8f/pyscaffold-2.4.tar.gz"
+      },
+      "2.4.1": {
+        "sha256": "bb91c4682c712b6a446d2b3b53dd27d0b8f2fb2050995e1b7f16aa8d6ec391c2",
+        "url": "https://files.pythonhosted.org/packages/79/f2/6a49648b9113776b8986a45f2446787929eccf73177ebfe4f68d6482f3af/pyscaffold-2.4.1.tar.gz"
+      },
+      "2.4.2": {
+        "sha256": "746f9aa37ac31b372bb3b960c8516f4f0d3bad6c8c2d32b48d0572f507f07122",
+        "url": "https://files.pythonhosted.org/packages/5c/52/30740579335509942397c4b055644075756cd0552fb236e0973b1ee79000/pyscaffold-2.4.2.tar.gz"
+      },
+      "2.4.4": {
+        "sha256": "5c817ab302dc6ec82d418750b52f87de3c4b9af1d8c8be3dfa7d0210790d601e",
+        "url": "https://files.pythonhosted.org/packages/00/16/19386071847069ca22180f979f315545d0f35415135714816a55d82c1498/pyscaffold-2.4.4.tar.gz"
+      },
+      "2.4.4rc1": {
+        "sha256": "e632a1d0b50526eaf5aec850e5eab3cb62f052a27a006dc53d50df76c3c47344",
+        "url": "https://files.pythonhosted.org/packages/ad/b0/2daafb9ce8bb6110ab616546c39f826823ebcb6fb55d34e64cb65b409add/pyscaffold-2.4.4rc1.tar.gz"
+      },
+      "2.4rc1": {
+        "sha256": "4200e483018a78932be445fd66ee0d9394248425f17169d09ac86ac452ffe04b",
+        "url": "https://files.pythonhosted.org/packages/b0/21/28fa4554ebf28fb1a83264c316b0d847a1db82bf2e44f28368f8eb24db7b/pyscaffold-2.4rc1.tar.gz"
+      },
+      "2.4rc2": {
+        "sha256": "c3873f29e005c324ea67c9a0141769d9b7a2000c4e9d78315c2924d01dca0f55",
+        "url": "https://files.pythonhosted.org/packages/dc/29/b4bbf7b7e0a423ddf2ece328ccf4970f27a46b23e9d97b35d59c00137431/pyscaffold-2.4rc2.tar.gz"
+      },
+      "2.4rc3": {
+        "sha256": "d30945a6a81c40fd0bbe84521416826869ae422bf241282f7b8de34ceba46969",
+        "url": "https://files.pythonhosted.org/packages/67/ad/8d782dda8533114de0d74da1e5d0a2764ce157a9b9141f608c0a1e6ec96d/pyscaffold-2.4rc3.tar.gz"
+      },
+      "2.5": {
+        "sha256": "cc95c9132ff91bb579317990f4fedcaa4c6fd48cf0a9c14ced890100cbb315e7",
+        "url": "https://files.pythonhosted.org/packages/14/e6/23db7b52727cf98cd87e9673992fa9024984414f4414361fa4f5eb870c9f/PyScaffold-2.5.tar.gz"
+      },
+      "2.5.1": {
+        "sha256": "f303b73feddf01053931628e7ae816914cbceda760b401e91abd9cf841651f24",
+        "url": "https://files.pythonhosted.org/packages/1f/7d/c29930c73408a4c1b5a414e030975b88988900f00d70742c0059f4ab1977/PyScaffold-2.5.1.tar.gz"
+      },
+      "2.5.2": {
+        "sha256": "83d0bcd03f82f01a14c76fb110caae8bfd33aa6cac285f89f70a223c3fd7ce1d",
+        "url": "https://files.pythonhosted.org/packages/9a/98/f9291ef7bcf90b7d6ec2f2e39b827bbec44b6cdc4c092bdce3aa91b27596/PyScaffold-2.5.2.tar.gz"
+      },
+      "2.5.3": {
+        "sha256": "75f05edb1fb74b44ea31d8396ed1c882b7dd836ee46a07f6b72679d089693413",
+        "url": "https://files.pythonhosted.org/packages/ba/ba/949a3b5ccd430ef906aec635d45ca5eb535ef8a52ba99aa178c867e3379f/PyScaffold-2.5.3.tar.gz"
+      },
+      "2.5.4": {
+        "sha256": "83aad057ad2e259215b3d2748e2ff84f38c8cb8cf302e8d820e60ce644bce260",
+        "url": "https://files.pythonhosted.org/packages/a1/93/cea4a479f4f733e687340adf8a5933cbcc63a2634c4ecebf7aafda355e1b/PyScaffold-2.5.4.tar.gz"
+      },
+      "2.5.4rc1": {
+        "sha256": "dffe1ef66134a5f545162e78378760483b54a458e6ebde9eba7e8800a3a02b4a",
+        "url": "https://files.pythonhosted.org/packages/f2/4c/b265f14e63024db94d0e97eeb0bdfac238f688062acedbeec99fb52fa6ba/PyScaffold-2.5.4rc1.tar.gz"
+      },
+      "2.5.5": {
+        "sha256": "2da81b42d71265ab39387a0a6c8286c141417abcaa05c985a69ef4a15b29c2ba",
+        "url": "https://files.pythonhosted.org/packages/a0/d8/b77d335b8371fbdc9f4749489e94b1dd171e12c4eeeaa021bbcf227cf313/PyScaffold-2.5.5.tar.gz"
+      },
+      "2.5.5b1": {
+        "sha256": "cd21e59fea734b1b71ee45040a22946d0acc24b80c9cf4a9c7a38553ee5ec720",
+        "url": "https://files.pythonhosted.org/packages/88/ff/27de30357529c0cd0b7313a45c6875a53ed9254899513dd2613454ba527c/PyScaffold-2.5.5b1.tar.gz"
+      },
+      "2.5.5b2": {
+        "sha256": "509b06431feae19749a54fca8a57ee8775a44d2a8848d1aee243d8d279cbbc3a",
+        "url": "https://files.pythonhosted.org/packages/a8/23/5d9c9a9d857a27e0f86836f9f5272c5444b4d0d23a0e0c2c3ae504515e31/PyScaffold-2.5.5b2.tar.gz"
+      },
+      "2.5.6": {
+        "sha256": "6458f85b5c7370672dd245efe5a3c57a591a07f482c3af4276d66eeccc920535",
+        "url": "https://files.pythonhosted.org/packages/b7/dc/05f7b7edaef778a5b0423079e99d3ea4e3a810e260509b63617aa66afcaf/PyScaffold-2.5.6.tar.gz"
+      },
+      "2.5.6b1": {
+        "sha256": "ede56ccc7351a9952bd485a5d516b16d94e5b5706f56479a7e4bc8697463f139",
+        "url": "https://files.pythonhosted.org/packages/bd/52/d02139fcaf455db48983ddbf753466d9e3197b0df866ef3502d2a70a4b45/PyScaffold-2.5.6b1.tar.gz"
+      },
+      "2.5a2": {
+        "sha256": "4ec3a05feaa25bd68f81151d35b52beaad2a9850a82b2254b7e277f2819b54b4",
+        "url": "https://files.pythonhosted.org/packages/f8/af/0ecec23288f3c1deb95d0f4cdca2ca606a5308ed9338012abc1e5bd8c5c8/pyscaffold-2.5a2.tar.gz"
+      },
+      "2.5b1": {
+        "sha256": "a0757cf36d0f9400fa2a809b2066eb8ee6ab572cacfeb5ce7bb3e12b76ba39e1",
+        "url": "https://files.pythonhosted.org/packages/02/03/7fe2ea0858869fb21294cf17073802fd16fc5b703f56c8d473228567955a/pyscaffold-2.5b1.tar.gz"
+      },
+      "2.5b10": {
+        "sha256": "4fd992cf7d6f8aee5bbe1917fbcfefa26d49910ec3bc2004a51edfed2cd30191",
+        "url": "https://files.pythonhosted.org/packages/20/11/13ec4010cd81f3360818eb1348ef906fd73ebdde38ced7fa780639116a88/PyScaffold-2.5b10.tar.gz"
+      },
+      "2.5b2": {
+        "sha256": "26c953bfd9e162dbef6464512881c0faf35facfd7f38795f56816bdf1e802531",
+        "url": "https://files.pythonhosted.org/packages/3c/65/5287c57a9898fbb10a5d625ec89c58171335ec739cc42bc9f6d048bc1a79/PyScaffold-2.5b2.tar.gz"
+      },
+      "2.5b3": {
+        "sha256": "c2ec35057c7c05d089d059b20a9db6f78536c11005fa7fa3c9feb013581c7b61",
+        "url": "https://files.pythonhosted.org/packages/b9/04/6ebc5e1a2be60fd533e1102c954d52dc1ae7f63bbab9404838fbc337d7e9/PyScaffold-2.5b3.tar.gz"
+      },
+      "2.5b4": {
+        "sha256": "a7fd03edde1a28532ba4162c47ada0312a7886728005041d97059f78cad7dc11",
+        "url": "https://files.pythonhosted.org/packages/da/3b/d8da4bd9ba9d511edc7872807615863f8cf33a0b8946d73f0828e9045b0d/PyScaffold-2.5b4.tar.gz"
+      },
+      "2.5b5": {
+        "sha256": "67d45d9e3fd6000dc95a22ed92000a3bcbb19729a198d6ea4bc09c3ee6bc66eb",
+        "url": "https://files.pythonhosted.org/packages/88/52/b64d854fd5142ac7c1a205f33b322310ea71afe671b28754c6972948eae8/PyScaffold-2.5b5.tar.gz"
+      },
+      "2.5b6": {
+        "sha256": "6e24af213b30cf7ea0086d35574c5fe2664949b26bc26171bf2b5266ea774bd3",
+        "url": "https://files.pythonhosted.org/packages/38/79/0bfb5e895e817d4a171085e42de136e9bb64e6a1c1fd154e6047b7db4f09/PyScaffold-2.5b6.tar.gz"
+      },
+      "2.5b7": {
+        "sha256": "17cdf3b07b2e32af58b712559a15d8337447922c2080a576ae023e24b4b1ba0e",
+        "url": "https://files.pythonhosted.org/packages/4b/ae/68bcf84989faf4c3481dc9ec9b398628941e21d9085f55a34d925076f2eb/PyScaffold-2.5b7.tar.gz"
+      },
+      "2.5b9": {
+        "sha256": "63b06c7506de7e48ccd100e356963d9a6e4a827811e4cae0bd3aa924b11b3c47",
+        "url": "https://files.pythonhosted.org/packages/73/d0/b04f9093d99a5ae81a81a4c3ed21805b5775edd470a76d2977a15675c780/PyScaffold-2.5b9.tar.gz"
+      },
+      "2.5rc1": {
+        "sha256": "6b79a1e6300e274f551750ed2b0c146c234cef101cefc799de00dae146d47194",
+        "url": "https://files.pythonhosted.org/packages/99/8b/23444b84caba7785ff6629925118256de3542069e8364e57227ec1cb0b2f/PyScaffold-2.5rc1.tar.gz"
+      },
+      "2.5rc2": {
+        "sha256": "06a3032f706cc2546a8e2e8c64e42f166cbc7d6437d9bf63bf328125ff0b4ea7",
+        "url": "https://files.pythonhosted.org/packages/d9/93/c076813c5086ae84e4e7abfaa7192b0fd1f1401007b84d43ca91d9505ff1/PyScaffold-2.5rc2.tar.gz"
+      },
+      "2.5rc3": {
+        "sha256": "83a31fb88626de9e0646184cc6366c8a54261caf1f8096c9f9034108cf75b0be",
+        "url": "https://files.pythonhosted.org/packages/c5/16/60d2da5ceca3c241320f13101bd48a3c5fa25cb72829e1c790efcb75b0c3/PyScaffold-2.5rc3.tar.gz"
+      },
+      "2.5rc4": {
+        "sha256": "2603e64c4d7eb26e7347d4a10652c175b7c2d714af5e30ee3449fadb35916c4d",
+        "url": "https://files.pythonhosted.org/packages/d9/74/11c08cbbaf2615ff0d1ee1d9496eaf59fa176e8dbf50cbfe044521e95efc/PyScaffold-2.5rc4.tar.gz"
+      }
+    }
+  ]
+}

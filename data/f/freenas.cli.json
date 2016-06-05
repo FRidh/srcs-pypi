@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "10.2a6"
+  ],
+  "meta": {
+    "description": "Command Line Interface for FreeNAS",
+    "homepage": "http://github.com/freenas/middleware",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "10.2a2": {
+        "sha256": "9783551afb7be18474824b6d8156ff2833303c18b8eeec1cdd8c3be12e47d025",
+        "url": "https://files.pythonhosted.org/packages/dc/2f/dd27114d8b204c80310b3804e99653405624b664edf1fb7e75bc7e72020c/freenas.cli-10.2a2.tar.gz"
+      },
+      "10.2a3": {
+        "sha256": "f3f877feaa9093b5deada69104d78e3d54890e33a82fa90c59c451148b8f58f7",
+        "url": "https://files.pythonhosted.org/packages/c6/f3/017cf35c9309d3b8942996ca900df1b0a1cc4dd866d67a2c852e0a24e451/freenas.cli-10.2a3.tar.gz"
+      },
+      "10.2a4": {
+        "sha256": "3f37eb12c2f488aeee27a81e61c30d2ef1da0468493379529e5cb734131ee2f8",
+        "url": "https://files.pythonhosted.org/packages/d3/46/15746d4940aee3370ba21143b70fa13afcaa8ee7afd27a11ae17ce2493ea/freenas.cli-10.2a4.tar.gz"
+      },
+      "10.2a5": {
+        "sha256": "fc0916d47aefef9e986b5728a963de482160247147dc28617e55b5ecbc55acbe",
+        "url": "https://files.pythonhosted.org/packages/07/e5/a25fad6b49d7bc096418df53cb276dbc00964434c6c267347eb3131b1959/freenas.cli-10.2a5.tar.gz"
+      },
+      "10.2a6": {
+        "sha256": "def3954dce88af5f342314938025a560d3806623c8e5f4d3cb2034aee232a50c",
+        "url": "https://files.pythonhosted.org/packages/88/21/e637682bb7dee394dc5f4a8e9648b65b3ee735db7eaa7f45032914d596b7/freenas.cli-10.2a6.tar.gz"
+      }
+    }
+  ]
+}

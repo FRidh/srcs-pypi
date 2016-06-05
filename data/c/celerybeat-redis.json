@@ -1,0 +1,54 @@
+{
+  "latest_version": [
+    "0.1.5"
+  ],
+  "meta": {
+    "description": "A Celery Beat Scheduler that uses Redis to store both schedule definitions and status information",
+    "homepage": "https://github.com/kongluoxing/celerybeatredis",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "cb7323e7835198e3b9e248afa366a3a6e81d33abfe54dc6c918e7cc26458c71b",
+        "url": "https://files.pythonhosted.org/packages/80/f6/023841a0b1cba8b6e06936e762f39c3b5e154ee3befe36c86814061b8ca5/celerybeat-redis-0.0.1.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "5b97ddfb14a020e99df151fa6d1181750331a8ada36f772670f8107029c88aca",
+        "url": "https://files.pythonhosted.org/packages/64/fa/1f862dbae0f147dd30c2a1c46b5d619b8918bea01786bdba0b13add2f2ac/celerybeat-redis-0.0.4.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "683ec88d8514c1def721ac0b9cda668a04fd569c28a30c3901e79af328592a0a",
+        "url": "https://files.pythonhosted.org/packages/23/ce/c0344754cf072bfe038126622c928be8eb3133b1ec4e44a287db17e2d2d8/celerybeat-redis-0.0.6.tar.gz"
+      },
+      "0.0.7": {
+        "sha256": "3da1eea294b13dcdefe806281d09472a4dcdb48ef4f870cdf0d8a971177dff4d",
+        "url": "https://files.pythonhosted.org/packages/2a/9b/795adf299b7fbb4c157f4dfe62174fc7e1ed2c9348ded6756acd54f341e2/celerybeat-redis-0.0.7.tar.gz"
+      },
+      "0.0.8": {
+        "sha256": "6417eb21bc02894d351f1f629fc8e40d1d8578a948857eb10599dca24f8390c8",
+        "url": "https://files.pythonhosted.org/packages/f1/c4/9f33d6cf9a3e8d41f44072041042442eb657eb6f0f32ef46d0c3cf0d713d/celerybeat-redis-0.0.8.macosx-10.10-x86_64.tar.gz"
+      },
+      "0.0.9": {
+        "sha256": "57f71e3b3c3190d31ebe534d551f8dd6fd77fdbee37865a5df85b9db012170ee",
+        "url": "https://files.pythonhosted.org/packages/da/ac/2d706b29649a0edbcadce57370c42963617a82b4da2e1564c1cb6be62da2/celerybeat-redis-0.0.9.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "79c3bb18bbf2ee723ac7664b1d1daa5ab59a960824e1edee77d7323d4df0121e",
+        "url": "https://files.pythonhosted.org/packages/7c/59/d9fe747260bd9712c40d9490a9b4175c73fd0b3a7798ff51670317cfa376/celerybeat-redis-0.1.0.macosx-10.10-x86_64.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "2851f770ea9005678c51c9e1fb8efab8f38277beaa89636820cfd91d6bc4eb50",
+        "url": "https://files.pythonhosted.org/packages/ee/be/178c302bbcf4876b42896bc72b29eccf9c2a7c9b1a66ff251f08de1d4913/celerybeat-redis-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "32403efca0df99be7d9c6e65484fb82527bdddc28834a990b4efc011fd17d4c2",
+        "url": "https://files.pythonhosted.org/packages/7d/1f/2b6b32bbf14d8e3385b2b51891133bcc9a35bab1ec65285e0e732f1a3451/celerybeat-redis-0.1.3.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "d8b0b6a7170cc168bed24e009214581cf02aa36f4118ff41c2270461113c5c26",
+        "url": "https://files.pythonhosted.org/packages/63/44/8682545f495675521a915ce7dc2f2f0e9d46d02efd4c2e10a55d7afee9db/celerybeat-redis-0.1.5.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "3.2.post1"
+  ],
+  "meta": {
+    "description": "Prepare consistent BibTeX files for your LaTeX documents",
+    "homepage": "https://github.com/phfaist/bibolamazi",
+    "license": "GPL v3+"
+  },
+  "versions": [
+    {
+      "3.0": {
+        "sha256": "261e5ee76da4d33922daf5b2bcb8ecdf94850e65f345b8a6eede0ab74e5aec01",
+        "url": "https://files.pythonhosted.org/packages/38/a1/53f551306abbe45ce067b87d788ae8e433874900cf568f9b6098cd0caaf6/bibolamazigui-3.0.tar.gz"
+      },
+      "3.1": {
+        "sha256": "0194fa0f51373ed83e5cc957ec95be566459d6e940565f4d595b2e9076fbf0a6",
+        "url": "https://files.pythonhosted.org/packages/48/cb/e85cc3422bece2eb148d4b04ab969f5392dad2702ef281a214759bb9ad4b/bibolamazigui-3.1.macosx-10.6-x86_64.tar.gz"
+      },
+      "3.2": {
+        "sha256": "4065906dfa633c56950614675c3423cab795ac452fe19be8d6a47f4653a49465",
+        "url": "https://files.pythonhosted.org/packages/3a/ee/1a27be1eeccdf5ac13b723a68bbfc80f44698f01433d313d2e9f930dfb8f/bibolamazigui-3.2.macosx-10.6-x86_64.tar.gz"
+      },
+      "3.2.post1": {
+        "sha256": "03627bc9b9f1a912d7015708b19587f12d2ef327171f298213bf4902f5a955bf",
+        "url": "https://files.pythonhosted.org/packages/45/ae/83d16686957a2ee49ba7bd65cd08f6f35343346bb741804e6e9d80b39ac1/bibolamazigui-3.2.post1.tar.gz"
+      }
+    }
+  ]
+}

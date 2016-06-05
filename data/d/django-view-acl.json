@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Views ACL plugin is a Django app to provide method for automatic permissions generation based on urlpatterns in urls.py",
+    "homepage": "https://github.com/Perfectial/django-view-acl",
+    "license": "Apache License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "0fe4eed5c25b311b3dfed91f7c0b7f471fff6b348e7c79e0ac5f2b9e55fa2fac",
+        "url": "https://files.pythonhosted.org/packages/89/52/73430ddb30530d55f0a867c76795cfa581d099c43e9d50f832661d5fb9dd/django_view_acl-0.1-py3-none-any.whl"
+      },
+      "0.2": {
+        "sha256": "a28dc2cb6419613e38498691e4a891a6dd628bd0a325330b03c45d333f24874a",
+        "url": "https://files.pythonhosted.org/packages/53/40/db8e7e84aa4cad62b4c563012490c8ad52a2ad4f421a83ee9a59031dd92d/django-view-acl-0.2.tar.gz"
+      }
+    }
+  ]
+}

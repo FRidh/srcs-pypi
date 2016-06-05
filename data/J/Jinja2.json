@@ -1,0 +1,102 @@
+{
+  "latest_version": [
+    "2.8"
+  ],
+  "meta": {
+    "description": "A small but fast and easy to use stand-alone template engine written in pure python",
+    "homepage": "http://jinja.pocoo.org/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "2.0": {
+        "sha256": "15b17b02d6042bbec2511b655b17561633c8cf5dad68c42356f3f82ec24e4c57",
+        "url": "https://files.pythonhosted.org/packages/01/82/b2ed16b1cbea5ddbf1462fb65cf67ce7cd780dc1b6a6f0244f1387fa007d/Jinja2-2.0.tar.gz"
+      },
+      "2.0rc1": {
+        "sha256": "f9468e841a39bd5a8d786db646b4f8d472c73c06eb4f8dfd2b11ebc9235a7bac",
+        "url": "https://files.pythonhosted.org/packages/7e/c9/7ade5e3a768b7f099e326690294609962bc83d0c5c392dcb97a6eb39aa13/Jinja2-2.0rc1.tar.gz"
+      },
+      "2.1": {
+        "sha256": "a9abe1cd68aa2f7bf4502456ebc00500570fdd878cfb19fd908f837f61b811ff",
+        "url": "https://files.pythonhosted.org/packages/f6/71/f7b1b6bb97d635e57e196ac2d70a0b001d37a94b0c37f5ec02d0ffce31f6/Jinja2-2.1.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "4ccb4abe88756b79768ca9d8c80da8cf2459ad876c70c9813ebfdcab4350f013",
+        "url": "https://files.pythonhosted.org/packages/d9/60/9211025af939cddd0d3c4759837c017839a23edc7c6c08813569e6e655d4/Jinja2-2.1.1.tar.gz"
+      },
+      "2.2": {
+        "sha256": "1b30dcb50918f845826c33416e1285e566c6cef30354ae90527577184e12f2ee",
+        "url": "https://files.pythonhosted.org/packages/51/03/8da0ec1d8380991174e96df3171745f1ebd3ec3987935afaf766940c2052/Jinja2-2.2.tar.gz"
+      },
+      "2.2.1": {
+        "sha256": "b90e99f12c035f67bcf9f865c46bb7048d62fbcadd892f5ae7633a4e53e01df3",
+        "url": "https://files.pythonhosted.org/packages/cd/a7/393d52afb5b1fd11470d12a38f316717f3645ad95d9541f69dced68aff79/Jinja2-2.2.1.tar.gz"
+      },
+      "2.3": {
+        "sha256": "58a257e26a53919058a27eb9aa3d74e29d5983dba82290fc1c1898f4ea249535",
+        "url": "https://files.pythonhosted.org/packages/08/b9/cefc15a27d9315b5d83a8010c1b19d4dcad1c68c99e0c38d704ce37f9e9d/Jinja2-2.3.tar.gz"
+      },
+      "2.3.1": {
+        "sha256": "012dad09654e76ccb2e1bddbddb8073009b42cd4a92021b6206db69e616bd66c",
+        "url": "https://files.pythonhosted.org/packages/68/fd/348686b7eaae0ce5b7383cf89085b1b7b20441aa1b00352b6450ade28b61/Jinja2-2.3.1.tar.gz"
+      },
+      "2.4": {
+        "sha256": "767418380bf7ec1701414f9f361ca6c261f705dbb576f52366f7d5ebc1b25f1d",
+        "url": "https://files.pythonhosted.org/packages/6d/00/80746e9f3133c90686768f450cede835798c4c7e4a3b61a7621aa310f909/Jinja2-2.4.tar.gz"
+      },
+      "2.4.1": {
+        "sha256": "a90b3f18ccbb50c0a0fb3eaff23d60b7664e3e447c676a2cd21459a257574b38",
+        "url": "https://files.pythonhosted.org/packages/85/b1/633bbedbd8dfead320329a4c6bd8ee0abd9079567f21084c6862b7085dba/Jinja2-2.4.1.tar.gz"
+      },
+      "2.5": {
+        "sha256": "3d51c7a98feb1ae3cd4083f2ca5c9a35d2804707601ae18cdc707f3a0e63ef2b",
+        "url": "https://files.pythonhosted.org/packages/c2/f2/7bd3f76fd073798f7dadfb66133be6cc7d587a592c8110f2ede991a9bcb3/Jinja2-2.5.tar.gz"
+      },
+      "2.5.1": {
+        "sha256": "8d1c5be4a9c653f0dea0caab41d7af749f0600c96809926c9ea42721153320ee",
+        "url": "https://files.pythonhosted.org/packages/8b/b5/2670eb888424cefca96cc14475e20edfd2ce8b8f704753513a158832668f/Jinja2-2.5.1.tar.gz"
+      },
+      "2.5.2": {
+        "sha256": "19040f01b3a9d8c63e4d57936f78710908199b69370ab44a0f7407dd891f019b",
+        "url": "https://files.pythonhosted.org/packages/1d/77/b5b98d2201259ac6962d299e6b445e8040d07c33ac3ff50509d7cd5ba00d/Jinja2-2.5.2.tar.gz"
+      },
+      "2.5.3": {
+        "sha256": "b26f494f869170d966ccdc027537d2f0c58ccef45b453c05ad4ae1b764f77275",
+        "url": "https://files.pythonhosted.org/packages/48/89/918559653d27c792906ac3958a8336a7cef4f517ec49a2f3c6be4d20ada4/Jinja2-2.5.3.tar.gz"
+      },
+      "2.5.4": {
+        "sha256": "62dfe7583c489f68d8af6afffdf3b594eb4d0f954c9e4a833ca12be0a4b7ee18",
+        "url": "https://files.pythonhosted.org/packages/58/cc/b600b1d2fb6218bd0cb20c88f2dd4f748e163bea2e9b6ada22b7d9fc4571/Jinja2-2.5.4.tar.gz"
+      },
+      "2.5.5": {
+        "sha256": "22f9675e42dc640c4469d4f7d210baecb5e695823af954c813d51c930235675d",
+        "url": "https://files.pythonhosted.org/packages/de/0b/a9f8af13e178654a0a5fc8518773df649c503b7c1d0e7c77027ca705fdfc/Jinja2-2.5.5.tar.gz"
+      },
+      "2.6": {
+        "sha256": "a85e185375db75c109f99ecde3d55415f035e7068a82252cf4f16c667ac38f49",
+        "url": "https://files.pythonhosted.org/packages/25/c8/212b1c2fd6df9eaf536384b6c6619c4e70a3afd2dffdd00e5296ffbae940/Jinja2-2.6.tar.gz"
+      },
+      "2.7": {
+        "sha256": "474f1518d189ae7e318b139fecc1d30b943f124448cfa0f09582ca23e069fa4d",
+        "url": "https://files.pythonhosted.org/packages/33/db/9931c645626f9bf7867cc3c4225e7a8abf7aff37ecddb7e7d5df90a3b6c4/Jinja2-2.7.tar.gz"
+      },
+      "2.7.1": {
+        "sha256": "5cc0a087a81dca1c08368482fb7a92fe2bdd8cfbb22bc0fccfe6c85affb04c8b",
+        "url": "https://files.pythonhosted.org/packages/47/83/679b5592feb54e948d6599edf5dac61d2991778c3ecbef6b8041663f4740/Jinja2-2.7.1.tar.gz"
+      },
+      "2.7.2": {
+        "sha256": "310a35fbccac3af13ebf927297f871ac656b9da1d248b1fe6765affa71b53235",
+        "url": "https://files.pythonhosted.org/packages/23/94/ca42176bf7a252ce1f5d165953013573dffdbe4b5dac07f57146146ea432/Jinja2-2.7.2.tar.gz"
+      },
+      "2.7.3": {
+        "sha256": "2e24ac5d004db5714976a04ac0e80c6df6e47e98c354cb2c0d82f8879d4f8fdb",
+        "url": "https://files.pythonhosted.org/packages/b0/73/eab0bca302d6d6a0b5c402f47ad1760dc9cb2dd14bbc1873ad48db258e4d/Jinja2-2.7.3.tar.gz"
+      },
+      "2.8": {
+        "sha256": "bc1ff2ff88dbfacefde4ddde471d1417d3b304e8df103a7a9437d47269201bf4",
+        "url": "https://files.pythonhosted.org/packages/f2/2f/0b98b06a345a761bec91a079ccae392d282690c2d8272e708f4d10829e22/Jinja2-2.8.tar.gz"
+      }
+    }
+  ]
+}

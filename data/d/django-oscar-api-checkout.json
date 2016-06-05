@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.1.4"
+  ],
+  "meta": {
+    "description": "An extension on top of django-oscar-api providing a more flexible checkout API with a pluggable payment methods interface",
+    "homepage": "https://gitlab.com/thelabnyc/django-oscar-api-checkout",
+    "license": "ISC"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "938ed9d15bdd8bd04b7fa99ddce857c5ae5297b3b43a50649dc2840e90a213dd",
+        "url": "https://files.pythonhosted.org/packages/18/9d/7b8bd389d5071b3ef1160b60be4622b9641a0ee408d178ecc6965d85ecba/django-oscar-api-checkout-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "6ee9342a83e35a1e0e3211081ad45720c823ef7f452fe8fda0c017165855c652",
+        "url": "https://files.pythonhosted.org/packages/12/36/6c3099fef1006a89cb6f99f70eb8c7264b6cc8957c7ccb9a9fdfccdd27f4/django-oscar-api-checkout-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "1d04965bf6915fa429013077943fc1a714478e2a03fbb02f8b787d6eec11e0db",
+        "url": "https://files.pythonhosted.org/packages/de/d9/89474b4a869c3e90ef71612aa62035cf71f53aeea8941ab7d7d25cb8480c/django-oscar-api-checkout-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "f4f614435cf85a92271b6ffe43a28b01daadeed9d5567f4793ca8f67208bcf55",
+        "url": "https://files.pythonhosted.org/packages/74/d4/765c47bc6b57f07a5badf4ca78add7163234e6e1f42607aa27f12fc61b72/django-oscar-api-checkout-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "ec2163041b5ee112ef9ff474efc848ef08789d71b2242ac91fcfd0661b2d6a2f",
+        "url": "https://files.pythonhosted.org/packages/56/b3/ec2678e9cfa7c8c8336a17264d88442fd2f62199c20149d1548a613041b8/django-oscar-api-checkout-0.1.4.tar.gz"
+      }
+    }
+  ]
+}

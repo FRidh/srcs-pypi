@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "3.6.0.2"
+  ],
+  "meta": {
+    "description": "Stripe Payment Gateway Module for Tryton",
+    "homepage": "http://www.fulfil.io/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "3.4.1.0": {
+        "sha256": "aa98dbfebd240858a54222e78beb095e18b8695d2fe64831636a138b1a79d080",
+        "url": "https://files.pythonhosted.org/packages/d9/1b/fc5cb2fd44fddcfec0b92aca2e283aa620150ce3d5b86a1fbfa327034741/fio_payment_gateway_stripe-3.4.1.0.tar.gz"
+      },
+      "3.4.2.0": {
+        "sha256": "f6af729727e2d7f4fc11a5781edc0bc210daac1a00d905dfb131d39d21558173",
+        "url": "https://files.pythonhosted.org/packages/47/dc/e5e9834b34ce00b649ce8943dff31e5eed40b0e9357246f377d908f14120/fio_payment_gateway_stripe-3.4.2.0.tar.gz"
+      },
+      "3.4.2.1": {
+        "sha256": "e410a143912cef0321c22189c094ac5cb0eb464ba7efc52fe9808584ff393ffd",
+        "url": "https://files.pythonhosted.org/packages/fb/12/f2a62877fd2febdc4341ef23a5ae45103d6c1b3cb059fc6acd8a2bbc2ced/fio_payment_gateway_stripe-3.4.2.1.tar.gz"
+      },
+      "3.4.3.0": {
+        "sha256": "57044d924a1b4b2e0197416aac1b420b613336e3446b0603e99ea65cf43b83be",
+        "url": "https://files.pythonhosted.org/packages/68/19/60a205b655cc2acc15cb830f9c34bb4cad2f9df1ff8f988122057822a0ed/fio_payment_gateway_stripe-3.4.3.0.tar.gz"
+      },
+      "3.6.0.1": {
+        "sha256": "dfccf4910e75c93c6de8de79098905d657c88f98ab0963f32ae8847b7525eb48",
+        "url": "https://files.pythonhosted.org/packages/47/95/3b140df6569ce9b578a9a7b7b391b04278f2c0e11e21a25680cdd380b075/fio_payment_gateway_stripe-3.6.0.1.tar.gz"
+      },
+      "3.6.0.2": {
+        "sha256": "7bcfb2ca6b1cb4e4becdbec10a7d6d41e721e0da4b5ef417edef587a4c187851",
+        "url": "https://files.pythonhosted.org/packages/29/ec/f24f042edfb24c02e1ccd611b5b549449897122935a43817213bb0b2f1c0/fio_payment_gateway_stripe-3.6.0.2.tar.gz"
+      }
+    }
+  ]
+}

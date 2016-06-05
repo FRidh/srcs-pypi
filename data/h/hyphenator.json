@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.5.1"
+  ],
+  "meta": {
+    "description": "Pure Python module to hyphenate text using existing dictionaries",
+    "homepage": "http://python-hyphenator.googlecode.com/"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "ecf23193339d10ca8cc102996d3ea58cc7b606a2f62eaa836171fc4817c6dadc",
+        "url": "https://files.pythonhosted.org/packages/cb/8b/0a2dd5f004a24930666d84a9dcb0b9b9e06fd9e4e9fd6ccef5dfa0bbad0d/hyphenator-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "58464213a4580b3325a48835fc468ec7488fe6297a39cf4aacdaa31933108c0f",
+        "url": "https://files.pythonhosted.org/packages/94/66/bc97d287f4b041411ec9405638cec72c318afa4ad24829f813a80e8d11bd/hyphenator-0.5.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1.7"
+  ],
+  "meta": {
+    "description": "a command line client for IVOA UWS services, plus models for development",
+    "homepage": "http://github.com/aipescience/uws-client/",
+    "license": "Apache License (2.0)"
+  },
+  "versions": [
+    {
+      "1.1.2": {
+        "sha256": "49f2e6e6d223af03484cb2220e719c03dcb3922f65b5a468386510219acf4229",
+        "url": "https://files.pythonhosted.org/packages/17/f4/0c63448c35a5b928f22b227ab0b4f9f3ad7b5268c2eef29876ae85afa13f/uws-client-1.1.2.tar.gz"
+      },
+      "1.1.5": {
+        "sha256": "5abbb1656f7b7cb49d16ba9c3437b012d9db7063261c7a1e8a6b1ffb7ded1f9d",
+        "url": "https://files.pythonhosted.org/packages/9f/91/e794ab2d0eeca491b437ce493a9f69525a3c9e7af93773ef9fe75350cead/uws-client-1.1.5.tar.gz"
+      },
+      "1.1.7": {
+        "sha256": "6fd4fd2c28546f1ba5b2b925e09859177fe65d6c79d17c661d8cbe4a07d35f5f",
+        "url": "https://files.pythonhosted.org/packages/ea/70/7f4d533925b1bbcd8668d93cf376b324d1866942c5564b5081191b750534/uws-client-1.1.7.tar.gz"
+      }
+    }
+  ]
+}

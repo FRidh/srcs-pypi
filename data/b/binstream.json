@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.3"
+  ],
+  "meta": {
+    "description": "Binstream is used for serializing and deserializing basic types. It is compatible with the .NET System.IO.BinaryReader and BinaryWriter classes, and is useful as a bridge when exchanging data with the .NET framework",
+    "homepage": "http://pypi.python.org/pypi/binstream/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "2ec5b49356fa892daccc3c70fa7e2c61bdd549fc9eb8f00f9c9212c58504217f",
+        "url": "https://files.pythonhosted.org/packages/e0/a2/ab41a2000490641fc90862fa9440c1e4b403a225905ba708a4b81d1cf8df/binstream-1.0.macosx-10.4-fat.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "884cefc692f519b1f815dfa5b7b62f8e3a736ab882a5ff54582dbb3c0927fff9",
+        "url": "https://files.pythonhosted.org/packages/af/d3/1f118b8802002c2748c6eeeed972d2f53d835444840475377e3248b6fa70/binstream-1.0.1.macosx-10.4-fat.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "9a4cab6808c0c1427a6452e8ecb4b6b3f350962fa191281bc711c57a7091c2bd",
+        "url": "https://files.pythonhosted.org/packages/1b/46/af89362d9e812d0264d1e4454f87030be9ceb88f0c88626471183aa50c9c/binstream-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "20af297db4270bc775c39f01385a02c45c41c83068b48429cb7fa67c330fa04d",
+        "url": "https://files.pythonhosted.org/packages/7e/75/953fd3f76e79a044b0928e4632c87bb4c9ce314bdb9df2ed5dfb368f531f/binstream-1.0.3.tar.gz"
+      }
+    }
+  ]
+}

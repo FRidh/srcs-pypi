@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Builds a python package index out of a directory of packages",
+    "homepage": "https://github.com/ronaldevers/magnum-pi/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "3bebfa33c44cf36bf7ac95fad1d19da6a2dc1d1ca41e67fe16a95654b650ff7b",
+        "url": "https://files.pythonhosted.org/packages/98/b3/9561826068f75a12bb3e7b1abcfab4d02014b7338294f468189fbec8f0d0/magnum-pi-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "ac74f51749bceaad910aaca4a0f90427e68fa9026578f96963ded1dec2793032",
+        "url": "https://files.pythonhosted.org/packages/7e/d5/c39049b007735264da155b40acc9293b53edd2ad4f2d5fa368b5b1166b8c/magnum-pi-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "288cac50339858c4eebf30bb8422a45ac728f1ec6b31ae749c0990650043db9d",
+        "url": "https://files.pythonhosted.org/packages/5d/82/4ed4eea50f0c24c6e4ed0ff7aa8157f27d1543fca3f3faabed06b8df3800/magnum-pi-1.2.tar.gz"
+      }
+    }
+  ]
+}

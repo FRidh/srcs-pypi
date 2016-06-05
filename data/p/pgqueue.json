@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Light PgQ Framework - queuing system for PostgreSQL",
+    "homepage": "https://github.com/florentx/pgqueue",
+    "license": "ISC"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "e363c031b1948a9a63fa9afd4129ab4ca8e49931c2bc2d5e51b1901a4eea917f",
+        "url": "https://files.pythonhosted.org/packages/eb/44/3cf2ff83d4fe525d004dbbc6ed484261e0f2a2bb6f8665c13df12ef5a319/pgqueue-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "6f25378b2480db16a7cf9c2c2fef85db880444fae6ff5a479ae61bc74517ab75",
+        "url": "https://files.pythonhosted.org/packages/f7/28/ec464f922d42c8127ace29f7c5ea15fb428997ab8b3f560c539e9fb3b2a1/pgqueue-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "ed0caac971a4b83690bc1fb041c6b71c69993868513b199d8f4ee2cd947696c8",
+        "url": "https://files.pythonhosted.org/packages/9c/81/297c227d5f5c3f7f15815aa64ed9359fe361df633052683d813a7357df1a/pgqueue-0.4.1.tar.gz"
+      },
+      "0.5": {
+        "sha256": "507ab981047ea20fea14cf54cb06e26d66a2d8a46f934e2fcedb95610b517cc5",
+        "url": "https://files.pythonhosted.org/packages/f1/4d/1258bd6d284b4b441a1c02b9067feb26e58684b00e330b1e98bf73d5e666/pgqueue-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "d69c2e39fa7159eb8a3d2af96fb98912b4226aa0d572007a2ee4ffed3ad8bb19",
+        "url": "https://files.pythonhosted.org/packages/1f/82/5eb55d81b9671b930053a202aeafaf1de961481ffaf21a1417f8a162eab3/pgqueue-0.6.tar.gz"
+      }
+    }
+  ]
+}

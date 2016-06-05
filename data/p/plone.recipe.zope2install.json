@@ -1,0 +1,74 @@
+{
+  "latest_version": [
+    "3.3"
+  ],
+  "meta": {
+    "description": "ZC Buildout recipe for installing Zope 2",
+    "homepage": "http://svn.plone.org/svn/collective/buildout/plone.recipe.zope2install",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "7271e40d6618a49dc2501f143e3404725260c14047224e927b7bfa1a809559bd",
+        "url": "https://files.pythonhosted.org/packages/64/ef/958d30790138de8ed4a7a2026790ab853e7890e6413a7424ef392a3ba910/plone.recipe.zope2install-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "c190ea9bcb231d8d2fb62da257bfce9091e2320ce410cba370c31305eb252b26",
+        "url": "https://files.pythonhosted.org/packages/0a/72/09d2cc9484c562207484ff3b6abf308736001d60bbc9925706bd6a6886b2/plone.recipe.zope2install-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "bbdf19a1d89b3936fee813f4e7bc1c3cbf9c244f88eb7fc685bb1360d05199c7",
+        "url": "https://files.pythonhosted.org/packages/ce/00/effe48606583f07d73199fc04b63fb972073ae38d01f62ffb1a7da976ed2/plone.recipe.zope2install-0.3.tar.gz"
+      },
+      "1.0": {
+        "sha256": "07c0cdac58bfcd1b8ea6c681566d298baa9f80ea8fd9f10d4dfce12687208147",
+        "url": "https://files.pythonhosted.org/packages/66/0f/6071b8ebd43015145c690f2cbe1d6849e695e994149da5de6fcd24510915/plone.recipe.zope2install-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "bef99712a9562f94dbf7483ac9ccdd255438b4c68831c7b29af3b23a9e6fdc8c",
+        "url": "https://files.pythonhosted.org/packages/80/6e/7661c21029dc69917df6ba94ba345eb9a62bd60ef76129ee3a1b16088f8e/plone.recipe.zope2install-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "51196b0305bfd427a8efaed7f5676f186f2c02555559588a8b59aa3396c70e0a",
+        "url": "https://files.pythonhosted.org/packages/92/d3/d94b46297ff5d38729bf4b3a9081de16b8400e5ee34447754085f430bbc5/plone.recipe.zope2install-1.2.tar.gz"
+      },
+      "2.1": {
+        "sha256": "424fab5b22bfec7a2e7dbf3856b19f525fdb776ae5bc2e1592e32f56c75790af",
+        "url": "https://files.pythonhosted.org/packages/8d/7b/6a106799404957cd54dff8687476d93d8ffc65216aa5d5002a49c51287b3/plone.recipe.zope2install-2.1.tar.gz"
+      },
+      "2.2": {
+        "sha256": "3cc9197f3a06911f216a54c04fe7da181256631fad23c926b1e95530b317418f",
+        "url": "https://files.pythonhosted.org/packages/cb/b3/b57d0991e9b93e2f140ed89945fe13259c544c7435960aaa39262144c4d2/plone.recipe.zope2install-2.2.tar.gz"
+      },
+      "2.3": {
+        "sha256": "fe1461f49d33f9ca6849bd57af7676eae36a111c28344de3abe3d79831a92206",
+        "url": "https://files.pythonhosted.org/packages/1d/1f/f25513612299d07d3bc3e3125e5c4fff000155d6cb38870bbda4ba82a846/plone.recipe.zope2install-2.3.tar.gz"
+      },
+      "2.4": {
+        "sha256": "e9918d2454730eda8733bef00576cbe69f205bb54b15d905d1579e06daa0a7af",
+        "url": "https://files.pythonhosted.org/packages/cf/e3/9e441db05a3348a467d10dab718939257c53e1e9701bd7ebc99ff11f7e64/plone.recipe.zope2install-2.4.zip"
+      },
+      "2.5": {
+        "sha256": "2eeed28ad1f0c975d1414986a974e108f6abe0ae8e193f2ed90cd8d09f26af34",
+        "url": "https://files.pythonhosted.org/packages/db/06/6c503842ae9207619ce8428d0a9a9fd15c24efcfb6e2c492e664ab0d3034/plone.recipe.zope2install-2.5.zip"
+      },
+      "2.6": {
+        "sha256": "fd276c3d60f9d345084c83ecdc90511f6473278ddbb62f51a481eb9126418331",
+        "url": "https://files.pythonhosted.org/packages/8f/ad/618d61182010d55ca857981e30c6dda9873ac5d8d2b8e8ccb12e2d636571/plone.recipe.zope2install-2.6.zip"
+      },
+      "3.0": {
+        "sha256": "299314b20a3033766a2b7bbe7c8486c9c2cbaeeb1325f5fbcbc3c543273680b9",
+        "url": "https://files.pythonhosted.org/packages/3e/14/cada428ce49e330ede5cd7365fd5e2ec37442b2b0b4961fb4906fadbe35d/plone.recipe.zope2install-3.0.zip"
+      },
+      "3.2": {
+        "sha256": "85f75d950ed7cba9beab9a2d618fbbb4cefcf1a25edcaeba002339087de2eb67",
+        "url": "https://files.pythonhosted.org/packages/32/6f/0c1b7f322c031a9d56212f7d3a0a123ac283558c441ad3ada3298b12baf0/plone.recipe.zope2install-3.2.tar.gz"
+      },
+      "3.3": {
+        "sha256": "a7ed2d6b55d50cd461cbbe901086f152624b5c86c0815e67367f6eff7577d4b4",
+        "url": "https://files.pythonhosted.org/packages/5c/a0/a9cfa5c1c467fa2317c3633d382f7429b4a7c1a876f6a4339a8db7cd9eec/plone.recipe.zope2install-3.3.tar.gz"
+      }
+    }
+  ]
+}

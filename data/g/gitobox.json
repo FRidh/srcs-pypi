@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Synchronizes a directory with a Git repository; particularly useful to track \"dumb\" collaboration software like DropBox",
+    "homepage": "https://github.com/remram44/gitobox",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "e9673cf04522efbbd0799d10315c9976b2f83c30e424da36a6e4e32ca9805d5d",
+        "url": "https://files.pythonhosted.org/packages/b3/3a/64b58301dd3f44906486da3b3422a65541952320e3c221c6c5c46e270ec1/gitobox-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "166ce5510491109c5a86d58a0f67a63f3904eb177ad33efbfd99e176f035ea63",
+        "url": "https://files.pythonhosted.org/packages/b2/4c/dc7855d56fd457f7b74f4ab2a2af2f8b62997f4684297e174550ac1f22e7/gitobox-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "64e4e84598bd770c295d978954fb1fdc0ce75d492d87143ee86b74060f43d82b",
+        "url": "https://files.pythonhosted.org/packages/77/39/6f799d840ce0dc8ebf1e4c1200bc6838f87d784364ab6aed157b5bfc31f7/gitobox-0.3.tar.gz"
+      }
+    }
+  ]
+}

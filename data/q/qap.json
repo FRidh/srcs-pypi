@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "1.0.5"
+  ],
+  "meta": {
+    "description": "A collection of three quality assessment pipelines for anatomical MRI and functional MRI scans",
+    "homepage": "https://github.com/preprocessed-connectomes-project/quality-assessment-protocol"
+  },
+  "versions": [
+    {
+      "1.0.3": {
+        "sha256": "2da91a1ff2ee11faabb658ad24649b20960075d681e0eb8c0a6ad69da151322a",
+        "url": "https://files.pythonhosted.org/packages/fe/6b/9fceff6c491615717d3c022705895653d5989e8c97bb1d6cf96b42f6194a/qap-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "686e95d6f4d69bb9d11f5ed0e4058bc6ba40acba3c3cde9e4716a8205715e019",
+        "url": "https://files.pythonhosted.org/packages/e9/1d/29ba283aa1a75432ba4419d9b4695d443b16ad48d75f2b8f02f126a7da7c/qap-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "94fec5fd21ee995db01d22a6e1345a9cb64f521b8a2905f8fa3967fe1787eff4",
+        "url": "https://files.pythonhosted.org/packages/23/5a/654a436f6157e96c65fef9b9fc47c2018abe4bf796ff105e432b41b29c6b/qap-1.0.5.tar.gz"
+      }
+    }
+  ]
+}

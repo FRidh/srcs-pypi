@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "A SQLite-backed minimalistic knowledge based for robotic application. Mostly KB-API conformant",
+    "homepage": "https://github.com/severin-lemaignan/minimalkb",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.4": {
+        "sha256": "7c77219b39efbcc40196d86a203953d12131460f6a232384800eb341d59da803",
+        "url": "https://files.pythonhosted.org/packages/44/b0/c26b490290f3a0fbbc55aa9ae557459e8003789f97f740fd356964d40d1e/minimalKB-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "7dafa27a2ce6977423afe3ade554db1bbe97b75dd66e757679359c8fc894579b",
+        "url": "https://files.pythonhosted.org/packages/9d/c1/04a619a6742448fb738ecf8a36055638cf3c7e330de504f1df452d429cd5/minimalKB-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "f7c17cbe6e1714c626ac6636e2101b449c907675b8a070cd225677d6dac4f581",
+        "url": "https://files.pythonhosted.org/packages/36/d6/b6baada4f2ae8b4c8171c2598ead693495683cd91f714fd9634345b006a9/minimalKB-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "9e6c951a40b530777a27c6bfa5254de315c514ebd477a14cdcb521cc08419002",
+        "url": "https://files.pythonhosted.org/packages/4c/4c/a342da2e5b95c6e9413ddca35691244608892bf5bf45dbc49ca198c9b032/minimalKB-0.7.tar.gz"
+      }
+    }
+  ]
+}

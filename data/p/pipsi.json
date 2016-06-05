@@ -1,0 +1,50 @@
+{
+  "latest_version": [
+    "0.9"
+  ],
+  "meta": {
+    "description": "Wraps pip and virtualenv to install scripts",
+    "homepage": "http://github.com/mitsuhiko/pipsi/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "f4981692c99e1154c870278bfcdb09f9b460011c6d662b5a3a893c5e6bf93397",
+        "url": "https://files.pythonhosted.org/packages/ef/ea/aa7eeb8da8c6e2783fa8bd40e1d168b14499dc2e898854aff29ff17e39cd/pipsi-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "03c0c8a3f9396bbda4919261f6506f98df98262437dfaa6549101e52ba622fde",
+        "url": "https://files.pythonhosted.org/packages/bc/03/34ff7037a993fc97dd3059a053fd829c926a711d45c9ed14dc95cb7be058/pipsi-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "0636d0ce88b3267e8a9bef2d12327b7c83fbc98afe34660f33c38a0582f02787",
+        "url": "https://files.pythonhosted.org/packages/c9/75/bec2638e76ed90a3e015c5bd54846d1c84c5389ccde04edc8f2b04d4007f/pipsi-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "9a70f1b3b8930e00e8a0dc8ab9700711115f8c6008c3588b3ab6f957ff9fa485",
+        "url": "https://files.pythonhosted.org/packages/79/bf/a7d72819368fc8cd2183ffe98c77ea21ad9d753d470293c6c0fee53e9bbc/pipsi-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "d5b78e2721c993b6aaa14883e944d739b76522e76ca1d7a1a886bfe83b09ca88",
+        "url": "https://files.pythonhosted.org/packages/6e/6b/7453a7ba111ccde16dedcb001238ee555de7b2361d735d93e9714706e475/pipsi-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "ceb6e45db6c495faca7e978f03e365a5ceffa2119159a0ab998fcc07121906da",
+        "url": "https://files.pythonhosted.org/packages/68/97/96e9200019a471e7f2ec70f3c9077b0c888204f2cd2c928f53909bbca9ea/pipsi-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "b9a0a1eb07d258d43cbb30baf3b23204f05e09ee8dce18603e10f88f59fa20c4",
+        "url": "https://files.pythonhosted.org/packages/4a/1d/f0a539422ddb5f2452eb374c67293f378e95709e20f5f28fddeb6c7f3a22/pipsi-0.7.tar.gz"
+      },
+      "0.8": {
+        "sha256": "cc3072a41956e3ce625d80e34c017de051cb5b7197daa1407306d0fe08e42f2c",
+        "url": "https://files.pythonhosted.org/packages/45/c4/45ff6caf4801862493e29cc8bd117b9086a248226081166824ada156c96e/pipsi-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "688b688cc8a7a76612c0d4d1839aaef98ece8382d4382b9d8b6f0caa65f0ed34",
+        "url": "https://files.pythonhosted.org/packages/4e/16/297caa009ac37bb52a31ed8a76ee50fe373794f32a6ec7a227d7af65e15b/pipsi-0.9.tar.gz"
+      }
+    }
+  ]
+}

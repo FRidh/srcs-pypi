@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "3.9.dev259750"
+  ],
+  "meta": {
+    "description": "An extended set of Python bindings for libclang",
+    "homepage": "http://github.com/pybee/sealang",
+    "license": "License :: OSI Approved :: University of Illinois/NCSA Open Source License"
+  },
+  "versions": [
+    {
+      "3.9.dev258341": {
+        "sha256": "2619a2c34ccb6d34173af2557dae689c632cdc4817244293706900b219fb96cc",
+        "url": "https://files.pythonhosted.org/packages/b0/9d/b3dc032fec53ccec06454a34d1f1c720ec43e2f45f05327141466eefee21/sealang-3.9.dev258341.tar.gz"
+      },
+      "3.9.dev259721": {
+        "sha256": "0f87d7722336994f37235f49c48b5b2215fc228e997e804ca74fbaf0b42c153c",
+        "url": "https://files.pythonhosted.org/packages/8e/12/307ae395d142858dd6f13e7a4c43d98717776560e1ac37f1f74a54a94788/sealang-3.9.dev259721.tar.gz"
+      },
+      "3.9.dev259750": {
+        "sha256": "396bf5c23ad5615b2e6a3866435fe4d7e17920bb00cfa80fc24ac737cd444960",
+        "url": "https://files.pythonhosted.org/packages/50/f6/dbae5a114494f2d7dc4a3a410f8bed187ef9a30856d3e10fb60ef7a2ce79/sealang-3.9.dev259750.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "latest_version": [
+    "0.37.0"
+  ],
+  "meta": {
+    "description": "A Redis object mapper for Python",
+    "homepage": "https://github.com/josiahcarlson/rom",
+    "license": "GNU LGPL v2.1"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "09ddc45c68cdbeccf06892747d9dc240e65682cec17fff4ca0f08cc142ed3e3f",
+        "url": "https://files.pythonhosted.org/packages/4a/c1/adf25580553ed6c7c7b507fd15894a4166c3918dfedf5d328ff81ea2307d/rom-0.10.tar.gz"
+      },
+      "0.12": {
+        "sha256": "e5b8acd59bacbe81ba3cf16db39a03492d7af37d6dc33b5f08e34d9b8029fe64",
+        "url": "https://files.pythonhosted.org/packages/37/82/5078c33b3a41124b1075aac7125a6e2687fbd3f08180ce7d7a67f0e7f062/rom-0.12.tar.gz"
+      },
+      "0.13": {
+        "sha256": "b35bd6e64d5a6e6fc7eefe25c6408a04e2315ba95c12e614fa52e10e5b0e5240",
+        "url": "https://files.pythonhosted.org/packages/49/68/1c46f888fdeea8020fc2ac142cc8e034930f0b6618cb5401c0bae2fbd45c/rom-0.13.tar.gz"
+      },
+      "0.14": {
+        "sha256": "7845e45c851840fc4b17b99c22a94a96e6573d42ca6f7f55f9b682032ff5cf36",
+        "url": "https://files.pythonhosted.org/packages/a4/15/5b549469ff62b23d5c3217932034cb85693dfb44dc8db1aec663ef6bb64d/rom-0.14.tar.gz"
+      },
+      "0.15": {
+        "sha256": "5de9472b0da23f9f89c35945f1bd4616203c2d32733b78776483def9b0e22d2e",
+        "url": "https://files.pythonhosted.org/packages/4e/2b/bdf939041c889dd800b0f38f0e48c7869d1b6e7049c1104016677218b9f1/rom-0.15.tar.gz"
+      },
+      "0.16": {
+        "sha256": "887db1417244607bff8a8425fb9e90594035f028c2dc58d906edf113e57427d2",
+        "url": "https://files.pythonhosted.org/packages/29/4a/04afaf883b67480e9d3aeb5f8463bc7d5dfb881233756c8963f1f7cc3f79/rom-0.16.tar.gz"
+      },
+      "0.17": {
+        "sha256": "aae178fe4830214dc8eed528a67a225118bb993ca2fb4ec7aa63c6bf0903c19a",
+        "url": "https://files.pythonhosted.org/packages/41/dd/ab12c6e50d16152807e2c3dcd008d1e43929b65fe7c54974f201de45b6a9/rom-0.17.tar.gz"
+      },
+      "0.18": {
+        "sha256": "a12bfc7adbf00ffae87ae817a1565800c1152c61e705e00a580c82b89e85c64a",
+        "url": "https://files.pythonhosted.org/packages/6b/22/1ece7977d4edc3b6ac8757a6737dc1592f46f60904d06bc8bf4456a5f7c0/rom-0.18.tar.gz"
+      },
+      "0.19": {
+        "sha256": "9550dedb9b5442e0bbf2204a73becc863e27882753689bb0bfa33c3564ff6672",
+        "url": "https://files.pythonhosted.org/packages/50/b4/53fd18d7a92982408b35059864860c0c46fa90eb89546a77a154088aaf18/rom-0.19.tar.gz"
+      },
+      "0.20": {
+        "sha256": "ba42b5e79cd0c6d841651a9a85feced5ac3f2d6d2f9f57656846a7e88e3a2a9a",
+        "url": "https://files.pythonhosted.org/packages/23/40/b39c0162be412efb061564fb0d3e74ad50b11fe4b3c7c96d8f2425583bec/rom-0.20.tar.gz"
+      },
+      "0.21": {
+        "sha256": "a9d16b9706dcbb3f98f5ec26849ab5d10de9c6f1ecd35fe3f76ed1883f45533c",
+        "url": "https://files.pythonhosted.org/packages/3d/8d/21bab3389ca4689ba096453fc01f7ad6f03b7cac32159cd30f877c21a729/rom-0.21.tar.gz"
+      },
+      "0.22": {
+        "sha256": "540195cfb76a0539b8875193c42a5855cc944fa21c933ff230f127166ea96bdc",
+        "url": "https://files.pythonhosted.org/packages/64/c7/06725a244711c2f993dd86b0453459330d7c7f83a174a917823f059442f0/rom-0.22.tar.gz"
+      },
+      "0.25.0": {
+        "sha256": "e534f78637f8d05fa3f1656d14d5e890e17083e6d6a4194d8bedc956a0b8e1aa",
+        "url": "https://files.pythonhosted.org/packages/fd/65/87139cd5460211b165e6c4a5a88b23ca2d7ee9b8e30f8ed10612e4a4d42e/rom-0.25.0.tar.gz"
+      },
+      "0.25.1": {
+        "sha256": "c160f2a06f13962770e57170c84784e47aa73570d6b07ac6b3dfa248457bd743",
+        "url": "https://files.pythonhosted.org/packages/63/78/a9f92e76efa9177493db01c8fa6a317bebf91b735dbd1ffcdad8ba80e191/rom-0.25.1.tar.gz"
+      },
+      "0.26.0": {
+        "sha256": "50c550c354a07c967d46dc8dc7a6d8d99294ca2787083fcb10a1c0c663b482c5",
+        "url": "https://files.pythonhosted.org/packages/72/5a/4b1c4482fcf0057641e6bc0e895ba4e6a42d9aa090284f53c75ce77cea7c/rom-0.26.0.tar.gz"
+      },
+      "0.26.1": {
+        "sha256": "1e2485ad8a3fe0d41bdff90e657b525596f4079bc59192209cb806cf3940f0cd",
+        "url": "https://files.pythonhosted.org/packages/be/21/496b57aa5e2db724d0169d5a9609fd3365531b628cf03f16bc9a7c83b845/rom-0.26.1.tar.gz"
+      },
+      "0.26.2": {
+        "sha256": "6bd145e963c55a7b774ee286c80ae70b8b19c275c7891db55cf4e895104e6e92",
+        "url": "https://files.pythonhosted.org/packages/46/dc/6ae71cd7de94e8a07ddfef26f082f56a0af0bf258800791b8e7257ebe58c/rom-0.26.2.tar.gz"
+      },
+      "0.26.3": {
+        "sha256": "f88acd467d45d1a33064348d85cb7c1fb55463d434d80a410a7458353bcbe72e",
+        "url": "https://files.pythonhosted.org/packages/e1/8d/3c17933c7972fe36512ac36cccfd87c78d1e59161d2a1007f790d9be83d6/rom-0.26.3.tar.gz"
+      },
+      "0.26.4": {
+        "sha256": "2ae07eb6c5e2489f983d8bd681bc3f73a8282983a94daff4d36df6e78583390c",
+        "url": "https://files.pythonhosted.org/packages/34/03/8e94b4dea4dbff786d88ddb290694813270204438537949b19cd24e4c928/rom-0.26.4.tar.gz"
+      },
+      "0.26.5": {
+        "sha256": "b30a98b8d63a975fdf89d3bb34e66d604c7c4822be58fdae4a5541613f9007d6",
+        "url": "https://files.pythonhosted.org/packages/07/21/c3a1c7db996269c88bc719d58767c2973098aba43b30b32724ece368bcfe/rom-0.26.5.tar.gz"
+      },
+      "0.27.0": {
+        "sha256": "3821ec01cf9776dbddc291cfff47da7fe274a825dc2e9ea59a4223ca6b1ab752",
+        "url": "https://files.pythonhosted.org/packages/42/d3/5e4d8ae6f6a3729f9d077904689f1c7eb5e351eccd3a7a9aafe475372812/rom-0.27.0.tar.gz"
+      },
+      "0.28.0": {
+        "sha256": "1973796b94a5450a9d3dc02056ec90f28cf81ac363e5e5ab74fae0c571126b95",
+        "url": "https://files.pythonhosted.org/packages/b7/c8/01db3506579690f6e11638e498490d506e6cb1f30c9a7ac71ed54b1a82cc/rom-0.28.0.tar.gz"
+      },
+      "0.29.0": {
+        "sha256": "3714ea85c7fac01ac1d259ffc1cfddf8416e3bcb08414c4dfee8dfead1177681",
+        "url": "https://files.pythonhosted.org/packages/b3/7c/214ec257baf48cb2846983f9457649073509373c7c0879fafa7cf8932bd5/rom-0.29.0.tar.gz"
+      },
+      "0.29.2": {
+        "sha256": "fcd23a452189b0545eb396e76f26ad82394ae639a9b36a468da12552b7699587",
+        "url": "https://files.pythonhosted.org/packages/f1/a3/75606770fdb64b2a2cdaa09125823d4b84c605de7c84d5e92fe188249235/rom-0.29.2.tar.gz"
+      },
+      "0.29.3": {
+        "sha256": "3d2521397e4319a659ea3301cf1225e99b5f110f10c70283a99f984f2ef56138",
+        "url": "https://files.pythonhosted.org/packages/19/43/77f919f57c7c2e02f7159371243da582950b3c22ff25cb79704c0ad4391d/rom-0.29.3.tar.gz"
+      },
+      "0.29.4": {
+        "sha256": "d32332e2c3c27cbc7552119955419b73083a26db7555cb8895ee17a209cfdcd1",
+        "url": "https://files.pythonhosted.org/packages/53/ca/057cfc17cf2ed984a542604fd9f3ae301eda8c36889e0ed98134fed7154f/rom-0.29.4.tar.gz"
+      },
+      "0.29.5": {
+        "sha256": "ffa068d39bf5bde73f19fabfcc8528c195df7f65c8e294443dede742fcd6a7a7",
+        "url": "https://files.pythonhosted.org/packages/8b/18/e6a8666f267e1679a2ba22245968e3b4b357bfc1d891be9a9aef513e1b04/rom-0.29.5.tar.gz"
+      },
+      "0.30.0": {
+        "sha256": "ceaf26dcc41efaa510928b7c5369ba271091c89b059bf5bea339f5baec35a1fb",
+        "url": "https://files.pythonhosted.org/packages/e9/7f/f0ddc665ac6741897b4ede96d61afa1610061c27a361360a5ee935ce771c/rom-0.30.0.tar.gz"
+      },
+      "0.30.1": {
+        "sha256": "138ede8f15aae568fbe49b3133cf4ef8507902d80185dcefe6055be2cc61ebe4",
+        "url": "https://files.pythonhosted.org/packages/a6/df/4be8045bb825ebfeca0eb903145a8659bf1faab93c1cab81f39f308089ac/rom-0.30.1.tar.gz"
+      },
+      "0.31.0": {
+        "sha256": "31e35a41d2f384ebaff2e871965f0605cbf1b26e1cf881bb40b677fd9032c35e",
+        "url": "https://files.pythonhosted.org/packages/19/36/2b3eefc3b2a1336c9df72a2642c3fd2506c4838955fb5d8ee47dec72f34a/rom-0.31.0.tar.gz"
+      },
+      "0.31.1": {
+        "sha256": "97f6ee0ca187519a625456a85273fc1866d4636bc8edc73fc0809e65cbb4e9fe",
+        "url": "https://files.pythonhosted.org/packages/6b/d7/0f538c8fedcc08cb53f46f01faca55b63a8de156d089c4925ff28e92d8ac/rom-0.31.1.tar.gz"
+      },
+      "0.31.2": {
+        "sha256": "236d8e7c411ea93e4c685d513aa1d5a1f8a82ccba39226e2bdccf790130abede",
+        "url": "https://files.pythonhosted.org/packages/96/5e/2ef055d826e6c6d1f8f40808febecfa70a8982c552bdf04efe061f2d31a9/rom-0.31.2.tar.gz"
+      },
+      "0.31.3": {
+        "sha256": "98a126f719718d35265016850dd7a619355b28b7b27ea7c3f80b42efbca10595",
+        "url": "https://files.pythonhosted.org/packages/2e/77/d42755204c789e8d1e4f34eb1194a0dfd8db7c9e055fbe40a5ed1a12b22b/rom-0.31.3.tar.gz"
+      },
+      "0.31.4": {
+        "sha256": "7ac41c1f32e5eecae32cac69b0475dbed21fc5f6250064719d99b43060d1e82d",
+        "url": "https://files.pythonhosted.org/packages/43/87/027220de641510cef41c59e843c3c513d13ea96753c82215078bcab7db00/rom-0.31.4.tar.gz"
+      },
+      "0.32.0": {
+        "sha256": "0c4fb11823a38a126ceff6b31b937c84b3a9bfd184ff12de8e57aa648f523678",
+        "url": "https://files.pythonhosted.org/packages/9d/59/b2f3fd4bc601640d7cd655beff17519252f8cb1f84c03f78042cf579eae8/rom-0.32.0.tar.gz"
+      },
+      "0.32.1": {
+        "sha256": "0c84762e76f9961cee709f2f4aef70c255d324242a4aa6e605edb81640b9eaf8",
+        "url": "https://files.pythonhosted.org/packages/a8/99/d31ee99fd5aa6f3b450375df55a49086b621ea691cd8fcc752958256dfdd/rom-0.32.1.tar.gz"
+      },
+      "0.32.2": {
+        "sha256": "3a4374f27ebe779a14d3707ab9ddd340e7364dd833b6871706f51c957e406a21",
+        "url": "https://files.pythonhosted.org/packages/e3/4d/4d8f2a2bf12a8712118b58264e384520cc071febf6aaf897f5cab7284aca/rom-0.32.2.tar.gz"
+      },
+      "0.33.0": {
+        "sha256": "10e9d126feed8b128d8d7b1a5e4b880acb34d3b3833c5dc3f638e07e8c668060",
+        "url": "https://files.pythonhosted.org/packages/0e/3f/fa27b7f6fe6b39f96165776015ed95d6958123f0c4482f0555da20288fad/rom-0.33.0.tar.gz"
+      },
+      "0.34.0": {
+        "sha256": "994725bef767c2d809b088e0a1fc85e8df343f9d80f497eb051425743a2125e5",
+        "url": "https://files.pythonhosted.org/packages/c6/1e/ebfd3100e06911788cb2acb6e562e5450e5e07f6537dbb686cc925f2550e/rom-0.34.0.tar.gz"
+      },
+      "0.34.1": {
+        "sha256": "57aa4068e6a12a673a2049ac8a4972286d6a41ff160adcd31da69f24a637cb49",
+        "url": "https://files.pythonhosted.org/packages/62/87/cb0348127521933eec9a1c4d7ea7b5aab307433f80838a74bceac9cb559b/rom-0.34.1.tar.gz"
+      },
+      "0.35.0": {
+        "sha256": "6d748c0e5a9dfeb0e2f5043341acad337b875cb5d1a43b3e28f86f5a7e314b57",
+        "url": "https://files.pythonhosted.org/packages/29/f7/57033bb25641b8644c0427574bd83ee135c6ab5782d6d7db71479d8b408d/rom-0.35.0.tar.gz"
+      },
+      "0.35.1": {
+        "sha256": "ae15cdc6c47771c27e2c49f8c6fc6cb68b641e34a0564488f66f4f0081226e07",
+        "url": "https://files.pythonhosted.org/packages/ea/06/ddc998e7da00c07f50f30d29f8853ddeb4f6bc6ecdec49339069b41c446e/rom-0.35.1.tar.gz"
+      },
+      "0.35.2": {
+        "sha256": "d4fe41f1e3cffaa4cb86d48165fc01dbe682d8dbb6c02648fac79ab2b3b01efb",
+        "url": "https://files.pythonhosted.org/packages/98/80/3c6f766c96bc37c630d701829d15ee1b75bf32670d7801b74280d6959333/rom-0.35.2.tar.gz"
+      },
+      "0.35.3": {
+        "sha256": "a63e40e4eb29d83594b52b3fbdfc4f3f26989f9311d84a6fba46cf40727b5413",
+        "url": "https://files.pythonhosted.org/packages/b6/aa/d34538067be6fb0b4ed55afceb92c572281c9cf467cb9f35a5e2686fe881/rom-0.35.3.tar.gz"
+      },
+      "0.36.0": {
+        "sha256": "5ee9d3eb349dcdb7512c2d4da1e27761f5d65809666c270f7450e6f9407091d2",
+        "url": "https://files.pythonhosted.org/packages/ec/a8/8730c4bbb6a64874c218a2940ef5622ae20b20b435725627711f5234afcf/rom-0.36.0.tar.gz"
+      },
+      "0.37.0": {
+        "sha256": "c30b2b21492f50b2d5441b350eea8ff8d590bd4ff56873cf8812b245531659b7",
+        "url": "https://files.pythonhosted.org/packages/66/de/17545bee88d60e587049f2dcd60b71d6349200cff6baf1c7239508ea1624/rom-0.37.0.tar.gz"
+      }
+    }
+  ]
+}

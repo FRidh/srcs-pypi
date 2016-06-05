@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.12"
+  ],
+  "meta": {
+    "description": "Mercurial cross-reposititory copy and move",
+    "homepage": "http://hg.codeviking.com/hgcp/",
+    "license": "GNU GPLv3"
+  },
+  "versions": [
+    {
+      "0.11": {
+        "sha256": "3e18ba0c0eba9f273d8149e95e190cbd993f55749e39916e793bbae8e9437063",
+        "url": "https://files.pythonhosted.org/packages/37/3c/165617b308298725a6ed14d4716f8863fbb39463e672f051b0db5bc436f3/hgcp-0.11.tar.gz"
+      },
+      "0.12": {
+        "sha256": "e9d898eca5f09a6ef8738fad23b8a0fe942c61c15ec27563a43181b10b7acba6",
+        "url": "https://files.pythonhosted.org/packages/a9/dc/61906d4cd954a90d47f0311e6e3f27cf50bf5fd6bc3be7a5250da96435a9/hgcp-0.12.tar.gz"
+      }
+    }
+  ]
+}

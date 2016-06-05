@@ -1,0 +1,86 @@
+{
+  "latest_version": [
+    "0.9.5"
+  ],
+  "meta": {
+    "description": "Websocket handler for the gevent pywsgi server, a Python network library",
+    "homepage": "https://bitbucket.org/Jeffrey/gevent-websocket",
+    "license": "Copyright 2011-2013 Jeffrey Gelens <jeffrey@noppo.pro>\n\n   Licensed under the Apache License, Version 2.0 (the \"License\");\n   you may not use this file except in compliance with the License.\n   You may obtain a copy of the License at\n\n     http://www.apache.org/licenses/LICENSE-2.0\n\n   Unless required by applicable law or agreed to in writing, software\n   distributed under the License is distributed on an \"AS IS\" BASIS,\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n   See the License for the specific language governing permissions and\n   limitations under the License."
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "8bfc172afc1654eb4b1d3fe377b799dd9b41f1b24f1fc2b3d5512050d6f8a47a",
+        "url": "https://files.pythonhosted.org/packages/43/3c/0523cb10a245debd46a8f47288e198a2cb76d3bbc6660258857fd29d2339/gevent-websocket-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "9f0d303a27f5e46af357f379a84674ee0efc36aa42a284e527626d54da32de0e",
+        "url": "https://files.pythonhosted.org/packages/74/16/b63a9a6caff49fa77ac722123d92b3a727adf469f3756b9da56a7434e306/gevent-websocket-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "74ab8130e88fd3b9a6be948fa29569a4c0486bc55ade8fd2e31549ccc6fc75ad",
+        "url": "https://files.pythonhosted.org/packages/5d/a6/284864cf661178e79f53498b436a876551f1daf3bde31d066c15f07405b2/gevent-websocket-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "dbfe9aed122be0f928466a2ed11511397ec79fb1f8e108fdd31d6404c7174249",
+        "url": "https://files.pythonhosted.org/packages/ee/ba/3b7d741cee16ef94df769318c813d38689fd1c073c92814464e8cc3dc181/gevent-websocket-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "05de52eb2729a7bb1a13b6596f6d70badd899a5aac033d1b60fca7989c831926",
+        "url": "https://files.pythonhosted.org/packages/ff/e3/8ce10db07c9db3966df0b79cd309642bad0801bd51f97c3d67adb5fe1642/gevent-websocket-0.2.3.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "24754c6ffe9d701e29bbaafedf08ed8ffc636a80a9ca3b74aa4e9a60044afcf2",
+        "url": "https://files.pythonhosted.org/packages/dc/08/c3e07e263c4f585917095374a8b936ce3cfed3d9a83a92f115990174ab3b/gevent-websocket-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "170e18832e1b04d8611a144cd18d68134abe1b4221358bbcc8c668cc8351f03f",
+        "url": "https://files.pythonhosted.org/packages/12/a1/e089c483e5ec6fc13c1e140d286e179ad67dc63598eb7b05143091303f23/gevent-websocket-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "923a8a2c162d67b17ed9601215c7eb86405f8aeb77bf77fb632726b257f03da1",
+        "url": "https://files.pythonhosted.org/packages/48/74/d8ac17d3c7b56608b603dadc292d56d01494b8d82f309b9cac58befef776/gevent-websocket-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "a015fa965e3290fde23ed9c97afd9806e29e155d84a43b8f4cb7d32b9ac6af7c",
+        "url": "https://files.pythonhosted.org/packages/ca/52/e0de3e941a1e2fd9a9eb317528d04f311caca0eba63c5178e643ae9c79a4/gevent-websocket-0.3.3.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "44a2ea0d61536543fe1c3a18c4b8df1660bef61f8eddc25ce9d51a998608d6f3",
+        "url": "https://files.pythonhosted.org/packages/d1/72/9f8bc83350af4590cb5b86a742919552cc24640af11c4b3f45f647449a06/gevent-websocket-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "58dc2facc57517c5f89eb985c2810721012334c6baa6f7a8471e9898f7a38247",
+        "url": "https://files.pythonhosted.org/packages/bb/d9/f5cd06c75e0a964bfdca964d0bd8ec8389eec7a91ae8788a83c9d7909704/gevent-websocket-0.3.5.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "1806bd1e78cfbd6f5b38e00c6b6f5a5ed0015b1eee94f78adba62d199c23ad6d",
+        "url": "https://files.pythonhosted.org/packages/d0/5b/2d314cc39772821540ee37b32a158877fa0731278ba1d4117e4bcd18d0a9/gevent-websocket-0.3.6.tar.gz"
+      },
+      "0.9": {
+        "sha256": "6cde005993b264851784d5ab8f3cf4e34592c7aafcf05305a4dce83c209e713f",
+        "url": "https://files.pythonhosted.org/packages/d5/e4/eacab0a586a7532302a132442f44d63d2642073b26fca249acb3bd241eb5/gevent-websocket-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "273ffb93108aa83650d6da8330fc60cc046129cf735acb67441f4e944208b6f0",
+        "url": "https://files.pythonhosted.org/packages/14/55/6cdb4b242b8d993b7f4ed51a5c9f0a8217698f7c39ce553686367f06ea1a/gevent-websocket-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "091f7fdf3c288d353f381d5660efbf14586099ef3a17f3579370905ce4ff0b13",
+        "url": "https://files.pythonhosted.org/packages/3c/67/50950b7f0434adc7f50d39b2bd64c4f4f66695b428dd68191da22b1d1c58/gevent-websocket-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "6475220340f9f8895a0f51bd2b9df3511bc7765dc055f49e997584bdaee3381f",
+        "url": "https://files.pythonhosted.org/packages/0e/18/9e7d900b40a7be1785b27f5fdba0306bcb1b857b1683d34457a2b812dd77/gevent-websocket-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "3cd217c1c40126d6833c81e84959dc9a232fa282ccd29052405aa68cc0f8b21d",
+        "url": "https://files.pythonhosted.org/packages/02/bb/8428f8a507c03d03cdbcd8424ee3627739c66c0a0fdcfdab7fe85e48b0a9/gevent-websocket-0.9.4.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "0091d6e6aa7298510cadcccb8068e1097a50d4e19090d0c055a93068d4530056",
+        "url": "https://files.pythonhosted.org/packages/de/93/6bc86ddd65435a56a2f2ea7cc908d92fea894fc08e364156656e71cc1435/gevent-websocket-0.9.5.tar.gz"
+      }
+    }
+  ]
+}

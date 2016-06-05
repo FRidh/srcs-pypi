@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.6.0"
+  ],
+  "meta": {
+    "description": "A command line interface to various source control services, such as github, bitbucket, etc",
+    "homepage": "http://code.grumbleofnerds.com/scm-cli",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "c5d7baabed6ac04cab4389775afe2dec7a8bb0d0b9d275d78fd4a6f03eca6635",
+        "url": "https://files.pythonhosted.org/packages/1b/2f/cd69f0a77f908afcd33428b247525861719cc65b0fac6c14952741833359/scm-cli-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "da5049d62095ebfc9e05282cc0c3c627a54cca6a742f1c40d8229c9cb5afb6a8",
+        "url": "https://files.pythonhosted.org/packages/8b/01/0c41f2433fa3fd9b29650c98be65af093396fb4f0f8cd036ba177ec2cac5/scm-cli-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "b26c5b5ccdf151c239ece18221e57cd04fdc956ba461e71c130a9094d97711d4",
+        "url": "https://files.pythonhosted.org/packages/9c/2e/e31a2735536627d694686d21d5a5dd5955080b54e667b6b362f4474bf3d0/scm-cli-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "d380d69cdf70270f7754722077ba56cea7276ef2d327186f419c27e0c6013edb",
+        "url": "https://files.pythonhosted.org/packages/76/5f/eb70ff26c1a4ccefbb751d5305ffeb76edf7667fd7e38e23d38d7b1764f6/scm-cli-0.6.0.tar.gz"
+      }
+    }
+  ]
+}

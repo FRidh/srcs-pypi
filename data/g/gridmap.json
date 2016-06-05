@@ -1,0 +1,118 @@
+{
+  "latest_version": [
+    "0.13.0"
+  ],
+  "meta": {
+    "description": "Easily map Python functions onto a cluster using a DRMAA-compatible grid engine like Sun Grid Engine (SGE)",
+    "homepage": "http://github.com/EducationalTestingService/gridmap",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "6adb706415a3b7c69ee3ec381c91fadcc34a9645973f31183e1f2d7b1f088817",
+        "url": "https://files.pythonhosted.org/packages/92/30/8008a1ababfa16492f1ce2d53184ba1fa0ea56f04d52818ac4d7d7c1ad76/gridmap-0.10.0.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "de2f90a52e642f8460bcea4b65ea19e1466ba5f7aaca34c97066746bbdc2e296",
+        "url": "https://files.pythonhosted.org/packages/49/1d/83260fc3cb7754e3459512448280c5781c8663c8ea9a103d36332f029e5c/gridmap-0.10.1.tar.gz"
+      },
+      "0.10.2": {
+        "sha256": "8e58cfd305f189a5cf62ea870f49f158612a24b98632eff514a46edb28c8984b",
+        "url": "https://files.pythonhosted.org/packages/a0/b0/efb7fbc0f05e665fd8867aa551484b06c75dd7c1305a41ecb0ecd3fdfeac/gridmap-0.10.2.tar.gz"
+      },
+      "0.10.3": {
+        "sha256": "0b69c47aab2ad10340f4056bb8f05f04451e6b0c61e112d4000abebfc3e399c0",
+        "url": "https://files.pythonhosted.org/packages/42/30/8a0736bb4077b9f202e59e3018e6de4021190b5c189e1c5627c1a63bd96e/gridmap-0.10.3.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "a21e9353828cbe6d2b4bf5dbe555eeb940b1d0a6cfbbbd224a487b6d16630027",
+        "url": "https://files.pythonhosted.org/packages/a8/26/b20bd267aac394421b8da2b2e5328e37e41c43d3d210e50c25d18fa5603e/gridmap-0.11.0.tar.gz"
+      },
+      "0.11.1": {
+        "sha256": "9190fb585b35bf26de72664450176b5e5fed0236216d23806532eab3ae7c24b9",
+        "url": "https://files.pythonhosted.org/packages/62/15/2e8e7e0442c1f49ba2a9f0ed49650e4b441ff7f9912b3a3be11cb3eeee13/gridmap-0.11.1.tar.gz"
+      },
+      "0.11.2": {
+        "sha256": "91436b8f89052abab532a4bc7361abff21cb1c58eea338ee938a03aaeed73821",
+        "url": "https://files.pythonhosted.org/packages/4a/af/0961f79cbeb63290eb82c7508802eb45484aef6cb7635fb6dd416ce27357/gridmap-0.11.2.tar.gz"
+      },
+      "0.11.3": {
+        "sha256": "52c44ea2f38961141dd990f23d217ce703ba978d509eec2d631aa8fc59621896",
+        "url": "https://files.pythonhosted.org/packages/bd/c4/93700b001651d3b9099962967440f39e66a0f34c0fd20ae41ad021b860d7/gridmap-0.11.3.tar.gz"
+      },
+      "0.11.4": {
+        "sha256": "5f381faf1af910a5de60615c0b2329e2f537b631b0370bec321b8f5dc64e5288",
+        "url": "https://files.pythonhosted.org/packages/89/6e/fc63429e1b50524cac4a014e00f6c2ba227afca22a5ea9dd0892d674e861/gridmap-0.11.4.tar.gz"
+      },
+      "0.12.0": {
+        "sha256": "97ae292d23d678e1175ddf454f37fbbcab4a8ec2388fa2b081b12aa625c806b8",
+        "url": "https://files.pythonhosted.org/packages/b8/91/7afdb27d6047e84e66b238b0a2d0ea3adae4ab54cdbfe218365d08ef561a/gridmap-0.12.0.tar.gz"
+      },
+      "0.12.1": {
+        "sha256": "5d028a9064e56ff3ab0fdf32735531dbf043e4d6295a2bd40dd7969e6561e30b",
+        "url": "https://files.pythonhosted.org/packages/2d/29/704ee803434aa4b52419b39b82c6a47c37f4de85622bbf382d8240e8f551/gridmap-0.12.1.tar.gz"
+      },
+      "0.12.2": {
+        "sha256": "9c4c035300d1a5a1ecb27e418dbc98c3f8bf56a862c2ba8e3c01a76904c57467",
+        "url": "https://files.pythonhosted.org/packages/5c/7f/8bc3a4dab09a5b7d78539949cf7315e4ccf09f5eae627a50e9490cce19f3/gridmap-0.12.2.tar.gz"
+      },
+      "0.12.3": {
+        "sha256": "be8c6877ce856d18505537cdec6f8ac5f345d69e32fdf5015a46b349c450b3bf",
+        "url": "https://files.pythonhosted.org/packages/63/d9/8e052244152b172fa35a6bf8029b7cde70bf64af1733f9e7895fc9cd54c6/gridmap-0.12.3.tar.gz"
+      },
+      "0.12.4": {
+        "sha256": "3bcd770e5c9fba040149a5e8c78877d93c2811f890f973ec990ea8482fdfbf6e",
+        "url": "https://files.pythonhosted.org/packages/76/1b/ff0722d80f90cbd62215c31163d943be30bf9ccec9cd1adc305a96ae3e1a/gridmap-0.12.4.tar.gz"
+      },
+      "0.12.5": {
+        "sha256": "537c173edddc3c85906a160124fa4bc68f04613d7c12fab0fbf26281942909f3",
+        "url": "https://files.pythonhosted.org/packages/7e/62/447fd2f79e002aab55e587e0890c1ad75479728498524f95509f916557a2/gridmap-0.12.5.tar.gz"
+      },
+      "0.13.0": {
+        "sha256": "3b8cec4911b2233ef2d043c680843a2ca1eb392aad4c08e38526804cd43ae8dc",
+        "url": "https://files.pythonhosted.org/packages/2d/81/85798a2925c0b565ba4c1c66fb8aa94fc36238eb62d51f2a28ac860e898c/gridmap-0.13.0.tar.gz"
+      },
+      "0.9": {
+        "sha256": "5ef666da780562f6813754a2e3494185d0ca5ad7220db928712e154204ecc2e4",
+        "url": "https://files.pythonhosted.org/packages/8a/ef/96aac94447a77da61272ec26b3a0526bfc1ec5aa2d86547597b1325afcf5/gridmap-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "c6d9e8591f76440b26261435aff0d751f0274e56df025aaa3c0b3e2b720d4ce4",
+        "url": "https://files.pythonhosted.org/packages/51/b2/b204259a02a4b9e1a0a93cc88cf839c2c3ccd86e92f2f023ced838fd29f7/gridmap-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "da6d5a9c13ae2643aa9690e820f41b863d76ccc885d6a6e4f285e7cc81632b8b",
+        "url": "https://files.pythonhosted.org/packages/6b/f1/e63248e7296e93a668053315bff9dfba924b07e94026faef6700d8a483d1/gridmap-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "1e4f32ab166e10f5b35247efdfe2e3629fb556915b51882d840ae61e1c0d633b",
+        "url": "https://files.pythonhosted.org/packages/20/8d/16e74a4cd8145696a89f21f2ab5c9dd52b45041f1e4d0fe6f5ac93bbde73/gridmap-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "d1d3bde7c370ff5c3b9e38cbfea71e65320b0f34cfb81353e9c43ae131b6dd3e",
+        "url": "https://files.pythonhosted.org/packages/b0/97/4199389c097be25ac961a83aaaa093931886484002631d9dc3269055da8c/gridmap-0.9.4.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "eaea45cb4a49a6e87ae243da2f7a3a461ae57251ed086d2bd5f00d5c5b835760",
+        "url": "https://files.pythonhosted.org/packages/04/d5/7e0822e087f29ec34785a959dc4aeea48eb6582297571598db7c05df59b1/gridmap-0.9.5.tar.gz"
+      },
+      "0.9.6": {
+        "sha256": "81c0ab1046519099fb3b4b3f653728263b9233f492514a545d0d963eaeb8d4e0",
+        "url": "https://files.pythonhosted.org/packages/e7/4f/9a952b4d1a5579a9d4de875c579099e655d0bc15493fcb77c4583d94a26c/gridmap-0.9.6.tar.gz"
+      },
+      "0.9.7": {
+        "sha256": "77398555ba0485979b0aa0b1ae51756892be7c22033470f321e261760da7e92f",
+        "url": "https://files.pythonhosted.org/packages/10/e5/7cfe95d2201d70c4579cc7946b5518f5bdd43fd6349d0520258a68d68abf/gridmap-0.9.7.tar.gz"
+      },
+      "0.9.8": {
+        "sha256": "a4d208452785d3acb444744187da8f41d50527e8c2f634a0449956a4264d3fe9",
+        "url": "https://files.pythonhosted.org/packages/88/2c/91f0186d819b5d8ea535cd09f79257d31b3b9f5aadc1599da5fc281857a7/gridmap-0.9.8.tar.gz"
+      },
+      "0.9.9": {
+        "sha256": "290f15383d01605e0f67cab6b92cc91b2a9b9c20b2b8c60d70cfdfd4e181899a",
+        "url": "https://files.pythonhosted.org/packages/c1/5a/4be0f3ca5e627370b6b2575974f0d780a8b6a188de9c09aa9e3ef7e61617/gridmap-0.9.9.tar.gz"
+      }
+    }
+  ]
+}

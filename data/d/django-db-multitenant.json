@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Multitenant support for Django, using one tenant per database",
+    "homepage": "https://github.com/mik3y/django-db-multitenant",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "ef78e71459349e1e6f1dc400c04a21ac8b0447a4599f0246db97a2bcca3dd91f",
+        "url": "https://files.pythonhosted.org/packages/79/c7/c2611c7c2d2c09257f337b4c0c6a85fb2240af9db2332eff28cdc705ce75/django-db-multitenant-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "46216609716753927f1b0b4e43114413923704cd3f6636956b986f37ff818efb",
+        "url": "https://files.pythonhosted.org/packages/2c/6e/592f28e8c51cd321dd60e54f6c415732e14c9a5c9beec93013b38df691fb/django-db-multitenant-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "b9d2ea0f11135f98b10f162d8311b664f1d4d4e60f10e532f0591b6045d4bda7",
+        "url": "https://files.pythonhosted.org/packages/58/6a/6fb26f1e5dbcb4880a10f5bfcf5aea802b52d3641c82cfad45b92f1fb03f/django-db-multitenant-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

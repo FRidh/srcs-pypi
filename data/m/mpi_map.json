@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Tools running parallel processes",
+    "homepage": "http://www2.compute.dtu.dk/~dabi/",
+    "license": "COPYING.LESSER"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "97cf1beff72650191ae968b62875f23622b8dcddd11def0e9d1aee0f8bd1c2a5",
+        "url": "https://files.pythonhosted.org/packages/02/48/bbd1b8e9f69fa6952d3b545856ed47ebd16e6c3e4d62b1061c1565509026/mpi_map-0.1.0.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "0c6984231d39a874d3aee2b316904d053c9a0f24ab60a979506a8660c0546b48",
+        "url": "https://files.pythonhosted.org/packages/7a/9c/dbea4a7d62d990cd1656432eadcad7213ad59056a7005ba6d8d85f583923/mpi_map-0.1.4.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "8355be26fac4c8ce87406cde5ab79fc134d218eb15424036dce8a3cc8ac5be4f",
+        "url": "https://files.pythonhosted.org/packages/e7/27/2cbfc763825f250a91acd8fcdd915c0ac177c840e0e682d4e155b8bf7bfd/mpi_map-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.6.1"
+  ],
+  "meta": {
+    "description": "This is our fork of original `Django-generic-ratings <http://pypi.python.org/pypi/django-generic-ratings/>`_ project. \n\nIn our fork we added star widget from `this site <http://www.fyneworks.com/jquery/star-rating/>`_ and fixed some errors. Anyway, follow main project for updates.\n\nDjango ratings tools supporting ajax, generic content type scores, multiple ratings for each content object",
+    "homepage": "https://bitbucket.org/frankban/django-generic-ratings/downloads"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "97a30f34da0c1c1458ae0d863e1506682a1166438f04b00fbc9d3b8ffa21d578",
+        "url": "https://files.pythonhosted.org/packages/78/79/995f83d06f351af98bdb6642e151e963cae31d8e1da143064e5474ad59f6/redsolutioncms.django-generic-ratings-0.1.1.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "e302f5b2c029501403aac548fc3b95d7dc455caed28e7a829680768ab4867af1",
+        "url": "https://files.pythonhosted.org/packages/33/14/e4eb60cd45761ea0a347b394d3f62ff51d07d38d2024fb149a2be50c9217/redsolutioncms.django-generic-ratings-0.6.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "3.4.0-1"
+  ],
+  "meta": {
+    "description": "CPython cmd module ported to MicroPython",
+    "homepage": "https://github.com/micropython/micropython/issues/405",
+    "license": "Python"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "f55c9bf83bf5fd001cd16df449c9376770bf3f1ecd7c99dd4da57b54250a5575",
+        "url": "https://files.pythonhosted.org/packages/79/3b/31ec5951364905010d609a7f94f628dc61680984dc68072384de541e9aab/micropython-cmd-0.0.1.tar.gz"
+      },
+      "3.4-1": {
+        "sha256": "a2c7d32c32c21620553d7ea6b2395d1271ead1356953a438e716aecc6cb117dc",
+        "url": "https://files.pythonhosted.org/packages/4c/54/d9f39ab54b2dd020c4e549173360ddbede7b8630c4b892c1d17c3e0e4df5/micropython-cmd-3.4-1.tar.gz"
+      },
+      "3.4.0-1": {
+        "sha256": "ec041c4a00e69c1f06aebf2b284743de0c82d7addb44a59265d9781d3c98a0f1",
+        "url": "https://files.pythonhosted.org/packages/1c/29/ddbd5c8ef17327c02bc630f9b1438d27a808e9c0427188e6c7e1dcb72075/micropython-cmd-3.4.0-1.tar.gz"
+      }
+    }
+  ]
+}

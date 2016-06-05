@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.7.8"
+  ],
+  "meta": {
+    "description": "Fork with some graceful changes to django-admin",
+    "homepage": "https://github.com/frnhr/django/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.7.7.dev20150311101703": {
+        "sha256": "1ababf4d1c18c42b9f970b635b8a6872b828cb42cac6992990b8a335d6b28752",
+        "url": "https://files.pythonhosted.org/packages/aa/81/75121d978887287326e11edaeb8921bd429e81c78293e63a7c883e73dae1/tocka-Django-1.7.7.dev20150311101703.tar.gz"
+      },
+      "1.7.8": {
+        "sha256": "6fc892bc750f333bd71a3862d0905a608ff7fdb5ae2515ec59c056dc8ab03052",
+        "url": "https://files.pythonhosted.org/packages/c8/a6/e960d4502684ad249f4af81ddc2cf992f1cd9a954d6d628ba00b5b1e9ee0/tocka-Django-1.7.8.tar.gz"
+      }
+    }
+  ]
+}

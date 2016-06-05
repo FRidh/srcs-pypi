@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Python Actor Runtime LibrarY",
+    "homepage": "http://osl.cs.uiuc.edu/parley/",
+    "license": "Lesser General Public License"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "6b53625885a75e2490287153154bed9a6ff040bf76b237af2453e0b7cbdaf0fe",
+        "url": "https://files.pythonhosted.org/packages/6d/f9/330f5bac87a68de3c8ed6dc3f62f289c61baf0852486dce8109802385ed3/parley-0.1.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "cfe6de54fe63bda339ef22b7637297717840210130d1b827111c67481a7e94f1",
+        "url": "https://files.pythonhosted.org/packages/12/25/5defce3bf9a67079154653f5462506dfd3cbef666388ed30cd437af5298c/parley-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "f91be53e2a8362c58004e2445ec1bfc9c183c27fba3bf0c78827f3366c778dcd",
+        "url": "https://files.pythonhosted.org/packages/2b/3d/8e1eaf0e020817dcb04c72e6ca90687f9421978f849fd32c488024df5dc2/parley-0.3.tar.gz"
+      }
+    }
+  ]
+}

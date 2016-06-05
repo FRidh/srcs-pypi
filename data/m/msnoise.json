@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.4.1"
+  ],
+  "meta": {
+    "description": "A Python Package for Monitoring Seismic Velocity Changes using Ambient Seismic Noise",
+    "homepage": "http://www.msnoise.org",
+    "license": "EUPL-1.1"
+  },
+  "versions": [
+    {
+      "1.3": {
+        "sha256": "b7a833753a5cbe03a3e2da25f738e97d51af05de6f77dafb6e6d98f41776cf61",
+        "url": "https://files.pythonhosted.org/packages/9d/f0/d199bb79f11fa00529791165c7d3a770c463bb2b27d4f3fed10886c87c18/msnoise-1.3.zip"
+      },
+      "1.3.1": {
+        "sha256": "87e9aa0725dbc4e6a18b24dd5d9f2c50e3162226a8a6c870c6534d1ea18e1d75",
+        "url": "https://files.pythonhosted.org/packages/40/6b/af0ae00b2c730a5d86d6293287dc39938d0e18b2ddad40362f9e4812a1bf/msnoise-1.3.1.zip"
+      },
+      "1.4": {
+        "sha256": "da611db9ead49873e8e5b06ebfc25d482abf7faf4b5790fd973fd5c5cc6296ca",
+        "url": "https://files.pythonhosted.org/packages/21/dc/614db5e7abf7f35b86995d9ec92631783cf2fcda9008d2e94c6bd0dd501e/msnoise-1.4.zip"
+      },
+      "1.4.1": {
+        "sha256": "5e019fbe9e0a0e9f129d94b4d43db3efec0eca73e97c42f5691901b93ed59cff",
+        "url": "https://files.pythonhosted.org/packages/79/16/c0666412e281a06e79fd2fcbbc61eaac3ee15b742f355422cd7d893035a8/msnoise-1.4.1.zip"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9"
+  ],
+  "meta": {
+    "description": "One- and two-dimensional plate bending, designed for Earth's lithosphere",
+    "homepage": "https://github.com/awickert/gFlex,http://csdms.colorado.edu/wiki/Model:gFlex",
+    "license": "GPL v3"
+  },
+  "versions": [
+    {
+      "0.8.1": {
+        "sha256": "97352ad9b6460e5b5e882e2e92885e98ccc0006dc7a633bba19af2e5826cca9b",
+        "url": "https://files.pythonhosted.org/packages/a4/6a/28aa551a31149e35011b3f5d2054900abf7e99428c492687723533c43419/gFlex-0.8.1.tar.gz"
+      },
+      "0.9": {
+        "sha256": "b9c91c312f54bf95fed1e7b09bf84d5170a1dd1cce05e82987b2ca7e4bbb4a5e",
+        "url": "https://files.pythonhosted.org/packages/f9/1a/11d62f88c6154f3e11e70560d8db21f87f3c42257823a1b4cfa177c9ea67/gFlex-0.9.tar.gz"
+      }
+    }
+  ]
+}

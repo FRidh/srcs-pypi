@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.22"
+  ],
+  "meta": {
+    "description": "A toolchain for AWS DynamoDB to make common operations easier",
+    "homepage": "https://github.com/adamchainz/dynamodb_utils",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "f5502077997fce8ff1da8843e618d7c6a44d28381d4107373d209c3b3884e562",
+        "url": "https://files.pythonhosted.org/packages/0b/7b/d39370c4012025752537a9bbe7def9d95d46756da6f5655c2b65a0c2daf1/dynamodb_utils-0.2.tar.gz"
+      },
+      "0.21": {
+        "sha256": "aebebd3125a3c2fe631434a35a98d3bc342039ba07faee7c65827fab40c2e9fc",
+        "url": "https://files.pythonhosted.org/packages/ff/31/4c889285807f3ed50b651c9b9aa0c248cc06d0242943c00767af27e3cbe3/dynamodb_utils-0.21.tar.gz"
+      },
+      "0.22": {
+        "sha256": "ce472359e35e055de185cbb5bc443f40148fce91bfdc89d651a32a8675c66758",
+        "url": "https://files.pythonhosted.org/packages/04/07/046638b7f0fb2a0f7a578325fd4786952da20dfdf1e5fa2a1cae772c28fb/dynamodb_utils-0.22.tar.gz"
+      },
+      "0.3": {
+        "sha256": "e6c43b212eed538a98d77519f9c495334989da6acc30c48dbdd487eed119ab18",
+        "url": "https://files.pythonhosted.org/packages/48/c4/fe0c9606abb0a47c3a2a8dc425f58556e09bd1f8331baae7f3c014887843/dynamodb_utils-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "d0f92c900956d9162fad6ea778594028670fbb80e00a7989188d0d484f48444b",
+        "url": "https://files.pythonhosted.org/packages/00/ef/3b6f88efb6ad1916e535fa0735b0fe75074ba5d16db2587f14cd2f50bde8/dynamodb_utils-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "9cd95363e768767190b5d24695fa4d6ba284cfba48fb5166e1727ea68dd30f35",
+        "url": "https://files.pythonhosted.org/packages/c0/e7/fafb2c7b94ba7fa38b3c9bfcae158df103f00e5ff2de1f3578cc23715254/dynamodb_utils-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "81788bee7967b88bc8c3db4605cff1093264271463361a317d395adfb6316508",
+        "url": "https://files.pythonhosted.org/packages/db/df/11059b66cc53a14464c1e88a5d6af9bd9c6858537f845974191e01f9a4e4/dynamodb_utils-0.4.2.tar.gz"
+      }
+    }
+  ]
+}

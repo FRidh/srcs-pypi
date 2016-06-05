@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.1.3"
+  ],
+  "meta": {
+    "description": "A Django email backend that uses Boto3 to interact withAmazon Simple Email Service (SES)",
+    "homepage": "https://github.com/azavea/django-amazon-ses",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.1.3": {
+        "sha256": "399838cda9fb57436f499165bd20875aacc02792b7537b7ca2f766b5147d7077",
+        "url": "https://files.pythonhosted.org/packages/b2/94/7b99eebfecc5b55c70f26586d185ba49905eca79faa68c96516244150a72/django-amazon-ses-0.1.3.tar.gz"
+      }
+    }
+  ]
+}

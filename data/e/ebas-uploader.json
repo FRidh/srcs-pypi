@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "a command line utility to watch a folder and auto-upload files to an EBAS node",
+    "homepage": "https://github.com/maizeanalyticsorg/ebas-uploader",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "54fbbc1542dcda826bca4e0d4bc0e28dcd2f5d8ebdd380329ce87862342a3f96",
+        "url": "https://files.pythonhosted.org/packages/46/77/c05f8358f284a6b7cd5e9f3cf23cf0bb744a50fbe8dd3666167767b7c487/ebas-uploader-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "4da56ac6a1e43097aee20654d282379d8b1107526aa4acfe8ea2f80c7c9d6d97",
+        "url": "https://files.pythonhosted.org/packages/b1/ce/6c2d54e2e878596812f646264053152231d68380df3e01fb4d6e7270d197/ebas-uploader-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "66cc153cd12f925203427785da2bba10a383c6e1f177685313c96f4193d4db68",
+        "url": "https://files.pythonhosted.org/packages/15/8b/360100ca3f2c34a0bff9d70c40ecf47d587fe81fd23a2462d9e2ccc4525b/ebas-uploader-0.3.tar.gz"
+      }
+    }
+  ]
+}

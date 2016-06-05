@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "JSON representation for content in Plone from 2.0 and above",
+    "homepage": "https://github.com/collective/collective.jsonify",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "1c33cb1ba71476ed92ac2cbd26cd9caa0da94122c654cf5524375e6d1e36838c",
+        "url": "https://files.pythonhosted.org/packages/25/47/75044b81fa0444c3bee79e60f42f8ea546e17a21bc0467d4d9756158e968/collective.jsonify-0.2.zip"
+      },
+      "1.0": {
+        "sha256": "42f9d22fd5629388f5d6820fa1c4f19080895c74d9a40c2e512e4cac67c9c260",
+        "url": "https://files.pythonhosted.org/packages/4c/a9/7c78170e77e0ed859864b9f9ff506d4f069d417a2f5abaf89b8d4bc507ae/collective.jsonify-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "6afc320950c4bfdae0f8ab94d9fdf4bd38edb12ca1890bdc97c7d262183b577e",
+        "url": "https://files.pythonhosted.org/packages/73/bd/2ef94733e630e3d94c4498a0fe99283cab317e206236e02e5be5013c9252/collective.jsonify-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "ae73f4ea05a3591ebc8ede611d0423e95fb2bb4795d29e5ed3875a271e221b22",
+        "url": "https://files.pythonhosted.org/packages/90/1c/63cd20c52c3ebaa43fe0c059fad0cd71d24956aa127658249d83c90d8675/collective.jsonify-1.2.tar.gz"
+      }
+    }
+  ]
+}

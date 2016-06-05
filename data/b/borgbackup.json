@@ -1,0 +1,86 @@
+{
+  "latest_version": [
+    "1.0.3"
+  ],
+  "meta": {
+    "description": "Deduplicated, encrypted, authenticated and compressed backups",
+    "homepage": "https://borgbackup.readthedocs.io/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.23.0": {
+        "sha256": "2012595ce7dc28deb4215e3f58935afbe71275dca707df2ef9416d1c3fe6a61b",
+        "url": "https://files.pythonhosted.org/packages/dd/c4/5215ec45bc57407128bc67667d876f4107911ae2e6067d85eb00cacb3a9e/borgbackup-0.23.0.tar.gz"
+      },
+      "0.24.0": {
+        "sha256": "17a5ae18e6136679bbfb5459b6cde36c07c8498503d53c7d107832c3b6199628",
+        "url": "https://files.pythonhosted.org/packages/46/f7/5defd80c276f927a490ff4e27f2a6518593819636883a19755625db7a89e/borgbackup-0.24.0.tar.gz"
+      },
+      "0.25.0": {
+        "sha256": "f89c5b3e70c439302cd28356cc9b5c3abb000392dd83e7615d8b2fa37c5eade0",
+        "url": "https://files.pythonhosted.org/packages/b6/d1/9ef9cd5b1e34bb4a963071ce4b802ccc469f4e97233278b07fd395487de5/borgbackup-0.25.0.tar.gz"
+      },
+      "0.26.0": {
+        "sha256": "4c665d531a9e3138c67785de57bd440fb26e72b515080255782764269795dae0",
+        "url": "https://files.pythonhosted.org/packages/fb/c2/7232ec32b94b97f0b20fd08c5aaf3970f6afdc7ef7a980245b6598ae45d4/borgbackup-0.26.0.tar.gz"
+      },
+      "0.26.1": {
+        "sha256": "13cac77cda51f8c61d47e3c20c439e9ddb1b190d032e7962d1d568a8ae95acfd",
+        "url": "https://files.pythonhosted.org/packages/82/55/5a8ba96c6bd660535b6788de837615dcc4a8e07d7dcead1e66d4fa6e7e2d/borgbackup-0.26.1.tar.gz"
+      },
+      "0.27.0": {
+        "sha256": "2b61e9baea912fa7f120673eaa03ca55053d8669879cd0a7f1dc91a75afc3112",
+        "url": "https://files.pythonhosted.org/packages/9b/ee/b73a9e418df6111eaac18a94a041c59a5f8b92a5fe37c2989ea732bccd50/borgbackup-0.27.0.tar.gz"
+      },
+      "0.28.0": {
+        "sha256": "2b6af7831d9ed81a6bc9918f7657fa6e65ba3707e6a23e581f53c46d179b173e",
+        "url": "https://files.pythonhosted.org/packages/97/8c/95b93850409f80329f1d9ae3934da504649ad2b512d00801b3490970c17b/borgbackup-0.28.0.tar.gz"
+      },
+      "0.28.1": {
+        "sha256": "209dec1dadb95975281cc75b83a9e0d8899f89495eb759ac0a96671cb275980e",
+        "url": "https://files.pythonhosted.org/packages/27/d7/bbecdbfed14fc8f6eb74af1efecfeaeb602bde834f3cae9925b7f492a240/borgbackup-0.28.1.tar.gz"
+      },
+      "0.28.2": {
+        "sha256": "cf8ee95758242065556ca500e49c62ba48ae62895d7dcf44e49088a0c22af0eb",
+        "url": "https://files.pythonhosted.org/packages/ac/db/8efceddfd1c5c4a162e21750edbaf7a711390ba2ec4959ee5462182fe51e/borgbackup-0.28.2.tar.gz"
+      },
+      "0.29.0": {
+        "sha256": "b57859a3b39c703695a631b75621e6efbc18571c99a1974b8326c8a3cc007dbf",
+        "url": "https://files.pythonhosted.org/packages/bb/62/70f28033285575c1f9c60c80204b64c07d285057665293c4385829610e7a/borgbackup-0.29.0.tar.gz"
+      },
+      "0.30.0": {
+        "sha256": "a467310d2846cd90ddfc371f2d981994ccd8dedf8c2b99a25fd8b5295062e858",
+        "url": "https://files.pythonhosted.org/packages/5d/df/2ebf4fc873dae024b69502881e9f6e779f65328ec5b6ceaabe1800480305/borgbackup-0.30.0.tar.gz"
+      },
+      "0.30.1": {
+        "sha256": "775a2a4b5441fa239e6c3c87e7f08f830449046d045ed938a9bce2edfa5a2184",
+        "url": "https://files.pythonhosted.org/packages/52/75/3f4983b0bef848b5cf792ec07f3c0a9deeaa60209c4eabfa7977b38ea319/borgbackup-0.30.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "500b9e311331aa88ec07df94d9f3280a79ca207bf1a997b92dd1e6a1f1664671",
+        "url": "https://files.pythonhosted.org/packages/cc/96/ad73669b7b5fee25fb0497fa11577f97a4ad6d06e01605b538255d27f8cc/borgbackup-1.0.0.tar.gz"
+      },
+      "1.0.0rc1": {
+        "sha256": "0fc850d16b1c9bf36c35de20048cfa11e85d70f0b6dc569ba603851a13df59c5",
+        "url": "https://files.pythonhosted.org/packages/e8/d3/3994eb516708cafff795b141e47f47bd6ffbd8f032ff576c4b53ca2a976e/borgbackup-1.0.0rc1.tar.gz"
+      },
+      "1.0.0rc2": {
+        "sha256": "e5b118e7e64977a1a71ca5e562923da6d01a63ebeac68d91fe339cd660f2dc48",
+        "url": "https://files.pythonhosted.org/packages/f5/9c/65fbc762c5900255d140158560ccef6db99b6392b943d453d6b9f6db1e32/borgbackup-1.0.0rc2.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "58a2c2e649207c8e15223f6380d238124b0f1b45fd83990a40df5b678cd41fba",
+        "url": "https://files.pythonhosted.org/packages/5f/66/b85eb3f5afa6f96fc7c4eccfc9340182538e120c01f411e71b585206a9ee/borgbackup-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "11ea343290f788a2d849f43ebb07e8f0990f651f3cf097ca4f4cd9ce2f08dfd7",
+        "url": "https://files.pythonhosted.org/packages/fb/03/0ab28c3eadd4a31929386d29b6a887d2a0ae9e63a282cbb7835c809e54f5/borgbackup-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "7a79c53f2fd3f8a687bb10dbec4591ce95878f89f4467544ef4e7a005407f94f",
+        "url": "https://files.pythonhosted.org/packages/c9/c6/1efc338724b054d4d264dfeadfcba11cefa6c3c50f474cec91b8f0c21d3a/borgbackup-1.0.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "A Django app that will only allow one instance of a model to be created via the admin site",
+    "homepage": "https://github.com/tdsymonds/singleton_admin",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "9e0b588a49509ad0ccdec5457faa7974369ecd6e74291cc6a43d150de6643374",
+        "url": "https://files.pythonhosted.org/packages/14/cd/77d583f48cd680d74e7bd9885a75f8d3d1d2a34e39bd25da81b96400b51f/singleton-admin-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

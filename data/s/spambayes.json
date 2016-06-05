@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1b2"
+  ],
+  "meta": {
+    "description": "Spam classification system",
+    "homepage": "http://spambayes.sourceforge.net",
+    "license": "PSF license"
+  },
+  "versions": [
+    {
+      "1.1b1": {
+        "sha256": "4dc4aef5b0b3c3a02d8d36391d3ebde6ab3078e4aa39f0611b226f03993c9c36",
+        "url": "https://files.pythonhosted.org/packages/d9/6f/3d624b0280cd7d35360dbe2925b744678e75f2baad73f408af4fe174aa90/spambayes-1.1b1.tar.gz"
+      },
+      "1.1b2": {
+        "sha256": "8d186d1e7a67de88941f27e0cfcfb4e88fffd7706f51e9181a5bcdaa1b6f8294",
+        "url": "https://files.pythonhosted.org/packages/e2/87/20e962b1285d9c6273cb7f7c6c0dfbcbfbe48085d3df5f4f4413fba3c729/spambayes-1.1b2.tar.gz"
+      }
+    }
+  ]
+}

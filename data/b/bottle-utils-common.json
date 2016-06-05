@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.3.2"
+  ],
+  "meta": {
+    "description": "Commmon utilities for developing apps with Bottle web framework",
+    "homepage": "http://outernet-project.github.io/bottle-utils/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "380842eeb002025954838ed18f7006c547f36afc34bd5027f27cff64fe36528c",
+        "url": "https://files.pythonhosted.org/packages/0d/22/e842153f775d639e877d7b07319e61872f3f720341f8100cf1c87a173746/bottle-utils-common-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "4ad0d23319a9e1a3107c248136eee61fce981607df51ea70bbdc98e086a6e0c9",
+        "url": "https://files.pythonhosted.org/packages/57/69/a1d3d18c5bc3dca637e1095996b57529700ddc5623f2a7ad398e2ddb02cf/bottle-utils-common-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "988b0f5db482ba3516795b6f1a623a2e54584c8959c856d536d28b33869ec61b",
+        "url": "https://files.pythonhosted.org/packages/7a/73/a39b4808321e432f6eeb840c8b50d524f5d94f5c8d190bda1ff51c011c69/bottle-utils-common-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "ca86aeadf1227477f2fb83c64e47aa4cd2f39c150e52e4b3d837868cf2d974c3",
+        "url": "https://files.pythonhosted.org/packages/64/e4/69b5c3cdf3d563af5a3544d89a1f3919a4d7c1fb68918763d9bf737e7273/bottle-utils-common-0.3.2.tar.gz"
+      }
+    }
+  ]
+}

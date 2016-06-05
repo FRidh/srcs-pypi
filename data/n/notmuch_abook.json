@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.7"
+  ],
+  "meta": {
+    "description": "Notmuch addressbook",
+    "homepage": "https://github.com/guyzmo/notmuch-abook/",
+    "license": "WTFPL"
+  },
+  "versions": [
+    {
+      "1.7": {
+        "sha256": "7154eab2886f0dde66106bcd1f65983953a1c9b236cd5ae5c53d119133a2f83f",
+        "url": "https://files.pythonhosted.org/packages/a5/9c/d840ca22bfd0bb800413311a07d5d22e3f895502889255724cd3f4e33739/notmuch_abook-1.7.tar.gz"
+      },
+      "v1.0": {
+        "sha256": "88fca3d33bba220ee5199525a1e5dc454a94e1e2ec132e8018ea12918d54b1c4",
+        "url": "https://files.pythonhosted.org/packages/e5/c5/770bcb6adf1b3beaa9c2dac135a4256790898ce86c2c5986579b348530c0/notmuch_abook-v1.0.tar.gz"
+      },
+      "v1.5": {
+        "sha256": "24918ff234e13f0472cbf37b741fc6e9f75cd5420ad11b3ea4df44c372ae295d",
+        "url": "https://files.pythonhosted.org/packages/69/35/5a4756add3f9f6c5b4ef0154f0bced293ec99875dae5d794a2eefd861c52/notmuch_abook-v1.5.tar.gz"
+      },
+      "v1.6": {
+        "sha256": "16fb55dc7c83ac32c956d210c8f2469bf8c31b0d37643598c91bde627ad7f5b8",
+        "url": "https://files.pythonhosted.org/packages/56/06/81b584eeea3d0c5962fe9b0571217f9510346b2a6c43dffc2fe44633ce3a/notmuch_abook-v1.6.tar.gz"
+      }
+    }
+  ]
+}

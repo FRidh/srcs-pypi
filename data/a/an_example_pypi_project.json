@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.0.5"
+  ],
+  "meta": {
+    "description": "An demonstration of how to create, document, and publish to the cheese shop a5 pypi.org",
+    "homepage": "http://packages.python.org/an_example_pypi_project",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "8417634aedb09ed12812ece1b87e26760e31229528a0476234fc54403e28d0c5",
+        "url": "https://files.pythonhosted.org/packages/14/a1/3495fc03ea02599b22d594459abef8eba25bea274792cc5ad1fec8588a5d/an_example_pypi_project-0.0.1.zip"
+      },
+      "0.0.2": {
+        "sha256": "3bde5b4d5cb0a443b84c6064af3ba705df888bacf3bd53abb388c25abb07f4f6",
+        "url": "https://files.pythonhosted.org/packages/2c/e7/71a2789743aa91ad9797936740e63ff725e0b831bf5d6819c24c8a3d5d64/an_example_pypi_project-0.0.2.zip"
+      },
+      "0.0.4": {
+        "sha256": "6004d079cfe4651526142f30aab1d8efe02ac175e5f50a482a6ad65d2b882ef8",
+        "url": "https://files.pythonhosted.org/packages/6d/06/587cd48662fe1d30ab132883763ca2fabcf6c911d90731d8641ac3b347b9/an_example_pypi_project-0.0.4.zip"
+      },
+      "0.0.5": {
+        "sha256": "31bb1a42b4ff44e6d852fa8aeab43cfe57a716ed383546679189c255c6af6ea2",
+        "url": "https://files.pythonhosted.org/packages/c7/a2/15f00919c27a941eed4e8963f5797ae758a7a9d69e34f46f8102a40154d3/an_example_pypi_project-0.0.5.zip"
+      }
+    }
+  ]
+}

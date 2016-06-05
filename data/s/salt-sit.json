@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.0.1"
+  ],
+  "meta": {
+    "description": "Salt Integration Testing Tool -- applies role configurations to Docker container minions using AWS (Amazon Web Services) ECS (EC2 Container Service)",
+    "homepage": "https://github.com/dandb/salt-integration-testing",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "cebb10f0d1c304bb7f6828dc438e04bfaefbe613b036793525cc12f40e53540b",
+        "url": "https://files.pythonhosted.org/packages/df/23/63ae4cab0f79d706dc5cd8a3c2f1ec7ad4196ecf6d2581820f3a8a4250a4/salt-sit-0.0.1.tar.gz"
+      }
+    }
+  ]
+}

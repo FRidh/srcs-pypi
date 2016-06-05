@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.12"
+  ],
+  "meta": {
+    "description": "Clone github repos in bulk",
+    "homepage": "https://github.com/khilnani/clone-github",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "602ffa29ac55c2d09864fce2297d747398e254ef6d37c3f1ed73ecaac775c3c9",
+        "url": "https://files.pythonhosted.org/packages/b7/d1/d379c8a92c9eba833c7edfff05924348bad7d5cde57bccc0cddfe11b2cf4/clone-github-0.10.tar.gz"
+      },
+      "0.11": {
+        "sha256": "1615a941326cf0542df2bb53dc46e859ad7e0a8baa6643fbf7980bef34b32407",
+        "url": "https://files.pythonhosted.org/packages/7a/ff/fe2f44c94d7835aaf00ce0f1accb73406e5d297be585d13d0928d8f74057/clone-github-0.11.tar.gz"
+      },
+      "0.12": {
+        "sha256": "da3507816d91c7597b951390d67aae8b839086953c8d6fa31afca84a783c33f5",
+        "url": "https://files.pythonhosted.org/packages/ba/cb/00efad8e8ca305df2e0f102a5436e622d552c17309a54f30f329f59e43a4/clone-github-0.12.tar.gz"
+      }
+    }
+  ]
+}

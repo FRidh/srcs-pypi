@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "v0.5.1"
+  ],
+  "meta": {
+    "description": "Simple solution to backup ec2 instances using snapshots",
+    "homepage": "https://github.com/enovance/ec2_snapshot"
+  },
+  "versions": [
+    {
+      "v0.4": {
+        "sha256": "c67b1f1c86347148d9dde83be50cad7c5ca31f9ac7d5136e41a41a63e884aa2f",
+        "url": "https://files.pythonhosted.org/packages/f4/4f/d9f7bf8834c6d654a08c5aa6b5e0e955bb53c430576d13b1d7a201a947f1/ec2snap-v0.4.tar.gz"
+      },
+      "v0.5": {
+        "sha256": "20b0720e5b6fb178444727c812d2496b5b4f59cd9bdb0f24698139aa1595720d",
+        "url": "https://files.pythonhosted.org/packages/16/e9/f17794beb9371006f0d201f742203970204acc89a254721bf87ae6d511ee/ec2snap-v0.5.tar.gz"
+      },
+      "v0.5.1": {
+        "sha256": "1ad435a5375e723fd7882584ab63111701fd70c21c2f61a44f2cb7bd05069bcc",
+        "url": "https://files.pythonhosted.org/packages/ea/9a/848f41d845e6280c12d1e22763c10d10232296f17f528972c562d4612825/ec2snap-v0.5.1.tar.gz"
+      }
+    }
+  ]
+}

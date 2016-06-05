@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.7"
+  ],
+  "meta": {
+    "description": "RAR archive reader for Python",
+    "homepage": "https://github.com/markokr/rarfile",
+    "license": "ISC"
+  },
+  "versions": [
+    {
+      "2.4": {
+        "sha256": "1418ba4b7b4d915bbb7ac4a7be15dc6f80f61cadb0014acb1abf0b868fd1a63b",
+        "url": "https://files.pythonhosted.org/packages/2c/a7/dea4ec9dca7b1ca88af93c1ba59749ea611ee4a06863a7f31773b4558a36/rarfile-2.4.tar.gz"
+      },
+      "2.5": {
+        "sha256": "caacdb6f6c5efe7b458764249d00e5b0a68655562128342ddc8fe808f5848a32",
+        "url": "https://files.pythonhosted.org/packages/e3/c2/5244b5da35cb6403b418cb016d31ef3d9bc6bc250b93e90dcf05e14f2616/rarfile-2.5.tar.gz"
+      },
+      "2.6": {
+        "sha256": "326700c5450cfb367f612e918866ea27551bac02f4656f340003c88873fa1a56",
+        "url": "https://files.pythonhosted.org/packages/f9/b6/0add08cb4204cc4a0d87b6074c72a928ded25d38302523ce1a77a4392775/rarfile-2.6.tar.gz"
+      },
+      "2.7": {
+        "sha256": "47148088ddb6c020774f4c38927fec9625ca33651bdc551bdaeafc78690b1635",
+        "url": "https://files.pythonhosted.org/packages/5c/19/e03b15dfc4b8bb65883f1413df306b46cf3e4ee52239c8d7806dd44c013b/rarfile-2.7.tar.gz"
+      }
+    }
+  ]
+}

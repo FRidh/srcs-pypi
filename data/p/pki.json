@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.2"
+  ],
+  "meta": {
+    "description": "Toolkit to manage X509 certificates and RSA keys",
+    "homepage": "http://bitbucket.org/faide/pki/",
+    "license": "MIT or PSF"
+  },
+  "versions": [
+    {
+      "0.3.1": {
+        "sha256": "4f562198a3ff54b5e7a186ed58869a95b09009058d7cec1ca2d6e46f991cf074",
+        "url": "https://files.pythonhosted.org/packages/65/c8/6daf2a52908d57a6ff3f685a794ce318d5f84c6b377f5e2b76e1cc974e06/pki-0.3.1.zip"
+      },
+      "0.3.2": {
+        "sha256": "254d90e16f5997f33bab8793fcfc5fcd18b6606f8b312ecc53c2d8807fee541f",
+        "url": "https://files.pythonhosted.org/packages/00/9d/86a1f9d854f9317e67e25a6f1ebf1716e5733478c250d3f74b078ec76269/pki-0.3.2.zip"
+      }
+    }
+  ]
+}

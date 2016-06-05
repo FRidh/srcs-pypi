@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.0.4"
+  ],
+  "meta": {
+    "description": "Damn simple logging wrapper compatible with eventlet",
+    "homepage": "https://github.com/little-arhat/eventlet_log",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "e7fc342691cf3224091b2fb43cf2632baf377e4d8104db4a068f3f1feb0031e3",
+        "url": "https://files.pythonhosted.org/packages/ba/af/fc2c66e0f5e7626b0904060b3837ec0fe176eb95e4bd0d4aab4e1a757ebe/eventlet_log-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "4d872c51988b80e37fa5bd939e1e1836cba4b81c2b59996786aebd9e128f4ff0",
+        "url": "https://files.pythonhosted.org/packages/73/4b/8314ba17605d7c35f455598614cdf9d13168a4656f29ba6e71ca8ea9a3de/eventlet_log-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "5b74be55079187b717dc9a60e9190b9679ca2b4198e759f36275c3a80d9e02d9",
+        "url": "https://files.pythonhosted.org/packages/71/c9/291b9fe1c617fb91f7cded90bc2c1a50d4cb0cba6b87f030bcc4486fda5c/eventlet_log-0.0.3.macosx-10.8-x86_64.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "8ff640b92ac24e927cd5c36fb65c502e901209a700bc6b9dd3cc5a4449c7f1a8",
+        "url": "https://files.pythonhosted.org/packages/37/57/30392b88657937b1c2ee584992fffd676de6e177f4f73254c586171ff8e2/eventlet_log-0.0.4.macosx-10.9-x86_64.tar.gz"
+      }
+    }
+  ]
+}

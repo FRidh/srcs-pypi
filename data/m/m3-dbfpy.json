@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.3.0"
+  ],
+  "meta": {
+    "description": "Access .DBF (dBase) files from python",
+    "homepage": "http://dbfpy.sourceforge.net/",
+    "license": "public domain"
+  },
+  "versions": [
+    {
+      "2.2.5": {
+        "sha256": "963d8da36927d1904800d8d29ce6794960a11b878a1458e32355025c41a00518",
+        "url": "https://files.pythonhosted.org/packages/cf/80/e9ae9d17dbafeb85360b431031b89649702b4205a190312f1824da9e12a7/m3-dbfpy-2.2.5.tar.gz"
+      },
+      "2.3.0": {
+        "sha256": "efc2c33700f7a52844abd615a73696ce15fa0485de8821b6038f2b1071e238cc",
+        "url": "https://files.pythonhosted.org/packages/5f/fd/1835727c9b795ee680c61fdbcbdb4999612b5adc2208f9f5366ddddd5a26/m3-dbfpy-2.3.0.tar.gz"
+      }
+    }
+  ]
+}

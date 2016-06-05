@@ -1,0 +1,270 @@
+{
+  "latest_version": [
+    "1.7.4"
+  ],
+  "meta": {
+    "description": "Mopidy Web client extension for mobile devices",
+    "homepage": "https://github.com/tkem/mopidy-mobile",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "bcdd110bc11a3a03879fcf771b2dc7de6f0991b79495309ac17bb24ac7a34a7b",
+        "url": "https://files.pythonhosted.org/packages/7b/b6/8c39b9eacf19437e6a9f536f8b2bc786c50b9cc4fb8965f71072dd8e4b3a/Mopidy-Mobile-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "e74ad483f5f811a88e07aa0df001e8ab9dbcd02f069f453f82faa1d42866521e",
+        "url": "https://files.pythonhosted.org/packages/19/82/77fa93e388fede9a04d8f114c9504a98a97e8b6148fb619902d155aaeefa/Mopidy-Mobile-0.1.1.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "cb799b8d10b16712bbb66f89d2e7d80375aecf502a7afdd3113c9f4f32662f85",
+        "url": "https://files.pythonhosted.org/packages/5d/5f/2b6d9e851a65ee17696d8acd2f683653e09b081e313a07b45a3b49e6e938/Mopidy-Mobile-0.1.3.tar.gz"
+      },
+      "0.10.0": {
+        "sha256": "3d90740f8e04cf5cacc9c44af17beabb9b12dd63f96071cc5d2bf529e6dba591",
+        "url": "https://files.pythonhosted.org/packages/36/2e/f454248a91c9967a40ff835bbb6ca04b299178e1c58065a66ddaec359043/Mopidy-Mobile-0.10.0.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "47bba6488308bd259275d23eee4ebc50c1ac4e235e442a7f828038dad7bc7ddf",
+        "url": "https://files.pythonhosted.org/packages/bb/92/68b5ab902fece36a54e6c3953af97933aec642b49617783c3953a2a702ee/Mopidy-Mobile-0.10.1.tar.gz"
+      },
+      "0.10.2": {
+        "sha256": "346e3eb9e065739efba290a5ae77bb34424bc0f7598e768682325e41e51cef22",
+        "url": "https://files.pythonhosted.org/packages/50/12/a70b9d79c6d13fb4c1cda559e8f53178db21a232297da8c4f30032916535/Mopidy-Mobile-0.10.2.tar.gz"
+      },
+      "0.10.3": {
+        "sha256": "782b65661f702a028b434d2f6ac884dfc4caac0e00885a1895a63631a1b0a796",
+        "url": "https://files.pythonhosted.org/packages/a9/3d/08cf0ff76bd27fe4736fc0276dc3c8f93a5fe62630d49592553c2c255a8f/Mopidy-Mobile-0.10.3.tar.gz"
+      },
+      "0.10.4": {
+        "sha256": "847c30d75cec891d226d5eaa644d0ebbf2dd3d358f887a74a6006c952ea24e78",
+        "url": "https://files.pythonhosted.org/packages/26/e9/ba28e3ea249c2fb6b23e2c723816c4ad829e168b3d380857e90ef9f8ef7c/Mopidy-Mobile-0.10.4.tar.gz"
+      },
+      "0.10.5": {
+        "sha256": "10b9c5fb12e5734e23b5d587058a0ba9996385d9a39233163fdcfdd49f4b9621",
+        "url": "https://files.pythonhosted.org/packages/29/76/4fa997d61f3ed1fb6b5c99c5f1b4a3be66aeb93514c0a88153041626ea85/Mopidy-Mobile-0.10.5.tar.gz"
+      },
+      "0.10.6": {
+        "sha256": "29356e4e425aba9c0bb8055d22bcb9944470e55d5c53e2beb5cbecdb07a23bd1",
+        "url": "https://files.pythonhosted.org/packages/69/2c/64f130cc7b1a7af8dbe00f0baa86b53261af1454e6039fbb7971d8261124/Mopidy-Mobile-0.10.6.tar.gz"
+      },
+      "0.10.7": {
+        "sha256": "8bae75b3eed7294ae5a9c0a216c9dcd68014988ffbd1644a97a9985bf655fce1",
+        "url": "https://files.pythonhosted.org/packages/17/e8/a9e60176abb56dc788d35c58fc65d85e370f62096dc0ced10c65f975c028/Mopidy-Mobile-0.10.7.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "58d771beddfcff49bba5638bca9d96c89ee904de7f770c862a7b9691045d829c",
+        "url": "https://files.pythonhosted.org/packages/27/9e/81c1fe9d9a864fde2cc4874bdda1d19ded48431757061ca613e801048ddc/Mopidy-Mobile-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "854e7992c681200be9463f25079d64d8ca8525d25722a8ec159deb988b36a00c",
+        "url": "https://files.pythonhosted.org/packages/ce/cc/ddac83a6d94a6aab3969a5e964145f55538bb140e05c3503222c01d01798/Mopidy-Mobile-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "8d2ccd363b556ad0f4eb1aa84a35435013a2d29d801e120418b2f8517a581268",
+        "url": "https://files.pythonhosted.org/packages/87/97/197a4caf1747093f46f16821b876ae7dd755d2b17e09597a4b9672f2edf4/Mopidy-Mobile-0.2.2.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "7fe108f40f851b16595e691cc2994ee2dff138bc4e593a574f8261ed906824be",
+        "url": "https://files.pythonhosted.org/packages/e4/9d/74fab897570fac2027809588f45fe6a4bc6dde0ae48f7c368c1066588952/Mopidy-Mobile-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "a2beede4a6731aa14cdcc2214708d71fda80e48808eede8e98044cc8e09f23a6",
+        "url": "https://files.pythonhosted.org/packages/67/5c/0d3da27b226c9188d323bc64d737eca06375a05ff395f29f63b222b8c42f/Mopidy-Mobile-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "e0f7a368586acda009582bf53c9ec35c75fd2ff07aa3d4be6b391628e5466a37",
+        "url": "https://files.pythonhosted.org/packages/4b/17/7230b1e00f677b05ba5fd8570bbccddb23b585bd9233361499de42865459/Mopidy-Mobile-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "8fd4a46ec90be43b80c348b7a7797e1f01583b25f5565c61005a0b798eed1511",
+        "url": "https://files.pythonhosted.org/packages/eb/0c/dedeb13d5c4a18c1f42fcaa7a363c5b1e8eae145135c117cffa4d3bc71b2/Mopidy-Mobile-0.5.1.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "81d4f28c835f98afa7797672afebbaa631eeadc82c40b8be71ce4b2e4b0df6ba",
+        "url": "https://files.pythonhosted.org/packages/a0/6a/4584e3b054eac23158c97b02fcd4130cea67e6ca6957dea5cd834b4cc846/Mopidy-Mobile-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "cefff776189f4afd97df50d7b2a2504d78982f7a7143aaf57bc48ad77b190be4",
+        "url": "https://files.pythonhosted.org/packages/13/e3/6f84dde996ce72926f53d67f53a3754e53f7a24ff09f4ee8025dd703c0bf/Mopidy-Mobile-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "318fa123190414123156c8e5c8547c40ea9f5011fd8d23b943ba9b2d4c9cb503",
+        "url": "https://files.pythonhosted.org/packages/df/0a/e9578e3968136a2b4da9a9ef907dae62a4455c02ec13fcd9f58eee032149/Mopidy-Mobile-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "1d96e229c6fa4bba1b75ebea047ac4897f0ad95717248d4a26eac4f16c8bdf32",
+        "url": "https://files.pythonhosted.org/packages/80/63/2e182a175743ff2c7dee3c12046cf92712158b45b179708deab81840426f/Mopidy-Mobile-0.6.3.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "9b4b7b9e66d034cd9f12c6cfa765b7fa0f141cc71aafb784e582bfc681a30e90",
+        "url": "https://files.pythonhosted.org/packages/0d/be/1c8f8fc98c7ad72719f976a815b8f339efdfad3ae4212f99693cbdbf2db6/Mopidy-Mobile-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "ff1b12227a26d9eabfa3e0bc96ec4dcff4dfec868f27e2e8b0a6355c6a61e710",
+        "url": "https://files.pythonhosted.org/packages/95/64/a193e6e7e4ecb9e45f78847354f68121d93894bb52a8a53b265840c2bd0c/Mopidy-Mobile-0.7.1.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "82bcc4c3ba2305fd6c6d00b5214e3baacd40d022fbc376c7adbe52ef121d8952",
+        "url": "https://files.pythonhosted.org/packages/af/e8/7e727facca714f7d948dc263d6f164e861816c0a1889e2ab7cb403eeb87d/Mopidy-Mobile-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "2ff6ee1383539dfae577ac4031b57e028f7851d2c02dbada58043a7f008783fb",
+        "url": "https://files.pythonhosted.org/packages/24/e2/32cc7e4c15ff5985af979ebde3b9a9de76bb2b972a30f70bb5bd893cf570/Mopidy-Mobile-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "58b2f2085dcb1a8d839313653a9d1a2c79262828db1be900aabdd9d50b62c441",
+        "url": "https://files.pythonhosted.org/packages/0d/be/77ba5ccb999d719eaaf8c115d75e0140190ae8f27aa25b2b7857676a8ee2/Mopidy-Mobile-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "f95183f542604fb2c56e8e71ef267ea83925b3d88450b203158f1cd6540fda0d",
+        "url": "https://files.pythonhosted.org/packages/f5/9d/3d9f8248e8a130a0d6a0760e64ef99d9e81a3c6ba36be36c701057244fbb/Mopidy-Mobile-0.8.3.tar.gz"
+      },
+      "0.8.4": {
+        "sha256": "245c954a5aae746053efb270cc8e2455a4aa1a9cbcbf460355752ad0fb054ede",
+        "url": "https://files.pythonhosted.org/packages/b7/e4/2f282912903bf9572bbd2e0a150bac49d811d14b30e4e1336176a692b527/Mopidy-Mobile-0.8.4.tar.gz"
+      },
+      "0.8.5": {
+        "sha256": "6b7a81620f3f5eb8e9b3cebfd0f04ba9b402502afeb8deceea278bc8a2ea06cc",
+        "url": "https://files.pythonhosted.org/packages/40/30/dcec51b92edddde965a5d6f5ddd7560c221c043b05d46e55802767db4505/Mopidy-Mobile-0.8.5.tar.gz"
+      },
+      "0.8.6": {
+        "sha256": "fce166e209438d505373ea6764a3be7080fbb21da2f9c04eddaf90621eed9bdb",
+        "url": "https://files.pythonhosted.org/packages/b1/9d/4301a3acfb61ade1528c0944faa75683c4ce6b2c381e98dab111bd1a114a/Mopidy-Mobile-0.8.6.tar.gz"
+      },
+      "0.8.7": {
+        "sha256": "16c8f1b1808f8a0290b022e13eb291aa14c96ec3cdb64d4b34fd6e27b10655ab",
+        "url": "https://files.pythonhosted.org/packages/19/19/7b27c3464889bb16a0e1b5745bdecd664156e1f4e4cec11a1c2edecb0baa/Mopidy-Mobile-0.8.7.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "c662cf4ec8893cef5c0c5f22903dca1e692831d23ad275b2cb5eb42e86d7d275",
+        "url": "https://files.pythonhosted.org/packages/c3/99/4473ae0217c821464e342632488ed4019537f1bf202346a650e89b93bf5a/Mopidy-Mobile-0.9.0.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "34a59aab6a4ab9d95026c708bc2c31e6170f56bbd2f5f70737ed3997123c3bbc",
+        "url": "https://files.pythonhosted.org/packages/a0/77/0cf599cf3965245a3cc4b52f940251f59494ba38baa1f60e88cf19bc0010/Mopidy-Mobile-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "861e2fd374db1caaa91f15de73a1f66ce4c2dda95120de74587ca8ca290e99d6",
+        "url": "https://files.pythonhosted.org/packages/b2/47/dcaa485c82e0d5d0edb0707cb3d6bacbc5318acac20c18a81b65c245bd2b/Mopidy-Mobile-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "7ff0bb7195489363081b7214853879d360e090a93b3bac20f6c34e7876023515",
+        "url": "https://files.pythonhosted.org/packages/80/b2/785bfc1c5d451483082a3dcf2a9d713e9c0282823ab149c0b3fbec6321fd/Mopidy-Mobile-0.9.4.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "b488d8de993893b8d609a4adb9adf8ae5f0ea9bf5acb21030ce18b126d77b914",
+        "url": "https://files.pythonhosted.org/packages/70/09/0d1a5ea607d469019d70ab4dffa00dec307ca313f3d49d9a78c4af02b005/Mopidy-Mobile-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "8e4d76b0a7bc6aaafbe8fe388812f6f064be26de65de7efaf5981a30e405132c",
+        "url": "https://files.pythonhosted.org/packages/32/00/de01f65c16dd6635047ce8585c116657a2dc98eba62d87c4b4c7ad930f1e/Mopidy-Mobile-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "1bcbee871ab3937db2fcae5ec9591df5bab1c5d83abed7450fc8569d5322a715",
+        "url": "https://files.pythonhosted.org/packages/8a/0e/0bb06b66dd9352a12df4a419aa448bb7d1d3a81ae626e0e706c38bc4f475/Mopidy-Mobile-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "0668fec95e1ae54e1991bd3b02c82eba4979fe20e5b36dafbb8e4b6acff0a2b1",
+        "url": "https://files.pythonhosted.org/packages/0f/c8/0e06154257884cb24dda3a61cebf27a325fcb72da2b18b45116cef50e950/Mopidy-Mobile-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "dcffa66edb1b2c599a7e124048556921ce01ef36bf1b9f7287ce1cec684943b7",
+        "url": "https://files.pythonhosted.org/packages/19/4f/70d71e022294a8164a1add504464e588b3fb6c8288d6dfed52236121013a/Mopidy-Mobile-1.2.2.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "f71eef0cb8cf9df49617780b65e1f464f9ce85a0c3b63ea7a50550d0f9e45a11",
+        "url": "https://files.pythonhosted.org/packages/57/2e/c75e252db8b0695a8a4a7856074e0f2a40932a159be0730e5083665a9ee1/Mopidy-Mobile-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "efaf69a9701ab6af37dbbc81c0c693c4c35004bb16153d0854bd81bfed884db5",
+        "url": "https://files.pythonhosted.org/packages/13/3d/25ccee078cdb24e22eb27588c3c4faf410dfae7100c820d719b0a959e004/Mopidy-Mobile-1.3.1.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "9577d0ca007c34baf5c5a85fc2c5d12a7c0be7c26ee6b09f5315caa085e66da7",
+        "url": "https://files.pythonhosted.org/packages/88/b7/cdddf0c69117e8e645682378eaceb6ef9981ac06e8c5e40504f166427b5b/Mopidy-Mobile-1.4.0.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "b3527130ad64bc1f0b82c907b33f8b141b60f5787b030b1e325e40f46cc886dc",
+        "url": "https://files.pythonhosted.org/packages/37/dd/147165633c6837422c5b0d274e1499b0a7682ffcbb2ce2c5ab621eb6ba9e/Mopidy-Mobile-1.5.0.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "38f3d48ad008a998e52abf172a9ba11b4b900969c7b2c9152e9af3a931f2e62f",
+        "url": "https://files.pythonhosted.org/packages/dd/48/0421daa7570e61b0a8af0cb210a99554f10e389f3d37c587ec6797662d5c/Mopidy-Mobile-1.6.0.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "cebf7f610527b2e2678fff8632b42571e9007be28f5586b32b8b10394b201091",
+        "url": "https://files.pythonhosted.org/packages/3f/4d/ab9d565dcda9c05e3b1c96a5dccb63930c3c9e3d4f2aad6f79d17e7f2e0a/Mopidy-Mobile-1.6.1.tar.gz"
+      },
+      "1.6.10": {
+        "sha256": "0509251da2adf81499b87f36967960c6af31150eecf1f714bf3761d6b48f2267",
+        "url": "https://files.pythonhosted.org/packages/d2/85/ede328b19d8b6be537d2a319b786c9dd448e98afec0c9b0b3a48a3c915fe/Mopidy-Mobile-1.6.10.tar.gz"
+      },
+      "1.6.11": {
+        "sha256": "9658fd036c5b3842ba7c72eca6e63720d9eaff3de363040d19dd7f9a374fcb66",
+        "url": "https://files.pythonhosted.org/packages/7b/f6/de1f032a81a78fceed2e0d6afd90234bd4ccc8d030815919121bee014454/Mopidy-Mobile-1.6.11.tar.gz"
+      },
+      "1.6.12": {
+        "sha256": "8ebec11910dee25b1ac792dfe8cf26fee5bb31e830b0ebcfc5f97387cb27a224",
+        "url": "https://files.pythonhosted.org/packages/a3/1d/b1987f0f0303f6f6006237a27bbda2dc1a86daeca333d65d1925e792a3eb/Mopidy-Mobile-1.6.12.tar.gz"
+      },
+      "1.6.13": {
+        "sha256": "afbdefdf111f8bb5671000ab985f038ee0ba5876546e54e062ef9c8b76405f43",
+        "url": "https://files.pythonhosted.org/packages/6a/5c/43501f0a4c092d4cb24135b12f2dfe6bd07677ba18a046ab87fdd3131e6f/Mopidy-Mobile-1.6.13.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "61b62268c34eff2d419e4fb76cc2448ee44b7fd8350182132f10106957487663",
+        "url": "https://files.pythonhosted.org/packages/23/bd/3fe55535bc4d92129ce5183b83e560d863c03b7a84d72c451510b2bbfe87/Mopidy-Mobile-1.6.2.tar.gz"
+      },
+      "1.6.3": {
+        "sha256": "a84d6068dc498ae43c26e88aaee9865f0a59d2cbbd3948b67fa26a6708223f16",
+        "url": "https://files.pythonhosted.org/packages/91/99/dd90eac054b35d82b7d30d64b59a4b1bbb901198ce56d0123ed75c04d7a9/Mopidy-Mobile-1.6.3.tar.gz"
+      },
+      "1.6.4": {
+        "sha256": "00c5f688cb5e98c2748999194bcc62aa2d45bd6d540af355c40bd78ddb97e25a",
+        "url": "https://files.pythonhosted.org/packages/cd/40/48e1940ca6d8c77f858ccc1c644ee335d883031f21eeec9bdad5cba4c6be/Mopidy-Mobile-1.6.4.tar.gz"
+      },
+      "1.6.5": {
+        "sha256": "39499222bd4abee18e0c2300ebb0afb3e79fb658527b876bb3d56b0741593685",
+        "url": "https://files.pythonhosted.org/packages/8b/7b/d262904f93c96e52f9c320e7d27e918d719332e6fafa1ca7a0470c7b2d07/Mopidy-Mobile-1.6.5.tar.gz"
+      },
+      "1.6.6": {
+        "sha256": "3667d476de300f16ba1d7822e7e31c4a6802bd9f8c3d53f3e500da61092c5e2a",
+        "url": "https://files.pythonhosted.org/packages/bf/7e/b9959ff8403d77ed35c4da1e273b93ef7b590929286e10538c16518506cf/Mopidy-Mobile-1.6.6.tar.gz"
+      },
+      "1.6.7": {
+        "sha256": "6ed2ffbb1329334882adc2c89bbe609426f0fb7e22d8710d02e464feaf51daf6",
+        "url": "https://files.pythonhosted.org/packages/0a/94/3edd3ec678ce5356c1f773c8e707dedfcbecd2db1fc8b91a5ab8d9b30f1a/Mopidy-Mobile-1.6.7.tar.gz"
+      },
+      "1.6.8": {
+        "sha256": "1117b1c12feabcb764345499829e5f3fb4703d09402c79cf15ceda68b8f49df1",
+        "url": "https://files.pythonhosted.org/packages/b5/cb/6efd8dcf7b4bb82b0bb7aa3ccbe798ba235fedc933b5715c1be8ec0bcb29/Mopidy-Mobile-1.6.8.tar.gz"
+      },
+      "1.6.9": {
+        "sha256": "fc5784793e86e576b86c845b722747ca2b5ad07c5a910d4e78bfe1610eb6b33e",
+        "url": "https://files.pythonhosted.org/packages/68/f0/3a74a24be1fc01a890fadb087a7e8915e22b8d9cf9d0567b1b4d11e13990/Mopidy-Mobile-1.6.9.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "c854ad4dcf47027818d62ecaabb936426102fb3279794ed34ddbd703f03d907d",
+        "url": "https://files.pythonhosted.org/packages/bd/01/8276c782f690ec87b9021c8e31a6174e1d141b7359ac1564c23e51a70e27/Mopidy-Mobile-1.7.0.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "927e80c1fbc97c4158f1d1eaaebbb5f6cc31c546172a457e911ec1b97b686dcf",
+        "url": "https://files.pythonhosted.org/packages/c0/04/134fe06172170004b425aac0e7017aa5a3e4ead05b15d3165d4787a3171f/Mopidy-Mobile-1.7.1.tar.gz"
+      },
+      "1.7.2": {
+        "sha256": "268f20d3e90cce2824ff8267ff481d55bbd389e09dd8796c4d69d5a5e21af845",
+        "url": "https://files.pythonhosted.org/packages/0a/08/f989a219801bd8799b4c7595a3c13829a415b1044a182ab326c324d7a55a/Mopidy-Mobile-1.7.2.tar.gz"
+      },
+      "1.7.3": {
+        "sha256": "3710fa6907b581ee15348738551e5431d92ee6bee63b41aadfc6e088eb04bccd",
+        "url": "https://files.pythonhosted.org/packages/2f/31/db0db831b11bc9d3cbc08afec53206e7b2809a7ff06938f3b92d24e3dcaf/Mopidy-Mobile-1.7.3.tar.gz"
+      },
+      "1.7.4": {
+        "sha256": "6b35c2e0698184c076d3bbaee9e7e6af037c974723093441dd86abfc5c741543",
+        "url": "https://files.pythonhosted.org/packages/85/10/cfc72e488332a74bdb2c8187bc16344548fbcac41ade4abba2c55d605a84/Mopidy-Mobile-1.7.4.tar.gz"
+      }
+    }
+  ]
+}

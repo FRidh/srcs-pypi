@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "2.4"
+  ],
+  "meta": {
+    "description": "Python interface to libarchive",
+    "homepage": "https://github.com/Changaco/python-libarchive-c",
+    "license": "CC0"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "dc14871e6e38b908899835adeade6c95c9263c94e55309e0d9e5787ab52315b2",
+        "url": "https://files.pythonhosted.org/packages/30/56/3315f6f5a9761955c4109db24f407bb96a343f37e09e5ffcd9c0df45c461/libarchive-c-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "276ebbf200613023eac6ac11c90eef95b3cca8edd8976d88f5785cafa7c2efbe",
+        "url": "https://files.pythonhosted.org/packages/93/80/ddba955aa3e1911ca961fc55d076a22b47841aaed807eb67cc9815d318d8/libarchive-c-1.1.tar.gz"
+      },
+      "2.0": {
+        "sha256": "763ad5d13be62c149108dba5b81000efdb4be8967a9564fe6cb1e3ade6d8647b",
+        "url": "https://files.pythonhosted.org/packages/35/14/f84ebd4d89ed8862ccf3e406b632df836cbc3b6f5148dc98ffb9fdd31d28/libarchive-c-2.0.tar.gz"
+      },
+      "2.1": {
+        "sha256": "56444ec811cd5eed653b058c04f839d47beca5d17197b14b99d665dfcdcf3421",
+        "url": "https://files.pythonhosted.org/packages/d1/c6/1cc0ab7c1c4a561abaecbe781fc87d5d2dbd64d92da3b9442c8b1df5a999/libarchive-c-2.1.tar.gz"
+      },
+      "2.2": {
+        "sha256": "5d54aa6f6ab21e3bd12c2f8b6c4e80316b049c2b60ab0a4418cb34d8c63e997c",
+        "url": "https://files.pythonhosted.org/packages/0d/b1/c22e7673c259be6b0cf86cb9b57e3ac8d96ff6d59359bf297d0abd144604/libarchive-c-2.2.tar.gz"
+      },
+      "2.3": {
+        "sha256": "4163a3e536218c8a9207c154dea905ed33437b8855dc408c124f3a93a4693c06",
+        "url": "https://files.pythonhosted.org/packages/8a/3e/2cca91778e366a1e129050dbea470e1a7ac18b02991102a99155edec7e06/libarchive-c-2.3.tar.gz"
+      },
+      "2.4": {
+        "sha256": "ae890f6e890e7308c25acb627174d84b04b5e46f61ba9b8667c5dac670b2d9a5",
+        "url": "https://files.pythonhosted.org/packages/78/99/c962cfa81a0acff3cb569564349f0a3c249c2435e543bc75a79a8b7fcf03/libarchive-c-2.4.tar.gz"
+      }
+    }
+  ]
+}

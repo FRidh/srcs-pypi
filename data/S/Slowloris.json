@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Low bandwidth DoS tool. Slowloris rewrite in Python",
+    "homepage": "https://github.com/gkbrk/slowloris"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "bf799905dcbc152bdd8f9940e550f4a3e3659570d903bbeccd3915b599958afc",
+        "url": "https://files.pythonhosted.org/packages/2c/f9/9f05bd6fa28f8ccf18fa7c26fe095328e3867f7ad97b4fbc3a903a8273e8/Slowloris-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "771113bc92886e5dbe73b6c73bec3a99d7cc6744f1c64aaa2400ad0cc52b57fe",
+        "url": "https://files.pythonhosted.org/packages/9e/b3/b910baa07be1ae1240c357c50e0fe0353b827e25ac1b87c7fb28dcd309a8/Slowloris-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

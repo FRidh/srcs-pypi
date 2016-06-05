@@ -1,0 +1,538 @@
+{
+  "latest_version": [
+    "2.1.8"
+  ],
+  "meta": {
+    "description": "A toolkit for working with linguistic corpora",
+    "homepage": "http://github.com/interrogator/corpkit",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "a96dc153faf006123aa7ac631978cf9495697e7e9b47b1f36001189882c32558",
+        "url": "https://files.pythonhosted.org/packages/a3/c0/3f8c1a95bc9d13fe7de83ca069e2210f3c0f91bd8e1e86e8da6139b80159/corpkit-0.1.tar.gz"
+      },
+      "0.10": {
+        "sha256": "315a659558c0c0614350fb65f33d2eba0c8d05d26dbbe2eac1fdf30b196b653a",
+        "url": "https://files.pythonhosted.org/packages/08/57/d33ce78435c9726a900bda88cc73561bee7f150c9990990ea38847e7f6a3/corpkit-0.10.tar.gz"
+      },
+      "0.11": {
+        "sha256": "e024582f8d7a1c9dfb28964dc5c84bf7e3ef3c4264c058451c502958685aa8bc",
+        "url": "https://files.pythonhosted.org/packages/e4/f9/9a92c2f72d6a46e1ee2769776c925c12f75bc6049e1c0cb41091e3ebbf1b/corpkit-0.11.tar.gz"
+      },
+      "0.12": {
+        "sha256": "fb215a0de60a448735428187703494891161363604f872e8e3e3d0f4301a755e",
+        "url": "https://files.pythonhosted.org/packages/9e/25/e473546c01a4ef16148179b65e5259f5eb9a0414107c83b2a73840b4a886/corpkit-0.12.tar.gz"
+      },
+      "0.13": {
+        "sha256": "2a7a5f4b6c69772a4ff95e06e3c1d65a04e750065ec931f2495f70940c27da8b",
+        "url": "https://files.pythonhosted.org/packages/74/16/2f25cbdb42c4b3aa10aca11fb187fa060900b61bd1e93dcc47850a74610a/corpkit-0.13.tar.gz"
+      },
+      "0.14": {
+        "sha256": "e5bb8fe4469b0ddfd67fad39839d56b0786c36ca2e0248a788697afc5977a8c0",
+        "url": "https://files.pythonhosted.org/packages/b6/f8/c0749dc92e6620aabf0d2188c75e0c0b07f35d58a88519f5e8242804d516/corpkit-0.14.tar.gz"
+      },
+      "0.15": {
+        "sha256": "648f4eba024ce8e3ed1f3789b32a172aade58dd082fb8e6371036bf88391beab",
+        "url": "https://files.pythonhosted.org/packages/19/79/b908b5c57153a34ddb91cfed3df7065f38f57f78cf3b070a9832c09aede3/corpkit-0.15.tar.gz"
+      },
+      "0.16": {
+        "sha256": "a6eae4963b9a699875311c611964e6ec182894336e6e2fa9d05b0a4446efcd42",
+        "url": "https://files.pythonhosted.org/packages/ac/b5/305f89fc40e11a60aa5037e8c5d4644a4009bd1b09abf182202e11ff07ae/corpkit-0.16.tar.gz"
+      },
+      "0.17": {
+        "sha256": "3a1767dfb5df298b38c6c0a6a30a9684683134babb315f9c1813d04ae31144a3",
+        "url": "https://files.pythonhosted.org/packages/0e/b4/eb2644976b623a152d7e57c702b41a6236bfbe221e653ca2083a60a2a453/corpkit-0.17.tar.gz"
+      },
+      "0.18": {
+        "sha256": "2d391bbc072138c7cf80c8da00ed2934dd162b93f0c548f79b257c4f3c640dac",
+        "url": "https://files.pythonhosted.org/packages/db/5d/d71bbf1ffa9f70d2917b8145c89729ad6cdd73a42002b948e91ce90021a9/corpkit-0.18.tar.gz"
+      },
+      "0.19": {
+        "sha256": "d03ff9ff7833bbfaeecc0d312821582e99c975a400bb79fec917a4484b098668",
+        "url": "https://files.pythonhosted.org/packages/ed/35/2cd84f5c6dc2eab9b78fe7e01f313ed926044ecc29b1736f7f0573d5de74/corpkit-0.19.tar.gz"
+      },
+      "0.20": {
+        "sha256": "b0beb6087f0c76d5c7924d0710ca2c4bdf29042794f2cab9c78d1f8c25d3bbe6",
+        "url": "https://files.pythonhosted.org/packages/19/0b/d3f5029fbaee7f15d0681f7c326b65dd4175544641d75821cc0500bfdeb2/corpkit-0.20.tar.gz"
+      },
+      "0.21": {
+        "sha256": "b2ca567d9ec6dfd59d7fa80fb72fb787589f0889dec7786d429de814aa250f3b",
+        "url": "https://files.pythonhosted.org/packages/52/ee/bd65a519aa0983e4ff35f20b6b7b9166e70318e9fbb50cebefc7e40599a5/corpkit-0.21-py2-none-any.whl"
+      },
+      "0.22": {
+        "sha256": "f97fbb08faf9e331fe89dbf917d39df3aa5296759ea2544b9b35ba1737034d25",
+        "url": "https://files.pythonhosted.org/packages/7a/63/c9da84e3b844d9a4c9d1ce5ef83215e5ec7dea2c6669f41bf581a585b21e/corpkit-0.22.tar.gz"
+      },
+      "0.23": {
+        "sha256": "3b663ecfa4b9dd0c8fa5b9095a751e992d8f8ba5515e5273b5d16ddd33049f75",
+        "url": "https://files.pythonhosted.org/packages/54/db/d2383f0aa3e7b9849783c80dcee0e8bd04236c1e4f685ef37769d656cbd7/corpkit-0.23.tar.gz"
+      },
+      "0.25": {
+        "sha256": "39ce1016487096643e3bd635fd0e02edc1bad673cde1e73cbaa4be61b0c81411",
+        "url": "https://files.pythonhosted.org/packages/b0/0b/02adc6805ea5b9da2656bfdc75081eef68f9590a66b156962ec5a1aff135/corpkit-0.25-py2-none-any.whl"
+      },
+      "0.26": {
+        "sha256": "6df1cd948645af5c72ce5b13936b52f9955961810675f367d6186b056eb8d225",
+        "url": "https://files.pythonhosted.org/packages/99/2a/1c92fb194fd5033e6c8abb3ea5ae3c05aa692c912c04f1bb9d0fa07723b4/corpkit-0.26.tar.gz"
+      },
+      "0.27": {
+        "sha256": "d6604a46645e988e44630d87d4d73557907ed9c6940f2f01b21c1a74bb80f941",
+        "url": "https://files.pythonhosted.org/packages/f3/0f/9c0a6dff210da6beb967595185d6e9d412f0720112c8bdef8ff74e8df892/corpkit-0.27.tar.gz"
+      },
+      "0.29": {
+        "sha256": "4255f180d3e71f447fb82f17c380b57152129561f56d856d88e25bd66a459d1b",
+        "url": "https://files.pythonhosted.org/packages/db/92/90a6d2bf75c789e3f0cf6910c9940efb5ce2ce67d0b6895cb875cfc26b01/corpkit-0.29.tar.gz"
+      },
+      "0.3": {
+        "sha256": "61416d890a97a407453a75a6323b86d3a6a8fa6b3533ae1af02511609139c989",
+        "url": "https://files.pythonhosted.org/packages/e4/34/0d397ca1cb5c52b01d1e8492d28595f83572d68e01c2d29613462b1450e9/corpkit-0.3.tar.gz"
+      },
+      "0.30": {
+        "sha256": "7948c86395caba9415c449e0ad740b49f9af0ef04931391fbf25b62fe63e0922",
+        "url": "https://files.pythonhosted.org/packages/11/3f/0854d566cf16452b629c9779d4e7fb9a55887d0962d15bcc6c5078c315ae/corpkit-0.30.tar.gz"
+      },
+      "0.31": {
+        "sha256": "12334babb735b192bcdee8bda78ac9243aeed379b95ea08c4e7f43063b79317e",
+        "url": "https://files.pythonhosted.org/packages/37/0c/fad284c30ccf0de901154784e9dfaa96cfd11be71cbd9e4c343ddfe55afb/corpkit-0.31.tar.gz"
+      },
+      "0.32": {
+        "sha256": "8df52b522b46cc13747b4ef0b4c4f4204a23dc782ced38779dc8f7abadb6b726",
+        "url": "https://files.pythonhosted.org/packages/db/6f/aab06aa8c64b44ea89a341bc6457c4ceae469573c5b49c774350046b5fdc/corpkit-0.32.tar.gz"
+      },
+      "0.33": {
+        "sha256": "68833d46dbf226b0eb63aff9ed6199b51eba0af60218e10af8d33a6dd30453d0",
+        "url": "https://files.pythonhosted.org/packages/80/2d/97f2531f1928445b3e48109be506bb7a9331dedd41f683882bbb5793f698/corpkit-0.33.tar.gz"
+      },
+      "0.34": {
+        "sha256": "dc595dc4bf58d4ebb06ca978556acc46829d964d9a3005e876be423bdbbb4d84",
+        "url": "https://files.pythonhosted.org/packages/25/ee/6ab41b02687b22ac450c2a78cb081adfa2af40646eda01cd328ad8959189/corpkit-0.34.tar.gz"
+      },
+      "0.35": {
+        "sha256": "291cb3315f4570c4985b18e2d54bdafb36f479443fd59c44dc8413c16866cbac",
+        "url": "https://files.pythonhosted.org/packages/64/81/7199b47704a0dd22690ee5c736b7296a227c417716ce8d1683a00c86bbbe/corpkit-0.35.tar.gz"
+      },
+      "0.36": {
+        "sha256": "1cd35372563f03557e0dd4abffc46214375a12d44a90bf7410274fbf34b94113",
+        "url": "https://files.pythonhosted.org/packages/b4/25/bda6e6df39096881db08bbf25d4d06cb4c4a3057a402c94deaba95c33aea/corpkit-0.36.tar.gz"
+      },
+      "0.37": {
+        "sha256": "402131136ff9c3536d31fbac593f10a80c8289a99a039f5d67035587b7694db0",
+        "url": "https://files.pythonhosted.org/packages/74/48/36a0bc309d907a1b4fdb32c774241b568ed557c55258c9c2ab724ca1b470/corpkit-0.37.tar.gz"
+      },
+      "0.38": {
+        "sha256": "ae733622a4d157eeb60d7bd8ff9b22c0bab31c4fe8e60767b59f3ed2b2c30b0c",
+        "url": "https://files.pythonhosted.org/packages/ed/9f/5fa48b97cae178303047bfa7664f439ef645f03b3aa234cfc1ff3ea0e830/corpkit-0.38.tar.gz"
+      },
+      "0.39": {
+        "sha256": "76026817b8bd57bbdb1ede0b914e19f7e2c83163d063dbaab95d65b1ece5116a",
+        "url": "https://files.pythonhosted.org/packages/2c/32/1409b0991588d43b992cd1f7cda8ba942602bc5c79b9dc9c346397655f81/corpkit-0.39.tar.gz"
+      },
+      "0.4": {
+        "sha256": "33fbc5c4cec053e5351f690c6eaf50ddfc1ab2733051e2cc8c3837db93f1b477",
+        "url": "https://files.pythonhosted.org/packages/2b/75/3185bbc2ba7498cde7beda387641e8e27c00eccf3a056b524bc0b091af53/corpkit-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "1bee7a50668d318366eac1c6d73518faf1442b0417e3d4d1ce830a7a53eee708",
+        "url": "https://files.pythonhosted.org/packages/81/61/f876a46dd45c6deaf216b176051e373b40b99fc2d7f21dd65f1be0ab2704/corpkit-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "e5037d8fb56f09e0ad757a3a9a4af80d13f03d9506c872c784b3a72ca83fc34c",
+        "url": "https://files.pythonhosted.org/packages/c9/2a/bc5f5350c056111ac1cc16ec119f205f8a33405f672949e075a88b1f0e30/corpkit-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "fbfc0894bf0af22b5b6d6e5d99c76a8a0ad2db6b2664a02058e2122ec84acfa8",
+        "url": "https://files.pythonhosted.org/packages/d6/74/cad0467b7e9cbd31cb772c74ecb9626f73e30719d4fbffa0a6af2eae3779/corpkit-0.7.tar.gz"
+      },
+      "0.8": {
+        "sha256": "8028b82d52e80effefea1508a460a0a1c87be31f16cca11d09f4becda01851da",
+        "url": "https://files.pythonhosted.org/packages/e9/28/0f59e955e2b07ba0e143f856994d97d95c94a1d31b6f8a00968ef3c1a4ca/corpkit-0.8.tar.gz"
+      },
+      "1.0": {
+        "sha256": "4096da20aff3e3ceee33ada3113c7a6dfbd51b9758f4eb1004688cf0c53f7f22",
+        "url": "https://files.pythonhosted.org/packages/20/bf/31c29e71e8f77c9758ec1181aa3da24cb8c85c0bfbef06d58f83b6e224fe/corpkit-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "3bfb84599ea621595e892f32aa2f1faf42bac7e7147b6a50622f6d9fb0995051",
+        "url": "https://files.pythonhosted.org/packages/8e/ef/84bb2d4cc743db05bf474a88ef9787cf15235a32c30534ac39599f1ffaf4/corpkit-1.1.tar.gz"
+      },
+      "1.10": {
+        "sha256": "3267eac6164f349082461cc72e31d859981e542bd207013ce84ff5e321f1a55d",
+        "url": "https://files.pythonhosted.org/packages/e4/4e/4fb62fc72e0baa09f147c1cb7079901921dc8a01a784a274efcb7fbb6c37/corpkit-1.10.tar.gz"
+      },
+      "1.11": {
+        "sha256": "535711aeadffe5e4efba756d6adfcd9d3c9839ce053aed7cf090f84724913489",
+        "url": "https://files.pythonhosted.org/packages/42/90/99e2b858e68240bc0494637a2af0dcce9b31c1b0a3aeddb047d2734df38e/corpkit-1.11.tar.gz"
+      },
+      "1.12": {
+        "sha256": "c0a5c6f2be36a5918894a52d42076c0112cce0dec0b690c9699be44f9f243ec0",
+        "url": "https://files.pythonhosted.org/packages/a5/f9/29af373053336f0f51c6ffed12e086f26523536d8941beb14adf8208fa4b/corpkit-1.12.tar.gz"
+      },
+      "1.18": {
+        "sha256": "5499d0ac055938704f3b784569ff72d17f3920692afca806c3c2f0f2c54e3717",
+        "url": "https://files.pythonhosted.org/packages/1b/ba/19a07b7fbf62159a7f89a806780e3f9f9f9f41180f1d926343391523c617/corpkit-1.18.tar.gz"
+      },
+      "1.19": {
+        "sha256": "ce86b94ccc338e42b17803161e4d74894532517dd352d0bcb39fb3f5eced3489",
+        "url": "https://files.pythonhosted.org/packages/f5/2b/8e64764729df16b94905ef785af1a4486ec4c63687599850de4d0f34d52d/corpkit-1.19.tar.gz"
+      },
+      "1.2": {
+        "sha256": "2ee3ffb0e99b089273207dc6d07e61dcff1c01bff38a30257dcb1834d2694332",
+        "url": "https://files.pythonhosted.org/packages/36/7a/9c5c357a3ad497737c0f4cfcdcd2f0e25bcb1bf85f7e07cbbbbc89c4d0ed/corpkit-1.2.tar.gz"
+      },
+      "1.20": {
+        "sha256": "d067c02aef67817de6abe48779f97231890fb172aa3234df10f4359ff252f2d3",
+        "url": "https://files.pythonhosted.org/packages/55/12/9b0faae0fb9d0f21130abcc2adc86ecbf68d2a37630b610b3dafdb37b04e/corpkit-1.20.tar.gz"
+      },
+      "1.21": {
+        "sha256": "649e08a66f71f0e90d6429034b275611f08005dbc3dfef1a4cf8a6caa24fb1ad",
+        "url": "https://files.pythonhosted.org/packages/4f/27/20a35a637ad46ffa8704a12e1b5193ae94cab94813b901caa38568cb4451/corpkit-1.21.tar.gz"
+      },
+      "1.24": {
+        "sha256": "b0cf1986c0e74c79f0dba40d29bc240c9ed449e5d64ed4cc211ede60f0fda186",
+        "url": "https://files.pythonhosted.org/packages/87/9b/5d06dae514fcd5f8165c7c6c6fe6507d3c529309104f6f959ac813386c58/corpkit-1.24.tar.gz"
+      },
+      "1.25": {
+        "sha256": "5da1891fa22ac99b234411cb519ee90607958a8ffa44b0102cca6b5f47573846",
+        "url": "https://files.pythonhosted.org/packages/03/07/98ba0e53d9d2b004261300c3192080902541af8b67a29fd43fbb9f4341a1/corpkit-1.25.tar.gz"
+      },
+      "1.26": {
+        "sha256": "5d35ec2d5135969f6bb537a15cd0384e167c37343838d9605bec113505d12a20",
+        "url": "https://files.pythonhosted.org/packages/73/48/72c3be56265ef20ffdaef7228f75ed11af6cb2d1dbfb2ae10e4e2bff65c8/corpkit-1.26.tar.gz"
+      },
+      "1.27": {
+        "sha256": "7fc419732002631dd902b2ff80ef4b618e0ea49f0d32db3cc0753a14b5ba5862",
+        "url": "https://files.pythonhosted.org/packages/d1/4b/77f5d3a84918c6f6d6a4b4618c783f284592c4bda3460f20d2251abeaad1/corpkit-1.27.tar.gz"
+      },
+      "1.28": {
+        "sha256": "709c38b5795a2cb883b4c705c9e1179528b43701b6c82e8a9aeff86d14fb8507",
+        "url": "https://files.pythonhosted.org/packages/b3/b2/f12d5ac6eb65292f1620b77a8151d5f4d20eaee6be15bfd040aac2f2ba1e/corpkit-1.28.tar.gz"
+      },
+      "1.29": {
+        "sha256": "504c1829c283b1f803fa15729ee111cfff5037cb79aca582b16b48cb05a25ead",
+        "url": "https://files.pythonhosted.org/packages/10/57/df8a922f002d9eea14ae635d831cd97ae196e4b620508d097bdef39c667c/corpkit-1.29.tar.gz"
+      },
+      "1.3": {
+        "sha256": "9d39465b888f5a7e7751f26acb8fbb671eb2154349ad327055cbfd90616b4c5b",
+        "url": "https://files.pythonhosted.org/packages/84/c9/87e6c04a643a9538e1dfab4fca9fb3644c4f3ba33cd1f6af08857d5ccfa8/corpkit-1.3.tar.gz"
+      },
+      "1.31": {
+        "sha256": "121243a52d6be8545a5a4c2d55e5e6fbc9a43c00b758c6572ad821cd5923d7a9",
+        "url": "https://files.pythonhosted.org/packages/73/7f/0bbc0689b764bd6bf5dc3b22698b29bf78dc88e7e82b5591f8203b2eaf99/corpkit-1.31.tar.gz"
+      },
+      "1.32": {
+        "sha256": "72b4730b426e41c64b9af36704fd89cf1cfcfecb265dcb3eab5f1ddc2b854a32",
+        "url": "https://files.pythonhosted.org/packages/80/96/4432b0a97f5b32e681852785ae28edc497e7fdc8636857b9111d55dbfa11/corpkit-1.32.tar.gz"
+      },
+      "1.33": {
+        "sha256": "035f74302bd38eb05be5829c2eb3df7805b78df18e00f07c063f98fdb5d149b7",
+        "url": "https://files.pythonhosted.org/packages/f0/76/72a039ced8b066c7becd76763f72ea1f707f213ba913d0bf43c55f0af490/corpkit-1.33.tar.gz"
+      },
+      "1.34": {
+        "sha256": "cdbd81c007466e1d7d0ad348744087810ee10121b6005d83a03836dc6842de53",
+        "url": "https://files.pythonhosted.org/packages/60/e3/ce3af63dc7e279aca512d2a332413df3b37584b22bffdc9fe844f34fed7c/corpkit-1.34.tar.gz"
+      },
+      "1.35": {
+        "sha256": "3c748c22e2e63a2017aba46095ea63ad5334d99a0a84674befceec25cdcbae84",
+        "url": "https://files.pythonhosted.org/packages/6d/29/1874ebf5330ff2c0b1ea8e86ddeacd0aa647376a42cb3b79696adcaa49cd/corpkit-1.35.tar.gz"
+      },
+      "1.36": {
+        "sha256": "a61736bb282a159edf46032d0567548d928cd01f98f0bf1b9785cf1dac993c39",
+        "url": "https://files.pythonhosted.org/packages/30/39/047387a9779ed8cb5384b8f0ffb08d2a4c609be81950993d1bfdbc0e7fa1/corpkit-1.36.tar.gz"
+      },
+      "1.37": {
+        "sha256": "0b50c9dd7ccce9b7ccd83fa9beda2143240c87785ee214d9a3505e6bb9cf9c14",
+        "url": "https://files.pythonhosted.org/packages/09/b5/16688bac5188641d233a541cd7d05472a9acd08e9b3ada69b2e8c4e07dda/corpkit-1.37.tar.gz"
+      },
+      "1.38": {
+        "sha256": "09cdf8e4a0b40ee9c2c8b6a5dd73cbb5d3474c7a17a73cfeabdc2cc14cb64339",
+        "url": "https://files.pythonhosted.org/packages/06/79/8d8006e38210ec9e3b5a83bb8e9dd57c3714e1402386a8e5c2360a58e35a/corpkit-1.38.tar.gz"
+      },
+      "1.39": {
+        "sha256": "0ada52deb47774e155f62534b71f7639050440f5b3ad764983bd922d105184bd",
+        "url": "https://files.pythonhosted.org/packages/88/e9/397f0eb4d8ed12c2da228371a73505d635452baf887f4aedd3af327bf8b9/corpkit-1.39.tar.gz"
+      },
+      "1.4": {
+        "sha256": "3a98c56f84a93b943c547892e1e9a5080ae90f7eda9e08e4b57c25e7a3ad99a2",
+        "url": "https://files.pythonhosted.org/packages/bf/af/aa01ca8b7f382a8bc92bb03284c413a892b19d9a7b5f3ef307161a1ea29d/corpkit-1.4.tar.gz"
+      },
+      "1.40": {
+        "sha256": "1328c05e524b56df18db3d1281013516794157550eea665d96660d8cc6166c8e",
+        "url": "https://files.pythonhosted.org/packages/50/83/c25429c01e42deffcd49738f06831c9a64b549a708128bb883f49df78ae6/corpkit-1.40.tar.gz"
+      },
+      "1.41": {
+        "sha256": "2ca5df34a28b6ca57d3b2ece2ee1ab79276652dcf79cd0b933df051f511d9c3b",
+        "url": "https://files.pythonhosted.org/packages/93/56/e96ed5acb9c33abd4ffb1302d8b48de6617c84c842a78b2432311df365ce/corpkit-1.41.tar.gz"
+      },
+      "1.42": {
+        "sha256": "bb236d3b7095c172ac9cda5738f61b4f24b2e3c32a7efad41d1d51c48c00a8f7",
+        "url": "https://files.pythonhosted.org/packages/00/17/67b7a88566352f8246fb6f32ba4d74295b10db72af8ed1170dd007270861/corpkit-1.42.tar.gz"
+      },
+      "1.43": {
+        "sha256": "aec2c926950436b79e0fcaf30fedd5ffa5b3915ea539531b9219e3beb16e4af4",
+        "url": "https://files.pythonhosted.org/packages/07/00/fadea0677dfdca1033fede7e35bf17d272e6d88ef968ccda206d0c2d0bd8/corpkit-1.43.tar.gz"
+      },
+      "1.44": {
+        "sha256": "ca179a3caaba5a7ab4052e2556dee0602c784de563b95e672e3d2360e7ffd9af",
+        "url": "https://files.pythonhosted.org/packages/51/3c/d9c25719a7c1781f88b64f02b3471ae505fb367e7e197c7e5557a2c2f3c6/corpkit-1.44.tar.gz"
+      },
+      "1.45": {
+        "sha256": "0c222473827d26d63cf5ddac9734add68f1612b8fded3e48e3b280aef7677a92",
+        "url": "https://files.pythonhosted.org/packages/12/a4/f46abf891957c9333cb41300cee94cf09d78609644801b9d6971b3dc8804/corpkit-1.45.tar.gz"
+      },
+      "1.46": {
+        "sha256": "85a5b0aca26e55930d221cbf48a1a261e15ec2f5f1a70b8ca2664c18efbbeac2",
+        "url": "https://files.pythonhosted.org/packages/87/57/3598e99e2f22d2599cca64402ec37bcdd8965b3593fc617b9f49889b1581/corpkit-1.46.tar.gz"
+      },
+      "1.47": {
+        "sha256": "bb8980f90474b47099041568de65458798a056515490809f93b1526222f7a103",
+        "url": "https://files.pythonhosted.org/packages/d8/64/8b1499d8486c63b844c9d68d6025a660fefbc6924e18613cadd3bef21925/corpkit-1.47.tar.gz"
+      },
+      "1.5": {
+        "sha256": "01bb1a89fd606f0c9a2c7d41f7e8e53e90ff5016b013f853cb970e9179734c4c",
+        "url": "https://files.pythonhosted.org/packages/f1/52/46daffb5c8d0da0925c3fe37d207e9d088a2d7909da2455a6cbdf7f61c07/corpkit-1.5.tar.gz"
+      },
+      "1.56": {
+        "sha256": "b5c511af3fea0edf511defc0562eec78f21f1478834e648354a897d1493a0934",
+        "url": "https://files.pythonhosted.org/packages/4f/b4/a4bd1c996e6f6da1614944a29e8cb1f38b507b3c1a2db4299e84d47ce892/corpkit-1.56.tar.gz"
+      },
+      "1.57": {
+        "sha256": "6bddf80314425370aba5a932af37a703b3357bc86a1fd2b9ef5b596718c824a0",
+        "url": "https://files.pythonhosted.org/packages/cc/df/ea08ab16773d70ab42fc3f2cac51a21a163ac45dcf25d49ed9ef2f723fae/corpkit-1.57.tar.gz"
+      },
+      "1.58": {
+        "sha256": "f9a10a3ffe3399424dcf99526623577eaf8b7f4709574e68c6a9f8b4ed5e9c02",
+        "url": "https://files.pythonhosted.org/packages/98/70/60cd92e342d9d2f2a4529d0a553270af45ca270503e699b92dd18ee92e32/corpkit-1.58.tar.gz"
+      },
+      "1.59": {
+        "sha256": "e7543c59ac95bb95d7c3594244d45cd7506655da3fdbc4ed9d51fed38d8d4731",
+        "url": "https://files.pythonhosted.org/packages/03/fa/71d9c5a8cd669b76cd6017976f2a79fd4ee2e71882159e21963976e804b8/corpkit-1.59.tar.gz"
+      },
+      "1.6": {
+        "sha256": "dfd7dfa5e6b45fdacb99d7f368dfb4a369054dd4ff2165a58ee8e6ae2277f9ed",
+        "url": "https://files.pythonhosted.org/packages/bf/37/8e992f721e60bc227b77961ea7bfb9d32814fd0229706bad09e3077f3191/corpkit-1.6.tar.gz"
+      },
+      "1.62": {
+        "sha256": "c78b8ee71cba6dc7d91e094b9b606e747a97d10e4a8d544ecb705c731dbc451c",
+        "url": "https://files.pythonhosted.org/packages/e6/b1/bd6447342256250a1e8f28f7edada80d172e90c019df64c614c6adf23ee3/corpkit-1.62.tar.gz"
+      },
+      "1.63": {
+        "sha256": "e4dd9e064566cdd8edd1e995979eb4fd9e032de2203e63b6d2abb7350ddeb962",
+        "url": "https://files.pythonhosted.org/packages/7b/d6/9d85a7f2b17f72fe08ecacacdc3360db99b502349b1004dfa47c17a04ccf/corpkit-1.63.tar.gz"
+      },
+      "1.64": {
+        "sha256": "eb848a59e83a0b58da006ae35a19f1b1ed438d52dc1a5961b5c35cb352bbce3e",
+        "url": "https://files.pythonhosted.org/packages/7c/a7/3baf5a7629ab38aa1105e464e400d20840cfe5399696e40abca486883b59/corpkit-1.64.tar.gz"
+      },
+      "1.65": {
+        "sha256": "56ad5c39c76da6ccdc149f6b15307eb0d5138b1b3dd3b60fa2a149989645c10a",
+        "url": "https://files.pythonhosted.org/packages/f9/42/640c9f55b90c3163f2b1d1a59997dee96a9de756c02b74e5f3a0665334de/corpkit-1.65.tar.gz"
+      },
+      "1.66": {
+        "sha256": "60e835fccc902f4712634e287e54498bce8231386ec35d859b7107a42bcfc9f5",
+        "url": "https://files.pythonhosted.org/packages/12/64/9b53b9e54ec12e57968a1a04049ef6f64a700b73a679270e33f045f38457/corpkit-1.66.tar.gz"
+      },
+      "1.68": {
+        "sha256": "8c1da3a26962aea406778efb348d912427a735654b35d5968c3c579a2f6e6214",
+        "url": "https://files.pythonhosted.org/packages/01/7e/416136601840c4dadbc1d9c9384145e77759910586677973fb59072d836c/corpkit-1.68.tar.gz"
+      },
+      "1.69": {
+        "sha256": "f4af65df8516214693c82cc0a77e5d747a8635b7e1feaf1f141ca192e9fa4ef6",
+        "url": "https://files.pythonhosted.org/packages/ee/aa/478ac587f11fc12604ab9e191ed923190fb56f8813b1a0a997c951484126/corpkit-1.69.tar.gz"
+      },
+      "1.7": {
+        "sha256": "6ce59b791a7b55d20f0fe62b7717b2314861910da825c291d5c3e3f65f23b18a",
+        "url": "https://files.pythonhosted.org/packages/af/ad/2faead8fab865d9e12ee80bef4831c7671a78af62ed79b023651cec6d3d2/corpkit-1.7.tar.gz"
+      },
+      "1.72": {
+        "sha256": "a8cae370932c8e17d01423021b7744a6cfb14e9df6a3d8a24ee25e2235b8b931",
+        "url": "https://files.pythonhosted.org/packages/63/b6/c1ad35a152b68f813d6fc1842d425ffa5b7bffe0bf7958473a51b2b9994d/corpkit-1.72.tar.gz"
+      },
+      "1.73": {
+        "sha256": "28bd15b15bfb7aee0c83308c0ef8e81b6ef4ad39f591303e6ca5c5306dd4edfa",
+        "url": "https://files.pythonhosted.org/packages/bd/64/5b43fa223cab41e46e0ff9b7128ecbf6a8d68eba69ab2b1009e91ed95abe/corpkit-1.73.tar.gz"
+      },
+      "1.75": {
+        "sha256": "7d54e668c20f58cf83420381b0e5283b50fb8b6815c1722d4f4ad7642d2758b6",
+        "url": "https://files.pythonhosted.org/packages/0c/42/eb61f82ed0f8ffcb0bbcfeb918f0ad428132a5a59396ae3fcb957f45bf13/corpkit-1.75.tar.gz"
+      },
+      "1.76": {
+        "sha256": "e7d0d6e725b75ccf39d1ffd619b028eced8f1f8c04cda599593b80aefe2c8ea8",
+        "url": "https://files.pythonhosted.org/packages/ff/80/394a2088dbb1e31a3cf1061ae4f9adb4229ee6636cfdd2e2bc604c75e372/corpkit-1.76.tar.gz"
+      },
+      "1.77": {
+        "sha256": "a512347fa29bb472ff82e0c16acdd42ae32dc39540a73a7d2024eface572ed74",
+        "url": "https://files.pythonhosted.org/packages/e5/83/ae960f07daa1373606d140583e0df9425b360220888657a35e157516377c/corpkit-1.77.tar.gz"
+      },
+      "1.78": {
+        "sha256": "8d08a83f02139e7327d3eb8bd9b3f6a137f2fb96f216ae9c9da73088e28079e9",
+        "url": "https://files.pythonhosted.org/packages/6d/53/000c5912fdc4d4ea624240916cf2e397f1b3074793614cf044e88244bdde/corpkit-1.78.tar.gz"
+      },
+      "1.79": {
+        "sha256": "480b6333a47da297080e6705d0377419abedf1ccdfaab9ab68f7c284a6b0e278",
+        "url": "https://files.pythonhosted.org/packages/8c/49/d676405986861e86079a61c4177119b9f08dc03371c49eee1bdcbc3a7a6f/corpkit-1.79.tar.gz"
+      },
+      "1.80": {
+        "sha256": "f8b9484ced705e19ab55749b36d2a79a1f917c477f027051aae7178161401c93",
+        "url": "https://files.pythonhosted.org/packages/51/8e/e16bee37ba0fcc7e0ce23cadbbed2d27c86efb1ad620b069171a5e2aedab/corpkit-1.80.tar.gz"
+      },
+      "1.81": {
+        "sha256": "03836a6315ff264633ca1943d9d0a245f279b8329d3d40955fa33b9dc69a72e5",
+        "url": "https://files.pythonhosted.org/packages/15/28/9266c3212078f95ba0f2e8261c5060eda6b8a073d046a517838555bb2027/corpkit-1.81-py2-none-any.whl"
+      },
+      "1.82": {
+        "sha256": "d987f702c5cd2e866ae74ea6b52a6c314a46c3d371dffa9b9b6e53f78eec8754",
+        "url": "https://files.pythonhosted.org/packages/52/55/cd965a4f79f35ab8dc2059bd2f8e878ad2e45bd2cd48642f119d73f66f10/corpkit-1.82.tar.gz"
+      },
+      "1.83": {
+        "sha256": "79a5cd3e07be07a94affe300131e11e4e91eeacefa6d1881dc7caa2ccb276794",
+        "url": "https://files.pythonhosted.org/packages/33/ce/09fb62a132b9dadddb5ab22e79117337979a00d053d8e6c2e8a47af5f9c8/corpkit-1.83.tar.gz"
+      },
+      "1.84": {
+        "sha256": "a5decee14d69513ce4d2acf3878c3af3fcc5891b56ecad92eb775eda613d7705",
+        "url": "https://files.pythonhosted.org/packages/24/6b/2bb017251f87c0d9f7039bf4c17d24c85cef442403d612d1b048a52a2b95/corpkit-1.84.tar.gz"
+      },
+      "1.85": {
+        "sha256": "9bdced705667d72505ef8264703f0c69140a250be4337a3f35b2643532f1fd09",
+        "url": "https://files.pythonhosted.org/packages/a2/7d/c5441314134bb8be2feadcd2a7458f819dec10cad8853d6b37493f82a4a3/corpkit-1.85.tar.gz"
+      },
+      "1.86": {
+        "sha256": "5e40f852be65db6f76315703d54c5787c4fe7a22a2a59ec40cad28b2c82ab25d",
+        "url": "https://files.pythonhosted.org/packages/80/5e/dd45dde81bd629c0f117df5f36478bf0d9812181f54d7670c91afa7349bf/corpkit-1.86.tar.gz"
+      },
+      "1.87": {
+        "sha256": "4f8cf4ca729e0d244db74cfc392dbc162562e32901db4c312a39bfdc0719d819",
+        "url": "https://files.pythonhosted.org/packages/da/54/40e6ebb47109d4293dfeb55a4592385c55c843dfb3e414b92fa17cb3117d/corpkit-1.87.tar.gz"
+      },
+      "1.88": {
+        "sha256": "3fe008b5534dad9bb0d30d4f7610b80b95e23b2080ad541995dab56dbf9f8a7a",
+        "url": "https://files.pythonhosted.org/packages/9d/ae/022eebf615b98ffcc2fe795d813b00f0f138ae34e21d2968fcbf0812d49a/corpkit-1.88.tar.gz"
+      },
+      "1.89": {
+        "sha256": "591c0e6aaa6d3c508e0fe5f0cb9d1a0925311aaeeebf89dfba042589b1cb225c",
+        "url": "https://files.pythonhosted.org/packages/d8/b6/a3027c064281e2697202c0b9cc7306c4d079ceb3fdb616aee1f18865c618/corpkit-1.89.tar.gz"
+      },
+      "1.9": {
+        "sha256": "360001be4be9e75b3baa61abd2b52cb91921d62da501d4929ade869b9f4c9b33",
+        "url": "https://files.pythonhosted.org/packages/21/d8/2ec4831e6dd8208aeaeda71365d0fc58b28ad8b182e21c1b3c62854791fe/corpkit-1.9.tar.gz"
+      },
+      "1.90": {
+        "sha256": "af1539d605bda22ba7ae011ef3a8321f6dfb2c295305e82adde679f0db9eef8b",
+        "url": "https://files.pythonhosted.org/packages/40/cd/de19c256dcdcbaa6377752418afb52975ffe01948db64b5d70d5d3cdd27c/corpkit-1.90.tar.gz"
+      },
+      "1.91": {
+        "sha256": "19917415621062f6bb80a156b0ce4a911743e305616949d21b292d6e363bb9dc",
+        "url": "https://files.pythonhosted.org/packages/68/fc/805b1bc3ae5405eef56a7463467b392a76010c7569b67b618ab75b728634/corpkit-1.91.tar.gz"
+      },
+      "1.92": {
+        "sha256": "caaf21e792ea8a1ad6d262d33ed601604bd50e5aba949a265bb8f591bac24582",
+        "url": "https://files.pythonhosted.org/packages/f9/24/8e80f065c094270a9398177eccdddea4090a6b61a54815bff4d5e0c3cd1e/corpkit-1.92.tar.gz"
+      },
+      "1.93": {
+        "sha256": "9ea1fc0b2d05d306fc976a695739275a631508bbad2e000d7e8668fdbf8e2a04",
+        "url": "https://files.pythonhosted.org/packages/48/fe/8439297d67612011856918b8eeed3ea773c2c0f13e9462949b1888a53153/corpkit-1.93.tar.gz"
+      },
+      "1.94": {
+        "sha256": "822096070e51c15917f21edee5939307e8a9396564d6fbbe000e39ee9917a9a5",
+        "url": "https://files.pythonhosted.org/packages/5c/21/ef98bd9c956e43b528c487c121b05ca328c19efa51a8945e9cfc6540591f/corpkit-1.94.tar.gz"
+      },
+      "1.95": {
+        "sha256": "c89ef39b93d590d30c15bca48192d4fcf458c4d92e0892f042676df76cff3cb8",
+        "url": "https://files.pythonhosted.org/packages/1c/10/a8509173ea1ba145b2c5efd2139f491cd8212378207a5feb555bc7e56a95/corpkit-1.95.tar.gz"
+      },
+      "1.96": {
+        "sha256": "391556016f064beb3c4d1d826790e999cf9a6e02bbbb5882c350259217968570",
+        "url": "https://files.pythonhosted.org/packages/77/d3/0cbeed06d1b30fa921476ea09eeed209797355cdb3d20d957eabeeb98605/corpkit-1.96.tar.gz"
+      },
+      "1.97": {
+        "sha256": "508cf7eeedded02746d45f6066b8f127eec3a79114320508e3aead4e1cb0ea5e",
+        "url": "https://files.pythonhosted.org/packages/7a/56/7398ba3295b39bb4ee4440bda58246a27d0d2d2d21b2937e11a31ae2e8e4/corpkit-1.97.tar.gz"
+      },
+      "1.98": {
+        "sha256": "9ad44dc6910bd15f318abe28827793540f562a7aeae86f2a0a427458f89d62b1",
+        "url": "https://files.pythonhosted.org/packages/1a/2c/f70ec8fe431ba8aa79938514b52a88f2edd8e8b6307e23f9c7d97c898059/corpkit-1.98.tar.gz"
+      },
+      "1.99": {
+        "sha256": "ea204da9028cd9acd275887f8666aaee278916e2faa822e160ab72c7a21fb0a0",
+        "url": "https://files.pythonhosted.org/packages/ae/01/57b3a8933a590ac21f19c1d8e2f592f11e77ac169756139507e60aa7a444/corpkit-1.99.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "91caf25ac5ef3b3a2b1148bf6db27ef8db51ed860bf297ea5f08689cf74dc95a",
+        "url": "https://files.pythonhosted.org/packages/37/30/92539c758ba3ea178d3df3bb03d056977e2d4c37a85c94cfbe18c1dec5cc/corpkit-2.0.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "87e86208b2ff7540f2624622c5eeee6f463c6235dce8cf44dbaf2ae5d909e3cf",
+        "url": "https://files.pythonhosted.org/packages/6a/23/7ec9d822fab431047d1967c0e6da2ff528862c8c1c4bf198bec8a107aae9/corpkit-2.0.1.tar.gz"
+      },
+      "2.0.10": {
+        "sha256": "cb929aee77a4592add8c48b32c13b1fe58ed3e66a8b8b39af3c66eba113eaeba",
+        "url": "https://files.pythonhosted.org/packages/3e/5a/1d110970218d15ccc644819b3283b0a88bf8be8b5b82cc70075224005a16/corpkit-2.0.10.tar.gz"
+      },
+      "2.0.11": {
+        "sha256": "de26b07a3e6a047e7a509a3c38dba3e716d772c9601e0f3a69f7134544149db0",
+        "url": "https://files.pythonhosted.org/packages/e6/c3/160f29ca2ba51d2f5e525cffe1636cf27a5f5f0508eab9a522f6064673eb/corpkit-2.0.11.tar.gz"
+      },
+      "2.0.12": {
+        "sha256": "1d7162b3643482f0aa7bca145b5c1204d38ace1b9a2691356ea32907946fd585",
+        "url": "https://files.pythonhosted.org/packages/1a/c9/247d05bf319e393b01fb50595205b469fddfb9752109e74bbabbf034c43a/corpkit-2.0.12.tar.gz"
+      },
+      "2.0.13": {
+        "sha256": "51530c9ff8c1f60b5a63f08dd7583b6514d7b55f832fbb953f02da520f873c08",
+        "url": "https://files.pythonhosted.org/packages/95/65/7fdea7701b6816d711f6aea702bd1a8da52bb1afeece5c12dad57ebaabab/corpkit-2.0.13.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "dd2b62025edc312d6f8cabd4e6143e39535ea5ef928e0eb08033ea4d6ca8491e",
+        "url": "https://files.pythonhosted.org/packages/d5/79/732e4f1e4c9153fe7cad6ed79f87d5a92bef43b54fbcde3d08a52394f87f/corpkit-2.0.2.tar.gz"
+      },
+      "2.0.3": {
+        "sha256": "c10256411b5c302135b30b80982381b02980f07c75f77d3fd9c1828268bd57ae",
+        "url": "https://files.pythonhosted.org/packages/c7/33/92f7006dd713724fdef5458524d26e6c1eae6fce4d2fcfd6796abc627be5/corpkit-2.0.3.tar.gz"
+      },
+      "2.0.6": {
+        "sha256": "0b699761b1ff3b5edac15402fc0fb291217f28919b92e71b082acb4d4dc2f752",
+        "url": "https://files.pythonhosted.org/packages/ba/ad/604a42798c3c463e177eaef9e75588e410f8757a97addb7ed3df664b9493/corpkit-2.0.6.tar.gz"
+      },
+      "2.0.7": {
+        "sha256": "1e9d1536820e45cf0f5f039e46a59a2801dc351114d4083ff05b28054cb4d917",
+        "url": "https://files.pythonhosted.org/packages/44/f4/b398639dce09f1cf362b32cc36dc4639e73d611c70fc044eda5212ed2b66/corpkit-2.0.7.tar.gz"
+      },
+      "2.0.8": {
+        "sha256": "bfa5c9cfcc6f69462e668c15862a3b46ce0a7df227290e3a7988a1a66de2a5e1",
+        "url": "https://files.pythonhosted.org/packages/79/9f/de73a5c25b14a599d5b55bbc88ace59c3a11b64f740ab2021d3c4f02404f/corpkit-2.0.8.tar.gz"
+      },
+      "2.0.9": {
+        "sha256": "1e57497da942e9e651f148f0527fccf9a2ac7790aa7528d78632db6708f347a8",
+        "url": "https://files.pythonhosted.org/packages/ce/55/0408714eefcd9ceefac4da3aaf457882642083e9e48934782b69811acfa1/corpkit-2.0.9.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "39dbf6f5dd729605bdf5d1df1d34b02cb28380e9055760cb9ff75a260e8f4b2f",
+        "url": "https://files.pythonhosted.org/packages/7d/ac/e7f45d942a94ebb1647f5c812e3f0d85e8da14bb099eb350ad1f872a24ba/corpkit-2.1.1.tar.gz"
+      },
+      "2.1.3": {
+        "sha256": "26a3ae3ad4ef8fc77f1a06c6facc292e18507cd52e60ba6980008bea417da283",
+        "url": "https://files.pythonhosted.org/packages/8c/08/bd15df2c9202f6ba740751c88d1fb963baf5a77cd42abcd57bdba6537e36/corpkit-2.1.3.tar.gz"
+      },
+      "2.1.4": {
+        "sha256": "1f705fccbee33671bb5779702c78bba2c7f314036b6aec9c759acd4cbe72ce4d",
+        "url": "https://files.pythonhosted.org/packages/08/b9/3a616772e5d791142586eb79e93143e4c8c22a76371b65a0cf2020482436/corpkit-2.1.4.tar.gz"
+      },
+      "2.1.5": {
+        "sha256": "b60a830f3265fe6865e52ac4e965ad945c2b9270d896803073f319bf2d39429a",
+        "url": "https://files.pythonhosted.org/packages/1c/49/48998af5624d7085a3bc5631474f585cbacaf652c76e7e65bd889d81f3cf/corpkit-2.1.5.tar.gz"
+      },
+      "2.1.6": {
+        "sha256": "27c08950c5e83f99583cfcc7e6ac24839a5eb36568e723fbd4103d0a8f944391",
+        "url": "https://files.pythonhosted.org/packages/b3/0c/47677b4640cb3269051a88b2536240496d7c0f78a315511cfc3da404c4ff/corpkit-2.1.6.tar.gz"
+      },
+      "2.1.7": {
+        "sha256": "9acefdcbaca83223a8e848a1f005678833b6ea5ce527f1a264798b612eed464c",
+        "url": "https://files.pythonhosted.org/packages/de/1a/fb693895bfcb84222e0a467b1c57dfa89133d7dcc0496107abd85a197bce/corpkit-2.1.7.tar.gz"
+      },
+      "2.1.8": {
+        "sha256": "34f0682957a69943db1a0328787c5613fbe09b859baa3d6a386f4b22d795e754",
+        "url": "https://files.pythonhosted.org/packages/2f/4f/93d26e34f1d336daacbd06ccc25762367cb577db19003e3091b89496af8e/corpkit-2.1.8.tar.gz"
+      }
+    }
+  ]
+}

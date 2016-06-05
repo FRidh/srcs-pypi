@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Command line package manager for the vim editor",
+    "homepage": "https://github.com/cslarsen/vimp",
+    "license": "https://www.gnu.org/licenses/lgpl-2.1.html"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "b02499c8854f21a62531b94547429e29149e091da026a8b50f63f4eca484f42a",
+        "url": "https://files.pythonhosted.org/packages/6c/5e/139b5e51631079716dcedeb9aa337ea749ea37341ca3bef18ddbfee2b710/vimp-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "e7a3846cefb831b964f880c0446c28f71f14786b3562c1a3dedd30a5c2997f22",
+        "url": "https://files.pythonhosted.org/packages/0e/ef/275e8df3033dc8a93140cf3541c1befaaf1b842a4143768c180f762df2fe/vimp-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "ce702a4c4c20247c93d90b599ecb8640dd0d27c9abf6a06b19749e593c335cdf",
+        "url": "https://files.pythonhosted.org/packages/74/1b/69b93d6204e1ac5353ebcde90d1e07947e3f226617cec5c9eff80efd6f23/vimp-0.1.2-py2-none-any.whl"
+      }
+    }
+  ]
+}

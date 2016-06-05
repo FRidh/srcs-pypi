@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.3.2"
+  ],
+  "meta": {
+    "description": "Cling(CLI next gen) is a Python module for automating network device command line interface interaction",
+    "homepage": "UNKNOWN",
+    "license": "BSD 3-Clause"
+  },
+  "versions": [
+    {
+      "2.3.0": {
+        "sha256": "25a6bfef97b735744366226fb8c8c161f8fac01641cbcc280cae3e575bde3a5d",
+        "url": "https://files.pythonhosted.org/packages/6d/f5/f4406aaa859809c65a81a9a37fbc47e60b1af4ee2944903eb5a58addc32f/cling-2.3.0.tar.gz"
+      },
+      "2.3.1": {
+        "sha256": "9a20efe51dd03516514efb3a2e36a7943794380f67a23623031ede8148024562",
+        "url": "https://files.pythonhosted.org/packages/77/f8/ee5873c15b01ab98aabaf59bbc4c00ca1b605fe0e35c3b48434bb9649c16/cling-2.3.1.tar.gz"
+      },
+      "2.3.2": {
+        "sha256": "d3de248c2f84baed2f4eed62ce67321693b3a91b1684c13e6dd8ceee36c295ca",
+        "url": "https://files.pythonhosted.org/packages/96/51/bfa6905c385b61e22358265174eff246294d6bba9ccdc4851a8104199f0a/cling-2.3.2.tar.gz"
+      }
+    }
+  ]
+}

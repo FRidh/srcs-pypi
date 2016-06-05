@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.0.1"
+  ],
+  "meta": {
+    "description": "Python bindings to the ObjCryst++ library",
+    "homepage": "https://github.com/diffpy/pyobjcryst",
+    "license": "BSD-style license"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "6aca76bf6c1da3bf08665151ed55117199a5c9616f2f9936aa079bfc607ce550",
+        "url": "https://files.pythonhosted.org/packages/9d/02/237c1ca0e6140d37ca98469596d99be083c157ca342a20d8ec6a2df0b55a/pyobjcryst-1.0.tar.gz"
+      },
+      "1.0b4": {
+        "sha256": "98bd05a90a39c6554fa6d3711c9423552e5fd3e7e9aa8dc1d43da58fd5eb9b52",
+        "url": "https://files.pythonhosted.org/packages/c7/db/c4344673fa5ece69bb2479c9efb3d65905a0258412ae976df7919f0ed0e9/pyobjcryst-1.0b4.tar.gz"
+      },
+      "2.0": {
+        "sha256": "dfb132e363d89023c5ba26c6faa71c9473f602acdd81b87129b7fae31168868e",
+        "url": "https://files.pythonhosted.org/packages/67/03/1fb7b370ca684d6eca00879e127f459506adc646b9dbfdafddfdedd9d28f/pyobjcryst-2.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "072e088d1854d7d57021b4e7908a3ef51b30697a5acee69f81b2cfc9fac35268",
+        "url": "https://files.pythonhosted.org/packages/f3/cc/187010c9233acfda3a930f21d0615d3d5d0746dcef14ee7a43d30015cf6b/pyobjcryst-2.0.1.tar.gz"
+      }
+    }
+  ]
+}

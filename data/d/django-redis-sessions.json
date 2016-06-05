@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.5.0"
+  ],
+  "meta": {
+    "description": "Redis Session Backend For Django",
+    "homepage": "http://github.com/martinrusev/django-redis-sessions",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2.2": {
+        "sha256": "0d9932d3bfa37f56515057745673555121ee032bb43052212612377e10b9751a",
+        "url": "https://files.pythonhosted.org/packages/f2/1e/f6b3b85a7d9b759a9f447dc9e0ba3618d7493bd2b4d5443eb2c64cfd0327/django-redis-sessions-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "beed11fb3710c050d8502c077304d60f3f1ce13e21561ef2105ec51775a1622a",
+        "url": "https://files.pythonhosted.org/packages/3f/6f/2ddc2cb6b97f469d501d41ac068b454dc45e911df27d09995afe913ae803/django-redis-sessions-0.2.3.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "bebcae90d07f28717c182276e6fc11ea53cb35683f3165cfe829059f81de1366",
+        "url": "https://files.pythonhosted.org/packages/aa/56/42c1c133c138e1f2d9c59da4c6f53fa3578e4e7020f9a082ce50a47b272d/django-redis-sessions-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "8f9e362807ca58405dbea3db1731e97bfecd386c2f224877b846308877a81aba",
+        "url": "https://files.pythonhosted.org/packages/92/81/02e645e39fd773c15e395ba64e8953e0350ac91b4255d2ec4b1ac44e986a/django-redis-sessions-0.3.1.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "39c3da3d612370b03f867eda1ce383f744382b58ff2f02bbe6b209e28b16f5a9",
+        "url": "https://files.pythonhosted.org/packages/71/df/fe83d89b93e063043c29b6231813ec1f0ec376f22de655b257a1a3aef08b/django-redis-sessions-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "e2aa9f1fdeb2a55ee32defa3b81d8ac957a0a4c73a6615522c98ed97f5e5efca",
+        "url": "https://files.pythonhosted.org/packages/cb/ce/c778025e8b9b01e26dd3e273f4f009f305e5c13ff1e0c395c04f547392d4/django-redis-sessions-0.5.0.tar.gz"
+      }
+    }
+  ]
+}

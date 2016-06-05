@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.4.0"
+  ],
+  "meta": {
+    "description": "Federated Monsters is a game that seeks to follow the format of games like Pokemon, but to instead use a federated server format to store and trade creatures",
+    "homepage": "https://github.com/colatkinson/federated_monsters",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "21d61c84fafd1bd97a8aed0c01f1cfd01f4ab61d868224d15c63ecb63a733aa3",
+        "url": "https://files.pythonhosted.org/packages/dd/5c/27e7e6e2dc441e0b23a232d0a28e53e51de1349a7474e3dd71804bdda662/federated_monsters-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "2554f03485f1570ebe757686cee752b6a6b3db767e2558bf271842e1ba14e881",
+        "url": "https://files.pythonhosted.org/packages/bf/11/d80ea4240af10219bb3b540143fefd75c7259f874cf6cb716baec1a0d685/federated_monsters-0.4.0.tar.gz"
+      }
+    }
+  ]
+}

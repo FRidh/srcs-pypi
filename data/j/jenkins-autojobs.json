@@ -1,0 +1,102 @@
+{
+  "latest_version": [
+    "0.17.4"
+  ],
+  "meta": {
+    "description": "Scripts for automatically creating Jenkins jobs from SCM branches",
+    "homepage": "https://github.com/gvalkov/jenkins-autojobs",
+    "license": "Revised BSD License"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "631dc5cb4698ccf90e221b7446bb1af5480b469c0f9b5dc2b544376f64e66639",
+        "url": "https://files.pythonhosted.org/packages/9d/8a/481c9b5586c3fa258a76b54fc8af44e82cdab40e6c0476582eab3b7a3460/jenkins-autojobs-0.10.0.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "04069fc5a4d5c3f9d369219a0ae7ff8ba9edaf76947b89279c4cf8fd03e9ede1",
+        "url": "https://files.pythonhosted.org/packages/5e/a5/9b3a23e3b54f254304f2f86f45d0e4aec4827a68247ea5f20ccee988848b/jenkins-autojobs-0.11.0.tar.gz"
+      },
+      "0.12.0": {
+        "sha256": "ab3efa2f9d72018a18becd4baf9681d357157f9b1707a24b7e2d37f34f418f4c",
+        "url": "https://files.pythonhosted.org/packages/ee/75/508dc65d21c6cbd010b7d00e67fd7f7fbd2027698bef314c37c227635eee/jenkins-autojobs-0.12.0.tar.gz"
+      },
+      "0.13.0": {
+        "sha256": "bf3bafeff9a5684180f6be75e87cad0de9631c11cf766528c2dc85afe5da4efa",
+        "url": "https://files.pythonhosted.org/packages/12/86/7e39c01090ce687c7ed0f211674bebe5caf3d0ec06edc49e5e0a9b3662c7/jenkins-autojobs-0.13.0.tar.gz"
+      },
+      "0.13.1": {
+        "sha256": "f7e9e89a6e3dcbb77601d84524f37bbd4b41c9be408f9b5dfd3b315c2ac61ce0",
+        "url": "https://files.pythonhosted.org/packages/c2/fb/5e36526d07f23202e7f096b41db7119d6f9027c7a0aeffa50251940a6e70/jenkins-autojobs-0.13.1.tar.gz"
+      },
+      "0.14.0": {
+        "sha256": "483d7c83e10df1134a2a32fe604b8fd43551097a77f85b2e810f711d64fe6b5f",
+        "url": "https://files.pythonhosted.org/packages/ef/18/397849e4be433c136d6c29ea3e059ace869bb2034d3cb4f7a08c77a59a55/jenkins-autojobs-0.14.0.tar.gz"
+      },
+      "0.14.1": {
+        "sha256": "e12cd47cb0283081e94f2cfdd861d3fba99e17b5d65edbe46f80b36b583f93a5",
+        "url": "https://files.pythonhosted.org/packages/5f/35/062b2e566473251ae4f1260d20995b6573231146f4199728ad9957103afd/jenkins-autojobs-0.14.1.tar.gz"
+      },
+      "0.14.2": {
+        "sha256": "4b62ec27fd043c6a772bff0420cb082132702143d9bc03b062d1e445b39f3929",
+        "url": "https://files.pythonhosted.org/packages/16/d5/6d148ad023c3e92bec1bb1d226a4081e92cf617f7c825b2e857f9b1951d9/jenkins-autojobs-0.14.2.tar.gz"
+      },
+      "0.14.3": {
+        "sha256": "a6071dd03fdcd8c8643d688bf83caa337ac7c36b3e26cfe51e859c79e40cc6d7",
+        "url": "https://files.pythonhosted.org/packages/9b/71/43c0a295d232f0ffe61fd23543f066f763865bb91186dc0438a73332c25d/jenkins-autojobs-0.14.3.tar.gz"
+      },
+      "0.15.0": {
+        "sha256": "5dd690ae6946678598ecab3f664820eb4f77ef994ef6fb11919cc4f648fb3439",
+        "url": "https://files.pythonhosted.org/packages/23/fe/681d8cb07a94f55586e9cceb8607f8ae68313fc9085404aef5edadc5ca23/jenkins-autojobs-0.15.0.tar.gz"
+      },
+      "0.15.1": {
+        "sha256": "64782a14fdc8a69ca8921a66ff52cef338ba51362d9b9d590c4b763dd9dec100",
+        "url": "https://files.pythonhosted.org/packages/05/1e/da4a3cbd4ea2ca6644c24fe291b0cb8df0a8ca9ae22188837531a503ff53/jenkins-autojobs-0.15.1.tar.gz"
+      },
+      "0.16.0": {
+        "sha256": "a5a76b708af7048b0a4245d29b0da6cc6c787f9ad4d91885d92826625bc81e0f",
+        "url": "https://files.pythonhosted.org/packages/8f/23/ca7f0c475d8287b628d4ae0f41062ec1ed7fcd5adc0fe16afc812b2f12c3/jenkins-autojobs-0.16.0.tar.gz"
+      },
+      "0.16.1": {
+        "sha256": "b0a5d8ae6405e2cad8e8b8871b1bf09a87750b7bd37a601c21cc5cfdf18c62b8",
+        "url": "https://files.pythonhosted.org/packages/9c/2f/578edeca14c05bf4694de26e9fc01a67bfcd970fe34d9dffbadf62d40d91/jenkins-autojobs-0.16.1.tar.gz"
+      },
+      "0.16.2": {
+        "sha256": "378094e51e403dd0df1c12a3d20328d011641736bfa439992f4c9169385f6841",
+        "url": "https://files.pythonhosted.org/packages/17/eb/48c6c892a570e7cf57ac057088f7e7b587e78b0df89273a6c8cccc6da95c/jenkins-autojobs-0.16.2.tar.gz"
+      },
+      "0.17.0": {
+        "sha256": "65a86d44d79d25fe86aedfee85c7d2ac1958003eb9ddbd29027abd26c98971e7",
+        "url": "https://files.pythonhosted.org/packages/4b/97/41c1a7b2a56cd7dc9cfa0848a5787cbb49506c1e696289ecc40f5cf7f28d/jenkins-autojobs-0.17.0.tar.gz"
+      },
+      "0.17.2": {
+        "sha256": "8a7a545b41c7ff1d269aa2000046d66390cf2c03919fda654e5a2c4f76cbab4c",
+        "url": "https://files.pythonhosted.org/packages/d2/4c/33a08280a4f28f74c5864acff6a2989bfa9cc3a6dfd64f6f41c313395620/jenkins-autojobs-0.17.2.tar.gz"
+      },
+      "0.17.3": {
+        "sha256": "ffa01d9657285036693f1d84c5f16b86bffa97c9a3cf14c86532ef002327154a",
+        "url": "https://files.pythonhosted.org/packages/a3/c6/d877381230da1125442983802441c6d7d035a0f7b14fb37f9ab55c9aa2bf/jenkins-autojobs-0.17.3.tar.gz"
+      },
+      "0.17.4": {
+        "sha256": "3195788bbba162d4c27597379cebfaff08fc8ba41bd759bd88dd00cce1ef54fc",
+        "url": "https://files.pythonhosted.org/packages/34/d7/9eb32f0923912f59be4e5eb6eb09d4bf668b0e674d18c422d7541710b0e0/jenkins-autojobs-0.17.4.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "f4cd245588894db3aad9dc1880c6eb10a785b623ade83148ac62d4ddc3e82376",
+        "url": "https://files.pythonhosted.org/packages/12/bf/c47954de5e346a0f3cf0491083739b05f1161558f95f070bd87f5c71ea36/jenkins-autojobs-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "48cccaca5b9b0e3140ce444a53cc46f8eea923dc023abc810360504927550063",
+        "url": "https://files.pythonhosted.org/packages/e1/f2/08196e148eb94baa1174d34fdda0f1bbbc5b4fd1ca863c7d0734f8fa7b33/jenkins-autojobs-0.6.0.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "419e50fd44bbce09ab68b4806727f87975a8b8f7bbeb78577897196df6367b80",
+        "url": "https://files.pythonhosted.org/packages/db/f0/351b766bfe75eaba4c99dc9f3a5b343b4142a3b64cb913e6ebc12a92bb72/jenkins-autojobs-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "e4adb9f2af65d8dbb911b89474db3ddddc06ddd433153beafd9b59cc0099e5d6",
+        "url": "https://files.pythonhosted.org/packages/c1/7f/189113b415a4fb1eb7ece062c8533d10c4ae4f7372cc132900c0168abf2f/jenkins-autojobs-0.9.1.tar.gz"
+      }
+    }
+  ]
+}

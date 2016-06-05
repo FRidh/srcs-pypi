@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Support and convert several CAN (Controller Area Network) database formats .arxml .dbc .dbf .kcd ",
+    "homepage": "http://github.com/ebroecker/canmatrix",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "95cefd9113dd3121a0f9dc7b0682bddb925b1fa26e8007ed298dc9289dd1cc8b",
+        "url": "https://files.pythonhosted.org/packages/83/81/fe5be1065abfe934f3a1abdbda8ed77a29c97d5fc537abb07717abb891ca/canmatrix-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "e2561d4019ec3dd6dc5e2ccfcd8f52d766fd0f1885692a49c6a6b1e0404a7bd2",
+        "url": "https://files.pythonhosted.org/packages/3d/e7/4192f26afdf15b89d9d467e24199a0f280d4bedcaa36e45ab1f9d2092308/canmatrix-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "2139d6f772e3aa8ac64dc7e976a2e4e349efe1cbb0b055a0d90ce2d57d072d40",
+        "url": "https://files.pythonhosted.org/packages/4a/51/553039e7ba47711ea6011ebeb917206bbac8f69ae8312639d01eea123aa1/canmatrix-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "d69786aca0ce82fbdc0e73f1c020de90c15c3345d44908a422c2691b7ea3842a",
+        "url": "https://files.pythonhosted.org/packages/14/a8/8e817f7f7da7cb8ee122aea4f6dc43b3764e1ffa19ec94b2180fd6b1287f/canmatrix-0.4.tar.gz"
+      }
+    }
+  ]
+}

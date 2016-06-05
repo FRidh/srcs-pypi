@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "20160424"
+  ],
+  "meta": {
+    "description": "Python bindings module for libregf",
+    "homepage": "https://github.com/libyal/libregf/",
+    "license": "GNU Lesser General Public License v3 or later (LGPLv3+)"
+  },
+  "versions": [
+    {
+      "20150909": {
+        "sha256": "479090a439d1bb8d4115577e3fa6d8ab900440e61c61a13f43dd0490a145ffa4",
+        "url": "https://files.pythonhosted.org/packages/60/19/16e03b4cc5657b7d643fba9d4c9700348e90df71d354bbdfd53e44bc6054/libregf-python-20150909.tar.gz"
+      },
+      "20151205": {
+        "sha256": "9ba9fa1875dcacc03dc100a185be71d3645e9494300587afe9a25416d649fc93",
+        "url": "https://files.pythonhosted.org/packages/34/b4/6873015ec2d184211c8bfebff192e5ee7ec347260828e5cdf28917e0bfae/libregf-python-20151205.tar.gz"
+      },
+      "20160109": {
+        "sha256": "0a970b28c7d2c8cdcf0668932b07985e8d24f2d6216d894752b3c12fe14a4e7b",
+        "url": "https://files.pythonhosted.org/packages/2f/63/5793bdde9436797f6adce851a0267bdc885f10c5f7ebea272153f2e6d286/libregf-python-20160109.tar.gz"
+      },
+      "20160424": {
+        "sha256": "0735e419476d62fbc02e5ffb3875e41a660f9a35fda50ae8dbed5d0f3cfe9e99",
+        "url": "https://files.pythonhosted.org/packages/0e/08/d0ab84e7b2d7d73cc502c9362ceddd71041216807da8ddf4bd4947e73bcc/libregf-python-20160424.tar.gz"
+      }
+    }
+  ]
+}

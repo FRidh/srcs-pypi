@@ -1,0 +1,586 @@
+{
+  "latest_version": [
+    "0.7.3"
+  ],
+  "meta": {
+    "description": "web framework based on Asyncio stack",
+    "homepage": "https://github.com/klen/muffin",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.0": {
+        "sha256": "768a38c176d725ce2f4d9fba97e03975726b619a4edb26012ed9e7f1393d73bc",
+        "url": "https://files.pythonhosted.org/packages/ae/e0/d52c03f5d72e1d15e5be31bb54420322d8faa4714b42dde0d4f8b9ceaa79/muffin-0.0.0.tar.gz"
+      },
+      "0.0.1": {
+        "sha256": "617f630e9fe6533f3c7b92ccb18df814be39cf5f388e260061947324e731abf9",
+        "url": "https://files.pythonhosted.org/packages/12/f8/087244eed3c95a586bfbfa8bf9adc9a9c2e8862bbbe60d785ad96d97cfa1/muffin-0.0.1.tar.gz"
+      },
+      "0.0.10": {
+        "sha256": "aeea3567f1a2d48833b0c4d897ecefb88c41177a028970499a66343ab738b92c",
+        "url": "https://files.pythonhosted.org/packages/77/02/43875505abb4e553b63656bcc2e6715233b29b69fdca52e68d854dbcc4f1/muffin-0.0.10.tar.gz"
+      },
+      "0.0.100": {
+        "sha256": "3a49094a1021781afaabe4fa54f203173af3ce6c52242c6ed81eb546d5916625",
+        "url": "https://files.pythonhosted.org/packages/6a/d1/ffdc778a7f82e590878bb79b3e22ffa8cc09aa8b24e57094975c389862a9/muffin-0.0.100.tar.gz"
+      },
+      "0.0.101": {
+        "sha256": "6550c7940ead7baec24e3ef972285ccf84daf6db6da6c5f7947b4717b872978f",
+        "url": "https://files.pythonhosted.org/packages/b0/0f/a0a32294359f9dd3960d835a1588b849f4a321045205843c826416de00ef/muffin-0.0.101.tar.gz"
+      },
+      "0.0.102": {
+        "sha256": "3187724436e4283005bf3b63a17ad545598a41ad7b369957e2d10e90401ad298",
+        "url": "https://files.pythonhosted.org/packages/ce/a2/cfd0e91bca9fad0a301ad9f03a3a62ce23b20b7198f0605d748a1ac7aade/muffin-0.0.102.tar.gz"
+      },
+      "0.0.103": {
+        "sha256": "f9f81f7a3575904bef1c7f6112a74c1e812f2655e6d733da12c0f15fdd72937b",
+        "url": "https://files.pythonhosted.org/packages/e1/e9/9b458809163b667bf9642a358ca4950d0973cc89663c4e7dabeda07f32ea/muffin-0.0.103.tar.gz"
+      },
+      "0.0.104": {
+        "sha256": "53ac6b88b69b4d4197b8b8bc464d6ea131e2c7c62a6f33960abcb8be8e38e9a3",
+        "url": "https://files.pythonhosted.org/packages/6a/9a/e246a1b75e3fa541931d9cc3a56ab636882cbda1ef8778addacba89c8b62/muffin-0.0.104.tar.gz"
+      },
+      "0.0.105": {
+        "sha256": "0d1b99fe7cdccc4892fb141b578457937dd507e7c4ad54e222fa431a712c655d",
+        "url": "https://files.pythonhosted.org/packages/e0/b0/73704746bea5e1b134bd121ae23bf403885d6a5adff98f1fa7d25b9e424d/muffin-0.0.105.tar.gz"
+      },
+      "0.0.106": {
+        "sha256": "9ea6f506fe9a2d6fbb0e5c163a128e930967b7c62665b7ebe8f3608b6747db2a",
+        "url": "https://files.pythonhosted.org/packages/80/a7/f0e1018520991257aac318f2d124c1ffc0db1b87571053ecd5ccd0825a94/muffin-0.0.106.tar.gz"
+      },
+      "0.0.107": {
+        "sha256": "68b9b551f6d5ed9739789c3d3ca35ab4ff7b92133c43dc69e4844708d3b437c0",
+        "url": "https://files.pythonhosted.org/packages/55/6b/976c1a5b0ae7d0fe3e06557431ee112d95c8730a42d753b974282252eb45/muffin-0.0.107.tar.gz"
+      },
+      "0.0.11": {
+        "sha256": "3c757df92cd98d884179d8a941dec7c32adfb3b00dd72c4c3cad1c2d57265185",
+        "url": "https://files.pythonhosted.org/packages/aa/73/6925cee1b8fc2111ff710b45f0206e5a79cb1371ba1772955382c9e6acef/muffin-0.0.11.tar.gz"
+      },
+      "0.0.12": {
+        "sha256": "fc9611e37441037b7bad8fb12dc60f9eb1dffa97dc9120a566b311015893458c",
+        "url": "https://files.pythonhosted.org/packages/57/6d/dd1895576f8d49d0a229858f71fa2c68a28d708d47d504cdeff9e785480c/muffin-0.0.12.tar.gz"
+      },
+      "0.0.13": {
+        "sha256": "2fcf4859e0bb4c9f5f5ae75f02de7a14228d1514793ec385eacad884641269f0",
+        "url": "https://files.pythonhosted.org/packages/97/71/360c2e97bb57d2c1fa3f662c0dd413143f57209777bd5f33cd7f35661920/muffin-0.0.13.tar.gz"
+      },
+      "0.0.14": {
+        "sha256": "6f3d6acf37b674a1915f2c0ea41e1ad5bb30cb3ea5f6f7db1e238f0c7777c071",
+        "url": "https://files.pythonhosted.org/packages/be/7d/dcc318c0131d67977ec42656dc88379f14f2b13bae130d95ac1b3569ac4d/muffin-0.0.14.tar.gz"
+      },
+      "0.0.15": {
+        "sha256": "8863d31e744a363c52887f4c0952d8d0fc7a41f7f320504c78dfe58f7152743e",
+        "url": "https://files.pythonhosted.org/packages/6d/03/1e6b90c2d8f9dae286af24fb91d40361664a6339d05ba97380cf4c3f20fb/muffin-0.0.15.tar.gz"
+      },
+      "0.0.16": {
+        "sha256": "068aa04acd3bc256eebc0b063acddcabdad66e34ef2b4b03ed01dac0423e9d35",
+        "url": "https://files.pythonhosted.org/packages/e5/ba/a3446c78bbfdcda9ecd0c38b65df296e5a0052602320f010b8b853213413/muffin-0.0.16.tar.gz"
+      },
+      "0.0.17": {
+        "sha256": "ccfbe51c21be2f3ba9712e3081303139372514377ff4af23f1faec5c4cfde814",
+        "url": "https://files.pythonhosted.org/packages/15/6c/44bce5cfc13dbc5501fbfe9dea2281f483c2ee4c2b1cf9d183aad29965f7/muffin-0.0.17.tar.gz"
+      },
+      "0.0.18": {
+        "sha256": "bc3f7d73e2b249d781b9499fe79d568630c8c38bceb0782dadd0ebeba4ce72be",
+        "url": "https://files.pythonhosted.org/packages/f7/fc/a8e5962e77b6ddbfe1cbd465895403b21ab1dcb4b2f3965c33fa3cbb3349/muffin-0.0.18.tar.gz"
+      },
+      "0.0.19": {
+        "sha256": "4bd56a2d295dc979c5e6b08143219f87a7ee55396842fad6a3e33380f43ff359",
+        "url": "https://files.pythonhosted.org/packages/b3/1c/b52f391aea21c230d46d5c60a6515866d142d6692e48eb233a3647cbff9e/muffin-0.0.19.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "c5406f215e555a6bac5e96481cd4cecedd489885134fb8c3ee1f95782a1801f3",
+        "url": "https://files.pythonhosted.org/packages/90/c5/31d41f832bcb7b8f4ea8efebd701c9c2731db49343702661919d2db97d16/muffin-0.0.2.tar.gz"
+      },
+      "0.0.20": {
+        "sha256": "6d5216d95b7aeddbddd4de7b15c9ad5668e24197d33198f3ed853b63b2d8cea3",
+        "url": "https://files.pythonhosted.org/packages/87/2b/5150cfb92fe698958fd72ad59a528eb6a8bcc06e3a49a5746627c84ba121/muffin-0.0.20.tar.gz"
+      },
+      "0.0.21": {
+        "sha256": "1150f8e19f7685dbf765fe75cca6c2b4926c769d879142c10f5b6e50a070de36",
+        "url": "https://files.pythonhosted.org/packages/fb/64/83fa2156865fd2fcff04508491e585b963a30c5c6fc737db5997ec6b7cc3/muffin-0.0.21.tar.gz"
+      },
+      "0.0.22": {
+        "sha256": "4cc5902360fdd11560e20c88982064fafaa18c6b7de088f4feab88f83bcad55f",
+        "url": "https://files.pythonhosted.org/packages/7a/45/04d3cde172e2811095871bb55712a52028dfaa229e1c17f3f52fed055c95/muffin-0.0.22.tar.gz"
+      },
+      "0.0.23": {
+        "sha256": "0bbb967ec8e14f9c8fab31a53b2137e1ea702d708a5db616915b43a52d793b2c",
+        "url": "https://files.pythonhosted.org/packages/f0/0a/5de2290a5dfeac63e865692274a7ca9f3725f11d19cdb7b26450fb4b4422/muffin-0.0.23.tar.gz"
+      },
+      "0.0.24": {
+        "sha256": "2b0b737aca3537102983074f9e539399302e00d8e72629d225629a4c19015704",
+        "url": "https://files.pythonhosted.org/packages/d3/9a/04234185b951bb70f748bf8485c0718bb7a8db8306d5ed78ab88666ede44/muffin-0.0.24.tar.gz"
+      },
+      "0.0.25": {
+        "sha256": "83df63cfcd5b8950035d3ce916998417a8457dfb9e67669c6ce2b741205d96fd",
+        "url": "https://files.pythonhosted.org/packages/f4/06/06f243b0f15b638e29f3a976af395834254a216c69daabc38a04a7a59a08/muffin-0.0.25.tar.gz"
+      },
+      "0.0.26": {
+        "sha256": "ab3dd3150170910150196fa00a0577aceeb75d4b95f57c9af046e357d6e854fa",
+        "url": "https://files.pythonhosted.org/packages/1e/e7/6a3fdf829025cc93c3d5fabd501bade7b3784e35dc7344c3fc316fffedcc/muffin-0.0.26.tar.gz"
+      },
+      "0.0.27": {
+        "sha256": "6cc9da785c9db3d1972cad3a63962228b46b83a0cf89e0b45c6225e0fdfcec75",
+        "url": "https://files.pythonhosted.org/packages/ce/c4/b97a977bfac17ae316caf8ffe85c6d6b9c943e64497b43ef7ee9e38a4a81/muffin-0.0.27.tar.gz"
+      },
+      "0.0.28": {
+        "sha256": "82885f378a2002a904540c3abe4a6ef3656b3f1328238b66ea2b76de20f0ef60",
+        "url": "https://files.pythonhosted.org/packages/15/bb/9e90ce5f3e74a4ed2a7aeadfc0d47c9479063b01046d5e788ca976575242/muffin-0.0.28.tar.gz"
+      },
+      "0.0.29": {
+        "sha256": "7c541f5b672b917b70f6713382f1a26ac26c11f9b6eb467a3580d64cf260c522",
+        "url": "https://files.pythonhosted.org/packages/d0/97/223cfb8bee017aaaca9d41853c7afd1b6a77cd11d6cc253abf34a0362804/muffin-0.0.29.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "96bb7dbd1b15efbcad6aa2bc9e124f496f313194a11ba8c0aaa1ea857a5d5c08",
+        "url": "https://files.pythonhosted.org/packages/ae/60/1e164fabbd079bc8655c412a3b6a3fbb8f8bec820ce4cb7aa73dd26bffef/muffin-0.0.3.tar.gz"
+      },
+      "0.0.30": {
+        "sha256": "ff1faf866062641f58ae479b12cb2adf093350de3a2392f8197fe31ba8f39bb3",
+        "url": "https://files.pythonhosted.org/packages/78/25/7407dc74b623d7f0356d23aae7bef9b6f47277e11dfb489c0383ac392043/muffin-0.0.30.tar.gz"
+      },
+      "0.0.31": {
+        "sha256": "57bec8e7fbe3720954ec69a5c591aea43b4d2c6cb82c13ea2381a613d5255dd3",
+        "url": "https://files.pythonhosted.org/packages/f1/4a/a6ad717d7a5b0bd500213b281cfd43734ef7ac884fc2877e59f7e5d2cdc7/muffin-0.0.31.tar.gz"
+      },
+      "0.0.32": {
+        "sha256": "314f409f7b1cdf19f8ccf6044616596275d990151463d5937d3d7766020c79dd",
+        "url": "https://files.pythonhosted.org/packages/98/5a/14fbdd80c4b6dd826d1e2ad334455438754023997aa9fbfe98450401cfbf/muffin-0.0.32.tar.gz"
+      },
+      "0.0.33": {
+        "sha256": "854c48d0f64bbf110c3b87d7e1d3a8667d80c87e754fd8ab8af2337305dd40b5",
+        "url": "https://files.pythonhosted.org/packages/4a/a4/e1a7021afd47a1f483d3b97d2e74865b27fe0f094133a50d0c48ef23ed64/muffin-0.0.33.tar.gz"
+      },
+      "0.0.34": {
+        "sha256": "ed8b4b91a70706437a6882ceac5b1ae8e4eb58cc83ecf50290409f2ecba19465",
+        "url": "https://files.pythonhosted.org/packages/90/38/89f47919092dc8605ff2f989f661358c623dddedbc55e0711704aa89ad32/muffin-0.0.34.tar.gz"
+      },
+      "0.0.36": {
+        "sha256": "02ce74c611ebb02f586250a5b96e2f651687fbcfb66c937e9c788eb830edaf84",
+        "url": "https://files.pythonhosted.org/packages/b6/ca/5e49acedd505dd5c4414db0fd56cca7bee6bfdbb7dd641fa2e4c109444e4/muffin-0.0.36.tar.gz"
+      },
+      "0.0.37": {
+        "sha256": "56137a328a32b76228f585e46fe170c60cd1de119d1134b77fce95ccf5b5634b",
+        "url": "https://files.pythonhosted.org/packages/31/90/4d9c49c9dcdf32327dfb1764ba851b94b789b6cdb2f6e94697d82860f4b2/muffin-0.0.37.tar.gz"
+      },
+      "0.0.38": {
+        "sha256": "2ed702e0c88b35a872bda6938b3090d7918b4d406950bd4e63ad0e841ef6db18",
+        "url": "https://files.pythonhosted.org/packages/f9/a1/6f02148fa195ddfb0e2a04d7902f189ae2f3e9a9bbfc68953b4b8209d08f/muffin-0.0.38.tar.gz"
+      },
+      "0.0.39": {
+        "sha256": "712d178f119e4d23410cdcc2260676519d233e64a4e304855187d7c77e4b1141",
+        "url": "https://files.pythonhosted.org/packages/0f/3b/2d78c86bf97ccc806b3ac664dae67c92511603e2dd7119521f963716cc54/muffin-0.0.39.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "64f587f422820c4766e467a0ecd50795fd793d771a5324e64354cb0627633286",
+        "url": "https://files.pythonhosted.org/packages/de/eb/7d45208a2df9811145fac23b2c0fc7b0a292366c68198c60030271e5f966/muffin-0.0.4.tar.gz"
+      },
+      "0.0.40": {
+        "sha256": "bc01ba59a98a40bf41651468730c23b2f8a6fc7ad69ddd447869754ff2c8d53a",
+        "url": "https://files.pythonhosted.org/packages/b1/2b/7362ee119eea4bd832b51b2b7e31c9fc8785c5e940fbad55f21ae715c43e/muffin-0.0.40.tar.gz"
+      },
+      "0.0.41": {
+        "sha256": "6d52c89660663181a26d3943b936bcd6b8f4d1bb4e7daaafbb94f14f51032c31",
+        "url": "https://files.pythonhosted.org/packages/00/28/896003098600a762c9d9698c67933c91e97da269a5cb6af0a48d122372b3/muffin-0.0.41.tar.gz"
+      },
+      "0.0.42": {
+        "sha256": "db3e1bad122bb7a7f972d1046e713da613415638d0605ba0f2760606aae9e939",
+        "url": "https://files.pythonhosted.org/packages/c5/39/b95190e3167b5842709ebd9274d3e1e53ea211410745689a4a847877978d/muffin-0.0.42.tar.gz"
+      },
+      "0.0.43": {
+        "sha256": "f5a811ce6f1501ecb36bb683113007dd688fbe9dc8f8f6e6d1bf34a6b17dc03f",
+        "url": "https://files.pythonhosted.org/packages/0d/75/19f140388acc479b8c574df00f4ec58c57faf3459557d66bd026f3818861/muffin-0.0.43.tar.gz"
+      },
+      "0.0.44": {
+        "sha256": "79d3424ac81768a464c463bf97c2d8e990284864e89449c07a1108d8e8e0d9c8",
+        "url": "https://files.pythonhosted.org/packages/17/e9/c89ddf70b3898c5b275d5861b7e1eda3441892d914c69e7f6a38245fbf63/muffin-0.0.44.tar.gz"
+      },
+      "0.0.45": {
+        "sha256": "2effe56c26b6619a122343ad25cd23f3eea43d3fd7f1969d88e94c07780c5eb9",
+        "url": "https://files.pythonhosted.org/packages/6e/3d/27d59a006eab863f50d77bbc3e09c7cd086f6a16313df3c3691ad8e9efb6/muffin-0.0.45.tar.gz"
+      },
+      "0.0.46": {
+        "sha256": "f25bb64ec342d0c5842cccdac2d82739155e2714844849ca9ac127e4a4d91e2f",
+        "url": "https://files.pythonhosted.org/packages/3f/6b/2a1a9bfe2d63476b686e116e097a345291dacba564beae33842531a66af6/muffin-0.0.46.tar.gz"
+      },
+      "0.0.47": {
+        "sha256": "f0553c6695f75960086d626096fb420aee7f9ad4d6566820acbac6e4cc08f7d2",
+        "url": "https://files.pythonhosted.org/packages/a3/c5/caa91ffa8cc73f864d4fcb848ab54f3b346032e93d858821c40daf5e5543/muffin-0.0.47.tar.gz"
+      },
+      "0.0.48": {
+        "sha256": "2ab2c2875022d800d2793fa28bce3d963b2df72bd7468c953c8e139112c53084",
+        "url": "https://files.pythonhosted.org/packages/e1/7d/dc4e8b10141cc9be235e902c7813d362cede585e1bbba8cbd80222a2be5d/muffin-0.0.48.tar.gz"
+      },
+      "0.0.49": {
+        "sha256": "27c03579d2c58454fcf14b79823c65cb2900205d8bd8d935a39f99ca4c502aa5",
+        "url": "https://files.pythonhosted.org/packages/be/64/4a7c650628232b97068e06fe3f63660daef04105d6d31d5325238237c6d0/muffin-0.0.49.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "87bc5f7390833b34a6174bb58eb6999aa528d82dad4d0f41e7b58b40fea13a21",
+        "url": "https://files.pythonhosted.org/packages/3c/53/893098e55d8e4628c76e84dfea83c89b1dca9194cef40d9c52e6a3225df0/muffin-0.0.5.tar.gz"
+      },
+      "0.0.50": {
+        "sha256": "7d6395d49a32da29832f471ea4b36417db61a07a80a760962a02fed3d0b0f89f",
+        "url": "https://files.pythonhosted.org/packages/c9/6c/66df1643efec1dcba1212effe774b66fc5e5be941b89b7ed3d7976ed878c/muffin-0.0.50.tar.gz"
+      },
+      "0.0.51": {
+        "sha256": "deccc415f40cd027db80ffd98a8c68dbac81ed61dbade40e5d27af622e134fb6",
+        "url": "https://files.pythonhosted.org/packages/4e/87/0f6bb1d0bf773e6f862e03cce26bc5f6d433b4acc0dbc5300495510d1b89/muffin-0.0.51.tar.gz"
+      },
+      "0.0.52": {
+        "sha256": "948392d02d5814d2a45e4a3f93d75eb7829b4600b2e429eaefb70b1a16cd0e6e",
+        "url": "https://files.pythonhosted.org/packages/09/d2/19a937e0d485101c4d85e9ee8c8286738d4e81f99ad169e6e1b76869e522/muffin-0.0.52.tar.gz"
+      },
+      "0.0.53": {
+        "sha256": "87736e8058dd04a88055c3d6d84918d7e13938720736344d071c3309d6ae0494",
+        "url": "https://files.pythonhosted.org/packages/f3/bd/59ff2be9ae91c517200db8984be7809351bdd7c36544b274c7bc4017cf0f/muffin-0.0.53.tar.gz"
+      },
+      "0.0.54": {
+        "sha256": "f2edb7fc0278b91533ccbc4c37367f8abc1670f40fbfc82e2b0c89b078cf431d",
+        "url": "https://files.pythonhosted.org/packages/d0/1c/a420439de798d41b4f0b8ae7487157c48b38b563dbde3ec54648130251e5/muffin-0.0.54.tar.gz"
+      },
+      "0.0.55": {
+        "sha256": "e21ddf63f71c71247733f37a1ba426855478cd2a2f416628b762b2eddba0af77",
+        "url": "https://files.pythonhosted.org/packages/3e/3f/feb89918f566f192140ef3a556760160600cc6db3799c8dd4cf1589e0a89/muffin-0.0.55.tar.gz"
+      },
+      "0.0.56": {
+        "sha256": "b832cda631607818cecce0783e8e1f5d9550c58aef80ce4bec02017078ab7aa7",
+        "url": "https://files.pythonhosted.org/packages/c4/a9/1b4588c2983a726594ff146fdf53703b832f52e8f36297f818089a6f761f/muffin-0.0.56.tar.gz"
+      },
+      "0.0.57": {
+        "sha256": "a420d9ab36a2dedddacbe5529c3b1d6b09d2cb6e6c020f8574b1560b3ed785e7",
+        "url": "https://files.pythonhosted.org/packages/2e/f6/fe2aad8f0b9c8266d3bc1fc20265fb6673c9a0c4b8f7c000c8d23b89a76b/muffin-0.0.57.tar.gz"
+      },
+      "0.0.59": {
+        "sha256": "9d951db16137d4b77841a6bf33a05dd607c75ec0526597367ad2bed50e57b709",
+        "url": "https://files.pythonhosted.org/packages/66/af/b39d3d9dbe3bfd94e33078f49a579908001c88d8b68a44512e18c6059815/muffin-0.0.59.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "e1ebef9774a63c459e390c0be290c3ec98abb84a2c4212def9ae90eaf4990a6e",
+        "url": "https://files.pythonhosted.org/packages/19/6e/c7be58e9d44dc4550d7d7aadb241772540176b9e43e61955fb9f7394c6dc/muffin-0.0.6.tar.gz"
+      },
+      "0.0.60": {
+        "sha256": "75e817b05cd7facfdebba146489d97ef9d76de345a64fe47ed020c6b249908d4",
+        "url": "https://files.pythonhosted.org/packages/7c/42/fcfea23566f8c8e92609cef0ccaa7465abb2df4ec9b58b1d194452b2ca09/muffin-0.0.60.tar.gz"
+      },
+      "0.0.61": {
+        "sha256": "a192d48248b645350e153cb32499245d36576b7188a68efc55f216dbb72908fb",
+        "url": "https://files.pythonhosted.org/packages/8c/9f/fc15457fbcfdbbfcd798bb21e6d1e9cafb1e350bcd1ba1094192b6faae80/muffin-0.0.61.tar.gz"
+      },
+      "0.0.62": {
+        "sha256": "112a892b1de66f2f00dd51dae3b81938024dade38c8098b32ef7585ffb9c52de",
+        "url": "https://files.pythonhosted.org/packages/40/90/c5d17ff438bf8107e3499ca9daf3618c7a9cfec94c454a85b662dfa7ae7b/muffin-0.0.62.tar.gz"
+      },
+      "0.0.63": {
+        "sha256": "bc58beabdd64d3665df207b3277382a25a2eee5c035c3d27f6b155644d55948b",
+        "url": "https://files.pythonhosted.org/packages/64/4d/66c50fb443dd6ac0491f7473780f8ce78fbdb4f1df82c985fea32bb6e875/muffin-0.0.63.tar.gz"
+      },
+      "0.0.65": {
+        "sha256": "3046bff5ce840d21923289092b2a60f41c7b5609bd53e5b39dd21ec97644c482",
+        "url": "https://files.pythonhosted.org/packages/32/14/dec78976f3940f477cd2661917ecc915aaafeb06960a831d6ceaa020233b/muffin-0.0.65.tar.gz"
+      },
+      "0.0.66": {
+        "sha256": "255bfa9a3824d23cb96011d422f31db93a40c047de9b53167ad3ceded6a84261",
+        "url": "https://files.pythonhosted.org/packages/b0/3b/8611c076d40a234c90e26592c187e40222e3317de042eb74ec937d8a2edf/muffin-0.0.66.tar.gz"
+      },
+      "0.0.67": {
+        "sha256": "5e443cd7b4b1a1d47119130ad585b8e2acfadea28a21a262f052c27bb4117697",
+        "url": "https://files.pythonhosted.org/packages/99/d9/c3be0c4ae5b29001ff25856363c768b038ac2864811636588e8154c1d88d/muffin-0.0.67.tar.gz"
+      },
+      "0.0.68": {
+        "sha256": "bd9a7c78b3c0bc5cc2e0eaa0252162f7580f67f84778396d5ad99d761f34f092",
+        "url": "https://files.pythonhosted.org/packages/61/3c/54cce0c8af4d9f95be7b8fe2e71bccd36f1ac2144334db7becc2c6f5af3f/muffin-0.0.68.tar.gz"
+      },
+      "0.0.69": {
+        "sha256": "0bdd29807cafb41842c2dc2c5eea648d2d53d0170b55f7beeeedfc0b2e8401a5",
+        "url": "https://files.pythonhosted.org/packages/08/01/2f3ec24e035aa9a64c813eaed5c08bf83e88f044432a1922daf1c8bc6d50/muffin-0.0.69.tar.gz"
+      },
+      "0.0.7": {
+        "sha256": "45f361b643c61e5ac843451cdb5e401eb33eb853d1a4d9723b468eea0723723a",
+        "url": "https://files.pythonhosted.org/packages/03/7c/f83d12e581e45e4f4f56f04467224df5a73018db959322c3ff91ed2a8060/muffin-0.0.7.tar.gz"
+      },
+      "0.0.70": {
+        "sha256": "06c9bfe8a2d734854bd7c01db217433a781efeb00c425f89c32384922989f0e6",
+        "url": "https://files.pythonhosted.org/packages/71/a6/46966bf41268d9e015818db3afe4413695512ac3f6d379d55565a1cabb5b/muffin-0.0.70.tar.gz"
+      },
+      "0.0.71": {
+        "sha256": "e37a45a82aa47561b9f77583a18dfbe1e40744631ef493eff91968a260d67072",
+        "url": "https://files.pythonhosted.org/packages/21/36/263d6817f8e0f611824a56d21cd33e942b6e857d3290df24ba2d124f4281/muffin-0.0.71.tar.gz"
+      },
+      "0.0.72": {
+        "sha256": "29d51d6eeffea7d0623b3bc31f513f728c9d9b9d83ea358a1074aaa3a177bc43",
+        "url": "https://files.pythonhosted.org/packages/c4/c6/edea4226c97b19bd0f62aa04a8337d8f5b05e770bbbf706ee9c96a8d0fbd/muffin-0.0.72.tar.gz"
+      },
+      "0.0.73": {
+        "sha256": "9c2090d92759ffd9a618ed5fb6cef09b8b1708f1014d03654457206e62eca15f",
+        "url": "https://files.pythonhosted.org/packages/4e/41/890b02c05407bbad6787e2b1ae2c913fabf16cca62ceb700b1b2040080b4/muffin-0.0.73.tar.gz"
+      },
+      "0.0.74": {
+        "sha256": "136a37eca19bc2987c3953c2b9c0d0a3ed8f806d26f231323d86afa1a221705e",
+        "url": "https://files.pythonhosted.org/packages/9c/b9/4cd56d2ff065f974691212612c7d492f82c54b3447339266abae635c4976/muffin-0.0.74.tar.gz"
+      },
+      "0.0.75": {
+        "sha256": "2b4e66bcc9385cc43e88265bded96f6d37baa606b1a32901b3f34ffa72335e3e",
+        "url": "https://files.pythonhosted.org/packages/13/0d/75c82d0cd3aaef3d81491ff7ed7c45273cc645f2a3566ff8ad18e0d50c77/muffin-0.0.75.tar.gz"
+      },
+      "0.0.76": {
+        "sha256": "f86a2413294dffdc80f81c9d649c5c5106a4ff1f88c22f84549e47de2957e6f3",
+        "url": "https://files.pythonhosted.org/packages/57/c1/0fc09e3e81e2bcb6db38e22e18ba4778036a1be8ad341931a7be7430f937/muffin-0.0.76.tar.gz"
+      },
+      "0.0.77": {
+        "sha256": "68935f7bc87795f3b0a117f00995d1ff6218a83df597e359641922fd611aae6c",
+        "url": "https://files.pythonhosted.org/packages/fb/f0/9b6b048dacb5e7eea1691332fc201fac338d1f7b24638544ede7340371c4/muffin-0.0.77.tar.gz"
+      },
+      "0.0.78": {
+        "sha256": "ebcc1d4b006cffbc1b0a8a2a09dad766069c137821b1fd8dbb83d541e7e3929b",
+        "url": "https://files.pythonhosted.org/packages/48/b3/537785ceed081dcbf90a97093b2c84b5cedd71ab7f9ac92b8075d3601e94/muffin-0.0.78.tar.gz"
+      },
+      "0.0.79": {
+        "sha256": "bfcd4b84176f0a9c36c6f439ce9f86670ff2c7285cec15645218d5d96e3fd44a",
+        "url": "https://files.pythonhosted.org/packages/77/9e/672aff4adca028fc55edbcb0c20e5741f911482264a52d2213215d2e2161/muffin-0.0.79.tar.gz"
+      },
+      "0.0.8": {
+        "sha256": "4099e42d14f8a4f6c979907945749eee322873cc6f17f868b52f1ce4b15815ed",
+        "url": "https://files.pythonhosted.org/packages/52/73/7115bf47ca8a8c2594cf0113762bd69ea1abb2b3ff0678cd5a777df46a0f/muffin-0.0.8.tar.gz"
+      },
+      "0.0.80": {
+        "sha256": "f4f733502ac7e3f92c4fef78722ab06567f739e6a3f804eed19bf914544e9ff2",
+        "url": "https://files.pythonhosted.org/packages/ab/f0/90125db6441e6af96b6841eed4002cb54d7913fa147755cab5e219b80c96/muffin-0.0.80.tar.gz"
+      },
+      "0.0.81": {
+        "sha256": "f4678a807ea12d909c3b6505b911c8e4cf22bb052b2c5ab21d69c2f305f09900",
+        "url": "https://files.pythonhosted.org/packages/d4/43/aa163dd03a317bfdb71a327629eacb66082da1ae76411a40a80f99e7f2d7/muffin-0.0.81.tar.gz"
+      },
+      "0.0.82": {
+        "sha256": "e8404ced94f6c8118fbdbeff9f5c2dbd2533fd6bc11e46aa4bc1872a3191e4a4",
+        "url": "https://files.pythonhosted.org/packages/57/c9/1b9e4743ca0243b9b52eb52fa363422f4375ffbf8aaac03c58583c30cbac/muffin-0.0.82.tar.gz"
+      },
+      "0.0.83": {
+        "sha256": "ddbd0db5fe0f0878aafc8247b9e9209d041e590f1c97e1b3b39439222b1087d8",
+        "url": "https://files.pythonhosted.org/packages/ad/01/d65b61988e3bb8151972b6fa30df9961db042d7ebdf1a29547e291dba337/muffin-0.0.83.tar.gz"
+      },
+      "0.0.84": {
+        "sha256": "fae9aaad884e666d408c154bd86fcaed95b37b480b7b4be1a71b10d80d9ea6dd",
+        "url": "https://files.pythonhosted.org/packages/d1/e2/8ef07dffb3a0cbc1e8c9d3dfde58e89a4dcd3ba45fba886a194464991392/muffin-0.0.84.tar.gz"
+      },
+      "0.0.85": {
+        "sha256": "4eb8359d90a4ceab889105308faeea6921c3b7793d168f1d43bedd06edc8c6d0",
+        "url": "https://files.pythonhosted.org/packages/18/f5/6f3dea1a8fd5a497d8ea135594666d16af99a734afc5475e431333002053/muffin-0.0.85.tar.gz"
+      },
+      "0.0.86": {
+        "sha256": "490bc5d4f5541fbd9417a163571cc9c909a88ea6bb44bf75081937704cbb1146",
+        "url": "https://files.pythonhosted.org/packages/40/7f/344c04248fb315e61ea4d84bc8a236254400cd1f9f49364975b73388dc1b/muffin-0.0.86.tar.gz"
+      },
+      "0.0.87": {
+        "sha256": "37ca7b69299f0b3da8187e786be82f60d4c1e873fba5b5346d81a307e6c3535e",
+        "url": "https://files.pythonhosted.org/packages/25/55/ba80edd6e4dedbfd834ef4fd21acbfa5142f84b726cd7a479b0b47a8df6d/muffin-0.0.87.tar.gz"
+      },
+      "0.0.88": {
+        "sha256": "91acea8a09dab825740ca4c372afcef8eefb028c5b674d5919ee92f4deced8b9",
+        "url": "https://files.pythonhosted.org/packages/e9/04/47ed2e167f2ea828511361c8afa4c95ee8ddae483fd4f2a2f26628ef8cb9/muffin-0.0.88.tar.gz"
+      },
+      "0.0.89": {
+        "sha256": "8200f96f859d3f868003272de469465962ad6fab7eaff247358bcffe0c95f964",
+        "url": "https://files.pythonhosted.org/packages/51/7f/2bc5f78381565042bf2a142837adfedf765d2c0b5aa7b538761c0e5d6a6e/muffin-0.0.89.tar.gz"
+      },
+      "0.0.9": {
+        "sha256": "8745868e9183781eab1644dd1d6499c9e28bd1ce7d2af0b20770e25530eff54e",
+        "url": "https://files.pythonhosted.org/packages/9b/56/954565248fa34ee29832ea3d428727154b97eef27dc1187132e3b6684b6e/muffin-0.0.9.tar.gz"
+      },
+      "0.0.90": {
+        "sha256": "28133638d0e73ed3fed4218f01b8bc342bc7a62d44f1d7853d7e6c88752104eb",
+        "url": "https://files.pythonhosted.org/packages/b3/f4/fd527270704f839185e05818c4f26a6a7a8a60b2f7571b5c67c9bc218e5f/muffin-0.0.90.tar.gz"
+      },
+      "0.0.91": {
+        "sha256": "bb039942140f1e9a50298c2b6ec2e784a59d9b7efb576d243efa765cc0218ab7",
+        "url": "https://files.pythonhosted.org/packages/06/e0/dcb6b01151b40195aba6e052fc85375bea2927e925114c4ff8b7e6156376/muffin-0.0.91.tar.gz"
+      },
+      "0.0.92": {
+        "sha256": "f0166bca9288b574b6db37fa6524984ea9484410e666d3b9a7a9dc5377d12698",
+        "url": "https://files.pythonhosted.org/packages/c6/af/a5df039031781752f4d7d32e3ee0574abd12bff73cf6f1a2feb08741dba1/muffin-0.0.92.tar.gz"
+      },
+      "0.0.93": {
+        "sha256": "07ff09a8e67ca8ffec256ea1be653004d29572eb5962cb0bcd848b778d24ae0e",
+        "url": "https://files.pythonhosted.org/packages/79/97/9251fa3d466f0b9e2abcd09563d257cbe65222e4000407ec123a98c0ea72/muffin-0.0.93.tar.gz"
+      },
+      "0.0.94": {
+        "sha256": "14cba653e18eb5e87ffc70de5c1cb1eca9926116c2013be99d44246df6829602",
+        "url": "https://files.pythonhosted.org/packages/94/99/c9a67075f720207af66162820f4c6169578eeeea94ced94771f5bc0a4b4c/muffin-0.0.94.tar.gz"
+      },
+      "0.0.95": {
+        "sha256": "2986318cfe8ce1ebdcc4a606360eea43c2e52281d4190d3e150b4bb09055c7a9",
+        "url": "https://files.pythonhosted.org/packages/b8/54/481fa84ca296b5bb32def4085ae60e43c122f4cfc3aaf3a310a1463b3386/muffin-0.0.95.tar.gz"
+      },
+      "0.0.96": {
+        "sha256": "40cee72fb6bf012db51e81f8b722fa5ade7802222c1bdfb29fd123f1da232bac",
+        "url": "https://files.pythonhosted.org/packages/ed/a1/d02f00fe11499f8b4a07b3e2312cd2be0d7159bfc051a5f778eb80c800b3/muffin-0.0.96.tar.gz"
+      },
+      "0.0.97": {
+        "sha256": "732a7fdf17fdd721b4a69a8432f8ad4e24f1beef3c4a1d2973d031234f244626",
+        "url": "https://files.pythonhosted.org/packages/35/b8/4932e14a7becd2e650b91c19e823e8f6e1545875ef8be7c74d0052526a68/muffin-0.0.97.tar.gz"
+      },
+      "0.0.98": {
+        "sha256": "bdd856ed17e428d469dc12c8f0ba37dde56e22f667dd7bceba6421d9c903a253",
+        "url": "https://files.pythonhosted.org/packages/74/7c/b025f690d05885d67f3a6d4cd60b824d505b8a1a91f68234ce2ccc19cadd/muffin-0.0.98.tar.gz"
+      },
+      "0.0.99": {
+        "sha256": "af1c7417f5faa53f0008dbd034f7cd924358d8b82cf3f24e8a4a02b768e19bc9",
+        "url": "https://files.pythonhosted.org/packages/14/c3/0c7c2679ecb1f3dbb62c3947bfa546f3e965b7b0e0a0b38976c42bc99a1f/muffin-0.0.99.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "b2b809533f3a70dfd781efb2c001a54cbf4c797fd6897b8a175bfce49623e257",
+        "url": "https://files.pythonhosted.org/packages/5c/68/92bf1e6dbf079b09854afca525c94506631c6e35cabcd49ea1d46755c075/muffin-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "ed1575079d4d1c0850814d3064686ab161a5d9e9b2fe12d0349c12ed34ec80d2",
+        "url": "https://files.pythonhosted.org/packages/35/bf/194725579342a0e2b73c7710d2f188a29b4a5a77be213b5294d48bc17c9a/muffin-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "869ab1e1db0d6bd6c948b44085dfa05ef499cbf5f16ee4f019549c7907780c29",
+        "url": "https://files.pythonhosted.org/packages/1d/f1/a5718cba4736ad6518a32ccc711015f19dff5898b63737f67f4855d222c7/muffin-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "7292d92421e95f68559b3dc84222d10dd14f2c697b43b06a58a9fc82baa4e921",
+        "url": "https://files.pythonhosted.org/packages/5e/f6/0a20e2ea19087d469dd3b652eaef6492dff8e535e0427b12ac0d940426e8/muffin-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "5b6eb12f414b6dff74f6ba6fdf51498b16784f66f0ad40a9975bb0dc7f529f1d",
+        "url": "https://files.pythonhosted.org/packages/22/01/b3ee9a3ec53e6ecb34300d789e7d53ccfbefd2e98847b3e92343c5d53123/muffin-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "63ff3e2c031b78dabe8550e20e0878b2059ec3c55a7ba769fae0ec6bc86474ec",
+        "url": "https://files.pythonhosted.org/packages/cd/15/854fed792fca157835cf1d33c7f87983328de5533753762c4ead7c9c4f57/muffin-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "5084f08ad07c91cf7366179989020234ec679cbf60ad4bade1a96fd55c3d9bab",
+        "url": "https://files.pythonhosted.org/packages/14/d8/919a780972bf7cad740123c515719554f47bd8a6a8742b2ec567902d5b48/muffin-0.1.6.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "b2f493c010a78e98cab2370f429f4cbf70d3cce51c80cf8770878e02f07a3dac",
+        "url": "https://files.pythonhosted.org/packages/82/d0/24940b67c9e0f791bbe7bb3a65099d2acc10628c979ebb70053aa2f8d086/muffin-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "3a207ef67975fe03da189708df43e47c24b7e0eff666d5644e096ed63950ac74",
+        "url": "https://files.pythonhosted.org/packages/d2/3d/4ed5040f9e4effc9f0f8b868bb644b73c26f551b60d446b6f18e16415924/muffin-0.2.1.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "e727340c269ddc5c0cf9b1bfd1b2cad2c44e2bf72cdd847dd0a80c75504b598f",
+        "url": "https://files.pythonhosted.org/packages/5c/77/aed0e021620ec2028c72b22b3841ff7544469f0919561e8d66c71a89a1f6/muffin-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "f0b89b57c5fe6eaffb214b7a211c6196667e1f17e46683493dfcffbdd5754739",
+        "url": "https://files.pythonhosted.org/packages/ed/f5/13f46f46f74ccb8f02fd63c8cb245d850f9dfa097a1afbc3e07af080ab93/muffin-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "13dca75e86aaa8e39c0d57e91fab6cd6cb2728c77e6fe05ed4f781eaa2c5b6bb",
+        "url": "https://files.pythonhosted.org/packages/c6/83/e5b31a0c65ff93ffda6a239179708ee17cc69f942147c9607b98fc88d25a/muffin-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "c1c077d4012b514ca84cf7c6174e301bb770a2136e574c55adbb7f3453b665fc",
+        "url": "https://files.pythonhosted.org/packages/ed/e0/33bfd7e519c000323d163c3d8e2e57fa3066aba9237e3d05ea7211702f1a/muffin-0.3.3.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "485e2882d648bb1e76945f2961062d6efa81d99ca60915a44d466142e11fc932",
+        "url": "https://files.pythonhosted.org/packages/90/d4/7849fe2e34ed8d092d4100fdd5643107adb71f26b0a2ae1a03067de4a857/muffin-0.3.4.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "ea3a10db2a13579a64eb3977779e19876726d58a349f0f9d9bf023dcb56045d9",
+        "url": "https://files.pythonhosted.org/packages/a6/63/45ef21f8690c460548786b755952149cac6b0cf532aa3fed0c359eb463f5/muffin-0.3.6.tar.gz"
+      },
+      "0.3.7": {
+        "sha256": "2b17adc4a8d960fdc6657de568d331d809950864ad1da842699fe033dc4db0ea",
+        "url": "https://files.pythonhosted.org/packages/99/cc/548a3373800a9d82765cf357545c84774b84ad8d6f54e79e887760cb8695/muffin-0.3.7.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "2c5a2e97613b57fea79ecd7e7a2724d8afe5d01dc0ee6889fd8365d671f172bd",
+        "url": "https://files.pythonhosted.org/packages/4b/bb/61e9144319fba8909ce5fce96cb519835829a47f710eb31d87a8f13bec56/muffin-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "bcd79e2cc0cc290083e628f1fcc5f172224936c27bacb6fefb968fd3ca0c5892",
+        "url": "https://files.pythonhosted.org/packages/a1/90/7ba42ce2b24e2e5a8fa1c668dcb53e30f78c64574859b995cc7e03d0b5e7/muffin-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "4880d70f0169ae8191259202d5a0260efbf008e1bc220a5fa264275677cb03d4",
+        "url": "https://files.pythonhosted.org/packages/14/93/62ed470846ce53a73e3166662f646e6b4411b2692d671c46cb139b0cbfce/muffin-0.4.2.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "b73eb64f0d8e826e15e2efbff8ee31f2b656c42927e4bdceceee4a3e7793a959",
+        "url": "https://files.pythonhosted.org/packages/6d/a6/f0f16d4cadcf3c35be927b0cc744f31b5fedfce7aaa3d022c52d59cd2dfb/muffin-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "163ac9e3c0fe633711e3d84bc3908db570942aa74919ccc6b5bccc902d0e25ee",
+        "url": "https://files.pythonhosted.org/packages/1b/04/6c179f559ad24d389aa54772d5c733fe5cbb957b7977721829e3a0818791/muffin-0.5.1.tar.gz"
+      },
+      "0.5.10": {
+        "sha256": "38183261240c3fb15d735e07829f4b38cb402173ee4425507663cb1542210d90",
+        "url": "https://files.pythonhosted.org/packages/fb/33/75cd512352490f9b4f835c657bf35205e0c13effe7f87837ade2da3353c3/muffin-0.5.10.tar.gz"
+      },
+      "0.5.11": {
+        "sha256": "9af900a76e08f41d017b30718ca081f5ac87218bd9b156db5812abff11b4b9e1",
+        "url": "https://files.pythonhosted.org/packages/8a/f6/53dd08e367acd0b5116b0bd3e079665e3e6586988fd080700d4728ca19b4/muffin-0.5.11.tar.gz"
+      },
+      "0.5.12": {
+        "sha256": "21c1f09346a517845afa32be7260f2e0b54e2ff64dadcc9b47bfd37a15a441cb",
+        "url": "https://files.pythonhosted.org/packages/78/6e/06a7dcfa21e47e2e9e9da17592ada2ef6ee352e08af15594144dac17ffa7/muffin-0.5.12.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "d39679c189ff22073b1135abb704f610599f343c2af3d11a874bbe6166c2e086",
+        "url": "https://files.pythonhosted.org/packages/83/a5/f03379d234a7209d4a8884519b97ca689911f88f5879a337412bdca659b7/muffin-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "a27ea7907e4e2c8c674e9dec871f7bb9122bbd2fe980edec370ad370c20a9a8d",
+        "url": "https://files.pythonhosted.org/packages/71/07/ed40cdeec76b6319983dec40d748f61148ebf59d8456214f908e90648093/muffin-0.5.3.tar.gz"
+      },
+      "0.5.4": {
+        "sha256": "023e2cc202cec75edf21c0b95635d2ee742ef531c78cb3cc7389127c03487464",
+        "url": "https://files.pythonhosted.org/packages/97/0f/0ba79a44620a08c33f081eedfb855404d0177f83f951c12e2428b492f943/muffin-0.5.4.tar.gz"
+      },
+      "0.5.5": {
+        "sha256": "3850bf8e80db95831b210ef438c973991a99f1960febf3b452d03ae53ec2dadb",
+        "url": "https://files.pythonhosted.org/packages/60/2d/b5c990f16391599d1e0694839ebc2053e9cf975c58607931a94a62d746f9/muffin-0.5.5.tar.gz"
+      },
+      "0.5.6": {
+        "sha256": "320d17b913f1267d13b8a29bf1b6a671bb71c0918e36713dade6a628b2df2211",
+        "url": "https://files.pythonhosted.org/packages/90/a8/84de089625e93548dd64c5fe15e4f64be88dcc3783cdaedf377a5988791a/muffin-0.5.6.tar.gz"
+      },
+      "0.5.7": {
+        "sha256": "46e3e0ba7bf0f735aa563b6d7d54af67ce670a7adfef4a3d58c9559242106b61",
+        "url": "https://files.pythonhosted.org/packages/33/e2/b77738a2465e9ee97c3160969abed958314b162cfa551b197aebe7ab1469/muffin-0.5.7.tar.gz"
+      },
+      "0.5.8": {
+        "sha256": "3c0763a61e54464d96a5f8f4b8168e81bdb5441e9a90725588421ed14e3f22d0",
+        "url": "https://files.pythonhosted.org/packages/77/66/159f3e9c4c867c0752ce448766293cae8893874bda82af2362841dfdcec1/muffin-0.5.8.tar.gz"
+      },
+      "0.5.9": {
+        "sha256": "6611454f783349924f5c3acc71295aa9ef327f85c541018f6333c7736074f83d",
+        "url": "https://files.pythonhosted.org/packages/ae/9f/e7538b4d44470fdff8d4c483ee3e5af58adcefa158700012b99bff509ecc/muffin-0.5.9.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "1aa2cbae77f16399a29b2a9966b252272d01d687183ad05a000e2ea6803eddd1",
+        "url": "https://files.pythonhosted.org/packages/8a/06/f8bca463471701e93ac81590b9aff4c88b2e9d6cea4ebaaeae6d1a0d3d44/muffin-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "a8c595d9de3af5defe5967e2b58459724735a5a5993f50d7cfe96bca7abc9d2d",
+        "url": "https://files.pythonhosted.org/packages/ba/13/50a68e70946229b0fdadfef00c759917eb65c8340751edaf65a18a598e7f/muffin-0.6.1.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "216ebc47ce8015743f02df1daca09b895539e5e6fc0d1e43b5583a41cb58cb09",
+        "url": "https://files.pythonhosted.org/packages/de/c2/1d301d1a0ceb68aef52534e5b8a9bbe38a032615b7515ea03231308191f8/muffin-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "5f9a75f2c59cb3f8bb7f264d242560c4514efa24cacb91c13b6576079b7b0033",
+        "url": "https://files.pythonhosted.org/packages/1f/3c/50a4271af939b7e3ed9ddc07d10cb84cf3ba7fbc0fb1a05c0d3740e92931/muffin-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "9745f629a79dd7b7562809aae46f8f2873efc324e941030c602a3458498af81e",
+        "url": "https://files.pythonhosted.org/packages/51/5f/cbd63f75e907db139c7ef815b6b11cd717bc6e7fc313a15d49fe786b99ff/muffin-0.7.2.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "c94a486003f4085bbde1a12bb2dc66b4969629f6dd1d0d158c1d639d3d81981f",
+        "url": "https://files.pythonhosted.org/packages/9b/2a/a453072c536a36c575600e6228e842924c1600c4784579e0b4725f218cdc/muffin-0.7.3.tar.gz"
+      }
+    }
+  ]
+}

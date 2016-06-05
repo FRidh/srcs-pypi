@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Generate Cisco password strings.  Decrypt type7.  Devices: IOS, NXOS, ACE, CatOS",
+    "homepage": "https://github.com/rcaldwel/cisco_pass"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "83f9ae443fc77584bd468817e0fa4453f011c925976038f1948dc9d9760c3210",
+        "url": "https://files.pythonhosted.org/packages/8a/48/71e62219f99ff95052bfac1280cd33a34dd891b43914f586ba39bfeb0dbc/cisco_pass-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "67fc0aecb4f941cbfef7cdca6d5800b1916f400b8019af1bba154c69a64b2dd1",
+        "url": "https://files.pythonhosted.org/packages/3d/8d/dabe9d5e715364cc5006b4065546638e84c3da2927ce9f0bf1e488242866/cisco_pass-0.2.tar.gz"
+      }
+    }
+  ]
+}

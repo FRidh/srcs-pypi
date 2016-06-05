@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "3.1"
+  ],
+  "meta": {
+    "description": "A powerful template engine with strict model-view separation",
+    "homepage": "http://www.stringtemplate.org/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "3.1": {
+        "sha256": "630bf8a8a6ec1d70251f552c9291b508116771bbe8c610405f583e269328eeab",
+        "url": "https://files.pythonhosted.org/packages/db/cd/56b4d77d739add7c27a8464c41c3106335de8edc2657d58ba07565f61169/stringtemplate3-3.1.tar.gz"
+      },
+      "3.1b1": {
+        "sha256": "d05e81aa3b9d3fec247692b132ffac56f326c96434df4f65da7b857b8e5d636e",
+        "url": "https://files.pythonhosted.org/packages/51/c3/60855ef8dc5888bbfc1c3d020bc68702a4c7c5859b99da8df96d8f1c167b/stringtemplate3-3.1b1.tar.gz"
+      }
+    }
+  ]
+}

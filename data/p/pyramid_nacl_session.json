@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Encrypted sessison cookie serializer ofr Pyramid",
+    "homepage": "https://github.com/Pylons/pyramid_nacl_session",
+    "license": "BSD-derived (http://www.repoze.org/LICENSE.txt)"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "82d2c8e91844c4c00d67d0d54802436752dfa8228d266e740aca372e71d61e5d",
+        "url": "https://files.pythonhosted.org/packages/27/a2/c0a325c6964a5a76dae7c6d5134ae990544144f6267912cbb48157412d04/pyramid_nacl_session-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "1fd13d61f6d55dc5ac78303ce1fc9dfcf9f405cf59fdc25206788256ccf6d497",
+        "url": "https://files.pythonhosted.org/packages/9d/5b/17ddba2dd4695ff9e946e091c5096dce59aa94484783481613165ec7ae5e/pyramid_nacl_session-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "12f3486361e6df284d261be22783278805184beadf629ac85c7c58aeba5e609d",
+        "url": "https://files.pythonhosted.org/packages/34/ae/40766deaedfae1679e6addf16a6a4bb25c11c13b577524335eb4510009d5/pyramid_nacl_session-0.3.tar.gz"
+      }
+    }
+  ]
+}

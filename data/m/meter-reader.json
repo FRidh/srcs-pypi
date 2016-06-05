@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Client Library for retreiving smart meter data from an Eagle Energy Gateway",
+    "homepage": "https://github.com/eman/meter_reader",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "435d7e5bfe21517248ce94727ef2dd04a34adb10b43f4898718c95e98b6e6555",
+        "url": "https://files.pythonhosted.org/packages/92/cf/879b7307cffe752e13eb259d621a77c3b7424e66e155c243ff5a3274fc56/meter-reader-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "9e6171a28da13e2ceccb0cb13789ef2ca5605ddf246af1bed0848fe77a3fe60a",
+        "url": "https://files.pythonhosted.org/packages/74/b0/995462020a2127361943a29000b6539e3a64c45b3a8df043b62dde741e72/meter-reader-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "ef5aba1f6f5fff31e2044aeb6d9f98d4c8526c06c91bd9f1c7db99358dc36b16",
+        "url": "https://files.pythonhosted.org/packages/1c/29/9fc16c385674c567e7b6d2da86ea0cefa56b239c5a70fc0fca55139f1609/meter-reader-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

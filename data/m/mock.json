@@ -1,0 +1,101 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "Rolling backport of unittest.mock for all Pythons",
+    "homepage": "https://github.com/testing-cabal/mock"
+  },
+  "versions": [
+    {
+      "0.5.0": {
+        "sha256": "82a3a60c6ce832d0b799d33924dc40d766e95e2481f8758e8eafafc524b63531",
+        "url": "https://files.pythonhosted.org/packages/6c/44/2b50aa4a4146e27642fded9baf81a49d430c8b134d31e694e2d78c33aeed/mock-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "739035ceb9cdf5b4f183ea449e59879bc9a6bb4633459dca5f8d06428ebc3d41",
+        "url": "https://files.pythonhosted.org/packages/f5/69/b9846e620a8300a739c7229b6c5d88ed6bd808c53e947c6f97bf2980f309/mock-0.6.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "63af2b93c1f7d2c7a6982c45a90608eb6ae1ef649ce13c623d36be95944a1b91",
+        "url": "https://files.pythonhosted.org/packages/c5/a9/14894518e15d84e4cf820f8f47e046b9feaf5af041718ba8900e58b455e9/mock-0.7.0.tar.gz"
+      },
+      "0.7.0b1": {
+        "sha256": "137c5b376f85aa73c8c6730a09fabc13c7bde07c043e20622d288619687ee1fa",
+        "url": "https://files.pythonhosted.org/packages/a9/c3/f205ab82a23ddfbd115020730fec77faffe17b9d47cdbfb9a70f4ed57eb4/mock-0.7.0b1.tar.gz"
+      },
+      "0.7.0b2": {
+        "sha256": "ae14217c608598603a7a1f1982b89ebaebde5dc37e1b24cbaf5fc1f6a524ca6e",
+        "url": "https://files.pythonhosted.org/packages/fd/2e/486c13326b3aac5aecb04149516361f67656a5490865c20518954b88db92/mock-0.7.0b2.tar.gz"
+      },
+      "0.7.0b3": {
+        "sha256": "2e37eb6fe2802a59d213da7dcd9c09ae58d3d3d33661c31bec62247a7a9f9660",
+        "url": "https://files.pythonhosted.org/packages/8e/86/78ebbe4e432c2404817525fd94e43d4af2fe4ced026338a509989cf007ee/mock-0.7.0b3.tar.gz"
+      },
+      "0.7.0b4": {
+        "sha256": "33fa0836d6e5871185e1c9aa57cdec1b8a5a78aa06ba8202e2c333602814e943",
+        "url": "https://files.pythonhosted.org/packages/b1/09/7525c0ea5051a9615c71bcb73623ea94dea1d7e01c2520392cb3490c1099/mock-0.7.0b4.tar.gz"
+      },
+      "0.7.0rc1": {
+        "sha256": "4c4dedfca75d2e3c37d74a3234c2e818de9913f23c745c27b8a1fb60ed1b831f",
+        "url": "https://files.pythonhosted.org/packages/b8/ca/01d3cd94b3510e5adaac47484bca3317636e9fc5d1eef5814fe632032c12/mock-0.7.0rc1.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "990d46cd6bd7a1a79fb73cc78c9be981547bf85b3cba52be503d2eecf6e3b772",
+        "url": "https://files.pythonhosted.org/packages/b3/5a/548cebaebb634fcfab5033486eddbc4aed63ba33967fc64e616da7b3cf7b/mock-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "ec0d59c3f8ba6fa850cde44a63d592bb35b9b5b893e77227cf118e7ee14039f2",
+        "url": "https://files.pythonhosted.org/packages/6d/7f/3dff8eb00b040fd25235c5aec76d24d17553b36b817662140c50ca63e94f/mock-0.7.2.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "96fa4def4e80200be827c3f51147dd7b3fa8873b9207e3325d47ba45bf29a5c1",
+        "url": "https://files.pythonhosted.org/packages/52/22/05f0fb67c51e86b485914b1da519b2df6afd36c41f81a21328bc69a2e3b1/mock-0.8.0.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "2d9fbe67001d2e8f02692075257f3c11e1b0194bd838c8ce3f49b31fc6c3f033",
+        "url": "https://files.pythonhosted.org/packages/85/60/ec8c1af81337bab0caba188b218b6758bc94f125f49062f7c5f0647749d2/mock-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "b839dd2d9c117c701430c149956918a423a9863b48b09c90e30a6013e7d2f44f",
+        "url": "https://files.pythonhosted.org/packages/a2/52/7edcd94f0afb721a2d559a5b9aae8af4f8f2c79bc63fdbe8a8a6c9b23bbe/mock-1.0.1.tar.gz"
+      },
+      "1.0b1": {
+        "sha256": "47840e23d2d18f9f41f9f4c09eeed20e43327f5909e8f9f85fbe70d7316ba62e",
+        "url": "https://files.pythonhosted.org/packages/c1/75/8deb813d87d409f691825accb1305f4444982f27c37337a63fd7aa8893dc/mock-1.0b1.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "a0f4c5dbdbe831f659ab719edbdf3b552e4c7648c3c26a8fd4635661cc0e7521",
+        "url": "https://files.pythonhosted.org/packages/db/f3/1e83c840e5397cefc204bb29649ede7c20c8a1403e533955520afeb57405/mock-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "797dfdbbc6e0d745cb3b1bdfbc063f9b18d08703b808356fe7b16e2dd039ac16",
+        "url": "https://files.pythonhosted.org/packages/2b/78/2b8bb89e311c3e11ea87bd29ab05a94c68ce2c9137f679e5cf275f1a73e5/mock-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "870ed9c40f370f2f77900a710040f46255efccae77c0266fb47169f1b5ecb9f1",
+        "url": "https://files.pythonhosted.org/packages/f4/c0/ff5bb8efbffb00167163ed0b667b9be27042a61657db3d7d839c1b798054/mock-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "202d44d1353abbbab5156a4a66a10540f6550bc65f16b482d244745533827bbe",
+        "url": "https://files.pythonhosted.org/packages/7f/5e/1719c47d53f4bc93689cd2c72c6051e54e7801453d19c6695106a17cf2d9/mock-1.1.3.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "9b10003448a058e76ca2dd545807978606803b4ee81ffcae15d134b7de221a21",
+        "url": "https://files.pythonhosted.org/packages/a3/eb/4f80a838be8a14e668c5efa2ed7638a54817c71c35b086b7d74753db0065/mock-1.1.4.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "c2df20835beea1c018f4ecc8382317c50aea01351caae1730933f564757d571e",
+        "url": "https://files.pythonhosted.org/packages/d3/f0/308e5dd1a04922affc3fc8f14ccc386977a73d812983b96ca55bee3f0b9c/mock-1.2.0.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "1e247dbecc6ce057299eb7ee019ad68314bb93152e81d9a6110d35f4d5eca0f6",
+        "url": "https://files.pythonhosted.org/packages/98/05/dd44a19f1dd9f274baae2018b843d31fbeff99399114b16ac965b4f99269/mock-1.3.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "b158b6df76edd239b8208d481dc46b6afd45a846b7812ff0ce58971cf5bc8bba",
+        "url": "https://files.pythonhosted.org/packages/0c/53/014354fc93c591ccc4abff12c473ad565a2eb24dcd82490fae33dbf2539f/mock-2.0.0.tar.gz"
+      }
+    }
+  ]
+}

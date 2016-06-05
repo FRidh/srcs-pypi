@@ -1,0 +1,94 @@
+{
+  "latest_version": [
+    "0.4.5"
+  ],
+  "meta": {
+    "description": "A package for encoding and decoding data in and from Recursive Length Prefix notation",
+    "homepage": "https://github.com/ethereum/pyrlp",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.dev0": {
+        "sha256": "5c379fd0c92b313fc63601f89b72633c8998f332fecfde8596cdecffc43ce6f8",
+        "url": "https://files.pythonhosted.org/packages/14/83/6e63e16c66c535dd626fbc648c5e3fbf0211d5d04f24686bc01c383fa799/rlp-0.1.dev0.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "ac9281badb547f0db257510f40ea950e8e31d65c80d80de7635a61dd044cd949",
+        "url": "https://files.pythonhosted.org/packages/be/51/1dd0791c7fac31801c7b5590d44eaa1d9ba78b0d129c4aab6eea91ceb6d9/rlp-0.2.2.tar.gz"
+      },
+      "0.2.dev0": {
+        "sha256": "43d93afd8004899844b56be16583324eb95f0d2d3d0f5b2ea803bd258df68dbe",
+        "url": "https://files.pythonhosted.org/packages/ac/b7/f1613125aba6ac79a19ba09fb30fc157805ec031ac594257a64cf17590d7/rlp-0.2.dev0.tar.gz"
+      },
+      "0.2.dev1": {
+        "sha256": "2550a515be8b88d980ba6437e1497f8c33ad6444e845fa006562d377fe404e88",
+        "url": "https://files.pythonhosted.org/packages/f4/cc/ba4cb4606e0cf1820c18cc390605d43dbe66c61638d090c05a3376b5a8bd/rlp-0.2.dev1.tar.gz"
+      },
+      "0.3": {
+        "sha256": "12c49d519640155c8af4aae39c6129b9980d22c273b95553bc6c09eed52941fc",
+        "url": "https://files.pythonhosted.org/packages/72/67/8d3c242a071a84e798d12e5fbe4cae5e0687b534365b9d5ba099674bbfeb/rlp-0.3.tar.gz"
+      },
+      "0.3.10": {
+        "sha256": "c886741f5e0accb84ba3a598f2a6911da28bbbd632823ff63bf6c5291802a3b2",
+        "url": "https://files.pythonhosted.org/packages/e4/bf/c2aa57e7ddbb57e0c6d4e47e226a0063fb603b199fcc05d90da7ed69d4cf/rlp-0.3.10.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "64d0cf8e58cfff2025f53334ac9faf7214838b20a71eec5e7098725676a53fba",
+        "url": "https://files.pythonhosted.org/packages/e7/a6/e2895513642b1bb0b2342b33a542ad8ad7f0d52c7d8d32bcee0a36ddfd8e/rlp-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "998d6c5043fff7ab6147cbcbe845d48a861cf21b1b704a40170a80aa9227198c",
+        "url": "https://files.pythonhosted.org/packages/58/58/39a099f66acbf4638d8df82c1e6fc1ed78a669182dda02e8dcd30c3e080e/rlp-0.3.3.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "7d3e9080efc165bd2129f404a57e0b13e26e923d001b8957d6b6df5c50af2b90",
+        "url": "https://files.pythonhosted.org/packages/7c/46/87af0c99b32d160e3563cf7d7ffe358c6a086428e5b6eabff0e9a8ceac46/rlp-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "c7d027c697a581a34439c286fd11646417ab557e81c96f8b68ffc40d2cf7f351",
+        "url": "https://files.pythonhosted.org/packages/ba/bb/cb71b80f4ec4c13bddd0289a65d6d4ea36c3b67a591823a25ce93cc0bb0a/rlp-0.3.5.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "98ea6cbb5c606e7da788351eef030520f4feab5a3ca44ef68fd4b34419475a8e",
+        "url": "https://files.pythonhosted.org/packages/97/73/3181eeeb7842162cbf8a6881f637c4234c74370e22bb7f5e38ccd5b56502/rlp-0.3.6.tar.gz"
+      },
+      "0.3.7": {
+        "sha256": "a4516dc72b9570babcd9f85b82d6a318a0ea45038bceb36a66c01f229fde0d39",
+        "url": "https://files.pythonhosted.org/packages/06/46/c2480a42d135c62ab8405e9df03c2459e0e06caa9583d84ee9d3e529ff69/rlp-0.3.7.tar.gz"
+      },
+      "0.3.8": {
+        "sha256": "347b1bfbe585fe56c9b9ca98d440fbaeaa005200d49cb4df06c62434306d2a77",
+        "url": "https://files.pythonhosted.org/packages/98/24/56205d0e2a7fa5d6677d17a3255fa283eb173be2ff4df797edf430ef41b1/rlp-0.3.8.tar.gz"
+      },
+      "0.3.9": {
+        "sha256": "3283ee78bb60f24d2cb26be42c841a98feb0cace18a14a8eb405fa6a307420a6",
+        "url": "https://files.pythonhosted.org/packages/59/37/0de73b8395cc35b292ac38ea6945beb5abe091148104203de8022bfae99c/rlp-0.3.9.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "20ce56c751b27ced2c6e72f4a6fd5e023a950fa4abc78a8d88ef854b786605bc",
+        "url": "https://files.pythonhosted.org/packages/be/aa/8e58118ba23c92262afac1429984543be335a777c1ac8674c9ef7094c79f/rlp-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "366bd9b458064fb4a3f8070e5f06c3eeaa442b0dea3e8dfc5b09f8a8382a71e3",
+        "url": "https://files.pythonhosted.org/packages/f9/c5/d271c9e1c572cbc04e08efa31cb5566fa38512466c4aa8d7a4aa842fa543/rlp-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "1d0f064f1596b6644a34c4f79f484d8bb8ece2fcba2bdc29181125900a553cc2",
+        "url": "https://files.pythonhosted.org/packages/de/06/3e410543f912c107a3c3ee294393ba8b4c6ddda6a92ca52668da2a5cfdf8/rlp-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "c692b0c93de240233304ee765343ae02c71cce583b47ecede85a81a969e9c31c",
+        "url": "https://files.pythonhosted.org/packages/f3/02/94641b2e2e99df6d4a5e545534982c612c282c90816658b8643e96693c45/rlp-0.4.3.tar.gz"
+      },
+      "0.4.4": {
+        "sha256": "adcd05a625c24023de9aaf72c1cb199d246aca7714bf8a6ae5a8bd7b3e764331",
+        "url": "https://files.pythonhosted.org/packages/9a/e9/003c57e947097b855af81ba9ec1a41e1daf3aec921073aa4516e0a00a246/rlp-0.4.4.tar.gz"
+      },
+      "0.4.5": {
+        "sha256": "3c73b93886c9a13c54a5fb11f9f31db4cca15c2ddf3d7cc2b65b4d1778197793",
+        "url": "https://files.pythonhosted.org/packages/91/68/01756d0e57f4d2ad151c277b838256c58ffc1a0f97812f265f17563a5765/rlp-0.4.5.tar.gz"
+      }
+    }
+  ]
+}

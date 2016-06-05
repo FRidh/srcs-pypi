@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "3.3"
+  ],
+  "meta": {
+    "description": "Multi-threading/processing wrapper for Paramiko",
+    "homepage": "http://pydoc.jacomputing.net/sshreader/",
+    "license": "GNU Lesser General Public License v3 or later (LGPLv3+)"
+  },
+  "versions": [
+    {
+      "2.2.1": {
+        "sha256": "51d4f1d8a0a8921f0bb383febeeb92092918701818ad4a33f70754f121ba8ec5",
+        "url": "https://files.pythonhosted.org/packages/23/b9/094a7d4681db01ecb05022b3e49783e87b3d3908c83e064dab71517ddcaa/sshreader-2.2.1.tar.gz"
+      },
+      "2.3": {
+        "sha256": "eeefdcbd2155c0d495392788c4b98ee1dc388e5f0164241c882e84173947b2c2",
+        "url": "https://files.pythonhosted.org/packages/26/95/0f3855d9fde4dc34c14418ce195693bedb367b0d799643e0e4a31fdc186a/sshreader-2.3.tar.gz"
+      },
+      "3.0": {
+        "sha256": "f2a129c281cc34cd720af711321d88c610cfd5bd9dbbad4f5c7a3d669e627e09",
+        "url": "https://files.pythonhosted.org/packages/af/26/fccdf743e56782238cef905f3b326836e23321084b2f590fcfe683f8c617/sshreader-3.0.tar.gz"
+      },
+      "3.0.1": {
+        "sha256": "1ef997656888cd0416a480afc83ef3baeb083ca20071035fdccfe318a5a4bd03",
+        "url": "https://files.pythonhosted.org/packages/8c/da/5c81d7a3f2b18ee4b8c95a24b2837da1a97ff30383b51418d1b7623cd7a1/sshreader-3.0.1.tar.gz"
+      },
+      "3.1": {
+        "sha256": "f2879ef8e8eddb9b0b640dbe55223a665ee0332194d443fd0e29b96ce7e0482b",
+        "url": "https://files.pythonhosted.org/packages/47/e9/147711e25f2d35e91902e576b9b8631c8fc9d76ee2a7954ed8ca47d98213/sshreader-3.1.tar.gz"
+      },
+      "3.2": {
+        "sha256": "eb0083fb13ba1c02b148d146f083125dfc35b93e78e274b599fdcfb0b86b34f5",
+        "url": "https://files.pythonhosted.org/packages/2b/37/63de1b4116f766d1f0c60c09dc0f118b2496986440526f9922695179b82a/sshreader-3.2.tar.gz"
+      },
+      "3.3": {
+        "sha256": "02514f037df05d31dfb31f82ee01483bbd6d22228987bb508546372e6f441855",
+        "url": "https://files.pythonhosted.org/packages/c7/1c/203f2547b265b3b28f09e064198f07c32f1735f6b9ecd5c8dbedaeb79630/sshreader-3.3.tar.gz"
+      }
+    }
+  ]
+}

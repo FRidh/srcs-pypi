@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.2.3"
+  ],
+  "meta": {
+    "description": "Django Redator (sic) is a application for the Django Web Framework to help you integrate Redactor <http://imperavi.com/redactor/>, a beautiful and easy-to-use WYSIWYG HTML editor, into your projects",
+    "homepage": "https://bitbucket.org/semente/django-redator/",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "6269df233e135a6f791ae6cf552c4b8fd3763888406838815f065414b7994162",
+        "url": "https://files.pythonhosted.org/packages/22/eb/3adb6f7d9f8b6642c3a89b6b80033a7284fcd788f584146b747d39cda114/django-redator-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "69fea69e673ce23a441a0c693008ebb68159a43f6cc29d42ae3833ff6a00bd52",
+        "url": "https://files.pythonhosted.org/packages/17/f1/d896937a720d56d31c5a71219ae721e9e009e18b36bb3de2319f7a0d9712/django-redator-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "c2afaeef873b9b709e65c37a5bdeb5058f82b76b910a7133b15818c06fb33329",
+        "url": "https://files.pythonhosted.org/packages/fa/e7/d13e0374086b521a902f91ae67dcb0f969d8d9bbfe0adadeeb3beb041409/django-redator-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "9d1341302c1fe5fe198dbdf25211248befb4a87efd33c5aea5706f7691858c46",
+        "url": "https://files.pythonhosted.org/packages/fd/7a/65347d4a2e87dad8a67ced99743ea06f655dd8c8af2a8d9b535c44043c17/django-redator-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "69adece21cd10a631177d9c5c26cac6e32b4564931a97eb39fad8ee410c4eee0",
+        "url": "https://files.pythonhosted.org/packages/cc/08/c039939cc108bb025e6bc209c2a0403863f35b941d2d456c38bffbc50fa2/django-redator-0.2.3.tar.gz"
+      }
+    }
+  ]
+}

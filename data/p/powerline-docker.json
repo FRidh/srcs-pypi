@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "A Powerline segment for showing Docker container statuses",
+    "homepage": "https://github.com/adrianmo/powerline-docker",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "a79cec805f934e7c1652ed92829328fca0407f727e09926eb55231b14378fd36",
+        "url": "https://files.pythonhosted.org/packages/91/67/3d08b5987733327a9a501475d0bcf2ffa8b983cd32ccb667ea75c9e23b44/powerline-docker-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "3bd4ab379451aa78ce8f9a9b9cdc7838d243c68bb9c60ef2d5ceaccbc08b3c79",
+        "url": "https://files.pythonhosted.org/packages/7d/15/c642dc6846a3d1703f19e1e5990189d1ae24cceb0a1339fb75ada30f1490/powerline-docker-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "ea6e1b0e20b1ddf5e49527b4b0a603bda772b17a361c8195fa837da9b6d2522d",
+        "url": "https://files.pythonhosted.org/packages/10/b2/6f8c113d52163300587276cab9dfbe26cb123d481b51961c0a9ab75d4626/powerline-docker-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

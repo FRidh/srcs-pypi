@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "1.9"
+  ],
+  "meta": {
+    "description": "Pythonic search engine based on PyLucene, including a standalone server based on CherryPy",
+    "homepage": "https://bitbucket.org/coady/lupyne",
+    "license": "Apache Software License"
+  },
+  "versions": [
+    {
+      "1.3": {
+        "sha256": "04c6e9848bc3ccf99fec8ea4b71dc1496860f862f99a3546fda4d0491a6fa120",
+        "url": "https://files.pythonhosted.org/packages/ce/b9/ad0ae5a8b0483c6e8248e592d9dc021de1af88e9428d31c5bb3a4a7af9d9/lupyne-1.3.tar.gz"
+      },
+      "1.4": {
+        "sha256": "0ef24b944905983df04dbf58c149a2fac26a65bc51bba5e764039d00e37b858d",
+        "url": "https://files.pythonhosted.org/packages/41/f5/5558d92a63d571045b7d5e859ecaf6e1335fca0bdf868fff8ef3ef287ac0/lupyne-1.4.tar.gz"
+      },
+      "1.5": {
+        "sha256": "34a974d78a944750c8026ed609870d5b527a23f78e00821764d8fdefe61d7356",
+        "url": "https://files.pythonhosted.org/packages/09/89/0fac047a648b237d17d44a556da431661a34fd1114362ea5846c5f7ef6ed/lupyne-1.5.tar.gz"
+      },
+      "1.6": {
+        "sha256": "37f3527a08e5e4e4c74047a1d59ba1ce8f2b979e67ef9f038f2abe06ea1bb43b",
+        "url": "https://files.pythonhosted.org/packages/01/68/86a066b1d1ea29426296ad737a18f557b9253081519905227d888d49e21f/lupyne-1.6.tar.gz"
+      },
+      "1.7": {
+        "sha256": "64654cd40393955b8c68c67731a300e9c9778d6210f2a746943ef3d4aaed2dce",
+        "url": "https://files.pythonhosted.org/packages/5c/ea/7b93b2103e305d065ab5e91c1ece1459436099daf412c4788e589bb75a2c/lupyne-1.7.tar.gz"
+      },
+      "1.8": {
+        "sha256": "1f28e34ae04304f5ef809346b26cec8ea78aa6e1df99383924ac37f357cf5811",
+        "url": "https://files.pythonhosted.org/packages/9d/80/2915d81dfb9cf28d777446440f0964dad979b82ba5601c8d13eb805859e9/lupyne-1.8.tar.gz"
+      },
+      "1.9": {
+        "sha256": "120e551bd8d21d6c79363e4313dba27d1b5de7c4fa65387f7bb066cccffeb06c",
+        "url": "https://files.pythonhosted.org/packages/b8/25/d249e6c98ed1b51af898a70356a4170cb2d6a7005691f8e7eddab7ff57fa/lupyne-1.9.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "Scriptable SSH server for testing SSH clients",
+    "homepage": "http://www.engledew.com",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "2ce49ac517bc3e73c13c3696fb70517eb2cb7e3b69ad963c26edba95323caefd",
+        "url": "https://files.pythonhosted.org/packages/81/2f/9f90b0605bb60d8a08fd688e41ad152493fcd20d7e490da9e3b59d7b9c47/sshim-0.1.tar.gz"
+      },
+      "1.0": {
+        "sha256": "8444adf16675949bf688ef3bdb518694114306a4929045738db0ef06360943fe",
+        "url": "https://files.pythonhosted.org/packages/f0/e3/dbcaec6e38ced9f1a03a44d6f1c673502dbc125a62f8d3d81a5ace6a6d38/sshim-1.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1.2"
+  ],
+  "meta": {
+    "description": "A helper Plone extension which makes easier to include resources specific to several types of browsers or platforms",
+    "homepage": "http://dms4u.cz",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "f80995a92d3452fbe59101330527431a9b1ff36f34061cff041abc7b4219ab26",
+        "url": "https://files.pythonhosted.org/packages/9e/19/37528df79ea240a766407166f8f2861097fe3f7c1bbd413bb0eac9d1faa7/collective.browserdetector-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "d7342bfb0518b4b4fec5058b6c26ea1a501ca9370c42aa1eaefe53052e4e2b03",
+        "url": "https://files.pythonhosted.org/packages/32/98/1cbe386ee3bb7e05674c6a1b72f780134bf24897558e4e7b8c9c2eff1c7b/collective.browserdetector-1.1.zip"
+      },
+      "1.1.2": {
+        "sha256": "52f31ee3f9a66190f9b1b3727475fa1fc6b1613d3abb2f9539fbdfd9377ff20c",
+        "url": "https://files.pythonhosted.org/packages/fb/d8/4da92bf95f2560371e9cacfee73728cd501956e33f6b4132a0b34140dbd3/collective.browserdetector-1.1.2.zip"
+      }
+    }
+  ]
+}

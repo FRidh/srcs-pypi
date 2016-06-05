@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "A Gazetteer service for DataONE",
+    "homepage": "http://dataone.org",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "240f59422dda9ba9d60284874c5c7bd36723e3be1ad7d003f6bf8781551c1b1f",
+        "url": "https://files.pythonhosted.org/packages/f9/98/2695447e08ae7faa2aa6e98588c767e75bda72065518928372e961c2dfa0/dataone.gazetteer-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "61d2ab29b798c06b33d174051f4569953c15477a67d46a124d91830cd5166483",
+        "url": "https://files.pythonhosted.org/packages/9a/c7/8129d6ab2a943fea3857ef070cdc414951463d318b256675b581989825e2/dataone.gazetteer-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "9d61f769cab37e6a1ee2dd86b3d740692f08037e8d4b16c5744793a71f2ce27b",
+        "url": "https://files.pythonhosted.org/packages/3b/ea/09d69aee74151f412e0579826f64f82a435f19c3637bb1e67b4efbe7e378/dataone.gazetteer-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

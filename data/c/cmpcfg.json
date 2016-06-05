@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "A diff tool for configuration files",
+    "homepage": "https://github.com/jmdana/cmpcfg",
+    "license": "GNU General Public License v2 (GPLv2)"
+  },
+  "versions": [
+    {
+      "0.5.9": {
+        "sha256": "fe56c317b9123b65bf591ebf81ba193d182055581949079300f11adb714b2ff2",
+        "url": "https://files.pythonhosted.org/packages/50/94/953bd7dd8ac221792c359d02f9a37fcd3dfca5f2df0d64a02fdfd52eaa34/cmpcfg-0.5.9.tar.gz"
+      },
+      "0.6": {
+        "sha256": "aa8141e1f45c0b786acdcb9804e2db8833fc707fa60f3ca3247b25f0f9311866",
+        "url": "https://files.pythonhosted.org/packages/e0/fb/064dcd06b559ad513f0cb63beda075a71d9cdfd76e5068eaffd6c88ec03e/cmpcfg-0.6.tar.gz"
+      }
+    }
+  ]
+}

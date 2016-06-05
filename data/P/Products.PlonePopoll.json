@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.8b1"
+  ],
+  "meta": {
+    "description": "A Poll tool for Plone based on archetypes",
+    "homepage": "https://github.com/collective/Products.PlonePopoll",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "2.7.0-beta2": {
+        "sha256": "5b73b86d1e2c5f8f149d1fdd3dda384107ffd3c6ae083bb5714810e9bd5d77ca",
+        "url": "https://files.pythonhosted.org/packages/46/31/767da6b7ea0426d8e626d028ab54b9b6d75b0a47a848a2616e5074b8d3c9/Products.PlonePopoll-2.7.0-beta2.zip"
+      },
+      "2.7.3b1": {
+        "sha256": "a0b30870421b463405aef102a57164de9c82360ec85e875167453ee5bc8f25fe",
+        "url": "https://files.pythonhosted.org/packages/47/69/b91cef58346091e8132dd96aba6844370396a88de2516247d612eff63888/Products.PlonePopoll-2.7.3b1.tar.gz"
+      },
+      "2.8b1": {
+        "sha256": "0d0797c85d7c88f736d88eccfeb267db58e805a22e6dc73f5d18a6dda34a94a8",
+        "url": "https://files.pythonhosted.org/packages/64/9c/3d7250d587f738ce4ee189dfbe1202c14432a0aac97c89a540b877c5e6d1/Products.PlonePopoll-2.8b1.tar.gz"
+      }
+    }
+  ]
+}

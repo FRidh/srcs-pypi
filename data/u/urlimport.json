@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.86c-dev"
+  ],
+  "meta": {
+    "description": "Allow importing files through the web, by adding urls to pythonpath",
+    "homepage": "http://urlimport.codeshift.net/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.85a-dev": {
+        "sha256": "3e8cc9c9bb78cafe23d60760323d2364c4f9e5aaf362179b110a886dcfdf3631",
+        "url": "https://files.pythonhosted.org/packages/87/5c/36df0c3f6dd96b8c2ec21ea6bd318e9bd3b74fd31669c064922cac63762d/urlimport-0.85a-dev.tar.gz"
+      },
+      "0.85b-dev": {
+        "sha256": "70b0a91413cc319386e6d76a23ff7e0929f31b1aa4accc6f748c64284381df26",
+        "url": "https://files.pythonhosted.org/packages/ca/29/c6b88db822b7931d1fe94808a77faa77e9986fa4ccc0b1c2005105d0f4cc/urlimport-0.85b-dev.tar.gz"
+      },
+      "0.86b-dev": {
+        "sha256": "69ae1170faa045c334a8bbd0b91963e6f9521ef4c0192319cec265849c5eb43a",
+        "url": "https://files.pythonhosted.org/packages/dd/85/d1045798fbfbf2008634ecc8a1658644e85ef4f134cec5110c6adda0e916/urlimport-0.86b-dev.tar.gz"
+      },
+      "0.86c-dev": {
+        "sha256": "53f6aee0ebbe4af6db09ceab7935531f20dba3b7284ad6f12da4cc89b37105b3",
+        "url": "https://files.pythonhosted.org/packages/a2/9d/a737dc77058917fd19095adfdd65fe420124a56e8ce33d986b420c92e241/urlimport-0.86c-dev.tar.gz"
+      }
+    }
+  ]
+}

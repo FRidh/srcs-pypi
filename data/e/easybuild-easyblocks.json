@@ -1,0 +1,170 @@
+{
+  "latest_version": [
+    "2.8.1"
+  ],
+  "meta": {
+    "description": "Python modules which implement support for installing particular (groups of) software packages with EasyBuild",
+    "homepage": "http://hpcugent.github.com/easybuild",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "26abb99740d33c4f713953b33716006c3c48fde0a1c64bcb256c503a4d2fb108",
+        "url": "https://files.pythonhosted.org/packages/f3/e0/29cb971407937c52b7bfc955fe48eece3f1b8d0a09d8e9c31f954f6613bc/easybuild-easyblocks-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "03d4a2a83ce2430e29c80685da19c02199a70de62c318bfc1f4716edefe17565",
+        "url": "https://files.pythonhosted.org/packages/15/fb/88252bba834467ce9b850655743db88fdab62f2c6163c3a1482c0b21bd74/easybuild-easyblocks-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "fc64f323650f1873c935b14b27b0bab1339ef256a9b776d66a1a0351cd3e26bf",
+        "url": "https://files.pythonhosted.org/packages/e5/1d/8939549b4df92f183923e17868b1ca5fb994b8b8c52abad4d46fb953d1d0/easybuild-easyblocks-1.0.2.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "cb17729232e7045be5bbfaa8b43417d2361ead3e13dc013f5649b190f50940a2",
+        "url": "https://files.pythonhosted.org/packages/d7/42/f5876e20e70a3678a0a7b227f1fbbe5e99f2a9ecc84d21bc9e3217d3022c/easybuild-easyblocks-1.1.0.tar.gz"
+      },
+      "1.10.0": {
+        "sha256": "e3452856e457f6418c7f10c2acfd26d28e76bb45ec8b49b29436f8a0d376694c",
+        "url": "https://files.pythonhosted.org/packages/b3/bc/62393d421549931f47b88f50803e2636f0ae9915d1c3933907f498027fe0/easybuild-easyblocks-1.10.0.tar.gz"
+      },
+      "1.11.0": {
+        "sha256": "fab6f689489a5989310f4c536bbcaea19eae5be758004236e37d8bd92f6510d0",
+        "url": "https://files.pythonhosted.org/packages/15/db/44a121ea2f3b0aa12d5463111e078237bcfdb1e88b6043e3c49ea1c50bfc/easybuild-easyblocks-1.11.0.tar.gz"
+      },
+      "1.11.1": {
+        "sha256": "7dd6face0bb72ceed4ebea4ca4440463a9dfaf01e0857617699f81b5a9aaeeb5",
+        "url": "https://files.pythonhosted.org/packages/e1/fb/f8b777d8fa1b34bab6434de461d1414c2901954e20d9df4ea42184b51804/easybuild-easyblocks-1.11.1.tar.gz"
+      },
+      "1.12.0": {
+        "sha256": "ad45629cf895337b555056782637cbdc6a3da13d1ed90050308284863b4de23c",
+        "url": "https://files.pythonhosted.org/packages/7d/af/c6c5a3c1ad3b1e5af7363682b970dc44300b5ab9327cb22b56eae9eff7bd/easybuild-easyblocks-1.12.0.tar.gz"
+      },
+      "1.12.1": {
+        "sha256": "f2f8b8423128f3f5a1edeb0719a91c05156340b47d9bb97aaa9d8d06fb5a4337",
+        "url": "https://files.pythonhosted.org/packages/97/26/d1e6a186724ca8e92a6487802f39ed95ae4c1d97b47a7befd2905fc6119b/easybuild-easyblocks-1.12.1.tar.gz"
+      },
+      "1.13.0": {
+        "sha256": "cb3865166433b9329c98a9dc42ee99e9c1332f04eef07628b4f34a92d1d5f1f8",
+        "url": "https://files.pythonhosted.org/packages/4c/29/bfa7830ec37c98bbd677ad8f94b44c546dbf34425dbdaf0613edd249124a/easybuild-easyblocks-1.13.0.tar.gz"
+      },
+      "1.14.0": {
+        "sha256": "f9916371d81ad1ccd5d2f430ae584037bf785bfc517cd506f93014f29ca26b0a",
+        "url": "https://files.pythonhosted.org/packages/67/79/cc8c6f8026fb8a7f65998ba68d2acfb7f1ef9553e347108201bc3daa5357/easybuild-easyblocks-1.14.0.tar.gz"
+      },
+      "1.15.0": {
+        "sha256": "3bd0b373aeadd9b61285a2c07b56cfa91932a12568e01e1e02c55596f6226660",
+        "url": "https://files.pythonhosted.org/packages/23/17/59daf9a381cf6fc8d1dd373823c8541045b9757a000304f975fe4faffe9c/easybuild-easyblocks-1.15.0.tar.gz"
+      },
+      "1.15.1": {
+        "sha256": "f8ea25c871146fb08cccdca3fee34c3ed7ef351ad3edbb1e25e2f2cac0fc9e6a",
+        "url": "https://files.pythonhosted.org/packages/4c/0c/3870abb0dab7ce605908ccb954191ce605f138706102c37aac5c07df26d8/easybuild-easyblocks-1.15.1.tar.gz"
+      },
+      "1.15.2": {
+        "sha256": "c5bcbfc8cecf14fc104f26f0391421112edcfdc2b579b695977074f1c3dc7a16",
+        "url": "https://files.pythonhosted.org/packages/3c/bc/ee9688552a9dfdbdf2f0185e8f105fe9bb606d7c92fa337dd7b649da6dda/easybuild-easyblocks-1.15.2.tar.gz"
+      },
+      "1.16.0": {
+        "sha256": "d7445696a0e788e8fcf4f71fd5e159df7f189675d1ebc116fd9cc1397070b48d",
+        "url": "https://files.pythonhosted.org/packages/83/72/02aad22dc74f9f73a48f382f894ed633ce5a910148475c4b766e094ea6b4/easybuild-easyblocks-1.16.0.tar.gz"
+      },
+      "1.16.1": {
+        "sha256": "6751a29b98532fb67164269312f61ddb0d151e88590963848e937515a6b88aef",
+        "url": "https://files.pythonhosted.org/packages/d3/06/350abcdb3fdebac6b905c8aebf3cb3278afbd9d73942f401ce69c744df54/easybuild-easyblocks-1.16.1.tar.gz"
+      },
+      "1.16.2": {
+        "sha256": "87de325d48e0a617f65db1f0c4c456ba60d5967e524f37f4681d82333950a12a",
+        "url": "https://files.pythonhosted.org/packages/6e/8e/20e5237c33b385e9abd2f44a5b06cce6b4cc9bb79dd0f316ffd74ff6b46b/easybuild-easyblocks-1.16.2.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "b230152d46d42574eb2fe52e794354fe25e63fb1fe9a0047a08fcc3c8d7d9ddb",
+        "url": "https://files.pythonhosted.org/packages/3b/5a/c321aa556669d897ad52934eb9ef69e3a39cfa16e4ae0977185578e572b3/easybuild-easyblocks-1.2.0.tar.gz"
+      },
+      "1.2.0rc1": {
+        "sha256": "3dc891681d136aa594640486a91bbccc9bbf3c317c793c0762e229388a0c1274",
+        "url": "https://files.pythonhosted.org/packages/c7/14/72361f292e4fa0d4ee980dac176d741979ccb4e206b7fc3bc54187e7e715/easybuild-easyblocks-1.2.0rc1.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "e9191033c7d63fe4fcda63f8afdd1ce5d62abffaf9815b3470d8f9af668e7dcb",
+        "url": "https://files.pythonhosted.org/packages/79/3d/90957bab6c15a4982ea88b8a98cd886e57e72631f59f4c4f38b2c7358b61/easybuild-easyblocks-1.3.0.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "8f0e7840e35c4424b65526cbdf751718fbf65446a877ba66274e354128ebedc7",
+        "url": "https://files.pythonhosted.org/packages/df/1f/3c5ccc46c474e278588fa25a47be0ff0d28df2f02dd66fc7d29ba04ae7e3/easybuild-easyblocks-1.4.0.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "4b010599f3eedc14eaff06be6d159aecc94e828c003acc39656d9bff78069812",
+        "url": "https://files.pythonhosted.org/packages/51/c2/306dc746860495c6f6ce784f52114c1931fff4ab939dee5aed605b158623/easybuild-easyblocks-1.5.0.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "a5d4ca3ed9018fa85c7a470d28d86e606f3da9f8d838ec4252c3217600f8050a",
+        "url": "https://files.pythonhosted.org/packages/58/7f/65e986987e2dac81cc4805a6120a0eab73551f823b233bde9952e1fd868a/easybuild-easyblocks-1.6.0.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "bbdda87d0e68da645c484f45e1c6c9f54f41d48531e070bef8cf09395bdc5146",
+        "url": "https://files.pythonhosted.org/packages/59/35/a90dbd8c3133730c669a0dcf8d3d75017489bbfe1ddfe70d8eb1890f5316/easybuild-easyblocks-1.7.0.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "1006eb6019f929db984b3322cedd7e8948c15fd989d859aa2a1508a183e0a226",
+        "url": "https://files.pythonhosted.org/packages/a5/14/2821e1a3e286a59d899c7fecd618470f0f368560af4521e0ee1bd630ec2a/easybuild-easyblocks-1.8.0.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "569ef5ddaae18034449f9c8a76e0317183a6f2a5a80fe417ce7ab62c27160756",
+        "url": "https://files.pythonhosted.org/packages/07/e0/9f0f544a681713998f6e04c03b6bf82ac3858ec61202214c51d9cfcce644/easybuild-easyblocks-1.8.1.tar.gz"
+      },
+      "1.8.2": {
+        "sha256": "574941ea0d9559d8e8dc6c6b2aea170565fd665d1e369dae9b7e0af010261cdc",
+        "url": "https://files.pythonhosted.org/packages/75/b1/a8bd6be8f65df2a6786432960f73a53c22472314d01788501eb2a72cd3db/easybuild-easyblocks-1.8.2.tar.gz"
+      },
+      "1.9.0": {
+        "sha256": "89997b04cf27ad22aa083ec81a89cfe1ae05e71ca224e9f7580f23b8d6ede73c",
+        "url": "https://files.pythonhosted.org/packages/3e/0b/1c97c87d57ffcc2c89f7ed92df58e052a2f5e9da12259b41356c21365cd7/easybuild-easyblocks-1.9.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "eb2ab3fb070333bdbf5cacdbc5a082db43e8b359a55967ee1a38e6283cfc119a",
+        "url": "https://files.pythonhosted.org/packages/c3/22/b8f9ffb6b63054050859070e09cd5477f3418b0f5cc35bdde14c102a8be5/easybuild-easyblocks-2.0.0.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "2010cdd2b3e9471a5ca635810d065e851f27b43585ff1025c9336299e721d394",
+        "url": "https://files.pythonhosted.org/packages/22/f3/3d49d675484182cae5ad3a7a1e9a2d9997ab736e3d241b70dc317b5a7a3e/easybuild-easyblocks-2.1.0.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "249d0d6e1fff05dbb7151f8a05be46cb719b226a6ad3b75dcedd6a0f3721eafb",
+        "url": "https://files.pythonhosted.org/packages/a8/b5/36056f67a72dc7258464e4e75cf463218e23723d081bfc4d516fa77c5b24/easybuild-easyblocks-2.1.1.tar.gz"
+      },
+      "2.2.0": {
+        "sha256": "d1e9265946eead6a8199d58d032ffcb304cf05af1f38ed8a9774ad384fe4aea6",
+        "url": "https://files.pythonhosted.org/packages/27/1b/4b6f47a49f1cc55712194bee79f7960aa584c6297d1c0e54d369d39c0e35/easybuild-easyblocks-2.2.0.tar.gz"
+      },
+      "2.3.0": {
+        "sha256": "1c7f1b5c2ead4756de59f5e7f5da1f76242dc84baf6f22903d8a00cdf50a54be",
+        "url": "https://files.pythonhosted.org/packages/d7/4e/443804737ff6e3a0166feb8e2842a072aaf4ce6797007114ef29e82a76a0/easybuild-easyblocks-2.3.0.tar.gz"
+      },
+      "2.4.0": {
+        "sha256": "d7532c41091780fe813b978e56100b593aeb61857d8542ec09819003921c29a5",
+        "url": "https://files.pythonhosted.org/packages/60/1d/38871ab3d0acc0b1581d6fe997e77f7cb51b84b39bcb45b732480d7994e9/easybuild-easyblocks-2.4.0.tar.gz"
+      },
+      "2.5.0": {
+        "sha256": "1b0649d7eec7e292fd07a93673809e22826e34c401ada1eb92f908fa133dc0ab",
+        "url": "https://files.pythonhosted.org/packages/3f/33/162b892e299001e4881e2bca3a3cbfba06f859920207efefe5eab3d3909b/easybuild-easyblocks-2.5.0.tar.gz"
+      },
+      "2.6.0": {
+        "sha256": "40ab0369a7b6ac11dac60f55e7808ea67565ec719843db31cc53e9b49feb7241",
+        "url": "https://files.pythonhosted.org/packages/f7/73/ff1286a8be68a2fc2d956af6be60dbdff47730e017577823bed5d76785c7/easybuild-easyblocks-2.6.0.tar.gz"
+      },
+      "2.7.0": {
+        "sha256": "e9f24a99b9937b0e69d59a42aecf0f8eda1bd4bf8681ef0e4763c3eea3774d6a",
+        "url": "https://files.pythonhosted.org/packages/33/d9/71ebff7619d23b637d5f8a4536407baf5b9699b280a00cb15711dce047e4/easybuild-easyblocks-2.7.0.tar.gz"
+      },
+      "2.8.0": {
+        "sha256": "b784f0168f7dc49624c17631fdaeff53c089cf779221efe8a703619bb266619d",
+        "url": "https://files.pythonhosted.org/packages/c0/84/ebe0a2fc169370db663d82caf7c0224771028c79ec9a324b46d029840773/easybuild-easyblocks-2.8.0.tar.gz"
+      },
+      "2.8.1": {
+        "sha256": "3d1439a44e040dc6f0bd1079b24b467be66e0d14e411c32bbd67006222515b49",
+        "url": "https://files.pythonhosted.org/packages/93/7a/0d89cfde1530fc6932b9a474bd23808fef40ffcce03b99a7907700612371/easybuild-easyblocks-2.8.1.tar.gz"
+      }
+    }
+  ]
+}

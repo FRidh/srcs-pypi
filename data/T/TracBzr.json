@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.4.2"
+  ],
+  "meta": {
+    "description": "Bazaar plugin for Trac",
+    "homepage": "http://launchpad.net/trac-bzr",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "ed42655fb976b31355eca3de4c4cc66fd9c25706fe006103750e6416a88ce14d",
+        "url": "https://files.pythonhosted.org/packages/13/32/cbcaac2c570c2234880458337bcf0a9222b8f97bdd9b614086dbe101a73b/TracBzr-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "b073b659009111e5ca05fc05dbb70dc4318e2b41105094e6f3b9fe8cc96adc00",
+        "url": "https://files.pythonhosted.org/packages/92/38/de66a52192b615965ec6dd24752953583b97afec8f42a134ed7474278a2d/TracBzr-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "e88e8b494e4285489042e7e3d56a9830690c023f279bb36aede01e492023df73",
+        "url": "https://files.pythonhosted.org/packages/9b/2e/b14b7fb16a4a4627dc2c7178c1d6705a3cf87333bcd15f6d275721b3a373/TracBzr-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "92078b8bf7387a4bdae0d5863dd6f398896f4e49f32581030962fe1f74dd5c48",
+        "url": "https://files.pythonhosted.org/packages/31/11/08967c25e9ef8ec3e44c7b9698c95bf01f518e82156d6f8c63eff1c4c93e/TracBzr-0.3.3.tar.gz"
+      },
+      "0.4.0-dev": {
+        "sha256": "0e1731eeffd7bb45885037b9caf2ae014328d4f1dcc7640c2b7a3c30a4f4351e",
+        "url": "https://files.pythonhosted.org/packages/64/2f/a79a0353f14dd1c09474b8fcdd27fb27c590d610da091e1a9996775a29a1/TracBzr-0.4.0-dev.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "cf9ed1883182e1d8848a9a38d8f17c358b8b21961afeda434c7632b759950993",
+        "url": "https://files.pythonhosted.org/packages/20/1e/e9f4d81066e7f8de2a7967563a90553b1f541e2a321c583aa19f77aba231/TracBzr-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "dfcfb4ea46d97933f520a7b1bcd0416f42be32a5d86f2da47ab446ca10f951fe",
+        "url": "https://files.pythonhosted.org/packages/ed/e8/e6e89888be24d938f649b69272ca167dcd9ac54e1a0befb83bd98f7db451/TracBzr-0.4.2.tar.gz"
+      }
+    }
+  ]
+}

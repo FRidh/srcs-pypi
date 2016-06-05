@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "A Buildout recipe to install and configure Celery for Birdhouse",
+    "homepage": "https://github.com/bird-house/birdhousebuilder.recipe.celery",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "6d0b1a08fb9f3f12fcc76f360f0a830f80ab93b8b6d909da9d8edd2cc807a37b",
+        "url": "https://files.pythonhosted.org/packages/46/f9/58122222db4b5dff88d3f147359565517501df3bc0751e19272196d53893/birdhousebuilder.recipe.celery-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "6b389e7226940a4b1de798544e01f33275bac8137519e5439cdc8af8dc50a7f3",
+        "url": "https://files.pythonhosted.org/packages/9d/b2/83caac83e61198365fe0c62ed19b04e313c9761e8c88e5633ce6c8294a22/birdhousebuilder.recipe.celery-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "0ad00dfaed05d282ec993370e3b501aed15f6edd9c484517d9e77253e538d058",
+        "url": "https://files.pythonhosted.org/packages/0f/cb/c7f9233a081a7c91d88b953308e9ea1138fe14eef6cec4b144d56787ac00/birdhousebuilder.recipe.celery-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

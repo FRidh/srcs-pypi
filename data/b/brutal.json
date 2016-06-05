@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.3"
+  ],
+  "meta": {
+    "description": "a multi-network asynchronous chat bot framework using twisted",
+    "homepage": "https://github.com/Netflix/brutal",
+    "license": "Copyright 2013 Corey Bertram and contributors.\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n   http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License."
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "836661248d50f48aeaeb6232dce26d2c583251a6890c471d834716422735b88f",
+        "url": "https://files.pythonhosted.org/packages/27/0e/adf97b6e6105abd416015be63327007a7697089ee0056e99b4e54bc01c7b/brutal-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "f1dd50b6857c7aa9f24491c9ad54ddb719e1535119ea810909f8204689d10177",
+        "url": "https://files.pythonhosted.org/packages/2e/e4/7e8ee730234264c5694a51597566f3b8307fe2255193ce2acce8f6d8b58b/brutal-0.3.1.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "0f47c9d37cba97535d60eec9634fa6d359f599034c2fab90bce3bfc8fd80f758",
+        "url": "https://files.pythonhosted.org/packages/dd/84/930f90d2ed8753969a2e6bdd0d44c8ce57b271f0fe893206f2f5c85293a2/brutal-0.3.3.tar.gz"
+      }
+    }
+  ]
+}

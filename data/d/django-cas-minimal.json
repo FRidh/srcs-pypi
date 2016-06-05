@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.3.6"
+  ],
+  "meta": {
+    "description": "A Django CAS library for version 1.7.4 which actually works",
+    "homepage": "https://github.com/ParthKolekar/django-cas",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "2.3.5": {
+        "sha256": "d4ac5f4f5d85de2e039fafe1a9f3877f071ef7441092bad784eb4f81bbcf64f4",
+        "url": "https://files.pythonhosted.org/packages/e4/b8/2a67ef3c4838bbd599772f61e195155614cf9cd22c14eb0af3ce3730fa19/django-cas-minimal-2.3.5.tar.gz"
+      },
+      "2.3.6": {
+        "sha256": "14125f3961a328d4dfb36f7ba67c2c240ee84fcfa1d5040d94c389460d32bd45",
+        "url": "https://files.pythonhosted.org/packages/46/40/7bdda78da9c5cd73adfed8c288024dcab2061fa9123059e6ae2c2b768dcf/django-cas-minimal-2.3.6.tar.gz"
+      }
+    }
+  ]
+}

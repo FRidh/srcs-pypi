@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.4.0"
+  ],
+  "meta": {
+    "description": "Cross-distribution Linux wheels",
+    "homepage": "https://github.com/pypa/auditwheel",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "352c53c02a7778f354accd877384603dfb318421f7713a67d31b859ee7a395de",
+        "url": "https://files.pythonhosted.org/packages/3d/f3/09f5ffefc483a989ce4f507103b3fa93d50d69118458d484602781369c9b/auditwheel-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "8dc1b960e5dac8b67e3cd87e8789dfce151d2734115c6621e4331133badc275c",
+        "url": "https://files.pythonhosted.org/packages/28/e3/5ac746f25bafb6383b37529eac8e1453e7b1dd6311136a893eab003dd0d8/auditwheel-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "10494f277c8123bdb340e12cd2cc478377120d0adc9f34650555e29c0d8c60b3",
+        "url": "https://files.pythonhosted.org/packages/d1/b0/644b4b2f4989ebe2c0444fe56f4c64207bd272df9f8c60d929c0528fac58/auditwheel-1.2.0.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "5064b2dd80dcf420abb8dc04503c82efe69cf4b4b905084fdce7cf5022de54d4",
+        "url": "https://files.pythonhosted.org/packages/f1/c8/5cc47466bc77d63faec7ab2949d1d44856d6a4ebdd740f0589a9ed77101e/auditwheel-1.3.0.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "8cf3e4302361447e76a6b4ff452bce01f9905e349365850774c3e16a8448b0ce",
+        "url": "https://files.pythonhosted.org/packages/2b/fc/ab64592ae2a8b944a67ff5d6fb50d39828b9abca10ffa085978d8b5d2745/auditwheel-1.4.0.tar.gz"
+      }
+    }
+  ]
+}

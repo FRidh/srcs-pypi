@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "A simple Django app to include citations and reference lists in your templates",
+    "homepage": "http://www.williamhart.info",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "c3950f3e53b137653f914830c1ef20b77390ea3a501919a5c6733a1065fc742e",
+        "url": "https://files.pythonhosted.org/packages/ba/32/42c729678801660cb4b1a46628f50d5744d0b50052dd731f3917f061126e/django-citations-0.1.zip"
+      },
+      "0.2.1": {
+        "sha256": "b34da42a6b14ff1ce575257cb3891959502ac9f3ea3ce8f40c5a16283ccdf45d",
+        "url": "https://files.pythonhosted.org/packages/3f/63/578405a9a5bdf5b2b2ed4eccc1d68fcfbea587d709f918b3593ccf66cf72/django-citations-0.2.1.zip"
+      },
+      "0.3": {
+        "sha256": "e6ca2e34891ee20c3498e3fba54c795e92c562b3af3e394282b8fb4759a0300b",
+        "url": "https://files.pythonhosted.org/packages/12/b9/1762b948b7c60fb22e5b4918080a3d847a0510404904a35f5dc49f16fc51/django-citations-0.3.zip"
+      }
+    }
+  ]
+}

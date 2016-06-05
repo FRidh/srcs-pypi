@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.6.5"
+  ],
+  "meta": {
+    "description": "Cipher for remote containers derived from ssh-agent signed challenge data",
+    "homepage": "https://github.com/p-sherratt/sagecipher",
+    "license": "Apache"
+  },
+  "versions": [
+    {
+      "0.6.1": {
+        "sha256": "2467677f0ad35dad65726db97b27cd3172059b75ea5051edce401a18d752764b",
+        "url": "https://files.pythonhosted.org/packages/a7/07/e53de5c937f58b0808799e713ee5087eafc1434c813e8592a7dce85f9a16/sagecipher-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "9405afe6b65ae3babc3d1813494d7259557656236273b1722a8f5ec8c221255e",
+        "url": "https://files.pythonhosted.org/packages/a7/ef/8bb02353013da553cae798cbc783340c22af3f5170c89b384abfd0bf2b43/sagecipher-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "3f15805bb36a904da3af9c757860aee2182fa1cb6fe18f02f770ac8077effbab",
+        "url": "https://files.pythonhosted.org/packages/d6/2d/8f9527b3089955b017174346ec51897079973413b636b828e26f7e9245b1/sagecipher-0.6.3.tar.gz"
+      },
+      "0.6.4": {
+        "sha256": "238d85a8ace33b1f41aefb4a198c0af50693afc51a916e7301b8b600ab6528a8",
+        "url": "https://files.pythonhosted.org/packages/62/5b/4476349dee93d2c3c47aa4ce09cf9d00a65e61d56c292da41a3bfc6bdc44/sagecipher-0.6.4.tar.gz"
+      },
+      "0.6.5": {
+        "sha256": "c6d557af26c7b5a06357a56d6e2d67c09834923311ae177659ddd4378b42128b",
+        "url": "https://files.pythonhosted.org/packages/26/e3/db71f0648cedbf31837cdfc4b06173479d66bbf9c737360f2d99d4d4292f/sagecipher-0.6.5.tar.gz"
+      }
+    }
+  ]
+}

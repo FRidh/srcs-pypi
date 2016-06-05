@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.7.1"
+  ],
+  "meta": {
+    "description": "Connect systems via Redis, AWS SQS and SNS",
+    "homepage": "UNKNOWN"
+  },
+  "versions": [
+    {
+      "0.5.0": {
+        "sha256": "2e9f4e93f4d4a84c088aed0281e9ac645caec0077fee9164b3d24baf992cd775",
+        "url": "https://files.pythonhosted.org/packages/76/ba/7e61c734f6fbc63416398bdfeb3e0aea0c986b1c86e1c7905949ddcc9eb5/plumb-0.5.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "b2be941168f0c60fa1d851d93cb794e3e4725fa89e67b6e82eb0dfcd275744c1",
+        "url": "https://files.pythonhosted.org/packages/5b/ae/6cd960f3cf9cbb6610932cf065bbdae7401d2e7fd585462f516111e76165/plumb-0.7.0.linux-x86_64.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "af19e614508d2a8541c60e87b8a8a07574ccb096429682e83360fb5828c5d230",
+        "url": "https://files.pythonhosted.org/packages/d0/80/24e7256d03c9d203da62f8c9165565495a3594e834c774a47d2e82f1c411/plumb-0.7.1.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

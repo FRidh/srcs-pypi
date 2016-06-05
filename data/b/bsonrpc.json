@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "JSON-RPC 2.0 and BSON-RPC 2.0 library for socket transports. Supports gevent",
+    "homepage": "http://github.com/seprich/py-bson-rpc",
+    "license": "Mozilla Public License, version 2.0"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "21fb7c961522b60644a068a543355e3cfd575e313a0e0106e6306351f243ef0b",
+        "url": "https://files.pythonhosted.org/packages/12/01/22a991b49fca67c4a26b2f056ecf24ff0536c338f2dac20b6ad28c7b7051/bsonrpc-0.1.0-py2.py3-none-any.whl"
+      },
+      "0.1.1": {
+        "sha256": "03c4e10754f2cf1d50b6daf14cecf4373b847d8d87893a69db5bbfbffabab1df",
+        "url": "https://files.pythonhosted.org/packages/da/0e/a1d796fba9faf3301a7dc3005d8323a0e1f4dc9c04c2ee4225998cf0cb8a/bsonrpc-0.1.1-py2.py3-none-any.whl"
+      },
+      "0.1.2": {
+        "sha256": "e2828accde67e1631d0f473b3cd3a9b0fe169294b255c185580c58f706c35ea4",
+        "url": "https://files.pythonhosted.org/packages/81/67/d6b04685343d995a206ad8630b0c1225a446a96a1c28419d52a3210c264b/bsonrpc-0.1.2-py2.py3-none-any.whl"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "3.5.1.0"
+  ],
+  "meta": {
+    "description": "Type Hints for Python",
+    "homepage": "https://docs.python.org/3.5/library/typing.html",
+    "license": "PSF"
+  },
+  "versions": [
+    {
+      "3.5.0": {
+        "sha256": "7340d54262034a88a82e2d698147bfb1ed90410162e1b69deb3d559aca232ca1",
+        "url": "https://files.pythonhosted.org/packages/be/fd/23dbc3a4ba282b0b9661be3e1d1f01fe23a0b4834081593b0d7a04fe13bb/typing-3.5.0.tar.gz"
+      },
+      "3.5.0.1": {
+        "sha256": "b247d3ffe4228bebf319cc6670535eca472ad65a96d681c41cd67b90a686d942",
+        "url": "https://files.pythonhosted.org/packages/6b/58/1bbcdc886331b1a232da15a08940c2b7254ac743c18d5e89f0d3e27ac6ba/typing-3.5.0.1.tar.gz"
+      },
+      "3.5.0b1": {
+        "sha256": "8d70f0969c5682e06d1337617d92d3cc0e4f19bd74907b4a46b12115bdf5c89c",
+        "url": "https://files.pythonhosted.org/packages/bd/9f/dd1abe8ab609e6834b205b578168b448cf1cdccc84049ba567ec565108a0/typing-3.5.0b1.tar.gz"
+      },
+      "3.5.1.0": {
+        "sha256": "88675d0545ccb44229a745d00ca03f56364e07d0e6de318dc14686f0d985e406",
+        "url": "https://files.pythonhosted.org/packages/8c/7d/24c4d40b9839b4d3e8f70ef728c483a2f543ecd26c1856828372c78f209d/typing-3.5.1.0.tar.gz"
+      }
+    }
+  ]
+}

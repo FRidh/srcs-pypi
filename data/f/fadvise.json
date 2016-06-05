@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "4.0.0"
+  ],
+  "meta": {
+    "description": "Python interface to posix_fadvise(2)",
+    "homepage": "https://chris-lamb.co.uk/projects/python-fadvise",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1": {
+        "sha256": "541e7dab3ff3dff307618fe3a5afd28d49064df4cfd2481ccf3a7844d6e359cb",
+        "url": "https://files.pythonhosted.org/packages/2f/4a/a26780097cd0c6431394a960a2a7f5a9fefc981c4bb3669dfe27f1537709/fadvise-1.tar.gz"
+      },
+      "3": {
+        "sha256": "e91431bf80b28099dfff8925e6acca334f4abd2a47436f7409d5b8a60ad72880",
+        "url": "https://files.pythonhosted.org/packages/25/eb/322e2ef75137e6789e2c64942b68a6742d59f33aa0a49f868f45e0bd5614/fadvise-3.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "180e40296209982bfc81e2f2cae82ddba6dfbe8212300bceffd26756af1e7c33",
+        "url": "https://files.pythonhosted.org/packages/9a/07/3f4e34d67e7c020accef9610e8f4b94ce0bff8333e1b79121cb7a057afe4/fadvise-4.0.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Perform cherry-pick patching with the Github API",
+    "homepage": "http://github.com/whiskeyriver/ghpick",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "daeec889e38c7e2fdb518683d16a67ed0196a83c30ff2d6163ebe96dc80bf6a3",
+        "url": "https://files.pythonhosted.org/packages/5e/47/62f9c8523b78a1695dd4ff0731edb59214320abf16173e122e424cf88737/ghpick-1.0.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "ca356fc00d9589698d2ba44f522de0f39206e2bdae6d3bb4c4cb973f1faaba7e",
+        "url": "https://files.pythonhosted.org/packages/d3/dc/d5f7109fb9b2c481bffc5560c1b3af0fc6b76504785161fe53350d0ce7e2/ghpick-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

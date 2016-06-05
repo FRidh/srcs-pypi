@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Compatibility shim for simplejson",
+    "homepage": "http://undefined.org/python/#simple_json",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "7ebdb5412aac8fcc9c86d1d68807e7adf7acf83a0844a7dd1457a5dfd3ed0168",
+        "url": "https://files.pythonhosted.org/packages/5a/5f/ffe7049bb379a92cffdfd9456ab6c8da35a6e58baaa216f8e7c3d944ba38/simple_json-0.1.tar.gz"
+      },
+      "1.0": {
+        "sha256": "7d450cc9d5e92b115ec10b7c322dd35bbe7868d55cfd30c6b8f427cf84a74cbc",
+        "url": "https://files.pythonhosted.org/packages/c6/9b/2d990397ea43d188bd69a60bc35e1f1f3ea13a13eb14486d10baa62af082/simple_json-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "aba3f34d78f3a7c9c67135b319bbf9ec64b3c87a2a08dd2cdf79634d0849f01a",
+        "url": "https://files.pythonhosted.org/packages/9f/89/abd4a2fe096405ecfa0875079d8afdf64b1582831429e31a39cce907b3be/simple_json-1.1.tar.gz"
+      }
+    }
+  ]
+}

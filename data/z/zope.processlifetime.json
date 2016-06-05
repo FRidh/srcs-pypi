@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.1.0"
+  ],
+  "meta": {
+    "description": "Zope process lifetime events",
+    "homepage": "http://pypi.python.org/pypi/zope.processlifetime",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "acc3aa2e02bad02e69948a00f92947bb68d6c9d875b32d289cf0832d37050d08",
+        "url": "https://files.pythonhosted.org/packages/80/dd/e66f1ddd36c8bf14312c3a67d6292ba662712093927c4904ac578b41261f/zope.processlifetime-1.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "49198593d4522404155b9460c238e7671c8cecb2a4c7cb7d791fd2534ff65980",
+        "url": "https://files.pythonhosted.org/packages/46/ea/8c1f4050d82e35bf81a2c504f8244c416ff7359773bbd96f018c1923873c/zope.processlifetime-2.0.0.zip"
+      },
+      "2.1.0": {
+        "sha256": "ab7e65a343b16b32523ca215b692ce3e5593ebe801ee547ca37c8a902aa85139",
+        "url": "https://files.pythonhosted.org/packages/45/84/592d0e4f495354baa73eeeeb309518645000d65c3073159dc3f6e0a43c37/zope.processlifetime-2.1.0.tar.gz"
+      }
+    }
+  ]
+}

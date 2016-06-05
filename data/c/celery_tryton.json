@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Celery integration with Tryton",
+    "homepage": "http://code.google.com/p/celery-tryton/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "b5e9ad9111b45a7f3b78913d2b540f7846e168ed9ade9ebd744acb886671396d",
+        "url": "https://files.pythonhosted.org/packages/ba/84/e37628765ba8643c951e878f9e08073de03225404dc14f865b5d3e5a083e/celery_tryton-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "88a8ff3a1fad88191fdaccdc2f3aa2bf37dc8ed31aace6d55ed16f13ef404350",
+        "url": "https://files.pythonhosted.org/packages/b7/ee/422c86a3862b96ca5d679a77cd1c2bf91b8a011e4d77d02060b3525f4320/celery_tryton-0.2.tar.gz"
+      }
+    }
+  ]
+}

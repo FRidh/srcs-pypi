@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "Pure python implementation of the Apache Mesos Framework API",
+    "homepage": "http://github.com/wickman/pesos",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "bc94bca10ba9dcff51d4c41c985e40131921e5a761b0770d416bdeec305ff36b",
+        "url": "https://files.pythonhosted.org/packages/db/05/ea2eafed3e34bd65026d5382bc7c5ec52bd082f129d335e31d4ec2f40c0c/pesos-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "03b7aeb64c7a5fc960f179ba39f6532efda90f2daaf6e701e56a9b87a0340ffc",
+        "url": "https://files.pythonhosted.org/packages/bb/a1/f37be18e292999d81c5d6307199c136ed7a3657b05f15180d2a03f159f57/pesos-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "777f96b00c742b70d2ef2f765284439bbc1bb794623fc2b23dcb5a3db75594fe",
+        "url": "https://files.pythonhosted.org/packages/49/bc/df04f61b37349b938ba906cd7d9203bd643f0a9efa466b8a6d7782ac81c7/pesos-0.2.2.tar.gz"
+      }
+    }
+  ]
+}

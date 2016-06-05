@@ -1,0 +1,530 @@
+{
+  "latest_version": [
+    "5.5.7"
+  ],
+  "meta": {
+    "description": "Mixer -- Is a fixtures replacement. Supported Django ORM, SqlAlchemy ORM, Mongoengine ODM and custom python objects",
+    "homepage": "",
+    "license": ""
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "8186645729dadb34babd307639b6cf375c89df7aed8e2566857a52584827fe64",
+        "url": "https://files.pythonhosted.org/packages/fb/6d/f7ae77362e12447712562eae6e5150927c2343de2e90978d862404ea7e1a/mixer-0.1.0.tar.gz"
+      },
+      "0.10.0": {
+        "sha256": "ff17c5f635d95ec1850c01ae688dbba40c5dc23311c382cf466c38c904ea8a8d",
+        "url": "https://files.pythonhosted.org/packages/84/50/a373ba4b416bd673540edf58c8e9e1a958de9f1cd7a8f5a5d575c5da0037/mixer-0.10.0.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "194aaf46458f8242eef2839e16988694c5b8a18612249199acb6499758a8a9b5",
+        "url": "https://files.pythonhosted.org/packages/7e/c8/c9e8459b63f71e058aea67531fa58417dd9e8dae121454cef14cbf4a5ed9/mixer-0.11.0.tar.gz"
+      },
+      "0.11.1": {
+        "sha256": "3e31137493f9570059c74e4f759a2ccc933eb5afa9d647f09130aa11b5548cda",
+        "url": "https://files.pythonhosted.org/packages/2a/ab/5c48a00056bf0bcf51c5c5e940463aca502bc41d39c21bcf66b18b4f1f6e/mixer-0.11.1.tar.gz"
+      },
+      "0.11.3": {
+        "sha256": "bce2d5026dd286ba9b62532cdc487a87539eef54df6d97fb0c84ab91349e8e4f",
+        "url": "https://files.pythonhosted.org/packages/b7/ec/d1f9664d1b3983a00c76a655d2d2ca3518c1af361fc5ee3786bc040e7cbf/mixer-0.11.3.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "20930447c6ab10a8d80efe00e54b06358fbdc6d613b8a56f996d570c1ac69915",
+        "url": "https://files.pythonhosted.org/packages/90/f2/fc2d20c026145e115eeafae4583bc34b24901fec3088d0decde28118647a/mixer-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "7b0057e127d00761f7459e2db37f9f9f97c774b9a4c6acb46b7c093b64c7e375",
+        "url": "https://files.pythonhosted.org/packages/93/d2/94b0172b02a223a47c3ce1deab00a6427fb2e16a8d3e2eb6ff05447325ad/mixer-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "e6545625bd18fc320b42f5001829d94ca6b5f988310ef7eeb74c7bb09a95cf92",
+        "url": "https://files.pythonhosted.org/packages/b3/96/882cce7ad5d3d7e03ddb184e4efe905f84f32c6feb967968a49fb6494cc4/mixer-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "daf5cf8dde78a4578608d8674032f0d319090681b9cba6e2d062f82f6a609c0a",
+        "url": "https://files.pythonhosted.org/packages/f5/35/d828288f58ffee30151fbd3eb4656e8b3b2921a11e4d6cf1598d79bdbf8d/mixer-0.2.3.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "c9e37dd7887e124aa5a41278e415ba5015cdd4936d9c7e714e460e401b2c68fc",
+        "url": "https://files.pythonhosted.org/packages/6b/87/dc9ea0de073e81ca5ba45c59209da4aa254ea3af4844abc96d5321932eb6/mixer-0.2.4.tar.gz"
+      },
+      "0.2.5": {
+        "sha256": "2de1bcc2333a25f9bb5feaa5fabb6b75f1f83eb05bbe6ba1c11428528ec96a84",
+        "url": "https://files.pythonhosted.org/packages/09/7d/19249f9b7cfce631b0bf2b33e38f6ed95131017168d94bcd8feb5f013892/mixer-0.2.5.tar.gz"
+      },
+      "0.2.6": {
+        "sha256": "79204566db1a10f79d331b10a8014369fad090d9af49965dd88c6e6ad2152793",
+        "url": "https://files.pythonhosted.org/packages/ae/67/82521d7034b2cb3434d59b2cdfc49b905d857d6fe8115615dff9f88e5fac/mixer-0.2.6.tar.gz"
+      },
+      "0.2.7": {
+        "sha256": "97a4bf69739ad23b9fc1aa4561c7d310bd5b1bc9fb89b9dc2065b47d71f014ed",
+        "url": "https://files.pythonhosted.org/packages/f2/b8/d08551fa70a290c99fb3a495ecb0e3c88c48a485440ccc386254cae87350/mixer-0.2.7.tar.gz"
+      },
+      "0.2.8": {
+        "sha256": "59ee393c83fbe313593d9fb46749d0c3d37a12678a0d5e90666a6399889fd639",
+        "url": "https://files.pythonhosted.org/packages/46/38/32894eaf251e024359558d163d0bbe4b8b5a1e9c7e350321bdc07cb20fb7/mixer-0.2.8.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "854be080779fd11ebb2d3f21a127bcd1ef86c6c4db49fa0253e15369399472da",
+        "url": "https://files.pythonhosted.org/packages/d6/dd/c49088ec7c7108c1e3ec58c5c8b06c17e85b636834e4cb14ed5690cbf994/mixer-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "aa85d87a17ff952ea4281ea7d2cf68061909ee35252b9cb8b00dbb6f84e88df0",
+        "url": "https://files.pythonhosted.org/packages/77/75/5277c90747f608fcee7416560a55dfbfdbbed19a0d83b1e01aafbedab567/mixer-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "94ca44077e03af07d49a84bfa466edd4783be86277bf36b83e2fb7472a342beb",
+        "url": "https://files.pythonhosted.org/packages/62/df/1aada36f6ec0a510da4da42e154c1ce22266f216c93d9b7773a8bacd035f/mixer-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "2e3ec4e68535b8a8afb15134defa076826b99e49f0570955fc8c5652d797b700",
+        "url": "https://files.pythonhosted.org/packages/b4/42/d7302dc805474d58af61fdf9afa4295f967d26d3f159515c601227a8346f/mixer-0.3.3.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "6cafa8d408a130e3bf2e1326276e043e63a337488fbefd5c7000dbf891942b1b",
+        "url": "https://files.pythonhosted.org/packages/45/a5/221f0fa0aa39379252da0b9c240c249b66656fec5d36246b5ba96aee53f0/mixer-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "385bb9e8ae20ded126f20453fbcb3517e44f2d579a12234ec5787595243f107a",
+        "url": "https://files.pythonhosted.org/packages/20/9e/14db7020c7272a58e6070b729318a4bba052d7569b8ba60c5df2aa7605ce/mixer-0.4.1.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "40ef11c64626641f07a4b0d5740af168a6cabba19836d5b4b52de5aed50224d2",
+        "url": "https://files.pythonhosted.org/packages/87/14/a2a20fa3bdadb744981252aa1671ce41215c07a46d4b164682081965c352/mixer-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "556eaea5797f889620b6a79b0f9866b6c82ae6d1b456722f420c4863dc2cc448",
+        "url": "https://files.pythonhosted.org/packages/f8/8e/9b8d5dafab5d8e5e189a921fa5b61247631e2671e6ed28c4187295212a49/mixer-0.5.1.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "83691e7bbfcaf002a8c12365377392e26341ce3710989f71ecd1450fcbc0cab6",
+        "url": "https://files.pythonhosted.org/packages/3a/9e/edf96d61b405beaee0c5cd681ab8425b4dccf24930d027d5322aba719d79/mixer-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "cbff6c594f58d125af7037ad404a9c5687f56a8d50667d4f00daa5cfc7b0a26f",
+        "url": "https://files.pythonhosted.org/packages/80/2b/07dee0f827b1330a4bb26e971952b479828fc2a053134978875ba0dc94b3/mixer-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "354a065f32e7214319cccc855f89d2d367310ea12241ee9bcde65080bdda2077",
+        "url": "https://files.pythonhosted.org/packages/c9/b2/b42dca03abb05736a0cd50462fdc2f77ca3293d84cb9644d684461f7a6cc/mixer-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "cb4e5876fcae47821a99f91c6066013418a35467afc98c41cbe79d43c89d2085",
+        "url": "https://files.pythonhosted.org/packages/e7/e9/930099a840e0b93df6b63cdb5a33d3a5749772dd13f0f05dd898dab203b1/mixer-0.6.3.tar.gz"
+      },
+      "0.6.4": {
+        "sha256": "0d40b9fc59533fe549b4fdb8f937ee4c854f9737bdf6db7e309bfb8b06836ff3",
+        "url": "https://files.pythonhosted.org/packages/ac/e3/470da1290d2afc09bbd3c2da6d15ed256c3c44740c26b28757c4351a8f13/mixer-0.6.4.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "4ae2592232fc9d3a20e11d630fb04e8307dbe5c29906fbd41c2e5d250cbcf435",
+        "url": "https://files.pythonhosted.org/packages/de/1e/2d9ac31ff60165e7f744f5877504b5947073060cd08647cd71efdee68c44/mixer-0.7.0.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "793a377ff1af8944ad1b7f8bd6ca9771454cd4e6c8565dc645f69e6a28f9341a",
+        "url": "https://files.pythonhosted.org/packages/83/a8/a1dbdbb8451b389666f9225f8bc23e94b579837abc3998391967a53cba30/mixer-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "cf43e46d826f9ba1d9d0b9e53f0e4fefc21975c3a6775930700a408d7172f4e4",
+        "url": "https://files.pythonhosted.org/packages/e4/9c/253330d37e3ae65447976ba61617041556d10569a1ee4cdd02d772e5adea/mixer-0.8.1.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "fdea61998930ba489f3770d3ed6f3f6f8cfd979d282c4e9eace3640e46e1fd50",
+        "url": "https://files.pythonhosted.org/packages/47/5e/8bd915dab0b83a0e3c32aacc0474e17e0a930cd3eeab2137b58cd0ea2689/mixer-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "dd79bd6a42765f3a7a360046b93b2146c128e947d5c2cafe411ce9351fb4a745",
+        "url": "https://files.pythonhosted.org/packages/64/bd/db9c790c8fa823ccca0d324c3322229e7e5f8e65fefe17e21443e5727570/mixer-0.9.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "d582ab8e1346eace0027740bff062c84242da0b0d38b0332e391531157ce3f2a",
+        "url": "https://files.pythonhosted.org/packages/1e/96/d2771c72b5a249db34d6b8286304c62689b534da3e199e0b823fe5dc35f7/mixer-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "1d66efe1f5ea5f8d9a2b5ec816a5cce045ade69fe243b5e1e262c9efa846be12",
+        "url": "https://files.pythonhosted.org/packages/04/d3/a9c17ea190965551fec237d02ac75c2f4d5e57954686e986a3dda0e8315b/mixer-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "3b7c79ad3ad6b266a43af6fd29e9e902c6a99629dba0c0e179e4e574ecead706",
+        "url": "https://files.pythonhosted.org/packages/c4/77/4b2a7ee43ecc8f263bb6774e92ca1b53b7f2553951fcb8d4fd0081bf7a9e/mixer-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "2aafd70b7a3c4096f632164dbe7f6ca71fa5d46533e30c1243e0649eff6d6a38",
+        "url": "https://files.pythonhosted.org/packages/b0/79/5f260fd0699b3fb2df37a805efb55cc064257088d457f51ec860232a29fa/mixer-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "bd4e7eba4179a2ef12db4b147ae8179185d4ea170e65d46f8e66d46f487681de",
+        "url": "https://files.pythonhosted.org/packages/3b/0a/438c3f815878d1badaad8a3590f70c46b969f19fafab8e0e384f16836b80/mixer-1.1.3.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "c9d55b49eef103cf886e718452b21d1fa4eaf4bfd8baebfe2b8653f1aba78b31",
+        "url": "https://files.pythonhosted.org/packages/2e/80/9eec401f7d1d429470932d57f8c529c1eab934da9676448a9a58a85b274f/mixer-1.1.4.tar.gz"
+      },
+      "1.1.5": {
+        "sha256": "fef2caa255667cc3623a66bc9882cc31da9a1d476a69c007af31794d92c04f63",
+        "url": "https://files.pythonhosted.org/packages/94/f2/14073dfb17bbfcfea6a3d97cef25f910a5d605d79cefde4532517348eb53/mixer-1.1.5.tar.gz"
+      },
+      "1.1.6": {
+        "sha256": "490a967f573a4535839ef20f893fab6c2c162680d9a896af8fd21f71ea053c51",
+        "url": "https://files.pythonhosted.org/packages/b1/b6/83c688ca927fe1c5cb41a76704de23131f4c1b4d126b0a294b4dd1437fc8/mixer-1.1.6.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "121e1722e46761038dfa39b4412c4b20ef3ca4a73a5de58b5e295ec042b43649",
+        "url": "https://files.pythonhosted.org/packages/6a/54/e6294d6aa8911fd6950e42734f149cc34b607b2eec44f743c52c2f37b657/mixer-1.2.0.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "c002a8c6b85bc0cd9acda248237776b5306a601e14e3d350b41e22f2dd08a3cb",
+        "url": "https://files.pythonhosted.org/packages/8e/d3/1d1fccab62caa6d059b492fb315c5a4b9b9c9e4f0d7902f5ec359934fd0c/mixer-1.3.0.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "38e2022087c9a0971f67992d64f07c94dc8b0a85cbf213224405ba32841ef083",
+        "url": "https://files.pythonhosted.org/packages/07/93/899b3f221a273e64a5bb9b6a377c0ee232b61813905f19e14bd7319fa781/mixer-1.4.0.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "d225408822b9e09fcc9361851527ea707e3a8ff018b7d9a8a4c556c61815de90",
+        "url": "https://files.pythonhosted.org/packages/80/d3/be3e6334f1d52f4c4358f3c4ab6a1baf8c4fe0b51ee3b981b31762b1cb95/mixer-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "9196a44ae9c2cae47f3b991569bd511d3edca193f3607128027e810f47a23ff4",
+        "url": "https://files.pythonhosted.org/packages/79/73/95ed449a1acbcaabd648c6c5479f1d13b15ed9c062d7475f6e6526bcad23/mixer-1.5.1.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "ba73818fd3f0c3842f1ec70649acd7c73942dae5b52bd7318294441020adeda1",
+        "url": "https://files.pythonhosted.org/packages/19/80/39c487a2990dca459a9a93a811f8a106acba8fb64f793bbab0600ee818d7/mixer-1.6.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "7ed3f6d5b8d41b0105e3b02befda0a1aef26abea8aa8678db6e19c1dbf062670",
+        "url": "https://files.pythonhosted.org/packages/70/16/15d4054981e4c37128481155c32eb45617305a6cf2bb9dd24e9da159cd51/mixer-2.0.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "a47d1a543aa587d7a2126341ce1255cf64e39b64f4c2854b790ac7183c30c981",
+        "url": "https://files.pythonhosted.org/packages/be/d1/a2e7377d6f207ad52019b585cd701e7cd85b7d5f7f04a365530b63804634/mixer-2.0.1.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "ca5f629f01a3dcdee7abcb6304778709881ad8bcdbe924952a0ab14a522a3ccc",
+        "url": "https://files.pythonhosted.org/packages/bd/64/b6793bf8bb8289f436af09c5f24fc33b9778f94a40d65d4b64ec34edc837/mixer-2.1.0.tar.gz"
+      },
+      "2.2.0": {
+        "sha256": "8af51514ea84487d88a373f6810fefe5be71ef503bc474dbd2a1a55d03cf4b78",
+        "url": "https://files.pythonhosted.org/packages/29/eb/0be2a16540e4ac09adbbd815f5d2c8112c02a38ec2fda1e1a312e1e1f912/mixer-2.2.0.tar.gz"
+      },
+      "2.3.0": {
+        "sha256": "fe73f4f5ee114be7b96695596e06e19f9c55eff77d424c4e28340f48993e85c2",
+        "url": "https://files.pythonhosted.org/packages/8f/f8/eb79e11830428d454bd743ade3b61180034389e31f65e523ee4acb8c7cad/mixer-2.3.0.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "7e4207d4b89f65deed00a50c0bc83efac5bdaf59b8263c9f76aebf34eef57d29",
+        "url": "https://files.pythonhosted.org/packages/fa/26/23871e27dd8c6fdbe0b755284f1b648694b136b20dac2965a498265f2b4a/mixer-3.0.0.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "b56d00838886ecd5ded0b2ab5ebfa4093d8bbcf0f77426952f70647f1b53657c",
+        "url": "https://files.pythonhosted.org/packages/d7/49/9dadd9d6d9036dfbe71049190b2eff3668d867f1337935f32334d960553e/mixer-4.0.0.tar.gz"
+      },
+      "4.0.1": {
+        "sha256": "d89a1961be785564cfa7e327e1842aed191616906d586e9e0f9358da22f0e805",
+        "url": "https://files.pythonhosted.org/packages/d9/69/b2d1e4dd88715391c54a79ee0818d871f419d50c5d1535c7bf8a22cc2f98/mixer-4.0.1.tar.gz"
+      },
+      "4.0.2": {
+        "sha256": "e49fc2c8d5b924cbfedaa60d4effe2216d14d2de15f5d4a2fe33f8798fae6e27",
+        "url": "https://files.pythonhosted.org/packages/19/29/55f32b3d165165da064221f3dcf540e7c478856e077c0fb1731757c1b690/mixer-4.0.2.tar.gz"
+      },
+      "4.0.3": {
+        "sha256": "7b428dc6f97639dc57e919264bf5bc46baf80c5b6d5aec4d193aaf4756967536",
+        "url": "https://files.pythonhosted.org/packages/fb/5e/45b0cc19f0a19aacf2930318e141dfb6ddf6966d7aa1f9b59738b1e04feb/mixer-4.0.3.tar.gz"
+      },
+      "4.0.4": {
+        "sha256": "942ba007c6d7feb7fb370eca839991986ddb86f929ee35075b861cb439ac0be0",
+        "url": "https://files.pythonhosted.org/packages/04/66/45283c48d86e0c7ea8b35ec6189e764cc2f383006d336f7ad1d114a72039/mixer-4.0.4.tar.gz"
+      },
+      "4.0.5": {
+        "sha256": "f95524fc402061977e6d1690ad36267fc7ffd82aa09ab09139ecbb4f14d9a94e",
+        "url": "https://files.pythonhosted.org/packages/a9/db/70fd39910f022d0bfff797b48eef0e73886df5e82aaed17cc36185f76715/mixer-4.0.5.tar.gz"
+      },
+      "4.0.6": {
+        "sha256": "71fe39d7224dc07ba531efd65f6ed2c5309c6af56fbf409296cf735963cb9d43",
+        "url": "https://files.pythonhosted.org/packages/12/49/8426b9daa51cb994a5c42350a173c71a7dd1035ce7a7d3b28a69f8442d1e/mixer-4.0.6.tar.gz"
+      },
+      "4.0.7": {
+        "sha256": "e577e8fc589be1b434f4b1116e3587c630773751a8d0e60ca8b9180e094a5a0c",
+        "url": "https://files.pythonhosted.org/packages/fb/37/4aad34fe26dd83ba84cc6d2550469a4d90c7e37fbbfce15f942616a5ddf5/mixer-4.0.7.tar.gz"
+      },
+      "4.1.0": {
+        "sha256": "a2390e86b24f82597a1106942e2146c2b118472cfa8f4c84f5b1d8060c108738",
+        "url": "https://files.pythonhosted.org/packages/8b/79/ccb30808294c1eadc956fb054a8b0324ab2daadc5ab079d80272739f3d2b/mixer-4.1.0.tar.gz"
+      },
+      "4.10.0": {
+        "sha256": "e6e6c457ef1344eb10b80cf3f51a4ec969981b92509b5c0d4df0c530a6516b62",
+        "url": "https://files.pythonhosted.org/packages/46/58/bd93c0fc80b38498216cc53cf4ac7079932eff27f64fc9a51a7e127968ab/mixer-4.10.0.tar.gz"
+      },
+      "4.10.1": {
+        "sha256": "37c7fc653c217ff5ff59164057fe2168455aee4feb316bcd916c166eaecd3df4",
+        "url": "https://files.pythonhosted.org/packages/d4/5d/514c404ac47107a9e42cb89500b39c5d942e70e414fea461eff76fbc72ee/mixer-4.10.1.tar.gz"
+      },
+      "4.10.2": {
+        "sha256": "20ab50e9c4ed373acee39f31e1e67927578d962155da0c56dd8dd5ee619c3430",
+        "url": "https://files.pythonhosted.org/packages/a6/78/93d8c2d2b57cddfc056aacf50633f440c634f6d334f6a9c6eeb029964e4b/mixer-4.10.2.tar.gz"
+      },
+      "4.2.0": {
+        "sha256": "fc0d145e258042938536ef05b26e30f7ecd2739efcee67b52f310c27881ec019",
+        "url": "https://files.pythonhosted.org/packages/73/ac/5c3edd5b33c4711231a735cd0e84b572718998ab1a6151755c016718f492/mixer-4.2.0.tar.gz"
+      },
+      "4.3.0": {
+        "sha256": "7196b30a07ea9246a864ddb2234d10ad1737440a75012db97c6f8ff819c001ed",
+        "url": "https://files.pythonhosted.org/packages/a5/d0/3e2dc213c1f72cda13a8e9b1d7b8043cca6bcdfb9e5951b933a06c4bae0a/mixer-4.3.0.tar.gz"
+      },
+      "4.3.1": {
+        "sha256": "de5c553b30b2d08abee67cd3e89cff2c955bb6daf3898f32d6331d51ba399a06",
+        "url": "https://files.pythonhosted.org/packages/ea/6c/c99d47425bb332b139c62d0807e742986b0276f7176f9cf1cf4338ec6791/mixer-4.3.1.tar.gz"
+      },
+      "4.3.2": {
+        "sha256": "73174e4ea40c344fbed10dbc4c3712876bb18974464bd602b220ddae7c7d3209",
+        "url": "https://files.pythonhosted.org/packages/69/f6/5d5fd90cd3e313ba805f35fb4341061bbdfcff968c8466e19b19a43785f8/mixer-4.3.2.tar.gz"
+      },
+      "4.4.0": {
+        "sha256": "41885875e1e643ecf1800e54e2ab4d517b1f951e1b7678217a08ce73cbc15a97",
+        "url": "https://files.pythonhosted.org/packages/44/32/09525bfe3ebbc8680f84715965752e3e04096f1d62bd6b89c9712fbc4c04/mixer-4.4.0.tar.gz"
+      },
+      "4.5.0": {
+        "sha256": "d56ba5766a6b5605853c03ea48220b2a62387d32c528c8bd1fdab9ca2adef896",
+        "url": "https://files.pythonhosted.org/packages/f3/f1/55ad73c06789d97871fa1a9ddf519f3854c191106e6593901779bc4f5833/mixer-4.5.0.tar.gz"
+      },
+      "4.5.1": {
+        "sha256": "5e54f9e116eb877a911bb02d6a661ad1f267ae91d8cc34883891be1d6dcf1862",
+        "url": "https://files.pythonhosted.org/packages/79/1c/6c807386dc12ec276709af4c45bc527603c66ee6a652a73175388014dbf7/mixer-4.5.1.tar.gz"
+      },
+      "4.5.2": {
+        "sha256": "ac020d965dd7ec2ec444e915619c0b9e57e791e6529ad3364b1ea26e6534044b",
+        "url": "https://files.pythonhosted.org/packages/90/82/d6dabeb07aca44d93338e30abb581b019a2c90fc1824439e081cecd16680/mixer-4.5.2.tar.gz"
+      },
+      "4.5.3": {
+        "sha256": "ce59474a8f7b77dbf8975e45d4546375012d64aef6fb897a667ea0de9683b36b",
+        "url": "https://files.pythonhosted.org/packages/6a/63/5de1866962853b317813ea71b19506cab55d2715f889da381fd8c876a26b/mixer-4.5.3.tar.gz"
+      },
+      "4.5.4": {
+        "sha256": "52efaf9795b9669beea09ed474dc99d269474dcaf767b445258b3e2a40438b2c",
+        "url": "https://files.pythonhosted.org/packages/ec/a8/a30b2d1a7035e3041df24893f0374ec498ab0037b84911663e6d8fdc3be9/mixer-4.5.4.tar.gz"
+      },
+      "4.5.5": {
+        "sha256": "4286795fa7f1230c5da30b6a4e60c930d78c95aa2200fd823ca65713021e7755",
+        "url": "https://files.pythonhosted.org/packages/cc/6f/c0a6b96991079866fb21597c1f7cbaae812c4531d765bdc032d35163d73a/mixer-4.5.5.tar.gz"
+      },
+      "4.6.0": {
+        "sha256": "219e543cd78a7915699fd7da7d79de983a629ccb725f745883a02bf3be61af56",
+        "url": "https://files.pythonhosted.org/packages/d4/23/4bfab1b6ebd5dfd599cec3958304547a8b2dbd5ba4a6eff6b2cfca68975d/mixer-4.6.0.tar.gz"
+      },
+      "4.6.1": {
+        "sha256": "ae92dbb46aea0b564b9f6bf828b852d9dd0e19bfe4c27ad57ef45b790a4b8a75",
+        "url": "https://files.pythonhosted.org/packages/15/43/283cfee761f73058e7e3d7a800ef5e8b276ea2a4ad1848fad730e7058348/mixer-4.6.1.tar.gz"
+      },
+      "4.6.2": {
+        "sha256": "0b2193ac48774b1a3144335a28afa62a90b4676959079c07917325ac6c76aee7",
+        "url": "https://files.pythonhosted.org/packages/f6/3f/44b885c1e959398cc3fc59973c8f65c13b7356ba4b506286b74bc2123fe6/mixer-4.6.2.tar.gz"
+      },
+      "4.7.0": {
+        "sha256": "c5f68a84d99d8a26abcebe14aadcf70bf3eaae7e77291233e956ef5922012382",
+        "url": "https://files.pythonhosted.org/packages/19/64/0be814dfd4f666e76d292fddf783f7f390f27e4d9175494f90f0769116d1/mixer-4.7.0.tar.gz"
+      },
+      "4.7.1": {
+        "sha256": "6b64c1a24fe51d00c37732b65904cccb0322309ba1982e2d56e90bba023f5862",
+        "url": "https://files.pythonhosted.org/packages/71/52/bb291bb59545b21944abc0970eac294e10591f052a0ea9ec4c8c8e778b89/mixer-4.7.1.tar.gz"
+      },
+      "4.7.2": {
+        "sha256": "4b8d32a60fc901aa1063e0505d06b178e514cb35bcbeda2205bf2f56023ac84a",
+        "url": "https://files.pythonhosted.org/packages/37/d5/288abebda9372572b4d6757d0dbef47304adeeaad6cb8b2213e81e1d59df/mixer-4.7.2.tar.gz"
+      },
+      "4.7.3": {
+        "sha256": "96d48dc5fd90bfe0bae146fbc59d8ee076f75f357a8103e425879cde80fedf16",
+        "url": "https://files.pythonhosted.org/packages/3e/b9/4f055d9e8c29c62747cd656ab9b16567daed1f3a9bcbce8bb6c439722099/mixer-4.7.3.tar.gz"
+      },
+      "4.7.4": {
+        "sha256": "daa9c696c62019bcd1385b30ced998f1a0cd90c406b7d3f965127d701adc5fe0",
+        "url": "https://files.pythonhosted.org/packages/ef/38/8e93107d0246c1d6021246b1e34e74de28b8cb7a778a7e2529c0390cd7f1/mixer-4.7.4.tar.gz"
+      },
+      "4.7.5": {
+        "sha256": "452da93b17a6e33e3c8254f05e84a25043480e89d84f488552848c70271d8f6f",
+        "url": "https://files.pythonhosted.org/packages/11/08/f256e4d5a74043570c00ae9821415f7a9c3ad815d836b753fd5091a530b8/mixer-4.7.5.tar.gz"
+      },
+      "4.8.0": {
+        "sha256": "78415ff59dcbf32c13b1f3ed0095122cb61848d9d786738365eda2a0f92f4fc9",
+        "url": "https://files.pythonhosted.org/packages/46/be/d6d5a745ff38e0c570d417289aeb517a769433c952351ccf71ad51b79a8a/mixer-4.8.0.tar.gz"
+      },
+      "4.8.1": {
+        "sha256": "0518cc53937eb0181d14105c63d9e78efa34deaaed4d87c5ac1c753bb2e7a083",
+        "url": "https://files.pythonhosted.org/packages/8e/21/f6f5e4f19d5e999a1bc2899916cac8cf91c7e37a0537789a856cd1ade8a6/mixer-4.8.1.tar.gz"
+      },
+      "4.9.1": {
+        "sha256": "c48a4c17f846a1212ab5f77d0520f30ae1597800664c5af3ab580a92247a3d3d",
+        "url": "https://files.pythonhosted.org/packages/3d/99/05aa6030553f2d135488c40e644d707d77071248af588574041a5f43658a/mixer-4.9.1.tar.gz"
+      },
+      "4.9.2": {
+        "sha256": "0f317bc1f0e441eb05454540e0fc5238cd85b7f4d8d1a89b713f233af72a2d41",
+        "url": "https://files.pythonhosted.org/packages/af/96/d64f0420112ee5ff6c9dcb7b8eadb66b07b5e5b10540d33ef28b4e8b4412/mixer-4.9.2.tar.gz"
+      },
+      "4.9.3": {
+        "sha256": "5ca41da6de7dcb9b99b4ed55a9eac80f0fe14504c2f346d8c95163671e8fd297",
+        "url": "https://files.pythonhosted.org/packages/98/e3/2ea4835f24ffc7ca689668d0933ca2095a8b74743733705cae3f4b7bf9a0/mixer-4.9.3.tar.gz"
+      },
+      "4.9.4": {
+        "sha256": "04f2102d89af0bd0839e06602473337b931e02c6811ba5a1dbee02913d72622b",
+        "url": "https://files.pythonhosted.org/packages/99/e8/3a5bd39a5c6d0601b3d46d8e9c567efd6c4bd8dc28f837080c6d76b94790/mixer-4.9.4.tar.gz"
+      },
+      "4.9.5": {
+        "sha256": "a68fe2782ee4b59351a2b7c625453a11772becf148715ba96d2e01336caa9c97",
+        "url": "https://files.pythonhosted.org/packages/12/bb/f50496f1ee0e4234a721c20db2ded19999d67372e3b4e71a073c809f6877/mixer-4.9.5.tar.gz"
+      },
+      "4.9.6": {
+        "sha256": "163ca2686285bf7a750eeecd3ffabdb869294f8b434ab5d6c036cbca36dbba7c",
+        "url": "https://files.pythonhosted.org/packages/26/ed/7cb8c6b9abb1e17f097e66fa4550f79753afe67f8b893c09ec566531abe0/mixer-4.9.6.tar.gz"
+      },
+      "5.0.1": {
+        "sha256": "20919484087b51e105c4f04f52335aa591f5e9beb019dffa52969e4f111afeb9",
+        "url": "https://files.pythonhosted.org/packages/50/7d/8d039cca3392dc06dba2542bbcc7099fad24f03684ac625233a679437fe1/mixer-5.0.1.tar.gz"
+      },
+      "5.0.10": {
+        "sha256": "d4a8624aaba3d612810e440cb06ec73dfda312f0376ac55d16d96342cb0ac495",
+        "url": "https://files.pythonhosted.org/packages/5e/95/f97ca3af6c1eb591bf77dbb8966bf2ab4cb9f66678f281d2e489bb1ede06/mixer-5.0.10.tar.gz"
+      },
+      "5.0.11": {
+        "sha256": "3e864a210de6c1dd3217340dce622fb389b9769ed6e5a42d985dd1cb001bad1c",
+        "url": "https://files.pythonhosted.org/packages/87/91/fbc6bf667161c163ef226c13ae4c91fff669fc4175c82525a68e864ef830/mixer-5.0.11.tar.gz"
+      },
+      "5.0.12": {
+        "sha256": "0881e7044a73676325c0c585c7b04cb7d6020cc2265f7b6b38a183ed633e6611",
+        "url": "https://files.pythonhosted.org/packages/79/9a/71766714c61770d20f0e6a70694fd770e2de56c54f53d48455179b5d6147/mixer-5.0.12.tar.gz"
+      },
+      "5.0.2": {
+        "sha256": "5ea937a953faebbe436c21774f58ae580550c81f0ea00fe6e0c66c0b97f4c282",
+        "url": "https://files.pythonhosted.org/packages/23/32/95331d5e0ccdfd0c2469c54c420263babc786255b0696bbaf1398ad049d5/mixer-5.0.2.tar.gz"
+      },
+      "5.0.3": {
+        "sha256": "9f4979392e3a1b58bed7d1b71edbe8f01aab2524d787210efeb90e7f436e04f4",
+        "url": "https://files.pythonhosted.org/packages/87/a8/7679aec6ccbcd34e2b524402b78bcbc249de95ea2d600458c8da2a96fc0e/mixer-5.0.3.tar.gz"
+      },
+      "5.0.4": {
+        "sha256": "5344cc519ae443e2daaf6cbaf8c34c91e820b700875abb27d64e4649c71c92fb",
+        "url": "https://files.pythonhosted.org/packages/00/88/3295e8facb522d02304b192355158bd21778ebdfb10f30d1a5c2a9eb74f1/mixer-5.0.4.tar.gz"
+      },
+      "5.0.5": {
+        "sha256": "3b6c60b0b1f298f6a759541093d1c1e9038349c344245166a36e1dbf6725323d",
+        "url": "https://files.pythonhosted.org/packages/7e/60/258c13465606fa418fa7706f6ed042e1b391560c02bc1476c80aa3ef1a97/mixer-5.0.5.tar.gz"
+      },
+      "5.0.6": {
+        "sha256": "391ba079712ec73b61099c683c786198359c6ffc81eaf271ff8fd0fc501d0cad",
+        "url": "https://files.pythonhosted.org/packages/2e/e8/94fca5be6bd1d8459b4cad05240eb68acb92688fbb91f9afa8f1141f9be5/mixer-5.0.6.tar.gz"
+      },
+      "5.0.7": {
+        "sha256": "e0c7a57eea99523467c9d1a1cde5ce015b263642b6eaae35c4856ab26c2dda5f",
+        "url": "https://files.pythonhosted.org/packages/06/d2/91e652fb076fa9a8dc4081af157050ea8e826b81953fcc85f02aed7f595e/mixer-5.0.7.tar.gz"
+      },
+      "5.0.8": {
+        "sha256": "0bb68c636bd499c5ad97a5bd2a19006e7de55037f43bf572a99e42944a5f0b2f",
+        "url": "https://files.pythonhosted.org/packages/86/2c/2c1370b61e3773dc1af89007c246a7b1f1893d4a55d7dd10970747238e12/mixer-5.0.8.tar.gz"
+      },
+      "5.0.9": {
+        "sha256": "d86cc6192ac9864cb12310d1cd85b4d9ccbfccd8990787c008c16dd80b10321e",
+        "url": "https://files.pythonhosted.org/packages/40/38/2ff7a873f2def8174393aa394d8847e3163ca144597196affe5002094086/mixer-5.0.9.tar.gz"
+      },
+      "5.1.0": {
+        "sha256": "577012f11b4db692c941a7092660405e7856d6f16d79c19d2cab6c46223d7b44",
+        "url": "https://files.pythonhosted.org/packages/d6/5a/459399a935c8af65bda2626bdcc403538c3e773087410d4a8601a30a7a4f/mixer-5.1.0.tar.gz"
+      },
+      "5.1.1": {
+        "sha256": "bb17d1a2121ef6ac13a2e52c6efd52ffd75c7921a369f7d146302b19406825b3",
+        "url": "https://files.pythonhosted.org/packages/fa/1e/ecb4ec02d77ed2eede19f34e341a5288af978c00eda6338b574e913fce5d/mixer-5.1.1.tar.gz"
+      },
+      "5.1.10": {
+        "sha256": "212ac9cb9852090bf83d13b26012c0bec79da06a32287148719cbddd0a23430f",
+        "url": "https://files.pythonhosted.org/packages/92/ab/dc0f534dc3addb86b0ddafeb2313b69d184edb51c4081e88835d95fa8535/mixer-5.1.10.tar.gz"
+      },
+      "5.1.2": {
+        "sha256": "3ffce9bd67d62b9d7d4194702e35762725d8300479c7219f60c5e6117131cbcf",
+        "url": "https://files.pythonhosted.org/packages/ab/fd/a7042ec7d8f038eea67f198675abc8c63f29c34567e8e1f0f3f02b126c45/mixer-5.1.2.tar.gz"
+      },
+      "5.1.3": {
+        "sha256": "bfd31dcf46c5ac0f29defa8a7d025a29f61334d6d57bc0da67407ec014ac8514",
+        "url": "https://files.pythonhosted.org/packages/cf/02/536cc3868c1e65918eeb4ad70baeda27bda2629bd743b1e06ffca80df35c/mixer-5.1.3.tar.gz"
+      },
+      "5.1.4": {
+        "sha256": "ae9eae6f1da438c47ab8d86330e3b8e4f2790ff589ecda4e9702be62fdad35d7",
+        "url": "https://files.pythonhosted.org/packages/da/ea/03798ee7a1a157b31f74c4b529c5094a3553c475ef7de294ecd08b1a7957/mixer-5.1.4.tar.gz"
+      },
+      "5.1.5": {
+        "sha256": "26c8e78f30c1bc187306bd347f304dc02eaf66ddf7e85e72d62488e02039f432",
+        "url": "https://files.pythonhosted.org/packages/82/c2/8e1935cf56be4607ca01b2757d464d016b0f4fbb99baa607dd123d7c3fbc/mixer-5.1.5.tar.gz"
+      },
+      "5.1.6": {
+        "sha256": "0bc73dce04636788fde9bea79eb15bf232e7c47fa7e1f1b7f8958597495bed5a",
+        "url": "https://files.pythonhosted.org/packages/f0/3b/a39a9314896b1c15696f0668e9523440b61aa4f8e431fd88d243a01f7c7f/mixer-5.1.6.tar.gz"
+      },
+      "5.1.7": {
+        "sha256": "a204bdec76355249e393d3e21ca60965dbeb30e2dfdb88a2943187e515860e94",
+        "url": "https://files.pythonhosted.org/packages/29/d9/06525f7fdbac10fb419be2b9b5b1c1ab860d28e60444795d701d80f1e472/mixer-5.1.7.tar.gz"
+      },
+      "5.1.8": {
+        "sha256": "82ba84878beefbb84e3295ea2a9700ff6ae8db174270aa9c94657d64fc6154d9",
+        "url": "https://files.pythonhosted.org/packages/59/53/73935012d3347ae5db71f47ce5a82b406a1b5edf618767f4a10f09ed0198/mixer-5.1.8.tar.gz"
+      },
+      "5.2.0": {
+        "sha256": "2068e190253183248e3426753e8cc1bd1cb4d227aee7ce1d6c1e5418fc1bf1f1",
+        "url": "https://files.pythonhosted.org/packages/56/b4/6bd7ea8e5d43f845aa7045c01ffcbb6c76f5402cf6653b586fa5c7df434e/mixer-5.2.0.tar.gz"
+      },
+      "5.2.1": {
+        "sha256": "2f1a3230298c8d892bdf1531f08cc7b044c635e365b027d5bfc5ef3d47210f86",
+        "url": "https://files.pythonhosted.org/packages/1e/40/9c081537f6269699b974ed04936f1d03b166fc37458bd7f22265dcac5204/mixer-5.2.1.tar.gz"
+      },
+      "5.2.2": {
+        "sha256": "2f04e113add5a958b0f002b80d8534938f8b21a0a304cc94926e435ac92e4afa",
+        "url": "https://files.pythonhosted.org/packages/df/23/ec5d7ab96081a81e0e6fc08101781cd0eb863d570405f5fb5ed2e5142a6a/mixer-5.2.2.tar.gz"
+      },
+      "5.3.0": {
+        "sha256": "ae5b5f717ae403e8f51563446b77b2ebfa1c938fb9547b6f2eb25c0ae9e1fbbe",
+        "url": "https://files.pythonhosted.org/packages/12/9d/2d4ac716e5d75db54c76c3497fc68a148c45a59237417121679f546f1307/mixer-5.3.0.tar.gz"
+      },
+      "5.3.1": {
+        "sha256": "9b11d1fde7a28ef5fcc5fefa3edfceb098d91e4818d36cec1ba04f8c86b00ed1",
+        "url": "https://files.pythonhosted.org/packages/41/51/523cb9457ca76c916b613eeec131c9c5bb542ad3d764bdb5faba07d0cc33/mixer-5.3.1.tar.gz"
+      },
+      "5.4.0": {
+        "sha256": "0aaefc774fc9b82789289e2fdd9be595b6bb467bbc0d7739e3370d5426319637",
+        "url": "https://files.pythonhosted.org/packages/a6/4e/1389560095d96990e92ee14a3e93b52e40019380f5646d0eeba7fc38f41e/mixer-5.4.0.tar.gz"
+      },
+      "5.4.1": {
+        "sha256": "0da16847191466791c184b0ff8795a5d2cb8d498cf2a7ad3f9e415a13d2fd18a",
+        "url": "https://files.pythonhosted.org/packages/ec/25/14fdf3449258bdac73838479efb97c693c3a3ca25947c2cdccd7d73e8888/mixer-5.4.1.tar.gz"
+      },
+      "5.5.0": {
+        "sha256": "5ed75d7c07afb8da5f257eb21da9287f1bdc3d5a616c316448438e61af0e0bdd",
+        "url": "https://files.pythonhosted.org/packages/df/0c/780f103ce86db6d02f0b30e1ce85f6c119cbf7618becfd10077b51370041/mixer-5.5.0.tar.gz"
+      },
+      "5.5.1": {
+        "sha256": "8cb39d7375f2c46aa716a110abf60c3d00a190669dfa6de59ee87399f11e15f6",
+        "url": "https://files.pythonhosted.org/packages/7a/ac/5af14b65fc019a601f2200d8e279a2b7c840d81af7a9a2cb91b24a214e31/mixer-5.5.1.tar.gz"
+      },
+      "5.5.2": {
+        "sha256": "ff4b2390ed1d7293be224ea88093ea2d42e8371a2c1fe71c315d9b83da835767",
+        "url": "https://files.pythonhosted.org/packages/9e/09/2fc0e165ff4b20d688f175bacf31ac3aa30764cbc772a73348c205207303/mixer-5.5.2-py2.py3-none-any.whl"
+      },
+      "5.5.3": {
+        "sha256": "ae67fa47f01192ef4b63d725a409b89d3a1d7e9974bac4a7940455b95800132d",
+        "url": "https://files.pythonhosted.org/packages/f9/b4/8080dd9cbb7eddfb438af6489f3502d31f89e16e40d249a9397ff3b352dd/mixer-5.5.3.tar.gz"
+      },
+      "5.5.4": {
+        "sha256": "60b7fcdc23c39b669d7555875825436265104366d6a3cb58175715eb15dae290",
+        "url": "https://files.pythonhosted.org/packages/ac/6b/74d70aa68cb940072f161a3716e4de7c9eb89e599a91f24d4eaea3351540/mixer-5.5.4.tar.gz"
+      },
+      "5.5.5": {
+        "sha256": "cbcf3584d4b5b62e3685fd5bac4c3631d99a17e3cf4b83aa4bca125f1ed92052",
+        "url": "https://files.pythonhosted.org/packages/62/0f/2ca83f14f32677347f403280cde47f17934c2ddbd0eb0fcf9260fb82fe0a/mixer-5.5.5.tar.gz"
+      },
+      "5.5.6": {
+        "sha256": "95392e6c37e74292ea51cb646ab17a8f1f9cfbd896bfcd367c94ff593444483f",
+        "url": "https://files.pythonhosted.org/packages/dc/15/b7b34313d6346995786d6cac025eed8fba46e001e45999310625c6798a82/mixer-5.5.6.tar.gz"
+      },
+      "5.5.7": {
+        "sha256": "847f085f86b861a76a0cd1a9d23f83838ec3619ca20c3d79a7161e035b6a77b3",
+        "url": "https://files.pythonhosted.org/packages/61/03/ad2fc50e0fd5beb1b270453db176d830e5a57c0b56e4e0d100f9185734c8/mixer-5.5.7.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "latest_version": [
+    "4.1"
+  ],
+  "meta": {
+    "description": "Code coverage measurement for Python",
+    "homepage": "https://coverage.readthedocs.io",
+    "license": "Apache 2.0"
+  },
+  "versions": [
+    {
+      "3.0": {
+        "sha256": "d89bfa53c519d154cffd8295f63eaa226142cfbba98bd1cb8a02bd0da4b536dc",
+        "url": "https://files.pythonhosted.org/packages/7f/9f/105f485c2d68ba611b90ac00f717b1c8fbb5d2229ce9e17d9f6c21385aab/coverage-3.0.tar.gz"
+      },
+      "3.0.1": {
+        "sha256": "ab53a0ff0c555c1a11d38ca45afc618af83611ea5829a7f97e8b620376ff3bb4",
+        "url": "https://files.pythonhosted.org/packages/77/90/8f896bfa421794a110af30ae8e9ae27680b683d991f783052e87911f8866/coverage-3.0.1.tar.gz"
+      },
+      "3.0b3": {
+        "sha256": "5a9217518a7f83368b513b398cc6310f495ba4707a73d803bcfd0473ad07161b",
+        "url": "https://files.pythonhosted.org/packages/b1/21/4c5340279ea7f4e1b55f7eb942e642477b245feecd65672508e630408cb8/coverage-3.0b3.tar.gz"
+      },
+      "3.1": {
+        "sha256": "55b5711853e43ef32fe77d6da3c4e24bf3223a28d188186b05c30d5081426aea",
+        "url": "https://files.pythonhosted.org/packages/50/34/9ecc615c1142b7864f4883dc83f5cf335caf1fc4b6fcc6dbd91a1ebc0ae4/coverage-3.1.tar.gz"
+      },
+      "3.1b1": {
+        "sha256": "53b0cb7e05d13ab85c4413afe752ec8c64dcba58b07ce9880d49230e1d32c733",
+        "url": "https://files.pythonhosted.org/packages/4d/26/59c726162625ef6b2cd708e5b5a38c8d65acf0c71a03c3290457948d9024/coverage-3.1b1.tar.gz"
+      },
+      "3.2": {
+        "sha256": "b117c6dd1b1efc7d34c122bf9b341bc010a8fbeafa0cee8e5f3689de3ca21043",
+        "url": "https://files.pythonhosted.org/packages/f4/24/b4d937a5bca9ade0d790677330dbf6f5d156330f8a043e637c2c402a6884/coverage-3.2.tar.gz"
+      },
+      "3.2b1": {
+        "sha256": "88f1ee0906233ca2473eb97b611cf2af5075693a330fa3af3a1f67e99afbc597",
+        "url": "https://files.pythonhosted.org/packages/81/64/79cfa8cba102698c111baf1bccf44e62abc2731a62e16a30ccd96c02f25a/coverage-3.2b1.tar.gz"
+      },
+      "3.2b2": {
+        "sha256": "64c5a14faddfb762180489727f0e200c3cd04b907f5d9ee348e4520ae9994481",
+        "url": "https://files.pythonhosted.org/packages/dd/6f/990fa467c257b018ccca3fc233c4cdcdc592b5557063174e144731144eb1/coverage-3.2b2.tar.gz"
+      },
+      "3.2b3": {
+        "sha256": "e6d05767c9b4fadff31c82e39b173a8a8204373e1e02716686fad8e488796543",
+        "url": "https://files.pythonhosted.org/packages/fd/b4/48ffbe59da4efaeddbcd0e0384b8701e4388e9b64a948a39f072508b99eb/coverage-3.2b3.tar.gz"
+      },
+      "3.2b4": {
+        "sha256": "34d49e527b3d86eee8ad51b2870839b8f442f87ac74b692e5cd10810ddf00033",
+        "url": "https://files.pythonhosted.org/packages/88/e5/1381802ff72e21411fd199d312a2f0329b74e4eb7ed08a21bf86c95baa95/coverage-3.2b4.tar.gz"
+      },
+      "3.3": {
+        "sha256": "fc8aede1216ac1cd6988312bb33da3b006a8fc4a0023a8aeb6337e29c2053402",
+        "url": "https://files.pythonhosted.org/packages/9b/81/b663cfbd0e73713741a9ddfb505e235d662622b39fe2a2375848fba1a701/coverage-3.3.tar.gz"
+      },
+      "3.3.1": {
+        "sha256": "aa7cfd4eb4177be4268a6c7bf3e52f2c3578fbe7598129cb6926d90d1025fddf",
+        "url": "https://files.pythonhosted.org/packages/fe/94/e3fd2346dfd382cc8d2d6c69a973e9f8c2fe4b21ab12c165dc0f55ad54b9/coverage-3.3.1.tar.gz"
+      },
+      "3.4": {
+        "sha256": "ac8a28fbe4a5d3ece87c731a9de08eaaa5357179856d43cb5c3756c709ff8e12",
+        "url": "https://files.pythonhosted.org/packages/44/c4/336326ce91c63f5bc321f9f8f1dac42787aaf802eb70f72c9ebb453bbb83/coverage-3.4.tar.gz"
+      },
+      "3.4b1": {
+        "sha256": "4bb5e969f94d7641895961a560058182227a5dad226e0e47f3120568d7e093c7",
+        "url": "https://files.pythonhosted.org/packages/11/77/19ee7e2f0d94a4889b231db1747d2540cc1f40c535361154593724e0340c/coverage-3.4b1.tar.gz"
+      },
+      "3.4b2": {
+        "sha256": "5ca349bd7257bb970ec0d139eaa91fff424302e661ad75b819e09bed12c1d1eb",
+        "url": "https://files.pythonhosted.org/packages/ac/94/e0f17418221dbefc4ef3025c8e768066ab64becfe8d33c5f6b3edc4f6bc6/coverage-3.4b2.tar.gz"
+      },
+      "3.5": {
+        "sha256": "b181d5ec72baf7478942fd600503d9f32bb525cfca413b1c73ebfa7ff1b95ae9",
+        "url": "https://files.pythonhosted.org/packages/d9/28/2b43632231daa55af31907a0c989bc4f069201a125ed5bfa304bcf806c53/coverage-3.5.tar.gz"
+      },
+      "3.5.1": {
+        "sha256": "baae44f36d7b4028ae57ebcfe47a541363a8d2cd0c58a4b90538d0944d2282a0",
+        "url": "https://files.pythonhosted.org/packages/69/25/e13e994dc212925cc68eaad648794814634ce5f99aa6485a95bf1c3fd765/coverage-3.5.1.tar.gz"
+      },
+      "3.5.1b1": {
+        "sha256": "ca2dd40d47d4848fdf06d6920a0000710179a4176979c0647aaa5ccdcf5d0e6b",
+        "url": "https://files.pythonhosted.org/packages/6e/45/e9b3179f8077f8e9bd57b5c6b52dad6bee02ab6a127c91c63652b35644f9/coverage-3.5.1b1.tar.gz"
+      },
+      "3.5.2": {
+        "sha256": "b9e0dc65e42236a3c9b8978701bc9e7298ed7e24d39f99ea2ba4b945d537fe55",
+        "url": "https://files.pythonhosted.org/packages/8b/47/14015cd3d695bb5aa4b8d10095815e5a65eaf67bc9a6e2b1e482e9619bf2/coverage-3.5.2.tar.gz"
+      },
+      "3.5.2b1": {
+        "sha256": "3943dc2f6fcd23dd0a96088e25afc35a251f3fd71144ac6fd33fb5f42da8d91e",
+        "url": "https://files.pythonhosted.org/packages/b0/3a/e83787aeb8316deca38b01060ba6b1d1ebd803b005d9bab0981aaf519979/coverage-3.5.2b1.tar.gz"
+      },
+      "3.5.3": {
+        "sha256": "60c6e95979d71175eb8acb7ca2def14c72794de418fd9222011f68283eb3cc02",
+        "url": "https://files.pythonhosted.org/packages/8b/74/153a1483580a5401205ce4520fa79e9e450cf4ef2f3efdd8591ab78f20a4/coverage-3.5.3.tar.gz"
+      },
+      "3.5b1": {
+        "sha256": "ae04f590a3023b2cdde7733be42ae1224e31fc0fd6714d43a335020c12b8c62f",
+        "url": "https://files.pythonhosted.org/packages/4b/6a/3871c99055e3ec54aa7d4536370c4cc6f5fc8a434ca191e6f26a005574bb/coverage-3.5b1.tar.gz"
+      },
+      "3.6": {
+        "sha256": "df3bf169d4727f3fad146ca715a49a1f72a8258689651ef9de908022e739700d",
+        "url": "https://files.pythonhosted.org/packages/d2/2d/e15d38b0a34a3e88e3c164a7ec04ed43f45869c20304db13875b24002506/coverage-3.6.tar.gz"
+      },
+      "3.6b1": {
+        "sha256": "7f308d66fdf55cd649c3d8dc4da60a6e248db0914d2ef6fbd26204769e5c4408",
+        "url": "https://files.pythonhosted.org/packages/5d/4c/4402b82d262bb30217338185c64ed4461033ea76ab719643a55d47e731f8/coverage-3.6b1.tar.gz"
+      },
+      "3.6b2": {
+        "sha256": "70cda7f73ef109b266f623146d688a9f230edd21d77f04d9c8bea46d18e3a5d8",
+        "url": "https://files.pythonhosted.org/packages/22/77/bf88ac1662f30ec9c8c4c56dce4409b4352d6e94f8bd01f70c4f0a985387/coverage-3.6b2.tar.gz"
+      },
+      "3.6b3": {
+        "sha256": "a483fb9b08079719b593a3fb531003d8eb8e8eef8077450c323d12641cd96e00",
+        "url": "https://files.pythonhosted.org/packages/02/e5/328aa8925f799e657a02202a28df674726582764dc607468b6aaf9cea3f3/coverage-3.6b3.tar.gz"
+      },
+      "3.7": {
+        "sha256": "c50ee4c391a083d87e2345b0094a7ec24a07b98b4e435f134d02a62ea3827fdb",
+        "url": "https://files.pythonhosted.org/packages/0b/a1/d0fcb2304248370b36eaf4250ae3c6993b93ecd442613a75c9c2682598c5/coverage-3.7.tar.gz"
+      },
+      "3.7.1": {
+        "sha256": "d1aea1c4aa61b8366d6a42dd3650622fbf9c634ed24eaf7f379c8b970e5ed44e",
+        "url": "https://files.pythonhosted.org/packages/09/4f/89b06c7fdc09687bca507dc411c342556ef9c5a3b26756137a4878ff19bf/coverage-3.7.1.tar.gz"
+      },
+      "4.0": {
+        "sha256": "b1244343e39cb2835f9c89c2d8fbcad8e4a5b4945344b434a4d8b6e9e7431390",
+        "url": "https://files.pythonhosted.org/packages/b6/1f/51dd99a422428771bd4c787bcac71fe4051fbfa0e33480b3d522192b75b3/coverage-4.0.tar.gz"
+      },
+      "4.0.1": {
+        "sha256": "bc10f57a83863e8ca8916f763f13b4b249e2f85b553df3958281cb7f4f402d5b",
+        "url": "https://files.pythonhosted.org/packages/57/53/4ef875c9f92ddd5cbbbb8b3db9e69f3284caccda309ed6b83f5699b8fcc6/coverage-4.0.1.tar.gz"
+      },
+      "4.0.2": {
+        "sha256": "a9bac9b1d17f0c776e3e575f42cf2572a0eab240a223945238719e0982ff28bb",
+        "url": "https://files.pythonhosted.org/packages/bd/b9/75530b54579daab219070fdb090191e9d66afaff54c84f6553226bc73708/coverage-4.0.2.tar.gz"
+      },
+      "4.0.3": {
+        "sha256": "85b1275b6d7a61ccc8024a4e9a4c9e896394776edce1a5d075ec116f91925462",
+        "url": "https://files.pythonhosted.org/packages/76/b4/3777a6bae434240b1fcbbda6cb30085bd897b3519acfffea498ee9f41038/coverage-4.0.3.tar.gz"
+      },
+      "4.0a1": {
+        "sha256": "58605ced1da98317632755d2d8526c4c29cfca2aaa5c853207c3fc8a5c7cb35c",
+        "url": "https://files.pythonhosted.org/packages/37/2c/84d7b1f1d0741d1b1ff451b90674cd599bd3edeb72e134d9cfe922912e6e/coverage-4.0a1.tar.gz"
+      },
+      "4.0a2": {
+        "sha256": "aab93b9fe7a21cb49f4279754bf3684ffd913398e7c4c6a46d78962b66e803ff",
+        "url": "https://files.pythonhosted.org/packages/9f/a8/4505a408bee3093e30e29e25f645df914d3ab83594e82f44c2bee70709bd/coverage-4.0a2.tar.gz"
+      },
+      "4.0a3": {
+        "sha256": "cebc8fd3758d2d03f539aeffd283f5ddbd00bea1761fbae9bd2d86ba84bff6cc",
+        "url": "https://files.pythonhosted.org/packages/c1/89/d6c65eef5160028e9f990e5a2fbc9ca14c1e5eeae1e8f4ff964f10ae44db/coverage-4.0a3.tar.gz"
+      },
+      "4.0a4": {
+        "sha256": "7d86c323c0f7c27dc35ff9425bb28ce8101d224cd2e075e0b88621c90292d602",
+        "url": "https://files.pythonhosted.org/packages/dc/2e/c38b5e9c944a357e32fcea197c524119b293847cf4c94fd42f7c9393727f/coverage-4.0a4.tar.gz"
+      },
+      "4.0a5": {
+        "sha256": "07a36ac3c82f5961c45565fd5575b4c568a8fc59e8d5d29a5b04dc8597a07e0e",
+        "url": "https://files.pythonhosted.org/packages/71/5f/a5e5e5c8471ff6e567c9829aec3a487c327e034b7f3ae0a4e41e92b44e53/coverage-4.0a5.tar.gz"
+      },
+      "4.0a6": {
+        "sha256": "85c7f3efceb3724ab066a3fcccc05b9b89afcaefa5b669a7e2222d31eac4728d",
+        "url": "https://files.pythonhosted.org/packages/f9/98/2b36dcee136f678822c42259ac882b7b81b5141284522857369bd817174a/coverage-4.0a6.tar.gz"
+      },
+      "4.0b1": {
+        "sha256": "6b131e73ac1aacc31808a208ec47fa94b371c116d633b5be549d57f0f76bb5df",
+        "url": "https://files.pythonhosted.org/packages/14/e7/cedc425e5b4bcd72845cb37f4ca562c137f5dda52adac8df7a48206d9d24/coverage-4.0b1.tar.gz"
+      },
+      "4.0b2": {
+        "sha256": "8d79027713bcd2f1d5e639ccb3cc68cbfdf044bab1c44e365a1717d8bd18e6ec",
+        "url": "https://files.pythonhosted.org/packages/39/49/083357c7ec46983df49a19057c94163eeeae659bedc4bb801b97d9e4de4a/coverage-4.0b2.tar.gz"
+      },
+      "4.0b3": {
+        "sha256": "cb7f38198737714bcfb6fd8ed4895a7d144359335909710cdfec4a9f3be7e671",
+        "url": "https://files.pythonhosted.org/packages/42/0a/de7f0196919f0c4143c08e7ee0830bad01e1982f0a0ffd3e2c3587da12f0/coverage-4.0b3.tar.gz"
+      },
+      "4.1": {
+        "sha256": "41632b5e2c0ec510e4c0f1f0f02a702477d1f837693964390553539217c92b07",
+        "url": "https://files.pythonhosted.org/packages/2d/10/6136c8e10644c16906edf4d9f7c782c0f2e7ed47ff2f41f067384e432088/coverage-4.1.tar.gz"
+      },
+      "4.1b1": {
+        "sha256": "e9561278c15117a85cd46b963e54943c6b8f26c5a3cb13aa8b6603861510f778",
+        "url": "https://files.pythonhosted.org/packages/1b/c8/3d1b88f515fa1c0075f8b2d216a437f1fe4663d1af50dc310463a7903511/coverage-4.1b1.tar.gz"
+      },
+      "4.1b2": {
+        "sha256": "234f49523c94b0e588a9d2f0af55ec7a85a4c302e917f753eff2a444bc40d04d",
+        "url": "https://files.pythonhosted.org/packages/1e/16/64f5506abeb7e39094d20986ce2942301e79c32ab05b9df1b16706c1fd21/coverage-4.1b2.tar.gz"
+      },
+      "4.1b3": {
+        "sha256": "29c43e1530e18f0a911ad5f80282d35fb4ce6f98624151b7ddc43e22885227d4",
+        "url": "https://files.pythonhosted.org/packages/f3/f5/ae6ee2debf933c425e644160c2c9dc3f5c05d7cc66318b50e79396f1f900/coverage-4.1b3.tar.gz"
+      }
+    }
+  ]
+}

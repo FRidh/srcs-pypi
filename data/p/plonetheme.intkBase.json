@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "An installable theme for Plone 4",
+    "homepage": "http://svn.plone.org/svn/collective/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "f1ad2dea3a8e6dfc42ce8310e8c7afdbb2905cede0d0233a48838748076a5255",
+        "url": "https://files.pythonhosted.org/packages/48/7e/c752d703a92aca67626aacf0c6f3de28adb796463b96987f0020ea8cc5c1/plonetheme.intkBase-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "9a3818cef154febe1401764b7a63a11a6f200f38097534c95b2294019421776e",
+        "url": "https://files.pythonhosted.org/packages/00/b8/4a738b36fce1058baad890af1c8b54d30b846fc60cbe0a21c402c99019c6/plonetheme.intkBase-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "7a720db1a8ca67c04c9a7430401bc063ee081feb9c043483f84ab7d60bd9d1d9",
+        "url": "https://files.pythonhosted.org/packages/4f/de/1ccb32ff6bca586399fa19dbeab39010df2c2a15b4d9a77788a35d80ad68/plonetheme.intkBase-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "0ac86f62b027033fd9107e6f25a965636e3b89e0568e1f42ec0efb1c00b0e03f",
+        "url": "https://files.pythonhosted.org/packages/cf/eb/697605ddc57e5f89fc94bf081ed8128b2b2e8c0c0b638f33829c8f420b45/plonetheme.intkBase-0.4.tar.gz"
+      }
+    }
+  ]
+}

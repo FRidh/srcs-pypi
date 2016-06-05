@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Django app for direct client access to all models",
+    "homepage": "https://github.com/rosix-ru/django-directapps/",
+    "license": "GNU Affero General Public License v3 or later (AGPLv3+)"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "55935036c338bd7b18a79383f5e7c775eb3099984a1a61ffdae41b452a174517",
+        "url": "https://files.pythonhosted.org/packages/61/24/b01c0798d8f8975e1cf3d5e5e4676e1e85caca0c0214bd8b8ab144c80ece/django-directapps-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "f38016b864f8af42f3768bad7336b6a023b9f6d88d5abf4bcd963f29b3f365b6",
+        "url": "https://files.pythonhosted.org/packages/cc/6a/70493282274efc13939b4248d5e08270045bae6667037a6cd18ac1a41b03/django-directapps-0.1.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "5c719f58926f09f367bc5386ba4e3babb86612b9453359a5214763ab34a230b5",
+        "url": "https://files.pythonhosted.org/packages/e9/b6/7cbae9d185db32d30f92818a6d23d80f20200ba01f698ce2b579ea65b14d/django-directapps-0.2.tar.gz"
+      }
+    }
+  ]
+}

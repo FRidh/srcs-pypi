@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "3.3.7"
+  ],
+  "meta": {
+    "description": "A Python driver for Oracle NoSQL Database",
+    "homepage": "http://www.oracle.com/technetwork/database/database-technologies/nosqldb/downloads",
+    "license": "Apache V2.0"
+  },
+  "versions": [
+    {
+      "3.3.5": {
+        "sha256": "a785decdf4791ff58b3be07a13eb07729c4acf8e95565c24215e5bb6420351cc",
+        "url": "https://files.pythonhosted.org/packages/c4/36/8d6f4044ad5de1a6e56706cacd869d8f9dd7e2e672a08c989bdd4a221e5e/nosqldb-3.3.5.tar.gz"
+      },
+      "3.3.6": {
+        "sha256": "f77f64359a2a4c4cfd2c89fdace89a37f43d13e5a48fe5fcbf8025cb47760098",
+        "url": "https://files.pythonhosted.org/packages/df/06/9bd176315cb8c29bef92d88a19f9e74727ce9dcc4e01469c758bc39c43c7/nosqldb-3.3.6.tar.gz"
+      },
+      "3.3.7": {
+        "sha256": "72b28ee42decba88bf8a434cbc32e4d9ce3b5671fd795a2dbe1ca7bfbe828ab5",
+        "url": "https://files.pythonhosted.org/packages/cd/8a/b2c4bf4771b4b5ad80bd19410d97a13c77f67f9beb5c35a8f144510d6815/nosqldb-3.3.7.tar.gz"
+      }
+    }
+  ]
+}

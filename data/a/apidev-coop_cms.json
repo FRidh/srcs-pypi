@@ -1,0 +1,182 @@
+{
+  "latest_version": [
+    "1.1.14"
+  ],
+  "meta": {
+    "description": "Small CMS built around a tree navigation open to any django models",
+    "homepage": "https://github.com/ljean/coop_cms/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.9.0": {
+        "sha256": "014b6965cbbdbfcb5501b3ef822ee42ca94556aa3cdc4f8918a2dfd12e940182",
+        "url": "https://files.pythonhosted.org/packages/d1/b7/3bbbda52c86541cd19c86e7f18ccdb77bfe304d5825c2cd9817710d72c82/apidev-coop_cms-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "9b424e269b9d4cae3a8dc2855026ed732356929e20fc3717361f9054509d12b8",
+        "url": "https://files.pythonhosted.org/packages/ef/73/6a2853b8395df6c9b3af28e57c830c4cad306400bd8638e354cb821a3cd5/apidev-coop_cms-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "fbec7cc8bea585c48c23379d3cd8042acb5665113bdfe7dccb537aafaf8c9812",
+        "url": "https://files.pythonhosted.org/packages/d0/13/e084b7a45ccc25b8f0e9cd259c1a62bb6496f15da10834f3c6650e95dbe0/apidev-coop_cms-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "1cbc29889357351eec6415634e7f1925b58feb74b5844547e3c589eed3ffe5b3",
+        "url": "https://files.pythonhosted.org/packages/f3/63/6fed3b9dc1c5a178791ec07e9f483008f566ed4b87bf88eb8f6b80c91f37/apidev-coop_cms-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "7d8870b60f93b59e61f6fa7078638c3c4aa290646baf11299e9a91eb4fd2b360",
+        "url": "https://files.pythonhosted.org/packages/15/b1/15dd54775df3dc648cc9f3da8d4e90827f6d2e2bd46aa3d45833781042dc/apidev-coop_cms-0.9.4.tar.gz"
+      },
+      "0.9.6": {
+        "sha256": "649a43c3baf2254bc8b1f5e2ae1e09776f0a58538e2d027eac1f822cb0865ae3",
+        "url": "https://files.pythonhosted.org/packages/6d/d5/25ce7f967719dad2a03c74c8bd08fe3b6a64bd2928273870ecf9bf05a055/apidev-coop_cms-0.9.6.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "25b32d8e5e9dba493e3d916d2a3665074030f275d9de360225e701b33e215dd4",
+        "url": "https://files.pythonhosted.org/packages/5e/aa/b3a6ea30b0277cc486dedffd803b1510e45fccde8aa8342528b21699e2fe/apidev-coop_cms-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "5f1d35099b2c65f847a3d8df6f86df715be047d8cadd94a1383d4b0938a51c36",
+        "url": "https://files.pythonhosted.org/packages/45/03/d219fc0ecb2454fea08f0edf3db9c7c72bf2353dba6feb3156635dd8533a/apidev-coop_cms-1.0.1.tar.gz"
+      },
+      "1.0.10": {
+        "sha256": "685869511917938e49576d687942132a08ef699bcbdedcd9a16f176c19694aac",
+        "url": "https://files.pythonhosted.org/packages/39/ea/d7d161f9767f3df88f64249833f3fe4351aceefe4398ec54435f9788b4e8/apidev-coop_cms-1.0.10.tar.gz"
+      },
+      "1.0.11": {
+        "sha256": "5a255d3b3ebbbdcc79fef99102bd963e6f0e74605786919e60e134ac60b11336",
+        "url": "https://files.pythonhosted.org/packages/df/e5/22136d70e41624ab4077d566e6d48afe954fc5172610bd61a433451a3486/apidev-coop_cms-1.0.11.tar.gz"
+      },
+      "1.0.12": {
+        "sha256": "4fbfc3ea7c01827c9399796d855f9f162de2de99c793692064e70d29bf0fdc7e",
+        "url": "https://files.pythonhosted.org/packages/8c/fb/ff881129685e3f6308e50786352b54298aea124df2b595d8b9e5e4963287/apidev-coop_cms-1.0.12.tar.gz"
+      },
+      "1.0.13": {
+        "sha256": "56b426300f3d9e083405ccd9217ce9d501d0ee021cfc0ac7492573370f0a35f6",
+        "url": "https://files.pythonhosted.org/packages/a9/68/989b8b6e6117cc2856a7807c066f18e12968691f39fadc6b7daf56e6ef3d/apidev-coop_cms-1.0.13.tar.gz"
+      },
+      "1.0.14": {
+        "sha256": "be43b7fd6d610ac970a81fec7de0e772fe76d198daf92988e4e47a5910e61ce6",
+        "url": "https://files.pythonhosted.org/packages/7b/aa/a243b28816f22de3693fb0c09806b50ffbde85a01291c82277d90280f49c/apidev-coop_cms-1.0.14.tar.gz"
+      },
+      "1.0.15": {
+        "sha256": "009a8fd5b87f2748af6b777402fd23c251ee7dc882006d1b9d93ec47da456835",
+        "url": "https://files.pythonhosted.org/packages/06/59/d44a0e0cdf06b9a79af7deb434cd79f423a918a3aae04eede70fe121d4eb/apidev-coop_cms-1.0.15.tar.gz"
+      },
+      "1.0.16": {
+        "sha256": "ecfee3de45cf82943c2ce53de3ae8800dafdb63425f5bdbe504d44b3c0f1293d",
+        "url": "https://files.pythonhosted.org/packages/65/8c/f0c650389aac36121c79e797b50061bfb5105ee4cae05d37d48cd8796c6e/apidev-coop_cms-1.0.16.tar.gz"
+      },
+      "1.0.17": {
+        "sha256": "b840b5c04fce2d642e862e37c1a520f2ef12c629b7f004bf440d11ae8f57b470",
+        "url": "https://files.pythonhosted.org/packages/4b/6b/f2b9d455998fa8492aeb3371d93bfb609dd9eb96ffae60b5ba2d87630882/apidev-coop_cms-1.0.17.tar.gz"
+      },
+      "1.0.18": {
+        "sha256": "38bbb3a02813aab97447906d769ed1fac864fe79b4bfbcd1bc210ce111f21db3",
+        "url": "https://files.pythonhosted.org/packages/26/9d/65fe070e2e024932f965f0971f32628010df9dc5125446a928e5c6efa6e0/apidev-coop_cms-1.0.18.tar.gz"
+      },
+      "1.0.19": {
+        "sha256": "e2af03d2931ebe95bc3bb8bfc6fa5bdfae3ca158fef9d1436427573c5f235b26",
+        "url": "https://files.pythonhosted.org/packages/d2/84/a13416e2e9032287f706a57852d7365177c4703e470c805cf456a521e21e/apidev-coop_cms-1.0.19.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "18cc8219187c9a2e5871cfe0c67e8f306f43f9e1eb169589b41053900260eeab",
+        "url": "https://files.pythonhosted.org/packages/93/d2/3066f62edf151c4d186aeefcb6d50c5e226828e84df4aae41bedd97c1de3/apidev-coop_cms-1.0.2.tar.gz"
+      },
+      "1.0.20": {
+        "sha256": "b02896e64310d45d9b502c3a9b71753393b273d670f47b2efc67a8ab70836b75",
+        "url": "https://files.pythonhosted.org/packages/2d/b5/0cf28ce6efd0a773e21bddad3e85f8209c6596bd6a1f9d323974abbe0cf4/apidev-coop_cms-1.0.20.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "912175b18f1bb47cd0b63a2a0a5c3beb6c3036be49e0a423e33514aec72cc053",
+        "url": "https://files.pythonhosted.org/packages/1e/d8/6c14b79b35f833eec016dcc9e1d86ddd3ab74a1588eabc27ce1762b971ec/apidev-coop_cms-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "b01fd14dc596b6eae5aa24dfeda1e0a899cad4acc9705353738ca8c2531658c1",
+        "url": "https://files.pythonhosted.org/packages/1d/f3/dbce982c451527b4cfba861d2f39ca7cb2384101204b8e62217c3eee1ba0/apidev-coop_cms-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "06df3e37023559c1592f986dd54866d81d2854957a89320793c052ae0c5b170e",
+        "url": "https://files.pythonhosted.org/packages/18/84/b7c2848633500d70dc832267360ad855cb799b6ba46895eddd7e80ff14d3/apidev-coop_cms-1.0.5.tar.gz"
+      },
+      "1.0.6": {
+        "sha256": "0980d81122b764547be835b4ef31d0cf674f0ec4bb6b04d684f6ae5e67cf7b10",
+        "url": "https://files.pythonhosted.org/packages/1d/9f/4819ce235b2217d0a46a4d1ac47a54e84cf720e59ea54b6fe4292b54d943/apidev-coop_cms-1.0.6.tar.gz"
+      },
+      "1.0.7": {
+        "sha256": "4e4984c860ea4a9142b14767bbc3257e7de10ffd43edca175cdc117c2dd14271",
+        "url": "https://files.pythonhosted.org/packages/dc/f4/aaebb9bcd00ea0c281e53e97cff061f9c0b8ac1bc95e17c6487c825cad3c/apidev-coop_cms-1.0.7.tar.gz"
+      },
+      "1.0.8": {
+        "sha256": "eccf758ee4613682da77827fff4e41f6323a1ca0353b21a4aa1a94c0c60a09c3",
+        "url": "https://files.pythonhosted.org/packages/ba/6f/fb6a5aa997e6dc01ebdd4fed132a3b056868c49c5c4c5f506c34c7418b83/apidev-coop_cms-1.0.8.tar.gz"
+      },
+      "1.0.9": {
+        "sha256": "637572d433daa98c076c3a6d8564c40cb8200f1292474adf03a3c711f2328c01",
+        "url": "https://files.pythonhosted.org/packages/b9/3b/d32299310aaaa5a0f9a139f228d7c68b6ad519177c3ae175cde752f5874f/apidev-coop_cms-1.0.9.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "34edfd05395f271953b2d1cab1b495819c9e3b93401b247b83d690937f450f2a",
+        "url": "https://files.pythonhosted.org/packages/f7/2d/521e14294f3de27e9dedb0144855df692fd657c4f3cd71a7c1255abb5707/apidev-coop_cms-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "4d52efd28cfa2bfca66dabde8cd1192e265b6a748382872bb05fb77c7b5a8983",
+        "url": "https://files.pythonhosted.org/packages/2e/35/6d5d665dac61302c73ce310b3c250a3fc15eed2c8615d5882d7e1887da64/apidev-coop_cms-1.1.1.tar.gz"
+      },
+      "1.1.10": {
+        "sha256": "d2cbb812b07597c87c2f34c40615c35d82f70212f52c781449268ba4d6042999",
+        "url": "https://files.pythonhosted.org/packages/85/58/2dd452d6e28804f9327bd357ba77d2caa3c5a1d125e9314c17bf5888177e/apidev-coop_cms-1.1.10.tar.gz"
+      },
+      "1.1.11": {
+        "sha256": "4df189a4ccc614ce138a3f5dac518ad2f167095e990edd156006d47b5bdb84b9",
+        "url": "https://files.pythonhosted.org/packages/4c/bf/32c05d4a709ca29ba687f1d3b89ceb242668fe7372f9193b56721c926607/apidev-coop_cms-1.1.11.tar.gz"
+      },
+      "1.1.12": {
+        "sha256": "5207187af0b7a1bcbc3d5925fac1805c14fecf183f25f1a034efb525f4ba8620",
+        "url": "https://files.pythonhosted.org/packages/1b/83/743ee49a1b411c1e9956c460021ecc3dcd518067ff5de4d34c3c0a953ad5/apidev-coop_cms-1.1.12.tar.gz"
+      },
+      "1.1.13": {
+        "sha256": "83fc3f8cb08d50c443442f6441a53e812a65abba250befcf42ca4cc3884cb6e1",
+        "url": "https://files.pythonhosted.org/packages/ae/e3/121a29c8f20f90b22c97b7f4fa7a8d256da7e166fbad66121d452a759d19/apidev-coop_cms-1.1.13.tar.gz"
+      },
+      "1.1.14": {
+        "sha256": "a13ed047b6d1a5e7892ef12c39cad831f0f0ceb75e4b04b1e74c593a38880d1c",
+        "url": "https://files.pythonhosted.org/packages/25/98/a1fa0239a419fb8edeee5c5f586c79be93b9b9ea6aaa2ba6da77edd8040b/apidev-coop_cms-1.1.14.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "5093c1c20c6ec070200466a58dfc64b82f4aad023c77653fdb915e1f3d0a8482",
+        "url": "https://files.pythonhosted.org/packages/3d/0b/ef97d0213d8ab7dbd6d14465193365ebc4c675516c739f10a4873996fbf1/apidev-coop_cms-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "f70e920308a2c43cf177ccd9500f9f6602f7912e5e11955c46b62b4d70a75783",
+        "url": "https://files.pythonhosted.org/packages/5c/23/f45e3b6ed5e3dfba16792c4f4b2f18607821f2eb1eeca62d9728f4be1846/apidev-coop_cms-1.1.3.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "a02d0805e729b5f0c8d99012e74aeb64a0ca1ab478cae5ba384182ece650ba69",
+        "url": "https://files.pythonhosted.org/packages/bd/d8/2c23c822fdba470b576e19205ab9249c3168fbfe721fe8afa5c991e0a98d/apidev-coop_cms-1.1.4.tar.gz"
+      },
+      "1.1.5": {
+        "sha256": "f7f2865d6370b132d31f78257115abf6783d6df255146bca20d5f3393ff1bfff",
+        "url": "https://files.pythonhosted.org/packages/44/e3/1bbcc5b2610e85e2896f902e718a1dda0f6ed8d64a647f6799762f7820f3/apidev-coop_cms-1.1.5.tar.gz"
+      },
+      "1.1.6": {
+        "sha256": "c8fccfbf7b88acd7853bf0c41b203abc83f389ba83642c2fc71b8f78310c0ace",
+        "url": "https://files.pythonhosted.org/packages/12/e2/852b4aea4198484dfe6a80d09de2084380cc8351defe7f115f671c54077c/apidev-coop_cms-1.1.6.tar.gz"
+      },
+      "1.1.7": {
+        "sha256": "419ddc0c807c6550982f287a4614da6aa33f53be90ab685021839df32d2d4606",
+        "url": "https://files.pythonhosted.org/packages/49/44/76ad25e040449fc48c4d433e2e1d457886717b2e6d498dc1d664763ee22d/apidev-coop_cms-1.1.7.tar.gz"
+      },
+      "1.1.8": {
+        "sha256": "a8ea3bf9a310187bb2da40e583a996d980ec8deb8f80e95afd096ed181be55ab",
+        "url": "https://files.pythonhosted.org/packages/63/13/2ee45200773d953d38eec0835959e0e6ebc3dbe9586e8d793d9562f914d1/apidev-coop_cms-1.1.8.tar.gz"
+      },
+      "1.1.9": {
+        "sha256": "a24fe490686ca6da54937e9820db788a92b6188b727d660f98bd09b49ae76e1e",
+        "url": "https://files.pythonhosted.org/packages/2a/d1/8d678feb14e917f1ff868a59efbb88d53f5f378b60b3ed361e7d95fba289/apidev-coop_cms-1.1.9.tar.gz"
+      }
+    }
+  ]
+}

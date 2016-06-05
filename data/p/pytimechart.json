@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.0.0.rc2"
+  ],
+  "meta": {
+    "description": "Fast graphical exploration and visualisation for linux kernel traces",
+    "homepage": "http://gitorious.org/pytimechart",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "05c8cd89952a1012ddcfc469e23236efca824e6bb203ce6964559dda6014a486",
+        "url": "https://files.pythonhosted.org/packages/fb/c4/e575b1ab87fbaec7967f02392ae31bdf213701478b12118862982f175287/pytimechart-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "b70912f973840c2bf5d38ddbcbb7b605499202e813e76a6fe51ca91c18e9018f",
+        "url": "https://files.pythonhosted.org/packages/4e/08/158cb101da61170373ab5d62dcc132a27450d4ff63e7442230d19dfec8a0/pytimechart-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "098ed585ad19ecc204bb57bb4dd4e846b916f278ad5497a4ff15587421911abd",
+        "url": "https://files.pythonhosted.org/packages/aa/2a/88cc53a92f72c24e93413632858852087be3f155128521519c47c0c06d1f/pytimechart-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "11ddbc8d0c0db048bd0af0f27b1d13c9fca2e2a7e6b96824f7adcd55cc938e7b",
+        "url": "https://files.pythonhosted.org/packages/f8/55/f1c001546be61955a9e0df7ad01f2e8bbf8db1a8d7d9dfafdece9823e942/pytimechart-0.9.3.tar.gz"
+      },
+      "1.0.0.rc1": {
+        "sha256": "c0522e2acf46ff87af9c1050765c29ec8c3529969563dc32f7fd645a84a79c28",
+        "url": "https://files.pythonhosted.org/packages/8e/98/fb7cb3862d3f14e95abe10b7d64d421384f1396220e15e86d49ba2064919/pytimechart-1.0.0.rc1.tar.gz"
+      },
+      "1.0.0.rc2": {
+        "sha256": "e65fb10e489a31836823dca0dfeefc2a9d09efbbcdeb3c61df4ac02dd489ec1a",
+        "url": "https://files.pythonhosted.org/packages/3a/89/bffa6c096b886ab25681cee6e523a3edb56c6d76210e27916561bc72e0ca/pytimechart-1.0.0.rc2.tar.gz"
+      }
+    }
+  ]
+}

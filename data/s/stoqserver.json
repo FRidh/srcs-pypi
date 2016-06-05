@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "0.8"
+  ],
+  "meta": {
+    "description": "Stoq server",
+    "homepage": "http://www.stoq.com.br",
+    "license": "GNU LGPL 2.1 (see COPYING)"
+  },
+  "versions": [
+    {
+      "0.6": {
+        "sha256": "a04055b9a12a08a3a580db95860614398ae1bdc9474c0a90d86eba82811712dc",
+        "url": "https://files.pythonhosted.org/packages/bc/da/0e9ea2b26e0af854b37eae10cbb5acbabbe3f603a8b235d80777ad04b17a/stoqserver-0.6.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "04c576949ddccb7a688f20ed563adf7e8116052e933e0cac3994fe494d99886b",
+        "url": "https://files.pythonhosted.org/packages/06/11/f18bde616d710137edaca04a7885499a21a434ed792f6ac0a725fa3ce120/stoqserver-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "2a76055f8016a2696c51e7d78d527b5bac4398d96d48bfcf527763c6725e2a4b",
+        "url": "https://files.pythonhosted.org/packages/73/dc/b1fc682ef37970594e00835c76ab468d57066acd9e8532b7a98fe442beea/stoqserver-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "c19c907e7ccd016d76f05ac89d7c4cf3306655a34776f9b977c59c31fd1ff832",
+        "url": "https://files.pythonhosted.org/packages/ef/de/9c0912b2039a979e3fbc3bf1412f5c494d27a03e273df5cff5294fb13e91/stoqserver-0.6.3.tar.gz"
+      },
+      "0.6.3.post1": {
+        "sha256": "e39bda4d302e7bcc8dcb832863b1b56bead667e7392cd2ad6c03b352b88c627c",
+        "url": "https://files.pythonhosted.org/packages/1e/da/370fc9e3022beb93160b28b851e6b120613c9ed4bc3e7cbe04bc0381f896/stoqserver-0.6.3.post1.tar.gz"
+      },
+      "0.7": {
+        "sha256": "5fad01bc3d515e1ef9958425ceff525bd437e3431ce18903a5b52fdda4fdab95",
+        "url": "https://files.pythonhosted.org/packages/fd/c1/1af19c961aafc68cab2dd9676a692ab26b7e2998e6c156489ae250e25d58/stoqserver-0.7.tar.gz"
+      },
+      "0.7.post1": {
+        "sha256": "cdb46d11f3b1c7d762b5c25d72328f00e7c1daa70ab6f9e9cb0318141977ab2d",
+        "url": "https://files.pythonhosted.org/packages/1a/2d/304c65b79f6578ee6f35144f77fe80a8afe9b944bd984ca463643c9f41ad/stoqserver-0.7.post1.tar.gz"
+      },
+      "0.8": {
+        "sha256": "02d168968b33ca202c10e4ac06e119fa66842db2a56769c06f12276fdb610aa2",
+        "url": "https://files.pythonhosted.org/packages/34/02/f86b15070e78b7a01c3354fab8df085ef7f13a325b87d50af727a84c569a/stoqserver-0.8.tar.gz"
+      }
+    }
+  ]
+}

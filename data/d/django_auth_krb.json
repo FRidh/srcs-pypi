@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Django kerberos authentication backend",
+    "homepage": "https://github.com/hlin/django-auth-krb/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "84bc81fff9b0ad2d3885a6ff1b38529c674608063b6a8ff4bb3afb05027ce1e9",
+        "url": "https://files.pythonhosted.org/packages/45/65/d34a2936cc5a1fa83694318dbfb7521864492ed537d69770f90cba14f49c/django_auth_krb-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "f71c3ede4ff4595320ea1a91c307e6b27d0cf3ed7f14cfffa5686313a50cd4db",
+        "url": "https://files.pythonhosted.org/packages/c6/4e/efdbf8373a6ea192afba282a1714482aca32217eba95d3f758715b6792f1/django_auth_krb-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

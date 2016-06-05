@@ -1,0 +1,33 @@
+{
+  "latest_version": [
+    "0.5.3"
+  ],
+  "meta": {
+    "description": "Non blocking Jabber/XMPP module",
+    "homepage": "http://python-nbxmpp.gajim.org"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "ae2ccc8f6e0febaeef4e694b17a0d3f00c536bfbc5d96cff638b3714ea7d56a5",
+        "url": "https://files.pythonhosted.org/packages/07/5e/191d50988ca27fb0bda358182ceb1271988dcbeaffc5c1ada318b12c6b9b/nbxmpp-0.2.tar.gz"
+      },
+      "0.5": {
+        "sha256": "20f556a723fdfa351abeec4d57218b8e6150200a95c2472e2a3645b213034778",
+        "url": "https://files.pythonhosted.org/packages/95/f1/d06aec4cd14ef9b37094aa8eb348fea45fb35cb4fa4805c20d7cf78b343c/nbxmpp-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "fa312db1e912434b60545e6ccd64edb54d00f8afcc04e84d9ffa16e8cbf17ba5",
+        "url": "https://files.pythonhosted.org/packages/ce/ca/42b86ba752455c23f11dcc88b702a4290d77d34e6d4c84b85b65ba8d6a7f/nbxmpp-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "de949b181a0f7b430103e1ef4957dab1283be01938986f13bfbe257a54f540ec",
+        "url": "https://files.pythonhosted.org/packages/e5/84/89ea89e06e54521cd6475a48d5684f1629fd34465da2d705e213820a4ab4/nbxmpp-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "b79a6b25a2ed7ac792600544778238b27cf6eef6c8eab79b0bfa46df0c3a9935",
+        "url": "https://files.pythonhosted.org/packages/47/1a/d96246c27d7e707da25e3e4628d04cdef156d68f8ed0701f978d7db15bda/nbxmpp-0.5.3.tar.gz"
+      }
+    }
+  ]
+}

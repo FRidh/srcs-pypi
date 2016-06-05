@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "3.3.3"
+  ],
+  "meta": {
+    "description": "CPython html.entities module ported to MicroPython",
+    "homepage": "https://github.com/micropython/micropython/issues/405",
+    "license": "Python"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "6057b9b187ac789adefc716c231fb03fde161d375594f0bf7da1279b84de2420",
+        "url": "https://files.pythonhosted.org/packages/b7/52/681dff51cddf5b3189c8df516bc10aadba0435612c2c468af42d20f81d47/micropython-html.entities-0.5.tar.gz"
+      },
+      "3.3.3": {
+        "sha256": "127b28a2d8ed01c6d2d07e3eff1bf8ebd82d9d718f25f8f50eb96cc6da5d5751",
+        "url": "https://files.pythonhosted.org/packages/aa/60/47f2e3a77a4c662c45fbb071ba1b93344782b99158b887c11d1a004317a3/micropython-html.entities-3.3.3.tar.gz"
+      }
+    }
+  ]
+}

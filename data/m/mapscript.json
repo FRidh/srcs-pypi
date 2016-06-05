@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "5.6.3.0"
+  ],
+  "meta": {
+    "description": "Python interface to MapServer sponsored by Makina Corpus",
+    "homepage": "http://mapserver.org/"
+  },
+  "versions": [
+    {
+      "5.02.2.33": {
+        "sha256": "245e3c5f01c7b235955d23ab8b1ad081e5e18e837f9ec469d06802a196f4a542",
+        "url": "https://files.pythonhosted.org/packages/9b/d6/d6232ed0a920c9ba8290c3d7a427fc3d42be1bba815eb921081d143e13e8/mapscript-5.02.2.33.tar.gz"
+      },
+      "5.4.2.1": {
+        "sha256": "e69511cbdf3e0800d393141e2f16ecf6f11d77f00602ce3333fa9ef432b65be5",
+        "url": "https://files.pythonhosted.org/packages/8f/7d/92af154e6b0d99fec444ff6ea345faad7850fab4efd6c2a0cbe67566cf9c/mapscript-5.4.2.1.tar.gz"
+      },
+      "5.6.3.0": {
+        "sha256": "52af6d6dcb544151526311bdb9a06242e061f0e63f741ef762749f97712dd995",
+        "url": "https://files.pythonhosted.org/packages/2a/4a/89ac6d24d2a93ee4f4bb1d3d9bdc0af8e86ba000a12a69fd3ed1e1907948/mapscript-5.6.3.0.zip"
+      }
+    }
+  ]
+}

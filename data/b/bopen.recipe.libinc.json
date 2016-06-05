@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "zc.buildout recipe that parses compile time options from config scripts",
+    "homepage": "http://www.bopen.eu/open-source/bopen.recipe.libinc",
+    "license": "ZPL"
+  },
+  "versions": [
+    {
+      "0.2.1": {
+        "sha256": "703f1c31fc9f2eb308d50bebeed3e14eda309ca349ca975a191f2ffcf4309266",
+        "url": "https://files.pythonhosted.org/packages/1a/44/522fddc27d8fe6a7e6d0fc7b354b35b5d62b58e11b03f368227a1b89b5fd/bopen.recipe.libinc-0.2.1.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "734d2850813300d932c75d4b37c8f3307be6771325d83208de1b9b20b44aa24d",
+        "url": "https://files.pythonhosted.org/packages/f0/bc/830459aa14eb5c673c055f95a65426b61c9591a7ad8de1037b704c98e558/bopen.recipe.libinc-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

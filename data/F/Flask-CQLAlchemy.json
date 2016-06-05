@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "Flask-CQLAlchemy handles connections to Cassandra clusters and provides an interface through cqlengine",
+    "homepage": "http://thegeorgeous.com/flask-cqlalchemy",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "cac14fdb7e30d02ed9cdbbd6c086176c832acd3f1328db66ef4bbd6d948cf2ea",
+        "url": "https://files.pythonhosted.org/packages/10/49/9870d42cf2246e0cf73002b8480db8d99fd3f21f86e0d96e1f4f450cf2f7/Flask_CQLAlchemy-1.0.0-py2-none-any.whl"
+      },
+      "1.0.2": {
+        "sha256": "078c689b9befcd1da5618e19b9389212fca6b696b19c19c680a2cda7b46c7133",
+        "url": "https://files.pythonhosted.org/packages/d4/a2/04a6ece24a0ae54b5ae1c3f411ae1eda8a521cdca859a351bf5f22676a99/Flask_CQLAlchemy-1.0.2-py2-none-any.whl"
+      },
+      "1.1.0": {
+        "sha256": "3f6dd82e2ff2bd2967c90275e8c4837666f333bccdf39316f5881f05a8200ead",
+        "url": "https://files.pythonhosted.org/packages/e2/a9/b653c2959f736fa73fff6dd54634efe3ab3b2b338d6928c8e53df8bb7203/Flask_CQLAlchemy-1.1.0-py2.py3-none-any.whl"
+      }
+    }
+  ]
+}

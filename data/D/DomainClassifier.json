@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "DomainClassifier is a Python library to extract and classify Internet domains/hostnames/IP addresses from raw text files following their existence, localization or attributes",
+    "homepage": "http://github.com/adulau/DomainClassifier",
+    "license": "AGPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "989f0ad439886230caf4c1a5fffd503992609c1f89364d6e9a2ce5570d74b326",
+        "url": "https://files.pythonhosted.org/packages/da/5d/b4ce12d1d78cf7518d6cca5c49a756090c974aa1de768d13d8e6dc68e40e/DomainClassifier-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "9fca3f94c54563180f37ceb32500ce31b938c932e71264a5810ce7e17225beac",
+        "url": "https://files.pythonhosted.org/packages/7d/c8/79a7b078c7be048d88ed3cd753d8ef60374fca65de34ca11afddbb8dfb3a/DomainClassifier-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "7769304074dead991a7628f3c28283c2dde531296cf2b42647b1708128352753",
+        "url": "https://files.pythonhosted.org/packages/04/94/c7a7e3554aeb60647a6717aec028f51057e66fda6c62fd7cff718679a615/DomainClassifier-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "654ac95203821ddc8c1cef08106ce2502c609fe065c38da181dbe6f2d35eccb1",
+        "url": "https://files.pythonhosted.org/packages/c7/ce/e2e061951027056665aac8917c656de7740ffd4b1b0cbe385cfbe687050e/DomainClassifier-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "7b5a1ac3db87986e93a492c834503331666b2223829bcc9f899ac967cd24cf29",
+        "url": "https://files.pythonhosted.org/packages/bc/15/da54333a738a2697068abc181b6c173962ee1a8bfbebea42283c8f62ecc2/DomainClassifier-0.5.tar.gz"
+      }
+    }
+  ]
+}

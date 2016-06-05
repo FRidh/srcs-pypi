@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Install and manage R packages in a python virtualenv",
+    "homepage": "https://github.com/nhoffman/rvenv",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "e8c3ac15f4a6587da57646e52772a48724d3c77094eefb06cef3e2392a6dbafc",
+        "url": "https://files.pythonhosted.org/packages/d1/33/1e71ce5261da18019cdcdbaf464889e8114c66559d76bdcbfec5e2d789a4/rvenv-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "6bb88686d7489b63158d510181752bdd415581828fac3b725355912fad493e56",
+        "url": "https://files.pythonhosted.org/packages/c3/eb/598ad664124831c0f012006e76c6c3bfb21c5f801d6b293fdafb269cb2b8/rvenv-0.2.tar.gz"
+      }
+    }
+  ]
+}

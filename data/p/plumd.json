@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.3.3"
+  ],
+  "meta": {
+    "description": "System and service metrics daemon",
+    "homepage": "https://github.com/s4z/plumd",
+    "license": "ISCL"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "b6b60e538236790ec3437d701eec5fedca962f99d8e32df0bf023b52bdefe851",
+        "url": "https://files.pythonhosted.org/packages/b5/5a/323f45ddeaadca359137f7a2140115ba29cab207f2e1775d062daa08d25f/plumd-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "328faf714c163085c8d140b0501457bf9633089fffd737fda5673745fd007932",
+        "url": "https://files.pythonhosted.org/packages/ac/75/5dbff2921d28b369af2951cd0c27f8ba58f41e1a5fa4d9ab6a3ad6f36afc/plumd-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "8b52790971c5fb67bba8f9fddfd9f19f97dd4b94cf7657cdae90f677fdc70052",
+        "url": "https://files.pythonhosted.org/packages/80/dc/607837c95876ce469caf4ec6b15863a6955e171eeb195a613fbf1f271ee5/plumd-0.3.1.linux-x86_64.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "141124b256526a4722af8cd001b94018c9e4216ff69cd9c4510c118a298f9714",
+        "url": "https://files.pythonhosted.org/packages/4b/45/dd3af296d200260307b5ba27c3b18d643cf3e5a3a7793ed7b75e9a0e9dd2/plumd-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "b4d74ad4305c2ffdc795a63493b9b6aa5bbf1bbc9fc59de7ea439c535278af3d",
+        "url": "https://files.pythonhosted.org/packages/55/1a/c35d8d4ae5b6f6b27fd475f3c9c64d77d1040dd811495a5e7a91eaa39e32/plumd-0.3.3.tar.gz"
+      }
+    }
+  ]
+}

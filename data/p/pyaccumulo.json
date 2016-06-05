@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "1.5.0.8"
+  ],
+  "meta": {
+    "description": "Python client library for Apache Accumulo",
+    "homepage": "https://github.com/accumulo/pyaccumulo",
+    "license": "License :: OSI Approved :: Apache Software License"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "dde033c64d6b555c8cb0c4e10a7d0337ff81622f9940efaf2b401fa841d65aaf",
+        "url": "https://files.pythonhosted.org/packages/72/d0/8666623e3f0b6069e97a863687393288c52ce6e849c5df4f23ef7f8f60e3/pyaccumulo-0.1.0.tar.gz"
+      },
+      "1.5.0-SNAPSHOT": {
+        "sha256": "c7f231a40c6ddec200798d8609706a89147e8a523d16ac51c8f421623784b5a3",
+        "url": "https://files.pythonhosted.org/packages/eb/f8/7381bc8d4dd8997689d6f82c6a03cc6451e34381cc5d3a782a6ee7e00c49/pyaccumulo-1.5.0-SNAPSHOT.tar.gz"
+      },
+      "1.5.0.4": {
+        "sha256": "088b4f98d998bbd8373523a2c495d740a0c150719033413c009769aa87bb3fc3",
+        "url": "https://files.pythonhosted.org/packages/da/9a/e1a2ba5443e98260cb94dc9da2b9d8a3f5d7c11c482b33a26e5660b8cd9e/pyaccumulo-1.5.0.4.tar.gz"
+      },
+      "1.5.0.5": {
+        "sha256": "c6e04501fad5e630ba0371a43fdb74fa3c8a4eb25a62dbdb1f68e9c08f9f42a7",
+        "url": "https://files.pythonhosted.org/packages/65/b1/682abcdcd8e58a823948cbaf53a70bc0d58b410509980ac064cbc3bdc6b7/pyaccumulo-1.5.0.5.tar.gz"
+      },
+      "1.5.0.6": {
+        "sha256": "e3f850619432ada57a792e979144f13947ac9c4cbd9daac63f2ed6bc4765efe3",
+        "url": "https://files.pythonhosted.org/packages/8e/57/39857bf45f827c917b96cd7415d9f9622f2bf9053a33e0831d2aa7c11e2a/pyaccumulo-1.5.0.6.tar.gz"
+      },
+      "1.5.0.7.dev2": {
+        "sha256": "edc7a7ec3d329e7e18043e84761468fb265ee1b410688ba21400c0abcf4d6b54",
+        "url": "https://files.pythonhosted.org/packages/2c/06/ec08cc442846917c4d8c404850fec1ab88bc5d2751e8e719f65ec3aa02c9/pyaccumulo-1.5.0.7.dev2.tar.gz"
+      },
+      "1.5.0.8": {
+        "sha256": "534584aa07fa428bb07d26c1f529ad9c11875ac0e1e67dc689adc32bf2191d5d",
+        "url": "https://files.pythonhosted.org/packages/32/8f/563bf6b1d4e44fbf4ea89e9f81f133d84ca227da27ac2c8318971fc58fbb/pyaccumulo-1.5.0.8.tar.gz"
+      }
+    }
+  ]
+}

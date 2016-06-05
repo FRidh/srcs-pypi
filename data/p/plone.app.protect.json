@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0b1"
+  ],
+  "meta": {
+    "description": "Security for browser forms",
+    "homepage": "http://svn.plone.org/svn/plone/plone.app.protect",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0a1": {
+        "sha256": "b25344849220fb7640e17aca9b799370f78a95d00f125d72cfd13bcd497d69b1",
+        "url": "https://files.pythonhosted.org/packages/a4/39/fb0920f1fd598f064ed1a1d4e52b796b8ff121a98b0bdc72c548b22fd9e5/plone.app.protect-1.0a1.tar.gz"
+      },
+      "1.0b1": {
+        "sha256": "2a9666ee821f22b8aad56d48aeb8ae722aa00fa4ed263ca18107cc888c4db5b4",
+        "url": "https://files.pythonhosted.org/packages/60/29/e5f4d720d636846ffcca5900de54deb86b07caf3df07b4a7ab3a4d31ab11/plone.app.protect-1.0b1.tar.gz"
+      }
+    }
+  ]
+}

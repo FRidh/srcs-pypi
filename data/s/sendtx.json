@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.5.1"
+  ],
+  "meta": {
+    "description": "Send serialized bitcoin transaction from commandline to bitcoin network",
+    "homepage": "https://github.com/slush0/sendtx",
+    "license": "public domain"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "94af09bf70467eadc83db7da593978ff0c0d6e31a6a4cc178d8496001e2de2a4",
+        "url": "https://files.pythonhosted.org/packages/3e/f3/4218aac9373616ac2241e8ffa7a17df133738a40e82df84bbd673e036d30/sendtx-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "93c8d233fc85ff200fd51e1a7e5a30c73756b58ec8ba1d667cfe6254f5891b22",
+        "url": "https://files.pythonhosted.org/packages/4b/6d/951670377ad9e7506e65023032cb99447da352825a5c9ef0152c919bdbcc/sendtx-0.1.1.tar.gz"
+      },
+      "0.5": {
+        "sha256": "94f0edddd5e9999a08c16964ad045a1ffdcd9612c80811de3b8cb27b387c0cf8",
+        "url": "https://files.pythonhosted.org/packages/58/2e/f1cb5c0cbc839c2e2b23a364cb03b0eeab06a51b924d8076a68e185868bd/sendtx-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "c3e0ac70415638b397a587dd51cb70c68ddb6918e8522f802f4fb80394a72b47",
+        "url": "https://files.pythonhosted.org/packages/8d/f5/d2ba1381c3ab6c787a4cf265098427afd3de5b6e5896dd8383a38c453288/sendtx-0.5.1.tar.gz"
+      }
+    }
+  ]
+}

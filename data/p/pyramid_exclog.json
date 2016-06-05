@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "A package which logs to a Python logger when an exception is raised by a Pyramid application",
+    "homepage": "http://docs.pylonsproject.org",
+    "license": "BSD-derived (http://www.repoze.org/LICENSE.txt)"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "d558606008cb2365b350f5725a955c956e06d8d5e1442ec4e7b91fdf736a598e",
+        "url": "https://files.pythonhosted.org/packages/e3/f6/941af5e1293da455f115add3e84348271c1d3d2e561b679e216ccbe0f271/pyramid_exclog-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "d9a7a13a455c84ff3482b04daa2aec57fad1d6ec029c95bb7472531b1e056ebe",
+        "url": "https://files.pythonhosted.org/packages/91/29/e90ea8f531fec8a4836b3a48c6c1ea538a5809c300b6d3a8bd98261daf55/pyramid_exclog-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "97213ce87b4fe189d5f6d98d1412973e205a3e984f3b3b002a85ca5c6668a96a",
+        "url": "https://files.pythonhosted.org/packages/61/bc/e7ff4203a40a210c691dbdd7682e322afbeb709d3fdae6f005580dc5b3a5/pyramid_exclog-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "b19a7ff9cad92e13db91d1e0787233590f5d007b177ed72bfa22b8bc3908d087",
+        "url": "https://files.pythonhosted.org/packages/53/e5/3a71dc7f85526ac947ea1dbcaa156cb6249e4b2f012078e780b36712b531/pyramid_exclog-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "cefc5233470fbdc72844263b17fdb563178f1e658877ac35b355c0c49230b65d",
+        "url": "https://files.pythonhosted.org/packages/44/8d/207a2abaa12128d21b55bb34df6cd77b8a1ee3930c5ac32bf2e4656b520b/pyramid_exclog-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "5531c2c12f043864739307999ba7d313e3c8370755e03902d01717a2efbfcc23",
+        "url": "https://files.pythonhosted.org/packages/f7/4f/8fbabfa9090f9db129db089ccb2be8a4361cb3668ee0a7a3368c6e95d256/pyramid_exclog-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "a58c82866c3e1a350684e6b83b440d5dc5e92ca5d23794b56d53aac06fb65a2c",
+        "url": "https://files.pythonhosted.org/packages/f1/0b/5b2b6fd39ce6230ea73a6d674f0120fce9c4fc715794f32ec412646ed021/pyramid_exclog-0.7.tar.gz"
+      }
+    }
+  ]
+}

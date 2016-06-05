@@ -1,0 +1,78 @@
+{
+  "latest_version": [
+    "2.1.2"
+  ],
+  "meta": {
+    "description": "Docker Wrapper for Python",
+    "homepage": "http://github.com/frigg/docker-wrapper-py",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "845ebf235f2c177e84c416b9dedd9e1cb12a55eefecd027c934fb99485120db9",
+        "url": "https://files.pythonhosted.org/packages/12/e7/0f2b5aeaa5e258835b640ec2990eb53f83f8d5cccf721560ec4456a6996a/docker-wrapper-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "89a47da0496b70193cf3c9f0e380910fc53d0a6e3d1b319f79067e2b1fbb7973",
+        "url": "https://files.pythonhosted.org/packages/d7/20/afbe827bf7d2785b70d8ca2942a3c8fba6216c84c4c53d7affd22ce92c9f/docker-wrapper-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "ab52fda3b5942f3bf6acb1eec3ee21e2beeda278c65a10d62b54b6291b2f1ac0",
+        "url": "https://files.pythonhosted.org/packages/86/42/798d47ef64b111c8f9c64262a12dbb3ddf36f95692a0be70be4c1b1ce1da/docker-wrapper-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "3893c16a408a3916ae3e3732b2c2973573bd26da5ed9c9f0e7a4d7de667b6c61",
+        "url": "https://files.pythonhosted.org/packages/ef/69/70060f7953ac085d8106ef329488a099b335f2caf58cf27e4eb42520dd14/docker-wrapper-0.2.2.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "f650c28c365bcf7d9aa1ba8198899011a55d7a4934b664371fadf40d1616e361",
+        "url": "https://files.pythonhosted.org/packages/e6/ae/11b4d4407bb909743429eaf66378e9959b92285b079d7b6c33a2d59c4d90/docker-wrapper-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "b3794c24c8b640825cd89208092ff3d870538281c89177fe4d8ac897661c2d4a",
+        "url": "https://files.pythonhosted.org/packages/8f/7f/8364073f59591d2ed947a84867cecd33362780ec92e1093248f13c0346f0/docker-wrapper-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "af43bc8c26baab79b62db064a6b7b6ca201f9b7c1879fa496274b72ea3f0601f",
+        "url": "https://files.pythonhosted.org/packages/79/0e/f7fe256b3fdc6920cbadb3a53d7c853834f4f5aaf7df7ebb0bdf551e98d9/docker-wrapper-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "ef5f9854d4c8e4e4dabe1b02b8755e3a8a5efefe9562472f3b1e967452c26dff",
+        "url": "https://files.pythonhosted.org/packages/c7/b8/fdba7c4d9533a5b93c28bf4e6f5e4a5d0620f48b1b97c2bf1c806c814a43/docker-wrapper-0.6.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "b883aac31854804c8e187d1970ddf6e919ea66a1709c85eba0fec7c23f9c4e2d",
+        "url": "https://files.pythonhosted.org/packages/bc/e0/e51ce62653c6a2b3b31e9dc505b3abeba1d83d0555d33f7c9fb2f920479e/docker-wrapper-0.7.0.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "7ceb9f25ffbf30760a08d86b2b659eb8264b774fb4705950588a85f1bd588957",
+        "url": "https://files.pythonhosted.org/packages/c8/fb/3e064c6862d775d7ec32aeaa3c667271012d9077a6b45d50043ba220c812/docker_wrapper-1.0.0-py3-none-any.whl"
+      },
+      "1.0.1": {
+        "sha256": "db34d46de66dacef90c779c5c5fc490f28f33e56cfa3bd1c7c0a4ad9847db549",
+        "url": "https://files.pythonhosted.org/packages/a3/3f/5ace640a55810d825a39a94d20735a6aee80838679f1cfeabdb2fb2671f6/docker_wrapper-1.0.1-py3-none-any.whl"
+      },
+      "1.1.0": {
+        "sha256": "c4c69774a3d2422d58e055577483276463a8d8f8e71b9b172e0442def6fefd3d",
+        "url": "https://files.pythonhosted.org/packages/d8/08/a9369f63a659a9b0ef67c615e184a448605020363ec46712aead32b81f73/docker_wrapper-1.1.0-py3-none-any.whl"
+      },
+      "2.0.0": {
+        "sha256": "1ddffaabf4101b9f9584827c1bd85f2f53783999cc06dfd180c6c463b97ef13a",
+        "url": "https://files.pythonhosted.org/packages/b6/41/8bc7400a80e3292ad11174ce17340ccadcc2a5b38f9db8c69e95e35fa1e6/docker_wrapper-2.0.0-py3-none-any.whl"
+      },
+      "2.1.0": {
+        "sha256": "207235311231b48f6bace9a495542995ad2ee14be79d15bc6a7c0281c2e2ea31",
+        "url": "https://files.pythonhosted.org/packages/d5/83/89a93672aaa3a7bbe14a67d859b003c13a5ac0729031efdec2febebd86df/docker_wrapper-2.1.0-py3-none-any.whl"
+      },
+      "2.1.1": {
+        "sha256": "658543e0a1ab92d18c7e21d36f21c1c917a13a5f663e46a87673dccff5c2775b",
+        "url": "https://files.pythonhosted.org/packages/bf/57/68e44bf72e943c02904b8e5120506796447e1dc6c634b75390807fb768db/docker_wrapper-2.1.1-py3-none-any.whl"
+      },
+      "2.1.2": {
+        "sha256": "cd147a2ec362c088d9606b4c49e2f2ff8bdc1843524130ee083f3209d2e69663",
+        "url": "https://files.pythonhosted.org/packages/8a/ce/012329610619f46d32791fd729901b581b4ff785a258d575ffba14616c6b/docker-wrapper-2.1.2.tar.gz"
+      }
+    }
+  ]
+}

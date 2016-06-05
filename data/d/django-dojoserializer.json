@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1.2"
+  ],
+  "meta": {
+    "description": "Serializes django model instances to a dojo data compatible JSON representation",
+    "homepage": "http://code.google.com/p/django-dojoserializer",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "1b39f1e1a481dd024dca248963d069430cfb70897d6c3b8e410ca63d2e1bc07c",
+        "url": "https://files.pythonhosted.org/packages/a9/b8/f0e13d694aa8d82a8580f5de4dd265e2e67ce467e2edb3272d662ad59aa7/django-dojoserializer-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "13af5d239a6971c42f78e0ec57e0c40fee45b3c32c6d47dee5119bef5bbfc3fc",
+        "url": "https://files.pythonhosted.org/packages/05/21/95791239446b46713cc5672d148700d234514eb5da74142f5a4c068ccb9a/django-dojoserializer-1.1.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "b81609488db6013fec30608e0de55c4293fda4ac82fe5d439bf59bf32aeb1b32",
+        "url": "https://files.pythonhosted.org/packages/53/bc/ce83abf30f800de10b27409a1db8921fc8b632f470f28757f736089b49e2/django-dojoserializer-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "d7d208736013c1cf35d133f233235ee287bb964cb8b98820e2ff3a993e451087",
+        "url": "https://files.pythonhosted.org/packages/fc/0a/2fbd29b9686fee89aeb1eabe0f9a1049f9eda8f9016e514e9f5be52ac465/django-dojoserializer-1.1.2.tar.gz"
+      }
+    }
+  ]
+}

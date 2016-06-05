@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Provides access to Azavea's Cicero API for legistrative district matching and elected official info",
+    "homepage": "http://svn.plone.org/svn/collective/collective.cicero/trunk",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "92e684f741a4b6daaa2ff7025c8788278f5d240e689546d80006ce22f1244db9",
+        "url": "https://files.pythonhosted.org/packages/ac/e0/88a37682a87359647d0d7b42510d9020f48288890a927a68680117bc4bab/collective.cicero-1.0.zip"
+      },
+      "1.1": {
+        "sha256": "209fb3e93b843cd91dcfff547e4113ad5877228780a3830d7c3f3d2f89e70b5b",
+        "url": "https://files.pythonhosted.org/packages/b4/a1/75df76a94e1613c3d18bf9e42c73b192580e58af04b93bff20ac49386af3/collective.cicero-1.1.zip"
+      }
+    }
+  ]
+}

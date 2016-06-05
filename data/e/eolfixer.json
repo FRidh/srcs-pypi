@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Reinout's installable copy of pypy's fixeol script",
+    "homepage": "http://bitbucket.org/reinout/eolfixer",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "c6a920850405f9ef5af6c3418a27aaf90f5819f496033cdafb68d4b7443f80bc",
+        "url": "https://files.pythonhosted.org/packages/5a/97/50de008dcafb0fe4d84a7252482e108dc01172fb59341eb08b03944dc98d/eolfixer-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "cd7aae1b7da5de6961bbc4a65107e77a8b9c50474fbf29d55efaac74ffad4986",
+        "url": "https://files.pythonhosted.org/packages/13/a5/b458a758b79bb4fb85d8929eedbfe85ba968d18752f38606ada5440e9089/eolfixer-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "4fcbc2c60c3d23104a19c400b1526dc53e7986c337d0eeb8c7aa33aba468246f",
+        "url": "https://files.pythonhosted.org/packages/06/26/2e04e0a5bebb1d5891e6b4bd7ea0becb356e7a238788c52ee2a56d687972/eolfixer-1.0.2.tar.gz"
+      },
+      "1.1": {
+        "sha256": "e27a16e58248c8cda59b30f026e3cdac4191b914c96d60ac33f1b3664a1f7f0f",
+        "url": "https://files.pythonhosted.org/packages/d1/5b/2261a261b3c9f6a5904c1106bdce913716f2b954692cb75bd3e73f96cd20/eolfixer-1.1.tar.gz"
+      }
+    }
+  ]
+}

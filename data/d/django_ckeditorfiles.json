@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "CKEditor bundled as a django staticfiles app",
+    "homepage": "https://github.com/espenak/django_ckeditorfiles",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "48d6b1f54b8f4d8aaa214a276eb7eb3b8c5c739d7bd9f1ed8b2770565cf72932",
+        "url": "https://files.pythonhosted.org/packages/e5/07/914e6bafd0eaba899626809d684b14d494e0681c796b239a666171035369/django_ckeditorfiles-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "c8208bfe56ae32ddf4c53264937dff94e3a1cdb453ece9e6ab789053f3fe85b1",
+        "url": "https://files.pythonhosted.org/packages/39/28/4f4f57a88411e222430fc97c6022580dd0dbb1c1ddb0a2724182d3ae1186/django_ckeditorfiles-1.0.1.tar.gz"
+      },
+      "1.1": {
+        "sha256": "dd308e4976fb438c33de272f677e21e34c36b36412f88442385d4cd15a908f0d",
+        "url": "https://files.pythonhosted.org/packages/78/1b/5b779512c7cee7bad2208e370178b39050aa32c27e1af4813cb5aafe7e48/django_ckeditorfiles-1.1.tar.gz"
+      }
+    }
+  ]
+}

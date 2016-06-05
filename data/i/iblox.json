@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.5.1"
+  ],
+  "meta": {
+    "description": "Infoblox WAPI Module",
+    "homepage": "http://pydoc.jacomputing.net/infoblox/",
+    "license": "GNU Lesser General Public License v3 or later (LGPLv3+)"
+  },
+  "versions": [
+    {
+      "1.4.6": {
+        "sha256": "5159cb8b076693507b41debbebe358dac5de511126ea50a30b6ebeff4ca29562",
+        "url": "https://files.pythonhosted.org/packages/c7/6e/a69c6b344b2753bef59efceff06726c05c67bf35fd55b55591e236fe7e5e/iblox-1.4.6.tar.gz"
+      },
+      "1.5": {
+        "sha256": "77dde88e012bc0d60657afd0e94bbceaa33c80df67c9cb9f1c8424aad886e3a4",
+        "url": "https://files.pythonhosted.org/packages/41/e8/3a5e2f741eea651c67268820538ca27886d219b5fe1014e52529b17443d9/iblox-1.5.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "b981aa52b674248d4bae0a6351bcdb024c702d46029c419bd17e1459640cad86",
+        "url": "https://files.pythonhosted.org/packages/c4/df/af38069da234b38f782d8e3d1add4858a595136ad1bb7de81f119af54279/iblox-1.5.1.tar.gz"
+      }
+    }
+  ]
+}

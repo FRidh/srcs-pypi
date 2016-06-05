@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Python bindings for cloudfoundry",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "c2832c2321a6def438bff43f8e7410f0cd4b12ed9eff1b91ef36f0b576b3ff1f",
+        "url": "https://files.pythonhosted.org/packages/5f/3a/286115f4bf20b5716ca28e818c467e3d1a9d437075a4f29edd0c9327ad94/python-cloudfoundryclient-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "97de3a6a315a13584ec80e9e5850b8872fed6fd5b49e5812fe85afbb86e307ce",
+        "url": "https://files.pythonhosted.org/packages/23/0b/bdda972bf8fda91c5227046663f033cf160a02c4edd10dcd422acd01f503/python-cloudfoundryclient-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "OpenID authentication middleware for WSGI applications",
+    "homepage": "http://trac.sandbox.lt/auth/wiki/AuthOpenIdMiddleware",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "b756e8b7af99aa0cd72283e77d11bca57af6b59a4414f513711b3d41834ea5e1",
+        "url": "https://files.pythonhosted.org/packages/61/65/b2861242e50fab8585cd620f6bceb6b7e668e832415855f3d9c09baf5a28/authopenid_middleware-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "1fd41b3a51f7f8db8a1e447ef85005b0657a7b2806391ba18278b7155a93626c",
+        "url": "https://files.pythonhosted.org/packages/4c/a8/e1178075394cf947499744c3b14252cf5ac8e81a6b0d10d2bd56f233c755/authopenid_middleware-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "a222e53c97470c3e2ed7673a9b2150683694075a610e65a2e4b6897bc0905287",
+        "url": "https://files.pythonhosted.org/packages/f2/a2/c88aa45d2a00e88379ca82e2eee485f2ef7f3b1bcc2d82190b53ad590db9/authopenid_middleware-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "ff60fd6886e88ef9a50bb9ecd027577ccb78e87c24136f43b8486a4b76e29daf",
+        "url": "https://files.pythonhosted.org/packages/34/76/3e944565bdc2a282deff642d9ae56a2e550d7f2a44cc7c8c977121818271/authopenid_middleware-0.2.2.tar.gz"
+      }
+    }
+  ]
+}

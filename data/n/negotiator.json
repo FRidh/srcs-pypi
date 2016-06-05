@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Proper Content Negotiation for Python\n    \n    The Negotiator is a library for decision making over Content Negotiation requests.\n    It takes the standard HTTP Accept headers (Accept, Accept-Language, Accept-Charset,\n    Accept-Encoding) and rationalises them against the parameters acceptable by the\n    server; it then makes a recommendation as to the appropriate response format.\n    \n    This version of the Negotiator also supports the SWORDv2 extensions to HTTP Accept\n    in the form of Accept-Packaging",
+    "homepage": "UNKNOWN",
+    "license": "CC0"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "139eeb1f56af27cfc8a2d6f361c84fa517d1ce3f440c477b741689d771590be3",
+        "url": "https://files.pythonhosted.org/packages/d5/9c/520938226e807536f742829f0de288260496ebd5506495363f63615a404c/negotiator-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

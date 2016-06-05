@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.6.0"
+  ],
+  "meta": {
+    "description": "Extensions to `colander`, particularly useful as part of REST API validation",
+    "homepage": "https://github.com/platformsh/colander-tools",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.5.0": {
+        "sha256": "39b979f7f6acfe8ca8c9942be926da0980342e10c0acdcb09b40901768f48324",
+        "url": "https://files.pythonhosted.org/packages/8c/4b/13e981b09bc47bf48515b7c45c87061aafb14014e7ee4ca0ec228f8ed10e/colander_tools-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "70c4a475c104bf960700b5bc5533a39174cf39456288b464e15303f891fa897d",
+        "url": "https://files.pythonhosted.org/packages/88/08/a37486b97bf452b6d723b2e2c1fb779167a1b023d6f977bd142321dcfd75/colander_tools-0.6.0.tar.gz"
+      }
+    }
+  ]
+}

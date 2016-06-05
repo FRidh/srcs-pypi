@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1.2"
+  ],
+  "meta": {
+    "description": "Useful additions to the QIIME analysis pipeline including tools for data visualization and cluster-computing",
+    "homepage": "https://github.com/smdabdoub/qiime-tools",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.1.0": {
+        "sha256": "14f0fc3e378e45fe712669c61459f11893be5506d3dd4e279c208e978b0a14b6",
+        "url": "https://files.pythonhosted.org/packages/41/f3/b93c42529a8918d7d479d4b052aba26854cb7053b6772af3853568a6ce39/qiime-tools-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "d54ff2999f8ce71621b8fd2a153bca567a1dff4d61159f9861674b168fdb5915",
+        "url": "https://files.pythonhosted.org/packages/c4/34/56cd3ec085303c688219c7d4e570a69b7dd2b6dd3b8febcc1385c2dc6609/qiime-tools-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "fad37c85e576b17448f7b7998b08793429460e1a66ff052df03c2c43751fa911",
+        "url": "https://files.pythonhosted.org/packages/4b/99/e2df83152a22a5cc67ac8aad09f06d695587c858bef35bc2a15173f1eabf/qiime-tools-1.1.2.tar.gz"
+      }
+    }
+  ]
+}

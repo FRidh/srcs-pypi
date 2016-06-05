@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.8.1"
+  ],
+  "meta": {
+    "description": "Python localization library",
+    "homepage": "http://hg.mozilla.org/l10n/silme/",
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "fed5573e5a8d439bc4a31aac673952b0d3a5ce28b77a353fb1ec17d6149a536f",
+        "url": "https://files.pythonhosted.org/packages/b2/08/816fecfbcc69ebc7817aa462c31072e0959091d4e283b171b0838e1f2602/silme-0.5.tar.bz2"
+      },
+      "0.5.1": {
+        "sha256": "a1b9c1da034225cbf965e1a4bb122ed17b78f701f6c76400bc1559c99c33ea54",
+        "url": "https://files.pythonhosted.org/packages/1c/a7/40e2a1b7a8e112ac6889204b6f558e581e71e78174b27f3d5cca77f59f47/silme-0.5.1.tar.bz2"
+      },
+      "0.8": {
+        "sha256": "7d8d913ad4d44c5b7589cb7cce728d52574755ae345d9181b975b0776d9b6162",
+        "url": "https://files.pythonhosted.org/packages/08/7b/6da02166122e1fe2806d19f4191d56a6ef161660776b50f5fd40dd1a8162/silme-0.8.tar.bz2"
+      },
+      "0.8.1": {
+        "sha256": "cac54177159b7798f56bc04db6ff77b2fa10807d07130ee5b81521bc3841e0c8",
+        "url": "https://files.pythonhosted.org/packages/8a/a6/225c3a43f0f49a15fa131aa61c5314436e882bc33cabec103102395cf37e/silme-0.8.1.tar.bz2"
+      }
+    }
+  ]
+}

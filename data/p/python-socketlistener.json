@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "A simple socket server for sending encrypted data over udp from one to another",
+    "homepage": "https://github.com/fliphess/python-socketlistener"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "4e66e94cd7977ae4b4b6320e4a529b289901fa0eac58ad9351c29c09738ff5fa",
+        "url": "https://files.pythonhosted.org/packages/b1/0b/a109381acf03a978df128102baf282ce6de23f7963cf6aacef3d0280cd18/python-socketlistener-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "f7a0737433925c35504ae0f2e7f8f596cae7cc8b749e1ae753b0c126b57e4b12",
+        "url": "https://files.pythonhosted.org/packages/df/8d/a6033dd8c66103eee13d32fb2be19df8c179d3f8b4da4bae6886da2482fc/python-socketlistener-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "f86061b626eaeefcb345ebae75e7235c3198e83707ad8a3a8cc4b73307f2a0a9",
+        "url": "https://files.pythonhosted.org/packages/aa/a7/bcea8753208bb8cbf95bd8cedbbc1a5c2e8bb61e69edc87a22b8fcec46f6/python-socketlistener-0.3.tar.gz"
+      }
+    }
+  ]
+}

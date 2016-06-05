@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "Eagle is an abstraction layer atop Graphical Toolkits focused on making simple applications easy to build while powerful in features",
+    "homepage": "http://www.gustavobarbieri.com.br/eagle/",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "17bb1a827a2fdeb0c8004b04f53bd68f20c8bdb5063a319ae6e685d07915a167",
+        "url": "https://files.pythonhosted.org/packages/2e/ff/2621ec65fd061f6ba4dc3743d7828924f943bb8f5eeb793434d364a6c4b8/eagle-gtk-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "46d7febc034c8c583cc4dc3c279fbb7e6c25432f21283acb57ec1a0680ae5e43",
+        "url": "https://files.pythonhosted.org/packages/10/bd/ea8376b0ea37a2a4f60d633bbde7cbd025fc41fffc9166864511613548e5/eagle-gtk-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "b628c3ca4a2cd93116eec157757bed4f0ff012a44e11875517c5f6b1b9320289",
+        "url": "https://files.pythonhosted.org/packages/40/db/066dd689ae2f4c4f2a0dc4adbb825461a536aaf69ea3fedfe003ad1c47a4/eagle-gtk-0.5.tar.gz"
+      },
+      "0.7": {
+        "sha256": "d9baa6da45ef176bed187a0c2ffd5547cbb50d969922333a918b600883840920",
+        "url": "https://files.pythonhosted.org/packages/5b/cd/cc60a739f475790d191a3e67bc93d35b5a0b080a44998602b80b102e0dbf/eagle-gtk-0.7.tar.gz"
+      }
+    }
+  ]
+}

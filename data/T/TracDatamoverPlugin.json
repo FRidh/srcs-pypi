@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Move data between Trac instances",
+    "homepage": "http://trac-hacks.org/wiki/DatamoverPlugin",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "a6c393a69e7e56347f29f6654fa27fb621d47bb0a6b86dcd9ae84f7f3ea16be6",
+        "url": "https://files.pythonhosted.org/packages/a4/3a/6bcb12f01da1326f19159306f0747303e13668f258bc678df51398b6cc3e/TracDatamoverPlugin-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "d5a3086f1757dc085f71ae156ea2315c88950e1923d90d5a8c29706af6403050",
+        "url": "https://files.pythonhosted.org/packages/83/38/f9cdeb3462d9a6ce916fa6a89400f6bbf74e30e5f4fdd85572acec9b60b6/TracDatamoverPlugin-1.1.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "0f212f5f610356759d0c7a98e15a9c722502568972426a389e1554446f85d7f6",
+        "url": "https://files.pythonhosted.org/packages/c1/9a/d8f9c00ce1d410c5893d74813b2a7bdee5447cfaba9430eaf0ef16ff252e/TracDatamoverPlugin-1.1.1.tar.gz"
+      }
+    }
+  ]
+}

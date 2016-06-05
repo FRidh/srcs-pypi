@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4.0"
+  ],
+  "meta": {
+    "description": "OpenStack Telemetry middleware for generating metrics",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "c47ad351506d9486da4091848fd7c8e150db80d274a4f217220f9d79396b72e4",
+        "url": "https://files.pythonhosted.org/packages/27/32/00d02f996ef64c3816b76c55c302934e3c29502cc255d9fe58af13c2c0e0/ceilometermiddleware-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "b2cad5b60e4cdc7b756589fc3687c5f27c47b3459f274fb73a19bfcedbd22e43",
+        "url": "https://files.pythonhosted.org/packages/4c/74/2484f826b2c8c4d00cb98e7e92172a3e6e713b9011fdd78f49b190ccf958/ceilometermiddleware-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "decfa731d779f64d1dbefe0be883834e824e8cd13fdd2070c3eaf2bb5b68e428",
+        "url": "https://files.pythonhosted.org/packages/d0/92/acd8d96fce330f67a84576f4617cec751d9f8373910fbe2302836912696f/ceilometermiddleware-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "6a758beb5f4b9a54dca4fa28608fb98f70a9ad56fac545ce79b8898ab5ed03fe",
+        "url": "https://files.pythonhosted.org/packages/ac/17/d3b4049dcd0c20ab18ebb60987960cad578f33e85e012df4797f7ecb3d8b/ceilometermiddleware-0.4.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "7.0.4"
+  ],
+  "meta": {
+    "description": "Python API for IP2Location database",
+    "homepage": "http://www.ip2location.com",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "6.0.0": {
+        "sha256": "878520ffbd77be810ee18a899bc1eaff8f737597cc640b28230a8cc8714a4f41",
+        "url": "https://files.pythonhosted.org/packages/bc/20/fa7a1bc0c828d46ed4b7e5502ea5e6c0149f8ec9c671a72ef07f4e61697e/ip2location-6.0.0.tar.gz"
+      },
+      "7.0.0": {
+        "sha256": "5111176a160ff5acd9fbd824038a2503a1b784a57eb48e712facc7716a8a4b5e",
+        "url": "https://files.pythonhosted.org/packages/27/94/938914758414929f2b778dc3c23fa5a3d44d25fab956a02fb97efee2c8ef/ip2location-python-7.0.0.tar.gz"
+      },
+      "7.0.3": {
+        "sha256": "9c64a382a27cc1bcb70669632e677ea3fc9a25e0da7d9e4928ae57fd767800a0",
+        "url": "https://files.pythonhosted.org/packages/cc/e5/afc329be88d8118b3b245a49ebeab65bf06c0697925896e8448ffba3d9ed/ip2location-7.0.3.tar.gz"
+      },
+      "7.0.4": {
+        "sha256": "273eedbd93f486b4e2ac2d5f1039083f9f7e0d72e2d6927b8950e2d88c62dab0",
+        "url": "https://files.pythonhosted.org/packages/0c/e5/06a832febc56ec213d2bcc663243f1404db709e3feb82e3afcdbb13c02f6/ip2location-7.0.4.tar.gz"
+      }
+    }
+  ]
+}

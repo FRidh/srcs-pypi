@@ -1,0 +1,98 @@
+{
+  "latest_version": [
+    "1.0.6"
+  ],
+  "meta": {
+    "description": "Django middlewares to monitor your application with Prometheus.io",
+    "homepage": "http://github.com/korfuri/django-prometheus",
+    "license": "Apache"
+  },
+  "versions": [
+    {
+      "0.0.10": {
+        "sha256": "618d297f3838c361f090bdef4e7658c80dd7de66a3734421ed97f1ee676cee44",
+        "url": "https://files.pythonhosted.org/packages/ac/43/c1784ce83ab3da4de46e5c4a962d575e013b5dee07ae2d5d25ea68481981/django-prometheus-0.0.10.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "e4f1d03b380b00b906c663f759adb0d81b44e2a9751e7ea5c2ce6bba363e0683",
+        "url": "https://files.pythonhosted.org/packages/8d/ae/fd1d80edfb69335c8ca5fbf60d5d703d18d2fad1688c104ad50aa719f944/django-prometheus-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "b5f459a2e09126158f94d4f20da0daee2c784a1527a967f7cabd03cec3513a31",
+        "url": "https://files.pythonhosted.org/packages/e0/05/46bf34a4651d8b8c1d679a2191e30aabb43bd46c8cd4dd783b0799e6b7ec/django-prometheus-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "5130079a93fe01d5efa2aedc02af7aa3c301071744080194c41dd7e2efc7f778",
+        "url": "https://files.pythonhosted.org/packages/a9/ab/117fd6afff0755b5991b9df0a65157caa26bcd193cc9cded42d0e66bb53a/django-prometheus-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "0a4ebd2c7ec3809794f9cf922690e1b65de22845ba6e9cdab7cfaa2d0083db3c",
+        "url": "https://files.pythonhosted.org/packages/d3/b6/f4cc3ed6e713be8896dd145da8e5d76866acc8898d4b612d9a43452e6455/django-prometheus-0.0.5.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "e6330ff6dcdc0f55d3f0b4c2c1c9940ffcb1eb3fde55c84ca632e35b496c63d1",
+        "url": "https://files.pythonhosted.org/packages/d1/74/7a5324ac19cd25fa8f78bfd4e512362ef255cd73ec8c4d9af7e2d83b69d7/django-prometheus-0.0.6.tar.gz"
+      },
+      "0.0.7": {
+        "sha256": "3430e935a2ec38b94fb65a0d4d7f12674211da3a07c38cb9eef7a1dff70f5d92",
+        "url": "https://files.pythonhosted.org/packages/52/df/4d0d6d85d51c8e5b41d560e26275ed6becd5d29dd93e863ca112cf6ffd3d/django-prometheus-0.0.7.tar.gz"
+      },
+      "0.0.8": {
+        "sha256": "7adc3e99e3733ac90c1a34a4eaa04d8b4259cd6ba9b26aa49a9077253f7fb014",
+        "url": "https://files.pythonhosted.org/packages/34/c6/c02ba735192a8bae50ed4afeb5522ffe3626cc6cda89d6b11cef7f2fcc6c/django-prometheus-0.0.8.tar.gz"
+      },
+      "0.0.9": {
+        "sha256": "f494fa2c0775d5917790e7390e5a0f2fad46795c0c778aca869e214b09e570ae",
+        "url": "https://files.pythonhosted.org/packages/88/2c/d807719441f72d37e55706ef1dd6853d4410c750f656702d2ab7d5e85ce7/django-prometheus-0.0.9.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "93c6f9d2b0cd3683b73efc51a3702c896138549538dbbf7ecd9b4a03374e8dc5",
+        "url": "https://files.pythonhosted.org/packages/d4/15/08f01e1b5d4e60b6aa359c664696b011db3ea16454da68e23e53907c8d68/django-prometheus-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "537d5a5d56a4b67c516593b96076f23c587426835a4f3b6f153fe78929cddd2c",
+        "url": "https://files.pythonhosted.org/packages/4b/d8/ba59f1facc508bc38d66b31097b659f268251a1b9b402e4ce4db534a7a9d/django-prometheus-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "a9f2577a09a45fb99e5c601f32a54a9375162239e1bd233d0af0d6cc78ef21ea",
+        "url": "https://files.pythonhosted.org/packages/bf/06/8fc884caba681e45238eac9c4721c567b6032dc862297833e284cc569c6d/django-prometheus-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "595405cda478f461867300d2322d2a1ba306d65f92dbe69f3407f14a13d08ca1",
+        "url": "https://files.pythonhosted.org/packages/3a/05/f49eb8d9f7d04cb28513a37487cfb96f8da16c58f4ba0334d5b89608479e/django-prometheus-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "3e4a29a8bfbb653c18c721ad73639299e2e6d872af11d1ce3d0971dd15567ef0",
+        "url": "https://files.pythonhosted.org/packages/14/b7/6abe443d08f34a4f7df7f86f44ffe9526e0e40c2d6a71636c6a4fe84d94f/django-prometheus-0.2.2.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "c0acce6bcdc39a372f0e96beebe30177c594258f2bd1ac6c455e34beb84fd076",
+        "url": "https://files.pythonhosted.org/packages/28/8c/a7a7002a8c7b79076fe2d0465cd1c0c23e9d8f7519f0f42062cbe2988017/django-prometheus-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "cec4493ca584bbb215954761b2b02cec65dea0810e550d9cf4b69ff46fa0f890",
+        "url": "https://files.pythonhosted.org/packages/ee/70/cec3fdce714e21a63bb4a4ae530caebc3ed086bdbfeedd4640b68364ce22/django-prometheus-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "67e0cf6042fa6bc59190406492fa7b32fb2c8548433aabf0fc8f0e82c1af5a27",
+        "url": "https://files.pythonhosted.org/packages/28/8e/c19019c35dc05d67293b9b1345b09a4d142c669e997dc094b3b08e8b1a28/django-prometheus-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "9c66d54046fd6be86b184a59308493f815df2adf4e87565998526c04fff3d7fd",
+        "url": "https://files.pythonhosted.org/packages/90/0b/1c6b2f21d0d620376447a8f8e5e4ea86f595c87e105faf5eadf85b7bdfb0/django-prometheus-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "744837f520470e9b073b9eb8056d406ac52972b71ae2f8fb408531b1edd2e6db",
+        "url": "https://files.pythonhosted.org/packages/62/cb/d7dec7ca8ee16c078f5b9fd4d6bb7fc3450486cbf48b226fd14f98d1a2ba/django-prometheus-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "b1f722190fa46348c2f27f936abe88ed3b81070b824f2306580c6e04ff2913eb",
+        "url": "https://files.pythonhosted.org/packages/59/f8/3a5c80160322443b8cf8f105f04fdc54399b9a8d416b4509f38a8df4793d/django-prometheus-1.0.5.tar.gz"
+      },
+      "1.0.6": {
+        "sha256": "cf44d06f0bbcbb90fa16008cea01dd79f552f149a5670507083448c5e91bddc2",
+        "url": "https://files.pythonhosted.org/packages/2f/3d/19e0e911153084e879a913874092fd223e7bd5957b23d551ed542fba8de4/django-prometheus-1.0.6.tar.gz"
+      }
+    }
+  ]
+}

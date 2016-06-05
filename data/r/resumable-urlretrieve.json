@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Small library to fetch files over HTTP and resuming their download",
+    "homepage": "https://github.com/berdario/resumable-urlretrieve",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "21db5423ce622816108e596134b39872ddd0387e30ddcf329ebcb0e9803b59e5",
+        "url": "https://files.pythonhosted.org/packages/21/d3/3a295322f47e657881c6382e0c7f5a89ca138cdcbbc3c8da708e233ef3a9/resumable-urlretrieve-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "ec7e792960889d5e388b4ec472da41ece53aa738491d81a9edad902955794eb1",
+        "url": "https://files.pythonhosted.org/packages/19/8c/c25ae9f1ac7b761c5aedbd3f82c416638ad87e3ef06eecb5323fb36e97d3/resumable-urlretrieve-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Trace pytest tests with wdb to halt on error with --wdb",
+    "homepage": "http://github.com/Kozea/wdb",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "1658b6606f6141821f1f7d1733d5361fbdb56031695f00236fbdfc2e120fca30",
+        "url": "https://files.pythonhosted.org/packages/9e/e4/f21f09a686b1fe18409559ef5987efe95409d3c8f110803dd6118334c30d/pytest_wdb-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "bf09fb81d9d7419398c718e64a0350e8d41a6caba3cdb8502bc3040b446fafa0",
+        "url": "https://files.pythonhosted.org/packages/d7/36/7b45aee6c60b194414534af8ae3c019ec3066591729eb21e703eedbc9836/pytest_wdb-0.2.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "0b7733ca698483b38f51584fa68b568aa91abfe554ccbff8ec1d3d036aeb8d03",
+        "url": "https://files.pythonhosted.org/packages/d8/3b/fd9f5424247982cb58a08843df9931fe30417daa1efb4792d8495a98aaad/pytest_wdb-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

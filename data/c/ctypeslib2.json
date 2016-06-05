@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "2.1.4"
+  ],
+  "meta": {
+    "description": "ctypeslib2 - FFI toolkit, relies on clang",
+    "homepage": "https://github.com/trolldbois/ctypeslib",
+    "license": "License :: OSI Approved :: MIT License"
+  },
+  "versions": [
+    {
+      "2.0": {
+        "sha256": "d55961d0a810ad0b245e2f933dcb623827223430996a9638ea7a9f8343218813",
+        "url": "https://files.pythonhosted.org/packages/13/23/9d8169631ff729b19ebf864703e9b69a0448380459113250fdb2dd7fbbb9/ctypeslib2-2.0.tar.gz"
+      },
+      "2.1": {
+        "sha256": "3204499fd1742df773e9906054a65b5cf459dd0e4166b70baf7d23cff86288c5",
+        "url": "https://files.pythonhosted.org/packages/a3/7b/ba864d6ceb1fac8255a2ed5681017c7bb3c745d280ee41868ed5cb458624/ctypeslib2-2.1.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "cb6a2a061dd708e551a431c5de4eb93c29f9860cb080ca1a023dc8369f265bd2",
+        "url": "https://files.pythonhosted.org/packages/41/a2/c83f6e2b3d7e2567ca65924807a1ecfa1e330aeb6f7868b6eae1ef4cfd1b/ctypeslib2-2.1.1.tar.gz"
+      },
+      "2.1.2": {
+        "sha256": "987a46d561ad78e639934a2a3d19ce22811998422474675ff29e9c1eedb0fa7f",
+        "url": "https://files.pythonhosted.org/packages/de/98/c6e3c54cad2f71a5c39a86cc74a16a47ddf46ae09023e3a96e42693099d4/ctypeslib2-2.1.2.tar.gz"
+      },
+      "2.1.3": {
+        "sha256": "fabb4b87a759d3cec0d6bb151eea402d7ba8ed2258e91fa1b8d0cd006eae05dc",
+        "url": "https://files.pythonhosted.org/packages/02/2b/8a39b6ee8ac440131a03ebd6d0c18ec545b2cc641d4ad1c4ad6ae6d1ff74/ctypeslib2-2.1.3.tar.gz"
+      },
+      "2.1.4": {
+        "sha256": "e1f58a47b959ffcab755de9fd34e22a3a586491ea68d25c1377b5a258c879f05",
+        "url": "https://files.pythonhosted.org/packages/34/ba/2339ab09e6f18502c42bc28eb999a01cfa7399a49a73bac680f5b188b4a7/ctypeslib2-2.1.4.tar.gz"
+      }
+    }
+  ]
+}

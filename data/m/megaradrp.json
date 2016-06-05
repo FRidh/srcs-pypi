@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "MEGARA Data Reduction Pipeline",
+    "homepage": "https://github.com/guaix-ucm/megaradrp",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "a63ca5a4dc514bdd4fdeb17036dd28e65eb369dd49cd14cbf491c82c6ae4673d",
+        "url": "https://files.pythonhosted.org/packages/de/8c/eb38fd6acddd42b60e0ce248303bda8a87f7820ceb8150d592f300592b09/megaradrp-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "c7a25bda53d903af4d995e8ccffef15988afdb20224594502d869a8e4dbbe106",
+        "url": "https://files.pythonhosted.org/packages/44/7d/8892bf5cb4f9706cedabc6c10e487c579b8d074a0048cb7ec39361a09262/megaradrp-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "af40b5526dacc092fc87839d0b37939db25f3362bb058b1718282786b1e2143e",
+        "url": "https://files.pythonhosted.org/packages/d4/a7/633e06e5a8a852d9460f2fa3c0134e1bb85e93c992f1065f6b2297e5d407/megaradrp-0.4.1.tar.gz"
+      },
+      "0.5": {
+        "sha256": "8de8c0fb9a746aadd9b89a63f7023fd56ff21f8c7b9eede48cb760e73df8c53e",
+        "url": "https://files.pythonhosted.org/packages/55/3e/f6c0364569db36f8c91a1e1599bae3c8e1a043ad79212723cce431031b17/megaradrp-0.5.tar.gz"
+      }
+    }
+  ]
+}

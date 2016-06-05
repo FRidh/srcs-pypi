@@ -1,0 +1,506 @@
+{
+  "latest_version": [
+    "2.6.0"
+  ],
+  "meta": {
+    "description": "Layout mechanisms for Plone",
+    "homepage": "https://pypi.python.org/pypi/plone.app.layout",
+    "license": "GPL version 2"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "5e80292422feeab1535f23911133711fb3e7f00ae0f4a4997ef9cbfb409ec55e",
+        "url": "https://files.pythonhosted.org/packages/a8/e4/d17cdb9814445cbccaeba86d7a4490ffb24a52c92475b6eb45822b08fc3c/plone.app.layout-1.0.tar.gz"
+      },
+      "1.0.1.1": {
+        "sha256": "fffeb5fe9b659b554e0627236969a222fa5dd155dc8434458d616911f87c9a7c",
+        "url": "https://files.pythonhosted.org/packages/fb/b2/f465eade706d182255df7d2bf4951ad2e5be37cf9ffe98c8f9f58bc6e01a/plone.app.layout-1.0.1.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "afd80c9e58cce4808733043ddaa4c1454cdc45c176aa81f0141feccde0c61d45",
+        "url": "https://files.pythonhosted.org/packages/1b/85/5edcddcd989b08ba6bb5fcf49035e0df284e2b0015c1baa7184bf980f61e/plone.app.layout-1.0.2.tar.gz"
+      },
+      "1.0.2.1": {
+        "sha256": "e54cc640988dfef6974813f129adbee75ec0a11a27ee26258cc016c72748e780",
+        "url": "https://files.pythonhosted.org/packages/c5/b2/84fbb68e52985d287eeb0fe297f2f476576881fae8ff87d4a30bd10fb382/plone.app.layout-1.0.2.1.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "b4776a73b4c1b2c1afb32f0b5850596ca7631de7cff7ed8f4cdd7242b2ea6dbc",
+        "url": "https://files.pythonhosted.org/packages/93/3b/a7e3fb114dcdc95a3ca626c08906b9399ef9074b2f84f19f051ed22f7492/plone.app.layout-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "38b14174c72ec55dd8612d25e16225ac5078dc6170257b8c741d1ce7a0a3e82d",
+        "url": "https://files.pythonhosted.org/packages/5d/c7/739b951b5d23d8c75f2e7c1c32e2ae0e2a8b6a2f1c6fab4ee7b4099547a0/plone.app.layout-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "1c7ecbcba3ff1f71c79b30a27b5947f358333cd2709778773dc63836ef73fedd",
+        "url": "https://files.pythonhosted.org/packages/3b/b1/172aa813b7e500fef5de1bd0b0a2189f45dfb6c1e3fd9c53562a2a60e5e5/plone.app.layout-1.0.5.tar.gz"
+      },
+      "1.0.6": {
+        "sha256": "1dfb22b2f5e71d619be64998440d9aa4d8319c227a7f6f99dcbf956cc6e0025f",
+        "url": "https://files.pythonhosted.org/packages/5f/82/b61a8349566f84cf67a70e26a028c1558996aae0d14e251511fabcf50a6d/plone.app.layout-1.0.6.zip"
+      },
+      "1.0.7": {
+        "sha256": "916d1590e962e936d69c321759b8b65345a1be63039e7ef277696eb38379465f",
+        "url": "https://files.pythonhosted.org/packages/60/65/64308492ac0f03e7845e3d0066a4895d1ffac4e048b6d818c8cb4a297d6b/plone.app.layout-1.0.7.zip"
+      },
+      "1.0a2": {
+        "sha256": "160c92ff4ab2c22f302f4881fc77e10f366a27f6e65f7cb8a8fe3fd41d30e0d0",
+        "url": "https://files.pythonhosted.org/packages/39/cb/3523dc2097f73a964df1632e79117efcfdd817eed540e9c3ca0165ff0c29/plone.app.layout-1.0a2.tar.gz"
+      },
+      "1.0b1": {
+        "sha256": "324d8a95ba1902b8546a41e60aa8746bd52199ec743b7cb8595f0de7a03114b0",
+        "url": "https://files.pythonhosted.org/packages/d5/a2/febbc0a2eae069a821576ed2bfbe4dcf236575764f3dba68e0bda69768bb/plone.app.layout-1.0b1.tar.gz"
+      },
+      "1.0b1.1": {
+        "sha256": "b7215e0d51ee8c5bfb283413d2eb9541089a8729b18613d6e1098ff50dfa6178",
+        "url": "https://files.pythonhosted.org/packages/89/54/da01e0e19958ecb788c4fa208f6d0e18c8a06c68c1d2403b093c056e1d88/plone.app.layout-1.0b1.1.tar.gz"
+      },
+      "1.0b2": {
+        "sha256": "514cc3498624592f80ca180aacc831800027f32d658a68e717bd40dbad45ee5c",
+        "url": "https://files.pythonhosted.org/packages/5c/28/11f556c736f9205b403e3361ce174f32c859af851e91fe6a017fb3180de8/plone.app.layout-1.0b2.tar.gz"
+      },
+      "1.0b3": {
+        "sha256": "273f43f9931e59e7748ad77f9be6b0ef68698aa3aa53083f6f51d18bec6a2b35",
+        "url": "https://files.pythonhosted.org/packages/13/dc/8ec38701a422027525695a85295a50ce4d3720e7db6771a63783bcbf4a64/plone.app.layout-1.0b3.tar.gz"
+      },
+      "1.0rc1": {
+        "sha256": "48208287b8e44b7e62e1d77b3eb4958d7f15c4bd984edb4baaf41ab45d0fb3f4",
+        "url": "https://files.pythonhosted.org/packages/c6/d2/1209635ab18d807a59e87948cfaaf6636a437a41c579c3da09a2bac5cf1a/plone.app.layout-1.0rc1.tar.gz"
+      },
+      "1.0rc2": {
+        "sha256": "a4db6b7ac0172e6c65e14a812347a8b3f648f7572d889210eb65b9f45e198bd5",
+        "url": "https://files.pythonhosted.org/packages/9c/a5/cc748e813c902873e5d50aa174cf4d9bc5cf98883fd43fc24ef1a572ea83/plone.app.layout-1.0rc2.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "bd056c81f5d02d49ea5caf1d9633f1690947c20e09bc6c244d6de57ee76e24e4",
+        "url": "https://files.pythonhosted.org/packages/1e/00/aa159f7ac4007e081c0ab1bbb03648452feb00dba5a0ba0e263cfdb3ae12/plone.app.layout-1.1.0.tar.gz"
+      },
+      "1.1.0a1": {
+        "sha256": "326d29e0b7363a4c738a46d579c56b56d7bd6daba0e67e7f26485b40737c0a54",
+        "url": "https://files.pythonhosted.org/packages/ef/06/08afa3e77a848dc5a07c182c1f8a2c8ea5adc65b99b98351c43f313b17bc/plone.app.layout-1.1.0a1.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "b7a3a959185408c23d9fcc1f87bc99216d7a6082a237037fec69c5a376e72ca2",
+        "url": "https://files.pythonhosted.org/packages/b6/6c/64d809f7e0e5d34e4f88d4640d1b6a7a0f0a44d3a602c821b8aeb2029253/plone.app.layout-1.1.3.tar.gz"
+      },
+      "1.1.5": {
+        "sha256": "6165c4a1ca4d2d06120cdd0184fbede2f7c827cf5181d6130286c483727eac48",
+        "url": "https://files.pythonhosted.org/packages/99/cc/f6ce0b76995dd6f79e5f6544318b96deeb9aaa607621a35a6bfdee286294/plone.app.layout-1.1.5.tar.gz"
+      },
+      "1.1.6": {
+        "sha256": "38d0651c2de98f6496d3c56493e158a985333fa0b9d5ea66d9eeb1e8b8a67499",
+        "url": "https://files.pythonhosted.org/packages/1e/95/cacfed548c3bd327caf9d07eeda7b8a4c6dde97666a1b63e17dd2aa57617/plone.app.layout-1.1.6.tar.gz"
+      },
+      "1.1.7": {
+        "sha256": "b7748e0a5097d4c6e6f6419095dae7a06ab78daeef366f5d4cfab08fc5329c05",
+        "url": "https://files.pythonhosted.org/packages/d0/a8/8db34cb741a733e06d7792f73a03df47b4c6d4e4905429b55a572bc6313b/plone.app.layout-1.1.7.zip"
+      },
+      "1.1.8": {
+        "sha256": "591cabe0e20fb6346b773abec284ffeb6cd66121e566d966acb7419ee3f71e7f",
+        "url": "https://files.pythonhosted.org/packages/ae/10/1484288127383db90231feb67dd6a0cbf0ee3399ed21d3c9a81ad1c9bc3d/plone.app.layout-1.1.8.zip"
+      },
+      "1.2": {
+        "sha256": "28bbf6472048b4c85445a43c713fffd32d52a514daadcea4bcedfb1416ca33f5",
+        "url": "https://files.pythonhosted.org/packages/9e/4d/e8b41cb9372c46e8077d3eea0c4acc14719078b2b70491bfd11ab9671552/plone.app.layout-1.2.zip"
+      },
+      "1.2.1": {
+        "sha256": "fc0d08a0ccda18b175eaed8cc1d62cf9c13af5ab1c7cd68e2190f8b79aa3679e",
+        "url": "https://files.pythonhosted.org/packages/1c/d1/ec2cd38eabfb85487bb0ce58d6c442e5d753a15b8b54385d56b5e7b71834/plone.app.layout-1.2.1.zip"
+      },
+      "1.2.2": {
+        "sha256": "08e1d5273817cf33f0112f401f04c67ed4f644417292359f18864a64fa0a52ab",
+        "url": "https://files.pythonhosted.org/packages/e6/84/1cbdaefc917e607ddaa1b5654afe95aafc983d9bcc6ca5135af63209b738/plone.app.layout-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "5fac861bd3318d84de5fc9601bc1bc49f48229f74dcf536b952a5a8206872500",
+        "url": "https://files.pythonhosted.org/packages/e5/b6/1e54f5e0a0b0f9fabc1c2842144be134a69e24591c36bc50b93b7e2f55c0/plone.app.layout-1.2.3.tar.gz"
+      },
+      "1.2.4": {
+        "sha256": "7e0669c416a15eee3adfe636d25b295246cef0ef88c26eaa3478f3a45a59a225",
+        "url": "https://files.pythonhosted.org/packages/71/1f/6c1a12c91bfcee680d7b1dbcb65fedaba74a571a3af192a413ccd64b716d/plone.app.layout-1.2.4.zip"
+      },
+      "1.2.5": {
+        "sha256": "6e3058173e568e65f2266c471386a614463c1ca7759c7245f672be04bd36db04",
+        "url": "https://files.pythonhosted.org/packages/c1/9a/348bc18703d72619b7fa7f9bdc6ec4fdfc1212ec1d32dfba2f8e308914f2/plone.app.layout-1.2.5.zip"
+      },
+      "1.2.6": {
+        "sha256": "41149aaafe93a6072fc229fe6f6ea0420b6572b608065cb274441b731a83436f",
+        "url": "https://files.pythonhosted.org/packages/2a/bf/dd53180e4e7f61a28221c8c5ee6b283e2e7ec083f732fd6d930cddb7353f/plone.app.layout-1.2.6.zip"
+      },
+      "1.2.7": {
+        "sha256": "00cc8bcc30c842a104255a51fd4215a1a5842ab92b405748333db9d8ff5b4db9",
+        "url": "https://files.pythonhosted.org/packages/84/01/8346919762170d99ff81148eaeb7752e77caf1d7246e9b20d1a0ff0da2d0/plone.app.layout-1.2.7.tar.gz"
+      },
+      "1.2b1": {
+        "sha256": "404cbd0beae05e464d114e8ed53e41b04b0449d8a9dda5cbe700c39a6d76b38f",
+        "url": "https://files.pythonhosted.org/packages/98/5b/7487aa3d7ca545cfe715df815ad4f2f09d77072bc5ee2d3ebc63e9b5b2c5/plone.app.layout-1.2b1.zip"
+      },
+      "1.2rc1": {
+        "sha256": "099056941f48d66aecf96ebbe8ebf5162ea1399c0548572d89412156f2029ec5",
+        "url": "https://files.pythonhosted.org/packages/cc/5b/58c088d0d94f75c61d7e7b4af4058730200cd022c12e2eec4cc274ad3441/plone.app.layout-1.2rc1.tar.gz"
+      },
+      "2.0": {
+        "sha256": "a238c9a99bac41936b186440a15ce8cc21cc77220ab44eb3b1604fd58c4d063e",
+        "url": "https://files.pythonhosted.org/packages/f5/86/165eb9030136ae29f736cb40e347a12df8dee2a2c5767def74caa89a13c6/plone.app.layout-2.0.zip"
+      },
+      "2.0.1": {
+        "sha256": "b111831243898f1bb4fa5539161659926ce08833ce49e8b256dd6764dacfdf63",
+        "url": "https://files.pythonhosted.org/packages/4c/43/887069354fabd05997fed50497dc40adcfade8818c07dd483e68ee4821c0/plone.app.layout-2.0.1.zip"
+      },
+      "2.0.10": {
+        "sha256": "6fd80ba4c11e7b2a5ff5a06c6209f2fa168da2842d687e634e2d9e0ee05338a8",
+        "url": "https://files.pythonhosted.org/packages/a4/26/550d3314eef9b92768fc1870e58083ca163bd2f94d5d3ba92bbbefb181a9/plone.app.layout-2.0.10.zip"
+      },
+      "2.0.11": {
+        "sha256": "19e4d70b9706ef4b34234aae42af7cb8c283cd9abdd26f4a8519e363a518b955",
+        "url": "https://files.pythonhosted.org/packages/14/7e/91dcc32f203d08abb549539c4977b7bf6908aabcf51c52875cd7fa1186d9/plone.app.layout-2.0.11.zip"
+      },
+      "2.0.2": {
+        "sha256": "fc6e16e264d03807e831c368245ba1f3ef7f76e035c66315224a8faeabd9ae3d",
+        "url": "https://files.pythonhosted.org/packages/21/3e/63d16b5c37121729a0db65203f7416814d52f7ca6f01dad02c3073afcc3c/plone.app.layout-2.0.2.zip"
+      },
+      "2.0.3": {
+        "sha256": "e5aa73e1134c66f94ff0cb715536550bcd3e604a7190c9003d9b8e20f19ce4b7",
+        "url": "https://files.pythonhosted.org/packages/66/d2/6fc0a16308f21becb687b4faa360728b56d00bb92b30af0aef153c539d0a/plone.app.layout-2.0.3.zip"
+      },
+      "2.0.4": {
+        "sha256": "4b642a35f78a2f4c7683d9f7b15686bdeec77bacc687dd6084f0fd01c4866248",
+        "url": "https://files.pythonhosted.org/packages/50/ca/0d8cbc85a7538c27d7d434bc9870c014ef855d001ca879de2ae007d38762/plone.app.layout-2.0.4.zip"
+      },
+      "2.0.5": {
+        "sha256": "d0fca45654d16c51c56912459f3ace64a584bc945323901201ae03b43706fda0",
+        "url": "https://files.pythonhosted.org/packages/0e/1b/b732a2eca1ab6a3d00b775ec9f6fe05c2b21a77bcf060956da6f931a39da/plone.app.layout-2.0.5.zip"
+      },
+      "2.0.6": {
+        "sha256": "b0ef9bc3e76d67f51dc4df09a0032fa8b471e8ce29f4044b0aadc936944071c0",
+        "url": "https://files.pythonhosted.org/packages/01/0d/a8752463b5e805f7d8f629eeb467ce55fc617deea2d5512e31bb48871327/plone.app.layout-2.0.6.zip"
+      },
+      "2.0.7": {
+        "sha256": "2db624546ac2bbe9a39f8b8b5fd271d9d37583dde55b5873d05b781a03005f33",
+        "url": "https://files.pythonhosted.org/packages/e0/37/cc7978c6d1fef278392fcdd8096ca25274765273ba5f204b4729834f698c/plone.app.layout-2.0.7.zip"
+      },
+      "2.0.8": {
+        "sha256": "82b9163ff85a38a52ca532837e3930875abea0d4bbd9cc76dd583d17273c270b",
+        "url": "https://files.pythonhosted.org/packages/5c/4d/72faa9b5a3955422003dd22f65f104a400acda13d56880260c7cfed1500c/plone.app.layout-2.0.8.zip"
+      },
+      "2.0.9": {
+        "sha256": "face3f6b3f6b3684b11fe0ddc32ddd5819020003ee84bb2a5a5a10de1be4c748",
+        "url": "https://files.pythonhosted.org/packages/50/11/4c585bd75283879f263925c99d630c6aa7712654f77fbcfe91637232dfd8/plone.app.layout-2.0.9.zip"
+      },
+      "2.0a1": {
+        "sha256": "2e4682b61273634526dd20b81381c6b6a09dc7ffd25d41e645230de7e2bfba97",
+        "url": "https://files.pythonhosted.org/packages/6d/9f/c9539f43c6388980a5925e830912ad26e52c7ac86cb1eda1dcee22c1730c/plone.app.layout-2.0a1.tar.gz"
+      },
+      "2.0a2": {
+        "sha256": "fde0f42be2f71b4befa4312f068b7061e2b171bf60d0363999f2d22bb4de7178",
+        "url": "https://files.pythonhosted.org/packages/70/30/4ab1616d8bc1b0f64d3c51ce3f07ec48e812c745aeca3ee55a14da0f0e62/plone.app.layout-2.0a2.zip"
+      },
+      "2.0a3": {
+        "sha256": "6db50c100499c4a5af3ab896f74d87849b1d20d84eaadf15365176cb513a6661",
+        "url": "https://files.pythonhosted.org/packages/c2/12/bf83347414d5e0e7d3b512d5e767c8eb994b3dd8bcd071e29254ea79d22e/plone.app.layout-2.0a3.zip"
+      },
+      "2.0a4": {
+        "sha256": "1d1341c7932e3d6f39dc271e298b220b79e2a61654159b5036eb5f3b6a5141ed",
+        "url": "https://files.pythonhosted.org/packages/b3/f8/4407027169d3ec576525a59462a9dc56f1759d3d4a4212e3333e54e2acee/plone.app.layout-2.0a4.zip"
+      },
+      "2.0a5": {
+        "sha256": "5bdd9056f44866ce286f10a3fb2f459c8b6213a7ea1cdad98d607b3e7b0477c5",
+        "url": "https://files.pythonhosted.org/packages/52/e5/23cd9689572307612cd14850984e63b9e7925a7c7beb90531bce3ffb390c/plone.app.layout-2.0a5.zip"
+      },
+      "2.0b1": {
+        "sha256": "ba2252b5a294f57cb9a112b7ce3e6b30b5cb952a251849482748c0b9b041b16c",
+        "url": "https://files.pythonhosted.org/packages/4c/01/b46bf7c16bf705d9c5c19ecaa37e6e838b51ed14b2f79c42e1d942062137/plone.app.layout-2.0b1.zip"
+      },
+      "2.0b2": {
+        "sha256": "322dcbea5e15a4fb1f4ad6bbb82916e0be22708746dcc367759f3706cfdbe27c",
+        "url": "https://files.pythonhosted.org/packages/0e/b0/bfba1d5c37cbce52c51bcee3fa6d66edfa85c12fd4d7c235225f4e5ac0a8/plone.app.layout-2.0b2.zip"
+      },
+      "2.0b3": {
+        "sha256": "2e57e297ef0afbfbaf1c17dfbadf82968d2ac89c53f9aa6963ba3808ce273674",
+        "url": "https://files.pythonhosted.org/packages/b4/62/85254d7c6d353e9cc2e5b71a7403aa62c5dca37f826d09838eb9d59ae945/plone.app.layout-2.0b3.zip"
+      },
+      "2.0b4": {
+        "sha256": "f656500f5a5d8db032bbd4f949a6fe9a7393dc3fd345dcf3e0f4e0581da89c9a",
+        "url": "https://files.pythonhosted.org/packages/53/f6/b52755306783fa56b90be3eddfb6a10ad972d218b640e9ba3cd9990394e8/plone.app.layout-2.0b4.zip"
+      },
+      "2.0b5": {
+        "sha256": "41acb523fbb0cfc50c0ef7761ef6d92af64faa31ee34edb1e63fedc790d93183",
+        "url": "https://files.pythonhosted.org/packages/ff/28/97ddb9e84e90bf99deda34cef609ef5a20cd4d9a07fabf633cc87fef468f/plone.app.layout-2.0b5.zip"
+      },
+      "2.0b6": {
+        "sha256": "9bf2e36b51d66c7128248c4e567191f510ceced38e4ee0debabd319e5190672f",
+        "url": "https://files.pythonhosted.org/packages/36/6a/9982f4ed8128d244213fac06a58d1a8112976536e4e5b3d9ce6768b977e6/plone.app.layout-2.0b6.zip"
+      },
+      "2.0b7": {
+        "sha256": "7201a831f2aefdb677e9c26fe3b51778b3212de3c3b4eafe7875aaf8a3bbb70a",
+        "url": "https://files.pythonhosted.org/packages/a6/bf/8afb1647543c895b45186d2dd614c581322cec206c2a4ff12d6aebc05f73/plone.app.layout-2.0b7.zip"
+      },
+      "2.0b8": {
+        "sha256": "7ca9fd46ec27b0c2cb503176db23ef5930de3231bf63adcb8201f4d38eb68ac4",
+        "url": "https://files.pythonhosted.org/packages/6a/c4/d53ceb0ee4764f47e62fd34c41b29d9838d41d135431f2bcbc529c0eb0a1/plone.app.layout-2.0b8.zip"
+      },
+      "2.1": {
+        "sha256": "383fae6b66fd777f6ed194af1bdc0c89d5b7878b0fcfd9fdc4ab6278f13f4651",
+        "url": "https://files.pythonhosted.org/packages/e7/29/2e851a21c229020ea5879cd9b29a92e5f725f4054543297d64771a4649a5/plone.app.layout-2.1.zip"
+      },
+      "2.1.1": {
+        "sha256": "025857276158ea01474ceb88a2a9cf9f2a73a57072ef8e4cd3d4fc7760961b96",
+        "url": "https://files.pythonhosted.org/packages/ac/3d/78ef6f6e5f73df74c9bbb61aac8e92fe97125b3d96d41ebf15b76236ab64/plone.app.layout-2.1.1.zip"
+      },
+      "2.1.10": {
+        "sha256": "15518018cf0b104ba3c1bde558920b90ece9577bf31958e66ef3118a7ee6e3a9",
+        "url": "https://files.pythonhosted.org/packages/e7/1c/8b6ccd80ceec5d47c21d57dcb0c94d0c30d4107b527e070eaf2f851c1462/plone.app.layout-2.1.10.tar.gz"
+      },
+      "2.1.11": {
+        "sha256": "efb7660e0bd2cbd916e7b719d5833327dd18fc946d2a102678b130feff2ea7df",
+        "url": "https://files.pythonhosted.org/packages/79/9c/3b13965729b9146dd4b3c8ecb3f81d1b95643b252097a116942ff81765b0/plone.app.layout-2.1.11.tar.gz"
+      },
+      "2.1.12": {
+        "sha256": "cd3f1f3f459e4ef20603e89e56ce793684c3d5e9a6048df9ca0c659f2206ec9c",
+        "url": "https://files.pythonhosted.org/packages/aa/a1/8ca6353f5b5b657f00305ed48a9eddf96fbf58ec7fcf31151a8df78f2d11/plone.app.layout-2.1.12.tar.gz"
+      },
+      "2.1.13": {
+        "sha256": "3382ba8184284e3d901348806819adc094db76d7cffe36294209a2037c0997f2",
+        "url": "https://files.pythonhosted.org/packages/ad/7f/069f0c41891ba2e515b659cbd97f44f7b1977eac7d53ed0750f690ff702f/plone.app.layout-2.1.13.tar.gz"
+      },
+      "2.1.2": {
+        "sha256": "5f39e7319eda5a7a40e4a53eadfe39d21334fc2e359cf460e8a1cb4224a99846",
+        "url": "https://files.pythonhosted.org/packages/05/da/5aa9ec0a58f87e79d167789be5c37d99690ff711b258caed9effa053f3cd/plone.app.layout-2.1.2.zip"
+      },
+      "2.1.3": {
+        "sha256": "d7a33deb3167edb56086502bcb3372efe61ad651f0b1d1d3d68f1b2ab834f7bd",
+        "url": "https://files.pythonhosted.org/packages/56/99/b28c9b62660524feaa1b6caa199bc6851fe8002ffa4342bb1e482c2f30cb/plone.app.layout-2.1.3.zip"
+      },
+      "2.1.4": {
+        "sha256": "6ab7498f22bcd847fbb73154470cb30f9da21b9f85bb92ca646d87eb71d465a8",
+        "url": "https://files.pythonhosted.org/packages/33/50/51e1e7d0c59de836c65d00abde3a1ed4013c67e793aab412d4c1e80cb62e/plone.app.layout-2.1.4.zip"
+      },
+      "2.1.5": {
+        "sha256": "4dc27655834b46f1ab77313e7e560cbef4ea612c58b76256fe39e3eab7f74c36",
+        "url": "https://files.pythonhosted.org/packages/1f/4a/0b537796ff5ded464f330183d94f21eb69967300ab60c696ce0c3ded617c/plone.app.layout-2.1.5.zip"
+      },
+      "2.1.6": {
+        "sha256": "e11c133f8ac05fbf25e0ab6a95b97d267435a27cae2bf7a95bb09540b5e78f96",
+        "url": "https://files.pythonhosted.org/packages/cd/47/1e6d68fd0631f1cf5041448eebb28c113e0d3ec011ecbc5bd407b06b3619/plone.app.layout-2.1.6.zip"
+      },
+      "2.1.7": {
+        "sha256": "501ea9eb214476ad5adedd1055f419ff05cd57112d4111cd2b4c9ef71c4006a9",
+        "url": "https://files.pythonhosted.org/packages/69/8f/a0607097925df43e9c12924dc51dc8fdb4ab11f3e14e9075952bebe20fce/plone.app.layout-2.1.7.zip"
+      },
+      "2.1.8": {
+        "sha256": "67a18820cc5398e524fe05364ba3a90e2c56a8295c4ba2e474f9ef2470aa6c6a",
+        "url": "https://files.pythonhosted.org/packages/3e/aa/802f80cf5ecda7da637d5296847ba462247315fafbe295026833b2865ed0/plone.app.layout-2.1.8.zip"
+      },
+      "2.1.9": {
+        "sha256": "47005bba1554c74429d7135f0814ea6f7eb2e62d965a182ae37e291f1c3ee88e",
+        "url": "https://files.pythonhosted.org/packages/ac/1f/09ad13e1819ce7b0cd210f70665f9e9e62f762de941a9fa924e4df166879/plone.app.layout-2.1.9.tar.gz"
+      },
+      "2.2": {
+        "sha256": "40026727fb9cc4a951eaaed4b3bf86816a988e59500c01fde383a3749f84a999",
+        "url": "https://files.pythonhosted.org/packages/22/be/09e6fab322b047d894f9b2e35b5c9fa7851e1b6bd8045c12a1d25d2c06a5/plone.app.layout-2.2.zip"
+      },
+      "2.2.1": {
+        "sha256": "b84443f03507568fd354f19aa6016c01ed722b5af7d4ca15037a3b1b704613dc",
+        "url": "https://files.pythonhosted.org/packages/04/dc/1879fcdf0edd2237fada5a4cae9e16fbe6ff44c78b428d56eb08185ff055/plone.app.layout-2.2.1.zip"
+      },
+      "2.2.10": {
+        "sha256": "597295f72c9790ec02623bad15f50df4aa16707dd845e170c0275d5ed4e1f5d0",
+        "url": "https://files.pythonhosted.org/packages/f4/6d/282e7e9c4519399263092be0d9c71c3272b73341be9565634f278a15945e/plone.app.layout-2.2.10.zip"
+      },
+      "2.2.11": {
+        "sha256": "b4ac4237882a8ca3c7271e15d5ef9531cf257d77d2a0e54cef1999b69b6bb880",
+        "url": "https://files.pythonhosted.org/packages/49/64/e1b05f11cfdc3cfe85b130349703759f181261e187f4ea2660a4bd1a1cea/plone.app.layout-2.2.11.zip"
+      },
+      "2.2.12": {
+        "sha256": "f44f4d992bc6c52f8bd126297f3d5c247d63b60ddf3e5c6f31aafca49cc4e4c4",
+        "url": "https://files.pythonhosted.org/packages/04/01/13bcfa839fc7ab0babb1f65cfdfa46b8261d01b2cacf825de65460a0b322/plone.app.layout-2.2.12.zip"
+      },
+      "2.2.13": {
+        "sha256": "f01bb361f2a34106dce8ac678b8109f8eabc4be84854d74f45f8eedf450cf259",
+        "url": "https://files.pythonhosted.org/packages/21/98/a0c10006e39f7a0d6ee65633a45be911639f16cd5d3892201b662101ff91/plone.app.layout-2.2.13.zip"
+      },
+      "2.2.2": {
+        "sha256": "b40ad841319906ea42651dcf3cec0a06fedb549520ed85de3d872a07d6f5ad77",
+        "url": "https://files.pythonhosted.org/packages/3b/fb/74edc2ba813391326fa1781dca9fb19ce9e9de0459d21f3f1816d22493f8/plone.app.layout-2.2.2.tar.gz"
+      },
+      "2.2.3": {
+        "sha256": "e72535b2aa49b6e475122397241fcb6cd28accf859fbfaa87e0774dc736c4c09",
+        "url": "https://files.pythonhosted.org/packages/f3/6e/a1c9d48e52c224235feebe74845e9accaf9954d104a5576f889485cf77df/plone.app.layout-2.2.3.tar.gz"
+      },
+      "2.2.4": {
+        "sha256": "dea628fe7862a5b29c4bcb0c146a32da3dd60b2dae7b17fe2d067334d189a41c",
+        "url": "https://files.pythonhosted.org/packages/bb/84/074de84e7ee49b06cdc697bad1ab280b663344c7d9cd729587d3630831e5/plone.app.layout-2.2.4.tar.gz"
+      },
+      "2.2.5": {
+        "sha256": "fc8832244deba214e1b219a01d55ef21738ce3fe5e42466ce190490b9dfb7ee1",
+        "url": "https://files.pythonhosted.org/packages/4c/5b/8cc31574acaa1c02be26d304cfc638ea3a796433d6ed2824fdf22c12c22d/plone.app.layout-2.2.5.tar.gz"
+      },
+      "2.2.6": {
+        "sha256": "861b784b53b540a64caeff2b2539be883b3575df067988b25fb9c15134bd2393",
+        "url": "https://files.pythonhosted.org/packages/b1/6e/77c0beaa1cd062b3c5e5eb2e1ccde517a01eb53df2f4eef6ee81e0e0cbc0/plone.app.layout-2.2.6.zip"
+      },
+      "2.2.7": {
+        "sha256": "59aa6819e7718c58aa89fca8549a89ef39452e9792f3e7504372619e807c9806",
+        "url": "https://files.pythonhosted.org/packages/a5/82/ed48bf9e893bbfe7abe2e2d8961b226e0e95d6abb39eb139101b782e75bb/plone.app.layout-2.2.7.zip"
+      },
+      "2.2.8": {
+        "sha256": "ef1cddf1ad322e45fc75a5b7d22f830a57bbcab50573043862e226d3d1fbe949",
+        "url": "https://files.pythonhosted.org/packages/6e/0d/76a1f611de3dc6287867c04d82f8e51e1e0d68f44bb287056af0f164a36d/plone.app.layout-2.2.8.zip"
+      },
+      "2.2.9": {
+        "sha256": "6444767005b62b72f0e5ddd1a04bb17723ffb3dddef48f7156543f659a15a12b",
+        "url": "https://files.pythonhosted.org/packages/32/a5/551ab101d1661415636181ccb5dfbee38779a0703f7618582554d9119739/plone.app.layout-2.2.9.zip"
+      },
+      "2.3": {
+        "sha256": "8bc328eb9c3da8eb0a0ed6819754775b5ec1d59675b75b450eb4b9179ad60b30",
+        "url": "https://files.pythonhosted.org/packages/de/f2/96943c80cd59a8d6cb1f8ba5705c26a684bf9573f0671d2b8b38b771c3d7/plone.app.layout-2.3.zip"
+      },
+      "2.3.1": {
+        "sha256": "e908ecd7e247d5cfebe255e34a71af7b21500fb7ad941af9b26ed4b870f1f55b",
+        "url": "https://files.pythonhosted.org/packages/11/89/603aede7cbc3272924c47ba3c47e068cba42c0161619dfbb40f2205c966f/plone.app.layout-2.3.1.zip"
+      },
+      "2.3.10": {
+        "sha256": "e28e815991b248ff5a0c1b9e73e2388a77eea6a82ec7cd7a86e5a8973610f1c6",
+        "url": "https://files.pythonhosted.org/packages/30/22/3eb7ee6bc66df82f83b0f51e249c69d36edfa69f35f156bd6424d3dc6caa/plone.app.layout-2.3.10.zip"
+      },
+      "2.3.11": {
+        "sha256": "cdee8db0f72dc57f7424381fea1b6aa485006e6e4e588f0661cac7646ad6aa2e",
+        "url": "https://files.pythonhosted.org/packages/2d/0e/cdcbe900628652f2087948c5f349a95cc1c4215fb111031f69a4e8a51b0e/plone.app.layout-2.3.11.zip"
+      },
+      "2.3.12": {
+        "sha256": "46b0d75fa8750afae410bed9923a565e7b71118f61a2eeeaa738d23504958449",
+        "url": "https://files.pythonhosted.org/packages/73/ea/9a81d978545cd918ccebe5015c6de258bd60011a72c9deb481898b910a88/plone.app.layout-2.3.12.zip"
+      },
+      "2.3.13": {
+        "sha256": "0e5d3c623fcb0a27a0be907c6e69cc97916f1d9afecf5e5c5665ca778bc85c50",
+        "url": "https://files.pythonhosted.org/packages/b9/bf/ef26e590e186a08d6152d95934e824336bbda77eac680cdea8c4e3b9c817/plone.app.layout-2.3.13.tar.gz"
+      },
+      "2.3.14": {
+        "sha256": "44a670e7f86c81c331d541294049318ede57ee1b48f7c2274c7aac38484c2c56",
+        "url": "https://files.pythonhosted.org/packages/46/85/70d44c32289d10ab45758886868c0351d4eabaf5aa83d651443baff91af3/plone.app.layout-2.3.14.tar.gz"
+      },
+      "2.3.2": {
+        "sha256": "0f1139bb8d55cc7e9ee517a0e518f97e7708fa59df4947130331a5765d47376f",
+        "url": "https://files.pythonhosted.org/packages/47/f8/6a04d0ccef56a8b6332f93e8a8b52a80c4b4be1e50d3fc3aa5724e87a31d/plone.app.layout-2.3.2.zip"
+      },
+      "2.3.3": {
+        "sha256": "074fe52155d87a9bf127d591312b85bcb27d07c79b1fb88e22e5232b494f91c5",
+        "url": "https://files.pythonhosted.org/packages/9b/fb/39888bb956335c03e90c812ccc6950fa596f9fbfa6ca0652c94107c1d691/plone.app.layout-2.3.3.zip"
+      },
+      "2.3.4": {
+        "sha256": "b2b48486936e5a5af4efebff2c7de1edf621088dc047b1c6f328adbb39ef7779",
+        "url": "https://files.pythonhosted.org/packages/6e/0e/e3eab6d98b32586476013a3395b93c31d1ed0fc0251e44a965c3a3a1d9c8/plone.app.layout-2.3.4.zip"
+      },
+      "2.3.5": {
+        "sha256": "fd72fd19f194b523345d43224b8f78c1809dfbb76245efbfdaa61b3a54b0d245",
+        "url": "https://files.pythonhosted.org/packages/65/4e/0339fff6448c2f7ef32e9c1247d9be2ebb18a1212a120df1bd50d5e99526/plone.app.layout-2.3.5.zip"
+      },
+      "2.3.6": {
+        "sha256": "0d00320ec03ddd44d1297cbcca27540b967073a0b841c450e3bab4cd4199ad81",
+        "url": "https://files.pythonhosted.org/packages/90/f1/26734478293d9f674bff8a71ef35a396b0240fae97fc69ebf523123f89c5/plone.app.layout-2.3.6.zip"
+      },
+      "2.3.7": {
+        "sha256": "7d0bf83ff31c23b28cd75b454218b98ba73e5b4bb3e21c920cd2f94df5c37b24",
+        "url": "https://files.pythonhosted.org/packages/b7/29/61f912676ed4834a461a4f3ddb8abceb2bdd13e82cf1cfa38d4d4c1a9751/plone.app.layout-2.3.7.zip"
+      },
+      "2.3.8": {
+        "sha256": "a0c54d4747ed634b692cde85a6e7b495cd2a94a35fcf242df5236307b55f9afe",
+        "url": "https://files.pythonhosted.org/packages/de/ac/0c9b8c0ec841f6ebbaab2b6eecc8586fbc02f9568bf883539457221a6756/plone.app.layout-2.3.8.zip"
+      },
+      "2.3.9": {
+        "sha256": "1ff3b7169e574587bfc0b32e114c2363cb09f9032c50c9858994330d0948bb84",
+        "url": "https://files.pythonhosted.org/packages/a7/d4/62f61b0ae3bda62936eb7c4e0bfe22604d20c495555df9200ea6d2eddff7/plone.app.layout-2.3.9.zip"
+      },
+      "2.5.0": {
+        "sha256": "d5b27750d5763ce3e8db3b61ec321061198b79838354893c308ca5663378cd45",
+        "url": "https://files.pythonhosted.org/packages/a3/0f/c1de5ffc47a479c761d873157832babea66a566a80e7806c2ff141b39b11/plone.app.layout-2.5.0.zip"
+      },
+      "2.5.1": {
+        "sha256": "3a62e00f156339a8a703ee10d4755b8e07ff523256d39f445144769080550155",
+        "url": "https://files.pythonhosted.org/packages/5d/2c/0326bf1077e81a430e1f17854754eb3e172dc21e55b25b10d8fb38586937/plone.app.layout-2.5.1.zip"
+      },
+      "2.5.10": {
+        "sha256": "1b37fdb809515251a99732dc7154f992f2f622dffe9cd8ce06a0d89f0ec4bd61",
+        "url": "https://files.pythonhosted.org/packages/da/17/295f1fcfb2b8afd0f159f4c15a58ac9c28fdc3a8a77e76deb6f4db0362b8/plone.app.layout-2.5.10.tar.gz"
+      },
+      "2.5.11": {
+        "sha256": "cc50cd6a609f34ff3b1ffa7fe3835e74a27212943af09c18abf222b563cd69ee",
+        "url": "https://files.pythonhosted.org/packages/8a/b0/d643a5e0d11fd5b2a7f5e7e970088b7c4b07ca89677a3db886cb524d29c1/plone.app.layout-2.5.11.tar.gz"
+      },
+      "2.5.12": {
+        "sha256": "b95c8160777886c653df644368795781a34636834fab44bed8eb78096c04b4d3",
+        "url": "https://files.pythonhosted.org/packages/82/5d/5d57815a91e9bc4294a1307a93977613161fe4a477020d52152e32f14d85/plone.app.layout-2.5.12.tar.gz"
+      },
+      "2.5.13": {
+        "sha256": "449d7ae33b0d9d5502757442fc970375f5480c77852da22bbc08524ea2cda88c",
+        "url": "https://files.pythonhosted.org/packages/3a/c9/94f5d120db76101421af8899be584661561cf9a68850525bebd4f4cdf9f2/plone.app.layout-2.5.13.tar.gz"
+      },
+      "2.5.14": {
+        "sha256": "7a50bd3f6bb382030d2b0181aeb2df993b0d6e0684557c634f286369ba96f3c4",
+        "url": "https://files.pythonhosted.org/packages/ae/0f/3440679e41f4847754030d0f3c7e1778c85fbdbfc7eaf1a301892b4afbfe/plone.app.layout-2.5.14.tar.gz"
+      },
+      "2.5.15": {
+        "sha256": "0a80404be6fc5cf8a82027cf180c7b6ebd2624a5a281d4ec537c95cb94186821",
+        "url": "https://files.pythonhosted.org/packages/e3/44/75f270c24006313c6454e1cae332243a0f7c5f2ac37f565b964a64e2d5e3/plone.app.layout-2.5.15.tar.gz"
+      },
+      "2.5.16": {
+        "sha256": "fc62c9582a95b03f14d00d03ccbd05bbd8681c8a73a422332d7aa1823737e089",
+        "url": "https://files.pythonhosted.org/packages/77/30/bcfc6eb1c48f78971fcf52dc24d8ae4bc953a10c9e2d8a59b1af71ef1e41/plone.app.layout-2.5.16.tar.gz"
+      },
+      "2.5.17": {
+        "sha256": "628e57aec380a47debdb1a6e46d6c32317a21c172cc1d0fd27c1e5f8335ee72e",
+        "url": "https://files.pythonhosted.org/packages/92/fd/38c65b679b3cea6836e491afa67644e49178df547fbb9e5e72bf69f39f16/plone.app.layout-2.5.17.tar.gz"
+      },
+      "2.5.18": {
+        "sha256": "eaaed0be6184773d9d7ab0297dff6951e148ec135f344b578262b2005facd5d2",
+        "url": "https://files.pythonhosted.org/packages/01/17/58d7253e74f9bdcbc0fb904a541c5a736cec2d91a95d3da311c4b9876cc6/plone.app.layout-2.5.18.tar.gz"
+      },
+      "2.5.19": {
+        "sha256": "9189c28af5257d77686a3f8ac25c29527d7280c22c570b03a1097dfb6e4280fa",
+        "url": "https://files.pythonhosted.org/packages/3d/bc/ded00bc94e82a856fa719ae2223dfe2242c4af375b0cf000034ee7996750/plone.app.layout-2.5.19.tar.gz"
+      },
+      "2.5.2": {
+        "sha256": "06026dbd80767e218a0da7349d64d9bf985ed2977262ecc516cd4b73463d4ec0",
+        "url": "https://files.pythonhosted.org/packages/7b/f1/1f2c14ea0e79f27ea30f4ad2508b456dc337ce9095dffbed93cfa798c462/plone.app.layout-2.5.2.zip"
+      },
+      "2.5.20": {
+        "sha256": "ec951259fd9f60677ddb8e2bc7b1ff0c2c96df6eff567c794014f29213e515f3",
+        "url": "https://files.pythonhosted.org/packages/71/cd/6b6b0ae7bd07dd81c796b4bf834c6d5e367ee7b1473902a3beac5bdb7ba5/plone.app.layout-2.5.20.tar.gz"
+      },
+      "2.5.3": {
+        "sha256": "dee2beb1b75895963d402d052c4ae3e068d49f2e621231381cac7c104aabe1ff",
+        "url": "https://files.pythonhosted.org/packages/99/27/4e78ed6b6d71e4a348fda1d8df40745a683e29fd1519613fd0fb7d386e94/plone.app.layout-2.5.3.zip"
+      },
+      "2.5.4": {
+        "sha256": "5cf819e58f5c00c1c47a98d878f2eff66d41d6f9dbe2fcf65f08f4cd8dd6c10f",
+        "url": "https://files.pythonhosted.org/packages/c0/fb/9028d545de535187008736e855627dc73be46ad3ba8cb61a433ad6825736/plone.app.layout-2.5.4.zip"
+      },
+      "2.5.5": {
+        "sha256": "90761f1cb15ee63be9e93a6945530db5dc7b03b9b80ee696a75a4cd3b564e17d",
+        "url": "https://files.pythonhosted.org/packages/03/69/ff459027f4dcae8b3113f5a70e683620a6600cf2502947d670329edc0f63/plone.app.layout-2.5.5.tar.gz"
+      },
+      "2.5.6": {
+        "sha256": "1312542c5ece277e4829c8731141b125102d876d05c19bcd18e53523ba418bec",
+        "url": "https://files.pythonhosted.org/packages/e3/75/b4ec2fd1397f0c3209bb8ac4291c53b6c6eab1383f9b168e1d3f9b0f90f6/plone.app.layout-2.5.6.tar.gz"
+      },
+      "2.5.7": {
+        "sha256": "098752f6f81dc8149b3bd20e2ae0b4748d365520b418b3b54b1251c51bc1943c",
+        "url": "https://files.pythonhosted.org/packages/3f/3e/f6dc4a74d3092f5d479161e9acae85f72571316695acb145e43b82f528d3/plone.app.layout-2.5.7.tar.gz"
+      },
+      "2.5.8": {
+        "sha256": "589126b53f0108d9bbb0440fe45ed6433b647dcb014e933ab8f7b2fb809827d5",
+        "url": "https://files.pythonhosted.org/packages/26/d0/236b9e126c63141a9172ba138953e9c103d3243d18bd27363b10411794a3/plone.app.layout-2.5.8.tar.gz"
+      },
+      "2.5.9": {
+        "sha256": "ba0fe9499c56f8fa8523d29cf8abd580d327bf87f450182c39ce826acb44dfa8",
+        "url": "https://files.pythonhosted.org/packages/2d/0e/1707f730f095eb05ddc6f42cd93f2ebdd701d5638397f7f02dfde10cfe16/plone.app.layout-2.5.9.tar.gz"
+      },
+      "2.6.0": {
+        "sha256": "f6e58f1f4d83ac1f290a380a04187be039e7e62e87b18f32de313fb105349290",
+        "url": "https://files.pythonhosted.org/packages/18/86/b970b6fdcb1123ffd82b0a5d351ac9a044da3665c8c5ce1167eb734e586c/plone.app.layout-2.6.0.tar.gz"
+      }
+    }
+  ]
+}

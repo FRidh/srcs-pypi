@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.4"
+  ],
+  "meta": {
+    "description": "Make available in ZODB file system resources in Zope 2",
+    "homepage": "https://github.com/infrae/Products.FileSystemSite",
+    "license": "ZPL"
+  },
+  "versions": [
+    {
+      "2.3.2": {
+        "sha256": "ef4a38d9c3b19b61bf0fffa6ed0b14b6d99c7e87e8e2b12ae0677b0fa0cfb072",
+        "url": "https://files.pythonhosted.org/packages/26/bc/879ab156e2758800c816f2a1196b728b389f29ba9b90e3977449c2072672/Products.FileSystemSite-2.3.2.tar.gz"
+      },
+      "2.4": {
+        "sha256": "6b68c29b45eb7e04b3c3c4ab7554db4571661ab273f0fce3ba845713d1d47ff4",
+        "url": "https://files.pythonhosted.org/packages/76/98/957e46b8eadbc1edc943006fd83610f558fec2be867992b68a04293a30d1/Products.FileSystemSite-2.4.tar.gz"
+      }
+    }
+  ]
+}

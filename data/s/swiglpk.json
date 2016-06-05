@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.2.14"
+  ],
+  "meta": {
+    "description": "swiglpk - Simple swig bindings for the GNU Linear Programming Kit",
+    "homepage": "https://github.com/biosustain/swiglpk",
+    "license": "Apache License Version 2.0"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "fc44aa114aee82870a89665802915796e1a7ee0d0cc3726b0d3d960e14cfd2c1",
+        "url": "https://files.pythonhosted.org/packages/e5/a5/fad1e63fefb31c92ff7ade7b7517839d177b0ff01d150e6ddd02bd3d183f/swiglpk-0.1.0.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "5b25bd8de49442bc5c17244d0fda17f717e8bc494f06d1f7c493d68725b640c2",
+        "url": "https://files.pythonhosted.org/packages/92/2d/6df456ecec5d93030d3d62b99d8ca4568968aad2478c18bc871168cd2f25/swiglpk-1.0.0.tar.gz"
+      },
+      "1.2.12": {
+        "sha256": "ac85088e5920ba73785cc019d7e936e441f76d04b1c9189a2eb3f2c211006650",
+        "url": "https://files.pythonhosted.org/packages/ec/82/c1e19aa4e71920456aae06b0400a9543465e59ae1748a12fa2a90e4ec887/swiglpk-1.2.12.tar.gz"
+      },
+      "1.2.13": {
+        "sha256": "f1f41f12e82404c0e67da65c0cbe78433ed6a64a7f22246b753c54fc5db749a1",
+        "url": "https://files.pythonhosted.org/packages/35/ca/56a2512d4eb500934cee20668da207cfab71f46b8180e946b112b8dcee17/swiglpk-1.2.13.tar.gz"
+      },
+      "1.2.14": {
+        "sha256": "da4a1300ce16529de2e41911d7eb620c62d20c0a2aa74fa614ce8c7a79afd366",
+        "url": "https://files.pythonhosted.org/packages/b1/4e/09906901ecd46ff73c8addcb54fcf1d899006c88ecf4574e37a8f52cd2bd/swiglpk-1.2.14.tar.gz"
+      }
+    }
+  ]
+}

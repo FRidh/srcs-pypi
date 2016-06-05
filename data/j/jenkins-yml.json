@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.3"
+  ],
+  "meta": {
+    "description": "Define Jenkins jobs from repository",
+    "homepage": "https://github.com/novafloss/jenkins-yml",
+    "license": "GPL v3 or later"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "cc278e43ff52cc7497746b507512d86cfb8930976b3b66449539bc4486e53471",
+        "url": "https://files.pythonhosted.org/packages/77/84/65b7a2c0906a5f61b97ec1617d6d1a2d14e1924dd63f744f925fa465f822/jenkins-yml-0.1.tar.gz"
+      },
+      "1.0": {
+        "sha256": "d787d1f97fc3507677a1f7db332456c75819f4771c967580e0e4d8431db2d454",
+        "url": "https://files.pythonhosted.org/packages/e8/ee/e734b09ae0d4eb7f004f5fe8e4457e69efacd526eb10158f38f0b45ca95f/jenkins-yml-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "168d3fca8906c152af5cb3c6f0ebb7286f1eb314a586a21c6bd4a5824984c56d",
+        "url": "https://files.pythonhosted.org/packages/ed/bc/a017c923ee6e5049c9047921a1b735d95511f558c27f9fed847e9aee69f1/jenkins-yml-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "9e5467b1c7651ae9635be42c070280c2a0b5270c920e7f1e9a387e66ee03119b",
+        "url": "https://files.pythonhosted.org/packages/02/22/751a2bcaa7a8eee02a3eb0bdff62dcd15b8465cd6e924f129cffb8f017a7/jenkins-yml-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "93e21fb0afb435152855c297045bc55d4dbf5b3e0deb7b972d850a7cdef1b741",
+        "url": "https://files.pythonhosted.org/packages/3e/a3/a438120977b373c617a2bf04e30c1f2789beba5c9b1e3a53830cc8f2d015/jenkins-yml-1.3.tar.gz"
+      }
+    }
+  ]
+}

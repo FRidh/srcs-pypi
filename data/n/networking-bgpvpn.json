@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "4.0.0"
+  ],
+  "meta": {
+    "description": "API and Framework to interconnect bgpvpn to neutron networks",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "3.0.0": {
+        "sha256": "5158367dcea27215d9bd23dafdd3041c7fa93f46e83ddc0c3dbb5ae32f48abaa",
+        "url": "https://files.pythonhosted.org/packages/b9/43/ff3750cf6f4051242de1e15f29ec9660550f7cdb30036f98eb7c2f5d1a6d/networking-bgpvpn-3.0.0.tar.gz"
+      },
+      "3.0.1": {
+        "sha256": "b9a7486497943d8dec6303bd7c0f116786dd996038c44b83a8056281f77c9291",
+        "url": "https://files.pythonhosted.org/packages/01/6d/ea3f161cd5bf6110804d8540f6f8fd385dcc6a304434735c824ba0291be0/networking-bgpvpn-3.0.1.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "2939f2383ba997f7149616f2ed2813f0ad57e8a268fdb47249aad28fdbf30439",
+        "url": "https://files.pythonhosted.org/packages/c4/0e/65adaab46454240750e8cb2e500a6867dd1e7f8ccdf23e6c2f24c178ef29/networking-bgpvpn-4.0.0.tar.gz"
+      }
+    }
+  ]
+}

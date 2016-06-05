@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Django Model Field that supports AES encryption in MySQL",
+    "homepage": "https://github.com/andymckay/django-mysql-aesfield",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "b0332a917b40a00b94e505a5a9f202035ce7293f91ecaa425b5783d22ebbcc46",
+        "url": "https://files.pythonhosted.org/packages/41/2c/fc1ec02ba2ab634856c786ffe5c237606074d5a969419c89296c897c9170/django-mysql-aesfield-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "4e95adf68806a1f625d215ebd9efa6a82288c3c3a16b89110a79a23c3092f511",
+        "url": "https://files.pythonhosted.org/packages/33/cc/0f36407fbf71f038cb0b9f9753e265e84788cfcf7b5465d63ef4b44dcf72/django-mysql-aesfield-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

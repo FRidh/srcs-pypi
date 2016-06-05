@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Haml syntax for weppy templates",
+    "homepage": "https://github.com/gi0baro/weppy-haml",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "5bc5941b3559a125138d7955c82cc402387943d8bae0cba8e4265d591abab1f3",
+        "url": "https://files.pythonhosted.org/packages/19/be/a0fd91d480263a294be89e8dd57f6d31efdf6632d009794357c30b13dc79/weppy-Haml-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "3d0d2e73a4cd1ec9a095015f730331734c7ec2432367ab70e712c2349e2002dc",
+        "url": "https://files.pythonhosted.org/packages/35/af/d3906a3bdfdd8c6dfee960ffaf76b0270404b77d06ba7b94474f157eb1a1/weppy-Haml-0.2.post0.tar.gz"
+      },
+      "0.3": {
+        "sha256": "2a8945691bbe661d67445c93fd5646b80c84c491ab1334efaac513d4543c6ba6",
+        "url": "https://files.pythonhosted.org/packages/5d/fa/c2a5491c02cec2fc38d98f993a6850270a9de64803bf51c3c183d62306cb/weppy-Haml-0.3.tar.gz"
+      }
+    }
+  ]
+}

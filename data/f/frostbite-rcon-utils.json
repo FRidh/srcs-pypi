@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "A library that takes care of the encoding and decoding of packets sent to or from a Battlefield server (or any other server that uses their protocol)",
+    "homepage": "https://github.com/edvinerikson/frostbite-rcon-utils-python",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "79ab253d0e7f02dfdd632595186a59dddaef48dea967660f01a46da86159421c",
+        "url": "https://files.pythonhosted.org/packages/29/08/c2189980088a03ed02f40e925bc7a35b6546a0288ab34ef8d55c88790974/frostbite-rcon-utils-0.0.1.zip"
+      },
+      "2.0.0": {
+        "sha256": "5a76c526976ba37672dcb27867e0d0097ab79707af342e7037777944d8be0327",
+        "url": "https://files.pythonhosted.org/packages/b4/ed/7b5fbf107dc9bb91e3b9658fa2a989a83e8edd967ea51e35451661ee31f5/frostbite-rcon-utils-2.0.0.tar.gz"
+      }
+    }
+  ]
+}

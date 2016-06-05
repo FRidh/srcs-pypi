@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.4.0"
+  ],
+  "meta": {
+    "description": "Add support for taxonomies to Plone contents as a news tag-like field",
+    "homepage": "http://plone.org/products/collective.taxonomysupport",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.3.0": {
+        "sha256": "c6362ec15889bae48f3ab21d6903ccb2ed98bcde0e839d8eef8a1fbf64aabf32",
+        "url": "https://files.pythonhosted.org/packages/a6/e2/892c6ba4586dec32fcd11ae750e14e836a91078f29717ecc8f1b2fcbf112/collective.taxonomysupport-1.3.0.zip"
+      },
+      "1.3.1": {
+        "sha256": "b7e89ad8bd7d8acfec6c4fa6a13f06f80c358f34dfa58cf6e7386d010b6157e0",
+        "url": "https://files.pythonhosted.org/packages/97/f4/10595edca10c8edb1789d1c924cbcb4370e06d65df3a6d9b8d12f7d831d2/collective.taxonomysupport-1.3.1.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "fcea121e04bb00c679838050a7371a8e854c9c25054cfa68f3ed8e2371cdc407",
+        "url": "https://files.pythonhosted.org/packages/d7/0b/32519925bef5ea3eff42bf85d4c3f4da5deb2a9bea1287d8d0ed7d738455/collective.taxonomysupport-1.4.0.zip"
+      }
+    }
+  ]
+}

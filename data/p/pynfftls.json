@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Fast Lomb-Scargle periodogram using Non-equispaced Fast Fourier Transform (NFFT)  by B. Leroy",
+    "homepage": "http://lesia.obspm.fr/"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "52bc5c508e63e5818ff9d909834431af7d793e004f4231e0261a7f8880637f7d",
+        "url": "https://files.pythonhosted.org/packages/e7/22/a3f4c8097eae4aa890042d05f1b7801d9cd790d39c40cff9b7ee4dd65802/pynfftls-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "c0720a133d2ebb205879110488adb708d21f3cd932fd8f58df065a7e097bd58f",
+        "url": "https://files.pythonhosted.org/packages/16/0e/06f534f3dede648369ad386d95c0c314955b10f1de5850fa1dfab9e0517e/pynfftls-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "bdea7131ef01202f1db8ccb38bfdcca6bac79fd974067d4c593c594581963c44",
+        "url": "https://files.pythonhosted.org/packages/50/d5/8baee01791271c2ef0db67eb3d3fd334bb9c95fb81060ececcf11c0c2ced/pynfftls-1.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.1"
+  ],
+  "meta": {
+    "description": "A wrapper for mosh.  Save hosts and connect to them by nickname",
+    "homepage": "http://moshpit.aj7may.com",
+    "license": "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+  },
+  "versions": [
+    {
+      "1.2": {
+        "sha256": "1ac2e7fb6ccc888c91888507186b99a8f1555b90fe81a5c12c4087460d805e2b",
+        "url": "https://files.pythonhosted.org/packages/9e/44/3401afc44fa87ab1e71e993934e225cd6b8c60c6dbe70efd9c979afb98ef/MoshPit-1.2.tar.gz"
+      },
+      "2.0": {
+        "sha256": "b5b5d1e786ffd641ca15876720b356494a71ce1d0f5342eb216df91ad1fd199c",
+        "url": "https://files.pythonhosted.org/packages/43/63/6f120adf29f415e0c431dc529757b3b0dd773e2bff68fdc99dca11892ef1/MoshPit-2.0.tar.gz"
+      },
+      "2.1": {
+        "sha256": "6b4f48584b33bc140ee83d99a3a9617f38814fc24b8509ea3fd7bbfd3e4b250d",
+        "url": "https://files.pythonhosted.org/packages/0b/7c/1391b5f966ce850a39107cff380ffc02aeebcec962fc706437a1ed162b69/MoshPit-2.1.tar.gz"
+      }
+    }
+  ]
+}

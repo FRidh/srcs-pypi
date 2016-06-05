@@ -1,0 +1,37 @@
+{
+  "latest_version": [
+    "0.6.2"
+  ],
+  "meta": {
+    "description": "Python library for communicating with AMQP peers and brokers using Twisted",
+    "homepage": "https://launchpad.net/txamqp"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "7998ba4d5af32c4e61bfe83790b7dc27e365dc75428cd12a9706a0427f626f65",
+        "url": "https://files.pythonhosted.org/packages/c3/84/b1384c8254b155e4640285dce8818a72198a2d65f59d3cb16d6128206685/txAMQP-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "56353290d19ae246825e66cfe27625afc5cc3ed8ff7693314fef90e338470637",
+        "url": "https://files.pythonhosted.org/packages/2f/e5/74b0dd58604d9492b6aaad178e9d1bd719706f63a90d38b6eb4665b45ed6/txAMQP-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "f54638f6b6c2342fcddd5c9cf3e2aaea4712b6d5f317c6db640d274a46bcc054",
+        "url": "https://files.pythonhosted.org/packages/f0/15/2a72f2471dd643d9476e0aa8f946615e52c9b2c10d22b64ab0dc5bbc9267/txAMQP-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "02ba3a6a71e8c1b6928ee5d8bf5099b4c705497c60d14b50eb236f272acd62fa",
+        "url": "https://files.pythonhosted.org/packages/fb/45/5fd19743ac7e9feea2787b91529a547986e1e82b79d1a395bb71549aa987/txAMQP-0.6.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "53e39c99b7c26890b200a202ad85de9ee94d0e173e1822ac4b15dc2c69545dd4",
+        "url": "https://files.pythonhosted.org/packages/73/9a/0bf149de58d8cc01f7a878ac005a6ff3626bea3083c8ccbd67c1edbe9f9a/txAMQP-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "ab70a5e443d7aa4488e48d683ad32cf152e1a347198dafdd5d87a42643d61cf0",
+        "url": "https://files.pythonhosted.org/packages/63/96/13eabebc8c9970a320c2abd2458fdfe64dabfe60bf676200a183835aa3fa/txAMQP-0.6.2.tar.gz"
+      }
+    }
+  ]
+}

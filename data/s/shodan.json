@@ -1,0 +1,229 @@
+{
+  "latest_version": [
+    "1.5.3"
+  ],
+  "meta": {
+    "description": "Python library and command-line utility for Shodan (https://developer.shodan.io)",
+    "homepage": "http://github.com/achillean/shodan-python/tree/master"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "d21b7631e4828bb1303c117dcff1d738e6bc058569f57d1b95b434270741968d",
+        "url": "https://files.pythonhosted.org/packages/6a/a2/3b099868830f3dfb4eb88930a681b25fe8aa879e703321182bafe75a42d4/shodan-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "88251afb5276e18d006aa10d543e449ad15fdbe59ad7d0b6d0bbc35704a90494",
+        "url": "https://files.pythonhosted.org/packages/ca/7a/98dc74259bbab788674759d696df6a0dfa1b5421f963e0bcd0dfd3b0ddb6/shodan-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "11ddc5f04ed49bb18745f3ad95d1c5ad7bdfabf9cd603b2ca9a965ed2299988a",
+        "url": "https://files.pythonhosted.org/packages/36/cf/a7d0e9ec3744af9ce0cc4e74fa5dca2a12f9f79ad24f713b42bcf86cdfd7/shodan-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "6a42829f66876df78c8773ff35efbc96daf950377cb3f67fe473a35a88d523ae",
+        "url": "https://files.pythonhosted.org/packages/fd/db/1282dcee9c11d39e12c4773fdb56bd6ea82f33efdc6ac50f8d3cb536abae/shodan-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "d1f39122e43a67b98b35f80133301db84cc3afb6eaf47fee603e02fe819280c6",
+        "url": "https://files.pythonhosted.org/packages/06/a3/fad36a7035e2f4cd752f963214452ffbac52cda3ee1275bf56cf8d7fc8d7/shodan-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "89e571fca54047f785d9d4be4c376e3efbce152fcb120aa4cffe46b502def15e",
+        "url": "https://files.pythonhosted.org/packages/e4/47/e25c9497958dcad5c061cee26c9e948ca1c81775c92072e5d7b552358685/shodan-0.4.2.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "43c6f14ca40d416f67888fcf63d2a58b5c86d2110e450391f20a15fcbb798381",
+        "url": "https://files.pythonhosted.org/packages/6b/b8/3bcdbbb2c78f8b287794e2220ec323f396bf05c466c1aa13d1548db45451/shodan-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "43541ad9e1a7978a4f43482c6f188e6ed11888402d11e215ad70607c248ff0ca",
+        "url": "https://files.pythonhosted.org/packages/40/d3/0b736aa2a4b3784d2bc40f1c61588449367beb0fc9fb0de821e22503feed/shodan-0.6.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "d600247cc0791abae20f730831c08bc6a3586d7752c04b699b0e0767cfc854eb",
+        "url": "https://files.pythonhosted.org/packages/a0/ba/4527f1f63c18da9f2646d8912e86933038bfdaab8b23911a399264f50726/shodan-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "1d66b112ab3858190e3b4a576e1349649425125cc00f36b25552120299d42261",
+        "url": "https://files.pythonhosted.org/packages/d4/36/5f0b4be63bfb3f4540eac4e2e7d5e1574c93dc508b7c91a0f8f16627146f/shodan-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "decabf9c038c6c3c16bebc2a7e74d19c19111853eceb2980427c1c3f9a72e3a7",
+        "url": "https://files.pythonhosted.org/packages/42/8f/180436470b7953c11b9ae562f2708f754aed567164f88b2506857344034f/shodan-0.7.2.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "b768b019c13d299b6427f35c9eec710d54aef1d2e3ddd0f20c78d4dadbd5c3d4",
+        "url": "https://files.pythonhosted.org/packages/94/43/b33c9061e9412146c53b80f4d96069206ee9045980a5a87c3490c48967f9/shodan-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "441efdfed9d9c81f6f475e9cf296133bd0e1092fa3c204d31458d84d40946df1",
+        "url": "https://files.pythonhosted.org/packages/24/d6/a679ca7b6bd0b9c5ed76437bb0ab54d395aea1109d9d6041ce3008cb38de/shodan-0.8.1.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "c54a0e47dabbed59adde2cb6d1b1a0519c7997de668205749f3ad8774ecd4463",
+        "url": "https://files.pythonhosted.org/packages/b2/79/f71c5504cb3633ab88c7914efb37a6ca31a231a6742ea0cff1b61f2a6e0b/shodan-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "adb00c970a2586055354a394ae3f20c8fda530edfb4dc0b8b8ad453e41d8dfba",
+        "url": "https://files.pythonhosted.org/packages/43/33/6e20d9f2389a3bee8bb11a6e45d6aad78b156239b671f6f1f1ff5768c8cb/shodan-0.9.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "41c69d027f0eedf0cd6fea4313aa974b180392edbfdac93269a7421daa05676b",
+        "url": "https://files.pythonhosted.org/packages/42/0b/eaf952a28a23bcaecab852f96788003ca91622fde330b5089e0b0227f3c9/shodan-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "600789804576c1e1c518d90ca4f7bb0ae4fa52d81d434d227e56dc3688410559",
+        "url": "https://files.pythonhosted.org/packages/8e/44/502fd4b9bdf002932d7233433d659c9eca5174fe76c1f06d4695072f8c04/shodan-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "9fa07a059cdba8a978012adaeec6ae745725ca4a97b4b81b4ab6a27cf0a95c42",
+        "url": "https://files.pythonhosted.org/packages/20/4a/52c68a8a8c65a05ee4251886c8513e3d646efb975663020b9f1ce78c1d0a/shodan-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "14ed2f36e2c410572c01a4466f878e54a3282db41bbaac9925129c62814e3a8d",
+        "url": "https://files.pythonhosted.org/packages/ac/21/c029c0133d56b6a511753fca89d9e7289840d6f81a4f8069c992841a1729/shodan-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "3c3fbee175fc8207dc6b7d4bce9c0da21e3bee29aa5cd0a81f08f4b228f76e66",
+        "url": "https://files.pythonhosted.org/packages/89/52/0bf79d570a1def5b252806e04ce2c088ef6e0a314bb6a42084afc7cf800c/shodan-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "c341712b6a77fafc5fb388cc58ce8872b2f7aaf3dd0e47101c57ca1a4a85a313",
+        "url": "https://files.pythonhosted.org/packages/ea/2a/fffd43bf2998735ad3e899296e32c985078c8390b8d17b8db9aa0b9987b2/shodan-1.0.5.tar.gz"
+      },
+      "1.0.6": {
+        "sha256": "7e4f4709f2aae2a6e8126bcb4d732bc28363c899f559b8d85bfdfcb3922f8193",
+        "url": "https://files.pythonhosted.org/packages/a3/77/a14589027470fe96df7938385ec8addef23f759132e1082035ba1f926f91/shodan-1.0.6.tar.gz"
+      },
+      "1.0.7": {
+        "sha256": "f74ef35f25900a88c50da61c0dcbfcba20dfc6d2bda4eb1cbf013d308fb2e73d",
+        "url": "https://files.pythonhosted.org/packages/6a/c1/6693e1afb263e19532598fcc8184262fbd9edc5092f2ede2e8fa7078d7f3/shodan-1.0.7.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "18630922c7ff4449ec7989d610223c391dc9269f7207799d5426ed0388e45699",
+        "url": "https://files.pythonhosted.org/packages/26/a5/b6619765c8bdf63c5f28da09680fd0aaa30a482d2fd74dd003ebe18efd2e/shodan-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "81e13b006972c6267690496000cfab329f1fc9f2bf10dc1b05f3e9ef3578747a",
+        "url": "https://files.pythonhosted.org/packages/75/a8/e5822f22eead9409304202d0e8c62ba5744fbef4987d862d0528615bb4af/shodan-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "0c6fecaf332e0238c45fff78d2633c24883113e36447ae1f72e197b91c02a2b8",
+        "url": "https://files.pythonhosted.org/packages/9c/9d/1e4202c9134a55c6802669602b3aec7760ae4caef87e1a46ea8a6937b715/shodan-1.1.2.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "12cb1df5dfded7b3e99cf9ed6bb4a78ce1ef3c5b0fb268fcbbc2d875ea1a5c04",
+        "url": "https://files.pythonhosted.org/packages/8e/48/b8fe35de1b0aa93a0e41aacc237e3903c6cf5c01f728b08e725ea0e59875/shodan-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "7291a540343109db7dee8014dc2fe6ebdca0ab732f278cee5f15639d7b57937a",
+        "url": "https://files.pythonhosted.org/packages/ca/a0/08a0a5dd5ea0895ed63361bc380eedb434ef62d43ab4f885304dc0cad53b/shodan-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "4f1186762aed91d97f5c3f373fed6d1cf769e79405e625a5fdadb2751000d200",
+        "url": "https://files.pythonhosted.org/packages/69/cc/943f216e670860ec06cb61271ac62364e1bda309287ed7d3eb90fac42dcf/shodan-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "bd32e4d6b1483b828f13272e2035659a9c1223e2c546250113e19375d2829f57",
+        "url": "https://files.pythonhosted.org/packages/33/f3/bec851ca3194c9e5e82b8b625ecbfe8c2a429210e19f0a76647cf24b10c1/shodan-1.2.3.tar.gz"
+      },
+      "1.2.4": {
+        "sha256": "8a1d7be17ef5b7a8a62d849683ed5f8094c41b213398f0b2ba260658d73dfc8e",
+        "url": "https://files.pythonhosted.org/packages/c5/94/d75d09178e5dd81062dd4bbf338c2028cd2774595c629767cde2d8ac75ed/shodan-1.2.4.tar.gz"
+      },
+      "1.2.6": {
+        "sha256": "299c9624f2771fb25e10ef64676987d307410f8993fe5d711369af8f4744efbf",
+        "url": "https://files.pythonhosted.org/packages/28/7d/0d45b67e14830f81ecdc3f73af9eb7ab35398a69b1e7d4086033d6e28914/shodan-1.2.6.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "4938dee892622c9c53f43eab24289e735531b60f1ed0f9dba35df8b3eae998a0",
+        "url": "https://files.pythonhosted.org/packages/d6/b3/075ab26b01e5f54d83faec4a9ecda486bd80edc2f39b3e98de435ba33557/shodan-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "e03713bca844d44dd1baab948e89122399c8118dde5395568c167a8456b8f8a9",
+        "url": "https://files.pythonhosted.org/packages/26/8a/4064f4a80ca86155395c83f9f1d004fa986a23215bd19b7e18c98eff0c24/shodan-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "6c29ffe7f669ed5871f98e941350374810f0b4f7ca7ea672fca53d6f64696e16",
+        "url": "https://files.pythonhosted.org/packages/77/40/6a18debff2d6e1881253d6bc312d8430b3c93a4b9a81987a604d16432305/shodan-1.3.2.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "d6ca9d041852fc5b9ee2c83552f309c93ef9d24af3d4638a4e7f1bd9d69981ff",
+        "url": "https://files.pythonhosted.org/packages/78/1e/033ac266b478b5c3c4082b491246aa5f06ec4d9bed8967b48f467269c582/shodan-1.3.3.tar.gz"
+      },
+      "1.3.4": {
+        "sha256": "86f4edb32a0725eebe91f7f3e5258754c3a034b8faf0e2be2396641b77ce9630",
+        "url": "https://files.pythonhosted.org/packages/d1/a4/20dea094158ca0c8d8031da8a16392c179049cc99b5846ab2e363ba9aa7a/shodan-1.3.4.tar.gz"
+      },
+      "1.3.5": {
+        "sha256": "03d3bb3cebb4da82c73f210fcacb3eff947a172ef5835efaec13de28152c0020",
+        "url": "https://files.pythonhosted.org/packages/f2/15/d2ba23b80e45b330ac7a8539c8083cf8f7ca77272792e885ceed6f61403f/shodan-1.3.5.tar.gz"
+      },
+      "1.3.6": {
+        "sha256": "a33ff65d284c56db780e17c75a32cb43fe60abbe280f7c2e09f54f0cd1b5e802",
+        "url": "https://files.pythonhosted.org/packages/d8/84/b36cab18ee178b7b813701983647ef3d10d030a903aa998b6ad883bca94f/shodan-1.3.6.tar.gz"
+      },
+      "1.3.7": {
+        "sha256": "610ecf360e0ecc0ee5ff90de95541bc34a2ac67477fc0814710ef2b018c285a6",
+        "url": "https://files.pythonhosted.org/packages/ad/2a/39a8e0d38b90f52ff94e5e88395c021b77b96125bd7cdad3014776b8c600/shodan-1.3.7.tar.gz"
+      },
+      "1.3.8": {
+        "sha256": "2668b9e0fa8d3bcf73a475216a70aa3cbf7e1b61c9c3aab6df995ba555b9eb94",
+        "url": "https://files.pythonhosted.org/packages/50/21/bb13d9f6d68a7ce7360fb9786615153868600246c126ea01b18083ededf6/shodan-1.3.8.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "331433977b5a589bcda59f73fe3872c037493f13a3edb925003b037d758bfa32",
+        "url": "https://files.pythonhosted.org/packages/32/2f/c40c5ce91d31c08ca6706928b082de70b6f155de992bf9a7f5cceede0ffd/shodan-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "d30e75ffb7725e042a7d66c29a2aaabaed8967fe434daca8a76e7718d18cca79",
+        "url": "https://files.pythonhosted.org/packages/b8/4f/ec8423b2ca6694ef0ea6e5cf8f92c1316677ee3b89084fc6ba1cdc76242c/shodan-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "d3bad5aa6e61556f12f96030fd6de0fced5b178861d9fe33a1a217656430769d",
+        "url": "https://files.pythonhosted.org/packages/01/d1/bdc01bbd60b87205ee4a4f88ac50c0fce9fc4609b370c225dd9d60a8a4cb/shodan-1.4.2.tar.gz"
+      },
+      "1.4.3": {
+        "sha256": "7a7893ba1dcfceb9c618c6cb50d2db3b8256b9e5d378a10194127b5030eac78e",
+        "url": "https://files.pythonhosted.org/packages/af/7f/7dd67244e3c3e4a0f614a024f5e8308bcaf3448a8e7b8698d89e8eb303b2/shodan-1.4.3.tar.gz"
+      },
+      "1.4.4": {
+        "sha256": "e5c048a801f9443ed844e62e7f883252267cfda311eec21250b6b30a741730b1",
+        "url": "https://files.pythonhosted.org/packages/2c/7e/0c0ed04768a1e685889f554dba94a695830da5aae877ba31603022de204e/shodan-1.4.4.tar.gz"
+      },
+      "1.4.5": {
+        "sha256": "9ab8f7b29d26502a022c33fe6f6917f70523d37a704970e9a56e31ddab8426bd",
+        "url": "https://files.pythonhosted.org/packages/3c/bb/0c0a5b8a2e18b616e03e43721a8a9d051d7fa843455292ed5473997d2392/shodan-1.4.5.tar.gz"
+      },
+      "1.4.6": {
+        "sha256": "fffb3911105c55d04e107cae756fde3597de69d063ad408f8f075e5afb7196a9",
+        "url": "https://files.pythonhosted.org/packages/8d/06/a83c0cb2ef8be0358b34fc4f9b797c64d78107b1a5c12a5b93227211afd2/shodan-1.4.6.tar.gz"
+      },
+      "1.4.7": {
+        "sha256": "45ac10ba0a916d9d89873f44d44923b2c35888809650f3ae09370ae282f96055",
+        "url": "https://files.pythonhosted.org/packages/b5/04/b9df3213aa4e0ab2574702555e490b1934ac1e6f0b0508cbf922529cf724/shodan-1.4.7.tar.gz"
+      },
+      "1.4.8": {
+        "sha256": "c0f1e97b3122a3ebc4f78279ae2cfa05a8bb74b776c904bf0c243758c1635088",
+        "url": "https://files.pythonhosted.org/packages/22/34/7e8af279843165f9d67cc8fd42380cf2271aa9627da7099970537bcbd462/shodan-1.4.8.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "11ce0cc749c6a8900c4a8dcf1a93302a93694871b17ad6040193a6832daced19",
+        "url": "https://files.pythonhosted.org/packages/38/28/b4ded9df19506ccad49a34797cba729f53a50c64bbfc8ecd9bbd97b0bd6c/shodan-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "b1d3bbb5477a981f0dfb849d0d89b68ab61c042ffc9e5bcc68fff3df5b3200b5",
+        "url": "https://files.pythonhosted.org/packages/61/20/ee0c0ee603976be9eb5d9c5ba824342c318facdc6aa785d79150687933b3/shodan-1.5.1.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "b8b9142adf190361cdc58b658ed176b0c579ee28f76e02ff880abe9f2150e165",
+        "url": "https://files.pythonhosted.org/packages/16/52/b2faddbab703848d0ba220b4094a560d9a2232024a9e8b7fd245f6e83ae3/shodan-1.5.2.tar.gz"
+      },
+      "1.5.3": {
+        "sha256": "d9254681f27dbb16e5e23c894c01875ea650b6ca6618692f04ccede9d26d38df",
+        "url": "https://files.pythonhosted.org/packages/6a/77/1549623c67d67efc9e4a854ca7e1ebfcb9de3f3ba2658706401d052725a0/shodan-1.5.3.tar.gz"
+      }
+    }
+  ]
+}

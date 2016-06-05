@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "A simple fork of django.dispatch for use as a standalone PubSub library",
+    "homepage": "http://github.com/edgeflip/dispatch",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "6ede564ede3eae8be4c721e3ce09298f0815e07587c52395f79c473a21477b71",
+        "url": "https://files.pythonhosted.org/packages/a3/6d/0fbbf38634168270fd8109f0bfbdf6f9540b3d32af2297e5046352893451/Paperboy-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "68c65250c51ac2f659034e8f91cd26afa9242014c3455e577668f60e49cd2d34",
+        "url": "https://files.pythonhosted.org/packages/d3/37/14192e859ba8dd79fecd57838c63b7ef18c6de328a1983c4cba8a487049b/Paperboy-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

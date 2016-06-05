@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.99"
+  ],
+  "meta": {
+    "description": "Channel Access Foreign Function Interface",
+    "homepage": "http://bitbucket.org/xwang/caffi/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "55fe96da92cfb01da14f30824bddfe155be94aa21f6e568b600b65679483c7ce",
+        "url": "https://files.pythonhosted.org/packages/a8/35/e065f251c41c6636f93767e9dc890824df008f54b0894b9a7c62a71075b1/caffi-0.9.tar.gz"
+      },
+      "0.99": {
+        "sha256": "14555fd0b061940c567b98a860812df14d0515eb7aaca1973ff9ca5bb1725d2b",
+        "url": "https://files.pythonhosted.org/packages/d9/3f/c2ef8a0610d02d543d1d1c9e9007dfa993931f06cc1167f52270748250b9/caffi-0.99.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "4.0.0a2"
+  ],
+  "meta": {
+    "description": "A library to access Solr via Tornado coroutines",
+    "homepage": "https://github.com/CANTUS-Project/pysolr-tornado/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "3.3.1a1": {
+        "sha256": "7e5e27e892232c2a6a1f8120b746667277cd605db753dc86e40ccd15264a573f",
+        "url": "https://files.pythonhosted.org/packages/d3/71/d96c6d791a95c64a8d0adee0a45c807746794cef13b9e1bf8328330fb9a5/pysolr-tornado-3.3.1a1.tar.gz"
+      },
+      "3.3.4": {
+        "sha256": "5b394aa881e607d67e87e6562f96f4b6e8a3d32c019b91989f070a0cd7b48fe4",
+        "url": "https://files.pythonhosted.org/packages/35/ea/2183527e053e2c65b8f12e92c44f398b9cc45363a5e7f67d210ad33ff1aa/pysolr-tornado-3.3.4.tar.gz"
+      },
+      "4.0.0a1": {
+        "sha256": "14ac57953b12b502c1bb5b566953391ba26cc7d92062dd69987b6805addc6a8d",
+        "url": "https://files.pythonhosted.org/packages/99/f5/97f6c14efbbe9f5c9d0531487249457195cf671a79fac7f0e2402faaee22/pysolr-tornado-4.0.0a1.tar.gz"
+      },
+      "4.0.0a2": {
+        "sha256": "1c56acca04bdeac4764e3354d0363d957e59465d518e034a89f4a4290f1a988e",
+        "url": "https://files.pythonhosted.org/packages/01/89/584425155693b779b32f587d792b38bbfe5847007540be86dfb51445c26b/pysolr-tornado-4.0.0a2.tar.gz"
+      }
+    }
+  ]
+}

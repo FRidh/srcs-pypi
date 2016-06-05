@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.2.3"
+  ],
+  "meta": {
+    "description": "Dependency version management forklift for buildout",
+    "homepage": "http://github.com/zillow/buildout-platform-versions",
+    "license": "The MIT License (MIT)\n\nCopyright (c) 2013 Zillow\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is furnished\nto do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nWHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\nCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  "versions": [
+    {
+      "1.2.0": {
+        "sha256": "f845d07993c7049179494c311e9d128dcf0a42e5a27810e035a8b7093fc16261",
+        "url": "https://files.pythonhosted.org/packages/19/3b/f0e677180fea2267eaccfd000aa079ecf7aa95b5cc92ff28b9764a7ac3cf/buildout-platform-versions-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "fb177bb2cf16dd72ef8e1d69c8e485dce92130ad12147501a15ab1e810c30f54",
+        "url": "https://files.pythonhosted.org/packages/79/eb/1a16addef34e685f0344d67f05b1cbfe7061c78dea55d8070091bac3a6f4/buildout-platform-versions-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "8ddabe016db76d647bc65af55f4c8b370ae97a6a4b7902163dc8fe6743f4bfc0",
+        "url": "https://files.pythonhosted.org/packages/90/d6/4ea852dbe436ec98244777499551d070a9a556c24db66e5947bafdbc6829/buildout-platform-versions-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "35bb82309054b204a0cac8188c2f1839c37c7edeb981901943495695c2af2e68",
+        "url": "https://files.pythonhosted.org/packages/a3/79/43a1d6b76511b223bdd62ca30653b5dacfb88cebcc3fc0d0b917b203cc53/buildout-platform-versions-1.2.3.tar.gz"
+      }
+    }
+  ]
+}

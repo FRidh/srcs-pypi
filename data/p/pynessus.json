@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "Library to talk to a remote Nessus 5 server that via its xmlrpc interface",
+    "homepage": "https://github.com/attwad/pynessus"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "6710dc23e6e4ef45fae49b1e838376609b2730d29d3332d515a956411db9438d",
+        "url": "https://files.pythonhosted.org/packages/91/c2/75de9808b46aa1172c76e448c15f8ac2f82c3e2b716d60c1e8cc045c8ab5/pynessus-0.9.zip"
+      },
+      "0.9.1": {
+        "sha256": "b0aba6e0f52fd5ecfc6f25b9791b528a425d09f92f0e7fd0d3f4e4f400b07de9",
+        "url": "https://files.pythonhosted.org/packages/50/03/336b36ddbbb7de5effb1195a6511fa205e01373168448d6e8eb721572add/pynessus-0.9.1.zip"
+      }
+    }
+  ]
+}

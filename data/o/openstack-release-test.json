@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.0.2"
+  ],
+  "meta": {
+    "description": "Package for testing OpenStack release tools",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "f96ae63aee7be7534e1872915eef6fbbd8dd06653a006c2d09b6eb3e026b46b4",
+        "url": "https://files.pythonhosted.org/packages/86/41/541df93d5eb0054233ff76d16e8ee2531f7071dddee9c1141072c716f397/openstack-release-test-0.0.1.tar.gz"
+      },
+      "0.0.1.0a1": {
+        "sha256": "4e878dc61a9525e02e69030982b9eff7892bebbe997b9bcc0a0f26291b403b5f",
+        "url": "https://files.pythonhosted.org/packages/f1/41/678371fd18c331359d0f58cea28b63be75a6ce28f87d65048c8e500efca5/openstack_release_test-0.0.1.0a1-py2-none-any.whl"
+      },
+      "0.0.1.0b3": {
+        "sha256": "23983fa25e1eb63bacc06f3f21046077d6ce9f5093319c47d4b9121e935a56f8",
+        "url": "https://files.pythonhosted.org/packages/1e/4c/0ac200f20a072c764868ba1bdeebbac75886f2d28baf7f4a74d1e8b82ad7/openstack_release_test-0.0.1.0b3-py2-none-any.whl"
+      },
+      "0.0.1.0rc1": {
+        "sha256": "941021f5c5fb6351b6eb7b5121fc9b37207f476903bf0b735d1dc085bbdbc333",
+        "url": "https://files.pythonhosted.org/packages/38/e2/94db0cff23316c649b65b06638e312db9f8ea031b1e967142ff3bd78e6da/openstack_release_test-0.0.1.0rc1-py2-none-any.whl"
+      },
+      "0.0.1.0rc2": {
+        "sha256": "2a788466529aef561a50634d5bbc43b32ecdd3b5c71d47c3ab2aab91d0918998",
+        "url": "https://files.pythonhosted.org/packages/67/d0/a6cf6d8562a1d4f3fff9d104a6e649ac7cee5ca10bd1eb19dcd2d1d97e0b/openstack_release_test-0.0.1.0rc2-py2-none-any.whl"
+      },
+      "0.0.2": {
+        "sha256": "9d7c2642e758f7018910d90a2206ff734e112a380f34a0a32d9571ebe9f8b0b2",
+        "url": "https://files.pythonhosted.org/packages/25/19/8c1ee0c74db82910c730dd466c4afcf58ab3778496abc6bf4c3285097ef8/openstack-release-test-0.0.2.tar.gz"
+      }
+    }
+  ]
+}

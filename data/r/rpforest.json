@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.3"
+  ],
+  "meta": {
+    "description": "Random Projection Forest for approximate nearest neighbours search",
+    "homepage": "https://github.com/lyst/rpforest",
+    "license": "Apache 2.0"
+  },
+  "versions": [
+    {
+      "1.1": {
+        "sha256": "9d1c7a430d52a7e8c36eb93fac7be78c4146245f42188554f651e55461052057",
+        "url": "https://files.pythonhosted.org/packages/22/96/f6387240f85e39258ef5937e09e7d76be6bfbc715ca6ebbd2ec4ffcb8c21/rpforest-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "871c4718fc8bfc91a35c3857b793b0867b37301604e025697da90b0b0e55c935",
+        "url": "https://files.pythonhosted.org/packages/77/29/3603ec7e093a070ee30b08325ccb3129b8c4539da9cdf4d4aa8ce77a89df/rpforest-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "d17de9bef06473751fb970c74e7e58b137383838ab431e5b6e6024af9711d506",
+        "url": "https://files.pythonhosted.org/packages/86/d7/09580c943e7542d0e4527552f0309d440d850253edd7b5f44c12ede8ec28/rpforest-1.3.tar.gz"
+      }
+    }
+  ]
+}

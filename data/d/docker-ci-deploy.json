@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.3"
+  ],
+  "meta": {
+    "description": "Python script to help push Docker images to a registry using CI services",
+    "homepage": "https://github.com/praekeltfoundation/docker-ci-deploy",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "a8e4b0df90043f96bd69855abeea8052ad94d0b897c98417b7c6964ad9e35777",
+        "url": "https://files.pythonhosted.org/packages/ab/48/70e211fc8d531be2bbf1946007c6e10fb9feeec84febcc8a6a9be463acbc/docker-ci-deploy-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "d526d5bc803e3f491aff501c34bf1c3e70c5a82cb8b3d4cb04c6ed92df304f66",
+        "url": "https://files.pythonhosted.org/packages/04/61/894e7a5f7148692fbcb82e3c136e23a9bad6382ac815d0737e266f6ad69a/docker-ci-deploy-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "bafa74b03e853edbcdcd48e96b34a1ad13be5cda09aa98ab4e5141609f1ee734",
+        "url": "https://files.pythonhosted.org/packages/6e/1f/4926f9be4b20a9663a94b2237cda6a7d1a81f21c7bd1a1437ec29bd1fd04/docker-ci-deploy-0.1.3.tar.gz"
+      }
+    }
+  ]
+}

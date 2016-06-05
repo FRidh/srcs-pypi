@@ -1,0 +1,70 @@
+{
+  "latest_version": [
+    "0.9-rc9"
+  ],
+  "meta": {
+    "description": "A simple & powerful distributed Music database engine",
+    "homepage": "http://zicbee.gnux.info/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.7": {
+        "sha256": "ac90feadfb0871e21740d60c98e4c722b2ac83b0575b1aa40d2fec068cbc9868",
+        "url": "https://files.pythonhosted.org/packages/78/4d/05fb6b0e8fb84ae1b16ef8bc53ff330aba1932b5add14edcea94c3fb9df3/zicbee-0.7.tar.gz"
+      },
+      "0.7-rc1": {
+        "sha256": "2d7753945b77d1062add936ecb779bbb60d5d9b79500a4754da43d186464dad7",
+        "url": "https://files.pythonhosted.org/packages/d0/88/3e2e436bc0ebf133e10a59a40301cd8ee0f6f04e1466790c7a284f1d6811/zicbee-0.7-rc1.linux-i686.tar.gz"
+      },
+      "0.8": {
+        "sha256": "2c951e207a1b00249d1fa2c0da2526ab2c4d7eb48856ae7e8522334ba9493426",
+        "url": "https://files.pythonhosted.org/packages/92/76/5f8154342739dae79dbb5e3268383450aa97d94cc1eebee5451958e6c1fe/zicbee-0.8.tar.gz"
+      },
+      "0.8-alpha": {
+        "sha256": "d46e36072ece9109b4f5752ceb7ad9d39782d283aa3107cbfddc6e0e6765db04",
+        "url": "https://files.pythonhosted.org/packages/02/43/36df93820e55528449ca368c2a2eb9931eeb5bc0df4c5b43851366baa8f2/zicbee-0.8-alpha.tar.gz"
+      },
+      "0.8-beta": {
+        "sha256": "3c901abf3ac8754495fd0faf4ed453482a0757631d16855ef5f69f5fdbe510d6",
+        "url": "https://files.pythonhosted.org/packages/b0/cd/8de8699063933084cb686d561f48cc998036f9a71f3b1231056a6640475a/zicbee-0.8-beta.tar.gz"
+      },
+      "0.8-rc1": {
+        "sha256": "ee806e5a2466434a2b39ae575be2db8136490997a5ca153b1f211ab8cbce5fee",
+        "url": "https://files.pythonhosted.org/packages/86/25/dc94a684d3647bee31cd7f7453950b483389b13c1384ba6ace8d15f8733a/zicbee-0.8-rc1.tar.gz"
+      },
+      "0.9-rc1": {
+        "sha256": "4d31a9f8df9686cec2963047e4f1b611c0d4c5ccd454b8ee8c64f16a60d41fdc",
+        "url": "https://files.pythonhosted.org/packages/fe/19/5861503f8230e49c9d33a9aca974ef419560409f76495f14dbfb3d97a8e1/zicbee-0.9-rc1.tar.gz"
+      },
+      "0.9-rc3": {
+        "sha256": "94fb26b11457f011334efa0ee7cee4fe622fa791e455983ea33c60da894ffbd9",
+        "url": "https://files.pythonhosted.org/packages/4a/1a/c2811ea6161dd6d3c41ad4689f3ac495ebd42fc99f86fa7a9dd883ccc40c/zicbee-0.9-rc3.tar.gz"
+      },
+      "0.9-rc4": {
+        "sha256": "cf2669615b8e3f274405c3930818aabcaa7ce41c6facdda7946779d1e5295c0e",
+        "url": "https://files.pythonhosted.org/packages/f3/5a/081b17b55df956999c133fcbebc24a7560453e64011d3e67a05dbe2165ee/zicbee-0.9-rc4.tar.gz"
+      },
+      "0.9-rc5": {
+        "sha256": "f03af5971805940886b6c3104943a174d495f5472bd08c76e25458bb2add9f31",
+        "url": "https://files.pythonhosted.org/packages/42/f7/74e684df990bf0b113a3abbdd6d411757ac38760b3fc77fec2517b2f402e/zicbee-0.9-rc5.tar.gz"
+      },
+      "0.9-rc6": {
+        "sha256": "3520c998683d0635be7340c8a628060bb31b0f86b56e2a48c251ace28f3321bb",
+        "url": "https://files.pythonhosted.org/packages/ea/3f/a815cffdc4f631ad0ffe17c34de7ca98cab8c380f688a3282dd81151fbca/zicbee-0.9-rc6.tar.gz"
+      },
+      "0.9-rc7": {
+        "sha256": "fec35f86769015e70b9c0866cca48d82d1c9e4ba930a7e2eb30f27f2f520f9ea",
+        "url": "https://files.pythonhosted.org/packages/26/8d/d58b1d5ca81210a01909fbf61f4ba25301bb35646259e67b139ff9381afe/zicbee-0.9-rc7.tar.gz"
+      },
+      "0.9-rc8": {
+        "sha256": "423df3dfdfd35e17f03efa196e947296bb6a28dfcc8ca8f83c766ffc918e620d",
+        "url": "https://files.pythonhosted.org/packages/31/ee/435531b4629881b2266cb6204ea7f9c86b46bdcb95ee5d44a3c3344940aa/zicbee-0.9-rc8.tar.gz"
+      },
+      "0.9-rc9": {
+        "sha256": "2dbada3d0fe0690c7d9673f4b3980bfedde4ac6eacb336381b034e43d737a6ac",
+        "url": "https://files.pythonhosted.org/packages/37/fc/14c8994f9606ce16e2c74ca7f8d0a3850d5dfb333acf3edd7a61349053ee/zicbee-0.9-rc9.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "latest_version": [
+    "0.46.4"
+  ],
+  "meta": {
+    "description": "Cython hash table that trusts the keys are pre-hashed",
+    "homepage": "https://github.com/spacy-io/preshed",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "26d000157ca417776f5d21f5d6b585bfac0ea9d0b408084f645171d365913f01",
+        "url": "https://files.pythonhosted.org/packages/ab/3b/0e8910f0d129c7bb1ca6ec07304a2812aee3e6c09fa44666170fd6d7ae90/preshed-0.1.tar.gz"
+      },
+      "0.20": {
+        "sha256": "5bf4cc411d7a0f7ce66b248b3bceadd18e10bf44075fd75e8d40134843e908f3",
+        "url": "https://files.pythonhosted.org/packages/c6/1f/2f061bdf0778d603c4185fce9d37b19e5fa279176b509850e980cf71f010/preshed-0.20.tar.gz"
+      },
+      "0.21": {
+        "sha256": "7ea98107291140d89ca577f305aa5a5e62868f1d2875368c4a9ccf52e68ea747",
+        "url": "https://files.pythonhosted.org/packages/18/a0/8ad962695a284a6067efc80c3665e6c75dd2c049033b1d9fbbcb8bdc54a3/preshed-0.21.tar.gz"
+      },
+      "0.22": {
+        "sha256": "c9b4030d99aafff9b1914c16cfcdbf17703d1cdd19051db6323f26967c5935dc",
+        "url": "https://files.pythonhosted.org/packages/0b/68/57439f7d6ec2e525d907a9c32d2a471dddba18972fbb63847206ebef94c9/preshed-0.22.tar.gz"
+      },
+      "0.23": {
+        "sha256": "d1348604a8aa69eb22feb31bf2483aac06d5a30fd385a76354293f171f1ce2e6",
+        "url": "https://files.pythonhosted.org/packages/c6/fa/2e3c82386a3e377d2b260343c354d9a9159933c7b7913d97881f7264b9eb/preshed-0.23.tar.gz"
+      },
+      "0.24": {
+        "sha256": "a2435300288dc53bd8405dc4cbbeb0df315c83295693567dfdce594f55d884d8",
+        "url": "https://files.pythonhosted.org/packages/36/a4/0ba0991ab1d6bd5b9496ccd380397660d623bb39f569b6b92595d97b0419/preshed-0.24.tar.gz"
+      },
+      "0.25": {
+        "sha256": "a4ba9c0705a0d4668be54d271c49d3fd248d0ea89102d7ad7be2dd56736b8647",
+        "url": "https://files.pythonhosted.org/packages/b8/35/b8500e87792abb1f2546556001fe2afac456cb781e4656bd5b95011b9878/preshed-0.25.tar.gz"
+      },
+      "0.27": {
+        "sha256": "6d1d46acdf9e51897886b224ccd9b36f53b55d3855d515e7130bd0531c88be95",
+        "url": "https://files.pythonhosted.org/packages/0e/bb/1ead90018bbc00e623485fa9839ee7bc1bca832d2d7472bd7639173c2ce3/preshed-0.27.tar.gz"
+      },
+      "0.28": {
+        "sha256": "43fcf805698d897f45465bbb5dc6a0f3b42650a602505f1a27843fb1133909dc",
+        "url": "https://files.pythonhosted.org/packages/d7/2a/66a851038b43bd5447610c8579c56db569c21b2d90048e3b91062c2fed21/preshed-0.28.tar.gz"
+      },
+      "0.30": {
+        "sha256": "b1d210e2b570c4f17631dbb64cf876c429660cc612af4b1e9ec409161a241669",
+        "url": "https://files.pythonhosted.org/packages/c6/68/1ee6e8ad56e42471871d2fc5b1ab91c4c4fa464f39eeb120db97ce5e6329/preshed-0.30.tar.gz"
+      },
+      "0.31": {
+        "sha256": "2fc6ed1aa26b086cc5aece6a1e116209cd163363cb4c291ecbd85d9acaafcbc8",
+        "url": "https://files.pythonhosted.org/packages/b1/6f/1403d8b89dd9d2005000584292ee747112cb271dcfe51a665c57fbd0fc49/preshed-0.31.tar.gz"
+      },
+      "0.32": {
+        "sha256": "dee2ed7882bf0e8d38aa5e5f15d768c94d72e5b705a2536af5b27c96fe8e8b1b",
+        "url": "https://files.pythonhosted.org/packages/d8/b4/19212078e132fa03c880460257255673743968b4792a330432c78dd0d476/preshed-0.32.tar.gz"
+      },
+      "0.33": {
+        "sha256": "54411e8ce99f68c36f6497aec1fe78a4cb5b4202773f9e97483fb8d2e42e1bca",
+        "url": "https://files.pythonhosted.org/packages/c8/b2/51d444ac8275d1b4827d112163d885e5a83903e917a8d8b82e568b6428c7/preshed-0.33.tar.gz"
+      },
+      "0.34": {
+        "sha256": "33c485e1fb2308c7b281cb48392fdb2b840292f970410fc35c9f5646d1078e5d",
+        "url": "https://files.pythonhosted.org/packages/84/6a/cc3cceba52f956d4bbf5e4f1c790667253fa28953fdd3ee26d1c6d9f1f8a/preshed-0.34.tar.gz"
+      },
+      "0.35": {
+        "sha256": "cea89b6d2dbfe0f1af2319dd5ad99d9c3884eecdd061fbb1f897849c767ac2f4",
+        "url": "https://files.pythonhosted.org/packages/bf/b9/8ed33a32fea700ad9b5b4f036be2409794034c9480a3602438d616359e5f/preshed-0.35.tar.gz"
+      },
+      "0.36": {
+        "sha256": "92cde1bc91aee29c4740bf2ba80da5492a3bfefb751c0416aba4a17960820c69",
+        "url": "https://files.pythonhosted.org/packages/5b/ca/86a94ac5344da7b8e832229baa7602b7dae1393c915bd46b0756c27907af/preshed-0.36.tar.gz"
+      },
+      "0.37": {
+        "sha256": "8efa160cb8bedada8060f76e7d4ad67f4dfb7039f5a63541834ddb6ecb6aaf41",
+        "url": "https://files.pythonhosted.org/packages/6b/f2/e91d115bea5e879e4f13b59d1b7d25cddd1bc899ba7ac727cd49c8f364d8/preshed-0.37.tar.gz"
+      },
+      "0.38": {
+        "sha256": "9c6fa1166d1eb2a2af80483f9131e82ca53cf7b5c877641fbab00d109c3c3d35",
+        "url": "https://files.pythonhosted.org/packages/34/07/3a23471a132318ff6831f73e3dbf962391cceb7b372591b036516ff475dc/preshed-0.38.tar.gz"
+      },
+      "0.39": {
+        "sha256": "b001eddaf2a4c1f88e7aabab3d2f2fdfa4299e3daa52a5565e92acea4197f59c",
+        "url": "https://files.pythonhosted.org/packages/26/db/443289fcee5a8e2bca96408a2c1b12be18662aa4250d9c3d247ec31baf4d/preshed-0.39.tar.gz"
+      },
+      "0.40": {
+        "sha256": "4b194ad95f7ba6b74f2af1fa052256c88896cb513b36a52c9c68c43c212a5dfa",
+        "url": "https://files.pythonhosted.org/packages/0a/24/f6968bc79282c2f4e28883272360466e5c7174c80bd2981324a9b564ece8/preshed-0.40.tar.gz"
+      },
+      "0.41": {
+        "sha256": "5a5deb8ce8b59216a765707590989f5b6e7c70d629f15590b584c4aaf2a49ffd",
+        "url": "https://files.pythonhosted.org/packages/05/c3/3508c0dc8fcc987167f3b02eb37390e972cc0e3119a1adb9aa8d3ffb72bc/preshed-0.41.tar.gz"
+      },
+      "0.42": {
+        "sha256": "a21fd65cacad6877d14a0750ef009c1ff0cd190e7c8cea9976e0598f6c2279c6",
+        "url": "https://files.pythonhosted.org/packages/49/f2/59c6708ba42e9034f654aba445d1bda6936f910af2d72be1258498e18b6b/preshed-0.42.tar.gz"
+      },
+      "0.43": {
+        "sha256": "ae74937aa191e626e8d78d8b83e882facea7fab6e7e356b3364bd59ed61b38b4",
+        "url": "https://files.pythonhosted.org/packages/3c/97/2a47b23e79e92327fd998ee3ccc4d2f4c35ef4063754ca2d0b20d055d8a0/preshed-0.43.tar.gz"
+      },
+      "0.44": {
+        "sha256": "de9948a1e157f2db2263a865358d28460315b2899c72ac6e0dd054f8e57e9fcb",
+        "url": "https://files.pythonhosted.org/packages/9e/a6/a9292fee19d8642b3597ab038ea35819dc68d907d330918c7851ab5dcc88/preshed-0.44.tar.gz"
+      },
+      "0.44.0": {
+        "sha256": "5b0047e16208101ca9331cb933011f7ef215847e9d73aa4d22f84fe153ad2980",
+        "url": "https://files.pythonhosted.org/packages/9d/aa/ce1de28859aa58171ed89b8f69555816e73ccfd36b1edf2db0e719308bf9/preshed-0.44.0.tar.gz"
+      },
+      "0.45.0": {
+        "sha256": "376d4458dfbf199da71f9b35362917f4dec671d0da668d1891767eb884cd57a8",
+        "url": "https://files.pythonhosted.org/packages/79/04/f14994d7d154e1454b3735a4234923b96aff3e676f1fb50d9c4b48741387/preshed-0.45.0.tar.gz"
+      },
+      "0.46.1": {
+        "sha256": "93814a8cb283c42e876cb22361994b870a6edd38aa21400792a5239824a555aa",
+        "url": "https://files.pythonhosted.org/packages/88/44/f964d1b993fe541efca576557236e8c12ee4e5a191505faf9864b5161339/preshed-0.46.1.tar.gz"
+      },
+      "0.46.2": {
+        "sha256": "d67aca77cb8f93664629985594d81ca5ed514cb166261c2176d2b3e072bcbfb7",
+        "url": "https://files.pythonhosted.org/packages/16/2d/5ce934dc5810ef0a151364806e1d239283dc921998aad12fd41339eb3b4e/preshed-0.46.2.tar.gz"
+      },
+      "0.46.3": {
+        "sha256": "3dd99c8e4dfcb57802725ba405661e35e15863b97051b3615993bd2173911270",
+        "url": "https://files.pythonhosted.org/packages/01/de/242d206f57baffb66dd9ae9754e2ae02a0c96d8c73fee7a284a1f26073cb/preshed-0.46.3.tar.gz"
+      },
+      "0.46.4": {
+        "sha256": "96f0ca6a0aa1347312fbe76bf55949a378b225f6a2b543eb2671208c87aabbfd",
+        "url": "https://files.pythonhosted.org/packages/ed/f8/96cdfd0badba82b589f5913565e67a0db4d93282a86e0cb2dd786fdd69be/preshed-0.46.4.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "UAVCAN Bus Management and Diagnostics App",
+    "homepage": "http://uavcan.org",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "1ab924b0791ef0434401925d90be23c6d670159e8c55b9870747a6819d7efffe",
+        "url": "https://files.pythonhosted.org/packages/76/b3/98cdb0395ed1e78f4b40f8b6c1c2d1a92ce9bc4c62f53f52d4f42dcaee76/uavcan_gui_tool-0.2-py3-none-any.whl"
+      },
+      "0.3": {
+        "sha256": "c203a585d88a4d3ab6de7ca901a54503279fd1edff730bf7589edbe396d16dcc",
+        "url": "https://files.pythonhosted.org/packages/ad/2b/d26a1a55be43f61d54d0f9278d44bd3340d5c2dfdc0fe45699dd946979b4/uavcan_gui_tool-0.3-py3-none-any.whl"
+      },
+      "0.4": {
+        "sha256": "2664756f96dcd08546753264973b392bdbba7b89acd71223997886323dc833e3",
+        "url": "https://files.pythonhosted.org/packages/8b/23/1132dced0146c49c4c9c66d459a8654039d1e408330a944aa961ae2ae42f/uavcan_gui_tool-0.4-py3-none-any.whl"
+      },
+      "0.5": {
+        "sha256": "6c0e53ad7e94737154e92a4d1bfe0cb12f02418770add8fe1c35046245c5315b",
+        "url": "https://files.pythonhosted.org/packages/89/f7/7900941db667090bdf32485398cb1dbe02e4332f24a1517a275d431adb4e/uavcan_gui_tool-0.5-py3-none-any.whl"
+      }
+    }
+  ]
+}

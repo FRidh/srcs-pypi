@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.6.0"
+  ],
+  "meta": {
+    "description": "Wrapper around s3cmd for creating, deploying, updating and deleting websites hosted in s3",
+    "homepage": "http://github.com/theidledeveloper/s3_cmd_website",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "6d8af54823c292f3dfc0ff78c1dff5bb827c3fe33d12319cea6f9ffc7c62838f",
+        "url": "https://files.pythonhosted.org/packages/f9/45/bbfc8ef0cb9c93ecf20b18a2346cc0938cd8573e616e6463ca4335c0f7cd/s3_cmd_website-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "f0521ae50fdd80180d551e5f9d10b2f00fb488c2b3e1bdf980a9326760d7afc3",
+        "url": "https://files.pythonhosted.org/packages/38/ad/11635364699e4ec6a853cf9d5028a9583b80f3e70db93b34ffd5bc9ec0e3/s3_cmd_website-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "cae59f12fd5a92b08370b45251da56ceaaf15e65eb25635cc177548475bac6b7",
+        "url": "https://files.pythonhosted.org/packages/dc/69/bc3dd165b52c73ee440bc5beb936b073f46428cea9cdccd48eb52acf590a/s3_cmd_website-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "e882d897f3fa7b8a37434e6186f9f6fc1fc876462997fc1641bb85de2819ad81",
+        "url": "https://files.pythonhosted.org/packages/10/d0/838363ef1f64b7027dfe9dbe1f0522bc7ed9e9e59f08bbecc5506afa09bd/s3_cmd_website-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "068b1d8583e6eca964cb89d176f012cce81afd663a09b3ed2a594b0d4072c97d",
+        "url": "https://files.pythonhosted.org/packages/a5/7e/474db4ddc6ae333941142a5e7aafe7fc8b93db27ca106ffc0ed8e11d61ad/s3_cmd_website-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "de47d3074c42b4da45427245f0e06ebd9bc930719122396e07eadff150810898",
+        "url": "https://files.pythonhosted.org/packages/b5/96/17afd9db4b54beb69b0d15ef9fa8fdbd8f663b8d2d98b24b9dfeefabcb00/s3_cmd_website-0.6.0.tar.gz"
+      }
+    }
+  ]
+}

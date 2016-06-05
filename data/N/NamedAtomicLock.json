@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "Python module for an atomic named lock which is local to the machine",
+    "homepage": "https://github.com/kata198/NamedAtomicLock",
+    "license": "LGPLv3"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "756ae2813ee11366dcdbc9641cc70e5bbff75473115dffbf647f052b9251af9a",
+        "url": "https://files.pythonhosted.org/packages/a2/15/1b3e13a3bd0b166813448837f1cdec3001b3a04fc727a377599689b4d36d/NamedAtomicLock-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "f45f0adce42c61d1562f9a13fd17f7c22ff00d3d68a8da147fe6277eb4a03db2",
+        "url": "https://files.pythonhosted.org/packages/54/e7/00833eccea8b5a1363980e281fd4c73671cf417286cbf32403434afaf54b/NamedAtomicLock-1.1.0.tar.gz"
+      }
+    }
+  ]
+}

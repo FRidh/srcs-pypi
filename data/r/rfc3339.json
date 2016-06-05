@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "5"
+  ],
+  "meta": {
+    "description": "Format dates according to the RFC 3339",
+    "homepage": "http://pypi.python.org/pypi/rfc3339/",
+    "license": "ISCL"
+  },
+  "versions": [
+    {
+      "3": {
+        "sha256": "d677ec87fee3e6a45e560f580734a6265678726d2b80437a9a74fb44b1c12524",
+        "url": "https://files.pythonhosted.org/packages/0d/25/d98d1891f5f70c084d5a3283570c79cfe10949773139085072eb587dc19f/rfc3339-3.tar.gz"
+      },
+      "4": {
+        "sha256": "3dec3eac54332f8d1ad326806112c0d887ca4ec8fce8b6c86865a86776706a84",
+        "url": "https://files.pythonhosted.org/packages/9f/1c/861995e796ee7cd329dd758c57bc2018da537f2b9b375b29b02d5318364f/rfc3339-4.tar.gz"
+      },
+      "5": {
+        "sha256": "a57c4ca95e1faab2ed717daab7659f9bf3dda9ec80698b41f011211dad58fa21",
+        "url": "https://files.pythonhosted.org/packages/bd/23/2b8b5556037d9ab3c2b16b07835436adfc8e0c13b4fbf3fd43ebc05e1cf1/rfc3339-5.tar.gz"
+      }
+    }
+  ]
+}

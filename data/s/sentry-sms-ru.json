@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.0.3"
+  ],
+  "meta": {
+    "description": "A Sentry plugin that integrates with sms.ru",
+    "homepage": "https://bitbucket.org/silver_sky/sentry_sms_ru",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "44b035d84be9a938989961f7f79559d28c7a47cde52ed984a9c2648c8531d443",
+        "url": "https://files.pythonhosted.org/packages/d6/19/05df9c87ee5ff0e05ab32313d1f90d1c644a2c4d8beb7d03e34a9d8d8d8d/sentry-sms-ru-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "ec54f187bc3d83780e15d5b32ff8083a5a3b5f055aa2b8253fc1632e870169e4",
+        "url": "https://files.pythonhosted.org/packages/ad/41/499f647b4411aa3479097b48d8a77344036209c966d6ffa32b8b6a5903e6/sentry-sms-ru-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "a8b9fad82517bb9978c7e10f75dc48a43f7873865dec82647624ae5edf4d3c48",
+        "url": "https://files.pythonhosted.org/packages/ed/0a/8667400fdb1eccb6db0772c93674871d18a54598f824a3a1c24416d515f9/sentry-sms-ru-0.0.3.linux-i686.tar.gz"
+      }
+    }
+  ]
+}

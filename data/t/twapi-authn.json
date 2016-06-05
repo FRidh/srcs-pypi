@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0a2"
+  ],
+  "meta": {
+    "description": "API client for authentication-related endpoints of the 2degrees platform",
+    "homepage": "https://github.com/2degrees/twapi-authn/",
+    "license": "BSD (http://dev.2degreesnetwork.com/p/2degrees-license.html)"
+  },
+  "versions": [
+    {
+      "1.0a1": {
+        "sha256": "547c20e72c2e8b3257b23e2673894a18332bc01faf698568f5076a97853a5fff",
+        "url": "https://files.pythonhosted.org/packages/e4/5e/280c4bba13ed9df8649bd3a29d5f9d15c04ed11ca5c072cd0cb75794da2c/twapi-authn-1.0a1.tar.gz"
+      },
+      "1.0a2": {
+        "sha256": "7ebd7c6ce4bb1973b80157000b8bec0077032ea10e6769a956f995809dc74e20",
+        "url": "https://files.pythonhosted.org/packages/94/f0/414f4463b7fe9e20cb33ad4afecf3848687bedd17a42a3c723a028716662/twapi_authn-1.0a2.tar.gz"
+      }
+    }
+  ]
+}

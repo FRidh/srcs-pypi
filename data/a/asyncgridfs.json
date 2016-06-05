@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.1.dev"
+  ],
+  "meta": {
+    "description": "async mongodb gridfs with tornado IOLoop",
+    "homepage": "http://github.com/comger/asyncmongo",
+    "license": "https://github.com/comger/asyncgridfs/blob/master/LICENSE"
+  },
+  "versions": [
+    {
+      "0.1.dev": {
+        "sha256": "bf529d999bb4d8d8845be2c4cc651fb923b3846f998f5c38dd30467ffa363aa1",
+        "url": "https://files.pythonhosted.org/packages/34/a4/133c2b771a184cd7c1118634180d6a0e30e53b712edb01ac26ebb6a56989/asyncgridfs-0.1.dev.tar.gz"
+      },
+      "0.2.dev": {
+        "sha256": "1d199dacacf919f388df5bd3e7b73cb74fa5771beac8dbb5cf62ef931fd7451d",
+        "url": "https://files.pythonhosted.org/packages/60/a3/4ae88e4cf1d7a8618253b2bc67590b892fb9a958335fbc7a5bf7851504b1/asyncgridfs-0.2.dev.tar.gz"
+      }
+    }
+  ]
+}

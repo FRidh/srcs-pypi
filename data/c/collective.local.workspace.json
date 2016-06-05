@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0rc2"
+  ],
+  "meta": {
+    "description": "A dexterity container that provides all collective.local features",
+    "homepage": "https://github.com/tdesvenain/collective.local.workspace",
+    "license": "gpl"
+  },
+  "versions": [
+    {
+      "1.0rc1": {
+        "sha256": "7b3974b77d09c13303ef84d852912c27ab688aba0ca70873ef4422f7aa745fb4",
+        "url": "https://files.pythonhosted.org/packages/0c/4d/8f8bd39965035875f0775124586b2535f86f1c07db990c25ba594effe8af/collective.local.workspace-1.0rc1.zip"
+      },
+      "1.0rc2": {
+        "sha256": "236b61393923715c0d2f4830d89f98197285834b1ea70c38997fa228cfa6138b",
+        "url": "https://files.pythonhosted.org/packages/53/63/fe1ed485236840b20c952a2ff142ec0cef8d77746b9cd37626bd119ce49a/collective.local.workspace-1.0rc2.zip"
+      }
+    }
+  ]
+}

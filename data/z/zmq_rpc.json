@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "0mq RPC calls implemented with pyzmq",
+    "homepage": "http://odoo.consulting"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "42f131ebb009c2a8531b4b4cce7cd2f1a2447cd285d6ee5f36f3a0718e6597ad",
+        "url": "https://files.pythonhosted.org/packages/6f/fc/5c57e458c683c9a8f442f08935a5e8c8fb5a327ad8f306e90cd640693b74/zmq_rpc-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "6022d5b4fbeed42c9e1d92ebdba2497c333bdc7d212d7d0fd77cc80dc8e6c71f",
+        "url": "https://files.pythonhosted.org/packages/41/38/98d66ddec1be95a0ad069e52f3d9d72f6def9eb56ca935a1ae8cc3fd3732/zmq_rpc-0.2.tar.gz"
+      }
+    }
+  ]
+}

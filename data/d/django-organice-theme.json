@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "The mother theme of all themes for django-organice",
+    "homepage": "http://organice.io/themes/",
+    "license": "Apache 2.0"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "f508e0e53f9e4330415d917267112dd41a09080a3837c6646f41951535d887af",
+        "url": "https://files.pythonhosted.org/packages/b0/4b/671f0a12dc74ad09fe38f93fd58a431777296a239453402703c90835368b/django-organice-theme-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "90df8a5a2716e6fc1834c829859d7c8931776c2ba7f374c6de5e88fa4f03edd8",
+        "url": "https://files.pythonhosted.org/packages/5d/eb/c0958b88fc8929024d015751d175bbee08ffd50760edcd89f087583cc28c/django-organice-theme-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "db8149c57a09bb2b21252d07f58886b2ed3fac870978b3e5075eff99bb378b0b",
+        "url": "https://files.pythonhosted.org/packages/3b/da/0075bd2b266eee85b83f15d182985d8f7ce3409b5a5ac7e7d5b8993dd6f8/django-organice-theme-0.3.tar.gz"
+      },
+      "0.3.dev": {
+        "sha256": "84e439e651d83990be3e780d37c932cc7370e93bec1a9b025fa52f2df50f990f",
+        "url": "https://files.pythonhosted.org/packages/fd/7c/a2c51c0d78ec048e2811ac6dc23a0e19b416e384f6a5661df21b7b232653/django-organice-theme-0.3.dev.tar.gz"
+      }
+    }
+  ]
+}

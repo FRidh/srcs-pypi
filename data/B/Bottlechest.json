@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.7.1"
+  ],
+  "meta": {
+    "description": "Fast NumPy array functions written in Cython",
+    "homepage": "https://github.com/biolab/bottlechest",
+    "license": "Simplified BSD"
+  },
+  "versions": [
+    {
+      "0.7.0": {
+        "sha256": "300e77c89cce136fbd072f7d9e9d9f1463bef77a09fcf2fa503bbe404d67f20b",
+        "url": "https://files.pythonhosted.org/packages/58/7a/2db675f8caecc2fa5631fea095d39d1269e19c31fe16acd183f2c7adcc27/Bottlechest-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "7e9a4fd8ad0f28e599463e76805054cc41c79c19faae92c528227b88e97a012c",
+        "url": "https://files.pythonhosted.org/packages/30/fc/002a5764c44f394accef81d352d438d3610df965eaf716905efb432dba40/Bottlechest-0.7.1.tar.gz"
+      }
+    }
+  ]
+}

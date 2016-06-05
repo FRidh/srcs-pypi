@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4.0"
+  ],
+  "meta": {
+    "description": "a generic app to provide a way to handle database binary data in django",
+    "homepage": "https://bitbucket.org/slafs/django-binaryfield/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "a122566fd5e33e61c43e7ae7bf80b7608da9b8860a0f07ea3cf2e9a13735adeb",
+        "url": "https://files.pythonhosted.org/packages/20/59/360ec83f88409ae7730030596801cee8975e05a2751870f15199fb3ba245/django-binaryfield-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "a7733bdd6dd8f624b77b92175957ba3c735ad49fbd14369932f24f7214efda6b",
+        "url": "https://files.pythonhosted.org/packages/57/b7/d1f894a68ae53d4e661ea46a083ef8848d3fc62e5a0b5b92b2d5df1e4e79/django-binaryfield-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "e7121a2abde5071214097eaa2ad86115e466793e5dc9354623eaab80a4665d46",
+        "url": "https://files.pythonhosted.org/packages/94/bd/1b6201e8458c8666dfc2682a93923846ad35aac1dfffbb81cd037eec6147/django-binaryfield-0.3.2.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "43b77383f1e993e6120a9d532e957b5834970cfb04a5844e486b6c7caaba0de9",
+        "url": "https://files.pythonhosted.org/packages/e1/06/31cff6d31b7450dd58992866970db3daeabd5e815c3dc8dfa9a2d28797e7/django-binaryfield-0.4.0.tar.gz"
+      }
+    }
+  ]
+}

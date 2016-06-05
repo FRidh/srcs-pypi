@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "0.15.0"
+  ],
+  "meta": {
+    "description": "TLS (SSL) sockets, key generation, encryption, decryption, signing, verification and KDFs using the OS crypto libraries. Does not require a compiler, and relies on the OS for patching. Works on Windows, OS X and Linux/BSD",
+    "homepage": "https://github.com/wbond/oscrypto",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.11.1": {
+        "sha256": "00e7cb4ceb31e5dfc6f657698dfaa04ee2e08336eb9611b8e0f67dc26a59bab1",
+        "url": "https://files.pythonhosted.org/packages/99/56/c250a00365fb69bd46fb82d0986011498d56bc881eb443f9ff10a3a659ef/oscrypto-0.11.1.tar.gz"
+      },
+      "0.12.0": {
+        "sha256": "fdae11a79eb8ff91b1a8706e8bfad37011823daead50555ea5323279e406c025",
+        "url": "https://files.pythonhosted.org/packages/bb/e6/a69d6f6851150f631a697fb2cba093f09d2c687cd7e9f8b7b44eba3dc14d/oscrypto-0.12.0.tar.gz"
+      },
+      "0.13.0": {
+        "sha256": "f4c56c6952e12258f1d1d782e9dd2e12ff4a9f0b11578024eda8067d80af026f",
+        "url": "https://files.pythonhosted.org/packages/f6/f5/36537c09ce0be4f790efc6de0e186106b7f5f54411491f66642ad285834d/oscrypto-0.13.0.tar.gz"
+      },
+      "0.13.1": {
+        "sha256": "d4ed9dbeabf6cd8380c22b1fe7c542fae04be9d072f962cc6c7690893dcd5115",
+        "url": "https://files.pythonhosted.org/packages/b4/58/567f465f3a13e3c879b8690c2b6b47e8796e410d3c9b2a9d98d0d5f23146/oscrypto-0.13.1.tar.gz"
+      },
+      "0.14.0": {
+        "sha256": "a675c3078e2aa1de3d7cf0996c929d52dc722229d1209286b5750bcbc7f23ffe",
+        "url": "https://files.pythonhosted.org/packages/71/e8/bda7e8fe1eaeeaf3a7880f336659047c8d283497642b7ab6d3d7dac82c6a/oscrypto-0.14.0.tar.gz"
+      },
+      "0.14.1": {
+        "sha256": "67a67b10cb30f695e7d9976f8d98ffa5efb7751bc94bcfe2febefc45af2109cd",
+        "url": "https://files.pythonhosted.org/packages/cf/0c/518cdbfbe01c4cdc236991093903151476209709fcacffb1eedace17a15d/oscrypto-0.14.1.tar.gz"
+      },
+      "0.14.2": {
+        "sha256": "eddf42d383c552e58c1f7a0ee8e35b447bad57a61ed5607a8e20ce24b39ebf45",
+        "url": "https://files.pythonhosted.org/packages/94/93/c0a83bb67b715fa3c8c5c6ab73649fc5911a98a30c3fc13f74654c5c6bc3/oscrypto-0.14.2.tar.gz"
+      },
+      "0.15.0": {
+        "sha256": "2f36eb9cfe43ae9dd53161c8842747dff1eff7b0e2b83be22729e2a9609a0cf9",
+        "url": "https://files.pythonhosted.org/packages/56/db/d2d28fa68e8694600017fd47863c305de632c5802a14e8332839dc1a1ff2/oscrypto-0.15.0.tar.gz"
+      }
+    }
+  ]
+}

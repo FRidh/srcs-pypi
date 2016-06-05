@@ -1,0 +1,317 @@
+{
+  "latest_version": [
+    "1.36"
+  ],
+  "meta": {
+    "description": "Debian packaging tools",
+    "homepage": "https://deb-pkg-tools.readthedocs.org"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "6bf1e84408c7764a9dd1718c3ee864e3132e46710ba9994b9d4a6ab8d840add0",
+        "url": "https://files.pythonhosted.org/packages/1b/27/b2426bd691af6f79cf8271fd7b8c00d8f6b3e97b656bb1b29c7405f2c94f/deb-pkg-tools-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "d1a905f436de13765e62f1b9b1e8cb7c2f3d2a01a8189e90b4b7c14c9d9196e7",
+        "url": "https://files.pythonhosted.org/packages/ea/45/03ae1669f6e19f008e78e8f0595badd3231458c1064f9de29c59ade523d3/deb-pkg-tools-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "b2f5d4cc0cc9ae8f7c06bec2aede4f8643eb1809d4173dced491bdea5d9402ca",
+        "url": "https://files.pythonhosted.org/packages/c8/8d/e2ce3ddd70903f0cbb9dceb86262c1f4a4b5c02fe95ddcf270ff7e16ccec/deb-pkg-tools-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "0421da1dc32338f0120546a10c7da16fcaafd70e4b33c5d1110d9db3d7c37f46",
+        "url": "https://files.pythonhosted.org/packages/db/7f/24c15884f20f8024346c0eb25d893e9c6e1d11cb3edc557516189b3ec2bf/deb-pkg-tools-1.0.3.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "f4ad6e95d69e04919ba2771776d80d6d67ec3700874ba3eba23b6e3e0f56b4e5",
+        "url": "https://files.pythonhosted.org/packages/0e/0d/6b47664fbdb67a7737ac240f2ca8095865cade796a2fa6c571ec05080907/deb-pkg-tools-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "1ab26b078a4b97c88e9d10d0a04bcbbde3c7a3e14e479b7e12f16cc1fb53b24a",
+        "url": "https://files.pythonhosted.org/packages/f1/b9/d2f66c4f6e34304e179b7eff42da7730fd51194c194a21aab2ea53e41950/deb-pkg-tools-1.1.3.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "010d4f759b408e2e815ef711278d1df097002b8df6bcb19ce4761df22d5da342",
+        "url": "https://files.pythonhosted.org/packages/fa/ef/dbd688745705d79437670a7cc4a0723a470140fd6899deaa613404aae7e6/deb-pkg-tools-1.1.4.tar.gz"
+      },
+      "1.13": {
+        "sha256": "1e6c58eb4721a0813161df26b41c80c00a089739e2aff2657105ef1f4f415e3b",
+        "url": "https://files.pythonhosted.org/packages/c2/9d/8c803b709a674b6c64796de70684877a81e774a558b48d6dc36ff69f5d20/deb-pkg-tools-1.13.tar.gz"
+      },
+      "1.14.1": {
+        "sha256": "fe977d4e3766549b7fa14f9bede118b7faf3acb491538feb650b6c9f0455ec3d",
+        "url": "https://files.pythonhosted.org/packages/ce/7a/04916f1dc9b2b6d6c748dc500022ad02c9e749b3cdea35d77906ec4d6f7b/deb-pkg-tools-1.14.1.tar.gz"
+      },
+      "1.14.2": {
+        "sha256": "18dc0f9ad8bccc6141c63143e5cbb7f82273127c0735bf95c2f91521c9e80338",
+        "url": "https://files.pythonhosted.org/packages/31/79/3b101d5ff6fb1a746cb2ec01e979024e84f5b7dd98bf8100b2d4a6c26407/deb-pkg-tools-1.14.2.tar.gz"
+      },
+      "1.14.3": {
+        "sha256": "6c6a177c64245561eee52466fabaea3034dc2141e7b939f8760afdcba3faeded",
+        "url": "https://files.pythonhosted.org/packages/97/d2/cdcf64556cdc184d155cd377b53d638c8a9b6edf7ded42b72d827fc05176/deb-pkg-tools-1.14.3.tar.gz"
+      },
+      "1.14.4": {
+        "sha256": "aac5dd0e86fad90fb9cc2ad7712f8f6e28b3bf40556c5dc45274b8db08271f77",
+        "url": "https://files.pythonhosted.org/packages/23/66/805daac9e46ac148a22727536396bd45dde5eb14580e3dd1d237ab86fd4e/deb-pkg-tools-1.14.4.tar.gz"
+      },
+      "1.14.7": {
+        "sha256": "d84ad9b947c3a247027201a183acbb8848798d20e87359c11c2844d52567fa72",
+        "url": "https://files.pythonhosted.org/packages/87/f6/9f5b809c14329a30400b942259bcf128c842b1fcf4c21a04d47f138fa2e5/deb-pkg-tools-1.14.7.tar.gz"
+      },
+      "1.15": {
+        "sha256": "858993bb8865c72f45ea78f1fe2c638cf70ebdec4f6805ae20229a9115e12237",
+        "url": "https://files.pythonhosted.org/packages/ab/bb/0b218223072e8475559ce5665cb6783b67cb4c563ec55fdfbfa2bb3c527b/deb-pkg-tools-1.15.tar.gz"
+      },
+      "1.15.1": {
+        "sha256": "21ab348d9eba499240689c9e8471258ad1b41a391fa9fd34391684744470c842",
+        "url": "https://files.pythonhosted.org/packages/64/8d/f3485c17d060daaa75f5c0078a43cc88d332522c71d8608753c0757dc135/deb-pkg-tools-1.15.1.tar.gz"
+      },
+      "1.15.2": {
+        "sha256": "33885a38e579d169cc0afdb6f9de5677029db734cfb5324c7b5771518cc969bd",
+        "url": "https://files.pythonhosted.org/packages/fc/71/89b2942ff6ab9e4489a5c30e2b54e45c506c4e1fd2714c59046765fbe3be/deb-pkg-tools-1.15.2.tar.gz"
+      },
+      "1.17": {
+        "sha256": "9ea94a886a0410a50ec403d8b51eff11034d821ff99836680d5e7aa4e94ec9f9",
+        "url": "https://files.pythonhosted.org/packages/32/58/30976f42458b1aa1664efb75c1413ac6e32e7ee78be4b2b9ca6b4e820332/deb-pkg-tools-1.17.tar.gz"
+      },
+      "1.17.1": {
+        "sha256": "ed2e0fefd6da3d29337198feea02059a0a576da207ec6f23c17ed2144dde2726",
+        "url": "https://files.pythonhosted.org/packages/fa/79/ff343eccc4cba65565a9dc49d30ca2525db799cac8dfe1017fb8de5d0075/deb-pkg-tools-1.17.1.tar.gz"
+      },
+      "1.17.2": {
+        "sha256": "711e64a88c821087b27edc545b674ef80d4678793ec5a121658e68c0ffd18ab3",
+        "url": "https://files.pythonhosted.org/packages/2f/5a/480b1332bf8b32d69ebc990143eed5e898852bca9007c11c9c86f4830c39/deb-pkg-tools-1.17.2.tar.gz"
+      },
+      "1.17.3": {
+        "sha256": "b46ea65838fd09715f718ff5edd62839a0282c59d8fa8434c670249d30aa5127",
+        "url": "https://files.pythonhosted.org/packages/a4/94/d5bbd3aeb127284c43c1c08e7ccf6916a9121b9d46f1ca93bf08cfb96168/deb-pkg-tools-1.17.3.tar.gz"
+      },
+      "1.17.4": {
+        "sha256": "396be6803119d7658bb22e1bc61dea8348ce896a1ce78128e628404e8f8e32de",
+        "url": "https://files.pythonhosted.org/packages/a3/1a/3e19f75703edfbffb120706d834ffdb3e3f6263632691435f6904be95e92/deb-pkg-tools-1.17.4.tar.gz"
+      },
+      "1.17.6": {
+        "sha256": "dcadff0e41c82a6a35ff91a902d203f45cd977c0af6f6054a53dc7fe7697d5f9",
+        "url": "https://files.pythonhosted.org/packages/b2/da/9670f5547457309e0b4ac3ae6d1858b0e83618666b9f3b228f9361dc5529/deb-pkg-tools-1.17.6.tar.gz"
+      },
+      "1.17.7": {
+        "sha256": "059e0d88f238c185d027e160f03275e639db9c98ea65b834b73c776719064aff",
+        "url": "https://files.pythonhosted.org/packages/32/78/2fe6acdee03cc92bcfddcba51186e532bec81b0cfd55b814260bdd9eed9d/deb-pkg-tools-1.17.7.tar.gz"
+      },
+      "1.18": {
+        "sha256": "12761f6ee240c517b33fd534e00b28aef92319f27ce4f72f6ebc31583177ecc0",
+        "url": "https://files.pythonhosted.org/packages/e5/c2/c51b40d5e3dd6a984a53f5c42d6eee4cede9029867fd5e709c9c95e5b822/deb-pkg-tools-1.18.tar.gz"
+      },
+      "1.18.1": {
+        "sha256": "f3808291f28d2860eebea78e67cf4738b99af920bb321f5be36399308d850c55",
+        "url": "https://files.pythonhosted.org/packages/16/55/bcf05599cade28536f3a2ca2bdcdbf14217c762ade1871d2e7ef787e08ce/deb-pkg-tools-1.18.1.tar.gz"
+      },
+      "1.18.2": {
+        "sha256": "e9a50add94f5fa82d501cd28d98a77bc28e191b91f39e067b7d8e6c6f5079c1d",
+        "url": "https://files.pythonhosted.org/packages/e5/24/af1cec3a432acc956f6fdebb701e3cd83bf71a87d7d3f6998f51fed91183/deb-pkg-tools-1.18.2.tar.gz"
+      },
+      "1.18.4": {
+        "sha256": "94ba1bf08efd9065239fad54db6b03cf5dfe597dda74d00edfc9ee2a198be7a7",
+        "url": "https://files.pythonhosted.org/packages/c7/85/798b5020ee2233da750d02378ba0d57e0de88f84ec603a795d6f615625de/deb-pkg-tools-1.18.4.tar.gz"
+      },
+      "1.18.5": {
+        "sha256": "eb028e3083205299571d98c329c80f5e821610ade6f9b3e2e706b3c2543dafe5",
+        "url": "https://files.pythonhosted.org/packages/fd/df/bcd3169932a89cef1639826d944f584f810110eef62645cb1f2073ace9a6/deb-pkg-tools-1.18.5.tar.gz"
+      },
+      "1.2": {
+        "sha256": "075164bce20123944a6bc6185d81c023a7c6d68c20ba4acc583273b80d09ef06",
+        "url": "https://files.pythonhosted.org/packages/6a/5f/e04193b04085c419fe0f2853a9c641543dff45267150a103f8ca274d675f/deb-pkg-tools-1.2.tar.gz"
+      },
+      "1.20": {
+        "sha256": "eb53d6335572a87f0815f1282c5513e4ca21e60f141fa7cb0659eb6821184288",
+        "url": "https://files.pythonhosted.org/packages/7e/af/96b1a0ee9c4191199cd7686da266da80084b241084b6be2551792ad2a6ed/deb-pkg-tools-1.20.tar.gz"
+      },
+      "1.20.1": {
+        "sha256": "171647b14ec627e9e02f5dc3ce1264ad14fee91882e208e4967f7e15ffaab715",
+        "url": "https://files.pythonhosted.org/packages/7b/51/acd4802c8e9327968509fc6ecd402bb7df636a1da415613db6551e66e5d5/deb-pkg-tools-1.20.1.tar.gz"
+      },
+      "1.20.2": {
+        "sha256": "7b6cd5ba8d4679243862a61e34998401b52c103cbb61c633dfa3c1195cd5781f",
+        "url": "https://files.pythonhosted.org/packages/c2/ff/539bb0399e69e68ea77d91a3f1d7d8121804c90e609660c684fd2310964c/deb-pkg-tools-1.20.2.tar.gz"
+      },
+      "1.20.3": {
+        "sha256": "b2f8c68637a2dc293be6187eb970f2ddb4a1f3dc73a3d8f1184e8bca717f6ed1",
+        "url": "https://files.pythonhosted.org/packages/a8/2d/b6855829a7786bf3f318322ca7ad31c20e5d3ec999ec74252c589fb0aa1f/deb-pkg-tools-1.20.3.tar.gz"
+      },
+      "1.20.4": {
+        "sha256": "bbcbae907e85cd58b013e1759eb57ae9b75192a2ce3c330de018b9b521cb2ff1",
+        "url": "https://files.pythonhosted.org/packages/ae/b1/9de9df0770a430cb31fca1c753f285d76df87b7b5b8fc3ee6b3e1daec119/deb-pkg-tools-1.20.4.tar.gz"
+      },
+      "1.20.6": {
+        "sha256": "c9d1daa8a40ef7163260be28cb5497a71036c0dddd01c9228d8a68d00ca07553",
+        "url": "https://files.pythonhosted.org/packages/f6/97/d53828801885ea5f8e5e013cfb69f9b7b80ec4e5b8be56cc7fa3012973dc/deb-pkg-tools-1.20.6.tar.gz"
+      },
+      "1.20.7": {
+        "sha256": "11543f3ab9efba456feb09d0080b5253f09ee6a96261b67af169f41202ff65b2",
+        "url": "https://files.pythonhosted.org/packages/b7/0e/608574ff3d100be642f423120ba9f6692b8d4c54467bdc83a78f702a3486/deb-pkg-tools-1.20.7.tar.gz"
+      },
+      "1.20.8": {
+        "sha256": "17930f1551ee5c8b6f0151e52e52eb711541a0c90844e2160e6fadf890c4dbaf",
+        "url": "https://files.pythonhosted.org/packages/71/c4/39dca501004cdbbda50e21e0b3cca09930f31c0860265b72d29b9bcf2ae4/deb-pkg-tools-1.20.8.tar.gz"
+      },
+      "1.22": {
+        "sha256": "0b93c4d141073a31fb36fac11ee99de80a38b04dd64130cdee866249d9c372b2",
+        "url": "https://files.pythonhosted.org/packages/09/fa/89229cd31abb16aa4b1abf9bccaae3fdab356806b2321ff43f7fa548a261/deb-pkg-tools-1.22.tar.gz"
+      },
+      "1.22.1": {
+        "sha256": "7ba54aae948fc90f298851c33e5d31a193f0fef10a540da999fd570a5e38117a",
+        "url": "https://files.pythonhosted.org/packages/cb/5d/150519301225ce10b9bdc0ac6504a053b9a1f3b45248266255d43aade99a/deb-pkg-tools-1.22.1.tar.gz"
+      },
+      "1.22.2": {
+        "sha256": "c42350b672d00b5ff8584a0269f99250477deba2fa21fe62c41f63d704f142ee",
+        "url": "https://files.pythonhosted.org/packages/e4/94/ded4c53fe8966c7b2b26c9b85cc12ad3267d00acaa930a92ef3c6f34f8fd/deb-pkg-tools-1.22.2.tar.gz"
+      },
+      "1.22.3": {
+        "sha256": "2942424080c1a8d977c79bf09323dd1aafcf870e356e68a7160b9e788fff3622",
+        "url": "https://files.pythonhosted.org/packages/43/87/0227924f12366e92d108041114ce2da3719bcf8833dd53f482a2f531cf80/deb-pkg-tools-1.22.3.tar.gz"
+      },
+      "1.22.4": {
+        "sha256": "523d88c19c530dc8009ae5a1e05d73a4ae75363556c266b7524cb4c34edf1b43",
+        "url": "https://files.pythonhosted.org/packages/57/5c/4a12de0975bbf88ec0b5b30e409455b5d56155c50d6af6187f45a0d71d29/deb-pkg-tools-1.22.4.tar.gz"
+      },
+      "1.22.5": {
+        "sha256": "95eceffc1a4d41a0a4f1d8f2f11d19931bad474535cd123d356fde074fae2e2d",
+        "url": "https://files.pythonhosted.org/packages/04/ed/99e0733cd36e7023937ae9f0a2de7db9bbb524450af3d4d114defbda1697/deb-pkg-tools-1.22.5.tar.gz"
+      },
+      "1.22.6": {
+        "sha256": "d163635fa6eaf6f737a8fcdbdd66697d0cfd28f86d99c7caff191d907da0dcb9",
+        "url": "https://files.pythonhosted.org/packages/13/45/abae7d7bf99cb0b0ab452aaaaa21da65f21cc08867f0951b59d62c8dcea6/deb-pkg-tools-1.22.6.tar.gz"
+      },
+      "1.23": {
+        "sha256": "30b2953c8e9ddf406cacc99bd3321a8518dc25d095f6b545376b734ad6767c1a",
+        "url": "https://files.pythonhosted.org/packages/94/73/df14cc697f8d6723cdc5652e0f22b976a30e56eefcbaaa4d6e5e359a78ed/deb-pkg-tools-1.23.tar.gz"
+      },
+      "1.23.1": {
+        "sha256": "938a190a5e7466fee5ff4cf686a6ed158e32e25011bf95b37a85994bfe0d8cf3",
+        "url": "https://files.pythonhosted.org/packages/46/36/97be53e64bef397ea1d808cd5fb6f06f706da1fd8f8899cbc4bab4b55fc4/deb-pkg-tools-1.23.1.tar.gz"
+      },
+      "1.23.2": {
+        "sha256": "2412aa30c76158a877d5436d8bf0fbd060a1cefa210ec4d07476d0dd2cf8cdeb",
+        "url": "https://files.pythonhosted.org/packages/7d/54/1c20f0701afea51d0f51cc15fe227837f0014bb88ef83f7c6d27c1cda759/deb-pkg-tools-1.23.2.tar.gz"
+      },
+      "1.23.3": {
+        "sha256": "dbfb517cd8c0f7619497e989362cdcfd1b14f852c3656d8c9a338d16d2a58c4d",
+        "url": "https://files.pythonhosted.org/packages/f4/49/62fa1d96ad5f84aa78b8fb3b32be79197ea1c3091807d34713d39ab28151/deb-pkg-tools-1.23.3.tar.gz"
+      },
+      "1.23.4": {
+        "sha256": "744a3312628a3f71576991011c614c64fcf35f88988919970f07f94df6fb9628",
+        "url": "https://files.pythonhosted.org/packages/c9/3e/2db158f7c60153c3e0210249a4908c0dce22ff814a664eb66b7ef75dabde/deb-pkg-tools-1.23.4.tar.gz"
+      },
+      "1.24": {
+        "sha256": "656230656bd6a8c7fa950683bd212d60115b37b20b8314a94c23efe5b3195303",
+        "url": "https://files.pythonhosted.org/packages/19/5f/19e4dfb0a520e749530f93edd284c70a422df57e4c1bfeb5efa32617534b/deb-pkg-tools-1.24.tar.gz"
+      },
+      "1.24.1": {
+        "sha256": "5b7befbc7885d59b359ed34424180aedfcac363685f47876792f3fab2a09b534",
+        "url": "https://files.pythonhosted.org/packages/17/d6/b7e16f59452bc84e36e437655819937d7fa43e6793f3636a64179fabef37/deb-pkg-tools-1.24.1.tar.gz"
+      },
+      "1.26": {
+        "sha256": "908176df268990125d1827a0e097a8d2fca4361e16a6a30c33ae636c37167222",
+        "url": "https://files.pythonhosted.org/packages/f2/cc/4315e116db6d21abd2ded221b55edacd38443ea1b3bf465028a9a603fde0/deb-pkg-tools-1.26.tar.gz"
+      },
+      "1.26.2": {
+        "sha256": "332f7a8cf40b5cccc97ff3aaf8904747fcb0803c8e12b91dbbb3cbd80c3ebceb",
+        "url": "https://files.pythonhosted.org/packages/eb/94/181b3d3d6e22b18faedae9e06550e9f7b7b60f121ba63def2ccf6b8efeed/deb-pkg-tools-1.26.2.tar.gz"
+      },
+      "1.26.4": {
+        "sha256": "490909d32bf38d95bbcee7400529f2014194c573eff23ab14c8c0321c2a19e3d",
+        "url": "https://files.pythonhosted.org/packages/3a/f6/53b8b9953983291f07441cb5985b38927d57ed721ad742d8977f773c5c8b/deb-pkg-tools-1.26.4.tar.gz"
+      },
+      "1.27": {
+        "sha256": "7898824ad01394bd0ddc742a031020f5ef73025cd37c8b666cae1de74cb83d6e",
+        "url": "https://files.pythonhosted.org/packages/db/5d/18e6cbca07567344d600ab77bc535918810e67f465840db642365ad0e7a5/deb-pkg-tools-1.27.tar.gz"
+      },
+      "1.27.1": {
+        "sha256": "b1673207afd8cb9922784915b4b500c008291311e42c0d5c483d8d3df6a0ab71",
+        "url": "https://files.pythonhosted.org/packages/45/26/badebd03fb63db0ed84f4c5680fa9a692c1dee01041a289425e8d1cd5134/deb-pkg-tools-1.27.1.tar.gz"
+      },
+      "1.27.2": {
+        "sha256": "a2661360509a8b233bc96e457390cae1783d7933edf3db6420b2361e8b776cc6",
+        "url": "https://files.pythonhosted.org/packages/a5/dc/d599387a95dfca694a00fbf0e9c24c2c3764deeb876ed08d71fa63ec0f79/deb-pkg-tools-1.27.2.tar.gz"
+      },
+      "1.27.3": {
+        "sha256": "2bbb7bb25256d4004e1e3af58e3cd8b384e163da8f936eeb0491ab0b2d851565",
+        "url": "https://files.pythonhosted.org/packages/57/d6/f9861a9225aac7ad824d5b90c2bbad2202ddd718ff2b4a0aeaac9944b9ee/deb-pkg-tools-1.27.3.tar.gz"
+      },
+      "1.28": {
+        "sha256": "1eb76c8db671dc14a70b7448ce8b33cf2f9c41f81e259e090fe4f520b448d623",
+        "url": "https://files.pythonhosted.org/packages/b3/da/91c5abaf537bf071233805aa46bf2bf3c377c13002cc2cd0155100fb5e97/deb-pkg-tools-1.28.tar.gz"
+      },
+      "1.29": {
+        "sha256": "d23197f9fb4cb6c27c05352e5aa3f2be1842695dd26f26e0774beaf9d51a42c0",
+        "url": "https://files.pythonhosted.org/packages/24/ed/84a3da8d6249f394f71974d48f10dcd4c564916a31c40dcc753ee7d690c0/deb-pkg-tools-1.29.tar.gz"
+      },
+      "1.29.2": {
+        "sha256": "9e195af345e32d536c979812c8d3747f79a7348bbc8e615bc3e00bcd9e6f70b8",
+        "url": "https://files.pythonhosted.org/packages/27/4f/10a1fd1ebd9c4aa04c293cb5a04bdf6e581e45dfdb25dcf1b90628e7a514/deb-pkg-tools-1.29.2.tar.gz"
+      },
+      "1.29.3": {
+        "sha256": "cade40f2603a4d0aaa144a52ebd366817941ac703b872be3d35dc3546035c175",
+        "url": "https://files.pythonhosted.org/packages/cf/2f/c211e6185aae52d7a9920a30c4da8740a4ec331b37ffbb3454b2d5d57590/deb-pkg-tools-1.29.3.tar.gz"
+      },
+      "1.29.4": {
+        "sha256": "e3d64fc8addd6d8e8dbd64f3ba3e89a04c5af2e4b6fdd9618f26c4f22657088a",
+        "url": "https://files.pythonhosted.org/packages/4c/72/17105f54a678dd03a4647ae7b5bda98149e200b3bdc9a3dcbf31dc42089a/deb-pkg-tools-1.29.4.tar.gz"
+      },
+      "1.3": {
+        "sha256": "b6b48051b7783e9421bc01b1664f6a862b65165304216222a48a747ec233c55c",
+        "url": "https://files.pythonhosted.org/packages/20/e1/ca1e296072cf5ee0421477ed6eadbaaf4ab6b6ef95d785e89476c57cd16c/deb-pkg-tools-1.3.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "e83b6940a9025d98c9d50e620afcf087a4e3ece14b113c622f0ff16e3401414b",
+        "url": "https://files.pythonhosted.org/packages/53/00/e3bfcf81e2a955704a0cff52d32772c3c85266efc269bd5069c3d865f13a/deb-pkg-tools-1.3.1.tar.gz"
+      },
+      "1.30": {
+        "sha256": "b924fb26e163e9293609fb0bd4d77dee40e5739978081ee46645efee5c6bdc57",
+        "url": "https://files.pythonhosted.org/packages/98/e7/288a5905cb6d8b935d83802615d60bad095f8369486170cd7b50eedc5e94/deb-pkg-tools-1.30.tar.gz"
+      },
+      "1.31": {
+        "sha256": "160afcecf5fdee039e84830e8802048fe82cf68ae6db732e3837e3e208c5a7e4",
+        "url": "https://files.pythonhosted.org/packages/bd/d4/30f0ec905757958667e5a01d0baf50401b8df9e33d00bf5673d87dde42ab/deb-pkg-tools-1.31.tar.gz"
+      },
+      "1.32": {
+        "sha256": "52df6cde2345356f6c58d72f074ab342fe3728ef70bef172c39c70131a95aabb",
+        "url": "https://files.pythonhosted.org/packages/a6/6e/5e7ef0e2df16079a023502f6d2ab8de7cf073142c2c22042bbc676fc6dc0/deb-pkg-tools-1.32.tar.gz"
+      },
+      "1.32.2": {
+        "sha256": "a5fbb7658f1a9880f2bee1066bf0a382e5a069c77aeff5740fe11f287acbc38a",
+        "url": "https://files.pythonhosted.org/packages/39/98/785ddf667b38da588d1ab0a252b166c8ab2a69f91fe80bc291f1f8119d22/deb-pkg-tools-1.32.2.tar.gz"
+      },
+      "1.33": {
+        "sha256": "1446cc6627e5d035d67a62365326585f33d9baf6a0df1b6ef5064fb22d1a8fde",
+        "url": "https://files.pythonhosted.org/packages/9d/91/0f68c3a3f659edf1d387a0c587e8f765482d65dec88596d3dded6a703792/deb-pkg-tools-1.33.tar.gz"
+      },
+      "1.34": {
+        "sha256": "da0d81ae5b972c32f47604dce9fb9ecb1e19114bfb2b6d32f6c131165eaa45fb",
+        "url": "https://files.pythonhosted.org/packages/2c/85/3b2a20e166bb84bf3942962e21071ec6a276534188001c1430be90dbaeb8/deb-pkg-tools-1.34.tar.gz"
+      },
+      "1.34.1": {
+        "sha256": "06a70c6fe5e4b6c5488fed7d36e6e80e9d2a0df41b5620eff34b593b751c72c8",
+        "url": "https://files.pythonhosted.org/packages/9c/c6/f62e987afdc1ec6b5b396bb3293f13b0ce514b906d800fac91c16c223873/deb-pkg-tools-1.34.1.tar.gz"
+      },
+      "1.35": {
+        "sha256": "7f8a2326808a769789193668b83e653b77019d45398c08aa15b7fc33b4f2ac8d",
+        "url": "https://files.pythonhosted.org/packages/0c/6f/307a10219115bdf1d31ca537bdc0bceaca2316e084f8ddfd5775e7eacec8/deb-pkg-tools-1.35.tar.gz"
+      },
+      "1.36": {
+        "sha256": "cb8f9797365639e1250a50af66232da41f18b9f689c1f302cdb856a11a9e867c",
+        "url": "https://files.pythonhosted.org/packages/17/a7/1119a5cec46bef557f69069344036a99cbfd306c7d5b646bdea43710974a/deb-pkg-tools-1.36.tar.gz"
+      },
+      "1.4": {
+        "sha256": "a0bfbae3458983b042f7488da6eb94f234ca0fc081add1c5f0c3ceb09decae2d",
+        "url": "https://files.pythonhosted.org/packages/d8/86/1f981dc986033457231d4d844c1155ef62875fa38c9c4a93e04b71864a5d/deb-pkg-tools-1.4.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "5b924729b8923c41adfa1bad254dc84491514661badd7ad8884d85398f48260a",
+        "url": "https://files.pythonhosted.org/packages/8c/8e/bd27b5dd556cf72c8351f30774b6012d8597dc784e9eca4c878f0e783468/deb-pkg-tools-1.4.1.tar.gz"
+      }
+    }
+  ]
+}

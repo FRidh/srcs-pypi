@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.9.0"
+  ],
+  "meta": {
+    "description": "Generate and run Packer build configurations from a simple YAML definition",
+    "homepage": "https://github.com/wamonite/packermate",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.7.0": {
+        "sha256": "bbf1785926dab131f26c39944270405eec002b26078ca417c758c0cf5ebbfa41",
+        "url": "https://files.pythonhosted.org/packages/d2/66/99d2da9d027a4aa3e8d7f53ee4735ee9d3a233f60b8fe63fdd59de75e6e5/packermate-0.7.0.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "630856a25ed657dfe9d659a4bd68735c5bd1c5f58febd263a5917327de26767a",
+        "url": "https://files.pythonhosted.org/packages/65/5b/fd94be800207988cdafb2a5119f9008b4c12d02a7f69eecd7fc3692aad0c/packermate-0.8.0.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "9a55bc0455feb57c2c6ca15999948a00d206c9eef71923d9842da7f636f72b6e",
+        "url": "https://files.pythonhosted.org/packages/a6/6d/3315c3e28dbd7742f0140c4e08e764fcb3351d6639aa4162dc968773d363/packermate-0.9.0.tar.gz"
+      }
+    }
+  ]
+}

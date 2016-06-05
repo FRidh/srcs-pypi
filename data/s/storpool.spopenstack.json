@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "2.1.1"
+  ],
+  "meta": {
+    "description": "OpenStack helpers for the StorPool API",
+    "homepage": "http://www.storpool.com/",
+    "license": "Apache 2.0 License"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "45fa41b8fd12c773810e516964451e4b9671a1081ba0948711e42780631c6abd",
+        "url": "https://files.pythonhosted.org/packages/10/0d/bea3de023ca479b2c590907e9baa40940b1ea79993b60b3a68ccbaf2773e/storpool.spopenstack-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "2da852844fbeceb3257f150dcd87e900aea5960561eed1ee0e0ce7a355faed58",
+        "url": "https://files.pythonhosted.org/packages/0b/b4/e7a72139b5612517aee131f2b8ad4082b670be4de223d86ce4a63ad55fb0/storpool.spopenstack-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "fa9a57fc6900ff513cdc44a2b5dc94c81e6db4f18a1f622cc3daa2e16fc7015f",
+        "url": "https://files.pythonhosted.org/packages/53/00/a253be8c293f33df47d052918c739319681cef09046e57bd429c1681ad08/storpool.spopenstack-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "9ce670c9a1c92b5dd345f6a66819052e37613218f6a74e60f9fb9277650364ff",
+        "url": "https://files.pythonhosted.org/packages/67/b1/6d88ac39f114a46f545f6f5564b83291549ba7a1d696873d6e452bc0bdfd/storpool.spopenstack-1.0.3.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "c92c99e58be12e8bd186174e0fecc7aa9bd57aec9c78715e914a8e501ed8676a",
+        "url": "https://files.pythonhosted.org/packages/96/e0/a81a27db7a03a3a7340517b99bbec710b979f8a680a4242a5ac330384556/storpool.spopenstack-2.0.0.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "906a5c6d811330b802677e765b43beb5057f0e990762400477663b69a4b121d7",
+        "url": "https://files.pythonhosted.org/packages/fd/54/bb1961575b7d0db830cc2e50193ff68869e4e5da2458f273db350a6e708a/storpool.spopenstack-2.1.0.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "f9b575d21dc3ba9acb977e100d87fb7166941a6fa1d04281b67a50ddbd0fa170",
+        "url": "https://files.pythonhosted.org/packages/91/41/e135e313ddb284f2b121e6168d59a482b930d6e705581188e159fcf84d13/storpool.spopenstack-2.1.1.tar.gz"
+      }
+    }
+  ]
+}

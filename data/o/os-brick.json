@@ -1,0 +1,74 @@
+{
+  "latest_version": [
+    "1.3.0"
+  ],
+  "meta": {
+    "description": "OpenStack Cinder brick library for managing local volume attaches",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "8b5d9f0a14223bf8bee604de0b2c385355474cbc63ca869a9b4f21ea90aa9e48",
+        "url": "https://files.pythonhosted.org/packages/e8/79/6e738a5ea0af6e6b5e9db6e63072cdccda74fc7efb40f3a6ebec75723d2a/os-brick-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "9be214a19203e4c291827ff9e0c63a0284c18c35a9ef420e71160f588b4da0c0",
+        "url": "https://files.pythonhosted.org/packages/b2/68/7f86fdfdb38d52865fe54c73ca7ef62e4acc0bb31cc69c2210c86b72cfc5/os-brick-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "9a61f2a7527c4e35242af399839c6381ad84e69928fa6de9226f7e0d1e8fdf76",
+        "url": "https://files.pythonhosted.org/packages/a6/0f/99269c52b1eae1c2106d64d2c9023879431a0ba61fa69c2a978370786835/os-brick-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "be1d427f82726b939529267160a5bdcb47d5fd5417cd932716f3b1d03f8a4700",
+        "url": "https://files.pythonhosted.org/packages/9d/c9/650b42ae6b180013c6fbcb98b1d741b601bab58aa7a683e413816c2cf0e1/os-brick-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "e1f040371dda11c474bb05b8808e2e77a770943e2e92da8d51cbdbc98bc374f9",
+        "url": "https://files.pythonhosted.org/packages/f0/9d/0446f3731b7d0e54d8ee246664ab5dd3e23cfc00cfb866fff5490cd5af1f/os-brick-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "7b5ecabef1d931b86aa0f732ace5cd8d455027fc9f27ef0c00bdca5da682184d",
+        "url": "https://files.pythonhosted.org/packages/d9/93/5930dd8f751a11c582a4acb408d6b96489b45f0ece706a3b6c9e919f7281/os-brick-0.3.2.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "666e4d0dfbc1a1ee67118ddc7f9c64d90d270be8c2638a90607c21fa91efc01b",
+        "url": "https://files.pythonhosted.org/packages/bf/e8/2802b4c03723c03e76864f248342645d8e0a3b652a9d33a82013b03dd026/os-brick-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "a63e761c74ecd0214ea5dad67cefb1e9b67bac74706ccd3338443505cbf405e0",
+        "url": "https://files.pythonhosted.org/packages/82/15/2c250c478feba6d02b4ba38b382b0492a619b2fd5eb14518e4942738d91f/os-brick-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "066bd1af85f59a90186f4f4de2ea3ca81ca37d1b27fd036a4788f623e7fdc4c7",
+        "url": "https://files.pythonhosted.org/packages/ba/e1/7c111057b15b4054cf6ab7edb2de68efca3fcc56345f36401ab72a15aefa/os-brick-0.6.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "8fb6afdc4beb65444fddaefe647db36d8ca090392f03442c1296f4440c260188",
+        "url": "https://files.pythonhosted.org/packages/12/95/987c30e688a0176352ab435743cda7cd2a9c37ed91b59321d7fed7ff1f8e/os-brick-0.7.0.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "a17c1d8ae5d0339aecb4478da26dfd4a6ab18eae9d8ec61284a2a28b924f87c4",
+        "url": "https://files.pythonhosted.org/packages/24/c6/1f4a0e007d1bf370dc257cc80e29fd5d8301380f088abd66f19ce1821c6f/os-brick-0.8.0.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "23f6e6ca8e83f4c4a620aba0976053f7a608eccc75a2dd5b0bc91b012d4de609",
+        "url": "https://files.pythonhosted.org/packages/e4/fa/2d1854654cd5bf91e2183327b8a48ad7f894f57627a2f9005afd5004d1ef/os-brick-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "a4ef50e7977f778994ab0914fbb68c5e04f730d3d429495337e980bfc962f512",
+        "url": "https://files.pythonhosted.org/packages/ac/cd/3c65326fc2e7b29a2f1cec878127609239cb0c0891e40e7fe68addf7ff36/os-brick-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "e8c5931d2a5115a7c484276add6be6b5e3ba13402c8a71e32b2313448010be30",
+        "url": "https://files.pythonhosted.org/packages/a5/10/4074cc5cb37c20d99c122c8ee30113db53bc9650676a49d5e8b90b3f3c00/os-brick-1.2.0.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "fb990765f88e5cd48a3a8a8f12952c263c903d7ac4283979b940d660419d32cf",
+        "url": "https://files.pythonhosted.org/packages/8e/53/c1aeb639699d6d3b6f033330de8c5585f9fb0fbe0c8c216cd6a5cb9df1d9/os-brick-1.3.0.tar.gz"
+      }
+    }
+  ]
+}

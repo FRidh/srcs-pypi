@@ -1,0 +1,402 @@
+{
+  "latest_version": [
+    "15.1.0"
+  ],
+  "meta": {
+    "description": "Cloud deployment toolbox",
+    "homepage": "https://github.com/yandex-sysmon/dominator",
+    "license": "LGPLv3"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "b1d82b9f971209d5fcb87538af3a95b3211e486cbee76b28d9cd60ae3cacd6a7",
+        "url": "https://files.pythonhosted.org/packages/66/ad/166c9fab6d9179d648558616f746f902f4fd4b41da1f345635cb721986a0/dominator-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "fe330181a83e62501d1e869e1f69330cd8d4f94735e1d55cea4bf568e81df227",
+        "url": "https://files.pythonhosted.org/packages/58/21/8d2d357e23c31157bd2d0a09551c46e6601a055e77c327240559791574f1/dominator-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "b79330903cc82618ebe1dfd373a3a961ef6b314bd97a5b26aced08cacabed1fe",
+        "url": "https://files.pythonhosted.org/packages/eb/c7/1d56936d5735d83ec885c27c8791f73a552a2b9b9afac55d787cad8dfbb0/dominator-0.4.tar.gz"
+      },
+      "1.0": {
+        "sha256": "46231c7678a5b73e9a12b9b4ba95c6d37a95714499d5877c4b4d53b4198c68df",
+        "url": "https://files.pythonhosted.org/packages/cc/36/fa32396554f85028be4e1d49e18049584ab5f58a5dcc9be6260a0ae4b4c9/dominator-1.0.tar.gz"
+      },
+      "10.0.1-alpha-1c2ba47": {
+        "sha256": "fb144a61935662dd1000fd423838e0d14e19d0a3cf6b18bfc31b7eb28b5d7e0f",
+        "url": "https://files.pythonhosted.org/packages/28/c4/138abcd67ee36f7b2e3d20bb5c5cfc7d7c8405f8f729011ab88f0f4a8b32/dominator-10.0.1-alpha-1c2ba47.tar.gz"
+      },
+      "10.0.1-alpha-7acd0bc": {
+        "sha256": "c9a6aa3617354305ab394ea734719c8549ba87020445149fd3f80f5946938ca1",
+        "url": "https://files.pythonhosted.org/packages/d2/d1/b2623a915df3270f8f70a34e9febabbdde323cbd6fa6e1e65744191fd84a/dominator-10.0.1-alpha-7acd0bc.tar.gz"
+      },
+      "10.0.1-alpha-7bfef2e": {
+        "sha256": "68254a08930408f43cd3395e02ecc7068ae8ef32ea454c7e8bc8ea7fd69bd189",
+        "url": "https://files.pythonhosted.org/packages/aa/f6/aa96bd652ed052de7f0231ebf32b0fe3df5a448c21b149d1c82aece695a6/dominator-10.0.1-alpha-7bfef2e.tar.gz"
+      },
+      "11.0.1-alpha-15c0dac": {
+        "sha256": "377d1f64a3ca872bebcf2cc67eea009c4fab560c611991169517c84e770d5309",
+        "url": "https://files.pythonhosted.org/packages/eb/08/26f909239de22d0f2cc589d1ae273d1ece3f0ca6c969eccf3a2c42b2600d/dominator-11.0.1-alpha-15c0dac.tar.gz"
+      },
+      "11.0.1-alpha-1b44711": {
+        "sha256": "59d3ea41379080766aff7a4edec78abe9e0c7382c738ba8bc0b2b2086fc73b09",
+        "url": "https://files.pythonhosted.org/packages/68/af/67203b16cf893b9b6a1dadae725218853f60faf8d0f0194020649c36d2f4/dominator-11.0.1-alpha-1b44711.tar.gz"
+      },
+      "11.0.1-alpha-c0c8606": {
+        "sha256": "575da16b35f05b2c16e2ffac4e0d4513007613e301f90cb2043528dac9de9c6a",
+        "url": "https://files.pythonhosted.org/packages/cc/d6/ccd7cc02505c29f7c97201df88dcb3ce7a0de25be1e338da662052734e34/dominator-11.0.1-alpha-c0c8606.tar.gz"
+      },
+      "11.1.0": {
+        "sha256": "7dfdd0606ac9b81c010a63308b7acc9447e9920467dfc68750d1377e581cba24",
+        "url": "https://files.pythonhosted.org/packages/67/7b/6b8a29a4ead4b6369cd7e808dc2311bf3b551149ed011f924470841f8644/dominator-11.1.0.tar.gz"
+      },
+      "11.2.1-alpha-20141003-1557-cc630fa": {
+        "sha256": "a0df6f2b1812a01b42976a7c860b7080a70706df32386c3dd32cf971a8bbf9bd",
+        "url": "https://files.pythonhosted.org/packages/ad/73/843021c8d5e5abd171ffa94e457cfe099f6f669c66682c790d417515cf52/dominator-11.2.1-alpha-20141003-1557-cc630fa.tar.gz"
+      },
+      "11.2.1-alpha-82af788": {
+        "sha256": "389a8d45c6ded6ecb73e03efc159961d16751656b393fe2fc7a6956a31958e47",
+        "url": "https://files.pythonhosted.org/packages/a6/f0/683953944c6b0788400a0aa187189f6ad6f08295c6a60858168766b6339c/dominator-11.2.1-alpha-82af788.tar.gz"
+      },
+      "11.2.1-alpha-cc630fa": {
+        "sha256": "7f95c1c64364fa7ba622c62bdb8e11c227246acc8d1fcb41cf54f997b7b12cc9",
+        "url": "https://files.pythonhosted.org/packages/c7/6f/2c5eb4540eeb45e2332c4c590a37127e149823f62b81a6f1806c7e60a783/dominator-11.2.1-alpha-cc630fa.tar.gz"
+      },
+      "11.2.2-alpha-20141003-1558-c483d70": {
+        "sha256": "eceba2a36933a5004af5bdee37e06e41a685a5c17132c69a99052708f4ede37d",
+        "url": "https://files.pythonhosted.org/packages/ec/6c/140ce1798e4b33235f1096fffce3d45a6e1fc6a3311afe3c2c3845bc9902/dominator-11.2.2-alpha-20141003-1558-c483d70.tar.gz"
+      },
+      "11.2.2-alpha-20141003-1648-c3912d5": {
+        "sha256": "40b9c1e4ddbe7137843ba1180e758fafff09b28cf854fde2b7a057142decb47e",
+        "url": "https://files.pythonhosted.org/packages/5d/1e/e24d7268fbab08614c2197dbb077cdacb0d7cf7449014be8b696ef8dedcc/dominator-11.2.2-alpha-20141003-1648-c3912d5.tar.gz"
+      },
+      "11.2.2-alpha-20141006-1025-c2056cf": {
+        "sha256": "7b562e039f5b54b82b9954f90215c543580a27c7327100cd55cd3889196aa622",
+        "url": "https://files.pythonhosted.org/packages/20/13/21b6cdf4ef57af117bc2555dde31bd001dbdb866ab528277e90d9963b815/dominator-11.2.2-alpha-20141006-1025-c2056cf.tar.gz"
+      },
+      "11.2.2-alpha-20141006-2236-2f8912a": {
+        "sha256": "ac8ef57f526dd59bb3e0919043ee768d3599d1881ad2be2594d76d0ddb33c7e4",
+        "url": "https://files.pythonhosted.org/packages/f1/7f/0d7bb1b44f3f2088ef487b16b066b992bbb79c021054dc955b55ca805d53/dominator-11.2.2-alpha-20141006-2236-2f8912a.tar.gz"
+      },
+      "11.2.2-alpha-20141006-2253-dc23f89": {
+        "sha256": "9beda6a3f82a5179af48ace31b93dae777cd405854d4b65644ba22043c706b27",
+        "url": "https://files.pythonhosted.org/packages/10/1f/f90ea7c610a07a04ddcef7ec6a226885d161c4da1059dae0368cc3801d4d/dominator-11.2.2-alpha-20141006-2253-dc23f89.tar.gz"
+      },
+      "11.2.2-alpha-20141006-2318-a08fd1d": {
+        "sha256": "e00f29606bf106ec15fba14028c2bd72097fc93a9a720f97c1447cc6902130f8",
+        "url": "https://files.pythonhosted.org/packages/88/2e/40f1843bf7184cf2f4cd42a478584595ea96850c97ec6f0c7f2a1466e840/dominator-11.2.2-alpha-20141006-2318-a08fd1d.tar.gz"
+      },
+      "11.2.2-alpha-20141006-2329-ea07911": {
+        "sha256": "591aeecbb78ad0c2e6a49946e42cdb6993a9a8068af3aa982800f9c8a6488a3d",
+        "url": "https://files.pythonhosted.org/packages/0c/18/fb9f7e172378e7df4237b61c190ab7226d5d5eb08af3592a132163046be4/dominator-11.2.2-alpha-20141006-2329-ea07911.tar.gz"
+      },
+      "11.3.1-alpha-20141007-1443-b1f648c": {
+        "sha256": "91ce9f50e12c1185255fc4f7ac70853b32e01d1675567d527e254def75cfb098",
+        "url": "https://files.pythonhosted.org/packages/e1/63/71085195c5c4e441dcc35fbcbd1fb7d1a3b2b1e6a933446198e01a12ae77/dominator-11.3.1-alpha-20141007-1443-b1f648c.tar.gz"
+      },
+      "11.3.1-alpha-4f92ca4": {
+        "sha256": "c792314d24eaf0f8b25522c4cd738716812d3d437389422c27132809fe8b537f",
+        "url": "https://files.pythonhosted.org/packages/e1/63/b00a3735218f94d9b026832cbb9cb50bef4bee1ca772c729dd05939e22c3/dominator-11.3.1-alpha-4f92ca4.tar.gz"
+      },
+      "11.3.1-alpha-8185f29": {
+        "sha256": "e4d90ee986ad742acfb44cd948de363e7a494cdde749c3d2a020c06281c5dd92",
+        "url": "https://files.pythonhosted.org/packages/a6/53/83e5db01de4c267bedf425a4c6f1ab0dcd2f8df966dfc9fc5593045a2f5f/dominator-11.3.1-alpha-8185f29.tar.gz"
+      },
+      "11.4.1-alpha-20141008-2016-98e4fac": {
+        "sha256": "e8f8576d0cbd09f6e1500d445d8b924ffb73dcbf041a1fe450aa4648f3ef0863",
+        "url": "https://files.pythonhosted.org/packages/fa/5f/414ec7786500527989580b158cc8a15673465bd2b97bddb7cd6432cfc0d6/dominator-11.4.1-alpha-20141008-2016-98e4fac.tar.gz"
+      },
+      "11.4.1-alpha-20141008-2046-39d3166": {
+        "sha256": "0fe6f323f0be6574bc0a64bf446279fe46136fe73932d1e407b609b11d1239ea",
+        "url": "https://files.pythonhosted.org/packages/3b/f7/5cd66c98313e738402a66595e4edca015370ad7a5847ad15950b2bd53f93/dominator-11.4.1-alpha-20141008-2046-39d3166.tar.gz"
+      },
+      "11.4.1-alpha-20141008-2114-a2bfe00": {
+        "sha256": "862d847ab2ab9afcf1b125b6f4e413ad00ba1ac2c7bc28af07be971daa3ef3cb",
+        "url": "https://files.pythonhosted.org/packages/dc/b3/b12ec35a283386b40f69cf70cb9f8d2157ebcb9a3140e305cdb0b7669de1/dominator-11.4.1-alpha-20141008-2114-a2bfe00.tar.gz"
+      },
+      "11.4.1-alpha-3a6cc05": {
+        "sha256": "5f7a57475e45e7f1d2930b57e845a52233498387166f1aa6acc16ca419e36003",
+        "url": "https://files.pythonhosted.org/packages/47/a0/96f4684181b8cb0ed8baac0c7e80e6c07226495edd07062284697bf802c5/dominator-11.4.1-alpha-3a6cc05.tar.gz"
+      },
+      "11.4.1-alpha-b940bfe": {
+        "sha256": "9d15e226793b2cd19f7ecc86f257fc53e7990f68a09c1370293a42d87d1a1cea",
+        "url": "https://files.pythonhosted.org/packages/9c/a7/7cdfe6f8d69b51245e32c1ee977d59f4bcbd010ccecf45bf6e1f89cf3ff5/dominator-11.4.1-alpha-b940bfe.tar.gz"
+      },
+      "11.5.1-alpha-20141008-2118-87ac27e": {
+        "sha256": "9bdaeb37eba481d123153000b3675cba35597362f0056fe33f14767a1c1f9547",
+        "url": "https://files.pythonhosted.org/packages/93/0f/25f5b8f5a970f5995ab0a7789bb617610bc4410162c6cf8aee23d034e105/dominator-11.5.1-alpha-20141008-2118-87ac27e.tar.gz"
+      },
+      "11.6.0": {
+        "sha256": "872d4e4aa890a1dc6c31ef99afb0f48b51336cafdb7fa49fc20acea3ef2ebbc2",
+        "url": "https://files.pythonhosted.org/packages/ac/fc/01c9cc3a2f4556c7bff6da3930f7ef7c2d738315c5762df96b6cb6fc25da/dominator-11.6.0.tar.gz"
+      },
+      "11.6.0-alpha-20141009-0925-b26791d": {
+        "sha256": "69b481b4e120907a5f581d663b73922bc240b575ba72116e6d3c1c9d8e52144f",
+        "url": "https://files.pythonhosted.org/packages/79/e9/951382c2e2effccd784443f0ff4308e09ed017ba4a9fb369146a63b4ecd7/dominator-11.6.0-alpha-20141009-0925-b26791d.tar.gz"
+      },
+      "11.6.1-alpha-67bf213": {
+        "sha256": "ddb3ba3cbba68249491a6ded883570801c203724f8275973cc0c053a2f44542c",
+        "url": "https://files.pythonhosted.org/packages/2f/2c/12db6052855bcbe38ac5015d8a3df6a5758b8ee86ab4075e65441ede96ad/dominator-11.6.1-alpha-67bf213.tar.gz"
+      },
+      "11.6.1-alpha-ac34d48": {
+        "sha256": "69f4b56284d43fd488af2b66fcd33f7eb5a447ee492cf98350f4dba557b4f8b3",
+        "url": "https://files.pythonhosted.org/packages/ae/04/47ed47e9ec7bae6dfcc8bc69801123cfe5710bfe8f08e7fa1b9247fe37ad/dominator-11.6.1-alpha-ac34d48.tar.gz"
+      },
+      "12.0.0-alpha-20141016-1534-d21f782": {
+        "sha256": "55c649dec396dd535df0cce9f860be1028543192ea3eef48afd445133da88840",
+        "url": "https://files.pythonhosted.org/packages/1c/2c/dec0e23dc17d69019e3615de1343ef7295fa4b29755a64a77e31b6107fcf/dominator-12.0.0-alpha-20141016-1534-d21f782.tar.gz"
+      },
+      "12.0.0-alpha-20141022-0811-b0be6ac": {
+        "sha256": "9f9e072c02b17eb18a60b0ba2624d2c25cefcccbcc228d7a8dca0a6807e478d7",
+        "url": "https://files.pythonhosted.org/packages/4e/9d/2b8c39cddda7d0c062ab1cf727f011f7a29ee5517fbc978269f2c38e2895/dominator-12.0.0-alpha-20141022-0811-b0be6ac.tar.gz"
+      },
+      "12.1.0": {
+        "sha256": "6424de41be5287c4d38e92aca774445bae7a0bca08e1305b11809bca4d1d792e",
+        "url": "https://files.pythonhosted.org/packages/34/85/3ee2e211393633e0372e635b60d7cfe04b58698be8f93ddd9214f0d63484/dominator-12.1.0.tar.gz"
+      },
+      "12.1.0-alpha-20141022-1506-502c108": {
+        "sha256": "d2054d936361868137c6bf74aad317ed88a8de570fede3f16b90f5d6bc3558f4",
+        "url": "https://files.pythonhosted.org/packages/93/52/d3e5ef07882bbf36cdd300b3acdc91eaae923a03b79bb6bc2ccf45aeee0c/dominator-12.1.0-alpha-20141022-1506-502c108.tar.gz"
+      },
+      "12.1.0-alpha-20141023-1444-3147909": {
+        "sha256": "dc19fff76aa8952bf796af18a9ea7b6a1fd8c92be2cf5a83ae81d9503c384dd4",
+        "url": "https://files.pythonhosted.org/packages/b6/d3/6cd6d77e67e9d6c61e2bef2419f704855d583c30816018756093fdd34b28/dominator-12.1.0-alpha-20141023-1444-3147909.tar.gz"
+      },
+      "12.1.0-alpha-20141027-0947-d4988fe": {
+        "sha256": "4b2dde42482a45343f9823df8ca1e22b15ba43cfde951c7bfef19f5aac752dcb",
+        "url": "https://files.pythonhosted.org/packages/3c/41/8c531554e48972e3ce4c951a235fd235749389f764027a9535cc5a5d5cd9/dominator-12.1.0-alpha-20141027-0947-d4988fe.tar.gz"
+      },
+      "12.1.1-alpha-20141027-1001-d94e7b8": {
+        "sha256": "f9d6b6ca6fbbb2c84089fbde83d2c549a11d2b77b261185c56c083eb92669ed6",
+        "url": "https://files.pythonhosted.org/packages/cb/a7/be8c5f56baab06877ac3142f06e836386226be20ac98d8f929a791608243/dominator-12.1.1-alpha-20141027-1001-d94e7b8.tar.gz"
+      },
+      "12.1.2-alpha-20141027-1446-ad46e0f": {
+        "sha256": "cc5d86d612a6e127dd1ffc299c53dc58123fc74c381c063bd252f97e78b2ef34",
+        "url": "https://files.pythonhosted.org/packages/6a/51/c36330a4883328c5d857fe4c0f7f88a262e1614b66410a47eb638593581c/dominator-12.1.2-alpha-20141027-1446-ad46e0f.tar.gz"
+      },
+      "13.0.0": {
+        "sha256": "2570e6e0a23858cc707c103fc73c59e849546d43349423e1dee6015dbbdd605b",
+        "url": "https://files.pythonhosted.org/packages/61/68/718e77f0ef93d75bd96439761fe7a530cc4c5422a4ab70dd1910f69bc8f5/dominator-13.0.0.tar.gz"
+      },
+      "13.0.0-alpha-20141028-1159-b8c6afa": {
+        "sha256": "3a38b3f503469504a9f631c2c3862adb3367a68e60d35f14d90b1f963d5736c6",
+        "url": "https://files.pythonhosted.org/packages/74/09/771340b542768d1c55a4745ae1f68e718acd562d1bccf946aaf28b8b43d3/dominator-13.0.0-alpha-20141028-1159-b8c6afa.tar.gz"
+      },
+      "13.0.0-alpha-20141028-1200-12fc68c": {
+        "sha256": "e53aac3a9a7a4e2e75d013749ac13757789ffd03e05af471746699423e42c9d9",
+        "url": "https://files.pythonhosted.org/packages/fd/70/b12f1a44db2f331d1f2311c746b091a1de0c38e02a12ce13a5fb88137c50/dominator-13.0.0-alpha-20141028-1200-12fc68c.tar.gz"
+      },
+      "13.0.0-alpha-20141028-1439-8f14319": {
+        "sha256": "b839c62c12b07cd976657aada69ab37c85bf1901b0edffd5f9e561b57963a7fa",
+        "url": "https://files.pythonhosted.org/packages/d7/dc/477e6900ba165d3b15bc966b1573b24b4f00e0e0ff658e349aaee46f41ad/dominator-13.0.0-alpha-20141028-1439-8f14319.tar.gz"
+      },
+      "13.0.0-alpha-20141029-1420-efd65e9": {
+        "sha256": "50d5b7bc4dc8918bdbd1e37c11fa6439629c18696480042d3906c44f61d12caa",
+        "url": "https://files.pythonhosted.org/packages/b3/27/618b1ac525bae5028cac63cea49b382570c4726a334110616ab4c6613cfc/dominator-13.0.0-alpha-20141029-1420-efd65e9.tar.gz"
+      },
+      "13.1.0-alpha-20141106-1437-a8264f0": {
+        "sha256": "e19f9c7f2845743db3b947f9577ec19030faf2cbd9be4836ea2bbb53b654b19e",
+        "url": "https://files.pythonhosted.org/packages/b3/13/67f36fa195a49b3fd4b4a924d5303f46585f64bff9edf58d13ac2fe0c03a/dominator-13.1.0-alpha-20141106-1437-a8264f0.tar.gz"
+      },
+      "13.2.0-alpha-20141107-1144-d0a3d69": {
+        "sha256": "e5b7e889ca1852285da196a72244009638500d28ca2846d2a8224d7fbd4c5d69",
+        "url": "https://files.pythonhosted.org/packages/20/6e/33968a0c78b8d6c52ed39dcefc46c653af88430947ae6eed7b6474471178/dominator-13.2.0-alpha-20141107-1144-d0a3d69.tar.gz"
+      },
+      "13.2.0-alpha-20141107-1504-ca668ac": {
+        "sha256": "b87a4d3a7b1b54b8c6ded5cb6fae420e1111775d0d748c7ab4c7b91806a1ae08",
+        "url": "https://files.pythonhosted.org/packages/aa/af/23f4fb75a6cef06d44f974226b77e4431d59e3508a4811318d1e6d196680/dominator-13.2.0-alpha-20141107-1504-ca668ac.tar.gz"
+      },
+      "13.2.0-alpha-20141110-1138-93c00bf": {
+        "sha256": "5cbcebbabadcac39f6758dab2bcfc66c302a828f34384d1e3fd3742ae22959af",
+        "url": "https://files.pythonhosted.org/packages/1b/68/46e1cebf2e55364ced2a1635f93acaf1139a88a6f48492828569797d9acf/dominator-13.2.0-alpha-20141110-1138-93c00bf.tar.gz"
+      },
+      "13.2.0-alpha-20141110-1204-6133cee": {
+        "sha256": "3ffbd352928867a730104b2cfc54a6a38c46c07eaf9fa2ccfa2fc73092c7f60f",
+        "url": "https://files.pythonhosted.org/packages/1c/2b/ace819d3adc7d631d9ec6e87a7e48cd12cd4e72e8dee378053adf4e92f9d/dominator-13.2.0-alpha-20141110-1204-6133cee.tar.gz"
+      },
+      "14.0.0": {
+        "sha256": "e581b963749ed227d8ab68967b81a9497df89ada5008879f2b1c18ed9fc8d60b",
+        "url": "https://files.pythonhosted.org/packages/53/7b/9fc074ebe5f53710035a4688565dafcc767489b8e76a100bc9afaa166778/dominator-14.0.0.tar.gz"
+      },
+      "14.0.0-alpha-20141113-2310-0019bec": {
+        "sha256": "0259139a16fad307e7a4dedc7f1cdd63865c5b30c74529ef4a718b8734537f3d",
+        "url": "https://files.pythonhosted.org/packages/19/26/2d25a97888ffcadc3dab0019217eed78e83ebaf9bfaf6159afc339cc40fa/dominator-14.0.0-alpha-20141113-2310-0019bec.tar.gz"
+      },
+      "14.0.0-alpha-20141113-2338-56f8df1": {
+        "sha256": "7faf79736caba7500c25868d8037f298b1f07b877de375cad0cfa905c37f88de",
+        "url": "https://files.pythonhosted.org/packages/e5/ab/81c53477f4beda4999532e4fd00e1469648d8344e3b341611f0821f72177/dominator-14.0.0-alpha-20141113-2338-56f8df1.tar.gz"
+      },
+      "14.0.0-alpha-20141117-2348-26e3675": {
+        "sha256": "94bab3b2c70b6c97e3691f6712365457c2809b10037db60b11b2647482e7efbc",
+        "url": "https://files.pythonhosted.org/packages/bc/29/14dfb171c5c6609f1389fcc17c19bbec06ed3a8456b1476285dcc8bcd573/dominator-14.0.0-alpha-20141117-2348-26e3675.tar.gz"
+      },
+      "14.1.0": {
+        "sha256": "408c5a11281f402361bf0a781871795c91e147e93e8b9fe7090aabcf570998de",
+        "url": "https://files.pythonhosted.org/packages/fd/4b/8b2f221145026002badcd16c4fffab77ea1a6e348b31d85c39e8449f747b/dominator-14.1.0.tar.gz"
+      },
+      "14.1.0-alpha-20141119-1630-8822ee6": {
+        "sha256": "6b6d9703fc34580efd847fe0db7712fed21f2373fce14dd76f9d1884686e630e",
+        "url": "https://files.pythonhosted.org/packages/ce/17/a643603b991def5c1e9fe1a8950ec56d8219475eeb05365ac3d1bee6f830/dominator-14.1.0-alpha-20141119-1630-8822ee6.tar.gz"
+      },
+      "14.1.0-alpha-20141119-1708-30a8424": {
+        "sha256": "ef084df742a603c87c630b2e74a0c788c55463e63bd04ff728b283a15b8438f6",
+        "url": "https://files.pythonhosted.org/packages/d4/54/d67bbe90a4b5a7033fba8efa18cd45681b182149b5320a5c2e4e2455c2b8/dominator-14.1.0-alpha-20141119-1708-30a8424.tar.gz"
+      },
+      "14.1.0-alpha-20141119-1718-733eef6": {
+        "sha256": "7423e93a0bd02cddf697c8dd353f28caf314227a1d20215d85059ef1f984298f",
+        "url": "https://files.pythonhosted.org/packages/3a/a4/0d98c03a65d163f4661eb69ea8c217f8dd20f1c79f28879e7cbf4485b3d9/dominator-14.1.0-alpha-20141119-1718-733eef6.tar.gz"
+      },
+      "15.0.0": {
+        "sha256": "092a83518477f28817bcf1a6f79c9768bd078ba5449e728173d9ed4c69de56fb",
+        "url": "https://files.pythonhosted.org/packages/7a/f2/a879860f185f7591340693707917ce2f92c8fd9c4da8b6bd827ee4776ec2/dominator-15.0.0.tar.gz"
+      },
+      "15.0.0-alpha-20141120-1723-033c3ff": {
+        "sha256": "f808748674c4af66d086718cd536740582f9d7dfa3a30da6c2520c4c232bd3ad",
+        "url": "https://files.pythonhosted.org/packages/20/0f/a341e9096b1f10c7516e295358f6605edbc280305f5d832c184613710e23/dominator-15.0.0-alpha-20141120-1723-033c3ff.tar.gz"
+      },
+      "15.0.0-alpha-20141120-1727-cc4a99c": {
+        "sha256": "5240fb689a785253f60cff0f4eab4867458e6894852aabada14a999f705ecb3d",
+        "url": "https://files.pythonhosted.org/packages/c6/e2/7a81fab919fd088ab4aa861bbd15be4fc633bfac6174f400c07ffabdab69/dominator-15.0.0-alpha-20141120-1727-cc4a99c.tar.gz"
+      },
+      "15.0.0-alpha-20141120-1827-4c10fd4": {
+        "sha256": "7290b205903ddeef9381da82b53cfa3adb8bc5f850e866c8ce3529f045731d94",
+        "url": "https://files.pythonhosted.org/packages/1d/9a/57bda008eeec9791905e7846de40051040d23a036fe80026b8e3df95ba88/dominator-15.0.0-alpha-20141120-1827-4c10fd4.tar.gz"
+      },
+      "15.1.0": {
+        "sha256": "84d74edfab3e7ece963e01aa709c21b21e640d2f27d1042836cc450ed49aa52b",
+        "url": "https://files.pythonhosted.org/packages/56/da/b0d9c0f4a674f24e7401c29e9d6d150e245a132931eb0e386c261112500a/dominator-15.1.0.tar.gz"
+      },
+      "15.1.0-alpha-20141217-1953-4038785": {
+        "sha256": "40100cbeb351c3ebd840ff0bf20d047f20976b6a03a76aad0e5d951ba48f8a8d",
+        "url": "https://files.pythonhosted.org/packages/c8/a7/29db3b5cf24ce2a29811c77abd3a8637bbe96afb0c9299fd572f127c880c/dominator-15.1.0-alpha-20141217-1953-4038785.tar.gz"
+      },
+      "15.1.0-alpha-20141217-1957-b7ec62b": {
+        "sha256": "72651dbf9926e9d62e1c8122b1fdca70eda41575da602513d328da156986f341",
+        "url": "https://files.pythonhosted.org/packages/5e/ea/ac67f3ef196796a0074c411dc2c42b4c69b6eb465c3a9bf949b6b13564a3/dominator-15.1.0-alpha-20141217-1957-b7ec62b.tar.gz"
+      },
+      "2.0": {
+        "sha256": "3442b723d8634712ff9c6d1009bc3ddfbe05a14da794831563e7a2bbf4aff6ac",
+        "url": "https://files.pythonhosted.org/packages/dd/67/a79f65e352599cc28b5604fbf4897de9abe5e178a505fb2f3f51a1007bd3/dominator-2.0.tar.gz"
+      },
+      "2.1": {
+        "sha256": "38d7175f8b56a07ceed06fd271b37ac275f1e084672c2b9da1399a825221c6c3",
+        "url": "https://files.pythonhosted.org/packages/06/39/fa1918928585f827af2a95a910a4396b0a6a0f942a4fc476fb9dcdc644c9/dominator-2.1.tar.gz"
+      },
+      "3.1": {
+        "sha256": "993f9427ddeb7e1e9d99d14819fccf152fe54b13f239af0b88d26f416f88a501",
+        "url": "https://files.pythonhosted.org/packages/76/44/08cc088c1196406f6c3e399bb1bb2f91e8e89cc2a99f8a6eeb97dacf98ee/dominator-3.1.tar.gz"
+      },
+      "3.2": {
+        "sha256": "079f4dc606e44f73eab593db8fc313013d5bb11358a9be8a0407e28f13c6e6c1",
+        "url": "https://files.pythonhosted.org/packages/c4/46/3dafc49115c2383864e9ae40c024b4d9bc1c27fd48860b234d859419ae1b/dominator-3.2.tar.gz"
+      },
+      "4.1": {
+        "sha256": "009ce25e3e1a5484fed894c6da236cb8682221b36f807ac9b2750d36822ca071",
+        "url": "https://files.pythonhosted.org/packages/71/05/2f7edd9006c9cf8ea0fa75f4958481b7468e9c95b1f467539cb3399d13f5/dominator-4.1.tar.gz"
+      },
+      "4.2": {
+        "sha256": "db0513d9b743ff8bdf903408ae14eeed7f43b9fe9bc3b1f258533e11aa4fea6b",
+        "url": "https://files.pythonhosted.org/packages/87/0d/ac874e81c9210030b08fbc2e97c4c5f6b9aefefa23b5c3a17c239ff524d0/dominator-4.2.tar.gz"
+      },
+      "4.3": {
+        "sha256": "60dd47484acbccf6802054fe0820b58702c77cdb396a7dca474e4b2f6a58e665",
+        "url": "https://files.pythonhosted.org/packages/12/6c/2cc2f3854f6c8143d91867e1c23a1882871b1c9ce659818d9315bc78918c/dominator-4.3.tar.gz"
+      },
+      "4.4": {
+        "sha256": "25f5d3eca16479994cf3a6e765e12f11c386c5ce4c1d2cdefe1fd911b81df608",
+        "url": "https://files.pythonhosted.org/packages/ce/7f/b58b2c7e12aa653f03a42e6acd80477ddc59915826009f0e765198b252e8/dominator-4.4.tar.gz"
+      },
+      "5.0": {
+        "sha256": "29b1b0f112f93287a3ee0a8693443a083ea097d4a6f1b3b2603341e0d3ae0c48",
+        "url": "https://files.pythonhosted.org/packages/97/e3/0399fa1abb2dd8d942d0a5a4d2032e4ddcf6b724fad47aec4ad6fb4ce670/dominator-5.0.tar.gz"
+      },
+      "5.1": {
+        "sha256": "dd1bcb92a33932bdf99b4de647f0c75477d999fb8e1048289f94fa917b1f2737",
+        "url": "https://files.pythonhosted.org/packages/f5/3b/fd9dc6887befae0c190bb0867cf76da1fcfcc32e148b3104af327d106a58/dominator-5.1.tar.gz"
+      },
+      "5.2": {
+        "sha256": "eafc7d9bc47da8e36443f5f2d84c2424c9e3e2d76d1b5e72b31d73c9cd932d30",
+        "url": "https://files.pythonhosted.org/packages/14/94/6ab9e9c57a17dece0af78492a1daeea9648949de23e4687d3fb41e034d8d/dominator-5.2.tar.gz"
+      },
+      "6.0": {
+        "sha256": "d566cbd58e84a6572c2813ec96f760141c5918ac4782358f0ab16e6b1a33b3c4",
+        "url": "https://files.pythonhosted.org/packages/04/a3/2d761bcfd9f62170458ef6511915f555336a825ba01c298b2f2fd68ad6a1/dominator-6.0.tar.gz"
+      },
+      "6.1": {
+        "sha256": "4576e9444269dd06c9adf472dc3f1500a55051b9c817eb73743cf3df2711e94b",
+        "url": "https://files.pythonhosted.org/packages/bd/6a/1681027e9e935ddf4decc0c0c25f56fd5bb332b295f270e6dc37de6f9678/dominator-6.1.tar.gz"
+      },
+      "7.1": {
+        "sha256": "46b1a1d68f5107ada9785b6de84c9102926dcb0ec87389ce339b99c5dda1bb50",
+        "url": "https://files.pythonhosted.org/packages/b6/0d/4a0b07296b913b759b03b3ef8b42d1cccfb280cfe893e2689cdaba0b3c3f/dominator-7.1.tar.gz"
+      },
+      "8.1": {
+        "sha256": "30b18769c0d84aabed92854c7bfa6182493cdc003f51daa9a2a17e4470d5e92c",
+        "url": "https://files.pythonhosted.org/packages/91/45/4062550d1fb70d40af398aa45536d517ac177bf3689d84cac054cddf1eae/dominator-8.1.tar.gz"
+      },
+      "9.1.0": {
+        "sha256": "5427472960842f7b24927d50a0433a73812f3d41c216f572c834486a0a8a200f",
+        "url": "https://files.pythonhosted.org/packages/a3/44/d90a148ebcbe7fe03da2e75483528e8702836d6d46b9c4eda937e316891d/dominator-9.1.0.tar.gz"
+      },
+      "9.1.1-alpha-056ce62": {
+        "sha256": "ade68ba1facf256615ad51abe45f61f57ec2920d774f28f6688523cd1edf0585",
+        "url": "https://files.pythonhosted.org/packages/08/73/84a27e70f7c18d650fbc8c9b412e8a7ef043224c2a54420569d6795b96f5/dominator-9.1.1-alpha-056ce62.tar.gz"
+      },
+      "9.1.1-alpha-107de1b": {
+        "sha256": "b3388ed3c398b59d6712e75111f94271323d1175c4acf032d0a136f7641db095",
+        "url": "https://files.pythonhosted.org/packages/2b/59/ad8b1f0ea4722648a73deaecdfcc86c823f6c97608ceaa0a79cdd50a3297/dominator-9.1.1-alpha-107de1b.tar.gz"
+      },
+      "9.1.1-alpha-1a794ea": {
+        "sha256": "fde9510ebb929d9c1011285e6eb48df7628ae4ade5badc0a4b3ace7c06bcb317",
+        "url": "https://files.pythonhosted.org/packages/a1/30/b43627d86c58c52afcb2eefe53edbb04ec98b2be2a1892c715ba76dbf044/dominator-9.1.1-alpha-1a794ea.tar.gz"
+      },
+      "9.1.1-alpha-1b3c244": {
+        "sha256": "40eac6afaab436b8861ef0915f1efa5cdd3b3dd34edd5a154bd821e2bf0e684e",
+        "url": "https://files.pythonhosted.org/packages/dd/05/b9aa0c5bf5736b653bf0de167eb876e41777cde94c55576f3ace71df4b33/dominator-9.1.1-alpha-1b3c244.tar.gz"
+      },
+      "9.1.1-alpha-2746764": {
+        "sha256": "31a44e3f6ee2ef5b7aec6b3d207752281e24c1811a35872fee7c7432370800a9",
+        "url": "https://files.pythonhosted.org/packages/8d/ef/26c0431a78270b0cf154a2ef48decd2b83147da5110de39d459176ecdabf/dominator-9.1.1-alpha-2746764.tar.gz"
+      },
+      "9.1.1-alpha-378e58f": {
+        "sha256": "9907047960da5b212e37012ba44bf173d875a781453419236129e7ed08eca8e2",
+        "url": "https://files.pythonhosted.org/packages/ec/a7/ad289d1cb57955e67b154aebd4b68c7b59947ce8ec97835803efdd924b78/dominator-9.1.1-alpha-378e58f.tar.gz"
+      },
+      "9.1.1-alpha-4ab5304": {
+        "sha256": "d7591a96f56bf234d8d2a30ca99b53556f7e6efe1deb63c32a0bc3d1b378223a",
+        "url": "https://files.pythonhosted.org/packages/eb/69/a8c3a53f0faf47f635f80178fc40c2d95505abeaef6791defa02f6a9241b/dominator-9.1.1-alpha-4ab5304.tar.gz"
+      },
+      "9.1.1-alpha-4c0aee5": {
+        "sha256": "af4c70cf0da4783c82ae4935378e55183d01ad0e357e4e46299fb07512addbe6",
+        "url": "https://files.pythonhosted.org/packages/9f/1f/caa7ff2e35d0c790fa5ab0f7fa3ea5abd65370659e24a8bf631a6a77fea1/dominator-9.1.1-alpha-4c0aee5.tar.gz"
+      },
+      "9.1.1-alpha-85c6eec": {
+        "sha256": "c9d2fc91866861fee85f5b5b645edf02c93a4e993821942ef2cdfcf1b5adf2b1",
+        "url": "https://files.pythonhosted.org/packages/77/fe/3dcd8adb7dcf99f656215c30d637049ae795f04dddcdea9b25a34774a8dc/dominator-9.1.1-alpha-85c6eec.tar.gz"
+      },
+      "9.1.1-alpha-a5cdf97": {
+        "sha256": "a576ab26f4ea16ca46c6662c01718f3a6eee79994426452669d92377d1ebe868",
+        "url": "https://files.pythonhosted.org/packages/db/51/8a5fd407255516db36aa1a66ed9afc8883cd290d9278fb2f0a052a56dcd9/dominator-9.1.1-alpha-a5cdf97.tar.gz"
+      },
+      "9.1.1-alpha-b351806": {
+        "sha256": "62d1749793bc198cc39f189e7e35e3f0f3dcd39eb9b5536b058a9fc174630c24",
+        "url": "https://files.pythonhosted.org/packages/0b/bb/e95fefab92f18d214b3973254d9394057ddec8877c7da9657d740c0b9a88/dominator-9.1.1-alpha-b351806.tar.gz"
+      },
+      "9.1.1-alpha-bb742fd": {
+        "sha256": "4f30c4489352057fb6621a51d38daaa6e5ccfb29c5ba3fe01a6da2f9136bcbd8",
+        "url": "https://files.pythonhosted.org/packages/3b/8a/1cb9cd2568e30c15bf765c011b806031c3d007f76071cb3f7fab5384aff2/dominator-9.1.1-alpha-bb742fd.tar.gz"
+      },
+      "9.1.1-alpha-dafa623": {
+        "sha256": "8befed0e0355498bcb1ad860ef8cda6a48007063186b705f8425d06cac223e19",
+        "url": "https://files.pythonhosted.org/packages/97/c0/2fbff03e68d17698925168edd58ae34c7e1c76652481fde518153c56c788/dominator-9.1.1-alpha-dafa623.tar.gz"
+      },
+      "9.1.1-alpha-f88f211": {
+        "sha256": "b6dd8803a49cf41ef2596bf9e0a82b5b1ae26d9fd97491ed9ff6c66f14b562e3",
+        "url": "https://files.pythonhosted.org/packages/89/6f/e4b42c0170ddf106a9199acc17b536dd02b47b69e8fa8108820d326c1886/dominator-9.1.1-alpha-f88f211.tar.gz"
+      }
+    }
+  ]
+}

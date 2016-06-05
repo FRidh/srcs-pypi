@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Convert config files into docker commands",
+    "homepage": "https://github.com/pbecotte/wharfrat",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "c1035a90164b0878650b12e2235817eb2d7da662dba5abc62074c3e379232e3d",
+        "url": "https://files.pythonhosted.org/packages/44/36/1ed5c185b62d0323f6021e1ac40a2433a65e632955226295b8d0027cfb4e/wharfrat-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "5db3cc2a6f8d4339e8b710767123de8536ab63c2dc7ab8aeee938ee548739699",
+        "url": "https://files.pythonhosted.org/packages/33/4a/3c044c183ed333db34dab043556392056085400a19897353af38415040d2/wharfrat-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "0e66dc67530f91433a03e4cd34fd7b678622a7668cf86d3c2a820893f4a2d690",
+        "url": "https://files.pythonhosted.org/packages/69/b4/c3f63234192f68c9f3bc187021bc846cf6e0c680cddf6dda4c18f0d4286c/wharfrat-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

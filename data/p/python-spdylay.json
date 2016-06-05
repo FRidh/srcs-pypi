@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Python SPDY library on top of Spdylay C library",
+    "homepage": "http://spdylay.sourceforge.net/"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "fe3cdb8ed38d1f64832ae8cc3e4323355daaff10f62c7fdf135ff892f80aed13",
+        "url": "https://files.pythonhosted.org/packages/ac/1c/25a792948689955acac2ed91efea5c1a488c4f341051ba379e04aeab8e20/python-spdylay-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "17659be984b331ce602fa0d232deb54560ab4b010e4b59db370ad415654ecb86",
+        "url": "https://files.pythonhosted.org/packages/f6/b3/fb923f529853f960018ee4d20dbb0d34585266ebf26cf02233355d58deaf/python-spdylay-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "019c4d32588edf3ed915d7c053bca607665cefd3fffcabb1b656da0c20625dd5",
+        "url": "https://files.pythonhosted.org/packages/73/0b/ad7143c051e8a0085f8823f12bb6a20daf5539c188a4f479109c089c80c6/python-spdylay-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

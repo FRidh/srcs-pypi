@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Add an intermediate page to the django admin when preforming actions. Here you can define extra parameters for your action",
+    "homepage": "https://github.com/MichielDePaepe/adminactionview",
+    "license": "MIT licence, see LICENCE.txt"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "3df05ad8896b40de564b47a397af0247aa6715308b7d3e19101b191b7b5388ac",
+        "url": "https://files.pythonhosted.org/packages/18/34/cfcae926ca943fcabab7074d22d520ac21fbb3a0fd6c24006cc8d88e41d9/adminactionview-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "4fda37cc56c3e247e17f72019166345dcc2b27244f503466568dfde633bce642",
+        "url": "https://files.pythonhosted.org/packages/71/8c/e28e54708da153bcd055ade60cda7e32d822d88b248318be76280e2bbe9a/adminactionview-0.2.tar.gz"
+      }
+    }
+  ]
+}

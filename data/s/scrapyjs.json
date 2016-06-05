@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "JavaScript support for Scrapy using Splash",
+    "homepage": "https://github.com/scrapy-plugins/scrapy-splash",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "ed3d672a48e9cd2ebabafc5790006e3f03cab4535e4ea5f5327672ccd7769595",
+        "url": "https://files.pythonhosted.org/packages/3b/f8/9211bc99be8d5ebe2dddb517e44b7f13693ceb6b681d20cd725d4d8a4b66/scrapyjs-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "83bff510da818e4101fbf10f44ddb029971c482d28c22c78d67d493038688546",
+        "url": "https://files.pythonhosted.org/packages/c9/9d/79a97adeaf5a919384f1586d5a610307a874dd2e009193b33fd3e8be8c39/scrapyjs-0.1.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "1833ea816daaa91c362c7d1c86d8f97269f70cbfdf783b2b946378936e944057",
+        "url": "https://files.pythonhosted.org/packages/89/73/15a3cb81e96438a2e7ced2a1938a9dd9b798d633e9c7c84f1d31dd6e8812/scrapyjs-0.2.tar.gz"
+      }
+    }
+  ]
+}

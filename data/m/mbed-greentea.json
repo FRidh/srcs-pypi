@@ -1,0 +1,162 @@
+{
+  "latest_version": [
+    "0.2.16"
+  ],
+  "meta": {
+    "description": "mbed 3.0 test suite, codename Greentea. The test suite is a collection of tools that enable automated testing on mbed-enabled platforms",
+    "homepage": "https://github.com/ARMmbed/greentea",
+    "license": "Apache License\nVersion 2.0, January 2004\nhttp://www.apache.org/licenses/\n\nTERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n1. Definitions.\n\n\"License\" shall mean the terms and conditions for use, reproduction, and\ndistribution as defined by Sections 1 through 9 of this document.\n\n\"Licensor\" shall mean the copyright owner or entity authorized by the copyright\nowner that is granting the License.\n\n\"Legal Entity\" shall mean the union of the acting entity and all other entities\nthat control, are controlled by, or are under common control with that entity.\nFor the purposes of this definition, \"control\" means (i) the power, direct or\nindirect, to cause the direction or management of such entity, whether by\ncontract or otherwise, or (ii) ownership of fifty percent (50%) or more of the\noutstanding shares, or (iii) beneficial ownership of such entity.\n\n\"You\" (or \"Your\") shall mean an individual or Legal Entity exercising\npermissions granted by this License.\n\n\"Source\" form shall mean the preferred form for making modifications, including\nbut not limited to software source code, documentation source, and configuration\nfiles.\n\n\"Object\" form shall mean any form resulting from mechanical transformation or\ntranslation of a Source form, including but not limited to compiled object code,\ngenerated documentation, and conversions to other media types.\n\n\"Work\" shall mean the work of authorship, whether in Source or Object form, made\navailable under the License, as indicated by a copyright notice that is included\nin or attached to the work (an example is provided in the Appendix below).\n\n\"Derivative Works\" shall mean any work, whether in Source or Object form, that\nis based on (or derived from) the Work and for which the editorial revisions,\nannotations, elaborations, or other modifications represent, as a whole, an\noriginal work of authorship. For the purposes of this License, Derivative Works\nshall not include works that remain separable from, or merely link (or bind by\nname) to the interfaces of, the Work and Derivative Works thereof.\n\n\"Contribution\" shall mean any work of authorship, including the original version\nof the Work and any modifications or additions to that Work or Derivative Works\nthereof, that is intentionally submitted to Licensor for inclusion in the Work\nby the copyright owner or by an individual or Legal Entity authorized to submit\non behalf of the copyright owner. For the purposes of this definition,\n\"submitted\" means any form of electronic, verbal, or written communication sent\nto the Licensor or its representatives, including but not limited to\ncommunication on electronic mailing lists, source code control systems, and\nissue tracking systems that are managed by, or on behalf of, the Licensor for\nthe purpose of discussing and improving the Work, but excluding communication\nthat is conspicuously marked or otherwise designated in writing by the copyright\nowner as \"Not a Contribution.\"\n\n\"Contributor\" shall mean Licensor and any individual or Legal Entity on behalf\nof whom a Contribution has been received by Licensor and subsequently\nincorporated within the Work.\n\n2. Grant of Copyright License.\n\nSubject to the terms and conditions of this License, each Contributor hereby\ngrants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free,\nirrevocable copyright license to reproduce, prepare Derivative Works of,\npublicly display, publicly perform, sublicense, and distribute the Work and such\nDerivative Works in Source or Object form.\n\n3. Grant of Patent License.\n\nSubject to the terms and conditions of this License, each Contributor hereby\ngrants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free,\nirrevocable (except as stated in this section) patent license to make, have\nmade, use, offer to sell, sell, import, and otherwise transfer the Work, where\nsuch license applies only to those patent claims licensable by such Contributor\nthat are necessarily infringed by their Contribution(s) alone or by combination\nof their Contribution(s) with the Work to which such Contribution(s) was\nsubmitted. If You institute patent litigation against any entity (including a\ncross-claim or counterclaim in a lawsuit) alleging that the Work or a\nContribution incorporated within the Work constitutes direct or contributory\npatent infringement, then any patent licenses granted to You under this License\nfor that Work shall terminate as of the date such litigation is filed.\n\n4. Redistribution.\n\nYou may reproduce and distribute copies of the Work or Derivative Works thereof\nin any medium, with or without modifications, and in Source or Object form,\nprovided that You meet the following conditions:\n\nYou must give any other recipients of the Work or Derivative Works a copy of\nthis License; and\nYou must cause any modified files to carry prominent notices stating that You\nchanged the files; and\nYou must retain, in the Source form of any Derivative Works that You distribute,\nall copyright, patent, trademark, and attribution notices from the Source form\nof the Work, excluding those notices that do not pertain to any part of the\nDerivative Works; and\nIf the Work includes a \"NOTICE\" text file as part of its distribution, then any\nDerivative Works that You distribute must include a readable copy of the\nattribution notices contained within such NOTICE file, excluding those notices\nthat do not pertain to any part of the Derivative Works, in at least one of the\nfollowing places: within a NOTICE text file distributed as part of the\nDerivative Works; within the Source form or documentation, if provided along\nwith the Derivative Works; or, within a display generated by the Derivative\nWorks, if and wherever such third-party notices normally appear. The contents of\nthe NOTICE file are for informational purposes only and do not modify the\nLicense. You may add Your own attribution notices within Derivative Works that\nYou distribute, alongside or as an addendum to the NOTICE text from the Work,\nprovided that such additional attribution notices cannot be construed as\nmodifying the License.\nYou may add Your own copyright statement to Your modifications and may provide\nadditional or different license terms and conditions for use, reproduction, or\ndistribution of Your modifications, or for any such Derivative Works as a whole,\nprovided Your use, reproduction, and distribution of the Work otherwise complies\nwith the conditions stated in this License.\n\n5. Submission of Contributions.\n\nUnless You explicitly state otherwise, any Contribution intentionally submitted\nfor inclusion in the Work by You to the Licensor shall be under the terms and\nconditions of this License, without any additional terms or conditions.\nNotwithstanding the above, nothing herein shall supersede or modify the terms of\nany separate license agreement you may have executed with Licensor regarding\nsuch Contributions.\n\n6. Trademarks.\n\nThis License does not grant permission to use the trade names, trademarks,\nservice marks, or product names of the Licensor, except as required for\nreasonable and customary use in describing the origin of the Work and\nreproducing the content of the NOTICE file.\n\n7. Disclaimer of Warranty.\n\nUnless required by applicable law or agreed to in writing, Licensor provides the\nWork (and each Contributor provides its Contributions) on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied,\nincluding, without limitation, any warranties or conditions of TITLE,\nNON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are\nsolely responsible for determining the appropriateness of using or\nredistributing the Work and assume any risks associated with Your exercise of\npermissions under this License.\n\n8. Limitation of Liability.\n\nIn no event and under no legal theory, whether in tort (including negligence),\ncontract, or otherwise, unless required by applicable law (such as deliberate\nand grossly negligent acts) or agreed to in writing, shall any Contributor be\nliable to You for damages, including any direct, indirect, special, incidental,\nor consequential damages of any character arising as a result of this License or\nout of the use or inability to use the Work (including but not limited to\ndamages for loss of goodwill, work stoppage, computer failure or malfunction, or\nany and all other commercial damages or losses), even if such Contributor has\nbeen advised of the possibility of such damages.\n\n9. Accepting Warranty or Additional Liability.\n\nWhile redistributing the Work or Derivative Works thereof, You may choose to\noffer, and charge a fee for, acceptance of support, warranty, indemnity, or\nother liability obligations and/or rights consistent with this License. However,\nin accepting such obligations, You may act only on Your own behalf and on Your\nsole responsibility, not on behalf of any other Contributor, and only if You\nagree to indemnify, defend, and hold each Contributor harmless for any liability\nincurred by, or claims asserted against, such Contributor by reason of your\naccepting any such warranty or additional liability."
+  },
+  "versions": [
+    {
+      "0.1.11": {
+        "sha256": "c2401fe105cd6ee5d4d7c792812399317577317a7c6094562660b11ed82bf2af",
+        "url": "https://files.pythonhosted.org/packages/d7/dd/87495218cc92f7c6a591bd0db3042996344f16a21d52ca2e8c9608b26d89/mbed-greentea-0.1.11.zip"
+      },
+      "0.1.12": {
+        "sha256": "97c766ba8460f4f1b69fdca3adc88f4217648585fd73e82d834449ec129624cd",
+        "url": "https://files.pythonhosted.org/packages/cc/19/3973dee5a3f62bf082af72aaeda61c5b70a8ec3ba9aabc9a7af13ac234ee/mbed-greentea-0.1.12.zip"
+      },
+      "0.1.13": {
+        "sha256": "ceea749914af82adca88fe4bd020ded23d44107d39ca9eb0ff45df748137deaa",
+        "url": "https://files.pythonhosted.org/packages/3b/1c/549f7633378f6d9831fa0e44f0c3af41819834fdbc7136155715c622d507/mbed-greentea-0.1.13.zip"
+      },
+      "0.1.14": {
+        "sha256": "9083d4720e23d8e5232640eed47e8d9464102628369520adb62519769dfb6d25",
+        "url": "https://files.pythonhosted.org/packages/e8/ce/8afbfde663e20cec81dd5bd9d44507afbd2bf0302d958563a823911906d5/mbed-greentea-0.1.14.zip"
+      },
+      "0.1.15": {
+        "sha256": "225f18168e740b538c22df1822f051a6808f5895d0e60a2a175b420dd091ce20",
+        "url": "https://files.pythonhosted.org/packages/3a/83/324bda27c33f12a4d07813b81697c7c86fe8edd397ae6d6c2a72072b91ae/mbed-greentea-0.1.15.zip"
+      },
+      "0.1.16": {
+        "sha256": "d1b45cc6b0207541888ea28a999d9e92649b5ab0a8d10cbd032904dc12517386",
+        "url": "https://files.pythonhosted.org/packages/23/e6/3feeac42995b47a270ae7812b9063799b166391b14d1444e51c326e9573b/mbed-greentea-0.1.16.zip"
+      },
+      "0.1.17": {
+        "sha256": "1f3796ddd3fd9c9a648a70ebc386c64b385f3346f4c8134c21872797cff5b02c",
+        "url": "https://files.pythonhosted.org/packages/ad/cb/a89310dc71b961a297041a27b3ef344b1711f3a48c55bb31286d829f5067/mbed-greentea-0.1.17.zip"
+      },
+      "0.1.18": {
+        "sha256": "b1e32ae6ffd69cb36786d07de0664697981dbb5fe4fea5ec278cd1bb960cca90",
+        "url": "https://files.pythonhosted.org/packages/f4/c3/d95e1d0f69f9c6a3f81472183c682acdab1ca4594500ec493750364b3b70/mbed-greentea-0.1.18.zip"
+      },
+      "0.1.19": {
+        "sha256": "9c05604ebbd7625531302d8459b1998b917b7db9729ca04cb6a62562e11c0dee",
+        "url": "https://files.pythonhosted.org/packages/19/7b/9735f3d94edc4695457f94c9e28aeb90237c19507b69400294d95f7fbf89/mbed-greentea-0.1.19.zip"
+      },
+      "0.1.2": {
+        "sha256": "32dfe1fd69464fa74559ccb21a393c8f3d7a052b1d475e491dc28e402ea13a05",
+        "url": "https://files.pythonhosted.org/packages/a6/e4/3a247802fb6f4f0a6601114351c30d164bdb4f6bb878ab31e3ae2d0ae4ef/mbed-greentea-0.1.2.zip"
+      },
+      "0.1.20": {
+        "sha256": "b98ca783b8b413bc1a8353c98adbebd3c95387363ebf07d07094eac5c938f0f9",
+        "url": "https://files.pythonhosted.org/packages/6d/61/9197d2a654e81fffa182ad5d231117c8477f546829c8e4743ce1a743ddf3/mbed-greentea-0.1.20.zip"
+      },
+      "0.1.21": {
+        "sha256": "cdc0382915011563fdb76581de70eadb4e33e0a29966953a26399281eaa0121d",
+        "url": "https://files.pythonhosted.org/packages/a3/a4/e4c73fae21aa5868255c0ef1bcc2c83a2ae343b2dd4c3bea483fa048f70f/mbed-greentea-0.1.21.zip"
+      },
+      "0.1.22": {
+        "sha256": "53cd452fae9001a120df416dfd668ad393244ec041158db86ebf8d80d7d91225",
+        "url": "https://files.pythonhosted.org/packages/c8/1c/2a96c60d2bb141c95bb3a45b2731d0a50179f140e87b861f89490628e07b/mbed-greentea-0.1.22.zip"
+      },
+      "0.1.3": {
+        "sha256": "18b9197209e234134d9c80f5abec6d184a75625c3340b3014ce06685a84791ab",
+        "url": "https://files.pythonhosted.org/packages/0d/24/67d1a5afac07fe2d1d693bd1d9cbbce4f572f75aadc17dbbb7bba3d8eab5/mbed-greentea-0.1.3.zip"
+      },
+      "0.1.4": {
+        "sha256": "7a0b03f5d8fc2561877a47cf9e5666c9498488d5fbba2c7aae48fb1120b8ebf4",
+        "url": "https://files.pythonhosted.org/packages/3c/67/6cbacdf48969123f9741fd0d9eda7c5943c4754c9a70057ae1617ac1572d/mbed-greentea-0.1.4.zip"
+      },
+      "0.1.5": {
+        "sha256": "c1f0a22f19ef51db8e9a1de04f4cbe9c4c33db8614a95054a4d43fa0a4331321",
+        "url": "https://files.pythonhosted.org/packages/3e/16/0efd12e408ab0ae2458f65f9413d02f62563f1ce1c3b07388d231c23308f/mbed-greentea-0.1.5.zip"
+      },
+      "0.1.6": {
+        "sha256": "45ced39a3edf14953ec7f77c7f8dddd57d041370b7efb7279a75dcb2f4c597f3",
+        "url": "https://files.pythonhosted.org/packages/37/9d/08629ea2995f802cd5ed880620728d87695a515d34a7129a786065c3c97c/mbed-greentea-0.1.6.zip"
+      },
+      "0.1.7": {
+        "sha256": "e629d18416c783d3c3655cd4d1a479c6a1895f4e2c58fad78cd62b75cc1fa220",
+        "url": "https://files.pythonhosted.org/packages/8e/b9/b6c6afdef4daa3ed16bbcd3abc76ccd0185b7c1bc7ccc5494ee7b6eebce8/mbed-greentea-0.1.7.zip"
+      },
+      "0.1.8": {
+        "sha256": "27e0cae56e171617d01ead8b47a36fc652a5d70e175e359729a171439788de3e",
+        "url": "https://files.pythonhosted.org/packages/5b/17/54ef0335b0e20638accec40ed2df317503d518676d89b8297b870e66041a/mbed-greentea-0.1.8.zip"
+      },
+      "0.1.9": {
+        "sha256": "f7ba65188ca76e9b0efc83cfee19b04e0674505043ada784f4fc7c08fed7dc4a",
+        "url": "https://files.pythonhosted.org/packages/8c/13/167240dc139ec312cbd6687313301e198f6ba2940e0899a05aab9c67fc14/mbed-greentea-0.1.9.zip"
+      },
+      "0.2.0": {
+        "sha256": "373f3133342d4493490890e6a01fcfbe0f5548ee5497e269777d27fa88e67012",
+        "url": "https://files.pythonhosted.org/packages/e2/81/03cf90cffe7113c727d291d5ce4e4ef703f6654b5e66ce7e4fd9d1b15780/mbed-greentea-0.2.0.zip"
+      },
+      "0.2.1": {
+        "sha256": "859ceee5d2e3f12d1ab12c16d14f16ae2c6c16fd3b11a55e70accb842611feca",
+        "url": "https://files.pythonhosted.org/packages/87/1d/ebb3f02c06c5be98a7026d1abca4bc5ca700cd416007929a7400c8e98e26/mbed-greentea-0.2.1.zip"
+      },
+      "0.2.10": {
+        "sha256": "4f7a320423d81a274a5cc694b7641f9bf87634426a7715a9c997731c854389b4",
+        "url": "https://files.pythonhosted.org/packages/3e/51/02ff09dedef8db79e104aa0820dafc1df7f47cbe8a824064ae59a9e6ee68/mbed-greentea-0.2.10.zip"
+      },
+      "0.2.11": {
+        "sha256": "196e847ab3d9be14b872ac464d3b785f6cb5f4c70eac211356a81ca7fdff28ef",
+        "url": "https://files.pythonhosted.org/packages/42/56/3f5072555b71d77d8a51c869a299691df295216a9a15f4db8ae42e0cd412/mbed-greentea-0.2.11.zip"
+      },
+      "0.2.12": {
+        "sha256": "2a179e75387272457f5e91c425834783dbac069c25fa0fe9efa6bbb890369fd9",
+        "url": "https://files.pythonhosted.org/packages/50/ea/ec93abcf0a8243009b454506cd64ff931787b183a26b5257807ca1d550c1/mbed-greentea-0.2.12.zip"
+      },
+      "0.2.13": {
+        "sha256": "272ce076b4e35d8f7235a27fdd3e14fcc32d54be2fbbf8e522caa79cbba1662f",
+        "url": "https://files.pythonhosted.org/packages/de/9b/6009a51405d363ec2f60458fa2bceb06409a2349da199fb39744dbdc4100/mbed-greentea-0.2.13.zip"
+      },
+      "0.2.14": {
+        "sha256": "9574af4cfc9a75fdb7941d05c2b3087617608c29bd1aeee07b1e7a469a606d24",
+        "url": "https://files.pythonhosted.org/packages/84/ff/4b15a863e91f66cf13f53068a9c38959334968b750c9d885eda3c6a9182c/mbed-greentea-0.2.14.zip"
+      },
+      "0.2.15": {
+        "sha256": "1cdc3257623c341f29e89ae7c8939d30c8108f134b8194bb0e53fec40d09ba9d",
+        "url": "https://files.pythonhosted.org/packages/58/0f/0b639cd348082bc1115f08bacddf2a0ae32a463b0d8658debb21c009e465/mbed-greentea-0.2.15.zip"
+      },
+      "0.2.16": {
+        "sha256": "e93f2f8b078c19692f3d3410f387b786465c1bff98d6b4fd46d7aaec9a429c37",
+        "url": "https://files.pythonhosted.org/packages/bf/8d/f350bd1e81b0f56b1ada5adec37d330b5a393839b7cb9abeda2f21ca8b04/mbed-greentea-0.2.16.zip"
+      },
+      "0.2.2": {
+        "sha256": "4aa2e2559e743f8efb116b81857a78858402cad0089efb1aedca197d3a0ea2ee",
+        "url": "https://files.pythonhosted.org/packages/9e/fe/a7c069a61c21171462b9ba5e2b6e72e764cc84dc9867f517d4815b058e63/mbed-greentea-0.2.2.zip"
+      },
+      "0.2.3": {
+        "sha256": "963335fed4c72db0d37a56bb8e17ecd09dcead6b113d9d3d6cc42b8e4fead0e8",
+        "url": "https://files.pythonhosted.org/packages/b8/48/1de416d070e938610c9e6a2a62a466b1c541a9b1101bb980a453b4a90182/mbed-greentea-0.2.3.zip"
+      },
+      "0.2.4": {
+        "sha256": "adbf638d8896a30b771dc4342f1f1ad78a6c9f96a531507b7e395cdcc780545a",
+        "url": "https://files.pythonhosted.org/packages/b4/bc/97cd0d0d571475e78a738176b5e01691b99ff70915f34ce81cdf9c42e150/mbed-greentea-0.2.4.zip"
+      },
+      "0.2.5": {
+        "sha256": "e39c84dfe955b58431a966e1322ab6d08451a56ac52ac9d1dc6c8778fc6dcb75",
+        "url": "https://files.pythonhosted.org/packages/cb/f6/255148e94ba285a4a22b70e304b5b6d2737f16f6846333bfc17d3ba66bc1/mbed-greentea-0.2.5.zip"
+      },
+      "0.2.6": {
+        "sha256": "edccefd607372729ff6b9c4c944c8da321e77297da3ffeeedca7861e4ad81af9",
+        "url": "https://files.pythonhosted.org/packages/ee/20/8e1473600833949c3879e591ac989d348efe24d61ec55e244a7fa129ccfc/mbed-greentea-0.2.6.zip"
+      },
+      "0.2.7": {
+        "sha256": "ab40028c476dc81d485cabcffc719b43da6b360d9aadf37bbc55b0e6d90153df",
+        "url": "https://files.pythonhosted.org/packages/16/5b/6f6b968ea7de2772d8cb75b50ce864787a541fdf1434f79d1369bbee2880/mbed-greentea-0.2.7.zip"
+      },
+      "0.2.8": {
+        "sha256": "ae3a2b5b82488f0b7a930ec6add9f2126b60652866e3ff21d5e20ef086f5bc8c",
+        "url": "https://files.pythonhosted.org/packages/37/e9/6b6710b553266e38bcff0c6461e9312b20a651f6a6559db3734d68757d0c/mbed-greentea-0.2.8.zip"
+      },
+      "0.2.9": {
+        "sha256": "476c58b41002459bd0dd9e1f84726c3748c8145bb442fdc0a84ff8c5b44a6fcd",
+        "url": "https://files.pythonhosted.org/packages/40/a8/71b62adb40459630fd8df1b92075626e64f86c5a6d912d5c1eb84aa5b7bd/mbed-greentea-0.2.9.zip"
+      }
+    }
+  ]
+}

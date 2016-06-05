@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Multiple argument dispatching",
+    "homepage": "https://bitbucket.org/coady/multimethod",
+    "license": "Apache Software License"
+  },
+  "versions": [
+    {
+      "0.4": {
+        "sha256": "30848df6a30cd904559430bfd001e97a385f4642d2bde1ca2ebf61c9582682ba",
+        "url": "https://files.pythonhosted.org/packages/50/ce/df57c06de38fc75f53548d96a62daafb9e84c4f82c1e2b682760ce0d20f3/multimethod-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "2ddba71265cb51dfd3d078b86b2bf57d47426ccf810bd2a695dfcce75526083d",
+        "url": "https://files.pythonhosted.org/packages/c1/3c/65ea1ca4f580ec9224c4d0c85cba9b0b440971e2aea147cbbb1c8115681d/multimethod-0.5.tar.gz"
+      }
+    }
+  ]
+}

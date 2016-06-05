@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Embed the V8 Javascript engine into Python",
+    "homepage": "https://github.com/nitely/v8-cffi",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "29dfa6585297cf62d37d723388d5664d15eb3a60693a610dd80d8e108cbb5fcf",
+        "url": "https://files.pythonhosted.org/packages/a1/ec/8ef89995e1d89bcfc34dd74858ac0e57c87e6345cabd49d8c3c0ed55e3b0/v8-cffi-0.0.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "95f94d04c8ddd1500c560024eedcf5ab43c30c237eb2f5d28f5738971177fcbf",
+        "url": "https://files.pythonhosted.org/packages/01/e3/69cfdfd2ddca93694e98e09200697454bb4fce1500eba23944caca74e219/v8-cffi-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

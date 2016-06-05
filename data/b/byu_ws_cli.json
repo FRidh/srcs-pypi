@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.9.9"
+  ],
+  "meta": {
+    "description": "A command-line web service client for calling BYU REST web services",
+    "homepage": "https://github.com/byu-oit-core-appeng/byu-ws-cli-python",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.9.6": {
+        "sha256": "9d3f87c71f702b6ccf4664aa9e65aa2869e073073eff3c4df51d8aaeb4d45d0f",
+        "url": "https://files.pythonhosted.org/packages/e9/5e/f37316fba14715369ae72db2146684438c62a979182355bae056f22e5ed0/byu_ws_cli-0.9.6.tar.gz"
+      },
+      "0.9.7": {
+        "sha256": "10905b94defb68c48cf7b5de4654d38f083f76ade2da710a423fcba6e32ba95f",
+        "url": "https://files.pythonhosted.org/packages/3b/6f/3a7a3f924ab6d9c9821ee901f4cafbfd9392f3dfd41aa3cf54c293b821fb/byu_ws_cli-0.9.7.tar.gz"
+      },
+      "0.9.9": {
+        "sha256": "458c2bfb308ee0542c616c5b2538bedaf6b619b6800bebc21465d38d7c51d766",
+        "url": "https://files.pythonhosted.org/packages/b9/03/f832bc9554705e7af746204d5bef823bf80edc331532c71c54a97d2fb4a8/byu_ws_cli-0.9.9.tar.gz"
+      }
+    }
+  ]
+}

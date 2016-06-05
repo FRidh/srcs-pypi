@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Standalone/WSGI U2F server implementing the U2FVAL protocol",
+    "homepage": "https://github.com/Yubico/u2fval",
+    "license": "BSD 2 clause"
+  },
+  "versions": [
+    {
+      "0.9.0": {
+        "sha256": "aa5af928f8a79ba30bf71f9a7ce89ed875724cb22ea4a184daabd02e8f593c63",
+        "url": "https://files.pythonhosted.org/packages/65/79/0ec69977005f07aadc409eb655d8da79a72db641174dd50848dd16cc7b09/u2fval-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "5aafef0b678478295a985fffa109bd579ca890ef42743ae6ed1c411b813f35dd",
+        "url": "https://files.pythonhosted.org/packages/c8/3d/0dc7157d2e1f44fc9dca64fedcd1915657c978184e818b46e640f98bdce0/u2fval-0.9.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "511c910df5309c1a3148fb426d3f3c9da73441008117816c98b72ec9b66441d3",
+        "url": "https://files.pythonhosted.org/packages/00/f9/37282ed8493638101fc247260f70560cbca43d6f7ff88076a6204eb03e47/u2fval-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

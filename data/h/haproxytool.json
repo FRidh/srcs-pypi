@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.5.3"
+  ],
+  "meta": {
+    "description": "A tool to manage HAProxy via stats socket",
+    "homepage": "https://github.com/unixsurfer/haproxytool",
+    "license": "Apache 2.0"
+  },
+  "versions": [
+    {
+      "0.5.2": {
+        "sha256": "596c1bd6d6fe04a13263e030fcbd243404206639db81cd1f732b74ed2f0f6d58",
+        "url": "https://files.pythonhosted.org/packages/38/74/50ad637a5b35e9b904f7832751720915a5116bd97c94aee95fa75f5f0349/haproxytool-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "b93aa65a560c12e317a523870e0b7ed44a4fa8a7fe14bfdd15058c86f801be49",
+        "url": "https://files.pythonhosted.org/packages/54/44/96aa0fac9e663e06e65bef4e822cd0d09f1dd3f3bd5bad2011ae3868535e/haproxytool-0.5.3.tar.gz"
+      }
+    }
+  ]
+}

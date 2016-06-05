@@ -1,0 +1,174 @@
+{
+  "latest_version": [
+    "0.7.0b16"
+  ],
+  "meta": {
+    "description": "Developer beta only",
+    "homepage": "http://openrem.org/",
+    "license": "GPLv3 with additional permissions"
+  },
+  "versions": [
+    {
+      "0.4.2": {
+        "sha256": "ff8d1566f32de588eb9966375d119e1400d4b10e7df760c518e2b88ae527b8f8",
+        "url": "https://files.pythonhosted.org/packages/5c/2c/a5da942d365b01366f957d4f8ea72af6e3163efa6d2093c27e09eb947520/OpenREM-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "2ea1c5e9d27744568b46293a5be1f1c4aa1cea61d3210ce016219fa09918e8db",
+        "url": "https://files.pythonhosted.org/packages/09/1b/932713db0b72fbf8c01c062bd6d517987f81285fbac42f9bc70c6c548833/OpenREM-0.4.3.tar.gz"
+      },
+      "0.4.3b1": {
+        "sha256": "2be8da003cb088b673129681cd140b88f0bbbdad9137a799aab550b2e249ed83",
+        "url": "https://files.pythonhosted.org/packages/66/b2/a7dc4e4ea7221b432598edfc1ff5666944d81cf0151cd2c9582a35bacc07/OpenREM-0.4.3b1.tar.gz"
+      },
+      "0.4.3b2": {
+        "sha256": "27f0bd9718a5f7f6898b6d4c75349a0123ad511fed2e74dc997336ad1880625b",
+        "url": "https://files.pythonhosted.org/packages/b3/ac/d5648f0b4db51ed2738b4aae68c256b14589e1991a75ecf5f108a5902335/OpenREM-0.4.3b2.tar.gz"
+      },
+      "0.4.3b3": {
+        "sha256": "5b77a5bbde729c658f82a95cfb2b753f0a9f78a66b6ce52e0b0452e2d8abc8a3",
+        "url": "https://files.pythonhosted.org/packages/cd/01/7e75e98567a7b3598818d7fe3de74d79dd67b6946bfbca0c2aea3eeec9af/OpenREM-0.4.3b3.tar.gz"
+      },
+      "0.4.3b4": {
+        "sha256": "d812cf51de6582835f5c056de3d9c65bbac135cec89600e1ab75c7ac44d5aac4",
+        "url": "https://files.pythonhosted.org/packages/d9/99/234d62ebc4df33c5a67e6b7bbc0dfb2315cdd60561d25ebc40d06d45d62c/OpenREM-0.4.3b4.tar.gz"
+      },
+      "0.4.3b5": {
+        "sha256": "8a2fa19b1a4cf32d78d8e7d75e40eceaaf5c6a784dbb56138b7ff1e9a1cc8eb6",
+        "url": "https://files.pythonhosted.org/packages/20/a9/eb72227e930bd28675e60c27400ba84084b77d5abe2e1e3f1ee227dec72f/OpenREM-0.4.3b5.tar.gz"
+      },
+      "0.4.3b6Celery": {
+        "sha256": "7a544db44f86ebfd3f9622df087c16758473df0eaa265b355d29ce2a74ebcec0",
+        "url": "https://files.pythonhosted.org/packages/d2/b9/00463b1141649fc156201ebd7a075d156d5e077303574ff3ad8c8b14827b/OpenREM-0.4.3b6Celery.tar.gz"
+      },
+      "0.4.3b7": {
+        "sha256": "b25c0c62fffd9fb9c54ccb0e59e1443d4495c86634cfbe58885aef8239d61052",
+        "url": "https://files.pythonhosted.org/packages/79/0d/221051425a6378809c282965d78e9222a31a77da038888631bee35482f1e/OpenREM-0.4.3b7.tar.gz"
+      },
+      "0.4.3b8": {
+        "sha256": "fb94628dcdbd0caf0fafb874ed8ea479d31cd26e7ff5467c13ec92fd300476da",
+        "url": "https://files.pythonhosted.org/packages/08/ec/5f70e603c7b2a6b537a82b41cb0edf46d5718fc8dd0899dc9228c640481b/OpenREM-0.4.3b8.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "c0c329366ba8419e0c41bf088a1913a19fbfee1c1c447b2156c802a6e33d8f0c",
+        "url": "https://files.pythonhosted.org/packages/46/cc/acb4c226fefe5230ce6c683b9a961ed603e4e28f3143209b3ff042001b8a/OpenREM-0.5.0.tar.gz"
+      },
+      "0.5.0b1": {
+        "sha256": "6ef283afefc3c35be3107559fdf4796872005c584f39d7a21cefe56e04e9659e",
+        "url": "https://files.pythonhosted.org/packages/71/1b/66eb453a6baffc76a9e1a3ec1aeaa6dffb1d57b662e5c557da529778a668/OpenREM-0.5.0b1.tar.gz"
+      },
+      "0.5.0b2": {
+        "sha256": "0f7aaa2fa22f6d70b57c283ed52307e796f4322f9262bf24cccd8efb536605d9",
+        "url": "https://files.pythonhosted.org/packages/12/7d/efbdfba6f2e890970184a6b126fab290762c267abe1f84b4e6f0154d493e/OpenREM-0.5.0b2.tar.gz"
+      },
+      "0.5.0b3": {
+        "sha256": "6b107fc50f7ed06c77c2ae5487b38627df59b9600aa11b4e85e6d9c6e91ada31",
+        "url": "https://files.pythonhosted.org/packages/89/e6/c5665798adb48fb28b2cb05c5c2f1f6ad6be0cd1db594a2c9f6964dff8b2/OpenREM-0.5.0b3.tar.gz"
+      },
+      "0.5.0b4": {
+        "sha256": "d5e94cd380d35e1b6eb62bb65524d41a6e8eba7e5d6a0aba38abfaf637ed11dd",
+        "url": "https://files.pythonhosted.org/packages/0a/dc/da883343d5310cc00d0b40eb8a09d34eea78bf3974a1ad7c60de964761c4/OpenREM-0.5.0b4.tar.gz"
+      },
+      "0.5.0b5": {
+        "sha256": "4ee99cfe8dce4e9571599e9c772acf3b75b166df823c99664d9e085dc52660ed",
+        "url": "https://files.pythonhosted.org/packages/50/5b/1072243826dfc4e3da08789f21d9516ef253e841b66d7b98ae360b55bd4e/OpenREM-0.5.0b5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "25821a19405099f82a26ba0556c52b8b57a0f16d4f5faff1add01008d7038e22",
+        "url": "https://files.pythonhosted.org/packages/35/7f/990d34031fba8ffe3b500dbd7fe7e16ca866998c33258b29480fc05a9517/OpenREM-0.5.1.tar.gz"
+      },
+      "0.5.1b1": {
+        "sha256": "3b22f88d40315f73c322ae67417a59b0a8236794d6587702a7ed24e58ae8df25",
+        "url": "https://files.pythonhosted.org/packages/1a/75/b520053309edc43ef3ce32bb3c6ffad470e5bd37bdd1a7974ec4595ade8d/OpenREM-0.5.1b1.tar.gz"
+      },
+      "0.5.1b2": {
+        "sha256": "ab6a9b46630278f6a4fdc165b4c697fcd5b84e98ca7e72144b8cafb486847f7a",
+        "url": "https://files.pythonhosted.org/packages/25/91/3763e18943c0ffc3cae24ea07c4e313a30ebca7fff9e19cc067c17cb73f2/OpenREM-0.5.1b2.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "c08cccad68e3cff3a23fef1dcab603baa2979100e311526ef85d5d0042c497a5",
+        "url": "https://files.pythonhosted.org/packages/ab/05/06ae1eb6a0d6e7ff90bb6587fc76a477af47e7a064bebf96c69586edc1ac/OpenREM-0.6.0.tar.gz"
+      },
+      "0.6.0b1": {
+        "sha256": "13f54648f8cad5cccd329659d8a2bf96d72c0877b5d3e96324433f3ef3cca293",
+        "url": "https://files.pythonhosted.org/packages/17/43/a59fa4ade299efb761bcfeb9d6fb298675d2bfe9994170856d85c397acc9/OpenREM-0.6.0b1.tar.gz"
+      },
+      "0.6.0b2": {
+        "sha256": "bdf3180d31a4d3bb0abf3e245a9e1ecd0c83ab6f4c9d1d4a9d4617110901f328",
+        "url": "https://files.pythonhosted.org/packages/0b/92/8c862baedaa9cb4c5ddf96203ac7f0ee3b435969fbdc3c99eae74067a021/OpenREM-0.6.0b2.tar.gz"
+      },
+      "0.6.0b3": {
+        "sha256": "a158cbffc646ed20d8d3a814acf167b6e9d0ddb59bec058af30e41ed34354403",
+        "url": "https://files.pythonhosted.org/packages/80/05/0817304f25e6b2b437adbb7d7cbc77d0f49833285a30267dbb3a4cfb29a2/OpenREM-0.6.0b3.tar.gz"
+      },
+      "0.6.0b4": {
+        "sha256": "cae9157edb6561293234479ae936bf70c7781e5ee9f41a2c8c48ccaa5361f8a1",
+        "url": "https://files.pythonhosted.org/packages/82/ca/14f9bb647a2e70e546c3b4d1fb2e1e99e1522fc32808adb23e401ae77ada/OpenREM-0.6.0b4.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "e212eae7ee3ced4f39137cf0286e1206e31bae2c469a83f348c84a63b68d364b",
+        "url": "https://files.pythonhosted.org/packages/d2/e7/0837bac2ff961497924b4f0f13cc656f34f4013b3779a1e8f3edcfe43ad6/OpenREM-0.6.2.tar.gz"
+      },
+      "0.7.0b1": {
+        "sha256": "1e7626207ca177b8a5c9ccb041cf710b4cd5f6991f59500621821e14e043cdcc",
+        "url": "https://files.pythonhosted.org/packages/0c/56/2d9a67e9a3eeddbfdd8935bf3e297613213c3e9035492e8706bea0fed468/OpenREM-0.7.0b1.tar.gz"
+      },
+      "0.7.0b10": {
+        "sha256": "6343da0aa712fd15f067cd4bf35e44470662fe1ac1d4fde87cd6e779d632e60e",
+        "url": "https://files.pythonhosted.org/packages/5c/62/659d3d23d22d2f5316b699223969035fd003c6a8620645459608af53e3bd/OpenREM-0.7.0b10.tar.gz"
+      },
+      "0.7.0b11": {
+        "sha256": "31367f85a52a497c55466445b3bfac3f5bb440f7dbfd50d81d87a1ddd1d2de8a",
+        "url": "https://files.pythonhosted.org/packages/95/5a/5feb6ae7c2c98b768471720d306936268c38db27005ed0e9cf2c5f9421cc/OpenREM-0.7.0b11.tar.gz"
+      },
+      "0.7.0b12": {
+        "sha256": "72aa5afd889cc02c7ea7c54f145a32f373f15e593b85ee4aa2e1646f08fbacb5",
+        "url": "https://files.pythonhosted.org/packages/ad/7b/236fe6288a54808cda91116451f978ad01abd6394fb8e1da6c4564b45053/OpenREM-0.7.0b12.tar.gz"
+      },
+      "0.7.0b13": {
+        "sha256": "52f1f00df1edf789af8a501487898d182fce77a475de6cb0100eb88b91367885",
+        "url": "https://files.pythonhosted.org/packages/af/c0/4317d1e3c6e86bcbf7179f4014352bacb717dc8d0b9f96453ceaf9be5f4a/OpenREM-0.7.0b13.tar.gz"
+      },
+      "0.7.0b14": {
+        "sha256": "2a1843e25b8c677abde1cb6c0d90d189e767ebf87ebf2ae08f3095d32f001a5b",
+        "url": "https://files.pythonhosted.org/packages/a0/ba/d657be0cd0813919d7cbd3aea7386958ffdd0b63cc8ca5b91de23adee36f/OpenREM-0.7.0b14.tar.gz"
+      },
+      "0.7.0b15": {
+        "sha256": "ed882dd9808e35a0337e1a05843f21bc8a757014a088c355ad9ed6510f2a1c83",
+        "url": "https://files.pythonhosted.org/packages/f2/2a/809cefc6a66458706b9e7b015d885da2671e5996d47e923dad7c1378f31f/OpenREM-0.7.0b15.tar.gz"
+      },
+      "0.7.0b16": {
+        "sha256": "f2f4f8cedc697324355709194b4835741a0fac9c652d4497696ab9a16791a353",
+        "url": "https://files.pythonhosted.org/packages/f6/23/642481cb6d9ac1e829b3077fc4661e75c1ed15282dc340065ef44ad0abe5/OpenREM-0.7.0b16.tar.gz"
+      },
+      "0.7.0b2": {
+        "sha256": "40e62a80ee753a3ffcc74ae09f90eb9b35eb3df6049bde364206428b808c1152",
+        "url": "https://files.pythonhosted.org/packages/4e/7d/b7c41e0355b38c891ab4294475773ed47e8ffee0b7e72705d4e0454ff34d/OpenREM-0.7.0b2.tar.gz"
+      },
+      "0.7.0b3": {
+        "sha256": "15ff6604d84e981bea63d7fc09c1de7bbed9c112a31864b761e26c25fe266645",
+        "url": "https://files.pythonhosted.org/packages/ea/0c/18cfb1143d74a4faf605a5a1c29beb0ad95dc4d0b5d0bdae43cc0d80f9b6/OpenREM-0.7.0b3.tar.gz"
+      },
+      "0.7.0b4": {
+        "sha256": "93f48576b32562b53136f2c609791d93ff72a933bb5db5681881d6991edac726",
+        "url": "https://files.pythonhosted.org/packages/bc/52/66ac0da4a3573bad3589603c0e9f8db96091bec36ebdc2c28d20ed8bb1f1/OpenREM-0.7.0b4.tar.gz"
+      },
+      "0.7.0b5": {
+        "sha256": "4c3dd70b6df78a38f5156786cafdab908c2bf9da1d44042c79425a192339699e",
+        "url": "https://files.pythonhosted.org/packages/12/52/b3f5732d61d11e82e2d0f47a16df49c6e94a04ad04c866c22ac098b4d6f1/OpenREM-0.7.0b5.tar.gz"
+      },
+      "0.7.0b6": {
+        "sha256": "78ec796976bbc1c2a06f1542ce68189654f4c52990e233fa1085b3d5efe6b1b3",
+        "url": "https://files.pythonhosted.org/packages/db/73/b073d78228f7ac0c7fc3c7bd158da24941d83ca8ebcdc29f69af4024fa4d/OpenREM-0.7.0b6.tar.gz"
+      },
+      "0.7.0b7": {
+        "sha256": "36f295dcd2143350779bff14a404d988b10349988df7cbad207dec69171aec6c",
+        "url": "https://files.pythonhosted.org/packages/71/6e/2e25b22324041b7ee4e888296daf97f7c3b415935b5adc073ba24b295acf/OpenREM-0.7.0b7.tar.gz"
+      },
+      "0.7.0b9": {
+        "sha256": "666776d26d1f1090a2fef1690f53e7000aff2deba302fcb2a862516b4cdbcbbc",
+        "url": "https://files.pythonhosted.org/packages/7a/15/ba5d37ac23ce1cfda4742832423287800e6d11513adbf9fdce2c1c6a9f56/OpenREM-0.7.0b9.tar.gz"
+      }
+    }
+  ]
+}

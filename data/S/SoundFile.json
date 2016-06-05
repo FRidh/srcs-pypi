@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.8.1"
+  ],
+  "meta": {
+    "description": "An audio library based on libsndfile, CFFI and NumPy",
+    "homepage": "https://github.com/bastibe/PySoundFile",
+    "license": "BSD 3-Clause License"
+  },
+  "versions": [
+    {
+      "0.8.0": {
+        "sha256": "5df27a689e4b448c6d510617655c718f48fdc8cb8d04abace804b4e02e059ac3",
+        "url": "https://files.pythonhosted.org/packages/ce/5c/53a1f32e43f54b37b91f144adf48f5ca158a0a9492d8f93feae06d308425/SoundFile-0.8.0-py2.py3.cp26.cp27.cp32.cp33.cp34.cp35.pp27.pp32-none-macosx_10_5_x86_64.macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.whl"
+      },
+      "0.8.1": {
+        "sha256": "fe189a852befa99927dd47d2723f8a5187a46d802368650f6eea104683653ed5",
+        "url": "https://files.pythonhosted.org/packages/02/f7/310ba710f3a653c342b6ab2cca81a154dac2ce7919e65d385c9198276619/SoundFile-0.8.1.tar.gz"
+      }
+    }
+  ]
+}

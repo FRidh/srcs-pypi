@@ -1,0 +1,82 @@
+{
+  "latest_version": [
+    "0.7.1"
+  ],
+  "meta": {
+    "description": "ZeroMQ integration with asyncio",
+    "homepage": "http://aiozmq.readthedocs.org",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "b5f4f05e6eeaba1f5fb9ae352580e5796bee601c863099e84f761d90cafc421c",
+        "url": "https://files.pythonhosted.org/packages/4d/72/864d11d0390e16cc908630be75a3929de015752959a6cb58b46f3eaca85f/aiozmq-0.1.0.tar.gz"
+      },
+      "0.1.0b6": {
+        "sha256": "c935d50afa37ee7a9a5b9395833e4218419e3049aae83b1b708a524e69af7354",
+        "url": "https://files.pythonhosted.org/packages/6f/e1/3b5387bf8fb08b2c0dc68ebf30b8a1acd902ed129885475475e7cc61358c/aiozmq-0.1.0b6.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "65c6b4d9955963ae85caa6829866e72a014428fa7e76c425b58f914f6b30d86f",
+        "url": "https://files.pythonhosted.org/packages/96/67/9bc4493f9c79a233dec602e56fb4dcad05f1b81b970938b6b1aa4481586f/aiozmq-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "bcc7129aad902ed0738b5e924e482ac04e1d0d57d5db693cd0c6270ac7918289",
+        "url": "https://files.pythonhosted.org/packages/24/a0/7a88d2842168d7d0e1eff118164673752bee513829b4737bce704c2557cf/aiozmq-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "2a7a75f7fb2ac2105738ec5cee78efae5f00b96b2f98d0f4ecba6dbc87b14555",
+        "url": "https://files.pythonhosted.org/packages/1b/c8/f4ed9d12efe9339bd18c7139d5d49c1fc55abeb7bfaa6b141651635264c5/aiozmq-0.1.3.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "7b1c19c6624a942dd2266bc61aedcad463d02797fbfd2cd214500586708d9953",
+        "url": "https://files.pythonhosted.org/packages/22/33/c61e56bcd03840c7f6c585933894484f95e239eede246ce55fd199cea70f/aiozmq-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "76b574b582ed6d5771c7e8a56e548d1371778abf14e335c4214bed986c01b616",
+        "url": "https://files.pythonhosted.org/packages/65/a9/65a676cfea2534de298905ac1b5e9ec22ccc4ea2a8951c9db92d2fc54301/aiozmq-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "84da84d515532f592bcc0edf725ff060eb282206a76c5f177dfdbd8fb27c7889",
+        "url": "https://files.pythonhosted.org/packages/15/e9/185919f79241ad2938590ac6ce5a50425ee2a180da6881a71746c2ed6279/aiozmq-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "a8f2ba36271cc8170305aa6dcf24cea957b9faf9ad70bcbe94b50f2dac97c182",
+        "url": "https://files.pythonhosted.org/packages/65/c3/e1dccb2b760dce32b76460b36044b29e914755caccbb5108b6e6ff2fe81d/aiozmq-0.4.1.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "ba141bed0a2a153e7be8792125db297500fa0583be52cfc92472b9c8ff5d6758",
+        "url": "https://files.pythonhosted.org/packages/50/2e/086034bdf5536cb5524823606fd1bb636a298f3cbb0d0db6cff1a3d89d9c/aiozmq-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "fb5486ab79f33ed74032e85ea018a3d8cb6bc8c4cd108819715894d9d0912b12",
+        "url": "https://files.pythonhosted.org/packages/54/2d/649998b607e200adac32a86fcaba0f3e6a69c12f44d11c0c5d1e870b8e47/aiozmq-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "d43f7622153300ed834d625ba1b77d7adf496b66b5faa5e657ae42c6dc376743",
+        "url": "https://files.pythonhosted.org/packages/d4/72/9c83aefbc972f1ff971b41d1f123de4f68592bb13c0806af29c8a2d27d44/aiozmq-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "c37a7e49f324bb3842673e916ebeaa3f37890914fa9f2c8ea267d7d1fc7ca28a",
+        "url": "https://files.pythonhosted.org/packages/14/77/a6812e7e6a3326e321f921f01c42eb19095c78ddc231f8ef33b59cf950b9/aiozmq-0.5.3.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "0113e04a075aacba189ee465cb9e4b7ed74e479321234239a301eb6852b6e759",
+        "url": "https://files.pythonhosted.org/packages/67/e1/108fa5f0f876001f7ced911fcbf59256daa8d3234389ac4b3f9886e62cab/aiozmq-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "8bf1e82ee4d37dedad1685aaee0e24995ceb0b9e812398486553712f3201f2a5",
+        "url": "https://files.pythonhosted.org/packages/b9/ca/9b2fc08790d079beaa81a772555f5847d0bebb551eb4342d8f34a971bc72/aiozmq-0.6.1.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "1c4ee6ad195ca784f442cc94731faa45589835de572385e0683396f3077e27b4",
+        "url": "https://files.pythonhosted.org/packages/6d/ab/f1e91cb0a76a9e2a4a519db0aaf03f96adcce4706aa5a5b150c732bf1011/aiozmq-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "b41d589a715acc0d42b525ef7084bbcdc03c986ef5a90e212ee7f086125cf6c0",
+        "url": "https://files.pythonhosted.org/packages/e2/8b/319fc94958c387c8ed8ad03b7f235df58a0aef484d74959d10c4e72a750c/aiozmq-0.7.1.tar.gz"
+      }
+    }
+  ]
+}

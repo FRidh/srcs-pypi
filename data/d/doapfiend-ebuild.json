@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Doapfiend plugin. Create Gentoo Linux ebuild from DOAP",
+    "homepage": "http://trac.doapspace.org/doapfiend/wiki/DfEbuild",
+    "license": "BSD-2"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "8c283be29e5e59338994d4c621ae24b10a966b29fa59fc33e2d29b01a719f317",
+        "url": "https://files.pythonhosted.org/packages/9e/f1/3727a15285c1c2e8fd8e2b08d2e44bfefafb2e4fd0f8d04a91e0fe45d124/doapfiend-ebuild-0.1.0.linux-i686.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "1226b955ce86f54677e32d5ddd805a2facc7f055ea0ca4d57affbc85588296ed",
+        "url": "https://files.pythonhosted.org/packages/a4/58/f70936c2c820b898b12c8c429eb3474903dcfcdfd3951c158250d923a1cc/doapfiend-ebuild-0.1.1.linux-i686.tar.gz"
+      }
+    }
+  ]
+}

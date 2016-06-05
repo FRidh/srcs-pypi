@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "0.15"
+  ],
+  "meta": {
+    "description": "A Python wrapper for Rapiflash (Real-time Alerts of Potential Increases to Flood Level for Avoiding Significant Harm) which allows developers to gather river water levels from around the world",
+    "homepage": "https://github.com/devinmui/rapiflash-api"
+  },
+  "versions": [
+    {
+      "0.15": {
+        "sha256": "43266190e1fa103df4183827bc0f9c79e50ac1d39e37bebdb7e0ba32863235d5",
+        "url": "https://files.pythonhosted.org/packages/46/61/c6334c2858be658030c18f425016df0989063228dfee2690798642f8dc42/rapiflash-0.15.tar.gz"
+      },
+      "0.2": {
+        "sha256": "9a85088dfdc2010cc07c8cac909d392236fd0045be9a87364dd4b068bc44190e",
+        "url": "https://files.pythonhosted.org/packages/10/f6/5e405477af2b338ef3e0a765831b192fc6e171cbd6b69fc25f5b9838bab6/rapiflash-0.2.tar.gz"
+      },
+      "0.4": {
+        "sha256": "90661346dd3983343134d4862c0209c7aac9e537d7804ed1b99d1f1a44e10af0",
+        "url": "https://files.pythonhosted.org/packages/ea/0d/112a09ffbebd064601dfcce6be69c71438cc9cf285026bf8793320ced0c4/rapiflash-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "392b5ed1483dd04fdb81344db5d59e1f5a7e8ce86224e3cffe4b6f50e7ed8f45",
+        "url": "https://files.pythonhosted.org/packages/2f/86/dda16975af480eb3a4b7724f6ea3553acbdd31b47108f0ee9d4f63d00475/rapiflash-0.5.tar.gz"
+      }
+    }
+  ]
+}

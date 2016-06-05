@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "A django app that allows users to create contact groups and contacts, as well as views for displaying a contact in hcard format, downloading a vcard for the contact, a gravatar, and a QR code",
+    "homepage": "https://github.com/iiilx/addressbook",
+    "license": "BSD license, see LICENSE.txt"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "e84e07903d18b4ddf903814917628bc787b04d856417919d3afce26a16e0a2e0",
+        "url": "https://files.pythonhosted.org/packages/74/e8/8b3e26c6f3416732d807213305e9cd9b5ff4d96d70a417617837dd0db234/django-addressbook-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

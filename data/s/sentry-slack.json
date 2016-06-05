@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.5.0"
+  ],
+  "meta": {
+    "description": "A Sentry extension which posts notifications to Slack (https://slack.com/)",
+    "homepage": "https://github.com/getsentry/sentry-slack",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "63d5201b79d088abe0c71c835041a4e178c87e47c2ff67277933b4e988da7c09",
+        "url": "https://files.pythonhosted.org/packages/79/79/d3807396a473049cb3c8932bd855ff83ee176461644aa216d74b1cd3c7b9/sentry-slack-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "4a75f29868e04c1fc453156e41a45e6d1490209bf0b4c6dd9b6a2b9eddd5a912",
+        "url": "https://files.pythonhosted.org/packages/7a/ff/a36c8f6d043db95103149c6504a018636a5d726cfd22b16a394834c0487b/sentry-slack-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "264470e09f193202b2ceb33489a3f30d80c98e7a6659fe7649cab07ebf68880a",
+        "url": "https://files.pythonhosted.org/packages/6a/68/22d9bcae9c45036dd8ff084f5a83ed4204f29c58a6a94b5afb26eb781b8d/sentry-slack-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "65572a629c6fc8fe21c053e6c910a37f9ae84fb89ab96df2504e432bc25fec9c",
+        "url": "https://files.pythonhosted.org/packages/f6/e9/29d4bda87ad2b292cd2814934add1693a80b0012ff617a2001287c2711a4/sentry-slack-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "0fa87bb33bd3e50e505b8f0c9c42ed9d15b3821d80025ab78d822c1e43554f98",
+        "url": "https://files.pythonhosted.org/packages/41/db/731132a192183c667c389eee0e91d6f05015e9e73814284b73ed613c13a7/sentry-slack-0.5.0.tar.gz"
+      }
+    }
+  ]
+}

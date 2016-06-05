@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "import this in ipython and use pip magically without ! and correct version !",
+    "homepage": "https://github.com/Carreau/pip_magic",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "b0df03dd986def17d244f07f3c1186e90398eecfad0077778b485f951292b6d2",
+        "url": "https://files.pythonhosted.org/packages/d4/06/5752b277382b1539b9eb02a6c8bbae6f48dca4280673391dffe56e770bd1/pip_magic-0.1-py2.py3-none-any.whl"
+      },
+      "0.2": {
+        "sha256": "ebe01024bedb53c57bd6028a07a1bbfe495edb7045f9799c8e1bd1b2bb79fda2",
+        "url": "https://files.pythonhosted.org/packages/8d/e8/2761285d8015cfe465e91f9ac89d0ebadb1479f48936426b0886e48848d4/pip_magic-0.2-py2.py3-none-any.whl"
+      },
+      "0.2.1": {
+        "sha256": "75c3e34a25d71ce7ee6349f9c819be83ff5df8a0b6f9104b774691678b2ee03b",
+        "url": "https://files.pythonhosted.org/packages/59/4b/554b99ec2c3529150ebd3075c81fdd5e4621209b0747a9127924ab8071ee/pip_magic-0.2.1-py2.py3-none-any.whl"
+      },
+      "0.2.2": {
+        "sha256": "dcaa4f56a3361e0448c0170c3d1d7afa20b3bd1b51fd5a4aaf299367508106f1",
+        "url": "https://files.pythonhosted.org/packages/4a/8c/376b96d220a844eb986bd3bc3b3bbd9c32c4cce38f32575975db40c766ed/pip_magic-0.2.2-py2.py3-none-any.whl"
+      }
+    }
+  ]
+}

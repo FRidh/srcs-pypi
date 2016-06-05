@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "3.0.0rc1"
+  ],
+  "meta": {
+    "description": "Tending your Elasticsearch indices",
+    "homepage": "http://github.com/elasticsearch/curator",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "1.2.2-dev": {
+        "sha256": "2f62e6a186610aaf62cde41d895445d201730fe8251fdcf43d7a2f45855a9ac2",
+        "url": "https://files.pythonhosted.org/packages/e2/7a/6ae54c78c218ee40a496c80f2e0b1dcdf9927510ec372bdb0de847703612/elasticsearch-curator-dev-1.2.2-dev.tar.gz"
+      },
+      "3.0.0-beta1": {
+        "sha256": "51d9cb89dc7736a22ccd509648a78ed4d535323fd6ddb244a08256e2ad508ae0",
+        "url": "https://files.pythonhosted.org/packages/22/83/361d5e65a9fa015f45db806647b172938cd00ee3fbb06908a4b7788ad8b0/elasticsearch-curator-dev-3.0.0-beta1.tar.gz"
+      },
+      "3.0.0-beta2": {
+        "sha256": "ed485424ee3b70cb65ac812aa6191feaf7d2b0d2434c7ee979dc166422a91f48",
+        "url": "https://files.pythonhosted.org/packages/5e/ae/5509a344745cf13ac139398b0831871786f26c6c8e061edecd28564a3500/elasticsearch-curator-dev-3.0.0-beta2.tar.gz"
+      },
+      "3.0.0b3": {
+        "sha256": "8e219b162d04dfd60e2af144d9c741a33fae3a0f63b3255e5ae99775466f971d",
+        "url": "https://files.pythonhosted.org/packages/86/c4/813d0aee2f773e4637c13dfc9b7c979dffde154dfdc7c37521efe619912d/elasticsearch-curator-dev-3.0.0b3.tar.gz"
+      },
+      "3.0.0rc1": {
+        "sha256": "175e95e30e7dc8932ae927f22f83059236c78be9b3fb68a5c22b90767dfd8590",
+        "url": "https://files.pythonhosted.org/packages/2a/4c/798893fc352cff167750386ec4f7f9362055d5a9ca0da51b306f56e85efe/elasticsearch-curator-dev-3.0.0rc1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Dict-style DBM based on zipfile.\nUnfortunately, you can't delete or overwrite files in zip archives",
+    "homepage": "https://github.com/imbolc/zipdbm",
+    "license": "ISC"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "01e714599d32f92019ddc5eab8a05418420edcc6a8abc46e55a04977e733ef77",
+        "url": "https://files.pythonhosted.org/packages/6e/10/3b1adf9deb59f0bcef4c0a34829fa3746fbb4f97429856a630e3bd7b5f5c/zipdbm-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

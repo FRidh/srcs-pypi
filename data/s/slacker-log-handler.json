@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.2.0"
+  ],
+  "meta": {
+    "description": "Posts log events to Slack via API",
+    "homepage": "https://github.com/mathiasose/slacker_log_handler",
+    "license": ""
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "c3107c971755410c71e4dc448bcbef014f8a6ed63837f14283dc48bd74b152d9",
+        "url": "https://files.pythonhosted.org/packages/ae/89/e04b98aa169783e55e0c9059f9e295ed9b62215bcb7e4e8930fda2713752/slacker_log_handler-1.0.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "7d66f370dba12cc6cfed49eb78f8544d1787cc645c07ea68e8f316f7772d1efc",
+        "url": "https://files.pythonhosted.org/packages/cc/ab/5bc93dc69bd8a0cc896356f81766aa604d11f927e880c7e0208043c220d3/slacker_log_handler-1.0.2.tar.gz"
+      },
+      "1.1": {
+        "sha256": "cc128ca9969e569f0edf14bf38eba4176b6d147fdfa0a64aae58fe78efe2764e",
+        "url": "https://files.pythonhosted.org/packages/5f/b2/274b94027b4cd78dbb83c8664ec1aa4db774b7c04c4f4bee408eedd1a83e/slacker_log_handler-1.1.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "63380d9e0cbb7f0f8e348f7dd59b9ea2ab4f0c630806ca0e7896621753c314a3",
+        "url": "https://files.pythonhosted.org/packages/08/a0/5e7713f49a07a8a5a737ed37c1e9f6d79b564cbe4bf1e1eb5c89a4f368ae/slacker_log_handler-1.1.1-py2.py3-none-any.whl"
+      },
+      "1.2.0": {
+        "sha256": "0981c3288684e89890b3a9a98e9b17aa24585d4dea1ade9863a05d5d9dbd13e3",
+        "url": "https://files.pythonhosted.org/packages/18/b9/98d3dcc0a1a44c682438dabb6428923575a1c3b1d8262455760a08d29352/slacker_log_handler-1.2.0-py2.py3-none-any.whl"
+      }
+    }
+  ]
+}

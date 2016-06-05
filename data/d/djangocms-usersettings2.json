@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "This package integrates django-usersettings2 with django-cms>=3.0, This allows a site editor to add/modify all usersettings in the frontend editing mode of django CMS and provide your users with a streamlined editing experience",
+    "homepage": "https://github.com/mishbahr/djangocms-usersettings2",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "48d3a31eb2e028247c3a19529da3ede7b091a2705323d6146972a0c603107f76",
+        "url": "https://files.pythonhosted.org/packages/8c/ab/ca780cbc83b830abf1a871d77d9faf25433e3fb0902307a75bcdd1015c89/djangocms-usersettings2-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "88fcf925c53134459ff4f4c05bab1668519db28607f46184c9695d5d9ac05eec",
+        "url": "https://files.pythonhosted.org/packages/7b/0c/f5278838b410bf7630c69e3ee0c8a75d0a3305c0bd25bbced888d15d691d/djangocms-usersettings2-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "PostgreSQL client library wrapper providing environment variable based configuration",
+    "homepage": "https://github.com/sprockets/sprockets.clients.postgresql.git",
+    "license": "Copyright (c) 2014 AWeber Communications\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification,\nare permitted provided that the following conditions are met:\n\n * Redistributions of source code must retain the above copyright notice, this\n   list of conditions and the following disclaimer.\n * Redistributions in binary form must reproduce the above copyright notice,\n   this list of conditions and the following disclaimer in the documentation\n   and/or other materials provided with the distribution.\n * Neither the name of Sprockets nor the names of its\n   contributors may be used to endorse or promote products derived from this\n   software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.\nIN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,\nINDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,\nBUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,\nDATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF\nLIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE\nOR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF\nADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "b9e86bd208daf8132180bdce3b0a8e333932b87ece04fdecbb13c1e693507af3",
+        "url": "https://files.pythonhosted.org/packages/df/85/6b3e0aec3b08f92ac59fb443d1531c8e787ab14b0be3c7ecc8031efacfbd/sprockets.clients.postgresql-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "4963dc99591b4b4bbf060cae1eea0fdaca97cf17bd377d6bccf7cdd1f6ec5a98",
+        "url": "https://files.pythonhosted.org/packages/e9/89/ae160b4216207e7f2731a29990614eb5764317cb88f6e70fba937bee7997/sprockets.clients.postgresql-1.0.1.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "aa7c3c9747e73cd4bfea9f5c9788355dd5d586f9382c20f9408914c0742ab822",
+        "url": "https://files.pythonhosted.org/packages/a7/7d/d98a1f83a861cf00db1464038da667fb89202a93d585342ec8afd19e47d0/sprockets.clients.postgresql-2.0.0.tar.gz"
+      }
+    }
+  ]
+}

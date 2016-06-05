@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.2.3"
+  ],
+  "meta": {
+    "description": "This program scans given text to find urls and IP addresses. The output is the same text but every url and IP address is going to have its geolocation data appended",
+    "homepage": "https://github.com/dante-signal31/geolocate",
+    "license": "BSD-3"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "3f03cb36c5174421b52976ec6bc0edc0a4be93f27fcc7c7b2fcd572b32aee78f",
+        "url": "https://files.pythonhosted.org/packages/27/95/4ac2d4aba75b0325f7192f78b3f872ab8e4f7f0914e2f55b01ddac184245/glocate-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "ce42c448e0ecff6b2c9614098f167a3392af9f0e2521f996cafc103f131831ad",
+        "url": "https://files.pythonhosted.org/packages/d2/f3/7ffadfc4f7a17cea8a0c460050288ded7905d32e90b5ea461e003dd72f09/glocate-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "23f8dcabb490d11e6a21541570e06cf5475bf2cca8fe400f70126dcefce40f17",
+        "url": "https://files.pythonhosted.org/packages/88/10/1afc2b9967c030e62d34f6a1e8f106f708408d663d8cebec7ddebe4203be/glocate-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "2c57f6892f493f3da8faaea2dbe4e5b3174b920ed215091e358d310d9fa9d71d",
+        "url": "https://files.pythonhosted.org/packages/95/07/e329881e00ddcf123b38f6044a1eb03209cd8bcf0fad5ddbfcbdb5c2f952/glocate-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "a9544444247e9c390d1754579da767f013c89faf5b86657806700e15cc42dcce",
+        "url": "https://files.pythonhosted.org/packages/3d/2a/a880aec3b2f84e2f1cb09907cda095a772ff1d1ae2daa26e0e208f69ede8/glocate-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "f25a68883a0c2c63e33f4454e813aaeb2935937b746e585759d0088ab11b1ffd",
+        "url": "https://files.pythonhosted.org/packages/3e/2f/4913682d2c6526cbf117b2aff2553349462d117659d141f49ac4c0286a56/glocate-1.2.3.tar.gz"
+      }
+    }
+  ]
+}

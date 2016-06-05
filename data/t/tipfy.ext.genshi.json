@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Genshi template support for tipfy",
+    "homepage": "http://www.tipfy.org/",
+    "license": "Apache"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "0357233f2208c0e825357e2b5c011aae32807d8fab150fc82fd107d45fabf762",
+        "url": "https://files.pythonhosted.org/packages/ed/86/eb4acdd4cbc265e3aca9741270a508a3d4bf59091c3c15c20dfc77ae1ceb/tipfy.ext.genshi-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "17d1cee7a1be201e20063f4023240c52faf9f5b195b193822a1f1e653bb46a1a",
+        "url": "https://files.pythonhosted.org/packages/ad/4c/4f2e335d0e914b367f8e11a4efa40c8fd30a1aa6121857b9fe8f2596af72/tipfy.ext.genshi-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "c1f83cac5c45007cd2410b2829fbd22877c84b22b9ce79a014652ee8bd70bdef",
+        "url": "https://files.pythonhosted.org/packages/86/d3/8b0c4909aab62942401baf9705f72f1b7ee93172a79ac12b95461f75246c/tipfy.ext.genshi-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "6d0d80ce654a1b103a430237e2714a4ef404d37044ab91ed4fc6dbd0fbe41a57",
+        "url": "https://files.pythonhosted.org/packages/cd/c1/6e8fcb3ce71ff89fa7993008e163c7ba8d9055e1ec6e4790918be9b19204/tipfy.ext.genshi-0.4.tar.gz"
+      }
+    }
+  ]
+}

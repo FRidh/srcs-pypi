@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "A library to choose unique available network ports",
+    "homepage": "https://github.com/google/python_portpicker",
+    "license": "Apache 2.0"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "e7339bdcabf69618d1c6f6cb767919a1e061b6f11bf4cc5e14d503c54282526f",
+        "url": "https://files.pythonhosted.org/packages/61/3d/ee05755bed3256a4ca40a79515ec363e66298f5b136e456b4bb949ffe2d5/portpicker-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "01938a4ffaeedf053248b8da5f1251cce618fa50018a92259adb1f6f6067b00d",
+        "url": "https://files.pythonhosted.org/packages/f0/59/25acd3378ed12039eafea169a48bf8cc90909c30c4e8be74c20b9d021ebf/portpicker-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "2f88edf7c6406034d7577846f224aff6e53c5f4250e3294b1904d8db250f27ec",
+        "url": "https://files.pythonhosted.org/packages/96/48/0e1f20fdc0b85cc8722284da3c5b80222ae4036ad73210a97d5362beaa6d/portpicker-1.1.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.1"
+  ],
+  "meta": {
+    "description": "Python library for Intel HEX files manipulations",
+    "homepage": "https://github.com/bialix/intelhex",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.5": {
+        "sha256": "bb3eda3ef142a2e9bcb7a7656e32a7322cba88f548aeed5ae0c94fb7370dd0c2",
+        "url": "https://files.pythonhosted.org/packages/fd/9a/be2631344ada583411ba7a4b6313f2ee31a4b081f52c04ee11a87a592f07/intelhex-1.5.tar.gz"
+      },
+      "2.0": {
+        "sha256": "11eeb14534a84218b59094c2b76fbde448cac08613be0925efbcf1432ea0bbec",
+        "url": "https://files.pythonhosted.org/packages/94/3e/9960520f83970a7a86bc1d0232942cf207d277eff1f2cee035d0699b7c47/intelhex-2.0.tar.gz"
+      },
+      "2.1": {
+        "sha256": "7c1e136efe97672dcf90feed18fc291977d4f5eccf13d124583bec376c0db44c",
+        "url": "https://files.pythonhosted.org/packages/3d/0c/afd9df6e2c912571d25536da6139e458832192aedfc7041bda3abea3a70e/intelhex-2.1.tar.gz"
+      }
+    }
+  ]
+}

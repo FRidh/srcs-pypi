@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.1"
+  ],
+  "meta": {
+    "description": "Uses py2exe to create small exe stubs that leverage a full python installation, rather than packing the required pyc files in to the executable",
+    "homepage": "http://www.j5int.com/",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "545265a78b05193ba24f3f3eefdeb29c1a5361eee93261ffe6e1fea02ec6da7e",
+        "url": "https://files.pythonhosted.org/packages/d7/ed/426c9add9757360e02ab698e50fb90a614f55a24f030dd153db130916fd2/py-exe-builder-0.1.zip"
+      }
+    }
+  ]
+}

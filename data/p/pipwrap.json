@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Manages pip requirements files for multiple environments, e.g. production and development",
+    "homepage": "https://github.com/jessamynsmith/pipwrap",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "8191d7684357268a9817081ba30f0d005b16889df9d806ef2e804e8d95966446",
+        "url": "https://files.pythonhosted.org/packages/9e/70/23f4a7428208fad5b48c8ad42b864870bec2d90a3bac29d610ef9c6d167e/pipwrap-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "b030a3b8e8b78e2757e1778067d5c515187ab0a85ddb2a4075008b5ab016427d",
+        "url": "https://files.pythonhosted.org/packages/e7/6a/1b1041d7546acf42303ae92f40d09e892713721de7d956c7f348922ec35a/pipwrap-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "89d0cda6e92f3b74d483bebc72322c13d37906f293f3f30869b930542647eb70",
+        "url": "https://files.pythonhosted.org/packages/da/2a/b14d9fdf352c1767f71738bd7277f94fa20c9c6b009b88ed541ac2b615f2/pipwrap-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

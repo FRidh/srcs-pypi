@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "zc.buildout recipe to build the mod_python Apache module",
+    "homepage": "http://www.thomas-lotze.de/en/software/buildout-recipes/",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "0090b2dd173f79abcf15a0268d26557fe38917000b356d330ffa9fa36f57b8ec",
+        "url": "https://files.pythonhosted.org/packages/13/d1/738b518d87c7022ebd51fffcc1984d9e9e02dfe8e8a6237628d746efab38/tl.buildout_mod_python-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "ab549984693f4d16862fe047162c80cdf1740d2c87ea898b72846aad2b60fc0d",
+        "url": "https://files.pythonhosted.org/packages/f5/1c/f44758389a70c5a1432237718be3adfefddd84d5bbad3a8796c210147617/tl.buildout_mod_python-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "f94de7b4deb705e1b67c1591c24997d4eca23d50f38b9ffd1dcfafe18147f8c1",
+        "url": "https://files.pythonhosted.org/packages/63/eb/77af4cffc5372df678281ddeb9dfb9f1b51e2ee2778ba716793fdab36801/tl.buildout_mod_python-0.1.2.tar.gz"
+      },
+      "0.2": {
+        "sha256": "ae43cd2d5aba844d733ff01ac4010e241b6c175f064563f629ef1626122e5648",
+        "url": "https://files.pythonhosted.org/packages/33/c7/49ea15c9da308cc608cd2dda2fb59a1e8d0107200d4a9fd49ef709df1a38/tl.buildout_mod_python-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "7eaf934235a9d108fc006681748cee1bf161419519764ae68df3292981157b42",
+        "url": "https://files.pythonhosted.org/packages/a1/32/b0ba9e7100ad416875f081fb4adbf17fdd2c7be0d5aa3e002a7febc2fc4c/tl.buildout_mod_python-0.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.9.2"
+  ],
+  "meta": {
+    "description": "A tool for checking versions of packages used by conda or pip are as specified in their requirements files",
+    "homepage": "https://github.com/Simplistix/picky",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.8": {
+        "sha256": "74eee3aa33d6949c6e7a4332c5d440c950f0c3d51ef84fc085bf78451754a6a1",
+        "url": "https://files.pythonhosted.org/packages/cb/93/67607827e8a720bf3c95d104d64cf3c8a6a6632b78673d69e3ddb6f5acd0/picky-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "1ea99614cb5c13cadcf2db66ac3f1671f31e64b78bc8168022460451dbec5203",
+        "url": "https://files.pythonhosted.org/packages/62/bb/344d7489648c4ce3bfb93e5d3fcdf62641f65ae63e4db9a7820bcd287f20/picky-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "e80662e875e7fe588eef11551602c6149db0bd4692a3c8d23adf3e2d948469f2",
+        "url": "https://files.pythonhosted.org/packages/a8/90/7b3dc3d6fccb282f48ce0711d62fae09e9e70012f42d34f960da4f89f77e/picky-0.9.1-py2.py3-none-any.whl"
+      },
+      "0.9.2": {
+        "sha256": "8f853edeb1a0371c93cb31356bc69572eab48a668bb6510a5c6458d8d98b7b41",
+        "url": "https://files.pythonhosted.org/packages/63/72/8ce620dbbe99f6efb103427db1e7067fd0b2316ec6865e3220c1c667dc0f/picky-0.9.2.tar.gz"
+      }
+    }
+  ]
+}

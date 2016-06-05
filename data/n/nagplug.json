@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.3"
+  ],
+  "meta": {
+    "description": "Nagios guidelines-compliant plugin creation library (Shinken, Icinga, Centreon)",
+    "homepage": "https://github.com/nlm/nagplug",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "4dd5ec41e8bfe5236f787cfd96c834ec72f63b245178b8c2c648678e5cb65e76",
+        "url": "https://files.pythonhosted.org/packages/33/d4/bfa233717bcb51be4ec977ce8b20b3f4b554b221ad5574bba0199098ebd4/nagplug-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "d8dc1d6a4ba388beed615a0c94e24ab4981caf19fe518e60a8ac313bcbd4482f",
+        "url": "https://files.pythonhosted.org/packages/9d/0e/341b3d8689d7bd33b6376b14ca0a38fce4cdf5875433dce6e69091beddd3/nagplug-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "e2d72928bc968127ff1af56eee197d82122a568e391e73f8a76823253c259375",
+        "url": "https://files.pythonhosted.org/packages/87/a6/b3f7e590f3201600a9faf50f7ee0cdbfc2892e4450f688c3cc1d51855deb/nagplug-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "bb28e9f5dcc0361cf10ac31e2f994d8be2f3e37b1ef7149bd39e5322a6f16dd6",
+        "url": "https://files.pythonhosted.org/packages/69/41/b86cde05297203401a3205d4a749a302dbb8cae90fb634dcdf469bff7d32/nagplug-1.0.3.tar.gz"
+      }
+    }
+  ]
+}

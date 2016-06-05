@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Interpy extends Python to support Ruby like string interpolation #{}",
+    "homepage": "http://github.com/syrusakbary/interpy",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "2bf539b0f3fdc449c79139dc9cb901992736819d2c3f4f854a718507107cb703",
+        "url": "https://files.pythonhosted.org/packages/bc/7d/da011d70bdf1cfa6e9bbd4b3f22fd2eab96e51525b1b33c22b163d521765/interpy-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "b758d973a01beb7629c0d911ba051e975a576aa8fe21645a17e6197e1cdee058",
+        "url": "https://files.pythonhosted.org/packages/3c/1d/9ed213a6beb6ae3dbf312da4f1f78531713f88c6a06504ec07844c08ecdf/interpy-1.1.tar.gz"
+      }
+    }
+  ]
+}

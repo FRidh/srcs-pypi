@@ -1,0 +1,186 @@
+{
+  "latest_version": [
+    "4.5.2"
+  ],
+  "meta": {
+    "description": "Installer for Apache/mod_wsgi",
+    "homepage": "http://www.modwsgi.org/",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "4.1.0": {
+        "sha256": "960c465e89ff1075db4893e59cc0e1e8f75c2952985218490fb5006c26157cc6",
+        "url": "https://files.pythonhosted.org/packages/4f/28/53b15dc4d45a6c85f86c4f6499b8372f0d5cf6a43dbac4753c9deef2d89a/mod_wsgi-4.1.0.tar.gz"
+      },
+      "4.1.1": {
+        "sha256": "abca2e2e35b749d4cd8388ef312c171b4464fb13ffb3e84aa2f4e065e5744f97",
+        "url": "https://files.pythonhosted.org/packages/8c/c6/78be90bbb32ac17e2a5f617286efab2aa3cb736e8dab6ae5d33cae0c4a83/mod_wsgi-4.1.1.tar.gz"
+      },
+      "4.1.2": {
+        "sha256": "4e68e468b68be3ace0ce44c2ccdcc260daeb4c458de524447208cb7c4640a79f",
+        "url": "https://files.pythonhosted.org/packages/24/ea/576b0f5cfd4efdc2b94742b1d82d87f2c48db3db879d4fc7b10ee52db1d7/mod_wsgi-4.1.2.tar.gz"
+      },
+      "4.1.3": {
+        "sha256": "0285323199c814a7a100886077da9cd9f0f105b4bcde659a1f8ec5198ec94bab",
+        "url": "https://files.pythonhosted.org/packages/74/db/22f1893d618df456e1fa7e62b5f88ae6b88c7c0f60dbb29d5b33e85f2987/mod_wsgi-4.1.3.tar.gz"
+      },
+      "4.2.0": {
+        "sha256": "1ec64985b690551593ea2585bacd59ed88c709c3a2d5626fa90478247198a8b6",
+        "url": "https://files.pythonhosted.org/packages/f2/fe/66d9b69bf0af9d45bfd625a8bf4269141998ce9643e85b6cac29c3eb5379/mod_wsgi-4.2.0.tar.gz"
+      },
+      "4.2.1": {
+        "sha256": "c0b56e5ebe761df5bbf7af2758204227b1b13101ba4f962f3caf9e7c2f489283",
+        "url": "https://files.pythonhosted.org/packages/14/4f/57cbcb296f1685d86c7c1f3d1b707da3c1437b6bdcac852fe2f49a6724a2/mod_wsgi-4.2.1.tar.gz"
+      },
+      "4.2.2": {
+        "sha256": "df23bd1aab757472096aae8bec9122372a40bb32863ce4cf30966eb04a2d897c",
+        "url": "https://files.pythonhosted.org/packages/c7/ea/5fbff66a6d938e1e55dfbd736e10fb03eb9a1dfeeb151e6569c51254279b/mod_wsgi-4.2.2.tar.gz"
+      },
+      "4.2.3": {
+        "sha256": "87e3ee78093b2e47c713d660204cfc66c37b3779ee103b520c33320f24be0f17",
+        "url": "https://files.pythonhosted.org/packages/76/8f/fd38ca63371f680e2238fb8cf5ba93e76241449ecd1d4c2fd638a68ee193/mod_wsgi-4.2.3.tar.gz"
+      },
+      "4.2.4": {
+        "sha256": "f3f7888f92883d4d8524f6ce0ee59928d1a2dd05c5551a28028b0b8e761206dd",
+        "url": "https://files.pythonhosted.org/packages/22/54/2f74741d3f0ea25973ab6b5dbbba8fc6c534973cd77592a6c9f8532e9220/mod_wsgi-4.2.4.tar.gz"
+      },
+      "4.2.5": {
+        "sha256": "60b14b9f3e724598cbe33a60e67ce2121e816db6b84d73a1a4694e8f157aac3c",
+        "url": "https://files.pythonhosted.org/packages/50/2a/16aba864ef922ee2cddc00367a1f8fdcae9fc017acbf510c16ba46b7181f/mod_wsgi-4.2.5.tar.gz"
+      },
+      "4.2.6": {
+        "sha256": "9b83f7f5bcaae30ef45f4c0b5f3a5c7c6b79f50a9a1454aa93052022c0bedcf2",
+        "url": "https://files.pythonhosted.org/packages/16/0d/87c79b93f83c5d7180bda04c5072eca9568c99aee40f938ec7e45ef258ea/mod_wsgi-4.2.6.tar.gz"
+      },
+      "4.2.7": {
+        "sha256": "932d82d72d533019df9689d5027d3f95bc296be2c1748e4d4235b00cbdee85b9",
+        "url": "https://files.pythonhosted.org/packages/28/21/a273cf7bdcb8136fd60eea196477cd04219e5020e72f92a2b11f8eb356a1/mod_wsgi-4.2.7.tar.gz"
+      },
+      "4.2.8": {
+        "sha256": "c7b10e5bab13b273d433bf5b0243ddb7a325442285dd6e26342e65630fc44d2c",
+        "url": "https://files.pythonhosted.org/packages/ec/72/c2342469c171570a0c491636fd6957d00599b740bb93f17b1cc85c8d96ad/mod_wsgi-4.2.8.tar.gz"
+      },
+      "4.3.0": {
+        "sha256": "89dfcc8564bb8781f36370c80c6fbeef9ec0723dec273231f4f760760d8e813d",
+        "url": "https://files.pythonhosted.org/packages/f7/12/18ec8be0b97fbb2d1dcaf278c5315946fc285b6a593bf9442536aaff3d83/mod_wsgi-4.3.0.tar.gz"
+      },
+      "4.3.1": {
+        "sha256": "5f164dc8d0b9a9580029cff43e0e6f932aa66b53172e9f4742b45470125b2b6e",
+        "url": "https://files.pythonhosted.org/packages/58/00/5d46bd1ae87fbf530d81c0b2fa515750e0eaa7c9a85f168c2bd81b785b85/mod_wsgi-4.3.1.tar.gz"
+      },
+      "4.3.2": {
+        "sha256": "c11f14135a9abd8a87dbaba51c43a296d660d8aa1d85a71bd4fde268267e73a3",
+        "url": "https://files.pythonhosted.org/packages/f2/c4/b3f4fb697c80ab093e1747146ee40088bfc02e1e7e88fae6ecc310ebedd2/mod_wsgi-4.3.2.tar.gz"
+      },
+      "4.4.0": {
+        "sha256": "66fd617d05d548978482d78ab40eb870d94853ae6b2ecb474eb80d9023f84f1f",
+        "url": "https://files.pythonhosted.org/packages/fc/cd/2c8fcdc53016a2ac24e1cc27ca7a6a000f94328248efdd9c593a28b7e42c/mod_wsgi-4.4.0.tar.gz"
+      },
+      "4.4.1": {
+        "sha256": "be46d0bd912e0aa2b24139c6345f0314a9637bda7f957bff323112187e5962b1",
+        "url": "https://files.pythonhosted.org/packages/26/bd/83ad180f9214ec05356fde48a8314de6e6f36c68ee855a9b0551c9fb1c96/mod_wsgi-4.4.1.tar.gz"
+      },
+      "4.4.10": {
+        "sha256": "73d63fc7ad69190b8ce99bb0b64f296e707168206fa60a97e46307e74fc956a8",
+        "url": "https://files.pythonhosted.org/packages/db/2c/a5a40a7fe9eda2ccd904c9c4caf511adc002d43dbf8069722e229cec2a10/mod_wsgi-4.4.10.tar.gz"
+      },
+      "4.4.11": {
+        "sha256": "7dd9540db9797f2a5b491eaff6344643050553ebcbb62f775762cbe3a0343c25",
+        "url": "https://files.pythonhosted.org/packages/38/92/194646e7423e4f17b1d415b8cdadfbd7530dc8d71894e72e541f5f5239f7/mod_wsgi-4.4.11.tar.gz"
+      },
+      "4.4.12": {
+        "sha256": "55609807b14616112da1323f72eeb4b24d3b78935e251adbcf3d368b0d88768b",
+        "url": "https://files.pythonhosted.org/packages/9d/44/5bfdded0360e244f7a2d0c999384a1ef2b2a217eddbdfa9d3404f474319d/mod_wsgi-4.4.12.tar.gz"
+      },
+      "4.4.13": {
+        "sha256": "e32e232e33a94f9fdf38c21b1f9613ea3cd34b43f88075d86bb88eab2dd478de",
+        "url": "https://files.pythonhosted.org/packages/fc/a9/1a44ad55a5428c9cae3ce33d2e5094b72f79bf7490d60da2e9238cae08fa/mod_wsgi-4.4.13.tar.gz"
+      },
+      "4.4.14": {
+        "sha256": "899e63df1baf44e382cd518ac1888b77005b2787f72e28e1914cd5766207a9f8",
+        "url": "https://files.pythonhosted.org/packages/c1/ef/96a118725dab37599d07a8397920717d6bbd1b8854a4d944ac2d349b7b28/mod_wsgi-4.4.14.tar.gz"
+      },
+      "4.4.15": {
+        "sha256": "3e559c71156ac57850b6c44f9b68edbbeb3656bdfc90b662f000322a4aae24cd",
+        "url": "https://files.pythonhosted.org/packages/15/8a/797c02290e906b11d15f1e6732e7699774c8dd1b50a2133a280facb31eda/mod_wsgi-4.4.15.tar.gz"
+      },
+      "4.4.16": {
+        "sha256": "75add20ff76481939adcf8ab459650f9b53555c9e4418f47bfdad951acdddf27",
+        "url": "https://files.pythonhosted.org/packages/8d/54/5d4a0de7d983813f8ce5d14283a65cf3ee828f436886e834bd551d6d5033/mod_wsgi-4.4.16.tar.gz"
+      },
+      "4.4.17": {
+        "sha256": "7fc412366473f5762ba7f2ba9a8aedac3dd8309c1ae9ea46f7ca54ccf03a5bb4",
+        "url": "https://files.pythonhosted.org/packages/3f/f1/3dc05f226a59ff1590ecf609d2187af0ba7ef1e6da0565e2c0708381fe04/mod_wsgi-4.4.17.tar.gz"
+      },
+      "4.4.18": {
+        "sha256": "581bc994106ecfde0c3beb9dd77b0a9988d80ac5b4baa47e391b3ae96432829d",
+        "url": "https://files.pythonhosted.org/packages/ae/d4/2ddb85ae4cf5653287ee21016933a3fed55955b27dfc8f4188a904fde0b0/mod_wsgi-4.4.18.tar.gz"
+      },
+      "4.4.19": {
+        "sha256": "b5b91bfb2c47dd74f13ba4a0c645656587b31ce1dd5b50dd758a77315bd116c4",
+        "url": "https://files.pythonhosted.org/packages/12/97/dee37715e1f65dc0ec323a367ffae1954db502784a3fb60ee42c271e0472/mod_wsgi-4.4.19.tar.gz"
+      },
+      "4.4.2": {
+        "sha256": "151fdb988ea7ab79daec6875d10385a552d5f14b0efc3757677baaac3d999f50",
+        "url": "https://files.pythonhosted.org/packages/53/9a/57eea19851fc30aa9a8c9462168670025148a16e246a51a195e1a6565729/mod_wsgi-4.4.2.tar.gz"
+      },
+      "4.4.20": {
+        "sha256": "dc57bda65df81cb871849da5c842473f5e1985bee2b83f5be66a7d59785dc2a0",
+        "url": "https://files.pythonhosted.org/packages/ce/47/2728db4d781e01d428d3bf91fbbf32e406fec466241501b63c7bbe4e19c3/mod_wsgi-4.4.20.tar.gz"
+      },
+      "4.4.21": {
+        "sha256": "581b3a82bc5300cd8a0523d14995df9b091ef344b1db72877394b30fcd179422",
+        "url": "https://files.pythonhosted.org/packages/3f/ae/40d952a62a58522619ec9352ca5b749eb4583a283f81ae8b519ea2f2a20b/mod_wsgi-4.4.21.tar.gz"
+      },
+      "4.4.22": {
+        "sha256": "d8b7f9f84763277a6869c3f8609606e93416c44807edd2adce80f8923a6fa138",
+        "url": "https://files.pythonhosted.org/packages/4d/8b/26818cb26d003f0c1346bb5614fd1c3745a0e3c90dd4258d080786dea2e8/mod_wsgi-4.4.22.tar.gz"
+      },
+      "4.4.23": {
+        "sha256": "ff6387eba53f4dc8f2051ffb65848665fe14ccfaa258677859d524425d3d8830",
+        "url": "https://files.pythonhosted.org/packages/4c/52/475e78379fcbcc7066e8878f8dbccf0e4fcbb2d9543b93c962dc29991ebf/mod_wsgi-4.4.23.tar.gz"
+      },
+      "4.4.3": {
+        "sha256": "316b7fb59d0c790e2cef9449a8515e94389facf05b30fb3b575acb660e91695d",
+        "url": "https://files.pythonhosted.org/packages/37/ed/413a1391bc42c5f571096c148added34b1423499bbb17a3c8229945795a7/mod_wsgi-4.4.3.tar.gz"
+      },
+      "4.4.4": {
+        "sha256": "6ec02ccb126df2e47ce6d4d2770b1b2cd8c32ec908b05bbf2e8222a617ab60f0",
+        "url": "https://files.pythonhosted.org/packages/de/be/a1a8ccbe27180c93bf98ef2d1dee74ac80a4b8441eef822314aa4dc31116/mod_wsgi-4.4.4.tar.gz"
+      },
+      "4.4.5": {
+        "sha256": "5aed357d849d61d312903240f4c90fb8c15a21756dd987df511a2dba3c40a688",
+        "url": "https://files.pythonhosted.org/packages/04/f4/de08a9194c20ec824de9ee2df8f0f740f11d91368b847880fd4c1756f9aa/mod_wsgi-4.4.5.tar.gz"
+      },
+      "4.4.6": {
+        "sha256": "432c9d1daf6e03d026cd4385871c7d48d53a2b4cb5c33b110433b300cc2e2384",
+        "url": "https://files.pythonhosted.org/packages/4b/ce/75685baecf3d4a3156662400e11c68bf2fe86c4b134a95184f64fcf2a999/mod_wsgi-4.4.6.tar.gz"
+      },
+      "4.4.7": {
+        "sha256": "201abb8ba056b8dea43d4d877c84a5ce70e107074ef317ab0ba827b1f96c0dc6",
+        "url": "https://files.pythonhosted.org/packages/4f/37/f2b6882b6bd8e0f52450570c3155f934052b14784ed3a0a02160c2169172/mod_wsgi-4.4.7.tar.gz"
+      },
+      "4.4.8": {
+        "sha256": "fb57c05ea15a929289e85adf4ef9b83a4ed51701695067811d6c894223348297",
+        "url": "https://files.pythonhosted.org/packages/47/60/ecce835f4336809f165f27ca76276168b08372b1f8ef152ab1fbdbd137e1/mod_wsgi-4.4.8.tar.gz"
+      },
+      "4.4.9": {
+        "sha256": "83dc390e53001562e291323871d81b17e76e14821a6de5708ad1d6fb5af958c9",
+        "url": "https://files.pythonhosted.org/packages/f0/ab/9965b8291d786eaa9696bdaf54ce55d9c2d57c7b73fb616783bfe082ede6/mod_wsgi-4.4.9.tar.gz"
+      },
+      "4.5.0": {
+        "sha256": "d8d8d3f98b7018e71a049345109d829e4bb3782a69f505b830899816c0c693a6",
+        "url": "https://files.pythonhosted.org/packages/37/b5/7cc22dc8e36bb1dfa3798180f6081af5f0536e1a7f498e30073bf3977097/mod_wsgi-4.5.0.tar.gz"
+      },
+      "4.5.1": {
+        "sha256": "5ed31abf1978099ec0b4a00970c1be3c9cd3bef47830773cba441ca9770d4a2e",
+        "url": "https://files.pythonhosted.org/packages/92/28/505a72b6eb11ff2604cf1f2b4e84e24193a9c469d68d8f259b12c3be70bb/mod_wsgi-4.5.1.tar.gz"
+      },
+      "4.5.2": {
+        "sha256": "01ec5dad6d0466bbce9126fdf4728d9dc08899435e9248ab254820e18959c3d8",
+        "url": "https://files.pythonhosted.org/packages/88/bd/3fa573dad32892f4fc24749bf008518439e9d7d23f539d75122d2f8d1479/mod_wsgi-4.5.2.tar.gz"
+      }
+    }
+  ]
+}

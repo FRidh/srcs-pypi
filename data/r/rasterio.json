@@ -1,0 +1,222 @@
+{
+  "latest_version": [
+    "0.35.1"
+  ],
+  "meta": {
+    "description": "Fast and direct raster I/O for use with Numpy and SciPy",
+    "homepage": "https://github.com/mapbox/rasterio",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "aeb12df73e09179f12b70221e3f1ae5fa517367bf84864ee4336cd6e5e51b307",
+        "url": "https://files.pythonhosted.org/packages/be/30/e7e6c08e3ac9cd1d084e271d0bc345a3728c0887f99577c9f4359343d51c/rasterio-0.1.tar.gz"
+      },
+      "0.10": {
+        "sha256": "18fe2438d44ceba8703328dbf1f6a71c4573ef2cb7e600d20d2cefd034be7dc5",
+        "url": "https://files.pythonhosted.org/packages/fc/e7/f23d03ad7e17a68cbc084c4bc6ef90b122168eef3fff54d04ab6d1bc7e41/rasterio-0.10.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "80049b64f876558e145b499bc4b771ed816856bab3c5625a2116c68449331850",
+        "url": "https://files.pythonhosted.org/packages/81/df/889b9bde1dd927a03685499af60bf237e0eea001613c123b2c8d396ff5ec/rasterio-0.10.1.tar.gz"
+      },
+      "0.11": {
+        "sha256": "c9c1db3f037cb846dd624a27e0f472250807dd608df35a43046d7f9517251c7c",
+        "url": "https://files.pythonhosted.org/packages/76/a3/5baafe5a770fd85ea0461447b63f4ac507c1cfedce37e573cdfee97f0724/rasterio-0.11.tar.gz"
+      },
+      "0.11.1": {
+        "sha256": "92764d2b8347f43161b115aff82b60461cd9231430c1750cac0c1df31e793830",
+        "url": "https://files.pythonhosted.org/packages/78/e4/90f8b8e5608a21e2975ebffc5d025883cc44adc7dbbdd616693d474c0a58/rasterio-0.11.1.tar.gz"
+      },
+      "0.12": {
+        "sha256": "052d3608b68ec45b33565174ed8173f0b9696da16ed4b1ddab4b4848dca49a80",
+        "url": "https://files.pythonhosted.org/packages/82/93/ad73595b1ff546b3edc98a62256486ca9d2b87196d8ff2cb266880e2aaeb/rasterio-0.12.tar.gz"
+      },
+      "0.12.1": {
+        "sha256": "92bcc20371644abdf7bf16139b31840086a4c0bfbac66d995650f0a66a333209",
+        "url": "https://files.pythonhosted.org/packages/25/d4/b1d9cc81ff92fc141b33f1aff4d5dac720425f3046d1d1c71f816f435448/rasterio-0.12.1.tar.gz"
+      },
+      "0.13": {
+        "sha256": "19febac31f7a0316e8eff782b34cfba621037892bfc0078a12e503c54b7d1165",
+        "url": "https://files.pythonhosted.org/packages/af/2a/71682d15504dc933b72b5dfe6b5da3767eab914cca13b7f677bd481719e5/rasterio-0.13.tar.gz"
+      },
+      "0.13.1": {
+        "sha256": "903a174a8be10bb3fd9e7414291abfb5560682e3a71ee9a63adaef6a5676a0df",
+        "url": "https://files.pythonhosted.org/packages/e0/db/01efda6f73215821dac1722a42ddcaeee4bcb2f58ab5189b6473bb60a488/rasterio-0.13.1.tar.gz"
+      },
+      "0.13.2": {
+        "sha256": "dd584006c2a231bcc3e48fa7291b4b07640adf5db11d0d6f7650e19c958668a4",
+        "url": "https://files.pythonhosted.org/packages/89/d1/d1e231132c138b5b95ef68a7fe2303fc36c39b5c091656fb40a553fff937/rasterio-0.13.2.tar.gz"
+      },
+      "0.14": {
+        "sha256": "be9e877d1371b5acb39bfd09349be6f98b3f382f9b9fb4e6a871da145e37fd1a",
+        "url": "https://files.pythonhosted.org/packages/38/fb/4dfb12313ee6e71ff1111bce9d16cae08d6dddf5a70deac59bb796dfc0a5/rasterio-0.14.tar.gz"
+      },
+      "0.14.1": {
+        "sha256": "a81f8a421c3b778382017b3993057c7486ed88bfb9dff5a246cb50a6e01dfb3a",
+        "url": "https://files.pythonhosted.org/packages/69/00/c854d1fbfe3d814b388798acf9589fe9a2650f44b63ace93b4fb82777d29/rasterio-0.14.1.tar.gz"
+      },
+      "0.15": {
+        "sha256": "5af1062340657a1012ce5879b6131d5ae48079cd18800622da0289f1b06a5e3e",
+        "url": "https://files.pythonhosted.org/packages/70/a6/bed5e11533222bd11c2e3bea1ffc47c6a2b41346a2f1e71766bbbba5ba90/rasterio-0.15.tar.gz"
+      },
+      "0.15.1": {
+        "sha256": "94e9c2ee5e7ace69b257f2c55d1e75211cd2bf8ca2ac7f4faddfd14a011d2656",
+        "url": "https://files.pythonhosted.org/packages/85/e8/0214f1beea35573f444adecae3451922e03d21292fb0f300f8fbfd5b00d2/rasterio-0.15.1.tar.gz"
+      },
+      "0.16": {
+        "sha256": "c1139f89eb0875d71e5d32bf7ab93d8c6b9492d9164a1437ce8e2f4096fbb08f",
+        "url": "https://files.pythonhosted.org/packages/39/25/2271881d64556fdda2d485a76a0d89daf849a92e01d470f3bc95731945b4/rasterio-0.16.tar.gz"
+      },
+      "0.17": {
+        "sha256": "0a64b81d10c17834c0e21b37f59abcf878c9864f086ee68e5b83c82aebb0c96b",
+        "url": "https://files.pythonhosted.org/packages/0b/c0/c45af0bd7bad7d04d2429e87ac1bb343282d0d7e4e8f177ffcb6d83fc7c7/rasterio-0.17.tar.gz"
+      },
+      "0.17.1": {
+        "sha256": "51608389ef1f05f3382640834337f586e6c1a11e1a8c06401a6542e92d91ea5c",
+        "url": "https://files.pythonhosted.org/packages/76/00/5237bb28c703bedc5ba25de9e1dd14bb829ecd89e73c59c49d54417e48b5/rasterio-0.17.1.tar.gz"
+      },
+      "0.18": {
+        "sha256": "f9725b6de31d421c8ab992f6aa1ae841676b012a64bea936b3e11be39df527e6",
+        "url": "https://files.pythonhosted.org/packages/11/47/8616a07eed055ebf2c168a2c76de74ccc5fbd8d36b7c89d33839c263292b/rasterio-0.18.tar.gz"
+      },
+      "0.19.0": {
+        "sha256": "44c90b2852a9449f671475b6dfe8195dc3890f4871900272bfa4fe2ff88871c9",
+        "url": "https://files.pythonhosted.org/packages/18/a0/f0d5d86183f8d927c5854fc4ad913a0cbb5a1187f36ae1db4f990ede3137/rasterio-0.19.0.tar.gz"
+      },
+      "0.19.1": {
+        "sha256": "1acc9d2e2d889092dda174bfba834f6ffff81e8e2a3d5ddc7fd6bf27ba752f4a",
+        "url": "https://files.pythonhosted.org/packages/24/a5/653286ba96be06049303e21de9a56ba0ef14bff99a5562eaea965b4fa946/rasterio-0.19.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "6030b3f3c0820ace4a0134deac056154bbbb2def38b03575e6c5fa8ca903298b",
+        "url": "https://files.pythonhosted.org/packages/72/16/eb8ca4dfb759599b66e8a283bafd414da6d8fd12736324a7f716e2aa83ed/rasterio-0.2.tar.gz"
+      },
+      "0.20.0": {
+        "sha256": "db2642dc7770c17a4bccb5ea84800474d2acdb121787d2cf2d9a0a3a80521ec7",
+        "url": "https://files.pythonhosted.org/packages/0e/74/e72ec582ca7efa290dd44c3cd3246ed222450671c23a4f778faed1f4b52c/rasterio-0.20.0.tar.gz"
+      },
+      "0.21.0": {
+        "sha256": "f17a5d886f8bfe250dcf9a75440dffcc7d17b62702abac2cf72467d8e4a37c5f",
+        "url": "https://files.pythonhosted.org/packages/23/b9/0f87c100e72350e84392098c69b38c4a4ca1bb6c2394c1e3d9a8ef3acfdb/rasterio-0.21.0.tar.gz"
+      },
+      "0.22.0": {
+        "sha256": "edbf9360e7dc7ee1b3aae1f6f1b5f794b7760ae0a6535898dcba5806afb6b4cd",
+        "url": "https://files.pythonhosted.org/packages/5d/e4/fc370c8f48f7ed485b72c17fd12ed63ded656ecdb2cc4ec98f9b4e9cc4cf/rasterio-0.22.0.tar.gz"
+      },
+      "0.23.0": {
+        "sha256": "88c2c71235738a116393796cef893d43f48a2ef74fa610c7ca663cd586ae795e",
+        "url": "https://files.pythonhosted.org/packages/c6/aa/6ef1490618af376973799fc5ecd74cf6e1275cb1a6c862a3665222b6d258/rasterio-0.23.0.tar.gz"
+      },
+      "0.24.0": {
+        "sha256": "ef75b5f889f24514b828d7234d27445a158a2ec0f0363b12f7e5679d18c84599",
+        "url": "https://files.pythonhosted.org/packages/51/c2/fc6d050199206cec07fde394bc0e6e5252fe58c32bed4b38b72273d84781/rasterio-0.24.0.tar.gz"
+      },
+      "0.24.1": {
+        "sha256": "764adbeaf9b8abf7dde9ce0609a3321d45981a4349b9170dcfa6a75f5984675c",
+        "url": "https://files.pythonhosted.org/packages/de/2a/1d856eeeff136e3b2df6eb29b74599e9a5e18e01ee865f90a72961b1571f/rasterio-0.24.1.tar.gz"
+      },
+      "0.25.0": {
+        "sha256": "49383ce75fd64795925cf8cf902db28b94589bafc9e52df1fec08f80e34df801",
+        "url": "https://files.pythonhosted.org/packages/b4/ad/dc6b54a32a48a09273179a180926b949e5e4bb8566d7ad9dd1445c84fa8b/rasterio-0.25.0.tar.gz"
+      },
+      "0.26.0": {
+        "sha256": "ace6cc310303bc17af984b1762709a5a8a9bff36f8f61ec1ba7dbf48c29f2373",
+        "url": "https://files.pythonhosted.org/packages/32/4f/fc56819c139db97590d337236b7fa93da7bdc36d75f5444478aa5b3e3cfb/rasterio-0.26.0.tar.gz"
+      },
+      "0.27.0": {
+        "sha256": "90c329f6b9684aaf5cb8b2334c2a4916e21a7dd3511ad54b5f8de2db54a847ec",
+        "url": "https://files.pythonhosted.org/packages/e5/89/18f6f92fc7161f4e7cf8977b69ed571a8ef72aedf7459f8dd60927173d9e/rasterio-0.27.0.tar.gz"
+      },
+      "0.28.0": {
+        "sha256": "20f39b04a2d78893d79fd5a57e9bf1439fb10ef67e8171c5abb9f04ecebca3bc",
+        "url": "https://files.pythonhosted.org/packages/4e/76/f34aad178e1ca2097ecf1694dd3c56a2de794ea7de18196eaecca5fa830d/rasterio-0.28.0.tar.gz"
+      },
+      "0.29.0": {
+        "sha256": "ec5bb0b8473182b1864d100c00a6bdf88a3b1485bc27e73a364f3866f507e9f4",
+        "url": "https://files.pythonhosted.org/packages/42/01/818353b17d04d8774b7c1826d0d4eda38f6905639dadd9eaffe37a56f60c/rasterio-0.29.0.tar.gz"
+      },
+      "0.3": {
+        "sha256": "d01b282a2a2283858841b1902a039b3f6c893330eaab8b7dcdec542da9a17838",
+        "url": "https://files.pythonhosted.org/packages/73/c9/34f68876cc5cfb9ce3d47cf27c88d9c91d288fa8ca848db296fdc016589a/rasterio-0.3.tar.gz"
+      },
+      "0.30.0": {
+        "sha256": "47ebeeb3b57dceaef6ed4c858534d18f9286353656d10e930f04410139139e1e",
+        "url": "https://files.pythonhosted.org/packages/85/fd/cf1f0ba65e9ed19ddf9895c8b0a820b9e6a3b815f7466dc9f457f472e62d/rasterio-0.30.0.tar.gz"
+      },
+      "0.31.0": {
+        "sha256": "6a1297b3af38e554d88177871388f608204f787ccf99f8df4e6f72734887aaa7",
+        "url": "https://files.pythonhosted.org/packages/13/99/d154c92c33e60afabeb9858b28afb20d59911a3dd103e66f140fdc31a881/rasterio-0.31.0.tar.gz"
+      },
+      "0.32.0": {
+        "sha256": "17634ab596157f5718ff7cb2182b350e2188f2eb057d763dfa10abc4559ca26c",
+        "url": "https://files.pythonhosted.org/packages/d9/94/5eebd006581f2b2a3f9ea62a4e8837e11ace25127e3302618dc968e24c1b/rasterio-0.32.0.tar.gz"
+      },
+      "0.32.0.post1": {
+        "sha256": "b34da275035167a74c269e075b8154e04ae3619e8f12bcc4a8bf66c556b35f52",
+        "url": "https://files.pythonhosted.org/packages/d6/78/a57720ddaf205ccdaeac7bc2ff4016bd5fca2208e8f9c328df13aac6a079/rasterio-0.32.0.post1.tar.gz"
+      },
+      "0.33.0": {
+        "sha256": "a1afe6fbb9e1279f9a077085ab50b0473485a6c98abf2592e26b6f08f96c555a",
+        "url": "https://files.pythonhosted.org/packages/7c/51/bfe4254ff4dd256410a429b82e4337bda1161eff8ea3318d3406b7fe389b/rasterio-0.33.0.tar.gz"
+      },
+      "0.34.0": {
+        "sha256": "8319ad8a71fe8d4cbf6cddc124c711d9cb871254ea764c8049b1044b81b8bb30",
+        "url": "https://files.pythonhosted.org/packages/62/96/5362a0cbd715e4e450c872b6ab2c02a0f0aab2a4100af772f32e3e30646c/rasterio-0.34.0.tar.gz"
+      },
+      "0.35.0": {
+        "sha256": "12a960094b91d043c5771e7f2dd6076c1b4b06819bbe45a168c51e2914a5f80f",
+        "url": "https://files.pythonhosted.org/packages/9e/1a/1b234a1909d3cf61b624273ab5767d01f5c270982b5439ae9a991dd03466/rasterio-0.35.0.tar.gz"
+      },
+      "0.35.0.post1": {
+        "sha256": "5ded228276a716f381e5fddc0a472e7c5d02e705c09e4cb34596687a16f2a999",
+        "url": "https://files.pythonhosted.org/packages/18/3a/3ca9f0add7b3e4e552be31f6ec703b0078b6248f03ca26c32702e4ef4b29/rasterio-0.35.0.post1.tar.gz"
+      },
+      "0.35.1": {
+        "sha256": "aebf461784ec9ce187049cfd86b5c96846b365c7faf75eaed70d5fcbf85dc9d2",
+        "url": "https://files.pythonhosted.org/packages/fa/74/ad23ad6f1d3ce47d9e9aaeda3f242a8284bc2cac99cd8581025ce85c7855/rasterio-0.35.1.tar.gz"
+      },
+      "0.4": {
+        "sha256": "e04a1859cdfe29a48c9ee9e1c2a71ac0a3081ebf2f27f2d7348a4421603776ac",
+        "url": "https://files.pythonhosted.org/packages/63/49/3b5e8602ac04f2cd1fe5ebf062715678c17058fd7b13162c622bf10a3a69/rasterio-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "cca7c96d35aa55e4fba5dec490c039a053625b2eaa19fafdb184b963859a536c",
+        "url": "https://files.pythonhosted.org/packages/54/14/e40aaf6ea678f93348b3f011dd6653ed9d70ca71f5ea1316439eeb98b268/rasterio-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "b8b3d7fe510a9c149a4efc6efb8bead0f83c50a7fb89ad5a74f0f78d2e4b9adf",
+        "url": "https://files.pythonhosted.org/packages/98/e9/b94bf45ec04e896891130a72a1dddeb210144fa07a579d6ca0113abb16ca/rasterio-0.5.1.tar.gz"
+      },
+      "0.6": {
+        "sha256": "228492c8b080c44ac8305a388013a911727619ce3315f4750d3728343a5d17e3",
+        "url": "https://files.pythonhosted.org/packages/86/71/d37522fca2a1c85d0ee5e861ddbf2995e98e5337c69e2828ec71866a5f50/rasterio-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "26744ec0fced9a302e9a2f691ad363e4b9e7b950372b45c4664599fe3cc7f897",
+        "url": "https://files.pythonhosted.org/packages/f1/40/193e016903eaa5bfbbf27c48bf96827361a53a0dca2b82863760c9db0f81/rasterio-0.7.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "9348b74a51d995746cbe9c36361637a116b8944a6565baf16cc4ffb80fa5777d",
+        "url": "https://files.pythonhosted.org/packages/b2/3f/160905ce6b6435ec87cc3aeb13986f48b7dce1621c16e63a657c1329fabf/rasterio-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "583eadc51dd3056ff83db24bde8343c7461d4ae8a5406b1e2a822743336f0727",
+        "url": "https://files.pythonhosted.org/packages/23/fe/ab0a2bc166ae2d46b24c57150dffea476acb6c6d6c942af6cab55539f5cb/rasterio-0.7.2.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "27471c4b53f43bbb7b6b63269be6160d6b703a73af3389cd894047b5fce98e56",
+        "url": "https://files.pythonhosted.org/packages/e0/dc/8e29c76b144fb5dfbed2d8f3a31f71fdcf45dd891907486bf6d77aa6a2f2/rasterio-0.7.3.tar.gz"
+      },
+      "0.8": {
+        "sha256": "1e35beb2ef137f6d42f70cb054a14ae4cd65f8fc939c424fa45a3c79a2c4d231",
+        "url": "https://files.pythonhosted.org/packages/ce/a5/57a4ae80101d2438089b5f3af90041ab59d3da0576fe6a113e4488e38447/rasterio-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "f34a0e2cc9196db8f07531128459eef63c19dab076e6c77436464cae5933fcec",
+        "url": "https://files.pythonhosted.org/packages/0f/31/b91c8d229e311a240ce68050b5235c80cf2cbfb57be7e069609637554d83/rasterio-0.9.tar.gz"
+      }
+    }
+  ]
+}

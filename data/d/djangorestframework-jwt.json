@@ -1,0 +1,102 @@
+{
+  "latest_version": [
+    "1.8.0"
+  ],
+  "meta": {
+    "description": "JSON Web Token based authentication for Django REST framework",
+    "homepage": "https://github.com/GetBlimp/django-rest-framework-jwt",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "1ff9f32c17e5f91b48f99167add2313121b683c3289b7d9c192532130e34344e",
+        "url": "https://files.pythonhosted.org/packages/9d/1a/3fa5469731f8a8c659365f27ff149dcb5108d0a0e20deb81b746e13abb9b/djangorestframework-jwt-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "3493756b6a65341336636dabfeee41bf81c866680521dfc483f1d0da464e0536",
+        "url": "https://files.pythonhosted.org/packages/1b/6b/25156a1fa1029b2f9ec62f926b299cf9f6fd36de25e7e9619e943a5cdb6e/djangorestframework-jwt-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "92f937f3d5563802c7f23725441ca8618b2f7adbe02cbf3a0ecd05a2ed16c4a6",
+        "url": "https://files.pythonhosted.org/packages/d1/49/4be0652702fcd24d9f4da0b4de831cc44f888cfe1e1a2ad64dad773b8a5e/djangorestframework-jwt-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "ee81ef0a4cc8697ffbd4f448de549e5c339784e87df2b996bd3acd5c9c514d9a",
+        "url": "https://files.pythonhosted.org/packages/96/1b/75a255f38c961af3c21da494d877b139761bb8ab55df2b5165a8439b540b/djangorestframework-jwt-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "2503977c215fa55e1b6bf3f4817a7bacabf255a0ca527bdb46c3c968462ae54f",
+        "url": "https://files.pythonhosted.org/packages/cf/cd/a7f1891a84189a4a8916da8ecad3fb5d4e22a311c7afac7c77a99eb113ea/djangorestframework-jwt-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "dd960beb3592f012bc90cb2fd57ef3c6e3c94a3e39945f8d73915864d4de7e60",
+        "url": "https://files.pythonhosted.org/packages/a9/da/602e4fb6523f1c102eda5346fd1ebbaffe732a9ba928f05a77092d3826aa/djangorestframework-jwt-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "1f1ab699e2393846f215d81df5819718ee5a58ebde443a8855b8253d8be5fcf3",
+        "url": "https://files.pythonhosted.org/packages/d8/73/c89b1bc25f24c5f65ab23cc5210d7cb92e70bd01e5ed34ea32a6a38bbed3/djangorestframework-jwt-0.1.6.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "a89d26c360bf09e55cdd52d4703b9a7dbfd008911c51e90c15597ab151ee9f11",
+        "url": "https://files.pythonhosted.org/packages/cb/df/b06d6d7ddbcf10f8cdab580dcb1fb2f10e46ee0047ddf806ebdcb74a00a6/djangorestframework-jwt-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "06d64ef1c9bcb42d8885bd754f9ab2e25acb73d6350550edce025d03793932a9",
+        "url": "https://files.pythonhosted.org/packages/e4/0c/99889f61b816a563cfe5014d11d72ec76497612bfbcc777752293175b068/djangorestframework-jwt-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "741c3548ea9bbdcabcc26500d7e20c0f693914038f0c541121a5eee602bd46e0",
+        "url": "https://files.pythonhosted.org/packages/07/f9/4f1d1df596bc2e9233c8af5e82f4911591d2f0d03a2c92308975520ae666/djangorestframework-jwt-1.0.2.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "8d098388f582105f29738a4847eeadf286781984a7f02bdffe5718a55bbd1036",
+        "url": "https://files.pythonhosted.org/packages/d7/8b/3f38a8a95600f107f9e0f0c16ed370b4f408fd2acd0a6e08eee751600c3f/djangorestframework-jwt-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "5fc40de379df1910cf4ca04658514cacf897dd7eb58938a89f7c1d9a8fb7776c",
+        "url": "https://files.pythonhosted.org/packages/91/87/af2b359cb121c282d003c2a34a34ba364d46f144733bc77e2240756136a4/djangorestframework-jwt-1.1.1.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "bdcb7afe15722d49390bce538445512177926015d71f43ffe8f1b534ee9b4ae6",
+        "url": "https://files.pythonhosted.org/packages/d3/5f/40dd6c4a3c4002723c0bf3458a353e5227c6b14118a70052fb97d4abf88f/djangorestframework-jwt-1.2.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "ede4e3812b61f281993630995ee01c5d479f04969ee813355ecc084f21ec6f33",
+        "url": "https://files.pythonhosted.org/packages/9a/d2/59da47ec7f655d2ff9eb812175dae9c00c466f2df9d7481c07dd628521e6/djangorestframework-jwt-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "3040513cc5019628cc8729ef57551752cdadb4cd163fca58a246b0ef33b31c60",
+        "url": "https://files.pythonhosted.org/packages/b5/e0/4adbd6ded68923f1e644171c3c63aca557d7d2afeccdd43d47c8baaebe37/djangorestframework-jwt-1.3.2.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "8933f44e7fbdcaccc0c76f217bc78ddfb10b18821a5659037dde1a2f7c8f42da",
+        "url": "https://files.pythonhosted.org/packages/98/91/847e960bd17077d050b63e483a86d9254a8be1b1087cdb20f312604a1427/djangorestframework-jwt-1.4.0.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "b59fa46255d64d2a53016e80f5f75d27a823bff78fec4e2778dca341b20afb15",
+        "url": "https://files.pythonhosted.org/packages/71/4f/75122c8d6ae2c228435e822375eaf3776c3d9573d54042b38713675ad8aa/djangorestframework-jwt-1.5.0.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "7e2c1761abfc17cac509ba8cf5d2cd8a43416e70fb9ee87166e5022df3bd7cdf",
+        "url": "https://files.pythonhosted.org/packages/b8/2a/5e2bf150f846ec67bf89490aeeec273ec5723f49d920af7a4cfe58002b25/djangorestframework-jwt-1.6.0.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "22a49f42659144590c1dde34edae4fbc01733e12814ae07d0a19679be3d3f18e",
+        "url": "https://files.pythonhosted.org/packages/38/31/7c727739698201e8d8de4942ca3d2fcb773a37e22aa7b6bff3cb3d2a38ee/djangorestframework-jwt-1.7.0.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "2a481ca19196fb70a41921d509fa63ac11aaef267c6839e52caee4f9bd5d0be7",
+        "url": "https://files.pythonhosted.org/packages/9c/23/60bfbc4aaa5fca8a837511661ddf40d22826d8d98e8de47ee4b438232776/djangorestframework-jwt-1.7.1.tar.gz"
+      },
+      "1.7.2": {
+        "sha256": "1484d80bff2407e6a73ec9f1e81788bd342b34150144cf1b0d3c27fa0d47024d",
+        "url": "https://files.pythonhosted.org/packages/4e/02/62a9386d6875d9ae67eb677073a50998e352ee4172d7c12abf12821413d6/djangorestframework-jwt-1.7.2.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "859ae9ce200e0087b7177ffae94adc47a36ff21f5dfb4409befd39e38c87042b",
+        "url": "https://files.pythonhosted.org/packages/62/a2/9759baf2e568e6cb4aa48fb74f13d2c08a121466937acaa0fe9546909e19/djangorestframework-jwt-1.8.0.tar.gz"
+      }
+    }
+  ]
+}

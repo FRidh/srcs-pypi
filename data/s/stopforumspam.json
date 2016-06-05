@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.5"
+  ],
+  "meta": {
+    "description": "Django middleware for blocking IPs listed in stopforumspam.com",
+    "homepage": "https://overtag.dk/",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "d17cef36519dbca9faa72a05c02ad82934fbd1b2f8e739ee73966bb9ee5820e0",
+        "url": "https://files.pythonhosted.org/packages/66/72/d1f7db6c368e7289764d1dcb2b896054dcb5bbc5c2eb08be1c91b79b5006/stopforumspam-1.0.1.tar.gz"
+      },
+      "1.1": {
+        "sha256": "dfec82c5d41e9ae45854faf683ea52b6c608749a5b87ee9751dd4fe105ad651b",
+        "url": "https://files.pythonhosted.org/packages/3a/a7/7d26a809b419a61d5b0f1e6163ca176efb91c77b0f906a447b841fbe37b4/stopforumspam-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "0f1c5eec7143b031a1ddc49587dd68bcff8491f358724254841bdd54a0269aff",
+        "url": "https://files.pythonhosted.org/packages/20/47/cfbf4f3eb22dd7112e429b9cd9f517aadd3f0bd08970db3c78fa8d9ee721/stopforumspam-1.2.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "8b329b80d30cd83b97a6e8049fb0f51206215d5ca5255ff3ebe4bd2174717813",
+        "url": "https://files.pythonhosted.org/packages/73/c1/36bea1906a658711c08abacf1f334adaf4d4b1f4f834f260669d5402b8b9/stopforumspam-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "ec1f4a16b14bcb26a550ba8df8f5a6a90e3b61db41fff15e129f77cea093b479",
+        "url": "https://files.pythonhosted.org/packages/81/02/e100a7817e8dc3e867731d1be6bf670a720ef14217ce92e514677c53c452/stopforumspam-1.4.2.tar.gz"
+      },
+      "1.5": {
+        "sha256": "6a54d8be8f76f4d99cbabe13d9d5a862382abcd5c53ad7f2a9dc5b2a76635b5b",
+        "url": "https://files.pythonhosted.org/packages/84/4b/025576383961405cca401333dd88e0131db685b22890aa76ca2669ef896a/stopforumspam-1.5.tar.gz"
+      }
+    }
+  ]
+}

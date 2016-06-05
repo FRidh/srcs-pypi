@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.14.1"
+  ],
+  "meta": {
+    "description": "Creates and signs X.509 certificates",
+    "homepage": "https://github.com/wbond/certbuilder",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.12.1": {
+        "sha256": "634d6335f23a021af36041ea06f3a4799fcd21c6aa3e6195d4545912b251f942",
+        "url": "https://files.pythonhosted.org/packages/1d/5c/6bc2eafd3eb590c4d9dbea7ca35a289da97106be7909d1667bec47431cd9/certbuilder-0.12.1.tar.gz"
+      },
+      "0.13.0": {
+        "sha256": "8ba2657ec22050aedcef99d9aa2bacca85180ec8867b2f1d8b00eac446bfd3ed",
+        "url": "https://files.pythonhosted.org/packages/c9/59/c0fe35fb3f78605fd9baff720ab1fc4d0b23c3d0b82c1beb251c6d12b19c/certbuilder-0.13.0.tar.gz"
+      },
+      "0.14.0": {
+        "sha256": "7386da27ff7cfdb84b646fb3bdc3fcd4c751548a4f545d679c4681f221327290",
+        "url": "https://files.pythonhosted.org/packages/02/7d/35f11476a808eceb2b113c794ad01b9c51dd0bd200f794eccbf8c1ad2316/certbuilder-0.14.0.tar.gz"
+      },
+      "0.14.1": {
+        "sha256": "0535ff60603b021b6ead9fb4cf760d90dce8808e8ea4baf56d2c6b3d40631a02",
+        "url": "https://files.pythonhosted.org/packages/ad/75/e066623aa161eda76b5bfbc80308aafe3afa3a008f68992be09e0e13da8a/certbuilder-0.14.1.tar.gz"
+      }
+    }
+  ]
+}

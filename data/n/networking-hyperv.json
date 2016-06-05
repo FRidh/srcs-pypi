@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "2015.1.0"
+  ],
+  "meta": {
+    "description": "This project tracks the work to integrate the Hyper-V networking with Neutron. This project contains the Hyper-V Neutron Agent Mixin, Security Groups Driver, ML2 Mechanism Driver and the utils modules they use in order to properly bind neutron ports on a Hyper-V host. This project resulted from the neutron core vendor decomposition",
+    "homepage": "http://www.cloudbase.it/",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "52da59b683bbb593aae3be5c56c9ccc396b36ea2f0c1ec62da798c0a8310d364",
+        "url": "https://files.pythonhosted.org/packages/47/bf/62027f8c0b106adc000cbc3ac7b74ffa31bea6f763c8f6ae51d52777c662/networking-hyperv-1.0.1.zip"
+      },
+      "1.0.2": {
+        "sha256": "65586ef6f80dd281d7c23de6b1d9a8be9392aa7457ff404f2fe422065227fcab",
+        "url": "https://files.pythonhosted.org/packages/99/ed/df4d347a34f22fe61166adb18690cbb052b37f3927b17e10375d1504168d/networking-hyperv-1.0.2.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "902304b570f69a8cf22800201aab69a283b6e5efaeb0eb71d662cb1b80270c8c",
+        "url": "https://files.pythonhosted.org/packages/1a/fd/0d538af48814d0cf099758777cac0634b84efee7daa00d6a2f9069f99a66/networking-hyperv-1.0.4.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "968410abd4d5d8a27c343ff576e59207016600a235f9bd54879321e84eb95a3c",
+        "url": "https://files.pythonhosted.org/packages/04/e1/17b16caef6d55c5113404a90340e2bc073756caf9f597c5a2db5199c0d63/networking-hyperv-2.0.0.tar.gz"
+      },
+      "2015.1.0": {
+        "sha256": "b2c983d3db4a1ba9853ff3fc01eb54c033803c62106e7cee33b73b97119d8e13",
+        "url": "https://files.pythonhosted.org/packages/2f/4f/2518d302caaf2733ab349ab01c7159bbfcaa51075527f8fac745e2666d28/networking-hyperv-2015.1.0.tar.gz"
+      }
+    }
+  ]
+}

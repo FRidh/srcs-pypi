@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "A reusable Django app that enables users of your site to tag items. Each user's\ntags are separated so that the auto-suggest functionality will never suggest\ntags another user has entered",
+    "homepage": "https://github.com/bitmazk/django-user-tags",
+    "license": "The MIT License"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "64cc8bc09b02625dccd9d73b86e26976097739118ff7ac438319451421a5f35d",
+        "url": "https://files.pythonhosted.org/packages/fe/fd/ab550bba9d59fe3dc41f6c3ce22dac299a50b4c29669620c091006ef14b7/django-user-tags-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "8902c28d8560893e98f65eb5de78ea1edf68c5023c602e9972bece94253df8f8",
+        "url": "https://files.pythonhosted.org/packages/e0/fd/2c65378af697b5befa6a65275f6979c07125206a036964098ced32979c2e/django-user-tags-0.3.tar.gz"
+      },
+      "1.0": {
+        "sha256": "6ac3a647fd820e2c76389aa6eb26b0ab5cf86cf00cc3b5d9b20df4c6d8fa00fe",
+        "url": "https://files.pythonhosted.org/packages/bb/79/b5f9509289822c11dc6f8ae1a0f97a4f206b78e99d1cbffcb4ba2169ec5d/django-user-tags-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "031a601500207387ef177194f2f4cadecafb164abe3bca4b60d53dfe4cc00d52",
+        "url": "https://files.pythonhosted.org/packages/8f/cf/af7c1ad41a6ccdc37ce9ec27d92af38df855e3d720a3d35771a94134b3f3/django-user-tags-1.1.tar.gz"
+      }
+    }
+  ]
+}

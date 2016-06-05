@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.0.1"
+  ],
+  "meta": {
+    "description": "serverherald announces when a new Rackspace OpenStack Cloud Server becomes ACTIVE by polling the API. It supports multiple notification methods, with email being the most popular",
+    "homepage": "https://github.com/rackerlabs/serverherald",
+    "license": "Apache License (2.0)"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "059da12abca78affebd9fba8957edfa3c36063bfe7ec2cc747e59cc65706fd36",
+        "url": "https://files.pythonhosted.org/packages/ed/61/522d4e1838d60902ad074c38dffbceca707feae02f16f4bfdfa1d967474c/serverherald-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

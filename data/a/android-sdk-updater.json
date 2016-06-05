@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "A command-line utility for keeping your Android dependencies up-to-date",
+    "homepage": "https://github.com/tadfisher/android-sdk-updater",
+    "license": "Copyright 2015 Tad Fisher"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "67be6fc60b998f58da1683bbcf35fc22ec4df8d8a3a08f628d7d89140945d4ae",
+        "url": "https://files.pythonhosted.org/packages/2d/b8/1295e9fdafe0f0c200627db7f3bee1e37ecbaa7d93327b2a055297d3673d/android-sdk-updater-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "e8634d7f13018b28a13c438f9853eac6d29ec36a54c78b76cb23bf71479c1791",
+        "url": "https://files.pythonhosted.org/packages/69/cb/e07a94189abe1e90dac0e9c527c9514720e37fb790b34e7bb3c39a5d303d/android-sdk-updater-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "fa73e21b1cac06c382f90c4e00b3daaf4783621f2399b5a233900b5d6a589349",
+        "url": "https://files.pythonhosted.org/packages/60/60/bd8cc266bcb1ab727b374eea06b03ab0eb58b14013e72778db6992b2553f/android-sdk-updater-0.0.3.tar.gz"
+      }
+    }
+  ]
+}

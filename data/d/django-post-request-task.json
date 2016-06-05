@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.3"
+  ],
+  "meta": {
+    "description": "A celery task class whose execution is delayed until after the request finishes",
+    "homepage": "http://github.com/mozilla/django-post-request-task",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.2": {
+        "sha256": "7fb2ea760aa73e97a25564255dd08c7ed16f9e8f1370e601e79c7005555ae94e",
+        "url": "https://files.pythonhosted.org/packages/7e/f2/9147e38e59075df90e83c4599ab0070af91ae92b62e8a8598e5ba2fc310d/django_post_request_task-0.0.2-py2-none-any.whl"
+      },
+      "0.0.3": {
+        "sha256": "6e925e40d05ed9c51c59ec7083d4d0277db88670bbd58151c72eebc0f93be3ca",
+        "url": "https://files.pythonhosted.org/packages/02/c3/707d495bc6163d9006d72953669478fbbd8b65d3f7ba52652f6956f78998/django_post_request_task-0.0.3-py2-none-any.whl"
+      }
+    }
+  ]
+}

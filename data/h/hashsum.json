@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Python drop-in replacement for md5sum and co",
+    "homepage": "https://github.com/avalentino/hashsum",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "4da6db4470d66de5a8b8b1629068adf787d67c40fda3d035b815077845a23cc2",
+        "url": "https://files.pythonhosted.org/packages/49/d9/b0fda899e5c351927bae7c6affafbcdc1602912e7db3b89190bc9d2ddd9b/hashsum-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "793a22b9d480dbcbf6f595836d3c7058bad3d8f882cc4a373d63f23a4e23053e",
+        "url": "https://files.pythonhosted.org/packages/53/1e/5b83d42246080354c1ae42510bf6055060782563d153eca5373bae67eef4/hashsum-1.1.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "1258f8e4d54ed840d29fd51b904d5c5ac07fa000e2b9cbef9b8c3c8644a38275",
+        "url": "https://files.pythonhosted.org/packages/d9/af/aa8dbfb5fc7958e827e74651c7179fce6c28a7dbec0a8c693de485f834d2/hashsum-1.1.1.tar.gz"
+      }
+    }
+  ]
+}

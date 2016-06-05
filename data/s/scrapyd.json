@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "A service for running Scrapy spiders, with an HTTP API",
+    "homepage": "https://github.com/scrapy/scrapyd",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "29b8a919d6c629585d7947dec8c43d7797c69ff99a21c49de38f8794b1f3e9ff",
+        "url": "https://files.pythonhosted.org/packages/3a/35/bac83ece6c6849061896771a905800ac855a351aae604ad232a71a4cc8fd/scrapyd-1.0.1.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "c722058ac3d19b7c34ae8cfab5fa55803c20d96da59bf5f3fc73dff36a7bb940",
+        "url": "https://files.pythonhosted.org/packages/9e/13/7c2a036ee10b880c4e71cddff88e52a01b5d8c16d0edce39344f52bead32/scrapyd-1.1.0.tar.gz"
+      }
+    }
+  ]
+}

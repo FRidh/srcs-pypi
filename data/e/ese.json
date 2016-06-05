@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Tool to export Elasticsearch index from one cluster to another cluster",
+    "homepage": "https://github.com/merlin83/ese",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "7d06acdf4a2d3a09b50e57c2d7b58d21ad7d6a74d515698f62fb0106328ea02a",
+        "url": "https://files.pythonhosted.org/packages/f1/57/825950b275280ba603a48d524c5c0bd48ccf8651e89a6e9742fa5645b2ef/ese-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "570c18b871b55efdac471303e4ccd9d248df98428cbd0be9a34441384e3767ee",
+        "url": "https://files.pythonhosted.org/packages/76/10/92ff800d22aa6bf2c807b2f2c71b850ebbac1a7b89ad005ec23d990596c2/ese-0.2.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "15.1.0"
+  ],
+  "meta": {
+    "description": "A requests-like API built on top of twisted.web's Agent",
+    "homepage": "http://github.com/twisted/treq",
+    "license": "MIT/X"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "799784b36a442c519ce028d58b08750a041444b5b6c09328947ba2a549b8dafa",
+        "url": "https://files.pythonhosted.org/packages/05/20/1376dd09cb05f8599efdf251833cca5281c4cdc91b3d746553f5ffcb2680/treq-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "34653c22d4ecfb5dea52ac29fcec056a157d2b079ec7d4449417a9eb67f0a9f0",
+        "url": "https://files.pythonhosted.org/packages/cd/e6/61ef3aa9b55e319ec4e8d83cd4f83faf4b371b55e79b7c82a4696473d1df/treq-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "487b9a48f15c1bc482b9be694ad436d70ecdc7a9f0fd3aaf02a30b7f547d9b9d",
+        "url": "https://files.pythonhosted.org/packages/50/f4/4cb851a4e33ed11a1cee4d171a24d32a7759677e52ddea1e5f168c923dc6/treq-0.2.1.tar.gz"
+      },
+      "15.0.0": {
+        "sha256": "5e61d6c226dd61c6a811a98de8b545d4f25d6409ddfb7ee6866272f3f21f0569",
+        "url": "https://files.pythonhosted.org/packages/b2/ec/bc7e350241bc00a8ed4874d42d551623eab4e84a23a0c55586c8c7c8f118/treq-15.0.0.tar.gz"
+      },
+      "15.1.0": {
+        "sha256": "425a47d5d52a993d51211028fb6ade252e5fbea094e878bb4b644096a7322de8",
+        "url": "https://files.pythonhosted.org/packages/db/ef/c112eae4e9d165f4664f5d25949cb832ab4e1bc255d19e7dad81342d486d/treq-15.1.0.tar.gz"
+      }
+    }
+  ]
+}

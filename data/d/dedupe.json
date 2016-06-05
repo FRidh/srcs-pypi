@@ -1,0 +1,405 @@
+{
+  "latest_version": [
+    "1.4.12"
+  ],
+  "meta": {
+    "description": "A python library for accurate and scaleable data deduplication and entity-resolution",
+    "homepage": "https://github.com/datamade/dedupe"
+  },
+  "versions": [
+    {
+      "0.5.0": {
+        "sha256": "a755c4c41761f03bcb7ab2ef732b3f6020caf0784e1bf1781a9e22eab23bed24",
+        "url": "https://files.pythonhosted.org/packages/b2/10/082e6f0a2ef478f7e44ac7b3675ffadc5b7682978d954223582c9b2ebe6e/dedupe-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "110224d0ef332fa8a2a17dadd2e704d8918d54f1b7fd3d0691db60bebdad8646",
+        "url": "https://files.pythonhosted.org/packages/cf/22/3b400664758e7a497a58d4b608a09cd73d8f8c8d78c7aabb084eb2d74fa1/dedupe-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "fe131f268a7a5ed7a22e1956c44eadb060159c91878bbfc6449f4a0795371b63",
+        "url": "https://files.pythonhosted.org/packages/10/47/c4afdd6bacb346b2ae8b242076308834bdbe20b4a1d13736bc4b97062fa1/dedupe-0.5.2.tar.gz"
+      },
+      "0.5.2.1": {
+        "sha256": "dcbf5b4ac9355ccd55030f8786dafdef2ba243c9b3ef51f3c8611f7822272745",
+        "url": "https://files.pythonhosted.org/packages/e0/97/d7e5c9af4d16cda1a5ea2803c0f340eac76de9a3efe87def698e2ac60e83/dedupe-0.5.2.1.tar.gz"
+      },
+      "0.5.3.0": {
+        "sha256": "7cff66df3df6ae50047f53281ac72b270170614df228bf3d97326a24cf20ccb5",
+        "url": "https://files.pythonhosted.org/packages/06/35/0d6771021b7b913d5017ae963ef43b66962164ebcef9f370a91809b1580e/dedupe-0.5.3.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "080d425da539096c94bd1ffa827158452208a032f93e3ec45636f09c6ab3a418",
+        "url": "https://files.pythonhosted.org/packages/ce/5b/2aadcafa70b91d4353031e2511d34def86498ca02adeccc760139a5f2bb4/dedupe-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "3f650ffa1dbc6a2f83b1f09dfe9a232ef475d248a6f4e7c67c57bbe53939ce39",
+        "url": "https://files.pythonhosted.org/packages/5f/38/2a1aba5b743c097c3e874666ad39662a64dc13d8ced7b7c63d38740a496d/dedupe-0.6.1.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "f7a93dc98832d6fd18583b05f75ec54d4d46264454ffa836f71fe9743603cb78",
+        "url": "https://files.pythonhosted.org/packages/e9/40/fe2fb32872f5bed2e68fa535191db2de281e2b70653c7b112656a17708f7/dedupe-0.7.3.tar.gz"
+      },
+      "0.7.3.1": {
+        "sha256": "f6a61ead1fea4c83f23d95c22a758768f214649bead8a451eb6da7a95ef534e4",
+        "url": "https://files.pythonhosted.org/packages/4b/bc/870d15aba8dfe4d33b10d0530646e52e7e73399bfd34f907476abd9183b9/dedupe-0.7.3.1.tar.gz"
+      },
+      "0.7.3.2": {
+        "sha256": "ea49c2c85a20ff30a53f98a5f1b9961e26dd8f3bca977faa41021d39e283532a",
+        "url": "https://files.pythonhosted.org/packages/48/16/3921de77a19ce54f76039ce49dfd6f2d0a43a8e844f6f6ee53830f9054bf/dedupe-0.7.3.2.tar.gz"
+      },
+      "0.7.3.3": {
+        "sha256": "a6714c20461990bd7d3b2e9fc75554f075dbbdf8c225d2126305ee596023eb73",
+        "url": "https://files.pythonhosted.org/packages/90/1f/c0cc096ea0ea06b08dc5468c16e68364be211063e288a12257813462fb8a/dedupe-0.7.3.3.tar.gz"
+      },
+      "0.7.4.0": {
+        "sha256": "bebd9ea3e6d7619835fe2d895859cbcc283ed5bd908d08e2b39eaaa38e6dce08",
+        "url": "https://files.pythonhosted.org/packages/23/8e/b1aaac5bc976eeb3d0073edc41b632d8b770185ccaa2b47e92bd602dad50/dedupe-0.7.4.0.tar.gz"
+      },
+      "0.7.5.0": {
+        "sha256": "c56292b1fb95e63fdef7a841d11933b5acd7843c966b7474670862858bfd61e8",
+        "url": "https://files.pythonhosted.org/packages/90/af/cf754d3e552b9762fa37ef9dab9951c958958359184dbc04e9da64798f23/dedupe-0.7.5.0.tar.gz"
+      },
+      "0.7.6.0": {
+        "sha256": "ef86a3e9b3cd9a65b0dd1bbe135c08ccc7b0ac648e7f62967f6b0782b67963b0",
+        "url": "https://files.pythonhosted.org/packages/1d/70/a1ff65ad5e9da613fbaa8431e4a44ce2cd372242a1de58bb9ff11ac4b390/dedupe-0.7.6.0.tar.gz"
+      },
+      "0.7.6.1": {
+        "sha256": "95381d1d1570b81b0ca5116583727e255b181da08d65b42f1443a1d71569f648",
+        "url": "https://files.pythonhosted.org/packages/e5/5d/405ff38ba6027451d902a688bc30a5fafb21a0473ad598f58e046abeab7e/dedupe-0.7.6.1.linux-x86_64.tar.gz"
+      },
+      "0.7.6.2": {
+        "sha256": "66b986e33a0b35d535bf0f0debba2066be49821aad0a2078f487a62d85dd0f4a",
+        "url": "https://files.pythonhosted.org/packages/d9/0c/5e7f4d0fe37ce0fe8c959f985aa75bdb2dfaaab2a2fa3f86aeaceb7d460e/dedupe-0.7.6.2.tar.gz"
+      },
+      "0.7.6.3": {
+        "sha256": "71d0eb5e43bdd4aff9d1788203b2b8489ce05dde2b6c7c5c70d8aa1e29707c8c",
+        "url": "https://files.pythonhosted.org/packages/f4/b3/eacf79a246c83c5cb507f919dc20f5188737f0e3d33099763ab40da33053/dedupe-0.7.6.3.tar.gz"
+      },
+      "0.7.6.4": {
+        "sha256": "ff68e83477e38b13fbef35737a0b89ef061312b5d4327d9a2b42bff19b7ccb1b",
+        "url": "https://files.pythonhosted.org/packages/17/71/98ad97335208337baae93a5d26afa5e3ddd66c56f1340337088c720a9880/dedupe-0.7.6.4.tar.gz"
+      },
+      "0.7.6.5": {
+        "sha256": "3fe7cb30d93ff960801cc5af990995a360e03476231d0f83905e75387581ff1d",
+        "url": "https://files.pythonhosted.org/packages/44/11/a21fd9fc91c6db39e464162236f4d7bc8d145793859a4c11c26a38c03bc1/dedupe-0.7.6.5.tar.gz"
+      },
+      "0.7.6.7": {
+        "sha256": "255eafd7897510af6d8756008a9f2a0b1992d3e7506427e9c467838e3d02655d",
+        "url": "https://files.pythonhosted.org/packages/17/7e/e64a626d8b35e5d8370e2637bf59a10624a14c90829a604b4d5a2991829f/dedupe-0.7.6.7.tar.gz"
+      },
+      "0.7.6.8": {
+        "sha256": "7410c260b12f33ff9f67fed9aa0a68e2ef29555dcb743836c95258cc21a087ee",
+        "url": "https://files.pythonhosted.org/packages/67/31/2bc31c32ed619e907ec816f98574a1bfe8114cbacf558020c80fe3388e24/dedupe-0.7.6.8.tar.gz"
+      },
+      "0.7.6.9": {
+        "sha256": "e48679b1036d8ebacb4dd5c6d6871e71ab11828ec870bdb9760eee27bcd9291a",
+        "url": "https://files.pythonhosted.org/packages/c1/09/b68243675227a78f43184da6653dcbe2b177ed2927dc91f2a7c010931c86/dedupe-0.7.6.9.tar.gz"
+      },
+      "0.7.6.9.1": {
+        "sha256": "736299002df519b7f70f6d92f3d1ce661db669e0391b4bc48859c5805217d076",
+        "url": "https://files.pythonhosted.org/packages/8b/cb/95f87fc6886018e07e075658d75009bd5e0f63072fb51791222eaeb5fdd0/dedupe-0.7.6.9.1.tar.gz"
+      },
+      "0.7.6.9.2": {
+        "sha256": "7e6fbb3440979789faaf9df42d1c1ffd17b9ae2d88697550456255caf32a0717",
+        "url": "https://files.pythonhosted.org/packages/8c/f7/809b4ef30e0c368585fe4392f39769a5fd17102f8339647038259d6c9f94/dedupe-0.7.6.9.2.tar.gz"
+      },
+      "0.7.6.9.3": {
+        "sha256": "e69453b57f78e06a806529fe779f4adb6f50a379c1b48c9bb87e458af79979e0",
+        "url": "https://files.pythonhosted.org/packages/9f/50/5639ef74ba17fc8adf1a334023b49f2f312e7932598e8af2e4a75fdcd6a5/dedupe-0.7.6.9.3.tar.gz"
+      },
+      "0.7.6.9.4": {
+        "sha256": "644fcecfe864f63b58c1bdca0bd22b710b5d315d510f405d6098237178a99a10",
+        "url": "https://files.pythonhosted.org/packages/34/b3/98c45be90ba0b46364dd98d1b432f9840351d8186189720fc225c8f7cded/dedupe-0.7.6.9.4.tar.gz"
+      },
+      "0.7.6.9.5": {
+        "sha256": "94b8ffc76a5fa24f2b503fbe0d7c10e32526409e57b195fc765689db39e37740",
+        "url": "https://files.pythonhosted.org/packages/11/79/31d831df0f07da289a51d36fa1b17118449f55185615555e195c0b81c256/dedupe-0.7.6.9.5.tar.gz"
+      },
+      "0.7.7.0.0": {
+        "sha256": "0cacf0412696b4ea6b490d14621ac31a3cda603efb7a033a028e2c4b8beb075d",
+        "url": "https://files.pythonhosted.org/packages/93/7e/1e5504b76869506711887f23ed8c3d7acd29dc27718c354a1abe473f9854/dedupe-0.7.7.0.0.tar.gz"
+      },
+      "0.7.7.0.1": {
+        "sha256": "59ced40e899c3d23f67ad80ba4ef297ea584f37086ef8ddb4cb4230996ea589a",
+        "url": "https://files.pythonhosted.org/packages/15/9e/a131ccf8667db6c7ef762e4e1994b048493b685c272c908902e6d3346aca/dedupe-0.7.7.0.1.tar.gz"
+      },
+      "0.7.7.0.2": {
+        "sha256": "9758edc5340a4d79a75f35880728421309d3a610e91b2668a0bad5ecd89a78dd",
+        "url": "https://files.pythonhosted.org/packages/09/8e/29c4df9ae03f1d41b90023f489298fdfe12b6b37d2b4147791e65fb5c092/dedupe-0.7.7.0.2.tar.gz"
+      },
+      "0.7.7.0.3": {
+        "sha256": "e1a377691928b0332a227cd8d61b2bed9b38b3dc9f51c285d03751f48c5a3c47",
+        "url": "https://files.pythonhosted.org/packages/97/0a/e1c8e19d4c84acf4e37c4a68f81f58d0991a59c1aee1af1ca92e2ae95a4b/dedupe-0.7.7.0.3.tar.gz"
+      },
+      "0.7.7.0.4": {
+        "sha256": "c8104cbb2db8a0c360749a62e62e85102818a3d75d9509b5a1db6238e9ac1607",
+        "url": "https://files.pythonhosted.org/packages/a2/5d/a8f19c124bec7aac18ed4bd370e651702a3461746135ea00a8c8127108e3/dedupe-0.7.7.0.4.tar.gz"
+      },
+      "0.7.7.1.0": {
+        "sha256": "5b70ef4a1326cfe4e36343428de1fca22ae1bb1578e082a5550731dc0f014db8",
+        "url": "https://files.pythonhosted.org/packages/24/87/9c3afda5836731bbdec2bcbe3d55140e4d118d28d8f4c84515738fca8e7c/dedupe-0.7.7.1.0.tar.gz"
+      },
+      "0.7.7.1.1": {
+        "sha256": "ddf39e4932c243746ab25c9e2fbd42e103d3074da6acdc9956780ef27c38f4e0",
+        "url": "https://files.pythonhosted.org/packages/3a/36/d235e5b21f5e98e2027ca7c736d848b96c2bd05c7c6d15265b16e959d16d/dedupe-0.7.7.1.1.tar.gz"
+      },
+      "0.7.7.1.2": {
+        "sha256": "3792105897ff585729d8fff205655acfb274c12ebb8a9bac2fb6efbecdd91c8d",
+        "url": "https://files.pythonhosted.org/packages/46/15/d1474d04196bc3d0b3f97760dc47d653ac4569c6e97eacfc8d4365ed2fe4/dedupe-0.7.7.1.2.tar.gz"
+      },
+      "0.7.7.1.3": {
+        "sha256": "56de3579e9afbf0b963e69fe25d8bbbd9b03e80b561461baa074fe338ed5389f",
+        "url": "https://files.pythonhosted.org/packages/c0/e3/bb0b8c608ae6b7f9b1a4ab6d9537d32fd713bd8347b24b5f32c99b80608b/dedupe-0.7.7.1.3.tar.gz"
+      },
+      "0.7.7.1.4": {
+        "sha256": "5b5d4baf4a95b4aaafc2bb66dd6d62463bc1f5346ff7ba29e72399064dd5d119",
+        "url": "https://files.pythonhosted.org/packages/44/3d/6ee44a926678e8a8e617ca9aad962e6e1e23f950edf975e9b930395c5982/dedupe-0.7.7.1.4.tar.gz"
+      },
+      "0.7.7.1.5": {
+        "sha256": "e384c9b035c5a783da8a0b9f900dd040d40c9a27e60c46567c034a852d1ed98e",
+        "url": "https://files.pythonhosted.org/packages/b6/a7/97d0f4ebaf9acd28d489397c862a87b0e90f2177353b2b2c36b869deb41a/dedupe-0.7.7.1.5.tar.gz"
+      },
+      "0.7.7.1.6": {
+        "sha256": "12b28d9a7012fa42da393ea01386bb215e058668b68e47cc4d4a46e6f6a14840",
+        "url": "https://files.pythonhosted.org/packages/8b/d0/ccce03bdc616e8c66a9dae3a8654287c8ab6177c785f5c38e05b769aaf5d/dedupe-0.7.7.1.6.tar.gz"
+      },
+      "0.7.7.1.7": {
+        "sha256": "2458654e46fb8fd34840fb437eebde40ad599b0bcf7772f6789c53d001074b63",
+        "url": "https://files.pythonhosted.org/packages/44/8b/de867c8fa7d961bf5bb3d10f4806c55e40e119b78d1ba2601ebaabdd11fc/dedupe-0.7.7.1.7.tar.gz"
+      },
+      "0.7.7.1.8": {
+        "sha256": "f0fb2f8c7550de2960baa298242063aa140777747d6165359aada9609dbdd2cd",
+        "url": "https://files.pythonhosted.org/packages/8b/5f/418d67725046a3f7dd001d834e86ea7f9f4b04f54eed5e01eca3d90cbde2/dedupe-0.7.7.1.8.tar.gz"
+      },
+      "0.7.7.1.9": {
+        "sha256": "fefb822da83b777cfe2f347d3c1c03c16a31e15bcbeedc025bb3f7f06bc6eaf1",
+        "url": "https://files.pythonhosted.org/packages/82/4c/33c172f005541a549c75171a285158392f6a9e4580e07125ee798a532e39/dedupe-0.7.7.1.9.tar.gz"
+      },
+      "0.8.0.0.0": {
+        "sha256": "49ea3566400ef6d7d6846ba7156fc52af4cfaaa940c0801f96e07fff9055f056",
+        "url": "https://files.pythonhosted.org/packages/42/cc/01f8285f54987f60f7d6a1a511f93416a4ff2e7c13dc19f7a4538b8a94d6/dedupe-0.8.0.0.0.tar.gz"
+      },
+      "0.8.0.0.1": {
+        "sha256": "49b855311c046193aef3958d38e3a44795ce9eccdd7cd780a57ee29e880ce456",
+        "url": "https://files.pythonhosted.org/packages/b1/d3/0cd4e66b9a89d0b2896fcd2bdc40f788505c0e80a3a39a526eb0ecc757e3/dedupe-0.8.0.0.1.tar.gz"
+      },
+      "0.8.0.0.2": {
+        "sha256": "052ddaefd8eceb5ae3de3c0fa4c4675cbef903785ca6ec4a69e44d5e13f3b5ba",
+        "url": "https://files.pythonhosted.org/packages/6d/d8/344e627bc78a1b2d3083aee0b09f9a82b8fa0fada9c88909d70c31170a94/dedupe-0.8.0.0.2.tar.gz"
+      },
+      "0.8.0.0.3": {
+        "sha256": "6d3e6d5a30e34e98e74729ffeb9caabc471b8cab0b1a44b3387ce5b8328f95bc",
+        "url": "https://files.pythonhosted.org/packages/c5/b1/74b3b24d6b769c27daa5f1fcb1670f185070dc1e6d90b0840f532c88fa5a/dedupe-0.8.0.0.3.tar.gz"
+      },
+      "0.8.0.0.4": {
+        "sha256": "9bfc8edef60a3108d034af040b900d6fda067cc29f6dbbd2beb8d81765042278",
+        "url": "https://files.pythonhosted.org/packages/98/b4/809fb49a852f69a6bb4c1718d1f757d8c25ee1b47016505f51cccf16f0bd/dedupe-0.8.0.0.4.tar.gz"
+      },
+      "0.8.0.0.6": {
+        "sha256": "847519bcee3036810c24d2403d400f14cfff40eca94be0cf2a8ac79b5b4ae715",
+        "url": "https://files.pythonhosted.org/packages/da/2e/af0da9116a6debba73101470b31d3faac7e637e65d9248c67a62b6974d71/dedupe-0.8.0.0.6.tar.gz"
+      },
+      "0.8.0.0.7": {
+        "sha256": "6a1aa02f2024ae8cee441554bcd538b74c698d79b821f6e9f8307cb21a8f267a",
+        "url": "https://files.pythonhosted.org/packages/31/d8/021f3e2f033eb9f7e0c634f2d626c25fd14a801b575e5af7b48bd86ade96/dedupe-0.8.0.0.7.tar.gz"
+      },
+      "0.8.0.0.8": {
+        "sha256": "ce66dd07b8042d4e07e06b5d2d47867481ba151a3ec58448d4f277deca7ad1c4",
+        "url": "https://files.pythonhosted.org/packages/ac/e3/d01f93c0e7014da645d917e16081730196e9c2d46ee2579f3d3509292a9a/dedupe-0.8.0.0.8.linux-x86_64.tar.gz"
+      },
+      "0.8.0.1.0": {
+        "sha256": "7522098e8cf914dcefdf0aeaebcade4734b18110782dab9c0e8e467cd32448f7",
+        "url": "https://files.pythonhosted.org/packages/34/32/3a59c8fbb1be358965d5148f10715fba06c9c8377e7c3525b7b88cf1d19c/dedupe-0.8.0.1.0.tar.gz"
+      },
+      "0.8.0.1.1": {
+        "sha256": "7347de567d2504532dc749614310505da8e36415e4970ef9c7b254807525cfcb",
+        "url": "https://files.pythonhosted.org/packages/5f/92/08926bbea7ba81dc8a9d355de637b508e344e0d33cdad01e53fac6a12a63/dedupe-0.8.0.1.1.tar.gz"
+      },
+      "0.8.0.1.3": {
+        "sha256": "90ee88059bb63bfc31fa296c4afa74d7e5d33f394bd4e72b5dcae43950e520a7",
+        "url": "https://files.pythonhosted.org/packages/e5/ae/829b93ff4c7c92325b3d2891c4e741326245ab69e3ca48c9f9cf4aab683d/dedupe-0.8.0.1.3.tar.gz"
+      },
+      "0.8.0.1.4": {
+        "sha256": "75362331414d4139430f4b091c3f7af38bc77b89e8695d7bbb75f1daaf7e9ef1",
+        "url": "https://files.pythonhosted.org/packages/d6/d1/b6f99c808f98d20438d050e967b720514406dc7f09a2810e3f1edec1cfca/dedupe-0.8.0.1.4.tar.gz"
+      },
+      "0.8.0.1.5": {
+        "sha256": "8280b978c83329cf3591b0f320d750764be35c5c9f0dd70bb7aad86b37063d88",
+        "url": "https://files.pythonhosted.org/packages/33/be/52f85dd955253c4ef93473d1abe0e435ffe0e0d6a02bdf82c79138d9d73d/dedupe-0.8.0.1.5.tar.gz"
+      },
+      "0.8.0.1.6": {
+        "sha256": "e2c07740fcabf74ff7afd3f954d66bde1984ffc4933d372851a3e53a3adab173",
+        "url": "https://files.pythonhosted.org/packages/04/9a/514f530b2455ee9e6ad892a9525949d1d6ed8423738b727aec2c83328a17/dedupe-0.8.0.1.6.tar.gz"
+      },
+      "0.8.0.1.7": {
+        "sha256": "3ca30aaa561930bb24d3548dc60f732602a81f1e6913ce9dbe9bf24a8b27a166",
+        "url": "https://files.pythonhosted.org/packages/50/54/af40331745f1dd5d10d8c60a4f092a1bcdb71e7470b795c88242306ba7f4/dedupe-0.8.0.1.7.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "ef2430045cd9356a6ab71b6f3ef17ab1505d8b947073cf207899e9b14e2a3e3f",
+        "url": "https://files.pythonhosted.org/packages/93/55/5e39e3d601bc5792f92ba64c64fea79400f3cbf4bb40bb144a773a7ae195/dedupe-1.0.0.tar.gz"
+      },
+      "1.0.0rc1": {
+        "sha256": "76aa165fdc0d52d86fe787cdb78fa2f11781bb0e0fe7f85152608a14c3bb65e3",
+        "url": "https://files.pythonhosted.org/packages/6a/aa/a92c5fe25e31c6a6d50825f111d27dbc92b071ba89a6146412f1e58619db/dedupe-1.0.0rc1.tar.gz"
+      },
+      "1.0.0rc2": {
+        "sha256": "2915ab8b12bc8817d7b3b84f3a6cd9d7d516d109ca394f530ed5e37767cdf92b",
+        "url": "https://files.pythonhosted.org/packages/3c/9a/8a80d55d2f8a90a8924be37af99411fd51703794a614528789d5146bc2b5/dedupe-1.0.0rc2.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "9560b2ac4ab4f27847a567afa2e47857acd1bc89f0922a607d0926c011391066",
+        "url": "https://files.pythonhosted.org/packages/08/06/24ed7704b9834346a9e755019484f527664d894e4aedb400f40eaf4f90c7/dedupe-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "081f5c0671dbe2e93eb17ad575f84663794229e760eeb49dfb6350c89d75d7c4",
+        "url": "https://files.pythonhosted.org/packages/61/1a/1bb262fba6eec46bfe8b06e72fcf3cf1795354c00d7ad474e7e6464efb4c/dedupe-1.0.2.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "89bb4dc35b5eb722f0de3495ed11ce2e681e9bc0d290f4d94c11c3777bc20283",
+        "url": "https://files.pythonhosted.org/packages/92/b9/3456ae1165fe24bd96c95aa199209f1baf115b017a1a4d6b3167f22ef766/dedupe-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "4334178d25956b74039b6116e9f33a9122d58d32d1018a043fa46f5ef3145ab5",
+        "url": "https://files.pythonhosted.org/packages/c7/df/515473d040c2ddc909be334955d0267d2a1ae6e23fc8030195832b7bca05/dedupe-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "ca75041b36eb2344b4e7ac0a77a63e75624f2ab62dfea372375d77e2227f04cd",
+        "url": "https://files.pythonhosted.org/packages/0f/5b/2249432b94a15450d2c454e79181f51994fa14669c241798aaf210cd45de/dedupe-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "15cd5b9a8f3095976e9d228c28b142d81a11ab2a3ba02993cf31ce06a0696ddf",
+        "url": "https://files.pythonhosted.org/packages/c3/8e/da98fb3ad144dce57baaa1ed439e470974fd1d64eb394627be85312cb089/dedupe-1.1.3.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "1063714d6aa5989957c22a11dff90d93533dd39f287f7b83e24fe9c4d440c6b9",
+        "url": "https://files.pythonhosted.org/packages/4c/49/8f19bb457d984bfc41661dba7d689610500222704bad149bcfa888fb20b0/dedupe-1.1.4.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "4f73020a393586cfb4cdc2a40e74f3d005f47e57d6e85df2e1e10dc3ede4e097",
+        "url": "https://files.pythonhosted.org/packages/c4/42/6499cb6aaa56a2b565e98128ca75d54b1be74c588696376bfc0354839018/dedupe-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "5ef7e8b881118dab8ffe75f427f6a2f2ef8783d407092130cc1d0973713ebe5e",
+        "url": "https://files.pythonhosted.org/packages/29/60/673cc5ff9a7e9c7c60b799a699ec35e1504f9f26e6b85ee14afa665c2071/dedupe-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "3de4c7308022574261a406890dfa6c229aa3611da0a5e277f407705013768b14",
+        "url": "https://files.pythonhosted.org/packages/58/74/d6a156b580364ed23ad08a040ea2098228d9d56a5435924a5a62b22667c4/dedupe-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "3ff023f570b3b0f9020a644bcbdeed4d609f9a6a973afecd01b8d9aada7afcac",
+        "url": "https://files.pythonhosted.org/packages/74/69/3c2fa3eac7eea5b1759a99f33642696946269f183359f8975242d2be4c1c/dedupe-1.2.3.tar.gz"
+      },
+      "1.2.4": {
+        "sha256": "9050962d37c3a972e84e76fd29542faddabe3dc9e38a71ef370a6112cb28e9ec",
+        "url": "https://files.pythonhosted.org/packages/04/3a/c0fc3ad095b7f0ee0c54aa75b471492fc2d60fec134bed5aa43be21021f4/dedupe-1.2.4.tar.gz"
+      },
+      "1.2.5": {
+        "sha256": "34a087b5c8b99f4cf958308afecdf88bbf98d57a4512e144a1f6d31a419cd4ad",
+        "url": "https://files.pythonhosted.org/packages/c1/98/63dfb97c11f90362959d11953ed87eb54906467cb5d9512aeba47ef243df/dedupe-1.2.5.tar.gz"
+      },
+      "1.2.6": {
+        "sha256": "d7cbe29843282a495c20a86635ec8f0231ebd740cecbba5fe92a9658d553033a",
+        "url": "https://files.pythonhosted.org/packages/b2/ac/14f067a3dd542050c34c7f87deb1885f14336ad64374dde9c9b27a0a7e13/dedupe-1.2.6.tar.gz"
+      },
+      "1.2.7": {
+        "sha256": "2f6632e279dd0c1e2c5eedd40ec28c97bc4acf6938980fc677a5cefa3b4df226",
+        "url": "https://files.pythonhosted.org/packages/6b/1f/7b3fbe2cfb5980e8c7c0f1fe109979ad99ead14107b57625bc8445ae4bc9/dedupe-1.2.7.tar.gz"
+      },
+      "1.2.8": {
+        "sha256": "c14fd333e4810e10fa0f0f3b708af7a711d7df6741ccf74ba6c4cf2b52b7bbf6",
+        "url": "https://files.pythonhosted.org/packages/95/fe/b5e0474463670181fb91e4d214dd441b5ac2a257e6a57b709dfed1fb8fb2/dedupe-1.2.8.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "287fb316f1a67427a39fccd5cc41e12df1210ae3d767a233f7d01691716d2ece",
+        "url": "https://files.pythonhosted.org/packages/77/da/855da358dd96ca6d3f7f02334c01f5342d480c2345d9f0f18fe9ebf0c4e7/dedupe-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "89e5aa2fb0420a0bd9a809b391f986e42e2e2bedebce861bc443f748ed7c901f",
+        "url": "https://files.pythonhosted.org/packages/40/7a/04563ef40d826d3372915977b6243559f99cbd6200c0320be25761865032/dedupe-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "e126b65ae851a0434b52cbcdf59b8d5d814be4502816aa6a93dbf41b3d06739f",
+        "url": "https://files.pythonhosted.org/packages/77/82/0c2b9d00199e1d93b34d562aa56d57a29988a9d7402f1521ce8cb1725e87/dedupe-1.3.2.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "a9043089ba260ea4428c85e8546488643caa5d19b44ecdd70e5454c888665104",
+        "url": "https://files.pythonhosted.org/packages/ba/42/787ff3db8d7fdb844dc87156e9098639d6c91fea0838e5245bd26da55a00/dedupe-1.3.3.tar.gz"
+      },
+      "1.3.4": {
+        "sha256": "960bebcb1fb4d094ee9a8e35b6bc66244869e1c291df9af3f0b2cf3652a3b0e6",
+        "url": "https://files.pythonhosted.org/packages/fc/c8/2c27d831ad9ba97a69c8346f449d744170a2bf7b29690f34ee4e70551071/dedupe-1.3.4.tar.gz"
+      },
+      "1.3.5": {
+        "sha256": "75bb8b801d4b7e7c83d727e43267b0a2946d522d6a1a185ff7c9ce9fe5ec36b8",
+        "url": "https://files.pythonhosted.org/packages/16/80/e1fab800e892ad003977409a7b76fa115752e5ec2c85b8e5eae62a31d63e/dedupe-1.3.5.tar.gz"
+      },
+      "1.3.6": {
+        "sha256": "d822942d21bbfd8d7c1ccd4f95d3c7d32206839e32c58bd7b9f47d1279236b0f",
+        "url": "https://files.pythonhosted.org/packages/77/49/f41e13b79901c11680554fa86e1f2f77b0ece524755fd0a7a50d558cdc8e/dedupe-1.3.6.tar.gz"
+      },
+      "1.3.7": {
+        "sha256": "63b90a6c2d5f471359899e2699a3241cb8300fdd590f0c92685e7439a9ce9b9e",
+        "url": "https://files.pythonhosted.org/packages/cd/33/c478c5db8dff24fe009acdfc453160aa14e0535bc29f99619e4fc4712ee8/dedupe-1.3.7.linux-x86_64.tar.gz"
+      },
+      "1.3.8": {
+        "sha256": "b6bc042cd232b3896d87a3f329bdf79c000473f34521e25115bbb33650c97d23",
+        "url": "https://files.pythonhosted.org/packages/d8/53/4eadac04d85b5693182fd49913b25b9f9d389310ba9d5c572612db11047c/dedupe-1.3.8.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "e48efa14215416cbc68d5639c3b78abb6bce719a5f34e4601c2316bc5b3aeff8",
+        "url": "https://files.pythonhosted.org/packages/d3/78/19ef009c31e2ff6aa1324cff037cdade19904af3e0cec1b2014d59814a35/dedupe-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "8545cb2793d53901ce4a98324258e0810264b9c2aaecc150a15609a1ff77b9e3",
+        "url": "https://files.pythonhosted.org/packages/dc/95/8c1a614f896b9c9142f12d2a0dd57572deb21f003e56b7c66368c589378f/dedupe-1.4.1.tar.gz"
+      },
+      "1.4.10": {
+        "sha256": "551da3168e79687287b440282579ea49bd542ff7758c2e93b9e64888d9ce20f4",
+        "url": "https://files.pythonhosted.org/packages/2e/6a/b7f77d50ddc76b4af18634e18bdc718f4aab15195a8f59318259f587dfa5/dedupe-1.4.10.tar.gz"
+      },
+      "1.4.11": {
+        "sha256": "a9186aabf64b7c4f428f46f736a436b71191ac4522d5391f55d8933c749f2f16",
+        "url": "https://files.pythonhosted.org/packages/10/df/666a33ed61f151e61e01171859b66a0075dc61d4a45722721e4cc49af73c/dedupe-1.4.11.tar.gz"
+      },
+      "1.4.12": {
+        "sha256": "3feace75287394faf530996ed9fa0d7c16a342eb00f0b3d111018382e5011eb3",
+        "url": "https://files.pythonhosted.org/packages/f2/44/afc911ea93717d8719335be2cbf1af59d25cd065a99a065d2d55895d467d/dedupe-1.4.12.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "7c2bd4c76f31b9afc0c72959473944b3183bd381f0094cf3c89fc8bbfdd258a9",
+        "url": "https://files.pythonhosted.org/packages/b7/bf/661847aa076468bd261fa4f3dddf6763d1a7789088dbd1a53ecd33eced45/dedupe-1.4.2.tar.gz"
+      },
+      "1.4.3": {
+        "sha256": "e3c7f968596d959e292ca7874e317daa4f813740ea4e99391bc25c206bef44d5",
+        "url": "https://files.pythonhosted.org/packages/bb/04/1e81ead9ba7ef6dcd4ebdd92be3938af11014148d7f6f27138f8421f1c09/dedupe-1.4.3.tar.gz"
+      },
+      "1.4.4": {
+        "sha256": "d7f3d15de20b91f5b3fdb30455f304f37539338ae4c32fbd6e570be0845507d3",
+        "url": "https://files.pythonhosted.org/packages/f4/b6/7c0c0b1a72ef7982e6a79db7d980d9d7119cef8943ccb578e9631a123f7d/dedupe-1.4.4.tar.gz"
+      },
+      "1.4.5": {
+        "sha256": "77b7d78d184ebb9c759453ca088bae776983d02b925ffcd7b07cb33167b7b52c",
+        "url": "https://files.pythonhosted.org/packages/27/06/f2245d22d66f4bcd1bb988d2375ca93032c3d8aaa8ea7b3cfba20735e151/dedupe-1.4.5.tar.gz"
+      },
+      "1.4.6": {
+        "sha256": "8517aa799a1beec2289996156842ff3326a8a17e166ce9f36aa51685c29733f3",
+        "url": "https://files.pythonhosted.org/packages/69/0e/2917d6049ae5312e06a392aba7e4181689c715e2676f2eb9cb38728ad2dd/dedupe-1.4.6.tar.gz"
+      },
+      "1.4.7": {
+        "sha256": "457da5e4fb318fd6feeab3529179814dcbe428afbb427beedbf2650e4ac2efaf",
+        "url": "https://files.pythonhosted.org/packages/36/bc/857e12d2762c0d8113992bf6de7458fec491843c62fa99c656128900ef2f/dedupe-1.4.7.tar.gz"
+      },
+      "1.4.8": {
+        "sha256": "bd2229e35a42ee3f4a375e1e6815be3e529f9a7931a522b85c6803d02ac884f5",
+        "url": "https://files.pythonhosted.org/packages/c0/84/867fab2086f6c2b12972c4cf289b95a834c30bebd3bb0b9e87a55c5d4f5c/dedupe-1.4.8.tar.gz"
+      },
+      "1.4.9": {
+        "sha256": "79d3e57a875572d3560167ebd59336a460cede346e4742376e5a29ed8fbf0d15",
+        "url": "https://files.pythonhosted.org/packages/5f/8c/0aef7408cb4eaf2bca11745cc5b29c0fa905dde759866c7c6c204716a0f0/dedupe-1.4.9.tar.gz"
+      }
+    }
+  ]
+}

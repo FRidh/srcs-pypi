@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.10"
+  ],
+  "meta": {
+    "description": "Helper modules for making wrapper packages around non-Python code",
+    "homepage": "http://bitbucket.org/seibert/shrinkwrap/",
+    "license": "LICENSE.txt"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "c0f63445ab4ca1de999adcda45be0280491a2ae3976d9a15f2a4c5a373d93dd7",
+        "url": "https://files.pythonhosted.org/packages/4f/93/a893a5507d1ae188d5bc989bfdacef7784aac47a9d5e7ca96245a302327e/shrinkwrap-0.10.tar.gz"
+      },
+      "0.9": {
+        "sha256": "8fb2c2da9ee948ad33e7a57e193db7ce0e552e8beb691faecde820eecca58917",
+        "url": "https://files.pythonhosted.org/packages/e2/c2/328871f207769387960f53eb00236e1fedf74f3940de4c77a9b01fba5009/shrinkwrap-0.9.tar.gz"
+      }
+    }
+  ]
+}

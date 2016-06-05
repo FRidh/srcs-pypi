@@ -1,0 +1,302 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "SSH2 protocol library",
+    "homepage": "https://github.com/paramiko/paramiko/",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.1-bulbasaur": {
+        "sha256": "5aaa5d1dc6bba17c2e05ba26771864d74b1bdd9abd23f777d35eb18dba6e9817",
+        "url": "https://files.pythonhosted.org/packages/be/e1/9d9bae0cbff48dc23613931843f1b5861418ba6e162d3cb6fbbba5b0bf81/paramiko-0.1-bulbasaur.zip"
+      },
+      "0.1-charmander": {
+        "sha256": "3289840e597a77014123ede5838b0d6f7625a701e57e010cdffbb276b5741d29",
+        "url": "https://files.pythonhosted.org/packages/de/02/2bcc618218a3e020be28f610d4e714a993e9420fd177afa765c7559f823d/paramiko-0.1-charmander.zip"
+      },
+      "0.9-doduo": {
+        "sha256": "c63b85302f48bdc861e3858c816336195589c6f6f689f63b87f7527bf18e892c",
+        "url": "https://files.pythonhosted.org/packages/77/ab/ecb5249ebb73cc166733d94a18fe1b565d0c4dfc69c83a2651fcc044f287/paramiko-0.9-doduo.zip"
+      },
+      "0.9-eevee": {
+        "sha256": "a5cbf1ac27f8e1ad0b5a9961e31455fdddc5d2b4b201d09b669fdd48ddf309e7",
+        "url": "https://files.pythonhosted.org/packages/fc/bb/d8dfa7dfd800e53026c2e9eac44b71bc174e405bc271de52a56c07a000a8/paramiko-0.9-eevee.zip"
+      },
+      "0.9-fearow": {
+        "sha256": "6a003cec72e0b861c16ff43806be5861fb6a25cf8e1ac564885e4ea8c301b8cc",
+        "url": "https://files.pythonhosted.org/packages/83/4e/7c99ea036a3517c34644cd26f7576ac6c42871f9d593a237ad8be1368f50/paramiko-0.9-fearow.zip"
+      },
+      "0.9-gyarados": {
+        "sha256": "1b97709d7b7ca028661e6fe0ef34aac40619a22c1b411d437e8cc063077769fa",
+        "url": "https://files.pythonhosted.org/packages/52/20/5df1edb2754f14b7e09e3fe3718c4610dc0f904ae0c492ff19538ab9132f/paramiko-0.9-gyarados.zip"
+      },
+      "0.9-horsea": {
+        "sha256": "495a5be3e3d404247b13431698d616da20397566d54e4f9873fa02c80ff9942b",
+        "url": "https://files.pythonhosted.org/packages/ef/4d/602de3651cac513d9b83d09c8846cf5406ea68c03ddea58b4fa07fbd9065/paramiko-0.9-horsea.zip"
+      },
+      "0.9-ivysaur": {
+        "sha256": "ac935dccedbd2c70e1c5067e78ba16205ce7a8d8138035109cfb2391c23fc53a",
+        "url": "https://files.pythonhosted.org/packages/dd/48/5bd31bb830f41ea6896437b9af11359d7b0258db07beabaa81aad14fe714/paramiko-0.9-ivysaur.zip"
+      },
+      "1.0": {
+        "sha256": "a1171027e6c699284b3a5d4a2a30e8380d890c782841be0ed5281a02184d3024",
+        "url": "https://files.pythonhosted.org/packages/65/99/f8bdeb157d87dd6924ca9042f768e34912bcfd8d0a814fd18beef2b30b63/paramiko-1.0.zip"
+      },
+      "1.1": {
+        "sha256": "9f0075bc40332772aabb421e06fac76129a6df1ad88f1e4346756c20b01b58e6",
+        "url": "https://files.pythonhosted.org/packages/4d/e2/9a6715acbac15c781276b67e6100ba118958b3c59bd1bd1d1e30cef40e0e/paramiko-1.1.zip"
+      },
+      "1.10.0": {
+        "sha256": "51c579419403fd6694defa8b5e6d98bbabc310efec48836de859148a9c94c64c",
+        "url": "https://files.pythonhosted.org/packages/10/4b/21ae5fe869a724f59cd036fafac3477a9dc195f398dacb3b66eb52afd90e/paramiko-1.10.0.tar.gz"
+      },
+      "1.10.1": {
+        "sha256": "5fac0dbb3d7498bf4a7e1b8fac920cb8977a90e260d43d7e30fac2d6dd5fbabc",
+        "url": "https://files.pythonhosted.org/packages/bc/f0/204504e800922bbfb6fdc8013d07f52bb8b1f84e611e2877806a43d5d129/paramiko-1.10.1.tar.gz"
+      },
+      "1.10.2": {
+        "sha256": "35b7c7e10ca68addcf477e42419d053ce0dc9c95c3e384c118a999a2311dc109",
+        "url": "https://files.pythonhosted.org/packages/d3/e8/6155457232158f3336e7ea569905bb5f2b1c84a52fea6941707c2581e0a0/paramiko-1.10.2.tar.gz"
+      },
+      "1.10.3": {
+        "sha256": "95b7a1dd1bcb7451e4117f9d2ff46ebe5544a3c7af933e5c18b25a05879d5410",
+        "url": "https://files.pythonhosted.org/packages/87/d8/ab77339c44c04e7124024d7c0ab26b7afba847d0f203d83fa186f7a24ea8/paramiko-1.10.3.tar.gz"
+      },
+      "1.10.4": {
+        "sha256": "035b6ecc24be7a4082478659562df54042d67ae46595a05cef8682892f9d047b",
+        "url": "https://files.pythonhosted.org/packages/40/3c/95a6589458a3785d3c77cb4e3d4f0d566a008c0ce1d77bf7798d97367512/paramiko-1.10.4.tar.gz"
+      },
+      "1.10.5": {
+        "sha256": "bff106d66a40413a61a524f02a632cbf0792df850859b2511c4b770278285459",
+        "url": "https://files.pythonhosted.org/packages/92/8a/23c23fba06d80b2533835628b1d6fc8743f50c181e7c75207d07bb9f035c/paramiko-1.10.5.tar.gz"
+      },
+      "1.10.6": {
+        "sha256": "c023c0764e64bb8216f6001fdadf4a1e4b2441641c0cb3e5349142334b8ac6d4",
+        "url": "https://files.pythonhosted.org/packages/8a/91/017daf24b88dc9d780fc99a00145f06035251b6a63f9401c2c701dad3a25/paramiko-1.10.6.tar.gz"
+      },
+      "1.10.7": {
+        "sha256": "d5aa556055e3eeb8cba94f09a5a09fe892c2880cff3f58f30f44993c06f2cc07",
+        "url": "https://files.pythonhosted.org/packages/c8/e4/2fe11468d533881b15557f318825788875ab5ede5cf6b3ae1394007e722f/paramiko-1.10.7.tar.gz"
+      },
+      "1.11.0": {
+        "sha256": "d46fb8af4c4ffca3c55c600c17354c7c149d8c5dcd7cd6395f4fa0ce2deaca87",
+        "url": "https://files.pythonhosted.org/packages/38/2f/5e86ca1a5e7a1d4fc30cd75d6dbe132d94e442aa7eca218ffbbe76d7d3ca/paramiko-1.11.0.tar.gz"
+      },
+      "1.11.1": {
+        "sha256": "2fd7c65f650e25018488839988d3fbae8dd3cf7c82e0ae98d3b029bebd085018",
+        "url": "https://files.pythonhosted.org/packages/8a/70/d06bc337a83e6718b2417c3ae859c1a138e78ee16642fd1047f4511baac9/paramiko-1.11.1.tar.gz"
+      },
+      "1.11.2": {
+        "sha256": "019c261854ce6c072fd46705fa02e8b6f2ca86447517d376434ea19581ba5651",
+        "url": "https://files.pythonhosted.org/packages/c1/33/66840026bf27d2f2ceb5fbd6eacb6256b7c646d354e20c7d22313254bc19/paramiko-1.11.2.tar.gz"
+      },
+      "1.11.3": {
+        "sha256": "8cee0c5c8ef6437e87d149de964b82762672a2d3b0cd1514c0093340131b9e7f",
+        "url": "https://files.pythonhosted.org/packages/82/bb/60fb97e996c49bcc412cb54aa769cf050048446c1dffcba2ed43f6d35b79/paramiko-1.11.3.tar.gz"
+      },
+      "1.11.4": {
+        "sha256": "c21d30230255489ef8762bf0c87c895a541388cc353d9bdf60697f1f482ebe8d",
+        "url": "https://files.pythonhosted.org/packages/94/92/6c130503eb540b764dd7168b242737115c6211479bbdd11cd8af0f22fc39/paramiko-1.11.4.tar.gz"
+      },
+      "1.11.5": {
+        "sha256": "b7369878e609d84d13be888c75ea57b3ddd169f6647646cd489eb1ee1310f784",
+        "url": "https://files.pythonhosted.org/packages/16/a9/cf4f2d1aa4ac8cd53f4ba465bee78462ce198ac127dcbee67a9aaded0941/paramiko-1.11.5.tar.gz"
+      },
+      "1.11.6": {
+        "sha256": "50b600dd125065223df94470732da50efc7efeaab7f9e3f54e8f854241c74655",
+        "url": "https://files.pythonhosted.org/packages/f0/5b/6c9819cc449369af254ed94edf30441c4083c31d114e864f0e4eab7ecc90/paramiko-1.11.6.tar.gz"
+      },
+      "1.12.0": {
+        "sha256": "cc0c0549f611ccc1358a0e1c760e00074990adba723d4d647a2637a1fadbdd71",
+        "url": "https://files.pythonhosted.org/packages/fb/21/72d5ec1bc08de313cb17d1de82077389b9055ec23ad91a62eab85730ac37/paramiko-1.12.0.tar.gz"
+      },
+      "1.12.1": {
+        "sha256": "792d3735ef91c2f54c1afc8c18341c7a707bfcec19d2d29da76c2758dbd79e8c",
+        "url": "https://files.pythonhosted.org/packages/57/b9/95b363b79ff291ea1f4ad2dcf120cb08f862b65e17783ccb2ea047e7115a/paramiko-1.12.1.tar.gz"
+      },
+      "1.12.2": {
+        "sha256": "d73bdafd1cb7181f7fd22164b55578f2389487aa50e58fa915b22e2f539b50cb",
+        "url": "https://files.pythonhosted.org/packages/af/8e/bdf721f063a6e5b499a4eddacd2fc4fe0f255044f6b538b7fae0bf18f7b5/paramiko-1.12.2.tar.gz"
+      },
+      "1.12.3": {
+        "sha256": "3af0df489b220da4783a8ccd2aef57b731c9c84b75de92f590053217f247fdbb",
+        "url": "https://files.pythonhosted.org/packages/7b/c1/ddd09923a8c894cb60f502577caddb1a3f6baf619969162786513415e542/paramiko-1.12.3.tar.gz"
+      },
+      "1.12.4": {
+        "sha256": "12c672d1280fec02d7160afe42dd44c2e9868555ff8e1a028f10cf141ec2455f",
+        "url": "https://files.pythonhosted.org/packages/88/12/4b0ec2f70b83773482c581a94f18e9bef5b4e2b42fc191644582818618ab/paramiko-1.12.4.tar.gz"
+      },
+      "1.13.0": {
+        "sha256": "920d68fdb549189c7ebff89f432cc242161d76554a91ae38fad94e7ab70349f5",
+        "url": "https://files.pythonhosted.org/packages/b9/ff/7dbc1cf4a9fedc8a2a8851e4000720646ae92f568cb20a3777132d21661f/paramiko-1.13.0.tar.gz"
+      },
+      "1.13.1": {
+        "sha256": "5f4b9d9f0d3d29ef70ae7a3b065def5f9c22a6faa6b85ecb45a969b07e06c6b6",
+        "url": "https://files.pythonhosted.org/packages/e4/15/1e8b8670bcb9f3fc657be4c4b953d8a9329bcafb46ab1c70f1e41a45927f/paramiko-1.13.1.tar.gz"
+      },
+      "1.13.2": {
+        "sha256": "c4998f638c4a70e800636a158405946666e2319558a4a69d0b2a5c8087bb5dfa",
+        "url": "https://files.pythonhosted.org/packages/fa/21/68262d386a0bd4213a56c07cfbd762218ea9c41a991d6efdb0940f43c77a/paramiko-1.13.2.tar.gz"
+      },
+      "1.13.3": {
+        "sha256": "da182451f4eab43d2b872ccc9f4ace6f191955c372b67ef6b5513756ddf3ec42",
+        "url": "https://files.pythonhosted.org/packages/c0/ae/40bb0649e0c3f6f47762e3520b1fe8afed29f08a42bc00e9287cd033dee1/paramiko-1.13.3.tar.gz"
+      },
+      "1.13.4": {
+        "sha256": "562f7b865c19d18781a9f5481673c496a49a561713ed8f55b873ac28889aecea",
+        "url": "https://files.pythonhosted.org/packages/eb/5a/370bc7c753cd723ef29f4f340aacc7025ae7ac6d17be8c08b132d15dd7a8/paramiko-1.13.4.tar.gz"
+      },
+      "1.14.0": {
+        "sha256": "6e606b4623fad4bf02c1aa5ade4c480b4514be90dbf2e096c643e56d1ead63e9",
+        "url": "https://files.pythonhosted.org/packages/68/ab/64f6a083a3f4b759026afab5ed28f0e83744a8ff65625f0c518c245aa2b2/paramiko-1.14.0.tar.gz"
+      },
+      "1.14.1": {
+        "sha256": "02ef14cf8d116d71f44e84334b1cd5431e247501a9dbbbba4308786ac8b8aed0",
+        "url": "https://files.pythonhosted.org/packages/28/10/bf583b6d3b5e48408750a5175f5b42fa287f53a2f2674649930fbeeb4732/paramiko-1.14.1.tar.gz"
+      },
+      "1.14.2": {
+        "sha256": "ee8fd8b9427026dae40d83e24095f5a5ca706d477e7b54a7df30122b4070a630",
+        "url": "https://files.pythonhosted.org/packages/c7/b1/65300e407e4a7e0db9230d3df6f45b277ba58d5bbdde1b75464f40916c35/paramiko-1.14.2.tar.gz"
+      },
+      "1.14.3": {
+        "sha256": "638983d3640ff176fcab70eef81a3908c6299ad94197d3903fcca0a067795294",
+        "url": "https://files.pythonhosted.org/packages/c0/c7/e6dad37f5a68e21eff9d889a148782479293520d319c8ecc51a85aa211f8/paramiko-1.14.3.tar.gz"
+      },
+      "1.15.0": {
+        "sha256": "fbde40fe4af5bf9cbbe74bbe624c0f335137a1ce3e242fda4a6f2695e7bf2a4a",
+        "url": "https://files.pythonhosted.org/packages/3f/d1/f478222202debc6114c443cd13f05976e72461dcadb75b280c458c089629/paramiko-1.15.0.tar.gz"
+      },
+      "1.15.1": {
+        "sha256": "6ed97e2281bb48728692cdc621f6b86a65fdc1d46b178ce250cfec10b977a04c",
+        "url": "https://files.pythonhosted.org/packages/04/2b/a22d2a560c1951abbbf95a0628e245945565f70dc082d9e784666887222c/paramiko-1.15.1.tar.gz"
+      },
+      "1.15.2": {
+        "sha256": "4f56a671a3eecbb76e6143e6e4ca007d503a39aa79aa9e14ade667fa53fd6e55",
+        "url": "https://files.pythonhosted.org/packages/75/38/7af084a1bdf49004981b2daef1f4389c50d18ed4ef888ec8f69927a0e594/paramiko-1.15.2.tar.gz"
+      },
+      "1.15.3": {
+        "sha256": "7e17ec363c73acb0e77a5fcc6e44a0dd494339a9067e99a997a7d32b4272fef1",
+        "url": "https://files.pythonhosted.org/packages/d3/f5/e54f2783c68cd46d95c1d64ae371820562b1ccef97e6552463a460aa40e3/paramiko-1.15.3.tar.gz"
+      },
+      "1.15.4": {
+        "sha256": "fc32e2709ab955ea23636587e05e276e7db7275a7ec00e09425372fbb932fa36",
+        "url": "https://files.pythonhosted.org/packages/67/8a/9cc519c851c313e498e96807adf59c51af243f510cab7d7e4eb5c7edb53e/paramiko-1.15.4.tar.gz"
+      },
+      "1.15.5": {
+        "sha256": "68ddc32172fbab90a215ca0f0d520a40fd673e0a00e36df21ea98c19145b6099",
+        "url": "https://files.pythonhosted.org/packages/65/f3/df5316cfa976c3f4c53d14296cb36eb638f9a70c36fdf10ea6827b6731bc/paramiko-1.15.5.tar.gz"
+      },
+      "1.16.0": {
+        "sha256": "3297ebd3cd072f573772f7c7426939a443c62c458d54bb632ff30fd6ecf96892",
+        "url": "https://files.pythonhosted.org/packages/23/54/3a88b35388f0df0a12d8cccc3f7f80d4c689c24600dd64a100b7b3dff6c6/paramiko-1.16.0.tar.gz"
+      },
+      "1.16.1": {
+        "sha256": "bbcc16da05f11b970df56fe2f170794f59684aa1d5e3b336ec7b0041632868ce",
+        "url": "https://files.pythonhosted.org/packages/e8/9c/28608983c7b2304a0e35dde648f5fcce930a48455450c2626009a1d48f20/paramiko-1.16.1.tar.gz"
+      },
+      "1.17.0": {
+        "sha256": "fd67dd582b086c7739452f6f20ec509532a7ebee3c4bb85f85ba574fc0f9cb70",
+        "url": "https://files.pythonhosted.org/packages/8e/1d/c7c27f693eae3c6d312bac90ea5757cf5a77fe49cd6d537fec50ab2c3de8/paramiko-1.17.0.tar.gz"
+      },
+      "1.2": {
+        "sha256": "a1662eb0bb3be72e48afca79a88e598e920c91ba579f5472ff61ef6c6d95625d",
+        "url": "https://files.pythonhosted.org/packages/8c/f2/3cd8482752723407889a14fbd551e0e8ac1552adaf0a7d8ab42bacf30d87/paramiko-1.2.zip"
+      },
+      "1.3": {
+        "sha256": "f3036c68f4002e6c3caaa8cce2b4f0072e6f162a06746d9002d872e80cdafddf",
+        "url": "https://files.pythonhosted.org/packages/9e/85/47ddef78883c8222b85a8d7a3c5c39900945b3bf76ce1392c5ec5b31de3d/paramiko-1.3.zip"
+      },
+      "1.3.1": {
+        "sha256": "0c8887a87071c4ecf85a4672c6c2b67bf92e1f138f16dde36d00dc747f25dfb7",
+        "url": "https://files.pythonhosted.org/packages/a5/94/e7ead93daa366b897eaace8b131464c1e273b0064ca3ab957e35791b3f25/paramiko-1.3.1.zip"
+      },
+      "1.4": {
+        "sha256": "66cb656471213e71bc0369bfb40ac3e2c6575c91d8f6dac83fbfb184fc8daaf7",
+        "url": "https://files.pythonhosted.org/packages/27/e8/240dd08eb8e9c3b9d7b3a68b29b20dfd73cf7259fadd1fb2c4ecc03cff7a/paramiko-1.4.zip"
+      },
+      "1.5.1": {
+        "sha256": "e6641a27b8665f594511c480dd0251c5e28dba9a6dbdfc5d1c33116d78a2e9d9",
+        "url": "https://files.pythonhosted.org/packages/d3/0d/b77c03ad1d824ad635090a3eb7d320217402cd75a0c5ee6f7c7c91ac2d30/paramiko-1.5.1.zip"
+      },
+      "1.5.2": {
+        "sha256": "d03a5356ac54f7a3c5cae41e49660b5b19af70c7ea9cd6fdfe4f06de24b92c98",
+        "url": "https://files.pythonhosted.org/packages/75/96/dd7e8bf05446ad62e270107d90e520fff6bca8249201992ece283ea9ae38/paramiko-1.5.2.zip"
+      },
+      "1.5.4": {
+        "sha256": "e75cb071a9636858c971ceb713b5bc4c3330d9fe7efb829af038dc494c755104",
+        "url": "https://files.pythonhosted.org/packages/60/39/7ee6912c17b66fb2ee05a19867efa08e02c1e85058435a79fc31fe7aaf49/paramiko-1.5.4.zip"
+      },
+      "1.6": {
+        "sha256": "7158ab5f0860f61a44f9b934d3b1a956b11c5e46956b781f9ca582f948244100",
+        "url": "https://files.pythonhosted.org/packages/9f/d3/fc78315374711984e70d87e202b7070d4e9a5449e54c7f350c17d6a9bba6/paramiko-1.6.zip"
+      },
+      "1.6.1": {
+        "sha256": "0f6da0b3d0c67dff7296d2991e1999c464d7cbf3ff846fb5ca90545e3513886e",
+        "url": "https://files.pythonhosted.org/packages/e6/83/80883dbee80f8c6df63e9d93c133cc4fe6a70ebdc6fee265dec371afa583/paramiko-1.6.1.zip"
+      },
+      "1.6.2": {
+        "sha256": "a99b2c456c8b0950cefccb2444e678543b8df073de75baac2e9e84232e98d980",
+        "url": "https://files.pythonhosted.org/packages/38/72/131039d839f6b29e9a63d8edeb431a17fd5ae108db67456d71a48fd2e87f/paramiko-1.6.2.zip"
+      },
+      "1.6.3": {
+        "sha256": "f7e696f0fbd46950be25220f5cc80009d39fb6171f6652409bd7451d157b88c7",
+        "url": "https://files.pythonhosted.org/packages/4d/66/6505b634349a6d733e934baba9b67bc1ae20831f3674e70c7f50370f3e70/paramiko-1.6.3.zip"
+      },
+      "1.6.4": {
+        "sha256": "219716eb61d9f2ec1602368605cb3af3a367933abf59cc6c7ef6bbfda948f3a2",
+        "url": "https://files.pythonhosted.org/packages/a0/24/8ba164646d6eb20355b434208925d2b6c5134f07033b74ff3702f2dade64/paramiko-1.6.4.zip"
+      },
+      "1.7": {
+        "sha256": "352e8551fa91090fdf0e5e5dc598ac91e74a399f6db04cf97ee08bac519e88c1",
+        "url": "https://files.pythonhosted.org/packages/59/ce/c168a8d695d95e804239a670fa34683598fa09e2323e6a9f69e23292c0b5/paramiko-1.7.zip"
+      },
+      "1.7.1": {
+        "sha256": "f4ce367d47f66fe83d663049f78e4ff11fd0f678fcee9435a523b56d5e38a56c",
+        "url": "https://files.pythonhosted.org/packages/9c/0d/271c3fa4953e098a97e3191963a212093f34ddabf8e594e13e7277d738c2/paramiko-1.7.1.zip"
+      },
+      "1.7.2": {
+        "sha256": "49f4b84ec046e9bf2ce512d3e31201716394f2319cb420796d14f0e12b65a7d1",
+        "url": "https://files.pythonhosted.org/packages/43/a4/53582034efa42ac02e02ecb56f8afbce947da53f95afc136b54e9a3bb824/paramiko-1.7.2.zip"
+      },
+      "1.7.4": {
+        "sha256": "7fb2de6f7b25b6cafe481a5722ce64690f9c039553bbef2c85a55910027b641c",
+        "url": "https://files.pythonhosted.org/packages/5e/c9/1a11d3a673211a3d0aea77b91ac3eb4af4d2c5c33e1da7c09d3501f8f3ac/paramiko-1.7.4.tar.gz"
+      },
+      "1.7.5": {
+        "sha256": "5e05e88307c2823b0e15076051e32003d44b4ef8f2739c2ed704cfd16f2cca48",
+        "url": "https://files.pythonhosted.org/packages/2b/27/b64860e7b208ff1dd36fe208d07bca1f9637a11fe733e2f2ceea587c3f75/paramiko-1.7.5.zip"
+      },
+      "1.7.6": {
+        "sha256": "8da32c2e1ae8a4136c6db1e3112156a5c5fa0cfb6624429245747a51fe7b3741",
+        "url": "https://files.pythonhosted.org/packages/f6/f6/f7ad4e2fc1d0d39d495c2186b952fd2e0150eb5c8b3f7b755a81782e2873/paramiko-1.7.6.zip"
+      },
+      "1.7.7.1": {
+        "sha256": "189853a8d96a53f8197b3be8dbd9c288ec17545e8b2c2d0a0883e8c5f9d7df02",
+        "url": "https://files.pythonhosted.org/packages/c7/dd/f738af6b2a83b6e0b3e9dd1a615145d7e6b88c85862863a656d5dc97bfc8/paramiko-1.7.7.1.zip"
+      },
+      "1.7.7.2": {
+        "sha256": "3d659073d6c61faae1756c8837159b6edc9b98da4b9d0e930212414b46c62599",
+        "url": "https://files.pythonhosted.org/packages/d5/b4/7043c1d3827b5cc451108c8dd36319cd5140ccc3ca8f645d24f40fcbbdae/paramiko-1.7.7.2.zip"
+      },
+      "1.8.0": {
+        "sha256": "dcdb8fa3059bf58ca7e3801a51df5d1707159b366ec0c0c7c2bb9008d08800f8",
+        "url": "https://files.pythonhosted.org/packages/99/1d/26da0e535bc84693f1a29370f63999c83bebbff85318cef441509e90a2e8/paramiko-1.8.0.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "741215c8e7aae8213d1e799b26be905807e2a8f7a0b4336c1e6d8e35e917bf4a",
+        "url": "https://files.pythonhosted.org/packages/86/9d/82cd722892dd4b39f2d3b73270a41fdd4b159349608c9d164626eced76e3/paramiko-1.8.1.tar.gz"
+      },
+      "1.9.0": {
+        "sha256": "cb99b74d9c53a23b92803c1c97fdb2bfdab7cd4fea888bd3b6438c127e3b29f5",
+        "url": "https://files.pythonhosted.org/packages/28/47/5f850ecda7a308017272df159919dc8d1e9c61535185144bfcef9c805494/paramiko-1.9.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "51219ecaf88aa1cea9952b3c4ddcc0c1316f015d23d77edb7aee78a3468ef0e2",
+        "url": "https://files.pythonhosted.org/packages/ce/63/cc9baa5d5b568aadaaa7c19190a9b852a0a740b478dd068137c4b0c7cb74/paramiko-2.0.0.tar.gz"
+      }
+    }
+  ]
+}

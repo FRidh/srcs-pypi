@@ -1,0 +1,130 @@
+{
+  "latest_version": [
+    "2.5.0"
+  ],
+  "meta": {
+    "description": "Management commands to help backup and restore a project database to AmazonS3, Dropbox or local disk",
+    "homepage": "https://github.com/django-dbbackup/django-dbbackup",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "5c21f1e4d2275f41e1ba1e3891b0c8d90a276477b479bdaf8e25274a4e48c66f",
+        "url": "https://files.pythonhosted.org/packages/66/93/705764c46b4ce2681863f6adbf9e39b3416b2a7a3d49cd6413f4721abb5d/django-dbbackup-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "c22bf6d00ab359a3abfb7512052ab79c5d305f95d0dac6e105c5f23ba9da6117",
+        "url": "https://files.pythonhosted.org/packages/3c/3a/a95ef031aa683cd883ef4cb147d1dfcb1e65ea90fb9b17524b49e4aae587/django-dbbackup-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "9e9142c95002217dff881c8864b1e6a692c6475d96a081fe35e7fcafb917701e",
+        "url": "https://files.pythonhosted.org/packages/13/02/88f0ad2963e4bbad3192433476146447426373f37d5dab01f58cbc5e8246/django-dbbackup-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "8ec8722e2d2e141f182db74bf73db0672162b34ac320cd0d10c84e8ea9b78e16",
+        "url": "https://files.pythonhosted.org/packages/83/9c/bba5374ba8acb66b2b592060e5f1ba7819863b18106647d89de2c797cbc5/django-dbbackup-1.3.tar.gz"
+      },
+      "1.4": {
+        "sha256": "65bbafa54643b90250ef227b10b9f7cf66d61f9dc170cb9ed3fe5d44b33b371c",
+        "url": "https://files.pythonhosted.org/packages/f2/7b/c93251cb3c147e7082981bc7b78d2de77a0ab4b6dc7cdb87b3f3f07a9281/django-dbbackup-1.4.tar.gz"
+      },
+      "1.5": {
+        "sha256": "23e2174cda632ca5c4b8dda921ec4611ca9472f57b012e6b4c0906f5dbe8ab27",
+        "url": "https://files.pythonhosted.org/packages/53/97/8ad65c4bd3ddf99245035fa7ead82b3238cbaa3bef29d0143bd7008a80ca/django-dbbackup-1.5.tar.gz"
+      },
+      "1.6": {
+        "sha256": "8527c3c0558b541083e79119137e472d950254cd4a1d90948e99a148f05b74f0",
+        "url": "https://files.pythonhosted.org/packages/96/c3/de101e909b0a48e924be565effea89929de4576eed7c028ee1c5fcde0a4f/django-dbbackup-1.6.tar.gz"
+      },
+      "1.61": {
+        "sha256": "b2fddf93efe4f087b949a1b7018b96907e92177f4da008aa5a86751174d836a7",
+        "url": "https://files.pythonhosted.org/packages/8c/1a/65091a51e11aca0c77eb3ba1e682874aa218926c6a79b9b383be5d2a96b8/django-dbbackup-1.61.tar.gz"
+      },
+      "1.62": {
+        "sha256": "182e294d0719e78c80426166a9451b23543f80c9e397e5c18879ff21a1516c16",
+        "url": "https://files.pythonhosted.org/packages/20/18/056035169d64b37ebd549897d5f210216e30cd6b889b4d0ef2837e98e2a9/django-dbbackup-1.62.tar.gz"
+      },
+      "1.70": {
+        "sha256": "a93420de443f560ad5abc018c11ab028c87e5ca7cb7915f59c357f70aa1e8b86",
+        "url": "https://files.pythonhosted.org/packages/72/e9/c80dd2cf6d60f0ca239ec4d3862e64858bb5cda290404c7c234d00fe9905/django-dbbackup-1.70.tar.gz"
+      },
+      "1.70.2": {
+        "sha256": "72d74b0efb58b902ccf78c77cf14924d8257483940af350d2b7efa1a66107236",
+        "url": "https://files.pythonhosted.org/packages/72/14/de99d43af0fbcaf1e1d9c6852036a454b3736f527e2ce4f772c9de71747f/django-dbbackup-1.70.2.tar.gz"
+      },
+      "1.80.0": {
+        "sha256": "82aa2177176f353217eb4c992ef7962c1402d8d0fa34b20a5c895e1cb95e490e",
+        "url": "https://files.pythonhosted.org/packages/c5/d1/238d72c167b32a9536389a2dd52bd91d80934621303d97e76c6f624be67e/django-dbbackup-1.80.0.tar.gz"
+      },
+      "1.80.1": {
+        "sha256": "8802c707b2b231fa56ad63b97b577b8bb2e4dd8f50068a5c5f1fe19f122479a8",
+        "url": "https://files.pythonhosted.org/packages/55/ca/8fb879b39fc3d6869270ae4449252f3bb860f9d8d2052c2d79781e26d6d9/django-dbbackup-1.80.1.tar.gz"
+      },
+      "1.80.2": {
+        "sha256": "fcb1bbd0421c686adc317e685b0d497bb28ba9be395699689457ccb48215fdfd",
+        "url": "https://files.pythonhosted.org/packages/7f/73/8588d58e9db90caf1dbd1dbdbfae5995df47f2c14228028d7e644a926b23/django-dbbackup-1.80.2.tar.gz"
+      },
+      "1.9.0": {
+        "sha256": "60238476e2df76e2e33dc2a49148472eed3bef1b59e14c0d6bac2bf234d84891",
+        "url": "https://files.pythonhosted.org/packages/47/1e/f193e56c738ba5ceebd62c2dbcb6e3807a766ab9bded7dca78d486ac22a9/django-dbbackup-1.9.0.tar.gz"
+      },
+      "2.0.0a": {
+        "sha256": "0efb4f98ff2afbf78ee7abe05f67d776ba74a7c7ec7a9484b1fc6f228e4757f3",
+        "url": "https://files.pythonhosted.org/packages/22/08/1a063eeaf6054ff4308b411ac2df44f544dc32ad8e494ab77a9fe4e28b95/django-dbbackup-2.0.0a.tar.gz"
+      },
+      "2.0.0b": {
+        "sha256": "414348590db322ca44c00008865156f3f4ff378e740f10be56d5bd708019c3cf",
+        "url": "https://files.pythonhosted.org/packages/01/bb/c8514977a3f8abae10f99056340fcb18cf31de5753d996cd48bc9b2aba5b/django-dbbackup-2.0.0b.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "5221c70b6d465e2577464e94b448e09c9cca4cb77c20eee980c50d34af5131e2",
+        "url": "https://files.pythonhosted.org/packages/7a/63/434b87d8116af96a077c9cc97b59db9c835e8831239020590b88bea30b84/django-dbbackup-2.0.1.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "2e6cf344e30dbc910ab140cd1f9bf12e35ac8e2cb8044947b4fb882a7ea66802",
+        "url": "https://files.pythonhosted.org/packages/23/17/40750a2889d1247268cc8d78ee519989e75480755a7cbc6821040c8bbd89/django-dbbackup-2.0.2.tar.gz"
+      },
+      "2.0.3": {
+        "sha256": "2e479a792f3962353bc6b5f8a98ef5af3ad52c843909007e17d0b08a5c3f66d7",
+        "url": "https://files.pythonhosted.org/packages/44/71/37ccdf0b3430b8430b2886b41e575c611fc229c63e007f7dce3ce753e60e/django-dbbackup-2.0.3.tar.gz"
+      },
+      "2.0.4": {
+        "sha256": "1afca1cb9931909ba775500ac1ffd336e9c63719596abf07733fad9476183963",
+        "url": "https://files.pythonhosted.org/packages/1b/6b/506475fbfdf3ec57c6e69006a3720edc8973cf18bd9cf53d87ea330751ad/django-dbbackup-2.0.4.tar.gz"
+      },
+      "2.0.5a": {
+        "sha256": "ddbdbea8dd699ed1bf3b60f6b1f6fbc2bc1c4a967dc3d0f46a4b476f55eac070",
+        "url": "https://files.pythonhosted.org/packages/73/9f/14e391053ebcd389d5851800de55b4d82134ee78ca4f496c88b04cd21f59/django-dbbackup-2.0.5a.tar.gz"
+      },
+      "2.3.0": {
+        "sha256": "f238fe5c7c31dc30acc209c4b66fbf463a5ffda55a90d4e9f21d4943f74a11c0",
+        "url": "https://files.pythonhosted.org/packages/53/1d/2d72838077dd23cc4df39dc79f764c94dc604c29deb2aa8a25d0b1c80d58/django-dbbackup-2.3.0.tar.gz"
+      },
+      "2.3.1": {
+        "sha256": "48dcad124165009f96682aad7334b5f9ae39d8c88b201ccb550372cf8c8e13f0",
+        "url": "https://files.pythonhosted.org/packages/83/c1/77c1c8433a8dcc2aab781ce0376cfda7c557623a5f4d5b72070bf2353b73/django-dbbackup-2.3.1.tar.gz"
+      },
+      "2.3.2": {
+        "sha256": "b60fc15528a275e3c9f8dd7596d1dad0797a90e8e40a56bbe484540449297ffa",
+        "url": "https://files.pythonhosted.org/packages/1d/8a/0e76b827d778c24e38fcfb91e8bc1191384a045e887071e8f186c752a56a/django-dbbackup-2.3.2.tar.gz"
+      },
+      "2.3.3": {
+        "sha256": "b201771246535ae9ac5771c4f8092faa3358bbd8ab73f215c169ab52925a24cf",
+        "url": "https://files.pythonhosted.org/packages/05/a4/f54282008036f6699783e38fbfc895496f345ba8eb6c7e7e20ba5a7e9eb6/django-dbbackup-2.3.3.tar.gz"
+      },
+      "2.4.0": {
+        "sha256": "f72582e30c2971aa801f45c2fc7faee583f9e46e64c240ae6eee4062b52e0e16",
+        "url": "https://files.pythonhosted.org/packages/13/75/e03d9b1a011839465771f11ff7fe9171c65cf6d21bd6365dbf72c6b50415/django-dbbackup-2.4.0.tar.gz"
+      },
+      "2.4.1": {
+        "sha256": "b797be2ea85c702051b120bf07396d878bcab186ca6b11314d550da12ed0c838",
+        "url": "https://files.pythonhosted.org/packages/aa/87/1051f5eaa0f929e14126c0370131bee6641d3b1ad87a142bd3ca1400bfb2/django-dbbackup-2.4.1.tar.gz"
+      },
+      "2.5.0": {
+        "sha256": "b2ba6851e0b90f15e3e12716cadd974c3519d5f914f1f2c01bcbeccf459a42c9",
+        "url": "https://files.pythonhosted.org/packages/4f/59/5e4013aa919b0f70b2b2147b8c50c02766dae346821a572bc6841078770d/django-dbbackup-2.5.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.2"
+  ],
+  "meta": {
+    "description": "Ensure single instance of a command without leaving stale lock files",
+    "homepage": "https://github.com/tengu/py-single",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "6df44174a00639a37097d5aa1b28203eb62542018708af2a7ccb5ad67bd8cb43",
+        "url": "https://files.pythonhosted.org/packages/a9/bd/05f6ab683eb71c9112be22a960b9dd742dfdea52b9e979170865524bf31b/single-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "ea85a085f3aed1ab77ee2f547afe7b3e4eb46a48201b9c13410a1d117b735e86",
+        "url": "https://files.pythonhosted.org/packages/a0/5f/5478c5c4877e49588a37c90376b9076c1ec59cb4d21e3a55e568b2517b55/single-0.0.2.tar.gz"
+      }
+    }
+  ]
+}

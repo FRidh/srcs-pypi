@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.2"
+  ],
+  "meta": {
+    "description": "Declarative service-oriented approach with hooks for using Fabric to provision a machine or vagrant box",
+    "homepage": "https://github.com/mvx24/fabric-shuttle",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "f014141481b3baf104f63f4e94cfdc4bbb5b0db46d7eb23503495c287bddba86",
+        "url": "https://files.pythonhosted.org/packages/d0/e6/3362ffea92f6fccbc7577e0e6c346929f3aaf2cc8e89f7c47e240e2c5644/fabric-shuttle-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "05be0498b3ea1518ade4cecf4ff80f3fac8c71a9c64821f1ba17feed09d3cb70",
+        "url": "https://files.pythonhosted.org/packages/04/1f/2d3640bca57e7fa533622b4f014a17599fe6965c713ca021e4b513d37629/fabric-shuttle-0.0.2.tar.gz"
+      }
+    }
+  ]
+}

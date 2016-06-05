@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "cffi bindings for wiredtiger",
+    "homepage": "https://github.com/amirouche/python-wiredtiger-ffi",
+    "license": "GPLv2 or GPLv3"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "5f65c7626ce428e5777f7cc5fe792a5d33cafad3d3264d524b287ed886a8ba8f",
+        "url": "https://files.pythonhosted.org/packages/33/35/23ff804dee9f238d2efe97f110e4d840637b3c10025ac281f8a3c49122cc/wiredtiger-ffi-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "9a87f5d2654776d7133486667195a549af157854a0616f5763d7e771444e93db",
+        "url": "https://files.pythonhosted.org/packages/ca/c7/306f082c29049e304acab902824a45997283b2d2fb7d37ccf39ec5eb2ddc/wiredtiger-ffi-0.2.tar.gz"
+      }
+    }
+  ]
+}

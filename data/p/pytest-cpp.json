@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Use pytest's runner to discover and execute C++ tests",
+    "homepage": "http://github.com/pytest-dev/pytest-cpp",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "149812386a14158bfbc88373fc2c0780e97fe337440c63de333d1d32f6f0ac14",
+        "url": "https://files.pythonhosted.org/packages/8b/26/e0682805d1ad6df85f1aa12b7a54c318aa3e3569bc805a9c0e6d76fbb938/pytest-cpp-0.1.0.zip"
+      },
+      "0.2.0": {
+        "sha256": "a4c1835e71a5fc77c7a47e4efa54c71e1a4268ca6a47bc1dab755f867f0f84d5",
+        "url": "https://files.pythonhosted.org/packages/91/af/9df68a3dfcf655ff1f9b8f1da95b2941a74f0740822114dba4d86cc51a16/pytest-cpp-0.2.0.zip"
+      },
+      "0.3.0": {
+        "sha256": "8cd95118fd3fafa3dd83b89fe943e3e01f428737f3a851a519d4354d4ced1e81",
+        "url": "https://files.pythonhosted.org/packages/a8/d8/97e8adb19328874e5c0bccf116196d4cb7fa1d2e49933b854f081f01340d/pytest-cpp-0.3.0.zip"
+      },
+      "0.3.1": {
+        "sha256": "3df0f98abb7c1b46bc221fa4012cf8ef0c323acac323082a6bea2e3fe9bdf009",
+        "url": "https://files.pythonhosted.org/packages/e0/b1/02b329683f83c6a5893922612e6dac97779955e58d7e4b42ec29f1dc7d0c/pytest-cpp-0.3.1.zip"
+      },
+      "0.4": {
+        "sha256": "3b0d0fe02b3bda961014b23b28b9188be05b01d9dbaf8069292dad1f6b4332e5",
+        "url": "https://files.pythonhosted.org/packages/9e/3d/4b245ea2577cbbee2d960efaad9e2f57f369911c96ff2da82f984db929d7/pytest-cpp-0.4.zip"
+      }
+    }
+  ]
+}

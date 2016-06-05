@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Tools for importing and export life cycle inventory databases",
+    "homepage": "https://bitbucket.org/cmutel/brightway2-io",
+    "license": "Copyright (c) 2016, Chris Mutel and Paul Scherrer Institut\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without \nmodification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this \nlist of conditions and the following disclaimer. Redistributions in binary \nform must reproduce the above copyright notice, this list of conditions and the \nfollowing disclaimer in the documentation and/or other materials provided \nwith the distribution.\nNeither the name of ETH Zurich nor the names of its contributors may be used \nto endorse or promote products derived from this software without specific \nprior written permission.\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" \nAND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE \nIMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE \nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE \nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL \nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR \nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER \nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, \nOR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE \nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": [
+    {
+      "0.2.dev7": {
+        "sha256": "7a7497aea51cc791517c69fd2ff4ccc1dc363e56844222d248626e4a5500468d",
+        "url": "https://files.pythonhosted.org/packages/1e/50/e380a474214a8236a3f1c4d3edc16455a48a662e4b941b7c68c1343ed545/bw2io-0.2.dev7.tar.gz"
+      },
+      "0.2.dev8": {
+        "sha256": "30b7f9de19716e7d387203c6d2334f430a78c9ddf39085089da6fb726a608992",
+        "url": "https://files.pythonhosted.org/packages/12/0a/44901e05ee0a47a1d920f77731596f0448b128fd3be544b553bd601ffb08/bw2io-0.2.dev8.tar.gz"
+      },
+      "0.3": {
+        "sha256": "3425f122eb978a0f36bc95e7f07b029ba320d65daa8874e8721a89a2178d325b",
+        "url": "https://files.pythonhosted.org/packages/1c/74/183b2fc5a38bc7d89ad139281dd7cf6b57c104a3048bf6bc38bbb6dcf1a3/bw2io-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "a85229bb285497a0c37b37f9aedaf5e2eeeb44246d9c4e5553ae18af3b1ce991",
+        "url": "https://files.pythonhosted.org/packages/38/12/36fecc60c11f477f889d9eb27eb6a18f4bd941119353eb7d563ae7bb7e2a/bw2io-0.3.1.tar.gz"
+      },
+      "0.4": {
+        "sha256": "ad460551ab010e2fff1bfa745a9e86a9d07ad6083e40056cbcdadc9fa16628fe",
+        "url": "https://files.pythonhosted.org/packages/23/70/a27582e3a96fa08693cbda4604b344e08389a6aa4b05c72c2e223a5a00db/bw2io-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "91ab9fc4bc6eb80a58e3fb931c0aaf0fae5f59b00a773b94704c68238348f397",
+        "url": "https://files.pythonhosted.org/packages/68/84/54c008f72a8cbd6b8b98a8403dc5ccabd19da37a403f2a7490ef39cb34c5/bw2io-0.4.1.tar.gz"
+      },
+      "0.5": {
+        "sha256": "4480fa3ae66db697134a156f5c57b7a8cdea0c72bd77b1bf04f47a892aff3941",
+        "url": "https://files.pythonhosted.org/packages/a2/a3/3d3a8bea4bdd5c63cebefa6a35da8c8969936dbc640191efea60d1ea0e7c/bw2io-0.5.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "0.15.2"
+  ],
+  "meta": {
+    "description": "Python binding of the notmuch mail search and indexing library",
+    "homepage": "http://notmuchmail.org/",
+    "license": "http://www.gnu.org/licenses/gpl-3.0.txt"
+  },
+  "versions": [
+    {
+      "0.12": {
+        "sha256": "f1bdc6e07f761705e03995d0aecc58c7859243921ace2f1235e745749ae7aef2",
+        "url": "https://files.pythonhosted.org/packages/99/d2/7ec25f9c192e613685daa277506faa97f294f9f29b757e6947f34df1e4bd/notmuch-0.12.tar.gz"
+      },
+      "0.13": {
+        "sha256": "e1b329b15d4541b529522192344cf43bb00fc029149782d8d1148f34fd99a828",
+        "url": "https://files.pythonhosted.org/packages/39/b7/f6c5b196168fc5414a7a12336734106a8d4ce5ffa730d29c17f031086818/notmuch-0.13.tar.gz"
+      },
+      "0.13.1": {
+        "sha256": "42b31082a414b65a1de766c103a6e4244e08d96699d1ac73dd647366e9e0f383",
+        "url": "https://files.pythonhosted.org/packages/58/6a/420cf9c03930970b51ba1d5d98046c5a6eaface1911a5257ed7080e99983/notmuch-0.13.1.tar.gz"
+      },
+      "0.13.2": {
+        "sha256": "c8ca65296a20a4b69942665e508e59f831fbbf5358afd9d673e34418100ab56a",
+        "url": "https://files.pythonhosted.org/packages/8a/c1/95ea7f6956c7589f51c9ae99849d778612e68e810e3e2185838ac0c306a6/notmuch-0.13.2.tar.gz"
+      },
+      "0.14": {
+        "sha256": "3dd0b5de9b73119bded70f155dba3c5e10e5f948abc50d8bbd2bd600399e7cd0",
+        "url": "https://files.pythonhosted.org/packages/4b/4f/5988a3315bdd7bc802ceb262716d78df185bd7944ea79f397526e0fc07b5/notmuch-0.14.tar.gz"
+      },
+      "0.15": {
+        "sha256": "99b06b6439cf14cadea7730c266c5aeb186ace8dbf8e6227a66c3f2568f52183",
+        "url": "https://files.pythonhosted.org/packages/51/81/bc2ca54ea4406385dae86fce5296e7554a2cc78d362aa239d84ba5777a83/notmuch-0.15.tar.gz"
+      },
+      "0.15.1": {
+        "sha256": "91fa57fb1e4e965860fb7eecca5f593fff7d8f6d114459479955e8c41386a6e7",
+        "url": "https://files.pythonhosted.org/packages/5d/d4/bf9a3743fb7bfb3f63225cd8da86a659e12ee9e727be3b3aa5be36939577/notmuch-0.15.1.tar.gz"
+      },
+      "0.15.2": {
+        "sha256": "c5f6d43f58c6cbb8c28bf8ba98dcb2980bd2d89ba888af9f1d25e4150338e8a1",
+        "url": "https://files.pythonhosted.org/packages/b7/18/a9fd616b140408a974e7596ddd72c38b9bed8e1e920c7639df966fb60097/notmuch-0.15.2.tar.gz"
+      }
+    }
+  ]
+}

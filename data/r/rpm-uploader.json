@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "A tool to upload rpms into repositories",
+    "homepage": "https://github.com/Guavus/rpm-uploader",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "5fa7dac174d408ae5a5ffce69e766cb2fc5abac7f70940b0c5e7e47c2d7488af",
+        "url": "https://files.pythonhosted.org/packages/89/85/1813b0508179569c947871b613181b5bbb0737a19a7dc8ab9c41da86e08c/rpm-uploader-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "bfe49049f8b66a92d205e0ee57b3332d58c1823f0b862e4af59fa7e598406eff",
+        "url": "https://files.pythonhosted.org/packages/27/57/6c0372407864c03ee70dcfefe60261d2388bae8b1657fa96973b2c30aa95/rpm-uploader-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

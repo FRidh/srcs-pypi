@@ -1,0 +1,122 @@
+{
+  "latest_version": [
+    "1.11.1rc1"
+  ],
+  "meta": {
+    "description": "NumPy: array processing for numbers, strings, records, and objects",
+    "homepage": "http://www.numpy.org",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.10.0": {
+        "sha256": "2ebd29edb2f1a4a19e86cfc27c1b2283314d57509b2bfc6606b4f05d620c230b",
+        "url": "https://files.pythonhosted.org/packages/5e/20/91f4ed6fdc3c399fc58e9af1f812a1f5cb002f479494ecacc39b6be96032/numpy-1.10.0.post2.tar.gz"
+      },
+      "1.10.1": {
+        "sha256": "8b9f453f29ce96a14e625100d3dcf8926301d36c5f622623bf8820e748510858",
+        "url": "https://files.pythonhosted.org/packages/b6/a7/902ef93be4d589fa8e66ed2d1e5eaad8e20f5af6321807ba695fc562f2dd/numpy-1.10.1.tar.gz"
+      },
+      "1.10.2": {
+        "sha256": "23a3befdf955db4d616f8bb77b324680a80a323e0c42a7e8d7388ef578d8ffa9",
+        "url": "https://files.pythonhosted.org/packages/3d/82/a8e9227167dca4301d4d7a61977a50d12cd98c277eb9035d7b78bc8b4a1f/numpy-1.10.2.tar.gz"
+      },
+      "1.10.3": {
+        "sha256": "9c17ce20d9bdf186f440a256bc29bd182de6725f003610325985c67a24f98f43",
+        "url": "https://files.pythonhosted.org/packages/f5/40/e312a465ec493e1f3a1bfe5bd535be517ec60fa380f0bd061f8c66b420ab/numpy-1.10.3-cp26-cp26m-manylinux1_x86_64.whl"
+      },
+      "1.10.4": {
+        "sha256": "7356e98fbcc529e8d540666f5a919912752e569150e9a4f8d869c686f14c720b",
+        "url": "https://files.pythonhosted.org/packages/1d/94/3ad9a865f1b0853f952eaa9878c59371ac907b768fe789547f573a6c9b39/numpy-1.10.4.tar.gz"
+      },
+      "1.11.0": {
+        "sha256": "a1d1268d200816bfb9727a7a27b78d8e37ecec2e4d5ebd33eb64e2789e0db43e",
+        "url": "https://files.pythonhosted.org/packages/1a/5c/57c6920bf4a1b1c11645b625e5483d778cedb3823ba21a017112730f0a12/numpy-1.11.0.tar.gz"
+      },
+      "1.11.0b3": {
+        "sha256": "25eb817646b559b9e3788835668e0f67e0cf43f443a03044b24ec8de7426b0e9",
+        "url": "https://files.pythonhosted.org/packages/a6/55/a03f9ee5a7de869823bbdf56c4db7f294cff551ff2f40866a96bf945122d/numpy-1.11.0b3.tar.gz"
+      },
+      "1.11.0rc1": {
+        "sha256": "e23c9a6d963d124929b2626c5d90547e9d3c99a5357a9aa1845e85fb9fa99339",
+        "url": "https://files.pythonhosted.org/packages/c3/e3/9d6a5cd98cfde74094daf890763c1ee35bbbdd6980ecc86c81526bfec0d7/numpy-1.11.0rc1.tar.gz"
+      },
+      "1.11.0rc2": {
+        "sha256": "3bd704f3d28b13652d2bbbf9721ba4fd3355a25e167b4bfda6cb73d313f26c6e",
+        "url": "https://files.pythonhosted.org/packages/48/c6/05229df054c43f2415347fb4039f403ae043fd9e5519c2c2c535855a8da8/numpy-1.11.0rc2.tar.gz"
+      },
+      "1.11.1rc1": {
+        "sha256": "9c2a90ef0a7638ee9b7afcf7082f7b5456c963ca9e15294889cc4c0b40e879ba",
+        "url": "https://files.pythonhosted.org/packages/da/04/74fa602812c0671ab17b6077bcb8d074b5bb9259a946698465696fb6f784/numpy-1.11.1rc1.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "7524687cce85aa78103046db5e617c626b0ef871a203a049159f88f35647c90d",
+        "url": "https://files.pythonhosted.org/packages/ab/67/19e93e3f8c3e077dcf6fc54e84e1cff609c4a7e0a3ce14f70794dde60063/numpy-1.3.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "e630d1d7960dd65ca9ed7bcd29c604bb22ef2b28ed6f33574e655a65da1146a6",
+        "url": "https://files.pythonhosted.org/packages/6f/16/84dcacfbabd93ac12c378b823330d8665bdcf8ccea89da17d992afcbcb3a/numpy-1.4.1.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "06d2181c884c5937c7c475103dd55de4fe4842a9d91bab1ed0965dd973a4661a",
+        "url": "https://files.pythonhosted.org/packages/f4/7e/ee0605be5f922a85f798bf8ff1849d4d043b08229b026e55527110384c6d/numpy-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "c36789ec381fec09f519249744ea36a77e5534b69446a59ee73b06cac29542eb",
+        "url": "https://files.pythonhosted.org/packages/73/e1/88932bb0420a0fbe1547ee96d4e7332de5c1ed5a846a6c96ea422c6bf753/numpy-1.5.1.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "687dcfb5f6a51f2107ba1dc8bb324fd1a0146ce8b0e2bd01a3ee7bcc453ee3d8",
+        "url": "https://files.pythonhosted.org/packages/5a/6f/85439fe9c58d16c477f8bb767da9b55c0721adfb940ace2e4240793af70d/numpy-1.6.0.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "788b1bc712ee566d4b4d62ef99736c5830fa264cbc56f8651ded1e795c755cdd",
+        "url": "https://files.pythonhosted.org/packages/dc/6a/5899b7baaa3ebbcc49fb97cdf6b96964d65684864562a1f4ca4cc9f578c8/numpy-1.6.1.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "0b83d96ab79711b548470b7aeee1272c4ba8fcbba6586a67116b566a21ed16c6",
+        "url": "https://files.pythonhosted.org/packages/20/51/71f2d77f3af6e95a6ac920425d54233c898cb04a2a2a45faa488f0562d9d/numpy-1.6.2.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "f4fa70b7edbab65ee6432eb63743f5489f1919c614632b20b2fb45aa7e682ac6",
+        "url": "https://files.pythonhosted.org/packages/e7/b8/0eec6203c783047760db02f86791814c860397a7c79c444ddabc8a2f1c69/numpy-1.7.0.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "5525019a3085c3d860e6cfe4c0a30fb65d567626aafc50cf1252a641a418084a",
+        "url": "https://files.pythonhosted.org/packages/84/fb/5e9dfeeb5d8909d659e6892c97c9aa66d3798fad50e1d3d66b3c614a9c35/numpy-1.7.1.tar.gz"
+      },
+      "1.7.2": {
+        "sha256": "f963f6a5e21438dede6b4412cf9aaa230c145038a6d234aefdd70d20152f8d53",
+        "url": "https://files.pythonhosted.org/packages/d2/8e/3aaa9c7010c6943b23344b5854e5e56d10458b67fb23f1ee86c549f58286/numpy-1.7.2.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "2764d0819acc77e9ff81b060fe7f69530b0d85c26ac9d162639b787cb227d253",
+        "url": "https://files.pythonhosted.org/packages/73/46/c5b5c61fccec607dad15a2d1f832dec1a8d094ea770d8f8e4a43abd8be7b/numpy-1.8.0.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "3d722fc3ac922a34c50183683e828052cd9bb7e9134a95098441297d7ea1c7a9",
+        "url": "https://files.pythonhosted.org/packages/58/98/80b1c502a149e4e6de900c0cd16e5a71c47313b12365aacbbd7e2eb206c2/numpy-1.8.1.tar.gz"
+      },
+      "1.8.2": {
+        "sha256": "6d487fc724780d66746bde264ea71f5cd77d3a39e52ee2b073dcaed63bc669db",
+        "url": "https://files.pythonhosted.org/packages/67/ab/41e4b42e0519d868347d2cf1051a05ce0170632039c053dee8ffe8b43b0b/numpy-1.8.2.tar.gz"
+      },
+      "1.9.0": {
+        "sha256": "2745b1d64445da3c29a34450320025c11897ae4af77475f861966e98b2cb1a0f",
+        "url": "https://files.pythonhosted.org/packages/d4/e5/1c9abc4202d62faadf1db48f5d547845ad1cbe66c1a5e0ed4542edd218a0/numpy-1.9.0.tar.gz"
+      },
+      "1.9.1": {
+        "sha256": "0075bbe07e30b659ae4415446f45812dc1b96121a493a4a1f8b1ba77b75b1e1c",
+        "url": "https://files.pythonhosted.org/packages/41/39/45791d98f1c82789b96d7bdc36f34792d0106b44680fb946d5de9cd5c979/numpy-1.9.1.tar.gz"
+      },
+      "1.9.2": {
+        "sha256": "325e5f2b0b434ecb6e6882c7e1034cc6cdde3eeeea87dbc482575199a6aeef2a",
+        "url": "https://files.pythonhosted.org/packages/ce/a8/bce42709c423f044bc60038922d81ac0be5042d025ea9e3d4734341eef83/numpy-1.9.2.tar.gz"
+      },
+      "1.9.3": {
+        "sha256": "c3b74d3b9da4ceb11f66abd21e117da8cf584b63a0efbd01a9b7e91b693fbbd6",
+        "url": "https://files.pythonhosted.org/packages/e9/3e/24ec13b144c39874fba69f165b26b7d42a172149bf7ffaf5cf8ffd3815cb/numpy-1.9.3.tar.gz"
+      }
+    }
+  ]
+}

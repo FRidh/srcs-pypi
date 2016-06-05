@@ -1,0 +1,110 @@
+{
+  "latest_version": [
+    "0.10.1"
+  ],
+  "meta": {
+    "description": "django-watchman exposes a status endpoint for your backing services",
+    "homepage": "https://github.com/mwarkentin/django-watchman",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "af51d34868bf8d5351fba677125a1708239ed42395e1a05c7e0cd2ffe05faf91",
+        "url": "https://files.pythonhosted.org/packages/62/15/aab8c6e02a92e911db5b9860124585c7b0995f6fdd7803e4eef75cf62cbc/django-watchman-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "e90d2dc2b01a81f2b6610c9719ed054c03ea1b96032f94b12e48eb5ec2582072",
+        "url": "https://files.pythonhosted.org/packages/12/d7/3ca5f5418fbd79237716e7a59324f1f1b4ed341e676e2273c08b573a8ea8/django-watchman-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "cca35bc92095913e5b70f7f0cf8fc1c816f0f21b69cdac53e2566fdfa423feb7",
+        "url": "https://files.pythonhosted.org/packages/4b/d4/c43af8962083809db5b0ae24cbc0eb71374c3d54ee330a88cfab88c47ccf/django-watchman-0.1.2.tar.gz"
+      },
+      "0.10.0": {
+        "sha256": "4b64710f01f3d571d6a098b4197ce0add9919050f8aba1f806a4a2cd1e82bb61",
+        "url": "https://files.pythonhosted.org/packages/22/1f/ce4eb7a868646ac378e8e23f55eb54664ee1f1e8fb6bbc4e68b9819f3c2b/django-watchman-0.10.0.tar.gz"
+      },
+      "0.10.0rc0": {
+        "sha256": "da4011453aa2a6469598770fd604efa51041a69f590235e131a9b9f42dc5b90b",
+        "url": "https://files.pythonhosted.org/packages/4e/02/efc3ae1246b2cdabf3d5847bf4847ca6781170e35338f304f95bdeee175e/django-watchman-0.10.0rc0.tar.gz"
+      },
+      "0.10.0rc1": {
+        "sha256": "b0cd20a08772b93067f8c99fc2374ce46bf1a03d33b11aab9a54fda721f6b737",
+        "url": "https://files.pythonhosted.org/packages/55/04/757f15f4c82cb2ec1d41bfcc866a6dd2bd536be5cf2601ed785e0ce5f301/django-watchman-0.10.0rc1.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "4e18485e1327d6d737c82d57551fdc592a19e5632234a11a66deb8f2139bab08",
+        "url": "https://files.pythonhosted.org/packages/1f/64/358947e66ef3494b3cf64575873516f461e795679f9b94cfa7cf3d93ca50/django-watchman-0.10.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "d5e7d38e0f2f8da43a736fd21f6f3a36186fe58bc473cd32149ea3ab6224fe9c",
+        "url": "https://files.pythonhosted.org/packages/4e/2f/c76b18db2800e88c266d242912ed2338c3569dce40fc71efc74923255d37/django-watchman-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "9a47a3209a0e27c0d17f8faaf9acbc7499d0bd001678a7c92c8e95a59d46d545",
+        "url": "https://files.pythonhosted.org/packages/f4/63/ce4634f744b8aaecb20322464d62a28baffce550079d7be8892b06eed1fe/django-watchman-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "16478ad7ee9fd65bf6a26255a339774e3ff1a9a1d2733d549f23a2f69c4630e9",
+        "url": "https://files.pythonhosted.org/packages/4c/5c/5749187f0cb3d4dc70e9431a6a5c291f27fc59d3cb25028b7c1e4b243ebe/django-watchman-0.2.2.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "872f19cac492a2f305e86fc9f8be8787f9c812a8105e7d2ac94915dbc164caae",
+        "url": "https://files.pythonhosted.org/packages/d7/09/e3bdab509245a62bf6dd9af4406425be09977d09b74df8a3f1d32fbb651f/django-watchman-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "db29357819a4512c9337f688da46777a2483f745dea70554b825708201b76080",
+        "url": "https://files.pythonhosted.org/packages/f1/be/18ab4b2ec6e47b16e8b85ce28e2c6946a42bd57a01a2ff3ca3fda246ba9d/django-watchman-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "177e3d741cd57d95c75e0ac41756de6932bc50cd4a4f5122d63d91b50be67b39",
+        "url": "https://files.pythonhosted.org/packages/81/d0/ec253dff64a24f44219c3033f8df67176a051168180aed1de86b81341525/django-watchman-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "804274d171c22527753e33e8c4aa1fe705239ff8c4c6b15ebb8cc9322fb68f88",
+        "url": "https://files.pythonhosted.org/packages/16/13/582dc0b4afbe50b5f9f868e553b6576a7087e4da2ab3c28032fda1cf0cd2/django-watchman-0.6.0.tar.gz"
+      },
+      "0.6.0a0": {
+        "sha256": "e52bbe28ea912561b16d06cf879529c0f05ae50505efd43d167bdd5ca2c28065",
+        "url": "https://files.pythonhosted.org/packages/90/aa/74b2e83ae71ec81cfdb749d8001e4c3d265bbd3794aad66050775f966628/django-watchman-0.6.0a0.tar.gz"
+      },
+      "0.6.0a1": {
+        "sha256": "0c79390adc3cf248ce1bb3e43711c192e86a452fa269d1f0515c3eb8f9b83ad0",
+        "url": "https://files.pythonhosted.org/packages/fd/0e/485906204a09443c07fbd7eaf46c9aea6ad11f3fc878a5a5777666d235da/django-watchman-0.6.0a1.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "de9a0f8a086af9d3463011013c0b918b3a3d278e0aa3b977bbb80f80d8f884b5",
+        "url": "https://files.pythonhosted.org/packages/5e/3a/a12e3bc6c5a35b9a157846aa1ffc38dd18910c470ab03b8db5898d0ae3c2/django-watchman-0.7.1.tar.gz"
+      },
+      "0.7.2a0": {
+        "sha256": "daf3fa9db8c8e3f0a3c39e02ac9f098ea64251b6481d3d5d3b10a639d01a406d",
+        "url": "https://files.pythonhosted.org/packages/36/74/a7a92f401d6a7ab2ed0d76e88a950bd723d61adfae182ba6b3cbc1974891/django-watchman-0.7.2a0.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "936423d0d7eaf08fefd84c4b876ebd6c28562b9d573916aac6620a3c5296395a",
+        "url": "https://files.pythonhosted.org/packages/77/bf/007bb14f8af552e86936421bffe02e8ecb4ec42d2264c071fcd6dd9a8ce9/django-watchman-0.8.0.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "4d0c4a21f4325d2047f0cebb164ebb136bdff8cdf61ed808dfc7f92081ace790",
+        "url": "https://files.pythonhosted.org/packages/54/ab/42c61b579a6edd4f6caca020963d2363bf8b6fa1544c4953df8aa512ad0f/django-watchman-0.9.0.tar.gz"
+      },
+      "0.9.0a1": {
+        "sha256": "0f17e433e5d6268234e29ed10482cde9201bcd9bca137d07a03dda311ec164f7",
+        "url": "https://files.pythonhosted.org/packages/c8/0f/e5afb0f8936fc889397d0a7e012e794d522482dd2ef3009d1f831cd437c6/django-watchman-0.9.0a1.tar.gz"
+      },
+      "0.9.0a2": {
+        "sha256": "b0f612d3132a87a6e1e1d5f884f34f1e2d6732630a1cf6e4212e1e09c3d204fc",
+        "url": "https://files.pythonhosted.org/packages/d3/e8/848b587ce50a37386bb82f339c7060a4aa7af452b3f05670f6f2cd34757b/django-watchman-0.9.0a2.tar.gz"
+      },
+      "0.9.0a3": {
+        "sha256": "8f5f410069ee56aff97f8f119210465e44f1b759dbbb93bc297b12507217ecab",
+        "url": "https://files.pythonhosted.org/packages/d5/60/1c0bd8b7207dc3a57792c0b7cb0360914788ef263039192730f9389e6208/django-watchman-0.9.0a3.tar.gz"
+      },
+      "0.9.0a4": {
+        "sha256": "ae7867c336efe0a987107ed19a23a8001c60f2b9b58faa279e233cca7f105079",
+        "url": "https://files.pythonhosted.org/packages/c1/80/5c6282513449d294ef11e8cc0e2006a6fa4af3f878bd6d094291a45b57e3/django-watchman-0.9.0a4.tar.gz"
+      }
+    }
+  ]
+}

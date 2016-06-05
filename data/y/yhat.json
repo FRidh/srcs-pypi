@@ -1,0 +1,310 @@
+{
+  "latest_version": [
+    "1.6.0"
+  ],
+  "meta": {
+    "description": "Python client for Yhat (http://yhathq.com/)",
+    "homepage": "https://github.com/yhat/yhat-client",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "928ea9aeb8d096daff632f557c6aab87ef6a9a09155a6fe0a54407c32f5c9665",
+        "url": "https://files.pythonhosted.org/packages/e9/3a/d3071d4986f0f9f478581b903def61e398aceca8c4a2dc25de073aad4187/yhat-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "550188292c640241a9f0308fc7e0064783f23b3fba069a32a449e11073d579f3",
+        "url": "https://files.pythonhosted.org/packages/f9/04/db3d7dea9806aafc778bff87c9f881f99c92803e64d6d91de14b45f99258/yhat-0.0.2.tar.gz"
+      },
+      "0.0.7": {
+        "sha256": "fb66ed3dca269966ccc793df0bce2324e2dfbb493d41a6ab2692ecfb500cb6e4",
+        "url": "https://files.pythonhosted.org/packages/f2/47/24c3d3b8303fc1bcfd87af0fc278aa65c1d08fcaafcb6e8db7be279183d2/yhat-0.0.7.zip"
+      },
+      "0.0.8": {
+        "sha256": "cd1faa09e46a89ad84098324d1b850c4af69f3bec47912a776f0e1a969b187ee",
+        "url": "https://files.pythonhosted.org/packages/13/31/29fcafca0da355ee837c02bcc6dc9e9019dad33c225e80aff39d80739e70/yhat-0.0.8.zip"
+      },
+      "0.1.0": {
+        "sha256": "05bb17e0561c259ffd225b41d4f7f50e92e9ec27c4ac29131689be9b69b9bb30",
+        "url": "https://files.pythonhosted.org/packages/94/c1/28311cba6e2f06674491ae560c486f397157d4196111eb550d94a4037a6a/yhat-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "9554a6fd41bd1ebd2063945e994531127a637a4269723d07c4dbebcc5572c2e5",
+        "url": "https://files.pythonhosted.org/packages/92/aa/c463bb741b8e6c499e35a81667d1ae1e10abd9c4ce3a20d111f24e512bf6/yhat-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "2d69507bbc4459e8c1c404404026f8e800ce4bc1342652915d3bdac9cba4fe14",
+        "url": "https://files.pythonhosted.org/packages/6a/c5/7f4157b55f2b12003b8398427b2a9a0c78d05f86e2bc2f764af7255c7e78/yhat-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "238fa39d55208b1c03e32afa5018ba350a6112d94fa11525ac075c742bb2395e",
+        "url": "https://files.pythonhosted.org/packages/46/56/3e7ae4f9a3d22dc4dc014e538ecbbe2412386aa49dde1102e4ef1a776f8e/yhat-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "f59adce95b6b1a87a43e087c0e56c203feba49b98f58bea72f7fc4113f832077",
+        "url": "https://files.pythonhosted.org/packages/f4/d8/4428c18a5ff3634424335d15e1557463ed8e1c0b2fa061c3e07b07b9c5b4/yhat-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "b6afb72e6af6960722d37276bc2c057627c4d33e1d5295ed05cc154a9eb4e8e9",
+        "url": "https://files.pythonhosted.org/packages/d9/c6/0d98ab3cbb557fde6f36e01824e3ea6d012153d5279c6822bd22da76ef41/yhat-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "20064466b2884a79d5a2159a0a479b7b4f4887fa09400d6fb92b571505f52ecb",
+        "url": "https://files.pythonhosted.org/packages/be/69/54369acabe3e286ee69e5ad93baa227a5d13021d4af83bd56e002d3f7fc0/yhat-0.1.6.tar.gz"
+      },
+      "0.1.7": {
+        "sha256": "972f739937b679b3ee81d5145c786065895d6fbf9ec565014d8dbbd0350c1c73",
+        "url": "https://files.pythonhosted.org/packages/cf/f3/df46e9a3aacb065f18483af2ada9eef34e89a2a47c20d5dd657f0e7021ff/yhat-0.1.7.tar.gz"
+      },
+      "0.1.8": {
+        "sha256": "9a6e85cd67a8712915d6b36210c5a9f892f92c3f97c72992a9fe7f11313b2c10",
+        "url": "https://files.pythonhosted.org/packages/95/c2/a63c9f44b86ef984fee4c9678576aa116f1f008cb7b1a7cb3277aa0922d8/yhat-0.1.8.tar.gz"
+      },
+      "0.1.9": {
+        "sha256": "6f9721c3437d7e032a37bd42acdfd35c76793ee408a76713f4a3412ab35ee9ad",
+        "url": "https://files.pythonhosted.org/packages/65/06/0abab7c4aefa04235c864e379e403e1a1a0242d3a279d3ad92ec5e079e0f/yhat-0.1.9.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "55d9a3eb6da3b5d36db2bd9ac2b314d4154b58d71f97d91d08ef36842c163208",
+        "url": "https://files.pythonhosted.org/packages/4b/65/d303cdc0139d0ad5fd815e09647004a513cd913879e27dfac1be811d339e/yhat-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "0b110e979bf373e41f5850264a12200b54d252178761edc637864d817d317c93",
+        "url": "https://files.pythonhosted.org/packages/cd/c0/fb1fb868f56139100d804ee8c5cd7a2d14e468a7f993d8b13023532c6e80/yhat-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "83cf42688ead7b9246fa5cd17b16994509211427b7bf7d0b7b074e9dc2b18faf",
+        "url": "https://files.pythonhosted.org/packages/d2/a6/53da2f46113ce094d690f5187bca7d9f737296cf978c3160a85ba7016b0a/yhat-0.3.1.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "3d65c96ab6d5f999bf386ecd4eb18184563296dc13c89a9d1fd13d3f8e6a68f3",
+        "url": "https://files.pythonhosted.org/packages/e7/a1/b72d29862bd01ebe941dffdc581fa417aadfd115ef6cd7900c5c9c4845a0/yhat-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "b8bcfc82a3a2d3b5e1297ddb16b987e23278b365224b7f908ac21120cf11e6a7",
+        "url": "https://files.pythonhosted.org/packages/c5/4a/6b8cf741a3a80150b24930963fbf6595ba8a32acdcbe44ef67eb69797f15/yhat-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "fb2ce003abb19b8e5e53a4800db9ba04386b50e593a2bdd7e1dc1e2c1734e987",
+        "url": "https://files.pythonhosted.org/packages/1a/57/0d5b1797a1763c9e14ae0c9853d192639e6365c6351bc5987a6dd5cc1fa9/yhat-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "b5b5a0e353f308ecc8647d929c3a90842745d10759738b18ab43a8b639750c6e",
+        "url": "https://files.pythonhosted.org/packages/6a/95/da2c25d69492792a1df8db4c722685d4aff3b65c7e833d975d56d79674d7/yhat-0.4.3.tar.gz"
+      },
+      "0.4.4": {
+        "sha256": "cae1dbcf0cae8a51ba91d34cf790a837d7e6bd9963a0133bfcd65bf7c3b3a6e5",
+        "url": "https://files.pythonhosted.org/packages/27/fc/5ab5024f4b765e749e9cc4266670d6ee8f8e5a607cc77daca868c9f8334c/yhat-0.4.4.tar.gz"
+      },
+      "0.4.5": {
+        "sha256": "cbdfc3dc4fa4a88e70cac3740fb17da9f8ff86a962303be8c1d52945101a9683",
+        "url": "https://files.pythonhosted.org/packages/25/87/67d69de2fa4ccbbbca05fd42166db7009187ebe16cbd3dd106f3e7048783/yhat-0.4.5.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "e3bb7d85cf3eb1635ea2406147f121a30aacc4e3c63585e4efc7e710088281b4",
+        "url": "https://files.pythonhosted.org/packages/2a/eb/b312690b0a5a2a2d293c08a00faf4857f74a819fecc7cb436439a28ce9a9/yhat-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "72bcf4027c23fc699950721eaa2bdc1a0ae7c866a1e599aeeadbcf38e400f0e3",
+        "url": "https://files.pythonhosted.org/packages/d5/d0/811aaf90d5b42145c39627e7609b86f12cb38b7e6c0215e287aba713e9e9/yhat-0.5.1.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "da0054c8d5c68986c05a6d32e2bd7dbc27fd8ed188f593686824ce2005594284",
+        "url": "https://files.pythonhosted.org/packages/01/a6/de796e3543cdb5762c4a574a4e6d214181ce81a7148fa9c30a6e182efba1/yhat-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "52586ab30a1c052b6bf9480f52978d2265fbb76be744cd96a23b7779e8cb3e17",
+        "url": "https://files.pythonhosted.org/packages/3f/b1/1a8a5b2d14af37aff09906c75b7f06b7db14a110388f7c9185c1ebdbbe78/yhat-0.6.1.tar.gz"
+      },
+      "0.6.10": {
+        "sha256": "c564708123c195acf260002de6f4dd3b4e6c1c3579178acc38a484c77afff260",
+        "url": "https://files.pythonhosted.org/packages/03/22/9f71b4132e37e082c0e8a0a0e93d636b5c1552039b325d68e0fdb2f56761/yhat-0.6.10.tar.gz"
+      },
+      "0.6.11": {
+        "sha256": "7647af25a500221dd7f1f7eed943b043b8a88dea0e15f4ad9f97dc59ccf38456",
+        "url": "https://files.pythonhosted.org/packages/42/a9/8205ab5752f108ad672d411b087e0205761735e0022aa5022293535e174a/yhat-0.6.11.tar.gz"
+      },
+      "0.6.12": {
+        "sha256": "b6708953a766206d81b224c67c24b7e2e83612571e2882a3fbd50cd3ef1b67db",
+        "url": "https://files.pythonhosted.org/packages/29/74/6638b1a08356c83c26469e291c2bd4816ec69d60ff652c4ecc6886a6444c/yhat-0.6.12.tar.gz"
+      },
+      "0.6.13": {
+        "sha256": "0b6a9b421b38f767f46f5d79a603380e2192e4e664ee09c0142cd7a1076d6e91",
+        "url": "https://files.pythonhosted.org/packages/62/ba/fe9add63e11b5b665f7fa75301c37715b325060d0bfb19e69b9728eb7dae/yhat-0.6.13.tar.gz"
+      },
+      "0.6.14": {
+        "sha256": "2f9dcd10e10a3b4a4d3ad52e7f4aff17a54c7e57c3bd44238e068de6b7d53985",
+        "url": "https://files.pythonhosted.org/packages/a4/1f/c553653b0ee627a8f08b9942c82383d01741608cd3d35b131a2a0280f7da/yhat-0.6.14.tar.gz"
+      },
+      "0.6.15": {
+        "sha256": "6e38119923a27d5ea60ade1829a96fc56272d5986f8ea678ebb99244c7d90798",
+        "url": "https://files.pythonhosted.org/packages/20/23/e1c7803c265efc355a0b48067afdb3a6bfc89771592c3877e9337c7d72a2/yhat-0.6.15.tar.gz"
+      },
+      "0.6.16": {
+        "sha256": "0027c55d421ab76b393a9a361ec8b61c150a8bf39c879b8b38a8180de992697a",
+        "url": "https://files.pythonhosted.org/packages/00/df/d1ccd14657362ffd73f13ccd95d9f0ab7d35ea1ed7330448e527606c0f75/yhat-0.6.16.tar.gz"
+      },
+      "0.6.17": {
+        "sha256": "b9e3bdd0211ab3a81b2205e46ba11553d4e4b8ea2bc93ecd75f9ada2c9898bbd",
+        "url": "https://files.pythonhosted.org/packages/06/1e/618ebd280ccdcce41fd632e3336ed371eae34ddbdd90699e8e026df5b9f6/yhat-0.6.17.tar.gz"
+      },
+      "0.6.18": {
+        "sha256": "daceae7a69c16475476323bad783773ca1770b10de6f855bf186dd50e626f967",
+        "url": "https://files.pythonhosted.org/packages/a1/d9/3947222a920bf36294ef2684ba221add8eb4349d26bcd339fc7fc5ebdc83/yhat-0.6.18.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "5e108ab2d6949c4e71220cb59ed958b1206e5685aa3836067b033ac8c5eaa7e4",
+        "url": "https://files.pythonhosted.org/packages/9c/80/cbfdf304ba5e9553ce498de0421148b2c04e6f93e1702c9f9f9a2ef55bcb/yhat-0.6.3.tar.gz"
+      },
+      "0.6.5": {
+        "sha256": "89bd582dd93bae663be24ca870cb280b522bda9de6f0e0b7f33775346e2f60fd",
+        "url": "https://files.pythonhosted.org/packages/50/2e/ba541b921f37f5b297b53d395849b1c9263627e04afe3994e524d31e9667/yhat-0.6.5.tar.gz"
+      },
+      "0.6.6": {
+        "sha256": "e6c32adb5ca68fa06949d4aa1db1a3d04293e098d814ce5560a91ff0596e1d7c",
+        "url": "https://files.pythonhosted.org/packages/ad/32/d3a9bff575f966906267f05354b66501febe85018253769198c9c4151328/yhat-0.6.6.tar.gz"
+      },
+      "0.6.7": {
+        "sha256": "9fd1efb06ac44c521178913c809ceb0ae479ecdce3c00eb76a4e802be0e926b3",
+        "url": "https://files.pythonhosted.org/packages/cc/98/e0a17d359618ec9cbc9d590c14622186cc4911af52a96809d67716324f7e/yhat-0.6.7.tar.gz"
+      },
+      "0.6.8": {
+        "sha256": "3838fbcc84a2697c5d5562fda153e908420f479bf1eee4b6126c720224f1834f",
+        "url": "https://files.pythonhosted.org/packages/1e/22/cc41230dcd5d9d59e02b514ec1a3b62800615cf9aaf280932be2da6b7383/yhat-0.6.8.tar.gz"
+      },
+      "0.6.9": {
+        "sha256": "844e5d97fc664cf6cb6ad78655da9e1e9bf997a808b22ec5532c2e3bec68fff7",
+        "url": "https://files.pythonhosted.org/packages/d1/ce/1748af7d2b6640b215f599644d046f3532fa0540bfe6aca7ac3548918b70/yhat-0.6.9.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "c9138d413bddeb24f02bbccc593b11d3fa13ef6b5d09326c262dfac2d7d84160",
+        "url": "https://files.pythonhosted.org/packages/fe/d5/0c7a072a98beabfbd66b74397350e48c485a6755e69ff860ca2dc90f0b81/yhat-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "0ae922348c14bc1667c667fbba13196ddbdda77859bab191c225ed6d7ac1b78d",
+        "url": "https://files.pythonhosted.org/packages/be/bd/d8a1c090b80fc8af31f614c5030cbc256c60e4b5c749345da432b9a11521/yhat-0.7.1.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "504df0c099b354c4b711a455f8c1338aea609e4bd2322c081f0769a75da6ddf7",
+        "url": "https://files.pythonhosted.org/packages/65/e1/2c6139e309b80f095561eb4e1dc8a88891274e35ed40c8af599ce41c852a/yhat-0.7.3.tar.gz"
+      },
+      "0.7.4": {
+        "sha256": "8dc85a38c5f3aaed8157e14cb30c0c29402d1070730378f2e0040eadb8652d98",
+        "url": "https://files.pythonhosted.org/packages/94/48/99dd274efa735f06a21eab735468390fc2a1b60c6545679cd08d1811f820/yhat-0.7.4.tar.gz"
+      },
+      "0.7.5": {
+        "sha256": "80672b28c1e31582613410141138adee91b84a5b17d77651174845b9d9125916",
+        "url": "https://files.pythonhosted.org/packages/cd/29/b57eea5716f4ea89817657d9e294aa9cf7f3fe13152412719578b2453ca2/yhat-0.7.5.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "222d6e6d10e90d6d7994cc881b62148e8e57e3bafc18369f0070649bf369c553",
+        "url": "https://files.pythonhosted.org/packages/e6/a8/62954e71c9fd5a1ec68be00cd535df44130dad5044e8257f880b7a9768ff/yhat-0.8.1.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "a8ea9366cb6d28ca177c9407bd962deea45bb3c26da1510872ac767324dfd5d7",
+        "url": "https://files.pythonhosted.org/packages/be/3b/caf818212183db9fd8439e8f620f66edb9811cfa88ee5ca4dfdc5509e9fa/yhat-0.9.0.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "8eeb3041d01ea113a02536154187e25668ef9f9e8464f5ee80014ebf75d1be14",
+        "url": "https://files.pythonhosted.org/packages/fa/91/e26108d20577d90d4adafd1327e4952e10ba92fe203d666ebf497c503ecd/yhat-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "8bb48f3953efccbb3a3b559098029f8ae2a75ff6b8159416b8827cf81b3b7830",
+        "url": "https://files.pythonhosted.org/packages/c4/c4/08d739aefda9b479d7baee615eedb57b3a7176d69d7667eff71da71c2ab2/yhat-1.1.0.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "e1d1b46ab496c482166e3daa97ad3890e3faacaec88391a44d2b4cfbb5c40436",
+        "url": "https://files.pythonhosted.org/packages/53/42/cab377553bc071e809f0e6178c53f8c500dabcae835d19e01f2f6d290f6c/yhat-1.1.3.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "64d7972d325885d584cd26c98eefe2ca502667dbe3325cff1e943d684c073e1a",
+        "url": "https://files.pythonhosted.org/packages/f4/d0/93768e11a0bb154f58ae39aa2de68563e753433ba8a78e01ec0fc7584a24/yhat-1.1.4.tar.gz"
+      },
+      "1.1.5": {
+        "sha256": "4b7345e49ad5acb369cb0fc59cb766dddf6541992929105f5679d146bab2289f",
+        "url": "https://files.pythonhosted.org/packages/8e/4a/88af773464e14726d8db276d85f460378770e9a2dc42a4cca95c24a87db9/yhat-1.1.5.tar.gz"
+      },
+      "1.1.6": {
+        "sha256": "2a97d765942c72b183075129400cd374315e7413267c6e7b2be06ea67cd2d473",
+        "url": "https://files.pythonhosted.org/packages/cb/48/e9c5a566f1eb65295fb1363d3deba640222a78aa5ae7fd90ae593fdc5570/yhat-1.1.6.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "b034deaaeea620227692755839a1e3418de632d70020f474b2d4ffcfc43b1edc",
+        "url": "https://files.pythonhosted.org/packages/49/ff/7d4b749de577cd3812fe4878dc4dfed5a6178202289b37e5e866951cdaf8/yhat-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "431ce61242e7d49ac1fcfb20795c6583fc26af0139fa24ab2458ace09545e4ef",
+        "url": "https://files.pythonhosted.org/packages/d4/e9/c9cbdf29514b4b75345c0856bcacffd4f70c09213973a5b6fd59cacdf76a/yhat-1.2.1.tar.gz"
+      },
+      "1.2.10": {
+        "sha256": "e854928dc0469c92be1fe33cf70c013b123f086403e81164a673dc624ed50bd1",
+        "url": "https://files.pythonhosted.org/packages/fe/24/e0288bdbc6275c15f55460c92408dd388695fc020de2e60820d4e797194d/yhat-1.2.10.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "0256a4f74662285418da4a56ee60cb1cfecc61f313890be49d192e11d08afa03",
+        "url": "https://files.pythonhosted.org/packages/6e/5c/bb6948743274d157e129d534c786a6d38555a60d1063743d84687a380cdc/yhat-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "4b96c3e10c505723aa55207d47150aa670be9480efe05ca1b90a1d901a0f749a",
+        "url": "https://files.pythonhosted.org/packages/a6/f8/9e68ac63549fdedadb3234215804fbe41d90f4363c807170cecd243e6213/yhat-1.2.3.tar.gz"
+      },
+      "1.2.4": {
+        "sha256": "d83c8c2f2a4a1772eada6186afa32a63d3bdf01c3532ec90078d1233a16281f9",
+        "url": "https://files.pythonhosted.org/packages/2d/ea/0add051d2bd29c8cf231836a0d92a4380258ff303e861d6fd8ee8f54fcb3/yhat-1.2.4.tar.gz"
+      },
+      "1.2.5": {
+        "sha256": "8911e43e926a137614c80670a29d4fee958a5b9a0bb5807674e0965707590dac",
+        "url": "https://files.pythonhosted.org/packages/7e/d4/d8e27f0ad0fcced62da47d4b0cdd397f58545f4b00b4669512f6869dc6bc/yhat-1.2.5.tar.gz"
+      },
+      "1.2.6": {
+        "sha256": "fb0531004107146b683a08b0b31ef6f1e33474de61df09680d01507f56bae20d",
+        "url": "https://files.pythonhosted.org/packages/bd/76/f468f1abe1a674b5ff0651083e452b5f4e9cc2d751af6b101abc9bd80495/yhat-1.2.6.tar.gz"
+      },
+      "1.2.7": {
+        "sha256": "b73c75089a3847f237a7893065950e7ee0c0dcf46b65c30e27aa79e2c5f21def",
+        "url": "https://files.pythonhosted.org/packages/f2/c0/0226e8345812ccb5422bb658652c37dae96f5330ef7d9d94caeea8f45a38/yhat-1.2.7.tar.gz"
+      },
+      "1.2.8": {
+        "sha256": "2a100528637f812a4d3ca1f409ea0533bdbeb4d4a5007ef1ea69e967e2c36b6c",
+        "url": "https://files.pythonhosted.org/packages/36/76/f8f3a5fe1a257b52e08b7265a249943de3f7bb245bd2e6694e2dd13ef23d/yhat-1.2.8.tar.gz"
+      },
+      "1.2.9": {
+        "sha256": "5a9c8c2497e0338986df4fdbed28ffc4dc8cc58d49e5ad757369c179904ce858",
+        "url": "https://files.pythonhosted.org/packages/ca/8a/8fe2c1e0d7984d2dba55f6b2179be505951533dbd5f8f77805209ce2c45d/yhat-1.2.9.tar.gz"
+      },
+      "1.3.5": {
+        "sha256": "5b6d9c0f45a86b923ee57d4cc81409d784c1d2c63d9ef63c3be8579f6598324e",
+        "url": "https://files.pythonhosted.org/packages/24/39/90d03db6777e2115f2c77ce9086d2569bc50801cf0f5b9e3c9cf65804b68/yhat-1.3.5.tar.gz"
+      },
+      "1.3.6": {
+        "sha256": "eebb0aa36eb2af567cc25ce0ff9dc727218ac7ac67f79163c1bb4e3427d732c9",
+        "url": "https://files.pythonhosted.org/packages/93/f7/ae11069154e1ec8ec3deac69023c507a8846c483456ced7d577fd5c577f2/yhat-1.3.6.tar.gz"
+      },
+      "1.3.7": {
+        "sha256": "a140c1c6533de4a590327f83ebc27c60c407fb82fbffaa7d8f58bb32e10cb396",
+        "url": "https://files.pythonhosted.org/packages/cd/81/f6a5723d7985db4f995f4f36100a38adaf07639e259ea56ce4dfd7fe56be/yhat-1.3.7.tar.gz"
+      },
+      "1.3.8": {
+        "sha256": "5313fabc47b8be3db1362b1ad61132491456a554afb30e6d3890204789fe187a",
+        "url": "https://files.pythonhosted.org/packages/70/fb/52405466dae146333e84c25fc8d3533e1526b88bfb09fb095e0e2c89b695/yhat-1.3.8.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "966f5ad829e4115f473f631b6409263e438d6f005eb3694a62f8bd92e912ea56",
+        "url": "https://files.pythonhosted.org/packages/ad/5e/80961941d339c02ca91e93301384938c8b351bf91e771bba9ced70fd0706/yhat-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "4ec351a89885371426152c80b2c08703a3416a2c8e8e3e66b5fb3434057a4408",
+        "url": "https://files.pythonhosted.org/packages/ff/b7/78f1016c234d4e01852506bbdaf8d9b653b4aad103eb286729c98f39a2d3/yhat-1.4.1.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "9799e43dbfe5ce11815f8fafbf19292a7a941533a4f19c74408d919a66851dd0",
+        "url": "https://files.pythonhosted.org/packages/05/18/089793b57c77d1261b81649a5a76f1deb0bcc41fc1220f6a7e784f18f0e1/yhat-1.5.0.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "dd5c6b142d8cafc7d40c9900acd69e7dab3993860bc57bb3b1ee4f93bf4b3775",
+        "url": "https://files.pythonhosted.org/packages/d4/62/628c94ace98fa6b0ed61dcd668e8da7a1a8f1cb09dea1649f6b760e89e26/yhat-1.6.0.tar.gz"
+      }
+    }
+  ]
+}

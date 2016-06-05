@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "package for converting dicom files to nifti",
+    "homepage": "https://github.com/icometrix/dicom2nifti",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "2bc987a60e8080394150f24fde8d286841f596bdbb5aeb6cfddff6f91b07823b",
+        "url": "https://files.pythonhosted.org/packages/fe/77/5259d976889a7cc150823e9a8b75cce68af0ca6ddf18187f9b5b193634b0/dicom2nifti-1.0.0.tar.gz"
+      },
+      "1.0.0rc1": {
+        "sha256": "d648023539b3e3b553bf620c18cfa0d4e2223f09c94822b0ecc71ce64cea6ece",
+        "url": "https://files.pythonhosted.org/packages/1a/8c/9ba0f9db7719b1e77db5f9fb2cc5950ae9d721cbf25be5b30cb361c50dc0/dicom2nifti-1.0.0rc1.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "5fe415fcd251b2d975fb776540bf1d868f95b19842d7d1fccae5ab77af5f03fa",
+        "url": "https://files.pythonhosted.org/packages/56/5a/14fc7e7604364d9242569d6e51f8b4499cf5b46fa1a522a1dc7e29f61465/dicom2nifti-1.0.1.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "aa0e30dba7801bd20b12e263bc7f14114cb2e29dc8ba3fa5840004cdb2f48ead",
+        "url": "https://files.pythonhosted.org/packages/cc/3d/b6b750bb58d135b1533ed0494d375d0578bb7289eb720cec95d4bb0bdab4/dicom2nifti-1.1.0.tar.gz"
+      }
+    }
+  ]
+}

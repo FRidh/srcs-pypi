@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "2.6.0"
+  ],
+  "meta": {
+    "description": "Read and write HDF5 files from Python",
+    "homepage": "http://www.h5py.org",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "2.2.1": {
+        "sha256": "b4510cb74aef332847dc88e3df6910d7af68c709b3556fc960a687c56ba6a4cb",
+        "url": "https://files.pythonhosted.org/packages/d0/a8/9ec7eec400c4263884bb23f9e23f23f92117fed9e108f62c525e2287e854/h5py-2.2.1.tar.gz"
+      },
+      "2.3.0": {
+        "sha256": "943a08e938fdb553d0dac0e2be90bcec79a71961045a3018ec2b4e86f94feaa9",
+        "url": "https://files.pythonhosted.org/packages/3f/f5/9cc0d4bed10eaa3e0f2f99e6456a33acec17807c5681da5022ce0100554b/h5py-2.3.0.tar.gz"
+      },
+      "2.3.0b1": {
+        "sha256": "3249872ba02a14548f8d292853e07fc94839fdb9c8901f98d16e94a17eccad55",
+        "url": "https://files.pythonhosted.org/packages/5f/b8/810d074f4b9b7cf991e525848b048cbf224b0b06c7db1f833917d242a33b/h5py-2.3.0b1.tar.gz"
+      },
+      "2.3.1": {
+        "sha256": "447e55d5893ca285d1185a938548a12f3f7d4af441f1a7740ac28bc3aecf85c1",
+        "url": "https://files.pythonhosted.org/packages/11/da/3016e845eece12bc63a056de7c42a45ecdab5602e2cb56e44cace70cec85/h5py-2.3.1.tar.gz"
+      },
+      "2.4.0": {
+        "sha256": "faaeadf4b8ca14c054b7568842e0d12690de7d5d68af4ecce5d7b8fc104d8e60",
+        "url": "https://files.pythonhosted.org/packages/84/ad/77e92b47445d5ec5c7e5e8a61196457b47acebc3d7eca166056e7e1291da/h5py-2.4.0.tar.gz"
+      },
+      "2.4.0b1": {
+        "sha256": "2db07e4619551c8f155373f78792a8d6ddb7db484d548f4f4488d9ed8a36c0d8",
+        "url": "https://files.pythonhosted.org/packages/17/97/76e0578a1b0610f99e5e6654e26ab7e9a5f82d076a877b0fc7dec60558a4/h5py-2.4.0b1.tar.gz"
+      },
+      "2.5.0": {
+        "sha256": "9833df8a679e108b561670b245bcf9f3a827b10ccb3a5fa1341523852cfac2f6",
+        "url": "https://files.pythonhosted.org/packages/6c/03/e3c8c484687466ffcc83e575b997ae6fcdedead573b9522297f53da6e68b/h5py-2.5.0.tar.gz"
+      },
+      "2.6.0": {
+        "sha256": "b2afc35430d5e4c3435c996e4f4ea2aba1ea5610e2d2f46c9cae9f785e33c435",
+        "url": "https://files.pythonhosted.org/packages/22/82/64dada5382a60471f85f16eb7d01cc1a9620aea855cd665609adf6fdbb0d/h5py-2.6.0.tar.gz"
+      }
+    }
+  ]
+}

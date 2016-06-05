@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.0.1"
+  ],
+  "meta": {
+    "description": "flask-funktional-gae\n~~~~~~~~~~~~~~~~~~~~\n\nflask extension to make functional testing of flask applications with the\napp engine sdk easier.\n\nused on top of the `flask-funktional <http://github.com/gregorynicholas/flask-funktional>`_ extension, it provides setup of app engine sdk stubs with\na focus on being transparent and minimally invasive.\n\n\nlinks\n`````\n\n* `docs <http://gregorynicholas.github.io/flask-funktional-gae>`_\n* `source <http://github.com/gregorynicholas/flask-funktional-gae>`_\n* `package <http://packages.python.org/flask-funktional-gae>`_\n* `travis-ci <http://travis-ci.org/gregorynicholas/flask-funktional-gae>`_",
+    "homepage": "http://github.com/gregorynicholas/flask-funktional-gae",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "50e19abbf2af6bba952b8046dc57ef14b2f4e72e89931e5f38476379a11af993",
+        "url": "https://files.pythonhosted.org/packages/93/02/f6cd86460cb4ef192d8c8a1672a7f2063a63290b7bf263dfaee3803d2b06/flask-funktional-gae-0.0.1.tar.gz"
+      }
+    }
+  ]
+}

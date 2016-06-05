@@ -1,0 +1,254 @@
+{
+  "latest_version": [
+    "0.5.4"
+  ],
+  "meta": {
+    "description": "Bringing order to Mongo since 2009",
+    "homepage": "http://merciless.sourceforge.net",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "dff7edd18117033a36686a4de16694cc57d33563bf5ca6a9809647e7fd148154",
+        "url": "https://files.pythonhosted.org/packages/fb/b7/93314004a15627fa32c1329f4d6da084c2f281f85052c958677ec06cdb6d/Ming-0.1.tar.gz"
+      },
+      "0.1dev": {
+        "sha256": "b82498a23ef6a6ffa824ed26fc8c37d2f653410a3cfa1a5139de5baf8ec4c78c",
+        "url": "https://files.pythonhosted.org/packages/a5/d1/a8b515c2e9ada400548bfeaa30833253e818ae9082e2e6de26e34d63dd1d/Ming-0.1dev.tar.gz"
+      },
+      "0.2": {
+        "sha256": "7d9347d9c618d69370da52c737ca168ecea789e29cec6c55346fbeb35a8624ed",
+        "url": "https://files.pythonhosted.org/packages/66/b0/2d0f2a6f219a8c33e70657a6319b08e4bdb49cb813cb1dbe6019ed357f65/Ming-0.2.tar.gz"
+      },
+      "0.2.1dev-20101130": {
+        "sha256": "48b3c3212b521367b0ee7818e2545bd6d68113ea9ab8cee8a9202c9d78ab0d79",
+        "url": "https://files.pythonhosted.org/packages/49/ac/51323d775c588edc1a12fc3cdf6753729fa79ce3542e4b71f7353f7b8605/Ming-0.2.1dev-20101130.tar.gz"
+      },
+      "0.2.1dev-20101208": {
+        "sha256": "ea452169f01342be0949f56758ac742560f3ad98f9cc14ff6f5b6c76087cf6dd",
+        "url": "https://files.pythonhosted.org/packages/f0/ea/5b4df7fdc9405e0ccc1af9edeed3c25f55a3bd040459f7f1e9ea512aefa2/Ming-0.2.1dev-20101208.tar.gz"
+      },
+      "0.2.1dev-20110131": {
+        "sha256": "aa419b687ef882bf0b6244b805eca07792846c30c84a07e1ac0d0b4c2beb0cc4",
+        "url": "https://files.pythonhosted.org/packages/3f/82/c16dd0c8834bc9987fce6d01eed46c21aa28cfd6ab0b9f789737c8f721c8/Ming-0.2.1dev-20110131.tar.gz"
+      },
+      "0.2.1dev-20110201": {
+        "sha256": "2e261cfd8af9d79b7241cc4f515102fe57c9870a95708e1adb51409c90d3836f",
+        "url": "https://files.pythonhosted.org/packages/5b/08/b182d45eb7dd8f3f3ebc8e57e240783e937de1c1e188479181509fbb8fd2/Ming-0.2.1dev-20110201.tar.gz"
+      },
+      "0.2.1dev-20110202": {
+        "sha256": "9b9c3d54ddde09a3ffe4302bcf42783154163dcf5ee2fd468fd8c2d89f512fbe",
+        "url": "https://files.pythonhosted.org/packages/eb/32/1c0f1062cb13aaea381be5eb9c7e7ec22384c6c3fb75a8e3157888244d77/Ming-0.2.1dev-20110202.tar.gz"
+      },
+      "0.2.1dev-20110209": {
+        "sha256": "46e77d874afb0af3ba7f8b8e6a3bade1555a7e39c9c9139ed05d995768b67562",
+        "url": "https://files.pythonhosted.org/packages/ec/d4/41275771e9967cc233166e4575c663ce5b61f8051634ff52584b72922386/Ming-0.2.1dev-20110209.tar.gz"
+      },
+      "0.2.1dev-20110214": {
+        "sha256": "d3d50c2101b70acb96614cd74998d5a08f5239c40a9d10255f6595f0d39f1cb9",
+        "url": "https://files.pythonhosted.org/packages/78/e6/ccdec77ac199074826affacf0b77b7320012ec6fcf200f91c8a113f5f160/Ming-0.2.1dev-20110214.tar.gz"
+      },
+      "0.2.1dev-20110216": {
+        "sha256": "778207db734bf420fc29262c12b24d08d2f8289587ac4d9f06bd5ef321c7dfeb",
+        "url": "https://files.pythonhosted.org/packages/37/9f/4ed2ad745b2e628e862a5923006757110c289095a88c7eafbcf8a8cb51fc/Ming-0.2.1dev-20110216.tar.gz"
+      },
+      "0.2.1dev-20110304": {
+        "sha256": "2f44458ba21e8917c2d255450465ccc087d0bd2243a4f8bb45af07f01a17710f",
+        "url": "https://files.pythonhosted.org/packages/bb/07/15ff8eceb848a6195dc4483bc98c0b82dd38df284119e6a286e71d00a948/Ming-0.2.1dev-20110304.tar.gz"
+      },
+      "0.2.1dev-20110316": {
+        "sha256": "91d17618fea23271fb8ac3062be11e5922639f4eb744a568fabb1a772638327e",
+        "url": "https://files.pythonhosted.org/packages/be/4d/62133139da180162688af927e3aa09935b0075472311b62758dbcf661326/Ming-0.2.1dev-20110316.tar.gz"
+      },
+      "0.2.1dev-20110324": {
+        "sha256": "03ca4b01f82d1a4a13011055df1a61169de304795e27392acf2b8fd2cec29243",
+        "url": "https://files.pythonhosted.org/packages/89/23/441adac850d63387d155c20963d1fdba39264cfd65f39196fd924daecd23/Ming-0.2.1dev-20110324.tar.gz"
+      },
+      "0.2.1dev-20110401": {
+        "sha256": "89a0a4cabb51cb2e4d5be23aff07a480641a326ca4c0f319ad6038fb9a08075b",
+        "url": "https://files.pythonhosted.org/packages/23/ae/3b0ba570af14dec147e92f72362e26cbe32eed11dcff4e4b8ff6975a6515/Ming-0.2.1dev-20110401.tar.gz"
+      },
+      "0.2.1dev-20110412": {
+        "sha256": "de364ccbf7d7a2340fd4fc0553e069a08941abebd178f86fb6b380cdbf54e122",
+        "url": "https://files.pythonhosted.org/packages/5b/4e/d28e7078e41180eb572ff326d12bd864fe739b65e46872d425e3a4ea303a/Ming-0.2.1dev-20110412.tar.gz"
+      },
+      "0.2.1dev-20110426": {
+        "sha256": "efdc06329f3a264a957a3193f5c23617d546742b9a01e0eb122bc9065e498d8d",
+        "url": "https://files.pythonhosted.org/packages/9e/f6/02ce9bc5acd719081b028915c576e0cef8fda22bee3fea32132d251954d7/Ming-0.2.1dev-20110426.tar.gz"
+      },
+      "0.2.1dev-20110428": {
+        "sha256": "7b18b832cd5008a08cffcb3d11fc5d3bf83090c705a9fe7c7e3b49759ed8980f",
+        "url": "https://files.pythonhosted.org/packages/46/cc/470b5ae86aefd76b8dc1880d068cda4ca3318547551fff0731b11b2849ae/Ming-0.2.1dev-20110428.tar.gz"
+      },
+      "0.2.1dev-20110516": {
+        "sha256": "ef1c1eebf51bd59b4f88d7ea33608f6fe55e818413de7529659a41d43d0dde4a",
+        "url": "https://files.pythonhosted.org/packages/68/03/6b48a26f2885d51166b8ea1b8c2605e6fbd7a346cb848bc948dc088d9432/Ming-0.2.1dev-20110516.tar.gz"
+      },
+      "0.2.1dev-20110517": {
+        "sha256": "ada5f41c5b3b0b2dbaf8fd34a71b9cb378a31f36f11f979c2dce2218fe904e69",
+        "url": "https://files.pythonhosted.org/packages/fe/d5/9aa5da55a24a6857bbf03c20554aa995a5acbf53d0b099640b5a3d27ed79/Ming-0.2.1dev-20110517.tar.gz"
+      },
+      "0.2.1dev-20110519": {
+        "sha256": "32c0ff3286857e4b6105ab3ad0f6454c14cff07b35b596213f2d1d47d7290e65",
+        "url": "https://files.pythonhosted.org/packages/42/f8/5a71e811b12f78501f7e29210c90014ffa9eda3874d46fe4d21bfe1388e1/Ming-0.2.1dev-20110519.tar.gz"
+      },
+      "0.2.1dev-20110531": {
+        "sha256": "7ae6786e56a9dfa14ec4fb7d223f045129ca00a18fd5c655ed5007a77e79a137",
+        "url": "https://files.pythonhosted.org/packages/c9/cf/631cd70c37d18e81ee405b7a361abddecb668a62753c9a7a61dae9274a39/Ming-0.2.1dev-20110531.tar.gz"
+      },
+      "0.2.1dev-20110603": {
+        "sha256": "deb5467d4ca57dbbaabb07b2622ff34f83071d211f07c32894bf003031a16688",
+        "url": "https://files.pythonhosted.org/packages/b7/d4/7e4f4470b9a3b2da2be771c0a1a0db49142e739320817c44ad81fc10be6f/Ming-0.2.1dev-20110603.tar.gz"
+      },
+      "0.2.1dev-20110607": {
+        "sha256": "3939ee1829700239991020e213f2c0557646884132330ef192382d07d7fd7e22",
+        "url": "https://files.pythonhosted.org/packages/06/ff/2c9391f973a50ee77441accff43782ce324938296c72a199fd4d3a1251d0/Ming-0.2.1dev-20110607.tar.gz"
+      },
+      "0.2.1dev-20110617": {
+        "sha256": "cdfd8253a4d7ec3abe734d32cc3b70c1aa10cdc45221978db439269c0020f46f",
+        "url": "https://files.pythonhosted.org/packages/5c/3e/379ebdb37992c94b5f02e8e6053511544b59a2e10c7d4a56653d8c25aa23/Ming-0.2.1dev-20110617.tar.gz"
+      },
+      "0.2.1dev-20110621": {
+        "sha256": "2d3d32cdc9594cf61e9750cf452e3dbe3b59e165ac22c3eefdb8925541ee7a88",
+        "url": "https://files.pythonhosted.org/packages/d7/05/363d1653a6cb252e1b88139c95e35ed35fc8784b905a6b0dac8a6fda21b1/Ming-0.2.1dev-20110621.tar.gz"
+      },
+      "0.2.1dev-20110622": {
+        "sha256": "7dd6c8d8698b41b08b7dca07f8137cab6756e13a91d2bbe96bf86d2c9b311da5",
+        "url": "https://files.pythonhosted.org/packages/a2/74/731032eec26fd41137599e4df41e68000e7e763763036b7347b2c9314e58/Ming-0.2.1dev-20110622.tar.gz"
+      },
+      "0.2.1dev-20110627": {
+        "sha256": "aff86e7138589338ad8d92feed25d523cff1c7967395b40b03d234a5e9ad1e42",
+        "url": "https://files.pythonhosted.org/packages/46/92/5803e069acb603ce99534b3f7dcc77139196b329f2f56bf8de8f6c959e19/Ming-0.2.1dev-20110627.tar.gz"
+      },
+      "0.2.1dev-20110628": {
+        "sha256": "004e2d64ef3cf679012a5025c0f52557aa36c8d7e2c5ecdf1e983d328445449a",
+        "url": "https://files.pythonhosted.org/packages/27/f8/5e0bee9d1430f674ce070bfe9283a7f483388193e3da59f1489f10725315/Ming-0.2.1dev-20110628.tar.gz"
+      },
+      "0.2dev": {
+        "sha256": "883346194edaf98e583660991edb56be6e0f54a3102da4e290a4ed9de138e152",
+        "url": "https://files.pythonhosted.org/packages/2a/f0/9a567f2f10177b0d3deddcff5afb7dbf7ed6f10334879f9937ed076acd03/Ming-0.2dev.tar.gz"
+      },
+      "0.2dev-20100817": {
+        "sha256": "f892921c2f336bb88d37172be544a630b56a4b8c333374996949f7ede45f9e73",
+        "url": "https://files.pythonhosted.org/packages/e6/53/ff055f4a099ff0f84c523464fd537202b4bd6b33e70901c7a1a23080a1df/Ming-0.2dev-20100817.tar.gz"
+      },
+      "0.2dev-20100818": {
+        "sha256": "fb7e856c9801767f92a05b4e1f01e18ea942eacda52ad3ded9c496c9cc9b4bff",
+        "url": "https://files.pythonhosted.org/packages/8b/df/7f198d6ac537596f87172d2a73052f58e038ac9f321d408f48efd20b9c68/Ming-0.2dev-20100818.tar.gz"
+      },
+      "0.2dev-20100819": {
+        "sha256": "4cae23e24a6c3980adeb02a767c27609c8570cfa1bfadd78ea69d55fe1e5998a",
+        "url": "https://files.pythonhosted.org/packages/ce/da/ce2b629c2f690b9d1989c23e72ede48ef1af10fd401991ee0c3962f6e2f0/Ming-0.2dev-20100819.tar.gz"
+      },
+      "0.2dev-20100820": {
+        "sha256": "c5dda22e7bb2264b350eb756f59463a42e8fb085546656f1e6037c40a45e6756",
+        "url": "https://files.pythonhosted.org/packages/52/2a/8d8c9bb414248c6051f226c783d4d0d9753a26ebcb12923f4b69f544a5df/Ming-0.2dev-20100820.tar.gz"
+      },
+      "0.2dev-20100823": {
+        "sha256": "59d218c0f48a95ec5ae1edaec5eef848b58089b520aacac9ca5e53de046bf599",
+        "url": "https://files.pythonhosted.org/packages/01/c6/aa1601f074d3e9e2121ae2bf2707f2a361d9e0e349eea9abc9291cf23628/Ming-0.2dev-20100823.tar.gz"
+      },
+      "0.2dev-20100913": {
+        "sha256": "f8beca9107b3f4bc581d662e09962a2e9d45f5ec7589163a166aa3af8ecac495",
+        "url": "https://files.pythonhosted.org/packages/97/fb/7b0504911cf0254a8add0796fb26448ba904fa3ac8235f6d9a15eb19a8ea/Ming-0.2dev-20100913.tar.gz"
+      },
+      "0.2dev-20101007": {
+        "sha256": "bb78605263516781f9a708a12fd9101750c118622eb96863fb43d57b5b6be9d1",
+        "url": "https://files.pythonhosted.org/packages/c7/f9/d53f84097d3b5e79a1a237c7c0a2c89ffbd57634ff1472907930ab0e0059/Ming-0.2dev-20101007.tar.gz"
+      },
+      "0.2dev-20101009": {
+        "sha256": "8fe797346cb41ce1817d2dc493a0974fc84656c3d17b506ef5bf75eb2fa67c43",
+        "url": "https://files.pythonhosted.org/packages/18/60/6c2db72fefe4dc9438d93e64a85f3dc0567d94f6d6a0b269aa4ba30b03a0/Ming-0.2dev-20101009.tar.gz"
+      },
+      "0.2dev-20101027": {
+        "sha256": "0014f45ae7b944521f5d6d6d111ffdfa9e3ed0dad4d7ebc93a009f1c4d756723",
+        "url": "https://files.pythonhosted.org/packages/f1/6b/3886ff003be7a23384ce47bf7b937f62a60da18d952376f420129e1aaf72/Ming-0.2dev-20101027.tar.gz"
+      },
+      "0.2dev-20101102": {
+        "sha256": "bcfa3aa1b7c68d8b1125443d63a952e7a63f5fad58e405a1b045cf89b152ef9a",
+        "url": "https://files.pythonhosted.org/packages/ec/40/8ef04f99b10286ed5a5fc16be85225dac16ba3b702a2282bb9d6d517ccee/Ming-0.2dev-20101102.tar.gz"
+      },
+      "0.2dev-20101105": {
+        "sha256": "9838bd2fc3fa5f853bb9b103cad4c14bfbf22bbccc0bf108cb90066ec11e6ced",
+        "url": "https://files.pythonhosted.org/packages/4c/ca/83b419b96b1b74a3b6ac6d74f0da235acf9c9b68fcc0b2c6752753e2e793/Ming-0.2dev-20101105.tar.gz"
+      },
+      "0.2dev-20101111": {
+        "sha256": "6d60a3ca05edc7c9f78d62a15ec158a53fefd91a8de120bf6db1262727509012",
+        "url": "https://files.pythonhosted.org/packages/05/12/763dfcfbc363dd103ff2bca37e6d46c5ab112fb7ae620c46fd85b2d80f68/Ming-0.2dev-20101111.tar.gz"
+      },
+      "0.3.10": {
+        "sha256": "66330c7ed5e4b751310106d8f38c1bd5c6a43157ced60aca8b653b34935bcc1a",
+        "url": "https://files.pythonhosted.org/packages/ea/9d/5b4f42faf1ede05ce176e9ba7bf20ce9ce88be604c4a8da25740d4783fbd/Ming-0.3.10.tar.gz"
+      },
+      "0.3.3dev-20130322": {
+        "sha256": "54c304bb8e39363fff942ad4fbfabe864e1ff6626e1038be72ea6f0db97a360f",
+        "url": "https://files.pythonhosted.org/packages/db/a6/2f63fea14a951241b99599dd1cd8829d413a2308ce5273c785828a1c45e4/Ming-0.3.3dev-20130322.tar.gz"
+      },
+      "0.3.5dev-20130522": {
+        "sha256": "0ce4eb06ad715bfc42acaa531f347bdc7fb9c0622ab79a03a306dc18e6a6b65a",
+        "url": "https://files.pythonhosted.org/packages/ca/6c/096b86d1127ccda7cf93d19e902bd597d32cf4c78c9a843c3c66b8459a0e/Ming-0.3.5dev-20130522.tar.gz"
+      },
+      "0.3.6dev-20130620": {
+        "sha256": "af41795b934564d3542501bc57177d428d15497f14e9ae770805f6930bde67db",
+        "url": "https://files.pythonhosted.org/packages/b4/53/abeb8698db0db71eed8caacfeb6645fdc8f2fed2da1ce68c6e6810f417fd/Ming-0.3.6dev-20130620.tar.gz"
+      },
+      "0.3.6dev-20130621": {
+        "sha256": "5baed5f690e5783391ef073e4dffd25617dcb56ed1b3b673f3195d2bb0b445e4",
+        "url": "https://files.pythonhosted.org/packages/5f/48/23fb26459adef23902350ad71938ec2c8c70af38192ba2a335940467e7ec/Ming-0.3.6dev-20130621.tar.gz"
+      },
+      "0.3.7": {
+        "sha256": "5235b35a252726adc1253b326343063bcd619cc988f0d702a0f36306e5d1f6c6",
+        "url": "https://files.pythonhosted.org/packages/ac/88/7b8ed8f71dc1955bbb3504fab5763638882b5e96f9957e0f8d4ed856625e/Ming-0.3.7.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "c3f5fd0cec05c45a738f7f0ed6e68f1fe09fe6934c4e7035a23a6a3ebef6f6d6",
+        "url": "https://files.pythonhosted.org/packages/ae/b3/e34c69ef9b4ff51d40fe92984209fefe6027249d576aa6aecc64e647009c/Ming-0.4.0.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "03302b8b21d62d847dd11fdf64e7aa1746febe9b43f98a22aea6cfa21e65ef05",
+        "url": "https://files.pythonhosted.org/packages/44/4c/608b3339b5cb38b68316a9e76309781daaa158a9ecaa3c8a68c9d7c4bb8d/Ming-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "c5995bbc39d060ce87e84e75eec05a2a9562ddf3820ea8662bc7c09aadca1ef3",
+        "url": "https://files.pythonhosted.org/packages/24/d7/e9cf91f5fc5f7fe89e79b7fd1c80a9559694d9761091af31fb2659982d38/Ming-0.4.3.tar.gz"
+      },
+      "0.4.4": {
+        "sha256": "4808bd09aea6402353f1c2088a9ae12e30a255df2b53e85da442cfbf9e575f7e",
+        "url": "https://files.pythonhosted.org/packages/f6/17/00d50ad630c88ef15ca1f6581caa72aa702492cf7e25701d12d304620085/Ming-0.4.4.tar.gz"
+      },
+      "0.4.5": {
+        "sha256": "97a7dbf9010dc1b7ed5dfdc821453a6fff386c03bf81dbc84182487a64a0a383",
+        "url": "https://files.pythonhosted.org/packages/bc/cf/942f84150b8196f11fef4b5cc257753ecd3d4c4aae45dd89d7341708ffdb/Ming-0.4.5.tar.gz"
+      },
+      "0.4.6": {
+        "sha256": "337d456d0ed4cc3ee921af91fe6c38f53795a4bd533938d5abec149b783b1843",
+        "url": "https://files.pythonhosted.org/packages/05/8f/2baf97209904d959aebd8c2fc20d24cd249ee1c3c76b8a5dd96f60566244/Ming-0.4.6.tar.gz"
+      },
+      "0.4.7": {
+        "sha256": "884c10733581523c243a48c49fb072c9969941b73b9aa04bdec16f0f735434b8",
+        "url": "https://files.pythonhosted.org/packages/5e/f4/d9a687c454fbd9c437039d43d1bb67e69d076987023650af500bcbfd89d1/Ming-0.4.7.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "c263768ffa6a4d609cbc97c46650ebd249d2be921b61155fa65ddf0a9e05028b",
+        "url": "https://files.pythonhosted.org/packages/bc/32/5a32c6b3773c24538ca92f3ee49c2e30e23204d906850bdf70443e158051/Ming-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "98802215aa8d6efb362dda3b846bf3b27e9700a6c16122251607a1c73d0ced1c",
+        "url": "https://files.pythonhosted.org/packages/94/a8/1dabdbc9109df964012de45a8630be8e4d32c60d795ed7c4c22f93b3fa94/Ming-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "fbbfcbaba4e23bccfb8450dfa70c7e197bbc445eb67558c4c47be636c62fcb0b",
+        "url": "https://files.pythonhosted.org/packages/4e/91/11a382a7b2d4dc693b8517588ce3f35cc50aed10dc32e6b64303862b641f/Ming-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "8f96a772bbbcf2822317bab049af2cd105bb6d005317df2a0ae634e9c9cf042d",
+        "url": "https://files.pythonhosted.org/packages/c6/83/540c5bfc90d0a7dd176e486efceb97cfbae02142b4d2a28be18227cac69d/Ming-0.5.3.tar.gz"
+      },
+      "0.5.4": {
+        "sha256": "13536785354f5014d642f47cf5c5195a5dc262e3991c00bc7ea9da216b8a32e2",
+        "url": "https://files.pythonhosted.org/packages/ec/4e/9fafced7c4b38e60e87f0f4ff51d468808db151f34e994611224c9845aab/Ming-0.5.4.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.14stable"
+  ],
+  "meta": {
+    "description": "High performance, transactional email message queuing, logging,\t\tand multi-lingual HTML and plain text templates management",
+    "homepage": "https://github.com/tony-landis/PonyExpress",
+    "license": "Creative Commons Attribution-Noncommercial-Share Alike license"
+  },
+  "versions": [
+    {
+      "0.11dev": {
+        "sha256": "2cf6d0e7d16b75cf7edf7573da63a47d0d4ec5b4a4b5dea0d63335998bb64501",
+        "url": "https://files.pythonhosted.org/packages/e5/ff/f6678b0fbd3c7ba506b2deb5d682966834e989004d2d70666f1efa9c235c/PonyExpress-0.11dev.tar.gz"
+      },
+      "0.12dev": {
+        "sha256": "dbe988c877ffa838b7c40f4c7ed0430e58563a2916e51a79a461562ce43e234a",
+        "url": "https://files.pythonhosted.org/packages/40/2a/dff01783afe04a2b1f416ac5c77e9ccdd89665575c462450441171961c88/PonyExpress-0.12dev.tar.gz"
+      },
+      "0.13stable": {
+        "sha256": "8c20b8a04fed822e9a3162c0ebf9c716f1342e54783a67e31c06d4e2f0441249",
+        "url": "https://files.pythonhosted.org/packages/e4/cd/a0b79258e6b160a7558fc20f0bfbe18a79dd2646cd7905ef80f9baf5f1df/PonyExpress-0.13stable.tar.gz"
+      },
+      "0.14stable": {
+        "sha256": "659ad6467cf0eae1aee659954820f046fb226b8016631af10acaffb05be89483",
+        "url": "https://files.pythonhosted.org/packages/df/c7/f85006a0fc3f314bd395d36d4cd5b665fc9967cd4e25796e8fa5fd046ce7/PonyExpress-0.14stable.macosx-10.3-fat.tar.gz"
+      },
+      "0.1dev": {
+        "sha256": "83fd2c97c262b91d628c23063eab17ca132b1ddfe4a375d1fa02e74a34d2484e",
+        "url": "https://files.pythonhosted.org/packages/43/12/2d5df004f501ccc8983b0145a960f0eb278cb0027d447621d8dda3fecd4d/PonyExpress-0.1dev.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "latest_version": [
+    "3.4.0"
+  ],
+  "meta": {
+    "description": "A library for property based testing",
+    "homepage": "https://github.com/HypothesisWorks/hypothesis-python",
+    "license": "MPL v2"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "4ad7b329439a7beec2891715f48dc2221867f6664fbf776740a999960db6e700",
+        "url": "https://files.pythonhosted.org/packages/04/fd/065c2912b56757f05230d4951f1a6ebfc9ea0712ef9b77426cbae259d15c/hypothesis-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "e27895140d95d70372c0c0afca1eb2d0540e26e353bed6ccbf189acbc2d0e47a",
+        "url": "https://files.pythonhosted.org/packages/97/24/accb95736babe897a1dcb2f9790fd2eede4bd710b2d123cb158ad7020ba7/hypothesis-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "04f57a6aa6034c66557d7511e29883f2c3f89930eaaef3b0b248817c687c0803",
+        "url": "https://files.pythonhosted.org/packages/87/98/103730932a332a78a3a8f289a0fb3ce37fa345f64cafa7a0b82a52a31901/hypothesis-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "ad115d0839a6c7c6e02aeb63836af4c58386fac7349dbe4a8169f6c610dbf94f",
+        "url": "https://files.pythonhosted.org/packages/21/a7/9564faa48d4434fc3b1cc8cc0b162a0a84e345996407a71730d635ab8667/hypothesis-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "875cf7f5c74ec378ba10025f171b412f29380defbb1b1dd5558608e870451437",
+        "url": "https://files.pythonhosted.org/packages/53/8b/ed398395b083e91021a33a20fd35684ff5903556e40ccd56b508239d9a07/hypothesis-0.0.5.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "a53bd7df4aedef948ceb5f88b049760cacf5ba682c065781144ec48bb1824937",
+        "url": "https://files.pythonhosted.org/packages/30/ed/111c643e05ce02179f0fa79d67123d5989e51b892fd28dc21697978164d3/hypothesis-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "f9b97f7451e3902e5f2b46546ceb9cb7ea2cdab4febc0548578582f60878680c",
+        "url": "https://files.pythonhosted.org/packages/f3/98/677fec983f940bb6a9745219bedb5f5b74e2b8dc598892c006965d27fbe3/hypothesis-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "bf36215cc421423fdb95d495239eb0d4ed0acae93137d0fe1cb119f6c1aac3ee",
+        "url": "https://files.pythonhosted.org/packages/ca/df/5f9b2c6149ce93705268bc73a48bbb65cdde620a73bcd325fcb17de3dda4/hypothesis-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "142059c8ee389cee462b4652ca154ea95dcfef422ed946ac14d690cb1bbf946f",
+        "url": "https://files.pythonhosted.org/packages/4e/f8/15bf16fd983c50a14746512f9fbf3a383fcfc34765b75391fb24f4d5e88a/hypothesis-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "aa77f8497b35aeaec63dd6725521ed36880ba2c739865269078ec4e354bf59f3",
+        "url": "https://files.pythonhosted.org/packages/90/61/e38330614e2c73011877c1e47d7093074440ba1bd6e2f0f32ec051c75fcb/hypothesis-0.1.4.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "80bce19974fd6537fe564be2d3e75db23cbd215511207b0c786287409357f19e",
+        "url": "https://files.pythonhosted.org/packages/54/09/322f619e3260b2a9cda7057ebd8c48c361d345e55a49ff786c1be3899b01/hypothesis-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "e7725a7edcdf1d6469c162d405153127aa9177c6d487a261adb64fac6c85dac7",
+        "url": "https://files.pythonhosted.org/packages/bb/e8/b80c286822cc96cce8d4bc3c5ea4bacaa784c15a7e6dc008bc256f97709c/hypothesis-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "c167f2ee7b4be4345270a3767cdfaa8c26ecac89ff988d094a5dca7fff9f9e4c",
+        "url": "https://files.pythonhosted.org/packages/fa/50/835a8f1fe6394dc3cac21ea3b2fcc8b44ab536a610b5a693cbfd083930e6/hypothesis-0.2.2.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "199e7f3a07d933ac6acc66cdb0c5297d77d58a30d4d38132e26d214102420418",
+        "url": "https://files.pythonhosted.org/packages/05/8a/e047b29c3d4d71fa4d762e04ec23f2f468f20d2b8b37bf7ed90d7e218a5b/hypothesis-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "eb7f2c4196cc23da9bd02e7ebe4f2a74abe48c19d0c4a349d04acccc68e4e570",
+        "url": "https://files.pythonhosted.org/packages/b8/f9/be8e404e4507e034dabc2318795b4fb89057678bf359b50d80db801d60d5/hypothesis-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "c185edc8ea0d960fa2b714f4690ab852b9ae3ce339e6fe1dcbe8945b900da8b5",
+        "url": "https://files.pythonhosted.org/packages/86/5c/2ffcdcb0833239589c33ef02bb5f5ebfd93a7b5fcaa0336bb3e40daee63b/hypothesis-0.3.2.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "1a1a8a3bc5bf4757345ec592032cff63a916b8b0b62764705bacbc68accb30e6",
+        "url": "https://files.pythonhosted.org/packages/ba/7d/1d973338d1df5ae2f5908d3a7d57653a03720fcaec5f37bfb7f7dd32e6a3/hypothesis-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "534d1f9d86f31a480cbaa240c842823a2c5093d2c8ad9cadbfdef532f5e5a784",
+        "url": "https://files.pythonhosted.org/packages/8f/ea/3c8e66a50e878c4981b9c15726bae6058081718e68a48d29df5db040e2f7/hypothesis-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "ca28896d2a0e9f336d7cfe5e12396881fd53433274d9e3a95e8a09c44a45c91a",
+        "url": "https://files.pythonhosted.org/packages/9a/96/a02aa6f98ea0b4479a0352dc80e6649c9bd556f3747eda7a88ce7c6b133c/hypothesis-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "772ec00f928207dcafb9dccaf2d081cce50c38cda4ba2b8214779d74064272db",
+        "url": "https://files.pythonhosted.org/packages/df/ed/dbe1aaff46a940d702d13b240d9ec3b0b019460fe5aadd40840531fd5a98/hypothesis-0.4.3.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "01846b7929255a25a7e51f9a8e9ad116196d874d899710b6856cbe38328fc423",
+        "url": "https://files.pythonhosted.org/packages/52/e1/86dcd77d98a1563d6fe58562eb196651621f3696402153f6c45684006dcf/hypothesis-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "0449cbf21d58e5a40e0049aea875154876a001361a5fd8247edfbbed501699ca",
+        "url": "https://files.pythonhosted.org/packages/f7/e9/d10d339e70f08cdbc4943881fe05dc2e725a3ce9ac3c9d8f27de67ab6876/hypothesis-0.6.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "cc4470f374cb95d4a9e464aaf648d823f2ebbab00a30ab6903bbd70dc589e806",
+        "url": "https://files.pythonhosted.org/packages/a0/75/af38aa2fa13d8e2c731587317c39ecaaa5b4c370f88742e9a490ae570f5f/hypothesis-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "0c7fb32fe57df68e3d7e254e90f46703671e84e17a74522434f2a442bf1687d6",
+        "url": "https://files.pythonhosted.org/packages/ce/ca/7f8a53ffc18866c677e20f81188b359c785aca4c41966a31ae5f85e57ac4/hypothesis-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "885b31944c011852d5a83e8dae2b5cc07ba66b1e20e101d20e2c7ecbc326937e",
+        "url": "https://files.pythonhosted.org/packages/bb/b4/11335eccf5c62e28c11cafa5fe5e4e2b187fe024fab7dd7099f19b9a596e/hypothesis-0.7.2.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "c8d92dcdd04baea8f1d2813566174a136caffbc1915be8e81506a7c8cf335ce6",
+        "url": "https://files.pythonhosted.org/packages/10/14/a8a1a7cd48bb3d4a6439422d04114f8adb9f38bb88cc04d5d23831aadd8f/hypothesis-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "37987f668355267175719f986d4f81fcde8f454e95010f4bc0b6d391fe4e0552",
+        "url": "https://files.pythonhosted.org/packages/06/e7/9d2955dcd3b804d58d3d7be8e1153c6247182c0b53cac3d93320c7cf19fd/hypothesis-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "aa8c10feba79fe5bc91aa6c627d087a33ab9740596d4d31465193692d5336474",
+        "url": "https://files.pythonhosted.org/packages/87/f2/9f37d6f5440433b104dead57a4e292985440cdc16e5499d0cebce01065aa/hypothesis-0.9.2.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "86c69b8b05fbba40af2311ec6a5495e386f37ed493648ac1f2c6b2f72df3c5cb",
+        "url": "https://files.pythonhosted.org/packages/a5/14/6590b03a71d4d30946c7ccc6ed7b31ca9f15b8a4e42429c6c97919081d16/hypothesis-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "b89563269cb2a28dbad54c226126d06be5b8577e7ed0cc22ce163f8cb47d1e08",
+        "url": "https://files.pythonhosted.org/packages/1a/09/144ecabc6ca0067fe2d76708b1d91b0f4005aa57c2fc0efa69c81139c625/hypothesis-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "b753a87623ecf3245c92531821b7e01161cf55bce4693329e174dc374b90763e",
+        "url": "https://files.pythonhosted.org/packages/df/e0/a338f959021dec74622a0427fddaeb988127a2e7c38369dd56732b2d1043/hypothesis-1.1.1.tar.gz"
+      },
+      "1.10.0": {
+        "sha256": "4d0dd20df02b57037f275aa734e6bd02973c598087b4879a8faa1cc4c329db1c",
+        "url": "https://files.pythonhosted.org/packages/b6/14/57285f3e849d75222254f3b37f50e0bd4522b159c2355afaa19545c65c3b/hypothesis-1.10.0.tar.gz"
+      },
+      "1.10.1": {
+        "sha256": "0694c9da0bf54ad7ac50b7446857620cbda380c7a82267db2080bbda99f985de",
+        "url": "https://files.pythonhosted.org/packages/43/8a/153ebff6b8145971768763963c0652d76d846623665d97296604a5b61613/hypothesis-1.10.1.tar.gz"
+      },
+      "1.10.2": {
+        "sha256": "5b0b430e607a4eaf40f760acc19c8554d4ed7b60588ea4aec555d745b9518325",
+        "url": "https://files.pythonhosted.org/packages/a3/cc/36542d01388f0081e993fdd81d16a39369313baf2e85d7439d3f40054b1c/hypothesis-1.10.2.tar.gz"
+      },
+      "1.10.3": {
+        "sha256": "7c8ff4c8ca1e531d36018b6b5797f93c07825a0367793fab5c8daae6e0b2fdbb",
+        "url": "https://files.pythonhosted.org/packages/16/42/7e8ec87d70dccc04a99748785cad04f1493dc504cdbe479cdf98cb1b7b37/hypothesis-1.10.3.tar.gz"
+      },
+      "1.10.4": {
+        "sha256": "119526daa1bef889ab2660bf68f255bc95a4b78622668871f7903288de3f4d8b",
+        "url": "https://files.pythonhosted.org/packages/0c/d5/5c47db638d07e94fc519fabd2a554d6e95d9f15c6c7f6eda3b33bde24f45/hypothesis-1.10.4.tar.gz"
+      },
+      "1.10.5": {
+        "sha256": "65884fa0f861609359444637b4bbc67a1b08d1d523b9cc617b524dce02f0a545",
+        "url": "https://files.pythonhosted.org/packages/ba/3d/afe3cbedca05920976327664d3b32e05722616f919000751128fedbdb797/hypothesis-1.10.5.tar.gz"
+      },
+      "1.10.6": {
+        "sha256": "3d7d2dd2ce5a3dccdfdc77eb7fb3147cc2b0112d2c195a81c7b23cd22466aa06",
+        "url": "https://files.pythonhosted.org/packages/02/7d/9678feacef73c4679bfb91fb21ae199cb4363764524e189c99ff8e1d349a/hypothesis-1.10.6.tar.gz"
+      },
+      "1.11.0": {
+        "sha256": "d60f60834f4545034a29da51d49c2beab6b34962a6b661f2d3b96d6c96126506",
+        "url": "https://files.pythonhosted.org/packages/93/5f/3e4f439c9a225d729e3e3fc005a7d37afcd1e5b9d23f05a0eb9c154b50c4/hypothesis-1.11.0.tar.gz"
+      },
+      "1.11.1": {
+        "sha256": "c7388c3012d827125661ae1ebf5925efbe703f22e6ceff86f636d8ea139e1c9f",
+        "url": "https://files.pythonhosted.org/packages/16/28/a981b53d1c3addef730568a37bf3ba32c9d6943b5551abbb77cbc1c8efcc/hypothesis-1.11.1.tar.gz"
+      },
+      "1.11.2": {
+        "sha256": "82e87a6c0b5c4753c1b63417def7a2f83a337c05074373aaf858b0055f078029",
+        "url": "https://files.pythonhosted.org/packages/4d/84/df802d86e5ef4b994691172745804be1757ef6587ab1887ed36432230333/hypothesis-1.11.2.tar.gz"
+      },
+      "1.11.3": {
+        "sha256": "63700e12b01de5badd20cab8e9bbd7d0477db52e94ec541d8ce5e696c16be21f",
+        "url": "https://files.pythonhosted.org/packages/6e/6d/7fc4db4833548657e4feb1d357950bd764d1729a91fefaed565a912a13c1/hypothesis-1.11.3.tar.gz"
+      },
+      "1.11.4": {
+        "sha256": "1fe8b6dde4c43ade2eac8ca3f2d0c1d51df69ee9c8de2cd9c70e2e4f38635603",
+        "url": "https://files.pythonhosted.org/packages/8c/18/4d8bb11630290f4319ffce9b9de05618361daa852b48ecbdcd6a677b431e/hypothesis-1.11.4.tar.gz"
+      },
+      "1.12.0": {
+        "sha256": "5e90a8fa249de9c492b4fa573f6f2dc489de9dd3ed3e2a59754b393c42624362",
+        "url": "https://files.pythonhosted.org/packages/ac/d6/5ad63f687b59b4266899b5b76d38d9245c10d91d736981e4bdf76ebefd4f/hypothesis-1.12.0.tar.gz"
+      },
+      "1.13.0": {
+        "sha256": "37093d7442017d6b2d96d96b446eedaa733cd846306e57a82fef9f9c316ff01a",
+        "url": "https://files.pythonhosted.org/packages/38/5e/8ff564a98b9e96d617dfdb2b5380faa305405588aa8c57c8adccf4439440/hypothesis-1.13.0.tar.gz"
+      },
+      "1.14.0": {
+        "sha256": "be2bffac70569cb21d6007b0e0d4b013008e16fb66e6bc8090022310eccebd89",
+        "url": "https://files.pythonhosted.org/packages/b2/aa/c5499876a7b985b4c5c6a6c7c41af924bcec7c30acf0e2f794172246334e/hypothesis-1.14.0.tar.gz"
+      },
+      "1.15.0": {
+        "sha256": "50c6a17b0cef31e4bec840b619da4407f179d1859c0e0052133681fd7220fc7f",
+        "url": "https://files.pythonhosted.org/packages/2f/d0/754a7f3650b054388e42d98b89116137ada426db76e6fbf121ef86a4384e/hypothesis-1.15.0.tar.gz"
+      },
+      "1.16.0": {
+        "sha256": "c12aaf2c8240ee482e2d812197d0d38ecc866cfc4d2cd4a6c23ba708ed706a4c",
+        "url": "https://files.pythonhosted.org/packages/31/06/727819730c4e89db824bdde6e3f7f45f4ff1ed5c1f81b9ff33a638c4519b/hypothesis-1.16.0.tar.gz"
+      },
+      "1.17.0": {
+        "sha256": "ec171eef2314cfc199d0dc232ec7bbd5b41f3728b315acd5d6503fcbb5fa8b06",
+        "url": "https://files.pythonhosted.org/packages/4d/dc/701168ab349d3c36f77b7f03a264f5cdc22af8e029c1a359b288991ff5e9/hypothesis-1.17.0.tar.gz"
+      },
+      "1.17.1": {
+        "sha256": "93df1835ff3b04645835451dab31e4b2ae4321162165fa44b2250c990a5a061d",
+        "url": "https://files.pythonhosted.org/packages/57/f2/fa4049269d9c270ea7fa4e4baa92e270f943fab4fac8f0583cad27ab7109/hypothesis-1.17.1.tar.gz"
+      },
+      "1.18.0": {
+        "sha256": "8f13c92cda5dca48a8ea28664ad3fc933785820e4fe4571de27b752b72e56e75",
+        "url": "https://files.pythonhosted.org/packages/31/07/00f7793b4ff899f56b5d8a64b23ad5fd93ef46153bf4b296c0b846cbc2a8/hypothesis-1.18.0.tar.gz"
+      },
+      "1.18.1": {
+        "sha256": "839d382393684e9544cfc855b6a19e1121391bd720a7ace5a6865408c0db0768",
+        "url": "https://files.pythonhosted.org/packages/52/a6/76e3907c0a8562f61f296f7b44ae73245f124a4ece8dc225f5f0ea9e5479/hypothesis-1.18.1.tar.gz"
+      },
+      "1.19.0": {
+        "sha256": "0e977a3492f5488ed9dd4a872cefae0934ad4ccd0229a6c483ef5ca0aaaddd6d",
+        "url": "https://files.pythonhosted.org/packages/b3/31/526faaf39a24f8fa303294d6998d33dd37e659e1438bb2425dcae5b09493/hypothesis-1.19.0.tar.gz"
+      },
+      "1.2": {
+        "sha256": "98b9e6acf4fd2921b543b24334c7e890e8ac1b073fd56a9220163df9be1d8037",
+        "url": "https://files.pythonhosted.org/packages/10/1a/43e60f640f4e8f1c4bcab9b99a060c82ab9a415e469a30c9dfe0de2edbc9/hypothesis-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "1dbe8c3aaeb744812fe8eff5dbb55e0c4a8f1f6ef29c79775037da3028706302",
+        "url": "https://files.pythonhosted.org/packages/7e/be/819896126e15429129f82e3e9780440e4a51bfc337748832736be4c1a070/hypothesis-1.2.1.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "f7558c22dc09848f94b3c7ea710b051376d2fba5cdb14319b4e82cdd8f697564",
+        "url": "https://files.pythonhosted.org/packages/02/82/28147b8ebd36d142bad8416f8aa0cda31d6bf8ccbecd0d0d4a0bc733664a/hypothesis-1.3.0.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "a20ead809baffb0ea8660ba8957c3d76e6bd005c970b493b7b859f7206a79975",
+        "url": "https://files.pythonhosted.org/packages/46/77/e1f0218112f302f1ef4c6233c1d8ceff72e1842cdbb7ce672ff2c1ddc64f/hypothesis-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "22e293c9d89eb007b974d140692e172aafaf9d3d0cae9ddae8664476999da048",
+        "url": "https://files.pythonhosted.org/packages/35/44/a3e4a9fb7b7b2eb46aa5374c9799b3291bc68183a88c95f473067641ca3f/hypothesis-1.4.1.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "c1145b69f428cfcd5cd2506152776b90e63bb5292a46f591b81f643b39413b21",
+        "url": "https://files.pythonhosted.org/packages/9a/dd/8a8e027bd7eacc94e6d6160c503942e87cbf5a2e54f122f936151585e514/hypothesis-1.5.0.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "af59f559d5d328d55a5b0dd930cd87342424561ee8bb78b7aee9bd37616ddd57",
+        "url": "https://files.pythonhosted.org/packages/6a/1b/b08c6633eff28759fc793756a59c733a06921b99cd5b2b5436118e5b1f35/hypothesis-1.6.0.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "cc4feb520f01f6d41fc42ceda07bfcd8bd2c807e41595f884267497ba732ff64",
+        "url": "https://files.pythonhosted.org/packages/f7/ed/5a398f879cb41a1bfcca20fa5adade1b0e8a2d14500dd6eda98eab17fbf7/hypothesis-1.6.1.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "92cd990b4b4f78af338b8f7485a922616c39ddc12090a016a8a8e7faede56b4e",
+        "url": "https://files.pythonhosted.org/packages/40/07/b073f3161c18e411a39cb1349e2d420bb66f4b694e7fcfab8f9d29545140/hypothesis-1.6.2.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "25ac0cb59bb2a707687f7eafb2fe12077852ccaeb8344ed678da61431e86d4c0",
+        "url": "https://files.pythonhosted.org/packages/7c/ab/3830f2af5950150dfdb964544eb3c7d98edc0dc8e79fa7e8a3dd34e4477d/hypothesis-1.7.1.tar.gz"
+      },
+      "1.7.2": {
+        "sha256": "5f49a126157d5b81484f161eb7fcd2d4c0af70cd1066940a8db7e107f4e16370",
+        "url": "https://files.pythonhosted.org/packages/3e/b9/a44f67ead66c8a26f1d18b2e4cc977274357264fb7a4ea97f586b2ae6ccc/hypothesis-1.7.2.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "dea5a625bf14090669187e06c7a6548515fa7be13496aae8f18b70fbc5a307e0",
+        "url": "https://files.pythonhosted.org/packages/ef/7e/1af3195971f6aa8f4151ffad6a7cbb0eb34cb65904abf5534dd8f23b6562/hypothesis-1.8.0.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "cb036b363b4953df1bfa56a12be3e196eb3f02b4e2a9064263f0aaeb5cd7609b",
+        "url": "https://files.pythonhosted.org/packages/60/44/9cbf1bc2491e963b95bb689907cee2bd2a45323abaf93e02249c497dc87d/hypothesis-1.8.1.tar.gz"
+      },
+      "1.8.2": {
+        "sha256": "28757f0cf6a6fb0e28139ca8c5d19c6aaaa8e8f6c3f1951be0307870bed19c7e",
+        "url": "https://files.pythonhosted.org/packages/a9/11/ff939e5c4afc94afdd0a55db3b91ef099abdc4f379d48446ebb46ab8a324/hypothesis-1.8.2.tar.gz"
+      },
+      "1.8.3": {
+        "sha256": "514934d07bac610c7972b0e7be7340ccb4d74f4a2f9c43d2d419aa714af33699",
+        "url": "https://files.pythonhosted.org/packages/91/1e/5355c30aa60213d36b6fb5284159a08c77d59177db63fa83b785f0d6fc08/hypothesis-1.8.3.tar.gz"
+      },
+      "1.8.4": {
+        "sha256": "1b86e0327d09aa25b90cffde749f123f9e394d1c9c820d3a51ec84ce9b7ce40d",
+        "url": "https://files.pythonhosted.org/packages/7b/60/5f181ce72c2b5f72d5202c4757cfd807b3834f492c9a6151850af3cbbe4a/hypothesis-1.8.4.tar.gz"
+      },
+      "1.8.5": {
+        "sha256": "5d859041e2cdb748889f3018ecd9393c9a7833a9f9d8b2161145088822678858",
+        "url": "https://files.pythonhosted.org/packages/26/f8/c85d694055b1c950dab9998cc84756ffc5ec4e87d602d714b2600c43501f/hypothesis-1.8.5.tar.gz"
+      },
+      "1.9.0": {
+        "sha256": "774fff913da11446fa5522b4f20661ddf81cfdf2865d48ec5d160f9491f3f19a",
+        "url": "https://files.pythonhosted.org/packages/68/05/c4e411983dbc7f2cdd5bd919ea85d9ad7748cb77dccd738e65ebfcbd66d7/hypothesis-1.9.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "b9bfe9884dcca0268157f015992e6cdd404d16dab18c2df403c458b6afab46d1",
+        "url": "https://files.pythonhosted.org/packages/a8/5a/5cf074e1c6681dcbb4e640113f58bed16955e7da9a6c8090b518031775e7/hypothesis-2.0.0.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "a273d62efe25e004552ee4c505290992870e1d831f2ec3399d8b8811f1eba935",
+        "url": "https://files.pythonhosted.org/packages/0a/27/5056b2d9c0dc03222ae38464d2233dee963b71167f72b98a84795623046d/hypothesis-3.0.0.tar.gz"
+      },
+      "3.0.1": {
+        "sha256": "dc1de2adfd0adbf9fb5bec7eb2ef4999fb5986152a2fc3edeb3e219bebf64b10",
+        "url": "https://files.pythonhosted.org/packages/f4/55/dd31110ca170124a58dd6428e63caf619eefa0292d5969b8a2012017fdb2/hypothesis-3.0.1.tar.gz"
+      },
+      "3.0.2": {
+        "sha256": "9f5200e2c5aa7c5f4f9b227e20091ac0d49c25c02a08bd6bbe814da9c1952b52",
+        "url": "https://files.pythonhosted.org/packages/d2/2d/4a5d33307fbd3eb65ba7ec349727828f8f39cfdf820383baf77049f5678f/hypothesis-3.0.2.tar.gz"
+      },
+      "3.0.3": {
+        "sha256": "964d79f589428db01d477badcdabfa2251dce1067b5d02ca5c387b5e5f7f9629",
+        "url": "https://files.pythonhosted.org/packages/97/7f/6d27dc9956c3de912ac6b038ed28ed0d878325cdfde0c1bcf63b135919a6/hypothesis-3.0.3.tar.gz"
+      },
+      "3.0.4": {
+        "sha256": "b8bdf458008ee38c43e0da921ea9f77419438c96df39f0eea29899c23cbe062e",
+        "url": "https://files.pythonhosted.org/packages/e7/60/304a878a9d3bc6418a9a06727d8b4136b3e1699fdfbd0ef38d721ce6c9f3/hypothesis-3.0.4.tar.gz"
+      },
+      "3.0.5": {
+        "sha256": "003c046afa2b3d8167dbb228cc0136d73aa20f5740ff9eaa223ea62935f47d2e",
+        "url": "https://files.pythonhosted.org/packages/af/78/451e7909d95b419b9b1d7a536cee28811a3ae096f0c24268bbb41902e204/hypothesis-3.0.5.tar.gz"
+      },
+      "3.1.0": {
+        "sha256": "7cad9ab1caeb3eeda4359536f3d9b17ab3e97160f259862c847a933a55c2d863",
+        "url": "https://files.pythonhosted.org/packages/7a/0c/f28f6d95fdbe4cfb810f1f5ae0e806400d39068f0f706c8e9772a6520dfd/hypothesis-3.1.0.tar.gz"
+      },
+      "3.1.1": {
+        "sha256": "c1a6bd0149187f01d13149f9a02af923b959d0fa19e2b2970e60a56ebe85e829",
+        "url": "https://files.pythonhosted.org/packages/f8/b0/51740b779edc5cf0fd59fcccdf09c24ab3d3fc31e86c06ae9cd618230ec6/hypothesis-3.1.1.tar.gz"
+      },
+      "3.1.2": {
+        "sha256": "bef8b0de35fc7d0ee4da92b2fc55210c70008bb725e3f44f57abf9dc0010f91b",
+        "url": "https://files.pythonhosted.org/packages/77/69/dc3c9406f5bcbb853fd76486bfc6e70308248215a6bcbf4ca40c70920ae4/hypothesis-3.1.2.tar.gz"
+      },
+      "3.1.3": {
+        "sha256": "2e4837ad871fbbd0015fd530139c2e0fac4ffd8121f26f8a875138bd6e651dd4",
+        "url": "https://files.pythonhosted.org/packages/af/9a/406f46f3099391e770bf772c03dac9d94042b58c8f37546b66b61634909e/hypothesis-3.1.3.tar.gz"
+      },
+      "3.2.0": {
+        "sha256": "a55a6e581a083cb6dc7b5c08f15af7c2a125d88157c782a8e9cfa651af2691f6",
+        "url": "https://files.pythonhosted.org/packages/1d/4a/0ced358bf90f18a444932a6814e76017ab81653945b3fc7620fe13e01c43/hypothesis-3.2.0.tar.gz"
+      },
+      "3.3.0": {
+        "sha256": "04a68665697168a0a7f0a59ce36f5379c0965a78cf894d4a73e3a01d413e7d47",
+        "url": "https://files.pythonhosted.org/packages/12/7b/ff39cf8b2f2ccebfc55b2a19ca1f58410655848725e00b63df27f0c78032/hypothesis-3.3.0.tar.gz"
+      },
+      "3.4.0": {
+        "sha256": "b9723e6cd0f1355e5f0db0c255b903fafd19d91506d72623231937cf75416610",
+        "url": "https://files.pythonhosted.org/packages/ec/bc/ff6a8b992d55d0b48dbcd95fe208352b85f121f327a6a9f20bab0a1623bc/hypothesis-3.4.0.tar.gz"
+      }
+    }
+  ]
+}

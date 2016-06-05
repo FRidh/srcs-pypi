@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "3.0.5"
+  ],
+  "meta": {
+    "description": "Command line interface to CloudHSM",
+    "homepage": "http://aws.amazon.com/cloudhsm/",
+    "license": "Apache License 2.0 http://aws.amazon.com/apache2.0/"
+  },
+  "versions": [
+    {
+      "3.0.1": {
+        "sha256": "6dd1654316df7e143589a648aec9efb31bbf8567da1a3d42a8381ade9336924d",
+        "url": "https://files.pythonhosted.org/packages/00/e7/b2b6dedf06326ce3786cc950369943ab93a96f60b96a0a6c0bdbd933b53b/aws-cloudhsm-cli-3.0.1.tar.gz"
+      },
+      "3.0.2": {
+        "sha256": "c31e8718e25fe343a7c4ae6faf31dd8164ec95f2713da374135f79c0fb5f267b",
+        "url": "https://files.pythonhosted.org/packages/35/73/c278d3f950355a2f1842c29faa3c3cc5a4848f83d2387286f46da98735ed/aws-cloudhsm-cli-3.0.2.tar.gz"
+      },
+      "3.0.3": {
+        "sha256": "b92818711a22211902c3085b1282f27cf8f395d340713d955e141bc3ae0eb6d3",
+        "url": "https://files.pythonhosted.org/packages/a8/05/1a5e1303f6defcc46ca7cdc30ee69c3c52017d5372c426333bdbf6783f71/aws-cloudhsm-cli-3.0.3.tar.gz"
+      },
+      "3.0.4": {
+        "sha256": "978377d270c0578964c8da8267dc65af84c8bb6784a91233f7b9152efb735ab0",
+        "url": "https://files.pythonhosted.org/packages/ff/70/7602bb474f0dcdebda5a1d546bd73bdc98d75a67b234f1ddf3510cb4ed57/aws-cloudhsm-cli-3.0.4.tar.gz"
+      },
+      "3.0.5": {
+        "sha256": "262d0001ebb83c9938f057068d336c5c101c40c780619d9538725765dfc71d9a",
+        "url": "https://files.pythonhosted.org/packages/a0/15/be7af50742b33e747525a430d17c76b2a3fe465eeedc367b356fecc639f7/aws-cloudhsm-cli-3.0.5.tar.gz"
+      }
+    }
+  ]
+}

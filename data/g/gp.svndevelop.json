@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "ZC buildout extension to checkout develop eggs",
+    "homepage": "http://pypi.python.org/pypi/gp.svndevelop",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "942935523aff7bdbb4fbd6f846ff14870eaa0134d10842d4a01a02210d1e9bd0",
+        "url": "https://files.pythonhosted.org/packages/05/c6/c3931a34af4f45381eb931568f8814f4d2162392a3e6cc6f20094b3db4f5/gp.svndevelop-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "8db264d762668685bc3ee3739d778001f9acdf81e27d918420069aab2c5d927f",
+        "url": "https://files.pythonhosted.org/packages/7d/f4/030f6870436ef429f689350ac84e3882ee2a3f9482c38ff6cbf632446a20/gp.svndevelop-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "dbc1fb4a49c1f47722bde0b4fae973dc9b28cfa850b79b53381fde64c04c2839",
+        "url": "https://files.pythonhosted.org/packages/fe/c9/56a7f2fffcc7bd8d9955f84b86bf0bcb97d538f5e7a1a89ddbf5fe9b10f4/gp.svndevelop-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "43369a97a6d9f0067e3fc90af1bcd4b8eed764b17f072661f8c0098cf8a78fce",
+        "url": "https://files.pythonhosted.org/packages/d2/81/84c86f098b7259af2d6556f735db93f5e2e47f6ebc936cf86adb00bff3a5/gp.svndevelop-0.4.tar.gz"
+      }
+    }
+  ]
+}

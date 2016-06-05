@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3rc2"
+  ],
+  "meta": {
+    "description": "Python scripts to assist in localizing Mozilla applications and extensions",
+    "homepage": "https://wiki.mozilla.org/L10n-Checks",
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "09636c9336c9e3dc779edced5772b7a215ad22558366c2fc057d164847ade6d2",
+        "url": "https://files.pythonhosted.org/packages/92/e5/b829a468c78cddc54bf24ca18189b2a8e00c77e2a68b084ce5ddeb12792d/l10n-checks-0.2.tar.bz2"
+      },
+      "0.3rc2": {
+        "sha256": "e1f2ac4a1e32a0d457fe17d525d5a26d9f07cf1d5b2ba43ee086cdd8b2821750",
+        "url": "https://files.pythonhosted.org/packages/0e/27/584ffca77a04654e45badda7b14394a93d60ed7dee3fb1d3e2eb512b86f4/l10n-checks-0.3rc2.tar.bz2"
+      }
+    }
+  ]
+}

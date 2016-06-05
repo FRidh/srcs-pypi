@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "A Django address book application",
+    "homepage": "http://github.com/asgardproject/django-contacts",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "bdd8e96f2f4918152836a040d97b89da53e616984c135b244feaaad16ff74736",
+        "url": "https://files.pythonhosted.org/packages/5e/ad/8b5a6ac2830d0a31c9ef233032ac77793d7d9e2ef9cd7ca989fee3d7d001/django-contacts-0.3.tar.gz"
+      },
+      "0.5": {
+        "sha256": "e0f693c2f60474b3f0764563f15b5d5e92dc9e09efedd363541cfe7394ee7188",
+        "url": "https://files.pythonhosted.org/packages/69/49/03b440322fab944ab6179b8ffa0945a121e3dd4d8f2cd0214a298bb05dcc/django-contacts-0.5.tar.gz"
+      }
+    }
+  ]
+}

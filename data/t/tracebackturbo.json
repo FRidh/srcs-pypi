@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Patched version of traceback, also dumps local and global scope vars",
+    "homepage": "https://github.com/cxcv/python-tracebackturbo",
+    "license": "PSF"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "2babf53d08da8c4833fadd8d559f5d6f8ee0d919b6262b3109b06957a4890952",
+        "url": "https://files.pythonhosted.org/packages/49/a5/f76fc1ea2be0e6cdf3cd365d02f41132ffcc06f2a11cf7384f23ebc7481a/tracebackturbo-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "4a5ba5f07a481f866a49871d9800f32db066b9d10990586a39b2bf2e5b21d4ef",
+        "url": "https://files.pythonhosted.org/packages/24/c3/a5b53bb981f6b0c74b1a7af5e7f1c95df689f1a4e83235515ccef92bee45/tracebackturbo-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "b289990e725242fb14f150495eb97fd70c0084f30eaa65b36c02d680e27beec9",
+        "url": "https://files.pythonhosted.org/packages/61/0f/eef7229aaba905cf0c2c6b12bf22697165afc62b9e1bcc2661da43eaea35/tracebackturbo-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.2.1a.dev"
+  ],
+  "meta": {
+    "description": "A convenient way to run python modules, packages and scripts with a dynamically discovered sys.path. Particularly useful when you want to make use of packages without installing them first, or to circumvent bootstrapping issues with complicated collections of python software",
+    "homepage": "http://trac.wiretooth.com/public/wiki/pyrun",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2.1a.dev": {
+        "sha256": "ef943398433d2ef573e100bbf5d72cfda204cfddfe90e1ebc7f9df16b36f9731",
+        "url": "https://files.pythonhosted.org/packages/f7/04/83db3452d3291ac505016f4a0faa3aa9da67365ce6aa78cc155c765308cf/pyrun-0.2.1a.dev.tar.gz"
+      }
+    }
+  ]
+}

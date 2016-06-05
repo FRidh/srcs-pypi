@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.4"
+  ],
+  "meta": {
+    "description": "Import ipgeobase i TOR baz v sovmestimye s nginx geoIP map-faily",
+    "homepage": "https://github.com/m-messiah/ipgeobase-importer",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "f59aa18c1584e92e18063a7172b81f74d3593749545cb2d1b287f6fb8dcb140a",
+        "url": "https://files.pythonhosted.org/packages/be/45/719c44ba155f73e8ea0cbedbb2e66f98f3ac7d8804f1d37317f8156f8596/ipgeobase-importer-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "5a3584178c0f76e7e057ef4b987e015e0005bc85391d62b7f6c5e185819f64ae",
+        "url": "https://files.pythonhosted.org/packages/56/dd/f30ba76a6589c628ee1de89136a79095d1ecbcd179331899c53a6f4fb72e/ipgeobase-importer-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "e60b9bc762e5a91753c4f012c67f1710f090baf8315f8643d3670d4585fa9bcf",
+        "url": "https://files.pythonhosted.org/packages/c0/20/0565efc8e30549db654eb1eef7aaa3b9b2ba61d5d5eeae46b0fc062bf763/ipgeobase-importer-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "5d51d3ac1b07fee7282e6646caae9357494f953a1ec9c082652b0c7aa7b3f8b1",
+        "url": "https://files.pythonhosted.org/packages/34/9a/63815f5f3c1b5f72dd616d2c42d8d3b6e76fe597cf38b565a062958427ab/ipgeobase-importer-1.3.macosx-10.11-x86_64.tar.gz"
+      },
+      "1.4": {
+        "sha256": "3e9780cf883cec78cfda37528ba385b4dc7934ca2ae579879e934a8fd270c84c",
+        "url": "https://files.pythonhosted.org/packages/88/4c/804202ea39b69be50af7ecada856d7692064050a11bb05ceef32c9d918e2/ipgeobase-importer-1.4.macosx-10.11-x86_64.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "latest_version": [
+    "2.32.1"
+  ],
+  "meta": {
+    "description": "A python interface to WiringPi 2.0 library which allows for\n    easily interfacing with the GPIO pins of the Raspberry Pi. Also supports\n    i2c and SPI",
+    "homepage": "https://github.com/WiringPi/WiringPi-Python/"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "5cd49df5f448f0275c31b94ca62b430bae7a1953c00dae9a1ed6063c14a43ced",
+        "url": "https://files.pythonhosted.org/packages/34/aa/e562d05e7797f4c8cb21b724e226448343b65b42d5ed20fb9524405157c4/wiringpi-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "45a5135ec8a9e183584524b327585b7b71e9ab412f06efaafd7385137216c597",
+        "url": "https://files.pythonhosted.org/packages/d3/ed/17736d3f338ae03247746076603c275fd30d4cabed86f753911a3fa605c5/wiringpi-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "6fea1c2ef3dd6456bc0a28f081839faae4c8371fb3181a0e6a9f1298b1814566",
+        "url": "https://files.pythonhosted.org/packages/91/6d/4f738a7c949246e415bbf8b88c66d187f300acd163fd14526b7a7bfff0c2/wiringpi-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "8a33cdbfa9bf636a3ba971570fba1898f793a41d961007d2565eb972eefb34f0",
+        "url": "https://files.pythonhosted.org/packages/2a/fd/1b6c53018ce25f44a761a2b1de4148b4291af8747cc3112edc611c5e9577/wiringpi-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "5a92cfd3a62bbcc86b52ed30be5198a84b88fd53e2849cfde44aa2f91daa3c04",
+        "url": "https://files.pythonhosted.org/packages/ac/58/f38749e2652d1a091e16c85bd50be323825f043bf55dab60790f30f7e24e/wiringpi-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "218a4af14f1bf86479c66e91fc1832d3bfd004dd01d7f2abcde00eeb54168db2",
+        "url": "https://files.pythonhosted.org/packages/80/eb/65782f6cbe53effa2cd08309d628d54974aa74b21e72637b8e6fd172eeb3/wiringpi-1.0.5.tar.gz"
+      },
+      "2.32.1": {
+        "sha256": "431fda6c3b58c093e545c9a6bafb005a49be80795f73c019587201f564288c84",
+        "url": "https://files.pythonhosted.org/packages/87/ce/f59715ad93cbd0634ca771da9cb27b6ccc0c33f75bd5b99ba364ef20a1c5/wiringpi-2.32.1.tar.gz"
+      }
+    }
+  ]
+}

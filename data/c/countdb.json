@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "count events, store in plain files, aggregate over time",
+    "homepage": "https://github.com/netkraken/countdb"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "3aebe441dfc2b52bf4413a81421a69ef7fd796a29f8c6eb84abd4116cbaaa847",
+        "url": "https://files.pythonhosted.org/packages/fe/aa/02bd0d02f0681f29741b1ef5917b767ed8cd8db5eee2aafed6a6c64e2334/countdb-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "6d6ab6ab53c4ce437485f99ababd561ff9f3e9f11ade7746e1ab55c352cb5775",
+        "url": "https://files.pythonhosted.org/packages/73/b0/2aad046977aeb7017ac72b7db3a990e5cb69e6dcc8fb24cd790be5925178/countdb-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "7e06981300468980fc06161271d6341dcd1981957558a6b07e782cf0997adac7",
+        "url": "https://files.pythonhosted.org/packages/d1/3b/0c1b0422bb29bf0a3d95532243eb348228ccc6e86dc5d3f03fb20d5c2382/countdb-0.4.tar.gz"
+      }
+    }
+  ]
+}

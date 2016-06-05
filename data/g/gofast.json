@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "A javascript style promises for python that uses multicore and threads combined.  Go Fast",
+    "homepage": "https://github.com/gregmcgregor/python-promises"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "fb13df90a7be9f9e02b25a070652828217b91b861d06d86e274e23949cd222ab",
+        "url": "https://files.pythonhosted.org/packages/d3/bc/4e050f2583b34fe6b1a3c7c8ea39923e7ae7d6d6d5f4a54424497bd6291f/gofast-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "5439b733418e3259613ad7f15fd6f2797ba443aee91125fe5999851f949a9689",
+        "url": "https://files.pythonhosted.org/packages/bc/65/d118015ceffa61c7621fd4b7368a6af71c46570e2640b385bb4b7e1bb35b/gofast-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "d0c6fb9725c379703eb57ec63e398851234cd9802feeb23a05901f56dbe309a2",
+        "url": "https://files.pythonhosted.org/packages/de/45/fd0c544fdf03bdba86849f0e51a7ffa1d2cdf0080fc3f7fd65ffe5e23135/gofast-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "9f9e4918002e95bc59484e9226e12cd2450c9010144da1c42da138dab0e0e97c",
+        "url": "https://files.pythonhosted.org/packages/cc/04/d69c09028deaf78ca95d12f27a71b54739496c8b7b54e35fef7ab02bbd0d/gofast-0.4.tar.gz"
+      }
+    }
+  ]
+}

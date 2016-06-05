@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "An ORM-like wrapper for the rethinkdb asyncio driver",
+    "homepage": "https://github.com/codiumco/resync",
+    "license": "BSD 3-clause"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "6d404a30687b23458d12f6216b8eae2fae5c4229bc4bd2fe2a3c30a95ab6ea86",
+        "url": "https://files.pythonhosted.org/packages/44/37/f8f4d5ba3fd133168f305ac485b7baa60d2af7754755b66da87df48b629f/resync-orm-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "27f5972dfd2c04b687b37a8acf689a69ec08e93a9b7569eae943312d1ba34c1f",
+        "url": "https://files.pythonhosted.org/packages/13/72/85f36f14d10308c5476f9bae9b8b242b864e552b3597150b89029dc171b6/resync-orm-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

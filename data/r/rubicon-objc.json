@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "A bridge between an Objective C runtime environment and Python",
+    "homepage": "http://pybee.org/rubicon",
+    "license": "New BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "24744d2e24b2ea4a25da2905dd64f8ce88c8970651a459bfb95910acf4707954",
+        "url": "https://files.pythonhosted.org/packages/c9/45/fdbebd86701eadb156183e332f0fffead992f8b5a5f19238c184b3dcdafd/rubicon-objc-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "6850e5be0b6946f6a7e05c6b826bda4dc724daca249505e640bfbf6ff4901e09",
+        "url": "https://files.pythonhosted.org/packages/36/94/17f3d262619e2fc59ace0ffcb725cb7ae451c22c3e060d1907ab24748e91/rubicon-objc-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "3a4c40bf1cbd30f4382f9ab45cc8c1ad80014d417e567b812cb4d0892faeec00",
+        "url": "https://files.pythonhosted.org/packages/56/28/2310f556135de47bb8b0e215c183ecd12446b0f6447e764258b1a2f1d188/rubicon-objc-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "e11dd0b1ec7b1a28a70fa3f0ed3048af7acc4d529c126619f056c3de8ce45ff0",
+        "url": "https://files.pythonhosted.org/packages/df/e4/a5264c72329658b8c34a0d7322d2fe1f69e42645ab812ce0576ff9766cd9/rubicon-objc-0.1.3.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "f30d13cbf71e1e1ec882d019291f374b30ea00316edcd2e2b18921111dba529c",
+        "url": "https://files.pythonhosted.org/packages/dd/dd/9fe9695011c5695d135cfaedb17ec2a59fa339dfb121144d48445dcb38fc/rubicon-objc-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "5673f47a9a950707c2b6fdda3904b8bd914d72cf0c4d2a2f51a0a198658e7cc6",
+        "url": "https://files.pythonhosted.org/packages/80/67/6d335fe46fc3e067167e198409911883fd661678598bc0ef9f694333b9e4/rubicon-objc-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

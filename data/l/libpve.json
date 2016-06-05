@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Python interface for interacting with proxmox",
+    "homepage": "https://github.com/m-o-n-k/python.libpve.git",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.1.2": {
+        "sha256": "770e9de07b073e690ee744a4679ed08f3d7c04b1a1c17fd63fcb8a174cb0ae86",
+        "url": "https://files.pythonhosted.org/packages/a9/e9/2a2f2bbfe4d45f68eea14b036834c89e163123505851867f2c6cac9f2de4/libpve-0.1.2.tar.gz"
+      },
+      "0.1.9": {
+        "sha256": "ac7db373b47c2f0571a7ccc16525ceb5674b4df4563633fc9339c88ae4d0ae41",
+        "url": "https://files.pythonhosted.org/packages/ed/2f/9005c25b72035139e61be3b2f235405c1cb553ce9ccb8a958904998c3743/libpve-0.1.9.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "ae98c94b8ac38e6a798880c50d3442ff8420ecd7d29ddb855aa95089b56efc94",
+        "url": "https://files.pythonhosted.org/packages/ef/13/c56c218b758a97e8a1d9ca65925b037ef2705e22d41446d71da42c9a22bc/libpve-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

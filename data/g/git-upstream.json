@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.11.0"
+  ],
+  "meta": {
+    "description": "git tool to help manage upstream repositories",
+    "homepage": "https://pypi.python.org/pypi/git-upstream",
+    "license": "Apache License (2.0)"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "106879feb5ffb276c150342cf3cde829bc6c66be13383e1865af11a8b7e231fa",
+        "url": "https://files.pythonhosted.org/packages/8e/67/7d13bd4eea7fb34d41aec674b7b181e340c89602fd8bf359ae460be6b3de/git-upstream-0.10.0.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "085981e3ff69fa38edb7cc024b8ec659f540bbe88accd5114223a9e3d8f5f415",
+        "url": "https://files.pythonhosted.org/packages/52/a1/c8d0ac426482517f77a01eb1f4815c8b8c2c3b8474c743e80ba0480cb8a7/git-upstream-0.10.1.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "4302e8000ecac4e5f37293d7cd12b8e6f1d4e3ebf7afaa2c75148e801147c92c",
+        "url": "https://files.pythonhosted.org/packages/e9/eb/2d422f34b28ac35c2ec5b43bcd72606268c9ce486e4c8411a1d8664c63e1/git-upstream-0.11.0.post1.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "cf2a95207513dcdc0e1ccf48a3498b361603d92a6d78c8be5764ea3853db0ac8",
+        "url": "https://files.pythonhosted.org/packages/8d/bd/d3ecf985bbc391918972363fe225f02f193bd981ac49365299bf70a8ff72/git-upstream-0.9.0.tar.gz"
+      }
+    }
+  ]
+}

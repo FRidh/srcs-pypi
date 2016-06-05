@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Patch error_log to also log the error number",
+    "homepage": "http://pypi.python.org/pypi/Products.errornumber",
+    "license": "ZPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "bc78f18d91ab50025d6c3354aed6e502b713c221e41bc8cf32322ead71bfb9c3",
+        "url": "https://files.pythonhosted.org/packages/4a/94/52b9038f2fa96afb1ab5258af7af7dac8616d21a6c4c1773973aad39fc09/Products.errornumber-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "1dbd32a2d426bb50146289f296b6aab1e74fb26f1718244a0a62ceca7502f837",
+        "url": "https://files.pythonhosted.org/packages/32/08/efcfcac23ba18f7c253b5cd8f6557b98df0a4079d9d1f9fe07fed73a27f8/Products.errornumber-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "e51bc489656bff23a182ba44513d0543e1ee83335b04fc07b6adbc94dcb8be73",
+        "url": "https://files.pythonhosted.org/packages/ed/dd/7fa87722896c70a72d8c39cc2c2ad8723e4c886470c5d6da81c728f33928/Products.errornumber-1.2.tar.gz"
+      }
+    }
+  ]
+}

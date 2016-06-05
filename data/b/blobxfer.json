@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.10.0"
+  ],
+  "meta": {
+    "description": "Azure Blob storage transfer tool with AzCopy-like features",
+    "homepage": "https://github.com/Azure/azure-batch-samples/Python/Storage",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "5ea2b704eac305ab632a0fedfca833161d76d1ec1431ea6b43caad05e8970789",
+        "url": "https://files.pythonhosted.org/packages/5f/20/3abfada5e7d25d3ae13c073d34db075b18b33a70429139af7158c6f0c654/blobxfer-0.10.0.tar.gz"
+      },
+      "0.9.9.10": {
+        "sha256": "7de8fda68af395bca81d5d7c89178aa264a1000a1a1f5712b76ab5ca95d4c7cf",
+        "url": "https://files.pythonhosted.org/packages/d6/b0/edea09f1742fd2d8410389bacd6f1fda496ca67dd7ee2accbed0bf1fde15/blobxfer-0.9.9.10.tar.gz"
+      },
+      "0.9.9.11": {
+        "sha256": "d436aa7e1ed5d0d361673413281d1c4acc110c22b3f3c2ba2261b7d7be73d08b",
+        "url": "https://files.pythonhosted.org/packages/79/18/e5688439b92053fea1cc36256e3f32e6df7090687d90c32521cd56827cb7/blobxfer-0.9.9.11.tar.gz"
+      },
+      "0.9.9.5": {
+        "sha256": "7e93117ff954db9bcd2a3b1b14bee8eebd82fa019109c916f6da70f023e150bf",
+        "url": "https://files.pythonhosted.org/packages/b8/39/2961c82c81ae7bc42d83fe735cc9507682cb89386a7aeecc06ba670facc4/blobxfer-0.9.9.5.tar.gz"
+      },
+      "0.9.9.6": {
+        "sha256": "873f5f6e73601835729a9d98ae7b7a5890c168eccaca30f01ac019e98f5bde10",
+        "url": "https://files.pythonhosted.org/packages/e3/ad/6f4c35995653f2ac972dd239fc3ad52877c3821b9d70824d9513be201df6/blobxfer-0.9.9.6.tar.gz"
+      }
+    }
+  ]
+}

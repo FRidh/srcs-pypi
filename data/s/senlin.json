@@ -1,0 +1,50 @@
+{
+  "latest_version": [
+    "2.0.0.0b1"
+  ],
+  "meta": {
+    "description": "OpenStack Clustering",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "aef2914615291d220c9bce75ecae2457280f74d912650be46f6e31d0ddc630cf",
+        "url": "https://files.pythonhosted.org/packages/28/63/81017814b6e10be8c39879f934a3698b9c3694bd0b94f95b695bee7562fa/senlin-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "4aebb7be8b5b192e4feb1b6d6a82ef2a096b48ff2da35e4139d194684cd85d03",
+        "url": "https://files.pythonhosted.org/packages/e8/61/0559c42246d451803f56c9e3c66d6d0fa296e31370e3e725f9313ce7352c/senlin-0.1.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "4139da9fa7e2ca00ce7c56ef4865d83f29688b16c51ec6cb15876b0c9c7e472e",
+        "url": "https://files.pythonhosted.org/packages/fc/52/4d43a58520315a60351d6e52587b1df728da305c920533488b7dae280f8c/senlin-1.0.0.tar.gz"
+      },
+      "1.0.0.0b2": {
+        "sha256": "07b1175c8b54e42e9761e3553693fdcebae6c83aa351035a0697557a55c5279a",
+        "url": "https://files.pythonhosted.org/packages/53/39/9da29eac1fcabd88ef51021acf8636182d9784c8abb82de7e1fa5402408e/senlin-1.0.0.0b2-py2-none-any.whl"
+      },
+      "1.0.0.0b3": {
+        "sha256": "a199746e5da87570d3cd006a8308585e1eed161a1fa861beee7ef2128f7a3568",
+        "url": "https://files.pythonhosted.org/packages/3d/8e/93ca56f5f2a9ccc12fcc56e207aedff5343fb49e843c490396d03f1b5d96/senlin-1.0.0.0b3-py2-none-any.whl"
+      },
+      "1.0.0.0rc1": {
+        "sha256": "f8fdb11a4b216755bd6f132ac42e7a7a0e95ed6892874ac4788be698a064b618",
+        "url": "https://files.pythonhosted.org/packages/c0/23/cd0892e223b3b89fa45322e6139aa7cdd7f3592723b065bcc7e5339ac6b4/senlin-1.0.0.0rc1-py2-none-any.whl"
+      },
+      "1.0.0.0rc2": {
+        "sha256": "bf511d70fe8f1dd36848fe1692abfc1d37f0d6a3a7c7c2af12db102af79e82bc",
+        "url": "https://files.pythonhosted.org/packages/dd/b0/e3167b28c4b8f443dd9c57de813611553d787786dc5466a07a6fc0614075/senlin-1.0.0.0rc2-py2-none-any.whl"
+      },
+      "1.0.0.0rc3": {
+        "sha256": "32357dae444b8add8ce25432d4c1ec2f28ae66b1f6b7390dca3673f65ae68c94",
+        "url": "https://files.pythonhosted.org/packages/37/7b/bbba36c64dc5502e1d3a836b2d3c69ae35ee4382aba2bce364c0f8bd0e5e/senlin-1.0.0.0rc3-py2-none-any.whl"
+      },
+      "2.0.0.0b1": {
+        "sha256": "68a8237d69656d3793d5eb0936b58e39c81b9bc6efcb2eeb1edcc35258c73b58",
+        "url": "https://files.pythonhosted.org/packages/ac/26/71771075a1a4046bca5f947492cf67cd503bfae7baa347074a86815307f8/senlin-2.0.0.0b1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1562 @@
+{
+  "latest_version": [
+    "1.7.1"
+  ],
+  "meta": {
+    "description": "Netius System",
+    "homepage": "http://netius.hive.pt",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "f735bfc242a060c651255a2afcb0266d7fd68fde2aeb3c3dda6356bf2ee87c2c",
+        "url": "https://files.pythonhosted.org/packages/e4/f4/081c0fe143986bdb43faad0df1a254f705980dad390b69238d9a1b3d7a2e/netius-0.1.0.zip"
+      },
+      "0.1.1": {
+        "sha256": "8e57151e541d89a9fe91da9361d5a9a25701e2636eaeba0064dd42d65c64ec00",
+        "url": "https://files.pythonhosted.org/packages/47/27/39d6c41edcfeee692f5cd1345062aba68e0028de1657859ba1ad57a4f219/netius-0.1.1.zip"
+      },
+      "0.1.10": {
+        "sha256": "9b153aa2c8e1d51ac53e0066a1ea5f97e5498d943a2f848d9d9b9f5b75ac846f",
+        "url": "https://files.pythonhosted.org/packages/d0/08/007f9381f2fcb3e231154511cd30ef1d44b351e2b7024e4d83ef0d891aa6/netius-0.1.10.zip"
+      },
+      "0.1.11": {
+        "sha256": "f0ca7e408f052c30591aab646c242110c9b974b89186664049ae0f42095f8f0f",
+        "url": "https://files.pythonhosted.org/packages/9b/42/ba4262384940808a607b88fab4a66f34e47fd2aca8fc0b4b3934b1ea542a/netius-0.1.11.zip"
+      },
+      "0.1.12": {
+        "sha256": "4431033beb0ea59dcb526f35e33918ba5075b1b153aa04e7588d228341b3afd2",
+        "url": "https://files.pythonhosted.org/packages/a6/cc/a3e30b6f4e690598604737156e3c56cee5940cb9307b03730f739ea4e8b8/netius-0.1.12.zip"
+      },
+      "0.1.13": {
+        "sha256": "0092cfe9e3f9a2d9e33fd464d79ee04cca27d9aabcf152284f7ee936f1f0663c",
+        "url": "https://files.pythonhosted.org/packages/1d/93/8d6500c0529e59fe2248356bb4551ed91888040b0a969f4b648ffc80f778/netius-0.1.13.zip"
+      },
+      "0.1.14": {
+        "sha256": "685948e63296db625e76afb8640fd7b38fd2ee366ddf0b11088294daa19f2253",
+        "url": "https://files.pythonhosted.org/packages/92/1e/a60b7288031cbd7c9eec3aa0bba7e46338097b5fceec93332e7e76b84f04/netius-0.1.14.zip"
+      },
+      "0.1.15": {
+        "sha256": "f9dda585b85a1b71cf84977936b07e38637871a71330fbaee570403cd569356a",
+        "url": "https://files.pythonhosted.org/packages/33/92/7514f75f5b4b626a5b479aa57280815c2f0a6b919b23f4dae0f4c92fa90d/netius-0.1.15.zip"
+      },
+      "0.1.16": {
+        "sha256": "ac948ac14efa06e1424ae7d852118fc60a79606a8b91e5d3865b7f7dc31262af",
+        "url": "https://files.pythonhosted.org/packages/ef/06/ab1db441a5643c655f66320895c8f1e6a1bb3f0e27464d2712426fe486b7/netius-0.1.16.zip"
+      },
+      "0.1.17": {
+        "sha256": "e94815b0462cd16440924752069eb407b6a693a707fb30ed51760621927bea01",
+        "url": "https://files.pythonhosted.org/packages/79/c6/7ad8e2ed46bf6a2c818e61925bd8e70ea8de6fba90aadb4494a6e0c06220/netius-0.1.17.zip"
+      },
+      "0.1.18": {
+        "sha256": "877e5e88bb1fdeca91b5c07ec4343b473b5d0b866e6be7e93e23aa3c40e3d310",
+        "url": "https://files.pythonhosted.org/packages/c9/db/2ac36322b5419763f9de8af792e71ae796a650843a3c86450864d8cb3c0d/netius-0.1.18.zip"
+      },
+      "0.1.19": {
+        "sha256": "d986660c1ee101c9f465e18e89f0654dd3cab32828fcc8b9cf291f9e289bd37f",
+        "url": "https://files.pythonhosted.org/packages/c1/66/b9ba551a6f7ebb1a098dd01ce356c4bf4eb223002ede78a8dd8169a7bf6c/netius-0.1.19.zip"
+      },
+      "0.1.2": {
+        "sha256": "f6b79e0845173c3cfb0817808aed5f3fe6196deb13aa5b890d5f7332649928bb",
+        "url": "https://files.pythonhosted.org/packages/6c/cf/41afd9e3943c2608d1bce24764daa6a7ad7b9bfa1132e423c87ec3c05a45/netius-0.1.2.zip"
+      },
+      "0.1.20": {
+        "sha256": "645361b0cbb437c6530eeb835006e47da6cc119a07887eff160a56f7ed88f3cc",
+        "url": "https://files.pythonhosted.org/packages/c9/a6/5afc12f2034e28d905d86cf573dd9a0d2f3bf90f69e8b066ebef7eed8e4b/netius-0.1.20.zip"
+      },
+      "0.1.21": {
+        "sha256": "41a2e505fa172822a38cfc25b896f7b0dbfb60f8de68ca7423ab08d44fa57e3d",
+        "url": "https://files.pythonhosted.org/packages/b0/db/caca9ab83e0a45012850822d693b23dd37212e48894e56ebf16d474950f3/netius-0.1.21.zip"
+      },
+      "0.1.22": {
+        "sha256": "cedbfeb83eac67f1bf29bfdf31fde7192cb1a0a1a2aa7df7506618d8003ab665",
+        "url": "https://files.pythonhosted.org/packages/d3/40/1abe24b6b8a3c9da8b44c487c1213fcefddd41f92576ea34459449643cb4/netius-0.1.22.zip"
+      },
+      "0.1.23": {
+        "sha256": "67f06484ec2ef1c6591a641381c64bf3731c43db0819396050c66ee03f869f99",
+        "url": "https://files.pythonhosted.org/packages/5f/ad/d72acb20f466d1b8c4dce20aabe5894639e99bdbf181b6f16c0abd9ec1fa/netius-0.1.23.zip"
+      },
+      "0.1.24": {
+        "sha256": "37faa1069496bdb222697d3d4ba7be49bee5122b8f2ca1c8db578959368f4cda",
+        "url": "https://files.pythonhosted.org/packages/46/b0/f35072f163eab9f339daa75101650610aafc3a3bcc375c0d14b80819a834/netius-0.1.24.zip"
+      },
+      "0.1.3": {
+        "sha256": "85a95da1f2e5ce460d34950a72cbe8b226b49f1430b72b80df9a81f187c2106f",
+        "url": "https://files.pythonhosted.org/packages/44/bc/6a4f98430e94f6043368909122f8f6982182fcf563cee629c6e033ab0282/netius-0.1.3.zip"
+      },
+      "0.1.4": {
+        "sha256": "cbb5645f7b2db4042d3a4109dc14f11c078720c612e11e089133937fbc3fb8d9",
+        "url": "https://files.pythonhosted.org/packages/2f/16/e90c306e2d0b718c8501690a8d0059f1c39f341387de5abbb08e78b913c8/netius-0.1.4.zip"
+      },
+      "0.1.5": {
+        "sha256": "c6d5b4507191206469d1be9d70b4f87fb58f13d7d8713d5a3c6bbfa0199cf865",
+        "url": "https://files.pythonhosted.org/packages/17/d0/7a5dc09dd642430eaa83582278d3011865e4aafe174e1b6ecc14b200df7b/netius-0.1.5.zip"
+      },
+      "0.1.6": {
+        "sha256": "61f11930ff4b04b977275abbbdd20a14a577e9662841180065189517939fbed2",
+        "url": "https://files.pythonhosted.org/packages/dc/64/d773cf0dc9a2b8aa7cd7d62835ac67f4424ca5661d0ba6aec39198006d66/netius-0.1.6.zip"
+      },
+      "0.1.7": {
+        "sha256": "903569c18594c831b9432d7663d2f8d13104d21f8a425a46ec65379ec0874a0a",
+        "url": "https://files.pythonhosted.org/packages/6a/a4/5f95af795f8adb6b7a8912287548b9d113536a3a774fb17a6e92897cc938/netius-0.1.7.zip"
+      },
+      "0.1.8": {
+        "sha256": "3de9052ffbf0e6fc46e6642bc7122b857114e75872ca1d2be75ef1c9a83f39f6",
+        "url": "https://files.pythonhosted.org/packages/a9/bc/7a5ead4a8fb1a0850ed4ea9d6b53d070be523d5d6d6c4518c1d044cef85a/netius-0.1.8.zip"
+      },
+      "0.1.9": {
+        "sha256": "1b28ce9eb5e78a73d44b0ad2e8a433dd59d54ce5379cb9c8c1429443e8d15783",
+        "url": "https://files.pythonhosted.org/packages/5c/bc/64a7de203e2a7eb2bbc51fb863652f1bbd9fda25f49ace917d60e26c7920/netius-0.1.9.zip"
+      },
+      "0.2.0": {
+        "sha256": "fb05c54490fbd6e7762c5f7330770b297d7929d9985979191b1f8bab0f3330de",
+        "url": "https://files.pythonhosted.org/packages/65/76/3c131528805aa792e0f3fb94caa9db3a7bfd10c189125357de2a59083757/netius-0.2.0.zip"
+      },
+      "0.2.1": {
+        "sha256": "2f083635c2827d9b1fa8f3c376644996e5f8be1d5946dddc694134b368801b39",
+        "url": "https://files.pythonhosted.org/packages/cd/98/29cfac8356cdc4311656d8359a3e95747e78cb02d2f67fd335a1ff2c6898/netius-0.2.1.zip"
+      },
+      "0.2.2": {
+        "sha256": "4684f1544f0dc5d27290aced44c6d46e82eef0c8c26ff785ec1be50ca48c954a",
+        "url": "https://files.pythonhosted.org/packages/d3/ff/f3eaf085f81863770b10f3f63109840b3e53e8c904218000ec93a817a448/netius-0.2.2.zip"
+      },
+      "0.2.3": {
+        "sha256": "92d359c28a0d4ebd19cf73b7311f5cd9af561fa29ab3951cf6656c3486c8f53f",
+        "url": "https://files.pythonhosted.org/packages/b7/16/3d7ed9d5f39a26bb84d74d2b7b4338c403e23e0071e548c2fd13ab298486/netius-0.2.3.zip"
+      },
+      "0.2.4": {
+        "sha256": "8d5a56934246a970b9300303ecc418cdc5299f4e6b1a6d55c2613b25efe7f0f2",
+        "url": "https://files.pythonhosted.org/packages/39/9e/8a383f72077df1bf0806764621f36e805defa9d04265cf80c183a144aadb/netius-0.2.4.zip"
+      },
+      "0.2.5": {
+        "sha256": "27ce11fddda499d5ddf548bfcb551c199c3e4eb4bcf233ead43b42517beb0c38",
+        "url": "https://files.pythonhosted.org/packages/f5/eb/20b5677d30a54bf1aa0b0e476af40e7ab97646d4d60bf54a732297c16caa/netius-0.2.5.zip"
+      },
+      "0.2.6": {
+        "sha256": "1283d8c922495d9de8309f1ba67eb1c6e2bfa69ed40dda043ee34a7404a8f47e",
+        "url": "https://files.pythonhosted.org/packages/f6/1b/252af598c3a1bd86b2d84b191b948b08d527514046327a4eb175075db7a0/netius-0.2.6.zip"
+      },
+      "0.2.7": {
+        "sha256": "a76edefcc53159557faf0705bc3fc10be482aaa112e877ada2f9f0a5c8156feb",
+        "url": "https://files.pythonhosted.org/packages/50/1d/f032e49a9de7e0156545f33d9ff17163ccb4a13a77f831fded9781f2de55/netius-0.2.7.zip"
+      },
+      "0.2.8": {
+        "sha256": "129693c7cf42612433c0b22c95c583ec174b021d5e4b751002efde514622f4a9",
+        "url": "https://files.pythonhosted.org/packages/ef/b5/af97a6d7c7dce7afe4312c726ed35e14a746e4cf9969359351cc03f1a7f6/netius-0.2.8.zip"
+      },
+      "0.2.9": {
+        "sha256": "669c47d6b568a77bd5c4cf4d63dfd21daa3068f4ff8980469a689468208d9fef",
+        "url": "https://files.pythonhosted.org/packages/50/66/27c2904ee125dd3b7e8ad9c3b55acb91fa88fedf3a8d70f66e564eda2788/netius-0.2.9.zip"
+      },
+      "0.3.0": {
+        "sha256": "779c457e84ccaaf6ee9de36d241d7f3a07e3137e292c070da8bd9c2b006db731",
+        "url": "https://files.pythonhosted.org/packages/20/1e/ae833d79315827e23a182891305e9c2743ca1436e9ba5153e317b3bec3dd/netius-0.3.0.zip"
+      },
+      "0.3.1": {
+        "sha256": "8a1c936cae3941b459ee9af96164ea97c0b1b8b0658a93d569ef990fa7125dae",
+        "url": "https://files.pythonhosted.org/packages/96/91/dcb5dbb7a625c75ca87abfc07ce7d8f93e99fe48474a9cf69f40fa3edb3f/netius-0.3.1.zip"
+      },
+      "0.3.10": {
+        "sha256": "1481bd3099a16d135eadcbd6a091e3bbb78bf43bc9bf4498b28d0745645c855f",
+        "url": "https://files.pythonhosted.org/packages/1a/0a/e766677373806f7455fd5ca57cbda3e5adebc4171a4e507adb3581463ba6/netius-0.3.10.zip"
+      },
+      "0.3.11": {
+        "sha256": "349cc4a7173360e5ced5647980c1d5dd4ec0a995dce4134c4d00c14dec7b82aa",
+        "url": "https://files.pythonhosted.org/packages/da/d2/baf1350c56df6e0d036956e32a51a57535a71028826f75318dde780f42a9/netius-0.3.11.zip"
+      },
+      "0.3.12": {
+        "sha256": "afe947e06a482ee74dd75ff58bd029bbbf7214df845c57459e2ac98429d6cab8",
+        "url": "https://files.pythonhosted.org/packages/95/a3/1ccbc0fdbd0289dccce0126eb974aa20107d7caa9025984fa6298fa6ba56/netius-0.3.12.zip"
+      },
+      "0.3.13": {
+        "sha256": "fd307c2652b179a4764346b4c29f38ebffa355c4c05bc8dc1c6509575b322a81",
+        "url": "https://files.pythonhosted.org/packages/a3/cd/d51db186213abb1b44a1476a88593a473e65d4787f3e1a3636e653794c34/netius-0.3.13.zip"
+      },
+      "0.3.2": {
+        "sha256": "4cd0227fae96d53f6b9d85c55b510427885125a07ef12b787410cac3666a7468",
+        "url": "https://files.pythonhosted.org/packages/2d/b2/3978660b5e832d7335390daa5999f6345f6bfbc1a087818a9cf6452272a9/netius-0.3.2.zip"
+      },
+      "0.3.3": {
+        "sha256": "3393f529b28fc872b9ee40dbeb54c8132fda6e274df3ef77d3998df66a1117e0",
+        "url": "https://files.pythonhosted.org/packages/f3/bf/1b0ea91903fb28bb3fe7491c04d0ffca20dd7e58c015d6a22b4f74674219/netius-0.3.3.zip"
+      },
+      "0.3.4": {
+        "sha256": "70b64ca56308110742daefc194f39ba0b35180d2e5b8ab94085dc4001d337f8b",
+        "url": "https://files.pythonhosted.org/packages/7f/89/9596682609154705bae5483bdf4f1a35da6ba494a53896100a6fef00e2df/netius-0.3.4.zip"
+      },
+      "0.3.5": {
+        "sha256": "1f0fffc3f03dda7c9a728c69c3c9bddc38f0ca736408224ff3e9b8ea2bcb1116",
+        "url": "https://files.pythonhosted.org/packages/aa/6b/475960b3c685422979cb462251f5d7823944da559d330e028c37aa5f2089/netius-0.3.5.zip"
+      },
+      "0.3.6": {
+        "sha256": "d49380a10ef57328060d3aeaf3b4890d9333bd3b42b72e26d8fc14c7fb81f65a",
+        "url": "https://files.pythonhosted.org/packages/72/7a/4db575696c63783883b230fb8cde73ea2bdc35972c8baf8ad65808cbfdfb/netius-0.3.6.zip"
+      },
+      "0.3.7": {
+        "sha256": "02f214154ab827172764e7e3a97811960473074ebb472804c52aa5c09811ba66",
+        "url": "https://files.pythonhosted.org/packages/6d/61/c2282e845cd3467ade144738d9b3d6f93f2db9cdd8c60c8dc9766bb9d472/netius-0.3.7.zip"
+      },
+      "0.3.8": {
+        "sha256": "7415dc9c53d1497df7790d1a834ac484d556245787cf8d8039b9f9b9e564f1fb",
+        "url": "https://files.pythonhosted.org/packages/74/11/6538eee9af71258e892f047696c460eaeadc1a4d90d2084ae0195983cf70/netius-0.3.8.zip"
+      },
+      "0.3.9": {
+        "sha256": "6d5f625485bfe527063e7d1a73ad192a072dbee28112986a64a789a62eab7cec",
+        "url": "https://files.pythonhosted.org/packages/ac/da/dfddc0333721f598e830b4819a4fdcb3ecb3f2f972911b11b0412e2e49f5/netius-0.3.9.zip"
+      },
+      "0.4.0": {
+        "sha256": "9f93a2be83a515dc78161f7ccbba8942e9bb9171e99036a9e4aed8c6f4086535",
+        "url": "https://files.pythonhosted.org/packages/98/40/79f297177a1005b43f81cc876317d26ad0c34df97e3f8d42b4d7755be4db/netius-0.4.0.zip"
+      },
+      "0.4.1": {
+        "sha256": "313c1380daf6e7637e0855c37a964f0a3fbc0099aa677bfbdfd87616d7d26869",
+        "url": "https://files.pythonhosted.org/packages/1e/85/c44e68901675dfd832b1324fd88393d0307b05b4b0c187e8a10e8e19d8ac/netius-0.4.1.zip"
+      },
+      "0.4.10": {
+        "sha256": "644ac7f11a452f55e24315c459de003cb41fe2d4295f889a4318552005f1ebf6",
+        "url": "https://files.pythonhosted.org/packages/f9/90/557f5e45c891fdce23e60097b41a7c3c3deb165180a243110dde89b2037d/netius-0.4.10.zip"
+      },
+      "0.4.12": {
+        "sha256": "8e4cdc2586dce752df28ce9f6c9e6d3f573b2f32c83893d9c2f9f93a81a7e20b",
+        "url": "https://files.pythonhosted.org/packages/f4/cb/d32796e2a0cd31f94d5f9d9893dcd2653d03218e573ea58456f1293c7eb3/netius-0.4.12.zip"
+      },
+      "0.4.13": {
+        "sha256": "a407ef4f00509f971ab5cc812c8794ca79f4e421fda01f0740f634975bfe89f5",
+        "url": "https://files.pythonhosted.org/packages/b9/a6/8c10a98fcef279e2a72a23c53d15d01f2b86852ad9ef6bfed3036210d273/netius-0.4.13.zip"
+      },
+      "0.4.14": {
+        "sha256": "bc56f9d8e9affb95887e37682fa731c6cb24331c39efc9ee00ee917d447aa1d4",
+        "url": "https://files.pythonhosted.org/packages/b4/0c/028b99edb9c597dd7cdfbbe6d91442470198fd2140275342e660de924bbc/netius-0.4.14.zip"
+      },
+      "0.4.15": {
+        "sha256": "8549f0e504a7a9870d2752eb735fcf19a13d4a871fa80389378a8c34c4416ab1",
+        "url": "https://files.pythonhosted.org/packages/c4/4b/9a04cf81262acfa109966bbd4bf3780554ccb65dab4ece12fe7fd63e53c3/netius-0.4.15.zip"
+      },
+      "0.4.16": {
+        "sha256": "5265152348d7d0a42a24065df8b63b547408472ef9a74c4dc455664c4f4bfff7",
+        "url": "https://files.pythonhosted.org/packages/04/0e/ea6f49c8c858c9ffc23751d8ba36ef78782352f75203610d19043129450b/netius-0.4.16.zip"
+      },
+      "0.4.17": {
+        "sha256": "75d4d196e9307ea95e5a731f2a57434eb34390f66724d56a4b766c0f9af16b14",
+        "url": "https://files.pythonhosted.org/packages/29/ed/4c84a15abea5e7c8891037c98355a3eeaec6d7e170c6bf21e5e82855a4eb/netius-0.4.17.zip"
+      },
+      "0.4.18": {
+        "sha256": "1c126cf085dd5656126d4a06bbaf179f29ff7b4c86d9c6956e36dcad81328c5b",
+        "url": "https://files.pythonhosted.org/packages/88/bc/4bd5d4259da9f2cdcf9cf54175cf08bf7d738cc3b108dc96ec5fe8b7a13e/netius-0.4.18.zip"
+      },
+      "0.4.19": {
+        "sha256": "9055f0d26db7fb6f77cd225b981a48d4bd5de018d3678fdcc3b83096ccccff02",
+        "url": "https://files.pythonhosted.org/packages/c2/17/869c6fbd37bb9854b92f86dd0356fb2985421c547cc86fed58a1270541dc/netius-0.4.19.zip"
+      },
+      "0.4.2": {
+        "sha256": "0b70d78fea93df805432d0571524a775a021cd73826fa04bc64919780f6fb141",
+        "url": "https://files.pythonhosted.org/packages/99/aa/67c9f65be4cb13a3dca2b7605369180b1e4d8da2fe8a3e1d19f4b8fb039e/netius-0.4.2.zip"
+      },
+      "0.4.3": {
+        "sha256": "180275dfad7452eb7a5381edc5150fff7076da165037a7e120f09a7874bda878",
+        "url": "https://files.pythonhosted.org/packages/eb/f4/671b11c419128909e6efc6438763e9c5b1c40d1a0327fd28d17e23c5cbe9/netius-0.4.3.zip"
+      },
+      "0.4.4": {
+        "sha256": "2b396ca742d7b02ed3d39291c774d50189f0bcc0c678620f88ec74352e931a76",
+        "url": "https://files.pythonhosted.org/packages/4d/11/0455221675acdcfbb5827e3eb81cddade82c8259be7d4eb1eecd5ee2bfbd/netius-0.4.4.zip"
+      },
+      "0.4.5": {
+        "sha256": "b48ffad03d6724ef5220da68a0244eed122edf4b48ae216d04dcd4bfe62e1c3d",
+        "url": "https://files.pythonhosted.org/packages/f4/ec/8e23252af7fb98614051bc65752003f7d196a09a4f4bc954b138f87643e4/netius-0.4.5.zip"
+      },
+      "0.4.6": {
+        "sha256": "23637afb4eb0b98f56a162e2bd2a58aeeb2cfb60d56578b9167abe2f982d9882",
+        "url": "https://files.pythonhosted.org/packages/89/62/abb899b11b01b9dc48c3b51597502282af7c8b54865657a6c4a6b0ddd095/netius-0.4.6.zip"
+      },
+      "0.4.7": {
+        "sha256": "9162b7f4541ac4231c6663f89ad1e13490ef0181845d6153b02120fe0a2565b1",
+        "url": "https://files.pythonhosted.org/packages/19/dc/4f38691f19a69dfb593f5f90e12e1f84b0251c5322e7104a5063e126d2a7/netius-0.4.7.zip"
+      },
+      "0.4.8": {
+        "sha256": "ff8e1bb9427a3eede4dc242d3caa70a1e6ab231d7a1c9c0a91cd88bfda33d4e6",
+        "url": "https://files.pythonhosted.org/packages/ae/96/5b0ff71099f6fb18c44a4721e9a0c30d3399aee29b3714791a6c0badd6d4/netius-0.4.8.zip"
+      },
+      "0.4.9": {
+        "sha256": "f0ad421b43be408574fd5eed1cce4195beee47d1eb690af5bd7ba4cd0ac71830",
+        "url": "https://files.pythonhosted.org/packages/28/5d/2ca722819678a6c20aa65b41c0454f68e9e314fc72f8610d41c363468ada/netius-0.4.9.zip"
+      },
+      "0.5.0": {
+        "sha256": "a9262f75e90dd01b159a39c7e50b617fb481e5894e53a491b57a39b9748b16fc",
+        "url": "https://files.pythonhosted.org/packages/79/9b/5d0ac39c751091b59e4343d5691a442c3f8508e6fb0cebbb59d4b7ec0b5e/netius-0.5.0.zip"
+      },
+      "0.5.1": {
+        "sha256": "997b7ea9e1b468cd1000ea21271a0ea9a68bed9b74fd46bf420bb82cc2bb0f5e",
+        "url": "https://files.pythonhosted.org/packages/dd/18/0eb46a8c527a47cbf82a77556574a8236ba9d3bf813540d4da15a6b624d8/netius-0.5.1.zip"
+      },
+      "0.5.10": {
+        "sha256": "3790884957b203f4fc3715885086727dacdfad49c082f8b3bea94124d07d2938",
+        "url": "https://files.pythonhosted.org/packages/e5/92/0954b5f14a9ce76423040dca1c1e1ae9966497fa46d94a41e39c16225583/netius-0.5.10.zip"
+      },
+      "0.5.11": {
+        "sha256": "e2ebf701a8c38fcd7590c8569bed18afd68d705376c965261bb40f938bc1ff9e",
+        "url": "https://files.pythonhosted.org/packages/06/c2/d33b77d09288217725c2272ddcd7d62009dd61b68cc9a2272911f09a7495/netius-0.5.11.zip"
+      },
+      "0.5.12": {
+        "sha256": "e22ce909d95ef7e76801c0971dedaa6943add8b0461d172e5fff49114c612813",
+        "url": "https://files.pythonhosted.org/packages/9a/4a/d9f1f395ddc540aba9841901a30c175f9310d12b371d3d0766ab19b3da2c/netius-0.5.12.zip"
+      },
+      "0.5.2": {
+        "sha256": "9aaad703bdd3a78a48be645f7665dbe33f078b5ecd7a3204c30ffdfb0a804c6d",
+        "url": "https://files.pythonhosted.org/packages/0d/b4/694198059c36ac2cf4d71a10a1d070ea9acb9b11d9cfb5fab2c40796405f/netius-0.5.2.zip"
+      },
+      "0.5.3": {
+        "sha256": "e925ae7f28e3bf3cadfca359391b14756c6c1c040a747ae7bc3c7da23b0deb20",
+        "url": "https://files.pythonhosted.org/packages/8b/b7/7c9ae6c08eecb5d6879e6cd45798e0aedca5cacd38ce79b5b88039344f1c/netius-0.5.3.zip"
+      },
+      "0.5.4": {
+        "sha256": "0b55eb8e21dec245ff6c772f6738ebbdc30b9d38cec69eecae655c75026c206e",
+        "url": "https://files.pythonhosted.org/packages/e8/ba/b185b7e8b876c0712f0935b1720142a44158aa09b8782718056b8a6a6058/netius-0.5.4.zip"
+      },
+      "0.5.5": {
+        "sha256": "780112835056f278073d7c616bd2734b570bfef89b922cafbe4db549d19d7ba3",
+        "url": "https://files.pythonhosted.org/packages/69/41/30f3ea44b7fe5e8b7615fd838f856c23ddf6e60c43831150df256f1bc6a3/netius-0.5.5.zip"
+      },
+      "0.5.7": {
+        "sha256": "ff6963b580d1bf472c341012b17fb87b6a0a660c6033bda77ecee74215896d41",
+        "url": "https://files.pythonhosted.org/packages/b7/73/ce14eac0263e4bf8bd4e24f977dc2c2e14f9141d9af4aedc1884373f6afc/netius-0.5.7.zip"
+      },
+      "0.5.8": {
+        "sha256": "ab067a6c043259725337508aee86180435ad9a5a59765a65cfdbd28204e15fdd",
+        "url": "https://files.pythonhosted.org/packages/93/88/44a6877cd369f0761ca14c3a03c253f38b85d27548d3c20ac1d5e62b1663/netius-0.5.8.zip"
+      },
+      "0.5.9": {
+        "sha256": "8c44267a00833d5353f8f0aff5a11ce8cc7a215bd3bf4c42c2af9235cc15f15e",
+        "url": "https://files.pythonhosted.org/packages/d3/78/db70881b1a4c9b8c69da287aaf788f93bf4371f238d452fd6aa91fe91641/netius-0.5.9.zip"
+      },
+      "0.6.0": {
+        "sha256": "45703e4753bcc8f6b59766c0874e9e75560b036ac6fcd2b09c2acc53c7b5444e",
+        "url": "https://files.pythonhosted.org/packages/24/38/9482482b395f5c3aa000c6d957a12d4fdac05d0000f7912887bae20b3990/netius-0.6.0.zip"
+      },
+      "0.6.1": {
+        "sha256": "dbd0e7babec1984a5c8295906168b758fee0f93e8e492f4f53e1206bdfc7ecb8",
+        "url": "https://files.pythonhosted.org/packages/62/4d/c910eb606f84a10cd496989c7c0f4741b0c1b3dba5895c25d00a3ebec8b6/netius-0.6.1.zip"
+      },
+      "0.6.10": {
+        "sha256": "166e362481286ad1f79a2de4f1474bc1b783970c19edb10214a95129fe3848fb",
+        "url": "https://files.pythonhosted.org/packages/ce/c8/d31e7deb358a0061c2acf3b8689c6e2717f408df50f0532b9167f32d3959/netius-0.6.10.zip"
+      },
+      "0.6.2": {
+        "sha256": "d5d87bde9d7b5ce092d9412256977b03ab102d88f35c34141e47c178dea40787",
+        "url": "https://files.pythonhosted.org/packages/c1/f5/8cfbc3cc10448be61aa08d5bc15d88bf9af0afd1b26a88c8f0cbc26376e9/netius-0.6.2.zip"
+      },
+      "0.6.3": {
+        "sha256": "a6acc568a0e7cdbaf6443bbe9089b18db6a38197e9a97b98d39c2f13bb2979e9",
+        "url": "https://files.pythonhosted.org/packages/24/6a/9596c7af64a53588f23e75920cbe961f582a566990dc7142b63f1102e9c7/netius-0.6.3.zip"
+      },
+      "0.6.4": {
+        "sha256": "3aa2f733d04b27376c2442c9d6f41201ff9887e909a44f58d2cc85a141dcdd33",
+        "url": "https://files.pythonhosted.org/packages/a4/95/6f82bbf88a2c8776b9a167859b100cce8e3428a953e96a4fd76c099ab73c/netius-0.6.4.zip"
+      },
+      "0.6.5": {
+        "sha256": "fd410b077c368028cbbb6c35a64c19a50b4456d73a82c3b01cc11dff4d490b15",
+        "url": "https://files.pythonhosted.org/packages/d9/2f/a38a176a37f8ab1997ca0aeae531d096a63fb8e57dfb1d600957ead2893a/netius-0.6.5.zip"
+      },
+      "0.6.6": {
+        "sha256": "09859e960d07e75efe31146a612f6ba6292aa5d6b4f0fea5c86b13ff6e9337e2",
+        "url": "https://files.pythonhosted.org/packages/8e/e9/cc2a5ff12ee0bb41a99edbdaf3144856ab144315a80bdfecced528a25dd8/netius-0.6.6.zip"
+      },
+      "0.6.7": {
+        "sha256": "1fc4875e05a9ad6dc13d332dae5f49b772f2aef27ff98a744cc78c3af3378d31",
+        "url": "https://files.pythonhosted.org/packages/7b/bf/66877803bb9d726f57363f3c054b73c711266f05aa3cee0fc81b8d0d1e2b/netius-0.6.7.zip"
+      },
+      "0.6.8": {
+        "sha256": "aab2afe228750853950b1178e44c1ed9746920dea3316f8dfc5a1aa29e1e105b",
+        "url": "https://files.pythonhosted.org/packages/e5/f0/4389aed41b07d1ee707ae6d436ced2ce96b9e0813ee5303f872ec21b07c9/netius-0.6.8.zip"
+      },
+      "0.6.9": {
+        "sha256": "c1ae4560a37f3fec273d548fec4c1fb4d46be87bfe9f0c96d7a19a3bc78c1547",
+        "url": "https://files.pythonhosted.org/packages/78/26/5e5ad1f01e4a7b9624c93e5a878dd64be95d4fcecabcf9c8a98a8def2a87/netius-0.6.9.zip"
+      },
+      "0.7.0": {
+        "sha256": "3e0fea182977966a60b4352a73238e64c974e5df07ea8719c448bde38b3931cd",
+        "url": "https://files.pythonhosted.org/packages/ae/41/5397fc8468c52e40d8a4d9b7144e06e6bfffdf47e2eb528c4981dfc8d41b/netius-0.7.0.zip"
+      },
+      "0.7.1": {
+        "sha256": "62d12bc468269b4a213a32fe730924a2343191fbdfeea067578a21cac3dd60b5",
+        "url": "https://files.pythonhosted.org/packages/6b/93/72f3a62a390f8a9b2cf9bf377810c8cf11c2b0583924ee6db6a516c4daa9/netius-0.7.1.zip"
+      },
+      "0.7.10": {
+        "sha256": "204ed1a91909beff252e2a081052819117662e543931b346943e5edf589e304d",
+        "url": "https://files.pythonhosted.org/packages/db/53/415d5e8c9bfe557ba4844b836eac46827f376701863d4a4fc91e7643be3b/netius-0.7.10.zip"
+      },
+      "0.7.11": {
+        "sha256": "10042d6cc112e3a7ffaa19e9e6b4aef1a01d96d2b893c701cde7e2d60727ee5d",
+        "url": "https://files.pythonhosted.org/packages/b0/79/d5d819a4dcc1ce8bb5f05cfdd4366eff5f89e39f4313e503d06adc40250d/netius-0.7.11.zip"
+      },
+      "0.7.12": {
+        "sha256": "73d481f444b8efddf9e3280314d86d24a4acbd925426f393f45bfe2084e64b83",
+        "url": "https://files.pythonhosted.org/packages/a3/9b/ea29c4f5c404d4a14090605ed371d8ad4f126360f17d8363bd3ad9b6083b/netius-0.7.12.zip"
+      },
+      "0.7.13": {
+        "sha256": "bf340d9e6665a1ed4b1ee6a78bac49dbb7cc1625eb8fee62b02530cd46d9f35f",
+        "url": "https://files.pythonhosted.org/packages/f8/ca/b4b656a2adedb2b06b31d9887bc6a7883bfe08785e345d74c99af1a9a4ba/netius-0.7.13.zip"
+      },
+      "0.7.14": {
+        "sha256": "985f27b775d9125aeff04bebbf86c0c569d7ef9ec08bdfac05513f3567130117",
+        "url": "https://files.pythonhosted.org/packages/c6/24/568bb4a4b8efa00120909bf8b45b9e68598c44150eb9d2f4c923fe263645/netius-0.7.14.zip"
+      },
+      "0.7.2": {
+        "sha256": "232d8b31dce46c7e09674ac943b0e3169ed0c4fd37e53525686576e5fabe1cd5",
+        "url": "https://files.pythonhosted.org/packages/23/30/06be35c78b3fe42ae9f263099e33298dfacb4de131bae27a9e7a0c493cf0/netius-0.7.2.zip"
+      },
+      "0.7.3": {
+        "sha256": "e9cfbd505bf72f968ad45fb440df73791f77e7a95fe95ae84cc8f03884cbd875",
+        "url": "https://files.pythonhosted.org/packages/fc/de/94b34ddde95397242c582490c305ef19e40912673ad03606c84ecf23e8dc/netius-0.7.3.zip"
+      },
+      "0.7.4": {
+        "sha256": "782ec9b589c91ab04abff2cbc19a88bae30b4937800501b5d1899f0cd5fe7177",
+        "url": "https://files.pythonhosted.org/packages/98/32/10b06b057abdecc389702d341098f6d545922125de4b0d1b0724ba9a2673/netius-0.7.4.zip"
+      },
+      "0.7.5": {
+        "sha256": "636ded371e0e8126f571af387e52fb2caa12a743643415701dc7d0c0d6660cc6",
+        "url": "https://files.pythonhosted.org/packages/32/2d/951f12164e966cc57d0055118831219462869f6b36f385b128ce17072d16/netius-0.7.5.zip"
+      },
+      "0.7.6": {
+        "sha256": "627fc1f6f4580e33012c1ce984e7e7f1ba7daad861d3fb58814291ee9ce22db8",
+        "url": "https://files.pythonhosted.org/packages/dd/0a/4e26e967599b762b25515d2218084401f45c51d85a1ee8d3f1b22b7e98fc/netius-0.7.6.zip"
+      },
+      "0.7.7": {
+        "sha256": "d288ff7b00839a103bf2474c54fa319d1dbf8ec4077a0f0ba9c24fbc79a4055e",
+        "url": "https://files.pythonhosted.org/packages/7d/97/ce667696d17401cae0b017f5bfaa8ab49c4351d749bd56624f0fe97d53bb/netius-0.7.7.zip"
+      },
+      "0.7.8": {
+        "sha256": "c4c6a4c0e99f303ac26eb8e0db2a48866863978f2714d486b2986a58f0a331a2",
+        "url": "https://files.pythonhosted.org/packages/12/c9/c50983a3feb0f836fb5bb550abdf8860bcfc1f511ad7a9f303b495809ae5/netius-0.7.8.zip"
+      },
+      "0.7.9": {
+        "sha256": "4ca74f09916909dc8b2ea5953847c564f996d33698a212c09a096bdfffb16a76",
+        "url": "https://files.pythonhosted.org/packages/40/50/8e23df8fb6d2e83d9b7819ff8df2b10368cc1af7d989936753931482ec52/netius-0.7.9.zip"
+      },
+      "0.8.0": {
+        "sha256": "a508c718703e15fff2c570d1ebdd5900d346053570c45195ef2e07fe30e228d5",
+        "url": "https://files.pythonhosted.org/packages/3e/72/5801b70f58d32f7bd08cbf4ebbc7b4ee651cb6dfb59bccac1eb4fbeb3b59/netius-0.8.0.zip"
+      },
+      "0.8.1": {
+        "sha256": "9f01a5e036a8ddadf14931d761bacfcafaef39ae65bb19fc475c896a1b72cd0a",
+        "url": "https://files.pythonhosted.org/packages/25/96/cd7717d016513567867341d9d6eb6cf4cfa4a3b4335079f75e1f8060f96b/netius-0.8.1.zip"
+      },
+      "0.8.10": {
+        "sha256": "6233d0e55c71767da1e5b6aad4bb4d95eccf8e1fb36f6b8a3793968d509ae231",
+        "url": "https://files.pythonhosted.org/packages/ef/23/411befcdf4d8f374f5d2367f8efa0c18565e10b1c3fcdb31a3e81cb7bd1b/netius-0.8.10.zip"
+      },
+      "0.8.11": {
+        "sha256": "829d28455b46474b0b66f4baa74cce9f27e19061ceb7a8e46e64c3f0a58f52ad",
+        "url": "https://files.pythonhosted.org/packages/bc/ec/73824662decd7738ab4a1a84fa40e0c1ef474d38b63e56730be91e62aa99/netius-0.8.11.zip"
+      },
+      "0.8.12": {
+        "sha256": "756a5b3c7ac55ace4bacde592a65154271867b1997890987a6fb3ef192640548",
+        "url": "https://files.pythonhosted.org/packages/af/16/bdf78d050c3a51485198996fabc00d415ca4690478afbaae87038d95b6e0/netius-0.8.12.zip"
+      },
+      "0.8.13": {
+        "sha256": "ed8f2ad9dbc5196f870a1700bbfaf3e4e600b5132d714616a7fa1162d5125d49",
+        "url": "https://files.pythonhosted.org/packages/81/e1/7616798e140254c39d663661437093b9d590d5db7ea0dbcfdad54ca80349/netius-0.8.13.zip"
+      },
+      "0.8.14": {
+        "sha256": "5a1632c601b66fb5417b8f4540f466fcf757c30bb1e349519b5f40b824a49fd3",
+        "url": "https://files.pythonhosted.org/packages/49/de/6af356bdaff29df726b9bcf9abc118e2abba6092124d48b01cfa5993f89f/netius-0.8.14.zip"
+      },
+      "0.8.15": {
+        "sha256": "6f7b594b83a49134aa7054959c8cb21668a4b7af90f4ae863e9a8baa504bf47e",
+        "url": "https://files.pythonhosted.org/packages/22/13/543a9483d4a94cfb8f7373ca6f740154f96c9f5d014935ae158aed152700/netius-0.8.15.zip"
+      },
+      "0.8.16": {
+        "sha256": "d03fe98099ae050b2cbb74728cf6e95dc0111601230332cd056326d4a728b385",
+        "url": "https://files.pythonhosted.org/packages/4f/f0/022601aee2bff2838b7ba1d3f2e258f855cb24fbf55c9220109edc1b5df4/netius-0.8.16.zip"
+      },
+      "0.8.17": {
+        "sha256": "82923ccd1927fa9311ab47f1a3bbb9aeb5807cd9a8dd80d6a5cea01c2367f57f",
+        "url": "https://files.pythonhosted.org/packages/d8/db/0ca579a8f76a72d6476ef6a44898e279b642944c210a279be78ae1862c87/netius-0.8.17.zip"
+      },
+      "0.8.18": {
+        "sha256": "a341486688be21a6031da4b47d20160488c1a74190030410f2791229d1df4e58",
+        "url": "https://files.pythonhosted.org/packages/21/b4/2c3951d443e2d05f4f4d8456ac1bcb9c8a3063b571495dd46475ea41a92a/netius-0.8.18.zip"
+      },
+      "0.8.19": {
+        "sha256": "6e045895ae91b1c93d381f9b5bdf34eaf04ccd34963f8f379e402bd66d322ae6",
+        "url": "https://files.pythonhosted.org/packages/c5/50/e8011689789dd4e1d9787cfa8560cc48f85c7cc2c09c230284e15f3f2411/netius-0.8.19.zip"
+      },
+      "0.8.2": {
+        "sha256": "defadfd34341ff7d76e3b3afff0c9d57980e372e95163192cfdf25d8184c7a60",
+        "url": "https://files.pythonhosted.org/packages/2e/fc/38537fb2d88aa1684a6580dbc6c99184707472f8e855e88cef1aa296b936/netius-0.8.2.zip"
+      },
+      "0.8.20": {
+        "sha256": "43fc6fff1100d9258eb1b930dea13ea03fb33f26fa5722eede7ccdff0576ab08",
+        "url": "https://files.pythonhosted.org/packages/9e/fb/dbcc526ab5865c3362951d848a01914a8c63306793c74002341145953c51/netius-0.8.20.zip"
+      },
+      "0.8.21": {
+        "sha256": "a8a9f10b9b6d0eec836e727cc54debf2e82fdf9b5829147ce44de881495d70cc",
+        "url": "https://files.pythonhosted.org/packages/75/d0/1925bb10df733b25d16e7ed5eb747226e13680a753414050296774865e79/netius-0.8.21.zip"
+      },
+      "0.8.22": {
+        "sha256": "43dde2f5f473d16050c3a0594bf7c2100e79df772fed190d8f8b7281d0b0472b",
+        "url": "https://files.pythonhosted.org/packages/47/c6/4e4475cdf9a1d47322aa88208345f3b429a2a05920704860eb704c5ff6fc/netius-0.8.22.zip"
+      },
+      "0.8.23": {
+        "sha256": "845188986804ab69c0c5dbf5d43ac4fd560ad7fa2e209fd680607db3b0571d01",
+        "url": "https://files.pythonhosted.org/packages/25/0b/e01813fc8d7090651b76597e6795e94b4275d899cbd7ed1887e2c60bb086/netius-0.8.23.zip"
+      },
+      "0.8.25": {
+        "sha256": "e9c12147b8a82e1b71a0f739e6280dea2ee0e05b9d98b8438b0a01a34c90af5c",
+        "url": "https://files.pythonhosted.org/packages/69/15/45bcdb6b83d1cd831208e6d40961d7b17094135bb5c45ae7f31e57a2d89a/netius-0.8.25.zip"
+      },
+      "0.8.26": {
+        "sha256": "f0e767bd42580a4b2db7da44983e36f0c47af48f87f60f1dc9167c2598c13291",
+        "url": "https://files.pythonhosted.org/packages/d4/32/75ef1598fb9c1151cc6c9554187c774aac1b9a908770d739e397126cac24/netius-0.8.26.zip"
+      },
+      "0.8.3": {
+        "sha256": "b983eaf0ecd40f668003dce7704e3306d65a7f447cc406f111524d283ab80bd8",
+        "url": "https://files.pythonhosted.org/packages/49/ba/e4fa6449aa70ddccb2af1eb7caae583aa1a555d8708b860cecc34483c6a6/netius-0.8.3.zip"
+      },
+      "0.8.4": {
+        "sha256": "ba38c3d091ba9f50ccdb319482540de87d93a0ada2a690afe81138dc93fae272",
+        "url": "https://files.pythonhosted.org/packages/5c/57/9105269ba37765a378ad4052ececc274e0c9e282fb92753b6a99119694b4/netius-0.8.4.zip"
+      },
+      "0.8.5": {
+        "sha256": "c8b7bbc2950fe2dc538c30bb357e24755fc401665c035e8b3067bce001acabc1",
+        "url": "https://files.pythonhosted.org/packages/e3/a7/59d6af409316b63c8cb222ea10823ce75049138ae96c227408d0cb9efc1a/netius-0.8.5.zip"
+      },
+      "0.8.6": {
+        "sha256": "0ef48edc8affc29a50b1524a7924bca343ac6ff5230f2129e7e706eb73e3da17",
+        "url": "https://files.pythonhosted.org/packages/8a/f0/6ef89a6d5872619d0b8fba28757a1eb476dca854a2f3f17fa506368ea356/netius-0.8.6.zip"
+      },
+      "0.8.7": {
+        "sha256": "718cb23add955b59c1e89b8293ccc5c3163bc32c301b1b06df235a0ef5c37229",
+        "url": "https://files.pythonhosted.org/packages/75/2d/8b34787092a8a39fa61094005a3829adda11222f8e8b052db9f421a6bcc4/netius-0.8.7.zip"
+      },
+      "0.8.8": {
+        "sha256": "b4824e14f175d15611c4c150af560d8878e6732e7a0bfee2cd17e14981f2b349",
+        "url": "https://files.pythonhosted.org/packages/76/74/02ef1f02b8c309afb0164491a8e5b6b6d98968078384c865054bf7940529/netius-0.8.8.zip"
+      },
+      "0.8.9": {
+        "sha256": "6af394d543ac836d6dced2535c7d310204a02c7403d08de045e0ffbfd8d49057",
+        "url": "https://files.pythonhosted.org/packages/2d/97/eb81e4bdba188a50115d07900526f722c64af1d88c772f29acdc2c28d42a/netius-0.8.9.zip"
+      },
+      "0.9.0": {
+        "sha256": "4ad3d8dabb344fcfcaf5027343e8fcd05b113f8d42e4ee3d989ed38a8bea104c",
+        "url": "https://files.pythonhosted.org/packages/82/0e/f5bb32eadf3e49f0d7fb4f215434b3b9628160e005b88918eec357a6618f/netius-0.9.0.zip"
+      },
+      "0.9.1": {
+        "sha256": "b180b801e7148b61cdbc96dfc22cc185aa765f5711107b1173949e0c655cdf80",
+        "url": "https://files.pythonhosted.org/packages/00/ab/0afe33fa4293b153bcf540588915b1eb6a485690e88d4396b57e3aa5ffd7/netius-0.9.1.zip"
+      },
+      "0.9.10": {
+        "sha256": "901df3f0d3e387866c8305b7970f83ca56ade349c32ad1f20e64426fe4eb4e01",
+        "url": "https://files.pythonhosted.org/packages/d6/99/dd6b997a78463df53173b44587bc7116e91c6f9232e833219ec0aef7ac0d/netius-0.9.10.zip"
+      },
+      "0.9.11": {
+        "sha256": "e34d5bbb5edefa703bab4c0fcbe22f23df317bcf000fc67cb57308422939694f",
+        "url": "https://files.pythonhosted.org/packages/56/78/b5e0f49277017050497ceba8f213defbca5271c95d1c6af328f8e15973d6/netius-0.9.11.zip"
+      },
+      "0.9.12": {
+        "sha256": "679fac7d967952ed29ac6a89429b76dba84dea9bec0b05d2b906565b5ce87a17",
+        "url": "https://files.pythonhosted.org/packages/9a/d6/c12c2a34ad16dd5e671b212ccd9ff85aa8a0adb54e43cf2eee1e9a1018a1/netius-0.9.12.zip"
+      },
+      "0.9.13": {
+        "sha256": "b959ad2d36eff60dca7cef0f1a33e0a115d994947d7d63037077bdd9593cf80b",
+        "url": "https://files.pythonhosted.org/packages/55/a3/2a76e12a2708aa895dcd7a0cf3ad9e41a9619a36cf6bfd6487fa96918103/netius-0.9.13.zip"
+      },
+      "0.9.14": {
+        "sha256": "3f90411dbf5c3d6fa431f7cb955b210c5b90135835d098dcefe5e16c99516325",
+        "url": "https://files.pythonhosted.org/packages/0c/85/93e8ac846912e957514e5fcb86f9d94a2bdb66bf062a1b55bf008313cc87/netius-0.9.14.zip"
+      },
+      "0.9.15": {
+        "sha256": "98ed4be28abd966263513943efdd7f1b6dc613d72a5220b1022f613fb440b056",
+        "url": "https://files.pythonhosted.org/packages/6c/c0/86423960dfd04e9d76d70a3af50b52a8739aa3fec0bb2eb1a1dc8d314805/netius-0.9.15.zip"
+      },
+      "0.9.16": {
+        "sha256": "000c09b885c2f58d5e8dc108483cf92b6e9bd89d63875b2197db52513dc07c3b",
+        "url": "https://files.pythonhosted.org/packages/50/35/0bdea9a439ac7ae0ed062c05deec77b9da37dddfca85f2e25db0344d5e9c/netius-0.9.16.zip"
+      },
+      "0.9.17": {
+        "sha256": "eea0007412a9de2290c5d115f4286421a00369f5de6ff10d4b88edbfccb545be",
+        "url": "https://files.pythonhosted.org/packages/fa/e5/7cd0607bd253ae49f32982b17ab2c035c824e8825d00be25ca5f720c6d3d/netius-0.9.17.zip"
+      },
+      "0.9.18": {
+        "sha256": "1b33037ee4edd79903ec6f75dc38676b6602b79b4d0886c5b571547c86619aee",
+        "url": "https://files.pythonhosted.org/packages/9b/af/e4e185270688bc9691edebdf2a3318f8f971fb32760a7b095686318c0e43/netius-0.9.18.zip"
+      },
+      "0.9.19": {
+        "sha256": "2b7dce14c35dd4891799c509e57ba0ee26a3629b19b52cb69b36d4b2f7ebabec",
+        "url": "https://files.pythonhosted.org/packages/58/b3/aeb0a5d2de06d0b1f8b4de3e685e8d7c661a3a72d5ea15d2ee0e55ba78bf/netius-0.9.19.zip"
+      },
+      "0.9.2": {
+        "sha256": "9c745c4d48f9cf08103d00d4a1498dfa61651edf105dfddce82be02f13addc0c",
+        "url": "https://files.pythonhosted.org/packages/47/f9/bdf3b6e30d390a073455e4c8fa47b4f16d3c555a28518afe5775f39d993d/netius-0.9.2.zip"
+      },
+      "0.9.20": {
+        "sha256": "a8572e301376b00de18cc9b511bf5b8a77d486be3feea6edce13a03a863ea81a",
+        "url": "https://files.pythonhosted.org/packages/7e/b2/00f10f8945c86be3c5a3d4941529c53e21d82e7286c47d8309abaefb4280/netius-0.9.20.zip"
+      },
+      "0.9.21": {
+        "sha256": "1b9c54ac5a51e15227d6e703061cdafc3b13ff4a2437364aab24ec55bb26415d",
+        "url": "https://files.pythonhosted.org/packages/58/86/394b7edeabce8bc8dbb0f523fce9e2686f4d9b05ae44b0fa26e3ddab8bdb/netius-0.9.21.zip"
+      },
+      "0.9.22": {
+        "sha256": "d1f4f71e60e38e3c051dfcba38e55fd15ca8a4a8f73b7cc42dbcceffad135825",
+        "url": "https://files.pythonhosted.org/packages/47/82/f5a21c913e0709e47d7f604c849e44ca7fe478424d3a4f21b9dc1545da7d/netius-0.9.22.zip"
+      },
+      "0.9.23": {
+        "sha256": "3b1e5607e31c864f1356fda4b6a5677be32edd8ca9ecfe8705c7151088e789db",
+        "url": "https://files.pythonhosted.org/packages/a7/9b/dc5f3226d17a5a628d3d7549ff0966502d557f9223ff3a43e2041ec4f4fe/netius-0.9.23.zip"
+      },
+      "0.9.24": {
+        "sha256": "f6e1a330b8042518e45530d0ffaa1963840279f35c370a92e4a1e4d1c09bdc7d",
+        "url": "https://files.pythonhosted.org/packages/a8/51/f2f53d980b9eb8338112b2fe75ad0031487d93ada3b2be2871c98c7ea155/netius-0.9.24.zip"
+      },
+      "0.9.25": {
+        "sha256": "6a74a40e28a625b5a5e06347c72039eeb0a864a4a4d7684c98fe99e325e620ef",
+        "url": "https://files.pythonhosted.org/packages/59/8b/bc71025015bad1e843f763a46a9434db502e6cc78ba44c388aa927fb10c6/netius-0.9.25.zip"
+      },
+      "0.9.26": {
+        "sha256": "9ecab16c046e8fa885bdb8880d42b7d7137017e9f32d587e32092db99d42a2a6",
+        "url": "https://files.pythonhosted.org/packages/67/4a/3bad06b32eb3cb5a9e880f27e5e9aa2205c1a70e08a7e66800b5f3397c11/netius-0.9.26.zip"
+      },
+      "0.9.27": {
+        "sha256": "15b26ba3a55c2214d637978e5783aadcdd7649dcc693a64fe22a42831161ad48",
+        "url": "https://files.pythonhosted.org/packages/54/1d/6d4398e0bfe1e06cf6762962e3ac85a4e5ce173a847afae458876a07d871/netius-0.9.27.zip"
+      },
+      "0.9.28": {
+        "sha256": "a6266c70e24d0bf434d7d61ad14064a9e0a62d205ef7d7767a4d03e528c5ce78",
+        "url": "https://files.pythonhosted.org/packages/f5/d2/eb4eb61b36095a5b27713128ebf82e237a87cdc2dc053e6d8bab7a079d9a/netius-0.9.28.zip"
+      },
+      "0.9.29": {
+        "sha256": "0b5c37ae699bc96ebd097007a07cb6e778ef8ce950accfbf0c470602e02932b0",
+        "url": "https://files.pythonhosted.org/packages/c4/79/9d336327b506f62cbb6e56571b626a4c1336061d36cfcfefb5be38013a5b/netius-0.9.29.zip"
+      },
+      "0.9.3": {
+        "sha256": "e0e94168a6cefb6ecc56b88366888c4a0f9b811278377533effd035088114619",
+        "url": "https://files.pythonhosted.org/packages/27/b8/a6ed0af510675a0293c48fa0af16ac0351e580c8ad1649c5e369881115f1/netius-0.9.3.zip"
+      },
+      "0.9.30": {
+        "sha256": "f9398ecf0ae5629ef988cbd272b9d445a9180c78e64dc0e470f24be5991065f9",
+        "url": "https://files.pythonhosted.org/packages/d3/4a/c780d3c91a096af70696804e44235af854624c29e2a40e008fa9c4f4adff/netius-0.9.30.zip"
+      },
+      "0.9.31": {
+        "sha256": "df597b4b53418ba724a174d6d8e27a9b8ba5b2a8abc8ab18b4415c46a59ade89",
+        "url": "https://files.pythonhosted.org/packages/2c/96/b3b47607210a980c5f2711468fe455a86eaa177f3216b2c479b365681a65/netius-0.9.31.zip"
+      },
+      "0.9.32": {
+        "sha256": "f643e5248b185ef8351e266c8e797cebe9cb687e020f5ade70b538df797f62d1",
+        "url": "https://files.pythonhosted.org/packages/ff/70/fb0e805c0e89b6dfbc2593aaf5584bf32d3e8da1244c3b8df51839c2a25e/netius-0.9.32.zip"
+      },
+      "0.9.33": {
+        "sha256": "64529d1eef8934a0d013045399b3f650a20995e4866e468b485cf24e4cf91c1b",
+        "url": "https://files.pythonhosted.org/packages/5a/f8/550f39c1941b9e10bea4318105372ab890780e05b1935fbb8f1557135ea9/netius-0.9.33.zip"
+      },
+      "0.9.34": {
+        "sha256": "963a6be2178457e55fcdb20c6c6b3b2b0f6076c700fb7a2951f68a979a67db69",
+        "url": "https://files.pythonhosted.org/packages/b4/b3/8463faa812356815aa0e841ae97ac1e77908e4a15105ef4a3775cff7579d/netius-0.9.34.zip"
+      },
+      "0.9.35": {
+        "sha256": "ecfcd18270ec88a14486499a8466343c4b987329d15e03779bdeae7aa7e5cf26",
+        "url": "https://files.pythonhosted.org/packages/ff/c5/992b3ed1540e69350c881a17c116e35a86641a7f44cb4a05f2f419d8cb26/netius-0.9.35.zip"
+      },
+      "0.9.36": {
+        "sha256": "2b486a54afd53169df97b7afca7f681b1cb3b01ea6caaf160881795509cd1eb8",
+        "url": "https://files.pythonhosted.org/packages/15/40/0632a6134a319463cde9cddf4b0ad192a513ce09d2da2fa5ab012aafdc48/netius-0.9.36.zip"
+      },
+      "0.9.37": {
+        "sha256": "07db365bf4eeff06d14bcfbe10f0e835b2a0f56178d1880065dcd73111bac367",
+        "url": "https://files.pythonhosted.org/packages/9a/49/56d9808d53c1081b51384a8197683d6267734669054fd412cc70311dcf93/netius-0.9.37.zip"
+      },
+      "0.9.38": {
+        "sha256": "de3dc55679ce0cccf007f8e5494bf816502c2e9a640e692d8af98af95ec33719",
+        "url": "https://files.pythonhosted.org/packages/8f/24/0d4e0ce520ab848ba354f38831d69160ca3db3f62d52dd8316ce7224103f/netius-0.9.38.zip"
+      },
+      "0.9.39": {
+        "sha256": "10428ee6d7646608e0b0dad93c01e361883a22afea4071e6dd9cfce7f06abeb9",
+        "url": "https://files.pythonhosted.org/packages/a3/50/dbaad3bfd1a3e8ff52146a430c883b02fdcbdbb8fad722db050de0c25516/netius-0.9.39.zip"
+      },
+      "0.9.4": {
+        "sha256": "69683674ba997029d3e0ba262bea5ecd8e6081477b319a309d690e8df633add9",
+        "url": "https://files.pythonhosted.org/packages/fe/62/7eb06e63e53487e81ddb25558c9d3cd258224c35289f93116274cb8b38e0/netius-0.9.4.zip"
+      },
+      "0.9.40": {
+        "sha256": "d1d31aff4bd98c6689067bcf2bab6104a0eaa1577b820c657364edaaf79798fe",
+        "url": "https://files.pythonhosted.org/packages/a5/c0/a06d6d355a26c9745e5823f333e1ad6c312ed817da9529f1132e085b5603/netius-0.9.40.zip"
+      },
+      "0.9.41": {
+        "sha256": "69e5ffe20eb841f87c201aaf5d8b2c89bc104ad2076a99d06e3a11f4164a5307",
+        "url": "https://files.pythonhosted.org/packages/4f/01/608ac515b0da4eb42ceb8e368fd80feb45cf04d04c51980076a864bfe8fc/netius-0.9.41.zip"
+      },
+      "0.9.42": {
+        "sha256": "94bd8121f4674aba14c1f23fb36ae7ab387a8e9440349b86b809e82fd5586e3a",
+        "url": "https://files.pythonhosted.org/packages/f4/40/afee3b9836358a9fd6eb83ed5957ce3eb5f3b2f6d91bf01956b5e3f3467c/netius-0.9.42.zip"
+      },
+      "0.9.43": {
+        "sha256": "2adc5ffbc3faebd6033c38ac42643022b5b93e1cd4b61519b85e22223f49955c",
+        "url": "https://files.pythonhosted.org/packages/9d/66/1cb7ace724db43f826c20b17b7a80e2d5e466f29ae089bf2c94ed16a1d29/netius-0.9.43.zip"
+      },
+      "0.9.44": {
+        "sha256": "f065c69cb999e6ef92f9c1b4564fb977b9cb833465fc65d20cc0b02e1da1b3db",
+        "url": "https://files.pythonhosted.org/packages/0f/01/50ca1be83a5be65ffa5bc736fc51e216ce3ca3503e985fb24a519d171321/netius-0.9.44.zip"
+      },
+      "0.9.45": {
+        "sha256": "d13c91b0abb4b374b84c02feb2802bce6ab2e8e4de3f84587b0cd6872b94398e",
+        "url": "https://files.pythonhosted.org/packages/fb/e7/2d2e5d4156627344310b38d45d0713f7484d9b003fd62d8f7f23ebf4671c/netius-0.9.45.zip"
+      },
+      "0.9.46": {
+        "sha256": "4f31d4a8e42db1633cdd32d9ac1d20033ae014cfda736ce2fba0909b9a29a01c",
+        "url": "https://files.pythonhosted.org/packages/26/ad/951b33f416649b816165a11c869a30192653fd7c0a498e5e51ea13255e0c/netius-0.9.46.zip"
+      },
+      "0.9.47": {
+        "sha256": "4856c86389399f77011b6925c229e1e749897b791500f4b64a2d2662cd601392",
+        "url": "https://files.pythonhosted.org/packages/25/90/3086034422840ad36b3a928afeb82fc44d0e4a5092b750bf15c9dd7b7306/netius-0.9.47.zip"
+      },
+      "0.9.48": {
+        "sha256": "aa17bbc0708857cb84b06fe57b0f6cd0f87d5b809ca08041173d955e425672d8",
+        "url": "https://files.pythonhosted.org/packages/d2/12/73b2b45fba0c87e229961c93b4f7a61fc0be91f0c9d87e55ee3710c938eb/netius-0.9.48.zip"
+      },
+      "0.9.49": {
+        "sha256": "e6b37c24aa9cf18e7dd76ab0c8484db122f10d1cce0127204c85e250337c4eb6",
+        "url": "https://files.pythonhosted.org/packages/6b/6c/d4d9bd7155f3c3861cbc00b3068d07f1747abcd8d5d1be295c1d74eee12e/netius-0.9.49.zip"
+      },
+      "0.9.5": {
+        "sha256": "16763bb52ce3952588d8e3f2452e2221fc59b6555598cdb828d9938931bea9bb",
+        "url": "https://files.pythonhosted.org/packages/fc/86/d5a6e9ebe7eee6673a19f9937e2aefaaa0023870dd8b9bdec142a361276c/netius-0.9.5.zip"
+      },
+      "0.9.50": {
+        "sha256": "df80bdc59fba6db92892a06eb633eeaa43bbecefd1753d34d3d050ef0c5d6264",
+        "url": "https://files.pythonhosted.org/packages/05/45/7f4a3d770406c959ba361aa2191a70906f6fe6e0cf7a49eba3ea85d273bc/netius-0.9.50.zip"
+      },
+      "0.9.51": {
+        "sha256": "527bdaacb7094b989f2837eba8000c86cc7842f46f1afddf6aa58e8e1db5eeb3",
+        "url": "https://files.pythonhosted.org/packages/e8/b8/bacdc65d0be3dccb4f36f12d16d448d22f5a195d57ac2846f6b9a35d39ad/netius-0.9.51.zip"
+      },
+      "0.9.52": {
+        "sha256": "b2cc62db8c58ed8c5e0ac63493c7c689ee480dcdbe4fe455ce8419db4f62a5de",
+        "url": "https://files.pythonhosted.org/packages/69/d8/f14da86db0329bad99a9f65726a4866a1675c7cec0c48b3ff89528191c41/netius-0.9.52.zip"
+      },
+      "0.9.53": {
+        "sha256": "e31c9522dd171b00d59508d6a4c3b83025b49621d420bd309579f53c108d7c3a",
+        "url": "https://files.pythonhosted.org/packages/ee/9c/e8de882cef61392e7c220ac5f2bd4ea260afd6d07338b7c1b77bb43baf1e/netius-0.9.53.zip"
+      },
+      "0.9.54": {
+        "sha256": "4288c8c45494ecbdae0cc881844e9167a6f91e316016c19578d697819c24ef05",
+        "url": "https://files.pythonhosted.org/packages/99/66/3aa36217cc31d6952f0bcc59c1b2829313c4af899cc35f6a337ff6882980/netius-0.9.54.zip"
+      },
+      "0.9.55": {
+        "sha256": "66638c3c91e420df850a9c5c801052993d3174417732fa5235b1ca03969c9bb9",
+        "url": "https://files.pythonhosted.org/packages/b3/86/c9c54a81b70e6150c60ed3f8caac301d9fd1b68ad7047b40233064848c1a/netius-0.9.55.zip"
+      },
+      "0.9.56": {
+        "sha256": "6ebb3695fd905199cc8ad64f85f903299b9afb14984f18207a662b17af8c4e74",
+        "url": "https://files.pythonhosted.org/packages/53/10/aabb95e1db40543f43e8b40c7be877b6ffcdfed5b96b024cc54a0ab397fb/netius-0.9.56.zip"
+      },
+      "0.9.57": {
+        "sha256": "08bc8fae63911886643b57cdb51f2bbfaae610adaf34797bd3db89bcfc8bc52e",
+        "url": "https://files.pythonhosted.org/packages/3f/c7/765375c60a2b9a2b4fde3c014014d6f897bd4a997c4d1132f38d570b5be7/netius-0.9.57.zip"
+      },
+      "0.9.58": {
+        "sha256": "a2deaaea85af72c792d45d2d8a2a9953424e481cd2a04bb6c3fd89f11945d46c",
+        "url": "https://files.pythonhosted.org/packages/cc/45/d63a03f1713bf7aea1da7b15c6b8b48bbc97ca074f6c1d9ba3bdae6cd2c8/netius-0.9.58.zip"
+      },
+      "0.9.59": {
+        "sha256": "e4e3a08b1cb980111d0810b006a9fbc3e1f08b44ee47a6e9aefb1e77e93a97dd",
+        "url": "https://files.pythonhosted.org/packages/d3/e1/525420c640249f2c48134dcf2eb5726f09dfd2ea0b1f66a416ea4a73a67e/netius-0.9.59.zip"
+      },
+      "0.9.6": {
+        "sha256": "75fc844b0cc18564acd9abb529b49eeaa50f39c700de5859646c35f137db1416",
+        "url": "https://files.pythonhosted.org/packages/5f/3d/1c78b2f3f24d1b380901a3623a697aa1875b3d48a7789b5ca108451f961d/netius-0.9.6.zip"
+      },
+      "0.9.60": {
+        "sha256": "526f6b7758a3899cdf51dad4fd42edb87010785fee7e670a898dbee64e87030c",
+        "url": "https://files.pythonhosted.org/packages/c5/61/a6cfdae8b32f5df685eaf80de2c66a6679838e67ee86735418ec30b83db5/netius-0.9.60.zip"
+      },
+      "0.9.61": {
+        "sha256": "3100b09ae970553812fce657b6ea2d5df1f324773a12ce1e858e742a21b5dfe0",
+        "url": "https://files.pythonhosted.org/packages/93/51/f918a61fbfbc81c7261cb928075755918257749a32d224aade2d381a8832/netius-0.9.61.zip"
+      },
+      "0.9.62": {
+        "sha256": "2d0157c11d69791a8c11a70577aedbe885b91f52eaeaea4405d03c52487f155c",
+        "url": "https://files.pythonhosted.org/packages/1f/a2/43b6542d7a84b3860f1a07e2c97c6630c852e12fc16f6c150b087b9f2dfc/netius-0.9.62.zip"
+      },
+      "0.9.63": {
+        "sha256": "825288c585ee4a4dc49b8c2e3ec5de0fdcde270efb0704b64c7471d69cca6e69",
+        "url": "https://files.pythonhosted.org/packages/d0/12/52f6c3943fce41bc7034c99315bc7c5fbc7cf81a680b7a079d2096c9dfb8/netius-0.9.63.zip"
+      },
+      "0.9.64": {
+        "sha256": "c98120b5df58ff0c53f79ddc95f6ade77ecea9fa5d56b1cda88e5b604a5fce15",
+        "url": "https://files.pythonhosted.org/packages/94/8e/8d9aad0bdd0d3d42c17e88abb2cb9dbcc0a3eb40d11d6bb0390ba8b6404c/netius-0.9.64.zip"
+      },
+      "0.9.65": {
+        "sha256": "dc3e262f239b0990093996a3877800c5cce3655788bf4fb9aa16d377c595e6ec",
+        "url": "https://files.pythonhosted.org/packages/40/2e/3c9dac470b826c93f857ca5b80c65b484de97592e13d706e5f6dc3c1e5ed/netius-0.9.65.zip"
+      },
+      "0.9.66": {
+        "sha256": "532cdd95efcaa8700c9e738ab32609e3d315e11c7fbb96e3d1ffd9344b48f458",
+        "url": "https://files.pythonhosted.org/packages/19/89/50d41e496e48ebaed2b6a3cbe4f0019405f1d88f962a7980430496af6b71/netius-0.9.66.zip"
+      },
+      "0.9.67": {
+        "sha256": "777f493993c4359285c839d441be463f230d44c0d284d586e0e20064ac280ffc",
+        "url": "https://files.pythonhosted.org/packages/2f/04/55199ca891239d0c98830d154920ad61ae6d576415a201bb337b81768f0b/netius-0.9.67.zip"
+      },
+      "0.9.7": {
+        "sha256": "b776110863dcab063aaa4bf21eb037dda94d3cbcd885df01c22bf199b36b1f5d",
+        "url": "https://files.pythonhosted.org/packages/81/7b/4317ec2da9c5c9d2501b6213c911fc51a9885374bdb9bb6d1d6a9c70bb29/netius-0.9.7.zip"
+      },
+      "0.9.8": {
+        "sha256": "e3ca45447e2fff79f1501e7e189e95624a5b78855542c4572aa9f09b0b25f66b",
+        "url": "https://files.pythonhosted.org/packages/32/c6/2c893e5fa2f520805eca15a4c4388691e55818a37bc087f2752aac5570ef/netius-0.9.8.zip"
+      },
+      "0.9.9": {
+        "sha256": "89d3dc089ee6343845cc85c3fe0e2c4605942f12562d5b69e4d90f530ce47856",
+        "url": "https://files.pythonhosted.org/packages/d5/48/91376884c1f7374f55b5e228aa2b223493e764403a52a2b5e2a59097b6d7/netius-0.9.9.zip"
+      },
+      "1.0.0": {
+        "sha256": "4beb5a508a59903878a42f0cada5d335c6a2122ff6c8d4e05ce1c3d430623d83",
+        "url": "https://files.pythonhosted.org/packages/19/1f/18cd70517f3fa606df7e566e9a9b1535459801968fe7511f4876e5ad6b14/netius-1.0.0.zip"
+      },
+      "1.0.1": {
+        "sha256": "48d12e1e9afb10c98a6d8bacc2f4fe53c8213f019166fda60d6a2e45a0ec370b",
+        "url": "https://files.pythonhosted.org/packages/f8/71/3ea80b8fba8584611e518f6eb6eb1fa82af698cd9bb4ceeffe621524dcf5/netius-1.0.1.zip"
+      },
+      "1.0.10": {
+        "sha256": "5c0d3bcfe2f14a10184705b2aed7687b0f9dddf2495ba5b0c8f9ff9e83da90af",
+        "url": "https://files.pythonhosted.org/packages/6b/10/f1103c5ec6260ee7c58bc8d1b3d37680fc4b98c14fa7354ade9e71f299e6/netius-1.0.10.zip"
+      },
+      "1.0.11": {
+        "sha256": "946f2a12dce8ce378d910cafb966b4643af939fa1c520d425334b076ef3fbde5",
+        "url": "https://files.pythonhosted.org/packages/18/b3/c1722b8b5665ac405ba4b2dcf24c7ace01a63443798bb208000d93cb4f7a/netius-1.0.11.zip"
+      },
+      "1.0.12": {
+        "sha256": "9c075c97cc7129304af52deffd1285ef1a6dfefb63234b6491de011afe8fe761",
+        "url": "https://files.pythonhosted.org/packages/4b/f2/030c72b07fe844c1a396e76f84e90a0c3172f527c491e17e2f80952a7959/netius-1.0.12.zip"
+      },
+      "1.0.13": {
+        "sha256": "23916b121989698a70fdcec8a0533af05160936247e8b4f56a820a2462448c2d",
+        "url": "https://files.pythonhosted.org/packages/95/7b/731688fae9b2f3e35dc8cba5c4c15b852683431c65851eb4e0df91af2989/netius-1.0.13.zip"
+      },
+      "1.0.2": {
+        "sha256": "d4f84e89ce07702efb3b11da5d6acbd686b006a919dcaddade37d2eab909552f",
+        "url": "https://files.pythonhosted.org/packages/e9/7b/eda5a669e0049e6b1e7d335c3f2537024a8a2b618c5436d3288e4dc156a4/netius-1.0.2.zip"
+      },
+      "1.0.3": {
+        "sha256": "2df191154f027a8ebb3c666c32dc894d39e3e4cb1d53dcc8897115e766580bdc",
+        "url": "https://files.pythonhosted.org/packages/17/4a/f30397257f37e05d37f19ba858be9037348381415a2578946759cc29fd59/netius-1.0.3.zip"
+      },
+      "1.0.4": {
+        "sha256": "92e0f82bbedfc6e4531eee12a28d0c190e5cf21e96ec51e7cf0978558f7d6474",
+        "url": "https://files.pythonhosted.org/packages/6d/2d/e5b48115762a97dc91150d0444661c8668de16625a0c84c4223efe70f5c4/netius-1.0.4.zip"
+      },
+      "1.0.5": {
+        "sha256": "2b71e1f246588989aa8fc9a782070a56e33647db27b8ee91b6d8672b5c210240",
+        "url": "https://files.pythonhosted.org/packages/57/ef/fc62ed6bf81c5981d4ac6332658b9f76e1273ace965b520a439ed1007caa/netius-1.0.5.zip"
+      },
+      "1.0.6": {
+        "sha256": "4b71320c4275a5b0e3d614d6db248fc647eabeda250906a1b3a2739d1e872c62",
+        "url": "https://files.pythonhosted.org/packages/71/0b/a7f38d7989cf866f8ac51eb2eb62797acae16d3b9ce3711b3fee485201dc/netius-1.0.6.zip"
+      },
+      "1.0.7": {
+        "sha256": "6e92512d5aec5a79bbd85e993a25ab6f1a1856a8dc53de551187d213accc8fef",
+        "url": "https://files.pythonhosted.org/packages/12/cd/64c4ddd35203757f1ba55bf6caddc642b99d844ed76960c302579a438ecc/netius-1.0.7.zip"
+      },
+      "1.0.8": {
+        "sha256": "122f2ea3e96b95d8cf7431a55e0757e45a1f2a7d5adb6a816e2a67c73f6202b2",
+        "url": "https://files.pythonhosted.org/packages/3e/b4/9be877a09621c7317328b35c812f2277fe33f89cb9f52fd103f08b930bd0/netius-1.0.8.zip"
+      },
+      "1.0.9": {
+        "sha256": "5360a037c52b04e2dcd857d183795a567682495f32bddf89bd4e4426b35d8aad",
+        "url": "https://files.pythonhosted.org/packages/b9/12/e77e9ed7047a5a8b64a782f158f2cb2783d8e74603533339b9783514f05c/netius-1.0.9.zip"
+      },
+      "1.1.0": {
+        "sha256": "ce6edc19a51f38f68cc9d0195b4da9425d42f43ced21e2ff916eacebef9b390e",
+        "url": "https://files.pythonhosted.org/packages/57/cd/947cf717af4de7e0ec1fc674cbf151a0b20a9f196fcd5bcdc6d5b325e96c/netius-1.1.0.zip"
+      },
+      "1.1.1": {
+        "sha256": "73df7bee390d89b88c5c46aae020af310d5fbc5b3e2d6e459354c894ba7b0da6",
+        "url": "https://files.pythonhosted.org/packages/0a/45/7eac8ea94410cd0a434d30b1551dc7baac67cfe19f3a8b444fbbb63a3b6e/netius-1.1.1.zip"
+      },
+      "1.1.2": {
+        "sha256": "58e1b44a2ba183d2e7cfd91ad2bf21466911dd4f14d9329a7764cd303fb66b16",
+        "url": "https://files.pythonhosted.org/packages/7d/00/06f01b13dcf34bf46cf1177028540e2952af30b3a809541bf742c89b9c16/netius-1.1.2.zip"
+      },
+      "1.1.3": {
+        "sha256": "27da475c4d055844794c067db9844daf98aefc16851cdd060e03d480065218a6",
+        "url": "https://files.pythonhosted.org/packages/2e/93/1d7369505bb79677f4f0df19dd898fc33068561c840360add5ab43ad019d/netius-1.1.3.zip"
+      },
+      "1.2.0": {
+        "sha256": "439aa57c3954e470a27ab91b47d20e5234c8b9754dfa2f8a63036f7652b1fb88",
+        "url": "https://files.pythonhosted.org/packages/d3/d5/95d20f3d1bee7043b30b1148435b1173a5d7c25553755e264701d9e452e1/netius-1.2.0.zip"
+      },
+      "1.2.1": {
+        "sha256": "1f47832522bb5152d971cc0bda2e52b9c0eb869432ed9882459a78fb526be4e7",
+        "url": "https://files.pythonhosted.org/packages/ba/d0/acb5f34716c74aa24a79b200c70e24a3b71f6a85cd6be63150d4118179c4/netius-1.2.1.zip"
+      },
+      "1.2.10": {
+        "sha256": "fdc61ec95e0460b558db25f15321ece38a94bb1f6eff7f7238305a779388bd3b",
+        "url": "https://files.pythonhosted.org/packages/91/00/3b2b77c999f69a3b7054a74b2feeed0f875a0f2554081e68c61e245b6801/netius-1.2.10.zip"
+      },
+      "1.2.11": {
+        "sha256": "ddb8a98cb8e39d79f716edcafa4053b6a9fd6cda7593c0ab56bfa4eb08bee897",
+        "url": "https://files.pythonhosted.org/packages/d5/62/e2266f57f76de2f33e8c0d78874dc364beae0b2b20be2afd9ab33a48ed0e/netius-1.2.11.zip"
+      },
+      "1.2.12": {
+        "sha256": "cad67fe681534d4bedab361a6ec601352425740e27434f618150bac12d4a2374",
+        "url": "https://files.pythonhosted.org/packages/70/4c/7c46e00d8ff6239d21881746e7146c9e0c923233ca5835349d76ed02b08c/netius-1.2.12.zip"
+      },
+      "1.2.13": {
+        "sha256": "c5fd529d66f58a1078ab97b877cf0dab4390b908aaf44506024c17b2c11078cf",
+        "url": "https://files.pythonhosted.org/packages/ca/23/7f55497c2be5f7a7efc332a30feeeb4ce975e42a43d149fe1ab84713f0f4/netius-1.2.13.zip"
+      },
+      "1.2.14": {
+        "sha256": "4feb349e622d12e6a628ce31d41cbec23f045af25a73c49feaef2b2743a9dcb4",
+        "url": "https://files.pythonhosted.org/packages/3f/80/5316b31b6dd8b426978f7b637d9c8f40d97ef3c0bba64a6220d5374a818d/netius-1.2.14.zip"
+      },
+      "1.2.15": {
+        "sha256": "869a3f9aa32a37a7fcda43702827d1657b62af4a668cfdb45740014ae1135796",
+        "url": "https://files.pythonhosted.org/packages/c0/53/b1e9e34e15e250951cb02945eb8bb1af2fe8e1676f3f0128e191863e40b6/netius-1.2.15.zip"
+      },
+      "1.2.16": {
+        "sha256": "1d9f45b6a5e2a7afcc324c2b74b9b34e68ffca8456049783f952211fdd2e180a",
+        "url": "https://files.pythonhosted.org/packages/be/af/ae668d5352fadbf2d858d5aee95c82ec42d86987c99e0f9b17d62c4f56c8/netius-1.2.16.zip"
+      },
+      "1.2.2": {
+        "sha256": "4d14cdfcdc086422dded48b30e35c4239f3432838c0c61577930aad17f21c482",
+        "url": "https://files.pythonhosted.org/packages/48/ad/b10b0129bef2839779a727580b86f94cffb6a9197fe33cdd52a89f05b401/netius-1.2.2.zip"
+      },
+      "1.2.3": {
+        "sha256": "08d0c0888ad21c35fee75bfea799dd79f3a2daf26dce653ef912d0b78315c7d5",
+        "url": "https://files.pythonhosted.org/packages/3a/de/e1425f1ddef12a6cd94873f9d0d436f1c2882a90152bc124e38b8689876b/netius-1.2.3.zip"
+      },
+      "1.2.4": {
+        "sha256": "393041272ee243fda31575c0f2212b39b20261287c9142c14096147095244723",
+        "url": "https://files.pythonhosted.org/packages/69/29/fdb300cec795449761671f10b014f6842d3a3645f46037fde19ea3afa95a/netius-1.2.4.zip"
+      },
+      "1.2.5": {
+        "sha256": "93c68641a45fd1cfe8fd1c87a5e7d123493e8a560a69149bdd5ed2fad1522c69",
+        "url": "https://files.pythonhosted.org/packages/4c/d3/0ed09eb710e604dbb9ac2c45fa2856062d2d778b975d025d9139122dabd5/netius-1.2.5.zip"
+      },
+      "1.2.6": {
+        "sha256": "853a12e7bd79ca8a19bae740cb3290eb5551a34d3a6da6904569394f0bd6c6f0",
+        "url": "https://files.pythonhosted.org/packages/a6/bf/9c0325aedc8b892b9a00b0a2af596c619cdc28c444d4078efd10ac8ab910/netius-1.2.6.zip"
+      },
+      "1.2.7": {
+        "sha256": "9ac3d73c40f07f16805a9417eca82db6dbb0a589169cee8995c389553b13ffac",
+        "url": "https://files.pythonhosted.org/packages/07/3e/102e829627c33316883109c73864a6a1fb1eb8258444d49b89cbf2afdf8f/netius-1.2.7.zip"
+      },
+      "1.2.8": {
+        "sha256": "9b2eb4b11aaa25d40781eb6e23e8359ad31f1557a3af4ec7167946f7a2fddc43",
+        "url": "https://files.pythonhosted.org/packages/77/2d/2d4612bf0bbf24dbbb89a2c3a1d162447b0f3df1d1b4eaa9d15d9ac51e96/netius-1.2.8.zip"
+      },
+      "1.2.9": {
+        "sha256": "924ea7c77cc0f19e83782ace24d6bf5f19ab3bc8acd171b883c5dd3ba6d15aa7",
+        "url": "https://files.pythonhosted.org/packages/b8/13/bbccf891256cabadd4f5a64c4cedc2ec577068754ddc2abe828f8253d481/netius-1.2.9.zip"
+      },
+      "1.3.0": {
+        "sha256": "4b5fdbfe052613de6216ba1201ae6b8fa4c4b68169626375f02750e6a2011f9d",
+        "url": "https://files.pythonhosted.org/packages/2c/99/0c2e6e7e2252adf7506acd223c9b8de76d19f409d4b387e864e0b20c5476/netius-1.3.0.zip"
+      },
+      "1.3.1": {
+        "sha256": "867f4f425af1a74dbeac89ccf78b099ee34194116553cab8bc19d01f943f23f7",
+        "url": "https://files.pythonhosted.org/packages/08/a5/f06bada692f986aadc98187394078d14c5e1c69b4f64a9cfe1f899642f30/netius-1.3.1.zip"
+      },
+      "1.3.10": {
+        "sha256": "2528c053870545b7ac083ad7a33e03d501143df91899e00cc96c63bddc1c083e",
+        "url": "https://files.pythonhosted.org/packages/92/92/081de9e943ec4975d1d1b6cca8a5aae12b0bf850a10bbe1fb07f4d48d46e/netius-1.3.10.zip"
+      },
+      "1.3.11": {
+        "sha256": "44d6cfd7118788c4bf10c7ba8b880430c12b2c488a38c95e63074db1a2535cf9",
+        "url": "https://files.pythonhosted.org/packages/03/f8/0fca3032c5d87989b670268b98384da80bbb22bf691298fe07cffab030a9/netius-1.3.11.zip"
+      },
+      "1.3.12": {
+        "sha256": "55959093d36de8e930b59781f0d62090722f241b90a8390f34743523e16293b4",
+        "url": "https://files.pythonhosted.org/packages/c0/1c/fcf4c31fda92f7e34aa9f68d5f9e1bd28cc877ba3cf7190a950d48f475dc/netius-1.3.12.zip"
+      },
+      "1.3.13": {
+        "sha256": "7904c6a0f610a781a3a96e4b2edf8c348d20ee4384261b700abb98bab38344b4",
+        "url": "https://files.pythonhosted.org/packages/a6/30/c19a848bfe8345f591b04c1b4a558da83bcd05504767d768e4926de1389c/netius-1.3.13.zip"
+      },
+      "1.3.14": {
+        "sha256": "f2e209f727a798add42316b738568d2f2eeaa90924290d7c2b6d907dbe012fcc",
+        "url": "https://files.pythonhosted.org/packages/e3/39/ae9309de572111d5b90f6b9def7f6f5956df3730f451f083c1fc3bf25aaf/netius-1.3.14.zip"
+      },
+      "1.3.15": {
+        "sha256": "96cf3781a6667f6f38752065d64d4151b7879f1ca4904d431523a810350eb2d2",
+        "url": "https://files.pythonhosted.org/packages/27/a1/91c47e82e72d1582958f88bd887ff48413b33386e57226413335518ae023/netius-1.3.15.zip"
+      },
+      "1.3.2": {
+        "sha256": "9a6a1cd31098cb230fef3556c01b98cf57cdddf1e6d2a8e805013e0b79c1797b",
+        "url": "https://files.pythonhosted.org/packages/b7/96/14697640a48dc96d9374d2566787cad49e5ed6257fca1209ae453df6fa5d/netius-1.3.2.zip"
+      },
+      "1.3.3": {
+        "sha256": "4938230be01827601af5c728103a3a2a38c79eb846d21ec38cab22461c771f88",
+        "url": "https://files.pythonhosted.org/packages/6d/73/fb50f53a43b9aec3d1816e8084e989678a4823a1e77fb23b348c37e76a33/netius-1.3.3.zip"
+      },
+      "1.3.4": {
+        "sha256": "dde829e6bfab7ab0e55c4b9f89eed27d9d46567bcc30cef1a5cced6b3b05d83b",
+        "url": "https://files.pythonhosted.org/packages/5a/e1/5a0ace2606008666be577e4da04da56a4c255945e595790ecc65edbfe787/netius-1.3.4.zip"
+      },
+      "1.3.5": {
+        "sha256": "0a09dd263bd35aa39a34bea4aec906548638618a74163641d46794ad815da7a2",
+        "url": "https://files.pythonhosted.org/packages/66/bb/39f804271ce77b26097600ee0141ccc06da885d2c918188c885d83345047/netius-1.3.5.zip"
+      },
+      "1.3.6": {
+        "sha256": "d686086bd09d67d2ebb59930a3d226add974623dfc3ed7abea94427ff091420b",
+        "url": "https://files.pythonhosted.org/packages/fd/44/117cfdeff49d432638ad639c60cbf0ede7e2c2bec182925b5d233f438391/netius-1.3.6.zip"
+      },
+      "1.3.7": {
+        "sha256": "c1aac14241870cb7d885aff9d2e5b1112ead95ccb043038f9be02d82bb2c648a",
+        "url": "https://files.pythonhosted.org/packages/97/6c/085fe20f8d39fe4ab28b2e897fc41ca2660f8107cb966a7bb524c98dcbf8/netius-1.3.7.zip"
+      },
+      "1.3.8": {
+        "sha256": "134248429908b0c12c4281c3bf4f5ec28337a7d6e92b05eb446505aebd78cb2e",
+        "url": "https://files.pythonhosted.org/packages/a5/88/921d5c718c7c5215b1a0538598042bb117a0322cd13b576c3534bb89e094/netius-1.3.8.zip"
+      },
+      "1.3.9": {
+        "sha256": "6f0e6353528d4f12d5c1e824b61be777f3bde0907fc6d39ce2de11bd17b5b393",
+        "url": "https://files.pythonhosted.org/packages/b0/25/b1c0f89b0f6e23813e44d6d31fffbe9e53b3bf3401aeecbd66041878968b/netius-1.3.9.zip"
+      },
+      "1.4.0": {
+        "sha256": "a0ff07f2a8c91bd5adc890b5c2fbd600f00a880acd002687eb3080856877f8d8",
+        "url": "https://files.pythonhosted.org/packages/11/2d/77180a0a3a713fef2382d2f646a9575865c0e40215f6c5bef56a20c3053f/netius-1.4.0.zip"
+      },
+      "1.4.1": {
+        "sha256": "67af7b954ac2dc16499a69ca295bdad3a3c01dc6c05444785878f527851f123f",
+        "url": "https://files.pythonhosted.org/packages/4e/25/ef780c6d54bb098a0ebeb1f4a8b5bdffd296bdaa0cb2dd05d375d25820e3/netius-1.4.1.zip"
+      },
+      "1.4.10": {
+        "sha256": "94a580e94886eebb68d2be745c0e4f13ea441e5c40d77ea2a1812f77560ea88e",
+        "url": "https://files.pythonhosted.org/packages/07/6d/6fce7df77768c806a7e8d31f0e37ce165425ffb990f34aed8092072dbdcb/netius-1.4.10.zip"
+      },
+      "1.4.11": {
+        "sha256": "e4f5f9376b83ff92d44cdaa87b51863c858c8551f1185a90c555b7dd77cc8550",
+        "url": "https://files.pythonhosted.org/packages/67/85/21af7c832304075119619f8722a2f092b4d964a4a1ee4d2cce5febb1e272/netius-1.4.11.zip"
+      },
+      "1.4.12": {
+        "sha256": "03cd6aa17cecbbd302a8df9a32c07fc7f20750959e3fdd7bbecc9de827353452",
+        "url": "https://files.pythonhosted.org/packages/b1/b4/8d08400a0db111cbdc1cff3fed4b1815242cfc5c86894dc2980f6bfa14a8/netius-1.4.12.zip"
+      },
+      "1.4.13": {
+        "sha256": "8a860a9441661224d51c441e88f5f9d8a9552a2d0ed55220a3bb595e15048f62",
+        "url": "https://files.pythonhosted.org/packages/91/f5/32ead8add6152cb840c1574ac3408bef88339e822f8fa7aa1e60ca2bfb6f/netius-1.4.13.zip"
+      },
+      "1.4.2": {
+        "sha256": "44b5cea209a55f3e3c75f2205ea35b6c10f9abee0e463bf67786dca69c7f3391",
+        "url": "https://files.pythonhosted.org/packages/a7/36/eff57a91810026bcf2cf8b0f293a7f68819c9cd66e9e1da0b466cbe5d45f/netius-1.4.2.zip"
+      },
+      "1.4.3": {
+        "sha256": "d984c241a66ee1a538ce62eb714a9577a442066256a2f2e627a6ac18bbaa6c01",
+        "url": "https://files.pythonhosted.org/packages/a9/63/daf5170e952ffef0eb011a6aa9b3ced461634a8f1ea4afe6501a7a3a0aa6/netius-1.4.3.zip"
+      },
+      "1.4.4": {
+        "sha256": "d98832df84aa468095a1df308fcdb6eecdb89bd3697efd8e314efa7478c99717",
+        "url": "https://files.pythonhosted.org/packages/b0/28/4f90f8adff450ed314f096aedb34dbd87be01df558ff603168167ea78f3e/netius-1.4.4.zip"
+      },
+      "1.4.5": {
+        "sha256": "ca4fb7fa479fc6722ad746594a1dcc4b0dd2ac7913b9e2107201b2c88a4b45ea",
+        "url": "https://files.pythonhosted.org/packages/8a/84/ba33cb3e36f935b36cd706d1a1399f94771a68ae242b5955f96dece013c6/netius-1.4.5.zip"
+      },
+      "1.4.6": {
+        "sha256": "e78b7491bf64745dbb032a2119831bcb831f4b005dd7f09cd494449e995b0eda",
+        "url": "https://files.pythonhosted.org/packages/06/4c/720a32dada60c527968021032e0b84796444b09bee5dab4b90962fed81d2/netius-1.4.6.zip"
+      },
+      "1.4.7": {
+        "sha256": "0ba639c85bd467f5427f7f655877ab2f25f9c4e4ed5a0543479d8e6dcf677f27",
+        "url": "https://files.pythonhosted.org/packages/7f/d2/ba683c9cdff8793fb887eb48fa3d22d8fc892025434f58317528f01a55bc/netius-1.4.7.zip"
+      },
+      "1.4.8": {
+        "sha256": "7cb066c039641eb2793d60976cd56e2810e8e6dd418f093b3660994edcba134b",
+        "url": "https://files.pythonhosted.org/packages/ce/22/36079436c5761b6ec1c36058ede89c477b710aa80705bc81e55c4d7d5b31/netius-1.4.8.zip"
+      },
+      "1.4.9": {
+        "sha256": "23142e443391ffb354d44908b2e21dea5a1fba0f54cf02aeb5e5c82502e9edea",
+        "url": "https://files.pythonhosted.org/packages/ae/83/c6b736d8c3fc6dad0505e09f36b843733219fcba3dd32894a7f80fdb0d71/netius-1.4.9.zip"
+      },
+      "1.5.1": {
+        "sha256": "161cb18ec547a238728736ef99811de3bf414adf6880c383e67821ba9ad84a8f",
+        "url": "https://files.pythonhosted.org/packages/4f/18/90ddf1aa225f5ad12e85746a7a98bfe60f3390e77455cfba18843c4121d5/netius-1.5.1.zip"
+      },
+      "1.5.10": {
+        "sha256": "cf4dc02a7c60379348a7f01da96e1e3264f2a8620a822a4d408f581c3130062c",
+        "url": "https://files.pythonhosted.org/packages/39/4e/0dc37196d609c4d4bfb74016572328096d59ff640ef0d2b24e119c32253a/netius-1.5.10.tar.gz"
+      },
+      "1.5.11": {
+        "sha256": "7363a3913c562e635aaa4f969e658796f7cd33e47e79015f87d54feab54ce58a",
+        "url": "https://files.pythonhosted.org/packages/05/94/6254deb49784589824e5bb7993e82b4f755ae966a775f007166801f29340/netius-1.5.11.tar.gz"
+      },
+      "1.5.12": {
+        "sha256": "220e1e25dad125d75da25f02cf6d3d5f4b0d88e9e5aac54322cd76f787a47ac7",
+        "url": "https://files.pythonhosted.org/packages/9f/8d/1c9ff85a618225ef1403f3c165b37a47627dc8204b339aa0a8db7496974d/netius-1.5.12.zip"
+      },
+      "1.5.13": {
+        "sha256": "d60a3dd9166eb220b4c4ffe3b3a1df6574704a990dd97a235344f88ee26ec73d",
+        "url": "https://files.pythonhosted.org/packages/68/37/809f80ae18a2e6c920c7b1c0393096d640d7ad48275d2a9df38ab06b3a7f/netius-1.5.13.tar.gz"
+      },
+      "1.5.14": {
+        "sha256": "dc9eaa253c221857e77b796d387ec0e83108de8f16db74a892fbcd36772be93c",
+        "url": "https://files.pythonhosted.org/packages/fa/3d/52e8cd0c4a558d0e9a3c666d619350938aba7dc5d5dea0ecca3acb150289/netius-1.5.14.tar.gz"
+      },
+      "1.5.15": {
+        "sha256": "57893419ad1f0e40119cc8d66f0b382f8bc4a3ea205546b242fd9a6a2461a197",
+        "url": "https://files.pythonhosted.org/packages/64/f9/2fc227bb11c74c77bb2be262ff9def90a824429e1c2b03c9b3526be95a01/netius-1.5.15.tar.gz"
+      },
+      "1.5.16": {
+        "sha256": "9e5b50e2bc1d599939f9b8b935400be4fcede0a381ecfece1887eb0d84b4154a",
+        "url": "https://files.pythonhosted.org/packages/80/2b/2f5ea3dca68a755c792d4a56a9749b4e9489b1e54886aba9734364978f9c/netius-1.5.16.tar.gz"
+      },
+      "1.5.17": {
+        "sha256": "c698a68efbd7d23d70d7732795a15cc0a27e9249dbe0b2478a9cd589fa442a39",
+        "url": "https://files.pythonhosted.org/packages/97/9d/24c3b054df28586bd966dbeff4ba5c53288997cc463f338c0cf9b0670ae5/netius-1.5.17.tar.gz"
+      },
+      "1.5.18": {
+        "sha256": "8d28ddecc1330be30700a3b37cba40e27c0c30e9f269f2196d1a06f7b9df7c72",
+        "url": "https://files.pythonhosted.org/packages/c7/88/1866b0c7a07ad751f40c1da9627f99cedc6c048d36e20e354385aaf8194d/netius-1.5.18.tar.gz"
+      },
+      "1.5.19": {
+        "sha256": "2b99c13085ceb5e9e4a45e37009eabadb5b631d10fff44c549f77bfcb67a21f0",
+        "url": "https://files.pythonhosted.org/packages/d5/87/7eefddecf36edd60734210688ef218b737262fc19a825fbd43a31fc5c26b/netius-1.5.19.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "fea31009e5b585c4e28a27309b106792365226c0fc10005c9019806b32fcb1a8",
+        "url": "https://files.pythonhosted.org/packages/61/3b/3ee22e6bd82624691cd0dea641a3fa2f2731113f4316b1cc37f48dfc30ca/netius-1.5.2.zip"
+      },
+      "1.5.20": {
+        "sha256": "7bd57aafaec726266f1defba31ba3aa2c6457e20512bd1d76ac92ac7239eef5f",
+        "url": "https://files.pythonhosted.org/packages/bc/74/37e0f06d2e0c663c282c0a589243315a0288599483b5d19f384628b6cd5a/netius-1.5.20.tar.gz"
+      },
+      "1.5.21": {
+        "sha256": "b2121358757039f099d0cabd7b31b9023064bf06beb581209a79722743a4b99c",
+        "url": "https://files.pythonhosted.org/packages/09/1f/154495e641c63e435700b99e28daf9c69a79fdc4b310d6b0fa94b9f98e9b/netius-1.5.21.tar.gz"
+      },
+      "1.5.22": {
+        "sha256": "e3ce26a98d2dd4c1ec550e3919e21b3974f091b3c9364849f6801f7654c2d937",
+        "url": "https://files.pythonhosted.org/packages/4f/4a/a68e34d25db26c2ed0c7d6432ba85ced09c99edc90fa75a200ae176e155f/netius-1.5.22.tar.gz"
+      },
+      "1.5.23": {
+        "sha256": "308808949d2bb3b81590c21e97865865fc513541b7a55b9416c466799046ea5c",
+        "url": "https://files.pythonhosted.org/packages/be/42/a9e786a9333a35a6ed55931a8f37a4348dcd96a11ccd6f342d3f04b6ec38/netius-1.5.23.tar.gz"
+      },
+      "1.5.24": {
+        "sha256": "7f18901d1cdcd1809a69606dc3e6a8926b0dc9f0e309943c92d6772f81171e2b",
+        "url": "https://files.pythonhosted.org/packages/33/39/30c3ce069609944a1a655397801c0f5b54321a05fd57fde42157122e3b72/netius-1.5.24.tar.gz"
+      },
+      "1.5.25": {
+        "sha256": "ad516621ac4c56e7398e7ad94244c44c986bbf09ae49b4b955afee3f89208b2b",
+        "url": "https://files.pythonhosted.org/packages/23/e5/335da6c70a8d298057febad22e92041f4d43b1ec6b867b21259d532d72e4/netius-1.5.25.tar.gz"
+      },
+      "1.5.26": {
+        "sha256": "c34b5deadf489ee74b3af764010359f2a0c68f998308e57b7e1ae415408d4143",
+        "url": "https://files.pythonhosted.org/packages/f0/14/433f7d6eb97e128a61a0b750e40295c2688befc53b170e75f7343cfa3458/netius-1.5.26.tar.gz"
+      },
+      "1.5.27": {
+        "sha256": "ea49e0ce49646dfab3ed51149f9cfd02f666c2f543a97506d3e01b94a81f5cbc",
+        "url": "https://files.pythonhosted.org/packages/29/be/899728bba76a8bc077ce63b75f7199d96a47ce3e7bc2b70204d438d4f8ba/netius-1.5.27.tar.gz"
+      },
+      "1.5.28": {
+        "sha256": "8fa0ea2fd91b028eca1c0e029eb691cf70811836e845b34c017eb8bd446a27f3",
+        "url": "https://files.pythonhosted.org/packages/dc/ec/a966213fac4aff7109ea473599b5796854e13bdb4ee0adf751b09f6e11eb/netius-1.5.28.tar.gz"
+      },
+      "1.5.29": {
+        "sha256": "322300276c5cae7ab4b44718c9691a7930f13388f666db82858d3756d56e80da",
+        "url": "https://files.pythonhosted.org/packages/9b/36/8a7d907d8b682628a0b4f58d7f21ff1f099ff69ec869398ea7058a4b7a41/netius-1.5.29.tar.gz"
+      },
+      "1.5.3": {
+        "sha256": "df1afadc96332f73fdb0a46db24590dcbf6d95030e89238ef3d88a39decf898b",
+        "url": "https://files.pythonhosted.org/packages/6a/f2/71abf08bb869a7e3bdb1ad3559f1442567dbf24dca0e18ad82031e8c298a/netius-1.5.3.zip"
+      },
+      "1.5.30": {
+        "sha256": "bfa6a1069cd0b13691ac10eb8b2b747142776fe284808094cd63d84f2292f545",
+        "url": "https://files.pythonhosted.org/packages/a6/d9/e8f74e11ad398b950735417121066ff8052e748501b6b928c3b042d1017b/netius-1.5.30.tar.gz"
+      },
+      "1.5.31": {
+        "sha256": "b803586e3f7a79f49eb42779cf023734ace662e6d2ffcf6952957d86f0b9d58a",
+        "url": "https://files.pythonhosted.org/packages/da/89/0bb5433a1bc6a66f8e161007ef8e6e1076e894a9f282a6576e16a3b0362a/netius-1.5.31.tar.gz"
+      },
+      "1.5.32": {
+        "sha256": "540a361f5848023301abe9d461340202eb6a590d1d7f30deb3131b4fe999c99c",
+        "url": "https://files.pythonhosted.org/packages/a6/aa/bb88be0caacfbe03102253521999ffa37d565d4b2b4c84a1193ec66daf41/netius-1.5.32.tar.gz"
+      },
+      "1.5.33": {
+        "sha256": "5308a6e6f20fb92f7a42b8bb85b422e5d60e6b93967e2e18b0b84bb673c55bff",
+        "url": "https://files.pythonhosted.org/packages/55/76/7a418bc320131bade70c4f49dce6cf0dfb4dd8ccaf5e9ec20f33a68a582f/netius-1.5.33.tar.gz"
+      },
+      "1.5.34": {
+        "sha256": "8d487bcfca765830061ec5255e35a28b7d924db9bc63c71a7445a0054e729154",
+        "url": "https://files.pythonhosted.org/packages/d9/38/994f55702383ed4ade4c90ee4851cbef9be58059e24bcc30c94eed2d2a34/netius-1.5.34.tar.gz"
+      },
+      "1.5.35": {
+        "sha256": "034b783ddd489ef3f932a0635a2e41ba7abc6ad4d2f708bda79011d7c3164153",
+        "url": "https://files.pythonhosted.org/packages/9e/7a/8f58784dbfcc84b1072be225045d181370792a4164cfc624e621a4a0b75d/netius-1.5.35.tar.gz"
+      },
+      "1.5.36": {
+        "sha256": "acf11efd383a2885e8663ee373461487114b94227f436014f1e29aede1dfd0c3",
+        "url": "https://files.pythonhosted.org/packages/79/c6/b6a84cc608272330360ed551106fa7bdcfb99b29fb864a4b9cf7ca31176a/netius-1.5.36.tar.gz"
+      },
+      "1.5.37": {
+        "sha256": "19f8cb62dc067311e84c432c2a06566161b9a82f0448615dde28cba528108fc0",
+        "url": "https://files.pythonhosted.org/packages/cf/44/efea3c5ff3e82cc6108238754f91ef3fb4dc7ce04f986533edab7ab3eff3/netius-1.5.37.tar.gz"
+      },
+      "1.5.38": {
+        "sha256": "449aa410cc6ff7a036c1a0833494cfdefac99866470d56e5d5907628ea43acdb",
+        "url": "https://files.pythonhosted.org/packages/8f/ec/c1ebf4dbaa4af51f61b8d4951f890524d17e4ce8f4491bb2fbc00bbaadae/netius-1.5.38.tar.gz"
+      },
+      "1.5.39": {
+        "sha256": "5a127c772cce7806f5a91eaa16e16f97bd3e5da7b29ac78d9c5a76197eed425a",
+        "url": "https://files.pythonhosted.org/packages/cf/c3/b17925607b2015853e464728286ecee0d9f8db1431f7c5996d557dbc3261/netius-1.5.39.tar.gz"
+      },
+      "1.5.4": {
+        "sha256": "9aa77c1afc8d99f3fb47bede21d0ade9b45c21fe8a59debdfbc5fbc9c9a2095e",
+        "url": "https://files.pythonhosted.org/packages/e2/99/f9d36c991ad42e7a2ee2c1ba688b32bab538e89de50172797f5c59e6c73f/netius-1.5.4.zip"
+      },
+      "1.5.40": {
+        "sha256": "6793f1ba51dd0454793b7b5f962c959faaede74697c0586884c45318994fcf03",
+        "url": "https://files.pythonhosted.org/packages/54/be/acde7690c21722f8a369aece87a7b2e20d90f78e80f4efd5195689f9f29c/netius-1.5.40.tar.gz"
+      },
+      "1.5.41": {
+        "sha256": "3de1397f63cd2edb5ee74ba0f3486955b03e919ac0f8428c6eb088ee0e2ceb89",
+        "url": "https://files.pythonhosted.org/packages/9c/f6/600828ac8152814f4355c390cb83c9da8e5663895095d3acb13387cb3584/netius-1.5.41.tar.gz"
+      },
+      "1.5.42": {
+        "sha256": "a29046f175346379c26b5e240797eeb34de37cf1e1b95cceb56e0b38f88574dd",
+        "url": "https://files.pythonhosted.org/packages/16/01/4c5ecd904c80f0c77c9a88b219f05da6f04a37f8e1ee4819e59bcf836267/netius-1.5.42.tar.gz"
+      },
+      "1.5.43": {
+        "sha256": "49da1c32593367db98df902b38a1bd760d9f42e88f922d3077155c7951573a1f",
+        "url": "https://files.pythonhosted.org/packages/74/41/f79f71e269da46b12922196a49983a545e603cfa00fe88759c019aaee92f/netius-1.5.43.tar.gz"
+      },
+      "1.5.44": {
+        "sha256": "92b6e2175ac6a12d401fdba5638c7321381d4f328b85ababe8252c1e13e130dd",
+        "url": "https://files.pythonhosted.org/packages/1c/b3/4dbab8a8cf67b0ddff924873504118af5dc671ee4623274bb03d5a56ea16/netius-1.5.44.tar.gz"
+      },
+      "1.5.45": {
+        "sha256": "7190906688bd297511191c774959e2e56d766be6b76658dd5f33d69f64c51049",
+        "url": "https://files.pythonhosted.org/packages/50/29/0ff8f178a1aead9151e837a53bdf9654ea2de11e6ddd6e4982b5bb7bdcd5/netius-1.5.45.tar.gz"
+      },
+      "1.5.46": {
+        "sha256": "daeb7e34b47b779b974144e4da53285954607f63c48f194ef25f0028649415c0",
+        "url": "https://files.pythonhosted.org/packages/b9/95/7b534fac6a302846967c03d9aaff017c6ff25d3dc53e99d5956b447e5e64/netius-1.5.46.tar.gz"
+      },
+      "1.5.47": {
+        "sha256": "23bf12c5cc747e327445c672383743257048d72de87d726b6997b4e6e071b066",
+        "url": "https://files.pythonhosted.org/packages/e1/e2/544c5631d2008fad324a2526cdaff06fb556f3c68fd85107a64f1f54fd40/netius-1.5.47.tar.gz"
+      },
+      "1.5.48": {
+        "sha256": "f8fb8c02daf0486457eb072854c74946c2fedd2d81c40a479eccd657609dfd52",
+        "url": "https://files.pythonhosted.org/packages/16/35/8fe6dde43c022d7511ae3ce3ae0cc5f2a35af94028462dbccceff2cdc621/netius-1.5.48.tar.gz"
+      },
+      "1.5.49": {
+        "sha256": "53503aeb5e52c6df39e29196bd83b2ad59233f8e1cc8b4b9e66e1b700cd1c926",
+        "url": "https://files.pythonhosted.org/packages/1c/04/022a687a16f8680021ec2eb81edc9eaf5042a550b75dca3859efbb0355cd/netius-1.5.49.tar.gz"
+      },
+      "1.5.5": {
+        "sha256": "932f48e6929e1d3f3a332a203eed585ed4d236c90c91bb09cb17cfbdf73b5e2f",
+        "url": "https://files.pythonhosted.org/packages/ab/7e/36f89ac830c2c1621a4cb01cb949e30b1f0d955cccd45965ae0e5d7d2778/netius-1.5.5.zip"
+      },
+      "1.5.50": {
+        "sha256": "44203d0072eaba7a1ac6c17a00bb6d11bff1ef6cd3112b46f95b511708540746",
+        "url": "https://files.pythonhosted.org/packages/14/fb/24fb0e803cdc28c6a6c8e391b9b0a516ab6c708b5b4504a9818927f9ef22/netius-1.5.50.tar.gz"
+      },
+      "1.5.51": {
+        "sha256": "54470f74942ab1a26b0f12b87f554b39a0cdc3f240078d2f7423d029b03d7144",
+        "url": "https://files.pythonhosted.org/packages/d8/43/229a9ca012cab933146e683be8c648ef3bf71189709a0cd6406e9b44e4fd/netius-1.5.51.tar.gz"
+      },
+      "1.5.52": {
+        "sha256": "9e3f35002b932509a1c0870ac606cfadebd6140632eacaafe54e6d70f254ca2f",
+        "url": "https://files.pythonhosted.org/packages/5f/ee/72cd73faa821b9d4a74853a1075d1756d6b5c8d399b5bcd483f53c7e26c1/netius-1.5.52.tar.gz"
+      },
+      "1.5.53": {
+        "sha256": "d423597d03df9ba04d17a59a854452697641ad8254dd30a4dd80304c4a03bfaf",
+        "url": "https://files.pythonhosted.org/packages/92/89/dc37cfba4b6d8dbb6c09443479ea2cdea0b0f97d9b7b84608e112311ba8c/netius-1.5.53.tar.gz"
+      },
+      "1.5.54": {
+        "sha256": "d7c97e1818c70b6eb60dcd0a36cfd6d3ec3f500800983424ba64de6cdd775eac",
+        "url": "https://files.pythonhosted.org/packages/28/a3/b2bc70eb1660a34604d9b65d7c305863d7e1ef12335006e23f4d28340fa1/netius-1.5.54.tar.gz"
+      },
+      "1.5.55": {
+        "sha256": "80b41bdd4d1cb7be4f6540cd2c77b0366775c14518c4a2046bb3bad4cbf0d903",
+        "url": "https://files.pythonhosted.org/packages/84/63/2b1b46bc3dbf092a1c99c3bfeef0fb205cce96d1e9d5a1c7a0c9cd6863c7/netius-1.5.55.tar.gz"
+      },
+      "1.5.56": {
+        "sha256": "c5fc5f42031b26054bfe9c724b0a43fb60aff7e737f235225fb762f7532ee70f",
+        "url": "https://files.pythonhosted.org/packages/35/47/a53f8a7a23b860b8ef28d0d179540870b74402e89f0d788f28553fa2aa50/netius-1.5.56.tar.gz"
+      },
+      "1.5.57": {
+        "sha256": "a293cb193072a7de079aed980c96bde0f2dab7657af0ef07d089351ac6df87bd",
+        "url": "https://files.pythonhosted.org/packages/c4/ec/6c9c95bb7a3d821b2ee256d1f52fec8097b1069e0ec038cd3d6cfe58ee6a/netius-1.5.57.tar.gz"
+      },
+      "1.5.58": {
+        "sha256": "17dfb4643493953db8a5262fba6803968247a2f5cffe87d9e503c767c9b2743c",
+        "url": "https://files.pythonhosted.org/packages/34/04/5abbeb72abe81acd7f670fe1cec6eb35a250b06130dc6b35dce0ec170dda/netius-1.5.58.tar.gz"
+      },
+      "1.5.59": {
+        "sha256": "290be649f0542378e796b76b859d9ab777caac84ad6ed472f1b51743eba5416a",
+        "url": "https://files.pythonhosted.org/packages/b0/ac/83ab95c625595aa5fd834f872fbb573396f2992a0c97ae051ebd6f054016/netius-1.5.59.tar.gz"
+      },
+      "1.5.6": {
+        "sha256": "ded1a3b9e770ac8a0e22d88f47d9826f6da1e79aa723962c55592689715e5c33",
+        "url": "https://files.pythonhosted.org/packages/21/1b/ea590986b3f4c5317b3284a61da1f80f0ae6ab3f792c95cbd66af94e1798/netius-1.5.6.zip"
+      },
+      "1.5.60": {
+        "sha256": "a0ee43c690b36624a96c49480ebe89c381bc6b41791b3784841efe0e5f3dbe77",
+        "url": "https://files.pythonhosted.org/packages/d0/4a/55be8609332244b2b8e95a59731e813ec809583d414158c76ff7cd1d47ab/netius-1.5.60.tar.gz"
+      },
+      "1.5.61": {
+        "sha256": "45f0f1c4bded9927fb3b12d05b1879c725c53106d45d8be935e7b440a26a5e53",
+        "url": "https://files.pythonhosted.org/packages/75/ad/cc1ba2cede9cb9ed9a4b3d1118f036e32b020e0fbee1d60a181ecc78a24a/netius-1.5.61.tar.gz"
+      },
+      "1.5.62": {
+        "sha256": "3dbb975e17d91300ef9d17136e2bb945c119c34e339048f5558afebb9641ff52",
+        "url": "https://files.pythonhosted.org/packages/94/7b/ff3543cbb0a956ecd146aac0ad8881cd8e47de492e7a403a2ef30492cfab/netius-1.5.62.tar.gz"
+      },
+      "1.5.63": {
+        "sha256": "27a619ca5b469bb6df7c791d5894e17b95683f25aca551bfe25c22f9ff8faa1e",
+        "url": "https://files.pythonhosted.org/packages/40/d0/b1f6243c0f9f17def7c406648f4ed391bdbcd7d926516b0c3e8f8f7c6998/netius-1.5.63.tar.gz"
+      },
+      "1.5.64": {
+        "sha256": "0550e39601e4b7690d941b272d730aee308181c236a99e794ef1f26512854148",
+        "url": "https://files.pythonhosted.org/packages/5f/01/faa20a6e54c95cd602c634ede07e140bddff0f1331bf0755451be8eb0ebd/netius-1.5.64.tar.gz"
+      },
+      "1.5.65": {
+        "sha256": "2934f8d33dd5a8ce4b0fa706e9c53c6b7eb2664f765b1c6b10a590447b387a96",
+        "url": "https://files.pythonhosted.org/packages/a4/9b/e8cd2ae46d8eaa96b102e4501adf3c52d51c7f53f37fdb9fdb77ef57dda1/netius-1.5.65.tar.gz"
+      },
+      "1.5.68": {
+        "sha256": "2e14f292a11a649c9052070226fe4ac6f1c597d24c1067e12856f236e2656877",
+        "url": "https://files.pythonhosted.org/packages/22/50/761fd6e635159bdeaec1bda694ebcc02a93aef6d1f7d7e1eace968c17732/netius-1.5.68.tar.gz"
+      },
+      "1.5.7": {
+        "sha256": "20f209ef4ac5e52bd9c0ad5888ea071e7821dfcc5001dbc74cb12a3077d16987",
+        "url": "https://files.pythonhosted.org/packages/0f/31/91ae5902717ec05fc0c60e37d8ac31516b265cf933a43c7e0bc8c4851cfd/netius-1.5.7.zip"
+      },
+      "1.5.8": {
+        "sha256": "f4c31e49d26a5a9b25d0130a443d6e15ecc7ab5a73eb1cbaf0ac16f476cf5eee",
+        "url": "https://files.pythonhosted.org/packages/6b/55/5e096a1194fe877adad80d922c5c2d81a35de2a307933040ba55e74e60ff/netius-1.5.8.zip"
+      },
+      "1.5.9": {
+        "sha256": "519ff74b16c514e6bc44a599ead9a9568d476853cd10d920fa4ec9497d76de1b",
+        "url": "https://files.pythonhosted.org/packages/83/3f/56dcf800a1d3a962a80b6891ad4652f5a0f439408bc05501a2ea8ec7f55e/netius-1.5.9.zip"
+      },
+      "1.6.0": {
+        "sha256": "128b16277cffdbfc75114fcf97668375fea6b78c114cd898ce13f55315383316",
+        "url": "https://files.pythonhosted.org/packages/4d/90/c31088e3ba5432726c01fd75ec4ff9d4334eb561c8c06d453adf944bd32c/netius-1.6.0.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "86d27ed33a4c495ee50596cb329216aaf29aaa1dc7065dd0327a8e83fc101710",
+        "url": "https://files.pythonhosted.org/packages/d3/92/301013a13e5ba024da8eda70e861fa0ba04288c1e7a062a41c27759b7f90/netius-1.6.1.tar.gz"
+      },
+      "1.6.10": {
+        "sha256": "6ee40f151be3c554f3e4f40e6c329ca062108b6e721962a97d2708dc2fb3bdc9",
+        "url": "https://files.pythonhosted.org/packages/81/29/89d45eb2e074de899aaeb9c18f70769ca2a613e9bf53db7df1c2f3dc3272/netius-1.6.10.tar.gz"
+      },
+      "1.6.11": {
+        "sha256": "3df0056141d53414fcf98102d6904aa37599168116056e8c3762e1dc39e3dd29",
+        "url": "https://files.pythonhosted.org/packages/f0/63/95e865f97c0d6b8e4852bd194b096135426fb25794616a7737d8f8f21ea5/netius-1.6.11.tar.gz"
+      },
+      "1.6.12": {
+        "sha256": "033d2af88a623a065eb81b88b20e6e20a93a141914c400cf9b50f97d77081e58",
+        "url": "https://files.pythonhosted.org/packages/a5/e7/19cc6392eb624f5812ea79119e1bea5a20b8c2c1809ad7ac639d59a3453b/netius-1.6.12.tar.gz"
+      },
+      "1.6.13": {
+        "sha256": "6f8c082a14caa6eb21cc19e1ec41b4d47d2691d98052cac542bf462920976cd9",
+        "url": "https://files.pythonhosted.org/packages/a6/81/32be9342b46a42a99206dd4c9a4e6de37e612549d345dcbb5b0ec6822e85/netius-1.6.13.tar.gz"
+      },
+      "1.6.14": {
+        "sha256": "d33493064099abc54b44233968168eae9968581d01d1c8e2323f26c60a19bf52",
+        "url": "https://files.pythonhosted.org/packages/a5/a6/f564bbe0aa5c202336af52ee9305732160571cc301e7a65fd33ad8f8511d/netius-1.6.14.tar.gz"
+      },
+      "1.6.15": {
+        "sha256": "d42b2ed853e5a8e23613eadb9dac8368beff889f1886120eae18571093b32a46",
+        "url": "https://files.pythonhosted.org/packages/03/ff/467d7aa00602fd06fc541418465eacf09e5ce6ed2db88cf35c48098a5909/netius-1.6.15.tar.gz"
+      },
+      "1.6.16": {
+        "sha256": "59b8e14af6e474d88e000ab3e9cd113ec1bf17988d3df85ee0df7eb49af24a0a",
+        "url": "https://files.pythonhosted.org/packages/c3/d0/61131c7b819a0cad1eeb7ef49dbd52610c54d37a7bf60d84b97675ffc07b/netius-1.6.16.tar.gz"
+      },
+      "1.6.17": {
+        "sha256": "49f97a3a3e7ad40059f9d1a2a5ee0f928f0428e187ff138ac01efa6444b02b1a",
+        "url": "https://files.pythonhosted.org/packages/f5/47/ecdd5167358eecf539921c3a78f9c616bffe2a890137a0d26daaca1d857a/netius-1.6.17.tar.gz"
+      },
+      "1.6.18": {
+        "sha256": "0956cc7966baf762d6d0b08c4de95fbc3e691e86277e662bd1e40ca443a533be",
+        "url": "https://files.pythonhosted.org/packages/0f/f5/6dfe53e9b807f08ec3e708d331cb8a85b01a3a3ec7e988ce9367ee51a8e1/netius-1.6.18.tar.gz"
+      },
+      "1.6.19": {
+        "sha256": "d8415b69fb66f602e0b5a12bf2f73b1862c08636dc007a5d5df0f99369baaf17",
+        "url": "https://files.pythonhosted.org/packages/9e/1e/1174af874830a8df4d2d03f543199a6296cd7ec451fc8510a9c570dbf538/netius-1.6.19.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "4ae378dd9a2f7e842c1f9ee3c52e6a940c3ef732ecc1e75700625da2b829cea3",
+        "url": "https://files.pythonhosted.org/packages/41/f3/ae2b7121ab7471ffae755f7f23fd8161e1790ee01cfd8ee73fbf764dfed5/netius-1.6.2.tar.gz"
+      },
+      "1.6.21": {
+        "sha256": "acc8a1b33a2ed8b30e0425f1c785ea6626e96a525f4bfd9540b8836c7061f839",
+        "url": "https://files.pythonhosted.org/packages/5d/a8/2bc67a93746b97d38a83c7065adcadeec0b8469edca565f25282bd3d7ac5/netius-1.6.21.tar.gz"
+      },
+      "1.6.22": {
+        "sha256": "4460df1567fa8c7fd3f2608ae5eb05d13778ce822d50d84adfcc76ca952eb729",
+        "url": "https://files.pythonhosted.org/packages/3a/eb/d7c71c9c617525f26f090a4f2d2cf5978c7eb947b232a9d6cc3e760c5a40/netius-1.6.22.tar.gz"
+      },
+      "1.6.23": {
+        "sha256": "b638d4ab9a84ba8d24d50141a097b842a2513355d1ebb930d7b216939369011e",
+        "url": "https://files.pythonhosted.org/packages/30/f5/0ba0067f7d6864f478d758c442337405d1d87f45609953b23b6ccf491dc0/netius-1.6.23.tar.gz"
+      },
+      "1.6.24": {
+        "sha256": "8fa72c15904ae6ff2c24bbc5aeb6796aa3b2c8b886b9c61e5992ca6d60f087d0",
+        "url": "https://files.pythonhosted.org/packages/55/18/2523a623cf14bd191a106801d420bd6a629386e7195709a7521c7414a271/netius-1.6.24.tar.gz"
+      },
+      "1.6.25": {
+        "sha256": "874a54b9f90bf3fda96b0c8c8069275f977e1ce989ec9cd4e9a5745438abc276",
+        "url": "https://files.pythonhosted.org/packages/33/64/3160a83e4a1a1c5043b34296e77c562de19c1a66c8c48a3b48e75d4875bf/netius-1.6.25.tar.gz"
+      },
+      "1.6.26": {
+        "sha256": "5aa7e7745fa0656ec5c8565b06da0787aba45c1602dd68ce937f4ef592065d8f",
+        "url": "https://files.pythonhosted.org/packages/5b/f2/33b11f9765262b7a6e4fb9fdcdc31b15f18e1505eb30422c25dbe0cc2e83/netius-1.6.26-py2.py3-none-any.whl"
+      },
+      "1.6.27": {
+        "sha256": "45c8ac88cd138456ed2d75b428383793e6bb771cc0a656af4d44c8867e14e857",
+        "url": "https://files.pythonhosted.org/packages/03/61/6a1b0685fb493066c0bbf0942b8549605fbfc8a5b9848af9514796c8c159/netius-1.6.27.tar.gz"
+      },
+      "1.6.28": {
+        "sha256": "ab40c52241ac2032106092cd9953fbc84e284415815ba8b2a148bd4b43581990",
+        "url": "https://files.pythonhosted.org/packages/4c/4a/f36bc2fad113a3f46f7b4bf1c2340515186e99abd99b554d352c0e409774/netius-1.6.28.tar.gz"
+      },
+      "1.6.29": {
+        "sha256": "fc52ef86d1673265f79ddddd2e92de1d76c49bafe984994de4efde7951e73e7a",
+        "url": "https://files.pythonhosted.org/packages/ea/8b/5de5611e89e73fb02d1105eb39b79e53316c85bcc8174057c05937cc506e/netius-1.6.29.tar.gz"
+      },
+      "1.6.3": {
+        "sha256": "99c2a1d68fa7ae2c5cd93a550bdbea40b97daa0f236a9fe210f15e8cef165b37",
+        "url": "https://files.pythonhosted.org/packages/b8/aa/7f00331738f365d1df818215ffc18261d2fd266ea36016b8a8202a2ebe84/netius-1.6.3.tar.gz"
+      },
+      "1.6.30": {
+        "sha256": "f65c553baee1ecd493cc91448e4a92062ce375e038f314d60d93ae1b21179476",
+        "url": "https://files.pythonhosted.org/packages/7d/6f/cfb4885f7e4ead6e43a43428ef8caf8a648800d4526b0993b4e909d7167f/netius-1.6.30.tar.gz"
+      },
+      "1.6.31": {
+        "sha256": "764557f1d412bbdda5e6908cda7ffaf5f9461a80868643a6c628c6c996cb508a",
+        "url": "https://files.pythonhosted.org/packages/b9/8b/82253c54c299220df91e4de5b61f5ebaaa61c7610fd84ce8cad8a2080258/netius-1.6.31.tar.gz"
+      },
+      "1.6.32": {
+        "sha256": "1bf1f8ab93d540bbec2d049f2143237579f3924020b3e55653d740d359f14063",
+        "url": "https://files.pythonhosted.org/packages/39/95/f50b283c4d7ce98cd79430c6d2942596e838af6e0af25f29fe20e0937119/netius-1.6.32.tar.gz"
+      },
+      "1.6.33": {
+        "sha256": "254d95fca985eae39bd9dbce26677cfe2806511f301f2d0c6bf2d0f2c624bd77",
+        "url": "https://files.pythonhosted.org/packages/85/4b/b2807c41fc4ab35a6da6c95531d7dd8e4f98580f362b5466b9a197003325/netius-1.6.33.tar.gz"
+      },
+      "1.6.34": {
+        "sha256": "e00c180c2466370f3d945fd5c4863fa48005aaf74445723a26c08fcb6a205fe5",
+        "url": "https://files.pythonhosted.org/packages/66/c8/4b13b81863653a0ffb11188a3a027bce01f79ee616e48d261078316890eb/netius-1.6.34.tar.gz"
+      },
+      "1.6.35": {
+        "sha256": "afabb66cefdd09b60d187cb7011ceee02fc972be10d5fe59b1cbc016cb438e09",
+        "url": "https://files.pythonhosted.org/packages/13/97/ba511035c79ada6be5a9dc9061c739ed45415e0ce5596b1b9abdee367a70/netius-1.6.35.tar.gz"
+      },
+      "1.6.36": {
+        "sha256": "db1ca3b82d44cf378fb5fa5ce87c2087af653f9bcc9d103c790c75fc94a3a45d",
+        "url": "https://files.pythonhosted.org/packages/96/3f/2f1853d8ba2eeb483fc5ed1668f375ad80a580f9f76d5a877c5a47aea27d/netius-1.6.36.tar.gz"
+      },
+      "1.6.37": {
+        "sha256": "375c7fc4a99140af721082fb7e0cc19aa30196580bbbabc307dd6cda62375254",
+        "url": "https://files.pythonhosted.org/packages/77/f7/5ac4b446da203efeedfcd28714ad321164b96458f95cea14a795a3f8a171/netius-1.6.37-py2.py3-none-any.whl"
+      },
+      "1.6.38": {
+        "sha256": "07702e9cc10feea5f594aa68479bd56898a1bfeb7052b2229f2ebe56af152e2d",
+        "url": "https://files.pythonhosted.org/packages/0e/ce/670ee565ba7283a502ed99eef6458a384e1af3adfe8ce9ad4a9a5d5511f3/netius-1.6.38.tar.gz"
+      },
+      "1.6.39": {
+        "sha256": "e7b9d132d31fe7681980ba0b28579aa12a178a150265f53857eb8ee2839d0772",
+        "url": "https://files.pythonhosted.org/packages/1a/ec/7708432c798d313265f17deb39230366ed7191cef2770d99d59cab6897b8/netius-1.6.39.tar.gz"
+      },
+      "1.6.4": {
+        "sha256": "af096625b01967cb0f02d9dfba7f0d279fae04ce67ffb388ac9a2468461be200",
+        "url": "https://files.pythonhosted.org/packages/83/ca/2a43363ca4d764a124629024fe9ad33dad225d5284d53be4136c105ba8f1/netius-1.6.4.tar.gz"
+      },
+      "1.6.40": {
+        "sha256": "7bb9921c1678d53b528e259ab1220cd7b86efa7f3c71d43ae783df427d1307eb",
+        "url": "https://files.pythonhosted.org/packages/e2/92/09ffc88ee59983660a5d19f5cb80149a2e27947f275937d87fc109b0d45e/netius-1.6.40.tar.gz"
+      },
+      "1.6.41": {
+        "sha256": "c52b189e089af648c95992a884cbac7afa0ac634a0d29d28f516fe13cea29992",
+        "url": "https://files.pythonhosted.org/packages/26/fa/0b626c1cb80011b0f636ff448a6aea805f3b48b3c3fa753cef71552ac653/netius-1.6.41.tar.gz"
+      },
+      "1.6.42": {
+        "sha256": "9dbac1f60ae31e9f5034490c1b78dd4d139eb24ada4efa2066e04de0cadd4a1c",
+        "url": "https://files.pythonhosted.org/packages/77/b9/f3119afdc3fed88943dbd71389c8c283dc62d66857c289abe42b8a9e4f66/netius-1.6.42.tar.gz"
+      },
+      "1.6.43": {
+        "sha256": "6acd439e6998bad26f59179ad41e88e929b8028863a7ffc63c564f7e0be08924",
+        "url": "https://files.pythonhosted.org/packages/5d/f0/e1d03a5dd066b5176093c5020442fc4100e73f7d7b01ca5178e81989d065/netius-1.6.43-py2.py3-none-any.whl"
+      },
+      "1.6.44": {
+        "sha256": "514a9bdfa9aa4b6ad305b8f0a6a0219373abf0fbc92032aa9f879a80e99de120",
+        "url": "https://files.pythonhosted.org/packages/0e/92/36ea9bce985bf7dec52ec6f8d6bb7f5d265eb7fbabe20cee5db101378d11/netius-1.6.44.tar.gz"
+      },
+      "1.6.45": {
+        "sha256": "436dc10d20e14db4bfd241ae3f5e0ce63f06061d9879f710ea9a1cc43d22da2f",
+        "url": "https://files.pythonhosted.org/packages/70/b0/5705d2ed94c279fdb2a8e1fe7ad015d265b2baa17b94cade779e5814ac5c/netius-1.6.45.tar.gz"
+      },
+      "1.6.46": {
+        "sha256": "1eccbf6a803ad59d1fc6b30a2ce012562fa89aa59724d9a5444bbe956d036542",
+        "url": "https://files.pythonhosted.org/packages/83/00/13bbb65c60295829227000c0378d9ba52b4e7338e26be59fb6b357cd0cb7/netius-1.6.46.tar.gz"
+      },
+      "1.6.47": {
+        "sha256": "cfff43d9a1db3037b792bfe5c16a215240fca48532184acb580615ad67e29232",
+        "url": "https://files.pythonhosted.org/packages/a4/04/a7867ba7494ad0110b998689d1dde06081d655e80dc80873272c4a2fec4b/netius-1.6.47.tar.gz"
+      },
+      "1.6.48": {
+        "sha256": "705c89d2616a16e2fe61063a26c853254348c325a359a0542d863797b2dc23b4",
+        "url": "https://files.pythonhosted.org/packages/0e/9c/072f6bd3f50f17dda391f6ee33a3ce25d03dd9acb274a47f291b270d13bd/netius-1.6.48-py2.py3-none-any.whl"
+      },
+      "1.6.49": {
+        "sha256": "87c665d1284e9f1a0555988902926bd820c971c9eadfbb54ae4c971da9609dde",
+        "url": "https://files.pythonhosted.org/packages/e2/51/9dcc5eef62ca29b262b4aa47f18921de8d15489ec29cf9b051b7d93bcc65/netius-1.6.49.tar.gz"
+      },
+      "1.6.5": {
+        "sha256": "4030b2dbbe9c1cdad303242789460d86a76b3bd205ae2f3b7d10ea1a1d4ddb18",
+        "url": "https://files.pythonhosted.org/packages/a0/05/717597499889cd0bd0fac6eac9960abfcc11e7bcfc5e11f648bae29c57ed/netius-1.6.5.tar.gz"
+      },
+      "1.6.50": {
+        "sha256": "583529647d14bf323fb08a3eaa310bbb6dd448e9ed47071046dffa0c151c7537",
+        "url": "https://files.pythonhosted.org/packages/f6/b4/027d501d488a927bbeef26e4a7480de4a69986fbee9085924c4d5a3847f6/netius-1.6.50-py2.py3-none-any.whl"
+      },
+      "1.6.51": {
+        "sha256": "80a26581775cd5affe3356b5c5a1a148cc080a18cc696807d6eb74cc2b93718f",
+        "url": "https://files.pythonhosted.org/packages/59/d2/d88880ba524d2b288063ef92114ddf2c38c542468e8cf5748b6e11757abd/netius-1.6.51.tar.gz"
+      },
+      "1.6.52": {
+        "sha256": "afe01d6e6ba5f5229a956e3b0fff42ba21b20041cdac91d751fd735d97d9b383",
+        "url": "https://files.pythonhosted.org/packages/ef/ef/00161346770f7908f3a4a82a8b2b5f9110ef7989258c650d4ed2c3e7cf01/netius-1.6.52.tar.gz"
+      },
+      "1.6.53": {
+        "sha256": "082d57f9abd42a7772cd9f2f2696e3dc6899166d34fb981fa346659b60733fc7",
+        "url": "https://files.pythonhosted.org/packages/e0/08/5220de5235118042ac7d38745b5cc42d9636f9d6d90bd797cb0c369ae825/netius-1.6.53.tar.gz"
+      },
+      "1.6.54": {
+        "sha256": "dc8179c3e84fc298697cacbead7e127c79f99ee9ae0d26a2a4640675cd4c1679",
+        "url": "https://files.pythonhosted.org/packages/1a/8d/56ffd204603a60fbf25d19f26f8e110bd721c833071bbbe6a581e7547d1e/netius-1.6.54.tar.gz"
+      },
+      "1.6.6": {
+        "sha256": "73e69aa901fd5eca2a1f3de9eb6fd5f27a4143a6a0e63d2d4913f53716e42c2b",
+        "url": "https://files.pythonhosted.org/packages/0b/b3/ee5707882e0443aab370a2afe3fd225b1d6943ec2a73361e7186a7d3435d/netius-1.6.6.tar.gz"
+      },
+      "1.6.7": {
+        "sha256": "cc0135b215511195859f8ebbf11fe6ed18626ebc34a0da64327124d1648dccaf",
+        "url": "https://files.pythonhosted.org/packages/fd/b6/368fb9407dfb62a739ae5e166e3c7e51291383b60adb09355203a11d4456/netius-1.6.7.tar.gz"
+      },
+      "1.6.8": {
+        "sha256": "f060728a2778c29247b1bd0ae2624e04b6c690efc933afd4c02e476d174f8bdf",
+        "url": "https://files.pythonhosted.org/packages/4f/5b/911d28a391d9882d0f5be4f5217c8960f34d2ef1e34e434d27f5dff30e16/netius-1.6.8.tar.gz"
+      },
+      "1.6.9": {
+        "sha256": "12903bc0a720bc548d3223c840f1cb0c2eddd95e5f06b0089d7c48f63af87dc8",
+        "url": "https://files.pythonhosted.org/packages/35/dc/75f27b8c876acd7513ef257db39643bf79cf8105cdd9d72ea624316c8e41/netius-1.6.9.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "f3ce6e6eff39e4b80e0d68dbf535d5f94af1868aad9b316c826ba97606719f37",
+        "url": "https://files.pythonhosted.org/packages/f7/f9/6a0c24ff6e3734799a39e229b4eb3d8e256967bee53c916e1442309ecd27/netius-1.7.0.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "6de93fdd1b7fecc12c60fe695d2567be9db029d34f6efb1970837297053ddc01",
+        "url": "https://files.pythonhosted.org/packages/29/01/7b65836aa4b93a811d91bac80b9c4761260c97b3a4c4750726dc8716834e/netius-1.7.1-py2.py3-none-any.whl"
+      }
+    }
+  ]
+}

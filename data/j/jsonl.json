@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.6"
+  ],
+  "meta": {
+    "description": "JSON decoding to mutable or immutable objects allowing attribute access",
+    "homepage": "https://bitbucket.org/sys-git/jsonl",
+    "license": "GNU General Public License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "5928881949835cba09dcf3fec696765333794910a0b51c1ecdae49bb3c986be4",
+        "url": "https://files.pythonhosted.org/packages/56/de/cb0d751c80a0be5768ec4ef35c06c9fc5cf63e79343737941a99a6178b39/jsonl-0.1.tar.gz"
+      },
+      "1.0": {
+        "sha256": "b82a13944aefbd8dcc2e312ed28398f001bf993e9d98f0b083fec75288a7727c",
+        "url": "https://files.pythonhosted.org/packages/0a/37/6c33b5ca973deb926b7588b21f96227a25dfb29132030f1aab50dd2a858c/jsonl-1.0.tar.gz"
+      },
+      "1.3": {
+        "sha256": "7a53c855366ac641826011c48d036ebf3e677ddc9c6d1b8de827b03cdf8c66c3",
+        "url": "https://files.pythonhosted.org/packages/73/5c/04b00a89c48093155c39d9f4de00552dcd91be8114b3ec1e689c9612fd4c/jsonl-1.3.tar.gz"
+      },
+      "1.6": {
+        "sha256": "c06c069cadfd437ed537afd957409bf03839309d9b15211424348e531219e081",
+        "url": "https://files.pythonhosted.org/packages/4f/5d/77711390d8de7591dae9f333131b2b87a55fb21bcbcc784c5bd86fb1e75f/jsonl-1.6.tar.gz"
+      }
+    }
+  ]
+}

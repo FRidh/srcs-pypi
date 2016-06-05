@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Run your local python AWS Lambda locally and deploy to S3",
+    "homepage": "https://github.com/PitchBook/pylambda",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "54ca55238a5928c81d74ea43afcc658e931a73ef0f714768d69af1728714c20a",
+        "url": "https://files.pythonhosted.org/packages/55/fd/781dff4880250b441364757f60444480948ea7b2a2c3c8fdfa231ed0972d/pylambda-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "2de8a7016ac521dc84572067653c072c7b3cee8f48b00959684d4fdca186bcda",
+        "url": "https://files.pythonhosted.org/packages/0c/70/0644ede7435c66deb13ff0d254137bcc2bb9bb9b87efe803d80568bacf93/pylambda-0.1.1-py2.py3-none-any.whl"
+      },
+      "0.2.1": {
+        "sha256": "a9abd1113cb83a8267b115127c57bd3904843a71f4a121ad5be660af8d6157c5",
+        "url": "https://files.pythonhosted.org/packages/ce/2d/e5d377c7f65d529bc2b9bc3f0584c484104668ba9610e7ee76e985eb7142/pylambda-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

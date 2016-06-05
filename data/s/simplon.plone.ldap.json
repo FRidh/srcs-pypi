@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "LDAP control panel for Plone 3",
+    "homepage": "http://code.simplon.biz/svn/zope/simplon.plone.ldap",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "9fdc448a2842f046f1f45ac47faa92fdeceee15e29f5d23365c4ffd9f5523f4f",
+        "url": "https://files.pythonhosted.org/packages/66/47/f888eb591b1b341fab0e06649f9ee99044a50b410b3ccde5e03a678cebbc/simplon.plone.ldap-1.0.tar.gz"
+      },
+      "1.0b1": {
+        "sha256": "eb509014a1d14d5b88c8754464da530eecfa7028b7985306fc39e9bf6f0b350a",
+        "url": "https://files.pythonhosted.org/packages/ec/65/7c93b60f1c471e07e61c56f3a9db2f4dadd92e0f008c2d36409684649547/simplon.plone.ldap-1.0b1.tar.gz"
+      },
+      "1.0rc1": {
+        "sha256": "2164ed30ed3c808960763f3397a6197e56a3853a81f24ad18bf4f5fd57130978",
+        "url": "https://files.pythonhosted.org/packages/25/3e/fcc0285bdaf9d64bac17a0657f93f2066182217c52a90ec50e4ad42820bf/simplon.plone.ldap-1.0rc1.tar.gz"
+      },
+      "1.0rc2": {
+        "sha256": "8f6937794350ffdbf9072029f65f4ca6f56902cde772da067f467c70de8bf41d",
+        "url": "https://files.pythonhosted.org/packages/30/10/59a32cd9f393ce32d52dc378a645ea4d681550a25237be2aa5c2eb36fb04/simplon.plone.ldap-1.0rc2.tar.gz"
+      },
+      "1.0rc3": {
+        "sha256": "edc4fcc4c09c8e20a5acfeb8f0a780c75b18ba9ffc234a4dff168bf9c21ef018",
+        "url": "https://files.pythonhosted.org/packages/dd/72/58d6eccd09d58decea67cca5a9d831f213370a9c9558d9460fef42bb330c/simplon.plone.ldap-1.0rc3.tar.gz"
+      }
+    }
+  ]
+}

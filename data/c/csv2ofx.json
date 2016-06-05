@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.18.2"
+  ],
+  "meta": {
+    "description": "converts a csv file of transactions to an ofx or qif file",
+    "homepage": "https://github.com/reubano/csv2ofx",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.18.1": {
+        "sha256": "35f40f42be1e8131b0a2124f4015ff5757de8f49b0389f8dda3ed1b38d0148cd",
+        "url": "https://files.pythonhosted.org/packages/8b/f0/6d87c67df29b4ee6ac1490e06978cd9778f797e337a992c86ba79156acb6/csv2ofx-0.18.1-py2.py3-none-any.whl"
+      },
+      "0.18.2": {
+        "sha256": "86a7802f4a6c60c9c1cf196bbd2ac3356c6e6ff50bd222d208de866eb1ad278e",
+        "url": "https://files.pythonhosted.org/packages/15/e3/444e8e07edd0a73c089f46ef94daa6ab56abb8394f71e94c26fd4ad66f2a/csv2ofx-0.18.2-py27-none-any.whl"
+      }
+    }
+  ]
+}

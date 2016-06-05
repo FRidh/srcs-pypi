@@ -1,0 +1,90 @@
+{
+  "latest_version": [
+    "1.7.9"
+  ],
+  "meta": {
+    "description": "PyContracts is a Python package that allows to declare constraints on function parameters and return values. Contracts can be specified using Python3 annotations, in a decorator, or inside a docstring :type: and :rtype: tags. PyContracts supports a basic type system, variables binding, arithmetic constraints, and has several specialized contracts (notably for Numpy arrays), as well as an extension API",
+    "homepage": "http://andreacensi.github.com/contracts/",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "1.2.0": {
+        "sha256": "9eaf3b31a452e18f36250bd74087b397f80d849ca0988eaf261d4c532a13634f",
+        "url": "https://files.pythonhosted.org/packages/d7/f2/8c19b3f1eafb7e8ac60b08e5684ca1cbb15cfe59a87170e1e44129594da7/PyContracts-1.2.0.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "be92757385a5ac8b0ae14df321be9c56ef6490f7541cc68bd40ae388bd011db0",
+        "url": "https://files.pythonhosted.org/packages/1f/f2/eceb914fe71ef253ee1d21ee7e2558f6e92f0e89a0f6185ad6215961b5a7/PyContracts-1.4.0.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "8ff8278dfb214e4861ab454f87104430acaaa1341092368254595ebb5250cd04",
+        "url": "https://files.pythonhosted.org/packages/85/3f/a074c09fad15365958edb752dea69b30cb5c9aead33993354c8649af7bd1/PyContracts-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "22858100fbd9e11e9b6bded66bf154d64ce4bf68f8991dde969db0467907a406",
+        "url": "https://files.pythonhosted.org/packages/93/1e/268de53e3d58aaf3578d782be1178896d65d0a9b1e3769ce848ce47a357a/PyContracts-1.5.1.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "1afc5518e3387eae524a083d82176b44c2d261fae86165f005e0d5035ec563dc",
+        "url": "https://files.pythonhosted.org/packages/62/85/226670adaf9a32dac3dc1335de1c792b417db8d9b339da5338ed089fafba/PyContracts-1.6.0.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "883ce5c1b4faf4debd0dab45b4a5ad90febc40c955af2138ef85b246d69e1103",
+        "url": "https://files.pythonhosted.org/packages/bd/54/001602086e154e66114138c5682a2c0f2224e56090be822417f7e64b8bb1/PyContracts-1.6.2.tar.gz"
+      },
+      "1.6.3": {
+        "sha256": "da1a8a195b23812aabd3e8cb4833a202aba920d465cb27ac12847cbd3db3b8ea",
+        "url": "https://files.pythonhosted.org/packages/54/3e/532eadd1ef333627da1c65176e1fda94973b3eb9a02af45792c1594862dd/PyContracts-1.6.3.tar.gz"
+      },
+      "1.6.4": {
+        "sha256": "bea9bf9cacf9aeb8f3834d6adadfddd3a25cab55ca36e817098c05478dd09be2",
+        "url": "https://files.pythonhosted.org/packages/e7/c8/e575213ea8285bff946947b281476db5b57d8de497adabf32b765e31d6f6/PyContracts-1.6.4.tar.gz"
+      },
+      "1.6.5": {
+        "sha256": "89524d452169340b70b6523f9fa44e92f38da0862e12c34d256134ec4f653cf3",
+        "url": "https://files.pythonhosted.org/packages/fb/82/3c326006cc12bff7d15e6aac1aed655e27183c7a8bd0d0d0e947423a4ab0/PyContracts-1.6.5.tar.gz"
+      },
+      "1.6.6": {
+        "sha256": "215786f1f69b49ca7cb325610f8a2c5e098bf72b630ee17ff502166c01507b61",
+        "url": "https://files.pythonhosted.org/packages/7b/81/37eae7d033abc93721e8f4d5274bc38c25888cd2553a453ad02b42534a44/PyContracts-1.6.6.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "d54770ac3d49d852a520ac3a801a1918ce7dd6bd24274fdef95c821f07ab7cd1",
+        "url": "https://files.pythonhosted.org/packages/08/37/7ae29493330bd16049dac60c6df3cb73bd216edb1c8157a8a4600ba1f864/PyContracts-1.7.0.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "0db800060e7ba401d6b2d029981224163791ebd9d6c916ed25e3569a81ed7fcb",
+        "url": "https://files.pythonhosted.org/packages/73/fb/7f9c4a733e07c8d2cf93ac3327e2c29fa7e977a987492274ef9879a197d9/PyContracts-1.7.1.tar.gz"
+      },
+      "1.7.2": {
+        "sha256": "96561c1222545c491628290fa4960b2cbdac495b2c768f497d88fe393278212e",
+        "url": "https://files.pythonhosted.org/packages/65/b0/383b787ac44c9c9b55d3e686fd0c9269d129217a1f4c49d3606803721588/PyContracts-1.7.2.tar.gz"
+      },
+      "1.7.3": {
+        "sha256": "5aaacdf7468e1355a24899fa0671f9cfcf7795a100499c35dcdce0dbc410e4af",
+        "url": "https://files.pythonhosted.org/packages/71/25/24f1a237d03f609b7093c7fced9ac0f872af296f38a3be0201f398251783/PyContracts-1.7.3.tar.gz"
+      },
+      "1.7.4": {
+        "sha256": "ee85cc22347f6a98b1aea145cf0a8eeb9bbb7fee551f6c3778ce43180015fab6",
+        "url": "https://files.pythonhosted.org/packages/7b/f2/d0c59a3f4152bc7fe0e9e33978d79d4264cb5a39ca30af2f14ed930d7217/PyContracts-1.7.4.tar.gz"
+      },
+      "1.7.6": {
+        "sha256": "94814b376b168483edeee33fdf1a04d892065d0bdfe0638d281c285d1f3e42bf",
+        "url": "https://files.pythonhosted.org/packages/6b/b0/3d2c414756545220e504e50b8a6e0295d91dc619d830fd117c7aed29cd9e/PyContracts-1.7.6.tar.gz"
+      },
+      "1.7.7": {
+        "sha256": "56ff077be2bd4f55bc5d75c4f0110adc23735b000d0b6d3c0a41e6d00b69c672",
+        "url": "https://files.pythonhosted.org/packages/15/d7/289130e3b4766d8389db55b223371eda7461e0d22a6a6ef89f2f67cbebc2/PyContracts-1.7.7.tar.gz"
+      },
+      "1.7.8": {
+        "sha256": "c7a6f49d509cb3a4c17386a311d25d229d5fa73062650ef9538c47846937b388",
+        "url": "https://files.pythonhosted.org/packages/7b/8e/85368c286ec0233998eb085bf20441ca013698ee1253533ae55cbf389a0f/PyContracts-1.7.8.tar.gz"
+      },
+      "1.7.9": {
+        "sha256": "0ebb8c434700d1a990bd4f53dbbf1caec297b3a783c9af26de052104fe4dac65",
+        "url": "https://files.pythonhosted.org/packages/5e/d3/e80a539a45f6c8b58e9ec9ff69abc344399103388d56476b1654b0f86259/PyContracts-1.7.9.tar.gz"
+      }
+    }
+  ]
+}

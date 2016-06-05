@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0rc2"
+  ],
+  "meta": {
+    "description": "Hook and extension to spellcheck Mercurial commit messages",
+    "homepage": "http://bitbucket.org/ilowe/hgspellcheck",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0rc1": {
+        "sha256": "eae07953f24d3b878a31b7dab6145351aae9aa19270e02ffa5131e25bfe8a75e",
+        "url": "https://files.pythonhosted.org/packages/b3/9b/0ab70f47989d28d36f7c14fb5f3ab646d55c66b30942d587760f10cebffb/hgspellcheck-1.0rc1.tar.gz"
+      },
+      "1.0rc2": {
+        "sha256": "86b8c48d4099b0469297647c25c7a2c14a236cee3becd68c4193aeefed24a82a",
+        "url": "https://files.pythonhosted.org/packages/d6/b2/c6bd4b9001f56a708916ed7929565e2dd4ffece04c41ba43a818c3a19318/hgspellcheck-1.0rc2.tar.gz"
+      }
+    }
+  ]
+}

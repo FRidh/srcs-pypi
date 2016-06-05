@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.9.2"
+  ],
+  "meta": {
+    "description": "A Python3 wrapper for the MiniZinc tool pipeline",
+    "homepage": "https://github.com/paolodragone/PyMzn",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "85c3fd243e3ae3e8e39acf788c3fe3923fffcf712ff039376383b11218b65f49",
+        "url": "https://files.pythonhosted.org/packages/d0/c2/64c72d2780679a80f51207ad0747ba39f7532715525c17d0248ddea6c925/pymzn-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "a170dfde30a4d780b62392e2d5eb156674e2ffa3eb9cb773509d47af035682e4",
+        "url": "https://files.pythonhosted.org/packages/dd/23/cc0819af4e7630f41860adba902252237b9f6495b0559100c3975e0da646/pymzn-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "d32eacd4d389ce599f42306b902c0bedc7068f80a41f5c9a2eb457c9418aa102",
+        "url": "https://files.pythonhosted.org/packages/59/2c/9ba3ed4e272f6611164b7e5c140f2aa2e5e9a84b313dc9398080387c290f/pymzn-0.9.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Keeps your secrets safe in S3",
+    "homepage": "http://github.com/InnovativeTravel/s3-keyring"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "ba63ce4a2278e2b810eb52ebb9257c1fb241bd6176b85de8aaa0385a1a4a010d",
+        "url": "https://files.pythonhosted.org/packages/b0/1b/5f9a38ba90d1b8c170f5fb50b02e9fee9f10975c938be2aaefdf90008732/s3keyring-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "89256b93d2e91bb172efd97e6de824401cc3d8684bdb88229a922f8a0d649461",
+        "url": "https://files.pythonhosted.org/packages/31/2a/28a8d465e53b8935c3c129c0aa22f8e4c03c91efaaa7224e296275ec3264/s3keyring-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "80d33aa5701f500c01dc8c9a6f35e63315fad45da5ef4d706588c7017f2ffbbf",
+        "url": "https://files.pythonhosted.org/packages/29/72/d63c9f1205bf27048ab75cbc5fcc835cf1418ef663b69e2aa5661888dac6/s3keyring-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "f4668dd85afe0810d3e1066c1d6174ad1a22affec27ab6afe46cec6670775d83",
+        "url": "https://files.pythonhosted.org/packages/05/28/97c46c9a363eb06ace3c484db9a7beb0f6245f3254d9f358d4566d8c0289/s3keyring-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "3a336f72bd60dc96b36a18fe369440f034a9da7b8ef6adaa78e28e5dace0d7ec",
+        "url": "https://files.pythonhosted.org/packages/e8/ab/d9311b84952b333bd165e8d73f387b4cb602d8fb651a4492cabcffa35acc/s3keyring-0.6.tar.gz"
+      }
+    }
+  ]
+}

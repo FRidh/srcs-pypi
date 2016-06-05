@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "A rom hacking tool for the analysis of .nes rom images",
+    "homepage": "https://github.com/prophittcorey/nesi"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "553003c8df259c9db412777fa0dbf8e2fd084cbd4cd725f334e3112b9f255cda",
+        "url": "https://files.pythonhosted.org/packages/4f/93/d5cb56bea0eb804dc281168f1647b7ed84f2ec7b200dab5e5cf18bb9d098/nesi-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "6bcd7e483a21b673ff41242f1e20171a720088fa95404532764f9c899f12c0d7",
+        "url": "https://files.pythonhosted.org/packages/c7/a0/cc448adbf9e987238c89e64b2268a77c2dfefd535e68149c0547e8fc50d6/nesi-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "638de27af6f9cd23b1302df1829f77d70284570b83a15da2104dd445c97f5928",
+        "url": "https://files.pythonhosted.org/packages/a5/2d/28d598eabb883408221a78ac3cb355cf4ca36743cb5d2180320758057307/nesi-1.2.tar.gz"
+      }
+    }
+  ]
+}

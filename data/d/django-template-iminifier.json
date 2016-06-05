@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Python package, providing simple django template loader. It reduces HTML output in templates by stripping out whitespace characters between HTML and django template tags. Originally forked from  iRynek",
+    "homepage": "https://github.com/bhappyz/django-template-iminifier",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.1": {
+        "sha256": "2f99550ffaf41b339e28280cff7f28fe2914ff114c508a38c89b41b4bfd5c1bb",
+        "url": "https://files.pythonhosted.org/packages/39/c6/ae42b90edd314ee8d7c254608dd5abeee44302155d367440666e5b4f9f7c/django-template-iminifier-1.1.tar.gz"
+      }
+    }
+  ]
+}

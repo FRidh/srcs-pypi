@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.4.5"
+  ],
+  "meta": {
+    "description": "Generates an Eclipse Pydev configuration file with path dependencies for an egg",
+    "homepage": "http://svn.plone.org/svn/collective/pb.recipes.pydev/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "9b5bbff97a457503976466e90f77e9cb4b648b61fc37e5079aea6299d8bbd379",
+        "url": "https://files.pythonhosted.org/packages/8f/46/8dc36a752afb4eaed86055485794c95ebb3e4fbd6cd13b6a7d63592f17c0/pb.recipes.pydev-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "04732d7162e97381edca62fb964ce77d08c79927e7f7c78bafeb557fa0b3ff36",
+        "url": "https://files.pythonhosted.org/packages/1d/4f/b26d8a31c23a60d73dc1eb496d28d7592a9fab011b6e2ea7349bd5344cab/pb.recipes.pydev-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "d3d9ef785520b3677ff1075acdf928dfd582b7d5bc143d992075b9c77ee3f581",
+        "url": "https://files.pythonhosted.org/packages/45/a1/fb3cadf98df7ff04f98b7f4599ea55ce027050f9df85801ea1877304b5c0/pb.recipes.pydev-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "887836fe2ac362af4a596179819442b2f352cd5e06e197431f4d99259b838180",
+        "url": "https://files.pythonhosted.org/packages/53/fc/53b2ce4ffb23d75307e9d9015c7a330f6790f61a342520abfe33c36e59c8/pb.recipes.pydev-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "6b625c2f74af021daa2d2611bc6e8c60cab2102cc05f6831538087c4c9a03ca3",
+        "url": "https://files.pythonhosted.org/packages/36/91/fb715a66ec30a3032a85df8bdb3908b3230b07da81cb9e0d8b17946c2ab5/pb.recipes.pydev-0.4.3.tar.gz"
+      },
+      "0.4.4": {
+        "sha256": "632a69a8aff157a42073f42ddc67f33d2792fa0474534892cc70715cf1e8f43c",
+        "url": "https://files.pythonhosted.org/packages/71/66/301b7f2a639993e17c5ce7dbb9cb6b6daab0bd6319b5f54cd67a156eacc6/pb.recipes.pydev-0.4.4.tar.gz"
+      },
+      "0.4.5": {
+        "sha256": "e511e1b8b6f8036584e2f285f41355f294d5941585e2aacf1412dcb3b77cf4e6",
+        "url": "https://files.pythonhosted.org/packages/b2/0d/8b64b7a0498be4a474be7e13ded0b99a725a756b02eed9fddb9ca695420e/pb.recipes.pydev-0.4.5.tar.gz"
+      }
+    }
+  ]
+}

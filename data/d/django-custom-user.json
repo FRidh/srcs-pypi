@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Custom user model for Django >= 1.5 with the same behaviour as Django's default User but with email instead of username",
+    "homepage": "https://github.com/jcugat/django-custom-user",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "dc4462f363ec56b07959cd781a119e543f3c22c28b7010c75898140aca1a547a",
+        "url": "https://files.pythonhosted.org/packages/c5/de/239a38d70e0a2bfe429838e1dad20812afed24f2a8563049c17488e26dc4/django-custom-user-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "a6dd78582abfdeeaa015772b8d13af300f0ae3804fa9209ccf0ffc83724ea137",
+        "url": "https://files.pythonhosted.org/packages/67/2f/692c075a968ec8a62067de4b570efcf994b234fbd69f1cebdea59a836b8e/django-custom-user-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "f42091445729229134b2b00e96f91ab54b19f853625dfb16e289555118c1bfab",
+        "url": "https://files.pythonhosted.org/packages/f7/66/17260c6af698a5fac5821d5dbfe887449c04f83a0005d59826feac35e85f/django-custom-user-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "aeb05ece7580181777effaacd361524ad38b3c97049330f5ad749a01e747b898",
+        "url": "https://files.pythonhosted.org/packages/5e/8f/24ce96195e513a1e5acd6c40356b7d96cd5bffd18f97e609780df5700d6c/django-custom-user-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "2e01b3de63eff188c1c5204f7757d218b47fde97d8339ebac0c46c84d7c9c011",
+        "url": "https://files.pythonhosted.org/packages/6b/a6/03a8418345872cde44173942433bff04cbb7493683588e2e543d7b7b7cd2/django-custom-user-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "93710c64d25f6ee2a1797c29e709d2511b8fb9d634f327eb50e4468c20c6cc0b",
+        "url": "https://files.pythonhosted.org/packages/cc/bd/3d461b5e906e5c5b9e211d703f544fb0034db8a6a696147717cd4433e669/django-custom-user-0.6.tar.gz"
+      }
+    }
+  ]
+}

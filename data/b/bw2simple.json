@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "('Simple proxies to make command-line life with Brightway2 objects a bit easier.',)",
+    "homepage": "https://bitbucket.org/cmutel/brightway2-simple",
+    "license": "Copyright (c) 2014, Chris Mutel and ETH Zurich"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "60840e03e7f71b897e4036febc30975065b6e02fe3e876f0565ba4ff06a07ef9",
+        "url": "https://files.pythonhosted.org/packages/bd/9d/f1db50e47f81e34c1e7af27a4d32e72b56efb31302516ee6be625c5bac90/bw2simple-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "27020d717b613b28caae90933ebd41d5e6d1714f247cbe506cdf950eb73475b8",
+        "url": "https://files.pythonhosted.org/packages/53/26/ca863a93244ba930d95f3ca9d86f9e16ef9dc1c1f4dbbb0b3793546ec26c/bw2simple-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "94598dca997db8765fe76585f45aafa3be842949194659ed83d58bad803acc77",
+        "url": "https://files.pythonhosted.org/packages/b9/e5/b200a4a252cb4f1e6611df094fbdcdf4c3723ba661bbd3d90b245cfa1c22/bw2simple-0.2.1.tar.gz"
+      },
+      "0.3": {
+        "sha256": "1cb610caed33376712ca4b0cf4ac1c28ca1302688480876b9352fd7466b89a95",
+        "url": "https://files.pythonhosted.org/packages/5f/94/0f44267119ad5ce4ca1d176193da23e36babcd8ad291f23f7dfe385227e0/bw2simple-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "ff2fb741d718ac0af036f591589a444adbfdd98697c2e0d9042aaaa1f1ac59da",
+        "url": "https://files.pythonhosted.org/packages/43/8d/58645cd1cbe10af2b6a51da44f2c4316bdf118a1ccd82c7e02e71db93745/bw2simple-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

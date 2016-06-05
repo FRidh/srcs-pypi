@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Basic Python Server to execute ACME instead of dump clients",
+    "homepage": "https://github.com/mswart/acme-mgmtserver",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "890c96d62f6f387cd25b69b6e70cb099ec96ab498eaa61ccf75399abbc8c68fb",
+        "url": "https://files.pythonhosted.org/packages/c6/f3/32ed8895efde7b42c8dd17e90c09082ba5ae86b16ae38bd5a6f0623b7a62/acme-mgmtserver-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "61471c9ed0d1a4212626dccd10c324eb4b06826ae4dcb07eb828461b719076fb",
+        "url": "https://files.pythonhosted.org/packages/da/57/c4d810b19945b9ac86e9bb7e9bf3cc95b3109eeee848efc80b3800bd4110/acme-mgmtserver-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "939a36ca7e997e47eee0ba2bd85b7404b6c450488e3b51dfe5dc21e4570856e0",
+        "url": "https://files.pythonhosted.org/packages/27/b4/a03d5bdd3713c2cd96bfb809dcd822df21d29260e7ce52e5c62c5b89205f/acme-mgmtserver-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.4.0"
+  ],
+  "meta": {
+    "description": "A stand alone PyQt/PySide GUI application for managing conda packages and environments",
+    "homepage": "https://github.com/spyder-ide/conda-manager",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.3.1": {
+        "sha256": "2b9535127dc9f8dffda7db0f6108eb932796fe51fe58a885a70b7ea477ee50c6",
+        "url": "https://files.pythonhosted.org/packages/40/8a/012c6f6000c7f8d4055e7291ae3dc4fc88878e34dec036ebb2f91d2dcc67/conda-manager-0.3.1.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "09212b883897638c6154eb75a93cce9a5e5898af99f074f2c47495136217078d",
+        "url": "https://files.pythonhosted.org/packages/b5/68/2dfca211698340889d3d788a90ad0158fbd8849bad2bf3919d53ae0cc168/conda-manager-0.4.0.tar.gz"
+      }
+    }
+  ]
+}

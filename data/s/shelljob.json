@@ -1,0 +1,66 @@
+{
+  "latest_version": [
+    "0.4.4"
+  ],
+  "meta": {
+    "description": "Run multiple subprocesses asynchronous/in parallel with streamed output/non-blocking reading. Also various tools to replace shell scripts",
+    "homepage": "https://pypi.python.org/pypi/shelljob",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "11429fc508a1c195cef161d1c5e8b8d9c22371dc1fb46d4bbc5df0db425dbcf6",
+        "url": "https://files.pythonhosted.org/packages/26/9f/bc08787ef3d541311a114489faadd49f4172ec74357259a5a4714b580223/shelljob-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "f968ce5b7d91a91eefe7096ee49bf57f78093ca5a5f2d378a0b020bf6c4f12bc",
+        "url": "https://files.pythonhosted.org/packages/7b/12/080306f63bbe948c20ace946b04d6137bcc8145d3e83d145f896dda30aa2/shelljob-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "9ac1e08d954e6d61cad117bc3e6350c415404e88d82d81c931250c6844239285",
+        "url": "https://files.pythonhosted.org/packages/e0/2a/629bbcfd78d29eebb4f5101d0831882fc5b90feabc5b3fb2bf965c9fbc24/shelljob-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "164f7cc2d399f14f000bb098710583eae5a7af5f4a1ba13dba8b09d5374d1df4",
+        "url": "https://files.pythonhosted.org/packages/25/30/4704cb34dfa1acdd5bdeb161b33130eb8ec3866c0579973fe8e42e135ac9/shelljob-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "dccb7f789464e940ae1b47d2e589efa6a5ded895284a81af12adcd6305a85688",
+        "url": "https://files.pythonhosted.org/packages/2c/75/c70b3467019760caa1f8510a38818a6655bd66caa0057b3c553c99281863/shelljob-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "a468bbaabd31bcdcf1369d2159dca16c06f59f3b7a2038fca86a988b9cf6e84c",
+        "url": "https://files.pythonhosted.org/packages/66/46/58ccf55fc9ade179a711680043195bbd4b61f7be68d391a8f9c77cb0d841/shelljob-0.3.2.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "eda70be1504dfd4a8fa797f20afdf8813add26cf84ab485bdd9b76a902ef4590",
+        "url": "https://files.pythonhosted.org/packages/59/31/de3c061e6cfd09da976d8875776bd44c6aba9366bbecb8184210b9f46784/shelljob-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "4b28c19c356b8228c139761953ff74c8bd84ea93fda24fa700891867005eb145",
+        "url": "https://files.pythonhosted.org/packages/a9/d6/da490a00ca74a7a4e6999096695e03f822fac50141c9f5a3bb41f99ace3b/shelljob-0.3.5.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "97ce120b48721db2fa88c8ca4a9d52ba7d9056a168bf0dc6e845a0c107ccbad4",
+        "url": "https://files.pythonhosted.org/packages/72/c8/b8d9747f8a4f2f9d7490f4ee3dffe8db57ca7c6d88e11616c8f80849ca0a/shelljob-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "649831e4bdaae8cbb6baede22de5db9294e098d4fd7455e06c04be790851a751",
+        "url": "https://files.pythonhosted.org/packages/db/b7/14b3b054ffac9add2e85ca6c01c94883066c5cf8f9d7abd06f1f2592359f/shelljob-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "ded10f212659ebeb93e2cd11bd0e3b89babbdd3e005badd09ca9fb20cf88cf78",
+        "url": "https://files.pythonhosted.org/packages/8e/00/3ab6c32d03994bad132c50f5452ce258cd66cafee315a9612a542e04aa44/shelljob-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "f2a55b3735d0eb887864a0ff98ede7a09380fec5a1c490f04addf46d328eb1b6",
+        "url": "https://files.pythonhosted.org/packages/04/f7/29d386846b3551621604e8afad5a6f34aeb55ec5bc7d30b38f424ce7a7f8/shelljob-0.4.3.tar.gz"
+      },
+      "0.4.4": {
+        "sha256": "b43cdf4c7c378fec08fc76177635f3d8b6655fb4d6a5f575c324f5085d0586ce",
+        "url": "https://files.pythonhosted.org/packages/3f/81/21ff904abe68dc2e00184fb658fa7f9eca6f690a9737b155f96ee662e259/shelljob-0.4.4.tar.gz"
+      }
+    }
+  ]
+}

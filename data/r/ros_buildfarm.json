@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "Build farm used to build the ROS ecosystem's packages",
+    "homepage": "https://github.com/ros-infrastructure/ros_buildfarm",
+    "license": "Apache 2.0"
+  },
+  "versions": [
+    {
+      "0.1.2": {
+        "sha256": "72f17e9cda32727c7ec86c0101bd5c8d96c03339901c8515ef946be534e1a821",
+        "url": "https://files.pythonhosted.org/packages/2c/a1/f938f8dd7669858a3d73e360f8785374ecae09819018bf9f1bfe0a110b07/ros_buildfarm-0.1.2.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "9d4933300ef46de92950d216e063aa6e3657358de31f13b74181ff8837f3a9a0",
+        "url": "https://files.pythonhosted.org/packages/49/44/41beffa60f367180110ca67c6a141fb8432788741ce65dac69bf9caddd82/ros_buildfarm-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "76b4f6b011ff4baf4f593636f423614b4b488ea1cc2383fcf864be3a921ed57a",
+        "url": "https://files.pythonhosted.org/packages/9b/f3/23de38c06434c8fb3aa3f709c44531d3c3aafdc83ffc3afaa12302742427/ros_buildfarm-0.2.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "05589d6056fec721773cb4fd6de4eedd97ff7f7a720eba1ce7c0935fc2ae3520",
+        "url": "https://files.pythonhosted.org/packages/da/e2/fb303a884fdfabd8f6ddd9e238f1462d544543f5a63d970b55c97b1562d6/ros_buildfarm-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "3bcb34322d5d099544968ef04bf43d39e06c1ef5168171a242166bc58cf1ad6e",
+        "url": "https://files.pythonhosted.org/packages/51/d5/63c9d11b1a3fe7c9f2495da3de92b09adc2c4c023a6705b651556e5d23e1/ros_buildfarm-1.1.0.tar.gz"
+      }
+    }
+  ]
+}

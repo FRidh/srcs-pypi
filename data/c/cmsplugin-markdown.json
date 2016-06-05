@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "A plugin for django-cms that aims to replace the standard text plugin with it's\nWYSIWYG editors. With cmsplugin-markdown you can write your content in Markdown\nusing EpicEditor (http://oscargodson.github.com/EpicEditor/)",
+    "homepage": "https://github.com/bitmazk/cmsplugin-markdown",
+    "license": "The MIT License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "3d86559996fec9586910d6ff4a089e8ecbebc5d815f77caf97802c58b07fedcb",
+        "url": "https://files.pythonhosted.org/packages/e8/9c/edb0e12bcb210fa46f9ddaa78055e4496b58c30dd17c37dea49542da4f44/cmsplugin-markdown-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "f657f96ce747545d6a3cb5f91db2661c911c23e91106fe6d278fd533651f0b3a",
+        "url": "https://files.pythonhosted.org/packages/46/03/f044831480ecd4bc9bdc62328b972e4587a8ac84ef8958311700a52bf84d/cmsplugin-markdown-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "ffaa27225e22983b1882919fabe644d180004af9e903bf1e3f7aba55f180eebb",
+        "url": "https://files.pythonhosted.org/packages/e6/81/f0f6631816e4ac04cb46fd20871b007c5d1c5fead80a35c825b0ca17e9ca/cmsplugin-markdown-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

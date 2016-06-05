@@ -1,0 +1,54 @@
+{
+  "latest_version": [
+    "2.2.0"
+  ],
+  "meta": {
+    "description": "Python Tools for Visual Studio remote debugging server",
+    "homepage": "https://aka.ms/ptvs",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "2.0.0": {
+        "sha256": "0c6ff4988d9cf326323fde749758a4e8976e54238c8fb4b052606056de5cb828",
+        "url": "https://files.pythonhosted.org/packages/44/2e/bac35491b331d993baee2fa575f60bec3d8aba9c1fe189bdf10ad2b8b39a/ptvsd-2.0.0.zip"
+      },
+      "2.0.0pr1": {
+        "sha256": "89ba1da7f8efc55a61a168a46807ec98a1b8d66998e92ba6abbb6d6fe9257671",
+        "url": "https://files.pythonhosted.org/packages/f2/e9/1149442934d0c9339096d2a4c66b8b497483ec7365bb9d38d84c48cfdd3a/ptvsd-2.0.0pr1.zip"
+      },
+      "2.1.0": {
+        "sha256": "814b373768b507dd9b15805d35b8b8fa679e0002457e0b55b3230343524b7319",
+        "url": "https://files.pythonhosted.org/packages/8c/5a/460e854128a7a49c2325923f46c17c23271067d47cd7463453f8fab1323a/ptvsd-2.1.0.zip"
+      },
+      "2.1.0a1": {
+        "sha256": "d72d8df76136f8296f7711a9118500483c8263f5d275363f075e549b45a2a322",
+        "url": "https://files.pythonhosted.org/packages/b7/d7/a12960238d5bdca597cd30d775853cb6c389518b3610b307c74f762a56ad/ptvsd-2.1.0a1.zip"
+      },
+      "2.1.0b1": {
+        "sha256": "fcb8f66a9ae6b6f454938606b9960f304b84da87b800c3fb68b4a498ed753e11",
+        "url": "https://files.pythonhosted.org/packages/61/f6/159fd608b58a966e2f2daaff7a75fb5bdb8061b3ca074ad84e0b471463e9/ptvsd-2.1.0b1.zip"
+      },
+      "2.1.0b2": {
+        "sha256": "518fe3341f40d9ff9fbc6423f1d76333e9c551de8004b09ae6c770bc214093e7",
+        "url": "https://files.pythonhosted.org/packages/8a/8e/bfbca9e12c44b3a3d84b9b7476de56cec009ed8fae30b02df08c19fe0d14/ptvsd-2.1.0b2.zip"
+      },
+      "2.1.0rc1": {
+        "sha256": "a3b3d85ee598ed058faf87e749af569ebacc2441208f186880587449969778a6",
+        "url": "https://files.pythonhosted.org/packages/1a/68/7edd59a09e900ce608f58ef07fd1313f23cb477897c34977e0044db1afd5/ptvsd-2.1.0rc1.zip"
+      },
+      "2.2.0": {
+        "sha256": "cb8bccc39dddfc0804097cbc0bb9acfae0681f6a04aa7715f614bd610ceb9482",
+        "url": "https://files.pythonhosted.org/packages/ae/e9/89c00f5796de550d67ff945289bee3b730121ab97a177a69d2d40f0619c7/ptvsd-2.2.0.zip"
+      },
+      "2.2.0b1": {
+        "sha256": "4a4d1ee4403f93a59a85d42c28eee79013521ca9c6dd715c50e89b48782b6cfa",
+        "url": "https://files.pythonhosted.org/packages/c1/d7/f3105f0aa3a12bd817e17dd022f3decfd704734095526f5d5a8572669e66/ptvsd-2.2.0b1.zip"
+      },
+      "2.2.0rc2": {
+        "sha256": "7ce3c606fd6893105e594b2970deeac41146961d50c397ef3958026ab54703ab",
+        "url": "https://files.pythonhosted.org/packages/00/38/e2d5cbfbb6d25b8b760e3fda55fcaf3c0bb30730d97d6d0d91cbef252b5d/ptvsd-2.2.0rc2.zip"
+      }
+    }
+  ]
+}

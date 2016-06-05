@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "agate-sql adds SQL read/write support to agate",
+    "homepage": "http://agate-sql.readthedocs.org/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "ce791d0b23232e77f1eca40da2837c5b0d17122595635ec1b634eb1ff55811fa",
+        "url": "https://files.pythonhosted.org/packages/0a/64/9e017235d1a7437f7d23cbf47db5299088a2d8eccb27997713c1f098dc9e/agate-sql-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "61d474f1d03e6b1c3cc1b852773b7b2eceb89e67d78df1c0194cf66f7796b0fc",
+        "url": "https://files.pythonhosted.org/packages/60/eb/6faab1cd61499a3a088e03d65c10468922b6ab9c4a310f9e1e48e1092d2b/agate-sql-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "dd33dfe4c33274ef85191063c802a3d98c0a41b67f8741983e45b9a0f74f82b2",
+        "url": "https://files.pythonhosted.org/packages/52/68/471f38e1446394a79525d3544aa910d82dce4270e18a1f7376d832a45ee3/agate-sql-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

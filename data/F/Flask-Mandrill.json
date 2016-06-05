@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Adds Mandrill support to Flask applications",
+    "homepage": "http://github.com/volker48/flask-mandrill",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "43cb80180725ddb1f144aa03c6e307be9d0303eda39f2f7bc3ae031f0ae90198",
+        "url": "https://files.pythonhosted.org/packages/51/bb/7392e6b454dafec871173d807c011fd7bb003d73b69316a1e3185759b45e/Flask-Mandrill-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "32a2af91f7d69bed225aef1ca48d104e9158dfd44720db4365e613c9fd40dc79",
+        "url": "https://files.pythonhosted.org/packages/2c/b4/61ce11db77790f5c7de9e5b44c1faf157551a97103131212ce7fda1a724c/Flask-Mandrill-0.1.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "46ee974790cdc29bd150f9a1abf6f599ca3f634b5fc5e9fe7cf399c1adfdcdab",
+        "url": "https://files.pythonhosted.org/packages/fc/b1/2e0ef58082897088525b17466a4e22855a7aad3791df8b7b368cee77f66f/Flask-Mandrill-0.2.tar.gz"
+      }
+    }
+  ]
+}

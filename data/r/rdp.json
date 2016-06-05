@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Pure Python implementation of the Ramer-Douglas-Peucker algorithm",
+    "homepage": "http://github.com/fhirschmann/rdp",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.4": {
+        "sha256": "71c91042be95b0a0cd2bb4a992183b2a8e3c808f7203c62e6676712d414f8c56",
+        "url": "https://files.pythonhosted.org/packages/08/40/a4d2ac8d66ca6acf67fc4878d37a4da046312fb09d6f834e1906e6ff2471/rdp-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "dfa6143f81cdd1359e4e027a3d3391e183a5c3aada58ff70d8d875b8845ab0fc",
+        "url": "https://files.pythonhosted.org/packages/8e/2b/37cebcdff8717c5d4ced6e0bb19e727988d1b8dcfd71b3216c2733a75643/rdp-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "786012f9f04242363a75ac11a5e198f91858cbc09c6f2e3f00a73a2fd1c2c460",
+        "url": "https://files.pythonhosted.org/packages/6c/4e/7ab95aad0a39c5d938014344cc321be6012b4156226d04ab3803b759a35c/rdp-0.6.tar.gz"
+      }
+    }
+  ]
+}

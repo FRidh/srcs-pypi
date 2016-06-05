@@ -1,0 +1,374 @@
+{
+  "latest_version": [
+    "5.0.0"
+  ],
+  "meta": {
+    "description": "Smarkets Python SDK - API clients and utility library",
+    "homepage": "https://github.com/smarkets/smk_python_sdk",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "312b037c8e97ebf9c7c6892f086d31a06261be81bb933c9065f015a9db1a7d0a",
+        "url": "https://files.pythonhosted.org/packages/ca/b9/b8334343354229365d09fb704077b9631e82b8d6ab74d6b078806a743f18/smk_python_sdk-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "3e3a37017b8f7ba4bfa4ba8ea9a7d1821ca1ea972088673afae884d85a921149",
+        "url": "https://files.pythonhosted.org/packages/15/0a/2adf3194c6b85dd33753bb605a4bc79e4c36997574babc71d46e0e786c2e/smk_python_sdk-0.2.1.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "3949f729e4aa283f977b01bfa0a5794f96420500ac0e9a2f1c039b07c323d28e",
+        "url": "https://files.pythonhosted.org/packages/be/80/afd94aaf828887e024e93730f84b2866f29074673dba39830dc5f9fc6c54/smk_python_sdk-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "744546537f2b5c370ff5f03d90d56b7f971e090f3fccf0a85c044a31f7d87a66",
+        "url": "https://files.pythonhosted.org/packages/85/e5/3fe67b077a47b0b0b6aba4f724a740f302ce435026a9d4d2203a4f4f5299/smk_python_sdk-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "be645efd90d0a2bb80f28438904b96f3a84e0050687362f93e83f1d0787214aa",
+        "url": "https://files.pythonhosted.org/packages/0e/dc/7609ecfa631aa71f2ca5adc44505f16877a0caed0af58343755700e64d3d/smk_python_sdk-0.3.3.tar.gz"
+      },
+      "0.4.10": {
+        "sha256": "95e29018ed4c83faaa690174f226d15c16782679b5b830a6f0f1b7677ecc2185",
+        "url": "https://files.pythonhosted.org/packages/ae/dc/65dd722d766e580b23e754f13ce81e340efe768d84364b949abd285f02b2/smk_python_sdk-0.4.10.tar.gz"
+      },
+      "0.4.11": {
+        "sha256": "f2bb853e03d943c72aa2e67a4a153b136fd60f8a6412acef87b249f1debf7698",
+        "url": "https://files.pythonhosted.org/packages/3a/eb/bfb5273d7209b16c87d8373d05ac60e446041acadac5ae36573d07eb58fc/smk_python_sdk-0.4.11.tar.gz"
+      },
+      "0.4.12": {
+        "sha256": "9e5d07a9627ec45675f418bb0661ec015d6a05ab4edff322ae7e7b1a61b2e0fd",
+        "url": "https://files.pythonhosted.org/packages/d7/86/d064ea0d3c73123d626ad9d1502deba459313bf53b0739ffcaa3a1b72f00/smk_python_sdk-0.4.12.tar.gz"
+      },
+      "0.4.13": {
+        "sha256": "a19e30ae8d75892dba305831993f7f2013528ed44a3fbeb909af02fcbf17013f",
+        "url": "https://files.pythonhosted.org/packages/8f/06/5582a6ecce7df95c020e2ea8c81b1de0eda4325a32f35c2ff17586ff62ba/smk_python_sdk-0.4.13.tar.gz"
+      },
+      "0.4.14": {
+        "sha256": "982bc2994b6ef16920779fae372b1a0c8d4c7e5a5bba224ff85c73b62dd564bc",
+        "url": "https://files.pythonhosted.org/packages/af/b1/c25251373d6d5c07db0b616ccb8df2d4873904f3e48f49fee5cb77055489/smk_python_sdk-0.4.14.tar.gz"
+      },
+      "0.4.15": {
+        "sha256": "d91528ea1815dc5acfdf3ce9bd01e5f6a1402c88691b0e1c93ed4af6d7f748f5",
+        "url": "https://files.pythonhosted.org/packages/6e/0a/178139fedb43859c422dc39d0802a2166485cb271c93f36e455a19f08fe9/smk_python_sdk-0.4.15.tar.gz"
+      },
+      "0.4.8": {
+        "sha256": "0fae918aa7da1010fedaef8b72ebb5c519acf53950306363e1aeb1d6a4fdd41f",
+        "url": "https://files.pythonhosted.org/packages/2a/56/cce16817fa18bd7972430f3d98314bce92a5fcb75411d08a4b4b908ad24f/smk_python_sdk-0.4.8.tar.gz"
+      },
+      "0.4.9": {
+        "sha256": "a6f21193d2e87add280cf4e450e73b97e2b5223dc436ce13681eb9e6cb84645d",
+        "url": "https://files.pythonhosted.org/packages/45/f1/d3f82560bc5236be7698e1158667c4303c408c49ddafb1e8109a647264c8/smk_python_sdk-0.4.9.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "112f1ecf541e6a163028c8cf38b5bf6835db7d9bcdf56e3fde52ea553a019edb",
+        "url": "https://files.pythonhosted.org/packages/27/b3/9cc705c06c2e819a422b67067a184c03c91c103c273bccd1a19720b49e2b/smk_python_sdk-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "77d28ce370dab9a1164dbb20420b32330cdcc21400eeeaab93f9c5bb3f1a3c81",
+        "url": "https://files.pythonhosted.org/packages/92/71/172145d41fbe5b57ab2d93a47b5de9dac4382ed34414cf7bc226c75f6501/smk_python_sdk-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "626aa96f966911b05229a458234aa171addfed449b36d7deb73ea23ab44bc8f6",
+        "url": "https://files.pythonhosted.org/packages/47/23/72a837258bd1687fcbcf45319a54916f642ab09230124de538c815e8c332/smk_python_sdk-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "a487e19d40071a171379bece4f0ed37e327afd096e64912b30474be3c1e54b86",
+        "url": "https://files.pythonhosted.org/packages/2a/68/4365d9ba426d004b15d976b8138a71449b2f448e4f23a6b76aa3915cda3e/smk_python_sdk-0.5.3.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "891890e31f3e5e4a7d5084a0727315f396a4e09e0386a891d7e100ba2f0969ff",
+        "url": "https://files.pythonhosted.org/packages/6f/ff/bd35a05e8aa06f01e5929ccde0f024a9680de33857a1bff3148e68716e30/smk_python_sdk-0.6.0.tar.gz"
+      },
+      "0.6.0c1": {
+        "sha256": "39549ec69eced16d79b69528f99ada6804a07e0a1ffe0a059aad90c869f87fc0",
+        "url": "https://files.pythonhosted.org/packages/97/90/9874499061d06afc2d4b5a5342d32d70f1bb27a635e564c4fc82402cc0bf/smk_python_sdk-0.6.0c1.tar.gz"
+      },
+      "0.6.0c2": {
+        "sha256": "afe2c9b1d34bed8bdbcf7914c28c006ce00b1973aa49c2b34fd593b14be3a242",
+        "url": "https://files.pythonhosted.org/packages/33/94/3067993a6a753823e8544763be20c467496e855a117a930199fccd2816d9/smk_python_sdk-0.6.0c2.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "c319c1fd8cac05d1d5a50d184974ef2d6b1f6363a0fba91fd1a6e7b4b70f7655",
+        "url": "https://files.pythonhosted.org/packages/cd/3c/d3941e3ed8bf5c4d572b59ecf179436d3718fc6008dba8e6d9f1318dcbe2/smk_python_sdk-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "d8f1eb6714183db02d3ee7df08da7780a75e434194451258bfca18dde47363a4",
+        "url": "https://files.pythonhosted.org/packages/c3/89/b96aba6d8eb113554db79439deebd3c416ed30bb25776e80eac10fee6d8b/smk_python_sdk-0.6.3.tar.gz"
+      },
+      "0.6.4": {
+        "sha256": "5b6fe867b7d5bf60004f902390c67174e54e8549a4f784cd71cf5a3b920c3b0e",
+        "url": "https://files.pythonhosted.org/packages/40/0f/5a98160b9904bb148f1504a33cc22bee1e752f8b6d97e85dbe64208510d0/smk_python_sdk-0.6.4.tar.gz"
+      },
+      "0.6.5": {
+        "sha256": "b44c5ba0d8f85db79de37d568d1516dd0ed024ce407d63ee96581ef51a0d35ea",
+        "url": "https://files.pythonhosted.org/packages/89/38/aac36acc50710600b15d31f49086e58c91f67ed022c3c520e5ddb45cb2e0/smk_python_sdk-0.6.5.tar.gz"
+      },
+      "0.6.6": {
+        "sha256": "d34ca000d04db2dd216db1b0097cc2cf160205697630980cbe211a0fc99a3c32",
+        "url": "https://files.pythonhosted.org/packages/19/6f/58eb3295723048d946ad896870205a93566f1977f0fc5dda98475cffbeb5/smk_python_sdk-0.6.6.tar.gz"
+      },
+      "0.6.7": {
+        "sha256": "473738f981b5ec98047b0f71ee3ef92d9a55a3188abef72690fe25c51aa8a09d",
+        "url": "https://files.pythonhosted.org/packages/88/f6/11524e6a23c5aeb6604851dcc8059cd77b08113509b34d2727f402691722/smk_python_sdk-0.6.7.tar.gz"
+      },
+      "1.0.0c1": {
+        "sha256": "d400f88ad41d595e0044e4995265ec69b4c83e5c0bd5edf07ad1f3c56b813e59",
+        "url": "https://files.pythonhosted.org/packages/fb/77/320489ab34efea728b321fbed67dd92f456a26dfc4361e137542eb20156e/smk_python_sdk-1.0.0c1.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "c174b889eab2ac2731facdcba46c9c6acec4171a4fbb8db7b6e3134e7a38c395",
+        "url": "https://files.pythonhosted.org/packages/c8/2c/6e231079c328b0e09cd930e58362047a52457af2ded97a8695d1fa4980b8/smk_python_sdk-1.0.1.tar.gz"
+      },
+      "1.0.10": {
+        "sha256": "4f7369c8e1267a015bad5d7e92f93874c4ac813c8274b1f2ed6d418687c24036",
+        "url": "https://files.pythonhosted.org/packages/be/34/0666557cb525369fe47db84bb36f7ee8768b369618e9b980dbab73dd8de8/smk_python_sdk-1.0.10.tar.gz"
+      },
+      "1.0.11": {
+        "sha256": "d7456a6ca3b49fb0ef0f7915e3fd93453c41dff850fb3af8770dd08e2a4234c6",
+        "url": "https://files.pythonhosted.org/packages/0d/5c/16f672d4b36fa2634faf50a86beba0fafd3442f44a54aaf9f510c8027a82/smk_python_sdk-1.0.11.tar.gz"
+      },
+      "1.0.12": {
+        "sha256": "df97774278a7c52be882628c1c98fd38564e87213ffcda94416c5cbd00f32b01",
+        "url": "https://files.pythonhosted.org/packages/03/57/51492b17e2eab37ee0b7da4ed67f3f109ffc6bae8c81325a870ea1f06dc6/smk_python_sdk-1.0.12.tar.gz"
+      },
+      "1.0.13": {
+        "sha256": "0e805951f459ff3bcd9c0e31013cee5d92e63239b99dbcb03c31157e965c4b9b",
+        "url": "https://files.pythonhosted.org/packages/b7/98/e2cba89b4913f4a4b367152916578bba0612eba49d17a1bded0392fe2a06/smk_python_sdk-1.0.13.tar.gz"
+      },
+      "1.0.14": {
+        "sha256": "364bd207435372738e3d51aee00d6db8b1ef632143c25a818c3744f9a51f10f0",
+        "url": "https://files.pythonhosted.org/packages/ad/dc/df6d4ab021d1790bb95c4ce85c591d4f2a64869098dd50309ac3baccad55/smk_python_sdk-1.0.14.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "83de606d2c19c802abe834aaf0c964140cdcbc81653da7c4425ddb1fcd56583d",
+        "url": "https://files.pythonhosted.org/packages/53/68/03d47e36f10f1986fbf30f1ce875354ab0bc59dceb3f47984c3d57ac13ee/smk_python_sdk-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "899fe0c1c9d42ebb8ed95bc41bc36da97576832d20c51813be9da852eea7815c",
+        "url": "https://files.pythonhosted.org/packages/1b/8b/3e3af60fecd5b4d942c555857c167f4713f60710ee104d11494d4b9e30c3/smk_python_sdk-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "b142e2a626c4b8dd942de796675c0828eadb1edad22dee521c54eb8cf428f7c1",
+        "url": "https://files.pythonhosted.org/packages/a7/06/6fc64c2c97c4954503b06f1f133569ed244fa4cba752d86a59cbfc8fb90c/smk_python_sdk-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "36f83427f85a214b5f96cc570a869678744e661382430fdb24eb00e841361d34",
+        "url": "https://files.pythonhosted.org/packages/3e/e8/ee34d1288b97ad799a97190a39c554afa86b7efd5f5a6b28a2285fd2dd95/smk_python_sdk-1.0.5.tar.gz"
+      },
+      "1.0.6": {
+        "sha256": "096148f01d9161adb98410ee93332362a7ff9879cc1e0c9927111f7aca69bda5",
+        "url": "https://files.pythonhosted.org/packages/71/88/0323aa28096b224d9d7620dc50391e7be61bb2d4bb622736cb9a0131a61b/smk_python_sdk-1.0.6.tar.gz"
+      },
+      "1.0.7": {
+        "sha256": "dae5f3e58090971c01c5043f7248c83f8009d9b1a802c1f7964375655f3ebc76",
+        "url": "https://files.pythonhosted.org/packages/8f/6b/854e7564b3f04d940876d81b549e67c7540367538dfe8127aa9f89c40269/smk_python_sdk-1.0.7.tar.gz"
+      },
+      "1.0.8": {
+        "sha256": "581268706d779b1b5b37bb4667934c26e2ebc941922810a3f830e7f523d15058",
+        "url": "https://files.pythonhosted.org/packages/fd/7b/9b76a3baa70800d3d762f865f7749f6810b1280228ed8f69fd1184b00e40/smk_python_sdk-1.0.8.tar.gz"
+      },
+      "1.0.9": {
+        "sha256": "d146ace717d9634bc9e64deb1e605240d1e48f2bcee5c6f2ada9d6c3411482f1",
+        "url": "https://files.pythonhosted.org/packages/73/06/45f4a803d21188aeaebc1b25353f7d6a8b9630c6a861638d11358fb54280/smk_python_sdk-1.0.9.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "a5d9ca44fbd6edc51750f4f7e1335a552c01cef38488ffb94802ef62eabbeb1a",
+        "url": "https://files.pythonhosted.org/packages/f3/55/869ecbcc16e485b883e999c2356fa717389267806c5e79c24980592fecd3/smk_python_sdk-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "3b05b0f1ee791101cafd757bbfab41f053a426736ab00af142d846dbbb70623a",
+        "url": "https://files.pythonhosted.org/packages/5b/6e/925d52dfb0548e7f74ac7a550269a0b2ae7944427d743beb44d97600f5f5/smk_python_sdk-1.1.1.tar.gz"
+      },
+      "1.1.10": {
+        "sha256": "e1c747311c7c1a9103cff682de49c026a5386c6abdd3a5330ceb3edc3a364a53",
+        "url": "https://files.pythonhosted.org/packages/32/9b/589f503bf41078837d55a4567d283b23f85ec227bb6724ddac07ff0fe1b0/smk_python_sdk-1.1.10.tar.gz"
+      },
+      "1.1.11": {
+        "sha256": "b4846ca1e420171dd13e72706ca46b006dee07a5ad500b471b6c5ab78ad1843d",
+        "url": "https://files.pythonhosted.org/packages/c0/af/a17db75cf7cdd93da9a3629e60e84a45c7389c646a735fb0b2e1afa53257/smk_python_sdk-1.1.11.tar.gz"
+      },
+      "1.1.12": {
+        "sha256": "e3af176bf83a94f3ff77e072299a14fa9075e1223b6db355ead576c00dea0dc2",
+        "url": "https://files.pythonhosted.org/packages/16/0f/fc16afed4260811a306a17c077966aedc2bc82a30c80e10bd81c18445898/smk_python_sdk-1.1.12.tar.gz"
+      },
+      "1.1.13": {
+        "sha256": "9572545bdafc89a38368178485d17b817d04e9cffdd2c0a880890693769fd082",
+        "url": "https://files.pythonhosted.org/packages/50/78/6eaf7245ee8e7d0ef42d4fb978cd40649c4a001e2201713740211781fcc0/smk_python_sdk-1.1.13.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "dbcd1a4ebfa759b8dbda368a6d2ee35b71d27db83078c7ff8cbfb2e4b7772507",
+        "url": "https://files.pythonhosted.org/packages/fa/3c/eb062dca450b449ac1a317609662c91f821aaaff9d9be6286a408e070fe5/smk_python_sdk-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "f1fe9d8c09d6211209ee47433ae8ac6d69208617e1c719d9854a30d6af9d58a2",
+        "url": "https://files.pythonhosted.org/packages/3c/f3/48ddc2d0b19a8bd85108e2117827b00b1e149558584a80ddd29aa363cc3d/smk_python_sdk-1.1.3.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "e361bd9be680f67f5a3951984c026322e7a84f6e3d73d6a7eca0ab62ca568424",
+        "url": "https://files.pythonhosted.org/packages/74/b1/30e7c34177b21a182ee48566bc4f0f0b5990bacd52e629b89f14bd8e189e/smk_python_sdk-1.1.4.tar.gz"
+      },
+      "1.1.5": {
+        "sha256": "2771a1ecdf695c3763427c92763e18363cf4d0e1a4bc38921f3a9c923da1acb0",
+        "url": "https://files.pythonhosted.org/packages/1d/85/b9d4b44b4d72109705f0518e6ea6096ca5896c806e97ec0c8518624d1e46/smk_python_sdk-1.1.5.tar.gz"
+      },
+      "1.1.9": {
+        "sha256": "e533d640287b9019330303dbf9bbe32d42bcf5f1a572adc09e7ddf7d88305568",
+        "url": "https://files.pythonhosted.org/packages/31/46/ef9d61ffbbaddd4794b0640c1c18b23f26b008c7ef4aefcc4ca09ccaae37/smk_python_sdk-1.1.9.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "d91366e25b6a2d8cfdbf2fcd4639cb20a5ea0dfdae9947bdf93faeebb528c7f3",
+        "url": "https://files.pythonhosted.org/packages/8d/de/95cccdb767aec52f80779809bacd85c9b382d483b99b125855139b8503c6/smk_python_sdk-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "85ec8815aae2fdb6d150e5d02d4434cd0b54755fd7e8a72555876170df2c5541",
+        "url": "https://files.pythonhosted.org/packages/7c/ca/c493682d2015dc9f6d3c0ff31d10302cec2f159b924b0987387f82e8d2a1/smk_python_sdk-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "a6b680f7b3787a5f2c648c5bdd7428d86cfa39b1318f7b0a2bc14ba13a2cdd68",
+        "url": "https://files.pythonhosted.org/packages/00/b7/73f7f8225d2d830ea47256d8abe5cc8c514879f317be817dba78a98b260b/smk_python_sdk-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "0f0dd180b2aab794ac33ea02ca4121aac0b3b599a9a136518bd5927543e6f0b1",
+        "url": "https://files.pythonhosted.org/packages/fa/71/de040797a4bea8ab1354d6fe42c2cd9d3eff4a421779f8aba529f79ff808/smk_python_sdk-1.2.3.tar.gz"
+      },
+      "1.2.4": {
+        "sha256": "2b8e59c93239c1164ed239a9f40c2df1cf8bb75c59490027accfe1da5b123d4b",
+        "url": "https://files.pythonhosted.org/packages/90/f8/36fc105f9c5be170f4756248340b0819cd925adae9e0e60bc91fef440b5a/smk_python_sdk-1.2.4.tar.gz"
+      },
+      "1.2.5": {
+        "sha256": "cc703874ba5342ef5952ab5822900c98c92e856d9928ae6889e740f391cdbb27",
+        "url": "https://files.pythonhosted.org/packages/25/cf/df9d7e800a28529529370f5d921ebdaf4521d6c95fcf602b206c1d9bf18c/smk_python_sdk-1.2.5.tar.gz"
+      },
+      "1.2.6": {
+        "sha256": "cc67a40a20a4a0a2ad471c62b822cb4d43e72690e8383214726f04b19d10fee4",
+        "url": "https://files.pythonhosted.org/packages/de/15/a2a5d4eadea7a55172d21f2dfee5926db4e948f79d8adb583ec2f5c745e4/smk_python_sdk-1.2.6.tar.gz"
+      },
+      "1.2.7": {
+        "sha256": "b67dd87e078fb89c47e45df2be1f1f7f27d15a4ad4d8b2e450e9dd852ff91eac",
+        "url": "https://files.pythonhosted.org/packages/0e/72/b51d12f5d3d654028e5d1644a903c28396f79f8b3df5a4d2b25974a365c4/smk_python_sdk-1.2.7.tar.gz"
+      },
+      "1.2.8": {
+        "sha256": "24c29dede5f6b8c68ed802478e1e3bf43418d3075fe44e97b01f72abd1e11835",
+        "url": "https://files.pythonhosted.org/packages/6f/55/84b8653397a012b88f2a94af07dd9e2f1b989c369ce637d6ab1f1772cc66/smk_python_sdk-1.2.8.tar.gz"
+      },
+      "1.2.9": {
+        "sha256": "15d07da65749a23b57f5bc9ad0d9276879dc642286d52c2fdb1195aa85b36b1b",
+        "url": "https://files.pythonhosted.org/packages/25/26/dda79fa5a582d6015361d1839bd0d5b759ce62c3b19c802d9787c10bebec/smk_python_sdk-1.2.9.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "57bca687e6ffad2fbf727faef3f3c3711df9adeaa3856e1e4771ed790096fbe3",
+        "url": "https://files.pythonhosted.org/packages/81/4c/8cf21dfeadf0948bf428dc3d862a58b17de846825966af63dba9837e136a/smk_python_sdk-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "125520dbdbdbcbd69820771301864c9274af0435dd3eb49bf8dc318df9377e56",
+        "url": "https://files.pythonhosted.org/packages/74/79/c1bd39bf8246752db6a4cdc4ee3fbc5fe8675b014da67aea7d70f66a8134/smk_python_sdk-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "b220a80c36db1671090841f6895358999320e3e522c5694ba36617dfaee46d51",
+        "url": "https://files.pythonhosted.org/packages/5d/b9/4957a7dd495c07f927c2a39e7e00c2ece21843e600ded90202ffb47b769f/smk_python_sdk-1.3.2.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "9b5fab33573d13f51ee976e0670f55be097f32fb1b5f96e4e84c8f59b155ba25",
+        "url": "https://files.pythonhosted.org/packages/d4/d2/d2a41d76cfbc3655a66e2893883b8fddb939aa98482237c516d18903ce43/smk_python_sdk-1.3.3.tar.gz"
+      },
+      "1.3.4": {
+        "sha256": "1a3d3063348075e38fccb283223c4ee7ab7f0e66b63de77d2259165e039e6484",
+        "url": "https://files.pythonhosted.org/packages/ce/95/cd4fa4e7c5033e7b20005421aaf5e5b09fc9364a6b5d9b86e110eb5738da/smk_python_sdk-1.3.4.tar.gz"
+      },
+      "1.3.5": {
+        "sha256": "e5e9027a704d334e1288b308cf89c518fd3be661f62bfae0d0d99dc846629ddb",
+        "url": "https://files.pythonhosted.org/packages/42/ab/fc2b8948b6cb6a377ca4c73d284489a8d935f5af195bb7853701585566f6/smk_python_sdk-1.3.5.tar.gz"
+      },
+      "1.3.6": {
+        "sha256": "244616cecf7ca163230af3d54e75e9a67875b7dffedc8718bdf734f17adb6837",
+        "url": "https://files.pythonhosted.org/packages/7a/91/dc7c61b5ffaad3edd5be2eb4c42cbd7041cc293757a0bc0bad47eecb9c4f/smk_python_sdk-1.3.6.tar.gz"
+      },
+      "1.3.7": {
+        "sha256": "80bab706669dae2b37f171fd5b7a50c58ff9ed079e075f63f899fd7256933941",
+        "url": "https://files.pythonhosted.org/packages/b1/99/f35b70141a630aa89824c00ac96945908cf7c96b50c6487c3aa650de4743/smk_python_sdk-1.3.7.tar.gz"
+      },
+      "1.3.8": {
+        "sha256": "89a988a48621993eec276b429a4a64ebc7aae85dad8fc4d8fb63effb26fd1b17",
+        "url": "https://files.pythonhosted.org/packages/4d/57/f29d78e18f314c49166b4b30033cfded80ad6cd89eb88e0365baa73bdaef/smk_python_sdk-1.3.8.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "bb3de7b96da7e68aecf9f4ce3c0137b5371f64f1361130892c01bcd047709f98",
+        "url": "https://files.pythonhosted.org/packages/c3/22/f2d3632c118d4387f833db2357ebb13c019b4c0f0d3b7b4b8d2a3c02ce42/smk_python_sdk-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "6cce8056c3b2ad351cc597fe98876a6c5bc19a6a7fb4103c08f9efcf3a77ec35",
+        "url": "https://files.pythonhosted.org/packages/0d/27/22da897316b14df14871ae5c05700adb7c5c7d3948a0a30dcb1c6bc6c2a9/smk_python_sdk-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "9f24fecd194c54d0e4ed3b4964faf46d37978b68a997bd9aacd9c64c35e4f0c9",
+        "url": "https://files.pythonhosted.org/packages/d2/c2/64f534279e26f9c1dc7d73283c1214cc9e8a5821cb70fb1bc3644d4036c5/smk_python_sdk-1.4.2.tar.gz"
+      },
+      "1.4.3": {
+        "sha256": "c2d50af807afbd505e3cc318e88cf9df16c64357066154902475746d95cf3de2",
+        "url": "https://files.pythonhosted.org/packages/92/42/ff8e12b60fed77e987831250ffed5eb1395cb2025cf977f74e7bcba6fc74/smk_python_sdk-1.4.3.tar.gz"
+      },
+      "1.4.4": {
+        "sha256": "7c848045ff9499b8f13f2a4b6bdd7f54184ea1aed97e446c05990283128fd9fa",
+        "url": "https://files.pythonhosted.org/packages/96/9c/5094b9d76b148dd7313e85f29df13984252283fa08b721192785caeddbb7/smk_python_sdk-1.4.4.tar.gz"
+      },
+      "1.4.5": {
+        "sha256": "47cceceb22f12db7014f5d5c7c40b9105050e89776ba2343377d447755e4c838",
+        "url": "https://files.pythonhosted.org/packages/cc/c8/ab9e016a2b4d2333f79153e3b37468c9c4b94fca8a42cec0d6677e21cb8c/smk_python_sdk-1.4.5.tar.gz"
+      },
+      "1.4.6": {
+        "sha256": "57338ddc438b58efed04fce07fbb82b6b52a7a8ad760999c600fc0f614fe5174",
+        "url": "https://files.pythonhosted.org/packages/21/43/f4cf24851db0446f66e0e4d6b261fcc0631a183bd1e2c7f9b50ca1d437db/smk_python_sdk-1.4.6.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "8e675f64f4f46f160d04e3c1887966ee22aa297c97b6924df3119945d3f4d9aa",
+        "url": "https://files.pythonhosted.org/packages/30/15/545b0d07e147a1077f27f984d133828b6c97824ef37c1e442b30ee35a339/smk_python_sdk-1.5.1.tar.gz"
+      },
+      "1.5.3": {
+        "sha256": "6fa862d7831bb2edd51a04501857f31fcc36bdab1979bf6373f837d9063a17e0",
+        "url": "https://files.pythonhosted.org/packages/06/b2/64b5826144d1eabf06ae1da080bdbae9797bf8ef6e6460ac078bf968fb70/smk_python_sdk-1.5.3.tar.gz"
+      },
+      "1.5.4": {
+        "sha256": "9380f0fbf6453e68659603c377df817a5e3778b9db7eb7723e3aa1f1bb8ec2c7",
+        "url": "https://files.pythonhosted.org/packages/dd/c2/e41a7c5f1309f4f122a9586c6e998ac297aa96f84c53d79132f874d9a2ee/smk_python_sdk-1.5.4.tar.gz"
+      },
+      "1.5.5": {
+        "sha256": "f630fe2fa02d2985886703ace9fe9fcd5e526f6e6c2be100c7c304699b942356",
+        "url": "https://files.pythonhosted.org/packages/c4/67/c275d5afd58e9480b639648ca845214024ad8954e57794108e99b7c5400f/smk_python_sdk-1.5.5.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "a8b74428eacb02b2344a748036f2f0dedd018991c712565591d853f640ea9a45",
+        "url": "https://files.pythonhosted.org/packages/82/c9/f15be35fe11e3dd403188d5a6875bf0f243c906b89e781c917d560ebc5a8/smk_python_sdk-2.0.0.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "cea65db201bfad6be4352bf8b39d1c932cb2e5b5cfbdee4b03ee0ce06194a8b7",
+        "url": "https://files.pythonhosted.org/packages/1c/c0/613008fd60a9a4dee3939ef4b170c99ddccd0e53ef071659773b49c2a20b/smk_python_sdk-3.0.0.tar.gz"
+      },
+      "3.0.1": {
+        "sha256": "a421e5bb2597fdda3531d0c1717ab996046edc6197754f2d856ec8c8a5e454f9",
+        "url": "https://files.pythonhosted.org/packages/bc/0b/a7722d7a98db96f83b1141205a915ab57029b7224bf46bbe442bed9998f4/smk_python_sdk-3.0.1.tar.gz"
+      },
+      "3.0.2": {
+        "sha256": "a72d4572f57ab6b3d5a095cc5ea14a62ca4b14abd5deccab492bfa5d8ed7e3ef",
+        "url": "https://files.pythonhosted.org/packages/51/62/783c0fc7313dbfe750c99d93cf4385defe8e2817d712fa8dcce55b7398e2/smk_python_sdk-3.0.2.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "dfccc99081f6766fb0e52934fbba16c5d996dfc8909677881598506bef80201f",
+        "url": "https://files.pythonhosted.org/packages/c4/d9/f553f3743f430e301788e2ba40533c4f83e66a5c64c88ce829cd5505b8dd/smk_python_sdk-4.0.0.tar.gz"
+      },
+      "4.1.0": {
+        "sha256": "81a5eca4ee7eb6640d9f73d2ca1c7a616bb997252bb054391a1a7c4125a84fd8",
+        "url": "https://files.pythonhosted.org/packages/f5/72/0731c7af9e1ecadd1276b6afa84c885f063c1181bb8432fe2889fe5b323f/smk_python_sdk-4.1.0.tar.gz"
+      },
+      "4.1.2": {
+        "sha256": "6cace69e53eb76ac23284596610f2b53a12a121c771043692e3b14d2a1701fe1",
+        "url": "https://files.pythonhosted.org/packages/1e/ee/a3592b7bfeee5010e0e8529262dfdf74592395343dfc6a6b06bca710bd9f/smk_python_sdk-4.1.2.tar.gz"
+      },
+      "5.0.0": {
+        "sha256": "ff47cd8e1d1233a204c0727fe6841e04f07a3622bab52eb60ae82cee932474a9",
+        "url": "https://files.pythonhosted.org/packages/c4/58/26b0a59d5ecc88c539dc1dd090f2ee82f76a93a81295d808695549e37229/smk_python_sdk-5.0.0.tar.gz"
+      }
+    }
+  ]
+}

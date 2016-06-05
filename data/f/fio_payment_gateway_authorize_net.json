@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "3.6.0.2"
+  ],
+  "meta": {
+    "description": "Tryton module for Payment Gatway/Merchant Integration",
+    "homepage": "https://www.fulfil.io",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "3.4.1.0": {
+        "sha256": "dbb14a3e787a2d598970c5c2bb6b450b316c89c1101fc660b622046c82edafff",
+        "url": "https://files.pythonhosted.org/packages/97/07/d81bbef10d597a4e8ce18e7bf299c17b72018f54698ec814e0b9168cebda/fio_payment_gateway_authorize_net-3.4.1.0.tar.gz"
+      },
+      "3.4.2.0": {
+        "sha256": "d6089a3ff64d671de2dcefd21e1936fdbe644f542e7e6e6e4bd04abb51d5591f",
+        "url": "https://files.pythonhosted.org/packages/cc/2a/e876d3d4f94196bd60a49aa9556b267c6a2be62efd82f07c1e2a7d2fb1b7/fio_payment_gateway_authorize_net-3.4.2.0.tar.gz"
+      },
+      "3.6.0.1": {
+        "sha256": "4e01f7f46a1d012307194a27c4c33bc91dca19bbb5d96dd4c57b66633b64d7d1",
+        "url": "https://files.pythonhosted.org/packages/e0/b3/b35dc454e464a4ff44fbe9aabe7dd4a63caf373b82fadb39371475bd390b/fio_payment_gateway_authorize_net-3.6.0.1.tar.gz"
+      },
+      "3.6.0.2": {
+        "sha256": "df4686452082cedafd53af405087e34685cc814e87532771bf563eec021c351e",
+        "url": "https://files.pythonhosted.org/packages/43/f4/2e8b931ff9a8d03bca5fc688f3c04c72d022f8e41c07361a74e39b255f04/fio_payment_gateway_authorize_net-3.6.0.2.tar.gz"
+      }
+    }
+  ]
+}

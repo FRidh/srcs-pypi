@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A set of classes with common interfaces to communicate with XMPP servers",
+    "homepage": "https://github.com/mathiasertl/xmpp-backends",
+    "license": "GNU General Public License (GPL) v3"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "afb9e4c8cf0b549faab7f6f0195fdd799648252429917a5c43994ca604ea7c81",
+        "url": "https://files.pythonhosted.org/packages/c4/e7/6b25e26552e60ee03f8a45e30316411702f62043652422b2c3b048ce93b9/xmpp-backends-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "7608a0c700716a79556687c9858a703e779b0c147ae8dce2086884524eadce99",
+        "url": "https://files.pythonhosted.org/packages/08/b7/1bf7444e1ece8d0070e04b0f9d3a8d36be79c21855ad11c6d921168232a5/xmpp-backends-0.2.tar.gz"
+      }
+    }
+  ]
+}

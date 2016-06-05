@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.dev31"
+  ],
+  "meta": {
+    "description": "Simple AMQP consumer / publisher for OpenStack notifications",
+    "homepage": "https://github.com/StackTach/notabene",
+    "license": "Apache-2"
+  },
+  "versions": [
+    {
+      "0.2.dev27": {
+        "sha256": "b79fc52fb37579afd5097a52ee5cf33b0749b0a9f9644336657b9d66174e9caf",
+        "url": "https://files.pythonhosted.org/packages/5e/2d/6a9d014c882fda1420061ec5e56a8dcd5d60f8671dc562259e0bbb9e07dd/notabene-0.2.dev27.tar.gz"
+      },
+      "0.2.dev28": {
+        "sha256": "1600e04d61784ecd42a5025538cdc3393265ec121d3ae1274c3417cb9ffc6cac",
+        "url": "https://files.pythonhosted.org/packages/0d/07/7e8e68e8f9cf2a1db95d3a0f421d5860666e116bb7c273399a8519b93fee/notabene-0.2.dev28.tar.gz"
+      },
+      "0.2.dev29": {
+        "sha256": "90c5c6e7b846421953b2cd782dc80a09c9571c2a9b3fe7aea797dd67dd1a7b1c",
+        "url": "https://files.pythonhosted.org/packages/3c/c3/5e189011004056fbe70c6acecb48c590b60b1f348814dcbc91022ee5a6a3/notabene-0.2.dev29.tar.gz"
+      },
+      "0.2.dev31": {
+        "sha256": "c32db63b416b5b91156730ab5e93957df0de281aac318a68dea91799f99d9311",
+        "url": "https://files.pythonhosted.org/packages/8d/b0/cdea8e8b3b86e23105ef682d619ed86bdd1b299d8b655821cf0c2cb71205/notabene-0.2.dev31.tar.gz"
+      }
+    }
+  ]
+}

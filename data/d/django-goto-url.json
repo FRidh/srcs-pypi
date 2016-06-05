@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Wraps external links in base64 and relocate on the special View, later redirect to source URL",
+    "homepage": "http://github.com/adw0rd/django-goto-url",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "705b6fc73cc2d265b01fc5d070d55935bb0de471f3a77200677663d470904655",
+        "url": "https://files.pythonhosted.org/packages/e1/cf/077a88d8055550f6dd1cceb5fcc1092d3c212b4c93bbabe263ddfab0ec5a/django-goto-url-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "708b665b625d192dbfc1012737951214c504b221f287523ff55ae94be0f62871",
+        "url": "https://files.pythonhosted.org/packages/65/d3/5d969995d996b6685cc535c53d8b6cc76cc2fff342d52f14cf5e3f154782/django-goto-url-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "55ce9ee8b396be3c7972fc078bb1c8ab5dbf6e97f4402ed2fea60a4188fb181d",
+        "url": "https://files.pythonhosted.org/packages/a6/f1/8d240eb2e64978aae031511f9f4d1d0a8de196ae949272fe136cd3b7f29f/django-goto-url-0.3.tar.gz"
+      }
+    }
+  ]
+}

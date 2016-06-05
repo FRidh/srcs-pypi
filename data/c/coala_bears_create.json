@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.16"
+  ],
+  "meta": {
+    "description": "CLI tool to create coala bears by answering few simple questions",
+    "homepage": "https://gitlab.com/coala/coala-bear-management",
+    "license": "GNU Affero General Public License v3 or later (AGPLv3+)"
+  },
+  "versions": [
+    {
+      "1.15": {
+        "sha256": "73919343ec676ec9a9af385d83da8403f7bef0f636580e42a46eb3d4797fddae",
+        "url": "https://files.pythonhosted.org/packages/3d/1b/339d2607c76a0a0452951eab1e5a5b0c1df8130425bd450a02a6ca981e7f/coala_bears_create-1.15.tar.gz"
+      },
+      "1.16": {
+        "sha256": "dacb82eca66d19796693d380fb1bb911172ddebd0d6842e90222725ebdf3b13a",
+        "url": "https://files.pythonhosted.org/packages/ed/8b/9ad28a4f8489cfb3e57ee3f978a224d2ef3a9011bba732c36e8e6a5eb291/coala_bears_create-1.16.tar.gz"
+      }
+    }
+  ]
+}

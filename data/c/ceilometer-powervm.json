@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "2.0.1"
+  ],
+  "meta": {
+    "description": "PowerVM Ceilometer Inspector for OpenStack Ceilometer",
+    "homepage": "https://launchpad.net/ceilometer-powervm",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "b69222718c0c1b1e5fcfd4190252172b319927e89b85e9c4a237dc1b32863233",
+        "url": "https://files.pythonhosted.org/packages/5a/24/e52cbacde34d46b902410b220d566eca9621549513ab72bff682eb4e0395/ceilometer-powervm-1.0.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "cfaff0777be6c6e2289172c6e3feec820152b335dcfd47fe8af76736e26805fa",
+        "url": "https://files.pythonhosted.org/packages/1c/d3/4c914c116b4a38822ac6f43083b5af0908a0f9fe7ac4b2913efeee43b18c/ceilometer-powervm-2.0.0.tar.gz"
+      },
+      "2.0.0.0b3": {
+        "sha256": "d230b11e7f649ae113906c466ceadeed274557d508bb0c36eeb5f037a73b70e9",
+        "url": "https://files.pythonhosted.org/packages/23/49/2c37ddd2c63c75b1286cf6d40bc28727cfe31b66e962637229d789aa3a98/ceilometer_powervm-2.0.0.0b3-py2-none-any.whl"
+      },
+      "2.0.0.0rc1": {
+        "sha256": "3669b988f7820dfa0ac57017ccce1f0f761fc19b44c980c2a47e6b4a0021430a",
+        "url": "https://files.pythonhosted.org/packages/8e/79/cf46a7d02c87f005ca1d88d635ee2adfa85d9be9d80133e678d9c18d42dc/ceilometer_powervm-2.0.0.0rc1-py2-none-any.whl"
+      },
+      "2.0.1": {
+        "sha256": "2c6c38842fbfcf1fd4be6c99e4b5d2b6c49875b8a6101624de7a84fd59badb77",
+        "url": "https://files.pythonhosted.org/packages/3a/93/346dff40a9781ac19c251f562c2cc73ac5297f28fa3304c669811a8901ca/ceilometer-powervm-2.0.1.tar.gz"
+      }
+    }
+  ]
+}

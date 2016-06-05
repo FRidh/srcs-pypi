@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Allows to serve Sphinx generated docs from django",
+    "homepage": "https://github.com/littlepea/django-docs",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "e9d296ef5053b319665299fa308c27d7d7233251cb6a34caff77baa32bfb4256",
+        "url": "https://files.pythonhosted.org/packages/88/02/77ec51361302cf58b2386c967649b8942a2ca4ea525cb61340dbd1f8dd84/django-docs-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "12eac78c1b928faf356e032f93c6757ea697912c1a95871c7ec78b704b6d5755",
+        "url": "https://files.pythonhosted.org/packages/e7/1d/dbbfd2c006b143556ef885438282d551a1314818009ac99fa2c412b9ae53/django-docs-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "e0a416253e0ac60c3d8f3d823e4da1d93df2fa9efbe54cb11e2829df71dffec2",
+        "url": "https://files.pythonhosted.org/packages/ee/e0/8e988718e8a9eb8304c0ac1078e784032404604633d3c565a0a4ddb60837/django-docs-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.7.2"
+  ],
+  "meta": {
+    "description": "Simple SSH key management for shell servers",
+    "homepage": "http://zwhite.github.io/keyholer",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.7.0": {
+        "sha256": "b0137be2b9f7065256d58be693c81e476d6e417b4fdf7271f6f7383c9b2e323c",
+        "url": "https://files.pythonhosted.org/packages/d8/bd/25d37009360d399a6913b6cdcc48a5808d078784360277e607aec5c58ab7/keyholer-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "eb3f757ff8fbc064755375416c23d6740057282ada62bec60cc940762e1e6ae7",
+        "url": "https://files.pythonhosted.org/packages/14/39/d05f705a1e695ff85b5f6b767d3c660c5f8ae8f7fa9d429ab9b545b6fc5d/keyholer-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "4ae9000a42ff25403476730113edd58c1a762e11ddae14a24f45504182d9fa0a",
+        "url": "https://files.pythonhosted.org/packages/1f/ee/cd5e53e0e2d4d3c4c0d70de1400f6f1420686815123c348d206c9eea25c9/keyholer-0.7.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "20160418"
+  ],
+  "meta": {
+    "description": "Python bindings module for libfsntfs",
+    "homepage": "https://github.com/libyal/libfsntfs/",
+    "license": "GNU Lesser General Public License v3 or later (LGPLv3+)"
+  },
+  "versions": [
+    {
+      "20151106": {
+        "sha256": "4850cd9204a75080fae239c391f9de2519a1fc9c176b565e4c6bfcee9c339ecd",
+        "url": "https://files.pythonhosted.org/packages/f1/dd/3a463447e2f177273549d65f90eafa86db3080e8bff1c1b9fb0629665dc5/libfsntfs-python-20151106.tar.gz"
+      },
+      "20151205": {
+        "sha256": "511b393cb79086444a2b0cb055e42895497c75d654e6da7a32df360387324ed4",
+        "url": "https://files.pythonhosted.org/packages/cc/c5/868ca9790989fe7bdc340f83688850fd8c23e3b4a1ad0aa8ed72323e82c2/libfsntfs-python-20151205.tar.gz"
+      },
+      "20160109": {
+        "sha256": "2104d9ee02c4374720adba6ab7fdb2fb442b058280a05e6a4d7a05651fdd3d0b",
+        "url": "https://files.pythonhosted.org/packages/be/e5/e64649de10f11ee52b68fc3245ed1a319cbe8b2d4dfd7b3ce97747d447e9/libfsntfs-python-20160109.tar.gz"
+      },
+      "20160418": {
+        "sha256": "6cc59aae60475b0ac55e49cbf33a91cb2e4ef181350652690b32b747d7397200",
+        "url": "https://files.pythonhosted.org/packages/dc/b3/49170283b1454d43ef8fe26f9965161ff4fb87d57921152b17b53e90295e/libfsntfs-python-20160418.tar.gz"
+      }
+    }
+  ]
+}

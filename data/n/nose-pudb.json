@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "A nose plugin for dropping into pudb on test errors or failures",
+    "homepage": "https://github.com/AntoineD/nose-pudb",
+    "license": "GNU Library or Lesser General Public License (LGPL)"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "293be9433151f7b47900049e1c16766fbcfcb67e53afe1fc02f87f4b1c12d8f5",
+        "url": "https://files.pythonhosted.org/packages/4f/56/f359b9fc9861141965dd2db043e6efe6e7330c020c05a494ca44c94f18a5/nose-pudb-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "6459dbcaa9699b289e3addf640da84db80dbd31c05d47f2ff1b5d7fe3cde1cb9",
+        "url": "https://files.pythonhosted.org/packages/1b/a3/dc267e6b0e52ac4ea0afc72fd08a48f4735e1bf8022019aa2609fe032b17/nose-pudb-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "52a34484b398b6f08c29b069786226e1498d28a1a2e562cc1e63da058fdc1c26",
+        "url": "https://files.pythonhosted.org/packages/30/68/785771cbe96a1a99bd992134993b4729191e85b5a7ae93e9a67b14664595/nose-pudb-0.1.2.tar.gz"
+      },
+      "1.0": {
+        "sha256": "1f1c10f364231473acd4a4d5177a36567137b8ddc9e6875b951a2c81948059ac",
+        "url": "https://files.pythonhosted.org/packages/ee/93/077d64d1332c960717a9da7e26a234455dba9a038ac5048d2b3bbfb4dabf/nose-pudb-1.0.tar.gz"
+      }
+    }
+  ]
+}

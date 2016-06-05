@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.3.2"
+  ],
+  "meta": {
+    "description": "Python module to parse Erlang BEAM files",
+    "homepage": "http://github.com/matwey/pybeam",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "fbbe0e307e221494108c8a358edea06e356e2b4f997f6b9e5bee36a761036b41",
+        "url": "https://files.pythonhosted.org/packages/4c/a3/7260dd06c3c8ae6e585cb766aa301451e5663887970c4d1937d4ab8435fc/pybeam-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "7717120a87386042df9672dbc910c090f9fcd03da5d37fc774e7f978a4652eb8",
+        "url": "https://files.pythonhosted.org/packages/53/94/6b77695ca82134f5e7852a81893e70e6a0d109d3fb2e1f84e7225751be98/pybeam-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "940d9786cea1fcd4b1605ee132735eb5b8233f5f4a6c4739480adaa299156362",
+        "url": "https://files.pythonhosted.org/packages/96/45/ce6457f0d2cc7a19ba9b5dd12756c9adfb31d44515e5cff4ea9b09243674/pybeam-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "4844b5a04acf81a1a910901d926c44e1455190aa6e3a8cf6c98af104d795a69e",
+        "url": "https://files.pythonhosted.org/packages/64/78/46ae193bdb11866c4091d823b47e2e3206a2cc9e279fa6c4cd377134d1bd/pybeam-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "62ce58db02986bc5bb8b208b77b77f72d8d44a1cb4c6e2558088af05f882a32c",
+        "url": "https://files.pythonhosted.org/packages/29/c6/b9228a7148b0baaa52cf45414fbd530b854b351d51703a07a14b0b3c05bd/pybeam-0.3.2.tar.gz"
+      }
+    }
+  ]
+}

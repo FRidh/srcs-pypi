@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Tool to facilitate console script output redirection. When scripts run, often they have an output file option. If no output option is specified, its common to write to stdout. Its common to use tempfiles as output, and then rename the tempfile to the output name as the last step of the program so that the flip of output is atomic and partial/truncated/corrupt output is not confused as successful output. This is especially true when dealing with make, as exiting with error will stop make, but subsequent runs will assume that partial output files left in the workspace are complete",
+    "homepage": "http://github.com/andrewguy9/safeoutput",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "a12e46264d89e7724dfddf211e93cb7fee3ab39ecee4d5d267cb0dfc11cdadd3",
+        "url": "https://files.pythonhosted.org/packages/30/c6/6eb7114c68f29298176f5bb21de931667f554428180c152353faca5b6695/safeoutput-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "6a925357d7eae100f4505b04cbeca373e6c60daf5c4d824516476558bf1bb83c",
+        "url": "https://files.pythonhosted.org/packages/a9/fb/46e803746184098df3cbd39572294840bfe6215b046e4da132b13a9e5999/safeoutput-0.2.tar.gz"
+      }
+    }
+  ]
+}

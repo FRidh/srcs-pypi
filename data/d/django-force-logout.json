@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "3.0.0"
+  ],
+  "meta": {
+    "description": "Framework to be able to forcibly log users out of Django projects",
+    "homepage": "https://chris-lamb.co.uk/projects/django-force-logout",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "172c2e3f5664f9b7a5883bf52280be9c5012f3e0a8f046bb607c3c648ec505d4",
+        "url": "https://files.pythonhosted.org/packages/0a/d7/7948b779618f981632eac2a88f72dfbe760407763ae9c12e380ab7677ef4/django-force-logout-0.1.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "0dcd92b44704a86b12073a75b3cc63dd314bf43bc4237263c7319a6a544d3ea7",
+        "url": "https://files.pythonhosted.org/packages/a9/9a/b37c562ce28ea5150a7cd31d47ea3d2382902d192aabd1f0656ac8991d2a/django-force-logout-2.0.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "dc0495ee07c6ce395d2d31e80f0b48e2a2a6c8574f5501b76a5e446ecfab10cb",
+        "url": "https://files.pythonhosted.org/packages/67/7a/8377798ac54feac25c6e37f9189a71c717d70f8502441580cee9d8988d57/django-force-logout-2.0.1.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "5c7db3713c39c7703ec9a16bbd3eafff9dda3615e55121006ccdeda1ed598847",
+        "url": "https://files.pythonhosted.org/packages/64/b8/182ff2aa671f955a7508f0be6752039f896d5480f0a822e8b8a818efee59/django-force-logout-3.0.0.tar.gz"
+      }
+    }
+  ]
+}

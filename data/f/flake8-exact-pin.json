@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.1"
+  ],
+  "meta": {
+    "description": "A flake8 extension that checks for exact pins (e.q.: `foo==1.5.6`) in setup.py",
+    "homepage": "https://github.com/msabramo/flake8-exact-pin",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.0": {
+        "sha256": "54169d1e755ee9a083f20b4b14487f90a2b7856c66e99886b7e9febae7f25862",
+        "url": "https://files.pythonhosted.org/packages/2c/40/f3142d09a382414ad9da7bdaec8fa51b3023e1eaeea8209249e1bda8cf24/flake8-exact-pin-0.0.0.tar.gz"
+      },
+      "0.0.1": {
+        "sha256": "535efe39271408d745e9a54ac45c2449746419c44199f3507e84b6ac3f2d217d",
+        "url": "https://files.pythonhosted.org/packages/bd/bb/1a86841c7cc990f0fb3ae7adddbca84d7f02b1e8ec48dc03ba97c72f7c43/flake8-exact-pin-0.0.1.tar.gz"
+      }
+    }
+  ]
+}

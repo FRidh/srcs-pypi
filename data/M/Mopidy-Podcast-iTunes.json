@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "Mopidy extension for searching and browsing podcasts on the Apple iTunes Store",
+    "homepage": "https://github.com/tkem/mopidy-podcast-itunes",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "d722d73d736ab7e2aa1aab2a66850c655ebc5fe3591a5a80cebf6542b5991e3a",
+        "url": "https://files.pythonhosted.org/packages/af/44/ad45b535066dc25b49b3ebefb30e143634eab2c61681da9558a59ccd136b/Mopidy-Podcast-iTunes-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "a2e6260a737b3f1c484f54eb8f1027bb2192e0629362124563413f031a0ed2a5",
+        "url": "https://files.pythonhosted.org/packages/6e/94/5a5839a3b10c4fe39fc439eb6538967e35f34d5a82f8603402764336efb0/Mopidy-Podcast-iTunes-0.2.0.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "0dded8f7cbb28d9a921faebb645b2c6449048aeb6873fe426cbd486af8942060",
+        "url": "https://files.pythonhosted.org/packages/f1/c4/61aa29c086ee51da1ff9e37df4dad46892363871a02703c3dae35e3a8370/Mopidy-Podcast-iTunes-1.0.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "39517cb64174e6bedf4a84626e0d907a19f5b9c3072e8d6a0c1c1c3c92f3fbf5",
+        "url": "https://files.pythonhosted.org/packages/2d/6f/36a610dbb78f33a3d8c91368c9381bc0ccf0440dee008848df85c69394f7/Mopidy-Podcast-iTunes-2.0.0.tar.gz"
+      }
+    }
+  ]
+}

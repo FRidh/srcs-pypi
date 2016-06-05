@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Py3k-compatible fork of Paste's urlmap",
+    "homepage": "http://github.com/tseaver/rutter",
+    "license": "BSD-derived (http://www.repoze.org/LICENSE.txt)"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "879b7b78512a09646c458609168260a8e27169cc73465689d3e56950e092b9ed",
+        "url": "https://files.pythonhosted.org/packages/86/c0/cf347aaf450912c0e098b960840a42572318b88e43fb8f69908e5f644c20/rutter-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "3bc67aed1d91de46a85788898636cb06cd2b060cab577a2c6898c4fd3a3b882e",
+        "url": "https://files.pythonhosted.org/packages/98/5a/3a7794b40eb9c609d1da7173902e1b696e2afcd4ed046c667b038bdb4dbb/rutter-0.2.tar.gz"
+      }
+    }
+  ]
+}

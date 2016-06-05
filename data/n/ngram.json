@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "3.3.0"
+  ],
+  "meta": {
+    "description": "A `set` subclass providing fuzzy search based on N-grams",
+    "homepage": "http://github.com/gpoulter/python-ngram",
+    "license": "LGPLv3+"
+  },
+  "versions": [
+    {
+      "2.0.0b2": {
+        "sha256": "0feb2f59982e92e715f61ff8ac34216827229bacc3065b34d2bde930c0200bd9",
+        "url": "https://files.pythonhosted.org/packages/0c/96/d6724f54b9064696923cd526258c72c6bf163d5c950592a9d4ec392b489f/ngram-2.0.0b2.tar.gz"
+      },
+      "3.0": {
+        "sha256": "720c87632035080796b635e3eddea8aa2ccce54f6a6aa594847f6464aff966b1",
+        "url": "https://files.pythonhosted.org/packages/a5/73/fff9959d4cb87c05b3647fc724e2fc23350da80acb1674eff2ff15f23c23/ngram-3.0.tar.gz"
+      },
+      "3.1": {
+        "sha256": "12146c9872b9622381546ea15708208c079805fac06187551567e3e577b97f8c",
+        "url": "https://files.pythonhosted.org/packages/06/e7/630caee9547f75e8b68ea510b4509372e49e2d54f341f7347df5a9af9333/ngram-3.1.tar.gz"
+      },
+      "3.2": {
+        "sha256": "968783ead6efca1b469f32defe51eaaeea65ffaaefe32d9809c0b77d9d23e9d2",
+        "url": "https://files.pythonhosted.org/packages/0f/d9/f9539b46a3e625577f78928ff5eaaefc81bf3512e8b5c3417ceaabb844f3/ngram-3.2.tar.gz"
+      },
+      "3.2.1": {
+        "sha256": "cdaedeb789b325b6d5c8113fa47172d9e931a7245ff89d1faa7a5d2527bb0633",
+        "url": "https://files.pythonhosted.org/packages/e2/d0/4973894f58866e7be44f19c484a32317f3680b940324d99b1e4bdbd9efb6/ngram-3.2.1.tar.gz"
+      },
+      "3.3.0": {
+        "sha256": "ea848fa3dfabbd5a1afdee4fe1871337c6c6a7225cac9ec5f2de8223ac2223db",
+        "url": "https://files.pythonhosted.org/packages/78/ff/4a7a88047fe50ab9806446488730ab3f74fc277be2357ac46f6f0c9b0227/ngram-3.3.0.tar.gz"
+      }
+    }
+  ]
+}

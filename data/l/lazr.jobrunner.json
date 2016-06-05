@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.13"
+  ],
+  "meta": {
+    "description": "A Celery based job runner",
+    "homepage": "https://launchpad.net/lazr.jobrunner",
+    "license": "GPL v3"
+  },
+  "versions": [
+    {
+      "0.11": {
+        "sha256": "6d3069342febc43c9015da6988b54adc7a061c7378337a602cc506221955e079",
+        "url": "https://files.pythonhosted.org/packages/3b/a7/75315713b4e8affcc5476737fbeb422bd659b383ab4ae5cad94936d0bfab/lazr.jobrunner-0.11.tar.gz"
+      },
+      "0.13": {
+        "sha256": "b854f321e4b42382bd1ecbc68f350241fd6dbcde0e9cdc59ea7862a5bb25c195",
+        "url": "https://files.pythonhosted.org/packages/8a/74/f61f6b1d981b2cff2b1bba22fb1b3b09b78814407d3a05829f2a23927d8d/lazr.jobrunner-0.13.tar.gz"
+      },
+      "0.3": {
+        "sha256": "5fd32ee8d8d9011e01b4465e73655d53530081660d35c76d73297a83d4f25f44",
+        "url": "https://files.pythonhosted.org/packages/3b/13/5245c9f362cdc424d6084a11145ba2d0ab40e2f06f094799a2f7cb108eb8/lazr.jobrunner-0.3.tar.gz"
+      },
+      "0.6": {
+        "sha256": "e54fd6d907f75d02cee15f173386f2b64b08a89ae0dbbf31f58b214ab4d94b47",
+        "url": "https://files.pythonhosted.org/packages/40/6c/13578b00cfdf619dfa4accd78e9f8792876516ae1e7bca60db490f7f94d1/lazr.jobrunner-0.6.tar.gz"
+      }
+    }
+  ]
+}

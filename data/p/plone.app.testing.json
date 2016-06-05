@@ -1,0 +1,118 @@
+{
+  "latest_version": [
+    "5.0.1"
+  ],
+  "meta": {
+    "description": "Testing tools for Plone-the-application, based on plone.testing",
+    "homepage": "https://pypi.python.org/pypi/plone.app.testing",
+    "license": "GPL version 2"
+  },
+  "versions": [
+    {
+      "1.0a1": {
+        "sha256": "7eacb34fd7f1160ba8d52d42c069523901d8b538186beffc4fa1b1c993e0b8c3",
+        "url": "https://files.pythonhosted.org/packages/07/61/6126bf64abc8fe3925bca891c6ffb1b603e8d7edf2bdebfae491eaac9d14/plone.app.testing-1.0a1.zip"
+      },
+      "1.0a2": {
+        "sha256": "9a61d6c607650f0eab54e979fba8ba1948626e4b7ab2cb4008d78dd7e63eb01b",
+        "url": "https://files.pythonhosted.org/packages/2c/b0/ac8c38207a66c970b6e0f7b952ee34c3c6b8d3a2f44cf8741b9f67f6441f/plone.app.testing-1.0a2.zip"
+      },
+      "3.0a1": {
+        "sha256": "f62b1897f4d00de2212c821cfe08f248e54aa0ca7b12ee6b391df97f866cd0a8",
+        "url": "https://files.pythonhosted.org/packages/ba/13/46c30cca3453aeb301b80fad35ba5d3f699a04a40e66a9ef708f2f42f336/plone.app.testing-3.0a1.tar.gz"
+      },
+      "4.0": {
+        "sha256": "be9be3a84ae60297a7ee9dcf7fda71ef896605310bbba05da78003bd7a7cccf8",
+        "url": "https://files.pythonhosted.org/packages/ac/44/4e3764e96b63ad8c42b2cdefe32e9adadf0bd9357af439f5b147df0154af/plone.app.testing-4.0.zip"
+      },
+      "4.0.1": {
+        "sha256": "7d159ac0e2801f3c88be490ef660d99388082d8f3f0c6a0e08c7d98a852315d0",
+        "url": "https://files.pythonhosted.org/packages/e9/b1/5d2e2ace67373836909219b5bd74674d7a48379e1133014e1744b34f08e9/plone.app.testing-4.0.1.tar.gz"
+      },
+      "4.0.2": {
+        "sha256": "b88261a394b4e6748654c2c83bd25525d1139b54f4200f1b606747b0b91dd3e1",
+        "url": "https://files.pythonhosted.org/packages/fe/c4/58e211415b3796424bf2028182dafec934bf7b81616e67bdb92ac3791f39/plone.app.testing-4.0.2.tar.gz"
+      },
+      "4.0a3": {
+        "sha256": "e6ade043de21105877e32764c2a3a85dde71516076eacbbe2dee5e5592799fe0",
+        "url": "https://files.pythonhosted.org/packages/d4/7d/29cbba2f15683471d4a9df93e2433f0f3c761e3b6d7510d221d783141f21/plone.app.testing-4.0a3.tar.gz"
+      },
+      "4.0a4": {
+        "sha256": "5f98cf07422929232315dc4b914ed401e752d395f73a97960021407ba62fc10b",
+        "url": "https://files.pythonhosted.org/packages/d3/63/191a3bab0a58800fcdadaa6b294a47993c85c8b9f108a546961687f059cd/plone.app.testing-4.0a4.zip"
+      },
+      "4.0a5": {
+        "sha256": "73f00207749e09fc9e7d880f4d6fee8bc12634e5cc17d8bc354bde2a34c2e598",
+        "url": "https://files.pythonhosted.org/packages/08/8d/badcd44e75447db84de9dae12f47dd47a8eaa18e99d70ec0fb60e30b1e26/plone.app.testing-4.0a5.zip"
+      },
+      "4.0a6": {
+        "sha256": "59e7eedfd51527689a0c6309c90b1261f79b41c5b271a9e18f6423b2b0ba5f05",
+        "url": "https://files.pythonhosted.org/packages/66/b9/477889499d653e1ccb9e43da0c768946cd1c71f97b2673cef57d0e90ea0a/plone.app.testing-4.0a6.zip"
+      },
+      "4.2": {
+        "sha256": "2b89675b25dfaa22795e5e87d7b25ecf1e70ea8cddf42f89b2c9b88d097e0cb6",
+        "url": "https://files.pythonhosted.org/packages/5a/99/386c883712db5281178167a24e92e8d487c12f671317a6cf2b2c2fc9efc5/plone.app.testing-4.2.zip"
+      },
+      "4.2.1": {
+        "sha256": "0e3368cea92e64c4fd8e57ce9cec6080d920676bdea7497fbf277a78700fc036",
+        "url": "https://files.pythonhosted.org/packages/ec/80/1b6d1115a0b278ef746d0e523b849c0cc4dc9abd7eb25ec925176bc0af61/plone.app.testing-4.2.1.zip"
+      },
+      "4.2.2": {
+        "sha256": "3203e116f268413aea9140851368242694282d522756d44df8ff6f5002bc073e",
+        "url": "https://files.pythonhosted.org/packages/38/23/2f1d686ae02f88b83fafc5b8e7af6a25373e2f0904a1c2600109ae3b76e5/plone.app.testing-4.2.2.zip"
+      },
+      "4.2.3": {
+        "sha256": "af82cc65ff6e0c68ebed16145f221f72c41520fa735ccd63fa90b4241b957a13",
+        "url": "https://files.pythonhosted.org/packages/42/fb/698ef5c3d8a9fa4bb0db4c1e8a706ab4f70c5d2a1161ce99d2084e11501e/plone.app.testing-4.2.3.zip"
+      },
+      "4.2.4": {
+        "sha256": "14ff2b134da46bf923416e17c4189333abbdab127819c5a13b330680900ec5ab",
+        "url": "https://files.pythonhosted.org/packages/3d/50/1d4f9f020fce7d171de52cd5c34a87106aada5fa9b0b694a01321f6c2a0f/plone.app.testing-4.2.4.zip"
+      },
+      "4.2.5": {
+        "sha256": "efb8d082d22e320cddfa6f9666d98f85f68076eed366b63dad8fa65a74526375",
+        "url": "https://files.pythonhosted.org/packages/a4/94/1d5ae50e160558bdcd52a8b8e499ee2736a54100a4d4f8572e61a1048af4/plone.app.testing-4.2.5.zip"
+      },
+      "5.0.0": {
+        "sha256": "57280cc60682ca25a855bf86cc0e4fcdc4cda34c9b1ac678b821353076fd305e",
+        "url": "https://files.pythonhosted.org/packages/71/b2/782002294feb82263a9da65f4ab2cd3d371e2822f09b42aed6a0ac4b8872/plone.app.testing-5.0.0.tar.gz"
+      },
+      "5.0.1": {
+        "sha256": "a3fbb363fef25e38c60158cd8ee4238c528aad9f1fd324d24626b8e7a22f6f82",
+        "url": "https://files.pythonhosted.org/packages/d4/26/86b9de2f01ee4cfdc19b6cb27dd4aba02079e4f99ee361a6564bc44538b6/plone.app.testing-5.0.1.tar.gz"
+      },
+      "5.0a1": {
+        "sha256": "f16c8b6335243966d5abf80a068f91c518fe82d5375ea258c57cf983bd17ac50",
+        "url": "https://files.pythonhosted.org/packages/ae/74/9ee1d13d1a71798ea6eedf842e3ab95e831eab0a654723f3cbcf5a5923d9/plone.app.testing-5.0a1.zip"
+      },
+      "5.0a2": {
+        "sha256": "8d88b8ce9a74937159d1ab334650417e3b314d501eb2b8500bb7d4f522aa39f2",
+        "url": "https://files.pythonhosted.org/packages/6f/f2/3a6e9748d4bcce49204828902a54d15129141630421f61277a0fd5362b4d/plone.app.testing-5.0a2.zip"
+      },
+      "5.0b1": {
+        "sha256": "5ebf91b58bd23f656339afd0be6a52770fb358bf5a90ea26bb39a8a7fc90fed4",
+        "url": "https://files.pythonhosted.org/packages/c2/8f/08e533867999be858fd6129a3d377165d1347765c03d84e6a364877086fe/plone.app.testing-5.0b1.zip"
+      },
+      "5.0b2": {
+        "sha256": "e9ff2ee7e9fb6e31410b34860bee1b1a75e8f7af51e2c0780bd5ab5049f269b8",
+        "url": "https://files.pythonhosted.org/packages/30/84/415871a0c4c05ae3b3b4db989048d8c5b22ca87af7f9d523d4da1da9bbc6/plone.app.testing-5.0b2.zip"
+      },
+      "5.0b3": {
+        "sha256": "96f9d3cb18b41d65a3636ecaca36ee499018e80b566c08d4ada0cf5b1b306840",
+        "url": "https://files.pythonhosted.org/packages/6d/d4/cea8b29efaf263595f17f6eb4d1672db368b323d9cb5eed855738d7f38e5/plone.app.testing-5.0b3.zip"
+      },
+      "5.0b4": {
+        "sha256": "e8428b1e97067cfa193cfd2a38046ffc77bec3b37efdcc76e99c83a19e08d723",
+        "url": "https://files.pythonhosted.org/packages/b2/f6/6a33e9bb6411d70f059d349b2fe2da6879c88b96dd2c7b76e2fc4017b232/plone.app.testing-5.0b4.tar.gz"
+      },
+      "5.0b5": {
+        "sha256": "4cd0a41746021b721640f6069b77e2b9887bdcca1e4378ec19d3c3a1b433e385",
+        "url": "https://files.pythonhosted.org/packages/ae/81/b6bb794c23718ef09d5946b115bdcda52c90c1fb5d9220beb6f7d5cf2d2a/plone.app.testing-5.0b5.tar.gz"
+      },
+      "5.0b6": {
+        "sha256": "6dd7435694acba2472677154ffeb4f8de8111bb81c5b9760f71344e75a3b9119",
+        "url": "https://files.pythonhosted.org/packages/09/a6/d0418781e13a4c4ad3a980ee6466f5d385571dffe7b44b30d1ea195b9e23/plone.app.testing-5.0b6.tar.gz"
+      }
+    }
+  ]
+}

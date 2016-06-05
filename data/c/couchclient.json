@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Light-weight read-only CouchDB client for loading documents and views",
+    "homepage": "http://github.com/gmr/couchclient"
+  },
+  "versions": [
+    {
+      "1.1.0": {
+        "sha256": "98f5d37598d61721fd5d3cfb3dfa222a5f8686448770fbbcb403ac9d246ad3bd",
+        "url": "https://files.pythonhosted.org/packages/1c/85/4943999430aecd33df75fb7e5567dc72a9cae6376f3c0d96cbd9090845db/couchclient-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "fb4ec308e96fb923f84fb20b333e13062268560282d2a707a3ce5598118b5ff8",
+        "url": "https://files.pythonhosted.org/packages/32/09/6b491d22c4b470cdaef2839862e79bc97f5f1376a71035b7e51d43c4d357/couchclient-1.1.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "1.1.2"
+  ],
+  "meta": {
+    "description": "This tool is similar to apachectl but for nginx. The                     important feature of this tool is ability to list vhosts                     configured on a nginx server",
+    "homepage": "https://github.com/fooltruth/nginxctl"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "f2ab78edf28a1c867ce87abe8d0bb3a37e6bec0e3bb26e2dd0b2823526d7573c",
+        "url": "https://files.pythonhosted.org/packages/63/82/e2fcf8922989e00638a6fe289839c19bf00d07b4cfb77bf9dfbc5778a58e/nginxctl-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "d67f27669b28ab45f79e23511a9ca4025b7000b907377e11dc317d7b5ac47b81",
+        "url": "https://files.pythonhosted.org/packages/71/93/b3244547f6e9450a189b89c01099ccdb2dddf7ced4a07ad61f4daee99cbd/nginxctl-1.1.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "17bca7ed0555a71ace6e57783fd8a4b4f233e0ddf6623f3bea8ec73b816da8dc",
+        "url": "https://files.pythonhosted.org/packages/92/7a/99e4fcd2ce10ff82e112d4c8bf35319b35b6ee066ed4271b2b442d9ae5a6/nginxctl-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "0f1e753b91223669388ad005acce97a2b00ca0837d745d40e8501f1309d53c6d",
+        "url": "https://files.pythonhosted.org/packages/72/45/936e0805da71fcaf0e5a1f9256f757f5fa95057e391687ba067ef2d52926/nginxctl-1.1.2.tar.gz"
+      }
+    }
+  ]
+}

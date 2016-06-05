@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.5"
+  ],
+  "meta": {
+    "description": "Convert nose.tools.assert_ calls found in your Nose test modules into raw asserts for pytest",
+    "homepage": "https://github.com/schollii/nose2pytest",
+    "license": "BSD-3"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "cda3ee2c7b8afbf05353ae452daebb7cc76908ffd6e110c70f55dc7bf85b8993",
+        "url": "https://files.pythonhosted.org/packages/d1/3b/2469ea672a370f2eca1ff42ed0acb4be404587eaed7e8f35e5bf5098fa23/nose2pytest-1.0.0.zip"
+      },
+      "1.0.1": {
+        "sha256": "1681467bb07666b32d09c3a836dc86a042584e949a0c048eb7a8f3f2424f0a41",
+        "url": "https://files.pythonhosted.org/packages/39/de/dddcc20019e129269434d5f9870c332e6513223924e255c04252a89f50dd/nose2pytest-1.0.1.zip"
+      },
+      "1.0.5": {
+        "sha256": "3341ae24d54d844193d43301e5d1844cf416fa7b95762f5a909c05629fd4d453",
+        "url": "https://files.pythonhosted.org/packages/22/08/7a44dc02962d01081b87de57851a58e46a006624a6207515d2d4350f1e7f/nose2pytest-1.0.5.zip"
+      }
+    }
+  ]
+}

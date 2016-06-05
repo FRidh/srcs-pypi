@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.91"
+  ],
+  "meta": {
+    "description": "Hybrid Easy Discontinuous Galerkin Environment",
+    "homepage": "http://mathema.tician.de/software/hedge",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.90": {
+        "sha256": "9e43b1e2f00320d5448d28a475497e45d70f983e0b798fd80fd4e8b488a7e22c",
+        "url": "https://files.pythonhosted.org/packages/51/51/0f856e5d49fdb636fa9046e7325e88a5a810b541dabb6959b60cf291e6cf/hedge-0.90.tar.gz"
+      },
+      "0.90.1": {
+        "sha256": "b0aa27f5a560af30ed0e18e7ed7218a1527eba53da03bed864ab739e0a77ceac",
+        "url": "https://files.pythonhosted.org/packages/31/76/b7d24728109195839349f17f619919e099dcfe4b04d5793cd3a6991138c1/hedge-0.90.1.tar.gz"
+      },
+      "0.91": {
+        "sha256": "8c50ba7235c7d7df114210fcdcba1c015e81e87b3cbb84f961bbade3ce983373",
+        "url": "https://files.pythonhosted.org/packages/5d/a2/a7355cafdc109b67c83e390cd609f05c32f63ac51ed6c2e460a44fcf83ed/hedge-0.91.tar.gz"
+      }
+    }
+  ]
+}

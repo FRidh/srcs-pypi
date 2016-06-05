@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.24"
+  ],
+  "meta": {
+    "description": "A scientific plotting package",
+    "homepage": "http://home.gna.org/veusz/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.23.2": {
+        "sha256": "f75cab64a7a86b01ecee04ae404efbecf97a77405120fcd643672061f876494a",
+        "url": "https://files.pythonhosted.org/packages/02/7e/f823b31caa93b9d633d18d3b102f4ee63b7e5bd84287b5aa9b50e76a9327/veusz-1.23.2.tar.gz"
+      },
+      "1.24": {
+        "sha256": "850240586ad8a97cc31fb2f2caaa6211ba3acf5fb594d8f336b59cf3977b0559",
+        "url": "https://files.pythonhosted.org/packages/03/08/693abee9d141420c7e66f69fac597c08aff595e02376c5a393df882e0502/veusz-1.24.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "latest_version": [
+    "0.9.2"
+  ],
+  "meta": {
+    "description": "Postgres integration with asyncio",
+    "homepage": "http://aiopg.readthedocs.org",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "30776ee2d0d27089153a64c242ac805d0b83f6768d718f6bef29e3cea648e5f7",
+        "url": "https://files.pythonhosted.org/packages/07/8a/7f466fc8fc2e4166407986a8ac11992adedb5f3f7f074583858529b9520a/aiopg-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "27a9b0d9a2cb3862eaca136b0f6a62a0165fa9303141b00a9923e0d14c48e82e",
+        "url": "https://files.pythonhosted.org/packages/52/79/310698842f174ca14ba82e259b821af5e71453b67b23b83b3b770b9bea44/aiopg-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "f7f8c74e6d7f2d694571dd45d8e28159ef08d1b4a5a7f20d2e8a41764cee7294",
+        "url": "https://files.pythonhosted.org/packages/a0/03/4ee297f518fb3f93017ae5e23ce99fdbef1e8ae6bd7228ce2ee94d59d16d/aiopg-0.1.2.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "fe54252eeec64cdf364dda106ecf3a9902ea39db70cbdf4c6201cfc3620e0587",
+        "url": "https://files.pythonhosted.org/packages/c1/25/ee0aa35aa0885a59017484fe035c2c9f887ed0f1925060fefce76f5eb2ce/aiopg-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "504f7ec72b58ae2ca134ababcf45cac060802a883a84edef426a04abed2daebd",
+        "url": "https://files.pythonhosted.org/packages/7c/08/6d6c43348d2dbbbb6224dec83ba7ff390da881217e4d35abadc48b583df5/aiopg-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "fe0ebc14500a2f3ff6b307a0238af6fc5c7f69464396ead11f60bf32b8036629",
+        "url": "https://files.pythonhosted.org/packages/bd/10/1e4e4b12051e583e9d813e5ed8aa92b86f5dfeb6e2e2bd457d3523ef2620/aiopg-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "d5e6cbb7fe115cef13c9d60185816a208655c0f11187c0f4b8d898544919b5f5",
+        "url": "https://files.pythonhosted.org/packages/bf/89/68c38170c56940cfd7619dd0b4d8e21130a8dde1403d65cf9007e2264911/aiopg-0.2.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "5d47915f1da08f8b973ac5503920262a14c463dc3a345bf8fff84c540aea13e2",
+        "url": "https://files.pythonhosted.org/packages/bb/86/fd9e65788a4c69d2eefe52db782c95f5ae2d52294e07402b91f19cb1f572/aiopg-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "43d1733115ef958092616f9460043bab7b3f3959b9d813118796404368a2296b",
+        "url": "https://files.pythonhosted.org/packages/b3/af/84eeee6f9f86a6626701dee5a7793b8cc14c4523cb1f8bb910b2bbb4d384/aiopg-0.3.2.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "8ec8016f8b2f42c7d936b95a07ffb759ac5fe054943b922ebdfa553d960675d0",
+        "url": "https://files.pythonhosted.org/packages/24/67/86ce6116a65685d4b1b24c3846260e9e7f271126ec704fa0530d6b9acc00/aiopg-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "a9fe260dca82ca6d3cf78e436e27a4f95eefd02e4ef8b6a98b6868eff1f9947c",
+        "url": "https://files.pythonhosted.org/packages/6d/c2/a3c14bf55a2a6f58f0729223871f0af7697ef3c44f7c8b2a947689e6652f/aiopg-0.4.1.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "d44f59b6071f6fa5e7f7518d5eb1214c650bb34117c98b1071459de2295d9c7c",
+        "url": "https://files.pythonhosted.org/packages/48/3a/ca31e79fdf57f781e0df46886502626eeba62bf22e62404a2383f8a3c5da/aiopg-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "f8c743f5c8fa74257da40a98bf22a2c5aecd876690f922291b7312d0d017664b",
+        "url": "https://files.pythonhosted.org/packages/14/b7/d6eba5dd706e009f20d88efcd580446a02f1f6742500b4a483c1586688ad/aiopg-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "fcfdbac8a6548b8f755f381322c1a956c860ea7c0683e3d6a3f28860a3bdc472",
+        "url": "https://files.pythonhosted.org/packages/68/a1/b31b7b4ab5b013349989b9aed0cdc43274d8f7b33318adf2f73b4589acea/aiopg-0.5.2.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "9d046285389082ff5c972c6543b06a378c1f436c857c66196b80bc1a91677e7c",
+        "url": "https://files.pythonhosted.org/packages/ab/db/73a4b25fe3a25e901fc5127e1c6877a34c0c5314d6c3419d75b494f11c6e/aiopg-0.6.1.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "1cf874238ed6d9f078d81d0f2cf9f9c9cd0e8da5aa77c4d2b251e255d3d998e8",
+        "url": "https://files.pythonhosted.org/packages/32/e4/57137b4fc65460e30071e0e4cc4be294ccfc427536460f2f004a61f3d325/aiopg-0.7.0.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "5a795881900722862d5f2e5cf571f7a89a341abd1ddc3faed5518d2daee95057",
+        "url": "https://files.pythonhosted.org/packages/f8/1c/1b25169483bc3df12e31aee9a36f9c233f16cab976dbce86983b97f1f7e8/aiopg-0.8.0.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "ca04908f4e81a4d92021de5fcff6b166dc1bab7154439ee81b59bc4984a62dde",
+        "url": "https://files.pythonhosted.org/packages/74/68/a790db0886397007fc4e43eff7bcbb29dfd2b887ff63783c6112b748da4b/aiopg-0.9.0.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "166c7f8ca40d49219ee815d8441ba720a7ddf44a3584354c83f52c028bd967ce",
+        "url": "https://files.pythonhosted.org/packages/26/9d/8e7f5ddece9a7dd95830657b36a90e97db90384f592fac9f4b07df892cc7/aiopg-0.9.2.tar.gz"
+      }
+    }
+  ]
+}

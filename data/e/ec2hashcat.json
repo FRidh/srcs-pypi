@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Password Cracking in the Cloud",
+    "homepage": "https://www.github.com/wrboyce/ec2hashcat",
+    "license": "License :: OSI Approved :: Apache Software License"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "0db3f7bff1170ffa1b0df305744b0ba56508df20afa1d63da01cf66daa637910",
+        "url": "https://files.pythonhosted.org/packages/8d/d7/c172473d26987c37c2dbf0a44fde2bd85894411558744c2a0f1ad4eed34d/ec2hashcat-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "7944cd4532dec1053eb9240ad9f08ccb17a40c4ea522db507236f73b5bb16631",
+        "url": "https://files.pythonhosted.org/packages/23/30/2c1af000e455202576efcec28f0f1f9bc6f563b26ea242c68250845de0b7/ec2hashcat-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

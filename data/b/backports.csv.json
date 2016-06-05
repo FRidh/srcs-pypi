@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Backport of Python 3 csv module",
+    "homepage": "https://github.com/ryanhiebert/backports.csv"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "074ff916d7e461f5d20ac742e5d7ded139ac37459add755c842473dbe5aa6b37",
+        "url": "https://files.pythonhosted.org/packages/2d/0c/edbca39513672ce6308aca8023d3fbef06e54e1c23485a79f1f1156738ee/backports.csv-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "c148acae78fad395e5b4dbcd01a48af96c4a50b3f5adb71c700a1e45d2e237d9",
+        "url": "https://files.pythonhosted.org/packages/f9/77/69c8e7d6aa5ec6f8eeb7f34de7180b745a598526dd79a0d83c89a3413a70/backports.csv-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

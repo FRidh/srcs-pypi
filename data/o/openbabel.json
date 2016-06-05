@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.8.4"
+  ],
+  "meta": {
+    "description": "Python interface to the Open Babel chemistry library",
+    "homepage": "http://openbabel.org/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.8": {
+        "sha256": "8a4186fbe268612b1be3da2d897e586330f5343a3a2c6835e6c29b9935f0c1a0",
+        "url": "https://files.pythonhosted.org/packages/12/52/bb5e38737d41df09d11818031aa8de58620cd2689e872c9d3127d9eb9e37/openbabel-1.8.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "5c1670e5692434c5ca99372d1a700303b7dc977fe321163a65b5c2d333f5bd7e",
+        "url": "https://files.pythonhosted.org/packages/af/63/976ef92f2eb827b0def52a69f537c9fe27754533e1f98735d167448894b2/openbabel-1.8.1.tar.gz"
+      },
+      "1.8.2": {
+        "sha256": "c9854a7b83ad337582547ed3ded6535b378b2b9bef6bc180f6a26a2df149b1a5",
+        "url": "https://files.pythonhosted.org/packages/41/46/5572ceaf814ca86894cc7a0847da5e89fc359a2b0970a7015cb67163d64a/openbabel-1.8.2.tar.gz"
+      },
+      "1.8.4": {
+        "sha256": "274b6e8d1b08a6640dbb55e2c5a47ed2ecde5552d222e6372e9faf12b639834c",
+        "url": "https://files.pythonhosted.org/packages/fe/82/63910e38f48178dc6287c07272e9b486b436940d34a4b237a42bf4f7d40f/openbabel-1.8.4.tar.gz"
+      }
+    }
+  ]
+}

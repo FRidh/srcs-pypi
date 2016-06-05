@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Speed up shutil.copyfile by using sendfile system call",
+    "homepage": "https://github.com/desbma/pyfastcopy"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "415fb8253331acff23989bfb289b1804ecf6e23a5168eafd2a4b28d20b69ceab",
+        "url": "https://files.pythonhosted.org/packages/36/f9/c5dfa74d077fc483671a7150792977682805580d8f9d21569aad8cc849a8/pyfastcopy-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "602996907f6366c1003799b38300dba76a57043b983abe3bf4301a19f89b5e75",
+        "url": "https://files.pythonhosted.org/packages/00/38/65865c557f17a80d8393740db7367324d1f54d22e0f03a9c7476dbb7d767/pyfastcopy-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

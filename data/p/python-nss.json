@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.16.0"
+  ],
+  "meta": {
+    "description": "Python bindings for Network Security Services (NSS) and Netscape Portable Runtime (NSPR)",
+    "homepage": "http://www.mozilla.org/projects/security/pki/python-nss",
+    "license": "MPLv2.0 or GPLv2+ or LGPLv2+"
+  },
+  "versions": [
+    {
+      "0.14.1": {
+        "sha256": "ead047e786240c45936f098d44157da8cff9196ae615e34a1d5f6f87b2859579",
+        "url": "https://files.pythonhosted.org/packages/4d/c0/ecc7824df8c2908c0ad5fb25feca696bdb8f07e58709f9ec7bd4a584b913/python-nss-0.14.1.tar.bz2"
+      },
+      "0.16.0": {
+        "sha256": "cecd3a33c4cb4ab0f5a3c303a733b2eb62a3760b500e6b411313ab3b30f8e575",
+        "url": "https://files.pythonhosted.org/packages/bb/b8/53374d6dea097b851b7add77ed75ed8730b71b31213a8579250fe4441e30/python-nss-0.16.0.tar.bz2"
+      }
+    }
+  ]
+}

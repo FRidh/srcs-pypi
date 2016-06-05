@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "3.0.0.0b1"
+  ],
+  "meta": {
+    "description": "OpenStack Disaster Recovery",
+    "homepage": "https://wiki.openstack.org/wiki/Freezer",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.1.0.dev23": {
+        "sha256": "17ee63cf705ceec9759fc815d4f00af301068b9a3fa900e230052a039bd91388",
+        "url": "https://files.pythonhosted.org/packages/47/63/3030b4cad5a18b35e4fb333764f1c54363bbddda976415cad0777b2fb8eb/freezer-dr-0.1.0.dev23.tar.gz"
+      },
+      "3.0.0.0b1": {
+        "sha256": "cdc0fea093ab61ed3cd6107087c533b3f3d04227ee13d0079f37443baf285f4c",
+        "url": "https://files.pythonhosted.org/packages/6f/06/b1a8357c6a6efb55d9f87ba4752528337829d7ca8f0ae992819f94a2df95/freezer-dr-3.0.0.0b1.tar.gz"
+      }
+    }
+  ]
+}

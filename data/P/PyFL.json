@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "A wrapper around the NFL API, with some DraftKings sprinkled in",
+    "homepage": "https://github.com/kacperadach/draftkings_points_scripts"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "6b738c461dedfa5c41050d2b4a9119bc5af214623c4f84eed9a6cfac23ff4cf4",
+        "url": "https://files.pythonhosted.org/packages/21/e7/0d51b3f2b84ae6fe20d349bb53da0ae7821d8817d46303bf5a1e8128aec1/PyFL-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "d3fd14751efd0adfe2d37e42af18fa109f7d4441a84a09a16782d3d1df3188c2",
+        "url": "https://files.pythonhosted.org/packages/d8/70/23c6e45f35cbc08866d2593d5a92b34493505696b3d3bd3769a28c0ac420/PyFL-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "3d1f18d7201efff952b88975f5ec036c3a7af896adefaabceb79a1cd2eb86058",
+        "url": "https://files.pythonhosted.org/packages/dd/69/8310e18d7166c49d63c96c52665abebdd0e68eb7dec4ff59dfa9fba0fa3b/PyFL-0.3.tar.gz"
+      }
+    }
+  ]
+}

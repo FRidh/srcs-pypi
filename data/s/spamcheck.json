@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "A simple Python wrapper for Postmark's Spamcheck API",
+    "homepage": "https://github.com/Tesorio/spamcheck-python",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "f8a75a2d32956040cccbdc5a44d2ed4f456b4fe1faea90fb38b3685360cdb287",
+        "url": "https://files.pythonhosted.org/packages/6c/9f/0d5a12df2ff026c7483bcdf70a344f903c090c16d42b81cfca9bf0a10c51/spamcheck-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "465590f49841e7405179f0173098011b0456b864585aeaf6727ba5053ad5450d",
+        "url": "https://files.pythonhosted.org/packages/88/db/c4d351783f5c36d4bb0bac36e60d9614dc0bea035b5037e5ea9d24dd1f73/spamcheck-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

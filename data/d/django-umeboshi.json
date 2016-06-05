@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.4.1"
+  ],
+  "meta": {
+    "description": "Umeboshi is a Django application for durable long-term scheduling of arbitrary actions",
+    "homepage": "https://github.com/makingspace/umeboshi",
+    "license": "Revised BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "52762ffe2ca817fafdf4f63fb011adb3d1659dba140fe6ddafde15ebc835ab4c",
+        "url": "https://files.pythonhosted.org/packages/85/70/2ed794ee601f58e3754302c8253d401fbd691d60e3b297d9df4ca3360c0d/django-umeboshi-0.1.macosx-10.11-x86_64.tar.gz"
+      },
+      "0.2": {
+        "sha256": "3058423236b647533bfed0a86f4d71984d635cafaeac176e826129c32d88b28a",
+        "url": "https://files.pythonhosted.org/packages/5c/75/a273fdf7982c7d16b75251c9bab31f12d01cd5bfe9f6e0ec8acb1025cf7f/django-umeboshi-0.2.macosx-10.11-x86_64.tar.gz"
+      },
+      "0.3": {
+        "sha256": "77adef132cbf871e3769a05b59a9233c8b34c84d84c7e3db03a12f631da096d8",
+        "url": "https://files.pythonhosted.org/packages/72/7b/8290b0e32181a537af98b87dad82205deedf133c59f4f50296fef88610a9/django-umeboshi-0.3.macosx-10.11-x86_64.tar.gz"
+      },
+      "0.4": {
+        "sha256": "5987cfd1958b5d8c63de0ee0b0b852a43ab98a6a23a67aef16dd5149a325e6a6",
+        "url": "https://files.pythonhosted.org/packages/d2/e1/c3c5f5ce751cd3560ef3c07e4a819e097f6d96c6fb2509dbaedcb27a9178/django-umeboshi-0.4.macosx-10.11-x86_64.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "d44850b2b8ebf8781620a323d75d9e1ea8a83691f8b8d78be7c6a051826b526c",
+        "url": "https://files.pythonhosted.org/packages/c0/cb/bced42da51894a5cedc9393c4cdd12463ce05a41ea7df3eb46f65be31aa2/django-umeboshi-0.4.1.macosx-10.11-intel.tar.gz"
+      }
+    }
+  ]
+}

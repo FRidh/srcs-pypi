@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "0.0.4"
+  ],
+  "meta": {
+    "description": "A read-write lock for python,it is from https://bugs.python.org/issue8800 and patched for py2.7",
+    "homepage": "https://bugs.python.org/issue8800"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "f42636ea1fd942983fac0954e97a762624fa2e0a26a19776cc80d4a79a863086",
+        "url": "https://files.pythonhosted.org/packages/76/05/fb56a78c093389af3c2a8515db7fbff8589a0e102cf04f858f08e7751717/rwlock-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "80688e83ca241a135cc0d0bd61bf373718dc623531078057a7affcdb494f11f2",
+        "url": "https://files.pythonhosted.org/packages/81/37/326241bcedc940e616a2b4af27e8efc71f1170750dcd7bd67b6ac619fb7a/rwlock-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "2f4ef4f470071ec78b255dc579ee616998beabef4bb00091bce12dd51f2f6ce3",
+        "url": "https://files.pythonhosted.org/packages/91/41/08e3b4394ca5783f0878193d2431e56b579c9c6ea85a49dda3821ccd4f37/rwlock-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "847568e5ad0a1dcd3051728e6539caa395f7eee99e1845a61305030004c8c763",
+        "url": "https://files.pythonhosted.org/packages/df/68/f3bb0aa12adfc0c45e3f8bcabe8b894a3999a091eb30dcb502640d1d0432/rwlock-0.0.4.tar.gz"
+      }
+    }
+  ]
+}

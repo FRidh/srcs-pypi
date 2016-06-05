@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.4.1"
+  ],
+  "meta": {
+    "description": "A generic portlet that allows to show various parts of a document, like title, description, text, image and comments",
+    "homepage": "http://plone.org/products/redturtle.portlet.content",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.3.0": {
+        "sha256": "01e6ad91fcbb2471bf03c5ab8155c3839bb54a8a88b407483048d435c47dba35",
+        "url": "https://files.pythonhosted.org/packages/bf/a1/f8694b6c2cdc4a5da1065a7aa7bf3dc838a366d36772159ecf3894aff6e4/redturtle.portlet.content-1.3.0.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "9aaf13e6ebde6da1acd9a52ce2515e4b0e28bb71497cb235eaaf1d220c341182",
+        "url": "https://files.pythonhosted.org/packages/ea/a8/3f71a813ad84a4950959bdcc2b74f81c71a7ccea1149eaa6e9ce788831c2/redturtle.portlet.content-1.4.0.zip"
+      },
+      "1.4.1": {
+        "sha256": "8d413eabd65d81ac440be460b20f907de8a86acefa2d7e73b0ede802e9bacaa1",
+        "url": "https://files.pythonhosted.org/packages/2f/f2/10ebfd0f0eef344d2f5a3dd0a06f4ea1fea3f9c17999c6a693fe06955a1a/redturtle.portlet.content-1.4.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "A subclass of HttpResponse which will transform a QuerySet,\nor sequence of sequences, into either an Excel spreadsheet or\nCSV file formatted for Excel, depending on the amount of data.\n\nhttp://djangosnippets.org/snippets/1151/",
+    "homepage": "http://bitbucket.org/kmike/django-excel-response/"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "b708184ee1c93ac1769e72c49bae5666b9ffce0892daa0b54c7cbec98e1c6014",
+        "url": "https://files.pythonhosted.org/packages/3b/88/ed54fd80c752df475fbb84402fbbcec9e0cdbcf5a4c3051e9809f5b18630/django-excel-response-1.0.tar.gz"
+      }
+    }
+  ]
+}

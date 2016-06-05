@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "3.0.0RC2"
+  ],
+  "meta": {
+    "description": "Filesystem access to the DataONE Workspace",
+    "homepage": "http://dataone.org",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "2.0.0RC1": {
+        "sha256": "0a85a4c0aceaf984be4204ad7477770e9162ef8e446326935046d020df436898",
+        "url": "https://files.pythonhosted.org/packages/80/d5/4fc986db3bac5fefcf6ff07da6c6760583b15e0e36c1182b0a227c9eaa3a/dataone.onedrive-2.0.0RC1.tar.gz"
+      },
+      "2.0.0RC2": {
+        "sha256": "b526f1a55db8d72620030ab1b8cb9de4be7dd714e075086b7f6aaaf57ae23bc1",
+        "url": "https://files.pythonhosted.org/packages/94/31/e55e657984b96b9f790686cead294730c74208a2f4157e286ea1bcbcc26e/dataone.onedrive-2.0.0RC2.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "02f97b4ccba1b4396ae2a40dd8b8997e8084f67bd1f6aa6807224fe412010f23",
+        "url": "https://files.pythonhosted.org/packages/b2/09/c533252c46577d4c3e61f66a89646f93abe7318a307167efb2496ea60b10/dataone.onedrive-2.0.1.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "9b23e728c3b4a681631f0d3afc868d840dc0010c4a0040e5c1b75bddccaf66b1",
+        "url": "https://files.pythonhosted.org/packages/8f/26/679bb2a666a5b505128eb4c1f6d9a9148f52e723576a601a1f6ef25da212/dataone.onedrive-2.0.2.tar.gz"
+      },
+      "3.0.0RC2": {
+        "sha256": "6ccdc561d7626e841c94efacd2a9cc1f7f300fb264bcea387fbb8fe2b9c34aab",
+        "url": "https://files.pythonhosted.org/packages/fc/64/1758e2dd0822f2e96df5308064e5dcacfd7f4032a4b63388cb922bfac24d/dataone.onedrive-3.0.0RC2.tar.gz"
+      }
+    }
+  ]
+}

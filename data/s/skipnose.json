@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Nose plugin which allows to include/exclude directories for testing by their glob pattern",
+    "homepage": "https://github.com/Dealertrack/skipnose"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "c095c0710d9870adbc3b5aaf997961608c46786e7270b5f4bafb3f712c89e268",
+        "url": "https://files.pythonhosted.org/packages/c1/a3/5c7131bd68060f2aa149e136b59033a3b0e00c6e674d5c83fd7aa483356b/skipnose-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "bb8b3e269566b00a6436869036fe86ac93a8760a92f8c2cd7ff3d06fcb866148",
+        "url": "https://files.pythonhosted.org/packages/b2/67/fbcaef76a5d6ebfaad2c2792f5289f289007fa75fdfcc0b4e018c3ec09e3/skipnose-0.1.2.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "b362b481ab2cb58b293021330907a4fc7deb1c30df908b63ab8d6e80e74ca973",
+        "url": "https://files.pythonhosted.org/packages/df/e6/30a29f3241d079fe3e91e70e5e014db4fc0e2d865c6cf21507e8e4630bf3/skipnose-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

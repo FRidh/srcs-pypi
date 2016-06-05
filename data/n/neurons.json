@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Neurons is a web framework tying together Spyne, Twisted and SQLAlchemy",
+    "homepage": "http://spyne.io/neurons",
+    "license": "LGPL-2.1"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "0e3b05ed6386d6cf8b113c122689bc317c7d1752161670b2c6ec49c3f186e905",
+        "url": "https://files.pythonhosted.org/packages/51/15/b75efe135a82490a081f24c9082188ba8243ff6ae17699fa3f69bfce7c92/neurons-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "78a71f7697094382448df011db40eff669a6180d7173e950eeb841a175914fba",
+        "url": "https://files.pythonhosted.org/packages/78/cd/33a9ca7b61283ac3885f8e96dd14c7a0a3f6d40850990c1c175615b69f48/neurons-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "ed654a3c37616523c608544bf4c06969591c31f8a73c3ed002de4bd148fce446",
+        "url": "https://files.pythonhosted.org/packages/39/73/878f2b9d762c59a36b1aeb5cc9bfd196d62fedc361ffb0d9037e4b30aaa8/neurons-0.5.tar.gz"
+      }
+    }
+  ]
+}

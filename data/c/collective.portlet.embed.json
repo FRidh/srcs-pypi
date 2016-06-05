@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Embed an html snippet in a Plone portlet",
+    "homepage": "https://github.com/collective/collective.portlet.embed",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "9902a54ad0f8e09444d806ff674698aa0b89612b8844eb16a9c6649e8c117b42",
+        "url": "https://files.pythonhosted.org/packages/6f/4e/c524f0491c65d9b4b921af178b9f687ca2afec2c5cb5142119803a2da5a1/collective.portlet.embed-1.0.tar.gz"
+      },
+      "1.0a1": {
+        "sha256": "b282ba7f970e8b9df193132b341b6f7eb15454505a8ca2f1d9a5713ac19ef7e1",
+        "url": "https://files.pythonhosted.org/packages/04/b4/525c270281503162ec17dab343b340f9a95e35b771a8c49e0c8b79a74e55/collective.portlet.embed-1.0a1.tar.gz"
+      },
+      "1.1": {
+        "sha256": "66b1bd8b0b10519b376a4720b5bd4eb89ca01380ae4bf1ad99b0f9a62f79144b",
+        "url": "https://files.pythonhosted.org/packages/f3/9a/9b5bdacaa142501fb3ec4466cc2f385d371706f90901584a7521d252da18/collective.portlet.embed-1.1.zip"
+      },
+      "1.2": {
+        "sha256": "433c83d6f1a8997080b3be05e70263ca2e775e8aaaa4d6f25f290149c1a7be1a",
+        "url": "https://files.pythonhosted.org/packages/fc/c3/e62d57759b48bf76ac1940048287351cbff8064b1af7792a1dea7fc14a3d/collective.portlet.embed-1.2.tar.gz"
+      }
+    }
+  ]
+}

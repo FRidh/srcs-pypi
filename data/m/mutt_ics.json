@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "A tool to show calendar event details in Mutt",
+    "homepage": "https://github.com/dmedvinsky/mutt-ics",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "cedbb2fea3fbf1024de4ee6becaf65597abb6b0793fb4611b5714395f34d3a0c",
+        "url": "https://files.pythonhosted.org/packages/90/9f/3dc4ccd892513d22a0bf89f05956933ede9a9d4aa6efa73e4d2517200724/mutt_ics-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "a02df594c5cd5a21b9e609fc89f5042738386db386cb670c847a882b905da45c",
+        "url": "https://files.pythonhosted.org/packages/d5/7e/bbd891842667eb11ea814bc0a47b977b18cd4750a049cac958544445ac9b/mutt_ics-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "945db6995841490384969edee02fe836e9c6344c6212bf3f25a2e9cda691b419",
+        "url": "https://files.pythonhosted.org/packages/bc/b8/787144314c167406237b67014163d3d6a9fa0700d51643967dba1beea269/mutt_ics-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "d1746c3f37bb8501bc25ac418346819eecc672adc1c634f51e0da01e366cd876",
+        "url": "https://files.pythonhosted.org/packages/fe/bd/452e8faba6993e7280f226d8a40c24882c89a11516fa31c81eabaf81bc40/mutt_ics-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "2780bc075a204100d3aaf7150a170d4de3025898597f8b5b2aa50760b0ae8b33",
+        "url": "https://files.pythonhosted.org/packages/99/8f/da277b96cb55538dcc8f3ca0ee6e21f2af548ff7fce937edfc75d0ce0e7c/mutt_ics-0.6.tar.gz"
+      }
+    }
+  ]
+}

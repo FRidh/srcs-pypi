@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.0"
+  ],
+  "meta": {
+    "description": "Construct ZODB storage instances from URIs",
+    "homepage": "http://pylonsproject.org",
+    "license": "BSD-derived (http://www.repoze.org/LICENSE.txt)"
+  },
+  "versions": [
+    {
+      "1.0b1": {
+        "sha256": "1609a56f0563bcb25e597817a3ae27428ba2d1405a344c21e9d21bd8a1dee141",
+        "url": "https://files.pythonhosted.org/packages/97/36/82c77aae193a60f7d6e139080060607579e7e180fc22008d6d4c33decffd/zodburi-1.0b1.tar.gz"
+      },
+      "1.1": {
+        "sha256": "71a9dffa03c4728b69edbff4c58f83c1864d7a79a793f7edc5f0907c26012a0c",
+        "url": "https://files.pythonhosted.org/packages/fc/00/78798e461a7ccfe9fa77bbd9cd7fcc048ecb754adeb234aef12a90c5d310/zodburi-1.1.tar.gz"
+      },
+      "2.0": {
+        "sha256": "c04b9beca032bb7b968a3464417596ba4607a927c5e65929860962ddba1cccc0",
+        "url": "https://files.pythonhosted.org/packages/cf/08/7760d52426ed407bd34aa057dd0e91c4784486f18453a771bde4c7791c1e/zodburi-2.0.tar.gz"
+      },
+      "2.0b1": {
+        "sha256": "8adab70605cc71b0df5b0b8b1d00616b57a2eff285d0c0a4127ca9c651528e26",
+        "url": "https://files.pythonhosted.org/packages/3e/79/2a7f48cb81bb1418f049e5552453ae8ad653ae3ebc073fae5dbb86908048/zodburi-2.0b1.tar.gz"
+      }
+    }
+  ]
+}

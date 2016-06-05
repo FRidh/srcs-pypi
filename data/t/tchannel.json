@@ -1,0 +1,266 @@
+{
+  "latest_version": [
+    "0.24.0"
+  ],
+  "meta": {
+    "description": "Network multiplexing and framing protocol for RPC",
+    "homepage": "https://github.com/uber/tchannel-python",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "b81825507e035b87e89e06b86a037878261f510e971023bc0ed84db78ed07093",
+        "url": "https://files.pythonhosted.org/packages/ee/b7/ec0317907a598be2808fbbc47ebddabd93f36cbf89608687f34eaa0087ac/tchannel-0.10.0.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "841b86746e967dc3b90cd96ee0913734e0f26b0ffbacd66f182917a065eeefe1",
+        "url": "https://files.pythonhosted.org/packages/f9/90/9d7f24216c2e7d22ae5c1ac6553e4a0e21387fa5a31d6a8880f882d721cc/tchannel-0.10.1.tar.gz"
+      },
+      "0.10.2": {
+        "sha256": "03361f1d3fd6da268b90f8bdce71e0aed2f337af496b169d186210dfb0a4fac9",
+        "url": "https://files.pythonhosted.org/packages/19/c8/6198f16d55625e4c4508fcacfd43f7f9da9746e8449fe622ee048ec81f5d/tchannel-0.10.2.tar.gz"
+      },
+      "0.10.3": {
+        "sha256": "de4d622840b993108af1d5c518a49fb1902e91cd83aa2a0aa1ab8016723ecdd6",
+        "url": "https://files.pythonhosted.org/packages/08/20/35ffbc761940db981b0374f092477eaa2ffaed547108e178e159bf52021d/tchannel-0.10.3.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "98ce9109ebfac6c25bcc9be1d2e7045131a9822eda10b608fe1c1c2cbcfa56a6",
+        "url": "https://files.pythonhosted.org/packages/80/ee/73b5705448658f1874654b603b2eed01a9dde5688c2f32fba37f66b10cb9/tchannel-0.11.0.tar.gz"
+      },
+      "0.11.1": {
+        "sha256": "f55e78557ca154aae09922eee4fced6e91f21bdfef4dff9814ef9ece1d4994ff",
+        "url": "https://files.pythonhosted.org/packages/a8/6d/2bbdbae1f3ca5193b4e1758ef60ad7059c4d39b0257fea0c456e3693450d/tchannel-0.11.1.tar.gz"
+      },
+      "0.11.2": {
+        "sha256": "21f09c0ee2c3594b955f4eb6cf62c5072be69c8ebb48ce7f24952cf98b063574",
+        "url": "https://files.pythonhosted.org/packages/70/eb/7d4bee9b3e5df79351e9541c02986f397eead750ba9265841fa22f2b1778/tchannel-0.11.2.tar.gz"
+      },
+      "0.12.0": {
+        "sha256": "e5a08d6142a2411f20c43855a79645f3e75a41125d483a28ae6af5d9570a7ade",
+        "url": "https://files.pythonhosted.org/packages/11/17/ea6d340e01ba8aef34be102993664711f6a7bde5e62342b645e9ac90462e/tchannel-0.12.0.tar.gz"
+      },
+      "0.13.0": {
+        "sha256": "9044898f47d8e782074730861dbf9bbfafc6d50c0f359e348157c0eca64683b5",
+        "url": "https://files.pythonhosted.org/packages/cb/f6/04f6f3ae364cebec7d2304b64ea629b28f4d655be0c55f534828e37014fc/tchannel-0.13.0.tar.gz"
+      },
+      "0.14.0": {
+        "sha256": "707cd9356971abd655d6f5d28b63ff2387ece8776921c2c1b4c9614dbff78f1a",
+        "url": "https://files.pythonhosted.org/packages/48/7c/a6be26e97df46e7b976cb0ed3fbaa7df99c37d97ed181927f20cf576c169/tchannel-0.14.0.tar.gz"
+      },
+      "0.15.0": {
+        "sha256": "837247ce38a71f0a079d7321f38b67e7eda8bde9f1b0989964f463876392d7e7",
+        "url": "https://files.pythonhosted.org/packages/53/62/394355120c138f46d3f8deb21907de22b01228f3bcadbbf5897d0a40b99e/tchannel-0.15.0.tar.gz"
+      },
+      "0.15.1": {
+        "sha256": "5f1ecbdabd7bbc9e1d15d3fc5d0a3341608395aad71aaeec0570026be730193f",
+        "url": "https://files.pythonhosted.org/packages/ad/8b/3ed5be0fc8096cf61dc35cb691a14b9b794f9f09f6f3da33f93788159273/tchannel-0.15.1.tar.gz"
+      },
+      "0.15.2": {
+        "sha256": "5c50a1e19dd745d543b326d67137a60ca5dd954a36ca15e26235b5bf3ae0baad",
+        "url": "https://files.pythonhosted.org/packages/f9/57/d608f924f345f8255c1212f4a6fc85966af28e1606457ced219b6a01df53/tchannel-0.15.2.tar.gz"
+      },
+      "0.15.3": {
+        "sha256": "c14de8ba90246c6b1c1472cde386fa7e9e154e3e0f88ed0ae0708a0354c4cdc4",
+        "url": "https://files.pythonhosted.org/packages/9a/78/dac177250863fa7dee0b7982df3a77bfac2f92445c72cb601b0ac8c348bc/tchannel-0.15.3.tar.gz"
+      },
+      "0.16.0": {
+        "sha256": "93633e57d493b59fa8ebd967471179ff6dd440cc63263abbce2e69d065ac6e13",
+        "url": "https://files.pythonhosted.org/packages/34/c1/1ecbd76a4013fa356c4d8e58dfb8789e179782a2b2a3149ba8a159c283ce/tchannel-0.16.0.tar.gz"
+      },
+      "0.16.1": {
+        "sha256": "5d543cba58167c34c187d42ddcf7d3a6a38ffdcad12c18ed68a7467648324bdd",
+        "url": "https://files.pythonhosted.org/packages/18/75/40045570075f23491674ddbe153484b270aab5423b8cf560c2b5a6e28017/tchannel-0.16.1.tar.gz"
+      },
+      "0.16.10": {
+        "sha256": "cbf0057bb1e8f4d49a2d857bf47f3774be1d4987bcbd716322bd080b6c2eb4b4",
+        "url": "https://files.pythonhosted.org/packages/21/14/597048268297d5c2451a7093923611df73c78ece92aca0f98ea47a12d2da/tchannel-0.16.10.tar.gz"
+      },
+      "0.16.2": {
+        "sha256": "c23d0445959df0da7663476bb62efcc5fe1fe3a056ddbbd48cd150790bc39c8c",
+        "url": "https://files.pythonhosted.org/packages/6f/d9/d9aee6040c3d3563b0eae319ce9ddee470d2654e49fd11139b309fb2c192/tchannel-0.16.2.tar.gz"
+      },
+      "0.16.3": {
+        "sha256": "ffad2118f5e7a8e183077d8cbf53bcaa5bac35e2a00983efdaedead74faa0b66",
+        "url": "https://files.pythonhosted.org/packages/ff/d1/3df5b336e4f676011b3bf29bb159c649a2084f192670fb883b6acad24725/tchannel-0.16.3.tar.gz"
+      },
+      "0.16.4": {
+        "sha256": "2c082fd56319c28199682b826260917433d9d39d575fe81fcad11904709ee63d",
+        "url": "https://files.pythonhosted.org/packages/86/6b/f3e8cb04d83424858a1887744f482cd064e6944709ed64745b94ee589cef/tchannel-0.16.4.tar.gz"
+      },
+      "0.16.5": {
+        "sha256": "facf4e6560d9538efc6060a8febbb353273597ffe8dbaee1cd6f27f2be694d93",
+        "url": "https://files.pythonhosted.org/packages/b8/ff/e1d3664db963e81850301e2ed5aa44ed9923b4ec7cc0154d7fd9f12ab68a/tchannel-0.16.5.tar.gz"
+      },
+      "0.16.6": {
+        "sha256": "36ade91054264ce0b24299ecf04f2177938f66c1d183aad91c30fe30670a22c3",
+        "url": "https://files.pythonhosted.org/packages/b9/da/7c4ce4451255ed1326a946efb3b03e446693f9c5cbf2f9467b0573208498/tchannel-0.16.6.tar.gz"
+      },
+      "0.16.7": {
+        "sha256": "324be11ad76e67d29e5dff32e24d3e675055d31b946762d3695d7b9a6f135557",
+        "url": "https://files.pythonhosted.org/packages/b8/c4/cf65ccf515ba317fb49cffa4f73c1794b6d328cd33e10fd72d869c5f8b69/tchannel-0.16.7.tar.gz"
+      },
+      "0.16.8": {
+        "sha256": "118d0d13d64e3f32622e6d077d12e8dc031f17322193cad39c9a7784e750e46d",
+        "url": "https://files.pythonhosted.org/packages/05/3a/f5b3bc2698a98f861be50edab23a82dd9e2f1d2d9f2c5d544cb1dc240dce/tchannel-0.16.8.tar.gz"
+      },
+      "0.16.9": {
+        "sha256": "c534b6f157d365b7862e93459faf6ccdb1bd8562a44efed50d0e5c11e955c27d",
+        "url": "https://files.pythonhosted.org/packages/d8/6d/9455c85618644c0e7f56877a0e1fbbb55aab3258314ca708c7b4af8ad0f3/tchannel-0.16.9.tar.gz"
+      },
+      "0.17.0": {
+        "sha256": "f1c791529821da5de517a5a3d7695a713f616051b65cba73bf7aff062770bf6a",
+        "url": "https://files.pythonhosted.org/packages/60/68/5600bc60d17b9068a9f7e43b6deda80092f8f104ab4067c48a5cd0f058d0/tchannel-0.17.0.tar.gz"
+      },
+      "0.17.1": {
+        "sha256": "758fb24671ec4205a1b8495dbaf9c8339d3bdfae68d30f84328da0ef7e86e3f6",
+        "url": "https://files.pythonhosted.org/packages/58/a8/3ccf1b5d36a35e556e56480be0dfb3d71da2dcbe04c6a562d92389896029/tchannel-0.17.1.tar.gz"
+      },
+      "0.17.10": {
+        "sha256": "11cbbb16ffe909fa4a4b17c55c8cdfa19fcd4e4b1712023b4ba0b0874c88c02a",
+        "url": "https://files.pythonhosted.org/packages/e6/90/e8ea188819b9099ab2419650379591759d7736373488cc747b61ebf12005/tchannel-0.17.10.tar.gz"
+      },
+      "0.17.11": {
+        "sha256": "086da5ba492b08b88d8f16452b4d1909a5d7907d61088d8bcd3a9b6f2cba3f2f",
+        "url": "https://files.pythonhosted.org/packages/a5/87/36913d66deb958ae7c6a1bf9879acd28dfa7927375cbd6ca3a144f793b06/tchannel-0.17.11.tar.gz"
+      },
+      "0.17.2": {
+        "sha256": "c3a0251cde809b7ed9004ef5dda6d4b31b77a147dd6bf48e12485cee95a185ae",
+        "url": "https://files.pythonhosted.org/packages/68/c8/6530acd3eaea9877c3a534b7891eff2d8cdd3f2d4122fa329427e593912c/tchannel-0.17.2.tar.gz"
+      },
+      "0.17.3": {
+        "sha256": "fef35e7cdf48ec1f2e567d4f15a2fbecf369a0c65468c5974d413cc6b3f09225",
+        "url": "https://files.pythonhosted.org/packages/82/0a/b1969a3ef15ea3dd891d936232362bc6213dc4e1a70ebb1310282bf84f04/tchannel-0.17.3.tar.gz"
+      },
+      "0.17.4": {
+        "sha256": "07886ae2ef88a79efb0c02aa83626a181a0ed52a30d03b709372af0edcd99a75",
+        "url": "https://files.pythonhosted.org/packages/fe/87/1b83d15a0a0059432779733cec01a03e4741c99b360a5e122b207106048e/tchannel-0.17.4.tar.gz"
+      },
+      "0.17.5": {
+        "sha256": "9e7320e7baaec8116b9137f2fb30a6c285d8ee87566d689e96c1daf85a1b5335",
+        "url": "https://files.pythonhosted.org/packages/93/f3/143f7c063c0b0214a948e932f02e50ee388d89488ae08b35b86841b8c1ef/tchannel-0.17.5.tar.gz"
+      },
+      "0.17.6": {
+        "sha256": "bd04a7f036ab68083399f9694fd0204f07d2753dedcd0b322fc9a2f3152f9299",
+        "url": "https://files.pythonhosted.org/packages/57/4e/bf2058b3e728d122cb0e1a35c908ff05c1b5acd9f2e74413e4eb150a403e/tchannel-0.17.6.tar.gz"
+      },
+      "0.17.7": {
+        "sha256": "a6468a59a4bcafdb4d41405bbf1e56723ec17955ef581388ef7e1f6042960f6c",
+        "url": "https://files.pythonhosted.org/packages/8a/03/f8c59fb7bbd964cd37a7800fda2dca3d75f7178ff224ab5fef6ac374e458/tchannel-0.17.7.tar.gz"
+      },
+      "0.17.8": {
+        "sha256": "b07acc862255f0510c1bec248905c99194f7b5ce7eceeba18a85a76a88b9778f",
+        "url": "https://files.pythonhosted.org/packages/ec/b7/39a862b61adbc3fd885b224dd056089a53b3f01277b94bb3c37ddad51810/tchannel-0.17.8.tar.gz"
+      },
+      "0.17.9": {
+        "sha256": "086e25dc6634af96e4157630348ae845ece4c1c997ee95cbbea97b80e7ce771d",
+        "url": "https://files.pythonhosted.org/packages/e4/22/dee9529f11a892fabe4b636a5d9b0cfe94633424a2a34352579c6230cebf/tchannel-0.17.9.tar.gz"
+      },
+      "0.18.0": {
+        "sha256": "e07e1028857e750616fb55e564e72828ac6c00edcf388087a9f8a6db1dc2326b",
+        "url": "https://files.pythonhosted.org/packages/fe/f3/5b309ea104284e3ad0a850af79378e84314493a0f971982cf5c863051d88/tchannel-0.18.0.tar.gz"
+      },
+      "0.18.1": {
+        "sha256": "90df6f282e1a047fe401dc9b22ad5395c7c092805eccd85762cfdd5bbad675d5",
+        "url": "https://files.pythonhosted.org/packages/79/c6/540b4047964a1eb372c6d551a5080a6f404ccaa41778e49b9ad277cd1a4b/tchannel-0.18.1.tar.gz"
+      },
+      "0.18.2": {
+        "sha256": "5a4f829ac45a2024e092b398cc3e8839ace31458d045de4cdf66452139ca706c",
+        "url": "https://files.pythonhosted.org/packages/b2/7a/93cda42cae9cc812eb615d298e56f6cc9b2a71091f635d5a078f07c3d94d/tchannel-0.18.2.tar.gz"
+      },
+      "0.18.3": {
+        "sha256": "23ed1aa30b18dbf09e6f5d1888f14d915069a3890866893a13c6414f00324275",
+        "url": "https://files.pythonhosted.org/packages/bb/90/0c8c97a46d78f62832ff75362fa6ca16efbe7239dbb61163f44c141eeabf/tchannel-0.18.3.tar.gz"
+      },
+      "0.19.0": {
+        "sha256": "8a1dd45201359c888e59288b024f6e7e69121b7670d5619cbf4b6236d1ae278b",
+        "url": "https://files.pythonhosted.org/packages/2a/d5/c542a1929ff79757599d09bc4ef84a6335191a3c8be5928a64afd9411ebb/tchannel-0.19.0.tar.gz"
+      },
+      "0.20.0": {
+        "sha256": "cb18766656e55ca51f995cf84edef4bb6dd5b40a6167d386962010b539fdfbc2",
+        "url": "https://files.pythonhosted.org/packages/48/57/add7a9b28c74bc3bc6a15fdfddcd5358fc0079683a4e1e34893cc2f222f0/tchannel-0.20.0.tar.gz"
+      },
+      "0.20.1": {
+        "sha256": "f8b1f93c3318cbb7a9a21a7275749eba56f6927107b8e6a28a3b4ec75d51b3a9",
+        "url": "https://files.pythonhosted.org/packages/bd/fa/ffcd97f21c2116e46a61e3608278bba0c7a227f2317d25916c9262e81d30/tchannel-0.20.1.tar.gz"
+      },
+      "0.20.2": {
+        "sha256": "36df2e345de763b8f77845ee064d3c59b43a121cc8815b12ee32e9567ff1b0ef",
+        "url": "https://files.pythonhosted.org/packages/66/41/33af6c4f9c384448417ec7a8b6327aba477cf907583c6502568a22f3f038/tchannel-0.20.2.tar.gz"
+      },
+      "0.21.0": {
+        "sha256": "4a7602a5ebd8c5c50eef5af3981266e408dced2ca06d1c0541d6d4ecf69caa9d",
+        "url": "https://files.pythonhosted.org/packages/c3/28/b119435b570c5f93dbb587c7499bf8751d91e15b410af1bba7dc6cdc90e1/tchannel-0.21.0.tar.gz"
+      },
+      "0.21.1": {
+        "sha256": "50c660b63f452685a52e25d340f952fb84cf68872b673a9ec54bc91948262cb7",
+        "url": "https://files.pythonhosted.org/packages/3d/97/635aba232e1a4ccdc0fe425622a99f90e8e20c264183d9b72d5a51e9ff27/tchannel-0.21.1.tar.gz"
+      },
+      "0.21.10": {
+        "sha256": "815f999d8c30a0eb28dac04c8f2416a96a0f189c46d3617816c92eb9ba161063",
+        "url": "https://files.pythonhosted.org/packages/ca/b9/279b255ff7946496f054cbaf6ceb4e7095f67e715b21f2782f94a36fb49e/tchannel-0.21.10.tar.gz"
+      },
+      "0.21.2": {
+        "sha256": "5e434695f7b35c1adfab68f5c85f5fb6495930c0975006dc06d05c0c5125541b",
+        "url": "https://files.pythonhosted.org/packages/01/55/4c8414af21fae5fc5ef8a8e592b272e75e5faf01df535ca21d24ec816de5/tchannel-0.21.2.tar.gz"
+      },
+      "0.21.3": {
+        "sha256": "38e6b8d096a94c74be405c4fd0c33f084bcd2f343133cbe98f01bcfb89bee25a",
+        "url": "https://files.pythonhosted.org/packages/0f/6a/6ce1cff58b1694f2cb5f883be7b7e7cd57ca5c2ae7200980249f528be160/tchannel-0.21.3.tar.gz"
+      },
+      "0.21.4": {
+        "sha256": "449883f3c51e26362b5c90be3c8172f3f7e447adddf29ebc9a683722994ad8dc",
+        "url": "https://files.pythonhosted.org/packages/db/f1/15c6dc4b967b58b526d78fa966f59ee5a828bc5d81c1fec032aa23c5dbb4/tchannel-0.21.4.tar.gz"
+      },
+      "0.21.5": {
+        "sha256": "36a1adf744021bb28883ea2228f07a3c9bc0941bd05fec46ec452e7616609ebc",
+        "url": "https://files.pythonhosted.org/packages/3c/d4/2b82426f5a9f2760000f4ba010f09a5279622bbd50463a7c63db5b9b2a83/tchannel-0.21.5.tar.gz"
+      },
+      "0.21.6": {
+        "sha256": "f6d31016431839ef5602a36452e82d59cf7dc39dfdbe88cd110e90adb74ea766",
+        "url": "https://files.pythonhosted.org/packages/e6/ad/5eb48deeedcf068474ca78eff522537ea43d81ae82b3e1e5c2405e4e90c4/tchannel-0.21.6.tar.gz"
+      },
+      "0.21.7": {
+        "sha256": "eb37c6f815a38c3dbab8e828a3d66bec7f25c87603142b2f69647b0b30e3ef91",
+        "url": "https://files.pythonhosted.org/packages/a6/c5/0850c38445c55e1f73d4c558220bad9962d0847a1b21ece4b1b848237953/tchannel-0.21.7.tar.gz"
+      },
+      "0.21.8": {
+        "sha256": "6f4f4db978c746466501f7ddc0787c3cebd5714e6dc7d7490988b41b17c1ace9",
+        "url": "https://files.pythonhosted.org/packages/ec/7d/e568b962cbba50fecf88447e705070f03c9656c88fdc31f84111eed725b0/tchannel-0.21.8.tar.gz"
+      },
+      "0.21.9": {
+        "sha256": "c32b6a75ec6199e9a20fbcdc5630577ab38e764c4d2104cd45354c468a3b7acf",
+        "url": "https://files.pythonhosted.org/packages/ea/fb/394655d1d277fdfa22cbda2ba5a2fd32697971f2b793b3e41cb65e0cea93/tchannel-0.21.9.tar.gz"
+      },
+      "0.22.0": {
+        "sha256": "d0e5897a6778bc85d11c61f321da33728344933ad705695e543222716780f2c5",
+        "url": "https://files.pythonhosted.org/packages/e7/89/cf475bc0adeda38da118546b15d6e71b2fd4f9cf3c89e0761976e38fbfd7/tchannel-0.22.0.tar.gz"
+      },
+      "0.22.1": {
+        "sha256": "df9cda0104782bccae0fa8e930e22baee242e72af303d9b7ef43a817d5285f55",
+        "url": "https://files.pythonhosted.org/packages/21/c0/a7cb2de36c9021467a70af88606cc521e27182aaf33092a014c886faada1/tchannel-0.22.1.tar.gz"
+      },
+      "0.22.2": {
+        "sha256": "6f600ec7ea138f915ace559cde0633aaba8b9711f95b857d2738d7029f4669d8",
+        "url": "https://files.pythonhosted.org/packages/bf/43/60b00365fc2cefeef13ef4e8d6b32f039e5b21b57806d520fb5d5c6912dc/tchannel-0.22.2.tar.gz"
+      },
+      "0.22.3": {
+        "sha256": "f3b54d8af158b96ee5d019cc64c53fed80864b9020bfa4557af099267a88dc0b",
+        "url": "https://files.pythonhosted.org/packages/c2/ad/67970df7257d14ef597edeb75f229e1ff28c018f8f4cd92b4e226ef8f0f7/tchannel-0.22.3.tar.gz"
+      },
+      "0.23.0": {
+        "sha256": "b49cb2bd72a1808990dc2802b996246f049d31b9e6ef80e9d2ddf65f6fe0c898",
+        "url": "https://files.pythonhosted.org/packages/86/76/06bbf931cb15190e81c53fb1b03302efab6a107de4594b090cf5c7504e75/tchannel-0.23.0.tar.gz"
+      },
+      "0.23.1": {
+        "sha256": "78db1eeaf5066d10d1218738e55586d7fcc976dad14076acb4e23c6b21ffc280",
+        "url": "https://files.pythonhosted.org/packages/29/fb/c52053b76ca9ee893f5284fec3f67113652fc867d72c57abea48ed1c4340/tchannel-0.23.1.tar.gz"
+      },
+      "0.24.0": {
+        "sha256": "d730c43896c9aa9718c67060ef2afac1d29c1a8485e13ab4b9eccb9182baf92a",
+        "url": "https://files.pythonhosted.org/packages/1d/96/54ed7116c9718fc3d76af89d1aebec7ac657ceafd83fc488684142918464/tchannel-0.24.0.tar.gz"
+      }
+    }
+  ]
+}

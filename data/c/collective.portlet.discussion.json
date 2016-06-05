@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.2.3"
+  ],
+  "meta": {
+    "description": "A simple Plone portlet to show a list of comments",
+    "homepage": "http://plone.org/products/collective.portlet.discussion",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.1.0": {
+        "sha256": "30ce36b7f8a847ea63a8329a67e821a82e120f34828135bc99eabaf722950946",
+        "url": "https://files.pythonhosted.org/packages/ec/3d/0652ec4a3e6b7344f555a871aaa4c381e6726e0f9fa5234533fd108fcfc0/collective.portlet.discussion-1.1.0.zip"
+      },
+      "1.2.0": {
+        "sha256": "1959ab49aec29966bc80fbbd412819eb95bdf05ea1c4bf741c6e30393c2fde74",
+        "url": "https://files.pythonhosted.org/packages/1d/1f/e2bd06a5bf5579175453e6a904f63327589a737ebea42c7cd8209600cf16/collective.portlet.discussion-1.2.0.zip"
+      },
+      "1.2.1": {
+        "sha256": "879793959b2fb91ed0f2a91dcc4c940fc17a0d9c2a828e8bf0be6d7edf3b43a7",
+        "url": "https://files.pythonhosted.org/packages/17/84/99a7847275d007e263b0f50db0f23e4f39172ada8f3aef8dfef1f7b9b275/collective.portlet.discussion-1.2.1.zip"
+      },
+      "1.2.2": {
+        "sha256": "8231a730e6012b8d05fe825b1866278e68175938433a62a2ffdc9ba7b44e3e6b",
+        "url": "https://files.pythonhosted.org/packages/67/4d/3e11e11116c3e006739744837d8b5253956f96cfda891fec08a2a39897d0/collective.portlet.discussion-1.2.2.zip"
+      },
+      "1.2.3": {
+        "sha256": "0c8b0b79e44219e1e6da357e70d2d733c6b60729096c009a9f0a0cb5056a557d",
+        "url": "https://files.pythonhosted.org/packages/6f/15/54ddbd6d642cc35953e08ae8724e86efae84149168468e54d8d0ed2ae5a9/collective.portlet.discussion-1.2.3.tar.gz"
+      }
+    }
+  ]
+}

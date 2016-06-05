@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1.2"
+  ],
+  "meta": {
+    "description": "Recomputes the WCS of an HST observation and puts all distortion",
+    "homepage": "None",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "1.1.0": {
+        "sha256": "28318f9b10843414c612f5285006a1217465378d5e18d59f09c5660a88c63853",
+        "url": "https://files.pythonhosted.org/packages/8a/5c/c02387833af78852baf1e257ab4df0f0b649772c815be7c96c5347007a96/stwcs-1.1.0.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "5d33a30a037d0022893ccf8ac28e0bb93b4ac514a5124bba11b7a2b5c12373d9",
+        "url": "https://files.pythonhosted.org/packages/eb/43/423d74f385ec8dc868824e8bbcd0e034bc95af9a29eb851bdf58179ecbc5/stwcs-1.1.2.zip"
+      }
+    }
+  ]
+}

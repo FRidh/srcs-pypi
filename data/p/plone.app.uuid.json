@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Plone integration for the basic plone.uuid package",
+    "homepage": "http://plone.org",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "d209d1d33a5a6a79f763002f91a7837be4377e125ff5fcf4cc427266b249b0ed",
+        "url": "https://files.pythonhosted.org/packages/a1/e5/f8ac16eb0a313044fc0ea97d9cffb39934e8e777d27ebe9c8bd5b096dbfb/plone.app.uuid-1.0.zip"
+      },
+      "1.0b1": {
+        "sha256": "e48f0dea92c98fa1f4a28cab5c47b63d7dd8de916530c6827096da2de258eca2",
+        "url": "https://files.pythonhosted.org/packages/52/de/4d8f1c10c0d25b9fabb727788abb9476dfc3c937f3c03e199897a95c3a78/plone.app.uuid-1.0b1.zip"
+      },
+      "1.0b2": {
+        "sha256": "5e63106348e0ebdcc1fd1f3668423202f72d3ba594599713f558067c1bfe477f",
+        "url": "https://files.pythonhosted.org/packages/90/b6/140ebf0d10e7d3671fb80cdde1f585aca94fec393fd92301c3eb78ca5831/plone.app.uuid-1.0b2.zip"
+      },
+      "1.1": {
+        "sha256": "bc5df5fd11271049069a70b7f891a17bde57de710db0c457e13aea362e0dcfd9",
+        "url": "https://files.pythonhosted.org/packages/0f/49/111017476ccccfc50943bce9cf73ecf68e54b871c8d5e80a32ec98133e46/plone.app.uuid-1.1.zip"
+      }
+    }
+  ]
+}

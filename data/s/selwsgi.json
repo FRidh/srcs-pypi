@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1"
+  ],
+  "meta": {
+    "description": "A simple library to wrap wsgi apps in an evironment suitable to be unit tested with Selenium WebDriver",
+    "homepage": "https://github.com/freyes/selenium-webdriver-wsgi",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "223028928b247ae4f7aac5d63df1774a66d1d920e4bc193ee83d9b253eb9d070",
+        "url": "https://files.pythonhosted.org/packages/52/9d/e4c69a2b827826157b8861c58eef846b35f97d5a91d9c1fd17b7bab04787/selwsgi-0.1.tar.gz"
+      },
+      "0.1dev": {
+        "sha256": "bb7ce4a51bc36c83a44c1610626b13d275e3917012a7a44dbcfede7e8f94b2f7",
+        "url": "https://files.pythonhosted.org/packages/cb/74/4322dbeff194998e300ccd086137fbe23d781579df07c957f434ceabdb5a/selwsgi-0.1dev.tar.gz"
+      }
+    }
+  ]
+}

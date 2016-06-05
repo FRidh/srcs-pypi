@@ -1,0 +1,130 @@
+{
+  "latest_version": [
+    "2.3.0"
+  ],
+  "meta": {
+    "description": "A Django application that contains a widget to render a form field as a TinyMCE editor",
+    "homepage": "https://github.com/aljosa/django-tinymce",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "9e3febb486c96a25df38afd3e680eb750750a5d6c16847dd299424b09767b8e8",
+        "url": "https://files.pythonhosted.org/packages/37/db/9e0cb31d8c98d17dd53e113b308bac73b3859daf2f7fb2c4a4ebb479b22b/django-tinymce-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "7a27420201464e2dac947948e9e74363f70e428b9c57f34c4fc734fb0453636e",
+        "url": "https://files.pythonhosted.org/packages/a5/b5/b7ca8cdea6e19e38a652864dd8c20867b96b04f1fcde34341054869f5247/django-tinymce-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "4147723413aee649d67615fbf0e84007e960e7a4f5d26be57628e732563ef0fa",
+        "url": "https://files.pythonhosted.org/packages/84/55/a9419450b5bae032ac82169cbea16bfdd2529561c4a54e51bb360b32aaae/django-tinymce-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "e5c180ee376b2b47a1b2ed6936fe91293339c2bd9cfecc069117bb0b63a08116",
+        "url": "https://files.pythonhosted.org/packages/cc/f1/81d8ee4d97cdb150196e96084bea9c1529cc644a78f0f53c21acafad630f/django-tinymce-1.3.tar.gz"
+      },
+      "1.4": {
+        "sha256": "5f379ac62d6722c5fab493064f92d72a93605e3c6c7a53d31f72e886d3dfc61f",
+        "url": "https://files.pythonhosted.org/packages/55/2c/e0a20addb8ba1ac622a50af842d5c00bd12ea907444ed9df6d1ea873f354/django-tinymce-1.4.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "f00f8eba27382634d578c15e191e923e5a064af8d8809934d593a87bd2950618",
+        "url": "https://files.pythonhosted.org/packages/0c/67/fa33adff01e5d2e410087546f270d37aa5a32125e76484395f6cfe0d532b/django-tinymce-1.4.1.tar.gz"
+      },
+      "1.5": {
+        "sha256": "fbe2571dca063e2a9f5d85875abff470d36b7103e87a477a42c8ea39c594ebb8",
+        "url": "https://files.pythonhosted.org/packages/17/a0/455fdf23069f0bf0f0a2b7714d88dca8937b91e519ede03934407da17ede/django-tinymce-1.5.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "9b8d9046fcdb0dca3d208762c5c87b1417ccebedd52c7e0ebf3e0f8a86ac1d27",
+        "url": "https://files.pythonhosted.org/packages/5d/ce/6dfabca4b95c7f6f7560bb00a512d1998ebaf56689826cc9cf76b2b9f9cc/django-tinymce-1.5.1.tar.gz"
+      },
+      "1.5.1.dev100": {
+        "sha256": "eb13dc67b4287cb0f185d6d9788645f219b79bc93325537d782bba33ad8b2eab",
+        "url": "https://files.pythonhosted.org/packages/d7/66/826ec42aee285e0ef45a6a70e54de5ce18c237f0697769469404451e324d/django-tinymce-1.5.1.dev100.tar.gz"
+      },
+      "1.5.1.dev101": {
+        "sha256": "fa0ec5576c852dfb06c373efc58c04fa96eacad1d823411e4999152c313f0293",
+        "url": "https://files.pythonhosted.org/packages/69/91/5d0295d7eca979bbadd7215b33ffabc5f450059506715fabdccabf60845a/django-tinymce-1.5.1.dev101.tar.gz"
+      },
+      "1.5.1a1": {
+        "sha256": "e492939064acc6f398eb4402e150cd7ab3541c3d662eff80adad547abfa191a9",
+        "url": "https://files.pythonhosted.org/packages/83/b4/f2f4f34dd1bdf9c7bd4d59cc3b04d4836eae2b8e9dab3525781a3fe1b4c0/django-tinymce-1.5.1a1.tar.gz"
+      },
+      "1.5.1a2": {
+        "sha256": "744f0605f76faf3fc8fa396580d6e76b7b5d3b725f6a24ddd26c820115b53516",
+        "url": "https://files.pythonhosted.org/packages/e5/54/64b3e9d85441f934bc242697d59c0c60e5306a281fb1da50020aaaf4c629/django-tinymce-1.5.1a2.tar.gz"
+      },
+      "1.5.1a3": {
+        "sha256": "9f9b307b59a93040e108c05818e64f915df81dac37cdbcec204dba1caa0d1c8e",
+        "url": "https://files.pythonhosted.org/packages/1f/97/d086099d1fedd9d967d0381751e4b34558a8774809c09c8a6f06d7e7a59a/django-tinymce-1.5.1a3.tar.gz"
+      },
+      "1.5.1b1": {
+        "sha256": "0edbc50002953d08dfd24c3785e583bfd7c2a0e7d08413f854b6f584919cd8ca",
+        "url": "https://files.pythonhosted.org/packages/50/7b/b1b7ac9763fdb1f38810ae0db53205ab3f6c0731ccc3b385e32b04eed20e/django-tinymce-1.5.1b1.tar.gz"
+      },
+      "1.5.1b2": {
+        "sha256": "569f6a56a010e8e4f993cf0e1fcc6f119a0fd2a84a0de451851a52324cafa7ca",
+        "url": "https://files.pythonhosted.org/packages/25/df/0bdc6c9d38415dff187a9d5cec1b4d55adfe4549e801a577e01bdf75c211/django-tinymce-1.5.1b2.tar.gz"
+      },
+      "1.5.1b3": {
+        "sha256": "8df8d10ca403b3e896b97de185d51065ba9788743978fb6266c275d4c9f8cebc",
+        "url": "https://files.pythonhosted.org/packages/2a/2b/6a3a0830071ab8a5eb25d2424cc9b86cc61da610a98c5120647d6fbd27a7/django-tinymce-1.5.1b3.tar.gz"
+      },
+      "1.5.1b4": {
+        "sha256": "164835f435ca82fad2096f27df6f83b1ee6856079dc241a08d12e929c8608f28",
+        "url": "https://files.pythonhosted.org/packages/aa/33/3905d77d23c677e311873f563b1de690075754525537cacc078f019eebae/django-tinymce-1.5.1b4.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "7723de0533e4fc087c236a3654aea12d970cfd4447957fd6f5b6a25ae1e2bda7",
+        "url": "https://files.pythonhosted.org/packages/75/0b/eb1019c39517219668c0ec404113a0cf838acb135dfc54b968be1c300b1c/django-tinymce-1.5.2.tar.gz"
+      },
+      "1.5.3": {
+        "sha256": "352be3ee0bea742b95135bb430872b5807cec05a2a5972cb5bffd49599d96ba4",
+        "url": "https://files.pythonhosted.org/packages/79/57/2cc2dfc89aa21f242cc399340746cae7aff3ddb8c85df297fb0b9903c7a5/django-tinymce-1.5.3.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "140edca8c495ae45ec78199502c31be2d2dd0e2ce30e1fc62d5860f9392dc46a",
+        "url": "https://files.pythonhosted.org/packages/1c/c3/5bcaf9b94c5371a3e804d8fef464cd1c68418a2dffc1f373993b5da77333/django-tinymce-2.0.0.zip"
+      },
+      "2.0.1": {
+        "sha256": "ee0d1c06849c4f555ff00110aa9a7fccdb24e49e82eac8e4334534ef83a472d2",
+        "url": "https://files.pythonhosted.org/packages/28/3d/13af6bfb626b2d707804f2a395008acb201e2b2be94691f05ee86324060e/django-tinymce-2.0.1.zip"
+      },
+      "2.0.2": {
+        "sha256": "f40f3b2db8fbdf7bdbb6d08bf7314351c9dae2c129953535ede62cec5ac3ee02",
+        "url": "https://files.pythonhosted.org/packages/4f/58/14012f55b34651710e99b13c6de039ecc4dc785e9da97ede307806bde62f/django-tinymce-2.0.2.zip"
+      },
+      "2.0.3": {
+        "sha256": "2cdf99702146891f4a8590f5533a1a37d1d469c7bae30f273d2a313cf8f1b960",
+        "url": "https://files.pythonhosted.org/packages/87/2e/8aa11cc37451a1678ce953982768930bdbbd477043094a64d2d529da8e20/django-tinymce-2.0.3.zip"
+      },
+      "2.0.4": {
+        "sha256": "db86c22db89c2044ee466ebbad4fda6917b0a8dc071a0303a17e559b1a7bc347",
+        "url": "https://files.pythonhosted.org/packages/5b/20/4593f9decb56f366a557fad800f58da54c48f137b4da10f11782661fe458/django-tinymce-2.0.4.zip"
+      },
+      "2.0.5": {
+        "sha256": "3c5c9d510277c4e2684f8751bcbca634c5c7337734decdec2c844a2821447bd5",
+        "url": "https://files.pythonhosted.org/packages/f4/a3/ccf4918f23b32f108f6b3a8b266ea2f002e23b587cd6f8ebf1519e71572b/django-tinymce-2.0.5.tar.gz"
+      },
+      "2.0.6": {
+        "sha256": "15abbbadb7b2b2e0619f6fc3a8624c6178b5b31bc0be3174a0d4faadc678c680",
+        "url": "https://files.pythonhosted.org/packages/5f/17/ddf028f415587aacc22a80d29ddd469ae42133b2e5287afc364af79e45e6/django-tinymce-2.0.6.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "096d69b4db32b0af122f1d4398ae6f5acb4abc53c4d1b5488b4b572400c1c16e",
+        "url": "https://files.pythonhosted.org/packages/7c/1c/e04b06a3724238debd30ef5d526994919df5519e6f30cc9f09624f13b736/django-tinymce-2.1.0.tar.gz"
+      },
+      "2.2.0": {
+        "sha256": "a0326f962d9003f8468ae620f9ad7e3b0a31fbaa9e936bee96f6a93d56d1fa1d",
+        "url": "https://files.pythonhosted.org/packages/59/96/7d83aa3c6d3051c13f26045f953eccd9858718e4a9f4de255cfc97b44ea3/django-tinymce-2.2.0.tar.gz"
+      },
+      "2.3.0": {
+        "sha256": "0a9dbbea55a28d679a36ccf9481506b6ca72f50bc91108bfc997e706f1dfc519",
+        "url": "https://files.pythonhosted.org/packages/0c/18/a0a3ba33eaf3b9d410ba59e20e170ef6eaf3b17796935c9bf6050ebc3394/django-tinymce-2.3.0.tar.gz"
+      }
+    }
+  ]
+}

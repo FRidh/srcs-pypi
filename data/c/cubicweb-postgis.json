@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.5.0"
+  ],
+  "meta": {
+    "description": "Test for postgis",
+    "homepage": "http://www.cubicweb.org/project/cubicweb-postgis",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "e84d415d65838880180133ca00b3cf2328f3051ed4ccb61940b1ff0ae6cac0d1",
+        "url": "https://files.pythonhosted.org/packages/cc/77/4b7d4b2491834c15015c24d33ab7844d416e5c7c6d70a3e964440c8ea423/cubicweb-postgis-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "450e010474be54387cb080c8a0ba421db467aacc350d3f17efa708386671ac58",
+        "url": "https://files.pythonhosted.org/packages/68/e1/0079a67a78c481fb142ad607d9da9dd3d4d93f2df3ca2dde6d930fd25f1f/cubicweb-postgis-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "2889c3a192b32ac7f4e1824a805d921d0f4fc83a978f261c87ecde697ac607d8",
+        "url": "https://files.pythonhosted.org/packages/f2/ba/26c0ead3aae74c15bd4608850671d6547738c298cdab4455d60de39dfa96/cubicweb-postgis-0.3.1.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "c675fc79e2516d7ead32a589320f7f7c892e349e28b29d26f019092c0e79a6b3",
+        "url": "https://files.pythonhosted.org/packages/20/8f/03e1d41d3dd69952a75d496c36fd245e1b5dbb2a5eecb3a2d77a2af45661/cubicweb-postgis-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "76a742ad10030f74e119eb01f4cca1bfaaa12c1ba2140eebf9f740827f71d6fb",
+        "url": "https://files.pythonhosted.org/packages/7e/25/47e5cfd0af48541f0cd166361cd2417d055d81c33f51a2231ec4f912ac87/cubicweb-postgis-0.5.0.tar.gz"
+      }
+    }
+  ]
+}

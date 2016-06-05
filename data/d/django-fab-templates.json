@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Django project templates that support fabric-style deployment (vagrant+ubuntu, webfaction)",
+    "homepage": "https://github.com/dreamiurg/django-fab-templates",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "c270aa84305915904a00da9436c8d64b1ee701d7ac82825f0b49fc12f6a6b649",
+        "url": "https://files.pythonhosted.org/packages/3a/a8/1119fdac08981beb5ea6613c6d792b04e8d4013d9791110cf76fc24b230b/django-fab-templates-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "119d2aa5dbd1f3b8c9839c0af9ddd3ecc48b0591f4ba2cff9ec44bb8c683d1f7",
+        "url": "https://files.pythonhosted.org/packages/01/63/2218f443cb1222356b4846dca07cd76b3b40da4f106d67f5f876b0cc33d8/django-fab-templates-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "18610a88b0e334e9f7ee6ba4a3c183b3ace688d1fe972acef3b8fb1e493f9a3c",
+        "url": "https://files.pythonhosted.org/packages/08/ab/99dba8362b7f13cb193c5263cdf5544ee0549b49a28c1cb398578f58b6ef/django-fab-templates-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

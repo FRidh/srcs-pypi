@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Utility tools for control groups of Linux",
+    "homepage": "https://github.com/peo3/cgroup-utils",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "89dfb34bdd446ca4cc15a4d749e4f6ee2761dde4148a5c460c5aab909aa59c2e",
+        "url": "https://files.pythonhosted.org/packages/87/3b/d4d20e929e005684cab16ad1750ecaf41ae1e94dc0c00229385011d21cb2/cgroup-utils-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "3d6bfbf46eb2b3593bda22da1f3081413c7a8f161b0f2c4657101471575c8ca1",
+        "url": "https://files.pythonhosted.org/packages/50/52/0b706b847b8c9b9d72591a81148f7a999d6b270193169431539cf6d4ebc8/cgroup-utils-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "f70a24e54da9cd58697c877b0b29297dba2502436101033fe200a65312884d2f",
+        "url": "https://files.pythonhosted.org/packages/62/12/faeeacebd30bf8b81c8013581ebc8647594cb355cfb58be9642d3b8160b8/cgroup-utils-0.5.tar.gz"
+      }
+    }
+  ]
+}

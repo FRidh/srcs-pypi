@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "4.0.1"
+  ],
+  "meta": {
+    "description": "Tryton module to add countries on tax rules",
+    "homepage": "http://www.tryton.org/",
+    "license": "GPL-3"
+  },
+  "versions": [
+    {
+      "3.6.0": {
+        "sha256": "d9d681bb93a8ad38d604a24618af22e592708ff9212a3a40a2bb6a9e3f13ba85",
+        "url": "https://files.pythonhosted.org/packages/46/1a/c13c8c2967b96ff7edc6d2a1e6b0f149f017de3af2ce252eba83289fb2aa/trytond_account_tax_rule_country-3.6.0.tar.gz"
+      },
+      "3.8.0": {
+        "sha256": "d1dd9ca57a36fbf9f96e5f0de2717f57577d9b2eab436aa6f6a2a97a185bff3e",
+        "url": "https://files.pythonhosted.org/packages/07/bd/784467157f4495adf3b95da5fff12d516fb8e59101670e5f9ac86b38ee2b/trytond_account_tax_rule_country-3.8.0.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "27ae2e576355387eac3584ad5740530b4556885d5addfde31ed9eb0ffb7dcde6",
+        "url": "https://files.pythonhosted.org/packages/0d/22/20c86ed1fa165fb5778f1e64643249c5dfa898d1406b6de13a6d809d917f/trytond_account_tax_rule_country-4.0.0.tar.gz"
+      },
+      "4.0.1": {
+        "sha256": "f25548d4fb8c935f3f7877330203e018b493b892bef3e6d27d15c0e735c57e53",
+        "url": "https://files.pythonhosted.org/packages/8c/c5/b66344f19d206875ee14b1ed837f88c643d481a62acf6b4913fedc1c723d/trytond_account_tax_rule_country-4.0.1.tar.gz"
+      }
+    }
+  ]
+}

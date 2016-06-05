@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "CEF extensions to metrics logging",
+    "homepage": "https://github.com/mozilla-services/heka-cef",
+    "license": "MPLv2.0"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "0cccd5fd7b366d8c4c9ac4ab9ca34c14aa1dfd718b2d4f477ba80dcc9fc8a4fe",
+        "url": "https://files.pythonhosted.org/packages/49/5d/9f9422239a0e3f08ddbe7a4343a337917df2d5c6c01f7c1d29770a52934c/heka-py-cef-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "3688980e3aac1a3b14ed374b7d4b71bbe9c34e739fb5219a1e8b2e10fd9a9382",
+        "url": "https://files.pythonhosted.org/packages/c2/7f/fea44f34a832e449b881373dc4b485d0a2c8d21c6cb97af918b56e5d924b/heka-py-cef-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

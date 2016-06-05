@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1rc1"
+  ],
+  "meta": {
+    "description": "A cart for Plone to add file and download them in an archive",
+    "homepage": "http://www.atreal.net/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0.0beta1": {
+        "sha256": "a29aed3a1122ed6a2e356f24877937c74739907968e8b2445468ca35ad580b54",
+        "url": "https://files.pythonhosted.org/packages/0e/3b/0c5913305cab5f09a5794ff24ede2aff02fc99528d617912b579f3f8444b/atreal.filecart-1.0.0beta1.tar.gz"
+      },
+      "1.0.0beta2": {
+        "sha256": "0f6d945d90a002d05f5bf0cb99e5fd19081194ba3aea09105d9a5fd348e5908e",
+        "url": "https://files.pythonhosted.org/packages/c2/eb/a11da3c90c6789b53d9681e014a305bbc03f6237cdfe5cd74ef6a2f79b3b/atreal.filecart-1.0.0beta2.tar.gz"
+      },
+      "1.0.0rc1": {
+        "sha256": "38f2f7fb536332c86a453b0c486b7748538ea60fda64dbddc8196c58617bf6e2",
+        "url": "https://files.pythonhosted.org/packages/3a/29/99fa9c5b60c61290f66bb75f4b8dbc39b5dcd3d0defc3b91124488350458/atreal.filecart-1.0.0rc1.tar.gz"
+      },
+      "1.1rc1": {
+        "sha256": "8678585be58e8e0f04a6f6f649234f809acdbb2007ee5d2c9f4828b22839e788",
+        "url": "https://files.pythonhosted.org/packages/ee/3a/5d98b7e188c566b0fc0d23695bc816291cfdc456e8183f8a4f2b9b7802a7/atreal.filecart-1.1rc1.zip"
+      }
+    }
+  ]
+}

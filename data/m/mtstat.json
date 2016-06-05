@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.7.3"
+  ],
+  "meta": {
+    "description": "None",
+    "homepage": "None",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.7.1": {
+        "sha256": "8c3342fc0006700774411f316426871a1d29bcd52aa1d5b173536faf6ae802f4",
+        "url": "https://files.pythonhosted.org/packages/47/d6/3929fa3751ea872b4f875b35ab2f407fe6fa9c2ebab504e8db1b2537f097/mtstat-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "839a28a2c40dc19a7d23ac2863e91cb6a64eedbd47454cad0615f03ac002160e",
+        "url": "https://files.pythonhosted.org/packages/69/db/389b6882c70489058307e522fc4efcc7c41a43a581a42e557d38583e6cbd/mtstat-0.7.2.linux-i686.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "4eb2573d19b0a5ed802a5367dce031a63060cb5b399a2105026a5421a9f9ec9d",
+        "url": "https://files.pythonhosted.org/packages/65/01/59ec7fdfc14d23eb737b29408ebdec076d85f75bd7140426cff575e0ab0e/mtstat-0.7.3.linux-i686.tar.gz"
+      },
+      "dev": {
+        "sha256": "4c9d6d94c2905167b0e205328df2095f055590ec9924292e59e71df65d3c6535",
+        "url": "https://files.pythonhosted.org/packages/d4/6c/228553f480bd74534b5cd866f42e8f7a3baba3f9abf356dfaa438b66a0da/mtstat-dev.tar.gz"
+      }
+    }
+  ]
+}

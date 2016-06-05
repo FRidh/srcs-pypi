@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Simple django app to expose system infos: libraries version, databae server infos",
+    "homepage": "https://github.com/saxix/django-sysinfo",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "dd7c1faac34cfdd86e43707d29ad93cd322e1f39d8ea683384d4c37c85fd7155",
+        "url": "https://files.pythonhosted.org/packages/68/a0/35ead3ed121474b02484e884c359d43460b56f48f2ff74366e0ec58514d9/django-sysinfo-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "cf1eec08e442d686b06ffa787a5df03c0002a29c227eef9a83b321dafe196225",
+        "url": "https://files.pythonhosted.org/packages/aa/15/3901e83ca7c373e152ac9bb0386becce052a6fdbb5e6931a1b7daabca651/django-sysinfo-0.1.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "9a24d5716a45e656ed6057074cdd4d28da205f6734e89693b9c3a52d1325364f",
+        "url": "https://files.pythonhosted.org/packages/f5/39/6a7c9d01e98718228e00975d3f0acac3eca24ce787afb2f42360e2f8df51/django-sysinfo-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "a049dcb4736eca4843beb4da315716e80adbf9c995e857111d6457618c8a5222",
+        "url": "https://files.pythonhosted.org/packages/91/32/83c031e6daad4df7b4aaf55a7f0bf4700919b1f1ec590fa3c7da3e9a184e/django-sysinfo-0.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.2.3"
+  ],
+  "meta": {
+    "description": "Python logging handlers for sending logs to Graylog over TCP and UDP",
+    "homepage": "https://github.com/keeprocking/pygelf",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "494662d618915874bf2bae53ccf77adc7f950b612561bd1b75d3cdd8f0c69991",
+        "url": "https://files.pythonhosted.org/packages/38/34/1c4c0a9ddbb51b54af15bb6be2e6b95ced6e95aa95324b342d0e5612f2fa/pygelf-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "1189d9a48a81dd57a2c9559e549cb4c85a11ac137b8b26db03fb1c8de8f5d8a8",
+        "url": "https://files.pythonhosted.org/packages/42/5d/9e0f40c9b06fda6e3567bc6c404f417f524de31820240b6bb7551170a0a4/pygelf-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "3b2dbd9afef220e63201549ae2e272f07350f8d4d3c94ba16c7b339ef94c66d3",
+        "url": "https://files.pythonhosted.org/packages/8b/e1/381abd539a4f2920e6a8f463d468d86691f22bdb0f8b1fb85ed4f1da4044/pygelf-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "9520e247a0884968b279f2ff4ec1b36d9bf6de8a90679e55ab769fa052f338a4",
+        "url": "https://files.pythonhosted.org/packages/46/2c/a196fbcdfa67b98acd32a6eb6f9b0247f7b3e79f963117de6f0e21461234/pygelf-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "68c5a942cae6a8fe5076b6d25ef0187007470432acd120c398db77e8e53ae473",
+        "url": "https://files.pythonhosted.org/packages/9d/70/06ebc3dc97f9d315f321eebfb6fc904c9b7b945ec1365624a2d66a10129c/pygelf-0.2.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "Pythonic access to the Alberta (Canada) Electric System Operator (AESO) Energy Trading System (ETS)",
+    "homepage": "http://bitbucket.org/kc/pyaeso/wiki/Home",
+    "license": "GNU General Public License Version 3 (GPLv3)"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "58220c4b3cf78ade5c12df02836036e73357daca65f08a3d16ee849c82dd2463",
+        "url": "https://files.pythonhosted.org/packages/d3/58/62e2f961cda089d97617e982a3511912cef0cd8a9b44cdc0d53d1393621d/pyaeso-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "3ae2ec09b843f54e62592415978c92009ae34acf4cc807d754c2f6c9bc783e59",
+        "url": "https://files.pythonhosted.org/packages/02/5a/a6cef05d35cc4ad66ad75364e8d9f808062c098532a4cf4230842913f39c/pyaeso-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "317f0a341399bd412a20e1df1d4e5cf472c80b48527d0820733389608ad5a66f",
+        "url": "https://files.pythonhosted.org/packages/25/32/5ab32a0e2b3c83d1fc5af5d9ecb83cf7c26fd05ffc40f9ffed187ab1b3d0/pyaeso-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "4150f129b25c7e30bb908d87e3a2847e82cac7663b36e08db9606a0787203ba9",
+        "url": "https://files.pythonhosted.org/packages/b5/95/0eb82feb1f5dc943a834483c29dfb5adc128af6f17329898ccac1c1df872/pyaeso-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "b96e5cb1f6adaeeb9eb64ab47edcfa2f29c9ba2f36c86de62eb1e5802ce95756",
+        "url": "https://files.pythonhosted.org/packages/93/35/a6cb88421015d422121f46604313fc0772b97ea24087b044655dadc2e079/pyaeso-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "533ccecef1f5e18c57023866aa2f9d889dacb4e802f8123c64becdafd02142f8",
+        "url": "https://files.pythonhosted.org/packages/8e/b7/eac405776cbe714d98b827b88ddee05041a2a425dbb9d52131c7d32ab851/pyaeso-0.7.tar.gz"
+      }
+    }
+  ]
+}

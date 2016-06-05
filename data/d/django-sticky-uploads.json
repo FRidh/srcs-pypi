@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4.0"
+  ],
+  "meta": {
+    "description": "Enhanced file input widget for Django which uploads the file in the background and retains value on form errors",
+    "homepage": "https://github.com/caktus/django-sticky-uploads/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "c9ec78c2df5210be3c935db28fca10cf77b2782b8e16d417e1153d35fa5ff038",
+        "url": "https://files.pythonhosted.org/packages/b8/26/a66927ec9c8c35f8a677712770bb496c8abcdc3cf576aea0b4bb8343bded/django-sticky-uploads-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "73800d6470510211528421b9371d1c46c1041fb92322f38c7363dba4aa825ce2",
+        "url": "https://files.pythonhosted.org/packages/d6/e0/4c2ff02b9f2e8510020fd4125adc96fbc0cafbfe6233d472686b0e86aff4/django-sticky-uploads-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "4d339793392f0c6d6b7b29ed289c2071d31acd1a61eb0923a31cf62c14362bc3",
+        "url": "https://files.pythonhosted.org/packages/f0/e5/4f5004147325440be8c063361b4fb38795da9723a81e3b3d09718f9837ab/django-sticky-uploads-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "d9226b6f1627c9e762e45a45a6926152ec39253539374b81cdd8286062c5d133",
+        "url": "https://files.pythonhosted.org/packages/a6/04/e235bf9e770740596c9bb23d7c4de464df08ca726ff0f492ed3a78d1c381/django-sticky-uploads-0.4.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.1.4"
+  ],
+  "meta": {
+    "description": "This is the commandline client for mozci.                  It allows you to interact with Mozilla's Buildbot CI and                  TaskCluster. It simplifies and unifies querying and triggering                  jobs",
+    "homepage": "https://github.com/mozilla/mozilla_ci_tools",
+    "license": "MPL"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "0043001c6f019f33b330d33a16e508d720eba3835b63213e32bb5ba566adeda2",
+        "url": "https://files.pythonhosted.org/packages/4b/a6/d9aa4d5e971cf5cb5cbed408d103ee60ba1035cb632dc59ec919101c21b7/mozci-scripts-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "4393ec13fb0096cd5c502f483d09fbd57e430b5f8259ff047368c59bb098a995",
+        "url": "https://files.pythonhosted.org/packages/bc/b4/31e0ea977234180ee51b5f193dd2ec29c72092f9010907ffd4c5c0ccecda/mozci-scripts-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "de73dfc88fd56402f553bbfef7db25f497d42d9891f9b61502a3ef458378c0d1",
+        "url": "https://files.pythonhosted.org/packages/f0/79/bfc3ffba5216b4c2ad6cbbd452d75ad955722cda8047efc2d697db7287e4/mozci-scripts-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "1fd8c2ee0529c6b89b0c298ac13bf37c54417b9f4aede36b3de008e05fab0986",
+        "url": "https://files.pythonhosted.org/packages/d3/4f/7ae7a47cbe004308e1d845fe22c0ab25d1a7e9dd863bb81347408022b9df/mozci-scripts-0.1.4.tar.gz"
+      }
+    }
+  ]
+}

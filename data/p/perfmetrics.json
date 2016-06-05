@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "2.0"
+  ],
+  "meta": {
+    "description": "Send performance metrics about Python code to Statsd",
+    "homepage": "https://github.com/hathawsh/perfmetrics",
+    "license": "BSD-derived (http://www.repoze.org/LICENSE.txt)"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "78af3e1dd7c040f62874775a43780822a797041ab21e3dd7356f5e77e9d79a76",
+        "url": "https://files.pythonhosted.org/packages/ed/f5/d1f60dab9ba4750047c4ce6e4e343cbeb591e2ffbd68a90d8c699e0dd974/perfmetrics-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "a295bdf1d65ca6254f2a326ab988f47ac7a6eacf0e6dfeb7f7878c2db761760b",
+        "url": "https://files.pythonhosted.org/packages/97/7f/f2276dd98374e81b975c1c04c96bbad54723815b03659632ca03aa497bd6/perfmetrics-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "89da6631ec8cae60185ba2e58aa5f7f1e3dd0f18a612d3c33a8c49d2a0b0632a",
+        "url": "https://files.pythonhosted.org/packages/c2/6e/221fb4577f9c1baf0811e3c023a28a01217f8cae4ffba31104b04bc510f1/perfmetrics-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "8956427da6422ba236240c2ed62b8f3ebad3b25755410c08595a48ddb4c2fb57",
+        "url": "https://files.pythonhosted.org/packages/bc/65/52eeb10c09621aec452e1724bafa4278ffc490724070bb3c7d680f4b0b9f/perfmetrics-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "70c8cf5030a9866167426ef15e636d046721ecbac0ab9b8cac0568e9b4713183",
+        "url": "https://files.pythonhosted.org/packages/09/71/96f5ad9131ccf101e27c039f50a901ed196e07ba85f0f601260346eb0090/perfmetrics-0.9.4.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "6be56ef4959877a0fdabd5ac0ed680918e7b16e65cf168bdb4479bbcee45c595",
+        "url": "https://files.pythonhosted.org/packages/06/cd/e6a93611824fc2d5d2b6326afaf412a6a417804e25f993bf4c24742a05f9/perfmetrics-0.9.5.tar.gz"
+      },
+      "1.0": {
+        "sha256": "6978ac6dddc42e5a7e216d94520507e19d30e4dcf8a26b50bf1a11603f7deb4d",
+        "url": "https://files.pythonhosted.org/packages/16/e2/1734fbbd4b316027a77ff184def0880cf7008ccbc2bf5d154e021ea57ab1/perfmetrics-1.0.tar.gz"
+      },
+      "2.0": {
+        "sha256": "7d8370abe78abf92480d4ae01cd2831fdd4b9b7f1fce07aa56bd246e5f3a9781",
+        "url": "https://files.pythonhosted.org/packages/31/8b/a61d7d41944134094681f0359c2491f061482635e7d0e40267ab83a73eb7/perfmetrics-2.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "latest_version": [
+    "1.2.21"
+  ],
+  "meta": {
+    "description": "A DataONE client library for Python",
+    "homepage": "http://dataone.org",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "1.2.0": {
+        "sha256": "ccfd6122a9f2034a9282ebfe4b5c79b3e137f90d1224a71ad5111c69d6b8f097",
+        "url": "https://files.pythonhosted.org/packages/eb/c4/970d7b1c6211ef67fbbac306145b44e10206e63a2bfac82eef5fa7ca452a/dataone.libclient-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "9d49809aea63ea2bdce05b937a68d08201baaa0f89f50b9eb4180379eabe60a5",
+        "url": "https://files.pythonhosted.org/packages/9c/db/b40462a42fb7970b28293803dcbda781d98065b4e0d6ff908ec907d9740b/dataone.libclient-1.2.1.tar.gz"
+      },
+      "1.2.10": {
+        "sha256": "ff74d6160c47d114cd352b4a19b6ea6c59bb38abd3eddf867e934773777863d1",
+        "url": "https://files.pythonhosted.org/packages/fb/e3/43767888b70f2b754caa16808f6720d7f9ba489afe787e6e54fd54640040/dataone.libclient-1.2.10.tar.gz"
+      },
+      "1.2.11": {
+        "sha256": "8bdfac799a2cc9424485def79bc4b7c00ae60cc69abedfe4eea61da253b472f3",
+        "url": "https://files.pythonhosted.org/packages/5b/08/64a42e88d8f86004704c9660ca07888c94831f51c85748272c86eccaf35c/dataone.libclient-1.2.11.tar.gz"
+      },
+      "1.2.12": {
+        "sha256": "223a8e87eac0678090e2cbb6d8e6f67dd29c88e6a468530c02090ff202de7b30",
+        "url": "https://files.pythonhosted.org/packages/74/5f/e85d0f3a8d56513bfe526a04c5470c82567ba244dbb472c4d39459627c9d/dataone.libclient-1.2.12.tar.gz"
+      },
+      "1.2.13": {
+        "sha256": "6a6e90c4d4a0476f779b732c85cf736a696b2140bf2357c6ac59fbfe45bfeb3a",
+        "url": "https://files.pythonhosted.org/packages/7c/4c/4ff00ee7c9806788f3c89f711f2e152acc03a0dab2a739839a7606aad289/dataone.libclient-1.2.13.tar.gz"
+      },
+      "1.2.14": {
+        "sha256": "9f6a4bedf018259d396be45ad27b76d7b19fe7199ff5eb87aca3909180b1cfc1",
+        "url": "https://files.pythonhosted.org/packages/23/09/4e24db21b35210abf129d4e9d7ab4db6234ffd4cfd9dc927bac67dff0246/dataone.libclient-1.2.14.tar.gz"
+      },
+      "1.2.15": {
+        "sha256": "c0bcf01c8f8ed3a7be2ec08f2dc3f9eadce6cbada06c3b3fad5cfddb5008bb6a",
+        "url": "https://files.pythonhosted.org/packages/d8/c1/06f01287ca434bad0552de99801eeaac08e82b909c5bd89ea6757b0b75ca/dataone.libclient-1.2.15.tar.gz"
+      },
+      "1.2.15.1": {
+        "sha256": "16bfe44b0456d0794240e17c8e9aa0768b2e84cd5c6108a361e8e94896d6b8e8",
+        "url": "https://files.pythonhosted.org/packages/82/b7/26ae5e57c0c94f6eaaf3084b080694dbb5bce01b39955d5206509646ca42/dataone.libclient-1.2.15.1.tar.gz"
+      },
+      "1.2.16": {
+        "sha256": "ab173526322c883b5478dbc3df5cdccafafbc8293be06ad35888bf0a83326b12",
+        "url": "https://files.pythonhosted.org/packages/e7/06/600f44f098ddc691a5c566cc4d058d21a32044eb6d90cf0d2de6fae4edfb/dataone.libclient-1.2.16.tar.gz"
+      },
+      "1.2.17": {
+        "sha256": "019279c653c527d3962b080a241f4fe0840cb330e5cac83572f03f44127aa0e6",
+        "url": "https://files.pythonhosted.org/packages/77/4a/2c8e00b3877ab4e355a2b0c908c8b329adb6cab188cb3a38191a1ccb5203/dataone.libclient-1.2.17.tar.gz"
+      },
+      "1.2.17.1": {
+        "sha256": "64da83aa6057c368e3bc2833108c6f8e3de04054ffdf0c3c5d12f29bbe74d730",
+        "url": "https://files.pythonhosted.org/packages/62/c5/5f8bc98dfa4a633b16f9e9bf6b31b12399b2ab6cf6b0fd58aef909756253/dataone.libclient-1.2.17.1.tar.gz"
+      },
+      "1.2.17.2": {
+        "sha256": "9797cf7fffd63b9848684b537b4703ff75d45657c7c5ea8fdcf4383d407f7b7d",
+        "url": "https://files.pythonhosted.org/packages/bc/21/71914415f24b49fde08af79e1ce4d922fc8c4fde22238edaf0e31636b6a4/dataone.libclient-1.2.17.2.tar.gz"
+      },
+      "1.2.17.3": {
+        "sha256": "6f00a9d7910441344d39b75cf9bcfd9a63fcc4110ea5fb203aec79ccea793a37",
+        "url": "https://files.pythonhosted.org/packages/0e/7f/f66f2849b7285a90ac4b251c692a5e7be14c23c41711f47f071f71c79ce8/dataone.libclient-1.2.17.3.tar.gz"
+      },
+      "1.2.17.4": {
+        "sha256": "86c83717d7c8662ccd0e110b73022e83e867a035d90d54b2e6fab65f6f2aa63d",
+        "url": "https://files.pythonhosted.org/packages/22/3b/8149b623a46658dd88979c40cfb8ace109b7f0ececfe0096749994dbeb17/dataone.libclient-1.2.17.4.tar.gz"
+      },
+      "1.2.17.5": {
+        "sha256": "1ad78865b7b1514608fa6d4c17bbe0d05c502f99bbaed0f3d4399d873aee8745",
+        "url": "https://files.pythonhosted.org/packages/3c/8f/a207f81a2db5c26210cf34d91511f72e65cf3dfe3014c0e5a27e5b9f5c2f/dataone.libclient-1.2.17.5.tar.gz"
+      },
+      "1.2.18": {
+        "sha256": "c22e050859696a2aa91163f1cf001277816595cb524f661df29e4b36cf6098c9",
+        "url": "https://files.pythonhosted.org/packages/4f/8b/e381608e79a3e1cc071b0172eeb3901cbf9e41daf7f9741f9b38b069706d/dataone.libclient-1.2.18.tar.gz"
+      },
+      "1.2.18.1": {
+        "sha256": "4be6bdef578ba8313340c9a09e9892322cf335507711f6ce72a7baceb0f3ba62",
+        "url": "https://files.pythonhosted.org/packages/89/e2/2904dfcd7538a97422ba6cdbf9683c2008be8b094c2ba045d2c09c278517/dataone.libclient-1.2.18.1.tar.gz"
+      },
+      "1.2.18.10": {
+        "sha256": "3fe38591df3df5ed298871ef3c26d3d2675c6398ae9548351d3d711da8b1a2d8",
+        "url": "https://files.pythonhosted.org/packages/ec/32/064bacc30c7aa90850b5a725a2b96fe1c2b72f2cf9c20adb00cea6a6aab2/dataone.libclient-1.2.18.10.tar.gz"
+      },
+      "1.2.18.2": {
+        "sha256": "12546f3140d3cb9c27e07284f0fa0ca5e4eb9863b75b0e6c6edcc734208794d7",
+        "url": "https://files.pythonhosted.org/packages/d5/03/441e8c3680527c913e8554f4935b97a371ea547f623540ac8cef7023c2a8/dataone.libclient-1.2.18.2.tar.gz"
+      },
+      "1.2.18.3": {
+        "sha256": "2e707ecf405259c6f010a3745146d3704d5a0348a7be142b2cb335b5c0bfd479",
+        "url": "https://files.pythonhosted.org/packages/13/24/0e2f9804a36021e7915a701355ac48a9526b865b9d7f85b548e50412f138/dataone.libclient-1.2.18.3.tar.gz"
+      },
+      "1.2.18.4": {
+        "sha256": "2fc8be95ccf862ee0147700daabd3bd7c2aec9034f7b9ae764806920e1c145bf",
+        "url": "https://files.pythonhosted.org/packages/47/ac/6a69424ace132122dca88fa3e9871d66820481017163d5adf04735b09d28/dataone.libclient-1.2.18.4.tar.gz"
+      },
+      "1.2.18.5": {
+        "sha256": "fc743345aa14291f885a82bb30d1b8b8bfe66834a761aa0b1ac9d20bc9b8a99b",
+        "url": "https://files.pythonhosted.org/packages/13/6c/a200cc77c7c00cbca8b308f5f728152f8170a6ca9cc1fee7106d615ed24f/dataone.libclient-1.2.18.5.tar.gz"
+      },
+      "1.2.18.6": {
+        "sha256": "1058d2e88f201faa0b9fb6b930e84103275ebf10c066ef3ee370646b215cf7fd",
+        "url": "https://files.pythonhosted.org/packages/2a/9f/1ebe07ceb5bda5f11c68b6168317b47b4276d976ad3f5c88899932eaf352/dataone.libclient-1.2.18.6.tar.gz"
+      },
+      "1.2.18.7": {
+        "sha256": "09a011a05ec3a5f60a36efcb5e8ade6d54f6025f4927255b98df50b547d30273",
+        "url": "https://files.pythonhosted.org/packages/58/9a/97a1f8a39d8df1cf9366268f0edf0f7a671f07bac3ce099dae29b0c7a9bb/dataone.libclient-1.2.18.7.tar.gz"
+      },
+      "1.2.18.8": {
+        "sha256": "4a4bc43999d00f91d756da82a438f1ba8eeae67c0eac523661f9b5e910015783",
+        "url": "https://files.pythonhosted.org/packages/6f/39/d25531a16adb8ba5cfb7b624c779ff39b9146b7eafcc2758b16d864b59f0/dataone.libclient-1.2.18.8.tar.gz"
+      },
+      "1.2.18.9": {
+        "sha256": "c5e85f1f521d17fe88c8b4512c09b562f8d0abb69c3936d8d1caa3a1104e6f82",
+        "url": "https://files.pythonhosted.org/packages/10/ce/10cd636fb4d62a2ea18449544a6ee91965676a1b91052a089a5eedefa7bc/dataone.libclient-1.2.18.9.tar.gz"
+      },
+      "1.2.19": {
+        "sha256": "a05cae2277c86e3266b32541f3f059a556fdc412889b70ab397ff3633c667e4c",
+        "url": "https://files.pythonhosted.org/packages/48/db/85442427b49d5137468356c6b745306b421052a091924be5c82a62020b72/dataone.libclient-1.2.19.tar.gz"
+      },
+      "1.2.19.1": {
+        "sha256": "3b8c759a2aa800355793ba4d6777d1bef84643b749ac3caceb73fb9d8623d266",
+        "url": "https://files.pythonhosted.org/packages/5b/f4/df4c8c7b0ffb16537b4c098f788186b11b24fbde18eaa01000dee640aeb3/dataone.libclient-1.2.19.1.tar.gz"
+      },
+      "1.2.19.2": {
+        "sha256": "423ca62bdb4e01f96dc93bbb6ba0cb79060b88b874f2e374abe23659f6ee46b0",
+        "url": "https://files.pythonhosted.org/packages/c7/8b/46df26f158e443b7eed3fe28ebb88b660639ce5040cfd5d320109f454533/dataone.libclient-1.2.19.2.tar.gz"
+      },
+      "1.2.19.3": {
+        "sha256": "ea9856b591fe83bcac2fd9e4f8f2ba2d84e326214e238484c78595fcd580acf6",
+        "url": "https://files.pythonhosted.org/packages/6c/0b/960c02a645511c445b4c35493234198c58c16adec28be8c6f8080cc73258/dataone.libclient-1.2.19.3.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "53781259d783e665935ec721bcd318f9cd02c80809513514f58ebee41a899163",
+        "url": "https://files.pythonhosted.org/packages/8b/39/bf114a28993b9e4e37356ee7ec2177b900f1cea720580e6a318f8a60cb6e/dataone.libclient-1.2.2.tar.gz"
+      },
+      "1.2.20": {
+        "sha256": "84c94934dfd9772dd0b4a41f7763a6ec2b485b10a49809898e079cb41a4b36eb",
+        "url": "https://files.pythonhosted.org/packages/a9/e4/5957ad63e08fd33cfbfad0636feb1b8cf5555b36092907587595fb29d2b7/dataone.libclient-1.2.20.tar.gz"
+      },
+      "1.2.21": {
+        "sha256": "881f6672eb9b8ec06270e0262232d5eaa2051823bc109c6e1b5acfe61d2ab3a2",
+        "url": "https://files.pythonhosted.org/packages/dc/3e/b8a0720d456d1e0b129f74a289934c180219c4ae644a693cc7c73097d427/dataone.libclient-1.2.21.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "fda170ebecdd80e6b5000ba090996e757c551e71b0e7aafbe4c409a913c567c3",
+        "url": "https://files.pythonhosted.org/packages/0a/87/94d7f7d725230836b56cf4542af191878d83df277faf870c5312b0ed95b2/dataone.libclient-1.2.3.tar.gz"
+      },
+      "1.2.4": {
+        "sha256": "5c83ca47a27c3e96a53e64e4b76d22b0bf221bf2cfdd5619ff76f91eee2907d4",
+        "url": "https://files.pythonhosted.org/packages/9a/a8/3498a016a93fee3e2d72e2f59cbbd14c45e5b0c6a6bfc6ce895b859aed75/dataone.libclient-1.2.4.tar.gz"
+      },
+      "1.2.5": {
+        "sha256": "8220efa9c651a4851f16f21a8003178e5c1e5c42dc0855404b35543ab96cbd8d",
+        "url": "https://files.pythonhosted.org/packages/ab/ca/6cff5e349f9d60331712edf340b00cd97e816d671bcadf3feb3fbabe74db/dataone.libclient-1.2.5.tar.gz"
+      },
+      "1.2.6": {
+        "sha256": "b0df6d48c475ef228c7a736b64c86f94ab9602e815be684a9f905533a018e07c",
+        "url": "https://files.pythonhosted.org/packages/ec/47/ccee5546c86992fb0b90c39328b8c14dc21df6045c44db3d4f512418f33e/dataone.libclient-1.2.6.tar.gz"
+      },
+      "1.2.7": {
+        "sha256": "e4429a6b23a300174e765da2503773b45477d830a484b458e247cfd2576596b6",
+        "url": "https://files.pythonhosted.org/packages/5d/0d/1a34d0240a0de81e6cdf78add60ca748a6ebaa3eb98e88bae5cf2d971e47/dataone.libclient-1.2.7.tar.gz"
+      },
+      "1.2.8": {
+        "sha256": "58a62259e714bcfd349c11f2167f1cd5aec3d9c5a4144d842e92d4e7dbf0c716",
+        "url": "https://files.pythonhosted.org/packages/95/e7/27234b1a9cdbf3497644a158fac82d33e7c75f89f7489a94b72f093dce89/dataone.libclient-1.2.8.tar.gz"
+      },
+      "1.2.8.1": {
+        "sha256": "8e5cf2ac6b65d0f9ef9fdf05120fff14865dde5dabf25c8c3f52a6e5915ad295",
+        "url": "https://files.pythonhosted.org/packages/24/fe/1b40ba953ae79f63ebef09592f983582e9d8021277ae2bbf6a19190e2226/dataone.libclient-1.2.8.1.tar.gz"
+      },
+      "1.2.9": {
+        "sha256": "b4ba04161ec77e7f55b5928f0cbde45226b7872c2242b66bb254b4f1e3456a39",
+        "url": "https://files.pythonhosted.org/packages/b7/0e/0dd8ee1955c43b958ae37f4f6670d46931fce672d1010507ca0a06550882/dataone.libclient-1.2.9.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.6"
+  ],
+  "meta": {
+    "description": "Python Matplotlib, Numpy library to manage wind data, draw windrose (also known as a polar rose plot)",
+    "homepage": "https://github.com/scls19fr/windrose",
+    "license": "CeCILL-B"
+  },
+  "versions": [
+    {
+      "1.4": {
+        "sha256": "9611468316edd49d3d1a268bb5998d881367db6579242ce4772ca8e181cc0ecc",
+        "url": "https://files.pythonhosted.org/packages/4d/b7/bc8fa931d179069f923cee0afd8f47f52c4a45e6f7e3442113a03a5c2433/windrose-1.4.tar.gz"
+      },
+      "1.5": {
+        "sha256": "956a9e79d887c16c4d3461bda658e05e98b5dff20e84d6b5774de76bfcc53cfd",
+        "url": "https://files.pythonhosted.org/packages/f3/93/0a1744f90f7ab86c50fbe9a6fefd01771dfbd6d24eabab295aa6b6f7f986/windrose-1.5.tar.gz"
+      },
+      "1.6": {
+        "sha256": "cbeb0f178944f1838bc84e87bac177e6a8d98478703f559528f5d72aa1e888fa",
+        "url": "https://files.pythonhosted.org/packages/5d/6e/3ad6fa05de518cdf0f3a66e6df3494d8208c6f33e46bdfee2bf58fa4c3b1/windrose-1.6.tar.gz"
+      }
+    }
+  ]
+}

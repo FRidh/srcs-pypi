@@ -1,0 +1,194 @@
+{
+  "latest_version": [
+    "0.5.1.dev6"
+  ],
+  "meta": {
+    "description": "Feature collection storage for DossierStack",
+    "homepage": "http://github.com/dossier/dossier.store",
+    "license": "Copyright (c) 2012-2014 Diffeo, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."
+  },
+  "versions": [
+    {
+      "0.2.1": {
+        "sha256": "16af8cfef93d69d23dd6c71fe111cf26bc9e080b008a78e8e565273ff584859a",
+        "url": "https://files.pythonhosted.org/packages/2b/7c/982e2ca15345b4672ff03bf5b4ab162b3c22d551fa45b2951ca797594cd4/dossier.store-0.2.1.tar.gz"
+      },
+      "0.2.1.dev1": {
+        "sha256": "2d1863ad715397617ee0b04a42f5462a9d54e08d5ec24f60403a9a9e4d334132",
+        "url": "https://files.pythonhosted.org/packages/54/7b/6bf2b29b77d813c118b1677b6c11dbc066b4b286c6b9277aadf77f1e9341/dossier.store-0.2.1.dev1.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "70ad5caee0c5346a51da31841fdb061d156049fff8636ed6d5b5285694b7ef4f",
+        "url": "https://files.pythonhosted.org/packages/41/9e/c002cf1fa3cf0f5bda08305fff2b181d52925a7aceb046c22e93b7de6994/dossier.store-0.2.3.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "811ff4c72f303bae2083f1bd3db56188ecf097f84d8250cd49d900df38330651",
+        "url": "https://files.pythonhosted.org/packages/e4/bd/22f6c68264c29e139a9b1497576fdd8f5d2ede652fd24fc2d0b57378e5de/dossier.store-0.2.4.tar.gz"
+      },
+      "0.2.5": {
+        "sha256": "f8a0847b719c3954da45b39818f2da5603e3b6cbbfa309404b763c7c366ae047",
+        "url": "https://files.pythonhosted.org/packages/8e/f5/cb7f1e9dceb821b4eb9faa5763932565a30a4c2cee3c7282a58536f980b3/dossier.store-0.2.5.tar.gz"
+      },
+      "0.2.6.dev1": {
+        "sha256": "f33831291a8a518a8466077e1d7e14e80e8bb646a53ba468a825a9c84b4bde16",
+        "url": "https://files.pythonhosted.org/packages/fc/b1/46c91811ec631c7053cf909ece76c8fc84315338a00222bb3be75d87d820/dossier.store-0.2.6.dev1.tar.gz"
+      },
+      "0.2.6.dev2": {
+        "sha256": "23c18f81b015ed6439093cdb5c48edb51938f1bd26e5e451ebb1ad9c7a29cd76",
+        "url": "https://files.pythonhosted.org/packages/99/c2/da73a96624865da687f1b8e8075935d6e609d80114a4e4bd460ebb333f10/dossier.store-0.2.6.dev2.tar.gz"
+      },
+      "0.2.6.dev3": {
+        "sha256": "c33e47a0de440e619800e89489e2fef78515b05122f25470441028c06d67f37a",
+        "url": "https://files.pythonhosted.org/packages/fa/a9/c21edafb8d0fa58fa18dabfe1ba76cfec4edd8e7d6d02d38441db76c574c/dossier.store-0.2.6.dev3.tar.gz"
+      },
+      "0.2.6.dev4": {
+        "sha256": "eb5b10c89b6ddf70d84541e6ba30c41179edf7f36cb8e8710601bf1f8cb06b08",
+        "url": "https://files.pythonhosted.org/packages/ec/36/33e784a8df7b3a54aaa2b2560e116280de6af2ea062bdef8553b4a9c391f/dossier.store-0.2.6.dev4.tar.gz"
+      },
+      "0.2.6.dev5": {
+        "sha256": "f24e4576dd1539a2e08a8da4764aa4583646d16ba79969b73132be3938003cca",
+        "url": "https://files.pythonhosted.org/packages/f4/4d/8f7111a866d09789f7b8051dabd6a05d2fb9abea479220090cfdfa3b4d44/dossier.store-0.2.6.dev5.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "793a4252ac1be87bc7b1418c12b5b8035473f61534b09d84da1bb3b24ea01131",
+        "url": "https://files.pythonhosted.org/packages/70/45/570967dc20d27df42566f15825812b94e45c9ce0051955bafdb98b8c4396/dossier.store-0.3.2.tar.gz"
+      },
+      "0.3.2.dev1": {
+        "sha256": "493718e734d093012b051bddb23d7f49df36cc446e05f72ec8eb335f97de0604",
+        "url": "https://files.pythonhosted.org/packages/be/de/8b2296a7127984cb9c83d67773bb89732818fd46f5a6dc666ce21483c001/dossier.store-0.3.2.dev1.tar.gz"
+      },
+      "0.3.2.dev2": {
+        "sha256": "0d6f7655164d8072b8c9470bfe4676cf12db4ca4d92fbb87d779b26c52e91fc5",
+        "url": "https://files.pythonhosted.org/packages/68/d3/7369402a943aae60a226fe552b83cdd6759962186896865cf50aa29cd411/dossier.store-0.3.2.dev2.tar.gz"
+      },
+      "0.3.2.dev4": {
+        "sha256": "1100fd101341310e0825b6da687b487285a710769cbfaf498fd5d5d876ccb98c",
+        "url": "https://files.pythonhosted.org/packages/79/ea/6b3671f8c281eabef10e9f55cc41e872fba8050db246f14ef4475f05900b/dossier.store-0.3.2.dev4.tar.gz"
+      },
+      "0.3.2.dev5": {
+        "sha256": "7378166b90f6252f9fa18a0dc5c7cdf0d2e88ff620f96b87e6f75ae830ea0e0d",
+        "url": "https://files.pythonhosted.org/packages/5b/d9/2d8105e4449384a5bc99214bdad79fd6634b0febbdbebc99993cf13c8c25/dossier.store-0.3.2.dev5.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "f48a1d98592217722564b18df8c779573b1200bf7d4adf1f07bbf1f577f9377b",
+        "url": "https://files.pythonhosted.org/packages/3b/99/99abd6cfcd4bfeeaf82a18b5a78c555a0dfaea0e856cf3a151de6527d794/dossier.store-0.3.3.tar.gz"
+      },
+      "0.3.3.dev1": {
+        "sha256": "3e86f5d2b031ce9a394c5ada6cd235a71f18f5f7891b6f4e1b98a443ceed8cb5",
+        "url": "https://files.pythonhosted.org/packages/5c/e8/1b865cb10464937b3e7f42a48c8867f08cbd22f42d6a7f95f67bebc11e76/dossier.store-0.3.3.dev1.tar.gz"
+      },
+      "0.3.3.dev2": {
+        "sha256": "feee830dc9c925601a3e1b3d21d8531a789cc358b8a00fce40cebdf1d346a4c0",
+        "url": "https://files.pythonhosted.org/packages/61/32/aee21ae3b91fe4d79dfdb2f5595f8fb73b1543291052b88b93e7e7354963/dossier.store-0.3.3.dev2.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "936aff64c9ef0b96651daa1ead13509c6d8127072a6c318f63f0c96b6e08af34",
+        "url": "https://files.pythonhosted.org/packages/36/69/eba40b67c775da0937df34b3d2240455a077268daa2cda6b7e4220ea64ff/dossier.store-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "5c3e8790d8bd55accd11d6aecd747768a982a87e8af84410c9abbd93058d9437",
+        "url": "https://files.pythonhosted.org/packages/28/01/2b839929df2561e42a7cfb0c7752cf06562d5b5024309298834d2ce86f3a/dossier.store-0.3.5.tar.gz"
+      },
+      "0.3.5.dev1": {
+        "sha256": "76f14a761b01784ff3ad0a959c74f40e138245c7bb0d1d3ae74b51b02b3aacd0",
+        "url": "https://files.pythonhosted.org/packages/fa/cf/0cc6cdad264ac20cd0d39f7c8267cf7213822dd0afc15080fe8b111e354f/dossier.store-0.3.5.dev1.tar.gz"
+      },
+      "0.3.5.dev2": {
+        "sha256": "ca17ff36b50a7808652d4fbb711073bdc7f180c83f91870f96fe8321c4467ef5",
+        "url": "https://files.pythonhosted.org/packages/5b/69/f35e789dc45471ea458dc001833a298edf6e25204e5851daf3d737c3e2e3/dossier.store-0.3.5.dev2.tar.gz"
+      },
+      "0.3.6.dev1": {
+        "sha256": "82b2f8ef6acff9fb850e9bb707830d11abdf5afcd1d26e6e3c06db3276d9f270",
+        "url": "https://files.pythonhosted.org/packages/68/d0/f0d3c0b2049662a2361e516d0cc9acf62755a17e381cb8925c693110336b/dossier.store-0.3.6.dev1.tar.gz"
+      },
+      "0.3.6.dev2": {
+        "sha256": "f94cc147651369174f95df5199491bd5469098be2d71b6597eb4648842ce4ec7",
+        "url": "https://files.pythonhosted.org/packages/b4/8f/ba03207e5dfc73e1d164c1878be72649cc00cb7f1ac17ec460b57239d824/dossier.store-0.3.6.dev2.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "e7d0843c3236575d264cd4bd57211198e46d560bd969fb46a342b23e467cc434",
+        "url": "https://files.pythonhosted.org/packages/94/21/fab6f96d3d7eb497cf6480770c4fd1330b3357df505e8a4045f01fd36ae5/dossier.store-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "13bf07359809bc17c575cffc0a085bbf54247b69fc1ef5e4782921c8ba3e558b",
+        "url": "https://files.pythonhosted.org/packages/0f/29/9595543813086ad4ceea2808b0f9c6d62fdf1f37e22b0e3bd03a67f14112/dossier.store-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "e8eaff09c5c4426fe506497a9def7b7073453038178bc93731d76149c3203d77",
+        "url": "https://files.pythonhosted.org/packages/ab/c7/e69ada2329a1e32e43f07c1048c3b4e314471e953f9a428e74811dbc4f44/dossier.store-0.4.2.tar.gz"
+      },
+      "0.4.2.dev1": {
+        "sha256": "3ab93b85487c973c32f73cea3c0e57a5aff634b637adbc9e2d2cd16e35edcb5e",
+        "url": "https://files.pythonhosted.org/packages/06/ff/1d8f2a827195a62b4f6d1fac41ef93c50afdcd2db00327d4b92856026325/dossier.store-0.4.2.dev1.tar.gz"
+      },
+      "0.4.3.dev25": {
+        "sha256": "12672dc4a2790fad7d3aafab1ea7dfe0b2123657165a6d1cc4c3d410dc5164c3",
+        "url": "https://files.pythonhosted.org/packages/64/c1/cb78f85bd0c1cac319b0b1d7b3c602ebc29831f834acf384fe69c093a31c/dossier.store-0.4.3.dev25.tar.gz"
+      },
+      "0.4.3.dev26": {
+        "sha256": "f25a452d8bc60025c7125978d0a4ef87620a0bb9dd9a640c183c4724107900fc",
+        "url": "https://files.pythonhosted.org/packages/13/b4/c64b441b93dd0fac7ee869bdac44bd956a3495b6ca15fff85cdef6c549d8/dossier.store-0.4.3.dev26.tar.gz"
+      },
+      "0.4.3.dev29": {
+        "sha256": "dfd711d58c34163cc026dfa826b26cc672d0f93bc94c906b6a6b7f4cdce6cd62",
+        "url": "https://files.pythonhosted.org/packages/4d/75/8bcdcb889565938288dad083e28ec01641ede0ba28b28dc144d3de1afb7e/dossier.store-0.4.3.dev29.tar.gz"
+      },
+      "0.4.3.dev30": {
+        "sha256": "b496ef8cb4e34a5f3a7a18bfb35bda98372c7a2d37219ce729695f3eb4d583fd",
+        "url": "https://files.pythonhosted.org/packages/52/ad/92d8c1f34994428fe73952927841df0ed15c97f3152ab98bb5c9ab0f1533/dossier.store-0.4.3.dev30.tar.gz"
+      },
+      "0.4.3.dev31": {
+        "sha256": "032d1fd022acf40a954e7b38f247a466e0be724dbb5178d789ac177ce16fb833",
+        "url": "https://files.pythonhosted.org/packages/2b/18/8cba14ec0d9c169611ae099548dcaedbec92aaa8c6d011109a7ddb782bc4/dossier.store-0.4.3.dev31.tar.gz"
+      },
+      "0.4.3.dev32": {
+        "sha256": "792cc0d5f38386d40914aa3f96a5c4b5aafaddb9d9cab6b39418f785a2f0f9fd",
+        "url": "https://files.pythonhosted.org/packages/34/ed/95019aef654d7b0774aac12c75c39e7676bc60ffaf9b84a3d22620c727a6/dossier.store-0.4.3.dev32.tar.gz"
+      },
+      "0.4.3.dev33": {
+        "sha256": "cf8b60d1537148364d0f92d00da7f6f0f0458199c50b49843626353a6014d9e8",
+        "url": "https://files.pythonhosted.org/packages/f6/1b/70eeb9548c5bd99e34f61bf1420cdfba248514010035e8777606d2edea7c/dossier.store-0.4.3.dev33.tar.gz"
+      },
+      "0.4.3.dev34": {
+        "sha256": "3dc4e1f2de18269247bcac0d0dda80e8c55adf0544025d5bd3199c39c62cd108",
+        "url": "https://files.pythonhosted.org/packages/a1/4b/cb00f6c28cec1c90c3b8381eed58e975cb82bd970821b1f89be66e2159ed/dossier.store-0.4.3.dev34.tar.gz"
+      },
+      "0.4.3.dev35": {
+        "sha256": "b21e22a7be2cf1b21420bce73d6559555817b18bc537ec43ff1278414fb262e1",
+        "url": "https://files.pythonhosted.org/packages/36/c1/b2122c447d42c804b8354281782be1aca31701301d874e133192fa98a29a/dossier.store-0.4.3.dev35.tar.gz"
+      },
+      "0.4.3.dev36": {
+        "sha256": "a5c4b657d8b1e84f2ecfeb9cbd4578d5df41b4f5503d5c08273209979219fbeb",
+        "url": "https://files.pythonhosted.org/packages/d3/47/3b6ce4565062609a0927637d9a9ffae1deaf060b740d60238ebcda966a7a/dossier.store-0.4.3.dev36.tar.gz"
+      },
+      "0.4.3.dev39": {
+        "sha256": "80e73a6c3c54454a1345622aaf2f45bfd21807448d3b6c3ebaa8dd8a0efbfef7",
+        "url": "https://files.pythonhosted.org/packages/15/b5/ce915901a9ff951ef9b2d21a42fcaa69ffc23c20cefebb43e6e77ae62107/dossier.store-0.4.3.dev39.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "104504f3792c4ab17aeb65dc222d6206c439c54937d8fa82d237c2fa1e907bd8",
+        "url": "https://files.pythonhosted.org/packages/91/43/27e2a5fbaddae9249401da0a3db0d53d967fc5f29793dae769d36c3eb2b6/dossier.store-0.5.0.tar.gz"
+      },
+      "0.5.1.dev1": {
+        "sha256": "473a078e621c3ee150711f86f5af6bcb53038a325ac3573486998c5078dd8d2c",
+        "url": "https://files.pythonhosted.org/packages/41/ac/a8ed141e451602ff2ca8d2ba8faf91a79301d9f3eaaea3a6d69349c3d2c5/dossier.store-0.5.1.dev1.tar.gz"
+      },
+      "0.5.1.dev3": {
+        "sha256": "16d11f853a0bc6bf8e4ccdacaa648ade5f2e125176f98d9fc315504eb1fb398e",
+        "url": "https://files.pythonhosted.org/packages/a7/71/b602f5424f0f7447825fbb3224c7ad75fbcaef11cebb178594ed267a469b/dossier.store-0.5.1.dev3.tar.gz"
+      },
+      "0.5.1.dev4": {
+        "sha256": "715b778fb4980acf58c3c7c87b7a2e53d39eaf40302d70aa5dabb565afd2b7d2",
+        "url": "https://files.pythonhosted.org/packages/fa/92/8e27416eee21b7f93842a66f27ab2eeb2e47480befa0a35cbadefb5b4d9a/dossier.store-0.5.1.dev4.tar.gz"
+      },
+      "0.5.1.dev5": {
+        "sha256": "a9d94b702230135a9d869d75732c925f811279df7fa414a8686bde36610d6566",
+        "url": "https://files.pythonhosted.org/packages/4f/2f/889f10521c7136e518acddae0d6707d896a71138e56cc0c029aee48a1111/dossier.store-0.5.1.dev5.tar.gz"
+      },
+      "0.5.1.dev6": {
+        "sha256": "7e092705472b619fde4ba21f277c0caa24cc0cd8247d02c582ec703b921ce52d",
+        "url": "https://files.pythonhosted.org/packages/11/b9/22389ea2e5a85d05bef56500afe01f38c5e0aa417f575f204c509fe774a4/dossier.store-0.5.1.dev6.tar.gz"
+      }
+    }
+  ]
+}

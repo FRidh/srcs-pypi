@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.8"
+  ],
+  "meta": {
+    "description": "A calendaring app for Django",
+    "homepage": "https://github.com/llazzaro/django-scheduler",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.6.1": {
+        "sha256": "4fcf3630915a6eb72ac57115a43b28770c03862e9914015a178cff21ed921ee9",
+        "url": "https://files.pythonhosted.org/packages/9f/8a/391616d6b2d99fe1c6e598a854e722e9bdbac686ff3bfdfc3298383b739b/django-scheduler-0.6.1.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "742efeb78c61eef3380043477901da4f07f5765b5cf608fa8c3c0d04bc174591",
+        "url": "https://files.pythonhosted.org/packages/30/c0/d4ccb0a349201100b3e6a4756815616e715bf8d07892fb72ec3853cb2f7a/django-scheduler-0.7.1.linux-x86_64.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "fc27476ce06dbd3fec2c9b6da3613b70b108fbd9facc182e832c2bad26be1be7",
+        "url": "https://files.pythonhosted.org/packages/06/e1/9929910581d8cd1c6cc2f560162d2ebfa520c896c8cd4b799ee6536bd374/django-scheduler-0.7.2.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "8f62bbd51d49f4924c32f438aae6b5ac61d925e13fcb6e746014913c0bc659ac",
+        "url": "https://files.pythonhosted.org/packages/29/cf/62208b004f9dad539299b059bec6a43625dd4421da8ac428d9c5dfe3f8b3/django-scheduler-0.7.3.tar.gz"
+      },
+      "0.7.4": {
+        "sha256": "5a44b316bdbce606761f7bdd44d9cd278f0a7cac5f3eaf14959dbe46605d0820",
+        "url": "https://files.pythonhosted.org/packages/bb/36/2a811ff4331dd6f453bdfa10aa64e52dd54f5702dd23287acd6354ccf8d7/django-scheduler-0.7.4.tar.gz"
+      },
+      "0.7.5": {
+        "sha256": "576fe5ed4b22fb6c0dcb7033a3f46631e39f1c7d351aca717dc76729aeb0a942",
+        "url": "https://files.pythonhosted.org/packages/36/57/a6ca840e925c615053c0f7dcef754d0a71d03ea630dba86c4bfbcfd113cc/django-scheduler-0.7.5.tar.gz"
+      },
+      "0.8": {
+        "sha256": "eda60527697150b7356dfee6dfaed97a681f00cd58a54db38b0739acf85e1dbb",
+        "url": "https://files.pythonhosted.org/packages/ee/47/31b4c03f428a2eed4952cd05424965171b95e497d7abd5f3546c9dd3f329/django-scheduler-0.8.tar.gz"
+      }
+    }
+  ]
+}

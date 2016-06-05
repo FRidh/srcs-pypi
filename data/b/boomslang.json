@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "A thin layer over matplotlib that simplifies creation of common plots",
+    "homepage": "http://code.google.com/p/boomslang/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.4b": {
+        "sha256": "f72edebb28afa0a551e5c5de90e2025a771894705c21a02f6f231bb3c36b3955",
+        "url": "https://files.pythonhosted.org/packages/6e/46/8e550ca045d21440029526ffb35543059c584f1b3b4553bd04a9fb2e7b95/boomslang-0.4b.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "038e0947b3bc469f44bc4e7d07a539ee1b685399801ec57cf26a142275a14733",
+        "url": "https://files.pythonhosted.org/packages/f3/41/11ef05fc161808be6316d48e788eb93d444dd713ac71f734b743a0e734df/boomslang-0.5.1.tar.gz"
+      },
+      "0.6b": {
+        "sha256": "6a6c136e0de3ffa7454e6fb2a2e27263e32f21927138ab9d75e0ba0b91339627",
+        "url": "https://files.pythonhosted.org/packages/fc/7b/64b288f3ae7399796c72e3e6f808a2b2f41aa3411981d2416a820f54c641/boomslang-0.6b.linux-x86_64.tar.gz"
+      },
+      "1.0": {
+        "sha256": "4463a9d4f1232af5bc8b6926c3463c6d98acb5a5dccc95b905a2efe7ca16dc89",
+        "url": "https://files.pythonhosted.org/packages/39/e1/d7c0bc10ff73d0560fa40699da5e1701bf9e23b2711882247e339002a046/boomslang-1.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "A json server for zope 3",
+    "homepage": "http://zif.svn.sourceforge.net/viewvc/zif/zif.jsonserver",
+    "license": "ZPL2.1 and LGPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "37bba10d450a0afb38329ace0535c366841b77f32a3ac6c5d23a1ff230723379",
+        "url": "https://files.pythonhosted.org/packages/65/2b/7c6ebd309433bf40f4c92cdd4966532dee0e893b3bf29905575e8fe31a60/zif.jsonserver-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "b2d4567e7cb104d4360c8818e7dfea21845d3fdcf80d64e3aa8864152ce1e290",
+        "url": "https://files.pythonhosted.org/packages/71/86/11aa057e2f3fee734320a6e8af86f63cde884690b416dccd787dca3f9ba3/zif.jsonserver-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "5126ba2f87915d79dfb347707269a340201f33418a3291b9b51c9223657a6795",
+        "url": "https://files.pythonhosted.org/packages/6a/0e/d019e30c26e873e915f5128332c44f552480c503747787155de59ae84442/zif.jsonserver-0.3.tar.gz"
+      },
+      "0.6": {
+        "sha256": "44400e581a4abb23c6e8b344bfa178d0cb12f9c1f99951829a7e66886f1ab9a1",
+        "url": "https://files.pythonhosted.org/packages/5d/82/942a4f2b339fa0d783f1efb15a68883cb0ba4506839d26a884fc11e611f3/zif.jsonserver-0.6.tar.gz"
+      }
+    }
+  ]
+}

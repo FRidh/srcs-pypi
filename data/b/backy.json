@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "2.1.1"
+  ],
+  "meta": {
+    "description": "Block-based backup and restore utility for virtual machine images",
+    "homepage": "https://bitbucket.org/flyingcircus/backy",
+    "license": "GPL-3"
+  },
+  "versions": [
+    {
+      "2.0": {
+        "sha256": "4678790f851b855c0c11f917a953162b1a8fb745836cb11c6c459771bab51d20",
+        "url": "https://files.pythonhosted.org/packages/e1/62/e7ce9f2b0285923522ead31e3d28abda206d17ba1bae9026b6c1c7e623ff/backy-2.0.tar.gz"
+      },
+      "2.0b1": {
+        "sha256": "4d9f060f06548e4a877ee488faec9820f7a9880fa3dcbe67e5bde5f3c76cedfc",
+        "url": "https://files.pythonhosted.org/packages/90/bb/fb7b38800899f2b4b195350457641ce603e951adbe72e7f134c3f923987f/backy-2.0b1.zip"
+      },
+      "2.0b2": {
+        "sha256": "492f4ee7df4d4580a751a72c7877d8f44c496a4e974399bf16fb43240c4c3a59",
+        "url": "https://files.pythonhosted.org/packages/36/61/841a97a055eca6f1d027db6b810d96328937560025972e10dc60c24bbadc/backy-2.0b2.tar.gz"
+      },
+      "2.0b3": {
+        "sha256": "3ac02ed14a1194482458d55d3130d05c7c776ff502ee3defaca7d0bb5162eb52",
+        "url": "https://files.pythonhosted.org/packages/36/d9/bc217036ed8a7765728309cce2342dfbc6596eafc5736b250e6371a3bfde/backy-2.0b3.zip"
+      },
+      "2.1": {
+        "sha256": "ec98af17a5934e543190f162232c599cbf194480d569bf6d1c833e68e31d7381",
+        "url": "https://files.pythonhosted.org/packages/a9/81/20fed9fc7d2e29302eb39ae3da2bf929837871d7a73ad5bf858dfabde17f/backy-2.1.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "844d4e267ed3c2e3904f72e90f61f4740641ef44b76b91f848cc757a2446ccc2",
+        "url": "https://files.pythonhosted.org/packages/be/a3/6bdeacd1b000bb0745da2cce112b9417361605a9cb19d1509ea43be2ca04/backy-2.1.1.tar.gz"
+      }
+    }
+  ]
+}

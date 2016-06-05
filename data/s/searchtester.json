@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Simple system for testing search results, and using that to measure effectiveness of your current search ranking",
+    "homepage": "UNKNOWN",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "6856defb0dbee13bb8ed1e485960d4b5cee1cc8eed0bb01eb7d70dec6eec8115",
+        "url": "https://files.pythonhosted.org/packages/d4/92/ba23b166e59c8e7858565f34cc0f620358f2e73c42abbc86e34f77f991c3/searchtester-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "eaf9de8bafe9683860b07fff4260fa9e5d9ae09c23fffc57cc22ea12ba7e3550",
+        "url": "https://files.pythonhosted.org/packages/6c/65/4c45cacf16427f37384e31aef529487391c9a0983db8b70ba5a8471050ad/searchtester-0.6.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Simple multihost handling for Django",
+    "homepage": "http://github.com/jaddison/django-multihost",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "dada432cbf472b334c50fb43af2ef7d72f0cce95ade40516e093728de332c761",
+        "url": "https://files.pythonhosted.org/packages/3e/1e/c504daa7bba64bae9ed3731ba441471ec1aa26b8872d719dfee167847695/django-multihost-0.1.zip"
+      },
+      "0.2": {
+        "sha256": "6429b80a17c9c919236cdd2a0cefa08f49d1d0d0ba24ebd58d13fd761f8e04ca",
+        "url": "https://files.pythonhosted.org/packages/fe/5f/ff2118a4e0e5c28b756f6e9c3bd1bf6c0fb456b50c0760ce179cfc435049/django-multihost-0.2.zip"
+      },
+      "0.2.1": {
+        "sha256": "9adc859141d6315023f3920738643a316da5e21cf0b9b98ce10f5d37c97e10a6",
+        "url": "https://files.pythonhosted.org/packages/f4/b4/f072d9ad3b1cd15689a7bd0d3f5d0707fd827c6ae011c9c5f2f14bd0b05f/django-multihost-0.2.1.zip"
+      },
+      "0.3": {
+        "sha256": "9ba68c7c81ffb85f9d6fa6901bf109c24f85badab9afeb9d0ba8aa2d74490a34",
+        "url": "https://files.pythonhosted.org/packages/66/4c/6fe457df749afb6637ffd80e3d8fb0ff5e5e7491775e7c937e2f75b9799c/django-multihost-0.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.1.0"
+  ],
+  "meta": {
+    "description": "unormalize [args] [FILES]\n\nnfc [args] [files]\nnfd [args] [files]\n\nConverts files or standard input to the given format.\n\nOptions\n\n    -i EXTENSION -- Modify files inplace, saving back-ups with EXTENSION\n    -f FORMAT -- normalization form; default is NFC",
+    "homepage": "https://github.com/eddieantonio/unormalize",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "fd6587831078eaf8b70b2ae79b2b7612210e781a7463ee065c1122386de7d07b",
+        "url": "https://files.pythonhosted.org/packages/ea/99/7cda457f5c0ef5d9ba5e7bcafdf1a1c3542d4d8597935cf470bf639b9e66/unormalize-0.1.0.tar.gz"
+      }
+    }
+  ]
+}

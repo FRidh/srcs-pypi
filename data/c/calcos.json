@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "3.0"
+  ],
+  "meta": {
+    "description": "Calibration software for COS (Cosmic Origins Spectrograph)",
+    "homepage": "http://www.stsci.edu/resources/software_hardware/stsci_python",
+    "license": ""
+  },
+  "versions": [
+    {
+      "2.19.7": {
+        "sha256": "83a6eec587a3f4085f134d1a6836e7410f29c7013895518ba2b9bbfea588802b",
+        "url": "https://files.pythonhosted.org/packages/23/a6/e191a5cab7c801d503fe52b3f23b7e375bba13af7bc6a633462941993f2e/calcos-2.19.7.tar.gz"
+      },
+      "2.21": {
+        "sha256": "11b1a0baf5c08171e036170f5deca241107d7bc21470ad55859c52c85cf7bb1a",
+        "url": "https://files.pythonhosted.org/packages/6e/44/6e8dc1f39cdfe15020ccd8cbf9235ecc7544caf9c7e2fbb1d00d4626b241/calcos-2.21.tar.gz"
+      },
+      "3.0": {
+        "sha256": "fee48063939b25db35ae0ee23599e0aa3ee61264be9dcb78a115b88d62f8d585",
+        "url": "https://files.pythonhosted.org/packages/18/7f/5834d8c281b0050a53c58c1e69df0ad1ced3b9b44fefdb6e48f09778df54/calcos-3.0.tar.gz"
+      }
+    }
+  ]
+}

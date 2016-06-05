@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Python interface to the Apache Kudu (incubating) C++ Client API",
+    "homepage": "http://getkudu.io",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "6ec41c11994cc6f35d8e325dab35c69b498b7dc5acd056315f854a182b5b4ab5",
+        "url": "https://files.pythonhosted.org/packages/0f/92/ee25e95a0d5f043051907b14a7ae0965434c14e55e3be7954c0c81fd78f1/kudu-python-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "5d933d4085b935ff3305259ce68565b19329b52011ddfe754a7f8d7aba49afb4",
+        "url": "https://files.pythonhosted.org/packages/32/8b/3c07483369be31af38912396b57588368e39c96d36de8d5dc6f08bb7eb31/kudu-python-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

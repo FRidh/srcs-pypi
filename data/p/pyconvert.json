@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.6.3"
+  ],
+  "meta": {
+    "description": "A simple and useful python API to convert python objects into xml and json documents and vice versa",
+    "homepage": "https://github.com/rancavil/python-convert",
+    "license": "http://www.apache.org/licenses/LICENSE-2.0"
+  },
+  "versions": [
+    {
+      "0.2.alpha": {
+        "sha256": "44b1d54738426b19dc260e6ec056acc55e158b530439974f9b3240658389c119",
+        "url": "https://files.pythonhosted.org/packages/12/61/251e2b7554501e7ea3f4d9239e0b2740b214f1fac252b2d943f4312b5fd6/pyconvert-0.2.alpha.tar.gz"
+      },
+      "0.3.alpha": {
+        "sha256": "44021e45c8580077945b3ab2cf4500b140428b47db1309af2502298d736ba21c",
+        "url": "https://files.pythonhosted.org/packages/de/c0/d0e53804129ee22da583285ba985969f08cbfda230da20ea52cb4466ada1/pyconvert-0.3.alpha.tar.gz"
+      },
+      "0.4.alpha": {
+        "sha256": "653f6d941fdf2b17f164888e634de5cd6ff7e89cdbf15bd6ed3d7288275b4599",
+        "url": "https://files.pythonhosted.org/packages/e5/12/796a182a49b9a6b838f226fa579b2e0839ce415f832c37fadbd187526b19/pyconvert-0.6.1.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "ece04e0d1292e6688a5ecc22462f5f95fbd3383896d845319eaf566c3bf15892",
+        "url": "https://files.pythonhosted.org/packages/a9/cf/9924aaec3beb2adcc681c8b1333e02417e085154a3c6e9f6bda6f5be002d/pyconvert-0.6.2.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "4b4aa9f9fcd27e8a2b753119ab48e669e34f21cbcf640e0d578b36bcb02b9061",
+        "url": "https://files.pythonhosted.org/packages/02/a7/01703f92882a6a629d39c03f005cc1cb451ccf8f034ac7a48e1290091c1f/pyconvert-0.6.3.tar.gz"
+      }
+    }
+  ]
+}

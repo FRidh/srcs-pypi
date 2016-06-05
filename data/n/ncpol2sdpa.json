@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.10.3"
+  ],
+  "meta": {
+    "description": "A converter from polynomial optimization problems of                 noncommutative variables to sparse SDPA input format",
+    "homepage": "http://ncpol2sdpa.readthedocs.org/",
+    "license": "LICENSE"
+  },
+  "versions": [
+    {
+      "1.10": {
+        "sha256": "4f76f2799c1c6e51a1f0d6713ec132bf3d9c10fdef22b6427fd54a94eded7433",
+        "url": "https://files.pythonhosted.org/packages/4d/2a/3a3a88e01a96b32af8fe2f2367d4789cc8b5daac7633e539e2074f257b55/ncpol2sdpa-1.10.tar.gz"
+      },
+      "1.10.1": {
+        "sha256": "ce1e50f069e7135eddfe707e941ce6f937de0a18d60111e5b0eb6daaedd03301",
+        "url": "https://files.pythonhosted.org/packages/4b/2b/a46d0acd769a24faa8576c79e23a77e2121d386eaffa43626f5250efb69a/ncpol2sdpa-1.10.1.tar.gz"
+      },
+      "1.10.2": {
+        "sha256": "22ed4404cdf2111d02d35f18c3169c3f885019568942b6fb343915fa776dfd4f",
+        "url": "https://files.pythonhosted.org/packages/88/a4/b2b28f08e509fb85137320db11f57691c75c52e39adb45162971b700db56/ncpol2sdpa-1.10.2.tar.gz"
+      },
+      "1.10.3": {
+        "sha256": "f0b63ab9f51ae506bcbe48ca993b1c8b01c4f67aa239916fef9f0de2f74dae2f",
+        "url": "https://files.pythonhosted.org/packages/1e/81/297a96afc3a363da5f14027818e42ca739353c2898e1a7fbf698967e40e1/ncpol2sdpa-1.10.3.tar.gz"
+      }
+    }
+  ]
+}

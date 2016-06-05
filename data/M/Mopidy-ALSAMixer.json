@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.3"
+  ],
+  "meta": {
+    "description": "Mopidy extension for ALSA volume control",
+    "homepage": "https://github.com/mopidy/mopidy-alsamixer",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "91d20b69b3e188bc598bde484c75fe6c33881b78693656179a2b2e1ba03e2fdd",
+        "url": "https://files.pythonhosted.org/packages/39/c0/d0eaf6f4e887ffdd4463075ae28f0d473cde9598fda65cde836575fc4c4c/Mopidy-ALSAMixer-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "8fc478933077f5553cfdcc7a51ca6662407a9ae61a7aa7108c81c62777d16cbf",
+        "url": "https://files.pythonhosted.org/packages/52/b5/3588983f5b06cdf98d20ffd0bb0ed28a99c0ca4789e3508aebe8fd8e912c/Mopidy-ALSAMixer-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "39545869ed430364bb5312a06c73cd9576fa95f19174692a58cfdc9414765ba5",
+        "url": "https://files.pythonhosted.org/packages/f2/3f/044e919296151b029a69b394dae208aa9a776073f71d45c3b089749e6643/Mopidy-ALSAMixer-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "32548a604dcc91b22599056f5ed501d2c56ca039c4d180a20c01229194f46784",
+        "url": "https://files.pythonhosted.org/packages/7f/ca/7389505e18574ef814e3627a081e48bfc34ab77ef422535cc8e7a7133eef/Mopidy-ALSAMixer-1.0.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Minimal pure python memcached client",
+    "homepage": "https://github.com/aio-libs/aiomcache/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "a5cb8a2c7bf6fbdd786c84d31919a122e01bd7827f5c9832249e3272fcdea5bf",
+        "url": "https://files.pythonhosted.org/packages/ca/6b/9c327b7d226ce32f86184fa1b0c2e05249af1b0d15e95937dc4c240e0d88/aiomcache-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "b1c5926ff497521ed43e794d253db7b1e9566e432e94246243bb2c8f114bd885",
+        "url": "https://files.pythonhosted.org/packages/1b/d8/399ea688c97c1bdde87751cc812a83239a34f2e1ebcea8d2ab995866cb5d/aiomcache-0.2.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "4fb29e57acbc9cbb27e9511875f25cb45a6747721440b0149a54d223a2d0cd17",
+        "url": "https://files.pythonhosted.org/packages/77/08/48a706cd4e8111a289d4a3033eb57e909b02215cb30fe063b09caf1eaa01/aiomcache-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.3"
+  ],
+  "meta": {
+    "description": "Fast logfile parsing. This is a port of Ruby logstash / grok to Python",
+    "homepage": "https://github.com/aogaeru/korg",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.0.2": {
+        "sha256": "651f339d3b25cf40db54e49c72a646655cccd78648eb354aee7ad14cae4f5cc6",
+        "url": "https://files.pythonhosted.org/packages/5b/ab/1322ea92e580b5ca79aac1ca49e734a8b45b551ec36ca549519f5245bb12/korg-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "301b33bfef4013a3f15f232590f8a3bb317db04fa65a643ab8646c4da8a398ad",
+        "url": "https://files.pythonhosted.org/packages/a0/1b/95c26a95195248be6af47afe4d8051b88a3be31d382ab3c540b1236c6c51/korg-0.0.3.tar.gz"
+      }
+    }
+  ]
+}

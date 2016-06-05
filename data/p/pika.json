@@ -1,0 +1,94 @@
+{
+  "latest_version": [
+    "0.10.0"
+  ],
+  "meta": {
+    "description": "Pika Python AMQP Client Library",
+    "homepage": "https://pika.readthedocs.org",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "7277b4d12a99efa4058782614d84138983f9f89d690bdfcea66290d810806459",
+        "url": "https://files.pythonhosted.org/packages/ee/25/1517ce612d7cd0a426ea027275ba74165bbfd86a2daf4bce4839afac3deb/pika-0.10.0.tar.gz"
+      },
+      "0.10.0b1": {
+        "sha256": "f2dec74538c1ae26f69539fd1f57fe36370a2ed6218bcd7f6e73222ca830cf79",
+        "url": "https://files.pythonhosted.org/packages/fd/73/ce55cb8870911b37405d7aa60362cd7b6cff4f142e7a84fa19b1363c2c27/pika-0.10.0b1.tar.gz"
+      },
+      "0.10.0b2": {
+        "sha256": "f54e133dc0130420889e64cf0f2df8d6c7a67647c37a80b4f56350bd3a83d29a",
+        "url": "https://files.pythonhosted.org/packages/82/cc/bbf6c8218eb5a4776f10b9f9f2ffb94ce7d4f2767261348ba0ef5323cd3b/pika-0.10.0b2.tar.gz"
+      },
+      "0.5": {
+        "sha256": "b3207f29b811abe1fbf42473c81ad5a16d33f86d4ac1654cc18b40daaf2d12f9",
+        "url": "https://files.pythonhosted.org/packages/b9/f5/74954c918ae9e201d7aed1e25241703dc5107046d903e0b2c5e61af62ff7/pika-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "69e65a0c03532d4b43e7f838eef10fb64f584830fa08e0ff8f6b3c8677480b5e",
+        "url": "https://files.pythonhosted.org/packages/3d/8f/e2c3ba28179bd27ecab31eb3689a2a14594ac171414557a2b42e3da5f3a7/pika-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "242228f4b9b406473b48b61fa2542f9979ecbbe30831c071e869294357d66da3",
+        "url": "https://files.pythonhosted.org/packages/bf/54/742f4884d966a69275854499ee4552d020cc85281caf098aaa347e45cb25/pika-0.5.2.tar.gz"
+      },
+      "0.9.10": {
+        "sha256": "5408828c49933ac1e87bd4de2782b7719bd25b275c6ab744211b9f0397afa100",
+        "url": "https://files.pythonhosted.org/packages/a4/c9/92ffd8f8360362007e5cd92d0ca8adc3602fcaa0c9f70fc4d8b55f9dfcd1/pika-0.9.10.tar.gz"
+      },
+      "0.9.11": {
+        "sha256": "6e43f94b3de883477223d40cd531d5e905ca7df3c597498d73a26cb0ccd92c5f",
+        "url": "https://files.pythonhosted.org/packages/d3/91/42a53acbe7a767d27287c16f7d3a78ad05391dabaf0b10ed3e7bb614c906/pika-0.9.11.tar.gz"
+      },
+      "0.9.12": {
+        "sha256": "670787ee6ade47cadd1ec8220876b9b7ae4df7bc4b9dd1d808261a6b47e9ce5d",
+        "url": "https://files.pythonhosted.org/packages/30/74/18e6efd77b6853c11eb5df2dd283153fabfbbbd5218035eddb0da0f788b0/pika-0.9.12.tar.gz"
+      },
+      "0.9.13": {
+        "sha256": "e5c0e3e22e56f1767afdd1ca936711ff4a98a684711a5fb20147debc010f1aa0",
+        "url": "https://files.pythonhosted.org/packages/af/37/d2ca0e91921346760bc1e603f9cde3b76b1d1a64e04c68702fab6c1338b3/pika-0.9.13.tar.gz"
+      },
+      "0.9.14": {
+        "sha256": "5e2be3cb4ebdc267abd8e481c09bc30e95919a24e3a5f3f69744959490ead0e3",
+        "url": "https://files.pythonhosted.org/packages/2b/5b/4c5b6eafc63e0985b926267579a1e2534af70df0a45932f0c23fcc5f1b88/pika-0.9.14.tar.gz"
+      },
+      "0.9.1a": {
+        "sha256": "4ff9e4ca4b755f0224f06dea6aacc34df810eeeebfe3829738fe418db7f1675b",
+        "url": "https://files.pythonhosted.org/packages/f4/8b/1c4012217cf55033f1ff2ea1e169567df5db8852fe63dec2b336355dcade/pika-0.9.1a.tar.gz"
+      },
+      "0.9.2a": {
+        "sha256": "75e2e8dfe4b75f3c7713ef31746147ee8ff10eff1913501d68525d3b48c52617",
+        "url": "https://files.pythonhosted.org/packages/a2/e7/682b9977e14c25b8747ad52b1a6dd810cb496d465ee3d8f1079d305b369d/pika-0.9.2a.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "b43b3da7109a42301bb6d134241d78eed4f859c7aab694d0724951ff26934639",
+        "url": "https://files.pythonhosted.org/packages/3b/94/b47454fabcd3edf5523aee9cac35c243004609381ec16080d42f8bf066e1/pika-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "dae64f80d3879ad710715faaa220fecf1b741aeae3b771c4076e79465946a23f",
+        "url": "https://files.pythonhosted.org/packages/69/cc/153e89d3388672116a25f6112923b02e4d2cbcca9fe307ebdeb53e6f7131/pika-0.9.4.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "95a017bfeeff4513755445905d383547ad6804254764a6205eca5a92122debc4",
+        "url": "https://files.pythonhosted.org/packages/2d/73/ea062b843e12504a0e7ccd492fefc20eeeb274c373bda2e848261f0663e9/pika-0.9.5.tar.gz"
+      },
+      "0.9.6": {
+        "sha256": "218c5acc05878958a58a9eeb126ba60d91335879016054eb257e53cdfeab1863",
+        "url": "https://files.pythonhosted.org/packages/d6/f1/96469d0c5cbe2f8cd55749a577205f74da382fc3a6c168ca47324a16911d/pika-0.9.6.tar.gz"
+      },
+      "0.9.7": {
+        "sha256": "97e2bb57c794db6f9e05f1350faf00b4ab54aca5385562eed196c174c14db67b",
+        "url": "https://files.pythonhosted.org/packages/4a/a6/dbeed3acdd7e751ef338eeff4bd103a271902bdde98fae9be169e6be71b1/pika-0.9.7.tar.gz"
+      },
+      "0.9.8": {
+        "sha256": "666fd522f4a1059d5b8b4996e576fa7862f505528e11cf1ef5546311c60c3e4d",
+        "url": "https://files.pythonhosted.org/packages/d5/26/ffb9653da19e3e45d3a36a7639bc83fd24eef7cf2f7e3dfd3a6aa982a16e/pika-0.9.8.tar.gz"
+      },
+      "0.9.9": {
+        "sha256": "9f5313d1f9f34961f6b8199b0ee6053418955a3d337a0676bc8ce3b82f3b7d14",
+        "url": "https://files.pythonhosted.org/packages/16/54/636fbaa8fb372db5a2e9f36562a983e6c54c2c828f2c8a9960f6de958376/pika-0.9.9.tar.gz"
+      }
+    }
+  ]
+}

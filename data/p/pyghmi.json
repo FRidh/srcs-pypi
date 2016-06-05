@@ -1,0 +1,250 @@
+{
+  "latest_version": [
+    "1.0.7"
+  ],
+  "meta": {
+    "description": "Python General Hardware Management Initiative (IPMI and others)",
+    "homepage": "http://github.com/openstack/pyghmi/",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.5.0": {
+        "sha256": "f2c68f8d0cb3c01e1662a84e3397a677bda949656b3a6cc6d13579f9ba860f19",
+        "url": "https://files.pythonhosted.org/packages/38/22/5d5599501d66e1aa3847719120ac8c670ba58775ff91b3493a3d6c39eab5/pyghmi-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "e017e629ab1eaaecba4ca4f6c0a5a4501fc20d55df8e769dbdf59d095491c92f",
+        "url": "https://files.pythonhosted.org/packages/fe/a0/9f9f979afdae1ed02bad5141aebcca88c43d0405f51b4466b82c7734f0ca/pyghmi-0.5.1.linux-x86_64.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "67153c57b14c0e175c3100918a5152dbd60bad35a212f1d7f74f0a16ed96db87",
+        "url": "https://files.pythonhosted.org/packages/e9/cb/9fae5ac0398917a7921de0414bd4c202a6373a126aecacb0fffed6ac6e23/pyghmi-0.5.2.linux-x86_64.tar.gz"
+      },
+      "0.5.4": {
+        "sha256": "814367167c17a695ccc69790b0304d9e5823c61bf2000cc95933488b26bf931a",
+        "url": "https://files.pythonhosted.org/packages/0b/b0/489f49233f517618ebbb0bc17a6cd75e24d27655dfc29fa6d75937d79682/pyghmi-0.5.4.linux-x86_64.tar.gz"
+      },
+      "0.5.6": {
+        "sha256": "1dad9e198fb67d1dae897e128300009a026283e11468f8d40f33f5548d35c7fe",
+        "url": "https://files.pythonhosted.org/packages/f3/c3/43857e9cd0c1bca35a0a8cf5d72ecea13c616c871e1523c3775321cef683/pyghmi-0.5.6.linux-x86_64.tar.gz"
+      },
+      "0.5.7": {
+        "sha256": "b1535b5d97b15ea6010e5e0c58a7ef9e856e500c64e5e8738949dc5a6101ba78",
+        "url": "https://files.pythonhosted.org/packages/83/82/693d4cd3d9bbb2a2637bdad5ef87e04e4ea0b03dd8af930ae6ad63349dcc/pyghmi-0.5.7.tar.gz"
+      },
+      "0.5.8": {
+        "sha256": "fcabe403ad39e982940dfdce4d30bafad30f16c6214f7799ae900004af202164",
+        "url": "https://files.pythonhosted.org/packages/62/50/4c549cbbffba4fe3abd3afa47d681609e8e0db60ca85c5ddaf50703d33b4/pyghmi-0.5.8.tar.gz"
+      },
+      "0.5.9": {
+        "sha256": "818379adc994d38c02c30c0b21415678cb78a58a95bf057cc3ca292b154454ea",
+        "url": "https://files.pythonhosted.org/packages/ce/ca/fdf6b21ef5868f178292ebbb4105af839d4f8521099cf782f00bbdad2625/pyghmi-0.5.9.linux-x86_64.tar.gz"
+      },
+      "0.5.9.1": {
+        "sha256": "6a7de44bb721c826b0538c7cd098530d644c18184ed6a501ec5ce1f2043f6896",
+        "url": "https://files.pythonhosted.org/packages/d2/40/c71f05ffd04548490a7d3514b6e66d4c2f242cd00dc3923f6d2fa15ecb6e/pyghmi-0.5.9.1.tar.gz"
+      },
+      "0.5.9.2": {
+        "sha256": "16c3120bd65712a15b2c39dd22b0f5fe4b2a2a2c5a589ba1e8946dc5316db4e4",
+        "url": "https://files.pythonhosted.org/packages/d5/e5/ea1a51f6325d6bd9fc51e6c6f528c24f898a200896735034e066cf725749/pyghmi-0.5.9.2.tar.gz"
+      },
+      "0.5.9.3": {
+        "sha256": "c1d6a3827b713e2cf99c6b43f3ddfab152b380faad5e4e4b5c80cc83d194ba6c",
+        "url": "https://files.pythonhosted.org/packages/5f/db/208fb70836227828adcb61b63228605eb168abe187c3b4b589dc7e673601/pyghmi-0.5.9.3.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "283c6670889b7dc7209a80e6ce0cbbbb799787bc5cbf2c1a02db65378044b0a7",
+        "url": "https://files.pythonhosted.org/packages/3a/e1/872df946d26a3eca2541dec3a5222bcad72845c8fd114480f37152b68987/pyghmi-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "0e1008a03c91128b8c12c74174a9fa722c6e273fe7a3eb67c37f2f86c3ead094",
+        "url": "https://files.pythonhosted.org/packages/f6/88/aa960f5a00a7676401793d15f50fa2980cbebade485c8f3c085948a31414/pyghmi-0.6.1.tar.gz"
+      },
+      "0.6.10": {
+        "sha256": "97c44346ce670ccdfadd8b7e1bfb23bc63f740804c22017f9edcb1f1e1e27876",
+        "url": "https://files.pythonhosted.org/packages/97/88/62b120bccd1074abccebc52a41b97d345fc9835acd4e1bb67c77378818df/pyghmi-0.6.10.tar.gz"
+      },
+      "0.6.11": {
+        "sha256": "8d01f08ee56d952a0cde191e3e9fe14a68479e5e9d0285f44588d637285aa8b5",
+        "url": "https://files.pythonhosted.org/packages/4e/b4/08dd168c9b2ed9267b307d3478ff193d0190d3cd5d08cb6b10dc24f1a332/pyghmi-0.6.11.tar.gz"
+      },
+      "0.6.12": {
+        "sha256": "c7b8a3865a6c04007946a68968eb93bea56f7951c816e9f132145d688239f74c",
+        "url": "https://files.pythonhosted.org/packages/71/20/dd2a710d8c2d961987bd626dba7e5a700774735390b0105afb588663164a/pyghmi-0.6.12.tar.gz"
+      },
+      "0.6.13": {
+        "sha256": "d981f327d83d1e13001a67352878488fcc990f928b538086b3b24230cbcfc59d",
+        "url": "https://files.pythonhosted.org/packages/ad/bd/d75963e34580e2830c7ecbece4c502a5e1dab34e23b5e9db7b36c1be071d/pyghmi-0.6.13.tar.gz"
+      },
+      "0.6.14": {
+        "sha256": "637cf4807af5b0413eba416e6e416807d6a20ba79f7f1a46c7698265ea706e48",
+        "url": "https://files.pythonhosted.org/packages/75/c5/f2f100f01fce1c25ff4405c0f822d0b6b6c3e345c2b4118d0f13faac139b/pyghmi-0.6.14.tar.gz"
+      },
+      "0.6.15": {
+        "sha256": "15442706d1ba7c163a9fa3bcf32845863c9c2000c7c20d7efd5a786d06764fa2",
+        "url": "https://files.pythonhosted.org/packages/5f/42/0716037d3dc5dcf02f797ba2c389b54a9f357d1755fc57eb846267a0548c/pyghmi-0.6.15.tar.gz"
+      },
+      "0.6.16": {
+        "sha256": "ac3eed2754bd95270ec3bd7976a3d2bc750c64a763ea363acb8b1061300f50be",
+        "url": "https://files.pythonhosted.org/packages/25/da/cd87c57bedfc125560befc78a1164c05fca016b3a01460fa2df5c9d0155a/pyghmi-0.6.16.tar.gz"
+      },
+      "0.6.17": {
+        "sha256": "b643e50b5fb0d9562444844abb6228d3ab0f277e43b652a4d53ab0a0e91cc051",
+        "url": "https://files.pythonhosted.org/packages/63/f5/b011527b8bc367f0fdd9b1ab0aa32dd0f1595c48d16ebce9e94283783d24/pyghmi-0.6.17.tar.gz"
+      },
+      "0.6.19": {
+        "sha256": "d923d38422f641b5ed5c9b695be79873bad6da64c14721b10040d3eb08b52396",
+        "url": "https://files.pythonhosted.org/packages/ff/fc/f837e0c49c8360f1ef87eaa6f827f05ec181577cef282c3c0ce320140427/pyghmi-0.6.19.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "54c299d8bbdf7fd2055d9d73d4c8f14a8adcdb94166b4cfc2ce0fcd7b3576cd8",
+        "url": "https://files.pythonhosted.org/packages/e8/fd/21710b61b0f8395387174cf49e151e37b735952c43977b48c9143f97c609/pyghmi-0.6.2.tar.gz"
+      },
+      "0.6.20": {
+        "sha256": "5ae8787c323abbb0d26212d5e2626ddd8d1ba74e53b6502f5cbaac06fab991c1",
+        "url": "https://files.pythonhosted.org/packages/ac/0a/399d6734180dfe0f6847da7f96d2073f6cc3d56cc2efbf1fec1d78f00128/pyghmi-0.6.20.tar.gz"
+      },
+      "0.6.21": {
+        "sha256": "2a7c690b8a3f4d390306bd7f254b131551b32c90a8d890baf5b678565b88f249",
+        "url": "https://files.pythonhosted.org/packages/e1/2a/769b2611ecd7852a6572fc4186c070b2cc450cc32c415c0e3a027338c49a/pyghmi-0.6.21.tar.gz"
+      },
+      "0.6.22": {
+        "sha256": "ab469a2fdfccad6b1301fa210f1810fc7080c5790fcbf667ea6ecabc4d019be3",
+        "url": "https://files.pythonhosted.org/packages/ea/2b/51249606e20eb2e1e5e401acfab9eeb6efb6568a1dba2180c1b22fc93e30/pyghmi-0.6.22.tar.gz"
+      },
+      "0.6.23": {
+        "sha256": "02ea9f06c57a5d6c91806b5c301dad3bae558e0fe8bb99489072e4de4f92708c",
+        "url": "https://files.pythonhosted.org/packages/bf/4f/4c756e4d117850de62e17b037419b5d81846d1659dcc6ae055942bd96b3d/pyghmi-0.6.23.tar.gz"
+      },
+      "0.6.24": {
+        "sha256": "051e9ea85b933f820a1a00350b45d0d09f604f17d66b20cdad940568015e93fc",
+        "url": "https://files.pythonhosted.org/packages/9a/61/2a5d0d778176702c871ad237a80f8ba65240d62be515cba4a341e12871dd/pyghmi-0.6.24.tar.gz"
+      },
+      "0.6.25": {
+        "sha256": "3dea89dc00511f61331c7a7ed52f6c36c2dc1913028dd25f16479fbeb98e2b59",
+        "url": "https://files.pythonhosted.org/packages/ed/57/bcf9e2cf3f46c9d87baff52d3a3794659e874246f68ab6a4173d270ef7fb/pyghmi-0.6.25.tar.gz"
+      },
+      "0.6.26": {
+        "sha256": "fc181d561af3eb495f97ca13f5f180a6b90cd88db521e4a315b7ca851869ddb9",
+        "url": "https://files.pythonhosted.org/packages/80/ea/9af08f89b83d8ccb773f3f035ae79c53330015b4a72afc440606655860f9/pyghmi-0.6.26.tar.gz"
+      },
+      "0.6.27": {
+        "sha256": "89a9c265ea784646ef58250dc1803c43aaca7e6fdbcd77a97217c18f51e13d55",
+        "url": "https://files.pythonhosted.org/packages/96/ee/6f7aa173a011c91592381c5da3ddcf8e8daf33892b2e8b655adef66f2fee/pyghmi-0.6.27.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "e649f59853bdb95e78ea5d3fa7735d6a3aa6a661daefc2f4e411d8e3e5255959",
+        "url": "https://files.pythonhosted.org/packages/bb/e5/c506d0608ad50ce64652f7634dfd246b9a4e201b48183c6d3eb2b90642d3/pyghmi-0.6.3.tar.gz"
+      },
+      "0.6.4": {
+        "sha256": "b81a5d80101389ff52303bd0c776bb87212baf51f02ea67d55657e77d42547b8",
+        "url": "https://files.pythonhosted.org/packages/36/33/9184e6a2f94fa5b89517b3dfb98a6020a382a211d1a0058141bcbc1367c5/pyghmi-0.6.4.tar.gz"
+      },
+      "0.6.5": {
+        "sha256": "3fcd0cfbc381a48717c23333561b4aaf0e9aa0915ae8b8070dffe96971547871",
+        "url": "https://files.pythonhosted.org/packages/c9/f1/cbe57045cb5f287383c202889bc6aaf8cb8d6e51a9e6feca640d7fbf23be/pyghmi-0.6.5.tar.gz"
+      },
+      "0.6.6": {
+        "sha256": "cd6941387cca474f6860973ec3ce740185d2117f434f1aa681ce7c5b1bde965f",
+        "url": "https://files.pythonhosted.org/packages/4a/3c/b3eb5a8a6fc2f24b7a1b73cddba943502683e10ed43d503f5371e5967baf/pyghmi-0.6.6.tar.gz"
+      },
+      "0.6.7": {
+        "sha256": "a0aae6519a562c40d56095713a4bb8cd45623602a8aebba50b73ee9a448b34c8",
+        "url": "https://files.pythonhosted.org/packages/ff/cd/0b88a2cfbaf4564204c6e0671e25e1f69a8a29a115965302dff7f2c9c450/pyghmi-0.6.7.tar.gz"
+      },
+      "0.6.8": {
+        "sha256": "c92c02f720edda3c93654410f7f3567fa543a74936fc3bf516c3b75f9554c141",
+        "url": "https://files.pythonhosted.org/packages/7b/9f/e0d547c5428d49abff45353c02cb1672d059361cde102ed8e5a7958a555f/pyghmi-0.6.8.tar.gz"
+      },
+      "0.6.9": {
+        "sha256": "c296a3f5cf5f94da95fec31cf665514f7b4799134eda1fe70c9f7244dd56861d",
+        "url": "https://files.pythonhosted.org/packages/aa/09/2f12f10cf3fcd4313fe2589320f0532ae0c065d90f6c36472699ae013ee7/pyghmi-0.6.9.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "8a39865666d286e6523a7d4c2f520e979c5c68f232289da293e40fefeb163542",
+        "url": "https://files.pythonhosted.org/packages/fd/99/6b591b09af45341860545ee1b0d1b050930d56708780164ad4fbdfa50ff3/pyghmi-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "3919d7922a7bf8adecb7abace5e234a392af03fb966f66f8a9fdbafad2e3c05a",
+        "url": "https://files.pythonhosted.org/packages/ae/c4/adb63bc8c8eb32253b30646f45772e13e4e05367a3b7baf1c44e631e6631/pyghmi-0.7.1.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "c7934fff3908e80fe1247c31092923e23e1b5239a06af43a4c3d8b7662fbe1ba",
+        "url": "https://files.pythonhosted.org/packages/c5/f9/45366b79e6dd38061265c7e34b8d020db03a69a47ef364b0f7441b8815c9/pyghmi-0.8.0.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "1777ce570dcf0ac023f630f3d97f0a1d7234c5ee3e278325ddabba16c8b4fda5",
+        "url": "https://files.pythonhosted.org/packages/21/40/e4c260f190cd261162c07c985e25d8ce8455da0ca400544fb20c13d0fa88/pyghmi-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "1c6d2b0e2174072a76c6fbda4e6a84dbd17bf346ea3c880294aadb0553fcafa5",
+        "url": "https://files.pythonhosted.org/packages/f3/17/cd0d0466eebf8cbc83e89ccaee92d753e5600a4ad7ab18c50b10d1378239/pyghmi-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "2ceedb7a555c1c74b97919a1d09889fc17bbfd9d658778e245092cd4ed7666c3",
+        "url": "https://files.pythonhosted.org/packages/b2/05/73242f344525ae8f8052b1818e679ab893ce415d9ee2d6463b0ccf16053c/pyghmi-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "ea8ed692bf3d9f8abab4c812e3b85e5a49919768ade8e7a702d6e4781f3c8046",
+        "url": "https://files.pythonhosted.org/packages/af/5d/bd5a724d8706f6c1bcf3e0ae5528a351bc5e4d6d4ec4389c91e458d9a4b7/pyghmi-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "c4443b00ed550c12021b0f67185716fcde5cb02c4b38c8a0f9347577efaba861",
+        "url": "https://files.pythonhosted.org/packages/10/68/35253fe44fd703153873e65e8f62fc311b465991050a7622472cfdc9e92b/pyghmi-0.9.4.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "5ae5969e4a66978feff7b3be9000ebd908f83f20a671715a70492a0772567614",
+        "url": "https://files.pythonhosted.org/packages/5b/23/4110aadca82dfd706f5cda099f52c10b1b732ebc43ac4bdc45eb29f314f2/pyghmi-0.9.5.tar.gz"
+      },
+      "0.9.6": {
+        "sha256": "a4c4f4fb64dd846cdb53033daf86dfdcd3091fb15ebd13f5a7624d4e61fbfa4f",
+        "url": "https://files.pythonhosted.org/packages/ae/e1/935b3c8d3a0f446f8e00c1820634e8abc5668e5748cdc8593c9e81d5891a/pyghmi-0.9.6.tar.gz"
+      },
+      "0.9.7": {
+        "sha256": "2cc7952774bf4fb698721d488cfe5f86f5ac0179b3bd19c69ae97407a20be163",
+        "url": "https://files.pythonhosted.org/packages/d2/a7/ec8d6382d5b22f82f9f681e9a5274d7e42fc5a0ad88f825178213d78d21e/pyghmi-0.9.7-py2-none-any.whl"
+      },
+      "0.9.8": {
+        "sha256": "58f00971799ffc3d312bc25581f5a2f8e597278a7d6d6e8accf671f51060fd02",
+        "url": "https://files.pythonhosted.org/packages/13/25/3e43822df6b2e2f60318a2ab02eabc887f3a1fe940d5a44abfe144ae6e0d/pyghmi-0.9.8.tar.gz"
+      },
+      "0.9.9": {
+        "sha256": "ca04591f0cf6f1f4a5ded3ca093bce734b80f1367448c932e54424f7592b8f18",
+        "url": "https://files.pythonhosted.org/packages/f7/25/c5ceb4d30a56b2315b746638203560182ae14d591e0530699b304ad9c886/pyghmi-0.9.9.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "89ecf0e4fa083d900af19597f83bba6f20baa5ffa36e93f119c7d5f089ad7c11",
+        "url": "https://files.pythonhosted.org/packages/13/b1/f885d2d4e28b54ccb7936f46efa0a32f1001ed8677637e5122060e12eebd/pyghmi-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "2b7473d6b7d3f7a4c3006920b9a83eeea52ba3413e2ff1cb9ae89f3f7480ec5e",
+        "url": "https://files.pythonhosted.org/packages/78/17/50867b285e2c3d63317136048dadbb079a09356da1aa08b9389b97326ac5/pyghmi-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "4240cdf2279503436d8f0413453998b2ebd1ff4c1db42c2d649c4332eca382cb",
+        "url": "https://files.pythonhosted.org/packages/47/66/2ad942437d8fec44d9dc7f38d535277ab9142d4755098cb702ad95a30e67/pyghmi-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "2baa90cbab267238365d5630423cdd5ee216b373aa339ecadb20a6d577794e0a",
+        "url": "https://files.pythonhosted.org/packages/e3/95/01becf138a1603b5c3aab8bd7c61e5a3e09826599a17a697248f1b8ff843/pyghmi-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "7104e75f438ef07faf779604e301a4f93f1b444b5d66d94399d5e155910ddd10",
+        "url": "https://files.pythonhosted.org/packages/b2/72/47809f0059af26b3de70f8242ab56ea8e39186535bcaa2f6e3144f57b08c/pyghmi-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "da8ade1838dda381ddc478211f6a958d4233dde28e877c7ebe58e638b33cdbb8",
+        "url": "https://files.pythonhosted.org/packages/d0/fd/22e1f0bc17a6e52323550f785f049335aff55757b44b90b21f743160eca0/pyghmi-1.0.5.tar.gz"
+      },
+      "1.0.6": {
+        "sha256": "165c98e6216d709d4f1606812069dd68fae488d5fa9f6479fd47062e7b861658",
+        "url": "https://files.pythonhosted.org/packages/8b/f9/a0565ebbaa69df9757b34bd90b3da00fe0fd266ae8f38870e9461d6948b3/pyghmi-1.0.6.tar.gz"
+      },
+      "1.0.7": {
+        "sha256": "44eb121c370f61ec3b2e5c7088bcc37d79e23ee38634e81eb04b30bcf4f60716",
+        "url": "https://files.pythonhosted.org/packages/ba/10/9692154687c91000f5d7cd72edfdf792e1d77deb180b831e7823fb46322b/pyghmi-1.0.7.tar.gz"
+      }
+    }
+  ]
+}

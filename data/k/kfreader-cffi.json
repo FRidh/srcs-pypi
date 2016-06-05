@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.2.3"
+  ],
+  "meta": {
+    "description": "Python bindings for KFReader, a library from the ADF computational chemistry package",
+    "homepage": "https://github.com/mstolyarchuk/kfreader-cffi"
+  },
+  "versions": [
+    {
+      "0.2.1": {
+        "sha256": "e10718947e94078c0fc0c8538fc078b74d12f953bb76dfa6abd572552ee1d9d8",
+        "url": "https://files.pythonhosted.org/packages/85/5a/d62a8c68930dae847f798548d36f90b9300c63177cd3bf6a569d442f8250/kfreader-cffi-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "d800b5eca8a9a984dea29e63481e5a04385976c8e0c24426c6b9feb63feffe1b",
+        "url": "https://files.pythonhosted.org/packages/32/39/ac655df234f48fb14b33ddb73db454709d274a38b23589d7e22e5e8d9032/kfreader-cffi-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "35876925838fd6a4a83a3de612d155cfae08a7f7854e93b606470afed6bff68a",
+        "url": "https://files.pythonhosted.org/packages/94/bc/9d6f548ee88b99626a2abae516d96f171df73fc85675a9ad44248ef55e4d/kfreader-cffi-0.2.3.tar.gz"
+      }
+    }
+  ]
+}

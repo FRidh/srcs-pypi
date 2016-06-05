@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "16.0.0"
+  ],
+  "meta": {
+    "description": "Service identity verification for pyOpenSSL",
+    "homepage": "https://service-identity.readthedocs.org/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "1d392d1a70329c260f01b270fbe250094b28082729f65a3252c8c5cecadd1642",
+        "url": "https://files.pythonhosted.org/packages/1c/b0/62246196d4a8599014cfd2403d6de9fcdec3628df25ba85adda4b7665e87/service_identity-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "adb0f07b541fb40b9c023f40e1e7520ea382d8d692c22d37e08236dc2552e1f4",
+        "url": "https://files.pythonhosted.org/packages/ab/22/d6c2eed070cc6b95681925560a611c80438e44e7bb4cd2b1201597255ddf/service_identity-0.2.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "679e39fc35bc189b7424d9cd5545f755b2e127c478e1927c9029473f0fbe3bce",
+        "url": "https://files.pythonhosted.org/packages/a7/6f/281aa08329f6261bbc4b593ffe1adbd20f6487fe32df2c132eab02f00204/service_identity-1.0.0.tar.gz"
+      },
+      "14.0.0": {
+        "sha256": "3105a319a7c558490666694f599be0c377ad54824eefb404cde4ce49e74a4f5a",
+        "url": "https://files.pythonhosted.org/packages/68/15/3e16d1cbdf8b007250a7cdda54d3e9fab3b7b35cc72558a20ce20d072d14/service_identity-14.0.0.tar.gz"
+      },
+      "16.0.0": {
+        "sha256": "0630e222f59f91f3db498be46b1d879ff220955d7bbad719a5cb9ad14e3c3036",
+        "url": "https://files.pythonhosted.org/packages/f3/2a/7c04e7ab74f9f2be026745a9ffa81fd9d56139fa6f5f4b4c8a8c07b2bfba/service_identity-16.0.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.10.1"
+  ],
+  "meta": {
+    "description": "Django application that mocks functionality of djangosaml2 app for testing and development purposes",
+    "homepage": "http://github.com/darbula/mockdjangosaml2",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "fd3282852099ca3d3af955380ddc3cd7a5201cd16ba07a634a0548a32483052d",
+        "url": "https://files.pythonhosted.org/packages/46/98/5d82999a67f391ddd1e0dfadd0b3db5d5314a49719dd0b7e8ce125500048/mockdjangosaml2-0.10.0.zip"
+      },
+      "0.10.1": {
+        "sha256": "dd70b7fa880d8e181c0a7cf7c71fd47bb0436ddc122faa19345200db8d4d8b4a",
+        "url": "https://files.pythonhosted.org/packages/0d/82/d5ae80ceb9516a203cd666b42953895aad1c672b686af08d146767384007/mockdjangosaml2-0.10.1.zip"
+      }
+    }
+  ]
+}

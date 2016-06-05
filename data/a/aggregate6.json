@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9"
+  ],
+  "meta": {
+    "description": "IPv6 prefix list compressor",
+    "homepage": "https://github.com/job/aggregate6",
+    "license": "BSD 2-Clause"
+  },
+  "versions": [
+    {
+      "0.8": {
+        "sha256": "428a4b86272bb7184c67a05b0248af969a95ebd59c324244fb97339e738c3bfe",
+        "url": "https://files.pythonhosted.org/packages/9c/4c/12b01623cc7ff4feaa9ce8982f6f50f90b196658029a80bc99f8a6cfac03/aggregate6-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "867e8219dab348f933a5cd08e46b1059789641bb019191356450a244a77f5f73",
+        "url": "https://files.pythonhosted.org/packages/e5/dd/c6e1d73f6f56fe9b323de86e1fda5e2887b97cbe99513744f8d336533852/aggregate6-0.9.tar.gz"
+      }
+    }
+  ]
+}

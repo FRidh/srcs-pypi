@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A simple application for tracking connection requirements between different entities in a network",
+    "homepage": "http://projects.majic.rs/conntrackt",
+    "license": "GPLv3+"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "ebfd358ded89997d4b7baeb11dc91802ebaa6237312c3e0e8eb5149d1907c55d",
+        "url": "https://files.pythonhosted.org/packages/b9/21/9b60cda2069797b92589586e53cd64238b7c50b181dbbbea237652f79d51/django-conntrackt-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "653b3d36bb2b927f808b76ea8a8b2166e913331bbd6cc6977fec9dfe2365fdb7",
+        "url": "https://files.pythonhosted.org/packages/20/bc/cd5a0129973bc2c1992fbd3cf03e1ac67dd743dd01a63b5992047e368a14/django-conntrackt-0.2.tar.gz"
+      }
+    }
+  ]
+}

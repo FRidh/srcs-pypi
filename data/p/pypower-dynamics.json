@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Time-domain simulation (transient stability) module for PYPOWER",
+    "homepage": "https://github.com/susantoj/PYPOWER-Dynamics",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "ebd346324973ab819d7add720374da4cb4d98d5c34bacb2e541b7846df6bfea9",
+        "url": "https://files.pythonhosted.org/packages/3f/cc/7626675f7b927e10097f4d9bb7d36e0686a3ca3e866cc8ef29ce05835683/pypower-dynamics-1.0.0.zip"
+      },
+      "1.0.1": {
+        "sha256": "ddf9d14bf1a28e1ebd085e882b67dc6728869cadeb609c84f5562070c4db31b6",
+        "url": "https://files.pythonhosted.org/packages/f8/c3/d33aada8c6ce15cb1df7c37abd3df477882f4f4ab281809a1dac226167b1/pypower-dynamics-1.0.1.zip"
+      },
+      "1.1": {
+        "sha256": "98ce999ca8a58fe534850fb0d5f800130f79440b9897e601d5406d8fbc8f9845",
+        "url": "https://files.pythonhosted.org/packages/43/9b/944cf5dd00cff6737182fcc202d75a26ad7a06757fad26d9426f5bc7c82a/pypower-dynamics-1.1.zip"
+      }
+    }
+  ]
+}

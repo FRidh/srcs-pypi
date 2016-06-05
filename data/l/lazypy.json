@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Lazy Evaluation for Python",
+    "homepage": "http://bitbucket.org/rfc1437/lazypy/",
+    "license": "MIT/X"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "81f0cdc3732ae47db5e2f546bfda72e432025dd74a2a4cdd892e234af9f3bac9",
+        "url": "https://files.pythonhosted.org/packages/a0/23/1bb02ed0fe1244fd81e6d4726eacaad96c1b41bbe5caec04760afca0ee5f/lazypy-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "e5dcd61e9434c6d3a9146f376d05740be74f72fc80f965883e3c648698b26975",
+        "url": "https://files.pythonhosted.org/packages/47/e7/ca9b15c6c13b2b223a96190a6db99145447fcdc65059a5cd90344e901895/lazypy-0.3.tar.gz"
+      },
+      "0.5": {
+        "sha256": "2349a362a6d5a9446f9e258a0c7278fc1f15b7e75d29cfd6af4295b78d2ee33c",
+        "url": "https://files.pythonhosted.org/packages/85/db/7562edbf2bbaeedac55ab81ded543ad0234d4d32e3ac7314b0339b04b2eb/lazypy-0.5.tar.gz"
+      }
+    }
+  ]
+}

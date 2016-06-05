@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Python client library for Sauce Labs API",
+    "homepage": "https://github.com/cgoldberg/sauceclient",
+    "license": "Apache v2.0"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "331ec04c1fb75168b51407c85696d0c20f8f18891fad9b25898498caca20b111",
+        "url": "https://files.pythonhosted.org/packages/07/6d/ba53c46f6a44f06084ca6d458ffaf0bca7680af4309f2256daf1f97bf66c/sauceclient-0.1.0.tar.gz"
+      },
+      "0.1.0dev": {
+        "sha256": "0285e8bbbf06ae390948fe2590f45a6a453141c6142f58433482652ba12fe278",
+        "url": "https://files.pythonhosted.org/packages/2c/49/40036b3b82c0946be99851f1096a353ac1406fdea41f93d6268da21ab52c/sauceclient-0.1.0dev.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "e8e6156ac81973d3b8f8b3c99bb360678428deb41af91e4f566f015eb7a43acb",
+        "url": "https://files.pythonhosted.org/packages/08/d2/37b983d58441c5bce2cc3bb791490ac86acb6e1fd7037596d77778c1b488/sauceclient-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "[pyFreeSurfer]\nThis package provides common scripts:\n\n* pyfreesurfer_reconall: FreeSurfer cortical and subcortical segmentation.\n* pyfreesurfer_datacheck: check FreeSurfer 'reconall' produced data integrity.\n* pyfreesurfer_conversion:  convert FreeSurfer volume, mesh , annotations\n  to the native space. The produced meshes will also be aligned across\n  subjects.\n* pyfreesurfer_qualitycheck: check FreeSurfer 'reconall' produced data quality.\n* pyfreesurfer_stats: summarize the FreeSurfer 'reconall' individual\n  statistics.\n* pyfreesurfer_textures: build texture arrays aligned across subjects",
+    "homepage": "https://github.com/neurospin/pyfreesurfer",
+    "license": "CeCILL-B"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "51a023e76d94491bdaf54eb41acd13e396ac8359bc3ac441f714a6ffcb3d4cc8",
+        "url": "https://files.pythonhosted.org/packages/ef/19/f80068da2840ef5a4776542f04883be930e8aae5cf19b2a0c508ad1debac/pyFreeSurfer-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

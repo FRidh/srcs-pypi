@@ -1,0 +1,410 @@
+{
+  "latest_version": [
+    "2.1.1"
+  ],
+  "meta": {
+    "description": "Lightweight CI tool",
+    "homepage": "https://sloth-ci.com",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "672dc19d4eb86647d42d20d51342a568d571c2c6e2d97b45b6090fa6f21a9c14",
+        "url": "https://files.pythonhosted.org/packages/e1/be/50e00c1382d25ad59ab9e3bfeabca6e2d4032694216853f89fd849040c7e/sloth-ci-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "c654492651f51d77b81009a6fd5958adc53602987373dd26231ac6379d0e715d",
+        "url": "https://files.pythonhosted.org/packages/b5/59/99d2839d963dd6284e2b183ddd2ef5e97ba79c4e0be89f2c8470fe1a4069/sloth-ci-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "3710161cfd04896cfd04214f204061ac058c6ff0ee72a029690c59206f5dd790",
+        "url": "https://files.pythonhosted.org/packages/11/1c/49d4fcd1f7e61fbbe88e31d7ad4cae58517db81e3630223016f0b958e5ea/sloth-ci-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "face122a3d6e7000c48ee3445e39b280de7198c116d58f1c74408e51ed4bb887",
+        "url": "https://files.pythonhosted.org/packages/de/ce/0a93f0b89e1a73229ee910c114ff14a11c514b718e6b677578de71b8512d/sloth-ci-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "3d9112ef2d03ced1f4e3a6de03a6ce3bb181f08a22bd8ccbe6dd1de120019060",
+        "url": "https://files.pythonhosted.org/packages/24/e3/06ce0d6180b047953d52c34a582efc1a46d257e69bf1d02a106298ecb04c/sloth-ci-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "c50730088a8f841bb2db940e4ac72057579aa936145888d99bf09ba181500f07",
+        "url": "https://files.pythonhosted.org/packages/a1/6c/cfb0c82fd506e09ce537bf0748d53b9c47fe2f12d21657533c79a0a82782/sloth-ci-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "20ccb575a0f163a1a9637af964a449923b9842dcf1dedd2cca31c75efb083c8f",
+        "url": "https://files.pythonhosted.org/packages/25/20/3476cc7dba0458969559f6c9d84cd6cce9e1571fb06b7f6f09cafcadba0a/sloth-ci-0.1.6.tar.gz"
+      },
+      "0.1.7": {
+        "sha256": "29bbdb946537cc1c43b98a087498be517d3cfad978cf47eedf19c8c76f5b66ba",
+        "url": "https://files.pythonhosted.org/packages/fc/5a/08efdb30817a326f8259fdadf8e2ac19ec349413dc7934be7f6f6f14673b/sloth-ci-0.1.7.tar.gz"
+      },
+      "0.1.8": {
+        "sha256": "1f45c7dd6d94117b6c64236000b5bb95c420eb1011ba857eba7ac996706a6d28",
+        "url": "https://files.pythonhosted.org/packages/26/20/ed323e5a334bf62da9dd08a97ec41f80c186ee1341d3102bd50d19a21fe4/sloth-ci-0.1.8.tar.gz"
+      },
+      "0.1.9": {
+        "sha256": "44705d313ff2b76e87f4c3900de3a99d71a88eed7e01e5a4c5d772c7b2cb610f",
+        "url": "https://files.pythonhosted.org/packages/f5/3e/0a13c28960f2bf2d93bd4ca06fc88337d2eea655430feb57650813612138/sloth-ci-0.1.9.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "859307336b230bb59cbc0e8558a2918854b21818e04afeffe99415daa2c400ae",
+        "url": "https://files.pythonhosted.org/packages/ad/79/878c0c06a5882ece59cedc46bffff24c4cccca8dce16115ebdbb1723c750/sloth-ci-0.2.1.zip"
+      },
+      "0.2.2": {
+        "sha256": "263793f190ac653d598f7df04f8dfad3a4e365c1f64a3561dac83f0919fa4a10",
+        "url": "https://files.pythonhosted.org/packages/41/cd/e5d3ea583b088f119362580236f0d596513124e801c0185d81f1763bacc6/sloth-ci-0.2.2.zip"
+      },
+      "0.2.3": {
+        "sha256": "bcfd8a78691059862b2c68361c52f8960b9cebd6be94f8721fac764da6245dc8",
+        "url": "https://files.pythonhosted.org/packages/21/7d/d5c6fffedf259f7522a52a59e7542772b9c557fbe6a6717c370e149fc799/sloth-ci-0.2.3.zip"
+      },
+      "0.2.4": {
+        "sha256": "e8426d1eda4726eb073c0f4e5b1a492593372804d3f73e58a27207c460e73c61",
+        "url": "https://files.pythonhosted.org/packages/3f/64/2452ba2c6c432c05b05648f78c39f343929ebb8309664e0bc0980e1ce51e/sloth-ci-0.2.4.zip"
+      },
+      "0.2.5": {
+        "sha256": "bacd701b7d3c076528d4f9fc1c4c4af1b14a9daddc27b883813c072226e18f16",
+        "url": "https://files.pythonhosted.org/packages/4f/17/61fa9fb13c8d1806c6ca21196b0386b27059aa12f0d2412239818e9153d5/sloth-ci-0.2.5.tar.gz"
+      },
+      "0.2.6": {
+        "sha256": "4208b1b90e18b241330256d5b925561714586ecd0ea3abea67db413b010510f3",
+        "url": "https://files.pythonhosted.org/packages/8f/dd/14abec44826b15f0d760374a691d3509f3fe109c1ecd4945439f9eb032bf/sloth-ci-0.2.6.tar.gz"
+      },
+      "0.2.7": {
+        "sha256": "87e699348605cfd131007b7c84b13250ddfcd9825e20783dcd9bdd2eb2478143",
+        "url": "https://files.pythonhosted.org/packages/08/9c/aa230a78dc645aa1fad5519fd67a0d68190b6456958a44ebdd21a1233ebb/sloth-ci-0.2.7.zip"
+      },
+      "0.2.9": {
+        "sha256": "b98281c6d7cc14a3e1f913abaa279a83340f70643a7b419b6c3e8473f10777d8",
+        "url": "https://files.pythonhosted.org/packages/35/0c/9f134d7c51da9b454c2ec5fd8d1b146f567e259cb5386281b575fe5067ed/sloth-ci-0.2.9.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "3ca55000c4b4e4c8ac2c9b3cc1a940fdf25e6013eb314586cb1257240373756b",
+        "url": "https://files.pythonhosted.org/packages/b1/80/f5a4cefcf563dd0d94416a45c9b11a4bc4515b6e1f2088204cbe0edc6aac/sloth-ci-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "f056301c0b0e1070c923f09fd0aa00b00e7969dec0797693f5ce0827c67679cb",
+        "url": "https://files.pythonhosted.org/packages/17/08/3ed54c9bfa762ed7e4d809a771c11f667c58da3d9b8feefd013b5f67dff0/sloth-ci-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "c96c6597ae8738cd05c1554f60ee77131a4c728909a4a644eb7300b36e18df88",
+        "url": "https://files.pythonhosted.org/packages/f5/e4/047f1a65b63b98d15db76657ad6eb4f96ea94ec87b0c5bada17e824ddbb9/sloth-ci-0.3.3.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "902f76ccfb148943829ed5331cb8a74f8fc5a1cb3481ecae7e12f2661fc94a6e",
+        "url": "https://files.pythonhosted.org/packages/e2/5b/46103230094664ac42c3dbdc6388d169ffee97fafd6de004a7e727986c49/sloth-ci-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "aa1850dee6e186ce8a63d2dfbc6a88ddacd69e18dd8534da4916450389d513f9",
+        "url": "https://files.pythonhosted.org/packages/bb/ca/eda2c315073db2b477a475c7ae669ee014b356e4421260f5ab1f29e0061c/sloth-ci-0.3.5.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "806f47ea2a910ba1704a65f1d72096c85ebad2adb44f3ea02400b50f1aed1fb2",
+        "url": "https://files.pythonhosted.org/packages/4c/21/d600dcea4ff399862e8c8ea3351349672c0a93e9612d3556c87139d3f414/sloth-ci-0.3.6.tar.gz"
+      },
+      "0.3.7": {
+        "sha256": "5fcfd830c5d209f279f61d6aa0cd8caa3ede7ddee89323d7d2f3d495c341faaf",
+        "url": "https://files.pythonhosted.org/packages/2c/7d/716547a08dbb1365d1b2f146ddc660b5848a411ffc133fb2795aed583432/sloth-ci-0.3.7.zip"
+      },
+      "0.3.8": {
+        "sha256": "71cda354c8f0ca280800536786f2f6a3b9e125cabbcf813575a238ef1f586701",
+        "url": "https://files.pythonhosted.org/packages/c5/ad/c793a0370b2f4f904d59f39d0cfbca32ac3d94ba1f84ddd4cd79c724c5ea/sloth-ci-0.3.8.zip"
+      },
+      "0.4.1": {
+        "sha256": "a76597bd032ddc9834f0f858bf25fa67c4460f51106fe4df9ba1a2834d6cb4f7",
+        "url": "https://files.pythonhosted.org/packages/2b/77/ffc19f994bf448acdb69e553bf45849c73141d111683f0a35456ea5f97da/sloth-ci-0.4.1.zip"
+      },
+      "0.4.2": {
+        "sha256": "fd2a87fb11b75b49c36e7249e647f15d29bcbd1a697e738c420b6409f78f6483",
+        "url": "https://files.pythonhosted.org/packages/2a/aa/84719b0f79b96b16371d8262786f00c9bd203e039c30d61357951b4fa6b8/sloth-ci-0.4.2.zip"
+      },
+      "0.4.3": {
+        "sha256": "97163c7a56ec158bb6aa74203ac22052de09ebe3a3cd8012c51b055ae0d9510c",
+        "url": "https://files.pythonhosted.org/packages/b7/6e/dc7f2fac1d2987ab42152f1046a96fb9dcb081f5f9c508c09be22cc15963/sloth-ci-0.4.3.zip"
+      },
+      "0.5.1": {
+        "sha256": "7fc4c2da3fa66f013545b9fad0c9cbd6880d8cf09ddd57b3a5c4b225fb8f4930",
+        "url": "https://files.pythonhosted.org/packages/0f/63/a832c74ad7dcf0c904257e477a12bbda3903b2f7f4e087541f3c1b2367b6/sloth-ci-0.5.1.zip"
+      },
+      "0.5.3": {
+        "sha256": "faf429613f0a870034b9b478fcfc2e931360ddd7fd7d76c5f6eb2f0a5e7ff522",
+        "url": "https://files.pythonhosted.org/packages/18/87/e2eae2f0d933c5946f42dd8cef59d4f5aaa89f6e23dc02219929759612ca/sloth-ci-0.5.3.zip"
+      },
+      "0.5.5": {
+        "sha256": "f5cfb312b8cc822ca1d594afa1d0304bf83a8b6df882befb380cc2f55a52b6fd",
+        "url": "https://files.pythonhosted.org/packages/cc/7f/5e9aea8278ecc59256c80103fdd41870292078ae1ff320d38a48df7db1c0/sloth-ci-0.5.5.zip"
+      },
+      "0.5.6": {
+        "sha256": "3575e64b9dbfd4f6996b758748679728e2c6a0fcebbc8d4663ac2d28604cf283",
+        "url": "https://files.pythonhosted.org/packages/bd/c5/22558ae2a822430c65f2b2c6744ddda99d665460bf604c12335d07af2d24/sloth-ci-0.5.6.zip"
+      },
+      "0.5.7": {
+        "sha256": "8ec0be19e8e71f14b039046559c8dbb2bb33e8cf79c3ddf4a9d52ff77a9b390c",
+        "url": "https://files.pythonhosted.org/packages/81/f4/ce1cde8fe2fb2f4cacb9a882d90c25355e928c908e127e6e6dfc2cb49a10/sloth-ci-0.5.7.zip"
+      },
+      "0.5.9": {
+        "sha256": "92d0a723a28bdf7968a3540ca41e5b74b9de658dab2f5029b6a653960a38d34e",
+        "url": "https://files.pythonhosted.org/packages/e5/6d/6522c014ad2f6844735278a5c1db41bd4662427258106573d386ca43bd2e/sloth-ci-0.5.9.zip"
+      },
+      "0.6.0": {
+        "sha256": "094ead0384d06ac57e7e3dfda1ff2dc4c5b63f13a02f1133d34ea21b8fa7ce40",
+        "url": "https://files.pythonhosted.org/packages/f1/06/39b1fb39c1fa7b1593e595b0c2d2c3cf9930c411c94e6ca0b5e98c3e8293/sloth-ci-0.6.0.zip"
+      },
+      "0.6.1": {
+        "sha256": "628fcaa780c1643c356c32272f88a319a9998bb90d187f3452b4e090ee703c6f",
+        "url": "https://files.pythonhosted.org/packages/b0/18/656b7f80e55df378f8583b1e849a6d6fc47b6ebc9d15120f5a3dcdd85d1c/sloth-ci-0.6.1.zip"
+      },
+      "0.6.2": {
+        "sha256": "3e0c2cd774176ea9cc9e4af0610585120e15389002b19b54e35b4cabaa044364",
+        "url": "https://files.pythonhosted.org/packages/89/e4/d97040b005a6b6e2b9fde9d2a50126b7b39cd9a5fe9fe50f0cd832188391/sloth-ci-0.6.2.zip"
+      },
+      "0.6.3": {
+        "sha256": "d92bf2f919209c3550163d542d15db8a9f4107a235e665b24d27d0c4e55aaa25",
+        "url": "https://files.pythonhosted.org/packages/40/d3/b8415b3ba7ff866b87c2fcbe827daaef2d15806780e8608492de5c68f313/sloth-ci-0.6.3.zip"
+      },
+      "0.6.4": {
+        "sha256": "cbb1543c3d8457f5b0703245e356be3bc7fa9bcd75bd54930f8633bba39226cc",
+        "url": "https://files.pythonhosted.org/packages/9d/70/7582b62f3d2d306f4d23d290b13578c2aa666d90cccc5193392f2733677f/sloth-ci-0.6.4.zip"
+      },
+      "0.6.5": {
+        "sha256": "75ccf9e2066314f6d921b2c0495de0b020ebe5ff96f43a2415badcde47b50ccd",
+        "url": "https://files.pythonhosted.org/packages/31/c8/f22d51829f8486622f08a0f94e4800fbccbe82298589b9aaad03cec7e70f/sloth-ci-0.6.5.zip"
+      },
+      "0.6.6": {
+        "sha256": "15ef18d2d8c3164e3bc6c6a462d3fce3a064aaea94466e8e9cb62bd6699be3e0",
+        "url": "https://files.pythonhosted.org/packages/b8/5f/66b86b96d24eda3b1880ef331746c1048b9b9d94d34c74fea32f7cfb1814/sloth-ci-0.6.6.zip"
+      },
+      "0.6.7": {
+        "sha256": "f1b84b69cc5c174a2522571ead8937ea6de3391984c69f7c06a4c60721ccd19e",
+        "url": "https://files.pythonhosted.org/packages/fa/88/20589c13f45d0c3b647b0ced45389a0bdbc97cb654c46fe90302f73ee756/sloth-ci-0.6.7.zip"
+      },
+      "0.6.8": {
+        "sha256": "199853e4d2b0c3c2d60afa359f5707f595adff561d2b8dc44e721ed30fbba998",
+        "url": "https://files.pythonhosted.org/packages/64/3d/570c56adecc97c281b3ea846b6c5554580bfbea32cc9521bfb9a9edb2c5d/sloth-ci-0.6.8.zip"
+      },
+      "0.6.9": {
+        "sha256": "6fc2bdfc8c9d703a0976268d34286e9ca1e0f095494d7c8a79b89ccac55660cd",
+        "url": "https://files.pythonhosted.org/packages/c5/06/41fddd3dd7260306a64800cf378252fd889e9f2706a000ad69a901d2509f/sloth-ci-0.6.9.zip"
+      },
+      "0.7.0": {
+        "sha256": "b43cb857e78b7390a5f17f88ce56308017487c20bf884da08d9e04fd1897eb09",
+        "url": "https://files.pythonhosted.org/packages/10/bb/9955afd098318228d2be85ccf6d4a5ab813d60748ef6fc4d344e246d54dc/sloth-ci-0.7.0.zip"
+      },
+      "0.7.1": {
+        "sha256": "8b2f07f37c83fbc573dcb1f7ad8885412456d3dc3c386092454eb61638083de9",
+        "url": "https://files.pythonhosted.org/packages/f0/01/3eb71391176dfcd2b3b66e98980d224394cb020144112174fc2b7ea85cbf/sloth-ci-0.7.1.zip"
+      },
+      "0.7.2": {
+        "sha256": "fe706ef5b18d8961747a5e7afbd0faeab51c805f22eefa865d6aada5c9d4b488",
+        "url": "https://files.pythonhosted.org/packages/4e/ca/6106ceba2d283b52d5284791055c4e185c79ca54931c432396ffe3421251/sloth-ci-0.7.2.zip"
+      },
+      "0.7.4": {
+        "sha256": "b040e8aa7600821d65790be2386ed94f9b4cee18ebbb3f2073e611634b157b58",
+        "url": "https://files.pythonhosted.org/packages/9d/19/d019a2ac165a25e90db4b5a46b6c0019b147eb8c8dde1c7e1fcd2f8959b2/sloth-ci-0.7.4.zip"
+      },
+      "0.8.2": {
+        "sha256": "19371abd9ba8267d71517bf8d6f8c4178079a8e17daeec14cab42f9eeda79785",
+        "url": "https://files.pythonhosted.org/packages/aa/1d/bc7ba3952d0149a85a52eee2097274f3453cf2e0897b84144abd5fe570bf/sloth-ci-0.8.2.zip"
+      },
+      "0.8.3": {
+        "sha256": "2326e118fb4a12ed3859f04c8d167ace4e7d6cfbb229d5355c0f1b0344cf186b",
+        "url": "https://files.pythonhosted.org/packages/92/45/f415f397771e3e9147abd4806300cffcdd3a297ad0bdc62c07fb3b8ece4e/sloth-ci-0.8.3.zip"
+      },
+      "0.8.4": {
+        "sha256": "bb1c235a0bc158780b805d0d99dde1377bbaac41967cc18bf0aa2aec4ba62d0f",
+        "url": "https://files.pythonhosted.org/packages/c2/d9/c9d4657865e4ea2ddfe9e85bf7ccaf02acaa5e99a415ed7c68465bd28c46/sloth-ci-0.8.4.zip"
+      },
+      "0.8.5": {
+        "sha256": "85407535eec815a193dd4a27757355fde94bfbcff2055b7664d6ba33a04ca61b",
+        "url": "https://files.pythonhosted.org/packages/25/60/d657bdd7071c352ab636d0ceabb07c6c8c49ead7c82d2a09456a44f49545/sloth-ci-0.8.5.zip"
+      },
+      "0.8.6": {
+        "sha256": "fb6602a19d2bdbc276f7f3eba5a417bab6a5f9a8ee373687b12af4ace1554ce0",
+        "url": "https://files.pythonhosted.org/packages/a4/2d/cac260b313f864dd787b195777ebd9640bfd3c96cba7ffdc1840ada27eec/sloth-ci-0.8.6.zip"
+      },
+      "0.8.7": {
+        "sha256": "65cc2c43b094b1d2859ef71c35cf84e04ce10679240b60b84371d36ec99ac825",
+        "url": "https://files.pythonhosted.org/packages/44/cc/c101aeafbdc1cb12d6828228e58d15c93cab40b695b7e9a5133098920c4e/sloth-ci-0.8.7.zip"
+      },
+      "0.8.8": {
+        "sha256": "43a88c79cda46a7f40c7058a26dace817a713c5f586a2eddf016c43081ce84c5",
+        "url": "https://files.pythonhosted.org/packages/15/ed/d8e9c9d931b3af0d2823408747f15bc696fcadf64bbd3af822cd6339ba47/sloth-ci-0.8.8.zip"
+      },
+      "0.8.9": {
+        "sha256": "adb4c50a283507fab0168b335f073376888beefc888c987f307ab5b6072a9dd7",
+        "url": "https://files.pythonhosted.org/packages/13/6b/6fd77eb8189cf8619558418f14c9679958829f8769fe4039e8bd16d1e43a/sloth-ci-0.8.9.zip"
+      },
+      "0.9.0": {
+        "sha256": "452b76a29ca9db4d9353b0f7e4d23f095dcb06e091ade9b849519bcf93a13cf7",
+        "url": "https://files.pythonhosted.org/packages/09/89/e699084e9149f476bd5328c71501e6cf0b5629121fef0f9db43c814630d9/sloth-ci-0.9.0.zip"
+      },
+      "0.9.1": {
+        "sha256": "b951bed72b47556dfbf934a9e3d36ac174ccc7be1fe34ec493e63e461131d445",
+        "url": "https://files.pythonhosted.org/packages/97/2f/10f07f7237caa5f9cf892f749ef8f7a87afa3113b852e1df249596acc2ec/sloth-ci-0.9.1.zip"
+      },
+      "0.9.2": {
+        "sha256": "9632151f0ecf19738b9b3cf4cf2ef498386c03d42a9516a11bc5cd9877a727ac",
+        "url": "https://files.pythonhosted.org/packages/52/06/5b02ca4cd9fb3289ce2837d28d0202f000ec2f2c1bc3523739241cdbfb86/sloth-ci-0.9.2.zip"
+      },
+      "1.0.0": {
+        "sha256": "3d0e08c35c7819f936437354c345371a62ed52002f3040cba8bfa88576c18155",
+        "url": "https://files.pythonhosted.org/packages/ab/e0/1622038097fdc059a950c1ae8baa3617c9ef885d9c3187e1c7ec7684259b/sloth-ci-1.0.0.zip"
+      },
+      "1.0.1": {
+        "sha256": "fa25a654f4c6171dc4b9b01265b5499b30c91c1b1b2935489d204bcba7d8eb03",
+        "url": "https://files.pythonhosted.org/packages/2c/65/26836115a10d60360c74288afaa324ab4a40faefdb79afa557a8942d4940/sloth-ci-1.0.1.zip"
+      },
+      "1.0.2": {
+        "sha256": "7fc9e6d886e3186dd40b7a673b1ead48f5b0ed02383dec4ba54f9c1db29e9d5b",
+        "url": "https://files.pythonhosted.org/packages/28/fd/bc25332ebc778f83676c4ac62487b1d5bf6764aeac06e9b5bae68ddbba12/sloth-ci-1.0.2.zip"
+      },
+      "1.0.3": {
+        "sha256": "8a7828cc97dea4e5ab13ce2eb617898adc763e8efe69995b1e1560a8e0c9f225",
+        "url": "https://files.pythonhosted.org/packages/69/f6/ab57eb50e4fe0e664f44478a20be057d126f8a0c4a822484bf8b37605b3e/sloth-ci-1.0.3.zip"
+      },
+      "1.0.4": {
+        "sha256": "7748465c4ee102ea3725ff53b2ba78d5ca8b9f59f9bb629db8e21b68c977fb4d",
+        "url": "https://files.pythonhosted.org/packages/0a/06/88a26f25182178bb64c35158e157d63fc6ff37ebbeb49dd552aaf27a9668/sloth-ci-1.0.4.zip"
+      },
+      "1.0.5": {
+        "sha256": "11ab68ac92177a11e3a5f897596c049fe03abfee3a1672308b796d0e78172da1",
+        "url": "https://files.pythonhosted.org/packages/b6/d3/1d4faf8dd754d95e1bc71aaaca5002213d4f60d48d8b59093ae4638eda68/sloth-ci-1.0.5.zip"
+      },
+      "1.0.6": {
+        "sha256": "243d52f536ff6c620f484ec01fe78912430caec596cb3011040e314b94d5266f",
+        "url": "https://files.pythonhosted.org/packages/a0/28/97b9ef9592dfb805d8776c2dddd3dea2fdfe72b6189bc7c491a3866addf5/sloth-ci-1.0.6.zip"
+      },
+      "1.0.7": {
+        "sha256": "56dadd4ff697cfed7493cc0fd8821d5ca4d46821f7d56bba8c672494df8c137a",
+        "url": "https://files.pythonhosted.org/packages/c2/c9/ad0e59512432f3d192d505672499dad4a1d70ea2eff3efd4cc35d3ee630a/sloth-ci-1.0.7.zip"
+      },
+      "1.0.8": {
+        "sha256": "892b2d04847058cbfa2ec90f2e25dedd9999cdc2e79c704571c679ceca695194",
+        "url": "https://files.pythonhosted.org/packages/40/95/e214461f44c50d644d16ba3d478943a79e0edb825fb5b0923178d76860dd/sloth-ci-1.0.8.zip"
+      },
+      "1.0.9": {
+        "sha256": "9f7dc5a75ffdd00c8003e2bfdb01ff321e34063f3f3e9c86f9d60bc0750dd8d2",
+        "url": "https://files.pythonhosted.org/packages/af/87/3710ac3dcdabf9e0afe7cb866da0dad8830cb59c7b39c9a359c33109da17/sloth-ci-1.0.9.zip"
+      },
+      "1.1.0": {
+        "sha256": "7d41d3736fc51dc2b247de7bba5ce8ed930fcdcb0d9c3e22c2693935aacafecc",
+        "url": "https://files.pythonhosted.org/packages/eb/aa/eff8ba6157959d3665841b255ba0119af01d74edcc1a5f60e4ffd5cd0e6c/sloth-ci-1.1.0.zip"
+      },
+      "1.1.1": {
+        "sha256": "743488c000fa4be594a23d0eb109a6118681c8df728a6f56026228a84eaa7dc4",
+        "url": "https://files.pythonhosted.org/packages/df/6a/fbf826946c080b4af8fec791ffe2362441b1a51ca1a6aaddd03873cea393/sloth-ci-1.1.1.zip"
+      },
+      "1.1.2": {
+        "sha256": "c67fc2328db95a03525b7a62ddb9c1f4a0da275b5f74815c8b045050be9980a5",
+        "url": "https://files.pythonhosted.org/packages/07/81/c6fe60bf3ff0628e1dfdb57a7c7f0d776a1d7fa6210dd7592bdaa49c41eb/sloth-ci-1.1.2.zip"
+      },
+      "1.1.3": {
+        "sha256": "609f5939f4b61ff681ce02827c8fcee6b2f4a28e5e7c20a74411ea3dc72c1be5",
+        "url": "https://files.pythonhosted.org/packages/77/80/4e0d8a17b393ce836391c0d92ba055dae162a38731203dc93282894e42f5/sloth-ci-1.1.3.zip"
+      },
+      "1.1.4": {
+        "sha256": "b7164e579bb02dd031987eeedeba0ef9eaa76c278079ffcb23081b85d770ec25",
+        "url": "https://files.pythonhosted.org/packages/c4/ea/bf80d3d3d9c71f6a5402e6923e1bdffd4fa623da51623e2dd6d670c82bcd/sloth-ci-1.1.4.zip"
+      },
+      "1.1.5": {
+        "sha256": "0b2ceac99ee941f6a38088025a4ae694173883e74bea58fc23a4815c10882e63",
+        "url": "https://files.pythonhosted.org/packages/e4/d7/04d4bef8c84bdc4c0fbaeadaa0463d9fdedd71b82a393a726283ff43b8b0/sloth-ci-1.1.5.zip"
+      },
+      "1.1.6": {
+        "sha256": "93ba299b12e67de79f76e2aafaea4e0419b81531cf346e4dc629e0ef014d9bb6",
+        "url": "https://files.pythonhosted.org/packages/c9/c1/8356cdb745b57c13777bc7012de6849adb419fdee4394cc518c1f00bba8d/sloth-ci-1.1.6.zip"
+      },
+      "1.1.7": {
+        "sha256": "e25f074f2a765fda0b7a5ee871c1aa19a091dc9368bc8345fbb71750e12f2cef",
+        "url": "https://files.pythonhosted.org/packages/60/7d/e509b63ca248e3458212ec2427796d1d3e3d84d10baba3c9117ea9c9d34b/sloth-ci-1.1.7.zip"
+      },
+      "1.1.8": {
+        "sha256": "4e95d9c3e65deb433c206444a1bf05eaa3a0ecf2f082a678606f113bb777aa36",
+        "url": "https://files.pythonhosted.org/packages/d1/90/d2c5adaeb5d4abbe3645b4d2009fff5a4cfeb9e740ea3c3bdda57713d534/sloth-ci-1.1.8.zip"
+      },
+      "1.1.9": {
+        "sha256": "99687d054bca9d329e3e29589fd830f2774a36451e64f9806b24eb4136899abc",
+        "url": "https://files.pythonhosted.org/packages/fb/a5/624d14be875bc53f6cc0a15f621ac6e7fa662a85caa93519e042f0945ff8/sloth-ci-1.1.9.zip"
+      },
+      "1.2.0": {
+        "sha256": "2d8d40f750c341f7001166153af0f6e80331c99a812f0c7273777819cdcf6bfa",
+        "url": "https://files.pythonhosted.org/packages/6f/14/39b119994ad659a7924459bb14d60c5da45da4c8f4a75baeb5a325bcf5c1/sloth-ci-1.2.0.zip"
+      },
+      "1.2.1": {
+        "sha256": "4b0589219987623a4e9c3d03f6f8bce650cacab94a4692f3b64ade54e426b68d",
+        "url": "https://files.pythonhosted.org/packages/cc/a4/7a9dea656ad65e2def265102a397b3748a8d7272f1229ae4a9f519969610/sloth-ci-1.2.1.zip"
+      },
+      "1.2.2": {
+        "sha256": "6e1bbf5c0ec3f06055acc65c398b203b74d8f62a054694afd0b5434055447a96",
+        "url": "https://files.pythonhosted.org/packages/5f/93/54d87dfa654052fee7f2e9d07a666328c10630a7156354518f7c9df60f89/sloth-ci-1.2.2.zip"
+      },
+      "1.2.3": {
+        "sha256": "50fd8f7742451ac3494a935b88e2a7371dc0ca865cc14173e412080df2e54741",
+        "url": "https://files.pythonhosted.org/packages/ce/23/9a8c567a8fefd7497980e5c002c42742273620ebf853457849cbf82275f3/sloth-ci-1.2.3.zip"
+      },
+      "1.2.4": {
+        "sha256": "08a5135c08e70103bc68881d6ac721dc88b22d74a989461d253abbfc51919b41",
+        "url": "https://files.pythonhosted.org/packages/0e/7b/6f1780175e25581656f02f5b2122ff907d55bc881cde3f0bf33e2d2ec00e/sloth-ci-1.2.4.zip"
+      },
+      "1.2.5": {
+        "sha256": "f74d896bf0faaf3ef09f77a8ad20ed19f52712afa5a1d4dcb4698c8beb23a96f",
+        "url": "https://files.pythonhosted.org/packages/4c/4a/5fc81b747cf431b82bc75058205134fc6515998982ca1cc9c7bf1dff2d36/sloth-ci-1.2.5.zip"
+      },
+      "1.2.6": {
+        "sha256": "b3483bdb140b33dd36709f098bed59c85269cb6153236758971a47584a2109e6",
+        "url": "https://files.pythonhosted.org/packages/d2/c2/97276e2a851030a5bcccf9341eada4c8dd159ca1cfce71afa82dbda68d72/sloth-ci-1.2.6.zip"
+      },
+      "1.2.7": {
+        "sha256": "6780e0885ac524c16a3888314d0003b43450b0a778d91178283cb42e6f769ab7",
+        "url": "https://files.pythonhosted.org/packages/ac/4a/2f4f2c5728c0c34fb1c038dd5b642306361daf48f9a3f918b2b41ec4b015/sloth-ci-1.2.7.zip"
+      },
+      "1.2.8": {
+        "sha256": "69cbae83d10010b6511d0f9b25057cfa6e2f3b37f2c3e95131d05336b3848975",
+        "url": "https://files.pythonhosted.org/packages/54/52/e1be82a7e9e15e568d4afee8e5abfb8f63abeea350bb5c5f453d03189f24/sloth-ci-1.2.8.zip"
+      },
+      "1.2.9": {
+        "sha256": "ce9b6611074405c35afc02409dce585cdac6502d68d6d6abdf29c9d927d4d9a6",
+        "url": "https://files.pythonhosted.org/packages/61/9b/3799bdbb6ddb01a1cd86f539eeb179acd8fb444c5052ab675c4143059f3f/sloth-ci-1.2.9.zip"
+      },
+      "1.3.0": {
+        "sha256": "af23beb219ad02cedfea99d6a45dce632b86de39cdcf8c031775636187714eed",
+        "url": "https://files.pythonhosted.org/packages/08/00/e46beb1af7fbedce549961b246a4846cad37bc709f89854c59e6e20ab0d7/sloth-ci-1.3.0.zip"
+      },
+      "2.0.2": {
+        "sha256": "8a602abcaf41876e1b2faa7b895350aeab40d3124e5394c8934af6e684097edc",
+        "url": "https://files.pythonhosted.org/packages/0e/55/1f0e90541271f1e2d2aa2d35815c9c223ecf70a974d44b2b9bf34e45ad8c/sloth-ci-2.0.2.zip"
+      },
+      "2.0.3": {
+        "sha256": "17d3bca1d94450a1bb4d3fe787efd3dfad14d22dc8ba41f542761ddec94baa69",
+        "url": "https://files.pythonhosted.org/packages/de/93/59c8cb9562d7e599637a72205897e352ee15fcf3fd7b88dd24f829d44ae4/sloth-ci-2.0.3.zip"
+      },
+      "2.0.4": {
+        "sha256": "243a8b592cc1317e68bfe927109b389435c46b51b75018497437278f93fdb68e",
+        "url": "https://files.pythonhosted.org/packages/76/d9/501cf0ca8dd5059724f64e7ab69693e791f2c380110b55392098ea899784/sloth-ci-2.0.4.tar.gz"
+      },
+      "2.0.6": {
+        "sha256": "fbfc9e069c406dbe2c4a46fb7e5e8a06f50242539d81f731fd2e374bb4fc76ae",
+        "url": "https://files.pythonhosted.org/packages/4d/ec/ccc945ab93efc8a079af91764eed5c0cfebb473ee55dcd9ada657b187362/sloth-ci-2.0.6.tar.gz"
+      },
+      "2.0.7": {
+        "sha256": "3af7cfaf5f7ad679ad273864e1576dc202d149c703974ddf328bda9fa8af6e22",
+        "url": "https://files.pythonhosted.org/packages/e2/15/f9c8886326cd4458ea088598adcd927dc611652addfa553478a5bbc14e3a/sloth-ci-2.0.7.tar.gz"
+      },
+      "2.0.9": {
+        "sha256": "72e9de3acad8f1dbfbc61f420ec3e55c120551a320a2affe9dcf19301baf756f",
+        "url": "https://files.pythonhosted.org/packages/bc/d9/b82c57c99a84e41a3b298a5d48c0272dee7230b3ce8012f228e211c31b6a/sloth-ci-2.0.9.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "36770f3c4ac9421921353637dc28ed9b041c53b490800f9a192796f6263040d4",
+        "url": "https://files.pythonhosted.org/packages/48/3a/f025f2ce002c088e917b19459aaad9e2af9af0687185197678562bdce151/sloth-ci-2.1.0.zip"
+      },
+      "2.1.1": {
+        "sha256": "ede3fed00d6b98fdec4ab753be7641032bd42d440e6807e33697d7852f1f4f8f",
+        "url": "https://files.pythonhosted.org/packages/bf/5c/2290ff3ea83a32872dc2ad8ba3e59e4d6931416b4adb75a2b445ccfa86e6/sloth-ci-2.1.1.tar.gz"
+      }
+    }
+  ]
+}

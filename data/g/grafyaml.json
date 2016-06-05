@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.0.5"
+  ],
+  "meta": {
+    "description": "Grafyaml takes simple descriptions of Grafana dashboards in YAML format, and uses them to configure grafana",
+    "homepage": "http://docs.openstack.org/infra/system-config/grafyaml.html",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "833adf92b6e11d53c298ea6e4ba105b3238090cd8d96c85a4be1af7aa5364077",
+        "url": "https://files.pythonhosted.org/packages/60/be/02ef7af7439c08f0960a369b8f313cc2f4c1fb5dcc3e1e9460c7821eb93a/grafyaml-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "5d459abf0bbc96870e3b56cc6edd526780d93397290684fa14f9138d70573f1e",
+        "url": "https://files.pythonhosted.org/packages/45/a9/30cdeab284227d6faeeb31043a6fb459fa387103dbc2e2c9ef02e5cd99fc/grafyaml-0.0.2-py2-none-any.whl"
+      },
+      "0.0.3": {
+        "sha256": "473c489bb453d205b1c0e7f43b99d4edb2eddabebc26be419265ba1298d35d7f",
+        "url": "https://files.pythonhosted.org/packages/d6/6c/fb5cd31bc57dcc503a7bf572efc2140237be15b31bdf807f84420eb56422/grafyaml-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "011d047dbd5ef1a447ab96fc23767feeabedfe7fa420c0820b9da50d6796ccbe",
+        "url": "https://files.pythonhosted.org/packages/e9/2a/0b00ef474732d15aa74b8b00196a766edec8ce0a5dc0172f26405913c1c2/grafyaml-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "1f2f04fc6a26fd46f037aca4777129155f5815dd3d04f40968f9bb267c5949e4",
+        "url": "https://files.pythonhosted.org/packages/dd/22/33c84fc62cc13c0c7a485232014d59f8598c12ec8ffa8b13c3c511a1cb54/grafyaml-0.0.5.tar.gz"
+      }
+    }
+  ]
+}

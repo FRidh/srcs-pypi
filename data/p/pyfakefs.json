@@ -1,0 +1,45 @@
+{
+  "latest_version": [
+    "2.8"
+  ],
+  "meta": {
+    "description": "pyfakefs implements a fake file system that mocks the Python file system modules",
+    "homepage": "https://github.com/jmcgeheeiv/pyfakefs"
+  },
+  "versions": [
+    {
+      "1.1": {
+        "sha256": "5ca22c60ebe40e9870926d6772e01bf48ea017960aa3768c85f6ddfc832ca24a",
+        "url": "https://files.pythonhosted.org/packages/9b/db/0aa6441566be5921c9f1528efdbaf076016422b96820e28b9b4bf9e21852/pyfakefs-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "fc93b7d6c6dd4f69d7986bb5c66847a0afbb827795cc263dd2490a36eb1a5b1f",
+        "url": "https://files.pythonhosted.org/packages/54/32/00837fbd90108b2ed884de769a269cee75962d87370bc246f78d0ea30fab/pyfakefs-1.2.tar.gz"
+      },
+      "2.0": {
+        "sha256": "c7e2713686db01a7fc9c7eaa165c80de59eb97fdf158a52585f9e4edc8a07e05",
+        "url": "https://files.pythonhosted.org/packages/18/84/08249badd1d4b8982a53136162ede906e7da2ed47268a9585a9604d12875/pyfakefs-2.0.tar.gz"
+      },
+      "2.1": {
+        "sha256": "944b6495324a7c78061bfbb3cf93691ce0f3c6f09df49d1cd05b6c8fdff12cef",
+        "url": "https://files.pythonhosted.org/packages/1a/42/82ff6c046550cbe7a4a492d430c513fd3492ebf92b805be65e4d561b6057/pyfakefs-2.1.tar.gz"
+      },
+      "2.2": {
+        "sha256": "1a632a8a3aa66c0eb548be1c910fe2d540dcc3328d5cbdb98b6cf37492345996",
+        "url": "https://files.pythonhosted.org/packages/0a/9f/923d69468cc51f97780f0c86cb593cb45bd4bf77dbdd0b1dab5229bfba27/pyfakefs-2.2.tar.gz"
+      },
+      "2.3": {
+        "sha256": "a1531794b296b1f92990f43b26302d74115eae0878a0b23e24456b8441c282c9",
+        "url": "https://files.pythonhosted.org/packages/49/11/afa62a93b2de29198e3067bfe6ffd58c18d2222c14233deb489810585afa/pyfakefs-2.3.tar.gz"
+      },
+      "2.4": {
+        "sha256": "1dc4fdb9405579c495fdf410d5d234a85e8b5624ff2f9f08da5462721fca9fad",
+        "url": "https://files.pythonhosted.org/packages/09/d5/3e9511d6abd52afd301b69c827bf79e2f08e5c48b00859ce184f27d5ed38/pyfakefs-2.4.tar.gz"
+      },
+      "2.7": {
+        "sha256": "279f8584f0b230d9cc9e38f533ce2c5a1866da3fa9e6df6e94dbabfe1e7823c1",
+        "url": "https://files.pythonhosted.org/packages/59/a6/05da387a18c458af4f47713f1ac754a817029f8546e09e07e5626746ce6e/pyfakefs-2.7.tar.gz"
+      }
+    }
+  ]
+}

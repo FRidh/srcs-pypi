@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Display installed pip packages and their update status",
+    "homepage": "https://github.com/bartTC/pip-check/"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "71afaba066cbd6ba4efa456365932d33379cf1dd4f9c53ba3353225dc1083863",
+        "url": "https://files.pythonhosted.org/packages/77/4f/ba2d0c769dab846d4f575ed53975216168cd8d478234055b57385e65ed6d/pip-check-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "fef397c651964c1d79f2151f0e699ba789635521db0947bbabe8cf264be3c4a4",
+        "url": "https://files.pythonhosted.org/packages/37/ba/83222dab44a938a8a23b3813f73c48aa8d99d45a91f14770476ec2f48e5c/pip-check-0.2.tar.gz"
+      }
+    }
+  ]
+}

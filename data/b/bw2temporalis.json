@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "Provide a dynamic LCA calculations for the Brightway2 life cycle assessment framework",
+    "homepage": "https://bitbucket.org/cmutel/brightway2-temporalis",
+    "license": "Copyright (c) 2014, Chris Mutel and ETH Zurich\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this\nlist of conditions and the following disclaimer. Redistributions in binary\nform must reproduce the above copyright notice, this list of conditions and the\nfollowing disclaimer in the documentation and/or other materials provided\nwith the distribution.\n\nNeither the name of ETH Zurich nor the names of its contributors may be used\nto endorse or promote products derived from this software without specific\nprior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\nAND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\nIMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE\nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\nOR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "f9d6ffeb3bd54b08ecb6a86d99a866081ceadac30e47b5ecd9e3d9bf1d55255a",
+        "url": "https://files.pythonhosted.org/packages/d5/8a/2e79b7ef0c06d3bdd0ef3da4a8e15f9260796ea358d6c3620371005cf774/bw2temporalis-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "0cc7d9332f6bcbe2df69c07ea7baf84cd3b28d2862fc99c2a2bf8bafa1945678",
+        "url": "https://files.pythonhosted.org/packages/c4/5e/64b65ffec985db5a609cc3cc8e674d759353131937c149bd4a8b1f7d01f0/bw2temporalis-0.2.tar.gz"
+      },
+      "0.5": {
+        "sha256": "554dce7e0d054cb83f46de840663e9cde0ecf11c9791e5ac6a924f8c20c12143",
+        "url": "https://files.pythonhosted.org/packages/d0/31/80f171ba1623e1c06402645e032632c2b877e58d82e368df51e418e2b57a/bw2temporalis-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "888d47674ff1ddd8d9038469c70f10715bf85005239b74e393f21a1bff2d602e",
+        "url": "https://files.pythonhosted.org/packages/5c/5d/0b9ec25386c62415fde0f3d8714d6385d24e5da19a38bf0290ce2f370521/bw2temporalis-0.5.1.tar.gz"
+      },
+      "0.6": {
+        "sha256": "cabc443bed7533ddb67d9d0862c04d1870748d2a1e10b3dcc401d6dba198632b",
+        "url": "https://files.pythonhosted.org/packages/20/10/cba1e121a04fa30e6f6865b0503245b7889f05ab31c2d07bf6535839460f/bw2temporalis-0.6.tar.gz"
+      },
+      "0.8": {
+        "sha256": "8b0e813c67057c2e6e6a45c504490528cd0c5382be585656bd78dc5817ddb6e7",
+        "url": "https://files.pythonhosted.org/packages/80/6d/9fbe260e68baf8b19c29506b112adf7a32cef2665cbb3b75cac278278d1f/bw2temporalis-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "63114b0aa1abf543247ebf3957c4fd55446bc448e4b32def4095f5a317892242",
+        "url": "https://files.pythonhosted.org/packages/43/55/927f6a8f2389254381b371a3bcbb0994b0e6588094a8e2c66d3be621f60e/bw2temporalis-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "18974e76b43d0f0d0c81cf8801128e5313473ead09fd813f876272619444ca53",
+        "url": "https://files.pythonhosted.org/packages/9f/1a/5d4e502d430fc02fca777b5b55f36253a4eb250b4872899d762cca110ee2/bw2temporalis-0.9.1.tar.gz"
+      }
+    }
+  ]
+}

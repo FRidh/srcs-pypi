@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "Share numpy arrays between processes",
+    "homepage": "http://parad0x.org/git/python/shared-array/about",
+    "license": "https://www.gnu.org/licenses/gpl-2.0.html"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "50375a23ad58fe9ae6343d1f35eb087d154d277c61850bc06ddbd9d5e51553b7",
+        "url": "https://files.pythonhosted.org/packages/48/5d/800370dfce6d87bcee7f298bc8acf13ec2b58209ab30c6eb12d1f527e049/SharedArray-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "9ff4952783ce4865b86337463878aa29187377060ffb37a68008987f113c695c",
+        "url": "https://files.pythonhosted.org/packages/c3/d2/ce5e2e0ca5fb853ea003ccfddc4c999671b01c097549edf3ef5ad998445f/SharedArray-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "03f141a06366489b63e7941e8058740ef861aa9e064778ce21c5fe480af0cfa6",
+        "url": "https://files.pythonhosted.org/packages/24/47/d4e082499556fac76d442263f19a44a128c7c45f2821383b938d6d18f56a/SharedArray-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "c11fcc0fa98adbff7a93c57198f4776b8757408534bf7955a1d78820b7223201",
+        "url": "https://files.pythonhosted.org/packages/19/20/de622226d3a45d16cb5f259727bba1212807592be5ad2831d9c81d101cf3/SharedArray-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "37f26776f3d951e9e92bbfe846e3313c9c462127090ad408b89cb68c62be6a75",
+        "url": "https://files.pythonhosted.org/packages/42/7d/a3b68b3742bc485bb3fcefe4e7625473cf462d0db8d5e92093cbdb3ddfa2/SharedArray-0.5.tar.gz"
+      },
+      "1.0": {
+        "sha256": "5370284a51507cb8c326f18aca9d92ec463e74eb961cd309cc002078dc38c4d6",
+        "url": "https://files.pythonhosted.org/packages/d3/a8/e8449f55d0de59614f546df1938729348e900913d9b5924d895df5c5e7de/SharedArray-1.0.tar.gz"
+      }
+    }
+  ]
+}

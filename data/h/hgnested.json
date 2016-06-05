@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "Mercurial extension to work with nested repositories",
+    "homepage": "http://bitbucket.org/cedk/hgnested",
+    "license": "GPL-3"
+  },
+  "versions": [
+    {
+      "0.4": {
+        "sha256": "fe319fa1d0a227c5b87e38b40825693ad76454bf84a96a988fabc67fd3ed6384",
+        "url": "https://files.pythonhosted.org/packages/75/cf/82fcd0bffa6c9b3fd581e3aa35c77c605e12f263665bb208f5f482827e72/hgnested-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "52a72a49eb4f6e8babea8d31db7b9af2dca9ea2179eca6e53aba5e5bd11d03ee",
+        "url": "https://files.pythonhosted.org/packages/58/1c/8811cb80583e82df896eea0c49ce0ada9505a8d0bab69cf44cd0e2234162/hgnested-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "e9734a15066c44e32781e7e43b99d9a5deca4ca83ccc82f443aa52e50a467436",
+        "url": "https://files.pythonhosted.org/packages/24/ff/161bc16eb7bad72af972d404d9da6ac79480259123a3f6652c5f90450513/hgnested-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "55741c7bb6aeb235c57858dae5709697319ae4c3f3d47f7abc5e695a02a5e2bf",
+        "url": "https://files.pythonhosted.org/packages/2e/d0/5f50f63365ab9464eecd691d272c2da025d2e8fd585f77f256a6b3643d29/hgnested-0.7.tar.gz"
+      }
+    }
+  ]
+}

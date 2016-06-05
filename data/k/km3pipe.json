@@ -1,0 +1,493 @@
+{
+  "latest_version": [
+    "2.6"
+  ],
+  "meta": {
+    "description": "An analysis framework for KM3NeT",
+    "homepage": "http://github.com/tamasgal/km3pipe/"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "7e1332d4c6dbd80aa4698b80d02e07b71b6d90b9d57faa05d89c8aca0d973b5e",
+        "url": "https://files.pythonhosted.org/packages/c1/c6/cc5085ace6e2e839b6b8c7da2d2e9ea13c3f2eedf43551105285ebe0eb98/km3pipe-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "07aa96db6de5f005815511efa9090c58b0679ccdccd80de74272e92b2dac207c",
+        "url": "https://files.pythonhosted.org/packages/29/83/f6f6c2113cfeb99b42bb78df536af22c924e81fc20088fb88a727b4c9edf/km3pipe-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "896583048f3e72f4b5fc11d2e9a0158fd1d98d7a4bb8b52bab6e460d132893bd",
+        "url": "https://files.pythonhosted.org/packages/fb/10/f33768edb350f21a3ba1d41a4b50071f56836ad3f06c52476534fd54c45a/km3pipe-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "c031ad535dd7255ebccaf1bb3e14924163e98ddeec9ae67550b09d7f803742bf",
+        "url": "https://files.pythonhosted.org/packages/d7/9d/e1088f03190e6a9e533f809f1ce9d63f7016b8692cecafe8117b0c9a5842/km3pipe-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "e262be5e08c2ef7b78922af64e944e2c2c8af5625a612352a95c4e3b3cbc2ae4",
+        "url": "https://files.pythonhosted.org/packages/44/76/3c3fdfc1d0a378e6f694820abfae10fc290d67de2bf68f572e10e08ce141/km3pipe-0.0.5.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "3c0ce0d16b91aae48e4994d7be974ae5dd1c407366675377e25c9036eb2bbac9",
+        "url": "https://files.pythonhosted.org/packages/64/29/25e266e38a24a1a4c405678dd78a5941aaebc1d33b557cb3c5728a57cd2e/km3pipe-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "a36b571f716166e05ea06b523e83566668e28199876e4067a6004883ca4eb432",
+        "url": "https://files.pythonhosted.org/packages/6a/e6/27dd4dc35fd55b9ddc71e5c39550c47cbc1280e6481020dce7ea97fb2a21/km3pipe-0.1.1.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "c7fa49b2accfcc9ca061793c846f4544c29e9ab088db9212f49eba9b3166b7cc",
+        "url": "https://files.pythonhosted.org/packages/2a/2c/1571bb371f2bafda79ff7768189b66f74355675f15f9dd6c86966672cb78/km3pipe-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "baaff2fe49520c9d88cd440c7ea1dbd89bb08d58162d65c2f469663b1c379fa1",
+        "url": "https://files.pythonhosted.org/packages/f9/9c/e5a94571c66a7848e7db22ad5d5b0dba04eb269fdf101492a7b769178120/km3pipe-0.1.4.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "684a3e23bf5526398526e134c4f0d26e25b17e6ec89b010629eba0009e5077b3",
+        "url": "https://files.pythonhosted.org/packages/ea/14/3320fa59237a88f17ca95196db870ba4bbaae0d0cd7c7ab8d00df966c5d9/km3pipe-0.2.0.tar.gz"
+      },
+      "0.3": {
+        "sha256": "9e5734f56adf12926c1c5a42ac19f9c1d02120a2b3b2be8625d4fd03b4dcbb6d",
+        "url": "https://files.pythonhosted.org/packages/14/bf/cffa352102bca419239e090f4c61fb2e7bf9e738b0918951a3d7bf7b3baf/km3pipe-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "9825654b298128df64eadfa7235b7f07d7204cc152957dfc9138088aa111cdcd",
+        "url": "https://files.pythonhosted.org/packages/24/8d/191db435a6f56ee15b910ff39053592fc64d76fd768e8e6b38bf955062da/km3pipe-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "d12cf51dbc95eabe4b85c9e4df4af916504ee42a61a8b0e3b1992797fc19070f",
+        "url": "https://files.pythonhosted.org/packages/42/33/c6194d143b7deb9c28665b4c858160b537a4b128156f982412089939ded0/km3pipe-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "5c77b5e553a42c78669d3fd11d728b6831e201eb9be6f676b3351737ed1f8983",
+        "url": "https://files.pythonhosted.org/packages/a2/85/e8d8d3316cefbf928aeaca31a5a43ab0666e1d5c524a957ea9d58758773c/km3pipe-0.4.2.tar.gz"
+      },
+      "0.5": {
+        "sha256": "733f57dba79115373519251e60640b9fce80fa3ec972b3a0e2cc2357d7a0cdef",
+        "url": "https://files.pythonhosted.org/packages/5f/de/49bdcedac492f406c0749874ee370bf0b55122cb01c2ef37f37667700a8b/km3pipe-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "bea96e7232c2bd053b97dfc1a371e5ec043433c204b91a1a218a307f72ec1bf0",
+        "url": "https://files.pythonhosted.org/packages/c8/3e/6d13e9cc759cd3aa0d50facf7ce52116cff4c4ae2eae6a26ccd1b1328e97/km3pipe-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "54b492ddf9b35358aa583ba8f5ec0af26413a10e2fd84092dc88c9b69b2143e7",
+        "url": "https://files.pythonhosted.org/packages/98/0c/4ba4d0c4bff2c3c24901527c8666ba5eb5f3850c2d5d2899ce46ba050e19/km3pipe-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "dc78b54ed78bcce1b041696197ee624944bbf7e98ddb2ce9a211ec1a69675c27",
+        "url": "https://files.pythonhosted.org/packages/62/dd/8556e0537ff340ad45469ed08b38f5152d674d517e81d1d3b0eda9bbc1b6/km3pipe-0.5.3.tar.gz"
+      },
+      "0.5.4": {
+        "sha256": "03b561c06906a5c0a7eda2dfdac0baa7def9586002880d50214ec6255d20b65d",
+        "url": "https://files.pythonhosted.org/packages/be/72/8decb6b13e0e722e9202e884b095d91645346e9811de2b4d32681f32583f/km3pipe-0.5.4.tar.gz"
+      },
+      "0.5.5": {
+        "sha256": "6968e59b8742faad23a8b968ba471d5f46184dcb9ee810ffdafee67c49830b43",
+        "url": "https://files.pythonhosted.org/packages/65/6e/eb292cba468383150a53f8c0894f28be2b0e94aa5a6aad59a3cd3c53d252/km3pipe-0.5.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "c69a5cb69732f5c4f62f87f1c1897d36c5443ddcd64bea7b039972e5f05faf1e",
+        "url": "https://files.pythonhosted.org/packages/b3/1c/0e8354d652591e1b809e7b54d5164821e788e190f2e8379fc9c32a32c8ca/km3pipe-0.6.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "90eff2245af32e26eb88777ff4564cd7c3a56eca38e541f6ecdebb3f0166d8f2",
+        "url": "https://files.pythonhosted.org/packages/86/eb/4365e73699bb34c5d90d4d97778b69cfa54ed7febe253589d410ab343ced/km3pipe-0.6.1.tar.gz"
+      },
+      "0.6.10": {
+        "sha256": "feadc06de16946ad8387a55353e7c0f0d22763b9330950f52051f7e303dc5680",
+        "url": "https://files.pythonhosted.org/packages/5e/6c/b28a30a0ed9571e6c3a7ed503b43af463026684dcbd81afcc8ff4eb4ed96/km3pipe-0.6.10.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "b374a4769532de9f7a17d8f01893632046d50cecbfa8f9acd2c29d003c8f9827",
+        "url": "https://files.pythonhosted.org/packages/22/d5/4e586252d69b16be9850f64e8b66596216d151cf4d694100a5429a55c980/km3pipe-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "830086fbd3f863bb9d730115861c5b697993e80a40ac7afd9adab543d906527f",
+        "url": "https://files.pythonhosted.org/packages/4e/b2/1bcc0eff8a9bc82446107d49bab3673162d5981a4e5ffcf6f06129aa1365/km3pipe-0.6.3.tar.gz"
+      },
+      "0.6.4": {
+        "sha256": "ca4b87536c491601ee3f5855917cf7005358e9a6b8b95a803f57c958ed1adf2a",
+        "url": "https://files.pythonhosted.org/packages/e3/ab/97dcb0e4c547a05f5571c266d2bdfd8327f22013f0a45290bbd5b2bb667f/km3pipe-0.6.4.tar.gz"
+      },
+      "0.6.5": {
+        "sha256": "4eb81c791dbdaff1f5bde9e130f5a11da81a1f91764254af247d638fa46a9822",
+        "url": "https://files.pythonhosted.org/packages/a6/c9/0c5f9ac87ec237502b02d49e0bf533cd34b8b6d7ae92caf424eae918d2bf/km3pipe-0.6.5.tar.gz"
+      },
+      "0.6.6": {
+        "sha256": "6a9366fed01686e035466e4d3033c91efd95a6e00fd9a8c5781b7544c694c217",
+        "url": "https://files.pythonhosted.org/packages/bd/a3/ae7cad2521ff89b3803ea08716259015c439df91627348dee63897eb4084/km3pipe-0.6.6.tar.gz"
+      },
+      "0.6.7": {
+        "sha256": "133212486f1686ce468446dbd392794bf4e61496a3ee2496c47c150cf6d0b7a2",
+        "url": "https://files.pythonhosted.org/packages/dd/68/72cab46a5f3cd8ca59a9f0e55fd8078e18a600a51da08266dce05da24ab7/km3pipe-0.6.7.tar.gz"
+      },
+      "0.6.8": {
+        "sha256": "7485ba64f05e0e89deba2d11eb437ced8496cb149e3b2a7fe5391ff9d3fea991",
+        "url": "https://files.pythonhosted.org/packages/0c/d2/d9a2c2741c05d4e7dc96727821b4db7a0d15610108b8e242495b89f29af0/km3pipe-0.6.8.tar.gz"
+      },
+      "0.6.9": {
+        "sha256": "a8307a28cb833372b0f034f6d76741fe7dbd9d120f987bc76cbedf5fbbd13912",
+        "url": "https://files.pythonhosted.org/packages/39/d8/332be437cdd297ff529f510bd9af58f4087a4ab3b20fcb4ef8c454449734/km3pipe-0.6.9.tar.gz"
+      },
+      "0.7": {
+        "sha256": "5f1f799bd02a3cf15326321db2e11cb76aa08a0fc06ae3f23920d1c8ca98cd9c",
+        "url": "https://files.pythonhosted.org/packages/17/05/5f4f39470b4aa1bf3f7f9d2b4e1eb9f76917291046462adb800a4e394068/km3pipe-0.7.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "045f0a11a0ad03fa083a36667a133c6ae8afa8f0c6a245df37a13b69c6fce482",
+        "url": "https://files.pythonhosted.org/packages/0e/a6/6fd3aea706825d7e18980ab95caf4c8b898b75cead7fa94c6eb412cc3103/km3pipe-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "f38758b93443f353668b343980b0a8434ddf3420d0c7be45c986fba86daae79c",
+        "url": "https://files.pythonhosted.org/packages/71/e2/296ff6e0338b61bcb85a613b4e7a2a23c427d0a629bf3d38a4a7c8119168/km3pipe-0.7.2.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "7bdd6dbdd84f2a7de2d9cd709bff15e06aa88e3fb7bf1a20912b78f8a28473d9",
+        "url": "https://files.pythonhosted.org/packages/93/ea/d922eda74c859ad68e58d5397d64e0a88770ca7aef2f8642250d75175b0c/km3pipe-0.7.3.tar.gz"
+      },
+      "0.7.4": {
+        "sha256": "2946413a4792356b3ebf02138d6a54438981599eecb94a265e0b5198697785cf",
+        "url": "https://files.pythonhosted.org/packages/3b/3c/adc1c2eed2162d994779a3047c73af0a857e08d58dbf1bbf033d034e086c/km3pipe-0.7.4.tar.gz"
+      },
+      "0.7.5": {
+        "sha256": "847bb4a31fb16fbfa8883a4e0961ef299d054c815ce56a1d3effb70eab08e78a",
+        "url": "https://files.pythonhosted.org/packages/f2/19/bb7ec1f4a08d4df82d774254ec48ec0b9346e049fcda3969c846de514938/km3pipe-0.7.5.tar.gz"
+      },
+      "0.8": {
+        "sha256": "b30988be12088d8dd006b75f8e7be13d0a23315fd24ec182d25173222b75452f",
+        "url": "https://files.pythonhosted.org/packages/07/34/acb750ed87eabc6034ed554c973f764fb56075ba789bd1d4f2beb69852d9/km3pipe-0.8.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "1f8f28b70f95119a4e277726eb464da06a7255bb815f967ec5e064510cad83a6",
+        "url": "https://files.pythonhosted.org/packages/78/b4/c8bc5499b93824ad2a6c862c40a5f477c3a094f4bd81dc1410986834fe45/km3pipe-0.8.1.tar.gz"
+      },
+      "0.9": {
+        "sha256": "c57e432f011d868095540c44519fbf95c2d227ad9e6d5d06211ac1953da75fbb",
+        "url": "https://files.pythonhosted.org/packages/d5/98/b9791d5a5515df8040fdf4c303f75092e94057193f8164764527e6c3fb0d/km3pipe-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "9b590c1d8ffcf822015534b9940cdfe1df7a01623ec6d805ca318a810b00e3af",
+        "url": "https://files.pythonhosted.org/packages/c1/5a/a8b61e7f9141033e4ba0cbe17cb6bb0e7455eeec2337520c5b772176c906/km3pipe-0.9.1.tar.gz"
+      },
+      "0.9.10": {
+        "sha256": "3c6558778a69af00cb07e93695a28f90ba7881c7fc8db585ffc7671b51871dba",
+        "url": "https://files.pythonhosted.org/packages/7f/17/092d36e0a4f1dee5e1d1ea45049148aac600c60f32eb1dcbb3886e823fc5/km3pipe-0.9.10.tar.gz"
+      },
+      "0.9.11": {
+        "sha256": "81dd6aaa32d0aac2f7a6ccb1684ef58449745b4324739b5d4d7fc422c14697f9",
+        "url": "https://files.pythonhosted.org/packages/dc/77/ff133f6f1942ccbb12d1fe4e18995dc0ae4edead7837d72f7347ea6e011f/km3pipe-0.9.11.tar.gz"
+      },
+      "0.9.12": {
+        "sha256": "c822ba995c4a65143f5a5459a20ed2e168e99a5adda049db8887bdd19a04fbda",
+        "url": "https://files.pythonhosted.org/packages/15/fc/ecb943912b7efc76c41a56dda83ab836165b62af26a42171320d6c7fb5bc/km3pipe-0.9.12.tar.gz"
+      },
+      "0.9.13": {
+        "sha256": "d1707430fbaa29ff2a1ab27c64873c421255e43c4ca29382eeb9363576166d38",
+        "url": "https://files.pythonhosted.org/packages/7e/12/6d0d203126e8c1a4b7a9c9692de86433687fb287850b35e4cca327bac3c2/km3pipe-0.9.13.tar.gz"
+      },
+      "0.9.14": {
+        "sha256": "8f00a6fb9266298aaf0ea83f9a3835d8f5c584248bdfcff4e69b9d3dbb1fcfa1",
+        "url": "https://files.pythonhosted.org/packages/93/4c/5ed0b3fccbad998afac63bdbf3f62be4fac547fdc006a055be8990520125/km3pipe-0.9.14.tar.gz"
+      },
+      "0.9.15": {
+        "sha256": "b149d668de3479a662fec01905d5be146e51da6dab92fa941b2e28a88f769076",
+        "url": "https://files.pythonhosted.org/packages/66/ff/82e1f1d49df5cd5c88b34d7e1491d1789ed651dbc34ae3f5309c78e55b1f/km3pipe-0.9.15.tar.gz"
+      },
+      "0.9.16": {
+        "sha256": "91507b018a6a960c71717bf64c83095b2eb951f33bbcb25f31f3e1a7b0ba8d4f",
+        "url": "https://files.pythonhosted.org/packages/d5/76/c04ae9cfd368bc1db5a7da71626b4483566d7e4eaf00efcf3fba14e9e2c2/km3pipe-0.9.16.tar.gz"
+      },
+      "0.9.17": {
+        "sha256": "880c4fc8891486706db82ee127cd2bb17bb42e838b7f278153e3fe9a9702215f",
+        "url": "https://files.pythonhosted.org/packages/d4/be/e45c9b5ac1eb3c304db66ace72c87853d08ce24ec4cc99a5420867a497a0/km3pipe-0.9.17.tar.gz"
+      },
+      "0.9.18": {
+        "sha256": "40c04c3f6b27357d2646c1955d3750c23088aa6a4b71f0ec074a02327a489604",
+        "url": "https://files.pythonhosted.org/packages/91/de/3cecf2cde2f298e4b3df81067b824509b41adc2d6d2480c2150db8b906af/km3pipe-0.9.18.tar.gz"
+      },
+      "0.9.19": {
+        "sha256": "30a3e9624a819072100a57f286a5daa10f62db0605f57078d018ac0ff3693022",
+        "url": "https://files.pythonhosted.org/packages/d8/cc/2b5bfcfc367f30246174df8528af6901eb0e1643bd43c682533c8e3e5f5a/km3pipe-0.9.19.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "da9a8299bff123e4cce030fc5cc600baddba5fc65981f73f6e83cf54bd0e0da5",
+        "url": "https://files.pythonhosted.org/packages/c8/37/0e8e5e11c2087ac053d3563184c19dbd97e782a8233f7dd3595f00a202f7/km3pipe-0.9.2.tar.gz"
+      },
+      "0.9.20": {
+        "sha256": "8c95c6264cc3c5832e382baad8aacfb59fca3bfd2927033f2cdcbf76ff8fde17",
+        "url": "https://files.pythonhosted.org/packages/2a/6b/0bf1a11a113ca8de143fc01996a543cf4c470b9759d3d21adc7417fcd119/km3pipe-0.9.20.tar.gz"
+      },
+      "0.9.21": {
+        "sha256": "f2121eaab829c9c5ec56358ec4e65c2457059d1c7ce955fa68214b7e162d67f8",
+        "url": "https://files.pythonhosted.org/packages/d0/ea/e64d0580eeffa98cf5d2f8f07f7163a78bbf44b08c02ed24ff083989f0dc/km3pipe-0.9.21.tar.gz"
+      },
+      "0.9.22": {
+        "sha256": "071510f204fcb6122320904b61492e5e957a43d44f1ccbdaa5ab0b5b4232a4e3",
+        "url": "https://files.pythonhosted.org/packages/74/13/32fdea82868eec9a38bda94c02626d54b3c93333e79e63c0efe02842e164/km3pipe-0.9.22.tar.gz"
+      },
+      "0.9.23": {
+        "sha256": "383f7c66bd24dd3c5c578df630d8f96773549d029fad28ed342b3019104f71c3",
+        "url": "https://files.pythonhosted.org/packages/37/d4/0a1c35d3062b1ebe96d23f6e007fab531d11ab74b5e39269ab5e7048e0cb/km3pipe-0.9.23.tar.gz"
+      },
+      "0.9.24": {
+        "sha256": "80429dc19b10f1cf7836dcd8d91c49d0da18f882098068e36d4915e66a0519e7",
+        "url": "https://files.pythonhosted.org/packages/7d/41/e02f85e13e9195e20f2cc0ee9d5db7ac8d8881602ac444da805fbcff342f/km3pipe-0.9.24.tar.gz"
+      },
+      "0.9.25": {
+        "sha256": "367be47239c736600c652da4117c599ce4dbdcc0b18d716b40b52dce02f2ae0d",
+        "url": "https://files.pythonhosted.org/packages/3e/5c/60b06f71f82ed8544864385b2150092b3e909d478e3e16e5a92ddda8164c/km3pipe-0.9.25.tar.gz"
+      },
+      "0.9.26": {
+        "sha256": "441b8922aa9f4b0fe5b7d6c76bb79c779fd1a46c7904cdff17fe022f0a8ce8fa",
+        "url": "https://files.pythonhosted.org/packages/2d/9c/37d13e06e016c1407c922ed47184d9103d87c5861e8df7e9fa6fd9eb6d9f/km3pipe-0.9.26.tar.gz"
+      },
+      "0.9.27": {
+        "sha256": "0066a08274257cd0f453d02ae75530334e8f2d32bd77d9c14e1dfe326c05ec7e",
+        "url": "https://files.pythonhosted.org/packages/71/bd/dd4db2b2ee3816602c96402bb22dc793157ce8334b7e1adac429614da07d/km3pipe-0.9.27.tar.gz"
+      },
+      "0.9.28": {
+        "sha256": "35c81d5a13b016700253952d4aa3e8c1bc077dd06002c41c59d3c8e7b3f12385",
+        "url": "https://files.pythonhosted.org/packages/a8/55/9109f0e0da6c3bdad6c4f00e70cbdcc938ba36349504364b2eff0b9f6ec7/km3pipe-0.9.28.tar.gz"
+      },
+      "0.9.29": {
+        "sha256": "0f80c47768e4ae8bb82c1e51d4fad2917c5d82eb4e4dd9b9e221b46a08667665",
+        "url": "https://files.pythonhosted.org/packages/d3/d5/7025292a17797219e6ddaee4034dc88f46fb1c6f2c81f061374e6b54d1ec/km3pipe-0.9.29.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "8dcb1a76077d42cd8199997812fa427d975bbc832ba3bcff82c32f6b120a6066",
+        "url": "https://files.pythonhosted.org/packages/71/40/30610a11a2b1ef4fafc9fea2dd0accd06751a923b23c35476884dcc2258a/km3pipe-0.9.3.tar.gz"
+      },
+      "0.9.30": {
+        "sha256": "def3c22cee829968010caebab8b974f084c8c065677d5277c668daabe77f77f1",
+        "url": "https://files.pythonhosted.org/packages/92/11/fa29e836dcb37b6360e957f8ada168a98b362ab89c545d3338731eb5dd2f/km3pipe-0.9.30.tar.gz"
+      },
+      "0.9.31": {
+        "sha256": "31a5ce4468cef264d393ca1dd1abe2e1467430e8d0835183cf0eda30724dc987",
+        "url": "https://files.pythonhosted.org/packages/0f/da/22db47f8ceba0d7c7399b1095387c431fd24729803fb92750f47ec5b5449/km3pipe-0.9.31.tar.gz"
+      },
+      "0.9.32": {
+        "sha256": "490dd71e9d8d8ae8b7289cbdb240abfe6b7474aa05456b9292dc808e11f4ddc0",
+        "url": "https://files.pythonhosted.org/packages/25/aa/5b83f77edecacc6b68689f12a7fa2d778e3b40d582801569c76ff336b37a/km3pipe-0.9.32.tar.gz"
+      },
+      "0.9.33": {
+        "sha256": "6605efa39d624f19ef37e187226fa9afb6e60a69664441463e247b1e3d55df9c",
+        "url": "https://files.pythonhosted.org/packages/b1/3a/2db74f5cb1b911155ad94f76756d4e9e4bc5a2f738fef301f40ba07d1f47/km3pipe-0.9.33.tar.gz"
+      },
+      "0.9.34": {
+        "sha256": "99226b6ad47fa588e9bb0f3b457c1ec87bf3ee47ae963b98c9488ab4a290dea3",
+        "url": "https://files.pythonhosted.org/packages/8f/36/3cd20a2711b8d842eb66d3bd1778d7fe54b9638d62b31cd4e1a0623d974e/km3pipe-0.9.34.tar.gz"
+      },
+      "0.9.35": {
+        "sha256": "50e87f9f02fb19f5dabe7e7645dcd9847e31a77f7aa6d1464894067d1de7aea5",
+        "url": "https://files.pythonhosted.org/packages/07/9e/7a4bd13e0564e0b2d09b18a1758ae55df4b619e4b6885ad9d3245611f766/km3pipe-0.9.35.tar.gz"
+      },
+      "0.9.36": {
+        "sha256": "ef52fc732cd5180e1e5b098328995822d28d80f6afae2c1e7d63b42f5597acc9",
+        "url": "https://files.pythonhosted.org/packages/72/fe/d022401b6556a46e99f4cadfd010b58af008236aef420b62d40ebb9cd1cf/km3pipe-0.9.36.tar.gz"
+      },
+      "0.9.37": {
+        "sha256": "19359be7c31dbacac9f2d39ff4ef4f4be1003b5e4df984f633b9f0323767d9c9",
+        "url": "https://files.pythonhosted.org/packages/72/4a/ce503e166e6dd68fd72c8797dea7ff250f330fe1a9a654ebe2b8554a1014/km3pipe-0.9.37.tar.gz"
+      },
+      "0.9.38": {
+        "sha256": "c651c4e4fdf65e75f3503ffd0ee4c67214f03ac3dd4e6e2a25c5873f0e242637",
+        "url": "https://files.pythonhosted.org/packages/de/ca/6ea5097214fb23abea990563d742be9ef01e4ad6eff29b379ecbfad697ee/km3pipe-0.9.38.tar.gz"
+      },
+      "0.9.39": {
+        "sha256": "0d44174dbd3830a5fe646631e6d316cf18a0f50675b8961f8557956f2d7c68e5",
+        "url": "https://files.pythonhosted.org/packages/fb/7a/c221181806c1b418b959578c26e877ae97d621f4f4454bac0f71b0bba45c/km3pipe-0.9.39.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "c7a45bccae18d45e764f6eeb0a92ed4281f0417f1e15ce70cfbb566f2a390751",
+        "url": "https://files.pythonhosted.org/packages/fe/49/23a96c16893fab9982ef11e3c6a70a002bc054bd47dbac8eb4963045e968/km3pipe-0.9.4.tar.gz"
+      },
+      "0.9.40": {
+        "sha256": "b42f6c8d040f80ea6634954a3b0a3a99a3830c7a00cbed72cbc1d99bb93658c6",
+        "url": "https://files.pythonhosted.org/packages/27/d2/960ce1a7edcdde771b476e415770ff61bfe9aec33902a950c9f6244e544f/km3pipe-0.9.40.tar.gz"
+      },
+      "0.9.41": {
+        "sha256": "3b476ad17162e27fd34484acbc6d70152fac8dec37f6244f15e796603e22aed7",
+        "url": "https://files.pythonhosted.org/packages/05/5f/e2c2aed66f571d88d433e67956b6ec0aa16eee8618d3313a296680518345/km3pipe-0.9.41.tar.gz"
+      },
+      "0.9.42": {
+        "sha256": "03fa2799de98347a4c1dc725618703c18134d432ee635b57a7b1efee2ca37b1e",
+        "url": "https://files.pythonhosted.org/packages/bc/23/95a0cd9353ca3e555244b859bb4046d33c8a9ee2287cca267e98b8855b17/km3pipe-0.9.42.tar.gz"
+      },
+      "0.9.43": {
+        "sha256": "b5e72abe79cb9e05d376ab5a92dba3feff72274ccbb82fade2e6d48f42780a98",
+        "url": "https://files.pythonhosted.org/packages/5b/24/d2fb44fa7695576175eee570ce9f8f76c44fb4741c346e9ba5643d5dbaf1/km3pipe-0.9.43.tar.gz"
+      },
+      "0.9.44": {
+        "sha256": "4e3f71997ef855ee45c5c8e6d6b2e99308e5995454226a131d914a5a400c49ff",
+        "url": "https://files.pythonhosted.org/packages/eb/db/73fd8eae089db46d70dfdff6826144865c3e8698267d1a97768fdfe885ec/km3pipe-0.9.44.tar.gz"
+      },
+      "0.9.45": {
+        "sha256": "a5cea16895175a7d83d5177354f72db2c0c2ec445ca57d1c1a0cff225b4de4e6",
+        "url": "https://files.pythonhosted.org/packages/fa/2e/a8ccd4a9e3d4e35807d1f670c8e2a7820d27b8c3dada22f34d2a2029e3d3/km3pipe-0.9.45.tar.gz"
+      },
+      "0.9.46": {
+        "sha256": "41de037b9d272d7811a7304d9d8b8e419c4edbeacfdd8cea7dc03354adfd1777",
+        "url": "https://files.pythonhosted.org/packages/eb/27/1b25f1b75e5544d96efd02d9d77b68a259309a85cecb8587812c07e1b971/km3pipe-0.9.46.tar.gz"
+      },
+      "0.9.47": {
+        "sha256": "a1e2958c06172cd3a7b213894d49d3e756641561a403732294b0afd87072262e",
+        "url": "https://files.pythonhosted.org/packages/27/59/aa201c2d2250a5a6a339a5adac0d4d3b8ad5488f6093cfa006e4a3ceea06/km3pipe-0.9.47.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "82f7c28f36951be036be3e0b8ddfed98157f87732e3ce70c037a3088d12f0afc",
+        "url": "https://files.pythonhosted.org/packages/37/03/dac68b0c53e249a74f5da24bf288741f103d55e864910940a5347b62a27d/km3pipe-0.9.5.tar.gz"
+      },
+      "0.9.6": {
+        "sha256": "0e27af180d239ea471c8d906046b2bf9b74f9be4c5f9623723cc36d8e7bc2d2e",
+        "url": "https://files.pythonhosted.org/packages/4f/41/2f856d397fdd33977b7fa5ccbe634df9615e4f30f6d497f3fb010d14fd60/km3pipe-0.9.6.tar.gz"
+      },
+      "0.9.7": {
+        "sha256": "e7d5c58d5a008a0d034a733c4a1bd88b8b04c4818cf577bcdb22981ca8b599bf",
+        "url": "https://files.pythonhosted.org/packages/30/c2/ceb370b20be8dab1d7b94236410088f15ae75b4038bc8c8f42ca9d0f1731/km3pipe-0.9.7.tar.gz"
+      },
+      "0.9.8": {
+        "sha256": "5dbb9608dbb6d350c1038dc3a53a68b7305f6e45a758874ef388c78a1d930984",
+        "url": "https://files.pythonhosted.org/packages/17/cd/0b44cf7535830de87dbecc42c5dd877725740fc241601d086c3b9eaa88ae/km3pipe-0.9.8.tar.gz"
+      },
+      "0.9.9": {
+        "sha256": "0124df18646cd6019ac5b7422a3ac38f729be18a7d4c3a6b3a8b4f16dbc50414",
+        "url": "https://files.pythonhosted.org/packages/5e/72/28f6a0559ab46da7bcf1f6eeb24a23ffc1cff3389ee83a3acabf27204f79/km3pipe-0.9.9.tar.gz"
+      },
+      "1.0": {
+        "sha256": "87eaeb8edbdeeeae4ad622bcd3a8dd06719d5efe557d5d7d4572faaae8b01ef4",
+        "url": "https://files.pythonhosted.org/packages/52/2b/990b9dba16ead5ed2a516f422b39c2f3c831b7b6bd379b4d1e2bd7539c24/km3pipe-1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "dd681957e9bb97cacf108ccc8ec918e32e0d47a440c3cf2eafd1bb5b9d21c889",
+        "url": "https://files.pythonhosted.org/packages/06/46/351612c2acc190b05f8044aff390baabac46f97a77229e0d8881178ac325/km3pipe-1.1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "0396ddc108a7ebe20e417e6d18055b42aaf44588244ca5f0177a40ada21c482f",
+        "url": "https://files.pythonhosted.org/packages/13/44/0e8840c8110e90151fcf5d0d62bcc57abd43853fa1a46d8b18bcc46a8cb3/km3pipe-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "04977323828fed92fd144f719306368408f8bef654d1c030301b867c5a0d7807",
+        "url": "https://files.pythonhosted.org/packages/da/5c/e8b356fe9bca16a5875faf8015568276ee3617e1539864ba346bc8ecba71/km3pipe-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "4cf0a3df1e6967cdd8fad4a2e4227c72f263520907b501be66ccd9640de59328",
+        "url": "https://files.pythonhosted.org/packages/61/c4/245372f0602a2db2edc9141fa887b683f7a1e69c2d8de57418ba441e840f/km3pipe-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "2f1e2071302834bf18fecb986087889eac603e2d13ffd2f8cdf8feb7c2eff522",
+        "url": "https://files.pythonhosted.org/packages/0e/1b/26626e0316984437965c5f94fa70d96580ded05828e829088c79c43a0ebb/km3pipe-1.2.3.tar.gz"
+      },
+      "1.3": {
+        "sha256": "04e03bcff0769326fdcd0d282a7c8c199f9d9805146338e03fed5d57a92f9f38",
+        "url": "https://files.pythonhosted.org/packages/fb/39/57f58659609ba577c9be9ecc4e9652f792e9ab34cb6df0872f28dc5316f2/km3pipe-1.3.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "9f6d1a8bd129811dba63c9415a51e94569810a9bfbbe624c06ea8c63d4d281cb",
+        "url": "https://files.pythonhosted.org/packages/1f/ff/ab41966ac4286d017be22743e12c47fa8acfb6f10b7a6e0588de60ec8312/km3pipe-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "6a7459c80070512ba9e832307bba3bbe363c44bca3d7b72c10649df8c118b3ef",
+        "url": "https://files.pythonhosted.org/packages/fe/06/72e844268f776794c0454eace7d156a1f6260da933117260505d92d7de7d/km3pipe-1.3.2.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "9123e876466be35eddf30eb6f8265776d70b13ad50684badae2dd90af84e08b3",
+        "url": "https://files.pythonhosted.org/packages/e9/d9/d79d05bc4e3c298e7460f2a4a37f98dcc5b8be923c9d29dac513e11b8fb3/km3pipe-1.3.3.tar.gz"
+      },
+      "1.3.4": {
+        "sha256": "9d8a58f5f82d136b12d4339f536ad158ea70103bc50f1eb0ee01f1c9408c0df7",
+        "url": "https://files.pythonhosted.org/packages/6a/cf/92049f873cb08c6af3897244352bbe94d0295b4fc80551ad64132f887bb7/km3pipe-1.3.4.tar.gz"
+      },
+      "1.4": {
+        "sha256": "fc7cab1b6e01d6ac1f3975fcee0ecf5c4402298b3de2b3460afd838aab324298",
+        "url": "https://files.pythonhosted.org/packages/f1/1b/563a14bde2695c357393dd9c7012db1fac46a3d4a838207c0cce2e0ce096/km3pipe-1.4.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "0a75f93d58299aa7ad845b5c329aa8335658b2a95071b530e28d447bc63466d6",
+        "url": "https://files.pythonhosted.org/packages/17/ad/ce17b3b5768d8ccac97d2e7392d66d13f9518b79be2a05b70162c51827a4/km3pipe-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "058ae6260b633511c34a5e5c978f2f100a26eb24dd3f4b633323cadf959e54df",
+        "url": "https://files.pythonhosted.org/packages/9b/bd/f53ff61ff36e775e22285f3a4917e144aeadece542a82a1216542a40245c/km3pipe-1.4.2.tar.gz"
+      },
+      "1.4.3": {
+        "sha256": "add5f38f20d02477e5aec18b881e601b0b40f4217fcb29b25676ee44c5f0a8c5",
+        "url": "https://files.pythonhosted.org/packages/71/1e/79bee3a10235ce6824628fed31eb658f61569314d3b5d7bebae4531a0c95/km3pipe-1.4.3.tar.gz"
+      },
+      "1.5": {
+        "sha256": "6b012f628ccee554b0fc53227b2fdca0c06503c261e9ecac326720d6f68fe482",
+        "url": "https://files.pythonhosted.org/packages/c6/d1/37a5612ef769eeff7dd556b12671d8080d515a294ff34fe6d305d28dff14/km3pipe-1.5.tar.gz"
+      },
+      "2.0": {
+        "sha256": "db944bbe1d0e4bb53c9df2e2c5622134ebb0af7ed1f7d418fec84b3c071d018c",
+        "url": "https://files.pythonhosted.org/packages/a5/47/95331317eaaf0a4317777d0e385ed4f1a1b4b7ae54093cba25147dee8692/km3pipe-2.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "230ba9d3202514731dcbb63b72ad5a7d37585cd35a1b1c291ce209a2556b2789",
+        "url": "https://files.pythonhosted.org/packages/65/9a/b3ce0d07875814d62cd4dfef951c9d1cb9209d6835df7c89f75122ab10f6/km3pipe-2.0.1.tar.gz"
+      },
+      "2.1": {
+        "sha256": "5c91c88c61a66a4a8c38be11d5b7f860e375a5db8fb84e688fb240957b3aa566",
+        "url": "https://files.pythonhosted.org/packages/72/5c/68d198553efd248c5f2b7e4b0f013d8741c88651b6baebb9019af125eadf/km3pipe-2.1.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "f3d2e25f2026f378a0b18314b8897edf974aa923ab0c624d2d6960530ac4a4e8",
+        "url": "https://files.pythonhosted.org/packages/65/1b/0106bed3a5fca03ec487deb880b746954ff757078068f14da4872f24c6c9/km3pipe-2.1.1.tar.gz"
+      },
+      "2.1.2": {
+        "sha256": "20fafffa16099364821eb44fc227267fc55a64cdceff70a6000d65efaf95bf46",
+        "url": "https://files.pythonhosted.org/packages/5d/00/3a59f88717bf7c5617d31c34ae44626f0d1b68b91f8140ea90af970cf78b/km3pipe-2.1.2.tar.gz"
+      },
+      "2.2": {
+        "sha256": "fe224879333b6474bdd943be77c2feb497ce8a1a05cb8b2815a07498a00ace99",
+        "url": "https://files.pythonhosted.org/packages/13/75/a48006914470589c20fb38d8e4087ec3e59eefdf65e22580d85448050fd2/km3pipe-2.2.tar.gz"
+      },
+      "2.2.1": {
+        "sha256": "af96f01b555f9da01d8a0552a10f8a43e23673b8b12877c6049bc903583e440a",
+        "url": "https://files.pythonhosted.org/packages/ae/17/68b1ecdb80fe60dc319b88914836e30ca4eea0d02d71eb3268355e20aa5b/km3pipe-2.2.1.tar.gz"
+      },
+      "2.2.2": {
+        "sha256": "23e80d0f865ed9a15ce8458de9a8687f8de8511e0b828f07943791bcf99b81fa",
+        "url": "https://files.pythonhosted.org/packages/82/e8/4b8edc55acfc3d9d9507a82a3c0ec99eb123042754b3f338bbef8583e224/km3pipe-2.2.2.tar.gz"
+      },
+      "2.2.3": {
+        "sha256": "3255057f0382845cd1154769f707a43653cf66cb5f72fe743f8a4628f126656a",
+        "url": "https://files.pythonhosted.org/packages/0f/45/a18020848ad3f11463f466d579cf532a4d3485a6f2c98c1d47674e4ea4a2/km3pipe-2.2.3.tar.gz"
+      },
+      "2.3": {
+        "sha256": "2ad2e3243460789e713b0cbd9e042ab17e030492035dea236bb535da3aeadcd1",
+        "url": "https://files.pythonhosted.org/packages/fb/fb/8fdb6bced8b295b9a062acd8d4eab0e24bdf0ed7c06825935db96fe33e3c/km3pipe-2.3.tar.gz"
+      },
+      "2.4": {
+        "sha256": "97a601a90250372f638047c669f278cac2d6299cf2e7e82f8f615b24ae9fc419",
+        "url": "https://files.pythonhosted.org/packages/45/1a/4bac8871519175b5dfd2b74b68f838cbdba58ebd268bcb5a9e69239198bf/km3pipe-2.4.tar.gz"
+      },
+      "2.5": {
+        "sha256": "6b207337b6daf364f87c3b5a626e77c0bdce006382a17652a7c48faf2713116e",
+        "url": "https://files.pythonhosted.org/packages/32/eb/94d7a4c93ab6fc38c392e398887a835d4646f6795ea5fdbdbbe3751c64ea/km3pipe-2.5.tar.gz"
+      },
+      "2.5.1": {
+        "sha256": "1e62f079a5097518010933a7ca3a1f25dd6f8230fb585cff9682a24e3dec8a7a",
+        "url": "https://files.pythonhosted.org/packages/ef/5d/652cdba20e471cc10ed0bc5f0ba801f5048308f30371441c8247b4548c81/km3pipe-2.5.1.tar.gz"
+      },
+      "2.5.2": {
+        "sha256": "84417cb3627a0700d6b1c89c18dd9ced3f3f67edd6a5a332ca3675ea87918632",
+        "url": "https://files.pythonhosted.org/packages/6c/f5/a534b8f3dc0b0808d5c7a70bd75ae2c0fc8cd1b3b4ea01aa8aa5d40373c8/km3pipe-2.5.2.tar.gz"
+      },
+      "2.5.3": {
+        "sha256": "267439b6fffdddd5758ee07aa2f41109f549be5c9d310ef0f1e76467f7a100a3",
+        "url": "https://files.pythonhosted.org/packages/5f/9d/00a4e542e73ad858d40464142e024146bbf8aeb4eea724fc8d3c66d9d571/km3pipe-2.5.3.tar.gz"
+      },
+      "2.5.4": {
+        "sha256": "599c384bd60bba8b4712515769e03946c2cc27f1b3b440284bd91436a106ee7b",
+        "url": "https://files.pythonhosted.org/packages/c4/5e/b27d0a36da74d0b77315bf12d193ead36c7349bfbb804c206b95f390c43d/km3pipe-2.5.4.tar.gz"
+      },
+      "2.6": {
+        "sha256": "8e2647f19cac1736606af160c85f1d6333e774fe9422810f5ec09d4800664408",
+        "url": "https://files.pythonhosted.org/packages/87/23/cb4c967a5a619ca17e4f1671f8a1d9a7efbbd615ec9a42700e6f971d53f4/km3pipe-2.6.tar.gz"
+      }
+    }
+  ]
+}

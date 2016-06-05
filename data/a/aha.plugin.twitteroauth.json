@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.93bdev"
+  ],
+  "meta": {
+    "description": "A twitter auth plugin for aha",
+    "homepage": "http://coreblog.org/aha",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.91bdev": {
+        "sha256": "e85e3ce62d76673bb7ef60bc1e6aa3be4f4eb741a0925fdc2fe6221873bb9bab",
+        "url": "https://files.pythonhosted.org/packages/ec/0f/e79879ea98b733db93ef8ee371aacda68c888b537af8d261ab07159f78bb/aha.plugin.twitteroauth-0.91bdev.tar.gz"
+      },
+      "0.92bdev": {
+        "sha256": "f5d349de074e75b47c298422f4391e3a1f6bd03a7645c11067b8292ba2abd819",
+        "url": "https://files.pythonhosted.org/packages/7e/57/29691ded4e7f2beda5d68e634bc6490fd40d6421c1e2dfe5739104cd725c/aha.plugin.twitteroauth-0.92bdev.tar.gz"
+      },
+      "0.93bdev": {
+        "sha256": "b0c4968a8e60f0342a589124637bfd0412047931b7fe6dbf04fdb33eccb072fa",
+        "url": "https://files.pythonhosted.org/packages/50/5a/173e0d259ceba8e4b255bc6e6d2eaf8d5552e05fc2642d7c24ce9813e746/aha.plugin.twitteroauth-0.93bdev.tar.gz"
+      },
+      "0.9bdev": {
+        "sha256": "f4f06f30961d245f6f78ad8a367c59ca3083c8f83ca4069c0794a1db8463f1c7",
+        "url": "https://files.pythonhosted.org/packages/b6/fe/b6005137954aa2f979de92aa7575712c0fb935fc85a4201b181a0e45d38e/aha.plugin.twitteroauth-0.9bdev.tar.gz"
+      }
+    }
+  ]
+}

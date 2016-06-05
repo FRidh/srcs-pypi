@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "TCP Remote Top is a tcpdump log visualizer for outgoing connections. It allows monitoring connection/transport latencies as well as QoS (Number of Reqs served for a single connection) for keep-alive sessions. Last, it attempts to detect kernel dropped packets so you know whether to trust the information displayed to you",
+    "homepage": "UNKNOWN",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "d2e99b889128f1b3b60ab90dff81a8c4036c7f28359022d0458db7b7290d65bf",
+        "url": "https://files.pythonhosted.org/packages/83/4a/ba730bb8bd621d19e7b8307d266f8b3c8f25854e0ac4e7c9811bd02ff0de/trtop-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

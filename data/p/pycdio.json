@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.20"
+  ],
+  "meta": {
+    "description": "Python OO interface to libcdio (CD Input and Control library)",
+    "homepage": "http://www.gnu.org/software/libcdio",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.14": {
+        "sha256": "a1209ab3f2bf5ce2743f27b598c0271f52b2eddd11430a0f3475c3a13b588fd5",
+        "url": "https://files.pythonhosted.org/packages/12/48/db9834aad864ee9814bbc6636d6d9f9538310cabb59db760b7b93ce87b6a/pycdio-0.14.tar.gz"
+      },
+      "0.15": {
+        "sha256": "0f7a0f8f0bda987b01dd3233d5ab936bcb478aafe88900f40e46d58514ecb5e3",
+        "url": "https://files.pythonhosted.org/packages/e5/97/0fc9058856a3ad672c6c1d5d93dce8ab3ea0545f95ea8d0657a741e2d45b/pycdio-0.15.tar.gz"
+      },
+      "0.16": {
+        "sha256": "ab7f1a846741bc57528939354a26d8b87c8d69a719bf4ab807f9592c96b64d2d",
+        "url": "https://files.pythonhosted.org/packages/1b/2d/20323a098db74b27e67ee05f1251be158afeaa71533a973824e546325dce/pycdio-0.16.tar.gz"
+      },
+      "0.17": {
+        "sha256": "709e0cf360074ca759135ccbe4e1b9c10c91083f6a1b3c8077fa017d59714224",
+        "url": "https://files.pythonhosted.org/packages/d5/ca/1efc2b060ad7f6925fade492f54b7be9e4b7150ba7abc3ee233ed01b8710/pycdio-0.17.tar.gz"
+      },
+      "0.19": {
+        "sha256": "9ecccf1f1311bf4cf23588b46e6f2a27bc97f9f5c9e2968d84680b561a076f81",
+        "url": "https://files.pythonhosted.org/packages/b8/f8/a300e6879f5b3500cc5422dba3c7070f7e780966221bf5c108e15d2ff364/pycdio-0.19.tar.gz"
+      },
+      "0.20": {
+        "sha256": "24b4985b699fc4d12c2d49f7cb25a1ceb65d69278d18458f7b041579c71030d7",
+        "url": "https://files.pythonhosted.org/packages/b0/c3/7079abc365dedb94a4c96541548891ec0a72d644e7799231106b8f4fd69f/pycdio-0.20.tar.gz"
+      }
+    }
+  ]
+}

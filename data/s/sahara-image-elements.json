@@ -1,0 +1,50 @@
+{
+  "latest_version": [
+    "2014.2"
+  ],
+  "meta": {
+    "description": "Image elements for Sahara",
+    "homepage": "https://docs.openstack.org/developer/sahara",
+    "license": "Apache Software License"
+  },
+  "versions": [
+    {
+      "2014.1": {
+        "sha256": "52215b53b191892615a7dc0674485196293b24bb7dfdeab1c9d17572b8a128e3",
+        "url": "https://files.pythonhosted.org/packages/38/95/5d41f50a5b34ee555605ddbd0034fe2219896af59769dd93c6424497d95c/sahara-image-elements-2014.1.tar.gz"
+      },
+      "2014.1.1": {
+        "sha256": "8fe5cd009e10c893e10f15cfc79361c9bbc4f93450269a1854f4baefe209e457",
+        "url": "https://files.pythonhosted.org/packages/79/75/448127c875351841d8addaefd32ac784266f00c592efd2bcf9b2f5ec9ca7/sahara-image-elements-2014.1.1.tar.gz"
+      },
+      "2014.1.2": {
+        "sha256": "060a096dcd255cb7b7b8fb80174fd2f6733922ef1321cb06a197242cdceb9110",
+        "url": "https://files.pythonhosted.org/packages/09/72/65a5f130b2cb9ae7adbacccabd1820f84bb004db7cdab3ac8e0e19537c81/sahara-image-elements-2014.1.2.tar.gz"
+      },
+      "2014.1.3": {
+        "sha256": "43d11ff347cf847b128bc622afaf51e8e83e11dabd3c881b4e987aa410b5f73b",
+        "url": "https://files.pythonhosted.org/packages/b8/72/949d2e0306f769fcab73182f9aadc0fdf3123b1f1ae3a16fa7fe9ca98697/sahara-image-elements-2014.1.3.tar.gz"
+      },
+      "2014.2": {
+        "sha256": "0f46d0ee900869b239864f13d459c5dd155c6787170fe48e48af0e99c229b9d5",
+        "url": "https://files.pythonhosted.org/packages/2e/b9/575abaad641afa6844734de4c20b8df934b18031d3ddeed593b24906b8d5/sahara-image-elements-2014.2.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "83b672664d5d59ed0115decc1909a08902ca81b905252cb2686792594abed815",
+        "url": "https://files.pythonhosted.org/packages/40/1c/9f856e133aca10104c7cb13cad07a6a1e9a350ab7ca2fc728147c295593f/sahara-image-elements-4.0.0.tar.gz"
+      },
+      "4.0.0.0rc1": {
+        "sha256": "b1b9e46b48b797edca83e80af8b0525de6446944dae43abf7f063607672b5202",
+        "url": "https://files.pythonhosted.org/packages/67/59/796d2aa3b4d9588bed4bd06f46936191d55e6cdffc3111f911d4ef843b15/sahara_image_elements-4.0.0.0rc1-py2.py3-none-any.whl"
+      },
+      "4.0.0.0rc2": {
+        "sha256": "d500ce7e5906d2a62d859b13ad523a0b6015d3cb529d35975b268b1f8d214a2b",
+        "url": "https://files.pythonhosted.org/packages/0c/63/2e7dfa3770717c25717628350c9108cb88564943c8943e2c9ca12bf4481b/sahara_image_elements-4.0.0.0rc2-py2.py3-none-any.whl"
+      },
+      "5.0.0.0b1": {
+        "sha256": "2b3cc1d2b7eaed18ec23f1e9c9bd92c79a1366b136f0170a207b11d764161b8d",
+        "url": "https://files.pythonhosted.org/packages/37/f8/eb4849f2f01df237ac382ec6d86c35da43854be22b5c7f22f073699ea10d/sahara-image-elements-5.0.0.0b1.tar.gz"
+      }
+    }
+  ]
+}

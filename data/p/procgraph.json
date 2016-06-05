@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.10"
+  ],
+  "meta": {
+    "description": "ProcGraph (\"processing graph\") is a Python library for rapid prototyping of processing pipelines for logged and realtime data",
+    "homepage": "http://andreacensi.github.com/procgraph/",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "1.10": {
+        "sha256": "2e132fb25fb488f72900cdc45e816f6bf2606a942ae9d6ea8b19cb5d9b3e0d3e",
+        "url": "https://files.pythonhosted.org/packages/22/25/dd47a41dbb29a16c5af3b298bca95911d64e60c037b656f7222352d8db2d/procgraph-1.10.tar.gz"
+      },
+      "1.5": {
+        "sha256": "f9fbd164dff9f5228428ab5161826a866e200a3d5d95ea46159160ad2a21f206",
+        "url": "https://files.pythonhosted.org/packages/1e/4b/dd8c9ade71837b8cb1390a979ffc6350cf7c771579559cf7695885dc867e/procgraph-1.5.tar.gz"
+      },
+      "1.7": {
+        "sha256": "2c84728e32c438c598588754db7355912968c8f6ae4ba46a789b4564b728d52d",
+        "url": "https://files.pythonhosted.org/packages/78/5c/242d880a39cb89ac997f9b5a363b241c93c5fb85fb573c336b3b10293381/procgraph-1.7.tar.gz"
+      },
+      "1.9": {
+        "sha256": "3162f07f06af9b80e7329710bdfdb94952e107d6436fa858b1ea30f2264cce48",
+        "url": "https://files.pythonhosted.org/packages/e1/e0/c6463aa4e54c50a6edd8c73f3dd11985dd323c708d280d8cbf5f05b2209d/procgraph-1.9.tar.gz"
+      }
+    }
+  ]
+}

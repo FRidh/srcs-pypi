@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Very lightweight, memory-efficient (uses generator\nprotocol), dependency-free anti-ORM (Object-Relational Mapper) for\nMicroPython. Using this module, one can simplify typical database access\noperations, without trading well-known SQL for an obscure and inefficient\nORM pseudo-language",
+    "homepage": "https://github.com/pfalcon/uorm",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "101035569d9944b233e12c63588fdf89fc118d61c99cd5c5ddc18c491b9db84f",
+        "url": "https://files.pythonhosted.org/packages/dd/f1/4e795aa8007509889a16d1fa0992f46921392ef8aef85fc3e794065c6618/uorm-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "242193a70787a272784f368ee353506ff717504e702557bd91a24ada5296aa05",
+        "url": "https://files.pythonhosted.org/packages/72/77/053a5e8cdfb2f122e358b22ead083873fb07e17f7990bd7fdba7adcf3b94/uorm-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "b1a66a24f6a7fd6e6fbcca6a842781b999f5bf7d7bcfbd6e5ec87ab01f1dd6de",
+        "url": "https://files.pythonhosted.org/packages/f1/17/b11c700e557ac5620158a4b9e271c1adc45f5b129110542a70764e9e597e/uorm-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "88062817f0c4c426f679cb2ab169c97dffa2b8670ef2edbd2fc7cab2166ca844",
+        "url": "https://files.pythonhosted.org/packages/6c/0f/5da505f69b7d3d74d876217d4894283d0f64dbc35a10bdb5ce06be7a3456/uorm-0.2.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "b04f29a6a8d38bd3306deabae30926c0a373fd6877e7ddb846cb1bfa04610420",
+        "url": "https://files.pythonhosted.org/packages/a8/fc/907a108db0deb861009984f87e6774ba45c02fcf35545d70c1d5c2b7378a/uorm-0.3.tar.gz"
+      }
+    }
+  ]
+}

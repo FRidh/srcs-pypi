@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.81"
+  ],
+  "meta": {
+    "description": "a python interface around the ECMWF-BUFR library",
+    "homepage": "http://code.google.com/p/pybufr-ecmwf/",
+    "license": "LGPLv3"
+  },
+  "versions": [
+    {
+      "0.80": {
+        "sha256": "86aed18128f77c80f709da7f7dfe7b02ccd9b620d468d259df7b673474e8bcf2",
+        "url": "https://files.pythonhosted.org/packages/7f/9a/7784a1b336e7199535c841c563804b3cf0aa2e50aa3935d0ed1b1e0ce8fe/pybufr-ecmwf3-0.80.tar.gz"
+      },
+      "0.81": {
+        "sha256": "b4027e018188a1ea29ab3fb5374087bac569c290335a1d5cde8356b446069435",
+        "url": "https://files.pythonhosted.org/packages/be/14/c05a08bf204a3f9c728c3777999e58f953fea67d02d1aeb04584acbb665f/pybufr-ecmwf3-0.81.tar.gz"
+      }
+    }
+  ]
+}

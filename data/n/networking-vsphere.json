@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "2015.1.1"
+  ],
+  "meta": {
+    "description": "A set of Neutron drivers and agents to manage vSphere clusters",
+    "homepage": "http://www.openstack.org/"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "b738b1387b7699c24abe6cc30ad734b45ebc1b5eccdc89849a8fec1a6bd19044",
+        "url": "https://files.pythonhosted.org/packages/9d/c2/2502a75530428e5e70b44bfd25679c1dbfcc88e0553275508aeaba3671f7/networking-vsphere-1.0.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "5b8a404d53268d39ce6260eb52c00c1f8db7b93592ffd257842712732e6ae744",
+        "url": "https://files.pythonhosted.org/packages/b5/62/39bca9b9af8eebc99b5418134dda5ff9d66150d089c6a76c725569579be5/networking-vsphere-2.0.0.tar.gz"
+      },
+      "2015.1.1": {
+        "sha256": "6bd965320cedd4d584ab175fbc8e6d68b364c0dd54753c3469d8069868a202bd",
+        "url": "https://files.pythonhosted.org/packages/88/38/11541d35ef4c4ff96d059c4363eedffc127cd8c0c8147be28582b2b016ce/networking-vsphere-2015.1.1.tar.gz"
+      }
+    }
+  ]
+}

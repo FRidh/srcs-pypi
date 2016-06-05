@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "A wsgi middleware to generate and serve image thumbnails",
+    "homepage": "UNKNOWN",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "cf0468fbb60d6dec15f15529959f093b84eed596c1420f3cbd6e3025362aefeb",
+        "url": "https://files.pythonhosted.org/packages/89/34/c08fbb945eeb1081b70b2bf5ac318b58700b9ccee37d55423fc74bb93fd8/iw.thumbs-0.5.tar.gz"
+      },
+      "1.0": {
+        "sha256": "643ec70d890b486ea5d868addb6caee94fa83bf88247271d714c38a451c616a6",
+        "url": "https://files.pythonhosted.org/packages/31/b4/572ae502c6ae9516726995c9699e618181cff259f85c15b964d7a31c4f18/iw.thumbs-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "dcc6d682c9ad4e4c83aa7e74863736298f4ac654d2a32fb86c938a8295b7fdbd",
+        "url": "https://files.pythonhosted.org/packages/51/f5/0d9353fab4af13dea12fad7e8859877ef89f5bcea8de5a70da008c852c50/iw.thumbs-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "2c0322b01759904acf714c561f54ccf4008d9ac555dd2b26465b6e9b01ad72e1",
+        "url": "https://files.pythonhosted.org/packages/99/4b/1b37076432ddf40afae7b48788705fe1c132628cd0ddece0743342ce7d32/iw.thumbs-1.2.tar.gz"
+      }
+    }
+  ]
+}

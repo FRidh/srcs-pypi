@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.0a2"
+  ],
+  "meta": {
+    "description": "Collection of utilities, helpers, and principles for building Python backend applications. Supports aiohttp.web, Flask, and your web-framework",
+    "homepage": "http://github.com/playpauseandstop/rororo",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "0.1-alpha": {
+        "sha256": "78e89daddd31cab3e020937f8fd3f0021fa8baa283197297c816f7e600f91c0f",
+        "url": "https://files.pythonhosted.org/packages/83/d2/0485b7a83a3637f4ce615a787a0be6ed3675d77ef0a058bfd5ce2f2841f5/rororo-0.1-alpha.tar.gz"
+      },
+      "1.0.0a1": {
+        "sha256": "30df1eb7ffdf41f464cee7bd80699693c73e6ee10932c2c319a336971033edc2",
+        "url": "https://files.pythonhosted.org/packages/a5/85/de58951625cab54ceda43ef4660b7068ba76466996e14f60167863b66501/rororo-1.0.0a1.tar.gz"
+      },
+      "1.0.0a2": {
+        "sha256": "528a7f395c6dfabfd7a42cff3f9ace06875e4d7e7d25c6b36af06885801815c8",
+        "url": "https://files.pythonhosted.org/packages/1d/19/34d4a747f7a3ed03f8dc5bc8f7ca8fd3ddaac11af8753508a33e37f8d5ef/rororo-1.0.0a2.tar.gz"
+      }
+    }
+  ]
+}

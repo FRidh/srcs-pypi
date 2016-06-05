@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Client plugin of the MapFish Framework",
+    "homepage": "http://www.mapfish.org",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "b3ddc3c36743d7a30e8ed144186cd58ca403f5bea3c36585fdf28cde66f5698f",
+        "url": "https://files.pythonhosted.org/packages/0c/60/6ad23210bad594bd8832ac848f2f1fe3709cdbb60c8f5d23ef46f03ee84e/mapfish.plugin.client-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "4d81c3847461aab2377c36bd834b4871b9cdb392aa2e025a9a828ba539f8e51c",
+        "url": "https://files.pythonhosted.org/packages/ce/bf/a18172d23bf140937ab598ad540225829554694bea4bf9701496c3c1b4a2/mapfish.plugin.client-0.1.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "878a0ea7679862be188303bc94963ca70c256fdae809ffb3902fd9040d14768c",
+        "url": "https://files.pythonhosted.org/packages/fa/50/65ef90fff49aff4f9295c0d82e1f4a4d49c17a60d9a9b2a7dbd49a08ce05/mapfish.plugin.client-0.2.tar.gz"
+      }
+    }
+  ]
+}

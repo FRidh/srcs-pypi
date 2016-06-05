@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "2.9.3"
+  ],
+  "meta": {
+    "homepage": "https://github.com/geoserver/wps-remote",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "2.9": {
+        "sha256": "02a80caa2b90ac3473609680fc9d9b7968fff4682e2e7d16899f66ca2969b486",
+        "url": "https://files.pythonhosted.org/packages/4a/85/a9179d0a3eac027f70562f98f705655c4ef8c77ca788698770785b1a6025/wps_remote-2.9-py2-none-any.whl"
+      },
+      "2.9.1": {
+        "sha256": "0330db5fac78ecf25cd8a3508f64b752c8cf06492fb76f679cb7456ffdc8dddf",
+        "url": "https://files.pythonhosted.org/packages/b2/62/d9e54f5e32902d525ca129e3cdae0f15b7afcfa99c294a95d25132b0c9e5/wps-remote-2.9.1.win-amd64.tar.gz"
+      },
+      "2.9.2": {
+        "sha256": "d2b665798eb79b0d8946409ca0681de4081d9b2657e64100350fc2eeb1029410",
+        "url": "https://files.pythonhosted.org/packages/a9/df/bd6f99468b1d2cacdca229544fba97c9be6f3320ad86bfe25381cc79290e/wps-remote-2.9.2.win-amd64.tar.gz"
+      },
+      "2.9.3": {
+        "sha256": "2b80a76fdd6d3604f34a32fbf067681de08a06e1b912849b22cf7e44d61f0e71",
+        "url": "https://files.pythonhosted.org/packages/aa/f2/8f0b7bd6f806e1d2587cccf5a3390681416e85d7bd648398f16c42688f6d/wps-remote-2.9.3.win-amd64.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "A wsgi server that speaks Redis written in C",
+    "homepage": "https://github.com/ybrs/the-giant",
+    "license": "2-clause BSD"
+  },
+  "versions": [
+    {
+      "1.2": {
+        "sha256": "df78ac7841def59e3ca031d97974649a62cdde30c4962c649ba84fd048bd7b7e",
+        "url": "https://files.pythonhosted.org/packages/7a/02/be5bc5566899ae51225a5a84506c26f9932bc0bdefa4cb83e3b587f88185/thegiant-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "b287a249c6f833b33b6a8b45a118598779271c5e26b33d293f5e273717cc6649",
+        "url": "https://files.pythonhosted.org/packages/2b/bb/6122a6f5fa7815fb15ed236a1fa92cb1b59d8acaccb92d71b9549d257a16/thegiant-1.2.1.tar.gz"
+      }
+    }
+  ]
+}

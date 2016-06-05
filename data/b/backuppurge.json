@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.4"
+  ],
+  "meta": {
+    "description": "Selectively purge daily full backups",
+    "homepage": "http://thp.io/2013/backuppurge/",
+    "license": "Simplified BSD License"
+  },
+  "versions": [
+    {
+      "1.0.2": {
+        "sha256": "c7e9af8127f1de5219ef2cdeae8a4462446621a6aa53e3999c565326fb437ae8",
+        "url": "https://files.pythonhosted.org/packages/3d/af/6e029b80247f672e599f7a8422f24a76398f7512d4f7f9baf83b7d04cd49/backuppurge-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "ee055bc3d400f15d310abf9f044cd5608d2d1f032a5fe422ea5c74cfdcceedb0",
+        "url": "https://files.pythonhosted.org/packages/2e/9d/ac8e0aaf966dfc4ff63b8a527c7a88cc389952ba031a5ef1614dae831aa1/backuppurge-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "7b128630e726c381577412dff703cea984a1f4b6f148e9f7d3f4fe6fa2631a71",
+        "url": "https://files.pythonhosted.org/packages/ad/e3/cac883494d1ea8adc84ddec252c7fe98ef74a24cf8f720e044327277a235/backuppurge-1.0.4.tar.gz"
+      }
+    }
+  ]
+}

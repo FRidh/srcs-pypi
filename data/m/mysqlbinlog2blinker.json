@@ -1,0 +1,17 @@
+{
+  "latest_version": [
+    "0.1"
+  ],
+  "meta": {
+    "description": "This project listen on mysql binlog (as a slave) and send the binlog event to blinker signal. It can remember last binlog position and work as a MySQL slave",
+    "homepage": "https://github.com/tarzanjw/python-mysql-binlog-to-blinker"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "c5f13cd8c0e6e44178a47b718c3b50bfc17138ce830a8f12f71caa8d0e5fcad8",
+        "url": "https://files.pythonhosted.org/packages/18/74/6ab10a7ab762f69043065ec6b009ed9e65fee3f2fa72c867fe117f270f45/mysqlbinlog2blinker-0.1.tar.gz"
+      }
+    }
+  ]
+}

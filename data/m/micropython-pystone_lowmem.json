@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "3.4.2-2"
+  ],
+  "meta": {
+    "description": "CPython pystone_lowmem module ported to MicroPython",
+    "homepage": "https://github.com/micropython/micropython/issues/405",
+    "license": "Python"
+  },
+  "versions": [
+    {
+      "3.4.2-1": {
+        "sha256": "4ef5a947304b37e5fd28c87fa4f3bba3cc92a69c2b30405e0e61c847f24dcb8a",
+        "url": "https://files.pythonhosted.org/packages/7e/40/28957e834e24af50553e2ed44ea1e761f28922bd274e546cba828aa6d563/micropython-pystone_lowmem-3.4.2-1.tar.gz"
+      },
+      "3.4.2-2": {
+        "sha256": "74cc3bdf5d5d7c0f69e775896d3ca5a88e9281a60e9a83a038d8b11e15e687c4",
+        "url": "https://files.pythonhosted.org/packages/a7/b6/13da91bc123898009ee2d56bcb86739f91ae3097d4ee5848305518085e32/micropython-pystone_lowmem-3.4.2-2.tar.gz"
+      }
+    }
+  ]
+}

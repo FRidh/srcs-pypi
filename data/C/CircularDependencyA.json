@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.0.0"
+  ],
+  "meta": {
+    "description": "CircularDependency{A,B} depend on each other; for testing packaging tools",
+    "homepage": "https://github.com/msabramo/CircularDependencyA",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.0": {
+        "sha256": "55524b0d351987e9f0a1cf420e9c640af594f7b0d66050b4eae169f85995d688",
+        "url": "https://files.pythonhosted.org/packages/4d/74/8dc3f35c50319158e0b1bfd413a34bd15b2b6c6f3e4c2528bb35ddc305be/CircularDependencyA-0.0.0.tar.gz"
+      }
+    }
+  ]
+}

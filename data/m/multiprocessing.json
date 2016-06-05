@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.6.2.1"
+  ],
+  "meta": {
+    "description": "Backport of the multiprocessing package to Python 2.4 and 2.5",
+    "homepage": "http://code.google.com/p/python-multiprocessing",
+    "license": "BSD Licence"
+  },
+  "versions": [
+    {
+      "2.6.0-0.1": {
+        "sha256": "fad7aa686a0d494fe513aed105fc8a83066dcb85d6df6c02f75d40ad158db22d",
+        "url": "https://files.pythonhosted.org/packages/1a/89/c1f22ef4ca6b82e204c672dc472b1ae4f83dad6643c3b57aeb1b9ef143e2/multiprocessing-2.6.0-0.1.tar.gz"
+      },
+      "2.6.0.2": {
+        "sha256": "461a1998428ac4335cc4141223e362295e1032a689faf04acd3375eea8c0b6bd",
+        "url": "https://files.pythonhosted.org/packages/71/63/591f4ae9ed88570b04b39d1fbd523a2bd88a1a38685927ff25df9af1b379/multiprocessing-2.6.0.2.tar.gz"
+      },
+      "2.6.1.1": {
+        "sha256": "ad576359eda273ddbbbc0df9678df6ba653dee06dfe97839190826ec3f70c5ab",
+        "url": "https://files.pythonhosted.org/packages/68/08/b7c8b11f1265263e8bb525f0cd3c6747802bea087aac54469f0bef286524/multiprocessing-2.6.1.1.tar.gz"
+      },
+      "2.6.2.1": {
+        "sha256": "ef3b81ad85d7de252e5491b1daac028e17f9741cbe3625032e6eaa4ad4c79900",
+        "url": "https://files.pythonhosted.org/packages/b8/8a/38187040f36cec8f98968502992dca9b00cc5e88553e01884ba29cbe6aac/multiprocessing-2.6.2.1.tar.gz"
+      }
+    }
+  ]
+}

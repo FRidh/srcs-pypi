@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "3.8"
+  ],
+  "meta": {
+    "description": "Python Lex & Yacc",
+    "homepage": "http://www.dabeaz.com/ply/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "3.4": {
+        "sha256": "af435f11b7bdd69da5ffbc3fecb8d70a7073ec952e101764c88720cdefb2546b",
+        "url": "https://files.pythonhosted.org/packages/40/7d/95a7a67fb4c2205d0cbf89e8fabb7b49b4ed812ffdab45510d124bc2bd7e/ply-3.4.tar.gz"
+      },
+      "3.6": {
+        "sha256": "61367b9eb2f4b819f69ea116750305270f1df8859992c9e356d6a851f25a4b47",
+        "url": "https://files.pythonhosted.org/packages/7f/ea/6aff5b67ddb00d38fa6498df2010b50529700621353d38ac29d25ddb0845/ply-3.6.tar.gz"
+      },
+      "3.8": {
+        "sha256": "e7d1bdff026beb159c9942f7a17e102c375638d9478a7ecd4cc0c76afd8de0b8",
+        "url": "https://files.pythonhosted.org/packages/96/e0/430fcdb6b3ef1ae534d231397bee7e9304be14a47a267e82ebcb3323d0b5/ply-3.8.tar.gz"
+      }
+    }
+  ]
+}

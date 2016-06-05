@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Flask extension for push notifications on APNS (iOS) and GCM (Android)",
+    "homepage": "https://github.com/dgilland/flask-pushjack",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "83def61fc28e0fa8f68b0427f83599383a3e0f26db12861399e72d2ba55ae59f",
+        "url": "https://files.pythonhosted.org/packages/11/4b/a44cd4a61fd629cf10d1ac52d41ba02d83052c3d93cca8c824663ca0594e/Flask-Pushjack-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "25d2186e6debcde9b7352e8b0bc562f040996f41b915e7a8c82052154fd4fb73",
+        "url": "https://files.pythonhosted.org/packages/1b/6f/905310a5e6325ecc23fe7de91d0234b8131fe8fa2192507db2eb1f021de2/Flask-Pushjack-0.1.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "86863dbab7367a8be81dab8804aaa8052e58602f5f57f3309341eec9dc9dcde0",
+        "url": "https://files.pythonhosted.org/packages/e7/18/5867bb12f9357ed4988d8c7b09f8a2a5b5cdb68780cd3627649e361e9592/Flask-Pushjack-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

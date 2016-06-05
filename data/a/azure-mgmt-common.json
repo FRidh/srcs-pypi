@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.20.0"
+  ],
+  "meta": {
+    "description": "Microsoft Azure Resource Management Client Library for Python (Common)",
+    "homepage": "https://github.com/Azure/azure-sdk-for-python",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.20.0": {
+        "sha256": "c63812c13d9f36615c07f874bc602b733bb516f1ed62ab73189b8f71c6bfbfe6",
+        "url": "https://files.pythonhosted.org/packages/b7/79/8540c210233a61a52dbc4e99987b9a579a65917cdbf2d6ced228ea58cf0a/azure-mgmt-common-0.20.0.zip"
+      },
+      "0.20.0rc1": {
+        "sha256": "eafcf0322cd5aef4e87961f4885403bbb6653ce7db6bcf481263b5edf3ba1aac",
+        "url": "https://files.pythonhosted.org/packages/81/b7/ff259ee51735f729786bb1cbf5e30dd861e2ad5b063eda95804901f0823a/azure-mgmt-common-0.20.0rc1.zip"
+      },
+      "0.20.0rc2": {
+        "sha256": "53ba720b75319f2d68c7c55e9eb00d1c630dfabee9f23fe4211ba5e227004b49",
+        "url": "https://files.pythonhosted.org/packages/03/07/d9358d90cea7294a32b608900f70371c5f2bf3251e489bd1a390d836fce6/azure-mgmt-common-0.20.0rc2.zip"
+      }
+    }
+  ]
+}

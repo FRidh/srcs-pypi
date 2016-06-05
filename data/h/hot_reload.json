@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A runtime code reloader",
+    "homepage": "https://gitlab.com/edricgarran/hot_reload"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "ea25f5a3165fceede017515d25e350cd50bc3450781fca5edf5c70f3d30acff1",
+        "url": "https://files.pythonhosted.org/packages/c5/45/43bb57381e032199e6114652b29afaf8e95bc2ba28a9b95c396ecfe161fc/hot_reload-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "777ee0d63ea952e291301bf475a85d931e57321e2b76749727dc0f0e53a20aad",
+        "url": "https://files.pythonhosted.org/packages/c2/b0/3cf0bb84345125a1622c2f693d9bf5ee3302a658f5fdb0580709b9da01a4/hot_reload-0.2.tar.gz"
+      }
+    }
+  ]
+}

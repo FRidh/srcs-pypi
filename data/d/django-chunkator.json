@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.0.5"
+  ],
+  "meta": {
+    "description": "Chunk large querysetsinto small chunks, and iterate over them without killing your RAM",
+    "homepage": "https://github.com/novafloss/django-chunkator",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.2": {
+        "sha256": "9a117ee84ff9e2c2f9dcb33cb9980b23faa26e259938bc12c2b8f7f73ec075b7",
+        "url": "https://files.pythonhosted.org/packages/1e/d4/2bb7bf0129724c9d4ba06b68d9433820cf1f9272f915cbbb828dcf837b98/django-chunkator-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "e21e3362161ae20982cd369c315c4e474364645a59d992e5756113e02a236e37",
+        "url": "https://files.pythonhosted.org/packages/26/62/fd225af4a85985496f24d35c38c6d64686a9360834aaa6c14659495d0ea2/django-chunkator-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "306af80e73e76034efb3f751983db9b3402d126303785b388cbd4d9d4ea9e15a",
+        "url": "https://files.pythonhosted.org/packages/88/20/3e33f2aad772d2aafe1ad4b67cd9ea2efba503eb1495f0ff10ce687ba194/django-chunkator-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "0630dc4011a633231e91bcbb7cd4b864b3fd5393773a15a9a83799908279333e",
+        "url": "https://files.pythonhosted.org/packages/36/29/3d8ca4fa4d3a3a66ec90c4badc82f1dc5ba7bbe91cb6e2ff40ff2a30d6a3/django-chunkator-0.0.5.tar.gz"
+      }
+    }
+  ]
+}

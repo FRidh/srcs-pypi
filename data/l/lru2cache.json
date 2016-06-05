@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "A least recently used (LRU) 2 layer caching mechanism based in part on the Python 2.7 back-port of lru_cache",
+    "homepage": "https://github.com/3Top/lru2cache",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "2669156f40c070b2608eacad74eebd482dfe616b9adc6cd728e7a9a633ebee79",
+        "url": "https://files.pythonhosted.org/packages/73/f9/288b0eeb359be3052fc91d71ed38ba8a8217afafbf6d7ecc352627125aab/lru2cache-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "1b4ab56e607a1e9b91d3cea555cb47f856e8f6f45c0e0562cf4c61fa60707e8c",
+        "url": "https://files.pythonhosted.org/packages/b0/3c/0312822ea517def82a41dcd2645918aa06b91d4a69f4ab45871e63342e34/lru2cache-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "344c910b5411bcf96538953c0f9b3c880dba0186edd0c56b53dc903d8d0849bb",
+        "url": "https://files.pythonhosted.org/packages/87/92/7d0260cd016980d0ec026cd944fee5eecf517ab9913e18df0701e0e90605/lru2cache-0.1.2-py2.py3-none-any.whl"
+      }
+    }
+  ]
+}

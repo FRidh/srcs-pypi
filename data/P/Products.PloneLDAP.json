@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "LDAP/Active Directory support for Plone",
+    "homepage": "https://github.com/collective/Products.PloneLDAP",
+    "license": "Zope Public License 2.1"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "6ceb63a4c207dd9d0a6f9fb9705d06591b7caa65b8d315558ae4643ee82b2e23",
+        "url": "https://files.pythonhosted.org/packages/8d/60/d31ec4272d76ed5cae8fb781620560a5d31a862c792f72a68d2b6f92301a/Products.PloneLDAP-1.0.tar.gz"
+      },
+      "1.0rc3": {
+        "sha256": "63bcc2e6cb3082ee52376f5c2db7a7786f4b997435da54aeb9e39773ef06cdab",
+        "url": "https://files.pythonhosted.org/packages/5d/df/3bfc9cdead84d24f8cc2b29297059fc65b4e560e090e84c0fae50252bd94/Products.PloneLDAP-1.0rc3.tar.gz"
+      },
+      "1.1": {
+        "sha256": "b2bd3a9f72591a6efc83e82d2bca04a97f262fac882f4002195465b7a9b0f770",
+        "url": "https://files.pythonhosted.org/packages/e3/73/375261068134a3c51542c0fa1522f80194a7e497c3cdcae52a1fbeb15abc/Products.PloneLDAP-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "7cddeb9275e95b81cb8c77aab9ed3b6c7f81fe92cb6894b19a7f1d5fcf849939",
+        "url": "https://files.pythonhosted.org/packages/ec/06/1efbe89f273918a4e16a6531ac85de83f16c3a044e69dde68776ee6fc0e0/Products.PloneLDAP-1.2.zip"
+      }
+    }
+  ]
+}

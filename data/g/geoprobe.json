@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "Reads and (partially) writes seismic data in Landmark's Geoprobe format",
+    "homepage": "https://github.com/joferkington/python-geoprobe",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "58f84aa88a1a534d939c0fbc479ec40e8c1da8fd5222deb23058f1e60f222eec",
+        "url": "https://files.pythonhosted.org/packages/09/9b/66a3cc294a7e6643f9b63b0fd059047842f0dabb598bede116158a2221c0/geoprobe-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "60e26fa05d917275f3cb51c7a412ec77d6d0bb4147dd363bc22eb3bc06451642",
+        "url": "https://files.pythonhosted.org/packages/f7/13/01a9d59c77bd02ab924e6fd35150b33ab1bab488e8f979bc67a07d15c824/geoprobe-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

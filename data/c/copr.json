@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "1.69"
+  ],
+  "meta": {
+    "description": "Python client for copr service",
+    "homepage": "http://fedorahosted.org/copr/",
+    "license": "GPLv2+"
+  },
+  "versions": [
+    {
+      "1.59.1": {
+        "sha256": "1e66c3d2300aaf28021ece53793280efc7b3dd56759974714b75c315fc5a4d94",
+        "url": "https://files.pythonhosted.org/packages/82/2c/4c6ef3f0d46de7b79f16588c0465ac37d701d8cae16c056c97fadd94762d/copr-1.59.1.tar.gz"
+      },
+      "1.62.1": {
+        "sha256": "f271634d7015d3511ecabb5b5178e397b84786e7c127725586c95929b1d94670",
+        "url": "https://files.pythonhosted.org/packages/20/21/be93a38e0c6b1ded0a394240ce89ca465ee88fd19b038ccd5108070a2ae1/copr-1.62.1.tar.gz"
+      },
+      "1.63": {
+        "sha256": "292381a9ab3f443a9457aed74720218d135b2448dc6154fe9ae80791dd185eb9",
+        "url": "https://files.pythonhosted.org/packages/d3/07/a4e328041559c0056c146654a2097c02a70f1aee6742f95a4e38b723173b/copr-1.63.tar.gz"
+      },
+      "1.65": {
+        "sha256": "a89ecbe23ac12868825b59f1e2df8571b6227fff40ba28480d5544fe016322b2",
+        "url": "https://files.pythonhosted.org/packages/71/e6/8fec215215122fb2d443290f07dc7db032a242039c6d2a8af315bfded085/copr-1.65.tar.gz"
+      },
+      "1.67": {
+        "sha256": "5fb5148a4f979f5b947f58b67039c2a9115840534cc21c400a3a4ab941e8e452",
+        "url": "https://files.pythonhosted.org/packages/fd/27/b65a7dbe38269a17c5d90f69d7c2ad7074241db8585c149ae0752b533623/copr-1.67.tar.gz"
+      },
+      "1.68": {
+        "sha256": "ed35e7aaa61df4bf9b691f05b63aee13fba91c4b127c5eeb1d5ea46c6b79ab26",
+        "url": "https://files.pythonhosted.org/packages/ef/be/64c8466ac7b722ebcdf4fcda680f1a0f8cc32614dea3c8cea4a8c2721a73/copr-1.68.tar.gz"
+      },
+      "1.69": {
+        "sha256": "f6798570cfd983ccddecaff9650489e1cfe1c96e3ec812e8dbc2a8f95f579945",
+        "url": "https://files.pythonhosted.org/packages/60/9a/c856f3d0946ab0cd4d31976f3308fd2026fc986784058cf534eb67d78c9d/copr-1.69.tar.gz"
+      }
+    }
+  ]
+}

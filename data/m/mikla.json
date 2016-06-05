@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "A command line tool to edit text files encrypted with GnuPG whilst preventing the plaintext from being written to the hard drive",
+    "homepage": "http://dirtymonkey.co.uk/mikla",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "8a8a9fb40b95067562043cb9b37d91f1e480916961dd0b2aa2ac61fc02d38ab2",
+        "url": "https://files.pythonhosted.org/packages/cc/74/0cfa169b495df66ce114519eef05c65906c4f36f12bb37ca180acda56d9b/mikla-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "da3269f83816f73404b7e0ded680daae6c2ea76d12a6ed2f3525ad6d419ce8f2",
+        "url": "https://files.pythonhosted.org/packages/88/cf/548a35c15cbfb24da7f8aff12be31aff744acffa22274afaf4ae462a7bbd/mikla-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "11103dfc3ffdb74cc3f6e19c4e8918f028d82b5c80de83c61edbf8939ba85516",
+        "url": "https://files.pythonhosted.org/packages/2f/ff/33eea8a12cf593505be2d5bf6b981c4b3a1d515f8f0ed36b68a1e6c8034a/mikla-0.1.2.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "40b39a2a0994495beb8065180570ccf69e9266f7183cec3da8a58ad42f88f135",
+        "url": "https://files.pythonhosted.org/packages/69/1e/512cb188262ad54cc77f235ed3b61f1621161ff79db930fcf5b8d88bb9cd/mikla-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "844b02ab3b623ffeabc5974f82825820d5b2c3c29ffecee23bf6255ab73590f7",
+        "url": "https://files.pythonhosted.org/packages/ea/ac/bba758f0e6b90ddc6f7d32a5f22197d5e36c54d18a3bc8237a503b6638d1/mikla-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

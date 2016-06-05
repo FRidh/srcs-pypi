@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.8.1"
+  ],
+  "meta": {
+    "description": "Provides a command to easily create a standard Python package layout (i.e. package directory, README file, setup.py, etc.)",
+    "homepage": "http://pypi.python.org/pypi/python-package-template/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.8": {
+        "sha256": "ddfa761079146550e4f6fe152f0211bf2b568b39db18b16a0a25cfb7e524a2ec",
+        "url": "https://files.pythonhosted.org/packages/52/6a/32a75b7f38653e81d3ed69355793c6a38402723d76d8433ac4e52449a467/python-package-template-0.8.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "9955b62746d36c5c326c19fd551bdb8c6086dc2450f318c0d1688f237a10a1e9",
+        "url": "https://files.pythonhosted.org/packages/22/17/1c4c42b94e00c3c57460f41f9df0927a0fb8a6cb3a97600e84fa11d1cacb/python-package-template-0.8.1.tar.gz"
+      }
+    }
+  ]
+}

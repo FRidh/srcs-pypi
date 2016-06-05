@@ -1,0 +1,33 @@
+{
+  "latest_version": [
+    "2.1.1"
+  ],
+  "meta": {
+    "description": "Easily capture stdout/stderr of the current process and subprocesses",
+    "homepage": "https://capturer.readthedocs.org"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "28b8212ae81ad66db342e75304cce1636aa74947012284f892646de9baab92bb",
+        "url": "https://files.pythonhosted.org/packages/46/1c/22fb3ecdbe18750bc0388ffb300db675a316b98263895b8cba0a8a2ce52a/capturer-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "5eba8df5509f50d6db89e5c079f9eba19a1cff30cc5a30c0fa6e698c53c51364",
+        "url": "https://files.pythonhosted.org/packages/d0/a4/3956ab6e08a607fbb6f794e5e42192923b431566502f1fa2e80253eabb7a/capturer-1.1.tar.gz"
+      },
+      "2.0": {
+        "sha256": "d56c9ef2d3e3db65025c21a40d2f9b58b49edf2cfcf8ed4945f19d36e426181d",
+        "url": "https://files.pythonhosted.org/packages/80/49/e7692d0e5b80729c6eeebdc88f134ad3a15787ed1b358b42e6efaa39258e/capturer-2.0.tar.gz"
+      },
+      "2.1": {
+        "sha256": "6837c34651d50615e20281a1cc73a2b363bb7b7c9451003d08ea481a58a6bbb8",
+        "url": "https://files.pythonhosted.org/packages/67/d4/b95b8210670ece9c5dcdc14631dd95e6caf11d9e2345ff1dd5752099e8db/capturer-2.1.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "6d892baca28c32ba912d96dfc5d40972090437d7d8d1738453969a0700a272e4",
+        "url": "https://files.pythonhosted.org/packages/b5/23/35929ea304876f56ea399d902b869d471ae32ca1afda8fee6a29f9df9d11/capturer-2.1.1.tar.gz"
+      }
+    }
+  ]
+}

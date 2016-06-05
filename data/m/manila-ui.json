@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "2.1.0"
+  ],
+  "meta": {
+    "description": "Manila Management Dashboard",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "32054ef36f835aa776db26807723ff17dbf80671e8181b717a664e8f780c0343",
+        "url": "https://files.pythonhosted.org/packages/b6/71/1c9b5ccae90ffaa39953242eb09532a31720c2e258522050909083a5716e/manila-ui-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "5c111f08dbea6a89b3665dd7487e033fbe18c8fa67cbe3a7bf73cc553a083eff",
+        "url": "https://files.pythonhosted.org/packages/ab/a5/6e543433a597e5edc940840a83e12cf5d5fb09a1eb6ba7e4f4449dd6ac05/manila-ui-1.0.1.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "5ba482a3cd214a3579d1053c4e6678164803199b972b476f9e2ddbadc7a29b86",
+        "url": "https://files.pythonhosted.org/packages/de/c8/b1983d13914501657e4f17f2f1efe7243d813268f354ddc305a386734395/manila-ui-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "f49ed49a10cd06dbe4a5400cd3e5fbebdf460ef5a66c92d9149e694996117e02",
+        "url": "https://files.pythonhosted.org/packages/5f/4d/eb863e230dccf41005da443b3880b387510f41e1da7e0486b87438a6eaa3/manila-ui-1.2.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "a5c5d803e7c54099070ed0f29a1f33761463088002fe02ac7f8501115176b88b",
+        "url": "https://files.pythonhosted.org/packages/a3/a5/d632a21dde58ce309f55b0df8e1b37d71b1a477ea4c9b095660588a5fbcb/manila-ui-2.0.0.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "79509b1597282b5a44eb51e1fbe1b034e637c780e7e2b0f7d0258739ec70abdb",
+        "url": "https://files.pythonhosted.org/packages/1e/95/88e425a1d87eea1c3ed8412f37f896d01a0e046e2314aba5abde028f19f2/manila-ui-2.1.0.tar.gz"
+      }
+    }
+  ]
+}

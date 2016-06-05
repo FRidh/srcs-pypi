@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Removes top and footer viewlets and adds portlets instead",
+    "homepage": "http://svn.plone.org/svn/collective/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "ae00bf0fd42a7f2a554449b79bdf5df6b267f95f614fe58b40b4522d361832df",
+        "url": "https://files.pythonhosted.org/packages/26/29/a076b50bab74f9a9da1f2fa27e2ea10ddf77d2ce62c3ca3e1c231ea8af77/adi.simplestructure-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "17de387693eb30b1b2f667d54e09ef708ab3eeb8ff77274ef2890b062a9d4708",
+        "url": "https://files.pythonhosted.org/packages/1f/10/b1321a9e56df954cab5fed9a95cbc88394f174e2a22fcdbe8199e1441bee/adi.simplestructure-0.4.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.10.0"
+  ],
+  "meta": {
+    "description": "A secure updater framework for Python",
+    "homepage": "https://www.updateframework.com",
+    "license": ""
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "34042699053ded003c7029c4c450f7ba464cb3a154c4947002432471b392f73e",
+        "url": "https://files.pythonhosted.org/packages/cb/bf/5f487c9f8a1ccdb709b1ce9763a8a53cff9452411e636c3419e190e16734/tuf-0.10.0.tar.gz"
+      },
+      "0.7.5": {
+        "sha256": "0ff8dd4ac8308e56058f1d06b9bdb77e9eb052103155f11b892bb6011bf668e7",
+        "url": "https://files.pythonhosted.org/packages/a3/11/f61712012368503aeeb2a089625ed6b01fd9b6343d24505d45f6fff74b49/tuf-0.7.5.tar.gz"
+      },
+      "0.9.8": {
+        "sha256": "9127a9f6d7ef307624411cfb1976eba5e381925296fa33aabdeb2386c8f1d084",
+        "url": "https://files.pythonhosted.org/packages/ca/d0/7ee06af8284fb34c28c476d5635f7977f5523d3938c079cc029e346fc1e3/tuf-0.9.8.tar.gz"
+      },
+      "0.9.9": {
+        "sha256": "895975483d24bf35f62112ebd3e2cfcffa7966b08729c02217612f585a22cb3f",
+        "url": "https://files.pythonhosted.org/packages/e3/1d/2f648e0ce7c307008437f0bcae3817d65e97f310a75b90b460db0104a859/tuf-0.9.9.tar.gz"
+      }
+    }
+  ]
+}

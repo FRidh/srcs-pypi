@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "3.6.1.0"
+  ],
+  "meta": {
+    "description": "Tryton module for sale payment gateway",
+    "homepage": "https://www.fulfil.io",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "3.4.2.0": {
+        "sha256": "913ed8a9d6f51ea87c387b9664908a1097226b59c5121a8d21891eeaea0c932a",
+        "url": "https://files.pythonhosted.org/packages/29/60/59dbdc50df65cf7eb179d671eb27ef9e6f1b21e62388afedd97a9ee01db8/fio_sale_payment_gateway-3.4.2.0.tar.gz"
+      },
+      "3.4.2.1": {
+        "sha256": "6705112691b65e80ceb3b05cfac43536541dbc136681e6afaf1a2cc461f0a608",
+        "url": "https://files.pythonhosted.org/packages/3e/de/1220393ba20bfa304092f6a92ee1749d3920c14d1e57f1f42d0ef00fb8ba/fio_sale_payment_gateway-3.4.2.1.tar.gz"
+      },
+      "3.6.0.1": {
+        "sha256": "c4dbce71dd291b6ba07d1992986929535adfebb39f9d9556886980d5ea6cb550",
+        "url": "https://files.pythonhosted.org/packages/1d/8c/f7a6293b5552e11974ecf8d5a6c58e7e9c06fed8788e89bccea4f29c761d/fio_sale_payment_gateway-3.6.0.1.tar.gz"
+      },
+      "3.6.1.0": {
+        "sha256": "b1993a73906a9b74c1e7f21e79cb4336d9450b5d6bda1d3a0e35b15701db2ebd",
+        "url": "https://files.pythonhosted.org/packages/20/8d/f48c094ca6fd2d32f18f02e5dd0d6d94fef81292d6fd108d545b1c504193/fio_sale_payment_gateway-3.6.1.0.tar.gz"
+      }
+    }
+  ]
+}

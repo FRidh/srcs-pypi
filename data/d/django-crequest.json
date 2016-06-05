@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2014.9.19"
+  ],
+  "meta": {
+    "description": "Middleware to make current request always available",
+    "homepage": "https://github.com/Alir3z4/django-crequest",
+    "license": "Copyright (c) 2012-2013 Alireza Savand\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n    * Redistributions of source code must retain the above copyright\n      notice, this list of conditions and the following disclaimer.\n    * Redistributions in binary form must reproduce the above copyright\n      notice, this list of conditions and the following disclaimer in the\n      documentation and/or other materials provided with the distribution.\n    * Neither the name of the authors nor the\n      names of its contributors may be used to endorse or promote products\n      derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY\nDIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES\n(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\nLOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND\nON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "c80f30676f5dd432e9fc5abbf2f08af9c38ba080994f3eac61eef003ee51513f",
+        "url": "https://files.pythonhosted.org/packages/e7/12/02fca73b3b66972fe49b64b4c23587b283edc7d15b9aa6751e6f309fd515/django-crequest-1.0.tar.gz"
+      },
+      "2014.9.19": {
+        "sha256": "f0ea01d13d1320766cca1c76f17d3381ce954ab0a830b3084cbe8bf8040f35d0",
+        "url": "https://files.pythonhosted.org/packages/ea/8f/29c4729fb2036eedf4351c79ea2429a62e0397c4c9b24ace5c9b4a8a3a7e/django-crequest-2014.9.19.tar.gz"
+      }
+    }
+  ]
+}

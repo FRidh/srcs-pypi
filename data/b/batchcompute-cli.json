@@ -1,0 +1,318 @@
+{
+  "latest_version": [
+    "1.2.7"
+  ],
+  "meta": {
+    "description": "Alicloud BatchCompute command line interface",
+    "homepage": "http://www.aliyun.com/product/batchcompute",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "6ede854fc98c9024fa77d7e7475bdbef2ed3d312fa9bd7074fb8d88f61a3dbce",
+        "url": "https://files.pythonhosted.org/packages/f1/04/56cf0fdd89c7ae2ec0a91a5c8cd32f3525122f4288fc788654d4e454c5e7/batchcompute-cli-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "4371f13b4e62278b4f8757b0622d90803fba0bcb5921ee49a1c7ad552b2998ac",
+        "url": "https://files.pythonhosted.org/packages/e4/a1/1d0e59f534f9acb5a74a26d3cdbf90d2e7bddf91f76fe2bf32c34775c089/batchcompute-cli-1.0.1.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "4323293348f8717ac5606685d4c977db0633225d76f6854bbf407052cb660d72",
+        "url": "https://files.pythonhosted.org/packages/77/3c/558d276302a99acd3b82c8dfc9fb79ac956e5640a4a64578f0903d31f4f8/batchcompute-cli-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "bce3ebc2b26f3396bdb458f27b49d79dc3a761f9f5a2a72ccef0cfa67db339d4",
+        "url": "https://files.pythonhosted.org/packages/93/a1/064bdc620de93a53e3a6d8be6678f755a45de4dd94a19d8520718c5e7d04/batchcompute-cli-1.1.1.tar.gz"
+      },
+      "1.1.10": {
+        "sha256": "0b965403b5a2b1fbe673b24d20107665330ed6ef27e60f4567fc1900e3ca9ed1",
+        "url": "https://files.pythonhosted.org/packages/18/c5/26a9d4fecaa393b1ccdcef9d36612237052234ad406a9c6096b6c13f3d09/batchcompute-cli-1.1.10.tar.gz"
+      },
+      "1.1.11": {
+        "sha256": "13f5bcd4c86109e173c59a7ddae0415bbd23d124455ceb9cc6124619d2978af5",
+        "url": "https://files.pythonhosted.org/packages/f4/78/26eeb83211684a5268b663d2e670bb502828ebd443ad8810a40fdb521b18/batchcompute-cli-1.1.11.tar.gz"
+      },
+      "1.1.12": {
+        "sha256": "48e58c952c9f0e975dcdfffaac2345684150bd0718b14ee3b3723adfe1b19f63",
+        "url": "https://files.pythonhosted.org/packages/5b/01/fafae46c3c30fad25ad7307c4e8bf997bb4c40f39f9511d77721b778c322/batchcompute-cli-1.1.12.tar.gz"
+      },
+      "1.1.13": {
+        "sha256": "a5a3d9bb778f86c6ffa9d700edcabc1aeb8f547e95f9be96c620b6abd84dee62",
+        "url": "https://files.pythonhosted.org/packages/36/33/8dab151a40c2af373ea2cb67e0b1eb8ef004253e115ab33aa72392bdbf9c/batchcompute-cli-1.1.13.tar.gz"
+      },
+      "1.1.14": {
+        "sha256": "0190b2cca3429e06daaea57b4f16ceb0a82053f330c8e7925579269ca8faafdb",
+        "url": "https://files.pythonhosted.org/packages/a0/66/61bcba6a8be6c70f5d6386078ce6e249f357e72d4d26c16d222cbdb27539/batchcompute-cli-1.1.14.tar.gz"
+      },
+      "1.1.15": {
+        "sha256": "12a93186afaba682ccc724f783ffdef8625aee3b639f114931876a510e2c280d",
+        "url": "https://files.pythonhosted.org/packages/fa/78/3bd17a9f6e49d0988cf3f2a77229a44397008ce2ce9b8eccc1383dd89bfa/batchcompute-cli-1.1.15.tar.gz"
+      },
+      "1.1.16": {
+        "sha256": "37651fcc351b8f09138ae2614f41803e0b033bda0287d9b06cbe7aebe1ae5330",
+        "url": "https://files.pythonhosted.org/packages/80/be/1ac9e7cd27becf8453e22ef6b51aa1450208cd9d46484363932f6fa06006/batchcompute-cli-1.1.16.tar.gz"
+      },
+      "1.1.16a1": {
+        "sha256": "7f565464abed4822e3a4d4300d5e58c451e16dfef8c95895b9021a3b09b7c916",
+        "url": "https://files.pythonhosted.org/packages/26/ab/9859d9107892f365ff4a0f53bb9ab87d1d91b359a22227f3e2bdb403dc96/batchcompute-cli-1.1.16a1.tar.gz"
+      },
+      "1.1.17": {
+        "sha256": "b232fb4902bea41140807953318abd6d7cd6f2fa8c624b678fd168561edb53e0",
+        "url": "https://files.pythonhosted.org/packages/f7/bb/971a3a74e4743a0c974e979f7eafa15aa140a7aeec214ca2a7eac4329806/batchcompute-cli-1.1.17.tar.gz"
+      },
+      "1.1.18": {
+        "sha256": "8a495a7a50d5e938065ad27ad87488feaf4a712d28672b8c2813e5c1c36a01a8",
+        "url": "https://files.pythonhosted.org/packages/f4/cf/e723b83a55242efd876fd71edff9400f2c81c6ab7c01dc929fdd6a029483/batchcompute-cli-1.1.18.tar.gz"
+      },
+      "1.1.19": {
+        "sha256": "866242120057635d28ea53e6aa597da380c4556d0c8093726a7f2dbf1d0b419e",
+        "url": "https://files.pythonhosted.org/packages/4e/16/23da134e3e907e44308c6087cc5c615b5ca199255ca96348dfab6fde30b7/batchcompute-cli-1.1.19.tar.gz"
+      },
+      "1.1.19a1": {
+        "sha256": "34a062eec271f9fd8629f4e505e9815682ba31b17c2de635d75c13ad85ef1ff6",
+        "url": "https://files.pythonhosted.org/packages/98/fc/b99d8d7e0353ed11d7cfed4e7cd8e04a9ef438ffafce4e37ee952ccba1ad/batchcompute-cli-1.1.19a1.tar.gz"
+      },
+      "1.1.19a2": {
+        "sha256": "51dfdc04cfb52befb090dda2ad4bd0eacfe5564bbddfa0fedacac908a81a909a",
+        "url": "https://files.pythonhosted.org/packages/f5/af/789228bdce67caf0e8c2e3caba07dbe0010048af4799c41a23b34d237bee/batchcompute-cli-1.1.19a2.tar.gz"
+      },
+      "1.1.19a3": {
+        "sha256": "9a82c4dd181979be8ba88e3471d34096f5b8b68fc59973d3b6d35bec4bd3c1a0",
+        "url": "https://files.pythonhosted.org/packages/1c/b4/4016fe9108e3ed51dc1305f045272224c191e4b4e9fb5dc6c8142e034a2a/batchcompute-cli-1.1.19a3.tar.gz"
+      },
+      "1.1.19a4": {
+        "sha256": "ec80c3f089c9b38bcc9e71df2df560b00a6852ebde7c08a4f4761f0d8ec1ad7d",
+        "url": "https://files.pythonhosted.org/packages/3e/96/6e3fd4d94e946b008ed71d87e88b2380501db729b0b184c81ca92153a81e/batchcompute-cli-1.1.19a4.tar.gz"
+      },
+      "1.1.1a1": {
+        "sha256": "9993be453aa59640ec139af0dae2b4586ca3220a67e75cef29fa5763568b2c85",
+        "url": "https://files.pythonhosted.org/packages/0d/3e/6ce6e99217e99d884c55a915cb87d6eece8347218fc40bfeb0650351c9b1/batchcompute-cli-1.1.1a1.tar.gz"
+      },
+      "1.1.1a2": {
+        "sha256": "785a7a241d0f59fcd4e997cf3d405ce82bbf9589b67c1eb5fba8b530b9dd8de2",
+        "url": "https://files.pythonhosted.org/packages/88/94/e09b4ed8fcede17dcd20fbe3426cbbdeef09e5d806d04dc1e7b5e210f785/batchcompute-cli-1.1.1a2.tar.gz"
+      },
+      "1.1.1a3": {
+        "sha256": "9ad943c6d194996a8c4430ae652db843ebd8d486dd5951f2aec5bca6be87d0e6",
+        "url": "https://files.pythonhosted.org/packages/b0/d9/4d664c25f79c32c51b97cbc112a890915cf6a7e2c98c03a84ee7d386f039/batchcompute-cli-1.1.1a3.tar.gz"
+      },
+      "1.1.1a4": {
+        "sha256": "c437a473d3c4fe94fc297ecd0cc485101151f9c894bae5fbb4fea42515d29dec",
+        "url": "https://files.pythonhosted.org/packages/13/1a/c3003d2763101d3772e9c357ed3e5448a5f050d2360e61ac55403a8b7c00/batchcompute-cli-1.1.1a4.tar.gz"
+      },
+      "1.1.1a5": {
+        "sha256": "e198591b12a8f38197507c5664177e350c476be3db2d657abda3b320d61cd800",
+        "url": "https://files.pythonhosted.org/packages/78/a5/c12e8a70ea463ded4ce613021a78440bab78fc610f5252d23a190d01d879/batchcompute-cli-1.1.1a5.tar.gz"
+      },
+      "1.1.1a6": {
+        "sha256": "100cdcecfbbaa80d819ebde878457248b69bd3b77052b5c7ffe1dffa231a22d8",
+        "url": "https://files.pythonhosted.org/packages/0c/34/12bf6e7d4b24817d88c40aa7b4a09551a1d7046180948bd38fff37d18203/batchcompute-cli-1.1.1a6.tar.gz"
+      },
+      "1.1.1a7": {
+        "sha256": "81f18c737683a626d287215f9871bab376a65d27021b68ea84f21c6554bc6e15",
+        "url": "https://files.pythonhosted.org/packages/d4/6e/070c94592386c7eda5108c120f08efa8e1fd3ce230b1a56b5dbbceea90d0/batchcompute-cli-1.1.1a7.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "3a6e4d07837226012f17ccf5906d6acb3df60664ea48dd27fdf1d823ed146d01",
+        "url": "https://files.pythonhosted.org/packages/73/3f/4f71243ea80a47a96b30830ae20fcd5ace230a806631524555c0df0cc702/batchcompute-cli-1.1.2.tar.gz"
+      },
+      "1.1.20": {
+        "sha256": "48a497cda7109b329f181548a7b6b8ca12dc21e0e79174dcc875a8acd9d8f757",
+        "url": "https://files.pythonhosted.org/packages/f6/35/48eb2abbc75b250f301cf64c93d0879ad2cb80ed8b7d1322af67372e843a/batchcompute-cli-1.1.20.tar.gz"
+      },
+      "1.1.20a1": {
+        "sha256": "3562bf38a38d218bbf2b5666fa9904be4adfdfb192d67675ac9b0527c5539a82",
+        "url": "https://files.pythonhosted.org/packages/e7/d6/c98007af974eb39db46522f4e002728b98511e34f1fc623a8907006801fc/batchcompute-cli-1.1.20a1.tar.gz"
+      },
+      "1.1.20a2": {
+        "sha256": "04dee760456226b04199c4061a57af3b0ce435b1edac2eaee7dfdd86709dcc23",
+        "url": "https://files.pythonhosted.org/packages/68/1f/a9ad81236db214936eebc7486e75e6a0d35dfa2443ac56333b9dd6bee565/batchcompute-cli-1.1.20a2.tar.gz"
+      },
+      "1.1.20a3": {
+        "sha256": "8bb0a8054951f0d81bbd5cd759ef1657a61e0c62f30915d7575d738d9848ca86",
+        "url": "https://files.pythonhosted.org/packages/96/e7/99c6628b82c7e1dcbefe3d0e4e558301094691d431ae26a77c14224f1d5a/batchcompute-cli-1.1.20a3.tar.gz"
+      },
+      "1.1.20a4": {
+        "sha256": "cb2005e2ea3bb18b8926a50858a8e1e3247f5ca37070670acdcf1a2995981889",
+        "url": "https://files.pythonhosted.org/packages/76/04/d584dfc4a13892b242dfbb95406954649d061179032ec7e1d2c6cf888d87/batchcompute-cli-1.1.20a4.tar.gz"
+      },
+      "1.1.20a5": {
+        "sha256": "4d2070a0c13126b61b9ea216311f2b7aece19692eae265d59f1f753348ed7c23",
+        "url": "https://files.pythonhosted.org/packages/8e/dd/88f27923327b06bc8dd0a01c19472cf1322dbc393423c696b46651b0e14e/batchcompute-cli-1.1.20a5.tar.gz"
+      },
+      "1.1.20a6": {
+        "sha256": "79444564da9b42b191f95edd70a261fc16b9e956741eea15ae233c999dc7cc05",
+        "url": "https://files.pythonhosted.org/packages/e5/03/c76e2ae78b70bc7c73462dca216fce5affb614fbf0479b9cf36cd8f37521/batchcompute-cli-1.1.20a6.tar.gz"
+      },
+      "1.1.20a7": {
+        "sha256": "02d60bf1ece3d5d54c6138a76744760971f79fbb3b63001c33d309df36e202b7",
+        "url": "https://files.pythonhosted.org/packages/d6/38/6c9867d641589fae72de6d7f0a6c9f47d2a97dae789bcc48b491fcc778cf/batchcompute-cli-1.1.20a7.tar.gz"
+      },
+      "1.1.20a8": {
+        "sha256": "fcd9822f2ac95461a3ebf6bc42cbb07b789d5796434d248dfb4ce5debfc2f37c",
+        "url": "https://files.pythonhosted.org/packages/93/93/54bd33fb92ff3fd70d01f07e9216ebb10ca2e1ee21e8fba27c8de7350904/batchcompute-cli-1.1.20a8.tar.gz"
+      },
+      "1.1.21": {
+        "sha256": "3f7dc4fe471e6450d201dd9d255515d05ddb65b2d9fbc08be18ee92cb54b84b0",
+        "url": "https://files.pythonhosted.org/packages/d6/68/74099a604b67dca4295e4765ae1f1ff78cadb0437d375795b24e11c180c9/batchcompute-cli-1.1.21.tar.gz"
+      },
+      "1.1.21a1": {
+        "sha256": "90a3e06579bfab8f073a356b65d1dc659c2e1c3de34be19eb89a738870c73484",
+        "url": "https://files.pythonhosted.org/packages/08/fb/45f5135857f75b9bf7e50ecf4083aef26bd7bd2681139cc0290247693d36/batchcompute-cli-1.1.21a1.tar.gz"
+      },
+      "1.1.22a1": {
+        "sha256": "8d08dd4f1f529dde14c6ee9aa58f2fba6d5084116a993197bf2a3ecd3ddb1c30",
+        "url": "https://files.pythonhosted.org/packages/29/a2/4deabe9343c0482bb73e5fb6441818482a3d95b9dc01f82b17bc0f5436ab/batchcompute-cli-1.1.22a1.tar.gz"
+      },
+      "1.1.22a2": {
+        "sha256": "86afd4f63c9082af9c34f1bc3e59e7af9ec4edfb2d453f4561281e4f8517fa45",
+        "url": "https://files.pythonhosted.org/packages/90/52/84d1750e91a5aad8176dac05c2911170b007e5a6b6e141e812f2b4fb1001/batchcompute-cli-1.1.22a2.tar.gz"
+      },
+      "1.1.22a3": {
+        "sha256": "dec59be1ea3dd3406d4c4840e0a49fa894843edd36248fe285b68b61d30f1591",
+        "url": "https://files.pythonhosted.org/packages/4d/44/67da6367587583d3a9e6dab40feea9c593134fcf7a4ef8bd9136e7fd594e/batchcompute-cli-1.1.22a3.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "28cb499409c9eed86d8037b499559224319a8b1f9378126fccc72b8823d46a68",
+        "url": "https://files.pythonhosted.org/packages/63/fb/26e73ed7e2681673b50b0df8f935edb5b77e6195b1c2723fed951f5443de/batchcompute-cli-1.1.3.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "1a05fe43dc49bf19bdd048021d71bb3a7d6aefcc24e2d176544d7e4bb93b4da9",
+        "url": "https://files.pythonhosted.org/packages/7e/cd/d4db8c1eec2dbaf101e052440d27b6341dac34cce5593df4c6d908832918/batchcompute-cli-1.1.4.tar.gz"
+      },
+      "1.1.5": {
+        "sha256": "a58a632e72cbcec641af7aa562e91fdbb3ff6b5c28243e2ceaad32bcc3c420bc",
+        "url": "https://files.pythonhosted.org/packages/88/f2/91a0b6cdb85e76aca30a9dc30dffe7274b2b9a7bc5ef3c8e549277135edc/batchcompute-cli-1.1.5.tar.gz"
+      },
+      "1.1.6": {
+        "sha256": "71aaa0dd13f2c59f48c0981f3cabe6ed341d5f92596915fb6783e6d295b79934",
+        "url": "https://files.pythonhosted.org/packages/27/39/62006661c5b31494e7cf31b37a829bc6ef74aba0b61bcc236fa5a43cd819/batchcompute-cli-1.1.6.tar.gz"
+      },
+      "1.1.7": {
+        "sha256": "8cb79c0c12c322fb5a3733f46bf2c9ca5c1e0248b068f9302517b3d7e83a4c64",
+        "url": "https://files.pythonhosted.org/packages/78/8f/4450fe671b1757af49d7162819f6c1446abe68893f18e6651cbe27dcc5b1/batchcompute-cli-1.1.7.tar.gz"
+      },
+      "1.1.8": {
+        "sha256": "ff3b827ec402c6e67c0e99efa6e20f8f7f9352dd9f2b1f8559dd88d8371073e4",
+        "url": "https://files.pythonhosted.org/packages/ed/cf/12900fd0e769002c6540416ad0037da1867bf241ca568f5e1e12c372b762/batchcompute-cli-1.1.8.tar.gz"
+      },
+      "1.1.9": {
+        "sha256": "a9bd3d2a1980a5fa1d3d57e1acb0a7d984808db9b135de6d142d8cbc9d2e57b6",
+        "url": "https://files.pythonhosted.org/packages/0f/5a/5ba36a31cb138edb6e8925437ff46f122ad939cfeee0575b80f12f771b97/batchcompute-cli-1.1.9.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "3f2a8db15f3bb658aee904cc55e2bf66457cb101555d81e5906fe3a1cecfd6f8",
+        "url": "https://files.pythonhosted.org/packages/4c/d2/2a7958f398ecee44cb18d0a1f9934401207227c951a57863d001b155a9b8/batchcompute-cli-1.2.0.tar.gz"
+      },
+      "1.2.0a1": {
+        "sha256": "62f659cb4180d824128ec5bebdd73ea74ebd419e62d7ae27f6052c10dbdcb57d",
+        "url": "https://files.pythonhosted.org/packages/9f/c1/8da955b385cbfc96be2ad3bd7cf504f4bfebd151d2ed0ed51351a29aab95/batchcompute-cli-1.2.0a1.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "ca17b9572a15bde3156b143fad6b9e8b11f8e958ca258e8a1f50fb71bcec172e",
+        "url": "https://files.pythonhosted.org/packages/65/b4/900dc29bcb254e32d6773b6f953a9872626550deec04a7c09310e07f3b28/batchcompute-cli-1.2.1.tar.gz"
+      },
+      "1.2.1a2": {
+        "sha256": "c9bfd9c4e3b09f42899c88cf31e4347f58844d17d414a36c9e3b8bf3cd8d2293",
+        "url": "https://files.pythonhosted.org/packages/f4/5d/39cfc167258b30439665292be150ff9bfdb0725ae0487217c1e68613c77b/batchcompute-cli-1.2.1a2.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "8f994a4c0b679ea234b14b18d9e6ecc4aed2d5dd9a096ef5450505d4e5fa7d2c",
+        "url": "https://files.pythonhosted.org/packages/04/c4/f5dc582ef8922ae1abdb4148d3bfe0147ad713e3b28997241177e37d5a73/batchcompute-cli-1.2.2.tar.gz"
+      },
+      "1.2.2a1": {
+        "sha256": "c97e4126b2cb569db4f0819fd40fc4787d5e09eb55e90059b48021049d1e81dc",
+        "url": "https://files.pythonhosted.org/packages/9b/0e/8c8416eefe65a4728fba56035059eb9668262f5a745e25338a3f9f569c42/batchcompute-cli-1.2.2a1.tar.gz"
+      },
+      "1.2.2a2": {
+        "sha256": "c7cc3e94aa75bb60863995780172ff9169e7140b6e31a37186f493f104087fd8",
+        "url": "https://files.pythonhosted.org/packages/3d/1d/1df0c0491460cbe8d211c826e59971dcc875b00e32b2ffcdcd9fc4e6e301/batchcompute-cli-1.2.2a2.tar.gz"
+      },
+      "1.2.2a3": {
+        "sha256": "4c228dc859d797e6d825b3c6034cfa016a366f96f774fd7f425aebbad5750644",
+        "url": "https://files.pythonhosted.org/packages/b4/11/894910685a1c6a2de308c1826039dfdcafa2f08f0e3ab05a4f523cd6d6e0/batchcompute-cli-1.2.2a3.tar.gz"
+      },
+      "1.2.2a4": {
+        "sha256": "e9d507ac61c10a422111dc835432c23f984ff3b4ab56e70875eed1e3007d283b",
+        "url": "https://files.pythonhosted.org/packages/17/d6/e9a8d7cb25108ed13c7934c3b5fa1c53e5bd2c164b265b6e6f752079c2c9/batchcompute-cli-1.2.2a4.tar.gz"
+      },
+      "1.2.2a5": {
+        "sha256": "a39453b4e739143d93b3f39e0c435575843837c73cbabb4fc3fffa18462434a8",
+        "url": "https://files.pythonhosted.org/packages/9e/c1/4e747784020c4a806b92c371675f95538dc385112814bd71ee8f418004d1/batchcompute-cli-1.2.2a5.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "a571fc4c0a9a83c3018f552f88607de53d378616e1089798bc0f07bc48b61d62",
+        "url": "https://files.pythonhosted.org/packages/39/0b/274425636f144a7882fd8e6b3b3f202aedb85ef4dc410327d62f5e2385be/batchcompute-cli-1.2.3.tar.gz"
+      },
+      "1.2.4": {
+        "sha256": "5d58e3c3cef298778efc181bdc25b96ab087eef5c76f73ac2db33146b51ee4f0",
+        "url": "https://files.pythonhosted.org/packages/f9/e4/f3291ef7c9ce590e42289697afb418c6b3872a3439800bda04bfc892a3cf/batchcompute-cli-1.2.4.tar.gz"
+      },
+      "1.2.4a2": {
+        "sha256": "c8a844e8965e65656d88991396af994c3be5f8b92e9d2a1e1f49bcf2df5b71c4",
+        "url": "https://files.pythonhosted.org/packages/6e/9f/172eb5d7ddf844386e4fe3e852ab56cea2df2fb1a2fbe3f5b9dd5de47089/batchcompute-cli-1.2.4a2.tar.gz"
+      },
+      "1.2.4a3": {
+        "sha256": "dcdb963d16d662148e2f3eb31a8522d99b7929790ab0cc2f5ecd1dfd53b09d7e",
+        "url": "https://files.pythonhosted.org/packages/dc/02/07c930408444f084d7968558a2cc94c5b585ba099f526f1a2eff743ad00f/batchcompute-cli-1.2.4a3.tar.gz"
+      },
+      "1.2.5": {
+        "sha256": "3866a41a2f39e95d35034178e2e63343fbbe2f8a443660595771c873a2a45c8a",
+        "url": "https://files.pythonhosted.org/packages/ee/7d/4d3b9a739c5fd19ada4279b563c62c1d63ef08d84029fe277d03634bfcb4/batchcompute-cli-1.2.5.tar.gz"
+      },
+      "1.2.5a1": {
+        "sha256": "143e1a74478f780e83dbf9366e95c551d947b7ca0849d5c6fb9f16cf52fa1658",
+        "url": "https://files.pythonhosted.org/packages/d4/90/eed1075eb3e036f04bb72b4eece766b72f870aace0b75eaf927853d63eec/batchcompute-cli-1.2.5a1.tar.gz"
+      },
+      "1.2.5a2": {
+        "sha256": "1f1bdfef08812f12ec065014882c422c9ea6b327b81ba19f00c25e90e053c8ea",
+        "url": "https://files.pythonhosted.org/packages/2b/0a/3897d350b038c258121a54f2df8030db5a028227558e59e7b68b8ead0df6/batchcompute-cli-1.2.5a2.tar.gz"
+      },
+      "1.2.5a3": {
+        "sha256": "f900b120b1047cf4f85b5ff06cd65ab851e9b8a8c42378b0b7129b591c2ee61e",
+        "url": "https://files.pythonhosted.org/packages/85/5a/5247b6708e823d6d7deee579f15c4c52b1b98dd420354520a4159b675a14/batchcompute-cli-1.2.5a3.tar.gz"
+      },
+      "1.2.5a4": {
+        "sha256": "e9a6ea6ea10d1a3e7c913f728a4ac0712bf752368f745c79549883ff719160cf",
+        "url": "https://files.pythonhosted.org/packages/23/dd/82b8b1040d95be09836a8859044b98105252824e4f668b4da7c0161a9374/batchcompute-cli-1.2.5a4.tar.gz"
+      },
+      "1.2.5a5": {
+        "sha256": "0a699cce36aad2bf2c2ac122277794381dffb09286f23aef32ce02cf95c546b0",
+        "url": "https://files.pythonhosted.org/packages/a0/a8/dd2aeb765a5e3e3d301cd269b84e3976035d118b0433a6537c72706f6526/batchcompute-cli-1.2.5a5.tar.gz"
+      },
+      "1.2.5a6": {
+        "sha256": "34699540276fb29612da3be72ca1485303a778137f6c08584ab5f12b4b52a4ae",
+        "url": "https://files.pythonhosted.org/packages/e2/b3/1079ee07b687d9cb871a4fbff5f3d0a064ffaea4b0d25231cfb41a45d8bb/batchcompute-cli-1.2.5a6.tar.gz"
+      },
+      "1.2.5a7": {
+        "sha256": "b62c84ef0e717e08715ba85f55afeca9c424b125aceef8f5581d10d8e969b2c5",
+        "url": "https://files.pythonhosted.org/packages/7a/39/b8e526c31cdb1d02ce36e651d435a1420458b854865d36603af285bc7ecc/batchcompute-cli-1.2.5a7.tar.gz"
+      },
+      "1.2.5a8": {
+        "sha256": "d522110b156b462d334f6372c14b7a17459eca009004f04fdedb1b47df61597b",
+        "url": "https://files.pythonhosted.org/packages/64/7b/19365576b3125f7bac974e121862511245d4f2b247b0850b3cb207c344b8/batchcompute-cli-1.2.5a8.tar.gz"
+      },
+      "1.2.5a9": {
+        "sha256": "4f425a991f1730c6664928af89e133525e5e742c4296b52a8bd5914bff37e14d",
+        "url": "https://files.pythonhosted.org/packages/d5/2c/f93c55c355b05e4071d41afa5b4dfdd3d11a3defb847f0b22adfe5169b7a/batchcompute-cli-1.2.5a9.tar.gz"
+      },
+      "1.2.6": {
+        "sha256": "03302e878ac0b035837a7438efe29d8dc27e469cebca50548af081a0486fa49c",
+        "url": "https://files.pythonhosted.org/packages/c7/c4/e0d03d49bf58d2970801c57a7147fc2ee9182c1ab98987f84f7fe6189351/batchcompute-cli-1.2.6.tar.gz"
+      },
+      "1.2.6a1": {
+        "sha256": "4b7f5f684ba7f160c9d540eccc94548ffe156b1b6c624f3839381552adfb09f2",
+        "url": "https://files.pythonhosted.org/packages/e9/2b/00150351a14ae21111fa645632207aba9652924c2b85014e652e1e23f797/batchcompute-cli-1.2.6a1.tar.gz"
+      },
+      "1.2.7": {
+        "sha256": "bd220dab61ee51922e86f37ad89c33eefb63b6a15c4efef73152286a620970a5",
+        "url": "https://files.pythonhosted.org/packages/51/c3/7710fda5b2802df8a4ff26d48708a7cba38c51b8782997118af137742d0b/batchcompute-cli-1.2.7.tar.gz"
+      },
+      "1.2.7a1": {
+        "sha256": "25c73fa689e7ea850811b84a6ebe18da87e7aaeb5a6ddc48ecf77aa3b1fb7f47",
+        "url": "https://files.pythonhosted.org/packages/61/20/1653197000284581be78f569b3e41ccec31f763e90f321eead9928e78549/batchcompute-cli-1.2.7a1.tar.gz"
+      }
+    }
+  ]
+}

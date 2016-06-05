@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "DoveDNS is a library for interfacing with Linode DNSManager, using Twisted",
+    "homepage": "https://github.com/hawkowl/dovedns"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "c6e547c33887a581bc46915da6d17aea15b932871b2c54b1edd3b0d7ed4366d6",
+        "url": "https://files.pythonhosted.org/packages/80/f1/36d8a296444d8e9432552f0315799e5ed0f4d8ab1efad8a795547532ceac/dovedns-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "6a3d3f5e34f89b297fba465442afde1b256c570154950b37a22263b2480876aa",
+        "url": "https://files.pythonhosted.org/packages/10/36/7878d6fc4a561ee8a4398b949e93f07837f991aae77ce7b73e5b48eb9b98/dovedns-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

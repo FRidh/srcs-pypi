@@ -1,0 +1,17 @@
+{
+  "latest_version": [
+    "0.1"
+  ],
+  "meta": {
+    "description": "MrHooker is a command-line tool for hooking function calls in Cython,\nusing LD_PRELOAD. Hooks are written in `Cython <http://cython.org>`_ (a dialect\nof Python), and compiled on the fly. MrHooker will take care of setting up the\nenvironment, initializing Python in the child process, and cleaning up\nafterwards",
+    "homepage": "http://github.com/axw/mrhooker"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "ea11786988a15342f40a6bd65fc8a0e31e4a56f474eb536b8cab44ed27db9a12",
+        "url": "https://files.pythonhosted.org/packages/42/f8/039fd5041ad64fba736df5d6666559e28457cb269fb38ffed035b3a45703/mrhooker-0.1.tar.gz"
+      }
+    }
+  ]
+}

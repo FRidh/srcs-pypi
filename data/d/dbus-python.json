@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2.4"
+  ],
+  "meta": {
+    "description": "Python bindings for libdbus",
+    "homepage": "http://www.freedesktop.org/wiki/Software/DBusBindings#Python",
+    "license": ""
+  },
+  "versions": [
+    {
+      "0.84.0": {
+        "sha256": "b85bc7aaf1a976627ca461b1ca7b0c4ddddff709f52fe44c9b2d1d7d8fac5906",
+        "url": "https://files.pythonhosted.org/packages/af/6d/6ef666713c9903645aa76b4c4c888c17b7f5d77c636756a6c630647edfdd/dbus-python-0.84.0.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "f79741510cad485afba1303b43e639aacdd7ddecf3ce7c6cca0b1a849bdf8fb3",
+        "url": "https://files.pythonhosted.org/packages/fd/80/861003a9ac85ac9283694c6038cee1d2d6fbdf2b6e792cff2c3e8c244e27/dbus-python-1.2.2-pypi.tar.gz"
+      },
+      "1.2.4": {
+        "sha256": "e2f1d6871f74fba23652e51d10873e54f71adab0525833c19bad9e99b1b2f9cc",
+        "url": "https://files.pythonhosted.org/packages/ad/1b/76adc363212c642cabbf9329457a918308c0b9b5d38ce04d541a67255174/dbus-python-1.2.4.tar.gz"
+      }
+    }
+  ]
+}

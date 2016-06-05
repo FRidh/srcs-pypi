@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.1"
+  ],
+  "meta": {
+    "description": "Send Mezzanine Page and Django model contents to Smartling for translations. When the translation is finished the page is saved into an admin view in which it pends for site specific approval",
+    "homepage": "https://github.com/Appdynamics/mezzanine-smartling",
+    "license": "Apache License\r\n                           Version 2.0, January 2004\r\n                        http://www.apache.org/licenses/"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "93fd6c5c0e2e345045cbe84393d65878369ecbd49a619bbaac37a6417b80fe8d",
+        "url": "https://files.pythonhosted.org/packages/ef/de/ad19d990f3933893239736bac2a7baad902b2baf9ad5cf70a23c10359ff0/mezzanine-smartling-0.1.tar.gz"
+      }
+    }
+  ]
+}

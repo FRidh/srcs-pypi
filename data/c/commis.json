@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Create command line applications like Django management commands",
+    "homepage": "https://github.com/bbengfort/commis",
+    "license": "Apache"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "e2227c95872fe5a92835e561eb29f9576e0a28355b7ee55655b2b67d56bbd693",
+        "url": "https://files.pythonhosted.org/packages/7d/0a/681ac42f6ab53057cb25ecbc5a622a9bd1a615e81808bd343825ca44438d/commis-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "ac1a2920a98d67322424786745e2a9598303fae8236c020cec165ed85043ff28",
+        "url": "https://files.pythonhosted.org/packages/8c/5f/4cf92f40ab51438945d75ebbf0bb0cacea237d9c2d03d60e539ec82eadc2/commis-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "073a7d2b392a811c76f52c36c35823fdfb296dfb8540e24547ffdc8b3060c31d",
+        "url": "https://files.pythonhosted.org/packages/a9/c6/50ba5ba900e44e63325742038c803fc93528e7595d7e579fc1897e2be28a/commis-0.3.tar.gz"
+      }
+    }
+  ]
+}

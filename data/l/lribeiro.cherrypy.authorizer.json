@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Extensible session based authentication and claims based authorization tool for CherryPy",
+    "homepage": "http://bitbucket.org/livioribeiro/cherrypy-authorizer",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "76de37f43e66cbc680d936598ec0bf25a5034505e14fa9289960d042eeb4046e",
+        "url": "https://files.pythonhosted.org/packages/a8/ea/e415482822de13c754ca7da4cfde71540e6adf44faa0e364b5f7bca85215/lribeiro.cherrypy.authorizer-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "d35b4266deb26a77274672899c4badc0fe8c308ac336edee0d16d1293196aa79",
+        "url": "https://files.pythonhosted.org/packages/b9/e1/abfa0d462c66df3687ff05d1afbda5f07666c5b984da3661bbb2ef50dfa7/lribeiro.cherrypy.authorizer-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "ecde61a90349945c0d757762738f901d6e87a0248e4d3dec2141696a39d69e9a",
+        "url": "https://files.pythonhosted.org/packages/5d/d7/dced2fe0cc5ccefd608a6f34afff6059df5f2111f64ba4e8463f9fe9612d/lribeiro.cherrypy.authorizer-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

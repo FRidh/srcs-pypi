@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "2.0.2"
+  ],
+  "meta": {
+    "description": "PowerVM driver for OpenStack Nova",
+    "homepage": "https://launchpad.net/nova-powervm",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "f62630d8131b84638de37a381a1002756c07244ca1184ea903e41d85a7ffacdd",
+        "url": "https://files.pythonhosted.org/packages/9c/a3/32d666c975468718322b6e58425567e86b8271b703b1912fb2889e2e9bc0/nova_powervm-1.0.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "0caceae2f4c6a17d45844a1ef7ece0c3e5d93ee8a9ec199e4a5dec29ac4a117f",
+        "url": "https://files.pythonhosted.org/packages/71/8b/c0db237d9bcfae5d6c1b1092832b8d2eccea3d4def8fb71a17ea91112f15/nova_powervm-2.0.0.tar.gz"
+      },
+      "2.0.0.0b3": {
+        "sha256": "03ca844f0f72611a391049461daf0f48f2023091e55381f34c7844d34c8022bf",
+        "url": "https://files.pythonhosted.org/packages/3b/50/ad505d28e7af590cbd31bd2a23f5575e17e1d80dde474cd4a9b14bca9e0e/nova_powervm-2.0.0.0b3-py2-none-any.whl"
+      },
+      "2.0.0.0rc1": {
+        "sha256": "f1e83acf852a2146c207982d07cea74471aac1704e11b2bcbae24d8f89fd42dd",
+        "url": "https://files.pythonhosted.org/packages/e2/fb/eb9cdd7db9428cf1c1644f0e53be96467192baac15f521397bbb94fae669/nova_powervm-2.0.0.0rc1-py2-none-any.whl"
+      },
+      "2.0.1": {
+        "sha256": "85c3f39dcb6557dfa264f11c0fb77fa61a972303a88152b92e62e04d412f44c6",
+        "url": "https://files.pythonhosted.org/packages/ea/2d/e75d84a9f110f77da61e32c3ea1ca4b925b8645ec7c24b7a45f868706a2a/nova_powervm-2.0.1.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "a9497ff3732e2d8c192b08b66e93554f6ae23d4a40bffd1c50a3db47e1368ce4",
+        "url": "https://files.pythonhosted.org/packages/6f/37/d28a3e317b0a77524933e4082589a2a8fcad4c7ee046ae9bdb9fafced124/nova_powervm-2.0.2.tar.gz"
+      }
+    }
+  ]
+}

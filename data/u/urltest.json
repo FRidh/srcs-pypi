@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.3"
+  ],
+  "meta": {
+    "description": "A wrapper around WebTest which provides a nice domain specific language for testing URLs in WSGI applications",
+    "homepage": "http://github.com/garethr/urltest",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.2.2": {
+        "sha256": "51f3bcdf046c4b5cc5a3cda00dd32d986223b2a9053524ced1fbbb7dc9e32e5b",
+        "url": "https://files.pythonhosted.org/packages/36/e8/7cff1f8eed439ba109cb8a3260191239b7ec73cf416a6976c40cd17751c8/urltest-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "64d1c5b0517f68b7ab4da72349c75dc629090b65c55e49039a7f141b1c8e0ab1",
+        "url": "https://files.pythonhosted.org/packages/89/b8/d8021b4d653d0a7f8bf56601ddfb4b35b9ebd6b43a8d50c8b3819f7c0702/urltest-0.2.3.tar.gz"
+      }
+    }
+  ]
+}

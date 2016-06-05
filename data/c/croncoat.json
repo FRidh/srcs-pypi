@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "croncoat extends cronwrap, a cron job wrapper that wraps jobs and enables better error reporting and command timeouts",
+    "homepage": "https://github.com/MatthiasKauer/croncoat",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "334d5f2957703a5a533f4bb9e772185b3568a9eea4e126bc1776bff1388e68ad",
+        "url": "https://files.pythonhosted.org/packages/c8/64/ca8ee5dd517f7447326b3574f84fbd9dc969fb44d145fc0772c17cb350a4/croncoat-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "56ce01063361e1f6fc047e57f90975e226676462ca7e789d2d297e08223e257b",
+        "url": "https://files.pythonhosted.org/packages/1f/10/4f8f0d39d8a4d2e6ac876c4b505b116438b43884378770f6b03e12309596/croncoat-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "3.3"
+  ],
+  "meta": {
+    "description": "A zc.buildout extension to solve chicken-and-egg problem of using python which is built by itself",
+    "homepage": "https://lab.nexedi.com/nexedi/slapos.rebootstrap",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "3.0": {
+        "sha256": "5554d5e5c38a268cb6c19b29368935765bd0e130c10dd983358c5bceb7a1851a",
+        "url": "https://files.pythonhosted.org/packages/76/44/8ecd1eba0de92af9ff5eba70b704ba69e972ca597700fd7af689c3fbf731/slapos.rebootstrap-3.0.tar.gz"
+      },
+      "3.1": {
+        "sha256": "3ad620c3303c0dae09c57795e42f90ae61718952de5c2cfb6415986fb0ce0447",
+        "url": "https://files.pythonhosted.org/packages/8e/11/de688a5a6941a157c69550a93068f3165dffab4e78a6014854f9cc1965cb/slapos.rebootstrap-3.1.tar.gz"
+      },
+      "3.2": {
+        "sha256": "220fc84c395f74159f9a53e66440281020789f5d2d56e3849cfbecb09eff66d3",
+        "url": "https://files.pythonhosted.org/packages/3a/05/c5e6049f96a91f6f80bb857d4cf1e4897d7a18f118bf4a94b1ecd60b6cfc/slapos.rebootstrap-3.2.tar.gz"
+      },
+      "3.3": {
+        "sha256": "83b151eabcc0a4e74ecf3498e675a1466a7fb4e0a6beaceb87e7e3009466b4b0",
+        "url": "https://files.pythonhosted.org/packages/1d/cc/2ac5e1b35cb15f314c2db39a8921c55b63eac20a286f7c83fd4ec8f030ed/slapos.rebootstrap-3.3.tar.gz"
+      }
+    }
+  ]
+}

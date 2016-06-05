@@ -1,0 +1,33 @@
+{
+  "latest_version": [
+    "1.4.6"
+  ],
+  "meta": {
+    "description": "A framework for conducting pore network modeling simulations of multiphase transport in porous materials",
+    "homepage": "https://github.com/pmeal/OpenPNM"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "7bd2ae0328052f4a24b4b7615330a68f3f7ca1522c5a2e1f2979e37351fedaa7",
+        "url": "https://files.pythonhosted.org/packages/f7/91/1a3735f9c16bea12d71e797c0c41928b7dffca1abfc4e714ec653b7a8dc8/OpenPNM-1.1.zip"
+      },
+      "1.2.0": {
+        "sha256": "50952e44647f9ee4031777dc478f534b17a7a5bb1fa0c626187997303f13a330",
+        "url": "https://files.pythonhosted.org/packages/0f/dc/f56375a29f4fe96b74b63dd63239f56ec7c9d97eb12b345391e19d54c2c9/OpenPNM-1.2.0.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "b628badc8f864ed760d5e328ea6a21f1a2713065d993d63789323cf3de965d20",
+        "url": "https://files.pythonhosted.org/packages/15/3a/fd5f95c90bd9a7791d3cc8222326428a5e6e0ecbd6270fc5e78eaa63656b/OpenPNM-1.3.0.zip"
+      },
+      "1.4.0": {
+        "sha256": "8e5a36e4067ac6141589cd95e88559f871a334f39bae3dc16ec13fa506b8c3c8",
+        "url": "https://files.pythonhosted.org/packages/f7/0d/4e6b8974cfc1be674fd9facfebb21468dc7e50668a8e47eba5947991a661/OpenPNM-1.4.5.zip"
+      },
+      "1.4.6": {
+        "sha256": "04faadfbdb4bcc6b8e83e05b57cba77d3ee08d0bb37252d91536dab7250dc15a",
+        "url": "https://files.pythonhosted.org/packages/44/b1/db571ce2b7fb350b03b3cdf82da480264eafb0ad2c02deca7b99af8e171a/OpenPNM-1.4.6.zip"
+      }
+    }
+  ]
+}

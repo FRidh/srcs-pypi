@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.3.3"
+  ],
+  "meta": {
+    "description": "Generate a set of Redmine tickets based on YAML template and value files",
+    "homepage": "http://dataone.org",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "280b57efb1a611ae044927a5db34e2f263dabe6a4c03454cc5a393024c83feef",
+        "url": "https://files.pythonhosted.org/packages/ae/85/10fbb195fb3225b6f537d25e076297c3a4f13d4d221823ef36aaddcf0b07/dataone.ticket_generator-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "c267b3a11a95f7536a2dc1564971a2401daad9fbe955e3c229be505b84248817",
+        "url": "https://files.pythonhosted.org/packages/57/bf/e5035a8983f924d4ad16bd1166df16ddabf7bf2985205b209d82d9407121/dataone.ticket_generator-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "c6764a130e5d86e40ba51d7672f39ab4108e3d744ee4413bf3d53a71ce2c27ff",
+        "url": "https://files.pythonhosted.org/packages/77/58/5817c1eecb17b6d9137956649d3b2cb5adbfb91f993926bc85a32e36e75a/dataone.ticket_generator-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "852e0a213080aa7da2b673adcf832d062399ee58e5b57884ffc95b660f20db66",
+        "url": "https://files.pythonhosted.org/packages/d0/a0/6225f3527f41a0981c1540e277f3dfb8e4e0889d4e59b84ccb0ceb4403a1/dataone.ticket_generator-0.3.3.tar.gz"
+      }
+    }
+  ]
+}

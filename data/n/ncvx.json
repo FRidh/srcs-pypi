@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.1.4"
+  ],
+  "meta": {
+    "description": "A CVXPY extension for problems with convex objective and decision variables from a nonconvex set",
+    "homepage": "http://github.com/cvxgrp/ncvx/",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "6cd3587d10d2b31880167eb4aee5ff3b38561973e5c1a350e11b71a6c9a54840",
+        "url": "https://files.pythonhosted.org/packages/d1/f4/548760e9682a48448ee77474e5e45f9308fb554b2e6d54844389098afa18/ncvx-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "a7b8c01052959d768c2f5a0d51b95a71b1fc1874ff45b89030bcf07d3230125b",
+        "url": "https://files.pythonhosted.org/packages/da/61/696e177e7c00569f99b0642c43052974ea02fa77788d2e2e7da5edb79105/ncvx-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "2b3599c13b5ae0942303fc89d69d9bde0c68eaacef2b78ea0a297467f1d800bd",
+        "url": "https://files.pythonhosted.org/packages/8f/80/256d79c10d36fc6068c0c15a3761af3e02548d6a317fcd2c8e0f919f897d/ncvx-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "a3aacc2d90448658254546ff9256d2d4e683ae6dc42c9a653a6935d67873bf37",
+        "url": "https://files.pythonhosted.org/packages/ae/e6/8041c6024bf89949ec3b9fe5f7823a605dcbb9ea827784103a1284ba4ac6/ncvx-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "5de8a263d3f96a89d8840ef8ed63eac5b17fa4bf582db5dd5b12b224c0d9a76e",
+        "url": "https://files.pythonhosted.org/packages/07/1c/67718092cec5cc8507d181c97b7c6a5eaca92ee44b42bbf870b7b626d8ca/ncvx-0.1.4.tar.gz"
+      }
+    }
+  ]
+}

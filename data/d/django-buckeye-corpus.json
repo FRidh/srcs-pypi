@@ -1,0 +1,673 @@
+{
+  "latest_version": [
+    "0.3.55"
+  ],
+  "meta": {
+    "homepage": "http://pypi.python.org/pypi/django-buckeye-corpus/",
+    "license": "LICENSE.txt"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "2bd9c051e404a96318ad867e101cc03171cacd9384166a1dddbef01c9e478868",
+        "url": "https://files.pythonhosted.org/packages/41/fb/d66efba8a9b6d96dde729d4624bc8b2a8699ae5796a02bce9eae227403db/django-buckeye-corpus-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "ab2abd56bb6f371950bea558e5b40aaf64aa20eb50e35f8e8a94c9d2b8548f29",
+        "url": "https://files.pythonhosted.org/packages/b4/ba/cdff5b7a7ec5f4ac99490d6109729b9a6dff0d48aceb05279d59b2c7e732/django-buckeye-corpus-0.1.1.tar.gz"
+      },
+      "0.1.10": {
+        "sha256": "6ac786bf4081978a22b4591f8d6f52a1c009c88da8321f9980d062ddf4ab7792",
+        "url": "https://files.pythonhosted.org/packages/4f/30/92dc2db323911ed6a28e311fb170ba5863ae86adb493ac3fa712dbb4a2b9/django-buckeye-corpus-0.1.10.tar.gz"
+      },
+      "0.1.11": {
+        "sha256": "d78506aca6553b4f369221af60737ece3b1fa8b5032980997e38d6df6cfb827c",
+        "url": "https://files.pythonhosted.org/packages/8e/cc/ae41f1609630856ddd86247f2f91fd5a635724967d4c8d51022dcb69e4ae/django-buckeye-corpus-0.1.11.tar.gz"
+      },
+      "0.1.12": {
+        "sha256": "20e833097a7002242523fd2eb6b25edc0302fa5e7c1d278c5bb4c413eced9962",
+        "url": "https://files.pythonhosted.org/packages/66/a2/dcbab5c8cccb4bff47547e6967aaac60032fd6a485cf36fb7976f8bbe76a/django-buckeye-corpus-0.1.12.tar.gz"
+      },
+      "0.1.13": {
+        "sha256": "8c8062d02aaa5d73a83b55dad2fc6d106f3cbaa587ef0f8c2d41eb8cc44e5f32",
+        "url": "https://files.pythonhosted.org/packages/63/5a/59c8da0a02e1fcfc37cacfb0b1f0a8594444d4c9124f7f733905f7ad1e03/django-buckeye-corpus-0.1.13.tar.gz"
+      },
+      "0.1.14": {
+        "sha256": "c8a589ed054ea9f32ba3ad4c6ca8e06af665bf5a760d5f7f3e616bbad72abf3d",
+        "url": "https://files.pythonhosted.org/packages/5f/e6/76efa8b11eaece4ae36fd98bd0e480283745e4d68e1528211e3d1ab7c824/django-buckeye-corpus-0.1.14.tar.gz"
+      },
+      "0.1.15": {
+        "sha256": "583e105b6afeccb32c4cc43a2624a3f21436d248bf705411111982828678ccbe",
+        "url": "https://files.pythonhosted.org/packages/7b/12/beabd8cf2d06ec262450dd2485fe587527c73b0ebf2d381224988efcf043/django-buckeye-corpus-0.1.15.tar.gz"
+      },
+      "0.1.16": {
+        "sha256": "10b72f1f0ef54a852d62082c571b683df5e93413e6b9cdc24179f14dc6240ff3",
+        "url": "https://files.pythonhosted.org/packages/8a/fe/cf5410691f0cddc9a7ae20694dc2d15beb9c2b4c7f7fc527077cddd6494f/django-buckeye-corpus-0.1.16.tar.gz"
+      },
+      "0.1.17": {
+        "sha256": "69196ba4d632d8d1f3a7a49ec9916681f87ea65294c96273aabe6781293e588d",
+        "url": "https://files.pythonhosted.org/packages/d2/8f/837ccadb11a7b487679e014fe44bcfa697bd7e79d0cdba8c4e2cb3199096/django-buckeye-corpus-0.1.17.tar.gz"
+      },
+      "0.1.18": {
+        "sha256": "7b6320428188c8ed8acc6f444fa7c208d6b239430eb40de6f3895954a3769ac6",
+        "url": "https://files.pythonhosted.org/packages/a9/f0/e5fdf155a1f29e66e9df3e3abe4498d38aa9916525fde5547c2af37baf08/django-buckeye-corpus-0.1.18.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "d4750a5e69236fb724bee311e641dafadef27ed1b94253dc718c534b722b5c4a",
+        "url": "https://files.pythonhosted.org/packages/da/89/7fda2cdde364509f6fb2e4eaff090a10865b23e41f21320f5b1dfb7699f1/django-buckeye-corpus-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "2ab8a4c7bd37c86e465caf1d0f19fe2a9fa203d833b41122593eb3deef315c5a",
+        "url": "https://files.pythonhosted.org/packages/7c/5f/bb5dbffab687dd63abea3a9a4bed27afd3a46d630e1145b90b91e9235feb/django-buckeye-corpus-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "c695cc41da426de55e3e4563a48cddb21f0a4a66bf1f15a885f8f3e66508a8ba",
+        "url": "https://files.pythonhosted.org/packages/76/0b/68dc820d20e467fc3e3a28d7713ee605d849d29aaaeb566c6e99f2cc4326/django-buckeye-corpus-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "c0334712097bd917afbfee6cc10c8ed8c9cd0c587323777764f597c96985ae67",
+        "url": "https://files.pythonhosted.org/packages/6d/a9/52f9d7b5f87c850751c5d9691c79f213b562dc684c3f81453fc5a01bd4a9/django-buckeye-corpus-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "cd0f95b85400c02e7e61e46691b9f13c5730c7ad127a44b53be4a86bf089693f",
+        "url": "https://files.pythonhosted.org/packages/fd/d4/dda0a6fb0499f2869efc51f34794f473636491b233fbfc69f3e28d2b1865/django-buckeye-corpus-0.1.6.tar.gz"
+      },
+      "0.1.7": {
+        "sha256": "985b75f02ec275de256fdddbe78ea4941fea7e81f27ae6da2a9bf8283e95cc90",
+        "url": "https://files.pythonhosted.org/packages/77/e8/7f188da36756904e28bbf3a4ce3e145f889370fe5aa4688cc69f117610d6/django-buckeye-corpus-0.1.7.tar.gz"
+      },
+      "0.1.8": {
+        "sha256": "3e720f415ef5a47477fca1e36ab7a014c9adfff04361d25dfa61e5af05dfec6e",
+        "url": "https://files.pythonhosted.org/packages/9b/25/1f79849d32ba9655fec44f6c998dda9145f7d3df2c07d99b9efe885dc6c7/django-buckeye-corpus-0.1.8.tar.gz"
+      },
+      "0.1.9": {
+        "sha256": "fc6ba97ec55f89a544b24fa6e3164cb6b80d188dee4d57154ef15545888662f2",
+        "url": "https://files.pythonhosted.org/packages/e1/42/01fcca12495da58c89007f9cf81e41362e2fc07fcf43d83e6ecb1b37db78/django-buckeye-corpus-0.1.9.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "eecdc6a447395b49a8b48ce454019214c0f91c7f6ce9e58c4c6d74162f69f425",
+        "url": "https://files.pythonhosted.org/packages/97/be/0c9edb1d3204dcc6f2c97f4af65f8c0a10f933d2ec05d1efb75316464ff0/django-buckeye-corpus-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "7aca39cc0945c94193c0f7b1aa1641762cf9499eea3905748cb96bab68b7c94d",
+        "url": "https://files.pythonhosted.org/packages/cd/c8/7392805bec7842123538ae39e95f3aea7f1ba0571dee3505cb7240fe5d0c/django-buckeye-corpus-0.2.1.tar.gz"
+      },
+      "0.2.10": {
+        "sha256": "ea8085b913c65ca8fb3c749452a52b63644ef8ff364a043713c9710889f15328",
+        "url": "https://files.pythonhosted.org/packages/df/0b/4e84f0956245b32be5b41ac620fc69c57fa4192dcfd6e0bda6c7c42a2e0a/django-buckeye-corpus-0.2.10.tar.gz"
+      },
+      "0.2.11": {
+        "sha256": "196d4baaeefa87c3ed2b806905c7f44e1a14a53d25f97613eeb7102fb04a2f92",
+        "url": "https://files.pythonhosted.org/packages/a2/34/1def79494a78d48b7da84b3f4d0c80fd48147a4f3c8886c65cdaab23837c/django-buckeye-corpus-0.2.11.tar.gz"
+      },
+      "0.2.12": {
+        "sha256": "dd3f435165d7d99c308a7056c2edd12d14eada6d9eeab25eaf05094e6c590b85",
+        "url": "https://files.pythonhosted.org/packages/34/8b/c2c996820a2296741caa49bc1594b3888046661432ceb7b94ac3070da7a3/django-buckeye-corpus-0.2.12.tar.gz"
+      },
+      "0.2.13": {
+        "sha256": "c429e8607997f773dc1ee49cccf4c66984f834396ed44b5d3c10ef817bfc2530",
+        "url": "https://files.pythonhosted.org/packages/8a/cd/3684fcfc4da95ad2d3eada81fe89bf3231138e0dbe51d6df58e2d9a9e980/django-buckeye-corpus-0.2.13.tar.gz"
+      },
+      "0.2.14": {
+        "sha256": "c7022c736640aae8470cf8af6d0c17ef7caa7530d02961d7831d418f1f10e8ca",
+        "url": "https://files.pythonhosted.org/packages/ef/a1/0e9aa65a8353c64a40ba815db43b88f738c151da9f01336d5345fe886d7f/django-buckeye-corpus-0.2.14.tar.gz"
+      },
+      "0.2.15": {
+        "sha256": "08237fc51474dcd7c7c325d3d709b9fae79dd3e7a16a602e77141a2995700e04",
+        "url": "https://files.pythonhosted.org/packages/49/76/c42f843db6fddfe12538ddfe26d54cf29cbd5554ecc0a92edc3894a1df7c/django-buckeye-corpus-0.2.15.tar.gz"
+      },
+      "0.2.16": {
+        "sha256": "f6de7708a86edd3905b622257e31ef9ab36d15d4902dcba6536c5c43f647b970",
+        "url": "https://files.pythonhosted.org/packages/c1/1b/dbc1896757a6b2600d186b1dd68339619aa99179997611739db2916f2886/django-buckeye-corpus-0.2.16.tar.gz"
+      },
+      "0.2.17": {
+        "sha256": "52ab256ba387a6865c172e2821cd9f1d3b2a9cf7d38ce661a79c1964d7d92ddb",
+        "url": "https://files.pythonhosted.org/packages/dd/79/7842c8692adc746ac1b1eef869c00a0f5d3860968e28b8a1b90d69ff105b/django-buckeye-corpus-0.2.17.tar.gz"
+      },
+      "0.2.18": {
+        "sha256": "8ec75fe5a0ad7a0ddde7a3875946bc42c0690406c6de1ee6efbbcabce921b302",
+        "url": "https://files.pythonhosted.org/packages/9b/38/77d6e840ddfeb018e387a4abc5cdd4295cd4d6b3492f0d766c8c1c46de31/django-buckeye-corpus-0.2.18.tar.gz"
+      },
+      "0.2.19": {
+        "sha256": "5dd5b4266a94fcb35a0fd17f42c30819080035f3625b445f1b2a295fc1fcd473",
+        "url": "https://files.pythonhosted.org/packages/7c/e5/3d878d62796ba847ca1dbc28de8eef0527a3b6cf8bce18d2c24a8ca7c49b/django-buckeye-corpus-0.2.19.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "9cf7dab20c988924289062e9764fa10f0ce81bc48afaa444ce2b3e85e4df4cd3",
+        "url": "https://files.pythonhosted.org/packages/f4/85/f1294dbe26dd8dba6def9de8911c3c8da328a1d1ccf8a2e1438bed471304/django-buckeye-corpus-0.2.2.tar.gz"
+      },
+      "0.2.20": {
+        "sha256": "db2649496195f667102a07807bbdbe50ac5616c6fb715bc1e023e6ee1522f480",
+        "url": "https://files.pythonhosted.org/packages/2b/01/0f3ce1467b3bf6446e54b9e2e99baf616fd9e387b79f586ff0955e5e6cc2/django-buckeye-corpus-0.2.20.tar.gz"
+      },
+      "0.2.21": {
+        "sha256": "1237c8303bd04f3a8733b6e5c45100317ec8a571e80f837b5f9d4d97a2f9faeb",
+        "url": "https://files.pythonhosted.org/packages/84/bf/28752ec429b6fa3e45aeb05a32d95340ffc2e722033bf4914b8c3bbf6636/django-buckeye-corpus-0.2.21.tar.gz"
+      },
+      "0.2.22": {
+        "sha256": "71f5096465f13584532ed160ce759cf93f016a5197602b54eaaca3b7896bcfaf",
+        "url": "https://files.pythonhosted.org/packages/cb/b8/7cb1e23fa1d284f3974990cd0491a13214c3cba2c978f9a956ab0af885db/django-buckeye-corpus-0.2.22.tar.gz"
+      },
+      "0.2.23": {
+        "sha256": "98dbc8e3613129ba067a00ef04ef372e6a543ca8ad6e92c97884bb36497212a7",
+        "url": "https://files.pythonhosted.org/packages/28/fb/5bc611b09c596d16fcbd495abf362a25b784f719720b47defdfe17a06cf5/django-buckeye-corpus-0.2.23.tar.gz"
+      },
+      "0.2.24": {
+        "sha256": "c6cd831b25e0e9784e12033191006d111310454b8502b591a6cd52ae0ba55861",
+        "url": "https://files.pythonhosted.org/packages/55/33/88bfeec8d70a3fbe24c0584d7729a56fedaa1b0038ff2bcc9679bc3621f1/django-buckeye-corpus-0.2.24.tar.gz"
+      },
+      "0.2.25": {
+        "sha256": "f3a70f3df6c198bcd285cf0f8a1cb810b6ef9b25c6751acf0f51f7b2d04d78f1",
+        "url": "https://files.pythonhosted.org/packages/bd/b3/72beab3ea47dc876c3cf362b4c8be3c39f6931acfa214c6d9101164bbb2d/django-buckeye-corpus-0.2.25.tar.gz"
+      },
+      "0.2.26": {
+        "sha256": "995126a8e3bf6224e34af9fe04101d23150059f36731af7b6f4b04b358b1470e",
+        "url": "https://files.pythonhosted.org/packages/0a/d7/f0216450927d6ca487381e85d5ca61777c61e28ad3b983e9e1c202131bcf/django-buckeye-corpus-0.2.26.tar.gz"
+      },
+      "0.2.27": {
+        "sha256": "c83d76532a65444a3c7a719308d688dd6b4d2b36e36fbf6b5b7bdbf66cd5b5a8",
+        "url": "https://files.pythonhosted.org/packages/67/b4/725a45f325d6427ed6fe4eef481c04b881bb0106ea886dbc4453906b728e/django-buckeye-corpus-0.2.27.tar.gz"
+      },
+      "0.2.29": {
+        "sha256": "95c0add93e5967c1c07cdacb15ab2edb869e2ec16bc07efb460dfce333594dae",
+        "url": "https://files.pythonhosted.org/packages/86/13/af9c2a4556639eb32e5d6d40190f669f1bd972d0db6f102d6a75487dcdcb/django-buckeye-corpus-0.2.29.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "e783b8c2b71432efbd454a46d975798db69a4b83fce7ed44cc9003b413b4f943",
+        "url": "https://files.pythonhosted.org/packages/d5/ba/586203f1f4de97b4ef5d15cbeeb0bcf2796ffdfd4fa04b5477e02f48a6e1/django-buckeye-corpus-0.2.3.tar.gz"
+      },
+      "0.2.30": {
+        "sha256": "4f9310ed2b2c99baaeab31e9f0ccdfb2e80aae891f4a6901c4986e68b23270c1",
+        "url": "https://files.pythonhosted.org/packages/d6/bc/3af482e60fb7fba804e99d8d6a5b21b4aa668d19e8c3299f27f43788367e/django-buckeye-corpus-0.2.30.tar.gz"
+      },
+      "0.2.31": {
+        "sha256": "2e90266f6d58d0f219f4a13a84ce9d2554def4f70b1a191848606f334e8b8e7e",
+        "url": "https://files.pythonhosted.org/packages/00/f9/d829fcd990ec847248c0697a33f05dee4d31cf8b134e05c7a65795dc9898/django-buckeye-corpus-0.2.31.tar.gz"
+      },
+      "0.2.32": {
+        "sha256": "5254ff5cd0d7be374ab7585eb2d585bfd7f5f4bb330f9e888012bb4f7271c30b",
+        "url": "https://files.pythonhosted.org/packages/42/9e/92f9d197c1c219a228b69b722c9df723dad96fa724191284f27650b48217/django-buckeye-corpus-0.2.32.tar.gz"
+      },
+      "0.2.33": {
+        "sha256": "6d2836dbc4989fd2b8abd1680a19d23228edf096dcddb6a601c8f2beb468d122",
+        "url": "https://files.pythonhosted.org/packages/96/ae/7915b0b684b7286e566be69dc12153b42447d39edcbfd56b6d20dc2cb945/django-buckeye-corpus-0.2.33.tar.gz"
+      },
+      "0.2.34": {
+        "sha256": "894c98a6999f5e375efbf4a36fd749283bf73b82b9550447fb2c3c89e7d8d1df",
+        "url": "https://files.pythonhosted.org/packages/8f/e8/e2707abe12d8441bfa8de6eb7827834db599436ed6c962110f4160f99183/django-buckeye-corpus-0.2.34.tar.gz"
+      },
+      "0.2.35": {
+        "sha256": "44d96c027e0e21584dbe391efe58e41b370c51764e7e6e3b4653cd691781a4e5",
+        "url": "https://files.pythonhosted.org/packages/81/d5/abdb217969ff79a6643e2cdf462b9e5b5c85e451a86629e3eb4576aa8151/django-buckeye-corpus-0.2.35.tar.gz"
+      },
+      "0.2.36": {
+        "sha256": "f06006046de88f1641950e4358acda8484c8496af60bac100d65e7e2372515e4",
+        "url": "https://files.pythonhosted.org/packages/6a/e0/ef2cf74ca8590fdacf3e6c5d4aef7f4cf031027c2056bb3d3e3608361d4b/django-buckeye-corpus-0.2.36.tar.gz"
+      },
+      "0.2.37": {
+        "sha256": "63b7d61e98caf5fd3661637435bbbda5e5e0de741aa527f03a4ea583afb838d9",
+        "url": "https://files.pythonhosted.org/packages/e6/30/b9dbed1fc7e47f257f08cb192bebde7c8f5316345c0dd2ddbb3a602c0882/django-buckeye-corpus-0.2.37.tar.gz"
+      },
+      "0.2.38": {
+        "sha256": "0edeb9be6058881f26cdf38c09b4c3f424671a2a59a9980285f59d093564b17e",
+        "url": "https://files.pythonhosted.org/packages/20/72/2dcedd9a64883f36915099bc46f1ff796f9bf5d111a9aa1d02ec9d4d4b6b/django-buckeye-corpus-0.2.38.tar.gz"
+      },
+      "0.2.39": {
+        "sha256": "5f99c10fd053ac12a4ba9e3ac0aced89ced88f21f22985e82c26880c1d7f2736",
+        "url": "https://files.pythonhosted.org/packages/d9/8f/26da6022f4e63a843451bee94a224e80163ae6a3787c06571c02ace0fe2f/django-buckeye-corpus-0.2.39.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "6360a08d9c9f54f149c338e25d8bec85290b955fda395aa0552f5bdbf9be4810",
+        "url": "https://files.pythonhosted.org/packages/20/e5/fc6a41364cb86c7e07c9b6c7afd6d663c0f35ae8e6bfb5faf3cefed06922/django-buckeye-corpus-0.2.4.tar.gz"
+      },
+      "0.2.40": {
+        "sha256": "c197d65ac8721752da9b872be1e2b95ef3fa958adbb363df8b62266a6ba44b5c",
+        "url": "https://files.pythonhosted.org/packages/ea/76/133157761944346deb16671621e4a40b81ee43bb3f9a29f7e991d798bb4e/django-buckeye-corpus-0.2.40.tar.gz"
+      },
+      "0.2.41": {
+        "sha256": "6c0c2399e2dff668562faecbf9d75893776bbd44eabee711638bce480de5a3e9",
+        "url": "https://files.pythonhosted.org/packages/6b/d0/4e682575984b91d667ffab0fee4d37c09dceb2d10830d6aa833200d36000/django-buckeye-corpus-0.2.41.tar.gz"
+      },
+      "0.2.42": {
+        "sha256": "0a3eb778624919bbfa5a2119a9424c4fc76628104db1f8bf2c4a56a0ab90b713",
+        "url": "https://files.pythonhosted.org/packages/f8/54/b49c24d3473e5c7729846e3bfb7f0d9d917ec265a70e9f85d73af20fdcad/django-buckeye-corpus-0.2.42.tar.gz"
+      },
+      "0.2.43": {
+        "sha256": "d2f692cf99c2245b55b4db67236fa2c1a5af0aeed9fcdcad8c04a7c234626688",
+        "url": "https://files.pythonhosted.org/packages/0d/00/a7ed9cf607157b66db61885a9275989d3546c48527e965fdc468dcdf6136/django-buckeye-corpus-0.2.43.tar.gz"
+      },
+      "0.2.44": {
+        "sha256": "c183f01cbc3c8dc0a0e210e82e36fc33feea0419229bbafafb5fd263fd85652e",
+        "url": "https://files.pythonhosted.org/packages/e8/30/8704d36544590d0b2bb230d5ecb1592435f416d21962a4845c5db024aaac/django-buckeye-corpus-0.2.44.tar.gz"
+      },
+      "0.2.46": {
+        "sha256": "44f0a201b8733821a50477364c772bc2f1dd82f5b269297f1d411e442f6ad7f6",
+        "url": "https://files.pythonhosted.org/packages/4f/bf/ea727534eacb5264be030e3ba56fd603050804cbef971652361d6ff9d46d/django-buckeye-corpus-0.2.46.tar.gz"
+      },
+      "0.2.47": {
+        "sha256": "424820c367e594e0f8d7cb93d00191f02f9c9677f4afd3d4d84a140d85eb5d8f",
+        "url": "https://files.pythonhosted.org/packages/db/30/95970fab827907c5c95419635fb2ce15169927fd292dd2dcaf15c595fe68/django-buckeye-corpus-0.2.47.tar.gz"
+      },
+      "0.2.48": {
+        "sha256": "1dc08d671f12cecde0bdb3ee4e643ea9e1105a956bad170335349512ab1b1a2f",
+        "url": "https://files.pythonhosted.org/packages/ee/36/cb34eb48006c107d6f3d6783a0e7bd10d7f020287978f8e078f814d5bd71/django-buckeye-corpus-0.2.48.tar.gz"
+      },
+      "0.2.49": {
+        "sha256": "c5bc3d0d18778a37b22be737f41edfd471fe4108b93b0bb4628345237175d28b",
+        "url": "https://files.pythonhosted.org/packages/74/b3/bcb2a7374d9dd769101a097ae7f7154b85d47036820447f192a65b1e500a/django-buckeye-corpus-0.2.49.tar.gz"
+      },
+      "0.2.5": {
+        "sha256": "712b4e1c93bef0fda3e8eb066ff0f4a6420080417b2c1932d73570ad57ec5cb9",
+        "url": "https://files.pythonhosted.org/packages/2a/af/8c9e323afb19b2d5613214037de5ad369fd057b7e7340d3911e45e9bc1a8/django-buckeye-corpus-0.2.5.tar.gz"
+      },
+      "0.2.50": {
+        "sha256": "51c96c4e533427850b651a08c894635028756e69d44fc80926147fa1cff653a0",
+        "url": "https://files.pythonhosted.org/packages/62/6e/5f124af63c83f1fadba8abde0380481b156244111aadf9e951fec5b3cda8/django-buckeye-corpus-0.2.50.tar.gz"
+      },
+      "0.2.51": {
+        "sha256": "5c1734d5a790a7e9799f213fe02aaeec798268832f0f2fc90bc47708b30b54be",
+        "url": "https://files.pythonhosted.org/packages/2a/f5/7d5ef9b243b46512859545c3c2bddfd4350600d3d65d02754f68728ea749/django-buckeye-corpus-0.2.51.tar.gz"
+      },
+      "0.2.52": {
+        "sha256": "3813c1585ec74f7e41c8adbb30bf46665fed3eab1fc0f13f90da91d0768cbd84",
+        "url": "https://files.pythonhosted.org/packages/e0/51/575940e10d9f805b50a29f7457a9adbe3d66ea1a10c03f11642e40900a3f/django-buckeye-corpus-0.2.52.tar.gz"
+      },
+      "0.2.53": {
+        "sha256": "27311f2d15306c3d31e70a3ecb2a636b296fce1d78f7fd2978e0e6e59159b05b",
+        "url": "https://files.pythonhosted.org/packages/bd/18/a590abb7a1c6e0b230e0b202eebf1cd638d84ad188cc7dbe8f38322ce597/django-buckeye-corpus-0.2.53.tar.gz"
+      },
+      "0.2.54": {
+        "sha256": "9611557db4993f88075b9d9f7c7f4f582bbba95f4b463c75b931cc4a9f33ded3",
+        "url": "https://files.pythonhosted.org/packages/7f/68/86c7582710a84db11b3fc6837a9d7869944a54e74c2f5dacba9fa820f88a/django-buckeye-corpus-0.2.54.tar.gz"
+      },
+      "0.2.55": {
+        "sha256": "33e485f5b60d0d6ee00d772ad394b5273778597bb0ddb12a4fd84d8978d053d9",
+        "url": "https://files.pythonhosted.org/packages/70/51/30847806edf760aa64ac7d73ee763e170d3d7b18de97171c35db4bf30ec0/django-buckeye-corpus-0.2.55.tar.gz"
+      },
+      "0.2.56": {
+        "sha256": "11c76d71ad5db978a02eac47c6ca933a7912bff3222a59710c56a021360caed6",
+        "url": "https://files.pythonhosted.org/packages/96/e3/14095ad4d6d86606dc9fb9421ebcd0ed3df15825468f6bddab01fbb5aa8c/django-buckeye-corpus-0.2.56.tar.gz"
+      },
+      "0.2.57": {
+        "sha256": "bd9966a3efadcc7b81e5abf691b930ac377354c6b57d7e6419151b9ecfd5b265",
+        "url": "https://files.pythonhosted.org/packages/3c/e9/b25c9b674aa658beb126a3abb7203caa7b0c9cf9a39c6a64116d7237091d/django-buckeye-corpus-0.2.57.tar.gz"
+      },
+      "0.2.58": {
+        "sha256": "358ad76232743fd91e97d15107883287f09e55b4fc4a620efd1b34efe8da2dfa",
+        "url": "https://files.pythonhosted.org/packages/88/30/317fe134859b96a46da1923a365146dc3d98b744dd4de037b80b396c5bd9/django-buckeye-corpus-0.2.58.tar.gz"
+      },
+      "0.2.59": {
+        "sha256": "5f70b9315caf874933e7a04692c61569ea3e18ada4f1d1c3565ec22a02672cd7",
+        "url": "https://files.pythonhosted.org/packages/2c/af/17eb3e522a5724b31b5021dc85a22b553cdcc6a8d2a808f1486581bef99a/django-buckeye-corpus-0.2.59.tar.gz"
+      },
+      "0.2.6": {
+        "sha256": "97ed766c4b783c9b34842ef39bc6586596dfed22514147840069110956d11796",
+        "url": "https://files.pythonhosted.org/packages/ad/e7/ad988353ce82f628a96a6d31080412491ceef1a9eb03dbf31850ab8550a5/django-buckeye-corpus-0.2.6.tar.gz"
+      },
+      "0.2.60": {
+        "sha256": "c4ba1932ff5fe109e3e3d51f0ba24a06aa2d0b569e3e65057f0bc6725f821af4",
+        "url": "https://files.pythonhosted.org/packages/f9/b3/6ef2474f20f9a4176f4262ce4aad78b84b054977c771dc7c32d80bc815cb/django-buckeye-corpus-0.2.60.tar.gz"
+      },
+      "0.2.61": {
+        "sha256": "9a2089cbcd3b5c8c4118f831b6976ecad9c9438e160f49b7019b9529f6facb20",
+        "url": "https://files.pythonhosted.org/packages/5e/5a/2ed53e2490f67a6cd268388b08ebcec19765a3202e7271567ab1accc4ee0/django-buckeye-corpus-0.2.61.tar.gz"
+      },
+      "0.2.62": {
+        "sha256": "22687b955d4dbca81f28342e8f75cc87ab527922d55aa486d639a4a72a4c3486",
+        "url": "https://files.pythonhosted.org/packages/64/3d/f9cdf42654bf630f9a7b948555bfb4dad44fd567fa65a2f5ec81a28ba8d7/django-buckeye-corpus-0.2.62.tar.gz"
+      },
+      "0.2.63": {
+        "sha256": "ce4cb3629ebe33f7a65b67193797341acb9f0d7349973a633500b6b50bb3c0d3",
+        "url": "https://files.pythonhosted.org/packages/89/84/9b3b7f9adb3898f609ff32f19e0d122ff81693a6addf3b8ab61a856f3df9/django-buckeye-corpus-0.2.63.tar.gz"
+      },
+      "0.2.64": {
+        "sha256": "c1ea0e0ae6f247c6c020d1932abbc60b7b41a072faa7d5ad971a8de3add7b719",
+        "url": "https://files.pythonhosted.org/packages/cb/2b/f747f7aa578d8b1bc3549e3f1c493127fcce853006e930d1993dbaf1cf92/django-buckeye-corpus-0.2.64.tar.gz"
+      },
+      "0.2.65": {
+        "sha256": "2c27bddfdd2c52e8b6e53a68332deeda594047952521652aa25588a7078b7e4b",
+        "url": "https://files.pythonhosted.org/packages/36/8a/fd5d542629721dcc993b4a2caf42955b4bf584ed0c52a4a7801ee391918f/django-buckeye-corpus-0.2.65.tar.gz"
+      },
+      "0.2.66": {
+        "sha256": "86ca61c0cb8e9d65ae4ce272994c06094fdcb9ad29c6fd62c5aaa56e2024a670",
+        "url": "https://files.pythonhosted.org/packages/fc/ef/0c03d0fd4cb3256becf85edf9e05eaf330d205a5629fc4be7f4e2ec7d799/django-buckeye-corpus-0.2.66.tar.gz"
+      },
+      "0.2.67": {
+        "sha256": "f2b6c77c2cdfdd661197bd5d566319abab9d81d75d56a0e15816afe41a19c458",
+        "url": "https://files.pythonhosted.org/packages/ab/58/78087fe9b9e36e62caa5408f726c7452bf3c7cb13d90fa837c2290b19bb8/django-buckeye-corpus-0.2.67.tar.gz"
+      },
+      "0.2.68": {
+        "sha256": "9cfbf1f5fd01cb8abaaf1305b4317054d7d645db31616a556f91e45b091b1e18",
+        "url": "https://files.pythonhosted.org/packages/23/79/509f7f1a3c0ae56ff2747fa592dd7ef0ab5854dafbaf33c85a1848f4afa0/django-buckeye-corpus-0.2.68.tar.gz"
+      },
+      "0.2.69": {
+        "sha256": "6c3f5aa70a50f121d2ad5ad7a9440ed4fbdc41155ef8521291bff7fa1d63bedf",
+        "url": "https://files.pythonhosted.org/packages/45/f6/96896ed31b97949ec7eabf4c9d88b27038301a3f96ff4ab910e4cf103e15/django-buckeye-corpus-0.2.69.tar.gz"
+      },
+      "0.2.7": {
+        "sha256": "9ac045a9a126264b23b007af12fbf0029739f4cd4b6b22768f89d08059f566ed",
+        "url": "https://files.pythonhosted.org/packages/9a/d0/aa58ec46d1c14be9de8ee524e34df93118530bccba5bffc477bf2415b657/django-buckeye-corpus-0.2.7.tar.gz"
+      },
+      "0.2.70": {
+        "sha256": "707e5fb03105d3c605d6d08a29c856ef6cf8a3eaaa36a4c9b21ce1ab5e1c1887",
+        "url": "https://files.pythonhosted.org/packages/1d/6c/37c1221f625390b62045fd4958796621f9a1c13b9c4f378a17413ae00642/django-buckeye-corpus-0.2.70.tar.gz"
+      },
+      "0.2.71": {
+        "sha256": "db8cc1ba0edad45546881d8841e99e608081cb4882cd16aa68310a1d433e2f07",
+        "url": "https://files.pythonhosted.org/packages/a4/90/23ac84a03ed6d82d450832bcb25f80e5127e60503c6a69cd82e426ea7762/django-buckeye-corpus-0.2.71.tar.gz"
+      },
+      "0.2.72": {
+        "sha256": "187fd0c4598a0ec691fb5992a75aba75c802adae2882028a6fc635462370c2a0",
+        "url": "https://files.pythonhosted.org/packages/5f/8c/9536153d8b0e465b0340e873edf79a36f0c800dabf50a7813107bec12e37/django-buckeye-corpus-0.2.72.tar.gz"
+      },
+      "0.2.74": {
+        "sha256": "5ea6d1199db999c6fd292d02305e26094a06cfa94be38464df7cb23606cedcf1",
+        "url": "https://files.pythonhosted.org/packages/83/d6/c2115277e9c5d8b844d6197d480bb98787aa103488c45ddc8625df7a9e06/django-buckeye-corpus-0.2.74.tar.gz"
+      },
+      "0.2.75": {
+        "sha256": "e42eb13c59a9fb6a9d5608a626e4ce4f5f682f1dda98b66d9fb019e1d3a19239",
+        "url": "https://files.pythonhosted.org/packages/64/b1/87e68ec66ca1d780a63084009c8f45fde509144968fa546b8411fb34746c/django-buckeye-corpus-0.2.75.tar.gz"
+      },
+      "0.2.76": {
+        "sha256": "4af38750c0b5818f3dfbe466f094afd8b4eebfac0d6ed3361fffbeddf5882330",
+        "url": "https://files.pythonhosted.org/packages/ac/a3/eb0fff3560b9ca3b380acc7304cfdaa5c44e89a2c7de9fc35bfed08ae3be/django-buckeye-corpus-0.2.76.tar.gz"
+      },
+      "0.2.77": {
+        "sha256": "019218c44b4fe2656eda7d0a77c2c31d6edce9b793f76d7b810cebee93bc5cfa",
+        "url": "https://files.pythonhosted.org/packages/17/a1/22fcd46b50006c02ff2d5ecc771321e79804c1ac35b782671afec785b8a4/django-buckeye-corpus-0.2.77.tar.gz"
+      },
+      "0.2.78": {
+        "sha256": "7fabf16acf064207a89031f1665d541ac235a4190063a512695b51520bf5096c",
+        "url": "https://files.pythonhosted.org/packages/69/07/b90bddc2b067d538121497176c3bf4ffd7ce3d0be59ae3c57d68b6c11fb0/django-buckeye-corpus-0.2.78.tar.gz"
+      },
+      "0.2.8": {
+        "sha256": "24a4399f20029686d5352d9034b105834d068bbc92480c63bf6cfe2d1f957c32",
+        "url": "https://files.pythonhosted.org/packages/39/67/00ba5ff006be767d6f55557c06db839f309007b057d74de1da63a3698f89/django-buckeye-corpus-0.2.8.tar.gz"
+      },
+      "0.2.80": {
+        "sha256": "499aab20b75b458d9ae93a8790db4b04e56b49eaa53a0bf5bd674fe71712bf8f",
+        "url": "https://files.pythonhosted.org/packages/da/39/430c47c83808b1bd2747533a1b721f1c2c4fc86a243bdd642b97e81c984a/django-buckeye-corpus-0.2.80.tar.gz"
+      },
+      "0.2.81": {
+        "sha256": "acb7a69d7445b35f9a4fe26b17d53e6e7759719716875231a369a07c63e5e7f4",
+        "url": "https://files.pythonhosted.org/packages/95/e7/5bc00b834b0c960cff73759de5e931f6ad9b1f11ab58c7430c913363a4d0/django-buckeye-corpus-0.2.81.tar.gz"
+      },
+      "0.2.83": {
+        "sha256": "ed0b0b607dde528c5775df28e49fdbb41b3d6ab30df18e6c6d16006d987d1758",
+        "url": "https://files.pythonhosted.org/packages/96/8a/c6659b41b85a25d268a516e95734a3150dc65ffe50672834d631a4c0d8ac/django-buckeye-corpus-0.2.83.tar.gz"
+      },
+      "0.2.84": {
+        "sha256": "3e2c670be9463c0bef47469027d4f607222bdc46ac0a80d2d02db135007c6b72",
+        "url": "https://files.pythonhosted.org/packages/3b/a5/46622b3b54eda3e6098ee1b4c671e13587c0865335df491e7ff39ef98e77/django-buckeye-corpus-0.2.84.tar.gz"
+      },
+      "0.2.85": {
+        "sha256": "29d4a2e26f1b8eafd64ac2be845fe915fff43a76f971fef7ce5d502fa0d95d08",
+        "url": "https://files.pythonhosted.org/packages/a4/d9/1f05e32ea188f622a4e1a7100c0ceb2616843b4f718eb9f50660795931b4/django-buckeye-corpus-0.2.85.tar.gz"
+      },
+      "0.2.86": {
+        "sha256": "a55dcb9a651684edf604e1fd932a46c72c93ae3fbd7a572ce2b1ee9668607a29",
+        "url": "https://files.pythonhosted.org/packages/45/ba/80d2ddb66d1a30b44488fefa550be8b050f153b3156fc1c676ca270e79b4/django-buckeye-corpus-0.2.86.tar.gz"
+      },
+      "0.2.87": {
+        "sha256": "66e2a826a1946cdf62cf5b6514639f70e8593b39f925997094a1458eead22a6d",
+        "url": "https://files.pythonhosted.org/packages/20/22/ad1a01264118d03306d7c5f7f1bf63491ef95018954f1d579b8976d186d9/django-buckeye-corpus-0.2.87.tar.gz"
+      },
+      "0.2.88": {
+        "sha256": "47eb649d95d8063ab2e41033b48e4b8573005bdbfe3a919f89b1b548359ef6de",
+        "url": "https://files.pythonhosted.org/packages/5b/1e/bba3ba04b45aff65d6d9b49691f576f8059104454b82ba94ff654806c6a3/django-buckeye-corpus-0.2.88.tar.gz"
+      },
+      "0.2.89": {
+        "sha256": "d330e0b47a62ae0c50701d57d86816fae1263d4ed7fb95fbfde1d2d1abc749f9",
+        "url": "https://files.pythonhosted.org/packages/2e/52/9514b964c4fef5fa13646b8f05e4a17474b1e8e3b15d8bbf0f474bae52b0/django-buckeye-corpus-0.2.89.tar.gz"
+      },
+      "0.2.9": {
+        "sha256": "1426fa8832af4c7157f26424ad577299b9ff5e1b1c12dcf1f87f4a64b965fae5",
+        "url": "https://files.pythonhosted.org/packages/17/00/149f54ae96f593a31f332272edb5c64a9e7c24ebb4e2a4843937c195d469/django-buckeye-corpus-0.2.9.tar.gz"
+      },
+      "0.2.91": {
+        "sha256": "25f2caea484f7be566f173daa6d45a2a25dc7a937a3bda1d2c49465f13ce5280",
+        "url": "https://files.pythonhosted.org/packages/fe/cd/5ee27dcc2f9db32721ec8d197a388d0b8d06f87c286e9fde2e51498fad4c/django-buckeye-corpus-0.2.91.tar.gz"
+      },
+      "0.2.92": {
+        "sha256": "b5cd583978bf90071efeabd212103aced0d66eafa2a366894a3f10bb2ce74558",
+        "url": "https://files.pythonhosted.org/packages/83/20/a26c50975c3a4217b67cf898bbbf9a0002dd5081b82bf6fd5e5b008dabc2/django-buckeye-corpus-0.2.92.tar.gz"
+      },
+      "0.2.93": {
+        "sha256": "503fc02df490b433982c0343b07abd7593be16ea7e9dbe4d766bbdd6340ef48a",
+        "url": "https://files.pythonhosted.org/packages/64/4c/5ddbdd82d2fecdfa8850590eccfcce73d313673224daabcfe2a2b419db40/django-buckeye-corpus-0.2.93.tar.gz"
+      },
+      "0.2.94": {
+        "sha256": "e093f03d1d2e03aa69b28af9b9a442b2c80b336c450f62f8f54dc83be712ef83",
+        "url": "https://files.pythonhosted.org/packages/a1/67/fe45e4fdf78143141aaee9445d26c28e989151c16cf0a7913132858371bc/django-buckeye-corpus-0.2.94.tar.gz"
+      },
+      "0.2.95": {
+        "sha256": "be6bbff515a412204caa70c1c4cac38ab0cf940cd65511a230649dabc6bef836",
+        "url": "https://files.pythonhosted.org/packages/f4/56/7cc646b0b07bae9a6771c80077c149e8ecae263fc1312f28cde373c9640a/django-buckeye-corpus-0.2.95.tar.gz"
+      },
+      "0.2.96": {
+        "sha256": "9c9d482f8c98f552f052f0e1c6b12df4574d201fb188cb55e57460ce54770eab",
+        "url": "https://files.pythonhosted.org/packages/17/b9/6c9b5f157f91df5c19aa34f79c34c8ff470a330b1c32ac81b30ffe3e2a48/django-buckeye-corpus-0.2.96.tar.gz"
+      },
+      "0.2.97": {
+        "sha256": "09fd78a3585b08bc1396cfef8364aba44040aec3dadf1edaa95dc834637935a0",
+        "url": "https://files.pythonhosted.org/packages/14/97/8344519fe6723ef2f1d510262638ee42d6120cb43640ba87b54ed447b776/django-buckeye-corpus-0.2.97.tar.gz"
+      },
+      "0.2.99": {
+        "sha256": "96f8d86eeb8ca92c15109ed77380f64e5274a97657624a635651120f1c5552a2",
+        "url": "https://files.pythonhosted.org/packages/9f/fc/52c7e7d05d377d9221b7deb5210d872ee345d2b012073a9deaae64cf634c/django-buckeye-corpus-0.2.99.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "47359ecfb7d7239f91ba37d1ce3a20868427d89c48e0e6591b30a25f39b91cca",
+        "url": "https://files.pythonhosted.org/packages/15/1d/cbf954170d5628ad928bc30decae8442d4b2c01b92f7de0c12b5fe5e7dc9/django-buckeye-corpus-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "3beee8b5fc87044c55793be8b00746ef2f40a919ed5932c3189f08e7c6311d9c",
+        "url": "https://files.pythonhosted.org/packages/e0/7b/4881fc1d64174bab0b4fa8e25eb2e81a75650c6a682fb7f7647ea6feb9db/django-buckeye-corpus-0.3.1.tar.gz"
+      },
+      "0.3.10": {
+        "sha256": "fee4945edd0af3aadce18de76c75668e51a9dc2ebad195339676c6b092eedab0",
+        "url": "https://files.pythonhosted.org/packages/be/1e/4145cc16bc67c064c5d6d5c21ac459693eccb1e9af413e1ba944c5959a71/django-buckeye-corpus-0.3.10.tar.gz"
+      },
+      "0.3.11": {
+        "sha256": "cd1aedeb4c94eada88b8ef59cf68c2a56d75adbc0d7ed8943998689c997fe501",
+        "url": "https://files.pythonhosted.org/packages/24/bf/735738068323c518d90d61b872c5ed83d2c4fb4c539bd39c4c525500004b/django-buckeye-corpus-0.3.11.tar.gz"
+      },
+      "0.3.12": {
+        "sha256": "72ace4f761c0d5ea8f75a59629763963eb3632b7202bce8c6d1e8efef2d6b2fc",
+        "url": "https://files.pythonhosted.org/packages/02/20/abe143fce093f5602221c3c803b0c97216e760820d3fee25eb01e1a89624/django-buckeye-corpus-0.3.12.tar.gz"
+      },
+      "0.3.13": {
+        "sha256": "a77f9266aaaa50ad33b227f6e0ce60237ca5662fc165b493001ccbd9ec81585a",
+        "url": "https://files.pythonhosted.org/packages/19/13/82b5d3cf72d4a5453a03b47bc3d47af0f0efc0d967c3572eec39ed679969/django-buckeye-corpus-0.3.13.tar.gz"
+      },
+      "0.3.14": {
+        "sha256": "ae8d8dc2226ff51482383dea1b68d717ae7d9463fa018bdc6e2634d8743e601b",
+        "url": "https://files.pythonhosted.org/packages/4d/e2/cc8798f785aeebce7edd06c24c1f65180dedfb4eaf74726359bb608f9924/django-buckeye-corpus-0.3.14.tar.gz"
+      },
+      "0.3.15": {
+        "sha256": "6f6606d723d302e1f7f24e3ebcc1cf531952443389efd79ead89bf5d2bb11a40",
+        "url": "https://files.pythonhosted.org/packages/d3/6c/e3c848b1b254c5b43ac8b8b04e91908839201b886cc418f605e9d615b70e/django-buckeye-corpus-0.3.15.tar.gz"
+      },
+      "0.3.18": {
+        "sha256": "e005fc0836b0c12a6f4a07cf63a7395f9234a28ea6ced45ce5ec1c68d9661107",
+        "url": "https://files.pythonhosted.org/packages/f4/f6/5f0d7fce6b996860ed962446fb5b80aa7b2313c61873f5e7f7106a8fb21f/django-buckeye-corpus-0.3.18.tar.gz"
+      },
+      "0.3.19": {
+        "sha256": "9c8c84fa3a3860886971819b99b338f8d4dacc7abe2d844fadda36fad7a60c59",
+        "url": "https://files.pythonhosted.org/packages/8d/09/ba22a9261bbcea7c4b39b1ab38da5be55ea5e084b567c24df83274dd7afd/django-buckeye-corpus-0.3.19.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "6b53301ed1284438f7a779082e7187d523789f381aec1db8c84e45d6e3a2a6a6",
+        "url": "https://files.pythonhosted.org/packages/eb/79/645c4e7c391ae09dfa8f6031a6f0d40b1bbe9bf42b8dee1f3079829424a9/django-buckeye-corpus-0.3.2.tar.gz"
+      },
+      "0.3.20": {
+        "sha256": "7c9afe5c985f396d84ce841818f42f80340ee9cdd3f6932a4d825827a21cd27c",
+        "url": "https://files.pythonhosted.org/packages/6a/f8/2115312c2b35a9adb5911b8d3f5f8d2a69ea8fd816bc2509af1c05352cc5/django-buckeye-corpus-0.3.20.tar.gz"
+      },
+      "0.3.21": {
+        "sha256": "9c3f21d36f779641a550bb87faf124a55ee0e103dbe6b05d1bef828c6d50dba1",
+        "url": "https://files.pythonhosted.org/packages/d0/19/52e6e585ffecd85aaaacd984bdc5be34a553c68e28e7513612b852616f0d/django-buckeye-corpus-0.3.21.tar.gz"
+      },
+      "0.3.22": {
+        "sha256": "a6eeb4078c072c00548239c95c545ecbb06a94fa9a52529087dc60af1cb8030d",
+        "url": "https://files.pythonhosted.org/packages/20/c6/3ad541701e3cf3a4b10344980796dd153c9976d52b7f63607a3406dbc3a0/django-buckeye-corpus-0.3.22.tar.gz"
+      },
+      "0.3.23": {
+        "sha256": "b0c5c0db9d2fdb6b1b14102b32641275bfc53f599d26c23b04b4e6dfb0f4b36f",
+        "url": "https://files.pythonhosted.org/packages/3a/14/294f077e1807b5b481e84f4a169c1f071b10139cf10bb5c2a5a54bbc8bdf/django-buckeye-corpus-0.3.23.tar.gz"
+      },
+      "0.3.24": {
+        "sha256": "bfcf3ee9c1ca396f4b157b1834e8522aee5ff44092ad6380a36db8f5f2265f9c",
+        "url": "https://files.pythonhosted.org/packages/4e/14/61edec49552a05d7e9f146bcf1741997403f54d888a334d438abc1fdd77a/django-buckeye-corpus-0.3.24.tar.gz"
+      },
+      "0.3.25": {
+        "sha256": "4e935e5fe2e5b0e0cbac691de831720d24a2c7d311ef733eb4797b1ba0d510ee",
+        "url": "https://files.pythonhosted.org/packages/f4/5a/2540b0a9e21fc66b61f2ad83f896b411a113c9aa1485a431bcd4c97b0ee9/django-buckeye-corpus-0.3.25.tar.gz"
+      },
+      "0.3.26": {
+        "sha256": "8923de9d8650413664b3aceca992d4dc04dd69655d13fa9b85b39d272ce3577a",
+        "url": "https://files.pythonhosted.org/packages/1a/8d/c144927bc90e6682066661f2837b72a50b0311125baf972683cba4e46f31/django-buckeye-corpus-0.3.26.tar.gz"
+      },
+      "0.3.27": {
+        "sha256": "1a9257bcc0babf20f47d15476aea5d0e3209c0e42a377a3d9d3a894b0ee71a3a",
+        "url": "https://files.pythonhosted.org/packages/94/63/d27bb0209000b5c1a0cdd9d4cc876f3b91a73696cf433ca31ac2639a5aa4/django-buckeye-corpus-0.3.27.tar.gz"
+      },
+      "0.3.29": {
+        "sha256": "fff7920ea23df6d76f8ed87b4ff213d11132add99324e4b101062eec3189cfdb",
+        "url": "https://files.pythonhosted.org/packages/2d/4f/9f826ea3891d9aa7a538584b8b9d5687b3f224a184f38eee4b8d9d150fe9/django-buckeye-corpus-0.3.29.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "a158901b41f6051c3ee4d0d408a70972301b5fd060676b15286c072164cc9206",
+        "url": "https://files.pythonhosted.org/packages/6e/20/40eadc60e25f8a5c015e56a5f3ddf15f33c821757e1eb9e7045413e866d1/django-buckeye-corpus-0.3.3.tar.gz"
+      },
+      "0.3.30": {
+        "sha256": "3fe28f9ab1e5b687f731179bac0efa074d15b7b7a55e281a98cfe9bb49a476c6",
+        "url": "https://files.pythonhosted.org/packages/62/18/ee54f2988846f277ea3599226ee00e9331fb08e7259d66a13d655fe61dd6/django-buckeye-corpus-0.3.30.tar.gz"
+      },
+      "0.3.31": {
+        "sha256": "5f3b7185b34ab52771fc1ccc8e2c120429b9c63bb54ed6d2cc93bffb8fa185ad",
+        "url": "https://files.pythonhosted.org/packages/f3/ab/2107e1c417f00f02c09a69c19a534110546cf838a8148bda8aac2d224a0e/django-buckeye-corpus-0.3.31.tar.gz"
+      },
+      "0.3.32": {
+        "sha256": "55ab681c5e059e2faf7b3a1b73703365a2c8c1ae81a8bf4549da6b617e63e0a4",
+        "url": "https://files.pythonhosted.org/packages/a4/a3/8c91549f4b5b29e716110e1d3f5e6e630a9abff24cb14f407e7375caab5f/django-buckeye-corpus-0.3.32.tar.gz"
+      },
+      "0.3.33": {
+        "sha256": "17a098b3f8ce4880e6711d6258aa932cd25c9b73964fd84932b185c13c867ed8",
+        "url": "https://files.pythonhosted.org/packages/9b/f7/c9a7ec0b2cda78f512cb1e93543fdaa0c27a1deb8bc0da76457d690385ec/django-buckeye-corpus-0.3.33.tar.gz"
+      },
+      "0.3.34": {
+        "sha256": "c850f192a8e7ac8ffef5f4e7e2eb5f82ff9672fa462f95dc9f544d759abb8ea6",
+        "url": "https://files.pythonhosted.org/packages/6c/34/4f472634e28dba0ee96a79a9d4c2e640ecf177bd1d8205f34459fa3c8279/django-buckeye-corpus-0.3.34.tar.gz"
+      },
+      "0.3.35": {
+        "sha256": "b9f53c14e41343410ec16a5a5793104be9cccd0eeabc5dc665028ba01a2c22f7",
+        "url": "https://files.pythonhosted.org/packages/e7/9a/fa971cf1b11cba3b480e7e7d78d1767479b29ec7650a98b336cf29b8d3dd/django-buckeye-corpus-0.3.35.tar.gz"
+      },
+      "0.3.36": {
+        "sha256": "130e24bf6a2a53407db020600417bf0c51e18cfe4c612e802a53a3a2fd3d850b",
+        "url": "https://files.pythonhosted.org/packages/3f/05/abdc7c2d3e0685c382952f13955584e574db542cac2ab7b578c403495f9a/django-buckeye-corpus-0.3.36.tar.gz"
+      },
+      "0.3.37": {
+        "sha256": "fdb6014f21375fe5ae54180b1099fdaf831b9989e7daffef1d94975f9de0c6ee",
+        "url": "https://files.pythonhosted.org/packages/e7/63/009d1e64ed429d970f48fecd829c8795e2ae0412799a97d4e861119e738e/django-buckeye-corpus-0.3.37.tar.gz"
+      },
+      "0.3.38": {
+        "sha256": "f06bff5c6f8d01a135ccae51dce4341540b860f7cee0191cae85616fdd77c648",
+        "url": "https://files.pythonhosted.org/packages/84/76/a2c78a1117a841a14be77220770922e2897c9061dbc7aa50e6e6a8f6cf67/django-buckeye-corpus-0.3.38.tar.gz"
+      },
+      "0.3.39": {
+        "sha256": "af36790245b71a948577a885a1f637b6055ae4d412980f840ca0a027c5f9f59d",
+        "url": "https://files.pythonhosted.org/packages/c7/e2/6626cb6c4320cffb6a00a47dc53964397bb59d61ef374d24496ed9d676d3/django-buckeye-corpus-0.3.39.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "db478b6f1e8b36d14665876e64438e1c2870b816d1d3eec47cb698c14c26297b",
+        "url": "https://files.pythonhosted.org/packages/b3/fe/97dae8a04e2e536d9bc386bc482e7865180c54143e759e103c4ace58b6b6/django-buckeye-corpus-0.3.4.tar.gz"
+      },
+      "0.3.40": {
+        "sha256": "bf5dea067e0def488a72bdea00abe8da519b0de7d46aecd718bba2140e6dd420",
+        "url": "https://files.pythonhosted.org/packages/c9/3e/8587883636ca77655bb394f690f7a1bb34a32da3f26f8196ea6d198ed783/django-buckeye-corpus-0.3.40.tar.gz"
+      },
+      "0.3.41": {
+        "sha256": "aa6d70794809ba74b23d7260dbac9ecc03b9319c1e04221120321692cf2d6729",
+        "url": "https://files.pythonhosted.org/packages/7e/b0/6c2d2421068ff21461c2ef7fcddc7d4d590b83d18eeaefed2dd7e265d233/django-buckeye-corpus-0.3.41.tar.gz"
+      },
+      "0.3.42": {
+        "sha256": "535093f707b86eb942130ca8cf97e9865b86ac498953c716e35ad54dbc71553e",
+        "url": "https://files.pythonhosted.org/packages/a6/42/cbe00ce5544c2db3bf0bdb37b9e58cfb4ba63c104c231f8c4fec09ccd275/django-buckeye-corpus-0.3.42.tar.gz"
+      },
+      "0.3.43": {
+        "sha256": "2245ac5be744017199fbda8d133fceaf8884b187ec48b865b243f8e15f47d996",
+        "url": "https://files.pythonhosted.org/packages/80/26/a8565a49aca6da552ac4323aad825519c240f790959e4ba5420cb591f233/django-buckeye-corpus-0.3.43.tar.gz"
+      },
+      "0.3.44": {
+        "sha256": "c37e2d4c96a3d1164d2010c76c398a9ef0d22dd572e4b71914fb82470bdf8ddc",
+        "url": "https://files.pythonhosted.org/packages/c0/aa/90651f0b6bc6ff6e96bd4320abb0d1ca48a16bd74b781991390ec906061b/django-buckeye-corpus-0.3.44.tar.gz"
+      },
+      "0.3.45": {
+        "sha256": "a3b2b1a11f823c39f595a0f77adf715606643fe85b40e90189210be0b462f07d",
+        "url": "https://files.pythonhosted.org/packages/a9/7c/f7ec57d75d844805dfc6ba469d2ad4424eab64fb6149d326b6e50348bfb1/django-buckeye-corpus-0.3.45.tar.gz"
+      },
+      "0.3.46": {
+        "sha256": "48a0345268037beb21fe6d11274d622687cfc0b6dbad8382266cb0aa3a64696d",
+        "url": "https://files.pythonhosted.org/packages/b5/03/15c5e7f9ac58caff1c1175001a8a7b21ac64fc6f83bf5e5343dff1a2e4b6/django-buckeye-corpus-0.3.46.tar.gz"
+      },
+      "0.3.47": {
+        "sha256": "d757013fe2f2f373f3055fda7acd72790799f576bf0fcf2cfc7d57dfd97c21c7",
+        "url": "https://files.pythonhosted.org/packages/36/08/52650e3e2f8415309652a7f04c9c255fb9a41729d1499f2ce0e1306b59c4/django-buckeye-corpus-0.3.47.tar.gz"
+      },
+      "0.3.48": {
+        "sha256": "9e9fcf07b8eaf4234f1446518459069099bfe7aebdb65fd680f7e9d03c325322",
+        "url": "https://files.pythonhosted.org/packages/b3/bb/4dc03301091b4b3ab5eb50420ca8825595db6d41bd9f53a488dbf518e6b8/django-buckeye-corpus-0.3.48.tar.gz"
+      },
+      "0.3.49": {
+        "sha256": "1d34498027265a3129610190dc4a65ce1afc9a9ca81f33c33e4cb1fb8a55f0f0",
+        "url": "https://files.pythonhosted.org/packages/aa/76/9b4a203416e95852b8f276c43e8e2584e3d35e6713b15825a279db837db2/django-buckeye-corpus-0.3.49.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "b81f8f034581da2616bc6d5fe03e2482b02876e075f0c44f2b290273aaa585be",
+        "url": "https://files.pythonhosted.org/packages/ef/6e/b8f449cfe940e0863ad2bd067920054d974cc624839c4c7f70a0ad9243cc/django-buckeye-corpus-0.3.5.tar.gz"
+      },
+      "0.3.50": {
+        "sha256": "06d179a37ed98cfcb524955619f0520413e2b07077290efd49cedb7b29d071a6",
+        "url": "https://files.pythonhosted.org/packages/75/ba/1517ed479c8ca99169f9f687a051d6c775f0e12244c7d43fd98210053dce/django-buckeye-corpus-0.3.50.tar.gz"
+      },
+      "0.3.51": {
+        "sha256": "f79e0bfbc7bcccc0ec1ec9aeabc4062f095c362dad3eb91bed4e81dbc95a6bde",
+        "url": "https://files.pythonhosted.org/packages/b1/a6/a257273d5677028e9c330e29c7a584869962a09a924cabc79c66f86fe6b1/django-buckeye-corpus-0.3.51.tar.gz"
+      },
+      "0.3.52": {
+        "sha256": "4c85c8fe584da04d1fed7bfae9db0f87c3984ee8e4fec78cab647bb1e9207ffc",
+        "url": "https://files.pythonhosted.org/packages/89/2e/d7fb44b678ae4e6588ee8c88f8522f35ad21ca9fc0a50a2035208eed02b9/django-buckeye-corpus-0.3.52.tar.gz"
+      },
+      "0.3.53": {
+        "sha256": "b39e1a01825e3bfaf5473d57b08a1973408672c41acc0e0367f6939bae3068d5",
+        "url": "https://files.pythonhosted.org/packages/1a/00/a25d9348d68eb177475dd4909b79f7766501fd60c75765339a95fa240924/django-buckeye-corpus-0.3.53.tar.gz"
+      },
+      "0.3.54": {
+        "sha256": "35c306bd6ca362caff80f92f7257b84640f50ca1f84601bde46e6ff18b1b1e9b",
+        "url": "https://files.pythonhosted.org/packages/8b/9c/f4af2490830de3b9bbad73cb142ea853a38904c3bc9065ebdaf6a1b37d5a/django-buckeye-corpus-0.3.54.tar.gz"
+      },
+      "0.3.55": {
+        "sha256": "4e81f4435d8a32fa11bff6aed27aaedf19ee7ba835082f85380654f94900feac",
+        "url": "https://files.pythonhosted.org/packages/d4/b2/da55746c24328ddcb97fd9cbd12cc471299adb32fb925c8169df0bad2f88/django-buckeye-corpus-0.3.55.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "67aeb18e3e694dff66ee833fae24fa00f881b2076d875db90d22f9a1602fb0de",
+        "url": "https://files.pythonhosted.org/packages/ea/13/3a14eb7604b0fa33bd9393da4d3939332bb8405665bb59a19cc762c01efd/django-buckeye-corpus-0.3.6.tar.gz"
+      },
+      "0.3.7": {
+        "sha256": "742474b0aadb226c2591ee2095cf69e21cc9a880321f5727aa8006e23f6907f1",
+        "url": "https://files.pythonhosted.org/packages/e2/1e/b835722caf9fa91462c420001d23f6239b4c4506a3583bf635f4926f228e/django-buckeye-corpus-0.3.7.tar.gz"
+      },
+      "0.3.8": {
+        "sha256": "4920fee86a5a7046f47271f756f703c2e4479210cee6165d214e346ce036589a",
+        "url": "https://files.pythonhosted.org/packages/39/ef/0a1996199a264433fba9a7a9fb8bf9be986ef6a4198da416d97edd6a23d0/django-buckeye-corpus-0.3.8.tar.gz"
+      },
+      "0.3.9": {
+        "sha256": "25c079f3e8d7e6020c1a5ab4b7eabbeec2921450a03115967b3b6f3c34f1e4af",
+        "url": "https://files.pythonhosted.org/packages/ca/f0/eef114d6361cef23d987fe553c2a11a9c9b1cdf9b271f376452531833842/django-buckeye-corpus-0.3.9.tar.gz"
+      }
+    }
+  ]
+}

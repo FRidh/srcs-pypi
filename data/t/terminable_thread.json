@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.7.1"
+  ],
+  "meta": {
+    "description": "Provides a subclass of Thread with facilities to raise an exception in the thread or terminate the thread from another thread",
+    "homepage": "http://github.com/intuited/terminable_thread",
+    "license": "http://sam.zoy.org/wtfpl/"
+  },
+  "versions": [
+    {
+      "0.7": {
+        "sha256": "4beafb2311c314ea5a23fc12224df3980fb008c7ef19b933902aa266350a215e",
+        "url": "https://files.pythonhosted.org/packages/da/0a/1bf275aa6be4d206c201cb342b3a2c46674d7dbff9f296fad5091ec349f4/terminable_thread-0.7.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "c07d98a8230568757cffd13c6315409db45f6f479c4e3640df84b2225db10b27",
+        "url": "https://files.pythonhosted.org/packages/10/b4/9530368ac75a9023836514a305e08853b57f859c01b5fcf1aa9f7971d460/terminable_thread-0.7.1.tar.gz"
+      }
+    }
+  ]
+}

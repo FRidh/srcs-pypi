@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.7.1"
+  ],
+  "meta": {
+    "description": "JSON-RPC library for creating self-describing RPC services",
+    "homepage": "https://github.com/aheck/reflectrpc",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.7": {
+        "sha256": "cc6797dd4b404d0483f7d05a0f78a28658bd341db4927f174e1d2329c87e64dc",
+        "url": "https://files.pythonhosted.org/packages/4c/27/010bd7bf1e23aba4c874a15bb6680c12f89d4f3bf5706316f9b5a6413a89/reflectrpc-0.7.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "e98d5fe6c1c836f6eb5f69b502f29a28eaa0acb4c3d7edc4afe96dfe0b54eec1",
+        "url": "https://files.pythonhosted.org/packages/16/be/ffb05d8eb73b45765e682fdb6714e000800cf1bb3c28d95c108bff15ee72/reflectrpc-0.7.1.tar.gz"
+      }
+    }
+  ]
+}

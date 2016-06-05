@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A simple IBAN/Bic Datamanager app",
+    "homepage": "https://github.com/nadobit/django-ibantools",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "4dede768ee15c89f4931e1ca50c01beb0a9d6fdb2ec44902319c4c7401d5b0be",
+        "url": "https://files.pythonhosted.org/packages/22/2d/5028baf681b1127c7f87ece4931231919c16627ad3e5bc567e5956b379f9/django-ibantools-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "1a811e2fc341b3fe37d09a24cb2cc8f188633584195d10ee73932ea2bf2ee70a",
+        "url": "https://files.pythonhosted.org/packages/9d/c8/e753c877fd9c7510d028468312cb7c1e88edad2bd4e0bd3c36fb015d02c0/django-ibantools-0.2.tar.gz"
+      }
+    }
+  ]
+}

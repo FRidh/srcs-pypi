@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.6.0.post1"
+  ],
+  "meta": {
+    "description": "Rucio Package",
+    "homepage": "http://rucio.cern.ch/",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "1.5.10": {
+        "sha256": "ee337c447b3b7f005b9f1a4ca18277ccb4a3333b42dc37f1773b7ebc646360b8",
+        "url": "https://files.pythonhosted.org/packages/44/a9/b0e3e9f4af892d72acda5125ccd8026f9605372fa3bd8944ceff1c163261/rucio-1.5.10.tar.gz"
+      },
+      "1.5.11": {
+        "sha256": "57f7369e670a2dd283fcd467009a941f6abf77f78e99ff9b54e2970f7ca5dce9",
+        "url": "https://files.pythonhosted.org/packages/c8/41/b542dd4d41f647fa89e79264000a8272dc1cb56acbe5eae183a70b14bfce/rucio-1.5.11.tar.gz"
+      },
+      "1.5.11.post1": {
+        "sha256": "b765a748e2ec90221b593b0587b001b7fc0f82603d38a5578934c8556a452ce9",
+        "url": "https://files.pythonhosted.org/packages/53/e4/eb89a982aa2a290893215a688d7b95e788ae6a7eb97773610fddf437518c/rucio-1.5.11.post1.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "bd177eb7eff8a063c42292c17aff8a48ce6b8584e82e2a5556afd2521b039526",
+        "url": "https://files.pythonhosted.org/packages/c0/fa/6d63ca5b1633bd850e7da54ce026eb3ebd501570a9ac936252250f7b4a2a/rucio-1.6.0.tar.gz"
+      },
+      "1.6.0.post1": {
+        "sha256": "95c0399334ee923da4eb679efe93b92744634706714a7b31b67f1fd3ccf762fa",
+        "url": "https://files.pythonhosted.org/packages/31/9e/46d70fd036e63f8d150a3032a06b7e78387c7b045e1dccf384d074d343b1/rucio-1.6.0.post1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "latest_version": [
+    "1.8.0"
+  ],
+  "meta": {
+    "description": "A Session and Caching library with WSGI Middleware",
+    "homepage": "http://beaker.rtfd.org/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "60e1b943c4c17ac3dbab87825e9411863a143e962aadae632d347a95ce0e1ecd",
+        "url": "https://files.pythonhosted.org/packages/25/d1/7222a96508aecdcfc96e2dc89cff35451267d5966d66756a985197bf545e/Beaker-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "cd686c53122e8c083fec60fc7e51511c96eda4751e962309c32db2c46e0bdb86",
+        "url": "https://files.pythonhosted.org/packages/ab/de/9af3246e733a4c27d98277e17a295e1a388571460c80f37b8d6e899c0cb8/Beaker-0.6.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "b0da37b0e7e5aa618250374a8476aa51d36e753c1d348335721f85d9bea522f1",
+        "url": "https://files.pythonhosted.org/packages/14/df/23f3154a477667a8f7371fef3dc3ebbd61fc959a41d4051f93bf85acc5a4/Beaker-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "e0293b8eb4a0f3443a0b5eece23980bdbddc4e0c8feb5869c494e57a614e1a90",
+        "url": "https://files.pythonhosted.org/packages/06/41/dba75fee1bb1db88527fc533356aa54445d978307b92db0d2c007bb77310/Beaker-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "77e8f0ad3a6af45473af2cb78692fe579940164d1692e7b82d55a377b54e4008",
+        "url": "https://files.pythonhosted.org/packages/3e/2b/83191b114729df2cab7b8c32c422ccc2a8a7c655e85a77efbcdd2cf3461d/Beaker-0.6.3.tar.gz"
+      },
+      "0.7": {
+        "sha256": "a145233abe72749ebf6a1d844e44efaf17bc4a1b30b19f9629867d43370a2aa5",
+        "url": "https://files.pythonhosted.org/packages/80/c8/e9189f361f49501ce97a8941baf84cdb904ce40a18deea6eb63433619c38/Beaker-0.7.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "2b05898998e1fc5c464308783dddc9b7b005bb16680e0e65ba4a7d9e33bd6123",
+        "url": "https://files.pythonhosted.org/packages/1b/eb/825ff5716e1e75a9fc78bfddb066df82f3759122fe77cbe00c1c3fa0dd83/Beaker-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "9d256726aee0434b92ae9aa4a63f43bf885273b4cb661a9c1971761676592bf3",
+        "url": "https://files.pythonhosted.org/packages/93/c1/af4d1020d305ed2368abe96ed3f91c0fc9b95c8c590066fbda59253741c9/Beaker-0.7.2.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "c4db5a611ec8391f8c1f01bcda0eb57f26a68b2008b51228b5ff2f6a9e489675",
+        "url": "https://files.pythonhosted.org/packages/63/95/c73face85b2510781f24960331ba0ba68a54eced47bea41a3988ffe69ecb/Beaker-0.7.3.tar.gz"
+      },
+      "0.7.4": {
+        "sha256": "7d13155d0ff29427ae3d2d172f6f803dca5d88316ea5fac999fcd7c36ce91bed",
+        "url": "https://files.pythonhosted.org/packages/8b/2d/115fbdeb063d2f65b752126ebe168dcc53f52e78a09e71d546048d797125/Beaker-0.7.4.tar.gz"
+      },
+      "0.7.5": {
+        "sha256": "133a5b2c8268b0d2a717230b7c671a15fdc53b6536f25f71e73dabaf30104365",
+        "url": "https://files.pythonhosted.org/packages/0c/17/31c2c772265eec3a313390face36b53abb1f553ac979bab31e463583047d/Beaker-0.7.5.tar.gz"
+      },
+      "0.8": {
+        "sha256": "b8fcbce902a7e1c055fa622394fe79e3a8a2ba22a778440c4eaff0de691a1ee0",
+        "url": "https://files.pythonhosted.org/packages/77/99/4925acd6de09552ba13f18ebea6b58d1374dde88f743c0dd7bf5ab3f25b9/Beaker-0.8.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "05dc191aa2fcebeab4f0f2b2e1f0dd046144e85840b1b6666da3f9594eacd6d5",
+        "url": "https://files.pythonhosted.org/packages/c4/a2/73712e2cf3fbd732a977a245aa1c18f936edb003de9ade89093bd4a09e91/Beaker-0.8.1.tar.gz"
+      },
+      "0.9": {
+        "sha256": "98f90dd3689e1fd1e69e21ac165ed129232cd3b06edef4b0f9dc11aad4ad140b",
+        "url": "https://files.pythonhosted.org/packages/59/ea/4d42b63daf79ede9dd6cac61ef665601c38d783fd34808ce0588c3bdfc92/Beaker-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "e691a76d823509ead23500e135f046b15c36886fdb665dd7c127492eb2a75a98",
+        "url": "https://files.pythonhosted.org/packages/01/0d/fd9eb753743df2dd9176c8ddbee408c6e52c18b30c4b0595893197a08921/Beaker-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "ffc4af4f7108998665082613876f618903a331986a4ae5ade3565959bc17f84d",
+        "url": "https://files.pythonhosted.org/packages/9d/d7/601d4761ae9d72b1a26982f4a84d185c170615cd487d8fcf8a9ee313a8ab/Beaker-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "5999448e5c22f96cd80c9bcaf3c555eb6f8dcdc7bf516483c77b2dcf24071395",
+        "url": "https://files.pythonhosted.org/packages/25/57/ecd888bc6e54d8a2ddb4e6620de5e19c05189fcde1b2952f1b53a23bdb7b/Beaker-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "efb399d0923c0cbaf56de13f74b9006c993d36965f820950e9570c6fa5e0598e",
+        "url": "https://files.pythonhosted.org/packages/ad/89/74a32d10959428c905b24543a99e0480336b260c66715ab9492697d7d0e9/Beaker-0.9.4.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "7abd40e55a26e116d0156436ffe283f70b31082eb355f998f2755bfed64aa904",
+        "url": "https://files.pythonhosted.org/packages/c3/dc/1327df38ef8d1cefc0ed5f1e83112fdcd1cdf4b08fbef42b58c21aaaf6f6/Beaker-0.9.5.tar.gz"
+      },
+      "1.0": {
+        "sha256": "1ab30a99b9b04c026daf0f106e5e67c6f7aceec023774db5dbb72eda4397dc65",
+        "url": "https://files.pythonhosted.org/packages/5f/af/e948c8f78059291005cde212bea6a23bf32a77d2d2033f6194d178e0b21a/Beaker-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "e5e4a4213bcbf621a60c8e556fc7e27a6e8a91aa0d2ce1b48c6869f4ed100e10",
+        "url": "https://files.pythonhosted.org/packages/78/49/c98077ad94eba21c91f6fce13d2c802669a0b98289e1c242eeb5be314148/Beaker-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "ceaafbfa93888ab72021c07a04249e5bb0cdb91c44a83f0abfbfbf9e6f26de32",
+        "url": "https://files.pythonhosted.org/packages/67/c8/f90f6e074421c15d7e79b0fabf771558a542eae96046eb5e390db5593442/Beaker-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "6df80c412cc2a66c073a90b28f1b2bb67367a57597d4d5f5663a36d9cd3d9742",
+        "url": "https://files.pythonhosted.org/packages/39/f2/c9a70d883ddd5c312a7eec63fe64742428c037c9c3e39944638fdafba974/Beaker-1.0.3.tar.gz"
+      },
+      "1.1": {
+        "sha256": "1c7644d9d89b2511f38900dbb33745ed0a9d37b9472b107cf9aa68b67aac0564",
+        "url": "https://files.pythonhosted.org/packages/13/ed/e0ab0475f7afa3ec08cdacb0e6f2a00bd1e9b855a4dc6c9b4dbc540e4c5f/Beaker-1.1.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "be00ae4a01195bb21bfecee5d7993ed7c2204f01ba71a1a19a103f40e0a31ac0",
+        "url": "https://files.pythonhosted.org/packages/1b/60/25b909c9919c5a2f2c74fbc9aadfed73bc219aa7e1353b60decf1ebd04fd/Beaker-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "eb4533eaeb90a0dc97e6fd13759fc9e8f96235b5ff57833b2e6e9804f9d36ec2",
+        "url": "https://files.pythonhosted.org/packages/18/07/462653106141e60ec669aa0683aea8353d92a2c7ab086944e008897932f7/Beaker-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "ab6d58e928f620cd0446830670f119e391d9a1a31b9a5529450988f515acb3b3",
+        "url": "https://files.pythonhosted.org/packages/36/af/8c21d96418e1882ae76defedc941e2a3486e28fdc2b8056a5fdb9aed7da5/Beaker-1.1.3.tar.gz"
+      },
+      "1.2": {
+        "sha256": "6e1d9b77adb60f397e553ee36890e9500826d4f32ec90c24fb534ba439d50085",
+        "url": "https://files.pythonhosted.org/packages/07/bd/b224cad08c4393e376687387e484cb24916411086110e03664d41c5dad07/Beaker-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "2519684079ee333642cf994148390b0522d1c22cf782664730e684a97753d4a7",
+        "url": "https://files.pythonhosted.org/packages/26/4b/ffc7177f4a7fd1121085295dec1cfa6bf07ff4342ac702aca9b448acf006/Beaker-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "48962b9fd0cf70edca7798ecefa264915f2c14e6c36580907f3f740f625e9d28",
+        "url": "https://files.pythonhosted.org/packages/a0/df/62b57274cc2f5184592fb87ec81dab39acd1880462b08ae611b0c8ff34cc/Beaker-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "e6b5a6afa7b27e3bfd5be3a17fa4ead60729bf5a1cb8735c8a5506408c33051c",
+        "url": "https://files.pythonhosted.org/packages/75/34/fbdf39b461c9d35da21f43b0e971fe4c2425c8b77e0eb12bd8f9b26ca02b/Beaker-1.2.3.tar.gz"
+      },
+      "1.3": {
+        "sha256": "3c30105ed31e111a7a5b275cb83694be6a8d23f2f3b869edf0b8e66b71beb029",
+        "url": "https://files.pythonhosted.org/packages/51/e5/57ecd862cde675c9cdadc2e336414246107daa813b9704b5c83fb4eabead/Beaker-1.3.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "96b75a07a9fa34989ffce85970b4a563fbe46d6d368636d82cddcd85f5e4c66b",
+        "url": "https://files.pythonhosted.org/packages/92/d9/a66184a8c74fe33a011e731bc6f50735b7d2ef4346d999bf41791d192af0/Beaker-1.3.1.tar.gz"
+      },
+      "1.3.1dev": {
+        "sha256": "cbfded3cb137573598e78d31dd9b832e3f20b47c9d61804ece59c913bd0573c2",
+        "url": "https://files.pythonhosted.org/packages/11/75/08c3971a76171e592e685d9a5e6b76f1d5c4e55d88ddebff7b6d8d03e2ef/Beaker-1.3.1dev.tar.gz"
+      },
+      "1.4": {
+        "sha256": "46af9f4d73740d82d039d3f185c1395402b9835997e4752dad02be2892e90478",
+        "url": "https://files.pythonhosted.org/packages/1d/b3/946986b858a4b61b15728018b4e065779b05db4ce1af7ea4aadf917ec5a9/Beaker-1.4.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "2e2bc6b575ccabb48fe948373d86d3970d006adb5671cabe24b35e441609928d",
+        "url": "https://files.pythonhosted.org/packages/7b/d5/44b7884e1bfe6972a0a83e57a17982a44dbb4974c648be5caa9dc98c7562/Beaker-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "543493ea6f075bfba22c9cd60c85ff2561d165acf1850e24c416cb805b841dcb",
+        "url": "https://files.pythonhosted.org/packages/16/cc/fb7943f0ec3758dfa9a798b9f4cb303ef065dad150b1ab23dc75f09e026b/Beaker-1.4.2.tar.gz"
+      },
+      "1.5": {
+        "sha256": "ea0c7f8d58043645b8e7ae7a08dbe306e806f88e36d762b3faf1f939414e0b93",
+        "url": "https://files.pythonhosted.org/packages/52/87/e7941fc586bc127cc1b50497fcdc28022becf663322f0d66c87b10801afb/Beaker-1.5.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "416df30c3cc283ff9497587b37d306f4e9aeaf537d7f1f51eca8ccd67a9e9113",
+        "url": "https://files.pythonhosted.org/packages/65/0c/3ca2aa77254adc547b93064ea591c8a309467f1f0ccd50ab5bf7e71e1762/Beaker-1.5.1.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "be2b8d8b15947558a988a4eda7841d162c5cdec0b97d2250c17b62c60f08d244",
+        "url": "https://files.pythonhosted.org/packages/81/ff/9eabc3d30df67e6a515faa7b9ee42b07b9ab25d25d1960aa56f12704c661/Beaker-1.5.2.tar.gz"
+      },
+      "1.5.3": {
+        "sha256": "723a8c5a87f43fd4ea0033834757137f9ed45b902c3f1b1a713c18206a3f7804",
+        "url": "https://files.pythonhosted.org/packages/ea/29/706e98b0f110d3a6508dcf78ae4590d504df5def6783c731a5cf62e461b8/Beaker-1.5.3.tar.gz"
+      },
+      "1.5.4": {
+        "sha256": "a13dc6ae0e9490c85fc2c1ba035ea5b21cd684ee3b4b70b6a9e473f0550a716b",
+        "url": "https://files.pythonhosted.org/packages/fc/f9/7d699c3397357fa8634ec4b3d1510d07d69fd68b74478bd5b32814f56715/Beaker-1.5.4.tar.gz"
+      },
+      "1.6": {
+        "sha256": "3d475c085284ba7b182e4abc61d38b8b4e42f178f43a00ba81ece94acac7e64a",
+        "url": "https://files.pythonhosted.org/packages/1f/43/c9a1b2ad97fc7935455f3ff71aed8a1ba07d317b84b8d124b9ddfc0b2b0f/Beaker-1.6.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "a571efc53be143a5fdee69d512a32286065884de5b41efeb9554f35605e5e33c",
+        "url": "https://files.pythonhosted.org/packages/e2/a0/f9117c315d2a84c367b3228104eb8937c1445d9f41368ecc8e3e04cdc657/Beaker-1.6.1.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "23e42350783dc6457f5b771b195f0e47be8605a9a75786cb35e0ecb8c1d430ea",
+        "url": "https://files.pythonhosted.org/packages/3e/01/b66a9225a88a32c8f8ca079fc92c049e2468b09ffb507da893ddf732a1ad/Beaker-1.6.2.tar.gz"
+      },
+      "1.6.3": {
+        "sha256": "3db8badfbbb6891159303201d4c876442cd3dbc22ec92144b5666f05ea62faa8",
+        "url": "https://files.pythonhosted.org/packages/d1/25/deb464694aa7f56476eba68a22c976656cf2a3b7c61f3410c3d2a113228c/Beaker-1.6.3.tar.gz"
+      },
+      "1.6.4": {
+        "sha256": "5b06dcc9f7b1921bc962235c4051aa5f3f5d3609f42faa6064dc614ace031a3a",
+        "url": "https://files.pythonhosted.org/packages/ee/1a/8e3b3bb561e7134936c2a6dd2c89de076b8b8fe8c353c8c5994cc4f5c943/Beaker-1.6.4.tar.gz"
+      },
+      "1.6.5.post1": {
+        "sha256": "e022a67c455bd8ded6152d7d7de9aaca5eeca59e70cdc3792463fab609b49eaa",
+        "url": "https://files.pythonhosted.org/packages/91/f0/93ff90eee20264765d6abd2d86f481576768c6dd88f98b69d3ea10772d84/Beaker-1.6.5.post1.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "98eec7e4cdba442079d0871fea6853627c8fd87ed0da644510c1d3b184f0646f",
+        "url": "https://files.pythonhosted.org/packages/97/8e/409d2e7c009b8aa803dc9e6f239f1db7c3cdf578249087a404e7c27a505d/Beaker-1.7.0.tar.gz"
+      },
+      "1.7.0dev": {
+        "sha256": "c65593195811dccbea07f3329a3adf3459b1dddeaa2a251ce0a6606693b85857",
+        "url": "https://files.pythonhosted.org/packages/59/9d/6bb096eb04e3b1ac030422428723b316fb57911d5c38ec241907e7608e02/Beaker-1.7.0dev.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "740165bb2d86b17460ea759ae075d82b52313860357393675d765bbf67b5c3fb",
+        "url": "https://files.pythonhosted.org/packages/fa/47/70681e4ae1d20aab6aee96266637349a6efc758a32ef08558cc5bffe4025/Beaker-1.8.0.tar.gz"
+      }
+    }
+  ]
+}

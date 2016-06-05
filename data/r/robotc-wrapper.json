@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "A RobotC wrapper written in Python designed for the Vex PIC robot",
+    "homepage": "https://github.com/jamesalbert/robotc-wrapper-python",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.4": {
+        "sha256": "74562ac6baef342dcba4cb7f30ed21315c378d48c34d681017b7ca8f1b0674b3",
+        "url": "https://files.pythonhosted.org/packages/30/16/154feafcd05d3df6264191b624ffb3812ab90f907a5e2f805116f016c806/robotc-wrapper-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "35d24b0b4e61fadd92296fd57fc847cadec1c64dddf213ba0d066832aee6aae5",
+        "url": "https://files.pythonhosted.org/packages/3e/2d/d1bc81521b9370659b69baa632a3559ade5de72776246d5c3941b4d4d317/robotc-wrapper-0.5.tar.gz"
+      }
+    }
+  ]
+}

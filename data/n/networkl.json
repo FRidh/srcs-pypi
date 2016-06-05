@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.13"
+  ],
+  "meta": {
+    "description": "NetworkL is a Python package which extends the scope of the NetworkX package to eXtra-Large time-varying graphs. It supports the manipulation and efficient longitudinal analysis of complex networks",
+    "homepage": "http://networkl.github.io",
+    "license": "GNU2"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "0b9345e38116dcc60898a3cb1dc054152125735b3e81a4024798f7d734fc47c2",
+        "url": "https://files.pythonhosted.org/packages/ee/32/e2eaa204a41fe1cc7fde8b6ef536ee69b837cf04a46df1db701984ab8408/networkl-0.1.tar.gz"
+      },
+      "0.2.13": {
+        "sha256": "4bc9b21bc05ae715329bfb5db3a6e47cc40e861c89235baa1ae75085af7858ac",
+        "url": "https://files.pythonhosted.org/packages/49/1b/45d883ae63f154c46bb7a5a0c87f6c8a695b63c11fa884a37ee55210046a/networkl-0.2.13.macosx-10.3-fat.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.10.2"
+  ],
+  "meta": {
+    "description": "Synchronous evented IO with pyuv and fibers",
+    "homepage": "https://github.com/geertj/gruvi",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "3d91989e50d5a7e494beee54fc584a248444fd1850f55e14d3bcf3300a16b674",
+        "url": "https://files.pythonhosted.org/packages/48/a2/7b33696b4ecdba5c06b33aeede7de4c30636b55d8499519c663345a933d8/gruvi-0.10.0.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "780cbae4205cd828b7e4425fb9029ce282060af7eda1d27758c4298503fc89a3",
+        "url": "https://files.pythonhosted.org/packages/89/e0/660af50216372a8c7060aed730a9ec939e35deb864d865051eff59cf06f5/gruvi-0.10.1.tar.gz"
+      },
+      "0.10.2": {
+        "sha256": "80567a4bf50dc028dad71e4026d4e816980a3a24be5302484b64fcc837f0171a",
+        "url": "https://files.pythonhosted.org/packages/fb/89/6a59135aa8cca5c1ef79c79bf808cd41dd678742481e06b5bb99abac2748/gruvi-0.10.2.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "58f9feabd0b4a2f6a2d99b1b471c7267fb26e0e9d58266352683062bb3644c1f",
+        "url": "https://files.pythonhosted.org/packages/f4/ba/e3bb466f19d9ebab6ddf534b6587baa37bbd8ec2702b4e9d79ee9b3acd11/gruvi-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "5227480467f69d9e6b18d4b7966963477617ea652a8e8f9c0dc34ce93ba01479",
+        "url": "https://files.pythonhosted.org/packages/42/c4/01b63326622d06dc1a3148f0c4aa0588ba68742ff1ca0bff09b85bcc5ec7/gruvi-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "429a34d40da1f30f24016d9cd551c94cb4b1dd99afa5fd7266ac3bcf36171f67",
+        "url": "https://files.pythonhosted.org/packages/2e/5c/d295aa90dfe826d74c2ba902040c070f19e45c016050ecad4b46fd323cd2/gruvi-0.9.2.tar.gz"
+      }
+    }
+  ]
+}

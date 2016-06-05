@@ -1,0 +1,137 @@
+{
+  "latest_version": [
+    "1.3"
+  ],
+  "meta": {
+    "homepage": "https://bitbucket.org/cmutel/brightway2-calc",
+    "license": "Copyright (c) 2016, Chris Mutel and ETH Zurich\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without \nmodification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this \nlist of conditions and the following disclaimer. Redistributions in binary \nform must reproduce the above copyright notice, this list of conditions and the \nfollowing disclaimer in the documentation and/or other materials provided \nwith the distribution.\nNeither the name of ETH Zurich nor the names of its contributors may be used \nto endorse or promote products derived from this software without specific \nprior written permission.\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" \nAND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE \nIMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE \nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE \nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL \nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR \nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER \nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, \nOR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE \nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "2c521b46847a5ff0678b5f3ade7bcbe1cfdb517716c32a2d92a579b66726571a",
+        "url": "https://files.pythonhosted.org/packages/55/1e/522b4387dece1e675f6c4de4ac87cc2dd102d43f424841f7e28561ff1e5d/bw2calc-0.1.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "e0f63b120b52dd43632ecca020a3ecd2f9f1280698ec82e2b2a456d0d9d9342a",
+        "url": "https://files.pythonhosted.org/packages/f1/eb/d7cec56ec836fba9153dee1461707c8632ae21ac8154b7c9a0495c094567/bw2calc-0.10.1.tar.gz"
+      },
+      "0.10.2": {
+        "sha256": "2945ad7bb2d5c4250dfa509cf1ed9c806f54eaa03a30e74d89c6a99909e5243c",
+        "url": "https://files.pythonhosted.org/packages/14/3d/8519a604db99fd46c5ff01ce6b435d347681632587ed10a44690b35886c5/bw2calc-0.10.2.tar.gz"
+      },
+      "0.11": {
+        "sha256": "fd09a379ee2b9d6d568f2008cb80ecbd45c8307d45a54f12e97a5dfd52119f7a",
+        "url": "https://files.pythonhosted.org/packages/49/b5/11897d6a28816feeef585b6c333566bfb043257a4cd37740bd8dd363d02f/bw2calc-0.11.tar.gz"
+      },
+      "0.11.1": {
+        "sha256": "9d8e4626a32bea9131a67cf232d9466f0a504479fc17cdc337b4e1c565269516",
+        "url": "https://files.pythonhosted.org/packages/e2/18/b4ada24408b0192e167ab03ad05b179ed311eaa2f8bf2c287d332722e916/bw2calc-0.11.1.tar.gz"
+      },
+      "0.12": {
+        "sha256": "644d00133c89969ab4ae1f68d483e6d7fe351478f2f4762cece12b4f6e007033",
+        "url": "https://files.pythonhosted.org/packages/15/49/42b9e5736821506236658e85c27b8f1eb4003ee6be429e56f086ba38e33d/bw2calc-0.12.tar.gz"
+      },
+      "0.13": {
+        "sha256": "4e2398c3c0cc3e5dae41238b0763f601a2868f11b188ec14a08d422fd8ba6b65",
+        "url": "https://files.pythonhosted.org/packages/d4/ed/e264baaa9c902af7d2f519e4ce211fcd078550768236031462af3a433539/bw2calc-0.13.tar.gz"
+      },
+      "0.14": {
+        "sha256": "7d72130a93d418d542fe1809af23108cbaa3a82ac9e0e5807b2e55e7171c486f",
+        "url": "https://files.pythonhosted.org/packages/7d/06/2468de600ebcfe659b6d920c7129055c60909d7702d4814f9bdf60fbb9fd/bw2calc-0.14.tar.gz"
+      },
+      "0.14.1": {
+        "sha256": "a4280f8bdd9aa8043146bb169959937c2b62d3d919876261d3776e9da144a0c4",
+        "url": "https://files.pythonhosted.org/packages/86/66/305ce26afd0f66cca35737559c53e4b5dda559ee905d9fe9221c1ad7b8de/bw2calc-0.14.1.tar.gz"
+      },
+      "0.15": {
+        "sha256": "2a0ba7015028082a4997f01fefdbc1d579aa30445b153cbb5be98670eb5cac2b",
+        "url": "https://files.pythonhosted.org/packages/3b/45/8ee9f57d7efe221e90803d4dfc9f9438c78c5cc664fee605e5bc8764d13f/bw2calc-0.15.tar.gz"
+      },
+      "0.15.1": {
+        "sha256": "b97a2901cf82cdb941773cab10e8837fbf46fa1c1e51b38f9b61649d92727ae8",
+        "url": "https://files.pythonhosted.org/packages/e2/13/9e48997d6f05cc7601389a2addc201c5d595b1292238875180cd091518e4/bw2calc-0.15.1.tar.gz"
+      },
+      "0.16": {
+        "sha256": "7944bfa97a3689062f9674fac8a24f9ff888f1a1bdfc024a7f7f3bf8cba3837d",
+        "url": "https://files.pythonhosted.org/packages/9a/57/1657f6edd878f7e3a7b45eea24038b4b8c80de08d0d4d6188f50c461f20e/bw2calc-0.16.tar.gz"
+      },
+      "0.16.1": {
+        "sha256": "21f829c73f360151952a0162e8a3502d3e1b59af61e995485b7aebd5a79b30a9",
+        "url": "https://files.pythonhosted.org/packages/e2/ae/54e3dae36c9fee9dc57754779456d3b937382da41ffd6c9012aa412f3bfb/bw2calc-0.16.1.tar.gz"
+      },
+      "0.17": {
+        "sha256": "83706bb6a1712f6ec130e0de73cfaf9990f5545347449782f0cedd58be60d5dc",
+        "url": "https://files.pythonhosted.org/packages/80/5b/52cb3382dacbb97529c3016269d18c29e6c7d61707e6b870c9d711a434a3/bw2calc-0.17.tar.gz"
+      },
+      "0.17.1": {
+        "sha256": "17bb4dbb4649590a9b0f2eeb287f7bbcc7c70992411519c523e50beb1f75f373",
+        "url": "https://files.pythonhosted.org/packages/51/57/e58e5bf78707f0cebc62df7520d59b5c49201613e0331d2dda8adcd21a6d/bw2calc-0.17.1.tar.gz"
+      },
+      "0.8": {
+        "sha256": "4b2ccb159e69ca541b1f54391e96118528d5cda350d32d13ffdbce9d7f39a68c",
+        "url": "https://files.pythonhosted.org/packages/95/4a/ee94ad3150a786cd3c7a94f165792ad6e5bafd62db42ec166372bf61b644/bw2calc-0.8.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "35c75c0f3c6beba438dc6f1bb080504ebf09a1ec0d123f540c133cd3f632d9f9",
+        "url": "https://files.pythonhosted.org/packages/96/15/44b57fafee3dd66cf1ed859f505f3dc450d6c0e35bff7ccef204f6ae425d/bw2calc-0.8.1.tar.gz"
+      },
+      "0.8.1.1": {
+        "sha256": "231eeb550410716a641409b2dc7f6fb78f95399a63daaf56aba360db84c57db9",
+        "url": "https://files.pythonhosted.org/packages/b7/1f/737ac804066b491d0cc1b6ad07f278f584c414c12dddb52ed302eccd053c/bw2calc-0.8.1.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "de43dd34e5d2e869a5e6d9d264def058265a875dca72520dcd04f9420d99c88c",
+        "url": "https://files.pythonhosted.org/packages/05/d1/e04e227c8966c794c4d029c08391ec83a4a386648e78760552983438213a/bw2calc-0.8.2.tar.gz"
+      },
+      "0.9.0-alpha": {
+        "sha256": "458d18e4d800bf5a9b6a0fa924793ce34769b3acf860391951bd19c309c7ac9c",
+        "url": "https://files.pythonhosted.org/packages/6c/23/718a98e931278389f9569c9383e423ef0b04ef2b6fdfcb8d99f938b4c5f1/bw2calc-0.9.0-alpha.tar.gz"
+      },
+      "0.9.0-alpha3": {
+        "sha256": "58bf195aef8f413eb8a27b14f39cb5d5d001e93046897576e2bcedb9e57aeea8",
+        "url": "https://files.pythonhosted.org/packages/db/8e/2b7e1ef2617a2ffc5a0a313c6523167c4f5c4c558df5c59d4048073f4219/bw2calc-0.9.0-alpha3.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "c4f347e827a6727818ea8e1f54b7e1eb66db0df6d4257eaac2def042445e84b7",
+        "url": "https://files.pythonhosted.org/packages/49/38/d9927b34443ab68e59037a75cf6f372049633c77e5f56d192ad591127506/bw2calc-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "15ba280e8a672da6b50c54d3ac2daa8a1eabf29a071fb724ff2806893f467147",
+        "url": "https://files.pythonhosted.org/packages/ec/8a/88140c7b352235ccd334b6481954de5b875c600c4d2ca2def37948c966a0/bw2calc-0.9.2.tar.gz"
+      },
+      "0.9.2.2": {
+        "sha256": "da4b93593bf5739477224a1ed41b7e2032c863e4dacd5f0e35b75485075b2285",
+        "url": "https://files.pythonhosted.org/packages/fb/c7/6f94f4af3b336078be9722c13cb2e073e785a94acba0c38708f8bd2199a2/bw2calc-0.9.2.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "f47e9cec6e45d45ae7a6bb599e50f21175f30fd5ca3e8e33292a7dbe1092d206",
+        "url": "https://files.pythonhosted.org/packages/a1/bb/3a182093cfead9709f918e25800fdf1f3c116310db391318da4360c845ff/bw2calc-0.9.3.tar.gz"
+      },
+      "1.0": {
+        "sha256": "60ba70871259c7a5f99d6a10da11a8ae79b095d2b3c13e1daa2dc9d9d425308f",
+        "url": "https://files.pythonhosted.org/packages/43/53/cc51602c30823e208b6cae22bcb0de5ebf8e8f7e233897ccf8d9a2cba3fe/bw2calc-1.0.tar.gz"
+      },
+      "1.1.dev4": {
+        "sha256": "6ef22d79fa8528a9bf4168396af921c31f8a564a8416c3c2319d7ddf9158f356",
+        "url": "https://files.pythonhosted.org/packages/07/dc/bd0a88b7a1a837888f825eaaf12b63d4fa15a621055b37c67b405f44c5a1/bw2calc-1.1.dev4.tar.gz"
+      },
+      "1.1.dev5": {
+        "sha256": "027655e15c2729b1ededc5bdca90361b50ecd711ab612a63788a6edd6c1a1671",
+        "url": "https://files.pythonhosted.org/packages/7f/af/857291b0507f5204de473cc23e95ae2da2c4adc257f0bdcfb09fda622896/bw2calc-1.1.dev5.tar.gz"
+      },
+      "1.2": {
+        "sha256": "8e42962008ab7cc07691f9569522586a4c506ed6f656b7f57aaf319bd59063dc",
+        "url": "https://files.pythonhosted.org/packages/48/66/9bd90c880681f43fec36a6acea2324d17c0fd9d9286d8cbc432539e1abd4/bw2calc-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "74eb308fbb93613a122108833f599043111222b6dad0b0a2972669f23fc96779",
+        "url": "https://files.pythonhosted.org/packages/00/30/f291257e36672551322de7218b9c169a99ea3b993482b86ec37d2310856c/bw2calc-1.2.1.tar.gz"
+      },
+      "1.3": {
+        "sha256": "27b2e6cdbdfe9b7f5791f67adfdc46060bd2c92b7a9d9d774f970bd81f7240a1",
+        "url": "https://files.pythonhosted.org/packages/49/ab/34938017eb39212eddf7fea49c70cd05a38b2cfc0c9e3c92183ebaac96c4/bw2calc-1.3.tar.gz"
+      }
+    }
+  ]
+}

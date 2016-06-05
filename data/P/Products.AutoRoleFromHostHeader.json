@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Plone PAS plugin for adding roles (or groups) to anonymous or logged-in visitors looking for HTTP Headers",
+    "homepage": "http://plone.org/products/autorolefromhostheader",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1.0a": {
+        "sha256": "8c9957f6e5f7c2f0455fc354f0c3af6d0b12b0f3520598819ae40cced14e0311",
+        "url": "https://files.pythonhosted.org/packages/c6/a9/430f7ae0a8b34f7e87ecaeeb1e32539f294dbfb4455bb8b8bc6a75d4144b/Products.AutoRoleFromHostHeader-0.1.0a.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "aa1ce4dd299b17f53c03326e8083d3d7baec2caf482826ec1bbb93f1bb15e423",
+        "url": "https://files.pythonhosted.org/packages/c1/b8/1757ce1c6e07a5dddab24b4dc9362b5e5ba98593a5f46321f110132c0c0b/Products.AutoRoleFromHostHeader-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "4e721800a416846d00ecc46ae4a970f556708d6bbb949da7c08c789f50bb082a",
+        "url": "https://files.pythonhosted.org/packages/8f/08/cd31d85972f6b7412ea80be7dfb40a91575d2bd3652b026b6cd15817f0d9/Products.AutoRoleFromHostHeader-0.3.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "0a6f6b7f95cd8a8513a0ac2fc128daf81dd3187fbf62f2c87014a7b00b0949de",
+        "url": "https://files.pythonhosted.org/packages/1c/96/48baf68589d13314bdcb2544954df12cac1c28ae2a0ecd7303a53cebc4bd/Products.AutoRoleFromHostHeader-0.4.1.zip"
+      },
+      "1.0.0": {
+        "sha256": "765941c675a091b0f1fff3623f9a4fa11e18b6944cd6a6486a2f78db905efbb5",
+        "url": "https://files.pythonhosted.org/packages/6f/c2/48a112b132e8fbfce2c8078ad10b4f4ddda7f9e7c2b0fc0c27c1759044e4/Products.AutoRoleFromHostHeader-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

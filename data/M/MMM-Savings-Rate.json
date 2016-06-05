@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "An application that can parse spreadsheets in order to calculate and plot a user's monthly savings rate over time",
+    "homepage": "https://github.com/bbusenius/MMM_Savings_Rate.git",
+    "license": "GNU GPLv3, see LICENSE.txt"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "18fbf0d7b33f5d6586e877c2372220e4c1cbb485f4551f17cf4caf34d51ecea0",
+        "url": "https://files.pythonhosted.org/packages/a9/3d/b829c29294d1a572a79987c764bc494afb44b30d9e7ddf1c77a28207507c/MMM_Savings_Rate-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "ef76071fb766f752ffe61540c95cfaa26e8a88115044d3ee6bd3d9c6e8405e79",
+        "url": "https://files.pythonhosted.org/packages/fb/43/5fac734887a917277cf541fe7061f2e05a5a85fa5b6a01e76a37c406444e/MMM_Savings_Rate-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "c28fb4a8f486c330a1c8ea4a810a6106186cfcd324630df455072a29cb30d910",
+        "url": "https://files.pythonhosted.org/packages/43/67/e94ce7cb64c91666122e915a404e295b8c5a4a9468c039df75698d9a8916/MMM_Savings_Rate-0.4.tar.gz"
+      }
+    }
+  ]
+}

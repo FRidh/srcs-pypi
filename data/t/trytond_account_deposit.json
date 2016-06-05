@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "4.0.1"
+  ],
+  "meta": {
+    "description": "Tryton module for accounting deposit",
+    "homepage": "http://www.tryton.org/",
+    "license": "GPL-3"
+  },
+  "versions": [
+    {
+      "3.6.0": {
+        "sha256": "c78741c5ecd1b8f81793dc1a83ef5d30089002de9a6009dc0af6d71d06e7f504",
+        "url": "https://files.pythonhosted.org/packages/eb/7e/a242f951c711e57d97974c9e7ca2bbc6b98246ab4efb132fff6f7d387ee6/trytond_account_deposit-3.6.0.tar.gz"
+      },
+      "3.6.1": {
+        "sha256": "4e717277d663e9216aaade85d1b427576117921c798ac8afb72de8a838610103",
+        "url": "https://files.pythonhosted.org/packages/43/77/aa5bf69c2765905c42f677cecc8eb1d96df2d0f1c0dbaae092fe1e6317f1/trytond_account_deposit-3.6.1.tar.gz"
+      },
+      "3.6.2": {
+        "sha256": "ec66f2e0172a2fb6f533057acc76923054030e9476f5156394ef4445d4daf7bd",
+        "url": "https://files.pythonhosted.org/packages/0b/c9/3e68b52c7057b5e161c7e753a7350c2bd89f66a2c6b128f74857a657cb70/trytond_account_deposit-3.6.2.tar.gz"
+      },
+      "3.8.0": {
+        "sha256": "0d97750f5d3d09efd87d12ca8258fb5dfbbc6138f5e54ee8ca3aa97af5b266da",
+        "url": "https://files.pythonhosted.org/packages/e8/5c/353d645993465e0e2e4f765ccdaae018c03597806c69967853d397e35ac0/trytond_account_deposit-3.8.0.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "09df0882ba0da694e24c12e0c2ad5b9a56a0f178ee39b51d42480abe139e0aed",
+        "url": "https://files.pythonhosted.org/packages/1b/71/ef0bd1d7125b949badbbdb31fae47f73ae8f101b882f12694090ab1c1dbb/trytond_account_deposit-4.0.0.tar.gz"
+      },
+      "4.0.1": {
+        "sha256": "24090b31a57e99f6353a72e6e5b314a009d795741d50f0ef0c0216fe54188e4a",
+        "url": "https://files.pythonhosted.org/packages/64/ce/8da0ca46e280d82df07da7d310a3a307d9c76c7a0d55da9ad1f3dc57627a/trytond_account_deposit-4.0.1.tar.gz"
+      }
+    }
+  ]
+}

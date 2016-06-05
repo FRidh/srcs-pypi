@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.1.5"
+  ],
+  "meta": {
+    "description": "Extend datetime module so it can return the time fetched from a NTP poolserver",
+    "homepage": "https://github.com/igroen/ntpdatetime",
+    "license": "ISCL"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "2631b81b4acd8230b5ea1e6a39c998b3d5e254d740b9e750ab9d12d3143d39c9",
+        "url": "https://files.pythonhosted.org/packages/0f/2e/5254bb37d1d4b02195a5d7e76f0f0db952b8978168e641e3197c85e5d6aa/ntpdatetime-0.1.0.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "43bb1e3c061a3eed46222d2b312527c0737b623517eacd8de7b3ea9d2e1ce29c",
+        "url": "https://files.pythonhosted.org/packages/9b/fb/71f6e71040e5fb73ea79d646fc6c96639e5ded240d2322621b406c1cb194/ntpdatetime-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "71ad1e3e7a182d76110b7cb64ff951af7129a4d118f75807828e579b4aefad4c",
+        "url": "https://files.pythonhosted.org/packages/70/4b/e8cccda59855fca205590ac010894c2d570e57a448173142a4745d0ec275/ntpdatetime-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "7500619db0320b2d235f4571c9c3d72f5d40c3d45b54228d9359ecf42ce19876",
+        "url": "https://files.pythonhosted.org/packages/4c/e0/48115e3b7c2e98c887349126d3cd9b0eb8a39db53cac7208ab294d05539c/ntpdatetime-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "808bcc8a75444e38579cb7c13f93d56ec3571e3695e8cca4f035e8d53fa5b2d4",
+        "url": "https://files.pythonhosted.org/packages/01/2a/1d9dff2f8529610f49caf9ea3cc6e1fe6c43b16829a23f918c25d85d41c5/ntpdatetime-0.1.5.tar.gz"
+      }
+    }
+  ]
+}

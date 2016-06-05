@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Unofficial Python port of Heroku's pgextras that provides various statistics for a Postgres instance",
+    "homepage": "https://github.com/scottwoodall/python-pgextras",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "9ce07e569b520670b61248e32b0e425ba27b9ccd79c26be98a2aaab1683ebeaf",
+        "url": "https://files.pythonhosted.org/packages/94/4a/dc8db95884396c002ea5b6782e9c161b3ba5f5a073c964c37b130509d7cd/pgextras-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "55078739d7810163873a04d987c554759bbd92d3e8c2be6dc03d64cab66e4da1",
+        "url": "https://files.pythonhosted.org/packages/22/65/b47ef725dcb8e67a9b726fbf9b982f2e39a32afa5656dfe5a786d5b1f921/pgextras-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "df0ff0ba10c772d5c8bd68cad59c22ff76990c1abb7011f979af9160ed319581",
+        "url": "https://files.pythonhosted.org/packages/2b/0b/bc6f552f3dc334903708355581519163b74fdd52a8f44fed828a9e552710/pgextras-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

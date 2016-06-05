@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.3.2"
+  ],
+  "meta": {
+    "description": "Scapy: interactive packet manipulation tool",
+    "homepage": "http://www.secdev.org/projects/scapy",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "2.2.0-dev": {
+        "sha256": "21d868519269059230c800840eb786007b7a85fd886d7911d174719e7aafba5e",
+        "url": "https://files.pythonhosted.org/packages/72/0b/5381f2a376035d06937064fb4ecfaf2c69fd94327000e13615a4f5d4cc13/scapy-2.2.0-dev.linux-x86_64.tar.gz"
+      },
+      "2.3.1": {
+        "sha256": "c3089764ad4cdd96d56816ac8bed4cea3738ce49d18a1a7ef2906a11927ba28b",
+        "url": "https://files.pythonhosted.org/packages/ee/cd/d20c1e121b09697bf4d7b1b9edde6573fc7d54eefc56860f457a7edfc0de/scapy-2.3.1.zip"
+      },
+      "2.3.2": {
+        "sha256": "a9059ced6e1ded0565527c212f6ae4c735f4245d0f5f2d7313c4a6049b005cd8",
+        "url": "https://files.pythonhosted.org/packages/6d/72/c055abd32bcd4ee6b36ef8e9ceccc2e242dea9b6c58fdcf2e8fd005f7650/scapy-2.3.2.tar.gz"
+      }
+    }
+  ]
+}

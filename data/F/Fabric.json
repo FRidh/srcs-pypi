@@ -1,0 +1,354 @@
+{
+  "latest_version": [
+    "1.11.1"
+  ],
+  "meta": {
+    "description": "Fabric is a simple, Pythonic tool for remote execution and deployment",
+    "homepage": "http://fabfile.org",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "c7b3d03a92f9bb393ad9b12fdca7a009ed51e2988bc70df4b5754f0058a4a12d",
+        "url": "https://files.pythonhosted.org/packages/42/04/4ed829b615bc6edf4c6f3ac180face33489de08acc3a4b73ee8637a50010/Fabric-0.0.1.macosx-10.4-i386.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "dddd386c896133ed9d8200fcc812d70d57bf89b3629ffd1bf47e12f568178c0f",
+        "url": "https://files.pythonhosted.org/packages/17/27/1eb2f57cc01767beb1672c9afd9a081b5ee19e0a2c3f84b9bc085ce2fa55/Fabric-0.0.2.macosx-10.4-i386.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "ed558de711b90e5217d180426c43567ff1df0abacad9f4c8ebb86af89afa8fe4",
+        "url": "https://files.pythonhosted.org/packages/9b/26/aa1f4e9a72e7f49d7c096bba2297ee7c2ade85c0a054aa407d7a572a554d/Fabric-0.0.3.macosx-10.4-i386.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "2b48102ba74fbe9442041509b1d9b3582db4cba9f159cd4491dc1cc834722e47",
+        "url": "https://files.pythonhosted.org/packages/4e/8a/2f366618591a37c453b70a5f09961d28e1f04850cb0e0caa5e40eee4eedf/Fabric-0.0.4.macosx-10.4-i386.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "c59b19b49e147d3a23860141c7215ee4de19ba314bd606f6519d28b8ed0c8b11",
+        "url": "https://files.pythonhosted.org/packages/70/0e/1b8ae35d0b3a10167e7b465a1bbae40034f813775f1eab9046476f9419ca/Fabric-0.0.5.macosx-10.4-i386.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "7bee5714c56a8c04a33a6edffa71737d779f5c212cd20101a2a02ed9da4d1a0d",
+        "url": "https://files.pythonhosted.org/packages/88/65/50a1f3f6ccb9742344848a147cc5bec24b090972b79776da9a716bc1916b/Fabric-0.0.6.tar.gz"
+      },
+      "0.0.7": {
+        "sha256": "ccbfcbf5d0100c3dfe9da5edac56917e5176420433b86db3a7ee46008eb4d20a",
+        "url": "https://files.pythonhosted.org/packages/af/71/9f9d58463b9940c6177ffe5790aec207d31562df7fd5acd7f0fddf713860/Fabric-0.0.7.tar.gz"
+      },
+      "0.0.8": {
+        "sha256": "25a21f8abd546f3a867970655ee4320f36e6ff2486d8dad4e23a304cdc4c34a6",
+        "url": "https://files.pythonhosted.org/packages/a3/13/24adef9b9c23cda114778350a53bd6634cf079a82d04492e49e84b47e02d/Fabric-0.0.8.tar.gz"
+      },
+      "0.0.9": {
+        "sha256": "31ea5d89eaba4303ee72a2296404e3abfbeefcbc56a0e52e8ef165c2035f0fc0",
+        "url": "https://files.pythonhosted.org/packages/5f/85/ed170f1dffc9802be34dc82a32a80531767c7a4e48a6de96a0d4bf47ff05/Fabric-0.0.9.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "e67cd48f8e4d2a35ad1ee39bb876789bae3ec19f1001a1b7ec4f6a4d974628c1",
+        "url": "https://files.pythonhosted.org/packages/60/c5/d89a12f39002f232d807ab5b551b5c28548de6ba9942314f6e50bd7f072d/Fabric-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "e0dee686e14db0cabd96adaacae06c3dcad8ff4fdbd9ed3628920aa298deff5d",
+        "url": "https://files.pythonhosted.org/packages/d8/65/daa2d6ac3ae3f63979ae8b6f2a881cafbe4db1deaebf2f72a9e063f7c477/Fabric-0.1.1.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "4141fbe8c781b7e5701985887108c96f46df00882ae276bc7c8a9c811a63accd",
+        "url": "https://files.pythonhosted.org/packages/dd/82/1421a4330a935afe9aef48b8cec404f74360e533c18074fcacfa6c90d95c/Fabric-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "0dcff15de90b903dd5ab9f0dc82a3a116e4f4ea0a8b1e29283d41a5130de3c5a",
+        "url": "https://files.pythonhosted.org/packages/ed/c3/55b414f365dff3b61a6b010258545b49f9d4c2cc4aa9f9ff7fccd78f9210/Fabric-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "6ebee5349dd52f27765561284ca1e8a0924feda5dc848ace0b44da5c21e76d4e",
+        "url": "https://files.pythonhosted.org/packages/5c/1c/a7e345e91ab4d4e4983df9db6d34c5555867544d1ca372e7a45988d48f31/Fabric-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "2a4add4337c5f9d9bec5bf2c6fc0f5b40096401eb381bfdc84b84e1905f6e6e6",
+        "url": "https://files.pythonhosted.org/packages/a6/84/84dcaa68bf651c74c0cfc9c18890c6780552cc153cb1fc30bd0d7106ec70/Fabric-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "7f124f917906b2cf533cd768befae19918f22c1dde3abbe0b7510c7358178111",
+        "url": "https://files.pythonhosted.org/packages/58/26/23ee50286cd0e9a9485361a99b506d85e89a6e7603f8e14b98d72ea68d07/Fabric-0.9.4.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "fa8b0b974c5246483d8b2a8b49f59c9a5b19b92425b2e9ca5aa26b934b7e58d5",
+        "url": "https://files.pythonhosted.org/packages/5d/1d/ed94060bfb5077c3ac016b8a96d27212c1c1a7d7440d45adb5e3763d3324/Fabric-0.9.5.tar.gz"
+      },
+      "0.9.6": {
+        "sha256": "55cf4033ba6e7b299ad89046f18b34c781629bf36671a4c94a8901415d7bac53",
+        "url": "https://files.pythonhosted.org/packages/10/d2/11d0b133798c347f567c20faa126d18bfd4748e734e5951e0781bae6e547/Fabric-0.9.6.tar.gz"
+      },
+      "0.9.7": {
+        "sha256": "36a844b3861913c07b9c972180c00043759bd3788d73facbe16794d45fa1247b",
+        "url": "https://files.pythonhosted.org/packages/63/bb/930971a96cd4d84f0956bb06df1690e1f2098bab13fec3ee81ae17e0d9b8/Fabric-0.9.7.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "5f4762827191a936b0bbc9028ab0acbf254140b1bbaf89e2c2e926bdf73dbafc",
+        "url": "https://files.pythonhosted.org/packages/66/62/38977ae8dfeeed62787ac893821f2a5be5454dc37934d72871c622feb5db/Fabric-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "1241c9971a65674c742a5adf3700981dee3df53063cedf78bb231643d178092c",
+        "url": "https://files.pythonhosted.org/packages/f4/e1/6b3cdcaa8d5407a6bf98f69e1b658fd9ab7b5ae89c8b1c300498bf887cd7/Fabric-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "687747131070ebccae398d6c89ff064985f7914f97c00261b92d339f645e9b1f",
+        "url": "https://files.pythonhosted.org/packages/43/1f/58f909ff7cc091ce7eeb10fee760f950c861f3d6d5c893c642b99a4790ea/Fabric-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "ed33d0bbed205b8590ce60edfde97997e4e74445b8912a977bc50784371c5c93",
+        "url": "https://files.pythonhosted.org/packages/3d/15/8f43ecdebd384aea35692b618fd4a1aa4cc2bfdf5a0d0803ab2c3bec8177/Fabric-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "da35db39a0663eb88c2f01e371cb01d00276cfcd4b873e81b15b40b854c0b2f4",
+        "url": "https://files.pythonhosted.org/packages/8e/0c/d3ff5f97cdeb5da7506b14c17e624d12b57daf23d42798b0c5d8492432a9/Fabric-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "91b42c9327d16dfd1e983359444b6f99d7f8f8cbcd71cdd05ef1d053d05a40ec",
+        "url": "https://files.pythonhosted.org/packages/f1/db/69b29f8fc6dbd79c3cbbba4d279f5e0b573cabb9d8402396216b75243562/Fabric-1.0.5.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "fbdacdb84d0a6e15350a0186edfc600b5ad87ab1b58031af12bc0858ae688823",
+        "url": "https://files.pythonhosted.org/packages/8d/0d/2d03725f7738808ffabd325598a0bea44b08c3b06269c09497233f92243f/Fabric-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "3a3380351c01e3582c3713ff6bc63ac11db1f67ebfe96dfec2aa2721c95c4f52",
+        "url": "https://files.pythonhosted.org/packages/ee/8c/29cc8b4d9b8bcd99b694abce857bfcc799b3d1a3d6d6e208ed9fc7ab3e92/Fabric-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "7cb6e76940d715d410c8e31a4cdacb0d56d431bdf11a2c896cc38c68544b8468",
+        "url": "https://files.pythonhosted.org/packages/86/a9/db05e1d5f343b113d2e45fb4baed840f4483d3c90158b722d181a5b39d2b/Fabric-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "b8d1b2ca85e2efc66e97aee63d119fd37bcfeb3682c5cd9c2606cf4794ac14b8",
+        "url": "https://files.pythonhosted.org/packages/e2/10/f78ff8da917d991070b0ba5f9bfb2442cde4adffc3960a0315d45f434df3/Fabric-1.1.3.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "4c0826378671b1a231663a7d52efee5a821ae9fa2d775e706cfa156ad94fd294",
+        "url": "https://files.pythonhosted.org/packages/a7/88/c5e93cb7369a0e8efe8d0e3e3b095bce831be8118a5b4a3e4841f5b117a0/Fabric-1.1.4.tar.gz"
+      },
+      "1.1.5": {
+        "sha256": "6d6bd399e757de44edd966b477aee260b372a196d8e9c7d2f36f34349585d69e",
+        "url": "https://files.pythonhosted.org/packages/fa/6e/4c02ac1d03d13bf5e19a9a14e18a0e16f53ae63c93eb8480999030c82ce0/Fabric-1.1.5.tar.gz"
+      },
+      "1.1.6": {
+        "sha256": "d347d15548a22ffb5df0c748dde103ce3240b719f1f662f719fcc9585e2adbe9",
+        "url": "https://files.pythonhosted.org/packages/35/32/c0de7733aaaa0e36914814a9ea23b411b00c0415d9c2e713b62cf80926f1/Fabric-1.1.6.tar.gz"
+      },
+      "1.1.7": {
+        "sha256": "6a7290df91bb43cbe5ab8db44329a3f5e5c39f765e63a63f3d275b0f446e4db2",
+        "url": "https://files.pythonhosted.org/packages/94/df/04886f6894b88c22341b3afb48157be380fdebe5925a6c0d4a46e03effb9/Fabric-1.1.7.tar.gz"
+      },
+      "1.1.8": {
+        "sha256": "f8bc8259ca7c9d38997a981361916ce624a9911c6f48042b2d6ecf926a01d761",
+        "url": "https://files.pythonhosted.org/packages/cc/d5/b81e32f3792004b1e120d5f203be62f3d91519f4fc37502b1ce70c6defcd/Fabric-1.1.8.tar.gz"
+      },
+      "1.10.0": {
+        "sha256": "edb2702b4655600f0a49a97e654c79f5b21490ce30f77d1313dd851f0b60335a",
+        "url": "https://files.pythonhosted.org/packages/e3/5f/b6ebdb5241d5ec9eab582a5c8a01255c1107da396f849e538801d2fe64a5/Fabric-1.10.0.tar.gz"
+      },
+      "1.10.1": {
+        "sha256": "ab9c54e9496c89ae96ed4aa669e01c792376d75a7389ec90d4292282cc26f008",
+        "url": "https://files.pythonhosted.org/packages/5c/85/63690c70ec645780d3b40cc0fe4720cbf4729a2de7db55f7cd4cf268d1ed/Fabric-1.10.1.tar.gz"
+      },
+      "1.10.2": {
+        "sha256": "666a3da92273532d3a49dd1ac53e3d721c5ec2f2512cd7dddb7ce19e29e9f038",
+        "url": "https://files.pythonhosted.org/packages/80/0f/662c03fd98feb4dff7a7ddd226ec152ee01c3ba0d2b396c812169e8c7fc0/Fabric-1.10.2.tar.gz"
+      },
+      "1.10.3": {
+        "sha256": "bd9f9f9349bb012978bac94d58b23abff778c3c8a04f9c2480bd40cff39e4525",
+        "url": "https://files.pythonhosted.org/packages/85/2c/0b2f6e9874ded8249a0ee55af6faff9712bceebb48b174c144c4a645f70e/Fabric-1.10.3.tar.gz"
+      },
+      "1.11.1": {
+        "sha256": "336cfa335840136fab8694a539dd61924697b8d0c2f3a12afadf0a6165c0875d",
+        "url": "https://files.pythonhosted.org/packages/e5/73/49d96ea3f4e8b7b707cbfd7c78a601691ea75f479204cefe5aa459e11c2b/Fabric-1.11.1.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "9733bea6672a0bc4621438a14e47808f4cb0537d22c820932f4b16348541801a",
+        "url": "https://files.pythonhosted.org/packages/17/7c/86f3e52251a7062bfc2c3b6d381b14235fff07a2072231941637b0bba056/Fabric-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "ed4c01aa521f9c71ebddbf3a78a0de62ffa81c2ffd02b5d209d221fd7fabe0d3",
+        "url": "https://files.pythonhosted.org/packages/67/ad/89537ceab3dba4fb1a5e5e2a6a2610631f68bfedb0f4f1b361aafd769056/Fabric-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "a5956c37a8c668acac16d671537fa85e648b535343c9a2c9f921bbae486d651c",
+        "url": "https://files.pythonhosted.org/packages/4a/50/dda1e59fb654c98fae945f05d858b7b4e25c9761c231501afe4495cc0d41/Fabric-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "cac2916839baca3d6a36fc0978bb27e70536354d6a2f9543e9db0685e3fd9a4f",
+        "url": "https://files.pythonhosted.org/packages/10/2a/2db1b473354d5374df13cde16b668f3bff75d11d19f19b3b92f3058cb6ec/Fabric-1.2.3.tar.gz"
+      },
+      "1.2.4": {
+        "sha256": "59654664a187e4f3b5d45f12ee23019c925fe6b26c26ea2c30fb55526533ff0e",
+        "url": "https://files.pythonhosted.org/packages/c1/60/d4ac6fca7b52276dd06d55d9efb3796f550b309029bb3f93f0271ce9ef64/Fabric-1.2.4.tar.gz"
+      },
+      "1.2.5": {
+        "sha256": "6a3c4311d0e134065e47d249330b167a36cd4f945b823c4bac4296702b25cb71",
+        "url": "https://files.pythonhosted.org/packages/53/6e/4987ccedb139297cd3904415b1f87443418f3af590cd74e276cf5f4e6b77/Fabric-1.2.5.tar.gz"
+      },
+      "1.2.6": {
+        "sha256": "9a931bc093225089269cc5b57491750a47416ddf4c987da6644d49bb292d4c6d",
+        "url": "https://files.pythonhosted.org/packages/b3/67/22682bee893196cf4cd769a51c465cdcdfd331d35fefbd416b95dcd3a801/Fabric-1.2.6.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "e3969e7050b80c6f484b59467c55ad80c7c8f239a8e0ebeb381c63572743b23b",
+        "url": "https://files.pythonhosted.org/packages/d7/18/1e07924c75f88a528fa435a3ed564ed63195f74f6ca8ce12ea5a3fb5b986/Fabric-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "9b2a3598ff2cb77ebd0d5f399051a669e52e6c1e5dcde9609912eba8f185f003",
+        "url": "https://files.pythonhosted.org/packages/48/f1/2484b9b94c5a244f04417fe88ee8cf72d3889c371084badd745981bf0864/Fabric-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "45c4274fa654ac85a931dcb88d68b4b2c4414ebe72021943e8755929f704a1c0",
+        "url": "https://files.pythonhosted.org/packages/d9/1e/4ce54218d5de7121692028aa78228768a34f2146249e541caad2d194a76d/Fabric-1.3.2.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "8f9afc2fc672822ae4d6bb01cc17e06a78585498206347dc03de849b6939b7e4",
+        "url": "https://files.pythonhosted.org/packages/90/0a/0827071cf693781736b6fec061114616325161798e1f960ac56ce824ecb3/Fabric-1.3.3.tar.gz"
+      },
+      "1.3.4": {
+        "sha256": "d3e4a84e472053b09bea41233612357757eaa0c0d505a18c2b3be5cde86e6bf4",
+        "url": "https://files.pythonhosted.org/packages/cc/78/09725b59ddb925babcb075c534994a26b47a7920c4f5f3c82122140fca65/Fabric-1.3.4.tar.gz"
+      },
+      "1.3.5": {
+        "sha256": "2e25cce6d452929fcae1428632eb801811443eb141e77c3c8d9f22494d10cb86",
+        "url": "https://files.pythonhosted.org/packages/f9/04/95ac94eab5c96ad2f52b67c59125ae1dec69c79005b992beb409ddcb6e12/Fabric-1.3.5.tar.gz"
+      },
+      "1.3.6": {
+        "sha256": "dc98c740cd1878dad50792877c544e773672ae08f3064d9d67ea42641e21efcb",
+        "url": "https://files.pythonhosted.org/packages/3b/39/278a62a4be944aa468e3675c3f6d707c73f1316d90b1152b59002e8bc6ef/Fabric-1.3.6.tar.gz"
+      },
+      "1.3.7": {
+        "sha256": "73188b15d27e44522f97467b5d6a6307b7864c8a6882d9416dd0d0724ce549fe",
+        "url": "https://files.pythonhosted.org/packages/fa/ee/068a563a7e0ece4e1b61e19695b1befb3dd415294a6e623aa03eeb2a5536/Fabric-1.3.7.tar.gz"
+      },
+      "1.3.8": {
+        "sha256": "da07d3b8fe548dedb286bd6c90b080d60cda6327a54a9e8ba7f157b50c24461a",
+        "url": "https://files.pythonhosted.org/packages/32/2b/d828f28f644169fee15dc5b8788488fabca1032482466be99ce96e566a10/Fabric-1.3.8.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "d8a35bd3cda109e99fda5196ccf7a386cc41bf56252e17513260c740a3106f95",
+        "url": "https://files.pythonhosted.org/packages/18/22/cb60c2c5cf44b2731878195b8260ac3aa8fd249616604a8be4d553ce5c80/Fabric-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "3f08cee87cd69c6ef3f79b0051bb2cf4a2346986f2cb53117cba72771b371a74",
+        "url": "https://files.pythonhosted.org/packages/62/35/000b7d34c4d121f1e009d109d6019d7598282394490210d8f525354d48ed/Fabric-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "11bcd5dbb1c6e96311a5b6547816756d7bc6bcacb1d6528f8bedf6fde824de0c",
+        "url": "https://files.pythonhosted.org/packages/05/5e/a1982cb3be75706d5f4b0b679494efc31efcb9cb69498e4b61872c973e98/Fabric-1.4.2.tar.gz"
+      },
+      "1.4.3": {
+        "sha256": "e81c7d510ff8d9334d0fd8993c931e3ee759883d00cf29d1eecd4c6ca6d82029",
+        "url": "https://files.pythonhosted.org/packages/15/d1/c27ada82f675275a74e476396b5a64740ef1ae712662827979a712809a5e/Fabric-1.4.3.tar.gz"
+      },
+      "1.4.4": {
+        "sha256": "74360552265a37ab14d151a0501f7f091a35a0a8529ce3146fda677c71343ed5",
+        "url": "https://files.pythonhosted.org/packages/f3/b3/32a8d10f7fcd221ada8c137abf0b957da954e87f6f17f7a851ca57d8fef4/Fabric-1.4.4.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "cddd0209dd9ff787dfdd7add752ae4adec8510b5c77e2dd0b53315eb279af6bb",
+        "url": "https://files.pythonhosted.org/packages/30/a4/9d434517fea60833c6d3f2088fa222bdacb2adc60e5fd1ce1abcc3b0534e/Fabric-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "81b67886b539ecaa952925e2c821eff3bf95e26ae0c70d5058d3b67fc400367e",
+        "url": "https://files.pythonhosted.org/packages/f2/21/00646346b15da4d33d4db6eda91a7d23a8d68345b8aa5c7c118e36898968/Fabric-1.5.1.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "bf3a942f22a1f7926ada9690375335756849e5a555b608bda63f7bf421be5726",
+        "url": "https://files.pythonhosted.org/packages/b9/98/c375a914e7b87a0cce0a3adbf1c7ebcba44b7803a7a43f236661e6e20d6a/Fabric-1.5.2.tar.gz"
+      },
+      "1.5.3": {
+        "sha256": "e90a15a5a6fe9be6941ca7141e1d36e0dc8112a9df13d316fa4770a92391b725",
+        "url": "https://files.pythonhosted.org/packages/60/71/2d5bfb6151c518230dfc973524d8f3bf37610a0d313e1a008b209972a80d/Fabric-1.5.3.tar.gz"
+      },
+      "1.5.4": {
+        "sha256": "6dc9e01fb866be431727d1b03bb5d032b509d3997eae7d73c5cefdc922847367",
+        "url": "https://files.pythonhosted.org/packages/c7/c9/0464be35c8f391a245c0b126ff83445c11a7869d656f9e29a20a15772990/Fabric-1.5.4.tar.gz"
+      },
+      "1.5.5": {
+        "sha256": "09a073cfb343815ca90e0f185d7688cc40386dd28b9c8adc2d97e411d9431b82",
+        "url": "https://files.pythonhosted.org/packages/2a/18/9b59eb6c53b340d4b42b3c0ad29d7aba1144eb4f1a089ffab5fc37c26dde/Fabric-1.5.5.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "6e326603a0b2f9b8cb7283e3c6dea1d22216c97a274bdab30ed9c8a41e1d996e",
+        "url": "https://files.pythonhosted.org/packages/38/bf/4529f61c6907089723f594c7da54f9bbe5b7a88fb9cb18e699cd9fc06206/Fabric-1.6.0.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "a1ff35d4bf69fbc0d44a14c3c071abd82703eabbce4f4e82b0a3ba85e1d21715",
+        "url": "https://files.pythonhosted.org/packages/b2/8f/66a1cd694789a855e689fd3445419a17d65feb9445a7f15382ea0c710099/Fabric-1.6.1.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "d2b2783c9ff188a6327cfa6fabc5f3e59dea7816a1e979e3be023b49b6b72f16",
+        "url": "https://files.pythonhosted.org/packages/13/e0/dddbfeaf866701e86d418db502ac8f2bd3bf44de5ea716662ffe86c042a6/Fabric-1.6.2.tar.gz"
+      },
+      "1.6.4": {
+        "sha256": "1043c6f4bdf7045dd388997401c46d0d1b71c9895a5c156501ea75c17343fd44",
+        "url": "https://files.pythonhosted.org/packages/cb/1e/dac0e94be15305589b3ff427cdbdc92e2e05cd2a0634d67d250623138da0/Fabric-1.6.4.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "b3f7af83d82531fc5c6bcbcffd4c59e4693f899bb33d83599c215b6b551f0070",
+        "url": "https://files.pythonhosted.org/packages/0c/7d/46708539a0cbf3e64a5e2a7a35b200d7ab87585cf2573abc6033a38e0e6f/Fabric-1.7.0.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "939a2b9a0fdecc33088a54eacec235461889419a61929d51d9f654982d5652a5",
+        "url": "https://files.pythonhosted.org/packages/30/14/7605d928ac5e73eae62d7f11cd4c64eb90ae97b59bc5087e024d78b4cb3b/Fabric-1.7.1.tar.gz"
+      },
+      "1.7.2": {
+        "sha256": "79d9872f9aaa76bed501a0417abcadaa8624d513468ccf25d634cb28f6424932",
+        "url": "https://files.pythonhosted.org/packages/1b/6e/4c9781d266ce45d9669facd62677a7fd47af0d86216e827e0f2534da0cf2/Fabric-1.7.2.tar.gz"
+      },
+      "1.7.3": {
+        "sha256": "06e5156a77df2732f87c154b97bb93f6c9a4432f5030da4dc138ccf9efb7ec4d",
+        "url": "https://files.pythonhosted.org/packages/b6/c3/8eb23441cba44fdf48353242a0409c95eef03c040df64617ddccc5c3970d/Fabric-1.7.3.tar.gz"
+      },
+      "1.7.4": {
+        "sha256": "1e8bbe3463259b042869b1278312683fe3db3b2f5da01cd0cff21d7723234dcb",
+        "url": "https://files.pythonhosted.org/packages/e0/5f/3d0aefdb04574cc8c748e8b7a83a0e7c8fd2751e062a47ff0a27372291fb/Fabric-1.7.4.tar.gz"
+      },
+      "1.7.5": {
+        "sha256": "6894655c813dd8a2c5a730f87d79f036b3f4d0747fdac84a4ff47188bb2a5edd",
+        "url": "https://files.pythonhosted.org/packages/72/a9/958f5e08a828e592ea2e2a1d844dd1d00988b869b97a4314f20978b75b81/Fabric-1.7.5.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "0076c76abeef3ffe9172e1290e6e487e23a7229b676883241bfd57a1933b327a",
+        "url": "https://files.pythonhosted.org/packages/a1/b4/38936f8d3f99db13a21aaddcc1c5220d9303512ed4d10f01a7603ec84201/Fabric-1.8.0.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "bf2b4a857e14ab5e555a4c287d2a26dc30e2f3d19a0e545df058e5c139019880",
+        "url": "https://files.pythonhosted.org/packages/06/56/4160b95ff25c7d24f16768469fd6020cdb0f1f26e5c7c90fb163e507e083/Fabric-1.8.1.tar.gz"
+      },
+      "1.8.2": {
+        "sha256": "ae810aee9114c5e7ef3ce7a0f6fb6293d1dfcfcfa846aa4e007f3ae42beaf62b",
+        "url": "https://files.pythonhosted.org/packages/ab/82/4cd6cbb2001431aece679c5c496bb49d2094f10e9cc98b9f94fa7261a935/Fabric-1.8.2.tar.gz"
+      },
+      "1.8.3": {
+        "sha256": "651a07959bdabfb15fda2a6e6adebf473e57ff5b6f3f5d2894fa787c2b6fd202",
+        "url": "https://files.pythonhosted.org/packages/74/08/00991d4bc082adec7394953e2e2dc1e12e7fb71f8a74038c1904de34cab7/Fabric-1.8.3.tar.gz"
+      },
+      "1.8.4": {
+        "sha256": "ca42c6634a10e2ab39cc661f209d32ad7af073ee6381538befbde20c68fa5d30",
+        "url": "https://files.pythonhosted.org/packages/86/ae/b3a48f38273cb55b51ea3b1d0d72a7f7acf80e9e9f32a6509355687636c9/Fabric-1.8.4.tar.gz"
+      },
+      "1.8.5": {
+        "sha256": "fc2f1c4edaa451382e5829ef1acbdd8005847e0ea60bc92ecf672d08d38fde4f",
+        "url": "https://files.pythonhosted.org/packages/d4/e5/79b753b7b8f45830aa24ac2da212d308601d1586eb1e06619d05f0099883/Fabric-1.8.5.tar.gz"
+      },
+      "1.9.0": {
+        "sha256": "a30385226b7186d3094503a890a40a1c023b2fd84ecf0ff1e5d4d583c28bf719",
+        "url": "https://files.pythonhosted.org/packages/9a/4c/d843e73125529eb07d46fd275c4ddafe5d085dd65daceb347ce8dcc1a54f/Fabric-1.9.0.tar.gz"
+      },
+      "1.9.1": {
+        "sha256": "4127d65e595d9e491314d4cfdafde5c39b8773d3ebb86a0bdf7e964081fb7580",
+        "url": "https://files.pythonhosted.org/packages/f4/b2/4af8951b1fe439f91c8e37a167a9ad483647fead1404b2b3ecb0e558c05d/Fabric-1.9.1.tar.gz"
+      },
+      "1.9.2": {
+        "sha256": "bb46b8a29042ecc5fcd8fe0eceb02b8d9d2a72010cf8563f19a2e315f77903c7",
+        "url": "https://files.pythonhosted.org/packages/ab/9f/292794ad8cfde4a88f6487591550493e13b17cfa232de5f5f0663e9f372e/Fabric-1.9.2.tar.gz"
+      }
+    }
+  ]
+}

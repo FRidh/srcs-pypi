@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Ansible build step for Jenkins Job Builder",
+    "homepage": "https://github.com/nkts/jjb-ansible",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "910ff6fd2c8e6bfe4a60a28978ea642538ca6e023546648e3fe24b79495ed69d",
+        "url": "https://files.pythonhosted.org/packages/0b/79/eb34d1039e2069277ebd51523bf0add6a1358ec0615a02cef050d2d2e372/jenkins_job_builder_ansible-0.1.0-py2-none-any.whl"
+      },
+      "0.1.1": {
+        "sha256": "1b6b6050efe85813913cdd60369b858d732c09f7dbde050a51aa969700deeacd",
+        "url": "https://files.pythonhosted.org/packages/d8/a2/85bd7f1ac7a7ec7e350c495115d953a88cc205e643fa88d8bb1c38e8ea64/jenkins_job_builder_ansible-0.1.1-py2-none-any.whl"
+      },
+      "0.1.2": {
+        "sha256": "caeb671fb45143f01284329dd761edb6efc8ea80afbd5346c8586328a0875c90",
+        "url": "https://files.pythonhosted.org/packages/d1/ce/74ba187eabefe6100b0451c5710de7baa3d716d3231c1ead6b543ee78399/jenkins_job_builder_ansible-0.1.2-py2-none-any.whl"
+      }
+    }
+  ]
+}

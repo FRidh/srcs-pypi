@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "A drop-in replacement for `argparse` dispatching subcommand calls to functions, modules or binaries",
+    "homepage": "http://git.framasoft.org/spalax/argdispatch",
+    "license": "GPLv3 or any later version"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "a6a0e8bccbab365672f9945c4ebd62c837966b204bdc3eefb963a75e88051411",
+        "url": "https://files.pythonhosted.org/packages/e9/84/0ec8d388a0e737d202d174227936015d7bed094031eed291c167cddd591f/argdispatch-0.1.0.tar.gz"
+      },
+      "0.1.0b1": {
+        "sha256": "01148038280760907953fb5b9f714ca4f2666babc86f693403fe29ab8b77d2fb",
+        "url": "https://files.pythonhosted.org/packages/85/50/a7bf7bf8e2605e063df9cfe3bbd84007d5b39b944d08496aac8f5b82f3b9/argdispatch-0.1.0b1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "396b23e10e0912cd2ed24795f82d556d6e18c0b5a3c6cb3fc1c5a03d6c07b256",
+        "url": "https://files.pythonhosted.org/packages/0a/f3/d3eafe5bed63e2796ae56d430da4e8f19c3d69ae8532e6b885512fd7b420/argdispatch-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

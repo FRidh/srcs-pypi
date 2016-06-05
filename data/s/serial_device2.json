@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "1.5.1"
+  ],
+  "meta": {
+    "description": "Extends serial.Serial to add methods such as auto discovery of available serial ports in Linux, Windows, and Mac OS X",
+    "homepage": "https://github.com/janelia-pypi/serial_device_python",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "227ec1dd6d904ea90d2844b5caad05358578cce258ddbcd9b784d7b1ca5e939e",
+        "url": "https://files.pythonhosted.org/packages/54/98/37e8b0716c67403e47f156b55c5b1314f65c0009afe7030136c866e98691/serial_device2-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "97c8311e92ce2d9da8da36e5f0925e98d2b33cb7a76da161c54ae450082dc490",
+        "url": "https://files.pythonhosted.org/packages/a4/91/a8a961509e0ae4e87d40e441f7dd3748cd96905635149e87eb764ebcd4d7/serial_device2-1.1.tar.gz"
+      },
+      "1.3": {
+        "sha256": "ef79656748d99f0ac8000440543c5aad0ddcb142f6b00543478b5a871c64d57e",
+        "url": "https://files.pythonhosted.org/packages/4c/c4/f38be5e818aa7519163264d749e9c685360e9af98235f72fddbe224d05eb/serial_device2-1.3.tar.gz"
+      },
+      "1.4": {
+        "sha256": "0429e097aeee206a93c284cf2fc40ccf2f55efdaa934f30d02fafee8c3ba44a7",
+        "url": "https://files.pythonhosted.org/packages/c7/67/15effce4b0fb8203db0f6df5340f0a4b1b06639aea422f04dbed85bc6658/serial_device2-1.4.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "4aebdfc6031b3415e7c49ebbf933a0758feebc6357df520953947165d4bb3559",
+        "url": "https://files.pythonhosted.org/packages/ad/01/e8ae7cbcd5b65350cb63b2e798e8b268ba5fa053b0864c585a219b7d3f02/serial_device2-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "405633b5377659b7ee1e37f3f6fe4a8e5826bbe29c419b900deebdd37f43611a",
+        "url": "https://files.pythonhosted.org/packages/10/db/be8c76baba89f1a738898dcd0bccc041f2e8092bc0bdcabaa47b1f842a4b/serial_device2-1.4.2.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "f153a653fadfdeb20de42223f6e7f33983efcc7592e845c794780fc9159b2ca9",
+        "url": "https://files.pythonhosted.org/packages/58/4f/40435ba88f1579ecf7f6b815ef4b3c6c11d3ccc297e690b8b3b99c04708b/serial_device2-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "aed55d5696e62998c9a4b6aa4b0c1cd24c35e07db7afd11a3350ab290be5670f",
+        "url": "https://files.pythonhosted.org/packages/bb/7e/8366198ae13f8a0af27784532b8facbf2ae88a5da140e022e38d001b16f0/serial_device2-1.5.1.tar.gz"
+      }
+    }
+  ]
+}

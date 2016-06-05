@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Build leanpub books locally. Watch files and build a new pdf each time they change",
+    "homepage": "https://github.com/hayd/leanpub",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "dcaca74a63870cd68305cc793237977285a33d284e793ead35aad3958bbed746",
+        "url": "https://files.pythonhosted.org/packages/ad/10/b8c4f12f006b962e0d1219798b7e962e416645640f4338f23d7a8b6e4cd7/leanpub-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "dd5a3bb73f0dccd5e52f32c378805c6f90b4d71896623cb3832f5102d2a3e8c1",
+        "url": "https://files.pythonhosted.org/packages/9f/6b/cbe5054f5b431866deacc7facba568332398cc660b9753d3a99391363090/leanpub-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

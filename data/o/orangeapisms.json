@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "0.19"
+  ],
+  "meta": {
+    "description": "Django app to add support for Orange API SMS-MO, SMS-MT",
+    "homepage": "http://github.com/rgaudin/django-orangeapisms"
+  },
+  "versions": [
+    {
+      "0.16": {
+        "sha256": "21e02a052b197dfd7ae4bbc3de1887b5c9ec547274358bc85cd59aa34ba4b701",
+        "url": "https://files.pythonhosted.org/packages/71/5a/36c9fcfa1b40383d78fcbcae3854a7fe98e54f5b29297ae22a181463239d/orangeapisms-0.16.tar.gz"
+      },
+      "0.17": {
+        "sha256": "f18045b3fe7fae0112b3dc00dd6d96a77dcebaaf34351d19007beb74064c2f55",
+        "url": "https://files.pythonhosted.org/packages/8e/d2/f7a4ad9e3ae4e1245ed4b863d5cc0d86765d0ef777f754bc00469387de88/orangeapisms-0.17.tar.gz"
+      },
+      "0.18": {
+        "sha256": "5978fa65af86ca9682d56f6a712d8f9edebe75b270915bbe86912a3161ee0662",
+        "url": "https://files.pythonhosted.org/packages/c4/f1/17cab16000cc163c15efc844928aed49898f7bccff58978f5c0aec3d2637/orangeapisms-0.18.tar.gz"
+      },
+      "0.19": {
+        "sha256": "87f599fbb0a44564a8e0323a7e999f1d0104e61c9aca8d49d70d3bc9dfcb37a2",
+        "url": "https://files.pythonhosted.org/packages/4b/7d/5ed4e6261e8a90c7de75914b429c762aa01a08ae720cefc664facee78c1f/orangeapisms-0.19.tar.gz"
+      }
+    }
+  ]
+}

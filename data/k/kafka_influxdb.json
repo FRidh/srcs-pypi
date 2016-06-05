@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.7.2"
+  ],
+  "meta": {
+    "description": "A Kafka consumer for InfluxDB",
+    "homepage": "http://github.com/mre/kafka-influxdb",
+    "license": "Apache"
+  },
+  "versions": [
+    {
+      "0.5.0": {
+        "sha256": "2631f76842b2ac09206653db50acfb8e1b880e913263d64b309b3c3d424ec7e3",
+        "url": "https://files.pythonhosted.org/packages/67/da/abda78e564eb26adc6b43832c6cea1ec71d554d12e0b0d6bcd1266ee8cd8/kafka_influxdb-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "b617c8fa7c9dc127be1793c83b9cbc9366552056d09ee74256b097bf450b2c33",
+        "url": "https://files.pythonhosted.org/packages/d9/22/713432a664d3169072152fb7d9b4707f00fd69cccf46e4b035bfd446dd28/kafka_influxdb-0.6.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "99d9d043d15421d7e2e22eeeef19a6532316cdf3aa5df12db687c3728969a07d",
+        "url": "https://files.pythonhosted.org/packages/da/1d/c8aad736f8b806e8f43a16a9ce225ef75d5542c003f7a6b8c791bff2801d/kafka_influxdb-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "5e045c27368d1f0668836e5ec88e86162ae9aa53606eda92ab7886d5283706ef",
+        "url": "https://files.pythonhosted.org/packages/40/f4/204277e720d57df7bce0d0d9b340bcef44f11ab58e054ee5efc0b5311730/kafka_influxdb-0.7.2.tar.gz"
+      }
+    }
+  ]
+}

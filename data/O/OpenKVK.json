@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Python API wrapper for the OpenKVK service",
+    "homepage": "http://github.com/jeff-99/OpenKVK",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "c932dd52236f167005134178dba75f49c83c7fdb681013265f0ec83e61bb48bd",
+        "url": "https://files.pythonhosted.org/packages/d5/c3/4af10c6eab74d6c047a66aece2061b000be8aec393303daa3efa64e1b94f/OpenKVK-0.2.zip"
+      },
+      "0.3": {
+        "sha256": "764a997fe692de0c80596c1245750a7dfb497603ce1333ddf004d578754fe085",
+        "url": "https://files.pythonhosted.org/packages/e1/50/1c3e669812a8a7ebc3a04e1d0b9489ab65364130ce63d14b5f2e25bf8e36/OpenKVK-0.3.zip"
+      },
+      "0.4": {
+        "sha256": "92e3b7bfc3fa0d34c7a2235841770df64e0a382fd817329dc26031459ccdd066",
+        "url": "https://files.pythonhosted.org/packages/2e/42/36a2889fc7ee3bc080c5afdf6f425d8bdeb1d67e2186467b9186fbb49073/OpenKVK-0.4.zip"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "latest_version": [
+    "1.7.5"
+  ],
+  "meta": {
+    "description": "Plugin for py.test to generate allure xml reports",
+    "homepage": "https://github.com/allure-framework/allure-python",
+    "license": ""
+  },
+  "versions": [
+    {
+      "1.3.5": {
+        "sha256": "27fcbd065433508f982178121f93da529c8fe38994aad018f52b3e129ad409b9",
+        "url": "https://files.pythonhosted.org/packages/64/f7/f771699b5e7f0b297cbadbe1f9eea5033f33e239842d1d7392d7cdd1678a/pytest-allure-adaptor-1.3.5.tar.gz"
+      },
+      "1.3.6": {
+        "sha256": "ad6696d32b1e796b601b2ffb4503c924d441e0a95ddeadb0d7cc51eb99391582",
+        "url": "https://files.pythonhosted.org/packages/43/18/bce6206a831b1f99772898568332d0ca697d6a564346e677735d1dca6c6e/pytest-allure-adaptor-1.3.6.tar.gz"
+      },
+      "1.3.7": {
+        "sha256": "6d905249a4194353e34c3bade1dfcd7377cc7d801e17cafc72eafb3c582b86b1",
+        "url": "https://files.pythonhosted.org/packages/6e/39/3556398f26986bd09cdb463366657d45f43e5764cdf2c429fa54603f4877/pytest-allure-adaptor-1.3.7.tar.gz"
+      },
+      "1.3.8": {
+        "sha256": "51c9918db9c3e618b7b5fba88d1caf72a57cf631e1e0388543ea51e74ec1eb00",
+        "url": "https://files.pythonhosted.org/packages/cb/84/ae281f807ba904ccafbeac36b2d6eb64303db67a1d856f8a4b18131f6d00/pytest-allure-adaptor-1.3.8.tar.gz"
+      },
+      "1.3.9": {
+        "sha256": "b90a2c20d8686f744941f451b65e69d68e6c703d411b708db4e5bea9ad27cfbd",
+        "url": "https://files.pythonhosted.org/packages/c4/f1/b1e5d813826f8c032bf3f6b73d644859cf56f20f15ad0477ce6d37d9459f/pytest-allure-adaptor-1.3.9.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "7fb907be4ab652d7b08c1473b02ecc4c528b005dbf217c3c5ba0bc2b14740ec5",
+        "url": "https://files.pythonhosted.org/packages/72/cb/3385eb8ba49a443ab5dccd1491521fc92611fa26651ebdedcdf99f348ea3/pytest-allure-adaptor-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "0680753078487d15df44127588f448e165a99ff9ff91d34cd794ebae13fe1084",
+        "url": "https://files.pythonhosted.org/packages/27/8a/f1eb91551830566a9ace1ab02da8e396b42eb853e6d81044545ea7c14a80/pytest-allure-adaptor-1.4.1.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "a287288c926ed37b2db748a528046142a9717bf7dea988cef034ab33527e2874",
+        "url": "https://files.pythonhosted.org/packages/0a/1a/1c045370d7a6df08f1d77b915913a2f5784cd085e46e52f011d80d49a5cf/pytest-allure-adaptor-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "e52017c457d15fb17872e14a8fae59a2f73d55eeda76c2bf0f03873486837857",
+        "url": "https://files.pythonhosted.org/packages/bb/c5/3114ddbf82d78d949d347d97397f6e6c76e6b8d59254b2a5ff89430ff0d9/pytest-allure-adaptor-1.5.1.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "0fd1b848c7b8c9ba3beb5e463a49974f1a7d1cb8aac9f307e642e2e49175df86",
+        "url": "https://files.pythonhosted.org/packages/cc/89/8d84b6855a493876873b0f6b108727a5509a5e06a15eeb108ca0a806aac2/pytest-allure-adaptor-1.5.2.tar.gz"
+      },
+      "1.5.3": {
+        "sha256": "d3d6ce8c1859270677945a71157909dad6b6027a05b808bd265457a5fb07fce6",
+        "url": "https://files.pythonhosted.org/packages/a9/ce/d4e515ff6a57cd4ac7ac1ce25516295b7b840e2fb889a97d71969e0c1ac9/pytest-allure-adaptor-1.5.3.tar.gz"
+      },
+      "1.5.4": {
+        "sha256": "9b52f2966b2ec94e41a5d80699f1008b87051f2c8e2d97c6c647060a9f6184bb",
+        "url": "https://files.pythonhosted.org/packages/62/91/60384e5d315eda51f6ff9eee99189c29350276bf4f5a3c4758ea9265aa52/pytest-allure-adaptor-1.5.4.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "e8eb918ef01af24fe066d65fccfd6b50fa4cad71cb0f7b8d386938bfc8475811",
+        "url": "https://files.pythonhosted.org/packages/c7/14/3513e87835729dadd33dfc168e230cc535a058a7dee836a11cf7d251179a/pytest-allure-adaptor-1.6.0.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "14e0dc5267336a5cdcba4357b262308d221f02d12daf04e58aa9be7710c9fa33",
+        "url": "https://files.pythonhosted.org/packages/ef/8b/2f1e1719edb21213899de5ad2d0607e871bea0a98bbff140bf96802e5e0d/pytest-allure-adaptor-1.6.1.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "5690ceb87f9328b33987e83ee54a2953180ce09354ea20a39d097e7895a306dd",
+        "url": "https://files.pythonhosted.org/packages/48/78/16e43e7be8dcafc17b85936ba2bdd80128347480107f6150878048e0ed00/pytest-allure-adaptor-1.6.2.tar.gz"
+      },
+      "1.6.3": {
+        "sha256": "e3efe0234b5eeae287bf6dc3c0d45780c3f4a74e391d2d24200a96604050f3fe",
+        "url": "https://files.pythonhosted.org/packages/3d/39/19c5d9cc2734348ffa553b3f2379fbbcbd7a900ab952247f95f6f59a9487/pytest-allure-adaptor-1.6.3.tar.gz"
+      },
+      "1.6.4": {
+        "sha256": "b0ee08372b55593390142d029a13eb18e330ccc6134413a133e05c26f667e753",
+        "url": "https://files.pythonhosted.org/packages/66/4b/1853f87b81ffd1940f441d357314f245a1375f76b98a01c0339ecf6f8b17/pytest-allure-adaptor-1.6.4.tar.gz"
+      },
+      "1.6.5": {
+        "sha256": "fdd21e5780aa0e2433390c5b3230a07d86dfba2fe8aae80930a16072ced377d6",
+        "url": "https://files.pythonhosted.org/packages/b5/b7/76cfdf2aef3517a2ab13cbbf8d4fa51a6e336295c5de438d815f8019885b/pytest-allure-adaptor-1.6.5.tar.gz"
+      },
+      "1.6.6": {
+        "sha256": "25562d9c7d0094e414c551093d8f44e58da93aea7b1c4f3790406992dcef22a0",
+        "url": "https://files.pythonhosted.org/packages/5f/00/df56023830d03e58756781c248676a54b0b84264cbc6daa1c55e1f67ee3f/pytest-allure-adaptor-1.6.6.tar.gz"
+      },
+      "1.6.7": {
+        "sha256": "f7b32ccfac1df62a3ce164ce3853543cf49453eefc458ddf615bcdb87bffadcf",
+        "url": "https://files.pythonhosted.org/packages/d5/b7/f281d284fa386604aa7509c247fca01d4e0badb2494da5d7dc9a9c05acab/pytest-allure-adaptor-1.6.7.tar.gz"
+      },
+      "1.6.8": {
+        "sha256": "8aa798b410ca43daab3050cd50d5f6057ee5acfe233c17555aa742294eaa154f",
+        "url": "https://files.pythonhosted.org/packages/87/2a/671929424bbd43ae9b448cb1b622c258e5b32835b2d2453e4fb417460132/pytest-allure-adaptor-1.6.8.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "809a36f838e7ff8f849198e4b30df05e7702b4eaad59e723db21dc485f71756a",
+        "url": "https://files.pythonhosted.org/packages/d9/ba/0a43ad58727884993d2d5dfaabb5d762a6c772ededb0e0a0fef5ae48da8f/pytest-allure-adaptor-1.7.0.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "e5d4c0ea0783460977bbe82a3046bf8021275864d17582df1bd21250b056b998",
+        "url": "https://files.pythonhosted.org/packages/e3/9a/d0aadcc5fc9a0c6949eaba4241d90f15a35849c4569113d138f99ec36655/pytest-allure-adaptor-1.7.1.tar.gz"
+      },
+      "1.7.2": {
+        "sha256": "0e61a6fe806875b8f1f4befd4da2113f3f26942b044030a48718aa9ec61dafcb",
+        "url": "https://files.pythonhosted.org/packages/92/20/4ea4ee33be738fa6449af70598ece3ed41bcb4d38d7f1b2ba0b831173f94/pytest-allure-adaptor-1.7.2.tar.gz"
+      },
+      "1.7.3": {
+        "sha256": "7f45b8267a9a0b4134eff382f589dd88b35d383ca7b156b9251c362798006cfd",
+        "url": "https://files.pythonhosted.org/packages/5c/e9/00ee3737e706e26710bb1c3a46b8952948388aba5d94346cd2e8b01a9a93/pytest_allure_adaptor-1.7.3-py2-none-any.whl"
+      },
+      "1.7.4": {
+        "sha256": "0eb0368a69af0d65d8eec38f738400d030f10e128c560e6ec80620f978082f04",
+        "url": "https://files.pythonhosted.org/packages/94/08/b7623d91ab3b62e90bff2c63310916e1475aec81195069fcd6c6434b32fd/pytest_allure_adaptor-1.7.4-py2-none-any.whl"
+      },
+      "1.7.4b0": {
+        "sha256": "5bffe387fc2ea6970d02c2534fc5164d814e12f76439f14abc8659f1cee0819e",
+        "url": "https://files.pythonhosted.org/packages/2d/7c/15fd301237b79fa6682eeb8f7cddaefeb12ed572b2495cce1e16a21f22c0/pytest-allure-adaptor-1.7.4b0.tar.gz"
+      },
+      "1.7.5": {
+        "sha256": "5014289df9df5fa4ebbf1c24113ef92f89131c68b1991523822e83a83177f953",
+        "url": "https://files.pythonhosted.org/packages/a3/47/0b5cce4f5a6bf5389ce46765c3c04dcef6f1dce91f62f63fb9e85e4a2778/pytest-allure-adaptor-1.7.5.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Curio - Concurrent I/O",
+    "homepage": "https://github.com/dabeaz/curio",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "99164d053c5f525d96f0227eeeb6a8aa38ebe1c830882be0cb90587690ca2fd5",
+        "url": "https://files.pythonhosted.org/packages/4a/97/b4af5126cb7937840c709497af1f5710d8a2800677cb5826ce8f08817983/curio-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "355b300bd2036852629777d13fd12da12ffa9271a87439beaad864269498936f",
+        "url": "https://files.pythonhosted.org/packages/f1/fe/bc964152f5a5fa954857d73d4794878aef6a05f12d54f3baa79cf3ff4fbf/curio-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "59de88980221b01ecf10d9136b713020d6dd4440112dcc4398808b061297beff",
+        "url": "https://files.pythonhosted.org/packages/dc/64/3bded2ae0a9c9864fc67a08d19af7dffd7f3f9f013ba4f5d1246dce3a994/curio-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "df5be07314dd2646b222dfcf4a4555598cdb8a125ce2f600f574854390e14fac",
+        "url": "https://files.pythonhosted.org/packages/07/f8/6eb3a8f99e52cc8d95e196383755e76e2636870a57546c841658855940ca/curio-0.4.tar.gz"
+      }
+    }
+  ]
+}

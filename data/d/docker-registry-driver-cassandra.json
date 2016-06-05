@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Docker registry driver for cassandra",
+    "homepage": "https://github.com/milaw/docker-registry-driver-cassandra",
+    "license": "The MIT License (MIT)\n\nCopyright (c) 2015 <copyright holders>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "d2a223e9bf36a722d4e523e82003a4de75d5f032b951ad89121b559e7be5abd3",
+        "url": "https://files.pythonhosted.org/packages/fa/2a/1683a07083b9f6996345a5acc24ef0d4287bac1caf5323adb2a6313bcfd1/docker-registry-driver-cassandra-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "710d28547546a6e4a7cc342fbab51f14101c911944613c9d283406c207285d6b",
+        "url": "https://files.pythonhosted.org/packages/69/ba/042344abfebe4ebf81b718e1452bb2d6334877b8712b4e042fa29de0f085/docker-registry-driver-cassandra-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "00a56c4cfbe8aec6ff96cf55690ff2c820cb3672d4d60e386cd57af36375cf2f",
+        "url": "https://files.pythonhosted.org/packages/fb/9c/0009253fd19246a7e13d3d774cf285b5e07fec8a62ed011de7fd91aa002d/docker-registry-driver-cassandra-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "435f81586bb151d379fce4ee1c4254b347de35f7e77148e3f5a9a2390ca2873f",
+        "url": "https://files.pythonhosted.org/packages/16/e4/29e84701a0d0a511ab567d5d6cebd09303e512d22d3708606d81c93555a0/docker-registry-driver-cassandra-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "4ac2458a9eddc88e3457779d97a37035b3f5e3a21eaa23d21da9dba6ce710837",
+        "url": "https://files.pythonhosted.org/packages/c8/89/140d92754877738609510165295f85d7c9f9539dbf52730f5a9e18aafc1b/docker-registry-driver-cassandra-0.1.4.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "d5b8765495981b1fc5afb1abdd43a75f67240c4725441eee46979aea04b2daed",
+        "url": "https://files.pythonhosted.org/packages/02/aa/2abc041b603af1d2d6b8c49d014a2206c71503d26e6c09030b3be9c77f98/docker-registry-driver-cassandra-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "88939265efd271e6cfc7322117390ff9e02005734a8c44363c72dde3d7538669",
+        "url": "https://files.pythonhosted.org/packages/39/cc/5eef4b47abb9b324b9aedaae7297460b5716ea76a81941beedd1b55ce0f2/docker-registry-driver-cassandra-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

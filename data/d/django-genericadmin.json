@@ -1,0 +1,33 @@
+{
+  "latest_version": [
+    "0.6.1"
+  ],
+  "meta": {
+    "description": "Adds support for generic relations within Django's admin interface",
+    "homepage": "https://github.com/jschrewe/django-genericadmin"
+  },
+  "versions": [
+    {
+      "0.4": {
+        "sha256": "eb9db5b48371b5dc1150ffae7f2db3a93ed16e5ecf335fb28662a208e8d632a8",
+        "url": "https://files.pythonhosted.org/packages/0d/83/e6a20a736f0f8eeb38fc08b9384262b2fc4e3519996a9a3a7d60dfce12c6/django-genericadmin-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "f37570be8dca4ff5280acb0d8e203e8d2fa8e649524ae9b45ff9df7c9efb366e",
+        "url": "https://files.pythonhosted.org/packages/f7/76/19d83799c1bb2c01d0de3fe375afe37321101046ef8f9d5321c7936fb7e0/django-genericadmin-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "f8d74789929d66859e90dcbe391987ddaf7981eac8f9240e30fac189f972362a",
+        "url": "https://files.pythonhosted.org/packages/aa/36/541a61441c9ba10da0aef8842eb0760506e906f54fa8ef309a48df42f8ca/django-genericadmin-0.5.1.tar.gz"
+      },
+      "0.6": {
+        "sha256": "b9115df094d844335fe07e8a836d069bf23ab6ff203c8983ad79dc319adb0d93",
+        "url": "https://files.pythonhosted.org/packages/c5/c1/2074ca1fc9112577d1857213a44ffc88702eb484ea607f5763d3083b3d60/django-genericadmin-0.6.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "604f8c79373cc1345c97d6f84eb431be0596dfc00defbdcd05502d85e6a8fe5a",
+        "url": "https://files.pythonhosted.org/packages/30/c1/3c5c0cb6e936c0e8913cea50d9acee49cd838e1439eaa207bb16fff1dc24/django-genericadmin-0.6.1.tar.gz"
+      }
+    }
+  ]
+}

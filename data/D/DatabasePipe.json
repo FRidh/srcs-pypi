@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.2.1"
+  ],
+  "meta": {
+    "description": "A pipe to connect various SQL databases to a PipeStack application. Supports PostgreSQL, SQLite and SQLServer 2000 via plugins",
+    "homepage": "http://jimmyg.org/work/code/databasepipe/index.html",
+    "license": "GNU AGPLv3"
+  },
+  "versions": [
+    {
+      "2.2.0": {
+        "sha256": "522cae5c4cf37bbdd3fa74f4a787208e4e2c02d0225eaea53d2bcc27e5bb3d4a",
+        "url": "https://files.pythonhosted.org/packages/cc/ea/24125fcac58d68ecc304a89ad44ac4453d13d16c109d3f70688ba865b5ca/DatabasePipe-2.2.0.tar.gz"
+      },
+      "2.2.1": {
+        "sha256": "653639b6966029c91baa528211e9c459d32560a778fa5b178892af43075e87c8",
+        "url": "https://files.pythonhosted.org/packages/35/10/91dba37c59c900a02ca0922ffc9bc0a58e240b5717635f73533e1e5bbb85/DatabasePipe-2.2.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "1.5.5"
+  ],
+  "meta": {
+    "description": "Temporary fork of PuLP offering support for Python 3 while retaining compatibility with Python 2. PuLP is an LP modeler that can generate MPS or LPfiles and call GLPK, COIN CLP/CBC, CPLEX, and GUROBI to solve linear problems",
+    "homepage": "http://pulp-or.googlecode.com/",
+    "license": "Copyright (c) 2002-2005, Jean-Sebastien Roy (js@jeannot.org)\r\nModifications Copyright (c) 2007- Stuart Anthony Mitchell (s.mitchell@auckland.ac.nz)\r\nCopyright (c) 2013- Gerald Senarclens de Grancy (oss@senarclens.eu)\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a\r\ncopy of this software and associated documentation files (the\r\n\"Software\"), to deal in the Software without restriction, including\r\nwithout limitation the rights to use, copy, modify, merge, publish,\r\ndistribute, sublicense, and/or sell copies of the Software, and to\r\npermit persons to whom the Software is furnished to do so, subject to\r\nthe following conditions:\r\n\r\nThe above copyright notice and this permission notice shall be included\r\nin all copies or substantial portions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS\r\nOR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\r\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\r\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY\r\nCLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,\r\nTORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\r\nSOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  "versions": [
+    {
+      "1.5.5": {
+        "sha256": "4725bda15bddc5bd369345c54612e7c07162ca6d849829925d72aee3a4509e63",
+        "url": "https://files.pythonhosted.org/packages/cb/c0/0cc1b25d26d0b660bfe8dfe93e34ffc5257c93fc2c31b6fd074444c6a68a/PuLP-py3-1.5.5.tar.gz"
+      }
+    }
+  ]
+}

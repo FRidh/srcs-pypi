@@ -1,0 +1,90 @@
+{
+  "latest_version": [
+    "1.6.1"
+  ],
+  "meta": {
+    "description": "AMQP Client using the rabbitmq-c library",
+    "homepage": "http://github.com/celery/librabbitmq",
+    "license": "MPL"
+  },
+  "versions": [
+    {
+      "0.9.0": {
+        "sha256": "0ae79643d40995e3b0a8101be8f52048b336ecd96ba87894b8919f71e3cba429",
+        "url": "https://files.pythonhosted.org/packages/8c/6f/3cb74cf5d37e343b177dd411b1630c327fbc2b53332cb5638c18a1dd5e38/librabbitmq-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "293129a929478b6b7af5889b46a3ad4f594d807e6d6d6ed19ace8ead44694d38",
+        "url": "https://files.pythonhosted.org/packages/c5/7f/2eabf27d02c8bfbdea3969205f4de5f419d1f35b1f787569f6e0dc882a97/librabbitmq-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "dcf7c63f2ce30ad6fe1814a11126e330510c95afd087b325fe98d9fde5c521f4",
+        "url": "https://files.pythonhosted.org/packages/bd/a9/c61e0848dcf518180999a60538884f91c4b47a488cf510f7f364b2c801a0/librabbitmq-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "107a9972c80adc57d7437ca2dcb701fedfbfb6b11430c71bc3fa8b314aef4903",
+        "url": "https://files.pythonhosted.org/packages/db/83/20169164e914c78c90201f9e56b1a9d9e3c4eacd25d711c8e538c3b607a5/librabbitmq-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "99cc59984a82ef104f2c75f2de0ca593e187f0720923e9901f81244358178862",
+        "url": "https://files.pythonhosted.org/packages/da/fb/181090f37230ad39e00bedebb4b9cd1b59b195a1ba09f23619aad4058db3/librabbitmq-0.9.4.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "baff27cf7b0bacab2c51b81157bc1f28a4e826dc7af625c3e839bcec42604588",
+        "url": "https://files.pythonhosted.org/packages/64/59/06474f53a83792dc3ccc27bb16305646229235dfc1e165f5a7e8731fb4f6/librabbitmq-0.9.5.tar.gz"
+      },
+      "0.9.6": {
+        "sha256": "b801d6ec01d6c5f62ef482f854e867fb613abc4256eb1da5775bfa2848cd06b6",
+        "url": "https://files.pythonhosted.org/packages/34/e7/623c7321bfc48cb7873f9fe00bd658d57e1938ebe006360e03b77ac741ad/librabbitmq-0.9.6.tar.gz"
+      },
+      "0.9.7": {
+        "sha256": "a0884f0d1e753b2f19f851546d7f34cf67b3cd98fea75138e715113517a1538f",
+        "url": "https://files.pythonhosted.org/packages/ba/13/15287bf1da00bcc5648bd6108460cf25113973abcbf38f318a0e22dc15f0/librabbitmq-0.9.7.tar.gz"
+      },
+      "0.9.8": {
+        "sha256": "a15de0ab39826e628f06cadb15e9dc7641f5dba83a1fd5d76ef51c7a6d10ffc6",
+        "url": "https://files.pythonhosted.org/packages/fd/13/2ebf66deb303d425288da678c17f21b173b50048bbad8c73ff8568b230c4/librabbitmq-0.9.8.tar.gz"
+      },
+      "0.9.9": {
+        "sha256": "b98cd7313a706e64c0f8a18c495385f36591cb9b818a7109a315b983282aaa79",
+        "url": "https://files.pythonhosted.org/packages/9c/e2/ba948d9f6daaf1985fee7c1a591eb75e732e6fa36f15af9455d1b95df98a/librabbitmq-0.9.9.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "2d18b7c838d90c8c0a7af36f764bfa8f5cc20885d85e47dd09161ddeb4bb7923",
+        "url": "https://files.pythonhosted.org/packages/f2/de/9c8fd5002d4749ab03ae356cd0df7d99717a236b98f06cf19bfe347026e6/librabbitmq-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "645763262ad61df3feec618c3cbe1226710a364fca57256f61c53b0101abd880",
+        "url": "https://files.pythonhosted.org/packages/63/10/7d32b53eb4517ba6a72e2d88fe65cf7ff45549a8953a318121b13d722969/librabbitmq-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "88055d9a887f98118c1e147e78f6663c2565790706ea308a1da77a46d5f29011",
+        "url": "https://files.pythonhosted.org/packages/d3/3e/5209741e5e45dca3f378824b4105ecdebea53a44e13f21f648ae8f12b7c5/librabbitmq-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "f993f946b8f03a30c69e35ead58caff302b4f5bd3953b1c0879e9f42cf3971a8",
+        "url": "https://files.pythonhosted.org/packages/67/14/178ba0981c276da5b967d58ed68220368ce427ba0fdefcae6c70fda69b13/librabbitmq-1.0.3.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "6adbfcdc7b8e7e8983961e87a096c7df1ddc2a8b28873d01b8859253dab86a9d",
+        "url": "https://files.pythonhosted.org/packages/31/93/ae3c6be89c6d89c7264d290135810b8ac8ef3571aabe1330c28cf9e20e92/librabbitmq-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "389ec8ef46f0f9b95322c4b33e4f2a67239fc15e38a237da4fca1555065e359c",
+        "url": "https://files.pythonhosted.org/packages/bc/e4/a047a7129a87691092be6ee7395af2b3f2b2bb56089aaa281688c83cb6f5/librabbitmq-1.5.1.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "4195e28d9abfb3ef6b09cb49a54c2db12d24cddf7c3fbe129b24d91bfa0e5a27",
+        "url": "https://files.pythonhosted.org/packages/91/cc/0c385feef508947439e78e236d14b16fa6842d34f12b2eef885057bad91a/librabbitmq-1.5.2.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "092582a9e57e751675969a331c0df7e96196a2aee05fd86df98743a73ba92e39",
+        "url": "https://files.pythonhosted.org/packages/c2/2b/aa2e458c7035d3f0521a689dfd948c6531528d90cc20c9683f001c349945/librabbitmq-1.6.0.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "604a226b9fe3f9e439353702a731f2a39cf771882e68bca020cb224d9b990c49",
+        "url": "https://files.pythonhosted.org/packages/82/6c/1b3f7ca755787e934513039131091134038239f167e1bc50565cb46112a0/librabbitmq-1.6.1.tar.gz"
+      }
+    }
+  ]
+}

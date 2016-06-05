@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "1.3.2"
+  ],
+  "meta": {
+    "description": "SiRQL is a simple language specification which defines the way how to receive and query data over an http request",
+    "homepage": "https://dev.flarecast.eu/stash/projects/DM/repos/sirql/browse"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "b0b3cfd7a2f8704fb5887c9321074643335e061a27c7c79f87147c843d3960e3",
+        "url": "https://files.pythonhosted.org/packages/be/42/790c901136f650863c3ac5f49848e031fc4de87cce5c7ba0c4b4a8b7c432/SiRQL-0.0.1.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "3d241130b010c2da641212f19618298d5cb8a3b527d001ec1e1a46e32f066247",
+        "url": "https://files.pythonhosted.org/packages/fc/bc/ea3b07e71b9513ceba2b7f6c9e09534e987aa1873e9596b7a89e67932c23/SiRQL-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "69301e64811d9e6bdb1866bd5f8adc2000b97c72b1598462884bfe7a8fb5314d",
+        "url": "https://files.pythonhosted.org/packages/be/6f/93740ddd4ae47202e86826c8b720f41d4d26d97422eb230f93325da0be91/SiRQL-1.3.2.tar.gz"
+      }
+    }
+  ]
+}

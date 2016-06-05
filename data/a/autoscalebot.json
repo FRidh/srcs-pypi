@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "2.1"
+  ],
+  "meta": {
+    "description": "Automatic scaling of web dynos on paas services",
+    "homepage": "https://github.com/wieden-kennedy/autoscalebot.git"
+  },
+  "versions": [
+    {
+      "2.0": {
+        "sha256": "ec20c75473982dbdd057cf6c4cdb075042ad33022401e2b37cbdd65bf516c18f",
+        "url": "https://files.pythonhosted.org/packages/63/16/f61aff59b6d756fa5169e46733ee032649641684bfe52a9378aaa2b24b20/autoscalebot-2.0.tar.gz"
+      },
+      "2.1": {
+        "sha256": "16da0e0e73a47006a5867b26cc2e0cd5fdda3fd97c2c03ad93727aecbdecb072",
+        "url": "https://files.pythonhosted.org/packages/31/fe/78f87f66f61c7d51d828fbd89b24162602c14311513d1c3024a1b7776dc1/autoscalebot-2.1.tar.gz"
+      }
+    }
+  ]
+}

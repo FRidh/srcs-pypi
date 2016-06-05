@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1.3"
+  ],
+  "meta": {
+    "description": "Python extensions for generating and extracting PEM formatted X.509 v3 certificates that contain DataONE Session information",
+    "homepage": "http://dataone.org",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "1.1.0": {
+        "sha256": "9f0dd57913ed80c9918a5f1b728f165e5cd88bab0071b69e65a3b8ed0dbc7da7",
+        "url": "https://files.pythonhosted.org/packages/4e/30/44ad9baf058eb83fed2661976e490bda0999ed4bb57bceffe1cd5109ee47/dataone.certificate_extensions-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "be564160c9bd656c83c75937974e673e29bcf5c4800afdb9e413f44e72c0b679",
+        "url": "https://files.pythonhosted.org/packages/6d/51/32c32cc2bf7227736fe937daea47a71ed948deb41728ea519b7d3cb478c3/dataone.certificate_extensions-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "b7fa5b03bef44712dff45c01986042e2cf5a628941b99ba15dbff55e9a312068",
+        "url": "https://files.pythonhosted.org/packages/bf/60/57210731f6a05ffdef490aceb0771b606f63bffc8e422d7c9b7669024bb3/dataone.certificate_extensions-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "5eb3226f3fcbb0ecccf544917e139627fda95fc4e8ed3356dd8b89aaeca2c166",
+        "url": "https://files.pythonhosted.org/packages/59/7d/dbb5f8936b4d50fd06b724efa1283dca5ea1a243a9ce0355c16ca1fc3874/dataone.certificate_extensions-1.1.3.tar.gz"
+      }
+    }
+  ]
+}

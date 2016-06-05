@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Django admin rq is a django package that creates a 4 step (form, preview, main, complete) asynchronous workflow from a ModelAdmin's changelist or changeform",
+    "homepage": "https://github.com/Proper-Job/django-admin-rq",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "831cccef03c5e27954521f7fd267fecc8abcc440becc77931810faa060a4a110",
+        "url": "https://files.pythonhosted.org/packages/9c/b3/8e2d4c04e7aadadc3648edf5dfd003b933b9eb83e831d1aaf47b32128a09/django-admin-rq-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "36303be9afae81f420c4b792047c22fcc60e133d5befa5e05b5020991afd6e33",
+        "url": "https://files.pythonhosted.org/packages/b6/d5/34b430f0455570d6cb10c641c2849bc8b1b2aebabd0110325af57c8eb27b/django-admin-rq-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "latest_version": [
+    "0.0.146"
+  ],
+  "meta": {
+    "description": "San  San  ( '_\"`)< Japanese Input Method SKK (Simple Kana to Kanji conversion) on your terminal",
+    "homepage": "https://github.com/saitoha/sentimental-skk",
+    "license": "GPL v3"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "3874ee63e08b76c3b3f009cb649776de12f7a447f4aa76db7f6bdcd3ef011b96",
+        "url": "https://files.pythonhosted.org/packages/28/66/dc29bbaa9c6875d0d061225776ab86b4efa00c7d13201620f892d123f52f/sentimental-skk-0.0.1.tar.gz"
+      },
+      "0.0.10": {
+        "sha256": "3c1a9cc445bca476f3fd4cdf9d8c90b0c96f3deed92b35c1c6c4be3eaf18ba30",
+        "url": "https://files.pythonhosted.org/packages/75/1c/84517a918bac85a0ec8afe40fbf38ef8c7973b7e6a3f7d3f3a1cd988bee9/sentimental-skk-0.0.10.tar.gz"
+      },
+      "0.0.100": {
+        "sha256": "1cd0c5fdb9eb1add5fae562afc13192324eec202e490f6a886f2547334ec3bdb",
+        "url": "https://files.pythonhosted.org/packages/55/85/57579d32d91889dd2fdd12c36f121cbbc358149f0463089728d848a3055c/sentimental-skk-0.0.100.tar.gz"
+      },
+      "0.0.101": {
+        "sha256": "d2a14f5936df59792017c1ccd5ebb6b2569884b15ac8fdd9123d9d0df075f99d",
+        "url": "https://files.pythonhosted.org/packages/24/8d/a5e375ee897f5770e603bb586df5007b9f793edb32062c5424fef67fb45a/sentimental-skk-0.0.101.tar.gz"
+      },
+      "0.0.102": {
+        "sha256": "28f7a0c7b8092750d97eaf3b1b5c48de07f521a7c88d0fb1bc502c7b68c254bc",
+        "url": "https://files.pythonhosted.org/packages/e5/f4/c7862b68ef22312566c7c0f2c185a2f87e0928712a6e7c4e5aa32bfbb42c/sentimental-skk-0.0.102.tar.gz"
+      },
+      "0.0.103": {
+        "sha256": "ebd3c675410e8c6d564d69122e3eddd2dbdc0b05aebda45cc41d324336844533",
+        "url": "https://files.pythonhosted.org/packages/83/a1/9c2726af5c604dd49ef9bf01195033039977508d5c42f555835781745c6b/sentimental-skk-0.0.103.tar.gz"
+      },
+      "0.0.104": {
+        "sha256": "e7ad02a0c2dcde3f9b6fbcbe11e94ac1d155dc633f15fd696a772484e4085cd2",
+        "url": "https://files.pythonhosted.org/packages/74/8b/48bd0636e4fdcbdf8d694ad7f1c3d55aeed7b87f01abd8f68ccf4a27492c/sentimental-skk-0.0.104.tar.gz"
+      },
+      "0.0.105": {
+        "sha256": "7ea70335cec697a45fb9dfbf44e4b41d034b0ddb9d8a098d35120ccdb741aa11",
+        "url": "https://files.pythonhosted.org/packages/12/fb/44ec6e9ec65ef7ae6d277aae1f5872d5f866da52ffb4ba5ae42461a67227/sentimental-skk-0.0.105.tar.gz"
+      },
+      "0.0.106": {
+        "sha256": "72912eef30f883df5fc9b5ded3f60ae6b1ace6514ca22abe57c0d1bd7946d551",
+        "url": "https://files.pythonhosted.org/packages/19/5e/03d626162f1bd1f3d640d9c502a192be3eca1c2d362876e2bc1e8fdbfb4c/sentimental-skk-0.0.106.tar.gz"
+      },
+      "0.0.107": {
+        "sha256": "e21b9427eddd9893f2eda44f53a2eb1fa83f7be7e079cd1d35a9b880a95ef687",
+        "url": "https://files.pythonhosted.org/packages/f9/62/86a9995d268da9c3baa100e6b36ab4c8df1654795c4ae4d8c30438356a73/sentimental-skk-0.0.107.tar.gz"
+      },
+      "0.0.108": {
+        "sha256": "91c22483a7498d83d7e8e3ceadce903a32666089b0adc447b515bc385e6b7cd5",
+        "url": "https://files.pythonhosted.org/packages/87/3e/9e6fc4083127721bdcb58e13d9b5f9f8d8e2b1cf81c436794e650feac28c/sentimental-skk-0.0.108.tar.gz"
+      },
+      "0.0.109": {
+        "sha256": "19d36f1342cf415764f77d9b3422879acb26a25651fed4ea9bc1a699c8ba7e59",
+        "url": "https://files.pythonhosted.org/packages/b1/7c/b39435674dee13df16e50121b4ee10839d24ccef7e25db91b738c3c75057/sentimental-skk-0.0.109.tar.gz"
+      },
+      "0.0.11": {
+        "sha256": "1a53f1c5f445933d35f291d8ae91adc9f5757ea9723bcfe7eb7025bf176f6615",
+        "url": "https://files.pythonhosted.org/packages/09/64/574b44552bab89f25e330022c1339011f184248a0d40c600e76e1b3ad096/sentimental-skk-0.0.11.tar.gz"
+      },
+      "0.0.110": {
+        "sha256": "a4c205e7d577c9c7754339f6570ef28612f6ff5c22e295dc44c0669ac1b696b6",
+        "url": "https://files.pythonhosted.org/packages/97/ac/5b65c299f260570c0b9545ad93f4d927575334e8225fcb3df9016ad4290e/sentimental-skk-0.0.110.tar.gz"
+      },
+      "0.0.111": {
+        "sha256": "4ca6209e1a951a4a8c9d67d7e3c340dea89d23f7b8f9d3bceffcfe4a13e7094c",
+        "url": "https://files.pythonhosted.org/packages/ec/23/39d04d61b0076c6a73215cca83a2de77fac2dabed3cfac48c11b53f51df7/sentimental-skk-0.0.111.tar.gz"
+      },
+      "0.0.112": {
+        "sha256": "0917b8d3516e900e9a3fecb2df66ca909e1b11fec39488ef02c64b154af4c0b5",
+        "url": "https://files.pythonhosted.org/packages/9a/ef/d643fc39d3a55021731df25697eed7151a325b83b438e43ad745748adf95/sentimental-skk-0.0.112.tar.gz"
+      },
+      "0.0.113": {
+        "sha256": "b106bac4c6f96bc2add09bcb5de239bfeea0dc49d77b63d9a5cd740402d8f90e",
+        "url": "https://files.pythonhosted.org/packages/78/59/f9282419aafe2827e8bd64c223f718ca20ed7a7a795cd3476a5c23c11858/sentimental-skk-0.0.113.tar.gz"
+      },
+      "0.0.114": {
+        "sha256": "1def95b2a01c97d25e70ee7b9c3807760284c9c47ab24f7300c6cc5bc792cbde",
+        "url": "https://files.pythonhosted.org/packages/97/89/9d529fc256de9de3fbaad456e1addf72714b7fcc64a21023a5d464739019/sentimental-skk-0.0.114.tar.gz"
+      },
+      "0.0.115": {
+        "sha256": "1f5352a367c063433a39af9e65d2c00d53d0766ca58c35f3b2261fc3da2fbfa1",
+        "url": "https://files.pythonhosted.org/packages/ea/8c/cfe672909de7133a9fb4a27829956001aa2809a9d29d6c4b7c61acf78733/sentimental-skk-0.0.115.tar.gz"
+      },
+      "0.0.116": {
+        "sha256": "93f5c731f2029f05795df74246674738e50afb19d604bcb0347ff28bf64fab19",
+        "url": "https://files.pythonhosted.org/packages/25/18/f61b4591eea7c60a773384c944f78c353d7d35df533a1124109a9c29159f/sentimental-skk-0.0.116.tar.gz"
+      },
+      "0.0.117": {
+        "sha256": "c281936b6acf64fecd6831fd9977b836182529ecd54bbc00d850479ad12aaed9",
+        "url": "https://files.pythonhosted.org/packages/79/8a/77d0c2027613a9231de8799fe011504a738413705da63246df35b9501e5d/sentimental-skk-0.0.117.tar.gz"
+      },
+      "0.0.118": {
+        "sha256": "86ed7647d3dd70b1dc1f09c18d66c50abdc9b4f4822d95dc62b83abf4198a8ce",
+        "url": "https://files.pythonhosted.org/packages/54/fe/b4d94f811426ef1c9add828545a0651f79f929cf961414c6177afbee1882/sentimental-skk-0.0.118.tar.gz"
+      },
+      "0.0.119": {
+        "sha256": "2b7605ca8ed75fd95755e37d0b34397e8b9e3c8e4217db35d7e241c8e7b30f80",
+        "url": "https://files.pythonhosted.org/packages/c2/9c/1de9d6c8b30c4df18122c4dd88b57fd7d6a37c4118e541ebe378745fd78a/sentimental-skk-0.0.119.tar.gz"
+      },
+      "0.0.12": {
+        "sha256": "8ac77a2e19bc7e9e1e45b27caf94902735711830426fe760bf7ab38b8899b664",
+        "url": "https://files.pythonhosted.org/packages/0c/93/3e9f7cf8267f497258e93570913399efca0f7c55dc63e393b1561484e776/sentimental-skk-0.0.12.tar.gz"
+      },
+      "0.0.120": {
+        "sha256": "eabbde9d8a48f0eae724d8a910bf2a5ba6ff3f237328bdc0c994ef406f7b16cb",
+        "url": "https://files.pythonhosted.org/packages/68/df/34aa38c111189cd9abc077882ca0353ea54c2b810811f219530ae31007be/sentimental-skk-0.0.120.tar.gz"
+      },
+      "0.0.121": {
+        "sha256": "71105c193eb4bb3e0f243e0d30e9a984893902d0c44a7f9e0b7809dfaaa5c009",
+        "url": "https://files.pythonhosted.org/packages/e9/a1/f012762e1ea7d6a626315d25c5f05da2fe982e6c198fd5fa95cb52af9bf5/sentimental-skk-0.0.121.tar.gz"
+      },
+      "0.0.122": {
+        "sha256": "3d91cc650791660efddd9dd82907d574a7abcdb63f4ebced3a8ce964d7ebc4d8",
+        "url": "https://files.pythonhosted.org/packages/e3/7f/e1cf2631e2f8dae2496bc5b344e624a062e6a03493b77938ea0b4e9daa12/sentimental-skk-0.0.122.tar.gz"
+      },
+      "0.0.123": {
+        "sha256": "ba637f43d1cd773ab8b4858de2bf22aa211c91f194c48b0efa89694a734c935f",
+        "url": "https://files.pythonhosted.org/packages/72/a7/189b43cea6c045c701116264274c867d676fcc0b3f3b2902f359a71ef5ed/sentimental-skk-0.0.123.tar.gz"
+      },
+      "0.0.124": {
+        "sha256": "71041c83b484e063ab7e90d3bcc22d4d9186a0d9fc19c600f453f82660f9e5fd",
+        "url": "https://files.pythonhosted.org/packages/7d/26/751ad6b74da3cf7e2530d3e862f0b0dbaa5e41fb638f502c34d3c0d13ba9/sentimental-skk-0.0.124.tar.gz"
+      },
+      "0.0.125": {
+        "sha256": "69c7e362a0fbd447091956e745c8882f961425e8a57894683c3f506e6ef3efa4",
+        "url": "https://files.pythonhosted.org/packages/94/76/c2f5858f7ed45f13b744b58366171f15e8b5449ca252c06a6f3ae6406cf6/sentimental-skk-0.0.125.tar.gz"
+      },
+      "0.0.126": {
+        "sha256": "d8abef60ab5206638f60c3f9797956c8dc53d5f97bc2e580301ca9727f39de29",
+        "url": "https://files.pythonhosted.org/packages/95/b1/1c7b94c198f399c22b3ab1e2ec7d807f65ac615554005703dcfbb44d8043/sentimental-skk-0.0.126.tar.gz"
+      },
+      "0.0.127": {
+        "sha256": "ea0a42cbfdfa427b7f2bff9e61af86cf3ed15db200448d57e791a44621181150",
+        "url": "https://files.pythonhosted.org/packages/03/e7/1ffa3b55d53903119aba866e923641530bf5a4524decb238f488bb157e96/sentimental-skk-0.0.127.tar.gz"
+      },
+      "0.0.128": {
+        "sha256": "d2c67cd4f2b747b573b8bda3bbec8300c100d9c7600c12f9010c76e63bc43b6f",
+        "url": "https://files.pythonhosted.org/packages/bd/60/cd4f0ac75c9458cd67d13fccd3887d7be1c0a9b06d02b40b4e71cd714d89/sentimental-skk-0.0.128.tar.gz"
+      },
+      "0.0.129": {
+        "sha256": "823b8db18e96de17f64d777d751a69c1e073defec765b48f9a5b98305c6ee6d7",
+        "url": "https://files.pythonhosted.org/packages/1c/85/9ca81d1964749792a2c92001472b33bfdb3ac1a6fad5046b7e8964e86425/sentimental-skk-0.0.129.tar.gz"
+      },
+      "0.0.13": {
+        "sha256": "3d0493b74a4858bf6d411fcd7aa3d227493e3b45665cb28f6ea1b61b421c63d2",
+        "url": "https://files.pythonhosted.org/packages/9e/80/c456d5475711dd7e1705bcef8bbbf15e18f1ad3627a1f2d2f03a155cd87e/sentimental-skk-0.0.13.tar.gz"
+      },
+      "0.0.130": {
+        "sha256": "345494f0f6f074ff86fbde441b7fbfb269df88304bfcba9588451a724bac0fc8",
+        "url": "https://files.pythonhosted.org/packages/fa/15/5a0916a07da7990c89e91a3554c784664fd2d732cacd1dbf79064df7bda1/sentimental-skk-0.0.130.tar.gz"
+      },
+      "0.0.131": {
+        "sha256": "8b6cb75a8d318735c385f0aa1d6949890cacd5d0b6f2278bb1dcf62ed1594fec",
+        "url": "https://files.pythonhosted.org/packages/f6/e1/37e54307bf5618e0ab6d83ee78bfbf6410abea7b07ec903f0c39af31a01f/sentimental-skk-0.0.131.tar.gz"
+      },
+      "0.0.132": {
+        "sha256": "8e83d16a77decfed9f890c32a42a7859c7ee94a9de23f71085feb1590688ff76",
+        "url": "https://files.pythonhosted.org/packages/cd/fa/5b233857f16f2d9f970bf58267a3a2aa61deb076a8be998974d082ea5b2b/sentimental-skk-0.0.132.tar.gz"
+      },
+      "0.0.133": {
+        "sha256": "be89f7a9d6075db27571368b143f8ba48b34c692ec98cc6d5055388bf3722451",
+        "url": "https://files.pythonhosted.org/packages/eb/82/410aa5e0b4b26d038538f798c22ea4dd8547afff9dfd3474690e73443273/sentimental-skk-0.0.133.tar.gz"
+      },
+      "0.0.134": {
+        "sha256": "c06584eab00ab933c7fe716babc9a45c5392901ab79a08a4aeb757a244d708ca",
+        "url": "https://files.pythonhosted.org/packages/3a/4e/329d6cc9af0eaf4acaaed77bc26ce8200c5b984f0b50e240ad07cde16ea0/sentimental-skk-0.0.134.tar.gz"
+      },
+      "0.0.135": {
+        "sha256": "ca4be78ded1e6ac8d04cace82e635ef0f4856521e11b79180a867c37afa526d6",
+        "url": "https://files.pythonhosted.org/packages/27/de/86e03a7163bb44bfd99d3b51675f24d1d2dd1c5e087596080ca68aa0c355/sentimental-skk-0.0.135.tar.gz"
+      },
+      "0.0.136": {
+        "sha256": "e46ecad121f516b1440d173aeac5105970987b6008a680510c0997032557ab54",
+        "url": "https://files.pythonhosted.org/packages/1d/89/6d4852f8dc83318d8460cbcfe46186373553f832b81ee50b4213396258bb/sentimental-skk-0.0.136.tar.gz"
+      },
+      "0.0.137": {
+        "sha256": "8124abbc28d21680008b5673142fa1a938cefb5fee8e94ce9a8154884336b51e",
+        "url": "https://files.pythonhosted.org/packages/51/c8/939735d5f49226603bc5777d0bbf0fbbaaf1ce37d05a7eb2262d47c14d56/sentimental-skk-0.0.137.tar.gz"
+      },
+      "0.0.138": {
+        "sha256": "040e1b280e7d76b9fe449d69e9e325f40275295da03d01d1ee0bc599386d65d6",
+        "url": "https://files.pythonhosted.org/packages/4e/72/38e4ae2cd19b774017d3567a6782c161ca342320a199f6cd6d06973153ff/sentimental-skk-0.0.138.tar.gz"
+      },
+      "0.0.139": {
+        "sha256": "75354875761c42305db1c4750de86e752e17264e2997e4fa5d29bbcefe8fc3f3",
+        "url": "https://files.pythonhosted.org/packages/39/9f/38b61302db2e437f09214f2964ccf97669d216428eadacccde4ad2e52866/sentimental-skk-0.0.139.tar.gz"
+      },
+      "0.0.14": {
+        "sha256": "46d8f3e49103b929e986ebb1878d5d8c11cdb79b6e4a97e26c7df74b6afc1718",
+        "url": "https://files.pythonhosted.org/packages/6d/48/5fb7cc94a49b631a1fd666f01a1769435c30fd92b547559b61ce429fb0c5/sentimental-skk-0.0.14.tar.gz"
+      },
+      "0.0.140": {
+        "sha256": "14b3b3dc1866ecd70fb644c83f1602e0f9ea002d84e6b8dc374b51226ccb9931",
+        "url": "https://files.pythonhosted.org/packages/98/9b/6d0d9c2e228b556f152367fbad5fba52288890af3b114d221a71344b5436/sentimental-skk-0.0.140.tar.gz"
+      },
+      "0.0.141": {
+        "sha256": "d4969bc89805e683ab3a4a9afcac39bc7acebb82d1f3d17d3e69fffefacc7077",
+        "url": "https://files.pythonhosted.org/packages/56/90/94e13583d29dd1e0bfe26def3b7a63b9e1ca966d655396451171dea55e9b/sentimental-skk-0.0.141.tar.gz"
+      },
+      "0.0.142": {
+        "sha256": "886d9eab3438f134c9110cd11fdfadf22b88f5029d01512c2a0da8535ba53cf1",
+        "url": "https://files.pythonhosted.org/packages/8d/1d/c6060d040e3cb88fb53d780fa8dfb889c2040823289aede15613fae242f4/sentimental-skk-0.0.142.tar.gz"
+      },
+      "0.0.143": {
+        "sha256": "db087107c1095cd503f76feb3fadbf0760b92c717dc712871f4d3043b4ac5a26",
+        "url": "https://files.pythonhosted.org/packages/be/cc/ae040bfed924a1ad348ed99726df639d698f18b6a4b1cdd7ea5fbfd6ebea/sentimental-skk-0.0.143.tar.gz"
+      },
+      "0.0.144": {
+        "sha256": "3fafa7462139ca147f226b7e7efe74260147d55bf41d1360a5c2ff7f71b00195",
+        "url": "https://files.pythonhosted.org/packages/ed/5e/22815df7b95501995af1c092013ddf342e0d491c817250ca8a52460b8522/sentimental-skk-0.0.144.tar.gz"
+      },
+      "0.0.145": {
+        "sha256": "83da9772ec74213f5cf012f4a76880e96593d356e1144ece7a3d9b122d0579da",
+        "url": "https://files.pythonhosted.org/packages/28/1e/c8c6b0b65032f17b6127327ddb91ecae4ec17ef782903bda7920b24b3a26/sentimental-skk-0.0.145.tar.gz"
+      },
+      "0.0.146": {
+        "sha256": "ca889c148e6b945c71a735a2a8eb90d919cafe2e3b0bd4c1347bafa8ec7298a9",
+        "url": "https://files.pythonhosted.org/packages/2c/51/1942838762f782a7074060cd78f8988c316f243f204caaf0bdaf02e7b4f3/sentimental-skk-0.0.146.tar.gz"
+      },
+      "0.0.15": {
+        "sha256": "ee1fccf19581ae691c7697ffc2e971f4643df7c52ac163e50433996663d675fb",
+        "url": "https://files.pythonhosted.org/packages/ba/72/6435ea7f7e4bf9b1502eea982ec1c002c25984f608eed9e8b52725a5ad83/sentimental-skk-0.0.15.tar.gz"
+      },
+      "0.0.16": {
+        "sha256": "165c6145e74c948b63c1e5cbe284b25355c832039451c03ae087ddd0879e0250",
+        "url": "https://files.pythonhosted.org/packages/9d/fa/281dccc40c5b8b213234eb0b8621e0e446e5b15033436fe9d45765aeef7a/sentimental-skk-0.0.16.tar.gz"
+      },
+      "0.0.17": {
+        "sha256": "6751ede82819df8a1528363fb8c872dc82b378fedd316404508c5ee24bb7cef8",
+        "url": "https://files.pythonhosted.org/packages/fd/dd/292412e58ef8ae6f935eaf5d3bc9a144c7105c5f4b449e5957d8cd8c81ec/sentimental-skk-0.0.17.tar.gz"
+      },
+      "0.0.18": {
+        "sha256": "cd8c90fc22e19ceaa086107ae077431e8a814586f407a076d7c0ed0ca82502bd",
+        "url": "https://files.pythonhosted.org/packages/3c/17/f17113a88fcc71e222b744a96f49ab6c376b86aac476d8247facc9126ab3/sentimental-skk-0.0.18.tar.gz"
+      },
+      "0.0.19": {
+        "sha256": "901e1c2dde33407abca23d688a46d10020744b454070d962b59aefd7bd61722a",
+        "url": "https://files.pythonhosted.org/packages/c2/f0/53c998e86ef24be292ec581bc82aeb6cf30c5ec20b6851a5f3fbb5559983/sentimental-skk-0.0.19.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "43514fbf535d49d702fff2e9162966b710b6be86e5aa02a3c44e15b555694505",
+        "url": "https://files.pythonhosted.org/packages/7a/85/1c457a59e527333aec55e9700f706e4ca9c47ecd61f59d229e81e7c7adcb/sentimental-skk-0.0.2.tar.gz"
+      },
+      "0.0.20": {
+        "sha256": "0d75ba8eeb5c42c9d743075f7830066f107b8c5c7e94af7d6856e060d3207abe",
+        "url": "https://files.pythonhosted.org/packages/3a/73/f2972981a557e1748fc379f2b25ca6e70acc10ea43ccb6081f307fd72a39/sentimental-skk-0.0.20.tar.gz"
+      },
+      "0.0.21": {
+        "sha256": "61f1d7e9201d8640cb55d8148ad1bd85c495c1f928d2c00aeb4373382123b028",
+        "url": "https://files.pythonhosted.org/packages/5b/81/7f915ad5fe1f8071e17dc3ffd900b7a12225b8aef2f1116662c3a79173ff/sentimental-skk-0.0.21.tar.gz"
+      },
+      "0.0.22": {
+        "sha256": "f0f80342db2405d662a6053538dc377cb16577d5caeb1fb63e93e484677808a0",
+        "url": "https://files.pythonhosted.org/packages/ff/d9/c67302a47f32a0c350f437379b663ce42a89c090ed4bfa81e6c53562b7a4/sentimental-skk-0.0.22.tar.gz"
+      },
+      "0.0.23": {
+        "sha256": "7f2c95724ced70277df957c087b27f9195f5f722c54412f17c3344479ace8b0b",
+        "url": "https://files.pythonhosted.org/packages/d1/5e/52bb136a9cccdbf9c07cfcc631e0baae9604019e43646b02b5842e2fc284/sentimental-skk-0.0.23.tar.gz"
+      },
+      "0.0.24": {
+        "sha256": "d0a68e1c4534ebc49819217dfa9c1ff267c7062533cdd9d5193d21607e139931",
+        "url": "https://files.pythonhosted.org/packages/cc/de/b251fc8f1e03c6e12bef9686dbe179c1d23699b75d44261ea128ea253653/sentimental-skk-0.0.24.tar.gz"
+      },
+      "0.0.25": {
+        "sha256": "14908fd7f852b1a8f941841f90a31ae5efa6cc40fdceced72b532bbbf05b74bf",
+        "url": "https://files.pythonhosted.org/packages/29/a2/3806fade5ae6fd93e12759e89c0774ee3becda8befa9653f87900f8d6cb7/sentimental-skk-0.0.25.tar.gz"
+      },
+      "0.0.26": {
+        "sha256": "f9a6ab7c51848a2cfa9d4da521d23cf6a417eb25232b3ad41d2ce526a5190781",
+        "url": "https://files.pythonhosted.org/packages/f3/4a/ece7e89e38d6df2030b15eba02105b05ab7648ef6cc2edccf75940bd9158/sentimental-skk-0.0.26.tar.gz"
+      },
+      "0.0.27": {
+        "sha256": "88252214f5a52653ea5471e9e95e0efc7b55af0e6135fa38a87aeb6e7052a22b",
+        "url": "https://files.pythonhosted.org/packages/ce/b4/8b3af6b4c161ff50ffaff5235ea03ca835c0e3d7fe78ea7eb7f49aa0fbd6/sentimental-skk-0.0.27.tar.gz"
+      },
+      "0.0.28": {
+        "sha256": "7aa22784147ecdd65cbf1883c95e36a30ea5e0edec09b98efbf8e467706f8d31",
+        "url": "https://files.pythonhosted.org/packages/af/a1/64149f509c68a728c4fc4d4e57a532ce899ef7ba7cd97df48520af035d61/sentimental-skk-0.0.28.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "3c87b0c7b55d62e4a9fd4a4609d2dbb3135fcf63677cfbb4707296ec98abd7c9",
+        "url": "https://files.pythonhosted.org/packages/9a/6d/7e597332310ca81955e43d3cb6e651660a14814772d0332e8e3e1b4b96e2/sentimental-skk-0.0.3.tar.gz"
+      },
+      "0.0.31": {
+        "sha256": "8df18d1ddf4b6c7125405634825dc2198f0338a7e06bdfbca793115b7516747d",
+        "url": "https://files.pythonhosted.org/packages/01/d4/fe12c2395dff7928190e312debf9a8318e23abf2835070a2b0f2a49ea7fd/sentimental-skk-0.0.31.tar.gz"
+      },
+      "0.0.32": {
+        "sha256": "a9e07b20254c647280b3ae7b9c9bbd376870ca5b98d0750d236b8381da5d3e0e",
+        "url": "https://files.pythonhosted.org/packages/2d/b2/c9f7311f20e8610bb513b04c795ee9a8316d1897ca3d4faea87ee9736b53/sentimental-skk-0.0.32.tar.gz"
+      },
+      "0.0.33": {
+        "sha256": "a42254494cc5a80b413c65d985a92c72fa083cd2ff7e51a27a566f40af77f021",
+        "url": "https://files.pythonhosted.org/packages/72/69/484744b9238cb22a0e140413e028a35dff53dd3e7d0c6253871e9c7cdb64/sentimental-skk-0.0.33.tar.gz"
+      },
+      "0.0.34": {
+        "sha256": "abdee837aaf12843bd4ee38a0fdc4cb6b4fde4328c36ef5b9144652b8c898489",
+        "url": "https://files.pythonhosted.org/packages/46/38/c120f6063911cf1deb6fe0f816c93cc361d521f262c81890eac80acd171c/sentimental-skk-0.0.34.tar.gz"
+      },
+      "0.0.35": {
+        "sha256": "82d52d7192c7698ab31af5d61d6a2d06a8cd03e23a04eea25b87393877f52df0",
+        "url": "https://files.pythonhosted.org/packages/83/d5/2127a7c0bea76ee27dece2522708b40119ec462bd4fb14732191107a8051/sentimental-skk-0.0.35.tar.gz"
+      },
+      "0.0.36": {
+        "sha256": "1e5f93ed0dc59f6f21993ddc78ba2bf4cc2373ce512adb9c585a4a3e20b0c894",
+        "url": "https://files.pythonhosted.org/packages/d1/f1/f73a6601e0d9549590cbbbd921668a4cb6c4019f1d52381f6340b41b83a0/sentimental-skk-0.0.36.tar.gz"
+      },
+      "0.0.37": {
+        "sha256": "85bfa106eb43dde139e5b7737aaf851daef3119d99580cf5efbcaca447a0036e",
+        "url": "https://files.pythonhosted.org/packages/cf/e2/a47ffa8d40647a786e39affdf9defb8037155a445076761393277f398998/sentimental-skk-0.0.37.tar.gz"
+      },
+      "0.0.38": {
+        "sha256": "12bbc177628e58dcbab02a1b3fc3f1478f0619726927228d0773d4bf0f05c71f",
+        "url": "https://files.pythonhosted.org/packages/a9/7e/84271340f064d0827df7993a163fb070d93d196e0503862a571c4462864a/sentimental-skk-0.0.38.tar.gz"
+      },
+      "0.0.39": {
+        "sha256": "e1ba0156bfe5293190cdb36f2a34f620b366a998a025a1eaca4eae707faeae53",
+        "url": "https://files.pythonhosted.org/packages/72/34/151c6268941f10fbacc51d339d0ebf052696d0a1cd3ca883a79fc6e7c4c5/sentimental-skk-0.0.39.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "7ac5f9a98937f3337b781327c3ab49a6f43742d6dd88240161ade2e094199df2",
+        "url": "https://files.pythonhosted.org/packages/0d/44/39e6b0cc844bfbf70bb47c8c3a97bb86f10a1885faa622f3c791fd7077c7/sentimental-skk-0.0.4.tar.gz"
+      },
+      "0.0.40": {
+        "sha256": "10f979cc6d2713e8df6b8d62ca0851eb8c0a400a9524d3be32d9f78a3fae53cf",
+        "url": "https://files.pythonhosted.org/packages/18/07/e7507850be95499b67a6e8bdea04a759c76d25930b43d743a154feb4d6f7/sentimental-skk-0.0.40.tar.gz"
+      },
+      "0.0.41": {
+        "sha256": "c90ce5814f2394ea66cab1a1b2e5a22b8cc2bf7ac6719d0794f59edad4810560",
+        "url": "https://files.pythonhosted.org/packages/98/da/789deffaa622f0f771a3151349d5d6de97331e6cfea2fe8a2c1d7b8da30c/sentimental-skk-0.0.41.tar.gz"
+      },
+      "0.0.42": {
+        "sha256": "eb26cd3871b28d4b2c281b8f10de84ddd77c4708b95e45d1462371651e40f3c0",
+        "url": "https://files.pythonhosted.org/packages/fa/57/a17cef520ca3eafce35e39aa2b2cb07d7ae87af0704a3e4c14624e8591ce/sentimental-skk-0.0.42.tar.gz"
+      },
+      "0.0.43": {
+        "sha256": "3dcc86e5bd22a64a6247387cb21af9638f17f65630bc84d31c4c920c13ee66b6",
+        "url": "https://files.pythonhosted.org/packages/b8/e3/dc432a844752089bb9c2afe0d47b0612f5a8092d67a224e4deed97555fd0/sentimental-skk-0.0.43.tar.gz"
+      },
+      "0.0.44": {
+        "sha256": "8e436c490484dbbf474aae4825bafb46ae6a89aa0569e077db1867da4ab742a3",
+        "url": "https://files.pythonhosted.org/packages/bb/be/d302d24eb19ef165e559ea48f334d585218a6ead597e46eda5bdf69c2758/sentimental-skk-0.0.44.tar.gz"
+      },
+      "0.0.45": {
+        "sha256": "31118280d66032427e0d00e5c693ce2601dfdebb7116d9185144012c0ad71c15",
+        "url": "https://files.pythonhosted.org/packages/7e/d4/baffea4bc0ab5791052d63cc220badc9caf4afbb0f62135e3c785fd7696f/sentimental-skk-0.0.45.tar.gz"
+      },
+      "0.0.47": {
+        "sha256": "72f4dd26be0e6ca79d075c71d63485c8b1acf5823bc7c4e3fb09ea5651c4eca1",
+        "url": "https://files.pythonhosted.org/packages/8c/13/86d21984df501c24067109b6ce1124f5911ca24154adb8c1a4dc28fb5214/sentimental-skk-0.0.47.tar.gz"
+      },
+      "0.0.48": {
+        "sha256": "608ed18ed494feb001f515e35b6032bb9454b9014f30868a4cd617efeabfaa4d",
+        "url": "https://files.pythonhosted.org/packages/62/4a/c6cf088ee0da93a36ed9676694b32e01ab1cbf7262c8473e96cc63aeef40/sentimental-skk-0.0.48.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "409009b8520a6594288fa36b2f8e278d0088483d80fbccf48913c270a2292c58",
+        "url": "https://files.pythonhosted.org/packages/2f/c0/0819fc48a2a3de6a19902479f57ef20eb32b3781ceb46c08bba5ff6dccb9/sentimental-skk-0.0.5.tar.gz"
+      },
+      "0.0.50": {
+        "sha256": "6fe38af2a52fa2b3132e3b504540b58d2b400931649c2a85c57c44ca3a72799a",
+        "url": "https://files.pythonhosted.org/packages/df/02/37a73fa12768f5eee8bad33943a737431e77515f2f4f19c55e4098480dd0/sentimental-skk-0.0.50.tar.gz"
+      },
+      "0.0.51": {
+        "sha256": "12505de6697441d2d6b18950ffeca647feaee0568d6c3715809034b3580d1ffe",
+        "url": "https://files.pythonhosted.org/packages/95/6b/72644ba73052c670756850c8878b6e444200cc5e3aa238e6457773bc6902/sentimental-skk-0.0.51.tar.gz"
+      },
+      "0.0.52": {
+        "sha256": "65124ededf8e9c9e362ec4c8de9a682c191537f97212bffc388e41f261303e61",
+        "url": "https://files.pythonhosted.org/packages/ce/e8/f74295f5dc2d4a3242cadf96c1c68f54b5fb268ad6fdd1afb7271df8aa40/sentimental-skk-0.0.52.tar.gz"
+      },
+      "0.0.53": {
+        "sha256": "5e560f79f5e983b4f91c19ccbba22c9e87c6560386c60262c918eb65119542b8",
+        "url": "https://files.pythonhosted.org/packages/a5/99/96881e35e18b0140bfe36c605f7d938478e3a33e3f576b4ab920bdb6c63f/sentimental-skk-0.0.53.tar.gz"
+      },
+      "0.0.54": {
+        "sha256": "a9c1fb8a9e4344f331ace5a40147d53b5a230c621047b2dd56f6bf6d1582f3ca",
+        "url": "https://files.pythonhosted.org/packages/ee/a4/ba32d08f02ef6762e90b9d422e4687cdd1326ef1f3310477db1e02acff3a/sentimental-skk-0.0.54.tar.gz"
+      },
+      "0.0.55": {
+        "sha256": "4b4926c98b0e2804fe711518b33c531e55292e32c7bea89845d0f2aa518fd296",
+        "url": "https://files.pythonhosted.org/packages/37/6f/3210c669f6b36aada5332e5782f246134e347162e0e998b4df4e7329bace/sentimental-skk-0.0.55.tar.gz"
+      },
+      "0.0.56": {
+        "sha256": "d370bc76328098580ca8a60daa964398981cfa3e2aa369d7df32eb40220d6d45",
+        "url": "https://files.pythonhosted.org/packages/a7/0e/fdd55aaeb2f2069c9723a9783c76fcf83d68612fa0c533d5d6a49193d186/sentimental-skk-0.0.56.tar.gz"
+      },
+      "0.0.58": {
+        "sha256": "8ab948b73c08591a7e2e044348845328de84c91eab256545ea74a67ede026c92",
+        "url": "https://files.pythonhosted.org/packages/81/23/a8cfb06efe53cab6fe557d205e2d43b898f3174134078e14ac6efc71c1d0/sentimental-skk-0.0.58.tar.gz"
+      },
+      "0.0.59": {
+        "sha256": "3d89f29f75cb03717170aa48c4f085b5460bd22c939543c048fddff2452acf63",
+        "url": "https://files.pythonhosted.org/packages/8b/64/9e3a9ae55eb5a2f011ad9642279640cf3503ad8eca5bf018b500d93d98bb/sentimental-skk-0.0.59.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "831a021a41911e5eeb22eb330969e22eeed5e697e19688330f8430ff3dcf8ab1",
+        "url": "https://files.pythonhosted.org/packages/3d/9f/be85755d233541fad33e279040eaed5e290a49a92307f417acb8418fe873/sentimental-skk-0.0.6.tar.gz"
+      },
+      "0.0.60": {
+        "sha256": "646f19486287ac785ad179f5d4fe7726d8b90191b8e109d61ab77a64b21b22e6",
+        "url": "https://files.pythonhosted.org/packages/05/5e/125a086d0572c5774ed6e4aa7646fa6ee33cb0bfc29953df6f59db4f3570/sentimental-skk-0.0.60.tar.gz"
+      },
+      "0.0.61": {
+        "sha256": "f9ab2678fa507d2bce60a260a25713d3b57faf42181301edc75d99f6371ddd21",
+        "url": "https://files.pythonhosted.org/packages/3d/33/e754b12a196a8b73d046ab47e2d5fc0207c071a73d16e6f683de0f54e8ed/sentimental-skk-0.0.61.tar.gz"
+      },
+      "0.0.62": {
+        "sha256": "d1cdd952570f21ca506baf74adb0dc5753d710d694c28d2974bdcfcd63957625",
+        "url": "https://files.pythonhosted.org/packages/12/a0/de52e738f7711961f7ca098380d5c65f3692791be3ec273c5f1d3fa805bf/sentimental-skk-0.0.62.tar.gz"
+      },
+      "0.0.63": {
+        "sha256": "ec26227a913b031c9c9620da3719e626859b2ec6c2139b49e1bc18b0e7f4250e",
+        "url": "https://files.pythonhosted.org/packages/a2/db/5f53e38f1614cf94742981a53b14d70daa0edf76bf95cf92cc570a480cc4/sentimental-skk-0.0.63.tar.gz"
+      },
+      "0.0.64": {
+        "sha256": "11e00d9b730571a0402393f10a8708c0db236e863a5c75faeb0aea846b76e3f6",
+        "url": "https://files.pythonhosted.org/packages/9f/f3/06648a910788681c2409846d0b0e5ea4dd74dfaf012f7e6ecc4b6e74edf4/sentimental-skk-0.0.64.tar.gz"
+      },
+      "0.0.65": {
+        "sha256": "3972d3b6db92d968300900d7ec974f00809c899e4253c91b86b4c35e47c8b019",
+        "url": "https://files.pythonhosted.org/packages/7e/f3/375e20c4fe7f2a1d5973655432b3a41ec12e4cb89b995614b63319efe52a/sentimental-skk-0.0.65.tar.gz"
+      },
+      "0.0.7": {
+        "sha256": "67cb2a9019f842443b2c2891cba53e91ac3283a0d26c96420ec36e8db21e55ec",
+        "url": "https://files.pythonhosted.org/packages/cb/08/2db21f412353be12551bf39af3b8f3fe7526b21ec7c003ccd173a8f3cd7a/sentimental-skk-0.0.7.tar.gz"
+      },
+      "0.0.75": {
+        "sha256": "cc606eca067a36ba9abd25f4aa511780acc285518db1ae1a2a05f6942cfff6d0",
+        "url": "https://files.pythonhosted.org/packages/00/ad/7b94aabecd09db094f98d48f53e735c239743e0710b254f7899c48f7c9af/sentimental-skk-0.0.75.tar.gz"
+      },
+      "0.0.76": {
+        "sha256": "59978a95120a2b083abd1dce1bcf171c36076f9f71869354f8120647df574fd4",
+        "url": "https://files.pythonhosted.org/packages/af/83/99a800ee67e621dcca8268e47e620f6efdf2440bd370fcae3fac6013e5f6/sentimental-skk-0.0.76.tar.gz"
+      },
+      "0.0.77": {
+        "sha256": "2a2bab4073ee96548d3fed55a0716b7b6e2dc1de6cd7f8a4919415cba2afa53a",
+        "url": "https://files.pythonhosted.org/packages/f0/68/a4f156721b68aa738a7f63158f711eb8238be066c6e28d81359ffd6fa54d/sentimental-skk-0.0.77.tar.gz"
+      },
+      "0.0.78": {
+        "sha256": "19894be9e5c5f4db71d9b87809b82013e3b3a318a7e9765f8f408930a9d56d73",
+        "url": "https://files.pythonhosted.org/packages/48/bf/7bc0a0d5d4922f65b1690268a95fb7bbfabc677945bb19e61e8b07041899/sentimental-skk-0.0.78.tar.gz"
+      },
+      "0.0.79": {
+        "sha256": "fbaddbe60f7af58df13c55fa5f977b4fc23dc791add8e9ac16b8b00f0fb48c1e",
+        "url": "https://files.pythonhosted.org/packages/04/f1/ece6b9f7b75147dd40a4c1190966a11037822f68c6faaf33221bfafa36a4/sentimental-skk-0.0.79.tar.gz"
+      },
+      "0.0.8": {
+        "sha256": "89c500fdccb6e09f4fbc9fe803bd27fcb2894958bbae82394739ff8afcaf0184",
+        "url": "https://files.pythonhosted.org/packages/51/bb/141d325b66cbb8326163048be4a854a7d994b9414d59b7ec04b4ccc16f6e/sentimental-skk-0.0.8.tar.gz"
+      },
+      "0.0.80": {
+        "sha256": "33017ce2b0edc2a47a0815eb8396cb7aef5776b90dbb409d81237a6bc5bbdf34",
+        "url": "https://files.pythonhosted.org/packages/25/a6/07e8840bf7c7a35fded67566e94a7507392fb828d99af0298b530624fbef/sentimental-skk-0.0.80.tar.gz"
+      },
+      "0.0.81": {
+        "sha256": "5804c15fbfb192041446775034e38c8d26028dc4c9c8060e42b90e3a03b2736e",
+        "url": "https://files.pythonhosted.org/packages/fb/e8/16528cf2a6d54d4e7b3ee1601cd7cdd88b1c0a48d8facf531e9268bdc28e/sentimental-skk-0.0.81.tar.gz"
+      },
+      "0.0.82": {
+        "sha256": "a05f7df64718426a6d6bdf6be80a0c810ae6472617e58b37eb88d1abf3321fb3",
+        "url": "https://files.pythonhosted.org/packages/32/fb/1c1b0d2f7da991f5f639a43bd7f5674eb3e1a3b6a8c1b0830731dad3eb2c/sentimental-skk-0.0.82.tar.gz"
+      },
+      "0.0.83": {
+        "sha256": "704b1723845a6147eb68bda71ace80ea24f89bc774d97b8c41c919d5665264d0",
+        "url": "https://files.pythonhosted.org/packages/5f/7b/116b9a3ec95c0355658949de309e8e4467a88a39bb29717375013357ea2a/sentimental-skk-0.0.83.tar.gz"
+      },
+      "0.0.85": {
+        "sha256": "d6286ef1ef58aa6fac59b46af59d580de11e25f809c9cc1959e007900e3b5156",
+        "url": "https://files.pythonhosted.org/packages/a9/20/8925915601cd35b7feb9486f7c1d4a6f5d34849c945a499653437ab776bf/sentimental-skk-0.0.85.tar.gz"
+      },
+      "0.0.86": {
+        "sha256": "8e4dfa0d3c577eddbd9bc91b7be61d1e5f56d8873ffb8f3cf0ddaa738d6152ec",
+        "url": "https://files.pythonhosted.org/packages/d1/07/de9d7124343a5f9b599af40a0e0538ab67779c0fcce832455d9998ff2b68/sentimental-skk-0.0.86.tar.gz"
+      },
+      "0.0.87": {
+        "sha256": "abbce432df8627cc96c624f573fbd0afe6e2995da812e94eaf8e1c29ed17fbcf",
+        "url": "https://files.pythonhosted.org/packages/5e/7f/c2f8c24d1176d9c31f0e20382f70a697044c48b5286f5f176c54a7bde101/sentimental-skk-0.0.87.tar.gz"
+      },
+      "0.0.88": {
+        "sha256": "3c3e07aff587b69633b198f9e9072b4abb05caef5f8169b80df4b18065a97671",
+        "url": "https://files.pythonhosted.org/packages/e1/e3/f5c761b423736b5e11316a3d45e9e60ed7c07ea5e5aaf278c3bf18ed1198/sentimental-skk-0.0.88.tar.gz"
+      },
+      "0.0.9": {
+        "sha256": "913adfd0ca0f0ebb8a9cf7b9d3dbb2293b6dd7494bb39bf9b751e0b0ea075bf3",
+        "url": "https://files.pythonhosted.org/packages/04/4d/6ce19640babfb828f978ffba8450c2a760846863378935968cf37af2def2/sentimental-skk-0.0.9.tar.gz"
+      },
+      "0.0.90": {
+        "sha256": "4b059333033a297e167244b56c786970ee36ebafaced8b425a7e3e24412c8a0b",
+        "url": "https://files.pythonhosted.org/packages/fb/90/82ff2f716a26c1753eb152e99b00e952a7326044d2648e3e8103c3cac9cd/sentimental-skk-0.0.90.tar.gz"
+      },
+      "0.0.91": {
+        "sha256": "acc99266ae9224dc373faf6fe7907451650c499a378c1a3a31d41e5ff5fb749c",
+        "url": "https://files.pythonhosted.org/packages/30/bb/aa5f25e5b9558e071ec78df5ed2e8bd25f74d14bea09bcf235bcf6e05931/sentimental-skk-0.0.91.tar.gz"
+      },
+      "0.0.92": {
+        "sha256": "94c76582ef50e8ef8e229465d0dc35e4057bf3d1511d9aff455891b35179a6c8",
+        "url": "https://files.pythonhosted.org/packages/98/05/6fafdd2064878d5d1b919fd6831b9e03ba7592aa38184b73879daaf49972/sentimental-skk-0.0.92.tar.gz"
+      },
+      "0.0.93": {
+        "sha256": "9171cc5626bc835f38f17305a5dbd60bca85e7454b1de8022d0560d2fb7459eb",
+        "url": "https://files.pythonhosted.org/packages/fd/01/5ad9842c95b5557fb77ddc1ea179e87163da0340ae5f25e6688591c58a78/sentimental-skk-0.0.93.tar.gz"
+      },
+      "0.0.94": {
+        "sha256": "64a8ac9315c6ece8d03905e8806190b6a84ae367764899bfd0fe597a534fb52e",
+        "url": "https://files.pythonhosted.org/packages/42/73/4ebbf6167dd49654ba63f3d9bd74e149a0d817d0cd8d06f22776ed77fc5c/sentimental-skk-0.0.94.tar.gz"
+      },
+      "0.0.95": {
+        "sha256": "6bc86e2ac7a3a5b03a9b997476356b04e92616ac7b43f050b21f700464e2bb74",
+        "url": "https://files.pythonhosted.org/packages/3e/6f/794216d9537d670911838eeb28c5d242f81db689a93de0d730b8609cad78/sentimental-skk-0.0.95.tar.gz"
+      },
+      "0.0.96": {
+        "sha256": "0363255bb729bd87206edd2934a79858e00242ce0fd180afdb31adbc5bac2449",
+        "url": "https://files.pythonhosted.org/packages/ca/c7/e67e3050ad9b9afcca3598e47c83683738149d1095b7bf285cfb8d979390/sentimental-skk-0.0.96.tar.gz"
+      },
+      "0.0.97": {
+        "sha256": "bc62154c4dfba1a1b72de032110c0e32cf3ef50823d1e7e17f3a0178d53908a7",
+        "url": "https://files.pythonhosted.org/packages/2a/1b/034b47ede3b97fd9662f2107ca7a13b2260325c9f55f9326def9d1e531c3/sentimental-skk-0.0.97.tar.gz"
+      },
+      "0.0.98": {
+        "sha256": "d8727501d9136433a57d8013420df7d3eba940ce974b3f9af61e603d3519b124",
+        "url": "https://files.pythonhosted.org/packages/25/07/c6ef2e7df2dce1272ef6afa4fa196295bb36e75998f02d8148c2ba0c83a7/sentimental-skk-0.0.98.tar.gz"
+      },
+      "0.0.99": {
+        "sha256": "4f29e1acef992b225997495ceae30e2c4331915f15ce0899630553a1b1e79bfa",
+        "url": "https://files.pythonhosted.org/packages/72/5e/f7ac930e681801ad536db73e2077bddf0b849cbea86adc314805ffa6521e/sentimental-skk-0.0.99.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "This packages contains the Packages sphinx extension, which provides directives to display packages installed on the host machine",
+    "homepage": "https://git.framasoft.org/spalax/sphinxcontrib-packages",
+    "license": "AGPLv3 or any later version"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "b70302c7bccbe8cd6c62f403eb70e82d576745ceae1cf7d9b0fe226755febbd7",
+        "url": "https://files.pythonhosted.org/packages/9d/67/fc3e97e8a346ea63fab2bff8d6c297e949792397ea0bc4a726f2afd45149/sphinxcontrib-packages-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "a645dc5b1ca1884dbd419ee7f7accd154f322c828758e461dad9a99a719fd89c",
+        "url": "https://files.pythonhosted.org/packages/bf/3e/fea83eda983bba180f370a9e952531ce9e8867e892b9d69b3e3eb6a35ede/sphinxcontrib-packages-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "5b5c4eeee71530d116da15852f003409322d8bb36738816379a80689772c55ad",
+        "url": "https://files.pythonhosted.org/packages/9b/95/e5a8e8f8d4feea3478e22b8a73cff42d4f164c3547a9aa9665b15275139b/sphinxcontrib-packages-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "A plugin to check the average response time of a http service under moderate load",
+    "homepage": "https://github.com/savoirfairelinux/sfl-shinken-plugins",
+    "license": "GPL3+"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "0447d8701007b903e7df944f9fddfa5262df9dd5e7b51d9a9d8b8b7f6f7f4a29",
+        "url": "https://files.pythonhosted.org/packages/5c/39/e656044207c51eb7648052b0dbac91492dfc7076f7c8af28511e0c268ea0/shinkenplugins.plugins.http_load-1.0.tar.gz"
+      }
+    }
+  ]
+}

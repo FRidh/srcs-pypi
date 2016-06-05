@@ -1,0 +1,82 @@
+{
+  "latest_version": [
+    "1.8.0"
+  ],
+  "meta": {
+    "description": "SQLAlchemy database migrations for Flask applications using Alembic",
+    "homepage": "http://github.com/miguelgrinberg/flask-migrate/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "9320d4069d531b823f84bfdcae5748510bde81cbca2189b13c9ad6da4fe80b02",
+        "url": "https://files.pythonhosted.org/packages/0c/fe/455d680e8f648585a6747fa452b8dae6d5de44aba4321ba1077a0e5b65a9/Flask-Migrate-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "01b6f413aa7251a7037d591607a3dddef335d50ce387ad3453dc70496d3001d3",
+        "url": "https://files.pythonhosted.org/packages/26/fc/bd3c5bd8cd339ea420308915a81095d9c7336664d722262b231f1ec3d95a/Flask-Migrate-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "9b84d40f64ce6113fef8219670415e64e706056a90b9f103eca058a50eb023c7",
+        "url": "https://files.pythonhosted.org/packages/2f/67/1f3f3fdfdd15482a8f0ae2583923aae6a394a4fc8e318f5e8a50da7e2470/Flask-Migrate-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "798c71243b8716626903e7ecbf0f036d66c9a35f4b4a04ba4c69a4b2506f4adc",
+        "url": "https://files.pythonhosted.org/packages/74/8d/4aebec2bebd25728548843665bee9fde28d75bf1fbc2ea5defae41e279ca/Flask-Migrate-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "ebf118ba86617cab5db1af514d4ceb517571bcc278ca87dd8689688d614cc490",
+        "url": "https://files.pythonhosted.org/packages/cb/e2/a48cb81d0e96112227b56f4116054e27c2529a47ba6447b308ee6845666c/Flask-Migrate-0.1.4.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "fa5b75cfc92d99d3bc5dd5c5046886ec5cc6bb0bf9e33068afda731265fe5e90",
+        "url": "https://files.pythonhosted.org/packages/8c/bc/3bd163efe7844e27aa7e4cd387c814e7619344274e6e7f73212b7003b85e/Flask-Migrate-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "9d1e782d81ec1d6904717bf511e7b5d40b32effc6681540fa4a39e26583ecb91",
+        "url": "https://files.pythonhosted.org/packages/99/cc/39997c54c6546189e7a315dbec29783dee1545c0b43bfcf0a08a1ad7556c/Flask-Migrate-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "bee5d540f106c17c10477b133ee1f767215c17ddbe7e9a671bc1f95b40bd2918",
+        "url": "https://files.pythonhosted.org/packages/d7/03/42d0200c8ba4d5f04c91aa4d9bdfbb98234c6d32c2cce66c523104a3291f/Flask-Migrate-1.1.1.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "37e548cd0c497194243c8c2e2c6296e72ac7d65ba4ad1fd3d8cd5848af5fed2a",
+        "url": "https://files.pythonhosted.org/packages/3e/f6/3b96aa6beec503e8912df2f4c1c978603b234f673ba231026783adb2a96e/Flask-Migrate-1.2.0.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "8d142bcae64d45eda6efab821283841380749653e49030aea59f0059071d134a",
+        "url": "https://files.pythonhosted.org/packages/78/1f/cf20559c9d02765b0a76b460ec9e1ffc9bb10cf9f155ee1bb81bf21985aa/Flask-Migrate-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "d16342313936b383f30e7bc1863bd38686ac9f187a50df4161014f0207bf290b",
+        "url": "https://files.pythonhosted.org/packages/d7/99/706872ba1d23766ebecd580f9d293a001b163fc813cd1a34033b74d1b84d/Flask-Migrate-1.3.1.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "e63b1aafc7bec62a63ccb8e0f5856a271ab986a044aa81a022e0c68243439258",
+        "url": "https://files.pythonhosted.org/packages/52/58/33edeb64e0753756e37f617aab77102811c7f863cb34f6b5704e9584f2f7/Flask-Migrate-1.4.0.zip"
+      },
+      "1.5.0": {
+        "sha256": "c963a3edcd32ee1fa68189293c990c6aaa0802ad9aecf096357c1de00d8399b2",
+        "url": "https://files.pythonhosted.org/packages/82/a0/3f684a608352f219804d16507f40802fa435189b663035e0b1ad5b7b2433/Flask-Migrate-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "4af99e7d581f1169e774662f69fd913608126d8925614432dc2b42144bc328cb",
+        "url": "https://files.pythonhosted.org/packages/dc/3b/2098c03849b5394eea9c20bfa1c8ab59c2ec41ffe272aed9d41357dd2e9b/Flask-Migrate-1.5.1.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "fde03e6d514ec24fa4f30b90b54703f6f65ae503c28c27c66edbc04b79f2cf2c",
+        "url": "https://files.pythonhosted.org/packages/c4/ef/b96a3338600eafcad78edae2f17bd68abca2ab79bb4bd15424827ff9d862/Flask-Migrate-1.6.0.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "fb74af64d861932e0c0c427813ff87cd353a2a54b0b285c7dabdf62495dda799",
+        "url": "https://files.pythonhosted.org/packages/fd/b1/5fe0abb7613558389577cd8f98cdc346934d0c9ab961a91704a2e1f03487/Flask-Migrate-1.7.0.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "e85b06a96a25a5d917cff106386a4c1fe853a4bd2d0df31c3332f2a4788d9e5c",
+        "url": "https://files.pythonhosted.org/packages/49/80/88cdd9d17fa7b6a090a93997e1fd76667c6725cfb8f8a8697b27c8444925/Flask-Migrate-1.8.0.tar.gz"
+      }
+    }
+  ]
+}

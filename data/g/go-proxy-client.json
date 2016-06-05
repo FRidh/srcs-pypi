@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Handler for urllib2 to use a go-proxy instance as proxy server",
+    "homepage": "UNKNOWN"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "8c8c5a21e6a55176b754284ae8c2526c9eb0c058f750a6623dd7c4c828d00681",
+        "url": "https://files.pythonhosted.org/packages/6a/25/98895eef2623952ab54c3b7fc26192d14f59632bc6fa60dfc1123f20e7dc/go-proxy-client-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "166f597f365d45770218987e4c9518c7e8f9cc818898ae863e778df1310e021e",
+        "url": "https://files.pythonhosted.org/packages/1c/d6/ffde972c9fb10381f57b438c725f9f59a05630291b1492692f4c50b8b8db/go-proxy-client-0.2.tar.gz"
+      }
+    }
+  ]
+}

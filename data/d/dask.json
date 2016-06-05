@@ -1,0 +1,106 @@
+{
+  "latest_version": [
+    "0.9.0"
+  ],
+  "meta": {
+    "description": "Minimal task scheduling abstraction",
+    "homepage": "http://github.com/dask/dask/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "9e4b69ce7645753a367e1147a429ec95f2f3df8f51e7b734f9784ae3d8fb5929",
+        "url": "https://files.pythonhosted.org/packages/fa/5a/2c9fd04f5a2d61048be7c24a812a03e0437b635b8505ff1fcc64cb4cfc21/dask-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "508e27d4f18cec7f222439c799addc93fdda84b5116a9c58d2c076c6a189fcd3",
+        "url": "https://files.pythonhosted.org/packages/65/64/f2dc02678fe1cca48b8501481a203bcab25e654bbd3af0a8866d48059691/dask-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "fe7bcf6aab8a80f466178590eb008763583b6cf47f1a6f1cbbd83a3a1ffa7dcd",
+        "url": "https://files.pythonhosted.org/packages/a0/b5/08d921cc8eb77f4997ff37dabc6ff00d31753f9f4272d652fa283531e34e/dask-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "dbe3ca4f468e53d8b4b573399d360ad05c64c8ea01eb8a72d5b599f599668e22",
+        "url": "https://files.pythonhosted.org/packages/43/e2/a8ba45e3dc541bbb36666e5ff5d4a8fcdda5bcaf9c46c7529f9097071216/dask-0.2.3.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "c2597ea5f6d4f8959f81d1c6cbf4ef12c69f812fa2c49c5c7de0de6ddc15c1b5",
+        "url": "https://files.pythonhosted.org/packages/95/04/13e0474bddca39dda636801eb93bdbcd67bb193c3bd26a2a7390c6dd7111/dask-0.2.4.tar.gz"
+      },
+      "0.2.5": {
+        "sha256": "adcad723724fdaa2106e1c894dc0e1d6686cf9a455353b43383f74d624d7b85e",
+        "url": "https://files.pythonhosted.org/packages/66/06/d97116dfa5ee92c7782099dbf37526523306e29e79e923f0508df1569a7d/dask-0.2.5.tar.gz"
+      },
+      "0.2.6": {
+        "sha256": "877311bea380cd2ef2ac611b642a96076edc68e83cad803b327e9d5d00fe0d9d",
+        "url": "https://files.pythonhosted.org/packages/a5/43/49e5a91900ca288b47941cf91052f0b99ebd16829c55fcfeede91df418fe/dask-0.2.6.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "6900198a9b0a5d209c18c08e6f126b6e3b7c1004f7940efb08bddd5166ac4b78",
+        "url": "https://files.pythonhosted.org/packages/37/f2/ff52d9e494926003634bddce7ed6e5352879a85ae6a6de083d5ff6be3244/dask-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "a869c81fd967d0c5ca4a3e30079b99cf9860830eca2a35a683a7f779d3600b95",
+        "url": "https://files.pythonhosted.org/packages/fe/82/9588164f7de3b494ec9205119aae939edb65d70e96a9231655c8d41e88e8/dask-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "733834fc78aee8423c616349f225f197cfcf6451c3bf0a4fdeb412bca57b59b3",
+        "url": "https://files.pythonhosted.org/packages/d2/8b/61a84d22ddcda0165efeff4b10771b08ef2d3af1cceef79fd21e4a1bfd1d/dask-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "e3a26d62b4de0fbcc714bf13b5e31cc358ee9382c75644b1b345b4ce3348a8c2",
+        "url": "https://files.pythonhosted.org/packages/72/6d/c9616180199a9d533616f77f0cf0f7fd311bf194e3cbc497ec97e9ab2c83/dask-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "c45de056e66906939ad31e47009d499c6282458e6a35735bfe49c15f4ea4355e",
+        "url": "https://files.pythonhosted.org/packages/65/1d/48c9a319563e1718ac27df6d83a368e45cde8761900b08bd15be395deaa0/dask-0.6.1.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "3b48646e9e66ec21a6885700d39ea90e2c2a7ad5d26773a8413b570eb1a67b3e",
+        "url": "https://files.pythonhosted.org/packages/9c/86/05a65814bd882620bf7d0dee8d487ac5309ba7f2963ac4d5f3a0a46f723d/dask-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "c2975f2e0dbb89914961cde1c50afbd1e08112a0e5b08624a2766fbc45911b2b",
+        "url": "https://files.pythonhosted.org/packages/2a/8a/eb4844c0e8a37e13853556fa3e4f64d5dade1470454fb6163d026b4418d2/dask-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "ea97e9a38d139d81d2605cd9e063d2eb4348a89dc5b364927bd5f9d027b2b9aa",
+        "url": "https://files.pythonhosted.org/packages/fd/19/b32110d29a932fbd451509215efabb48ee0fc3bd8356cd36f8633464a2a0/dask-0.7.2.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "3a89a4c99381d0fb0466224df5f398ed310c90871a3877e4a1b7dcdf6e490f95",
+        "url": "https://files.pythonhosted.org/packages/a6/56/bf69131148f755aad2edd6644c8a8ba9289bfe79cac09026e77047efdcb2/dask-0.7.3.tar.gz"
+      },
+      "0.7.4": {
+        "sha256": "1bf7a553ba259545f94a3187c89778f928d897a47befe79bc68ca4ca7d46a258",
+        "url": "https://files.pythonhosted.org/packages/fc/d7/85b2ed76ec850fd46b32fc2ce97301f26741edb1c0bc3e612cf3ef58e479/dask-0.7.4.linux-x86_64.tar.gz"
+      },
+      "0.7.5": {
+        "sha256": "372f3c5d1fcad84c1680060b3013b6363989c702fb346c266afeee208af60308",
+        "url": "https://files.pythonhosted.org/packages/39/ef/5d23a47f983076218149cb3301bf64a95d424b17bc2f6184ef0e3d539c1a/dask-0.7.5.linux-x86_64.tar.gz"
+      },
+      "0.7.6": {
+        "sha256": "fe2b44fb0d8453fce647dd1a86c89b8552ca8d93858e0fc8cbc17f6020252593",
+        "url": "https://files.pythonhosted.org/packages/07/ca/60e44d2a736afcd1dc54e85f9beec83e23b5fd99bdfa00c0d43aa27ea0a3/dask-0.7.6.linux-x86_64.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "3cc8ac74589b13c959c9f72bfc4092aed549da08987c0ba087a64abb5d129796",
+        "url": "https://files.pythonhosted.org/packages/d7/8c/d1d828136ee61333d840706092acd86c8762645b9b8a24012cf5c61ff767/dask-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "eb49df6153470a61e396af15452020d593e99bf04b6b394baa203cbeb9763910",
+        "url": "https://files.pythonhosted.org/packages/7e/04/b784f4719cd4ac16f7d46de6e6e43b18f401b642522eb99be4f4bd625853/dask-0.8.1.macosx-10.5-x86_64.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "6e936a59e1bed9e3e98d43b86052549bba2e7fcee134f9914e79dd063754e471",
+        "url": "https://files.pythonhosted.org/packages/a1/ea/d2d62830111abd8adbff6dc145cd0d5e1178e22636f80b2d112250b226ae/dask-0.8.2.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "63994ae3aaea13afb7a25992eb7372a357e67ae0e0351049296d2d677ecca6ca",
+        "url": "https://files.pythonhosted.org/packages/24/1b/2bf6d9bde3ba8783ec9f559a55c564384af224dbcfec9c3ee639e365baab/dask-0.9.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "latest_version": [
+    "0.13.8"
+  ],
+  "meta": {
+    "description": "Python client for the Impala distributed query engine",
+    "homepage": "https://github.com/cloudera/impyla",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "7a9821b01c6437cb1680d834dcde84db6f1f61d24c1e591648175941cbd5b737",
+        "url": "https://files.pythonhosted.org/packages/85/96/0e7a83b686fb11ad70e71554e18372c624f470f72b1e234d881e76d8f2f3/impyla-0.10.0.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "1908405c7b3ac93915af28f7bfc9430c643d1293d5414335bf9230d36abf53ac",
+        "url": "https://files.pythonhosted.org/packages/72/09/e916230afdbc1da70c2d89dd08013add415f700f2c0122d79bf832d26890/impyla-0.11.0.tar.gz"
+      },
+      "0.11.1": {
+        "sha256": "099deea1a1218f979f368a39359bc6928dddc30f730c0676492d69db58a56ea3",
+        "url": "https://files.pythonhosted.org/packages/66/ee/115527a2f1b83a0b9e1710e8fb83cd38e3456d22ee8744f265458bf5873a/impyla-0.11.1.tar.gz"
+      },
+      "0.11.2": {
+        "sha256": "0b94352000519055ac921bc7e371060b9d870ccb2690a63489e516736f652b99",
+        "url": "https://files.pythonhosted.org/packages/fa/f5/4e82bf9dfdaede8765e0b33336adc057c93bc7f04ba5549bf64ae27a50d4/impyla-0.11.2.tar.gz"
+      },
+      "0.12.0": {
+        "sha256": "27bb821abb68b19c7e30f70e375c4845304a3970cc45136be2c2844bf40fa15a",
+        "url": "https://files.pythonhosted.org/packages/30/1a/043dd2a378d7397c20252be3d69a7cf8f48c84a1852b8d2d8e4a327e378f/impyla-0.12.0.tar.gz"
+      },
+      "0.13.0": {
+        "sha256": "e51eabcaef5567326184fb749c68268fd211d406695a5d26e6072013818910ef",
+        "url": "https://files.pythonhosted.org/packages/b5/c5/a446817bb3a37c9bfaa7ca8eae29abbf1e6073862333be544486d4a3eed3/impyla-0.13.0.tar.gz"
+      },
+      "0.13.1": {
+        "sha256": "b95a48e9ca255c6b581e21ff42a3b2b4eda86a6b20c376a159d25ac6907a9de4",
+        "url": "https://files.pythonhosted.org/packages/03/26/5f856b19a3e8e39b057a6543db7f6027aa0da66c7c8b534a4467b4af3a6f/impyla-0.13.1.tar.gz"
+      },
+      "0.13.2": {
+        "sha256": "179fdeadcdd91ec04647083427d8dcf98bf8b22bcf2092974631b627f130f1e6",
+        "url": "https://files.pythonhosted.org/packages/bc/fb/db8e558a870deab9b228d812ce429b7f57fedfa2ea24717a28b7495c36f6/impyla-0.13.2.tar.gz"
+      },
+      "0.13.3": {
+        "sha256": "a2c489bfb8317af17bee11c85a90e27af4b8c387fdc0ff797add617501ddb434",
+        "url": "https://files.pythonhosted.org/packages/09/c6/177005869e88d6c5440d11a6a26b9a24813757c32d2c5d6406aa81e5f9f0/impyla-0.13.3.tar.gz"
+      },
+      "0.13.4": {
+        "sha256": "61af3011be26e5aec13ae78c5dfdcd88e516b6b7b9c27b50fd346b94912f393d",
+        "url": "https://files.pythonhosted.org/packages/cf/1c/870ef173ecc2bb721c8f6e85c3729e93ba01909c2ca50ab17d29170761fc/impyla-0.13.4.tar.gz"
+      },
+      "0.13.5": {
+        "sha256": "dfb02d4a016472da083719498e20d10261cfcd60f7b5e61af9684ab853917493",
+        "url": "https://files.pythonhosted.org/packages/19/a1/f7f7e4c124560f29f83bb0e2ff7a76bf6b6ece92abb79c2df0df21d210f5/impyla-0.13.5.tar.gz"
+      },
+      "0.13.6": {
+        "sha256": "6586f95ef765e7b5c525dded773d2537ca31c5eb2b904074aacec8041c56254e",
+        "url": "https://files.pythonhosted.org/packages/bd/3c/aaa8b0542bcb7dea78ea256c451c3eaeff2e147bd5ba0b981ac70a93528b/impyla-0.13.6.tar.gz"
+      },
+      "0.13.7": {
+        "sha256": "36b14beeb965cc072a87c26b1c2fa2becd3762124aa4b940dc5039e6f1f11a1d",
+        "url": "https://files.pythonhosted.org/packages/d3/23/c64eeade2f7997161e490565baa7ccfc37ae314cf6207e3585fe5c9c72e7/impyla-0.13.7.tar.gz"
+      },
+      "0.13.8": {
+        "sha256": "34e7b12f44cdfae3f26db011f386f70ba801f30657ba8ca705aa246bc81e8936",
+        "url": "https://files.pythonhosted.org/packages/36/35/bcf5ac18e3689948e980e2a0b33d48f46cb8569e1d0f2b17ea7147e88356/impyla-0.13.8.tar.gz"
+      },
+      "0.7": {
+        "sha256": "7003107579eb858e3dd8fe17840953af2827bf5ff8fb16bb27b8fdb1865b9d5d",
+        "url": "https://files.pythonhosted.org/packages/a6/06/9669104219289ac80a2590d8881981d2c596f0c80fa03c1b692335feff31/impyla-0.7.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "dbda517f57b80d10052ac37a64f60ec5f6e1ee88b3cf470ca4aca25459cebddd",
+        "url": "https://files.pythonhosted.org/packages/4d/f9/1a9c602074212b7cb8da63d3a94c781393c83f55d4e810570edbab76cdc0/impyla-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "d3bbdfefe9bc955fb216c54390417840a2d7ff38a9d4c730175f9df99ee97baa",
+        "url": "https://files.pythonhosted.org/packages/6e/ff/7320a4f98c73b87823a0a98910b926e80d53eac6e999e54c0defb07d9fb0/impyla-0.8.1.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "8849fecadaa2e5241d708c4a45f0fbae33ff58f549a11b3c74c0531db9229664",
+        "url": "https://files.pythonhosted.org/packages/3e/95/2ac86c7e1af4b25111ae3779b559215d3118c5a70cc30de1ed81967a3517/impyla-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "123f9733068ffb4b3cad76139def7302e38352c546e01741f0dd2ab746948afd",
+        "url": "https://files.pythonhosted.org/packages/43/a1/6e9b354e8f6b37352dfdbe81dc97177c04a255c6bb23dd83616ff0e961c8/impyla-0.9.1.tar.gz"
+      }
+    }
+  ]
+}

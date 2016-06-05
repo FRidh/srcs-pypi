@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "2.5.1.beta.1"
+  ],
+  "meta": {
+    "description": "A rating system for Plone",
+    "homepage": "http://iqpp.de",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "2.0-beta-1": {
+        "sha256": "91b09baec4bf612c4429e9c2df6773f58ef9e419aa2ff87ee9ba0acdf3214502",
+        "url": "https://files.pythonhosted.org/packages/99/24/8037b94d47dfdda448477f2d54af20322cd035c1d96c924fd5f6c903daba/iqpp.plone.rating-2.0-beta-1.tar.gz"
+      },
+      "2.0-rc1": {
+        "sha256": "4d599251f91d858daa7507e002f7955f19491e08e8311515fee55b3ad47d0c4e",
+        "url": "https://files.pythonhosted.org/packages/32/d6/2ac25f24004c21400773bc00a239524363f9587869dfa0be39be39ebbfb3/iqpp.plone.rating-2.0-rc1.tar.gz"
+      },
+      "2.0-rc2": {
+        "sha256": "63a8926126cd61fb641743370dac8a8dc86703491eb738fcb067a8851acf8572",
+        "url": "https://files.pythonhosted.org/packages/5a/5b/41c3e3ebc4810633e65f352030dada326f9c269dc125a280f0f82bc6145c/iqpp.plone.rating-2.0-rc2.tar.gz"
+      },
+      "2.5.1.beta.1": {
+        "sha256": "8b841d707b5a40e207e2b2e4008bfaae7af14cfe4e97c0e33fa18ea9db00a3be",
+        "url": "https://files.pythonhosted.org/packages/86/5b/e42c107d7bc1fe2a295993b7cb7b888550b359e4190be9344f9740e9d4dc/iqpp.plone.rating-2.5.1.beta.1.tar.gz"
+      },
+      "2.5.beta.1": {
+        "sha256": "85b3c651551a2a6fb670f5bf82dd4c78b482a1947e81ec331c1cb3addadbf124",
+        "url": "https://files.pythonhosted.org/packages/1e/61/91d6d7e794fd7f801c0db11222cc79b175eee999aa30aad45f49ebef9e26/iqpp.plone.rating-2.5.beta.1.tar.gz"
+      }
+    }
+  ]
+}

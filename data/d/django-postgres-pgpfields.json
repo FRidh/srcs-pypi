@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.0.3"
+  ],
+  "meta": {
+    "description": "PGP encrypted fields, which are encrypted by the pgcrypto postgres extension",
+    "homepage": "https://github.com/coldmind/django-postgres-pgpfields",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "41e10a58cf45aaa31401e3b28970463431cd683704e587f94055b67fe157dcd6",
+        "url": "https://files.pythonhosted.org/packages/06/d7/b771b3af928cd4a88e17e1c5355055cfdafaf0773c4542cc19ea94999fe8/django-postgres-pgpfields-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "a2bac318c0007fdf9c8c944a59466fad7014d3ad035732ba2c4e01bb9e5304d4",
+        "url": "https://files.pythonhosted.org/packages/4f/16/8e8438cd7f67b02c90bb2bbddde675d54ec1af3dd8c89d49ab3b4dbcad6b/django-postgres-pgpfields-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "7c57191c52350c596ddb10d0c70d5ec795190cdcbd4cb5325c83374031c7bf4c",
+        "url": "https://files.pythonhosted.org/packages/02/bc/3995d1bc2ef2adeaedf586e0e4b35fc8b8470577f958c33077dbb0b23df9/django-postgres-pgpfields-0.0.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Automagically captures the screenshot of the screen , uploads in imgurl , copies the url into clipboard , deletes the created image file from your desktop",
+    "homepage": "https://github.com/yask123/AutoScreenshotUploader",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1": {
+        "sha256": "c2cfcaba94575364331d2214881468840419b38354719262f27172e81f1ab17d",
+        "url": "https://files.pythonhosted.org/packages/4f/e4/d39046795b046d763a77605c54cd152291f29f0e5abd64caa0fed6b4d48d/screenshotuploader-1.tar.gz"
+      },
+      "1.1": {
+        "sha256": "52ed5ad6683c165d33829ff7a01314917e255bef64f77543707f6fc3499251c2",
+        "url": "https://files.pythonhosted.org/packages/63/16/57e6cc5eea7428c3b12aafb0536d49c58430d8fbb08778fe0578bf9bad16/screenshotuploader-1.1.tar.gz"
+      }
+    }
+  ]
+}

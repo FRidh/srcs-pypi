@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.1"
+  ],
+  "meta": {
+    "description": "Helper to check if ZODB is Python 3 ready by displaying binary fields that might need conversion to unicode",
+    "homepage": "https://bitbucket.org/gocept/zodb.py3migrate/",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "109db4478cedd48f0d9b59643c601a8d2909f89b9f6ed2fab356d4ebe6af76e7",
+        "url": "https://files.pythonhosted.org/packages/1d/30/03c4a34c0ca8f033e65677e79f3807076471344770c61e2675a406e254ae/zodb.py3migrate-0.1.tar.gz"
+      }
+    }
+  ]
+}

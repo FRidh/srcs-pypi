@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "Sqlite3 online backup API implementation",
+    "homepage": "https://github.com/husio/python-sqlite3-backup",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.1": {
+        "sha256": "3322f76c1bf29a16d5038b0a831504e1abdcac87c37a433f82467f570c78d769",
+        "url": "https://files.pythonhosted.org/packages/67/32/547cceb458d03ea49581ef674fd9d13295af66d90512a232bfb031e37b07/sqlitebck-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "df57adae9b82d76e86aa2a80457e990e44cdc10503013ac2a5548c46bbaa450f",
+        "url": "https://files.pythonhosted.org/packages/67/22/1032e19a070b4a3b0472efb5131a16e2f7f1cce70a5f015fc2e83352fe53/sqlitebck-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "a870a0a3efcbf2d43d2074c01ae76611ea735ed9b5b578d92afa30edd70f6ed8",
+        "url": "https://files.pythonhosted.org/packages/37/e4/580395c41604134a0a21b41d8558df8b9896955e7a90697eec77224f6848/sqlitebck-1.2.1.tar.gz"
+      }
+    }
+  ]
+}

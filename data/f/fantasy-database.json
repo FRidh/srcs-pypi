@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.0.3.post2"
+  ],
+  "meta": {
+    "description": "A database with a few fantasy books in it for testing query builders, orms, rest frameworks, etc",
+    "homepage": "https://github.com/tkellen/fantasy-database",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "2.0.3": {
+        "sha256": "1b3f0570dedfa8c17cf5616ded582ecffe9cd65ec3aaf2885da6a4d902b78bea",
+        "url": "https://files.pythonhosted.org/packages/95/c2/081d29a88f4140b1f78bed935f17dd156d8463d891f5a38a4ba86d4ca52f/fantasy-database-2.0.3.tar.gz"
+      },
+      "2.0.3.post1": {
+        "sha256": "1582d5ff79784956f96c8af957449c4cedbb2ba57a0c59d0949f75e3bdce937d",
+        "url": "https://files.pythonhosted.org/packages/49/d6/9d3d664441995f5352ee1738c59f1fad91120d604916a6e41659bddbc78a/fantasy-database-2.0.3.post1.tar.gz"
+      },
+      "2.0.3.post2": {
+        "sha256": "2cea011ddd961e40d88eff5ed47a53f9c5d1b32e6807d807a8b0a1a39f5399b1",
+        "url": "https://files.pythonhosted.org/packages/77/ac/a0d40abfdb7d50f7ad0cf4ad272e346ccaa7e3fa963e87f360a47ae03011/fantasy-database-2.0.3.post2.tar.gz"
+      }
+    }
+  ]
+}

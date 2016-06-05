@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.2.3"
+  ],
+  "meta": {
+    "description": "Wrapper for the TreeTagger text annotation tool from H.Schmid",
+    "homepage": "http://perso.limsi.fr/pointal/dev:treetaggerwrapper",
+    "license": "GNU General Public License v3 or greater"
+  },
+  "versions": [
+    {
+      "2.0.6": {
+        "sha256": "2d50ba783637cff8faaa932a268e6452b283572f9b992d852a307287e6ad42d4",
+        "url": "https://files.pythonhosted.org/packages/fe/91/c7ef369d47b20d88d7838fe93570f2fba23be0ef798f8d569ebba0a441d0/treetaggerwrapper-2.0.6.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "3ecf845d8d2a8de349302224538a508cf8f61a58b2c72a00020bbe8fff93642a",
+        "url": "https://files.pythonhosted.org/packages/65/08/88d5d98938f786f3416d5fcaaa95c832287b47342f8757d5f6e7118b1d74/treetaggerwrapper-2.1.1.tar.gz"
+      },
+      "2.2.2": {
+        "sha256": "9420b4c7ecf55ab836a036ceb4b5a9c5f55fc92efd87b426dcfe28bf43948f4e",
+        "url": "https://files.pythonhosted.org/packages/da/a0/617033114d6d6481a1413a6a7be2dc807ebb6cbb4f852e867253c49f0bcb/treetaggerwrapper-2.2.2.tar.gz"
+      },
+      "2.2.3": {
+        "sha256": "18c35376d508a1461008ae37204fcd533cef20a242be191a149dca4c193fa83b",
+        "url": "https://files.pythonhosted.org/packages/f5/71/f082cea40062b9a929ab72ac4cc6ddf4a6c80379ba7ce20eaf2b56a044c3/treetaggerwrapper-2.2.3.tar.gz"
+      }
+    }
+  ]
+}

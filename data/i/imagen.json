@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.0.1"
+  ],
+  "meta": {
+    "description": "Generic Python library for 0D, 1D, and 2D pattern distributions",
+    "homepage": "http://ioam.github.com/imagen/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "45e786aa2f2c3f61702932835292b76da750d6c3dcdd286a7341200c046ed093",
+        "url": "https://files.pythonhosted.org/packages/62/84/02b184d5d0121e56223090d0ea24c0b6213bf82fadf6a37bea7fa8eb85cf/imagen-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "166932e84ecbd03fd1e15fc165e0a018c1d8738195513b0b10d135d32f907ba2",
+        "url": "https://files.pythonhosted.org/packages/86/14/52a85cb7fca7a629a314fab54ec9da09ce0896814d4868bb6eacd939276d/imagen-1.0.1.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "86a70beda7b2c1ce11304e918ca9d647bf46d0c4a2f795f81e12ff7f0748e249",
+        "url": "https://files.pythonhosted.org/packages/15/04/4f015989b13d11c5815c0e6fd4a76c21a61cedbf04584d7a8410548d61ae/imagen-2.0.1.tar.gz"
+      }
+    }
+  ]
+}

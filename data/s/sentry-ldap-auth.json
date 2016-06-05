@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.0"
+  ],
+  "meta": {
+    "description": "A Sentry extension to add an LDAP server as an authention source",
+    "homepage": "http://github.com/banno/getsentry-ldap-auth",
+    "license": "Apache-2.0"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "f6ce51d9a7bac1bc899b15c72befdf6d5740ec982c80c55245b5ae2d493ddf5b",
+        "url": "https://files.pythonhosted.org/packages/97/35/d3e761940342271da469c2e23c07038b72483f97361e5eaf9799768894e7/sentry-ldap-auth-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "49af20071124d2dc618e89022b28002460d5d19d58a52d2ab9cd44ed0bef3451",
+        "url": "https://files.pythonhosted.org/packages/27/12/67cb27f1034cec5bd681de26c022c0b4535c2d4d8a7e612babaea31bb384/sentry-ldap-auth-1.1.tar.gz"
+      },
+      "2.0": {
+        "sha256": "c995612ec1c19a9f4dfa5af971d8e1858784b6648b3d0fd80ab9f464d62ab96c",
+        "url": "https://files.pythonhosted.org/packages/23/0f/d52594c1ec34a0e6bd222cba04690923020462b3910f85b8dd512934f55b/sentry-ldap-auth-2.0.tar.gz"
+      }
+    }
+  ]
+}

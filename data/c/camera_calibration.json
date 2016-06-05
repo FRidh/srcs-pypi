@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A basic script to run camera calibration on images in a folder",
+    "homepage": "https://github.com/IRIM-Technology-Transition-Lab/camera-calibration.git",
+    "license": "License :: OSI Approved :: MIT License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "11197c99ceb25e1211eb134c36a29811a5703d71550e6addc3268853b96e8e66",
+        "url": "https://files.pythonhosted.org/packages/0e/3d/97528ed0a5f4bcfff5676a1949654048aa7915b97258d322ac410b3dc6ec/camera_calibration-0.1.zip"
+      },
+      "0.2": {
+        "sha256": "1bc844f817123d2e1ceaf5b8eb987292d8ad92ea29126306f84592c904aefdbc",
+        "url": "https://files.pythonhosted.org/packages/09/55/55d036447162cdacc3b91d7f0c835e9ec465f5d4356f09bdbba7c2996eb1/camera_calibration-0.2.zip"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Guess whether a process can fork depending on VSZ",
+    "homepage": "https://github.com/krallin/canfork",
+    "license": "ISCL"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "1413e2f7d79f990ff003db1cbad46a86ed8b1e0cdd46b908d035d292acefa517",
+        "url": "https://files.pythonhosted.org/packages/cd/3a/ab6d90bcc4fdba7b389deb9616e82c6a26bc20fcf8d40859c820ee52bc9a/canfork-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "036097bc5e149cad1a999b28f09b8a2546618efd1a8102b8a06b171ccb17ccbd",
+        "url": "https://files.pythonhosted.org/packages/f3/42/e885c4245e023b9382d8260851bc5cff0d03954c1e2c265d08ee7a2c29cc/canfork-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

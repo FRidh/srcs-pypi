@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Python front-end of the rhopSonicFoam",
+    "homepage": "http://sourceforge.net/projects/pythonFlu",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "637d446b9f5ce0128e917cde9e629c45c15557d399bf559a7ec296936e73f34c",
+        "url": "https://files.pythonhosted.org/packages/e4/d7/b9c2fb6f1396f4038b8293b34209bcaab8c56e506f4c4301f091c6c567c8/rhopSonicFlux-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "48143a6f89df8419dd132f1e88cb75fef8fdca4f8b1414961cfd123efe4cc55b",
+        "url": "https://files.pythonhosted.org/packages/56/45/28001cd6d464c0110cbafc26b102a75ba29cfeb8631a953cba86d1532f07/rhopSonicFlux-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "01d4e70d49b3d66ae22330d559a908d0d1d00f7f9327415885491082540d1383",
+        "url": "https://files.pythonhosted.org/packages/a9/1f/98a09f0afe98a5801256f6d12584ede62cbb2aef54405e6387dfb655c542/rhopSonicFlux-1.2.tar.gz"
+      }
+    }
+  ]
+}

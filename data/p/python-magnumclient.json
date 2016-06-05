@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "2.1.0"
+  ],
+  "meta": {
+    "description": "Client library for Magnum API",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.2.1": {
+        "sha256": "ba779ae755b1127173d97f14e59b8fe721064cf42cc15ffae3b08ccd44cb5b2a",
+        "url": "https://files.pythonhosted.org/packages/58/58/08719277458b6671a0fd52662c45b1f78a652fecfec512a08a292d9006d8/python-magnumclient-0.2.1.tar.gz"
+      },
+      "1.0.0.0b1": {
+        "sha256": "7c05b489ae8139a7ae57e51c535dd3eeb9e46b7017754ce02f34e534d43e2604",
+        "url": "https://files.pythonhosted.org/packages/0c/26/91cf5ec3b71fb17fed0f3766298873cc52e26aad4ab8abcbe80384222d0a/python_magnumclient-1.0.0.0b1-py2.py3-none-any.whl"
+      },
+      "1.1.0": {
+        "sha256": "617c6af081c327f8a4b703125627599cfba78f17c7f26468b94e6db21b304201",
+        "url": "https://files.pythonhosted.org/packages/5d/b3/5b8dd6cad1346d10774efd0dbf59d04b84f45c496dbcb14a27dbcd3ab02f/python-magnumclient-1.1.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "257add4dd09952562367776b3ddd4e66a0f74692c17d2a39f588048286a08fae",
+        "url": "https://files.pythonhosted.org/packages/d5/92/c597ca014efefa210a5cd3f11e12fb84ce2725a79678584069f6826c2b77/python-magnumclient-2.0.0.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "e8ab207838483d76c86a0738a957e7e48b33acd460051f4d87f4744f5d38a3bf",
+        "url": "https://files.pythonhosted.org/packages/d7/55/f650c7a9ff18e9fa7af5337cf83b39e6cb3a3138b67a4717f5f4a6639ad6/python-magnumclient-2.1.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "Python bindings for LIRC",
+    "homepage": "https://github.com/tompreston/python-lirc",
+    "license": "GPLv3+"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "67544bda55d799e6e6e1a6b8a8308d57c1b612819dd0e3d5c9a83e2c806c7708",
+        "url": "https://files.pythonhosted.org/packages/57/6e/6dc0bc2348fc56917ec89ce6039546d566837c8cd6d8c5c793123c06cff4/python-lirc-1.0.linux-armv6l.tar.gz"
+      },
+      "1.1": {
+        "sha256": "4b03fc525343b18a061c1010a631a2bce6372cf85dc2078f34ce9829205cc2e8",
+        "url": "https://files.pythonhosted.org/packages/37/8a/1390929f89fd4f65b1cdc41926410eb2443c24f2dd320e488922952c4121/python-lirc-1.1.linux-armv6l.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "ab93f7f5ca1db8389cb6ff950c6670bdcd82d78fa640beff6b0b41200e8eb867",
+        "url": "https://files.pythonhosted.org/packages/11/3b/b5af27cbc48ff8d56531195dd582dd1ee91dad6f49ec175a223b85d75e22/python-lirc-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "0a7d1ae2d7a25ba36575843259fbe4417a760c7b2c2a8abc53e4999a90130dd4",
+        "url": "https://files.pythonhosted.org/packages/f2/65/8a4b8c541de1ac1edece4122adc76869f17d10b34853391848120bad77c7/python-lirc-1.2.1.tar.gz"
+      }
+    }
+  ]
+}

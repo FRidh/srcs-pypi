@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Store implementation for RDFlib using Django models as its backend",
+    "homepage": "http://github.com/publysher/rdflib-django",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "af4a17a2beb2d083ca2ea092404360f7f71beb566806ae024a94e697e012cb13",
+        "url": "https://files.pythonhosted.org/packages/7c/83/92dba5b317e7b68f94ebedb22c33d00037bd928119d8c724c6cbde5d2880/rdflib-django-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "797da118e1f0ef5d54a690f29f7238d7c26e15fa0f034906e1172218541d40a4",
+        "url": "https://files.pythonhosted.org/packages/f3/ff/9bec0c9fba2bcdd86488b34d23c500ddcd66fd1ec4f2dc6b243388e4c40b/rdflib-django-0.1.1.tar.gz"
+      },
+      "0.2.dev-201210011245": {
+        "sha256": "d2b753ab66cad04dcaf8454ae8a6c26692bbd8f2e7f874f5732e901cbeeaa618",
+        "url": "https://files.pythonhosted.org/packages/db/4b/97cf24da704c64dffec5a23b5e3fc9dd2bdf8ac6e4d825679265832ec791/rdflib-django-0.2.dev-201210011245.tar.gz"
+      },
+      "0.2.dev-201210060903": {
+        "sha256": "db09396f76ded5629c135d3a5d4172ced2a7c59770ceb5e10559b656ea0a22a9",
+        "url": "https://files.pythonhosted.org/packages/7d/81/76f9a15bf4994b8570c0c7aedfff0a9c6e1c37407524e40be5a31e9556a5/rdflib-django-0.2.dev-201210060903.tar.gz"
+      },
+      "0.2.dev-201210061248": {
+        "sha256": "371d49ea8b71cafe6189e1a053973aa5968b37af2f91366b03fa4c35bc5bab65",
+        "url": "https://files.pythonhosted.org/packages/dd/93/5e952f95369d4719e75a8af702bfd2d949ccdcae0ca98f6ab179d6e00857/rdflib-django-0.2.dev-201210061248.tar.gz"
+      },
+      "0.3": {
+        "sha256": "de018e11e4dc70aeaf292f956896f25f1f05f99643e0fcc1fc3c1cd9ddfc9e31",
+        "url": "https://files.pythonhosted.org/packages/9f/11/961f8fc32c7fe945b08031c310c265cb37a05c7e3efa6dedd4a9927ba3c1/rdflib-django-0.3.tar.gz"
+      }
+    }
+  ]
+}

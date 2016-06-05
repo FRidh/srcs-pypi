@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.20"
+  ],
+  "meta": {
+    "description": "Storm is an object-relational mapper (ORM) for Python developed at Canonical",
+    "homepage": "https://storm.canonical.com",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.15": {
+        "sha256": "512396787c4361927bdab223e959486150e20a258c1f713b20373dd0ca6cf713",
+        "url": "https://files.pythonhosted.org/packages/39/e4/098a9ec4b0248bcef15996ad48f8bab9ef427f1b6af96f33001314563abd/storm-0.15.tar.bz2"
+      },
+      "0.16.0": {
+        "sha256": "62540d279833bcf52da2258fe4bfa46d90b15f47076c35739da25fb5206264c8",
+        "url": "https://files.pythonhosted.org/packages/16/90/e09808e06b8ca04a006d5b6cb634e564b4827a4c75c46101cb8a9fe2ef27/storm-0.16.0.tar.bz2"
+      },
+      "0.19": {
+        "sha256": "200e77a424c8306a2cec7e24cbd9fab079314d0d020f08eefd8374839844e4aa",
+        "url": "https://files.pythonhosted.org/packages/3d/78/521271eaf986040d23117ac4356103fcf2963c4f586b6befbb299e1dd182/storm-0.19.tar.gz"
+      },
+      "0.20": {
+        "sha256": "35f5883e93a262002ca59dbb39645c67434a182d758543c4a2467ff690ac23a5",
+        "url": "https://files.pythonhosted.org/packages/ea/95/2e0dad606e2470c027f865f9259eb138bb2dda0397fce4f7729c951de544/storm-0.20.tar.gz"
+      }
+    }
+  ]
+}

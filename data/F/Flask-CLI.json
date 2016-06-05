@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Backport of Flask 1.0 new click integration",
+    "homepage": "http://github.com/inveniosoftware/flask-cli/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "3de07c2a63b09d3ec228ed6f91897dee8debea593365232d1c836a5b4a79c348",
+        "url": "https://files.pythonhosted.org/packages/f4/86/b8c8c8af3667786bf3e6734720b153f770b4b1846e18d1fa04d5f6ef5ed1/Flask-CLI-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "3281dbebd1db5f351dab201f09361b8afd4ffb0aecaafe5508ca1ae9ace0d1bf",
+        "url": "https://files.pythonhosted.org/packages/b9/6d/2e6a4cf26a490063c15df0de551bc98c2eec9cc34f4845ad2d8eae04424d/Flask-CLI-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "95bfe62f13ab5a9ae30ad2abec750eebae9737989c7e28337d311f52eaf23cbd",
+        "url": "https://files.pythonhosted.org/packages/7e/df/94d9e5e5ff0d675bbb9ba39d21c985039e627eb6d83b31ef2e995a55f5a7/Flask-CLI-0.2.1.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "a7171024070f6d67e85a1773c27d05cce6eadc19430d60aed964c34a562c688c",
+        "url": "https://files.pythonhosted.org/packages/d5/9f/1a27d2ac47f568dc64f3914a40e696dc2dba6afe11f6077e2ebb5ab76492/Flask-CLI-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

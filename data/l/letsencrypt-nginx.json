@@ -1,0 +1,106 @@
+{
+  "latest_version": [
+    "0.7.0"
+  ],
+  "meta": {
+    "description": "Nginx plugin for Let's Encrypt",
+    "homepage": "https://github.com/letsencrypt/letsencrypt",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.0.0.dev20151006": {
+        "sha256": "003c31e492b7d9039c9d3004e12f56d8bd5dc8ea07cbe052a8533e933bf44d3d",
+        "url": "https://files.pythonhosted.org/packages/18/6c/ec0d8f1a69fa76e1825ff026a47a11a3c49871569f71f734d93414eba55b/letsencrypt-nginx-0.0.0.dev20151006.tar.gz"
+      },
+      "0.0.0.dev20151008": {
+        "sha256": "69d6b60046d1f0faec4a41f441fc2bf27a31050281c661f98c79d92973b4db18",
+        "url": "https://files.pythonhosted.org/packages/89/bf/3bcddb2a69d505443804c7acf3352745d1c19321758b0ff7db52ff211fd4/letsencrypt-nginx-0.0.0.dev20151008.tar.gz"
+      },
+      "0.0.0.dev20151017": {
+        "sha256": "2ef07ad09f9eac976e5dcf9284a9f53a4d6a5460ec1a7cceeabc369f2cb8d34d",
+        "url": "https://files.pythonhosted.org/packages/1d/81/b8bdc7e6a5397b840c139410f51b8c7c37ea4bafd002dd742cb5947ae859/letsencrypt-nginx-0.0.0.dev20151017.tar.gz"
+      },
+      "0.0.0.dev20151020": {
+        "sha256": "7d687abe27e00f0aad9de5a6715370df928bb1a68d20eed0321afdda01c5da76",
+        "url": "https://files.pythonhosted.org/packages/9c/45/2ddb5e5a69001935949cd05cff33a16cc81f71a6c53823658fa999a43a1e/letsencrypt-nginx-0.0.0.dev20151020.tar.gz"
+      },
+      "0.0.0.dev20151021": {
+        "sha256": "43b4ab52e84e64834afa34284bab3bde735a49b9d84fd61f6c4a586458613d44",
+        "url": "https://files.pythonhosted.org/packages/a9/d3/fe2886cfbe208d6881902492072442098dbd11bbd3a6109f7f8de96fb2cf/letsencrypt-nginx-0.0.0.dev20151021.tar.gz"
+      },
+      "0.0.0.dev20151024": {
+        "sha256": "787a3e402614103ec6b574f63cea2182d93eff0e7546839914f335ffe5dd20ea",
+        "url": "https://files.pythonhosted.org/packages/7c/d6/b162e906e7c6ec318a40be931e29c0d6a62b47bcc1dc416031d86c61debf/letsencrypt-nginx-0.0.0.dev20151024.tar.gz"
+      },
+      "0.0.0.dev20151030": {
+        "sha256": "9b4b31d18e0f2ccdf2b435f763957b10ba54f6eab723222fb0a115f2fb4ce2cf",
+        "url": "https://files.pythonhosted.org/packages/2a/d9/ac538af7096c5de10f002ad9943fb3368d3aea62579a1d7afe394451245f/letsencrypt-nginx-0.0.0.dev20151030.tar.gz"
+      },
+      "0.0.0.dev20151104": {
+        "sha256": "67fce1c38c1ac908d02be2c60c5a9228b0dc79054ecb3fec4e4a36a443f85c28",
+        "url": "https://files.pythonhosted.org/packages/cc/17/e80dc48e7cf0ac3dd2ef94987f7b1816dff38a28b081bcd3ffb19b74856a/letsencrypt-nginx-0.0.0.dev20151104.tar.gz"
+      },
+      "0.0.0.dev20151107": {
+        "sha256": "9e2717fe5ae2b5a8e9843445fd6e7f7e8890de9922c57d8b4aebd3bf63072e7a",
+        "url": "https://files.pythonhosted.org/packages/1f/f5/57eb9144a3470721c07f544faa8b14ddba71260f0c454b4493d2bb1d27f2/letsencrypt-nginx-0.0.0.dev20151107.tar.gz"
+      },
+      "0.0.0.dev20151108": {
+        "sha256": "f50eabfc804638f8a1f6a4f323db894d559f6a8d06d59c1513005e57cd44338c",
+        "url": "https://files.pythonhosted.org/packages/62/ae/1723cb75373b7ba19e622964f5465504e262a9ddc38cf3e6445b411f73bd/letsencrypt-nginx-0.0.0.dev20151108.tar.gz"
+      },
+      "0.0.0.dev20151114": {
+        "sha256": "51758a588558152839be57851eda7271c695cd28bd6aa6876bb8330a595966d9",
+        "url": "https://files.pythonhosted.org/packages/2f/80/6293b9d9c77b18b6c92dc7c861e4329d46b3b284e4a970b46b088acbd184/letsencrypt-nginx-0.0.0.dev20151114.tar.gz"
+      },
+      "0.0.0.dev20151123": {
+        "sha256": "25a1530f31b93436737cef72f539fc5a5dcf8a358239668168847c2e9235f1d6",
+        "url": "https://files.pythonhosted.org/packages/c4/9b/fac618c9d33043f873675bfeeccabbbbf4bd6d4e240322fd6e43fd228265/letsencrypt-nginx-0.0.0.dev20151123.tar.gz"
+      },
+      "0.0.0.dev20151201": {
+        "sha256": "0a87a9130ad4686afd583fae95fb76f3aed755d660ddc59cc73f830939b5ba51",
+        "url": "https://files.pythonhosted.org/packages/71/f6/698f679303a6941d1833abfacd239204fc9969959373180a07c2265ea9de/letsencrypt-nginx-0.0.0.dev20151201.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "944724e3eb9efb71791ff241555c45cf5a0f5c36b1efc7e65cbc1a37505bc91b",
+        "url": "https://files.pythonhosted.org/packages/c5/1a/3f3a611d17fe9f134a909512b4a791d9b8be835b73a8b5231d7ca548dd87/letsencrypt-nginx-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "c58d97edf727fd628ba4050f943f38bc9938050afe1eeeb38cc7ab104ff9f9d6",
+        "url": "https://files.pythonhosted.org/packages/05/08/3de238bf7c45d3bc00bbb90d7f55d074252ec4cf554d7e6bb286c6375e2e/letsencrypt-nginx-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "16021fe1eb08cdb6eefbb4f7d608bf0712d9ced0b3be064031f555e6597ef62a",
+        "url": "https://files.pythonhosted.org/packages/c3/fe/670e77b7c769ccd21d6513f05d2f4d807c08e09d130a768ce4bffc67b648/letsencrypt-nginx-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "b6cd02c5435fd7ec1b8efd695f9ae84e9c2d3920d2ba1e26fc913b6d9140c44b",
+        "url": "https://files.pythonhosted.org/packages/8f/1e/5b1b4eeb96204e7fd4bcaa3538e64bacfc01979b582ff21b2f79aa12e9a6/letsencrypt-nginx-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "89ce4f01930147b6d10273905b72386a893cd4e8325c1169a50189aea58a4dec",
+        "url": "https://files.pythonhosted.org/packages/d7/ba/fc38b9917b5d0958df3ff50a702ef8cdf5405a3047b82e34c0917c6997b4/letsencrypt-nginx-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "2a53b21bed27f39767e5a57a25da765f8192acd06ca17bee45e955b4983e2a6f",
+        "url": "https://files.pythonhosted.org/packages/16/3f/64efb47fce320160cfd0412767d492f6514d4163da3010709b5837f5e88e/letsencrypt-nginx-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "5aa8e70af6b880938c1056d3c366fb2b295f720792b57071b1916da080f22358",
+        "url": "https://files.pythonhosted.org/packages/1c/86/0e496df4de9d5d901d93e5fdae781d811ca91ab60ed79bde4aa9805a6495/letsencrypt-nginx-0.4.2.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "c014aa8dab6710cb0877647312a0a86b9e7f8f49cdef6a0864c59d2e1c6d2b8d",
+        "url": "https://files.pythonhosted.org/packages/ed/83/16f47c87dcf3ebb55b939f854bd827bace7d081f06bca58267cde0791b68/letsencrypt-nginx-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "5afa92c526b73dc031a8ae81f02992e591258a25c5b4e50c319fb1a153ee7e54",
+        "url": "https://files.pythonhosted.org/packages/50/48/4310424f44c0113d54f252da8a20dfc1251ec4602594a72267beaa24fd24/letsencrypt-nginx-0.6.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "c2fbf344694e6cc0a3a1c695fea6e281e504f3ec50e425449df4bf948b47c272",
+        "url": "https://files.pythonhosted.org/packages/24/9d/2ae8ad2a0690c15144e65e60e2f1f81a29660c27516d1a176b2b8da1663e/letsencrypt-nginx-0.7.0.tar.gz"
+      }
+    }
+  ]
+}

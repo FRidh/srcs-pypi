@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4.1"
+  ],
+  "meta": {
+    "description": "An installable theme for Plone 3.0 based on the Mimbo theme by Darren Hoyt",
+    "homepage": "http://svn.plone.org/svn/collective/plonetheme.mimbo",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "c2cf043b441ae70f9fdd79a6f327b9558690d1e1f7addd9b2268e4a942e10331",
+        "url": "https://files.pythonhosted.org/packages/25/4b/b50da4fb4d53208ef8bb735630ed1708182bf2ee2184a32d22a1381ac5f9/plonetheme.mimbo-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "40720942c0e75a038c7397501dfdfb8beb49015aedd757ffcb4393db194f0f52",
+        "url": "https://files.pythonhosted.org/packages/1c/1f/95287f1447a8328b3b9fafe92a9afd230afafafa052412cefe4ae5d27819/plonetheme.mimbo-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "1dc2e5902357f3eca11e3b73da4c61aaef61be0f116acb14fe9d94e27ad76bfe",
+        "url": "https://files.pythonhosted.org/packages/2f/a3/da668a09d1f892f9a1acb3ae6836aab4dd391af39f137f843553473253da/plonetheme.mimbo-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "3ac41f77d188d77d1f7d7c42b2ad08e46bec63f0a79644dee68e66e71de27c61",
+        "url": "https://files.pythonhosted.org/packages/b6/a9/78663760db718b56caf263792a1fb69be360fa50fe59265f669b9d2b3fcc/plonetheme.mimbo-0.4.1.tar.gz"
+      }
+    }
+  ]
+}

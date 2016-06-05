@@ -1,0 +1,97 @@
+{
+  "latest_version": [
+    "0.8"
+  ],
+  "meta": {
+    "description": "Adds support for using money and currency fields in django models and forms. Uses py-moneyed as the money implementation",
+    "homepage": "https://github.com/django-money/django-money"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "d2d9a0785721f8decda58b3b6c070d8b67774099bbdacc16cd2ec92c3232ee86",
+        "url": "https://files.pythonhosted.org/packages/a2/e1/4fe4b32f42c5e678881362a40be3798c7244689823b24081c67bdb265441/django-money-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "b4ae51b76dfb4435e3f8a6f2c867e85841e2e4a5eb346d7485c007b666693454",
+        "url": "https://files.pythonhosted.org/packages/e8/95/d57f58add2334faf55ec7ccce9566b706e12d5f450862469d50fbd483560/django-money-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "a83b17c623d02b7d9313d8cf5099e67bfddad8adb602e5703a40c95553921b8f",
+        "url": "https://files.pythonhosted.org/packages/e5/ae/557a7b47e4ca44c93c4e25985a543572b686723eff743d1dc51e192e35a2/django-money-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "e1f845f9f73df874fcf7a86567b99633b6690e9d7c71c63383fc8b18d8ba57ed",
+        "url": "https://files.pythonhosted.org/packages/c9/bd/c8b9d20d8dbcd6f21dd0baac750498543baeb5d109428971ee5916b86fbb/django-money-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "4856daa6c8f84a558117d7fe0eb40e3b3bdf390c38e799eea9a5044bd6693281",
+        "url": "https://files.pythonhosted.org/packages/cb/9d/c387732fac6af9620d9899810eb5f74c362bf1156e1345f7aa2511a9f451/django-money-0.3.3.tar.gz"
+      },
+      "0.3.3.1": {
+        "sha256": "45ce8ce4bb3dd893745bff26f40417f073dffa072b39f33b3ab9b0611888f436",
+        "url": "https://files.pythonhosted.org/packages/75/f9/996149e9a54afecf72f020e8e62673bbb87fb22c4b1a6c38ca21518e36c4/django-money-0.3.3.1.tar.gz"
+      },
+      "0.3.3.2": {
+        "sha256": "e8856202cd6d6fd673d4631b2ce06b7576301d40b2b0084e10284997b7d49f91",
+        "url": "https://files.pythonhosted.org/packages/b2/ef/08da08c705fe3c5ca417f6b6229ec7da0b8b831baef48bbad96ce2c54711/django-money-0.3.3.2.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "139cec51f48c1dbfd5fe6a564153c817e5851161ab8fdf76e7129bcc4a15a576",
+        "url": "https://files.pythonhosted.org/packages/eb/bf/737c2e871aa23243251bc22eb1c01d249d95721c9c8188f50adfdab75516/django-money-0.3.4.tar.gz"
+      },
+      "0.4.0.0": {
+        "sha256": "21e34e61a53622649cc159582ec1abf06d1afe279e000edb5b40c6681f19a216",
+        "url": "https://files.pythonhosted.org/packages/95/44/4d928ebe454b76df50655fefea73a6aaf32446794505d255899befc35b2d/django-money-0.4.0.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "9ca8ca3e8ac71cf2eb84cf2f4d28a042a5db1e2866d9abb451f36fa9f8b94227",
+        "url": "https://files.pythonhosted.org/packages/1a/69/b5ce7f9e4f2caea157f030b6653bbbc40afe0506ad500d6bbe161a12b5de/django-money-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "a80bcf92c3b637bfae2fd76e3b1eac935df16415d65962d3ab7ff71ec6bc5ac3",
+        "url": "https://files.pythonhosted.org/packages/8d/29/fd55559e72d001f577d9dcd92f1136e9e5622f0cb3abc6ab0541b2ad5dc7/django-money-0.4.2.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "4a9fbb91cc34926c8b1915237080d3008051527d03b739f39d8ad6eb562583e0",
+        "url": "https://files.pythonhosted.org/packages/38/36/21e2ee0f92f1fde325c103c31c70a01651fb563276891b9f52223cba7d4f/django-money-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "8e886ac1931ff66078ba11d3721a04c2765294b13debf770b6429038e77cbfa6",
+        "url": "https://files.pythonhosted.org/packages/cf/3f/44bda87775613d8189e3d1aae66c75519c4a0c860ec382bc57fe7be316e2/django-money-0.6.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "5942313ee1f8b7d1ef48eccaf6da8c1c67034925790cae65761904e9fd1da00b",
+        "url": "https://files.pythonhosted.org/packages/49/a4/cbea7c2295843e0e2208fd2fc8d0458d2891df9b99f5d1bc33432e30f880/django-money-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "f948f8d94c682cc211bf008b5a2cca47a59b0a58b3b1a9a0058af6ed9641a38f",
+        "url": "https://files.pythonhosted.org/packages/16/bb/35fe457c8eb05556638dbc070534eade8eb0bf9cb202f7d20147a0a93575/django-money-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "b814ccc1585d2d60d1fdac57d8caa875f79337b38817dd541eefa226da0061b2",
+        "url": "https://files.pythonhosted.org/packages/ab/67/0a41fd4bd5c4f16cd48745a92901909e88949914c12ebb1f29c36944cb70/django-money-0.7.2.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "cf62e2310ace30211b94039d0de33b01046a93f97815b7e0a194c63e126032da",
+        "url": "https://files.pythonhosted.org/packages/14/6d/a8665c05f1ad579d7761c22cc0ad3ec2fddded856e9ca08af21d269473ff/django-money-0.7.3.tar.gz"
+      },
+      "0.7.4": {
+        "sha256": "f8f77555e78477325d2a762c014e9ec863f6b7f4df0eee24e0268acfcc44b550",
+        "url": "https://files.pythonhosted.org/packages/77/44/304754ed81938e8e97ceb4d9070e92cfd898e67b026a6ff4197bd3234585/django-money-0.7.4.tar.gz"
+      },
+      "0.7.5": {
+        "sha256": "b48102c07c25aad59b1e0c02ab9835e0e56a05f5530051414757adb66f67cf0a",
+        "url": "https://files.pythonhosted.org/packages/99/7d/cda56fdbc0e81899d1c96d7860576e0627f28baa0b3996b8de4f7261acd4/django-money-0.7.5.tar.gz"
+      },
+      "0.7.6": {
+        "sha256": "3b843c7c8c87d8d08a752334cd6cc577bd7d9ef7b7466c5100f5daa44591b3d8",
+        "url": "https://files.pythonhosted.org/packages/e1/ec/b505dbc4432f99b62fed8cdc6eae7f4b5e09733beb293767cece72a4b2b3/django-money-0.7.6.tar.gz"
+      },
+      "0.8": {
+        "sha256": "43a36521357d3d542520b5b50894f8160665000f54915ba60ae0dca7237b30a8",
+        "url": "https://files.pythonhosted.org/packages/32/02/18dc3aa04753737eadd5d53a66c344897d2dc71ad5154d71921ea9cd1629/django-money-0.8.tar.gz"
+      }
+    }
+  ]
+}

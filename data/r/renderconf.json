@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "A tool for rendering templated configuration files from a variety of data sources",
+    "homepage": "http://github.com/slank/renderconf",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "e12ce18685be68a80eb5c5b8ad86e3ce1c8cb3306567e6fd884fa9a3f4adceeb",
+        "url": "https://files.pythonhosted.org/packages/7b/09/be52b195b95e773232cc21fc2c36498d0a0e7acbb214bad5bc1b491cfdeb/renderconf-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "4cc440d049968b6d95861505953dd6bc908e2992181116960e9f048bb038a283",
+        "url": "https://files.pythonhosted.org/packages/90/f2/c034eda669f7ff6c09719f4163d1c1594685efdb83292073bc2073b5083c/renderconf-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "45c996f826ef4ed4ad48b01c1b7486c014fd59ff72c442a276858ea7743afd38",
+        "url": "https://files.pythonhosted.org/packages/70/49/c0b55b4d5ee4c45dcdc74b692951548fb7bb54b5fa9046e840bbc48743e8/renderconf-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "fa237b3af88dfd2ce8050ebfeb85772e050c5c79642e7591fc9daa6be32285cd",
+        "url": "https://files.pythonhosted.org/packages/6f/54/d55d04566fd7adadbcae6e3e0dac00ff9571709843bbcf3586683c3ceb68/renderconf-0.4.tar.gz"
+      }
+    }
+  ]
+}

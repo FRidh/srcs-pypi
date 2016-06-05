@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Multiple Hostnames CDN support for Plone",
+    "homepage": "http://www.simplesconsultoria.com.br/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "88725c282604e4b2e344e6b49e5523d8b30f3a068d21b3f8fac82c46432d2a4f",
+        "url": "https://files.pythonhosted.org/packages/5c/34/a28ab348596f1000d91237edf9d8bf5df072bc7f3fb103832a44971a518d/collective.cdn.multiplehostnames-0.5.zip"
+      },
+      "0.6": {
+        "sha256": "615a028c8d380ded772039c515d4c58c58797ff6bc170d4e722680182c51d540",
+        "url": "https://files.pythonhosted.org/packages/0d/07/2b4e633168340b87e6061a88b92fbbb38588d89ac7936ab5c47d7aad4122/collective.cdn.multiplehostnames-0.6.zip"
+      }
+    }
+  ]
+}

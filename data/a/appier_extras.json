@@ -1,0 +1,646 @@
+{
+  "latest_version": [
+    "0.6.12"
+  ],
+  "meta": {
+    "description": "Appier Framework Extra Elements",
+    "homepage": "http://appier_extras.hive.pt",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "baa563a411fcae359a3470450909b96399ab97a38fdcbb6c184e51996365b7d6",
+        "url": "https://files.pythonhosted.org/packages/96/24/65820c0e9e34695ece007e325ef16611507397bfb224a87f82d7b47195b1/appier_extras-0.1.0.zip"
+      },
+      "0.1.1": {
+        "sha256": "187e53fe8055825bbed23fe93a43c8bf71e334f402caf4c5ab26c48c93bf357e",
+        "url": "https://files.pythonhosted.org/packages/5b/2a/85f3a77d3705daa642bf04774bfed8b01dd0781c6471466ae0db54738d5c/appier_extras-0.1.1.zip"
+      },
+      "0.1.2": {
+        "sha256": "534a4ceec4cfc6e64edda59651973b2a07124bed6ce73179a25bcd3d10b6dabb",
+        "url": "https://files.pythonhosted.org/packages/45/02/95ffdd1c73411563acdd7e753562ea71881e5d69d24d100047012462733f/appier_extras-0.1.2.zip"
+      },
+      "0.1.3": {
+        "sha256": "2e820a8574db13364e1e18bc3834bf72791c147b1975cb5ead12e27a9e502605",
+        "url": "https://files.pythonhosted.org/packages/66/48/16c02dddffa54c4e4377bd1e8338b4cd70392b04d595caa53408cf561e29/appier_extras-0.1.3.zip"
+      },
+      "0.1.4": {
+        "sha256": "6bdb35e9dcb07bdac3b209e3c07e695c78aa3ffc711b6960352a28ad494d0e7f",
+        "url": "https://files.pythonhosted.org/packages/bd/0d/cb446b21dcc8945d255cf47e6ee8451132ccc1bb740cdb5ec1f203f939ea/appier_extras-0.1.4.zip"
+      },
+      "0.1.5": {
+        "sha256": "3858a8de4940986835414f71991efbb97affe7ac2a2a23bc6f617a2042596d9e",
+        "url": "https://files.pythonhosted.org/packages/94/9e/e0537c7279c9746a8d6773a499341d219fcc2d509f340473b2468b37a451/appier_extras-0.1.5.zip"
+      },
+      "0.1.6": {
+        "sha256": "96e004b9e257bfec8d2d1f9c0ef4e0f6e0a71aacd2e7a6a7c5da50c1ee0a92a1",
+        "url": "https://files.pythonhosted.org/packages/57/ad/6962094053a6c21182879df747f08c758eccc73ae1f608898bbbee8a8a25/appier_extras-0.1.6.zip"
+      },
+      "0.1.7": {
+        "sha256": "c410b5b88a8705397f7410edefa52d3d5eef65edb53a8ab18b0825e401e94ef8",
+        "url": "https://files.pythonhosted.org/packages/60/29/9eb15095235d815ceecc68f734b50b70db119ebdc72e76cf9fc6f5b45d65/appier_extras-0.1.7.zip"
+      },
+      "0.2.0": {
+        "sha256": "047da8c39251cd0843deb8dacc128e37f95a59cd7d3c7b8b99a6880f18f2a70d",
+        "url": "https://files.pythonhosted.org/packages/d1/5b/0c71926163fe5f7e9cc6b26ff4563c0a990b14247220cfccb6fcc9f1c1e3/appier_extras-0.2.0.zip"
+      },
+      "0.2.1": {
+        "sha256": "2477a45d144b3dc8c3cfc625daff83531f57cef6afbb7d60cb0384fb0ff698c6",
+        "url": "https://files.pythonhosted.org/packages/73/80/d261a84e80ff97769b81e6b854213bddb0b6953ff2edfaa4111873fbc5a4/appier_extras-0.2.1.zip"
+      },
+      "0.2.10": {
+        "sha256": "494aeb1c14a6e12045018ede4d10464ac8cab2c9f95ffe743ffbb893e97ce2f1",
+        "url": "https://files.pythonhosted.org/packages/11/18/c0d58be6c8a993385b78873df2e3db01cf4673293db741c5f90278c05eb6/appier_extras-0.2.10.zip"
+      },
+      "0.2.11": {
+        "sha256": "ebbec483c5350d110452744a83b375f57d71fbe04b1c11df94a2f4563f90f17d",
+        "url": "https://files.pythonhosted.org/packages/d5/b9/11b2b304863cbb2b3a7e9cb903499be608f21ed0c89d81ec15debfa41ac5/appier_extras-0.2.11.zip"
+      },
+      "0.2.12": {
+        "sha256": "ed2eccb0d82a55491a4cc1f189226424bf6a04a4d28a134c7285071d79a78be6",
+        "url": "https://files.pythonhosted.org/packages/39/b2/a82dbfa5d59cea9ae85336b9c1f836b3da0a73679bf38472df49749297c6/appier_extras-0.2.12.zip"
+      },
+      "0.2.13": {
+        "sha256": "93ac9a85a7cb8a700b87ee21257461fc15d9ea7a0a4f901b865e82361a5275a3",
+        "url": "https://files.pythonhosted.org/packages/ce/06/65bd08c095a11deea67975e9cf3567a5684db7ed17f364d1c96696ea02ab/appier_extras-0.2.13.zip"
+      },
+      "0.2.14": {
+        "sha256": "30d475d11709045553749b24c8779eb9095621fb855d4072318354105830d80f",
+        "url": "https://files.pythonhosted.org/packages/8e/0c/0670cebd2eae7f11e23ad0d1beb9b16afe364b633ae92ed897c93a629ec6/appier_extras-0.2.14.zip"
+      },
+      "0.2.15": {
+        "sha256": "edd77c4ca870d76ca3cf5773b7c6982226960f127e6fa09eaf3299f71696249d",
+        "url": "https://files.pythonhosted.org/packages/bb/f1/f4103f53f930a5dcf8466528ebf13b95e5a5c809ea8f548f420b72bf85b1/appier_extras-0.2.15.zip"
+      },
+      "0.2.16": {
+        "sha256": "1e5fe082a608214982385b471427171f26875937d3f11dfc8f1fc02abbf36f90",
+        "url": "https://files.pythonhosted.org/packages/2b/cc/4c3764cd82a6e6701e1a9d2a403a7be04145b857a3f3fa7977e01a9c7d91/appier_extras-0.2.16.zip"
+      },
+      "0.2.17": {
+        "sha256": "6e8bc03a4629fdf7c0d247871d88eafe3958f24f285ddfd01f2e8c5cafddfc54",
+        "url": "https://files.pythonhosted.org/packages/06/78/e314ed96d19ca790f7f78bb585a96864b09c47f6322c573ba3d88c246f6a/appier_extras-0.2.17.zip"
+      },
+      "0.2.18": {
+        "sha256": "d1eb2cbf53447d1ddf146eaddecf1b08aa05fa2f49d1bb83410b883ecf0c8805",
+        "url": "https://files.pythonhosted.org/packages/fe/36/9e4f3cdd96c00fe3ad2a1d5906fb9f9660f4f1d6c65da201e9d771a32910/appier_extras-0.2.18.zip"
+      },
+      "0.2.19": {
+        "sha256": "d3ef9eee7fece5f9afe11c6387de33d72482c24d1cc58a7c5f39fcb7316e7192",
+        "url": "https://files.pythonhosted.org/packages/36/ca/01ece771b22cc69def450efbddabe5dc74d92f1b93aa0654074da7f11960/appier_extras-0.2.19.zip"
+      },
+      "0.2.2": {
+        "sha256": "4338efd51e00323c81cfe39bae728b71ca9e86edbac3d415f4f32649a28e509c",
+        "url": "https://files.pythonhosted.org/packages/b2/dc/26ecc1d5b82ec32f72ac63b77668ffa7c59068cb211f4eb4cb838fe3561e/appier_extras-0.2.2.zip"
+      },
+      "0.2.20": {
+        "sha256": "69b7b40f6b02c381b8764536b2e3949a1b0833cdfc41e0ff404ff57a229cc382",
+        "url": "https://files.pythonhosted.org/packages/6a/c8/2fa3a2502557884d20b3654eff4ff7bb4cf9f3bf382c3160bfad03ae8d7c/appier_extras-0.2.20.zip"
+      },
+      "0.2.21": {
+        "sha256": "d4bb372f9a920bc7b7a614c504f26bb3e825725ab1936a05b4374e28a318635a",
+        "url": "https://files.pythonhosted.org/packages/b0/6d/151b08090a5852264983c3d5a2c3cbbaceea4d6040f34e7fda4618147aee/appier_extras-0.2.21.zip"
+      },
+      "0.2.22": {
+        "sha256": "3471f1ac4563433f63c4e1248b67ab018ebebcc2bf90fc9368d175a34d37e895",
+        "url": "https://files.pythonhosted.org/packages/09/ea/2f20efee9c6db0e6cd57c28ef093a692c44dfabba0611e0c83dfa03c29d0/appier_extras-0.2.22.zip"
+      },
+      "0.2.23": {
+        "sha256": "8b1be14dfb62899653d474be6aac96da641392f0692b21a236a8be6cf542ca2b",
+        "url": "https://files.pythonhosted.org/packages/f3/53/39a8e6c57a3df396b60d81a61c2f95e60962398caa66ae56a4c0e655a3ff/appier_extras-0.2.23.zip"
+      },
+      "0.2.24": {
+        "sha256": "ece678c8b391ea45f5ad8cd499aee8bc9ff29731fd8c6909d429f20c5d07bb6d",
+        "url": "https://files.pythonhosted.org/packages/06/7d/afc6465779971901f11bb613ccdde633e3c725caa63c08c1ff29cd504808/appier_extras-0.2.24.zip"
+      },
+      "0.2.25": {
+        "sha256": "63d09766f18d5468823d290a178fe522467d1207582a02d30428cce0e1636f48",
+        "url": "https://files.pythonhosted.org/packages/52/e4/eed646eff14b42c1cc54bacb066c1dc623d7c45080c316da93ed5523ea62/appier_extras-0.2.25.zip"
+      },
+      "0.2.3": {
+        "sha256": "e0e719b81558adbbd14208dcb4c0e5b8215f002831aaf2b9f4675baacbb8105b",
+        "url": "https://files.pythonhosted.org/packages/7c/d9/12ae44eae9ce5de1c1ef24c2be5f9a5aef09aeaa5306a78edcbda26b39c5/appier_extras-0.2.3.zip"
+      },
+      "0.2.4": {
+        "sha256": "1b284733c7f8e6a23b2553353593417724afc9c429c910e471bbd02ff322b421",
+        "url": "https://files.pythonhosted.org/packages/87/35/232eeff0196f4124f115de5c36e4a976d919d26a05726267a37eab189b28/appier_extras-0.2.4.zip"
+      },
+      "0.2.5": {
+        "sha256": "6e6b7ca9f610df0a3d1ded2964229b8d36ea0558574e93c01478093154b43984",
+        "url": "https://files.pythonhosted.org/packages/a7/91/3538342b3fb79e1f32151b8e7deba5b495fbd661bfb55030000e348b65ee/appier_extras-0.2.5.zip"
+      },
+      "0.2.6": {
+        "sha256": "364d6172ae60c3aa96da1d12c844a924020041f1fbbc2d09c6b2347ca3441545",
+        "url": "https://files.pythonhosted.org/packages/44/3d/f760a69817a06462e97a4b27193db55b081e13102a79373fb3b8dab02da7/appier_extras-0.2.6.zip"
+      },
+      "0.2.7": {
+        "sha256": "f92f5178d8e38db8ed1bbc60f1a542c447d74d8de1b2e22bec381de0b999460c",
+        "url": "https://files.pythonhosted.org/packages/7d/a4/76143cebed7cfab32f7ce1dce86bb2d46b62463067337992caba6ee25116/appier_extras-0.2.7.zip"
+      },
+      "0.2.8": {
+        "sha256": "c814e05c7b479c60f79f80851c2ae9cf1394c4100e27387117b425d1f8f2da20",
+        "url": "https://files.pythonhosted.org/packages/da/26/c1ffb4926abc47cb7f1744407a4b37f531284eeba524fbc986b4a3645707/appier_extras-0.2.8.zip"
+      },
+      "0.2.9": {
+        "sha256": "8663c8dfd618b4916710e9272a06343da54effa24fe3aa1bd6d5a00cfbd00456",
+        "url": "https://files.pythonhosted.org/packages/f7/7c/eabf21529d7c441bff188ad6831d3917372427da2a7d696f4c06c91aa91c/appier_extras-0.2.9.zip"
+      },
+      "0.3.0": {
+        "sha256": "f7a6df138b3f19d3cf5f2a1debaf1ad72d425f4e18a98c330f4dd8a55645ee9a",
+        "url": "https://files.pythonhosted.org/packages/6e/88/11dfd9b4c776afe422f44f8927bbab1f14819d9eb561325b2734a2aed3a1/appier_extras-0.3.0.zip"
+      },
+      "0.3.1": {
+        "sha256": "7600772d12589c1a21e60a479c6b02ff3f5413e1284b97b13f2e7aec1abb5e0e",
+        "url": "https://files.pythonhosted.org/packages/89/d8/d9d872852a7b9d81e70c84f08580e873f47bb8a9ef6f9f63dee89536a762/appier_extras-0.3.1.zip"
+      },
+      "0.3.10": {
+        "sha256": "91cfb5adf5c562ee86d4468319da1b794c0a6910699f538d1faa69b852e20138",
+        "url": "https://files.pythonhosted.org/packages/df/f6/a80848dc6f019e2e19e6f9cd6195e6b96157551a13a068f99a7292159e5a/appier_extras-0.3.10.zip"
+      },
+      "0.3.11": {
+        "sha256": "b94b4258ce3503abecf529aa4ade804f22a4d5d7937ab6c8dad3c49a35235c6c",
+        "url": "https://files.pythonhosted.org/packages/1d/42/4edc3c72928829ad655b407e5d62440e4336e1567d57e6879227d79b0570/appier_extras-0.3.11.zip"
+      },
+      "0.3.12": {
+        "sha256": "4982d30fb326e9a508c7b10a8224a19cd7e8821240802b06d5c89f7607f29cef",
+        "url": "https://files.pythonhosted.org/packages/ed/90/e6778bceee4dea87bdea085b1f11ea4e98efde7d662d2429a898a0ace21a/appier_extras-0.3.12.zip"
+      },
+      "0.3.13": {
+        "sha256": "da934b4502e04b8cadc503a6cd66580978f604fe4c217770f0f37ab1d027dca2",
+        "url": "https://files.pythonhosted.org/packages/05/0f/07ca3b1590d4d45fb98affe7908f13eddc6d6a43d0b05a355229e3b686bd/appier_extras-0.3.13.zip"
+      },
+      "0.3.14": {
+        "sha256": "e7cfdcc587e57f7867835fba30445be2bdb5f6dd3a6d8584568145c09b7abdb6",
+        "url": "https://files.pythonhosted.org/packages/87/c9/fba4d4256e4d16078a4b1c04a3340d28241536c73400121e55c08e58447a/appier_extras-0.3.14.zip"
+      },
+      "0.3.15": {
+        "sha256": "f591d5d488705023f80759673ab251134e3206a71931f68e908c7e751efb7b24",
+        "url": "https://files.pythonhosted.org/packages/68/b4/9f46d311285cc4930b6a4a8511bdc2839dfe1944ec78b56a45966ec499f6/appier_extras-0.3.15.zip"
+      },
+      "0.3.16": {
+        "sha256": "d1103bf0d308393e50c333ff765466cc4b11aaaf1f7a02c89c2adde7b94dd2f7",
+        "url": "https://files.pythonhosted.org/packages/51/5c/3c97a555d418c840db173a8b3b0d45ac4c923dbfd832ee9364bcd0ce88d8/appier_extras-0.3.16.zip"
+      },
+      "0.3.17": {
+        "sha256": "a7a0b5efd5df389f7517942d875187700a48e562bba78611f6da24a8242ff75f",
+        "url": "https://files.pythonhosted.org/packages/01/67/36fe09f767b6fdb43bc6b28829bb271fdff844e0c0e5f7403ce9a1ae2184/appier_extras-0.3.17.zip"
+      },
+      "0.3.18": {
+        "sha256": "d0a98c7efc0b5396fdb0dfd40aef55892feda20b18e97e8f411afd3e40f7fdcb",
+        "url": "https://files.pythonhosted.org/packages/af/8f/07b1a36679898c5510f23c98e9bfbc0413ad1c9a19157b3560d2bf3dd56d/appier_extras-0.3.18.zip"
+      },
+      "0.3.19": {
+        "sha256": "4d488087eba5052683e2e6e4499cdceae4e1657c73a3ad4d7e3a40090ab59047",
+        "url": "https://files.pythonhosted.org/packages/9f/79/0b95d903bfb8d95002950c44ce7ecab66f1d4e5b0e2ddfa9d07416455186/appier_extras-0.3.19.zip"
+      },
+      "0.3.2": {
+        "sha256": "dd33e4a333833e0a357b2a6e7bc47d7b353eb416415d37ee7dafaea4048d4bf3",
+        "url": "https://files.pythonhosted.org/packages/f7/c1/882164603fea67d91c3e042674b62f537988ec12d67fb0e654efb2fe4c08/appier_extras-0.3.2.zip"
+      },
+      "0.3.20": {
+        "sha256": "eea38e889bd8953fe5090c3503649fbb1cd0ada3449433bde9b9943464e6ae3e",
+        "url": "https://files.pythonhosted.org/packages/00/f3/d81591c4df25e8be137b52e10809f01fec618dfedaf027d2e6a267d6f179/appier_extras-0.3.20.zip"
+      },
+      "0.3.21": {
+        "sha256": "9f7b69fd670fb9458082bd98473b2601ec081a5096f7801285baf1a2a62cbaad",
+        "url": "https://files.pythonhosted.org/packages/92/66/b7fb74515863e8bedbc554d14a209bd1ffb4579c2d5a1524a170a3c0cae9/appier_extras-0.3.21.zip"
+      },
+      "0.3.22": {
+        "sha256": "9bdaf7b803fccae9e20169c05019cc4197d8029ce6178365873a58d64b5a3928",
+        "url": "https://files.pythonhosted.org/packages/a9/03/d687742f4b9bb26515d63524d441984ffb11aec7c86812a3e85afc2ba2b0/appier_extras-0.3.22.zip"
+      },
+      "0.3.23": {
+        "sha256": "2549d2cef7047a4908462000ac287230a07f86150f2d547b4212d8bd2e034dc2",
+        "url": "https://files.pythonhosted.org/packages/38/48/bd895aed786387db72f1c606b7f7a245c035912839a4f69cfdfef4393a49/appier_extras-0.3.23.zip"
+      },
+      "0.3.24": {
+        "sha256": "53ef1336dfd3c4f7cfc353b9b67601e5fef1804debce3a875771f059934c5541",
+        "url": "https://files.pythonhosted.org/packages/ba/fa/f7e563dca71c30cddbf2ff1cb497aeb258ca938ef7dcf6181cd8636bb7f0/appier_extras-0.3.24.zip"
+      },
+      "0.3.25": {
+        "sha256": "b5c645ba543bc12bec183234c7d67dd4f231784fbc0c6d6299d114155371310f",
+        "url": "https://files.pythonhosted.org/packages/4d/f7/d67d79b83931008dad75a9193eb310ad2519b102ef23d8f86b3177be5630/appier_extras-0.3.25.zip"
+      },
+      "0.3.26": {
+        "sha256": "45e00522846b4ca2d3085d0715e33707c28f59b37d0ece6f79e0dbed13133304",
+        "url": "https://files.pythonhosted.org/packages/48/6d/cc9ee33964b70149a0ff14472da4c9daab1870c5e691ad7372bd6e2eee34/appier_extras-0.3.26.zip"
+      },
+      "0.3.27": {
+        "sha256": "00bc12c1a763f83a8596e562e6f25015b2d994c4beee937c2820fc30cf58e69b",
+        "url": "https://files.pythonhosted.org/packages/b6/84/587fce1ac0b6a1aeac704849f4044714e6234e7a0b7fc75b9bfcaf50718b/appier_extras-0.3.27.zip"
+      },
+      "0.3.28": {
+        "sha256": "7c2b119015cd89b3e5002c448716882ff3b8a3c5aa2c798d050193528e94cca4",
+        "url": "https://files.pythonhosted.org/packages/70/2f/3f019ef72cf81a9979ce54ec4bba1022dc0138540e3b85b29a5aae64a02e/appier_extras-0.3.28.zip"
+      },
+      "0.3.29": {
+        "sha256": "b0daca96e6a68a9ba67d7198b2f357607a9b244ad62c6f39b578ad325c3d9fb5",
+        "url": "https://files.pythonhosted.org/packages/fa/ca/d750e5e3a1d98af9b6ac5eabfb8e9b01a543402ff162adad9531d50547a8/appier_extras-0.3.29.zip"
+      },
+      "0.3.3": {
+        "sha256": "67cd73e302f9dc1daf4caadfd6208e7a76392a7b77f9854ae2f1dbcb1a853c4c",
+        "url": "https://files.pythonhosted.org/packages/0c/d4/ba46be19332461a0fe7fb59db76f97ac8029965f0441950569eebf13289e/appier_extras-0.3.3.zip"
+      },
+      "0.3.30": {
+        "sha256": "52ba39315d8be3a60e819e3cbfac7c01efdde29975897f4cda87e075cc30e71f",
+        "url": "https://files.pythonhosted.org/packages/65/95/8aecfbfbf25cbab1eb6bab43b31c10b13daea275dab8f49b9718c744bf5b/appier_extras-0.3.30.zip"
+      },
+      "0.3.31": {
+        "sha256": "e256d864e67265feeffc472936552fdac69b0d21ace531678273590db9eb9bf9",
+        "url": "https://files.pythonhosted.org/packages/03/54/a81a1a59f84a2d4b9c4201e2ddd69f63ff51f1df9dd92c257f705fc33ae4/appier_extras-0.3.31.zip"
+      },
+      "0.3.32": {
+        "sha256": "ce8532ebac31e39bdea26469e0b1eb0dd2168d5a8e464b16bbc95f6f17499320",
+        "url": "https://files.pythonhosted.org/packages/b5/0c/e5c7b16d7c352a8329fdd5f689cced5b470ad455efea784aa0d96e857ad5/appier_extras-0.3.32.zip"
+      },
+      "0.3.33": {
+        "sha256": "a417e9f3c933a494acda9c402d3d9274890da1a320689a90730a91de7879d3ac",
+        "url": "https://files.pythonhosted.org/packages/3c/71/b75fd0daed2d3830bbab17ac684bed4256754c0e1e030315fa8d2a5d9e5e/appier_extras-0.3.33.zip"
+      },
+      "0.3.34": {
+        "sha256": "f7a2eed6a1704fa495686483a80f76281c3de3adeecad0a68d2695d350aa1612",
+        "url": "https://files.pythonhosted.org/packages/ac/79/c955ae3ea331bd7227b5bcb904e2fee9f1bfef17a1c93167d63d46bd15de/appier_extras-0.3.34.tar.gz"
+      },
+      "0.3.35": {
+        "sha256": "509f4fb7e5f8c32fda43223bd8f275c64af5524c64bd6931a23769d658806c01",
+        "url": "https://files.pythonhosted.org/packages/cf/1c/60ff7cbc88c6367ef7d82f053cc3f5e12144a74762177e670790bd0fa4ee/appier_extras-0.3.35.tar.gz"
+      },
+      "0.3.36": {
+        "sha256": "8abb86a3e5d1e49a751da45961fb2643a5ff2f0ea38028b8c61ab1a5164d95e0",
+        "url": "https://files.pythonhosted.org/packages/3e/aa/fc14a07da394cf0612efaa98607b9a5eb8938cf824d026d79a493e5316aa/appier_extras-0.3.36.tar.gz"
+      },
+      "0.3.37": {
+        "sha256": "3c29462eaff91ca751b25b673f53b844324e61f424b533b3967a24ab26222544",
+        "url": "https://files.pythonhosted.org/packages/e1/0e/1ff031392daede206f7617778efcfa32fd7fc7e63bb4b190e186c7a6c5ec/appier_extras-0.3.37.tar.gz"
+      },
+      "0.3.38": {
+        "sha256": "8bd0e2ef736c63c539d32db31615e3e09b625e04bdc742f278c2448b82e7cee1",
+        "url": "https://files.pythonhosted.org/packages/1b/8b/dd6a0e18448ecfee88081e9d5393181fe100bceb9342c50e487fc700e8b7/appier_extras-0.3.38.tar.gz"
+      },
+      "0.3.39": {
+        "sha256": "6a236038b5f9a60f7291592f608f0b9fea334d15c41bc56af1188669e40118f3",
+        "url": "https://files.pythonhosted.org/packages/2b/a9/7ba638145c05f43d699805f2d997ecf1e4741bdd47b7379a1f5e89aaef32/appier_extras-0.3.39.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "d4ef66b43e8f18288b3f68c4d558b97ec9533ed2b9e9840740824266566752a0",
+        "url": "https://files.pythonhosted.org/packages/35/b4/f6352d86f3e5c353721a13f65fe741459b0d28a7ed5f9308d9012ce62746/appier_extras-0.3.4.zip"
+      },
+      "0.3.40": {
+        "sha256": "eecba5b6cd9e332d1673457c9da0d65e56bfb783f8ee6afffdc564b84772da48",
+        "url": "https://files.pythonhosted.org/packages/8a/05/a1edc9aaf0835fba4ff789f27d2f8eb95ab35f1a9196cacaa10aa1ab716a/appier_extras-0.3.40.tar.gz"
+      },
+      "0.3.41": {
+        "sha256": "ad5d37fe5c0697552bcb0500c63ceb89d357399aadd5af867dc361ab1554f6d3",
+        "url": "https://files.pythonhosted.org/packages/53/73/60550660a9097f8f163dc553ea6cb6c7aff95947e7674f0e4649114d7ad0/appier_extras-0.3.41.tar.gz"
+      },
+      "0.3.42": {
+        "sha256": "614b2d9d8df398b1829a2a931ff91d9e6a6d442be882d2632b6df0ec24fb84c0",
+        "url": "https://files.pythonhosted.org/packages/c3/fc/dd7f494aa142ff990c5a0cc3788dec1bf0764d7233200b3750967041634a/appier_extras-0.3.42.tar.gz"
+      },
+      "0.3.43": {
+        "sha256": "f7c096c98b6a156f8c920fe780b1dd6b300054b5d59e241ae7e8d74e95e456d8",
+        "url": "https://files.pythonhosted.org/packages/65/91/6e573796cadda6a48de12b309a7b813fbfc127d1a170202da43f3319b357/appier_extras-0.3.43.tar.gz"
+      },
+      "0.3.44": {
+        "sha256": "49873eb9837e9b4c9200aa1e5ace2d5590970ac25e6b7554e832e4685e2a3b94",
+        "url": "https://files.pythonhosted.org/packages/80/96/f186bea2b70bce7b300a3d3112e495038dadfd4a4b24a723adc28055b23e/appier_extras-0.3.44.tar.gz"
+      },
+      "0.3.45": {
+        "sha256": "e0a74acc4f8f6c3ce85dfd790930f83151268d9a1a15aa8fd1bc675f7892c412",
+        "url": "https://files.pythonhosted.org/packages/25/0c/3e7c534891242a8fd844f0d67eb7a8e5da6321d54b7261e39337675ddd80/appier_extras-0.3.45.tar.gz"
+      },
+      "0.3.46": {
+        "sha256": "42414bdbeb0196ac89f60ece3551f2a510372f607abc1834ba83ce35712da7bf",
+        "url": "https://files.pythonhosted.org/packages/c9/9a/692c8a253216c730137f7594239edfabf016c54ac31b1887215cb41f475f/appier_extras-0.3.46.tar.gz"
+      },
+      "0.3.47": {
+        "sha256": "fae189bb6885e63211262c9f30d736736d65e887c2b70226456d8b7c6f25b9b6",
+        "url": "https://files.pythonhosted.org/packages/14/32/07b3697a6f4ed26f9bb6387a955ebdde625c73bec18b4351932e7f5d2664/appier_extras-0.3.47.tar.gz"
+      },
+      "0.3.48": {
+        "sha256": "41f9253f1eb30de1e442e1a084cc790062ba69dbc81447b1af8ddb2588b55471",
+        "url": "https://files.pythonhosted.org/packages/fc/1e/6f345c891af88970345dbd6ead0f868df3b520737fcdcea874943fd56d32/appier_extras-0.3.48.tar.gz"
+      },
+      "0.3.49": {
+        "sha256": "79d883d3a7e4dff7202065a85f75ed07afa48839f16874f42034bcc2bf79f4aa",
+        "url": "https://files.pythonhosted.org/packages/a8/90/eda00b4682b1260b80300b8651d859918e5171e1ffc1fa0f1dc3b420cd3c/appier_extras-0.3.49.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "2a630f0e33d36bd204be70ef5ee7653bdb1cc2418c0ced48897d78b052f9520c",
+        "url": "https://files.pythonhosted.org/packages/84/48/98c3b8314083419ba78c4f714004a94af046e05935a6d708da2e381ee605/appier_extras-0.3.5.zip"
+      },
+      "0.3.6": {
+        "sha256": "04c24e0dc43a56879eac68ef0936287252f5400862e00c1f0d8d773447d996e8",
+        "url": "https://files.pythonhosted.org/packages/d0/3c/958232407dbdc1a43ff246e7644df3eae75b29d3506eed0c48cc136a07f7/appier_extras-0.3.6.zip"
+      },
+      "0.3.7": {
+        "sha256": "7fc235473aef83e1300164c904a81df50f991cf3457abc49f95a8d2389ca6c8d",
+        "url": "https://files.pythonhosted.org/packages/74/66/5e7211ee2d1e37ef52f273741b562fb2448943332682573071d939bb0280/appier_extras-0.3.7.zip"
+      },
+      "0.3.8": {
+        "sha256": "a9339a4b352778648c93286e37958553b8b0dd32d4dae4346a454f0ae00f0d8a",
+        "url": "https://files.pythonhosted.org/packages/5e/a0/83727fcee4ac888d57d211b3d2992c5f5d11d34e7006b255e3d87189c03d/appier_extras-0.3.8.zip"
+      },
+      "0.3.9": {
+        "sha256": "8aedb96e2beaab8cc57f25ebc4974b5981350dc3e6166450965c113f8b86a4f9",
+        "url": "https://files.pythonhosted.org/packages/ac/20/880d40661fc53beab4774f607d2317c072022a30a9cc85e5731a27e47376/appier_extras-0.3.9.zip"
+      },
+      "0.4.0": {
+        "sha256": "b3358d41fed2c47edc9a69270e9473318f390ea6dbd6d11e45813e8aed7b9a03",
+        "url": "https://files.pythonhosted.org/packages/24/86/e010e3552bb7afa2097c10734a251e6ab2b2cf054ee9f7a489621c268575/appier_extras-0.4.0-py2.py3-none-any.whl"
+      },
+      "0.4.1": {
+        "sha256": "c377ea22bbf70710a91a0f1b96e34c76222ca68c9710a9df0fefa6d6ef863e4e",
+        "url": "https://files.pythonhosted.org/packages/f6/d9/5234524da56a4868dd74890df9df9e8cb3f1345072673d5512314196b2df/appier_extras-0.4.1.tar.gz"
+      },
+      "0.4.10": {
+        "sha256": "293a2aca0ef68c6db9b90524a291cee34d7ef6c7ead3792b7eb5b01ccb7a0cce",
+        "url": "https://files.pythonhosted.org/packages/fc/c0/6fef6d4841e03656a3c87e3d67c3e99d7e0df426c24b6618f9c8cedef4f2/appier_extras-0.4.10.tar.gz"
+      },
+      "0.4.11": {
+        "sha256": "b5e8db5de3ab3f7b2003691b5742650c549b5b8fe61e21f41c738b0965863d25",
+        "url": "https://files.pythonhosted.org/packages/f8/25/d61887b756514e428377190ab9c25428aff216f6d5871d4207c99c8e77a7/appier_extras-0.4.11.tar.gz"
+      },
+      "0.4.12": {
+        "sha256": "f402958237cdab3b1fbaa33047de35113a99f58596f95108c079d1198a6ecd3e",
+        "url": "https://files.pythonhosted.org/packages/78/98/211c6d1cc743f4f038dcce314ce57010c19d055e944defef53e4949896f5/appier_extras-0.4.12.tar.gz"
+      },
+      "0.4.13": {
+        "sha256": "02d88fe1838e4f99d1e75741f469a44d0dc36b706b0978288d07aca14d7d0943",
+        "url": "https://files.pythonhosted.org/packages/9f/9d/b5c688a41e7397f84d103d9433d6c8c36ff145f9fb55412874f5c4acfc8d/appier_extras-0.4.13.tar.gz"
+      },
+      "0.4.14": {
+        "sha256": "b40bcf62dcfb2c517dd21eddb715df452e37d5031496d1fc09baed67f7edee2f",
+        "url": "https://files.pythonhosted.org/packages/ec/14/64cf4395a75e18fa67433caccc54174bff5ec2f8e64abef8839fa7a2eb32/appier_extras-0.4.14.tar.gz"
+      },
+      "0.4.15": {
+        "sha256": "bc5bf0f4b46e4abf08fb04c0214d58d2d4f18cce133fb9a9ff752b9d12cc20c1",
+        "url": "https://files.pythonhosted.org/packages/b2/57/4bf28cdf48368e53156a7f68f31456c13758b1aa29eb5a9302d46167c22f/appier_extras-0.4.15.tar.gz"
+      },
+      "0.4.16": {
+        "sha256": "49974d04f4e9d6d9edf2cb6b515db3485958bab5f85d3ad03af59cddcb6c1fc0",
+        "url": "https://files.pythonhosted.org/packages/34/07/cdda79c07e2f9ccdf8e02b9527c8a091c0d39cf39aa0cca3ec6b8b0438b8/appier_extras-0.4.16.tar.gz"
+      },
+      "0.4.17": {
+        "sha256": "dca7f22a16436e31d6bea123f6057e4d6c497376d20b8910d7595aa8a872dcc4",
+        "url": "https://files.pythonhosted.org/packages/28/b8/51f29a11997b65072d77120d1807214d9d2880dfa7060e4713b21543f327/appier_extras-0.4.17-py2.py3-none-any.whl"
+      },
+      "0.4.18": {
+        "sha256": "a0e33bee275e0146c33a873460b0cdfcccfdef2edafc237948582c33ab7337e6",
+        "url": "https://files.pythonhosted.org/packages/8a/cc/36be368fd5158eac4951650b7b056225a7f50ce859860e5f6368c1f12ca8/appier_extras-0.4.18.tar.gz"
+      },
+      "0.4.19": {
+        "sha256": "df770adbb3e7a39332924b6b809d89714f563c8ac69a86a877f315b47b01d4ae",
+        "url": "https://files.pythonhosted.org/packages/a0/bf/7c4f09524118cacb2187eb3ac5b4ce3742c10314690eacf28f6836803e6d/appier_extras-0.4.19.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "e11d3aa736af02c7b25c58c99c6fc3c9b43d0bbd8b56acc7cd4aae117a29e5ff",
+        "url": "https://files.pythonhosted.org/packages/fb/94/995af933f5f0ccb3f283e1adc5bb3453c9ab3bc6973406524a3c91e6687f/appier_extras-0.4.2.tar.gz"
+      },
+      "0.4.20": {
+        "sha256": "fab5db68f851c96b8d455c1f7db61516f442a50f503ff0653a47f7a75c33da67",
+        "url": "https://files.pythonhosted.org/packages/a9/19/cd822aa44b261319a62a24fbae1b4fac6e98029b13c5bdbfb9879dda274e/appier_extras-0.4.20-py2.py3-none-any.whl"
+      },
+      "0.4.21": {
+        "sha256": "7230032daae97d95dc93bd6f1b57e835a0eecd57a7e872c9b3831708bf31f4c5",
+        "url": "https://files.pythonhosted.org/packages/0d/bf/2d9f28650032f8d52ce612261b9628c6ee998b681a46951ed7de8052c886/appier_extras-0.4.21.tar.gz"
+      },
+      "0.4.22": {
+        "sha256": "329e7268ddd21d4cdfcd3ef070ff0dbf701fe9bec288806cf3c135119304e24e",
+        "url": "https://files.pythonhosted.org/packages/96/cd/bdca65f694a1486a86d8f057f372bcb469c35058f2ae3b649c3154333b9c/appier_extras-0.4.22.tar.gz"
+      },
+      "0.4.23": {
+        "sha256": "f36e02c0ef4dca75152097bb5e85382bc6f9375e0a02e48828fd4749a4560fe5",
+        "url": "https://files.pythonhosted.org/packages/90/92/6f03f29fac61a1da5b1a7df88acb3651255c0811daab92d4fa434d88b443/appier_extras-0.4.23.tar.gz"
+      },
+      "0.4.24": {
+        "sha256": "0e840ab067b32cd700cf52f64a4d7fa53ad6703895fca30ab9a435a9247f1382",
+        "url": "https://files.pythonhosted.org/packages/99/18/ad16f1b6ed2028500a100da8e11aaa9a273f9c71f1b755fafcdc84734eb6/appier_extras-0.4.24.tar.gz"
+      },
+      "0.4.25": {
+        "sha256": "25d3f85f314eefd015386efdc7d446946461339018fa5955012b87980220aca3",
+        "url": "https://files.pythonhosted.org/packages/f2/8f/0d32a8c5fdb7e2bec639fc52e0852e759eae9b9090a9405daeedf6e55377/appier_extras-0.4.25.tar.gz"
+      },
+      "0.4.26": {
+        "sha256": "526f3c5adb9f15d855505fa8e40b5cdc3ba0b97e076780af63d3ce935657ac8e",
+        "url": "https://files.pythonhosted.org/packages/8c/bf/578653d7684ea4a49f7b55947e8b2e35928d99e5bd55fe41f5121b99b33f/appier_extras-0.4.26.tar.gz"
+      },
+      "0.4.27": {
+        "sha256": "6663ab1d470ab779333be803f65559f1aff63ee03783c492186caa344ff3f59a",
+        "url": "https://files.pythonhosted.org/packages/4b/6c/cbcf10daf7bbeea3c6a224a8d5ba5e482801e8451ebe48845f3e686aa6c3/appier_extras-0.4.27.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "19c22712ea0197e8826c36cb8dc25f9f0ec8c911bd6264788bdf3359a0c25bbc",
+        "url": "https://files.pythonhosted.org/packages/cb/2d/9c726f3113ead59e1b5dc9a7d0449e677fad47399893850473522b254142/appier_extras-0.4.3.tar.gz"
+      },
+      "0.4.4": {
+        "sha256": "5c059e253ded27f1700958f6115b2c7c302c09f9cf97dfe463670d089ee7b727",
+        "url": "https://files.pythonhosted.org/packages/16/c6/1962a5e6225967b0eba51589190ac8d627ff811d95630186aa07229d0eec/appier_extras-0.4.4.tar.gz"
+      },
+      "0.4.5": {
+        "sha256": "b90739c17931e60386140a58117e934c53096c68fbc81ea19b2cb2d62c5a0112",
+        "url": "https://files.pythonhosted.org/packages/69/be/b27b8336a5b36d7eccd0d4930af367ef9a07110e09e5b920425bf0a17557/appier_extras-0.4.5.tar.gz"
+      },
+      "0.4.6": {
+        "sha256": "96d4cf73ef6a7ba7e5f3565a4cbc976e29d4e1f0bd9484c6a536dcd013608aff",
+        "url": "https://files.pythonhosted.org/packages/26/ba/2f72042a2b824b6d35d945fc9205887886c4462be73365bbe94b7410b754/appier_extras-0.4.6.tar.gz"
+      },
+      "0.4.7": {
+        "sha256": "80985fe1504b10ca9e9b49fbc5e141b818e5a9cdf8f5ff1d0840b5d166f01b63",
+        "url": "https://files.pythonhosted.org/packages/98/5c/499519110c8831634105b503ed381789631bc729ad333a5118c999a6caac/appier_extras-0.4.7.tar.gz"
+      },
+      "0.4.8": {
+        "sha256": "cc72e337e4e59bcd910ec7d4a6fb135ee36e99e409e3f08d14f0f113eb854913",
+        "url": "https://files.pythonhosted.org/packages/01/9f/36fd617577b7ea4c4b093f77cd35ae5975a5a69ce762b2de23526af139b2/appier_extras-0.4.8.tar.gz"
+      },
+      "0.4.9": {
+        "sha256": "56b1a9363b4a9af174da01b332f15a5b01739f84049a5f8e9cedf673a4b435d6",
+        "url": "https://files.pythonhosted.org/packages/5c/88/3ba35cb713dca9b91f44bbe6be8ca7ed18810e9ea417b332a5c617c0117c/appier_extras-0.4.9.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "590bdd7fe659150576eecd19452027d60416db89017dcde28b60e16e61cd2b55",
+        "url": "https://files.pythonhosted.org/packages/63/7b/36c807208fa578bd64c598ab57b9cd4d114dfa16053e7f28797691bb9f58/appier_extras-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "fb63813b3f258b34f5033e4f8dbc0b4aa273a6bd872f8060c61c0364e62961a0",
+        "url": "https://files.pythonhosted.org/packages/bf/e8/3b701346c5b9ccf311af6a296e2dca2dd7cbb91b5bd1c0fb8e2aeb627c23/appier_extras-0.5.1.tar.gz"
+      },
+      "0.5.10": {
+        "sha256": "5a28a0218ce613352958fd5fc6d1a0b7ec702146fd34f54903edbed42627245e",
+        "url": "https://files.pythonhosted.org/packages/a2/b7/600accf42a435eae6e67d31e33052eb245295335d73692c90ddaae29a65e/appier_extras-0.5.10-py2.py3-none-any.whl"
+      },
+      "0.5.11": {
+        "sha256": "735d5a5b6c57dbd195df7150048e5f7da87d0b3c9a4d65bb70a89f14a8f8812e",
+        "url": "https://files.pythonhosted.org/packages/81/23/cc6e36e2faafbbf44a33c2afc521fabcf73a9c148d26b3e18b01bebb94e1/appier_extras-0.5.11.tar.gz"
+      },
+      "0.5.12": {
+        "sha256": "bd49f6f952297133306e0b9cc6215e1bc53c91c2551d690a945f32d81898d1a3",
+        "url": "https://files.pythonhosted.org/packages/c6/54/80d526dacaf516393100c5fb5faf1bfd56ce928cfb2b9711f2e81dc092c0/appier_extras-0.5.12.tar.gz"
+      },
+      "0.5.13": {
+        "sha256": "9b24adcac37d16f4be533427986a9ff3b4fc67eb12cd306ac35180f8b764c460",
+        "url": "https://files.pythonhosted.org/packages/29/cc/c85ee6805270a8d7f2ad3d2d5453f80c5ba944aa4d14871300edcebb771f/appier_extras-0.5.13.tar.gz"
+      },
+      "0.5.14": {
+        "sha256": "02c0bf01c48ac1ddd303a854c85744ac2e3f5d8da5e29b0666b11eef4982e99b",
+        "url": "https://files.pythonhosted.org/packages/6e/e6/04d5b397291d5ad8d862fb0cc139dbe667f42526abb876100672cc86861b/appier_extras-0.5.14.tar.gz"
+      },
+      "0.5.15": {
+        "sha256": "ee5712a89b0b5a86096d142f5b755b39bb2765799c977ec52175eb804332d621",
+        "url": "https://files.pythonhosted.org/packages/77/0f/36106968ac7f872639ea969053cc2be3668f65c26456cd8ea92d887c8bbd/appier_extras-0.5.15.tar.gz"
+      },
+      "0.5.16": {
+        "sha256": "c6b3ab674e67c2de3a00beafec685c6936d97d41d717fd7d6b5481cb35aaf2ba",
+        "url": "https://files.pythonhosted.org/packages/75/06/8a80e1216a31db8a397688fe4732185717fa13012dd9bf8a95b03579a2c4/appier_extras-0.5.16.tar.gz"
+      },
+      "0.5.17": {
+        "sha256": "6d302b20d9c425f2183eec93c60822e4d091cf77df7429edc69132fc9d21253a",
+        "url": "https://files.pythonhosted.org/packages/e9/37/5d34f434dff6c53fec833307fdbeb8894880048ca4e89254c95a366d5855/appier_extras-0.5.17.tar.gz"
+      },
+      "0.5.18": {
+        "sha256": "b63bfc8a4050bdf8ad32c77b3793cee5e7250037a46de13d0213c8598514009a",
+        "url": "https://files.pythonhosted.org/packages/64/5c/3d4629549ddebe16602a7dc00eda8cc4a72607b0c529896037bcdbb87821/appier_extras-0.5.18.tar.gz"
+      },
+      "0.5.19": {
+        "sha256": "700a4a57b6db9d2dc9a2f4131c4ec28e2c94e987b1744415a2b5746055dbf9ee",
+        "url": "https://files.pythonhosted.org/packages/dd/2b/cdbb84a4a831e34d6e988778e0e891556d023c93fb2f7b0f4dcfb1e7ba8b/appier_extras-0.5.19.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "3ae34fb0efc67cd84c18c08da3f46ecd7afa77e8b3a87ab760448e91e1eb9d83",
+        "url": "https://files.pythonhosted.org/packages/0f/09/109f07b5958d726d0b40366c794cf3c0652ab9519d0cf133601cd0a398b0/appier_extras-0.5.2.tar.gz"
+      },
+      "0.5.20": {
+        "sha256": "2e7e9ed16c453fb2711130eaaec8987e27cd72a1f6603404b722a68779e1f6ca",
+        "url": "https://files.pythonhosted.org/packages/d9/be/48d7ef9e67aeafb4b50562790cb3d7e5fde2691c72fe94d053b2af30361c/appier_extras-0.5.20.tar.gz"
+      },
+      "0.5.21": {
+        "sha256": "27fd394a461892d31ce5eba0c56a29b02846d1331cb25b921affabae55963449",
+        "url": "https://files.pythonhosted.org/packages/c2/8d/65a1b78cc5f0a9a3edb6273df54630a0b0c358d9b9aac7cb3a74bbfe3045/appier_extras-0.5.21.tar.gz"
+      },
+      "0.5.22": {
+        "sha256": "6532978ab0ca39c2fc8d59b607f295584b21cf081a9c90ea036ae4fe63ce6d5c",
+        "url": "https://files.pythonhosted.org/packages/b5/07/8ec37fb572a4945fa027af26dea982b774ec21478852559eb756ad203b2f/appier_extras-0.5.22.tar.gz"
+      },
+      "0.5.23": {
+        "sha256": "ecc28c365080bdcfb6b9b378edb5b7dba599e6d75f0961d3c7af8163244cbd97",
+        "url": "https://files.pythonhosted.org/packages/f7/9d/4a65c4a2fa91626ea1676a36b53398e849f38691bb9cef97f87a07ea655f/appier_extras-0.5.23.tar.gz"
+      },
+      "0.5.24": {
+        "sha256": "a56f4e051b8c68c8515f935c12845acc97cd215a2bf822e8d41022535095da70",
+        "url": "https://files.pythonhosted.org/packages/95/b7/b1ddb8e63f4c14ef7b363ded99e6d1a7adf6cedab546f69490b9c783d573/appier_extras-0.5.24.tar.gz"
+      },
+      "0.5.25": {
+        "sha256": "010dbab3ccfeb63fe88bfe0c09e6be6e4a4c8ba149b265f0b0cc0aef50d0ea83",
+        "url": "https://files.pythonhosted.org/packages/6a/5b/7eb0f623d03846750bbcf22278645c892a6b178f417b23f382a933a0295b/appier_extras-0.5.25.tar.gz"
+      },
+      "0.5.26": {
+        "sha256": "65ea48157334323d94d529c6b172c9817892347dae6bf7b55cddf3509ddd2478",
+        "url": "https://files.pythonhosted.org/packages/16/45/9fd0136697bdf8c0a81589f430fe6cad46a1453d4a580f44d6866b3bf2cc/appier_extras-0.5.26.tar.gz"
+      },
+      "0.5.27": {
+        "sha256": "c41d7ad07ea86db52c7c2c0c2ad8786dac559d33c2bfb0bc8ed30230d6a083f1",
+        "url": "https://files.pythonhosted.org/packages/69/e2/c297069bdf726e3c8180a2cbdab4b6b7b3eadc3cb9ac75ebd573e9c3e6eb/appier_extras-0.5.27.tar.gz"
+      },
+      "0.5.28": {
+        "sha256": "4cc72b311d4901e76a1fc26d9b4630b2dcfe37a2f75a68ef171610fc3de800ef",
+        "url": "https://files.pythonhosted.org/packages/d4/a8/bb49ca2a48fd5520912d4237c87ce79f62e2d67f62f8e3006b96999bf70f/appier_extras-0.5.28.tar.gz"
+      },
+      "0.5.29": {
+        "sha256": "50adb2aa5e63043d5941f418104afd7cc08ba31f2bc71dae3d22c861d7c13400",
+        "url": "https://files.pythonhosted.org/packages/dc/21/0479e68dfc11acc9fc6e879fbf73459e4b9fc56e1dfc0ae269d93a97d617/appier_extras-0.5.29-py2.py3-none-any.whl"
+      },
+      "0.5.3": {
+        "sha256": "c4bbe957c8854aa10e956a058d56303af5ebe1b8c6e38637cc2236dac2d8089d",
+        "url": "https://files.pythonhosted.org/packages/a8/c5/c3aab7e3bf9953143779381d1316f9986b3e386496892c6964d4ded001fd/appier_extras-0.5.3.tar.gz"
+      },
+      "0.5.30": {
+        "sha256": "238a92a6edb32c37abe5c018e3c912b1c999a20299a6941bb8d72cee103a6947",
+        "url": "https://files.pythonhosted.org/packages/bd/65/2d08f2cd1630651d3bae76597a5cff0f213df36edeceed6a999d1ef2a50b/appier_extras-0.5.30-py2.py3-none-any.whl"
+      },
+      "0.5.31": {
+        "sha256": "8a02162022737642a36a6eed59e26f56b26cfb7feafb15925e265b7a3a419cfb",
+        "url": "https://files.pythonhosted.org/packages/e1/ca/f5c7e65572e8870f47a6b4d71fd47a290b6401a3945e7fcc0c65926294d1/appier_extras-0.5.31.tar.gz"
+      },
+      "0.5.32": {
+        "sha256": "1591c34d261e613641b3b33a9940f3ab65bdb31a92c3ccfd300769ecfecdee65",
+        "url": "https://files.pythonhosted.org/packages/35/fe/19036780b3883956f76401a445ad4aff5e1ed4d7a4af4fce1b2b4729a9ba/appier_extras-0.5.32.tar.gz"
+      },
+      "0.5.33": {
+        "sha256": "d1bdbbb1ceba749871c78ba4e3c3a2dcc10abe264b9c2b3d3ba964049b5f0943",
+        "url": "https://files.pythonhosted.org/packages/03/e4/3b9980050d63da8827183deb56c7252703b2a8ffb2964413a83c65fbd407/appier_extras-0.5.33-py2.py3-none-any.whl"
+      },
+      "0.5.4": {
+        "sha256": "a571a384ba3868f1a350b312c5071153b0513728d2070fc2482daf99a3811f54",
+        "url": "https://files.pythonhosted.org/packages/3c/7a/53c25ecf1ddeea3f4ec57d677d00193882e0e4b42081e0402ddf28338496/appier_extras-0.5.4.tar.gz"
+      },
+      "0.5.5": {
+        "sha256": "74f526fc7d891abc47146fca44ba6ad19dfe5e2fe2b56b85c79d4eee36403b6b",
+        "url": "https://files.pythonhosted.org/packages/1e/08/86459bb3adc846a4b05c35c7a893d3d71ee4bd1acd36da562145190a143d/appier_extras-0.5.5.tar.gz"
+      },
+      "0.5.6": {
+        "sha256": "66bd7bb32c316d1d835d4c71993e2369654a8f420cf73fa79242dfc7eee21868",
+        "url": "https://files.pythonhosted.org/packages/01/82/f3ed47dd5b79abb2bc09f2f29aed1f74c4aed28d70977207ac312fdb16af/appier_extras-0.5.6.tar.gz"
+      },
+      "0.5.7": {
+        "sha256": "bab2705a8c1d88835019960934b0d3154b99d8af63e5f8c861cc3fd73afa9aa8",
+        "url": "https://files.pythonhosted.org/packages/7b/fc/a7cf75a0a262fc4a1eab067f927b875d2394a82703109799c63d511f1e45/appier_extras-0.5.7.tar.gz"
+      },
+      "0.5.8": {
+        "sha256": "8af6b3e8cda119c093c37075dfe269805d0929e80ec03a172884c44365cab11b",
+        "url": "https://files.pythonhosted.org/packages/31/c2/3d9816da77f2f96bd835dc74ae9b340e1eb965c73e95e8425434a65c804f/appier_extras-0.5.8.tar.gz"
+      },
+      "0.5.9": {
+        "sha256": "05ab2ef92c98aebf56c28d855024693e61500334f25fd6e4612e44e7413d8b7a",
+        "url": "https://files.pythonhosted.org/packages/44/eb/01a4a2e7190db290bd0384f56fbdc175fd9aaa9d79e6a945b0926203d722/appier_extras-0.5.9.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "b4faf154b48e5caedfe88b60a7fce02aa9d9bc0cab5dabf550f221d8bdf66c41",
+        "url": "https://files.pythonhosted.org/packages/30/04/87eb16ce554d087bf7ceb79cc62ae5b02faadfcedb1bb541808987b04a36/appier_extras-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "7776d46d2bee879f81ada8b64db8baa5bd489acd66665458b758973266e88d5e",
+        "url": "https://files.pythonhosted.org/packages/23/59/e377998b234a263c87992837ca679208a44a9618ca16411425c9b4fa2510/appier_extras-0.6.1.tar.gz"
+      },
+      "0.6.11": {
+        "sha256": "cd92bb35ac0e4631c20e847c71f185e35b6a268018d210be6812f79e07b86b41",
+        "url": "https://files.pythonhosted.org/packages/83/53/e5eaf57c719a599ab54aa14fd511d880410a4c88fae68974cfd6533111ee/appier_extras-0.6.11.tar.gz"
+      },
+      "0.6.12": {
+        "sha256": "13e48a475a6f3efa6d0931d07fe756092df8e718fbbc605665dea113abdc811c",
+        "url": "https://files.pythonhosted.org/packages/74/73/e05ba5201c0df53b7c9fdd6a0eb7f55a82eff79f517c85450bba1b2a45f5/appier_extras-0.6.12.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "e5806a393c220190a1701fe809e3b3fcb8ab02221853f3510343fc3a6f6c37cc",
+        "url": "https://files.pythonhosted.org/packages/a7/8e/ca298d10cac66962fd1f643c4a2190e03c90f68541f22bf6dbe555ec9491/appier_extras-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "36a0933fa10adb05f1e75a7f6376e4c4b9b074bfd4c4f6cc14e30d8800668465",
+        "url": "https://files.pythonhosted.org/packages/56/08/1e2ea95b2da8a5b58f35ae8592838e1488fe4fda799fc381f26faedb75f6/appier_extras-0.6.3.tar.gz"
+      },
+      "0.6.4": {
+        "sha256": "a3561f5955854fc563cf194819bda9415e2422b48fbcf1b9e2eb1d69d16c375d",
+        "url": "https://files.pythonhosted.org/packages/6d/5f/adaa9b41c59e28bf06414f10d0185dfae9deb77a153344e5d8159dfa8e2c/appier_extras-0.6.4.tar.gz"
+      },
+      "0.6.5": {
+        "sha256": "bffaa57c95e64071cc9f10fdc41c19a997839653ccbc2a49044a2f2c17d325e0",
+        "url": "https://files.pythonhosted.org/packages/32/3a/9f482f0cdea426cfb7ede115554382621d8cab7502f92dfe34723c6be004/appier_extras-0.6.5.tar.gz"
+      },
+      "0.6.6": {
+        "sha256": "412fef9f6051273e9ea9f82df277c5dc1276a6ada7cad36505428f4272e93302",
+        "url": "https://files.pythonhosted.org/packages/2a/3e/ec7472c6160de8ef6bb8a48c6ff71486623506171ff79efc619b44efd90c/appier_extras-0.6.6.tar.gz"
+      },
+      "0.6.7": {
+        "sha256": "2e3bd47aa03ef7912ffe65d5a7faa91536d46187524a21867833d6bc8f7ff2b4",
+        "url": "https://files.pythonhosted.org/packages/f9/f1/e3c11b6b138c741ee5fcd89314475716d826904e98fcb0bc5a0c515bb8a7/appier_extras-0.6.7.tar.gz"
+      },
+      "0.6.8": {
+        "sha256": "4dfbb01dbc6c23ebc71ef2fc052637d15d51012a632a30cc9853c0ff54271ffe",
+        "url": "https://files.pythonhosted.org/packages/55/ba/2203008975a97d9863ffe091286e07fcba5a001ad2415b9ef677a52dcf03/appier_extras-0.6.8.tar.gz"
+      },
+      "0.6.9": {
+        "sha256": "2b0a7c0b6f96bf5d42f93859c142104e7c83234f50ab6c1f5c5fd4ff397fe265",
+        "url": "https://files.pythonhosted.org/packages/56/bc/83e956e4342c248b77ab3a5b508be90567759ba24da306ef90a3c5f0cdc7/appier_extras-0.6.9.tar.gz"
+      }
+    }
+  ]
+}

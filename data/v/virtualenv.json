@@ -1,0 +1,342 @@
+{
+  "latest_version": [
+    "15.0.2"
+  ],
+  "meta": {
+    "description": "Virtual Python Environment builder",
+    "homepage": "https://virtualenv.pypa.io/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.8": {
+        "sha256": "dc811a2827a30c9f00df839972445408d63abceaa65f17ebeeb496d2ada96137",
+        "url": "https://files.pythonhosted.org/packages/bd/74/91d324ddfc50b62aca6e44076384c6d448028e9d5f0ff12bce0430da0c3c/virtualenv-0.8.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "44014735127ae8ebac1a505449327de4c0907fc1852170bf7d42d4d9c202e3af",
+        "url": "https://files.pythonhosted.org/packages/8a/8e/44701300d201d9d3670ea412ad44772927d05702d0d540f851d8fb50f114/virtualenv-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "f7533f5e56f3ac451e071c26ced2e747b5d17bd5ebab9267511739ab681d21d7",
+        "url": "https://files.pythonhosted.org/packages/43/8b/db596e6719fb67c7a4f190fae6a42ef6123fa9533688544256b6fe3cb652/virtualenv-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "66a32465bc59f98c5c4518386fe1ed3c524ee1b10aef33fdb3bfaf2c33003f56",
+        "url": "https://files.pythonhosted.org/packages/91/9e/2356ac78bfa8b8a8b5afdd466fbb42128e87affa34e04f73a304ce9ca6cd/virtualenv-0.8.3.tar.gz"
+      },
+      "0.8.4": {
+        "sha256": "cd509835e252b85b4130915e05df313b0fd5811c0990ae75fd66094d11ad093c",
+        "url": "https://files.pythonhosted.org/packages/32/ff/c7626a9aca3b318aaa65d7a9ba1ae25f16e387626b12937f2a9a5429a253/virtualenv-0.8.4.tar.gz"
+      },
+      "0.9": {
+        "sha256": "f2a916c648cf705a68b7fc7a87c7803cb1c162bb0269aa7ca096783d3b26c69b",
+        "url": "https://files.pythonhosted.org/packages/78/75/50c0b8e087506bb737355e9b39812ea192c820bc5338cfdce6870480dddf/virtualenv-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "8a79231b6a0a2bcee2595f16e150ac4f8e9dbe57d932d786956e4eb0363d5ed8",
+        "url": "https://files.pythonhosted.org/packages/5b/73/e08ac8faf2acbcfc38dcf0361e6912a4f29501f4d492eed9b3e0a4813354/virtualenv-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "c423f2153c5629a53fb95c6e6bfac4d1de7a4dee2e912000c1dc665fd2697c2f",
+        "url": "https://files.pythonhosted.org/packages/19/d8/5a5a1a270240105e6214a68d4bf0b3ecd6a6d3d96bef272a28c4f29f61d9/virtualenv-0.9.2.tar.gz"
+      },
+      "1.0": {
+        "sha256": "70bd71debfbf4941dbb3f0213a9711de8e10d092ab84b87e81a1195aa823e6c3",
+        "url": "https://files.pythonhosted.org/packages/36/14/e228a004fec6fadc4705a0b37ee3949ea7a59cf758f4b4bca1ee22217e11/virtualenv-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "9ec20dec1ef4ab788cfd4866935c309828766c45bfebf25b12605ff36cadba9a",
+        "url": "https://files.pythonhosted.org/packages/24/43/6d567974c760f5adc603f65ad3581022be6e23874265a13214c2ad5e7a9b/virtualenv-1.1.tar.gz"
+      },
+      "1.10": {
+        "sha256": "e0851ef23c188c819d4f6de3e82521ab1f63fa80e154d30bd823afef73f341b0",
+        "url": "https://files.pythonhosted.org/packages/d5/5b/f425e456e017af4801bb08920e30c149a44ac0c194f2225bdb712e77701c/virtualenv-1.10.tar.gz"
+      },
+      "1.10.1": {
+        "sha256": "857449d69b9ec7d058dcc2e37c53d3895432300881aa61fd2ade178a807b0aa7",
+        "url": "https://files.pythonhosted.org/packages/28/c9/38247a08d6e4ae2cc5b961530581fb80f399b4be209bbfc41de9cf9778d2/virtualenv-1.10.1.tar.gz"
+      },
+      "1.11": {
+        "sha256": "c2cdd26de719760508ff1c440adbb058fce25a35b334a80e917d951d8f45aef6",
+        "url": "https://files.pythonhosted.org/packages/00/02/c9e25efbee0cdb78135995f82cfe58e33b96ea2ac7be0658a59ebb7a15e6/virtualenv-1.11.tar.gz"
+      },
+      "1.11.1": {
+        "sha256": "8ffde208bebf7d91a6a23cca15ef55d9618696575a4a28f636aec592c16d4dac",
+        "url": "https://files.pythonhosted.org/packages/6e/c2/b871ab1bb45f1f9118c454ae298327c59607a7e9f8a2c1852444d52f5628/virtualenv-1.11.1.tar.gz"
+      },
+      "1.11.2": {
+        "sha256": "3080a1610fa8c4ab23008707ca5c96d7e67d8cb3ed98c7e01e97f542c82bb6df",
+        "url": "https://files.pythonhosted.org/packages/69/25/546196b0ca00c53b2339f62c981140b028357fb167c5e8a1917a847e095b/virtualenv-1.11.2.tar.gz"
+      },
+      "1.11.3": {
+        "sha256": "bfde472777c63ba8fb7c58cb38876257a69391700b9cc225bd5531576f09b245",
+        "url": "https://files.pythonhosted.org/packages/2a/1e/07f15b240640c1062b277dcffcd3931c6e95d5441466d22a81d7e0e10586/virtualenv-1.11.3.tar.gz"
+      },
+      "1.11.4": {
+        "sha256": "cf3d958f28eb7470bd04262ef397580a2e57407f2ee2c88e9b2892218eb0465a",
+        "url": "https://files.pythonhosted.org/packages/3d/dd/2cd13f0d4c734eb80bae09a0e5802d7ef60ef3890259b0a614e8cb1ba1cf/virtualenv-1.11.4.tar.gz"
+      },
+      "1.11.5": {
+        "sha256": "9d3fd26c2d5cfc7552b2ea33a4c2dfc78cf451d48b1987cc474fe533a16ae2cb",
+        "url": "https://files.pythonhosted.org/packages/3b/dc/d228d577fb241855161755eab18d737fd4877e9f68e5674ff6c75874a357/virtualenv-1.11.5.tar.gz"
+      },
+      "1.11.6": {
+        "sha256": "3e7a4c151e2ee97f51db0215bfd2a073b04a91e9786df6cb67c916f16abe04f7",
+        "url": "https://files.pythonhosted.org/packages/24/cc/a3cdf0a49ffcaef483b7e2511476aa520cf7260c199a6928fda6c43ba916/virtualenv-1.11.6.tar.gz"
+      },
+      "1.2": {
+        "sha256": "78a5e5859053cf47c1496631be8895b09d3e8d0009838100f321ab52c7cc014a",
+        "url": "https://files.pythonhosted.org/packages/55/05/56023a9fb3170382f4d4c6bcaa1e20030b4d67ec15c581f6aa67c51ade56/virtualenv-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "8af730b2ae7aa4198156d9993c54697c6962c5dc327266f354c5cbb956815418",
+        "url": "https://files.pythonhosted.org/packages/1a/cb/24a1572120a59774eed55ec725ef321b1f848e5ee0789b54a597e603d33e/virtualenv-1.3.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "109462a4101a08cf13dbdea3dffcec51837a5acc04aedb741d5723c2a3d8f8d1",
+        "url": "https://files.pythonhosted.org/packages/6c/61/a9ce9b38cea586c8f0380b7f4f31a427f078494a5006acd89ff773367ecb/virtualenv-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "95088b7b7a072bc8e23e9148d06928c94dd072bfc5b70ba1868104aff15f8f98",
+        "url": "https://files.pythonhosted.org/packages/10/9c/25a3020c7449ced830a6332a6b6578b21ac2309a754fc463289ccc6a3526/virtualenv-1.3.2.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "42df48b7e5c939940a1651021c7583905c37bf60878c1ff849b4702f4a1a66e5",
+        "url": "https://files.pythonhosted.org/packages/43/15/50093f7af184bfef5616be0aaa4ccaae62386b2d4b8d62ac41b590b2a613/virtualenv-1.3.3.tar.gz"
+      },
+      "1.3.4": {
+        "sha256": "af1d8ac60a8f2da4ca4ee4249ddb5f6c97def0ad04b7bb1739db5172fd4e1bb1",
+        "url": "https://files.pythonhosted.org/packages/53/7d/5081ba60a4cda47f29ed7ca7f2b3990cb785bf965cec69cf4b0201be4dc8/virtualenv-1.3.4.tar.gz"
+      },
+      "1.4": {
+        "sha256": "5b8cc2e9ae3922922b8b4391e5bed559dcf81eb5771a8c4c6d2d1b4e2c107084",
+        "url": "https://files.pythonhosted.org/packages/df/0e/296385a17f295f13063819eaee2d8a7be76852b1407ddf9dc2eda61923c3/virtualenv-1.4.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "b7e3f592b8495371bcd015f88c37276f86f750f0b148d03e4dd22f90c9d4a265",
+        "url": "https://files.pythonhosted.org/packages/dc/d6/6df620942c349157daf71068ec11a5fdf93bffae05b6a5ea6bbb08e76f79/virtualenv-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "8eb1af8cca78bb2a49d66c025b6c7ffada10f4cde77fb0350aaa0adf37ce4aa1",
+        "url": "https://files.pythonhosted.org/packages/85/47/930573bec29611bd614991efcd07015c0e26c84975711e32779bc751d230/virtualenv-1.4.2.tar.gz"
+      },
+      "1.4.3": {
+        "sha256": "5c002704306d4f92b053f1ee55feb253d8e78b85bbbac7ba37056ea4e05b1ca4",
+        "url": "https://files.pythonhosted.org/packages/64/77/bf43f9f273a865659ea365c89570df1a67205c0aea82ea110f6cdd5e1c01/virtualenv-1.4.3.tar.gz"
+      },
+      "1.4.4": {
+        "sha256": "6665ffdac5c300a9bdd249a74d97edb49d91c4d1cedaa6f8f558fbf34d97f7a5",
+        "url": "https://files.pythonhosted.org/packages/7b/01/107064eb3b80d0cb49fcae1e995d732a876b1b21f216b4587af96262db78/virtualenv-1.4.4.tar.gz"
+      },
+      "1.4.5": {
+        "sha256": "6a73f339c2c6b9eb8416f67d4d825a441db586025e07ba383d0f4b30c8649157",
+        "url": "https://files.pythonhosted.org/packages/60/21/249a85ebc36350abb4c33fee27367c82ba8fdca29411d4800dc04a339bab/virtualenv-1.4.5.tar.gz"
+      },
+      "1.4.6": {
+        "sha256": "cb71199dc298d897bbc5c69b1a644be028fd20ea56085d62d91d7748eb09cca9",
+        "url": "https://files.pythonhosted.org/packages/8e/8c/f6efe0dd612705b7194b07ed6c416e58cd6974c01853ef9b65e532d1ec76/virtualenv-1.4.6.tar.gz"
+      },
+      "1.4.7": {
+        "sha256": "5430a04f223e2b29388bc991c2128b41d1fccb13a25bb7efb2a546555576bb65",
+        "url": "https://files.pythonhosted.org/packages/9c/ef/70bce889474bfb32faaae2e82fe14f8f51cb15192b0dbf170e7741967e1c/virtualenv-1.4.7.tar.gz"
+      },
+      "1.4.8": {
+        "sha256": "86dc663451b5ea8a790c28c2ae96f7283efaded46f7db4b7ee38e45b5214428d",
+        "url": "https://files.pythonhosted.org/packages/26/c8/e28765b98dbb8370ccd3e6211f6a9478a6511955cbb47380bfe7e07d04bb/virtualenv-1.4.8.tar.gz"
+      },
+      "1.4.9": {
+        "sha256": "4bc3e365a76fecbf7eb95b93642ce52427c7005a50e660091c8d8471f2a6d3c9",
+        "url": "https://files.pythonhosted.org/packages/7c/d7/18fa3eb8bcf383245dc39ac0a9b4504b4016c2831ac1243ec3ff1836a496/virtualenv-1.4.9.tar.gz"
+      },
+      "1.4rc1": {
+        "sha256": "2a1da8a6acafc5395b425359272664837374323ba90cdd892e6c1fbe0a6af287",
+        "url": "https://files.pythonhosted.org/packages/2f/e8/e9644379d83bfba6adc31d9cd711bf905795a078beac44a4d36e0b309926/virtualenv-1.4rc1.tar.gz"
+      },
+      "1.5": {
+        "sha256": "d46165107003a2e3547a5e833348523e8c2a234ddd0f593c5687e5d8b960421d",
+        "url": "https://files.pythonhosted.org/packages/f2/ba/4bbc02866b1d72f7d0d3a4d93b23720675adf2c2649135c2237f1a7f62c1/virtualenv-1.5.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "e2bbc4e80164e1ad83afba698559c2923f4bb7e61197b885c0a0befb29533438",
+        "url": "https://files.pythonhosted.org/packages/9c/c4/01b92e74c5338c566e49f9f1b74ee987cd96195893e2e493b836e8ee20fe/virtualenv-1.5.1.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "54b2e9c4fcb5d30e6d0a35b938f0d962412b38433921de33a476b203e72834d7",
+        "url": "https://files.pythonhosted.org/packages/e0/24/a0d3b522652f9746b6f42d18c3f3751fa9bdeeb769abeb090f4e22dc7444/virtualenv-1.5.2.tar.gz"
+      },
+      "1.6": {
+        "sha256": "b60e5ffb37c65c71c6fba550400d721d9f2c4e257a5a87c3dc759442f480dcda",
+        "url": "https://files.pythonhosted.org/packages/0c/86/96518348874718a23612f52a91d80f3c77455c9e2efb3b4aa66d2c9250ed/virtualenv-1.6.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "d066d7e5d4924766950d1d78c851cd442dfed9ca966694f614f2cc8c5cb48a26",
+        "url": "https://files.pythonhosted.org/packages/18/48/502f2e6718a94929f2eb58f812616af157a24d361198757740cc7fd18189/virtualenv-1.6.1.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "6df2a16be86f2cb45a512a7b937374b2ab7f10b48465178c656436c1b94a7e90",
+        "url": "https://files.pythonhosted.org/packages/b5/e2/a319dc2bb887b61456f711c6ff990e5efa7dc27821af7f0c3b834b8035fb/virtualenv-1.6.2.tar.gz"
+      },
+      "1.6.3": {
+        "sha256": "ca9d207c0ac4f74e728c1e54fcd9041f257d2409ccfd5a1c889cdf0dfb5b18ad",
+        "url": "https://files.pythonhosted.org/packages/27/73/034f68fd482846d61bdda5c9aec662b100b5acd663e13a3e2437b0e72634/virtualenv-1.6.3.tar.gz"
+      },
+      "1.6.4": {
+        "sha256": "a68efb4b35a4fef2a57de1981e00d9cf60be5b17d8f677baa0c5848582aaae85",
+        "url": "https://files.pythonhosted.org/packages/ec/15/1faab96142ef603b4c8963a4fc2cc73161c59680b8f7dc1f5633848f48b3/virtualenv-1.6.4.tar.gz"
+      },
+      "1.7": {
+        "sha256": "e32b851eec3beae048c41dedcbebdae8484752b4426436ba8d7d1d69458ef6fc",
+        "url": "https://files.pythonhosted.org/packages/bf/a0/45ecac80034dbc040fb4f5036f32cb40005df71e496ccd137eb65e5a69e6/virtualenv-1.7.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "0c4981f09b885f0d85cb5f5a0ff24982e2f44717ebd7db45220d80d59f85b001",
+        "url": "https://files.pythonhosted.org/packages/83/50/f6b73e50c30c36ec9ec673dd94adc14c0b36e1917aaa3b01245250277198/virtualenv-1.7.1.tar.gz"
+      },
+      "1.7.1.1": {
+        "sha256": "edf6891ba6b24278b3b17faaa7d8a753fc3121e845340e0e8fcc55e783b81e8d",
+        "url": "https://files.pythonhosted.org/packages/3c/b0/d92b83e8e2298750a9230ad6374dab6421313c1f6abe1db7c76b78c5137e/virtualenv-1.7.1.1.tar.gz"
+      },
+      "1.7.1.2": {
+        "sha256": "9f23c47e167f127268cf6777caf613280cf066b32c0183581bf79eab5ccc907e",
+        "url": "https://files.pythonhosted.org/packages/eb/55/137f36eb6c7dd33d9bb1d0f85424aeb77c2e7a08731bf6843a1896e102fd/virtualenv-1.7.1.2.tar.gz"
+      },
+      "1.7.2": {
+        "sha256": "8cbbe308ab0f446a4ceacf24b2656bedd33ea22825b0750fd079766cc6e91bf4",
+        "url": "https://files.pythonhosted.org/packages/16/86/7b88d35d0a353ec70e42aa37fd8b0bd1c643419c80f022ffaafa4d6449f0/virtualenv-1.7.2.tar.gz"
+      },
+      "1.8": {
+        "sha256": "842574707e4692502ee286ad1964a2ccd237996d99666a798d5586759c4774e8",
+        "url": "https://files.pythonhosted.org/packages/44/8f/4ec79a1bd1437510830730168ca8d0b95d8d6dcbd6379e2b8a8f33f62905/virtualenv-1.8.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "524813074d043b5786f45e04912f7eba814defda53ba6d72460b77c704c6b8f4",
+        "url": "https://files.pythonhosted.org/packages/c5/b5/c1551d6f28bdb5f09ba38947db1826d0f647d87d78a678470d87a7e55f81/virtualenv-1.8.1.tar.gz"
+      },
+      "1.8.2": {
+        "sha256": "cffdab213221ef9305f8b4a20fa8ca034f7e30100d8b1e2514e08e33465e4be2",
+        "url": "https://files.pythonhosted.org/packages/a7/95/bbf277e112cf82f2fb57730febe3be96748b3758646cd8bb82e72bd007d8/virtualenv-1.8.2.tar.gz"
+      },
+      "1.8.3": {
+        "sha256": "75cf8bb136949f7cecf4dcbbb399321f688eaf6360a1a2e3e83e1c3c271bf6e1",
+        "url": "https://files.pythonhosted.org/packages/1f/9a/3647ff867500b12baf90ceda9317ac5efc1f28453960575acd03882dc0a3/virtualenv-1.8.3.tar.gz"
+      },
+      "1.8.4": {
+        "sha256": "a16ee99f4a3b72be04704b8bd28c2f21d510af545492501ca3cd50fde9a70cb6",
+        "url": "https://files.pythonhosted.org/packages/16/ef/e5b81c0fd09806f730d762b528b47ad21c4301fe2c62ab83150648148aea/virtualenv-1.8.4.tar.gz"
+      },
+      "1.9": {
+        "sha256": "8c3ad25a11f80b0aee50c501ccc984d7d10784b31c52028f0d3a2e9811e1370b",
+        "url": "https://files.pythonhosted.org/packages/0c/b3/fb6bee198255458b14b3b93368942deeaae0a78914c980a9c70bccf3a0c2/virtualenv-1.9.tar.gz"
+      },
+      "1.9.1": {
+        "sha256": "d04f750c968e18de42ff15f50759f15ba22800b12247b95826e2f8b160f7d99a",
+        "url": "https://files.pythonhosted.org/packages/a5/f9/0c604ce96292da59301c062689b1380594382c70f27b279522f5d7add9c2/virtualenv-1.9.1.tar.gz"
+      },
+      "12.0": {
+        "sha256": "b099ec7bafb499c22309325859da183b1e6aa6129f10e7212da82fb55368a001",
+        "url": "https://files.pythonhosted.org/packages/44/77/480eb1e504d04cd59bb99a80ece2bb2f7454af38062cbc22ffc04ea9273d/virtualenv-12.0.tar.gz"
+      },
+      "12.0.1": {
+        "sha256": "8ccafb5fd1ce17978e18fefe9ca93a3feaaea94a03bb51be22d40d07bb449450",
+        "url": "https://files.pythonhosted.org/packages/6e/c9/fac168d2fad32ddf7e50e1cc2ae9b2853e91bc64d4116be0c006173b972f/virtualenv-12.0.1.tar.gz"
+      },
+      "12.0.2": {
+        "sha256": "b2708c9e5f6dbd08f373f0ccdfc2a4fc85d1d0b85575c9adaea170b40e6f47d9",
+        "url": "https://files.pythonhosted.org/packages/6e/5d/dae55bdaeada6d9161dcc94322887b87768ff501e9ec04584622795715aa/virtualenv-12.0.2.tar.gz"
+      },
+      "12.0.4": {
+        "sha256": "43d886c79e9ddeac0ba50d99d7be154003c5b2df5aca861e8b48cb9aba4c68eb",
+        "url": "https://files.pythonhosted.org/packages/cc/fb/58f7293baab4b39150037ab8548bc32985e76141a68e2c9b18a55a4c2454/virtualenv-12.0.4.tar.gz"
+      },
+      "12.0.5": {
+        "sha256": "c2cb6cb3536cff6be514f92b03af10128a7d5448bbb35f528e64facc37abde73",
+        "url": "https://files.pythonhosted.org/packages/38/a5/781ba11e55ccdede3d43e8493087c5c768e5a1724f30f255d8c066529720/virtualenv-12.0.5.tar.gz"
+      },
+      "12.0.6": {
+        "sha256": "db8c3c89d6a8369082530b3bd2084924357ae1216b239c387e576b814bab592f",
+        "url": "https://files.pythonhosted.org/packages/58/7c/8692296207a55293002797b7560f674f6f34fef595fc1e25e6d9c9e4bdc2/virtualenv-12.0.6.tar.gz"
+      },
+      "12.0.7": {
+        "sha256": "d681db1766cdc8aa1b37eb18252c264b775f971166c2bf658a9618c1f3d28741",
+        "url": "https://files.pythonhosted.org/packages/14/a4/3145f84afd46a3a74717d97f0c58a7a6442876e7712b209c5070cf34a3be/virtualenv-12.0.7.tar.gz"
+      },
+      "12.1.0": {
+        "sha256": "69a31626bae6b5682de43c4d603ecde2f0298f80fc0895c5837ae982d74eabe2",
+        "url": "https://files.pythonhosted.org/packages/82/b1/4ca66d80734279266b5a0cea9d7f166a7f51449c7b5c9ca7e2c89f427f74/virtualenv-12.1.0.tar.gz"
+      },
+      "12.1.1": {
+        "sha256": "3c88cf7df114c32cf0651d12f979b8db556d992d647493e5bdbbe2828be40007",
+        "url": "https://files.pythonhosted.org/packages/d1/9e/1cf17f519a0d374e0708b0396ec3dc23ece1d0808fd0c16358f32565c4ec/virtualenv-12.1.1.tar.gz"
+      },
+      "13.0.0": {
+        "sha256": "d576e94879b305e31ec0cc4d7125211032b2dccb87054841d112bc4289784c84",
+        "url": "https://files.pythonhosted.org/packages/7c/81/8576abe9439e1329d9fd59c163b0e435e3e71389587edcb0c7e1bd54ab57/virtualenv-13.0.0.tar.gz"
+      },
+      "13.0.1": {
+        "sha256": "36c2cfae0f9c6462264bb19c478fc6bab3478cf0575f1027452e975a1ed84dbd",
+        "url": "https://files.pythonhosted.org/packages/c4/3c/f80b2c25a2212a913402c8a43b71817fbed8a4754e7eaad5e7cf7163f373/virtualenv-13.0.1.tar.gz"
+      },
+      "13.0.2": {
+        "sha256": "37ac9e8598be801b517aa9bd7f1cc5e44de97d77243ddd41dcd1fa8a0f86d8db",
+        "url": "https://files.pythonhosted.org/packages/9c/fb/c2e3a62b25516c3d3e081abab2d103a9b76fa5714a4df768b8378f22b7ec/virtualenv-13.0.2.tar.gz"
+      },
+      "13.0.3": {
+        "sha256": "355e46928c2b00b83b7d00d70d5adc529e9c2fe1f366b07e8a1b49cd8c5bd1b9",
+        "url": "https://files.pythonhosted.org/packages/15/6d/0a6fead70c4581c331cba537a2579a3ef1bd9283943388b39a0000f5549b/virtualenv-13.0.3.tar.gz"
+      },
+      "13.1.0": {
+        "sha256": "7ef0a0b1a1cb4b6407d2c1ff4a0f74865a13e6219482888a21bdcaa60c0f1e73",
+        "url": "https://files.pythonhosted.org/packages/6e/48/4d57ca13ffb07b6a844215c11c43a0b96c35ebf4e8ad238ec0611582b15f/virtualenv-13.1.0.tar.gz"
+      },
+      "13.1.1": {
+        "sha256": "ecc1ca1802fd16724742a93e341d8967ab2499cae388128ba90852c64e06c5c3",
+        "url": "https://files.pythonhosted.org/packages/65/94/1c60f0d646f094537fab2fe2d084079960e2c5798463bd2f3d51a8c178b3/virtualenv-13.1.1.tar.gz"
+      },
+      "13.1.2": {
+        "sha256": "aabc8ef18cddbd8a2a9c7f92bc43e2fea54b1147330d65db920ef3ce9812e3dc",
+        "url": "https://files.pythonhosted.org/packages/41/96/8d1d3f0f160512d637c1aeaeddf4039525ee0eb17cf5be0c1eca7de6bd76/virtualenv-13.1.2.tar.gz"
+      },
+      "14.0.0": {
+        "sha256": "f32cb0ca1496c12403372109e319db94da23838df9b57a13546997ee40a80c1f",
+        "url": "https://files.pythonhosted.org/packages/ae/82/3b78e8bfc2b41b06bb44052fd15e1b294811d2d83a84aa5c4274e2c562a4/virtualenv-14.0.0.tar.gz"
+      },
+      "14.0.1": {
+        "sha256": "715aa5ff9c055ed5c864accdbab6a75331b2040d5666ec8707c48559c7ea3b88",
+        "url": "https://files.pythonhosted.org/packages/a9/9b/2cf9ff97b7fb23a1fd3d16ebf2a01be15ce2f8b55f552d1314af070353d2/virtualenv-14.0.1.tar.gz"
+      },
+      "14.0.2": {
+        "sha256": "fd20ca7185a506de4c640bf7ac8b71eac570c479e8ee61f54d3f8f9eebbb35db",
+        "url": "https://files.pythonhosted.org/packages/e9/53/64ca3740921a34896e373f7263efff5a13056e651c672b9044a278833fa9/virtualenv-14.0.2.tar.gz"
+      },
+      "14.0.3": {
+        "sha256": "e0434f2a234ca52b75d69fc97bc254a894f2c4f2c4731aa94bbe3f00c4d3fcff",
+        "url": "https://files.pythonhosted.org/packages/e9/42/cedf86473a44207babd072201957af699e437c1c2c1add504686cc7c624b/virtualenv-14.0.3.tar.gz"
+      },
+      "14.0.4": {
+        "sha256": "777b1a04ccf8d4c1dfc590b6ec050a0b72c7f870f7eab8182f4fa742b034b9b9",
+        "url": "https://files.pythonhosted.org/packages/d8/5f/9025f456f39ef825719d2b30090e240b382dcb4dcb3d0429b18c13176c98/virtualenv-14.0.4.tar.gz"
+      },
+      "14.0.5": {
+        "sha256": "33db086a3ae4d2cf9e20ac5587d4b518fb80fcda098b872065a7300cf73fca52",
+        "url": "https://files.pythonhosted.org/packages/5c/12/28d736d40b449efefe6d8e197f97e469676da4693ab5bf86b23b7ecb7db7/virtualenv-14.0.5.tar.gz"
+      },
+      "14.0.6": {
+        "sha256": "1ffb6a02d8999e9c97ad8f04b1d2ba44421dfb8f8a98b54aea5c6fdfb53bc526",
+        "url": "https://files.pythonhosted.org/packages/da/ae/718e96f41a838ad1254d6758abe06bf79867fc729811d8e486d6f306b47e/virtualenv-14.0.6.tar.gz"
+      },
+      "15.0.0": {
+        "sha256": "70d63fb7e949d07aeb37f6ecc94e8b60671edb15b890aa86dba5dfaf2225dc19",
+        "url": "https://files.pythonhosted.org/packages/eb/74/724d0dcc1632de285499ddd67035dd9313b84c28673add274b9c151dbb65/virtualenv-15.0.0.tar.gz"
+      },
+      "15.0.1": {
+        "sha256": "1a74278b8adb383ce4c7619e33c753b1eb7b58dc1e449601c096ca4b76125f84",
+        "url": "https://files.pythonhosted.org/packages/c8/82/7c1eb879dea5725fae239070b48187de74a8eb06b63d9087cd0a60436353/virtualenv-15.0.1.tar.gz"
+      },
+      "15.0.2": {
+        "sha256": "fab40f32d9ad298fba04a260f3073505a16d52539a84843cf8c8369d4fd17167",
+        "url": "https://files.pythonhosted.org/packages/5c/79/5dae7494b9f5ed061cff9a8ab8d6e1f02db352f3facf907d9eb614fb80e9/virtualenv-15.0.2.tar.gz"
+      }
+    }
+  ]
+}

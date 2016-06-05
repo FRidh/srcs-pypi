@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Fast prime number generator. Python bindings for primesieve C/C++ library",
+    "homepage": "https://github.com/hickford/primesieve-python",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "e4e7296507e907ec106cf8e61b104b2bcc65b5208810abd8de46cc47ea419a19",
+        "url": "https://files.pythonhosted.org/packages/e7/3f/483c935b42b0dfa77b6d37b34d97403411de574324cb2d405839b82a0395/primesieve-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "0b945fcdefa9f355ea6703f8b86b3a94cf2d56a434c094fe57deae9a38632710",
+        "url": "https://files.pythonhosted.org/packages/1e/8b/f112a49dc4e22bfafa1b6456c17983847b01c198854166db51783641e0a6/primesieve-0.0.2.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "f2c1944f6a1ac8ba424e35d75b4e5bd8c309e1bbb9f5535152acecd6f4065937",
+        "url": "https://files.pythonhosted.org/packages/94/ff/b9040b9fe7642a977ec04d6a6fafcf0386ff9628a3f1ad98a4286a2026db/primesieve-0.1.0.zip"
+      },
+      "0.1.2": {
+        "sha256": "4c893f0036035e19a4e60d92aaaeed30640977b57c9d7c61dcb847729b69fa7f",
+        "url": "https://files.pythonhosted.org/packages/38/f3/3731377567249d6e32fa37b7aa6d56fec5a6f580d4f494d46972eac06164/primesieve-0.1.2.zip"
+      },
+      "1.0.0": {
+        "sha256": "77e61b395ce415de102af65aa51aed9cf2c42a7fdb2ca5d7a559792ded49eca9",
+        "url": "https://files.pythonhosted.org/packages/56/a9/e5e57ed8ba3f31af0f950e0264bd154cb263212f6f16ee05d26a65f143b7/primesieve-1.0.0.zip"
+      }
+    }
+  ]
+}

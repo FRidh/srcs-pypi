@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1.6"
+  ],
+  "meta": {
+    "description": "API HTTP et Script pour trouver les villes a partir d'un code postal et code postaux a partir d'une ville",
+    "homepage": "http://vicopo.selfbuild.fr",
+    "license": "GNU GPL v3.0"
+  },
+  "versions": [
+    {
+      "1.1.5": {
+        "sha256": "a2d5a11d07ea8b907cba2ab5b32fa042a114d52d18c9409adac6b9b26cf4199c",
+        "url": "https://files.pythonhosted.org/packages/25/18/b2a01723287e07113aa41696aa27c9b599598482c95cb8108796c51c828f/Vicopo-1.1.5.zip"
+      },
+      "1.1.6": {
+        "sha256": "1682545710bd7dffae512abf4130da3125efb66cbd9497df2d3eefd74bfc9125",
+        "url": "https://files.pythonhosted.org/packages/a4/a3/b4298e8b48325f735491f1d1821f2b08fff92dfab0ea922d677d282690eb/Vicopo-1.1.6.zip"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Scripts to start/stop ipsec VPN tunnels while adding/removing iptables rules for docker networking",
+    "homepage": "https://github.com/cbrichford/docker-ipsec/",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "fc841324ca46c443e1fcd6c758e45bb66e90a6fc61fd2c73d43143a1547ef364",
+        "url": "https://files.pythonhosted.org/packages/b6/02/1294373131a5e68bf4336f8ae69c356945605ef3da3d60947df9ca8d906f/docker-ipsec-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "ab4b1d29a350724a46b678139bac291d389faee2ed71874233232af173a52b93",
+        "url": "https://files.pythonhosted.org/packages/35/d4/ac859e4c62959e914dfc70a3955881537fdca59c40e7f2914d2da45b419b/docker-ipsec-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "6c251277ceda53f30569342dbd55eeba75ef2912569e093cc56d77ae63869055",
+        "url": "https://files.pythonhosted.org/packages/a1/5e/e33ee5a79449b9e87d227fd14fc99ac379468239098e3ed8d14dca1240c5/docker-ipsec-0.5.tar.gz"
+      }
+    }
+  ]
+}

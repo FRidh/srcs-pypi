@@ -1,0 +1,138 @@
+{
+  "latest_version": [
+    "3.5.7"
+  ],
+  "meta": {
+    "description": "Python to GNU Octave bridge --> run m-files from python",
+    "homepage": "http://github.com/blink1073/oct2py",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "753cdda9b20551c09a53bfa5d2bcb0eab7d7c55a7f2f76d008fd0a7e7cca4c04",
+        "url": "https://files.pythonhosted.org/packages/3f/b2/7f385c8dfd5b825e2d0386dccd43558140500856849b18f857686ab16c92/oct2py-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "a9fcb633ac3f7af467bcdeaa1922894e2674d581d5706155a94ddb889d786e8f",
+        "url": "https://files.pythonhosted.org/packages/25/59/09feb017a5c4bad8960ab090aacd5021173cda608901150b722c0fc36c7d/oct2py-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "fcf544778507824aed0f5ed326960bf32da70fbc4cb3dfbfed90557c95504419",
+        "url": "https://files.pythonhosted.org/packages/1f/66/1ed64da0e596568fbfb238c31b5be539ad503ab48fd1fdb14d994e035b50/oct2py-1.1.1.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "b1339e675a719c8913ebe0deb2fc457a56164a4640460c194af37a53c92d74a2",
+        "url": "https://files.pythonhosted.org/packages/73/7e/b103bfb847f05c5672626e8278e8742e6c8d6b51fa0968343893d21cd48f/oct2py-1.2.0.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "f0cae7aae111631c0fffb7f2511ee14fb847b4f501340e8506b0805b50c32f28",
+        "url": "https://files.pythonhosted.org/packages/0e/2f/f8ce7188e0f2bf8e02054b12b443e90fbb070a08a80b24c0556af5606d3d/oct2py-1.3.0.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "44a7aabaef04a5d555d48c4e177f9a142e4b9080f27e70d0d79a1a6a2f61611a",
+        "url": "https://files.pythonhosted.org/packages/b8/cd/9d706c9a2aa261e9ff21e6e72a69b48ca3bcecc2d326cb5c2d0fe32247b7/oct2py-1.4.0.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "2516c1a947c7a392fa91ccaad6bfc3302ff44c95d977514c9936417598d7ccb3",
+        "url": "https://files.pythonhosted.org/packages/22/9a/c52070590054f4e45121f7b28134cac8d8263b9a8356a30fe31f4c82104e/oct2py-1.5.0.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "0e175cc92fe3576806f45ec63e5464664f28e4c31403131d51f9614212ad8aab",
+        "url": "https://files.pythonhosted.org/packages/22/e0/ba864701803553b9200760c80477f02183c7624d68206e2daca5eba5dc8e/oct2py-1.6.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "ef5d85b70dd213bcc25fa7f0061b9000d75192fc3665cb8906d84552733f7537",
+        "url": "https://files.pythonhosted.org/packages/0a/b5/68d31df9afad9ea9527c47733bd6a41732f667a32074be5715f37056673c/oct2py-2.0.0.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "0cd63166244c5acf2c5ae232ebbf0fa1c40f7f79f85c4d2cc085ac611c2f6a3f",
+        "url": "https://files.pythonhosted.org/packages/7f/47/0db09f5a38c37f463669544e10e7455f547f220d0d3682aefcfc62c204ed/oct2py-2.1.0.tar.gz"
+      },
+      "2.2.0": {
+        "sha256": "5066c71c310e3bbb2ef04e881e52976a9019c2ffbbdbe0a5dec692a627295af9",
+        "url": "https://files.pythonhosted.org/packages/14/d1/78f93aef2b41d0a22403318587c2c3b2912f08d859c605b53b2f170a8817/oct2py-2.2.0.tar.gz"
+      },
+      "2.3.0": {
+        "sha256": "725dc586c41047599cc37a0a1d2f627d6daeb949ad4ec2bf52ad349a344d5183",
+        "url": "https://files.pythonhosted.org/packages/31/90/f6cbe1ed79b2f4742af0250c84fd718dff91858f33bbc2659961b92b5568/oct2py-2.3.0.tar.gz"
+      },
+      "2.4.0": {
+        "sha256": "81b7ff389f6bfe00febf32d78337ee643dcb8dc53b5758736c2a84bfb4e14350",
+        "url": "https://files.pythonhosted.org/packages/05/76/18b2d9e043407baed0338429b7497b708bd128d37598c262fb1240b41e4c/oct2py-2.4.0.tar.gz"
+      },
+      "2.4.2": {
+        "sha256": "59f6cb74a2d0afa2c8aae10f7d1c73e3b9ed6502b950872a61427ea70cd89de0",
+        "url": "https://files.pythonhosted.org/packages/9e/b1/94ac729237fd3667b1fad33b17c9e36f7c7fd2dfd0e951e11d01baac1991/oct2py-2.4.2.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "0580cf59368ed04051498d35b23e94954ad79c52bac0ee1ea3fc9c78115bbd4e",
+        "url": "https://files.pythonhosted.org/packages/79/9d/91a5eb07f7b130ad676139956250d7d088da76227b9c29d2dd52ca46d7b8/oct2py-3.0.0.tar.gz"
+      },
+      "3.1.0": {
+        "sha256": "08973a30acc8a6e984c305ed157c6aa5dfa8b5f30d051bef3264a2fbaa01e7b9",
+        "url": "https://files.pythonhosted.org/packages/6d/59/f800df29e123c49ad78648b13f228b21c077196fbd157805620054e66908/oct2py-3.1.0.tar.gz"
+      },
+      "3.2.0": {
+        "sha256": "7c88a0857bc27688be2d026319e483e9d71f3cd2e2af11ff5fb633a9ba40ec46",
+        "url": "https://files.pythonhosted.org/packages/13/77/28cd5b902e5b69147f446283f04e59da917acfeb0305bcc3701085e01ebf/oct2py-3.2.0.tar.gz"
+      },
+      "3.3.0": {
+        "sha256": "4cab740be4e89e0fe45f837a56b7bfdd770684d166da3f19151c626502666864",
+        "url": "https://files.pythonhosted.org/packages/e4/df/c5d40afe46a379091262bd1dc42931c9aece4c564d0e2495da6279068400/oct2py-3.3.0.tar.gz"
+      },
+      "3.3.1": {
+        "sha256": "b99992bf90efa07a7dff867c4ea02993e7e107b7747b9e7b9ce618e98e46f5b5",
+        "url": "https://files.pythonhosted.org/packages/ab/ea/8e64722724ccec8f04b2d8004355775482b38122fe29cce5e0f75ff1d80b/oct2py-3.3.1.tar.gz"
+      },
+      "3.3.2": {
+        "sha256": "8cad3184f63ea27261aaf03193e714699b90f0bb4389f86019572ed3632b6398",
+        "url": "https://files.pythonhosted.org/packages/3d/75/23b271e7eef2c4d7a1ce481a077c0a42d4b428784f7f49e2358a2aa3b8d7/oct2py-3.3.2.tar.gz"
+      },
+      "3.3.3": {
+        "sha256": "0b881a25043d7be713dab5d38b0f96acef5a4cf8130e5726cb9a6bec78448180",
+        "url": "https://files.pythonhosted.org/packages/e6/d9/08a82bd65ef60706e1a27ca288403729362eac6991b6b8852e5f1fa30aef/oct2py-3.3.3.tar.gz"
+      },
+      "3.4.0": {
+        "sha256": "101bc62ad63b8637d9e6a950b2acacb1272b7d118abd11a1b106c7cd3fcdd30b",
+        "url": "https://files.pythonhosted.org/packages/f1/cb/38ae2b11326252c7fae3c10103700ecbe61d6ba001e8e94ede3b137ee2c2/oct2py-3.4.0.tar.gz"
+      },
+      "3.4.1": {
+        "sha256": "23b0e1f9d79478a1f36969259d02f744f770391fa96b4c24cb57e2b23958b2d6",
+        "url": "https://files.pythonhosted.org/packages/eb/91/597de867f1d8aa10eff020baf00a0c16a095adf2eb8274b05f2239c79f07/oct2py-3.4.1.tar.gz"
+      },
+      "3.5.0": {
+        "sha256": "79820b98b8f0459157be8d5cae26bc2c15e6d3d581b98934410cc9aeb7986de3",
+        "url": "https://files.pythonhosted.org/packages/06/b5/2a93a4c3172b2c2e0599db814f0bfb7fc333815a6abfc55b0f44f5b79cc5/oct2py-3.5.0.tar.gz"
+      },
+      "3.5.1": {
+        "sha256": "245df0c31d4c5d6e9d766f1ab852a29b9b854ef13691ab49a46e3484d8a7c03e",
+        "url": "https://files.pythonhosted.org/packages/a8/5c/210c4064a40bb73b5c7dd1a928c0ca8f2b2596534a5f2e007d831ef82db4/oct2py-3.5.1.tar.gz"
+      },
+      "3.5.2": {
+        "sha256": "31a669d84f4c8233d5a4b598c4db7bb0e246e1de411a01e0eeb4522e9ec4d934",
+        "url": "https://files.pythonhosted.org/packages/f7/eb/46fffbf4a8af3076790668fc07efc69bc8b615bda9cdbbe96471db61350a/oct2py-3.5.2.tar.gz"
+      },
+      "3.5.3": {
+        "sha256": "b6705342e5bfbd22195f96f4595c60446a075e79fd965b035ae127fdfd227854",
+        "url": "https://files.pythonhosted.org/packages/e4/dd/ed2ead8d6df0722bb82d8186eb3922e652622f7539555118d574d978a530/oct2py-3.5.3.tar.gz"
+      },
+      "3.5.4": {
+        "sha256": "709b9d441592f8403c6b97c629c0aa168794e75bd8d6655a29c26fedbd8aa522",
+        "url": "https://files.pythonhosted.org/packages/67/b8/03caf280152846d41651fd51c4febbfcf5e73b8dec03e9f9f31c343a3590/oct2py-3.5.4.tar.gz"
+      },
+      "3.5.5": {
+        "sha256": "1845d0fbf10ed9ac4f1a2524cbaa84430b6861b546aaa3c66c20cae17888a1c1",
+        "url": "https://files.pythonhosted.org/packages/ca/8b/2aebc05e5f771c647fb2503609c79749e92b06b7dfdc00556cec5c3a7106/oct2py-3.5.5-py2.py3-none-any.whl"
+      },
+      "3.5.6": {
+        "sha256": "c3443fd087f1173234224a428d9508bd93fd08bd211855e371a211c259419ceb",
+        "url": "https://files.pythonhosted.org/packages/c8/a8/b79a6833fbbb6f4ccfd26f18edf6d3a3fdf7d1888aeca4963567660dbbe0/oct2py-3.5.6.tar.gz"
+      },
+      "3.5.7": {
+        "sha256": "f6e97b7797cc72df279b4191a7df484a48ecf376cb363e4a33ec3dff9947593c",
+        "url": "https://files.pythonhosted.org/packages/8c/ce/383ec380b71c5bc2a62f0be1d9522710217771397ae2188c249757d32fdf/oct2py-3.5.7.tar.gz"
+      }
+    }
+  ]
+}

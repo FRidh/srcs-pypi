@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.12.0"
+  ],
+  "meta": {
+    "description": "A DNS toolkit for Python 3.x",
+    "homepage": "http://www.dnspython.org",
+    "license": "http://www.dnspython.org/LICENSE"
+  },
+  "versions": [
+    {
+      "1.11.0": {
+        "sha256": "59540459b96ef46a60d281fffb27ebcd0b0b9a55b49cdc29caed512b02114a63",
+        "url": "https://files.pythonhosted.org/packages/13/d9/d06aa679deab4ac1ddf3a7c9985d135b3fd8dc0a5b446b8cb73adf052477/dnspython3-1.11.0.zip"
+      },
+      "1.11.1": {
+        "sha256": "bf314abd758b385bebc378543cc717bca271bcffdf0b210a8a14bdd3e9678b2f",
+        "url": "https://files.pythonhosted.org/packages/4f/f6/5bb900c4ed4279b17accd8967d83562c831871cb2b24f5fb0a9edb78835a/dnspython3-1.11.1.zip"
+      },
+      "1.12.0": {
+        "sha256": "e9630946207864c7a780798809cd2ec9c6bbde6ac88b97a2fda66f018eec1c8d",
+        "url": "https://files.pythonhosted.org/packages/83/80/bc1ae10a37f6ccda5dfec343852244b3920754c838d6b31f0a43819c8dd5/dnspython3-1.12.0.zip"
+      }
+    }
+  ]
+}

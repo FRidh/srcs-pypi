@@ -1,0 +1,33 @@
+{
+  "latest_version": [
+    "0.104"
+  ],
+  "meta": {
+    "description": "dpcluster is a package for grouping together (clustering) vectors. It automatically chooses the number of clusters that fits the data best based on the underlying Dirichlet Process mixture model",
+    "homepage": "http://dpcluster.readthedocs.org/"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "2f54ea478ffbe76fa39ae3e220ec7139414a00c3757bd0b306690ef1700dba68",
+        "url": "https://files.pythonhosted.org/packages/f1/93/6babad2fc4207fe1b87900b81ff30e361b899452931897f0035922135dee/dpcluster-0.1.linux-x86_64.tar.gz"
+      },
+      "0.101": {
+        "sha256": "904363b0453da864b71b8ebe3f4a8018b19737b0d5eade68478222f13e3231df",
+        "url": "https://files.pythonhosted.org/packages/7c/c4/a7894ac8a2634585adbea7337090f38f7289218744cae852332fe12a596f/dpcluster-0.101.linux-x86_64.tar.gz"
+      },
+      "0.102": {
+        "sha256": "18620fa0f8ec32412d16e8fb053d937a41d71a0df34c5e3a587812b7da7b9783",
+        "url": "https://files.pythonhosted.org/packages/02/51/d56adc44172824d6cc1d1fce8f43856606e4e3514fe6fce37b70153fe9b7/dpcluster-0.102.linux-x86_64.tar.gz"
+      },
+      "0.103": {
+        "sha256": "ae0607fc99f91a230933fcb9ce69d2348e5f9b1fc879b1b7c3c8224f7158f68a",
+        "url": "https://files.pythonhosted.org/packages/8b/78/5205f7ce53ba0c8749f75809273982fb81421a506e14c1300dc63a6c620a/dpcluster-0.103.linux-x86_64.tar.gz"
+      },
+      "0.104": {
+        "sha256": "6da1f8579697e35eea48330d6ad6bf2dfae76c016d02d99ae66d3decccb5720c",
+        "url": "https://files.pythonhosted.org/packages/e7/e8/9b669738b8d722a98ba090b2dee2c74a0622e92068af835069ef21cb7588/dpcluster-0.104.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

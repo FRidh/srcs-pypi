@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "2.2.1"
+  ],
+  "meta": {
+    "description": "Grok-like configuration for catalog and indexes",
+    "homepage": "http://grok.zope.org",
+    "license": "ZPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "d735cda06a65196ec1776ebb56113a78b816bec44af30c26584a9b749f00eaa7",
+        "url": "https://files.pythonhosted.org/packages/83/5b/f0f71f24e2e432c360fcf22f15ec575b05cb1c3de78e5a1b37dee7f1ac57/grokcore.catalog-1.0.tar.gz"
+      },
+      "2.0": {
+        "sha256": "a83ac2dfae4c8d9563859a5f7e0acd818e4cbb4ba0456464e59622cf3b2924c3",
+        "url": "https://files.pythonhosted.org/packages/e8/62/5b886c5cef16aaeec12ec736653eedb2c1db6fc06ad12b1b750e03ebeaf4/grokcore.catalog-2.0.zip"
+      },
+      "2.1": {
+        "sha256": "36cbc08ff2de59b46c6556ce2e4579fd4ce160ad89f6ee120943a30236cf3888",
+        "url": "https://files.pythonhosted.org/packages/2b/84/9c61b581711635ea7297e0d1a7b4a9461f0b1dc4e7b19f11c336e1c698da/grokcore.catalog-2.1.zip"
+      },
+      "2.2": {
+        "sha256": "8e5ee450893cc95a2b10715968e7b845835900ecef4f430f40cd05eeed9079a6",
+        "url": "https://files.pythonhosted.org/packages/46/a7/a4b7f59862ce452cfad29cb76fa8042edc205d3dada8e14f84e519fd72ff/grokcore.catalog-2.2.tar.gz"
+      },
+      "2.2.1": {
+        "sha256": "a2a3f2d8f1de6887adbff27f75f3570d8b3e6cf5f9277e60360b49f4197a13ef",
+        "url": "https://files.pythonhosted.org/packages/5e/1a/7bb0ca5792ed93ff1337361d490d39116e30165ac3611592180700ea4fa0/grokcore.catalog-2.2.1.tar.gz"
+      }
+    }
+  ]
+}

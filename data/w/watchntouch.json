@@ -1,0 +1,17 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "Poll a directory for changes and re-touch changed paths so that inotify- incapable mounts (like CIFS) receive inotify events anyway",
+    "homepage": "https://github.com/rubyruy/watchntouch"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "d7d00fc99b12f6e20e90539c37585c00df1a007af28d628253860740acda79c0",
+        "url": "https://files.pythonhosted.org/packages/4d/4a/4c519a8c94f142a9c4d0f73d32f80e3364d1c75baf6055d1102375e2bfb1/watchntouch-1.0.tar.gz"
+      }
+    }
+  ]
+}

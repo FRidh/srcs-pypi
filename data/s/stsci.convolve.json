@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "2.2.0"
+  ],
+  "meta": {
+    "description": "Image array convolution functions",
+    "homepage": "http://www.stsci.edu/resources/software_hardware/stsci_python"
+  },
+  "versions": [
+    {
+      "2.1": {
+        "sha256": "b660b42e01417179fed2fc5f00f582a39bc76d8342d0011809e537a9e6185701",
+        "url": "https://files.pythonhosted.org/packages/99/ad/651f265d9b08aace59e3180d52719cb24401a213926179f160bb5f3d7106/stsci.convolve-2.1.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "94e136d8a2e6c5a2795df557c2e6ea8dec5125ae1c9e3515d187d96dfe980bb9",
+        "url": "https://files.pythonhosted.org/packages/47/f1/794d41f6738976cb60fd950328bb20d5477832d4ece907519a6e39a31365/stsci.convolve-2.1.1.tar.gz"
+      },
+      "2.2.0": {
+        "sha256": "3fadc18cbef6da5ce0307fbcd6ce654e80e77f7dbc471db277424f62607c3cb4",
+        "url": "https://files.pythonhosted.org/packages/bc/04/9b6833427c2ac61b814ad9a305a21efec34b7d2fad897d0fa5c45bb644eb/stsci.convolve-2.2.0.tar.gz"
+      }
+    }
+  ]
+}

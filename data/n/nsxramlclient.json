@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "A \"pseudo dynamic\" client for the VMware NSX for vSphere API that uses a RAML file describing the API as an Input to generate the API calls",
+    "homepage": "http://github.com/vmware/nsxramlclient",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "7ce86c3e9c3890211ec027ccfb9914d8faf80a224fcbf3d02f2cbb95f6c743e7",
+        "url": "https://files.pythonhosted.org/packages/ec/95/70ae899e27d805125e8e41848cdadd01a3915e29e61c28d3d52e94c175e0/nsxramlclient-1.0.0.tar.gz"
+      },
+      "1.0.0.dev7": {
+        "sha256": "7650cd6418e29cf8e2bd6cdff4ffd26f03b44a06af2071a6fc1c312f7c1a6716",
+        "url": "https://files.pythonhosted.org/packages/e3/17/d423173cbdc98c7dd84619c471db141fb007ceb89c6439da8fe4f0f8bcc8/nsxramlclient-1.0.0.dev7.tar.gz"
+      },
+      "1.0.0rc1": {
+        "sha256": "ca615fb18a505b5eb555caf97be6f94f4f26b8973c7da16fa3af22d4cc743f5a",
+        "url": "https://files.pythonhosted.org/packages/e7/ec/ed55819149a12194d7db10b380b26f42c165d911daefb13b81b7b8a4a47e/nsxramlclient-1.0.0rc1.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "8635f40b60f06e1b82e4e43ba38b443d9601c68409fd49c3daa1a16eb42d084a",
+        "url": "https://files.pythonhosted.org/packages/01/2a/48c3fedafd8d620782bddd073b71535b8c08a0e81b09c760851bd1ce727c/nsxramlclient-1.0.1.tar.gz"
+      },
+      "1.0.2b0": {
+        "sha256": "0835d733cacde9a694bfc3b39736457e1d825ab3d9db4fdb0b1a7180ea5df601",
+        "url": "https://files.pythonhosted.org/packages/8d/15/440ba3a1a5d6f06d691a69dc1a6eacfc72c8bbb706da91980e94a21a6017/nsxramlclient-1.0.2b0.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "65712e2ea964c14c21d10aca1b374ac83b3424e7b9447215725859d691363e2f",
+        "url": "https://files.pythonhosted.org/packages/f7/ea/a2592259d55b9980b39f72b5f06c29ec70906412cd0a3d2a538a720f00f9/nsxramlclient-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "4ef3c1dc98ecaa866fd5707c6f8db20490883b0b405f0d2c6de7a9b27825f6b3",
+        "url": "https://files.pythonhosted.org/packages/04/8b/cf9fb3ac95984aecdaec5af2765b9f7d85931578a8bf1de3785cd0b0c5c0/nsxramlclient-1.0.4.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "2e5c30cfa4a164b326231cdd8ca5f6d71e1013e7748658ac336c5618afcfc8ad",
+        "url": "https://files.pythonhosted.org/packages/15/af/4a60319b07e8124fa94c1b23712b58a2c8cef4113950d54dff19ae93ad17/nsxramlclient-2.0.0.tar.gz"
+      }
+    }
+  ]
+}

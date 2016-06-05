@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.1.0"
+  ],
+  "meta": {
+    "description": "A taxy Tox to tax your current site-packages. This is a variant of Tox that doesn't use virtualenvs at all - just installs everything in the current environment. Use at your own peril",
+    "homepage": "https://github.com/ionelmc/python-tax",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "ff51a7d7fbd18d6488e02574e7a0ebf45bb65aad98ceecef88bcc79d4ad3d2a7",
+        "url": "https://files.pythonhosted.org/packages/06/5d/12398b3ddab5e471dd805a7fe7df39425d0aef9e1ecf26fe49d8b5a1e629/tax-0.1.0.tar.gz"
+      }
+    }
+  ]
+}

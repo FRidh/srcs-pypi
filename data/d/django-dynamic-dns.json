@@ -1,0 +1,13 @@
+{
+  "latest_version": [
+    "0.1.3"
+  ],
+  "meta": {
+    "description": "Machines on dynamic IPs can call this service at regular intervals (e.g. via cron) and when the server notices an address change it makes the relevant API call to update the DNS provider. Alternatively a simple DNS server is included which can be run instead of using an external DNS provider",
+    "homepage": "https://github.com/damianmoore/django-dynamic-dns",
+    "license": "BSD"
+  },
+  "versions": [
+    {}
+  ]
+}

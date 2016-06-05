@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "flask async uwsgi websocket postgresql notify",
+    "homepage": "https://github.com/paradoxxxzero/fawn",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "0e26d833700e7c25e2304e809eaaf18d87fa15748b2522620a5ca1e678deb8c2",
+        "url": "https://files.pythonhosted.org/packages/9f/fc/0bfba8bdadf3ec84d5c2f2f9c08b1712d9c6f354d018d6e6685b4dc140a3/fawn-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "7a7dccc2e9d8009aec5c69078d1311b479e7ac601af07eec53051d67dffa468f",
+        "url": "https://files.pythonhosted.org/packages/aa/81/7b5592efafa6361ee6c51d4cd5591ecd74b20e092c12b226bf6439efc595/fawn-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "7c78848531109db75ee46f76729088092a3519b6b01d60bc403fdec7f9943098",
+        "url": "https://files.pythonhosted.org/packages/22/c9/164cc274cf54bf724ee09fb08b01018074d8aaee443a434c39e12033e1ba/fawn-1.0.2.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "5102392e12009f2bd7fd5c47d8fc743734c82351e57216db347e6925a28947e3",
+        "url": "https://files.pythonhosted.org/packages/55/44/9949d76de92d617961f434ad1001446d97d260a6778202a86db43f6c84b2/fawn-2.0.0.tar.gz"
+      }
+    }
+  ]
+}

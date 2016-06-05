@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "40.5"
+  ],
+  "meta": {
+    "description": "Give the haters more to hate",
+    "homepage": "http://pylonsproject.org",
+    "license": "BSD-derived (http://www.repoze.org/LICENSE.txt)"
+  },
+  "versions": [
+    {
+      "40.4": {
+        "sha256": "6bc6f16f903c58163ba8910c72d03cc9612a8add3a8aca10b9997ed1610084fb",
+        "url": "https://files.pythonhosted.org/packages/c5/60/a5570eb6017751661d6f634d664729191f60ab0e9b92adbd36ca806f1810/zope.cooties-40.4.tar.gz"
+      },
+      "40.5": {
+        "sha256": "e11a9cd1beb0763c4593a99c282d41eec7135fe889a9a670e376b2456825f210",
+        "url": "https://files.pythonhosted.org/packages/49/e9/22aff0a60e5ddeb74f7f0d33cb6b7d31b1ae51975ff274bcd958d0feec1e/zope.cooties-40.5.tar.gz"
+      }
+    }
+  ]
+}

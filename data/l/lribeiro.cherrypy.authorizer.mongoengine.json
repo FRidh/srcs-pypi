@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Basic user model, authenticator and authorizer for lribeiro.cherrypy.authorizer and mongoengine",
+    "homepage": "http://bitbucket.org/livioribeiro/cherrypy-authorizer-mongoengine",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "3da250933bd53de43c51dd8bd201b22f000bfa3d0c0fed3a72150ec7e4c4057f",
+        "url": "https://files.pythonhosted.org/packages/89/00/3d671d40ee0f8672ebb424208fd61060b2aa5c33ac25d7b00764f24ae2e5/lribeiro.cherrypy.authorizer.mongoengine-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "793292cb6e3d6fbb0e0814bac342c85842596d46f161e0008dada103ae50b6ca",
+        "url": "https://files.pythonhosted.org/packages/24/41/14bf143b19641b6efa26d7af99099561e0e4a0f2aeda0c5640a6ab659a7a/lribeiro.cherrypy.authorizer.mongoengine-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

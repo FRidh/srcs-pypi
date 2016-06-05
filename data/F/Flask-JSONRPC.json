@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "Adds JSONRPC support to Flask",
+    "homepage": "https://github.com/cenobites/flask-jsonrpc",
+    "license": "New BSD License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "03d531268531a99a26a714579ef32a1cda30fa14789fdb15eb3096c534a91125",
+        "url": "https://files.pythonhosted.org/packages/44/d3/d306a6cf9e12fb7eea5b444556346b42e2f545d78ef902882242823664d6/Flask-JSONRPC-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "60fa63b76f191f84baa392c9f2c97e50155ce739e68f0e044d745aa85049f5e0",
+        "url": "https://files.pythonhosted.org/packages/ac/01/3e3714cdff1877de5430f5f0c61e64c059f28de753c1f6e30b4e195828bd/Flask-JSONRPC-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "5baf70bf9cf955e95c02316982026a122b89a5f4c78c5b26f9f476abdb3e13bc",
+        "url": "https://files.pythonhosted.org/packages/fb/92/e31d27e75fddf9fd1f3c6ace653b3fd9801d1468f6b9fa4c8a8595fad479/Flask-JSONRPC-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "4d0cc9c20874093306af91f5a48009fb8659a041428dcdb11703598ffbbc97d0",
+        "url": "https://files.pythonhosted.org/packages/cb/1f/e6d66e8498609ba04bac76155b2ea884df95531e93501bf4ef009d40a83c/Flask-JSONRPC-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

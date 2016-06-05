@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "LiveReload functionality integrated with your Django development environment",
+    "homepage": "https://github.com/tjwalch/django-livereload-server",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "e6979bac3268902413d89c9b46f09ea70bad6d296b730b4ff52504f0891e669d",
+        "url": "https://files.pythonhosted.org/packages/25/25/419ca178b7fda98b7cfebeed4b0207d20d8a1db49c5e5de91bd3131a90aa/django-livereload-server-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "a6c636d415b86ba08da24779126a43e9f2229ad8182806f7d0ca28f24169e657",
+        "url": "https://files.pythonhosted.org/packages/c8/6e/b87e568726b809c1df82397b7155814dcad3353a42873691d9047ddce9e6/django-livereload-server-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "bfa5fc463e95c2927141cf95668794324dd341cfe23795c4bf7e080c5598587a",
+        "url": "https://files.pythonhosted.org/packages/ed/6d/2b2eadde0c4d9463799a967c1468a3fb7bb4c9559a188d16b2f81ad86349/django-livereload-server-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

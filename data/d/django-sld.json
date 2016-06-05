@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.7"
+  ],
+  "meta": {
+    "description": "A simple django library that generates SLD documents from geographic models",
+    "homepage": "http://github.com/azavea/django-sld/",
+    "license": "Apache 2.0"
+  },
+  "versions": [
+    {
+      "1.0.4": {
+        "sha256": "356f75d463f3fff299f8924c45b5794ee4771e6d19cf95f8ec8740b9def87189",
+        "url": "https://files.pythonhosted.org/packages/e8/ef/2611a58ede5d20183b73b6191e14c815bea55d2fc1c99fd44f02529441d1/django-sld-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "1e73bedf8475dfce2873909d1a80db9c84ac940a4f0ec451772dc83168bee5cf",
+        "url": "https://files.pythonhosted.org/packages/26/3a/92b499393a02e26f01cab81cfa32c03cfa048f7f1c066491fdc7bbc9ed1c/django-sld-1.0.5.tar.gz"
+      },
+      "1.0.6": {
+        "sha256": "ba87c904bae9d0494e57467c97b8b01d094e15c058472db5dbeda171199a8976",
+        "url": "https://files.pythonhosted.org/packages/33/d0/2194608a0abeb722a2e50d72d0df68f50f2bb979a11fc5968edfda8d269a/django-sld-1.0.6.linux-x86_64.tar.gz"
+      },
+      "1.0.7": {
+        "sha256": "69576b3f3633146d413dabda9a74b64bd2042ef6f4d99702d48328318b7743f1",
+        "url": "https://files.pythonhosted.org/packages/b9/3d/9e2f01cc9a272d37709c98174560defbf83cc77553e13be4212a10976fe0/django-sld-1.0.7.tar.gz"
+      }
+    }
+  ]
+}

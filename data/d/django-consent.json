@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A Django app for managing permissions that a user has granted the website to do. This could be used for a number of requests, from asking the user if you can post to their twitter, or send them newsletter updates",
+    "homepage": "http://appregsiter.readthedocs.org/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "d66730488d5b98ec00e2c098d10ba9efc2d8e02ead3c53908d6ad259e56c7e5c",
+        "url": "https://files.pythonhosted.org/packages/99/3a/14e04d8d3b89469b18bc0ffed43f6f5515ecbd37dbdf6879e1a837cc5809/django-consent-0.2.tar.gz"
+      }
+    }
+  ]
+}

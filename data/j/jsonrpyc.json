@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Minimal python RPC implementation in a single file based on the JSON-RPC 2.0 specs from\nhttp://www.jsonrpc.org/specification",
+    "homepage": "https://github.com/riga/jsonrpyc",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "358b1e2de740b345a0999ebec407ebfed34cc70c049e05840ae8544f2d0fa8cb",
+        "url": "https://files.pythonhosted.org/packages/75/15/8b12161555e934592192e16eccdd59cedd70e5940f64f1893fd695872432/jsonrpyc-0.0.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "927d44e412aea1d2bada205f9b4dbec7ece633c0fbd0172cdc923c40b3bbe193",
+        "url": "https://files.pythonhosted.org/packages/a5/97/573113fbc7b890137d7a2f74ac0a40a2f4b4716ba700413acdd9ab902b88/jsonrpyc-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "9b0c197e4999f8aba830595618f2fdfa046ebb5e68a4330e6720d93616ee46a1",
+        "url": "https://files.pythonhosted.org/packages/63/55/e00bb3d7dff0c7e6e9c7a4c1d7a56c9e123333243a54f9d46e23bd5b10e3/jsonrpyc-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "b2a278799a0e8724fe05d9f97eab8a24813b191b868befd1bd290fbd60a9a568",
+        "url": "https://files.pythonhosted.org/packages/73/13/34106147afb9cc133e7252bf04f2e94734db31686e7d64601ffbb6a329fb/jsonrpyc-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.13"
+  ],
+  "meta": {
+    "description": "Theory of Computing Toolkit",
+    "homepage": "https://github.org/ND-CSE-30151/tock",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.11": {
+        "sha256": "ad4a49b6fb2f3d9e0cd9aa0bb19fc17a8b869be9a981c71334930adf12716409",
+        "url": "https://files.pythonhosted.org/packages/7a/58/887278f5689cd80ea239a5354394f4f469251a072634140dba5a817f8fcc/tock-0.11.tar.gz"
+      },
+      "0.12": {
+        "sha256": "b4344e6871c612140a7376a1067363a633cdc3a7c89e717960260c06358bf550",
+        "url": "https://files.pythonhosted.org/packages/48/16/0722ee262164e298238cec4feb1556bc5a6ee770f5cd4b0674d6561cc7a7/tock-0.12.tar.gz"
+      },
+      "0.13": {
+        "sha256": "dde0b1e71969bfd29683fac3e5a87ef3513430060b473eec3b03551dcdf8a742",
+        "url": "https://files.pythonhosted.org/packages/90/2b/2fee5e0113a498db4d6038c66b2fd310e8577e35c27e04d7de8dc52e1856/tock-0.13.tar.gz"
+      }
+    }
+  ]
+}

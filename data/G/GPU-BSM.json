@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.7.1"
+  ],
+  "meta": {
+    "description": "A GPU-based Tool to Map Bisulfite-Threated Reads",
+    "homepage": "http://www.itb.cnr.it/web/bioinformatics/gpu-bsm",
+    "license": "LICENSE-agpl-3.0.txt"
+  },
+  "versions": [
+    {
+      "2.3.4": {
+        "sha256": "0d197ed0295db2992aeec3b59fbc96188c0ac8611374d6bc762d2fd138395d81",
+        "url": "https://files.pythonhosted.org/packages/7e/38/58ae4fa2f4d7fc590e2533d37e4df17316daa24ca0a005cdea3c5048de3b/GPU-BSM-2.3.4.tar.gz"
+      },
+      "2.4.0": {
+        "sha256": "1fd333342c01ea11ad063840ccb9be841d0b3e172d274c2fe0deb5f308449edf",
+        "url": "https://files.pythonhosted.org/packages/e7/e4/4607e23d227da83926c92b5445c28f6711a7e1b44f4f053b8d8f53a65dce/GPU-BSM-2.4.0.tar.gz"
+      }
+    }
+  ]
+}

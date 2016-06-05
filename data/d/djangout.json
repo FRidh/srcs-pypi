@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Buildout recipes for Django",
+    "homepage": "http://bitbucket.org/2degrees/djangout/",
+    "license": "BSD (http://dev.2degreesnetwork.com/p/2degrees-license.html)"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "81383a8a70a73ed0e4e70d3050e7553fc0f834c49271fac782282ae4653e53e0",
+        "url": "https://files.pythonhosted.org/packages/79/38/666895a0e75518a6080f4236372517437566f624a78ef30a27c39c5580c7/djangout-1.0.tar.gz"
+      },
+      "1.0a1": {
+        "sha256": "61922d690b595993196345abeb142dae38620c5887cb3d1158d2dea33c316f74",
+        "url": "https://files.pythonhosted.org/packages/f4/d8/aec02d7d3643fcb9301aa320f349b452e08fda5415aad9d412676c758c85/djangout-1.0a1.tar.gz"
+      },
+      "1.1": {
+        "sha256": "312fc267f3d4ce5fbacda11d9ff285ca384db5d7c4b8366d27dc1b1a118b2105",
+        "url": "https://files.pythonhosted.org/packages/9a/ce/3ff3d48deaa77684e76acd0f3ea72766713bbc8e77fc8b0ebc10525d15af/djangout-1.1.tar.gz"
+      }
+    }
+  ]
+}

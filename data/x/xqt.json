@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2015.0.4"
+  ],
+  "meta": {
+    "description": "Wrapper system to handle differences between Python Qt ports",
+    "homepage": "https://github.com/ProjexSoftware/xqt",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "2.0.2": {
+        "sha256": "1701403e1751953fdb6529530918efa8fa01925349bbca013e5ed9b715198566",
+        "url": "https://files.pythonhosted.org/packages/3b/07/704639985894d95afab966527cd07cc89f9ceb8f84e41eefdec3a5e1b0a5/xqt-2.0.2-py2-none-any.whl"
+      },
+      "2015.0.4": {
+        "sha256": "663cbcc235a0e125440eb54824859f05d532264d85ed692d3bf7c6023c9b895f",
+        "url": "https://files.pythonhosted.org/packages/84/0a/1515e2d7be3d83d09e5287f3a7f279b586f9081439d9952a8e07013354a1/xqt-2015.0.4-py2-none-any.whl"
+      }
+    }
+  ]
+}

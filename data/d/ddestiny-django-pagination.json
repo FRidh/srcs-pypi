@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.1.1"
+  ],
+  "meta": {
+    "description": "linaro-django-pagination fork",
+    "homepage": "https://github.com/zyga/django-pagination",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "2.0.2": {
+        "sha256": "b1b836666a25d07426286d015cca92a73660d5e83749a622ce1646a1a3431af2",
+        "url": "https://files.pythonhosted.org/packages/c2/d0/565af69de256028aed58ce36beebad8f2316050a3e6054f1922c57a7aad0/ddestiny-django-pagination-2.0.2.tar.gz"
+      },
+      "2.1": {
+        "sha256": "ff12abeca70eccb52804622e56747f8861f4d4ce0cecc537238de3742fba6891",
+        "url": "https://files.pythonhosted.org/packages/17/cc/e94ebb2a5dd24eeae37dca577b5c569c4b7bd4e1b1d69352c4ae59ff4184/ddestiny-django-pagination-2.1.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "57d546f57a02b4cbb74555f3fcfc49d10652e04237258cad1891f7ae96ac28c8",
+        "url": "https://files.pythonhosted.org/packages/68/01/1e1ec686b6c6fb7b500c71d14a1e9c51fca5a9f43126b058e4f3e4423e81/ddestiny-django-pagination-2.1.1.tar.gz"
+      }
+    }
+  ]
+}

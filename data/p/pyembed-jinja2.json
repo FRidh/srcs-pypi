@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "PyEmbed plugin for rendering embeddings using Jinja2 templates",
+    "homepage": "http://pyembed.github.io",
+    "license": "Copyright (c) 2013 Matt Thomson\n\nPermission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\"Software\"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\nNONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE\nLIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\nOF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION\nWITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  "versions": [
+    {
+      "0.6.0": {
+        "sha256": "99d072afa3e8e956e444f6420432de55d2be76c3c307f77fc1fa8a134af24fa0",
+        "url": "https://files.pythonhosted.org/packages/4d/01/d522536b7fa5eba8f250963fc52dca8d766a974946ed53252bf65a4d4453/pyembed-jinja2-0.6.0.zip"
+      },
+      "0.7.0": {
+        "sha256": "22e8b40cba9fe7d0f2e93338ce9443790752017868f1a4561c68e590b229873c",
+        "url": "https://files.pythonhosted.org/packages/30/94/321863c6013f9cb85725ba4e63836691fcaee24d909c5679a2fe0bb862e1/pyembed-jinja2-0.7.0.zip"
+      },
+      "1.0.0": {
+        "sha256": "1846134e4953ee8e663de9d73e9502e9e79eebf10871e3b0fb7f69c6d9960ee4",
+        "url": "https://files.pythonhosted.org/packages/6f/b8/2a10c0ed886d6c09bc40014d8d2c2d20dd8ed40be208d55e11a84c200139/pyembed-jinja2-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "5ec2ed054ac124846878810b5070701e716c372ce9c5c0fc6c968cfbd42082a7",
+        "url": "https://files.pythonhosted.org/packages/ee/0a/c61f2fdd167142b4d5c9f1b1448e44e3e378e5fffc7611066acb5e84c3b9/pyembed-jinja2-1.1.0.tar.gz"
+      }
+    }
+  ]
+}

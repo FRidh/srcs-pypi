@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.3"
+  ],
+  "meta": {
+    "description": "A polyhedral library based on isl",
+    "homepage": "https://scm.cri.mines-paristech.fr/git/linpy.git",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "548abbe60c205661681966343df2a3f4e7011fe29f6bc27b28ced80c64a0b7ff",
+        "url": "https://files.pythonhosted.org/packages/eb/81/be1392494660f5874322008528137f60d6407f3dc5c44e7e4cd26a39f11c/LinPy-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "6f6da94feb453bc3827ed29bbfc38f5409ecedafb64d0818bc1a83a9c5ee54a9",
+        "url": "https://files.pythonhosted.org/packages/9a/db/0896353acf806a1b93dfb7d0752b7375c81b53efb71ac32c21c4c3e47c0c/LinPy-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "65b408a1ee11e3ce1aff8d3a31b7e57f6a41b8ca04a93ab20d58c027107464a6",
+        "url": "https://files.pythonhosted.org/packages/0a/60/a2cd60e3ed19f3f54cdb596a6281a9d17ce197e0ec1bc99aeb7e8ad3859d/LinPy-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "6e2e5d19636b6e9949f36ef30ed641f4615110224d62e83f9a61ff60dcc71806",
+        "url": "https://files.pythonhosted.org/packages/93/68/12daf296ca7e6dc128f06a7e11f029fdd2334cc44ac2979edc64429c67a2/LinPy-1.0.3.tar.gz"
+      }
+    }
+  ]
+}

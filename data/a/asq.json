@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "LINQ-for-objects style queries for Python iterables",
+    "homepage": "https://github.com/rob-smallshire/asq",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "a7fcc09c629977175040c1dc4b6f9ca12df07a0c9931f552b2af143306f5f85e",
+        "url": "https://files.pythonhosted.org/packages/4a/5f/5c4531dad80d3cdcd0605858ab4cb091f4dfb261479f17ba3cbbac568909/asq-0.9.tar.gz"
+      },
+      "1.0": {
+        "sha256": "222999268c6dcdb217418d116b7ae895d60588f8b871ad97ea938dd3ee92180d",
+        "url": "https://files.pythonhosted.org/packages/fe/00/0becaeb4934e9d3f15d307b955cfff4588bd00b2491385b05c22847d1d70/asq-1.0.tar.gz"
+      },
+      "1.2": {
+        "sha256": "c876bc9c8d7058a0e79e3b50a0dc5cb5dc2115b8b270bd45f340dba3ef9c7b97",
+        "url": "https://files.pythonhosted.org/packages/43/32/8d8302714715985c79cb987397a153cc7855b5adb1e8337801d237817549/asq-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "a7f1cac711fc2834a348aee0075c9a3f4ea06642257add71585d457e3f86e68d",
+        "url": "https://files.pythonhosted.org/packages/23/aa/a67e1ac967b6af7e5826ba314e9868e987c00958af456cd092f466915b50/asq-1.2.1.tar.gz"
+      }
+    }
+  ]
+}

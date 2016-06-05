@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.1"
+  ],
+  "meta": {
+    "description": "devpi-server plugin\n\n- Accept requests based on the REMOTE_USER header (provided by nginx for example)\n- Do not check any credential and give the user the 'remote_user' group",
+    "homepage": "https://github.com/Polyconseil/devpi-remote_user",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "13af0bea377bf2c7bb504087830eba60f7cd50e5821f0678c44d14198ecbdd4b",
+        "url": "https://files.pythonhosted.org/packages/2b/61/9e665e596d0267b02f8285824a786af4171a2d52f5cbff090f7ced327dec/devpi-remote_user-0.1.tar.gz"
+      }
+    }
+  ]
+}

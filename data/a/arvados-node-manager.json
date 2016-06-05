@@ -1,0 +1,298 @@
+{
+  "latest_version": [
+    "0.1.20160526140904"
+  ],
+  "meta": {
+    "description": "Arvados compute node manager",
+    "homepage": "https://arvados.org",
+    "license": "GNU Affero General Public License, version 3.0"
+  },
+  "versions": [
+    {
+      "0.1.20141112185933.8f9f0de": {
+        "sha256": "d466ffb987e25631e5bbd2fcbefa046d077c3e0e66a550662c1c184e174ef142",
+        "url": "https://files.pythonhosted.org/packages/86/ec/3b7336d6c61603312a442ddb15fecb73681d943dcd6a2de25cc75afb0b51/arvados-node-manager-0.1.20141112185933.8f9f0de.tar.gz"
+      },
+      "0.1.20141118200426.6c68141": {
+        "sha256": "1cf513703f6edefd912578e49a24a09eaefbaad0a31cab37b09323eca8d9a47b",
+        "url": "https://files.pythonhosted.org/packages/d5/5b/bfa464ea472b2610d795799d73665240ba9c400ae31d6123b2f58721eb3d/arvados-node-manager-0.1.20141118200426.6c68141.tar.gz"
+      },
+      "0.1.20141120215605.ba251e2": {
+        "sha256": "2f06cd9ae961bef4c1ed341a175d371e780063f07570ac858968eadd562c0c80",
+        "url": "https://files.pythonhosted.org/packages/76/26/652a91eed9a3b47229f901889410db53cb9ca888ac3efdb26df55e79e13a/arvados-node-manager-0.1.20141120215605.ba251e2.tar.gz"
+      },
+      "0.1.20141210130439.8141501": {
+        "sha256": "8e432a53ce9333f58f2a596c40eadabc0f71db50a5c3f6fe2f4cc2ce7a523205",
+        "url": "https://files.pythonhosted.org/packages/03/21/3f162363e1af6890d4851f9d9944df700ae36645352bba0238058a67a34c/arvados-node-manager-0.1.20141210130439.8141501.tar.gz"
+      },
+      "0.1.20141215194643.131b0d9": {
+        "sha256": "22da191c89ace46e10c33196ff107f4c9fcca4e324c00eebcc022739069c8c35",
+        "url": "https://files.pythonhosted.org/packages/17/47/774d897c1f6a40e540ae141d92f8ac3cf5cfb40d5551ba31b6da8a32cb1d/arvados-node-manager-0.1.20141215194643.131b0d9.tar.gz"
+      },
+      "0.1.20141216163701.7b26b99": {
+        "sha256": "dbf5f97f7a96138fe6ea9859d6c876a0831c559eda0945d8b044b3aba01258db",
+        "url": "https://files.pythonhosted.org/packages/f4/2b/9f20f409c536f3729cc1b168bb8a921527739000673f8aeecfe1baf4b14a/arvados-node-manager-0.1.20141216163701.7b26b99.tar.gz"
+      },
+      "0.1.20141218154256.250ae26": {
+        "sha256": "7212c220466167e306a42a7ecbb55105785fb35af2380d5bb913020f17ad9bba",
+        "url": "https://files.pythonhosted.org/packages/34/79/2c8e0654ab95ffed3a548847558551a6e053cc3dd8df56c3b7546010b02b/arvados-node-manager-0.1.20141218154256.250ae26.tar.gz"
+      },
+      "0.1.20141218212030.2bf83ac": {
+        "sha256": "432f869b52e00fe97fff9e401546a5ccede3c5fa4a5287aad961bb74b72129c1",
+        "url": "https://files.pythonhosted.org/packages/29/df/7f700f55c4303635a4347dec236e6c38d0997a58857f1bf334088e4d3adf/arvados-node-manager-0.1.20141218212030.2bf83ac.tar.gz"
+      },
+      "0.1.20141223204749.69f0336": {
+        "sha256": "d92c8576a7da1e7e4e7fda9bbc56fe7bd679e4570f92af424c5c846f6349b343",
+        "url": "https://files.pythonhosted.org/packages/3d/f1/975092d38caff02cd9a3f986aaf4863fb33fc9b7d7830501483d73c87891/arvados-node-manager-0.1.20141223204749.69f0336.tar.gz"
+      },
+      "0.1.20141229204530-4afcb8c": {
+        "sha256": "643d2c99e670ce3ec4d32c018334ed5c727a61c8493e434449c25015858a8e38",
+        "url": "https://files.pythonhosted.org/packages/0c/7a/acfa9304d44d02c762da078f120bb31d9c15be666e359ad039e7ded711e2/arvados-node-manager-0.1.20141229204530-4afcb8c.tar.gz"
+      },
+      "0.1.20150114174738-9c2e673": {
+        "sha256": "6aa797f57212aa1677da7f62750da427989ad773dec841b10dd7b670637cb45a",
+        "url": "https://files.pythonhosted.org/packages/da/20/2b1135a31540c644b9cfe2a7c5a048169ad50c3f3206f2286d1fe28cd640/arvados-node-manager-0.1.20150114174738-9c2e673.tar.gz"
+      },
+      "0.1.20150209182855": {
+        "sha256": "8c8a9c50ddb0a69f4a8d4c41e7fc0b35862945d65c67fbcf2e139fe2eb18bbde",
+        "url": "https://files.pythonhosted.org/packages/b1/e4/2755cc02d27a26b3d9e53cb7acffa6f652034650496b3da36e4845022402/arvados-node-manager-0.1.20150209182855.tar.gz"
+      },
+      "0.1.20150209210135": {
+        "sha256": "6b2af31b4a74f01f6be3b01e0288b37326c812e56221119f56542ab1485d3db7",
+        "url": "https://files.pythonhosted.org/packages/76/ac/985d2a03680eb54e3a51cced1cb8e395da4f4166ff554ff004f2569aef25/arvados-node-manager-0.1.20150209210135.tar.gz"
+      },
+      "0.1.20150212164338": {
+        "sha256": "64e9615cfe71bfd1314744d47bd399c8de2395b4588c42ba0faebf6ee99fd75f",
+        "url": "https://files.pythonhosted.org/packages/ac/cd/6fa7a974c3eb2fbf0edfcc84c7ff407f22f27112eb6ada53ada8991d1240/arvados-node-manager-0.1.20150212164338.tar.gz"
+      },
+      "0.1.20150212192455": {
+        "sha256": "ab2cd0a7ba5733f6722801c2eddfd01fd790877009d21b220b083f3049d27ab0",
+        "url": "https://files.pythonhosted.org/packages/54/2b/abf81f91049905eb7951916e3825daeb9c683e0e8d4f6c208a8f7b673b95/arvados-node-manager-0.1.20150212192455.tar.gz"
+      },
+      "0.1.20150213190313": {
+        "sha256": "f1b40131b959caddc3eba0af052ccb3e8ae61a081f997416177eb675a597ff4c",
+        "url": "https://files.pythonhosted.org/packages/e7/83/7c471df4f0e49e256c0006d001fd4b39812202f128621208c75a2ed54e3a/arvados-node-manager-0.1.20150213190313.tar.gz"
+      },
+      "0.1.20150217225517": {
+        "sha256": "d75bc12a4f9470ca6dca49c60f62b1378737f33d7368c7524333db14e01a8b5b",
+        "url": "https://files.pythonhosted.org/packages/fd/4c/439f5baad8fe6c18bec5ff7e19522b6d00938787d9d8448c5282916c719f/arvados-node-manager-0.1.20150217225517.tar.gz"
+      },
+      "0.1.20150218153100": {
+        "sha256": "7e8485afaadcddcda2d1b96ee586d958d58746de86e6850d610a6751e9e81cae",
+        "url": "https://files.pythonhosted.org/packages/5d/d4/fae54da37fe3671401d0ebae450ca477afbf0c5d3d63a78a000bfc43d1bd/arvados-node-manager-0.1.20150218153100.tar.gz"
+      },
+      "0.1.20150302190822": {
+        "sha256": "8d284b7332279076767257d94ae6cf74d5791d368c6290ca0be3f5d065f94bca",
+        "url": "https://files.pythonhosted.org/packages/1f/26/4f2a589070be22dcaa01cd9cbd2ae61d1134257bb240e5019c26a4f69947/arvados-node-manager-0.1.20150302190822.tar.gz"
+      },
+      "0.1.20150303151014": {
+        "sha256": "ea9c45362c7ff0e8ffba0a28a7f93d38998be87a2310fd7c26c240efd538fda1",
+        "url": "https://files.pythonhosted.org/packages/a7/84/47d4cb9af6ceaab7682b3bb9216f6f51a133b068ac3b23006e7854d4b819/arvados-node-manager-0.1.20150303151014.tar.gz"
+      },
+      "0.1.20150318125732": {
+        "sha256": "c84b2a33e07c417240784c606d035b4cfaf7fb72bf1bd7e32bbcebb9fbb7937d",
+        "url": "https://files.pythonhosted.org/packages/64/86/0519c5e445dfbdb40a97d0271600d839f8a4efb6096b16bd9f3e39f92670/arvados-node-manager-0.1.20150318125732.tar.gz"
+      },
+      "0.1.20150327211620": {
+        "sha256": "d69428277fc7c924cab20fb08f7a4d309a40d372fdb8e4143219405c7a1d88d4",
+        "url": "https://files.pythonhosted.org/packages/4c/96/a3d1cfe0a77dcdcf250b913568289de353e6e07c55c5432bc6f1cc4d2128/arvados-node-manager-0.1.20150327211620.tar.gz"
+      },
+      "0.1.20150415191451": {
+        "sha256": "b00c8b2ea022bfc7f0c4bba5ac981c88bf11a43f6a933afa5121953a2bdc75ac",
+        "url": "https://files.pythonhosted.org/packages/a9/03/b2629c2f889980d54143281140843d40d22b8faf8407cc9f4a923f60dca4/arvados-node-manager-0.1.20150415191451.tar.gz"
+      },
+      "0.1.20150506205742": {
+        "sha256": "13b8377aee6879e17780da8495cf6b8ae2890ea7a75c186dd4fac47865d29e09",
+        "url": "https://files.pythonhosted.org/packages/f4/d2/5a57937744c64cbe48afefb6e194278be797de87aa43362d1568d9100749/arvados-node-manager-0.1.20150506205742.tar.gz"
+      },
+      "0.1.20150511215048": {
+        "sha256": "f878dc302cac96c88d0a9714ecba8fcf6e4db667dfa8f6a572481c8cdcb2b376",
+        "url": "https://files.pythonhosted.org/packages/c4/15/9b875b78d10513cb695cc0b4a2cad9be177d328581d36af090b7e3103859/arvados-node-manager-0.1.20150511215048.tar.gz"
+      },
+      "0.1.20150813030435": {
+        "sha256": "13fc72fdc3cd55241b4c6c7ff7517ada21a22d0e1394ad801d455b96340ced33",
+        "url": "https://files.pythonhosted.org/packages/2b/05/49f90d842849237fed505d84f7c5306716960e1f6540e1dd9b676efeecb5/arvados-node-manager-0.1.20150813030435.tar.gz"
+      },
+      "0.1.20150828153837": {
+        "sha256": "0b56f5908696215c9ab32f02ed60770a69825097dacfa4202e90cc037cbf4989",
+        "url": "https://files.pythonhosted.org/packages/d2/e2/1cf42e7e21a7e0b3e6046b53088cfc54b5a66b17c7e7146793536aed2999/arvados-node-manager-0.1.20150828153837.tar.gz"
+      },
+      "0.1.20150901131528": {
+        "sha256": "1662b08794c5d36d51bac356395047d1d8327b6d4b9bd25e587177ad919b5e37",
+        "url": "https://files.pythonhosted.org/packages/5f/8d/43da3bb2590f0a2825a6e09485f8cee20bdcf3a4aad41b995bb3f143c25c/arvados-node-manager-0.1.20150901131528.tar.gz"
+      },
+      "0.1.20150909154354": {
+        "sha256": "b91ae5c6ffdb3ccaf81a9ed49b993ee155e47e024b4f72b454e84d3552362ef9",
+        "url": "https://files.pythonhosted.org/packages/76/c4/ab86a39e74b4f4fc2ecbe7c4f7ff08df0c9cd745fadb9e5d5d7afb5cb6f9/arvados-node-manager-0.1.20150909154354.tar.gz"
+      },
+      "0.1.20150909203937": {
+        "sha256": "32002a37e2827c195dd0e1bb1e3ed3c5209c8b674ad067814705fa4910f1ca46",
+        "url": "https://files.pythonhosted.org/packages/2f/d5/5f30ff956de0e4058c5d3a142d7cfe9c5a94c893bea000402076b1bce578/arvados-node-manager-0.1.20150909203937.tar.gz"
+      },
+      "0.1.20150916213104": {
+        "sha256": "be4175e4a5c9a1f6f256609ebcb0a5d34031350200d05839a76184c2729d6407",
+        "url": "https://files.pythonhosted.org/packages/f2/98/c57837f38bd5129e2ac9fafcbd9a4e8c27ac4d49e57966827e43da0fa1b9/arvados-node-manager-0.1.20150916213104.tar.gz"
+      },
+      "0.1.20151006131743": {
+        "sha256": "460bd7f084d38632f1f4e34f48c91357540ab8e05434a1eaf3128eabd81f8074",
+        "url": "https://files.pythonhosted.org/packages/be/e3/5e7f3cd222a8324989f9c4512fb8762d674f5fd821b837c10a8e6fbb6cb0/arvados-node-manager-0.1.20151006131743.tar.gz"
+      },
+      "0.1.20151007145408": {
+        "sha256": "f810d0f012169b6675cfbc5ca799ca258927e19de312f9df96126e47792151b4",
+        "url": "https://files.pythonhosted.org/packages/8e/9b/e7a8f134affd4ad3c90710b298eafb03cd0b2b7addb266ed1247b375cd10/arvados-node-manager-0.1.20151007145408.tar.gz"
+      },
+      "0.1.20151007180940": {
+        "sha256": "26e4a27ab783850844bcfc751c366524c260bd151613caee4e569acc49d6d056",
+        "url": "https://files.pythonhosted.org/packages/95/41/5cd63abae3ec41e009e754e6bec36ec7c906aa9d583d4e30df6c1aeb4339/arvados-node-manager-0.1.20151007180940.tar.gz"
+      },
+      "0.1.20151012164038": {
+        "sha256": "68ddd5ab101366fed1342944efd83ddf675b75224460de652f2e4571f66780f4",
+        "url": "https://files.pythonhosted.org/packages/e8/86/3148d2f94d2858f96f71c9e5cc9e11b95e78a2540fd8464ab5964b362c4e/arvados-node-manager-0.1.20151012164038.tar.gz"
+      },
+      "0.1.20151016154201": {
+        "sha256": "77684b118789b9022103e59e907f3b0bd231be1286a6503ac148a82cecd7e512",
+        "url": "https://files.pythonhosted.org/packages/27/0b/d10943bf6b62d2e669cfe2877390034d8c737b504b001deeb31b01686dfa/arvados-node-manager-0.1.20151016154201.tar.gz"
+      },
+      "0.1.20151104193201": {
+        "sha256": "baf0774fcff29d65852b7a906dc79bf947378aa927aba090582cfc1ac2d4166e",
+        "url": "https://files.pythonhosted.org/packages/c6/0b/0c1feab412d8bbe020e3f2c4d0b7a101e6c1f7ed196b4a94fb0b94ab8cac/arvados-node-manager-0.1.20151104193201.tar.gz"
+      },
+      "0.1.20151118170947": {
+        "sha256": "89491e5563806a3981320f2d87b2a80de6df16f33bc96eb3b000ed58a5740226",
+        "url": "https://files.pythonhosted.org/packages/36/a0/546b47a862d5fe0961287f9bbd9e24c5398970244b4f737cd09c6935308c/arvados-node-manager-0.1.20151118170947.tar.gz"
+      },
+      "0.1.20151119194638": {
+        "sha256": "0a94e880a9fa4687fa3340fcaea5215df94d3c308cdb7397e88085b8a76fd549",
+        "url": "https://files.pythonhosted.org/packages/3b/d2/b95716b1f0b98fdc8e84b389c86c490e08ea784f7c37d20eabb876df2c62/arvados-node-manager-0.1.20151119194638.tar.gz"
+      },
+      "0.1.20151120154857": {
+        "sha256": "0cbfaf6b77b030bbaa2ca8915ff8f5da41d6225e453438a555ccc785e1f97b37",
+        "url": "https://files.pythonhosted.org/packages/08/bc/c9fc5fd9221f29d6ce6d183a896eb5ad3fe703e5ec2c572e993c1cffef56/arvados-node-manager-0.1.20151120154857.tar.gz"
+      },
+      "0.1.20151120204228": {
+        "sha256": "680297bd0b5dcf233e3863e7e3ce35720363a5577eca94136c38429cc8edb8a7",
+        "url": "https://files.pythonhosted.org/packages/27/46/9e83c1aa57aa771cf4eed37de42323880920a783c7758950e9e2d7896e1b/arvados-node-manager-0.1.20151120204228.tar.gz"
+      },
+      "0.1.20151120212046": {
+        "sha256": "da9277a6426565a7bd8ec36d7f864354450b927444cc98ea1f0eec406dd9d424",
+        "url": "https://files.pythonhosted.org/packages/62/05/6604b3baff00ded2bf9196890682566bb1a05d2df299c4e2f434b1d2d750/arvados-node-manager-0.1.20151120212046.tar.gz"
+      },
+      "0.1.20151123142504": {
+        "sha256": "26a33d81e41080f556766ceeb011dcd477a3c5e484e0b6b6e488db9a847de342",
+        "url": "https://files.pythonhosted.org/packages/01/e6/fff27d4743e2eb6781e9acec39d835dbe484ca9f7c9fad2b00b50227e801/arvados-node-manager-0.1.20151123142504.tar.gz"
+      },
+      "0.1.20151207181114": {
+        "sha256": "31f44b8074741dd938551743397ab001450b8db16a5f3ca18de8824ff7586372",
+        "url": "https://files.pythonhosted.org/packages/11/42/794b1fc54b87b125006face5f856530e99920113cacebc59c1fb41e1dc74/arvados-node-manager-0.1.20151207181114.tar.gz"
+      },
+      "0.1.20151216152951": {
+        "sha256": "ac90eade653d7534ef46cea86b966b66a73b5640f5f5022d73564dfbf107ac48",
+        "url": "https://files.pythonhosted.org/packages/94/b8/575a30dae49276875f1caf42a4686e3f9d9647f1b1d3a6be368a45497d8a/arvados-node-manager-0.1.20151216152951.tar.gz"
+      },
+      "0.1.20160202163115": {
+        "sha256": "4aee4d229cf6fd80ad1b497f822f0a89e63a7e6b74d5ffaa5414a755f6c6c127",
+        "url": "https://files.pythonhosted.org/packages/56/90/ec161edfa6081c618c9bf6fed26c5a969547bfff773b3312580ae596f8a2/arvados-node-manager-0.1.20160202163115.tar.gz"
+      },
+      "0.1.20160203205418": {
+        "sha256": "0128d1eb5a93a4e4310610b63af57e9d4739e851c7d6e311a53678a97dcb95ed",
+        "url": "https://files.pythonhosted.org/packages/2d/88/467decc14e49f21717f669a7d6b29bac60495f2f0b0bb9f8affa255689d2/arvados-node-manager-0.1.20160203205418.tar.gz"
+      },
+      "0.1.20160208162853": {
+        "sha256": "8833e7e11fe5d24689af9822ad401448acae69a335a9d447e17039b3fb145566",
+        "url": "https://files.pythonhosted.org/packages/84/f7/4f76132546a8eb0b0648b449864fe009742409a9f0e6809638f72e70eb2c/arvados-node-manager-0.1.20160208162853.tar.gz"
+      },
+      "0.1.20160208210928": {
+        "sha256": "1fcdea5f14b0420f9e88a3491dbe85e7075c5c7e54621755729d55ee7d7a50b8",
+        "url": "https://files.pythonhosted.org/packages/59/35/fbc6813a3c28dfa6480afb1d8eb164aac03b310686a0b63ecea751c7fd0d/arvados-node-manager-0.1.20160208210928.tar.gz"
+      },
+      "0.1.20160229153348": {
+        "sha256": "0be65927c5502cd2b63dcf7e6d635e5bcfc2c88bda125b05603fc1c325a72302",
+        "url": "https://files.pythonhosted.org/packages/1d/9c/ffee8d4cdbbaf7c89c15dcfc05347c80abedb96ad2c9cdddf75b883c705c/arvados-node-manager-0.1.20160229153348.tar.gz"
+      },
+      "0.1.20160308200814": {
+        "sha256": "67e0b6f15b52274509fe021879a98fcfa1316c1ec08279d61902f373052d34e5",
+        "url": "https://files.pythonhosted.org/packages/fb/66/529c15c5009ea7a3fb2e036b2ee23f44207337323c674036941087dfe58b/arvados-node-manager-0.1.20160308200814.tar.gz"
+      },
+      "0.1.20160310205427": {
+        "sha256": "2f496cba9782cfdedadda1285b91c6fb841de80cab53b29e832b8a688f266f3f",
+        "url": "https://files.pythonhosted.org/packages/48/7d/3be42f7218378b29fe550349e09a400f9ff9b5580c793c3157d429573802/arvados-node-manager-0.1.20160310205427.tar.gz"
+      },
+      "0.1.20160311203330": {
+        "sha256": "f06aa96efac6a534fa895233ac10f75f1b8bb0b929bae06dfc335f5c6f653676",
+        "url": "https://files.pythonhosted.org/packages/2f/0a/9dd18755c0fb90d317964ea63f5d75bc36e170306e08dd5dab39cf30bfbf/arvados-node-manager-0.1.20160311203330.tar.gz"
+      },
+      "0.1.20160315133517": {
+        "sha256": "b120052a538f2430b79de3c62535ddd0c6e2e98318ad3a43eca1faff35368874",
+        "url": "https://files.pythonhosted.org/packages/ad/94/b486f741aa78f67700831b1fa2238f1a7e86ce5ff683ed0b23a8f26a622e/arvados-node-manager-0.1.20160315133517.tar.gz"
+      },
+      "0.1.20160317153001": {
+        "sha256": "025b58eeacbae3d64f0db5205977cfa74f5f40e56f3f79150689e84f017858aa",
+        "url": "https://files.pythonhosted.org/packages/3f/0b/6dc0a1b628a67f86f1e4a0b0af5222f6004e063b14185d9b46b8d02a92c0/arvados-node-manager-0.1.20160317153001.tar.gz"
+      },
+      "0.1.20160323203215": {
+        "sha256": "15a8bd08ffaf46c97bff0cb4252391c4164c710106a9508a0d97f07647581e36",
+        "url": "https://files.pythonhosted.org/packages/17/ae/0eaf027c3685f389b001a7e9303d16952521dd69b7426ce9ba1230f6c583/arvados-node-manager-0.1.20160323203215.tar.gz"
+      },
+      "0.1.20160401194637": {
+        "sha256": "430b6a28e04e8d7aaea411a55fcbdbba7884d271b7921cf50d37f0c67845a081",
+        "url": "https://files.pythonhosted.org/packages/b2/b7/da67261e8255bf1f088bbb1b45857b9d741e16562bc096afd4424d955574/arvados-node-manager-0.1.20160401194637.tar.gz"
+      },
+      "0.1.20160407213044": {
+        "sha256": "f92ece9eea1b0c4bb16c757828e683bb1a024429751570be54a63c6654d47bfd",
+        "url": "https://files.pythonhosted.org/packages/1b/af/10d1a9061352c9ffd4fea175508a61b3eae893ddcad831e22653c2dc61ca/arvados-node-manager-0.1.20160407213044.tar.gz"
+      },
+      "0.1.20160410021132": {
+        "sha256": "c43fed022dbf481ea65068c0835df65597545da41874aa78fbbccd6f85c83841",
+        "url": "https://files.pythonhosted.org/packages/3e/fc/d22f3d2285def222ca17b2f7972dabcef77986678d76487fb45c0fd20f00/arvados-node-manager-0.1.20160410021132.tar.gz"
+      },
+      "0.1.20160412145128": {
+        "sha256": "bef738885f58ea0401d782842f6a2d612f2e12887d8668cf8ad82f3327c00507",
+        "url": "https://files.pythonhosted.org/packages/ed/e2/9e84877ac87269766d0be9efa020f426be80671ba713b889877a46b0adbf/arvados-node-manager-0.1.20160412145128.tar.gz"
+      },
+      "0.1.20160415201832": {
+        "sha256": "b6956b28bfc0d7e78571ab25d8dec0c67d91b3168591d71b8b2632aa79b585ed",
+        "url": "https://files.pythonhosted.org/packages/65/20/d75e61d9234dc8205ff7de1373039bde215809ee4695d09f646b5402c83c/arvados-node-manager-0.1.20160415201832.tar.gz"
+      },
+      "0.1.20160416022054": {
+        "sha256": "f7d50aca7a70e66f3711690374cb554f4ad3d74c686a9bb19fd2da38fb0664aa",
+        "url": "https://files.pythonhosted.org/packages/fd/a4/f920a3f71a0a42d485a4793c6cbdda708b44050e050560d3b7b9d472fc40/arvados-node-manager-0.1.20160416022054.tar.gz"
+      },
+      "0.1.20160416023121": {
+        "sha256": "50f87c24d1135ff4f5ee689967fffe0ae5e032654ee8800e879696c3878177dc",
+        "url": "https://files.pythonhosted.org/packages/6b/6d/416e7ea2c317146ed7e821b654ace7a91e6453a58c89a0a78485b831d198/arvados-node-manager-0.1.20160416023121.tar.gz"
+      },
+      "0.1.20160420131033": {
+        "sha256": "15ca6f4886e96da61ed84f537ea2563be0768407d13eff0eb55ae7db32043ebd",
+        "url": "https://files.pythonhosted.org/packages/64/b7/bef08d4158bc186aef1bcb8aa5009f1115cfeaad04045fdb04978a80cf2a/arvados-node-manager-0.1.20160420131033.tar.gz"
+      },
+      "0.1.20160421180254": {
+        "sha256": "def3cfa16c566b030f935d7285c71f7dc2644ebe406d1414c73dd04bcf6794f4",
+        "url": "https://files.pythonhosted.org/packages/e7/db/9a2cddd4699662a3d36ab0eb4aee32ff5ea9898db459e3f6490ede35caf5/arvados-node-manager-0.1.20160421180254.tar.gz"
+      },
+      "0.1.20160503192233": {
+        "sha256": "13b87d1f5745354e79acd5bc5785fc73a0e4a50aa14e7ade89b61833ebd52097",
+        "url": "https://files.pythonhosted.org/packages/8e/22/f596403c882cca93894c4d9016f732a13563e3978199ed6feed7ec9337a6/arvados-node-manager-0.1.20160503192233.tar.gz"
+      },
+      "0.1.20160517151553": {
+        "sha256": "6cc03b984fa8044801f28842e047f6f135b2ef54fa86e49b95a2609ae94055cb",
+        "url": "https://files.pythonhosted.org/packages/1a/7b/7319eca576daab1fe445b1ddb298eae6d278f2e768cd257434b30bc0cc05/arvados-node-manager-0.1.20160517151553.tar.gz"
+      },
+      "0.1.20160518132715": {
+        "sha256": "ba422e895ee66966a3d54dbfb40f306a68e58010b29c1366607312c9f806fe87",
+        "url": "https://files.pythonhosted.org/packages/20/9b/9fb65290df53e931d0263638cefac64bffc002f45fc950f34c58bfad4d88/arvados-node-manager-0.1.20160518132715.tar.gz"
+      },
+      "0.1.20160518150059": {
+        "sha256": "d0991c7cbb2db5db29f8b7cb825f60bffc4a9f35113dafb0c3474e63fccc3a4b",
+        "url": "https://files.pythonhosted.org/packages/bf/28/1d53885560f2c380a707dd090059a7497ca7b9b36bf7eaefeefdaad10c4d/arvados-node-manager-0.1.20160518150059.tar.gz"
+      },
+      "0.1.20160525203349": {
+        "sha256": "892f04bf7bf654228931a68caa9f0b7b59c010b7d59534acbbfb3bea050391ef",
+        "url": "https://files.pythonhosted.org/packages/af/0c/d3101eedc05ad93936787e5984687b193768c105f73a22b9c08643466ce7/arvados-node-manager-0.1.20160525203349.tar.gz"
+      },
+      "0.1.20160526140904": {
+        "sha256": "d5a8357c139f46018588ca6f754e900b46996665c19c65763551dc36c94671f7",
+        "url": "https://files.pythonhosted.org/packages/8a/f6/f148ad8dfb8ba08213c67e9f9795b2c2f8be5037288f0df643d42db752a4/arvados-node-manager-0.1.20160526140904.tar.gz"
+      }
+    }
+  ]
+}

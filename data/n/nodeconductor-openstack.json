@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "NodeConductor plugin for managing OpenStack resources",
+    "homepage": "http://nodeconductor.com"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "efa8df85f61cc5fde0a391ddd443e4a72bcf05a46a211477063b899e88631fbb",
+        "url": "https://files.pythonhosted.org/packages/9e/0d/c4b939920b9c7eecb607ab523e49edbd4cb730bf2eb49a81c8678e49604d/nodeconductor-openstack-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "f9033c6ef17c43da0ec63ad1c4e930fc9c3e0022855d07bf02449865cb5b783a",
+        "url": "https://files.pythonhosted.org/packages/9f/d5/ac833ab955618a8e16ab3c71fdcb50335c208e77a17657c0b928fbba70ff/nodeconductor-openstack-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

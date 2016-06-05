@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Provides checking for non-existent mock methods",
+    "homepage": "https://github.com/aleGpereira/flake8-mock",
+    "license": "GNU"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "c9602d914458d94dcc3086296b3c617c9c2838ca4a2a225327312343a03f5d11",
+        "url": "https://files.pythonhosted.org/packages/07/27/89448ac93af7c75b0de29ed4f25a5b04afdf1657de94ced144014cadd5f2/flake8-mock-0.1.tar.gz"
+      },
+      "0.1.dev0": {
+        "sha256": "5fbe59f553cc0afd88ad99656c16db3d195b8b9c877646abab7322607ecb9f95",
+        "url": "https://files.pythonhosted.org/packages/ea/ea/392f97e1af1a713418b6767326542c4c6def780afba6bb2b897f023bed5e/flake8-mock-0.1.dev0.tar.gz"
+      },
+      "0.2": {
+        "sha256": "1a92671a7ac847bee629a2e8dec96a3cc20dd7e7a5e572449d76803d4a71bd75",
+        "url": "https://files.pythonhosted.org/packages/3e/1c/767b1b68280e39857841b4deadc929fed034432015dcf57ea3cb49ba147e/flake8-mock-0.2.tar.gz"
+      },
+      "0.2.dev0": {
+        "sha256": "b44fc38e021c89b1ed63b5b6615e03bdca0b8c6e574b83b0e28f26d16faeeaa1",
+        "url": "https://files.pythonhosted.org/packages/c0/b5/f90b415c549e24b603d3b1a922a0e66add6b14d5a0bc50f0ad9ad2fc1434/flake8-mock-0.2.dev0.tar.gz"
+      }
+    }
+  ]
+}

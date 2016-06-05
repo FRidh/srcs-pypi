@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0beta2"
+  ],
+  "meta": {
+    "description": "Astropy affiliated package for accessing Virtual Observatory data and services",
+    "homepage": "http://dev.usvao.org/vao/wiki/Products/PyVO",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.0beta1": {
+        "sha256": "b468b72241da019237e411222299dc038911fc8ed7305d02bef163ae32565cb4",
+        "url": "https://files.pythonhosted.org/packages/ea/e4/e69541bd681621b44e7e0c17de6ec459d04d36f7e9d0b99fd16d0bc1ebe0/pyvo-0.0beta1.tar.gz"
+      },
+      "0.0beta2": {
+        "sha256": "ffc4c3b585d80156a63a8003f92a240710d4a9b0fed20be03a35e5ff600e3155",
+        "url": "https://files.pythonhosted.org/packages/81/64/9d7b906a1ed3dd876048860c660f71e3441776042a490a6d646176a30c1d/pyvo-0.0beta2.tar.gz"
+      }
+    }
+  ]
+}

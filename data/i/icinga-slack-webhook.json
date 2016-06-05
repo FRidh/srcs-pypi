@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.3"
+  ],
+  "meta": {
+    "description": "icinga-slack-webhook: A notifier from Icinga to Slack",
+    "homepage": "https://github.com/samjsharpe/icinga_slack_webhook",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "ce4d79552e78f8d3b21e146cdd4e18c6cff1e3d8e6dc2dfa227073a34f783d33",
+        "url": "https://files.pythonhosted.org/packages/93/a5/4ac3b9230e5d1baec31e5402904c58c93c333e7b98325b060dad38fa3838/icinga-slack-webhook-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "27a7b3d060aa2ad367628159e5894839ffd09c6adce5ca2922851d4e3f1b3f2e",
+        "url": "https://files.pythonhosted.org/packages/bd/43/76be2a85f3ada15f1c1c7dc8ddc1698182c88904202868cdacc880639da6/icinga-slack-webhook-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "e1dbd1be532b77fc816bbdf4123b7884be2cdb87fef8c862c3e342f37cf649a4",
+        "url": "https://files.pythonhosted.org/packages/1e/4a/f7bf63770e84a6e93138a2a9449774c661a72b5e7e3751b7bb38e9eb5640/icinga-slack-webhook-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "f2390a44e460484d8358c2da3c84b3ce003f189fae469f4f024e9a8e1b61566f",
+        "url": "https://files.pythonhosted.org/packages/29/b6/8b159ff534dc169e128b96c9926916737ac29f824561d29504204073d97e/icinga-slack-webhook-1.0.3.tar.gz"
+      }
+    }
+  ]
+}

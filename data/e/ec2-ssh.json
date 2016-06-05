@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "SSH into EC2 instances via tag name",
+    "homepage": "https://github.com/Instagram/ec2-ssh",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "3b0fdf651ec09d523fe1f2f4ee4b42483dd722ebf76c5ce4048eaca6a7d03ea7",
+        "url": "https://files.pythonhosted.org/packages/99/74/f227128fe73159d68cbde9aa573663bb387b0084ea964626d3376c3b0956/ec2-ssh-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "ff774d62baf865112a5e7b6561e40dbb380629f4d7666e433785e34991fe51da",
+        "url": "https://files.pythonhosted.org/packages/25/de/54c700c9d24d393923fd0c8f2647c25a6c51b8bca1fc81e0cc69aeaa79b1/ec2-ssh-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "c66f80a80112e047141356938da079da50ce86e0bbf6ca075f5c205008d20e9a",
+        "url": "https://files.pythonhosted.org/packages/bd/25/bbdf0f785fb24f28dc3e74437fc3f33f12a953ddcdc8ba098cd7ff51a18e/ec2-ssh-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "91e37860e7965468b6b1362db5c1d0fbf0f434e03fb39d6f3124670fac85cd2e",
+        "url": "https://files.pythonhosted.org/packages/43/6f/7b9dcf1e1c78c1867ae208600fe7900e520453fbc4422a09a710252cd039/ec2-ssh-1.2.1.tar.gz"
+      }
+    }
+  ]
+}

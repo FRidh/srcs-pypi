@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Simple helper to save settings in a database and efficient access to this data through cache",
+    "homepage": "https://github.com/niwibe/django-dbconf",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "43c25793310b6ad9bd9ba8f53bd098efc3626cecd250bc564cabed5d7ca39775",
+        "url": "https://files.pythonhosted.org/packages/08/c9/bbd740ec2752ffa6601ec2007f99648ae560bf42b8be2e3d11541e6da9b8/django-dbconf-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "95b62c836894632228bf11d211534d20e4c116d9769ccb45d163a3bbcf9835d9",
+        "url": "https://files.pythonhosted.org/packages/4f/81/fa54650b1dc162ee4234f99cf00f1dffeedc8da37cd749c7febadebcb656/django-dbconf-0.2.tar.gz"
+      }
+    }
+  ]
+}

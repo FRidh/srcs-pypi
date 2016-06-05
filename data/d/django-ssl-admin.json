@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.1.4"
+  ],
+  "meta": {
+    "description": "Django middleware to make the admin https only",
+    "homepage": "http://dirtymonkey.co.uk/django-ssl-admin",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "552fa46c8593a263d04440ee3a59b058c9aaf5e0403be5ed4e36f7342df62edf",
+        "url": "https://files.pythonhosted.org/packages/c5/53/b7ba315598fbc579c5aed6b80f1048c51be7174f7b56cd3d0d5c0702ba0a/django-ssl-admin-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "42482bc6d448817fabcf7a0fb68c36e26c0e899fedff5a59ff3b6181757681bc",
+        "url": "https://files.pythonhosted.org/packages/15/85/96aa4b1fe52864e9181c1e34e6a1d77fd0bd96b61a476ee7032c1c0e2b28/django-ssl-admin-1.1.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "87bda1f84fdc086f0bb38b9379a75f81efa4466c35e9a9b73669df8a2544faf4",
+        "url": "https://files.pythonhosted.org/packages/22/e6/cc4a982ecea1fc2e4e562cb8d87de7b1e75ad8d367c97400269ead1e4f39/django-ssl-admin-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "21d6ed28105d6ec70b6621584ce02a340b8b772f5f7b86c697ec9e4609973c78",
+        "url": "https://files.pythonhosted.org/packages/8f/b5/d08a135a891462227b6ffd4fd46247dc27e8bab75594476a669da7f1f848/django-ssl-admin-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "a19b3f7b8ffe0fe9d7e8f707bc6416fbe15edc771ed154935742d602ec4071a5",
+        "url": "https://files.pythonhosted.org/packages/ac/1d/488ba201c1662793f31c160d4b14665986209f44b495dcce0bc34a8d190d/django-ssl-admin-1.1.3.tar.gz"
+      },
+      "1.1.4": {
+        "sha256": "eddb90418b2f4648029e1e68244a1cca59edbddc82e50601fbb4da71029f8626",
+        "url": "https://files.pythonhosted.org/packages/ce/5c/4a001ea3769ac20ad83b0638513c2ece2bd3b3490bf4134b25bcac96fc49/django-ssl-admin-1.1.4.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Fast and simple JSON RPC v1.0 for TCP connection",
+    "homepage": "http://github.com/mengzhuo/justrpc",
+    "license": "GPL2"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "4c3ea2c2cebdbbf703cd451b37de2c3944e632f1644f87302d7658b72b59a13f",
+        "url": "https://files.pythonhosted.org/packages/b6/39/307e8bef23852b8a463c372916ed7ca45194d6ff18ce41bb66150d9a95b9/justrpc-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "71d83924b55a2f64f99497d5ed52f36196e5d0a81f9db7bc7049dd9e4050a5f4",
+        "url": "https://files.pythonhosted.org/packages/72/eb/92023a9a2b883491852f4d06fb015d1ce30c06c887947b163de7ed27e089/justrpc-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "81e3a4664494187c85f546c081738b0547f4ffb351a67c1f58f837c46327fdde",
+        "url": "https://files.pythonhosted.org/packages/b5/4a/77f10d55082a9fe95ea59a1fb54d65bc695f2864b5aec45c0c5a43bbb43b/justrpc-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

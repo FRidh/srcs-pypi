@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "A form mixin that reports form errors as events to Google Analytics",
+    "homepage": "https://github.com/ministryofjustice/django-form-error-reporting",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "3ec2a7987fc2b0d3101b97b7839c9127886b049d3591341a5be8e25b40983f40",
+        "url": "https://files.pythonhosted.org/packages/26/36/08db75903d3fe744fd69a43d8af85fc556b3e1ca5f7dc2e26cd336bf0acb/django-form-error-reporting-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "4b732daa9fee008f4f25803a44614ebbade2923a6ef0ae611f1ccd0746c43d0a",
+        "url": "https://files.pythonhosted.org/packages/58/b2/5a8b106d97862a62f19f4e52ad8357d718430acf054d442ff8db08361f75/django-form-error-reporting-0.3.tar.gz"
+      }
+    }
+  ]
+}

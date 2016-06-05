@@ -1,0 +1,413 @@
+{
+  "latest_version": [
+    "0.2.33"
+  ],
+  "meta": {
+    "description": "a build system for python",
+    "homepage": "http://uranium.readthedocs.org"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "325f749a343de4904dca69f3b687eb8ac27cccb289ad48b9c8ab2d7bf88b6a4c",
+        "url": "https://files.pythonhosted.org/packages/5f/1c/326e5f64fc255acc7af82b5f00f0da393ebf921a8cd76c393ca7d9aec8d4/uranium-0.0.1.tar.gz"
+      },
+      "0.0.10": {
+        "sha256": "5df8807afb1086254e2143d38b36ad7375f05a1223e6422364ac33fba424fee6",
+        "url": "https://files.pythonhosted.org/packages/6e/c7/f31477a967fcb859704b03a05c7bf240ca76d7f963124a187eb999999365/uranium-0.0.10.tar.gz"
+      },
+      "0.0.11": {
+        "sha256": "46ea5ce5a10045ab79c1b1ce7ebbba23d05d5e82d4937517903f93ee776ad3fa",
+        "url": "https://files.pythonhosted.org/packages/c6/50/66ebdbf544685cab260762a95251d0e2f94416fa89ecc7e0f10ec9251a2a/uranium-0.0.11.tar.gz"
+      },
+      "0.0.12": {
+        "sha256": "a6f8169e4ccc2eea13bbf2f8368086d2b1eb9f128d299ab4f99377b28cea9d5b",
+        "url": "https://files.pythonhosted.org/packages/b9/f2/0cf798bd0b78e0d1eafb27a9e345789929d3f75203ccef88730476fd1287/uranium-0.0.12.tar.gz"
+      },
+      "0.0.13": {
+        "sha256": "31fc52cab91ca00cb7fb8a5f73332b58650df7062fc09b204f92ba6582531bc5",
+        "url": "https://files.pythonhosted.org/packages/d0/c2/882f9fed79c4f94db6dfdb099ba8fc56d0f02572c603d895715ea5e24a81/uranium-0.0.13.tar.gz"
+      },
+      "0.0.14": {
+        "sha256": "dae9cd3ccdba26406d265069913e9f65f8c44b6db104ac0b6f8c12564856c5c3",
+        "url": "https://files.pythonhosted.org/packages/14/bb/19083bd4807c4cccbad149fd3314c47b8ad4289fb472eb8eb77e2edaba64/uranium-0.0.14.tar.gz"
+      },
+      "0.0.15": {
+        "sha256": "098281e79da5ade3cae4e8157ca787ba6c017589f2c47833c2d7f14fbdb4490f",
+        "url": "https://files.pythonhosted.org/packages/eb/15/35fd589149dd074e245491e0ed365d91e35604ecf9f5a462b08fe8e04e5e/uranium-0.0.15.tar.gz"
+      },
+      "0.0.16": {
+        "sha256": "b0d185178a290a1bcdffdcde2fe8bfb786a0dd63a69fd3935160fa35ea2824b8",
+        "url": "https://files.pythonhosted.org/packages/b0/08/3771b921a5a1665b38f6bdcd060f10c68b5476d39c719916990a461a09cc/uranium-0.0.16.tar.gz"
+      },
+      "0.0.18": {
+        "sha256": "1c367aaf7014862cecdb3749abe7772f46efaf979fe65201ed15097b10955300",
+        "url": "https://files.pythonhosted.org/packages/88/22/0cc7acb1751a5f4593992589dbfe7fa222374489d61944d69678367e3d46/uranium-0.0.18.tar.gz"
+      },
+      "0.0.19": {
+        "sha256": "0e037a3bd1d5dfeddd3ca271875b56a8b2b9364c1c9a63ddd6de482743f4e0ae",
+        "url": "https://files.pythonhosted.org/packages/73/94/551709f47bd79bc256e0a03f5955a4e7ccce65f887c0e94d674d04c82c96/uranium-0.0.19.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "aa8eb282983646068d67a0f72f519363eb8525864d16732bd01ce0035dab88a3",
+        "url": "https://files.pythonhosted.org/packages/1a/ce/80e0be8a9cfea27a610b5f06baf702d1a411fb54e2a15dc2a687c4079b08/uranium-0.0.2.tar.gz"
+      },
+      "0.0.20": {
+        "sha256": "322bcc819208ad0b18163942538e0edda49a6a5fb542f2758b5795220d3345ab",
+        "url": "https://files.pythonhosted.org/packages/b6/25/cc25d8c100cf5889d81e74e9af8de5d583e1f4079a084f6687e5d9fe5b90/uranium-0.0.20.tar.gz"
+      },
+      "0.0.21": {
+        "sha256": "1872c820f75216867a86f8a518aefa08b59e62e927938aa962856f14f64e53d0",
+        "url": "https://files.pythonhosted.org/packages/43/12/f60535b7a2f4801aebc928078be804c025df63051502fec9b1030b51e744/uranium-0.0.21.tar.gz"
+      },
+      "0.0.22": {
+        "sha256": "f23e018112b1f822f0f124ab662f39f26af5e89d77736d14b8a3ab6df12e9137",
+        "url": "https://files.pythonhosted.org/packages/ff/d7/777910fdb686aa0f675eacdb5742bff07bd879dc059af59c0ec596c8495e/uranium-0.0.22.tar.gz"
+      },
+      "0.0.23": {
+        "sha256": "f8120dc1045b56d28580051238afa18315b26f72d86069397056cd7e4c2f9774",
+        "url": "https://files.pythonhosted.org/packages/a2/46/9823847145fb00ac9ab6ff7eb9334312f12c9d78b485f351e4bbd2569a77/uranium-0.0.23.tar.gz"
+      },
+      "0.0.24": {
+        "sha256": "597ae3e24aba8cbe02be1a34714f91dcfc60b022bc7f49a012ced47e89adcc9d",
+        "url": "https://files.pythonhosted.org/packages/69/09/d502844639dcae7353ed81cd30ec318bd316661d24feb065ada5e909187b/uranium-0.0.24.tar.gz"
+      },
+      "0.0.25": {
+        "sha256": "b31044df08fe894f072c99995602fb76d8a373dab71e42a54dc8ef686c546ff4",
+        "url": "https://files.pythonhosted.org/packages/66/16/12b8bac17f4f6f5f55d7bd60484368fde197efdb24253daf64cf9b3c7784/uranium-0.0.25.tar.gz"
+      },
+      "0.0.26": {
+        "sha256": "9348774de404b1ad87e33b0b48eef31f10f2ebcb6f81cdab3fbcc665b0131970",
+        "url": "https://files.pythonhosted.org/packages/86/f0/42075e65713d9f43aa1b22964e9cf2ef4a767386e209491342538f5bbec6/uranium-0.0.26.tar.gz"
+      },
+      "0.0.27": {
+        "sha256": "05acf8b21834539a90faff20e3d935d576019aebbac7a581afd1c28ee6573493",
+        "url": "https://files.pythonhosted.org/packages/aa/4a/9294184dd91f3352a332f01231f4dc8a614f1f78bb17a55bfb9d45d2b99f/uranium-0.0.27.tar.gz"
+      },
+      "0.0.28": {
+        "sha256": "aade566c5ed047e4be1976697ec677fa199123b7e4adb643eba808b4d7e4bd43",
+        "url": "https://files.pythonhosted.org/packages/37/7a/217515329d5b5d16ec7e576f3ad11545d8a6d0a1717564366070301fa8f8/uranium-0.0.28.tar.gz"
+      },
+      "0.0.29": {
+        "sha256": "1b514582c5259917a6df91d71a277575440eb50ff4b93176bf0ceb91b4d8ec64",
+        "url": "https://files.pythonhosted.org/packages/2d/cc/fd95d7625abbc0af2e1efb7b65972e9169cdc66e679061fb9e503f8795ae/uranium-0.0.29.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "2ee279384b9173669252b7d3a10bcb7c4d1751dc1cf492c43e966266fdd35f04",
+        "url": "https://files.pythonhosted.org/packages/19/f4/f672310833cd046e81f2290490f60b5299244e6c3733fd141fac3561b5d7/uranium-0.0.3.tar.gz"
+      },
+      "0.0.30": {
+        "sha256": "0bfea490fd32b80bff3e3fb9fba1a7c3581452e8a47daa8b3617913d772d8e8d",
+        "url": "https://files.pythonhosted.org/packages/6c/bc/4d877e554fc3fa979fb388f5f67cb4a05b4c4b282574c9b77f33fe956f9e/uranium-0.0.30.tar.gz"
+      },
+      "0.0.31": {
+        "sha256": "8f5891f57303e50cae9aaea18660fc2d38a3c2ceea7946984deca861927a75f2",
+        "url": "https://files.pythonhosted.org/packages/42/24/711a7b3536ce4381d9afa5b7d8c8bfe02006b52f9fac14d3bba5960c528e/uranium-0.0.31.tar.gz"
+      },
+      "0.0.32": {
+        "sha256": "24587f3e95ba02934946aec672665e04b053670ad5c9b5ad45b4415d844d1ae5",
+        "url": "https://files.pythonhosted.org/packages/3a/03/594428a7cbc6f904b6fd87f394ff650f3cb2888dd06ea83ea93c682d62c2/uranium-0.0.32.tar.gz"
+      },
+      "0.0.33": {
+        "sha256": "4aecb9d2a6f635ec3eacd77eb7e20498bb0ca3df985b0056a665133dbf258d6c",
+        "url": "https://files.pythonhosted.org/packages/72/d1/7bb8bac181249bb49257619da7cd650814c21e813756548ac67f9eebe78b/uranium-0.0.33.tar.gz"
+      },
+      "0.0.34": {
+        "sha256": "2b0cb38737c94336051279fea5e5231013ebc579d0978cb7709dca1da1ddb742",
+        "url": "https://files.pythonhosted.org/packages/9a/87/c6d2cbdc3c70f08ec6e312ea9278cd3fb883b6b60f767994272795e26569/uranium-0.0.34.tar.gz"
+      },
+      "0.0.35": {
+        "sha256": "14d3acdf37190605a790190c84ff25b76660b8b914cd3100b7a6821b307e4d29",
+        "url": "https://files.pythonhosted.org/packages/40/b8/9ae97a8d08134604c8f7c1f20081dce93d81c7b27439b8f6c0be3b3b43a6/uranium-0.0.35.tar.gz"
+      },
+      "0.0.36": {
+        "sha256": "f19a48052c266505d0afa574d3e5cd07194f19f557576e3e2fc6ab9114a9b607",
+        "url": "https://files.pythonhosted.org/packages/40/cc/c1912d754d915badd4a07ca671886662fe34b9c1a33bbab7eeb58d6a8e0e/uranium-0.0.36.tar.gz"
+      },
+      "0.0.37": {
+        "sha256": "d0197d6bc52499e59e1744a1497267d2cdf2c22a3ce21f900dfb71baff27f590",
+        "url": "https://files.pythonhosted.org/packages/9e/7b/079b8b8d0219cd2417939b94be8f072796cc9c8660ab65b1b6a6182d02aa/uranium-0.0.37.tar.gz"
+      },
+      "0.0.38": {
+        "sha256": "07e5754d5293168eb97654c052e5a57bc68ffce84e54c4e94658083c296070b7",
+        "url": "https://files.pythonhosted.org/packages/5b/8f/1cc1b8cfe3cacbec8da8691ed01d0043bc95d769b5e2bccbd0439b9b9955/uranium-0.0.38.tar.gz"
+      },
+      "0.0.39": {
+        "sha256": "d8f0ee029f4bd575edc68fc2c14f409bb09034087ed9015fdeb75c726abb783b",
+        "url": "https://files.pythonhosted.org/packages/80/cc/0be51b47cf2af043e599afc659d7e3a940db19a2e081d123e6c8827015a1/uranium-0.0.39.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "c1514a03ee66ad734c0a97126545be4c303873054077a877ef58912ec4a7e1c8",
+        "url": "https://files.pythonhosted.org/packages/d6/9c/5e7148ab01a101801835bda95a2cb37d914ff1c90b0c087021b0b0331c48/uranium-0.0.4.tar.gz"
+      },
+      "0.0.40": {
+        "sha256": "a8a2c0e8cd21a5f5bed65245169d8b905e5d35ace0ca054643a1f6d0bfbc0719",
+        "url": "https://files.pythonhosted.org/packages/3d/ab/fef253ae157f3efb79fddf90a1bb74041c7a2d79de99d82d48b2f0d42e5a/uranium-0.0.40.tar.gz"
+      },
+      "0.0.41": {
+        "sha256": "0138bfbe2d1b7ea2cf90dc072c50c68bfdd159bc3653809caee0998b87869d34",
+        "url": "https://files.pythonhosted.org/packages/6b/3b/a5b65dc9d869a071add14fcf8cb7a62fba0941f6a9432353a21b4da78e0f/uranium-0.0.41.tar.gz"
+      },
+      "0.0.42": {
+        "sha256": "ab6be18ce6549c6eab5a6527c78146237676a4a0720112b92f306a96d715b1ee",
+        "url": "https://files.pythonhosted.org/packages/2d/40/e6cc9fa7a7ee3ed5037624b091562aeeeac14d3d8c03285d9c20482a8087/uranium-0.0.42.tar.gz"
+      },
+      "0.0.43": {
+        "sha256": "4e62cb51569187fa2e3550c7b18bdd921fefb477fc1046dcacace2807c0e5e82",
+        "url": "https://files.pythonhosted.org/packages/c2/d1/694e73534fb7067bf817df8b0f52998dcb0123ee19102bc4e0feb06fa93e/uranium-0.0.43.tar.gz"
+      },
+      "0.0.44": {
+        "sha256": "cd11b00397f57fa92fbd252ce9508a830148f01ace4d22d7415acdb8da17728a",
+        "url": "https://files.pythonhosted.org/packages/d1/e3/de2678b8dc8fcbc0ea57e43a9fd91c9f24d8858ca54c300c0fb5991622b9/uranium-0.0.44.tar.gz"
+      },
+      "0.0.45": {
+        "sha256": "a7d78dc9c381ef14f8f884ef0073510477630bd275e983a75f3fd9b4c6f4b18e",
+        "url": "https://files.pythonhosted.org/packages/70/cb/06564c6a3df52c8bd63806c9d71ac27c62b9ba90e2a2f579ef5a89f0cf08/uranium-0.0.45.tar.gz"
+      },
+      "0.0.46": {
+        "sha256": "6171070bac6b62d8aa3ac1864cbda1cfc69dc72856801b680bd34fe220e92910",
+        "url": "https://files.pythonhosted.org/packages/bc/c8/3d046434bcc154a22d5d1f0da6eee02db654376fd185187bdf518f632d4c/uranium-0.0.46.tar.gz"
+      },
+      "0.0.47": {
+        "sha256": "ed6e8cfe972884d778f8a0d43f9361f37f77e2f144375c482c0646c3de6b0222",
+        "url": "https://files.pythonhosted.org/packages/17/2c/e1308cd7b79d646d0b75d39cdcd268301f024140b7a3a17a1c1c49773a41/uranium-0.0.47.tar.gz"
+      },
+      "0.0.48": {
+        "sha256": "41e24e99bd388fd994e6a21473728d4f9f220a032ab66e0f223362149e42e4bc",
+        "url": "https://files.pythonhosted.org/packages/df/e1/43468420a594e832cbf462cb6df8db318bbe7b2b5fcde740dbb7c322d38c/uranium-0.0.48.tar.gz"
+      },
+      "0.0.49": {
+        "sha256": "809d7df35024081c8df93eb8be00d44d49901e3e0d5ec21b1d47546ddc411117",
+        "url": "https://files.pythonhosted.org/packages/d9/9a/be5344458eccf010252966c7ca974dbdab8e468cef77f324649dca6fb888/uranium-0.0.49.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "57c7b95cc8a0a1358c2edc7195e977982f22ab3244a9f93ac7b2560d4f7cf331",
+        "url": "https://files.pythonhosted.org/packages/d8/22/11bdc4f646ec4f47681df4ea66532933312926aa9462054db33954049ade/uranium-0.0.5.tar.gz"
+      },
+      "0.0.50": {
+        "sha256": "db2fd26caeb1fe58fefc63499cdeb320f2a0319c3c240888758ee962525ef7e6",
+        "url": "https://files.pythonhosted.org/packages/96/25/1adc69024dd27a7d86a4c3a60b839a638496b2d7bb4bf0196f47da85d56d/uranium-0.0.50.tar.gz"
+      },
+      "0.0.51": {
+        "sha256": "6080b24106788f87ee1cbb47b45be5cf42c625f27c0aed3025f35378b6d7cae6",
+        "url": "https://files.pythonhosted.org/packages/b5/64/2bff4fb35a58e692bddac0aa5ec8e1356ab830009165e5ba338a3f2fb504/uranium-0.0.51.tar.gz"
+      },
+      "0.0.52": {
+        "sha256": "08a7f402020cc80abed5399966542939db58ccf5aa31d1509b3669254b6e9263",
+        "url": "https://files.pythonhosted.org/packages/ae/2a/a33a372bf187292c38b4587d6b4f071af37c6110499bd429d606566b1d52/uranium-0.0.52.tar.gz"
+      },
+      "0.0.53": {
+        "sha256": "cfebe8a09c4b869f6ef7914e903ee84fcc40c21b50a76af45f032dc80fb6f753",
+        "url": "https://files.pythonhosted.org/packages/64/73/78e306b9748104ede4c340330ef3169799fd417ffb47fdfe5dc9918bf442/uranium-0.0.53.tar.gz"
+      },
+      "0.0.54": {
+        "sha256": "a4150db424bc257c75fd5f39883b73e8b42c92b1b77f293b21e35dff49011774",
+        "url": "https://files.pythonhosted.org/packages/70/1f/d246034372f5331879fd5318dbb9026ac37e15d03f69d0d186510a7a4d36/uranium-0.0.54.tar.gz"
+      },
+      "0.0.55": {
+        "sha256": "1e51a913e80d5a5e5ce7d8807a5e6be6e1d0fc65b89988a97c391cb091ca2acb",
+        "url": "https://files.pythonhosted.org/packages/80/51/50fbc3cf730b35fc36141b1fa9d98cabef9d514a4210fbf45600d4146bc1/uranium-0.0.55.tar.gz"
+      },
+      "0.0.56": {
+        "sha256": "a8270d52d7bc3254912424225ce9aef57d35a59eaa319897e1c04fb1ab3d54e0",
+        "url": "https://files.pythonhosted.org/packages/55/fe/dafbd90ca27c7c6574739fbd3d9d842684f97eb5539c7ab65cee3c401b81/uranium-0.0.56.tar.gz"
+      },
+      "0.0.57": {
+        "sha256": "1141ecc3431be72101e3baf25d02b6b875f6aa48e36ebd13cea17df0fee16c88",
+        "url": "https://files.pythonhosted.org/packages/cb/f4/790706fe526e83098e8cb1e086256f2d5fe7a1d51125ec7a2f11379ad015/uranium-0.0.57.tar.gz"
+      },
+      "0.0.58": {
+        "sha256": "456e1e9dca6c5ab4945f0b17b5e50addecb31aadf87b40fa110fd57a86755468",
+        "url": "https://files.pythonhosted.org/packages/6d/c1/d83d32f509814c266fc38e2df7dca30f9cf8a0daca2f9003753570ae196b/uranium-0.0.58.tar.gz"
+      },
+      "0.0.59": {
+        "sha256": "b658f31d59eb4de2f126bedc815bd1c8b378f1335896470dc8a8cf846ba981c9",
+        "url": "https://files.pythonhosted.org/packages/96/74/d3a12d804262212029e59654ba6271b667f277613ddfb82ea1e370adb648/uranium-0.0.59.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "c4f3f952a5e687f9694d5c16f70aa3849d1fee5f85c988aa9ba18f0ec8a2e07e",
+        "url": "https://files.pythonhosted.org/packages/a2/ef/f94f06ec860366b7a99002c884767637f5999a7b300433cac202b1461b44/uranium-0.0.6.tar.gz"
+      },
+      "0.0.60": {
+        "sha256": "ea7f9be3e437999bed58120fed4df8e793b2a55de35c5280abcbb9e3ade4e296",
+        "url": "https://files.pythonhosted.org/packages/34/8c/62244387e0fc1b14892cd8360d9cfbfcd1ec4f1c7f880639dec2dbcf1bf5/uranium-0.0.60.tar.gz"
+      },
+      "0.0.61": {
+        "sha256": "e06b01368a2d9f5cf5b32983ae6eec9552a6bd6cbcdee788391f165e8a52d2fc",
+        "url": "https://files.pythonhosted.org/packages/ad/d8/2ffd1373990e56e9705cfabec634c5bae386d6fd6ad6ec7baa3943498659/uranium-0.0.61.tar.gz"
+      },
+      "0.0.62": {
+        "sha256": "d67700d6e9e0b9c495e8a53c22de3f63c893656c685867c47186983f0be4ed0d",
+        "url": "https://files.pythonhosted.org/packages/51/cc/1a6eafbe4b88ae72a84f402db98da6b1500186fbeca0a4e82738c98108ad/uranium-0.0.62.tar.gz"
+      },
+      "0.0.63": {
+        "sha256": "24c1c37f102b41f5060eb40e6ae4f06bc7bf6a11de75db5795e0828a523bb12f",
+        "url": "https://files.pythonhosted.org/packages/ed/a0/16665e8404798367a2bf1a63d936d2eaed746d1a5b9fae7568e3a69d8489/uranium-0.0.63.tar.gz"
+      },
+      "0.0.64": {
+        "sha256": "0b908c6fc5f348366f529c1aeaaeac02e7f30c649f9f5a9ca53973344ed293db",
+        "url": "https://files.pythonhosted.org/packages/ab/51/d0a24b96e61f4fed0aad50e1be71c9519509a0a90de2a03e3358dfc744eb/uranium-0.0.64.tar.gz"
+      },
+      "0.0.65": {
+        "sha256": "5b8b22a2f909e9de78a103f8679a21697bfa6c2310f567d482b9dd15f593976d",
+        "url": "https://files.pythonhosted.org/packages/4b/27/abcd7d918d5c07e0e543e421a2237dcf493f383d01ec43f6b806ce19268e/uranium-0.0.65.tar.gz"
+      },
+      "0.0.66": {
+        "sha256": "731add0449cb5d32556828e3df42fa5e74be0f82c3113db093711e196cafa425",
+        "url": "https://files.pythonhosted.org/packages/49/c8/aa85e8a9ab8f33cbbf505d36d7c254fc9ce6007e20d68490d97d136f6364/uranium-0.0.66.tar.gz"
+      },
+      "0.0.7": {
+        "sha256": "dab2169c2d6219918102c0cd18596635cb37860384b4b1bcb63a3e1a6181562f",
+        "url": "https://files.pythonhosted.org/packages/ee/52/4d87e4cbd21f68147380536629716d6380b805faa0527efdd709e8d45b39/uranium-0.0.7.tar.gz"
+      },
+      "0.0.8": {
+        "sha256": "1eabfef341637b94f5e32e8d52d81cbfb5253944412892d09ed6a7300df4036f",
+        "url": "https://files.pythonhosted.org/packages/00/8b/b8b67f7781050b01297725f528c3ef88ac5aa3160b94685b835c7787b367/uranium-0.0.8.tar.gz"
+      },
+      "0.0.9": {
+        "sha256": "1280373a73914b561027fadf6041e0054d2d6e4d3cde21e99d9d0cde393874eb",
+        "url": "https://files.pythonhosted.org/packages/04/fe/9c030639dc7f9e914520e6260ba4deed194c73d8f0f28c6e891bc711b4a8/uranium-0.0.9.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "ccae13b62f90383f3f6bbe060f29e1a52f9fc5dfe303c2219a59ee4a84d7e867",
+        "url": "https://files.pythonhosted.org/packages/29/63/f804ec789aa951763fbf4f1fcaf6717bd7cc98ff63a27449c0a842ede5e4/uranium-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "ec7199144658a2308e4c83b22dafb8123aa5697b2f7f9bfb3d70bafd5a06cb7b",
+        "url": "https://files.pythonhosted.org/packages/48/58/0648638b16badde1a0f74a5a24994b408398e4b965ac3ccb4224a227f3ab/uranium-0.2.0-py2.py3-none-any.whl"
+      },
+      "0.2.1": {
+        "sha256": "225a84cc27672485fd8f20776128b8c07d075898136b9e786035dab3363684cc",
+        "url": "https://files.pythonhosted.org/packages/b8/2b/d4b85c5b2547b32f587b0a903352595ae548cd2d431d9a6ffff7f867b2a9/uranium-0.2.1-py2.py3-none-any.whl"
+      },
+      "0.2.10": {
+        "sha256": "95b97b146dce12107548bfd04849b8cd87559322cf71b7f617423281b643580a",
+        "url": "https://files.pythonhosted.org/packages/0f/26/a6b740a91104ac5506452f23f4da7b9e293c1ba50b53b0fb0941460d46ed/uranium-0.2.10-py2.py3-none-any.whl"
+      },
+      "0.2.11": {
+        "sha256": "8b1f39d7b815e9a3f10b8332311c1b16a8d4e4479aa2c41ac8150da33ff45601",
+        "url": "https://files.pythonhosted.org/packages/b7/cc/ed6a50b9cbc5c07ce8c3028875201e18052d9dea12056504304434467851/uranium-0.2.11-py2.py3-none-any.whl"
+      },
+      "0.2.12": {
+        "sha256": "22c94288c0ee4e3f65fa33f583269c58e05b0e283445f0832f81f0eb870f78cd",
+        "url": "https://files.pythonhosted.org/packages/f5/8b/e1489079249c9084a46ad46a30846e4dce69e7491559da36fa3be27978de/uranium-0.2.12-py2.py3-none-any.whl"
+      },
+      "0.2.13": {
+        "sha256": "efed2ad39898d9e6d695dff770bc2909b1d6b989597705e2ab558434621edae1",
+        "url": "https://files.pythonhosted.org/packages/9d/18/be42b25848c5dd902140351e4811eaca341e579abe84d56f540b5647c832/uranium-0.2.13-py2.py3-none-any.whl"
+      },
+      "0.2.14": {
+        "sha256": "935c84945f3c10f3952c08af273cc6afa80750154fb2079a53eefc151672a7a7",
+        "url": "https://files.pythonhosted.org/packages/57/6a/dad6ce0988eac6d66b1bfe0288e55378a2f3cf968aa2a4645d4b3519648e/uranium-0.2.14-py2.py3-none-any.whl"
+      },
+      "0.2.15": {
+        "sha256": "d8f027967db5b8b4dc2616b5bdd18bd620ba6f188949a8dc32b94fa31aafdc2d",
+        "url": "https://files.pythonhosted.org/packages/2e/10/3caef8dff9eb6b5bb5cd98b124675fcafedd4621b0d194328fed063b93f8/uranium-0.2.15-py2.py3-none-any.whl"
+      },
+      "0.2.16": {
+        "sha256": "b27267400cba622df487f99e19c1e0baee3ffbcf71fe5e9f8e1616b770600e86",
+        "url": "https://files.pythonhosted.org/packages/05/5b/87adb307830da2e06a365285ecc5887a7adb55e1c031ed94cb1d3e0c1d4a/uranium-0.2.16-py2.py3-none-any.whl"
+      },
+      "0.2.17": {
+        "sha256": "13d7405a34426165227a20c04fabf29c8a0e5e3b6fb8de4f3ed826f858e45336",
+        "url": "https://files.pythonhosted.org/packages/27/54/59a56310e54b9770d2fd23959a1e6c57c92f8b042ab69efbc01c7a4558a5/uranium-0.2.17-py2.py3-none-any.whl"
+      },
+      "0.2.18": {
+        "sha256": "8768c34a22e690384b7cde2f7337cad1ea1c9b5858fa4a0b02afa17257f2d5d1",
+        "url": "https://files.pythonhosted.org/packages/d0/89/e3c3178300edc2b62fc527c773bfb7a88f57036e2dc2a543ac8ad0b28544/uranium-0.2.18-py2.py3-none-any.whl"
+      },
+      "0.2.19": {
+        "sha256": "b3eee0ba6e01797267d00e8634118a7e6bb1e4e290bd6ca369c6d97609ae4be5",
+        "url": "https://files.pythonhosted.org/packages/a6/77/299d65bf7eb7216bb4c62a9f01cf091b7672bf03e867db2acd538b49d535/uranium-0.2.19-py2.py3-none-any.whl"
+      },
+      "0.2.2": {
+        "sha256": "2a9b9af6e43a5f74c79a01c67d795066c09e32ba162427168c32b8cfb9264b7d",
+        "url": "https://files.pythonhosted.org/packages/63/d5/da5bd74b9bbe78cddb0d9a145ba3ab57779e6021e81ef60fbe4ecb29a6b9/uranium-0.2.2-py2.py3-none-any.whl"
+      },
+      "0.2.20": {
+        "sha256": "6dd15fe564e0c47d24f3b9bc33225c2e533f3e1f3776a2a8c440b65ece312551",
+        "url": "https://files.pythonhosted.org/packages/bb/3c/bcefac13fc6aff82636a7382f2fa78567945e9ab046e62593bcb9ca2fff9/uranium-0.2.20.tar.gz"
+      },
+      "0.2.21": {
+        "sha256": "02573919f13e92117dda1c2fd7003c7b3d3cb7859eba66df8cb8efe1c9cf4f55",
+        "url": "https://files.pythonhosted.org/packages/29/04/8a4244b6d0dc709d46c5e5cffc5c9327369e3721452356dd4a2773a33136/uranium-0.2.21.tar.gz"
+      },
+      "0.2.22": {
+        "sha256": "5aeff1d0e19c75dde17195498ac0c4d624ac10fd94873c15e6d532b96d8bc39f",
+        "url": "https://files.pythonhosted.org/packages/70/d3/d0fde0f2096af4c0944b28c78a7e8bb03e1e4c9f308ccf6f46823ae27582/uranium-0.2.22-py2.py3-none-any.whl"
+      },
+      "0.2.22b0": {
+        "sha256": "e727b36eae5fa111b8dbdcb835cf0e543ba0f096870c63a43e376eda990ad2be",
+        "url": "https://files.pythonhosted.org/packages/c3/ff/07b7f5c530a511ed65debb7660585189b4f9bbf6b9cea0c6939eb9a52550/uranium-0.2.22b0-py2.py3-none-any.whl"
+      },
+      "0.2.23": {
+        "sha256": "05f4479abdef4f3c9e9d776c4ca07caae0bd99e2977fff2e13c66a2ab0fd363f",
+        "url": "https://files.pythonhosted.org/packages/be/c5/3cbb4f46e6c73e12a87605e37f8f6b087da59b1fdcbf411037e93a1ef1f0/uranium-0.2.23-py2.py3-none-any.whl"
+      },
+      "0.2.24": {
+        "sha256": "25a5965603bf4eb14decd4eba514e3ce120736d495148b18e37ff9e8fdf77c46",
+        "url": "https://files.pythonhosted.org/packages/0b/b5/7b8c9509fa12d6646100b884b6ed45d8016eaf6907c215446e2d72336ca9/uranium-0.2.24-py2.py3-none-any.whl"
+      },
+      "0.2.25": {
+        "sha256": "8eeb4c9fa668cf15556d43674ec4a2b9b2909ee38d422da5f394b29dd7bcd24c",
+        "url": "https://files.pythonhosted.org/packages/b8/c1/a7f3b44a41de9842c0984766f7955c05cacb5aa5a055b0fce504558bf56a/uranium-0.2.25-py2.py3-none-any.whl"
+      },
+      "0.2.26": {
+        "sha256": "4c28bb33046dadc79244e88972901aece4633ea33a2315890df296a6bb0fc02a",
+        "url": "https://files.pythonhosted.org/packages/3d/82/6336b5cfe9c4508446717e42c5e1ab7d8d2f90c78662033ce610836e0a1c/uranium-0.2.26-py2.py3-none-any.whl"
+      },
+      "0.2.27": {
+        "sha256": "2085e4e6b21c4d4ac5a75a83cf34b971fed5703b59d9557d8c57e0bfeb404244",
+        "url": "https://files.pythonhosted.org/packages/0e/1d/8a1c1217de9f93e1b302fa259bdba0d2683fff3250038e68ad96d403da14/uranium-0.2.27-py2.py3-none-any.whl"
+      },
+      "0.2.28": {
+        "sha256": "c8e2003f19f859da9e212fdd552460eaf6cad58b24a9c77b81d9f1d2a2599bd8",
+        "url": "https://files.pythonhosted.org/packages/3f/bb/8a3b850391bf14f922cdec828a03447855804ab7a2772130d8248d7ce9ee/uranium-0.2.28-py2.py3-none-any.whl"
+      },
+      "0.2.29": {
+        "sha256": "9d030ca8628b4396e457835c6e5dccd48a1e7f4896a7ed6d1ea6b7d0f87dfd79",
+        "url": "https://files.pythonhosted.org/packages/5f/cf/0cfb256720072efbdf6306520eb6092adf093be1041d44b37c06d56f3858/uranium-0.2.29-py2.py3-none-any.whl"
+      },
+      "0.2.3": {
+        "sha256": "e3ed61ff10c8509f39a139a3a9315d7cf3006b59d4aed9d3933299e6b80f6093",
+        "url": "https://files.pythonhosted.org/packages/9b/90/311c45515be1fc9cd1a71dd8340df64e3f9248f251cfdda718a0b965cf72/uranium-0.2.3-py2.py3-none-any.whl"
+      },
+      "0.2.30": {
+        "sha256": "632866e7e589ccc29048101986d732e360d33a172fcf5766b19e00505900fd3c",
+        "url": "https://files.pythonhosted.org/packages/56/10/49df4f729b1bd6f4452ed10562cdffcc976393f89da882f388e2c4b904f2/uranium-0.2.30-py2.py3-none-any.whl"
+      },
+      "0.2.31": {
+        "sha256": "612d93429b5817ea9d08a7726295556957d7415b25c8b5052e3ea0d70a1af9e7",
+        "url": "https://files.pythonhosted.org/packages/0f/f7/7578d88c146acdfca680f2cf10cb97a46f22245cae773c4894c0ace52c4d/uranium-0.2.31-py2.py3-none-any.whl"
+      },
+      "0.2.33": {
+        "sha256": "a65f1bd12be162103f8e1d3c2e2c1f71760e34dcf70469c69a0eaff66182b16a",
+        "url": "https://files.pythonhosted.org/packages/9e/e8/4c64cfb456562e47c706518e76f3c3882834893a5d5bf5b8363e1aced290/uranium-0.2.33-py2.py3-none-any.whl"
+      },
+      "0.2.4": {
+        "sha256": "f579819792ba25eb87004ff962ad30afa66a0683307907794e45c4986d086928",
+        "url": "https://files.pythonhosted.org/packages/91/d8/9521987e6477d9fbf9e157ba157be1145f58a98e10d4cb13ff8673e5e87e/uranium-0.2.4-py2.py3-none-any.whl"
+      },
+      "0.2.5": {
+        "sha256": "793048d60f37ef5e38a1eb10e2ea8311ef31f40d48c25259d8147df5c7ae1656",
+        "url": "https://files.pythonhosted.org/packages/85/eb/fdc93f86a18d66a86e27f980d439264319e481b2097de5e8d768e7e52173/uranium-0.2.5-py2.py3-none-any.whl"
+      },
+      "0.2.6": {
+        "sha256": "621c7ce833406a94a7e06c517e81f165d416cf41b461fb65fc87c616bd449465",
+        "url": "https://files.pythonhosted.org/packages/a8/44/541612ff08b62796c19c5fa1ecbd07d28fa3d66f1ff129c893a73aab98b7/uranium-0.2.6-py2.py3-none-any.whl"
+      },
+      "0.2.7": {
+        "sha256": "12f338b0350e5b3686583c885ae399a6923f84f50bd935e136be0f7780bfddc9",
+        "url": "https://files.pythonhosted.org/packages/ce/7d/a0ecdda3d9678127cbcd922b756bf308f949cd2ad6c22ae571a0b928bfc0/uranium-0.2.7-py2.py3-none-any.whl"
+      },
+      "0.2.8": {
+        "sha256": "3dd77bb73651f397618255a6bcbddb24bbd4fd277e151972c62402d95954f7d4",
+        "url": "https://files.pythonhosted.org/packages/a0/7c/4308134805331ea92737d6fcd03456a50f9860567a7550c7de9f047e58d4/uranium-0.2.8-py2.py3-none-any.whl"
+      },
+      "0.2.9": {
+        "sha256": "ebac490ee297a054782a02e66ef4f9b008de1acf3afc9334fe4d16f2db39dfad",
+        "url": "https://files.pythonhosted.org/packages/e0/af/51e54f7509ff5b9e211a79f67bc394d9c261d3917834935406617ab1ff57/uranium-0.2.9-py2.py3-none-any.whl"
+      }
+    }
+  ]
+}

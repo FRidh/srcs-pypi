@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Allow to clear Memcache items for the current site (according to the cache key prefix)\nor even to clear the whole configured Memcache server.\nThe app integrates into Django's admin interface for easy use",
+    "homepage": "https://github.com/eht16/django-clear-memcache",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "64bdcfbec35411db22baa0c6bd8a534f4ef40ad89367505ea2d74397dc23e38c",
+        "url": "https://files.pythonhosted.org/packages/d2/ec/350a3cfcd5c0972acebcfd8c5837d3736d4123eed1fd9500946883d6b499/django-clear-memcache-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "89185521535ac6ef94460b7881e56e0ae3b4e673c1e597c91f63ec8d7628e292",
+        "url": "https://files.pythonhosted.org/packages/5f/88/7461216880eaab5df5ffb0a689359123a1f52c88bbb19a2d38fb1e383c6e/django-clear-memcache-1.0.1.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "2f3511497b1e2483ddb1ab83c7544a36cad5ba367f8ba20cc08c771628b7a6e3",
+        "url": "https://files.pythonhosted.org/packages/79/59/eb344f8c8baac95e3d8a640e0d106dde50954a5336c45f5690d96338926a/django-clear-memcache-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "c53b3e03ca5968de11472d5ca3a8667846d03eb62a4fdbb4721b1001cedec8c1",
+        "url": "https://files.pythonhosted.org/packages/ec/c7/0900f7ce644f8f86ad73f6afc08cd99cac74f39d4dc53191f218fadabac9/django-clear-memcache-1.1.1.tar.gz"
+      }
+    }
+  ]
+}

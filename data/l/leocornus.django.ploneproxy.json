@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1beta2"
+  ],
+  "meta": {
+    "description": "Django Application as a Proxy to Plone Sites",
+    "homepage": "http://plonexp.leocorn.com/xp/leocornus.django.ploneproxy",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1beta1": {
+        "sha256": "0238ce108bdb4295ba2f8be9318f5719bb54673af2b52317d4c508e398dc63a8",
+        "url": "https://files.pythonhosted.org/packages/a5/f9/c88b23a320202bd6485d02fb62d418e36d7de68f749d5b4c0e4077b153bf/leocornus.django.ploneproxy-0.1beta1.tar.gz"
+      },
+      "0.1beta2": {
+        "sha256": "f6442df0c63facd72a208de72bd83415d81cdf19453af278b8a2ffda0b3f3da6",
+        "url": "https://files.pythonhosted.org/packages/ae/b9/d0aa80b9179c065754ef3543f6e6ded2c0ac7a57ec715ecf66933e33c6f7/leocornus.django.ploneproxy-0.1beta2.tar.gz"
+      },
+      "0.1dev-r420": {
+        "sha256": "5c45f40ce4bece7ad01d387cb17d3361d9f151d28867d4031b5079db910da44c",
+        "url": "https://files.pythonhosted.org/packages/b7/84/34768dbf6ced48073255e6b442c47ccc9d43b725e273bf25bfd9f16d5f27/leocornus.django.ploneproxy-0.1dev-r420.tar.gz"
+      }
+    }
+  ]
+}

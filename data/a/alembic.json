@@ -1,0 +1,170 @@
+{
+  "latest_version": [
+    "0.8.6"
+  ],
+  "meta": {
+    "description": "A database migration tool for SQLAlchemy",
+    "homepage": "http://bitbucket.org/zzzeek/alembic",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "cef9ae59300bd82340a2a506342e6fc337b3ace22e1c7002ecffba9ba3ed70ab",
+        "url": "https://files.pythonhosted.org/packages/a7/18/993d36964fa0d349146b2413749dbc0fa51bc30fc95ac429f5399aa8f5a5/alembic-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "c08364ffa9bcc46f71cae29cd2ab576015ee4f3a4dcfbc68074509daea752a16",
+        "url": "https://files.pythonhosted.org/packages/aa/c6/81663c6d4e628969420906571758e11d2d5d29203e569b5875f45800ad08/alembic-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "acda9db0ba2012d6f2a619d13615353d749724f03ad8bf80925acdd110255e1e",
+        "url": "https://files.pythonhosted.org/packages/c9/5c/caa760b491b4770a5518405e50b64a1725d84414b1d5a7fec40822ecf9b3/alembic-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "1120182960c2a96076396c15c1e4f8ebb84fccfa47d90f8d0c87bf8b539522fc",
+        "url": "https://files.pythonhosted.org/packages/ec/dd/02e844dcc1bde2954767b07a20e2b6614e1c0bf7f4e8c108af0a66af9b0d/alembic-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "f829dc60e8678d5d6ab87714024424f7dffde7ce196dadf4108780b5be5391b1",
+        "url": "https://files.pythonhosted.org/packages/d7/2f/066c497057ffe5c038909d30ea9894518483e354873bfa680fc8596e4ede/alembic-0.2.2.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "49ced583fc43032a5e0d6b3b3b47f7d676b0fc037d117fe6b0de7fe17665d71b",
+        "url": "https://files.pythonhosted.org/packages/d5/93/70243fb5d714dbe37246be9d31a901930d99d8f6929d62d3d245e737dd4b/alembic-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "f247547d659cd97f1f223fd8cc21304a18806daaac6daa1aa53f5a425889e892",
+        "url": "https://files.pythonhosted.org/packages/ab/b6/13fff46a56caf7c21410abebc76c267e98e7f582a63ed06342ae9e9926e7/alembic-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "92c0cac8c873adb573bf2db75739f0eece5b470f919dafa1eb9f589443e284a2",
+        "url": "https://files.pythonhosted.org/packages/7e/d3/e6bbe5b99d72d86cb6edfb0c36217520e9b4c8f063e77cc4f8f9145015e1/alembic-0.3.2.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "1f44d48d329e9a1b1d6ab72303797edf653fc1145260ff12d6463308190fce6a",
+        "url": "https://files.pythonhosted.org/packages/e1/89/31bae9383b6c9e65f3fcf9b890e5821f8a77c67ef0e48f5285050a16ed7d/alembic-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "3a23523cd59062c5fb52e031deb1de54006941ff6475d3c690d3dff46044409b",
+        "url": "https://files.pythonhosted.org/packages/6e/e8/450d67b33ab0a46dcd8ece692512a62ce089b23d3355f17afda0e5714eef/alembic-0.3.5.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "5af21b9506c3f234644a0e3c4d069669485bddfc37c6b41375dfd9f888d0f6cb",
+        "url": "https://files.pythonhosted.org/packages/1e/fe/d08f8af0ff4bc48d96a0f942b89429523057742f330e49cfc2fb2e9b1d25/alembic-0.3.6.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "576de9566641c54af5359d7cf3d714a9b0cba0a57d7f9213473ee8272c945c64",
+        "url": "https://files.pythonhosted.org/packages/65/81/9c7c64bce94e059ee32141995c280e403d4c3a24c7b961873d5e1b1e4295/alembic-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "33543edc0f46eb6cf0f8897ca05cf829c51823d822118da64f861d51e8482bbe",
+        "url": "https://files.pythonhosted.org/packages/85/dc/ef83e6c1d953c4119a93d259a580011dadf034e4935199e0fab37c0504a8/alembic-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "2a9426d0e22bc566707b709d753acd4e41b4147e780499f5958c30a31b0f5523",
+        "url": "https://files.pythonhosted.org/packages/c0/ad/91763a003660abd370c6e3280aeb01c1ae622fa70df2af53e8fbe9c790cb/alembic-0.4.2.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "9d6dfd094c405f2d53882624a34e78838a27e22be25d809a1dffce1f9cd64e93",
+        "url": "https://files.pythonhosted.org/packages/d8/7b/25c859d391c69f62cf9b245264d4b7814b2721d51c5523f57dcfb16f6869/alembic-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "ad28e2e4f8bb712d1e67abc709b0735525541e0ebc509dbf00bcd383b5c602ca",
+        "url": "https://files.pythonhosted.org/packages/7d/0f/f06531be3afa7c5d8ebad8b366175628eeea644c43e83582eec84d6b8aa5/alembic-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "1a35c98febe00b4efdd05c4e38c34b7239b23b42ce43c39320ae50a2b39705a5",
+        "url": "https://files.pythonhosted.org/packages/93/e0/de09b18c6f322c32432108710badca566bc827b65a7631d0fa6f3f61ad19/alembic-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "75844f8a683fd7be2877159cf0ecfccc63f61550386b8099d085a993149b548c",
+        "url": "https://files.pythonhosted.org/packages/60/a0/e6747e0c256051d7e37af16443b4eefb97ab95a8a5d962b71afc5e0f6632/alembic-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "35dfad44254bd0731ac611de211957a37dcc8d53b67a134c187e0b32a8b43842",
+        "url": "https://files.pythonhosted.org/packages/40/fb/9ca9183b9f47bf5c7f7b265b4027d23ec42370e2c35762574cf5a5e26f5c/alembic-0.6.3.tar.gz"
+      },
+      "0.6.4": {
+        "sha256": "5a0a36c747c28f50366ac046da43f50055c84d1d9d8ed3c09b9b5b9a6c516832",
+        "url": "https://files.pythonhosted.org/packages/4d/c4/70f2348df3a829ed5e471c3766e883c9e6778f2906fe2c4e9e4e12756279/alembic-0.6.4.tar.gz"
+      },
+      "0.6.5": {
+        "sha256": "17bfa1bb48bbc83e9db3a31df146a3b851172616aac9fbc6d40cad426e87e34c",
+        "url": "https://files.pythonhosted.org/packages/45/e9/8012fdb7721c6d3ea19aafe3e5a5e5e41cb70224902d0980056161d33235/alembic-0.6.5.tar.gz"
+      },
+      "0.6.6": {
+        "sha256": "9665660251b8d4351a4aa8ef6d3740e94a4e699d53c720773a00d3650a8b7644",
+        "url": "https://files.pythonhosted.org/packages/21/85/6b6be6ff7f36bebdc2988b2f520865713fa3595d4f640f8f18e59ffffe6a/alembic-0.6.6.tar.gz"
+      },
+      "0.6.7": {
+        "sha256": "55c35e897d2970bae45345ff4c8a190e773a08f4289299de694ebfebfb0c6946",
+        "url": "https://files.pythonhosted.org/packages/f2/8b/a8e32e3c78c12ec2e7e63fac9d49500580b7963b54fe394c1f534c08f181/alembic-0.6.7.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "b72c19d0111b9f9f8946ffe17128479541d39d03ea86239d291a8cff5022da42",
+        "url": "https://files.pythonhosted.org/packages/af/92/6fafcdb2a203e8755acfd48d7c73e6241f374bc53a6d65ee6dee3f2e65f2/alembic-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "c0971cb4dadcab8bcc286e152843951f671f74965a764d65c25dcb80e8d12811",
+        "url": "https://files.pythonhosted.org/packages/61/75/42b0829070f0641168441c6e8182e856b92cb214dba8f8ed1a00a852ce24/alembic-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "7746e161ffb5297b4697bb5dfb5f7bdae5e67499082e5522101ed60d528a9325",
+        "url": "https://files.pythonhosted.org/packages/9b/59/20d2f1f274a25d13806c3dda3fa73cf30341915218a68628185257aade0b/alembic-0.7.2.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "1d3302214bc50ff94dcb8def0f2208e50dcf7b5c120729eeb929711a70e8a112",
+        "url": "https://files.pythonhosted.org/packages/6c/02/32e7bd9dded40c452e3f1d5648af0f7a76c5c69f90141f2951058b83492a/alembic-0.7.3.tar.gz"
+      },
+      "0.7.4": {
+        "sha256": "550f10b2266f689778eced2fed899bfd05755737478454b97fb99385f2e780e5",
+        "url": "https://files.pythonhosted.org/packages/63/cf/98634a47ba590ab88cc5a63685dbe0556cf1c3426671904f688a00185f33/alembic-0.7.4.tar.gz"
+      },
+      "0.7.5.post1": {
+        "sha256": "7d3c7bb2590d7df895a1f63b2af5040eea5fe4f6a1bef2288172a15d623bcea5",
+        "url": "https://files.pythonhosted.org/packages/5d/41/54a81b8c2f425a068326f42988edbdd472dd0007f9bebafcd0fc18f13dc7/alembic-0.7.5.post1.tar.gz"
+      },
+      "0.7.5.post2": {
+        "sha256": "f998184b8cd6d522249e88bb0e7f6ccd80cdd73df50189e85c7c35740b17e7d4",
+        "url": "https://files.pythonhosted.org/packages/ce/5d/02f2d0c6f05f78f5dacd1bfca9deda705e696c2b4e618c02c309fb4f2747/alembic-0.7.5.post2.tar.gz"
+      },
+      "0.7.6": {
+        "sha256": "864fa461265d6c97bcefee603e9ef0b6385bda9063d41b3db3e010abbba5ef61",
+        "url": "https://files.pythonhosted.org/packages/5d/ca/707451307c1c5dbfdfc4abc0d02c12875f76d8f854b00f21fbcb451da997/alembic-0.7.6.tar.gz"
+      },
+      "0.7.7": {
+        "sha256": "abdeded3f92766d30d2e00015f73573e23f96bcb38037fac199a75445e3e66c6",
+        "url": "https://files.pythonhosted.org/packages/41/80/58c25d9a4e8321376a0231ef4cedd22f93c899c28c93bc236ca991a0f291/alembic-0.7.7.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "ce73b2935ed20dc41a86025f4200203367083d87520b40526b3fc89f7598f85a",
+        "url": "https://files.pythonhosted.org/packages/9f/e6/d261c6958d418bcb542b8f79fae7fcf14f7f647f891d42c4ed86a499d690/alembic-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "53cc47adc154f82c4c6cf3ee33157bce2d3a555e5be4ebd34ab10e9b6cd9122f",
+        "url": "https://files.pythonhosted.org/packages/0c/5a/65aa4ded451e1f98a701c8cd23995f5c0b9bf0f328e8937e1c4f3119fbd5/alembic-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "a69d65a766801c40e921ca24ae358bf081a990f54b867bbdc3e2a73e975550be",
+        "url": "https://files.pythonhosted.org/packages/43/90/36e8d7a0a469832ea19d5ffdac741b58731c0e982c3b29bf55f5f7f95a41/alembic-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "eeac36589c1bf393e2040de01514a0d101ef17039957300209b0b44f3ddffce9",
+        "url": "https://files.pythonhosted.org/packages/6a/1d/f39b252718c0fef449d5db94d747148e7835ea3f84eb8ba22cf9fa344c8f/alembic-0.8.3.tar.gz"
+      },
+      "0.8.4": {
+        "sha256": "8507fc12ccc99321da2fa117dde4b5d8664ff5ef017df7ce5e7e5051901a624a",
+        "url": "https://files.pythonhosted.org/packages/ca/7e/299b4499b5c75e5a38c5845145ad24755bebfb8eec07a2e1c366b7181eeb/alembic-0.8.4.tar.gz"
+      },
+      "0.8.5": {
+        "sha256": "de8ca3b1d806cd39bf8a21d90f5c5822a2173b721ec20f868da38edd45b58cb2",
+        "url": "https://files.pythonhosted.org/packages/60/9d/3305c724fc3cf230d5d9f06c0342a841fb41f2b571f0efb13d48052c6a20/alembic-0.8.5.tar.gz"
+      },
+      "0.8.6": {
+        "sha256": "53403da066ef90cbc5a3f801f3dd39bbbfbc41b0a84eb8c1c806243b7e2c6466",
+        "url": "https://files.pythonhosted.org/packages/d2/c3/fdb752aa39832d056aeac958f35f1fb9fb9397a52bdab9248adcbd9f17d9/alembic-0.8.6.tar.gz"
+      }
+    }
+  ]
+}

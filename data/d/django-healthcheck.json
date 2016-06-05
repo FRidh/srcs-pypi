@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Django app to check the health of popular core components of a django-powered webapp",
+    "homepage": "https://github.com/DanielKirov/django-healthcheck",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "5e6ca100d84bc0dc3f10355ff2f7b1e2995e76126682d94db612775be6e4063e",
+        "url": "https://files.pythonhosted.org/packages/26/24/94d2adf0622867857b60ba9a4fbf0ac014b47f4b14706ea8f91aff358456/django-healthcheck-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "afba08736e32461ac9abdac38dd7bcbc8b4e4f8fff1bf6ba7509b47d8c9e8785",
+        "url": "https://files.pythonhosted.org/packages/ef/c7/16b5308734ed9645c73e047edb161be151db98de5bdaa4936495fb55bf90/django-healthcheck-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

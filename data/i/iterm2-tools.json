@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.2"
+  ],
+  "meta": {
+    "description": "iTerm2 tools",
+    "homepage": "https://github.com/asmeurer/iterm2-tools",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "23a0170429a51afced22206d017ca30f59388c633f973ed44e157f2cf4915ad2",
+        "url": "https://files.pythonhosted.org/packages/3a/53/a3c69a70c6157cc188f18eff3282c61f3e2bcc6dc20ebc709a2fb0c3a280/iterm2-tools-1.0.tar.gz"
+      },
+      "2.0": {
+        "sha256": "3b79872c6ea6f123346c92b01d45449efd6df59fcbcfc4bdde220199441f74e1",
+        "url": "https://files.pythonhosted.org/packages/e2/89/2fd51bc3fcfe42c2b4a0fa170450db0c25a5acece255e68d8690d52fa226/iterm2-tools-2.0.tar.gz"
+      },
+      "2.1": {
+        "sha256": "ba3fcd9e4bf74c247fff705f03216edf61dc4289202561acb1d13b18182e87a4",
+        "url": "https://files.pythonhosted.org/packages/ef/3a/1ab6c6ed9e266f8be0804768d5c4c2ee3f6fd47ebc66f3091f82cce1c55a/iterm2-tools-2.1.tar.gz"
+      },
+      "2.2": {
+        "sha256": "950f003b84f29bb2b4d6ccb4e0405838dffbc0c93f4377cd0207502cffab2f39",
+        "url": "https://files.pythonhosted.org/packages/eb/6b/dd11d3f3a8c5e38f83b54c2fdf21d513279e0b5a978500acc856f0e4df5c/iterm2-tools-2.2.tar.gz"
+      }
+    }
+  ]
+}

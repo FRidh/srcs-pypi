@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Interrupt-based matrix keypad library for Raspberry Pi",
+    "homepage": "https://github.com/brettmclean/pad4pi",
+    "license": "LGPLv3"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "d97796d6e2600cd46518566e79e0b3f5ebf53047d443c61631a2f8086b510925",
+        "url": "https://files.pythonhosted.org/packages/78/d3/3df477c826213ae92a7ba7c1602ad72dbe21cc4e6656accd06e5c1d633fc/pad4pi-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "bcdad5c0fa6b75fc414146fe1f206ac9bff3764cb088c17ecee0ac71e1ebeee1",
+        "url": "https://files.pythonhosted.org/packages/47/ea/3801f8a249e874930afa6bcb7d34923bc9720bcf2da66018780e5cb7d056/pad4pi-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "0448b3b7285a83f732c10a1ade85cff85121ea7b754ea894184feb1e052f20c1",
+        "url": "https://files.pythonhosted.org/packages/74/d5/6b0a4c6323706a1282b4ecbf824dc53341319293ae753682f4377ef6725f/pad4pi-1.1.1.tar.gz"
+      }
+    }
+  ]
+}

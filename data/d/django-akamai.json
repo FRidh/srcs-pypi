@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "A Django app for performing Akamai CCUAPI purge requests",
+    "homepage": "https://github.com/beathan/django-akamai"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "679d489552da5516a4a9e08ce8ba5ee4fc3aae9d5df133057976f0082f4a619a",
+        "url": "https://files.pythonhosted.org/packages/8b/b6/bbd5945ae78a12db737052def66b72508f236ddd48ff3aeefb1d97b85c16/django-akamai-0.0.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "50a883cf5dbf74530ae743ad3bc25852e887fc205daae979ff39186127de1bfe",
+        "url": "https://files.pythonhosted.org/packages/39/bc/5616181ef979d590a7fc52ae620685fe1769669bd608bf93d02c26c165b2/django-akamai-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "ba41aea2c3e3c4d064687eaa01b5e821ad014fe1de43845f34a2ffd4226c4e9e",
+        "url": "https://files.pythonhosted.org/packages/75/98/7b8dc52f06fe93cea51b0f33e63bd13e737a47a4a8ea9d9fc629d45f3afc/django-akamai-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

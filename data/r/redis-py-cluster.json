@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.2.0"
+  ],
+  "meta": {
+    "description": "Cluster library for redis 3.0.0 built on top of redis-py lib",
+    "homepage": "http://github.com/grokzen/redis-py-cluster",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "012c232585ce67eba4033661624689159413a8ed258aa366a24ac7584e36e7d3",
+        "url": "https://files.pythonhosted.org/packages/60/a7/53dd5e30315042644b2f653289f0ccf8ec99543fda78d4962d59506b0a61/redis-py-cluster-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "02a418ade33947b814e38847e4a5573613684446db319150ef6a605bf913668a",
+        "url": "https://files.pythonhosted.org/packages/af/9e/876fc9bd0c4d7ed0dd5aba496c5509955a59e7ea421ac02a9669df932d2e/redis-py-cluster-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "527227080479c767fcec23f392b9fb43fdc5208b8de2d87c9fe108bbd1ccf293",
+        "url": "https://files.pythonhosted.org/packages/dc/32/549c725d43607676fbf5a89bd43f3a528273150c379aef01b4efd630ee03/redis-py-cluster-0.3.0.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "3b195604af6003d9d17a9bbd87db86f0d7287619b546b2f192db327bae4fc57e",
+        "url": "https://files.pythonhosted.org/packages/7d/5d/5527ec7199c1479444507fd81a6568aff8b4f189d381c398ebf18731eb05/redis-py-cluster-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "722cd5f42a782718c75f2e9b80be1504e20531fd0430f314578f545166b51811",
+        "url": "https://files.pythonhosted.org/packages/00/6b/8d10196406be53a81da69a794cc03e70a18670fd05916b1dcb3ca826f996/redis-py-cluster-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "5c367fe82de1d93815ac7f06bddada4d4589c7bc5c06a1c77eb627c175447962",
+        "url": "https://files.pythonhosted.org/packages/d2/04/c2d0228228c0328b33d5aeea9794306fab8350f5a8d8f3c33c9a1c871372/redis-py-cluster-1.2.0.tar.gz"
+      }
+    }
+  ]
+}

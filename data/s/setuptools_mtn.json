@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "setuptools support for discovering files kept in Monotone",
+    "homepage": "http://www.codefu.org/setuptools_mtn/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "1ce2e9dfcec9d1b40c7dca1cb49bc8d1bdbd032011c95831d0bed763e40b82d3",
+        "url": "https://files.pythonhosted.org/packages/17/43/a51d5aa22a52582eaa98c67fec3c2375a4941709feb1ad8dbc3f01d96d74/setuptools_mtn-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "cb969017b6eedfbc66f3faad578048d8fc1e10e8b1310ccfabab37f9255cd5bc",
+        "url": "https://files.pythonhosted.org/packages/01/42/84bf837ea618d40661a24ebfada7fb890752f93886ee288c3c6510c9833a/setuptools_mtn-0.4.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "2015.2.0"
+  ],
+  "meta": {
+    "description": "FUJITSU ML2 plugins/drivers for OpenStack Neutron",
+    "homepage": "https://github.com/openstack/networking-fujitsu",
+    "license": ""
+  },
+  "versions": [
+    {
+      "0.0.1.dev6": {
+        "sha256": "2614f4947882c5af7507abe1e9e90e90e178efc3ea9fe0ea6177249e6e8127be",
+        "url": "https://files.pythonhosted.org/packages/fd/81/de52b5fd0621ae42c5ea73afdb7ed006316da1b2aba14ea5078409da115f/networking-fujitsu-0.0.1.dev6.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "b65b6ecc2528bc8d4a738984a6c2d68c1e6c81da43dace10dacdca4e655a0071",
+        "url": "https://files.pythonhosted.org/packages/74/c1/c7e6803d42f557fc294b34d1bbe854530ebb9d68c3d8c3bf31118e038aba/networking-fujitsu-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "29cf6d693f55e1c42c256fa24a7683046b59d18f1aec823c56aa34a63700e505",
+        "url": "https://files.pythonhosted.org/packages/9a/51/4a827224a763b4eb1cf0f0abe34da49759df413c11b72d4ddd1fc4eef81d/networking-fujitsu-1.0.1.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "6ce162dcb87402f6b7a9e10406364c71f996f9abd3e02538697bd675dfa2991d",
+        "url": "https://files.pythonhosted.org/packages/0c/f9/205ff2b5d2fd81d558dc28bf0519fdc1c4935b9f24346ebebc8a6e8919cf/networking-fujitsu-2.0.0.tar.gz"
+      },
+      "2015.2.0.dev7": {
+        "sha256": "916370f90aa6d19c2cb8e5cd3296f104cf267ec8f7e646b677f473ec9fbc0260",
+        "url": "https://files.pythonhosted.org/packages/ba/da/4440eb195f19733cd984aaa3f4fc6a4a40a958465726fbe9acd7de1df445/networking-fujitsu-2015.2.0.dev7.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Provides a single helper function to simplify the common idiom\n                  of getting one logger object from python standard logging per\n                  class.\n\n                  The method get_logger_by_class returns a logger with the name\n                  being the full path to that class separated by dots",
+    "homepage": "https://github.com/languitar/loggerbyclass.git",
+    "license": "LGPLv3+"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "26b4d2fac03b93177a446e1dfd3f7b52d9874b6d9a33312fc8e8e93926f05eb2",
+        "url": "https://files.pythonhosted.org/packages/c7/5f/0ead2f505272dc3191d4ecbfb8a439d68133ee5d7ef8b1759e180ced0f75/loggerbyclass-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "42c896e51799e20fd627a7b1d8aabb640620e2670c8b19e14a2d807e8db90c5f",
+        "url": "https://files.pythonhosted.org/packages/98/6d/c900c00a362253250f78cb3b97ff464bb280f3c4a1ec66d2a4affc2ba70b/loggerbyclass-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

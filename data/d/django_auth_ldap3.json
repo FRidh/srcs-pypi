@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.9.6"
+  ],
+  "meta": {
+    "description": "A library for connecting Django's authentication system to an LDAP directory",
+    "homepage": "https://github.com/sjkingo/django_auth_ldap3",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.9.0": {
+        "sha256": "7604c673ed822581ff82ce87110c0315f85a07340c05a16b8a216f3da1abc689",
+        "url": "https://files.pythonhosted.org/packages/7a/1b/099f5c9734e2a4ba88ec65afc5ee56c66abf394f0c3021e73c3ce2de4ba5/django_auth_ldap3-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "e452329f7c7eff3a4a4702732af52b38d479ae126cb8f01abc37b1888a385bcd",
+        "url": "https://files.pythonhosted.org/packages/1a/e2/72be7cdf9f38e90cee6cbb0974a15f5db887eba11d7fe2441337eec6eabe/django_auth_ldap3-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "9af83ec974a1b2056cd720788d2504976abe00aaf0b0cfc7a4f85d8080c3e4c4",
+        "url": "https://files.pythonhosted.org/packages/5e/db/b7af5552c1a5257665a0810885acd9d09cba8b08b318cc1edae3b351fcc9/django_auth_ldap3-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "6074d39c3d79bd593d2dd528461395120e5609d9f5d0d8ff4b7b927be0128219",
+        "url": "https://files.pythonhosted.org/packages/16/1c/6dc07f59e24ceb71b743936c740843f665704fe0f74dee710dbc3af928c1/django_auth_ldap3-0.9.3.post0.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "2f716e12ff499c43bd11d1cc30326d0f02f7d7b770a17b5ccf495a09d0ae8ad3",
+        "url": "https://files.pythonhosted.org/packages/a7/09/b8406953aedc4f5914468d6fe8c8e75b32b03e36c66bf92108162120c1ef/django_auth_ldap3-0.9.4.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "d3bdaa69dbc5b817d00c6bd3aad5fcecdca77d9e1d551cf738a509581f780a14",
+        "url": "https://files.pythonhosted.org/packages/77/eb/dace840b4e33e5d3667f6da38c33a048bc490779e3958b9ffd8fcb844daa/django_auth_ldap3-0.9.5.tar.gz"
+      },
+      "0.9.6": {
+        "sha256": "2545ec824d53313f7977ca7a68366343f179232839dcda8c61a6fa5a5285b0c1",
+        "url": "https://files.pythonhosted.org/packages/1e/bd/1ea242775ac0b725e458c75e5502c290bc8b57adaf3359749063a09541d7/django_auth_ldap3-0.9.6.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.6.2"
+  ],
+  "meta": {
+    "description": "English word segmentation",
+    "homepage": "http://www.grantjenks.com/docs/wordsegment/",
+    "license": "Copyright 2015 Grant Jenks\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n    http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License."
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "273d04333e52ab381e874cc20d239a62273953f69ebdee0040dc81783451cec3",
+        "url": "https://files.pythonhosted.org/packages/0a/70/84daf45ae838d8a6c5e54c112a85ad14040a6b9e5bb72511b66bce9cdb14/wordsegment-0.2.zip"
+      },
+      "0.3": {
+        "sha256": "b3cc5157089ebc87ee2da62a013119811673079c76832fd5f1f013b3b4633c44",
+        "url": "https://files.pythonhosted.org/packages/6f/1c/59e8bac37dae0e65f9ea5ad682687fa7adf1ebd92f54ecfc8629a5208d12/wordsegment-0.3.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "8e9166323a5e4a2e0ca3ae45d992c9751e60424437f3ac15b101ed5b63224135",
+        "url": "https://files.pythonhosted.org/packages/11/52/62d701fd5977d832d8a22fca60e82a77890970cce7dfed42fa614a13bf1d/wordsegment-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "2f347b51d9173ccfee7d08fd7075033ddf1463411fd33302a9612a24cff07aeb",
+        "url": "https://files.pythonhosted.org/packages/fd/cd/c5e52b1d362729fb0fff0b9e00de1f6426988831903fec5767bfdff57147/wordsegment-0.5.3.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "017ebb873c2cfd81506b32d74e57e5aade08e0c9c5b08d18892fe04a6acf090f",
+        "url": "https://files.pythonhosted.org/packages/af/34/3a0aafd0a4189a9d0afe6731fd4d668aa8e9e3cd595d0aa4cb7f7a3e43a6/wordsegment-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "730ff53902d93fd3d7977672f3ccf0bfcb497d5ae9c4665a6086d23b65e88b50",
+        "url": "https://files.pythonhosted.org/packages/fd/2d/6f6d3959e33994dcf28ced7889753dde3f67d01123f0492941eb37b6bf1f/wordsegment-0.6.2.tar.gz"
+      }
+    }
+  ]
+}

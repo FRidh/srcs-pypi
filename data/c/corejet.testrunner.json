@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "A test runner which can output an XML report compatible with JUnit and Hudson/Jenkins as well as XML and HTML reports compatible with the CoreJet BDD standard",
+    "homepage": "http://corejet.org",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "cdec0f7ac092302574cc2d8a464c9558a705803d048a992c7d01d9192c26bac4",
+        "url": "https://files.pythonhosted.org/packages/7c/72/a1151a4177a2805cbc0443e435e4f5cfa95c25950a0cac5e75132018f15e/corejet.testrunner-1.0.0.zip"
+      },
+      "1.0.1": {
+        "sha256": "990fd5def9e2f4c4aa5be89dabca051e3a0df9a229a3a654638dd978c030deba",
+        "url": "https://files.pythonhosted.org/packages/94/c9/b7be176a86d37800ce177abae7263ffa7343b71c158c3d4e5c9a22a37f89/corejet.testrunner-1.0.1.zip"
+      },
+      "1.0a1": {
+        "sha256": "9dc70f0e36ee3f6a5915712a33210fc4465cd570ed2957b9db1cb0883e3e43f0",
+        "url": "https://files.pythonhosted.org/packages/06/ff/7de598721f5689203d9a8c28a491173e71aa824d599442d7865b79d77027/corejet.testrunner-1.0a1.tar.gz"
+      },
+      "1.0a3": {
+        "sha256": "5e4a44cdc3b72489a53f4678925b66e9a9900481cbf8ed14824b266e9cb9013e",
+        "url": "https://files.pythonhosted.org/packages/b8/58/fa70a756274d59e9cfb3af1100f639b6c2757ecf5a33cd734bf526f60b97/corejet.testrunner-1.0a3.zip"
+      }
+    }
+  ]
+}

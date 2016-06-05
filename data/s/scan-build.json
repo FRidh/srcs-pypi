@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "static code analyzer wrapper for Clang",
+    "homepage": "https://github.com/rizsotto/scan-build",
+    "license": "LICENSE.txt"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "9ad95d64db31a10fe98182af0f577cfaeb38f2845dab69f5ec0763f9dcc31cd3",
+        "url": "https://files.pythonhosted.org/packages/59/9b/94a2b4f3337c862caefa093d472faa60c41f9becf87172f47c80e1dabbc5/scan-build-0.2.tar.gz"
+      },
+      "1.0": {
+        "sha256": "3f8d8512cda7649e50e4317abdf62efc6468457462fad1a983d33c74a7b23035",
+        "url": "https://files.pythonhosted.org/packages/b3/12/e0910fe7870a0aa42bcb0890802cd3fae4eb26fcc1cba4faf89a4f8b9672/scan-build-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "7a30e253a33e36271a536a2e3f480f7cfeefd3a8a7573e044cccf6f3089512aa",
+        "url": "https://files.pythonhosted.org/packages/70/1e/78e3c2dfb1b57097191aa1f96f2f9d6f62827f4c7987566fb88737e8150c/scan-build-1.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "A class which sends an ARP Request to know if a host is online on local networks",
+    "homepage": "http://idevelop.org/p/labo/page/ArpRequest/",
+    "license": "WTFPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "a422f0517dcfde449437021f2dfcda3949358f340e91e1c418ebbe2563ca6bf8",
+        "url": "https://files.pythonhosted.org/packages/25/30/a0ff21e91fea3c1e98aacecbaa83bf13a32f02e73cc5b6a7436a6c340bcb/arprequest-0.1.tar.gz"
+      },
+      "0.2a": {
+        "sha256": "5f1667973f999346c86388e520d6a7e754bf8f65d7008b14276b2cca91a3d8b8",
+        "url": "https://files.pythonhosted.org/packages/62/ed/d6984d57f58283666aec56febfe4b3dd69df4ba6e01d6b5d591e3b111cb6/arprequest-0.2a.tar.gz"
+      },
+      "0.3": {
+        "sha256": "ddcbed9a2f7661a4683a4e3c2e9899f027bc5d3174d8486ad3587b1063fa6e3f",
+        "url": "https://files.pythonhosted.org/packages/55/37/3ca8540cc03c724dc1fc39136000cd030d48468d91543367c014580b56b1/arprequest-0.3.tar.gz"
+      }
+    }
+  ]
+}

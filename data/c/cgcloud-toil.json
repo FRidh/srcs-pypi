@@ -1,0 +1,209 @@
+{
+  "latest_version": [
+    "1.4a1.dev312"
+  ],
+  "meta": {
+    "description": "Setup and manage a toil and Apache Mesos cluster in EC2",
+    "homepage": "https://github.com/BD2KGenomics/cgcloud"
+  },
+  "versions": [
+    {
+      "1.1a1.dev129": {
+        "sha256": "60f51b461316c0f1e259c791edb837c216a6ff2f9d678ac04b61fb31dbe0c8d0",
+        "url": "https://files.pythonhosted.org/packages/2b/f6/d5dbfd8295ff5827ea7fa899b622df4ea3f2785a01a89cb3f66cec1a6c10/cgcloud-toil-1.1a1.dev129.tar.gz"
+      },
+      "1.1a1.dev130": {
+        "sha256": "7743724baa066d3930ea5659fcae63c6f7b578de422c7ad8fca233c503665cb3",
+        "url": "https://files.pythonhosted.org/packages/e4/4f/9b4c4d29082a305ecec414399aeeabe9b735698be37a9a077a88a6132f95/cgcloud-toil-1.1a1.dev130.tar.gz"
+      },
+      "1.1a1.dev131": {
+        "sha256": "eb95151e1b25eff84fd202f15439bbfc185210f23283752bfd91aaa328fd71b0",
+        "url": "https://files.pythonhosted.org/packages/c3/2a/72e5f37ec5b23823e357a0ad61d13de18c0e116d0c1127e1e7caa8df2142/cgcloud-toil-1.1a1.dev131.tar.gz"
+      },
+      "1.1a1.dev132": {
+        "sha256": "fb0cb64b95a590cfcbb8326b6530e81df1750f925a60a1d542209844b3d9ff10",
+        "url": "https://files.pythonhosted.org/packages/d6/6e/161547abc6bd897a1eae9cb41d69257094708e382444075c7d125fcd3fcf/cgcloud-toil-1.1a1.dev132.tar.gz"
+      },
+      "1.1a1.dev137": {
+        "sha256": "5d6ba1b595c7ed623539d17688771422fc285bcce0e9ec7822b2cdbaa62d5cec",
+        "url": "https://files.pythonhosted.org/packages/57/2b/bd6cca4e789be6cf736e65f08e5f4115f18c89d9366d27ded07be5548c17/cgcloud-toil-1.1a1.dev137.tar.gz"
+      },
+      "1.1a1.dev139": {
+        "sha256": "f5f643228d790e7d4190859d600f31f36b581efce87ad75a59313656ecacf82a",
+        "url": "https://files.pythonhosted.org/packages/aa/44/f5cb57bd3aefe99119625c76e0d3cca23bd4fa1ec2bed2ab0ca38f03ef05/cgcloud-toil-1.1a1.dev139.tar.gz"
+      },
+      "1.1a1.dev143": {
+        "sha256": "fcbebca2d57312af98922af1ee90857a53b22e5b6f895a7f614a702ff8088961",
+        "url": "https://files.pythonhosted.org/packages/44/28/ad8fea8d50fe21cbd0a7b13fccf9c38a997727c4f0311cd605d6fdd6ba50/cgcloud-toil-1.1a1.dev143.tar.gz"
+      },
+      "1.1a1.dev144": {
+        "sha256": "470da2782f6b6c8dea5bc6cd48820c07ff17b75ab43a1cf1d81049b663746904",
+        "url": "https://files.pythonhosted.org/packages/dc/e4/e02a222e8f13760f245986c43b647790255a53b0f62df16c6f050a0c2ed0/cgcloud-toil-1.1a1.dev144.tar.gz"
+      },
+      "1.1a1.dev147": {
+        "sha256": "494306e1df47ab61e696a55ea5a2990f1ef81ba83b4f934163c4d826506d564c",
+        "url": "https://files.pythonhosted.org/packages/41/58/de78d0fab76bc2c9f10614f0e8152a908c3c85f31d6eea3cecac9ab791d5/cgcloud-toil-1.1a1.dev147.tar.gz"
+      },
+      "1.1a1.dev149": {
+        "sha256": "7c55c478dbf84d18072c2cf99c622e6856e7d58c53f4858d56a926761d45b503",
+        "url": "https://files.pythonhosted.org/packages/8d/5e/babc222445e2b93c914facb19828a6b295a0367c7b45ea1e8165ad873eeb/cgcloud-toil-1.1a1.dev149.tar.gz"
+      },
+      "1.2": {
+        "sha256": "1e48068a82a6f64548d24951f6c859bb73c27e8866f40673da7664a08e7b6bb6",
+        "url": "https://files.pythonhosted.org/packages/0a/2e/6f0552422d2708e3100fdb973aa4fa60310c61541728dcabc5832c87020c/cgcloud-toil-1.2.tar.gz"
+      },
+      "1.2.1a1.dev161": {
+        "sha256": "db17d6448655ab4d887751b5805680a52a87d1a3eac5133a7092e1ef6faea782",
+        "url": "https://files.pythonhosted.org/packages/14/1d/c60dd0bade348e836fdc808dcdbc4e39925d108e2eaf56867bb1a31d1605/cgcloud-toil-1.2.1a1.dev161.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "28859b4ad4d33936740a583465ec09ecc71cd0decc777e0c86b5279de90d825c",
+        "url": "https://files.pythonhosted.org/packages/b2/26/d0953f329ec83cc189e2e30b5299b0796761f04810513744d28353055480/cgcloud-toil-1.2.2.tar.gz"
+      },
+      "1.2.2a1.dev165": {
+        "sha256": "b0ee2165f598672f78051035e310bc068fd380cc2050df28efe20cb8bb385eb5",
+        "url": "https://files.pythonhosted.org/packages/63/18/433da3a72fb30cba871f528777519264d54f19ced5c9e6489cef3358e57d/cgcloud-toil-1.2.2a1.dev165.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "950b5dae5e376e229245cb1e231de4f5b6860add514238c947945e3fa2f5fce0",
+        "url": "https://files.pythonhosted.org/packages/69/a6/1a54c83ea669e51f271584276e4965803a6e9d419300569fc26c71f5295f/cgcloud-toil-1.2.3.tar.gz"
+      },
+      "1.2.3.dev183": {
+        "sha256": "d546a4974d1ff99544ef38555211e733817f98b0e43517c168b4481953991256",
+        "url": "https://files.pythonhosted.org/packages/17/9a/ceccedd3aea2fb61bfde7750e41d2ba6ee5568598019523975ed0a713007/cgcloud-toil-1.2.3.dev183.tar.gz"
+      },
+      "1.2a1.dev159": {
+        "sha256": "74af06ecc2b9d6750d7377338c3127fe73888f14ba5ea40bb93b77dbe5369cab",
+        "url": "https://files.pythonhosted.org/packages/56/1b/34a5890c76513d68650051cf2e0c1533aa5db1f720ed14b8b6415db4e9ba/cgcloud-toil-1.2a1.dev159.tar.gz"
+      },
+      "1.3": {
+        "sha256": "72ce43669fa49c696a3f4eb664bf627321702bd886c56e824961c85432106e22",
+        "url": "https://files.pythonhosted.org/packages/b3/5e/8b560639cd2b4b737bacf120a97d5e03c9e713a44be91c605d3afa119e87/cgcloud-toil-1.3.tar.gz"
+      },
+      "1.3.1a1.dev200": {
+        "sha256": "4c227d6d845f7a14c4c90a9293e3dd4b7adc5897011f2354a3a55a5872e0eefe",
+        "url": "https://files.pythonhosted.org/packages/ca/ee/051c54fbdeb9dafd613d749dc25de858e4ff97ee1c82ab2d89b98d2a0df9/cgcloud-toil-1.3.1a1.dev200.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "3f997d973901269b3ddc8e8a36598bd342d79ddfe641fccd33c20f97d436c249",
+        "url": "https://files.pythonhosted.org/packages/77/bc/15b4110847d97a9216eacc5dc63baa155f584dfe243ddb425650d54f7714/cgcloud-toil-1.3.2.tar.gz"
+      },
+      "1.3.2a1.dev201": {
+        "sha256": "28b440b17a0cac3c3262f9913e0c39bedf1f215b8382e478de979f80901ab0ad",
+        "url": "https://files.pythonhosted.org/packages/07/02/669c0c77da824645ea285465479e2764881c1db992b34c636beb92a63732/cgcloud-toil-1.3.2a1.dev201.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "11e78abaad0b5b374de3d9a5d3748fd239d5728e0d1ebcab9ccf53403b8be1b0",
+        "url": "https://files.pythonhosted.org/packages/c4/d5/3abb4570da4c6aa815298d16b1df233bd23e0ac6a80e4d4cf90d0d0d368e/cgcloud-toil-1.3.3.tar.gz"
+      },
+      "1.3.3a1.dev216": {
+        "sha256": "3d62212421597c0bad5343f5f6795f6a7354c2f826173f1e5d315cd53503148f",
+        "url": "https://files.pythonhosted.org/packages/67/2a/8062aff97ed4a5679c39e352410cbcbc3c71f4cc8850e11614314b9a08d6/cgcloud-toil-1.3.3a1.dev216.tar.gz"
+      },
+      "1.3.4": {
+        "sha256": "7cedf69e5eee093900f94e5f2751c0c450d01e4732a05e507de44b2ae2545592",
+        "url": "https://files.pythonhosted.org/packages/ec/f0/c818aa25c97cba1124352946b751a48af889ec19ec62a4b336a81e449692/cgcloud-toil-1.3.4.tar.gz"
+      },
+      "1.3.5": {
+        "sha256": "983af8241dcf0829825a52d528bd33305b37f6616d6ca9bf10e37515ee426c6f",
+        "url": "https://files.pythonhosted.org/packages/33/8e/002ea4741437cc2a279cee349344b51499484742e154095acf0805ccecee/cgcloud-toil-1.3.5.tar.gz"
+      },
+      "1.3.6": {
+        "sha256": "a272f63b0876e54ea985c9014bb1dac9164a8b36d78c07ea9127f03f6de68895",
+        "url": "https://files.pythonhosted.org/packages/ce/ad/ed7a81387941fa7f70028c8d872e81c7fa9399566bd4903ca55eb752cff3/cgcloud-toil-1.3.6.tar.gz"
+      },
+      "1.3.6a1.dev232": {
+        "sha256": "8638304b19ee66448947652d695dbb1e24dec24b457a00ff1b28de5bc4306fab",
+        "url": "https://files.pythonhosted.org/packages/8a/a6/f4acdfc5246d203a64ce396a4587b9569d133f6c53295ebd04c039a22b1c/cgcloud-toil-1.3.6a1.dev232.tar.gz"
+      },
+      "1.3.7": {
+        "sha256": "ad1b9ab5e026c83f4c8111c5decb4dd1744dc064dde89cd46a48aa326704c5ba",
+        "url": "https://files.pythonhosted.org/packages/3d/76/c8cc3059dd008672634ff65b301b7f09105b2c20fd600320b38d62f52283/cgcloud-toil-1.3.7.tar.gz"
+      },
+      "1.3.8": {
+        "sha256": "51e8246f843de222b50aa22f12a7e985fc08724c4181bf2baa3e08eb5f3c4c5e",
+        "url": "https://files.pythonhosted.org/packages/e9/a7/a3bc821caa8abe22b06820e062d336fe2af40d7f10659c02058693460085/cgcloud-toil-1.3.8.tar.gz"
+      },
+      "1.3a1.dev190": {
+        "sha256": "5496d895b8b7218ae5f4413a4fdc2588f65f8f92cc33a06f51a6c3c8d94fb457",
+        "url": "https://files.pythonhosted.org/packages/80/ec/1aa6eb8799d20ef91b7a6af1753ef6265e9a7a331d7d256bb6a99167e01c/cgcloud-toil-1.3a1.dev190.tar.gz"
+      },
+      "1.3a1.dev191": {
+        "sha256": "b56e8d04e1e8ca4f94823c894824509e4da1fc6cba85acff5f856b818dc49907",
+        "url": "https://files.pythonhosted.org/packages/6a/9d/c00ece268575a9d4ddd7f720caea9b9ac33798018bb44a9ac5430e9b4f08/cgcloud-toil-1.3a1.dev191.tar.gz"
+      },
+      "1.3a1.dev192": {
+        "sha256": "c43d0bf360404f4473634dea6a323b332c8daac05d23f6deea4590d9aa0eacb4",
+        "url": "https://files.pythonhosted.org/packages/a2/25/12b83751a617e64cb3c0a5d0c2242bbff394e458ec83e2c5464191ddcfe9/cgcloud-toil-1.3a1.dev192.tar.gz"
+      },
+      "1.3a1.dev193": {
+        "sha256": "7dde0aee740be8f43df2fa86e98139790a2ceb0e1d1b8255d6256d057ce24a31",
+        "url": "https://files.pythonhosted.org/packages/bf/02/3ec4e250d1b1dbbba391ba16c7c05a7ad1f052abc5e11bfb8ab20aba856e/cgcloud-toil-1.3a1.dev193.tar.gz"
+      },
+      "1.4a1.dev195": {
+        "sha256": "74c9a3c223ca1a6ae4114bfe31c28495f1cd0261ceb505092e41c82ad6b16168",
+        "url": "https://files.pythonhosted.org/packages/ad/63/304274b9de6cc1a55b6ac7b56b09b27b27e92e1e39db3eb2395c214c55e6/cgcloud-toil-1.4a1.dev195.tar.gz"
+      },
+      "1.4a1.dev197": {
+        "sha256": "4c49304bbd335d300a554855edc5deddac3c10af05dc9dc5af3b85cf255d0ad6",
+        "url": "https://files.pythonhosted.org/packages/82/0e/859f34f27057b27a4050b4a572bc40b199c0192315a66792a8e785650feb/cgcloud-toil-1.4a1.dev197.tar.gz"
+      },
+      "1.4a1.dev198": {
+        "sha256": "2ab774929996cbf04053cbc7ff004585b97a7a87e3ea559e1b03e5c3d5331910",
+        "url": "https://files.pythonhosted.org/packages/75/76/887ac83a1344d7c6a53702cf4c2e230cb2f0a84903f653082212fb5025d6/cgcloud-toil-1.4a1.dev198.tar.gz"
+      },
+      "1.4a1.dev202": {
+        "sha256": "0bacc4701c4aad65edfb21223d042f869ead24e9dc09f8d89c51741224bde465",
+        "url": "https://files.pythonhosted.org/packages/f9/7d/ed94439eb15d172e6e3a5d9822cb6fa5ac6ee6511f0886d7d94a81e044ca/cgcloud-toil-1.4a1.dev202.tar.gz"
+      },
+      "1.4a1.dev256": {
+        "sha256": "a7f6921cacee30c2209477655d358fe8eb1a8c08db407f5a5b0885a0e2f8b45f",
+        "url": "https://files.pythonhosted.org/packages/3a/62/1d847247b7004877beeea1d25a77601d5c3c93859d244345737db84a06ea/cgcloud-toil-1.4a1.dev256.tar.gz"
+      },
+      "1.4a1.dev263": {
+        "sha256": "f679bad1bcb45a0f2f55d1b86512993731f76c1fc78509df25c74082449083f2",
+        "url": "https://files.pythonhosted.org/packages/5a/b0/02037638415b66523af6ca3088a12363e6c2ac649ea8b61566a4b0fdde36/cgcloud-toil-1.4a1.dev263.tar.gz"
+      },
+      "1.4a1.dev266": {
+        "sha256": "2ca7c8eeb48d321c790318051158738cb1ed57ba0e87863b6498acded704a529",
+        "url": "https://files.pythonhosted.org/packages/2e/a6/de7c80ca1fe946952747102d41090635f067d51809c4c2f69385621f2a34/cgcloud-toil-1.4a1.dev266.tar.gz"
+      },
+      "1.4a1.dev269": {
+        "sha256": "24553622ff622b32aab025161d520b29f244672a3aa93689632205c89c8b588c",
+        "url": "https://files.pythonhosted.org/packages/21/64/e3ff7eaf2b7fde01e4c12d706efab12fb140484c4b8dd06c0ebc9201439a/cgcloud-toil-1.4a1.dev269.tar.gz"
+      },
+      "1.4a1.dev274": {
+        "sha256": "45df4a227bed73b63c05dc3171ce420f04e17a0bcabb267697b616ad9e2f79ac",
+        "url": "https://files.pythonhosted.org/packages/a9/3c/0e156752c11c276edb0711f0a949621e9f7a08a43a1f591057c22c73339b/cgcloud-toil-1.4a1.dev274.tar.gz"
+      },
+      "1.4a1.dev275": {
+        "sha256": "2c0dd438f3c4d06615acf4323220e7407411da00e534b0db2adce8f21bae8450",
+        "url": "https://files.pythonhosted.org/packages/14/78/eaf7b624004b3698979cadc8dde4fa18c786ddfe9a75414afeadfc55fd5c/cgcloud-toil-1.4a1.dev275.tar.gz"
+      },
+      "1.4a1.dev276": {
+        "sha256": "ca4d7794b528c077f85445213e5f5264d0f7bbfe79f86dc9340a2c4a310fe62f",
+        "url": "https://files.pythonhosted.org/packages/1f/06/4a887c6d9383b550fae80ca43114940b6385ba3b5b10f8b1b809a847662f/cgcloud-toil-1.4a1.dev276.tar.gz"
+      },
+      "1.4a1.dev283": {
+        "sha256": "9686764061323a85d85cb6523fb5bb3d2f19261bae1b850015f8bcc9a6708c15",
+        "url": "https://files.pythonhosted.org/packages/d2/2f/e357b8bc0892aee099d82f03e6b112c04ecc486f219e208816cf73f62a20/cgcloud-toil-1.4a1.dev283.tar.gz"
+      },
+      "1.4a1.dev286": {
+        "sha256": "9534a002265228c44dbad692a08f99bef6ac68276a51c9dfe1b7b93be77584e7",
+        "url": "https://files.pythonhosted.org/packages/03/5e/d4e4bb427fb226d2a8d16fc78934e30360885f54a4902ebde590cb2963bb/cgcloud-toil-1.4a1.dev286.tar.gz"
+      },
+      "1.4a1.dev288": {
+        "sha256": "e6deb2667f6db68cd98a2c76eb12d95721912f0d6749ec0ad8e04c422f8c46c1",
+        "url": "https://files.pythonhosted.org/packages/91/57/351a561ca47ece0842afe4316d83f2ff1de3b90b63d454a73065b199d898/cgcloud-toil-1.4a1.dev288.tar.gz"
+      },
+      "1.4a1.dev295": {
+        "sha256": "15075ed391f104c9f69a78346cbb9388c7ff88288c9118420c94b0631ff6182d",
+        "url": "https://files.pythonhosted.org/packages/76/62/df2a98c2b458e48817e6a755724818974a8d1037f874255ac6dc2a9714b4/cgcloud-toil-1.4a1.dev295.tar.gz"
+      },
+      "1.4a1.dev312": {
+        "sha256": "08995c25477c8762a465717be647e1d908a38344684e1289d0284ac20c268ef5",
+        "url": "https://files.pythonhosted.org/packages/b2/60/813c2b381fdc495c5b4e9ea41e41a2ad9ef50dd67e833b0074961a088e2e/cgcloud-toil-1.4a1.dev312.tar.gz"
+      }
+    }
+  ]
+}

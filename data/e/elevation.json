@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.9.9"
+  ],
+  "meta": {
+    "description": "Python script to download global terrain digital elevation models, SRTM 30m DEM and SRTM 90m DEM",
+    "homepage": "http://elevation.bopen.eu",
+    "license": "Apache License Version 2.0"
+  },
+  "versions": [
+    {
+      "0.9.7": {
+        "sha256": "a02de4e76612153ff6256e91d1ab2421abced7b1207ef38127fcb8dded7026b1",
+        "url": "https://files.pythonhosted.org/packages/58/0e/f7d118b5f9aa04803417e20aa2c7c79642aa20fd66094ed047b05dbea466/elevation-0.9.7.tar.gz"
+      },
+      "0.9.8": {
+        "sha256": "ef70839c77a9b7eadc3010607b068d0da5635f521ed080ac4cd26e55d590b56f",
+        "url": "https://files.pythonhosted.org/packages/43/52/dc79fc1c7f638cdfffe90a835ba433c50e69ba69265280ef4c741ec0c41d/elevation-0.9.8.tar.gz"
+      },
+      "0.9.9": {
+        "sha256": "f9d4e671a2e9b8068454059b5179253490ddb39338b096dccddf8cb20fcd2f4b",
+        "url": "https://files.pythonhosted.org/packages/86/ce/c11fb6db143ad60bb36ebdeaac679cd901fa92278fe2cb35928173f77efb/elevation-0.9.9.tar.gz"
+      }
+    }
+  ]
+}

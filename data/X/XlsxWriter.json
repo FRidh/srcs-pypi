@@ -1,0 +1,370 @@
+{
+  "latest_version": [
+    "0.8.9"
+  ],
+  "meta": {
+    "description": "A Python module for creating Excel XLSX files",
+    "homepage": "https://github.com/jmcnamara/XlsxWriter",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "cc0de6c433c873034fb73837c97980d12069bf2092e6ba1fdab6a1243d3771dd",
+        "url": "https://files.pythonhosted.org/packages/bd/8b/b69231ecbb544add9dcca31565bc225b1ec29c860891dfae7cb701c6066f/XlsxWriter-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "040e6d6c2bde04ec1db668e2125cf06615bce285bd1e1115db148e27c4580e50",
+        "url": "https://files.pythonhosted.org/packages/60/68/b03787ec25dc5e12b060602ece01f84ad92aeba2ea4e3a27926c45975c52/XlsxWriter-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "14281eeff0c463653a59c7af30cbea5124ed4a8a5667760e875a3916ffc651e2",
+        "url": "https://files.pythonhosted.org/packages/3f/ef/e3f7fbac8e5492ebd31081edf294571a9c4101a9505311bd00666d7de2eb/XlsxWriter-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "8c56b0f44eb534d2063038eb1cb985e6ed6325aa1deeae6bd9d7b9eac1fa791f",
+        "url": "https://files.pythonhosted.org/packages/a5/08/226438fd64de7614770657396eb3203f9f59fe65a6dfaea7c9472be539d9/XlsxWriter-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "ec9b9c8fb2357e8e18036f7802d60711da52e9dfdc94cfc04bcea24c0918b1b1",
+        "url": "https://files.pythonhosted.org/packages/8d/8b/101a538b9b3df60d9959c536fbc2f949aa0698ac5cbf794a2c065803b085/XlsxWriter-0.0.5.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "2b94275365cea09a93366849011ca05f4ca8e0267100a5c62868e86ed6f69d1a",
+        "url": "https://files.pythonhosted.org/packages/56/66/115d0b465eb1a65391392864931fb0531dcb391082a0f3342d3d6e3eeb87/XlsxWriter-0.0.6.tar.gz"
+      },
+      "0.0.7": {
+        "sha256": "fdcda039a2c2e24eebd1bd544d17b3a3257e4c83c457541198693f3815504958",
+        "url": "https://files.pythonhosted.org/packages/7d/78/0719b2d09b7961538597e640d1d1466fcbd53fb7e9a1d1b0153d9a9b883e/XlsxWriter-0.0.7.tar.gz"
+      },
+      "0.0.8": {
+        "sha256": "1a6c684654d4cdba81b1569ebb567784f766418a59ed4883c920e88dad04d00a",
+        "url": "https://files.pythonhosted.org/packages/e3/58/b3911703d172927fbfb5bb88e1e139757dc0dbe959fc6d95795593d8a97b/XlsxWriter-0.0.8.tar.gz"
+      },
+      "0.0.9": {
+        "sha256": "84e70c325a8dd80147d9be16a512076e0a6e2fec82635b661080434673a9add9",
+        "url": "https://files.pythonhosted.org/packages/ac/2a/5b2dea67a50b84c366d7053c26235ae943ba9e0dfc066325886f103d77de/XlsxWriter-0.0.9.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "d00c35de8b2c1bbd1175c5e898b3f07f6d7a9a496a6d23b7db2e2e01d080593a",
+        "url": "https://files.pythonhosted.org/packages/34/34/d66179041e794a9eca92549db2d9cb300e43282836d416b8bace38d22b95/XlsxWriter-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "39bb3b6f2086f1db4706c3e93d1ec93d7a39c9097dcfe68a9b44a6744caf0678",
+        "url": "https://files.pythonhosted.org/packages/3d/f7/e2d212cf47bd2db458c4af95f708ce41040183b45717f4a1c7aabf64dece/XlsxWriter-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "81911db33e11290cee0b47a665ea7be1c02512d054177a065286ce9503f798b2",
+        "url": "https://files.pythonhosted.org/packages/8c/e2/7fef2bb9e66d71f3055575b31f549db386011f7a07e60dc33fe2882ed97b/XlsxWriter-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "f4443a329ee6dc30da6ab2ce6c6da1db58069506ad49375fb8fe884b5999e7ba",
+        "url": "https://files.pythonhosted.org/packages/c9/69/594dd4003683d245eec3e4c62768436273ac56606d9bb0cc90927a0a2b98/XlsxWriter-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "3ed22a4e58f95e1012cddfd369ebc41480c42ddb81a930fa57d45964c161d3ae",
+        "url": "https://files.pythonhosted.org/packages/6e/40/f9147c9ddcd049d984e21ef2572baabc30affd616984a58f922b50d24038/XlsxWriter-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "6fca9c944c2f825001c2c19e55a2a79ae3cf4d8db3f7c7310a014d119ae924d1",
+        "url": "https://files.pythonhosted.org/packages/33/e8/3117e91dcb14b3651f3b8c4a87884a404c61d2fd2cba85af8f5db8f7e105/XlsxWriter-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "af8abcf684ab1b8a61c48534c529fc9c5a2c7b2770d877ffce2928cff176a515",
+        "url": "https://files.pythonhosted.org/packages/5a/22/ff3114a1cff7fd21d3a85981fe491716f982b3b4a9ddd772a0b6e09b6823/XlsxWriter-0.1.6.tar.gz"
+      },
+      "0.1.7": {
+        "sha256": "159285e6d4b7c8d0abc0d0053bab2145ff846d5108b90008e727f1f9c11c799e",
+        "url": "https://files.pythonhosted.org/packages/ce/4f/944117088b720f7c615f0ac3688d0079373f9936a902f40807cc172ba596/XlsxWriter-0.1.7.tar.gz"
+      },
+      "0.1.8": {
+        "sha256": "08a24c340f0059b1801d7268b749ad07ef0577806066ad29a98f5d310837c5af",
+        "url": "https://files.pythonhosted.org/packages/6b/d1/629332b80696d741854cd75d41266d0a779a1d72dd9cb65425831692ca22/XlsxWriter-0.1.8.tar.gz"
+      },
+      "0.1.9": {
+        "sha256": "6411b5500cdd92c6b038a07d45b4bf9423f088ef9e23c7a4ecdda6b406577fa9",
+        "url": "https://files.pythonhosted.org/packages/92/dd/7b4fbbddf47b2b49405ee82c7fade215d4fd2b5c66aeff71913667981204/XlsxWriter-0.1.9.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "7ee6d822972b86dbb84ec123ea3abab6e4eb974ef354cccdf5ca158c94112fdf",
+        "url": "https://files.pythonhosted.org/packages/6d/95/d8a310ada832c96926e6d2ecd1a0ea357f88582a3a46afc55e82969f0cc3/XlsxWriter-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "e5f6dd0b23380ace7df4856f17f95c1af26b6676f4bd97cd129dadd159aa5142",
+        "url": "https://files.pythonhosted.org/packages/16/07/d4e2347a395d63b5fd3696f460be7da63c716b419e2b261b21e309d9b248/XlsxWriter-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "3af00b11c90e775fc9a7075eb2a2fb59c6237e0ba1496e549bd3f53722e0afa9",
+        "url": "https://files.pythonhosted.org/packages/ee/b8/87686706a84c8226a328390b0c576f5b7ef5df70819e852b463decd3e1a5/XlsxWriter-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "9af1c503afa66685397d848d412bc7c74e3ce989f054221b1e94bbc2826ea67d",
+        "url": "https://files.pythonhosted.org/packages/3e/15/75792554d76119a386dd099210ddac6604fe1e54163b4fdf497c5ab0157e/XlsxWriter-0.2.3.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "2b0e6a87f20c718d69d0afa168123b2d48f9bb6e207ab28371a8befb7a6a01ec",
+        "url": "https://files.pythonhosted.org/packages/fd/8b/cb383683b7263d64eadcfa0d77d088a54434d71007c4440fa3b99ec7c475/XlsxWriter-0.2.4.tar.gz"
+      },
+      "0.2.5": {
+        "sha256": "ff8fe35045863c925bca5d23aa2e40f005980bc7eb04930c91db57ed5017a062",
+        "url": "https://files.pythonhosted.org/packages/84/0b/35b7c736ce7adeb1a00aaac20353aae68c32ac7cfaf53fa974bc7d45f7c6/XlsxWriter-0.2.5.tar.gz"
+      },
+      "0.2.6": {
+        "sha256": "b581f0b0d90764e7538ceada2c6f2c99a1616aa5a190de159af0cd09529033ed",
+        "url": "https://files.pythonhosted.org/packages/2f/c0/c9daa60f46c83c294565a9ca9257a0dfde3efc769723a3c3c1dc81fa6712/XlsxWriter-0.2.6.tar.gz"
+      },
+      "0.2.7": {
+        "sha256": "a9c7d27339fb2a7e3333fc0ef26a841979ac7e33d08ce7fc17d894df1a5d49ff",
+        "url": "https://files.pythonhosted.org/packages/4d/75/701153c854ad55c03476ac5f424593444213bcb24e23a3bd58840fc58751/XlsxWriter-0.2.7.tar.gz"
+      },
+      "0.2.8": {
+        "sha256": "451580f37c247292a5b7eee65ca9e2dfbc2e1215cfefd19fece6973eb2c786ff",
+        "url": "https://files.pythonhosted.org/packages/2d/b1/ad389dd67b13eebbd0c2a23820d19c7a14c1b75d08be440c4c0d20909305/XlsxWriter-0.2.8.tar.gz"
+      },
+      "0.2.9": {
+        "sha256": "32de3e974331e1c9631cd1cb2c57b6caa69649c49900c2282acfbfd9b8f5c209",
+        "url": "https://files.pythonhosted.org/packages/ba/19/b5aa11be68b603508a70b126a5e474445d4150f7d59c96486c1b72952980/XlsxWriter-0.2.9.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "07cf9de6b8f34c967e6fc1286b914c279ad39756898eb317ffeb61f44bc32f60",
+        "url": "https://files.pythonhosted.org/packages/3d/ec/d3a8145576313926fcbfcd175d7c973a65edd95dbb96d22e2eae829f7a68/XlsxWriter-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "899b69de2ba3a242644573227d0406d6b3567d45e5d47751c783f0013faa8646",
+        "url": "https://files.pythonhosted.org/packages/85/53/3faae6b250a4fb53f7f52b7e8f0fea74b2f5c18e208c5d8ed1e4b0eb49d5/XlsxWriter-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "f7fcdb57a75e1e3ac36e4728250b79a3e63f91dc2cbae776914dedd4eeb5f48d",
+        "url": "https://files.pythonhosted.org/packages/e0/da/4b2e059e282fe1092ef1a7d5b4beb3f66f8386a499e1d18387f18bfef46c/XlsxWriter-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "94047115319e19358c6cc9d91ec8ac9c50cb4795d02ea0de83fcce0481b9354a",
+        "url": "https://files.pythonhosted.org/packages/ed/66/d91ebc967c0e517f1ee73d7e86f8500e3499e77421976be3bfc14d7e5623/XlsxWriter-0.3.3.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "ecb9807a122076c45979561ef42a95d606241173cccf1ec0c3b24e633e1ed648",
+        "url": "https://files.pythonhosted.org/packages/b8/ae/0d49055d524096ab100789bd734f9298780947a846877b5407b4342f1791/XlsxWriter-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "c2e353ae274c1fc85f6acb699b5d5ebd7e0d3882135043e2eef358e2bd15b2e2",
+        "url": "https://files.pythonhosted.org/packages/56/95/2e5414bc6672676183948f980b10c25f304c55424b41cc928d9fce55c18c/XlsxWriter-0.3.5.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "4f2563b8b3adc03e6856b8768f53373935a7ed9361b4f3d869f9b1cc50396902",
+        "url": "https://files.pythonhosted.org/packages/be/30/76e2995f704e1b84aa04b2575df4944f65fabbc40cbe25ad8085da6a2d8e/XlsxWriter-0.3.6.tar.gz"
+      },
+      "0.3.7": {
+        "sha256": "0ee4d116a9337f0884c3972a254880ccab2a0f2959c47d2e02786443498cdb6f",
+        "url": "https://files.pythonhosted.org/packages/04/e1/e69bd413c4df0fd7903e0050f40b0bdf3352fbfc95a4b222e2141abed7f3/XlsxWriter-0.3.7.tar.gz"
+      },
+      "0.3.8": {
+        "sha256": "c8f3a1464c4eec797db7da7ebb7d83e870f78388cbe90a5069319e639816454e",
+        "url": "https://files.pythonhosted.org/packages/96/24/5002121da509a9ac9a84dc0fb84092924d4ef8d509f1b107f41ab66edf30/XlsxWriter-0.3.8.tar.gz"
+      },
+      "0.3.9": {
+        "sha256": "8ae9ec9d497fd4e9e54019c6d10e36c5339fc82ab793813bf205cc5e1f34fb35",
+        "url": "https://files.pythonhosted.org/packages/0c/26/3e320e6d9183acd176a2bb4a0562cddb555719854fefc4a7626e26b2dca6/XlsxWriter-0.3.9.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "e37e4ebcb572b3d3f7b43346564d3b5253a416591df01cc770a7d2f41d3c453f",
+        "url": "https://files.pythonhosted.org/packages/fd/39/06dfd661eeeb1514ac3332ab43a04ab82f4101cb5dc889b6271c19fc5eaa/XlsxWriter-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "506f8e04a4dcaeb69d765a8b5ed93632c75fa8f9c72512ece9ff58bb446c7092",
+        "url": "https://files.pythonhosted.org/packages/52/6a/715b778fd00d79a6574e2371b33d432a01ff95260a7a3ffbd32fd1ad6f72/XlsxWriter-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "2299de9aa4b1b4726262ce48289c8ac466804e7581599358ea323e8de9d9f025",
+        "url": "https://files.pythonhosted.org/packages/02/03/5930ee255f3a494f0fe9255d345ffa70b172e0b7dde3447c83cbf24d61ef/XlsxWriter-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "a12004a5dac58764108da1d8b35e66c2e1497455993318bad5e9bce00b3a0714",
+        "url": "https://files.pythonhosted.org/packages/89/12/0a36a8806b3d04a0d0a0f0f5c668e16b9ae76577b7dd39f07e209580ac4d/XlsxWriter-0.4.3.tar.gz"
+      },
+      "0.4.4": {
+        "sha256": "5a2364ad1dc8fede6f5383b5df95fb54b280e11a2724680938c498ab9d9e6e5d",
+        "url": "https://files.pythonhosted.org/packages/3c/9c/3b7deec8211b689c05f7b99909240293ca4280a614fa4782e63348d15516/XlsxWriter-0.4.4.tar.gz"
+      },
+      "0.4.5": {
+        "sha256": "7624997d8b2480d40ce05bce7df02a835fc53d9edd5da543c05dbebde0ae44ba",
+        "url": "https://files.pythonhosted.org/packages/69/00/c12af5a44c589a7b0e146faccda55859bad68cb920febbf836b6359bc92f/XlsxWriter-0.4.5.tar.gz"
+      },
+      "0.4.6": {
+        "sha256": "7be225179f6db87370aaa48790e83954b74fc267ed3273c14167857efefcf116",
+        "url": "https://files.pythonhosted.org/packages/f0/95/92091f75e1bd7ab8a3a7acead17b89807477372a3560f9d2278bc8510e67/XlsxWriter-0.4.6.tar.gz"
+      },
+      "0.4.7": {
+        "sha256": "8b59496eadb949e564dfba82fb7eddd56cec554da008ab68c3aa9b7215c29e73",
+        "url": "https://files.pythonhosted.org/packages/9b/ac/950b91017850d05465bf106bfcd461fa98fcf90e073e0af42fb4f4d42f2b/XlsxWriter-0.4.7.tar.gz"
+      },
+      "0.4.8": {
+        "sha256": "72f9a02466b866b71a97cc836026af654f1b5374c1d55119adb046538c76cdc2",
+        "url": "https://files.pythonhosted.org/packages/35/5e/7dce7749fc613bb158c5addf393624b6fa5245f5b70f46ed1bff8ba79c5f/XlsxWriter-0.4.8.tar.gz"
+      },
+      "0.4.9": {
+        "sha256": "44a6667782248be81d33f879c98a49c1ac0d7d5829bc49babdb1d5779327415b",
+        "url": "https://files.pythonhosted.org/packages/36/33/ae195c09e21b8a149585af396c7bb99a62d1ca3978e479693c40d5e3ec45/XlsxWriter-0.4.9.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "b3d435288f74e572337b6df9a3c1bcbe2ed119b3cf14796bb6fd66bfe0455362",
+        "url": "https://files.pythonhosted.org/packages/67/8f/8ceaa50e84ccec63a33a07d3a0442a03684fb3aa93d27697dcfd8edafeb6/XlsxWriter-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "d47b552508d48a2ff9b27bf64d808d47c64235ecb4c7a9f2eabb015a03311008",
+        "url": "https://files.pythonhosted.org/packages/c0/88/ca6146544e46ceadf6db0f7bf08c4a6c43fb205c720b34e4a1135e406e80/XlsxWriter-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "1896d75aee5d70a63976854fac1941e88b47f1eb6fda3207f1e3e01ec35baf62",
+        "url": "https://files.pythonhosted.org/packages/9c/cd/dc074d033171c06895aa0dca7d8773ee4454cf91a76e6f1f64ec53cbe4eb/XlsxWriter-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "8b12699f8e582c038522ded2d37fce393436d406bbeb488111d40b73436ce3ff",
+        "url": "https://files.pythonhosted.org/packages/3e/0a/9712f11ff976dc4b598048d78774f69d94a67b7fb8e6b4bf540c24669b8d/XlsxWriter-0.5.3.tar.gz"
+      },
+      "0.5.4": {
+        "sha256": "27d1e938b0e411bae3699f06e0fcfd8dfd81575c84090ea5178674813d78c563",
+        "url": "https://files.pythonhosted.org/packages/17/8f/61187643eb4cbb44dfa6cfaea04d9743e54e6a39d843946e915ac5c1ef0a/XlsxWriter-0.5.4.tar.gz"
+      },
+      "0.5.5": {
+        "sha256": "5da8822d6bb2d74ce723d6c548fda63dfe8db06a43a2a97f7a39bf9e4017a535",
+        "url": "https://files.pythonhosted.org/packages/54/20/61b221c4705b494c5c676917051df424e093878cd7989adf4148e8ed4d56/XlsxWriter-0.5.5.tar.gz"
+      },
+      "0.5.6": {
+        "sha256": "f26e2510d3bd69f166612a8f1ed79c37c6cc2273ebba993b27bcda13d7f006b3",
+        "url": "https://files.pythonhosted.org/packages/cf/61/0410019ecfd80129d1a44881b18de0a06d4d9c5a821f30c5866205425501/XlsxWriter-0.5.6.tar.gz"
+      },
+      "0.5.7": {
+        "sha256": "2e4f6c38bb57741c7ecfd0a2183ac3017918fa511d139460d50b50843832a4a5",
+        "url": "https://files.pythonhosted.org/packages/b3/64/d0085489b7abcdb485199558f0bcf10872b93d000169c353a177c254fec3/XlsxWriter-0.5.7.tar.gz"
+      },
+      "0.5.8": {
+        "sha256": "044fbeb2e3524a4ea224980223317cc4cf7fba56ace96b878e4df3d2ea7329f8",
+        "url": "https://files.pythonhosted.org/packages/57/cf/677d716a1faa6c9dd6bbdbb6feb4440d1c44556fc78fae2b4c086ff9d793/XlsxWriter-0.5.8.tar.gz"
+      },
+      "0.5.9": {
+        "sha256": "abab63b051186e426c03bb15216ca7e4b43b8f8e2db48ca0656467fc3d41f2fb",
+        "url": "https://files.pythonhosted.org/packages/a4/fd/0a93c538705654011abf99d5c8d576c873ef500551657f92fdf94a62d1c1/XlsxWriter-0.5.9.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "2d51100387a544e0210db0e8efc84a4b6fa5e54f8e4e42e5bf92d35c0b2aea56",
+        "url": "https://files.pythonhosted.org/packages/75/78/4543dfbb78f7fe6dc8bfec5d7d028db1d779587911d5644de55505c4a81c/XlsxWriter-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "e29949ea398170d571267546146534f5befd10b020f6b9927c360ba1da1519d5",
+        "url": "https://files.pythonhosted.org/packages/58/e6/825b9a45f5f2ac0b540c10337154ee0da4da8869061566815a7bbb98ada6/XlsxWriter-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "61f86f75471922a548bb6e9407e29dae01437ee620640b85f7d9620ff0550a65",
+        "url": "https://files.pythonhosted.org/packages/6f/9c/37f49588e153dc6fd940f27bf835bc88178fcea4aa15e24ebb67e674ba31/XlsxWriter-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "cac11ea80477b99e3efb47b38609dfb46ac4b2b5ca2aaaeb508c60f25bf50af8",
+        "url": "https://files.pythonhosted.org/packages/d3/c6/48ce541f79423955425a49afda6c8a0d8bb2b47bff4e09d7f516fd877f46/XlsxWriter-0.6.3.tar.gz"
+      },
+      "0.6.4": {
+        "sha256": "5215dbea8071fb9f36fe3d83fb340f206a34fe2127d54898b8c9465e39d1db39",
+        "url": "https://files.pythonhosted.org/packages/c1/10/c24b03b8dd7726eaf4b6b91784d233d386252815bc0afe72e0c3b8628232/XlsxWriter-0.6.4.tar.gz"
+      },
+      "0.6.5": {
+        "sha256": "cba7b4bb922388e23b81f99346589d5f63f1391c244c871e4a20e60d8b545c4b",
+        "url": "https://files.pythonhosted.org/packages/5d/fa/417df202a3dc8f9a298a24d93bdd2a97e4e2ae078e1d60fc9d23cf685ae4/XlsxWriter-0.6.5.tar.gz"
+      },
+      "0.6.6": {
+        "sha256": "147ee04421235ab07880ea1534fc27eef8b23e3a94937381a19d137da0a26846",
+        "url": "https://files.pythonhosted.org/packages/56/a1/5f8d438530c85741cf0423fce61018173eb0bfaf0e70b622bc7e6d577ce8/XlsxWriter-0.6.6.tar.gz"
+      },
+      "0.6.7": {
+        "sha256": "dd5c91c024391c24949735b50495de2caf0fff25691425863e048354993a878a",
+        "url": "https://files.pythonhosted.org/packages/e5/e8/87736d8d8a47907ad16c354dafda657f207bbd027306ac31282ca4d9229d/XlsxWriter-0.6.7.tar.gz"
+      },
+      "0.6.8": {
+        "sha256": "f48a8685df3b77482bf517c2139b75953401ca41e6ccfad07180487ca7745628",
+        "url": "https://files.pythonhosted.org/packages/a8/d2/46c7f264e27db36d5db39ce153920a409554bf3c1420a3f836b00c523352/XlsxWriter-0.6.8.tar.gz"
+      },
+      "0.6.9": {
+        "sha256": "ff3ac662d6d6bf4b72e898c0c9c795cd6e60967fc37d1e57f7f5ce6e593b2266",
+        "url": "https://files.pythonhosted.org/packages/e3/e1/354c272301deabaf80213dd94704b4532438fdc937d1c2a6337c48f42158/XlsxWriter-0.6.9.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "e5db08ed3f2c3e2e55c5dc400102a700c4c402dc74eecfe67baf3a2d3886fef6",
+        "url": "https://files.pythonhosted.org/packages/27/55/64a21438b646056f05e4df84277f421675c2b3e8dabd4460cd3290a104ab/XlsxWriter-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "267951c07cc07f404ff15bbd318fa53d65b4e4d1ae2901abdca63e206fc9b752",
+        "url": "https://files.pythonhosted.org/packages/46/33/b385a8f2c0580a2cb0ba89e53c8725a80be3aa0ae4e2af34414a1d4ffdea/XlsxWriter-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "6f9ebe6a90c824f7cca74510df70ec440b93363249ed12b615499ad0e851bddc",
+        "url": "https://files.pythonhosted.org/packages/74/b6/1e995f1bbe58d41e4005f425357c14965ebd11d0bbce9dc0e76255593a01/XlsxWriter-0.7.2.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "2fa0f2d633bfbbc55a48abd4089820c744ed7a40e11c5c1580196a2c129eb8c6",
+        "url": "https://files.pythonhosted.org/packages/18/e0/1da941ed2d17c426bd76f1cbe70c134c6563e85383c33a52122741ad8dc8/XlsxWriter-0.7.3.tar.gz"
+      },
+      "0.7.4": {
+        "sha256": "e3192763b377a588fc06113836cf74a565926168929e55ba451baa684e857b62",
+        "url": "https://files.pythonhosted.org/packages/5d/5b/2de2063c74bac22da8c23cbe2bc1ce9833c414b996fafa7da5e256f13ce3/XlsxWriter-0.7.4.tar.gz"
+      },
+      "0.7.5": {
+        "sha256": "187de276993764d7e53699093a616273b4c10a306f4e666d60f922e83069f8f9",
+        "url": "https://files.pythonhosted.org/packages/bc/fe/a3dd269d11e91b2c7e6fc29393ec4807b848f181f0f828371ad7ca02d1d9/XlsxWriter-0.7.5.tar.gz"
+      },
+      "0.7.6": {
+        "sha256": "8d32569e49c7a7e53ca26fc34e11897c80ebc94b86c4b9cc3f467d8d99cf5c64",
+        "url": "https://files.pythonhosted.org/packages/d3/16/f527cf39168b5cca2d3132387b3e1a88ca2c5b74808c33919c8a44d77eaa/XlsxWriter-0.7.6.tar.gz"
+      },
+      "0.7.7": {
+        "sha256": "33a6fac3b148ab6137a7e2c0869e33493aff5ccde66e434c1ccf49e8687b9606",
+        "url": "https://files.pythonhosted.org/packages/98/99/c58683614a8723e9a590b59bd30689dbe7d5000228e6ca7de06a87192321/XlsxWriter-0.7.7.tar.gz"
+      },
+      "0.7.8": {
+        "sha256": "2200c2a69f63b350b3b1f5db8fae3e5b7135c01b7ac9c3b1d5926cf6583dd4cd",
+        "url": "https://files.pythonhosted.org/packages/f6/ca/5400d295ab081ec49044f8a1fc2a74facec72ebb788d6cdfcff04301cab6/XlsxWriter-0.7.8.tar.gz"
+      },
+      "0.7.9": {
+        "sha256": "c77c6300925ad6f79f6ff009db9ad1fbdd71241f2ae53444234a8693e8af3ada",
+        "url": "https://files.pythonhosted.org/packages/19/65/43e12ca531e6b05ac77eb91a6d93013dc9844dec351872060cb1c928b059/XlsxWriter-0.7.9.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "6ad16fcea6602404da4ced2d029431407735d08d20a16c9c5c7ff451d2a475db",
+        "url": "https://files.pythonhosted.org/packages/fc/25/24858731942ee704c721d4dc9f8854fd2a186e3e808d35ba453f90a3269e/XlsxWriter-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "844255b3052e48096a3fa68483a04bb1a62a39b7b1825011d78cdfed354473c9",
+        "url": "https://files.pythonhosted.org/packages/5b/68/9f0590d8198ae8b0fea7efc00c5ab0d94fccf34b951eeef4ed2a14208f4a/XlsxWriter-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "7f736ca0e38cb5d0ebf5f84db28c8914c5fe017e035d162e4a3764dff1615800",
+        "url": "https://files.pythonhosted.org/packages/ff/56/d96e7a881bbfb0c457c315e0d04628c38e911e705298778beb557633d83b/XlsxWriter-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "923a4e23dcd394bbcd40dcbac59dcb13ddd9f19479a9e253e93b56e3acb8f8ae",
+        "url": "https://files.pythonhosted.org/packages/1a/1a/233e2b1ec6d7528cc0aeae35757dbb50503b919e6bfdcf1863dda0822e67/XlsxWriter-0.8.3.tar.gz"
+      },
+      "0.8.4": {
+        "sha256": "9f0c421fba5849ebcf6a2d24e8eb54799fa48166fe53dbe6deb42669ed5c6643",
+        "url": "https://files.pythonhosted.org/packages/e6/98/815be4008c4861b7d328898bb4e342ca966dea4ab6dceec746241427ce07/XlsxWriter-0.8.4.tar.gz"
+      },
+      "0.8.5": {
+        "sha256": "f8402e8dc3bd4020f8189493333a675d5b82a90572bf99c159aefeafac02351f",
+        "url": "https://files.pythonhosted.org/packages/01/25/bcb25ccf1361c660606e887a1154a2c9ef69a0b02dc99c7b7279c32b33b4/XlsxWriter-0.8.5.tar.gz"
+      },
+      "0.8.6": {
+        "sha256": "a82700ef05da104d8034a5c0a013552ba0fb0e198558443fce6313c2adf64d16",
+        "url": "https://files.pythonhosted.org/packages/8a/5f/ecec1c6a6fbffd49c644e5876de6a56e3db7b261e2334748df1e189739ae/XlsxWriter-0.8.6.tar.gz"
+      },
+      "0.8.7": {
+        "sha256": "47557c7e7e5eb36afb6fcbf0ca45f4b375462b29137d3055043bb3b42089c779",
+        "url": "https://files.pythonhosted.org/packages/1e/fd/9fc92a4af443e86d50dbc50d9cb6af1dca40b61a0633cfd46b1a2b0e4bfe/XlsxWriter-0.8.7.tar.gz"
+      },
+      "0.8.8": {
+        "sha256": "ebbd4998b336f4345e015b409d1078c332a9e643ce6cf78af3dc1225a1f847de",
+        "url": "https://files.pythonhosted.org/packages/8b/44/69c1a2801d9e0d1536335e9029e18b52b360675fbc3245a3a0712c7db44e/XlsxWriter-0.8.8.tar.gz"
+      },
+      "0.8.9": {
+        "sha256": "cb90c5283b88af72549adf82f203d15623a0f4faeae29b6a20733e187dfde882",
+        "url": "https://files.pythonhosted.org/packages/2a/de/4ee20ac103417662865e0e3acde859b002c13f52af0d50a2664d3eca5897/XlsxWriter-0.8.9.tar.gz"
+      }
+    }
+  ]
+}

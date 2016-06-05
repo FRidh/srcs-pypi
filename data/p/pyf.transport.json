@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.0.1"
+  ],
+  "meta": {
+    "description": "DataFlow transport (packets) system for PyF framework",
+    "homepage": "http://pyfproject.org",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "4664cdafc535f1e77e96b8691a5b13f3b1f661aaa9843ad1588cad498c7d704d",
+        "url": "https://files.pythonhosted.org/packages/0a/94/58c18d637bbb5d2c828f4a7623daea571c2b423b5f91ab7e5111a5ff6bb1/pyf.transport-1.0.tar.gz"
+      },
+      "1.2": {
+        "sha256": "4ab002d2d95c02e85e75f7e2014b0ec3a3d6752d1f6b60a85cefcbd31c40e8d3",
+        "url": "https://files.pythonhosted.org/packages/7f/ff/6aa9eac6de15a862fbe01fd61a756cf9b7488015a369ef21c02ef915c888/pyf.transport-1.2.tar.gz"
+      },
+      "2.0": {
+        "sha256": "5a73d3b8d03b8de60b216bfb08d76fc94896000e982ea0a89ca550fbd8d816fa",
+        "url": "https://files.pythonhosted.org/packages/b0/8e/768f91bb7dea9cf8373db6eeded554505305c577488515ec7a5ebe233205/pyf.transport-2.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "102b12ef30822d8367c65dec6b532e58e6f3d98acd1491ff926b674d77ce3209",
+        "url": "https://files.pythonhosted.org/packages/3e/d7/478fee88702a142bf5527c63e97f8482876132c39f91a1c2c7a133c9f293/pyf.transport-2.0.1.tar.gz"
+      }
+    }
+  ]
+}

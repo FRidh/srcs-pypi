@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Montague provides functions to load WSGI apps and servers based on configuration files. It's based on PasteDeploy's INI file support",
+    "homepage": "https://github.com/inklesspen/montague_pastedeploy",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "0e84a5dd3f442aa56a041d6fd9b9ac91a81493c56cae28ec9b745e09b354fe11",
+        "url": "https://files.pythonhosted.org/packages/bb/2f/59bbf1c1dc82280d79e19c2a6ada3cf21a250aeec6d7a582460ffe0d9d61/montague_pastedeploy-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "dcbd3adfeaae064461c3f193dcfe76b4a3894eab6880f341a0e13c6b94487a8e",
+        "url": "https://files.pythonhosted.org/packages/c3/50/82332a5712666489b770afc76bd2dc5cde286df4e83009b5d556a5d174f6/montague_pastedeploy-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

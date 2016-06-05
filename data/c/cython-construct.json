@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.5.8"
+  ],
+  "meta": {
+    "description": "A powerful declarative parser/builder for binary data",
+    "homepage": "http://construct.readthedocs.org",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "2.5.4": {
+        "sha256": "eb3e38e25ceb864aee86ff57c3f6c964e0b5730342187c077fc4cb08f572d585",
+        "url": "https://files.pythonhosted.org/packages/1c/6f/35ee6d665bd246eb9a1c653c9730857b601f0c064bc1919dd0fc343036a3/cython-construct-2.5.4.tar.gz"
+      },
+      "2.5.7": {
+        "sha256": "5ef49c4942df109b50fea6240af3e0d161f65c908588308ab8d39009c7ca798c",
+        "url": "https://files.pythonhosted.org/packages/16/9f/79ca6addff9c4a76fc9da93495aac849677b83b2df74bf0bac5be6f7db66/cython-construct-2.5.7.darwin.tar.gz"
+      },
+      "2.5.8": {
+        "sha256": "ac3f0bd553141dbf9389144463063ca7a150e8d290d60bc8e6f50a8c877bdfd5",
+        "url": "https://files.pythonhosted.org/packages/8c/96/d56f5b04de31ea9eda847121ebc95e5fff47b518930772b0659ec256bc6a/cython-construct-2.5.8.macosx-10.11-x86_64.tar.gz"
+      }
+    }
+  ]
+}

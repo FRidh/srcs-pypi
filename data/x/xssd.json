@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "Validating python structures based on XSD Subset rules",
+    "homepage": "https://code.launchpad.net/pyvalidate",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.6": {
+        "sha256": "b5125bec28756616a0ea9fbe2a881c89f8be08c999082781c6e10d3b7ed21f1a",
+        "url": "https://files.pythonhosted.org/packages/15/b9/41522407989ea7c527fd20407b84380b71c23bf3dab46a928d49ebcc6974/xssd-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "af589a80e66509a59e580419f8da1fccdccfce7ac89b7d4091c2091eef7a12a4",
+        "url": "https://files.pythonhosted.org/packages/a8/42/28417ac07d6ada725fb225fbbcf9e78ab5224657f9f0f9dc92fe7531a1ee/xssd-0.7.tar.gz"
+      }
+    }
+  ]
+}

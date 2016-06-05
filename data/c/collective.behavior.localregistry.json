@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.0b2"
+  ],
+  "meta": {
+    "description": "Dexterity behavior to add a local plone.app.registry for           content types, it adds a local component with a layered           proxy registry",
+    "homepage": "https://github.com/collective/collective.behavior.localregistry"
+  },
+  "versions": [
+    {
+      "1.0b1": {
+        "sha256": "08854d2dbf6bbc1f899135b43aee8e3fbbf45385da02dfce55bdcb197697c56e",
+        "url": "https://files.pythonhosted.org/packages/d7/59/3afd4d0667b41486a5a2f59bc4d658aa668cc083b5e9a4488302e9753743/collective.behavior.localregistry-1.0b1.zip"
+      },
+      "1.0b2": {
+        "sha256": "c75039154b6c2578d53a2771add4ab25c433a060431463d7c31dbbb6cff377a6",
+        "url": "https://files.pythonhosted.org/packages/a9/e3/aa575c3a02ac906d17aa3ba8b79ddb645598b6bd427ab841fb47d77ffec7/collective.behavior.localregistry-1.0b2.zip"
+      }
+    }
+  ]
+}

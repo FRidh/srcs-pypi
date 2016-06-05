@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Pelican plugin that can load articles via email (mailbox / maildir)",
+    "homepage": "https://github.com/TC01/pelican-mboxreader/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "2805f253b7cac33ade4fe29210f77080ddde69f4552192c9156228fd6730d7d2",
+        "url": "https://files.pythonhosted.org/packages/83/37/2722719ff4b3522cac19dd854f682a88e7341732872c5a836d0eae8a91d3/pelican-mboxreader-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "542eb185716b72468b832d7f1568d6ecea127562b1a3dbb8688906d94635e3b8",
+        "url": "https://files.pythonhosted.org/packages/59/d9/7a3dee2273e2325a38997153e49b56486272a25edce8f68323f2bd31d751/pelican-mboxreader-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "665b1b8e9f5b6dd261965bb11a8cd2d44a8f4e10834424c5b0c39eb09c3193eb",
+        "url": "https://files.pythonhosted.org/packages/1f/4e/c37d76897a00e592be28085e57a84fe9f461ad9f34bc63c4efd6d07d251b/pelican-mboxreader-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "latest_version": [
+    "0.5.3"
+  ],
+  "meta": {
+    "description": "a Python interface to a Cluster of Redis key-value store",
+    "homepage": "http://github.com/salimane/rediscluster-py",
+    "license": "Copyright (c) 2012 Salimane Adjao Moustapha\n\n Permission is hereby granted, free of charge, to any person\n obtaining a copy of this software and associated documentation\n files (the \"Software\"), to deal in the Software without\n restriction, including without limitation the rights to use,\n copy, modify, merge, publish, distribute, sublicense, and/or sell\n copies of the Software, and to permit persons to whom the\n Software is furnished to do so, subject to the following\n conditions:\n\n The above copyright notice and this permission notice shall be\n included in all copies or substantial portions of the Software.\n\n THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\n EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES\n OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\n NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT\n HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\n WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\n FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR\n OTHER DEALINGS IN THE SOFTWARE."
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "5b940ccabef83d26c86f49499d1b2c0deaf082f525ff5144326543e0dd624247",
+        "url": "https://files.pythonhosted.org/packages/d1/af/12b8973ac9a56c4247a6d1afcef3659117d532388ec45f420d06606add8f/rediscluster-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "6206cd498e8aa18c6c17720e8c33fd8c80e20412142b4dc8ff095c035cdb7a0c",
+        "url": "https://files.pythonhosted.org/packages/44/99/1f0434dbe2217d89865cd2ef05152cb2ef394d76a73ca37aaded76c2180f/rediscluster-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "763e54a1ffa84dc44701cf6317923a48eb8dcdd8e647f27210b70968e6863996",
+        "url": "https://files.pythonhosted.org/packages/6f/f3/5c2b4682ecaa3f14bb98c3939c099f06303ce0a24de714ef8ea8e4b5a5c8/rediscluster-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "f3695dfbced66d6ce3088aa53893aa7b31f96eece2f38d4418f7bc7c24bf6f18",
+        "url": "https://files.pythonhosted.org/packages/3f/5c/0efe221759656a212274bdc6a2cc2d846c7b5493c78793f7ecfffaaf01b0/rediscluster-0.1.3.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "ab9f7cf6afa22580bbe1c83844fae53b0f122a7fdb22bf73e0ee39f61aba6117",
+        "url": "https://files.pythonhosted.org/packages/35/dc/a28a9681e81f20944c11f49e685b5ee8dc4f4af3d4ff152b7ca19eb54c17/rediscluster-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "b91676ed564471702a3d1b887d6cf2ab9a9e8cb305dc04b40f7345316ef22c84",
+        "url": "https://files.pythonhosted.org/packages/a3/2c/a290920ca70d076109d083d5902149be1d0ae07256d7265e87f8a098f797/rediscluster-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "9a5f2aa4803c1a79442c55c3dc85fbdc3875b03ed0c82997b64ee48b7a529cb9",
+        "url": "https://files.pythonhosted.org/packages/d8/36/4100bf40eee8dd96a2e25496c0072ca801b37231c54350041e5666a42036/rediscluster-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "742d8e17940f9667f0a5c2e5c254eb9517acc926af577f14bced665d31dcb41e",
+        "url": "https://files.pythonhosted.org/packages/f1/8a/1a4d18f9badad57154b000eb29952b6a8fe655f9a54fbe8747b442981744/rediscluster-0.2.3.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "9f7765a776e59a0407ab84218e4c295d0639878985c2f74f927933d7bf49b425",
+        "url": "https://files.pythonhosted.org/packages/c1/b4/7eeb2266e2200e966818f0844e20707d5ecc169ba2facf8657586ce2a202/rediscluster-0.2.4.tar.gz"
+      },
+      "0.2.5": {
+        "sha256": "0ff54d4cb5b659a74b99e198730eb586909fc9b964320a358ad98ffa62467a08",
+        "url": "https://files.pythonhosted.org/packages/88/72/33d2cd03d0bec788068bce8f7116f8fd6ce0b751329f36b0b4bbb7c0c7e8/rediscluster-0.2.5.tar.gz"
+      },
+      "0.2.6": {
+        "sha256": "c3b2e2a866d15600a2745580e0a2d8c0f1bf3e2df4d9d7784b2f7280a14fae01",
+        "url": "https://files.pythonhosted.org/packages/02/e8/0d0c46932221a8ca8fa8d8f271e60a78be24f49c086b663a5ad0ed06431e/rediscluster-0.2.6.tar.gz"
+      },
+      "0.2.7": {
+        "sha256": "2c7f2b775b7448d9d979a798b1243830a0d7304021235369067adc02f01d187a",
+        "url": "https://files.pythonhosted.org/packages/cc/83/54e25456642433671620b8fa2ce05451a5c71c0407ac4a6df3053b226b5a/rediscluster-0.2.7.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "8f91df662ab86011ae93f5852a0e39ac7244b74ae1eff1c97c781b22b00948e1",
+        "url": "https://files.pythonhosted.org/packages/35/50/787929816d86db5fdc33fd99cb0cb6a69afd26165fd724ea035f6aedd6ab/rediscluster-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "825cc71370e59fbe71ed69cb980b48df34488ceb3b136541cbfd419938a06c28",
+        "url": "https://files.pythonhosted.org/packages/7e/21/d85619aaf496d0a572bc13e74918bcfa04c462c9c8dca52d97b35c74a23b/rediscluster-0.3.1.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "e9ec2575a58dd0eb7430765b9bb6863f34723aabb1a64c8ca882fd71c1ca2e0f",
+        "url": "https://files.pythonhosted.org/packages/f6/0d/1e05fba18e8b4666597bd682eeded34ceebc15b0e5cfb238dfeb628cdf7b/rediscluster-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "c44e0c9c941727e122270eaee48b2d2199cc78af038d2b13c29a166e68bf6aa7",
+        "url": "https://files.pythonhosted.org/packages/88/de/27b0eb127d360fb540fa90f38a04440e9212464cf6ed79bec4449ec9b546/rediscluster-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "da8792c9e1c9311e36facf700721ef1a4e638cc06a6c93dccbe209e300dc6db7",
+        "url": "https://files.pythonhosted.org/packages/ae/ce/cb9b7ab9c5a1285e22a9d923d02fa06414788506e987fba525cf7245cd08/rediscluster-0.5.1.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "73004d9c80f70b25fc926ad0dcee3593c6755e080c6971b859e4638072c530fe",
+        "url": "https://files.pythonhosted.org/packages/0a/2c/0f2ab19a4f20ea7bd2dbb4032fc332894feabdb0346353fbd9cbdb0c152d/rediscluster-0.5.3.tar.gz"
+      }
+    }
+  ]
+}

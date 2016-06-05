@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.6.5"
+  ],
+  "meta": {
+    "description": "Set of tools used to support creation of calibration reference files for Hubble Space Telescope",
+    "homepage": "http://www.stsci.edu/resources/software_hardware/stsci_python"
+  },
+  "versions": [
+    {
+      "1.6.4": {
+        "sha256": "374c8f0bbbaae1a12c6585b2601dc3ad3b859a85fbae6cc22477f5c75824b9da",
+        "url": "https://files.pythonhosted.org/packages/d8/0c/51cafc682e9699cef5bbfaa0056ff576d8a08d5687e774dd0bf6a47f4abf/reftools-1.6.4.tar.gz"
+      },
+      "1.6.5": {
+        "sha256": "3df8474dde0ffec01f777fde5f991a3de414bf6d2873ef534712afa0a23a89be",
+        "url": "https://files.pythonhosted.org/packages/a7/7a/314f07004e7eb32ec04a794e99881c5dd07037a33b70813dc3f9ef6c7f48/reftools-1.6.5.tar.gz"
+      }
+    }
+  ]
+}

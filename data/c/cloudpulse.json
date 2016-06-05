@@ -1,0 +1,58 @@
+{
+  "latest_version": [
+    "2016.1.1"
+  ],
+  "meta": {
+    "description": "a Health-Checking Service for OpenStack deployments",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "2015.2.3": {
+        "sha256": "27450255a51b5a3bc227e87fdda1833a387a745c815202f3b3b5fe708e6ada2e",
+        "url": "https://files.pythonhosted.org/packages/7a/1f/e6baca4516cde29f03354804ea2bc32dabef2b54ce223b0285507dbba420/cloudpulse-2015.2.3.tar.gz"
+      },
+      "2015.2.4": {
+        "sha256": "8ec9e7051f6bd02f615a864ae8fbb7c33de49cea5a0258511857b0271a63bed5",
+        "url": "https://files.pythonhosted.org/packages/c0/63/077bdd97f45b03c0a894458c1d1c308fa2e824dcfc9befa0a5e2e7ccccd6/cloudpulse-2015.2.4.tar.gz"
+      },
+      "2015.2.5": {
+        "sha256": "4e6ffc473c5c00c0bd8d785b8f77f1aa420e7cb578122c9e6e001f6ed2130176",
+        "url": "https://files.pythonhosted.org/packages/c0/02/84017fbdc3b8567ab6965e0df3da9aa075d62cbe384c9d7349d3eeb4041b/cloudpulse-2015.2.5.tar.gz"
+      },
+      "2015.2.6": {
+        "sha256": "067bae98705758051b9a029bd3820679e4c016deb239004aa027e7954b1a5fff",
+        "url": "https://files.pythonhosted.org/packages/5a/34/78f5f036051a2d3ff6679789ed305e00034b178011b25c64ac82bd239ed7/cloudpulse-2015.2.6.tar.gz"
+      },
+      "2015.3.1": {
+        "sha256": "8fee1a04f1d55d7f3947da58a04cfa590fa745d344be11ceb36c618a252e6642",
+        "url": "https://files.pythonhosted.org/packages/bc/43/6261e1fa2e9f3544d587d67882af4b2a871f98cc76b36ab1b80530c0de46/cloudpulse-2015.3.1.tar.gz"
+      },
+      "2015.3.2": {
+        "sha256": "6b53285c8ab1624137bae877cd9b6e462d6f51ca801cae2f115d4c100f352e8f",
+        "url": "https://files.pythonhosted.org/packages/b9/79/a15d1d28c9fff6788dee3152219b687ff5d589e82dc3e501f020a4093b30/cloudpulse-2015.3.2.tar.gz"
+      },
+      "2015.3.3": {
+        "sha256": "6f615b7a30e2fa83b63f243d7a26528e313566aac70f740d421c2876de430a47",
+        "url": "https://files.pythonhosted.org/packages/e7/84/37ec1410ab418b41495f9fe150584ec505b075ef84e2b2aed06a5d7e1ab5/cloudpulse-2015.3.3.tar.gz"
+      },
+      "2016.1.1": {
+        "sha256": "0b2deca59e05c81a4aad0454f2cd929c54a20553cc86d660f43d1e780be1ba03",
+        "url": "https://files.pythonhosted.org/packages/e0/a4/582dbc9499fd674db1cc0b2cecb75f3f2c65a09b15fa658089bdf313dd5e/cloudpulse-2016.1.1.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "8af52734d4f67abdebbb5ada0bec4672c02ef4a51848c0f06999dd881201a4c1",
+        "url": "https://files.pythonhosted.org/packages/e8/0b/c50f57b63ac0f68e3044fdff3407629edc5e483879c46d782fd45e2cdbb8/cloudpulse-4.0.0.tar.gz"
+      },
+      "4.0.1": {
+        "sha256": "d01e41846b7b77b2be8f970d96d9b2c76ce3344ea8b52b725e034b00d251ce59",
+        "url": "https://files.pythonhosted.org/packages/7c/2c/d2bcfd71ec6cda89e40bc47198a3897ada5b9c387e80709313e9412cd409/cloudpulse-4.0.1.tar.gz"
+      },
+      "4.0.2": {
+        "sha256": "cb8b98d69c19d69a8252cbb6aabe2ea0f25531787835f06dde2acf43e2e3b340",
+        "url": "https://files.pythonhosted.org/packages/4f/20/c494006393a4aff42dcd4601167828bbbcace6c7d2eafe9516d74a755f9b/cloudpulse-4.0.2.tar.gz"
+      }
+    }
+  ]
+}

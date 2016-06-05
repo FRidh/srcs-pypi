@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "Converts Django ORM objects into data documents, and keeps them in sync",
+    "homepage": "https://bitbucket.org/wojas/django-denormalize/",
+    "license": "LICENSE"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "94728af4195f069a3083d824f871689b2875883b10425b39bd868f470bc7971e",
+        "url": "https://files.pythonhosted.org/packages/6c/ff/2f06ec1d3e82818c961c6945c321615657c14797f8215fcb917e0e26b2b7/django-denormalize-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "57c7972544ce1f2d7afe5cf468aa0ade180f2c2967c6c7f43045aa99fd3cc1c3",
+        "url": "https://files.pythonhosted.org/packages/e2/23/b3104490ab304201ff845848ff945be53ac20d92a9395f3cb43cca583954/django-denormalize-0.2.1.macosx-10.4-x86_64.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "1a674e044591ce9a18f9022ce6748ad34a6c6ca5d90bfbe35fe76cf947f8bb7b",
+        "url": "https://files.pythonhosted.org/packages/9a/9b/814133d15c2b78a5b6142a5f21ddde00da4200ba1b3b862ec970b80c206c/django-denormalize-0.2.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Pelican plugin for creating alias pages (useful for moving from a different URL scheme such as /<year>/<month>/<title>/ as used by Wordpress)",
+    "homepage": "http://github.com/Nitron/pelican-alias",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "e17c2f699b1728f48bee0aa2f8a43a3b5a576f8cfc35af4af664f8d63ebe8f7c",
+        "url": "https://files.pythonhosted.org/packages/c9/76/cd3a7174e2ac5d834a07e92fb619512c224252d06a3af1076a61566d8fd1/pelican-alias-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "e548c8245127bd540d53d9b1a95c8fb6958184f819d13f996f208f45f7237c4f",
+        "url": "https://files.pythonhosted.org/packages/af/0a/82422526f2d69917015ed7d47ba6dcd2789875359595fc5cb04a58115ec9/pelican-alias-1.1.tar.gz"
+      }
+    }
+  ]
+}

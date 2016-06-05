@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.0.7"
+  ],
+  "meta": {
+    "description": "A Django application used to store dynamic settings (i.e. settings beyond the settings.py file), and retrieve them via another special object (instead of django.conf.settings, and wrapping it)",
+    "homepage": "https://github.com/luismasuelli/django-dynsettings-ritual",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "aa6b0dab7658a60530edad5a26081d11053e78a17407256f73df486d096d6e92",
+        "url": "https://files.pythonhosted.org/packages/e6/d2/3142d42037d854fcc4ad6587374aeacf26099a96e44e2c12422dac9867c7/django-dynsettings-ritual-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "8091956ad2e3b5733ac336cbfa994e30e01aa0d776853a1611431f14284a5e77",
+        "url": "https://files.pythonhosted.org/packages/b4/c6/cea425e531091267ae0b15ec099d96243b6a2aeccc98ec840b96563ec609/django-dynsettings-ritual-0.0.2.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "a3b7aaf40e5a87bf8b812fdaf1bdf28798c6f043efbbfb0af383d2903734d00b",
+        "url": "https://files.pythonhosted.org/packages/27/bd/0b428637995ae1542c7c82dc7324ea405ca599464218efc1f22d28fd5ed2/django-dynsettings-ritual-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "33afa8d7e2a2be6d50af6c07792287db3c9115a48d7a16ca82f8373d62d7ba6f",
+        "url": "https://files.pythonhosted.org/packages/22/b1/a5ed2c092758b891e5bffec6390ad91769b5cb6d5278bd083bb44eca62b9/django-dynsettings-ritual-0.0.5.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "c8674ac7b132ed3fb9c72547987740686695d770e436be828b6f9157daf745d6",
+        "url": "https://files.pythonhosted.org/packages/33/04/ea85da1ff824af2f17f6039a1946fc91d6b09dbec81433c14752618ef1d3/django-dynsettings-ritual-0.0.6.tar.gz"
+      },
+      "0.0.7": {
+        "sha256": "4386a971fda7d6154473fe2ef32a0e76c49dcfd23871d5d42ae9417c1bce646d",
+        "url": "https://files.pythonhosted.org/packages/54/98/11ea5ce875479cf28f27b4cdfc2ae0f2eb6c9b901f5c84f2b0120ad87fe2/django-dynsettings-ritual-0.0.7.tar.gz"
+      },
+      "0.0.7beta": {
+        "sha256": "f3e9ed1a034aa235cfe79bdccc096026f56c4e3ed18fa6ab2712c873ab8fae83",
+        "url": "https://files.pythonhosted.org/packages/ed/be/4bdf23c0fc4d575c73182d003ec00941b04f51b3275e07de6a3bd9aab743/django-dynsettings-ritual-0.0.7beta.tar.gz"
+      }
+    }
+  ]
+}

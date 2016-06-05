@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Converts gettext .po files to javascript objects",
+    "homepage": "https://github.com/eventray/po2json",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "cb175998a9cd78cac5cff9e164a37fbd711c05f598cc9749cd7a6a5e1500d488",
+        "url": "https://files.pythonhosted.org/packages/f8/db/e7939f3bfebedda355d746978e33c3629a355bbb112cd68f204387e6338a/po2json-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "fb7e22c8fc0cc38c7b5a2fea255fd7b6db7e48961101f989aa151bc9ff136f7a",
+        "url": "https://files.pythonhosted.org/packages/82/5f/f37e7494ce9fc8c3ce1cb88ea2d2c244b6296839b405ace3a731b555929e/po2json-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "f7f39d06fe13881dccf2a74ac01a74a4822d3958a0f41ced6a33917249e29df1",
+        "url": "https://files.pythonhosted.org/packages/0a/50/5952bd36f110ff71d26b5ab94744c3090539875763201b3050e5bf5f8147/po2json-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

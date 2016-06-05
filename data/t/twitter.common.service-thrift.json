@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.5"
+  ],
+  "meta": {
+    "description": "twitter.common thrift stubs for metadata used with Twitter's service discovery libraries",
+    "homepage": "https://github.com/twitter/commons",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.3.4": {
+        "sha256": "cdddd5fbb9042bc1782b4367a5520a8291d867c7d71d3ff9fd3de2667e811143",
+        "url": "https://files.pythonhosted.org/packages/4f/c6/dd292948cca12241ec19565e0cc9590fc78e97332514183829cb8af255ec/twitter.common.service-thrift-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "266edbb2cc296f20947eea7bb455f6a763767a23be3e64d3e5e67e0993a2ca8d",
+        "url": "https://files.pythonhosted.org/packages/ad/26/c355eba2c721ae21f442f3e86d344ef70fd502a363f7cf073f747d985e54/twitter.common.service-thrift-0.3.5.tar.gz"
+      }
+    }
+  ]
+}

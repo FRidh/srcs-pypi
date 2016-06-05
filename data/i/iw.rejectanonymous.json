@@ -1,0 +1,50 @@
+{
+  "latest_version": [
+    "1.2.3"
+  ],
+  "meta": {
+    "description": "Disallow access to a Plone site and its children if user is anonymous",
+    "homepage": "https://svn.plone.org/svn/collective/iw.rejectanonymous",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "87c8017949266dac18418a7c2cc00c209371a6c9f5a0bdcceffa89fee0384c4e",
+        "url": "https://files.pythonhosted.org/packages/83/91/4e0a2f3319c2c2eb870d03d47466d72365e44456b781ca8ec0f7ac357f7d/iw.rejectanonymous-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "a6c3e53400f4ed6c86617321aa98fb8608ec8b9342c78551e3caff00081bb0f5",
+        "url": "https://files.pythonhosted.org/packages/cb/b6/a86fbb54c7a24af3c543269c18727ba4a74b14ec5406f75967d40307cf1d/iw.rejectanonymous-1.0.1.tar.gz"
+      },
+      "1.0.1dev-r145758": {
+        "sha256": "b5d0ad742b31c28ce3622280d4004a6c57e40ac82cd7ebba2aeac7dc106cb53e",
+        "url": "https://files.pythonhosted.org/packages/52/2a/62bdaff85701c487f7b201043ecc0edbd157c4f4897370ef0cb8ff0a43d9/iw.rejectanonymous-1.0.1dev-r145758.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "4e8491587d6130a26d5c00a76cca1b97778bb41afa49ebfeaf929b8668dfc32c",
+        "url": "https://files.pythonhosted.org/packages/a3/30/021a7b5081d2ad61ef217431d92ce07716992c011972b121d93a4c8f0a07/iw.rejectanonymous-1.0.2.zip"
+      },
+      "1.1": {
+        "sha256": "681e4bc877918d2edb6fd3a31864648c7e2881f2c6e039358752fea527028599",
+        "url": "https://files.pythonhosted.org/packages/44/b6/38594e65fa126ed9218b04a86a65bfd28f01a0fb5b474a77fe925f2a4d4d/iw.rejectanonymous-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "6c3ed4975db3f8ee65ccf7531d069fb51c2e42afab866b1946ae4738cee745ca",
+        "url": "https://files.pythonhosted.org/packages/76/db/babe8cc0ef5fb84dc367c5313f38be1c569a2098fce309395c91793d646e/iw.rejectanonymous-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "949c9152293d3ecba555843544f013dc89fc856fd27135429d89fe2f07b6ed5d",
+        "url": "https://files.pythonhosted.org/packages/d4/5a/7eae06203c389046a7b812fdf6bb48797e659b4d9c29acbfcf77b7c4ad5a/iw.rejectanonymous-1.2.1.zip"
+      },
+      "1.2.2": {
+        "sha256": "8f84b559bc3d52bdea725e325bab206205270a527e7dc6280048e23cdcb2c8f9",
+        "url": "https://files.pythonhosted.org/packages/42/e5/829cea6c72df9d5db9c22a0e88233726a08ec75db1648af588acd8173880/iw.rejectanonymous-1.2.2.zip"
+      },
+      "1.2.3": {
+        "sha256": "31b8f3ee6d836209e634eacde95dfd527a005f2b32e2add46183ff69a6eb891a",
+        "url": "https://files.pythonhosted.org/packages/5a/7f/7379705f498cc1a042c790dfb079ede96213713458fecb34a7d0ddb9be39/iw.rejectanonymous-1.2.3.zip"
+      }
+    }
+  ]
+}

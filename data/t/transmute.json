@@ -1,0 +1,37 @@
+{
+  "latest_version": [
+    "5.0"
+  ],
+  "meta": {
+    "description": "Automatically update Python Eggs on application startup",
+    "homepage": "https://github.com/comoyo/python-transmute"
+  },
+  "versions": [
+    {
+      "1": {
+        "sha256": "c344a558c0f5944f5d9a4e6d07da61b444d02309cdd8fab72cfe3879392a01c3",
+        "url": "https://files.pythonhosted.org/packages/11/13/731755124fa9cf0f2127829ad8273e6cad531e86cef3e64eac1160b197f9/transmute-1.tar.gz"
+      },
+      "2": {
+        "sha256": "b80b92dc7cb7c636fdb3fa28ae75735a598ca82465bf0635c3ff0c0ebd16dd51",
+        "url": "https://files.pythonhosted.org/packages/3c/85/e10b05352d0923370217fb599b2d3ec9cebce9529be3eea2566221714970/transmute-2.tar.gz"
+      },
+      "3": {
+        "sha256": "41ff24a7064910ae37405e316d2c362bb7b88a42cefebc2c5986d17d067e290b",
+        "url": "https://files.pythonhosted.org/packages/03/27/a467bbca02051dec8dbb0c6c31fe51a11760f6b9cfa528d2d516e34f5083/transmute-3.tar.gz"
+      },
+      "3.1": {
+        "sha256": "67df071dbe1aa8912cc009832399c60c7ba0c1463b634c9579a185f67c98a103",
+        "url": "https://files.pythonhosted.org/packages/cf/e3/9ed8e57a05940cf183696f67387e66ea88c870294e0559a7465a4b06cc4d/transmute-3.1.tar.gz"
+      },
+      "4": {
+        "sha256": "8d37c8b015d788ebe941a3e58ffbe17c2f520c13cce14d16afc798fd4f18a8fd",
+        "url": "https://files.pythonhosted.org/packages/96/f7/7413763a2fba882eb69e74db33120485fb80e32e8fe840f27e2e5ea7e89e/transmute-4.tar.gz"
+      },
+      "5.0": {
+        "sha256": "aa6be7418705807deb88da293ab7d9524c30edd4f5d339b6adaa2ef62a3e20c4",
+        "url": "https://files.pythonhosted.org/packages/ed/4c/512163d96411f67d90c52f102f53fc261c37be1718ffed5f013c54b8bda2/transmute-5.0.tar.gz"
+      }
+    }
+  ]
+}

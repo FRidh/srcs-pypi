@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Monitor system resource usage",
+    "homepage": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase",
+    "license": "MPL 2.0"
+  },
+  "versions": [
+    {
+      "0.0": {
+        "sha256": "dff799700bbdc23461c7b3ff1dda3f943da959f4bf056c6aba3380a813b3b4ba",
+        "url": "https://files.pythonhosted.org/packages/0c/81/4ce387146a8eee162172b3817c46356f8445187baec21efcbbe45ce01e8b/mozsystemmonitor-0.0.tar.gz"
+      },
+      "0.3": {
+        "sha256": "da2471fe6a14ff59fa0cc42d93abc3a9a7ae4636af9fcd229943ca260112b52e",
+        "url": "https://files.pythonhosted.org/packages/34/2d/c3ad362b986914a3b6cc8fc91defe8f23f213319b444e14a6e76a71a45f6/mozsystemmonitor-0.3.zip"
+      }
+    }
+  ]
+}

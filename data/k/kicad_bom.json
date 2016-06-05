@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "KiCad Python module for generating bill of materials in multiple formats",
+    "homepage": "https://github.com/janelia-pypi/kicad_bom",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "f2d9a7cad55fbe4e69355de755ca3ffbf41616efc190b9107e310ed65cf5f2a3",
+        "url": "https://files.pythonhosted.org/packages/f1/3b/8bb95ea101bd7abdc4aec5cd45729deec7b856e9c0ab436519dd0ce8ea5c/kicad_bom-0.1.tar.gz"
+      },
+      "1.1": {
+        "sha256": "6816030850de8d7fc03e153ac4c63de424497f2cac11a357100a66e4201ffe4f",
+        "url": "https://files.pythonhosted.org/packages/23/d5/62daea087b78421faa9d49df12c36ea65014b71b05a2ce24d28e9536b22f/kicad_bom-1.1.tar.gz"
+      }
+    }
+  ]
+}

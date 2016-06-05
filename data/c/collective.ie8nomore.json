@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Plone viewlet to prompt users to upgrade to a better web browser",
+    "homepage": "https://github.com/collective/collective.ie8nomore",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.4": {
+        "sha256": "2ecb52b3a3bcd25d9a6145d876bdb2cc7a4f83d88b58a4f0f6c75df31cba4229",
+        "url": "https://files.pythonhosted.org/packages/c4/8a/0ab69d9166f0329acfea89ce8cf63e41479865e06c942a9c34cc56bfbe8a/collective.ie8nomore-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "187c8e6fa787435dfdfcc43901015d010c071199fa28a417c1955d005aaa73be",
+        "url": "https://files.pythonhosted.org/packages/ca/46/1cfce933af68ac78bd3e7b2bac6a398a2a67f28cb3e2c1f4ed7e5ef5f901/collective.ie8nomore-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "316b16d1863f19b75632fbd3141923f9788c85d67e8f50219eb8ac9ec9518108",
+        "url": "https://files.pythonhosted.org/packages/8e/72/453e0ccaa7b1374afff361ddd0d92a051eebfcb4f400054b524de0f59f4b/collective.ie8nomore-0.6.tar.gz"
+      }
+    }
+  ]
+}

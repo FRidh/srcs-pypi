@@ -1,0 +1,86 @@
+{
+  "latest_version": [
+    "0.12.1"
+  ],
+  "meta": {
+    "description": "FFI bindings to libsecp256k1",
+    "homepage": "https://github.com/ludbb/secp256k1-py",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "3cc1b5795d9d37c6f93c18917517a73fc77ccfc39432cc557305a385da836145",
+        "url": "https://files.pythonhosted.org/packages/c3/13/4ade54b0d26b47fa39b5aec418b308e4fdfeeb02e48ca948d9cc88ece18c/secp256k1-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "6512e7cbf97a979aeab2218d53de38ce54bfc5a8b3266cc6a4741cddb075e359",
+        "url": "https://files.pythonhosted.org/packages/54/1c/b481eb788b4a9be0b38bfe34b9faadc2ab81b6a6cd7fa7c8b28237afd407/secp256k1-0.1.2.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "693e51da7c6cf94357156b07b3f71cc3a9fc2cb8adef4e3a380af9db3429dace",
+        "url": "https://files.pythonhosted.org/packages/67/20/773fe4c4c1f8696a1798c754bdee07402725e172a6c6e235bfde7454c07f/secp256k1-0.1.5.tar.gz"
+      },
+      "0.10.0": {
+        "sha256": "16399332f095b2336f5de7e378c4213fff61e40b570ae563914307e01d232283",
+        "url": "https://files.pythonhosted.org/packages/b9/51/e6f8231b92b6eeaf0e73697089232af31098ed4ae651e33948f63365c2e1/secp256k1-0.10.0.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "25492b6c9cdf0df5818a047a09f4a34abe1d04cc559efc1a6d87e529c9519c91",
+        "url": "https://files.pythonhosted.org/packages/ac/43/b7412740835674c406be622eb6e1703bc0a7bcf782aec022c8091c93e3fb/secp256k1-0.11.0.tar.gz"
+      },
+      "0.11.1": {
+        "sha256": "6270fd40acc271d4753f37ffe83d64562e4b39f1a4cd8fa6617ee03ec3d24bc5",
+        "url": "https://files.pythonhosted.org/packages/3a/11/e7540a3c43a8df39b8cdd32d96f14a44cc000164c75db332a61b260a4cf0/secp256k1-0.11.1.tar.gz"
+      },
+      "0.12.0": {
+        "sha256": "868a477254913e25cf75eced5cd42799aca4c1d9aac73560727d24dc4cdc810a",
+        "url": "https://files.pythonhosted.org/packages/53/e7/2c4a926c1caef58432bf6bc8bee4c15f81f243492b07d97e5db10c259600/secp256k1-0.12.0.tar.gz"
+      },
+      "0.12.1": {
+        "sha256": "b4733e23fd1b4ac3ec9088e7d98c5e8fe52891565923cfa4f88b54dcffee327f",
+        "url": "https://files.pythonhosted.org/packages/ac/b6/04913a10c7f38ee665f5c439129cb1ae918b183c528c8d67cc5b4b0ba10e/secp256k1-0.12.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "9a887749a851cf1349aa22dbae8bb2b98d023183c75cd3e540c9f7c5a122146b",
+        "url": "https://files.pythonhosted.org/packages/5c/78/fbc5489e1b6e1eda40458cfbadc32e50c9e1784ce6596ca738458b5b9432/secp256k1-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "c2fd719386676098a42c91bfa5c661b710c0ab2d57ec594fbc68f1ef9dd5a74c",
+        "url": "https://files.pythonhosted.org/packages/fe/d3/dd4e52b0b8b44a83d2bdddb5b67245d3802f7f4bee8a4a476c8951aaef3b/secp256k1-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "9ef9c06ca951cab4cfd5bf6a88bfae2be7bde965fceb12718f325c149e0598c7",
+        "url": "https://files.pythonhosted.org/packages/2b/0f/10fa4f8a79cd643c5fbb9778a92a64ec2caa6812610504dcf4e761337591/secp256k1-0.3.1.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "5658112a4f254027639b6497a11157e5dd81b920e5aa1bbd6632bd36a537f44e",
+        "url": "https://files.pythonhosted.org/packages/36/4f/94c68aa33d4e70267880d114b9315676a38c276f4ed165ac956f54cf5fd5/secp256k1-0.5.1.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "b6f3b2e150c30d52721d2509c9196fdbce23f7416541998be5c95bfba155b464",
+        "url": "https://files.pythonhosted.org/packages/8f/e3/d518af6cb7a6254fb2df19be0692f02427433827d6b77ba5e9569971256d/secp256k1-0.7.0.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "0638fd96e46d73f112b33e7748810377a1fc1d05665bf2634d811c2ecb2e6229",
+        "url": "https://files.pythonhosted.org/packages/ba/38/f40c73e3dc470f6c271f04b244d2234ba77c6e3498f4dbb9b42c2239032e/secp256k1-0.7.2.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "3972e5ba3ff54f04bf2bdafdbc305369eea5a6423c4cb79ce27a8650d2d842a2",
+        "url": "https://files.pythonhosted.org/packages/a3/ca/3cba4a6ae45d4337c1758dd68a76f0e858c4b09057a019ce71e995d34351/secp256k1-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "ad0a188fd5862c8c6d2b54dd0a7398a11ad6db112cfb65b4c1339084671271d1",
+        "url": "https://files.pythonhosted.org/packages/89/a5/23e9fcb0921c120a06cf9992237936a382afa6f6e79f9336ae9a34de9cc0/secp256k1-0.8.2.tar.gz"
+      },
+      "0.8.5": {
+        "sha256": "9c5839a2fd550fa0813b1bb972bdf0776996e8dffb5458a4920a1e37597b3a53",
+        "url": "https://files.pythonhosted.org/packages/bb/52/f0c86f5172befde11ce3c0de2c7ea8c53d4188b8dca9294a98d94bae757d/secp256k1-0.8.5.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "d53b6d27bea5d48f60b7bdf06a634424a41813901c334958c46107c381923e3e",
+        "url": "https://files.pythonhosted.org/packages/d8/e7/49c18867b1886db481003c6a9984871898bbcdc9dcc96fd11ce94f77c34f/secp256k1-0.9.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Decorators for WSGI without start_response and write",
+    "homepage": "http://abstracthack.wordpress.com/wsgistraw",
+    "license": "GNU LGPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "4804a5b70c318bffbd47397dea70b55ddf9f6110e3dc4af405b44d8c7a61bd58",
+        "url": "https://files.pythonhosted.org/packages/44/3f/7cca931c1fdb1723fef1bc1ac7ecd2581750187d6a9332ed4282baa9a918/wsgistraw-0.1.zip"
+      },
+      "0.1.1": {
+        "sha256": "3301d6e5b5618d346ef75b01df39de6db97615a9e4b55f6d87be6be1169bedec",
+        "url": "https://files.pythonhosted.org/packages/29/46/e52a46003d6ccacd9d11e59ec6ac1a76b86e390ca0555d002b0701ed4387/wsgistraw-0.1.1.zip"
+      },
+      "0.1.2": {
+        "sha256": "fb06c32aa458939f8a3dcda6482f6d3abde7b2dee63a862e6c8ff978daf7260a",
+        "url": "https://files.pythonhosted.org/packages/a8/26/7bf4c62384aacedbd1ace3d59cb2e8b88aa01b42f138c599495068a68224/wsgistraw-0.1.2.zip"
+      }
+    }
+  ]
+}

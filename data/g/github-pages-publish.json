@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "A script that commits files from a directory to the gh-pages branch of the current Git repository",
+    "homepage": "https://github.com/rafaelmartins/github-pages-publish",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "97f381a3b9d08db533b857cb9d39b0fa8bae8bcb8df23a2a96f6adeb8ad71700",
+        "url": "https://files.pythonhosted.org/packages/7b/45/8755fa3c299b7113c68e16700b8d9f9e23949a067342ec58091c94b5cb6a/github-pages-publish-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "2df1dfcd31f0ab3b24704f88d7329bd908464f22590238c95fb41d50a658263e",
+        "url": "https://files.pythonhosted.org/packages/35/d1/755298dc84dbbcd6826a3827e6a7847ca2ea571c0377b310385bdef662c5/github-pages-publish-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "83cf09861e064704cc3f2cd080ff0512f4df91e9b4890927741918d2e06e7be6",
+        "url": "https://files.pythonhosted.org/packages/03/5c/d8ea2ed8464c2e90efa6de7c2e170ed3ee4f5ac2a7f69537fbda759975c4/github-pages-publish-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

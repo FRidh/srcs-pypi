@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0b3"
+  ],
+  "meta": {
+    "description": "Auditing for Django applications",
+    "homepage": "https://launchpad.net/django-audit/",
+    "license": "BSD (http://dev.2degreesnetwork.com/p/2degrees-license.html)"
+  },
+  "versions": [
+    {
+      "1.0b1": {
+        "sha256": "980dec025d5f5e210277e11bfb422d0239ebdc5cfb80674cac11730bee544f09",
+        "url": "https://files.pythonhosted.org/packages/8c/48/c0efaee037cd7b09f661347eccf3e701c30cde31184db0fc9cd1db616cee/django-audit-1.0b1.tar.gz"
+      },
+      "1.0b2": {
+        "sha256": "fba978897618d28f390754281e1f9a5ad6498a06c02ec027c3cb7fef80b67973",
+        "url": "https://files.pythonhosted.org/packages/86/64/10d5ce18bcebf7a14dc0a983b23a7dd7faa7813388abed6a5e4c2d6f4ffb/django-audit-1.0b2.tar.gz"
+      },
+      "1.0b3": {
+        "sha256": "e8e4c73352c82b42438cd451b377dc0476125ace1a5054ad4bea638a864e245d",
+        "url": "https://files.pythonhosted.org/packages/ba/ab/b4eb7ecb56d914e7f08b046de6710cc1495382e1288e365a86da72444043/django-audit-1.0b3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Render matplotlib png images to a zip file",
+    "homepage": "https://github.com/mindriot101/matplotlib-pngrenderer",
+    "license": "The MIT License (MIT)\n\nCopyright (c) 2013 Simon Walker\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "6353d9a95c9e1a447b99e25e5153c7aa57837552a5051db2b408eb1d315dd41f",
+        "url": "https://files.pythonhosted.org/packages/11/64/fa0a479598cd9b70a17d5d7335e7b073aa72d58bf535092b0c7f400e9aed/pngrenderer-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "c0460e60068d2710e4960a4d61cafabee44d40646a9721f9346dfd10124d719b",
+        "url": "https://files.pythonhosted.org/packages/01/8e/a22b51e5a49922b36849494dd30174725a7302597ff497fc9cf011cffdf8/pngrenderer-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "947282f2beec781764ba5de064874e526c67e08f8deec795ecee0245d177c738",
+        "url": "https://files.pythonhosted.org/packages/8a/0f/ae8d075d66f59669a29c9cae1e13f776d925b12d74b1297f48f080821a02/pngrenderer-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

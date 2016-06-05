@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Lightweight coordinate-only trajectory reader based on code from GROMACS, MDAnalysis, VMD",
+    "homepage": "https://github.com/arose/simpletraj",
+    "license": "GPL2"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "337f75da29ab5f030dd77ebd8a8d1bc182be86e33672435ef7e30542be99586c",
+        "url": "https://files.pythonhosted.org/packages/4c/d6/4bb34471570a8238d7a6689ee3e987a674ce33645d992a5d01931f5005b7/simpletraj-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "1646aa2ca83ac0b45847133dec8f4e929e9a883c912420e3acd73020da526d67",
+        "url": "https://files.pythonhosted.org/packages/fa/1d/29c83f0637c04b40681e9088c06edde961ce9a28c400e45438fda4132fa4/simpletraj-0.3.tar.gz"
+      }
+    }
+  ]
+}

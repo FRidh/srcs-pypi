@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "WSGI middleware that does Rails style PUT and DELETE request emulation",
+    "homepage": "http://github.com/abiczo/emulaterest",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "7c5483eca9ec610c580c6b3f4a34ed014c3244ce0e6d75ffd4da63a94594064c",
+        "url": "https://files.pythonhosted.org/packages/9d/38/b9dbac232355df0e18c9bff0cca30c61c439fb64108125d58bdd29b9f959/emulaterest-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "fc7c7dbb596f4fe6925ed78f3fac20303d1fda48c6ea58aab22311ff081fbd4f",
+        "url": "https://files.pythonhosted.org/packages/5e/da/caf9bebbdb431c2d53bb2d15ad26429f7c75d79f50b83f6eb3c1a49aba77/emulaterest-0.2.tar.gz"
+      }
+    }
+  ]
+}

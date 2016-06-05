@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "A command line utility for Weblate, translation tool with tight version control integration",
+    "homepage": "https://weblate.org/",
+    "license": "GPLv3+"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "cd1195416271097a3dc5f07b29a3adf03ff0cd4ec8f67914a56db5d28aa72dd4",
+        "url": "https://files.pythonhosted.org/packages/83/4b/b54c6d2d006e8625390d1be68f810a91c6e061dd008732c3c9b57103d6e0/wlc-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "7f98ce4bb20087cce4bd9833494302d34cf0d3dff870679a0b01265eb0886558",
+        "url": "https://files.pythonhosted.org/packages/ee/c9/0c39c05874de80b859d34879810a490f27f8a8b1335177b606c31fdd39a5/wlc-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "524f782da1bdc3a27edfd4292d70b53644696886ffaf6325a9c2a0c521177241",
+        "url": "https://files.pythonhosted.org/packages/ac/8e/75da3f58d4d535293453773c42724de4ee2c49825098fbd8434ee04d2ba4/wlc-0.3.tar.gz"
+      }
+    }
+  ]
+}

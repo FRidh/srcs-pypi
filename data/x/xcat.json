@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.7.1"
+  ],
+  "meta": {
+    "description": "A command line tool to automate the exploitation of blind XPath injection vulnerabilities",
+    "homepage": "https://github.com/orf/xcat",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.6.1": {
+        "sha256": "feeb8878a47d6d121fc1171b64e266db8475d747a178cf0e1dc8a848972ec29e",
+        "url": "https://files.pythonhosted.org/packages/e2/68/2e137363c8577220ce6ce3b7f4d2e95d75b7e83f9e0c928b06474bdc8bac/xcat-0.6.1.zip"
+      },
+      "0.7": {
+        "sha256": "e3c28f83c34111ff8ab2208e26ed590fbfa3b780d786ae5271c390a318724a05",
+        "url": "https://files.pythonhosted.org/packages/8d/3c/f4beecf7087b05a8690ca89d6a053887ac364192eaa17f368a92691ac342/xcat-0.7.zip"
+      },
+      "0.7.1": {
+        "sha256": "7c55be7ef20a91c69715ec64ce288ac9c893c2a3107e86dd405fdeaa690f6dca",
+        "url": "https://files.pythonhosted.org/packages/b1/1d/c69a76be15e9075baef6915502e8921dd971ea6b659d9bee60744bf75f13/xcat-0.7.1.zip"
+      }
+    }
+  ]
+}

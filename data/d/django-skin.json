@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Add template skins to django",
+    "homepage": "https://github.com/dwatkinsweb/django-skin",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "d0c32c3c620e99e65e7d1ab57b117621db7eb382628fe84d6c352c0d5ac1c2a6",
+        "url": "https://files.pythonhosted.org/packages/68/40/db6b69958aa2b231e70f5b924bf74111b477fba7fb9bdedc80a6171702fb/django-skin-0.1.1.zip"
+      },
+      "0.1.2": {
+        "sha256": "7e94c2108d467a14705a96c7f17599ed9e333e84055826f428a984441a98939d",
+        "url": "https://files.pythonhosted.org/packages/57/7d/53625b37f76e6ef82c68e11cb5c001094867660dcc7f116c813033372fe0/django-skin-0.1.2.zip"
+      },
+      "0.1.dev0": {
+        "sha256": "68d29e175ebb4cf5a25055cd0ae5ca04ef190d92170bd01ebe4754eacc950c0d",
+        "url": "https://files.pythonhosted.org/packages/66/ab/4cc8b8d89cb5f8f16339051c42d26694d412ff6009cb2612cf9445e570f1/django-skin-0.1.dev.post2.zip"
+      }
+    }
+  ]
+}

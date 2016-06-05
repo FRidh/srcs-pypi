@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.8"
+  ],
+  "meta": {
+    "description": "Easy to install any dependencies in a virtualenviroment(without making symlinks by hand and etc...)",
+    "homepage": "https://github.com/arruda/venv-dependencies",
+    "license": "LICENSE"
+  },
+  "versions": [
+    {
+      "0.0.7": {
+        "sha256": "faa94fe9941eee2a35440b96325fc68f7fd8d9692a254735bd41cb1f0c31f805",
+        "url": "https://files.pythonhosted.org/packages/4a/a1/2b0be497d5bebaa09d100b866fd613a8b5ed95658fbc9a6a0d7d944ec071/venv_dependencies-0.0.7.tar.gz"
+      },
+      "0.0.8": {
+        "sha256": "7349ed8c715a67ea158780b5dd8921ecd8e9d8e107949e5945e12ec12c1d8478",
+        "url": "https://files.pythonhosted.org/packages/1f/8a/e5378dd4afd6ac0b77d032df71f5a6870474b334495483ac75cb9fc29804/venv_dependencies-0.0.8.tar.gz"
+      }
+    }
+  ]
+}

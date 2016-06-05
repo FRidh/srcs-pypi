@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.0.post1"
+  ],
+  "meta": {
+    "description": "A fuse implementation of an encrypted view on a given directory",
+    "homepage": "https://github.com/seiferma/encviewfuse",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "b63f62a3b783618303f27420317c1e4ef997561406e528a083afd9e9ffb25a6e",
+        "url": "https://files.pythonhosted.org/packages/f6/77/fb15310117c3ef072d42d35721a5f375225789781d99784179c14dae12f5/encviewfuse-0.3.0.tar.gz"
+      },
+      "0.3.0.post1": {
+        "sha256": "989379bb078a5e2d02216492d881469ffc5eaadd1cd3739830c309b1b19b8f74",
+        "url": "https://files.pythonhosted.org/packages/a0/ae/0c7c84437bfcf8d70390c8cd076870d10be19aa4f174af60fedbd4dde83f/encviewfuse-0.3.0.post1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Turtl is an HTTP proxy whose purpose is to throttle connections to\nspecific hostnames to avoid breaking terms of usage of those API\nproviders (like del.icio.us, technorati and so on)",
+    "homepage": "http://adroll.com/labs",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.0.2": {
+        "sha256": "76998031e25b2d0df977616ab4b2cc7ea1b039aae779cf40233282b0a7ca0200",
+        "url": "https://files.pythonhosted.org/packages/ae/fd/d9dbdead4bb430dc06971bd36a00de9e01ac81c106350eda3f657d216726/turtl-0.0.2.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "5ca278f3483e10edc6eca8f199f5e80efa381ff544da538d7e1fcde3c59c8e62",
+        "url": "https://files.pythonhosted.org/packages/68/24/92083fc4c150b2016ff7d857862c9ae6a73569204d153c91454c7cb33f45/turtl-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "033d7b366971d1eedbda43e43e779e4ceef28a030c2c6779c17c92ccecba2ddc",
+        "url": "https://files.pythonhosted.org/packages/f1/f5/0305214858588abaac504802dd372ce0a5739f94c183f4fe40309138b6a6/turtl-0.0.5.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "2ed2404c0d4dda714a2e699a62d54a63bae16f51dca3e32c6e56621f05ac584b",
+        "url": "https://files.pythonhosted.org/packages/e8/f2/b5010e5278e577a66bc8092d0b51727f64ea74bf03299d588d7071e919bb/turtl-0.0.6.tar.gz"
+      },
+      "0.1": {
+        "sha256": "6e87cf6ae5d7e9b2ebacfff98f186ca809ede2f7e8b99956bfc1cfec6209b9c3",
+        "url": "https://files.pythonhosted.org/packages/a7/55/7e0afc69cab6e9e49bf2136719eb3701a66765ecc95690e50aff83ca88eb/turtl-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "21bfb479ecdcb47d1a9808cf12d1ba367d3180aa02c209f8403536d49d4bd237",
+        "url": "https://files.pythonhosted.org/packages/3c/c1/9e24420d1541340d53217156b0b13d1690c135848e1fa6a61f63107a32c6/turtl-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

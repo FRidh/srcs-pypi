@@ -1,0 +1,170 @@
+{
+  "latest_version": [
+    "4.0.1"
+  ],
+  "meta": {
+    "description": "Tryton module to add planning capabilities on projects",
+    "homepage": "http://www.tryton.org/",
+    "license": "GPL-3"
+  },
+  "versions": [
+    {
+      "1.6.1": {
+        "sha256": "be408a7c151d67879113aaa3a0d41eca41bb30d0b80771d5c44e1b705f601ce2",
+        "url": "https://files.pythonhosted.org/packages/93/79/23a424388fa21f962a015f57b01010f0e5d0f3e48d4d9be08e9531b716bc/trytond_project_plan-1.6.1.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "e62a69cc49b4216fd8312bcb5f72dece70a77e90bd96b396772c472bb542e470",
+        "url": "https://files.pythonhosted.org/packages/a9/20/8e35ef61e3c96057dd0f9a791d974690558d888d8cd3a8f4e4e532329055/trytond_project_plan-1.6.2.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "d69659ec135b54755b1f201866f701cf5d1c54135a85cbccc64611deff2db2dd",
+        "url": "https://files.pythonhosted.org/packages/d5/c1/1786acda8e5c244652d40c9546a1d992933cc18d1efc6cd525f6416b42dd/trytond_project_plan-1.8.1.tar.gz"
+      },
+      "1.8.2": {
+        "sha256": "896d5aeb719d29f31776c4b14d6d886e18f7a9fdbcdd47b51b9782a8e682a2a6",
+        "url": "https://files.pythonhosted.org/packages/7a/a0/7d225dab5ebc0e23a65291e2c8bcf81a92420dfc517362e6a9ca15d116e3/trytond_project_plan-1.8.2.tar.gz"
+      },
+      "1.8.3": {
+        "sha256": "8bbd7ebf43d2ed42601286609a0f587d3c2cd4b2367b07bf5dd927189e4eb33b",
+        "url": "https://files.pythonhosted.org/packages/0a/ad/d96ce5c47a48ad375009df4803db569e4b6d5375d0b8235b090c1f823c80/trytond_project_plan-1.8.3.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "4fe05292088b70d2c02c7e4468198ea90e47d26670783753c1b512514d851ffe",
+        "url": "https://files.pythonhosted.org/packages/a0/8d/0a682ce1add2574b024909a46b28e06b5e1262c0b4b9b1db1c3fedcbf933/trytond_project_plan-2.0.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "378d61b620876b742079ecb0e525b8f55479b1d28ecd93049bc4771860fe40da",
+        "url": "https://files.pythonhosted.org/packages/c4/62/104810fde35868fc666deecca4be94a2849a52840caefa481683485221d2/trytond_project_plan-2.0.1.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "3ff4d3e7809c30e3e790ee6c826bf7b54dd99af849bbcafa43f23c91bb9f6d83",
+        "url": "https://files.pythonhosted.org/packages/ac/27/1a006909308bd971c74b9fa33a0d235a3780e2a777f5397adfe8b8502a1f/trytond_project_plan-2.0.2.tar.gz"
+      },
+      "2.0.3": {
+        "sha256": "6de40dc9a36d26359ee4d6bd49b87d74a8d87c619a043a6686bbdc0683f95ace",
+        "url": "https://files.pythonhosted.org/packages/47/7a/d4d9397da32ea5717139291dda5e5e4e3236f0b5fe6d98d7b50e586a87d0/trytond_project_plan-2.0.3.tar.gz"
+      },
+      "2.2.0": {
+        "sha256": "4a525c2fee4126e74666e54ff76fbd49267eeef9ba2ca9500977563954f7bdb9",
+        "url": "https://files.pythonhosted.org/packages/f9/4c/cec7cb3fc229a4fa7686f24dbbe898dbb16631619c244b1739f2ef07da7f/trytond_project_plan-2.2.0.tar.gz"
+      },
+      "2.2.1": {
+        "sha256": "58b5d2e127f429931de000f13d4724a29e253bc5af29e0d13790b0cfe759f42d",
+        "url": "https://files.pythonhosted.org/packages/9a/b1/51283ed8b5d04dd9dcfeefe997de97eb16eef9a3bc74f92555979cf92874/trytond_project_plan-2.2.1.tar.gz"
+      },
+      "2.4.0": {
+        "sha256": "3eeb08cf45698a9c4c5be1625fcb55db4dc0de89b4d387e761d4b09c9ead8caf",
+        "url": "https://files.pythonhosted.org/packages/f7/46/449a83ffad1d6da5df1daa7d4e5318e36244fa576d70d6360acd9aca1213/trytond_project_plan-2.4.0.tar.gz"
+      },
+      "2.4.1": {
+        "sha256": "250e09fca583ebf16ea2d262b042c342e5cd5da811c37dcac77d31b072fecce0",
+        "url": "https://files.pythonhosted.org/packages/14/d8/32f84161a746d7ad465bbae542e1d230968acbc10a45c268f79bf114e28b/trytond_project_plan-2.4.1.tar.gz"
+      },
+      "2.4.2": {
+        "sha256": "29dc6cd9a5ed8fc2f3338a1fc788749e932306cbba66655a771ee8d5cee521c2",
+        "url": "https://files.pythonhosted.org/packages/d4/18/6c8a0c65ee2302f28b702da121a16779a1bc0e5b63f2dc2932d8cce9afa9/trytond_project_plan-2.4.2.tar.gz"
+      },
+      "2.4.3": {
+        "sha256": "5f749fe707e126cc3152b3aa881f600bbe74ce527405acda0bc682127a1f18b7",
+        "url": "https://files.pythonhosted.org/packages/b9/c2/426eb880395c2d077f161ad3e00733edfe569efde78f9738bc6ba248383b/trytond_project_plan-2.4.3.tar.gz"
+      },
+      "2.6.0": {
+        "sha256": "08bbe8a9bf77f5974d1a5ac1425a2b02159de33815ead9e6d310b0be0f5173a8",
+        "url": "https://files.pythonhosted.org/packages/76/1f/9c25e895e2e9b11be351d612d375932b2b24fa6cf72bb3e2781863380491/trytond_project_plan-2.6.0.tar.gz"
+      },
+      "2.6.1": {
+        "sha256": "f6a7afdf75e226144f6a7480809a6c9fc2bdd5d368baac184a6fa5d1ffbd3b55",
+        "url": "https://files.pythonhosted.org/packages/cf/4b/a371fe44caa6cfa3b51adde618fc9ada023b8aed9f31e6934d8fb8e94924/trytond_project_plan-2.6.1.tar.gz"
+      },
+      "2.6.2": {
+        "sha256": "d32d8c325b90527f4ef1da93d91b82e398ad1cbee6f3c6e17e410ff19f675733",
+        "url": "https://files.pythonhosted.org/packages/7d/c9/f31505a5bf20c102790327ca910dd65a75e932d6967ae2ca5c3356e6b07c/trytond_project_plan-2.6.2.tar.gz"
+      },
+      "2.6.3": {
+        "sha256": "4668057ba21f8372234c297b87298eab1ebd53493617ecada073dab2a08c8aa6",
+        "url": "https://files.pythonhosted.org/packages/ca/74/a363e3cf47f80b419b2e6adf29764e69b4c9582b22011a53e480c2fb5203/trytond_project_plan-2.6.3.tar.gz"
+      },
+      "2.6.4": {
+        "sha256": "a6d37f7a2e5afc134524373f844b5e0eda409c1f2dcaf4e4dc85973c94bfdfbb",
+        "url": "https://files.pythonhosted.org/packages/cb/e2/10d4342948722d7cd8850194d97d1e82cd65cad67ee7509a9823160216ad/trytond_project_plan-2.6.4.tar.gz"
+      },
+      "2.6.5": {
+        "sha256": "b16cbd04856027321fefd717a184b62039ace1a3b48515e14556a47e572a752f",
+        "url": "https://files.pythonhosted.org/packages/97/ef/5ad47952b5f5cd2bdede21c5d9ecd312fea8cc802bccc27b89e15cf2f593/trytond_project_plan-2.6.5.tar.gz"
+      },
+      "2.8.0": {
+        "sha256": "20a78bf24b27e3fb0d3fc2b982acb988e0d39ea7c68d1c441077b08d2a4f4ae2",
+        "url": "https://files.pythonhosted.org/packages/20/0b/fdd6b006d1582b947accd25fe44675a7fc5ed76a83fba32b7bc1cb155db3/trytond_project_plan-2.8.0.tar.gz"
+      },
+      "2.8.1": {
+        "sha256": "6fac93f2ed5c8167e6c2dcf790d253e45d96e065a134ef52dc8736f3d685f907",
+        "url": "https://files.pythonhosted.org/packages/49/f0/1462e7d45e96cd5ad631da4b929eac37bb59bfe5213e7baa09af0381d1a9/trytond_project_plan-2.8.1.tar.gz"
+      },
+      "2.8.2": {
+        "sha256": "3f792e2209e8f72fceb60d36a184b9de18c62f49e6b023c538c5b360fb07b244",
+        "url": "https://files.pythonhosted.org/packages/9c/72/641bc7a9bafff0c2eb4aff099c633d44cef429aeb7e88213a528b7cad5d2/trytond_project_plan-2.8.2.tar.gz"
+      },
+      "2.8.3": {
+        "sha256": "b7f3a89e06fe80ec657b943384be5ceaed098f6de7f70af3e18131ccce13a657",
+        "url": "https://files.pythonhosted.org/packages/45/da/0d648268a9158b4ba6af965b830a25ed9e35dd850f345aad4f19e77fa211/trytond_project_plan-2.8.3.tar.gz"
+      },
+      "2.8.4": {
+        "sha256": "049d5762f128964149edfe029619850d78e10afd88eebd463ef7d416ad9b283c",
+        "url": "https://files.pythonhosted.org/packages/0e/3f/90a26eeff5759f7b1355e6235317ce331e66548a92508dacaaaee5a27bc4/trytond_project_plan-2.8.4.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "911f58982ce83a7d560747ce15d40e034d4869b9d474a018d39b3bac60af6a96",
+        "url": "https://files.pythonhosted.org/packages/48/3c/260695a8e19cb48860515528a6b23a3616b832306eab5693ba9d76859e47/trytond_project_plan-3.0.0.tar.gz"
+      },
+      "3.0.1": {
+        "sha256": "ea837a59a519abbe794d570444ff64d654b8198e96bc6c6c00764018ef4caf09",
+        "url": "https://files.pythonhosted.org/packages/58/1b/823e63729d44f27ff7a8c8bb55ac7098aae253c51729484b54418ab80bb9/trytond_project_plan-3.0.1.tar.gz"
+      },
+      "3.0.2": {
+        "sha256": "edaeb2625af1ea8d71cc8e8166ad31bcc21242795e0a0d6ea3896168ce3c93c9",
+        "url": "https://files.pythonhosted.org/packages/b4/5e/9363c6435cdfd84bfc66684da6bbad28b4eb173ae16562f814e797f75821/trytond_project_plan-3.0.2.tar.gz"
+      },
+      "3.2.0": {
+        "sha256": "9e9586ea2a792d951d9c2e9b96155f2d0ef87f51ae2b6ea6f804522c422cd2ad",
+        "url": "https://files.pythonhosted.org/packages/b8/36/abfe615d87c4a953f77537c695b1c54a632d67fed507b007a356155a15c4/trytond_project_plan-3.2.0.tar.gz"
+      },
+      "3.2.1": {
+        "sha256": "8ee234f0419a945b1b2bd44b08117a8b0fd1df38283536336adce0109ce017ff",
+        "url": "https://files.pythonhosted.org/packages/a9/e6/b04baea96d690425a13300598cdaa7f81aed137d03084aac9c64a2bb9114/trytond_project_plan-3.2.1.tar.gz"
+      },
+      "3.2.2": {
+        "sha256": "a2c92b13fc96b945ec0d5b3f492966d51f1e30fb4419c6dd6c493fa78163f06c",
+        "url": "https://files.pythonhosted.org/packages/08/24/1a1134b5947d91983aed36021083a3ca573c6f02f4fa460b22cd1cd9b102/trytond_project_plan-3.2.2.tar.gz"
+      },
+      "3.4.0": {
+        "sha256": "a8756d7baed42f2f71e8252fff77774e3c6385b5f0646e0f0814a4ce0b3d51c2",
+        "url": "https://files.pythonhosted.org/packages/44/8b/d6495e7317f07bd9813a39d04a2d40c894283d903c5e3f6f56eff1f9a6f9/trytond_project_plan-3.4.0.tar.gz"
+      },
+      "3.4.1": {
+        "sha256": "9ee307dcd80185fb68720618b87a12cb2f757ea2eff24952e00bce55920ed9d8",
+        "url": "https://files.pythonhosted.org/packages/5e/26/57377f5fb770bc75cf8e57b26d6e1148d1d6afd31dbcc25ceb22eeb04af5/trytond_project_plan-3.4.1.tar.gz"
+      },
+      "3.6.0": {
+        "sha256": "8f9410aee77c7340940e6f25f6da960f84cdf99a43cf5600a814316d5bc26361",
+        "url": "https://files.pythonhosted.org/packages/26/ae/bc260b4482130abd9574fd228ed48419a3b7c22d90556137d7d6d7ecd0ed/trytond_project_plan-3.6.0.tar.gz"
+      },
+      "3.6.1": {
+        "sha256": "b628117f82359a03bdd038d703851f8d1362e0da9e68c8945d99c68d257bd2ce",
+        "url": "https://files.pythonhosted.org/packages/ac/6a/bb939105c6c34d8ba0600d1b7adf36ad00203d5b87357c4f684306914536/trytond_project_plan-3.6.1.tar.gz"
+      },
+      "3.8.0": {
+        "sha256": "27cce3cd8d970ad10ca35e17180dfdd160466f91aacc05e33c10d49d0235df2b",
+        "url": "https://files.pythonhosted.org/packages/c6/5c/8357b980a60e0dfe944f13c7a663eb7011594a6441b5f54890d337b66a02/trytond_project_plan-3.8.0.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "50a78c23d6131c04f0bc0192e09ad2953fd4c3adc72c81a9801dbcb03e6d5d91",
+        "url": "https://files.pythonhosted.org/packages/a5/e0/c73facf6d66cff347f5cded8ff324138bc6378f36d375e3f494f791fa29b/trytond_project_plan-4.0.0.tar.gz"
+      },
+      "4.0.1": {
+        "sha256": "300ebec98049510b553296c7a741735ca6a894e3f14743b6d4e42b0eae2f1e3c",
+        "url": "https://files.pythonhosted.org/packages/c1/cd/390c6711f9b89a3c970743324c78633e79163b591cd85da61732da396b21/trytond_project_plan-4.0.1.tar.gz"
+      }
+    }
+  ]
+}

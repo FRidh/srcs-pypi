@@ -1,0 +1,213 @@
+{
+  "latest_version": [
+    "1.4a1.dev312"
+  ],
+  "meta": {
+    "description": "Setup and manage a Jenkins continuous integration cluster in EC2",
+    "homepage": "https://github.com/BD2KGenomics/cgcloud"
+  },
+  "versions": [
+    {
+      "1.0.dev8": {
+        "sha256": "b53ad8e7fef131ca26bfe55c5001aa89b8bc6a0bbda479b0d41d92fa85b08e53",
+        "url": "https://files.pythonhosted.org/packages/b9/9f/a8e04574533b3f132cb2ff211a940c40d3009f69e4747d49ab34a550ccb5/cgcloud-jenkins-1.0.dev8.tar.gz"
+      },
+      "1.1a1.dev129": {
+        "sha256": "43060f43f2f711ff627c829f14c3ffc66451511ba2eec68f6a564e4065b8b72c",
+        "url": "https://files.pythonhosted.org/packages/61/df/5a203fa4e5e2ad4c13da8d1c4e173130b12dbcf60a88c31ee3c152a7aa2a/cgcloud-jenkins-1.1a1.dev129.tar.gz"
+      },
+      "1.1a1.dev130": {
+        "sha256": "0ce3826a5837f7c1ca1887bddb67576a2a7da4dc115388068c90a7c08328ee83",
+        "url": "https://files.pythonhosted.org/packages/d4/04/93d496bd042d3bbf12016db21f26055a4b72b40d64b00e2b5eef03451003/cgcloud-jenkins-1.1a1.dev130.tar.gz"
+      },
+      "1.1a1.dev131": {
+        "sha256": "88207ca4bbd6a25f3f7ed8d77c8f14f0c16c8245b4152ae96019bf7af6a58f22",
+        "url": "https://files.pythonhosted.org/packages/57/43/3204bd702b6b4cb5a73cd18a97b06ba458acc58a5e036e44ce915d55beb2/cgcloud-jenkins-1.1a1.dev131.tar.gz"
+      },
+      "1.1a1.dev132": {
+        "sha256": "1366e23e7dc7ee489e98e31ba9ec759b711aa9e72d8375b47af6cf29609822e5",
+        "url": "https://files.pythonhosted.org/packages/3f/22/8181fd6575cf945aec3900e1726dac48d3c199972fe66d441c01fe633264/cgcloud-jenkins-1.1a1.dev132.tar.gz"
+      },
+      "1.1a1.dev137": {
+        "sha256": "90c3ed5362e64cf21eeccb4d1c0378592c2ed2178d27f6636aaa6cbceb5f0e61",
+        "url": "https://files.pythonhosted.org/packages/3a/ae/6ad3aa29ce1dd2ab8b6c9d9a43a57ed22afd6b0501dff7d929987efe89f1/cgcloud-jenkins-1.1a1.dev137.tar.gz"
+      },
+      "1.1a1.dev139": {
+        "sha256": "7ae55b3c80d4b116759d18d07bc1a842c326f67459e01b2261d7cd9612a14c5d",
+        "url": "https://files.pythonhosted.org/packages/74/42/cd6faec9bf8da75016eb12511f8700e9d6633c73a739fd05dc668f96a797/cgcloud-jenkins-1.1a1.dev139.tar.gz"
+      },
+      "1.1a1.dev143": {
+        "sha256": "fdf63cdb50224c019b126f0068e147b8dabd733e5bde54ba52556850c1f1336a",
+        "url": "https://files.pythonhosted.org/packages/27/2e/bf6d44a1eadbb7be451176568de9689f987b221ff255cb147a436edbc3ca/cgcloud-jenkins-1.1a1.dev143.tar.gz"
+      },
+      "1.1a1.dev144": {
+        "sha256": "8beedbc129c9b2b997dd849a12a5ff4cd488197da62a24f0a83e46ca583ad912",
+        "url": "https://files.pythonhosted.org/packages/f4/0f/5fed19b0cf35d8a5b805fb1b83f31e2004ba32dce1876d414f292e5f8a58/cgcloud-jenkins-1.1a1.dev144.tar.gz"
+      },
+      "1.1a1.dev147": {
+        "sha256": "3b855234feea6f532f6e926e61f13879e53b011ceaef16121027b8437eee17d7",
+        "url": "https://files.pythonhosted.org/packages/a2/46/89fab3d477033406a3959af774ff52bca4954eba2584760e91740da84e4f/cgcloud-jenkins-1.1a1.dev147.tar.gz"
+      },
+      "1.1a1.dev149": {
+        "sha256": "73047c850c61681fc022a2e76881361b8e9783b31d1f0d42ae72c8e62566af13",
+        "url": "https://files.pythonhosted.org/packages/27/25/935245459d74fea556e9fabb1469b7119085674fdd48173420a3b8d44059/cgcloud-jenkins-1.1a1.dev149.tar.gz"
+      },
+      "1.2": {
+        "sha256": "fb82c700e6bc23ada5704ef8142ce41e2875deffeaba5914b637e16ed1a3d094",
+        "url": "https://files.pythonhosted.org/packages/90/f5/c29d9f8df20ffd0bbec1739c1742d388a70cdd0c4063bb7c76874afc6cc9/cgcloud-jenkins-1.2.tar.gz"
+      },
+      "1.2.1a1.dev161": {
+        "sha256": "412fa007c54cd86235b0eec2cb2ed1ce03fdea0cc44b8179b1abd721990deb51",
+        "url": "https://files.pythonhosted.org/packages/88/ba/eda187aa83437e6212c0480f73c1b4ae9b09bdfc9decf38078f1219a057e/cgcloud-jenkins-1.2.1a1.dev161.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "514f2bc223835f7b2fd109cf15fdfa7d412f31558b9e247ae6221a2187d48ec4",
+        "url": "https://files.pythonhosted.org/packages/1c/f0/1005e106117595b1c0ee34164cccad4e790becaa7519882753e6702a5d58/cgcloud-jenkins-1.2.2.tar.gz"
+      },
+      "1.2.2a1.dev165": {
+        "sha256": "3b17dfb815cd9e0f71833f81af7e423a4ddb3fcbc784ce1a5c26cd67f92f6043",
+        "url": "https://files.pythonhosted.org/packages/b0/43/c22d56293ec343bdd33fb303450a62b825a80252ebef26dc51fccbb3e35c/cgcloud-jenkins-1.2.2a1.dev165.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "8d1fb38ff755a68c08ed6869d930ab0c7a3a4cc58586e6901576b19e78fba243",
+        "url": "https://files.pythonhosted.org/packages/1a/b7/6406cae88256f805d45aaba73dd49c53b301e4f5b4fca532f2518c396fa9/cgcloud-jenkins-1.2.3.tar.gz"
+      },
+      "1.2.3.dev183": {
+        "sha256": "b4086a01413f111ee8b6d9922a6727a17331a4fef4f4383f291dffc77fc68dad",
+        "url": "https://files.pythonhosted.org/packages/45/14/dc8d940ff58bee8751bb965c7494752a7fe6bf1508653b893af8475bb03b/cgcloud-jenkins-1.2.3.dev183.tar.gz"
+      },
+      "1.2a1.dev159": {
+        "sha256": "4bb21c4c3e7858d4b28cbc6e40233b73fafefa44d24eeba8cf32c3215121b949",
+        "url": "https://files.pythonhosted.org/packages/a6/cb/9ab14b8a446ac911eecd5bbac954fc37ee524834063bed2e586d8373b0da/cgcloud-jenkins-1.2a1.dev159.tar.gz"
+      },
+      "1.3": {
+        "sha256": "9760e429d4ad4dfafb024841f01f7fe2b0560a814701ca0944acb566ce54a1fa",
+        "url": "https://files.pythonhosted.org/packages/6d/9e/7671ec0f1fe969c5ad05b67a1bae92dd0ef91c5fd1b5b6cd9dda8d60a209/cgcloud-jenkins-1.3.tar.gz"
+      },
+      "1.3.1a1.dev200": {
+        "sha256": "a77aebc44389e5f6e6dcbd909f88ff9898dbb245c287b2a37ca2a66c62c42f6c",
+        "url": "https://files.pythonhosted.org/packages/af/e7/5bc6b399305b664f7ca9c26bd48fdb93b3ae6011fb32f0b04bc72a874b57/cgcloud-jenkins-1.3.1a1.dev200.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "9568eaf0ea730e682ca69221c6ed1cda977ad5e8e4423bb800d2bb8bc856e91b",
+        "url": "https://files.pythonhosted.org/packages/b2/c5/f37c4c3b2ea0d534aa1ffb2e35f51ff02548ce388c9c00199b8b8cc21d85/cgcloud-jenkins-1.3.2.tar.gz"
+      },
+      "1.3.2a1.dev201": {
+        "sha256": "1205320c14a26cc90d0e3a201c5d63322a90538cda65b155df110d0215733af3",
+        "url": "https://files.pythonhosted.org/packages/07/eb/2c1a340bf2b7236b6859d7411041b2d6b2e06da5e4cd8ac35bb508610c0d/cgcloud-jenkins-1.3.2a1.dev201.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "58d0ca897668fafee3a6c8d00637aa471091d7830dbdcf2b7390f736eda62e9d",
+        "url": "https://files.pythonhosted.org/packages/28/95/debba015bab5eee8fdf172f8c307e7782ec86f86756aa8e887c6583ef48f/cgcloud-jenkins-1.3.3.tar.gz"
+      },
+      "1.3.3a1.dev216": {
+        "sha256": "5eb74327ad041b2b698c39f3264d2bee033b235ba6bf032d2ca6e50cc53fd015",
+        "url": "https://files.pythonhosted.org/packages/bc/4f/d1b13bdadf4777f2112437dc73263afb12257fa5c3263d08cc8accfb2573/cgcloud-jenkins-1.3.3a1.dev216.tar.gz"
+      },
+      "1.3.4": {
+        "sha256": "f1b5c6ffa1af83c89328ee552b3f7b03f4b92ae2f70113d49d95493705113d90",
+        "url": "https://files.pythonhosted.org/packages/da/61/ced96e43fb98258a9d9eaa64f747956759fddeb06194620310c1adddc4bd/cgcloud-jenkins-1.3.4.tar.gz"
+      },
+      "1.3.5": {
+        "sha256": "2bf3f04501c3ee1171d33b792bbf0b677889e3328c677b62694ea92086ec1a77",
+        "url": "https://files.pythonhosted.org/packages/83/a7/8783b28f30b988e0385926c8b75092b379d9a89c2b739706cc5b9d0fdb56/cgcloud-jenkins-1.3.5.tar.gz"
+      },
+      "1.3.6": {
+        "sha256": "9b6724e2e44a38ace7b549543d92776173ece02fe14aa6c11d748fcaf805fa9b",
+        "url": "https://files.pythonhosted.org/packages/c8/e0/ff1094b0d824b9a3e6dd1b16b787353860373d9343ee8bf931b9f87c81ca/cgcloud-jenkins-1.3.6.tar.gz"
+      },
+      "1.3.6a1.dev232": {
+        "sha256": "f96a1adaa88ae0499aa151ab85631bfd3b913c30b7638eaa8a0e4b4f0f616675",
+        "url": "https://files.pythonhosted.org/packages/66/c3/a82f655788352be8b5f9ba5dd85d8bca142e3a1d2056648d20fccc75f7e2/cgcloud-jenkins-1.3.6a1.dev232.tar.gz"
+      },
+      "1.3.7": {
+        "sha256": "b078d214045eb6f8a281d9eb28aa375b21ea87e26feb3e15f669bcb9ea80a1db",
+        "url": "https://files.pythonhosted.org/packages/b1/4e/efc99b5cf6267a855906f8b0d5951e755ac6a78ed90c9dedc1edb72afb25/cgcloud-jenkins-1.3.7.tar.gz"
+      },
+      "1.3.8": {
+        "sha256": "414fc2bc04b897ae74b12db82e08859828d792be060d5b5957e4ea10dd19ab3b",
+        "url": "https://files.pythonhosted.org/packages/9f/7e/a126e52c8703f7e416b0b45c80107d86f995c14b9b822e0c05425943c504/cgcloud-jenkins-1.3.8.tar.gz"
+      },
+      "1.3a1.dev190": {
+        "sha256": "3f62ee1e17f48420af5c93cd11dc07037db73d00658b29dd9a2cac4e5eca3fe4",
+        "url": "https://files.pythonhosted.org/packages/b8/85/4b946630b93e2d56b6ad2e74ba75cb3442f7928815ae3cc248dd1ff42752/cgcloud-jenkins-1.3a1.dev190.tar.gz"
+      },
+      "1.3a1.dev191": {
+        "sha256": "f4bb2ec5b07ba91f2066afee95b1d11432e51fc1f38a654179bc8fd2c25441e4",
+        "url": "https://files.pythonhosted.org/packages/45/d7/6b24b6d6ed73a69d44c2d860d1e5ef9f025412b9f991993b6b6c206046e9/cgcloud-jenkins-1.3a1.dev191.tar.gz"
+      },
+      "1.3a1.dev192": {
+        "sha256": "8b0d9443eb3ebd97a7dd54fb12a820a0dc330e6c0ed8e27cef58a7f20fbdc805",
+        "url": "https://files.pythonhosted.org/packages/b4/cf/1d31c735a5f6716442856f21d207da26ff705433be6740aa4697935cc0f9/cgcloud-jenkins-1.3a1.dev192.tar.gz"
+      },
+      "1.3a1.dev193": {
+        "sha256": "4ff01472887c35e2c6db9745dc72fd9f6f460346e895d351a54219aea2a1566a",
+        "url": "https://files.pythonhosted.org/packages/52/7d/ca52c400494a70725050cdea7eaf0eb101db457b235a41035da0eb7d7d0c/cgcloud-jenkins-1.3a1.dev193.tar.gz"
+      },
+      "1.4a1.dev195": {
+        "sha256": "0a67ff6afb08d4ca0884522ac12aabd6a06b63f24e048584ba53f8ebeb34499e",
+        "url": "https://files.pythonhosted.org/packages/f5/51/41e42a66e42792752566bd8cbfbd90fc6374dbb796ee13e73275926b977f/cgcloud-jenkins-1.4a1.dev195.tar.gz"
+      },
+      "1.4a1.dev197": {
+        "sha256": "3e9f424a56437f489bc4259e863b010c22cdb996265df4d04d3fae24cca92d34",
+        "url": "https://files.pythonhosted.org/packages/58/63/8abc131e50a9a91e98dc664f8ecc957916126d66fe792ce577c763a0f128/cgcloud-jenkins-1.4a1.dev197.tar.gz"
+      },
+      "1.4a1.dev198": {
+        "sha256": "2f064c9fd19735dc62f604b9ce9d917812aa0202b50a3e13c756f40dc2b90d21",
+        "url": "https://files.pythonhosted.org/packages/3d/c9/3b21dae7317b24f9d60fef3cde12120881eb0f656445ece82a8f7c4746d7/cgcloud-jenkins-1.4a1.dev198.tar.gz"
+      },
+      "1.4a1.dev202": {
+        "sha256": "546a2da4349e36b057624d59d6955865ba9bc00b96008fbec5f20fda316f0454",
+        "url": "https://files.pythonhosted.org/packages/da/ea/4dfae83efab21b28b8f31a0a5a528f2bc14757dac7785490b2b71b292b0c/cgcloud-jenkins-1.4a1.dev202.tar.gz"
+      },
+      "1.4a1.dev256": {
+        "sha256": "29b22c1c812ac1b2ed488ad4e7e6397441772714706392a27c7622ddd63c67af",
+        "url": "https://files.pythonhosted.org/packages/d0/2f/470803d8754466a54c7484e6c6c38864bae1cc8fd48448df8c2a84302a38/cgcloud-jenkins-1.4a1.dev256.tar.gz"
+      },
+      "1.4a1.dev263": {
+        "sha256": "beb2d6f17398ff743964da573a3dc6957e56be5ab6ddfdeeb05c4257b79cf1c1",
+        "url": "https://files.pythonhosted.org/packages/a1/38/85703f4f17098f5c3c6d780bfda055ffbb25ad35e4188a2bd277d3e8cdc7/cgcloud-jenkins-1.4a1.dev263.tar.gz"
+      },
+      "1.4a1.dev266": {
+        "sha256": "1bed8cd4fa7753bb27456e53a1f67b7e513abd71ce004c194be21b4d6c2f212a",
+        "url": "https://files.pythonhosted.org/packages/b6/f6/02128b9f8d17ea3fbe596c67521a5660ad159efe0102970206203e92ed86/cgcloud-jenkins-1.4a1.dev266.tar.gz"
+      },
+      "1.4a1.dev269": {
+        "sha256": "d422c33360b03968b1e64cb8f000b832f26f78ad88bb2e14f655495f940bbfe7",
+        "url": "https://files.pythonhosted.org/packages/c2/80/a3d058c5589ea6dcab430b30ad6e16d101980a0d8683b6bca62683896ab3/cgcloud-jenkins-1.4a1.dev269.tar.gz"
+      },
+      "1.4a1.dev274": {
+        "sha256": "12e3f98fdca5e6dc41971b08868cb64f3f74b49acd0c239e62c3252f6c6ed192",
+        "url": "https://files.pythonhosted.org/packages/90/d5/4904d1b64459870de9c94f7525b4620eab715c2aa027582881debc57dff2/cgcloud-jenkins-1.4a1.dev274.tar.gz"
+      },
+      "1.4a1.dev275": {
+        "sha256": "9e9180dfaf1cb378f71facfa38ddb7dbed1328b62e54d2fea70874fac65569b2",
+        "url": "https://files.pythonhosted.org/packages/e4/99/fec42332f80fb8d7508fec4b24812afd0bb7a0e2a82895c0fe4669327e34/cgcloud-jenkins-1.4a1.dev275.tar.gz"
+      },
+      "1.4a1.dev276": {
+        "sha256": "2e8f85da3d6bc81a41e902838f3c967dc7ad548ec71447d1ccf5293f31f3ffed",
+        "url": "https://files.pythonhosted.org/packages/35/90/5dcf848320c08b3122e9437b024cc381d2823326af4d63d1f70886d2e745/cgcloud-jenkins-1.4a1.dev276.tar.gz"
+      },
+      "1.4a1.dev283": {
+        "sha256": "4e99909af0fbfc77827a787f5d5445dd41a67cf16bfa25bc3fd7b8cd08781217",
+        "url": "https://files.pythonhosted.org/packages/0a/06/302da9254bcef0c7cbff6f6fe10cbe987be29e39bfe2687a07472b2257ca/cgcloud-jenkins-1.4a1.dev283.tar.gz"
+      },
+      "1.4a1.dev286": {
+        "sha256": "17a788ea75c1a6a2ee4126a186947e8aafa9fa4ab0fd6d4c4823a1ffa69de99f",
+        "url": "https://files.pythonhosted.org/packages/bb/3b/76ee52ec64fb1e058995e9972c8572ef35c2743482b55592d54d82745a48/cgcloud-jenkins-1.4a1.dev286.tar.gz"
+      },
+      "1.4a1.dev288": {
+        "sha256": "284473fb00a286f1e19936d379a9ad81d7b9048cf59649e4d1d547577e9cd621",
+        "url": "https://files.pythonhosted.org/packages/46/d5/4ad5f8150e45c955ab8a0a08ee14011f74b6155c47517ddae9c054f2f6fd/cgcloud-jenkins-1.4a1.dev288.tar.gz"
+      },
+      "1.4a1.dev295": {
+        "sha256": "d180734e93c9dd69a9bb2c69d1eca4f6c9f22d1e95f60514ffbb314242e794c6",
+        "url": "https://files.pythonhosted.org/packages/02/7b/826963703bc30b581349c27e31227b39359ce9d19515a262090c3b4f8708/cgcloud-jenkins-1.4a1.dev295.tar.gz"
+      },
+      "1.4a1.dev312": {
+        "sha256": "745b3c173b4c1ee69c6389ea88af6652072674ccaeb47b2c2a95333b83b68344",
+        "url": "https://files.pythonhosted.org/packages/b5/9c/45b40f0d6a1edfe7c360def8c8b530072491654f66588acc01979d1acd46/cgcloud-jenkins-1.4a1.dev312.tar.gz"
+      }
+    }
+  ]
+}

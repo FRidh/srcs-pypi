@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.9.0"
+  ],
+  "meta": {
+    "description": "A red black tree with extended iterator\n    support",
+    "homepage": "http://bitbucket.org/bcsaller/rbtree/",
+    "license": "GPL 3"
+  },
+  "versions": [
+    {
+      "0.8.7": {
+        "sha256": "57c885db3f20a881491451fe175f1ffe349ebd191420bf1f39140917187acc80",
+        "url": "https://files.pythonhosted.org/packages/c4/01/6d950a9864ba5d5c61b8b874b983cbc5a85ea46a88899f641bf22fb505e3/rbtree-0.8.7.tar.gz"
+      },
+      "0.8.8": {
+        "sha256": "733483e5df719430dde3fbd167cb6c65aeb0a24e8e251c729b1a8cdb2ef92f07",
+        "url": "https://files.pythonhosted.org/packages/6d/f3/eeb214fb2df8c74be63ddd100db93ce938cc3841423fcde69b65b352bba7/rbtree-0.8.8.tar.gz"
+      },
+      "0.8.9": {
+        "sha256": "e37bb32b21f31bd77f6578f02e814353e4455659f6c771804003c08a8aa10c4c",
+        "url": "https://files.pythonhosted.org/packages/cf/37/d3febf0a483407a9b45e7df81abda4dbdfc0fd3a50b30d3c01e0945ed85e/rbtree-0.8.9.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "593cc7c7af9464cec99761a7b1f59000c83f6534894cf47c0e933a87b979be8d",
+        "url": "https://files.pythonhosted.org/packages/a4/08/a2185e4444bf4f5a2ab54859158969bd1f5ccaf548b6c15600a7c36978d2/rbtree-0.9.0.tar.gz"
+      }
+    }
+  ]
+}

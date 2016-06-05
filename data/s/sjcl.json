@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.1.4"
+  ],
+  "meta": {
+    "description": "Decrypt and encrypt messages compatible to the \"Stanford Javascript Crypto\nLibrary (SJCL)\" message format.\n\nThis module was created while programming and testing the encrypted\nblog platform on cryptedblog.com which is based on sjcl",
+    "homepage": "https://github.com/berlincode/sjcl",
+    "license": "LICENSE.txt"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "35b3c44e33fcd95dacd9c1224815dfe32d2c3736116acac0795505402c8dbd70",
+        "url": "https://files.pythonhosted.org/packages/bb/fc/65cc13fcc91cc7975b8b3b1c01f4c22199452398c3d3d323074aa6265cee/sjcl-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "3b0d42afc06389b5a8b119b80e8087151f2afc0c71c79dcc5d1485acf0b28b23",
+        "url": "https://files.pythonhosted.org/packages/a0/b5/4b4e30fa93ee63baa91e78a7843beece5eb07987eaab0f0c5f9926951f9e/sjcl-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "965185641d03235aa976b728f67ff2f3fd51750f1c0916475f3534e729a9106c",
+        "url": "https://files.pythonhosted.org/packages/f9/64/473a51f4408c3ba250eb0e7e51b91b22df669f7b3fc6e5696e33e7801431/sjcl-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "79ad42ae05a8c2577c303ac6196aabd60736ffc1fc9fca94ebed64401d9be930",
+        "url": "https://files.pythonhosted.org/packages/fb/48/25d9f0b5cc6bf7a1533c2561f3aa2a20217cc5494888c774bcde5a491064/sjcl-0.1.4.tar.gz"
+      }
+    }
+  ]
+}

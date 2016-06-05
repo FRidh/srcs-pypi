@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "16.3.2"
+  ],
+  "meta": {
+    "description": "CoreCluster node configuration and management package",
+    "homepage": "http://cloudover.org/corecluster/"
+  },
+  "versions": [
+    {
+      "16.1.4": {
+        "sha256": "a33802d1faff33be128341e14acefca90a9a846d1e10f6517209bb571662bfc3",
+        "url": "https://files.pythonhosted.org/packages/81/90/d96f331b9aa9de4f91286446dbbacdf9106154c5d585fffdb0ae888f969a/corenode-16.1.4.tar.gz"
+      },
+      "16.2.3": {
+        "sha256": "1919fefadcb3c3a4e747c95a161d6b013a64d32cca465b94f596269f86ecd25d",
+        "url": "https://files.pythonhosted.org/packages/7f/5c/a038e45fd9c6abdcd1db186ced04e96265fc0d936551e174d75e6a421c82/corenode-16.2.3.tar.gz"
+      },
+      "16.2.4": {
+        "sha256": "cfee2b1367f7c64922c5e025c37da95f4e5fd8295aa446434c350304b7cd43c2",
+        "url": "https://files.pythonhosted.org/packages/74/ce/8617e79a7f6a49d941ffb2322aa8f96a8c1f0a4f965b7e5d790f62ff0d78/corenode-16.2.4.tar.gz"
+      },
+      "16.3.2": {
+        "sha256": "0fc1652dca42ac560fbd885b587b10a5bac8dd8594718e0bb2da12dec5256433",
+        "url": "https://files.pythonhosted.org/packages/23/22/6ff1cb76a2bc222cce83cba6fcc953438bed28bed9fc3b68b306868bf52c/corenode-16.3.2.tar.gz"
+      }
+    }
+  ]
+}

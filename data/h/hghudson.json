@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1dev"
+  ],
+  "meta": {
+    "description": "Mercurial integration with Hudson",
+    "homepage": "http://www.gitorious.org/hghudson",
+    "license": "MIT/X11"
+  },
+  "versions": [
+    {
+      "0.1.0dev": {
+        "sha256": "563971d035ed125ac617366e89092a9ec60336ac9752fc03aec354210ab91951",
+        "url": "https://files.pythonhosted.org/packages/ae/23/5c96378cc70402b337167da129f047de0ab53e3394e543f7d4ed1604bc5f/hghudson-0.1.0dev.tar.gz"
+      },
+      "0.1.1dev": {
+        "sha256": "902d3de500ae2973c72023b3748fca4f06bad9dce9e52677817fcf92482a199d",
+        "url": "https://files.pythonhosted.org/packages/90/c9/8eddb7274965dc5db6e796dfce56e736861df0cd92d715cded3729b9d4fc/hghudson-0.1.1dev.tar.gz"
+      }
+    }
+  ]
+}

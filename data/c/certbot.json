@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.8.0"
+  ],
+  "meta": {
+    "description": "ACME client",
+    "homepage": "https://github.com/letsencrypt/letsencrypt",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.6.0": {
+        "sha256": "80b0b7dc5afeec2816ef638a61e7c628d73cd72666eebf4984be426d1c2b492d",
+        "url": "https://files.pythonhosted.org/packages/fc/eb/7594bf16d89909a9d52c46edbeae669d4b2ee6e12453bd97e674d0371920/certbot-0.6.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "ad5083d75e16d1ab806802d3a32f34973b6d7adaf083aee87e07a6c1359efe88",
+        "url": "https://files.pythonhosted.org/packages/d8/08/dde6bc98204c79bdefe0c1ae3a08c44f4f319197b0fc34c109a9f6a6df64/certbot-0.7.0.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "3c3c70b484fb3243a166515adc81ae0401c5d687a2763c75b40df9d8241a4314",
+        "url": "https://files.pythonhosted.org/packages/da/b8/fa6d7f0f8c0d37944ca4a1940b1e933fc6673498995a45db03c034bb11dd/certbot-0.8.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "latest_version": [
+    "3.5.3"
+  ],
+  "meta": {
+    "description": "Compmake is a non-obtrusive module that provides 'make'-like facilities to your Python applications,including caching of results, robustness to jobs failure, and multiprocessing/multihost parallel processing",
+    "homepage": "http://compmake.org",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "0a7a9de5537d4fd2b7cc68cacfefd092b254ce8771d1784a4792afb1771f6998",
+        "url": "https://files.pythonhosted.org/packages/10/0b/42ec7d1039228de662eadf165bb5082d6247cbb6670ae98825ad57cd5030/compmake-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "28c227faca74c99f772841a8884901036a0582ba53b9499f77072b7219a0dc86",
+        "url": "https://files.pythonhosted.org/packages/5a/58/90ce08cf18008bdde82daa6d95b7fcfc01783e2b7885ebe643179c2c6849/compmake-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "903fe82723915b00357624c2de894daa9bd4ae6bf34c6d40b25d7fc4c39fb09d",
+        "url": "https://files.pythonhosted.org/packages/52/95/a93223c75e9ce2f5bd22fb51ff4c48261b0b9a9ec350234fc2f34539026f/compmake-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "26677fa17299a0cea5a58147654643a00e9f98ac11d028655d51ec02227a8474",
+        "url": "https://files.pythonhosted.org/packages/ae/ee/97c114ece5e3adb3bdd2b73d212a2deef0b63e7ac9457e85219adec7d03c/compmake-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "3804b8db6edf1c5afd8a589c14bb622c4dfdf1fc8d3583b64fb578b1164435ab",
+        "url": "https://files.pythonhosted.org/packages/6b/69/150d70e007ef88dee4e6be0a0e30d4bf65a8e0d1069eefc639be989a2717/compmake-0.9.4.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "ba0b2d9008b7dd2ec847abd91a9c006ed8d470b859e2fece1e30797160ea2918",
+        "url": "https://files.pythonhosted.org/packages/b2/78/c2f69a9b0c0953cef3d9bbb87e21b933e476a6334b82f03da6d3a9dd26e0/compmake-0.9.5.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "1efb12630584695d7823f222a976abe0c222dfbdade80cc4ba7292ee7b32c059",
+        "url": "https://files.pythonhosted.org/packages/59/05/e934a8978e2707ee541c28c2ddc6799c597a6f547189e92965552c9c8603/compmake-1.5.0.tar.gz"
+      },
+      "2.2.0": {
+        "sha256": "2ad8fc6e8fe42006d4f3770e784690bf17c31ce932a5ac77f068c1a1e14f1f95",
+        "url": "https://files.pythonhosted.org/packages/4f/62/a3f615576b5af842ccb85a5c95e8e77f6ede5cb56d1dd530f0921e199d7c/compmake-2.2.0.tar.gz"
+      },
+      "2.2.1": {
+        "sha256": "fa4b351ae1fbd2ecc34ebab6c02a456eec18a7810758f51e8726ea457019452f",
+        "url": "https://files.pythonhosted.org/packages/ec/ad/2c8335ec208d01563c2fe06aa6ac5da47d63d3e011605b55add166704f0f/compmake-2.2.1.tar.gz"
+      },
+      "2.2.2": {
+        "sha256": "45ee71d69719736b30a6b23c449fce5fdea11426a2ea10dc317e8aacf0a79717",
+        "url": "https://files.pythonhosted.org/packages/49/6d/3c77b029f88167aa2b4480562d94e2b673f2483ff68e478b052cbcd75f1f/compmake-2.2.2.tar.gz"
+      },
+      "2.2.3": {
+        "sha256": "ba78bc347e7b1ad9fa386b95c0cd305e28b05e1a46e66bdb0c8f93d832b04ae7",
+        "url": "https://files.pythonhosted.org/packages/dd/0f/b199ba6750616b892bf94b540399e6efe51294e196ab39f601ba1ee3b224/compmake-2.2.3.tar.gz"
+      },
+      "2.2.4": {
+        "sha256": "629cbba5dd0077e7666304e8470238af125705e1ada84fe59b648201b1c9d357",
+        "url": "https://files.pythonhosted.org/packages/e9/7e/6e8bd07ff83a3ae1c902525ab4ae786f1d080d0ebb16d28f80c5680bc213/compmake-2.2.4.tar.gz"
+      },
+      "2.3": {
+        "sha256": "75531ba1b0eed22a2221ac57a523edec1e5cdba60d7d45703530185d8395f3a9",
+        "url": "https://files.pythonhosted.org/packages/95/f7/1d3d15da8ec61c358c04830bcef7d8950e3e091596e70da421fc8bdb57ec/compmake-2.3.tar.gz"
+      },
+      "3.3": {
+        "sha256": "7ed17302b281e0e6fd4d03c440b471d542b5619330817437b2667a5aadbed345",
+        "url": "https://files.pythonhosted.org/packages/a3/e7/9ed22872c652ca7dde127e4030a523e7a78d40076ee9b1ff8efa6b08d4b8/compmake-3.3.tar.gz"
+      },
+      "3.3.1": {
+        "sha256": "a873c4a551de2d9b73b2dc0b95b4ad077daf4ec0d29b8879721b60c2ddbc4695",
+        "url": "https://files.pythonhosted.org/packages/c7/89/8491aaf742b49f0d25b586869ffa93c66c251fbcd02fe2966f469ea1fe3f/compmake-3.3.1.tar.gz"
+      },
+      "3.3.2": {
+        "sha256": "9fdf9c05aa0bd7ff668ec2b01c015ecd3cc0179e276b23f3468195c5fe38d8bc",
+        "url": "https://files.pythonhosted.org/packages/37/05/0de60a83af427dbba2e9d265e8e2eb6241902caf43db58965a378598c582/compmake-3.3.2.tar.gz"
+      },
+      "3.3.3": {
+        "sha256": "bb9aecf880f025aec3b3e317508bc0e25ef02f9816092841103e1a6688d2cbe4",
+        "url": "https://files.pythonhosted.org/packages/71/4c/3fd96cf869b2d0c15d9b0a6ebba45868b8e847b23be75b6952df1c744859/compmake-3.3.3.tar.gz"
+      },
+      "3.3.4": {
+        "sha256": "b9ed3a9508d6b7faa2a3b11b336520ee08333e406625262be0173bee3fbc1ecd",
+        "url": "https://files.pythonhosted.org/packages/89/c6/b3b351cb88124e2a6d9ce82671d88b5092cf44a7de3887198ea41e74c2cd/compmake-3.3.4.tar.gz"
+      },
+      "3.3.5": {
+        "sha256": "f87218cd08a4deed71b4c565e5b1d3a871506aaa1d58f12fb9886d01eab2ce16",
+        "url": "https://files.pythonhosted.org/packages/6b/c9/1e2fcaf4492f2f2bd78fef86de997d3eef58e251e88321465eadc44663d5/compmake-3.3.5.tar.gz"
+      },
+      "3.3.6": {
+        "sha256": "5b606b03f0ad9007f5d11ab61a672e7b3ad51391d64a49617c9a01c521947854",
+        "url": "https://files.pythonhosted.org/packages/81/85/c470f0d88796eeda2493f73a39c0e5a3523f22c46152b8f31be2c88bacb7/compmake-3.3.6.tar.gz"
+      },
+      "3.3.7": {
+        "sha256": "7e2ab8ae685c5c5145d5e138711207f6f3636310c0353c5b80d2108fed8947e8",
+        "url": "https://files.pythonhosted.org/packages/46/32/89274b0257e140491c03e40df59c7bcd4520fa081deae4d4397ded978e60/compmake-3.3.7.tar.gz"
+      },
+      "3.3.8": {
+        "sha256": "8fea68cd6875b41fd9866d3f7e95bf1503bda4de6a151f823912a00aa99c7ecf",
+        "url": "https://files.pythonhosted.org/packages/fd/52/6d2c28a72f45148c95f4013afd3a8b01506e43b227ac7deb0a2bf74986b9/compmake-3.3.8.tar.gz"
+      },
+      "3.4.0": {
+        "sha256": "4260f6f1d677235beda1460a2d6e57252cc9727ca3cfc3675e5041e855eebe45",
+        "url": "https://files.pythonhosted.org/packages/d0/ae/29ec65fadb6102b4e86df2f245b4c08437fe9134468cbd02fc38e7f46871/compmake-3.4.0.tar.gz"
+      },
+      "3.4.1": {
+        "sha256": "e758251ba2d9b48cd480424e9bef642cc1de5ce544a2e9a31c49dfe2776fa78e",
+        "url": "https://files.pythonhosted.org/packages/35/14/64d1c2b411e4e29395a39414795b4c9c37318ab7e542bbd52ae08b0dde20/compmake-3.4.1.tar.gz"
+      },
+      "3.4.2": {
+        "sha256": "8084cecc8f415b440a894195cff900eca79c3b08904eef589e1df5fa9ee9e951",
+        "url": "https://files.pythonhosted.org/packages/46/2b/bf66ad7a16065b34fe5b02b6c4e53d4526fdf17e3f9c35b036b26454ba66/compmake-3.4.2.tar.gz"
+      },
+      "3.4.3": {
+        "sha256": "461d4380078818f02535cc73f6341cfd26fa457393b3ec23a501e9c90011ba82",
+        "url": "https://files.pythonhosted.org/packages/4c/e6/1897ea675f37f63c6405a83a8cb48f798e6f89899c4447c7f9f3804d2209/compmake-3.4.3.tar.gz"
+      },
+      "3.4.4": {
+        "sha256": "9798155178352f159f9cdcca32f20ef874f401d63796ddf72934e082bc50797c",
+        "url": "https://files.pythonhosted.org/packages/80/ef/31276b528caf998028182a22c0fae61ea903462fff31403e630a540fea25/compmake-3.4.4.tar.gz"
+      },
+      "3.4.5": {
+        "sha256": "54b96417375326019134cf889f8b4ffe12e7d59539c7d67a92b494a6a1afcfa2",
+        "url": "https://files.pythonhosted.org/packages/dd/50/9d88f06f514433291cd4739db2ea41034d3102eeaf02a3cabd05256d9e86/compmake-3.4.5.tar.gz"
+      },
+      "3.4.6": {
+        "sha256": "96c57ae2a678e8b1f5eb1fa20c6ba1699da52208519478f8f283ef4d8534f732",
+        "url": "https://files.pythonhosted.org/packages/e8/ab/e79acb99a41dba1056647d0be371979fbc9511f89601a8f8b00c58236a2e/compmake-3.4.6.tar.gz"
+      },
+      "3.4.7": {
+        "sha256": "9642510de076a7b880526da79b48ce8bfad6003f9e62ccfd2213e3a7af6911a2",
+        "url": "https://files.pythonhosted.org/packages/62/fa/a96a770441f214ee09da022293b75d01e0855ca7aeffd66d77ae8df1279f/compmake-3.4.7.tar.gz"
+      },
+      "3.5": {
+        "sha256": "4335955105c9efc9e3cf740f003d2551e1517aa0f497a4e5e020ab72d9f50576",
+        "url": "https://files.pythonhosted.org/packages/ea/d4/2e0d3b9b6b1fa664027c3a24a461b3df9ae054026b47bc31adb3084e5831/compmake-3.5.tar.gz"
+      },
+      "3.5.1": {
+        "sha256": "eb3a5763900822d3361714ff50346f2ff1cdd82efbd0a80b780e48fead51d9da",
+        "url": "https://files.pythonhosted.org/packages/09/69/8a67b5ac33c64144ab2f0872ecf0a256e5c67202c133bb343c9bff6fd7d0/compmake-3.5.1.tar.gz"
+      },
+      "3.5.2": {
+        "sha256": "9fbb1eaf67df135a1a7c2e59ec0172a15a4779ef763717c0f3975cb7813ae8bc",
+        "url": "https://files.pythonhosted.org/packages/95/26/65ecddcaf276e544f8565934dadbf55eff6990a0efa9ba56d7cd732b86d5/compmake-3.5.2.tar.gz"
+      },
+      "3.5.3": {
+        "sha256": "4c75c2ceb6af1cb0e08188771f5c35ebe8a06ebcfe4e2ad9c828d10038a5f1a8",
+        "url": "https://files.pythonhosted.org/packages/97/1d/c91896e7fd23a917a6673ab9b2dce22adcd4863298ed1d52dee4d9647db4/compmake-3.5.3.tar.gz"
+      }
+    }
+  ]
+}

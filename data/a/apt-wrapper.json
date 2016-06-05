@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.12"
+  ],
+  "meta": {
+    "description": "A simpler interface to the Debian APT command-line tools",
+    "homepage": "https://bitbucket.org/mixmastamyk/apt",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "1.03": {
+        "sha256": "431305ff2adacef360db62a750918c2ea20738eff1f1425bb4a507a25c7bc117",
+        "url": "https://files.pythonhosted.org/packages/2c/ce/8fd55a07c8ecc775e8819235faf4bcbff6c6bd157e6e9059282931940907/apt-wrapper-1.03.tar.gz"
+      },
+      "1.08": {
+        "sha256": "56176c82401faacecf6548844b892bf25def31f4f2834f799a401da7a5f61ab3",
+        "url": "https://files.pythonhosted.org/packages/a0/81/7302a41ab64cb2ec7a99bf67ade88c26daf7e1ed11f4f1fe4cb80e2e460c/apt-wrapper-1.08.tar.gz"
+      },
+      "1.09": {
+        "sha256": "90a86ac9f30b64dd3c8cbfb83fe9f3237b1c0082610e8c637747fd0d3bdc1a86",
+        "url": "https://files.pythonhosted.org/packages/75/31/ed2b0846c8d070a52431fc631992c6a136f0b93207ef7067d52fe9671cb8/apt-wrapper-1.09.tar.gz"
+      },
+      "1.10": {
+        "sha256": "8db58be68b7316681257123388ff0844f45b1eb95c3289d72b20c10f1f7fe2fa",
+        "url": "https://files.pythonhosted.org/packages/92/60/21573cb43454270fe703eed635720f65be89db78dc470a290d241d30ecd2/apt-wrapper-1.10.tar.gz"
+      },
+      "1.11": {
+        "sha256": "8a01038ee06ce3d79722df07d4278ef8cbab4f21130fed42c02d05ed0ff71272",
+        "url": "https://files.pythonhosted.org/packages/db/05/eb9c2cbec3c6eded5d0e821e12edc10b1351d3e0b99bebff4fa93a7417b0/apt-wrapper-1.11.tar.gz"
+      },
+      "1.12": {
+        "sha256": "bd8a7af32515d137013e0f28858e6f3bc9c9ca8405e944f0a96da0ddf8e38ce4",
+        "url": "https://files.pythonhosted.org/packages/74/4c/38080595218d56f2571d28a31d4a8b11ba827804c4828d36b2252405c4f4/apt-wrapper-1.12.tar.gz"
+      }
+    }
+  ]
+}

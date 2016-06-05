@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "A Python utility for calling somatic mutations from a BAM or SAM file",
+    "homepage": "https://github.com/kylessmith/SomVarIUS"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "1c7fa8e63c45601a2813e9e92b03a82b3d541174fe55eb3e9af9d4b4f24f2e5a",
+        "url": "https://files.pythonhosted.org/packages/45/b7/2b0d2b7d70781081b5d1a12a6f306d4baff0bfce764a876501a7fb571eb3/SomVarIUS-0.1.tar.gz"
+      },
+      "1.1": {
+        "sha256": "a2a03b6b0f864a3f71032454246dd2ffcea5a201fcf225d00fb60d9703c692bf",
+        "url": "https://files.pythonhosted.org/packages/40/03/6f341993c04eaf317f3c74173b1505a56d194a9a9c571344a27cb631af9c/SomVarIUS-1.1.tar.gz"
+      }
+    }
+  ]
+}

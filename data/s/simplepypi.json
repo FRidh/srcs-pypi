@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.2"
+  ],
+  "meta": {
+    "description": "A really, really, simple HTTP PyPI-like server",
+    "homepage": "http://github.com/steiza/simplepypi",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "6828eae8284772f604fae483eb81a0a02eda68f7e4bb5a8efc3e2357b86f456a",
+        "url": "https://files.pythonhosted.org/packages/9a/82/990f911b279bbf3af352f2d2f404743eb91c496a501fa7eab3f4520761ba/simplepypi-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "ac1592b88118e2c7443ff73fe5af8f7a88d7ab3c5e0f9aeb0e6fd3f8f44e3097",
+        "url": "https://files.pythonhosted.org/packages/bc/ad/7d69a0f5f1c7c720f7cfb51374babd18949894a6be0391bcc6a40decb5d2/simplepypi-0.0.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Python bindings for BTrDB",
+    "homepage": "https://github.com/SoftwareDefinedBuildings/pybtrdb"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "d81999e7f4ba050a26791f330c175c1b1c57a010e77590c4857f9016421f0a86",
+        "url": "https://files.pythonhosted.org/packages/5b/69/f07b1736a65a9ca95dd392ffa85ae4770fb0a4456e12295bc178d88f0b6d/btrdb-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "3ec09444f7186c919360d4f1d8d71db4279da6a6eeedc56b4f9987fdbd82f58d",
+        "url": "https://files.pythonhosted.org/packages/2c/c5/7136e93569e478071276f0cda845d1e893efc11cb1d8441f757377ba0b60/btrdb-0.2.tar.gz"
+      }
+    }
+  ]
+}

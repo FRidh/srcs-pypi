@@ -1,0 +1,189 @@
+{
+  "latest_version": [
+    "3.4.1"
+  ],
+  "meta": {
+    "description": "Python driver for Cassandra",
+    "homepage": "http://github.com/datastax/python-driver"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "c5651dda58492a5f7ad0bbe1d611ffdd1b2b675ec99825400537189efa199c28",
+        "url": "https://files.pythonhosted.org/packages/91/f8/23f3d7ea02c59afc1c3900df248344d0e2931ba2041087ad8631a8226403/cassandra-driver-1.0.0.tar.gz"
+      },
+      "1.0.0b5": {
+        "sha256": "c9b5a0fbe962d59792b2d0fd9307bf3d72de49b12c10174c02e8682b643f4326",
+        "url": "https://files.pythonhosted.org/packages/cd/6b/f3acdb73c4e1b601f76f7a50d5053dd734b88c49cc4da345474ee1d1394b/cassandra-driver-1.0.0b5.tar.gz"
+      },
+      "1.0.0b6": {
+        "sha256": "c41568b9ed5259f22e5c5cc8776e36ee87442226d771667678e6bb779c918c3c",
+        "url": "https://files.pythonhosted.org/packages/3b/6b/74e42748c54353a89a0ec926af9b9fb110da771c21302f1483cc1434a8ef/cassandra-driver-1.0.0b6.tar.gz"
+      },
+      "1.0.0b7": {
+        "sha256": "fdd65642f4cbc88acc0016ae9eab8008498415a11dea7751fe332116d0368701",
+        "url": "https://files.pythonhosted.org/packages/10/12/d9ce2d7d80b4d69d008f9e7cb8cbfcaf3861d97a9afea0cf08e70ae9f952/cassandra-driver-1.0.0b7.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "da6e6f393f6ced1063803c7c5237d1929b8a52cea08f879bef6c7bd80504f78e",
+        "url": "https://files.pythonhosted.org/packages/56/a4/40b2b43c4763605a82a29abf7ede03082a12ee8262f6cf17cd2c4c461b7f/cassandra-driver-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "a528aefdc063750f4fe09b55deedb8da5fcdf3b055ff2edc7505b9b880d534db",
+        "url": "https://files.pythonhosted.org/packages/88/06/cd9821188c9c941d96a35d6524dce6458ff722acda615f59063658cead47/cassandra-driver-1.0.2.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "53db1c15d5dc6067c6325410c2213b827cf52959105d3b103fce84cb0bb44b45",
+        "url": "https://files.pythonhosted.org/packages/53/0d/1e53e518a8e9bb418d2712f8245757661f0ef54c51599614f97e920b247e/cassandra-driver-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "6a5c6be1ae608a3c35ab45353dc7cc136d6ca7cf6039420d362b239b028683b5",
+        "url": "https://files.pythonhosted.org/packages/07/ce/6a7a633d87d3d832b71f232f55cc1ea65ea93980298350e38cd7855a49aa/cassandra-driver-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "bdb6c7908c0492d07e7f9566bcfe8fbff7b45db0337e04378689d14d366183b2",
+        "url": "https://files.pythonhosted.org/packages/51/1a/3225a6b32097f9d4d0f38873e0fe16dc62e21b3bf2bdb6ca4d3fe316c28e/cassandra-driver-1.1.2.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "ed3eaae65b41e9478339b9eaebeb2a77da94c17aaabbae671543676eeaae143f",
+        "url": "https://files.pythonhosted.org/packages/d6/96/ea6033e5df7f14ed8f18100fe95a3426b3949fe90919f22a34a25cc26188/cassandra-driver-2.0.0.tar.gz"
+      },
+      "2.0.0b1": {
+        "sha256": "555bef65005320fb2e9697a4ac86994e8f0902de085ed6a8905bba089cc5849b",
+        "url": "https://files.pythonhosted.org/packages/fb/8b/06d899190b5b1319a70a0e65fa928ffaeff31e0734a356f734c9f9c40f55/cassandra-driver-2.0.0b1.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "8b071aa8412719afe6c61f23b6455878dbebf9cbdf438834ebec0387ac99e322",
+        "url": "https://files.pythonhosted.org/packages/12/03/7d76170ef082ee846f4a97d97d0e680e4ae06fee3cf9a0d4325997a85730/cassandra-driver-2.0.1.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "2cb22cede2e9e4f986c613722824c5e72e83a726845beb8278375713c8799735",
+        "url": "https://files.pythonhosted.org/packages/86/8b/57aa4f5af75fe332b05c0516ca203d3a3528bdf273012cffadc58901ff9d/cassandra-driver-2.0.2.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "033b4355fc26c9d91b15c9715541731d4fcf3b809be50cc4b80d8c9624dcb089",
+        "url": "https://files.pythonhosted.org/packages/0b/3a/3ac1aca9c92193e31d4b1a81520987accf8c0d7477d3241ebfca1bd6e9f6/cassandra-driver-2.1.0.tar.gz"
+      },
+      "2.1.0b1": {
+        "sha256": "1fdc04d0db7e8947a4bdada62cdc15ed76e84eea422e90274c17fe242fd65f9d",
+        "url": "https://files.pythonhosted.org/packages/e6/84/ae01c4629d37a1142f19050faa367ad1c8473fef97163fa8090ff2e315be/cassandra-driver-2.1.0b1.tar.gz"
+      },
+      "2.1.0c1": {
+        "sha256": "0c3ff04974f91f874608485a16fa522be4361071d2ff318576ab5c7353015d56",
+        "url": "https://files.pythonhosted.org/packages/51/31/4370699f042d65a1b8171c227b024931562254a590d8d1db8e344670352d/cassandra-driver-2.1.0c1.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "b495b93a6183953d22826677b77646bcbc531043694998b20e01884fe711a4be",
+        "url": "https://files.pythonhosted.org/packages/d2/79/131ac14f1a1b9d0510264f870d13506d1582530fa66710ac0522ba8b1576/cassandra-driver-2.1.1.tar.gz"
+      },
+      "2.1.2": {
+        "sha256": "6a222ea59491a8fa4e1e21c95e84afc6c075bd3959b75d932c5ab1b4fc909f1a",
+        "url": "https://files.pythonhosted.org/packages/94/02/ecacc426e05eb26ea22b4ed5f97132be03d2d50fc8ff59bd1733d531c8b6/cassandra-driver-2.1.2.tar.gz"
+      },
+      "2.1.3": {
+        "sha256": "dc16ae6cc2fedc572111bc8ba03c95b2b3dea37ad3cad8f45709d2537197dfb5",
+        "url": "https://files.pythonhosted.org/packages/9d/5a/a949b114447efa7b596f45db64d8f1106508f77ae79406de4d5940201383/cassandra-driver-2.1.3.tar.gz"
+      },
+      "2.1.4": {
+        "sha256": "ae48897eed07caf3120d8cde0854c0ecf64304f3b1cc4a7797107c125dec79f5",
+        "url": "https://files.pythonhosted.org/packages/a3/b9/0758e0d034f3b84e26887de454e93a9fe42dcf93f7d69dd7fa3477caa379/cassandra-driver-2.1.4.tar.gz"
+      },
+      "2.5.0": {
+        "sha256": "b9751efab561dbddc4da97f4d05db7ea6c1c4cdefb2d767f55ca3dd151eaa090",
+        "url": "https://files.pythonhosted.org/packages/c0/1e/4da7874a590a737e80030a03d5a8a70afc1ad13d92d4ce4c80752cb431ed/cassandra-driver-2.5.0.tar.gz"
+      },
+      "2.5.1": {
+        "sha256": "98511b51f3565bf5836079ed31b7be681d5a17b5a98d1214aa64eb06e07bc18d",
+        "url": "https://files.pythonhosted.org/packages/06/6b/4bcb422b40fb6b4ac5c047e39ad11e0aa3f2b8b68d0177cdb657ab237886/cassandra-driver-2.5.1.tar.gz"
+      },
+      "2.6.0": {
+        "sha256": "753505a02b4c6f9b5ef18dec36a13f17fb458c98925eea62c94a8839d5949717",
+        "url": "https://files.pythonhosted.org/packages/fa/a2/df00e9e9f58878539671e5cc2cb528c8257b936721b9708c59f238edebc3/cassandra-driver-2.6.0.tar.gz"
+      },
+      "2.6.0c1": {
+        "sha256": "4e7e905bcb90d8782ebb60a3ef1d52416557942eb1a12a5423322e36584eaef5",
+        "url": "https://files.pythonhosted.org/packages/12/85/9f4d9a97233e773a23ad14efbcdc8e6a21b8d0b2774bc9038a55f76704f5/cassandra-driver-2.6.0c1.tar.gz"
+      },
+      "2.6.0c2": {
+        "sha256": "f988bb6db95caf9e67826de5711475240d687412fe63e1f4b15df5b967168c01",
+        "url": "https://files.pythonhosted.org/packages/9c/d9/9baa5da804990fd7377c4d01496986ff2dda80c5fbf5cdbb72d01dbc6f77/cassandra-driver-2.6.0c2.tar.gz"
+      },
+      "2.7.0": {
+        "sha256": "b07a594fb0d3962cdefc868b23f76f604ecb574d99467ecb05a5a068af870b7c",
+        "url": "https://files.pythonhosted.org/packages/29/a6/a574ecdba4916452725671fda60362e89cbf1841bce0794f212f9f969eba/cassandra-driver-2.7.0.tar.gz"
+      },
+      "2.7.1": {
+        "sha256": "cee2c9235b151e767f32f3e4bfa9483ab0e57b62026df3ba3666061d28413c7f",
+        "url": "https://files.pythonhosted.org/packages/06/ce/10cd82868033ee8fc8a4d1cd6ecb5d68087b55588216a954a430bbd93496/cassandra-driver-2.7.1.tar.gz"
+      },
+      "2.7.2": {
+        "sha256": "f65c7f9f0a552975b28ee370c9f19f8dd881ebd7c208e5818095533440a525df",
+        "url": "https://files.pythonhosted.org/packages/d0/c0/39de7f2b90431179ed55ff210aaed52b31497653456d63a1f14e0e1a63b6/cassandra-driver-2.7.2.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "b84e3a0716564f1f6a0deba120308d801f0232010d9c2df90579de293e59fa78",
+        "url": "https://files.pythonhosted.org/packages/19/74/7d68ad99d94d2fb56097fce290fcdbbb2f390ca681692762dae311c48613/cassandra-driver-3.0.0.tar.gz"
+      },
+      "3.0.0a1": {
+        "sha256": "17f0ff463794d8b145e87ff3be3032ac0b367ff0e7508da7dd9b7e8193d501cc",
+        "url": "https://files.pythonhosted.org/packages/0e/64/bd901723b4835db9263366795380359b2eecaafa2d74adeb583fa5d25df2/cassandra-driver-3.0.0a1.tar.gz"
+      },
+      "3.0.0a2": {
+        "sha256": "8af8b44bb51dbeb694de21271a131284f9cd69d00769d0e15c6027dfd0603744",
+        "url": "https://files.pythonhosted.org/packages/ec/a9/7d59a46d35fbe6af34df5a9e85831d96fd391255ecdfeacca592f15975a3/cassandra-driver-3.0.0a2.tar.gz"
+      },
+      "3.0.0a3": {
+        "sha256": "4932074c31b8ecf7a15a25b7c05cad402b3c2f2700eeafefa0aa8d67c2298f91",
+        "url": "https://files.pythonhosted.org/packages/24/5c/1bfeabdb0d838eec6eb53e6ee0fab489b2145418b735d0e04c86eeae4dbe/cassandra-driver-3.0.0a3.tar.gz"
+      },
+      "3.0.0rc1": {
+        "sha256": "16724dafb74aa667fe71ad76e812e78f3f5c98ed22eb63781101e76aa577cfdc",
+        "url": "https://files.pythonhosted.org/packages/2a/22/dea8afbc326257ab8b4d5d46917d32c8c5eb07171a95d436ac642b5defbe/cassandra-driver-3.0.0rc1.tar.gz"
+      },
+      "3.1.0": {
+        "sha256": "e3f674038e18c262336a93733d3f1bd6696097397a2e6d5a34651809c1daa8d3",
+        "url": "https://files.pythonhosted.org/packages/53/f6/846246577969e3a6733c62b30e0d3a81a012e6e7adee90efc7ced65c44ff/cassandra-driver-3.1.0.tar.gz"
+      },
+      "3.1.0a1": {
+        "sha256": "88493da41e8d2ac97c6b9f7e5bc5f44111330881db1911aa49574226c5819cd6",
+        "url": "https://files.pythonhosted.org/packages/8b/f8/4d55f8b40110dc44435f7bdbac4a505d58fb5d50d397a624d0a9f31fe177/cassandra-driver-3.1.0a1.tar.gz"
+      },
+      "3.1.0a2": {
+        "sha256": "583a1389db820ea723b5f0aa31af1628fcfe1868ffdc4384f36583ebdf40d29d",
+        "url": "https://files.pythonhosted.org/packages/68/3e/fb7a654062e3e72a972584e6cbc6f98ae477e427ee85ba671650719c37c6/cassandra-driver-3.1.0a2.tar.gz"
+      },
+      "3.1.1": {
+        "sha256": "da1b77a0a3682d7e91ee20ee1a30fe239cbd736b8a59c838ee945296b40fa89e",
+        "url": "https://files.pythonhosted.org/packages/2d/cc/36cdadd8b3a1195a31cdcf60a4fb4f4ac6418bd2aed7524d03d0147ba726/cassandra-driver-3.1.1.tar.gz"
+      },
+      "3.2.0": {
+        "sha256": "9c73055f1524469e19e47b5a42c9dd131873667bcc42aed34e1514e29e9f597e",
+        "url": "https://files.pythonhosted.org/packages/ee/cc/8441aa644eaad1a24e277bbc6064fd33ac50abb4d99cf84818683d0be3a6/cassandra-driver-3.2.0.tar.gz"
+      },
+      "3.2.0a1": {
+        "sha256": "9e4aabdf9c05a8b14f253c799174a129491e91ff076bec0a88c8809fe40d3466",
+        "url": "https://files.pythonhosted.org/packages/8e/73/7170d214256b24b228e0c66de339440768501e26d68ab84309a6f40cf7b1/cassandra-driver-3.2.0a1.tar.gz"
+      },
+      "3.2.1": {
+        "sha256": "d31007e0e02af875ae7e59bdcbdf2dafd9284e40b06919dd66b79a1d02fb7be9",
+        "url": "https://files.pythonhosted.org/packages/5a/b0/4cc52dae10f0bf5b52498ccd185dc623abf3dcca421ebab3ca3d947a30c1/cassandra-driver-3.2.1.tar.gz"
+      },
+      "3.2.2": {
+        "sha256": "cb0fbb6178832e90b1d6a03197a7cc5d682a86d2d99efd7bb4eb5dd5764abf03",
+        "url": "https://files.pythonhosted.org/packages/92/1b/9df3e715ede725a6795d319d0a064b245f6948cc6d12b4ff21e38ed30dac/cassandra-driver-3.2.2.tar.gz"
+      },
+      "3.3.0": {
+        "sha256": "0607d6d941fe7a1f28a8a22634de4c9a9db4f371161c598a7c08a136cd9985f1",
+        "url": "https://files.pythonhosted.org/packages/e5/9f/ba1d652d9093811dc29b0e3159e81ada07ca369f3ecd639a725aa02d11ca/cassandra-driver-3.3.0.tar.gz"
+      },
+      "3.4.0": {
+        "sha256": "77ec3e0820c6cad9bb967970efa18a5339770b42fafa48fc1b3eee4b9bd20838",
+        "url": "https://files.pythonhosted.org/packages/0b/8a/407624beb685b9ab7f5c599e2fbb0590c70d265a7eb887e953ba02b6ae76/cassandra-driver-3.4.0.tar.gz"
+      },
+      "3.4.1": {
+        "sha256": "bd28ec095f8ef815c1f8239fe6cfde742aabe7a94ea2d7a2d858371fb43166b5",
+        "url": "https://files.pythonhosted.org/packages/a2/89/9aaf82612db98fb948e971c6e7b121d1a0fe89aca976c71894ce52463da3/cassandra-driver-3.4.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,557 @@
+{
+  "latest_version": [
+    "3.2.0a2.dev157"
+  ],
+  "meta": {
+    "description": "Pipeline management software for clusters",
+    "homepage": "https://github.com/BD2KGenomics/toil"
+  },
+  "versions": [
+    {
+      "3.0.6": {
+        "sha256": "e2a625a5a98cc705af246af7a0ddc4af5387acdefee2a4088f06ba95084da353",
+        "url": "https://files.pythonhosted.org/packages/db/a0/353db7c2093e644266f906d75d9234362b03f6b487f708730af844fb77e0/toil-3.0.6.tar.gz"
+      },
+      "3.0.6a1.dev377": {
+        "sha256": "474089bf044d54943bb84a5bf864af55c5a1af3e4745b86625a942be18ef4321",
+        "url": "https://files.pythonhosted.org/packages/02/f3/e7aaf455e69bda3bbc193bf1340aa3314f4561b9cefc8e6219a6eba5c7d7/toil-3.0.6a1.dev377.tar.gz"
+      },
+      "3.0.7": {
+        "sha256": "db0c5c265aeb657446af0a3c2e26b78c04d35cc92560965314ffc74cc5b0766b",
+        "url": "https://files.pythonhosted.org/packages/80/53/3683755f01cff1f2069b2b6a9baaec6f0b4f3b486d7a19ba933279b13975/toil-3.0.7.tar.gz"
+      },
+      "3.0.7.dev2": {
+        "sha256": "f4036a87eac5646568d7e330bfb98642766041370ff402b4bc08f81928288ec4",
+        "url": "https://files.pythonhosted.org/packages/a1/e1/2f9af9de9daef0592327a8b257c7ee4611b06a034ab0e6c58e3460c47f84/toil-3.0.7.dev2.tar.gz"
+      },
+      "3.0.7a1.dev1": {
+        "sha256": "c67dafb22d8020723addfe7f88aad865742acab450389b51929b5f63784a9f2d",
+        "url": "https://files.pythonhosted.org/packages/27/ba/b38034d366d38db9c49f47682b3417faeb97d0e4dd67a1e7a64d9c0a5faa/toil-3.0.7a1.dev1.tar.gz"
+      },
+      "3.0.8a1.dev4": {
+        "sha256": "df670a50af1cae71aff5e922dfd288bd19f6f87bbdaff20deaba0b28bff12235",
+        "url": "https://files.pythonhosted.org/packages/5d/90/76a070aac2117f6355209b04a8a0386688adc171a6734fbee05af890604b/toil-3.0.8a1.dev4.tar.gz"
+      },
+      "3.1.0": {
+        "sha256": "dffc911cd632a8b3442ebc0037f803908782ab49228c7bf073e4b72e1334bcb9",
+        "url": "https://files.pythonhosted.org/packages/64/c5/109ef0bab4ea375a32455cbb36bde200c07b374cd1ca7fa6776609ee4eef/toil-3.1.0.tar.gz"
+      },
+      "3.1.0.dev1": {
+        "sha256": "dd735b9f80df14ad78c84a1dded9902e8d1ddc98853b03b20e84eeb5ae514a24",
+        "url": "https://files.pythonhosted.org/packages/9d/e3/397e17a16c80e1091061eae705fc32f78f9c30294d9894c9bd54ab3d4d25/toil-3.1.0.dev1.tar.gz"
+      },
+      "3.1.0a1.dev22": {
+        "sha256": "cbcb00702dd115a82747f7d3059181596718251bd88660401895e85f955917a9",
+        "url": "https://files.pythonhosted.org/packages/4b/05/330aa307d03e7e841c77c6c279c7e6ad54e231b4f7066511cda9868473a8/toil-3.1.0a1.dev22.tar.gz"
+      },
+      "3.1.0a1.dev23": {
+        "sha256": "45a5e06483195367d25ec53b3ff922efd7f868db0ed28c540e5caaaa31b372b4",
+        "url": "https://files.pythonhosted.org/packages/5f/cb/7fe62a6c9b1a906355639314041854896159c2d2f1bbf587686b947c9c64/toil-3.1.0a1.dev23.tar.gz"
+      },
+      "3.1.0a1.dev24": {
+        "sha256": "6ff592804ba42a7d2cba4392a73399cd6c7f37c71d16dc66964c7b28c4efd5a1",
+        "url": "https://files.pythonhosted.org/packages/cc/19/12f3c77f3b9dfd129257519529aa6459c77d7855e804b163e4d1aea9df23/toil-3.1.0a1.dev24.tar.gz"
+      },
+      "3.1.0a1.dev25": {
+        "sha256": "53c5255cef8c64237c4358030065de92c312eebd07612399584e4ee2745bbbf0",
+        "url": "https://files.pythonhosted.org/packages/fb/03/009320462e7aecef6a390c2310527e91cf970f9cacc21a32e4b8c3a33581/toil-3.1.0a1.dev25.tar.gz"
+      },
+      "3.1.0a1.dev29": {
+        "sha256": "a4ec45c3c9c7e11b73383d4bc48b352b3ce08262b406c0289711d51176c2d96e",
+        "url": "https://files.pythonhosted.org/packages/5c/52/98f1476a81f2ae61e54db88955e65f59ff7831a05dfa687c24e8f5b9be55/toil-3.1.0a1.dev29.tar.gz"
+      },
+      "3.1.0a1.dev30": {
+        "sha256": "f401b25b50ca80f7af418f7d7a9c8f2a1c72e662a47bdf8a3cb0f571619f8d71",
+        "url": "https://files.pythonhosted.org/packages/c4/dc/6c9535ef58efe25d3025f63eff6652bfb2302875cfb99fbc1614a5e3950b/toil-3.1.0a1.dev30.tar.gz"
+      },
+      "3.1.0a1.dev31": {
+        "sha256": "aecb8902cbd4660ef0d5e210abf1e9e9bc94e9bbfbe682da181d229d66e13f9a",
+        "url": "https://files.pythonhosted.org/packages/f6/f6/4b2d59b81ffa4b5e5e7373f21bcf3b413963420c3817d32e642eaf78c8e5/toil-3.1.0a1.dev31.tar.gz"
+      },
+      "3.1.0a1.dev34": {
+        "sha256": "1207160162d5a4a01484b5057a1e901bcc93f82636f8edb23720084a46af889f",
+        "url": "https://files.pythonhosted.org/packages/6f/fe/fedec1849d207e22342e5089f17b8eecccd8614d79983328d5cfebd3697b/toil-3.1.0a1.dev34.tar.gz"
+      },
+      "3.1.0a1.dev35": {
+        "sha256": "148d580359d46acf63db4e09f9e35012f91bc62be6a49846a3b2a10b2fb94ce3",
+        "url": "https://files.pythonhosted.org/packages/2f/ab/cb323ae126a36bc8873faa5254b4cee51c6b3b5ad106b18259ddd0781dd6/toil-3.1.0a1.dev35.tar.gz"
+      },
+      "3.1.0a1.dev37": {
+        "sha256": "653555dc43af0e27977280db6fdc43edb0c2fcf5944eec630f87d32467466904",
+        "url": "https://files.pythonhosted.org/packages/33/25/514fac02234aa9a17335dc130be408d0fa729aa24c02c35d0214e5dda8fc/toil-3.1.0a1.dev37.tar.gz"
+      },
+      "3.1.0a1.dev38": {
+        "sha256": "da51c80fe6d466874bc2f049218c7cae4fbd452c9f083eb8ff015f59d1af6b09",
+        "url": "https://files.pythonhosted.org/packages/c6/a1/07c75fcd26428da20cb97113a9e2509f6b3ffda3b46b52843ee669324921/toil-3.1.0a1.dev38.tar.gz"
+      },
+      "3.1.0a1.dev39": {
+        "sha256": "3d2a5bcf5d27e90f8709bc9f6fd6ec08b979c419c5879cece14e3b99f9733749",
+        "url": "https://files.pythonhosted.org/packages/ee/21/766de478135a9aba045de09bfe9cc8c481892149994e0e823775a0f3be5d/toil-3.1.0a1.dev39.tar.gz"
+      },
+      "3.1.0a1.dev40": {
+        "sha256": "67c3e1cdcaee8e095cfebf32848dedf69c9e7e02f582fa16f5ce4ecd56d14346",
+        "url": "https://files.pythonhosted.org/packages/d2/92/2adc1b5726397e8d37d31c811be1e54986a5eb59522bc589697ddbfed1aa/toil-3.1.0a1.dev40.tar.gz"
+      },
+      "3.1.0a1.dev41": {
+        "sha256": "f2571fbe6d2bb06a15a8b0d4f5bffe691b2c15651821addcb449cbe45d861d5d",
+        "url": "https://files.pythonhosted.org/packages/a3/3e/1c3a1d7809b2830be27f8a78d41c4f2235430c362eecf49a79d4d9652afb/toil-3.1.0a1.dev41.tar.gz"
+      },
+      "3.1.0a1.dev42": {
+        "sha256": "d965c4430e4897f2f15614da71d020ed5285324540214c596f653693fd248d4d",
+        "url": "https://files.pythonhosted.org/packages/77/65/731eadb0e5a3aac28d5b2153337ed1ca4ebf777de4a3fa98579fe9d91dd9/toil-3.1.0a1.dev42.tar.gz"
+      },
+      "3.1.0a1.dev44": {
+        "sha256": "14092b6fb6b069a32c53d93ddcaa5b13d0d1f627a262f828307a8cea5eda8b23",
+        "url": "https://files.pythonhosted.org/packages/b5/b3/8c4ca2c1f0369538374b82b01ea0aa21fab47594e005e3008dd7f6898635/toil-3.1.0a1.dev44.tar.gz"
+      },
+      "3.1.0a1.dev45": {
+        "sha256": "e1017db57a806df8dcfbbd025a8e374469d71ef4d5249e678e76c3daf6c3718a",
+        "url": "https://files.pythonhosted.org/packages/78/9b/64cf8ffc135115fcafd64eafb529089528d0e104a1e374b0d84b46a9dbb5/toil-3.1.0a1.dev45.tar.gz"
+      },
+      "3.1.0a1.dev48": {
+        "sha256": "4a091c956cfdf57c730a119d13739ed92d1bb1623b8758e2f5b34ca1f2e37067",
+        "url": "https://files.pythonhosted.org/packages/62/ce/75d8052d2c31813e0543e70f58417b90f00a1a84277e5be9db08b684167a/toil-3.1.0a1.dev48.tar.gz"
+      },
+      "3.1.0a1.dev50": {
+        "sha256": "7eb71ad4fa4f71fa370645b62b38747e826016ea85353e2ddf527f204bca5e4d",
+        "url": "https://files.pythonhosted.org/packages/e9/c7/515427e5bfcaa6cea10991ddd54fbca5d93583f24ec6a7ca8a4b89e89fde/toil-3.1.0a1.dev50.tar.gz"
+      },
+      "3.1.0a1.dev51": {
+        "sha256": "4aae5f552ffcb6ef3b12d659649290d8c5ca3b3549412c5328d988c02a91dcda",
+        "url": "https://files.pythonhosted.org/packages/6e/9b/7fdcd6415019a3d8d781f15aa47ab2399753c1d18b55d04fc68871e64113/toil-3.1.0a1.dev51.tar.gz"
+      },
+      "3.1.0a1.dev52": {
+        "sha256": "0db37fde0bebf67434105c98344be515b0b405c2280fd5f453295754f3fa6183",
+        "url": "https://files.pythonhosted.org/packages/db/21/4d54841ce3ca8fa173be5bb49b04a250d09e4fed6f04c06ee63d18029260/toil-3.1.0a1.dev52.tar.gz"
+      },
+      "3.1.0b1.dev53": {
+        "sha256": "0d11ad5ebcf16fb7cb5cb3b18f3f1a0635bbcfd66706dcb08143719337b73a4d",
+        "url": "https://files.pythonhosted.org/packages/d8/2e/4d2ed226e51bfe7704a321b34b80c9ff9fd91741afc0b3f4db5c3a8fccea/toil-3.1.0b1.dev53.tar.gz"
+      },
+      "3.1.0b1.dev54": {
+        "sha256": "cb90d5efc64cc0f7b6a0b16539368bf7f565b4dd86e1d30c7bc485221b8d1faa",
+        "url": "https://files.pythonhosted.org/packages/75/28/2d253ff57db77c8b76a5a1ce53789eaa815ec0baaf3f5621e3b501e9b1de/toil-3.1.0b1.dev54.tar.gz"
+      },
+      "3.1.0b1.dev55": {
+        "sha256": "85ffd311790c72bf81da874897aac776db0f3605f1f8ba03a3fa5f979d6a0faa",
+        "url": "https://files.pythonhosted.org/packages/3e/1b/0d25855ef165711b62d572db4ff8fb88a3d65394917ba01f677955fd32e3/toil-3.1.0b1.dev55.tar.gz"
+      },
+      "3.1.0b1.dev56": {
+        "sha256": "36df56441d020460ddd3378a4ac84def4a927f9e711482ec160940c3b30edeee",
+        "url": "https://files.pythonhosted.org/packages/36/ff/c0f2bd3bd78ebb93d5dfd2a93120d7ecdecf4730b6e2cacebbfa6844876f/toil-3.1.0b1.dev56.tar.gz"
+      },
+      "3.1.0b1.dev57": {
+        "sha256": "5d15e96d0337a6ec01879fa3251ab48ca7edc27fa7beb724df94bdc5fe37f357",
+        "url": "https://files.pythonhosted.org/packages/cb/5b/89aec626adfefc09c33e474a6b1d0706c454179a0f9f269a4f7f5d4e8871/toil-3.1.0b1.dev57.tar.gz"
+      },
+      "3.1.0b1.dev58": {
+        "sha256": "455a41e2fb1ae87d6d13e99cbc31a98fa78edeb747aa82f21b3b35a6caf9a276",
+        "url": "https://files.pythonhosted.org/packages/5a/e5/ae6abf9c3b64215141cce51657e33fc1d25c3584ff679532d71a455f29d5/toil-3.1.0b1.dev58.tar.gz"
+      },
+      "3.1.0b1.dev59": {
+        "sha256": "d87b785b0a37ced761df4e7d4c5b92ed8253170179dc33d95a780dea7a018221",
+        "url": "https://files.pythonhosted.org/packages/14/ca/acd63de8e53df6b05dcbc8c0d1e8b2630561364a3736052faa0ee178039d/toil-3.1.0b1.dev59.tar.gz"
+      },
+      "3.1.0b1.dev60": {
+        "sha256": "7fa336dff9b48641e3d78e309baadc9a55ae2b2fb178ed6d84a29dbc1b7e7b54",
+        "url": "https://files.pythonhosted.org/packages/87/54/5b36a2b52eeaf076a0f75559fbc4bad78800bf7e1082fd5c6b6d54abb8fd/toil-3.1.0b1.dev60.tar.gz"
+      },
+      "3.1.0b1.dev61": {
+        "sha256": "9c3b7f044fd0d2e2a91842770ef58c58340793a23b3fcbd6e12f79940d735d0b",
+        "url": "https://files.pythonhosted.org/packages/92/80/205f77bfdbe1f415dd81e6b63c3d51a2ed2d93e489cb76de34fb41e7bc4b/toil-3.1.0b1.dev61.tar.gz"
+      },
+      "3.1.0b1.dev62": {
+        "sha256": "90099788c46d88a259a75621c179dd506a20fe3fc332d184d60205a91ba1595b",
+        "url": "https://files.pythonhosted.org/packages/14/04/efa1ecbdab35f5b3aa23747c1480085ea9c00ce5efa2a9f86a87b7cf7a1a/toil-3.1.0b1.dev62.tar.gz"
+      },
+      "3.1.0b1.dev63": {
+        "sha256": "f52a985b2efdbd6dbf6afece007edba3345485e5d3808d03e58722861a473ab5",
+        "url": "https://files.pythonhosted.org/packages/10/ff/3387fec1c94813c54e0888a0666eb6851dc8533023836f061e9750f0b187/toil-3.1.0b1.dev63.tar.gz"
+      },
+      "3.1.0b1.dev64": {
+        "sha256": "849e59a9aca9bd879103343e65b05b7b361742f609058d67f99c6d68fd8262ec",
+        "url": "https://files.pythonhosted.org/packages/85/f5/6e6a8f5090cc9bba3136465e4f98fbd9b9f724a0364ac528381e42915dea/toil-3.1.0b1.dev64.tar.gz"
+      },
+      "3.1.0b1.dev65": {
+        "sha256": "e2e3a8ac57cbcd735ab5d467193efebecc4d9fae90df11f2e719a63543ff8a24",
+        "url": "https://files.pythonhosted.org/packages/f2/39/520a2c8570d3fa6121b2539cfdff3c779bc3cce064cbd29bcab4811eaa0e/toil-3.1.0b1.dev65.tar.gz"
+      },
+      "3.1.0b1.dev66": {
+        "sha256": "d98365e5c689e53a4b561a4a13bf7d4eebd6ad72a69525f6d2de1bb516b742c4",
+        "url": "https://files.pythonhosted.org/packages/98/fa/17adc2c1b6f68c714fb42d7f98588232e06ce446c0d4ef9e61fa5cecc871/toil-3.1.0b1.dev66.tar.gz"
+      },
+      "3.1.0b1.dev67": {
+        "sha256": "c841438196a0eeea612c864d26e4ae0264141435e4a72160c9db346e32ef40fd",
+        "url": "https://files.pythonhosted.org/packages/fa/05/c540de7f7ab159b4d36057fd655764401a2891fdd68ada8494959b33c771/toil-3.1.0b1.dev67.tar.gz"
+      },
+      "3.1.0b1.dev68": {
+        "sha256": "6c5904ecba270cc21c9deae6f67f31b1c593665ee707d9921387f68ac2306a35",
+        "url": "https://files.pythonhosted.org/packages/82/58/7cb777379ebba3354d313b760c5822578242d2b3666a16363815388e8216/toil-3.1.0b1.dev68.tar.gz"
+      },
+      "3.1.0b1.dev69": {
+        "sha256": "c029a80c85d646c386728f6e3b81eabbf6a26c98c44bfa4471a0d88bc7402d99",
+        "url": "https://files.pythonhosted.org/packages/ad/9e/16725f86e92311af6ea936babbb077742c81d23f28640b54931fc0f43abc/toil-3.1.0b1.dev69.tar.gz"
+      },
+      "3.1.0b1.dev70": {
+        "sha256": "e41780aa1430123822a2656b1ae6634263610a8d50700288bf8709c5f315473e",
+        "url": "https://files.pythonhosted.org/packages/9d/e1/973239a912be617fcc61e22ce6677dbd14096a4b89767b06d5a4907bdf06/toil-3.1.0b1.dev70.tar.gz"
+      },
+      "3.1.0b1.dev71": {
+        "sha256": "3c9990acdc75b4e2f98d98266f871f46af1d6d5c39db3186486b2749f58e4554",
+        "url": "https://files.pythonhosted.org/packages/a1/6c/147b5e98e0e7521112c186654590c48c4dce27b518d548e3b5edc9046309/toil-3.1.0b1.dev71.tar.gz"
+      },
+      "3.1.0b1.dev73": {
+        "sha256": "ace82dfc4652f831c88ecf0e83d5d445c2447678804694cb765645de6435a1aa",
+        "url": "https://files.pythonhosted.org/packages/e9/9e/476027506e3b40cb675dba07ae251dac3241111d8f3e9d86306749d1286b/toil-3.1.0b1.dev73.tar.gz"
+      },
+      "3.1.0b1.dev74": {
+        "sha256": "e1692898cbb0eae7bd529d8cdfe52d9e03ae8e6eab179a2f4be7f497a5e581a1",
+        "url": "https://files.pythonhosted.org/packages/12/3b/72d8e808a0d69b736cd52761915cf2e08afdc7f5ca588d46014587d8cf47/toil-3.1.0b1.dev74.tar.gz"
+      },
+      "3.1.0b1.dev75": {
+        "sha256": "a9bffa115c9bb02fe3cadf49f7e9a5e72cd946a0c8f87fb1c6b6d79797b67d56",
+        "url": "https://files.pythonhosted.org/packages/23/4c/d04e8fd1bae81debebb5c87457d6005fa59344c2999cd81ba104a0dbe900/toil-3.1.0b1.dev75.tar.gz"
+      },
+      "3.1.0b1.dev76": {
+        "sha256": "d00171f09b431d00113e3c5ad6b4399bcfe1ceb75140f47fd7800c7e66f977b6",
+        "url": "https://files.pythonhosted.org/packages/90/a2/f94247301765b9a73939a2275d906c41d9b65bb62da3ad0007831ba8c7d9/toil-3.1.0b1.dev76.tar.gz"
+      },
+      "3.1.0b1.dev78": {
+        "sha256": "65b07361a42e27ca2fc9aec4b4cd23ba73acf6c7f2f2f33a1c0c8529e9e853f3",
+        "url": "https://files.pythonhosted.org/packages/6a/cc/e9281f72912c9b526742bc05ba3660915b9d5a67fe1c99566876e8870793/toil-3.1.0b1.dev78.tar.gz"
+      },
+      "3.1.0b1.dev79": {
+        "sha256": "f5ed91e9596df51f75b10dcd8b66793bc944ed71e8b0ea7f362edd8046506c5f",
+        "url": "https://files.pythonhosted.org/packages/0b/80/0084a67c4116ce9b2dd2c5b61614bff2d310fce2784789d308881f645327/toil-3.1.0b1.dev79.tar.gz"
+      },
+      "3.1.0b1.dev80": {
+        "sha256": "9f9ddac50b125d89d59bf7e9736712fbb8e3d79c7026503b669f0fea79458cba",
+        "url": "https://files.pythonhosted.org/packages/c3/28/1e6ebb429fc92b251d34ee311a2545bf92e865a807967427fae3f1b7d286/toil-3.1.0b1.dev80.tar.gz"
+      },
+      "3.1.0b1.dev81": {
+        "sha256": "44add2bdc6cada3c048d881c6759d7936767d90fe7c3a1f47e9e732fb0359cd4",
+        "url": "https://files.pythonhosted.org/packages/8e/cc/46cba4093205a2e4b3be37ec3382033b38ef215bdeb0fc941a95661fe1b8/toil-3.1.0b1.dev81.tar.gz"
+      },
+      "3.1.0b1.dev82": {
+        "sha256": "7a6d8e57baf49a38ddd35ca373c7e2b3b567e79d915fb9af7893ed825e6af9fc",
+        "url": "https://files.pythonhosted.org/packages/0c/70/258cbcfe3afcc68a2463019d1f117e20aeb9dedee5130a0ed3aa38fd14b4/toil-3.1.0b1.dev82.tar.gz"
+      },
+      "3.1.1": {
+        "sha256": "88e6d2cecf58e3935707d0c20596effe1b9cfb62d4f80574d6726eb5e6ddc328",
+        "url": "https://files.pythonhosted.org/packages/2f/b0/0e9b63804cae4248e1061fecec1e602a0ed08215f54313c67b9cfd115d19/toil-3.1.1.tar.gz"
+      },
+      "3.1.1a2.dev6": {
+        "sha256": "65249497b8f5e35926fd064fef06dc3ec5dcbfca22c7de0d4f52d3353484a1a3",
+        "url": "https://files.pythonhosted.org/packages/88/07/d44eeabd79212fed5ad982f7ef91117ecacbd3a8943ea551b47b0d6f43c2/toil-3.1.1a2.dev6.tar.gz"
+      },
+      "3.1.1a2.dev7": {
+        "sha256": "3fd962e1dd8c98e5de43fe40ef10aaac01bbf03b61c4ee5b180997014f29d55a",
+        "url": "https://files.pythonhosted.org/packages/14/62/e0d814e680160abaf251791583decd985f8e2cdcdb781bd8c52c14cd4228/toil-3.1.1a2.dev7.tar.gz"
+      },
+      "3.1.2": {
+        "sha256": "ef7f3b0864832a1adaf2593799d58af8ad87f5447e58e6a10f3791f9b99d765d",
+        "url": "https://files.pythonhosted.org/packages/27/b9/37890153bcec88853ba1e18544008cafefc5b7363dcd1598da46136a9ef7/toil-3.1.2.tar.gz"
+      },
+      "3.1.2a1.dev12": {
+        "sha256": "02a75226d2ab9d97782fc9307e7587c3ad67dbc9939c2dc7aebbc6bed466f532",
+        "url": "https://files.pythonhosted.org/packages/c6/61/bfd4e8cfba939a1293d4f092fff80b4be17b9b9b613a59a70270b6420fbf/toil-3.1.2a1.dev12.tar.gz"
+      },
+      "3.1.2a1.dev13": {
+        "sha256": "3f87edebf6f4629d24ed437f36a19465167459495863ddeadfe12de527a4a69f",
+        "url": "https://files.pythonhosted.org/packages/a9/4b/7732d843b4421abddda43bf2e227eed537ba3e23681e0bce17deade80a0e/toil-3.1.2a1.dev13.tar.gz"
+      },
+      "3.1.2a1.dev14": {
+        "sha256": "846df0371509485e432b68112ded1d44e7d3697572c689fb9e242354f17a450e",
+        "url": "https://files.pythonhosted.org/packages/9c/eb/4827247b52d09132fec196c96d194be808f0ef5141829bd23d4dd5cc42eb/toil-3.1.2a1.dev14.tar.gz"
+      },
+      "3.1.2a1.dev15": {
+        "sha256": "b8e5c5065923e904976438f75219becf11a2dbfb0cc1a5ec70aeb5792408a043",
+        "url": "https://files.pythonhosted.org/packages/a3/85/c42b0ec18017bb298cba6ff11ac93692e835388137fde3d1aea865def2fc/toil-3.1.2a1.dev15.tar.gz"
+      },
+      "3.1.2a1.dev16": {
+        "sha256": "bb3a8c6189c73e0627f86c68ce127c554c3e1634b7534840fe6d32179ea70cc5",
+        "url": "https://files.pythonhosted.org/packages/4f/a6/3a1ed0402afc61aea89b070ac6f3b60ad4af35f664a8d3867cc504ad1bd8/toil-3.1.2a1.dev16.tar.gz"
+      },
+      "3.1.2a1.dev17": {
+        "sha256": "fd098e3a297129c5fea874bfb4f640996d71db57cc00a3affe162fcdb2c4d8b7",
+        "url": "https://files.pythonhosted.org/packages/12/c0/7aa0b5edaf773cd5b959ef72e081a277266d85550bc6b0c17bd19e00c532/toil-3.1.2a1.dev17.tar.gz"
+      },
+      "3.1.2a1.dev18": {
+        "sha256": "fd268033f1d64609b17ee1eb6d74388b9803d1169070311cda05f4c5cc8f242d",
+        "url": "https://files.pythonhosted.org/packages/87/0b/26c78863fac529cdbc5a1f943d8016861d704810369f32fc07d9bf148e17/toil-3.1.2a1.dev18.tar.gz"
+      },
+      "3.1.2a1.dev20": {
+        "sha256": "0610c23a447ea1166d4e3c347b6aa3d94ec07512699d2ff99a5a399460199c11",
+        "url": "https://files.pythonhosted.org/packages/2a/cb/6c690d6a1b80c2f7d3eb87579e2e87d957943185c5a7737f8d6c2edd51db/toil-3.1.2a1.dev20.tar.gz"
+      },
+      "3.1.3": {
+        "sha256": "0ffb2d54676894683837484b0fe5005ee029d318e319541616b9d64f25b20b00",
+        "url": "https://files.pythonhosted.org/packages/ba/0a/eb96eb61fb080e9b76597230ab3b959492803712821e3d6749ec04de7eb9/toil-3.1.3.tar.gz"
+      },
+      "3.1.3a1.dev23": {
+        "sha256": "74ef25a41ac2e1167ced7dca6cf76bcd4f604ba012866e882cf307a2aa8d7a28",
+        "url": "https://files.pythonhosted.org/packages/22/d4/d91d519db42e0725218e31d0881a756b53f829244c4429c7654372367e36/toil-3.1.3a1.dev23.tar.gz"
+      },
+      "3.1.3a1.dev24": {
+        "sha256": "7db03858bde3970b2d28c1ddc73071cb84bddfc12e457050b51978aaa72117fb",
+        "url": "https://files.pythonhosted.org/packages/ea/1c/6efdebcd25cef08313568d0280879b5341fe218ed8e58d0aac9ee7e5d7e1/toil-3.1.3a1.dev24.tar.gz"
+      },
+      "3.1.4": {
+        "sha256": "6d09e5d70986cb66b4292167a96be1dc8cb28edeae9ceb44b2e03b8820cd9df3",
+        "url": "https://files.pythonhosted.org/packages/99/a7/bbe50c8fc9e2bbf5934f0dc54c5cdc5b6097f39858b52b122ef5309a32d5/toil-3.1.4.tar.gz"
+      },
+      "3.1.4a1.dev27": {
+        "sha256": "5ac3e9d821e305a5e88a77e98e10a2f6f01fa1abf5ac27f141e0eab0b46528fc",
+        "url": "https://files.pythonhosted.org/packages/de/7a/f33d8f6400452d962b691baf563185de1246da27d337eccb81ac775c77a4/toil-3.1.4a1.dev27.tar.gz"
+      },
+      "3.1.4a1.dev28": {
+        "sha256": "f33a5d5c1ccb3a43f91fc215176680ef4b6e38b05efc3529ded605ba4884638e",
+        "url": "https://files.pythonhosted.org/packages/0e/cb/e129b8a87e99c221c130c435ff08ba0c927dbf14080ad925209a0ce198b4/toil-3.1.4a1.dev28.tar.gz"
+      },
+      "3.1.4a1.dev29": {
+        "sha256": "3076beb45a9d484a87374dc9b5b735bbe5981a36a6402a52f9e29eaa03c9f2fa",
+        "url": "https://files.pythonhosted.org/packages/8f/30/1e2a61f826d3e60e92615ed499614db09da1c621374853fb84dd25c2f3a6/toil-3.1.4a1.dev29.tar.gz"
+      },
+      "3.1.4a1.dev30": {
+        "sha256": "59b853c980ae0119f84a64402975e9e8301902dd87adb77b6ed3d3f5ae643fcb",
+        "url": "https://files.pythonhosted.org/packages/01/b1/60fee126a34ed2d01684798b42a29de10330d5ee93af15790cfa570b77d5/toil-3.1.4a1.dev30.tar.gz"
+      },
+      "3.1.5": {
+        "sha256": "f0e8d04cdcf69064bee65ac71e2952ba70b271fa75be6a4e55f847d18bf163e9",
+        "url": "https://files.pythonhosted.org/packages/b4/ff/ed2c9dd1d7cb7ae8c8802fc1c58a2ee2a59a7c5a0ba93be6306cd60561e1/toil-3.1.5.tar.gz"
+      },
+      "3.1.5a1.dev32": {
+        "sha256": "d09775ee45bf88fc3b02615d48af9c1d1d3acceaddd74f18314a9ac4a8b163ff",
+        "url": "https://files.pythonhosted.org/packages/32/bc/fad49189964cf2b3b84be38f50ce87ecab98263197c019a3e080f8ec0f41/toil-3.1.5a1.dev32.tar.gz"
+      },
+      "3.2.0a2.dev100": {
+        "sha256": "015fda70c94390e55534fd00c0f0219ee141ff38ea9f988ddd787b4bea620177",
+        "url": "https://files.pythonhosted.org/packages/61/ff/3e8b7b6d2cde6aeaaa48ce089813afd1b32a10e7e3877d3279a4ad98e5d9/toil-3.2.0a2.dev100.tar.gz"
+      },
+      "3.2.0a2.dev101": {
+        "sha256": "87ff8bc11f906ba204295bea14306977d8dc63647623002eebbb183f631102e0",
+        "url": "https://files.pythonhosted.org/packages/05/b9/63b85efd4ef84ca7b4e4c509f669ac78b29677bc84e9e8ad0ba06297259b/toil-3.2.0a2.dev101.tar.gz"
+      },
+      "3.2.0a2.dev102": {
+        "sha256": "1a541fe9b6b242a2b04c7d5e9985645707559115850365ce52682ce0582b749c",
+        "url": "https://files.pythonhosted.org/packages/c3/22/f255325fe39f9933878ce1f793d2debdc3afbc9246a6d0081a75aca5b526/toil-3.2.0a2.dev102.tar.gz"
+      },
+      "3.2.0a2.dev103": {
+        "sha256": "0e7c6d2b58057cca7ec3d31d1b5cda02f1d8ce6515ce5a7c16b7bde17cca77f6",
+        "url": "https://files.pythonhosted.org/packages/bd/22/1ef297c8f83bee67e3a24db00279da990a30de4fae2b89d5939b7d77b961/toil-3.2.0a2.dev103.tar.gz"
+      },
+      "3.2.0a2.dev104": {
+        "sha256": "b9d1ed2eeb1ed60edde50f2b855980188a51caea00cbb7c17c1860b0c13b760c",
+        "url": "https://files.pythonhosted.org/packages/3a/6a/16468068bec68777040c994149b28ef559ed180a52d0ef7523a02d250370/toil-3.2.0a2.dev104.tar.gz"
+      },
+      "3.2.0a2.dev105": {
+        "sha256": "4235fc3957993d2ad2ac1addd7af2c786ebe240d76ff8f8c37a5141b4ee133dc",
+        "url": "https://files.pythonhosted.org/packages/14/3a/5a2872f200ea836b129aa9b25349c0134fc57e6e13f11750191e637b3c67/toil-3.2.0a2.dev105.tar.gz"
+      },
+      "3.2.0a2.dev106": {
+        "sha256": "85aab26c33bd02e36f56c2227d5246aed0ff45d471a70b161e5d6cf2fbff156a",
+        "url": "https://files.pythonhosted.org/packages/45/5b/48e4938a6c5b3da4b4bc9d35dab92077531a15f0cba53ce13ba53054d4af/toil-3.2.0a2.dev106.tar.gz"
+      },
+      "3.2.0a2.dev107": {
+        "sha256": "3f96ea878ae0997dc6ab30b07c1930cf6800c5171253715b92000cad77d6fd06",
+        "url": "https://files.pythonhosted.org/packages/6a/49/0750d37631eb373bf5a58d3a40a27f6e89061a3b2aa9f940388b4dfe5bef/toil-3.2.0a2.dev107.tar.gz"
+      },
+      "3.2.0a2.dev110": {
+        "sha256": "793a9d41dcd73b85dfae7d98b2412f82c6f1526a4c5af2fad2da17f1cf507510",
+        "url": "https://files.pythonhosted.org/packages/1f/f9/600d5a80cf425db3909afc9ed14db0393c9b06cc0beb3620cc45ebaf41fb/toil-3.2.0a2.dev110.tar.gz"
+      },
+      "3.2.0a2.dev111": {
+        "sha256": "0efe5459fa123e3d2ed312976b6f358abb013dc7c4451fad7e63cf5a992e9392",
+        "url": "https://files.pythonhosted.org/packages/de/1e/c3c39989151b38c7d26541f992d4038af8469f1426825dae9470a3f49f47/toil-3.2.0a2.dev111.tar.gz"
+      },
+      "3.2.0a2.dev112": {
+        "sha256": "398fe8418a86b6a587b01003c4552db13ad2cd32e84890b00fdded50545a181b",
+        "url": "https://files.pythonhosted.org/packages/9d/36/a76a1a93eff0d245bca4d4df698847947a57d61cba7489198e7b7f93f5b0/toil-3.2.0a2.dev112.tar.gz"
+      },
+      "3.2.0a2.dev113": {
+        "sha256": "30fb4ca6ed26d2805298d4ad0e456633d924d5a51245cf1ebde407deda008304",
+        "url": "https://files.pythonhosted.org/packages/f1/93/18396ba5c69fed4cc0cc759459fb099995f10311f7eb8c48c80d921bfd35/toil-3.2.0a2.dev113.tar.gz"
+      },
+      "3.2.0a2.dev114": {
+        "sha256": "d4a06d170f1680a516066ae1ce13742e1bd2b1efc1334cbb672dca9a6d1e4f21",
+        "url": "https://files.pythonhosted.org/packages/e1/56/4666a1d4841e17fe0259bced557f7d5dbe9d7ea3fcf7ff400955c3753259/toil-3.2.0a2.dev114.tar.gz"
+      },
+      "3.2.0a2.dev115": {
+        "sha256": "d410c44bfb224bc31f7fa34f69c231bee257e5e4cab347d1dad7995509b7721c",
+        "url": "https://files.pythonhosted.org/packages/15/43/e7109ae6d83fa05f93d55ab22d4b0e312e7ea53d60258b08697b960c4f95/toil-3.2.0a2.dev115.tar.gz"
+      },
+      "3.2.0a2.dev116": {
+        "sha256": "0153b1fbc13c0e3aca723364f97d3b3b489b76ab84c1db56669ba46622b8bc40",
+        "url": "https://files.pythonhosted.org/packages/b0/ad/00ec40faa9eb09268d560c88956e1a036923da54fd48d94eb5550e4acf50/toil-3.2.0a2.dev116.tar.gz"
+      },
+      "3.2.0a2.dev117": {
+        "sha256": "821d2b82ce40544600f511a2edd773075e20ab40678e47ff31df406613a495ae",
+        "url": "https://files.pythonhosted.org/packages/ce/a7/a8c635ef9acb903099794623fc2d166b8a1d1f1741d0e627909ad05eb464/toil-3.2.0a2.dev117.tar.gz"
+      },
+      "3.2.0a2.dev118": {
+        "sha256": "bf38e7b7781716a82687efebdb13a61111c14568e3102ae4f27a5cb3bf0723ba",
+        "url": "https://files.pythonhosted.org/packages/6a/64/ceb80c9fdfbdbc0d0029aa866fd482d8c88554337999eea5e4d290a26a07/toil-3.2.0a2.dev118.tar.gz"
+      },
+      "3.2.0a2.dev119": {
+        "sha256": "cb6dd231086d5aa354904c7c1a1075e65f8bc420b9a48871207bbe003d7eef31",
+        "url": "https://files.pythonhosted.org/packages/e4/40/5f4181996ca319cf50fbe76cf99f9da53b52bc457abf07fd9369b4c8e529/toil-3.2.0a2.dev119.tar.gz"
+      },
+      "3.2.0a2.dev120": {
+        "sha256": "43629cdb75a04f7bd3e0b026a4d192e93f9e728b374b20b1753f8409e0bf213e",
+        "url": "https://files.pythonhosted.org/packages/fe/21/3ce1f35f6179745b3db8884f08deed80d0dbdf5e5f1d022f1f679dce9ed4/toil-3.2.0a2.dev120.tar.gz"
+      },
+      "3.2.0a2.dev122": {
+        "sha256": "1d3c69836372af0b0c6ecef99cf64d8ac7adb4d737c29e4e43b34dc874143610",
+        "url": "https://files.pythonhosted.org/packages/2a/4b/09933848cfcf81f46cbf7b46abd60a5d83c5f985c74f525ba59dbea16dbd/toil-3.2.0a2.dev122.tar.gz"
+      },
+      "3.2.0a2.dev123": {
+        "sha256": "4f6b45023d84f6774bc3151510367b026c9a2f3e45e0dd00a94270f95c2e6fb0",
+        "url": "https://files.pythonhosted.org/packages/e7/f6/5a22c1d46645f37826dd2e7e40f77122711b7509136b0845514217db6909/toil-3.2.0a2.dev123.tar.gz"
+      },
+      "3.2.0a2.dev124": {
+        "sha256": "9486e914f027c1673d9ed8aa0b9a62050fdbb9b9c1aa2635abc75aa918e7c96c",
+        "url": "https://files.pythonhosted.org/packages/77/cd/727e2a7001cf7131187c401d20aaf5b73e8b8d4a4ae8943fbb828cc7a864/toil-3.2.0a2.dev124.tar.gz"
+      },
+      "3.2.0a2.dev125": {
+        "sha256": "f91d6f46a6162feb7438802c696103f7ebb14a36e7f7d121a29295a552fd522e",
+        "url": "https://files.pythonhosted.org/packages/51/11/e61913603348f49a5c4ccbb4660a301f76489f0c67db97882d0de1c2fd03/toil-3.2.0a2.dev125.tar.gz"
+      },
+      "3.2.0a2.dev126": {
+        "sha256": "edf1b3bfd06666bffa973c11e9b7c7ae13d338e6a1161eeb3d65d203ced88c4c",
+        "url": "https://files.pythonhosted.org/packages/5d/41/ffdaee92735eabfe6320edacb7f7fd632991c3265272209c98f4d5293f9d/toil-3.2.0a2.dev126.tar.gz"
+      },
+      "3.2.0a2.dev127": {
+        "sha256": "c6f7ee5a71d097ef4afa9f3bfb85aea83db08c4be192dce7d065ffdb18889141",
+        "url": "https://files.pythonhosted.org/packages/59/4b/91b7f7486c910c6e1ec94f29e0332d781cf2b579132d028506768e386343/toil-3.2.0a2.dev127.tar.gz"
+      },
+      "3.2.0a2.dev128": {
+        "sha256": "a46c65f70615244073b5a4817c0dd23fda6b9b888e0ef109a73a60918dba5706",
+        "url": "https://files.pythonhosted.org/packages/75/be/4712105b36dded36b3c998b7365484b72da117777f1d5054a5dff44689ab/toil-3.2.0a2.dev128.tar.gz"
+      },
+      "3.2.0a2.dev133": {
+        "sha256": "95eabec184f2e8a595ab25e0953ebe0f5e16f2859f658490496a87ad78372e25",
+        "url": "https://files.pythonhosted.org/packages/f8/48/3c6bf06b090ef67fafff7749449a6fba818653fd8ea4d30ca31c40a48ebd/toil-3.2.0a2.dev133.tar.gz"
+      },
+      "3.2.0a2.dev134": {
+        "sha256": "5236484c1c70d7075cfa6bae8f40b3f245de6ee5fb6f7d320a85f31455c9c3f4",
+        "url": "https://files.pythonhosted.org/packages/c9/6d/95731fb5b3ed47ed2b25a235f54c2974d6133731982aaf90b9e6b2ff2bcd/toil-3.2.0a2.dev134.tar.gz"
+      },
+      "3.2.0a2.dev135": {
+        "sha256": "17fd86e0c70a0bdf331607f8f62b2205d79ceef4cf88bbf0b00bb24df455c29d",
+        "url": "https://files.pythonhosted.org/packages/f4/1b/2a268eb63b125134a62ae66806af4c1819bbe79340d10ea811dd7de44483/toil-3.2.0a2.dev135.tar.gz"
+      },
+      "3.2.0a2.dev137": {
+        "sha256": "1e259263126d66c445d84f9761d4cd148f1f45c2518c933fb897fb6cb8fbc261",
+        "url": "https://files.pythonhosted.org/packages/fc/38/3b20ce813a1dc1172abe5d45081f46d2a6c9bc1230c175c84b19889a2db4/toil-3.2.0a2.dev137.tar.gz"
+      },
+      "3.2.0a2.dev138": {
+        "sha256": "f23e2943e33a9dcd92f49c994e141984e0c412998127e0da1af718d16697a120",
+        "url": "https://files.pythonhosted.org/packages/26/e7/ff86f2632f9d93504adfebddf6746357bf9c09f14a5b511598e0ad50f05e/toil-3.2.0a2.dev138.tar.gz"
+      },
+      "3.2.0a2.dev139": {
+        "sha256": "809ec49a272d776bd3f6f6c108abd3a15c1216ef6b979638d94b8bfd7ffa3a04",
+        "url": "https://files.pythonhosted.org/packages/6f/4d/267303cd0969c10a4a74c72fe6f983c25e51ff3b11844b2fd83f9b76cf17/toil-3.2.0a2.dev139.tar.gz"
+      },
+      "3.2.0a2.dev140": {
+        "sha256": "4371773f93736e1193c2fdff237d462f7a7fb30372ce9e056792981317e01a71",
+        "url": "https://files.pythonhosted.org/packages/09/a6/b4a9bca15dfe3d4ee7bfd7fe6aaf32b715eb4477e92bfe9d8f13062c2b61/toil-3.2.0a2.dev140.tar.gz"
+      },
+      "3.2.0a2.dev141": {
+        "sha256": "90d5b5be814ed991096583d61e1d756604847b4dde67aed6b235f0c7f4079c89",
+        "url": "https://files.pythonhosted.org/packages/de/57/06d173acc07934b8db5a10431875c14f7362408f7744d49a9e2ca1ce287d/toil-3.2.0a2.dev141.tar.gz"
+      },
+      "3.2.0a2.dev142": {
+        "sha256": "2d4cbdf17760bc35e274aef53f4678742d5123b8b1ab2fc82dca9ac374763912",
+        "url": "https://files.pythonhosted.org/packages/d2/5f/0651cb38458b8587306f97d90be398637130cfa41ea0301595897b67602c/toil-3.2.0a2.dev142.tar.gz"
+      },
+      "3.2.0a2.dev143": {
+        "sha256": "36664f0f9613fd251830c22ade1327aff73a7ac08c740d8d35130dded1204b83",
+        "url": "https://files.pythonhosted.org/packages/5b/1b/e5956416e67d34b58eca4aaa142e8b1a6564fcc9ec5ccecaa08f96cccecc/toil-3.2.0a2.dev143.tar.gz"
+      },
+      "3.2.0a2.dev144": {
+        "sha256": "be9466e327e118a7c2219f2da7d78a0aae623bd28cde9e340fade8b35f72f82e",
+        "url": "https://files.pythonhosted.org/packages/d5/58/67ff0bb360444d2193136afdd60fcaeea415b4fd72fddca314e6c1667281/toil-3.2.0a2.dev144.tar.gz"
+      },
+      "3.2.0a2.dev145": {
+        "sha256": "07b9c7c4266824f3a789402fde36375406ed7c08238be8cb8bf25d7336a51449",
+        "url": "https://files.pythonhosted.org/packages/d2/0a/0e6dcff89e1c65573c9198b7469f52c137c800c71cfffa124d28175d0ef0/toil-3.2.0a2.dev145.tar.gz"
+      },
+      "3.2.0a2.dev146": {
+        "sha256": "4553845a8f04a83bd712ec59f5edb239cd63aeff7b5e8eeee6ac21871361981a",
+        "url": "https://files.pythonhosted.org/packages/08/3c/bc9ad400b87ef8f4767ed31ee0d903511208c69c352b21097c02d8f07e42/toil-3.2.0a2.dev146.tar.gz"
+      },
+      "3.2.0a2.dev147": {
+        "sha256": "90ce77e419d710d08571cbd8a34d0cfa9df6d943872cd515a7603aa309bcdc80",
+        "url": "https://files.pythonhosted.org/packages/dd/27/ba023752de7a66b20db28b6103b4d20442736fc14c5890cc31d417ecbd92/toil-3.2.0a2.dev147.tar.gz"
+      },
+      "3.2.0a2.dev149": {
+        "sha256": "d47143bca79e98d03f138d0698de4bfe6bfbd5d4bd665e2281ea48f556b4fffb",
+        "url": "https://files.pythonhosted.org/packages/f9/12/103020993837a5cc4c929f4e1d755dcf04f0359a73883735d3a480f9f439/toil-3.2.0a2.dev149.tar.gz"
+      },
+      "3.2.0a2.dev150": {
+        "sha256": "7801ddc2addbc58c36bc714b7fef1631b643a11584103b8f2f0e4e0bfd43cc47",
+        "url": "https://files.pythonhosted.org/packages/51/28/0448130d6e538b3bb0021c0717de29d815da911acb5a8a826617923f1a55/toil-3.2.0a2.dev150.tar.gz"
+      },
+      "3.2.0a2.dev151": {
+        "sha256": "5d51a865aff991482df85b84f78e2fe66676b06942cb40de1d5195b32d186296",
+        "url": "https://files.pythonhosted.org/packages/53/2d/893992776c7b3d36f2fd835526c234aa0d6fe9b09c3c928840fbd5ff81c9/toil-3.2.0a2.dev151.tar.gz"
+      },
+      "3.2.0a2.dev152": {
+        "sha256": "2bb61e80d92b70f48af7fe071feb457ed2287c217abac89acd1e2022c767ce2a",
+        "url": "https://files.pythonhosted.org/packages/59/81/d97fc299349a0e36c95feba5d23b0573edf365a5663c09cb43e068169628/toil-3.2.0a2.dev152.tar.gz"
+      },
+      "3.2.0a2.dev156": {
+        "sha256": "be4df2c171ee0e6176b4bce480993108c57a86a7111467abb3ba9531508d5f5b",
+        "url": "https://files.pythonhosted.org/packages/8f/ed/c47dc86f2881a4bc1b7915d7ef53ff32fe45500a5b23d54d5ad6710c46b3/toil-3.2.0a2.dev156.tar.gz"
+      },
+      "3.2.0a2.dev157": {
+        "sha256": "18a871da5ff2fc16f79a8f9443a881560c2f4159fc09056af63e968b0644d5ce",
+        "url": "https://files.pythonhosted.org/packages/6d/ce/ad948dc8c8ff878543de837372e27cd54d6a3531a06644f95b604cebbbc3/toil-3.2.0a2.dev157.tar.gz"
+      },
+      "3.2.0a2.dev87": {
+        "sha256": "67cc15bff801f4fa91653253da1088f0ce239d58b9d1b013d52b33d62fdbc511",
+        "url": "https://files.pythonhosted.org/packages/8e/d6/23a59b1619ebc90e567d7a49e50faa68d2241dc276ec1eb4bdca0e25149f/toil-3.2.0a2.dev87.tar.gz"
+      },
+      "3.2.0a2.dev88": {
+        "sha256": "09d8b15d483845d3414db004160711f855a0cbf8815527e1b74087450c7d3e36",
+        "url": "https://files.pythonhosted.org/packages/96/09/e1850d68dcaba556b30dfec6598bdbd140e9af0b11049b9b8e7426f4e1ae/toil-3.2.0a2.dev88.tar.gz"
+      },
+      "3.2.0a2.dev89": {
+        "sha256": "bc676e9ccb2b79d6cda4680a7329b59aa3c8dcdf1963f4d2c48294694b63b0ea",
+        "url": "https://files.pythonhosted.org/packages/f0/3b/4392ccb799e35431128f869717e19895d8cef1de5aad4778320bb91f6ca4/toil-3.2.0a2.dev89.tar.gz"
+      },
+      "3.2.0a2.dev90": {
+        "sha256": "203ed7ab80af950a3765aeb30135098a4f030ba7a69b7abf0714248af796e2e5",
+        "url": "https://files.pythonhosted.org/packages/4d/85/9eb27ef05d5b16f775e85f4f0320b7c7a9c854e58719b05e80842074710e/toil-3.2.0a2.dev90.tar.gz"
+      },
+      "3.2.0a2.dev93": {
+        "sha256": "fccb3d346cdf3ae8a554e01dfd48e46ffb8e55f0bc64beb067aa26a15eec4d72",
+        "url": "https://files.pythonhosted.org/packages/82/3b/7fcb5f846b1f74ba0087162527f366cb28b3672271cb3c9f6921a9595f87/toil-3.2.0a2.dev93.tar.gz"
+      },
+      "3.2.0a2.dev94": {
+        "sha256": "9f9cd495cb3a8f7922029ed27f20f7a09b9a30e03de0792be9782e1ecfd67bb1",
+        "url": "https://files.pythonhosted.org/packages/be/e1/edf37fec1b1c183c56c53af45798f0ebed52cd443242125656a2e9d065fa/toil-3.2.0a2.dev94.tar.gz"
+      },
+      "3.2.0a2.dev95": {
+        "sha256": "24c002c2d7a8a49f4d772fb821637061ffffe5a4afc96cf7cb1c701de89b4b06",
+        "url": "https://files.pythonhosted.org/packages/54/ab/27e6df828bcd2ff9bdd727646fd2b793216cdfabbf2563824d4796be49bf/toil-3.2.0a2.dev95.tar.gz"
+      },
+      "3.2.0a2.dev96": {
+        "sha256": "e4f89a7e7646c8e9428acb11066ea5611bd33f3002cf1ec84ca92532c61faac6",
+        "url": "https://files.pythonhosted.org/packages/f4/07/9c02cc0c39ac631d4767d054f3062ee2acf232216cd7d5a33c8cb9348fdb/toil-3.2.0a2.dev96.tar.gz"
+      },
+      "3.2.0a2.dev97": {
+        "sha256": "c44ccdc07e06a252fb55ef3cb6c7b7710a437025ff7655c294ae6d89f86c9c6c",
+        "url": "https://files.pythonhosted.org/packages/02/8b/fbc6500af131ab51e5294438fd3349fc1438756d5c5e1d11e47a0d9caf1e/toil-3.2.0a2.dev97.tar.gz"
+      },
+      "3.2.0a2.dev98": {
+        "sha256": "8f458d8bbffc7c53a987910d0ec98cd0bd9be85c6e54b1d8cda44958b32fff9a",
+        "url": "https://files.pythonhosted.org/packages/d5/b0/546641e6278484ebe24a4dfcc7a6ff7eb91648fae61211756152be26acd6/toil-3.2.0a2.dev98.tar.gz"
+      },
+      "3.2.0a2.dev99": {
+        "sha256": "b5b7ab532089699ead6f689ed23bb849a6e4905bbc175c18777e026a242ee8b3",
+        "url": "https://files.pythonhosted.org/packages/8a/79/8390a7164f0b4abf999f6d6f336730ae73c3690eb6333dec6dc66844a1b8/toil-3.2.0a2.dev99.tar.gz"
+      }
+    }
+  ]
+}

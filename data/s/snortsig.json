@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A module to simplify working with Snort signatures",
+    "homepage": "http://www.github.com/Phillipmartin/snortsig",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "a0417c9d0a7e5f87fc57f411db6cf7905e7820d5215f8327ff52c23aeeef2043",
+        "url": "https://files.pythonhosted.org/packages/13/4f/651731606c17b8c17b3e5b62fe0f1d5ffa58c1bf7e5552a521150189ba52/snortsig-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "c172f9c820a158a726da8aa2aa1e8de3c0b9ea909af3321721401f8a2780270f",
+        "url": "https://files.pythonhosted.org/packages/41/23/de02b34292432b20cd0c0b53f25c7e9037851e50e04b782083ff2494ed2a/snortsig-0.2.tar.gz"
+      }
+    }
+  ]
+}

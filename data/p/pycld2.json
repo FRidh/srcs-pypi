@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.31"
+  ],
+  "meta": {
+    "description": "Python bindings around Google Chromium's embedded compact language detection library (CLD2)",
+    "homepage": "https://github.com/aboSamoor/pycld2",
+    "license": "Apache2"
+  },
+  "versions": [
+    {
+      "0.23": {
+        "sha256": "8f252c70576abd742f11e32feb9778bb97c8e82b66020bd56bea3e1f196817ae",
+        "url": "https://files.pythonhosted.org/packages/49/02/bd1932e947f18cc54cc8937f21f6a78aee84610a9f6bae2f7923b585d878/pycld2-0.23.tar.gz"
+      },
+      "0.24": {
+        "sha256": "b230c4b9e2e910f033c058ae88d8746dc0d4dbf2370b2f1766f422417c27b76b",
+        "url": "https://files.pythonhosted.org/packages/33/4d/8af30ec250274328df4829a89d28134218badd822f0536c2852ceefc6669/pycld2-0.24.tar.gz"
+      },
+      "0.30": {
+        "sha256": "a89b5d3562c00235726890bcd30ee30e382d3a56650994586a8f0c2c63aa8c93",
+        "url": "https://files.pythonhosted.org/packages/7f/af/a23829c2dbd6f19f2c07f9f670dfaf061723154f00048e647020c3c5cc09/pycld2-0.30.tar.gz"
+      },
+      "0.31": {
+        "sha256": "7d0f51b1550a6f964409f55f02b1f784d59a0d1b2718efa87c14d43344078403",
+        "url": "https://files.pythonhosted.org/packages/21/77/8525fe5f147bf2819c7c9942c717c4a79b83f8003da1a3847759fb560909/pycld2-0.31.tar.gz"
+      }
+    }
+  ]
+}

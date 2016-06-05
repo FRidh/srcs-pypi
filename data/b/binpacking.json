@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Aims at optimal distribution of weighted items to bins (either a fixed number of bins or a fixed number of volume per bin). Data may be in form of list, dictionary, list of tuples or csv-file",
+    "homepage": "https://www.github.com/benmaier/binpacking",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "9bacc9b5a3c1bdab30e8e3ed9a046e185ad7e7cf34923929cbdada8981a45f6f",
+        "url": "https://files.pythonhosted.org/packages/d0/eb/7a7e6f4be7376260e97879cf51f1e3b9ff614f31e97355b3e26a587a2535/binpacking-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "391be11adae73cfeacc1cd2be6642f843b5ac5a06d92d5ab449ffc1dddcec459",
+        "url": "https://files.pythonhosted.org/packages/51/d6/a26db6fd38fba493c3bfbd51e91b14a985bcc08dcf2900a9fd850f3b8507/binpacking-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "8c9ea06beaaafa4ba13bc98dbafd2d4b482b225a25a6151e62220563faafc324",
+        "url": "https://files.pythonhosted.org/packages/9b/e4/a7ee63c0f201c5edb5817e36f964c571112fc00b23e8887bee4b41ac97f4/binpacking-1.2.tar.gz"
+      }
+    }
+  ]
+}

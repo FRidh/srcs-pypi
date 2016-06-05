@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "20160312"
+  ],
+  "meta": {
+    "description": "Python bindings module for libsigscan",
+    "homepage": "https://github.com/libyal/libsigscan/",
+    "license": "GNU Lesser General Public License v3 or later (LGPLv3+)"
+  },
+  "versions": [
+    {
+      "20150725": {
+        "sha256": "58a98e83f539e2fb15ce461610c04657a646aa52b781f49e6f2b035152bea645",
+        "url": "https://files.pythonhosted.org/packages/d3/11/3dabe8ea2c985ef9c98755ab4022570fdfba112188f10221e76743bff5dd/libsigscan-python-20150725.tar.gz"
+      },
+      "20151205": {
+        "sha256": "52f0840920703c22167c672223e3d957303dd6dd37d7c739288ad7e8e52fab3b",
+        "url": "https://files.pythonhosted.org/packages/c7/c7/488f7b50abcc50ca469eb0c64a50d72989cdec379279b7df60abd9732a9e/libsigscan-python-20151205.tar.gz"
+      },
+      "20160109": {
+        "sha256": "7fd1d103d71968adbd738b11eebe34e57535c3a76c8d4d6458dab4f30629f4e4",
+        "url": "https://files.pythonhosted.org/packages/c7/0b/ae82ddc1a8ec317f86a364cb2d45f6d9f5b62d6ebd3e9c9f356ff9b7b6f7/libsigscan-python-20160109.tar.gz"
+      },
+      "20160312": {
+        "sha256": "cc065dfbd94f4914ac691ac48e5893a901eab31959f5a82672e23cac0f320720",
+        "url": "https://files.pythonhosted.org/packages/15/e8/d5ec4d6f64e0da7e9cb50e3c2e95e06894660d2808884bf1bf21e5a33a48/libsigscan-python-20160312.tar.gz"
+      }
+    }
+  ]
+}

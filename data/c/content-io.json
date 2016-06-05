@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Send content through a highly configurable pipeline including cache, plugin and storage pipes",
+    "homepage": "https://github.com/5monkeys/content-io",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "bcb0b7ee74fc1331e7ed518fd126900db76d42ddf6decd66c9741a1fd04b814b",
+        "url": "https://files.pythonhosted.org/packages/75/bf/e1211fed56a4808d04d2d852bc0b3bbb7799ffbe1d0f04de70733b32b744/content-io-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "29dea8bb44e4f7689ac6908f53c0f3d43d9f07abd95f8198d4659a48917fa5c9",
+        "url": "https://files.pythonhosted.org/packages/8f/b4/788789394078b3fc2c3fc31326d73bc3d086d612475b96caf088fec1697a/content-io-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "d40c5af7f47a28052a0233dc0a1617e0c3b87de3f3d997cc408c2aa4473936e4",
+        "url": "https://files.pythonhosted.org/packages/ab/47/283a33dd6d5ddef900971fd86e35ccb3e99b501f1b88ca915b8fe8379901/content-io-1.0.2.tar.gz"
+      },
+      "1.0b7": {
+        "sha256": "942b91daef89ecef20b5fb4a9209a8ccd96ad1f371271d0aae51d8d310381c6b",
+        "url": "https://files.pythonhosted.org/packages/b6/b6/deb7ace203b13fc591bb2a9a056e77742ab8753474d491941bd5101d735b/content-io-1.0b7.tar.gz"
+      },
+      "1.1": {
+        "sha256": "0ae7ec2980c7ab4a1dd902a0353876a7d5ee105d3a3f08c6ac09367c79807594",
+        "url": "https://files.pythonhosted.org/packages/ee/d8/f6e4add34b2f9add7fe99e2ae2ecf13c9f09748a2214d573d2932bdbc94d/content-io-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "5b38f51eb6da8982bb86407d54aa64c0a8eaf29644254221e9cd422d128add37",
+        "url": "https://files.pythonhosted.org/packages/3e/3b/d2cfdf1ba8b9df578b47eea223097434915744e58950a52ba6e94b07f966/content-io-1.2.tar.gz"
+      }
+    }
+  ]
+}

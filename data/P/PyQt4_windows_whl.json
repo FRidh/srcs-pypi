@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "4.11.3.2"
+  ],
+  "meta": {
+    "description": "Python bindings for the Qt cross platform GUI toolkit",
+    "homepage": "https://github.com/takluyver/pyqt4_windows_whl",
+    "license": ""
+  },
+  "versions": [
+    {
+      "4.11.3.1": {
+        "sha256": "c035e0221922fc288794f5a5088d07f1586d0a46c4d1234104747d7126bd23a2",
+        "url": "https://files.pythonhosted.org/packages/4c/08/866e57f36634c4be02ac34362ba32ffc34733a40d4f0abcf5cc5ba002790/PyQt4_windows_whl-4.11.3.1-cp34-none-win32.whl"
+      },
+      "4.11.3.2": {
+        "sha256": "57b32537af637d887dda061423ad813a671614afaf8aecce62931d3a5a2d253b",
+        "url": "https://files.pythonhosted.org/packages/8e/89/71ab53a1802f0f97c334cb5dff2402d04ffd363e6da432488d4862cec461/PyQt4_windows_whl-4.11.3.2-cp27-none-win32.whl"
+      }
+    }
+  ]
+}

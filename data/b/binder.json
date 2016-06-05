@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Binder is a lightweight mapping engine for SQL databases",
+    "homepage": "https://github.com/divtxt",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "ce96c38748adf5695935069df9fc042b25c8cb72cfc285e8fdec5ca122818014",
+        "url": "https://files.pythonhosted.org/packages/96/b5/ff986c4bd358edf7c43af19afa6d9cf7de6d4cd8b5a403e6fdc98d4c84f6/binder-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "8548986d61dd4ad59d447eb22dcafe48af9c06d6e2adcd67f12098e806806623",
+        "url": "https://files.pythonhosted.org/packages/03/e2/3606600b8b67b0f9ca52c3aada5222cf9d5a90b91b86e0fb2a343743af63/binder-0.6.tar.gz"
+      }
+    }
+  ]
+}

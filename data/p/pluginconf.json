@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Reads meta comment block from source files, pyz/package contents, module locating",
+    "homepage": "http://fossil.include-once.org/streamtuner2/",
+    "license": "Public Domain"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "ac817c8f10c48fe06fd5f5866f0b3d8971d42ba1f8b746d15865bf15be78a091",
+        "url": "https://files.pythonhosted.org/packages/e5/42/e933bb9b9e3036c802ed85382525c92c209d8b9b0940415d9715a2e9fd73/pluginconf-0.5-py2-none-any.whl"
+      },
+      "0.6": {
+        "sha256": "47d520854c52978640d6711e62e6991e957e17e4be1a0975d5e5a93d844f2bcd",
+        "url": "https://files.pythonhosted.org/packages/72/93/c7a5e901cfe4bf5e030788c1ac3acd2d48b04b940d1d60948a7cdfbe7c0c/pluginconf-0.6-py2-none-any.whl"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "A toolkit for adaptive importance sampling featuring implementations of variational Bayes and population Monte Carlo",
+    "homepage": "https://github.com/fredRos/pypmc",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "ee4ecdd6d2781fed53fd323bdaca4281e90b90202ce640280b6ca066292530cb",
+        "url": "https://files.pythonhosted.org/packages/34/24/2dbe8bbf22ab63cfdb544539c6bf6cae53b7bec12ddad0e0975f63830e1d/pypmc-0.9.tar.gz"
+      },
+      "1.0": {
+        "sha256": "af3ef3ac7223844bcdd140ec5b0d0f237db3cfe7bc682ede95298f19b1d19706",
+        "url": "https://files.pythonhosted.org/packages/b4/aa/af3a2922201a70044b67eab592da35a8cf2b7688fef56674794e1d57fe08/pypmc-1.0.tar.gz"
+      }
+    }
+  ]
+}

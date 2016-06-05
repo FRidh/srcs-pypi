@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "GELF (Graylog Extended Log Format) for Zope",
+    "homepage": "http://eea.github.io",
+    "license": "GPL version 2"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "78c3b4a0a3bd83fc2abbbff99604f4a983902d3377e2f4e097c857138400f47f",
+        "url": "https://files.pythonhosted.org/packages/f5/e8/b08ced89ada48366c8269aa8a0832e3038bf813b34600b9b0abfabc02f6e/eea.graylogger-1.0.zip"
+      },
+      "1.1": {
+        "sha256": "a0165ca3555305c06c448bac5c8588b3896bcac95e0e7f67672afcb01c61bc40",
+        "url": "https://files.pythonhosted.org/packages/b0/ab/626bb2ecb5dd7e0a415d73d2235f880c71c2cbb79d4e717094114505629f/eea.graylogger-1.1.zip"
+      },
+      "1.2": {
+        "sha256": "40413a57c08c2fef295d3f218547f3a225b7bd936931ff916c65ca9e75b5723b",
+        "url": "https://files.pythonhosted.org/packages/ab/16/cee74310e7f1ff9e44abae0461c13fe8d87389bd1811bcb9dfdaa24df9ea/eea.graylogger-1.2.zip"
+      }
+    }
+  ]
+}

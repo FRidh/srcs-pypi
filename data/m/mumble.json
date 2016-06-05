@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Python library for Mumble",
+    "homepage": "https://github.com/rfw/python-mumble",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0": {
+        "sha256": "381bbe380f1d4188e009f823bedddbf59bffc1869eea2e3babe7fb70a30700e0",
+        "url": "https://files.pythonhosted.org/packages/68/c0/3694ec608182b400dbc9ed5a80c4c6b0b2e370878a275bd24aff08ee099f/mumble-0.0.tar.gz"
+      },
+      "0.1": {
+        "sha256": "554635021bb64c97fb090992c2a36283c7e209c3fd78841f63601f258936d237",
+        "url": "https://files.pythonhosted.org/packages/04/26/8721c3d279753e642bfd312689b8a453e3d520873c1f1feb78271ae23aef/mumble-0.1.zip"
+      },
+      "0.1.1": {
+        "sha256": "d856b6a4d82d40d14e3d11bc87c07da0488099270a018ecd7c376f7fdefc145e",
+        "url": "https://files.pythonhosted.org/packages/0e/e5/92cc7bf0a7179684fd8803809a3e1a73d4f1d95f51e2fed01abf1a7dddec/mumble-0.1.1.zip"
+      },
+      "0.1.2": {
+        "sha256": "01cb2ce64a3d65f0accc8d3891a47e11f262e1db081ee9cc8a6eadae2dd48a90",
+        "url": "https://files.pythonhosted.org/packages/e5/a6/e94d2cec6916e783e2a1df66e6ba45038cab529bf2f94d301c2ceaf37dd3/mumble-0.1.2.zip"
+      }
+    }
+  ]
+}

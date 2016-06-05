@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1release"
+  ],
+  "meta": {
+    "description": "Python wrappers to the Oak series of sensors sold by Toradex",
+    "homepage": "http://snim2.org",
+    "license": "GPL2"
+  },
+  "versions": [
+    {
+      "0.1dev": {
+        "sha256": "a36e9542c3780bf0e375091570fe8cff644a09a9a62cefdab6a011c95aa81c80",
+        "url": "https://files.pythonhosted.org/packages/8f/15/8617827f7c73bee00240e396329a3c857ddc28badd24640b4faacbc05557/pytoradex-0.1dev.tar.gz"
+      },
+      "0.1release": {
+        "sha256": "292f2e96e8c771d820f998999d75821b818324cdb108b7e26bba105819c7eb21",
+        "url": "https://files.pythonhosted.org/packages/69/07/b9cb831bb2334ad1cf10ccd968efd15524dc44d453f86b42e53ccc0fc8b9/pytoradex-0.1release.tar.gz"
+      }
+    }
+  ]
+}

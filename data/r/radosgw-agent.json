@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.2.5"
+  ],
+  "meta": {
+    "description": "Synchronize users and data between radosgw clusters",
+    "homepage": "https://github.com/ceph/radosgw-agent",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.2": {
+        "sha256": "61f5b962326e7a83bb1d24d14e0758ab351c5229bb4f6fed72d99f8f59336401",
+        "url": "https://files.pythonhosted.org/packages/07/89/675a5f2b2a37af4aa9cbc80100d280ef3a6dbecf9c84c15c567e99961346/radosgw-agent-1.2.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "c1d55bae84a26aabdf037077c593526bff3f0336e65fdce311ab6ab7f2ed3f22",
+        "url": "https://files.pythonhosted.org/packages/ed/09/46a4dde451e7250ad2cace66f265ba11afda56b45d44d3804dbec73dd7d8/radosgw-agent-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "073382a61680816af3c4802cba8ddd019e83623c80c60387f579c649f28c62a2",
+        "url": "https://files.pythonhosted.org/packages/a9/30/0a2160aec2916dada3825931214fdf5805135ee2b87bf0112dc2459e1dce/radosgw-agent-1.2.3.tar.gz"
+      },
+      "1.2.4": {
+        "sha256": "b9289c7f7208e6de1fda805c0140c4f0a5b3db4c3a886323f64928f405dea22e",
+        "url": "https://files.pythonhosted.org/packages/3d/e7/bbac863bee7cc474df6c7fa4a484729191289212cc0b1f03f0957096e6a0/radosgw-agent-1.2.4.tar.gz"
+      },
+      "1.2.5": {
+        "sha256": "b363d1ab6c0ae5215607f39d0ad2a2a2be6f16c3586a7131f39e32bfdba48ddf",
+        "url": "https://files.pythonhosted.org/packages/c1/2d/36c92c790306552e0046a99d417976a98d1c5657f6bc6bd724f15cbd1722/radosgw-agent-1.2.5.tar.gz"
+      }
+    }
+  ]
+}

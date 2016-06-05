@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "A toolkit for generation of output for the web",
+    "homepage": "http://genshi.edgewall.org/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.6": {
+        "sha256": "32aaf76a03f88efa04143bf80700399e6d84eead818fdd19d763fd76af972a4b",
+        "url": "https://files.pythonhosted.org/packages/3e/ef/64bd33c8acc94839db8e1b1df6110e0efcb495997c8578b68144886cdc82/Genshi-0.6.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "fed947f11dbcb6792bb7161701ec3b9804055ad68c8af0ab4f0f9b25e9a18dbd",
+        "url": "https://files.pythonhosted.org/packages/86/76/8d1102518c32b8de38e4d26e0914c9b0bf7448f4e11523890561ee5b3454/Genshi-0.6.1.tar.gz"
+      },
+      "0.7": {
+        "sha256": "1d154402e68bc444a55bcac101f96cb4e59373100cc7a2da07fbf3e5cc5d7352",
+        "url": "https://files.pythonhosted.org/packages/c5/2f/34493b2286561d0ea003c568a6c80343eee3c9975a69964d22ce8501dd3f/Genshi-0.7.tar.gz"
+      }
+    }
+  ]
+}

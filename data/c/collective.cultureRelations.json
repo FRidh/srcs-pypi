@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "A setup for collective.viewlet.references that configures it for cultural institutions according to the INTK Online Strategy",
+    "homepage": "http://svn.plone.org/svn/collective/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "0505c1c8bf61741eb3e61357331333da3990cb91ab051e528db5ea799bd7de09",
+        "url": "https://files.pythonhosted.org/packages/66/f7/f4f3b1b8d18967d2184f34c9853439cf89e8a893233b172762056e3bfe8a/collective.cultureRelations-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "72bc6280ae8b6cd5c82e096c3e5dfa036ac2434c6decf41709a3aae7e3b9bb4c",
+        "url": "https://files.pythonhosted.org/packages/e7/7b/686f17bc40967d4d59a5dab62a8d11151e2ceb3a09dcca24a813c97d14cf/collective.cultureRelations-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "ea605d624b0fb0991ca167831b8ee73828c1dc448e2c41314b760b829b979e7a",
+        "url": "https://files.pythonhosted.org/packages/ea/9e/e0368905c64b36b9df306e48ec24a471d53ecb1c45ad943f58d4ab8944b3/collective.cultureRelations-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "c061316229e7f1609db77ea11a19d55ed36a1a1516543d4896c34859a38bc32e",
+        "url": "https://files.pythonhosted.org/packages/59/fa/3490b6d6cf44550bd625f2ea3561f69f9fc22ca2ab5c710a9f913ea18c91/collective.cultureRelations-0.4.linux-x86_64.tar.gz"
+      },
+      "0.5": {
+        "sha256": "c7401fa06f75af18cf4db00b9eda4520c091396dedad350539828788ba91c462",
+        "url": "https://files.pythonhosted.org/packages/fd/7f/9bfee04a182053673216d1b6a6031a2ac2fc8d3e5da3be215d0cb8c7cd7b/collective.cultureRelations-0.5.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "latest_version": [
+    "3.6"
+  ],
+  "meta": {
+    "description": "A HTTP 1.1 client module supporting asynchronous IO, pipelining and `Expect: 100-continue`. Designed for RESTful protocols",
+    "homepage": "https://bitbucket.org/nikratio/python-dugong",
+    "license": "PSF"
+  },
+  "versions": [
+    {
+      "2.0": {
+        "sha256": "a09ec3a3cdb6e93dd314f47bb09e28b741a309caf780f2b838a880cc61e55546",
+        "url": "https://files.pythonhosted.org/packages/a1/14/33bb6cc1dbf33b8ed4681407e296aa65c729b0f863e7da988ad4ecc54181/dugong-2.0.tar.bz2"
+      },
+      "2.1": {
+        "sha256": "49ed37f3e39051b82ab5d7a66bb4fd65fb6e3c9b70fcd6b09fbe565a848e625e",
+        "url": "https://files.pythonhosted.org/packages/a0/b0/563dfaf09af652409b5959b61290c40967d3260ff4e1d4b2097c9e60e584/dugong-2.1.tar.bz2"
+      },
+      "2.2": {
+        "sha256": "4dff77cfb23a571e4bbc123e39141437668a4a561771471b0f0e0ea3230e12df",
+        "url": "https://files.pythonhosted.org/packages/01/b8/67d4714e7c854b9d62d55b96b146223e7996415a085a6acba49d34baacfb/dugong-2.2.tar.bz2"
+      },
+      "3.0": {
+        "sha256": "7bcf0179a033cf60e6de687bd71554ddeb3d96fe38ee3ff94fe5786dd6f59cb5",
+        "url": "https://files.pythonhosted.org/packages/6d/4b/2d5532277bb901b369228da971079567c2b9de5a85844ef73f755bd5abd3/dugong-3.0.tar.bz2"
+      },
+      "3.1": {
+        "sha256": "97153fb6d734fe29fa20dab8f5918bb36ebf5313273ecdb36d44db0e78aae537",
+        "url": "https://files.pythonhosted.org/packages/1b/6d/01657372b5b65e9c0378504b83dbf6e5d642b5248b1fd20480199deb871c/dugong-3.1.tar.bz2"
+      },
+      "3.2": {
+        "sha256": "a9413f1a8d89b927e0c39646dceb1e1987b3f550dad7e80c81250ca80def3246",
+        "url": "https://files.pythonhosted.org/packages/2e/fb/a4fce295a2fde02fb90f2f6df451953a1b3e7326b50f340195b4f1c4fc50/dugong-3.2.tar.bz2"
+      },
+      "3.3": {
+        "sha256": "0bf297e84181f8a368394d41b94296b0fd5f914c21f241b84cb86bde9dcf093e",
+        "url": "https://files.pythonhosted.org/packages/a3/a9/3fe095b80c8d56a1f7e2c00166824005df43fc1d3b36d47a06daa8ded1b3/dugong-3.3.tar.bz2"
+      },
+      "3.4": {
+        "sha256": "148a65931b52e030f8eb5e1dd2740eb62754ad0c831d15c22f923f7f8274ad33",
+        "url": "https://files.pythonhosted.org/packages/83/f5/849b01d417a9cc42bc6c4164871905ed2de15153917dfcd6aa1ea6e23300/dugong-3.4.tar.bz2"
+      },
+      "3.5": {
+        "sha256": "44bc81cd25b2e8762458b59f2f2382a3e59869c457edbbcdfe03541e576f1978",
+        "url": "https://files.pythonhosted.org/packages/29/7b/18a7a006cc8c7c4e1a6e9b74484b6654958a246b760c34562490129cdaac/dugong-3.5.tar.bz2"
+      },
+      "3.6": {
+        "sha256": "d7f424bfc8e342970e195e80f5edb5858c074f6a112a28e46a53a6e44cef116b",
+        "url": "https://files.pythonhosted.org/packages/e5/4f/472b63c5ebc23c29fd4ab7012d9d1a69b2870942c8d2682de144bcc5004e/dugong-3.6.tar.bz2"
+      }
+    }
+  ]
+}

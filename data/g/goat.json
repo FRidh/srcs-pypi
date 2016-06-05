@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Goat implements a behave matcher which uses python3 function annotations for step definitiions",
+    "homepage": "https://github.com/cuescience/goat",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "4af2c7a677991dc72b67493a4b88adc7c470b58fa7a3d42f9bf3978c5953ff0d",
+        "url": "https://files.pythonhosted.org/packages/48/c6/3f68526f9f9641f2d3411c0d9893a09793a47980a2cdd3268872f411d130/goat-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "a9782d112c72c234ed7adbc4eb4e7e516b46026d1b47673808ff2f3105bab4b2",
+        "url": "https://files.pythonhosted.org/packages/9d/9b/7c96a93a355f526d25fc7e30fb16195976c0f3974efa87950a1d6ae3f47e/goat-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "a2ffea81302be5f368aee215f599add46fe6aa25a156fcbc9ab0d23a5c6bbd5c",
+        "url": "https://files.pythonhosted.org/packages/aa/cd/b7598f87cb23dc67ac0f8836ba298a615c556f42568403bcb45b2bef4177/goat-0.3.tar.gz"
+      }
+    }
+  ]
+}

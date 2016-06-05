@@ -1,0 +1,154 @@
+{
+  "latest_version": [
+    "0.8.9"
+  ],
+  "meta": {
+    "description": "Python MySQL Driver using Cython",
+    "homepage": "https://github.com/nakagami/CyMySQL/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.5.0": {
+        "sha256": "3e1c1a2bee13e297e94fa1308caeda61c4df0ae9cd73f67a611abec0c40c3c9d",
+        "url": "https://files.pythonhosted.org/packages/c5/7b/a105d6565bd806c4c252c0ef90f4cc5224cf88529e40d5ebdfbbc46de391/cymysql-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "27be16548055eec2ffc1df4b1b9b939e703900ef158330db8656dc559438c194",
+        "url": "https://files.pythonhosted.org/packages/ee/b4/620f6d21d85484bc6428ad24467da5f55def37afb5335ebaba574e614a8a/cymysql-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "f738d7f7929bd7622d752d64374ca41d591c132f319879f4a95f105ab7294b83",
+        "url": "https://files.pythonhosted.org/packages/24/e6/a43d1974af9ed73c92ca63aee07ebe634bdf9648ba40f347eb4b0b104a17/cymysql-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "44c66ea42ba7825baf7e6a9c1b88fdfb29e5d40621f1f3ffa4824a06ffa50fcf",
+        "url": "https://files.pythonhosted.org/packages/33/43/19e30ef61d4745fee8278fd36ed0ac18616073e30905f51e357b3fe6bc97/cymysql-0.5.3.tar.gz"
+      },
+      "0.5.4": {
+        "sha256": "5cff1e3479c26b7db73990c5aa7abc49b281ee4e1cfa91320583751f445b51ab",
+        "url": "https://files.pythonhosted.org/packages/e8/8f/4691b20a5a6c054b1c3a59de3b524d7130454fd3b279ad722b03dfe99f50/cymysql-0.5.4.tar.gz"
+      },
+      "0.5.5": {
+        "sha256": "37e1f26fb17d9b0522a38541e21c44a0592665486e7718cac1c39f86fe029ea9",
+        "url": "https://files.pythonhosted.org/packages/91/19/78b1938a576b6bc7d2dfc27af1a9b94a38c73d01aed945baad406abf23fc/cymysql-0.5.5.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "25d815e4cdd9d9f66ceac1daf9b2d28adb2c92886c13e5cf30ee9e19f79cae20",
+        "url": "https://files.pythonhosted.org/packages/7b/83/072d9eb8c2a1214b67c555969cd4f1d747201d9a0042ff2ec91d24dd091c/cymysql-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "544d28ac219aef4cdfd41071a2bf0be46e8a49e9731e13ca4c7234eb3bad488a",
+        "url": "https://files.pythonhosted.org/packages/41/46/65998a600c903f33910e6892c7218b43a1d7492052954a69a2a03d73490e/cymysql-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "b5a4f36ad955860659b0ebbcbdf1a8be67c5c20e8ad5f27ad91a969c22594c76",
+        "url": "https://files.pythonhosted.org/packages/e9/4d/90d9674cafa41444ecf1fc66da18db77fe94ce4eb1d020f016c3dd771e45/cymysql-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "6f84b97293c105d46be210a7599dcac6edc898c1f908e369f338b8b8b59d96cd",
+        "url": "https://files.pythonhosted.org/packages/91/94/264cb8aec02cf568c5b68f68393d51e4795e11171800d80fb67b0180fe99/cymysql-0.6.3.tar.gz"
+      },
+      "0.6.4": {
+        "sha256": "9af90474bfc2b1d28ec519d41b08b4b4beef5518b6793e6d422f84c2554debd2",
+        "url": "https://files.pythonhosted.org/packages/2a/f4/3d67fa98dbb0a349424559b44fce7f08aea2f0e4f3fff0a96ffc4b1b4ffc/cymysql-0.6.4.tar.gz"
+      },
+      "0.6.5": {
+        "sha256": "574c9a7e29af081fc49974a56ec9f288d574a36736eb932c82b3193231b80b16",
+        "url": "https://files.pythonhosted.org/packages/6f/11/eeedd491a3acecb0f959c263cb48597ee41410e9a602603dfc8de791305f/cymysql-0.6.5.tar.gz"
+      },
+      "0.6.6": {
+        "sha256": "95573aea6257cf00596b91e53e67e6fbcc711d95005c6498ef5aa6efc362d235",
+        "url": "https://files.pythonhosted.org/packages/ab/22/71d2ea4bb038004a13a717624a8b48b0fb4e4288e649c8c73f55348a0706/cymysql-0.6.6.tar.gz"
+      },
+      "0.6.7": {
+        "sha256": "92affe753c2f274a931301d18175c23a6cf7a98fc5f71d0022761b1514a1be2b",
+        "url": "https://files.pythonhosted.org/packages/f9/49/b06f693b10e9f3bf0262fd502a756424e617cdc58fb876c2a57ff01834e5/cymysql-0.6.7.tar.gz"
+      },
+      "0.6.8": {
+        "sha256": "ac281c07d23ce33ae07fa3576e7bc0ee3bdfcd4cb123c8727a0cbab23efac636",
+        "url": "https://files.pythonhosted.org/packages/d7/df/907840db310d3dff2bf2f47085bd357e5300b4941a87637883a7497294dd/cymysql-0.6.8.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "c4a4a045884635a17893bc7311d28c9f62daa99ad68ba151133ef22b934ab70b",
+        "url": "https://files.pythonhosted.org/packages/7c/f2/f6347df3b10bb80e317d084c3eb8b98a960b1875b10e307fb3f1ed8d5ec3/cymysql-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "a26a862fa67353fc84c577927717fe3b3c4983a0d8292b5fbf64141f761ee843",
+        "url": "https://files.pythonhosted.org/packages/ab/36/99dee8dfec11679e874fe47d2cd39abb15879f1d8b756ad7ce2e4e2d9cf3/cymysql-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "1c466eb4f22d55a5e59301ae81ffccc866a73c14b0ef0ed36d7cc9ebac5b4bd4",
+        "url": "https://files.pythonhosted.org/packages/5e/e7/89893bd8964522e750ff27bca68e274687f746ac8661d0291f6fee4ba62e/cymysql-0.7.2.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "7c2ee29da815ee068a2fc2608f35f7db381d17c18108ff36684872ef13bf220c",
+        "url": "https://files.pythonhosted.org/packages/c1/bc/cd97e96871bef93586e3a4d8d7490faf5279907a14e358b196fe074806e2/cymysql-0.7.3.tar.gz"
+      },
+      "0.7.4": {
+        "sha256": "4aea526cc6c8cbfeda60182ac53f00513a7eb4c1966d986052f1d5b494ec751d",
+        "url": "https://files.pythonhosted.org/packages/43/f1/0b86c63c57b283f914cf9815710ac4508a0e9352edf574870649d84990dc/cymysql-0.7.4.tar.gz"
+      },
+      "0.7.5": {
+        "sha256": "73189f0affe9ac405480a91d4975d849fa5cf2840471da3aff632929e163b32e",
+        "url": "https://files.pythonhosted.org/packages/d3/60/b87fde6dd545844ed8d8573894488ff4890cc280fb444a84f91ea30342f7/cymysql-0.7.5.tar.gz"
+      },
+      "0.7.6": {
+        "sha256": "b5da5c6dc6a67ca3d17ebdecd0a09f8d404fe71a271e6ca1b7638f9d55e9aed9",
+        "url": "https://files.pythonhosted.org/packages/63/df/67f16e7eee6b0a3e0a4f7bf479801794c1c97b37ec75c6ba36a2ce8dc923/cymysql-0.7.6.tar.gz"
+      },
+      "0.7.7": {
+        "sha256": "4d888bbdbf73634d06556c0a3b8960fef698ed73b98ff000801d08b77c95f9ea",
+        "url": "https://files.pythonhosted.org/packages/2a/e1/6b352c0645eb5a5ba77dc5b0660fa0c34cd8b0fc58e1a5c3ca5806bf248d/cymysql-0.7.7.tar.gz"
+      },
+      "0.7.8": {
+        "sha256": "9efd9a0f4dab2b58c9ef2cd2364d59b42768314bd765af6313c199647083d7d9",
+        "url": "https://files.pythonhosted.org/packages/77/0d/86f116b7e99611d8c9af6dea476b93280ddca0f9971174fe83762090905c/cymysql-0.7.8.tar.gz"
+      },
+      "0.7.9": {
+        "sha256": "d84b083f4ec23e28c8293078924cc6d9b88316449aaa89f39b83af86c4f0314d",
+        "url": "https://files.pythonhosted.org/packages/b0/de/ce5c5b3af5781e7d4e46709971ed794a618bf3dd43ed964c6614fb25f896/cymysql-0.7.9.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "0e78640d357618f45fe4221df9c840cb8f930e933aadf62de4a7d18417c3bd21",
+        "url": "https://files.pythonhosted.org/packages/d9/74/689a20475e2265e8ead33dc15d84cd783bcc12cdc4186b9ccfd177c92ac5/cymysql-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "dcdee3f5959c1d32070dbe03569990a1a79844598f706ea4e9231bf08f7aa283",
+        "url": "https://files.pythonhosted.org/packages/9e/9d/dd8c0e38e0abe11989c12fe162aab0cf14a710fb04b1a05f3fde85a8acb4/cymysql-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "0bcb26538be6fa75e9bfe6e03d2661e609da83c60dbc203e999c0f8112bf5db3",
+        "url": "https://files.pythonhosted.org/packages/4d/e6/f3b6b4a421beaad9e762a74af7f60d4467aff06d79f5251c8c9fc9b6e53b/cymysql-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "9e34277a88d7f360e3f7ccb61036a789dcb6b279bfa1fa47c27fd53af081f984",
+        "url": "https://files.pythonhosted.org/packages/e1/88/db7dce170bb0455e110d2aa9157ca38c233aad75537dc4d93ff9ce7e6bbe/cymysql-0.8.3.tar.gz"
+      },
+      "0.8.4": {
+        "sha256": "2892b9f9fa9a740fae1d61e7980e125b7e4f7bbe719c0e6e764564ea366423e8",
+        "url": "https://files.pythonhosted.org/packages/79/a3/52a3f678fb0abc091742e9e7d6d943881f6d84984c689883c44ab96c707d/cymysql-0.8.4.tar.gz"
+      },
+      "0.8.5": {
+        "sha256": "36b49f4905244a287d743731eb29747ff9232ccbc5e18bff7302285c417c6acb",
+        "url": "https://files.pythonhosted.org/packages/e4/68/bed75d82c03cc258a2d5cea14312b7ceacb4e943a9b7380322a9812c10eb/cymysql-0.8.5.tar.gz"
+      },
+      "0.8.6": {
+        "sha256": "275da4fa0ee4128f7aadb987042e123e3bb4df38f6ca5fdec40a18cd74f111b0",
+        "url": "https://files.pythonhosted.org/packages/b6/08/ba9bcef6235927ffbfc94b366232949e1adfd9a229b48f1c3c844fda8088/cymysql-0.8.6.tar.gz"
+      },
+      "0.8.7": {
+        "sha256": "6acdf5839fd98ef0a360960bac8d40f66fad36b100dc0215f67632baed405503",
+        "url": "https://files.pythonhosted.org/packages/30/4b/bfc226a95f5599df35a63972c330eeccaf91e34a2e65d1113a29c3095549/cymysql-0.8.7.tar.gz"
+      },
+      "0.8.8": {
+        "sha256": "a22e7fb43779a927a35b85f6cd852cce4aeb2905003f075191b29aa5b28fc34e",
+        "url": "https://files.pythonhosted.org/packages/2b/91/ab86b91020afaaa4a5a2b6a25b5e2fb7d2b5edb50cfe511b0edb1646f943/cymysql-0.8.8.tar.gz"
+      },
+      "0.8.9": {
+        "sha256": "ff91ee4fc47d0b21447c7108afa1fec52979c8b4a8c9d9126020d9e589744acd",
+        "url": "https://files.pythonhosted.org/packages/9b/6e/f6a4e5675dc8dd8a23eeb7745b3c84d12e7e91a74922c143bd51b4c85a8c/cymysql-0.8.9.tar.gz"
+      }
+    }
+  ]
+}

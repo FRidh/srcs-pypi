@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Alternative and faster (vectorized) version of gdal2xyz.py",
+    "homepage": "http://github.com/cayetanobv/raster2xyz",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "ebc0a7c9658dafcf78e4d1d491ca053dadb9aa4c70dc59fd8004cc571430bd99",
+        "url": "https://files.pythonhosted.org/packages/61/69/059faad489ec5adfc1c736a1c5d5fd7315d9fb885cd6bd91d5f7d31a7b0c/raster2xyz-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "be9bc5286d74c856760c89d0c6a316f1dfce71ad7fcb049aa9470963994fe5b5",
+        "url": "https://files.pythonhosted.org/packages/cc/eb/a34c1b0eb149760ee51d112f47cc26adb762ac592d183c484551d41e2773/raster2xyz-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

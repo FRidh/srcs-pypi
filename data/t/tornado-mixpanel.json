@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "An async client for mixpanel",
+    "homepage": "https://github.com/alejandrobernardis/tornado-mixpanel",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "ee06b2eb8872600fef373dee4ef06ed341491b15df50e34516149f509edbc473",
+        "url": "https://files.pythonhosted.org/packages/ea/99/6229eba9c5947580881e7c6725771e50fb1233637ebd745815753c2055fd/tornado-mixpanel-0.1.macosx-10.6-intel.tar.gz"
+      },
+      "0.1-dev": {
+        "sha256": "9bf83b347d300f74ee78af32795204b9878857fc07f48d4e07729219059f9bd9",
+        "url": "https://files.pythonhosted.org/packages/2e/dd/281f44ae7898d4bf9d630c63fb0e95e66fafdc2fb2c90263779dbef9f449/tornado-mixpanel-0.1-dev.tar.gz"
+      },
+      "0.2": {
+        "sha256": "e14bb67febbc9ee20eccfb35cc28d1deee561f49216225815abd8a077bff4479",
+        "url": "https://files.pythonhosted.org/packages/d6/f2/c0c39b53777a6cb1703dfa7fd165d57fe0dd565442a59586ce305c567184/tornado-mixpanel-0.2.tar.gz"
+      }
+    }
+  ]
+}

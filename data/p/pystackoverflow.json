@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.3"
+  ],
+  "meta": {
+    "description": "Tool to use Stack Overflow services from CLI",
+    "homepage": "http://m0g.net",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "1.2": {
+        "sha256": "f09717009ae387472147acb58b52e8896f3b6f847259c095fa004b6669f0ac8f",
+        "url": "https://files.pythonhosted.org/packages/83/49/7dd51a8bf49161a4684b04e78f0db322756339a3e73672553f39834251a1/pystackoverflow-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "f1a6ac0f673d413584ef9f53af20f4807e8671acd8ad772095f390b2b9944e28",
+        "url": "https://files.pythonhosted.org/packages/04/9c/b15ade8dc68cc831915e692a22a15371f8efe4fa1de6636154ca49a2c89e/pystackoverflow-1.3.tar.gz"
+      }
+    }
+  ]
+}

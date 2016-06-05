@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.1.3"
+  ],
+  "meta": {
+    "description": "A Python logging handler that sends your logs to Splunk",
+    "homepage": "https://github.com/zach-taylor/splunk_handler",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "2cc62fe4bf911dc9bc3509b2f1942b22139dbb853ada59d4161c3f5d0cd097ac",
+        "url": "https://files.pythonhosted.org/packages/24/a5/0e54b64d4f780fdb53d8ef6c91301d6295187aec0bdc4ced0190e6ad69fb/splunk_handler-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "290c1844499c40d3ba1783720934c771a673798f12ff41e1812d758095fea0c7",
+        "url": "https://files.pythonhosted.org/packages/92/ed/70126a39bc72b3cc4ec47d969e141fa32b3bbdfde26cf3b81901bb296a4e/splunk_handler-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "9160792b6a22a907974e3aecd78b0b461ba9ed6922b6cbe6412efe9c6d5c8bc9",
+        "url": "https://files.pythonhosted.org/packages/9c/15/c84fea227b4b9b1ffbd9f77a01e0572c83fb8591d9d1daa4535c64fc4259/splunk_handler-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "779384fae9f893d6a326fbfd96d913315619223fbf4c4d195f5b352af0bba26a",
+        "url": "https://files.pythonhosted.org/packages/ab/e2/7ccdde4e62f249662ecebe681b4e0a81dd38d812ec5e48c465d88baf2baa/splunk_handler-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "36290d44bc3fce877d68e7ef3b684d8d3212f1a47b7360891621be8fd1ce5c11",
+        "url": "https://files.pythonhosted.org/packages/32/c5/c56e1e41d8499de72747a87edb2f0cc703ee76b87e11d318942508f5221c/splunk_handler-1.1.3.tar.gz"
+      }
+    }
+  ]
+}

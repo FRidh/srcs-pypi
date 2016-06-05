@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Abstract workflows for distributed data-intensive applications",
+    "homepage": "http://dispel4py.org",
+    "license": "Apache 2"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "165199a466915f39555839ab6dbbb4c10cce27ef57be28aa49d3fb2f24e39f64",
+        "url": "https://files.pythonhosted.org/packages/87/50/3cff46245fbb9900acd19c1d38b78d8f6b3a18cf10ddbdbfd17b9ca80024/dispel4py-1.0.1.tar.gz"
+      },
+      "1.1": {
+        "sha256": "a9dec1de409c6ca6bfd365067db431a5bdd2a99f6d13db3391ce2263ae2d6f91",
+        "url": "https://files.pythonhosted.org/packages/ee/07/60135fd5d86e2e9c4dcf67cb104efa21238dbd487b2456d3415d0147039e/dispel4py-1.1.2.tar.gz"
+      },
+      "1.2": {
+        "sha256": "0426d3d5cd1293bdf3fa8b59cca63f14f68dfa3ec193eabbbac1792c5918c320",
+        "url": "https://files.pythonhosted.org/packages/d9/a0/8b63b885fd7de924da2e547b947de32716e1a22f635f4b569b55ee626bdb/dispel4py-1.2.0.tar.gz"
+      }
+    }
+  ]
+}

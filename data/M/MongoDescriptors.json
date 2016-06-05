@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "Some really basic descriptor-based utils for interacting with Mongo",
+    "homepage": "https://github.com/nightpool/mongo-descriptors",
+    "license": "LICENSE.txt"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "af922bcfe8d6e701ff5b73baac1b3e4d958876b0fa4dca5e71cf188034fdb11e",
+        "url": "https://files.pythonhosted.org/packages/65/21/2ec1a885945351406eec8e7ce8fb20faf13351ad69f9633e17b539e9f376/MongoDescriptors-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "07a9ffeafdda915d27bb032f2d9d1e1b37c4dfebd19e7df6197278d88434efa2",
+        "url": "https://files.pythonhosted.org/packages/05/93/dd9c1206afb0490c0c112f12e972aa76ceaa2e6b0ae906dbdb9d8a883669/MongoDescriptors-0.2.0.linux-i686.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "1589ed30d1e17fc95c3d192053ffc0e7d2ec74a3dc22834b9ee995dfa0b1014e",
+        "url": "https://files.pythonhosted.org/packages/10/64/a0a62cb31608ab41bb866ef3f7d3c94541876f6b1c099c46e11db2d2a629/MongoDescriptors-0.2.1.linux-i686.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "1df8c703177e018e157d17bafd1373ae69fe1bffcf540d94de3c80c3977c03e5",
+        "url": "https://files.pythonhosted.org/packages/45/99/5c8640152c6e7563ccf62ac19ac370d41cd1c44a6aed4a7171ee6e5919c1/MongoDescriptors-0.2.2.tar.gz"
+      }
+    }
+  ]
+}

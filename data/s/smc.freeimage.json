@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3dev"
+  ],
+  "meta": {
+    "description": "Python wrapper for FreeImage and LCMS2 libraries",
+    "homepage": "https://bitbucket.org/tiran/smc.freeimage",
+    "license": "GPLv2, GPLv3 or FIPL 1.0"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "92037ee73586db0d17c7645c9e9340d0f339685e4d502e47fc9108f5eac2ec37",
+        "url": "https://files.pythonhosted.org/packages/bd/cd/1d1f377e50ac5f9d4d74f862cd380c94f35dc3109415c8804cdd9f047c27/smc.freeimage-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "645116cf0f967810b2a54ceae87276cc5cfd87aeb6380ff34058c64fa637987f",
+        "url": "https://files.pythonhosted.org/packages/43/df/f9bf8bbfad53c98ee275f9b02408f19e56fd3d8e55d7457ee44a903366ba/smc.freeimage-0.2.full.tar.gz"
+      }
+    }
+  ]
+}

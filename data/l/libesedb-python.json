@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "20151205"
+  ],
+  "meta": {
+    "description": "Python bindings module for libesedb",
+    "homepage": "https://github.com/libyal/libesedb/",
+    "license": "GNU Lesser General Public License v3 or later (LGPLv3+)"
+  },
+  "versions": [
+    {
+      "20150905": {
+        "sha256": "1a3777f22cb366c2c1c4bd97296cd3d7e97c1868626214a31b9495715d931732",
+        "url": "https://files.pythonhosted.org/packages/a4/69/c53777c3795bcdcbabc350edb54c701608f40eef099765eca6d7e60c0237/libesedb-python-20150905.tar.gz"
+      },
+      "20151205": {
+        "sha256": "16301ac0a0da08ba5b7255ba3c023641db677cb79f068063e63965cfd7713903",
+        "url": "https://files.pythonhosted.org/packages/e8/c7/7985cff37e72f90b159c1d2ecac6bde9d251e551be27216f6e2ebbb752c8/libesedb-python-20151205.tar.gz"
+      }
+    }
+  ]
+}

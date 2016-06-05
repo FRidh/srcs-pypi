@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1.4"
+  ],
+  "meta": {
+    "description": "Enums with zope.schema vocabulary support and database-friendly conveniences",
+    "homepage": "https://launchpad.net/lazr.enum",
+    "license": "LGPL v3"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "8b460a116d97de5485997a5510d164edc53f6338e878f465ee76b3490115488e",
+        "url": "https://files.pythonhosted.org/packages/f1/89/4b3121675c4d47482a11e7eadfb56425dba555b71d84c976de291867ce76/lazr.enum-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "bc3db7e5fe73e2b1c00f52c590ebe4adca486f267885d20629db34cbbc58c07d",
+        "url": "https://files.pythonhosted.org/packages/da/24/cda9c3e6f416cbf67b21335ab5b745c5c947ac9b58ab83e28a366e0fbffb/lazr.enum-1.1.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "a36107aaf6421fb0e36b9f403567c223d29ae45dce02affa5c7c026069ddb25d",
+        "url": "https://files.pythonhosted.org/packages/ac/ae/fd6dde4423d198a5f6863846f245aa8ab7062df7236a959d0f5fb2861360/lazr.enum-1.1.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "2015.0303"
+  ],
+  "meta": {
+    "description": "Provides access to the geolite2 database.  This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/",
+    "homepage": "http://github.com/mitsuhiko/python-geoip"
+  },
+  "versions": [
+    {
+      "2014.0207": {
+        "sha256": "1e1fe82078f99197dc69f87ae9b53c0bb1043851b546f69f0863f086e35b13cf",
+        "url": "https://files.pythonhosted.org/packages/23/28/f3eafcdab81d13a15fa8f561b7caa0e9240d0188ef48895c599ac473eea3/python-geoip-geolite2-2014.0207.tar.gz"
+      },
+      "2015.0303": {
+        "sha256": "3562ab598a25c19a62f57a4e00210f9732524c1005343ff4f74a1f0bd412ec98",
+        "url": "https://files.pythonhosted.org/packages/df/59/3f611ecca70bc91959e3e1ec325f7835d15cc35585af71dbc6c1123be48e/python-geoip-geolite2-2015.0303.tar.gz"
+      }
+    }
+  ]
+}

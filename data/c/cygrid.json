@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "0.9.4"
+  ],
+  "meta": {
+    "description": "Cygrid is a cython-powered convolution-based gridding module for astronomy",
+    "homepage": "https://github.com/bwinkel/cygrid/"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "32ee1614d1e4c5e8c5cd3aa2409a26016df67fb7730f7c34685b69da740ef4a1",
+        "url": "https://files.pythonhosted.org/packages/04/25/e4761ea2a8cec9f320aa7efa80a9fe6d94f9561b586886dbb8fc858d9ebc/cygrid-0.9.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "af66755c56692588e417d77961674a4b0ba12d202d00e9a7f9951126ed2525b1",
+        "url": "https://files.pythonhosted.org/packages/0d/8a/0b34c4593de0d0104c1c393583a00ad2288faf49542e0730f3dbef9b83b5/cygrid-0.9.2.tar.gz"
+      },
+      "0.9.3": {
+        "sha256": "e88d1399b635f76c94871c8e4802cec20979338085fe736d2dd04c16ad2ba187",
+        "url": "https://files.pythonhosted.org/packages/a4/11/4397606c22154799b0336129dffaf09b1c157c79212291e6545bcee41086/cygrid-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "6288d26c4c2c17e4d1c1391ee8e288efa16a1476ad95ddf2b3fd84ef4fb82646",
+        "url": "https://files.pythonhosted.org/packages/5e/8e/e1ce837f056d00cadfff5cc3502fd96041bf9b87ee6650d143d284378645/cygrid-0.9.4.tar.gz"
+      }
+    }
+  ]
+}

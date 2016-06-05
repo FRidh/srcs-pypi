@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Python bindings for the Rust `fst` crate, providing sets and maps backed by finite state transducers",
+    "homepage": "https://github.com/jbaiter/python-rust-fst",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "bf093354aa40b74261fcd7e7e2146d3265710fd9d9205025662ed052351e13b0",
+        "url": "https://files.pythonhosted.org/packages/09/77/d545744f4b1229facca55fc9936599ca6cc1cb5117b350754ed327ca3ff8/rust-fst-0.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "e647e9ae1c38ae2e6f6967ea7bb9075bb06c020e5d0f344f4182786040105886",
+        "url": "https://files.pythonhosted.org/packages/fb/88/db1427d446119800e00c6e01bd2ffc2cab6babe39e84a014e6afef4a9b22/rust-fst-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

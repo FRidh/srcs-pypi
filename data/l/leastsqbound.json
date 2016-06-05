@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Constrained multivariate least-squares optimizer",
+    "homepage": "https://github.com/jjhelmus/leastsqbound-scipy",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "bf636d9520df1da5f02157bfbe7dfba25a34fa4ca35a98e4898964074d08cacc",
+        "url": "https://files.pythonhosted.org/packages/ac/3e/526d8232e7545a9fcb380308a0b6234c0be1178eb77c3bbbc8219cad01ac/leastsqbound-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "d567c792c8fef2fc33adf70212652f49ced41b6bf0d55b514c7117d717542bd0",
+        "url": "https://files.pythonhosted.org/packages/ab/16/454f411b90a577b01bc33851f2303ae7625d770dbec0f1b69142e97c0250/leastsqbound-1.1.tar.gz"
+      }
+    }
+  ]
+}

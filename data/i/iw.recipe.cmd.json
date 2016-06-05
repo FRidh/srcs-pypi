@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "ZC Buildout recipe to execute a commande line",
+    "homepage": "http://plone.org/products/iw-recipes",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "3489b059f29a58e1bc67bddd3089004482dccdc6a91235b4c7fc655ec25403e9",
+        "url": "https://files.pythonhosted.org/packages/ba/19/d4aea00c0b245819d561b936e17953c64209e5dfbb2ce1bfc980c3791563/iw.recipe.cmd-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "aea18acc5912ea4fc2f2e0d6b2d9d87b7050876cfb10c32867711e9bea7cac3a",
+        "url": "https://files.pythonhosted.org/packages/40/49/a7c51fdfbf3282ff4c3e31edc544a9259c10c52b1f404c7261f68a19a760/iw.recipe.cmd-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "2664738a4f6c62124e1c412de0a4e6e6b3c493dfd82625394b1d063e9b221720",
+        "url": "https://files.pythonhosted.org/packages/c6/94/9cebf7ecf811d72a8a2c51a652df088afbdba27a25fb21f4129c8366ddb6/iw.recipe.cmd-0.3.tar.gz"
+      }
+    }
+  ]
+}

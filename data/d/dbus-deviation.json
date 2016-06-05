@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.5.0"
+  ],
+  "meta": {
+    "description": "Parse D-Bus introspection XML and process it in various ways",
+    "homepage": "http://people.collabora.com/~pwith/dbus-deviation/",
+    "license": "LGPLv2.1+"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "d6078479308914cac63c95a58bb51500ba16a3182568a384e30b45d772e260c2",
+        "url": "https://files.pythonhosted.org/packages/c1/9e/6faeac495c04434e469c53098a9bd9822810fd977d0e8d23671fad40d54d/dbus-deviation-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "796278830c0dcb11243a2395a3a9509859c70d0ab216112bd7bf18a12487eaa2",
+        "url": "https://files.pythonhosted.org/packages/76/59/0fd85166dc8a7630644304f495ec511287d2cf86f83aac99c96a5dd4b029/dbus-deviation-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "631d933bd4180a90129eed014bc2846ecd6b484a67ed59d79b257e9d65298256",
+        "url": "https://files.pythonhosted.org/packages/02/eb/20991eddd39b1bea5a3b5ddb51379f7ba46961cf9e91472618a87802a137/dbus-deviation-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "8469ac64f3cd0d404a7bacfb3651ff03d6fa7f62a16df2bbe530f7368b4bfef6",
+        "url": "https://files.pythonhosted.org/packages/d9/2b/e5d89fa299d6a5655a1dc5e8f5b1aaaa57440cc70be4e045e1a5bc001593/dbus-deviation-0.5.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "A simple Django app to register logs in admin backoffice",
+    "homepage": "https://github.com/makinacorpus/django-admin-watchdog",
+    "license": "GPLv3+"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "ada506a4329ae5ec261e2895e5570bd8846051ebdab5ef4fa8eb10426a8add2f",
+        "url": "https://files.pythonhosted.org/packages/5f/7f/3b5ae64452e46113e9d3b6cc8f03fbd351a09e7cd4e7a9ad5f36b6ac881b/django-admin-watchdog-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "db74c766ca432f974e4c69174f5864e38fcc83a4293929862818d8b1bbc5b100",
+        "url": "https://files.pythonhosted.org/packages/90/1c/6e74b6698c9387dbae02714c63588e93844c3065e8d70265cdb688fe5ff1/django-admin-watchdog-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

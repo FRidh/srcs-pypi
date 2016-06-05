@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Testtube watches a specified directory for file changes and runs a set of defined tests against those files whenever a change occurs",
+    "homepage": "https://github.com/thomasw/testtube"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "d9601f3760fa5c694ae144fca444300226715ac64d2ea6146ece18685532cda2",
+        "url": "https://files.pythonhosted.org/packages/7f/40/04cd4f9ee2a6f204038466225dc858777799fbd7ebd574da92c744f1ecba/testtube-0.0.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "618aa8e4a51f7f1fba37edfaa3800a16fceca235c462195b3349621178fe9490",
+        "url": "https://files.pythonhosted.org/packages/a7/b9/76cf387eff599483acf71f01d78969e26a02c63392c2d6df6e3b176695b4/testtube-0.2.0.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "072e3f7f2b495cd195dd930355c62fafba27ea1eb1fc16725872d17186bfd8df",
+        "url": "https://files.pythonhosted.org/packages/56/5f/cc78b51559da51567f271699fef9561c54daae217502e93bb28811488529/testtube-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

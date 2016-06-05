@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Migrate a redmine project to gitlab",
+    "homepage": "https://github/oasiswork/migrate-redmine-to-gitlab/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "29b616ef882963569d19d99c39051def5352e8d81964e4809001c0d2cd69dc2c",
+        "url": "https://files.pythonhosted.org/packages/1b/7d/a04dfecf5baebf0746b3e94e0070cb9745dfe0c506fae347c3ae2c3cdbb8/redmine-gitlab-migrator-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "27349bb95e2a9410951a814e5ca8c318343b4f4642e0129e9ebf9fc01c5ad5d7",
+        "url": "https://files.pythonhosted.org/packages/2c/63/2dbbeb38c5a984cd571d9bbd8adf462190af1bc88651948b492d56e4127c/redmine-gitlab-migrator-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

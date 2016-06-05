@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Kerberos authentication filter for Openstack Swift",
+    "homepage": "https://forge.gluster.org/swiftkerbauth",
+    "license": "Apache License (2.0)"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "d194b70a2d90a63ac2ef017fb275f17235bca76fb74b2cca402f88e25b065faa",
+        "url": "https://files.pythonhosted.org/packages/fb/18/128f4ddbbe169a04287a12eb62da32977f5930fe1f3ed64cff7575628e11/swiftkerbauth-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "a9b08129585574b482624ffbeaacf57f71660bb566f6cd484731472602871426",
+        "url": "https://files.pythonhosted.org/packages/11/68/b233054dd4e23af37a8ea521a812f3644d96de78b6e8c82328125108fabb/swiftkerbauth-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

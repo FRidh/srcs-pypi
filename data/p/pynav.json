@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "Python programmatic web browser to fetch data and test web sites",
+    "homepage": "http://bitbucket.org/sloft/pynav/",
+    "license": "GNU Lesser General Public License (LGPL)"
+  },
+  "versions": [
+    {
+      "0.6": {
+        "sha256": "2673f41f42020e4f5a77dff4fdc808ea5fd0353754685943242853231eef671f",
+        "url": "https://files.pythonhosted.org/packages/5b/3b/db163f272d03398b7b7cab3566896666760ec3ba49407f20f4bc123815d3/pynav-0.6.tar.gz"
+      },
+      "0.6.5": {
+        "sha256": "a5c7c3a43097e8c341f92c4bac32214150b5aedc9c295c28c857a4af1a802041",
+        "url": "https://files.pythonhosted.org/packages/8b/83/e35dcf7c62e2ef20859e8ddcd3a3ce1a9cbfcfc3ce34ca050088f153714a/pynav-0.6.5.tar.gz"
+      },
+      "0.7": {
+        "sha256": "346e60a4ac4ff2754bfa7b9953af31369de89c3c25195b00db516d52104e8b22",
+        "url": "https://files.pythonhosted.org/packages/7f/5d/163a6e250d4fe95bdb07bd8bf8be149e3c3c3598a6ebdff827b31074de6e/pynav-0.7.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "A pure Python implementation of the Windows API IDvdInfo2::GetDiscID method, as used by Windows Media Center to compute a 'practically unique' 64-bit CRC for metadata retrieval",
+    "homepage": "https://github.com/sjwood/pydvdid",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "a6955461aa7b9b26d0a688311f64332b99c725bac183d2b08bdec557f89034be",
+        "url": "https://files.pythonhosted.org/packages/44/ff/cab6c34546a2fa271e497f3ea439f13adf761f43f0e371ebc0c98bc9f82a/pydvdid-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "1c4e5461aa41cd05980c0276fdc8f4859068142c9ba5f8040bd9fb44c4c774c2",
+        "url": "https://files.pythonhosted.org/packages/c5/c9/c937923e6bd942cb5ba10cabc8cf0fbc272aac144b8317e77aae2c0eb4c1/pydvdid-0.2.tar.gz"
+      },
+      "1.0": {
+        "sha256": "110a1dd64e82267ce612f520ca57d8bc21477935e75882303256d1f4cd2f130b",
+        "url": "https://files.pythonhosted.org/packages/6b/50/9925c31189107a845ce5ae77b078e76d759af3dbf4c2989727333bdc9a71/pydvdid-1.0.tar.gz"
+      }
+    }
+  ]
+}

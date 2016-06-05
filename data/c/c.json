@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.6.0"
+  ],
+  "meta": {
+    "description": "Compile and Link C-API modules on Import",
+    "homepage": "http://github.com/jwp/py-c"
+  },
+  "versions": [
+    {
+      "0.3.0dev": {
+        "sha256": "bd929424b81ad0e4be4b6f199da577742b334ca48ae34dde2e20a236d5a4e18e",
+        "url": "https://files.pythonhosted.org/packages/a3/9f/f341879868b542f4727091ee9786e35ed9bc00accabd525a14f017866210/c-0.3.0dev.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "fc1a344107525c19616c01b0213f60121de7a476358a8667c3dd89db8bc979ae",
+        "url": "https://files.pythonhosted.org/packages/af/0d/082a4bf906a1234428997db9ea2af983e53e7382c1811d695579736e5ae5/c-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "5e1ce778dfc3a6bc05cc66edcf4ff91752ee7aabb5d11f8071971b2702a95939",
+        "url": "https://files.pythonhosted.org/packages/94/4d/efbb9550c1aeaf66cd3286512849195de57c02b0749ed1715d6cd79705e2/c-0.6.0.tar.gz"
+      }
+    }
+  ]
+}

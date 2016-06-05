@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Client-library for remotely querying the voeventdb REST API",
+    "homepage": "https://github.com/timstaley/voeventdb.remote"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "dd7195cda0ea8271260b0e6efefdd4d886502c0a0e94de157b230d853291840c",
+        "url": "https://files.pythonhosted.org/packages/1f/c0/2e627e1df8e5fd0d56d1b028c34939b38d8465403bba72062630f33f7428/voeventdb.remote-1.0.0.tar.gz"
+      },
+      "1.0rc1": {
+        "sha256": "c9a37995aba7a0879594d88b87b99e4fa3b03688622f864c6718c4b1bd54c665",
+        "url": "https://files.pythonhosted.org/packages/fc/5e/ca2f52615cb404f5d38dc0db2266c533729acc6348854b356673637a11e5/voeventdb.remote-1.0rc1.tar.gz"
+      },
+      "1.0rc2": {
+        "sha256": "c72d70135e45a45779e2182483de49c39725f3c78d148bbbf4d8994a790e3b39",
+        "url": "https://files.pythonhosted.org/packages/ad/c4/476240bf052123f57f0e5d2055ac39f502ddf2939418e84f695d64842a0d/voeventdb.remote-1.0rc2.tar.gz"
+      }
+    }
+  ]
+}

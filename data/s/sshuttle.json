@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.78.0"
+  ],
+  "meta": {
+    "description": "Full-featured\" VPN over an SSH tunnel",
+    "homepage": "https://github.com/sshuttle/sshuttle",
+    "license": "GPL2+"
+  },
+  "versions": [
+    {
+      "0.73": {
+        "sha256": "f1a90733f32f73d5674f784a4b48d8cee232d82f4db6e6534fe076b72fae2b1e",
+        "url": "https://files.pythonhosted.org/packages/e8/b1/cc1168c95362538a3866c8c196252d610318906a43ee5bc380d5953fb8d9/sshuttle-0.73.tar.gz"
+      },
+      "0.74": {
+        "sha256": "a4659beda43a8800c9d050fd82161dc0d30adf94cb2f2f1c40533c10cbc8d15a",
+        "url": "https://files.pythonhosted.org/packages/87/a9/848fe0c9d8071f9dbef83e6e61edc884e8977e6d913080f97f40d98a3446/sshuttle-0.74.tar.gz"
+      },
+      "0.75": {
+        "sha256": "c28a6de9ac5da68dc2984d2203f8ffe9c4e5945f96d0fa69b4bd51e7f40b257d",
+        "url": "https://files.pythonhosted.org/packages/9c/4c/712bd7c5c082348e47a2198d0767f24620952b016b572306281749e42293/sshuttle-0.75.tar.gz"
+      },
+      "0.76": {
+        "sha256": "0b915dee37b203109930868465f4ae0389605cd5cde256381b62ef0637c810e0",
+        "url": "https://files.pythonhosted.org/packages/37/82/8a38ef0cc36c69fd8460c4278d50edba667012f97182e0edee658dc99cde/sshuttle-0.76.tar.gz"
+      },
+      "0.77.1": {
+        "sha256": "3157861a4e35ae013377fd8dedfd1590cba7bf1a6b2ecf9cba52dfbf054f4152",
+        "url": "https://files.pythonhosted.org/packages/53/48/e1da6187757c03cdddaff7776fadd9f741afe4606aca33029c09d52da541/sshuttle-0.77.1.tar.gz"
+      },
+      "0.77.2": {
+        "sha256": "20cc93802bded9efef1efb89a044abd7ef585cafc4da62b4bd83de944b8694bb",
+        "url": "https://files.pythonhosted.org/packages/92/1e/87ecabcbad9674303d613168a600b5ded0bcc73b49119decb08b81c39bc4/sshuttle-0.77.2.tar.gz"
+      },
+      "0.78.0": {
+        "sha256": "6bd80d48f73eb04d4449a8aa636081704107cfdef05980b3b02166ff44e419a2",
+        "url": "https://files.pythonhosted.org/packages/06/3f/39b1e9a7268e67eac35601f14de0da77abd7ed0713dfbf989e5b899d65d1/sshuttle-0.78.0.tar.gz"
+      }
+    }
+  ]
+}

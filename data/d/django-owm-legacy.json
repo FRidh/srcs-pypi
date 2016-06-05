@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.2.3"
+  ],
+  "meta": {
+    "description": "Legacy features of OpenWISP Manager reimplemented in django",
+    "homepage": "https://github.com/openwisp/django-owm-legacy",
+    "license": "GPL3"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "c78b67b7c64df82e67b53ee60be12018ce127efade768c81d82138098eeae049",
+        "url": "https://files.pythonhosted.org/packages/05/c0/b7391a88478621af6d43521ef42ee703c8f3eabc3bef751919c1b06c48f0/django-owm-legacy-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "779e7256adbf0f191dcbc9e9982addd57511d949b160a82380ab4841945e3560",
+        "url": "https://files.pythonhosted.org/packages/46/4a/0d6123edf43f2b5a572c20dcc0f1a7b8385d40e4daa28ead1027bc285ff0/django-owm-legacy-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "ab3fd8a9a012185e1dfe16463665622770130561a43ab7562ca7ac62ec4b017d",
+        "url": "https://files.pythonhosted.org/packages/bd/55/cae53fec03239fc9ac7d39a17a33be8d43105d707242a6b48262212775d0/django-owm-legacy-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "35597a9311a0b5ace244c1b07157ccfcafb1a7f1cbc6207c0507c73911bbe699",
+        "url": "https://files.pythonhosted.org/packages/dc/a5/bc372a6bb086fe55889d4f53ad4968449ffc3b00958a07bc89f56aa93dc7/django-owm-legacy-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "da202faa5390740ed0b987d1073507606a2e04880444735efacb20f122bbfca5",
+        "url": "https://files.pythonhosted.org/packages/d2/d2/1e83bca6e4e7aa65c773728c3b39826ca0fb7ac4b24dd1906991b13d3192/django-owm-legacy-0.2.3.tar.gz"
+      }
+    }
+  ]
+}

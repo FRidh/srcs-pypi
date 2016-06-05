@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "Django middleware and log filter to attach a unique ID to every log message generated as part of a request",
+    "homepage": "https://github.com/dabapps/django-log-request-id/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "6df3aca72c1938f10c48aa87b71b59ae4b6c30dbacb272079ccffecd1ff6d48e",
+        "url": "https://files.pythonhosted.org/packages/5e/b2/74066bb376db0807408536f992cbd11467bb859f40749920095d9abf39fc/django-log-request-id-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "4d539238091fd88aec5cc147e90af2ba8e580f9fd5f624a5460b707900c6a20b",
+        "url": "https://files.pythonhosted.org/packages/61/3d/f1ae791d894cd2d525acbe41d6a589183dfaaaae7b9f06a5450988730747/django-log-request-id-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "0701b56fda018a6be7d4ab6a59c72005d074c4e7c5a9b04a630570057531a5d5",
+        "url": "https://files.pythonhosted.org/packages/b5/bf/7d4be783d232f91a8b0b7adcda638cabdbbcbae8e65c69aab5e5a9a06cf0/django-log-request-id-0.0.3.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "292b6f4173a1dff62f7298813bd35bde52a0fdef16198f20e6ba4c7476234e57",
+        "url": "https://files.pythonhosted.org/packages/82/96/bb870bf286e78628aa664b4d7da0672f894c069dd732b4743cd06b9e38a6/django-log-request-id-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "a878c5c7bb6ba7f35411c65a441e99cb36951a332644f24d8ebbfb6c2d17b060",
+        "url": "https://files.pythonhosted.org/packages/6f/2c/c1ad0c58531890fb170d48796c94aeffc81b4cbb047b03333b37fc3bb0f9/django-log-request-id-1.1.0.tar.gz"
+      }
+    }
+  ]
+}

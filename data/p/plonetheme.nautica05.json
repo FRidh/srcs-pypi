@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "An installable theme for Plone 3.x",
+    "homepage": "http://svn.plone.org/svn/collective/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1alpha": {
+        "sha256": "e96be263dce7f3a1de5d7769e2d894a3e47e12211cbebe5c1ace88adccd8e888",
+        "url": "https://files.pythonhosted.org/packages/36/77/2b81ab969ea145298178b759c53a8f45ec23ad1b06efa829e6e40c87de0c/plonetheme.nautica05-0.1alpha.tar.gz"
+      },
+      "0.1dev": {
+        "sha256": "a35238f4d017446c36b0ed5ff2133f388c33db5f3e93e7bdc385b72ade84a4f2",
+        "url": "https://files.pythonhosted.org/packages/b7/72/c8d52326e3beb61117ffdbb579d2fcc8c82b996f1dd94b7c2ebd576a772c/plonetheme.nautica05-0.1dev.tar.gz"
+      },
+      "0.2": {
+        "sha256": "9394f0633e911c45dd58614fbdcd08c4eda777793d1540f69e2ab38e6c9ca123",
+        "url": "https://files.pythonhosted.org/packages/54/7c/7e9a09dbcc70ba6b6cffd560f00b80ac0ed3f4e833ed38dd2ee546e3e055/plonetheme.nautica05-0.2.tar.gz"
+      },
+      "0.2alpha": {
+        "sha256": "76495412f258f0ec347f3630984d11fee4a43b9cb86f7048c5d5e8afb689d144",
+        "url": "https://files.pythonhosted.org/packages/38/a5/34c4bedec02b1bfef8de6fdcb8030b612fcf68503b49ee0702ea01c6558c/plonetheme.nautica05-0.2alpha.tar.gz"
+      }
+    }
+  ]
+}

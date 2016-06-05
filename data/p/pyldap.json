@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.4.25.1"
+  ],
+  "meta": {
+    "description": "Python modules for implementing LDAP clients",
+    "homepage": "https://github.com/pyldap/pyldap/",
+    "license": "Python style"
+  },
+  "versions": [
+    {
+      "2.4.20": {
+        "sha256": "9f3c5679e6a2c26a852d0468c538239e458a39ee86ddbbd2f1ec5c6fc73a3755",
+        "url": "https://files.pythonhosted.org/packages/37/d9/90855536b284424ed3a1345230020e33a8d116b150c4f50cf3e00866c9be/pyldap-2.4.20.tar.gz"
+      },
+      "2.4.21": {
+        "sha256": "7a2b1dc31679466db11320b91bd2058574ba25ef27224967040918046ff4c450",
+        "url": "https://files.pythonhosted.org/packages/d1/72/cd7ea9d666c0dddd0fd81886854645cb4021a48794b897711c7dedc23392/pyldap-2.4.21.tar.gz"
+      },
+      "2.4.25": {
+        "sha256": "6a81ff791ee82fc246af724904d5d38f5fac97f5698a68e2907eaa5bb00bcc79",
+        "url": "https://files.pythonhosted.org/packages/0a/9e/b13a3f5c624b9c23bdf73f67b75c9cef697e8b34539483115c1deb3d82f8/pyldap-2.4.25.tar.gz"
+      },
+      "2.4.25.1": {
+        "sha256": "fdc46e9cad1fd515017b6109edd8d35a5ab655daa2708743285e8356bb5c2bee",
+        "url": "https://files.pythonhosted.org/packages/82/18/e3803349f297f69e02bcf37e07aa80e617d0e3ef05520adba53de82914c9/pyldap-2.4.25.1.tar.gz"
+      }
+    }
+  ]
+}

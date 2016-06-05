@@ -1,0 +1,146 @@
+{
+  "latest_version": [
+    "0.5.1"
+  ],
+  "meta": {
+    "description": "Pymatgen-db is a database add-on for the Python Materials Genomics (pymatgen) materials analysis library",
+    "homepage": "https://github.com/materialsproject/pymatgen-db",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0dev": {
+        "sha256": "65c7eab08450b1527b64fac338f8cc11512d48d53398a1035c481b7fa91aa869",
+        "url": "https://files.pythonhosted.org/packages/25/2c/b797be67cb5d1e8a9e6df66bccdda1a191bcd1666b8084c5afa88cb6985d/pymatgen-db-0.1.0dev.tar.gz"
+      },
+      "0.1.1dev": {
+        "sha256": "5842bad3080835df62a691104c64d5af6ef03f2d15cc923db523d3580562aeb9",
+        "url": "https://files.pythonhosted.org/packages/42/52/f1aec2ced76703d7756c78bf36ea8af1d7155ae762bd4a0db2f08def85e4/pymatgen-db-0.1.1dev.tar.gz"
+      },
+      "0.1.2dev": {
+        "sha256": "1eb761ea695965c3cdcc28a836e617bd2204d61f331d781fdd787ef9de1eb7f2",
+        "url": "https://files.pythonhosted.org/packages/84/f0/8fafd5213d140f32ad8bd02b069527bb3a308a61f1b54105b6cce3080f80/pymatgen-db-0.1.2dev.tar.gz"
+      },
+      "0.1.3dev": {
+        "sha256": "9bad7e881011f52dea2119d231881f3cc7adb58c5825ae054600400b06510ef8",
+        "url": "https://files.pythonhosted.org/packages/9e/b9/7925102f453cbe07ec892d883b66d979c57ee19cea796a4506d252e49ab4/pymatgen-db-0.1.3dev.tar.gz"
+      },
+      "0.1.4dev": {
+        "sha256": "84119d86797be4cded8e13c64bc606dfe9644aacd2279fbf7d750d805d74f42b",
+        "url": "https://files.pythonhosted.org/packages/1a/96/1f4677737e2ef66335a9bc0e867a5b00b1bfb9bcb26a0bc6fb40c623ad6e/pymatgen-db-0.1.4dev.tar.gz"
+      },
+      "0.1.5dev": {
+        "sha256": "d2fe3dba43dd3d5a1ce23a7f86b41996b1e52ab2d2203626d9a156007eebdfd6",
+        "url": "https://files.pythonhosted.org/packages/a3/fa/34a34ad904b95108ca20ae949cd90366bbe8a9010df045cb38a0a70670b0/pymatgen-db-0.1.5dev.tar.gz"
+      },
+      "0.1.6dev": {
+        "sha256": "dbb6da14853dbdf1197018d2521ece6ed7c25602d29b4198d0c6eb55dd7c8712",
+        "url": "https://files.pythonhosted.org/packages/45/fe/034b3e5a90cb830286ba3c8a9c3e9ab27f0faa1588964555ce2d792070d4/pymatgen-db-0.1.6dev.tar.gz"
+      },
+      "0.1.7dev": {
+        "sha256": "c45775d421a2837ee370f91c21a0ac879ecf7aa5a9d80734460e80c1602d9e83",
+        "url": "https://files.pythonhosted.org/packages/19/75/70d11fd3d16654e7076041f9c4d84c5c2071beba1fd580909e96bacecd60/pymatgen-db-0.1.7dev.tar.gz"
+      },
+      "0.1.8dev": {
+        "sha256": "5a9bffbfdfb29b904cd8daf394a2ae0292b5176c1fc38130b558245988c8e4cb",
+        "url": "https://files.pythonhosted.org/packages/f1/b0/5e8cbedf4dc35b36ad863cd4c9796ceb140d7db89932780f0fe7d434a3da/pymatgen-db-0.1.8dev.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "bf976a79c766952ada315101e273f7ff2fe00d81801a3aa512d9b676c26fa996",
+        "url": "https://files.pythonhosted.org/packages/4c/15/8d98a2397ca91224b7827b22d77105c7c52f569a6fd7551957a566b31035/pymatgen-db-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "c1c9884753fecb9b0cfcbe080fa0db3adc45600d03e76ff4476979b1d2c4c475",
+        "url": "https://files.pythonhosted.org/packages/63/a3/2742aa70124cb623e4b386b4b3586ccbaeed171da212b3c002e69f71e7c5/pymatgen-db-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "29fc9a0c0c2d1230465ce9b83c2f8420afeee7526d3c341a8e437440ddebacc8",
+        "url": "https://files.pythonhosted.org/packages/44/79/52cd995c65ab981813fd3d71f6abefc26b50069a7d2704702798ec579988/pymatgen-db-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "9550fff8304e309c7b3bf0808b90f2f797f6c1a7443eee0fe3567bafb09f3cf6",
+        "url": "https://files.pythonhosted.org/packages/e0/22/9735ec828382d1bc5e1e196d92cc59bc5d3d3a0b98f6afe7d13aefd3bd46/pymatgen-db-0.2.3.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "10c444e180abf129cc8c50865d334cd657ffd86bbe51929447c0eaadb5b1ec8d",
+        "url": "https://files.pythonhosted.org/packages/5b/ca/75aa69e8432308a1e6f782ee7c0e3f9c340e6d389acdf8baa9ef73b9bd6a/pymatgen-db-0.2.4.tar.gz"
+      },
+      "0.2.5": {
+        "sha256": "7af3c4961065626fcb8ad435997c5820bd4764a6049ad26a71a3390992a56b60",
+        "url": "https://files.pythonhosted.org/packages/53/f6/d2e6296fe8f0bb99de5b037d01e7fe4f4780c5039bc2a4d07fc650f75ac7/pymatgen-db-0.2.5.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "3f062e6bd0a97db1c6ab3d26739fd491da380f66ac8626cc1754a7e69e96f6eb",
+        "url": "https://files.pythonhosted.org/packages/4b/fb/b06b6388b08c0355a35614237f83c93eed77829dad4ea8949b731ec82785/pymatgen-db-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "f18cb51903a098212829421ad903269b68c32c78f5ec59a02bedd29059860b34",
+        "url": "https://files.pythonhosted.org/packages/e3/33/40228c488b5edc21031bfa72f9576b139f4fbadcfb9f9f79a3a8f031e59e/pymatgen-db-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "4723bdf97d1d3480c9b47e17c07fdae32e32ae288a5615207781ce2d13586377",
+        "url": "https://files.pythonhosted.org/packages/bc/ff/1fff3d7759a03a92a2803cb1c012308850a85bdc7d00e15ddf74dc62847c/pymatgen-db-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "910dad6a612df36a828ba92067fb60b6a4ebb1df5027ba03f310a2fef4a6de52",
+        "url": "https://files.pythonhosted.org/packages/84/0c/ac0fe18089edcc8c1b43a9cbe35d17582f715b8420a8bbcd119bc3bc8ccd/pymatgen-db-0.3.3.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "1f5c9695661c4f80500965f6f65c82e9a173109e822726138f7d408136871422",
+        "url": "https://files.pythonhosted.org/packages/b6/40/1a6d0eb936f15a897580502b6bd56eff9f0c8986888d55ed7ec92ecb156e/pymatgen-db-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "d42305b56f493353d421537e2b0b8620745d63ab60d41fae0f0896ff2ff897db",
+        "url": "https://files.pythonhosted.org/packages/12/5e/277a205739c66f1fc0d9c1afa8e454693df0113a86bcce0962630aa6bb36/pymatgen-db-0.3.5.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "c62f2156dc6ac517726600eb52b3115af29e9c1b74c32e927890250a760864a4",
+        "url": "https://files.pythonhosted.org/packages/b4/85/b31104c093ddca393e2a762114d6599e6b74849fbe06694d7da0bc09b5c2/pymatgen-db-0.3.6.tar.gz"
+      },
+      "0.3.7": {
+        "sha256": "2fa79cc9fd7f1fcfdf6a5d4737f563ccae84a557cc097a203ea87c0e333af710",
+        "url": "https://files.pythonhosted.org/packages/a0/9a/5002d5d0dd52fe6667f26f372a27ecdf74dad6ac1a744d6ffec67eb9e757/pymatgen-db-0.3.7.tar.gz"
+      },
+      "0.3.8": {
+        "sha256": "155143c5422ce5991fc3ccc76e55e84076c4f0d9862ffe460308a57adc1f7676",
+        "url": "https://files.pythonhosted.org/packages/b2/16/3bb7738865ddc39c1e5bf1c7ce806f4aa816f7922a536b39d689fc40faba/pymatgen-db-0.3.8.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "8882cc3e36a1a624d6e2cabd7bd2ff6d04047909af8be7e3e2301e5575a9a786",
+        "url": "https://files.pythonhosted.org/packages/ac/16/4ee6df7fc85b8e0107531bd2af5275921275363ecfa91db527b452febf66/pymatgen-db-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "76ba043320159b6829b589f64fdfaacd32d834b8668581a0faef213d37bc5b12",
+        "url": "https://files.pythonhosted.org/packages/7f/44/7e13d76a9595fe30838a59ceb765a5634d23f875dc04fad2a72fdc4933e2/pymatgen-db-0.4.3.tar.gz"
+      },
+      "0.4.4": {
+        "sha256": "600bdd549d90d4f434cdeca78587e83376e8252a8821c21fb23fd21167211962",
+        "url": "https://files.pythonhosted.org/packages/e1/f8/d5e14289b6ed76400599388908ee35a34b1edee819e2e53281369b652d6b/pymatgen-db-0.4.4.tar.gz"
+      },
+      "0.4.5": {
+        "sha256": "234f62f8b3a4bac8fcbe32a226991ec9d0e8f44676ba262eed539d1aa4c0200e",
+        "url": "https://files.pythonhosted.org/packages/5a/ca/c3ec4ede5ad5f02bfd710f303d83827cea67905cde66dfcebdad14501381/pymatgen-db-0.4.5.tar.gz"
+      },
+      "0.4.6": {
+        "sha256": "b842e04bd01d99c6c38c43dc7cf3e2b4a46a2cbf6da0ad100b28d3cc6238a03c",
+        "url": "https://files.pythonhosted.org/packages/dc/54/bb32687da78e3c190d18c5d71c816ef6ec42ffebb392e6e1909298d8a5af/pymatgen-db-0.4.6.tar.gz"
+      },
+      "0.4.7": {
+        "sha256": "048b595fe2f02ff01440cfe6b54c580988715418cd71ee9ef3ed5af3ac4559ca",
+        "url": "https://files.pythonhosted.org/packages/f8/57/aa6aad7364ed7e132e8afd9c0d3e29437bf44408bc4d576f0e31d178a6b2/pymatgen-db-0.4.7.tar.gz"
+      },
+      "0.4.8": {
+        "sha256": "f07316e7a6a8a14313cdb131dc403f0ee3a2ec958844a5b5459381f71bf733d2",
+        "url": "https://files.pythonhosted.org/packages/d3/42/db7521f4758bae5dbb4cc1fa3b6346c9b94b6e1d208b29e44d2d3148f52b/pymatgen-db-0.4.8.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "cbc02e2af50fa1b3fd83bd8a5ead99399d33c9262973adffff42745108a0e212",
+        "url": "https://files.pythonhosted.org/packages/03/1b/06ce95201138edc9f74db82e97d07aad6d8ffc38cfdd8c16a892266b3e20/pymatgen-db-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "f7de75b3728d6d65f331cc20f6cb2a8f20039a64b815ff57edd69ea0446b8ca5",
+        "url": "https://files.pythonhosted.org/packages/07/2c/d257fef3ea3fcd5b01c788c7b92404d315793469b1d796aaa4f89454ad84/pymatgen-db-0.5.1.tar.gz"
+      }
+    }
+  ]
+}

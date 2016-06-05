@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.0.4"
+  ],
+  "meta": {
+    "description": "Outputs a valid hostname for a given AWS instance",
+    "homepage": "https://github.com/josegonzalez/python-aws-hostname",
+    "license": "Copyright (c) 2014 Jose Diaz-Gonzalez\n\nPermission is hereby granted, free of charge, to any person obtaining\na copy of this software and associated documentation files (the\n\"Software\"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to\npermit persons to whom the Software is furnished to do so, subject to\nthe following conditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\nNONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE\nLIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\nOF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION\nWITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "faa5248676a27fd38f00265766eff259e8a4cfc675cba865391b95a3e0508a91",
+        "url": "https://files.pythonhosted.org/packages/26/9c/65b64a8659bc41b87dbcc099a6eeb2d626ed9273778108efe1d342f1d3d0/aws-hostname-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "574b40bfed9d49ac41bf20007298e688925ecea9576909e1eed41920b84bc31e",
+        "url": "https://files.pythonhosted.org/packages/41/89/b425c23cedd99fd4c50725479ed1697233db7409b57009a4b8bc46737c28/aws-hostname-0.0.2.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "c61a3648b2179d8be218d0e629b0c06c02c99950ba533be935587f47cbc5f7c7",
+        "url": "https://files.pythonhosted.org/packages/55/4f/d407f4ec6a964127a8f8c02b89cd88ba24945e8abf58510ede32459ab285/aws-hostname-0.0.4.tar.gz"
+      }
+    }
+  ]
+}

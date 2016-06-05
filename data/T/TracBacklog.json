@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "Enables Trac to be used for managing your ticket backlog",
+    "homepage": "https://github.com/jszakmeister/trac-backlog",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "53f90cc736f76f51f364b7928313d4bb7a58c8bb9ad811a391fa08dce77a432e",
+        "url": "https://files.pythonhosted.org/packages/e1/58/7b2acff3fc1a10167c12177663abcc0fc7d08f7abbaafaddabad04369769/TracBacklog-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "903fbae12a456b500bca1ac8faa86623456a181388ac95a06ec9a074753867d4",
+        "url": "https://files.pythonhosted.org/packages/62/f4/5d2d95bf499f9ad0ecf7c03360da40cfb87e707f81e53c92fe2f3de0a541/TracBacklog-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

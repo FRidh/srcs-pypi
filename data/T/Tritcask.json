@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Append only (type,key)/value store based on bitcask paper",
+    "homepage": "https://github.com/verterok/tritcask",
+    "license": "GNU GPL v3"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "458b09c0d74a358231891dda4b1bdadcf3414528af8e7850df83862053800332",
+        "url": "https://files.pythonhosted.org/packages/8e/f4/94dbb68e19e7158b00e045e1321d9ea1f369fb506115a4e04367e0b236b1/Tritcask-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "0830a000ef71c72aa3bec6997ee9a4368a6dc6221d782ba17f8ffede39a8805b",
+        "url": "https://files.pythonhosted.org/packages/1d/2e/0d7f3b58e02ab9b355e29bfff3a3c9c1c44e38852145407f895e60e45826/Tritcask-0.2.tar.gz"
+      }
+    }
+  ]
+}

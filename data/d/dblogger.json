@@ -1,0 +1,118 @@
+{
+  "latest_version": [
+    "0.4.14"
+  ],
+  "meta": {
+    "description": "DB-backed python logging.Handler subclass that uses kvlayer, and provides command-line tools",
+    "homepage": "https://github.com/diffeo/dblogger",
+    "license": "MIT/X11 license http://opensource.org/licenses/MIT"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "ac1f8cea473decdde7c40abfa2251c3592afd62bbd35ca03d66f629207e45564",
+        "url": "https://files.pythonhosted.org/packages/50/e1/a5111c74ca72685b7cdb2aa1c2dae42978159aa0b3f76d262ad2639dfda9/dblogger-0.2.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "0ed2a04b6d1137e8fdf97c6eddf3b96fcae623530931475bcb0e887879da72b9",
+        "url": "https://files.pythonhosted.org/packages/31/26/f6c16214d83a4a6067546adde8991ee59b922668becbb3ad1fb5bab74166/dblogger-0.3.1.tar.gz"
+      },
+      "0.3.1.dev10": {
+        "sha256": "9664f903bd6c7915b6eb7968e4a530492b55f7ddc0aacdfd42a14b8342c4a175",
+        "url": "https://files.pythonhosted.org/packages/96/01/0defa1433ce4a88edf8e9fe541fe4b197f1f371f4276542035e7622fd746/dblogger-0.3.1.dev10.tar.gz"
+      },
+      "0.3.1.dev7": {
+        "sha256": "81c6a6331737f6dc1d4fd586def1547058f65b157f742cfdf953c2d0336b858d",
+        "url": "https://files.pythonhosted.org/packages/6c/7e/def6cd9be06134870050d2b0f48e6ba5f58dd7ff42ce9a8e3941f61a3c7f/dblogger-0.3.1.dev7.tar.gz"
+      },
+      "0.3.1.dev8": {
+        "sha256": "c49a4e0d93e47c44a213d7d9cb87abe6ffc7a79ee4a0b44e558cfd818ce8c7bf",
+        "url": "https://files.pythonhosted.org/packages/cc/c9/8ba9c7beb96a0f0b2d29c3a926ce6a20a83aaa177ca3f1dd0a4024607e0c/dblogger-0.3.1.dev8.tar.gz"
+      },
+      "0.3.1.dev9": {
+        "sha256": "741299d273650da80307166bba01617fca1cf1b7fead1eb0e2cb7e3b46fd7ebf",
+        "url": "https://files.pythonhosted.org/packages/b3/ca/0b25379eefb514cc6abfca6f0c414385326565afa01575cf9a9b95bb9979/dblogger-0.3.1.dev9.tar.gz"
+      },
+      "0.3.2.dev2": {
+        "sha256": "9cff042a83d87ee07c40eb0fa28ef5a2afc392e16c283478b42901fbe7af4fb9",
+        "url": "https://files.pythonhosted.org/packages/2a/df/62803e032d2c824f7feefba1631585e89c0d970b97639315b67672465b03/dblogger-0.3.2.dev2.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "0e1a1f2784eac7dd2c0602bd4f96e6db99494b69ddc5118229f9b0360997a570",
+        "url": "https://files.pythonhosted.org/packages/fe/e4/4c3aa0e68891ebfab5ec74308f3a8619e3179159c29829e84f869d51dbda/dblogger-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "1458348ed441cb0a0aee2e10f4f77b5b1c9591f62eab80380a5ca069a8d8e439",
+        "url": "https://files.pythonhosted.org/packages/43/8d/7d039ef20013131266251e7d58c11c6c14457db1185611fe172c81a4a932/dblogger-0.4.1.tar.gz"
+      },
+      "0.4.10": {
+        "sha256": "df22e0aa08484a0260059ec22ad9193e086e57915c83e8513adb4f4b9c501e1a",
+        "url": "https://files.pythonhosted.org/packages/4d/d8/c6be83ef77bdb3a4df7fedf782a8c9e4297604cdaf8de864e3f005d44851/dblogger-0.4.10.tar.gz"
+      },
+      "0.4.11": {
+        "sha256": "b7a8be66c8f181dfd6b4f65d1c947f99770fe918f3b48a7735e0cdf819208468",
+        "url": "https://files.pythonhosted.org/packages/9d/34/6a10476565a6a3ef08a37f9521b3624bfe4ca463106e962a291c0355cb08/dblogger-0.4.11.tar.gz"
+      },
+      "0.4.11.dev1": {
+        "sha256": "79586f3feea81d4e36cf52ec51da9700a2f9e0f60ae884f72b1f225f2b0969ba",
+        "url": "https://files.pythonhosted.org/packages/08/c1/35d3c5c77ca6d2dc1f38b0e2865ca851b1588fef54c46d468002a44d2684/dblogger-0.4.11.dev1.tar.gz"
+      },
+      "0.4.11.dev2": {
+        "sha256": "8d24181a6b975a5670e710413698d1a2f45a33925102e65d5e440f0525c41ef3",
+        "url": "https://files.pythonhosted.org/packages/4e/39/e568d1233293c36fd71e6bc4bcc148faf035e9abb8cefccba0801c04383c/dblogger-0.4.11.dev2.tar.gz"
+      },
+      "0.4.11.dev3": {
+        "sha256": "9fa4805a05cc119fe8fafe893d6a03f86b12ca9389f333bb628c8a247087fe84",
+        "url": "https://files.pythonhosted.org/packages/bd/62/c9b69b6471bb1702ad838e11cce944f3b07112c1a126e04bf48782fc1aff/dblogger-0.4.11.dev3.tar.gz"
+      },
+      "0.4.12": {
+        "sha256": "87edaac27ba1a01d1a63d5a2dd03cbeb66cdf46af6895652f988949ffc726648",
+        "url": "https://files.pythonhosted.org/packages/9e/e1/63ab30934b785529aab97aad29fc3fdc61ab17f145bbd9c6fd74b82edd7c/dblogger-0.4.12.tar.gz"
+      },
+      "0.4.12.dev1": {
+        "sha256": "4ccc036bcc671f56bbee9aefc310b1dccd6132f90f7a80baa961c6e68794996e",
+        "url": "https://files.pythonhosted.org/packages/6e/ba/0ca42c5ed57a37ddb4b578f10c5bf275352c0eaeb5aac048d1ab66108c61/dblogger-0.4.12.dev1.tar.gz"
+      },
+      "0.4.12.dev2": {
+        "sha256": "6d9938046df4b8c18c3657029b3fe08c38fe3e6ea640344aa044acad449da5a8",
+        "url": "https://files.pythonhosted.org/packages/62/e0/466629efb1d04de389b1a9f2bfeca8685ed1a9cd9db13f6c2b17fb280539/dblogger-0.4.12.dev2.tar.gz"
+      },
+      "0.4.13": {
+        "sha256": "54f10c62ef6886a8ea89f9a81b7743d71b0b3a713e18ff460213a9e4af8acc07",
+        "url": "https://files.pythonhosted.org/packages/4e/40/4454ebece5d0c083cc61b184775bc26e416bb2c5efb3fba2e9c1eacf2b0f/dblogger-0.4.13.tar.gz"
+      },
+      "0.4.14": {
+        "sha256": "f032727cc6c4b5ca6a89a69518afc7f4c0f23f8a93218a30f0bfdef4b764e946",
+        "url": "https://files.pythonhosted.org/packages/57/65/d3a22f7c6bc1bd7eaedc0191c77b8cef0b31ebd48d8d3d484610e72cb977/dblogger-0.4.14.tar.gz"
+      },
+      "0.4.3.dev3": {
+        "sha256": "b1a2d88ca38e716f4d8406d295d79a0981f13399ca2a97510e4154a99a01b127",
+        "url": "https://files.pythonhosted.org/packages/34/5e/fd436be95ef1910b33951a406dabec9b1537cc5dbafde530a64af14624ef/dblogger-0.4.3.dev3.tar.gz"
+      },
+      "0.4.3.dev4": {
+        "sha256": "85d39f9ed218b1b3ee40f5c174db8d742830e0c00b34b82406c837920b26e30a",
+        "url": "https://files.pythonhosted.org/packages/60/1a/5b0fe0c469f133f2d1bee98af2bc8f7addaad3454874dd35332bdbf8f909/dblogger-0.4.3.dev4.tar.gz"
+      },
+      "0.4.5": {
+        "sha256": "587443e02288dc0e3342ed793578036c6ce4ea946c05a5692f3b4ae8d8e937c5",
+        "url": "https://files.pythonhosted.org/packages/29/3d/0cae3b1196620170c06f13cc4922051ac0f3f2a3de12f5c63bb65f9fe88d/dblogger-0.4.5.tar.gz"
+      },
+      "0.4.6": {
+        "sha256": "3f2ffd5148cc10bce520bf813bbe3776fd3704922bd758ba3f6351669abce768",
+        "url": "https://files.pythonhosted.org/packages/7c/e5/8b49267ab19f849fe1cae64983814b85ec01058c8671ec7ab019d47d6e0a/dblogger-0.4.6.tar.gz"
+      },
+      "0.4.7": {
+        "sha256": "6e41d4e332e8632bb2180cc7146f38f7757488ac7a84bd633b95b215801cacf2",
+        "url": "https://files.pythonhosted.org/packages/dc/c3/d6c66502e1040bef3475a29e381b1c9b32db07217132243911fd86a63de4/dblogger-0.4.7.tar.gz"
+      },
+      "0.4.8": {
+        "sha256": "cb8ed5c396e7e1c2f63a46badbdf8469c76e35518c2de476b375004d6d8369e9",
+        "url": "https://files.pythonhosted.org/packages/20/7d/1f350a98fd9af84205a8eead0182c9ad9caf3c8b5d149666de7817c4decd/dblogger-0.4.8.tar.gz"
+      },
+      "0.4.9": {
+        "sha256": "e146b7dd6c4095957fd003ec59d6ef87d8e9e1f64baafa179802ed755b73330a",
+        "url": "https://files.pythonhosted.org/packages/04/26/8616a8d3d2a48809a496fa5411475c5f05d72f74897318eb0847a582ca9b/dblogger-0.4.9.tar.gz"
+      }
+    }
+  ]
+}

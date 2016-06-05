@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "To clean and filter sensitive data from a standard sosreport",
+    "homepage": "https://github.com/RedHatGov/SOSCleaner",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "a01479233ecee3d9034c993c293af988c8a7e07e7c23411dd8d9159867daee95",
+        "url": "https://files.pythonhosted.org/packages/57/69/785579b49201d78f1bd181be702d07870b75562c65555571079bd1719ea0/soscleaner-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "e4e933b6f7b527d29f6b2a20d71aa5ea947f188f6639818a4773a394a9c67008",
+        "url": "https://files.pythonhosted.org/packages/36/02/08210124528d8651816d07af4f461a8b54fe90bc5cdfc10ac2231b846b1a/soscleaner-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "108304627f39879af0311536aa2851a6e2b810cf658c1db47976945c7595829b",
+        "url": "https://files.pythonhosted.org/packages/cc/80/1e4d609d9dd9f682e6f167de51915510981c387a7f892eea43e787adf0b8/soscleaner-0.2.2.tar.gz"
+      }
+    }
+  ]
+}

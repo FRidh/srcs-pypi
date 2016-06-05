@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.3"
+  ],
+  "meta": {
+    "description": "Integration with Worldpay payments for django-oscar",
+    "homepage": "https://github.com/matthewwilkes/django-oscar-worldpay",
+    "license": "Copyright (c) 2011-2015, Matthew Wilkes, Tangent Communications PLC and individual contributors.\r\nAll rights reserved.\r\n\r\nRedistribution and use in source and binary forms, with or without modification,\r\nare permitted provided that the following conditions are met:\r\n\r\n    1. Redistributions of source code must retain the above copyright notice,\r\n       this list of conditions and the following disclaimer.\r\n   \r\n    2. Redistributions in binary form must reproduce the above copyright\r\n       notice, this list of conditions and the following disclaimer in the\r\n       documentation and/or other materials provided with the distribution.\r\n\r\n    3. Neither the name of Matthew Wilkes, Tangent Communications PLC nor the\r\n       names of its contributors may be used to endorse or promote products\r\n       derived from this software without specific prior written permission.\r\n\r\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\r\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\r\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\r\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR\r\nANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES\r\n(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\r\nLOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON\r\nANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\r\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS\r\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "6c5558d15b8d7a3bb0222e9eb8279ab59874f9416cc973a5ea8317d909b8585a",
+        "url": "https://files.pythonhosted.org/packages/2c/9b/f8c318b5f9feedbc1c9b45e0dcb1d41b2a6894f9aed7b225c9d9594316d9/django-oscar-worldpay-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "fecaa823bef23f49a5e4d6d6ad46bcf4955d60a7266added6c958e07a007107a",
+        "url": "https://files.pythonhosted.org/packages/ca/7c/6e814aab0d85f8cb70f79d4c6560e39b9ef40f6b2998d575c571543a0a81/django-oscar-worldpay-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "f09d1040e61fab567cc6fd56d1751ab6584fc0a0237ffc5d4a5265b0ea36d47e",
+        "url": "https://files.pythonhosted.org/packages/ee/0d/99be7cda5ecad111ee3eb8c9467569631d7c11aaa392584f40f8a41e953a/django-oscar-worldpay-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "ff05f5c1bfbd6da7254b6dbf2b6936dee5dcbf44fd0c70ab86d75c5921c2ea9f",
+        "url": "https://files.pythonhosted.org/packages/55/0b/308583d545a75cef561717ba2f09d2b8026741f115644f44584ebd2bbdea/django_oscar_worldpay-1.3-py2.py3-none-any.whl"
+      }
+    }
+  ]
+}

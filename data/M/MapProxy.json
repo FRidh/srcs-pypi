@@ -1,0 +1,130 @@
+{
+  "latest_version": [
+    "1.8.2"
+  ],
+  "meta": {
+    "description": "An accelerating proxy for web map services",
+    "homepage": "http://mapproxy.org",
+    "license": "Apache Software License 2.0"
+  },
+  "versions": [
+    {
+      "0.8.0": {
+        "sha256": "aac1d5ae342621d32a4166a76eeb7361e592e4abcc59cc742fd99d9828c5e00f",
+        "url": "https://files.pythonhosted.org/packages/21/cd/5a1121fcbaf468cde72babed4f82f7183a5f95174d3d9ee54ed1ff0fe94a/MapProxy-0.8.0.tar.gz"
+      },
+      "0.8.0.dev-20100310": {
+        "sha256": "8c040c28d77bdbba0d0ec0e4a1743d5c904e0dd97dd579fb0535ad4d1058165c",
+        "url": "https://files.pythonhosted.org/packages/88/f0/aba96be831a0375455cf6f4c1f3a48273516e063faa69bcace1f77bcfc89/MapProxy-0.8.0.dev-20100310.tar.gz"
+      },
+      "0.8.0.dev-20100311": {
+        "sha256": "33b0000d5d5bc734afe3b9dd5757458d51b52202a737965674c4f20e9e04f96d",
+        "url": "https://files.pythonhosted.org/packages/4b/fb/3a6d1ca49398f14cba7be0f8a5017090b5ca199789381fc2e4b75da51534/MapProxy-0.8.0.dev-20100311.tar.gz"
+      },
+      "0.8.0.dev-20100315": {
+        "sha256": "45b023e25af905b6ecf9d7c30f78736b939a50d9add5e85a86de1b51e9220f3f",
+        "url": "https://files.pythonhosted.org/packages/b5/19/5a404b437bec759d6adb5536177e2eaf96b9681512545c089df1735bee70/MapProxy-0.8.0.dev-20100315.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "d07d50114eb2a3175f47975beae63eacbcba03f36652e94f5f94a8b261c15839",
+        "url": "https://files.pythonhosted.org/packages/8f/9a/1c6ab7e7683b1b6f6680af4dde0888c002c74f48262916f841208cbc9fb4/MapProxy-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "486faffecdaedb511bfabd1ee7689d307816bd2fac493fcab9d499b18e59f8c8",
+        "url": "https://files.pythonhosted.org/packages/e9/bc/bb9758f270174b1f78fa0a6db2a01bd50a412bf14751b1d3b3b43dd844fa/MapProxy-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "d7f5b5d966a0283c72cbc58bde518963082f403af83230e69ff3e22d80198a51",
+        "url": "https://files.pythonhosted.org/packages/43/fe/f48273c6a8dfad18a472e65b800ee81a3fc9b707f4960933375eadd76a9c/MapProxy-0.8.3.tar.gz"
+      },
+      "0.8.4": {
+        "sha256": "2a616946b4c8a7363b5ce28027c1d792f4c027bf98d7dc0ed77e2a3e4fb06f78",
+        "url": "https://files.pythonhosted.org/packages/b2/7f/ad9aa8c38950d7f52aa28ef78be78b6ca42345f6e9a82719abde016a8ad4/MapProxy-0.8.4.tar.gz"
+      },
+      "0.8.4.1": {
+        "sha256": "54c0afebe06b18b3fb9454d515e3274df37bfdaba5d2a3a4dfdce53d11894467",
+        "url": "https://files.pythonhosted.org/packages/13/f2/b25e2644884a044307afd5d967c6e95f9559d3a2cfc6ee9afbf642caa5a1/MapProxy-0.8.4.1.tar.gz"
+      },
+      "0.8.5": {
+        "sha256": "7245a401a07c4f988ebef402577223280c28cdf9e0062de05e905720ed88f4db",
+        "url": "https://files.pythonhosted.org/packages/ae/f4/74178e96da1489534cd3544cf56846a18b7495bb2ba0e6bd16822ee5b4d9/MapProxy-0.8.5.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "d38c6086fa434d3bd8275ba86b6968923971a5a8f4fdbd245fe771a1f3f92e6b",
+        "url": "https://files.pythonhosted.org/packages/19/66/0c83efae655ce9b3401d2488f0c5f3416210110c1591f69fdd915008d6b9/MapProxy-0.9.0.tar.gz"
+      },
+      "0.9.0.1": {
+        "sha256": "893b9c94be77608375e9fd1b84b138e2b82c630fe5397406deb94cd58ae8d1e2",
+        "url": "https://files.pythonhosted.org/packages/d0/41/0c5c7be2d0afc1f52025fa7cd5951ae374f401a9be2722c60f5344812a07/MapProxy-0.9.0.1.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "94c5ee8ff67cdd120b86837a0af9120316786796ac459d2b87ebd31ad8d527c7",
+        "url": "https://files.pythonhosted.org/packages/e3/02/19ed3efebd0b945e22a92b0ffe3d333ac3a7c513e09237b095f555f7fe83/MapProxy-0.9.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "2983c348413a90d68ce8f2a4080265160870b4c1728b83e587c55ee63e1dc09c",
+        "url": "https://files.pythonhosted.org/packages/c9/bc/3425c2daaac067d84a2cd7661e2f6baecba28cfb55218079133b2abc95e1/MapProxy-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "98ac01bc9b2788cb45c4643f69b9594c76e5abad2e4e533b1a76206b2fff1a45",
+        "url": "https://files.pythonhosted.org/packages/9f/fd/947df8dc230ddd357425a9e0c1959dc8d59f61921e76a46bd8d3af80b3ba/MapProxy-1.0.1.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "dbf78cbdcd94dd9853b0966dac24dff60deccc836e8b1fea4181f713b119c299",
+        "url": "https://files.pythonhosted.org/packages/2f/ea/f174c17a4c51c3c0072552586c53d7024b174e8c74dcf388f52e9390f975/MapProxy-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "bbb7dc5f5fc7c21e35e9be4ea0b169b0feb0d6ebc24e9d2b115b941a3d5412de",
+        "url": "https://files.pythonhosted.org/packages/22/a4/dd810ce52c557c8a0c74a770a5a9604fb9720c2747f9bb32a5f4e16026b4/MapProxy-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "94792cc0cd1620f5e823a581f86e0c2b228495b04f2f0f9e7d2277b401f5457c",
+        "url": "https://files.pythonhosted.org/packages/a4/73/f12ff8d31f21bc6dbf9f383decf9a5264f87b27d745fe2123042c0819de5/MapProxy-1.1.2.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "f813d06b1a9cb297f30eedf3962b184ed2c73565b546d878c438bae640fcb4ef",
+        "url": "https://files.pythonhosted.org/packages/22/53/f1096640e2f71d9ca499375b0091336fbc6e123caeb937d93efbfc3013e4/MapProxy-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "c682e0aaed21d693e6d15edc87e8d5294c9dab21b112f19064f42b0a4f8ed904",
+        "url": "https://files.pythonhosted.org/packages/79/71/53864481fda07ff5ba959036e470b208af82b44983fa80c203037731b25a/MapProxy-1.2.1.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "f7cee664629f49557a2fd0fed0b9ecaf47e989ebd659ce1b8b918692a80610b0",
+        "url": "https://files.pythonhosted.org/packages/6a/36/4d707c08d38615b655a9d1b12e6d9cbc44f79a367732efbea4aafe2e5409/MapProxy-1.3.0.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "68997a69d99eb8b325adc4d65d59ec40adae9eff88342049976b85b9b44dc9e5",
+        "url": "https://files.pythonhosted.org/packages/9c/2c/35f325d539c9d011ffc47f039743bdc23f8a3f7fab428bf1868e327b40a6/MapProxy-1.4.0.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "7b87afc6e6358b0dc3aa6ec28a29551cc0954cbef0ee3f53d9fd0719116ed475",
+        "url": "https://files.pythonhosted.org/packages/28/ce/0453de2a26763cfa28126a2b68f83b4f25c96372d47489563f87af86d396/MapProxy-1.5.0.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "bf40225aeed3600d5f2a9a13da34962fa48606761b8a97ec7195fb9acdad1241",
+        "url": "https://files.pythonhosted.org/packages/5a/13/c8a3ef9ef0ca129d699164849c88b2a55b38e65ac2456d0258f251872665/MapProxy-1.6.0.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "355918902992ad4d96848b7672ecc46accf9b45c3848b36c21cff38799632026",
+        "url": "https://files.pythonhosted.org/packages/c6/4b/349860b50292d4932b6f18212b7ff19d181b90373f12177974dc4090d897/MapProxy-1.7.0.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "58da8416efd8c55767829f16217c26be0c8a51a1a3278bda6f859dcd54c800ad",
+        "url": "https://files.pythonhosted.org/packages/a0/ae/caf796101d12a6d33bf4d32c0a816d8f27541e1678f7a9640fb584555422/MapProxy-1.7.1.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "32f01503e1ecfc3ddd0489561c385c464c373b306683de5eaee4f44371a54504",
+        "url": "https://files.pythonhosted.org/packages/5d/3e/f4e746ddd0fadd6b71aa3e558de92943b2bc658be5a58b269255024727e2/MapProxy-1.8.0.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "7998c1809161498a90358fab9817707c64eb32f6e50ef390822f383c8e1189af",
+        "url": "https://files.pythonhosted.org/packages/ef/f8/58391bed52027b8ea60947b0f9b3d71d109862ba46adafe27e11050a3242/MapProxy-1.8.1.tar.gz"
+      },
+      "1.8.2": {
+        "sha256": "b085b4a19d19cc6979d6c90fc81962d6869dbc73314b80c17c12a1e5c1d2ec18",
+        "url": "https://files.pythonhosted.org/packages/77/aa/6bcd7ec29c58f97a8177d6850ced153e9a5eea07251ce48a57175a1c3503/MapProxy-1.8.2.tar.gz"
+      }
+    }
+  ]
+}

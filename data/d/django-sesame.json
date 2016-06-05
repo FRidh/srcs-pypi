@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "URL-based authentication, an application that provides one-click login via specially crafted URLs",
+    "homepage": "https://github.com/aaugustin/django-sesame",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "6391b1cc19613c2fd9a156c582cc2ab8d02ffa7abb182c392d502d873e215fc0",
+        "url": "https://files.pythonhosted.org/packages/20/ba/237e5b3f520c461a161aa6f409eae108234bdebb69f060a5a06d97dae709/django-sesame-0.1.tar.gz"
+      },
+      "1.0": {
+        "sha256": "f34b6bae688764f1557418a1a00f8af29ec525dace4cb4102cca00b9536becaa",
+        "url": "https://files.pythonhosted.org/packages/ed/06/c81785f40ac64739cf1cfecd57c28d212cae677dbdf8be5c499c23e8843f/django-sesame-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "96a78edf48a0277f8bc2d33479f35b5ef9e8bbf29bb519fc11e9d4f530a1c954",
+        "url": "https://files.pythonhosted.org/packages/0f/38/86155b24a4bbcdbd473b75e61751bb90f2614466160f401fbf624959169a/django-sesame-1.1.tar.gz"
+      }
+    }
+  ]
+}

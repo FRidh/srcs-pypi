@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.14"
+  ],
+  "meta": {
+    "description": "Wrapper around GNU Aspell for Python 2",
+    "homepage": "http://github.com/WojciechMula/aspell-python",
+    "license": "BSD (3 clauses)"
+  },
+  "versions": [
+    {
+      "1.13": {
+        "sha256": "899c6f70254a054324c5a3bf8804af039a8f7da45a96d550edaa7e721b8c321c",
+        "url": "https://files.pythonhosted.org/packages/54/f2/233d2597c11b2f9b8c6087c8966782fe53051ca0d4ad1ee4f323057b3eac/aspell-python-py2-1.13.tar.bz2"
+      },
+      "1.14": {
+        "sha256": "ab7c55184e1ecd4c8f64bac126733ae52e26123847c0b0b25d53e550b060d103",
+        "url": "https://files.pythonhosted.org/packages/25/05/a01a9468d596ffc393cb387e1658f0d56403a21b59a1a040c92a0b7d0550/aspell-python-py2-1.14.tar.bz2"
+      }
+    }
+  ]
+}

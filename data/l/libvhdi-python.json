@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "20160424"
+  ],
+  "meta": {
+    "description": "Python bindings module for libvhdi",
+    "homepage": "https://github.com/libyal/libvhdi/",
+    "license": "GNU Lesser General Public License v3 or later (LGPLv3+)"
+  },
+  "versions": [
+    {
+      "20160423": {
+        "sha256": "7e9c03dcc6d3484f99045ca7e30752774003c3d0155b9661bc9d28d2d583e94c",
+        "url": "https://files.pythonhosted.org/packages/d0/66/88247d7e17b5a633794b252541b31aed609dac2cb350608c81f282f09b81/libvhdi-python-20160423.tar.gz"
+      },
+      "20160424": {
+        "sha256": "0ca58557e760d4345f5cebae9cb2ea687c5dc78da5d3a822d1dccb57b07c5d7c",
+        "url": "https://files.pythonhosted.org/packages/63/3e/4ffe246bbe1ebeb91bc36f6d698304eadc24d6d5205eb52c65351c68159e/libvhdi-python-20160424.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Defines a common API to handle file objects independently of storage",
+    "homepage": "http://www.atreal.fr/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "a84698b22bbc6ad43ed4b4b4c9f2b52c5f0a231d51421938aed27b2d9c9f7b2f",
+        "url": "https://files.pythonhosted.org/packages/3e/f9/ecf69072981ebabf7367c6fb385d34a6b31dd7a7ab49d2873be2622b4058/atreal.filestorage.common-1.0.0.tar.gz"
+      },
+      "1.0.0beta1": {
+        "sha256": "f6bca6a90045e26df7fc669ed7e0306e826f11255550ee0b630d301b1c21926b",
+        "url": "https://files.pythonhosted.org/packages/98/4d/0f6ad31c7cd36e072617d11efd239e4d5ff5912f0abd67f945a5b29b5122/atreal.filestorage.common-1.0.0beta1.tar.gz"
+      },
+      "1.0.0rc1": {
+        "sha256": "828a5bb5c61d6e2746c4374c2a36543313ddecadc474a5cce61c31960350de3d",
+        "url": "https://files.pythonhosted.org/packages/60/24/f19c3e6559abcff4154bd5c53be37fe42448ae682410289301266a52af79/atreal.filestorage.common-1.0.0rc1.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "423c758bb6ddc6b22ee09bf5957aee864a6c323f5006ea2f8a3b2b4e4e1186a2",
+        "url": "https://files.pythonhosted.org/packages/1d/62/ff3cb57031d7676775a6646e60dfe7e734183f8ce0381f389058c476cdaf/atreal.filestorage.common-1.0.1.zip"
+      }
+    }
+  ]
+}

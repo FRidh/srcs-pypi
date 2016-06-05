@@ -1,0 +1,94 @@
+{
+  "latest_version": [
+    "2.5.1"
+  ],
+  "meta": {
+    "description": "Common tools used within our organization. Originally created by the HPC team of Ghent University (http://ugent.be/hpc)",
+    "homepage": "https://github.com/hpcugent/vsc-base",
+    "license": "LGPLv2+"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "73870aa43c24ddbb353f69ba5c337f5dc054a73dbf770345b6ff41a7af6ad1fa",
+        "url": "https://files.pythonhosted.org/packages/8f/aa/ae735197a8613e9ede17984213c2f19cb4cfc995520bdb6a337f46900790/vsc-base-0.9.tar.gz"
+      },
+      "1.8.5": {
+        "sha256": "10ccac49cd222ebe817dee1c322d5407debc8a3a44e4c02fd18b119a3a36306d",
+        "url": "https://files.pythonhosted.org/packages/5d/8c/54ac639586431005caed41d6ed68f0c8b3415b5b8505e4e13fc362ddc938/vsc-base-1.8.5.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "7c6c07f4c420a2b805c31f3501dede087868fcaac5bf46065b2c5481fa777b1a",
+        "url": "https://files.pythonhosted.org/packages/1c/a7/b0af04ceb2c71c0075654847f3369aed0b46b5270c319d872f6c9407fa0b/vsc-base-2.0.0.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "972067ee631ed13c318d42f3e0c2ee1fc8e248d2ea11ee70cdff9746720d54ca",
+        "url": "https://files.pythonhosted.org/packages/05/70/c3817009b88de4d45ee1f963211a1b1bd6a29b602e7a2a8e0e4002ac1a9f/vsc-base-2.0.2.tar.gz"
+      },
+      "2.0.3": {
+        "sha256": "749a9c50703e0017eeb3c5f4228fe6a5b5af5dd579f9faed1f751583bd6e095a",
+        "url": "https://files.pythonhosted.org/packages/72/19/726c6ac78bc7cab3d25e9768493268a54170cfffa55ff7319ab2c75c1dcc/vsc-base-2.0.3.tar.gz"
+      },
+      "2.0.4": {
+        "sha256": "276a2480d1001fbe617da398e306f3f6ad646457c951875fe771cd33fa054d30",
+        "url": "https://files.pythonhosted.org/packages/46/24/96d4e0000f91b9db48104beebb0960c8c2c5e01fdb1f5724a1a2ed48daf9/vsc-base-2.0.4.tar.gz"
+      },
+      "2.1.2": {
+        "sha256": "651cb3a2521e8f2dcd7263ab4b75cf73182e99e8df04d2dbe7ee37842f6c2cac",
+        "url": "https://files.pythonhosted.org/packages/3a/ec/f816b0ec7228e1599f30a0fa4b907985219b5406d33945e561b3497c7de1/vsc-base-2.1.2.tar.gz"
+      },
+      "2.1.3": {
+        "sha256": "c2d10bb9dad7926c790ddec1fd90a62b9e0c32cc4b25c1b762d5b33ee1fe6806",
+        "url": "https://files.pythonhosted.org/packages/f6/f5/9e7580a19462a67965d76c2bbb51aedef6fec139457c57676e644b276c7f/vsc-base-2.1.3.tar.gz"
+      },
+      "2.2.0": {
+        "sha256": "71d527b022359420d84b3b59ec2b493f4a3c29af33b05068264cf04d8710590a",
+        "url": "https://files.pythonhosted.org/packages/22/31/83a62d9e4459335059f7f7d31c575d69f185c4717acf7993d8bc3ad7f51a/vsc-base-2.2.0.tar.gz"
+      },
+      "2.2.2": {
+        "sha256": "2539ed9e25638e81a5764d1a68b3dbabe5fd7df249cbc9ed89524c85e0d19d8e",
+        "url": "https://files.pythonhosted.org/packages/6b/d8/d204f969ec6a85479801987969c99c75c5e7af6fef9b5027d9546952a55d/vsc-base-2.2.2.tar.gz"
+      },
+      "2.2.3": {
+        "sha256": "b81417ac80cc37388f80e940950947406720d7aec9aedb1baec65572f66367e0",
+        "url": "https://files.pythonhosted.org/packages/3a/00/e969e659352fbc98b0e4f082f00c1bddb2f94b42fc99ab65a105b8cb6f4b/vsc-base-2.2.3.tar.gz"
+      },
+      "2.2.4": {
+        "sha256": "f97c6158aaf4a08177378b89bf4c141c1e14b2e15e552865769ee24c752936f2",
+        "url": "https://files.pythonhosted.org/packages/0b/1e/470d3e486a9ff9dcfe586021528ba8f9c590c6379d8cc7a77911cbc4505a/vsc-base-2.2.4.tar.gz"
+      },
+      "2.2.5": {
+        "sha256": "36c72e3c6c11173a3e491563223da2a75485ad989363c8e406fd0136872c6d8c",
+        "url": "https://files.pythonhosted.org/packages/66/dd/1db8144a64bafb8dd584cc869dbf6d1782d6fc11801e7e0fd2f7591f1cac/vsc-base-2.2.5.tar.gz"
+      },
+      "2.4.1": {
+        "sha256": "9872ac1ef6ece04266f8e9659d319ffb52d55117469926da29c524826659b83f",
+        "url": "https://files.pythonhosted.org/packages/31/01/b0819ef3489f525f3280267703fe94d7963adf703c7634af704df4781b80/vsc-base-2.4.1.tar.gz"
+      },
+      "2.4.12": {
+        "sha256": "b6677a8395739f3beb23877e7931370d611339646b50d6af8339e854a5683c35",
+        "url": "https://files.pythonhosted.org/packages/8c/2a/86ce35ded891677dd78370b66126e65cb007d3bc6222b05a70cde429494c/vsc-base-2.4.12.tar.gz"
+      },
+      "2.4.16": {
+        "sha256": "a52544598ea237db55ce27faf6e8102aad3e60cd7018d1f70ebc612725875381",
+        "url": "https://files.pythonhosted.org/packages/64/eb/013ad81f87fca8d0da896009e72a65dbde5eb5837a047a640271dc0ad16a/vsc-base-2.4.16.tar.gz"
+      },
+      "2.4.17": {
+        "sha256": "d5cd36811ec993091a29c1046abb9fd10cf0dae77246a5bb0ea6a5e4c25a6637",
+        "url": "https://files.pythonhosted.org/packages/ff/eb/5a7278f64643e076a0cfe3e1cd18fff9504f37cabf7007d16d7dbf764104/vsc-base-2.4.17.tar.gz"
+      },
+      "2.4.18": {
+        "sha256": "f99bf650e598ff1f9d16848ba09d7a73baea8619c910537c55a218d4ed825cd2",
+        "url": "https://files.pythonhosted.org/packages/1d/9e/9a69f54d7bdb4a75e78530d1ccdd66be5fd61e31ef289f167cf007e11089/vsc-base-2.4.18.tar.gz"
+      },
+      "2.4.2": {
+        "sha256": "82e75e74b21b3f0db9cce9255efaa7c81bc0d20bb4e09655754a39ac7535d672",
+        "url": "https://files.pythonhosted.org/packages/97/37/76f5e2c5d2b9dbac01d09eb551539dbcf511412725d5e801edd4f387c355/vsc-base-2.4.2.tar.gz"
+      },
+      "2.5.1": {
+        "sha256": "6c822dd3c8d1e017430180c1320611d2efc1fdb0b836bed15e1730742d127f3b",
+        "url": "https://files.pythonhosted.org/packages/c2/b9/8686ca09c21d59d49ce5964cea035d158d84447fdd0c7d1bfc1d2701c17d/vsc-base-2.5.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "A REPL client for MicroPython running on the BBC micro:bit",
+    "homepage": "http://micropython.org/",
+    "license": "apache2"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "2fd5437136100e6d2585687e3fe7f3badbaf740647ce3d4f0fb5865a719226e8",
+        "url": "https://files.pythonhosted.org/packages/e8/2c/92c1af1fbfaf0f195ed4b9207951df9a0b6266c922c1b47dde1a678c4798/microrepl-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "d2834348d46d212ec6e24cfce51eeac2062c7999fc20ec205b2e1eb13aa582cf",
+        "url": "https://files.pythonhosted.org/packages/79/17/2f87abb7f6bff4ade0f766ba9244dfe419c7af61d7e6fd04321ec8823abb/microrepl-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "a7f5472cc04edac5badba383994a918e249e92eea9df442c70301a2db98ce141",
+        "url": "https://files.pythonhosted.org/packages/d0/25/37d5653a0f0080c74e9abc50405653a03b6f00e844def691cedb190593a9/microrepl-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "fb9ae7ac7d033928a4fb5a69940fb72d770dcd905e934a88c5f6014ba4f94dc9",
+        "url": "https://files.pythonhosted.org/packages/0a/92/16fa5d9428c24acbab026e30cde6deb60bdb9f2e1815e977d9c062bb6686/microrepl-0.5.tar.gz"
+      }
+    }
+  ]
+}

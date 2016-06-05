@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "A Telegram alert plugin for Cabot by Arachnys",
+    "homepage": "https://github.com/codesyntax/cabot_alert_telegram",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "a87a6319d51938b195b9278c9d3e70fe8777fd6721d615d523a2530993ad0abf",
+        "url": "https://files.pythonhosted.org/packages/6e/25/e03a8ce93cfdfc4bd4bdb75457562073fffd468c9c5e61f1616a4b4a76aa/cabot_alert_telegram-0.1.zip"
+      },
+      "0.2": {
+        "sha256": "8b94521c1690f37b75d9a0187d8e6dee18f0c07bb0193569bd5ebb0791dd4cfb",
+        "url": "https://files.pythonhosted.org/packages/12/bf/05388efc27c3c585a2adf6033e3e55dd88f23ef29802969721dfb98f30c8/cabot_alert_telegram-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "2e8f04b9e1bdc87f7e440dca129a7da1bb1f99e219f3794d0f863c55757518bf",
+        "url": "https://files.pythonhosted.org/packages/bb/f6/9ebd45bf658ef48bab535dd3406f5648b3d67f046db065f44fd69957a8b9/cabot_alert_telegram-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "d9b84d973bb5b4ef025f62519a82f43472a51eb3b859b6a0beb851cdb322b927",
+        "url": "https://files.pythonhosted.org/packages/e5/ab/9498a06dd054da23a175d4b865394451d14883fb515266155ce6c625df24/cabot_alert_telegram-0.4.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Generic handler for hooking client side javascript error",
+    "homepage": "https://github.com/jojax/django-js-error-hook",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "ab255c2a70e42e2b584c0d4ff676bdb101cbd83ca64a52ccee299cd0714c0b5f",
+        "url": "https://files.pythonhosted.org/packages/4a/71/a5c022888fd47ccc3c535adaf74069b1a71f217e63df2a2a219dfb4c39af/django-js-error-hook-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "41d5a3d7def9c055cc31d9332e873539245ed76bb40c05bf4dfae8035eb582a3",
+        "url": "https://files.pythonhosted.org/packages/73/c9/90cba013f6c933e38e171d21a9c5c67543190a6d52fd7e7c06a035569380/django-js-error-hook-0.2.zip"
+      },
+      "0.3": {
+        "sha256": "9d738fdafe6ea74b0e3b637371769fc83c871dafe91580ed4a791d75bb94cf1f",
+        "url": "https://files.pythonhosted.org/packages/af/35/7bcc43bbe98a84f8ab493cf13a32743187873d0fd710b9c3522fe58ed718/django-js-error-hook-0.3.zip"
+      },
+      "0.4": {
+        "sha256": "257dab067fbfcc780e0b108cccaf84c0adfc65a2fda732f22de533add2f97ee8",
+        "url": "https://files.pythonhosted.org/packages/64/42/3afe9e2230b46fa90a713f5a2a4f3cd522ccf21db536ebfa46709d4cb9c2/django-js-error-hook-0.4.tar.gz"
+      }
+    }
+  ]
+}

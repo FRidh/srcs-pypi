@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "An API queueing system built at Plivo",
+    "homepage": "https://github.com/plivo/sharq",
+    "license": "The MIT License (MIT)\n\nCopyright (c) 2014 Plivo Inc\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "b4945c238081606c9baf826131929f7432f9500122ff212a956b6e3ebf742fc9",
+        "url": "https://files.pythonhosted.org/packages/36/7b/0a41215ba3e769ea651585717f5ae9bed54b2241bdfcee8d1b1e7cbcb55f/SharQ-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "f8c574d8dacfcc914b2c3247b90506a42ed1623f61376acc6de327797e91ce15",
+        "url": "https://files.pythonhosted.org/packages/6a/10/f39371710195f48158922dad913b322f976a988fe66793429673d094fc24/SharQ-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "0f2cbf35c2aa42cefda1bf47a7cd14ede98579065454426e07cfcc2842d655de",
+        "url": "https://files.pythonhosted.org/packages/10/25/ea4ffdbdea2e0c703ca8c4dbdda058c28efc5176d2346074527c60732ab1/SharQ-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "392681842d819618589c78291ffb62bf23a6cc0f95f4883ed71d5100b6b90bb3",
+        "url": "https://files.pythonhosted.org/packages/57/75/a9193b7443b5fb36ed2b4d7616dd8b70e1f884ca01716b264470bebe0b50/SharQ-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

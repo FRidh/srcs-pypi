@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Simple crawler that detects link errors such as 404 and 500",
+    "homepage": "https://github.com/bartdag/pylinkvalidator",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "d6291d4efae51968374e142dd35069679311829f4e33a22f828d413f008cad66",
+        "url": "https://files.pythonhosted.org/packages/23/46/b08685f7097ce183e0d10006eb97617e40bb543feed6d30fd35b0d400b22/pylinkvalidator-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "d211931171d6e5090923aa3beac86c579034cbea12ce3a6aa104b743f8a28d09",
+        "url": "https://files.pythonhosted.org/packages/33/f1/fa835052eff9ff273cea902a4f79cef9487940762ce29fb35706dea5b4fe/pylinkvalidator-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "84cee114990938998ec32c9a74f4de0719cf79c232f71bd327169b3d64ae75d2",
+        "url": "https://files.pythonhosted.org/packages/b0/63/6cd2117907b4fad4925115d03aa9fdd410f0a62a18e3012a3e8927864f72/pylinkvalidator-0.3.tar.gz"
+      }
+    }
+  ]
+}

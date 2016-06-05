@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.9"
+  ],
+  "meta": {
+    "description": "A small set of tools to make using Docker with the Invoke task runner easier. Also incorporates a Flow system for use with git-flow",
+    "homepage": "https://github.com/VJftw/invoke-docker-flow",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "ab6ba7182b7f702a8cc9d26e8a5f3464611bb2187a63640a6e2e04f5c30e77a7",
+        "url": "https://files.pythonhosted.org/packages/e6/79/3c269daa78bd690c33212e08947fc056609d69e86658ca30b12d9fca4856/invoke-docker-flow-0.0.1.tar.gz"
+      },
+      "0.0.9": {
+        "sha256": "11c4d2e639578034bea51eead9b03f4dd4af60e73e78748c71e1699c7e55b28e",
+        "url": "https://files.pythonhosted.org/packages/19/7a/f9765cfff0ae48145e6797df4ba818bb8a4968ef33cd7a1af10aa8818688/invoke-docker-flow-0.0.9.tar.gz"
+      }
+    }
+  ]
+}

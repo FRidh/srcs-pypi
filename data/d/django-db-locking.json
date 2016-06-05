@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "Database locking",
+    "homepage": "https://github.com/vikingco/django-db-locking/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.2.0": {
+        "sha256": "6b12dfba386a09460212a6782381d4dcf7fe32f7675c60304400a3124a63a84c",
+        "url": "https://files.pythonhosted.org/packages/ac/b1/16809e3066ddc0a5823161175007f70183356386f4a35378d1c5317f31b9/django-db-locking-1.2.0.linux-x86_64.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "0927c76273b97bd1b97e33a404df67285149ee3296c64fb7ea7757595ced9e52",
+        "url": "https://files.pythonhosted.org/packages/ad/da/afc95a9e14c1a7ee0b4dedfc82adfae401815716a84f5bf38310e48beaad/django-db-locking-1.2.1.tar.gz"
+      }
+    }
+  ]
+}

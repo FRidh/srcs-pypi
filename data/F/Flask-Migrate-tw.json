@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.8.1"
+  ],
+  "meta": {
+    "description": "A custom version of Flask-Migrate, which depends on  Flask-SQLAlchemy-tw(v3.0)using Alembic",
+    "homepage": "http://github.com/miguelgrinberg/flask-migrate/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.8.0": {
+        "sha256": "09af009f00872f15ffb2c4ff21b7427d053a895646a9a89a4abad808b2d3e582",
+        "url": "https://files.pythonhosted.org/packages/c7/22/4690f9867028755dd00ea6a2393719d5f539102a96039a17119bd7c9b775/Flask-Migrate-tw-1.8.0.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "7b5350c00f9d841124ebe512e8c8e41290ebd2ea7aaff3445d293f5f49d6807b",
+        "url": "https://files.pythonhosted.org/packages/ba/59/5c7c487d39b6185361d4f2d43d00a54072e01a7cde3f3ebfc6dbbfa1bf77/Flask-Migrate-tw-1.8.1.tar.gz"
+      }
+    }
+  ]
+}

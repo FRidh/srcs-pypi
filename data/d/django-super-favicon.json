@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.6.0"
+  ],
+  "meta": {
+    "description": "Django app for:\n- Generate favicon in multiple format\n- Put in a storage backend\n- Include HTML tags for use favicon",
+    "homepage": "https://github.com/ZuluPro/favicon",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.4": {
+        "sha256": "8f30631f790ec366e9d365fb352b1c43cb075abc0b642bd055253e97eaa9c4c5",
+        "url": "https://files.pythonhosted.org/packages/2f/36/974e2cbd9fa71e2279648a95374325de5170ec8ca343723333b0a5f3ef66/django-super-favicon-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "a344ed947c4b64ce03b4945ce5a205efd3cd112668a047e2546efc3a5cd01b16",
+        "url": "https://files.pythonhosted.org/packages/53/86/9861d04ce8a12e13516768fd85d68e3aeaee6ff4c77fbb0bb0707381a27b/django-super-favicon-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "b35d78bb4847aefd49e10388f6191fa5d14d42ab723c406bbee6b60dd82e31bc",
+        "url": "https://files.pythonhosted.org/packages/62/a1/5dc73b3cc781ccf707631188882785d90bacc50bd150aad481c781ed2994/django-super-favicon-0.5.1.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "2b42931b316da61da69f07c011dba9290e05ce12e7f76cdf44082849f504e6b8",
+        "url": "https://files.pythonhosted.org/packages/99/ef/34a38ae870ba145dabc1b3b5a9b799092e3759904310eb8927e799528938/django-super-favicon-0.6.0.tar.gz"
+      }
+    }
+  ]
+}

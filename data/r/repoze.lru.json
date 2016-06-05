@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "A tiny LRU cache implementation and decorator",
+    "homepage": "http://www.repoze.org",
+    "license": "BSD-derived (http://www.repoze.org/LICENSE.txt)"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "1a17728e908c5cde6fa3c7ebf073e61523c4848643be467e665e87c9fe5d3eda",
+        "url": "https://files.pythonhosted.org/packages/d6/b2/2dcad0412dd79e8f2d856570624a78540f0988bd3675315e0ee51b760460/repoze.lru-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "2ac05d99cf146f507036bf73456f1fb3e67eabb435e8d683d557af28aeac327e",
+        "url": "https://files.pythonhosted.org/packages/0f/e1/9d22823297ef45f7fb9ae7cf04ed9470d65112035a8fbee3d00fd01dd63b/repoze.lru-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "27bb8a936dda67c19bb676d97ed96b8e899797ae634612c326f3d01e8d1ba71f",
+        "url": "https://files.pythonhosted.org/packages/b7/5c/805639666b59a7f2ef576e0c595efccbdae1df3a7b48669e681f78138b97/repoze.lru-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "8e2d2152c3ca15aefa1a2bc7f2763d2351bf6309c86aab96348463848bd06d0c",
+        "url": "https://files.pythonhosted.org/packages/9e/74/fc1d06dc1c0f96da0297372c6f6902f03393d744380aa4f847a572522c6f/repoze.lru-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "a82f38c416c0985350429810cc436a83ee2b0e260d490866e8f063d792388be5",
+        "url": "https://files.pythonhosted.org/packages/19/a0/c916f7bba26725b8f99011aee2c51bae10e3366528ab2715cb72992a3d38/repoze.lru-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "0f7a323bf716d3cb6cb3910cd4fccbee0b3d3793322738566ecce163b01bbd31",
+        "url": "https://files.pythonhosted.org/packages/6e/1e/aa15cc90217e086dc8769872c8778b409812ff036bf021b15795638939e4/repoze.lru-0.6.tar.gz"
+      }
+    }
+  ]
+}

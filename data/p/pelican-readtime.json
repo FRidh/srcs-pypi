@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Plugin for Pelican that computes read time based on Medium's readtime \"algorithm.\"",
+    "homepage": "https://github.com/JenkinsDev/pelican-readtime",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "732b37769d12c7c20beeeca92520335ce0dae9ba26ee093b9e13831f42712869",
+        "url": "https://files.pythonhosted.org/packages/55/e2/6e7403c322b62e6fd7bddb4ca7c40101cfd7769e2971f60f9e3a6b0b9dce/pelican-readtime-0.1.0.zip"
+      },
+      "0.1.1": {
+        "sha256": "fa5eb78e3ab5953f92ffad11fe56ec2fa53d5da629fa247707ade24c2e187d58",
+        "url": "https://files.pythonhosted.org/packages/e6/6a/d8b49583a7a574999f60cbcb05f9ef8b5c205212a100a8e874a9ef9c7663/pelican-readtime-0.1.1.zip"
+      }
+    }
+  ]
+}

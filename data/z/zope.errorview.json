@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.11"
+  ],
+  "meta": {
+    "description": "Basic HTTP and Browser exception views",
+    "homepage": "http://pypi.python.org/pypi/zope.errorview",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "b715021c1fb8a20c1f4a604dab70d23f256351d493ec07335750c7632affca63",
+        "url": "https://files.pythonhosted.org/packages/b7/eb/a9715f871cc1344f31d499e924aa60c2873d6aacddfba0e504f1b11135a0/zope.errorview-0.10.tar.gz"
+      },
+      "0.11": {
+        "sha256": "012e10014888dda5945cf3ab76ad5c67328003c7f3e72109ce9e0288600bf75d",
+        "url": "https://files.pythonhosted.org/packages/be/6a/96fa7add70839bc6f699a9d2b21e2c87a4240026fb3dd201fec40dd54bb5/zope.errorview-0.11.tar.gz"
+      },
+      "0.9": {
+        "sha256": "766724f4579cca102b46eb94fc5097931bc073745a91c7ffc869062d57dcf188",
+        "url": "https://files.pythonhosted.org/packages/7e/fe/2b35d59d10d8b446659f726cc8ec4378dd77c7529491062718b0a388ad2c/zope.errorview-0.9.tar.gz"
+      }
+    }
+  ]
+}

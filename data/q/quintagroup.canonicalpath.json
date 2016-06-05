@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "Brings canonical path calculation functionality",
+    "homepage": "http://svn.quintagroup.com/products/quintagroup.canonicalpath",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.4": {
+        "sha256": "83b7769aee5ce1170a5cb16ddc9adf7a25dbcebf1063091948f69ba53ad29684",
+        "url": "https://files.pythonhosted.org/packages/51/f3/52d3bff34158cd3d22080378341b7ff59a28227e9a7ca8c838ec17bf2c41/quintagroup.canonicalpath-0.4.tar.gz"
+      },
+      "0.6": {
+        "sha256": "41ecbbd687606e32b1e87586add7b20c171137c4055dacc00932b14e44234fc7",
+        "url": "https://files.pythonhosted.org/packages/f7/a4/c164e71632170aef6ae35aef7e60601f0597832f098dc10729baac392929/quintagroup.canonicalpath-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "c04eccf6ab47979284d815e1ab39b6baf1072535f40baa1e2aa1acc53d4d8b3e",
+        "url": "https://files.pythonhosted.org/packages/e7/04/e6988dfd8a23a2d63f26807dd0131101e02cc36733c1d2c4e0b6f59b074b/quintagroup.canonicalpath-0.7.tar.gz"
+      }
+    }
+  ]
+}

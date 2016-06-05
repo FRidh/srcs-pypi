@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.9.2"
+  ],
+  "meta": {
+    "description": "Python SDK for the NSONE DNS platform",
+    "homepage": "https://github.com/nsone/nsone-python",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "b9c320563f093f03822f58434b6ccfd1a6ca4d62a92774fc87edf0ec35eaba8d",
+        "url": "https://files.pythonhosted.org/packages/4d/08/9628cd51a0cb4424aa1b5759c17ce79b631db64373d3787d8979f29c57e9/nsone-0.1.tar.gz"
+      },
+      "0.9": {
+        "sha256": "346ad8018814886a077049b9cfcece3ed87e73cf51f8e4b1017e1fd7c064a62e",
+        "url": "https://files.pythonhosted.org/packages/e9/ee/f4186f41e2db0366f0ccf709cfe0b34ebf05e2f710204f00f2ea2212796c/nsone-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "6d02a7f97551ab985870abcc98fd909add458f219f88b5ebffe45bb3ad0546e9",
+        "url": "https://files.pythonhosted.org/packages/b2/2b/f97ab92f1460266e28d6c065dfcda54420f17182b93e2af1e595a61e90d5/nsone-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "b9d19da07bf6720f32513bdb603bdd4433ccf25e3a8e31043a821aad9ebdaa51",
+        "url": "https://files.pythonhosted.org/packages/8d/5e/c1cd71d21f2c3be87ceebb7070fde2e5ef1aa1183ce50d0ce5d5faf2ece1/nsone-0.9.2.tar.gz"
+      }
+    }
+  ]
+}

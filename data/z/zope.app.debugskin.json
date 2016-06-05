@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "3.4.1"
+  ],
+  "meta": {
+    "description": "Debug -- A Zope 3 ZMI Skin",
+    "homepage": "http://cheeseshop.python.org/pypi/zope.app.debugskin",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "3.4.0": {
+        "sha256": "14679271eec30959776b37a3238a67da50c6ef9d2c48526ef6c2f9cadd82286c",
+        "url": "https://files.pythonhosted.org/packages/48/f4/d049090f629830e31500835605ae8395247f01a0bc505ad8ecd5b44fb4a5/zope.app.debugskin-3.4.0.tar.gz"
+      },
+      "3.4.0b1dev-r75539": {
+        "sha256": "2f9e68837f76f204c6b74e87c25d14e7c2435075260147f0b12e05ad259c3261",
+        "url": "https://files.pythonhosted.org/packages/03/46/fe5dd9e885aef2f9ebdb51d2e0cbace98de9c4a36f3667e23e78870ac18c/zope.app.debugskin-3.4.0b1dev-r75539.tar.gz"
+      },
+      "3.4.1": {
+        "sha256": "c867cccdea6599e260041868b7ceb65310c84826991c37c2778dc09a6015bf51",
+        "url": "https://files.pythonhosted.org/packages/19/21/e2b89429561e2571a788469d8f29798aebf4d702ac30e6449759649b6279/zope.app.debugskin-3.4.1.tar.gz"
+      }
+    }
+  ]
+}

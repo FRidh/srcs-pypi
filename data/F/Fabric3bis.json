@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.10.2.post2"
+  ],
+  "meta": {
+    "description": "Fabric is a simple, Pythonic tool for remote execution and deployment (py2.7/py3.4+ compatible fork)",
+    "homepage": "https://github.com/jaraco/fabric/"
+  },
+  "versions": [
+    {
+      "1.10.2.post1": {
+        "sha256": "40580f73b60026447a9bd3f805804f4a36682bde15aff66df2614b7ca2c80840",
+        "url": "https://files.pythonhosted.org/packages/b5/5e/d349d69ca2b1c1f8ea81d68e0f4d0fef8c04b24dd4526c40eda4e5c3f3c2/Fabric3bis-1.10.2.post1.tar.gz"
+      },
+      "1.10.2.post2": {
+        "sha256": "e6a631999b3c12b4ec92c579b5cab34ec581a5c358ece34040a640389683d220",
+        "url": "https://files.pythonhosted.org/packages/4b/8d/93daa4e72b7935b198c86dca140416109e9db4e4c04d42ccb70610474e30/Fabric3bis-1.10.2.post2.tar.gz"
+      }
+    }
+  ]
+}

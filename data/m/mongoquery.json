@@ -1,0 +1,41 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "A utility library that provides a MongoDB-like query language for querying python collections. It's mainly intended to parse objects structured as fundamental types in a similar fashion to what is produced by JSON or YAML parsers",
+    "homepage": "http://github.com/kapouille/mongoquery"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "7663563b413c027808eebebbb33c346037273d81ed32ae7cba1b364d36a55c58",
+        "url": "https://files.pythonhosted.org/packages/27/46/b079e2fd64c60fb398149df462252c6c2a889ce6f8839ca9212092504e9f/mongoquery-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "ad91a4f79a56ca76be4986c2a80ee3e53c212243ed39b1df4d1039398e33233b",
+        "url": "https://files.pythonhosted.org/packages/0e/22/3c892f3ff6a19b57e8c89a6ea21ff6833385af327d814737170bbe42fdb7/mongoquery-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "e8e0df2d3de65bf0cb2d4a17f4930b0491cd309d0411edaf5ed419f36f682ce6",
+        "url": "https://files.pythonhosted.org/packages/81/4a/59a7eff22333e72b77914c44f106535be82d34d43c0ca7da6b75c9ab89ca/mongoquery-0.1.3.tar.gz"
+      },
+      "1.0": {
+        "sha256": "fef6a4434b9f8a2c7d1a883dae619ab9945299082c06551f188ea7f38e7f79d9",
+        "url": "https://files.pythonhosted.org/packages/a3/a8/9b327fc49e44265792efd0ca1e8997d4e6e92d492abf4ab18bd4820a7c64/mongoquery-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "b43488501bd7b34f9ea8afb67e98937f0a7053809143672c322733ae59f148cc",
+        "url": "https://files.pythonhosted.org/packages/78/a5/14f5830d64571e29df64f23d179156235a991cf7d8e02e93ff3792d41b77/mongoquery-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "24c8701625ed3eb96725b063c46f42cd12ad06ec61651e4f945417d357b52c55",
+        "url": "https://files.pythonhosted.org/packages/e1/a8/2554ce28333375ad09f7b86b91a64dde921d4b5b7943e340149c5a2471e9/mongoquery-1.0.2.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "e638fb24efef390683128c0991e5c931fff5420757add452bd6e92f7a81176f6",
+        "url": "https://files.pythonhosted.org/packages/bb/bf/f8fab11c73feccccf9fb1858b69a55fc2f7ff9cecdb8ae7b2c668bcfbf02/mongoquery-1.1.0.tar.gz"
+      }
+    }
+  ]
+}

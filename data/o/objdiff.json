@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.2.2"
+  ],
+  "meta": {
+    "description": "Returns a list of commands/delta to go from one tree of objects to another",
+    "homepage": "http://blitz.works/objdiff",
+    "license": "MIT BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "4dea2731f208919241253fce21717f4a0bb0674a2e4c09ce67ec0b17143bdc49",
+        "url": "https://files.pythonhosted.org/packages/a0/0b/06974bcde9392d7c5315e383c489ab5def210e13b31dcbfa4df08af012af/objdiff-0.1.zip"
+      },
+      "1.1": {
+        "sha256": "ce32cf5fba0674030cbdaa3c0c4786251c9a27c6f201bc0b9d70b55c8fec7f4a",
+        "url": "https://files.pythonhosted.org/packages/07/81/eccacc1bb88365fecdcb03a3007e5857f665c98d91288d399ccaed679f03/objdiff-1.1.linux-armv7l.zip"
+      },
+      "1.2": {
+        "sha256": "f2aee50431cb3bb037b021d7a182c765caf3ba609f4e0c481f09ee81de347ee0",
+        "url": "https://files.pythonhosted.org/packages/2a/90/3b031cb718635888814dc6126eb3d31829b8cbf226f8f0c5491894c531b0/objdiff-1.2.tar.bz2"
+      },
+      "1.2.1": {
+        "sha256": "125998d0bbd395f8d6ca0cfe530216c0ccdc829a1133ada7eeedb0da87c313bf",
+        "url": "https://files.pythonhosted.org/packages/5c/99/e418c22e4d83891eef9c47072c82a2b661e3b21354cc68ca87d79f774615/objdiff-1.2.1.tar.bz2"
+      },
+      "1.2.2": {
+        "sha256": "ba3c1e11807b6386b2f2dab0677709fe306b49fa987f7211363d2dc5d54775cb",
+        "url": "https://files.pythonhosted.org/packages/c3/d0/04e14e2958f48881c4f1895978a7176d514f8d8792baafe525105184872a/objdiff-1.2.2.tar.bz2"
+      }
+    }
+  ]
+}

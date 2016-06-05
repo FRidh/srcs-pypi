@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.3.0"
+  ],
+  "meta": {
+    "description": "Converts a GDAL-readable dataset into an MBTiles file. This is used to generate web maps",
+    "homepage": "https://github.com/ecometrica/gdal2mbtiles",
+    "license": "Apache Software License, version 2.0"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "ed223d38f8266f373ade5b42421b95f57529a2e1faad5bee84349fb6179540a7",
+        "url": "https://files.pythonhosted.org/packages/53/0a/83090acac8832eaa9cb8883c4aa6fdc76a0f66a017f64bdefd99fa547d3e/gdal2mbtiles-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "24abe96f4cb96b421bb31e11f20eac211ebcbb0d043f50d22b5a12eae026249a",
+        "url": "https://files.pythonhosted.org/packages/56/e1/62d963b292623011f829b539632c05967616b2f57048607031c7f5364260/gdal2mbtiles-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "4dbe4cfb35e152ed07380fe17def02b9017b2719cdc86271859e5b193f828a5f",
+        "url": "https://files.pythonhosted.org/packages/18/9e/629fef97aedcb09d2e02616e816e65fe4c099afb4c7739e754ffde6b8e09/gdal2mbtiles-1.2.0.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "9409e7283ad3ef1cc6c6529761e41d2f7683e64be53d42b44d7c9fb3c28b5189",
+        "url": "https://files.pythonhosted.org/packages/71/94/1a0a66dc4fb393088eb2d86d239398eaf7f40eaba4ee0f6ed4e9f05d763b/gdal2mbtiles-1.3.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.5.0"
+  ],
+  "meta": {
+    "description": "A pure-Python module that implements an LR(1) parser generator, as well as CFSM and GLR parser drivers",
+    "homepage": "http://www.canonware.com/Parsing/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.4": {
+        "sha256": "376afaa156b93ca4a39fe7d78ff425e3ac0a3f251267f7e22bef7540d5e838d3",
+        "url": "https://files.pythonhosted.org/packages/73/dd/b36650bdd56ac0fa7b03a0b49aac41ceb0acc03c238d30c31643470d2d62/parsing-1.4.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "15e6f027534ad379b9a83975c6a9db69e8f2b787667fd30bb65276a1e6563d5e",
+        "url": "https://files.pythonhosted.org/packages/ec/db/404c62de0a6588268e6234bea6cf1ba832987ea4d6a4ffc06a14e2bf836b/parsing-1.4.1.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "a1e55f709d4698893ab626beb6c3dc1a6830f3ca47d941f4fc7ace0ba8350400",
+        "url": "https://files.pythonhosted.org/packages/9e/26/dbc651d5a63ae355b2aa9c0f66112b00897a7b8f6fb48b51136fa97328f1/parsing-1.5.0.tar.gz"
+      }
+    }
+  ]
+}

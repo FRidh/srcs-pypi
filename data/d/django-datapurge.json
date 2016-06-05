@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.2"
+  ],
+  "meta": {
+    "description": "A simple Django app to easily handle cleanup of old data (sessions, nonces, etc.)",
+    "homepage": "https://github.com/swistakm/django-datapurge",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "012001ebc5420b52cde50ad7b62698683b1bd33d654025e739f8e6c3938e3666",
+        "url": "https://files.pythonhosted.org/packages/04/d4/471380aea27b59e94b9226682ea719465c2330aab45ea2ce7e561fec6977/django-datapurge-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "f6ca5512abfe1f183028ee6f6bdaa15c3729c4c77fbffb803871e98b41fffb5e",
+        "url": "https://files.pythonhosted.org/packages/79/81/8fc41150f9007ebb157dce68aca022dfc39cd0adfc34cc1afee09d64ca65/django-datapurge-0.0.2.tar.gz"
+      }
+    }
+  ]
+}

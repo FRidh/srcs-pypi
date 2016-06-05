@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.3"
+  ],
+  "meta": {
+    "description": "Wrapper for libzfs_core",
+    "homepage": "http://pyzfs.readthedocs.org",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "3e59abdb52f48c23ac2b0e150a1bdcfa7bd62137556f6e0f6b8bff571c07807a",
+        "url": "https://files.pythonhosted.org/packages/66/de/f192098449e6b847396e272aaea99168fe1b7cd10a25578f53b3d10c5298/pyzfs-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "b6ba44e945b616ae3dd0193e7ca1b97832f568a87eef8a7217935558637592dc",
+        "url": "https://files.pythonhosted.org/packages/fb/1a/c54c63dcd2fc56a6effdc30844a454a291a9e8a0925504adb1cd4462df2a/pyzfs-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "702c027d42cd6b5fd9aa9b5bfa6de1e1f476b21f26e464e9667f32450d954ca0",
+        "url": "https://files.pythonhosted.org/packages/fc/0f/f481e0e8634c089998068ad5cfc2c55cf7e15be254fbc086c20f48fbe7bb/pyzfs-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "3001dc63b7466f4e1730178f6df43467a606cfe5f1088a345ecc8259019b4063",
+        "url": "https://files.pythonhosted.org/packages/6e/0e/785b6e3350bde69f24c4763e2ebc14c44016266304aea3c7f88ed40bee75/pyzfs-0.2.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.11.0"
+  ],
+  "meta": {
+    "description": "Bit.ly integration for django",
+    "homepage": "http://bitbucket.org/discovery/django-bitly/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "fba8a3437ae097f2193ff4d4a20d6428a7383a020639920b3a1ea20d62022c58",
+        "url": "https://files.pythonhosted.org/packages/45/b1/5fe23fc0b6bfd92b836863433dce59e397cf447a5748e212cd11e6ca43f3/django-bitly-0.10.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "6f3c4d72a774bdd807bb68d9b4d82f5405012df370987245b0098c50d78e9316",
+        "url": "https://files.pythonhosted.org/packages/06/0b/c9a24ed3721f4d3624d41059ce19dc16e2b667ac72be2739944d5fc16ced/django-bitly-0.11.0.tar.gz"
+      },
+      "0.5": {
+        "sha256": "a8eab21df170c111fe8a85076e5d7b49b754b66d37a58089741bece5d9dbe659",
+        "url": "https://files.pythonhosted.org/packages/90/40/d67f5f326a88b60f3ffce7206ac1004fa118ec78788ea79bf2fa3cd91942/django-bitly-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "f68b96cbf84653c2af32bbd805683103eb15418d63f319c53db66fac04ac5427",
+        "url": "https://files.pythonhosted.org/packages/85/f7/b4ab785eb2571cb9aefc7153f1962997c9b7f892e007c7b995465113b1d2/django-bitly-0.5.1.tar.gz"
+      },
+      "0.6": {
+        "sha256": "e349ffd3aad3c724d97dabb7a00119fc493930e3f5c43ffb59445ff86074fe83",
+        "url": "https://files.pythonhosted.org/packages/eb/bd/c02bffb607daa301fea2ab774f642e6a6d19728896313d3125d092bf5f19/django-bitly-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "14233b1985c37b1205e41ebe3e8d0e96aa62b177bce90ae07b399147dde75daf",
+        "url": "https://files.pythonhosted.org/packages/05/11/22e0ab0d84a8191b89d50df58e91a99644bf829444deee7fd5b9a5e9228c/django-bitly-0.7.tar.gz"
+      },
+      "0.9": {
+        "sha256": "0c6f63d3079eaf0c97a83d26d3d4eb8d1376e2a49acb4a19ce9e074dcac7e589",
+        "url": "https://files.pythonhosted.org/packages/f8/3f/5e6c26c57382beba60a341576cfe90a2de5275f8cfd9d1b9486a6a50f983/django-bitly-0.9.tar.gz"
+      }
+    }
+  ]
+}

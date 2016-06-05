@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.0.106"
+  ],
+  "meta": {
+    "description": "Monitoring tools for Nova hosts",
+    "homepage": "http://www.gridcentric.com/"
+  },
+  "versions": [
+    {
+      "1.0.106": {
+        "sha256": "3eccec8dfa8075974913a764d13d84b10a2c38eeb8fdb8bc7fdcdae87b861359",
+        "url": "https://files.pythonhosted.org/packages/2b/a4/85baa31df11f68b6060e63a840eda261ccf040508d7575625ae3d0fd0715/canary_python_novaclient_ext-1.0.106.tar.gz"
+      },
+      "1.0.27": {
+        "sha256": "325b4863d1312537c8f4a3a3e0a37081d6e169369023f6541ca4d8736b77b7a7",
+        "url": "https://files.pythonhosted.org/packages/ea/0e/62c2539eb9e4d817184270e0db9f9486165a786fc3fd1a53b812e7017155/canary_python_novaclient_ext-1.0.27.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Publish arbitrary metrics to New Relic from within Django application",
+    "homepage": "https://github.com/ambitioninc/django-newrelic-plugin-agent",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "742091d8cffca5b57f389765e8ee362600964184d390981ce2bee11b560fdb64",
+        "url": "https://files.pythonhosted.org/packages/ab/d3/6d0c0495381d2a71adaf185f0a07056250cda5b14b7e54006080dc76efb2/django-newrelic-plugin-agent-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "f8d9b7811a29b61bed4eba34912fadb7c0674af3d60a40d6cf999966d57a2ddf",
+        "url": "https://files.pythonhosted.org/packages/14/44/4717274098e1f08d1e86f7912886459183137114bea0188072d36d5da094/django-newrelic-plugin-agent-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "4689af38a85734cb733a036a8c1674dd107cd3e15eb290accd38ee9352fe09e9",
+        "url": "https://files.pythonhosted.org/packages/b7/34/f2aeae8b5e1b347227c249975a84034f80ce45373b58aa3b84a8236fc18f/django-newrelic-plugin-agent-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

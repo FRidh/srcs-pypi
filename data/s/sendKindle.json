@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.1"
+  ],
+  "meta": {
+    "description": "CLI tool for sending files via email to your Kindle device",
+    "homepage": "https://github.com/kparal/sendKindle",
+    "license": "GNU Affero GPL v3+"
+  },
+  "versions": [
+    {
+      "1": {
+        "sha256": "19457c0cbc6f76f3ab89668cdcd6efd5ddcf3d0f81367c5f94a434fd5b4940da",
+        "url": "https://files.pythonhosted.org/packages/bd/2c/5abb1a81cb548c86c13d7052a2dfb5d72c4a2be6a08e3557026795dce1f4/sendKindle-1.tar.gz"
+      },
+      "2": {
+        "sha256": "825c8f364a440ae2bba8bb1a0865095c352ddbc51bbc8e57b96348b46868ee21",
+        "url": "https://files.pythonhosted.org/packages/e1/ce/a35b989604b53cb4b07c8b2f57b2e1ce2ce0823b59de1ca2dbc36baa97d8/sendKindle-2.tar.gz"
+      },
+      "2.1": {
+        "sha256": "4d6a1111e5f13ff584113d7b84aa72d83cea379542c2c2c429f43bcf70fbd0f5",
+        "url": "https://files.pythonhosted.org/packages/4b/3b/61f832da5f85a4295ff801e16e810d9d68efd41f85fc3474ec5955c314c7/sendKindle-2.1.tar.gz"
+      }
+    }
+  ]
+}

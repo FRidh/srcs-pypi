@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.2.12"
+  ],
+  "meta": {
+    "description": "Adds the script, which process given emails to proxy them, replacing real email addresses by company's local ones taken from the contrib.auth module",
+    "homepage": "https://kavahq.com/42-coffee-cups/project/42-emailfilter/",
+    "license": "BSD(?) licence, see LICENCE.txt"
+  },
+  "versions": [
+    {
+      "0.2.11": {
+        "sha256": "2a9580f71fa681cdb66501b12b7bc5c718bbbc8b557efa67015d8ff970dc7ab8",
+        "url": "https://files.pythonhosted.org/packages/e7/23/d6359df6f184c9dbb49f102a449107134feed2f300907c93ad4c13e522e8/email-filter-0.2.11.linux-x86_64.tar.gz"
+      },
+      "0.2.12": {
+        "sha256": "2dbca0d1d8b150262ec7f8b84ff2f9676a8c14008adf5c578e14d976d3d1796d",
+        "url": "https://files.pythonhosted.org/packages/ca/58/91c10000bbbd72f0f2efbc725059ed4c5cbf27847667007573f15b0c5082/email-filter-0.2.12.linux-x86_64.tar.gz"
+      },
+      "0.2.7": {
+        "sha256": "384fc660b89c416b016497ba725fe30b8391a47418bd64684dd8cb81c48ccbf6",
+        "url": "https://files.pythonhosted.org/packages/04/45/72b1c331bcce078398be8048fe089931d1790eb6faf6a16e7d0bb61153bf/email-filter-0.2.7.linux-x86_64.tar.gz"
+      },
+      "0.2.8": {
+        "sha256": "facab64d0b96118f8913f1ea18774b313f0f435fb4ea8b5cd1df41e9aa75903f",
+        "url": "https://files.pythonhosted.org/packages/57/40/00cfe4d3f34ca94db3221eb41711a2f9e12e3d317a660a2b6f5d32f119c4/email-filter-0.2.8.linux-x86_64.tar.gz"
+      },
+      "0.2.9": {
+        "sha256": "9017d99e1e9f0d476fd89b1f68a4b0cd65318b57baefb99d6fc205d7c6fcf9e9",
+        "url": "https://files.pythonhosted.org/packages/a2/0a/d504ece82643ea9834365d159f3a1833b3d7b26922e66ecac2b4a0e6fb99/email-filter-0.2.9.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

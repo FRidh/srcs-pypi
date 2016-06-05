@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.3"
+  ],
+  "meta": {
+    "description": "Products.i18ntestcase is build on top of the ZopeTestCase package. It has been developed to simplify testing of gettext i18n files for Zope products",
+    "homepage": "https://github.com/plone/Products.i18ntestcase",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.2": {
+        "sha256": "aa9bb3b3655d72e11ecfedfe7f6dee96df474ac02d28f86bf2c53133d3dde01c",
+        "url": "https://files.pythonhosted.org/packages/98/e1/0a9f11a7469b576331e7d3a8690115e421cf4e11c94ee2fccac32e16d987/Products.i18ntestcase-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "c5a7092690d4717d2a1dffa44cc70c98e7038f2bf7ea3d8ccf3faabc920b0281",
+        "url": "https://files.pythonhosted.org/packages/cc/da/bf7f1361f0ff672502263d509eb9197286a339b37aee0f86fa5711488588/Products.i18ntestcase-1.3.zip"
+      }
+    }
+  ]
+}

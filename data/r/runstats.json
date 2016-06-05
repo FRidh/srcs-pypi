@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.5.3"
+  ],
+  "meta": {
+    "description": "Compute statistics and regression in one pass",
+    "homepage": "http://www.grantjenks.com/docs/runstats/",
+    "license": "Copyright 2015 Grant Jenks\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n    http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License."
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "292fb456c30d60b82244ca7080cd609969b1bc8a4c5df3315398f6eb96b4ab8b",
+        "url": "https://files.pythonhosted.org/packages/1d/73/5a168e48acd10085578fbed167833fe011912cac4959eb65f4a84630f6af/runstats-0.0.1.zip"
+      },
+      "0.5.2": {
+        "sha256": "2088a72ad694d89f9a702b799e64bfe67c5560a8e55619e8113c79bb4cf1106b",
+        "url": "https://files.pythonhosted.org/packages/b8/be/7055502f1b22528740a246e3033e0be91939ed330b15ed7a0515eb580426/runstats-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "f0373cef9df7911de87f683642715c12851a7257104921a069904a6f2e990318",
+        "url": "https://files.pythonhosted.org/packages/1a/13/470fa27f07bf8458bb8bf99b77180f7fb3235db80f760e406115d9aa9c9f/runstats-0.5.3.tar.gz"
+      }
+    }
+  ]
+}

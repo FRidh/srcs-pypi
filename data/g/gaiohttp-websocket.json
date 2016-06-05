@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Asyncio websockets for gunicorn",
+    "homepage": "https://github.com/urbaniak/gaiohttp-websocket",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "ff3961314b0a19cf2acc083bb4a5f1c1fac7caa012fc71ad870f5e5f5a39e858",
+        "url": "https://files.pythonhosted.org/packages/d1/ff/550769389e0e15e2e9cfa90b6f5e46b06ca0f0faa1ffcc6fd249cd8e9644/gaiohttp-websocket-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "89a44715cbbd2dd4a984272acd168bc8c0ec1d3e998a7cc868c6e99624b75633",
+        "url": "https://files.pythonhosted.org/packages/34/f2/b1e54a0a52acf4c633ba5f9b33cd4536769b37fedc4c3beb1a0a58f571c4/gaiohttp-websocket-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

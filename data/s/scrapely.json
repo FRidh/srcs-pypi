@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.12.0"
+  ],
+  "meta": {
+    "description": "A pure-python HTML screen-scraping library",
+    "homepage": "http://github.com/scrapy/scrapely",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "db48b220b20ae30cb5eba1996f42fa86c70fbd0da79063d7c9f66583d8e1a940",
+        "url": "https://files.pythonhosted.org/packages/76/47/5230651436bbb1cad48ae1896c33df06025e50180e82877ce18519a60b75/scrapely-0.10.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "6d7518c4acb270cf6116a1ccc65a2ff3eb311e6b65bdb3fd71dff98d09a7b17e",
+        "url": "https://files.pythonhosted.org/packages/ee/a8/a6b8886fff2846049f6cd49febcccab6825feb5d0d330bae5257ffa29080/scrapely-0.11.0.tar.gz"
+      },
+      "0.12.0": {
+        "sha256": "ba16099e90d448b063d119832b09836f632d9a6328bcce176aa89655e174e75f",
+        "url": "https://files.pythonhosted.org/packages/44/ac/5da9c0e7d3cac2729b4f279129ea909e6ed8cbf7f72b613d83d64eb00b8b/scrapely-0.12.0.tar.gz"
+      },
+      "0.9": {
+        "sha256": "c8d5fd285ab4c42ab34ec94426bb7200d65e64fc00f8dfe3c69a50e168e0d48f",
+        "url": "https://files.pythonhosted.org/packages/1d/16/892d94655015dc5e0dd1f0013e78b5c510a6da6b1f1d92b7b4ec7d43cdbd/scrapely-0.9.tar.gz"
+      }
+    }
+  ]
+}

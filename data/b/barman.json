@@ -1,0 +1,122 @@
+{
+  "latest_version": [
+    "1.6.1"
+  ],
+  "meta": {
+    "description": "Backup and Recovery Manager for PostgreSQL",
+    "homepage": "http://www.pgbarman.org/",
+    "license": "GPL-3.0"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "95c74668410addeb214f19179e325e22486ad6f5be5cd44861bdf82ae769320d",
+        "url": "https://files.pythonhosted.org/packages/e4/a7/62ca0aeff70f929b6627bb43deeb1a07a19a8873fa624243160b0eb9a3fc/barman-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "ab176c1aea199c2a8314c781dcd5f733f513f0334e2f90f6dfbc3caf294c641e",
+        "url": "https://files.pythonhosted.org/packages/83/d7/5b036496469f866541487ce5c1ba3d5f4a044f7b936daf67bdea2a4d6b2f/barman-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "1298beab5813ecbbaf054c3b781c0521bc8662876aa188893409e8c80819ec2a",
+        "url": "https://files.pythonhosted.org/packages/99/18/5052a93ad504f8a07671711edbe2510ca9443e7ff5481e30cf79b8896c9c/barman-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "474d245cd08cec1ba3fc1f93e478ff115f5d00503c29aa9612018068b7752d3b",
+        "url": "https://files.pythonhosted.org/packages/5f/0a/2d89a5f94cdf0d6823561762b76da59202fea14d5cc35485a02efb20614c/barman-1.1.2.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "4cca3106d855086f7f77735290afb09872b4f4b6065d831576333b52f5c078db",
+        "url": "https://files.pythonhosted.org/packages/f3/6f/376c6d037fbfbf0361aa9cc18f545ae179000b0d041ba0b094334338ff73/barman-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "7389b7c7e532e4b67adc2f606c74fcbdd3dc0c7284c16256da9a0e0a3a4f8060",
+        "url": "https://files.pythonhosted.org/packages/11/9f/732692ab995c616a4e0bb94f4f0cda458253949acbeeccf004b7ba69c91a/barman-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "fd4f941bab62f5875ecf238a90f5ad05a59622f3bea88265ee483629112ef366",
+        "url": "https://files.pythonhosted.org/packages/75/eb/65566e566f87cbcf4d5542453857c1a082aaad9d5a7256e9537533266182/barman-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "3ea69770345c886111054aa37d5eb2dad7a191eef131c14f8db5e7517cfb03d7",
+        "url": "https://files.pythonhosted.org/packages/60/c0/9642a23951f092a465db7bee4511f1b1f91065fb479575dcaffdc2c89a54/barman-1.2.3.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "732433c7f82627525208b9171f4b306ff6b62a2ae31382ef9430429dc6444f26",
+        "url": "https://files.pythonhosted.org/packages/a0/bb/f6a607c94bebaf87c1a3f9b505fa270ef12cd8c8ab57f92f7299af737721/barman-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "701903fcff76a8c86015daa3773e162d63c6e667d8b02866490d49c4407cc4d3",
+        "url": "https://files.pythonhosted.org/packages/09/e1/8247460d0b0227e59035bdd495ba2daeeff5e22533ae038974c7b6947364/barman-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "945b8853550b424e5122a19ea9107646af2bfc634d227476520f1accf954977b",
+        "url": "https://files.pythonhosted.org/packages/39/06/2e64b2d06875a4e098d41efd152b4447b6c6d33928ab06b87f62f8b16f4d/barman-1.3.2.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "3e3af2fec16ac2836965a4c135d9ef4959ed690fb40ef06571d03ff526448468",
+        "url": "https://files.pythonhosted.org/packages/ef/93/5880484d399629fce30167c2a7c95cff2fbf080277e3f1bb05a5df9fade3/barman-1.3.3.tar.gz"
+      },
+      "1.3.3-alpha.1": {
+        "sha256": "e0b23657729423dd6855790315511ec061364ef1a85dbac9a316a3dfc4500895",
+        "url": "https://files.pythonhosted.org/packages/90/70/b1dc634269228726c1bb592153c0051c6e7516f9d6a2d11cb5c492ea45b2/barman-1.3.3-alpha.1.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "d18c331bd6d8931bd60dab272bc9d512eb494bfddb11964d7ca430f51b7e45e9",
+        "url": "https://files.pythonhosted.org/packages/bc/ab/0c4e277bec6bb4e29c3101417c546544c6bf89e496422bb739a05768a833/barman-1.4.0.tar.gz"
+      },
+      "1.4.0-alpha.1": {
+        "sha256": "dc289a2bc1ee22f087f22966727f9bbc9169fc935d1962f955a4019e490e0634",
+        "url": "https://files.pythonhosted.org/packages/d5/7f/5feddcee26cdc9a5718935c2ca6a3b11c8c0f31c8cfea161ac4087a5f744/barman-1.4.0-alpha.1.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "38a649ab1cea811e2db9410d87c08423beb3135f88b1160913bcb9f16a10b1df",
+        "url": "https://files.pythonhosted.org/packages/8e/2a/554b40ed37b536e08208fe1b8a1eb206f89ab5b1ca0390e2be0f8d392ac0/barman-1.4.1.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "4cf2aa5fb79db4f56d4021953b003c7b961dc503e7ffb7583b523ef49e1161c3",
+        "url": "https://files.pythonhosted.org/packages/4c/cd/1938c0fa1d42464f7ade2a2fa63b345844d191a5431b84b55fa7c62007e1/barman-1.5.0.tar.gz"
+      },
+      "1.5.0a1": {
+        "sha256": "c9b7e8c9f9907ab2e094c47b19168bd2f7b97f80a367dfcbacaced55c2df2a47",
+        "url": "https://files.pythonhosted.org/packages/cf/04/e5a0eace820865f312348e786029487fb7cb8c2013f34ca5c1cbadbadfdf/barman-1.5.0a1.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "69127c298f91f696241df0e15f9327d53b050cbbeea6ba5dec039aea76d432de",
+        "url": "https://files.pythonhosted.org/packages/cd/55/65246cb9ee71e9e2ba7cb3cc5f7dce1605585c9f0ec376aa73b15d30a5b7/barman-1.5.1.tar.gz"
+      },
+      "1.5.1a1": {
+        "sha256": "e01dbdaf471d0b24304c920a5500cb69650e4dcc02e70dd230fb2fcf88b74dc8",
+        "url": "https://files.pythonhosted.org/packages/93/7b/5a575bdc088b69943d9d8bc3e2809c083528bbc76cd350cb073faf58864f/barman-1.5.1a1.tar.gz"
+      },
+      "1.5.1b1": {
+        "sha256": "9721a92048c3b239de8e521bf9e7887ff0caa56b638e1be3a4cdf8f1a7929763",
+        "url": "https://files.pythonhosted.org/packages/1f/f5/16a9b95be9b7dd73214db30750945be17e5c1a7d3693010e1246140f7a55/barman-1.5.1b1.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "771957451fafef93f64d7ce08f43530b86f52fb31451ecc180a40856c707bc76",
+        "url": "https://files.pythonhosted.org/packages/a6/d9/8332113bc52a379997d3d8cdce018175684e37dbb266b298da605b50ad06/barman-1.6.0.tar.gz"
+      },
+      "1.6.0b1": {
+        "sha256": "4b49a4611b66d74401ef20c4bece82212f7f95da990ebeb74f4b0c305fb954f5",
+        "url": "https://files.pythonhosted.org/packages/3a/80/520d67ca8ca4d45ea73c94a2ebdf681cda9f57c5b371f3741198b96d398d/barman-1.6.0b1.tar.gz"
+      },
+      "1.6.0b2": {
+        "sha256": "4abca598ecef2d6f91a3528ff31c58b67a773def6627bef6405db3e4e1bb70c5",
+        "url": "https://files.pythonhosted.org/packages/1e/fe/fc20f7ea1ec14763ea65971bdfb27d78f56a70e828b2d9a80e0e02014ed1/barman-1.6.0b2.tar.gz"
+      },
+      "1.6.0b3": {
+        "sha256": "e4d0840f54a2218851d36ca45027f54fe5e8895d965067cfa42e694e60bd530d",
+        "url": "https://files.pythonhosted.org/packages/e3/a2/92cd4dbd6481dc41ac02ae1dd4011e817157e460dcacbf3c301ad3711d7a/barman-1.6.0b3.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "2fb8bbf0a386114dda4f1ade3e02a79aede5e3dd77c6b8d4f872b75fd1427e65",
+        "url": "https://files.pythonhosted.org/packages/58/7f/22c4fa519eab1f9ea4fc6886c08761f5786f30026f532aa58a6ee32febfd/barman-1.6.1.tar.gz"
+      },
+      "1.6.1a1": {
+        "sha256": "7fe2f18f6f36c32e06ec417a2c9c4c021d3ce43e41d31dbe1cd15f6a6111b794",
+        "url": "https://files.pythonhosted.org/packages/26/d4/d7500385d36dcdb92153e91c317ad251caec688fc00b2d032782cc52a1c7/barman-1.6.1a1.tar.gz"
+      }
+    }
+  ]
+}

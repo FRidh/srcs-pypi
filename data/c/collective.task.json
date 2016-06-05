@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.3"
+  ],
+  "meta": {
+    "description": "Tasks management for Plone",
+    "homepage": "http://pypi.python.org/pypi/collective.task",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "2.1": {
+        "sha256": "6af8211c45a174d7c46cf5fccb4c4fcad97e520621ef72eb5919c576cfa2ad0e",
+        "url": "https://files.pythonhosted.org/packages/4a/93/780b5777cdb28d25176e637ee6a8c90bc73ebdbc957bbe55246462d1439b/collective.task-2.1.zip"
+      },
+      "2.2": {
+        "sha256": "8e18dca04eccca1a009d84319b978dfff11c2007fcd6e0e52929417d0354a563",
+        "url": "https://files.pythonhosted.org/packages/68/3a/7103d2a46d7c94806e1728874959c9531765e23119b6efd20757bdd4572e/collective.task-2.2.zip"
+      },
+      "2.2.1": {
+        "sha256": "416a40910402a0a7a00d5841dd8de46e5fea0a9c41542dd0fd880b73d2dee2e9",
+        "url": "https://files.pythonhosted.org/packages/07/41/2cb74326d4b2dd781dfb12b420fd3e9e88c6dfcb15f06b610f601c5ff7b9/collective.task-2.2.1.tar.gz"
+      },
+      "2.3": {
+        "sha256": "4349a26b34e48e1ed1ced5e4ed3d59fa371360875da632177e92c32b80d0b052",
+        "url": "https://files.pythonhosted.org/packages/14/7b/9cceded6be2f6096f44a12a014391765216f023109565cddb35feee3138b/collective.task-2.3.tar.gz"
+      }
+    }
+  ]
+}

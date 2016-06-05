@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "1.1.16"
+  ],
+  "meta": {
+    "description": "drizzle tools: combines astronomical images, including modeling distortion, removing cosmic rays, and generally improving fidelity of data in the final image",
+    "homepage": "http://www.stsci.edu/resources/software_hardware/stsci_python"
+  },
+  "versions": [
+    {
+      "1.1.15": {
+        "sha256": "2d8bd95de39a8fbf90847c1405ed1d506122b4f0c790da732c85fa080abe53ee",
+        "url": "https://files.pythonhosted.org/packages/98/2d/6a7151399b781063190b52c579d05f7c1994e31ba5f68460e6675c59b71d/drizzlepac-1.1.15.tar.gz"
+      },
+      "1.1.16": {
+        "sha256": "cca2cd2be343bdbef1edff461e535bae160950c16d5878faa1b194e0c141dca3",
+        "url": "https://files.pythonhosted.org/packages/0c/d9/e259c5e4dcba3c80c780de50d3f939e57cfe8e937cdbf2c8f20bb757bb86/drizzlepac-1.1.16.tar.gz"
+      },
+      "1.1.8": {
+        "sha256": "ce372aeba4719d9d945f805bcb96a63be506973a0c4f93a2a05e369962c75cc5",
+        "url": "https://files.pythonhosted.org/packages/45/8f/0d50d1a331502a9a6ba4c703a10cbff4954cbc939d5235cb979aae7f173c/drizzlepac-1.1.8.tar.gz"
+      }
+    }
+  ]
+}

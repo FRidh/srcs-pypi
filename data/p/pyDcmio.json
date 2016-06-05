@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "[pyDcmio]\nThis package provides common scripts:\n\n* pydcmio_dicomreader: can be use to read specific or registered dicom tags\n  recursively.\n* pydcmio_splitseries: can be used to split DICOM files by serie names.\n* pydcmio_dicomanonymizer: can be used to anonymize DICOM files (experimental).\n* pydcmio_transcode: can be used to transcode the subject identifiers.\n* pydcmio_dicom2nifti: can be used to convert DICOM files in Nifti format",
+    "homepage": "https://github.com/neurospin/pydcmio",
+    "license": "CeCILL-B"
+  },
+  "versions": [
+    {
+      "2.0.0": {
+        "sha256": "d31010189cb36a9bb9c839654c2061ab392b5bed5ccbe9cbeca9f46a714095c4",
+        "url": "https://files.pythonhosted.org/packages/48/e2/81ff1484f843877d0e4e36fd4b9913d41f0d1c364661aa1924a539dc7bd6/pyDcmio-2.0.0.tar.gz"
+      }
+    }
+  ]
+}

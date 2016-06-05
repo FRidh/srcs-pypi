@@ -1,0 +1,414 @@
+{
+  "latest_version": [
+    "1.12.4"
+  ],
+  "meta": {
+    "description": "CMS used by Onespacemedia",
+    "homepage": "https://github.com/onespacemedia/cms",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.4": {
+        "sha256": "2abc5c0d4cb027dbc0cb1159a30177d166abaff28052bf12105bee9d79980ed3",
+        "url": "https://files.pythonhosted.org/packages/d5/fa/3995e7e52a05da1371c355dd7e9ec63d389441497c9fdb0ac1eeedbac67e/onespacemedia-cms-1.0.4.tar.gz"
+      },
+      "1.0.5.1": {
+        "sha256": "e924a69543bb7c362ae3c2b562ad095f652b33846eb2d622f59420607a77f7c4",
+        "url": "https://files.pythonhosted.org/packages/30/df/a00f0ad6522eb19a08818ecb95b8e2a6c838a1de25f398038c8893720162/onespacemedia-cms-1.0.5.1.tar.gz"
+      },
+      "1.0.5.2": {
+        "sha256": "0b70fa02da0c361eb278bacee3711dab352a465407c0d3dd9ba7cc259184709e",
+        "url": "https://files.pythonhosted.org/packages/ff/f8/1b8ea45b29295d149b9dbca0871e1ca9f53bb16a7f95300539e3b8057b77/onespacemedia-cms-1.0.5.2.tar.gz"
+      },
+      "1.0.5.3": {
+        "sha256": "0459207bc10ac8fcb6e29c3f0e1b604eb9d843cfc81acf54614236fd2b60d187",
+        "url": "https://files.pythonhosted.org/packages/e1/db/4bd629f3f2c4612d936799635261cc781e6a5adacb12a1dd13c69c66630d/onespacemedia-cms-1.0.5.3.tar.gz"
+      },
+      "1.0.5.4": {
+        "sha256": "48e06ee60345c82ad99dd6b8939215ce40f45074e27ab986a99c49dc0a400e80",
+        "url": "https://files.pythonhosted.org/packages/56/25/87067038b8b09b6ada13a5393826cdd8300257bd4979067f4dce823d1c10/onespacemedia-cms-1.0.5.4.tar.gz"
+      },
+      "1.0.6": {
+        "sha256": "bb5ecc9baa38d7aafc0f12b7d30064b5373fc079b4a4fa9a9e1cd805022c9dc2",
+        "url": "https://files.pythonhosted.org/packages/0d/bb/a24f35834e51fd229297f6b3bf4f9cb8a8877e947dd155cac22ddf03b2be/onespacemedia-cms-1.0.6.tar.gz"
+      },
+      "1.0.6.1": {
+        "sha256": "0de515e62f59d7ee46171ad61fd40aa9e5aecf866c8fe866daad43f03456475b",
+        "url": "https://files.pythonhosted.org/packages/7f/86/5efcf45b0053ba85d05fc4334a548dc8931d0521f1b0105b002919ba64a6/onespacemedia-cms-1.0.6.1.tar.gz"
+      },
+      "1.0.6.2": {
+        "sha256": "9d22996798853bef15dc854ca891cc55e8ddb0fd08ed5782a53174432d60a22b",
+        "url": "https://files.pythonhosted.org/packages/8c/d4/b5631de42b9d62e3f56b99c220accc14b9e2777cedec2167f1cd61d081c6/onespacemedia-cms-1.0.6.2.tar.gz"
+      },
+      "1.0.6.3": {
+        "sha256": "f002cd5ab57e261a33a8f023047e951b185473a62f4c842b80359b3d1b585d40",
+        "url": "https://files.pythonhosted.org/packages/2e/5d/e93a4b70ef082d27d5f4280dfc7bf63b1861cac3059cefbe4419f8106047/onespacemedia-cms-1.0.6.3.tar.gz"
+      },
+      "1.0.6.4": {
+        "sha256": "15d7957697276e16c6b5b3b236f3cb12abf0b98ef4426f9b6b68d61aedfc902b",
+        "url": "https://files.pythonhosted.org/packages/c0/98/5f4a989bca947300d9c3a0b73a2622eac9d8bd2a287b9a3a3b59323c6670/onespacemedia-cms-1.0.6.4.tar.gz"
+      },
+      "1.0.7": {
+        "sha256": "a8a9a7c52a9cc4e0e4174ebe35ea22c09bd312abeb4455ae615d238f9b667da0",
+        "url": "https://files.pythonhosted.org/packages/18/00/a08f2aa350ab15ae36275707f74259d42145e0466a8e964f4c0e61b3c61f/onespacemedia-cms-1.0.7.tar.gz"
+      },
+      "1.0.7.1": {
+        "sha256": "f83ccafd3c21854fe7cb5393ea1f4eebb7c1af479fb00ce832f481ffa8c5146c",
+        "url": "https://files.pythonhosted.org/packages/b4/bb/2dfcd9445d8139a518319f6dddbd50ad75118a935fb0b7cb3058de6a83f3/onespacemedia-cms-1.0.7.1.tar.gz"
+      },
+      "1.0.7.2": {
+        "sha256": "c666433c483553da562051fc5cedd1ba8c5e04b7a9c9ac34cef09d5460bcf556",
+        "url": "https://files.pythonhosted.org/packages/3f/7d/3f57206d5ff454be3f5eb8b148a5a5b0659d634ddfa8476a6e1a1a6c31e2/onespacemedia-cms-1.0.7.2.tar.gz"
+      },
+      "1.0.7.3": {
+        "sha256": "06521629ffa3d29f96087a8dce27de39fc40a757110d8a44e6b94a76ba2dd71d",
+        "url": "https://files.pythonhosted.org/packages/e5/a1/35d4e5ae06e56ac2cad2bc8bd67bcd88794153462c8e2a5c6acba0269f3b/onespacemedia-cms-1.0.7.3.tar.gz"
+      },
+      "1.0.7.4": {
+        "sha256": "626a861546a141eba357dca604884fa3c376a6642ef37a0daa2a4fd353bfff9e",
+        "url": "https://files.pythonhosted.org/packages/7d/5a/52191a57de10c0dbe6dbf7f25ebba247df51499accdd8b34909e6a3c9cf8/onespacemedia-cms-1.0.7.4.tar.gz"
+      },
+      "1.0.7.6": {
+        "sha256": "7978e6732b51324050dd2efe85d156deb4713466793f7c6547a76f6553cf8688",
+        "url": "https://files.pythonhosted.org/packages/2b/d7/478e5c7e4a33e82ee5003d7123efb20031a8e2ab699f0db2451e25f79723/onespacemedia-cms-1.0.7.6.tar.gz"
+      },
+      "1.0.7.7": {
+        "sha256": "20442d8c3f33375e5b9d34e2eeadaf698f7f6028e784e5f79185cfef6f2bbe7e",
+        "url": "https://files.pythonhosted.org/packages/4e/0c/dbec40024ec269a8e0e9a117130cf6b0673558ac8c34a1d94a3b1530d235/onespacemedia-cms-1.0.7.7.tar.gz"
+      },
+      "1.0.8": {
+        "sha256": "49c24036a0f4394aac0fbab18a1c5baf236c5b2a209260a845bb4b4b3c92bac9",
+        "url": "https://files.pythonhosted.org/packages/c2/df/73c58a3f6a7f6c5157ce7ec2d3521d0ae64906a6391605fed23c39c0eeb6/onespacemedia-cms-1.0.8.tar.gz"
+      },
+      "1.0.8.1": {
+        "sha256": "fd0204d3e8064f735be2e4388f091dd7656e58d503612251e4da374de7673c2b",
+        "url": "https://files.pythonhosted.org/packages/7f/ca/ab3f175c17baab21aba2cf61e9244d565793b29515c429ddc72831fc22c5/onespacemedia-cms-1.0.8.1.tar.gz"
+      },
+      "1.0.8.2": {
+        "sha256": "cf3efe7e7ffa4d40e9dbaaf737efa0a086f9a0841c253369f65c3ada590866b5",
+        "url": "https://files.pythonhosted.org/packages/57/b3/2ad7aa61fd20d2642b05bfe34e688b3ef3d6c25d4b468e46e4a6d69026ea/onespacemedia-cms-1.0.8.2.tar.gz"
+      },
+      "1.0.8.3": {
+        "sha256": "223230612723db565d15c7cfabf56624717979644cbc99e87475dfb3e8f10967",
+        "url": "https://files.pythonhosted.org/packages/7d/48/219a4bcb761124c868eb807c2f12cf07bb9bd47dcd50196969b2cd40fcd9/onespacemedia-cms-1.0.8.3.tar.gz"
+      },
+      "1.0.8.4": {
+        "sha256": "82988c8fa7573b8251c93f55b64200074948d65283784a8fc3b717933e61eedb",
+        "url": "https://files.pythonhosted.org/packages/db/b3/47b60d69555e1ddca69a3e3d99441dbe79a18a26a02ab694f238085ebd44/onespacemedia-cms-1.0.8.4.tar.gz"
+      },
+      "1.0.9": {
+        "sha256": "c68165e4c0b639614bcfdd0aaf83bd5783b09078a1e6d966ea6cd164b784c679",
+        "url": "https://files.pythonhosted.org/packages/e7/bd/d9b46dd05c005e72ba81338bee3b745b546952ef06d9fcf9710ee6d49926/onespacemedia-cms-1.0.9.tar.gz"
+      },
+      "1.0.9.1": {
+        "sha256": "db1571cae654e2c80488d2c4363a5e10d12fea1992bc16e73429fbf021cffbf9",
+        "url": "https://files.pythonhosted.org/packages/b7/c6/e0a069c534ee9437a614d448ed6f0843483dcafd90139c3b412b17458417/onespacemedia-cms-1.0.9.1.tar.gz"
+      },
+      "1.0.9.2": {
+        "sha256": "ade43c19dec7a9d737aa3bade17320d6651c7715eaff8fe759e0c79f9905df08",
+        "url": "https://files.pythonhosted.org/packages/b9/9d/fdbb7be8066735febf7c044f1f3d2c7f0ec05dbfdb69fa135e3bd28f94a3/onespacemedia-cms-1.0.9.2.tar.gz"
+      },
+      "1.0.9.3": {
+        "sha256": "615c7226373c354d9c111b5c6e2f1aef58284c03b14124333b033b4965b72d0d",
+        "url": "https://files.pythonhosted.org/packages/5e/ee/4234d1154c462bdda8fb70cb3429cc8bdb8ec5e5250ba3d1df7ef41f9c8d/onespacemedia-cms-1.0.9.3.tar.gz"
+      },
+      "1.0.9.4": {
+        "sha256": "991c549c6e528ec933ec1b0ab37072eef4a90014e9e4eae0191a928e2cf4d6da",
+        "url": "https://files.pythonhosted.org/packages/b9/a2/dca6085be9d67896dd61f113ec21ae12001292bb318e703f6d566dc67c43/onespacemedia-cms-1.0.9.4.tar.gz"
+      },
+      "1.0.9.5": {
+        "sha256": "8da5d8006843879cbf2e4c927b5365ee7c63c9576155ebf8e14290d8cf0e3da2",
+        "url": "https://files.pythonhosted.org/packages/76/50/642016e5f7f967274a3fb7488a5a33cf20b7f4d305801a2ece18dd8a53b5/onespacemedia-cms-1.0.9.5.tar.gz"
+      },
+      "1.0.9.6": {
+        "sha256": "e2d5a35321fc4443fff9414505520f0f43dd6cdc537dcb8a5ec3356701bf5219",
+        "url": "https://files.pythonhosted.org/packages/57/bc/9f89cb89ab8784cab40aead5165545266db2c9141d94af1ac0e805126fbd/onespacemedia-cms-1.0.9.6.tar.gz"
+      },
+      "1.0.9.7": {
+        "sha256": "24bc7cbf9c3b9bcd4298ddb915467a1563e098b9a4f2cbe216335248f384e0ac",
+        "url": "https://files.pythonhosted.org/packages/f5/b3/a7cc5775250d13e53ee29fa9ff0e555fa0dd969524685ae25210208fb2c6/onespacemedia-cms-1.0.9.7.tar.gz"
+      },
+      "1.0.9.8": {
+        "sha256": "d2be7071c8a2818e0e9be70e2f6fbb47497d8c8a5ae6140272080dcff7b429e4",
+        "url": "https://files.pythonhosted.org/packages/4b/17/867831546f44ec61cc23ce6d8a453662f3be2010ec8d83e8925035400520/onespacemedia-cms-1.0.9.8.tar.gz"
+      },
+      "1.1.0.0": {
+        "sha256": "d171bff07c295e3601424184264a047abfd6f19722f477eeb24f872adc92eddf",
+        "url": "https://files.pythonhosted.org/packages/d9/4d/3aafde3528f3111f5ed42336b8ca13ffdd3e1422af5905401e19cd0c2035/onespacemedia-cms-1.1.0.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "fb9b1f3c74d802e24dfae34f8fa47b607bed081f0d85c46f153e2b8ed701f9a8",
+        "url": "https://files.pythonhosted.org/packages/a1/5f/57e5a6a9aca460b377042a842cabde682a1640152e16ea935f6f6def3b59/onespacemedia-cms-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "272d20c524c11aeaaaceb834a762f8e8b6ee30a7bcb2e7f1e5bcae8f032e2afa",
+        "url": "https://files.pythonhosted.org/packages/0a/be/bbf4147b9bfb232af0099f4ae0b408949ad19c5fdd8baa9ff5595de8c102/onespacemedia-cms-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "236f84a901e8d5854e0624786288f60bcde181ecb8e1c27b3d9b943215878706",
+        "url": "https://files.pythonhosted.org/packages/cd/f1/b819183748628e01a905bebba5cf098ba722e173075f9975d274f6baab46/onespacemedia-cms-1.1.3.tar.gz"
+      },
+      "1.1.5": {
+        "sha256": "32ad47dfbb69aba39f15d40185aa2bb414dc590884c6982da117fb992c4b8026",
+        "url": "https://files.pythonhosted.org/packages/26/12/d1391b5bcb2bf0ee6c0de43b3a1674d2ece0da17c49b2d23a9484f6acd80/onespacemedia-cms-1.1.5.tar.gz"
+      },
+      "1.1.6": {
+        "sha256": "66b5ad06cfac696683abf28bab91f7c22b9f02a2c9e746c35c707763c0d3540a",
+        "url": "https://files.pythonhosted.org/packages/ac/bd/8481527c896baa1e322e13973ca7e8a36a04e2fb041f963d4b28351c5892/onespacemedia-cms-1.1.6.tar.gz"
+      },
+      "1.1.7": {
+        "sha256": "b0e68a0d5973a0bd347f7ddbac7da8974a3d42c4d1fbda1e6e3d012f523ccd3c",
+        "url": "https://files.pythonhosted.org/packages/33/e4/c33576febbc2c94739aa1f0f853d352ccd6707d4abc48e70f73c30287ec2/onespacemedia-cms-1.1.7.tar.gz"
+      },
+      "1.10.0": {
+        "sha256": "95053ab07e1600ae1872200e8e458283b9f1c86058102e1dc2f91b253a584db6",
+        "url": "https://files.pythonhosted.org/packages/4b/ad/dae2c850a674fab687e25208597d605b3afa71ee370f5118bd7fa3b73887/onespacemedia-cms-1.10.0.tar.gz"
+      },
+      "1.10.1": {
+        "sha256": "9e8ca6c348231f15f934652e9613475c8ac464f27a1ac72fd0cee66d1b78fee9",
+        "url": "https://files.pythonhosted.org/packages/d1/51/87aad28a91a1feabfe3347ca60239c65a28384330a2178618fd8ddf2f516/onespacemedia-cms-1.10.1.tar.gz"
+      },
+      "1.11.0": {
+        "sha256": "ca2769dbb37d76ff491b21ad7f4171a9dee743689bbcb556882c3010baa03adf",
+        "url": "https://files.pythonhosted.org/packages/2f/4a/d07dd82226ddc236f37afbdd505ff69720a9f9af992b2f5796c5725ea1a5/onespacemedia-cms-1.11.0.tar.gz"
+      },
+      "1.12.1": {
+        "sha256": "8885f5a997b00ce816a069d8ea30f723bea803ed773b8b1aadfe5fcfc88811b9",
+        "url": "https://files.pythonhosted.org/packages/9c/47/ca41b77216214705cb7d0cb5fb7ae75e4f147a94b0ce9ced489f35d1be82/onespacemedia-cms-1.12.1.tar.gz"
+      },
+      "1.12.2": {
+        "sha256": "43ffc98b95aa2de8e3b65c7527aaf439cc8e49e2211586a26997fca9c0e93f25",
+        "url": "https://files.pythonhosted.org/packages/07/55/50ae547a5ca9f7afbe603c7839b63da7c371e43c60d71cc84c95361b13b6/onespacemedia-cms-1.12.2.tar.gz"
+      },
+      "1.12.4": {
+        "sha256": "e6477881edbce703588c499850d05185d69e00ca901f5dd140b157be01014c77",
+        "url": "https://files.pythonhosted.org/packages/5e/6b/98bdffec4c2a7941a49698539b76037aac9554968c4f17a8accf54121b72/onespacemedia-cms-1.12.4.tar.gz"
+      },
+      "1.2": {
+        "sha256": "93a140764e7d7306e5dedb3c133abaf6b7b95260b09800761890eaea10dcaa0f",
+        "url": "https://files.pythonhosted.org/packages/5b/d8/e07ed0ae4b1f00adb7086e346a5fe98848b3b46bb62fb9d8b78c615073e5/onespacemedia-cms-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "51a00d4032fa428ce306409dfbaa53d80866921adc1d4608e181231d392200bc",
+        "url": "https://files.pythonhosted.org/packages/0d/14/16c1f675d76d91468426d60a95dee572a616881f21bd43a5d73ce6913f0f/onespacemedia-cms-1.3.tar.gz"
+      },
+      "1.4": {
+        "sha256": "12f980728ca660e349868823c1cdb8f33ccd7859036753c495e51cba8c4686a0",
+        "url": "https://files.pythonhosted.org/packages/00/ae/5365b0f71c982568e7911a76ec0515e7a3bc5dd1211a2fd9910395d88d1c/onespacemedia-cms-1.4.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "3cf1ccbfb5f8a3358976bc45973919a0dc4db1b7dae8e31254ded2fcbca0752a",
+        "url": "https://files.pythonhosted.org/packages/f7/fd/34a9e76e03e5cb812e788e84673415b4fc82db4e019504b80f14b0973aa8/onespacemedia-cms-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "92261106190446c618154e0f1946bad84d0913c2e000eae2ba1fb7dc52cb8e8e",
+        "url": "https://files.pythonhosted.org/packages/ce/d8/1dddb090dc1113ecbbb520fafaf7172e9cd3b2f7cb9e71b71b0ce9bee266/onespacemedia-cms-1.4.2.tar.gz"
+      },
+      "1.5": {
+        "sha256": "90fa6f370735ef68e576950474d34a565ac2ef2faf4679aa0ce78868a2e8ec9d",
+        "url": "https://files.pythonhosted.org/packages/de/73/702f59affe648240f0462ef833bffbef0de5a8a5d33a51cd0786abdaea9c/onespacemedia-cms-1.5.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "c41bf4a9f4a0953aa823789efbf6602746927e6d5b23b89ded62a00ba144b837",
+        "url": "https://files.pythonhosted.org/packages/07/fb/22a5357685aed92e7333831cd6a1afe988115032ff7eba28c88f36b6f5a2/onespacemedia-cms-1.5.1.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "e70f960e25a5d8a68e509c111c3c72fd49e7462245b296c18579343c190c224c",
+        "url": "https://files.pythonhosted.org/packages/bf/43/9205e44e2188959d7f0eca8481f03d9faa9788f79f9e49a760c5153f79dc/onespacemedia-cms-1.5.2.tar.gz"
+      },
+      "1.5.3": {
+        "sha256": "6e5fdedaa68db6121726a98b9164296092d19cf659e9b9306984c3d31c1878dd",
+        "url": "https://files.pythonhosted.org/packages/39/34/d6917f949def5db2f4265cd99671bd702a26bbe296af4ba0b64917fe37d0/onespacemedia-cms-1.5.3.tar.gz"
+      },
+      "1.5.4": {
+        "sha256": "427043d9b8bb5ba1599c930d1664ae500202dfd76c5cd9ced74850032b8279cd",
+        "url": "https://files.pythonhosted.org/packages/a7/28/533420ee9685a63ea99833fffb3fecd088dd9d46831b781de5bc201013c4/onespacemedia-cms-1.5.4.tar.gz"
+      },
+      "1.5.6": {
+        "sha256": "3362a8f23ae56c77007141133ad04e069eae76a2975d0f7e82238b6d6bf4d823",
+        "url": "https://files.pythonhosted.org/packages/c1/b1/60ff04762e3f2d64cf742e62e834f0e4437f1e2959be69730c0c2b894de1/onespacemedia-cms-1.5.6.tar.gz"
+      },
+      "1.5.7": {
+        "sha256": "006f0a350eb10bbe1076b193389c8569006605ec3398d5b6a1084a08b6da36eb",
+        "url": "https://files.pythonhosted.org/packages/0b/ad/42bca7f19f599ff2d69712c9d05d35096d532dc95b5e0ce614c82175ed55/onespacemedia-cms-1.5.7.tar.gz"
+      },
+      "1.6": {
+        "sha256": "b30e5c36c5f0286c8b0dcbdb327cfafdb20e48448936ed35f13165ec7124bafa",
+        "url": "https://files.pythonhosted.org/packages/ba/7c/def57f58fa0883ec3331058fd5115c293a321956a45483d300e2d47e665f/onespacemedia-cms-1.6.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "46a6a6938ea50b6f810d488125a4300656ed2179644864b4ff0fa875494de999",
+        "url": "https://files.pythonhosted.org/packages/97/a6/3997618e1e4bdbcfbdc2bba337cec6b21d45c2e230bf5a8be747c5ec7e2d/onespacemedia-cms-1.6.1.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "a178084dc0aec5382ddf9f82f07506712178c4bcd69a48cfa6bb8f2621e7fe31",
+        "url": "https://files.pythonhosted.org/packages/2d/11/a022f0fa2da354cdab8c338ea6890ee27a28d937de2ef62b96755e248029/onespacemedia-cms-1.6.2.tar.gz"
+      },
+      "1.6.3": {
+        "sha256": "7ac05dc21909e1fe9eadc835a145ba2c7bc657092c342585a9be978e640d41ce",
+        "url": "https://files.pythonhosted.org/packages/71/41/7ce1d0d7f7d99018d93b71b03f465432a259d3d448ad75ec3a86269d9182/onespacemedia-cms-1.6.3.tar.gz"
+      },
+      "1.6.4": {
+        "sha256": "ff1d65d80438146dd5110cb283f2ad08c51c71d863a96eea332614cfa94a4f66",
+        "url": "https://files.pythonhosted.org/packages/f4/c0/c8462aeb9d6f2cfbcc4409b5147be0ea0959b1c928dc7021544f4bc741d6/onespacemedia-cms-1.6.4.tar.gz"
+      },
+      "1.6.5": {
+        "sha256": "6a657f16c41b5a2edaeb0370ec6ef3cd8c8c1e8374c9955f97d86d8531f35a6e",
+        "url": "https://files.pythonhosted.org/packages/f9/29/889ae5a6855e8e84a40ea4317cad1c27768c183a686b590a548f240237d9/onespacemedia-cms-1.6.5.tar.gz"
+      },
+      "1.6.6": {
+        "sha256": "0c174f79850557198a493681a1180f2dcc447bc64d82fd8e5155683433f9c326",
+        "url": "https://files.pythonhosted.org/packages/1d/33/dc38af70f4293486959976b7260299b3be75dd5237e927e0360988996ae7/onespacemedia-cms-1.6.6.tar.gz"
+      },
+      "1.6.7": {
+        "sha256": "58a7a3269c395f9348134a6bae55f5902411c31c35d383ef2bb1c6e63fb83774",
+        "url": "https://files.pythonhosted.org/packages/7e/74/5dd11efc3dab3cb0008388f94ff823e0689117e841f0aac67cf476342194/onespacemedia-cms-1.6.7.tar.gz"
+      },
+      "1.6.8": {
+        "sha256": "285f7e61f246962668f380b95b034c4c1d648106b05da51161465217571e440a",
+        "url": "https://files.pythonhosted.org/packages/19/a8/62ad99c208ee98b1b7072a667c92762f2bd5b788a3fb3ed9196e4868584c/onespacemedia-cms-1.6.8.tar.gz"
+      },
+      "1.6.9": {
+        "sha256": "0f98bb893dd9e888b627ecaba9694deeed2ec16f029a2adda74be49e3012611f",
+        "url": "https://files.pythonhosted.org/packages/fe/ef/0f8a79ba885be9207a10e1d0805cf8ec85bb52b0bfadf88f9a8a0c592d1e/onespacemedia-cms-1.6.9.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "c04a3c9e5e93d16ab49fc5b1da4647033e9dec24335acebcd26853f73c36d8ca",
+        "url": "https://files.pythonhosted.org/packages/42/17/87d921ef3e609190cb1047c2990e87ad3ee93b12c40403589f9b25d89259/onespacemedia-cms-1.7.0.tar.gz"
+      },
+      "1.7.10": {
+        "sha256": "fa81ee015520888c5536cd76f12cf6b161d631ce8fbdef4ad2080800c372dcd9",
+        "url": "https://files.pythonhosted.org/packages/1d/05/d548d79498eada2c88f52da3a5c6c27ed2a88b6ef6dddd5f116dc14a85ac/onespacemedia-cms-1.7.10.tar.gz"
+      },
+      "1.7.2": {
+        "sha256": "672511352bff9803a6f9e5d882dba8f8b8ded50fd08f215c5ccdb15e8ddacad9",
+        "url": "https://files.pythonhosted.org/packages/fb/09/317dcd0af8e84c76290a4b565875dadfdff88bde89f9ed2f210dbd20bbb2/onespacemedia-cms-1.7.2.tar.gz"
+      },
+      "1.7.3": {
+        "sha256": "93b22d575b2c023e137124df2f7dd85fe0bf8c24cfc6e1a161bd6fe199ee030f",
+        "url": "https://files.pythonhosted.org/packages/33/fa/953cd5e9ad42adb504f4ab018bb1ef2e23144fa9c4b5c16450591b0bc305/onespacemedia-cms-1.7.3.tar.gz"
+      },
+      "1.7.4": {
+        "sha256": "e8dc5c9e2c2164fa313ea97b49a0f8fe194175001571223b13cb5dd7682a58e3",
+        "url": "https://files.pythonhosted.org/packages/77/42/9864ab417eec8bae402fe721ff545e1a5f221af288fe93eee4b9325c799a/onespacemedia-cms-1.7.4.tar.gz"
+      },
+      "1.7.5": {
+        "sha256": "93258db8dd0fe18f40e96955194b0960d46d9a78c2ac4e0ea08b21770aea17db",
+        "url": "https://files.pythonhosted.org/packages/91/07/7ac4683756c52d69b4aeb9653f8eb9bd9e4d9225292316a73d158e1da104/onespacemedia-cms-1.7.5.tar.gz"
+      },
+      "1.7.6": {
+        "sha256": "2b04b5ff4593e784db5eff8e82bb8e80ad75b1c010695e70d7fc2897c38b37ef",
+        "url": "https://files.pythonhosted.org/packages/94/6b/189a9d19fb80689b68899f9f289ef5eab7bbcf6b18129adaaca35fe0e17d/onespacemedia-cms-1.7.6.tar.gz"
+      },
+      "1.7.8": {
+        "sha256": "1ebb327e10fdc7ae9595e6ec7848be1b36d256ae7038937a5ca27556019984c8",
+        "url": "https://files.pythonhosted.org/packages/39/44/698d63d6a06fad0ec26a211fb3b6a59ed0d5dc0b53da02a765b862c15dba/onespacemedia-cms-1.7.8.tar.gz"
+      },
+      "1.7.9": {
+        "sha256": "54a9cf63be641dbc33edfe27e33b02c18842f89639c255ea465536ef105333a5",
+        "url": "https://files.pythonhosted.org/packages/21/c8/f235d2cce2258c31e718a0b69303bf3842db9b072e97f7dd6a69b058a193/onespacemedia-cms-1.7.9.tar.gz"
+      },
+      "1.8": {
+        "sha256": "a2c1be989865e5a5f4ada8940b86e84d8bd5e06919b376910a697cb7a72a9be4",
+        "url": "https://files.pythonhosted.org/packages/82/b7/86d8a8358ed035d49ac2c7c45ae56bf5d65d19d2cdd18b6013e9e7c12354/onespacemedia-cms-1.8.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "9d218159538c3841770db33fd0d5ab37a370e5c8980a865ce8fe46f201e9f62a",
+        "url": "https://files.pythonhosted.org/packages/74/ee/c76cc94276063aee2253385801aacc2c0f7e6df67077f93660e5ce9b82a1/onespacemedia-cms-1.8.1.tar.gz"
+      },
+      "1.8.2": {
+        "sha256": "f932f0bd41ba2a996c4d41806bb8b6201a452c55b87445d6170a0965c6e25112",
+        "url": "https://files.pythonhosted.org/packages/93/29/512a8ce6663b2683d4f09869f7800558a5fdc1a48f249b526b9137eafe2b/onespacemedia-cms-1.8.2.tar.gz"
+      },
+      "1.9.1": {
+        "sha256": "ea8057a76cde21a4637ca8fd7cbc7302622241c9bdf3e5e052a13ccb595ff35e",
+        "url": "https://files.pythonhosted.org/packages/c7/67/d806c45381f70cddd6be2a9713fb59562e88094038d70032f3845194d344/onespacemedia-cms-1.9.1.tar.gz"
+      },
+      "1.9.10": {
+        "sha256": "49daf78fa26f8f9fc3ce479a30d6cbdd50439c7c650d1714f3fdd47bff6c035d",
+        "url": "https://files.pythonhosted.org/packages/22/b0/6e6c4d64df184ccceff87b30d127fd0a18f5ef08e626acd13ba08644bf8d/onespacemedia-cms-1.9.10.tar.gz"
+      },
+      "1.9.11": {
+        "sha256": "22e3e7c0ae55425526df0e633eab736c259891e3c4595975a54e92f83a563996",
+        "url": "https://files.pythonhosted.org/packages/56/af/ec163ffaef86b82977ec7a95ac5305d37245c22b4a845e6e44ddbcdf49a3/onespacemedia-cms-1.9.11.tar.gz"
+      },
+      "1.9.11.1": {
+        "sha256": "deb5bc5620783810b6a8879217bc745991f4c88879274355a4a1d69dd6f08e50",
+        "url": "https://files.pythonhosted.org/packages/e8/76/b1a12bb3d365427783a364b0a11967b0cef60e4dcdf1b738646a8efea121/onespacemedia-cms-1.9.11.1.tar.gz"
+      },
+      "1.9.11.2": {
+        "sha256": "8d71555f6277b086b5a62ff54c4c277d39ae9aeb6c10b506a49ff59856e0c069",
+        "url": "https://files.pythonhosted.org/packages/8c/ea/29eea6f6198c0ddbca80fb367a4a4ca48eae992d6465e30e251186a5a874/onespacemedia-cms-1.9.11.2.tar.gz"
+      },
+      "1.9.11.3": {
+        "sha256": "9ef9949c68bb9921a3cd9d2d3505d767cc232eb776e604adc6497d5c940d8963",
+        "url": "https://files.pythonhosted.org/packages/be/15/6403977c3f9a40d40dd9fb3a5bd3b1ae7d54df6cb6eacdb859408458c502/onespacemedia-cms-1.9.11.3.tar.gz"
+      },
+      "1.9.12": {
+        "sha256": "0ee6f217fbfede386451d1b822ed061ace0cac7db3006c5facce82e975fd09da",
+        "url": "https://files.pythonhosted.org/packages/d6/50/96cd4376ad2e848e3525e55704e15072cb3888e8f70e4c5acf373acfc86c/onespacemedia-cms-1.9.12.tar.gz"
+      },
+      "1.9.13": {
+        "sha256": "6224af15af8773f9ce18b0dc1143f2b782c9100d24d5eee378c07cdbdecd9e05",
+        "url": "https://files.pythonhosted.org/packages/91/75/98443f990e51745ed06b45276d6420fcb3ed7c65000d72a0ddf67d8f8c74/onespacemedia-cms-1.9.13.tar.gz"
+      },
+      "1.9.14": {
+        "sha256": "5835aea5ab85e24d80880114c7b955ea77ef01359b82ae12167085ac3d9eceb3",
+        "url": "https://files.pythonhosted.org/packages/b1/0b/d79313467feb45197bd5dbf9e1b7a72b5c064f065f43e1636582092ac9e7/onespacemedia-cms-1.9.14.tar.gz"
+      },
+      "1.9.2.1": {
+        "sha256": "19dbcbb356c14ec85ea8fa62e5f55d6998a6ff2d6a3dcd444c120b079d26ea56",
+        "url": "https://files.pythonhosted.org/packages/e8/ea/0eabc47d5ad55d4d3e4f17058e3e6f13eb81588082e058683bb14c1bd79f/onespacemedia-cms-1.9.2.1.tar.gz"
+      },
+      "1.9.3": {
+        "sha256": "368ab87acb3cb0ba3dbef9e0941735b75b9186744d75cb8873ae19d8a1b7e47d",
+        "url": "https://files.pythonhosted.org/packages/ca/af/486b9a83983de157f6cc442d751b3bc5153912be925c1fbdd15460bdc883/onespacemedia-cms-1.9.3.tar.gz"
+      },
+      "1.9.4": {
+        "sha256": "b00701dec30ea5e2be7d67eff0a0a5468729031acc69889b13550bf51acc0175",
+        "url": "https://files.pythonhosted.org/packages/2d/06/f84a8454cbf414ed264f6ddf09bdb2551f0522519238ff37e041051e34e2/onespacemedia-cms-1.9.4.tar.gz"
+      },
+      "1.9.5": {
+        "sha256": "64382ada482c54b80f64051f453be11bd3540fbb14f9f66c25ff1310705d86df",
+        "url": "https://files.pythonhosted.org/packages/2c/fb/fedd9f734781acfa246263437f952757a660dcb113fecadecc18f368c121/onespacemedia-cms-1.9.5.tar.gz"
+      },
+      "1.9.6": {
+        "sha256": "b21a5fca2ef5a005b2d15c8243931db38f654ebc9216cb9586aaeb45d7a34134",
+        "url": "https://files.pythonhosted.org/packages/7b/6d/eb689a0c7fb97c0fd8a160fcca79a4e94ffb3acd67a17b45259c65c40ec0/onespacemedia-cms-1.9.6.tar.gz"
+      },
+      "1.9.7": {
+        "sha256": "e1f2fe76fafdc59759b5ab90054dc35a36e757f49e1e7fd35322f57eb24e6c18",
+        "url": "https://files.pythonhosted.org/packages/49/74/e62627ffb9edfca5942a44a321de3ff586c3809efc83dc1fd68d8161b27c/onespacemedia-cms-1.9.7.tar.gz"
+      },
+      "1.9.8": {
+        "sha256": "fe323fdd352555cb94d940829577814be58ed8e03b3b93bfd223dff3f1601272",
+        "url": "https://files.pythonhosted.org/packages/4d/36/6adf8391bfb42f06e57509d147c9e1b6496205eecdb4f477224cbb127274/onespacemedia-cms-1.9.8.tar.gz"
+      },
+      "1.9.8.1": {
+        "sha256": "45fb462383fe3a89006577823eb55c828f64c54d35cbff228875d0944a93e249",
+        "url": "https://files.pythonhosted.org/packages/81/8b/751afd85d8926a1ffdf821633adf98ada949f30b5c4dd99501a165779c22/onespacemedia-cms-1.9.8.1.tar.gz"
+      },
+      "1.9.8.4": {
+        "sha256": "a852cf9b3d9d81a7cb1bdbe874100fb16f03890ff3a1e78da63fc06b3ea21e7f",
+        "url": "https://files.pythonhosted.org/packages/75/33/46a105a01bc4cc079427143b86a5888c885649a74316bd79cc4fe39fe831/onespacemedia-cms-1.9.8.4.tar.gz"
+      },
+      "1.9.8.5": {
+        "sha256": "1d983e969fa26eb7653385af77c34c133e9305aadaf827d8d622e7eb77d64508",
+        "url": "https://files.pythonhosted.org/packages/00/10/a75b71761623a01fce45273b98fc4c1114acf94aff938d74ba9f25b47cee/onespacemedia-cms-1.9.8.5.tar.gz"
+      },
+      "1.9.8.6": {
+        "sha256": "6de58a247a650bfab5ad1f45f35014993d5179cfceef153c7ae9b5d64ea4b095",
+        "url": "https://files.pythonhosted.org/packages/ab/1e/2d8f78f1c8f4a5f56400590b7c4a94e9fdb16392a57d55cbb9eb34d35285/onespacemedia-cms-1.9.8.6.tar.gz"
+      },
+      "1.9.8.8": {
+        "sha256": "3774d4bf1da63db091e0fd00ae5da4d5e0639ae0ce90d76996d1c9254a5f86f9",
+        "url": "https://files.pythonhosted.org/packages/f3/1a/cb706ac9febc84eab6f5eee5de09b82db0ae2dfbb357b71032bf2ab6312e/onespacemedia-cms-1.9.8.8.tar.gz"
+      },
+      "1.9.8.9": {
+        "sha256": "5cb86808b0f59adfecfc6f73aaaafc0155eb61554e8aa206bddb56104d5f510e",
+        "url": "https://files.pythonhosted.org/packages/ef/03/0e9a8ebe32a68d0e12cbad6223aa1001fb1b74e737c269a07b9963c441c1/onespacemedia-cms-1.9.8.9.tar.gz"
+      }
+    }
+  ]
+}

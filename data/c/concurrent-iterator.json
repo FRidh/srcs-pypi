@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.2.4"
+  ],
+  "meta": {
+    "description": "Classes to run producers (iterators) and consumers (coroutines) in a background thread/process",
+    "homepage": "https://github.com/jruere/concurrent-iterator",
+    "license": "LGPLv3"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "791ea07f6af3a4efbb83dc312b8533b0ebd027555ba6012cf4e57416614b3175",
+        "url": "https://files.pythonhosted.org/packages/89/6e/cca0b9a8a66a76530acf0b2fbe137d966881a7bc734b92e6f7e45ebee38f/concurrent-iterator-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "dbbb345a4a7b5f864a1b61b75ec9812a91b6fb21e5354c8a575342c07271aa9b",
+        "url": "https://files.pythonhosted.org/packages/c6/d6/e817dba901775ba89982755e7b282fc18c2f1a2a4a284b2659ef0a3ef9a6/concurrent-iterator-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "9295563e987e568b4b1c777d8f886ed583f4096e7c651f3fdd67b27a83f7920a",
+        "url": "https://files.pythonhosted.org/packages/4a/13/bd2c7d9a854909a09e8674636158cb163b490c7cc882792dbf481f60a8db/concurrent-iterator-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "c61be536e1768d9a6d0a552ec864438499468c36da7d09123aa2fca7dd0c89f4",
+        "url": "https://files.pythonhosted.org/packages/72/89/2887d715b3f5b92d351b18ea8bec4f2caffe78042bc5317731dfe72a7f76/concurrent-iterator-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "134660ce7a65128dfeeceefba00d4a24e850b57968221a711fc159f448f4e6b0",
+        "url": "https://files.pythonhosted.org/packages/8c/7d/419a5c263a11e41d22e619ea7bae7419be30095cfefd335b461b3f97943c/concurrent-iterator-0.2.3.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "881cec957891fdccae0f091679e585b89a354dc71a97111c3600e51f37694f3f",
+        "url": "https://files.pythonhosted.org/packages/0b/19/1e25a86d56f26f9be130dd69570c3d84c7e88d4c5d1cc6695f9034213a2b/concurrent-iterator-0.2.4.tar.gz"
+      }
+    }
+  ]
+}

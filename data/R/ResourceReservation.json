@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.4"
+  ],
+  "meta": {
+    "description": "Resource Reservation plugin for Trac",
+    "homepage": "http://trac-hacks.org/wiki/ResourceReservationPlugin",
+    "license": "BSD. See the file LICENSE.txt contained in the package."
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "12066463b2c44ba23751c78f8a36b659c549e8df46bddcf8579a5b8bf8ebafce",
+        "url": "https://files.pythonhosted.org/packages/1b/ee/a7a3bfd5d64ed5b931a08a8c3ec0785427135ab18e7583bbae847731ea39/ResourceReservation-1.0.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "3c4d40993b0a3a95494951a3722c0385507fc4d10c3a6243227e114df4e1cf02",
+        "url": "https://files.pythonhosted.org/packages/73/66/8fc4fb3b2d0b185c6cbd2389dd0f347807fcebc6cff095e30a385911c380/ResourceReservation-1.0.2.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "570bda32ce5ede51f12e92e171a75f572720d892501145c486d3960ca6db3a70",
+        "url": "https://files.pythonhosted.org/packages/d6/e2/aa30afab4af2df0f878feb9847c59cd292a32388b6754efa31d05b520647/ResourceReservation-1.0.4-src.tar.gz"
+      }
+    }
+  ]
+}

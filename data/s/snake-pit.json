@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Depending on the installation or uninstall packages, and then edit the requirements file",
+    "homepage": "https://github.com/kk6/snake-pit",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2.3": {
+        "sha256": "a8dfcd1d57e187ef88c9b0ccfc64acda652fdd05a33a92b30baf74ab1f717026",
+        "url": "https://files.pythonhosted.org/packages/bc/11/c61e73c13b520f42926fdeb5edae844ff432f046a0de74e4d8aa20ac3144/snake-pit-0.2.3.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "c59fc546af60f8b082c698c4e27bd734c68b589aae9280e071555183e72d7576",
+        "url": "https://files.pythonhosted.org/packages/2d/a1/59373b208c4b0bb0c34d9e04e67ffd3b601f324ea3a707427a30e95dfe5b/snake-pit-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

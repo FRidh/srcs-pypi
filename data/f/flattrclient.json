@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Implementation of a python library for the flattr restful api",
+    "homepage": "https://github.com/chrigl/python-flattr",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "86bb2440d9ce0c4d1d2581f5fe8b27b91da22a541fa11459f3e2798dce079856",
+        "url": "https://files.pythonhosted.org/packages/4f/98/c5ed6e6c8e3ffd452b069ce2072e2ced0358b88173e111001c77b46f8635/flattrclient-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "968b6a598a394f9a4f881cefd26824887d7dd617f5ce8a0a547107044ce46e3f",
+        "url": "https://files.pythonhosted.org/packages/d3/cc/2c7d4c6287c0a7480b71f0c5db13583eaf15ccc82d0703ce8acc428635de/flattrclient-0.2.tar.gz"
+      }
+    }
+  ]
+}

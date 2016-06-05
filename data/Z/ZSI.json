@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.0-rc3"
+  ],
+  "meta": {
+    "description": "Zolera SOAP Infrastructure",
+    "homepage": "http://pywebsvcs.sf.net/",
+    "license": "Python"
+  },
+  "versions": [
+    {
+      "2.0-rc1": {
+        "sha256": "f448093df75c27da8310b30611c5f1e55c356b934459214a408ceb2306f6dcad",
+        "url": "https://files.pythonhosted.org/packages/28/ee/9451d1d8ea0387893ac84b898afcaf37e783be1c0c6b4467f962ebdcdbd4/ZSI-2.0-rc1.tar.gz"
+      },
+      "2.0-rc2": {
+        "sha256": "289c02887250592132416d7d4113140bedd0cfa5a96281a34774ec0a60cec140",
+        "url": "https://files.pythonhosted.org/packages/7a/de/eb6337bd40432ddb732de4c372a7e47bf4e706337d1274eee5d3a26eb58b/ZSI-2.0-rc2.tar.gz"
+      },
+      "2.0-rc3": {
+        "sha256": "1699ff8f2e0b2f7d6e2a03f8f24f59c9649ce3737f1ed851995efdc6c83e6c71",
+        "url": "https://files.pythonhosted.org/packages/bb/3b/b2053649e156f2a428cb57999d0361686d8f0f6841987588bef3c5ea0c8c/ZSI-2.0-rc3.tar.gz"
+      }
+    }
+  ]
+}

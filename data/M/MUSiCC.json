@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "MUSICC: A marker genes based framework for metagenomic normalization and accurate profiling of gene abundances in the microbiome",
+    "homepage": "http://elbo.gs.washington.edu/software_musicc.html",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "72ecebc8197e057fdb40698ca433a13b2b094630dc8cc08810090d64e8d2c0ea",
+        "url": "https://files.pythonhosted.org/packages/f4/b7/e286a0010a6f5078f1cda767eadc085c5fea2dfb3ce3865ce71ed8c4b93c/MUSiCC-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "912655c9b728b7ae1d0e6613863058ce2f90ca2b6c2954b41755311542a26cc1",
+        "url": "https://files.pythonhosted.org/packages/01/18/8ddc017c60c24b0169e412f50089f1a24089677da43d9e401abc5444cc3b/MUSiCC-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

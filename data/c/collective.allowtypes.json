@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Set allowed content type for Plone in a n x n Matrix",
+    "homepage": "https://svn.plone.org/svn/collective/collective.allowtypes",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "4457094ed4a682287f414ff59d9c3013e8e308ca1fce431a56e7e9448047dd51",
+        "url": "https://files.pythonhosted.org/packages/86/94/975142f912b7a88e2116edee5e20fbe3f367c6eea256c22da5b7f9fe1209/collective.allowtypes-0.1.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "fb313085f19194ce248b0425e2823e441366d48e44cf37fdaeb6a16303a19ca4",
+        "url": "https://files.pythonhosted.org/packages/c8/54/7467e74f3497117b9c5e18a18d94daa57023ecc61ecb949439d745f0410b/collective.allowtypes-0.2.tar.gz"
+      }
+    }
+  ]
+}

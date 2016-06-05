@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "Copy a remote file using multiple SSH streams",
+    "homepage": "https://davesteele.github.io/splitcpy/"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "6f299b21c10e072dd5aff99270591d6aebc5e9304c05e06bedd6432d5463daea",
+        "url": "https://files.pythonhosted.org/packages/71/3c/9bb6b1bd6f0e75bc0128be174cd7c8d20c0b96475f801b264a0ef2a73a57/splitcpy-0.3.tar.gz"
+      },
+      "1.0": {
+        "sha256": "936165ef600909fb84434325e2896d8867a961b1c17d57eeb37d1a28c191e00d",
+        "url": "https://files.pythonhosted.org/packages/ae/79/2b1e3b7a2ae949e82ebcb68c811edfec066a9ea15dcb2e1eb198bb116f99/splitcpy-1.0.tar.gz"
+      }
+    }
+  ]
+}

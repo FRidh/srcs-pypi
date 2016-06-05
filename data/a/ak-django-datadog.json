@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.1.0.5"
+  ],
+  "meta": {
+    "description": "Simple Django middleware for submitting timings and exceptions to Datadog",
+    "homepage": "",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0.1": {
+        "sha256": "62b2aad9604122edc3a4d8aa414754681335a21f05dbaa3f848fa0aa85a65c23",
+        "url": "https://files.pythonhosted.org/packages/e5/51/1c776091b8445558e35f3a75058f6334399404d9af5d3882894989b4d8dc/ak-django-datadog-0.1.0.1.tar.gz"
+      },
+      "0.1.0.2": {
+        "sha256": "1747cbca55bb658694622302abd7d64e5c875fd7ba47d95e06fdefd82a5c58eb",
+        "url": "https://files.pythonhosted.org/packages/34/ff/facee271e32196ea21f7560019113cc5e9c38623ef0ae1edf962e8a05d9a/ak-django-datadog-0.1.0.2.tar.gz"
+      },
+      "0.1.0.3": {
+        "sha256": "9880a341e7b0800a7b2ceb3cd7b7f8b467d4619b82a78dbb7218619c7cd28f45",
+        "url": "https://files.pythonhosted.org/packages/28/f5/a110f99f1b5c054b6f1902b57e168e487858db1d10a86caf94f94386ba3a/ak-django-datadog-0.1.0.3.tar.gz"
+      },
+      "0.1.0.4": {
+        "sha256": "f5360c4e919a75402f2c88a2eba4dc5d440d17ce0aa2aa8f4dad5c7b68d7c7a5",
+        "url": "https://files.pythonhosted.org/packages/7a/14/741e5204b0deb95444a7dc814bec49f29c7ac3c46610e77f23d40dee9a18/ak_django_datadog-0.1.0.4-py2-none-any.whl"
+      },
+      "0.1.0.5": {
+        "sha256": "cddfaf69a20d0f7e344587e3aae598002c99b298fb728ecb4ec1ab9ac8df4354",
+        "url": "https://files.pythonhosted.org/packages/da/f7/7bd5427dabd4aedd18d66c26cc0f81b865560743b84ec5eac72c769b382f/ak-django-datadog-0.1.0.5.tar.gz"
+      }
+    }
+  ]
+}

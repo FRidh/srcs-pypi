@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.7"
+  ],
+  "meta": {
+    "description": "Numpy data serialization using msgpack",
+    "homepage": "https://github.com/lebedov/msgpack-numpy",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.3.5": {
+        "sha256": "f2db1d3897a87aba863d8cf5b059866ffe7d40eaced2adeb4a58a6f52dc2ceb8",
+        "url": "https://files.pythonhosted.org/packages/4b/bc/92f4faf68b852d3b9c2a10cb37456e21aaae35d44bf213eddd614780e0eb/msgpack-numpy-0.3.5.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "b256bcb9a357440fccd6ecbb1482949618c79086d99de6c32b3ca91d12424eb1",
+        "url": "https://files.pythonhosted.org/packages/eb/1e/ced210227621f07143cceb91beee48c5c5601edf554e374a6354faa82412/msgpack-numpy-0.3.6.tar.gz"
+      },
+      "0.3.7": {
+        "sha256": "dc449e0017f34d9531fe4a9a9f6c3ac7857b8b7632f2cae80570b217aac9acc0",
+        "url": "https://files.pythonhosted.org/packages/15/fe/32d00224256b4fd287235a7eaad804c65691334f35ecb0146a4b7c087166/msgpack-numpy-0.3.7.tar.gz"
+      }
+    }
+  ]
+}

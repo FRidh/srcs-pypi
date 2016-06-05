@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0a3"
+  ],
+  "meta": {
+    "description": "A general purpose Smoothed Particle Hydrodynamics framework",
+    "homepage": "http://pysph.bitbucket.org",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.9beta": {
+        "sha256": "3558fe730ee3768a637ef9ff7794e829a000fe604e2f9938fedd8753f454c11f",
+        "url": "https://files.pythonhosted.org/packages/59/26/f1ecbcefef93ed8121eafa7b4ff4d291504a368900cd08be425d44dacd47/PySPH-0.9beta.tar.gz"
+      },
+      "1.0a1": {
+        "sha256": "ce5bb1eabef224c3695b1f159f74e9b3353505801f89733871cd25a35134ade6",
+        "url": "https://files.pythonhosted.org/packages/a6/22/012a93b9a278aa3ef884a8fbeedd4d8fb689541e9f2ae53697289d520620/PySPH-1.0a1.tar.gz"
+      },
+      "1.0a2": {
+        "sha256": "5a429f18d5bb8f086ef07dcfb1d87a83585d73c3de0b8a51df3899b08faa2e46",
+        "url": "https://files.pythonhosted.org/packages/4e/98/d68647e8b1354db2ff74212c8019604f6af87b4d1c0b1e4ad79e9a71ecac/PySPH-1.0a2.tar.gz"
+      },
+      "1.0a3": {
+        "sha256": "ad4331812a2587e32253a9ca6772c2db6434f068d79339092c44662b61a55f6a",
+        "url": "https://files.pythonhosted.org/packages/81/68/c3bddf10a9d65a21166cffa7bfd9d127968c53a69cc62222911ade838452/PySPH-1.0a3.tar.gz"
+      }
+    }
+  ]
+}

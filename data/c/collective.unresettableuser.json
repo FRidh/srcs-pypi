@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Additional option for Plone users, that make the reset password operation not available",
+    "homepage": "http://plone.org/products/collective.unresettableuser",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "66b169d7ef35a8f4165250532b567b66c8457f3e762f5b05263342fe677cfe8d",
+        "url": "https://files.pythonhosted.org/packages/3a/20/34aea4d6a3ce487a6608f867d3862328bd3aaf5ab5b7bca002b935b68a22/collective.unresettableuser-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "315e4e5ab363d8fccc77bac0cd7f66d1bf29d932f1d1c67561de4a386b217baa",
+        "url": "https://files.pythonhosted.org/packages/3a/8a/6038a16868cccb9f495933e009a31e534b1f0d56b40f47959ace09f9bfb2/collective.unresettableuser-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Django blogs - module that provide blogs to your django application.\n- One user blog\n- Multi blogging system\n- Blog per user\n- Safe html in posts\n- System to manage permissions to read\\write\\moderate blogs",
+    "homepage": "http://github.com/ilblackdragon/django-blogs.git",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "5919493dc3ee7b23b7e206443a26c9c7dde0483e5a0064a6948e96479428c269",
+        "url": "https://files.pythonhosted.org/packages/9f/9e/38baca0421a027c1c64dad1076522c5d3732fc385fd5f28cce311caf580d/django-blogs-0.2.0.zip"
+      }
+    }
+  ]
+}

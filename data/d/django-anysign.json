@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Online signature for Django: multiple services, generic API",
+    "homepage": "https://django-anysign.readthedocs.org/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "8fe8af83562b4d7b068f92609f051ca49936a5ba3f22d5d61549db0b7b71c3be",
+        "url": "https://files.pythonhosted.org/packages/3f/54/551e66d56c5df2da22a2893a7a9142ce91e11e77220043bc0d10f128e57e/django-anysign-0.1.zip"
+      },
+      "0.2": {
+        "sha256": "b1335b7202c00bd9595b5d5bab3fe5dcfb64840c8e96437d31e0fcd77cec8447",
+        "url": "https://files.pythonhosted.org/packages/aa/92/fe47b7654888b24d0e7e75bd3dde37021136fd6fcedb36e70fbdcd913265/django-anysign-0.2.zip"
+      },
+      "0.3": {
+        "sha256": "7a1e15bcd0ad4b891ca1860247797816a927e4cea44475f6c95eeca7a96e00b6",
+        "url": "https://files.pythonhosted.org/packages/2b/ac/b602ceb49a8b7521c592b2411093208806386af8e3196dc7c72dcfc0ca8d/django-anysign-0.3.zip"
+      },
+      "0.4": {
+        "sha256": "77aa611862df118810c36061acbc936f5260d59bb8f126a4cfe1e484cf174de0",
+        "url": "https://files.pythonhosted.org/packages/6c/5b/a2a91055b04a2b033ead9cd36efef7a456538355ca472ecdcb9c01ced6c9/django-anysign-0.4.tar.gz"
+      }
+    }
+  ]
+}

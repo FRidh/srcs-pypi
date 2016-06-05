@@ -1,0 +1,234 @@
+{
+  "latest_version": [
+    "1.55.47.1"
+  ],
+  "meta": {
+    "description": "Qubell platform client library",
+    "homepage": "https://github.com/qubell/contrib-python-qubell-client",
+    "license": "Apache License\nVersion 2.0, January 2004\nhttp://www.apache.org/licenses/\n\nTERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n1. Definitions.\n\n\"License\" shall mean the terms and conditions for use, reproduction, and\ndistribution as defined by Sections 1 through 9 of this document.\n\n\"Licensor\" shall mean the copyright owner or entity authorized by the copyright\nowner that is granting the License.\n\n\"Legal Entity\" shall mean the union of the acting entity and all other entities\nthat control, are controlled by, or are under common control with that entity.\nFor the purposes of this definition, \"control\" means (i) the power, direct or\nindirect, to cause the direction or management of such entity, whether by\ncontract or otherwise, or (ii) ownership of fifty percent (50%) or more of the\noutstanding shares, or (iii) beneficial ownership of such entity.\n\n\"You\" (or \"Your\") shall mean an individual or Legal Entity exercising\npermissions granted by this License.\n\n\"Source\" form shall mean the preferred form for making modifications, including\nbut not limited to software source code, documentation source, and configuration\nfiles.\n\n\"Object\" form shall mean any form resulting from mechanical transformation or\ntranslation of a Source form, including but not limited to compiled object code,\ngenerated documentation, and conversions to other media types.\n\n\"Work\" shall mean the work of authorship, whether in Source or Object form, made\navailable under the License, as indicated by a copyright notice that is included\nin or attached to the work (an example is provided in the Appendix below).\n\n\"Derivative Works\" shall mean any work, whether in Source or Object form, that\nis based on (or derived from) the Work and for which the editorial revisions,\nannotations, elaborations, or other modifications represent, as a whole, an\noriginal work of authorship. For the purposes of this License, Derivative Works\nshall not include works that remain separable from, or merely link (or bind by\nname) to the interfaces of, the Work and Derivative Works thereof.\n\n\"Contribution\" shall mean any work of authorship, including the original version\nof the Work and any modifications or additions to that Work or Derivative Works\nthereof, that is intentionally submitted to Licensor for inclusion in the Work\nby the copyright owner or by an individual or Legal Entity authorized to submit\non behalf of the copyright owner. For the purposes of this definition,\n\"submitted\" means any form of electronic, verbal, or written communication sent\nto the Licensor or its representatives, including but not limited to\ncommunication on electronic mailing lists, source code control systems, and\nissue tracking systems that are managed by, or on behalf of, the Licensor for\nthe purpose of discussing and improving the Work, but excluding communication\nthat is conspicuously marked or otherwise designated in writing by the copyright\nowner as \"Not a Contribution.\"\n\n\"Contributor\" shall mean Licensor and any individual or Legal Entity on behalf\nof whom a Contribution has been received by Licensor and subsequently\nincorporated within the Work.\n\n2. Grant of Copyright License.\n\nSubject to the terms and conditions of this License, each Contributor hereby\ngrants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free,\nirrevocable copyright license to reproduce, prepare Derivative Works of,\npublicly display, publicly perform, sublicense, and distribute the Work and such\nDerivative Works in Source or Object form.\n\n3. Grant of Patent License.\n\nSubject to the terms and conditions of this License, each Contributor hereby\ngrants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free,\nirrevocable (except as stated in this section) patent license to make, have\nmade, use, offer to sell, sell, import, and otherwise transfer the Work, where\nsuch license applies only to those patent claims licensable by such Contributor\nthat are necessarily infringed by their Contribution(s) alone or by combination\nof their Contribution(s) with the Work to which such Contribution(s) was\nsubmitted. If You institute patent litigation against any entity (including a\ncross-claim or counterclaim in a lawsuit) alleging that the Work or a\nContribution incorporated within the Work constitutes direct or contributory\npatent infringement, then any patent licenses granted to You under this License\nfor that Work shall terminate as of the date such litigation is filed.\n\n4. Redistribution.\n\nYou may reproduce and distribute copies of the Work or Derivative Works thereof\nin any medium, with or without modifications, and in Source or Object form,\nprovided that You meet the following conditions:\n\nYou must give any other recipients of the Work or Derivative Works a copy of\nthis License; and\nYou must cause any modified files to carry prominent notices stating that You\nchanged the files; and\nYou must retain, in the Source form of any Derivative Works that You distribute,\nall copyright, patent, trademark, and attribution notices from the Source form\nof the Work, excluding those notices that do not pertain to any part of the\nDerivative Works; and\nIf the Work includes a \"NOTICE\" text file as part of its distribution, then any\nDerivative Works that You distribute must include a readable copy of the\nattribution notices contained within such NOTICE file, excluding those notices\nthat do not pertain to any part of the Derivative Works, in at least one of the\nfollowing places: within a NOTICE text file distributed as part of the\nDerivative Works; within the Source form or documentation, if provided along\nwith the Derivative Works; or, within a display generated by the Derivative\nWorks, if and wherever such third-party notices normally appear. The contents of\nthe NOTICE file are for informational purposes only and do not modify the\nLicense. You may add Your own attribution notices within Derivative Works that\nYou distribute, alongside or as an addendum to the NOTICE text from the Work,\nprovided that such additional attribution notices cannot be construed as\nmodifying the License.\nYou may add Your own copyright statement to Your modifications and may provide\nadditional or different license terms and conditions for use, reproduction, or\ndistribution of Your modifications, or for any such Derivative Works as a whole,\nprovided Your use, reproduction, and distribution of the Work otherwise complies\nwith the conditions stated in this License.\n\n5. Submission of Contributions.\n\nUnless You explicitly state otherwise, any Contribution intentionally submitted\nfor inclusion in the Work by You to the Licensor shall be under the terms and\nconditions of this License, without any additional terms or conditions.\nNotwithstanding the above, nothing herein shall supersede or modify the terms of\nany separate license agreement you may have executed with Licensor regarding\nsuch Contributions.\n\n6. Trademarks.\n\nThis License does not grant permission to use the trade names, trademarks,\nservice marks, or product names of the Licensor, except as required for\nreasonable and customary use in describing the origin of the Work and\nreproducing the content of the NOTICE file.\n\n7. Disclaimer of Warranty.\n\nUnless required by applicable law or agreed to in writing, Licensor provides the\nWork (and each Contributor provides its Contributions) on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied,\nincluding, without limitation, any warranties or conditions of TITLE,\nNON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are\nsolely responsible for determining the appropriateness of using or\nredistributing the Work and assume any risks associated with Your exercise of\npermissions under this License.\n\n8. Limitation of Liability.\n\nIn no event and under no legal theory, whether in tort (including negligence),\ncontract, or otherwise, unless required by applicable law (such as deliberate\nand grossly negligent acts) or agreed to in writing, shall any Contributor be\nliable to You for damages, including any direct, indirect, special, incidental,\nor consequential damages of any character arising as a result of this License or\nout of the use or inability to use the Work (including but not limited to\ndamages for loss of goodwill, work stoppage, computer failure or malfunction, or\nany and all other commercial damages or losses), even if such Contributor has\nbeen advised of the possibility of such damages.\n\n9. Accepting Warranty or Additional Liability.\n\nWhile redistributing the Work or Derivative Works thereof, You may choose to\noffer, and charge a fee for, acceptance of support, warranty, indemnity, or\nother liability obligations and/or rights consistent with this License. However,\nin accepting such obligations, You may act only on Your own behalf and on Your\nsole responsibility, not on behalf of any other Contributor, and only if You\nagree to indemnify, defend, and hold each Contributor harmless for any liability\nincurred by, or claims asserted against, such Contributor by reason of your\naccepting any such warranty or additional liability.\n\nEND OF TERMS AND CONDITIONS\n\nAPPENDIX: How to apply the Apache License to your work\n\nTo apply the Apache License to your work, attach the following boilerplate\nnotice, with the fields enclosed by brackets \"[]\" replaced with your own\nidentifying information. (Don't include the brackets!) The text should be\nenclosed in the appropriate comment syntax for the file format. We also\nrecommend that a file or class name and description of purpose be included on\nthe same \"printed page\" as the copyright notice for easier identification within\nthird-party archives.\n\n   Copyright [yyyy] [name of copyright owner]\n\n   Licensed under the Apache License, Version 2.0 (the \"License\");\n   you may not use this file except in compliance with the License.\n   You may obtain a copy of the License at\n\n     http://www.apache.org/licenses/LICENSE-2.0\n\n   Unless required by applicable law or agreed to in writing, software\n   distributed under the License is distributed on an \"AS IS\" BASIS,\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n   See the License for the specific language governing permissions and\n   limitations under the License."
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "2fc991efcf53a702a60b7e1d9d7bb7f88e35510970fa1bd9c88aee659beafd6e",
+        "url": "https://files.pythonhosted.org/packages/84/1f/99c8a64e821b33934b364c56b69096091e8223120125f7ad906f48556651/qubell-api-python-client-0.1.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "ef1b00bb453f076d8669f1b0798f4066905eb148aaf181c2284613053bffdb36",
+        "url": "https://files.pythonhosted.org/packages/cc/c3/9f8d37fe2b95908a9ce60290eef5b9eb878ab9add987070d423692f3ae7a/qubell-api-python-client-1.0.1.tar.gz"
+      },
+      "1.0.10": {
+        "sha256": "e1c3c4f1ee055be1ad1c922a205428bd5dbb0527d2300ae2eb013412eb75ad03",
+        "url": "https://files.pythonhosted.org/packages/39/61/9874601ff19a4b899e0fbc9612dbe97989418f591853f00e7852b5460f9a/qubell-api-python-client-1.0.10.tar.gz"
+      },
+      "1.0.11": {
+        "sha256": "f49b05c030827ede30a86e9e6ddb36e75e3ab8bd44ff0ad177044deb59b46ee0",
+        "url": "https://files.pythonhosted.org/packages/25/87/4ef35efe34a02b690f036ff2404cb71e90632b896cc6ac85f5188e82b505/qubell-api-python-client-1.0.11.tar.gz"
+      },
+      "1.0.12": {
+        "sha256": "701d0d64e21eecf7425eaf63d330ec1c44da8c7cf86f8d8dd931c698edcd4857",
+        "url": "https://files.pythonhosted.org/packages/c6/31/8ac4a4cdf8f0663e844c489ab60beef6383c3c3adb5e43c47e53fe34dea5/qubell-api-python-client-1.0.12.tar.gz"
+      },
+      "1.0.13": {
+        "sha256": "ff9205b951d6accfb9da253f629557ba26c15a89d332fc2a01cb53b39a81bede",
+        "url": "https://files.pythonhosted.org/packages/2e/f2/e27f4565098d24eda951197409c37a8d1576b28c6a9f27236fc87acdd19e/qubell-api-python-client-1.0.13.tar.gz"
+      },
+      "1.0.14": {
+        "sha256": "ba985e205b36b48c8df6057c9181533d930be9ed6d7767d7bd4a03f8b7aab0ff",
+        "url": "https://files.pythonhosted.org/packages/e2/96/b00f5013542c36127d5b060841275edf71648303b7fbe08e8ba0d599b80f/qubell-api-python-client-1.0.14.tar.gz"
+      },
+      "1.0.15": {
+        "sha256": "887cb9f16b1e36f6bb9c85f0d9729ba0da8c6b180bf6c752d8bc4085bb6af674",
+        "url": "https://files.pythonhosted.org/packages/20/01/d044626c4b48a6efd60ddb89bc399b6c58d6de6c92aea46aab9474fe8a80/qubell-api-python-client-1.0.15.tar.gz"
+      },
+      "1.0.16": {
+        "sha256": "abf2581ccfafeb9445bb082cddd1406bed65c1889bbaae50d4bbcaabcbbc2154",
+        "url": "https://files.pythonhosted.org/packages/0b/20/67d45db575a8086ff4ef0f877354d2dc476e74c3ee76f2b71c055f7d4876/qubell-api-python-client-1.0.16.tar.gz"
+      },
+      "1.0.17": {
+        "sha256": "b69bbf351ebb2815b0843af8b893e62d031a7c1382d109e8094a66adb8fa608b",
+        "url": "https://files.pythonhosted.org/packages/45/f8/c6c390963361ebae28b3068bde5761aa8140b86db48155e6f3fd4d49e66e/qubell-api-python-client-1.0.17.tar.gz"
+      },
+      "1.0.18": {
+        "sha256": "8baee4539374041d7321a7ffeaac948201320f11d5f05af83d22a033b7accef1",
+        "url": "https://files.pythonhosted.org/packages/12/49/65cab4ad3ce0cfd706b8601462833e8158b654b89ad301f98b04544c97cf/qubell-api-python-client-1.0.18.tar.gz"
+      },
+      "1.0.19": {
+        "sha256": "45f4b7b7e3418eb20bcc820afc6b156da9236fe02c4f294cfb138493cabefce8",
+        "url": "https://files.pythonhosted.org/packages/d2/d6/75d568bc44e4e0d248790cde9cf658f7b7229480506a838f2cfd0500ab66/qubell-api-python-client-1.0.19.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "a3f94484f7b1cff7e2559f6a6b479f889f64fccafc1a06b16de300de1dcde3fd",
+        "url": "https://files.pythonhosted.org/packages/0a/2f/f5f3cc83842948a8bca4ccb3a4598da23f83de4d3523e51a76427f21e30a/qubell-api-python-client-1.0.2.tar.gz"
+      },
+      "1.0.20": {
+        "sha256": "2d1a28652be89f2766fe009a13d7a0976ccaae7ca10854536d705ea8f5ccaf97",
+        "url": "https://files.pythonhosted.org/packages/a8/a0/96a0edb679e0b4610f6df938a89af98c5c21f44ee28d174b72309af1773b/qubell-api-python-client-1.0.20.tar.gz"
+      },
+      "1.0.21": {
+        "sha256": "96a4cae357b70c06e90f8e446071d65cceec55fa6b3e2bf6870642acb4d11a0d",
+        "url": "https://files.pythonhosted.org/packages/25/64/ccb4cd3c4c331349ad31dbc33b7d9f548e251ded5a3020eb74e3b2b80b61/qubell-api-python-client-1.0.21.tar.gz"
+      },
+      "1.0.22": {
+        "sha256": "e589554e9553cc4bbddea4cf6e88d2bffe5cd631d5e2864ba4e4e17c5b5c20a1",
+        "url": "https://files.pythonhosted.org/packages/d5/30/4d1e8238d6e6cb117cbbf20dfca3094afa5a730aa5110e81a8eaf11d0ecc/qubell-api-python-client-1.0.22.tar.gz"
+      },
+      "1.0.23": {
+        "sha256": "957065c0eb85fa31b803d0dda65820ec672623322aab2bfc718f7e2afa7ccab3",
+        "url": "https://files.pythonhosted.org/packages/be/1b/80dd6f152f6e276fdd5bb55913c1148fb9ba1e9b313e10d25c7ca633e00b/qubell-api-python-client-1.0.23.tar.gz"
+      },
+      "1.0.24": {
+        "sha256": "59dbd193206d915dc2c598962f09d4e3a0054e3f2116be690bca0f4f2a5eab87",
+        "url": "https://files.pythonhosted.org/packages/fd/ed/e5c080635db0a0176e2180fe783c4e9f25405d805538ccca918a9a04c352/qubell-api-python-client-1.0.24.tar.gz"
+      },
+      "1.0.25": {
+        "sha256": "4ea74b716d13abdd7a9fa69b3f71a4b3f61773413bf798d1fc33209eaf3f2c87",
+        "url": "https://files.pythonhosted.org/packages/b6/ea/8d244f547d30cbea4e35cf4c0104faa8159ec75dd23099a4334ab446b277/qubell-api-python-client-1.0.25.tar.gz"
+      },
+      "1.0.26": {
+        "sha256": "961d47de8c9e31b2bfa4ea742de9be821d1405723032e5617cd2849cff5a0c6e",
+        "url": "https://files.pythonhosted.org/packages/a1/c3/89a10ab76bc7cf5b7ed7a3cb0215a87362cc4113abf7ed60d55d8e956e5e/qubell-api-python-client-1.0.26.tar.gz"
+      },
+      "1.0.27": {
+        "sha256": "258ac3e9e727fdc90feba3e75b1a8845141c6354e701ded6a4c41dd115ae9899",
+        "url": "https://files.pythonhosted.org/packages/14/a3/96c32add336709539182cdb072e11e3b8d560db8026fc083ea5f743d332b/qubell-api-python-client-1.0.27.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "a0a03e4b4f462b008cb7d1f4ec1c96a0c4ca5910b9355d286ae1a6e0b34a95cc",
+        "url": "https://files.pythonhosted.org/packages/59/8f/4ffa0f90eecf326df7837a696af3536127ef2dcaf70e86ef10143cd37cfe/qubell-api-python-client-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "8e3449092861d7c6f7df7de42874c22d843211fee28a48187283852abd56d4ea",
+        "url": "https://files.pythonhosted.org/packages/e9/fc/e15edd9f9478971c72925e88af3ffe487d7ae57e0f5600c2c6f4ec882cdd/qubell-api-python-client-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "1edbb8bf6ee313679187b635a9a54a68400617b080b8001c284bae05277c2ce3",
+        "url": "https://files.pythonhosted.org/packages/e1/fa/9fbe8bc31d410f879fbb73687850db7b6a83b9f41c80596d63e1467a7676/qubell-api-python-client-1.0.5.tar.gz"
+      },
+      "1.0.6": {
+        "sha256": "298ebc9d93d88bee7ff7cb059d28f43852bbf1010add7753278de201f13bac69",
+        "url": "https://files.pythonhosted.org/packages/a1/3f/53b7d90f753d9005fc5caf706017b2f1a53e957e1029cd1bb08a8f574390/qubell-api-python-client-1.0.6.tar.gz"
+      },
+      "1.0.7": {
+        "sha256": "da2357178b349791e2a93d6914c0a93222d94efbfb22fd087e43129732392850",
+        "url": "https://files.pythonhosted.org/packages/48/dd/a52a31bff921e0b7d3975d33abe7ec0e5fa59f3aed81ea8445e1d351f560/qubell-api-python-client-1.0.7.tar.gz"
+      },
+      "1.0.8": {
+        "sha256": "32f81d5d798c14978f540aa4ae0bba920b2def7d8e1327158be52b148c9d783b",
+        "url": "https://files.pythonhosted.org/packages/42/57/2572bf60dc243271e7ef3db06dc1278341f439d1c7a5b4207a05106d9722/qubell-api-python-client-1.0.8.tar.gz"
+      },
+      "1.0.9": {
+        "sha256": "32dd52719c41a84cf54d7fca9820b40092bf7b765f544bb7f5116d94fd3eabaa",
+        "url": "https://files.pythonhosted.org/packages/ac/28/620a7b80db026728cc7d14f948303188ed462ac34f1eee0229dd75ac4674/qubell-api-python-client-1.0.9.tar.gz"
+      },
+      "1.20.24.1": {
+        "sha256": "11935fe44f6b5b9330f132c0a10ac4e2d528c715a776cd82f1ed7e3d2f188cbf",
+        "url": "https://files.pythonhosted.org/packages/9a/4b/ce7c926fbebaa9e39eb760345b885d3a27941281f1931872a01cfb954a18/qubell-api-python-client-1.20.24.1.tar.gz"
+      },
+      "1.21.24.1": {
+        "sha256": "c5532ae14d8d0747c0ba3048318def8f0e90f55a82b6e6d991461a0373e27cb8",
+        "url": "https://files.pythonhosted.org/packages/9c/c9/b19635eb313366f90779cca2f6ed7854c1ade9cb71ffd0cefb9a459e5460/qubell-api-python-client-1.21.24.1.tar.gz"
+      },
+      "1.22.24.1": {
+        "sha256": "6fb4299d862094f99754d4274ca6ae11e689b498076068b0df0a59c016291c77",
+        "url": "https://files.pythonhosted.org/packages/7c/4b/2b328677a80d213f4d91f16c269ee71601bc8c12b7935a40ed8325e5f481/qubell-api-python-client-1.22.24.1.tar.gz"
+      },
+      "1.23.24.1": {
+        "sha256": "bf610787d6cc41456bce0312f67b7944d934e16819d923dd89326ace92be25f2",
+        "url": "https://files.pythonhosted.org/packages/5d/f1/4a5fba3878ebd68a89bf1f7a841d47975eb08a199f801a7f84b1ccbeeeea/qubell-api-python-client-1.23.24.1.tar.gz"
+      },
+      "1.24.26.0": {
+        "sha256": "e478ef632d6637b52ea573808473255bbe3ea7264e1952127e3a62247fa6a86e",
+        "url": "https://files.pythonhosted.org/packages/bc/05/2b144212f6fbb0505c74902779ed6e22d11bc3ca41d5fea532fe199e3354/qubell-api-python-client-1.24.26.0.tar.gz"
+      },
+      "1.28.27.0": {
+        "sha256": "957b8a1f0fab2755369f194a87fdb627fa278c298b7e709724647bda55bb83a4",
+        "url": "https://files.pythonhosted.org/packages/fb/53/0ce0912453530a2ff8157264c309bfda19e212d6acbf767eed1a2e975f5d/qubell-api-python-client-1.28.27.0.tar.gz"
+      },
+      "1.29.28.2": {
+        "sha256": "8f463a4c3c7a492638088ff6e7f6cbfba6b8c8cb5abdd49d80790ce66d61aeee",
+        "url": "https://files.pythonhosted.org/packages/84/41/514c3089bd897e688b7354e346390cafb1758249369b712f1603439282ff/qubell-api-python-client-1.29.28.2.tar.gz"
+      },
+      "1.30.29.0": {
+        "sha256": "c30aa7a95ed83b84f08fe72a2d4f164e7f9abbf39cc1081699fe5a2937400113",
+        "url": "https://files.pythonhosted.org/packages/6a/66/56429e91027c3f3263862c1ab5db3d4608b2d04297366e558f550d656368/qubell-api-python-client-1.30.29.0.tar.gz"
+      },
+      "1.32.30.3": {
+        "sha256": "20dc72b6c86395dae922dc254f082a5c04a095d6a7596d3d0f84689b7f71fca3",
+        "url": "https://files.pythonhosted.org/packages/03/f6/23ccd709784f374d1a3e5674c92ce97531bc5ca2735325bcfbeb5fe774d1/qubell-api-python-client-1.32.30.3.tar.gz"
+      },
+      "1.35.35.0": {
+        "sha256": "565a77187f384b9cebc4c6680c2042d110fe34e58367b642b93961bdae67d6ae",
+        "url": "https://files.pythonhosted.org/packages/80/a5/0d3c543f659e68030817501e0fcf581cb16f5f6a986096eb768ecf506219/qubell-api-python-client-1.35.35.0.tar.gz"
+      },
+      "1.37.37.0": {
+        "sha256": "6443942570d039bb95bd56b97ecae6fef66561dbce1be00e4369410d62b8d0d4",
+        "url": "https://files.pythonhosted.org/packages/e0/d8/1ea8eaeb7aa03a64d554c9dd1386c9fe769f64b49a23bd3d59e4f3a084cd/qubell-api-python-client-1.37.37.0.tar.gz"
+      },
+      "1.39.41.1": {
+        "sha256": "df87cadfd89504ccb275a67ff8196de12f7eb10fe11c7f9a84ef38010d7e43be",
+        "url": "https://files.pythonhosted.org/packages/e5/9d/29d228f4828e749e13c7deb0eed636f8fb3db963dc0096742fdaf39525e0/qubell-api-python-client-1.39.41.1.tar.gz"
+      },
+      "1.41.43.0": {
+        "sha256": "e91355dc1429fe66e509b71a4be5af1188ade4f92109517330176438abe28b08",
+        "url": "https://files.pythonhosted.org/packages/2c/52/6e6ca95302a5d7438403d7feedc78e4cafff9d682c2912c50105f85f9e35/qubell-api-python-client-1.41.43.0.tar.gz"
+      },
+      "1.42.44.12": {
+        "sha256": "2ec580c67603b508637825144db4934e462832bb0e29ff43b3f6001e4acf5440",
+        "url": "https://files.pythonhosted.org/packages/f7/c5/d723fcf73d242c641dba313aaf60bc35b29473501089352ae2f251768c16/qubell-api-python-client-1.42.44.12.tar.gz"
+      },
+      "1.43.44.12": {
+        "sha256": "23342df1c1d1b136b468bee35b5218a62df13674c477b82de7d8b2b0c81813c6",
+        "url": "https://files.pythonhosted.org/packages/b5/cc/339e49ee70088d76050988e4d9fd8892002348cc57942e2edbcdd6c7d791/qubell-api-python-client-1.43.44.12.tar.gz"
+      },
+      "1.44.44.12": {
+        "sha256": "d2686c92d700f64852332a4143bfced162dc06ec016f3ffac7e7943f263c19c6",
+        "url": "https://files.pythonhosted.org/packages/3e/99/cc91b456524852a00e1de338b448edf5e1badf59558887d92b910355e842/qubell-api-python-client-1.44.44.12.tar.gz"
+      },
+      "1.45.44.12": {
+        "sha256": "6c71db5d07799f9f54b2821071db8db0573d854c15a4d9723881819c2e5518e5",
+        "url": "https://files.pythonhosted.org/packages/fd/c8/9e38236f82c1836e7f67d68ec5de0b1f17a04309aac63d57870b6e58c10c/qubell-api-python-client-1.45.44.12.tar.gz"
+      },
+      "1.46.44.12": {
+        "sha256": "9adde4e29187cdfc879ee7046f972a77dad2818cf7349a0a7d11a62d9b239ab9",
+        "url": "https://files.pythonhosted.org/packages/b9/40/9af763a0a424151c3a7356d57230c7e978f8d466e87077d27a5c94a26fe9/qubell-api-python-client-1.46.44.12.tar.gz"
+      },
+      "1.47.44.12": {
+        "sha256": "7892e387fe5fcc59662621a7892d6fb91a019198081c9171d1da591097aa663e",
+        "url": "https://files.pythonhosted.org/packages/ff/1d/7f02ec5be88acd6ae25d1418bc9aab4ffabf4044fd20cb857d7468577221/qubell-api-python-client-1.47.44.12.tar.gz"
+      },
+      "1.48.44.12": {
+        "sha256": "a2ac2e130efd01805ebaad929831684b48b54b5f9dab2091f90b118ae6851c54",
+        "url": "https://files.pythonhosted.org/packages/79/6c/befd29dcee44a5aed25bba50dc25b9e270a41b770b0f62b24204c4483535/qubell-api-python-client-1.48.44.12.tar.gz"
+      },
+      "1.49.44.12": {
+        "sha256": "c7325c41b01e98ea15a1f0fe17421c2d72b21fdc68332d1140f38bc4345cd414",
+        "url": "https://files.pythonhosted.org/packages/61/4a/dc3e858862646206701f36ddeb7640755c1ba673a60221c3d0347f85446e/qubell-api-python-client-1.49.44.12.tar.gz"
+      },
+      "1.50.44.12": {
+        "sha256": "507cd1bc61ffa54f0727f3c9af03571b5c4d14cd5e148806753c9d57322c46d6",
+        "url": "https://files.pythonhosted.org/packages/02/20/01844e740c4935b9f1c51e8fac78cc229a48a0570ed33ec854b33cb9706e/qubell-api-python-client-1.50.44.12.tar.gz"
+      },
+      "1.51.44.12": {
+        "sha256": "f0c78ce41bef728455dbd9518a3781ba0526ae1f7c5690e4749f86b942832bad",
+        "url": "https://files.pythonhosted.org/packages/af/80/9311009768c3103db76130f1be7b7e73bbe1dbeab87152754c26aa825a3a/qubell-api-python-client-1.51.44.12.tar.gz"
+      },
+      "1.52.44.12": {
+        "sha256": "56528f8b1c0d14f5c0aed994906a7e0bce894dd20572b527125a8bbba3602f6c",
+        "url": "https://files.pythonhosted.org/packages/1c/7f/36d5b38ffb6df25114458a55ba4bb86eb91d04914d1cc6b7c6281fe400fa/qubell-api-python-client-1.52.44.12.tar.gz"
+      },
+      "1.53.44.12": {
+        "sha256": "fedd7d61c2b608ff93007038f61d0d982870e28cec4405743d725edfa83a2a66",
+        "url": "https://files.pythonhosted.org/packages/8c/6b/398b611037801135a3b6028dd9e43825a04349d04df84a420af6fe4930c7/qubell-api-python-client-1.53.44.12.tar.gz"
+      },
+      "1.54.44.12": {
+        "sha256": "6371744494c2e7591d51d927910bb12ae456121d340edf5be70734d5a96b8860",
+        "url": "https://files.pythonhosted.org/packages/c5/7a/541ebf1cb07ab6438138c42830ca61ee287667902725eb220671ef129143/qubell-api-python-client-1.54.44.12.tar.gz"
+      },
+      "1.55.47.1": {
+        "sha256": "984eb611613c690cb6fe0ea33179bd49548cda4f14eb2f577bb761b2df942c61",
+        "url": "https://files.pythonhosted.org/packages/6e/1b/8f54068a48383853adf194a6760c25a52266625a67894dea2063ea01ee9b/qubell-api-python-client-1.55.47.1.tar.gz"
+      }
+    }
+  ]
+}

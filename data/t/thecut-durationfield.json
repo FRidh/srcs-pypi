@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.0.7"
+  ],
+  "meta": {
+    "description": "Form and model fields for storing durations on Django modelsas ISO 8601 compliant strings, and returning relativedelta objects",
+    "homepage": "https://github.com/thecut/thecut-durationfield"
+  },
+  "versions": [
+    {
+      "1.0.6": {
+        "sha256": "2269aea3382e86c41a1198e8b069e29254422dc16bebdf23109e3ddb115210a0",
+        "url": "https://files.pythonhosted.org/packages/10/0a/0aba0aee8372d0e34cd5bb48fff4bb53e4f65f25e8302bce264fd22f577e/thecut-durationfield-1.0.6.tar.gz"
+      },
+      "1.0.7": {
+        "sha256": "8e341ac58ec63bb0aa47915edd3885438880a7f9b1c3c6163aa11809508880ca",
+        "url": "https://files.pythonhosted.org/packages/3c/bb/9012efe629a09e9548460779dd64d409a4b4b36f0e7023705c87992c861f/thecut-durationfield-1.0.7.tar.gz"
+      }
+    }
+  ]
+}

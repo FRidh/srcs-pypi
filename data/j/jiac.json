@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "A Jinja extension (compatible with Flask) to compile and/or compress your assets inline",
+    "homepage": "https://github.com/bmorgan21/jinja-inline-asset-compressor"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "2f10b104dbb9572858c83fd019eff243636e1e22546e1c1120087d8568f80db4",
+        "url": "https://files.pythonhosted.org/packages/e3/34/09740c0188327ddba4224ef0d580edc65b6e05f03f245b837f5bef92cb8f/jiac-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "e5cedf360098f416aa17b373a25dd67ab80d984aa4050abdb7cfdfb4f7f7eed7",
+        "url": "https://files.pythonhosted.org/packages/d9/3e/aa00f6421e875929f6a0af25186bfe4ecd26b80197183ee41a52d2c81c45/jiac-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

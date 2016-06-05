@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Kademlia is a distributed hash table for decentralized peer-to-peer computer networks",
+    "homepage": "http://github.com/bmuller/kademlia",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "283239b3394764ae9d08239b3a6f90260878bca9e0bc3545a609e05135dfdde9",
+        "url": "https://files.pythonhosted.org/packages/d6/c8/86ebb4fe6f0044bad957d61b7916042391340c293fe65352eeed1b4cc409/kademlia-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "1d3aeec1dc5b1c23841c4271b64ebeda87318ad8673ecdd77d4ab61965bfdabd",
+        "url": "https://files.pythonhosted.org/packages/66/52/573b69ef0396ccef3ce036e717f654e5bc4cb4aaea619f649ffbe2e8d0fd/kademlia-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "9b144245d481ddfb2a9e4452731449345ec95288108991198996b8e2e673b7cf",
+        "url": "https://files.pythonhosted.org/packages/19/71/c91a96713fd37477b9a59f35a6680a641a6584905b1c4ccbf3e84322e227/kademlia-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "20293a0158bd5e4e57c4d94ce718ea923a8258efba66e01bd503f213d3421ddc",
+        "url": "https://files.pythonhosted.org/packages/89/0d/5542fa88b08f3c6bda9d2bd44610ac7f3c6bac0c1bafd9b343d13c01dd34/kademlia-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "5069c5d404226165ed30b9384be5dedf5f16b065ddf2344c66aa3222583e1d94",
+        "url": "https://files.pythonhosted.org/packages/af/f1/c39639957889ff3d9895b162fdfcc8db7b9eaec73ec5b31374f7ea92c09f/kademlia-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "0762b4a0163d3f3b559246a74488d30bbbb7521ebd2abbe3806ff9d35288124c",
+        "url": "https://files.pythonhosted.org/packages/b6/d0/cc3f3af34cde48d3e4ca70bdf4bcc5e5b5f88040ebfd4c5cd2f5e2576ff2/kademlia-0.6.tar.gz"
+      }
+    }
+  ]
+}

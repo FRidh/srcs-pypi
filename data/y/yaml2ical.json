@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.6.1"
+  ],
+  "meta": {
+    "description": "Convert YAML meeting descriptions into iCalendar files",
+    "homepage": "http://docs.openstack.org/infra/system-config/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "0e660d8021ee0be5db5a156f6437494aa5d887a392219b0a96641ff1c82947a0",
+        "url": "https://files.pythonhosted.org/packages/64/41/f68ac8a6929254b80859964f76f8103c991459b78568c173e4d25956b2f7/yaml2ical-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "9dd6a684becb0df6eed0c0d5831f57d0db83b9ee9127186b6cea2b8a791b7fb0",
+        "url": "https://files.pythonhosted.org/packages/8c/ad/d629d351f17483081f0d35908cac73cda4bc73f6844e77af509f8c4a81df/yaml2ical-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "14cd19a79a7972347350c7259ad4679dda3a6522509153089cbd21c76907eb7a",
+        "url": "https://files.pythonhosted.org/packages/16/02/245eef4d314579b81de8e73337641e5a2c163944c24806c4171ef6685a3e/yaml2ical-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "7d90b2a975a6402d9c3f4750c3c8f612227de5bcc4f3ea45923db33de1dd6752",
+        "url": "https://files.pythonhosted.org/packages/c2/02/29e3e4cedf4cec8785ed8f5b39dafe75a69fc3e85681fa4e206e1dd22793/yaml2ical-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "595b18403e0590c50a1e6faedd9ca0c83a8d1f375b0c49ecf57ff3025b245659",
+        "url": "https://files.pythonhosted.org/packages/dc/f9/1315ac57a0f426421390b61509ac1bcd9ca524ce9ff87e6d0ee04393605a/yaml2ical-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "87893990f196cb48ca6dd08927f7cf0255388cc7108e79f7d8b94a2aef9eb19f",
+        "url": "https://files.pythonhosted.org/packages/8a/d5/fc9f5a54e4d4b56185b6d6f606d68b513fcceba7eb48df730ea470e7ff8f/yaml2ical-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "927d7d2923d00de0ff3093e660257fdc22501a00ff4af51e966d03291304c895",
+        "url": "https://files.pythonhosted.org/packages/64/1e/2da5610547d3d38b1349c5441a9dd4f424375e309bcb94cd8a6040123334/yaml2ical-0.6.1.tar.gz"
+      }
+    }
+  ]
+}

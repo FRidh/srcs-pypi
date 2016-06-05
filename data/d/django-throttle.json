@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "Simple application for throttling HTTP requests to views",
+    "homepage": "UNKNOWN"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "896967e00cd7d21cac3260ad4c9eb568d9e0a21453a2cd70c179f7b3197719ef",
+        "url": "https://files.pythonhosted.org/packages/0c/19/0ea9717ddbcbb953737beaca832cb1c07e32e15f824bc9ca384269b392f9/django-throttle-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "02fc27e9b7f43dad4046d9eb4e7dd28a81e1a9dd936b041903f6581b7ac4393b",
+        "url": "https://files.pythonhosted.org/packages/dc/a3/7bcb20d2a0ebe5c85f5587effaedda77b8546a402a48b1498f7d1be2b92a/django-throttle-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "3de6ee370a07a2f015b78c69c6e5c7d8e2449999b43db52c8eaee40a19226e58",
+        "url": "https://files.pythonhosted.org/packages/b9/01/c5e293b506b75ab9670ef2e16dae0fdd579037adb81c9849d002a569ac84/django-throttle-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "0af4e3589036abe1c7328d5964eadf545d2af4346da3bd1ee8b6e40c6ac1f173",
+        "url": "https://files.pythonhosted.org/packages/0d/e2/614fe7d291d28e1d528688f4844114de194d0651194bcceb880f46312145/django-throttle-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

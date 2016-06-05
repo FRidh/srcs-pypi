@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1b3"
+  ],
+  "meta": {
+    "description": "Plone add-on that allows to associate users groups with content objects",
+    "homepage": "http://svn.plone.org/svn/collective/collective.contentgroup",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1b1": {
+        "sha256": "189ecc19634239b5bf459b11a721dcef60f9a880ae00a73fca71c142cf4568ea",
+        "url": "https://files.pythonhosted.org/packages/82/ab/17924b87c2dd310563864870ad31152a87989cb3de0858978ae2af2e7afe/collective.contentgroup-0.1b1.zip"
+      },
+      "0.1b2": {
+        "sha256": "3e179eafa3309ac1e45371958502801597c7ea66e7158c9dfbdb78039c8a8e6e",
+        "url": "https://files.pythonhosted.org/packages/77/67/e4e07d9bd4553a71b7bac9e5bd3555b038bced561b7bc4a764f1b63d3d80/collective.contentgroup-0.1b2.zip"
+      },
+      "0.1b3": {
+        "sha256": "8341dc1630e2c943af76e3047b790b55bc1e978b78da9f43c62c529b6acf61e1",
+        "url": "https://files.pythonhosted.org/packages/5f/f5/f97fa7d4cf493b8e4aa862bfe187d09124bdcad9d9f986beacc0bf59471f/collective.contentgroup-0.1b3.zip"
+      }
+    }
+  ]
+}

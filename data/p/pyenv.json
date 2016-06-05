@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "20150113.1"
+  ],
+  "meta": {
+    "description": "Tool to install pyenv and friends",
+    "homepage": "https://github.com/yyuu/pyenv-installer",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "20150113": {
+        "sha256": "700130f54fbbaf16df802bacb0fd00709f3101114cd7f7b052ce1a2fa8f14646",
+        "url": "https://files.pythonhosted.org/packages/1a/f5/03ee68c30109f78bd49f53468604ff55e8bd56eb75c0eec0554bfb16c706/pyenv-20150113.tar.gz"
+      },
+      "20150113.1": {
+        "sha256": "21cface30764689deb710504447bed80288f9e5672a9c465260f9d0355f39771",
+        "url": "https://files.pythonhosted.org/packages/0d/31/06cd8d7a1dff3e7c500afaa69e3db84e3027b81503bf3d28fdd69117ec76/pyenv-20150113.1.tar.gz"
+      }
+    }
+  ]
+}

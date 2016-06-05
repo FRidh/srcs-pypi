@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.3"
+  ],
+  "meta": {
+    "description": "Python library to look up timezone from lat / long offline",
+    "homepage": "https://github.com/pegler/pytzwhere",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "ab76a0da5a8ff3e38a2ed271cbe49f5dad42289fd0d3a4fd364ef976ad7d109b",
+        "url": "https://files.pythonhosted.org/packages/8b/0b/e4db728518832c067eb895ccb2b7f2f21e41209a2f42684d31efb7105fd4/tzwhere-1.0.tar.gz"
+      },
+      "2.0": {
+        "sha256": "9721dfd30dd841e80ea9fe53c126c6db2b1da29353d1d3433ed062933aac0131",
+        "url": "https://files.pythonhosted.org/packages/96/61/e19f08d20aed7df72b023219d07af55b02b4fa51606f02fc4d9edc6d137d/tzwhere-2.0.tar.gz"
+      },
+      "2.2": {
+        "sha256": "1f590d2c1913cffcc666bf8bb94b090c92ac8398cab14f16f20e775e61cad6ad",
+        "url": "https://files.pythonhosted.org/packages/85/cd/8e4f7344b58bd96edfcb5789c1ea2a54898d7c1f9ca4559426e8c69a060a/tzwhere-2.2.tar.gz"
+      },
+      "2.3": {
+        "sha256": "77fc41912556f745dfc761144a27cb00795f5a2fee5f10eb6530b19211914bed",
+        "url": "https://files.pythonhosted.org/packages/1c/60/eaeeb9ab5622e2b5655c9636c11d28979277aacfec8ed1885a43b93ffe12/tzwhere-2.3.tar.gz"
+      }
+    }
+  ]
+}

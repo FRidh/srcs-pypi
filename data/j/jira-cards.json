@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "JiraCards prints agile cards for your physical board from Jira. The issues are read from a Jira Agile Board or individual issues can be provided to create single cards",
+    "homepage": "https://github.com/hypebeast/jiraCards",
+    "license": "The MIT License (MIT)\n\nCopyright (c) 2014 Sebastian Ruml\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "a3a796edcd3c54e26365bc560205c6698827861c2c133fd58c0dd6c8b7038afc",
+        "url": "https://files.pythonhosted.org/packages/80/de/bdde70e0d49a2dafff7cedc8f2b2ad238ba5360edf586b953aab425a40e7/jira-cards-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "8511622119afafde6f8a1619167cce0f053a5cfa462c5d6f444161b55fd1de3a",
+        "url": "https://files.pythonhosted.org/packages/29/c2/0beb122e1a6f3358857340580ea0e4e00933b794afc6b08ff8a3a12e1c56/jira-cards-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "80eb80d0c39cf016fe374b5bf7a4386a3067e461eb160f5c3c430e8e5fe5185e",
+        "url": "https://files.pythonhosted.org/packages/d8/e5/bf97c62b6eb177f7b6a4a6a51db366799d67a4b26445811782155be90e18/jira-cards-0.1.2.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "e12ade9d59450648829c19fecfac8a77c066238714f899fd2b309405b95624c4",
+        "url": "https://files.pythonhosted.org/packages/72/d3/7ee878ce38a2ed1590de799dcda4a428015e45e7203469c8502d080ff8de/jira-cards-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

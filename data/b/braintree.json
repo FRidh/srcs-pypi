@@ -1,0 +1,321 @@
+{
+  "latest_version": [
+    "3.27.0"
+  ],
+  "meta": {
+    "description": "Braintree Python Library",
+    "homepage": "https://developers.braintreepayments.com/python/sdk/server/overview"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "0a9770a7cad260ec9714242282c0de9633f12ebc0efa7250bde4c74271f0545b",
+        "url": "https://files.pythonhosted.org/packages/0b/84/e7c87597f5b258511e68e0b2d6352087a81a20d3af4b571272f8a49d4048/braintree-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "7429f45b67e94e701606ae847990efd36c63c2d821fd0086c51258b7a3c84635",
+        "url": "https://files.pythonhosted.org/packages/9a/69/cd52bb2ee121937c54ac4a68de9d553f24fe95bfe0f1f2e328d4fa4e929a/braintree-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "5317bef301862fea6a9bca372c6fdd1eeda61022e475b84085bd01746ed3cd09",
+        "url": "https://files.pythonhosted.org/packages/d4/04/26835ce63911505937fbdb63b683d2569a0c1cd2caae00c492f5e925bcd6/braintree-1.2.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "e41092648e38426df9f6aa3be5e96029ddb4297148e66f317b9617aee899fb2e",
+        "url": "https://files.pythonhosted.org/packages/b4/9a/5fa40bc96f78cb260f6402bc854ceeee696c59b9a42af7cb8be2eea62f00/braintree-2.0.0.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "06e35c0a61a129d1981912c152caebb1434578ebc660d5f5e69bce18173250de",
+        "url": "https://files.pythonhosted.org/packages/1c/88/4e2444a553cff035a7f3d34e0c4d95a44cfac5d6ee29454a8aac6ec389fe/braintree-2.1.0.tar.gz"
+      },
+      "2.10.0": {
+        "sha256": "c0187d1f44b453cd3bd1016b7086f2d097faa55af6cb22aa1a824454133a8dfd",
+        "url": "https://files.pythonhosted.org/packages/54/42/2a94ce8085a8bfdc9f78a6330de022909016a8439f0479b8f723f6443991/braintree-2.10.0.tar.gz"
+      },
+      "2.10.1": {
+        "sha256": "21e5719245b33323ed6c61f7d7accb5abb51ed14e4f49d723bd7af2c4ad6e8c7",
+        "url": "https://files.pythonhosted.org/packages/b8/a6/8491b1f7b8c9081d2e6da0005fbe8c16f73b507ca6b07270bd57fc82ec77/braintree-2.10.1.tar.gz"
+      },
+      "2.11.0": {
+        "sha256": "a5d1130117807e89dbc3266d3cf8e8769f97ace27e9cac7a0e69e6198ff8a3f6",
+        "url": "https://files.pythonhosted.org/packages/43/13/9ab2ee1b03c5fc929294039446ed91e79f70043ddd8735c49aeeb83ed78e/braintree-2.11.0.tar.gz"
+      },
+      "2.12.0": {
+        "sha256": "8a93107d180ddcfe9a06eec3ca737b74eb493fdc7fbbbd66c03789643d252e56",
+        "url": "https://files.pythonhosted.org/packages/81/32/186e3e0386334c75c03e5bdc756bb90ddb5249873ebd82f2cdd52586d910/braintree-2.12.0.tar.gz"
+      },
+      "2.12.1": {
+        "sha256": "1b5096bb69cbad72d6c06ac427c5b1f6fa726be41e4166fd5ca0fef0e00ba106",
+        "url": "https://files.pythonhosted.org/packages/26/8b/a6c2b23b35104a952bab4423651596f443c355f3db344a8f82d43e9a8906/braintree-2.12.1.tar.gz"
+      },
+      "2.12.2": {
+        "sha256": "86898a40643044a2579fb80b63ad39a2fbda3fdf9ce262f0ffd9c304cc1539e6",
+        "url": "https://files.pythonhosted.org/packages/c0/9b/8883ed2302f3c00623e1eeb15267958c88e4e4dd4ebcf3c639cda4d36a10/braintree-2.12.2.tar.gz"
+      },
+      "2.12.3": {
+        "sha256": "84628bd9df09ea3f0923bf054fe0ad6188f6c907e12796580dfbc8302f103fd8",
+        "url": "https://files.pythonhosted.org/packages/05/f3/ab7cda531a63af70b081b58175cb0c14ee33bd083a9eb6f117daffa31109/braintree-2.12.3.tar.gz"
+      },
+      "2.13.0": {
+        "sha256": "f826796fffdd40add882ec50ceab76df312f60d20223ce799681c0463f5f892f",
+        "url": "https://files.pythonhosted.org/packages/11/79/c98dec8e7a987a14836dde04d972cd70712df989b58477aac1f9db331b76/braintree-2.13.0.tar.gz"
+      },
+      "2.14.0": {
+        "sha256": "e829b15c17fe35267366a1e0ddba3f8bd5c4860fb41b3e4ad7097d834cf0288f",
+        "url": "https://files.pythonhosted.org/packages/0b/38/bca3df88ca9d35b93300a2304230ce410d1d6f2ff1c7bd2af88bdaaccb0b/braintree-2.14.0.tar.gz"
+      },
+      "2.14.1": {
+        "sha256": "786e25c90bda89839f239b749b1c9dae5422973fe28339a6042c91cc6457c0ca",
+        "url": "https://files.pythonhosted.org/packages/b7/07/403b106fb6f0eaf18a8169e958ebb6d1ea8229d746c8e5b1e18f498966ce/braintree-2.14.1.tar.gz"
+      },
+      "2.14.2": {
+        "sha256": "b58cf195524cd9d460f03bb2a1f6e7209f36ae3c3342241b4ece91c9385b421b",
+        "url": "https://files.pythonhosted.org/packages/e7/74/0cf7ef2cce84cfcc477e67a13d268e4800aee87ec19248d7b5ffe3990c38/braintree-2.14.2.tar.gz"
+      },
+      "2.15.0": {
+        "sha256": "e22d738d2b6e8668176243b35de21b2d527d3814ac8f8cbc49d35e307ce55734",
+        "url": "https://files.pythonhosted.org/packages/8a/32/75aec845cdcdc9af1d914709a31b7da551063d0016286ee8cf58e0a23d50/braintree-2.15.0.tar.gz"
+      },
+      "2.16.0": {
+        "sha256": "50356876e8f560c4b61f6f7564b57bcb9ecc97729575b99c0e88e48878a4e583",
+        "url": "https://files.pythonhosted.org/packages/60/2d/3b0d4f6ce0777a41e71d9cc20eeac4133a40692da65a44ca1c013d1c0aad/braintree-2.16.0.tar.gz"
+      },
+      "2.17.0": {
+        "sha256": "4cab22d626f357c7beed996be0125566a2726ad403be644e8fc5cae731d703a8",
+        "url": "https://files.pythonhosted.org/packages/9b/dc/988e307321e3fe1351d74ff1e9b476043751a29b1f52204af083a9cf60ed/braintree-2.17.0.tar.gz"
+      },
+      "2.18.0": {
+        "sha256": "3a5ef820aee5cf2c5c1f24dac7d3e69862d55edfa658d3b979bbf0089294190c",
+        "url": "https://files.pythonhosted.org/packages/b2/f6/a0ff7d19ffad8eecb77e7be15e8944e0fdc54de35bd4ea9c2803abf4c830/braintree-2.18.0.tar.gz"
+      },
+      "2.19.0": {
+        "sha256": "d9239f8a693f455bec128a581421874c9fd0d0564dd5e7e9a5c493b26d6b95ff",
+        "url": "https://files.pythonhosted.org/packages/bb/f7/386a64b48640fc42e6010591b21e67e8ed415e96caccddd84425532f8014/braintree-2.19.0.tar.gz"
+      },
+      "2.2.1": {
+        "sha256": "01fba3844fce4a82ee43ab71dfb4af9be9de92b93c3eed330e701de62469ed28",
+        "url": "https://files.pythonhosted.org/packages/aa/2d/87aa0f65a7decad3a084640a51e321c520ed872c0320f5bafb0108ae09a9/braintree-2.2.1.tar.gz"
+      },
+      "2.20.0": {
+        "sha256": "074a7f53261420257e4797fe9a5a7a5c12cd36acce7ba6b9e832eaea11241559",
+        "url": "https://files.pythonhosted.org/packages/6a/03/7c78272dfa4716ee32e1d2c72c0078693b0b665819d6cff3f6a39e179211/braintree-2.20.0.tar.gz"
+      },
+      "2.21.0": {
+        "sha256": "746b6b228a23af865115f96844b28607bf1badea1ae8df00c1d003cd7d411c97",
+        "url": "https://files.pythonhosted.org/packages/f8/f6/25955fd99dd8a8770f0c09ba2d40fd16f7bc5e27c56ffd129abcfe725e3e/braintree-2.21.0.tar.gz"
+      },
+      "2.22.0": {
+        "sha256": "0bc9cc1ef646ddafce3d657e199f02f64265774a9403fb1db6b9ce1f61fbe0fd",
+        "url": "https://files.pythonhosted.org/packages/0f/a0/1df7b0d963bbf1c3306c6bd44bebfde71078846850c18bd697e850fb97bc/braintree-2.22.0.tar.gz"
+      },
+      "2.23.0": {
+        "sha256": "f972b93a935bfc85cb3851e2d87d648045b74255c4013e6544957f0f418ecdb8",
+        "url": "https://files.pythonhosted.org/packages/5d/41/7ce3cf53ced8a4be6235b3083b3f90d37976335c00a7468fe9e1a558b0db/braintree-2.23.0.tar.gz"
+      },
+      "2.23.1": {
+        "sha256": "48b9af0e7b164a826c97b7ddc420b36a4551079594ce0f5111e9912f5f927771",
+        "url": "https://files.pythonhosted.org/packages/17/56/c069b4621d57443e387a88ff3b8c8a70c96f563f9d6ebf49e0d415afb5f4/braintree-2.23.1.tar.gz"
+      },
+      "2.24.0": {
+        "sha256": "e7b15e8280992c2b8cffc1f94a1104cfcf2642a6193b15f9448714f86ab5f1c1",
+        "url": "https://files.pythonhosted.org/packages/f4/82/170883d95e80ede22938592fb46e4447f0e3b0d3bab619421795612ad333/braintree-2.24.0.tar.gz"
+      },
+      "2.24.1": {
+        "sha256": "d6b67a6a141d2b52f98d90b1fb9cf7416f1562b39152b4599b6b3dff054160fc",
+        "url": "https://files.pythonhosted.org/packages/37/07/e71ee4e4ce4b2b1db083f01ddd98bcd5b7474b52935fae84de2a284bbf02/braintree-2.24.1.tar.gz"
+      },
+      "2.25.0": {
+        "sha256": "a7e5d7b45fd499efb4afad5290aed362e7cac1a45d5fff92bd3ba84266c8df39",
+        "url": "https://files.pythonhosted.org/packages/76/a9/a4ae3b730dd6b29b88bacd4f5dca8bd05ca7e93dc6d32f701bc5f540e5ad/braintree-2.25.0.tar.gz"
+      },
+      "2.25.1": {
+        "sha256": "28a38dd8a821584e7a54cc66c3af2a21140612dae21c1ab10dda2d987cf1d4ef",
+        "url": "https://files.pythonhosted.org/packages/d8/a7/993118f66c273caa5eca9b0eda7c5bab4b929f5afd9132ac3e7d73ab4a56/braintree-2.25.1.tar.gz"
+      },
+      "2.26.0": {
+        "sha256": "dda80a766200f803388d32ffd073bc1333dcd72a7e717a97c2da719b41ecd66c",
+        "url": "https://files.pythonhosted.org/packages/dd/de/b542a62b10fa575de8aaf65560770f606a0860821d72e65ca74ed604f627/braintree-2.26.0.tar.gz"
+      },
+      "2.27.0": {
+        "sha256": "20d851a72e96769df901391d2e285c4297130e3a2759332f1346c2b490c08acc",
+        "url": "https://files.pythonhosted.org/packages/80/90/366eea37a2aec871fc1ab89eedf5d9f71a1462834d938d2a7b301ada9673/braintree-2.27.0.tar.gz"
+      },
+      "2.28.0": {
+        "sha256": "c11c8dd8021fca50394ae2e970e2f061b35f6472e32807ff9a96a3df84debb1a",
+        "url": "https://files.pythonhosted.org/packages/5a/42/5a6d735d3538392242ef4e0132e4699ce22f98e0dd6ebc403aa542e8e79c/braintree-2.28.0.tar.gz"
+      },
+      "2.29.0": {
+        "sha256": "a8f6e6a556a7a65bca6bf9f8081547afd8a30043d8b0fc00e678afefeb82144f",
+        "url": "https://files.pythonhosted.org/packages/4a/e9/44e845dec44310cab451d424adaa7a93a26c7345c1f6ad02633e01e3fb20/braintree-2.29.0.tar.gz"
+      },
+      "2.29.1": {
+        "sha256": "487f7a45cb278e607661a531b00262ec2837548bfa7ed40c8e91ec2d84aac87b",
+        "url": "https://files.pythonhosted.org/packages/14/33/b19ce412d12387e66bf420c76846a1eac423be5a1e203b82fd9c461fc69c/braintree-2.29.1.tar.gz"
+      },
+      "2.3.0": {
+        "sha256": "9696d3bb329b9c21ab65708547771237d089ee4b450c86d7b8ed2cb308850d51",
+        "url": "https://files.pythonhosted.org/packages/95/99/e800e888584c6988fa6caf1a5921d8134f70e13415e23815ca0b2d24b671/braintree-2.3.0.tar.gz"
+      },
+      "2.4.0": {
+        "sha256": "30d5449ca1d1b91c7cd521ca3b6dba4adb0282d1207e673c5ad30898bc742ad7",
+        "url": "https://files.pythonhosted.org/packages/12/d2/5e1ef61c0120b67c35688c177a2a5c58d56e182a8e62f5148d4f0f523792/braintree-2.4.0.tar.gz"
+      },
+      "2.4.1": {
+        "sha256": "e12cf9f6efb63b9fea588a310eb07dca54e042faea083148b23af34beefcbcd6",
+        "url": "https://files.pythonhosted.org/packages/81/7f/a23601f213730639e894a8df43ced91edde807c635fa10ad3b38f477f7a5/braintree-2.4.1.tar.gz"
+      },
+      "2.5.0": {
+        "sha256": "25e85275a7084353708d043b55225590179f4ec8e9cb112fa19f615d722e6a9c",
+        "url": "https://files.pythonhosted.org/packages/ad/30/d63981147bdc0e5eb1a27c4ca585994fbf3de48b921e97acc6ade973d120/braintree-2.5.0.tar.gz"
+      },
+      "2.6.0": {
+        "sha256": "66cb84034370dc3e1ea1d3fe86632cb231324a6d5d11cac85035fa23511dbed7",
+        "url": "https://files.pythonhosted.org/packages/19/e7/2422625bd25e75b0899fc896df5e18c852c173b4261ea8c44138ffc045ec/braintree-2.6.0.tar.gz"
+      },
+      "2.6.1": {
+        "sha256": "6ba13f4baf8675fe51c8fa9c9cc1dcec077e4b12b3d53812e22f3e2e566c8f6d",
+        "url": "https://files.pythonhosted.org/packages/d1/57/2c2135a0b517e21e2d62c5558d745c45f5ed5d1d5d172e4ccc038c14568a/braintree-2.6.1.tar.gz"
+      },
+      "2.7.0": {
+        "sha256": "0b025af214b3b58b51700ff89e4550d4c593b352c26b00492b78517460a97ddf",
+        "url": "https://files.pythonhosted.org/packages/f5/fa/5bb2b50d9a2d374bc72ee80db00fdd4052946061d81e556196ef5bf45e94/braintree-2.7.0.tar.gz"
+      },
+      "2.8.0": {
+        "sha256": "ae8485011a0c534bf6ceaa8a762e75b80ab3b07e393b710f1bf5266a1ae7278c",
+        "url": "https://files.pythonhosted.org/packages/4b/b0/578d9f714940519e00622bc95ce23110ceb02cf43fb722d7c97f4d26627a/braintree-2.8.0.tar.gz"
+      },
+      "2.9.0": {
+        "sha256": "3744b4b05fb8993f604a7c6ffd1a9b56e7b09eb74a0f11e542d4419cd6d5ded5",
+        "url": "https://files.pythonhosted.org/packages/7c/de/8d1f2f9ffb8bb01af9e68064f5007b6c520f56ec20d506de8b9e63be2161/braintree-2.9.0.tar.gz"
+      },
+      "2.9.1": {
+        "sha256": "a04b090da7a2a316f233a8bce9ba0a5175b384a1c615e5ad9466a89de66d4b6f",
+        "url": "https://files.pythonhosted.org/packages/93/5b/e4cecabbfbb01e58ef5ffb4000a256e842640728e0a46ee004782fb4c284/braintree-2.9.1.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "36b45c3a783288cff12e78e4e6d521e334fc2b281d72c8880145aa9c9d66030e",
+        "url": "https://files.pythonhosted.org/packages/9d/f2/3043ebc547472d5dc033e68bc65729a565a4c4ca2e057296a2669bde20a3/braintree-3.0.0.tar.gz"
+      },
+      "3.1.0": {
+        "sha256": "9f61c9816da0ecfb00b9885a8ded0219cb44c97c41e202d0f8f3f628027cfc5f",
+        "url": "https://files.pythonhosted.org/packages/e1/25/9f0b32c2b178f98368936da2ed201edb29112d140084e2c558def22fcc42/braintree-3.1.0.tar.gz"
+      },
+      "3.1.1": {
+        "sha256": "3d05646677f668b2e23535be164bf9ebc6e108e2f676c83f304e3d2dc5dbc592",
+        "url": "https://files.pythonhosted.org/packages/71/6f/50fe96ee2f514eefc989439f0841c3dd195b08a20f3ccdee54be03ecd682/braintree-3.1.1.tar.gz"
+      },
+      "3.10.0": {
+        "sha256": "b0c85d4315fb086812c927994b05aac987b7ab766832d57b77f05e042ce57d42",
+        "url": "https://files.pythonhosted.org/packages/ee/aa/793284a67958c978b0e743cceafb7c408e049ad3ed25890831f28cf06504/braintree-3.10.0.tar.gz"
+      },
+      "3.11.0": {
+        "sha256": "b515ea5188aa382dbe8be65f893956c0886f1ca8f5365b07bbe9770752e6ce45",
+        "url": "https://files.pythonhosted.org/packages/43/fd/1a6d09e80731e38e98eb83e326418d185da6b2b188746f385286cb0ac5c0/braintree-3.11.0.tar.gz"
+      },
+      "3.11.1": {
+        "sha256": "570591967b1e2f0e923794b00cdbf38df558a04b7d61d87b1cdf5c3cdd849ad5",
+        "url": "https://files.pythonhosted.org/packages/2c/e5/fea7022a0bcfceb9435aebebf6e6530d53014345dd6ab353543126c111e1/braintree-3.11.1.tar.gz"
+      },
+      "3.12.0": {
+        "sha256": "fe3da23ac355d7cd871ed6e6db6d972b55302a1878b22c5681b7c1fed97995e0",
+        "url": "https://files.pythonhosted.org/packages/38/15/7327d0b41e0f2af810d6a9dd118b9214860dabfb991fedce0731a3b1072c/braintree-3.12.0.tar.gz"
+      },
+      "3.13.0": {
+        "sha256": "4fe78229de003190ad6771e6c997963e5f7173716505d578c1115cfb2faadf2b",
+        "url": "https://files.pythonhosted.org/packages/f2/4f/30924a599e85102db3c0462ef0e8729e79550058ab8ea320efa7db4bb4e7/braintree-3.13.0.tar.gz"
+      },
+      "3.14.0": {
+        "sha256": "969fff12eedcc4631ef7536738035d9f72f2ce1cd9dcdb9633ec3b3149335dea",
+        "url": "https://files.pythonhosted.org/packages/e9/81/484ec8bfcf8505ae46f6cb7b8b2791c85a108e9081e212c46d73736a2d74/braintree-3.14.0.tar.gz"
+      },
+      "3.15.0": {
+        "sha256": "9d24df99cb28ebd1a26e9fd85e1b33bcb33bb4b4906d0c2694dbe644cc6a7310",
+        "url": "https://files.pythonhosted.org/packages/0e/35/4d63c37d069fd2c0666b06044f14f2f703653e9d803f6fded8147fa13cfc/braintree-3.15.0.tar.gz"
+      },
+      "3.16.0": {
+        "sha256": "5d9ac3d3de1721c729d30f3a1c7aa98cd22ae52a6d6aa61353e135966abbfb22",
+        "url": "https://files.pythonhosted.org/packages/06/c3/5e0725a8e688624621a04691afb1ff6bb69dff2de4a07256f20a7f6b7f53/braintree-3.16.0.tar.gz"
+      },
+      "3.17.0": {
+        "sha256": "2ce1e26e9b06819ff7c18adaef99ce87b27b0f716964e076926ea03aa40cd09a",
+        "url": "https://files.pythonhosted.org/packages/9a/a6/77cfe3fc1772a57760147e892554aa8910fdd138d2c609f958281183634f/braintree-3.17.0.tar.gz"
+      },
+      "3.18.0": {
+        "sha256": "cd01b8540990c7e884ea51ed919107b7fc45a69f10ebbbdb4617b52ef52ef2a7",
+        "url": "https://files.pythonhosted.org/packages/53/92/23e40d5af9fbcd11201178694ae6c8f095d3e44e2aaecd6d41b2208f3638/braintree-3.18.0.tar.gz"
+      },
+      "3.19.0": {
+        "sha256": "f25593592b3c26a0ec1897e5bfaa6112315a116eb82b4f9fde5f318e5c7346b4",
+        "url": "https://files.pythonhosted.org/packages/f3/99/fdf94d7cd193135cb22b63f84ff2af435c4590211062385f5483d6b6281d/braintree-3.19.0.tar.gz"
+      },
+      "3.2.0": {
+        "sha256": "ebe8fcfb0746dd4a4abb0b775c06f936814358c80b166528b1ac384f8da7c0c3",
+        "url": "https://files.pythonhosted.org/packages/48/c8/012ed47ac9c45fc2ba3b1b6078e155023d72ba317ab661c7c0bc3f0b7c38/braintree-3.2.0.tar.gz"
+      },
+      "3.20.0": {
+        "sha256": "4c97b4a519be529320902ecf63ddf36e789053e7c1cf69fe7c4e2b9e2b7d61dc",
+        "url": "https://files.pythonhosted.org/packages/35/e9/b02c8ebe9d5a677ea1c07ddc4dba3b495b1c9f0ff5d7b7f794ddbe66b6c3/braintree-3.20.0.tar.gz"
+      },
+      "3.21.0": {
+        "sha256": "c3456f3cf4317a2f007d3b1e5b8665c0acbe199b639f79bf24cbff12c585e724",
+        "url": "https://files.pythonhosted.org/packages/ea/14/ea902b0da1c9cdd0e9cdda31c93d334fb0b4e28cb22b0fd109ad26f09b53/braintree-3.21.0.tar.gz"
+      },
+      "3.22.0": {
+        "sha256": "df9fbd23f5e3105ea08b90c90a73a52d70ce92f28cc65e63a093d271d459fcda",
+        "url": "https://files.pythonhosted.org/packages/43/86/4151aa0956ccd87b790b14a902fa56fa7cb10284548a4e646b46720e3310/braintree-3.22.0.tar.gz"
+      },
+      "3.23.0": {
+        "sha256": "11992ba908d9e0d2bdd5be2312ea1c8924313bd146b89249a883fd5c73c81b8e",
+        "url": "https://files.pythonhosted.org/packages/d1/41/66155ec23e1c35c94e4d1147b4550b058ae6ecb76a4c71dbce3bb5989d82/braintree-3.23.0.tar.gz"
+      },
+      "3.24.0": {
+        "sha256": "865e7b63e85b75efa6e03f4467698f2a7d2d42d3d1457fbe248d6beb2ece64e2",
+        "url": "https://files.pythonhosted.org/packages/e0/60/caa361c1b3a33052a1d93a35b2732f2bcc223a23fb6ce669dd27745165d8/braintree-3.24.0.tar.gz"
+      },
+      "3.25.0": {
+        "sha256": "9b0bb290c3ff9c7bd25fe5081613d4382cf4b5a1bcd2a83cf678f4672b126de2",
+        "url": "https://files.pythonhosted.org/packages/18/f4/a15b0f8a65a1713d9af0a9c22ec0b66d98890832db66a56fbe02b3e1ac9f/braintree-3.25.0.tar.gz"
+      },
+      "3.26.1": {
+        "sha256": "5a162b1b1d5250ec4ca932ad1d0aa8817e18398936627874e39949ac3882e26f",
+        "url": "https://files.pythonhosted.org/packages/09/68/7d45f4b497eb07e11d4e148bd08e8375834a62dde684bec82310fbf6018b/braintree-3.26.1.tar.gz"
+      },
+      "3.27.0": {
+        "sha256": "398bcb4f5998cd88204e80db4c877f0e9c5fdf8923fb049f72fbfda70953808c",
+        "url": "https://files.pythonhosted.org/packages/02/28/4c6b78e34c0171c82fa45f88c7c7aab7c47434f6eba085e87b2641434902/braintree-3.27.0.tar.gz"
+      },
+      "3.3.0": {
+        "sha256": "1b9f3b61e7df1c0904eb82f19930f7ce68c45b6243f0de6a1de6b06f9124176d",
+        "url": "https://files.pythonhosted.org/packages/42/7a/ff60222b17e403837e7edc2a8740decb363c95c864493f81b654f96a5692/braintree-3.3.0.tar.gz"
+      },
+      "3.4.0": {
+        "sha256": "fb381414028ed98da29402927dfa332e68aa4836ee2c563550f20fb9bd3f66b4",
+        "url": "https://files.pythonhosted.org/packages/aa/c3/8b3c0a29979db5936c1138ec86b686d8c3bad67e90b72b0c2bc10aefa0df/braintree-3.4.0.tar.gz"
+      },
+      "3.4.1": {
+        "sha256": "fad916a9d88b89a87a07488c5e130232e538c1999e193ab87c4bb764cd793c7e",
+        "url": "https://files.pythonhosted.org/packages/44/f4/859da85f7cc442aace9aa8d1c0a930a43056c49059f10c57c54ae4c034f1/braintree-3.4.1.tar.gz"
+      },
+      "3.5.0": {
+        "sha256": "8b3f292d946dd931b9dfbce2e1cf2308e2090e0076a24de8e166aedfe3b15ae2",
+        "url": "https://files.pythonhosted.org/packages/55/38/2c4696f418c4d2a47cd78678bd3ac18ce37d91d9d2b9083de71f57c916e6/braintree-3.5.0.tar.gz"
+      },
+      "3.6.0": {
+        "sha256": "cca62a414e17a7bb81e650507ba71fd46194665ce73ae6d3b30996a73515fae9",
+        "url": "https://files.pythonhosted.org/packages/ce/98/00d79c9765dd8f8ad4aee495401f36ca27c359cf757bab221cee5cea7537/braintree-3.6.0.tar.gz"
+      },
+      "3.7.0": {
+        "sha256": "ab3c693268b8f479107b238cde4beb6d743bdc047c73f8c2401dc3ce7435c41e",
+        "url": "https://files.pythonhosted.org/packages/1c/79/c11767505db3540da09af5f3cf9e1b8e54e1157489677ab91d404b76533c/braintree-3.7.0.tar.gz"
+      },
+      "3.8.0": {
+        "sha256": "2091bb0960c47fefda1566e86e9fe969826cc26556a92c81206063bffdda6a7b",
+        "url": "https://files.pythonhosted.org/packages/fe/24/c1336a46995c9a1f0bb381162b102dde55daff4afbc4f83d9b000dfbe510/braintree-3.8.0.tar.gz"
+      },
+      "3.9.0": {
+        "sha256": "c9127b00a01f87ca2c820102f04fd1b89bab8c6dd412f42e83815cc76bdb12a2",
+        "url": "https://files.pythonhosted.org/packages/5a/10/9af03f9b45c7f552cffc19c2c2c08e3bac001c385dbbd2a24268cc8dd2e6/braintree-3.9.0.tar.gz"
+      }
+    }
+  ]
+}

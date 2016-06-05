@@ -1,0 +1,17 @@
+{
+  "latest_version": [
+    "0.1"
+  ],
+  "meta": {
+    "description": "This project adds the PostgreSQL schema support to Django. The schema, which can be seen as a namespace in which any database object exists, allows to isolate the database objects even when they have the same names. You can have same set of tables, indices, sequences etc. many times under the single database",
+    "homepage": "https://github.com/slafs/django-schemata"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "2d31acdc18a335f845502b230304b3ebf05d2b2e4a48d9a563fbbf00c465264c",
+        "url": "https://files.pythonhosted.org/packages/8c/74/7ad89cc4710ad800c457b256fbe0a0fde9d3f881ad0e5c12a95ae71b3878/django-mga-schemata-0.1.tar.gz"
+      }
+    }
+  ]
+}

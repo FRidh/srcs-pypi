@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.5"
+  ],
+  "meta": {
+    "description": "Buildout recipe for running tests isolated at package boundaries",
+    "homepage": "http://pypi.python.org/pypi/plone.recipe.alltests",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "03bc4d2567e1707a887cec2cf11971d02871c525d9c8743ad3df86f736322d67",
+        "url": "https://files.pythonhosted.org/packages/6a/73/308724959803bb57484ec80fc0e6f707d6e034840f507d456ab095d68bd7/plone.recipe.alltests-1.0.zip"
+      },
+      "1.1": {
+        "sha256": "e9018b65fed5d1fd1cbeeee6df5816b5a34fae3c5a8d83a7de343c4fab16137e",
+        "url": "https://files.pythonhosted.org/packages/c8/bc/5c4f85136bfb837c3626f530bf8fd740f9679da3851702c8788cb57d0df7/plone.recipe.alltests-1.1.zip"
+      },
+      "1.2": {
+        "sha256": "eb52198a5973bfaf9e36a612ff952c165647d3352f11c005dc8cd518018981a6",
+        "url": "https://files.pythonhosted.org/packages/7d/9e/a743961265836a00efaaad247fc5300de31dd0672e0dd14846ff4c42b30c/plone.recipe.alltests-1.2.zip"
+      },
+      "1.3": {
+        "sha256": "b1f62be50b92daef9c24eccd593bcfd772dbb198d3a9568c3db9ac6b35ee2c06",
+        "url": "https://files.pythonhosted.org/packages/2c/50/bea47cee2dbab1aa137b0832127ee2be8777e3d0f3d532e64a58fe85e097/plone.recipe.alltests-1.3.zip"
+      },
+      "1.4": {
+        "sha256": "c2c6cbb27f46a0b419bf41743514fea2745c6e1894e4ca15cae82a2db9d1b021",
+        "url": "https://files.pythonhosted.org/packages/05/08/1fb2412521de191d87c57eda427bceac6a7a534cd767b59bad0df603a7d3/plone.recipe.alltests-1.4.zip"
+      },
+      "1.5": {
+        "sha256": "dac11e6c32936dc8d48504d3733cb6ec4b16482088ca238c09b0ceaf9bf2e91a",
+        "url": "https://files.pythonhosted.org/packages/c3/cb/4bfb2160bfd701f9ddb624885fe489126b9212f6267edeeb24bc74afcbb8/plone.recipe.alltests-1.5.zip"
+      }
+    }
+  ]
+}

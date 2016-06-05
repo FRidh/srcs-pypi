@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Debugging Python's Memory Usage with Dowser",
+    "homepage": "https://github.com/Infinidat/dowser",
+    "license": "PSF"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "5e099c1ed9bb4e146b9258f68253f490f226a8a719c1c9c0ffd5bd17788746db",
+        "url": "https://files.pythonhosted.org/packages/dd/91/9201fe8bb03da4aead3873f6b59d8544444b15bc020882226d59042692c6/dowser-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "1c8c6c31bb55e18876d0b4634cd6394233adfe0b056372f1192ddff88b9a08bb",
+        "url": "https://files.pythonhosted.org/packages/ca/71/3f4c2da34de573c3c727f603579ef0146ebedab59d521bacb72f8b277c65/dowser-0.2.tar.gz"
+      }
+    }
+  ]
+}

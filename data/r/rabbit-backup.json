@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.0.6"
+  ],
+  "meta": {
+    "description": "backup local files to dropbox. rabbit_backup_to_dropbox will remove local/remote files after verified based on setting",
+    "homepage": "http://guoliang-dev.github.io/rabbit-backup",
+    "license": "Apache Software License"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "aa10e9cf1a20d7d8bbb515d4a049b065aa62c2cceb6374268d966b46aa8b2303",
+        "url": "https://files.pythonhosted.org/packages/79/23/1a4db4cfc6676a51a877cb0d4ace91bc8403c6fc787879b99c12b1cb0d9a/rabbit-backup-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "e86ddebe77009133cc5b14268f25f59425ca24d9624a00ae89f8e1faacd7e393",
+        "url": "https://files.pythonhosted.org/packages/c4/f7/1c4ae0af556d84fc00972206fe1f2c28722de5f6145a850eea781cd1dac7/rabbit-backup-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "8be04ebfe12d425ce2f131d98e5b29a10650de95a85b31ecbf7c306e0d9a8e6b",
+        "url": "https://files.pythonhosted.org/packages/be/30/70b271eefc1ae54e911d69a1659346f47680d49cb88f2d2dbdf3a84ab43a/rabbit-backup-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "f9aa7a7b8543fb9b0f1461ec6ef20c7ad33987c6a363026b839e75d8ffa4da6d",
+        "url": "https://files.pythonhosted.org/packages/72/23/dda910b8767941b3703df0380a08997218b9bf94006fc2ee2b7b67b31eb8/rabbit-backup-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "5cfb1db890663c2de1baf832492a7291377ef52a9f7f15e5fd7bb697fc919ef6",
+        "url": "https://files.pythonhosted.org/packages/ad/b0/53e8eb3c902fc68394acde663bf38e5c51675102d59848f6962bfd4d86c2/rabbit-backup-0.0.5.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "26d5f5f26a3d356e42995d3e6fd84dfde7d11aab6ce2116c4a4b2c7bc89f80a0",
+        "url": "https://files.pythonhosted.org/packages/40/bf/d25ff1d17995cccb6de7287e22fe522694b9e6728b55506c0e1094ad812c/rabbit-backup-0.0.6.tar.gz"
+      }
+    }
+  ]
+}

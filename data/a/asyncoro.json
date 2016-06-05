@@ -1,0 +1,134 @@
+{
+  "latest_version": [
+    "4.0"
+  ],
+  "meta": {
+    "description": "Python framework for concurrent, distributed, asynchronous network programming with coroutines, asynchronous completions and message passing",
+    "homepage": "http://asyncoro.sourceforge.net",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "3.0": {
+        "sha256": "0543246eccd0c55a7d96d69e1d9edeb8781413b72490789ff72ed22a6c7adfb4",
+        "url": "https://files.pythonhosted.org/packages/14/c7/66d2cb315ed780198797d5405f157bf3ea86305301e4da5170d7c6d43785/asyncoro-3.0.tar.gz"
+      },
+      "3.0.1": {
+        "sha256": "86ea10638de666995ce3940b6fb3c1e32322a465f83aa3354251186f446861b6",
+        "url": "https://files.pythonhosted.org/packages/87/63/0a3ccaedea03e8c529e06ce7247676c3c6f9b82402acf0ea723cf3c1b8f2/asyncoro-3.0.1.tar.gz"
+      },
+      "3.0.2": {
+        "sha256": "cab1d6453b844303a55414163b4fd590deb6512e45383f655e1b0852803bcf37",
+        "url": "https://files.pythonhosted.org/packages/82/65/83bfdb5294c09003a948962e3430f30e77b57837321af9839d8537c3d6a2/asyncoro-3.0.2.tar.gz"
+      },
+      "3.0.3": {
+        "sha256": "e0b9aba1ee00b990f1279c4f8e9d3d444e3baf130379d56b1a05d9dea77472c1",
+        "url": "https://files.pythonhosted.org/packages/43/b3/547be4ed107fd12eebca9bded86be31cd67a0c7d020f1c2425b2c32b6a67/asyncoro-3.0.3.tar.gz"
+      },
+      "3.1": {
+        "sha256": "bd0a9149fe86b031ab86f8712578462264ae9ac226d8628ff1b36892cab3820c",
+        "url": "https://files.pythonhosted.org/packages/c4/83/c5ed440f28ca29c1d108fb99b61ae88707615cfbc9036d7f74cc53d2057f/asyncoro-3.1.tar.gz"
+      },
+      "3.2": {
+        "sha256": "e3210c9c8bca360f79bf9446cd6852f86a343116597f32aef82f4c815a4f8b36",
+        "url": "https://files.pythonhosted.org/packages/92/3a/bad7c2486ef99202009703e6d2458b74aaeca81743d03fab6718fe884afc/asyncoro-3.2.tar.gz"
+      },
+      "3.3": {
+        "sha256": "5dbb28849652b0c92d24881eafc0e9b4dce18c9cb9dfd438befba242d2668ca7",
+        "url": "https://files.pythonhosted.org/packages/cc/57/01c4b77b7c756465f3679395969a94731fcf856e32047666a23b49a0fe02/asyncoro-3.3.tar.gz"
+      },
+      "3.3.1": {
+        "sha256": "3787088163b371cb0ccadde7c9cbafa9717a6acdc8dc6bc9c9bdab83a6113f5c",
+        "url": "https://files.pythonhosted.org/packages/17/8e/894306f758afa169756aa52448dd0e943197d115622c62be3b2fde599ced/asyncoro-3.3.1.tar.gz"
+      },
+      "3.3.2": {
+        "sha256": "e6c354b85b264f68e43964dbcf41c6f7d577efe9283f103d39031468d3cf05b3",
+        "url": "https://files.pythonhosted.org/packages/c0/16/816e07e1d452cdb3fc2a549c72e886b7c41608208e27da4801db168483d8/asyncoro-3.3.2.tar.gz"
+      },
+      "3.4": {
+        "sha256": "0eb2132cf3617bd8254cd8cc3cf79ad9469b6d3826763c87ec924b1352fea9e1",
+        "url": "https://files.pythonhosted.org/packages/f9/1a/8b8b2c548254faffded94cbe1bb44c6e65193fb1e237325b459061e152d8/asyncoro-3.4.tar.gz"
+      },
+      "3.4.1": {
+        "sha256": "2e4c3424ac0757e11d905c62af6bd7ad58f8187e76f62924d964abc0b4ce8a1b",
+        "url": "https://files.pythonhosted.org/packages/56/fa/d4256a17af22254bc7fe8f07d55950dd45ec2a00961b430eb86d82ac4672/asyncoro-3.4.1.tar.gz"
+      },
+      "3.5": {
+        "sha256": "efe7ae8349420c86c62704bfefddf13af29cf3d868d161bc914e70859504308e",
+        "url": "https://files.pythonhosted.org/packages/66/b6/d5f53f9be5b93c10ca785cd2a672fb63136ab387fc3f83eb27b23f720b89/asyncoro-3.5.tar.gz"
+      },
+      "3.6.0": {
+        "sha256": "e929d8c23b4bad752a22c2552f62b8dc918a661b286b8a370d620d1e08c20b2b",
+        "url": "https://files.pythonhosted.org/packages/e1/2a/9ff4f7b34d6fde20123cc2e2acbf011cf61cfb9215636f4c284d276910f5/asyncoro-3.6.0.tar.gz"
+      },
+      "3.6.1": {
+        "sha256": "28337c021496a9777444646ae4870d147277f51fad990a828b825f89bc1d9a2c",
+        "url": "https://files.pythonhosted.org/packages/22/65/b52ad7dc83fb14b0a0ce9e9a3821dfd69bac558ce70442ec776ab1a75498/asyncoro-3.6.1.tar.gz"
+      },
+      "3.6.10": {
+        "sha256": "07f109e2d2505656e99a69775ef2f11f77011f56ceb754d06fa7280aeef2a680",
+        "url": "https://files.pythonhosted.org/packages/75/fa/444b5ee831b8d731be5a3c0bfb5c0324709491d8ae3651ad003bd1741c91/asyncoro-3.6.10.tar.gz"
+      },
+      "3.6.11": {
+        "sha256": "6ff161552916d960e54dfd4898f04ed69a832ba6f27220ea18b16fddffdecbd1",
+        "url": "https://files.pythonhosted.org/packages/ef/fd/1ad45abc2801f1daf88f81d01d7e237b6d516e358c42b1e509563be8883d/asyncoro-3.6.11.tar.gz"
+      },
+      "3.6.12": {
+        "sha256": "e779459721e42ee9d485dbb3f2d6fa8c4439f57ec2e97278853843e291d8ce4d",
+        "url": "https://files.pythonhosted.org/packages/46/03/480a114126d4af87ce9a148f43d479597b1621b53744da6f3ec4093176af/asyncoro-3.6.12.tar.gz"
+      },
+      "3.6.13": {
+        "sha256": "06083923bb2f792497e73decf7de75dc72103020a60cb2d5a2d10436a601d398",
+        "url": "https://files.pythonhosted.org/packages/51/7b/bc8b2f3cb3877879595d286a7ee8c6e793f27bec6558fd52a34d8342f323/asyncoro-3.6.13.tar.gz"
+      },
+      "3.6.14": {
+        "sha256": "3c73ed3e6ff4f0258c9b59c220a00c41b6ac9aad335ab8006e006f374e386009",
+        "url": "https://files.pythonhosted.org/packages/33/a1/de634e9129ada485e4e9f1281bf2fd27f6270feaccc45d84cb470f7c3641/asyncoro-3.6.14.tar.gz"
+      },
+      "3.6.15": {
+        "sha256": "5a107763cdbae2f98237a05a6b16cd3e9a5929ba7599f4d2e59e7bc12217d06c",
+        "url": "https://files.pythonhosted.org/packages/93/48/d7fe4710863e73462187f42cde54801ebbea40f8632aba0add4225951c86/asyncoro-3.6.15.tar.gz"
+      },
+      "3.6.16": {
+        "sha256": "277ea7080afdcf573af4bc25e216a0c63baf3944aaf4a0cb270796aa2deb6951",
+        "url": "https://files.pythonhosted.org/packages/0a/c0/c664a75ddbeed8847671c3cb964cd944b55b74ab7c20badb1bfbdff90197/asyncoro-3.6.16.tar.gz"
+      },
+      "3.6.2": {
+        "sha256": "e614ac2b45dbe9fafed0131e7523ea9695a41b4288d702c21ef6af5481f7167c",
+        "url": "https://files.pythonhosted.org/packages/0a/31/3b5a209890e8921f9a027a64d4916e47974763662e4f96a1ce95d2e772ea/asyncoro-3.6.2.tar.gz"
+      },
+      "3.6.3": {
+        "sha256": "a178c4816b6bd6c5715e54eebba9b0bee87c77f7d72455fbee1e48c60e83df2d",
+        "url": "https://files.pythonhosted.org/packages/0f/56/11ad8e213b7376d7e72accf63420e796609e5ca40980ed1eb6c19c95a402/asyncoro-3.6.3.tar.gz"
+      },
+      "3.6.4": {
+        "sha256": "5f9d1f76d492211fde7b0009862ead8136c8450fa6cf47f8142a05d1767d6a60",
+        "url": "https://files.pythonhosted.org/packages/86/71/70dc4b06798e64ee62a655c2032dc8b3d5a9bbda0977c3354a8cca375008/asyncoro-3.6.4.tar.gz"
+      },
+      "3.6.5": {
+        "sha256": "68401d44a47cf0ff267c7de0727fc410bcb2f42d9170a296434db36c22b779c3",
+        "url": "https://files.pythonhosted.org/packages/98/b0/386d846572df9c440ee11ef4006bb0a2c61c2ad9ae49154a16418f114de2/asyncoro-3.6.5.tar.gz"
+      },
+      "3.6.6": {
+        "sha256": "a2abf445dc1e8285712f7c1e9d25841df0c82e2a6c7940bd6380087fbe21742c",
+        "url": "https://files.pythonhosted.org/packages/6b/a7/9dcabc62f753aeffa2deeca84398bcd952bbe0ccc27a1c022f10ede8ee74/asyncoro-3.6.6.tar.gz"
+      },
+      "3.6.7": {
+        "sha256": "c84489ca76e161e79620053506e1667b8957c6f7c25ecc3d4cf3614b1180d950",
+        "url": "https://files.pythonhosted.org/packages/5b/76/14ce3ad7b8fa15e6d177ecb97bfbe71655f3ef6f42333dcde51f53f5b012/asyncoro-3.6.7.tar.gz"
+      },
+      "3.6.8": {
+        "sha256": "1ef3e1ce55d2bffb0ca08cc8cc8f08659b5aa167cb2c2cf9fd4ff569c6aa39e2",
+        "url": "https://files.pythonhosted.org/packages/92/27/fdace3db9f4d125fc23cedc88eb3cc6f5d5f20b96c5b361e3748533a301a/asyncoro-3.6.8.tar.gz"
+      },
+      "3.6.9": {
+        "sha256": "6b5668b0c6614c2b8bc06ece471abb7fffdb75ef88a9698c9c27eb8b80e0d99f",
+        "url": "https://files.pythonhosted.org/packages/ab/4d/e76fb43832ca97fd1fb285eae8cde38e081beead7bc1cdef0b9a1cfe3248/asyncoro-3.6.9.tar.gz"
+      },
+      "4.0": {
+        "sha256": "dc6becacb5b2b7a7aba9dc2abc515dd82567864ae8128f7dc7b211e80048d190",
+        "url": "https://files.pythonhosted.org/packages/e3/f1/7040dccfe37c7d58e975c802b4cd85a5d111f4c6787f8436198832ea2033/asyncoro-4.0.tar.gz"
+      }
+    }
+  ]
+}

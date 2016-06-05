@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.01"
+  ],
+  "meta": {
+    "description": "Fast Ensembl data cache",
+    "homepage": "http://code.google.com/p/cache-ensembl/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "433378847549db75ee26a3534341422ffe44cf47b41c52002d727bec817af585",
+        "url": "https://files.pythonhosted.org/packages/29/99/180590916e1f442519a819c586fb9c3b4938ad7a175bbdbc445187ee1148/cache_ensembl-1.0.tar.gz"
+      },
+      "1.01": {
+        "sha256": "c4a6c474c0e36406deb21458eeb6a08e6e6a82e6154c1d5dfc22f4623abe5c69",
+        "url": "https://files.pythonhosted.org/packages/e0/cf/03f5582ed7adcb3e7829e4fe5be0be8674024dbaf82ab179ed197bd24387/cache_ensembl-1.01.tar.gz"
+      }
+    }
+  ]
+}

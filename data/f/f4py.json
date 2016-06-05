@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "Algebraic types, like Maybe (Optional), Either and Try for python3",
+    "homepage": "https://github.com/saksmt/f4py.git",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "8bac705eab89a590ca917f583bfc319f0ed869ea5d00e8f11581c9ff7abc964c",
+        "url": "https://files.pythonhosted.org/packages/59/74/65584d3d4751add777a4677214b63d333201bea4671c032a43178c01bc01/f4py-1.0.0.linux-x86_64.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "ed80963f73bc496fb72c165ccf3bdb4002ce2bf61c604fcb152bc9f363d64675",
+        "url": "https://files.pythonhosted.org/packages/53/d5/40e59e5335d70222ad16fe3961344b01cc43e64fc378f0f73658c85ebe05/f4py-1.1.0.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

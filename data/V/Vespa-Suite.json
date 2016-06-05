@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "Vespa is a suite of inter-connnected applications for magnetic resonance spectroscopy simulation and data analysis",
+    "homepage": "http://scion.duhs.duke.edu/vespa/",
+    "license": "http://creativecommons.org/licenses/BSD/"
+  },
+  "versions": [
+    {
+      "0.9.0": {
+        "sha256": "02c0464c8a2d6e2eb6017483ed2b404dfaa1c74951ea8d24651645b7a8b3f286",
+        "url": "https://files.pythonhosted.org/packages/7b/cc/e4c93de2ed2f37819adce77120b47655e4347aab182ba7f0ec95387165cb/Vespa_Suite-0.9.0-py27-none-any.whl"
+      },
+      "0.9.1": {
+        "sha256": "562f53ee715e8bc69217efb7a3e5799b54a61882329ca875789f70cf8ba20391",
+        "url": "https://files.pythonhosted.org/packages/7b/06/139bec1c935850a7b928ffd179dafcc6843d8803741ceb7ce2c1dcc265b3/Vespa_Suite-0.9.1-py27-none-any.whl"
+      }
+    }
+  ]
+}

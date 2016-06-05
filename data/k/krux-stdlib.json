@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.8.6"
+  ],
+  "meta": {
+    "description": "Standard library of python modules used at Krux",
+    "homepage": "https://github.com/krux/python-krux-stdlib",
+    "license": "License :: OSI Approved :: MIT License"
+  },
+  "versions": [
+    {
+      "0.8.1": {
+        "sha256": "563a4de3cbf5c41a91f408612e7694c52ff4c6852a845b1b858b20a618d4a769",
+        "url": "https://files.pythonhosted.org/packages/f0/f1/8a49b561f3739ed323bfc899300f22388d443f775ea0ffdc65338faa2b06/krux-stdlib-0.8.1.tar.gz"
+      },
+      "0.8.6": {
+        "sha256": "1e656f94baa0f44f63d88d398291874683de1931ff7563422a751552396ba16d",
+        "url": "https://files.pythonhosted.org/packages/33/fa/214519c23b05b75232c7c7366756563be4ce16e305ce9348dc5c8cf39e4c/krux-stdlib-0.8.6.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.8.2"
+  ],
+  "meta": {
+    "description": "REST Service to deploy AWS CF templates using Senza",
+    "homepage": "https://github.com/zalando/lizzy",
+    "license": "Apache License Version 2.0"
+  },
+  "versions": [
+    {
+      "1.3.1": {
+        "sha256": "e7e74880cfd50049265d68eff9c1bfb17f33639007df04f17e624bd4ff127766",
+        "url": "https://files.pythonhosted.org/packages/d0/25/89dc66a06b342c8361cc172bb0f1c014196eaa1697c141c0c0422d24a0fc/lizzy-1.3.1-py3-none-any.whl"
+      },
+      "1.8.2": {
+        "sha256": "a7856bdea90c9437eddf55277b5d6ccf5a263c952f2db51ab7268df629137639",
+        "url": "https://files.pythonhosted.org/packages/e5/38/780540361e34cc8158b46296636bb94b0d0d422e9a599969d3f1ca779644/lizzy-1.8.2-py3-none-any.whl"
+      }
+    }
+  ]
+}

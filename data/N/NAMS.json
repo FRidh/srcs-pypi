@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9.2"
+  ],
+  "meta": {
+    "description": "NAMS is a module to calculate similarity between molecules based on the structural/topological relationships of each atom towards all the others within a molecule",
+    "homepage": "http://nams.lasige.di.fc.ul.pt/",
+    "license": "The NAMS python package calculates the similarity between molecules based on the \r\nstructural/topological relationships of each atom towards all the others \r\nwithin a molecule.\r\n\r\nThis program is free software: you can redistribute it and/or modify\r\nit under the terms of the MIT License as published on the official site of Open Source Initiative\r\nand attached below.\r\n\r\n-------------------------------------------------------------------------------------------------\r\nCopyright (C) 2013, Andre Falcao and Ana Teixeira, University of Lisbon - LaSIGE\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and \r\nassociated documentation files (the \"Software\"), to deal in the Software without restriction, including \r\nwithout limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell \r\ncopies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the \r\n following conditions:\r\n\r\nThe above copyright notice and this permission notice shall be included in all copies or substantial \r\nportions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT \r\nLIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. \r\nIN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, \r\nWHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE \r\nOR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\r\n\r\nPlease cite the authors in any work or product based on this material: \r\nAL Teixeira, AO Falcao. 2013. A non-contiguous atom matching structural similarity function. J. Chem. Inf. Model. \r\nDOI: 10.1021/ci400324u."
+  },
+  "versions": [
+    {
+      "0.9.1": {
+        "sha256": "3544b2e52dccba9acdcba613201c9d78f6734bbdb14c339dae9a6fe415793569",
+        "url": "https://files.pythonhosted.org/packages/06/a8/6b71236f492d9978989be0fde9e77ef69afbf4fa5be44d05837277bc6840/NAMS-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "434b42bc972956744eb7370ce17796279bbe6d4f344cb6554fd68a93e8f04e61",
+        "url": "https://files.pythonhosted.org/packages/bd/ac/d6b866efe4803e109a70e6d9c31abeba9f81cc8eedd4f647f84d102253c7/NAMS-0.9.2.tar.gz"
+      }
+    }
+  ]
+}

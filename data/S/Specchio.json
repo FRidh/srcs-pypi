@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Specchio is a tool that can help you to rsync your file automatically, it uses `.gitignore` in git to discern which file is ignored",
+    "homepage": "https://github.com/brickgao/specchio",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.2": {
+        "sha256": "3c93cdaa156bece6c448f20b515d8318e4529b6d6efc15af0c79811f85ccf433",
+        "url": "https://files.pythonhosted.org/packages/2c/9f/ac724116c53e6401c6e61f76ba7ae3ce3993a9f1fcae71e20c5e00d430dd/Specchio-0.0.2.zip"
+      },
+      "0.1.0": {
+        "sha256": "766371e3d58e9e66c5976bf07bdbe32a36bf8e115be577ae701a05c84f2415c9",
+        "url": "https://files.pythonhosted.org/packages/e8/d8/42c5bae7ae74e91ca87e2cab9ff9ae0f775893cfc704345dc8dcad427e89/Specchio-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "3f3c815aa6d29ed7a329c812bc1b2344868d1d461d2be425777d7d171dade40b",
+        "url": "https://files.pythonhosted.org/packages/e7/4a/c3a340db3ba49a4122557565a8670ffd1f15a0f83e1ef699db381fcaf6a4/Specchio-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "8c928d4a7a62c5346524be9e84b11f3d2139562357964f823939d79bd499b8dc",
+        "url": "https://files.pythonhosted.org/packages/95/55/a5a52dca4b22860a139ba89a75411b07168bc1952b5540d08c515fee5ec9/Specchio-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

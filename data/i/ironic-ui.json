@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Ironic plugin UI for Horizon to allow users to view and manage bare metal nodes, ports and drivers",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "7d2135672fbc46e010ac5d4f3d8da75179c2049ccef43f788d496b78eaa58921",
+        "url": "https://files.pythonhosted.org/packages/7d/f5/c732abc587000480ef540776b047cff13607499080337643d3632f0b8651/ironic-ui-0.0.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "2f5052d39c34b7b332c317e919d869c0edc0ab191a6e964702dec9507501d979",
+        "url": "https://files.pythonhosted.org/packages/a8/f5/80b5c557e6c8051dd7372cd82ef0e19dfd73020ef2f6a3c9a60aa5d1667f/ironic-ui-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "97c4b9237ebbc4df5e559a986be193afbde9d8914004913c1b0ba195d28e4621",
+        "url": "https://files.pythonhosted.org/packages/0c/10/54f552452b22daef68815e67b661325a0c37a0c440fb722ba9c942e8a78d/ironic-ui-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "2a0a031c1f0c7ae92ed1aeb70b31e23f282e8a77aab5166cfe37d4123315ffe7",
+        "url": "https://files.pythonhosted.org/packages/8a/27/6e4f6a578e99441fb56478bb206c4681e3a2d7ece3d95d0228dd0655c5aa/ironic-ui-1.1.1.tar.gz"
+      }
+    }
+  ]
+}

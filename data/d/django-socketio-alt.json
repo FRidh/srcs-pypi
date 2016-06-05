@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Django + Gevent + SocketIO = Awesome client/server interactions",
+    "homepage": "https://github.com/amirouche/django-socketio-alt",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "450cac7e9f86b962d1df4e39847c6b92ab4411274528e90d836299d33ca79449",
+        "url": "https://files.pythonhosted.org/packages/eb/d5/89e9346f093893494ba711174d682296726ab5ddf28c4f73ade175b3702a/django-socketio-alt-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "a797350b661af21eb0211ffb4c4b5cbc81c36ade6e605ec345839586d13a5e97",
+        "url": "https://files.pythonhosted.org/packages/05/39/ace765a1127e648c240fc4579cd43c98c7db5d8c0d57c6ef02cf65c6780d/django-socketio-alt-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "06f5b10f3782411f1a19f113f59fb520246ed5d68b90e0a1f4c68041d912be48",
+        "url": "https://files.pythonhosted.org/packages/3c/8e/3bcc3060e70feaf2969d28ee2baa09fe5a1c28cea327a724ac86142ff0be/django-socketio-alt-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

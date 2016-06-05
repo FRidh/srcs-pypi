@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "Provides extra conditions and triggers for all content actions",
+    "homepage": "http://svn.plone.org/svn/collective/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.2.0": {
+        "sha256": "7973b1260f50cd15cb30b9d23754b078ad41f8a789b22482d1c8f2ff1b398254",
+        "url": "https://files.pythonhosted.org/packages/37/33/4eee8a94d607aecd24487f2e62b9a4d794c5b4e4a4e039b67bb5fd408a4a/collective.auditlog-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "dbad6eacddd2e436f2313da806e6d797d2347ab88184cc1b30a39fdade2fe7ce",
+        "url": "https://files.pythonhosted.org/packages/a6/82/ed63505c238c8ff72d308837a57a28bc22e53d3af7f0ad3ec5cb0ccaf740/collective.auditlog-1.2.1.tar.gz"
+      }
+    }
+  ]
+}

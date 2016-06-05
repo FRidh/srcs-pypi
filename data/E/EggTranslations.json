@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "Provides an API for accessing localizations and resources packaged in python eggs",
+    "homepage": "http://chandlerproject.org/Projects/EggTranslations",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "1.2": {
+        "sha256": "314680d89e37a297e1c1bb19688ff30163c1a69feaca92558970ee84e6983457",
+        "url": "https://files.pythonhosted.org/packages/55/f0/d3609357daf2e42cd8a79ce328e82e86ed0f27b9836e39d51fb5a975ee77/EggTranslations-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "1a9928d1f5e9429742a1f0c315c30ca1323dd0b339061ebf2875cd9b582ab861",
+        "url": "https://files.pythonhosted.org/packages/a2/f2/8169936f153d9d85cf616f68853f3b96f3ca8a7228110fe865551392df73/EggTranslations-1.2.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "3.7.2"
+  ],
+  "meta": {
+    "description": "Local Persistent Permissions for zope.security",
+    "homepage": "http://pypi.python.org/pypi/zope.app.localpermission",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "3.7.0": {
+        "sha256": "26fadc69b36b7d34c63c913a78c871abbc7c8dd68d49bfa9ca1c3c69d512f620",
+        "url": "https://files.pythonhosted.org/packages/08/a3/5bfa990aad7f2bd528c2e662f704d5866b9d7b89ab74556c7b4983b057dc/zope.app.localpermission-3.7.0.tar.gz"
+      },
+      "3.7.1": {
+        "sha256": "780b08c70cd80a02b8af847ef8026133e7552f074995502fa6aab90a0335d80a",
+        "url": "https://files.pythonhosted.org/packages/7d/b5/de9a83d81ac901599f7862d6c355e6a0e8bb11219703f93899cc8cfab7b3/zope.app.localpermission-3.7.1.tar.gz"
+      },
+      "3.7.2": {
+        "sha256": "0748086b66a98b94fbd3af1a927f4eedf982521ec421e30b38ba56ad11b87006",
+        "url": "https://files.pythonhosted.org/packages/15/3b/bd74d0c604ca04a65da2c8008f579b71af8ebdda208ca8c729e0105f0384/zope.app.localpermission-3.7.2.tar.gz"
+      }
+    }
+  ]
+}

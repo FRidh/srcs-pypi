@@ -1,0 +1,398 @@
+{
+  "latest_version": [
+    "0.19.9"
+  ],
+  "meta": {
+    "description": "Tools for Yelps SOA infrastructure",
+    "homepage": "",
+    "license": ""
+  },
+  "versions": [
+    {
+      "0.14.1": {
+        "sha256": "ba48046d33eb89e17acbb9ff15c2dea2cd05bc10fc1ee26352f5074f0ba4f29a",
+        "url": "https://files.pythonhosted.org/packages/57/d8/55bffa0042e902afc23cf9508441cad292c8da6bb3c4ded296fb3075109e/paasta-tools-0.14.1.tar.gz"
+      },
+      "0.16.10": {
+        "sha256": "896ce23958eb31620efeaba1be3f4fa3e0aacddb4c6fb5e2a96314f74a6a7627",
+        "url": "https://files.pythonhosted.org/packages/6c/67/ed8137ec69d2b5cc5cd3349f4c3ce423a7189b709a7aaa97238f192554b5/paasta-tools-0.16.10.tar.gz"
+      },
+      "0.16.11": {
+        "sha256": "4fcab89e75d15ee9b4ba5abb68ae88dba3d06fbcb0db39f7a25927cb77e51d62",
+        "url": "https://files.pythonhosted.org/packages/ba/69/3f0ac0a4207126277eb9a264e391f7e965b5f23da66d144a730db23e700d/paasta-tools-0.16.11.tar.gz"
+      },
+      "0.16.12": {
+        "sha256": "02d3ffdc6a765ce5460fb2e7ecf29ab04d47fef338d1ffe55cd96634c50438b2",
+        "url": "https://files.pythonhosted.org/packages/23/17/2ac4feded4cb7ffba98380f1eceee961041cc0789f3d1000a4d9e9a5b5b3/paasta-tools-0.16.12.tar.gz"
+      },
+      "0.16.13": {
+        "sha256": "74a2be7e9abe15fb5b45c2e2385162b1f1d8395ea87e0f2875756c8232b3e290",
+        "url": "https://files.pythonhosted.org/packages/cc/8f/4a498b546524180c840078e8f5b845712a8bcfbbcf6863ee0b8ade4b8d3c/paasta-tools-0.16.13.tar.gz"
+      },
+      "0.16.14": {
+        "sha256": "d418b5da31fe18c37de69484164d8611b33677e8a2497e49b237396b55dc31b7",
+        "url": "https://files.pythonhosted.org/packages/5b/91/a2eb6f7e9f613fc73cbd287f939f8c8e044acfee49bd4e0df3132bf15299/paasta-tools-0.16.14.tar.gz"
+      },
+      "0.16.15": {
+        "sha256": "f05298995b123d5c1349606a4cea35ec1448613f4f03e28d177c02e50beb1d0f",
+        "url": "https://files.pythonhosted.org/packages/82/16/18036914fd00da049d3a4279ee67f8d3ce27bdd7bb5a3e8d73a4a6dbc699/paasta-tools-0.16.15.tar.gz"
+      },
+      "0.16.16": {
+        "sha256": "b6661425b44e3c6c64a7bb73e6e7522d472d51905321e7f02de2f7823f394050",
+        "url": "https://files.pythonhosted.org/packages/78/3c/cc39353237a17a0bbe7c480c3dfed4d3699d98c6f2e2523b51f89a172c7b/paasta-tools-0.16.16.tar.gz"
+      },
+      "0.16.17": {
+        "sha256": "5ab0b10ddaf0c44481f856f36434215299eea6afad97715864309acaa8c17ecc",
+        "url": "https://files.pythonhosted.org/packages/7c/5b/a664e7a6d4f7402ff3cc38a01778271a8e8281cd7a7998312f37b3fc266a/paasta-tools-0.16.17.tar.gz"
+      },
+      "0.16.19": {
+        "sha256": "707b2520f860510dd0c6de2deb95cbadee735c5fd30464e6d8a07c19e504d735",
+        "url": "https://files.pythonhosted.org/packages/14/20/e10bee171f419e335737cd2b3bde7928dbf5fa39aa80d8a5c995f309769b/paasta-tools-0.16.19.tar.gz"
+      },
+      "0.16.20": {
+        "sha256": "fab71fb08d29ae7fbae06eff8ada27fea047e0abc4ee687ae63b27e38b768c75",
+        "url": "https://files.pythonhosted.org/packages/7b/5e/6e927bca04ea5a4e0690d158965769ac76c86ad207f10ba603787e6d321c/paasta-tools-0.16.20.tar.gz"
+      },
+      "0.16.22": {
+        "sha256": "c7d0f0abd84c15d430ed66d85cf36b3f0c4ab7bc232e4ad26ee54870b62f0117",
+        "url": "https://files.pythonhosted.org/packages/03/36/d2a432e58db6774398f62503fc8420c33307c848550422c56aace58fa2fe/paasta-tools-0.16.22.tar.gz"
+      },
+      "0.16.23": {
+        "sha256": "1c2ff702bd540e90f24b98bda7b84765016568a811cc1239e746fa355625b8ee",
+        "url": "https://files.pythonhosted.org/packages/36/b8/806a80828d59026316353a1bb1a032ede3af6f3d597c2fe8421ff018b875/paasta-tools-0.16.23.tar.gz"
+      },
+      "0.16.24": {
+        "sha256": "133dd0561509e703349a7fd0e692ed79c251c4687cb91f4478298b2062a5d855",
+        "url": "https://files.pythonhosted.org/packages/5c/ea/edc813c5129274454a5432739038a31c9e011fe78d4cd12d39c40c9b6d3b/paasta-tools-0.16.24.tar.gz"
+      },
+      "0.16.25": {
+        "sha256": "93cad3263cafb4d53ee027628831a4ab5dc402e04c902a8a711145d7895e94b8",
+        "url": "https://files.pythonhosted.org/packages/3c/28/5e410f2f937d0b08def9c18f9cd1bbcda703a0618649d2e62a755979f6a3/paasta-tools-0.16.25.tar.gz"
+      },
+      "0.16.26": {
+        "sha256": "5c3fd31a21afc270e7c4a94dbde86b4eb485ee89a40129fa44f151377848ab4d",
+        "url": "https://files.pythonhosted.org/packages/29/a7/feeba7e9aab20651bf68d21995a8497fc9a2256bcb5eb821e90d96bf126c/paasta-tools-0.16.26.tar.gz"
+      },
+      "0.16.27": {
+        "sha256": "701c00b1b94ffa8cd1f7edf883e2f04a411665004af8e7c45b4e868ff0a1fe75",
+        "url": "https://files.pythonhosted.org/packages/9e/fb/066146f39fc2a313b47aa1883b9c59a49f3c07915ed681a3cb013bf7745c/paasta-tools-0.16.27.tar.gz"
+      },
+      "0.16.28": {
+        "sha256": "aae75d89ab177b738fb31a69e26b52be17e4f1b658a80755ef2274d3ab27427b",
+        "url": "https://files.pythonhosted.org/packages/8a/15/ad508267f5ec1587205df83bd9d61f0397bf24244383cb746c597fb21e10/paasta-tools-0.16.28.tar.gz"
+      },
+      "0.16.29": {
+        "sha256": "79e638c3290a86bcc13993b65e6647bb26d3b2558d98a15ee421e4a01cf19acd",
+        "url": "https://files.pythonhosted.org/packages/f7/96/4e27a9e55e83edf916b54b7e87c7220a84f22ac0bae057daf98961110e7a/paasta-tools-0.16.29.tar.gz"
+      },
+      "0.16.3": {
+        "sha256": "fce7688cb3faad7866b6f08064113fe0334635ac57651bfbcded046970a5ad71",
+        "url": "https://files.pythonhosted.org/packages/a4/27/650b61cdc1efa16ae449f290c238bfa4f3e670a56307314ada5f061bba73/paasta-tools-0.16.3.tar.gz"
+      },
+      "0.16.30": {
+        "sha256": "d2866bcea874ede47ef0a4cc402fb7be9b9d4ee7b8cbba5ea54e0268f1f0127c",
+        "url": "https://files.pythonhosted.org/packages/1e/ff/be97a951f820e8fc0449452e7a2c423c6ab17489793ca33c1bf03c9c1d6f/paasta-tools-0.16.30.tar.gz"
+      },
+      "0.16.31": {
+        "sha256": "8e9c7ca2411c6631510f447999951405c4b3f83b1f4d1afe950d66a03faaad64",
+        "url": "https://files.pythonhosted.org/packages/9f/12/7775805f4eef0dbc817dd3adaf8ecf87a8c6b077c7c3613d6b5548781aa9/paasta-tools-0.16.31.tar.gz"
+      },
+      "0.16.32": {
+        "sha256": "3219dda69a7ebb2543349feb93e9985eeae53e019447c11ca3c27bd51d0e3920",
+        "url": "https://files.pythonhosted.org/packages/44/cf/be297ac542b1e1f26b20aa599c32f5dcae52cfffdf70ddcaec4cac506ddd/paasta-tools-0.16.32.tar.gz"
+      },
+      "0.16.33": {
+        "sha256": "afaa69f2a61682c9a1a8c02dddb64283372d78321ee462cedae83cc8c80780c8",
+        "url": "https://files.pythonhosted.org/packages/04/a8/fe24a2aec5df2d4318c0600005851d2b92a0838af281b5270d32bd40ce65/paasta-tools-0.16.33.tar.gz"
+      },
+      "0.16.34": {
+        "sha256": "88b680f4acc750d567cab221f2774cb05b21db52cd2fbc373f5126a9b4039ed9",
+        "url": "https://files.pythonhosted.org/packages/31/41/64b223d75830813d20adac4f917056a45567be6c1d0926d88c23bd6f4a9e/paasta-tools-0.16.34.tar.gz"
+      },
+      "0.16.4": {
+        "sha256": "e88d4cdcdc769d3620bc8a4e3313a07ff8b61831baac8a1472e8451d91b21f10",
+        "url": "https://files.pythonhosted.org/packages/d6/a3/969e197d1e8023af13e426398246ad04c7d6083fdc46328317681baa308c/paasta-tools-0.16.4.tar.gz"
+      },
+      "0.16.5": {
+        "sha256": "954d287bd48b78cb660ac09e6841fd4d23828f451bf33d52153a69cb8fb3d141",
+        "url": "https://files.pythonhosted.org/packages/62/8d/34fadbd34188857c54924bba23b3d22fe06cf8a8eca6330c339a18327f64/paasta-tools-0.16.5.tar.gz"
+      },
+      "0.16.6": {
+        "sha256": "ea5631399e60b9f56ac41c1c09c605abbfa56e7a7ed667b51a2c11da26959c37",
+        "url": "https://files.pythonhosted.org/packages/b7/14/3a575a4c270392a2eea717e825b3b22286082bd4e02af0ad67539eb38200/paasta-tools-0.16.6.tar.gz"
+      },
+      "0.16.7": {
+        "sha256": "e953de21a4749ec035b2d5b6443fc456eb7c0e12346e3d3130801112c7d6eb11",
+        "url": "https://files.pythonhosted.org/packages/cb/a5/9610e11dd77f7f230d0dec2778cf301e61f7ecec62686ec0e8d57e2e4f6d/paasta-tools-0.16.7.tar.gz"
+      },
+      "0.16.8": {
+        "sha256": "e6323fd9a12af618fc327705561f9a5c142ccd789d8de14fd16c26649dd03d8f",
+        "url": "https://files.pythonhosted.org/packages/0d/36/b906125bd8469d633575ffae9aebbc2a45f39cf6d2c9c1e8c699a06ad179/paasta-tools-0.16.8.tar.gz"
+      },
+      "0.16.9": {
+        "sha256": "138c21043b0622e2e302e61d84d7ae7e14e7c9c1bdb8080700f94a3a3ae2264c",
+        "url": "https://files.pythonhosted.org/packages/a9/05/9f72bb1037f66142a2d10ad545d508233125fdcbbdf35da70a4a66fcc642/paasta-tools-0.16.9.tar.gz"
+      },
+      "0.17.0": {
+        "sha256": "dd3bf50c9ee3262c42b69b253e0012a305ad605ad307eec21c874d40a1d08456",
+        "url": "https://files.pythonhosted.org/packages/48/7c/aea1542dc224a3258744f97291044bcf3254402f93de41cddbc7cf24089d/paasta-tools-0.17.0.tar.gz"
+      },
+      "0.17.1": {
+        "sha256": "5afedd9d6055f99e6a41a75078512356abe4974d6e895da2d1715990d4d6a586",
+        "url": "https://files.pythonhosted.org/packages/79/c6/94cbfe8ce399f7bc038d331cbf4c780dd4fb1d7364082d0617657cdda376/paasta-tools-0.17.1.tar.gz"
+      },
+      "0.17.10": {
+        "sha256": "9622074ed280496bb5d6eb6010248a22a6a82a69117c45c8df6135ba3a03673a",
+        "url": "https://files.pythonhosted.org/packages/fc/cd/5de5b3a580c18a5a9d698e374523a0e62166ba555b29ef0088c7b50dd882/paasta-tools-0.17.10.tar.gz"
+      },
+      "0.17.11": {
+        "sha256": "54407780ead8392ae55538e6a55e30f58326bacca1d433aed4758b9c256a625b",
+        "url": "https://files.pythonhosted.org/packages/b4/55/6262c03146d71d554a57849c83db661436d134a43cadcd202bdfb8778889/paasta-tools-0.17.11.tar.gz"
+      },
+      "0.17.12": {
+        "sha256": "48a88c2900334bcfe6ed0b48995bef575777471011fefd26e9d397f756830fcb",
+        "url": "https://files.pythonhosted.org/packages/33/91/cf3babb82164c48095091138c7156dfc5fef2e1a3204cc6fcef8ec8a06f5/paasta-tools-0.17.12.tar.gz"
+      },
+      "0.17.13": {
+        "sha256": "b89971b5998b6fe792a665b83007add047044f0dc566f97f5e528085d4fe6ff1",
+        "url": "https://files.pythonhosted.org/packages/1e/ae/e98977c8de6e8de243a635b83bdbb0cd20ac4b6f5ac7686e1afba0f2fcd5/paasta-tools-0.17.13.tar.gz"
+      },
+      "0.17.14": {
+        "sha256": "d79005d0bf571c536663c94c7a26bd313465f38c7444bb430b5b53205f0d1197",
+        "url": "https://files.pythonhosted.org/packages/01/db/1ce5115c24942c1e541a7194ff0b287d4b33df86346dc1415caf0edfd7d7/paasta-tools-0.17.14.tar.gz"
+      },
+      "0.17.15": {
+        "sha256": "3a1fb53295144831aa0c18a9b6a79fae05b93d0e4d2cd90ce458aaec11ef1d15",
+        "url": "https://files.pythonhosted.org/packages/58/23/efa5019433e78676157b15e389fbf9b7bf86cf1912ac2619826aecdfb12f/paasta-tools-0.17.15.tar.gz"
+      },
+      "0.17.16": {
+        "sha256": "544f980fda87d442f729c7bdc6281441677055bc4ad9a9ad61fc0092b1cf98fb",
+        "url": "https://files.pythonhosted.org/packages/8f/7c/bed9baf063bc019a12c4f8163fba2633f32bfacf4ee339d7e588cbc38e97/paasta-tools-0.17.16.tar.gz"
+      },
+      "0.17.17": {
+        "sha256": "d48450b4473e9136b3022a24aebdb3d12a2e533bd7f07251f79de14aa3622682",
+        "url": "https://files.pythonhosted.org/packages/b4/dd/cbdff2de6f0e2c7856381e4c8723232815ce5f0a321d0d40dbd1f6bca8df/paasta-tools-0.17.17.tar.gz"
+      },
+      "0.17.18": {
+        "sha256": "5096a9ac6bc5498a98d3a38d2ad77f5c9a7ebb609168a53c6e6fcde4518cbcf3",
+        "url": "https://files.pythonhosted.org/packages/d9/fb/e0108d48ebe054fd975fb89f9477e8e3c7625558fa0c9a2f9c6748ece8de/paasta-tools-0.17.18.tar.gz"
+      },
+      "0.17.19": {
+        "sha256": "c86b7f2c665cfcf2d847500403045cbc9d882ce4f2c39b688c9634dbd419ead1",
+        "url": "https://files.pythonhosted.org/packages/ec/53/a4200e28775bebd26b4017d920dbbe1470be0a0309d78ed3b6a7781e5bc1/paasta-tools-0.17.19.tar.gz"
+      },
+      "0.17.20": {
+        "sha256": "486524bc3815415c30d4d040ac40fd8322fb197ab974dfedd89c1fa9bc97727c",
+        "url": "https://files.pythonhosted.org/packages/99/32/5e0e4a801d3d5650ff689da922c863e993f1b16170f86697232bb12ce72a/paasta-tools-0.17.20.tar.gz"
+      },
+      "0.17.3": {
+        "sha256": "8b9b0425a30d5f2cc9ae4fd45e636b20333514f7a0924abd662b846ecc03631e",
+        "url": "https://files.pythonhosted.org/packages/39/d0/073d11d8a50eeb5bd53eb3b1f30f97cc49c17d872e9ca986a1e8584afafb/paasta-tools-0.17.3.tar.gz"
+      },
+      "0.17.4": {
+        "sha256": "d2623c748ea427c93b0c2ec5b12654a52762bf9e1c271f558570d4330c665c5a",
+        "url": "https://files.pythonhosted.org/packages/1f/3c/159e0a7f50a61c02d3ad7aacdef6ebef872e41cb5b2f30893e62d970f1a8/paasta-tools-0.17.4.tar.gz"
+      },
+      "0.17.5": {
+        "sha256": "5c3c78bbc1a36bd0c00dfd5c6418810ff870e24f75e9b928a5663df90d94147f",
+        "url": "https://files.pythonhosted.org/packages/38/96/e95165f01fba808472e8c292ccff2fa196cd21cba030da8244994a6d844f/paasta-tools-0.17.5.tar.gz"
+      },
+      "0.17.6": {
+        "sha256": "a5231cc188c4bca22db6f7faf13a88f3247d5b015d77e5489825f53d9f6f2a9b",
+        "url": "https://files.pythonhosted.org/packages/85/a4/570a992c6a2955987c515f962e44f76d98d5694e289b2b98c184d80f95bc/paasta-tools-0.17.6.tar.gz"
+      },
+      "0.17.7": {
+        "sha256": "c598f3164760cf0c4ac4a42912a45346bceee4a08aa784fe7e08fc5d29a11eee",
+        "url": "https://files.pythonhosted.org/packages/43/94/8b04b18ac98dec7bdfaaeafba41d374dcff1188e75d10901e3d52049a0bb/paasta-tools-0.17.7.tar.gz"
+      },
+      "0.17.8": {
+        "sha256": "37f868a7c74e1c21a83580d619c0af6c7d4eb4fdb039780927a097eb25865a87",
+        "url": "https://files.pythonhosted.org/packages/db/21/329ddb8d7cadb036a407bc0c0f32816da8fb722f5aa38282650e62b92092/paasta-tools-0.17.8.tar.gz"
+      },
+      "0.17.9": {
+        "sha256": "5807f376400bb13c6b54765550ddbd00d39d7bcccd75365535caf2f25be61f36",
+        "url": "https://files.pythonhosted.org/packages/66/87/956f2ffca78781e60114ac77601faf43c776381e9caf37f3a2d73b9a2962/paasta-tools-0.17.9.tar.gz"
+      },
+      "0.18.0": {
+        "sha256": "ac8932ebaf54f90ab76cd764c62c9e791d4d470ae2d0b3567ecc971903c2b250",
+        "url": "https://files.pythonhosted.org/packages/02/5e/012d576872be807f2608469a9ca3a928e8a25a35e205ecd886deb55668e7/paasta-tools-0.18.0.tar.gz"
+      },
+      "0.18.1": {
+        "sha256": "46196684cc7a43c330b1637f9bcdcdcfbd5660530089554bc65caef19c69c27b",
+        "url": "https://files.pythonhosted.org/packages/30/d0/2b3739649facacf57346f922557966b6ede54563b8a2da3c105062b3c90d/paasta-tools-0.18.1.tar.gz"
+      },
+      "0.18.10": {
+        "sha256": "68312b6a232da724c8205a6d0a64ea6352270cd3826d1d2fb4cfa944abf1de2b",
+        "url": "https://files.pythonhosted.org/packages/46/bc/8c2611b4e0b2bb3234ad657c11f13dc552111b38dbdbea583821ec23d7ca/paasta-tools-0.18.10.tar.gz"
+      },
+      "0.18.11": {
+        "sha256": "5b40a2c87a580605dd9dcb42a3a6a9268061ab5fc6c166bc3fefcb32f1c2c5d2",
+        "url": "https://files.pythonhosted.org/packages/34/94/c585cf7aec45fbd7aceac71d563f8d5782870dd05af43a5a6e0926f80add/paasta-tools-0.18.11.tar.gz"
+      },
+      "0.18.12": {
+        "sha256": "f52d91dd9845d43d7a5fe3af6e7d231a918ac35763aa70debe0d3bf921ce4c1c",
+        "url": "https://files.pythonhosted.org/packages/d0/8c/25bc1a0d80177714b52088ae28532d872d92da38fb68f2032eddece2ed22/paasta-tools-0.18.12.tar.gz"
+      },
+      "0.18.13": {
+        "sha256": "b56e93ee71870604952a9c8e6484d2e0f30d379ada7447caeb18fafa065667cc",
+        "url": "https://files.pythonhosted.org/packages/98/bf/2ae99c12bb170a4b4a77304b022e5e64a9032c8627c64b89de98bd80698c/paasta-tools-0.18.13.tar.gz"
+      },
+      "0.18.14": {
+        "sha256": "ef01c5653547338381f7382728bfb3705048a2322933750cd4271f13538ee4f7",
+        "url": "https://files.pythonhosted.org/packages/a0/61/124a3eb184abd07f71256df0f06392647707c20bdc1b2531ef9c16e43071/paasta-tools-0.18.14.tar.gz"
+      },
+      "0.18.15": {
+        "sha256": "7d99bc07a2aa69aabaa8a3efaf6f76d7b12bef8e71357a1e5dab5c9b5b44fe69",
+        "url": "https://files.pythonhosted.org/packages/43/a8/abf3dabb0ef993a353e2d56cff3eb601c41ed5bbd39e722869f113de6913/paasta-tools-0.18.15.tar.gz"
+      },
+      "0.18.16": {
+        "sha256": "2b30b1696a092b130c702902c8fad9d70a2f6252e0ea5e4ecd376751529460e0",
+        "url": "https://files.pythonhosted.org/packages/30/5a/98b085e0a848aa23293fe22d4abb0d1e77b62a3d9ec3dbf035dd5da49ee5/paasta-tools-0.18.16.tar.gz"
+      },
+      "0.18.18": {
+        "sha256": "9781ec6951dd85c70383e97a89da6c1d6406ab3ee0def7bb92898782f3e626d2",
+        "url": "https://files.pythonhosted.org/packages/45/81/f1e851a1508fd0139f4c2f5542363b12fdc64573163efee27f5447975699/paasta-tools-0.18.18.tar.gz"
+      },
+      "0.18.19": {
+        "sha256": "0e0a8bd7c538799c93c995b9c77d42d1e6df78a8acb973d458f77f9282d12f6b",
+        "url": "https://files.pythonhosted.org/packages/1b/e6/3acc4b6413def3e6f83d1e47a721a06cf07e8f825677191bfbd2e06a6d35/paasta-tools-0.18.19.tar.gz"
+      },
+      "0.18.20": {
+        "sha256": "6105154e950964449535fa587a095872790dfbee5fc9018dc7f59b83d6c9a8c0",
+        "url": "https://files.pythonhosted.org/packages/be/a9/a12d21e0c893af947cd574069b4aacff755e4cd00e89793235724b6099d5/paasta-tools-0.18.20.tar.gz"
+      },
+      "0.18.21": {
+        "sha256": "0e1aa2332807ecdd6c9dc772d136107f119a8c4e6e2edf21915971fa74f348ca",
+        "url": "https://files.pythonhosted.org/packages/f6/32/5d8b786863b59d48c07fde29b1084798c068c3a6d610834ffb259aa0ff61/paasta-tools-0.18.21.tar.gz"
+      },
+      "0.18.23": {
+        "sha256": "41a6507dcbd58161fce346f329f8a826738d2f4919a5f31403a1926af3641370",
+        "url": "https://files.pythonhosted.org/packages/35/15/6e2ee37643ae37e2847e0da02288767f80b64fe8b4c232fcd4f883b98565/paasta-tools-0.18.23.tar.gz"
+      },
+      "0.18.24": {
+        "sha256": "09dc29f4865539b58bb7c7eb204c2384d151ba603356b73fa75bb2ed3d1b320a",
+        "url": "https://files.pythonhosted.org/packages/7f/a1/0ab6729629cf119676b8f5bb917cf65a1bd74003829b9e8225845c94d2fe/paasta-tools-0.18.24.tar.gz"
+      },
+      "0.18.25": {
+        "sha256": "1b5d493d7d5130d40948107343186729a7cf211e2a34d1a39480461995f45875",
+        "url": "https://files.pythonhosted.org/packages/6b/d7/39f059bce6fde4e3a9a52ef7326620652681a837581f6ce5f2d833ce3fee/paasta-tools-0.18.25.tar.gz"
+      },
+      "0.18.26": {
+        "sha256": "d295c5da5df5f3933421619d5f72cd3e2398362869ac11c033fc747cd45d2b32",
+        "url": "https://files.pythonhosted.org/packages/61/76/3e7b82f0362cd4150b75cd0d2375e31d075608e592bccffd4ec1349b057f/paasta-tools-0.18.26.tar.gz"
+      },
+      "0.18.27": {
+        "sha256": "e8c2e040929309a77b5e7d00f14f08a15c9f7f480945ad81b2f4e2b3b861c86d",
+        "url": "https://files.pythonhosted.org/packages/68/56/372ef5fc88e8039ba753850a7284186a0061c7a91c2048e88d600bdefd6b/paasta-tools-0.18.27.tar.gz"
+      },
+      "0.18.28": {
+        "sha256": "2149c55a49d0f9a76c5bafce5e5b73cf10f3b15fb3fe1aba27ffa248dfaf1cfe",
+        "url": "https://files.pythonhosted.org/packages/50/75/3154664aab95a8b1eff33b6a03859a17d4e64013fbdd7f8100bda8aaf5c1/paasta-tools-0.18.28.tar.gz"
+      },
+      "0.18.29": {
+        "sha256": "646f7a142df4a56304b4fbc6e278434c60a0cac1e34e79b9a1c0b6066a9e54bc",
+        "url": "https://files.pythonhosted.org/packages/7f/3a/e35bdf48f001495da93188789da5b2ad297311c67cd34db3665ca2372df1/paasta-tools-0.18.29.tar.gz"
+      },
+      "0.18.3": {
+        "sha256": "6734b81c2bbce2441ac7c357203ea5e1299860151a24035e2b7888d13f82d03c",
+        "url": "https://files.pythonhosted.org/packages/2c/ce/ddb633eff8cb4ace10e9988aebc1b8b2148804064ca31162bccb10746f2d/paasta-tools-0.18.3.tar.gz"
+      },
+      "0.18.30": {
+        "sha256": "d47c1452ffd545a2a505a9653f4a803cc4f969b9f3699f20a4c09745823a24b6",
+        "url": "https://files.pythonhosted.org/packages/07/c7/73ad9b437b64cf4f83a118c763536eb13e5b6f0785fc1e310209cbab4413/paasta-tools-0.18.30.tar.gz"
+      },
+      "0.18.31": {
+        "sha256": "ef2d9c7e962d4c3a24d5fe1dc23a4e8d7ce1d3074ac4ea6e77dbae0d0a41ccba",
+        "url": "https://files.pythonhosted.org/packages/09/6d/6e160263816a7bf43c19b1b0726d28295128b08a784c185587335c77fcf5/paasta-tools-0.18.31.tar.gz"
+      },
+      "0.18.32": {
+        "sha256": "8565dfa357de94bc98492ea59a8489eca7cd7d98617657cdb04e09e32dc32565",
+        "url": "https://files.pythonhosted.org/packages/75/3e/0190797bd6a4cb6ecacd474d9b785b45b4d0bb64f35bca6bcc3d87a130a3/paasta-tools-0.18.32.tar.gz"
+      },
+      "0.18.33": {
+        "sha256": "144854fb60b6a595fcb5cc8ad33406adf95f33b7dbeaf058352622b66fab77fe",
+        "url": "https://files.pythonhosted.org/packages/2b/ea/2b9fe30daabd32454c78f4a263e128656f27c7b88a9a8451f3d0c0d89883/paasta-tools-0.18.33.tar.gz"
+      },
+      "0.18.34": {
+        "sha256": "131c8a98e3671b587f1e4761489fea3e5069f4f3f725f75710bdd96b957041a6",
+        "url": "https://files.pythonhosted.org/packages/9e/40/e1c2d6be90bce88dcd4ddf3f7423458bf1455339840e2cd46d3f1344e430/paasta-tools-0.18.34.tar.gz"
+      },
+      "0.18.35": {
+        "sha256": "1ef1e456b7cd238a60362f67c3efb79c815099d32129659d76b440afeaa56684",
+        "url": "https://files.pythonhosted.org/packages/21/71/bd50ba3ecef10a7581e5d173b7b627375687b95df9743eb01255b7288429/paasta-tools-0.18.35.tar.gz"
+      },
+      "0.18.36": {
+        "sha256": "1bd8a5c9afade56e42cd6308b6146432432d98c587c39d2693d99316a3d7d2be",
+        "url": "https://files.pythonhosted.org/packages/ac/2d/c52bc6082a76933f8fab9771228fca83bdcc84aab2324223b2b35bdc7eac/paasta-tools-0.18.36.tar.gz"
+      },
+      "0.18.37": {
+        "sha256": "e2b843fb1ff47f05d195b0290a3a51564dd233808c52f7a38ef97189ebe6902d",
+        "url": "https://files.pythonhosted.org/packages/3a/08/bc509d80de1c6c02af8e4aacbf768aea718ce5094027ddab26509c183024/paasta-tools-0.18.37.tar.gz"
+      },
+      "0.18.38": {
+        "sha256": "3eae8ad60988e3546d2aa6a9116c4d9f9a9243436adce51e3707cb0c42f15f7f",
+        "url": "https://files.pythonhosted.org/packages/42/c2/2420eaa30763b34f651e009b6ad7d690d3a5cc9e06caa142cf6b368cfe4c/paasta-tools-0.18.38.tar.gz"
+      },
+      "0.18.4": {
+        "sha256": "e1ffc12fc5b3caab036fd2803867c3c981f5c2b014225f206aac65980a0d11fd",
+        "url": "https://files.pythonhosted.org/packages/14/81/41821b892464b974dcf502fd708e8a89dcfd910952f130fa1890cd2d4c01/paasta-tools-0.18.4.tar.gz"
+      },
+      "0.18.5": {
+        "sha256": "2866f1000de4a64d7646c43ce4e4cd12850c5501daf4e2c6e5a773736f2b5b70",
+        "url": "https://files.pythonhosted.org/packages/5b/b5/360dd5a290e2674ca379f12934362b4078edb3c388b964489518483b445e/paasta-tools-0.18.5.tar.gz"
+      },
+      "0.18.6": {
+        "sha256": "e70241e2d99a384d479e144d8840ec9ac5f615a27843552307ec6dc134f991a7",
+        "url": "https://files.pythonhosted.org/packages/4d/40/8c4e1d5e6e9fd65151660e5967de2e0de97eb751b6af1709d61987ebf290/paasta-tools-0.18.6.tar.gz"
+      },
+      "0.18.7": {
+        "sha256": "a9849edc0fa61e0812f0924b853fa890222d9d1df4a2f2f375a261c2dc48bd05",
+        "url": "https://files.pythonhosted.org/packages/df/59/f3c57ee97af840f9f7e71ef2a501a84d822f2b384ba0853b6312df73b6d5/paasta-tools-0.18.7.tar.gz"
+      },
+      "0.18.8": {
+        "sha256": "9bd46128b0fc70881ecca9375d1d98e22871d450bc9b3812e021233abd29ec15",
+        "url": "https://files.pythonhosted.org/packages/37/34/bbcfc1e33633376f5c68e3ef5706769f9ef8963dbe523425cb39acfb6226/paasta-tools-0.18.8.tar.gz"
+      },
+      "0.19.0": {
+        "sha256": "26390ae0071ce3e3cd5506450971bd587dd923ce195c631651812aad18709b37",
+        "url": "https://files.pythonhosted.org/packages/36/51/5661fcca8aea83f47b8dee142170fc0c77053cb1ea06961a0e0268e16127/paasta-tools-0.19.0.tar.gz"
+      },
+      "0.19.1": {
+        "sha256": "6143c963028cbfadaa194f53f4bdfefc76b86f8f9be4dc771ebf27d819605bf4",
+        "url": "https://files.pythonhosted.org/packages/d2/a0/ace3d3586cafc1f232a34e02ea68ed0490727994b3bdd53265fb76b94884/paasta-tools-0.19.1.tar.gz"
+      },
+      "0.19.2": {
+        "sha256": "284b100acdd1fe3a9618a11c0d6532780a7beccd93a568cf740dcb49b7a8d540",
+        "url": "https://files.pythonhosted.org/packages/4b/0f/85bef814d3b1652b3953bdcac83a9ca8051372286306c52024c79889313e/paasta-tools-0.19.2.tar.gz"
+      },
+      "0.19.3": {
+        "sha256": "4534fbed4ccfb7c80853bd9bedf2bb6fd98c6efe9341527eecc1f7b62d688d55",
+        "url": "https://files.pythonhosted.org/packages/a0/8c/eb317247748843277276cb94047ba659053aed5e657d1b403fccaab065e9/paasta-tools-0.19.3.tar.gz"
+      },
+      "0.19.4": {
+        "sha256": "3ff88713dbcd7932c957bdb9b2ab9a245cb843e11729e22d7d96306a0cdf5ca1",
+        "url": "https://files.pythonhosted.org/packages/15/3e/6637899409d270659b82f16776ff44ada5a30a85a2d1cb45b7662626f41c/paasta-tools-0.19.4.tar.gz"
+      },
+      "0.19.5": {
+        "sha256": "e51bc8f22940dd78cf14c280f08b9cda418b17a4b25553a631d98b56659cd9d0",
+        "url": "https://files.pythonhosted.org/packages/53/60/0dbe96961a9d8de31ad96365ff8a51d800090b979ad25b9bc780c6b18079/paasta-tools-0.19.5.tar.gz"
+      },
+      "0.19.6": {
+        "sha256": "ffe228243c04e0235ba23722514ca24487d11c4887cfb0c290f86f716b6f4c6b",
+        "url": "https://files.pythonhosted.org/packages/64/ce/f14f74b769408ebb05ab7237d8c54e963fcce54095a700a6bfc28183a3c3/paasta-tools-0.19.6.tar.gz"
+      },
+      "0.19.7": {
+        "sha256": "f34543a9686ec2f09241de5ca69419ed39b3403b7748d803b26d6fa3cf42c247",
+        "url": "https://files.pythonhosted.org/packages/3f/8f/cef45ad09606f27cc93a06cdc76d7070d6fa6387478ead60495088934ca9/paasta-tools-0.19.7.tar.gz"
+      },
+      "0.19.8": {
+        "sha256": "384a81915805f9d81d2b0be7b2808967ed99b05141731fd7620ba3ba67cc04b6",
+        "url": "https://files.pythonhosted.org/packages/d3/ea/73714043441dc80a98afbbad7bee031fa585783bd6e973fe6fb7161a4010/paasta-tools-0.19.8.tar.gz"
+      },
+      "0.19.9": {
+        "sha256": "3cef7b96b3e698144d4e5df3ecf890be05660070bf9e5e6e7dea2812979ea866",
+        "url": "https://files.pythonhosted.org/packages/02/a9/2069e79115e152c1f6a3c567b43076828c0126159fef57ffe13d831c2b9e/paasta-tools-0.19.9.tar.gz"
+      }
+    }
+  ]
+}

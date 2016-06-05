@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.9.0"
+  ],
+  "meta": {
+    "description": "Python as a Hardware Description Language",
+    "homepage": "http://www.myhdl.org",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.8": {
+        "sha256": "fe69b3c834225bdb7348f7b86160bbc3368d14a90191cd49d063b7a751b4b5e1",
+        "url": "https://files.pythonhosted.org/packages/5e/c5/5abde567ec2501afb3dbec65172577d02ef68223910cfe29d7c3af10ca17/myhdl-0.8.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "250858b6664348511f4bb5d5c972570242f8676f077c2ae44db4571e4670c993",
+        "url": "https://files.pythonhosted.org/packages/1e/44/f5e67e8e397a73cb7a4e7e2db6ba91f6cc81222365f0b265c1f7d5239f2d/myhdl-0.8.1.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "52d12a5fe2cda22558806272af3c2b519b6f7095292b8e6c8ad255fb604507a5",
+        "url": "https://files.pythonhosted.org/packages/f4/fe/27d582508e53a4baf479b3f0184e1aa53cc8b64ccca55853ce4c99a0b338/myhdl-0.9.0.tar.gz"
+      }
+    }
+  ]
+}

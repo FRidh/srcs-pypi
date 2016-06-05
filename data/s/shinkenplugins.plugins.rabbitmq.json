@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "Verify good behavior of a RabbitMQ exchange and queue",
+    "homepage": "https://github.com/savoirfairelinux/sfl-shinken-plugins",
+    "license": "GPL3+"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "b86ff11c35b61b246331b0ed3a6a714c90d533eea14e3d0aa540c7db40a33188",
+        "url": "https://files.pythonhosted.org/packages/7e/e3/060baaccea26d18788b6f8cbf70209571a16ddde894a7277ecda0061b6af/shinkenplugins.plugins.rabbitmq-1.0.tar.gz"
+      }
+    }
+  ]
+}

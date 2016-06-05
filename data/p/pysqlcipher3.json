@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "DB-API 2.0 interface for SQLCIPHER 3.x",
+    "homepage": "https://github.com/rigglemania/pysqlcipher3",
+    "license": "zlib/libpng"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "9fe7f4a16b24ec380e9abac9763374d9cdd1396f89e94ec7f2fd98291174a218",
+        "url": "https://files.pythonhosted.org/packages/f8/6a/37b2e468a9a48704fc807df64b2b2b86b446dad781adfdf7f221a972674e/pysqlcipher3-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "34e25692a9e210377d273ef224027d4b3f8f965da5ad2491f658eb28345127f6",
+        "url": "https://files.pythonhosted.org/packages/96/82/105fa83608956f0f4270534845dd4683eba548eacee371ccc01dab7a8856/pysqlcipher3-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Security oriented static analyser for python code",
+    "homepage": "https://wiki.openstack.org/wiki/Security/Projects/Bandit",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "0d5862eb1c783308b45f509bf28da9dba9fe762ee094fadbcada9d1171008f53",
+        "url": "https://files.pythonhosted.org/packages/30/e7/9cf9ca3490bd83329f74d99ff80bb3abf22a6a62a3e82db4962539713f9c/bandit-0.10.0.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "9ebb849e0c4b9ed09ce7e0fd3fef4db47f5dd79887b4b87f25013780f6a65626",
+        "url": "https://files.pythonhosted.org/packages/a2/2c/d59f42b44d5d7cfdfc95f5cdc8fad0b06a13abd41611c925ebc6fec1cf65/bandit-0.10.1.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "d8eb980ae06fc398236b00854d999ea74bd6fca4561f87f16b11eb2be25dd757",
+        "url": "https://files.pythonhosted.org/packages/4a/39/9a49eefa35d6f6726e8d93f0ccefe447f1533a9cec54bb7117be445534ae/bandit-0.11.0.tar.gz"
+      },
+      "0.12.0": {
+        "sha256": "3c147b507696f3a74a5cf3581cc3bb65a63df454fcf24db28c3d1baa765a3b04",
+        "url": "https://files.pythonhosted.org/packages/af/bb/f2e1a42f4955c15014edcf29cfa42a75e2ceed3b6ad10788e749de575189/bandit-0.12.0.tar.gz"
+      },
+      "0.13.0": {
+        "sha256": "4593957b236564599dec7c8b2da5b084f9b257213688a3a97b2643c04721eb66",
+        "url": "https://files.pythonhosted.org/packages/72/4e/f8eac0cbdf291a7ed315b8bbec8a65bf6b075295c27b1609088f9e77273b/bandit-0.13.0.tar.gz"
+      },
+      "0.13.1": {
+        "sha256": "e8383d751d0eacd0491e6821c6a176e317316ba3afd7005d11690467a091dd0c",
+        "url": "https://files.pythonhosted.org/packages/55/0f/4744f7eef1044674a9e2d7a200ff543bbeac8a2abdc63b5edfaac2c63d0f/bandit-0.13.1.tar.gz"
+      },
+      "0.13.2": {
+        "sha256": "ef78c4dda20f758f95aca467fbb6609a696b6df13104d324b329b1bca963e30d",
+        "url": "https://files.pythonhosted.org/packages/07/54/e060de3275872d5431833eb73142235b251bb768a3cb81880d46fc54e612/bandit-0.13.2.tar.gz"
+      },
+      "0.14.0": {
+        "sha256": "b5adb05564c96cc08dbecce80a36632ed6d601e0b68d73ba9de12682d4b57fd8",
+        "url": "https://files.pythonhosted.org/packages/0d/68/66f539d2e475856df52d78a9a37171ab0f9b30062ec772ad16c8ee0a757f/bandit-0.14.0.tar.gz"
+      },
+      "0.14.1": {
+        "sha256": "d44581faf87271b60a7f103aead3aca6a22b3778707c44bf39fd673d2c1e4cc3",
+        "url": "https://files.pythonhosted.org/packages/e1/fc/3db78ea4bb69601d4ed53677eefa7a82cf3c3abfb0142101e8b41e842d33/bandit-0.14.1.tar.gz"
+      },
+      "0.15.0": {
+        "sha256": "c62e3c8bedd8c20c1663a7efa45249bb69aab1b03237655152581e96ec1e3228",
+        "url": "https://files.pythonhosted.org/packages/a1/00/636c5a6b7d4ff1d592eca975c7f4ffcbacb88a0088401e06ebb8e0c9a853/bandit-0.15.0.tar.gz"
+      },
+      "0.15.1": {
+        "sha256": "85deee09d91af4aa28d8cb8b89befb6a1386306282b4a3513dc784164c7cd0f0",
+        "url": "https://files.pythonhosted.org/packages/62/88/e0f2ab1211fc6c9c4ea3586dd6f3769ddfa6b8506d41c6fc7971c968aba4/bandit-0.15.1.tar.gz"
+      },
+      "0.15.2": {
+        "sha256": "cab6daf567585d0b390ca8d88a88f660d85fff437b8104bb64525a1a6d4a104f",
+        "url": "https://files.pythonhosted.org/packages/18/0f/c672f0a43d90046f01f41bd03cd620d7604f86492ce5541df0e8a4358d74/bandit-0.15.2.tar.gz"
+      },
+      "0.16.0": {
+        "sha256": "d070c2c08d2eed0e4e2489d2f5f0df53cab646ca0acfb3e78f8cd594a79ae23b",
+        "url": "https://files.pythonhosted.org/packages/ee/fb/814dadacefa3e3c7884228e34aaed7b08b7b75e89c46e86a8a2dbe7dffb0/bandit-0.16.0.tar.gz"
+      },
+      "0.16.1": {
+        "sha256": "534324d0f2345da4ac7f3f89ce669e24656966a556fe425d2fb63065679fa961",
+        "url": "https://files.pythonhosted.org/packages/0b/aa/81f903eb367746892c876d3a031ab233fa09bb60fe6f0250860114e3ccf7/bandit-0.16.1.tar.gz"
+      },
+      "0.16.2": {
+        "sha256": "9b8ff2812a40df04aaee4d38e41b5aa8ee3f92b3ead86c5f7ae462eb37485dc3",
+        "url": "https://files.pythonhosted.org/packages/e1/a2/404bacfdf9a27904080d96ecb597982dd735f353efc7180a93150347d66f/bandit-0.16.2.tar.gz"
+      },
+      "0.17.0": {
+        "sha256": "3cc663a498bac972064f1b28643d6467dcbee7d63dec14df606e239ca824cd98",
+        "url": "https://files.pythonhosted.org/packages/2a/18/e7c5b43baf8294dc22ccd91e6b4ea96f3b170e059227d3bad46e3d1c4a34/bandit-0.17.0.tar.gz"
+      },
+      "0.17.2": {
+        "sha256": "b28c1bc3145c8d0a96128c34dd420f49b30c5ce30bfe91b5db180644f8a8564a",
+        "url": "https://files.pythonhosted.org/packages/c7/65/e5064116e2eeab414884691960f4e30be3b90c97289b79e6c77547a443f5/bandit-0.17.2.tar.gz"
+      },
+      "0.17.3": {
+        "sha256": "8ca87dfba904ac42d72b35c033f8473f31d0b575da69966014d73b3f6f908f36",
+        "url": "https://files.pythonhosted.org/packages/3f/5c/ac7a9d615734c691caf4a9e752797647f2f7ea02a8ddf6c9f81b9011957e/bandit-0.17.3.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "3d3a88bf82375cd18ab889c2bf86dcf840798c74a1a6b8d3015071d9ebf2dcd7",
+        "url": "https://files.pythonhosted.org/packages/64/2f/dd12f0687ccd098f57beb22e0f11e88e3b1d7ed9b2edd3010394ea146785/bandit-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

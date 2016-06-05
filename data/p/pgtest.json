@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Creates a temporary, local PostgreSQL database cluster and server for unittesting, and cleans up after itself",
+    "homepage": "https://github.com/jamesnunn/pgtest",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "a2baab3805f8e2de1da13cfe4c13f4707c298ba800c2c02a53551f7d77b797a6",
+        "url": "https://files.pythonhosted.org/packages/1f/94/f76ac977229176b025c0a1cab4920f5303a8af265830f53325a41729ca8e/pgtest-1.0.0.zip"
+      }
+    }
+  ]
+}

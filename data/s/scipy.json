@@ -1,0 +1,102 @@
+{
+  "latest_version": [
+    "0.17.1"
+  ],
+  "meta": {
+    "description": "SciPy: Scientific Library for Python",
+    "homepage": "http://www.scipy.org",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "611f980a29c0139519e70164804340b6945656b79c6d62b83fdbac32ab95fbf8",
+        "url": "https://files.pythonhosted.org/packages/a0/db/f92d782bd74ec7f9f30fef6143856740b4a93bfbeb715f3e923c0b83dcb9/scipy-0.10.0.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "77cc5c48e3f0c07b8137135538cdb99d596d3cc5c498bb0031fb5ff22eae4aa7",
+        "url": "https://files.pythonhosted.org/packages/fb/06/571aa713e585b3529dad8838ce2c67178e68c37c5c838772282c83faea68/scipy-0.10.1.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "b2b74d56a2d58a4f032f91e8b91b1c2272d5eb0b5010082dd1e492e452f862ee",
+        "url": "https://files.pythonhosted.org/packages/23/fc/182b0c0a3642200c8bfd09a959d7bec3f36127df4b28b509f93922c62f0f/scipy-0.11.0.tar.gz"
+      },
+      "0.12.0": {
+        "sha256": "b967e802dafe2db043cfbdf0043e1312f9ce9c1386863e1c801a08ddfccf9de6",
+        "url": "https://files.pythonhosted.org/packages/51/1c/d53b2c99f8dd94307ddc92772c7a696b045384c40e039240c24c3b2bae28/scipy-0.12.0.tar.gz"
+      },
+      "0.12.1": {
+        "sha256": "15122afe6cb377b010982f9bc46cf41b12af703fd34088aa3971a80276b00e76",
+        "url": "https://files.pythonhosted.org/packages/9c/db/42a2363b6f5efca713e310d4c469d04140dff266b022e1a49aee3b58f62f/scipy-0.12.1.tar.gz"
+      },
+      "0.13.0": {
+        "sha256": "e7fe93ffc4b55d8357238406b1b9e47a4f932474238e2bfdb552423bcd45dc5e",
+        "url": "https://files.pythonhosted.org/packages/34/ac/f793c8f18b6f188788b37aae02d94689ac8df317f09a681a3a61ecc466ab/scipy-0.13.0.tar.gz"
+      },
+      "0.13.1": {
+        "sha256": "409f429a85592c8a99afa2fc047b80efdbd7ab0c9aa1f1effdd4692958aef228",
+        "url": "https://files.pythonhosted.org/packages/83/54/f1760dd82ebf52859a1a7153187f16abc2814327ad830b7f7d6808da890a/scipy-0.13.1.tar.gz"
+      },
+      "0.13.2": {
+        "sha256": "485f194c7fe46da92e63bff524346ccaed4040c27df536bbde7b1edc9a07b449",
+        "url": "https://files.pythonhosted.org/packages/e0/6b/82f474751b0606436b8e95b69dbd6a6c15b55420c8a1f7aad6408018c8b0/scipy-0.13.2.tar.gz"
+      },
+      "0.13.3": {
+        "sha256": "a9e33c7ee060c35cd5c6ee3ac9e5e9bbb99219d7ea8c89537c2e80e581670266",
+        "url": "https://files.pythonhosted.org/packages/2f/12/565c08132db50a0ba34a33e0901f3d1d4d72e3b432ea828e4d87be5a4991/scipy-0.13.3.tar.gz"
+      },
+      "0.14.0": {
+        "sha256": "4b41a3e6bf178df1c7f0ef3bfeabf1f56610329aca5dbd7b6d64da8ac9af6b14",
+        "url": "https://files.pythonhosted.org/packages/76/3d/ad5f3d19d553cf4a01fb57dd95dc83d9493e3d289511881d4900e0f17ac0/scipy-0.14.0.tar.gz"
+      },
+      "0.14.1": {
+        "sha256": "ab75f161107ee411c054abc35e28ec2d19bb5ec8437aaf6c32b80916568f7dad",
+        "url": "https://files.pythonhosted.org/packages/17/4c/3c01634c5332e1969a27fe5b249fc72a9e79c178f841aedc2635bcf61dee/scipy-0.14.1.tar.gz"
+      },
+      "0.14.1rc1": {
+        "sha256": "8606f4e183763657b336c5923f536456c29972bcf34f8ff42b072e1361e8b610",
+        "url": "https://files.pythonhosted.org/packages/a3/32/55ccba68da8c0067af759efde2a6be6bd4d4d38628d1ca72ffc2d96f9fa4/scipy-0.14.1rc1-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl"
+      },
+      "0.14.1rc1.dev-205726a": {
+        "sha256": "4915e1ff35aeb7d4d3472c7cdd0ed01301888e11dfd2bbe8a72bf46983f4ba02",
+        "url": "https://files.pythonhosted.org/packages/c5/26/27b835eaee43982b065ee3fe5fa8ad9c412972bb0becab9fd0ae39932531/scipy-0.14.1rc1.dev_205726a-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl"
+      },
+      "0.14.1rc1.dev-52fb336": {
+        "sha256": "a9dd96bd4530f723d4bdbcf0de2d6eaade0614df518a297fd1d8ed1ed4489784",
+        "url": "https://files.pythonhosted.org/packages/2b/41/1ad811404383231ac90daa66add360d71a9faf19d8be05fb5fb1c975cbf7/scipy-0.14.1rc1.dev_52fb336-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl"
+      },
+      "0.15.0": {
+        "sha256": "0c74e31e08acc8bf9b6ceb9bced73df2ae0cc76003e0366350bc7b26292bf8b1",
+        "url": "https://files.pythonhosted.org/packages/96/e9/dc57da726dad825548b472dcaa9343486fd2ee514ac714272e38d7c6c9e1/scipy-0.15.0.tar.gz"
+      },
+      "0.15.1": {
+        "sha256": "a212cbc3b79e9a563aa45fc5c517b3499198bd7eb7e7be1e047568a5f48c259a",
+        "url": "https://files.pythonhosted.org/packages/74/e8/14315e1ef08322a36cf756d165385ea0f25afd289d7e86eb2a7138640153/scipy-0.15.1.tar.gz"
+      },
+      "0.16.0": {
+        "sha256": "92592f40097098f3fdbe7f5855d535b29bb16719c2bb59c728bce5e7a28790e0",
+        "url": "https://files.pythonhosted.org/packages/46/b6/81a0f305a81b48aa1338da1018ae022c6cff1c83f78fc7f831057db3d46a/scipy-0.16.0.tar.gz"
+      },
+      "0.16.1": {
+        "sha256": "ecd1efbb1c038accb0516151d1e6679809c6010288765eb5da6051550bf52260",
+        "url": "https://files.pythonhosted.org/packages/7b/e1/ecc1820874c396a094e6df30d4d3aa8119d4987c5ff0b9caec73db362849/scipy-0.16.1.tar.gz"
+      },
+      "0.17.0": {
+        "sha256": "f600b755fb69437d0f70361f9e560ab4d304b1b66987ed5a28bdd9dd7793e089",
+        "url": "https://files.pythonhosted.org/packages/16/87/fdd4d069b1e784d4598605c20d8a7c535883b298aef960dc286b395359d7/scipy-0.17.0.tar.gz"
+      },
+      "0.17.1": {
+        "sha256": "9c4cd2f8013cc4084230a0e858d7642963dbadfd76494d2fad3b0b29bebb38ac",
+        "url": "https://files.pythonhosted.org/packages/05/5e/973bf71cfa865d962a68893e35e366a0a7ac0b713bc398b4e584c1bed982/scipy-0.17.1.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "b12937bd3a71ace8d7d6b7e19f8f220630969c2822e6248fc0bbc8f2cc18d825",
+        "url": "https://files.pythonhosted.org/packages/82/0d/987404674724e5bbdd9341ab8bf1a7c52a4082d4ba1ab5ff81ee2ebe8456/scipy-0.8.0.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "913089de94721be864e0a57fdab52603f3150250a2e0ce4ed6928ca1125f6b23",
+        "url": "https://files.pythonhosted.org/packages/4d/ed/08313eb178d8710c2f29bdf4e1efac55f716a6bcd40852cf80bc5d3d117f/scipy-0.9.0.tar.gz"
+      }
+    }
+  ]
+}

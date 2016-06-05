@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "4.3.4"
+  ],
+  "meta": {
+    "description": "create standalone executables from Python scripts",
+    "homepage": "http://cx-freeze.sourceforge.net",
+    "license": "Python Software Foundation License"
+  },
+  "versions": [
+    {
+      "4.3.3": {
+        "sha256": "0c8b3ce53127ffacdfea6229616086887b1573f95ff56cdc3dbf07fae8942302",
+        "url": "https://files.pythonhosted.org/packages/6c/85/b184fb01d1bd28a84a457feeee404d890c664beeac9511232f3e3e634760/cx_Freeze-4.3.3.tar.gz"
+      },
+      "4.3.4": {
+        "sha256": "40c7bbfa107e139d105fdf79d1a7540dbb9f84aaf0fecdd03420bf37f0031be2",
+        "url": "https://files.pythonhosted.org/packages/62/ff/263fae9f69150c1b696a94dd23ca48c02512228c53bb108aeaccda192028/cx_Freeze-4.3.4.tar.gz"
+      }
+    }
+  ]
+}

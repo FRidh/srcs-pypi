@@ -1,0 +1,86 @@
+{
+  "latest_version": [
+    "3.3.0"
+  ],
+  "meta": {
+    "description": "A system for controlling process state under UNIX",
+    "homepage": "http://supervisord.org/",
+    "license": "BSD-derived (http://www.repoze.org/LICENSE.txt)"
+  },
+  "versions": [
+    {
+      "3.0": {
+        "sha256": "82aac54c5760b6a4f4c28dda203714e362a68b4a9ba8549fa65955998e3a2212",
+        "url": "https://files.pythonhosted.org/packages/c0/a8/78658bf1d4180796e2be69b0b14e814bd735eb785eaf76399d2f1e6d2aef/supervisor-3.0.tar.gz"
+      },
+      "3.0a10": {
+        "sha256": "63620d0431bafff6f346fb4df5d9a7745588b5dee1ca5fec2ddff2298107d69f",
+        "url": "https://files.pythonhosted.org/packages/52/3d/cd5aecb3237b31f431fcb27791aff267981313dc9a57248f3c5cd0521bad/supervisor-3.0a10.tar.gz"
+      },
+      "3.0a11": {
+        "sha256": "5235139f02da624723ccda4e3097c03afb5badfebdbac20e2dfdb1b74d5f7a74",
+        "url": "https://files.pythonhosted.org/packages/fc/b7/d729304c41954c254adbd4b32d5ac82e7b07d3e4a00c167691f54c40a12b/supervisor-3.0a11.tar.gz"
+      },
+      "3.0a12": {
+        "sha256": "de60eee3c460b379aa8493083b59d31b29f2c4267730db29b6f9dea22642b3b4",
+        "url": "https://files.pythonhosted.org/packages/86/61/66e2661911c1e8c41646e8db2432b62978d9276601fbe2ecd7415fc794cf/supervisor-3.0a12.tar.gz"
+      },
+      "3.0a7": {
+        "sha256": "4c4e48f94298e80e21209458d57471c19c40b3e1993f6e780f31826192eaff99",
+        "url": "https://files.pythonhosted.org/packages/2e/3b/f28afd29920be27c948923b276d1f131276880f6b4f9391323064b87b15b/supervisor-3.0a7.tar.gz"
+      },
+      "3.0a8": {
+        "sha256": "ce61afd01780ffba3e40ec244205b6db309da3b84ef27b5c5b179456050e5b8b",
+        "url": "https://files.pythonhosted.org/packages/78/2e/21226eda323fdc79cf6be437fb1f4a61ff6b105f8e7cb38e57d77ae59cf0/supervisor-3.0a8.tar.gz"
+      },
+      "3.0a9": {
+        "sha256": "a971d56815bf70909d3fb6b98c6950bb5e33104c12ec04a3176f8896623ab5c4",
+        "url": "https://files.pythonhosted.org/packages/4b/7d/cb3d91d6c65f73fd253c376fc0dbbc48b83e6606f61d9961d9ac7cf293f5/supervisor-3.0a9.tar.gz"
+      },
+      "3.0b1": {
+        "sha256": "7361e224871257534cac3bc035e90571c35b9fa9245ec46207de9d89191a7d0c",
+        "url": "https://files.pythonhosted.org/packages/f3/82/2d337a4b58a78f45b639320f38e295446d334af0c5b2d0407cc2cfd8dcab/supervisor-3.0b1.tar.gz"
+      },
+      "3.0b2": {
+        "sha256": "3cb0e1d8ce4e4feb8c27923ca996ad7ba725f9d6300b8f8dfd2dbac4998575ed",
+        "url": "https://files.pythonhosted.org/packages/b4/b2/c55e2ec957edbfc1d7813c4882bf3d14705bc1fdc9449ceefe6dc94d44a0/supervisor-3.0b2.tar.gz"
+      },
+      "3.1.0": {
+        "sha256": "f0add8a9096cb662c1e233947b954125e38db26d40c8148fb76a7c83564518cc",
+        "url": "https://files.pythonhosted.org/packages/af/c8/6af4371937604a59389281b1e890614f395b5345bb1e9905ceaddb4a3480/supervisor-3.1.0.tar.gz"
+      },
+      "3.1.1": {
+        "sha256": "e3c3b35804c24b6325b5ba462553ebee80d5f4d1766274737b5c532cd4a11d59",
+        "url": "https://files.pythonhosted.org/packages/68/59/13e0f72ac56bcd4b67833c1b606cb8e53c3b7df60190d54170d7003f1844/supervisor-3.1.1.tar.gz"
+      },
+      "3.1.2": {
+        "sha256": "cb608b4735522ccd370254bb3b2bea683dc0f6ce723dd8c5b60c600b00b03961",
+        "url": "https://files.pythonhosted.org/packages/76/8a/1962cb77a8e5ba15a3a71371097bf155277106efca8c5293795399a8cc40/supervisor-3.1.2.tar.gz"
+      },
+      "3.1.3": {
+        "sha256": "e32c546fe8d2a6e079ec4819c49fd24534d4075a58af39118d04367918b3c282",
+        "url": "https://files.pythonhosted.org/packages/a6/41/65ad5bd66230b173eb4d0b8810230f3a9c59ef52ae066e540b6b99895db7/supervisor-3.1.3.tar.gz"
+      },
+      "3.2.0": {
+        "sha256": "522d7dad95c4b26a448bf39430a5404542000c15b45a2cf188c2fe05821965ce",
+        "url": "https://files.pythonhosted.org/packages/c1/5d/f2badebeb0d40ec6a6d3e76c4cc5116cb4a83994790d361c2ccae8a78f44/supervisor-3.2.0.tar.gz"
+      },
+      "3.2.1": {
+        "sha256": "d6b54903aab4214664b6f2c6400f673bee3e21aec7b14d08940ed431a3ead630",
+        "url": "https://files.pythonhosted.org/packages/7b/54/53f28cb2b652717134dd67af607a94952318ae542906f0a890043de4f466/supervisor-3.2.1.tar.gz"
+      },
+      "3.2.2": {
+        "sha256": "67b07b75bdf4529af0ed99f3940bac73d8bcdd8acb1b7cadb7314152e73b8c5f",
+        "url": "https://files.pythonhosted.org/packages/e4/9c/5097d6885fca6251f7f2719c7e5dbd82b249ba66917ca5091a01146bf7ba/supervisor-3.2.2.tar.gz"
+      },
+      "3.2.3": {
+        "sha256": "3d6f0304c8ce74ab2100dfc4ab0f70050568504216f9508a81b8ed269aec9705",
+        "url": "https://files.pythonhosted.org/packages/92/9e/d3ad406ff1eb968c03f52adf7fd5439fe2f105049d6fa006738e677bedec/supervisor-3.2.3.tar.gz"
+      },
+      "3.3.0": {
+        "sha256": "3176fb8a78c60164020e252e4a2b50b039cfec1f410b4562a843b66186188652",
+        "url": "https://files.pythonhosted.org/packages/44/80/d28047d120bfcc8158b4e41127706731ee6a3419c661e0a858fb0e7c4b2d/supervisor-3.3.0.tar.gz"
+      }
+    }
+  ]
+}

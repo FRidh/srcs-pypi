@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Identify duplicate files (by SHA1) and remove them if needed",
+    "homepage": "https://github.com/dwwkelly/dupes",
+    "license": "GPL2"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "64610c2b2e50b2d9ea4a92d9287f15ad766d8aacdca2a857ce130a18cd60f8b3",
+        "url": "https://files.pythonhosted.org/packages/73/92/bd3ce308b291a0ddf03d01e273c3b817a7d77a38a2d5a7935cdf2bc10869/dupes-0.1.0.linux-x86_64.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "825397aa60604750899994c5738d66d47f5880907f94c13fb5b50427f868ff12",
+        "url": "https://files.pythonhosted.org/packages/3f/38/773c1b24c32033246924a33e3b23682d1c96171c69e627e46f908c03d202/dupes-0.2.0.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

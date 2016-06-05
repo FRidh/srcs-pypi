@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.0.2"
+  ],
+  "meta": {
+    "description": "A simple and safe PostgreSQL DB-API 2 adapter",
+    "homepage": "https://github.com/anmcn/ocpgdb",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.3": {
+        "sha256": "fcf5714d22d7b90a53addcdc4afc49312be98d53a8e529685c75e7e191f51152",
+        "url": "https://files.pythonhosted.org/packages/11/d3/1e85f7aba0bd02fb18a0ad941a724770957cc91aef439e417a321c107417/ocpgdb-1.0.3.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "55f2dc38903a3c215acab38d1e6b5f38be59b2703da3fc7aa237ea261642a01d",
+        "url": "https://files.pythonhosted.org/packages/3d/66/4853490b23523f183c48aacf48eb90e4263e27ed2b8cc67b41147e473c73/ocpgdb-2.0.2.tar.gz"
+      }
+    }
+  ]
+}

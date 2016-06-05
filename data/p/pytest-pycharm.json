@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4.0"
+  ],
+  "meta": {
+    "description": "Plugin for py.test to enter PyCharm debugger on uncaught exceptions",
+    "homepage": "https://github.com/jlubcke/pytest-pycharm",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "df1cb7837cc9ef4ffa3c344b1a54edca170c9a9842256d7f510773323130a99d",
+        "url": "https://files.pythonhosted.org/packages/77/cd/9b1f6800846de21c4d7290243dfc834c5459e562d411fc203f2f5edae70a/pytest-pycharm-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "a4d09b44c9d4c30d830d3ea137fd092a5e898a258c2199554e2ab49d785b997b",
+        "url": "https://files.pythonhosted.org/packages/ab/e3/1b52aebd31ffffae09057f7cfcdf27e51445ce3e36e9de82e0fe542cbfa0/pytest-pycharm-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "4a8be5f4829af861b6df0053701e28c61aa311e8184adcaa6ddad8fb3ae94335",
+        "url": "https://files.pythonhosted.org/packages/d9/9d/a4cd3728eada3e3de66341ffaaf34ea4ce55c29fb5802a293045ee250e1b/pytest_pycharm-0.4.0-py2-none-any.whl"
+      }
+    }
+  ]
+}

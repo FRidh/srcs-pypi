@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Dynamic Time Warping (DTW) algorithm with an O(N) time and memory complexity",
+    "homepage": "https://github.com/slaypni/fastdtw",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "b90096c02f547c85a28058f6ee89c68244d8667a73520f26cbcfc75b42cbe132",
+        "url": "https://files.pythonhosted.org/packages/55/b2/a1e150a3efd249f87be0184b5c97cd5ef14290885d31fef108c22d27556c/fastdtw-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "4f0953eed46b07a976d9cb140c406522fb0df7ba8db6f2149cabe47dd7b54e44",
+        "url": "https://files.pythonhosted.org/packages/82/c4/addb8b8c77a8c23851c5657273b627e7035c9ed34cbd114cf2a92dfd8549/fastdtw-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "c7aaf0e0d0f89ffff271f5c7e65439727313622cbab78b932756fef1a2004d16",
+        "url": "https://files.pythonhosted.org/packages/27/cb/c65ebd528868ec39c47699d7fd65a0409a396085872af63468df45e972e8/fastdtw-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Wrapper around django-photologue dealing w/ remote images, and server-side-generated images",
+    "homepage": "https://github.com/limist/django-metaimage",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "c7af79a956a38eb4b13f6b4200f89734f4e0767da0ae1081f24d5cc5ee4e5998",
+        "url": "https://files.pythonhosted.org/packages/59/a9/b2f44833f148681dc2d59b09611b97c4043ab5013848c230aeaeb6b42b25/django-metaimage-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "45b8ff28da84a0b8905cf25490c88680b73923adf2ef8ac38c44dc73de2a9563",
+        "url": "https://files.pythonhosted.org/packages/46/7a/fd896b2dce86d463cd1ef7dd8045b68db6e160bd36ad415d83a8c0874d01/django-metaimage-0.4.tar.gz"
+      }
+    }
+  ]
+}

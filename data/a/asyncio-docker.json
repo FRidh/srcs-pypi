@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.23b5"
+  ],
+  "meta": {
+    "description": "Asyncio Docker Client",
+    "homepage": "https://github.com/adaptivdesign/asyncio-docker",
+    "license": "Apache Software License"
+  },
+  "versions": [
+    {
+      "1.23b2": {
+        "sha256": "c13db54898ef0875492ed927fc86faa87fd69f0097acd6145e59dfe20d732d12",
+        "url": "https://files.pythonhosted.org/packages/2d/05/bd020a1bee976df2928cbb8c0214c900fcd3cca96f46bda9bb3cb8d40317/asyncio-docker-1.23b2.tar.gz"
+      },
+      "1.23b3": {
+        "sha256": "da9bd4a3f3ca578c2feb241704fb91535ec57c5fc148d79e768c7bb909f48136",
+        "url": "https://files.pythonhosted.org/packages/36/bc/f13d71d78bc133cb63b29f17e54d18c1bdb7c8b9bcba765dce12d996a7d9/asyncio-docker-1.23b3.tar.gz"
+      },
+      "1.23b5": {
+        "sha256": "c2b37c816c8df73fce8c3b341beff24b01a85c4c91361350880332b53fa5c3ab",
+        "url": "https://files.pythonhosted.org/packages/28/36/27b7c89f5fc375651f6d7bf1ce9d65eeb04c50e0143e212737ef95ef1eb0/asyncio-docker-1.23b5.tar.gz"
+      }
+    }
+  ]
+}

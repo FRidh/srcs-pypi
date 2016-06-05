@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.7.0"
+  ],
+  "meta": {
+    "description": "Python package providing extra collection of django custom management commands for use with ChEMBL and some classes for use in future",
+    "homepage": "https://www.ebi.ac.uk/chembldb/index.php/ws",
+    "license": "Apache Software License"
+  },
+  "versions": [
+    {
+      "0.5.3": {
+        "sha256": "306d9816e434ac830f9c4e24cb3f62ff4e2f9a097004a7fee725fc1ebf62de6d",
+        "url": "https://files.pythonhosted.org/packages/54/c5/6e753933bc29e543092c70da067ade9034af5a3ae038a9b0090916cba7cc/chembl_extras-0.5.3.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "5fbff3fce592dcdef5603f305f793a2ce32bf5d2e904f636d20b0bffc4d92068",
+        "url": "https://files.pythonhosted.org/packages/de/03/048ad9308a4b5b6846b1a18cc4a3afed7585a59145b411e6e89be45831fc/chembl_extras-0.6.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "01d19b802d4709a581d4457705438107deaf3ec9d9c67c2e3ed5e944dce268f3",
+        "url": "https://files.pythonhosted.org/packages/6a/93/041422d49f2b555ebda5ea34dc5e47681e8ff2977ddcc860a260ad516c65/chembl_extras-0.7.0.tar.gz"
+      }
+    }
+  ]
+}

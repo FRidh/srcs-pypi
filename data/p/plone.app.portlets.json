@@ -1,0 +1,438 @@
+{
+  "latest_version": [
+    "4.1.1"
+  ],
+  "meta": {
+    "description": "Plone integration for the basic plone.portlets package",
+    "homepage": "https://pypi.python.org/pypi/plone.app.portlets",
+    "license": "GPL version 2"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "127c12a8e6ae73f933023449059b747fb6f82ae4143f2f8d5217b4744e3519bd",
+        "url": "https://files.pythonhosted.org/packages/66/10/087f98b54734e3391549429a4cbd37eb1e22e0baf56479cb546f84b93a03/plone.app.portlets-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "23ba37f70d876432a05ade1947d470e99a44f64604e8aef18e4fa4061204f97c",
+        "url": "https://files.pythonhosted.org/packages/c7/86/01102cfb0f4f4af187541fc4e3e25f422b90aa2f438889ec35b9fbb6d5ec/plone.app.portlets-1.0.1.tar.gz"
+      },
+      "1.0.1.1": {
+        "sha256": "c080506f8e1f10e3908a43c3fe9366d56414fd30c74d2d8c34b15c4532e465d2",
+        "url": "https://files.pythonhosted.org/packages/f5/a3/4c1150eaac5817ea344f043a4e48c20f6579af3e38119e0917f683a16520/plone.app.portlets-1.0.1.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "8ade8657fa7113ece18b510b48767596cac80634c0a4d1c53fb5323a70eb949c",
+        "url": "https://files.pythonhosted.org/packages/86/32/aad41874dd11c29a1ad1d1503b468634cd36eca6907346101da24452d09c/plone.app.portlets-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "3be987a411d66cf3461b6bb452ad9bfc989e6ba89bd751c69320abcffa55edb3",
+        "url": "https://files.pythonhosted.org/packages/68/5c/8f1c3bbd781c705f63a582d0548649b5c5bcbabc61fdf1e506c914899c5c/plone.app.portlets-1.0.3.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "120ac7ce7132899b2431d1a9c9bcf0c9d17157f43fbea4c9ce41882dff159a51",
+        "url": "https://files.pythonhosted.org/packages/3f/f4/04174b49ae4463fabbcb0a44a8ffbb3d960e1a33511bcc352c60086ae821/plone.app.portlets-1.0.5.tar.gz"
+      },
+      "1.0.6": {
+        "sha256": "095ab3f0ce3eeb0b213bfc826449a6059333dd4b723da9911de2e3d7ac1e0f8b",
+        "url": "https://files.pythonhosted.org/packages/8c/ce/1848dc5b745aef1e920c887c3d303263c65289fdad965ccaadd12124ce3b/plone.app.portlets-1.0.6.tar.gz"
+      },
+      "1.0a2": {
+        "sha256": "ab4d287d11eb1b31d71689054be0a200e0514fa5c04d2b09a178c834053824d3",
+        "url": "https://files.pythonhosted.org/packages/15/c2/d436717698016d0589a16f2c78b80507727bc3223360fd1fa32cb438a876/plone.app.portlets-1.0a2.tar.gz"
+      },
+      "1.0b1": {
+        "sha256": "d136a1331f07d29852c9ddb3feb1d16637a0cb10d32f2b76c5d3aab6d679454b",
+        "url": "https://files.pythonhosted.org/packages/27/54/feef8a15daad1ce3fcc2f729fcd2a96ab9c793e27a741c316dc8c7d6855b/plone.app.portlets-1.0b1.tar.gz"
+      },
+      "1.0b1.1": {
+        "sha256": "d576cab6089a403ae113fdb1769d09fd801899ac371c179a67bd27807d94ca2e",
+        "url": "https://files.pythonhosted.org/packages/71/4f/6e299896290841ce5de6d4f0dcaccdc5705c69b779d4756cbbd30b44cdf1/plone.app.portlets-1.0b1.1.tar.gz"
+      },
+      "1.0b2": {
+        "sha256": "0efc81805828868d61d1d8234d4b6f332cf8d15ccb1ea7bc4d743fcac790a55b",
+        "url": "https://files.pythonhosted.org/packages/9b/13/172d80567a9e57e2ce7e12369b10eb8706cd86e8659b85fce4f718f3cb76/plone.app.portlets-1.0b2.tar.gz"
+      },
+      "1.0b3": {
+        "sha256": "05ebf65d1adf575b80eae09b40b7b8c94ced2228cef8b02e6b6e6405120320e0",
+        "url": "https://files.pythonhosted.org/packages/3e/36/a96b99f2e9d4f8fd054c5495c5bb06db68d8ee10c041e0535e9d5a80a065/plone.app.portlets-1.0b3.tar.gz"
+      },
+      "1.0rc1": {
+        "sha256": "b81ae9a021a05f81995b1eacc97b95ba19b2f1a3d369783fb0f8cce1a92d83c8",
+        "url": "https://files.pythonhosted.org/packages/dd/f7/7264fc306a866c7ed356035a8dadf21e4b718c7c19165d9914ae920bea59/plone.app.portlets-1.0rc1.tar.gz"
+      },
+      "1.0rc2": {
+        "sha256": "72d2481ae98354939879fb90d47e9b23af668e65232a811415a8dd25ffdeb86d",
+        "url": "https://files.pythonhosted.org/packages/dd/32/820d1469048c1d51d5350d882a424590d80f29c97e2871a6f3aaf2c8f0a3/plone.app.portlets-1.0rc2.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "d26da711b2b5fa95cf10825ebcd8910a20951c4b2075862031b9dd3147f34491",
+        "url": "https://files.pythonhosted.org/packages/ce/63/68951d0db7dc06b534ef75ec6a0cc36beda9e436eda619b8edd5dfac46bc/plone.app.portlets-1.1.0.tar.gz"
+      },
+      "1.1.0a1": {
+        "sha256": "5b1768f8ffca1efce1d0a08978ffeb805169e4c2e19855e13dc3c59ce4c67703",
+        "url": "https://files.pythonhosted.org/packages/81/ae/3a8d070b6eba46484aaa0a92133940cc26aa363b4173f3aacd9641413545/plone.app.portlets-1.1.0a1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "edee8590abc6a22755fa47a98222c30629cc9ede84add5ff052c235247ce7009",
+        "url": "https://files.pythonhosted.org/packages/3b/17/98bc241f63c7676e16a0e5dafd7f6fbdec740cf71d33c41e588e61459d84/plone.app.portlets-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "a20afbb9bc091b9e7a4faf3931bed1ceb9eac2fbf690370b313cfe564618a1d7",
+        "url": "https://files.pythonhosted.org/packages/60/de/1a9973f25f4c401a5272b17d27f44d142e8041df3691c0fbeffccf6d83e6/plone.app.portlets-1.1.3.tar.gz"
+      },
+      "1.1.5": {
+        "sha256": "719fceb1963b3e4bfee46643412bf5f0aec8db5ae57005c1f94937dd2e93f340",
+        "url": "https://files.pythonhosted.org/packages/36/93/955134389960675ab68d8e62f62632b61f1664d2c17be88ff20680d8bce5/plone.app.portlets-1.1.5.tar.gz"
+      },
+      "1.1.5.1": {
+        "sha256": "1a33a00ecda04c2b6598e1cacd7a78bc37e9c2a3af409e685b487dbf97065586",
+        "url": "https://files.pythonhosted.org/packages/86/e2/3b0de2c8563d3198e3d72e1dddbbed2b225b2018205e5671516e59047d9d/plone.app.portlets-1.1.5.1.tar.gz"
+      },
+      "1.1.6": {
+        "sha256": "e63aae59db403b083008378c6dd4d1ac00adcf1c14d709bd35b2ad33d76778f1",
+        "url": "https://files.pythonhosted.org/packages/24/79/7b37bd36db2817edc01a5d10844c4bf592f276ac39a980d3c6aaecbb251f/plone.app.portlets-1.1.6.zip"
+      },
+      "1.1rc1": {
+        "sha256": "0ceafad6f7b7ccaab135253d3fbba40e4f525f0b759f993477013352db0a7aad",
+        "url": "https://files.pythonhosted.org/packages/4f/27/6adc4a9a053eaf1726ff6def7453e872c5cac21d9ad27c8b8b01748ffaf1/plone.app.portlets-1.1rc1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "0c09c7c4acbd4711c048c0a656b3e3eddecee3f5270aa0d5cc481cba2430ae9b",
+        "url": "https://files.pythonhosted.org/packages/61/0d/483d96fc8e4c627d9c8f50b8b540e8a421b4db59e265fcbaa02dbb408fe4/plone.app.portlets-1.2.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "671de53e539f2898179f639bf1a0db9e76d9198b4ae7ce7389b825838c4645f0",
+        "url": "https://files.pythonhosted.org/packages/71/c2/b5d21bbcccf8457cc75ca1b5c7d91263a930686040c42fe0f20886aadb94/plone.app.portlets-1.2.1.tar.gz"
+      },
+      "1.2b1": {
+        "sha256": "9e7f07114c004883197d69ccae580c4240a02b8d3086a9f31c4d7a9675c41a90",
+        "url": "https://files.pythonhosted.org/packages/14/d3/16bbcdcb8cd7647ac41c959ebd600128203a4010e335d9a132063624d801/plone.app.portlets-1.2b1.zip"
+      },
+      "1.2rc1": {
+        "sha256": "2f30e8889dda5fc019fbed54c8b67feb9ce469027a94bdb15b3f44677cda4e73",
+        "url": "https://files.pythonhosted.org/packages/0b/65/905242aee2c2879f17cdb57681515e462f9e401c2737063ce0469e8875fc/plone.app.portlets-1.2rc1.tar.gz"
+      },
+      "1.2rc3": {
+        "sha256": "c78c37fdc343c8d1730f8ca54f6e6d41b1ce6fb4b6ce161e6fbbcfaa90847d55",
+        "url": "https://files.pythonhosted.org/packages/c3/c8/7bbe1ca8e0e9c3e9e2790248d5de924ab413f668d79e661dd4489fb60821/plone.app.portlets-1.2rc3.tar.gz"
+      },
+      "2.0": {
+        "sha256": "26543d21952c2fa7759b32618d962692e6b85671199ba256bcc769d9f2204c30",
+        "url": "https://files.pythonhosted.org/packages/9c/58/3fdd12fd044ee5c8c2ec3fce05779ce499cef149a8ca781991d116c71411/plone.app.portlets-2.0.zip"
+      },
+      "2.0.1": {
+        "sha256": "39d72ce1ef9ad8cd1add5d41dc7a509a7ec7c11cf0e86e681c9777ac8b3070bf",
+        "url": "https://files.pythonhosted.org/packages/f7/18/b738880ea85a15d55944a85a9d329f6e8e0865b5d5357a911c2fc672ad4d/plone.app.portlets-2.0.1.zip"
+      },
+      "2.0.2": {
+        "sha256": "bb2e367fe1b0f28fbeafacd32b554a33da21d7eb66cad22364a66646fdfa9d15",
+        "url": "https://files.pythonhosted.org/packages/33/01/caf35a9988d1783f638b00e26bd4a1a6ccd4ec6398648766e030db5c094e/plone.app.portlets-2.0.2.tar.gz"
+      },
+      "2.0.3": {
+        "sha256": "e84026b02e5871ce2dc5fd9c38855e7de071bd791105fdd628fa6b73abc3256d",
+        "url": "https://files.pythonhosted.org/packages/08/2c/5e9149272863d0adc4c3cd65308b0e7fd50d6d4a7546ad3a0d66b40c7611/plone.app.portlets-2.0.3.zip"
+      },
+      "2.0.4": {
+        "sha256": "4516f66882caa44be48052f1731d32cef1809c928ae35d2b967952532094105f",
+        "url": "https://files.pythonhosted.org/packages/3c/82/d6b8e7edf35f8a37966fc1c05b86691380d4bb87548f830679f3b840baba/plone.app.portlets-2.0.4.zip"
+      },
+      "2.0a1": {
+        "sha256": "a7d687367dca55ab71a1bb5a050a68cc46764d27d0f96c3982f3bdc7dd8c28fb",
+        "url": "https://files.pythonhosted.org/packages/df/dc/248c8a0486aa36092d2d3ec34a31e2dee1388769a0265bb6c193bada7010/plone.app.portlets-2.0a1.tar.gz"
+      },
+      "2.0a2": {
+        "sha256": "e31e99fb6e9fb0462b4aa0877bc484c84c44384cedddfaeafa0e11ffddcfdaa3",
+        "url": "https://files.pythonhosted.org/packages/cc/50/0d094043f49d3c851723e5cb70ddfc9ab6cf24883533fb7012b51b6c5984/plone.app.portlets-2.0a2.zip"
+      },
+      "2.0a3": {
+        "sha256": "b90e043a5c13cf27a573d96397351a7cda85cf294272a0c6b4b4c0588992059e",
+        "url": "https://files.pythonhosted.org/packages/96/bb/bacd8e78efec8ba4092ffe321062244fe27bb45af294cbbacc72f6dbfc97/plone.app.portlets-2.0a3.zip"
+      },
+      "2.0a4": {
+        "sha256": "b1c858b5df64977fa049452647cdecdefaee327e25d1aac78f5ea14bf542aa40",
+        "url": "https://files.pythonhosted.org/packages/44/1c/df183006765c62bb1cc2d91377a091a59cbd379594d988836a579c59be79/plone.app.portlets-2.0a4.zip"
+      },
+      "2.0b1": {
+        "sha256": "7b1d253da17760223841b87a0ae54a13c9ca73e084223a011742301a41d05045",
+        "url": "https://files.pythonhosted.org/packages/e0/61/33c397f0bacf3482e86bb67f9758734fed3c800e694a5bcd6da70e22c32d/plone.app.portlets-2.0b1.zip"
+      },
+      "2.0b10": {
+        "sha256": "681631f572d4a7ac9df4462918b36a5cbde6d04b16646c0eb9c7408a806d25a1",
+        "url": "https://files.pythonhosted.org/packages/10/44/0df5ee4b7843267017f81121ae40324bdc7febb5122820ff3dcc917f382f/plone.app.portlets-2.0b10.zip"
+      },
+      "2.0b11": {
+        "sha256": "300e5d28cf98bde75d1723bb05d8c00d781316ce151c08c8c24e778dc5692680",
+        "url": "https://files.pythonhosted.org/packages/25/b5/c60a7ecfdb5d79ab2956fc34e31460b8d79257165f21b016a21a4396dbce/plone.app.portlets-2.0b11.zip"
+      },
+      "2.0b2": {
+        "sha256": "247404d8bdd9073e61b242e7431ae8e41c863d489430e07f8d28d1d91f4d86dd",
+        "url": "https://files.pythonhosted.org/packages/54/28/2b1e19afa36c67e785c8d3d7eb78d4b56ec3af3d2ce1c78393aec20fd7d0/plone.app.portlets-2.0b2.zip"
+      },
+      "2.0b3": {
+        "sha256": "488092a6b8f58f3487cfc602f77a149a3c20be1eb8c5d1e6dc008e0922de0ca0",
+        "url": "https://files.pythonhosted.org/packages/01/91/f810514e5671b73d41474d1c6cfffe09a67f55223dcbf962117ee8089aeb/plone.app.portlets-2.0b3.zip"
+      },
+      "2.0b4": {
+        "sha256": "fd38bfb6bf956cc50d0500df4596f0d60a788f8ff8d96e56d9a82e06c49baf94",
+        "url": "https://files.pythonhosted.org/packages/6b/97/d4ca6e9943613eedb9d8e3b5a78b24ba1bf20d5c6b316614363d1be030ed/plone.app.portlets-2.0b4.zip"
+      },
+      "2.0b5": {
+        "sha256": "d5a48ce10aa7402b458baa0ce9ce08e318234a95dc1cf2ea0fdf97ca918c1558",
+        "url": "https://files.pythonhosted.org/packages/c2/da/810bce20f1ae620070fdee781a00e5973bba936b06eb45bbcf8631527afb/plone.app.portlets-2.0b5.zip"
+      },
+      "2.0b6": {
+        "sha256": "2a0ae71907dd8ac45c2cc087de5538a0d259c55f93e7da1c015636ddda7b0564",
+        "url": "https://files.pythonhosted.org/packages/e0/36/333f2903692d9c4b4484dd7e8e21fde20056fa19e61cd31379feda7d52bc/plone.app.portlets-2.0b6.zip"
+      },
+      "2.0b7": {
+        "sha256": "eb3e45b612a2ddfee10301e7704ade5f1ef234d63a7e613e7ece99742edbdbd3",
+        "url": "https://files.pythonhosted.org/packages/13/e2/ef9d448c8715c5057abfb08155d5c841dc5f299602e806b37ec2c1fbb419/plone.app.portlets-2.0b7.zip"
+      },
+      "2.0b8": {
+        "sha256": "6d672bead87c83d30d8d5ab6ee6dc2989f9f9d6a1daab3b9d447f59255911983",
+        "url": "https://files.pythonhosted.org/packages/ee/6a/a2a8f5b5b2d3f14d1462964f35d58ec982975403b2e161449e37e5551334/plone.app.portlets-2.0b8.zip"
+      },
+      "2.0b9": {
+        "sha256": "9205159b6d28bc36512f92984ff57191a09fa50ea111be1cd28adfd4ec5f8d21",
+        "url": "https://files.pythonhosted.org/packages/29/a2/29b7fe348d707c6c47d440ce5f952c6b710633c0a513218a8b5261e87f28/plone.app.portlets-2.0b9.zip"
+      },
+      "2.1.0": {
+        "sha256": "2c8f474600aa408e886740a545d684580efe08dfc259322742ec90197fc05dde",
+        "url": "https://files.pythonhosted.org/packages/1d/ab/7e9d480eb588336c74c7c40a93ad0a0595bb4af97ad0b5e1c36b72c6d6e8/plone.app.portlets-2.1.0.zip"
+      },
+      "2.1.2": {
+        "sha256": "0e07cd0de0231d7339541e117fedba753f77aab9cf4bca9c2741590b61e68233",
+        "url": "https://files.pythonhosted.org/packages/71/6f/4b84f1432574417d89890365e6e404e930dd33a9d6a898188f5541f2f604/plone.app.portlets-2.1.2.zip"
+      },
+      "2.1.3": {
+        "sha256": "ed29568fe7f0969953c24215970e0e072ceab23cafd2d7c4392b2c706b91ac4e",
+        "url": "https://files.pythonhosted.org/packages/6a/4b/4c81ee198e19cd06b7e0111af6aa0947b93893d3cbc949c0382785d064e7/plone.app.portlets-2.1.3.zip"
+      },
+      "2.1.4": {
+        "sha256": "0f5bf55032ac9528f71cc407dd2609acd91a76400fcf57de33e6fcb166a64e08",
+        "url": "https://files.pythonhosted.org/packages/af/bd/81ae17504226a43b58a2584b8f74902c66d6761915bb8a86d6caa75aff28/plone.app.portlets-2.1.4.zip"
+      },
+      "2.1.5": {
+        "sha256": "ebdb3a918c73d4d5763b2b597c3f1e3da98612501596cc6b85f3c2908cdf2a5e",
+        "url": "https://files.pythonhosted.org/packages/3e/c1/1a530dbeb99bbfc1c1b7a17369d69e835e8f3b1c8793d4b1d210b5009cf1/plone.app.portlets-2.1.5.zip"
+      },
+      "2.1.6": {
+        "sha256": "2652a0a0b138082aad77ce759cb40ff140dbde9f5600d1fe1d0f6652396d21d4",
+        "url": "https://files.pythonhosted.org/packages/bb/74/a78816c24ab471870b198ff9c5a78e12fe6a7c0b37787823338b5b8de012/plone.app.portlets-2.1.6.tar.gz"
+      },
+      "2.1.7": {
+        "sha256": "1986d27e31d7ccb326f1aaaca47e603bc0108e5d9bdb3361985f9fdc8ef14628",
+        "url": "https://files.pythonhosted.org/packages/52/41/e65b3ca35de5087271800924f9cf7aa8ab9e89f44fb951a65df6279f5f50/plone.app.portlets-2.1.7.tar.gz"
+      },
+      "2.1.8": {
+        "sha256": "a9b639b9141a119c87de3058583736edbd612ae6238e12e7445b328b4785ec58",
+        "url": "https://files.pythonhosted.org/packages/22/5f/daa82e946d17ebfe01c68aac035288aa8dd258ab8a422afd34fbe90dfc74/plone.app.portlets-2.1.8.zip"
+      },
+      "2.2": {
+        "sha256": "4a0c8e833a1ae91a727ce685be25fb4bf380600e5269d61b1f7fbca3310a234f",
+        "url": "https://files.pythonhosted.org/packages/b1/31/4994d7cd853d46b41d334d5e72c2944c6de8461265d35201bf5703e74494/plone.app.portlets-2.2.zip"
+      },
+      "2.2.1": {
+        "sha256": "4e7c8e24459e470ca54b8780a76381094776349b4f4034e58c57ebeee0bc5b53",
+        "url": "https://files.pythonhosted.org/packages/d8/82/cadc1e5929e694b1d09ad32c1d6ec28f72e655d7f31f75fffb3e7b84f8fa/plone.app.portlets-2.2.1.zip"
+      },
+      "2.2.2": {
+        "sha256": "55fc4449c5d7914a436821e3f8315abb8843631750fc128ce9bff84b1ce09532",
+        "url": "https://files.pythonhosted.org/packages/0f/f5/a72efabdd617c69fcd4a9b8e0e3be77a8d46fd10f966cd9ba897dd9ab9fe/plone.app.portlets-2.2.2.tar.gz"
+      },
+      "2.2.3": {
+        "sha256": "c422b4569d744bea275afa63bd81acb9de20fcd34fe4f386799859dbfb0803f8",
+        "url": "https://files.pythonhosted.org/packages/d8/39/f05fbe2de24f020a463ec6318b60397180acc448baf6066f58b7199de672/plone.app.portlets-2.2.3.tar.gz"
+      },
+      "2.2.4": {
+        "sha256": "cae636535952807a7c536a890b896f72ee86c9510c29173f8f7164a43213ba4a",
+        "url": "https://files.pythonhosted.org/packages/30/51/aa9f52107e0ee42b1b3e1dcaefafb091bc13cfd411402538cec2aaa9eb3e/plone.app.portlets-2.2.4.zip"
+      },
+      "2.2.5": {
+        "sha256": "0684e87e34d1df1986f42a32c842bf7de807690ff471149a9ed2870c4e76361c",
+        "url": "https://files.pythonhosted.org/packages/17/6e/d1c4768656efed654d8a7b5869ed4643fd6d0f6f3cfa0b268178291eb512/plone.app.portlets-2.2.5.zip"
+      },
+      "2.2.6": {
+        "sha256": "7d0e249ee1a529e211b0a996f13295ab820b40e66c290d9a78ce48e6411932b3",
+        "url": "https://files.pythonhosted.org/packages/a3/d6/0d0e56dbacd3b714e55e9d79cd40e9fa188fddd4c2cd60569b796cae2b80/plone.app.portlets-2.2.6.zip"
+      },
+      "2.3": {
+        "sha256": "4eea755f14b25f034942551bb095e8506b594965a1339e0322d5c1fb24b68687",
+        "url": "https://files.pythonhosted.org/packages/e9/ef/227aa753d538685299645191b1ae6e66e0b0cb845ae068ace94b5c140537/plone.app.portlets-2.3.zip"
+      },
+      "2.3.1": {
+        "sha256": "d5a35c690846454f535e376f39758ff84e2eb2b17dcf62cf1fdf2a645bd730b0",
+        "url": "https://files.pythonhosted.org/packages/20/52/ac8dc36809beb5d948ec3c7525ef4e244bf761e1ca056f659f766967f3fe/plone.app.portlets-2.3.1.zip"
+      },
+      "2.3.2": {
+        "sha256": "71ae616058fdc3afe540cbafabb282be07ede4d2645c64715b8fc3c244007029",
+        "url": "https://files.pythonhosted.org/packages/43/d7/2c6b89b3329018c7ca749b08bba31fc9c2169b3a5a794cfe9d967299da97/plone.app.portlets-2.3.2.zip"
+      },
+      "2.3.3": {
+        "sha256": "642d1f685a2c3d912617d27f71855080c76ae6317ccc6a8a46d8da5fd02fde7c",
+        "url": "https://files.pythonhosted.org/packages/70/2f/ca6deb916318f3436974266528485be1ad7a4554e233f9e7330232e92635/plone.app.portlets-2.3.3.zip"
+      },
+      "2.3.4": {
+        "sha256": "e89ae80f5692f564747977aa6a2493e650ed45e827351cf683bd1228a984ebb0",
+        "url": "https://files.pythonhosted.org/packages/e6/7e/3ba28592cd96b3ce4639057120464507340c037a354c49c778778278f977/plone.app.portlets-2.3.4.zip"
+      },
+      "2.3.5": {
+        "sha256": "92de69d8037b34c6a33257ca0593c89aad89288f93cfb0860479e2ec8ecdb70b",
+        "url": "https://files.pythonhosted.org/packages/b5/fc/db83ee841f784db6dd1897c9868b06cb189dfb411c18f6b2846b42e50dfb/plone.app.portlets-2.3.5.zip"
+      },
+      "2.3.6": {
+        "sha256": "7546c819fcd8909b700f3ca9814f1fba8a6995c19bc73eafd61fa819adfc4745",
+        "url": "https://files.pythonhosted.org/packages/35/91/0ca4f493ac4cd3e73d3e19ff66824a1f881a8fcff2348cf092a390e056f1/plone.app.portlets-2.3.6.zip"
+      },
+      "2.3.7": {
+        "sha256": "6b1589f8b6f76cc4af5ef0f7459cfd9d5b25fabf7f980c853f80ef5b682ccf7d",
+        "url": "https://files.pythonhosted.org/packages/8c/f3/68b7aa49c97f49d6e42b877542fac1fadff2ec43e434ae5722e7d451358b/plone.app.portlets-2.3.7.zip"
+      },
+      "2.3.8": {
+        "sha256": "93b607305458d28c053cfc34884c9901099199c2464e42c761e8ecb851ac0a82",
+        "url": "https://files.pythonhosted.org/packages/a8/47/62b0dc52ac1dbea4b4d9efd17f28ec453cb2d86efb58478e3b140af41db4/plone.app.portlets-2.3.8.zip"
+      },
+      "2.3.9": {
+        "sha256": "39fa51f64c00b2cb35311e915bf6cb7a8476680d18bf01aeb3b1d04ae311261f",
+        "url": "https://files.pythonhosted.org/packages/e4/12/95deffcd84d41d6cb8476c55ae94c6531dab056b72bee0b7656e2b92b70e/plone.app.portlets-2.3.9.zip"
+      },
+      "2.3a1": {
+        "sha256": "2a62c26b19cad0b83bd527d571015e7a44e34b827bb46a030a6ea60d967f74bb",
+        "url": "https://files.pythonhosted.org/packages/5d/97/04b0c6aafacff4056d4eee83d27d36226d8d1ae6e7a12ab973041811b4b9/plone.app.portlets-2.3a1.zip"
+      },
+      "2.4.0": {
+        "sha256": "1b7f08f9758db2df55dacdccfc6e539ef66138420036ec1e9861b37fc9781e6d",
+        "url": "https://files.pythonhosted.org/packages/f9/e1/0096fdcf67473cb832f05dcb37671603913111749c2a71528914fd9fb906/plone.app.portlets-2.4.0.zip"
+      },
+      "2.4.1": {
+        "sha256": "91dfbd10114618f458cf646799c47a4dbd9e272b8a9fd6b2a43883bb2be334b5",
+        "url": "https://files.pythonhosted.org/packages/25/b6/28e974436ac173364c800aefaea8627af5427d50d8454df4254f958a360b/plone.app.portlets-2.4.1.zip"
+      },
+      "2.4.2": {
+        "sha256": "f6874b47474fe10e7ef16c16692dbb0949b5eea17696bd99761d206705f9fe78",
+        "url": "https://files.pythonhosted.org/packages/52/c0/81977c3d956cbfcc1f8727a30fd735886e1deb0704b948759a9c91c221da/plone.app.portlets-2.4.2.zip"
+      },
+      "2.4.3": {
+        "sha256": "6bc73ecef406b7c0f2ccbfe0340c1ce136ac32e395ae02eafb0b7f2aaa015f85",
+        "url": "https://files.pythonhosted.org/packages/1b/5b/a646000d382c7ccab2e8d35ab0eff7a75b3b0892a7e59941c245c786eba7/plone.app.portlets-2.4.3.zip"
+      },
+      "2.4.4": {
+        "sha256": "1470bf0a662458940404f9d50c364fd6121b3dfca67cf79f4f1dfc16168bb599",
+        "url": "https://files.pythonhosted.org/packages/91/54/01956d69200f2bedc2359a4823d4332ef449e642dfe3f8cc1cb7d514e295/plone.app.portlets-2.4.4.zip"
+      },
+      "2.4.5": {
+        "sha256": "2c78f18440dae18a05df6f01afb608241f577add1841cbe66aac856b1326151a",
+        "url": "https://files.pythonhosted.org/packages/c6/59/69061091d2e9edab039ac3fc754b6b0c068c0b537c675772e29edd676848/plone.app.portlets-2.4.5.zip"
+      },
+      "2.4.6": {
+        "sha256": "48bde605708eb6227291a5cfd772abf2509efb442f71ad2001f3403acf69b00c",
+        "url": "https://files.pythonhosted.org/packages/46/69/b8a144925cae51f65b7ee312beacfe48bf48d54b4e2fa4ab18435030fa93/plone.app.portlets-2.4.6.zip"
+      },
+      "2.4.7": {
+        "sha256": "f2ba511fb2b42a65d445d7c9768612ad63bc434d708b1200832467ab23e001e8",
+        "url": "https://files.pythonhosted.org/packages/64/bd/164d80bdb627cf9cad3cf42bee46003dae320957c277ea90b3637aeb1d14/plone.app.portlets-2.4.7.zip"
+      },
+      "2.4.8": {
+        "sha256": "1904698a6df87c3caf2c605234a7c8eee2d57a02712d663f8f21f97ba17e4da5",
+        "url": "https://files.pythonhosted.org/packages/25/7a/c99057f80818d1896a94728b22bccd720c2b8f57945c6036785f47f8aceb/plone.app.portlets-2.4.8.zip"
+      },
+      "2.5.0": {
+        "sha256": "6eb4911044d2300c5a29e73ef88ac3996d0dc1ddad63371cf25e653d6cbd9035",
+        "url": "https://files.pythonhosted.org/packages/2d/65/4d6f03d92d9b60c563b59078e7402dd8f98c408d5235afec2092b4d4a1f2/plone.app.portlets-2.5.0.zip"
+      },
+      "2.5.1": {
+        "sha256": "38a294f47e293f508e4f1bf8eb6afb3d29876e4040e23138d5d7e4389241c191",
+        "url": "https://files.pythonhosted.org/packages/6f/15/973d61f790823777ed70fe02a9397eef82302b6ecddbbb58c387bd432476/plone.app.portlets-2.5.1.zip"
+      },
+      "2.5.2": {
+        "sha256": "7103172dd322c4ca9186a6e5f0cfd87771533d13518bede0be06b3694f5b225e",
+        "url": "https://files.pythonhosted.org/packages/5b/ac/698764711b85779fbe6d3d4472350e061c168d52a4e55ec7a9aeee4f664d/plone.app.portlets-2.5.2.zip"
+      },
+      "2.5.3": {
+        "sha256": "2bf6308b0c0967e868e2bfba8be8280c282b1b9fd044de80156e1f73a2573189",
+        "url": "https://files.pythonhosted.org/packages/d3/b0/e082899837b46f810887219558c8675dd5937a207a90fe63ed178dcf8c0d/plone.app.portlets-2.5.3.zip"
+      },
+      "2.5.4": {
+        "sha256": "3fe285ca08c1fb15728664782afdee21aad3f049ef03ac1c0e75c22d59c74a5f",
+        "url": "https://files.pythonhosted.org/packages/37/23/836b1c73ba0f6364d72f4c97596d451f7371941e714c3f2dcd06a478bd57/plone.app.portlets-2.5.4.tar.gz"
+      },
+      "2.5a1": {
+        "sha256": "bf5d0eae55e02dc4e70f406a79724edce2222ac46cfee1512d66c0db844716c7",
+        "url": "https://files.pythonhosted.org/packages/a4/f6/d9e35294e30d8e58c5a2ddd4ba480c9acfd1e17ee4b6209df603eddc2d46/plone.app.portlets-2.5a1.zip"
+      },
+      "3.0": {
+        "sha256": "f5242f5832a7c02526479a6c5c6090ba64d0ac9a9c3ad7c653a7b67938e267d1",
+        "url": "https://files.pythonhosted.org/packages/23/5f/be3a56a88614e743f900aa494d76f55089b61cea5be5ca6af91a0b204393/plone.app.portlets-3.0.zip"
+      },
+      "3.0.1": {
+        "sha256": "fda207d9b9226069436d1fffb4d1e3c68224771dec916cf2f8e436be9ba0607e",
+        "url": "https://files.pythonhosted.org/packages/e3/ab/f14a54b17b63ec0467aea7e142cc62ba95a7e31a3a9dbd4b8f1429fbc02b/plone.app.portlets-3.0.1.zip"
+      },
+      "3.0.10": {
+        "sha256": "7a7207ea8e237fefcf39516e40166a5121d20e27a87f68961a927159eacb5cdc",
+        "url": "https://files.pythonhosted.org/packages/2f/bd/b4cbfed85a0dd906f012e8d530834328c82a85554752cc10c872ad0b2fe7/plone.app.portlets-3.0.10.tar.gz"
+      },
+      "3.0.2": {
+        "sha256": "3f9a655214e2209ae90b7effb848410e8e64a1df79a73c4d130ec22af368e139",
+        "url": "https://files.pythonhosted.org/packages/a9/53/b2448e62d96c736c00b07b9ddb6dff3fed2393c3caba39d76920c2261a83/plone.app.portlets-3.0.2.zip"
+      },
+      "3.0.3": {
+        "sha256": "e7392ee300e2fbd3ca8ec734ebd601d14e5a2cbf53949b15d8fcd4f19aeebb2e",
+        "url": "https://files.pythonhosted.org/packages/d7/4f/f611d9998f6cc15f248c857200f2f80bfa4ea9a72455ad53f4a12c21d939/plone.app.portlets-3.0.3.zip"
+      },
+      "3.0.4": {
+        "sha256": "0fc09f5501fdcd7ace50809f95d7e253c98d38cf59cb33bbcd0f57f693578629",
+        "url": "https://files.pythonhosted.org/packages/9e/77/22ebd2855aa3fe6cf080ac1d7b24c5fd48421478064a78ef71066bb35fbb/plone.app.portlets-3.0.4.tar.gz"
+      },
+      "3.0.5": {
+        "sha256": "2457c9e8e32c394044e2994781c088f63793d1697acb8e2beac68ff2abf4cb58",
+        "url": "https://files.pythonhosted.org/packages/ab/2c/8f7bf1139519ea3d1c475a60013f3e030f23228cc814276cad9321f37d00/plone.app.portlets-3.0.5.tar.gz"
+      },
+      "3.0.6": {
+        "sha256": "aa36999d889ac13dd23ee204eca2fd3e8559a86dd095eb1147a59fbbc6aeda0b",
+        "url": "https://files.pythonhosted.org/packages/ef/69/66d7d106721e4bb570198cecffe36cd4055ff30128b018e0f7b1984bd3da/plone.app.portlets-3.0.6.tar.gz"
+      },
+      "3.0.7": {
+        "sha256": "21b61818f741b40995c1526d3792b9cdd8c391fa7f49f1803ccb43346f9ae80d",
+        "url": "https://files.pythonhosted.org/packages/25/9d/124e4508ccc63d56d2e75935e1eba8415248ce32b0f7671d0e8581c1b557/plone.app.portlets-3.0.7.tar.gz"
+      },
+      "3.0.8": {
+        "sha256": "1f25177b21b7856cd85ba1e089da087a273bea8e3644d1578b555a650d1a95ce",
+        "url": "https://files.pythonhosted.org/packages/d0/2b/8721e06e38a2a73f30645d4ea191435e1a8c04aa2b176516ec9ee4faccb8/plone.app.portlets-3.0.8.tar.gz"
+      },
+      "3.0.9": {
+        "sha256": "469ff9657143fe32c8258ee826da137dd4455bf16afc89693d518fa4dfd1fa60",
+        "url": "https://files.pythonhosted.org/packages/2a/fd/02fcfb005171aa715358921a46e7491a9c430b7b95404a080a7a7119fe44/plone.app.portlets-3.0.9.tar.gz"
+      },
+      "3.1": {
+        "sha256": "98e5dc21696423baa4cb50d104335ee93964c30af38b234ea885a4f42f640d5a",
+        "url": "https://files.pythonhosted.org/packages/50/c0/226c22fe5086fac5c15899cfbf71a1a5f93c9ef969bb437f2930c1fcb61a/plone.app.portlets-3.1.tar.gz"
+      },
+      "3.1.1": {
+        "sha256": "4034b942a11493e112ad8e0587ff69852f0055118d9c195f037b893bcafeba98",
+        "url": "https://files.pythonhosted.org/packages/8c/09/1ec04e0407e3fdcc0b6ab1cd7f5b6bb6a080a5bd2ba930f83217eadc760a/plone.app.portlets-3.1.1.tar.gz"
+      },
+      "3.1.2": {
+        "sha256": "a30ab11f9e4b85af1786c439e885600914f2507f22f7da64f8a7a83960d4c2ba",
+        "url": "https://files.pythonhosted.org/packages/d6/f2/231bd22d5944d618aeb615513084e929651c24d1c6f4c3ab02085b4b568e/plone.app.portlets-3.1.2.tar.gz"
+      },
+      "3.1.3": {
+        "sha256": "800cd4d1c820181f43c0ac3b3f2f39eb97ab016d7f19fad6cba80233422cbdac",
+        "url": "https://files.pythonhosted.org/packages/7a/b1/964631378392661691f1ba9d491f0befa1a6d764f34faeaae5e22e06b55a/plone.app.portlets-3.1.3.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "92fd96434192c8460fa4032fb5cdf350f5724651df74342a5f7a3d7e783db3d1",
+        "url": "https://files.pythonhosted.org/packages/d0/d7/92d438a02b916e1ddf8db84bab0b6003f35eed5fe2299ed605ff29e848aa/plone.app.portlets-4.0.0.tar.gz"
+      },
+      "4.1.0": {
+        "sha256": "fa48d063ef81c2ea2975336e575729f268c692828c6b48d8af4262be49679758",
+        "url": "https://files.pythonhosted.org/packages/ac/17/0cce96326a2016f5ff2d078f9acb6a071fde8b024bdca4661eefa7dd878b/plone.app.portlets-4.1.0.tar.gz"
+      },
+      "4.1.1": {
+        "sha256": "35dcb8df01469debddc6b766fbbdcf59732f096847c9d6282e620ea6e0e62503",
+        "url": "https://files.pythonhosted.org/packages/d1/1e/e3e63dbaeda146c98115a0782c7e81f7c8f62633c1e1130f2cbdde659817/plone.app.portlets-4.1.1.tar.gz"
+      }
+    }
+  ]
+}

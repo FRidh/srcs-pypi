@@ -1,0 +1,33 @@
+{
+  "latest_version": [
+    "0.1.23"
+  ],
+  "meta": {
+    "description": "Debian package related modules",
+    "homepage": "http://packages.debian.org/sid/python-debian"
+  },
+  "versions": [
+    {
+      "0.1.13": {
+        "sha256": "620dfa4ce886b6ccf081d821aec14b8da1c0b111d8c8a59c5057032945c482ff",
+        "url": "https://files.pythonhosted.org/packages/83/19/ee37750f1f62ba34110f8185db227c6b347d86acc08965dbdb09154a2352/python-debian_0.1.13.tar.gz"
+      },
+      "0.1.16": {
+        "sha256": "69e2673b33bb8c281031860234dce4aec2ae2a6dfa4ce0adc9f52318121dd38f",
+        "url": "https://files.pythonhosted.org/packages/76/a6/f8a4083e567b56c90a246bd2cf3684c6dfe4ea504b9f45812dd15a955ce4/python-debian-0.1.16.tar.gz"
+      },
+      "0.1.21": {
+        "sha256": "1e6447da1fcc2d7654d4d26e1e7cfc7086824ab010985ddef234c01d5255744a",
+        "url": "https://files.pythonhosted.org/packages/a2/92/474e63303a22bdde7b6817d2b09f7227400404bc20eac407d2bfbffbf98c/python-debian-0.1.21.tar.gz"
+      },
+      "0.1.21-nmu2": {
+        "sha256": "2c2cfeef00ea77bd6cff8591c1bc768d2d0099f064e61af634e4da9998623e69",
+        "url": "https://files.pythonhosted.org/packages/2f/87/a499d8ac21c4356bcff3d6181dc32556d5464c535280b9a25376295eb8a9/python-debian-0.1.21-nmu2.tar.gz"
+      },
+      "0.1.23": {
+        "sha256": "d07a0fd581f36d35eab5d95517fb0fd8bf044d8ddff39052b18349cbed576ea4",
+        "url": "https://files.pythonhosted.org/packages/2b/b3/0e6b0692c9e12ff516e6428fb3b82005414d78fa1c541eeae938a9e4e90d/python-debian-0.1.23.tar.gz"
+      }
+    }
+  ]
+}

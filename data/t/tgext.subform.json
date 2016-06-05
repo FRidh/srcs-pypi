@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.4"
+  ],
+  "meta": {
+    "description": "Allows users to create TG applications with CRUD-cabable ajax subforms",
+    "homepage": "http://svn.plone.org/svn/collective/",
+    "license": "mit"
+  },
+  "versions": [
+    {
+      "1.1": {
+        "sha256": "3aa0708cf3927264672684c2cccb43c011beece54328a135189f12bb83560dd7",
+        "url": "https://files.pythonhosted.org/packages/aa/33/d324556ee424fc23a52e6ee41f55e625fd0f79adf77c7627a4704f0975cf/tgext.subform-1.1.tar.gz"
+      },
+      "1.3": {
+        "sha256": "17c57fceada79c0026cc1025b6469aa350dfaf60ca64e966530b3516119439a6",
+        "url": "https://files.pythonhosted.org/packages/06/eb/788bafb7f9ebec59d5405668c95f3fbbfdcce2405d30e31665f01d9c5622/tgext.subform-1.3.tar.gz"
+      },
+      "1.4": {
+        "sha256": "0c0179d9305c7d1013ffff14ca7c7d545438db067a7a116b0c1fbe35a67b25e2",
+        "url": "https://files.pythonhosted.org/packages/56/35/4bfc04635ba0f150e42c1d31d95bf9184b358251c686fe9b7964c49e61c7/tgext.subform-1.4.tar.gz"
+      }
+    }
+  ]
+}

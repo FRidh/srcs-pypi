@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Use any Smart Folder as default RSS feed of Plone instance",
+    "homepage": "http://svn.plone.org/svn/collective/collective.siterss",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "f866c663092239cec7d0410015298a2c94894fba6f91ef8dd07eab889cb3b031",
+        "url": "https://files.pythonhosted.org/packages/1d/c4/d31acd795910b8d7dd75a871e2240aae257b7a76bdc20b19ab1d216d4fdd/collective.siterss-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "b2ef8e6c55e74d146f2f2209105d3635c2e95a85bccdcca86d30fa1ff7ff3282",
+        "url": "https://files.pythonhosted.org/packages/5c/dd/8158b97101badfacdc3a7df4efde6a7dd6f743f10094e152e47d2cd91adc/collective.siterss-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "81ec45fc94144bc4919c478a01360f3d85ff8a7c9382fd1d4cc0ddbac037ebde",
+        "url": "https://files.pythonhosted.org/packages/74/7f/7707306e911eebdd6bc32aee21066185766d7641a4fdce2117f22d0534bc/collective.siterss-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "5899733620315c01f76688b087d5ee5ca738172d2aced9aeeec6d388348f93d6",
+        "url": "https://files.pythonhosted.org/packages/67/e3/094614cc73e66cc929359449314fe7ec324d0facf09833bfafc8b754c48c/collective.siterss-0.4.zip"
+      }
+    }
+  ]
+}

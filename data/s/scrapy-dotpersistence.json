@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "Scrapy extension to sync `.scrapy` folder to an S3 bucket",
+    "homepage": "https://github.com/scrapy-plugins/scrapy-dotpersistence",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "34eeeaebbab2cd92374a9ec7aa2b9451cc6bfe5c6e6bb857d7dcec08d58f810c",
+        "url": "https://files.pythonhosted.org/packages/1e/6c/3a5505068b31045cb6e78a8231d46dc78e5033da92c84c5424d105e7ec6e/scrapy-dotpersistence-0.2.0.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "45af14c15d5bed543c24a386484640e5f0f9305126d9e5c854d40b6dbb5812fc",
+        "url": "https://files.pythonhosted.org/packages/86/cd/870b5af95e4ee47ccf86a55cae8d03e9e25961c411278d0fb738f133c9fb/scrapy_dotpersistence-0.2.2-py2-none-any.whl"
+      }
+    }
+  ]
+}

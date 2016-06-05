@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.8"
+  ],
+  "meta": {
+    "description": "Python wrapper for OTRS (using REST API)",
+    "homepage": "https://gitlab.com/rhab/PyOTRS",
+    "license": "The MIT License (MIT)\n\nCopyright (c) 2016 Robert Habermann\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+  },
+  "versions": [
+    {
+      "0.1.7": {
+        "sha256": "d5b8a3eef15d8247855678add8f24cf127d95340301ec99e45e1b859715794e1",
+        "url": "https://files.pythonhosted.org/packages/ff/5c/fb220e4393a0efc5a76c609bb84848857b0885e5a8bb10ca24b69b034a6c/PyOTRS-0.1.7.tar.gz"
+      },
+      "0.1.8": {
+        "sha256": "e2692aed1341d5d15d1d662bbf85e1776116bd0dfd4240fef0da3e9fa8ea1442",
+        "url": "https://files.pythonhosted.org/packages/c7/bf/5855d428b73b5fd4fc32d55f65dbf2dd9037f120ae87c1d1ca10263b3e99/PyOTRS-0.1.8.tar.gz"
+      }
+    }
+  ]
+}

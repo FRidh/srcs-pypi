@@ -1,0 +1,134 @@
+{
+  "latest_version": [
+    "4.0.1"
+  ],
+  "meta": {
+    "description": "Tryton module to authenticate users through LDAP",
+    "homepage": "http://www.tryton.org/",
+    "license": "GPL-3"
+  },
+  "versions": [
+    {
+      "1.8.1": {
+        "sha256": "c33e539b16f065c1992a347c409d9a2d11b190821ba42a85a41682fc475a93a7",
+        "url": "https://files.pythonhosted.org/packages/0c/20/9bb2542b4bb97cd6d29ad96e20e61e85ee2b9b2ced8fe9bf91a7987cd28a/trytond_ldap_authentication-1.8.1.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "f13cab442723c68e5ee55a5fea0e6bf778f5fee73b3b1ecdf59b7ca522c7b214",
+        "url": "https://files.pythonhosted.org/packages/fe/03/773eb65c3b81029be4496ed26dd8e173fdcca82bba384dd24a7d81022321/trytond_ldap_authentication-2.0.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "35ecb7dfe062f5bbff90598a49cf146cf93f27b06d9bdefabc9be1d1e05f89f8",
+        "url": "https://files.pythonhosted.org/packages/c1/06/c1237b667ac61136c98d73580a564327f5136472c35be6f57ceac465e6eb/trytond_ldap_authentication-2.0.1.tar.gz"
+      },
+      "2.2.0": {
+        "sha256": "791d04452458e0c64bc4f7324b27b253f27e58670c9d17a314ecdb94c2088eb0",
+        "url": "https://files.pythonhosted.org/packages/42/e8/c246ab909f73c6392907514aae29377d5821058bb4e0f164391f7ec95683/trytond_ldap_authentication-2.2.0.tar.gz"
+      },
+      "2.2.1": {
+        "sha256": "38f224920d14b6114e14513342173dfa730881f91a31ddeee0f756e49aea07f4",
+        "url": "https://files.pythonhosted.org/packages/45/1e/7ff4e12af496d3cce41e3a2ce0d41dc39d6a1ea10d6d5017806b6b0eefd6/trytond_ldap_authentication-2.2.1.tar.gz"
+      },
+      "2.4.0": {
+        "sha256": "cc72a6a39ec0b2a24fbcd6ba3d43e4d334f81d018bf1c235f498472b1b57c1b0",
+        "url": "https://files.pythonhosted.org/packages/e4/56/2de434dd965e376accfb73b0d727d0da8057152cf4fc650591cc3765a67a/trytond_ldap_authentication-2.4.0.tar.gz"
+      },
+      "2.4.1": {
+        "sha256": "af1a2ce5d89c79f2aa24f3f3c4cdd6e1d583446f758db1c42e44b7c253d4e2e0",
+        "url": "https://files.pythonhosted.org/packages/7b/aa/3804d98d67dbe6be5e5341828958aa751689f41af883845b46ed46535b19/trytond_ldap_authentication-2.4.1.tar.gz"
+      },
+      "2.6.0": {
+        "sha256": "cca1484887dbdeae858ef8dd6d528c9d4b5efbee807000904864a022287a323f",
+        "url": "https://files.pythonhosted.org/packages/29/c3/c40fe4c9598b477a472dfa8a926e6403ed102d2a16971d5f1de5b79796ef/trytond_ldap_authentication-2.6.0.tar.gz"
+      },
+      "2.6.1": {
+        "sha256": "1ccc72b7ab28d5f9cd7816f0d206cc3853fcb48ca6d107cd6c62891fe5619861",
+        "url": "https://files.pythonhosted.org/packages/22/05/1ee1d3d70b61660e429b1fc88d94e631133d9d5c16535773d3872604e22c/trytond_ldap_authentication-2.6.1.tar.gz"
+      },
+      "2.6.2": {
+        "sha256": "5f236a970ef7d85a69420c9800b0d4189815e8b607422ea4d45a1e1cb2175487",
+        "url": "https://files.pythonhosted.org/packages/b4/63/4c3339a2933743cad9ea321644e499353f9433b3c0fd988535d629b38e42/trytond_ldap_authentication-2.6.2.tar.gz"
+      },
+      "2.8.0": {
+        "sha256": "839a3040d44fc7180b687ba3b136894daa8a38a26f88dbe62716054aafcc7e35",
+        "url": "https://files.pythonhosted.org/packages/77/4c/c203981ab1f16ff895d45eaf07c5501f85e08f3eb5e8aaa40b901519481e/trytond_ldap_authentication-2.8.0.tar.gz"
+      },
+      "2.8.1": {
+        "sha256": "303562b9d3bdd7824dc27f298383bbb216aa7cbe13fddee31efaf738a1977881",
+        "url": "https://files.pythonhosted.org/packages/d0/13/236a070ef488b236de4c668237af7e9ed2f3871bdc6dbfafd9c1e4e32461/trytond_ldap_authentication-2.8.1.tar.gz"
+      },
+      "2.8.2": {
+        "sha256": "812b88994e24b0b71faa63fc2b70ccdb902f4507624361438754fd6fbf7e8669",
+        "url": "https://files.pythonhosted.org/packages/63/86/8301772e6d90f40186e4002948605bb7f875f5e7a6fb63baa8ad648cdf5b/trytond_ldap_authentication-2.8.2.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "80f3852f5de0bb9fdc605849384e7bc40e8cf1edeef88ba0bf649d2ab60acf71",
+        "url": "https://files.pythonhosted.org/packages/31/bf/d49f766c2ebfc0adb7b2ca25c3e719c4c7388a6091cff7fb5f2a913fe6a4/trytond_ldap_authentication-3.0.0.tar.gz"
+      },
+      "3.0.1": {
+        "sha256": "01a9ff53758d1c1747948282ebb3e3c02b465d30686a1f1bcd15eb7769d43a29",
+        "url": "https://files.pythonhosted.org/packages/e1/ec/c0ea5ae9ea294ce4f593f754b434251ecf1dff005491f26def494f2977ef/trytond_ldap_authentication-3.0.1.tar.gz"
+      },
+      "3.0.2": {
+        "sha256": "90e17ed9faae464f53d954c893b43f78cdbc12bf5f369bb953f0088686501dc2",
+        "url": "https://files.pythonhosted.org/packages/75/70/aab09f58842583915e04f3e51ef4fe873cdb9e783fa38c165a7d83ed1a57/trytond_ldap_authentication-3.0.2.tar.gz"
+      },
+      "3.2.0": {
+        "sha256": "e8721123a0b6afe737c48eb082b8af7fc144c22c01812ffea80fa34c9df45a86",
+        "url": "https://files.pythonhosted.org/packages/05/b1/cc853b5633e1823f79f047f91ad4365abeee8774603d759d56433abbd24d/trytond_ldap_authentication-3.2.0.tar.gz"
+      },
+      "3.2.1": {
+        "sha256": "1f81cddfadfc76a3e4f1bf8ae40c2bde0ac0c6509d1f63430b2e5a60c12d3538",
+        "url": "https://files.pythonhosted.org/packages/b0/a4/69b440817a30387b7a324a6a8d3cd234af5fb7b23b157772efad6c21826d/trytond_ldap_authentication-3.2.1.tar.gz"
+      },
+      "3.2.2": {
+        "sha256": "6f7e7e7901f017b0023542115fe552210b3d3c8b037b273bee08cbe1c9ac9eee",
+        "url": "https://files.pythonhosted.org/packages/38/16/c2493f4b7317b621c90b1c7fac8bab74d05c40059979fe3546aa49ada4c0/trytond_ldap_authentication-3.2.2.tar.gz"
+      },
+      "3.2.3": {
+        "sha256": "0cb2732186b24e0200ae087a8705774b200636d390a9de5399f39e6bdddc14d5",
+        "url": "https://files.pythonhosted.org/packages/b8/06/455db61b413ae31a1046a64b8856dd4d49b8f68759f80fe812a12ac137f5/trytond_ldap_authentication-3.2.3.tar.gz"
+      },
+      "3.2.4": {
+        "sha256": "8580c4272d27219cdb97ca7b14ae45d89d7da810f0b9a7f46d841353f3b1cfd2",
+        "url": "https://files.pythonhosted.org/packages/43/37/58e48d366d5ed14de93d134f9cc04b23643dfe1e26b2a2a10f56fd9f6954/trytond_ldap_authentication-3.2.4.tar.gz"
+      },
+      "3.4.0": {
+        "sha256": "e4ed325ea31b58b608fcca4c91dac4739e1628bf9ba5b106d3f0b76bac6bd018",
+        "url": "https://files.pythonhosted.org/packages/35/8b/1e617a552c8fcd52e049f75cbbef050622bc6ab38737d51de26fe228b507/trytond_ldap_authentication-3.4.0.tar.gz"
+      },
+      "3.4.1": {
+        "sha256": "f81155400a8a74485af8ee54e2f5a9c62b803d7688c531242c64760b694a4185",
+        "url": "https://files.pythonhosted.org/packages/23/a6/ac0995c8165469a37b0ba7a468b167723abe2a990ac78f952a8a0439a0c9/trytond_ldap_authentication-3.4.1.tar.gz"
+      },
+      "3.4.2": {
+        "sha256": "a706ac69242ae7447ba9d57dd97cddf218fd3f7024ae916837612f254bdf83ac",
+        "url": "https://files.pythonhosted.org/packages/dd/e1/c419286fa13a73d5971541d88d5b6aa46aaf3fe3ef30a7e85a6bc59fb3d2/trytond_ldap_authentication-3.4.2.tar.gz"
+      },
+      "3.4.3": {
+        "sha256": "7eab5f7d3877cca6a6f7bbc9e4940c13c5a19c241533e5730df17a4038548049",
+        "url": "https://files.pythonhosted.org/packages/26/3c/0eee2554147086554db45a631c21c2ec9e101d2479e7ffd2936f7f06b49d/trytond_ldap_authentication-3.4.3.tar.gz"
+      },
+      "3.6.0": {
+        "sha256": "2e50f396e243b251b2d383d704fbd948c2fdf034b7c8102304f28a3d81422de3",
+        "url": "https://files.pythonhosted.org/packages/da/6d/e11857dcab16a93a2e6c676592f772e40fcfda2584277db99e838c189c85/trytond_ldap_authentication-3.6.0.tar.gz"
+      },
+      "3.6.1": {
+        "sha256": "03b8aa504c7745156c3ac2a30a6c5f1fad46d5adb68848c226512620fb5585e0",
+        "url": "https://files.pythonhosted.org/packages/10/90/f9d6b2685a7a0d920096d54ce15ba40c3ffdef241115b655f59688736a85/trytond_ldap_authentication-3.6.1.tar.gz"
+      },
+      "3.8.0": {
+        "sha256": "0dc94e55f2af99571a0296a2292d6645455a51d521bc0628499ad229cbfc52a8",
+        "url": "https://files.pythonhosted.org/packages/45/0d/76a0e6e5a6e8369a43eed066741522c5130581de3acb0ea3bb915a5906bc/trytond_ldap_authentication-3.8.0.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "e5d0da3503f6007b78ba31ec92d1080913695d151d36384b4caf75a32d93bfd3",
+        "url": "https://files.pythonhosted.org/packages/dd/d0/ee223bbe46c0ddee01251268111344a983c8bb813880cdd5a71ad31fca7a/trytond_ldap_authentication-4.0.0.tar.gz"
+      },
+      "4.0.1": {
+        "sha256": "435113db3c77163e31ecf22db3a48588674fbe400e9a65aaa96ecc77b6242e7c",
+        "url": "https://files.pythonhosted.org/packages/88/49/08316965badd8098db2d3da329555c32b2758b97d65689530d66bfe783f2/trytond_ldap_authentication-4.0.1.tar.gz"
+      }
+    }
+  ]
+}

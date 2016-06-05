@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4.1"
+  ],
+  "meta": {
+    "description": "Parse XBRL filings from the SEC's EDGAR in Python",
+    "homepage": "https://github.com/chrisspen/django-sec",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.2.7": {
+        "sha256": "decd6e03e652b6e3ff9962d2dd9c76ee0e3dcea10b7144a46d17cef2423cbe57",
+        "url": "https://files.pythonhosted.org/packages/f9/4c/808f11766a3efb2dc2ba998578f056e5849f91e6391abe6b2f4cf5514abd/django-sec-0.2.7.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "4d8d6980db8e4d4bcde6034ad5690b149fab0caeae25405217e087bf974af5f1",
+        "url": "https://files.pythonhosted.org/packages/84/c0/528b12a7a563c9713fcd06b6d11e674d61a86998b8a7924e4debe2a42829/django-sec-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "ffb0ec87279fd603329d9203c27699992615fdc9e2dd414446fd69b287d8b9ae",
+        "url": "https://files.pythonhosted.org/packages/42/19/022dd91509d1254c8d5d073be49e369f4715becd1912d07bbbe4ac028ea1/django-sec-0.4.1.tar.gz"
+      }
+    }
+  ]
+}

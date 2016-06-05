@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Python bindings for ImageMagick's MagickWand 6.6.0",
+    "homepage": "http://digitalarchitekt.de/contributions/magickwand"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "6934f631274d013fb28936f13ec55118b8399988390bb1a7678846f9945777f9",
+        "url": "https://files.pythonhosted.org/packages/56/89/ecdde996a4d71f9db4bcdd4c1694d34032c6a156096635747dfd72bc1f60/magickwand-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "d1e7a0621d628f8b2c6799f0edb5f17fb92b14d48a429281c2ed93f59208b8da",
+        "url": "https://files.pythonhosted.org/packages/0d/2f/4c2b00d7f4396e1c5792779d44951f4a01ae7a1a734ca8418fe5beb4c6c3/magickwand-0.2.tar.gz"
+      }
+    }
+  ]
+}

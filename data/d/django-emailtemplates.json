@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.8.5"
+  ],
+  "meta": {
+    "description": "A simple Django app to create emails based on database or filesystem templates",
+    "homepage": "https://github.com/deployed/django-emailtemplates",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.8.0": {
+        "sha256": "dc904b604ef597e9d512273a5b14de90288597731aa8fa746971729abf415e5e",
+        "url": "https://files.pythonhosted.org/packages/c7/fb/3e21078211bd387a0181f80107e34f48f8a98d08ccd149a368a5eacb27ed/django-emailtemplates-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "aac0f4ab05f9130ed7156d0b01308172511e4b9930fbec778342561ea0c01f6f",
+        "url": "https://files.pythonhosted.org/packages/77/34/2a11f9cdf19ac110e415b93af6220b75e6f4a8d226f7e9b82da22e378f9c/django-emailtemplates-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "4236f872269ceb33652bd6ad5afeaf5d0f62408dd681ff85af2f209901e7218e",
+        "url": "https://files.pythonhosted.org/packages/dd/a8/7fce66d88a469648e0c374828a94f8a1629929a826066cb22dcc8fbaea6a/django-emailtemplates-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "015f3179e1ef2e5bb8a59b59ca83019c13f6f023a53013da5096ae2794822f0e",
+        "url": "https://files.pythonhosted.org/packages/c8/52/dc79edc9e5680b339d1c62ff8f4682e00ad8b41948d6a0bc147843319e55/django-emailtemplates-0.8.3.tar.gz"
+      },
+      "0.8.4": {
+        "sha256": "db0101067eb08cbe420faf29d34806b52dfe9289a956c32c8c5aca4949cbd6ef",
+        "url": "https://files.pythonhosted.org/packages/72/6e/01013e5ab07dff596569a1f572eedb170c72565b5222ddee2812e7d29473/django-emailtemplates-0.8.4.tar.gz"
+      },
+      "0.8.5": {
+        "sha256": "d338b2762aeafbd1de2b1fe2d8b26c9ba441aec2c62698305b37562c7d25aa0f",
+        "url": "https://files.pythonhosted.org/packages/3d/4c/0ba46eb37446e2c4194d940c3158ac1e3dd76c23ef36eb2ffebb365df338/django-emailtemplates-0.8.5.tar.gz"
+      }
+    }
+  ]
+}

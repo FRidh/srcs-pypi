@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.9.0b9"
+  ],
+  "meta": {
+    "description": "Buildbot packaging tools",
+    "homepage": "http://buildbot.net/",
+    "license": "GNU GPL"
+  },
+  "versions": [
+    {
+      "0.9.0b1": {
+        "sha256": "a9d96f88d4abd4673652a511bb57b9c87f0e6178db6b3e8a356d96f47bb1e43c",
+        "url": "https://files.pythonhosted.org/packages/0a/2f/d538ccd9bc7f7db9c061ce504c74deb51ba05bcdc69e2b98548e9f7ace20/buildbot-pkg-0.9.0b1.tar.gz"
+      },
+      "0.9.0b2": {
+        "sha256": "1ff133000ce85771807d23023dccfa6a18a40425ba0d286fba540195d0d4859a",
+        "url": "https://files.pythonhosted.org/packages/a0/fc/80f045f1eb1b8f44ec07d97776847bed2a3ca76b1602bd69633313acb736/buildbot-pkg-0.9.0b2.tar.gz"
+      },
+      "0.9.0b4": {
+        "sha256": "909a19aa42e042ce712742fa8cb3dd1c8522844a5bb8cd10fefbbc6851468da5",
+        "url": "https://files.pythonhosted.org/packages/a1/b7/fbd85fb688ed44e36681563f2c87d3be94dfbd132201edbc5866e9fadd00/buildbot_pkg-0.9.0b4-py2-none-any.whl"
+      },
+      "0.9.0b5": {
+        "sha256": "0aed6f93ece8be8fc5c89947e0c77e2e17b83a33a5386f6c4730378be8e7ca61",
+        "url": "https://files.pythonhosted.org/packages/b4/41/c60c00d34cb41a276961cf2c76baea3447a1a9a62d57c34adfbf471513eb/buildbot_pkg-0.9.0b5-py2-none-any.whl"
+      },
+      "0.9.0b6": {
+        "sha256": "e885e3f6da4e145a7e6e82b72da139f48e8ebb3d4ff9a654a02756bc75bbadf9",
+        "url": "https://files.pythonhosted.org/packages/ef/97/a8fa274948027c5ca29d9bba7072c9e052563a4f9ea046b7522225531823/buildbot-pkg-0.9.0b6.tar.gz"
+      },
+      "0.9.0b7": {
+        "sha256": "4b5c5cff11f5f6d6e55b634a93f14eff91f468a5d18331fee2ada40d664def09",
+        "url": "https://files.pythonhosted.org/packages/3a/c1/adc89f894d1b060ac81d901a00231fd9ef96fff0d813d6b23d570216c5be/buildbot-pkg-0.9.0b7.tar.gz"
+      },
+      "0.9.0b9": {
+        "sha256": "8c5de5a7b502d3616a2202b03cee31a0771a9cb6a0fe69a968c17a684894979a",
+        "url": "https://files.pythonhosted.org/packages/f2/37/c554c8a75273fbf7ad2e7b5dcc782f942b770b27f690d5eab42f8f758b84/buildbot-pkg-0.9.0b9.tar.gz"
+      }
+    }
+  ]
+}

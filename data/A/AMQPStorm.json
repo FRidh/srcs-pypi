@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.3.2"
+  ],
+  "meta": {
+    "description": "Thread-safe Python RabbitMQ Client Library based on pamqp",
+    "homepage": "http://github.com/eandersson/amqpstorm",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "1.3.0": {
+        "sha256": "f6eb56ef91f2127e6fb4970993fe0bc90e94a022bd4ab9faa175186b9e66459f",
+        "url": "https://files.pythonhosted.org/packages/b1/3b/1d2d33e7326b1d324a143afe5121640d86d9a499bb0d94d1dec1309e969c/AMQPStorm-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "6049d732b382ffc148393e8093790d618fd6ad013fb98f878548f0b59ae2f889",
+        "url": "https://files.pythonhosted.org/packages/24/ca/5eaa7c2b45b8965c17c7a359dae501b7ccad4edd63dd8d5357109cb916b2/AMQPStorm-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "6cb6379495437e78da30bd362bf3c85970b15a657fa86f56d16523e0d7432d1f",
+        "url": "https://files.pythonhosted.org/packages/7e/9b/854f52f50a6d7223a6c4cd08b88061523dea6a25160519af76db75c58316/AMQPStorm-1.3.2.tar.gz"
+      }
+    }
+  ]
+}

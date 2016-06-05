@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "A library for running Python programs as Unix daemons",
+    "homepage": "https://github.com/ardevelop/ardaemon",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "cc31eeec8016f53261a8c60640c7cc27a611f132f086d9098bfb27d6ca19731f",
+        "url": "https://files.pythonhosted.org/packages/64/c8/9132974f015219d25a9f80f1c5f17c804d2f6c13d8bc1bc3c20450f5293f/ardaemon-0.3.tar.gz"
+      },
+      "0.6": {
+        "sha256": "814121b203077bfde32daf48c95412c62f1a61102085dd694e84eb88d41d38dd",
+        "url": "https://files.pythonhosted.org/packages/5e/97/6b80d175571d8f0f549c8567299229a55751962477ef46d9681bbdaa0e34/ardaemon-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "08d12f2c52188dae4269d3165f1b24218ba10e93b1de4de4bcb704f1b5ac11c0",
+        "url": "https://files.pythonhosted.org/packages/c0/bc/9c7a67c7477d8e07dff853550ebff4be1d80d4553e34e399ceec3f5511be/ardaemon-0.7.tar.gz"
+      },
+      "0.8": {
+        "sha256": "3d02feb4f050ce5a0045c3fb82e562a9db8e85eefb3521c77c31866b51cad185",
+        "url": "https://files.pythonhosted.org/packages/3e/a3/5940dc78de1130a085b3405b0682542325afdca99d9376efd4b8282bd81f/ardaemon-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "ce29a076c8930ef50cdd478f2da6660138828e61b4c473a0d3bd040d83d15d28",
+        "url": "https://files.pythonhosted.org/packages/89/ca/4d29963d74370cd6853cc97a15f71bef486d813e5445a2136ce71f1e76e5/ardaemon-0.9.tar.gz"
+      },
+      "1.0": {
+        "sha256": "686877673ab8777a564642e012b2742ed0dadd85ed25450187cd29cd44062cff",
+        "url": "https://files.pythonhosted.org/packages/28/de/28eec98e5917d285064153c152e3c771ac283ca3f0770d6a5c3ad0162a54/ardaemon-1.0.tar.gz"
+      }
+    }
+  ]
+}

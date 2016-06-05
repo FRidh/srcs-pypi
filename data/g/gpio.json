@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "gpio access via the standard linux sysfs interface",
+    "homepage": "https://github.com/cloudformdesign/gpio",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "6d06b940aa1f1ac62de1917b1d2804cf03253cb54c52753c96018672038beffa",
+        "url": "https://files.pythonhosted.org/packages/60/ac/eea24d1ab6ef610c796312898feae7a708071e05d794d72c02c0ea5b83e5/gpio-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "12565264495dc0dac475d872a618f1fc636c3d5b5a07ddd709d30f3fae701873",
+        "url": "https://files.pythonhosted.org/packages/34/8a/620cfe7b6dc8c0199e4623a047589144d5cc2d4147f8346883ebb8bfb36b/gpio-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "cabb74046e37dddfa781314294c2475dfdf20a0eaf4949492c081ed8aab5160a",
+        "url": "https://files.pythonhosted.org/packages/1d/8b/dd0e69fecce04d6356eb0a7a12fdf8f6047d626f2ba387dd95bbc68c9a57/gpio-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

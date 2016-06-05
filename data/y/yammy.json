@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.5.4"
+  ],
+  "meta": {
+    "description": "Yammy: A better way to create a Django/Jinja template",
+    "homepage": "https://bitbucket.org/quasinerd/yammy",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.5.2dev": {
+        "sha256": "cdde7c01cdc2ff45de4fa6c7de9c98d705b5856617a80946791b0adb90d14e8f",
+        "url": "https://files.pythonhosted.org/packages/24/ac/2976e45496cb190a7faea5079069cddb79969cbfa9d48727dac45242fd08/yammy-0.5.2dev.tar.gz"
+      },
+      "0.5.4": {
+        "sha256": "4457fa40f80934bfac66ba1d5b4f9625cd80c3e0ebce90f995999bda1010cd30",
+        "url": "https://files.pythonhosted.org/packages/6e/4e/f46d792ee4e7af0d0425064aa2aa681844527d5269df85bc873a83b5f429/yammy-0.5.4.tar.gz"
+      }
+    }
+  ]
+}

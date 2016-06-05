@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9.0"
+  ],
+  "meta": {
+    "description": "A fault-tolerant pylibmc cache backend for Django",
+    "homepage": "https://github.com/lincolnloop/django-ft-cache",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "984aa04af664cd2c0f8c5dd61430ff26f256498c80f5d1dd52ffb1c93a25048d",
+        "url": "https://files.pythonhosted.org/packages/dd/6b/ef7ae13191df00bac7db15b9316fe509ed39c56284d9cbf053fd1d6718b5/django-ft-cache-0.1.0.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "2f6eaa3c6e872fab2ee6b7520925c1bbf4ffbc6d8c9666457608ad9bfdc45faf",
+        "url": "https://files.pythonhosted.org/packages/51/20/5b7ea93d8c999f8695b0a52a9713fe3a1071e9d0d81287ee83125a606e7a/django-ft-cache-0.9.0.tar.gz"
+      }
+    }
+  ]
+}

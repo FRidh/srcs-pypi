@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "This recipe aids the creation and management of multiple Zope 2 filestorages",
+    "homepage": "http://svn.plone.org/svn/collective/buildout/collective.recipe.filestorage/trunk",
+    "license": "ZPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "b2bec55dac3ef7be4186eea3a9f37928b000b9db37cb1442f3d8e32338939bae",
+        "url": "https://files.pythonhosted.org/packages/b9/e5/e216a941efb31383548211ec71153a714b89c1fe5f75f2be8593e4d2b2f3/collective.recipe.filestorage-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "b690f7135dbefe5653f3579973c7fc142ea0c8712df3b208db4cb2b3b5edad8f",
+        "url": "https://files.pythonhosted.org/packages/79/4b/836bcefab7e2cfc1a18986afa74cfb66e3fcc59fe5304ae257e86420fc0d/collective.recipe.filestorage-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "5f8d4f84cf57658290cbd0ff95f96c82f5ed0e4a1eb7bbb7293011573a9ef311",
+        "url": "https://files.pythonhosted.org/packages/3e/c5/e1ab8812c5298668c12e89f0f7b4bc176c13277ac81cf5bfe2cda948c28c/collective.recipe.filestorage-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "8345c70ee09e7b952885590243ad0efaaa5df042c77ddb8382403cb268b3d325",
+        "url": "https://files.pythonhosted.org/packages/c3/13/d31bb6acb4dc2f7831b0fbb54877effcc2d224837e4725876e7d9b1cf5fa/collective.recipe.filestorage-0.4.zip"
+      },
+      "0.5": {
+        "sha256": "6e3c294217e5ce961fe9be4019c693538ba938f0e362b2c7ac5cf19e703b02ef",
+        "url": "https://files.pythonhosted.org/packages/53/0d/81d20e79992bc65ab4820c09ce7d67421a741d25e2ef6943ebbb48a53354/collective.recipe.filestorage-0.5.zip"
+      },
+      "0.6": {
+        "sha256": "30bb817f8fd572f127044dd8e6bd8f352461ed108cd8c6e3230ff301a5275593",
+        "url": "https://files.pythonhosted.org/packages/d1/eb/79f486e3ea2dc797e3b1efeaabd3c557a13ef8546f391f2a15152cfcb791/collective.recipe.filestorage-0.6.zip"
+      }
+    }
+  ]
+}

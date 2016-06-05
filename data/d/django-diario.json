@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "Blog application for Django projects",
+    "homepage": "https://bitbucket.org/semente/django-diario/",
+    "license": "GNU Lesser General Public License v3 or later (LGPLv3+)"
+  },
+  "versions": [
+    {
+      "0.3-kamalmaz": {
+        "sha256": "2ff9bb14c8c36ed21b4e3218b052e3e17d69f1f5ef2727a78b930d5d12a09075",
+        "url": "https://files.pythonhosted.org/packages/19/19/df97aa912ca345825d17a0b4f6c8e6c40e339300b9ca175952aea183f2d0/django-diario-0.3-kamalmaz.tar.gz"
+      },
+      "0.3.1-kamalmaz": {
+        "sha256": "b196cd983e4cb6a74924c74aac33ba1049e0525c6f6dfe9d1f808dd1fd8758f4",
+        "url": "https://files.pythonhosted.org/packages/6f/27/71e25d861b2424f7d75e641362be9e4d85727587b2001d71a362612e4533/django-diario-0.3.1-kamalmaz.tar.gz"
+      },
+      "0.4": {
+        "sha256": "1417be3f946f6d9c2648d5474be61c8bf615a37348a6ea2371988a9d07a4062d",
+        "url": "https://files.pythonhosted.org/packages/56/10/bacd8af636043ef60fed45db41074903699fbf132dc362a960f9c4f2302b/django-diario-0.4.tar.gz"
+      },
+      "1.0": {
+        "sha256": "ea4843b3a27bccb3b39223ab793d936a976e1ac515a0e680a7beba5f808facbd",
+        "url": "https://files.pythonhosted.org/packages/fc/3c/f088ee7c028c55b329efe27210bdb5d3cfeb6e98f72f21b5b27d63ec0d24/django-diario-1.0.tar.gz"
+      }
+    }
+  ]
+}

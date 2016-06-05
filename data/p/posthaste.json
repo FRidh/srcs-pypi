@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "Gevent-based, multithreaded tool for interacting with OpenStack Swift and Rackspace Cloud Files",
+    "homepage": "https://github.com/rackerlabs/posthaste",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.2.1": {
+        "sha256": "d1b59feca259be7dcf6fbc33ce74aa5697bc43d16ebb65feff4a8213f9d2d3b1",
+        "url": "https://files.pythonhosted.org/packages/17/fb/aa0904eda3f9e7186f95da3dd3721cebfe860a6567f7cd2d6e33f843f937/posthaste-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "1f270009b1a5f9cce50ab029e9b32efad62eaf675cbcef8a0dd0f50f2ef3174c",
+        "url": "https://files.pythonhosted.org/packages/d4/69/3b09030cc5ca28b294983692c2822778ff3e642b1ebf832b076ed6e4a62f/posthaste-0.2.2.tar.gz"
+      }
+    }
+  ]
+}

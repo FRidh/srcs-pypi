@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.4.4"
+  ],
+  "meta": {
+    "description": "Automatic service restart after updates",
+    "homepage": "https://bitbucket.org/flyingcircus/restarter",
+    "license": "ZPL"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "73ab457d4cd4be5c915627263bbd04b4f6e32d61ee1bef89d400cda2d3d2426d",
+        "url": "https://files.pythonhosted.org/packages/c9/79/d7b05e532398e8953fe3491be7bb389a611444eeccbb78ae9e5eaf53e8ca/restarter-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "cd7cbe24f703bb655f6a8657ae7df51ab7825eb07ef5e6dcaf6c82b73d8aad39",
+        "url": "https://files.pythonhosted.org/packages/e0/4c/f397a9108437d94f0f8119b059d4273de8d21883a2f90f9c53a3652b4e39/restarter-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "544a44c5345c3f588030d6fd2a749d4257e5d3483ba516413a8ca8253fb7efe0",
+        "url": "https://files.pythonhosted.org/packages/e1/b9/3479bf884d70c620be8a908ef3a0a3c8b6c72f759eda1a39ba27f3686370/restarter-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "da7a8dd6ddcc64147c429a93a6e7e00acc77370003dea50ae5f3ca134182b037",
+        "url": "https://files.pythonhosted.org/packages/b6/1e/3a595d5f56b99dc4be23a98e5cdf73f84b06ce5a828849bedf5651e88233/restarter-0.4.2.zip"
+      },
+      "0.4.4": {
+        "sha256": "685c661b96490f3953ca1d078224ec5ae1aa887c91de95f67e8f527742958a72",
+        "url": "https://files.pythonhosted.org/packages/8e/48/09b66933394d88cab87d13b2265dfa20936bb0289c83794949377f147f36/restarter-0.4.4.tar.gz"
+      }
+    }
+  ]
+}

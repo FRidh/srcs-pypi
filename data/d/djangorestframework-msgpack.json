@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "MessagePack support for Django REST framework",
+    "homepage": "http://github.com/juanriaza/django-rest-framework-msgpack",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "f3bc83a74084517892998aa7ebd45c1f38d11bd32b06ee972ef43bfd7512310e",
+        "url": "https://files.pythonhosted.org/packages/fe/07/4e84cb31e0b438c822c8f3a5a3ada43d7f14b5c6657e0de205958e39b8a5/djangorestframework-msgpack-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "ccffab6996c5a4e07ae662941a8e048ef190cd4ba9a580dac310b1c3fc2b81aa",
+        "url": "https://files.pythonhosted.org/packages/d9/16/e98e40f28fa5f008cac6ebabd45b6d7b1424f0288723e627a57f7b462393/djangorestframework-msgpack-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

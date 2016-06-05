@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1rc2-r144828"
+  ],
+  "meta": {
+    "description": "Memcached based locking factory functions to provide shared locking (e.g. bet. zeo-clients)",
+    "homepage": "https://svn.plone.org/svn/collective/unimr.memcachedlock",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1dev-r85026": {
+        "sha256": "96db0582f8a763df14b4dfd6100e769eb75fd38de558c0462820c9d0ffc7a2b8",
+        "url": "https://files.pythonhosted.org/packages/4f/a2/cee5a84ac2d3095b7b1527afbb1daeb815966352a0f427a31ed868eda49c/unimr.memcachedlock-0.1dev-r85026.tar.gz"
+      },
+      "0.1rc1-r85726": {
+        "sha256": "ee7b10135cad90863874230ea0971f55f888dec35b84420ff73109beb14cbcf9",
+        "url": "https://files.pythonhosted.org/packages/23/6f/e07916b86a02358bf2748a2265bea1658ceac8daf7a4b4e9f616e1d8368a/unimr.memcachedlock-0.1rc1-r85726.tar.gz"
+      },
+      "0.1rc2-r144828": {
+        "sha256": "088d199bb65aa9759de1c388fd4d52b7739b03297a8745574dfe12147a81877c",
+        "url": "https://files.pythonhosted.org/packages/1a/e6/bd712eb9856f8707df70c2e438868dc6988cccdc84a9bca1e99c49721e70/unimr.memcachedlock-0.1rc2-r144828.tar.gz"
+      }
+    }
+  ]
+}

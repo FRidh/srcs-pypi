@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "a utility on top of git for project-wide search-and-replace that includes filenames too",
+    "homepage": "https://github.com/da-x/git-search-replace",
+    "license": "LICENSE.txt"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "f559c51ec9455fc5e9a2ad2fc0ac60cb04ed27a1871c58d81ed1d5b4344f2333",
+        "url": "https://files.pythonhosted.org/packages/e3/e8/288c4b24c71f580c94bce09ab93df5f7b42429eb981e1fee6092ffb8a3fc/git-search-replace-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "60496cb68edc9f551796ab6cdd372d8c422b404a423bcd9f1139600bf60ed04c",
+        "url": "https://files.pythonhosted.org/packages/90/7d/39e56594d583cc7dd4021f686797519730fa77f2fe40531dbca1c0354ee6/git-search-replace-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

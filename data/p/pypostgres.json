@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A psycopg2 wrapper using pandas DataFrame to perform CRUD operations with PostgreSQL",
+    "homepage": "https://www.github.com/marcelluz/postgresql",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "f17ea1bfc05deaf73da342a1c45e39ab8cf8421741a9a62efc0ee90c739a6e56",
+        "url": "https://files.pythonhosted.org/packages/a7/81/f2c8d2ab32617792af1644dc4a84c8582d76de6c1edeb25e42f7e489f176/pypostgres-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "8ce8310c833a8fc4fb9fa9df5446819cedf538a08dabae467d35a862f5a4e356",
+        "url": "https://files.pythonhosted.org/packages/e9/8e/b6043ab75150385a42d151b9c68508866f08af0f2f5f4d32bb01e9616135/pypostgres-0.2.tar.gz"
+      }
+    }
+  ]
+}

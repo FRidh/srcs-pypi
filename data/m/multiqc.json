@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Create aggregate bioinformatics analysis reports across many samples and tools",
+    "homepage": "http://multiqc.info",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "fbfd580a2ac6ff0e0717a133e5cbbedbd79b08ccf1b0c93154048ac8fd50bbfe",
+        "url": "https://files.pythonhosted.org/packages/44/ae/59e74780d4c66afbbac9053d2b6b0f12aaef94e4ce92cb00b71a20025098/multiqc-0.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "60e2837379a97ea0d6d1a66d825b48abf36a4a4fa270c76b4b76773d16002b36",
+        "url": "https://files.pythonhosted.org/packages/e9/7c/14ca085189df0aaba25054bf42fe3ceb74bcbee5c271d4c6f9c9c39bf1c0/multiqc-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "20a5fc9dee767c00d013d973175bdc90924c6ff192fd922543e63a4c0f9cb18a",
+        "url": "https://files.pythonhosted.org/packages/5d/cd/08627e78e84acc038dcab2ee6403af9eca73b1203fe505645a2c33c316b0/multiqc-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "01a91459db26bb07afc3dc2acc4cc0941f8d2edbc5703e9000f6f3ebe10fe67b",
+        "url": "https://files.pythonhosted.org/packages/47/bb/3339d0a27891c241de1bcc76122e779b67efad072140224a02e8700e5199/multiqc-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "fea4d50b2abeec8703cb33cc587acb5206a20d027bb33f87c4d02fff77cf692e",
+        "url": "https://files.pythonhosted.org/packages/e5/56/76229fca10700a78fe4a51baf2de7385509a48c7d281f42d9d311a547d76/multiqc-0.3.2.tar.gz"
+      },
+      "0.4": {
+        "sha256": "8c021a88699a8d0bbaf5909bd9446de8549c0881b6df19e377113f0800d8ca3c",
+        "url": "https://files.pythonhosted.org/packages/1c/e0/1e14407025dd461f1917354af543dcd912b669729ce77e0e0d29879d146e/multiqc-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "fa91a8a165d0cd0fd51d1f859eb3128b788997b6863564edf94f490f55af638f",
+        "url": "https://files.pythonhosted.org/packages/08/1c/d9833670aee1303332713f456140730a7a8335cc97bc7aa3c67f37a3b0e1/multiqc-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "3efa8d951c5feaf72c20627110f0513000c503e583fd788befb7d16160087c2b",
+        "url": "https://files.pythonhosted.org/packages/23/d9/95a5e62eea95f220007d7a6683d0da1ee1d9f99e6932bcff793b6601ef15/multiqc-0.6.tar.gz"
+      }
+    }
+  ]
+}

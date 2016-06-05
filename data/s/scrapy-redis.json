@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "0.6.0"
+  ],
+  "meta": {
+    "description": "Redis-based components for Scrapy",
+    "homepage": "http://github.com/darkrho/scrapy-redis",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "cbc4f8963a804d93de02671f479d6bbe57d81a5ddab98998efd9ce3c8f7c82ed",
+        "url": "https://files.pythonhosted.org/packages/ee/27/a7bedf75e32e7111c89b931fec2e391582be04ab869e40c37865f03f80dc/scrapy-redis-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "1e0446e50081b5c0a9b9e897db6325ef6d374ebcfbbeffe1fd1250020e7c2c5c",
+        "url": "https://files.pythonhosted.org/packages/d5/5e/a068c572a6967b955e59f1921526c251173a842f4feacf86e8c6b92ceb5e/scrapy-redis-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "85aa174c6050f4f34927204a04ea031b151fb203d67b0520f5d8d88b023b6f3c",
+        "url": "https://files.pythonhosted.org/packages/4a/a5/4f2ed2a2590c8a6be8c2130f76f4f172ad58137173877e1e087ff687ebf8/scrapy-redis-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "82237da37807278901f74d5e5540e843eb56885a78a8ab010bbab741cd7a8193",
+        "url": "https://files.pythonhosted.org/packages/5f/ef/093126e2b8725674ce2329d67307ffd625ed0a740370520826700081b743/scrapy-redis-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "aed58b93179d4f2de609398f77c69cbe0670c0919be127ef55ab62d62f41365a",
+        "url": "https://files.pythonhosted.org/packages/94/d4/7ff6d8593175b2fad6e0a5791f5201df478c2a12f852865f3b67cd5fdbb7/scrapy-redis-0.5.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "d18a000581f86c2fcb2ff98933fb702aa42c7fd401c623d77380485ec1f582d5",
+        "url": "https://files.pythonhosted.org/packages/11/e8/733d232547da1fa0e0e93b3f1ca17b8d59a0ba2f3c9d6fe251da28959c02/scrapy-redis-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "388fedd27115b48743e09b6832f605c8138bb3841713193763874e637e356ef3",
+        "url": "https://files.pythonhosted.org/packages/84/7f/a8f302915b873c4574cf702327db6b95403251b8d224a95cd7643aaa82c6/scrapy-redis-0.5.3.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "4f00eebc21350ae29c70262db586592a08c342e4bce97213bee8a5b08c11ed16",
+        "url": "https://files.pythonhosted.org/packages/fb/32/de6cca657aa6a59b87a241301e7206ea98738174c4a6aa2ee0ae0fe4e1d2/scrapy-redis-0.6.0.tar.gz"
+      }
+    }
+  ]
+}

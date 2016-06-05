@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "1.20"
+  ],
+  "meta": {
+    "description": "Gravitational Wave Candidate Event Database Client Tools",
+    "homepage": "http://www.lsc-group.phys.uwm.edu/daswg/gracedb.html",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "1.17": {
+        "sha256": "1fcde51b7f02d45d9dc8c97587b08cf7d88916c9c848180e01ee60bb5fe9dedf",
+        "url": "https://files.pythonhosted.org/packages/e4/cb/2d17e88ea2de87925866c7c291e94850160e908359f34d9bdeaf4b9340c1/ligo-gracedb-1.17.tar.gz"
+      },
+      "1.18": {
+        "sha256": "1b2a86b9d93be6d0af2bf9782f2e66e586c09c343355402e1aee7fed79117d3d",
+        "url": "https://files.pythonhosted.org/packages/80/ee/db703d9731d3ea8d63e82db526588041e56c325b014c55d8c85a58deccac/ligo-gracedb-1.18.tar.gz"
+      },
+      "1.18.dev0": {
+        "sha256": "c7b36644d430b128e9693ec5c796a4232bc75a9ad01e6c3103b5c1583fc01483",
+        "url": "https://files.pythonhosted.org/packages/2d/ae/745cb3ab4e36c717f7d1a1dc298b78f3a8ac1b40112180617589f6deca55/ligo-gracedb-1.18.dev0.tar.gz"
+      },
+      "1.19": {
+        "sha256": "78c07dd0677b1e82d86320fd6dcc523ca7204b171069263e463b5c56f67046f9",
+        "url": "https://files.pythonhosted.org/packages/b2/07/83000548ad1072052ed82f6b4e2da07474ce1c115de9ac028ec2a117ad4c/ligo-gracedb-1.19.tar.gz"
+      },
+      "1.19.1": {
+        "sha256": "013276a1623584a63771834b0cb855142997047acf7cfb24a47d09a0ea56a170",
+        "url": "https://files.pythonhosted.org/packages/04/f4/57d331f41841235156e64b22a8f407a0149b04a6f04151290ecaefe3923c/ligo-gracedb-1.19.1.tar.gz"
+      },
+      "1.19.dev0": {
+        "sha256": "8cd7a04fc98bd3346790991cdda2472297f35ae1a01c0fbe15b672e916149423",
+        "url": "https://files.pythonhosted.org/packages/ce/98/ea070769d057a5a5cedeb1b8bb078777a4493018c9d510dc009ff43845f3/ligo-gracedb-1.19.dev0.zip"
+      },
+      "1.20": {
+        "sha256": "7b14d3675539525fe391a47a509b6e91deff16db27c67eef30f7754a20bfc77a",
+        "url": "https://files.pythonhosted.org/packages/a9/a7/55c2e60c3a88f35866f85576e2267ca0e17815c262e417e89af938e7fd94/ligo-gracedb-1.20.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.post2"
+  ],
+  "meta": {
+    "description": "queue_classic ported to Python 2: Simple, efficient worker queue for Ruby & PostgreSQL",
+    "homepage": "https://github.com/cecton/pueuey",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "a103a336efc80a70ebfb69c3be70d277e23d1a6209045684de7b85c4cc033f5e",
+        "url": "https://files.pythonhosted.org/packages/b2/04/f345c44899718936c7a2fe83aa03536bdffc079c51f39955dc4b1bd41d46/pueuey-1.0.tar.gz"
+      },
+      "1.0.post1": {
+        "sha256": "0d8187ad61a47ad719e1ffe500c34725b7688c50990b66a9a54ec9f68f11c623",
+        "url": "https://files.pythonhosted.org/packages/42/93/0c44a3494047438213e78c949866f9eaca7b5d8bb24245f1016777b93e52/pueuey-1.0.post1.tar.gz"
+      },
+      "1.0.post2": {
+        "sha256": "cc0718ea4622e662c11d994de954627eed038ab27e28fd13cda94fb196ad1cc0",
+        "url": "https://files.pythonhosted.org/packages/3a/ae/eb00c3b6556b33d2caf397866378d91bc983c253d3316f9983f9c5c8c6f9/pueuey-1.0.post2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2016.1.0"
+  ],
+  "meta": {
+    "description": "API's and implementations to support L2 Gateways in Neutron",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "9d62cb20bcd0464667e1a2d307641f3f3b27a2293d0a61eb7edb0334ef3ec3f0",
+        "url": "https://files.pythonhosted.org/packages/34/99/a589774fe1e32b10f6910b3d1a93111ad78a32e207c2d4f80479af7d34d6/networking-l2gw-1.0.0.tar.gz"
+      },
+      "2015.1.1": {
+        "sha256": "ed2cc1b5edc977a258eecdf4cc1962717e936deb6627ca5cd5599cef9b2e6a78",
+        "url": "https://files.pythonhosted.org/packages/af/78/5b561cbdd8ee25bc3499424d4e25f23926236a6ec0a2c348d5ec9cdfc8f1/networking-l2gw-2015.1.1.tar.gz"
+      },
+      "2016.1.0": {
+        "sha256": "7ed8bee8fe484267d22d6e553330a61d6435834986efcd8a21f09489a61f55c4",
+        "url": "https://files.pythonhosted.org/packages/84/3f/67375812ec573845c1947338e31b20ef6602a2e04da38d9c9b12f80da410/networking-l2gw-2016.1.0.tar.gz"
+      }
+    }
+  ]
+}

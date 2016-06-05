@@ -1,0 +1,182 @@
+{
+  "latest_version": [
+    "0.0.90"
+  ],
+  "meta": {
+    "description": "Swagger + Flask + Grequests + Bravado = Client/Server auto-spawning",
+    "homepage": "https://github.com/erwan-lemonnier/klue-client-server",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.0.10": {
+        "sha256": "5b92076d5af4810c401fbfc71e20f2ba7a70236e0a7b7daf2f9f16ae62a4facf",
+        "url": "https://files.pythonhosted.org/packages/56/d0/705f957e9857c3018ba0615ded87b22d8f637979c28a63bd27e625d3d41d/klue-client-server-0.0.10.tar.gz"
+      },
+      "0.0.11": {
+        "sha256": "0215e2bc1c4fdd49bb27baba6b1c256ac8b6030fac87441bc1ce9798b1deb518",
+        "url": "https://files.pythonhosted.org/packages/02/81/b179a8139d70fe2d51262f6f379930d4496ad27745ab1b1d393f4d614ae6/klue-client-server-0.0.11.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "29e83159c4dc66a0548a3612b0161387c7040d46778ba37c91e2f7eb575ff229",
+        "url": "https://files.pythonhosted.org/packages/64/4c/0f4bf8b8be6efc606ca30f247299b9430568db0efdac208050ba9386578d/klue-client-server-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "8acdbb340507ce74143a65ce4bc0fba19e24998be6ce970bd611cf5f85625f83",
+        "url": "https://files.pythonhosted.org/packages/2a/be/7b0fa488ea858ee09c49ff47966595fe9a98e8050e03e0c105fb76e04fa7/klue-client-server-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "36f55caf7aacec3885e8fb70bcac99989b69bc1a74a4a58d4e27774e9f033626",
+        "url": "https://files.pythonhosted.org/packages/5b/86/f9e2a5ead6cb26f4945dbf4f5059588015f8533c4c0bd5c7f0e208b1ad07/klue-client-server-0.0.4.tar.gz"
+      },
+      "0.0.42": {
+        "sha256": "2ed891134d81e090fda1ba00ecf6ef53d4c8211e971672cfa991fa48a328f7e2",
+        "url": "https://files.pythonhosted.org/packages/fb/94/2b3e12cec892ee3104d765726382cc44d1071225b9ab24077e3d4a1641aa/klue-client-server-0.0.42.tar.gz"
+      },
+      "0.0.43": {
+        "sha256": "228bd188d09d2fe6f93848f4bffc8bafc3b7429be91407a5136c7c3de5dc4d89",
+        "url": "https://files.pythonhosted.org/packages/44/74/5a2c99cea7b17eddfb15f7fa846ebe157f5901f30b74f0685959340c1a1f/klue-client-server-0.0.43.tar.gz"
+      },
+      "0.0.45": {
+        "sha256": "7dc51c42e1d83a13ad4a86f8028693417bae30526ddbbcc4f1c6dca6e397777a",
+        "url": "https://files.pythonhosted.org/packages/4c/0e/331c8e430919072bba73257b76f3248fd18f8d7be3eeeedceb6038bdb6e1/klue-client-server-0.0.45.tar.gz"
+      },
+      "0.0.46": {
+        "sha256": "93df6204fbb99bfd31b9e86e52b036d9eba2bbdd9dba003dba3790c6c96cbef6",
+        "url": "https://files.pythonhosted.org/packages/fa/d4/b885d2192503ae0a0414c142459e26507104cfbc057cb47b881cabbc765e/klue-client-server-0.0.46.tar.gz"
+      },
+      "0.0.48": {
+        "sha256": "beb36ad6515c8e6a492199162ba9ba32617a43d53ebce1621c78a2953737aec9",
+        "url": "https://files.pythonhosted.org/packages/8e/9e/b912c10d124969b95520e442274e214b786ea1b55b769f12c84198522b16/klue-client-server-0.0.48.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "349fe0e766dc3f7bff1d1771e016fa310cfba5ea3c2826ad234ea21b2551e97a",
+        "url": "https://files.pythonhosted.org/packages/80/ce/f133ac573888fb6c4389ec9d37caa306389dffc09eab8292a8a9d6274c0b/klue-client-server-0.0.5.tar.gz"
+      },
+      "0.0.50": {
+        "sha256": "85ba9f7cc2ac8a3fe59ad5d328a260ad195173d31ccb414374f43c6368d4891c",
+        "url": "https://files.pythonhosted.org/packages/4c/1a/8268f34f52bc1de07d647780948618250d94ed126cf7d0cc5eb2ba3f494c/klue-client-server-0.0.50.tar.gz"
+      },
+      "0.0.52": {
+        "sha256": "74cd99e3ed891bbc823e3d7ffe716f83297bb92d3aade831006d38cccedf9359",
+        "url": "https://files.pythonhosted.org/packages/d5/0a/658be59b51fd4b41d71a6a7f906f809e514fc2932eba54be645f85645c62/klue-client-server-0.0.52.tar.gz"
+      },
+      "0.0.53": {
+        "sha256": "b6145690a4edd952ac36e09564bf686c8ca4ab40b9af73b2d7b42f1fcd2d8840",
+        "url": "https://files.pythonhosted.org/packages/47/a6/9d38778d8c754ac82b08921ba69a54f67da2d6b26637d78c3333f0b91448/klue-client-server-0.0.53.tar.gz"
+      },
+      "0.0.55": {
+        "sha256": "852428c3e4d31b7a25c92ef49217f6cc52299f2cb80311c53f7121e8e02a31ec",
+        "url": "https://files.pythonhosted.org/packages/44/4c/681d17e35cd52a2321c4d03be5c26056b4da32ca392f4816103a560faba1/klue-client-server-0.0.55.tar.gz"
+      },
+      "0.0.58": {
+        "sha256": "68c54d42f3a994bc3dc55a5abf5051ba94fc4b398e95ef44fb4ee9e4b2248402",
+        "url": "https://files.pythonhosted.org/packages/a3/69/0e8082ca0af1383794446548839c603e4a2e14aad694345aee3e2bb8a1c9/klue-client-server-0.0.58.tar.gz"
+      },
+      "0.0.59": {
+        "sha256": "bc0e0debb55cb6293e9e6a1d85b79fcd27b2be040cd8fb3c572b67349d21a3cc",
+        "url": "https://files.pythonhosted.org/packages/0b/e0/950b6999b027eecc0017998f1a213d0f620b6db7ac0ae920a9d86bde1433/klue-client-server-0.0.59.tar.gz"
+      },
+      "0.0.6": {
+        "sha256": "d1651800c7e70d1e27e5c03eedb3e728a690f3efa3f6459927d0446cf524ad86",
+        "url": "https://files.pythonhosted.org/packages/67/da/1f128fbb7a38ddaa69a4e8a2e3d35aa4424ca3e9d2f7e88bb1e4dee13055/klue-client-server-0.0.6.tar.gz"
+      },
+      "0.0.60": {
+        "sha256": "e51b6c63b0d7ae3b540291a774678ae6c795f0ee4c6181f675bb2097ddfb90b2",
+        "url": "https://files.pythonhosted.org/packages/13/60/936c136272fcaad209a04003302114df56e702310c1a48623fe966b849be/klue-client-server-0.0.60.tar.gz"
+      },
+      "0.0.64": {
+        "sha256": "5efdb62d14b85b26ecf1a836b55bc6561b5052510e147357f8b89a9e824609d2",
+        "url": "https://files.pythonhosted.org/packages/e9/39/901dca3211225534f95ae199ab0187d7fff50ff0dd4f8c6e6dac125b603c/klue-client-server-0.0.64.tar.gz"
+      },
+      "0.0.68": {
+        "sha256": "2bbe66801d3d0fa244c33b89fc220323a3d95fc5ad3f756d0b7f6d33032a4576",
+        "url": "https://files.pythonhosted.org/packages/09/66/7ea05c6c72589199712a23ce57a73b8aa3b4fd727987decf12afa8e471fd/klue-client-server-0.0.68.tar.gz"
+      },
+      "0.0.69": {
+        "sha256": "210ca5347e64d2c61ba8878025a9199346a892a7d6443c3e76ce3f2720f905cb",
+        "url": "https://files.pythonhosted.org/packages/c0/0e/e269b9e7f0bd61867f9e7e93793ee4d32895c3fc2a5a0c3c696ca36795c4/klue-client-server-0.0.69.tar.gz"
+      },
+      "0.0.7": {
+        "sha256": "0760267438867c7cfa3ffdddd82ec50cdb60e98e34d5e45596a9500ffdd90085",
+        "url": "https://files.pythonhosted.org/packages/85/33/2925a33287e761908ebd2aa63dba627ae1ee238a1c30e78aa557a0a468fe/klue-client-server-0.0.7.tar.gz"
+      },
+      "0.0.70": {
+        "sha256": "1cb72c7d6e03c8048a0ce89032b7d4f807b0d48f9da9cfd5aeff745f2351e08d",
+        "url": "https://files.pythonhosted.org/packages/8d/e4/281ac4a9de79eefa546a36a0eb462489968ad5b81fba451831d19b9aa258/klue-client-server-0.0.70.tar.gz"
+      },
+      "0.0.71": {
+        "sha256": "209e50f8559a43f0400be4225f36140c8bf4a7fcc0049d4f8a18eccae9367d61",
+        "url": "https://files.pythonhosted.org/packages/ac/ef/2ede14d44e295e0b17180c65631a44fa4297a8622aad05f9bf633cee0a74/klue-client-server-0.0.71.tar.gz"
+      },
+      "0.0.73": {
+        "sha256": "f6575c752f2bd0a3fa062a8e431f8cb8f139099963b9402f10055dd13766d13d",
+        "url": "https://files.pythonhosted.org/packages/6a/90/577692aaf15fb11ab26ba54d3b2999592dd5ff0dc76e119a3afd3d96b0ca/klue-client-server-0.0.73.tar.gz"
+      },
+      "0.0.74": {
+        "sha256": "2b7afaf612ca06227c240022946933e36e98ef2b9b69305373f830108fae4a29",
+        "url": "https://files.pythonhosted.org/packages/44/07/575215cc78c42ccef10b189ff7fb304ce79b97b69072257ab49ee04a36e5/klue-client-server-0.0.74.tar.gz"
+      },
+      "0.0.75": {
+        "sha256": "c1864ab2bbdeb6515c49a4944aa86345b0591091598443b9fefeb610c4bb59d6",
+        "url": "https://files.pythonhosted.org/packages/8d/25/c888df5767c81bb7b0e83a1ddb2d53052d49f7129dd5c1c7d022b56ac544/klue-client-server-0.0.75.tar.gz"
+      },
+      "0.0.76": {
+        "sha256": "b3cc92f0d78b94fb458683ebdb031b9453a99d00770b8b427df5a9d8da3fdc61",
+        "url": "https://files.pythonhosted.org/packages/fe/ed/e7b3e3821c2d670b0c138aae66494908f29eaa674fc09d73a79a263d5aaf/klue-client-server-0.0.76.tar.gz"
+      },
+      "0.0.77": {
+        "sha256": "c01a3e433f817a1a2a5fd6334b47a02a578b0ff91c966f0320298d709ca88f83",
+        "url": "https://files.pythonhosted.org/packages/b7/61/6767f08107444e0bced0326a9a2466ff041f55bb802f81906f02867ce0e3/klue-client-server-0.0.77.tar.gz"
+      },
+      "0.0.78": {
+        "sha256": "7f5e1ccfeeabdf3248ae059c21841418010d019c98146294a14bed5bfe480b66",
+        "url": "https://files.pythonhosted.org/packages/da/51/16f1369c529ff585654ef3e5872493a3c83a0ef574ab7ad1f169e04d662f/klue-client-server-0.0.78.tar.gz"
+      },
+      "0.0.79": {
+        "sha256": "e1764661984600d4aebd9cdac027dda0a7609c425832609579f9b7b2d0960663",
+        "url": "https://files.pythonhosted.org/packages/fa/4d/e37956291fc4c76503112da6a6c5502f10e52ff5359e9fb564e4474aa93c/klue-client-server-0.0.79.tar.gz"
+      },
+      "0.0.8": {
+        "sha256": "573a1615e41d71c6bcbce9edb72e866bf090a7e4c2954ef9234b89b4de62ca2b",
+        "url": "https://files.pythonhosted.org/packages/2c/b3/1c3390cd566bbda6ac580e286171ed58a1b9906625c08e6912181feee149/klue-client-server-0.0.8.tar.gz"
+      },
+      "0.0.80": {
+        "sha256": "33f427ccf0f2f128ebecbe5e8cbf1eba25a476c2fd6a66f712f181dbe28b362f",
+        "url": "https://files.pythonhosted.org/packages/e3/6c/c2996823925e819f751c5b3ec751266b42bce1b81ad7f5875842c0cf82d0/klue-client-server-0.0.80.tar.gz"
+      },
+      "0.0.81": {
+        "sha256": "6368f4ce42a684e6e69c2289af3f5b90fa9fd9aba16a1db09286dced57f02517",
+        "url": "https://files.pythonhosted.org/packages/50/4d/0d2ee56ac4756ec52696737af9afaf82557757104a8eafd6d54546d7af21/klue-client-server-0.0.81.tar.gz"
+      },
+      "0.0.82": {
+        "sha256": "5433ed48d2bc622781189cf7dd39ee9e591cbc4d9aa957beebc35364aa2d8e53",
+        "url": "https://files.pythonhosted.org/packages/19/46/7142125165c56595452887f2a03c74b23a7afc21e1d5d084649cf41a993e/klue-client-server-0.0.82.tar.gz"
+      },
+      "0.0.83": {
+        "sha256": "04dae490a0cd572c263bc1a5a8cf1e1ea624baefd7fc66952d1fffbb3f07cfc8",
+        "url": "https://files.pythonhosted.org/packages/33/4e/d7c6bff2f740e604eb61f38e91609928a43539f869384c18617bb3a4beb6/klue-client-server-0.0.83.tar.gz"
+      },
+      "0.0.84": {
+        "sha256": "3b9632031132d26231387349928c7bbf7c510f50a8a145cd2ae2126cd27302da",
+        "url": "https://files.pythonhosted.org/packages/92/52/ed8d6135f65b6b89f7f8363a49658d623d3b49a52995b170a62fe563878f/klue-client-server-0.0.84.tar.gz"
+      },
+      "0.0.87": {
+        "sha256": "9a18bb8fefb67cea6cd621e30abcb4298e0532bd3215e0c7ef4462723f4d13d4",
+        "url": "https://files.pythonhosted.org/packages/c4/fb/bee0bc9e9c36f9172111c6cfd5bfd948e20acd979240240d73c242a5dc12/klue-client-server-0.0.87.tar.gz"
+      },
+      "0.0.88": {
+        "sha256": "7b5f7a91e95e9fd8129edb230a2a5c3c785185753959b5abf7a83aac4f5d413e",
+        "url": "https://files.pythonhosted.org/packages/9a/ed/3cd2b8d8f1ee58f1b50696f5fec73537f46db06d580523e704f1d8ec4822/klue-client-server-0.0.88.tar.gz"
+      },
+      "0.0.9": {
+        "sha256": "ec95cce4adffcf9fd9b50c43284ab3362f0993d8fb4b91439a5f9b8daf10fc2e",
+        "url": "https://files.pythonhosted.org/packages/c6/3c/10a21a3f8f3fdb7bf73c62743704f0fcb9a174c460643a082423fb0837d6/klue-client-server-0.0.9.tar.gz"
+      },
+      "0.0.90": {
+        "sha256": "78095c8376d56873acd9c9ce320e5e1a8a0012bb2ac8865177fd41c010f3736f",
+        "url": "https://files.pythonhosted.org/packages/66/35/c1665aca64fb0ac4198427327451661ac74eced31441db7baf64d4d133f6/klue-client-server-0.0.90.tar.gz"
+      }
+    }
+  ]
+}

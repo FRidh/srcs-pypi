@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.1.4"
+  ],
+  "meta": {
+    "description": "A Django pluggable app that automatically generates and injects shortlinks into your webpages",
+    "homepage": "https://github.com/octothorp/django-url-reduce",
+    "license": "Copyright (c) 2010 Kieran Lynn\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "9109d445b7ae81329d2dea75840660fe518057cbb09c6ca1ef16c16a66694927",
+        "url": "https://files.pythonhosted.org/packages/31/24/fe92641b22c6f4ee22f3c4ca0fa024301f6f1923e752953f15a5e0e753d6/django-url-reduce-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "24f49fe2e61009830f9131b13a722e937d02c3ddd68809c70293e27d04ac7f3f",
+        "url": "https://files.pythonhosted.org/packages/f9/ed/e75a3172d9e94e09cc35d4b445c7cd34bdfa0e2097e8e1bedfb7f072006b/django-url-reduce-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "58f70cdfbdf4034d3fdc1bd36eda8f1216676369ccacc9eeab125b2e9e0ccd29",
+        "url": "https://files.pythonhosted.org/packages/e1/ca/46168eb2f11f510020edb950c9d479d833691c73ec06e041671592bbd1a3/django-url-reduce-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "9fcb635dede3ffaf51793642bb680f5f531824ff7cefed5e7e2cfa469dff3333",
+        "url": "https://files.pythonhosted.org/packages/dc/b8/0518831f954c2acf921e8eb8570620f68ba95314d232b4b4bd35d91d6800/django-url-reduce-0.1.4.tar.gz"
+      }
+    }
+  ]
+}

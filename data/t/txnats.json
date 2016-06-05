@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.5.2"
+  ],
+  "meta": {
+    "description": "NATS messaging system client using Twisted #microservices",
+    "homepage": "https://github.com/johnwlockwood/txnats",
+    "license": "The MIT License (MIT)\n\nCopyright 2015 John W Lockwood IV\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\nthe Software, and to permit persons to whom the Software is furnished to do so,\nsubject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\nFOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\nCOPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\nIN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\nCONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "ad9a59e2366bf2dd25ffd2a2406ebee7a12f11e105a5e5671139f0087e6ee755",
+        "url": "https://files.pythonhosted.org/packages/cf/ed/aa74fb0d690c09fd5688bd057e20e3c9617b9b9f67554ed8b95a0dfe6f1f/txnats-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "4d8c03e7402bac510f794765c5695b71251c2f1aa665dc1e7a4222e2057e00ba",
+        "url": "https://files.pythonhosted.org/packages/9b/a9/2a391d19470b1f50b1eee2e5efa12c63a3229a48db5a87b41e35131488e1/txnats-0.3.1.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "a1f672dfd65711a7d50b87118fc521ecccb8b0f4f3f5c7cfa47be2c3efde9ecc",
+        "url": "https://files.pythonhosted.org/packages/92/18/5ff6e94b5f0e22d630339be82956828ea70b3f76a7a10868612192dcba77/txnats-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "2e9e89fb0bee59c20170e3322a6568bb7749290c8c4fb459412b371b3c839a63",
+        "url": "https://files.pythonhosted.org/packages/0e/52/6f8daacb22ef0ba2a9f696f9044af6057e13d60f79dfb1bd6041e9f95ec2/txnats-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "b9996c046c922720190b198ec2423632da8753f96e4668b9bbfccdd4b7dfb886",
+        "url": "https://files.pythonhosted.org/packages/08/da/4fd8c3454e3809a290a1198e53a23f8953059a772776ee408baca25b9e04/txnats-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "879f4c28d3f71b505b49cdef312a023dc120c8185932359f3bae145ffceab8f4",
+        "url": "https://files.pythonhosted.org/packages/31/c1/54375bf6297e564a14d798faeeb65e49b36014423338ddb513f25209d77d/txnats-0.5.2.tar.gz"
+      }
+    }
+  ]
+}

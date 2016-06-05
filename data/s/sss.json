@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Simple Scrum System is a basic Django-based Scrum-like project manager. It takes advantage of the automagic admin contrib site",
+    "homepage": "https://bitbucket.org/brunobord/sss/",
+    "license": "WTFPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "0acf596d98d87de9adc9cb945c55d928380411909a1786c5f3f0d47e91a34ee9",
+        "url": "https://files.pythonhosted.org/packages/13/32/1f0448333fc219940781e549e01837e510f665dc90a7664fffdc3179e152/sss-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "534a072890d0349153f13bfc7616e4b043c655683f1485ddbce889e26d79b303",
+        "url": "https://files.pythonhosted.org/packages/fb/97/b5969363dc8f94778bb8b32b73d3fb2bd53c9ad93382796b0ba7783b423d/sss-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "3d894976cab053568ea8f20fb0ee66d2adeed9a4bf917a9fafb6ca2169a1fd02",
+        "url": "https://files.pythonhosted.org/packages/64/94/b2ec41098109dff6ae9866fe7ab4743008fa7715fa402040a6a0cf194d5b/sss-1.2.tar.gz"
+      }
+    }
+  ]
+}

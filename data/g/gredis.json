@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.8"
+  ],
+  "meta": {
+    "description": "gRedis is an asynchronous client library of Redis written with Tornado coroutine",
+    "homepage": "https://github.com/coldnight/gredis",
+    "license": "http://www.apache.org/licenses/LICENSE-2.0"
+  },
+  "versions": [
+    {
+      "0.0.7": {
+        "sha256": "5bb0a7ba2681c77a30a28498180ec286968e38270e7f87197f7a662f413bc0a9",
+        "url": "https://files.pythonhosted.org/packages/4e/a3/f5c4a111e5cfa9bd6f5f701c67d36d570b6601c2ff5069880c151477c55d/gredis-0.0.7.tar.gz"
+      },
+      "0.0.8": {
+        "sha256": "494961bd00a9d050a05c31e76c555f1a347dabb924a968d1210c200fa00d878b",
+        "url": "https://files.pythonhosted.org/packages/b1/5d/f62daaa85e043129760c89f47c65c97fe31dbd5aa1c83dfa66a1d0f37d76/gredis-0.0.8.tar.gz"
+      }
+    }
+  ]
+}

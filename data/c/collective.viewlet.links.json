@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2rc1"
+  ],
+  "meta": {
+    "description": "Viewlet displaying user-editable links on portal or folder level",
+    "homepage": "http://plone.org/products/collective.viewlet.links",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1rc1": {
+        "sha256": "544e69e512b1c9e4f68d0f55f9fd4bd1fb494048822484831c4d0f61dd4a9760",
+        "url": "https://files.pythonhosted.org/packages/b0/9d/275028cf4621a5cb72b0d50dd9ab187cc8fe708e01704cc56abb9a57371c/collective.viewlet.links-0.1rc1.tar.gz"
+      },
+      "0.1rc2": {
+        "sha256": "755d3b75d75d80d1d0d17ac8d4df617fcb7fb0d5ccecddb93f0e140792478ebc",
+        "url": "https://files.pythonhosted.org/packages/97/53/de71e90a248c5062264fa75e215af6c3baca04a9c39a28fbff1101444f71/collective.viewlet.links-0.1rc2.tar.gz"
+      },
+      "0.2rc1": {
+        "sha256": "00693a9a30b22dfb41afb9b7d442c91fa474626ee09594dcf801d5e3ae7a44e8",
+        "url": "https://files.pythonhosted.org/packages/aa/46/c6473d5023c601d243c29dcea438ae4643e43418ed1f127d827e65ce46b5/collective.viewlet.links-0.2rc1.tar.gz"
+      }
+    }
+  ]
+}

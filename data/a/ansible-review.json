@@ -1,0 +1,86 @@
+{
+  "latest_version": [
+    "0.5.1"
+  ],
+  "meta": {
+    "description": "reviews ansible playbooks, roles and inventory and suggests improvements",
+    "homepage": "https://github.com/willthames/ansible-review",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "88bd143cda3959dc2d002433f1b500eb2e7b6b64538b9b675af23ffba167d144",
+        "url": "https://files.pythonhosted.org/packages/42/14/3c4f5651852c21b3be46275bff6a1eee20fd872d7fa42d4c939500631464/ansible-review-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "5ec0ec60d58b749e24d15713159d312a454099c7dcb0fde31534ff28741d72ae",
+        "url": "https://files.pythonhosted.org/packages/36/b8/478a275d1304ce9d33fe1c58d43d8f8c08e67ea359194538f6246c91eb94/ansible-review-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "eb27242c45edd0f1998beb53b718e2651b773e9e1cde4c7f9178d045d1479e54",
+        "url": "https://files.pythonhosted.org/packages/e4/1f/7d6f64513fa898e9c9f6b1b0ab3dd66962f9a1bf9cd2c2269235984f6c60/ansible-review-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "ba698b4982da1376cc85dc61c4b6cc8c099aba870d94d0e6f88abf1944d9c5f7",
+        "url": "https://files.pythonhosted.org/packages/30/4f/f43c674754c8afc8d771513b3b891163641dca262258936089a3620fd258/ansible-review-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "f1e9d1e0d0645a53649a1bd9dd72ad68fa007a3cfd90f575a2e8decc2fe3c2d2",
+        "url": "https://files.pythonhosted.org/packages/b5/72/93382a958074727ade9a2a00a9149c66ef691c6e350e097410bbaf434530/ansible-review-0.2.2.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "bcba2d6a238f3d3b706b65231752e84bf603ae937ee0e5cf4adb128a9ebb177f",
+        "url": "https://files.pythonhosted.org/packages/09/3b/af2f3b7bbb54a6efcbde6f5eea247917fad775a0246418ffe39937e6fb4d/ansible-review-0.3.0.tar.gz"
+      },
+      "0.3.0rc1": {
+        "sha256": "0d0b33d6712727fa1ab0fa8fd8da8d027a718295fadb06cc8653ae938c386c4c",
+        "url": "https://files.pythonhosted.org/packages/fa/1e/ae43556bbb3905233daae7f5f8d1de464006c5b06ab1ecc0875e49ad1d56/ansible-review-0.3.0rc1.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "48a4894645372756897abc1f08bf62967422ce2bb9b536096797e34faf99d412",
+        "url": "https://files.pythonhosted.org/packages/10/58/f8a5cfb1c5d5c0573a60633b1f060fe13b5e2019602e67d2c0b4369557c5/ansible-review-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "7055106fe6580206c6866dd4c8e73d06e83760a5c93c07cac0a36e8bd687e49f",
+        "url": "https://files.pythonhosted.org/packages/88/d6/30a41727fe5e60d57d1e65177fca97771e4d75e5e6f62f9cf93db74750cd/ansible-review-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "4be07dcd93e919550f56fff4c7d2e16b3eb6a2f020166afe7771fde36a0a1068",
+        "url": "https://files.pythonhosted.org/packages/bf/b2/f17780bcdd8069621036ee52db0b6e3b879667b6dec2849df514851e5765/ansible-review-0.3.3.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "bdae2e3d9976b85caa673aaa7da92567caaccd7b8e38501e70bf6bd7ce24cd82",
+        "url": "https://files.pythonhosted.org/packages/b6/3f/947a6ca88b22776141f99b5062276e86c70e11df75176873e3a654dbfffb/ansible-review-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "2787cbb2f6520b4736931de08a6583f285402e6e9991d3d3c59a2e17ab171506",
+        "url": "https://files.pythonhosted.org/packages/f1/d7/f56c7bcda3514d9a8b0283f5853d903d71570ef209f992c4644e791eab6d/ansible-review-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "b21668d6dfed1c3a156f5fa830249b66db2a267b9b2730a6b8c259c44fd32256",
+        "url": "https://files.pythonhosted.org/packages/69/ff/d54ead7f14cac23f0baf552ec4e0e1adc8613463d6cc01a701ae054709c8/ansible-review-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "3b4cdc09f8957ad4651047ba830602c62e7e5a4bd1e3732c329b60b7f9aceca4",
+        "url": "https://files.pythonhosted.org/packages/80/83/4906c0821f269475af62f5e2d55734f96e27f454cd70ae2bc4bfd6eefc38/ansible-review-0.4.3.tar.gz"
+      },
+      "0.4.4": {
+        "sha256": "e5f89e2682a617fcd54c087596b33b5412c89c4310321f06f09c753e0aa1eb3f",
+        "url": "https://files.pythonhosted.org/packages/ac/f5/5a237802c50b1fc217f7d154006d30206eef7eef6e19fa88391d6821e5d5/ansible-review-0.4.4.tar.gz"
+      },
+      "0.4.5": {
+        "sha256": "73cc9cb6632b55e459fb7e3160b57b3fd81778a96eea4f46b39d9e735e097fc8",
+        "url": "https://files.pythonhosted.org/packages/43/95/6c615aba5a8b9cc484bef84e535116360574fd113fcc3517b2a680aa059e/ansible-review-0.4.5.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "462625dc6158b9e8bcb96689a47af42ace2aebd20abd662a706dec386aac19c2",
+        "url": "https://files.pythonhosted.org/packages/ff/6c/cca4972d16c14db0055367d15965a17b97abe8558acd30b078743b78f973/ansible-review-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "db14b7716fac5d7862126f5506ca86e048c449ad917369279d1b19f08d166c2e",
+        "url": "https://files.pythonhosted.org/packages/38/14/e4187023fc2f492b13ac4950da28b2573512ec4ac0d21b5c1aebd0d233eb/ansible-review-0.5.1.tar.gz"
+      }
+    }
+  ]
+}

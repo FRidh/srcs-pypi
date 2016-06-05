@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.0.1"
+  ],
+  "meta": {
+    "description": "Docker image rotation tool",
+    "homepage": "http://locationlabs.com",
+    "license": ""
+  },
+  "versions": [
+    {
+      "1.2": {
+        "sha256": "0176fdc77c0ff99f4380edee9408be988281ef7c272fd29d8db618ed0bfeba79",
+        "url": "https://files.pythonhosted.org/packages/07/94/179676cc1c7db6ec69f8b3cf41d9e564de5ad887e6e50dc164ebef6f97af/dockerrotate-1.2.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "72a9206e3e496421109e571d1e64d3aa5f52eff7c04a85c07764ba4d83427334",
+        "url": "https://files.pythonhosted.org/packages/85/1d/60a333e333f0d4fa738d1bcbd0a7654c641d07663a9ff367294a6b8ac72f/dockerrotate-2.0.1.tar.gz"
+      }
+    }
+  ]
+}

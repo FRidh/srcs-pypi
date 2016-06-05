@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Patches for Zope's ZTUtils in order to make 'make_query' and 'make_hidden_input* more flexible and more reliable",
+    "homepage": "http://pypi.python.org/pypi/dm.zopepatches.ztutils",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "6acaf5e553f0e9cfbbe529e2f18dfbfc8e15fba3e6fe187523b99f719780d156",
+        "url": "https://files.pythonhosted.org/packages/e8/63/6519c890be8de725e33eb9de76b5618891b3b8ab9659b3c88f8cea685d5e/dm.zopepatches.ztutils-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "bb81439c15279f4a74831327e569dc4e5384cdc0930e5471521675d451392003",
+        "url": "https://files.pythonhosted.org/packages/72/91/7a9c927894c8c501b500b10396a7fd31b0c932c0a2d1407d280fbc0038ed/dm.zopepatches.ztutils-1.0.1.tar.gz"
+      },
+      "1.1": {
+        "sha256": "3de010d5997f35e8dc463424f6fde87d30977736af0fcffa4c2471950cc6c653",
+        "url": "https://files.pythonhosted.org/packages/83/ff/0061974ee0d47ad754093da50a5ddc67eecbc4da193dbae7851f364c26dd/dm.zopepatches.ztutils-1.1.tar.gz"
+      }
+    }
+  ]
+}

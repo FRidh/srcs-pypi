@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Python module to assist in taking advantage of the Kinesis message aggregation format for both aggregation and deaggregation",
+    "homepage": "http://github.com/awslabs/kinesis-aggregation",
+    "license": "SEE LICENSE IN LICENSE.TXT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "1bbd4e77607da5001ae27df5080e9a3cc26f0b4f5c268342655563ff328360bb",
+        "url": "https://files.pythonhosted.org/packages/d6/88/1653afe42064444074ff44a5049ed6065b2b5e7a9c5c0723205cd29431e0/aws_kinesis_agg-1.0.0.zip"
+      },
+      "1.0.1": {
+        "sha256": "707618375ef1cd8b6f3434559fd52537c889708600faf857d68fac60fe2e6bd8",
+        "url": "https://files.pythonhosted.org/packages/31/5e/d5ef137d6122a58cca610c0f18a5c5a3578221bae5fe67bd7bf29454f4d4/aws_kinesis_agg-1.0.1.zip"
+      }
+    }
+  ]
+}

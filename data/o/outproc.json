@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.14"
+  ],
+  "meta": {
+    "description": "Pluggable Output Processor",
+    "homepage": "http://zaufi.github.io/pluggable-output-processor.html",
+    "license": "GNU General Public License v3 or later (GPLv3+)"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "d0045b3ff7906ebcbdafa2ce4397b2413530f27ac3ad8ccf9741af8069d5259c",
+        "url": "https://files.pythonhosted.org/packages/1e/71/e0a1a832b57951218426c36c440e340528f4600801499ff7e699d9ee2bd0/outproc-0.10.tar.gz"
+      },
+      "0.14": {
+        "sha256": "a7a8a2684d98ee7779931dfdc54949250b85c571d178bbde7470edbaea2299e9",
+        "url": "https://files.pythonhosted.org/packages/8d/6e/ab3c993d25220345ea0367c7b657c5ff87e25bea236e5b552cb152052918/outproc-0.14.tar.gz"
+      },
+      "0.7": {
+        "sha256": "1cbe53bb93a2a84c6dec6b5df968a439465bf4091b59bf5da02688b4445fb643",
+        "url": "https://files.pythonhosted.org/packages/f7/02/185c0db7643b343fbb151ffc520d8dab6fa4260354eb17abda17ff155ce7/outproc-0.7.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "55efbaf6141a699872bf62e98201d90bf37a7cf8e101a7183ee8e16fa8c7e3fd",
+        "url": "https://files.pythonhosted.org/packages/fc/3e/dad8b86b3380c144412349b7d3a44f7377b62d75282100ccdb652444d338/outproc-0.7.1.tar.gz"
+      },
+      "0.8": {
+        "sha256": "188962581bac111429bac0172ff8c1ef39ea80eb87ad8e06fcf0e47344272462",
+        "url": "https://files.pythonhosted.org/packages/6b/f4/b09e3b6af2ed2abdb385592de36bfa4ac0d75bbaab7c75959f27069199ef/outproc-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "667c781c7952cb865ee317db34125f03ed6640f833121d6dfdbbc0a3d617a158",
+        "url": "https://files.pythonhosted.org/packages/e1/8f/6767c8c91cad51a3dbfd6343bcc39926b9c2ebb56ff1fab4c2f1f9a2c360/outproc-0.9.tar.gz"
+      }
+    }
+  ]
+}

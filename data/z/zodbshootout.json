@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "A ZODB performance test",
+    "homepage": "https://github.com/zodb/zodbshootout",
+    "license": "ZPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "f1ccbe75fc5e5cd2d2a7dbd65c3f7863feed7c351ee4531faadad7fd8b503f3a",
+        "url": "https://files.pythonhosted.org/packages/7d/1f/9e99b58d752f10774d125cd2c3037d574d161b766c2462f17435869ece20/zodbshootout-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "473d705699ab2678f68728ffc366495c37a9445ed07151654e4a56b6576fb402",
+        "url": "https://files.pythonhosted.org/packages/1e/3c/c7160615558ee540ad740b11971b5a0cbc4aadcde459e7b83dd9beb85ffa/zodbshootout-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "f83b23eed586c046644706a6a0a6c60538cae6b35d0ac38f0e841b96d6353ed9",
+        "url": "https://files.pythonhosted.org/packages/5e/d5/99179b74daa4bbf930ef64ac285dc21bc27143f0d7823ee27c4c8d610456/zodbshootout-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "0d8eff66d7c26d26e475f670eb03e34cc1d87fe8b1fbf72fc9a5a018d06ba2fb",
+        "url": "https://files.pythonhosted.org/packages/70/dd/5c4e2627ca856dae66b757bc51fea75c93a67c331f3db5cb4975107f695c/zodbshootout-0.4.tar.gz"
+      },
+      "0.4dev": {
+        "sha256": "8f7608e5f9605a9fc80b1979569e35542af6c85db2db4c9da6aa45360cc9b83e",
+        "url": "https://files.pythonhosted.org/packages/df/1c/80729905bc31d9570fc9fe99d5a11fbd13f4691fbdab003e43311c4a7bf8/zodbshootout-0.4dev.tar.gz"
+      },
+      "0.5": {
+        "sha256": "9242139e900bd69c89c1b3cb3dab68dbf00376ad32954df7538f9788b36e9c6b",
+        "url": "https://files.pythonhosted.org/packages/a3/c3/0cd12122493c553bc83e447cd1705a3a949891f1cdb17ab2ea5828fb68ed/zodbshootout-0.5.tar.gz"
+      }
+    }
+  ]
+}

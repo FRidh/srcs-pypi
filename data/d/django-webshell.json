@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Django application for running python code in your project's environment from django admin",
+    "homepage": "http://github.com/onrik/django-webshell",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.4b": {
+        "sha256": "a0e4360b564e8067aa539990e0c1147dc275704c52a00806f2213c9c03adac96",
+        "url": "https://files.pythonhosted.org/packages/56/4c/1aa442f19da7a6f36c9387d687852c5bf58728faa393f3490701e1cab10a/django-webshell-0.0.4b.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "5629c4a1993629ed73a4e0a1ccf99b151101004ae3ffe0d50f4416960c5d90ee",
+        "url": "https://files.pythonhosted.org/packages/5f/21/a186522e4cc60212f8647ec64cc04cc897a3fd651f86c9009e42ac803ac3/django-webshell-0.0.5.tar.gz"
+      },
+      "0.1": {
+        "sha256": "46bc6445ccb01ffe33743ef684a69777e90d1b3c7b28556091facc1c954891bd",
+        "url": "https://files.pythonhosted.org/packages/b3/fd/e8d638e060ed0a93207e7b91b23f64dad923300869d144fa9c93f973283b/django-webshell-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "833eddc563f3fa65d6dfd3c8fc8c4fb054fcbf1a727e0d536a634674e70c58ae",
+        "url": "https://files.pythonhosted.org/packages/31/9f/87770c9d3a94b356110cf1f8a9a1011bb6d87bf2c596af89a59dffc767f8/django-webshell-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

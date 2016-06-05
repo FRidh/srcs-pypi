@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "A Django app that allows you to use a url based definition for adding middleware to a project. This means you can add middleware based on a url pattern rather than globally",
+    "homepage": "http://urlmiddleware.readthedocs.org/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2.1": {
+        "sha256": "08a4f20845c48b533079803d0445e69137a71c34f9c90ebae3a3b6935c79916d",
+        "url": "https://files.pythonhosted.org/packages/b5/40/de60c0a60dffd251ecdc1407c8abfbf6cfff75c115f4eb12c2274082d0dc/django-urlmiddleware-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "89f776286b94dc868c8a48d1a729012a589ec94a03923c732c6284c83b2ce16f",
+        "url": "https://files.pythonhosted.org/packages/30/00/82d94d36db7e4c8f0030e9d8ebc7217d88c4c03ab4f1be469eca3b98aa86/django-urlmiddleware-0.2.2.tar.gz"
+      }
+    }
+  ]
+}

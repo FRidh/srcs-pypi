@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.8"
+  ],
+  "meta": {
+    "description": "Check OpenBGPD sessions Nagios|Icinga|shinken|etc plugin",
+    "homepage": "https://github.com/jpcw/checkopenbgpd/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "b4f570b02e3e18d58159c2abf4773e53cf10e5b0956207a20883d3c854142182",
+        "url": "https://files.pythonhosted.org/packages/4a/92/f15fd25027c797b01ed6a8dcff56b45fbd042580d452e034c48a557b930c/checkopenbgpd-0.1.zip"
+      },
+      "0.2": {
+        "sha256": "10034e33e3ae6f81d6ad2554d64a08380f1b4216d8d6f49e9d1b11529f9aeace",
+        "url": "https://files.pythonhosted.org/packages/a6/43/cd1fb112f0cf8267a21f72a578e06274f91869c8fc4326fc2649f159fd65/checkopenbgpd-0.2.zip"
+      },
+      "0.5": {
+        "sha256": "a0932fab4acd59b3483ca879fb01a9789576d4e5d948a1178658138a67bc1f10",
+        "url": "https://files.pythonhosted.org/packages/63/ac/41586d78ae5e737741b736d29365ca6b78c15b110b24ea1946c3c83f1f5a/checkopenbgpd-0.5.zip"
+      },
+      "0.6": {
+        "sha256": "7bd096916b767cc69932446f494502ba8a976a65ad0df76d7af7d35d889601d9",
+        "url": "https://files.pythonhosted.org/packages/7e/b5/b03a48bdeda3bd0478fb3469342a8a33fa2fa4c0bd6f75ebd37623cf496e/checkopenbgpd-0.6.zip"
+      },
+      "0.7": {
+        "sha256": "8624057e8fb0280243ade5c5100af8bd5f0a58bbf2efaea0ec540fbd867c80ad",
+        "url": "https://files.pythonhosted.org/packages/ae/8d/84c3da03fb7414572ea15e375c4dc1e4399b95deef8ae1f64f0d953d3aab/checkopenbgpd-0.7.zip"
+      },
+      "0.8": {
+        "sha256": "f54782e47fceeb7f4edd926b7769c0c696f757ebb4a6b88c028e559af2e06bde",
+        "url": "https://files.pythonhosted.org/packages/e9/5e/85282a14f6aea8c660aa6d08e2d5c89461f74ba89a492aef1bb6bd00dbcf/checkopenbgpd-0.8.zip"
+      }
+    }
+  ]
+}

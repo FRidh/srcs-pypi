@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "implimention of tree regression in python,and you can set the spilt methods in linear model to split or in constant model by changing the argument and a use for both conditons.Then use matplotlib and Tkinter,we can build the tree and change it by change its paramenter tolS and tolN",
+    "homepage": "http://pypi.python.org/"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "99747ed90eaa940a4ff369e917e116d97283eb618d381cf53ea8f4e88612ba24",
+        "url": "https://files.pythonhosted.org/packages/ab/d6/17e43352aa571a9503ceb85d4f156496b0ee1307d118e0aecf0507f572bd/treeRes-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "d378773c2521929a862ae7eff07879fc50607fb3b800fc595e0a8f1a6c37fc6e",
+        "url": "https://files.pythonhosted.org/packages/c2/48/2670750191d33fb7f284b298793aa28017e1ff372a581318519a8a5fa32f/treeRes-1.1.0.tar.gz"
+      }
+    }
+  ]
+}

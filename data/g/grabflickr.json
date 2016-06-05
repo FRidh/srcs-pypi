@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.0"
+  ],
+  "meta": {
+    "description": "Download photoset of flickr, support single process, multiprocess and gevent(Asynchronous I/O)",
+    "homepage": "https://github.com/carlcarl/grabflickr",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "8f63381946f5ee6385fd40e515421e6a2f0e34edaa3eefd7e1363b288cf4f50c",
+        "url": "https://files.pythonhosted.org/packages/a1/73/182a63ee1c5fabcabe287ebee50137f99275d747da21ff0011e7673b8b1d/grabflickr-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "635e91c2282bff373391f8910317d2f6b28a0ab4706362fd63107b95ad40516c",
+        "url": "https://files.pythonhosted.org/packages/fc/b6/c0e535b3345846200c15d2a009799509ae7e49a1641717bd46cdd92ad3bc/grabflickr-0.0.2.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "71a571a106db0750f655cefcd0cd59c1e2aceed736880c4c83572d4f00a31d65",
+        "url": "https://files.pythonhosted.org/packages/de/91/5d20dc9932b8dc1bdd09352f120c825c5f601784d7b8f4aa7a6a981613b8/grabflickr-0.1.0.tar.gz"
+      }
+    }
+  ]
+}

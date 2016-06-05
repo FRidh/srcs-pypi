@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "XMPP/Jabber implementation for Python",
+    "homepage": "https://github.com/Jajcus/pyxmpp2",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "1.99.1-alpha1": {
+        "sha256": "a09a501fc812b9c03168305d24b56aa34ddda984c8aae5501818124635d69be0",
+        "url": "https://files.pythonhosted.org/packages/10/a6/4089ae963d5dbd7dd4f2e8c8fef6a38644dbf047f8a9d9d14e4fab46c46b/pyxmpp2-1.99.1-alpha1.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "f0a52358bdcb423c7d923d45d42048bb87eeb19f0715dbce7182f48498c408e4",
+        "url": "https://files.pythonhosted.org/packages/6e/09/ab7a2188b44082c525a2df3d154ae9b0b7881193ee59c4c477380c9672d4/pyxmpp2-2.0.0.tar.gz"
+      },
+      "2.0alpha2": {
+        "sha256": "193f6a6a6701bae641fba34534256ca11a65c3052df04dd051684cb4aa528f98",
+        "url": "https://files.pythonhosted.org/packages/05/d3/3e2370601583634e83a569207e52fbd8355cab25151602ad702af52ae464/pyxmpp2-2.0alpha2.tar.gz"
+      }
+    }
+  ]
+}

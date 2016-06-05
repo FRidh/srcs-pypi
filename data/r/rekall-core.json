@@ -1,0 +1,78 @@
+{
+  "latest_version": [
+    "1.5.2rc1"
+  ],
+  "meta": {
+    "description": "Rekall Memory Forensic Framework",
+    "homepage": "https://www.rekall-forensic.com/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.4.0": {
+        "sha256": "4b1a7627301f9dfd68783cfcec70e48f53368334ca2723d8aa9af0ab5d339501",
+        "url": "https://files.pythonhosted.org/packages/ae/7e/0e5f7b7470993b06c01d5cde242aea0771d0f6305cdd91d9b1a4f78e3998/rekall-core-1.4.0.tar.gz"
+      },
+      "1.4.0.post.dev1": {
+        "sha256": "020acad008c43b0b4caa6e6e17d41a983c036f99c7a0b791f6b36d0953b38e8e",
+        "url": "https://files.pythonhosted.org/packages/dd/c1/e0db28de7615058218a0485e7bd42b62b22ec1bc0632895a64e35c3f3c0c/rekall-core-1.4.0.post.dev1.tar.gz"
+      },
+      "1.4.0.pre1": {
+        "sha256": "07758e8283394e66a926d084d50a90ee795c987eb1d8f87498e9decf101e094c",
+        "url": "https://files.pythonhosted.org/packages/5c/94/2a2d11bbf176016e8c2dd4d674fb350969ec3d0195169b68333649965f4c/rekall-core-1.4.0.pre1.tar.gz"
+      },
+      "1.4.0.pre3": {
+        "sha256": "ae04876287c87c422b5d1a92e1b088b99f48aab3c5f9e69db79d18ed546eb0f8",
+        "url": "https://files.pythonhosted.org/packages/46/e3/a4ff4add53208880a878ba7c6aa3b52f46be59a47c1fde37b2763b6bdcd0/rekall-core-1.4.0.pre3.tar.gz"
+      },
+      "1.4.0.pre4": {
+        "sha256": "47a1d279b9810b911356caa0c84181a077e1399b3212af2c7e645e85fa0d9d9f",
+        "url": "https://files.pythonhosted.org/packages/d9/64/904418fa61d892ecb3a400848c8c7c0d3c2fcea33cad2f53790495653ef9/rekall-core-1.4.0.pre4.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "2708479ab985577ce23fabf1cc7f634cf64051e9c9b2abce47e40839ef31637f",
+        "url": "https://files.pythonhosted.org/packages/4e/ee/3fe0d37a19346ecdd8654691afb6f86b7feb0508fc297dc3812f5ca3a9fd/rekall-core-1.4.1.tar.gz"
+      },
+      "1.4.pre0": {
+        "sha256": "4135116e25fc91649571a78db0226cee11b96c7df94a32395904e1d3b21bfba2",
+        "url": "https://files.pythonhosted.org/packages/35/a6/210fbf1e990ebb493420d42f95399d5be954f7c259fb5ded146c6f14da2c/rekall-core-1.4.pre0.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "fc369c81af81e439f17eab6242781389dd54f90ab9f37760cc0af019ebd7cdef",
+        "url": "https://files.pythonhosted.org/packages/bb/0f/3100aa41c50a0fa88218798094d50cfb87219260208696c575e507f41959/rekall-core-1.5.0.zip"
+      },
+      "1.5.0.post0.dev3": {
+        "sha256": "2e0eefb18790f0fe80a3b4b7ebb5f8b0a6ceec02fe766aef477d6d566c32e75d",
+        "url": "https://files.pythonhosted.org/packages/da/0a/09c58fab4e5f70fecd02a7338e2119b3734746936e2fa9f82869c8750de0/rekall-core-1.5.0.post0.dev3.tar.gz"
+      },
+      "1.5.0.post1": {
+        "sha256": "bdef1781ba2573f62cb56a555991faf054ee96bf81473d14c6f01c602ad27339",
+        "url": "https://files.pythonhosted.org/packages/82/5c/84d5331dbb40e66edef65e8108bd7a51a5c501d6ec139919c2109aea28ed/rekall-core-1.5.0.post1.tar.gz"
+      },
+      "1.5.0.post2": {
+        "sha256": "c8f52641712bd7ef3a97f458cc0f33ad0b16b0faeedd820663eeb8d2b22d87b9",
+        "url": "https://files.pythonhosted.org/packages/17/3b/98e37db01363438b5d4643c3e7a64863f7f2fa3ca43a39b9935067bf04fc/rekall-core-1.5.0.post2.zip"
+      },
+      "1.5.0.post3": {
+        "sha256": "01410c2feef7a0155a5f3ee2bc744641abb22433e458cb73f026b558a86e7ed2",
+        "url": "https://files.pythonhosted.org/packages/b3/55/abf15ec73f9e255787b713ffc47797ad1e51b101ffa03f600088da5c7119/rekall-core-1.5.0.post3.zip"
+      },
+      "1.5.0.post4": {
+        "sha256": "f19a0f2968eb9e54363a3a73838acbd084ff9b2790a4e4c8f02ca7034ee916bc",
+        "url": "https://files.pythonhosted.org/packages/93/25/6cb44b93c2cb84823bc49dd464751d44edb29ccd704b7e502393b97d0963/rekall-core-1.5.0.post4.zip"
+      },
+      "1.5.0.post5": {
+        "sha256": "9de7174702eaab563778c63eed189b5d09a3e7294e34c3df6eca5fd0424d78fc",
+        "url": "https://files.pythonhosted.org/packages/5c/0e/98db2303f1e86276c5cb78fbff645dfe1011c081a8c40aa8132d293467cb/rekall-core-1.5.0.post5.zip"
+      },
+      "1.5.1": {
+        "sha256": "6d60d294bac406410a96f024642c42effda480e9d76cb4c04016f626c9c4514b",
+        "url": "https://files.pythonhosted.org/packages/97/2d/0b973f94ef0a42108dc811fb17e079dfdef9f089da4256758783c30ab36b/rekall-core-1.5.1.zip"
+      },
+      "1.5.2rc1": {
+        "sha256": "50c6f6c7fb45efc59f10723d13fc63c43764dbf170c57065551dc00d2836983b",
+        "url": "https://files.pythonhosted.org/packages/3e/42/e51e8f292504349805f66ee10c7cb3cb640c91b92f92a9682edc0217edfc/rekall-core-1.5.2rc1.zip"
+      }
+    }
+  ]
+}

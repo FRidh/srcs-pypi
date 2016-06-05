@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "MailBot: execute callback on mail reception",
+    "homepage": "https://github.com/magopian/mailbot",
+    "license": "BSD Licence"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "d04deb620717cf2a2a326a24616495fca83f47ef1fd421fb8d9abcae1ea9f737",
+        "url": "https://files.pythonhosted.org/packages/cd/10/ecbd98c649c98602a06c151d6f1ac835e92535a9693de5be95869155383e/mailbot-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "76cefc4c60ca879410629082b0975d072a960345c57ffaf2fbf07581f7162da6",
+        "url": "https://files.pythonhosted.org/packages/fe/bb/0c5013125fc47445643a03e3a9f5e623fc20eed31d65c3448a99db9989ac/mailbot-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "8fae77bc90df3cf393359f2f5506491782c7ff1683fc701edcd9b9f435a0b4fd",
+        "url": "https://files.pythonhosted.org/packages/33/2a/e41a7f77a4b4a27fdaa5293a81bc7817d5d8508588e90ef8c8511dc23e02/mailbot-0.3.tar.gz"
+      }
+    }
+  ]
+}

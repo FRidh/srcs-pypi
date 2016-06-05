@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "7.352.0"
+  ],
+  "meta": {
+    "description": "Python Bindings for the NVIDIA Management Library",
+    "homepage": "http://www.nvidia.com/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "2.0": {
+        "sha256": "2623b2d59e53ed84c04171a64ce3b130ddb3beb2a080fbc67535b2718ef0cf0c",
+        "url": "https://files.pythonhosted.org/packages/4f/63/2dad4336aa9d495dfac23273a39ff7bf8208c9c23c2e57b25e35f0846250/nvidia-ml-py-1.0.tar.gz"
+      },
+      "2.285.01": {
+        "sha256": "92340c3badfb1f0ea533481c5328fe78793d93e1d05873722f4409fb36de46f4",
+        "url": "https://files.pythonhosted.org/packages/59/12/6c806919e4fb351309ccfd5b7c931b578aff8a7d465474e3f75886b4fe8b/nvidia-ml-py-2.285.01.tar.gz"
+      },
+      "3.295.00": {
+        "sha256": "cfd2f487ef64b663c916feea755b4cb3e7811648bf2dcda10e63a1ad8310ffa8",
+        "url": "https://files.pythonhosted.org/packages/8b/6d/baec32ac41ea08bd796f42b367635096b70b99d6abb126967a0766f8709a/nvidia-ml-py-3.295.00.tar.gz"
+      },
+      "4.304.02": {
+        "sha256": "baa6d35421245d7285e9771bcbd1d3936abb0bc10af7ac67a12a2f37abaf75b5",
+        "url": "https://files.pythonhosted.org/packages/35/3d/86610d28b7b93a8696a66a76715984ddbedc0612ae48a8b37a3caf43cef1/nvidia-ml-py-4.304.02.tar.gz"
+      },
+      "4.304.04": {
+        "sha256": "ccc403c9206804642e2b1d6553b5b44aadbc7be9fcb06007ab1a4b66c4ae0286",
+        "url": "https://files.pythonhosted.org/packages/bf/0a/390865781cbc4984d54ea178931cd86e50a60fbc948ea0464cd1ff3ec273/nvidia-ml-py-4.304.04.tar.gz"
+      },
+      "6.340.0": {
+        "sha256": "74c7bc63858f074c758a3f7b21ede47d2db24c23539b05ee7d6dfc2b0820bae1",
+        "url": "https://files.pythonhosted.org/packages/c6/e6/96012c787981527afdb5d7a094534836d8cb07e97d378c996278100a3bb5/nvidia-ml-py-6.340.0.tar.gz"
+      },
+      "7.346.0": {
+        "sha256": "7a04fff2252202dc6f3d6ab50840372959cf498d0ba59c93e0361513b50a24d6",
+        "url": "https://files.pythonhosted.org/packages/3d/c2/72aaf55adbf953904332934d234686880d4765c0f9ee83d5de1995e825ac/nvidia-ml-py-7.346.0.tar.gz"
+      },
+      "7.352.0": {
+        "sha256": "b4a342ba52a51ff794af38279ce62f78b278ba5f50c13103af52c4f6113ff65e",
+        "url": "https://files.pythonhosted.org/packages/72/31/378ca145e919ca415641a0f17f2669fa98c482a81f1f8fdfb72b1f9dbb37/nvidia-ml-py-7.352.0.tar.gz"
+      }
+    }
+  ]
+}

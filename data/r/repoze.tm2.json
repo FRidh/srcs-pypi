@@ -1,0 +1,50 @@
+{
+  "latest_version": [
+    "2.1"
+  ],
+  "meta": {
+    "description": "Per-request transactions via WSGI middleware",
+    "homepage": "http://www.repoze.org",
+    "license": "BSD-derived (http://www.repoze.org/LICENSE.txt)"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "6234cd745a1e6b6e2344c6782319e17cbc9dc9bbe2d820a01cd728267d2c817a",
+        "url": "https://files.pythonhosted.org/packages/a3/43/63cb41d734c4f806e178347b6404b9b84daa3f9b664154704b9080c8c35c/repoze.tm2-1.0.tar.gz"
+      },
+      "1.0a3": {
+        "sha256": "8584aaac8740c2fa4c631d8e83d34d98753c9af5c79e633db983144f575364f9",
+        "url": "https://files.pythonhosted.org/packages/37/d0/d29214bad79d6a733674fa7d5a8cb538b11cc618b5b5d513d47904791ba0/repoze.tm2-1.0a3.tar.gz"
+      },
+      "1.0a4": {
+        "sha256": "8d10eab7ab8cdd2f87a196e1c10a1ac908ab2ebabd9bf6ac2df4fc30599a4e36",
+        "url": "https://files.pythonhosted.org/packages/af/7d/9ca4b5e16aec54082a3523075d8f997b0a7d09ef681ff875ce84e43b580d/repoze.tm2-1.0a4.tar.gz"
+      },
+      "1.0a5": {
+        "sha256": "1af458d74934e0486c01de8f21be941f7937e8e8d0ff07062eb65eca48e709b9",
+        "url": "https://files.pythonhosted.org/packages/44/20/a1963c8ee4771fef67b32e9fc07dd25a6ddcfc5d7d8bfc0b6d193ea6f7eb/repoze.tm2-1.0a5.tar.gz"
+      },
+      "1.0b1": {
+        "sha256": "1185321a61a64ac626dd8243752d1e399516a4b62a5df85ae29999fd1ed793ac",
+        "url": "https://files.pythonhosted.org/packages/80/9d/5a06af6c946b2a5791b4c6974d9530cd6d4c5520f5f211e2caceef504181/repoze.tm2-1.0b1.tar.gz"
+      },
+      "1.0b2": {
+        "sha256": "f66acde3533d8cf2d9e18f2669c3343536b4852ebb9c765804cf16878f0dba16",
+        "url": "https://files.pythonhosted.org/packages/4e/64/d63d2936f3cdbee6628f7d0f9c5daa73d976185bcbb355e843e33d6e1473/repoze.tm2-1.0b2.tar.gz"
+      },
+      "2.0": {
+        "sha256": "1b4869d6ac22150f0a3e13d09bb75499a6a7a24251e07d6caa0f657693789e6e",
+        "url": "https://files.pythonhosted.org/packages/6d/91/c5a70f7b1ef6db71b656ed527168e09a9ce36f0033248deef8d89bb53214/repoze.tm2-2.0.tar.gz"
+      },
+      "2.0b1": {
+        "sha256": "aaa7d80d64ede2a8315737f682dc969989c4cc427e99f031e5df19149abff970",
+        "url": "https://files.pythonhosted.org/packages/26/81/a0daef427cc94fa45499679f66bc890a8f761c7c4ff23411b1be4ce28d5e/repoze.tm2-2.0b1.tar.gz"
+      },
+      "2.1": {
+        "sha256": "281273f41121570522e3ba832996af748e34a0601c8d3989023e4e1eeb3cbe80",
+        "url": "https://files.pythonhosted.org/packages/25/16/991e1f2658383e8d17c17e49b424ed2537fd635a276524940d7f50d18a61/repoze.tm2-2.1.tar.gz"
+      }
+    }
+  ]
+}

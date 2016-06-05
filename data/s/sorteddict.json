@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "A dictionary that is sorted by key or by the given cmp or key function",
+    "homepage": "http://www.qtrac.eu",
+    "license": "GPL v 3"
+  },
+  "versions": [
+    {
+      "1.1.0": {
+        "sha256": "9d0ed4dff66aa1f611431ac4fe62d2b43f976e9f4bd25b7164d63c47c518e17a",
+        "url": "https://files.pythonhosted.org/packages/64/93/b5922d9d618fa2ee09591eabaefc91044f1032fb80ee1ba8aff852c535b4/sorteddict-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "875a04639dd9d844390c3b40009ea22a7ca31abb12cb48ea3e7aef57646d3ab6",
+        "url": "https://files.pythonhosted.org/packages/09/11/79544051b834bcfe5c18cc91cfb80a09f92d802c2d72be3f1431a3c21a85/sorteddict-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "200a94989ffa5c1e95151177abafe05063b3f1a9c1d624780f377c61078690be",
+        "url": "https://files.pythonhosted.org/packages/31/99/dece0cc81ec09a747ae3df1c33864651e6c11c71fa7dafabcb4ecc55764b/sorteddict-1.2.1.tar.gz"
+      }
+    }
+  ]
+}

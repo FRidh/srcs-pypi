@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "16.0.2"
+  ],
+  "meta": {
+    "description": "A Flask extension for RQ",
+    "homepage": "https://flask-rq2.readthedocs.io/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "16.0": {
+        "sha256": "464a04b4b87a09eea08ffb96fb91a417606925a04958c52a771aa982680bb67b",
+        "url": "https://files.pythonhosted.org/packages/9c/7b/16b1884a229bf88ec653a62911f94e0cdfb269c9d96b3da5292427442c77/Flask-RQ2-16.0.tar.gz"
+      },
+      "16.0.1": {
+        "sha256": "a8a9b04a6a888eca3675fae12a4a8167cb2aa245b2251781f1ebbef9ce0386d6",
+        "url": "https://files.pythonhosted.org/packages/96/31/d12214cef0621d8bc16a634296e107b5d7f42a4f577118838a701e150dde/Flask-RQ2-16.0.1.tar.gz"
+      },
+      "16.0.2": {
+        "sha256": "8ab2660a47776aa116ef85238c20ebc9f68467a600bd3dd83780cd6e9056ab0e",
+        "url": "https://files.pythonhosted.org/packages/01/ac/eed8db7226849245772fb8b325a4359ffc83f9a33bd4a92d12b1df9a9297/Flask-RQ2-16.0.2.tar.gz"
+      }
+    }
+  ]
+}

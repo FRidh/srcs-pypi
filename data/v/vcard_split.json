@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.2dev-r2010"
+  ],
+  "meta": {
+    "description": "Splits one vcard file (*.vcf) to many vcard files        with one vcard per file. Useful for import contacts to phones,         thats do not support multiple vcard in one file.         Supprt unicode cyrillic characters.         Konsol'naia programma dlia razbieniia odnogo bol'shlgo faila s kontaktami v formate VCARD (*.vcf)        na neskol'ko failov soderzhashchikh odin kontakt. Polezna dlia importa kontaktov v telefon,        kotoryi ne podderzhivaet neskol'ko kontaktov v odnom faile. Podderzhivaet russkie bukvy kirillitsu v tekste kontaktov.        Rabotosposobnost' proverialas' na faile s kontaktami eksportirovannymi iz google gmail.com.         Ustanovka variant 1: skachat', raspakovat', v papke zapustit' \"python setup.py install\".         Ispol'zovanie variant 1: python vcard_split.py [-h] [-l LOG_LEVEL] [-d] filename [filename ...] naprimer \"python vcard_split.py contacts.vcf\"        Ustanovka variant 2: \"easy_install -U vcard_split\".         Ispol'zovanie variant 2: vcard_split [-h] [-l LOG_LEVEL] [-d] filename [filename ...] naprimer \"vcard_split contacts.vcf\"",
+    "homepage": "UNKNOWN",
+    "license": "PSF"
+  },
+  "versions": [
+    {
+      "0.2dev-r2010": {
+        "sha256": "9cfc8028cc2bbf7d53409a81be12c63230849bb4b288cd7359740986a1a60bbc",
+        "url": "https://files.pythonhosted.org/packages/bb/17/0a62254029667a11c2c0c5fb9bc870053db5c732f0ba98b5c720361e238a/vcard_split-0.2dev-r2010.tar.gz"
+      }
+    }
+  ]
+}

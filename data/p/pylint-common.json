@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "pylint-common is a Pylint plugin to improve Pylint error analysis of the standard Python library",
+    "homepage": "https://github.com/landscapeio/pylint-common",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "eee76dc260df15eaca5ba2ee59055c2085ef37a146a4928b68d8320c8ff27b78",
+        "url": "https://files.pythonhosted.org/packages/e9/fa/ffbc5c3cba4ec738220e06e63de29489460c95efe434a684047718e9c058/pylint-common-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "a050e83fdb0f1b033f65b6178c05cc903e287c92fee16316af56b9d473cb729f",
+        "url": "https://files.pythonhosted.org/packages/39/5d/e0a7fcffbdf90a59a33dca40e34fe3c77cf523b22a95d499d2030125a26c/pylint-common-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "eb912425a04274e8064b3fcfba4f18ba4d24cb723ac2bc7c369dd1d04140919a",
+        "url": "https://files.pythonhosted.org/packages/a2/e1/55ef86ec45063597c3bce9ca996b7b1b749b6da24785435c1281b30547b3/pylint-common-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "0abe78dc9259927fcad69f2f8220f8c70da62d32bf8393b8768f5ef6c9870e11",
+        "url": "https://files.pythonhosted.org/packages/4e/bf/7067627655ec6f7bb5907ff83a4f57c961bde72e9e03ae1e971e1fbc8e38/pylint-common-0.2.2.tar.gz"
+      }
+    }
+  ]
+}

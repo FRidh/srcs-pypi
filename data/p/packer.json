@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "A new type of package manager",
+    "homepage": "http://github.com/kalail/packer",
+    "license": "Copyright (c) 2013 Kashif Malik\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "5357505cad7ecc827a9fc5b21f44e460c82625937167a770fc797839dc3bf1ca",
+        "url": "https://files.pythonhosted.org/packages/1a/d9/cfd0d946be0f9a666278f75fa33534cc1748c32a6d021616b4db9939a95a/packer-0.1.0.zip"
+      },
+      "0.1.1": {
+        "sha256": "e73c8e1a15a726533fb1375b1bb79e92f3a3f18bd6608a5244c27dd225c9fd05",
+        "url": "https://files.pythonhosted.org/packages/d8/cd/c9c4d4abd7fe8a7b58b6c9d4d7003923d13f80636bdddaa833a12637e9ea/packer-0.1.1.zip"
+      }
+    }
+  ]
+}

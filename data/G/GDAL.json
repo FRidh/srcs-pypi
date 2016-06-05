@@ -1,0 +1,78 @@
+{
+  "latest_version": [
+    "2.1.0"
+  ],
+  "meta": {
+    "description": "GDAL: Geospatial Data Abstraction Library",
+    "homepage": "http://www.gdal.org",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.10.0": {
+        "sha256": "1f95b3219616387f3da23c18bea030fa46b4b581091de3aa7c32466d62aade4c",
+        "url": "https://files.pythonhosted.org/packages/e6/b5/346cbd96837f5ed525d0460090d24e8cfb31ad805c6d5297ee4998eb81b6/GDAL-1.10.0.tar.gz"
+      },
+      "1.11.0": {
+        "sha256": "9c4178d501298ed4bbcde72c9805bfdcf5f5968bbae81c4377922aa08fc06a93",
+        "url": "https://files.pythonhosted.org/packages/ba/9b/76aa2871642f774876461c8575f4bffc53a5dcc2eb1b9cff1a548372c806/GDAL-1.11.0.tar.gz"
+      },
+      "1.11.1": {
+        "sha256": "cd872cda85c22a4ce5eb9d7c9f4fb56cdb3184c1a9d2e150e04efe3c62459093",
+        "url": "https://files.pythonhosted.org/packages/42/38/f2f0f57c2f3ebc5a9f0eb4ba9e130aa750e999a99de53cd5d96432fee258/GDAL-1.11.1.tar.gz"
+      },
+      "1.11.2": {
+        "sha256": "7827197836690815b0142412a49a97c6c6a18b21a83ece8cd6d8ec66127f10df",
+        "url": "https://files.pythonhosted.org/packages/c7/02/91bdd33e763f0c97b58019fd6d328a9780fd4d153673fcfb6a835dbe8216/GDAL-1.11.2.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "f8886a7fd93a64311ac19474e2a5f02c14f6bf85f7e2aef7b4219ceed4c149ad",
+        "url": "https://files.pythonhosted.org/packages/ed/42/9de3bfa170f94a60e096ff4559fa96e51ad3330a3fe1f7a5dde5e455808b/GDAL-1.5.0.tar.gz"
+      },
+      "1.5.2": {
+        "sha256": "68fb00fef40b4326a63ea3606903ec4fef3df50fa0f83b9686ad952c9ec07093",
+        "url": "https://files.pythonhosted.org/packages/95/86/c60989985023f2ac560534fb2dc1f982e94a094433688981f8df95d8245f/GDAL-1.5.2.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "a656d6c9e84ddd9d003abce8a6f73b014aaa341910221ea47a70fd5d36c2bcf6",
+        "url": "https://files.pythonhosted.org/packages/e3/5c/aa4f71d88d66de95dab434135b1904f64a54e108aca60d7e10aa3575fc78/GDAL-1.6.0.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "fdc7c2d83140c5a507d039fad0f5917b8219d4153fb038286e1e4be967ba7a9c",
+        "url": "https://files.pythonhosted.org/packages/81/16/233ee7862013319c16dd282f0f443abf51593e6c3860187fb3d3cd8e3a18/GDAL-1.6.1.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "ed3fca5c4b4997f258ad1a75fa7ac44f53c4c3d8d86b53ee55cccb5b364f0753",
+        "url": "https://files.pythonhosted.org/packages/91/e2/643bb499663924b60a634549e64451881c8c73e2d88d33c6aa79d38f0775/GDAL-1.7.0.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "498c82fda488048c3109e757d15f14ad935bac91344d4980f7a96ece416597a0",
+        "url": "https://files.pythonhosted.org/packages/2d/c7/e022017fea77611be7a68d2ca86ab17b82a67a35724f28b161c77b5224a5/GDAL-1.7.1.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "50640311ba0de4eb95d7b7dba22217384ff73f8cfabae32172027c7f785fc55e",
+        "url": "https://files.pythonhosted.org/packages/29/03/e9a666aeeebcfcfa0c07b56c440a4e9fc45161cbf41fc23099427458f11c/GDAL-1.8.1.tar.gz"
+      },
+      "1.9.0": {
+        "sha256": "bb065b46961da25e40b266d194d53d47efc0f7e23ab12984ac2f0bce99ecccc4",
+        "url": "https://files.pythonhosted.org/packages/4b/6e/88fdda4f2c14c2d2cb13145383d9908fb8611ff047409140845b3ba1bf3c/GDAL-1.9.0.tar.gz"
+      },
+      "1.9.1": {
+        "sha256": "63e44e92043f6ae55ca0ddf78d698cadb42f06ff5cb3c050b6f55edfaae8d2cc",
+        "url": "https://files.pythonhosted.org/packages/76/41/8b41f24fb25fd0bfd69c98444b3cab79e519c88619c0ccef8891e096dbd9/GDAL-1.9.1.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "75bb59825d19332895217b3cb0719e899182df6713262dd6c0f890a6ebeb43f4",
+        "url": "https://files.pythonhosted.org/packages/85/90/817ece7cbd212ed0475bddc3249c96c561ae8bd7326f59b98df0f64a8c91/GDAL-2.0.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "5a1af2a01ab9b1c3a66a686e5d78db6b09334dc5d6d02ed5ec150579b66a53fd",
+        "url": "https://files.pythonhosted.org/packages/a1/9a/80903f2db295ea9f817fddb45ed90d92a8c9bd9c59140760d4aee317e887/GDAL-2.0.1.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "eca0fb3b94168370e06dc32c8bc74b5383e73b65ca784180c434adbba35b70d9",
+        "url": "https://files.pythonhosted.org/packages/d1/98/27fff31ad298f3ec50db19dc3adfd8387279e158b1c6331c531c5fc7d830/GDAL-2.1.0.tar.gz"
+      }
+    }
+  ]
+}

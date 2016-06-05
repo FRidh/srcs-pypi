@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.8.0"
+  ],
+  "meta": {
+    "description": "OpenStack Octavia Scalable Load Balancer as a Service",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.5.2": {
+        "sha256": "f6aed53a1abfa1a57d2d63393cac3167cecce45ed22cd7090829a0145a1c6deb",
+        "url": "https://files.pythonhosted.org/packages/07/13/f70a56a26782a91ca80bc1a92ec55929c3b5aee2232046c41be7ac30407c/octavia-0.5.2.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "94b516f05268a47e95f195b98a3e3207bf062697e838805dafcb12e521069e6a",
+        "url": "https://files.pythonhosted.org/packages/c5/2e/81e072555523ed78961e699cf40c484c2e8abeeeee11d238f71df1edb018/octavia-0.8.0.tar.gz"
+      }
+    }
+  ]
+}

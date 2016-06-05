@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "automatically setups a redis instance in a temporary directory, and destroys it after testing",
+    "homepage": "https://github.com/tk0miya/testing.redis",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "2231cd69a94404c528dadff51fba0012c27452bae37e1b9efc14f27256276b88",
+        "url": "https://files.pythonhosted.org/packages/d9/c6/111f66788f4eecd6060bc6dbc9bcd3b9eb39097d2988b6fe8578adb96948/testing.redis-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "c3d8c4f737c8e68864212c9db2bf4734e0ffdcbcec5a5e780f161f49d59014fa",
+        "url": "https://files.pythonhosted.org/packages/ba/d5/b02f0a9c8545f58b2ab07a02df189797658815a9b2b27764cf05e58b5ae8/testing.redis-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "ccc500b0dcefb308317d7238663a35fbd02bf7ae2dc27713e4011c4c443064d9",
+        "url": "https://files.pythonhosted.org/packages/81/f6/ae4809600307d8dff06ed2d237a76758669986e7b9784be13d30107f5348/testing.redis-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "8c4820a6374c7b0be91046352d9ab58f09327cd122d5835523a5cf1b5729028e",
+        "url": "https://files.pythonhosted.org/packages/7b/73/c89a7aaa1a467062133517e3741c79906415a451464c83e06195f9dd4e6d/testing.redis-1.0.3.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "dde191191be6bb089dd87f104bb07ea679cf4b13c0939f09bbde562852ac8277",
+        "url": "https://files.pythonhosted.org/packages/ee/e5/6a07e6719b8667e10b56e51e36830afb919293ab120a18279aaa32a0c873/testing.redis-1.1.0.tar.gz"
+      }
+    }
+  ]
+}

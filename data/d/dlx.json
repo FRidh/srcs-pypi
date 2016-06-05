@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.4"
+  ],
+  "meta": {
+    "description": "Implementation of Donald Knuth's Dancing Links algorithm",
+    "homepage": "http://www.site.uottawa.ca/~mraap046",
+    "license": "Apache 2.0"
+  },
+  "versions": [
+    {
+      "1.0.2": {
+        "sha256": "694cc14c0ba5fa2c0954a4978f1c4e13fb3aafce1d2a0496c3516bc557ca8c8c",
+        "url": "https://files.pythonhosted.org/packages/16/c7/1d1bdaa4b469657c886130ccb48c55e99d98ba998d0ffba03e0e782dcc75/dlx-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "3d46babacfa831f8a586805d06b32772c4acfdbfebacceefa6330c1bbf87bf4c",
+        "url": "https://files.pythonhosted.org/packages/ce/9f/030f2dd5ffbd63437db5ce24c9980d698a6b768774a632ee40247f013e4a/dlx-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "ef75bc9d590216ebde7d4811f9ae6b2d6c6dc2a54772d94ae13384dc517a5aae",
+        "url": "https://files.pythonhosted.org/packages/54/c0/b8fb5bb727e983b6f5251433ef941b48f38c65bb0bd6ec509e9185bcd406/dlx-1.0.4.tar.gz"
+      }
+    }
+  ]
+}

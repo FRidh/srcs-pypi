@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Provide an intermediate response when a WSGI application slow to respond",
+    "homepage": "http://pythonpaste.org/waitforit/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "9e86fc9f977d06f639324434552dbd233b5b4e20c434540c476c098614296b35",
+        "url": "https://files.pythonhosted.org/packages/30/6d/9a712f7df51dbf912d4191cf3aeb93e7068286d4532c251fb30813aee468/WaitForIt-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "feeba8eae923a18e36546f240476efc0362033cc59b6d41f133d928370d75251",
+        "url": "https://files.pythonhosted.org/packages/d5/91/2770b9d84919b2588e19e280834b03843458c62dae0fbf39de8cdc27d47d/WaitForIt-0.2.tar.gz"
+      }
+    }
+  ]
+}

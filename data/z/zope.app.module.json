@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "3.5.0"
+  ],
+  "meta": {
+    "description": "Zope 3 persistent code/module support",
+    "homepage": "http://pypi.python.org/pypi/zope.app.module",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "3.4.0": {
+        "sha256": "92ae5b593b1c96be0f566219c3411fd113a1621975d24fe01033a5d1d0b6fea8",
+        "url": "https://files.pythonhosted.org/packages/8b/02/f2c132a551566d209c484e19f0a66eb62665e774a938cf519a8151fd987e/zope.app.module-3.4.0.tar.gz"
+      },
+      "3.5.0": {
+        "sha256": "ef3c1ec5de3b2f86d8fc250e9b7b28faaed3482d699e27915eec68aac2dd944b",
+        "url": "https://files.pythonhosted.org/packages/1e/d2/270fcc50bd8922ffd62d569e4f804f5523929e97cc63f0f3a1769a9d7130/zope.app.module-3.5.0.tar.gz"
+      }
+    }
+  ]
+}

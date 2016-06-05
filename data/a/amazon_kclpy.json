@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2.0"
+  ],
+  "meta": {
+    "description": "A python interface for the Amazon Kinesis Client Library MultiLangDaemon",
+    "homepage": "https://github.com/awslabs/amazon-kinesis-client-python",
+    "license": "Amazon Software License"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "eb1bbbfa129af259a5ced6eb41f9782ae397b62dc1715db78f38c9fcbecffa23",
+        "url": "https://files.pythonhosted.org/packages/c0/42/18f1b6aafd9d5759c5130708b1040cd4fdda8856f56ab8144e90ceeb4b04/amazon_kclpy-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "e591df0aee4d2f524a467ed5a1ba8837680099d724c0b61811d4f2ef815cbd21",
+        "url": "https://files.pythonhosted.org/packages/5f/21/5e950bf62470df7e064837ea00ff15fc9a676f3ce408f7c31ca98cd16a59/amazon_kclpy-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "0ba2e5f72fdb6197f1defa9d2ed8297f5f49e51b0d2e11b98aaa98b70665c987",
+        "url": "https://files.pythonhosted.org/packages/33/c3/1404e86347d27d774b980b6d82b4643017dd6555352f2e8c58d6cde40537/amazon_kclpy-1.2.0.tar.gz"
+      }
+    }
+  ]
+}

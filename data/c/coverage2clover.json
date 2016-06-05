@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2.0"
+  ],
+  "meta": {
+    "description": "A tool to convert python-coverage xml report to Atlassian Clover xml report format",
+    "homepage": "http://github.com/tumb1er/coverage2clover",
+    "license": "Beer License"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "71a31b99be628f33933418ec1878bb08e2bb92c771775ad50b4158ba15a27d1a",
+        "url": "https://files.pythonhosted.org/packages/b2/f9/bdc2756ac190154f576f4b2d7bcb873b1ddb10093d0820ad531fc6b49396/coverage2clover-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "b703565ac70e78db1d8bb71bf023cae076a46e0641c8eee49ad5c2f5534e8acc",
+        "url": "https://files.pythonhosted.org/packages/ed/be/511f07e9afac8d48500789532bf379d5de98a7237cd700cb8ed309a2b4eb/coverage2clover-1.1.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "c08c541a84047e21ea8ca6a3a390f7da36e295a9c8c0203bf6db2e844e4617cd",
+        "url": "https://files.pythonhosted.org/packages/1f/bf/4210f0c354c04853b01938271c24cc6b79a57071bb53788a5a13392ba108/coverage2clover-1.2.0.tar.gz"
+      }
+    }
+  ]
+}

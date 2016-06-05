@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Provides a simple filter to produce hashed (hex digest) values in templates",
+    "homepage": "https://github.com/andrewjsledge/django-hash-filter",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "cca15b9fa36ae396fea5efa74a674ea8b84ec26de0a0bc8a993ae5a20f97dcf4",
+        "url": "https://files.pythonhosted.org/packages/f4/d6/10a5ee544a9f60e890a2b250c17b4a6c9c2fc1be131d06fbef2334ffbffa/django-hash-filter-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "1d972502a9f91e4c6b164c7c1dc85988f690ca6cbc759ac6b6959f918085d91b",
+        "url": "https://files.pythonhosted.org/packages/4a/13/34e0ed006ef785545dc218bb3feec8860c5779299c079e0f667b69499d4d/django-hash-filter-1.1.tar.gz"
+      }
+    }
+  ]
+}

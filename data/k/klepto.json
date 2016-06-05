@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "persistent caching to memory, disk, or database",
+    "homepage": "http://www.cacr.caltech.edu/~mmckerns/klepto.htm",
+    "license": "3-clause BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "debd70796ec07eddc3ae8f13aaab559cb2323c775f32da2a9c4e3dbe1ae6d291",
+        "url": "https://files.pythonhosted.org/packages/bb/88/f340afed55eafef83bb688ea89d417b48c1c72c34f6f6528b3e1686ef423/klepto-0.1.zip"
+      },
+      "0.1.1": {
+        "sha256": "15c2e9004c99c37ba62822a6df015c31ca12d91f8dbb1fcdd4ee5b7e2e50d246",
+        "url": "https://files.pythonhosted.org/packages/ff/51/e4f8e4163cbc7ececf0ad69f1b231db4a76a72ff686445010b5b172c9ab2/klepto-0.1.1.zip"
+      },
+      "0.1.2": {
+        "sha256": "b9a0bcaea750eaf412e813c91a85f711f64b8c5909e101d97472ac68c1218004",
+        "url": "https://files.pythonhosted.org/packages/a1/42/89e82cadf6690c371d15a4c23c7ecc7df84be4b9bc3c9e4fcbf656d25109/klepto-0.1.2.zip"
+      }
+    }
+  ]
+}

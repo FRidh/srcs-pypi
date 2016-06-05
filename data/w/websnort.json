@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "Web service for analysing pcap files with snort",
+    "homepage": "https://github.com/shendo/websnort",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "a9b54e5f1579a92d43dbfd9d8c56517ad8fa22313e4f8c7cb89c603e198fe8e5",
+        "url": "https://files.pythonhosted.org/packages/6f/5f/7047121ed7919d386cead38b54eb4f42a6e0a8a109f4667d345d582110e7/websnort-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "632545627d3aff7d453d79591216fb8d9d86f42ab79ee6b2437232d17f07c25d",
+        "url": "https://files.pythonhosted.org/packages/81/67/226954c5e0796c660d2b1bfe3371b84f0c68d0aa27a4f5d0135067e5e059/websnort-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "1089c1af26a97399988829e06af98e2aa5dc5d1c41a2af84a1d4e69f7324c070",
+        "url": "https://files.pythonhosted.org/packages/ce/6c/50d240f85106a0a3c43731bb71328719d27550ab7a7c7158c75f3cbf1ead/websnort-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "af28a1b0e473d0369b50dd25e27a15dcec9ad2f6fba65407f31d894abb4e9a61",
+        "url": "https://files.pythonhosted.org/packages/13/f6/d3d11997e5ee3c5956cb3851abdc248bf0262b9ffe883b4fa2b8f988bd7e/websnort-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "90d59a2fe8bf16e7386b25bb5c756aed8fbfe145c05b855e7b13656ccf4b1707",
+        "url": "https://files.pythonhosted.org/packages/f7/f1/fcdf5b553f0cff81e4841fc0903547ac7118c7f1d4f2df3c6c9d12b03a24/websnort-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "ab7a098c3a82fa48cabcc02ddc300262765b88275ee845605a4ab33bd2d836e8",
+        "url": "https://files.pythonhosted.org/packages/6a/8d/f2eaa747484a88dcfc262a2bd713aaf71c4545cb93baa5f40afa0b5162bd/websnort-0.6.tar.gz"
+      }
+    }
+  ]
+}

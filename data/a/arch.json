@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "3.1"
+  ],
+  "meta": {
+    "description": "ARCH for Python",
+    "homepage": "http://github.com/bashtage/arch",
+    "license": "NCSA"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "9f2627d31ffc80850279dcb1af8ba22ed47d1fc1059182a61413a8de909ae41c",
+        "url": "https://files.pythonhosted.org/packages/60/cc/802be60fce86049b4fdcba405e15a0aa3cb2086529dcadf82ef247aeefb7/arch-1.0.tar.bz2"
+      },
+      "2.0": {
+        "sha256": "883aab26d0c17349c679dc601cae6841c11dce82a5eb00dfc851c26232d89f51",
+        "url": "https://files.pythonhosted.org/packages/0d/3f/fb403a8718866943fe69ae198cc6fe57274f3224c3157acd6efab7aec431/arch-2.0.tar.bz2"
+      },
+      "3.0": {
+        "sha256": "83f006849caae8b8853d4fbe16ce125f48cc1b6ace741b3134a912bf413d09dd",
+        "url": "https://files.pythonhosted.org/packages/9e/b2/7acd84859e435ba9a646cf917d77a737b196896fd0de51f6f0b15edca97a/arch-3.0.tar.bz2"
+      },
+      "3.1": {
+        "sha256": "c73bcb2e455e01266316b26ba67b1f7e6cc27da0dfad67b6b9c6fd4e652e690a",
+        "url": "https://files.pythonhosted.org/packages/22/3c/6dfff1bf7c782610cc1951f5a2a1c06ccd50cd2b04bdd34aaabc43f5717c/arch-3.1.tar.gz"
+      }
+    }
+  ]
+}

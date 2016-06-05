@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.7.6"
+  ],
+  "meta": {
+    "description": "This Django app serves as the REST API for Salt",
+    "homepage": "https://github.com/holmboe/django-saltapi",
+    "license": "Salt API - Generic bridging for access to Salt\r\n\r\n   Copyright 2012 Salt Stack Inc.\r\n   Copyright 2013 Henrik Holmboe\r\n\r\n   Licensed under the Apache License, Version 2.0 (the \"License\");\r\n   you may not use this file except in compliance with the License.\r\n   You may obtain a copy of the License at\r\n\r\n       http://www.apache.org/licenses/LICENSE-2.0\r\n\r\n   Unless required by applicable law or agreed to in writing, software\r\n   distributed under the License is distributed on an \"AS IS\" BASIS,\r\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\r\n   See the License for the specific language governing permissions and\r\n   limitations under the License."
+  },
+  "versions": [
+    {
+      "0.7.5": {
+        "sha256": "9d157236aff511eafca339eca0538ec79b839a221ce2a666cde7468fe4066243",
+        "url": "https://files.pythonhosted.org/packages/26/66/a525fafc2531d6de83b0630c606947bf6bd72dcdb1af0eeec690b7fc741b/django-saltapi-0.7.5.tar.gz"
+      },
+      "0.7.6": {
+        "sha256": "80da15364b9e76e746ccf0cb87032a2ebc72dfb152ca3bf92f1825441f2e6a66",
+        "url": "https://files.pythonhosted.org/packages/5c/3b/d5b4085b4cb6696d3e3f52fe0b8f5321520942797ffc5e4c5e03bb873cae/django-saltapi-0.7.6.tar.gz"
+      }
+    }
+  ]
+}

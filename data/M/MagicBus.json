@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "4.0.0b1"
+  ],
+  "meta": {
+    "description": "An implementation of the Web Site Process Bus",
+    "homepage": "http://www.cherrypy.org",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "3.3.0alpha": {
+        "sha256": "7a3469c09a522c96e7d1e44dee98b56e474a46506f1049e6efb31ea15e4b3090",
+        "url": "https://files.pythonhosted.org/packages/87/c1/29a5ec839c2cd97b1054cff82c9c5323fd592027b79edfe37a1dc2cc9ea9/MagicBus-3.3.0alpha.tar.gz"
+      },
+      "4.0.0alpha": {
+        "sha256": "ae0372842da4a80e69ea1c726a2fd01873c01ca7dfceed53f0a5a43a82388af4",
+        "url": "https://files.pythonhosted.org/packages/bf/74/641ddb3f040c87224652284ad5c772545d787bc3d24cf169aeb6f66f34aa/MagicBus-4.0.0alpha.tar.gz"
+      },
+      "4.0.0b1": {
+        "sha256": "e861d67013fe898f5d37ef22e824054ae716c2bc565fe4344e7c9e9ffb8fbfb3",
+        "url": "https://files.pythonhosted.org/packages/cb/02/75f838af3feedaa1d0b5f04306325bf50e41895e0deaa11adb00ad2536b2/MagicBus-4.0.0b1.tar.gz"
+      }
+    }
+  ]
+}

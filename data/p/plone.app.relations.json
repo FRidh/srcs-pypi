@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.0"
+  ],
+  "meta": {
+    "description": "A set of components to provide a content centric API for the engine from plone.relations, as well as a few different core relationship types and policies",
+    "homepage": "http://pypi.python.org/pypi/plone.app.relations",
+    "license": "GPL version 2"
+  },
+  "versions": [
+    {
+      "1.0b1": {
+        "sha256": "17d88f65cb81d7c6a9c71f5c62b67f880213c121345dd4b7399d52bb360dbce6",
+        "url": "https://files.pythonhosted.org/packages/ad/62/755d2492a950aa8acdb491a150d2a903e405bcca55bf3698a0adaac80dc9/plone.app.relations-1.0b1.tar.gz"
+      },
+      "1.0b2": {
+        "sha256": "89bc29ea2a2b7c017b47acd03582fa9c24b842be4ded34fa2118d746bb57b1d9",
+        "url": "https://files.pythonhosted.org/packages/c8/d9/ed5ebf1f8f91128f5cf4bcafee0d3935260fbb07a41d664a6d03cca32f51/plone.app.relations-1.0b2.tar.gz"
+      },
+      "1.0rc1": {
+        "sha256": "a5952df48b468d0d1fa442fb57dece145879307d850812544fbf41ed4d741e57",
+        "url": "https://files.pythonhosted.org/packages/78/62/28d681b9e35d02f09df0e4243d8bbb0f2b73f5ef008c4ef6b1810a5e11fc/plone.app.relations-1.0rc1.zip"
+      },
+      "2.0": {
+        "sha256": "73262a72027a0d8ff8f1d5f7823a1644a6c1e19f392b29a8509dece909f1305f",
+        "url": "https://files.pythonhosted.org/packages/6a/71/d62b0a76312ba62bd8c0d643b1eef0d18b546b3b9b9511ab0c93e1ee5f07/plone.app.relations-2.0.zip"
+      }
+    }
+  ]
+}

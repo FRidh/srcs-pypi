@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "3.1.0"
+  ],
+  "meta": {
+    "description": "Password protected, sharable notes",
+    "homepage": "http://jotonce.com",
+    "license": "Copyright (c) 2015 Nick Ficano\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sub-license, and/or sell copies\nof the Software, and to permit persons to whom the Software is furnished to do\nso, subject to the following conditions:\n\nThe above copyright notice, and every other copyright notice found in this\nsoftware, and all the attributions in every file, and this permission notice\nshall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+  },
+  "versions": [
+    {
+      "3.0.6": {
+        "sha256": "510ce8f6969796438def3eb0eeea96f22d3123d5626646b03e8f0d5d006fa4df",
+        "url": "https://files.pythonhosted.org/packages/8f/82/92fdd1afb15ee6d8118eab1fd74bdef740b20a889d21389cfa6ff0589079/jotonce-3.0.6.tar.gz"
+      },
+      "3.0.7": {
+        "sha256": "be414b38d3df8f52fba6cce303fdd5bb0be0f2db2f7f9137782f3c72dd6d4c57",
+        "url": "https://files.pythonhosted.org/packages/02/7a/349da5a0925787bd90576d56a5428fece08016b515e7c41398146fb08861/jotonce-3.0.7.tar.gz"
+      },
+      "3.1.0": {
+        "sha256": "b82f432167c79fba8d9c5e2930e0b4db88813f1399f0535eadf34bd427f109ba",
+        "url": "https://files.pythonhosted.org/packages/bd/62/6dc24fdff9e4c81d7f9a71090935ea75ec91faca4ebac3d07c09bd23b226/jotonce-3.1.0.tar.gz"
+      }
+    }
+  ]
+}

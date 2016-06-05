@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "A library that focuses on monitoring EVE Online chat logs for messages and doing nothing else. It is meant to be focused and lightweight",
+    "homepage": "https://github.com/andrewpmartinez/py-eve-chat-mon",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.4": {
+        "sha256": "f0eb52a9b9bd182a286fe01030809d36e17bc25bff9e885baff4ae4525288f24",
+        "url": "https://files.pythonhosted.org/packages/a0/98/9eeb749131a7ed9274c0b71ba108a519d741bc7ff4dde9f2e7e2a281b07f/py-eve-chat-mon-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "8fd0c34d2b4dcf148090ff19a5086bde7e996440339557f9dc73da389aa192d8",
+        "url": "https://files.pythonhosted.org/packages/a5/f0/5b3e31db17d50b9634569ac8a40e81b10a65de7e91bb21ce4968ae4a6dab/py-eve-chat-mon-0.5.zip"
+      }
+    }
+  ]
+}

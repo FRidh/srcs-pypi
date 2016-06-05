@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.5.0"
+  ],
+  "meta": {
+    "description": "IRP for Python",
+    "homepage": "https://github.com/TApplencourt/IRPy",
+    "license": "WTFPL"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "f46ef3b4a5f7fed37ea6ae6b253f13458631542029b83c960b0a7c461c86bff4",
+        "url": "https://files.pythonhosted.org/packages/d1/f3/25191bcc4f36b408db812aa527bf30dd861bb1fe4d22cc62f0f45aa62e7b/irpy-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "1111e5a81816a28feb847008ea4eead8d05172c49a5e771679461de41c607b32",
+        "url": "https://files.pythonhosted.org/packages/a5/0e/b50b7c3b195f76c43e8e1a0bc18c142f72546424f958d535314b00fb9dce/irpy-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "fb3d9428212cfa5756eeed63adb07ac9bf2cc0d4725c21c89e431e39f151cbad",
+        "url": "https://files.pythonhosted.org/packages/51/6c/5a7a8ae26acb0883ed798b50602e5a6901cfe86866dfd3dfd8d1e449bfd4/irpy-0.3.1.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "2ab3237bd253dc98a0a23d30d3fd775b1aa13eae776113d4443c4fd58caa9999",
+        "url": "https://files.pythonhosted.org/packages/5d/ae/8c3259c56ffa779fac7b3d012bfe09160d35964add296db395cea576e488/irpy-0.5.0.tar.gz"
+      }
+    }
+  ]
+}

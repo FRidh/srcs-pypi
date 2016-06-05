@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.3b1"
+  ],
+  "meta": {
+    "description": "CMFNotification is a Plone product that allows users to be notified\nwhen various events occur in the portal: item creation or\nmodification, workflow actions, etc",
+    "homepage": "http://plone.org/products/cmfnotification",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "2.2": {
+        "sha256": "98eca74cd01b5aa2838cac0c270e5ac7653b800616bfaf2e2ae4fc5663751940",
+        "url": "https://files.pythonhosted.org/packages/24/93/6215ad25aa287f199f36434ec08912d62a00ea20ba66db0365cde1d67596/Products.CMFNotification-2.2.zip"
+      },
+      "2.2a1": {
+        "sha256": "85a2f9c7d4900e865d675d9b7cc45df1987d763263bd19279d6d89d485788c9a",
+        "url": "https://files.pythonhosted.org/packages/fa/ea/5f99ecfea148af6750c20af49994121f491f3cde5e19dd5a6119504e7ecb/Products.CMFNotification-2.2a1.zip"
+      },
+      "2.2dev1": {
+        "sha256": "c8d24bc360d02784dc5e80e06fca3e01b8f53a6892c272584f070ddd9d70cf41",
+        "url": "https://files.pythonhosted.org/packages/dd/95/6601499619c874264c0f82c5e0742d58da518bee9f63f8b0182fd6e3cf1a/Products.CMFNotification-2.2dev1.zip"
+      },
+      "2.3b1": {
+        "sha256": "cdbc8728b4cf18a14d73825cc72a77592c31e1d2ccaa9dd5a4e1ca591f3bf2d1",
+        "url": "https://files.pythonhosted.org/packages/81/67/16cd7fbc75ea33f45bcb1780bb34d789f4101b3085b835d4f431271ea028/Products.CMFNotification-2.3b1.tar.gz"
+      }
+    }
+  ]
+}

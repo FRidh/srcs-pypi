@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.9.2"
+  ],
+  "meta": {
+    "description": "Carbon Black REST API Python Bindings",
+    "homepage": "https://github.com/carbonblack/cbapi-python",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.8.0": {
+        "sha256": "242877e6240b58f88988bfad19264b617b2b3472d867658065524a218275871b",
+        "url": "https://files.pythonhosted.org/packages/e3/18/0a855fffe8ae0e02f7ff06a3cf4c5276fb9d364a9355be4e28bf399c46f8/cbapi-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "fad6197888da209bfddd32b09e5b6d6146e93f02385419400a7359d2acf5b86b",
+        "url": "https://files.pythonhosted.org/packages/37/cb/dc454685e8c5204fd6cddb646c3393a80f3770f6accec7995c7f40dcdef9/cbapi-0.8.1.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "06139de1f5c8809f8ba0a7cf7e457b29680b01e87ad829bd2e6d041097a2114f",
+        "url": "https://files.pythonhosted.org/packages/c3/1d/d36b0a60432fab6ec26b2c5998b9cc84c1610e17be34d81ed11d4757ad4d/cbapi-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "660c2211551b764e9b3ca948c287fe12bec4f2ed6c180c8defddf10c9a556a8f",
+        "url": "https://files.pythonhosted.org/packages/a6/b7/972c4e95e86746b10a6420709992786e5b2d35afd7bc09d02bd3313e6efc/cbapi-0.9.2.tar.gz"
+      }
+    }
+  ]
+}

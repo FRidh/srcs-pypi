@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Interrupt and signal handling for Cython",
+    "homepage": "https://github.com/sagemath/cysignals",
+    "license": "GNU Lesser General Public License, version 3 or later"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "2013607dfd5134e35e7d361aa533e7c210a52558571b82dab57103898dff31db",
+        "url": "https://files.pythonhosted.org/packages/4a/c9/58d0e9f03d76f7a55c5012fbac424592bde2da2f5dee6a117b1a1c0acfd0/cysignals-1.0.tar.bz2"
+      },
+      "1.0.1": {
+        "sha256": "2fc339ed3ac85a142fe630ae8a7090661660c17370019fa75f3d5cfcc754716a",
+        "url": "https://files.pythonhosted.org/packages/e0/04/b6ed3b58008b28b3d77113ab292c6f51a94bc53d896dfb35160983288e24/cysignals-1.0.1.tar.bz2"
+      },
+      "1.1.0": {
+        "sha256": "8661ed95553facd45a9cdcdf232c2c44cab29bd9e60d1d7c67e653fb53f38b91",
+        "url": "https://files.pythonhosted.org/packages/5d/6b/5b1afc7a775d56c58f7cf82106ebdcbe0573e788556b9b004bcb02c7a3b6/cysignals-1.1.0.tar.bz2"
+      },
+      "1.1.1": {
+        "sha256": "70d3e0033c90861cd7e1246958d166d9e44a076683f6a166afe6270fdb7cb680",
+        "url": "https://files.pythonhosted.org/packages/c6/3d/691b403380e27fc8c4bca455e78ad2494b771210a1024b98482a2f13ea5c/cysignals-1.1.1.tar.bz2"
+      }
+    }
+  ]
+}

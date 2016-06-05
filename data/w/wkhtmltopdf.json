@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Simple python wrapper for wkhtmltopdf",
+    "homepage": "http://github.com/qoda/python-wkhtmltopdf",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "8f36d7209a178139c2582d6edd884e865e5c81ed553637e9d128a2c3003cd76b",
+        "url": "https://files.pythonhosted.org/packages/3e/ee/beb56ae5263f5358ac1d4fa060cbfeb462b08bd460d768ddc6fa5034de82/wkhtmltopdf-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "530fffb5d1faf4f4cd5248c14fd1b4b7fe311541d0660dc2c2272c32b3c72211",
+        "url": "https://files.pythonhosted.org/packages/72/33/60a1f2d8a784376ce4e56599ec26997dcee21fcc6340179fc7fac94d4aa4/wkhtmltopdf-0.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "latest_version": [
+    "0.5.11"
+  ],
+  "meta": {
+    "description": "Parser to extract data from a Vagrantfile into a data struct readable by python",
+    "homepage": "https://github.com/drewsonne/pyvagrantfile"
+  },
+  "versions": [
+    {
+      "0.5.10": {
+        "sha256": "beadc32222861d57fe4c1ade3b1b580f0cd1555b26c160ff4ad378135d1d507f",
+        "url": "https://files.pythonhosted.org/packages/62/be/a57a0e5164ff31d338b92a2eede405024b9267138629bd158bb15ec17722/pyvagrantfile-0.5.10.tar.gz"
+      },
+      "0.5.11": {
+        "sha256": "2c26930b09e25c1a7f064711481ca973a8fbacca20e4e0d79287471f171bb40c",
+        "url": "https://files.pythonhosted.org/packages/ec/e9/613b7716b694509edb35e28f336a23a071b53152996bc5f4656146d09f4e/pyvagrantfile-0.5.11.tar.gz"
+      },
+      "0.5.5": {
+        "sha256": "4a1055dd047a496800eb61994d513e94f56cf2f943841d063dc14e515dc73381",
+        "url": "https://files.pythonhosted.org/packages/10/7f/e5e25150a78d2de425019f9c1756354f02c66d0656c1540253af220378d2/pyvagrantfile-0.5.5.tar.gz"
+      },
+      "0.5.6": {
+        "sha256": "b7d51bc6998facc50748be2b68753176b49f809f1f353065fa77e317ea7f0618",
+        "url": "https://files.pythonhosted.org/packages/2a/f5/7e2b6820c60a310bce03459c933cd3d591a136fd8c9a80012c9dae961127/pyvagrantfile-0.5.6.tar.gz"
+      },
+      "0.5.7": {
+        "sha256": "5068dc2b4817035e1149462a799336abb0d10419443ee38dc0e3db890a642eea",
+        "url": "https://files.pythonhosted.org/packages/07/21/b02b8b5c258008dff478eaa0f246acb14c0a1f3f5fbccc8be39b71baf81d/pyvagrantfile-0.5.7.tar.gz"
+      },
+      "0.5.8": {
+        "sha256": "7ede4c93352ca23f3732c73228a0b8dc158d9f8bff7d15f2147265b4541d1178",
+        "url": "https://files.pythonhosted.org/packages/c0/80/b842202e5fdc0b6a0c9554a4d5592812d2681d9a0b1b5aa45907da44427a/pyvagrantfile-0.5.8.tar.gz"
+      },
+      "0.5.9": {
+        "sha256": "d8237216de40dbcbc5fc7ec0dde3d86fc676db093d0e0409e1c19725bc7faaf6",
+        "url": "https://files.pythonhosted.org/packages/32/22/3741961d5d2883ad2548d3ddd18a7935da95cd7ca199c457ad88cd54e48d/pyvagrantfile-0.5.9.tar.gz"
+      }
+    }
+  ]
+}

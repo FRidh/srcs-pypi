@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "4.0"
+  ],
+  "meta": {
+    "description": "A simple module to decompress any stream",
+    "homepage": "https://github.com/cecton/destream",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "3.0": {
+        "sha256": "cd08c41e16327ac5b431730812817d7280577cdf3076da4f45ddd01a7bd67aeb",
+        "url": "https://files.pythonhosted.org/packages/1c/d8/b9295b891d0ada82b433841ad78777341413591f369c0095c9ecf178d3ee/destream-3.0.tar.gz"
+      },
+      "3.1": {
+        "sha256": "e9adbe9bd7a5778dfa01cec7c0d38536182fff50cb306f04adaafe8ae84b5da3",
+        "url": "https://files.pythonhosted.org/packages/13/d5/b6b5ecb78e809d19644b6c99398294863069076d0814f49a686f1e49dc37/destream-3.1.tar.gz"
+      },
+      "4.0": {
+        "sha256": "0093cb60209717c863157224a01f148b75cdaa86dc70b96677bb2e3b37a5da3c",
+        "url": "https://files.pythonhosted.org/packages/f9/d1/ac6116b62eb5027bf8b315ff7d584d8faf8a59ca319813e86f0a66518f8a/destream-4.0.tar.gz"
+      }
+    }
+  ]
+}

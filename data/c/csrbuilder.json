@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.10.0"
+  ],
+  "meta": {
+    "description": "Creates and signs X.509 certificate signing requests (CSRs)",
+    "homepage": "https://github.com/wbond/csrbuilder",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "de5cd5a57cbad175119b0e693f6a6a1553bde7847d9d465e315e92106ed1c7b1",
+        "url": "https://files.pythonhosted.org/packages/e6/2b/222f8ffd8a1cd21f4b38917a3d3177fc684f994fcc38367ba45c97ff8a76/csrbuilder-0.10.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "45b413d1b62453ca891bdf9af65587b18fe754d67d512907be4340c61942b338",
+        "url": "https://files.pythonhosted.org/packages/e7/09/36a9ff36c08d89f24a157efe22bc7aa591c05b50caa2feb9a828241f1a09/csrbuilder-0.9.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.6.1"
+  ],
+  "meta": {
+    "description": "Python Package to interface with Radio Shack's 2200087 Multimeter",
+    "homepage": "https://github.com/chintal/2200087-Serial-Protocol",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "0.4": {
+        "sha256": "2e42c6f672f43acbb59c7dbeceb5ef4b74015b7fb021e6fa1e6f07b99cfa6164",
+        "url": "https://files.pythonhosted.org/packages/01/66/742dd3d039593a42dc07e1bd6433d8ba41356bc70ba39372f134849c1fde/driver2200087-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "4a2270c540c3674332274758a3860c9eacbffff9f2c59b8924f2ce53b4119647",
+        "url": "https://files.pythonhosted.org/packages/ef/7b/369ee732180c5d977899dca1fa622cada1f8d7ef1adf392e34b128174902/driver2200087-0.5.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "830ffd3ad21b49c666437a6e086fbb87312ee9407001b5cece0904ef2c9ad023",
+        "url": "https://files.pythonhosted.org/packages/44/b0/2e9b9e9fda4b19b350cafa92a2bec05d39a6d9e1ad60b22e0ec558806ae5/driver2200087-0.6.1.tar.gz"
+      }
+    }
+  ]
+}

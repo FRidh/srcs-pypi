@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "A simple connector pool for python-ldap",
+    "homepage": "https://git.openstack.org/cgit/openstack/ldappool",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "1f2a1d77a62a61d9772039732e4f3a570c834dc788abe9abb9a7e9d7a3dc4551",
+        "url": "https://files.pythonhosted.org/packages/d3/31/ac6f743b705d31adac25f9ee28f5995d9edd09468a85136d1c6eda41a6df/ldappool-0.9.tar.gz"
+      },
+      "1.0": {
+        "sha256": "1fc36c617ffa6195a738ca99ae7f2178271ebe30a5ee6d41abdb49168afb75aa",
+        "url": "https://files.pythonhosted.org/packages/bc/6d/5ad35142089c690b11bec89c74b6cacd559c27f2690573dd3446a11acec3/ldappool-1.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "2850274c16b3108fae9f0ce2bc327e7712f78578677c08336225b75edeb1c5f1",
+        "url": "https://files.pythonhosted.org/packages/f7/6a/ef33a58b45039eae93a003887c28e6532a1859440691d01a7ad732990861/ldappool-2.0.0.tar.gz"
+      }
+    }
+  ]
+}

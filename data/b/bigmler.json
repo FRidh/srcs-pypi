@@ -1,0 +1,486 @@
+{
+  "latest_version": [
+    "3.7.0"
+  ],
+  "meta": {
+    "description": "A command-line tool for BigML.io, the public BigML API",
+    "homepage": "https://bigml.com/developers",
+    "license": "http://www.apache.org/licenses/LICENSE-2.0"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "ff9e70dee8bb9f91b75829c206b27411c31e6a0138adb429fac2bb9be6bc2712",
+        "url": "https://files.pythonhosted.org/packages/3c/ec/d2a9df7a9ab09d15a373d2665e575ce371652bb81a34fff7673baed1945a/bigmler-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "46a71981149feb9033169e4578f21f36d6f9d4d01ea81f0c27f140a54f1744ae",
+        "url": "https://files.pythonhosted.org/packages/13/95/64df0d333c6e4f66c197dec883b1d07a7c00f108471428b5d65d77ce6f6f/bigmler-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "1e683c44206ea0bc0a4b06c78baf5d695939a71a60c6920c324811f640ac1f0b",
+        "url": "https://files.pythonhosted.org/packages/13/55/8a6c64dfcc1f7b9414231eddd276ecc73bbc14e18cb78e3f6ad796bced41/bigmler-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "3fdfd495e3e2c757d0933f1649c237e316943f19de95ca07326e751c303e0a1d",
+        "url": "https://files.pythonhosted.org/packages/22/4e/9179d1a1576986732ad44be21b47ac501c7959fa17563c4175a59cafe058/bigmler-0.1.4.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "eb9984dab63efc041bf9d464496e24542ec52ee40ae2b813ea37a0b9fc30f218",
+        "url": "https://files.pythonhosted.org/packages/3c/9d/08eb53206adf3fb749edf041091a33da4f3500624c0bb9a04f15e336b7cd/bigmler-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "303caa6d0758944a3a0d6bf9bcb47364268a01389386f021bd957ad563155a44",
+        "url": "https://files.pythonhosted.org/packages/67/b6/7b2decc7d918671ed59f97faac58f05968fc05e88bb37e6ed219834d7346/bigmler-0.2.1.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "25a5635193f8ea73a7569571f91ece0d67d8c3fd0846b2da40e5cbe57dc7d349",
+        "url": "https://files.pythonhosted.org/packages/cb/db/33e9260705b0300c284640439dea34cc1ad75d82e04b3e3348de61b6f723/bigmler-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "94f7ca20bb2bf2d124d9815e47b97cb3d002b26a73c5eed6903add5247b49fab",
+        "url": "https://files.pythonhosted.org/packages/fc/8b/16c8fe35f135f901f8ff4fbc29b0793b1ac5fb5ca806f0f5beec33a4035f/bigmler-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "a4d4bfaeb8219e08010fed407934dcae549a709b6eae4cbd94e61f3156165a59",
+        "url": "https://files.pythonhosted.org/packages/b6/b7/a0777105d3eb893f3e236ccf559dbf30941808261187d33da9a7b1a95a79/bigmler-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "61fd9a80357e93848f8e0f5c620360fcd4946000c9fbfbfa399dd58ffcf88135",
+        "url": "https://files.pythonhosted.org/packages/6a/ec/4fb388e45b8a2303d31d211f37d13fae74625fa98add88d529148ec571e7/bigmler-0.3.3.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "ecb34aba85021295347059f0c5f574628d317d63bd172ccf60bcd9e48d185345",
+        "url": "https://files.pythonhosted.org/packages/4f/ab/4af0e773e9a6ccfe7973da338db9f8ecb2fae6189958d377603d9893a098/bigmler-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "92c76dded00df0beb4ce61a7c01975c2df4152529a7a57b18b74cae8d68027db",
+        "url": "https://files.pythonhosted.org/packages/72/2c/e2d29ee95c90c0cf305ee522c58ae4822e2d18c0286a16e75eb899e2916d/bigmler-0.3.5.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "55c33eb94124ca5d029993786540a2ab2fc675f6f1a8f3d7673b3b91cc577fd7",
+        "url": "https://files.pythonhosted.org/packages/12/43/7b14c22f147f1c1c833e61a7ce6e7ec0266772d386b527992c5e21414b8e/bigmler-0.3.6.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "ea1c25204750386169106a99bf551eef9db07010d1f9970241c5b6dcafde6c4d",
+        "url": "https://files.pythonhosted.org/packages/e6/bc/43153efbbc2337cfb139da2cd739835f13cbba96a1917b059b25ac6619ec/bigmler-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "6748d3fe602fe2df7b04d98e8f4344346ab05f787ca7bd4ef9763955c672ad23",
+        "url": "https://files.pythonhosted.org/packages/04/e9/62f9cb35f67d7236444c7c91b572fd8a99c96af5f7b0b786e40a7ae17b52/bigmler-0.5.0.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "58846120b27bc5ae61b34b6a86bbda2f8cb154205b19cf528ee8426a1a1fd61e",
+        "url": "https://files.pythonhosted.org/packages/a2/43/3e4dfaa98965f12e7e2fc83d536ad3279615074fe0935c74b417e6d3ef20/bigmler-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "efbf49f4288b9d9082a9f03a2f1ee900c14d322f7a9d332854f67163d3fcd3e4",
+        "url": "https://files.pythonhosted.org/packages/1c/21/eadbefa4dbe8b3621f4dcb1454662d397989d5c9339b5cce1ddfc88c077c/bigmler-0.6.1.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "2baa7439b90633dc3ddf621fc41ef2fb45039b15bfa0c12dcd2aa6aedd4dd0f4",
+        "url": "https://files.pythonhosted.org/packages/63/24/022c9dc8e0eaa149d77fcec5b499748cd43f057ee07da70e6beb744191c6/bigmler-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "61cfb180d3233bff97facd44b28998149aa268835e190c6a054c19a7371a908f",
+        "url": "https://files.pythonhosted.org/packages/d3/86/bd57c35f4c35bf14bb1892b1632a94dff9e11ceb0047e14c420f0e42f7f6/bigmler-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "7cee3e274e72ce3d46f6e825e3a6497149e19526999d28bf93cec6ae4e837ded",
+        "url": "https://files.pythonhosted.org/packages/b9/c6/0a4949158acf39979a9f72ed954dcd70186625bc1352d2fd4dc67a94411a/bigmler-0.7.2.tar.gz"
+      },
+      "1.0": {
+        "sha256": "eb1b5526730ec4b14e2ac30fddc884b211f951825c05c9969d796abeecaaf3bf",
+        "url": "https://files.pythonhosted.org/packages/87/eb/0aff6e56327c4e547072b4c2d5f9358e341376672a6b43f0938fd3edbdb2/bigmler-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "36e711a97dbf0a5696fbfb3f6b6c3f47a39faa863dd036cccfe19c7df4f784b0",
+        "url": "https://files.pythonhosted.org/packages/54/9f/7200263af8ae086784dab5bc74bda481e94162ba1f4873a104d857853965/bigmler-1.0.1.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "2abc382b8190449b9dc40dedb3358152c83d0888481eaf58544b5a4127c3446a",
+        "url": "https://files.pythonhosted.org/packages/f3/f2/b7821e2d37a8c968170cb9322795c3f6fa6e41ac0c3192f02f97c31a1c4f/bigmler-1.1.0.tar.gz"
+      },
+      "1.10.0": {
+        "sha256": "a672d90b1836c2a8b2b5e98728420c29265748958363fb18a2ebe49cc41b3169",
+        "url": "https://files.pythonhosted.org/packages/25/d9/555153c587d438a5fca66d7d51510c7f7d4d958effb9a3213aab4b6db476/bigmler-1.10.0.tar.gz"
+      },
+      "1.11.0": {
+        "sha256": "c8f7e3c8ddbec71962f6fffaa2b2b901a5036b37bea29b2b0a5b2fe159150957",
+        "url": "https://files.pythonhosted.org/packages/ba/20/0df2b8b8d4837d397f709ccd37469a762372873ba1e79be687e5961d06cb/bigmler-1.11.0.tar.gz"
+      },
+      "1.12.0": {
+        "sha256": "884f79c8ac0c16ef98b724e21441c55be97eae316f3b79ba3b3f1dfbb1f7052f",
+        "url": "https://files.pythonhosted.org/packages/ab/cd/8b0d4d849e8df6b2c57a7209e9125f222dc046924d24287932117ad2f1e9/bigmler-1.12.0.tar.gz"
+      },
+      "1.12.1": {
+        "sha256": "8749f65b1a04f5575b7b68d9307c36ed0c50046819f76a0d4af0b0f6a8ee4d14",
+        "url": "https://files.pythonhosted.org/packages/91/71/7f32e4d6a32ac58feb3836e981084088b1ae54a7f13ba318aeebfbd2ad90/bigmler-1.12.1.tar.gz"
+      },
+      "1.12.2": {
+        "sha256": "ed36e9af7254c6d741d300be215da488f475c6f8f99cbc9f85ef79f944cbc93e",
+        "url": "https://files.pythonhosted.org/packages/09/3d/3a8f7b2525f06cf59931b4a6e0ef90b7419cb2330d1199e23ebd85f3e3e5/bigmler-1.12.2.tar.gz"
+      },
+      "1.12.3": {
+        "sha256": "6bf24aac55a84f30f238ce9bd342befe7c8c40ef0a99b2a516ed101995242ac6",
+        "url": "https://files.pythonhosted.org/packages/04/99/ff3548c70f0f502a378d5fd77454260803b916d5e9c920821106eb15685a/bigmler-1.12.3.tar.gz"
+      },
+      "1.12.4": {
+        "sha256": "ad8768a0234371be307ad63f544aece7bd828a8dcc2a7c22d4f2d9ed696ed4fe",
+        "url": "https://files.pythonhosted.org/packages/27/37/3d1e9b706b8de47bf2850baf2742e8a400522375bde6b1c7a2caec81586f/bigmler-1.12.4.tar.gz"
+      },
+      "1.13.0": {
+        "sha256": "97ec4ca18aa8a6764cbede00dd172b630b77d7be79a7d59327fe850c53d7595c",
+        "url": "https://files.pythonhosted.org/packages/e3/2f/8961b74c9e241ac49c09f4060bc27ac6213d1f57296e2f056018b437f0ff/bigmler-1.13.0.tar.gz"
+      },
+      "1.13.1": {
+        "sha256": "2ab24d3fd1d811dc9f4388a5528e85e332eaac1f5cd38ea475cc4aec1b4fe3d2",
+        "url": "https://files.pythonhosted.org/packages/98/58/3d6e8ff58e3ad34954e9e0e1a3e4d1d170b7e3a6aae7e85bbee3fc8f8440/bigmler-1.13.1.tar.gz"
+      },
+      "1.13.2": {
+        "sha256": "43b89fd8736f822fc612240f97530dce352028663e717947635628eef5e04726",
+        "url": "https://files.pythonhosted.org/packages/56/11/d7b62e949221efaa7117f5e2dd6d38fc18839db97a401636b0274eecf151/bigmler-1.13.2.tar.gz"
+      },
+      "1.13.3": {
+        "sha256": "13f73e9c1529088c493d4b3994b2e9d9f952038891ef8b64a69d010f0892e261",
+        "url": "https://files.pythonhosted.org/packages/f5/08/c52335f3bf1a584ba602ef74a2803033c58425eeb1bf87ffea29a218c4e4/bigmler-1.13.3.tar.gz"
+      },
+      "1.14.0": {
+        "sha256": "4613bd69a3c1b88add7ff9366dfd4133401b14dd126e7f7eec824d91ddbc49ab",
+        "url": "https://files.pythonhosted.org/packages/d3/52/8ba2d7d88a95bf052c53e54464f65ba6dc9099d9cbc1945f355bbb917bff/bigmler-1.14.0.tar.gz"
+      },
+      "1.14.1": {
+        "sha256": "377f78d5d7dfee3080e86a584b62afad6905be10996da821e4c853f2197ec085",
+        "url": "https://files.pythonhosted.org/packages/ff/38/70b04c545f52cf15cdfeb12f0ae2a7a36a5933a9178ca1e8ea84b9c7407e/bigmler-1.14.1.tar.gz"
+      },
+      "1.14.2": {
+        "sha256": "b9809c5eb12735970f8d258d2bcef089d7957f1eb92a2836866a28db5d3378e5",
+        "url": "https://files.pythonhosted.org/packages/f3/4d/8d7b1c164667b80b8e977f889ef1cd5aff241f5f59f46dbfc4abfaee0ef2/bigmler-1.14.2.tar.gz"
+      },
+      "1.14.3": {
+        "sha256": "60f826eb37b17a4b59ba1cfa25e9656fdf47ee7737be808fd836dd9cc5e0ffc5",
+        "url": "https://files.pythonhosted.org/packages/a6/a6/bd434222c98121a0889dd5631eeef584e4a21da5304e6cb3d6363d29f08c/bigmler-1.14.3.tar.gz"
+      },
+      "1.14.4": {
+        "sha256": "45ef30565f81fff885b95ae72e003c5d8732820bc326cc79ae61d21aecc74e55",
+        "url": "https://files.pythonhosted.org/packages/b0/2c/0178cf47589744793bac0615e4f001e905b7cc72119398ce7aa9b4d8193f/bigmler-1.14.4.tar.gz"
+      },
+      "1.14.5": {
+        "sha256": "4a78b51eebe419618f8fc494b687d29b9dd820aa06c3b0b1867c335bf819581b",
+        "url": "https://files.pythonhosted.org/packages/f4/f1/fca065168e8de19d51ecde972cc1d385e055cab3f3095ba209ff03b8313b/bigmler-1.14.5.tar.gz"
+      },
+      "1.14.6": {
+        "sha256": "fb2fbd64d7bcb484179e0608acb9c34629bb6ab7975c648e3b29dadb43a3684d",
+        "url": "https://files.pythonhosted.org/packages/2c/1f/91d969b4a0f267b5f3fd6de7b0424f3e5cf3e03304d7557c22df898431a4/bigmler-1.14.6.tar.gz"
+      },
+      "1.15.0": {
+        "sha256": "a4440678df8c15832448343a3a7787315e11d894e37c54a1f89422b58119f4ea",
+        "url": "https://files.pythonhosted.org/packages/79/8c/3742f4e6137bd61a9a7ecb3f747c129d06df967fb750a950091eb1227972/bigmler-1.15.0.tar.gz"
+      },
+      "1.15.1": {
+        "sha256": "03aa122fc23d51aa17d0d293a803a5bced840e6dddff267a18d1292e2d5d1ede",
+        "url": "https://files.pythonhosted.org/packages/47/5d/c26319a21683c66f09af3569e2464eedde2abff0eb8e3bb3140b39a9dd2a/bigmler-1.15.1.tar.gz"
+      },
+      "1.15.2": {
+        "sha256": "d8379e73e8af714cf761c9ec2bb6112f6eb5d5ab14d0d8f1bf5648e8fee07101",
+        "url": "https://files.pythonhosted.org/packages/bb/82/31517bd5a7e99f59ad95cd3b398236b286a16628fe912938ebc9fe825dbb/bigmler-1.15.2.tar.gz"
+      },
+      "1.15.3": {
+        "sha256": "276eda4adf1e40db3a963b8d4b39db0ab948328437d26abb81df6d14f6423421",
+        "url": "https://files.pythonhosted.org/packages/8b/39/dcccf848eebc5c60ae73906046c2d96827ccf6db06c98e71e69d6c2a01a9/bigmler-1.15.3.tar.gz"
+      },
+      "1.15.4": {
+        "sha256": "608d596f0fca603682f30a3dd26afa0dab354b9a533c783cc351ab78a19b705b",
+        "url": "https://files.pythonhosted.org/packages/21/0e/7f88c50e1ba0bc545296f970da4a858653193f015e847f08eaceb0956a9e/bigmler-1.15.4.tar.gz"
+      },
+      "1.15.5": {
+        "sha256": "e691d445fcc4d8c47cab21de1ae678ed6ec2ed95ecfef752b6e5237bd7f42ea4",
+        "url": "https://files.pythonhosted.org/packages/ee/b1/4ad330ba5ccec368df9a8a4ce9a698a41ec57076eba4f2bbab74bd3dac29/bigmler-1.15.5.tar.gz"
+      },
+      "1.15.6": {
+        "sha256": "8009c734def4941555a56bf69df0bee99d6c8a295c2a6d3581f11cc7a2a074c4",
+        "url": "https://files.pythonhosted.org/packages/39/45/8100ad0241f39efb1278ce4aec0a74f6e0b1fb68218f3bc2c787aea36bfd/bigmler-1.15.6.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "ef6136fc9dc32fafd83cb87a3a318cbb15219801e36208d60e3e8505597ea01d",
+        "url": "https://files.pythonhosted.org/packages/50/73/5456112ef3213907504259119a0be052e93ced3ad7de53e5fac2d6f8d7f9/bigmler-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "a8a0dadb9ccd9747766cf4b48b30e6ae21a6c254f47236c31090672e6df9018c",
+        "url": "https://files.pythonhosted.org/packages/fe/40/417c5cc4ec0d23f376c4a9c5b0ded9430d6deec04792582fa299d9fa3b93/bigmler-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "adb100c36607a290f6b49b384794f05bf718a964a8b9e61070a3334d60e370c5",
+        "url": "https://files.pythonhosted.org/packages/af/a1/224c13c6f863fb7719420fb974df7d8165b4c39fa5dc90f1d58117985a02/bigmler-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "7fb470bca8511271f341ff96786b76e91fa83d257fd88ff22c422e49a64c3359",
+        "url": "https://files.pythonhosted.org/packages/f6/a2/93643c9f0c14321f25ff226aed062cb6dfe93ec1cd8b0db58797a370dfb1/bigmler-1.2.3.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "f119ae644733699c7a7b1c616a7c87b543f71c80e86623139084246b2c2562be",
+        "url": "https://files.pythonhosted.org/packages/87/87/f187d714f28c599b7d75b1cbae5e81a09a5eae655b2ce9508b2e98c31958/bigmler-1.3.0.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "d91936df5f3a936654658b9e5422994af5e0b6501f31027aecc15c4f6b153d27",
+        "url": "https://files.pythonhosted.org/packages/39/b2/973a50fbc19bfb233f097a424d51645b67bdecd46fef758861aeb8b145b4/bigmler-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "d4514c06c629b29edc8fcfc2687748104c8f98abe46211f09e8e186a2daf66d1",
+        "url": "https://files.pythonhosted.org/packages/ae/9b/25dfa41de046df9063fb1934059e09b82b08441a802e1eea55e2239a18c6/bigmler-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "fad47809cdfc61671fa15a2d3777d4f5955129a7b4abef4216be8dc1f8ddfaf6",
+        "url": "https://files.pythonhosted.org/packages/f0/da/947ebd6a7746d0acdb4370e7a0533c9d9eb462cbe8b1f330b80603e48a19/bigmler-1.4.2.tar.gz"
+      },
+      "1.4.3": {
+        "sha256": "fa7bef945224485bab7d3fb3b6c6fe1e32d7ab1b2d72e0e579aa0152fb45c01a",
+        "url": "https://files.pythonhosted.org/packages/c9/e4/67c30f9b6163e7a95ff03fbbf844166bef5f09d1a1f9aeae8e600da05bb8/bigmler-1.4.3.tar.gz"
+      },
+      "1.4.4": {
+        "sha256": "9151f77542019e5df265a933c895a28b946f7111832bd64b87f2a4f434c5eeae",
+        "url": "https://files.pythonhosted.org/packages/22/32/ed195b6a73972004c6c32ac6131926ab3d6b088edb026044311f2962c918/bigmler-1.4.4.tar.gz"
+      },
+      "1.4.5": {
+        "sha256": "cdb344318179187f7a39e190d9c7651ec44665cd7f6cfe34ccef4d472f4969b8",
+        "url": "https://files.pythonhosted.org/packages/2d/e2/c5772c8d267421128e9aa4c60bf56d90e55d168578bb9e4355a4aa575ac1/bigmler-1.4.5.tar.gz"
+      },
+      "1.4.6": {
+        "sha256": "45086b719b35b0e631b7ab0aa9dea770c3c9c95c313e6e506f102e94ca79a323",
+        "url": "https://files.pythonhosted.org/packages/f2/5f/9c3d6651a8b8a595f10c67606a13e62939e537a0113a7e44c09a5103823c/bigmler-1.4.6.tar.gz"
+      },
+      "1.4.7": {
+        "sha256": "c4c1c44ba65e8580352c44f6687d922bf6778e92db9dc7084a39769c23e1f00b",
+        "url": "https://files.pythonhosted.org/packages/12/07/eee5abc76f3a3707faaca4177c93a20e67f0bbffbcaa2363e630507120d2/bigmler-1.4.7.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "d02f864c6fc99a0a9ca1e4320420f9d5f9d605cdd6c5844578d8f1299624ed12",
+        "url": "https://files.pythonhosted.org/packages/e9/97/1258882b856e3c50283f243b005c8acf7516283a9ebd3146a48da01e6e4b/bigmler-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "d714baea521cf5bc58d9c59553517775a94759ea91eed7aac1902a87b4f66c2b",
+        "url": "https://files.pythonhosted.org/packages/b7/8a/3a8730896bbade7a8afc90821d128fe228ae473285ed9262c4d8578bd6f6/bigmler-1.5.1.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "e737b72ba6d85d9f74a2562ab9bc22b0fa71563b34bd4009a29e3237fac8e5ea",
+        "url": "https://files.pythonhosted.org/packages/ad/62/97047533c224a795fee97315dfb836fe722e0ad95237cc6fd0534b3fc9dd/bigmler-1.6.0.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "071aa7f1817c1ffb721a1a193c817717185cd9473ca0fa56b8398a8b8ffc7f49",
+        "url": "https://files.pythonhosted.org/packages/48/ef/462c412b3f88b59b08d6a91d65b15933232aa7d07c9270fd5f4381714881/bigmler-1.7.0.tar.gz"
+      },
+      "1.7.1": {
+        "sha256": "0e2228242e045f457cc4a89b6b8c089e7aa50f15b52e90884d3a51143a33b9b1",
+        "url": "https://files.pythonhosted.org/packages/a5/7f/cd74b162301118c729d9b803be961f7a573fa5908651fc7b6e132a6debd4/bigmler-1.7.1.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "d08ddd5d470b16ef1f888e4935b1d84dc7a06666b0fd1196387f04d3e7e476b1",
+        "url": "https://files.pythonhosted.org/packages/b5/2d/08c28d87f052f653ac971f629b12a74826f8b5b6070ad3cf27a98e6e9ae6/bigmler-1.8.0.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "d648fa4daab388df112a9454e212efef32710eda0691d59a5970581158196e11",
+        "url": "https://files.pythonhosted.org/packages/00/1f/331894d1fe13f2435a7edc62ae75ea1c4385660c193a158c877b064a407d/bigmler-1.8.1.tar.gz"
+      },
+      "1.8.10": {
+        "sha256": "0daec7b8e0f0a0fe246837b648046274f09958b79c85402e63c4ae4a9f36aec2",
+        "url": "https://files.pythonhosted.org/packages/11/44/4e64c91d15e765041e1fe8cceac56eb81f889fc2f713fa78e213bb274354/bigmler-1.8.10.tar.gz"
+      },
+      "1.8.11": {
+        "sha256": "b59aa7002bfc9dd635e64f7e3bd92a77527f89accb40238eb12dfbbbdd169a87",
+        "url": "https://files.pythonhosted.org/packages/42/2a/1d976c9cb87315c772d560751bfcb897f25cb4e2181ea5d6bed0b1fb4741/bigmler-1.8.11.tar.gz"
+      },
+      "1.8.12": {
+        "sha256": "29aafa309d40ac2eb6561c8c06069439175a26ab2d1e34f724f653d953d53194",
+        "url": "https://files.pythonhosted.org/packages/52/85/1417efccdd413d4f43fbeda911a658940466481567c50a742a63da56dd2b/bigmler-1.8.12.tar.gz"
+      },
+      "1.8.2": {
+        "sha256": "b1d32dd2b577172904009b60415a3564326bf5a333b7de5d5e97545d3bf2b0c0",
+        "url": "https://files.pythonhosted.org/packages/cf/28/c6257c1b6fa48d41f597bd5e6829ad5763bbb5558ff0bc0a4c2d75df26e2/bigmler-1.8.2.tar.gz"
+      },
+      "1.8.3": {
+        "sha256": "4099e9171f2e8c254be01280b173affdcb71b89a282e342508f8729f381844c7",
+        "url": "https://files.pythonhosted.org/packages/c6/ff/90d5285c0af9156061015d639752a7ff3e22d42a30c09e55dffa8f98ded7/bigmler-1.8.3.tar.gz"
+      },
+      "1.8.4": {
+        "sha256": "d2a4758b3b08c28bd83f3c2206687e4fc1c8f0f29e7f33841d7e6a985916e84c",
+        "url": "https://files.pythonhosted.org/packages/89/bc/3c2bd68aeed1b3a3c7853c1bb230556efd6b7226e1b3a45f879de618ca1e/bigmler-1.8.4.tar.gz"
+      },
+      "1.8.5": {
+        "sha256": "8f3c8b405f4db08c02a7c1ac0cc5c34b15d2d16aef4c302e82882c6f72965978",
+        "url": "https://files.pythonhosted.org/packages/22/7e/8c5dce61e3ba0a0fd199766fd37613921ea7c2b7f90afdfa42336314faee/bigmler-1.8.5.tar.gz"
+      },
+      "1.8.6": {
+        "sha256": "1eb7a03a2985c553f32fb3f72ded9db03068e71024952f95847df70c11ca46c6",
+        "url": "https://files.pythonhosted.org/packages/c1/e9/a612652faeccd9d2d2c60e0b3f607ff74a32e2d82ac081ed329ba298c387/bigmler-1.8.6.tar.gz"
+      },
+      "1.8.7": {
+        "sha256": "a3ca066d6f5147063b76b63e4af664af2aeb03e03191e360f0d77b8edd4086e4",
+        "url": "https://files.pythonhosted.org/packages/1c/91/c8be3f653297c248b88176dc0a484f771c030800991519818b9b4094600b/bigmler-1.8.7.tar.gz"
+      },
+      "1.8.8": {
+        "sha256": "4ea225f3a5ca257bceb0dd2b8dffa9b3e7dc8779fad7ce4a33eed73335251df7",
+        "url": "https://files.pythonhosted.org/packages/17/a9/bdf2674f6763cc0e8b94317f94421ce2cf471b63468507594348200c508a/bigmler-1.8.8.tar.gz"
+      },
+      "1.8.9": {
+        "sha256": "6ef39d48bf9f5b477e2e76388a26854137a407cd177d89baea29d422bfb192b6",
+        "url": "https://files.pythonhosted.org/packages/c7/52/af05f516bd47249f61f5538cfb81ec2d7b90b307abf5a4ad1d51282a360a/bigmler-1.8.9.tar.gz"
+      },
+      "1.9.0": {
+        "sha256": "58fe6d1315c7a4604d90cfdc07a7111e563f414791dac0e5787c82b5ccfb42ad",
+        "url": "https://files.pythonhosted.org/packages/20/fe/5d7faf092b8a4dcfd49c71dcee56c6ebb8487c2c840abf848b8bc48bee8f/bigmler-1.9.0.tar.gz"
+      },
+      "1.9.1": {
+        "sha256": "cdff8c7bc95b1e45fe691862fd300c728573eb006b8fd9cd664c96e8550bf61a",
+        "url": "https://files.pythonhosted.org/packages/83/ae/08e3c18f1d6d068229cca900bae991c3897cfed942ec56f8cad152f48378/bigmler-1.9.1.tar.gz"
+      },
+      "1.9.2": {
+        "sha256": "915f456711620e166c56d02ecee29bccda1ab4296af96949f8ba6208ea46dd7d",
+        "url": "https://files.pythonhosted.org/packages/98/f2/43fe36ab26db293f53012e9b03a6cc6d8d19de3b9f5b0fb9c89c0acc40e9/bigmler-1.9.2.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "bfccc0eb2dde4d0fa15866882dbbb8f26fa6b7b96e3607247a73c084e89c571a",
+        "url": "https://files.pythonhosted.org/packages/35/45/bf270fdcae103dc387a5b1fa46e4d4549868f1face07bead39c23d3e144c/bigmler-2.0.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "226e267cd4c6315d0de039ba8cc4fa6d164b3dbbba4330d30ad5578ae5ae8213",
+        "url": "https://files.pythonhosted.org/packages/c1/bf/9a8b080001c572b6305576f14bae939e77701d817374f578a231a5881e79/bigmler-2.0.1.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "804668957d11237f9f888c03329742c7c564ab958d9f5fc03682ebdbabb3fb2a",
+        "url": "https://files.pythonhosted.org/packages/a6/16/c7c8af880ff394f529cccb8e064c5495993ef14346737b44aa40b972ce88/bigmler-2.1.0.tar.gz"
+      },
+      "2.2.0": {
+        "sha256": "0eca77159b4200178595551fbf7b9a894723d2a610f8599a47ad06ac9f12fe74",
+        "url": "https://files.pythonhosted.org/packages/f8/94/3ce60682a4ce886dcf46b1bd14461e4f4f9b9b5f8e91a4840cf72b20bdfd/bigmler-2.2.0.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "b7f701e9118dace93e89bc954f418fa07e14af2280b85c78a5d8e5a0f1ec2218",
+        "url": "https://files.pythonhosted.org/packages/73/4a/c084a121b4f3ccf554a47344a5604fafaa3c3787280d345c5e0ebf73f232/bigmler-3.0.0.tar.gz"
+      },
+      "3.0.1": {
+        "sha256": "c9fef9961c3afcd87b0364c823d74959de02f1fd082804c12a385cf3c5620cb5",
+        "url": "https://files.pythonhosted.org/packages/03/d8/c9e7a71a815777b9e8bf517952f35a9ba3d067406ae963db87cf14b111e6/bigmler-3.0.1.tar.gz"
+      },
+      "3.0.2": {
+        "sha256": "67548e5cda73d3f6ff976bde25e79af97b5aba9131da43cb1aafabf58d8eb5a6",
+        "url": "https://files.pythonhosted.org/packages/a4/fc/67505174983d2fa461ec0a0e69376fb4309893d9ed6a1ddca5856c86714d/bigmler-3.0.2.tar.gz"
+      },
+      "3.0.3": {
+        "sha256": "3452f7cbaafe04fada4b848594d625eafae7966c57be80d47a0af0d1302ce2de",
+        "url": "https://files.pythonhosted.org/packages/87/53/192cd88b9f785bf4ecc632e87c01b3dbf8097e875b6a4c29ed07f4c39462/bigmler-3.0.3.tar.gz"
+      },
+      "3.0.4": {
+        "sha256": "b27f319a4f072237b1abca093fb23e154ee4dc750d04ec20131ee361a6e392b8",
+        "url": "https://files.pythonhosted.org/packages/e3/f7/9e3d0a03613c58057a139fff79beb23a5b293bb9ff806c2cbcefaacb9680/bigmler-3.0.4.tar.gz"
+      },
+      "3.0.5": {
+        "sha256": "a265937f2ad992b054b0e84a538696136e99b431374a876d7b4559a5bd3c498a",
+        "url": "https://files.pythonhosted.org/packages/ae/20/002000bac067eab0b0a0d67d272da07b7910003556fa0b9a42b87d3c7497/bigmler-3.0.5.tar.gz"
+      },
+      "3.1.0": {
+        "sha256": "13e7169c03fe2b4693d7ecfdb4ecd6064e39a4d5550498d40fab33c5ab29c1b8",
+        "url": "https://files.pythonhosted.org/packages/7f/3e/268631f6cab6314f8a1964635b6b317c757baa7d3752a3e82f90124261b2/bigmler-3.1.0.tar.gz"
+      },
+      "3.1.1": {
+        "sha256": "5f820b710fc61ca36765e20dcadc181051cbea1b792831e47cf647accaf57a99",
+        "url": "https://files.pythonhosted.org/packages/30/1b/c4f085c9cb05ee2558952f5bd53ba28bf4bc6cd0a693846c7b4e3e67fecb/bigmler-3.1.1.tar.gz"
+      },
+      "3.2.0": {
+        "sha256": "396375073f6a82b5d6e01620c004c3bcd90efef0aab5d1e3bf0e79b650f8fda8",
+        "url": "https://files.pythonhosted.org/packages/c4/e0/8b7bc11535a555d8cbff39e606525db8d1f83ec3540e754a3ae3673f8212/bigmler-3.2.0.tar.gz"
+      },
+      "3.2.1": {
+        "sha256": "eaf689a243437a309cf74f2d3101c3c2472d5a4600fc0c98bbe39402a7cad56b",
+        "url": "https://files.pythonhosted.org/packages/49/7c/e8eac0e3b011d0de731812601e4b9c3bb02a9a528ebbef9f353b2bde0d8d/bigmler-3.2.1.tar.gz"
+      },
+      "3.3.0": {
+        "sha256": "8b9c51e13733f29469e0f86bd36a6c97ea61fa95477b31acb71406fde4708f88",
+        "url": "https://files.pythonhosted.org/packages/64/d5/3b54b354355b38a5c26dfe4b6d7e87f60a58449552cc6a39fd996b11bb01/bigmler-3.3.0.tar.gz"
+      },
+      "3.3.1": {
+        "sha256": "b7bf2e6bb8d234d28cee9e58af51d61fa339d7b5ce46bf36fd74a6c05a1a70c2",
+        "url": "https://files.pythonhosted.org/packages/31/3b/7375834443210833006c01c0d3cda768fa08b454bf3a2e4daeea4c5fb0b8/bigmler-3.3.1.tar.gz"
+      },
+      "3.3.2": {
+        "sha256": "b3316f594d430e93511551e938c0ba8d30b44058694ddc459b1aed3af6be351e",
+        "url": "https://files.pythonhosted.org/packages/18/df/283f0f483ebf4e83c3d5abe26605c17301405ec40fcc267467358434c6e5/bigmler-3.3.2.tar.gz"
+      },
+      "3.3.3": {
+        "sha256": "b0218ec0134db3bb5135cea6d024d8f1fd0bd41857bdef02ceff237fe2367680",
+        "url": "https://files.pythonhosted.org/packages/12/1a/b5970576c3709a09d13aaa447efeeadb27f8eee79b28084547876dc8d8d4/bigmler-3.3.3.tar.gz"
+      },
+      "3.3.4": {
+        "sha256": "e35f67bb47dc850aa90e213c704f55e164548d40f40132ebd1e7ba2442366d60",
+        "url": "https://files.pythonhosted.org/packages/f9/49/786a4f142fc9d41a927f11d6d6fe3fbe662c24066b62a57b846858009320/bigmler-3.3.4.tar.gz"
+      },
+      "3.3.5": {
+        "sha256": "56b5931304136a2ccee7ad15163bf9283a08df9e274b2a17aa7b6110444edb4f",
+        "url": "https://files.pythonhosted.org/packages/3c/7e/1d3f272a451e7987a5f0c709228cfd6df9ba72c1871470665fd64b926f70/bigmler-3.3.5.tar.gz"
+      },
+      "3.3.6": {
+        "sha256": "97984d5b9235a233739904fd96a4df8469c61843574907399b875d9bcd2b9f2b",
+        "url": "https://files.pythonhosted.org/packages/df/71/14d7918ec14407a20e247a57f38da2948f0cca095b8e3acf9c99c4cbd2cc/bigmler-3.3.6.tar.gz"
+      },
+      "3.3.7": {
+        "sha256": "0fe14b24933c1a92d62d0301b7d3e0e9d65d894832a9abd1bb3b50138ca7bf69",
+        "url": "https://files.pythonhosted.org/packages/c7/6a/d6b8aadddaf3cfd23e06abc7dc1d2388d26b9349ee5d61cdfbf737387c26/bigmler-3.3.7.tar.gz"
+      },
+      "3.3.8": {
+        "sha256": "58a45a7dde81cee12500f6079de830c6f8fd5a91f269917ffdd2eeaaa78b1184",
+        "url": "https://files.pythonhosted.org/packages/8b/bc/df6741ac1fe0cebfd5064268b372d5c28948956d5e615abf8807a79718f9/bigmler-3.3.8.tar.gz"
+      },
+      "3.3.9": {
+        "sha256": "f605458f2254c2e374c220c4fbc6edc46ef664e8f587494426ac0fde5e4cb068",
+        "url": "https://files.pythonhosted.org/packages/63/a9/748af34b48eb5328787881c7a1d78b5719737f5f40da8b4a89f88c186a35/bigmler-3.3.9.tar.gz"
+      },
+      "3.4.0": {
+        "sha256": "e4040a36ea90fbd5cbeccaa34327803bb5a2b45299fe8fe2fd473f305fd77237",
+        "url": "https://files.pythonhosted.org/packages/be/35/117395c3a24d489b3761f1b8a655c2e32f2554d3b1a4905abb3a006a750c/bigmler-3.4.0.tar.gz"
+      },
+      "3.5.0": {
+        "sha256": "00be52bd29c63b97bf1fa54f917ecc407e379a96b7b20cb1c113d5e5f3cda420",
+        "url": "https://files.pythonhosted.org/packages/f3/50/bc25330e41ee2885c3146139251ac311348cdd370cef9d95265d8aa3577e/bigmler-3.5.0.tar.gz"
+      },
+      "3.5.1": {
+        "sha256": "3599fbdf9be98cd47af72ac84643f92b8bd6ae38d9a519c4aa626db706fc95bd",
+        "url": "https://files.pythonhosted.org/packages/9c/8a/2f8299057d3e59f8a2c9355f2c8e1f5dbfc1cbb376a28bf10e989582b3dc/bigmler-3.5.1.tar.gz"
+      },
+      "3.5.2": {
+        "sha256": "dfab8fb77930de446f75c9d9eec7f86a3b8ebf64c572aeb444a8214c8694251b",
+        "url": "https://files.pythonhosted.org/packages/15/3f/1073564715c4cbe5a096469e9789a9d4a0ef3100313cda4b1b48a96ab312/bigmler-3.5.2.tar.gz"
+      },
+      "3.5.3": {
+        "sha256": "3a6f296ae87f7b968a08df360d332932709e8ef13623f84a09e8e34ed3cf0e39",
+        "url": "https://files.pythonhosted.org/packages/4e/3b/08dc2f3324b75d90083481d34832ad2ff710fe14f88507caf0c0fab8e208/bigmler-3.5.3.tar.gz"
+      },
+      "3.5.4": {
+        "sha256": "6034e0a6aa3b7f01af60b4210889caebe6408d5ad916cfc2f6e83ef2aca84e38",
+        "url": "https://files.pythonhosted.org/packages/86/7a/ef55b8c14767949c376e98a71764cf1905c569a0da7a55343e903175581e/bigmler-3.5.4.tar.gz"
+      },
+      "3.6.0": {
+        "sha256": "8b25c6963bd13ba09832eca525443b326e004f9967ee4184234c56a986336723",
+        "url": "https://files.pythonhosted.org/packages/95/16/c5514a05e506d1943e403e5d8805f10b23fd910625c62362451634be5618/bigmler-3.6.0.tar.gz"
+      },
+      "3.6.1": {
+        "sha256": "b06d1a63195aed6bca09db63c3fd37dc356452a6b838030fdfeb686da59ba105",
+        "url": "https://files.pythonhosted.org/packages/81/6e/f0ba0abf28bbb766f54430f49dcc13f7fd6badbae10421b2fb79c3d2b918/bigmler-3.6.1.tar.gz"
+      },
+      "3.6.2": {
+        "sha256": "56707b187f31ccaddd5759f36b33a50712884fff9e77e3a95c20a5715179017f",
+        "url": "https://files.pythonhosted.org/packages/5f/fa/27c4237b768a09ab348a17e70c13839019c2b72cbfe74e2f75c07774da69/bigmler-3.6.2.tar.gz"
+      },
+      "3.6.3": {
+        "sha256": "aedb1a21de1af1635cdd5026589c70f671c52e920493290c88093ef123376bbd",
+        "url": "https://files.pythonhosted.org/packages/d8/67/747a42c1d623ff8b96e45c894c9962714414cf00e9a4afcd071005290db4/bigmler-3.6.3.tar.gz"
+      },
+      "3.6.4": {
+        "sha256": "40c3f5fcbe80bdeba0d4523b942457ee2b6e6d82735eec5948caab4067c17c05",
+        "url": "https://files.pythonhosted.org/packages/5c/77/e199bbb605b221b4ac595bdbc51bf0e2c75fa98104d19720907252b0da00/bigmler-3.6.4.tar.gz"
+      },
+      "3.7.0": {
+        "sha256": "0a57b2a4cba8e0caffb057611128306e63960d9251c401e70373c1e10b071601",
+        "url": "https://files.pythonhosted.org/packages/06/d3/a6117c100731c48d9c66e66709c66392c1ee51ca4b6d1dc4333aaf605201/bigmler-3.7.0.tar.gz"
+      }
+    }
+  ]
+}

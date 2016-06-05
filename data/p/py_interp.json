@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2.0"
+  ],
+  "meta": {
+    "description": "It is a command line tool for interpolating WRF output files to pressure levels, as well as computing a series of diagnostics such as low, medium and high cloud cover",
+    "homepage": "https://github.com/markelg/py_interp",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.2": {
+        "sha256": "09ede048be98e4de14eb2bdb4799afb22e914ef317ee3809517747a2cb6a24bc",
+        "url": "https://files.pythonhosted.org/packages/95/d3/16c94c4fe575284c5d8ea8bcfd26fce5606f8bd1635790e27fdd3e325297/py_interp-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "f3f820073983a9164bc44ff81c2949548abbb0f93a27d163d7fbfee7bb151b60",
+        "url": "https://files.pythonhosted.org/packages/4b/5c/ae947fb217bc1efbcd40fea43b7920aa4f0e8742f26f9df24fae9ab89392/py_interp-1.0.3.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "1241fe320383b12f90ac636c03339bf978ebba70385b75fa182ad30649954cc7",
+        "url": "https://files.pythonhosted.org/packages/04/90/7593fc8eb5343be19b790a911fffa09243eb3e073430e7d42e288ff2694c/py_interp-1.1.0.tar.gz"
+      }
+    }
+  ]
+}

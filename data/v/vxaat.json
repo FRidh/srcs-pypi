@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.5.3"
+  ],
+  "meta": {
+    "description": "An AAT USSD transport for Vumi",
+    "homepage": "http://github.com/praekelt/vumi-aat",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.5.0": {
+        "sha256": "523abb4463feb9792bc808032cb29b8afeae6d9a22f2ceb7515dd4156132df22",
+        "url": "https://files.pythonhosted.org/packages/2d/2f/30bc8827af6606439f4c62503d2fa1d97e7c05a35d40bf40baf2cfd4a984/vxaat-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "c8f583277d5c6fb171da7bfa1711cfe58273a85fb344f9d01495b82cb4ebd831",
+        "url": "https://files.pythonhosted.org/packages/57/b8/c89d2e441d357d89cd9a3ec138bbb152bb53a9db95a6a6b4611fbe1de9b5/vxaat-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "d3732603d972984a8101f434ae8b1e93a66e184641e31a30ce4c9b0f33d867a3",
+        "url": "https://files.pythonhosted.org/packages/eb/b2/5c876da0825b5e23834638e2a99791cb2a1c9e4687c6fc987cbec41c7742/vxaat-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "38fc016900e7dad1d84c076820143b6de2bdec6e820f0548b01e630ad8ade428",
+        "url": "https://files.pythonhosted.org/packages/ab/3b/bae862724b356e9ba4594f4a343d5f38de9a1d69643092efdc4d4496a384/vxaat-0.5.3.tar.gz"
+      }
+    }
+  ]
+}

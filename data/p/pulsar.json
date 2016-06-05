@@ -1,0 +1,186 @@
+{
+  "latest_version": [
+    "1.3.2"
+  ],
+  "meta": {
+    "description": "Event driven concurrent framework for Python",
+    "homepage": "https://github.com/quantmind/pulsar",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "af66345e00cdcd7f7865e015f99f2f2058b78f8e5a0e1d2518aadea1c255db7f",
+        "url": "https://files.pythonhosted.org/packages/e2/8c/6de31127dc1aef1be83ca05f24a5159a925ad7f86d99ff4d70c3a774718b/pulsar-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "7df8384f9a55e2ff8b1b9f1c35ab0261350a79eb184a643aa793fb390981662c",
+        "url": "https://files.pythonhosted.org/packages/35/0a/2f13b8a4e58c6c30e860897772679cde39e27f7e17cace7c01cde0ab6bb7/pulsar-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "a48952bb9be71c8b0df60fdb64eca15b9e4ead1200dac67836fbd13f03736d72",
+        "url": "https://files.pythonhosted.org/packages/4b/d4/845ad9228660be7d95b7b63455951a569b1bab9a98e867763e54dccf71c3/pulsar-0.2.1.tar.gz"
+      },
+      "0.3": {
+        "sha256": "deafcfb71969c1de67b77b097522d9a96fcfea02bd274798f626e13d1c61aa89",
+        "url": "https://files.pythonhosted.org/packages/67/c8/1bd1097895eec16a3db2f98d9f259f9c5c29592d5673ca0f17e8ccf51423/pulsar-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "e3d69a777b9726832662ba140cd5f9280dc1a033df5fcbc562c4120c6694fa48",
+        "url": "https://files.pythonhosted.org/packages/91/34/e86cc2ed17d2b402452f745280ad69b7e4ea370649c7e79d15f68b31185e/pulsar-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "4c5b9d0c4c9af678616ebca49bb5021d25ae0aba751b409f4d35bb6b4cd35342",
+        "url": "https://files.pythonhosted.org/packages/b2/f7/8be9e95efb9e99f1a0506250fc231c2dc397b42b8842ae65a1c655d17ec9/pulsar-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "f3059c5009af884b511cf2f7f2afb71c378f4972b5d3b164ff4a36a3376d7fb8",
+        "url": "https://files.pythonhosted.org/packages/26/3b/1371740f727e4c782bdbcd37e035f42f505fddf38cde036e0d0964174987/pulsar-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "1a8fd2e2d99783bc97866cc20481e674be1d8fbc6be78dd513614f86d0abd004",
+        "url": "https://files.pythonhosted.org/packages/15/4f/8137eb8e59aed35fc62043862974e9821e961c03bc4daf4e7f819ddbc88e/pulsar-0.4.3.tar.gz"
+      },
+      "0.4.4": {
+        "sha256": "d77658eb1614f0956c2b6743178a3f87d761ffbd034714e3d7b9759447451914",
+        "url": "https://files.pythonhosted.org/packages/be/47/bc542ab0653ebde242d06e6cd884756843223edf7d2ab5d7c003b9e0a4c8/pulsar-0.4.4.tar.gz"
+      },
+      "0.4.5": {
+        "sha256": "41f9c8c64b93935c821674928d5904dcc82f62170ab0ed2f92c9b8d339dcb57f",
+        "url": "https://files.pythonhosted.org/packages/f3/dd/f56c6d96f313cbc3fcae88cdcea41dfb953a7ec72e4a8cadf3dd37265b3c/pulsar-0.4.5.tar.gz"
+      },
+      "0.4.6": {
+        "sha256": "6b90c2d7628bf13c0eaf6f70ffd3bb629df613d9deaeba1e2582a550f98f052a",
+        "url": "https://files.pythonhosted.org/packages/d6/12/2f70df94e1c01aa8bc7f4a80449ace348b4cea68988489fdd9f445a847ab/pulsar-0.4.6.tar.gz"
+      },
+      "0.4c1": {
+        "sha256": "3b8f6b2e608d35834a62055bf87e17b8623244489e60ad394609ada469577a90",
+        "url": "https://files.pythonhosted.org/packages/7f/ca/ebb77dae00e580aa631cd4651d527084f15f9f6d2847c7267380152f65a9/pulsar-0.4c1.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "ba75f3eee801a93a804e5e7b4a099478a8c891b0092a8d2d3e31a660980c50bd",
+        "url": "https://files.pythonhosted.org/packages/09/32/8f635dc4541f30e52458c6de5cf278d8c674261d747d1d6d14c40d5c8630/pulsar-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "1c4536cdbee07154426f153ef1ddf39359401de02d9e567cae0de131941ad5df",
+        "url": "https://files.pythonhosted.org/packages/04/9b/cf1acac9e8a772b8d07f48b2b20eb1c3f05aea018bf2ffa3782d13265f22/pulsar-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "d9aa8650742b96e8380fe8ce808f329c32225ae54107c65198d95e30c16aa663",
+        "url": "https://files.pythonhosted.org/packages/66/4d/00582d96e5368ab290c3f16be9d28f5109f1b1234a8e92352f7cbbca21a2/pulsar-0.5.2.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "11810ee366e466f4d427dc8529cbfdccacce43acb1a87dca122048b63a9dc565",
+        "url": "https://files.pythonhosted.org/packages/d1/5d/32691ecc5809ba820ad3cd75c120841d2e3bd4947e028ac18c0e83ab8d6b/pulsar-0.6.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "c87c63643d9ca3bac2ed3487332c4bea6986dae75a339f65e3005f1b60ce7a0e",
+        "url": "https://files.pythonhosted.org/packages/6c/95/6468cff43263e06b33e7d5e2732cd48c01fab852c41db2e31261504f190e/pulsar-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "b9a8fdc6a1a5604c3b1de902d78a717ef9b3a2428bb1eb6a5bfc1484006541ae",
+        "url": "https://files.pythonhosted.org/packages/81/05/a7fd060f0f02cd1a6a17fed6fd10c88447df8f37fd66c4f8f55924f0cdab/pulsar-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "b9f39ea646b12e69f75853db9ab6c8692cc9f67d1968070776ebd751f3be27d1",
+        "url": "https://files.pythonhosted.org/packages/9c/bd/85c8dd1014ef9ccbd187298926d901a1a8c932c330748184f9dc19a4b006/pulsar-0.7.2.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "cfaab30e7e442dcfb86ae6e53d3ccbda463eb2d3279f80094dee17575ed698ca",
+        "url": "https://files.pythonhosted.org/packages/cf/1c/6c7d591711d32d6a6b3445cf3c54d9aaedd42436b768ec4010b1cc09879c/pulsar-0.7.3.tar.gz"
+      },
+      "0.7.4": {
+        "sha256": "be5f38bd0bdce31648eed0ecf404f54fb7202fa0b47fb35f4a6b353915e728b4",
+        "url": "https://files.pythonhosted.org/packages/bb/bf/af971179ca799d81607905d3dc08f86d9b89bb8e7a9402e31521c8871f89/pulsar-0.7.4.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "0c79c0c755b5ea110a69581518cb55a99f2a2415cb7d4727ae7bad7b12e59501",
+        "url": "https://files.pythonhosted.org/packages/cd/54/53601558caaf36d3bb4ce0a0b2b7f5b7e49e4d40770cdc55d8a5f3b21a23/pulsar-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "9452fbf37e96308015c93c14f562593f6f26919a26153ab2923426236994c5d1",
+        "url": "https://files.pythonhosted.org/packages/fd/15/6c3cbc38ed169c957fc22818846dacd0eb86aa5b9c09f7d3bb969f94b267/pulsar-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "3d03b774d0a9d8f96b0a176d2c0a7f2ec3888da331d7b471e2c35ec8db10221d",
+        "url": "https://files.pythonhosted.org/packages/ac/5f/545b8c9fca4f9a0a71f4348d7606b8d58798f6b50fb40b1a909224c7edb1/pulsar-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "69c879b958527b9037dea4cc8fe5aea8e52e1ebc726cf4fbef4a24568786bf96",
+        "url": "https://files.pythonhosted.org/packages/b8/e5/6b2ddbfc6df1d55c9a79a8730cbb05fb5b46b3cac32c15abf2b564593985/pulsar-0.8.3.tar.gz"
+      },
+      "0.8.4": {
+        "sha256": "feab53bb95dfe9846954432d78bbe5f073d4f0fef25d76a5219c9751638ff683",
+        "url": "https://files.pythonhosted.org/packages/60/a8/811f266b77d9c9f5a140a2348c2d28c7a543acc8610431a7f50565ca20d5/pulsar-0.8.4.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "1f95e35be7258f32bd7ba7ec88fefc0b216551922420c707f1eb96f1342b1943",
+        "url": "https://files.pythonhosted.org/packages/40/9f/63daf0b4788e167835bc4bf15f4c290c40f895fa43c8d09042ddc6007971/pulsar-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "852cce9daaad3b9e157ae6d29314f4617897633d2f37c69ee189f47607c5a635",
+        "url": "https://files.pythonhosted.org/packages/6a/d5/003e93ddb79e10cedd6a9f02a6092bcb74a04e7e3808ca16a73f92c4f8a8/pulsar-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "62c1754dfb2fa6f8e281ed660c6911ed66a8c277690caf1ac58db7155e870840",
+        "url": "https://files.pythonhosted.org/packages/c5/8c/d4f948384e3cbb2cf22da3c473b133cefd443e4e9950616cf2b915b0ee35/pulsar-0.9.2.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "3225deec7a5541e972bdf5fadd2b47d3bee41e12e2aa84227fcf77c35c30ce81",
+        "url": "https://files.pythonhosted.org/packages/12/e8/9d0db7dc5965f86bdd5ffbba8d13ad64a4d60de435a8cb706ed2a76b27e8/pulsar-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "6b4ce7c054d4ec5633d81cf1e7237d688f10cb971ede77e20572877453894060",
+        "url": "https://files.pythonhosted.org/packages/6d/d3/48b531319207cd202f2bc4d2eb0fd75ade510afb97863363008c0dae5961/pulsar-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "f7d9bf9ce93ca645dd56648961ef56a5880306353277c75c6c0afbdf11f5559a",
+        "url": "https://files.pythonhosted.org/packages/29/c8/1289d9550c55fc94948fc81445e3587e057fa6835254740c6badd92f17c4/pulsar-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "4b3003c473512f5be214afe15cf5daab0803c19cecc89d40acf7ec5460641bca",
+        "url": "https://files.pythonhosted.org/packages/45/ad/88b485ac30be03628a3a55a3357105e9cec03a9ba4d2c26edf007e5be2b1/pulsar-1.0.3.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "77f82d21a421d86bc2495b590204bbe2d4124a6bc224a0f3f8d8e020793b2d4c",
+        "url": "https://files.pythonhosted.org/packages/25/41/e259f559cd197b8c188ca88511ea2e9f8056b620625550d348a5292d6d96/pulsar-1.0.5.tar.gz"
+      },
+      "1.0.6": {
+        "sha256": "22ed42c88f8578d9a08086344d1d502ffce23ef03592626f54a7fca6c5f64053",
+        "url": "https://files.pythonhosted.org/packages/68/69/36fd73d83fdcedefb1182ce4d49d9221796b48409c6a9b00bf4ccd81bff2/pulsar-1.0.6.tar.gz"
+      },
+      "1.0.7": {
+        "sha256": "dfceb26b1b13f352973fbf76eeba3224a8f1d70cd5cb1a78053dd81ee60cd45b",
+        "url": "https://files.pythonhosted.org/packages/fb/a7/87ca55bd063aace97eba193fb4967704369aa200ff367d6e1c87b6298f1e/pulsar-1.0.7.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "36db554b1e371e40c0b19a34757a134261be8dc1cc104a04589565cb54568835",
+        "url": "https://files.pythonhosted.org/packages/bb/2c/1ffddd9e93dd45ea10e96d06ae691494d2beb7c65513dd4c07c2cef166dc/pulsar-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "147be82d9ae81ab2bff4f1f394322fa03025ac58b2717a9af5b2b3c461268757",
+        "url": "https://files.pythonhosted.org/packages/7f/20/227c0961189b1b7d790f074206b0ae2ecfd36e28ab362f7e368128209eab/pulsar-1.1.2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "d23393547ddbfb1c4fff3a935379b44217146f1794e3ef15dac821a4d34e6fd5",
+        "url": "https://files.pythonhosted.org/packages/b4/25/b2416bee9887072723e2776ef1b150dad5bcc09f3eeccb89a9368db984d3/pulsar-1.1.3.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "1f4e3191e6e92ffe39f30cb2515023b702ea9f6152fa84746016d0e899fb7e96",
+        "url": "https://files.pythonhosted.org/packages/bb/d2/5221a0f7e017b279853f317174bcb889e53385a27c4d4cf0ae46809a2c60/pulsar-1.2.0.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "fb459bbdd64aaf182d51496f688f8fd75c789b0f01f7b1205a77e995b34b9c32",
+        "url": "https://files.pythonhosted.org/packages/64/36/0032619336d520b70b1d6161b6dbb45969af85cc390b8c24d32fe19d4c6a/pulsar-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "cd5c48f1ab52e1c00024e1331b31872895a0e748823d3933e1329bf344a3e584",
+        "url": "https://files.pythonhosted.org/packages/83/dc/1429db4e5808e9bb4a8aba5335f4288174e3177b4f93c06a8db5423124a1/pulsar-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "f11df487ea053e1441012f45e0dfe3f08bb9ea24cf7332666b20b8a28696021f",
+        "url": "https://files.pythonhosted.org/packages/84/3d/91bedb744b1eb79bcf5dd7554a5b818543a7b7716d13832b9856ef54bccd/pulsar-1.3.2.tar.gz"
+      }
+    }
+  ]
+}

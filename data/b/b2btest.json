@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Light framework to setup back-to-back test scripts",
+    "homepage": "https://github.com/vokimon/back2back",
+    "license": "GNU General Public License v3 or later (GPLv3+)"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "e9d64b3b1bb2d4b3375d3ea10e82be867bf783333c321ee2578e09c84d4de00f",
+        "url": "https://files.pythonhosted.org/packages/4d/78/b64877eb458e9d2e7bb4b32743730f3078a9ea42ad7e084ea4ad268bfab6/b2btest-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "430c154afa531fc03f47ca8d3e08701a007503cc8129ca7be2c31db1d002f8f8",
+        "url": "https://files.pythonhosted.org/packages/e1/e0/502b473f182d9687b1bbb5288758ecce9450fa6fbacd458c519c425ce292/b2btest-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "5ce4a19b3bcaa162ae91c4f08bee7eb726c5d3f9d05afe5b7f99052c3604990a",
+        "url": "https://files.pythonhosted.org/packages/b1/39/a32a3ae8ca5a5c9b7a67bf6a1463709b206375e2b903c2ba8c93feb75b5b/b2btest-1.2.tar.gz"
+      }
+    }
+  ]
+}

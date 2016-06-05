@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4.1"
+  ],
+  "meta": {
+    "description": "Access Senticnet API using Python",
+    "homepage": "https://github.com/yurimalheiros/senticnetapi",
+    "license": "Copyright (c) 2012-2015 Yuri Malheiros\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\nPlease acknowledge the authors by citing the Sentic Computing book in any research work or presentation containing results obtained in whole or in part through the use of the API."
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "94a8f91616ea584b0171371c0ac616b1e6420aad7dc1c0acc994f8a9aa758d2b",
+        "url": "https://files.pythonhosted.org/packages/63/51/ca29ee492b44695252f5d365ce447b039b9da37fb789869bf130628d1692/senticnet-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "6341a421a39f02769525546cb5e1da8d2f89a34ae68d1ad9a1a190638fd80018",
+        "url": "https://files.pythonhosted.org/packages/2b/98/2e260f4f6089795383631b1999aa686d0386b75fa5f772769a22aa055401/senticnet-0.3.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "445847a01e3d78860e93e8cd50233c7b05332858498a7592138c883b2fa1475f",
+        "url": "https://files.pythonhosted.org/packages/f5/2b/1de3c3f5c8c1eb5af2cadcde9ba7debcd6d81b8b23e7603dfc392a5f11af/senticnet-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "f711a0a9bfa083d5e2ba520ab844f4e805585c03c4c300fec33e221ef49620c1",
+        "url": "https://files.pythonhosted.org/packages/bb/1b/3129cd7c5dc638b7e863a2a8d5c7adacf32f7b44cb4ee2cfa16d32bf3e1a/senticnet-0.3.3.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Django app implementing TLS Authentication - simple client certificate CA inclusive",
+    "homepage": "http://packages.python.org/django_tlsauth",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.1": {
+        "sha256": "de4c69f0e23ce62b3bfc7daa6f3fd7407ca11693bd2eddf12a10d613c341807e",
+        "url": "https://files.pythonhosted.org/packages/d4/a6/195795fcd23c4a06074d782e6c6e677509b036258fc4679b6a822c7fdc24/django_tlsauth-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "a9d530063a716e44a510adb3347a52e42cae26a6e7fac9a96d5b4c4a2d9387ce",
+        "url": "https://files.pythonhosted.org/packages/19/ca/805e31efc77785e74d3385b9fbe04bf905d2d03920ea6aecfb38de781dc5/django_tlsauth-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

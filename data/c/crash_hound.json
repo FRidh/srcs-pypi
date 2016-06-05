@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "2.2"
+  ],
+  "meta": {
+    "description": "Monitor anything and get notifications directly on your iPhone",
+    "homepage": "http://www.amix.dk/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "98f9d16d8c647b47930dedc883a40543a31eb81da2061f328affda1b82e1e397",
+        "url": "https://files.pythonhosted.org/packages/e2/4d/8c23d870730440dd3a53ce5d4f6da39972751312a41a68ecf86138c4164d/crash_hound-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "d186ee54c10016d2c26080f25fd11643eb4557c8061dabe08ab89645895fdbed",
+        "url": "https://files.pythonhosted.org/packages/65/04/c163280f88430d41bb8e2f8f78a648081e8cfe3a4041880f1569dbf63902/crash_hound-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "fecf7ca0cac492e47689e0b6291d7bc54ab50482f6920b4c3e84004a79010e28",
+        "url": "https://files.pythonhosted.org/packages/0a/68/a4d7b8ee632b23ed14250d733a80ecf8b7af5b6a60142c675bfc6d7d4378/crash_hound-1.2.tar.gz"
+      },
+      "2.0": {
+        "sha256": "98ca194b1b4a2d237e1610d8cc5ce3254ca9d65559e897859f2a98e62c4937c9",
+        "url": "https://files.pythonhosted.org/packages/72/44/a60f24cf8fbfe5b3b73442d552bdbc1f93f3c18b13dd8cb5116d28ef3817/crash_hound-2.0.tar.gz"
+      },
+      "2.1": {
+        "sha256": "f2bbea539f664f0d2989bf0d8a8d7aeb447fed0f8e0f3921a32b14829793843c",
+        "url": "https://files.pythonhosted.org/packages/e4/7f/eb526716721c542c015a8906e4debf0966a24e1b3c6803146af15eec87d7/crash_hound-2.1.tar.gz"
+      },
+      "2.2": {
+        "sha256": "42860c5e579ddd1b1d4f98ae8df63eb1e26161ea168e406eb9929c750d10cdc8",
+        "url": "https://files.pythonhosted.org/packages/d1/cd/955f85a64d48b0bb32f5e6aeeaffe26359a57aabbe2622a87b5091bcfc41/crash_hound-2.2.tar.gz"
+      }
+    }
+  ]
+}

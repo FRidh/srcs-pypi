@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2.1.0"
+  ],
+  "meta": {
+    "description": "Python library to retrieve and submit data to the Treeherder API",
+    "homepage": "https://github.com/mozilla/treeherder",
+    "license": "MPL"
+  },
+  "versions": [
+    {
+      "1.7.0": {
+        "sha256": "7265651b8feab92fc6af41ff8cbb07b00775948483361068eba88cb08efc97e5",
+        "url": "https://files.pythonhosted.org/packages/ab/ec/8791046a6d79904d6ab63d854002bb694447909107c4b0aea3a2a1f1b00e/treeherder-client-1.7.0.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "a3892e3d1d93dbbdff8f06cde4a7a8903d1c2123da455fb363eca2223b5709f1",
+        "url": "https://files.pythonhosted.org/packages/54/0f/2850f72fdbfa16484f066ded9d24ae177f2538b341597d04c35f4b0f5953/treeherder-client-1.8.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "7389965f1522da0d62154cc9b2e6ebe02e4d1cf9d72c985f0c5554f56228c101",
+        "url": "https://files.pythonhosted.org/packages/b0/cc/0fffc379b2a6a25266b1cfaaebe1a38364dcfba4ddbfa634d88f90f02874/treeherder-client-2.0.1.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "6fae7ffb5833fa2d90e5f41ac801bbe36dde1e3381effa08b63e21d5eae445db",
+        "url": "https://files.pythonhosted.org/packages/82/4b/d0ffd166f8d9e5c6a7314fb004c1a9d6978065f2ca649f56f436a5aecb11/treeherder-client-2.1.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "Generate custom Linux kernel configurations from curated sources",
+    "homepage": "https://github.com/Calchan/kernelconfig",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "b8f7d87c14c7c1b15f2d9d0529c1e27128f6955a3dfc43b8ec9c68871c79e772",
+        "url": "https://files.pythonhosted.org/packages/c7/81/4dec81f812e75f74bd685d3959c18a0e3fdf9b540f9c18ec05fe69c78241/kernelconfig-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "abf2adc0b951a48880dcfec11ad3a8101668032b3c4620d9f300f64485d72675",
+        "url": "https://files.pythonhosted.org/packages/d5/82/86c72bd25a8ae4fcaafee6c55af0b6794ddaa578bf8c82e9404a5ad11c1b/kernelconfig-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

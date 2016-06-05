@@ -1,0 +1,45 @@
+{
+  "latest_version": [
+    "1.6.3"
+  ],
+  "meta": {
+    "description": "A simple Python module to bypass Cloudflare's anti-bot page. See https://github.com/Anorov/cloudflare-scrape for more information",
+    "homepage": "https://github.com/Anorov/cloudflare-scrape"
+  },
+  "versions": [
+    {
+      "1.3": {
+        "sha256": "cdc3e29eef8fb7c29580b94dceade3074f048a31b2f09d680702ee7720ceadab",
+        "url": "https://files.pythonhosted.org/packages/da/34/bc6b2b6c062fc6974590322af8554544638ffa98d2326a2e0aefeaf0b637/cfscrape-1.3.tar.gz"
+      },
+      "1.4": {
+        "sha256": "6d2e6a013028a727eaa62c0ea73d7cad1b0f40f78682888be313b85174e5a305",
+        "url": "https://files.pythonhosted.org/packages/9a/95/27b9163e41ed11ac3fce292ac1c50e4f5a05f714951f7641883929dd8cd5/cfscrape-1.4.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "ac54d272364b667c6f64e34655aea441980f49089ae97c5080d28b21628dd7d5",
+        "url": "https://files.pythonhosted.org/packages/b6/25/3f6a8c554cc151e99616d5c16f4189cf0dcc78ffa3aa0a734220482239f6/cfscrape-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "ecf267044ea77d68f55aa55824ce5b553efa0cf028f02f1517a895761d4858c5",
+        "url": "https://files.pythonhosted.org/packages/85/e2/00dcf568911781329837189dc3c6fdc6fd019cb412ad6eef64e6790b0fe7/cfscrape-1.4.2.tar.gz"
+      },
+      "1.4.3": {
+        "sha256": "65cc3d6e015a08c6e27b4abf525ed58ea364116434850c31ec0ca7a9cc74bad5",
+        "url": "https://files.pythonhosted.org/packages/5c/b9/9d13e717e9903d16992ef3b8599e79566ba4574bf6b66d5ea62ceb02afef/cfscrape-1.4.3.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "7ae10a58f5930d69b2f226329d893de986f68f3fdf17106eaa55ca9a3dc86911",
+        "url": "https://files.pythonhosted.org/packages/08/34/3867a7f65b0ae2e61597c253a2b515f15e5bdb5f6d50ef0dc64aedf18c73/cfscrape-1.6.1.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "742d25145e507b918215d4bb359529826b98c70af5669ddcd2e1095207b8c03e",
+        "url": "https://files.pythonhosted.org/packages/5d/9d/f8cf50067da09b911b178c04c1a1cf42ff98d50fdf14e3940ec78454b123/cfscrape-1.6.2.tar.gz"
+      },
+      "1.6.3": {
+        "sha256": "5e4327906d39e9988a5b40f0e5e5ab36de36fe3e6e1021fb28cad6754749877d",
+        "url": "https://files.pythonhosted.org/packages/39/7c/f860a4de35e6e1a3c82572d4958ea515c2cb1ab6d6f0af6a9a784c6075f1/cfscrape-1.6.3.tar.gz"
+      }
+    }
+  ]
+}

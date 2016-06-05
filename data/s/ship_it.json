@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.5.0"
+  ],
+  "meta": {
+    "description": "thin build wrapper around fpm that enforces some best practices for created deb/rpms of python applications",
+    "homepage": "github.com/robdennis/ship_it",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "52f44d0a3a8fd15c6b6af5715c7a91706373c65775fc9281630019371317b77f",
+        "url": "https://files.pythonhosted.org/packages/0a/ff/a1be0fc605041d0b07f73f1cc8f42ecb213af3e4a2a87402b3fa815c8024/ship_it-0.3.0.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "1bc0c9ec7b3942b77396e34e876bf4f9c682b65ceb19ccdd71f1eeb5be36d157",
+        "url": "https://files.pythonhosted.org/packages/11/5c/2d0cc3d703c8b74cb6a8ab86780b7ac306ab75ecbfd66c2b4e1911d0b6ea/ship_it-0.4.0.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "72c42a0482b7950a44bb3aced3fda1f3453b8cb5b61a94647f702fb769ec1b54",
+        "url": "https://files.pythonhosted.org/packages/92/71/4cbd055db4a0be982c219297f4bfe606ca3d1bdda1d2a20e8ed4fe46cc2e/ship_it-0.5.0.tar.gz"
+      }
+    }
+  ]
+}

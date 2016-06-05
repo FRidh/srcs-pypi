@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Python DSL for setting up business intelligence rules that can be configured without code\n\nHistory\n-------\n\n1.0.1\n+++++\nreleased 2016-3-16\n\n- Fixes a packaging bug preventing 1.0.0 from being installed on some platforms.\n\n1.0.0\n+++++\nreleased 2016-3-16\n\n- Removes caching layer on rule decorator",
+    "homepage": "https://github.com/venmo/business-rules",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "3c042c42cc397a706c610551214ceb76145ee6f528113c07f727c3dc5d0f8431",
+        "url": "https://files.pythonhosted.org/packages/7e/72/56da16618a246acf2a4a5daa16bba5176bd26ba641b19bcc7ddee49556c9/business-rules-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "b09074bb7ef455f8c9624d810e5240d6fc06d63d30a4936bef8fa7bc6409b024",
+        "url": "https://files.pythonhosted.org/packages/9d/e7/7756a44ca17ecbd6a1e0987bf4854d91328ca5ab1d66abb2cbb6e7611ce2/business-rules-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "f36f33ef300adc739ba84ba75daf738aff20051c0c47b867e28d7eacedd9f747",
+        "url": "https://files.pythonhosted.org/packages/d8/28/b3f4a5b086a3bc378764580d16d2cc48caa83d4ab97e5e97226f837b0667/business-rules-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "e29b0c861349340acdaf7dd74127fa0032447a307c3a05d7b3fa90ef932f7dcd",
+        "url": "https://files.pythonhosted.org/packages/5e/d7/09134aa1f863a420872900b5fc85dfdb408844df1b818dcd983c229a8851/business-rules-0.1.3.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "7e912650ec775648a2e8231756a30133d8c3c7cae82e3c8cca92047066d1e55d",
+        "url": "https://files.pythonhosted.org/packages/9b/86/26653b41d03f5810b9eea46c6b5d95452e7ac88c6fb5d27eaaa4359ad228/business-rules-0.2.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "e0f58104df937378856e8199a49af4f5b4dbe5ac21b863a080810dedc3326d1d",
+        "url": "https://files.pythonhosted.org/packages/44/b1/5aa6d81111e701e83917ee4b16ac8882c2c4dfde57af4013f1f97a2175ac/business-rules-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

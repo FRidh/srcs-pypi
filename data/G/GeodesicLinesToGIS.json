@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4.2"
+  ],
+  "meta": {
+    "description": "Computes geodesic lines from start point to end point and stores them in a GIS file (Shapefile and GeoJSON). The problem of geodesic lines crossing antimeridian is solved",
+    "homepage": "http://github.com/GeographicaGS/GeodesicLinesToGIS",
+    "license": "GPLv2"
+  },
+  "versions": [
+    {
+      "0.3": {
+        "sha256": "2d64991a44712e03f5b0a5edacd5a9b7e528914b2e076a90ac6277b58c924298",
+        "url": "https://files.pythonhosted.org/packages/93/21/be3cdcae3b514347adc0132b0be1ff47fa5b95d82dbd8955f67900d74fb8/GeodesicLinesToGIS-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "69d2bbe0dcf47b461219a0eaaf1cdb23084f1e1a6edc7b01203c719cce19754b",
+        "url": "https://files.pythonhosted.org/packages/07/ab/4fd9e153771bffbdf7b784e563fb89b70aed99f116272ee28a70b9914be0/GeodesicLinesToGIS-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "eb1b05891356274556de37975d7911fcefc87be2840c8f8d4b2a14d6e0a7267c",
+        "url": "https://files.pythonhosted.org/packages/c8/18/482372d570e86d0989678c90a44ff452f48b3cda6babf7b5232ac7d58b89/GeodesicLinesToGIS-0.3.2.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "9078a15db702df7096be607450147a634c52524a2cc8d4f830e45b3cf6b1bae0",
+        "url": "https://files.pythonhosted.org/packages/02/f1/33d9cf64d7a1cd40bb91f5c08cac51dd4c664c6af1e68df1b6756451d19d/GeodesicLinesToGIS-0.4.2.tar.gz"
+      }
+    }
+  ]
+}

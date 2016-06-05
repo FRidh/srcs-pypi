@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.0dev"
+  ],
+  "meta": {
+    "description": "PostgreSQL Test INfrastructure",
+    "homepage": "http://python.projects.postgresql.org"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "5cc93b0a61d5f83fe8a3d6edf03d7b59f01da6b2c44d11a90080dc2d9204f5f4",
+        "url": "https://files.pythonhosted.org/packages/c1/e4/f5f20e16234632e8cdf9e57a1b643c6e2bcba331f678e5f5d3ff741d93a9/pg_tin-0.9.tar.gz"
+      },
+      "1.0dev": {
+        "sha256": "bc04c065bb61c8547c2e340c40b32dca6e596a343f819f959ad94a47e81c273f",
+        "url": "https://files.pythonhosted.org/packages/23/02/595e5f39dd206562f794a44514b7e3a6c803e760f52aaaeadb67e4d68c46/pg_tin-1.0dev.tar.gz"
+      }
+    }
+  ]
+}

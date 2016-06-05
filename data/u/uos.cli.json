@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.6.1"
+  ],
+  "meta": {
+    "description": "UOS Command-line Client",
+    "homepage": "http://wiki.openstack.org/OpenStackClient"
+  },
+  "versions": [
+    {
+      "1.5.1": {
+        "sha256": "46dccda02ac2e118dd770f082f36b4fc77ffcb76e7ef34de676d387fed072010",
+        "url": "https://files.pythonhosted.org/packages/7e/ec/afb578cedbc02670259d1d0b9310838181c8de6c7cb3dbefff3845301683/uos.cli-1.5.1.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "3282d5cf550091147a487f347ff704de63a620e221bc34646a2b9c1a4d3fbd30",
+        "url": "https://files.pythonhosted.org/packages/2a/ec/24f46727fa89b079042d1dd1c9c8a277a8336fcc912ac5b9c3d51b2b2434/uos.cli-1.6.1.tar.gz"
+      }
+    }
+  ]
+}

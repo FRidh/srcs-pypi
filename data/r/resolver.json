@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Resolve specially formated statements to Python objects",
+    "homepage": "http://lukearno.com/projects/resolver/",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "4546cc645a91817adc5c2d4eddc26d26f770a0b674f5376c3ece838aa8a7466a",
+        "url": "https://files.pythonhosted.org/packages/cd/bd/a6decb18be9c4e63dd4e2e356299a26b76f14507765009b792a1090239c6/resolver-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "deade0744c5a04276b1af9cc1f2a472ce80b7ca4aeb031c45daa4210906fa452",
+        "url": "https://files.pythonhosted.org/packages/b9/aa/908df052c1f33c0aa1ae94b9904dac456d81b0dc6b6df98108fa984674b1/resolver-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "70d3122c545302d222fe0fd95d6aadd262ca45733be37bf439cfdd057802c7c2",
+        "url": "https://files.pythonhosted.org/packages/60/b8/36db43b2669124b9e7e454fb6130bc17b5c5436b24b8ec1cce253cc424ad/resolver-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

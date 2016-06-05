@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.3.3"
+  ],
+  "meta": {
+    "description": "python binding for linux device mapper",
+    "homepage": "https://github.com/anzigly/pydm",
+    "license": "Apache V2"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "add0b9e58fd59789a2d350e941815aedb1999349e3cca2e00230d9aaf2fa4336",
+        "url": "https://files.pythonhosted.org/packages/97/8c/4dc9c47c0f7f41deae60dfd129a9e419d492c9e041acc86648239c578fbc/pydm-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "bb9f3209f8bcf81f5dba4a33f3544f266ad397a64a9bb68ea54758226445a9f5",
+        "url": "https://files.pythonhosted.org/packages/79/5b/f59e018922612ef548172e005e634ee4ae8320db0f294503f7f7baca149e/pydm-0.2.0.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "c32bd2f0afd90e38a9951c7285439e1829ea12c2fb8b00c683078a6411bfbacb",
+        "url": "https://files.pythonhosted.org/packages/16/04/9cb2e67c3c808138155dc9f0f7d1d9ee66079702ffd6c1bf86be38f2ade0/pydm-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "f41965b4df24b765e9d7298db8d12b8500d7b55b6126fc9699f7bc5b546d7d1b",
+        "url": "https://files.pythonhosted.org/packages/3f/dc/851288d97bab29d0371e9998f99f13c87718012fc5bd6cb00312f264dcf9/pydm-0.3.3.tar.gz"
+      }
+    }
+  ]
+}

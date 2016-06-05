@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.9.0"
+  ],
+  "meta": {
+    "description": "A pure git implementation of a sliding window memory map manager",
+    "homepage": "https://github.com/gitpython-developers/smmap",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.8.0": {
+        "sha256": "01d321c39d42d866f92e69dac6d93bf70f677a947115f4e05672af9f0177d88a",
+        "url": "https://files.pythonhosted.org/packages/d8/2d/f47a6e82974ac397236a7be46386d9a855993bfaaa3b5fda7ad0bc8adf76/smmap-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "6415a0f3bc98c8e1f287dfd35f758caee4cdcefbc9068e036a521267444b3e83",
+        "url": "https://files.pythonhosted.org/packages/33/99/75e520f0caa8fcec9905fef5db3ff67542a4eb0a8e8361f560407b507539/smmap-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "dea2955cc045ec5527da6b762f7e95a5be7f645c683b54ccce52d56b4d7e2d6f",
+        "url": "https://files.pythonhosted.org/packages/05/f6/8bfcab4d4aeaf26934e41c3b036176aa4d80f309d8abe34b56a9ac794f68/smmap-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "9b336afff785e8934afe22a520d2c88574ae716aaf3ce8290581af943ba6fdde",
+        "url": "https://files.pythonhosted.org/packages/12/6c/621589995c45bd619bb74da660c215357cde9c9cd1c454c5749988f83abc/smmap-0.8.3.tar.gz"
+      },
+      "0.8.4": {
+        "sha256": "daf624178ea4fc0f784f46b520ad38fa34d8f7f23fedabd93adbadcddafc8767",
+        "url": "https://files.pythonhosted.org/packages/29/8d/9c2aefc780125955205497f207fdb2c20876324a1e9f67bb0de37f21eba5/smmap-0.8.4.tar.gz"
+      },
+      "0.8.5": {
+        "sha256": "780cbda31c2d73c2c792cfcbc3e3c7a4a6718f19978529fc25e6f739d678dc4e",
+        "url": "https://files.pythonhosted.org/packages/b9/4d/849ec5427a58981538739212e43f6019da27995388afb2416eb891e5daad/smmap-0.8.5.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "0e2b62b497bd5f0afebc002eda4d90df9d209c30ef257e8673c90a6b5c119d62",
+        "url": "https://files.pythonhosted.org/packages/bc/aa/b744b3761fff1b10579df996a2d2e87f124ae07b8336e37edc89cc502f86/smmap-0.9.0.tar.gz"
+      }
+    }
+  ]
+}

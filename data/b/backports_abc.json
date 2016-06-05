@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "A backport of recent additions to the 'collections.abc' module",
+    "homepage": "https://github.com/cython/backports_abc"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "4b599d1fdf92a6a0290d70879512b7875573159bbd648866c22ce0f35a16ce33",
+        "url": "https://files.pythonhosted.org/packages/24/6d/9e6643cb21a74abdc2db74d060a293fb5d1bd6e43242481cd5af257e2c31/backports_abc-0.1.tar.gz"
+      },
+      "0.3": {
+        "sha256": "2ba6af05b05546c981c1dd00f648039c91972241580d1f4a05ee00559bd11b20",
+        "url": "https://files.pythonhosted.org/packages/c3/5e/09aefe42a2ef8126b2b5b27adefeb974bfae752bf5edc5c2c577129f148c/backports_abc-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "8b3e4092ba3d541c7a2f9b7d0d9c0275b21c6a01c53a61c731eba6686939d0a5",
+        "url": "https://files.pythonhosted.org/packages/f5/d0/1d02695c0dd4f0cf01a35c03087c22338a4f72e24e2865791ebdb7a45eac/backports_abc-0.4.tar.gz"
+      }
+    }
+  ]
+}

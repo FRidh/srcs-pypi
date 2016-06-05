@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.7.0"
+  ],
+  "meta": {
+    "description": "A robots.txt parser alternative to Python's robotparser module",
+    "homepage": "http://nikitathespider.com/python/rerp/",
+    "license": "http://creativecommons.org/licenses/BSD/"
+  },
+  "versions": [
+    {
+      "1.6.2": {
+        "sha256": "1e7cde5d9ccd1ba9b02f91001665b0ac6ba029b46b3ab5fd1e34023dd4d40a51",
+        "url": "https://files.pythonhosted.org/packages/bc/ef/8970b5237fe60a401688b6c1bb9845bbff86afffc87070f4388adc116756/robotexclusionrulesparser-1.6.2.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "62dd21db1d2e7860cad26fd4017948d27849b29b417bd929d4c0022f557bb47b",
+        "url": "https://files.pythonhosted.org/packages/dd/67/043137d3f3ebb1b1af92e9a3927ec0208ace277d3bcca6baca986e0b1b4f/robotexclusionrulesparser-1.7.0.tar.gz"
+      }
+    }
+  ]
+}

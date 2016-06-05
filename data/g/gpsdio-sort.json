@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.1"
+  ],
+  "meta": {
+    "description": "A CLI plugin for `gpsdio` that sorts messages in arbitrarily large files according to an arbitrary set of columns",
+    "homepage": "https://github.com/SkyTruth/gpsdio-sort",
+    "license": "Copyright 2014-2015 SkyTruth\nAuthors:\nEgil Moller <egil@skytruth-org>\nKevin Wurster <kevin@skytruth.org>\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n   http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License."
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "f08ab193866019bf8459b27bdc916efd0e577752963fb33593c37bf525aaf922",
+        "url": "https://files.pythonhosted.org/packages/43/83/128427fdbfc6630eee88f898131ebee03c4430d39c4c2db98c3283f162e7/gpsdio-sort-0.1.tar.gz"
+      }
+    }
+  ]
+}

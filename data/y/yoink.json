@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "A simple podcast downloader",
+    "homepage": "https://bitbucket.org/abingham/yoink/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "2cd784fef60667702613bb7273af968aa21508c321f772a43f7e4379e193fe69",
+        "url": "https://files.pythonhosted.org/packages/a9/0a/322925fc707f864ffc8ad50fbb2b2ca7a375615ea67f4a1e21f49b4521bf/yoink-0.1.linux-x86_64.tar.gz"
+      },
+      "0.2": {
+        "sha256": "ba094f8c42410cef3b619411577d7a4355302f4fbec9f1a151733c469dec5b6b",
+        "url": "https://files.pythonhosted.org/packages/b9/05/22143dc818eacc83866e5f410277e7457f6abfa5364057eec4fcc6e78c84/yoink-0.2.linux-x86_64.tar.gz"
+      },
+      "0.3": {
+        "sha256": "810a1ef1eb2976752b5e6c27b4ec11fb644bd5c3e144bf7d0ddc6276dc56bdf6",
+        "url": "https://files.pythonhosted.org/packages/0e/c9/f0d48c07afc632240e836506e40143fbd87a38ed8b01b8d0f113a637875c/yoink-0.3.tar.gz"
+      }
+    }
+  ]
+}

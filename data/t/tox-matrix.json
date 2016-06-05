@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Project for creating tox.ini files with multiple dependencies",
+    "homepage": "https://github.com/slafs/tox-matrix",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "64fd161c5c455d6921b4239c1b854063b894e78270ba615effdc04b368ab7c58",
+        "url": "https://files.pythonhosted.org/packages/41/fa/a18e14082f517715f1056537d608e962f99bb8b1874b692ab72567714eb4/tox-matrix-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "5350dbb9124539d21d0b01a124ca8cc0f1eea1112ae14b0dbbf291abc587f030",
+        "url": "https://files.pythonhosted.org/packages/e7/6f/d3583786fe06f83a73dbf466cd2e4d265f7d9f4b6292545441396c83c366/tox-matrix-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

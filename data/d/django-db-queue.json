@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Simple database-backed job queue system",
+    "homepage": "http://www.dabapps.com",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "890b5654e5fd6a3762f68e57d8904f610265f0f8edd08d1298a001f0fb593c12",
+        "url": "https://files.pythonhosted.org/packages/20/3e/2d5f804053bc2c9f9d47f94efcf01d43c9f029a61f817987f7f6d72d8139/django-db-queue-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "162dbbd8feef56c4b18e2781719cb29929d118c48c2353aa6cca6f393ee60fc8",
+        "url": "https://files.pythonhosted.org/packages/82/d2/b29426b57c9595d4b13c050df95c48a328b35842718ac9cb5a4e8aac1c18/django-db-queue-0.0.2.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "b549d248341727d7f12206e728964edb5d909b3417ade7400a87f3add2528b79",
+        "url": "https://files.pythonhosted.org/packages/40/62/cde64fd6fe748abfd5c0cf63ac4e3bed10fe3797a5c880af9fae40053a2f/django-db-queue-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "0430af2ca6288e014e8bdafe5e17a29cfb7587de9d83736d9be9baa28fdde556",
+        "url": "https://files.pythonhosted.org/packages/71/be/0a190f73d5a9db5a67653cf41252a24f731b335711f283382ba7b873d6e1/django-db-queue-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

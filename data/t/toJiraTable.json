@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "A tool which reads input from stdin and converts it to a JIRA table",
+    "homepage": "https://github.com/kata198/toJiraTable",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "628932c9e3eb104bd478e933589b4aa6d2ffd7e54fd8420ee6f6ee2fadf4c71a",
+        "url": "https://files.pythonhosted.org/packages/8e/cb/2f50c1e69424e28e57addd4b51dda5dde1d328a53f49a5d3058b76584f3c/toJiraTable-1.0.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "08a5ac7499e09afe854dd13779ace212ac13607132e6320484d0af4d9f33bd6d",
+        "url": "https://files.pythonhosted.org/packages/3e/86/c6eda863f8d8cd612b498e6bad4d2a45cdc8d82ff74bb3ecccd47b446ace/toJiraTable-1.0.0.tar.gz"
+      }
+    }
+  ]
+}

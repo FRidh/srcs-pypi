@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.5.0"
+  ],
+  "meta": {
+    "description": "Implementation of modbus protocol in python",
+    "homepage": "https://github.com/ljean/modbus-tk/",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.4": {
+        "sha256": "54edbc9ca3cb7cd90093ae00d21671e4a353e80c85de231481db143feb648ad2",
+        "url": "https://files.pythonhosted.org/packages/99/c6/24a3197ed74bf0b703f4c4f5761aa88d616d918559550df67ba2d051b92a/modbus_tk-0.4.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "d65038b071e67497a8f67fc68ac8fffe9eee2ff970410b80048e6e9dd9549263",
+        "url": "https://files.pythonhosted.org/packages/39/63/4fe56be6922af80c6e50ce41ab0c47adad12d94d83033c4476b0f4f2df3c/modbus_tk-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "09ca3cdda3b56bd8a934e9bf50b8282fefef8eb833a725aaf86dadab9555cdd7",
+        "url": "https://files.pythonhosted.org/packages/64/43/eda7b53e39fc9d283780d504e9520f1a67ddff97a4ed741e9f06c2d79ce7/modbus_tk-0.4.3.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "ff5111184d2f9e202a1e50c2201e92e57316351fcfe2e596f10eddc60d680bc1",
+        "url": "https://files.pythonhosted.org/packages/4c/ef/954ef789f88d82d41aa6180679fc7f3584165e3236b0a1cdee579e344cf4/modbus_tk-0.5.0.tar.gz"
+      }
+    }
+  ]
+}

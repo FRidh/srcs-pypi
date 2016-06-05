@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.24"
+  ],
+  "meta": {
+    "description": "Library for viral diversity estimation and identification using next-gen sequencing data",
+    "homepage": "http://alan.cs.gsu.edu/vira",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.22": {
+        "sha256": "c7eace20bdc08761d670fd5efc38dc2c360df46821c29ff08dd0fbcaa6e69217",
+        "url": "https://files.pythonhosted.org/packages/e6/d7/b2bc85cb6fc28ce9f2bce8294db10c742f2f8164e8e013a632838dc220cc/bioa-1.22.linux-i686.tar.gz"
+      },
+      "1.24": {
+        "sha256": "9166fb8fe220f9569ced4b196f656f5146b1e7e0d300f007cf6abcc87b11533f",
+        "url": "https://files.pythonhosted.org/packages/41/09/3cd786b27fa4067995ed6d32ed5fa8e4be9ea7bab5829343e0cc5e80fcb3/bioa-1.24.tar.gz"
+      }
+    }
+  ]
+}

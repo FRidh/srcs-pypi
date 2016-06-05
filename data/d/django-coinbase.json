@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "a Django app for receiving payment notifications from Coinbase",
+    "homepage": "https://github.com/eldarion/django-coinbase",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "3b6867da6f42d25ef9867dc5e2d73e5854101697bf174f8c1e1bef60e8b8d37d",
+        "url": "https://files.pythonhosted.org/packages/06/93/2e1c03c984d5bc3e56d09b9ef1692d1fc724555460a6abd1fc787c33b3bc/django-coinbase-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "c78d5387e2f36f7f8ac3f8d7bac600595fb1e2081528cf7f4b93a19fdd7df5bf",
+        "url": "https://files.pythonhosted.org/packages/20/8e/ac3ed4b30cfa9fa60ecd15dac34a9439d5c7e7ab9f696a62d200ec363f10/django-coinbase-0.2.tar.gz"
+      }
+    }
+  ]
+}

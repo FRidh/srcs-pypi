@@ -1,0 +1,70 @@
+{
+  "latest_version": [
+    "0.7.0"
+  ],
+  "meta": {
+    "description": "jinja2 template renderer for aiohttp.web (http server for asyncio)",
+    "homepage": "https://github.com/aio-libs/aiohttp_jinja2/",
+    "license": "Apache 2"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "bb7a8c165f7a751addf104d36f95b8d5f3669f55997b7a01562887a937c70d83",
+        "url": "https://files.pythonhosted.org/packages/35/b3/2567ef61676a9347bd47f71683bfdb74e1b12e6f6b53416d6ed28a6eab37/aiohttp_jinja2-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "3b2a514f18779a52ec220368441a453883ac6697d912661f6815e1eba8c9b92e",
+        "url": "https://files.pythonhosted.org/packages/c1/2b/c5897913da181ac674d93ede232a22509414ccff8bb976063da0be70e842/aiohttp_jinja2-0.0.2.tar.gz"
+      },
+      "0.1.0": {
+        "sha256": "8931555169f365e47e19dada380ceefd3f26ade6ee858a0e8c7b4e5f60a9b2ae",
+        "url": "https://files.pythonhosted.org/packages/80/f7/5a19fbd82403aa0fd3bcdef115a6c5465c0dcf0b8b1970202cb099fd5925/aiohttp_jinja2-0.1.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "f77703f0e685cd6a9121851823e9ff1ed2c8df567b2c5642f84659a3a8d4b3cc",
+        "url": "https://files.pythonhosted.org/packages/b1/c3/131421b0866d8f4ca55d9636b76d6dc1806d38fe87b15c4b208c19aeb109/aiohttp_jinja2-0.2.1.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "4978aaf53ddd80494db9eda28cb0bc3fdd721848dc9b6f6193251b97dab4893c",
+        "url": "https://files.pythonhosted.org/packages/03/02/3bd7da72d5f7bf69acdff7ee69af90d3c94e20298c415682177be9f6e5a2/aiohttp_jinja2-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "d0905914028a4075bfee97eed01dd7bbe8df77c90b3bda64dc11d265220673ae",
+        "url": "https://files.pythonhosted.org/packages/ec/04/a008a87c7495a5261b75c01e51132556b468b356c4dbbfe5d57c0c2ff378/aiohttp_jinja2-0.3.1.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "d662055e6e51ba2e5c84d1c23425b79fd2493157d8ba9680d33c7b2bfb4f6191",
+        "url": "https://files.pythonhosted.org/packages/89/2c/bf9bba9844f82a89a1bd0f6a91c7df41980cbb67835ab59ca2836350fb06/aiohttp_jinja2-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "259ac5d51963d706ea14dfb0f5da6183e5ca0fef5053b81b8623496f86586b5e",
+        "url": "https://files.pythonhosted.org/packages/8d/30/f488a60f1e654a0e5ac59341ebbe98c27f389f09424d82fd6a0c596ab356/aiohttp_jinja2-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "2ffeaa9f55ad76645fe87c0ec8bfbcf5bd1406a1d33a9ea11814012f3b45084c",
+        "url": "https://files.pythonhosted.org/packages/55/89/b434c65814da02cf3781a2eba3641955918163537d3e2767e3f0bdf018e2/aiohttp_jinja2-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "e4016e1964ffd43431a8314aaf5cd8141c73de2b49bf1232723789539da84f53",
+        "url": "https://files.pythonhosted.org/packages/5f/0f/97a377ce1933b1c2ce79c5bccd6e548dea94f2599a18336adb2bf9c7aef5/aiohttp_jinja2-0.4.3.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "cfbc01b73ef147b3e41afa2fe4090433eef338d433ebaf49063b4939fb7bd3ce",
+        "url": "https://files.pythonhosted.org/packages/00/78/ce3484825e85629a92ff47fb8eea364cd9a65ee25b2a21391a4485db2546/aiohttp_jinja2-0.5.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "197e303b7051be9357fb9a4e88a4acf83642cee3c8706da4a34cd7169051bb40",
+        "url": "https://files.pythonhosted.org/packages/0b/d6/8e02b47532df40d32834ecea6138668d31fae35545daebcd0a9fbb917288/aiohttp_jinja2-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "be01e945a67fb1d873f3441479a54650c387718217cee797b915883f1376068d",
+        "url": "https://files.pythonhosted.org/packages/6c/3d/9cf9280e452815f013478ff47f836133c0c95b25b843b8b013f0ad6a168e/aiohttp_jinja2-0.6.2.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "ec9b111dfb4cdca8b326ac9efa908d29fd480914f97f993eaed153a43858216c",
+        "url": "https://files.pythonhosted.org/packages/7b/ee/e5ffe28b4f81113852802d62e401abb15856d2535c40cbf1b6022474739e/aiohttp_jinja2-0.7.0.tar.gz"
+      }
+    }
+  ]
+}

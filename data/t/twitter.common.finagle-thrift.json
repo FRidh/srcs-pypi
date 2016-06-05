@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3.5"
+  ],
+  "meta": {
+    "description": "twitter.common thrift stubs for zipkin rpc tracing support in finagle",
+    "homepage": "https://github.com/twitter/commons",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.3.4": {
+        "sha256": "0bf38dddcb2a3148f6e9b8a52915f8747096ee6078168637e336b2976294cfc9",
+        "url": "https://files.pythonhosted.org/packages/dc/4c/ef10b3cd78191f9d211591467b689b51de34057996695d75ba1e1c15366b/twitter.common.finagle-thrift-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "fd5270bcec5010572aa05d9630d52e9b6973cb2fdc6b2cb7b0dfdec9ea7cc5b8",
+        "url": "https://files.pythonhosted.org/packages/3d/81/91e8a32595a70fe9d3128c29ba2b010edb3092c34e399f5e292824a6093e/twitter.common.finagle-thrift-0.3.5.tar.gz"
+      }
+    }
+  ]
+}

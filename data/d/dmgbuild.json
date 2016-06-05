@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "Mac OS X command line utility to build disk images",
+    "homepage": "http://alastairs-place.net/projects/dmgbuild",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "7b341378f9a8bd19d914432e35b5053147a78025fcbfaa95021412aadf2a83fe",
+        "url": "https://files.pythonhosted.org/packages/0a/37/b7db38a8c45363ebbbe5f37f21c86c81346a13dd975ee773d744746819e2/dmgbuild-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "44077d7efe155dfc7229a3d21467e59ea3aeeb6e7292757cae6880fa2709709f",
+        "url": "https://files.pythonhosted.org/packages/4b/12/a97aeae9b91dbf97cde1c06587db2ad9e056cd966de61c60009b04c2f9b4/dmgbuild-1.1.0.tar.gz"
+      }
+    }
+  ]
+}

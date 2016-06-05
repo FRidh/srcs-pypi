@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0b1"
+  ],
+  "meta": {
+    "description": "Timeline views for collections and folders (using verite TimelineJS)",
+    "homepage": "http://svn.plone.org/svn/collective/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0a1": {
+        "sha256": "e252569218d56190bf823a94ae9c116690e7fc8008c09eb55f50b2fddee213f4",
+        "url": "https://files.pythonhosted.org/packages/1a/7c/7189ec89fa7d855650adabb0ec82d9f02460fa58d20614425d48842b47ac/collective.timelines-1.0a1.zip"
+      },
+      "1.0b1": {
+        "sha256": "ef59a401aeb73716b9aa0fd3f32efadd2737fbefb8ad2c948c4b8baee49911da",
+        "url": "https://files.pythonhosted.org/packages/e7/41/1b3cbaa2713710be35ca1a9f0c35e8b7c7572dd3a2e738082c24fb6f4ce9/collective.timelines-1.0b1.zip"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "A controllable timing task widgets with Celery",
+    "homepage": "https://github.com/boylegu/celery-task-tigger",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "4de9ba2fdcaf5f930fe6d264b1163577fa67dc6df6b59f3a0c4a124f5b72b17d",
+        "url": "https://files.pythonhosted.org/packages/24/0d/ed4574626be5a234889b93f064b1a8fb6605940ce6b269b295e6b70ca66d/celery-task-tigger-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "b1bbba0bd272794178b29acb058125210bb28e6999bb28f155ad2ec8afb378da",
+        "url": "https://files.pythonhosted.org/packages/10/a3/370929f814a2d4cf6eda35f3d7998b0694d2e07fce098a9340001083304a/celery-task-tigger-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "2d5fa841e7f0811d11a5fe6655ccfedf02c64255e5b7f18eeeebc40da89f0895",
+        "url": "https://files.pythonhosted.org/packages/59/25/fbd8b74c128554032d8c7506c521c8d7dbdea2a9f9ab40ab8fbb001d4276/celery-task-tigger-0.3.tar.gz"
+      }
+    }
+  ]
+}

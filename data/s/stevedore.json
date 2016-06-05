@@ -1,0 +1,158 @@
+{
+  "latest_version": [
+    "1.14.0"
+  ],
+  "meta": {
+    "description": "Manage dynamic plugins for Python applications",
+    "homepage": "http://docs.openstack.org/developer/stevedore/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "6e5ecbb0eaf7406c44bd87a6b6338f598c7388e89391b587e979cfdacb691402",
+        "url": "https://files.pythonhosted.org/packages/2e/e5/2b94f8397753ce96d48033faee511bd320140529534ae66e3126b86283e7/stevedore-0.1.tar.gz"
+      },
+      "0.10": {
+        "sha256": "71a6ffb669c6d84ef0f43f44816257101775f955590986c29a95ce07293fd6e8",
+        "url": "https://files.pythonhosted.org/packages/2e/30/7948916aacf3e569d44f898451974ef87ebfed0cbad9df964cbb154904be/stevedore-0.10.tar.gz"
+      },
+      "0.11": {
+        "sha256": "3d647df6522a7fd30152382a948b3983ea9aa6097966ccb09244954ef345f267",
+        "url": "https://files.pythonhosted.org/packages/15/14/d9e85a1acf9f905003a3a91dcf11fa265393137f7bba5803be621e6f0883/stevedore-0.11.tar.gz"
+      },
+      "0.12": {
+        "sha256": "9689a76c09eaeb60b6db5b45aae71de8c53f15d302d790536ac5bf7c47d729eb",
+        "url": "https://files.pythonhosted.org/packages/d3/6e/c4e1f7de6b59a40d77c767b4346d7995b0b221971e9cc7a0ccd55ee56573/stevedore-0.12.tar.gz"
+      },
+      "0.13": {
+        "sha256": "6ab2ee6fbcca22f1867021269569d1657c5801efd8a425742d36a7414cc8d2ac",
+        "url": "https://files.pythonhosted.org/packages/28/52/0e19cfc06471330cd5563119a515bdb8bc9f535195dc43aeeefeea2bff10/stevedore-0.13.tar.gz"
+      },
+      "0.14": {
+        "sha256": "3165cf3f37362bc6acfae499a088a99439d158dff59501a9a948c69a8da0dbca",
+        "url": "https://files.pythonhosted.org/packages/ae/8c/08c9c0e5e50e7549542c7a8047983106f139e7a1533e8f24c4930ccba6af/stevedore-0.14.tar.gz"
+      },
+      "0.14.1": {
+        "sha256": "4f298be24399150605b08c1abffd1f5fee01f9ab9362eb6ac865198c7290cbdf",
+        "url": "https://files.pythonhosted.org/packages/94/3b/5fbecde267af3b31cdaeaec8c53f2bb7d176b71eb1581368928ba177709a/stevedore-0.14.1.tar.gz"
+      },
+      "0.15": {
+        "sha256": "bec9269cbfa58de4f0849ec79bb7d54eeeed9df8b5fbfa1637fbc68062822847",
+        "url": "https://files.pythonhosted.org/packages/81/89/861456b4f95ff17d9ffc4988255b178c8c38e69856310f505894ab72393a/stevedore-0.15.tar.gz"
+      },
+      "0.2": {
+        "sha256": "317fed00639274452f3cfc1f8ae7d424bcdae87652d4539bea29d51bd4b5ef95",
+        "url": "https://files.pythonhosted.org/packages/cb/d4/37a3ce4d23066a8e08382f1b7a9176637886d5a8de2732036e5d0b0db068/stevedore-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "c86fe6931192d5e57755d21cf83d85499deaa8098f05607f031c250b85b6314a",
+        "url": "https://files.pythonhosted.org/packages/89/3a/214041c4d447aab7f8f23e164e6b094c820ec1dfa4e7f5f882c6d4ed0a1e/stevedore-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "ef01650d061ff7886e8cf181f95c19cbb934c52ef5b4af5b7e867339d79b2bd4",
+        "url": "https://files.pythonhosted.org/packages/97/31/0bf45b071060ab9673e081de0096c64288a736f8a89ba5d602d565a7fe20/stevedore-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "15f8b38b0cb98b119811f5d5e895ad1d98dae26648122b8f760cac8e8e88e46e",
+        "url": "https://files.pythonhosted.org/packages/93/4f/082745dfba2e46dd96476fc88f2a0e48d25f98354d654eff32c424daebe5/stevedore-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "bf0250509929daf7ffe84b1900eb3027dc962afd54c3628518afe439b4265d4d",
+        "url": "https://files.pythonhosted.org/packages/69/04/324f6f5fe68f6a7121d28867f2540b0564f34a987ba665c8d62b1227b015/stevedore-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "11b36479e28194e0da64cd1c5b9c21cf7bb75625866c55060d4c60006066c159",
+        "url": "https://files.pythonhosted.org/packages/ee/91/cb9d13d10a13691d9fc3957aee4e6d7443e26e0e1ee72510e99b541309c1/stevedore-0.7.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "e2c087ad81d5fd61e3e539e4c66a4aa5681d99ff1ae2f61acbcad35f8db692a7",
+        "url": "https://files.pythonhosted.org/packages/4a/3a/bdffeb8f772b4bc7bedbb337bc70f0cb15f4a4d7500ebf9224465c16e4dc/stevedore-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "ce55b7b56d0f8eeb54c58102c975afd4bf81e206bb429aad66f17376be3efed5",
+        "url": "https://files.pythonhosted.org/packages/1f/29/7fe73c05e7b5dc2f73c05322cf444672eff77821cd35ecfee231bbf09196/stevedore-0.7.2.tar.gz"
+      },
+      "0.8": {
+        "sha256": "bf187929f739f86a73ad218193d23bddb34c717c5adb6fd84008c2975043edb6",
+        "url": "https://files.pythonhosted.org/packages/57/77/66dfbc2f704fb6a23744e72b92f0c66f97fd6f348a5b32640554fef24d9c/stevedore-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "631910f5c989f1eaa0a4063bbabaae1342cdc7bbb37d14c52960282a62bc5382",
+        "url": "https://files.pythonhosted.org/packages/91/7b/3ca77ade4259fe73d17e31197bb921c7b040b81cf2a4116951ecc15cc361/stevedore-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "2e8d2ea77b4f3f624059354966d9ba0b68b084d12e9a0e7e1856e2832b5426cc",
+        "url": "https://files.pythonhosted.org/packages/ba/56/2ff180dc1bd43d6016e959f3a1dca885246627e57160bfc2ee1c8e713d0a/stevedore-0.9.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "4e859756bdba71d7cf4eb1313342cde93cfe36d12fb6b6c35378e9101add229f",
+        "url": "https://files.pythonhosted.org/packages/21/0c/01418001c488b5f53acf6f19ee616d986f3ef116f56893f3920188f6f9d8/stevedore-1.0.0.tar.gz"
+      },
+      "1.0.0.0a1": {
+        "sha256": "de11f1dbcbbd5ed4443c0de3d93ac199bd29cdc729522888216e8b5f74fde087",
+        "url": "https://files.pythonhosted.org/packages/83/c3/50f28c9195ebc962f99c91f20d8cebba4da783398d45c6b9a8b674e4cca7/stevedore-1.0.0.0a1-py2-none-any.whl"
+      },
+      "1.0.0.0a2": {
+        "sha256": "8aff4c7c4459d3f256900ed1e1e38da1eb616f194ea4c01e13b917672877c762",
+        "url": "https://files.pythonhosted.org/packages/7b/46/4e522f5386829a8eaba8432d1f67b18b5791d7395160c7424df1899d246b/stevedore-1.0.0.0a2-py2.py3-none-any.whl"
+      },
+      "1.1.0": {
+        "sha256": "f98381d12a6bfff718328d14d0d26cae6c83e39feb787e7b38acfe1089c3f1d3",
+        "url": "https://files.pythonhosted.org/packages/82/6a/f8fc0b6fa94b4bfa5d6f8a99fa372416359dee403301eba1231aebd7e988/stevedore-1.1.0.tar.gz"
+      },
+      "1.10.0": {
+        "sha256": "f5d689ef38e0ca532d57a03d1ab95e89b17c57f97b58d10c92da94699973779f",
+        "url": "https://files.pythonhosted.org/packages/2c/ac/1d7ee4c70cc3f4818df1306a801842d4ece3daf01530b79ce58c18e73b9b/stevedore-1.10.0.tar.gz"
+      },
+      "1.11.0": {
+        "sha256": "90616a9f437b54e1bca831630faf97040a608d66685c821615ef79f72eb79c6d",
+        "url": "https://files.pythonhosted.org/packages/59/d2/daa98d93124363ace634e8ec32b30af138f9f67cfab0e20c75e456edb2cd/stevedore-1.11.0.tar.gz"
+      },
+      "1.12.0": {
+        "sha256": "1bdeb2562d8f2c1e3047c2f17134a38b37a6e53e16ca1d9f79ff2ac5d5fe2925",
+        "url": "https://files.pythonhosted.org/packages/f0/b1/5659992d66cd7f11a8c1ab0f8fead649ac05fe2c8f673cdf3f70593ff175/stevedore-1.12.0.tar.gz"
+      },
+      "1.13.0": {
+        "sha256": "97a8116cb77733973fb2d4c9111c9af9140f29fff129e67cb1ace84a6a48f2a2",
+        "url": "https://files.pythonhosted.org/packages/77/e0/0e9fa395f7bd6f761a461a47d2e3fc0bd2edeb97da2797784928fc4d5e5e/stevedore-1.13.0.tar.gz"
+      },
+      "1.14.0": {
+        "sha256": "474381b594451f8999b889476aeaaea193e007c6fdf7b7c5659e6e7e5fb53d8a",
+        "url": "https://files.pythonhosted.org/packages/db/46/2e84e2aedfdb59ac2690c08363e376860bbcc0921d44f8828d7c09167f5c/stevedore-1.14.0.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "3f70db9052c26e66dac61cb73d8c6f5211373983d39872addab617c759db4b45",
+        "url": "https://files.pythonhosted.org/packages/86/4e/46eed0bc6eefea9b3d05133e8f7c6e15bb16688528293ce41ae0e1bf7dc9/stevedore-1.2.0.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "beab2b7f91966d259796392c39ed6f260b32851861561dd9f3b9be2fd0c426a5",
+        "url": "https://files.pythonhosted.org/packages/ba/df/03fcf7685eb076244ab540b8535a079bcc619109a5d09b8eafed2e514085/stevedore-1.3.0.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "4a8d80b0a232746c09e0173bd61d60a18e9864e3dc87e3ebefa3ba3d8a00232f",
+        "url": "https://files.pythonhosted.org/packages/39/5a/8e2e3e2ecb1f81c0668afba7f0bea3365f7b758645fa20efd7f4f3c12e41/stevedore-1.4.0.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "095d71a92518f3eec4c26e531e22fd4053caf3fc52ac6c0afa80a8a0e689da45",
+        "url": "https://files.pythonhosted.org/packages/9f/9d/5528cdca306604c4b8b1f8feb34417f588fdf49902ef4497da214c42cc20/stevedore-1.5.0.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "dab2aa31ec742f651e6a2fe0429560aebbbe0fb7fc462fa0ff565c8f5ff2ec25",
+        "url": "https://files.pythonhosted.org/packages/8b/8f/20739d9051324820c8b60aaeba1995e8b165abe9413f05ad6942fd2579f7/stevedore-1.6.0.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "68cf8691407cfd9c11e32381ef14ff566292dca0d113aba384d3fcc100933791",
+        "url": "https://files.pythonhosted.org/packages/71/bf/1d57973025e4e7db21cefed20a5719d6a581a6d0f5125aa60bb76c22eed4/stevedore-1.7.0.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "c6bd9fe110bb6efeafc9df48b294e52a363972f0e13172dae666a5257c3a57d7",
+        "url": "https://files.pythonhosted.org/packages/46/58/494c0c7ddc6085a7f91d42286c284f3bf1e1839b15d7c67cb743dd0634c1/stevedore-1.8.0.tar.gz"
+      },
+      "1.9.0": {
+        "sha256": "cc19908840498ed5f7cb5cf59bbe47b41aa9d65821548e2b3c8a99a571cbec06",
+        "url": "https://files.pythonhosted.org/packages/b0/ca/9e80e99bb685be570bc364a39438a7914f587129b2ba4ae8417ac605107b/stevedore-1.9.0.tar.gz"
+      }
+    }
+  ]
+}

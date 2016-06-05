@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.0.1"
+  ],
+  "meta": {
+    "description": "a Python ORM supporting many RDBMS backends",
+    "homepage": "http://skunkweb.org/pydo2.html",
+    "license": "GPL/BSD"
+  },
+  "versions": [
+    {
+      "2.0": {
+        "sha256": "2dbae4ccf197859729613eb4d67fbc821a2957e1d1c29e163822e7c252001fb9",
+        "url": "https://files.pythonhosted.org/packages/e9/99/551938d1a3efd7bd8106011da58710fb9579b5fd3fbc6e4b2d0b94222f73/PyDO-2.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "48c3038b29d11413ea09139b4ff1d878dfb798412a1473f46f8c8d20114f6d92",
+        "url": "https://files.pythonhosted.org/packages/33/04/a5df9a1006f9a5310dbd74f35d67a1c425dcd50e86d5f841fd78d77e93bc/PyDO-2.0.1.tar.gz"
+      }
+    }
+  ]
+}

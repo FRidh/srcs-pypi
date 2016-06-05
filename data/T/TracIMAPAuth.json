@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "An AccountManager password store that uses imaplib to check against an IMAP server",
+    "homepage": "http://trac-hacks.org/wiki/IMAPAuthPlugin",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "ea3a1bd1fc3c61064cb21ee07e3b97f99fe7ab85b5c8a0e31012540f780697bc",
+        "url": "https://files.pythonhosted.org/packages/87/de/1c65961c9f5610dd49d81ab5be47f2c9dc7ac08b25d7b91d0ef5bc756779/TracIMAPAuth-1.0.tar.gz"
+      }
+    }
+  ]
+}

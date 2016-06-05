@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9"
+  ],
+  "meta": {
+    "description": "A lightweight MapReduce implementation for computationally intensive programs",
+    "homepage": "http://code.google.com/p/mrs-mapreduce/",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.8": {
+        "sha256": "024da32154954139cb407e475a7b4eef60ba8f1056bc421d0259f354397fc5ac",
+        "url": "https://files.pythonhosted.org/packages/6c/39/f228d8c3ce60f4c54751e759d6141839662ac46d45fd171619ea75fe2297/mrs-mapreduce-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "db27d82d7ece14cf3c8993374646a9f0011e065549ae1055f5b5b53a774ce3c4",
+        "url": "https://files.pythonhosted.org/packages/89/b5/95fb3ad66486acc062db4da520ca17a265b19e23614ec7c1ac233f18f285/mrs-mapreduce-0.9.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

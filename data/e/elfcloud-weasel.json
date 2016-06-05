@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2.2"
+  ],
+  "meta": {
+    "description": "elfcloud.fi Weasel",
+    "homepage": "http://elfcloud.fi/",
+    "license": "Copyright 2010-2013 elfCLOUD / elfcloud.fi - SCIS Secure Cloud Infrastructure Services\n\n   Licensed under the Apache License, Version 2.0 (the \"License\");\n   you may not use this file except in compliance with the License.\n   You may obtain a copy of the License at\n\n       http://www.apache.org/licenses/LICENSE-2.0\n\n   Unless required by applicable law or agreed to in writing, software\n   distributed under the License is distributed on an \"AS IS\" BASIS,\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n   See the License for the specific language governing permissions and\n   limitations under the License."
+  },
+  "versions": [
+    {
+      "1.1": {
+        "sha256": "26110fcab4e851a24ea1c69a8af1b4b886c7acc03f630d9dfb4e2fe5a52623f7",
+        "url": "https://files.pythonhosted.org/packages/da/75/403a260c8958c6ec2e06852218391bb5111a19c0c05d82630a65cd221050/elfcloud-weasel-1.1.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "48ca23f43bd6428797d2148840ff8b178ecd39751b2f5a71199078eea137943a",
+        "url": "https://files.pythonhosted.org/packages/04/0a/a623d1c6c661a2942cd9649476fe2d3954d95883b82e06d401058e51d8e6/elfcloud-weasel-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "987dbaaa0f2f6473f913faec578076988904a3f25884aea619c5ae8ab846430d",
+        "url": "https://files.pythonhosted.org/packages/0e/d9/c7627f465959d3058285d43f47de45ba547fe754700c4cc9ca3d890a2f21/elfcloud-weasel-1.2.2.tar.gz"
+      }
+    }
+  ]
+}

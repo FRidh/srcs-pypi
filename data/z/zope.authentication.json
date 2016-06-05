@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "4.2.1"
+  ],
+  "meta": {
+    "description": "Definition of authentication basics for the Zope Framework",
+    "homepage": "http://pypi.python.org/pypi/zope.authentication",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "3.7.0": {
+        "sha256": "99c8a1f1a9a75ff621022e40b90e176b1c62c8a5a200d212cc0de2424b05b992",
+        "url": "https://files.pythonhosted.org/packages/68/6d/63a903dce9db336a5eb63fb98a4ebdcd2a8d71003ed3a55f1f9bfb3ae0be/zope.authentication-3.7.0.tar.gz"
+      },
+      "3.7.1": {
+        "sha256": "0d4d5c7c54a7ba7bad641e9fa95ff1e0c67d91d46cb1747d64e2659343951be0",
+        "url": "https://files.pythonhosted.org/packages/63/c7/f89d1dc8c9956b9d7f1f4e756ab1feec0de26b1917a65181b0880a66d0d6/zope.authentication-3.7.1.zip"
+      },
+      "4.0.0": {
+        "sha256": "d5034c272c7b3d19252b01efe141e43eaaae364c6e458467ca9102235dc305ee",
+        "url": "https://files.pythonhosted.org/packages/a2/5a/e28acba90511192399bccdb6b093aed03d21dca05bead59ea5036d448147/zope.authentication-4.0.0.tar.gz"
+      },
+      "4.1.0": {
+        "sha256": "e1738000929d15f4c28bceb3674b042695b6f7d30dc504fbc64d09a6897db633",
+        "url": "https://files.pythonhosted.org/packages/b2/4f/691616d46769036f12fad6bc2c6e58005239163359b0aee171272839cebe/zope.authentication-4.1.0.zip"
+      },
+      "4.2.0": {
+        "sha256": "34ed3ea9cfe8708b788a0a83879ab5e35cec3cbb1bb5658079af9cbeb647fcb3",
+        "url": "https://files.pythonhosted.org/packages/75/2e/cea3bbd3db5c5730b917934d89749cfeebd8cfe80d736cf1ee79dd754b0e/zope.authentication-4.2.0.tar.gz"
+      },
+      "4.2.1": {
+        "sha256": "f56eb9435f66bb1bdc2cd9cef7bea57498898c0538b28748abb30e49f0b11700",
+        "url": "https://files.pythonhosted.org/packages/c0/f0/88ace1a23decf050835ec4bacc53cf01135b83f81ade4b0ae772894fb10d/zope.authentication-4.2.1.tar.gz"
+      }
+    }
+  ]
+}

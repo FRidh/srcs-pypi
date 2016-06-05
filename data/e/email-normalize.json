@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Normalize email addresses, removing ISP specific markup",
+    "homepage": "http://github.com/gmr/email-normalize",
+    "license": "Copyright (c) 2015 Gavin M. Roy"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "5081ad27a5cfdf910a1e4c172b529a57629d7ed99cb6585ad09517f5978307d4",
+        "url": "https://files.pythonhosted.org/packages/03/b9/9a62cdcd2edf45d258d8ba18b42ada7198612c9fcdaa06daa1fb218edd35/email-normalize-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "663684e34812debb1901463c48e142c59eb2b8da2eb4e5f46eebea3680ff057e",
+        "url": "https://files.pythonhosted.org/packages/d9/0c/1516921036480d742b8946225ba4c84ec98ff9b829b2555ac38bd9ec9050/email-normalize-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "ea648e789af084f171601b3d2ca2cdb4b326c87d04bb96c2dd72671893fe3064",
+        "url": "https://files.pythonhosted.org/packages/38/34/e3b2ae344e24f169c7f412180291bb1a8a5d5bdc03bb65397d495410d8ac/email-normalize-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

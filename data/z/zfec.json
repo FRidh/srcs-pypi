@@ -1,0 +1,150 @@
+{
+  "latest_version": [
+    "1.4.24"
+  ],
+  "meta": {
+    "description": "a fast erasure codec which can be used with the command-line, C, Python, or Haskell",
+    "homepage": "https://tahoe-lafs.org/trac/zfec",
+    "license": "GNU GPL"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "4f96a02d0dd709e1fd16c5d9582c9a93c026fed31e482c06e8c2e1feeda23b68",
+        "url": "https://files.pythonhosted.org/packages/65/c4/f0ce7606c2ca237fd9a2fb1eda3e815c3dcb96aa3e9cc11d0704c25d1215/zfec-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "506181de23bd845108d71f1f1f2a05e5bd48abcf76177e21b8180bdd33d5f4ce",
+        "url": "https://files.pythonhosted.org/packages/ad/31/d21937ba4e14ac81aa11397eb2d29a49bbe1703b33b3430db8a76b5453e0/zfec-1.0.1.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "46cba0929910c240176dbcda5e08a91bdfdde560fe595f78ee6d252d2068f658",
+        "url": "https://files.pythonhosted.org/packages/8d/63/29e45ef305d3ecdb5aa3ca2cb948c0a3d9c98943079e411f84756d99f63e/zfec-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "a6d0ac8176c954abecd8e7fed5f5b8f8027ec1fff143ff40cdd0246e86de8ad2",
+        "url": "https://files.pythonhosted.org/packages/1c/c7/bc139a4921cb813936090b79132b6d1ab67b7d394a158d354ee644d8901f/zfec-1.0.4.tar.gz"
+      },
+      "1.1": {
+        "sha256": "d608d26e2fc65b60bf5ed1a9bc1c31ea3403d35c8cba4e64f63e91e3dd27db02",
+        "url": "https://files.pythonhosted.org/packages/b2/44/a7e04dcbf8ffccb0b5ff1903d6fa1079b08a8086bf6eeed4d970563858e9/zfec-1.1.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "caf81c03439d5912399d02ffe7302c4a362fb8787d18d7eb89ec46a4da2f1922",
+        "url": "https://files.pythonhosted.org/packages/f2/8b/3b5bac5fe07c0fde4c76deef0e48cb651f41ae4cb59335e6a0d9009ac210/zfec-1.2.0.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "b00cbeb17481ac5c279e3e92da0a925c8e5524c4fb3a3ebbe0525fb920f16639",
+        "url": "https://files.pythonhosted.org/packages/91/7a/df48831f68ec42bdc1a7b06c794f0820c2e04705aca66aaa6ed9ed6f98cc/zfec-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "b975fbeeec77979f6b33276951508c82a2a379fe641a9a205edb9ca8e3b8543b",
+        "url": "https://files.pythonhosted.org/packages/40/b6/16a55195944ff6354a8f14b056750ec21785e0a9ffaa6a96fb70feef381c/zfec-1.3.1.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "f21ea06f53096a2ca4a819badca1a6c4be3dcb0070536276632026c918432069",
+        "url": "https://files.pythonhosted.org/packages/72/1e/c5d43add13afd1f734d989f76cf6f9a6532810487cb7b92b37130b7b7a1c/zfec-1.3.3.tar.gz"
+      },
+      "1.3.4-3": {
+        "sha256": "4cf1cde1ebb5da098fd697ef8a7edc8ce41d33172aa5a069fc5f06ede938769c",
+        "url": "https://files.pythonhosted.org/packages/a6/86/31ff073c040d57d814eb1c1ea57ed2145cd420a4a667ef50a8ddc0681ad4/zfec-1.3.4-3.tar.gz"
+      },
+      "1.3.5": {
+        "sha256": "cd32ba0c4618a1bbeaed44e8b720753a1672581f9aaae182fbce83f3f0df097e",
+        "url": "https://files.pythonhosted.org/packages/3d/f9/ed02a44765d0f7fecbd7e7559b4cf5d4410e9a9473aeade98617e607c71f/zfec-1.3.5.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "3fbfb5446ebaef88945fb451dc74026c30fd869c5dd309bb433b0caa7d956c23",
+        "url": "https://files.pythonhosted.org/packages/4c/88/befa1c236e0e4f1f17203aa12b001f57cf7d787918c0da4c0129d952289d/zfec-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "71ac5fd0fa33232ec0a07aea4448684560a228d7da936fc86a7e4c76dc84504a",
+        "url": "https://files.pythonhosted.org/packages/a5/6a/551b16a57d65931db4bc25ae68c8f4689bd0528935a94e9354512633fe9b/zfec-1.4.1.tar.gz"
+      },
+      "1.4.1-2": {
+        "sha256": "6b6d785073c0f867e9761f65a8413e73eed5df0d663bb52a4e972625400cb84d",
+        "url": "https://files.pythonhosted.org/packages/ea/91/0ccfffbb09cfa24079b765672f3907c9a205b6c381bdc085c5f45eb765c6/zfec-1.4.1-2.zip"
+      },
+      "1.4.11": {
+        "sha256": "fc1173fded0733c920fa1f2a293e74c020c9dc4e6935733b95dbed29fb9d793d",
+        "url": "https://files.pythonhosted.org/packages/ac/e8/6189b13fef5d78d9224c0819b238c6da7f32908d3507bfc0708ffb404c2c/zfec-1.4.11.tar.gz"
+      },
+      "1.4.12": {
+        "sha256": "47d1dd89e3f3b504c89ff081261e3ea8d4f3efe58acc4f25e3d6589697326cf6",
+        "url": "https://files.pythonhosted.org/packages/cb/47/471f506e73092da6680a81185686f717372c58579a90ffb8f356c94511c2/zfec-1.4.12.tar.gz"
+      },
+      "1.4.13": {
+        "sha256": "c98fd0624d83d18b2730f925605326a3d889fd3e1db4f9191f6a715c69485b53",
+        "url": "https://files.pythonhosted.org/packages/2a/b4/5dd416998579bfede3fb212b260387f935e8772a3035578a3dcb9ca4798b/zfec-1.4.13.tar.gz"
+      },
+      "1.4.14": {
+        "sha256": "f870434a52e6e3cd0dcf2b665935060fd52cb0525e6cf73668fb90c9aca63835",
+        "url": "https://files.pythonhosted.org/packages/a3/d7/3d6480693b442e583cde049f5d2f06be0fc7d9c200ec9ecca3cef0879e0e/zfec-1.4.14.tar.gz"
+      },
+      "1.4.15": {
+        "sha256": "ec5c243956c25adda1859b3db5f9933f8b8c95fabe6277ce81e77057c49578e1",
+        "url": "https://files.pythonhosted.org/packages/c6/33/1391c97df2a861182f20aabddfca8005b08d120fe2831e3993dfdc8463e6/zfec-1.4.15.tar.gz"
+      },
+      "1.4.16": {
+        "sha256": "9968acd87118a1471a82c6625d3022631155174eee7ae54a99f26302a30d955f",
+        "url": "https://files.pythonhosted.org/packages/68/78/b2e097e1c3542b793fc4198f74e7d0a6903fd2307b5a3807b87ceda21944/zfec-1.4.16.tar.gz"
+      },
+      "1.4.17": {
+        "sha256": "35e680b86b063b03d435adb7f42adef3c279cb029bfaddc99fdcc2af6b2f5a1a",
+        "url": "https://files.pythonhosted.org/packages/4e/5a/9b8f16cfe42cc8f448dd21fccf0486738affe35b3367f67c46e95a8ca63c/zfec-1.4.17.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "8e232623d90e34483e2f4785ee1cb8d4cf07e1fe1a4b36e8edf560e9ea90eeed",
+        "url": "https://files.pythonhosted.org/packages/97/ba/c0bf53a7378461e845a12f7b0920a2620658538d3a763edbcf87400910fb/zfec-1.4.2.tar.gz"
+      },
+      "1.4.20": {
+        "sha256": "fa4146dda042b2cd0a8fb2186c7390b322150dbc47f805aeb479e09fae3e859d",
+        "url": "https://files.pythonhosted.org/packages/fb/e5/28a763fae2be2acbcfd3dfbdc23d0833fcbb5671ff98a2dc12ad66891f5d/zfec-1.4.20.tar.gz"
+      },
+      "1.4.21": {
+        "sha256": "3f07d5d730593640657d44a42210d204727b26123338698cd6969cdbaf103cba",
+        "url": "https://files.pythonhosted.org/packages/34/de/ff38bc7a068567da54b71b2941a3188b44a1e90387553185fe0844f2d138/zfec-1.4.21.tar.gz"
+      },
+      "1.4.22": {
+        "sha256": "e8eafa0940a9622ed3ea80f60485b89ee28b9a581988cb669136b632282aca7b",
+        "url": "https://files.pythonhosted.org/packages/3e/58/b51aa09d8d80492dc8470a90fd8fcc5c5d1591fb4256eaabbee0d7df10e1/zfec-1.4.22.tar.gz"
+      },
+      "1.4.23": {
+        "sha256": "f0d2fbef7203afa481bf3782155220b649fdf19d639b368f8875184a7d4c4831",
+        "url": "https://files.pythonhosted.org/packages/e3/47/d2c852b7a1f986a8111b08ada6e889ea553a3f2e09dae365b246cd1c0dc0/zfec-1.4.23.tar.gz"
+      },
+      "1.4.24": {
+        "sha256": "e3e99e6e67ac9af72c0f918f03d2051e17d41f48ee0134d0d2c81e7fe92749cf",
+        "url": "https://files.pythonhosted.org/packages/e3/fd/e62597ca563077f1ee7b291010aa51b9898c9014a4a87e1447107d79a46d/zfec-1.4.24.tar.gz"
+      },
+      "1.4.3": {
+        "sha256": "ca14b8e27b292f08343e7d86612e0913acbf267dc1e7662a24e8e9e4cbb068dc",
+        "url": "https://files.pythonhosted.org/packages/d6/10/08bc19f34b849578c333a2217b78750b6eb4e45ebeaae41f629ad489941b/zfec-1.4.3.tar.gz"
+      },
+      "1.4.4": {
+        "sha256": "dcc06a6cd76f81a8915265373a87783b5a9706bbfe53166b4f8ee4b5b53def65",
+        "url": "https://files.pythonhosted.org/packages/8f/ee/bfa05c3df22afce906e562e45d177fca33ca465318afc80cade37bcc6c0d/zfec-1.4.4.tar.gz"
+      },
+      "1.4.5": {
+        "sha256": "57b6679e9685c4dce1ce934c260d81bd293216bf225e680890cc0e5b0cabd3c0",
+        "url": "https://files.pythonhosted.org/packages/d2/3f/99bcb2f4c33cbd998d1e993c4f27c456b39dde1479c8d5be35fa5cbbd6b5/zfec-1.4.5.tar.gz"
+      },
+      "1.4.6": {
+        "sha256": "bec82a323b94c47f0fd165065280c5a207664d2c51cf04ab1d1e7f73b942069c",
+        "url": "https://files.pythonhosted.org/packages/18/79/28fad2776a06a042dad60bc0603b7c61f58d6e07aa54bd996d67f384b07f/zfec-1.4.6.tar.gz"
+      },
+      "1.4.7": {
+        "sha256": "3335c9054f45e2c59188400e892634b68761b29d06f3cafe525c60484902d379",
+        "url": "https://files.pythonhosted.org/packages/f4/82/9bf7f48278dba6ea0a0c6247f6d0fd2d502a6999eb7f0661ef74c60b4daa/zfec-1.4.7.tar.gz"
+      },
+      "1.4.8": {
+        "sha256": "6705467e234543687738a392a13987de2da4f9d2af010651d75efa474d89566d",
+        "url": "https://files.pythonhosted.org/packages/1f/f2/48acf1c4a8f9083c321bbe43bc129158b51c0ac1196dde8a42496d4c3a58/zfec-1.4.8.tar.gz"
+      },
+      "1.4.9": {
+        "sha256": "44825b7ea929b85134c35aa16ff35af7e8cd2bbde407e63a6e4b5937d8c843eb",
+        "url": "https://files.pythonhosted.org/packages/20/24/8897f12fe80807a08724b0bc06df4a02191e04be1bc36e68cc897f37cfc8/zfec-1.4.9.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Python library to access Java classes",
+    "homepage": "http://pyjnius.readthedocs.org/",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "4fad29ad1f0408dd9563c78aeefe2eea1344ac4e3b4acc432e655d00d81fb34f",
+        "url": "https://files.pythonhosted.org/packages/49/c2/8357c70ee694f2db57449b3834e4e3a6265a48a8f405d8ccbe0270b300e5/jnius-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "5dfd6530cc91fbf9cd6b2e065534c28d8ed3b3da2cc97d405ee0ac913f214869",
+        "url": "https://files.pythonhosted.org/packages/f9/1c/0ec057b936e28107c24dffb79a1feb78ae963bf6d2d9e02efcc543a3b0f2/jnius-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "a02be6b85420d987c62acbc365e2990289512e8d0028392aa71cf93e5452770e",
+        "url": "https://files.pythonhosted.org/packages/4f/89/ebc9866565c2efc1df96852c6d9c70637d48ba9c0bd158175c4049233b1e/jnius-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

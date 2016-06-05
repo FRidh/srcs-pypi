@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.5.4"
+  ],
+  "meta": {
+    "description": "Watchman integration for Mercurial",
+    "homepage": "https://bitbucket.org/facebook/hgwatchman",
+    "license": "GPLv2+"
+  },
+  "versions": [
+    {
+      "0.5.1": {
+        "sha256": "d2e76d2a08d3dcd276e1a34b7674fe8c9ff315999accd8093e85328e439c2aa8",
+        "url": "https://files.pythonhosted.org/packages/b8/ff/2b5c97f37e58bc9a3e6d082fd2413bbc41f8f6ff4f1999cfa8534f62d6cc/hgwatchman-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "d15aa055d8a7e4d7e9c7a125e19613686fd749dccba7b5bff7cb4627e3574917",
+        "url": "https://files.pythonhosted.org/packages/b0/11/839a68c8692bdc3bf559742fb10bf8d2a1219eeed5cf2ad49947fdbb861f/hgwatchman-0.5.2.tar.gz"
+      },
+      "0.5.4": {
+        "sha256": "94c9ade802b5c50bb4cc7b090093c8dd6b64200bba6389684948c3d45ad0572a",
+        "url": "https://files.pythonhosted.org/packages/49/b4/95870518b2c5c23e0724def3d0b442e99d7721af6fac37c7c3ff6496d0b8/hgwatchman-0.5.4.tar.gz"
+      }
+    }
+  ]
+}

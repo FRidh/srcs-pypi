@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "2.0.2"
+  ],
+  "meta": {
+    "description": "Networked file storage and retrieval with optional password protection using Redis",
+    "homepage": "https://github.com/kata198/NetFetch",
+    "license": "GPLv3"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "79adb34bfc8d0bb6854e166c2e8f0e7d52f6ab77820d11a05de1c8c8455aecca",
+        "url": "https://files.pythonhosted.org/packages/98/f9/ff3fb2dbab0f2cf2a5c59a7fe11820d92631d8b634f8f17d064267ccfe7c/NetFetch-1.0.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "e2f05dda916e8ca57a03df6450a6dcd53c747ef08f27317e8ea045bb3ceb35b5",
+        "url": "https://files.pythonhosted.org/packages/95/86/6adf9dc5e197f0cbafe8b4eab058df01bee17ef3b583c603d9defd03fd05/NetFetch-1.0.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "86c21c032f7d953577fc690b23faa5cd3c9bc77bc435ee6513b85210f3aab7d1",
+        "url": "https://files.pythonhosted.org/packages/fd/7b/a7e95af8339ab5eab31d14930d2003c62a10f996bf05ba79cb723f88581e/NetFetch-2.0.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "64ff5b676b1acf459df3bba33ad74b502219d9cc663f77a105447186da4ec2f6",
+        "url": "https://files.pythonhosted.org/packages/64/0c/4a2917ab2a2d98620f2f664c76ab7ffa9b060d03c6878af1720adc3c6530/NetFetch-2.0.1.tar.gz"
+      },
+      "2.0.2": {
+        "sha256": "e1d14ba6bb634f335c500b244e6e09fdebeda8edf51e4108d5c736d0a95e836f",
+        "url": "https://files.pythonhosted.org/packages/5b/f6/d16ffd43d95d2d64396804746b0d060c2b69e9f08af15df29a6e6515670a/NetFetch-2.0.2.tar.gz"
+      }
+    }
+  ]
+}

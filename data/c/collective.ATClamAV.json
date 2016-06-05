@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Provides ClamAV antivirus integration for Archetypes based content types",
+    "homepage": "http://pypi.python.org/pypi/collective.ATClamAV",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "e69c44a351199a97b09228425cb9c714b7958a0f70a50786ff2f084f495964ba",
+        "url": "https://files.pythonhosted.org/packages/06/8f/b149ecda78e804676fe9d4d91bcfd319afd9db8927f622c798f24e24e5e2/collective.ATClamAV-1.0.zip"
+      },
+      "1.0b1": {
+        "sha256": "67f8f01866f113be98ab6dc77fbeb2304660aeb1a270f97313a8657abe37e07a",
+        "url": "https://files.pythonhosted.org/packages/09/25/cc8db48c20667b6f3c44f399ecc9500dec25a8a6cb00fd3d1a1e1ede348d/collective.ATClamAV-1.0b1.tar.gz"
+      },
+      "1.0b2": {
+        "sha256": "d29174fa71cb45daed01347aed42fa82ec7854ccd7e1f0f59037ad9f86945fb5",
+        "url": "https://files.pythonhosted.org/packages/61/76/15bc034203565abefc57aac21809415034791fa1c89519f5698adc5947ec/collective.ATClamAV-1.0b2.tar.gz"
+      },
+      "1.1": {
+        "sha256": "6ef4aa7acb8755de7d4796652b781820b893794c29bfae3f6778ed07b767d7b6",
+        "url": "https://files.pythonhosted.org/packages/55/74/7434b9c9f5e63dca8b658722c809f7396e24839d8e2906ca717d4e3521cb/collective.ATClamAV-1.1.zip"
+      },
+      "1.2": {
+        "sha256": "e2476562b32abd7c3cb577600b022230164d6b635140903bb9d7b27487706213",
+        "url": "https://files.pythonhosted.org/packages/fe/d0/d1d7997755960b5c7d4b68f2b0e71fd710e3222c80ea3cf17b86f8754814/collective.ATClamAV-1.2.zip"
+      }
+    }
+  ]
+}

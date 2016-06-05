@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Upload large files to Django in multiple chunks, with the ability to resume if the upload is interrupted",
+    "homepage": "https://github.com/juliomalegria/django-chunked-upload",
+    "license": "MIT-Zero"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "e4d5180798c54c1abb650bfd2eb2f6136d434231580105d965c2e2a5ae685ea1",
+        "url": "https://files.pythonhosted.org/packages/bb/a1/3e8626dba4bce50e31ef2b9fda6746a5d035c68009b4fd224793138e629f/django-chunked-upload-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "8f5dba0d9868734209927183db14397ac5a40b2526cf4899206b952edb7f1418",
+        "url": "https://files.pythonhosted.org/packages/27/2d/182689d5cddeb6551758be94678ec08dd03c965db897227b99d13f9ad8b6/django-chunked-upload-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "c24b1a7a41387d09b5e68b56e80c8f57a8b7b3dd370038e7a5f0d9d931913935",
+        "url": "https://files.pythonhosted.org/packages/be/57/b4e79ff25ffe1c32a6685f6cdaf8eb1e00fab22fa3093d4322b0368e49ce/django-chunked-upload-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "276f618b74e3edbe5adc3d4cd2239167db5e9980ba7a872f01918eca576ab912",
+        "url": "https://files.pythonhosted.org/packages/eb/b8/ffbfb9291ef4850a5bb15adbe9c7878a1f891bb41ca9efe454fa74c1b014/django-chunked-upload-1.0.3.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "eccb6ed1e2e111341cffc0bc8611e9da99d5d40c2811f2de233e318d6b06ce2b",
+        "url": "https://files.pythonhosted.org/packages/c7/3b/3a653f3e27ae168b89fb8e2ab37f44be336ded99de33ff7548c986afed71/django-chunked-upload-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "1c3b0721e0aec9d409f0e6be1360f7b29f6521056ee84c5f97b7704873ddb16c",
+        "url": "https://files.pythonhosted.org/packages/b7/8e/d70d2de27ca9a6ee91c776d71850dafc1be5de2141023a159a4e69f5acf0/django-chunked-upload-1.0.5.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "35c3cc17b0344a09c876a91e6fd50f1c0e5510db9c17236563c0fa4934965083",
+        "url": "https://files.pythonhosted.org/packages/30/1d/4ab9a5dfd7bc1e6d54685fcd231809196954c73d68a7296d16fa64290527/django-chunked-upload-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "33a561ee6bf1843edc2760cdf74fccb81cc34b7cef0a09cccdc9601a49dae22a",
+        "url": "https://files.pythonhosted.org/packages/7d/da/411c50a5df0a61e6daef0962bc7d7942af94cf29847461505f15d44fd6c8/django-chunked-upload-1.1.1.tar.gz"
+      }
+    }
+  ]
+}

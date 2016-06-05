@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Parser for WikiCreole text markup",
+    "homepage": "https://bitbucket.org/thesheep/wikicreole",
+    "license": "GNU General Public License (GPL), BSD"
+  },
+  "versions": [
+    {
+      "1.1": {
+        "sha256": "f7090b61dc647979d12be9762e5b545f7d2ce5aaa104d57504b6155f98e1b135",
+        "url": "https://files.pythonhosted.org/packages/61/53/048a5f16b2a822c172783dac42fe66b4449715afb2ff02f1a68d0907033a/creole-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "8292e1d2ad5c80d9c1dc50b7078a7f208e3d670f4ff2d69ac58e6ffec7a80cd7",
+        "url": "https://files.pythonhosted.org/packages/90/93/15272a0dbcdbe02244ed410505e5a6c62f6e0fa37e1c6b15d4ce84ae6119/creole-1.2.tar.gz"
+      }
+    }
+  ]
+}

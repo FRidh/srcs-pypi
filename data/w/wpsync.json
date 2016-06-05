@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "A tool to sync the WordPress SVN with your Git (or SVN) repository",
+    "homepage": "https://github.com/hacdias/wpsync",
+    "license": "GNU General Public License v3.0"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "d764f3e79f08cc561116e6dcafcc4f0226249bb39d9e885ce01a55c531147e45",
+        "url": "https://files.pythonhosted.org/packages/cd/51/13850b550bc795350b219556ab82f0dd1cb2e060357f44c689f2fc3c0e15/wpsync-1.0.0.zip"
+      },
+      "1.0.1": {
+        "sha256": "423779730f16366853e59f02e23a48430762f06d7246c009d79ceb4781ca9a90",
+        "url": "https://files.pythonhosted.org/packages/b6/ac/b8d3240be7d07f4fa7b101454e0f9f78e9f4203940409bb533502e27ccb5/wpsync-1.0.1.win-amd64.zip"
+      }
+    }
+  ]
+}

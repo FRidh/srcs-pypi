@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "tornado plugin for Aspen",
+    "homepage": "http://aspen.io/"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "615a970434919d11579a093e5e0bb2abea0f4363f0063faebbe40e156eedb46f",
+        "url": "https://files.pythonhosted.org/packages/fb/f8/c83cfc13ead7986945c3e2dd3c9f4d929497a38a2a7ea970f46bed0d3e09/aspen-tornado-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "724e7642e79b1498640073c58fdb2e932ab777f29fd42ee255fb562953031605",
+        "url": "https://files.pythonhosted.org/packages/78/bc/3cc11d8f90e196629e70cc6f06138b51f975b97b336f8b4d71567fc319f0/aspen-tornado-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "9e1336aef22f6bc60b9e739b9a69394c441438a689d1755fc5744586fd24cbc7",
+        "url": "https://files.pythonhosted.org/packages/0a/24/597637b96c12060c0b7edbe5713e24077ac3e541b939bf0c79ea35341263/aspen-tornado-0.3.tar.gz"
+      }
+    }
+  ]
+}

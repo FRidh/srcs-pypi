@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2dev"
+  ],
+  "meta": {
+    "description": "Esta es la descripcion breve",
+    "homepage": "http://google.com",
+    "license": "GPL2"
+  },
+  "versions": [
+    {
+      "0.1dev": {
+        "sha256": "8eea97195336fc0c2e9db2f8c2b8fc49d1d88e2b43232615497f7d201bcd0d07",
+        "url": "https://files.pythonhosted.org/packages/0c/cf/ba9bcc674fde47fca3f730704b687d0696c12d62158ae3465f80ca566fdb/my_project-0.1dev.tar.gz"
+      },
+      "0.2dev": {
+        "sha256": "e529f94b6551228f63390dcbd29fdace912ed555fb7a9dc33f843f5407ecf1c7",
+        "url": "https://files.pythonhosted.org/packages/57/98/2b7a837ebb47d35be160a511282a51b8168d4849a186e7ebd14da863cb6b/my_project-0.2dev.tar.gz"
+      }
+    }
+  ]
+}

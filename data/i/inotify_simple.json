@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.3"
+  ],
+  "meta": {
+    "description": "A simple wrapper around inotify. No fancy bells and whistles, just a\n    literal wrapper with ctypes. Only 95 lines of code!",
+    "homepage": "https://github.com/chrisjbillington/inotify_simple",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "e197d4f27ae9052f170c8fb14b296c3a37607cf464bd03342c9e082322daa3d7",
+        "url": "https://files.pythonhosted.org/packages/71/34/0d4c92570cb0e83bbc6cc3a3bfdd6afd5b1d9374af18f6af52df5d632a37/inotify_simple-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "61ac77157c96940133332d576a3b0952376f0f0fe49952b801600629d6b5464d",
+        "url": "https://files.pythonhosted.org/packages/89/7c/a99c53ed2a8c5551a38280697985360fe41895f27f986e2931870753797e/inotify_simple-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "152e168555550a7d93fa921595c440ddb1fc395394c17e78f8e89ad0faf07f38",
+        "url": "https://files.pythonhosted.org/packages/96/46/961c442a84927e0987d10ac13715b42f4c0e4adee4e8a371f3886cabcee7/inotify_simple-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "2cbb1626f29a145593fa5bd9ba835039cc09e80c4c5f80dd43f34eb04ab965a3",
+        "url": "https://files.pythonhosted.org/packages/f3/5b/4f1ee0c608883081b0b53470d25ee689901999e0caa6b1ac38bd6b6d279f/inotify_simple-1.0.3.tar.gz"
+      }
+    }
+  ]
+}

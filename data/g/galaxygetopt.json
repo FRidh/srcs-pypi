@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.9.8"
+  ],
+  "meta": {
+    "description": "Argparse Wrapper for Galaxy",
+    "homepage": "https://cpt.tamu.edu/gitlab/cpt/pygetoptwrapper/",
+    "license": "GPL3"
+  },
+  "versions": [
+    {
+      "0.9.1": {
+        "sha256": "3f9ed238bdac5290bb57c29d5aa6eee12ebf213d9b5d41ffd6e3f3e74338e937",
+        "url": "https://files.pythonhosted.org/packages/b9/2d/5fde6a828c05d96c85a7e5766a1646e019ded0b3778c9c6ea0d30c738d36/galaxygetopt-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "d474d4f91c2ea0734443585a4cb178280bb6824e9805dd89ba3fd21e29a74149",
+        "url": "https://files.pythonhosted.org/packages/10/7c/d32854243f3a47540f429310bc6ab4d49457fe0661d6e435998c6a621ff9/galaxygetopt-0.9.2.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "84eb9f84351a5332d94b8581d4ec78af135722bd14cd24737ce640c0e74f5059",
+        "url": "https://files.pythonhosted.org/packages/54/02/d89a95b183b8b6f2f2a5a7714445a185aab6c5bdd9e06842fb38ef5bfdf1/galaxygetopt-0.9.4.linux-x86_64.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "b106fe37dee72527091e9eba7b8f28705eeb0108512bd39388ab147c9eecd0c8",
+        "url": "https://files.pythonhosted.org/packages/b0/12/ae510a8c4091ac0e2ca1d0e7cf9a9dea6abcd62a6f4a388ab4364c8ef50d/galaxygetopt-0.9.5.linux-x86_64.tar.gz"
+      },
+      "0.9.6": {
+        "sha256": "2fc4aeb13b5d3a53e563dae391cd7a238b17bb7240d1c579260849d6a3a7420e",
+        "url": "https://files.pythonhosted.org/packages/06/04/f1967f622cf8095c6f00f471512453c2a57f87eb86c9157961b3cbb466a2/galaxygetopt-0.9.6.linux-x86_64.tar.gz"
+      },
+      "0.9.7": {
+        "sha256": "89186550e67001f8d38fc7fa94ebcbb97afbf8a79056c44dcdc3a497e8c61522",
+        "url": "https://files.pythonhosted.org/packages/77/0b/c837f3de2c6e6015d89b5b93f1ea06b0ffab31b84fab9d1adb00c35159fe/galaxygetopt-0.9.7.linux-x86_64.tar.gz"
+      },
+      "0.9.8": {
+        "sha256": "1d74a4c9b9aefb7a80cd578426f1a379528f250b111fa92eece8fac7ce53b74a",
+        "url": "https://files.pythonhosted.org/packages/1c/2f/26fcfc222b118f69e441d0f60e7901f07de893b1712a8d819f0b0dda139f/galaxygetopt-0.9.8.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

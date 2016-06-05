@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.1.dev1"
+  ],
+  "meta": {
+    "description": "Cisco Enterprise Cloud Suite",
+    "homepage": "https://github.com/clijockey/CECS",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "7fdbfa9f32d560d3e8b89abfef21d5b0a079daf91548bea9cbe2306aff79df11",
+        "url": "https://files.pythonhosted.org/packages/4d/2b/799286b1f645eaa747019217b3b04735391b8c36bfd9d680242b7afc5f1e/cecs-0.1.tar.gz"
+      },
+      "0.1.dev1": {
+        "sha256": "f37d41f99f6838a235d1db605005d6e39a82366cc311739fcbdc170b504c4296",
+        "url": "https://files.pythonhosted.org/packages/fe/4e/c77c7e52796ea7aede1ce248f8a40fe6a428ec3016893ff052148442e343/cecs-0.1.dev1.tar.gz"
+      },
+      "0.1.dev2": {
+        "sha256": "0ad856bf2caeb02d8f60cc2e27ea6e2cf6919d6200990d5bb9687e2b50cbf2ed",
+        "url": "https://files.pythonhosted.org/packages/00/25/6ec2efa37968d4f0c9903cda6dfe2224e0706d8ad54059a67fab5e557d12/cecs-0.1.dev2.tar.gz"
+      }
+    }
+  ]
+}

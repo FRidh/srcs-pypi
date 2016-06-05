@@ -1,0 +1,114 @@
+{
+  "latest_version": [
+    "1.3"
+  ],
+  "meta": {
+    "description": "Python wrapper around Lua and LuaJIT",
+    "homepage": "https://github.com/scoder/lupa",
+    "license": "MIT style"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "18d20ff666eddf1b0e38ed549b85e417e6574eb6457b85157801eb34fa38e1da",
+        "url": "https://files.pythonhosted.org/packages/bf/66/e3a9712b8c2c9b2031ef54900763ae149e819eaf53384fc11ed523a61905/lupa-0.10.tar.gz"
+      },
+      "0.11": {
+        "sha256": "61aa75de347f375649a80050fd9145366a201eefe4a66c6b9014493a4ad5abc5",
+        "url": "https://files.pythonhosted.org/packages/2c/62/18b54a75846463d630fca6cb18f330d0ef9689852ada8fcdab60c080d1ef/lupa-0.11.tar.gz"
+      },
+      "0.12": {
+        "sha256": "5b93299f1ab71e7d8247ba679132f59afcd148b1f37d42011c75ad4579fa9018",
+        "url": "https://files.pythonhosted.org/packages/01/fb/5eb0741b223508c918451a81fbd735e0f8f72ee0d2e296e81b52df81a6a9/lupa-0.12.tar.gz"
+      },
+      "0.13": {
+        "sha256": "d276fc8de92168d2ad848a95149a98b77cb078631c7b9461bc7a72a99e4cfdbb",
+        "url": "https://files.pythonhosted.org/packages/19/c9/0f2dbca6d884c21f351a9b865d8575c9fe433353ee84a35a97d4e269f1e8/lupa-0.13.tar.gz"
+      },
+      "0.13.1": {
+        "sha256": "3de6ae99f1214c2906540627fec9d93bcc6387fae0ae154d40599da2deee8527",
+        "url": "https://files.pythonhosted.org/packages/4c/40/233157d06710fcce3a047030c950a31c1303f73a9b945d54c047876b9d35/lupa-0.13.1.tar.gz"
+      },
+      "0.14": {
+        "sha256": "929a04c49db1c077642ac782203db171e15370f9b0a79db818e9361b683ca0d9",
+        "url": "https://files.pythonhosted.org/packages/8f/bd/3e4435d11fbb2ad79c9a0e430b1eb24b6a707298a32b3d391c1198eff120/lupa-0.14.tar.gz"
+      },
+      "0.15": {
+        "sha256": "f8f9f52aa3a27d8cf5ecc4ebab99699440751b41f8838a2325830f570e3c9ca2",
+        "url": "https://files.pythonhosted.org/packages/a7/5a/2cad0ea0fcd5124eb277e44abba0f1ea0110af37b1be73798cbf311bce61/lupa-0.15.tar.gz"
+      },
+      "0.16": {
+        "sha256": "5b26672f63dcd1575da3b2157ec50cc5807ba18feed77921e80dc2e3fb43688d",
+        "url": "https://files.pythonhosted.org/packages/25/16/001dc1773bed934872bc3b1403f54b044902f0646f29869f2a0042c88c8b/lupa-0.16.tar.gz"
+      },
+      "0.17": {
+        "sha256": "e3c09872f71e52efd5f4e25b8094834ccc73953097ab860deefb2ceb684eceef",
+        "url": "https://files.pythonhosted.org/packages/44/99/d72121d7619cd67a6fd58cab105f5b1316ec1f7a778723371c21e3ad2e8d/lupa-0.17.tar.gz"
+      },
+      "0.18": {
+        "sha256": "e42092afc5237ae2dd3790f3ef537d702dc70b7debf87be4a735e8267a4a804b",
+        "url": "https://files.pythonhosted.org/packages/2b/32/6510a926fab54b8abe80d20ffcb860c394f1682535e7260653e5106f5a15/lupa-0.18.tar.gz"
+      },
+      "0.19": {
+        "sha256": "33ef5f33d559e30c974f92b9500bab8d96de73a812892a17428a1d7aeea7bcf3",
+        "url": "https://files.pythonhosted.org/packages/24/c8/052cd93976f6db17770a39764f512ebcc8672d79c2371de1d38cb1917a7f/lupa-0.19.tar.gz"
+      },
+      "0.20": {
+        "sha256": "c9cfa208ad4c6364ed83ee22bcba8b130c7f164a2f75245d14115f410c42c5f3",
+        "url": "https://files.pythonhosted.org/packages/f3/b5/3ad427791ad7fc1bccfe4bfc62cf9e48acce4ba95ab085294f2452559623/lupa-0.20.tar.gz"
+      },
+      "0.21": {
+        "sha256": "af313e9c8d7cdcdfc395144e06a2730f9fece9cc51110443d4807ea2ac446652",
+        "url": "https://files.pythonhosted.org/packages/5b/a3/3436bb7f5256e6475d25b4a52f2c576faf99f5ae602fb7dd25d09bacf192/lupa-0.21.tar.gz"
+      },
+      "0.4": {
+        "sha256": "2d086e715e0f0378251d0efb3569ae4237810ebc2d51bb141df991e8ecb65c13",
+        "url": "https://files.pythonhosted.org/packages/65/82/d37c1774c17d0963af30e440af93206a1b23d6534523914c4d88035e80ca/lupa-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "2988a297ce8acc335220eb5d7f48578c5077ab3e1c610dc470c31741f55ed612",
+        "url": "https://files.pythonhosted.org/packages/b9/90/09ad5cf364c2e8e5ced0373b5ce1b2a1357b962b2f10d33a90fefe44347a/lupa-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "d287aa3204d1c1daff5630790cc5f60d51703275619d024cda7d3fa4570fb764",
+        "url": "https://files.pythonhosted.org/packages/d5/1c/09ea2f75f3c869be1f861bf5f125773e10fe73c516eec22a576d65b46962/lupa-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "642d445e2b17c404e4b15cf319e31af07849c325d601f384c0f7ab13aec9786c",
+        "url": "https://files.pythonhosted.org/packages/9a/98/343907b46221215686363f0dd1c78af6f1d8f6a1e5e21c6e5ee38850efd2/lupa-0.7.tar.gz"
+      },
+      "0.8": {
+        "sha256": "994781e86badb165b57fea2b45b5e598aa44b208b48399699b5096a9cef2dbb0",
+        "url": "https://files.pythonhosted.org/packages/bb/75/b3f4d947cf7846b9ebaddf15469c11444e60e5d6017a355e533b2f84c189/lupa-0.8.tar.gz"
+      },
+      "0.9": {
+        "sha256": "bb32192741b42d81c312a7724ef738b9c724d9dbc45a16af42d52410aee9b1af",
+        "url": "https://files.pythonhosted.org/packages/73/b7/020c2e99a9509ac27664b4c56a4e5bef57a98643dc649caf61a937701320/lupa-0.9.tar.gz"
+      },
+      "1.0": {
+        "sha256": "d5cba5fd5c6c068cba214d503112cbab6b53518a4cf38a3bd513bee663f6480d",
+        "url": "https://files.pythonhosted.org/packages/15/ea/ad15cffc65fc9c209cdf6ff0464bfbf11fb8f1923e06ff72a34bc5798737/lupa-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "6e7039369aebe76cfd6a89af3368e051ab11457c572154bd1df01f5d59f3e02d",
+        "url": "https://files.pythonhosted.org/packages/9c/b9/e85ae1bad1b2f6afc39608de8926bfe8c7f8cea50750f469650fe0a49fda/lupa-1.0.1.tar.gz"
+      },
+      "1.0b1": {
+        "sha256": "8415250a198a2cd1422101ab4e8100f7b38b167de9407009be47418bf38d3386",
+        "url": "https://files.pythonhosted.org/packages/d6/e8/1b2877bf5e239b56c611996f46ee7ba1f24bf6d60aa9fb240c3e1a530ef5/lupa-1.0b1.tar.gz"
+      },
+      "1.1": {
+        "sha256": "1e5f583d58ea23146717ba79fffdf7760a668d45015876189d863cebed4c841f",
+        "url": "https://files.pythonhosted.org/packages/90/27/04fce5a1ae86cad4af2f984a701f0234be484b90718814649cb098a06bc2/lupa-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "6c9b5ededdbdb6608ae369b483c5ed3c20050c904324d844ea6e95667bb3701f",
+        "url": "https://files.pythonhosted.org/packages/38/82/f2a1c728c0ee283d39f37cc1e4401a0ec8740e71e8fe18bc1f9a754a3afa/lupa-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "b34bc0111c3b9a9823e546059e7e1b4a29faea3edc815109251f58f5238c7005",
+        "url": "https://files.pythonhosted.org/packages/06/db/ed05441508f1aaef2f8c41ff3440d26a5e42b85c1fdcd2c1dc1fd3c7b07f/lupa-1.3.tar.gz"
+      }
+    }
+  ]
+}

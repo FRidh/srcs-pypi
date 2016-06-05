@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "4.0"
+  ],
+  "meta": {
+    "description": "Python wrapper for NHL Stats API at nhl.com",
+    "homepage": "https://github.com/peterstark72/nhl",
+    "license": ""
+  },
+  "versions": [
+    {
+      "3.0": {
+        "sha256": "eef4d8c019ebe043f0b6e9238c198bb12a37056a32856746064a2ea3ce534a6d",
+        "url": "https://files.pythonhosted.org/packages/c2/51/d6403f924f0bfb73906c355ed7b9723459ffe5f93493f4c3a64a3345eed8/nhl-3.0.tar.gz"
+      },
+      "3.3": {
+        "sha256": "9516a9c522b5b2b88159a3fc0479435e146b9789bc720eb8cf4ed2fa3685efa0",
+        "url": "https://files.pythonhosted.org/packages/48/88/876c8e600f6497f764301a6da5a2f84c85fb03b419187a958ea865973d0f/nhl-3.3.tar.gz"
+      },
+      "3.4": {
+        "sha256": "d2702bdf68d52cdbdf8be8b7038cb57de066b11e7e6e7856c22503537f29ebbb",
+        "url": "https://files.pythonhosted.org/packages/0a/bb/72241714d9f63a4e9e0b7afe5885e1134a60f2cbda1f1887e33d9f70ab30/nhl-3.4.tar.gz"
+      },
+      "4.0": {
+        "sha256": "e6db19c53dcfba225df0e88204ee4b62b43c77559c208c72d2ef6ef39cd4e912",
+        "url": "https://files.pythonhosted.org/packages/bb/43/774a9df219a801443189802e7b1094af09a8836908b6e5a3ffa78509d395/nhl-4.0.tar.gz"
+      }
+    }
+  ]
+}

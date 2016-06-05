@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "6.1.12.dev9"
+  ],
+  "meta": {
+    "description": "Software to accompany the Focal Plane Electronics (FPE) for the Transiting Exoplanet Survey Satellite (TESS)",
+    "homepage": "https://github.com/TESScience/FPE"
+  },
+  "versions": [
+    {
+      "6.1.12.dev7": {
+        "sha256": "023463489152a51cd6b6ce2ec27f066f15d82627102bb4a77d3404f14bfcba55",
+        "url": "https://files.pythonhosted.org/packages/f8/20/9274aacaa5827136f5dd010b7fb432c05c79d329b47166f54bf36efbe6ee/tessfpe-6.1.12.dev7.tar.gz"
+      },
+      "6.1.12.dev8": {
+        "sha256": "f883d93a12cf5aa4a030711a8bf5408f56896ad8b489a229d3a5c87665eae91d",
+        "url": "https://files.pythonhosted.org/packages/78/85/2b3899196ec93a96d5ae8590800104b52ccb5b03184d05433c988ed00ded/tessfpe-6.1.12.dev8.tar.gz"
+      },
+      "6.1.12.dev9": {
+        "sha256": "bfaa26404a43a201ab356e2e100d234ab065ab259ca0c2265b6ed5ff578ec159",
+        "url": "https://files.pythonhosted.org/packages/bb/bd/20b20e2f8b074a75021b09cd2e2a900e4704035b865ae8a12e81c6f3057d/tessfpe-6.1.12.dev9.tar.gz"
+      }
+    }
+  ]
+}

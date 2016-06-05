@@ -1,0 +1,58 @@
+{
+  "latest_version": [
+    "2.0"
+  ],
+  "meta": {
+    "description": "Django extension to allow working with 'clusters' of models as a single unit, independently of the database",
+    "homepage": "https://github.com/torchbox/django-modelcluster",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "88135acf8ac9f2dafc9957591580f42a16577af44f5911d589b4dec2612f86fb",
+        "url": "https://files.pythonhosted.org/packages/06/9e/a2218f89f43ec354c16a735e0c1cf3bc5811807e425f5fe36d201fe409da/django-modelcluster-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "f06c6475f1d5621a855d153bcf02d81038740596401d4405fc6f225321413627",
+        "url": "https://files.pythonhosted.org/packages/a9/a2/4319504a205258b575ac59b66fdcabffc10abc24a86278e672de83a8b397/django-modelcluster-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "a0fd6244bac2d4fcd974ae39270606909c5844af0f143fce8da7635dceacc9de",
+        "url": "https://files.pythonhosted.org/packages/a8/45/7a396cf5570bd6bb3944c950113f9e9c5dba38689f920412d38e86eed0c1/django-modelcluster-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "a5635bff2116b91f651880ebf3e617eae0886e7438e12ff91a6886ae5d53397e",
+        "url": "https://files.pythonhosted.org/packages/59/c6/557c3598ff59c10bd2ed173c4d66a086f9a708fffc92903198857f5549ef/django-modelcluster-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "1b2fa7fccace01b7440231c52bd60fc5d45f31070d25a5eba51da70edfb7e910",
+        "url": "https://files.pythonhosted.org/packages/23/59/69ef6cfed21c1e170b481e7dcc2761ccbfe09c7dded0eaae56992f0ee346/django-modelcluster-0.5.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "8a5b771e8d904de81a7d028f4fa3c048a1df9abb5724a07aa843e52126dea809",
+        "url": "https://files.pythonhosted.org/packages/d6/00/4f661c523e06e1f527e8b5d529e85734339680e3cb0560a8c822656563b3/django-modelcluster-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "fdf25a22268d33626905b638cda4aa1e3c2719cb9aa6d39d1652ef46486c9ade",
+        "url": "https://files.pythonhosted.org/packages/fd/c9/0dfa59d8805cac598ee79f198aa9212971d1302971cb148b82c62d8f06e0/django-modelcluster-0.6.2.tar.gz"
+      },
+      "1.0": {
+        "sha256": "d44739977d39050c764836db64b1a9f9f62a636609da6424d3f72f84995264de",
+        "url": "https://files.pythonhosted.org/packages/d2/3c/997c917a48eb3faba028ec2698465e070a8e6baa516dd93991cc0666aef0/django-modelcluster-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "9e60cfadc6c03a69187484ee833a8649b4db78e78fa402fb2cb1323bddfa7b41",
+        "url": "https://files.pythonhosted.org/packages/e0/b5/63573f7f3c824fbadcb197ae2d01fb4512a001392d416afb6128521e458f/django-modelcluster-1.1.tar.gz"
+      },
+      "1.1b1": {
+        "sha256": "86624276558330632eece0f4185402d0ebf76153fca2c3b152b2e8d300967108",
+        "url": "https://files.pythonhosted.org/packages/aa/d5/f74509c686937e3169fb1397927c09dfc902e6868fa04ae2ab6c2742da10/django-modelcluster-1.1b1.tar.gz"
+      },
+      "2.0": {
+        "sha256": "c73033cbc9afb9e52208c2ffacbc2ffcdd078591e7b214982679aaa21b0f36e9",
+        "url": "https://files.pythonhosted.org/packages/8f/d9/c64f188e796ca2614fd6d95e70eb135c96ffe806cc34b80a600dee68468d/django-modelcluster-2.0.tar.gz"
+      }
+    }
+  ]
+}

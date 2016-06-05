@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1"
+  ],
+  "meta": {
+    "description": "Django tools for WTForms",
+    "homepage": "http://github.com/wtforms/wtforms-appengine/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "ec111d87ada0d0592f04403a2d3ff1ea8a43d95c3dc4489c99ad24dc9b1ee262",
+        "url": "https://files.pythonhosted.org/packages/c2/37/bcd4230c193b93d3612a9eb6d4db547a1e0b87bac5273d36b4df8e5b8584/WTForms-Django-0.1.zip"
+      },
+      "0.1dev": {
+        "sha256": "d0c3c47f9c0c18d572dc43b342b55f00322e799418465a5ef12df1fd4118148c",
+        "url": "https://files.pythonhosted.org/packages/29/0a/5dae1e2d7d7598a9d6f433e1a2ee17a6545951805a8935a8322bcb476636/WTForms-Django-0.1dev.tar.gz"
+      }
+    }
+  ]
+}

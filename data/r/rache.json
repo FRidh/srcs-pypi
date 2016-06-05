@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "A scheduler backed by Redis with a very simple interface",
+    "homepage": "https://github.com/brutasse/rache",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "91820bbd00b4e8ed7b46b68c1e85d1092ab0c279bae85e6e368810e3cde9a852",
+        "url": "https://files.pythonhosted.org/packages/ce/23/5a8d66c013be633b52e3f8e4ee147fff9cef5824218161ed29661cea4916/rache-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "325b0983ac3e11abed172173cbc6804809eaa4dd50c6827f03caf0d55a79f6e1",
+        "url": "https://files.pythonhosted.org/packages/84/5a/8a1e8bafc3f6e6076ce01b68bb0b25ef05506522107159f87edcd1a16bd2/rache-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "d6a54c7af504eb53dcdf16d189b4867f433e0372092313c0ea2b25a78b3952e0",
+        "url": "https://files.pythonhosted.org/packages/d9/74/f920d1e59c727bd20cec56401c2b88e9d213c212a841d6f2a7a0234dc034/rache-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "b09aeb31c8cf89a4e13045da8c91f3b38baf8e202e390b6634ca52de9d2b6ca4",
+        "url": "https://files.pythonhosted.org/packages/cc/93/af1fc684e388e484bff99849458a2ddd9898a9d0762f8d3596a3693f671a/rache-0.2.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "77e346c343c48e1db00c17e31daa5256882bbb48535ccaa8ef07607749f08d75",
+        "url": "https://files.pythonhosted.org/packages/0f/6f/73b266c1d43cba70ee82b3f1a92df82ded2982e4f437696fb1b35a9d2de8/rache-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "2cc51871831f48b68b459414957d5b4e6b6d6b85c79213bda4202b45e1db42bc",
+        "url": "https://files.pythonhosted.org/packages/4a/77/b1cf8b556a8b630bc75606186d1fe7f567546560be2ff9d7abe43d3521b8/rache-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Python polynomial library",
+    "homepage": "http://pypol.altervista.org/",
+    "license": "GNU GPL v3"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "e3f7e8c69cb6a0e64364e1905575ffca0fc1536237b3028d134a505b49a3522d",
+        "url": "https://files.pythonhosted.org/packages/f5/80/4df849001b9c0ccb0efef8dfd0b31afce759cabbf45e9a9919fd4e3ddc9d/pypol_-0.2.linux-i686.tar.gz"
+      },
+      "0.3": {
+        "sha256": "aea3b46288fc47d54526e056c9ebe6c8cea9eb3c837cdaa1e6258e7ab0a424d5",
+        "url": "https://files.pythonhosted.org/packages/19/2b/fd850854ea34914e6b97571ec9d62501cfcce76d0330eaeabd0d42b9d3a4/pypol_-0.3.linux-i686.tar.gz"
+      },
+      "0.4": {
+        "sha256": "dba4d1f106078fa4bf78328b765bae61a61dffd3e4e7a1cb452da335b57e7a89",
+        "url": "https://files.pythonhosted.org/packages/1f/7e/adc85b612de272a0bd8d522e24923cae2a2d693c09e48db72a9fc15aa845/pypol_-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "6d84f0ed421576fa697f6d3faaea30199cfcba7d9947c4823a145aba016dadfa",
+        "url": "https://files.pythonhosted.org/packages/e1/ba/2dbf84eda1c905b49766a145a2d2970b4a2ef968c62a6b38fda785b0cb6b/pypol_-0.5.tar.gz"
+      }
+    }
+  ]
+}

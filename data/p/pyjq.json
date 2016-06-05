@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "Binding for jq JSON processor",
+    "homepage": "http://github.com/doloopwhile/pyjq",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "fc06f90a351ebb05e7ab6c12bb769d7771a0d76df6eb07ea00de137e67c348b5",
+        "url": "https://files.pythonhosted.org/packages/14/c8/03bc4f41abe4b1e900d9bc1f1cebdb79f998a5563364e6ea1533f7b228f8/pyjq-1.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "c34e69b0bcad21877e82c146d6e13e15f999d429d33b36dac2a18899fda2abc4",
+        "url": "https://files.pythonhosted.org/packages/3d/ce/a67e6a4ad12e766f01f67caff3313e876bcfcf4360512194db9af55b80c0/pyjq-2.0.0.zip"
+      }
+    }
+  ]
+}

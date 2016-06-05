@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "Console app and Python API for determining beam integrals of all 6 supported beam types, as described in D.D. Milasinovic, \"The Finite Strip Method in Computational Mechanics\" (ISBN 8680297194)",
+    "homepage": "https://bitbucket.org/petar/beam_integrals/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "849b08a7a6d6e1e2ec1d93d8829d7217c546017f6cf865655bd421aba92ffe25",
+        "url": "https://files.pythonhosted.org/packages/a2/28/0f12651339d6969fb2c0bf097af4324a47e6ea996fff207b2a902a89ec46/beam_integrals-1.0.0.zip"
+      },
+      "1.1.0": {
+        "sha256": "33265a640271183ee5166dd55e85815a682cc84e4a690f27e01abfa05827c101",
+        "url": "https://files.pythonhosted.org/packages/fa/40/b17154e6b13ece654000fe6c9a9b28b8bfa7df3ee4441f47a99967b81fa6/beam_integrals-1.1.0.zip"
+      }
+    }
+  ]
+}

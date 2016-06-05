@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Filesanitize is a small library for making save paths and filenames by removing accents and special chars",
+    "homepage": "https://github.com/marcinn/filesanitize",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "71a218ab5355f4797ca9d44cceb50e533b5b5f46280d3ad04025e56f687b055b",
+        "url": "https://files.pythonhosted.org/packages/2f/25/0b0e96a1d3780a993e6c68f68bd9f4c5f558fceb05a0c38f75e4e4c31830/filesanitize-1.0.linux-x86_64.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "64aa17e50e11089f97d82a110e72eee0d42a26b549a90ac878dca37cf6af0811",
+        "url": "https://files.pythonhosted.org/packages/2e/af/899f8a52fc85b68e7a7253be91a86ebc12c712561815d1be844c8047601c/filesanitize-1.0.1.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

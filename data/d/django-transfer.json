@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2-2"
+  ],
+  "meta": {
+    "description": "A django application that offloads file transfers to a downstream proxy",
+    "homepage": "http://github.com/smartfile/django-transfer/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1-1": {
+        "sha256": "92ce4ea74a0271ea035c0904997e1573d20794ca7f6e48675ed167aae9b79ae4",
+        "url": "https://files.pythonhosted.org/packages/77/54/97422c3c30790a18f69f6bfacb859dd7a496f47606fb72e540115b2a8401/django-transfer-0.1-1.tar.gz"
+      },
+      "0.2-1": {
+        "sha256": "939020278cb596630e7e6aef3ae9cd9369c10316c45b70ef33f757f791d40845",
+        "url": "https://files.pythonhosted.org/packages/69/a9/661c867da019f9ad046e0e32e86ab5ea511b855cbcda8eff499b73ad6c05/django-transfer-0.2-1.tar.gz"
+      },
+      "0.2-2": {
+        "sha256": "85962728916478128365ac6dc77128dabbafbe477be82cf98b01eeb543eda834",
+        "url": "https://files.pythonhosted.org/packages/f2/18/b861feb0171509c665f326ed664c505ee7dcc5b522adbbfae2f1773bd55c/django-transfer-0.2-2.tar.gz"
+      }
+    }
+  ]
+}

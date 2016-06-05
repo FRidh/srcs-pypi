@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Opinionated saltstack formula dependency resolver",
+    "homepage": "http://github.com/ministryofjustice/salt_shaker"
+  },
+  "versions": [
+    {
+      "0.1.2": {
+        "sha256": "55e6d8e2c22778e6f36b303f02413577817286125dc0eb15b24a31478c3a5966",
+        "url": "https://files.pythonhosted.org/packages/64/39/b085ee16a686e3afc5722d082b1a4bd06cfd32b5431878c917e2455b0144/salt-shaker-0.1.2.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "320450f01cc896c9f34d38f4b122605505b1c2cfe7afcef0b2a6a25e1a888acc",
+        "url": "https://files.pythonhosted.org/packages/84/a6/526c5f1147f60dc00b50d771c40ee590c43f5d3375d650f8df89766bd056/salt-shaker-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "1d43012e763e01c304dbe6a1fad4892915e31423ea63a7c031650e42f71aabb6",
+        "url": "https://files.pythonhosted.org/packages/d6/a1/ef2412092789dfd7a9682ba2637041dd1188a57377c0fc6e646b595c2f0d/salt-shaker-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

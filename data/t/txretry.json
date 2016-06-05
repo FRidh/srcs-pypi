@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.0.2"
+  ],
+  "meta": {
+    "description": "A Twisted class for retrying failed calls with a customizable back-off schedule",
+    "homepage": "https://github.com/fluidinfo/txretry"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "cce91259d804f61e1fdcc3dadfc941f8ef2d5c24ad0dd0bddf8dc78560da309a",
+        "url": "https://files.pythonhosted.org/packages/b9/5c/b49d77298084730d249e05d739d35edd0cb6e6a742f8338a4298c3675cc7/txretry-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "536a6dcedf3621d083b167a2b9738a473ba7da2977faa768e86bfcfeebc1d32f",
+        "url": "https://files.pythonhosted.org/packages/f9/ab/45df3008cb83ce4e78777ed661afbaacd2dd4461fea32f4f20edd051f347/txretry-0.0.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "A ptpython and ptipython plugin for pyramid pshell",
+    "homepage": "https://github.com/dakra/pyramid_ptpython",
+    "license": "ISC"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "e0cb6715d8787ece1ac82aaf23806b7408ff4db6906faf823776ce4144c798ac",
+        "url": "https://files.pythonhosted.org/packages/0c/ed/73d7688ad7389883313c5102cf779ecd41e8604b2df8dacc99590e89da9b/pyramid_ptpython-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "358d98dc680b6a51c2dedf9c5bb1091034cb2fa1a21c69d19287fe6badab020d",
+        "url": "https://files.pythonhosted.org/packages/62/bc/599981ebdda7f65ba865c289f96eebe51aed30c16864b9a6626a5463df18/pyramid_ptpython-1.1.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "5ba778978394dd06735191c0593594b79dd1972bc7dbcee8ebb64a188c6d0c17",
+        "url": "https://files.pythonhosted.org/packages/e2/db/832607c029e8870986e9ec119dce096272c2ccbcb2b9cf191fb1bd73e158/pyramid_ptpython-1.1.1.tar.gz"
+      }
+    }
+  ]
+}

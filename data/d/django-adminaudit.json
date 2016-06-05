@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Extends Django's admin logging capabilities",
+    "homepage": "https://launchpad.net/django-adminaudit",
+    "license": "LGPLv3"
+  },
+  "versions": [
+    {
+      "0.3.1": {
+        "sha256": "87f2fe5d22b1d9ca59b242412847752e81776e2cab57ec77f836801cd82ece68",
+        "url": "https://files.pythonhosted.org/packages/9a/bd/0600f35107563918c426616cb680ef6bae5b35fbba9706e7bdf65495e74b/django-adminaudit-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "f2580f4fbe4ff936584a2493560d193112f07a956018c47237052744447c7cad",
+        "url": "https://files.pythonhosted.org/packages/a0/49/9c2925ceb3fcca1c23bb9c44ba327f9003d9fa0301d930302741871f543c/django-adminaudit-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "701e36852930f9718e1234f7021c5394e065b5b43ec621f2bb5fcac888403fd5",
+        "url": "https://files.pythonhosted.org/packages/1f/54/301ecacd68dc3a78c3e04ca9fd3fd89f92d145c058e17d892e75deb028d4/django-adminaudit-0.3.3.tar.gz"
+      },
+      "0.5": {
+        "sha256": "75623b3e9d8bc5a99ed4cb7399f60180cf5da5b625de6ba4e463d8b38e60cf98",
+        "url": "https://files.pythonhosted.org/packages/1c/d1/eec26b088a3a41b6ba149a40b1b6c8faf4fe895552b65d03ba58d673e567/django-adminaudit-0.5.tar.gz"
+      }
+    }
+  ]
+}

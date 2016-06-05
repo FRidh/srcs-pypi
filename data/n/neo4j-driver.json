@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Neo4j Bolt driver for Python",
+    "homepage": "https://github.com/neo4j/neo4j-python-driver",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "b7dc743e7cf93eb1957043c1ffaa6a4f01b54532ee7b8d19e99924b26b988204",
+        "url": "https://files.pythonhosted.org/packages/62/87/05691e89cce3810f99599cf8dfc237d7fe7caee7b21b8ad0c282519b538e/neo4j_driver-1.0.0-py2.py3-none-any.whl"
+      },
+      "1.0.0b1": {
+        "sha256": "b391307d22e2eeec20617ae37b3873f36c8e2384c181233e602c4bec3512762c",
+        "url": "https://files.pythonhosted.org/packages/df/c5/22e3b3c66ca9cf9e3bb145019e08470b14ef048a9f926927bbc8b695e6ea/neo4j-driver-1.0.0b1.tar.gz"
+      },
+      "1.0.0b2": {
+        "sha256": "1ac9aa2a03eec3d4c32cc691ea43e05671db10f0301b891b09c4e8bd6d6e12f1",
+        "url": "https://files.pythonhosted.org/packages/04/89/4197afaab5dd7d74bdf10e50e52ffc04ef5159836a39145a94858ce97c9f/neo4j-driver-1.0.0b2.tar.gz"
+      },
+      "1.0.0b3": {
+        "sha256": "cc200c2a3e45ff659ddc50c82397434b9d1776d297b6cc754a857b4a46ce46c7",
+        "url": "https://files.pythonhosted.org/packages/c1/6f/ea5381e761d414e714193f04829efad0ab7b3fe534fb25796cc65202396c/neo4j-driver-1.0.0b3.tar.gz"
+      },
+      "1.0.0rc1": {
+        "sha256": "5342d038bceb6738d6014a959459aaa68d7215dc2d0b089f80cb453a15748671",
+        "url": "https://files.pythonhosted.org/packages/d1/a2/b3ac46932cc1ac42db5f00abf67e1868f40f5a8e416040d77f82995d3a89/neo4j-driver-1.0.0rc1.tar.gz"
+      },
+      "1.0.0rc2": {
+        "sha256": "833306709e7c35fbd25b4f2e1f3639495c8067aa5adcc9d9c9172032d77adbb6",
+        "url": "https://files.pythonhosted.org/packages/30/d8/01fe9784b53832880475026fdd3ff2b5509aa501d5589eeb19d9204c0202/neo4j-driver-1.0.0rc2.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "d296e6ca1e87a3389a3c0ceb52748e2fea9d8af75480f1729572deacb4e19d15",
+        "url": "https://files.pythonhosted.org/packages/85/d5/37fb602e4740f434a3cae55197d82b50131272b50b2744c57c1e3f5a31ac/neo4j_driver-1.0.1-py2.py3-none-any.whl"
+      }
+    }
+  ]
+}

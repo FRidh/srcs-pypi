@@ -1,0 +1,498 @@
+{
+  "latest_version": [
+    "0.6.17.dev62"
+  ],
+  "meta": {
+    "description": "Active learning models",
+    "homepage": "http://github.com/dossier/dossier.models",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.0": {
+        "sha256": "595e666f819cbad611fbdaa045feb4ce2f11502499a7c54bd1ad9ca25875cc6a",
+        "url": "https://files.pythonhosted.org/packages/02/cb/bbce7229d7901caca46815f8137ef9fa3e731777351f5790ad187b588a54/dossier.models-0.0.0.tar.gz"
+      },
+      "0.3.1.dev11": {
+        "sha256": "c6ebff459883d4b61042ee8bce7d07273c5f98f2260220b02f57c80cae71b165",
+        "url": "https://files.pythonhosted.org/packages/4c/4c/d73bbfe37a7c32b4aa925a054cb5d014295dc3449404c594f746a77192f8/dossier.models-0.3.1.dev11.tar.gz"
+      },
+      "0.3.1.dev12": {
+        "sha256": "ba77cf3638d87e226de973420a7d587e64c3fb4e097ae615535a8695ca31d682",
+        "url": "https://files.pythonhosted.org/packages/a9/52/bf36198a2e6b2f14bf386046449d596274d758d639bf879ea57ff882e7e8/dossier.models-0.3.1.dev12.tar.gz"
+      },
+      "0.3.1.dev13": {
+        "sha256": "700d3853f557832df9c93fd879c03eeab8f0243d309c5cc2be841dcb534e7bad",
+        "url": "https://files.pythonhosted.org/packages/8d/df/75be1d7476ab23d09f27c4dbc0e17410a22839fb9488654373674ca5a416/dossier.models-0.3.1.dev13.tar.gz"
+      },
+      "0.3.1.dev14": {
+        "sha256": "76b05aef8e1341246b03b4ad61331f8d71bb736e8e67aa1cdd7832b63ee7f690",
+        "url": "https://files.pythonhosted.org/packages/a2/5e/789c715f47c1a34cbc34f005f48b724eb1f08fcc54e5285e6737b3046876/dossier.models-0.3.1.dev14.tar.gz"
+      },
+      "0.3.1.dev4": {
+        "sha256": "22def4f6a4589cfe0d0de906ff85076b80d6eda783bf33c36a900baac5d5ce6e",
+        "url": "https://files.pythonhosted.org/packages/6f/e3/f431c5295663b2ee91b6949c2f88669760e14761497bf4b4ea90cfaf2eda/dossier.models-0.3.1.dev4.tar.gz"
+      },
+      "0.3.1.dev6": {
+        "sha256": "be34d02d368f2be420df231c56aa8ba67cc87d9c09a6dcc8c6967bea11e5a13a",
+        "url": "https://files.pythonhosted.org/packages/70/36/fc790dca856375ec52de49f77b15309bc61f53ac3d26a142336ee1fae5ba/dossier.models-0.3.1.dev6.tar.gz"
+      },
+      "0.3.1.dev8": {
+        "sha256": "2a023a935b95a9fe3bbea9d6bb318f2421f5e0bf6c36d64893bba6a0cb3067a4",
+        "url": "https://files.pythonhosted.org/packages/13/64/795bcb6e84dd346ca9e57bdd515ab935448e966ce30d343b811d737b706c/dossier.models-0.3.1.dev8.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "732b0f45b8612b711fd51764af79ef11b237ac0acdb339b71b61a61824ccc3d9",
+        "url": "https://files.pythonhosted.org/packages/2e/93/f9610eda27280c544baa636169d7e1cd231ab5235f3c8bc9565bfa3a827e/dossier.models-0.5.0.tar.gz"
+      },
+      "0.5.1.dev1": {
+        "sha256": "9c5fa2625c0474c0768640200361c9e5ed1c4ed0d852ad047a32cd6fca9bd87c",
+        "url": "https://files.pythonhosted.org/packages/ac/3a/ce8349c31d7507bcd83197cdc3a8f1a1168d84765b0b8856ab6b07c46747/dossier.models-0.5.1.dev1.tar.gz"
+      },
+      "0.5.1.dev11": {
+        "sha256": "5b92afb3818df49a976de183fa58431fa59cdf8d55a22d67cd815aabe90a6b53",
+        "url": "https://files.pythonhosted.org/packages/9b/9e/c8ed5fbc0555d88d327b6fb57a498472165e9a232f1c9d5ae2425959ad26/dossier.models-0.5.1.dev11.tar.gz"
+      },
+      "0.5.1.dev2": {
+        "sha256": "f696edaf63cd4b8a85d965987d0d36a4ed5d6cf122d8d154b260d88f824e16bb",
+        "url": "https://files.pythonhosted.org/packages/ba/bc/a297dfb31ad13a606cf8f7ab5326f566114f9c2dcb293e59b9b08e0b401b/dossier.models-0.5.1.dev2.tar.gz"
+      },
+      "0.5.1.dev4": {
+        "sha256": "0c2ec73391c97e980d318d6f5039813846f97f2672ee307f86e5577588cbec9b",
+        "url": "https://files.pythonhosted.org/packages/ce/14/fbb8b1b224c8ca9fcd026f66b8f10dd0bc91ed0fe371bf830a6b09a0a145/dossier.models-0.5.1.dev4.tar.gz"
+      },
+      "0.5.1.dev9": {
+        "sha256": "dc248b71e8cf1de6d0f380a93591b6df326a6eae66ec9893677d9b88ee6f6b45",
+        "url": "https://files.pythonhosted.org/packages/29/26/1e56f0a12f4b21822cd1fc9a508d1a616afaeb1881d798f580c8a6ed9659/dossier.models-0.5.1.dev9.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "868db0bc3c3eccb9488472de246f70e97a8959df651b20d1bcee88cae7518d4b",
+        "url": "https://files.pythonhosted.org/packages/c6/d9/6d1945c85a7f0493788b9e961a89608408a4b6b4d459a9bc34dbb44654c0/dossier.models-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "34dcb7b5abb4830910cd32b629314746702d2051455eb8fb3aea90ffd17b5d55",
+        "url": "https://files.pythonhosted.org/packages/31/c1/ca1f22ad0e4177222989eb462c80547b4af1e794ab6417f7f890c658979f/dossier.models-0.6.1.tar.gz"
+      },
+      "0.6.1.dev1": {
+        "sha256": "7515b560d26bbca55b989addf949059be65d26e7f21ac4610152d7210b24d3c9",
+        "url": "https://files.pythonhosted.org/packages/49/09/3c9ad9bcd11faac0d33cef96f2c90b8643ece6dd3a18f5968ab3dded553f/dossier.models-0.6.1.dev1.tar.gz"
+      },
+      "0.6.10": {
+        "sha256": "bf0b677fc85409f1b9e0eb724dfa679946af386b4761f9d04453ae11b938b302",
+        "url": "https://files.pythonhosted.org/packages/ee/84/7bd3b0929f5df93e4382e8d6262b039b6f4ee59a1db3057b84252259ba26/dossier.models-0.6.10.tar.gz"
+      },
+      "0.6.10.dev1": {
+        "sha256": "f8f832e5104bd12023a8b20d1c20c9181e78129524e978970037608349cb6a55",
+        "url": "https://files.pythonhosted.org/packages/64/7c/f6ace1048a15e6c1a1deece8702d86f61e3937fc5fb6136dbf2731a332f4/dossier.models-0.6.10.dev1.tar.gz"
+      },
+      "0.6.11": {
+        "sha256": "1199e8378a9ea0b53535834be9164ef981dfcba15f7f87c166f351c51199b3f4",
+        "url": "https://files.pythonhosted.org/packages/6d/b6/98fff98ee01a889865a05351c19ea3d7bd2da603b43e8a821ae005d38707/dossier.models-0.6.11.tar.gz"
+      },
+      "0.6.11.dev1": {
+        "sha256": "ef52170a0427e7d7a8fc29a785660f3444b2a378bc82c8217caddd526b0a7302",
+        "url": "https://files.pythonhosted.org/packages/fd/90/cdbe91559c45f53afe0ffce685bca4757ee7432ccad19c1c9a8d6a29c4c1/dossier.models-0.6.11.dev1.tar.gz"
+      },
+      "0.6.11.dev10": {
+        "sha256": "7c7e4afec713da8bb6d890b3a116f729d4dd4baaff85541c89b4cf9e0f93504a",
+        "url": "https://files.pythonhosted.org/packages/5f/61/86cedd42cc0b72a70286575c7f1dd0a660b74101c6e405cd7a4084cefce7/dossier.models-0.6.11.dev10.tar.gz"
+      },
+      "0.6.11.dev7": {
+        "sha256": "96dd1f7dfadab3c76e8d04fc0e6022cf921f4211f1f97524809c210ff83ae4ba",
+        "url": "https://files.pythonhosted.org/packages/e9/f0/56b13a2165838c2b52be6bdfac24245dae91b17c6460d466fe612a4fe4ed/dossier.models-0.6.11.dev7.tar.gz"
+      },
+      "0.6.11.dev8": {
+        "sha256": "446dfef9be5a7985b7571e473b50dee16f2deafe454b408c0b996be0423192a2",
+        "url": "https://files.pythonhosted.org/packages/bf/7a/a8cb4111cab9b6c4106e30b8a0846b197d5e9effc8719420cbcc960793dc/dossier.models-0.6.11.dev8.tar.gz"
+      },
+      "0.6.11.dev9": {
+        "sha256": "e3830525a0a32fa1a8e94afc64d7f11a87bfd3a8eecbc858fd21663786062c3b",
+        "url": "https://files.pythonhosted.org/packages/20/d1/ff14610055bb62562f1cd38322bd4e334ce942868b5503d7b862f76dd7dd/dossier.models-0.6.11.dev9.tar.gz"
+      },
+      "0.6.12": {
+        "sha256": "1ce6296437761e972c377926e20c1c78138c2a1533a19e47c9f853918ac30717",
+        "url": "https://files.pythonhosted.org/packages/de/8e/86e1f03552defab04728cfaabe6459010ceb9b4e1f4a1f922fde2d198872/dossier.models-0.6.12.tar.gz"
+      },
+      "0.6.12.dev1": {
+        "sha256": "b01ebdf66cb8f2860133079ff87baeaca8641f39921e324a574e0cc3b4df40da",
+        "url": "https://files.pythonhosted.org/packages/69/25/89bb4bf33031cda7ec6645143eb85de48a190e42c543f0ba0b9679b5f783/dossier.models-0.6.12.dev1.tar.gz"
+      },
+      "0.6.13": {
+        "sha256": "7d752f77fd0c11fe2fea352e6842d8679dd0a416a3d2171d6645f4fdb162aa1f",
+        "url": "https://files.pythonhosted.org/packages/be/f9/14cd234e03a9f3b5c9415933e3f2f51b2c0f50a0792e09da4fb18e393b14/dossier.models-0.6.13.tar.gz"
+      },
+      "0.6.13.dev1": {
+        "sha256": "9a99307fd1e36e4681f7a0f3a40edfb07b575150915080da867f3b72d6716637",
+        "url": "https://files.pythonhosted.org/packages/b4/00/3e9408d59fbf8477e1f28b7ca181852ccd649fa0886bdfefb5f1f314a10e/dossier.models-0.6.13.dev1.tar.gz"
+      },
+      "0.6.13.dev2": {
+        "sha256": "b8037ab40465b8756cdca50da8f0e0fc19450e48fd274b26bc28731394d53b64",
+        "url": "https://files.pythonhosted.org/packages/db/cb/fb2a6fb962c89a56885b57d0d443ee4892aed3f5dc314cb98db21e36cdd6/dossier.models-0.6.13.dev2.tar.gz"
+      },
+      "0.6.13.dev3": {
+        "sha256": "5192d2faca207fe31843edbfab68ed48eee3618a01ec53335cd7b8dfa7952431",
+        "url": "https://files.pythonhosted.org/packages/ff/20/b7c9caae69969d41d7fbc1bc009787d150bab5d70fa1b760a2d03d3ebc3f/dossier.models-0.6.13.dev3.tar.gz"
+      },
+      "0.6.13.dev5": {
+        "sha256": "51a58173e6ed4317291265d5d0485cc44f8e45d749054997de07f2ee8d974dd6",
+        "url": "https://files.pythonhosted.org/packages/18/3b/b8b98c5518cd18238bae44cdcd0e8eb890f622fcbe314ef56dcb70bce73f/dossier.models-0.6.13.dev5.tar.gz"
+      },
+      "0.6.13.dev6": {
+        "sha256": "ddc69f6fb0390a84d5b8f422d2fc5cccecfe9c718a578ec070dbc4edef3d3918",
+        "url": "https://files.pythonhosted.org/packages/64/15/f527d8afb06f5a214918a4792fd18c5883a4e3df14be781a1344fe2fd2ef/dossier.models-0.6.13.dev6.tar.gz"
+      },
+      "0.6.13.dev7": {
+        "sha256": "2cfc1ef36a5f4a083b5f8cffad3a5e3eaed256aa2d7d677cb5c2c3c4f3bb7bac",
+        "url": "https://files.pythonhosted.org/packages/d4/ee/94b78950e9bc7ddaf7742e409ef15aeb3c581373258913fcde2da6bacc5e/dossier.models-0.6.13.dev7.tar.gz"
+      },
+      "0.6.14": {
+        "sha256": "e7d824e50436e361431a33e2f4ecdcc1690351b1030b2d4e176c10abef389bfb",
+        "url": "https://files.pythonhosted.org/packages/0e/3a/95a29e0eadc30d41667b51496cbdf7e4babd59d4aebf15c80469377a8601/dossier.models-0.6.14.tar.gz"
+      },
+      "0.6.15": {
+        "sha256": "928e87871675cb406d6025614b60ec29822aec010bc71301c3a6dc065ee6256a",
+        "url": "https://files.pythonhosted.org/packages/8b/84/fe60732cc1446ac3fd5d5805c4b6012090f2e4dc24b21d1b59eca0bdac60/dossier.models-0.6.15.tar.gz"
+      },
+      "0.6.15.dev1": {
+        "sha256": "4a3c531fca7199d5dd01b7c707e460c86b19f276571b543f1beaa17be123b17d",
+        "url": "https://files.pythonhosted.org/packages/65/ae/caf355c2ceebfd86b3d8768751ccd24c9ccd6d258f494213b714d4188331/dossier.models-0.6.15.dev1.tar.gz"
+      },
+      "0.6.15.dev2": {
+        "sha256": "812743fe9fe9006d540cc218fa47d425e4bf10d6fdbf9be379878edafbd417a9",
+        "url": "https://files.pythonhosted.org/packages/f4/00/e6a1b85e7f91bcbb28c96c82595cb3547ea8e562fffad2e928cf6ede7ed7/dossier.models-0.6.15.dev2.tar.gz"
+      },
+      "0.6.15.dev3": {
+        "sha256": "6a133aff7bd07739ed51be7f905228f4bf87c120c43fd40cf6ec5328bc836717",
+        "url": "https://files.pythonhosted.org/packages/ff/e0/22ea1e599f3096399ba110d5da0746cb639b3461f3228e4bd7e3f7f409b7/dossier.models-0.6.15.dev3.tar.gz"
+      },
+      "0.6.16": {
+        "sha256": "e14fb1aa4677442c332ee220fbfe688e6130de2fd5388762c187f07bcd61ccbc",
+        "url": "https://files.pythonhosted.org/packages/0e/3c/a0496eb03f1c31f066a32fa87a4b5177839f231ba0aa9279ecc28b796bb8/dossier.models-0.6.16.tar.gz"
+      },
+      "0.6.16.dev5": {
+        "sha256": "e0037dca28dbb6631bee12b352fb358a37e857bd38a535dc3e80cdae84bc7271",
+        "url": "https://files.pythonhosted.org/packages/77/6d/c1f0d136ddaf06ffcb9d956b54dd3b221b11811dab71dd3009838440184c/dossier.models-0.6.16.dev5.tar.gz"
+      },
+      "0.6.17.dev11": {
+        "sha256": "70a58b903c24cce98394b8861ddcddff76ad751741371e860d88760c315f14b3",
+        "url": "https://files.pythonhosted.org/packages/d0/52/6b9c2abba5f36855f495b011cc6ff27b6919fc29bec6946e20f34001011c/dossier.models-0.6.17.dev11.tar.gz"
+      },
+      "0.6.17.dev17": {
+        "sha256": "d423b39511b010fc16447009c5ea4d9830611cfb7d7b4f81a66c5a5ac31c9e2f",
+        "url": "https://files.pythonhosted.org/packages/62/df/a7a618df94c2cafc98f490e65259f380b3bfc43ba0228b03acb033acbaed/dossier.models-0.6.17.dev17.tar.gz"
+      },
+      "0.6.17.dev19": {
+        "sha256": "64bdd4f10b9abb15dc8c5a0f5230867a058c696f8b705aedcc6636123596e5f5",
+        "url": "https://files.pythonhosted.org/packages/53/8d/b3c050ea4c05ecbd3cdd7ac939faf5a425fafc251ec68536ae079a9a8852/dossier.models-0.6.17.dev19.tar.gz"
+      },
+      "0.6.17.dev29": {
+        "sha256": "052d2b962b5af5737ed933b8a2ff326c3d87b922eeca2b87af71d4fc66bdfcfe",
+        "url": "https://files.pythonhosted.org/packages/c4/6f/e0d237fc13c7adc6d938d8581d04ca6f81ff46cf3cd286a8546c5a0f6929/dossier.models-0.6.17.dev29.tar.gz"
+      },
+      "0.6.17.dev3": {
+        "sha256": "e3b6f075c68037a9c50e18fa36e3c82be25db78d5a935ab376c9e9000e2727f9",
+        "url": "https://files.pythonhosted.org/packages/27/12/9b45f91914d23eff3fe3d21c60867a3bfc531f361ebc2e526864498d7e45/dossier.models-0.6.17.dev3.tar.gz"
+      },
+      "0.6.17.dev30": {
+        "sha256": "feb59c5e795eb958f7b4b94060892e1ecd19b84efe3e49100cda454333f49516",
+        "url": "https://files.pythonhosted.org/packages/db/c2/c02bafce9c811d8df9d6d06fa163486c91441b40aec853ceffee5e12c630/dossier.models-0.6.17.dev30.tar.gz"
+      },
+      "0.6.17.dev32": {
+        "sha256": "96b5e6d7f01b87c4efa0e9191bad7f5bc7511aae471abd44391681ed430525e0",
+        "url": "https://files.pythonhosted.org/packages/3b/5d/22ca749f8b608bd314f8f90147586784ac7a695ae1efded5f3376c88e695/dossier.models-0.6.17.dev32.tar.gz"
+      },
+      "0.6.17.dev33": {
+        "sha256": "16a26587914124e4001cb62a38ca80f3717f17104247d7f0d09d9b06578826b1",
+        "url": "https://files.pythonhosted.org/packages/7f/26/7504cce4707ec74afee433f358d4d15272ead84c024245666de09acfd6c7/dossier.models-0.6.17.dev33.tar.gz"
+      },
+      "0.6.17.dev34": {
+        "sha256": "14267e092fa6986577731a2b73e87e033d388611d1f3459db8790305d157c6f5",
+        "url": "https://files.pythonhosted.org/packages/24/6f/7e2729794d9a6708a55302b72f740c903c9ca2420f071f50ba84c6756cd8/dossier.models-0.6.17.dev34.tar.gz"
+      },
+      "0.6.17.dev35": {
+        "sha256": "9a533c080a5f751eb7533be7f4a246689116af8078f59e712a6d40e705e2cbeb",
+        "url": "https://files.pythonhosted.org/packages/f8/6c/fe04d8a9b121485d97476f1bad34e31758ea8642278ebe5d3c087529b9f9/dossier.models-0.6.17.dev35.tar.gz"
+      },
+      "0.6.17.dev36": {
+        "sha256": "e77394a2aea0f0a9757ca00ee4f5a35bb8ed3c75b2ce39255e34fcc187b9a57e",
+        "url": "https://files.pythonhosted.org/packages/9a/ae/515b8752ea048027549f6e2856b58f86b206c2c9c19e4f18c95f4dc23049/dossier.models-0.6.17.dev36.tar.gz"
+      },
+      "0.6.17.dev37": {
+        "sha256": "077a64c6287ef801f3868696c2c763281b5050df4c4c614f58dcf8175d62c237",
+        "url": "https://files.pythonhosted.org/packages/26/ed/16d50decf961aa1ef39fe99adf69b7ff5037ba1d76a8d4c8e6a744873722/dossier.models-0.6.17.dev37.tar.gz"
+      },
+      "0.6.17.dev38": {
+        "sha256": "2957fad429d7d0226f3095125abd55b2ed7e4599ec72bc89f4f6c815a3ab02f1",
+        "url": "https://files.pythonhosted.org/packages/32/63/fc5393b3d32041c5466f90eb95c291a79d7df2427b2034cb47ba683dca4c/dossier.models-0.6.17.dev38.tar.gz"
+      },
+      "0.6.17.dev39": {
+        "sha256": "e1555b0f4a56af4acb234f6e592b2ed3ec58528d43a91a25f55e6596ef2874ac",
+        "url": "https://files.pythonhosted.org/packages/7e/7d/ead0c990df75837d84adee55594bd0bcb42685c00874c25c14fc83335310/dossier.models-0.6.17.dev39.tar.gz"
+      },
+      "0.6.17.dev40": {
+        "sha256": "4d9ac3043c233d3fc7da469861fc58dd29d11273b640c435cba3dea41859ece0",
+        "url": "https://files.pythonhosted.org/packages/5e/8f/62bf420e79b119dccc0ed8e6d8e3dd7fae832d5977aba3531ed72f9890d3/dossier.models-0.6.17.dev40.tar.gz"
+      },
+      "0.6.17.dev42": {
+        "sha256": "787c4cde5188c3feac2e1bdd7ddcbeab20a218ab2fba1b7f6ad49ab6c448718d",
+        "url": "https://files.pythonhosted.org/packages/38/de/d721d6dc04a8c7da039e9d431054ab40bc7c5eaf237c428d323184255130/dossier.models-0.6.17.dev42.tar.gz"
+      },
+      "0.6.17.dev44": {
+        "sha256": "05e1a4ec997e594498039f29b3b1c48572cf9b895f6a63f9853e5ca046876c08",
+        "url": "https://files.pythonhosted.org/packages/d1/d9/f095d314688dca511127c2b127fb6afe78f5589d45946eb095b4636af283/dossier.models-0.6.17.dev44.tar.gz"
+      },
+      "0.6.17.dev45": {
+        "sha256": "d4d1ff05c8d0170ab2c7eb1ab4cc0f8e9b25a5d26a2c51cbcd0c0e9526d75431",
+        "url": "https://files.pythonhosted.org/packages/40/64/1d888115c4f93d67f3cd6ca8131cf09ebbc51ae38a5712fa19f2f66ab891/dossier.models-0.6.17.dev45.tar.gz"
+      },
+      "0.6.17.dev46": {
+        "sha256": "b27fa3f4b87c698af52ba5f3593ce2dcfdba31e62e9c88f55464233eb51f4ebe",
+        "url": "https://files.pythonhosted.org/packages/79/47/4f6f66ead243566fd4d51f5faa839025328a671729e19017edc3a31bb468/dossier.models-0.6.17.dev46.tar.gz"
+      },
+      "0.6.17.dev47": {
+        "sha256": "e025d727d48cf8b8b1162802422e5195c96ef1d57fdd7a18b7759d3a9167f10d",
+        "url": "https://files.pythonhosted.org/packages/16/3c/aaf146692d1857ff09b26345fbbef7c6a909fb5665b0fc0f71bf9a9276ca/dossier.models-0.6.17.dev47.tar.gz"
+      },
+      "0.6.17.dev48": {
+        "sha256": "a16e9476bface4ac096808327738a2f358400d6be16ef95e69f654beb7e20a2a",
+        "url": "https://files.pythonhosted.org/packages/ef/40/b3e7450e53d08b7f40f441b6a26bbaff706518c726306bb21981bad35294/dossier.models-0.6.17.dev48.tar.gz"
+      },
+      "0.6.17.dev49": {
+        "sha256": "ebcf7b132373a2806b8d9d321f9e7fcd71e19901e4ef369d91490332f7f20dc9",
+        "url": "https://files.pythonhosted.org/packages/1f/b7/6ae1ad210ec5730091e82346e4e42ba6b5eaa288ed9736f2125326010a35/dossier.models-0.6.17.dev49.tar.gz"
+      },
+      "0.6.17.dev50": {
+        "sha256": "3d670f3d1fe96c72f1db4794221ac766cef05e353df81e25c4804652d0f88a7d",
+        "url": "https://files.pythonhosted.org/packages/2a/39/94df68b370378612636ae48b53d1a72171e41e6e60729eb63c2370b1d42c/dossier.models-0.6.17.dev50.tar.gz"
+      },
+      "0.6.17.dev55": {
+        "sha256": "1b52e6d22d060100825bbad1e08e803103c8d53672de80a980cce28d361510c8",
+        "url": "https://files.pythonhosted.org/packages/61/d8/832c8e2d0c1fc6c1b754bb7cf0100222c7e60bd89c15295dce6ed29ba0af/dossier.models-0.6.17.dev55.tar.gz"
+      },
+      "0.6.17.dev6": {
+        "sha256": "de24f2f147cc79158e657d9a3c3a4c94adc0467a2f3825adeec2a40462f5f022",
+        "url": "https://files.pythonhosted.org/packages/ca/29/3b297147f56ba306623fa5044110eb15d1ef8904ede3a9f8cb12c4f2da3d/dossier.models-0.6.17.dev6.tar.gz"
+      },
+      "0.6.17.dev61": {
+        "sha256": "5d565c7fb467f87c9cc8968abdc22c5b9d029a857659c9da93ac1712c69dd638",
+        "url": "https://files.pythonhosted.org/packages/56/b8/4016673382fac840326749adc34a5d0cfffc93cf2dd5ef6fc5043c8568a7/dossier.models-0.6.17.dev61.tar.gz"
+      },
+      "0.6.17.dev62": {
+        "sha256": "c711d3dee7b9a961e124ccd36575020aeb5ddd5469016802d9a17dfbe12e3211",
+        "url": "https://files.pythonhosted.org/packages/55/a2/1a66f8c202e422743e1f49f022bf183002b18b313ef1dc71d3cac6fd30bf/dossier.models-0.6.17.dev62.tar.gz"
+      },
+      "0.6.17.dev8": {
+        "sha256": "af1c064cc5aae218cef6f71963e45f1b13d445c9f16d585f1e48e6cd4fb27cb0",
+        "url": "https://files.pythonhosted.org/packages/fc/89/0f24df56dd806b226f69a3fef5a66bff27510c6b03ec92b4883ae3938f65/dossier.models-0.6.17.dev8.tar.gz"
+      },
+      "0.6.17.dev9": {
+        "sha256": "072edd4c19bb92f1cefc10187da37d830732e473eedbf7aad258f58080112102",
+        "url": "https://files.pythonhosted.org/packages/63/95/d4af80a41509ce8130e6b1312f5bc430559a8c812b108eab4f14d7ac7180/dossier.models-0.6.17.dev9.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "bfc007df0dd7b3968d101f47c3ac7b67a531d700eb743989e890b8e43e977381",
+        "url": "https://files.pythonhosted.org/packages/b3/2b/7f4eb95e3ba5e9993bb33f42a69c22cfab982b386755248784cc948cd27e/dossier.models-0.6.2.tar.gz"
+      },
+      "0.6.2.dev1": {
+        "sha256": "5aded1bd148401681b28699c6f08047e0c23b9f3eab4740b61afa6d27690e165",
+        "url": "https://files.pythonhosted.org/packages/80/10/44d07fee20ca9d4a88f9a18773fcc7025ab4d2ab80d7ec441a54e9922894/dossier.models-0.6.2.dev1.tar.gz"
+      },
+      "0.6.2.dev10": {
+        "sha256": "d6699996b7dfe90bc1d2377d94a9f7089d88b97a4e10ba374df2120e87113a7d",
+        "url": "https://files.pythonhosted.org/packages/b4/a7/d9930037793e37eb241ff0fbe22d94ebda283b844eee747991a285ef9b45/dossier.models-0.6.2.dev10.tar.gz"
+      },
+      "0.6.2.dev12": {
+        "sha256": "2212e17d71181aecc8b6990be9d3512034daa990862cdd5ac08afbe7d2577fd9",
+        "url": "https://files.pythonhosted.org/packages/45/6e/4760212c43634569da07edf388a10ace0ad47ea9c207922037c9b260fc6a/dossier.models-0.6.2.dev12.tar.gz"
+      },
+      "0.6.2.dev14": {
+        "sha256": "22fa4aa9f567a00d48c878b88e99e88e83ac56ac4cb27778a9bd4193a739453e",
+        "url": "https://files.pythonhosted.org/packages/6b/e0/dcc1698b2fefd10f073ce96b41ebbdd59409d0975aa49fad2b27784547b3/dossier.models-0.6.2.dev14.tar.gz"
+      },
+      "0.6.2.dev15": {
+        "sha256": "ef7dbc22ce004700591e7313e618c30e54e62c3a204362e72946e906aa316981",
+        "url": "https://files.pythonhosted.org/packages/6c/c4/684364081ab58efa21d983f9b4a990f20d48b8f7236369c8c57dd7bd11a0/dossier.models-0.6.2.dev15.tar.gz"
+      },
+      "0.6.2.dev16": {
+        "sha256": "ab57ff97ca8d266435c715bb6a725ca117b67ed7ad1a0b50f596f350d8fb1383",
+        "url": "https://files.pythonhosted.org/packages/bb/e6/39c4a9662aaf126107060e2cea42637106cfc91e6abc226d6c3af172c643/dossier.models-0.6.2.dev16.tar.gz"
+      },
+      "0.6.2.dev18": {
+        "sha256": "ffcaabcb0c3d9457b532f19bb2770b6133e049554330ad2816feafddd63be88b",
+        "url": "https://files.pythonhosted.org/packages/56/14/d26b15f5c2d01152f3c38def3625fc48e5c24936a5bd2f47bdd0876711a3/dossier.models-0.6.2.dev18.tar.gz"
+      },
+      "0.6.2.dev19": {
+        "sha256": "79762e1989dfda05fa15fb0829f90a7c75d71f5d90f5a196d0a1da3a09c6715f",
+        "url": "https://files.pythonhosted.org/packages/8a/44/89f496bcba375948ce62886e287f604a540ac3f266fa8bf12f6f2a53c359/dossier.models-0.6.2.dev19.tar.gz"
+      },
+      "0.6.2.dev2": {
+        "sha256": "44fecce18510deb2bad9379f67bbe205a53b9ba9f0ead2beba3ce81ce0f6519c",
+        "url": "https://files.pythonhosted.org/packages/98/49/44983ad44a99e86d470328632be2e2caad01be83374a9a0b493dc73d3801/dossier.models-0.6.2.dev2.tar.gz"
+      },
+      "0.6.2.dev21": {
+        "sha256": "d2a015d365212942729a8e52469303b7c75c7d740f6013ca362305306791e4a4",
+        "url": "https://files.pythonhosted.org/packages/ee/43/7088c58008babfd4f078496753a0cefea4df8f5aff2c210f87d4a293d059/dossier.models-0.6.2.dev21.tar.gz"
+      },
+      "0.6.2.dev23": {
+        "sha256": "11a7479eb34bda7b6b6974949527d885f98ffbdf40137ae0d5c853bf0fe15389",
+        "url": "https://files.pythonhosted.org/packages/54/a5/aa81061011cb33f20791cb79059ab81ac7464f0b735c49d78adabd5e3e6f/dossier.models-0.6.2.dev23.tar.gz"
+      },
+      "0.6.2.dev3": {
+        "sha256": "2e97130b6451ab409c1aab31964842c652693e8e22ef52a716af5891011648aa",
+        "url": "https://files.pythonhosted.org/packages/74/9e/57898b273bf7e6eefb52bc542ee5296ff7f0d1128c19d962c8dba7c0d96f/dossier.models-0.6.2.dev3.tar.gz"
+      },
+      "0.6.2.dev32": {
+        "sha256": "913f8d9821921ecbdd6162955864e60f98eb8110b0fced771406ee8dd141c11c",
+        "url": "https://files.pythonhosted.org/packages/87/09/a9c31bf4712ab5b88508526767f17c8a07c20bda58fd7571a207fd9ea8d3/dossier.models-0.6.2.dev32.tar.gz"
+      },
+      "0.6.2.dev35": {
+        "sha256": "36fcc7fd24df2df440d1d1c96c79112f6f9b2a92bd83c20beac55dc6985d9624",
+        "url": "https://files.pythonhosted.org/packages/fe/8b/6fa158e746d294ec24d42c5b87cef65d02af4a929c5a0b65abbb1675cb06/dossier.models-0.6.2.dev35.tar.gz"
+      },
+      "0.6.2.dev36": {
+        "sha256": "c18ee827a488048e9aadec797fb6d8fc192a9a306b4a820e9801749ea15d90a8",
+        "url": "https://files.pythonhosted.org/packages/a7/79/c479acdc02b62e9aca56fbf469f6ee5ac1b64d43446bd76d0a80a91ea0cb/dossier.models-0.6.2.dev36.tar.gz"
+      },
+      "0.6.2.dev38": {
+        "sha256": "51259710e831fd14ffbbca1d406d2ad8998d7be02c22a048cab6a709b1bff457",
+        "url": "https://files.pythonhosted.org/packages/f7/b2/e255ecab18f872f6b255cfcea4e75445c4725ea3f43c9ef3f17288cacd77/dossier.models-0.6.2.dev38.tar.gz"
+      },
+      "0.6.2.dev39": {
+        "sha256": "5d1b90bd83f56ba3a12278948b02050a078c444b2c4daa8ad552c9902c883672",
+        "url": "https://files.pythonhosted.org/packages/2c/30/0b9d0160bc09855f337dfd1892579835e9cf9bf4e241414e8a4bdfed9430/dossier.models-0.6.2.dev39.tar.gz"
+      },
+      "0.6.2.dev47": {
+        "sha256": "2c66696022cabadef0041a2bedbcb073ebc459cbb6b9378dcd9bd17d8bc1443d",
+        "url": "https://files.pythonhosted.org/packages/4e/0b/5702c2e43050195362a5a7bcf31390fc096198b3fe8088df7583e03cedac/dossier.models-0.6.2.dev47.tar.gz"
+      },
+      "0.6.2.dev50": {
+        "sha256": "e991f9d8a6f23de7928e17fe1690ca55edb646ce0bfcfa158bbb5dfded73dfcb",
+        "url": "https://files.pythonhosted.org/packages/53/5b/9509fc904c0ddddb23ad11fd11f63b7dc2bc9cd3858b1e09da8b1d455ba6/dossier.models-0.6.2.dev50.tar.gz"
+      },
+      "0.6.2.dev52": {
+        "sha256": "7aaa37bae7acc1d9e19d286b0fab6020081c1a4a0899baa42d281e5f09c851f2",
+        "url": "https://files.pythonhosted.org/packages/c1/ef/f127d1f250f7b194c871425be3e8aa716c87f66dff079681d50de0aaf027/dossier.models-0.6.2.dev52.tar.gz"
+      },
+      "0.6.2.dev54": {
+        "sha256": "10025a8a4bb685e6ea21ef3b433ba126abbb8da69768dd8e55eaf03781fa7cc3",
+        "url": "https://files.pythonhosted.org/packages/1a/69/6c76b3e4350daa75c6b3776d08926e43f5f9e7637404531277a09a100abb/dossier.models-0.6.2.dev54.tar.gz"
+      },
+      "0.6.2.dev55": {
+        "sha256": "53b2df4cbd09aee731c50cabdfe475075a6286db3a12c8bb8005517b92f968c0",
+        "url": "https://files.pythonhosted.org/packages/89/31/04565793f4fae544b8d3390bce6b347fa3b010face9b0cebb8629cc1ee0b/dossier.models-0.6.2.dev55.tar.gz"
+      },
+      "0.6.2.dev6": {
+        "sha256": "0336a65b62e19b93a7102e8a0d6c167117dc8a0f357b21cf4a858ac299b2df17",
+        "url": "https://files.pythonhosted.org/packages/2d/a9/a79f70421406bb1f4a94cf6aff01eac22401dae83c70cb77cd4c67b3cc8e/dossier.models-0.6.2.dev6.tar.gz"
+      },
+      "0.6.2.dev67": {
+        "sha256": "9ced7a7b18088ac4e2607c9b53b37f5d9b385afaa390c12f2751218c67506cf4",
+        "url": "https://files.pythonhosted.org/packages/7a/e4/d8f398a1d1bc2a01c899281c2add73c2edde24ad55b3280da8191a44430a/dossier.models-0.6.2.dev67.tar.gz"
+      },
+      "0.6.2.dev72": {
+        "sha256": "28a5959cd842ea471a09099876f97ec02bbb5c48b1311e730f6c567de65dcb96",
+        "url": "https://files.pythonhosted.org/packages/09/41/b7b1f3881df87e777b5c57d316184c1c7a034f016bccaa29695eeeb0c677/dossier.models-0.6.2.dev72.tar.gz"
+      },
+      "0.6.2.dev73": {
+        "sha256": "67f8672906eae11c7200e3969c52863844e10871169f23423d61ae278b40efa9",
+        "url": "https://files.pythonhosted.org/packages/2b/8c/4361a49734aa18ca657b79f6b850a8c895acb1dffd61e02a9e83fe75118a/dossier.models-0.6.2.dev73.tar.gz"
+      },
+      "0.6.2.dev74": {
+        "sha256": "d024d896f9be6e651e7273d29f5f9f49f16935351be4d814dbb11fa6a401bfbf",
+        "url": "https://files.pythonhosted.org/packages/cc/5f/b6970ccb4deece9c92471378ac74c932ee0d180990cb3108506aea6954c6/dossier.models-0.6.2.dev74.tar.gz"
+      },
+      "0.6.2.dev76": {
+        "sha256": "5c83536a1dde4829ff5368ebc1d0c7c3f26716ec6ec8882c9d63b2bcad4cfdfb",
+        "url": "https://files.pythonhosted.org/packages/e2/28/2209042df86c53f9e38a5f17ff55c8694d9eddf3e0b61fdd49aa6317c0a3/dossier.models-0.6.2.dev76.tar.gz"
+      },
+      "0.6.2.dev77": {
+        "sha256": "b1240225dfe14281964c3e4c4ece7b47ab4a30bf760c60309e4ae4c47e6fde0d",
+        "url": "https://files.pythonhosted.org/packages/fd/f8/1b4aef8a489063c3723286bdfee864fa88f8fdc82928c15e011bd92d4a12/dossier.models-0.6.2.dev77.tar.gz"
+      },
+      "0.6.2.dev79": {
+        "sha256": "284d69a4373ce49dd54e67a99a1deb8b5cbfb858fd6b00140980afb11e954ff5",
+        "url": "https://files.pythonhosted.org/packages/35/81/dd971fcab6d2ead4462d895951da6ddcc5e9234512437f29b101b11c7301/dossier.models-0.6.2.dev79.tar.gz"
+      },
+      "0.6.2.dev8": {
+        "sha256": "d6baf148f28c5f86cbd0b0a7dd232617469d3d0b915c21700ba82783ce9701c6",
+        "url": "https://files.pythonhosted.org/packages/0c/75/c14dfd4ffb40392d4a70006ee283a9526c917adefecb42fd0f4793702332/dossier.models-0.6.2.dev8.tar.gz"
+      },
+      "0.6.2.dev9": {
+        "sha256": "dcec6e475d1d2e46585f12df10ca6f1317c7580f1d611803d28c765a3ba634f4",
+        "url": "https://files.pythonhosted.org/packages/20/20/fb4d78a24560803165e05b7bba7931397d255e4b85c6240dd952c213d02c/dossier.models-0.6.2.dev9.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "78677e08d643f2824f2cb439e8ec114a35af1e563898a9b29a37963907fe238e",
+        "url": "https://files.pythonhosted.org/packages/82/c3/9a35470b0e7991be35854c2e94e5043b0b49ce16bc54691aac3a5cec0c70/dossier.models-0.6.3.tar.gz"
+      },
+      "0.6.3.dev1": {
+        "sha256": "8ece5a92030612803f2add5bbd19cb5a965ed3c8d4a8a6bbeb48ece33a04fdf6",
+        "url": "https://files.pythonhosted.org/packages/c0/6b/c90d08916c906161e34a35ac23a7eeba88ba3c6b925e92fa2ddeed13eca3/dossier.models-0.6.3.dev1.tar.gz"
+      },
+      "0.6.3.dev12": {
+        "sha256": "3350882adcd10494ab04246588312c35ecf5e1cce45fc28b63aaeaf60e31b0d3",
+        "url": "https://files.pythonhosted.org/packages/65/2f/9dc3330ae56444687b874fa4eff9b976acd8d7eb460780e90e1636839775/dossier.models-0.6.3.dev12.tar.gz"
+      },
+      "0.6.3.dev13": {
+        "sha256": "2a835689535a97dafeb53b3b7977e61391e8cd9096ba24cd8d2ed0f5a1e01fb6",
+        "url": "https://files.pythonhosted.org/packages/91/c4/14275eaf48d9fd33bd87eef14d2d522afbf930dd46ce8005b42f3f3013c1/dossier.models-0.6.3.dev13.tar.gz"
+      },
+      "0.6.3.dev18": {
+        "sha256": "0aa18b89122ff4a85ddd27a75ebacdd18152f99afee36d841640aefa0c1b23fa",
+        "url": "https://files.pythonhosted.org/packages/7f/7d/af506b572538b931d609b4846e5e6f6d1bf3423b1393a23a76a76abda3b8/dossier.models-0.6.3.dev18.tar.gz"
+      },
+      "0.6.3.dev6": {
+        "sha256": "29f00bf676e12d0678aaf4b0c703b2baa7d68ab2fbc7624d9fc7d1bb78c220c7",
+        "url": "https://files.pythonhosted.org/packages/0c/47/6257c1c2976801252eae878ac3927d5647cc171215f5b8783d37750f5740/dossier.models-0.6.3.dev6.tar.gz"
+      },
+      "0.6.3.dev7": {
+        "sha256": "ee8d1e272abd827c72d7adcd0d2dca9c08f2179f2b7b7f13541fa0d2f5769318",
+        "url": "https://files.pythonhosted.org/packages/09/ac/9af2fc68f02f05f73c33ae513c5b6c2e1caedcd11654f89945df88aadcb1/dossier.models-0.6.3.dev7.tar.gz"
+      },
+      "0.6.3.dev8": {
+        "sha256": "94ce39cb557d77bc53bbcddc07b8fbd407e9bc3129fc9a221af575e3ac129a40",
+        "url": "https://files.pythonhosted.org/packages/17/84/3a21b20b1c3aaaaed33c92de7042b69426695c47532d2dae22c098aa75dd/dossier.models-0.6.3.dev8.tar.gz"
+      },
+      "0.6.3.dev9": {
+        "sha256": "fca858c64af41d4a7e53fa52d2568957546a2413ae943bf9d5757ce589e1a9a2",
+        "url": "https://files.pythonhosted.org/packages/69/d8/8e3bd5045f4ae238d5cab6ef1bd2a118d8755e763841a9412f6421d723dd/dossier.models-0.6.3.dev9.tar.gz"
+      },
+      "0.6.4": {
+        "sha256": "bf6da971c216d6a2606ed09092d6a5174ad5e90873c680a6295260baed2a4992",
+        "url": "https://files.pythonhosted.org/packages/c1/4b/0e660a6fab2a5f8c05dbb45900cf24e4342d49454f164cb881916fdad934/dossier.models-0.6.4.tar.gz"
+      },
+      "0.6.5": {
+        "sha256": "fdca283b5c0113ab820e37c6591b06ee58b885e25653a0f3fe1510d73dc249dd",
+        "url": "https://files.pythonhosted.org/packages/90/1d/b689f3352d74a99050480ceaec740ec6cf086a412e0d93f1f04d991f6986/dossier.models-0.6.5.tar.gz"
+      },
+      "0.6.6": {
+        "sha256": "df4b785e2e8c12f9c7c973216a2a42ad51159c732a623371a7fd0e474cf03706",
+        "url": "https://files.pythonhosted.org/packages/99/47/2c76a61bdda81171f7d372e7af2dbc2e7354191d8a9e340438389cdb761c/dossier.models-0.6.6.tar.gz"
+      },
+      "0.6.6.dev1": {
+        "sha256": "55f248f3aac887bbb41bf01dd153515f45e7361a75226fa1f97ea6889d549168",
+        "url": "https://files.pythonhosted.org/packages/86/b4/282ef2c0379b10e444bcb960d8c5667bb81a28b7acd7e950a81fb2489483/dossier.models-0.6.6.dev1.tar.gz"
+      },
+      "0.6.7": {
+        "sha256": "611889ac4f0c86293f4533e5d09890c9223c53a7f90f76a8462f4622b0262df9",
+        "url": "https://files.pythonhosted.org/packages/d4/23/c363c1fed8bf64bdbe0b35ac60a5e59f052b3c0b8d904fc5585dd32db4a3/dossier.models-0.6.7.tar.gz"
+      },
+      "0.6.7.dev4": {
+        "sha256": "1fb926f667063c1eca83caf69ea393aa12f58a3763886f50e81ab1bbd7ead4fc",
+        "url": "https://files.pythonhosted.org/packages/c8/54/8f432cd3ffe5997e2ff7c41a0fef3f485ac23b3460920023479c9e8812cb/dossier.models-0.6.7.dev4.tar.gz"
+      },
+      "0.6.7.dev5": {
+        "sha256": "0fad1e2ad4468d536417b6edd5cba000f165e8ab653530bb67a442edb9955b06",
+        "url": "https://files.pythonhosted.org/packages/fa/dc/7675c265d18b19334ea1bbf279c90777022b5dce06e367784bd4f5eaee51/dossier.models-0.6.7.dev5.tar.gz"
+      },
+      "0.6.8": {
+        "sha256": "a5591c4bcc2f7894540e641f56137faa18de53cb957d78f2bfad0470cf3db955",
+        "url": "https://files.pythonhosted.org/packages/55/02/6021b113b88ba9ab9697bbdd4b34f876e842dc860d274387a97ec33b0660/dossier.models-0.6.8.tar.gz"
+      },
+      "0.6.9": {
+        "sha256": "dc937b38e482f76068e9030da194e1dc3c6e193d1f1c642c5cf4a462a3356173",
+        "url": "https://files.pythonhosted.org/packages/41/2d/a975b5326dedb5799b2128eca6e7c6f8539e1b07802a15ab35e2cfa14d86/dossier.models-0.6.9.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Query network abuse contacts on the command-line for a given ip address on abuse-contacts.abusix.org",
+    "homepage": "http://abusix.com/global-reporting/abuse-contact-db",
+    "license": "GNU General Public License v3 (GPLv3)"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "ec720105d48bca0dbb172d5a9e5fe50d77341ee9fb9ea05e95409d8fc2344d59",
+        "url": "https://files.pythonhosted.org/packages/89/4d/9ce0e2add4403ec4b59c4cdb5206324d5a96910dff1ea06fb35d1dbfec51/querycontacts-0.1.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "22584a6b4cfa2d929e9db2fb1fe8608bf841219d67393e055a8c2f774d7faa74",
+        "url": "https://files.pythonhosted.org/packages/03/b7/0791414330462944102ca7de4e97ba2cc6b9ab13340452a8c1c1b6a6edd3/querycontacts-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

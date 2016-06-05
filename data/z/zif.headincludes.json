@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "WSGI middleware to manipulate css and javascript in the HTML header",
+    "homepage": "http://zif.svn.sourceforge.net/viewvc/zif/zif.headincludes",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "0057e36b98967062ebb43d8893446d14722c1dcaae25f318ecf62228f51f1341",
+        "url": "https://files.pythonhosted.org/packages/1c/8b/8d618d1ca3f094d732230715c2db48c319976443879313185a82fe845243/zif.headincludes-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "f6c2ee9b59654207d832e326e3842d8fc9905882935658f5d384e827625bbe89",
+        "url": "https://files.pythonhosted.org/packages/47/5c/b2595539dcacaed9664b20c142b87d35be402d134305b61edbcbc08dadc7/zif.headincludes-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "cb31828f3d805ecf5f7a75ec49b7beea3e543862e04632bc010bee11af1f36e8",
+        "url": "https://files.pythonhosted.org/packages/eb/b6/2a6e31cfe1d67bddf8864cf1813864e6c681631c05aa7d2b2d8a883e1a81/zif.headincludes-0.4.tar.gz"
+      }
+    }
+  ]
+}

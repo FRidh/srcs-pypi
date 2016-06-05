@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.3"
+  ],
+  "meta": {
+    "description": "Sort large CSV files on disk rather than in memory",
+    "homepage": "https://bitbucket.org/richardpenman/csvsort",
+    "license": "lgpl"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "76f853bf1ad07ca8043b70dbd3d21b751d08908af2ce3c977f734aafe4b788ce",
+        "url": "https://files.pythonhosted.org/packages/3d/b7/1fa69d42cb05bb4d88553029c5f175a3fa3cd96e51244ee5d8e453534c1a/csvsort-1.0.tar.gz"
+      },
+      "1.2": {
+        "sha256": "1586caa91c098bbb099e7b0f9759dc0a8d8591f5a58fc1d337bdef83489ffefb",
+        "url": "https://files.pythonhosted.org/packages/61/d4/a790591f831177db0d28cec6b7606ac435d3665fce92ccf6fe7bc7fc3a45/csvsort-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "83945dc610af41473b6ffa3dfe85eb43fb4c418ad383ca5a8bf651eb590ae321",
+        "url": "https://files.pythonhosted.org/packages/82/bf/5a83f18b7e15674f9faa5f7802f5a42cba77db9434a69a78b7858c9d41fd/csvsort-1.3.tar.gz"
+      }
+    }
+  ]
+}

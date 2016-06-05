@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2016.1.1"
+  ],
+  "meta": {
+    "description": "A code generator for array-based code on CPUs and GPUs",
+    "homepage": "http://mathema.tician.de/software/loopy",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "2016.1": {
+        "sha256": "1dbec69d7769fd7cfacf58c3be8410cd79fb53a44fc04a94e3250ef9881bbd33",
+        "url": "https://files.pythonhosted.org/packages/2e/83/60379f0de63d42b3f2693a0db2ab9bdabbe0f21a8430770ad9c0ada4f80d/loo.py-2016.1.tar.gz"
+      },
+      "2016.1.1": {
+        "sha256": "96dae84780af48bef01d469e9ff0326796c99175023d4d010d83104fbe25b48c",
+        "url": "https://files.pythonhosted.org/packages/8f/1d/6c82979d464d5e6342dcb7a815364e674ac83bad3a4a027311cc80b5116b/loo.py-2016.1.1.tar.gz"
+      }
+    }
+  ]
+}

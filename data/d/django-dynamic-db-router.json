@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Simply route complex django queries to multiple databases",
+    "homepage": "https://github.com/ambitioninc/django-dynamic-db-router",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "a1cc5e09b607f2e157e40d3973e026c11b4dfe2a12918cbf674aa623fff32c15",
+        "url": "https://files.pythonhosted.org/packages/b0/45/fb753732adca0b1ccd928df7b4545bcc07e6b9c69566d4a3e175aca3c578/django-dynamic-db-router-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "e3da8aa3fab87edb48105617a87fa1bd7f775523f6144bbdfe5287c790efa441",
+        "url": "https://files.pythonhosted.org/packages/1b/f0/15d2d708d9186eabec30b4f4394d4368e4a2f5ab97541ec38ee8071c90ba/django-dynamic-db-router-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

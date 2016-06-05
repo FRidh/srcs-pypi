@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.94"
+  ],
+  "meta": {
+    "description": "An extensible wiki processor, using parser grammer",
+    "homepage": "http://eazytext.pluggdapps.com",
+    "license": "Simplified BSD license"
+  },
+  "versions": [
+    {
+      "0.92dev": {
+        "sha256": "58d5c383a5c177ed327966f76907b3121b05186078d20516300f36efc8bfc9f8",
+        "url": "https://files.pythonhosted.org/packages/42/d0/0a7ffb57326938097f8a81ee4e794cc7c1695ad6f0013b920eb7e4fd9de3/eazytext-0.92dev.tar.gz"
+      },
+      "0.93b": {
+        "sha256": "147fa3e199aa4b41c0c06607fcd0b0de5743a63d6a65a8fa1fe0eebf882ae664",
+        "url": "https://files.pythonhosted.org/packages/ab/3a/0bcd566d161e7e1ced08eb798140370f5af1d1427ec88b759474f4562eab/eazytext-0.93b.tar.gz"
+      },
+      "0.93dev": {
+        "sha256": "457c04e053bfc79464b35dd7bee144cf2c343f55e79086f3ea55b2785836d9d3",
+        "url": "https://files.pythonhosted.org/packages/94/68/ac4d2a9a80a32109a99584bfccf3880eee241d15f074642c2686e122b23e/eazytext-0.93dev.tar.gz"
+      },
+      "0.94": {
+        "sha256": "e32238341a97d8ef242a1f91bcc29cd153ec0b93f052d32efbabe0e46eaa811f",
+        "url": "https://files.pythonhosted.org/packages/57/be/db538b6f4d4d3cf973fbfdc54bd2397ee70cfdc4764ddc023efc957cbb71/eazytext-0.94.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.3"
+  ],
+  "meta": {
+    "description": "Django app to enable exporting of events to iCalendar files",
+    "homepage": "http://github.com/statesofpop/django-cal",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "0670b10697267ccc5add4ca9d2eb6d6248f7a03b3fdcb370a671c073496ba3f2",
+        "url": "https://files.pythonhosted.org/packages/2d/d0/3b5a4461347579a5544f0b3a9c624467721f1c2d90f7193381eba5ca4935/django-cal-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "48e5a4ce1733e851a372fd290c21079b1d3352ffdc4a11a854b53bc48dae0fc1",
+        "url": "https://files.pythonhosted.org/packages/0e/e7/9b1a22b48dce75d0dc4f88ac6eae90477305aa17cf2973ba5f7e68a5438f/django-cal-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "cf6580dd6fdfe5be2e996d6905f9a740be88277c422df779510272a3664917d3",
+        "url": "https://files.pythonhosted.org/packages/a5/38/2cdd9ff60e163b4c354bb9ee7716615705d20d6eb46f7dc79a2a40a07145/django-cal-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "cbe628a230bd954ad5f1a81caf0772cdc2eb9710dafd3491186a29dd847f3842",
+        "url": "https://files.pythonhosted.org/packages/1f/b4/6cae479c3d4739aee4ec2003b8181a99d38f744446578abc719ca40f045b/django-cal-0.2.3.tar.gz"
+      }
+    }
+  ]
+}

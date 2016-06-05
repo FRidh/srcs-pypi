@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "2.2"
+  ],
+  "meta": {
+    "description": "This is the CTF framework used by Gallopsled in every CTF",
+    "homepage": "https://github.com/Gallopsled/pwntools/",
+    "license": "Mostly MIT, some GPL/BSD, see LICENSE-pwntools.txt"
+  },
+  "versions": [
+    {
+      "2.0": {
+        "sha256": "c29acade2ee830b3e51b5e6624142d9a713aa9c1dd0af32ecd676adf80699d91",
+        "url": "https://files.pythonhosted.org/packages/e2/7b/51ab9160ca5f2f0316b1ef97c1bf71e18762d9895228455a9bb4a3004fdd/pwntools-2.0.tar.gz"
+      },
+      "2.1.0": {
+        "sha256": "5b33fd214938d1e8fedb22f39880e16346c7f2bf11418228c1e1f461f3485407",
+        "url": "https://files.pythonhosted.org/packages/29/f7/20dcfc76fa017076b976e6cd6a3b6cd42310cdfacfaa74e1dbd59529f558/pwntools-2.1.0.tar.gz"
+      },
+      "2.1.1": {
+        "sha256": "4dc78c4318d4c549fc4ded1a48725d3d707e6d8ba3f3436432768ce5d340ff63",
+        "url": "https://files.pythonhosted.org/packages/73/a0/c63a905c3653c874931f8f7354439fc73029265c1ea9ea00dcecab068661/pwntools-2.1.1.tar.gz"
+      },
+      "2.1.2": {
+        "sha256": "f4057ec4fb247f72e11d3bd35933e5e0d2d068282061dc1877cd07df6094503f",
+        "url": "https://files.pythonhosted.org/packages/39/b3/6df30b829efd0ad3fda967ababaa38c3a3275ac01e0ed53dcb14c08aa839/pwntools-2.1.2.tar.gz"
+      },
+      "2.1.3": {
+        "sha256": "011cd63aa98b57fd4b01089af9c0579572c61363ec1c7631179c98780543b394",
+        "url": "https://files.pythonhosted.org/packages/df/5f/f7cc6b2b57ef626a4ea5424b2c60fceb9c5cdf39f44b02b63a25e6bcf3e6/pwntools-2.1.3.tar.gz"
+      },
+      "2.2": {
+        "sha256": "3f3d22baf8dfd0b4939929bb5f675f7b0454a62d17585f7767033b98cb4b19c0",
+        "url": "https://files.pythonhosted.org/packages/09/bb/428adbe0be81bae66c3222f01e968e602dc9183ac472884e48dd716ef193/pwntools-2.2.tar.gz"
+      }
+    }
+  ]
+}

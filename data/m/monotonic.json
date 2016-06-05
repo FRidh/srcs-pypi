@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "An implementation of time.monotonic() for Python 2 & < 3.3",
+    "homepage": "https://github.com/atdt/monotonic",
+    "license": "Apache"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "c97010206240da4f76e05f2c2916648ac4cc649f11627f37fc4d3b919777e145",
+        "url": "https://files.pythonhosted.org/packages/7b/29/277759abfb5b7a5a9e5e20712ed10428f890e2365327dcb56df4ceb67a0d/monotonic-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "c5e81e875a43e218135ea2aa4c367523894e1a2d7633ddafbed5292c527644a8",
+        "url": "https://files.pythonhosted.org/packages/87/d5/17e9c57c146fd07b1be1062cce5b9445a463726c0444b604945f26b16358/monotonic-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "2825ba5ded67b1a70d44529634d3f4ddfad67a5ed7fdcf026022a3ce175be07b",
+        "url": "https://files.pythonhosted.org/packages/e1/23/31f6d99adea88792d5490e8eb6347c5846cb41f70e1420f07fa03f7ee07f/monotonic-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "852f656adbf623ee859def6ca2f5498f4cae3256f8320d5c50570ee8a0592ab6",
+        "url": "https://files.pythonhosted.org/packages/6f/8b/66b7c2d721b376e8f13fc22c9219543161fe25289264df6f6ae3fcc2d43d/monotonic-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "8c1f882aa66c41daffa701cbf7121d8d264d0cb7722bbb78a6eccd2d8b12c880",
+        "url": "https://files.pythonhosted.org/packages/b1/a0/50945a1725af176f64578d1cfba1fc3492c0421f25596aa2ae8b6f2fee82/monotonic-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "2bc780a16024427cb4bfbfff77ed328484cf6937a787cc50055b83b13b653e74",
+        "url": "https://files.pythonhosted.org/packages/71/be/df50d24c036ff1f316f835db207c1934250f1b82b53d4ea1a14068052293/monotonic-0.6.tar.gz"
+      },
+      "1.0": {
+        "sha256": "47d7d045b3f2a08bffe683d761ef7f9131a2598db1cec7532a06720656cf719d",
+        "url": "https://files.pythonhosted.org/packages/f0/42/0497c9fbdafae1f1d1577e3b344fdcbadd4f013cb30b8f65436abda86057/monotonic-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "255c31929e1a01acac4ca709f95bd6d319d6112db3ba170d1fe945a6befe6942",
+        "url": "https://files.pythonhosted.org/packages/3f/3b/7ee821b1314fbf35e6f5d50fce1b853764661a7f59e2da1cb58d33c3fdd9/monotonic-1.1.tar.gz"
+      }
+    }
+  ]
+}

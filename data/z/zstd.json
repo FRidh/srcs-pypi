@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.6.1"
+  ],
+  "meta": {
+    "description": "ZSTD Bindings for Python",
+    "homepage": "https://github.com/sergey-dryabzhinsky/python-zstd",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.4.6": {
+        "sha256": "c9a7c804f20b9372460d5a728d465614775c294a6218b49eccf901fce9589956",
+        "url": "https://files.pythonhosted.org/packages/95/cb/457144f3e692e3ed89e70f981e60d203221e360a2e8deb5a1b60a1fe023f/zstd-0.4.6.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "c42a8e26122c824d970d7aa48635a245a8696abe878de67d51f0eacbf71380cb",
+        "url": "https://files.pythonhosted.org/packages/68/de/3b2627404055921a5f8c1092a9ad79241fba922919d491124631630175ae/zstd-0.6.1.tar.gz"
+      }
+    }
+  ]
+}

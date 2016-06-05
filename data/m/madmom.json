@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.13.1"
+  ],
+  "meta": {
+    "description": "Python audio signal processing library",
+    "homepage": "https://github.com/CPJKU/madmom",
+    "license": "BSD, CC BY-NC-SA"
+  },
+  "versions": [
+    {
+      "0.12": {
+        "sha256": "d21c7dd059c811bd8c5704c7fb18b3effa9f59d20224ca1cc6fae2cf70ae3df3",
+        "url": "https://files.pythonhosted.org/packages/28/0e/752fa1aa85c99a18036be8e2301cef9fc60a02824bba962052aa32c017a6/madmom-0.12.tar.gz"
+      },
+      "0.12.1": {
+        "sha256": "79b4fcffb3b1143e3ad80210cd095a5ff10c4f375d2f5451de69f68ad74410fc",
+        "url": "https://files.pythonhosted.org/packages/c7/92/ec038532e1f174e0b9672662218b30faa4448c1438d4ba68b2289a7f8369/madmom-0.12.1.tar.gz"
+      },
+      "0.13": {
+        "sha256": "4c5c01b2a1e106949c8d41533a3d4eccd0e57ab6529fea5ffe7b82b68caca270",
+        "url": "https://files.pythonhosted.org/packages/f6/38/64a07d5cabc3099484b177f4ad6c8b8148a11b6a21206a0729a257e43e97/madmom-0.13.tar.gz"
+      },
+      "0.13.1": {
+        "sha256": "0a553d17fc70d481718a640eb342667410e2ca8af5cec43e5459ab036b330bda",
+        "url": "https://files.pythonhosted.org/packages/bb/5e/c2ef8193a8201c6fbc6b10fa5e44ea9e50a6a7643590de6fbf893809ecb9/madmom-0.13.1.tar.gz"
+      }
+    }
+  ]
+}

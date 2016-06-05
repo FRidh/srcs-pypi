@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.9.5"
+  ],
+  "meta": {
+    "description": "Multiple dynamic sistes with Django",
+    "homepage": "https://bitbucket.org/levit_scs/django-airavata",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "0.9.3": {
+        "sha256": "ba340172f000334cdc67e6abb61caf8f7022521990e7992c6e750a0574399d10",
+        "url": "https://files.pythonhosted.org/packages/70/d0/76dc19b43560ad1068fb0171a8a676ad817a694d0dafba2852786d4fbf4f/airavata-0.9.3.tar.gz"
+      },
+      "0.9.4": {
+        "sha256": "ce2d61b89983447127897701d1852eedd0e54def62dfc425a02a24119a6f946a",
+        "url": "https://files.pythonhosted.org/packages/96/48/42fbd93b0db9102b5dacc463e263fff5e9b233af24e4c304697466d31844/airavata-0.9.4.tar.gz"
+      },
+      "0.9.5": {
+        "sha256": "899afc3c9c5ebb6f05526e08d2c61af290d225a125a3393310992e65e543ae1f",
+        "url": "https://files.pythonhosted.org/packages/aa/df/3b6aab51bf2bd7eb1e266f3ab816ca23400ec7ed5b222a33d9f42480565e/airavata-0.9.5.tar.gz"
+      }
+    }
+  ]
+}

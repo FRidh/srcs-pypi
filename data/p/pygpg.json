@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "GnuPG python wrapper",
+    "homepage": "https://www.abnorm.org/projects/pygpg/",
+    "license": "GNU General Public License v3 or later (GPLv3+)"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "e82282ee3b37c8cdb9c8affeff664629acfe997f218e2d07cbe211476576be75",
+        "url": "https://files.pythonhosted.org/packages/cb/0d/b8b0f88aa12606541882e995026dedbfdc5ef78a96fc4c265c732759e8e6/pygpg-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "38b3413205a7c8f117824647f2d149983c5b90a442615264226f4d2edb86e7eb",
+        "url": "https://files.pythonhosted.org/packages/b5/4d/41c2fe7a6e9395de76b02b3d5fc2ffd1a32f4b33762e8a6bd024cba5bbc2/pygpg-1.1.tar.gz"
+      }
+    }
+  ]
+}

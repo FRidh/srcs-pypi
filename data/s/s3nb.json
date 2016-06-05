@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.0.5"
+  ],
+  "meta": {
+    "description": "s3 backed notebook manager for ipython 2.0+",
+    "homepage": "https://github.com/monetate/s3nb",
+    "license": "Python"
+  },
+  "versions": [
+    {
+      "0.0.2": {
+        "sha256": "66b52b2f8f2eb0dcaa62d863509d2d3c78603d68a769bfca76a4e870b6bd7bce",
+        "url": "https://files.pythonhosted.org/packages/33/ad/4799e88cc9439dcc36addb92f9afd83c724af088add5e832af0f0d29fdc3/s3nb-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "937fb101b16aff575292ac9be068b7a605a2fc2b1b5add232a7bb164802d44da",
+        "url": "https://files.pythonhosted.org/packages/53/2b/ae37c44b7691d550a63dd65b7c5c41e1e07bba8354f4a985615ce1e88c35/s3nb-0.0.3.tar.gz"
+      },
+      "0.0.4": {
+        "sha256": "dbcddf56ec7d47cb0243dabbb525d0752fcc8cff249506ac8f74b705bea0fcf4",
+        "url": "https://files.pythonhosted.org/packages/d6/d5/f8a92b6b140f543c0827fccd832b7c933f776ade91824f8717202fc2dd4e/s3nb-0.0.4.tar.gz"
+      },
+      "0.0.5": {
+        "sha256": "5b343ed1c5a0f846fbf736794cc15d63a9a36431557ef61b34f907670b6259d5",
+        "url": "https://files.pythonhosted.org/packages/82/f5/eb923ce599d22d715e8c4a3a6ccb975cf078512b7a437e2470b84635708d/s3nb-0.0.5.tar.gz"
+      }
+    }
+  ]
+}

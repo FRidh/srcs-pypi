@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "3.6.0"
+  ],
+  "meta": {
+    "description": "Filesystem synchronization utility for Zope 3",
+    "homepage": "http://pypi.python.org/pypi/zope.app.fssync",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "3.5": {
+        "sha256": "87552822e22734299eb6b76122a85d7ade18f83b253b6576ebeef27849368aed",
+        "url": "https://files.pythonhosted.org/packages/4b/1e/3226296f32a6c2e4411b3d6853e7f98c8cdc52c88f69e91068dd1f4c53de/zope.app.fssync-3.5.tar.gz"
+      },
+      "3.6.0": {
+        "sha256": "0b8d19c88e164271cc51f2418ef3f604de2a72d0d2da80a083e8e7c440ca332c",
+        "url": "https://files.pythonhosted.org/packages/fc/d4/8cc68863d1dddd8a7d68b76fc8085d3a069bf6dd12b91016b79146e2b234/zope.app.fssync-3.6.0.tar.gz"
+      }
+    }
+  ]
+}

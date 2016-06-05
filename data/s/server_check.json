@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Check a DirectAdmin server to see if all components are (still) operating correctly",
+    "homepage": "https://github.com/exonet/scripts/server-check",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "756a6a6f7098a2514638ca2d4a64cc037791066ea75bf035ec7ce99d9ce70189",
+        "url": "https://files.pythonhosted.org/packages/8f/52/b05ab712bbfd7aa60ccea6d308a81689ddf5714275f8f53b3d44d4d03e51/server_check-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "65ca91a5d3c6cfda4f7ebfcf73d1d1ab3cd509a8b97f073c4b37198eaf7691d3",
+        "url": "https://files.pythonhosted.org/packages/c3/66/7ad64eead424972aff2ed326d2ee512d771112570b00f4a31738d4d785d7/server_check-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

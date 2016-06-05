@@ -1,0 +1,102 @@
+{
+  "latest_version": [
+    "1.15"
+  ],
+  "meta": {
+    "description": "Checks which imports are done and compares them to what's in setup.py and warns when discovering missing or unneeded dependencies",
+    "homepage": "https://github.com/reinout/z3c.dependencychecker",
+    "license": "ZPL"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "e24039d459a669769185914905d1162d3bee09ebf0ddfcbc6615601cb001b30d",
+        "url": "https://files.pythonhosted.org/packages/0a/95/053e04e9619b7bb5b1853914631fd029a27bde6690d65b385add268c0b8c/z3c.dependencychecker-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "9fde97823a0b5e3c0166576ac27e987e8a33fc42e11daf5ec7b2d77208f4401c",
+        "url": "https://files.pythonhosted.org/packages/90/80/efafbaf0fafac3b33d5451ef10097cd9d7078989f14fcb71afc72fc7e969/z3c.dependencychecker-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "ad8afad5ea40b4b51c6e3ba2ea9fd0d71ce3078565d1c71c153b2d4df7cfceaa",
+        "url": "https://files.pythonhosted.org/packages/4f/d4/634de589646756dbd4823c1d54877aaf6bf7184dc9103738b1cc1056deb0/z3c.dependencychecker-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "89b49d8652a8c5670e8d075e7bbee93c6f9cb464dd09be9c6df3d24d96588e71",
+        "url": "https://files.pythonhosted.org/packages/ec/7d/7e2ab0abde39919e182a9a1fa8b21f324a5e147e5dffc02447b6f087c028/z3c.dependencychecker-0.5.tar.gz"
+      },
+      "1.0": {
+        "sha256": "243713ffb91b9e17fe582270114676e2d48302f4cb10a6170f0838fbbe643081",
+        "url": "https://files.pythonhosted.org/packages/77/3f/3733af76e7b80754356c08ac580ff9eee774ab68651038034e8aabe9a525/z3c.dependencychecker-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "8e174a2268eb6cbb2c8aa37715a57e17d9c6d4d98bec303e81a14bc995235c8c",
+        "url": "https://files.pythonhosted.org/packages/31/bd/b94eeb9343557b860e400099b0dfb596d1ef291c04cd77f5213701804869/z3c.dependencychecker-1.1.tar.gz"
+      },
+      "1.10": {
+        "sha256": "d2e51cdb9ce9137e57eb9da9d1cabdd1743ae9c4f206d9bc5a442a9191d45e6f",
+        "url": "https://files.pythonhosted.org/packages/c7/6c/d11b4c73cdf6c6fff114dc5c90484b17684f22e7de49212ac2c7df762fba/z3c.dependencychecker-1.10.zip"
+      },
+      "1.11": {
+        "sha256": "302357eab4e5cb92933b4964571e4a932f657a13fc871e8de2b6fedfc8fcfff4",
+        "url": "https://files.pythonhosted.org/packages/4f/d5/de1cc7175b27d1a40c72177455e33b4211767cccf3a385a253539c610d87/z3c.dependencychecker-1.11.zip"
+      },
+      "1.12": {
+        "sha256": "529ad2a3daef7a5b1af158289b30d284d66239e1159936952942d728133d17c3",
+        "url": "https://files.pythonhosted.org/packages/7a/52/a4f02ccc4dbe4f1ef71c45c65ec697aaa1b0290a510d11ef25237fc9e4ec/z3c.dependencychecker-1.12.tar.gz"
+      },
+      "1.13": {
+        "sha256": "01bea0f452d86a20eef371835aaab306f24cccffe811cc5aaca821f7c891e40c",
+        "url": "https://files.pythonhosted.org/packages/44/63/3b96f370af4fe5cbcead6709b8db371fae44afeec174e122c56ce5d7bd18/z3c.dependencychecker-1.13.tar.gz"
+      },
+      "1.14": {
+        "sha256": "52a61424a3c5ad45bfc3ebcba758e0173afad0868e1dee1e666cbefc17d60485",
+        "url": "https://files.pythonhosted.org/packages/3c/a8/1b98a1386d8e02208965209f6301b1b3fc29491e512b2dc8d8037782258f/z3c.dependencychecker-1.14.tar.gz"
+      },
+      "1.15": {
+        "sha256": "95b55b0248961c9d4f6fc3010f6744ba97580909cca2ce38a0e9cf5f10876fa3",
+        "url": "https://files.pythonhosted.org/packages/95/2f/2464be4f63d7e3b0ad349b81be4406f2c9e7405afa772e1108803c72e66c/z3c.dependencychecker-1.15.tar.gz"
+      },
+      "1.2": {
+        "sha256": "eb22777d3af921fa6ab790eafb24cfe01d94332f47c482eb42b67cde7a32662b",
+        "url": "https://files.pythonhosted.org/packages/2a/9e/2560e3027c9d62860c5a485d7433a00e2ac7b6b244895bb3f87ef9130ae2/z3c.dependencychecker-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "e82ceb1a8873ca6dc0ca42916a9487e5ca403c78e2ea4d466e514c2177bf6a7c",
+        "url": "https://files.pythonhosted.org/packages/d4/41/27d20f391e4c1817c0a715fbce3629355f8b1d84604e72fd325789a6755c/z3c.dependencychecker-1.3.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "97552e688b12162925d99c921d99a4e370c8db2a91ae05275c8178e6ace3b1a5",
+        "url": "https://files.pythonhosted.org/packages/b1/25/061c9aa493b1cd35c8117aecaab1d6308c410b2f0ee1f6c41925501250eb/z3c.dependencychecker-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "cd629afded5921e9ea18dd6f336d01d545ecd36565065e622f884493f28c3dc2",
+        "url": "https://files.pythonhosted.org/packages/c5/9c/2cb3fb62fb72dbe9410ae39b3f4a3363a0e6f2fb39bdcd8469de3af7b2b0/z3c.dependencychecker-1.3.2.tar.gz"
+      },
+      "1.4": {
+        "sha256": "58448fe24e768a57f4070e0102222193a1b34801b3860ff34b3167046012960a",
+        "url": "https://files.pythonhosted.org/packages/81/37/9c89b524ca22e21cb9fd10647a841e28b2a901e7f645710bcaba54dd3e1c/z3c.dependencychecker-1.4.tar.gz"
+      },
+      "1.5": {
+        "sha256": "cf08b4f107d9d823e53ed679001939e7be118a0fd1a20f42a7ae59f599b00e9a",
+        "url": "https://files.pythonhosted.org/packages/55/b8/6988b3e41f885a18831c5d8fc8a68a842951ba6c50642679aba997735260/z3c.dependencychecker-1.5.tar.gz"
+      },
+      "1.6": {
+        "sha256": "2adf5bd1d3565a22a0cf4e04c8566730a4bcb6c46c225d6c8cf501c873944b99",
+        "url": "https://files.pythonhosted.org/packages/80/0e/64bfe12af35264190f2bd25a1ae7c1b7f638e59f5f7421e36c93dc117d0d/z3c.dependencychecker-1.6.zip"
+      },
+      "1.7.1": {
+        "sha256": "5bbef5f162bc7a1c214757199e73fbc5b9ff7986dc61e470b4cdd861132f5e57",
+        "url": "https://files.pythonhosted.org/packages/4a/2c/916646e26cdace1ad828845ba14db668a1a84abb0d515e3d4fe65a711ebb/z3c.dependencychecker-1.7.1.zip"
+      },
+      "1.8": {
+        "sha256": "21d767ab4a82cf4e11014220421ab2380a7d7eb0043abcb1079ac45f7f5d5894",
+        "url": "https://files.pythonhosted.org/packages/81/76/144340a023a05288fe76aa9c8c9057008834e39415f4ccd1051d865bab70/z3c.dependencychecker-1.8.zip"
+      },
+      "1.9": {
+        "sha256": "ab80ca2714950009a3780f624421547aaa0ed1f1d59c593063052ef5ca324237",
+        "url": "https://files.pythonhosted.org/packages/aa/f5/6ca7d65785bf3bb882296884671b23158cfcd3496b0fb7ed750ce405a815/z3c.dependencychecker-1.9.zip"
+      }
+    }
+  ]
+}

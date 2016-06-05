@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9"
+  ],
+  "meta": {
+    "description": "A framework for extending Python apps",
+    "homepage": "https://github.com/geniphi/hatch/",
+    "license": "MIT/X11"
+  },
+  "versions": [
+    {
+      "0.8": {
+        "sha256": "de27b7d77686982544a6f6be217a10e8df3e59769dcf7bf6ea9a345af48dd967",
+        "url": "https://files.pythonhosted.org/packages/57/4e/5a105fbfcdeed141079bfe28345012aafd23697d2538bb27040c373cddda/hatch-0.8.zip"
+      },
+      "0.9": {
+        "sha256": "5255683c868b9a052f3cd8b99b8fcded711bd1e9d3a979f160808800f2f513be",
+        "url": "https://files.pythonhosted.org/packages/9e/39/7dd406b3a5a2dda79190e739ec98f639675dc04c4c94a44a89a4a4280461/hatch-0.9.zip"
+      }
+    }
+  ]
+}

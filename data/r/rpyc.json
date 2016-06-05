@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "3.3.0"
+  ],
+  "meta": {
+    "description": "Remote Python Call (RPyC), a transparent and symmetric RPC library",
+    "homepage": "http://rpyc.readthedocs.org",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "3.2.0": {
+        "sha256": "1b48c450a3f4b32e41987f8d48395e5f085b65a07a4fe0491f0974195b8ced27",
+        "url": "https://files.pythonhosted.org/packages/17/bb/0b4e7c72c60864a7c882ce24fab50f95ac4031620f5a8f5f5b11719a1368/rpyc-3.2.0.tar.gz"
+      },
+      "3.2.1": {
+        "sha256": "8c7d276ad778c0c4567fb03e2027a06abe308e6d720449f4f2930b669e8f4fc9",
+        "url": "https://files.pythonhosted.org/packages/13/1d/193a38a9fb1e49a775429eb75fcee24bc73979bafda17f273b8132ef03a2/rpyc-3.2.1.tar.gz"
+      },
+      "3.2.2": {
+        "sha256": "8495e6a2e8a66913e6339d041dc46f9e504a0078f22130c6ef1a7a55f1c8d0dc",
+        "url": "https://files.pythonhosted.org/packages/c8/46/b1e6f5bfda57991d18ceb27db3a3e3fb54d7f1e94b3850370619cc3428da/rpyc-3.2.2.tar.gz"
+      },
+      "3.2.3": {
+        "sha256": "80782d78863bc4f803b2534452dc37c5dcb6e85230af77fe0ce5a0206e37f661",
+        "url": "https://files.pythonhosted.org/packages/d9/f8/18cf44b9bba6ca282b86c4bbdd2f10cfbc1a279295e73d79ae1e0aa1f649/rpyc-3.2.3.tar.gz"
+      },
+      "3.3.0": {
+        "sha256": "43fa845314f0bf442f5f5fab15bb1d1b5fe2011a8fc603f92d8022575cef8b4b",
+        "url": "https://files.pythonhosted.org/packages/5d/66/404dfe062cbd00a12a53ae6e69f69cb085223193c42a40dffd0a9622951d/rpyc-3.3.0.tar.gz"
+      }
+    }
+  ]
+}

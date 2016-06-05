@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.6.2"
+  ],
+  "meta": {
+    "description": "Computes \"goodness\" index for Python packages based on various empirical \"kwalitee\" factors",
+    "homepage": "http://pycheesecake.org/",
+    "license": "PSF"
+  },
+  "versions": [
+    {
+      "0.6": {
+        "sha256": "79b6f2a82efdb96015e08c4a954cb3de79901414fc3d392dbbde551cdfd14ff0",
+        "url": "https://files.pythonhosted.org/packages/e3/79/1e6df08f271ffc6b25a8133cbb8de1ed8cd66ea406ec9f64d66bbc8d48de/cheesecake-0.6.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "97b759a8f1e78823d05ff058c88fd1b12d79105e893a3ec9a0de87bfb745a50f",
+        "url": "https://files.pythonhosted.org/packages/3c/4e/eebe85f40cc4ab756073c5ffb6890d6133fd77802cc45031336ea3b38c0b/cheesecake-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "da6e36c945540e998aa5e0016abccac40a679628c4423f79499f2c6f59506a21",
+        "url": "https://files.pythonhosted.org/packages/6f/5e/1b695f810a314262497c747a12751f247dff1d8b26e08746f6aba83d3482/Cheesecake-0.6.2.tar.gz"
+      }
+    }
+  ]
+}

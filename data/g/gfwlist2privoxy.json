@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "convert gfwlist to privoxy action file",
+    "homepage": "https://github.com/snachx/gfwlist2privoxy",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "ba7e6f3c9b83d477bf2fd92bbb3a76afac90d3197cf277f2d9fbf07c17c3aeb4",
+        "url": "https://files.pythonhosted.org/packages/e9/ca/5b4bc577b91d8e11211e67643f9a039a836b3bc5a25aea61f538f9cb52d3/gfwlist2privoxy-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "34ca6f9995b6bebe7b68ebbb91225663972798417e07faed4a5efbd005c4c862",
+        "url": "https://files.pythonhosted.org/packages/03/c4/bd48492460d5cf54d269335fdc86f51336bfb6d01d8470f3bf06d8a8ca2e/gfwlist2privoxy-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "a976a54e0e2811c0786cbc019039d37d0dea3fc5367666279da9f804897c2ee4",
+        "url": "https://files.pythonhosted.org/packages/fc/4b/c1f13adf28b155b6f7592f3a06bb7334d6e67c57e895b1bad404f53c2ff6/gfwlist2privoxy-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

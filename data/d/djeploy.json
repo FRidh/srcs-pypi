@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "0.2.5-dev"
+  ],
+  "meta": {
+    "description": "Common tasks used to deploy Django powered websites via Fabric",
+    "homepage": "http://bitbucket.org/petersanchez/djeploy/",
+    "license": "BSD License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "c5c4c04ae5b418e22165461aedc57ba0a6b014c3f6d1905d47d539f81566c870",
+        "url": "https://files.pythonhosted.org/packages/1c/af/073147717d38c5355af5e596aadbccedf007f9801ed28e625d81e92efd0b/djeploy-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "95ea32c8b3afedd67462e20a379c31c4869f9a18bf52e6d1a2f07149c8039629",
+        "url": "https://files.pythonhosted.org/packages/a2/26/b832ba7488f15304e84672f3461d3585cf0e181e3268e9a85745105e87ea/djeploy-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "06a8bd30e03334de1f1ca29713df3abe6e0105f207eddf7672b4050611a9140c",
+        "url": "https://files.pythonhosted.org/packages/5b/81/a81cf0a56c340b2de8e4b006ab7d7ec5c7dee529b5b566611851fc4cbeea/djeploy-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "6c6857405f0d2e43fdf0f7c5ba50dbaa4eeec267057868a4ecaef0ca142d9a6f",
+        "url": "https://files.pythonhosted.org/packages/7b/8f/62f2acd94744aeb805f1738e4be388842af25cd4bb726da5710fb54326e0/djeploy-0.2.2.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "034a3540becc0432761d9ce6b9d4588dd599827e1b5934757690662de526aa90",
+        "url": "https://files.pythonhosted.org/packages/77/ce/9f29f796c6799e0ddcdbccd53a3368f0088c44508e9d934efcdad1cef4bf/djeploy-0.2.3.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "6a05d2ba32fe4cae605a515f51d6716ba65aa9473cb91096bdbb579a6d7a8865",
+        "url": "https://files.pythonhosted.org/packages/0d/a2/9a0a4193c4b249559be8e4bb7d982b41e5281ec60517d4859a71687eee14/djeploy-0.2.4.tar.gz"
+      },
+      "0.2.5-dev": {
+        "sha256": "e48f0675ca4e9038d9bafc13bee17046988766c66bb0edf915f4dbe60943edcd",
+        "url": "https://files.pythonhosted.org/packages/a6/9d/43dbf1ec9102ee9bc66d01269d1714db888590aacc43e880eff1969227dc/djeploy-0.2.5-dev.tar.gz"
+      }
+    }
+  ]
+}

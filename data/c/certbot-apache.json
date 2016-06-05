@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.8.0"
+  ],
+  "meta": {
+    "description": "Apache plugin for Certbot",
+    "homepage": "https://github.com/letsencrypt/letsencrypt",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.6.0": {
+        "sha256": "1cfbe751209079a803758f472200816fac559f2a36fdd582d25e3ba5601423a1",
+        "url": "https://files.pythonhosted.org/packages/ff/05/48d2465f5566c14582fd42362a7c65b7e978403d1aaa0e248f97520235fe/certbot-apache-0.6.0.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "1ddbfaf01bcb0b05c0dcc8b2ebd37637f080cf798151e8140c20c9f5fe7bae75",
+        "url": "https://files.pythonhosted.org/packages/27/96/60162d3e0afebe58821c4add6e2632e67aeab2c99d5b1942709148dff5ef/certbot-apache-0.7.0.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "cfb211debbcb0d0645c88d7e8bb38c591fca263bfdb5337242c023956055e268",
+        "url": "https://files.pythonhosted.org/packages/bc/08/688a0311fccfbdca2cdb374f2b23f19838a7e1ddaafbcd73af31a4d4161b/certbot-apache-0.8.0.tar.gz"
+      }
+    }
+  ]
+}

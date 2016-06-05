@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.6.7"
+  ],
+  "meta": {
+    "description": "wrapper for Lourakis' sparse bundle adjustment C library",
+    "homepage": "hg+https://bitbucket.org/devangel77b/python-sba",
+    "license": "GNU GPLv3"
+  },
+  "versions": [
+    {
+      "1.6.3": {
+        "sha256": "0e26d31cc86ebadf1c1d6dc8ae90de1814ea2e4cebbd6e9504570837fd94a1e6",
+        "url": "https://files.pythonhosted.org/packages/ab/6f/bd9005efc3d57ec293961d79a9ed1d0234710ae3655cbaf90be9a8cbae2f/sba-1.6.3.tar.gz"
+      },
+      "1.6.4": {
+        "sha256": "70a53753fbf7f7b0632a6ffbc18722b55cbb0fb9c779dc48c42f0362535a7362",
+        "url": "https://files.pythonhosted.org/packages/61/04/f0bd194defd8c75c995e2c7eb6e9f2df67102bbe108fbecd4252ed24b5db/sba-1.6.4.tar.gz"
+      },
+      "1.6.5": {
+        "sha256": "4e3fe14d172092ec38c8d2f40591b89daa877c1072393a9098b2f43aa7171823",
+        "url": "https://files.pythonhosted.org/packages/c6/ed/64f69aa60cb09b3ea63b8d1b4d11b9ccc1397c26bd6f0c8b3513a9c7c894/sba-1.6.5.tar.gz"
+      },
+      "1.6.5.1": {
+        "sha256": "a092d0ca43d0b48db13983c5bb0851d43026d4e9566374f905ee0f08a72b0712",
+        "url": "https://files.pythonhosted.org/packages/81/fb/becb994dde342792220beb2cbeac2b07c5eacf875029bec3f4f26ff3ca3b/sba-1.6.5.1.tar.gz"
+      },
+      "1.6.7": {
+        "sha256": "846ce70f9440e066403eab280d07afa65b1f07eda318b90056f924d00f6d01c8",
+        "url": "https://files.pythonhosted.org/packages/39/b6/c91ef9ae9c5ee2199272815cd0562a64df38ee51dd6faa8c28483ced91c3/sba-1.6.7.tar.gz"
+      }
+    }
+  ]
+}

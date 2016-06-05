@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Support for Django's request/response lifecycle to automatically handle WebSocket messages",
+    "homepage": "https://github.com/GetBlimp/django-websocket-request",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "9692b5a106352b9d5196bba9cbe25a2c619e698b199bf889bcdcc8358d64be0e",
+        "url": "https://files.pythonhosted.org/packages/07/e2/8bec05e434c99a14b2db21df82da7d4632e325666893fc37ad38f65b5f75/django-websocket-request-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "3daadc93a75a9542f83d6e6d267e2626afc1e687fb3d3aae345419f84244175a",
+        "url": "https://files.pythonhosted.org/packages/40/8e/3053f9c4b4d887e5983a74483d4ac37dcdaae1c827da30764bc4ac3b23ae/django-websocket-request-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

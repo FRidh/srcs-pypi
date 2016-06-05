@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.23"
+  ],
+  "meta": {
+    "description": "Library for analyzing ELF files and DWARF debugging information",
+    "homepage": "https://github.com/eliben/pyelftools",
+    "license": "Public domain"
+  },
+  "versions": [
+    {
+      "0.20": {
+        "sha256": "d02e40a841a8cc38d78cdea8e497f601969e7270ebe00c7e671a3ce73f1cdf45",
+        "url": "https://files.pythonhosted.org/packages/d9/50/e278411ca585d2ef30b35eef6363e671b8020057cc5e852601253478db0c/pyelftools-0.20.tar.gz"
+      },
+      "0.21": {
+        "sha256": "a9a10d894c698ab3a2d909c3df1c3d88d0ab03811351c278b3f520204f33d834",
+        "url": "https://files.pythonhosted.org/packages/77/a1/bc807d82936fbec05e52a3143037ba079e852eb0f743084e65927a0af152/pyelftools-0.21.tar.gz"
+      },
+      "0.22": {
+        "sha256": "9f7dd617b8a577a3834e7dd7f34f49df21c0670e67a48b21add19abe1adffb60",
+        "url": "https://files.pythonhosted.org/packages/57/85/517b4e0bc5ec85d8623b3e102289e74f47bcc42efa0b1bd6692cf3af33de/pyelftools-0.22.tar.gz"
+      },
+      "0.23": {
+        "sha256": "fc57aadd096e8f9b9b03f1a9578f673ee645e1513a5ff0192ef439e77eab21de",
+        "url": "https://files.pythonhosted.org/packages/f4/dd/652eff50811686a1f0d3481cdc8f6e41f00ae22e1cf42f98bc8ebf666ecf/pyelftools-0.23.tar.gz"
+      }
+    }
+  ]
+}

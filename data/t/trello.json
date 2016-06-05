@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "Python library for interacting with the Trello API",
+    "homepage": "https://trello.com/",
+    "license": "Copyright (c) 2012, Fog Creek Software, Inc.\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification,\nare permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list\nof conditions and the following disclaimer.  Redistributions in binary form must\nreproduce the above copyright notice, this list of conditions and the following\ndisclaimer in the documentation and/or other materials provided with the\ndistribution.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR\nANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES\n(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\nLOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON\nANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "adeafbf2cd97cbf19a023ec88d72b3d59999df0d43bb27057f1fe8db14ff3999",
+        "url": "https://files.pythonhosted.org/packages/44/f6/18caf9929e9a87d5ab2d8aa8af5606246ba2b3618f302c443fdfa83efcc3/trello-0.9.zip"
+      },
+      "0.9.1": {
+        "sha256": "594f88ea5f2a4edd337747f00fb0acb80116b92c9bbe1c2c3acfa8c891e5b226",
+        "url": "https://files.pythonhosted.org/packages/15/5e/b39cc09f075766e2f6fd9db63a964eac0db596e68f934fd80bb56b7e1fd2/trello-0.9.1.zip"
+      }
+    }
+  ]
+}

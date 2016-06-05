@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Show a new link (permalink) in Plone contents. This will not change if you move the content itself",
+    "homepage": "http://plone.org/products/collective.permalink",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "997e34151fd711811897f93e693b8175172e6535450aaf64cf41d25b5fa5142b",
+        "url": "https://files.pythonhosted.org/packages/9c/6f/26131b317ecdb181516832c2e4fa0e67f0ef8c07e3283901612f2757c30f/collective.permalink-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "0d777ebe1430d5ce99dab57c704f7ec6b1f9f0bb2ca87b5dc4ccbd7a7b292296",
+        "url": "https://files.pythonhosted.org/packages/b0/d4/036bce8fc6075656bb0f0d6f009efe32c2302341c9546d81323d6f7e9cc0/collective.permalink-0.2.0.zip"
+      },
+      "0.2.1": {
+        "sha256": "f0fe9e7c100e96664c26f54668ece32dd7d568ab04f36b771423c15b5b7925a2",
+        "url": "https://files.pythonhosted.org/packages/0a/ca/bc0699a4deee2de65df7efffa5497807c06338f68a9879d38c80585edc23/collective.permalink-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

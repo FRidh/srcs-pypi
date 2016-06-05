@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.05a"
+  ],
+  "meta": {
+    "description": "Independent Client/Server Debugger (using multiprocessing)",
+    "homepage": "https://github.com/reingart/dbg",
+    "license": "GNU LGPL v3+"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "6d0a830519525757f64bf922b55ab32edfb24ce59e19ba9f0064f54a7120ee64",
+        "url": "https://files.pythonhosted.org/packages/27/1e/970d13fe352a580adf76b7299758c5aa07cbe2020d7a81b825637923fe66/dbg-0.0.1-py3-none-any.whl"
+      },
+      "1.05a": {
+        "sha256": "60f603e0a0560060574e0d2a14bc55c650a50a7a695d2ca1daedac6c24af87e7",
+        "url": "https://files.pythonhosted.org/packages/d6/8d/fc696ae5cd31941179ecb51e5246f6c10337a7c137f835aa5744b76d1317/dbg-1.05a.tar.gz"
+      }
+    }
+  ]
+}

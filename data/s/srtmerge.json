@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "srtmerge (.srt) used to merge two Srt files",
+    "homepage": "https://github.com/wistful/srtmerge",
+    "license": "LGPL"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "2f63cbafbfe594ffa81d10663c5203886a97cf9717fa4f31a778f2f1b41b84fb",
+        "url": "https://files.pythonhosted.org/packages/98/c5/14b5440916b47a95f5b1007fd241ebf600de988e779f78fd7a20841e0ae0/srtmerge-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "7845b7d61c15140f4e80ed846a7fccf43280468c11fb3c2a36d0a1a97d037583",
+        "url": "https://files.pythonhosted.org/packages/9b/01/7db202ec59239e152adedd3d5cae78dcdb4494212ad3685dfb38f7bde8f2/srtmerge-0.6.tar.gz"
+      },
+      "1.0": {
+        "sha256": "4891bc375c38852718d3a8f77b75e0ba894e10183031161f44900778145b6e39",
+        "url": "https://files.pythonhosted.org/packages/9d/89/c4ac7064d054793c1ce4f6ebfe91bdcee251ef3cc34588f815cec7213c06/srtmerge-1.0.zip"
+      }
+    }
+  ]
+}

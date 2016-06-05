@@ -1,0 +1,238 @@
+{
+  "latest_version": [
+    "0.24"
+  ],
+  "meta": {
+    "description": "The Cython compiler for writing C extensions for the Python language",
+    "homepage": "http://cython.org/",
+    "license": "Apache"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "09643312a0f9545f2eafe4c61aa786c1147e18f19faf26c7f50b05f553b73d38",
+        "url": "https://files.pythonhosted.org/packages/10/22/c7188528b6ee79efa5a8d2c0b9f5a9513addf1b56b0dc1e721aab9e96c21/Cython-0.10.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "6147a08786691db0dedaee5259c8f3551456d332f6e2b99515a1c5a07aa5b25f",
+        "url": "https://files.pythonhosted.org/packages/1c/52/b01f5eb38334eab2088c3acd30c50c18037d2b9993243b6b79d70f80be2d/Cython-0.10.1.tar.gz"
+      },
+      "0.10.2": {
+        "sha256": "c84977d63fca5fbc166b7920c30e35aeee41c1551615e0ed845d4bf9f660470d",
+        "url": "https://files.pythonhosted.org/packages/93/c2/5050250f178148876d43237f7edf7a30d3f356b40cebd3f8589a87c4c39c/Cython-0.10.2.tar.gz"
+      },
+      "0.10.3": {
+        "sha256": "a9ac41b270743c067456272a1a0c788008b41f64f388488dfbac54e2a78303b8",
+        "url": "https://files.pythonhosted.org/packages/3a/06/668437cf1b11bf15c06555c7598e2ca3dd535192113470887b698448c5c4/Cython-0.10.3.tar.gz"
+      },
+      "0.11": {
+        "sha256": "eebcd64935dde5b5a78f8398e72665a3661e0173d23f253fa409e04f1c1a7ff6",
+        "url": "https://files.pythonhosted.org/packages/c9/01/3417b3b6c6c9197eac1cd0958f0bf8a7aebd674a587157f4250e75160f42/Cython-0.11.tar.gz"
+      },
+      "0.11.1": {
+        "sha256": "0a8103de967e8bd43aabe0a4844e051b8eadeee3853e2d40c63bc67dd8326455",
+        "url": "https://files.pythonhosted.org/packages/9c/e6/78c59992adf497a1e43ee49966b35481152953c3483f981f4b4094c051ae/Cython-0.11.1.tar.gz"
+      },
+      "0.11.2": {
+        "sha256": "ee2aca7d876dd0a3be589a30fda724a23f5d110d224cab0eef46f122f0003f12",
+        "url": "https://files.pythonhosted.org/packages/82/ec/458d6dad8f5b787516bdb72fba604b10ed09e54d3ca8c050abba82e62872/Cython-0.11.2.tar.gz"
+      },
+      "0.11.3": {
+        "sha256": "5a807fb1bbda664aedd953b776d49a3bcbbc21ffe17a41ff574da6e2ff197f79",
+        "url": "https://files.pythonhosted.org/packages/ca/85/f119735bb28ec49ac7d5cbbe0d5b014ab714ed86ab2bb5ec4a2f09b3f8a2/Cython-0.11.3.tar.gz"
+      },
+      "0.12": {
+        "sha256": "90d611aeff8d017a5ccca3b1e02ec8d6dd0efc7dfd29806f721bc718d3774ea3",
+        "url": "https://files.pythonhosted.org/packages/e1/ea/c53bbcd6d11579df558b7122fdcb94e2acad04f0c2c3ae00e9ac311f16aa/Cython-0.12.tar.gz"
+      },
+      "0.12.1": {
+        "sha256": "0f384ec20c579b80d1960a5795d6517a6885305efa9964bcbf6a7b8da88b9c77",
+        "url": "https://files.pythonhosted.org/packages/8e/d6/289f265e025c78ea6cb1e6aedb272c3c9aac8a406eef66822f16d5f6831c/Cython-0.12.1.tar.gz"
+      },
+      "0.13": {
+        "sha256": "238a1ad0b72a909aef866791d285121b7f0d7c8753a1d45e4ba49da8c7bbbb9a",
+        "url": "https://files.pythonhosted.org/packages/aa/2d/5d29acc1e0c001e21a2cef8b36f25e8475edc9348fe0d1bd6e5b7f0d3788/Cython-0.13.tar.gz"
+      },
+      "0.14": {
+        "sha256": "74be47681103d6e050fd5b4bd130b9cfdad039ec1416fd69b6aa91a1d8ac578b",
+        "url": "https://files.pythonhosted.org/packages/22/7d/7415041ccf99c78322497823069dc0ec0df3ac47481b523fd5c63d83791e/Cython-0.14.tar.gz"
+      },
+      "0.14.1": {
+        "sha256": "89e3f64ea0f97cd29b28d0831a7022dc1f8cf4ffb7be52b9f2fc4b5dcf9243c7",
+        "url": "https://files.pythonhosted.org/packages/1d/01/9655ca6f4f069e6fa30a58e56b631de18036fd878cc42c3ec3eaaf3c9072/Cython-0.14.1.tar.gz"
+      },
+      "0.15": {
+        "sha256": "059775c832014d5e2550e0293fd1bfdc9330ebc98b844a86d4ae6251fde8fee7",
+        "url": "https://files.pythonhosted.org/packages/24/4e/55bda97d0906c4fa766dda87165c3652df3d2ce62aba3f33612cc92bf4f3/Cython-0.15.tar.gz"
+      },
+      "0.15.1": {
+        "sha256": "248123f2f02f2701a28d9452132ac835533b396a273cda9d361cb65c26067edc",
+        "url": "https://files.pythonhosted.org/packages/f7/e8/5e58ad206d04e15baa24b11f3562256ce5d4476c959b69024d426b300f39/Cython-0.15.1.tar.gz"
+      },
+      "0.16": {
+        "sha256": "971651fc5d3c943b0ecf7bc4df86a977bf62623d94542bf2aaa5f7223697e6fb",
+        "url": "https://files.pythonhosted.org/packages/ba/f6/1e4449f53a1fa84a694d8006ce07c935037975e327722190085e5b768562/Cython-0.16.tar.gz"
+      },
+      "0.17": {
+        "sha256": "3969e04489e498cde982f5bebc774b2193e3ba5f9dff6803fd92b4e4897591a3",
+        "url": "https://files.pythonhosted.org/packages/8d/cb/c56392fb3d13b511cf3de190c3f4d9453ef91964930d6476c85a19dbc5c7/Cython-0.17.tar.gz"
+      },
+      "0.17.1": {
+        "sha256": "0d631b67d73aece33eb98c70257adf946e1e5b31633d701c3fcac2dcf42f0e84",
+        "url": "https://files.pythonhosted.org/packages/73/8c/0c7de501038e9aaa6128219bf28989e55f129b5b31c5a66a55f648289466/Cython-0.17.1.tar.gz"
+      },
+      "0.17.2": {
+        "sha256": "ea1a3147d4d952e793a1043d8802ea67747892fefe7fb7e5c0cfb8bf51883be6",
+        "url": "https://files.pythonhosted.org/packages/01/b5/b92d0bc22a96f37e67cd0de8ef9fdb735bb2aba395af8e96e2f4bebe21cf/Cython-0.17.2.tar.gz"
+      },
+      "0.17.3": {
+        "sha256": "2c9f2c2af9aa0519588bf941c9961a59bb8f57ee7f798db878494d1a21c07ece",
+        "url": "https://files.pythonhosted.org/packages/ca/84/06db230f58b19c806343f972c3dca6bd295dd90e26070efe63287b27319a/Cython-0.17.3.tar.gz"
+      },
+      "0.17.4": {
+        "sha256": "aa7a9f9432d15ee9fde2ac49e6f6fb9b74d0c21177e3ba8f023251c8b4a80b39",
+        "url": "https://files.pythonhosted.org/packages/21/36/4274d5ba29d4d01586edb2cea7b49df634efd544d395e06ae3060f4f019e/Cython-0.17.4.tar.gz"
+      },
+      "0.18": {
+        "sha256": "cf4ad7faed6bcfdb76da42492ce26ebf927129da3d4849d6982dd2e843d7de8c",
+        "url": "https://files.pythonhosted.org/packages/ec/75/154f9ada3ebb901da8f3b90f2d05576fc4b3f165b410c95370ec8be5ed5b/Cython-0.18.tar.gz"
+      },
+      "0.19": {
+        "sha256": "2f861fbb2aca49a352a5cf00a65d4383b7ca56a60b50ea813e59a7a9ae6cd7db",
+        "url": "https://files.pythonhosted.org/packages/ff/58/3bbdab6ebf17f47c0163636264da5228b0a1ae722d2a050a1e06473f5991/Cython-0.19.tar.gz"
+      },
+      "0.19.1": {
+        "sha256": "0b90aaa286acdd1bf75a6dd144dfc45192f011f2c2401cf5f80ed6ab5f8bf778",
+        "url": "https://files.pythonhosted.org/packages/19/d2/9e655c7db1e5597566d32a335658624a6e20aaa9979b3b05f59a2979f7d6/Cython-0.19.1.tar.gz"
+      },
+      "0.19.2": {
+        "sha256": "c5b55b0bd40e23a9cbcd2c1bdefe9771fc5836938acef772795813a6f6432c48",
+        "url": "https://files.pythonhosted.org/packages/c0/67/3aa5d791da920ac9643ed54beec08b02dc342c3e83a4b7971766ff99c722/Cython-0.19.2.tar.gz"
+      },
+      "0.20": {
+        "sha256": "19bfd04294952214036de863720f2a1198a7446b59b924b8beae6a23d5b54a7b",
+        "url": "https://files.pythonhosted.org/packages/ad/e5/605b2e3767e50f37edaecfa19d7c83cc6e295b4de69e35c7fc2146c21f0c/Cython-0.20.tar.gz"
+      },
+      "0.20.1": {
+        "sha256": "31a563744a21d7b10355f25a3bca96b37ec5d32bdecfc75e93d65a5f7e62766c",
+        "url": "https://files.pythonhosted.org/packages/81/87/9ceffc2c15a06fcdd82e621b54598da684271ed0c6722b316e7a30e4c18e/Cython-0.20.1.tar.gz"
+      },
+      "0.20.2": {
+        "sha256": "ed13b606a2aeb5bd6c235f8ed6c9988c99d01a033d0d21d56137c13d5c7be63f",
+        "url": "https://files.pythonhosted.org/packages/98/4a/eb57896c70a3cb6c8888bc942df455d96e361065db33a611fab943554219/Cython-0.20.2.tar.gz"
+      },
+      "0.21": {
+        "sha256": "0cd5787fb3f1eaf8326b21bdfcb90aabd3eca7c214c5b7b503fbb82da97bbaa0",
+        "url": "https://files.pythonhosted.org/packages/88/c7/9f6270a2b68a9e2be1f1e732eff9a1b12f230f5ec8e55a20bfd1b24580a0/Cython-0.21.tar.gz"
+      },
+      "0.21.1": {
+        "sha256": "43f64d225186ec7601249ebd1e8f8a7c33767974b493de6783c5b3dd0415bf35",
+        "url": "https://files.pythonhosted.org/packages/ae/b2/f56de6cea0bf1dcc204a966b95eacb0fc824abda30d4d6eb90b160400ddb/Cython-0.21.1.tar.gz"
+      },
+      "0.21.2": {
+        "sha256": "b01af23102143515e6138a4d5e185c2cfa588e0df61c0827de4257bac3393679",
+        "url": "https://files.pythonhosted.org/packages/69/18/2b6455b765f06cb4ec392774871d799a3cdc4967869e66f199954ef42ba2/Cython-0.21.2.tar.gz"
+      },
+      "0.22": {
+        "sha256": "14307e7a69af9a0d0e0024d446af7e51cc0e3e4d0dfb10d36ba837e5e5844015",
+        "url": "https://files.pythonhosted.org/packages/f8/25/80f9ca7e31e2b68cc942ff1d6136588f33a7aef5e2d6abe3f2183cb9fad5/cython-0.22.tar.gz"
+      },
+      "0.22.1": {
+        "sha256": "7fff120e65e7b66edb4a42823f5642bad3bc1e5601bf882d66aee50248cf0682",
+        "url": "https://files.pythonhosted.org/packages/d6/4d/a13bc5ca0b9c6ba9e3846945882e46ab68aaef4cde3bd427d5141dbb412c/Cython-0.22.1.tar.gz"
+      },
+      "0.23": {
+        "sha256": "9fd01e8301c24fb3ba0411ad8eb16f5d9f9f8e66b1281fbe7aba2a9bd9d343dc",
+        "url": "https://files.pythonhosted.org/packages/6a/91/d417a732e958b0f6f3d415d35915634120dc6c4707dca08a78322e29e72d/Cython-0.23.tar.gz"
+      },
+      "0.23.1": {
+        "sha256": "bdfd12d6a2a2e34b9a1bbc1af5a772cabdeedc3851703d249a52dcda8378018a",
+        "url": "https://files.pythonhosted.org/packages/20/83/21ceb604b3aa4f171b8b413d14696317dad61a0134c5d0ef99407c26d5be/Cython-0.23.1.tar.gz"
+      },
+      "0.23.2": {
+        "sha256": "85a8713db65d9ad3e7e2f01e6ac424d4ae2a40349f1391b2b0f494ccb7e0fda7",
+        "url": "https://files.pythonhosted.org/packages/17/15/13cfc9bdb50fc77e9716a82ada908766e45f7507f0451abdcc71b749dc54/Cython-0.23.2.tar.gz"
+      },
+      "0.23.3": {
+        "sha256": "590274ac8dbd1e62cc79d94eb2e2f4ae60cea91a9f8d50b8697d39aba451e82e",
+        "url": "https://files.pythonhosted.org/packages/2c/ac/98896d9635305aa325030cd02a5297756d0f99c2e042685632631949c6cd/Cython-0.23.3.tar.gz"
+      },
+      "0.23.4": {
+        "sha256": "fec42fecee35d6cc02887f1eef4e4952c97402ed2800bfe41bbd9ed1a0730d8e",
+        "url": "https://files.pythonhosted.org/packages/b3/89/e8dddc86bf4f144407962e04c4018f53dfe4d6ae5010d34573d8521e810e/Cython-0.23.4.tar.gz"
+      },
+      "0.23.5": {
+        "sha256": "0ae5a5451a190e03ee36922c4189ca2c88d1df40a89b4f224bc842d388a0d1b6",
+        "url": "https://files.pythonhosted.org/packages/e1/cb/40463287f646d360889a41e820ac32f3015787c15e51dda89662314d889d/Cython-0.23.5.tar.gz"
+      },
+      "0.24": {
+        "sha256": "6de44d8c482128efc12334641347a9c3e5098d807dd3c69e867fa8f84ec2a3f1",
+        "url": "https://files.pythonhosted.org/packages/b1/51/bd5ef7dff3ae02a2c6047aa18d3d06df2fb8a40b00e938e7ea2f75544cac/Cython-0.24.tar.gz"
+      },
+      "0.9.6.10": {
+        "sha256": "2c381a17efacde2241cf66568b780a6a418cacbe3ccc900c32be8a31537b5f08",
+        "url": "https://files.pythonhosted.org/packages/15/36/c6ad81f1aca04465cdaa00569f0872095ac76ba6cf2ca80e7be30a43f93d/Cython-0.9.6.10.tar.gz"
+      },
+      "0.9.6.10.1": {
+        "sha256": "609967193331d72f84927fecb70f3a2c050aab114fe041916d6b45df13b9f6d6",
+        "url": "https://files.pythonhosted.org/packages/10/ff/14b46ca6de7e8a22a16791f0408cc543de265c32aa4d9f6a32c07c8bd1a6/Cython-0.9.6.10.1.tar.gz"
+      },
+      "0.9.6.10b": {
+        "sha256": "c98307edf8fe988000f23f5d3ccc5d975d5f7b1ae9acfd3052665570c2be84ce",
+        "url": "https://files.pythonhosted.org/packages/30/a5/6071362f1cf697cbe2ca25f0f95b7ac7fe1672dc68ed6a0b9e9228670c8c/Cython-0.9.6.10b.tar.gz"
+      },
+      "0.9.6.11": {
+        "sha256": "c7581722c8956377761be12f5fea03f7e5707b54d76a086e62bdff5afd76eb3b",
+        "url": "https://files.pythonhosted.org/packages/37/2d/c21cb7845479381c0d535922f53a0fd84a910252fe9432606955de6b14bf/Cython-0.9.6.11.tar.gz"
+      },
+      "0.9.6.11b": {
+        "sha256": "d1be91f1221273f2a67582037fa17056d3b4631a9d9e046c1481360154bd1d77",
+        "url": "https://files.pythonhosted.org/packages/17/a4/969951e4fe5f5b9b2d22c71b2c3b716c544333246fdf3c709dd325bab497/Cython-0.9.6.11b.tar.gz"
+      },
+      "0.9.6.12": {
+        "sha256": "108f67d840e3eaa45b649db00ca0dc623b49a34c156ac75ee9f67f1836c3424f",
+        "url": "https://files.pythonhosted.org/packages/a4/aa/bb3d78a8da33029746a82f3ce1ce472320c2f75102c8deb8ed9a577f473b/Cython-0.9.6.12.tar.gz"
+      },
+      "0.9.6.13": {
+        "sha256": "579bc89867fb3adc052a658df84356a14bfe21041f02863665a6d3a2d9d6a4a9",
+        "url": "https://files.pythonhosted.org/packages/98/2e/300c48c8e7a6998a1f93a3e71ea3e019dbef01b68b4f1aa5838ed659f8c1/Cython-0.9.6.13.tar.gz"
+      },
+      "0.9.6.13.1": {
+        "sha256": "ee553f484b53cb27ec7a5dcf70b3d8e4b945b9dd51aac6358019396aefee6601",
+        "url": "https://files.pythonhosted.org/packages/88/0d/7500f6e1efbd6f00e18e332454335214f7b4592a517c1ba2ba7d0ede3248/Cython-0.9.6.13.1.tar.gz"
+      },
+      "0.9.6.14": {
+        "sha256": "dde5d254cd00e4182680b1241e9a5feebbc9b4887f5d0bac2ba2935f213c97e7",
+        "url": "https://files.pythonhosted.org/packages/13/d9/27ec736179ba3cb8eb49182fc9396460e40646dc5e0cbc25c1505e46e1ca/Cython-0.9.6.14.tar.gz"
+      },
+      "0.9.6.5": {
+        "sha256": "aa8243cf519c48cb2705e2326fae2f83b0d6712041b48d18550f5fab3580d725",
+        "url": "https://files.pythonhosted.org/packages/72/fe/3351a0baece112c5abea843f3e55085acc52fcd0434c3ce35a119279df17/Cython-0.9.6.5.tar.gz"
+      },
+      "0.9.6.6": {
+        "sha256": "6df7df83f77a3c98032631897bd3b4da864dca8f31afb4c219f1a5539ed60009",
+        "url": "https://files.pythonhosted.org/packages/d5/1e/46e561b76737bbb24a66ca48cbffe2a15f569a5058f46502307eec3e91a0/Cython-0.9.6.6.tar.gz"
+      },
+      "0.9.6.7": {
+        "sha256": "8c2132881775962ed0d74e578d1ba6ff1c632b687a19ee685f63a7aa1bcc46bf",
+        "url": "https://files.pythonhosted.org/packages/ec/89/a9a2b90665350fc00dc56b610e34c7ac12def0da2477b359f151dd541975/Cython-0.9.6.7.tar.gz"
+      },
+      "0.9.6.8": {
+        "sha256": "ee3840b90549755bdd2eaf2cc24758360dadb6dfa2b6245a0216d0c5d4896be2",
+        "url": "https://files.pythonhosted.org/packages/63/65/d45471d4dfffb203f8007a0b3c8be1208cec37f79c324e210669d3e476ea/Cython-0.9.6.8.tar.gz"
+      },
+      "0.9.8": {
+        "sha256": "0605dcf587544e049626a54f7ad5ab84ccf31fef20c0125852abca74bae79d25",
+        "url": "https://files.pythonhosted.org/packages/95/51/a0f33e6a46c05d9ab21d0035e6305bff89d8c23da5d94b7169adaaaca72d/Cython-0.9.8.tar.gz"
+      },
+      "0.9.8.1": {
+        "sha256": "3991a33a5556475598a4a515ba0a2b958d5475298e68d9ef508e4441b41936b3",
+        "url": "https://files.pythonhosted.org/packages/c3/53/e8c1ae1d9723a9015d41e284dddcae0e83d91e02d74c2af3b27a0967f572/Cython-0.9.8.1.tar.gz"
+      },
+      "0.9.8.1.1": {
+        "sha256": "2d00a2cc1ae53039c2d13c3a5c433de688cb93fb963e25d4cc51966dcccbd689",
+        "url": "https://files.pythonhosted.org/packages/a3/59/f929ec1a9f40eedb6906f26809aaadc7ded96d57c592b16116de3e10241b/Cython-0.9.8.1.1.tar.gz"
+      }
+    }
+  ]
+}

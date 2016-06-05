@@ -1,0 +1,2465 @@
+{
+  "latest_version": [
+    "2016.6.3"
+  ],
+  "meta": {
+    "description": "YouTube video downloader",
+    "homepage": "https://github.com/rg3/youtube-dl"
+  },
+  "versions": [
+    {
+      "2012.02.22": {
+        "sha256": "fec2b9d97fa771d2580b5bfac2140af4ba89b5e0fb49f45208c0e4233f3439c7",
+        "url": "https://files.pythonhosted.org/packages/78/78/1472556ec5d25bacc4bec8e17fed2a15f80fdc60893ba171cca35539080c/youtube_dl-2012.02.22.tar.gz"
+      },
+      "2013.01.13": {
+        "sha256": "bd7f0735a27b1ad77d6bcce9debc26457a86140805b653ec295bee0b1b462c39",
+        "url": "https://files.pythonhosted.org/packages/0c/83/68b571b9b57bf2aec431693c19277b983b5f77e0f9c5b44274228307b70a/youtube_dl-2013.01.13.tar.gz"
+      },
+      "2013.01.17": {
+        "sha256": "04cc1d3f4396ef963cbb8fe912e0f7f6b61775d083b9c5ccd09ad66bf4bfb3f7",
+        "url": "https://files.pythonhosted.org/packages/9d/20/43a6d6427a18fd0fb6e8e3fbfbaee106f00236a7c63449b6e03526e09e84/youtube_dl-2013.01.17.tar.gz"
+      },
+      "2013.01.17.1": {
+        "sha256": "3627ebe5f5bc65db8379552e87c5b197ae5eaa9b234b12df9d7b54796b0f7d3d",
+        "url": "https://files.pythonhosted.org/packages/97/39/a49001e9664b404d545a5823b1946cf03ea3aab212a9572ed5be74ecc595/youtube_dl-2013.01.17.1.tar.gz"
+      },
+      "2013.02.01": {
+        "sha256": "69992e5822c210a78c74b865693f2cee317b6cf91c863741ee5757430347af81",
+        "url": "https://files.pythonhosted.org/packages/37/9e/cd22a471af01788940ac133c3d5e612f2d161e98c3aff49707f16ca34bb7/youtube_dl-2013.02.01.tar.gz"
+      },
+      "2013.02.02": {
+        "sha256": "2be52a5205097f85333b6abeed9355eafcd8b8eb9f98c5ada82010892b05b15b",
+        "url": "https://files.pythonhosted.org/packages/2d/44/c8c3e09b41fea8d8c5906addaa094f6e9c31d886379b804f2271a77c1f23/youtube_dl-2013.02.02.tar.gz"
+      },
+      "2013.02.18": {
+        "sha256": "9a86741a392c83cde1fe3ec24d39d0acb853af37a8a844c39dde2ad9fe54460d",
+        "url": "https://files.pythonhosted.org/packages/ab/11/b13a6d588ace3c32a04ec5202d0f94326c6c84464fd77acd1082a4013534/youtube_dl-2013.02.18.tar.gz"
+      },
+      "2013.02.19": {
+        "sha256": "504e10410487c635464c6e4aea0949be278291a7d12f2d12110ecc0128cc37dd",
+        "url": "https://files.pythonhosted.org/packages/b4/7a/1cb216fa508c0055e66dd6cd182d5574b2cc5fe14b9c3731fb8a0da9348e/youtube_dl-2013.02.19.tar.gz"
+      },
+      "2013.02.22": {
+        "sha256": "83a0858f5b6ffa4b99a575f6f002346588d2ae741d0c5b241851a999e65de613",
+        "url": "https://files.pythonhosted.org/packages/20/17/909a0e395f28af7a83f8d55b9aa0520c872de9a95f2fc5cf0e49cd5630f7/youtube_dl-2013.02.22.tar.gz"
+      },
+      "2013.02.25": {
+        "sha256": "a262efbad6e3e8c01de33994693a0a352973d64266a41e544cc348c27f032441",
+        "url": "https://files.pythonhosted.org/packages/41/5b/8e83fd9f81e4a894d3d8cb7411f5560b8fcdf62c86c81fbf9fa1727382df/youtube_dl-2013.02.25.tar.gz"
+      },
+      "2013.03.24": {
+        "sha256": "3fde4d230460de1e1ff5e333e33f9b529e1431f70543e78f1ade29081d2046f6",
+        "url": "https://files.pythonhosted.org/packages/9d/b7/474dcd544891d4eb50078d8eea6098d94bcaa4ced2422bc73716bcc4b31d/youtube_dl-2013.03.24.tar.gz"
+      },
+      "2013.03.24.2": {
+        "sha256": "688d40165b8e90380db866a147d4524de2a8e0cd0d0d8d909caf07d844221d53",
+        "url": "https://files.pythonhosted.org/packages/0e/33/e63805138bdf5e7aea55b9dfc638d615aa29bae0b99e77d3f87774cbb615/youtube_dl-2013.03.24.2.tar.gz"
+      },
+      "2013.03.29": {
+        "sha256": "d46f429aa506ce84061cfd3683252a33e90cf063c3bb7388606f5d501a09657f",
+        "url": "https://files.pythonhosted.org/packages/19/c5/3ada704dadb30b353cf5976f0488cc4086b94c3860020a0cbaac30082aec/youtube_dl-2013.03.29.tar.gz"
+      },
+      "2013.04.03": {
+        "sha256": "073e9f983f4cbf413f075d4323e6dc9ac3957bff9e22e9943423537a4fa215b1",
+        "url": "https://files.pythonhosted.org/packages/18/b4/4c5afeaa4287c857d84ef9a3e2701f490ba42dc29f5a37c4f20cb191d08a/youtube_dl-2013.04.03.tar.gz"
+      },
+      "2013.04.11": {
+        "sha256": "c41b2b3d458de14130a896428a29c7ece4e540e25be7fa8af0f08b4a80ef1f22",
+        "url": "https://files.pythonhosted.org/packages/7a/d9/07d708088e1673a17c68eb2ba656a7b1a83a881d773e60ae4b655fd4bed8/youtube_dl-2013.04.11.tar.gz"
+      },
+      "2013.04.21": {
+        "sha256": "9872c3eac202c20a7bf0c23066436bfa063bd138ffdcaa50fead9587e0ee46a9",
+        "url": "https://files.pythonhosted.org/packages/9c/e3/6bdc16f9683f725dff72e7469f7475376b54bbb474e451ddf188e43802a4/youtube_dl-2013.04.21.tar.gz"
+      },
+      "2013.04.22": {
+        "sha256": "69f91e405d4d011a50c54c6d968a8de87faa8d8354188cddda5ddc6a91e96606",
+        "url": "https://files.pythonhosted.org/packages/d3/2e/070d0370a75e76212eef660257bf6428ae1239f7e942764189352e2555ff/youtube_dl-2013.04.22.tar.gz"
+      },
+      "2013.04.27": {
+        "sha256": "11f6a27bca914486734b9a67dcc61414ebbe8470a631548acade9f6d59803662",
+        "url": "https://files.pythonhosted.org/packages/cd/33/fe965d6252711e65924ab9921fad72eb4aa62658b724003518ba6d1c23cb/youtube_dl-2013.04.27.tar.gz"
+      },
+      "2013.04.28": {
+        "sha256": "aaa90512198944de12c52bab7aa58b22ee5bcf84ffe99a2ee2b0ce797a8bb508",
+        "url": "https://files.pythonhosted.org/packages/c3/58/418cbca45ea5c98d1b508b3006b0c0ee90112ef57296d9ce824c76fe60d7/youtube_dl-2013.04.28.tar.gz"
+      },
+      "2013.04.30": {
+        "sha256": "5f48b21f101700675a4a1bbd0841eceb03cac9bdcbd29f4bc96141232f37a65a",
+        "url": "https://files.pythonhosted.org/packages/0e/dd/2b5df573761863cbaa7482c985fe873838578639398055dfd291af74ddb5/youtube_dl-2013.04.30.tar.gz"
+      },
+      "2013.04.31": {
+        "sha256": "d6f6b1ceb123ef3e95480ad0a235cea1f214e9be2ca6791fbc5e2b5f89bbd606",
+        "url": "https://files.pythonhosted.org/packages/29/ac/34f2826519edcd9504c80a9be820e03c582ab8224ea20c51f5e2b8522541/youtube_dl-2013.04.31.tar.gz"
+      },
+      "2013.05.01": {
+        "sha256": "ce8b2d3343e41f9298d8d09707cb38629b1e921586193057ce5f17f811612ced",
+        "url": "https://files.pythonhosted.org/packages/a8/0b/3da07abf71815efa819548221c2161b4d44e6222c438ccf99791c76462d7/youtube_dl-2013.05.01.tar.gz"
+      },
+      "2013.05.04": {
+        "sha256": "1cb51c7dd76b86dffb5f45c269b69a39dd92d0e26f5a74b4e9ca928868c8b4e5",
+        "url": "https://files.pythonhosted.org/packages/4e/ad/90246b46283621f0f0f5ce3f56bae6ea38559a8467dbb7c50c0a2c3e3a7c/youtube_dl-2013.05.04.tar.gz"
+      },
+      "2013.05.05": {
+        "sha256": "91e88c9420683213fddabea998f68baafbbe6d19f7895bd07e8779829b72d9e3",
+        "url": "https://files.pythonhosted.org/packages/81/0e/0810f64de63af7abc3bbb011f51d9ba6ff1020ffb253f45772acdb75503b/youtube_dl-2013.05.05.tar.gz"
+      },
+      "2013.05.07": {
+        "sha256": "9785851306966fb04a5fd95925798d76931854d0bb7d1da9a796f176c8429034",
+        "url": "https://files.pythonhosted.org/packages/a2/a5/d50ffeeb5dc7119be853b85a32958307bbe7324f556db3217127897054e9/youtube_dl-2013.05.07.tar.gz"
+      },
+      "2013.05.10": {
+        "sha256": "8e2f0741554012052d43e838019ec80f61c1aeba422f9de9b073868879c9489d",
+        "url": "https://files.pythonhosted.org/packages/59/c9/17421dacc9536f22129ac45ad2aee58fed910a53c452e153d07bd82f0ba0/youtube_dl-2013.05.10.tar.gz"
+      },
+      "2013.05.14": {
+        "sha256": "8208c4c081e9635e5c07f7897424b26a3c71809853f3855d35ba34ba385653ef",
+        "url": "https://files.pythonhosted.org/packages/bd/b8/7658e7fb7d6f2a9ba71f089df145be176937fa619b780f05c7d58c4a6179/youtube_dl-2013.05.14.tar.gz"
+      },
+      "2013.05.23": {
+        "sha256": "138e0d2b5a8a48861d4ead30778326a2a6f809829a058de1055dc69f69248cb2",
+        "url": "https://files.pythonhosted.org/packages/2d/87/787dc3236996fc7ba6d2ccc9e996c8b64237b0725ff0bbb7e03f4e763e08/youtube_dl-2013.05.23.tar.gz"
+      },
+      "2013.06.21": {
+        "sha256": "53cffe04f7fcce9b1112024ffa5fa97c8a364b1ac7ad060efe5534f5753d9e7b",
+        "url": "https://files.pythonhosted.org/packages/7f/18/c05dabef782dcf5021b6300cf55b3fbb99608d395baf270d0a11e9577f36/youtube_dl-2013.06.21.tar.gz"
+      },
+      "2013.06.23": {
+        "sha256": "9cbe17e97b7b1c2d4104f22488b60a909587e321c0008f59c67fc70aa1012d7b",
+        "url": "https://files.pythonhosted.org/packages/e3/ea/0c6b3186c10392288d6726b68cf404c302e828a1c6f133f79121d3483eb3/youtube_dl-2013.06.23.tar.gz"
+      },
+      "2013.06.25": {
+        "sha256": "6871138bd9af31718d26f9ad629bd6c88e5d98d42bb08d6ce36c493cd7a46289",
+        "url": "https://files.pythonhosted.org/packages/95/6d/7df6f0fb06c36407982691b3675b1f0fafdb206cfeeeb178e97aed293df5/youtube_dl-2013.06.25.tar.gz"
+      },
+      "2013.06.26": {
+        "sha256": "adb2df42d54b5ba15d9aca417779fdb2cbcfa151345d9f3749dc5e54c1310735",
+        "url": "https://files.pythonhosted.org/packages/4a/2b/faa6f0f3ef1e6198b49ae5e91ac6c08f2ac924a3996b05c3c8267beafea8/youtube_dl-2013.06.26.tar.gz"
+      },
+      "2013.06.27": {
+        "sha256": "b67752e290f54f7b202ae4b4a5528c272b65bd99e72841185de126887fc861ac",
+        "url": "https://files.pythonhosted.org/packages/6a/82/875668971c9308970d74532303702e561eca674fea72d1cdb472938abaeb/youtube_dl-2013.06.27.tar.gz"
+      },
+      "2013.06.28": {
+        "sha256": "afcd41b718ab867b5fb3cdd43dc11da84652c59da4cc8c6f266a40f421ac7461",
+        "url": "https://files.pythonhosted.org/packages/25/c7/c3cc2fb77a87aef5eaf9ab8fe1c5b9bd9f28ae1f049838c059f8cc7f06bd/youtube_dl-2013.06.28.tar.gz"
+      },
+      "2013.06.29": {
+        "sha256": "b0b0e1d30c3834b40c72fe657db9dc6f6ac486b3016638b81963b324c7e7baa7",
+        "url": "https://files.pythonhosted.org/packages/a5/4d/e3aba91555b2a98fc86a6cfc24f0412e29f8bbb189249699a65828d70e31/youtube_dl-2013.06.29.tar.gz"
+      },
+      "2013.06.30": {
+        "sha256": "b6c1b0522e29cee78aadddd18eced031c6a6f2b567cbb1e71fc1a9a09acff58e",
+        "url": "https://files.pythonhosted.org/packages/b6/df/4c0cf4bf1de8529389052cf13111fa9032adbb653a57ed6426544168f129/youtube_dl-2013.06.30.tar.gz"
+      },
+      "2013.06.31": {
+        "sha256": "70aac59c27fb70571ae6f1ea309ccf0dea0ca339048f3b75352e4545c43f23a5",
+        "url": "https://files.pythonhosted.org/packages/49/5e/7b48e8402c01e7437f6c2b57411fde84317ea66c058df6081018ce0dd605/youtube_dl-2013.06.31.tar.gz"
+      },
+      "2013.06.32": {
+        "sha256": "0dde7bbc63fb621fc10442de569eb9ccbf64f7d560a47c6f068cd32a39ca4b79",
+        "url": "https://files.pythonhosted.org/packages/45/27/4e3f9e1d1a5f1d5536e419f7f65d8fb7e5ba2b584be709f65bc7bf326940/youtube_dl-2013.06.32.tar.gz"
+      },
+      "2013.06.33": {
+        "sha256": "d1a238295d00d2b7eedc6cf943548ced14c5f45ce29d044ad71395f2108ef58e",
+        "url": "https://files.pythonhosted.org/packages/07/26/28405d3c273e2842852d68e70fa4116675c29c75ec9ff950e7f93a1999e6/youtube_dl-2013.06.33.tar.gz"
+      },
+      "2013.06.34": {
+        "sha256": "9f0104208b55a9cf142d4efc10055e5f79f6a012431181a3912d7e6ba6af81c0",
+        "url": "https://files.pythonhosted.org/packages/36/11/f5e9b2afcd2de81f0fed11c1937b08a83120a0976b697621a9867c320f0d/youtube_dl-2013.06.34.tar.gz"
+      },
+      "2013.06.34.1": {
+        "sha256": "25160f56d5dcd8f77d3dbfcc167b6f4053603f51aad7db5b5cfd70d743956c81",
+        "url": "https://files.pythonhosted.org/packages/5f/d2/86d32d5d758b4563efad0325e41ece07bdf392870e905f3b858b716fb866/youtube_dl-2013.06.34.1.tar.gz"
+      },
+      "2013.06.34.2": {
+        "sha256": "35d11ca0c1a60c448a855d10db046f17773062554c516409fa73805e902d91d9",
+        "url": "https://files.pythonhosted.org/packages/c7/0f/461ad8f8794f0d9384d9ae2dc226636f5cc55ba715016ae5ec7b58b7b38a/youtube_dl-2013.06.34.2.tar.gz"
+      },
+      "2013.06.34.3": {
+        "sha256": "ccab76cef7b2ecf9cf2ead6dcb290b9242d7ebe55e9b9ec506c532934ad42a77",
+        "url": "https://files.pythonhosted.org/packages/11/ec/31457099c434af2bb8d27869d4a66a809028deab0acf4ae02c2f3b0b53f8/youtube_dl-2013.06.34.3.tar.gz"
+      },
+      "2013.06.34.4": {
+        "sha256": "bcca8c04562b89fdf551b375e05eedea7c4379ba6a55e38e9bb132ca6cc20757",
+        "url": "https://files.pythonhosted.org/packages/a9/2f/280e8e7d41bd22c8f43ede512a81eccce68281815389276f22a8d0ca3d33/youtube_dl-2013.06.34.4.tar.gz"
+      },
+      "2013.07.02": {
+        "sha256": "62f4be3a13e1301b4feed7ac1134498c418fd6357dcc0ae3236ec1cf835d6bb2",
+        "url": "https://files.pythonhosted.org/packages/5e/67/e31f6ebb8a826ee7fea57d412fda77daebbf49d9e7ec82cde942aaf956b5/youtube_dl-2013.07.02.tar.gz"
+      },
+      "2013.07.04": {
+        "sha256": "ff69139c29500308891f55e045b9961a67b0c79733e0ab65cbc8e58d95727871",
+        "url": "https://files.pythonhosted.org/packages/42/18/38dabf572a10ba9e048024bd53c096d3139efec19657d3f6bf4fc7a01b19/youtube_dl-2013.07.04.tar.gz"
+      },
+      "2013.07.05": {
+        "sha256": "25de04dc514f82eda39b113382ab8bb772875eaf953ff7b6a16cf1ecfe177100",
+        "url": "https://files.pythonhosted.org/packages/f7/ec/4a47d5763affeb1775af9b3f4195089904d0b0c4f574240924cded2ec54a/youtube_dl-2013.07.05.tar.gz"
+      },
+      "2013.07.07.01": {
+        "sha256": "71f80eea08e39507bdefcd99372f1ca36acafa47ca308c259faf8768dd0d6601",
+        "url": "https://files.pythonhosted.org/packages/5d/c2/724b0116725694e038b80dc98df54f7a6b001a60ba8cc5f13f4c03069bd6/youtube_dl-2013.07.07.01.tar.gz"
+      },
+      "2013.07.08": {
+        "sha256": "4e1377a47965276a9c11b38cf592b405093f212a8d2eacab2dbeafd71ca6b99f",
+        "url": "https://files.pythonhosted.org/packages/75/43/7dca203d017d9cc26cfb9a1e9af658a1c836a26b933183ac43ebae946188/youtube_dl-2013.07.08.tar.gz"
+      },
+      "2013.07.08.1": {
+        "sha256": "1e0f1df2732c104ff769994bc495b04ee8f15bce5a892f73df9fec0d028b1bb5",
+        "url": "https://files.pythonhosted.org/packages/f7/57/aa83fefafe9cd2a8f28e14f8d1c201f5a1ea62927b20b03190815cb08c1d/youtube_dl-2013.07.08.1.tar.gz"
+      },
+      "2013.07.10": {
+        "sha256": "3c71f02bf25d6b467622882c6df4d62780f8ac7366d24eb3a7211d52b943b78f",
+        "url": "https://files.pythonhosted.org/packages/2b/72/1a12676f8bdfd7da090752bbc4735ba5a979b3583b01fc0d2d8e7464abf5/youtube_dl-2013.07.10.tar.gz"
+      },
+      "2013.07.11": {
+        "sha256": "85c827cce96a2b83f052e1ce76efec38d0ff166945215003badb382a129d70cb",
+        "url": "https://files.pythonhosted.org/packages/48/4f/3fbaff17b8bb130ca4e58a6c93c52ab35e04c8a4bbec953aa3755eb725a0/youtube_dl-2013.07.11.tar.gz"
+      },
+      "2013.07.12": {
+        "sha256": "71dd67f1deed73c19a18a8542afabe18c4f0566c262b127964952aa31315df97",
+        "url": "https://files.pythonhosted.org/packages/0b/a6/b0f49647eabbb3e1ad750aaf96aa5e4df448b7e59a9acbad5910a4509c4d/youtube_dl-2013.07.12.tar.gz"
+      },
+      "2013.07.17": {
+        "sha256": "711ccc731389ad317f6161deeed5a97d6aab21bdc77f882ffb7860494e546653",
+        "url": "https://files.pythonhosted.org/packages/3b/97/7e02edca9d7bc6f69fb508d1437a899b3eb85367ab066cc7b4ec3dae77f9/youtube_dl-2013.07.17.tar.gz"
+      },
+      "2013.07.17.1": {
+        "sha256": "c66523bf68c4047ff8985b17a9a1b1d0b3ef7358f9621017bc82aff77a085df4",
+        "url": "https://files.pythonhosted.org/packages/1e/ed/e405f2436ad25b1c527a7227519a878baeb07f16856d1fc22e0ae523e47b/youtube_dl-2013.07.17.1.tar.gz"
+      },
+      "2013.07.18": {
+        "sha256": "210183568f6ddf035f85d2bc599de7913e0c4671e9034869d156d8915138ec10",
+        "url": "https://files.pythonhosted.org/packages/3c/86/dafa59d7aad1e998105835f13808eefde13c7b8c4e5d9351b81e8e40cf66/youtube_dl-2013.07.18.tar.gz"
+      },
+      "2013.07.19": {
+        "sha256": "50c2f2b1f67722dd70f68dfcaa04d13c83b5a9a545dcbdbcb2383cb7e37d5848",
+        "url": "https://files.pythonhosted.org/packages/5a/6d/62497f359d1464f9a6587dd73baae6efbc68ebc68e2deda55b2803aaf490/youtube_dl-2013.07.19.tar.gz"
+      },
+      "2013.07.24.2": {
+        "sha256": "9be8db07e7bf1b0c1acec7a1630c05d398d3fce0ae9ee4e4c0c087415026efc0",
+        "url": "https://files.pythonhosted.org/packages/35/dd/36847d8ec9748999bd4abc657cf830ebac85fdefb91004afab0a1423ea03/youtube_dl-2013.07.24.2.tar.gz"
+      },
+      "2013.07.25": {
+        "sha256": "791ffdcc853e840fa45f41c02ad95d5a1d1dd80cec9fa9830a2ff8dae51bdbe6",
+        "url": "https://files.pythonhosted.org/packages/87/05/28ed148609f8c50a42036bb180a9e9644e01d9403ab8e3ea8da81d5c79dc/youtube_dl-2013.07.25.tar.gz"
+      },
+      "2013.07.25.1": {
+        "sha256": "b22a6bb4acff3f5cb88ed7dce527ae0ef129e2fdbaf33e14fc4329e8b1ab266a",
+        "url": "https://files.pythonhosted.org/packages/c8/5a/0aec449c6eac238f4d1cd5b3d900ca9623b6127cd90fc12e5e1db99bc04b/youtube_dl-2013.07.25.1.tar.gz"
+      },
+      "2013.07.25.2": {
+        "sha256": "d621f12bb8947588a4af13e075856b3fa64407bc2ec6b7e3c9169c654b5e1714",
+        "url": "https://files.pythonhosted.org/packages/16/e1/4d2d90b9e8e52f609a6fc0716b364ea38866d17ce87997d9842bf9eb3d70/youtube_dl-2013.07.25.2.tar.gz"
+      },
+      "2013.07.31": {
+        "sha256": "121a02db8340cafd22dba7abe5adc87088267a378a8fd1483ce3b04e67e59834",
+        "url": "https://files.pythonhosted.org/packages/8c/ce/4aa03c2edc1343b41d0bca21314a248e22fcd496776c05e859e1644a56f0/youtube_dl-2013.07.31.tar.gz"
+      },
+      "2013.08.02": {
+        "sha256": "e940706bfc92a8f0b52ebcf6cb9e9ef7ee5e67babd28e68b170f5763bf7ffaae",
+        "url": "https://files.pythonhosted.org/packages/fc/bf/b14d613c55719fdbb5c851e12f5d42cfdf7ad2ebbb3a6d78308b945f00c1/youtube_dl-2013.08.02.tar.gz"
+      },
+      "2013.08.08": {
+        "sha256": "07a86b1973dec287b7d8fc4a7968f1e75a25704eb9b6adc30ee8bae69d7b5a46",
+        "url": "https://files.pythonhosted.org/packages/95/56/1c2aebea462be5bc742dd9c2dacefc6f2a297bb4a93201934681204f0ad5/youtube_dl-2013.08.08.tar.gz"
+      },
+      "2013.08.08.1": {
+        "sha256": "04c6b28c7a15efd5b4621059dd73f56b241cbdcbf125b5b1a012ef36d531c3ef",
+        "url": "https://files.pythonhosted.org/packages/b5/3a/0b9a7a6d19df02cfc0bb37c9a02cf28fa80732ec1a159b5f1fb2dbc6c1e1/youtube_dl-2013.08.08.1.tar.gz"
+      },
+      "2013.08.09": {
+        "sha256": "b0996fb02407f5e8f50100cd67df89c24a34706384a1e16e8e44411d76a1924b",
+        "url": "https://files.pythonhosted.org/packages/1a/50/2373d0e6448201acbe8f5ecedc793f7797510c9c95895de0f99ad7c4e0d1/youtube_dl-2013.08.09.tar.gz"
+      },
+      "2013.08.14": {
+        "sha256": "fcae255612f12ae2370e6d33186d512f99c96699d57e0f734c70c07486ff3d2d",
+        "url": "https://files.pythonhosted.org/packages/74/1c/ed69e500230274a26f8c70c92c2e1b05dca79496061d04f662ef9f38340b/youtube_dl-2013.08.14.tar.gz"
+      },
+      "2013.08.15": {
+        "sha256": "de0d5e7beb2608d69f406a1878460aa967b628e1455cba3e9392aaec57486646",
+        "url": "https://files.pythonhosted.org/packages/2c/c2/3deb7824476d5e787fc77aab46010b4fa8b7ff7451247543be0736add28b/youtube_dl-2013.08.15.tar.gz"
+      },
+      "2013.08.17": {
+        "sha256": "f4fcec8272f134a37e5b56791e8682c8f95e763889039377ece9f25064587d4d",
+        "url": "https://files.pythonhosted.org/packages/c4/e0/af1869bac36ad0b9fd2fba27c020c9c4a0554146ecf3e005e5cdb254b9e7/youtube_dl-2013.08.17.tar.gz"
+      },
+      "2013.08.22": {
+        "sha256": "ead3d30a05922dfca3f6f48b87b66535b8c791bf715803f28338ffe01dc98a9e",
+        "url": "https://files.pythonhosted.org/packages/92/d7/922c317c5695599e90f27e0484728fe6f1da1103e4b78e97bb4bf2a67fd6/youtube_dl-2013.08.22.tar.gz"
+      },
+      "2013.08.23": {
+        "sha256": "30133f489a322795d31d4ec42cc40c53a19d54f35326ba702b7a267b26401d78",
+        "url": "https://files.pythonhosted.org/packages/ed/25/15d2bce7eda215a25144cf1ddcad26e2a72c3769d734f0707f92975df02a/youtube_dl-2013.08.23.tar.gz"
+      },
+      "2013.08.27": {
+        "sha256": "e2fa0b03aa15ee20150411e15512054d153e2f019711701182f89d471deaa645",
+        "url": "https://files.pythonhosted.org/packages/f0/60/9bea6c19363fbb3ba77cb5e7e5b901b0836dc4e10b295503484efbd7a62c/youtube_dl-2013.08.27.tar.gz"
+      },
+      "2013.08.28": {
+        "sha256": "322fd2c743e50f99f8c3228a81bee8ca4ac872b52070fe4c6d1db5b3b520168f",
+        "url": "https://files.pythonhosted.org/packages/ef/25/78c5eb985b27cbc68d3f7368174dabde17e4e64d1e2ab116190c72b943d5/youtube_dl-2013.08.28.tar.gz"
+      },
+      "2013.08.28.1": {
+        "sha256": "5c196e10a74d372683674a0657c22781f750639af59258e2047ccf965ebd16e6",
+        "url": "https://files.pythonhosted.org/packages/8c/aa/2568d2b7e8208ef818cbf029924e07427cb83d818eaf22bdf7dfc824f179/youtube_dl-2013.08.28.1.tar.gz"
+      },
+      "2013.08.29": {
+        "sha256": "d8480171720e51a4a7c302c9dd2285862d4f19d7a7fbcd77df8a946bba9e524d",
+        "url": "https://files.pythonhosted.org/packages/70/dc/d2cc80271453e9a25b5e6d12ca9d5fc8a56c74ac3dda908e71d7f2261926/youtube_dl-2013.08.29.tar.gz"
+      },
+      "2013.08.30": {
+        "sha256": "701e10e10802e182bd24d21fd664a931b72cfdeff589ccf483b623c0dd1f6ea8",
+        "url": "https://files.pythonhosted.org/packages/b7/a8/759376cd11a1c2c0f6507d809123ec21558d5945e8cc4b7a3ee3332c54e7/youtube_dl-2013.08.30.tar.gz"
+      },
+      "2013.09.04": {
+        "sha256": "8bcb88b19183d78effe4912e30a759d709f7c00ed60f4b8acec72946b7bf00a0",
+        "url": "https://files.pythonhosted.org/packages/54/5e/b01675e40bd33dba7026505d3919884c54e8c128da87afed82a80c2ec9be/youtube_dl-2013.09.04.tar.gz"
+      },
+      "2013.09.05": {
+        "sha256": "6c2512779e6d5264484c478558f0a56dbda6654392c5ce35f2629b01a69bace8",
+        "url": "https://files.pythonhosted.org/packages/7f/8d/9ece99349e4b7d5953321e239e574e73d2be0d706b12703194746d55b15b/youtube_dl-2013.09.05.tar.gz"
+      },
+      "2013.09.06": {
+        "sha256": "95cb5df66cc5ff3f5fbb9b7f157ec8cae5a1edcd16a983c86e2bedb7eca92ff2",
+        "url": "https://files.pythonhosted.org/packages/04/39/36441ef120d9ff26a2c934880a9f010af4dfd89ba291dca16adc75eaea7d/youtube_dl-2013.09.06.tar.gz"
+      },
+      "2013.09.06.1": {
+        "sha256": "0e7c743570c01b301fa5ffbb126a52ac025c35fd8d0bb58614d2ebaa52f3b9d3",
+        "url": "https://files.pythonhosted.org/packages/38/13/25385b79b1db59b3eea09e79ff7cbbf7f4d9ead72aa7b9caa86bb5805696/youtube_dl-2013.09.06.1.tar.gz"
+      },
+      "2013.09.07": {
+        "sha256": "92bb9db4e450e53eae6216e23960833dafcbda4687d261499095c5f985036bdc",
+        "url": "https://files.pythonhosted.org/packages/00/66/e3a0c0fc641a6a7ed28c900bc944161bd58f0350e04cbc6c96669179818f/youtube_dl-2013.09.07.tar.gz"
+      },
+      "2013.09.10": {
+        "sha256": "a37578584de8bfa4275f19fcbf4c1a9bc2b69ac68228d4a49fb78ea7e8ffcaad",
+        "url": "https://files.pythonhosted.org/packages/26/e0/f5995f78951b5a59397d7ff3d0d31cd34d02bb35b6b97598f28e9dd05b6f/youtube_dl-2013.09.10.tar.gz"
+      },
+      "2013.09.16": {
+        "sha256": "7c7e5f0615ca6da0044d0ca56ee2a17b5dd57c286c9db20b161107607d74d24a",
+        "url": "https://files.pythonhosted.org/packages/a6/c6/6fcf26617c498f2d904c5779c34546baa96c34d9b9fb3e3597d344780138/youtube_dl-2013.09.16.tar.gz"
+      },
+      "2013.09.17": {
+        "sha256": "50a0c425cbece412e023472fb2a326a6e48e1f279f65c2e89c653e056e3888cb",
+        "url": "https://files.pythonhosted.org/packages/3f/71/9d4e3187785fc7acce561f9f664fe2bdd54777b8c2585f75e0369c6c0ae7/youtube_dl-2013.09.17.tar.gz"
+      },
+      "2013.09.20": {
+        "sha256": "a10ef9db35ae480bf13150a1d41dbbe2a14d45d30e7740a9a95884c7e1d0f6f8",
+        "url": "https://files.pythonhosted.org/packages/58/7c/044081fa6256128c5429225c635493303d0bcf6b0a4bc9e6a594a1d295df/youtube_dl-2013.09.20.tar.gz"
+      },
+      "2013.09.20.1": {
+        "sha256": "1c84123d3c7691fbef9cda5ce7789079d977017b9bb0c53960d248eaae3306f5",
+        "url": "https://files.pythonhosted.org/packages/6a/77/72b8c2db72556f1cf7816e4bc6478b993b1799b180988bca8fc658c8552f/youtube_dl-2013.09.20.1.tar.gz"
+      },
+      "2013.09.24": {
+        "sha256": "1f039e984d937448d3c79729003d46089bcf5e2665366612e83805630a026771",
+        "url": "https://files.pythonhosted.org/packages/b0/b9/b482a5d2bdd6b793a99243f36ce8b50b423a93d39c7f872de19f5b93e479/youtube_dl-2013.09.24.tar.gz"
+      },
+      "2013.09.24.1": {
+        "sha256": "e84973c7e0534b9c1f170f80de8ee9b33dc6959a8a4fc7bbb3e2c1b5164e18a4",
+        "url": "https://files.pythonhosted.org/packages/5d/00/cd76ea8067f8abd0845b3ffc7d6db3be4796cc907254a2124d3643e25bab/youtube_dl-2013.09.24.1.tar.gz"
+      },
+      "2013.09.24.2": {
+        "sha256": "0373732816ead77351a9868ea79b50d9fe2e659f90c21077c8e7d1d838e37a6a",
+        "url": "https://files.pythonhosted.org/packages/f7/13/cd28ba7b96935010dd88131e5b475f011867262f2d8d2611641bb3a235cc/youtube_dl-2013.09.24.2.tar.gz"
+      },
+      "2013.09.29": {
+        "sha256": "667a7d1fb2e93866d75004d2ebd55840651c6d3e1483eb808a9c2cd74bd47ba0",
+        "url": "https://files.pythonhosted.org/packages/5e/30/544eb080ae4e0c114fc779409bc3524abedfce1a9b49a8c72fd37b82aa32/youtube_dl-2013.09.29.tar.gz"
+      },
+      "2013.10.01": {
+        "sha256": "0245e4c303ebfb23e338e9aa678bc2ebede870793166f64eda540f2022aaddf3",
+        "url": "https://files.pythonhosted.org/packages/7a/5f/640c26fffa74b03a74f2bd5c98c78c812d5e1f074e1fc4eda8615070811e/youtube_dl-2013.10.01.tar.gz"
+      },
+      "2013.10.01.1": {
+        "sha256": "1c92d676789444649a54af6ecb03f0d1e7c1570f6076b4aac3af284740720de2",
+        "url": "https://files.pythonhosted.org/packages/5e/30/38952a0b780c5c20adb18f4562877c59839a0f504010ff53c9e2ab8cebdb/youtube_dl-2013.10.01.1.tar.gz"
+      },
+      "2013.10.04": {
+        "sha256": "ae888c05f32561c4b674cb979597b22d3a6d94c6144b55b970efb6433bb57632",
+        "url": "https://files.pythonhosted.org/packages/e2/9c/dd9ea6d480a8af7093cbd1ba6b58d8dcf2a888bf455eef9784a5ccff0210/youtube_dl-2013.10.04.tar.gz"
+      },
+      "2013.10.06": {
+        "sha256": "a12d218430c9b800996d083c7ae099e3405fd1a0980760514aab53d644a3f0e7",
+        "url": "https://files.pythonhosted.org/packages/e7/fe/29fc527f1032d5c28e225a2946bb54feb6f1771544969b8d9e5f5babf3fe/youtube_dl-2013.10.06.tar.gz"
+      },
+      "2013.10.07": {
+        "sha256": "c81010f6afeb98f4f39d4fc998c0292494454f1411dc0a20c0e15b0521530dab",
+        "url": "https://files.pythonhosted.org/packages/f2/8f/dab4721dd99abf12094adc082093658d2388649d541e06517f377351c257/youtube_dl-2013.10.07.tar.gz"
+      },
+      "2013.10.09": {
+        "sha256": "f2748f833d517d6604371fbf789b2a726725e584e79dea45fc2d6060b51d23f9",
+        "url": "https://files.pythonhosted.org/packages/7c/7a/38df696bf6f55201bc8619c9f9df842f8eeeab476b3c0b4c74524d83b55a/youtube_dl-2013.10.09.tar.gz"
+      },
+      "2013.10.15": {
+        "sha256": "99b436ebf0cbc3ea34e28fe3b51433705d70bcc70e64ae5a3da68085207adb2b",
+        "url": "https://files.pythonhosted.org/packages/7f/f9/9176a92cb16bdd7590e8f98a4c69b363e36c782d18689c46999e1370b2a3/youtube_dl-2013.10.15.tar.gz"
+      },
+      "2013.10.17": {
+        "sha256": "04eaa3faaec1bcffdf73a7a2185d61c7f1a153222c65c71cb55764dc0a707765",
+        "url": "https://files.pythonhosted.org/packages/a3/31/0a4a74c1a6ddce5ac67925c70aa9b676ad775ff0ef62e7f655a1c83afce0/youtube_dl-2013.10.17.tar.gz"
+      },
+      "2013.10.18": {
+        "sha256": "1177c9bcd33b107b9d91a4a7b433ab65af3e340fae95ebbb562cf8624634db91",
+        "url": "https://files.pythonhosted.org/packages/c2/c9/d85da888d9d8a96b07cef0d5834bcfa10ef1629562ad9afa50f25a28425d/youtube_dl-2013.10.18.tar.gz"
+      },
+      "2013.10.18.1": {
+        "sha256": "ba520db7406561f8a55ee30c393e47f32fa086a2c0ee497730960fb59190bea4",
+        "url": "https://files.pythonhosted.org/packages/ee/52/946f13cd9cb809363e43282ea8c83a07fc6c2a8b5e77de3e5c8d4dd9fe15/youtube_dl-2013.10.18.1.tar.gz"
+      },
+      "2013.10.18.2": {
+        "sha256": "a33e35620bc43f3bbf03836a16d188e6330a5e2a6984a58369f46a61a8dc0c88",
+        "url": "https://files.pythonhosted.org/packages/02/1f/395d9c9d4b19d2441a857e5064460fcf8efe459cd8aa9369274ff83dc52c/youtube_dl-2013.10.18.2.tar.gz"
+      },
+      "2013.10.22": {
+        "sha256": "0952335c04793fc8a3044dfc51a2c78c8fc7f66b39f49c40c81742a7ce003fcb",
+        "url": "https://files.pythonhosted.org/packages/e3/eb/5369a4c6f52aeb1877cd6eafe3047de8c11958ac7b4986d80542e3e4c22b/youtube_dl-2013.10.22.tar.gz"
+      },
+      "2013.10.23": {
+        "sha256": "956a831328da7c70dcff6087e08f2664126a186fa2a0a35445b4949dfd240c73",
+        "url": "https://files.pythonhosted.org/packages/6c/87/178183b954471160ba9ac735db9d8c430d319b3027ac90933c6bbfa1eb59/youtube_dl-2013.10.23.tar.gz"
+      },
+      "2013.10.23.1": {
+        "sha256": "afdb8f50a1e06f473043798c45d7f5481d518052e3afdd440f957ffda53dcfd4",
+        "url": "https://files.pythonhosted.org/packages/53/ef/42fbce0c2820694fc4f8882cb8a59ecc355d8156aa599c2319823ae85279/youtube_dl-2013.10.23.1.tar.gz"
+      },
+      "2013.10.23.2": {
+        "sha256": "ccaa2780fb37c4b70f3203ca27dcb392795f4462c1c60ca5ec72ce0b85047718",
+        "url": "https://files.pythonhosted.org/packages/9b/93/b8086e94401aa576e42f8a063e41d977f7eb08fcaecaf54cdc4a0d4c6b07/youtube_dl-2013.10.23.2.tar.gz"
+      },
+      "2013.10.28": {
+        "sha256": "0c0a5dc3099836893509e01df44851edfff5ce6d4bd8f498f50242c11c961a70",
+        "url": "https://files.pythonhosted.org/packages/0c/93/4792896ed35da9ffde710501fbc02d2d6e946320d3a68ebf5e6e101f94a2/youtube_dl-2013.10.28.tar.gz"
+      },
+      "2013.10.29": {
+        "sha256": "ed2a16d5a0aeb513522dc5262c64dd286480fb2791b85b0f72df49494bccdfcc",
+        "url": "https://files.pythonhosted.org/packages/51/20/3b56f5e4cabdc239283ed696d4e48a47716d8ad491d82ac09de6e0e97173/youtube_dl-2013.10.29.tar.gz"
+      },
+      "2013.10.30": {
+        "sha256": "c5b4a0ca2c9e08ad0dbe9f7e0b58ce798ef96cb1ae802b01d206988cf3ce98a4",
+        "url": "https://files.pythonhosted.org/packages/1f/dd/3f5ee357b6932382e38ceb8fdf16258f0b89ef091b1c14bcfffa4fbee624/youtube_dl-2013.10.30.tar.gz"
+      },
+      "2013.11.02": {
+        "sha256": "c38ed3dd10c49d2c576b29df4c7c0963c317867f8d551b20f3727f4dd5e4800c",
+        "url": "https://files.pythonhosted.org/packages/40/38/83dd971fd32635aa86a96dd28857f96bb0e1914f491723b08e344d3a1770/youtube_dl-2013.11.02.tar.gz"
+      },
+      "2013.11.03": {
+        "sha256": "a84fde5239a57b0a04793089c82fd1725140d474b6056ec2f26fad05985eff25",
+        "url": "https://files.pythonhosted.org/packages/07/66/bf2a59f8ac1e3807ff48f57c479faee07008da9d776824fdeb4378f7a0cb/youtube_dl-2013.11.03.tar.gz"
+      },
+      "2013.11.06": {
+        "sha256": "e3ac4c350c6de7dea80ed5986726c94ee0b451a09d5567c106c66e51de1dbc25",
+        "url": "https://files.pythonhosted.org/packages/cc/92/a02334121de31a12c307393c2fa589278b5e05ede989a54304b5d710bbbc/youtube_dl-2013.11.06.tar.gz"
+      },
+      "2013.11.06.1": {
+        "sha256": "4e5826c0e1106d61911ba72ff59ece946b4e1931ec8268bfaa59209a0efc20bf",
+        "url": "https://files.pythonhosted.org/packages/1c/af/b392e2beb8d2f2eb6393c52767214b9a85abd1fa58182ea0c35d77eeddb2/youtube_dl-2013.11.06.1.tar.gz"
+      },
+      "2013.11.07": {
+        "sha256": "baa15242e95506021e79f62678b98a838a013f56972c90be47f5554757bbb499",
+        "url": "https://files.pythonhosted.org/packages/c8/55/919848a1a900e35b9be7080a229fdcd37d2e2f0250b3e60dcad3526e3f5c/youtube_dl-2013.11.07.tar.gz"
+      },
+      "2013.11.11": {
+        "sha256": "7c90fcd02dfc8c8cf5e0f1028b61ba2ad180b3a5b84242e83f5691394ccf7382",
+        "url": "https://files.pythonhosted.org/packages/d1/3b/1fc151be9ff065b3eea1d346339aa9f6630738a0bbfcd013c915233348d0/youtube_dl-2013.11.11.tar.gz"
+      },
+      "2013.11.13": {
+        "sha256": "0e940badb409395b21699727a8e068da4e769acc7d43b2145320f5c04e7afac8",
+        "url": "https://files.pythonhosted.org/packages/53/d9/a3f67a8a7c06c8571c5e8bed5d1d6d3450a5250e3754ae193f175acba38e/youtube_dl-2013.11.13.tar.gz"
+      },
+      "2013.11.15": {
+        "sha256": "c732a7f54510448d049fe5d3e74016101ef1ba43b3f2558f897b791dc88b15e9",
+        "url": "https://files.pythonhosted.org/packages/6f/7b/cb3c6b7823cd9aa4e2e2b2dc4de043035aa371341bc353138cf86b05df1c/youtube_dl-2013.11.15.tar.gz"
+      },
+      "2013.11.17": {
+        "sha256": "8d87399049fd6e967fc2f67e967e10e51c4b206af4445d7d23f7150ca61f6ac0",
+        "url": "https://files.pythonhosted.org/packages/6a/c5/b4f471fe4d537d3c622fb0a570be3278f245b8301ac22cfce6a65039c9c3/youtube_dl-2013.11.17.tar.gz"
+      },
+      "2013.11.18": {
+        "sha256": "7f238da892232161ad8064a56f947ee5a4f1b2b321af1c75b96b063244214e7c",
+        "url": "https://files.pythonhosted.org/packages/17/8c/ac50ee64dabdcbb7c0d90b102d24cb90cacc0356a2497199fb1ba6f3e9a3/youtube_dl-2013.11.18.tar.gz"
+      },
+      "2013.11.18.1": {
+        "sha256": "457bb1ebcf5bf2a6d16e6fe6d862c014feb224f9eade158c7369854f8c54fb4f",
+        "url": "https://files.pythonhosted.org/packages/76/a0/103d320ff8328088c7ee03ffe98612e1f61ab9a568c6c3267f54491a5661/youtube_dl-2013.11.18.1.tar.gz"
+      },
+      "2013.11.19": {
+        "sha256": "19e8896621b75b54e070610dd62ff40c162247273ddd166ef8a03114aa0c4ae1",
+        "url": "https://files.pythonhosted.org/packages/59/d6/1ba5b918177a9f90d18d07a6a61344ca0c3ff488da291b816511e8b31850/youtube_dl-2013.11.19.tar.gz"
+      },
+      "2013.11.20": {
+        "sha256": "76d080696dc49c5d781929ce407b91abcc9c161ef09cc6bd0c146ea3bd95e5f3",
+        "url": "https://files.pythonhosted.org/packages/60/df/b59bbdf6a81f4657d632b659b7ec0ea7e938afa97d85c55db17b6fdfffec/youtube_dl-2013.11.20.tar.gz"
+      },
+      "2013.11.21": {
+        "sha256": "fcd39b3d93f2f7488cf072a44f042612c30b8e604d2c10994e97649fa968045d",
+        "url": "https://files.pythonhosted.org/packages/f2/86/c1b26dced6af2aa51f95fc4390e4688c7cf2e47be63fa3320cc0b3d7d0ce/youtube_dl-2013.11.21.tar.gz"
+      },
+      "2013.11.22": {
+        "sha256": "e8fa2b768573ce7b8648921fb891356c56931aa51c0e7e2fcbed7fb920cfcd0c",
+        "url": "https://files.pythonhosted.org/packages/2f/fa/839bcd9fff85757e8922cd8d51674716a506d474b17a2b5b3e27065e5a75/youtube_dl-2013.11.22.tar.gz"
+      },
+      "2013.11.22.1": {
+        "sha256": "094d756d26c62da1724a511112970e7a93738b6e16626b7b4884c6ccd2ec457d",
+        "url": "https://files.pythonhosted.org/packages/40/ae/bf76d27bb0010db3cb6bad92f5af08cde4f141ecb2f39d10a13e0ad22873/youtube_dl-2013.11.22.1.tar.gz"
+      },
+      "2013.11.22.2": {
+        "sha256": "64ce4356ee25044bbf8522a623b3f89743166307f71fbb38edd8dd0f3ef6d596",
+        "url": "https://files.pythonhosted.org/packages/ec/77/bc98dc58f318b46426098889fc1d1744027770694cc7339d00278cdae7bb/youtube_dl-2013.11.22.2.tar.gz"
+      },
+      "2013.11.24": {
+        "sha256": "8e2b4d9e0388805d29eedbe575888ff50008466c450f2721f70cf93b3021a25d",
+        "url": "https://files.pythonhosted.org/packages/e7/2c/3676e70789d8fb8c67519da1e2919aa9a34110782cc69701559bc0b79d37/youtube_dl-2013.11.24.tar.gz"
+      },
+      "2013.11.24.1": {
+        "sha256": "c3c2b534c4a09d6a10ab8e6e84c94f752290db2c162dd1569bde78f2c7d50404",
+        "url": "https://files.pythonhosted.org/packages/8e/1e/37495e6cbd334f47491faf5a1ce8562f0cae4be3aababa931f01b630a991/youtube_dl-2013.11.24.1.tar.gz"
+      },
+      "2013.11.25": {
+        "sha256": "9ed20341a7276e813c0554c231d0949df86616c3f3bd0a87a10b7c602ebf45b5",
+        "url": "https://files.pythonhosted.org/packages/bf/e9/fa46d0203be127e153d78120c777e2a262595cd0f8b0558eaf2af79497cb/youtube_dl-2013.11.25.tar.gz"
+      },
+      "2013.11.25.1": {
+        "sha256": "175756c2d411c8d841bf78c9278f4cf396bab8d29374829e1f5e3903376a6cf5",
+        "url": "https://files.pythonhosted.org/packages/f5/00/e03d440cdc6dedd8a874af5fcaca75861f1966e51458b30299151ca309aa/youtube_dl-2013.11.25.1.tar.gz"
+      },
+      "2013.11.25.2": {
+        "sha256": "4c79eb16cb6ba9c003596b5e62d1dacd6e0c669046d2b80bdd50a35e10ee9420",
+        "url": "https://files.pythonhosted.org/packages/2e/7d/241e6b61083795e312203a26de94a336344e004e0b7d5d2512b3aa521c73/youtube_dl-2013.11.25.2.tar.gz"
+      },
+      "2013.11.25.3": {
+        "sha256": "9f1a97917d9cb6779a7894b2bd2b11ba406a2702218753167be717a9f0ff8b82",
+        "url": "https://files.pythonhosted.org/packages/19/16/a357df183a5675f75e0acd3bd72a7b2b1b04e4a640de7fed18c120d96eb4/youtube_dl-2013.11.25.3.tar.gz"
+      },
+      "2013.11.26": {
+        "sha256": "44235812ded1aa4b2dd0306e4a9b88a184f57d487468f6c2908ab539a3040990",
+        "url": "https://files.pythonhosted.org/packages/09/c1/d66d1ff2cc2bad90b15324374c537928612b1f18d942ef445d315dcaa63d/youtube_dl-2013.11.26.tar.gz"
+      },
+      "2013.11.28": {
+        "sha256": "e1a09fe60e532230058b38332f187ec5440992765471480e2c8f1ce4b192934c",
+        "url": "https://files.pythonhosted.org/packages/4e/80/239bdc4a807aff1a2a1cfd704ce28f5784b46c96af3f6b73ca5a36e7803b/youtube_dl-2013.11.28.tar.gz"
+      },
+      "2013.11.28.1": {
+        "sha256": "1c9644f8848e1657f63d2a8ad118298c9d69255d0e5107fe025c0ad83c48cbeb",
+        "url": "https://files.pythonhosted.org/packages/3b/d7/a5566377d76c207e5757193718dacf9c001449bed399ba5e319c731edc9e/youtube_dl-2013.11.28.1.tar.gz"
+      },
+      "2013.11.29": {
+        "sha256": "db29e55772e389aca6cf1e459970056906a6bce6ddd7bf7004854fc25f6cc769",
+        "url": "https://files.pythonhosted.org/packages/9c/e2/d95aa5f0c4a6067c577d3c3e2beac88b0ced200e428072260e6e34b6ef4e/youtube_dl-2013.11.29.tar.gz"
+      },
+      "2013.12.02": {
+        "sha256": "da934c2942254843144479f3fd7e8ff4595a9f397f68ce484b666efd4c6ba744",
+        "url": "https://files.pythonhosted.org/packages/ab/ec/b5ad707c3ca743b1bbb669859969663cc6b73aef8f93bc87d39d28299e57/youtube_dl-2013.12.02.tar.gz"
+      },
+      "2013.12.03": {
+        "sha256": "6ee9653820df3228ad7420550885ac9df4eb2a1a89ecca4459b248a8912f01e5",
+        "url": "https://files.pythonhosted.org/packages/ad/76/54a7296f995290c284cbc92d9a4ff45440e4a21b901ab2e143e98e2f9a44/youtube_dl-2013.12.03.tar.gz"
+      },
+      "2013.12.04": {
+        "sha256": "ba897b1c8763b47aef7841d012e88291c3d3babe766f70169ff3091cea36ba5c",
+        "url": "https://files.pythonhosted.org/packages/c4/d0/456d09feebdcb67e258e23fe6c1d7c28c5e3f0ab0d2bc8feb8acb17a6241/youtube_dl-2013.12.04.tar.gz"
+      },
+      "2013.12.08": {
+        "sha256": "edb65afe72cfc0bec50efddf6d7159450852dd13078d8c4825395676247ae961",
+        "url": "https://files.pythonhosted.org/packages/b7/aa/bec237f56277db0523b4ff7b6bf0033248eaaf1f9eb399ad90f165160d3e/youtube_dl-2013.12.08.tar.gz"
+      },
+      "2013.12.08.1": {
+        "sha256": "85fcc1091fbae73164301f341dbe5fc444268010ecd792cf068f3e4a9ab03438",
+        "url": "https://files.pythonhosted.org/packages/a6/9f/252427273aeb696d2c1e479ba7230633e86f6a9c0194070eed802784d927/youtube_dl-2013.12.08.1.tar.gz"
+      },
+      "2013.12.09": {
+        "sha256": "bea8f16ccdf9d6918976a8ccc7b396ea45dca6b30dd00686bb250359629d359e",
+        "url": "https://files.pythonhosted.org/packages/15/a4/d5d68eea79a5b786b92c2c2bdf012418241906bccac51d698a5d406b7024/youtube_dl-2013.12.09.tar.gz"
+      },
+      "2013.12.09.1": {
+        "sha256": "07cbeb5be4e9f1515e4d365e1c2f23e2a213516701c99fb62cb15fa0a4ea25f6",
+        "url": "https://files.pythonhosted.org/packages/7d/8d/07e324d53edbe38f404abe695dbfeacdbb8e57fd371b32689c136a8c53c9/youtube_dl-2013.12.09.1.tar.gz"
+      },
+      "2013.12.09.2": {
+        "sha256": "1cfd2a13e12761906d2874223877bb8edfc6b3446112bd6beca69f61a2c140f4",
+        "url": "https://files.pythonhosted.org/packages/80/0b/2e4fa595fcca9509f4cfcbb68733084f2b61a865b8af79322cc57d45864f/youtube_dl-2013.12.09.2.tar.gz"
+      },
+      "2013.12.09.4": {
+        "sha256": "8e0d8a252d877c29a9af6f61d4bccf525117e64e528558faebe88cd36c417274",
+        "url": "https://files.pythonhosted.org/packages/7a/7f/85f674ca779f6476028cd1bc7b9971430aad3a24e811eee43050e712d1dd/youtube_dl-2013.12.09.4.tar.gz"
+      },
+      "2013.12.10": {
+        "sha256": "8e988cf9dc605c0d9294cdb9584e6219e94c9e682b8881e6dc0e2eb4c3108c98",
+        "url": "https://files.pythonhosted.org/packages/76/57/c8b4da85189e0719f19c81b0f059337a32d8ee255013a0d1176a1e0bdfba/youtube_dl-2013.12.10.tar.gz"
+      },
+      "2013.12.11": {
+        "sha256": "2147d473b6136cb430d337688b11cc0ad704a9721b8e948c596415c15d029c1b",
+        "url": "https://files.pythonhosted.org/packages/90/7f/3909339e8e4ed979eb538e703c740afe2102c23d507abf0ec162942c2efb/youtube_dl-2013.12.11.tar.gz"
+      },
+      "2013.12.11.1": {
+        "sha256": "57c4314d3a71753816159cbf4c3245ae630f71e73f74f3084635b21c7b01ddd1",
+        "url": "https://files.pythonhosted.org/packages/c1/f3/ccbd544d58e01864a61c2e3114dfc2710d32bb9f8dd413c79f21285d1f7a/youtube_dl-2013.12.11.1.tar.gz"
+      },
+      "2013.12.11.2": {
+        "sha256": "4de2a52bf61e40b8e69f529e1b368d9d5124a07ed31a2ff8456d27f6746ac7a5",
+        "url": "https://files.pythonhosted.org/packages/6a/18/4f8ff4a655e9d2218ddb48186df858b586e84534eed9b34f1e26e634c04b/youtube_dl-2013.12.11.2.tar.gz"
+      },
+      "2013.12.16": {
+        "sha256": "1940d354b5fa8c47a413802b6dfd903bd39548627eb79ac040d93934ce5cc407",
+        "url": "https://files.pythonhosted.org/packages/22/98/8b4e81723c021a7e6fd95e5923c93045926d39423e01e79a8e2ffde61929/youtube_dl-2013.12.16.tar.gz"
+      },
+      "2013.12.16.1": {
+        "sha256": "ed97711ec1b9ee8492f114feee577ada3b2a1bb2c8cb5eddf1acea0a9ee04375",
+        "url": "https://files.pythonhosted.org/packages/98/10/406bbebc5aeb9513fa49162191dc3184803000f7267e8e5060087490ee5f/youtube_dl-2013.12.16.1.tar.gz"
+      },
+      "2013.12.16.2": {
+        "sha256": "e287c7f6708046f95c199ee5c727b011bd14cda67fd995b5d8d85f8b7f64d503",
+        "url": "https://files.pythonhosted.org/packages/a4/31/3b0907b9c9769b794ee190d4317350dbf3e7995694c720ac16cfc214c78d/youtube_dl-2013.12.16.2.tar.gz"
+      },
+      "2013.12.16.3": {
+        "sha256": "8774733c6afd123812b7869c79c15efb052816e54dbe7219d03baddc9130e609",
+        "url": "https://files.pythonhosted.org/packages/ea/46/4e8c162f06631adfd9b1c0c96acfeff240a826407f9b2929443bd50a8525/youtube_dl-2013.12.16.3.tar.gz"
+      },
+      "2013.12.16.4": {
+        "sha256": "c7e22e9ec00289624c7e432bff5dc303f47183478f2adf90535e467e11bdf0ee",
+        "url": "https://files.pythonhosted.org/packages/2a/df/60e71999348fe62df4a98017e2f1591f097bf1dd79f2e01f0453d5ae3226/youtube_dl-2013.12.16.4.tar.gz"
+      },
+      "2013.12.16.6": {
+        "sha256": "16efb42549f5da8ee3d470b67fa8f285354b490b275491c4158b57404a16eae4",
+        "url": "https://files.pythonhosted.org/packages/a2/86/c014d7d4b0722607273236db33a0f50d544da4439a1eff95c8b6bdd0c2b1/youtube_dl-2013.12.16.6.tar.gz"
+      },
+      "2013.12.16.7": {
+        "sha256": "54aebd5a4937237106df1907d584af15def47896823fb714dd370497eb999ca3",
+        "url": "https://files.pythonhosted.org/packages/6d/40/78f5f6fe75dc2e8abc814b11c6fd4e40a06ca8aab5edd2771f3d4883c5ed/youtube_dl-2013.12.16.7.tar.gz"
+      },
+      "2013.12.17": {
+        "sha256": "d115439c9f72b05d7d139dcefe956155af1c824c975837a136e2ad4853b6207b",
+        "url": "https://files.pythonhosted.org/packages/b1/c1/08c87fefdc4b91f435f2c675ffbbe0f946df513484887b290af24b4d73b7/youtube_dl-2013.12.17.tar.gz"
+      },
+      "2013.12.17.1": {
+        "sha256": "518b0ee54a4b1b1c6dbfb9397d27e8d5d2660e258eb692090c17fb981ef35e0a",
+        "url": "https://files.pythonhosted.org/packages/ad/b1/01a2eb6d6891d8b79a1bea2c65b271bbe1b7d021dbc501956e2c9e97b46e/youtube_dl-2013.12.17.1.tar.gz"
+      },
+      "2013.12.17.2": {
+        "sha256": "58ce5ad1281be9936c27f6765e540e2817561d48cd10909ab79a184a2942f310",
+        "url": "https://files.pythonhosted.org/packages/5e/51/859f4508e3e378f5d804978d2b4fa57a151ebd0c6a0500923384f828c10b/youtube_dl-2013.12.17.2.tar.gz"
+      },
+      "2013.12.20": {
+        "sha256": "1e6697e5c89db5c5d307a43a09c4ce88fcc076a4775dc37b86c2c919a2fef167",
+        "url": "https://files.pythonhosted.org/packages/62/2d/c0faa39cd044b0d92c520724901ce6bb1807d7d9c4276115f8255b41d41f/youtube_dl-2013.12.20.tar.gz"
+      },
+      "2013.12.23": {
+        "sha256": "cf9f6caae86c2da1c6db88f444a484850a2c9a7c9aac025b8e6015e784132bfa",
+        "url": "https://files.pythonhosted.org/packages/a2/58/8055a8fa4047560632b45bacd23a35ff8a4532f1c92e957381885c68b959/youtube_dl-2013.12.23.tar.gz"
+      },
+      "2013.12.23.1": {
+        "sha256": "215c1aa727d30ee16401d73d6d73ff2462dccf5efb99794f6fd4567fc329804d",
+        "url": "https://files.pythonhosted.org/packages/fb/4a/980becc59f76636286d56eae7718ef090980504539535d523a6968e39d63/youtube_dl-2013.12.23.1.tar.gz"
+      },
+      "2013.12.23.2": {
+        "sha256": "9f949e599255e8a3db70557090f7c0d41955f4ca081fcd6b320680a72d7c9cd4",
+        "url": "https://files.pythonhosted.org/packages/21/78/2f7f57f1c180108b576005ffbee85eebc0a0cdc0fdbe71b61638d928ee7c/youtube_dl-2013.12.23.2.tar.gz"
+      },
+      "2013.12.23.3": {
+        "sha256": "7434b7a267394bd6ba5a126c47d7ca989013b0e4aef60e8d45739f22ffe11005",
+        "url": "https://files.pythonhosted.org/packages/75/00/b79bc437959cfe76d4b9a1d2efc0bad56da8fb38a7f0ed2ef05fdf90fe88/youtube_dl-2013.12.23.3.tar.gz"
+      },
+      "2013.12.23.4": {
+        "sha256": "83c46aacb41f11eafcb80c9925c3d60f98b9274cb7a70e5d3d8f7e134e84eea6",
+        "url": "https://files.pythonhosted.org/packages/6e/ce/f33d6303698e83b4ed42974241c6c0eb567fdd0691cc3cab396cdb609a20/youtube_dl-2013.12.23.4.tar.gz"
+      },
+      "2013.12.26": {
+        "sha256": "7c802c91eda910e79245384d11bff9d44130970a3b874a117e63fee2b7888758",
+        "url": "https://files.pythonhosted.org/packages/8f/2c/f6286ca19eb6c46c9062deb4d18485b789131a69df87a6aaa8d2ea07abda/youtube_dl-2013.12.26.tar.gz"
+      },
+      "2014.01.03": {
+        "sha256": "89c25a550b40ff1b05ba8fe7ac472be2886e041062af584b8fbd0c53172a7f7b",
+        "url": "https://files.pythonhosted.org/packages/45/af/bbb875b1cd3d104f067ac141a2921422ca4cf9cf8049ed3857e3c7c2b33b/youtube_dl-2014.01.03.tar.gz"
+      },
+      "2014.01.05.1": {
+        "sha256": "2137f7186be6244034310f5fc76ed95497521cebe19de4574335c759fb4c60a5",
+        "url": "https://files.pythonhosted.org/packages/a1/27/8987adde42505b4d993101f30e5d02f9f595efb2c71cb46e45ad4e753bc0/youtube_dl-2014.01.05.1.tar.gz"
+      },
+      "2014.01.05.3": {
+        "sha256": "83a9dae918c67566889d1995ac317cd77961f5abbaacc922cb5c293c11108f02",
+        "url": "https://files.pythonhosted.org/packages/70/b3/1e16d51b2afc7ee88a69ef90e771ab7d616299affe5ed4872f2fd7740827/youtube_dl-2014.01.05.3.tar.gz"
+      },
+      "2014.01.05.4": {
+        "sha256": "71e4d1840057aafbac212ae95a999482591b5df7085c5be429af44f48f40777a",
+        "url": "https://files.pythonhosted.org/packages/f2/57/8b06255953db8134a8ef22d0c753236afbd7a30d79e098ec1004c41ed992/youtube_dl-2014.01.05.4.tar.gz"
+      },
+      "2014.01.05.5": {
+        "sha256": "595fb11fdf3506b32d7155e07b152268e196b530c680895dce984476ab9fbed9",
+        "url": "https://files.pythonhosted.org/packages/24/c3/65d548558ccbf4965fdd5aac6ff3a2dc93d0a2d0847efebd3aa3c1978176/youtube_dl-2014.01.05.5.tar.gz"
+      },
+      "2014.01.05.6": {
+        "sha256": "5c2e9bbb0e457c31d02b2c62b39f265e9a44b2802de03321b5deca542678ccdf",
+        "url": "https://files.pythonhosted.org/packages/29/c2/55c194e5c0e00bea99f77268979692e359f54223ec50e55fee9c0cda27bf/youtube_dl-2014.01.05.6.tar.gz"
+      },
+      "2014.01.06": {
+        "sha256": "a8022e43cdd89c792611f1ddfcfc8600036ad4698a0eaff57b61382ca6a4cc39",
+        "url": "https://files.pythonhosted.org/packages/4d/cb/227d5bd53bb413798cee1edb7fe147c2bd586b54ceb2512ba02456d57975/youtube_dl-2014.01.06.tar.gz"
+      },
+      "2014.01.06.1": {
+        "sha256": "fe248f404f71631b2fc8c50b8e341dabfa6d0bd9bd5f3d83ff400c8b48bbb694",
+        "url": "https://files.pythonhosted.org/packages/d7/2b/82fcbec33489b39ed56a8031a5682029f6f030d910befcaa14f18b888b5b/youtube_dl-2014.01.06.1.tar.gz"
+      },
+      "2014.01.07": {
+        "sha256": "76f133fe29a3c49747826e50dbdb82d39768abdfb2ab380fdf179907373b8b51",
+        "url": "https://files.pythonhosted.org/packages/49/47/3e3b572d7da34a4847aab9f3293e11b418d59969a25860fc350487e04ba9/youtube_dl-2014.01.07.tar.gz"
+      },
+      "2014.01.07.1": {
+        "sha256": "6582aa2cad09a7b71f7d6064a662d286ed4c5aef96d0177875a20f8288e73479",
+        "url": "https://files.pythonhosted.org/packages/32/f5/d002956057305a282e814ee7c35d852e8122761c39654c50191186e69bf1/youtube_dl-2014.01.07.1.tar.gz"
+      },
+      "2014.01.07.3": {
+        "sha256": "756e372441d442fbc205712a1677b32ccbeadf5925b14e4f71e06acfadb67387",
+        "url": "https://files.pythonhosted.org/packages/d5/05/7b91dfc975261559d911fd197b012a37a2e24183121d0eb473740f3c56dd/youtube_dl-2014.01.07.3.tar.gz"
+      },
+      "2014.01.07.5": {
+        "sha256": "2b53f553b1299ce1b20645c7807c24847d635901fd5970950eb5b88ae169009f",
+        "url": "https://files.pythonhosted.org/packages/88/43/351f8b7a288e0bc8a2a0ad3909472c1f8e22846de40cf56fbfdbc115d26d/youtube_dl-2014.01.07.5.tar.gz"
+      },
+      "2014.01.08": {
+        "sha256": "1c3ba2fb801616e3fd38b11ce97e9f8f991569792b2cd2816700c85375a3e8c1",
+        "url": "https://files.pythonhosted.org/packages/f9/71/5b00a1246b8b35d848fe2a8257c13e547ba8c49f75672fd1c004f8079b4c/youtube_dl-2014.01.08.tar.gz"
+      },
+      "2014.01.17.2": {
+        "sha256": "abc75e0373638f9159071c6ffa884bed3d4478b92558ec3fee2fd02d42b2a417",
+        "url": "https://files.pythonhosted.org/packages/ed/ae/4ac5e9a3e21e7e653df89df41a8455a558a58562aa16652b31ed939f8534/youtube_dl-2014.01.17.2.tar.gz"
+      },
+      "2014.01.20": {
+        "sha256": "62ce3d08aa8d4af03be649cd8b8ea7ee930e824e6ee37b7ef8016f586afce635",
+        "url": "https://files.pythonhosted.org/packages/84/67/6d534822f000ee127e1efe18e4342f4a07984d84dc25e80bd78e7ad1fe16/youtube_dl-2014.01.20.tar.gz"
+      },
+      "2014.01.21": {
+        "sha256": "f992a747b39944ea08371c7b07ffd8e47be6fe2cf90fed8b3806faf885615b35",
+        "url": "https://files.pythonhosted.org/packages/8a/65/4173b6b5ee55472e9239d65d41f454d03e267a0236347b40cdbd085eac05/youtube_dl-2014.01.21.tar.gz"
+      },
+      "2014.01.21.1": {
+        "sha256": "eb7671908900fe990b03c4e3c0cf07d82e8a5fba279c444fc909e819282b57a1",
+        "url": "https://files.pythonhosted.org/packages/35/a9/872208baccc94fffa596d7bc96998518a97412f9105f74b99f4da1642754/youtube_dl-2014.01.21.1.tar.gz"
+      },
+      "2014.01.22": {
+        "sha256": "a032fcbdf2fca529397997b953c75964ab0d3ac5ddaa00ffd93a3ea6b512f341",
+        "url": "https://files.pythonhosted.org/packages/30/01/2fc792c4d6e27450dc02ce539192f12d7e0677e94a2ad6a4250b937847c9/youtube_dl-2014.01.22.tar.gz"
+      },
+      "2014.01.22.1": {
+        "sha256": "70420b7e1a694b76df6ad111447e012a4dd6cdc564877cc459a34a777d14daba",
+        "url": "https://files.pythonhosted.org/packages/c0/cf/cdb14c9c104c54085aae6a67271d2ec48001d8c11a3f87cc9cc3c350260d/youtube_dl-2014.01.22.1.tar.gz"
+      },
+      "2014.01.22.2": {
+        "sha256": "e93a95285fc3f5b48a4617208719ac100badb7d2346ba9238efd04e623052fa8",
+        "url": "https://files.pythonhosted.org/packages/44/49/51fb8bab198fd54a00819ec2f7443b41064cf5d32d3cb3fc4920b401ba4f/youtube_dl-2014.01.22.2.tar.gz"
+      },
+      "2014.01.22.3": {
+        "sha256": "0e00691fdbd2a44f4a2be01d3811d4b3ebf927230a8005c5246ee8882f940ed8",
+        "url": "https://files.pythonhosted.org/packages/77/48/597f91b01b8f2641fb20def089f39cf0a55795153b91aabf24e00d7724a4/youtube_dl-2014.01.22.3.tar.gz"
+      },
+      "2014.01.22.4": {
+        "sha256": "95161c2dd960326558c4add1fa3dba15df9fa0cfd2441990732f7764ada47535",
+        "url": "https://files.pythonhosted.org/packages/d1/7f/7db0bda52bd1eda4979714c0594aa074953ace47375289c8e6ec55f0886f/youtube_dl-2014.01.22.4.tar.gz"
+      },
+      "2014.01.22.5": {
+        "sha256": "0d55a9afee09a01010186c820150aef05046c5e9b263b63e2cb8b0c2b3bd8980",
+        "url": "https://files.pythonhosted.org/packages/83/bd/573b1e5083c71f631331f62224daa80b8d8ef5de46e86d12ee2f26e0109a/youtube_dl-2014.01.22.5.tar.gz"
+      },
+      "2014.01.23": {
+        "sha256": "a40b5cb97db726ad0a0f56c5caa3db9e2c7da913ba4f5ac108cfa21af7d94af9",
+        "url": "https://files.pythonhosted.org/packages/d2/1c/6c6e144f2f6ed18809a93857d3e3ebf905d260f8f20af4b273987550deda/youtube_dl-2014.01.23.tar.gz"
+      },
+      "2014.01.23.1": {
+        "sha256": "36a28b7aea94f25ce5ec8813b63b28234119f8137e315c3f70798a1d1e0211c8",
+        "url": "https://files.pythonhosted.org/packages/eb/6c/c4d2f84a0bcf81df203df554b0c951da5322ff379cb177e93a1591c0d387/youtube_dl-2014.01.23.1.tar.gz"
+      },
+      "2014.01.23.2": {
+        "sha256": "fbb64df41b5fb1d2ed59cfb795ec998189324d67df2d652075862f7970e636c0",
+        "url": "https://files.pythonhosted.org/packages/b5/ff/d6256c7ce60ce7308107884faf4dda85359bd8912480a86a817be3d6f911/youtube_dl-2014.01.23.2.tar.gz"
+      },
+      "2014.01.23.3": {
+        "sha256": "adee92e01aa42374715b2f7557966d9502682c4dbe9fa6d53bb7166dd905bb71",
+        "url": "https://files.pythonhosted.org/packages/88/48/0fb71ba26000ddc1cd748ece211069683cccd3c02dbfc38ff67afe323118/youtube_dl-2014.01.23.3.tar.gz"
+      },
+      "2014.01.23.4": {
+        "sha256": "1885013db8cb5d3d4ea1d9acc35ec5213cf7ab8fddff61b38d4ae3547f35847e",
+        "url": "https://files.pythonhosted.org/packages/cb/2e/4cb78bc9c558672160f4ba2ccf7faf4957bc2b2681f8572c8b6b2258d356/youtube_dl-2014.01.23.4.tar.gz"
+      },
+      "2014.01.27": {
+        "sha256": "e80206f6f38b773fae9db91d2079bb2c7f68762fa9dcc1b03d8b6a86c322c6ae",
+        "url": "https://files.pythonhosted.org/packages/9d/77/6d845885e3433e47a93d0961468bee995ed1d7170c0d964c19a2faecf294/youtube_dl-2014.01.27.tar.gz"
+      },
+      "2014.01.27.1": {
+        "sha256": "f5e9cef3545888c29f077d95ba094235f1798c0f8b340b8aceef7f0f15b6eefa",
+        "url": "https://files.pythonhosted.org/packages/55/ce/46b072d7de7fe75a94d4e95f48ab0e7fd19ee0d0fc665fddabeae734ca84/youtube_dl-2014.01.27.1.tar.gz"
+      },
+      "2014.01.27.2": {
+        "sha256": "d19f259ee5aeb10e1b74e030c3961b2c88e74dc4175a64d3836fb721c4feb16f",
+        "url": "https://files.pythonhosted.org/packages/f0/07/259d7fe12fab2ae13ff0545d02fcd1d76d8f9621f8e11afcb76b852eb0ed/youtube_dl-2014.01.27.2.tar.gz"
+      },
+      "2014.01.28.1": {
+        "sha256": "53421c02a28c67aefbfe70f559c8129034b4c344d0975584570d654c32f63510",
+        "url": "https://files.pythonhosted.org/packages/d2/d3/22959b56753a3fc0a7af25a420445c6b1cffc8b1b69cba965be38f5a58e5/youtube_dl-2014.01.28.1.tar.gz"
+      },
+      "2014.01.29": {
+        "sha256": "7d5bcf280b582cda3bea797535b7eb1a0ccf51f247f2a39cff9715d673ecfb5b",
+        "url": "https://files.pythonhosted.org/packages/8e/ac/fa8efbc9974c56b5e7f9cb2c015aa9e4d4e62d1194710c2ab1b1f7de6c32/youtube_dl-2014.01.29.tar.gz"
+      },
+      "2014.01.30": {
+        "sha256": "ff8c6591cfb354c22e444c2853b52eb6d4728dcde79d17c747adc65b6b3caf69",
+        "url": "https://files.pythonhosted.org/packages/06/d5/e43795f0edb2e74f442f2e963655b167e7d404119a1751a53f3ab4ecda2b/youtube_dl-2014.01.30.tar.gz"
+      },
+      "2014.01.30.1": {
+        "sha256": "f74a2e8fb82f1f436b13d1a0c6dc48fe1430cdfc45397c09479e5ca78edc6e8b",
+        "url": "https://files.pythonhosted.org/packages/f8/95/7211d914f2ddecdd859dc259fe010cc9988fe0bb668ed03cced97b6aeb6c/youtube_dl-2014.01.30.1.tar.gz"
+      },
+      "2014.01.30.2": {
+        "sha256": "84fa0c3210be8a0668253901a657ae107b336acdf17b5e9a3588319410a22283",
+        "url": "https://files.pythonhosted.org/packages/f8/41/d7171e9307865251f1b9f147e1a3be8554f9859e13f3e2754ddbd82908aa/youtube_dl-2014.01.30.2.tar.gz"
+      },
+      "2014.02.03": {
+        "sha256": "0905fc693b6343c8ab02200f8a5f15b33b56cf392827454a34f6571f0c0ec59d",
+        "url": "https://files.pythonhosted.org/packages/37/df/e9dbccde7ffd06b06ea2d28ce12ae0d1d809977ef4af441211fb2d65410a/youtube_dl-2014.02.03.tar.gz"
+      },
+      "2014.02.03.1": {
+        "sha256": "9e58745aeb37d9fc58a652023a506493b336ab64aaa91021cc6ad862c758f9ad",
+        "url": "https://files.pythonhosted.org/packages/43/14/405e8f278142a04b7f08be79a11bd19360b4a0b443db4f84ba28d69a1dfb/youtube_dl-2014.02.03.1.tar.gz"
+      },
+      "2014.02.04": {
+        "sha256": "fab99f433288a0dcf4e27cec71cfbaee893227e3e3225ba5cc08d8f6078b164c",
+        "url": "https://files.pythonhosted.org/packages/cb/84/c8711efd03e3d7fdec2dbb1682b3897303290130cc7cd03f9d0ced54fdf1/youtube_dl-2014.02.04.tar.gz"
+      },
+      "2014.02.04.1": {
+        "sha256": "661963c891fcd673446ab410d57d9c9eea32f3bacb8ee5f2d8eaebd71904dbea",
+        "url": "https://files.pythonhosted.org/packages/98/6e/13e7d758f0387e7cc8aa0acecc1855ce9b3271d48d552de6c366f2bd4d86/youtube_dl-2014.02.04.1.tar.gz"
+      },
+      "2014.02.05": {
+        "sha256": "d6d2e652c5ebdd10fd6741d5a19267aa31937f63d7114947d1fe299c021fb8a0",
+        "url": "https://files.pythonhosted.org/packages/61/d4/71f7fccd7fddf3cbffa07d9b6ce1dad8773e6486f4d9a1115ada4f912725/youtube_dl-2014.02.05.tar.gz"
+      },
+      "2014.02.06": {
+        "sha256": "b12fb6b8d0216d148465a355cf00d8fd97b3642165a6d9ec0c080576c704382e",
+        "url": "https://files.pythonhosted.org/packages/30/50/6ca41b8a2892c39238fb19bca4ba25e069ca28676bf80aafda89fbbb8b95/youtube_dl-2014.02.06.tar.gz"
+      },
+      "2014.02.06.1": {
+        "sha256": "0efbbefffc7d0b15abc5295b3d569521d15c59cfe0ffeb4752c4058d43b19b65",
+        "url": "https://files.pythonhosted.org/packages/31/a6/789cb738350028f547a3fbaa49dba5903445ad1eb08c44cf5f2ddfd73614/youtube_dl-2014.02.06.1.tar.gz"
+      },
+      "2014.02.06.2": {
+        "sha256": "d23a027570cdf1ea817956fc2ce4f258941f1ffe2324029fd267303ae82312b8",
+        "url": "https://files.pythonhosted.org/packages/97/e6/c2d01f5bdfb3113cd6dfaafc516e611115f471079f8c1e5bc1421901843d/youtube_dl-2014.02.06.2.tar.gz"
+      },
+      "2014.02.06.3": {
+        "sha256": "11540d95272494356d064d739fe30f78c3c7b695e52fa3b59246ffb7bc32ea23",
+        "url": "https://files.pythonhosted.org/packages/ac/46/3d31d44009d9a5c23e2cd19d6835d2fbd66d6832769ecdb1f4ba2c0134f8/youtube_dl-2014.02.06.3.tar.gz"
+      },
+      "2014.02.08": {
+        "sha256": "dbac2a261f4d9a79aee3547a701806a52b4f1766668857b9289d92ca61f98e7d",
+        "url": "https://files.pythonhosted.org/packages/6a/c7/31398c8f4a6ec1ef9d8e23da02547a959dd18d63dd0112fbb45df092c474/youtube_dl-2014.02.08.tar.gz"
+      },
+      "2014.02.08.1": {
+        "sha256": "0f56824444c170e4fd9a2ddabd0b225d95a9a4127493ab504c7a9f7cd7f57449",
+        "url": "https://files.pythonhosted.org/packages/9e/b8/ac265fe8f3fdd5accea1799a3ce103eaf94321249456b710fbb7ba7227c9/youtube_dl-2014.02.08.1.tar.gz"
+      },
+      "2014.02.08.2": {
+        "sha256": "bc69e2a014369fd74aecc0829bb3bcf19f0dcb1fd98926f6485ce6acdf6c1e67",
+        "url": "https://files.pythonhosted.org/packages/d7/79/5050769f9de7228ca7cc9b459adfc85453bea979e55f7a9e2e0dc25068bb/youtube_dl-2014.02.08.2.tar.gz"
+      },
+      "2014.02.10": {
+        "sha256": "116c43db278fe5a9b04adbaa64524e8f845037fe2aad725dbbef11a940871796",
+        "url": "https://files.pythonhosted.org/packages/5b/c6/c887d0f565a98924e4785113732d860030a44c8d4f77ce070d2b3e50c7a5/youtube_dl-2014.02.10.tar.gz"
+      },
+      "2014.02.13": {
+        "sha256": "571f6d944b407cab51258425755ecb5a43965e6ba8cf2c39d985f8390df4e7d3",
+        "url": "https://files.pythonhosted.org/packages/86/ad/bb872b112168f60a00703ddcacadfb2e2cee7ff747b25516f01c4cd2edf1/youtube_dl-2014.02.13.tar.gz"
+      },
+      "2014.02.17": {
+        "sha256": "4655c58d6ca77cbdefafa791ee1a85eaa06fddfda30ed0aa1aaf3cd00c178798",
+        "url": "https://files.pythonhosted.org/packages/b4/ba/2c1afea12a347e7dbeaae325d76f85e5182bacecd499772a5b612f04e9a2/youtube_dl-2014.02.17.tar.gz"
+      },
+      "2014.02.19": {
+        "sha256": "cc7ab40a8f6a710591f4a8fc17bdf9bb887377d826261965b0b4589f5bd84f3a",
+        "url": "https://files.pythonhosted.org/packages/db/7c/bdaacf3290e8b2c90bb77b7c97d6d824198aa99de536c416a0e56845320b/youtube_dl-2014.02.19.tar.gz"
+      },
+      "2014.02.19.1": {
+        "sha256": "83d68eef567784a68866c4d43e474618436b4eef0eff94cf23f84df8ca067725",
+        "url": "https://files.pythonhosted.org/packages/e5/02/a3926d32f61bad2d0f46fc99f7bd87585c75908979987af7abe191906e60/youtube_dl-2014.02.19.1.tar.gz"
+      },
+      "2014.02.20": {
+        "sha256": "16dd7f9eba8bce1263718e4987521b14ed318521993760d2e24f4886cc2791be",
+        "url": "https://files.pythonhosted.org/packages/fb/f2/5af871068a46e457c294704ea600ef611e3953d432e4eeee20d43f378a3f/youtube_dl-2014.02.20.tar.gz"
+      },
+      "2014.02.21": {
+        "sha256": "c774849bf9c3e100ff9edac91fd742c62fdc192cb419fc9ddb6c55577ccca6a5",
+        "url": "https://files.pythonhosted.org/packages/39/2b/a94edb1743a210de56188cc0a079e79de9a9463fbc58c2d06f7ae003260a/youtube_dl-2014.02.21.tar.gz"
+      },
+      "2014.02.21.1": {
+        "sha256": "f7cfe1c374ac519625b8ec9aa3b6d6d40b3233342f7a54c8ae35e8e0ef96c11f",
+        "url": "https://files.pythonhosted.org/packages/3c/e6/d05f520c6a8cf9112adae4967008cad96b1130d468ad887a521523dd1687/youtube_dl-2014.02.21.1.tar.gz"
+      },
+      "2014.02.22": {
+        "sha256": "b6a6791d83b34febe43cdfd7fa7fa6448c34549c8292cc8e03cc5944dd653def",
+        "url": "https://files.pythonhosted.org/packages/9c/5e/ecad5a1bf24b02ccd09e823f0a17e77e78992616dba40c4fda82b5c1289a/youtube_dl-2014.02.22.tar.gz"
+      },
+      "2014.02.22.1": {
+        "sha256": "ff30b478694743854c0cbe23c8fbf548a335a39e65323968ecbb22bf70c9165f",
+        "url": "https://files.pythonhosted.org/packages/8b/1f/bf9261f4178b01d3df8e499c7e8326bda3fd42df70a2176b0b9c2cb8d194/youtube_dl-2014.02.22.1.tar.gz"
+      },
+      "2014.02.24": {
+        "sha256": "c247b510794ca4a0455b1b97c6114b8d50a4e837d573287fd885bd630aa2499d",
+        "url": "https://files.pythonhosted.org/packages/ba/38/0becee836e3d4acfc104a4aa1e6edcabc2493e43f115b4ea2ff5658b60b9/youtube_dl-2014.02.24.tar.gz"
+      },
+      "2014.02.25": {
+        "sha256": "010a66a9802ef316e08e7628f7b0d111107973aa39a235cd96d0b14faa4d74d2",
+        "url": "https://files.pythonhosted.org/packages/66/c2/2cfab2e0ac9e194e22801aa0a6095a375c356c456566a86060e628679e59/youtube_dl-2014.02.25.tar.gz"
+      },
+      "2014.02.25.1": {
+        "sha256": "5db3554f54691ec3fc90acee444064cc08b8f7f3fe86acd3210d5efb09fcd65a",
+        "url": "https://files.pythonhosted.org/packages/7b/35/079eb6946cb68d7492f8c7b716f5219e96aaac4badea8bd5dfeb98beb750/youtube_dl-2014.02.25.1.tar.gz"
+      },
+      "2014.02.26": {
+        "sha256": "b50250f7c978d3ada5100b9f289ed6cd593d6f20e55645e2fb76fe4751045337",
+        "url": "https://files.pythonhosted.org/packages/54/6a/7ef08084c6cfb72e5eb4cf28e385677d5a2c8e715b0702b64ebd2bdef394/youtube_dl-2014.02.26.tar.gz"
+      },
+      "2014.02.27.1": {
+        "sha256": "10d72c88b567307e37d556f0302e27bdb2607a56a1040f980387a70ccc326ac2",
+        "url": "https://files.pythonhosted.org/packages/c9/a9/c1de3dc06e0ae0391fdf72cebc683dc712a2d832c79bec265bc5451e8b67/youtube_dl-2014.02.27.1.tar.gz"
+      },
+      "2014.02.28": {
+        "sha256": "94f4c156e8224441e2b5bae7f4e8d890ad112c32d7079ebc2aed348cd1ac8f7d",
+        "url": "https://files.pythonhosted.org/packages/ce/4e/02c4cae5a97016eeacbfddef9ad31effec10999028f137bc513745360e91/youtube_dl-2014.02.28.tar.gz"
+      },
+      "2014.03.03": {
+        "sha256": "bd4b624b0f8b530195fe1f520890aa6a150260191038692e66ba95f42dd85b04",
+        "url": "https://files.pythonhosted.org/packages/f6/2c/73109ca6599c0a7babc63b317410767b197f7597a413e32698fd6d84a91a/youtube_dl-2014.03.03.tar.gz"
+      },
+      "2014.03.04": {
+        "sha256": "c696f6b845b1cb0863f9a749239277fe8c8434951760f4ef833c1409b65d9669",
+        "url": "https://files.pythonhosted.org/packages/58/36/510db76dc7f8a21a66e2c34e98f28471c216729ef2d73cfa6fd61f209db6/youtube_dl-2014.03.04.tar.gz"
+      },
+      "2014.03.04.1": {
+        "sha256": "644cc880600218a94fd11e3035434ebeae1e810b73178de49732ac20b97c1108",
+        "url": "https://files.pythonhosted.org/packages/43/17/18a5c1f56ee58502f21019994a6e3abaaaefaaf5de582f9d894597c18b28/youtube_dl-2014.03.04.1.tar.gz"
+      },
+      "2014.03.04.2": {
+        "sha256": "df59238530b90cf8b4df4e3095027d6389ff3f9a32d4b3947f7d379d5f883c60",
+        "url": "https://files.pythonhosted.org/packages/bd/c7/93f78c6281e78165670b29f211e7b011d6de75a3ce5a840a82477f3868bb/youtube_dl-2014.03.04.2.tar.gz"
+      },
+      "2014.03.06": {
+        "sha256": "f940e6f7e0ab2f8ec8adc05030bb664962928dbf9dbdf2b3f0ba12ae707efa60",
+        "url": "https://files.pythonhosted.org/packages/44/8f/3faf9d5695db9d6184d9ffaa94e13cbb7967f643266d784a529f7c067fe1/youtube_dl-2014.03.06.tar.gz"
+      },
+      "2014.03.07": {
+        "sha256": "a2096e343244b21d93a920d1aefd2f24c26992944337526315a8aeffadb9b2de",
+        "url": "https://files.pythonhosted.org/packages/e8/3d/b85bfdccf4f45951ed3cea7ca8ce145ff8be37099d8fc49df2f814380368/youtube_dl-2014.03.07.tar.gz"
+      },
+      "2014.03.07.1": {
+        "sha256": "60dd089b3b2437ef01bb4b3021e90da8492950d375d07391d8b002108c35e903",
+        "url": "https://files.pythonhosted.org/packages/69/39/49091e5eabf6beca0d5dca6179894f7ef8afc2a4b8185e091a1fa953ef73/youtube_dl-2014.03.07.1.tar.gz"
+      },
+      "2014.03.10": {
+        "sha256": "fd92487004f3ff7277e03f2ff979b93d6186143006efc9e1faf681041b00d8d3",
+        "url": "https://files.pythonhosted.org/packages/6d/a2/7e98aabc3e6abda6e357197e420464d12b23fad3ddaf9a17672eef111243/youtube_dl-2014.03.10.tar.gz"
+      },
+      "2014.03.11": {
+        "sha256": "7e1222f14074b058e69d4d4977d6d3f30fa3a744ce7718b187fdc01cf7f326cd",
+        "url": "https://files.pythonhosted.org/packages/19/48/3bd8c6e72765ccc926d6e0eb4b2b7ae631acdf725ba06e18a07afaebe519/youtube_dl-2014.03.11.tar.gz"
+      },
+      "2014.03.12": {
+        "sha256": "99db2231f57be8c93d569888169804ff38fdc1584e8d91a25403bd75440531ee",
+        "url": "https://files.pythonhosted.org/packages/cf/9d/6c9948bc0d949e7361bc96e9dd557bb9954e8c19e238a93e9577f56bf024/youtube_dl-2014.03.12.tar.gz"
+      },
+      "2014.03.17": {
+        "sha256": "60f821973a437c3ce39afd842606992ffb49cbba18985780967be9ec55764eb7",
+        "url": "https://files.pythonhosted.org/packages/dc/59/a1fb9b60ea94cafaa697749903c907dd336edb6a3e449d0f704010aa5186/youtube_dl-2014.03.17.tar.gz"
+      },
+      "2014.03.18.1": {
+        "sha256": "6e840c8f8504a97fee2d411232cd4edb7fc67a1fb88ecf91921e0104a67bacf2",
+        "url": "https://files.pythonhosted.org/packages/b7/ed/4aabeb32a32adb0cfab26b3b4f4170d8454e19ddc3dc1ee789f80dce87c4/youtube_dl-2014.03.18.1.tar.gz"
+      },
+      "2014.03.20": {
+        "sha256": "f76a362eec56459f977bd4599bdf17819ce57af95337e2bbeb784281df16df2c",
+        "url": "https://files.pythonhosted.org/packages/99/25/6401c1566fadd040bd43970649b8b5a25c66deb70c410cdc21204442d496/youtube_dl-2014.03.20.tar.gz"
+      },
+      "2014.03.21": {
+        "sha256": "e8a4d11bbf893fb29bc23f08380701fdea574f8e85abfdb9962f0a8904e94920",
+        "url": "https://files.pythonhosted.org/packages/e6/78/d7f97a4e2db6415384fecd6ee26807ab9d753043d6e8beed894a9f1ebf64/youtube_dl-2014.03.21.tar.gz"
+      },
+      "2014.03.21.1": {
+        "sha256": "29e049849e1059918066f10fe0b74e60ad0d83157ab5fa80dcf3d67e6b55ca98",
+        "url": "https://files.pythonhosted.org/packages/3f/b3/1253caf6e2de87c7dd8bb8c2e4a7b4295e59911fbaf7633ed34f573e1a96/youtube_dl-2014.03.21.1.tar.gz"
+      },
+      "2014.03.21.2": {
+        "sha256": "60738dae3573940b63df1470fe246ee876b6582c90838f2d068d155412dd5511",
+        "url": "https://files.pythonhosted.org/packages/1f/42/ae88b3f07aa554c5cc471a61216d8f17aa2e7273bb3db18c6c3752ee4e6b/youtube_dl-2014.03.21.2.tar.gz"
+      },
+      "2014.03.21.3": {
+        "sha256": "04f4d52874fb6014dc3e172cfbc5ef732cd8d3be1ee6e2204f8324e6cb7e53ca",
+        "url": "https://files.pythonhosted.org/packages/dc/97/ddc9cf0e49745901cf28eeafbdae657f441da08f8b8688c21a8cf4fe6917/youtube_dl-2014.03.21.3.tar.gz"
+      },
+      "2014.03.21.5": {
+        "sha256": "2a2cbc5902c5e4958e04d2af09376775eb6cf580a85220aebcf7d3966dc96528",
+        "url": "https://files.pythonhosted.org/packages/72/e9/cbcc22739fa135c62ef3ce573c5b1816c4281d11b67933d95701e33286a6/youtube_dl-2014.03.21.5.tar.gz"
+      },
+      "2014.03.23": {
+        "sha256": "752bc48d153121523bb1948a2942e35cb79d11377fef95aca16efcf85efec877",
+        "url": "https://files.pythonhosted.org/packages/41/14/709a4089bd2b7b5cbaed7350aa9d25c71c08eef60e2beeb5f30c54f1aee3/youtube_dl-2014.03.23.tar.gz"
+      },
+      "2014.03.24.1": {
+        "sha256": "440b733d5eee431b4c2a645f034651aa8c11940052240df380a8797019f510ab",
+        "url": "https://files.pythonhosted.org/packages/8b/d4/b9c580a9100412537eab9bf93df47f05eba3e46d56989c520946af34c4da/youtube_dl-2014.03.24.1.tar.gz"
+      },
+      "2014.03.24.2": {
+        "sha256": "9d0322228109fcc8a4d578e821c4747803dd824d0bd85e8afb6c9689e91282de",
+        "url": "https://files.pythonhosted.org/packages/ef/17/ed4363130fdf04d3ddaca0181e820c4320296f4bbc3f1d3446e446fad3b0/youtube_dl-2014.03.24.2.tar.gz"
+      },
+      "2014.03.24.3": {
+        "sha256": "1bc81d8f43f0cce476926a8cb22689eb021fc4787a73bcfb4cff994a3a829f1b",
+        "url": "https://files.pythonhosted.org/packages/2b/1b/a0a84334c5edf440312932fb16a86be5459a82c79612e53cbdbb2e0691ae/youtube_dl-2014.03.24.3.tar.gz"
+      },
+      "2014.03.24.4": {
+        "sha256": "ef30a243a5ae7675c52fc70eea793411c86cad894df04676921a2615a09a1c2a",
+        "url": "https://files.pythonhosted.org/packages/8d/d4/48f3051ad0238c2b12a248717b7f9757ff27913c2247799e9368aa0b28cb/youtube_dl-2014.03.24.4.tar.gz"
+      },
+      "2014.03.24.5": {
+        "sha256": "021f2a4ecd067ea607fab5e350b835aeffffa1353542aa94456b0b3d7ea39f41",
+        "url": "https://files.pythonhosted.org/packages/88/4c/c04a51c10b199800174483f3b9bb246c42994ffc4b4e5e92f1ea5b9a16b9/youtube_dl-2014.03.24.5.tar.gz"
+      },
+      "2014.03.25": {
+        "sha256": "362f872b7d43217eb03fb4371689a9e6e044c20ad0cf004e040dcbb8c336673a",
+        "url": "https://files.pythonhosted.org/packages/0c/07/6adbdb7f8cc0c10f8995995e31e36dd58b92b3afeaebc2ea8ba1a8c457d0/youtube_dl-2014.03.25.tar.gz"
+      },
+      "2014.03.25.1": {
+        "sha256": "2ec295449179a5e9d7711af323c3083c3477bddde7057e597e26adf93cacff9c",
+        "url": "https://files.pythonhosted.org/packages/44/d0/40586440f00d0135951aa55c66167a5e36a75160c6e59783e10d81a58905/youtube_dl-2014.03.25.1.tar.gz"
+      },
+      "2014.03.27": {
+        "sha256": "3ce4bf0fbf128d072ebaf4e73e1837a25b8f1c21354817d42bd344caec1c66df",
+        "url": "https://files.pythonhosted.org/packages/c8/15/003b0b51c63168d97e8fca64e72727960177be0bc9177946ee353752f929/youtube_dl-2014.03.27.tar.gz"
+      },
+      "2014.03.27.1": {
+        "sha256": "22ae72c5b5542df2f816bd995cae4beeee21a3fec53f3db384aff01b5262328f",
+        "url": "https://files.pythonhosted.org/packages/8b/00/0b7117e2377422f3ceb29825977e1705102bf752421769d2eb0845b75edb/youtube_dl-2014.03.27.1.tar.gz"
+      },
+      "2014.03.28": {
+        "sha256": "7bbd967be64d0d252514a314ae69d9bb4645171ca910f24c5efdfc8421886111",
+        "url": "https://files.pythonhosted.org/packages/2c/c5/495e0522232822161478d42e0243dc80b0fc57919e3ce0f11bf4ce1bd1e9/youtube_dl-2014.03.28.tar.gz"
+      },
+      "2014.03.29": {
+        "sha256": "8afd624539fbcc484ae3fb2f821f4ac29bb6bf5b4ef1f0eb6a725589cc4bc885",
+        "url": "https://files.pythonhosted.org/packages/49/da/2d304e8b0243a356842035efdd053521e778c5bc9eb2901d411bfe6dd333/youtube_dl-2014.03.29.tar.gz"
+      },
+      "2014.03.30": {
+        "sha256": "7f84fcb3577e735b83c4ea78f380d06742aeba7a9e3ee279af4545f7182e77af",
+        "url": "https://files.pythonhosted.org/packages/eb/f6/38ce3471e2b007181f8bc8c37e82d6256d2666d4f7ec6f68d75cbaf84f54/youtube_dl-2014.03.30.tar.gz"
+      },
+      "2014.03.30.1": {
+        "sha256": "2fd7900947e3231d60992dd1cbe9b08a23e8da912d9de459c17f8a5a8c30c4a8",
+        "url": "https://files.pythonhosted.org/packages/d8/e1/29429902eedf3dbff2dc4ddb91afac3e84209adc610bac8861f6af8076c3/youtube_dl-2014.03.30.1.tar.gz"
+      },
+      "2014.04.01": {
+        "sha256": "590d76d14cc21f074f221c14f1783fef598a01062b714b219dead5848b3ace16",
+        "url": "https://files.pythonhosted.org/packages/bf/9a/b772636bf80db16f70f798b5922c255c63fa92ec972eba953adf7b5d7496/youtube_dl-2014.04.01.tar.gz"
+      },
+      "2014.04.01.1": {
+        "sha256": "38e59c7e2a8c1b1062dac4e804f6c67ac8bb90654bed8358a85a7b4abdabe877",
+        "url": "https://files.pythonhosted.org/packages/46/1f/33afcae968587662a843a4f8fd514e016077f1bb5c96cbdfaea7d15dcf87/youtube_dl-2014.04.01.1.tar.gz"
+      },
+      "2014.04.01.2": {
+        "sha256": "36c9b2ac265e55a6df743145806e0b7fdf9928a303cfd4830b64f139d299e171",
+        "url": "https://files.pythonhosted.org/packages/a7/ef/1ddabc6d6a79d4c5f00b89e21b06185ee801e7ed429239d9bca523be0e0b/youtube_dl-2014.04.01.2.tar.gz"
+      },
+      "2014.04.01.3": {
+        "sha256": "deefe37456ae228b85753d7b7674c3d1f2615ad650317e1adb7ec6aebe73120d",
+        "url": "https://files.pythonhosted.org/packages/34/06/980379c6d47f1ac83030b14a1863d052394dfe972af42f0a3cf4b82d33bd/youtube_dl-2014.04.01.3.tar.gz"
+      },
+      "2014.04.02": {
+        "sha256": "e967ac3ace78e20dec1393e31d572dfc1270a23e9dc13a48cc49162e29edb95f",
+        "url": "https://files.pythonhosted.org/packages/33/00/1c73719f66ba627e9899023afb312f49983a5e6b19b0b8a2f1ab47609782/youtube_dl-2014.04.02.tar.gz"
+      },
+      "2014.04.03": {
+        "sha256": "da052f3f21b7d614dbb990fee588bcfee8ac96d0ed588f5758cf2b82531e395b",
+        "url": "https://files.pythonhosted.org/packages/e9/77/c61a7473a70b07995c3366c13887710f898116abb8cf624e021ad6413342/youtube_dl-2014.04.03.tar.gz"
+      },
+      "2014.04.03.1": {
+        "sha256": "d96f5b78b7ec7fe99fddbdd7a01ec67f322508374f681a5e8c043554d63e8e29",
+        "url": "https://files.pythonhosted.org/packages/1a/a6/ed0b6038303448add0e9b5f93a70a1007e87de4878e178387a4844ba4a24/youtube_dl-2014.04.03.1.tar.gz"
+      },
+      "2014.04.03.2": {
+        "sha256": "355ecd14af56d4e7bca5fdb1f1a7decd30f32b73277238d0d6925359408956a7",
+        "url": "https://files.pythonhosted.org/packages/e5/48/e868dcc7b6afdaefc06fba9ef5a480e07b1aff3aaa629ffa6aca02f704ee/youtube_dl-2014.04.03.2.tar.gz"
+      },
+      "2014.04.03.3": {
+        "sha256": "eafeec20edb5ebf655abf1761fec6ea3b2a7903c3e76dccaca7e7a1622f67d8a",
+        "url": "https://files.pythonhosted.org/packages/d5/60/20f46d53c401666d3991d15b493e651ae91d9ac964ab57ceca027671b3c2/youtube_dl-2014.04.03.3.tar.gz"
+      },
+      "2014.04.04": {
+        "sha256": "170f2617928d2094ee9d2150398af532afef7acbe2bf4df936980059c499bf92",
+        "url": "https://files.pythonhosted.org/packages/20/84/8b2ef0d12e2dbca9efbe51d7fe3d79b0599581c0ccbe1782e407effe349d/youtube_dl-2014.04.04.tar.gz"
+      },
+      "2014.04.04.1": {
+        "sha256": "2c710a38b92a7d9e6cecbd2c0f8147a84a0233520e65757730604b6d2d1b537a",
+        "url": "https://files.pythonhosted.org/packages/72/b6/cc2ee5cdb479a228815c17d33de4232af8788d92ad35933c2fe8fd70af68/youtube_dl-2014.04.04.1.tar.gz"
+      },
+      "2014.04.04.2": {
+        "sha256": "9cc4a386795a781f3bbd9f84a6ea168ec96f3bf5654516a3039acb3ca3923cde",
+        "url": "https://files.pythonhosted.org/packages/86/c5/0693d274fed0f5663075220ccb14e3c5d3d7434308a9e2ae8909e5cc616a/youtube_dl-2014.04.04.2.tar.gz"
+      },
+      "2014.04.04.3": {
+        "sha256": "38db5987d3c1c205a55e99969949b333fff08ab21b92afc11e5ed87efe622d25",
+        "url": "https://files.pythonhosted.org/packages/35/3c/46c47dccaa6bd3ec0e844cccba44efaab2dbe01b52e784cf520c022501c5/youtube_dl-2014.04.04.3.tar.gz"
+      },
+      "2014.04.04.4": {
+        "sha256": "da96f4480ad5bc25a34f0a89929d99e31b17e5d8186418d69b522df9e9585751",
+        "url": "https://files.pythonhosted.org/packages/18/4e/cae871c24e6bc2717f97d07458460c5a6fdd6f476f1840bc6b10ae168cf8/youtube_dl-2014.04.04.4.tar.gz"
+      },
+      "2014.04.04.5": {
+        "sha256": "68a590ca1f36a2bf9ac4776ed942b69d6e0351cb5b7f426dc028b0ede5251ff0",
+        "url": "https://files.pythonhosted.org/packages/78/4f/98451b438fb56143b42fd287c97d5f4e0a50659bdf0de0d7b6c3bab6c320/youtube_dl-2014.04.04.5.tar.gz"
+      },
+      "2014.04.04.6": {
+        "sha256": "e5724bb66207557be8b944207e82edcb50255a1bc4132a246ee6ed856125a7f6",
+        "url": "https://files.pythonhosted.org/packages/87/02/7d254c8b93f21626d79021b96542dddac840038da7b65d046c176899891a/youtube_dl-2014.04.04.6.tar.gz"
+      },
+      "2014.04.04.7": {
+        "sha256": "08b5dd4c1f3dc1868ee456d15fbf9a507cbe5f8833b00c99accb1950e48cfebb",
+        "url": "https://files.pythonhosted.org/packages/66/b2/5ca08a9e13cd328ea951d6a0c23c81fd6a1a9bc593dc8023226e200c1bd6/youtube_dl-2014.04.04.7.tar.gz"
+      },
+      "2014.04.07": {
+        "sha256": "459c01d76ea9580df61e43e0a8a3c8e462eb70b54eb0c55c368ac137b6ba5554",
+        "url": "https://files.pythonhosted.org/packages/04/bc/00ac6209291ef22d4233c18644d33a174a2d8fd5f6731473777ec64dd662/youtube_dl-2014.04.07.tar.gz"
+      },
+      "2014.04.07.1": {
+        "sha256": "3fb2617da740a3c51658c80988a6e8857e1dfed74e0f066d9537dca2d58fc95e",
+        "url": "https://files.pythonhosted.org/packages/47/52/ea7c25691a7dc88de795dc6c36650ca77e0875d736e83832400bc620a8b7/youtube_dl-2014.04.07.1.tar.gz"
+      },
+      "2014.04.07.2": {
+        "sha256": "8c66df82abef60bb4c9e77ed2760694ea1de7bdaa34d6f4962e161656586c0b6",
+        "url": "https://files.pythonhosted.org/packages/ba/34/9944e3499504499b9abfd44e80764a9dbbd8ce87e84efdc52f4e28d0257e/youtube_dl-2014.04.07.2.tar.gz"
+      },
+      "2014.04.07.3": {
+        "sha256": "8dbfbf426834f9d954afcd2e7e656f3491bdb4ae9e0115c04d5fca4a193ee5dd",
+        "url": "https://files.pythonhosted.org/packages/2d/49/5c0c9b2020d3751db889f76708c439fb8a9c3aa064afce5a970af77d85df/youtube_dl-2014.04.07.3.tar.gz"
+      },
+      "2014.04.07.4": {
+        "sha256": "431b44103d4865d1505531488904151a530f625ab116dcf034be282a5ea66ca4",
+        "url": "https://files.pythonhosted.org/packages/af/6c/53d253f3799c6382c99b25be9cfe1d98905a16bb75efd16f486a0bba1780/youtube_dl-2014.04.07.4.tar.gz"
+      },
+      "2014.04.11.1": {
+        "sha256": "8097e457fa28799722fd41f7327f433b57c46493ba6042184e38c73065f3238b",
+        "url": "https://files.pythonhosted.org/packages/48/23/02729e75df94aa66d24b7f64b2cda0f4ee81caec635dc224fec5f59f53fb/youtube_dl-2014.04.11.1.tar.gz"
+      },
+      "2014.04.11.2": {
+        "sha256": "abd8cf0eb1c6d46d7a617912874d08b28e2d85679aac28b23c57d392bb13ccb1",
+        "url": "https://files.pythonhosted.org/packages/7d/36/c366d53238b1d7722c54db86e49f2bb640ef7ab1f09c4f3ee33a2057c3eb/youtube_dl-2014.04.11.2.tar.gz"
+      },
+      "2014.04.13": {
+        "sha256": "d17a3bb16f076a266d1437000b0f464fc300a2928916403715a78a9a5863ad09",
+        "url": "https://files.pythonhosted.org/packages/ac/ac/b88f300ae9aead5db35a3fbf4aa47494e132f40ab58684e39b8ef04fcabf/youtube_dl-2014.04.13.tar.gz"
+      },
+      "2014.04.19": {
+        "sha256": "832dc7f39f837dedd670c9f1b0d296ad0dc8ff6c7bdc0f5ace289f1ca12e4236",
+        "url": "https://files.pythonhosted.org/packages/f8/f0/6fa892d9d314481dd73f664d8bc5e1c47329e1f7966ad6607aefef110164/youtube_dl-2014.04.19.tar.gz"
+      },
+      "2014.04.21": {
+        "sha256": "2e02e2a11c91d9bdcc1b772487060d44ea2409653c3a03e73ebefab3c8813397",
+        "url": "https://files.pythonhosted.org/packages/86/c3/2c605e1dbb5ea19365109bb021e72cb2cffb47049f9879b2d2eabcddcd06/youtube_dl-2014.04.21.tar.gz"
+      },
+      "2014.04.21.1": {
+        "sha256": "488b6881b63679fee0524d7c4f8e31c8055937360e8983029bc342607770bb7c",
+        "url": "https://files.pythonhosted.org/packages/03/38/e9d4dd32e91b15cd0eb27bded2890644a69a09b53ec9bc8557842a5ea970/youtube_dl-2014.04.21.1.tar.gz"
+      },
+      "2014.04.21.2": {
+        "sha256": "9309619258fe4d0bb9ff6f67b082f0167cfca9eefcf2efaa05927d21ebed2be4",
+        "url": "https://files.pythonhosted.org/packages/e0/a5/7ea874afc467df013f7f6bfa2c75a06f57e1812ec5c9221fd718c1f0d7a2/youtube_dl-2014.04.21.2.tar.gz"
+      },
+      "2014.04.21.3": {
+        "sha256": "f36518812eae7562097deb005da1263edd4e61cf6a9d6b31e7e0d1c7068c33a3",
+        "url": "https://files.pythonhosted.org/packages/b4/ae/bc521bc3852c839711709621274194da370e42ece286aa00019d60e93d74/youtube_dl-2014.04.21.3.tar.gz"
+      },
+      "2014.04.21.4": {
+        "sha256": "042da306f8279166e275ece446ae44639826fe70c8944db3593890d06681e09c",
+        "url": "https://files.pythonhosted.org/packages/8a/ec/c6ac342d186d59295004540044156db0647a6ff3e0047cc5857e3300fa0d/youtube_dl-2014.04.21.4.tar.gz"
+      },
+      "2014.04.21.5": {
+        "sha256": "12679faa65b8d11fa1535af79d4879fe22d34f5c3fd170de3f32e8f1981ca268",
+        "url": "https://files.pythonhosted.org/packages/4c/4c/2b2c8daac66ba8c1d43f2ed08d936b2e5f3a2337906ba07ab5381e3bd2bb/youtube_dl-2014.04.21.5.tar.gz"
+      },
+      "2014.04.21.6": {
+        "sha256": "50932820831b9437fb62ba484207f7e8395c2688fdd22b1d977159f3410fc83b",
+        "url": "https://files.pythonhosted.org/packages/53/e3/85f03c17e74fb49ce03fb4a4a018c23be9594a63dbdda7017f6c918b56a9/youtube_dl-2014.04.21.6.tar.gz"
+      },
+      "2014.04.30": {
+        "sha256": "1b7ad010fb91da9d91b2bb21fcf22acc10ea7c6a8a5fc2967a5793f26b2aa2a0",
+        "url": "https://files.pythonhosted.org/packages/0a/ba/64c3f1602199779553b1df50cdffd35ab2be05d1665186a9fec97af064c7/youtube_dl-2014.04.30.tar.gz"
+      },
+      "2014.04.30.1": {
+        "sha256": "cb7f6256140e3ab85b52f87b55e50d2132b344f6c979ff59de50457b5153b84e",
+        "url": "https://files.pythonhosted.org/packages/67/14/5477f7c7dd0e8b0f1f87d33265efe064ca6f80ad341416fff6f7d194102d/youtube_dl-2014.04.30.1.tar.gz"
+      },
+      "2014.05.05": {
+        "sha256": "83345b9d429eac6dbd3bc4ac22024dd9f9e8af251842b92a7b48955822a4f588",
+        "url": "https://files.pythonhosted.org/packages/99/10/c4e2cb933b5107c3ad9724b404b81f7fca98aefca0a4fb9464caaa4924c8/youtube_dl-2014.05.05.tar.gz"
+      },
+      "2014.05.12": {
+        "sha256": "ebadc2d8a5277ee026c0cd3c12eee3ba1f615cb4efd34c4fac4e2907595e12dc",
+        "url": "https://files.pythonhosted.org/packages/76/12/98a2b5aff7ad950d0427b82bfa9ad66e2153b42e9d5bc66ffe3ae5c5748c/youtube_dl-2014.05.12.tar.gz"
+      },
+      "2014.05.13": {
+        "sha256": "1556b3371f478d41cfa5a3a7d5605e540b3d0788152b0a710b71d83cbbe92e45",
+        "url": "https://files.pythonhosted.org/packages/c0/16/c953f75f30489b585f7c39efa35e88dcf87c8d2a1a2a40f2faae27e7009d/youtube_dl-2014.05.13.tar.gz"
+      },
+      "2014.05.16": {
+        "sha256": "fffff5ab001e5af2394aea7bb64f9045342e7a8f5e619c0353a289eaedcd82e2",
+        "url": "https://files.pythonhosted.org/packages/8e/04/38ec2884b2317c1a07691f4d854bae3d72a9f526a156217a92d0df432eaf/youtube_dl-2014.05.16.tar.gz"
+      },
+      "2014.05.16.1": {
+        "sha256": "e6cf28377bd22b7adbd0734eac633f31f3dba57de0277854b4a1d54bb659ef5f",
+        "url": "https://files.pythonhosted.org/packages/9f/46/10e8e8db503c723bd69c7292b6c5427b4ba751ff5bb1287377f445423b89/youtube_dl-2014.05.16.1.tar.gz"
+      },
+      "2014.05.19": {
+        "sha256": "b83740cb79325910cb0776597d2015ee44fe0c8c777b1841897170546754d446",
+        "url": "https://files.pythonhosted.org/packages/46/db/8dad382c963ce86ba008b09a79ac1fc8a61bfba571ef5f559cc2f1e0c127/youtube_dl-2014.05.19.tar.gz"
+      },
+      "2014.05.31.4": {
+        "sha256": "aa1a2ad0200fd1e6a829e3ddbc70991eb0eb14f00845ae50936dcbc4e7f9b391",
+        "url": "https://files.pythonhosted.org/packages/c3/74/9e8be33a6393e637626355a0475a37663545481346131d66ccc22407845c/youtube_dl-2014.05.31.4.tar.gz"
+      },
+      "2014.06.02": {
+        "sha256": "5067d058d3b22c3b473a6be2de580be8c11d4ada22ce9b6b992ea788d83f24c1",
+        "url": "https://files.pythonhosted.org/packages/35/46/75d401bfc09d764d1a3b39a0398b8e47229cec9b9230f46ce34012d4c48f/youtube_dl-2014.06.02.tar.gz"
+      },
+      "2014.06.04": {
+        "sha256": "1c145daa9e255e9e8303ae2ac9532e409030a2abdd097cebb2912c3a6e503fbb",
+        "url": "https://files.pythonhosted.org/packages/e8/6e/f0b31ce6929dcc3d8f008dc7fc04536dfd4c0e51c3bdaa9c37ba1574f6fd/youtube_dl-2014.06.04.tar.gz"
+      },
+      "2014.06.07": {
+        "sha256": "73d02aec510bfe45af5896605ce3960ba50f9152bb3f1b94453aeaf7e6e80be7",
+        "url": "https://files.pythonhosted.org/packages/9d/ae/daf906226814e00f62eaedc162bd347fe9690521f257feb4f23f9f8dd24b/youtube_dl-2014.06.07.tar.gz"
+      },
+      "2014.06.09": {
+        "sha256": "7533ecfa31edde88b185115d4955d3e61c2a0db180dda4cbfa7c7036f37646b2",
+        "url": "https://files.pythonhosted.org/packages/3b/a4/929209fbbf56c69fcf83486571dcd99386efcc77deb9919ff3b7d0094e41/youtube_dl-2014.06.09.tar.gz"
+      },
+      "2014.06.16": {
+        "sha256": "133e4754ffebc3af33a0ca5d17f55745abdbaf1ce43620ad396d08ce9aef9031",
+        "url": "https://files.pythonhosted.org/packages/be/01/54a20722c3431cd7a5c25c5310d7e666bad5ed98bab945b2d29b2c4bb67c/youtube_dl-2014.06.16.tar.gz"
+      },
+      "2014.06.19": {
+        "sha256": "387504640a632c9be61ab7475b3d50b9a5ff23a51b95810615a1ed2b4a5d0001",
+        "url": "https://files.pythonhosted.org/packages/f3/19/aac0669a3f69ab511051ec8c66200943d2f8584d5b3fcb950f81db4c3f64/youtube_dl-2014.06.19.tar.gz"
+      },
+      "2014.06.24.1": {
+        "sha256": "239797dc48dcdc7879c239ae856a2ee2eaef0520049d75e5b14a44d0618efb0f",
+        "url": "https://files.pythonhosted.org/packages/75/b5/b84bc280624993d78f4c3c06d6748990324a300b353de682954d5540652c/youtube_dl-2014.06.24.1.tar.gz"
+      },
+      "2014.06.25": {
+        "sha256": "9e744a08e2197a687633e46f8421273f822df54da7f8d4a31ad0ce22116f24dd",
+        "url": "https://files.pythonhosted.org/packages/ac/11/78905f13acdc013ab6b851b7c49eb848094c61d62bf2a49409fc9b137915/youtube_dl-2014.06.25.tar.gz"
+      },
+      "2014.06.26": {
+        "sha256": "93a33672956d4917962891f134cd56c29db729773f4c5df88e76fb76ecbecdf2",
+        "url": "https://files.pythonhosted.org/packages/81/61/722475b89b11599c64befa29d7e748b7603f49ea937f2d4b2e67c74619d7/youtube_dl-2014.06.26.tar.gz"
+      },
+      "2014.07.10": {
+        "sha256": "b02d1b85e1324194b9ec67d9504f3d6652890019120b5a0934837be7f15d6fb8",
+        "url": "https://files.pythonhosted.org/packages/cb/20/60ba0fef29fabb850dce8811006bb24cf1fed9b4c5430ea995e1e4b648ff/youtube_dl-2014.07.10.tar.gz"
+      },
+      "2014.07.11": {
+        "sha256": "03ba591460b30461ec48e72ac2858f1f3a50584de6711affebf0dd94ad49c837",
+        "url": "https://files.pythonhosted.org/packages/3f/c2/9b79b109f473ae7c3270e7a1983a01b8fb0b15d3708562d50e0d3730cc7d/youtube_dl-2014.07.11.tar.gz"
+      },
+      "2014.07.11.1": {
+        "sha256": "d4bca4463fc2afe68d58b276d7b67634d3cbcdca634409308633c5df081b2032",
+        "url": "https://files.pythonhosted.org/packages/39/0a/c48b3170cd1d2572b7fc2acea2e9b88b210ddee3f6ab923b905d642a2a53/youtube_dl-2014.07.11.1.tar.gz"
+      },
+      "2014.07.11.2": {
+        "sha256": "37a22a2b644d3bf03d61347398e98544a8a3398d16b9cd4c1f1895bc1c57af49",
+        "url": "https://files.pythonhosted.org/packages/61/70/d1770c7973b6548759d1a94b137dcaa62de35c4411f2abb6f0555ded00bc/youtube_dl-2014.07.11.2.tar.gz"
+      },
+      "2014.07.11.3": {
+        "sha256": "edfe2146c84eaea2fa8d4da71861b37969f63eaf0a1108a387e43079e6e24d57",
+        "url": "https://files.pythonhosted.org/packages/e3/40/4c52d5fdb386dcb940cd1a4083dec6be8921288b03e706ae723727513e39/youtube_dl-2014.07.11.3.tar.gz"
+      },
+      "2014.07.15": {
+        "sha256": "958470bbcdb72671d07dea5dd29d0a08166267f7266cebb7497d0f4b6a12140f",
+        "url": "https://files.pythonhosted.org/packages/8a/39/0ce46352ff9bf46113f95b59033432bbc155c2affdd50ac7fc0c95564b76/youtube_dl-2014.07.15.tar.gz"
+      },
+      "2014.07.20": {
+        "sha256": "a07aef58e5ea76a7734110ac7dee9044dd93c78610e5dff7816c8e7108ba628f",
+        "url": "https://files.pythonhosted.org/packages/8c/35/a377538e5c784ab5c4a66b19c2d5ded545f6edcb632812c3e99c60fd1c71/youtube_dl-2014.07.20.tar.gz"
+      },
+      "2014.07.20.2": {
+        "sha256": "100f7d1433662fe7d23e4c93fb87fe4fedbb7d39248e1405ce70786bf45dd61e",
+        "url": "https://files.pythonhosted.org/packages/05/9f/5c0177c5b12781c0b3882220b9d90175c94f7f0c65a76155e81f1d912bcb/youtube_dl-2014.07.20.2.tar.gz"
+      },
+      "2014.07.21": {
+        "sha256": "d254b0163b033659cb5b95b0b0ad4a24d5a0c57c644c74d8944c14943b995f5a",
+        "url": "https://files.pythonhosted.org/packages/3c/bd/ee5a6751b971005142bd6e13aea95d7650fd5006ac73d891988e0b144c08/youtube_dl-2014.07.21.tar.gz"
+      },
+      "2014.07.22": {
+        "sha256": "2e9fbe0a2f545a144e4fbabedbdc94b01d397eb482ee87898d2d53cecae8be1b",
+        "url": "https://files.pythonhosted.org/packages/7f/96/c0d1edb8fa847e7cba6b4469c0b8120e7f2ba49e4de72e4ab00e1ccceaf2/youtube_dl-2014.07.22.tar.gz"
+      },
+      "2014.07.23.1": {
+        "sha256": "bfc8a2c1cbed77507b0dd926cae32ab9fc4293020ceb05d008bfccecab8d3113",
+        "url": "https://files.pythonhosted.org/packages/00/b7/87a4beec58a0b9f2fe3ee63b34892b8cad1b4fa43a19357b93b02ac4e1bf/youtube_dl-2014.07.23.1.tar.gz"
+      },
+      "2014.07.23.2": {
+        "sha256": "0ef1174fc7c732f9d01aef8e3f74b91805f7fd3e26f36c31eb7dca413fcf2bfa",
+        "url": "https://files.pythonhosted.org/packages/5b/87/c0500d2d78c6444b88bb7895715349e274245c44a623b516c353571873e6/youtube_dl-2014.07.23.2.tar.gz"
+      },
+      "2014.07.24": {
+        "sha256": "8158b70e6d5b37de313f8b4b201e359091cb0d0ad7021ef8ffa492ced63e623c",
+        "url": "https://files.pythonhosted.org/packages/3b/fe/a2656b214db0246e4fcc679312349fadd2c7d4c57b288f935b8fc47ea487/youtube_dl-2014.07.24.tar.gz"
+      },
+      "2014.07.25": {
+        "sha256": "2ff71227d721a998698a9941f851a763a70c77d350e27dcb1cbaf78a8416a594",
+        "url": "https://files.pythonhosted.org/packages/f8/66/2a463a717c41ee25dc8cf8db8f3695a96e9e9357d62614f39cc2e65cdf26/youtube_dl-2014.07.25.tar.gz"
+      },
+      "2014.07.25.1": {
+        "sha256": "10ed0351b8dba40583c9b4c0a4eab40a1f44c5842285909d2595bb6546f1d314",
+        "url": "https://files.pythonhosted.org/packages/b0/1a/bfc60d46de80a6f02f2264b0a6cac4e35748d406634fbcbf6bf2a81c1430/youtube_dl-2014.07.25.1.tar.gz"
+      },
+      "2014.07.30": {
+        "sha256": "2eb4d94d86e0ed8cab829c7907aa767d553c81aa1d5e8af794639da6f917a8bd",
+        "url": "https://files.pythonhosted.org/packages/e9/18/06ed01193cf7f8943b78477e5d72bcd6ef0cf7e61f777850163dedbea1f0/youtube_dl-2014.07.30.tar.gz"
+      },
+      "2014.08.02": {
+        "sha256": "b5f3c2b4c5eda10b81dfc238ae3af5764da0d6ee7a5f5cc331cfe66c4533851d",
+        "url": "https://files.pythonhosted.org/packages/fe/93/466554d495645ac1fbfac6f6ff6292e83ba309b4c984238bd114dac987e5/youtube_dl-2014.08.02.tar.gz"
+      },
+      "2014.08.02.1": {
+        "sha256": "7117484b4dbaadc85c7e3824cc815f3e817f66c73a3e5a5b7c3064f6de402a8d",
+        "url": "https://files.pythonhosted.org/packages/60/e4/50aba8e4c03ed5e1bfb9d3f82ffd61fc937cfcea899544ac9b9ec296b565/youtube_dl-2014.08.02.1.tar.gz"
+      },
+      "2014.08.05": {
+        "sha256": "da50387faf50fdee6fad7a183b27dd980a6c00a127933b749cf55185b708b6a9",
+        "url": "https://files.pythonhosted.org/packages/6a/d2/ee0b69cb8674a8a2cf8b3d2eef9e9bb407e305b5d9ceed6dbb0d86a060f7/youtube_dl-2014.08.05.tar.gz"
+      },
+      "2014.08.10": {
+        "sha256": "5a969aacd68c3091e30dae58d98fd78085c5edd88110f65cf798f4d5735661d6",
+        "url": "https://files.pythonhosted.org/packages/e3/9a/be78267f255219c128aa946a571a541663e9f3d159266883ffa84768f995/youtube_dl-2014.08.10.tar.gz"
+      },
+      "2014.08.21.1": {
+        "sha256": "14bdad4ef94055f265edd67191319756332510cfcb8ecaea955459439578bca3",
+        "url": "https://files.pythonhosted.org/packages/08/a6/d7006f765ca7f42b84b858196373d0606af005bb8cae8d16e3f3eb416c4b/youtube_dl-2014.08.21.1.tar.gz"
+      },
+      "2014.08.21.2": {
+        "sha256": "024279005c6e917bd9238051f0cda524f6d548857bf783d08716ad7673a2a893",
+        "url": "https://files.pythonhosted.org/packages/6a/d0/2c6a1c22dc52737d5c5a9e69098cb3ae54d983a38aa057ab9e6a504f6793/youtube_dl-2014.08.21.2.tar.gz"
+      },
+      "2014.08.21.3": {
+        "sha256": "c3504333f03b9ee8360ceca585c06590f958c4b72057f06f9bfd338b80a40ef8",
+        "url": "https://files.pythonhosted.org/packages/90/21/6585414df977debec77d1895356f648978913d149606dfecfb03acf1d3db/youtube_dl-2014.08.21.3.tar.gz"
+      },
+      "2014.08.22.1": {
+        "sha256": "9068f333bff6399702db4567c1c8c3175a82ca1e6a81f6c989e8ca4065a011ff",
+        "url": "https://files.pythonhosted.org/packages/1b/01/0d2e5284530a8e1a2d0112132082f2eff6524d13d5fb12f11397804c1c18/youtube_dl-2014.08.22.1.tar.gz"
+      },
+      "2014.08.22.2": {
+        "sha256": "958edd7fbc84229feca6a347abd104d09d0a24e0adff5f4896892de1753d9d0e",
+        "url": "https://files.pythonhosted.org/packages/74/e3/ad6c4a8200645cafa4cec77519d9796f787cc0c3baf34c7d04a3ae235b6c/youtube_dl-2014.08.22.2.tar.gz"
+      },
+      "2014.08.22.3": {
+        "sha256": "5052682e6931fc12c1921b67e208f2cd35fe4749be7c9fe6431d1ce45ff27839",
+        "url": "https://files.pythonhosted.org/packages/c2/f0/e44368d1ab079c94c4c5e14c70b34a31fc5f0e5152e28b20b2d609f0dfe6/youtube_dl-2014.08.22.3.tar.gz"
+      },
+      "2014.08.23": {
+        "sha256": "007d2cc1341a22eedc210c42711c5ff56ff4c6d55bc267a04c3440a93b4a2fb5",
+        "url": "https://files.pythonhosted.org/packages/c7/88/a0c50dee655e5f05b3f5927f67875eafdee0e81e62c0449cadf3b0a5ca4a/youtube_dl-2014.08.23.tar.gz"
+      },
+      "2014.08.24": {
+        "sha256": "12ddc7562ccf63c3d9e1885f617b7a4875885539e4d465ec2af295b058c178ba",
+        "url": "https://files.pythonhosted.org/packages/a1/a7/7aef89372d2da53f4d54e69821e01200f6d2454fa0f5478716bdb81c5ae6/youtube_dl-2014.08.24.tar.gz"
+      },
+      "2014.08.24.1": {
+        "sha256": "3062b17aec3d32008b0e552028786d327949cc8741937b55f4c1c8ab7f112787",
+        "url": "https://files.pythonhosted.org/packages/7e/9c/ef8046c9b85272d3ada1dfe3c6aca4886a45f8e6b595797931085638d1fa/youtube_dl-2014.08.24.1.tar.gz"
+      },
+      "2014.08.24.2": {
+        "sha256": "da913ff93e803254ba52ec36d082c4e6ed5c482799996f7fb7706ca33b7e8231",
+        "url": "https://files.pythonhosted.org/packages/46/9b/520c6a98c966e0956a77c3b2ed8fbfd81a0b6d2712aef588b297f5ae1066/youtube_dl-2014.08.24.2.tar.gz"
+      },
+      "2014.08.24.3": {
+        "sha256": "c71c8d62d03ad0326ed6821d068482ab5d61a8598f1b6fee0e8409b7f2bc7535",
+        "url": "https://files.pythonhosted.org/packages/b7/02/5c63b4f481291ce72820b137bdca941b9c3d487fccb6add4f9840a00befc/youtube_dl-2014.08.24.3.tar.gz"
+      },
+      "2014.08.24.4": {
+        "sha256": "4019485fca93bf583aa707e00739ec90360c916e9ffc93a295cd637fb057ba18",
+        "url": "https://files.pythonhosted.org/packages/de/b7/21a3ddf98d2caed0c09f57953f5b905c0dfb0c307169217afd8db593de85/youtube_dl-2014.08.24.4.tar.gz"
+      },
+      "2014.08.24.5": {
+        "sha256": "0277ef20399de8ad59d89e57601f64067e207a1178cdad9d66e45f1547ff157b",
+        "url": "https://files.pythonhosted.org/packages/4b/89/f48b3d4293a443591160d3e25fff04104641c3d8c161af37d7a8d511204a/youtube_dl-2014.08.24.5.tar.gz"
+      },
+      "2014.08.24.6": {
+        "sha256": "608250ada4478a69b57615a1a095d96f20ad089850b2be5d08a5218f91b58a59",
+        "url": "https://files.pythonhosted.org/packages/aa/52/f0b22294d43ec40b149e61737848cd97fbbe2903cf7b0409e6f9887fcbd6/youtube_dl-2014.08.24.6.tar.gz"
+      },
+      "2014.08.25": {
+        "sha256": "eb21ef5e37d210a50e5f44c889547b9d6a31d946efb7b57ad7eb87c9503265e6",
+        "url": "https://files.pythonhosted.org/packages/0f/ca/c2b1539f4d3589835c36c73177fa9a0e64e755eea5d0cde7a468189c1f51/youtube_dl-2014.08.25.tar.gz"
+      },
+      "2014.08.25.2": {
+        "sha256": "35f3b5b787b8b09449a6f41d710836d9484bc9151150d96fa8c64fdbb0644955",
+        "url": "https://files.pythonhosted.org/packages/d4/6c/f160667252399fa9af2c7e7908411b6a361b999c58a89ccdc9b88a3c3ce3/youtube_dl-2014.08.25.2.tar.gz"
+      },
+      "2014.08.25.3": {
+        "sha256": "760f263b10c353e62d9113e240db0c3ea3132a2cb13773b8642a353e52081fb1",
+        "url": "https://files.pythonhosted.org/packages/fd/5e/cc3c6f3afbf21912e5aa1c679049df173bca2093f50e1e7fee09e107981f/youtube_dl-2014.08.25.3.tar.gz"
+      },
+      "2014.08.26": {
+        "sha256": "ca3545bfd471fbe895e7c8739fbff3889df8ffce97f11cb5253cd383c0a79897",
+        "url": "https://files.pythonhosted.org/packages/cf/a2/fd08f30d5142fee8205e7539fec6ccc07924203edc12220efb56945b9d22/youtube_dl-2014.08.26.tar.gz"
+      },
+      "2014.08.27": {
+        "sha256": "1d4cd4d9c736601bd3dcf68bda616a9cc162aee3e66de10a1818e4689ae81d85",
+        "url": "https://files.pythonhosted.org/packages/10/f7/307f1e43ab8ea4aed83d635ad2a659e9d4346c38b5b2e503f365560ad530/youtube_dl-2014.08.27.tar.gz"
+      },
+      "2014.08.27.1": {
+        "sha256": "5cfafe06a019d376114c0d32ddf64fa9feed18f6915bb04bd3a298243783507a",
+        "url": "https://files.pythonhosted.org/packages/6b/ef/86e7de77d994385ad8783d81ef4e90872235ce61453b291679cb1ed78ce3/youtube_dl-2014.08.27.1.tar.gz"
+      },
+      "2014.08.28": {
+        "sha256": "346f364f508f31931bce3b390ed3926766dd83f5570179ccbfb1d2f3a6cc8369",
+        "url": "https://files.pythonhosted.org/packages/5d/6a/7f23ab143d0d84f58f47f96244e3dd2c2d2f6261cbbaf74db94ec823bc9e/youtube_dl-2014.08.28.tar.gz"
+      },
+      "2014.08.28.1": {
+        "sha256": "36a235bea0ddfded9cb881fb06e449f01bcf476ff619fb5fc11b28b2e59ba4b6",
+        "url": "https://files.pythonhosted.org/packages/7c/77/5a10eadc28f70ca66f4e20d45fa4ceef203c8964fbe03957662add8e4d05/youtube_dl-2014.08.28.1.tar.gz"
+      },
+      "2014.08.28.2": {
+        "sha256": "aa64366520f8cfee1cdf226620ab528403468e5d61af661054c56ed16f7d2c5f",
+        "url": "https://files.pythonhosted.org/packages/a2/f3/9cd4c6afdb137121e619523f8ada7c44097bdbf4fa22cd6004c3d147b59f/youtube_dl-2014.08.28.2.tar.gz"
+      },
+      "2014.08.29": {
+        "sha256": "756e57fc5d8587a82cb1252c4fe47aacd3e925116bfcc4bbb95adc2b81fc665a",
+        "url": "https://files.pythonhosted.org/packages/ef/15/7f195ac244bc8a79ce624a70d5af8fba068da8a0a3d2f8b8dca6ba3a1f26/youtube_dl-2014.08.29.tar.gz"
+      },
+      "2014.09.01": {
+        "sha256": "6cc4d4708523300282fb1077e79e57bade7e19bd8b2fffe3db97bc2c763ddb50",
+        "url": "https://files.pythonhosted.org/packages/b4/e4/e7f4968030111fa21a35bb4b1e72582a96fc690013dd935eb9cb9302125b/youtube_dl-2014.09.01.tar.gz"
+      },
+      "2014.09.01.1": {
+        "sha256": "0fb6b2e1d951e354943f12fd7e28f5a55d82e4768b64f6892392d3ddb9b04a35",
+        "url": "https://files.pythonhosted.org/packages/ae/4e/b7ac37f0aa222d63d3ccb97143711a6c55eb6e9e4cd7fb67605673de0d35/youtube_dl-2014.09.01.1.tar.gz"
+      },
+      "2014.09.01.2": {
+        "sha256": "ed404affa99e1a099dc8bfb593928bae5a404c67217cca1c0a4564f57fd75359",
+        "url": "https://files.pythonhosted.org/packages/1e/f5/5e2a5a92ee23caaba36beceb51223ecca99f919cb242949c33debb48b53b/youtube_dl-2014.09.01.2.tar.gz"
+      },
+      "2014.09.04": {
+        "sha256": "5005f887d34c92e42a57243591a3483873fe418200a7d358b24d15428740d3a9",
+        "url": "https://files.pythonhosted.org/packages/58/a0/8a3d9f6202556e920cb54524d798cda1362dc0432682ee039360300fa904/youtube_dl-2014.09.04.tar.gz"
+      },
+      "2014.09.04.1": {
+        "sha256": "b896b2479cb05c33775510cfbfe5bf50075c0503c20bb5d76b6482eb16ccd4e3",
+        "url": "https://files.pythonhosted.org/packages/e9/c5/818ac7e27de9d852d57fd1cdb91b15d066c5274c6a50a981b09609c83e58/youtube_dl-2014.09.04.1.tar.gz"
+      },
+      "2014.09.04.3": {
+        "sha256": "cb8dfa1c7e17e4d41f67967cad82e19d1a8f7a114ee9c728cfffad8c1f44b131",
+        "url": "https://files.pythonhosted.org/packages/d9/08/c4ff060f4d770d09999af0a6f1427e8d2e45486de1545fdaf592c8cacb3b/youtube_dl-2014.09.04.3.tar.gz"
+      },
+      "2014.09.06": {
+        "sha256": "0c4811c1c134b03418fc1694dfc2f71c0014b6c8698086dc39496bc6df7de092",
+        "url": "https://files.pythonhosted.org/packages/62/5a/a883f654a9fca15ce53eb8d63a8c0aa933465c820ab15449770a9a8970d0/youtube_dl-2014.09.06.tar.gz"
+      },
+      "2014.09.10": {
+        "sha256": "0243f5967647174ed402888ba1e8ad492d456dbffa93c304e7542b66b5a69165",
+        "url": "https://files.pythonhosted.org/packages/7a/71/2c9bee9cb8d6462caef3eed5662d56145eab57fa695db5a8c2da811a5e8d/youtube_dl-2014.09.10.tar.gz"
+      },
+      "2014.09.10.1": {
+        "sha256": "9ebb56073fd10982efb5a727d65f5e6a5bba687ac412e46621aff9ac6683e8a5",
+        "url": "https://files.pythonhosted.org/packages/31/47/f7c3e1dcbeeb66db51b76fa654bc3285d25a097e1b24ac23912248ccfce5/youtube_dl-2014.09.10.1.tar.gz"
+      },
+      "2014.09.12": {
+        "sha256": "687c94f038f546b6d8f6fe98850f15b73b32aa4e9936bd7cfc4718e4335da276",
+        "url": "https://files.pythonhosted.org/packages/f9/37/2074252998e4a3f1ef109ce633fff1f1813c98da326ea5e8ad329a83486e/youtube_dl-2014.09.12.tar.gz"
+      },
+      "2014.09.14.3": {
+        "sha256": "c399fe76cbcf97438bd08ddfa3c8c8b85fe2d10d2be77b918be7cb1ba9d53edd",
+        "url": "https://files.pythonhosted.org/packages/a9/21/0686fadd55008ea55720980507d2c203547123b9675affab660d9d288278/youtube_dl-2014.09.14.3.tar.gz"
+      },
+      "2014.09.15": {
+        "sha256": "a32c2b281dc7be2c5fce31a0bcb4e82619047ef300c70b8d8f3bf5447dfa5763",
+        "url": "https://files.pythonhosted.org/packages/c1/7d/197375438ebf7c74cc056c06da5ee2c087eb9e852ebfef3529e45c0b1599/youtube_dl-2014.09.15.tar.gz"
+      },
+      "2014.09.15.1": {
+        "sha256": "9b6a4c217310908f115a39f58665561441bb8c3380e98dd71cf1d00c1efda5c8",
+        "url": "https://files.pythonhosted.org/packages/39/f9/ff84613afda07307864f96774f67e3b874268410f82488cc6784ba7e7b73/youtube_dl-2014.09.15.1.tar.gz"
+      },
+      "2014.09.16": {
+        "sha256": "d51bf11dc492a3e2dbf2e7d8ebf6747332d809a39a9e8795899f47c083334b5d",
+        "url": "https://files.pythonhosted.org/packages/c5/1a/e15514a4bd9ae1d59a0c5011ad6d6b034f3de20562fcfa4c128b417459f8/youtube_dl-2014.09.16.tar.gz"
+      },
+      "2014.09.16.1": {
+        "sha256": "eb4bdbd9ebc0eb068720aa4d62770ab1254a828a15777a671b71b4df64718853",
+        "url": "https://files.pythonhosted.org/packages/17/89/588b68334ae97ddd4e0523753c87fc3df9a7f63bda5c0a8a5eb547b3094b/youtube_dl-2014.09.16.1.tar.gz"
+      },
+      "2014.09.18": {
+        "sha256": "c3251c5ceb576c492b7d9237c379a88d74921d1c5d7afe0e23b142bb464a704a",
+        "url": "https://files.pythonhosted.org/packages/0b/f7/024375ece7feacd9a531d877992ce60d0b87139467805b9a64236a9bba4d/youtube_dl-2014.09.18.tar.gz"
+      },
+      "2014.09.19": {
+        "sha256": "617efe67aaa59837d2676d7442b41622ceff55a542bac359cd486ac3575b93a4",
+        "url": "https://files.pythonhosted.org/packages/22/bd/9154a8aefa916a0fd6d0eba1a68c9af91801403cb4e4ebc3fba6182916a6/youtube_dl-2014.09.19.tar.gz"
+      },
+      "2014.09.22": {
+        "sha256": "7dfbda7992b7b56263df43a65e5af906e274073086f7941f44ec419387efdbf3",
+        "url": "https://files.pythonhosted.org/packages/a8/dc/2bbb335f0bc8d8d8ff68eb2515264082b269794419395d017c928a71968c/youtube_dl-2014.09.22.tar.gz"
+      },
+      "2014.09.24": {
+        "sha256": "376aab3194dbf87d0429b05e982d690e81266b06738be6fecbb6e8d5b0342dbb",
+        "url": "https://files.pythonhosted.org/packages/7a/7a/64146a3c2dd0da4bb11b72bc9b94ac8783a5c443f86f32021a8ef5d7bf92/youtube_dl-2014.09.24.tar.gz"
+      },
+      "2014.09.24.1": {
+        "sha256": "3c1f9b794cc298812dd4d49fb6a7ba9931945f984de6ffa48216e3e51d17c06f",
+        "url": "https://files.pythonhosted.org/packages/b9/1d/55e0b2216505401bacf76b62323157ef992487d749238e3fc03d691aad07/youtube_dl-2014.09.24.1.tar.gz"
+      },
+      "2014.09.25": {
+        "sha256": "63d7d9a84193325a28a9388543bf57cda469f8bd378049b2b231646167f45285",
+        "url": "https://files.pythonhosted.org/packages/d6/68/ba9733951ecf0caf4fffb2391248cb2d33bbdbb254a9b588107724eacf7b/youtube_dl-2014.09.25.tar.gz"
+      },
+      "2014.09.29.1": {
+        "sha256": "7a8f8ecbef7a88a8734b30c6e2e56850470bb744bfad54ab85c8567374f7e15d",
+        "url": "https://files.pythonhosted.org/packages/bd/c5/5a48186000432e363c498f10e56c262fb940d1666fc214cfd8f2f034357a/youtube_dl-2014.09.29.1.tar.gz"
+      },
+      "2014.09.29.2": {
+        "sha256": "e522ad17c6976b36dc4f95765313a4c4ac74df411fdce93f300c258aa1f694b4",
+        "url": "https://files.pythonhosted.org/packages/3f/7c/966df3fd3598ea98094fca03a871b6cfdcd605c32f16fb1724a579c17238/youtube_dl-2014.09.29.2.tar.gz"
+      },
+      "2014.10.02": {
+        "sha256": "eb78c85b4b913e17bd544ace1439ee215da21d3a1a1bfa084809ead2d2616e42",
+        "url": "https://files.pythonhosted.org/packages/08/f5/75caf08ccff29c28a2fc105b9db3b4133adc229aa89b66258024c0a475f5/youtube_dl-2014.10.02.tar.gz"
+      },
+      "2014.10.05": {
+        "sha256": "797d264ec8d7a70c1b05dd8383c7325ab8206a55104bc12ec1b2e60425252966",
+        "url": "https://files.pythonhosted.org/packages/81/94/74325b463bc7f6a2c7451022b3d1c49069c40a4001571597f0021f0b5cab/youtube_dl-2014.10.05.tar.gz"
+      },
+      "2014.10.05.2": {
+        "sha256": "c29c3b57be3b8234d4a0e1c9e901b1abd1b866e19b8620666fd6397c8c76734c",
+        "url": "https://files.pythonhosted.org/packages/d8/92/150bfa54462d4645bd84e4a3af2ac8a2b92c7c7c47f6d95b4e76dbc939d6/youtube_dl-2014.10.05.2.tar.gz"
+      },
+      "2014.10.12": {
+        "sha256": "3b915f57dfe0fd243c8bd494d72d0ce099273d498142ec885e3e80df4574c97f",
+        "url": "https://files.pythonhosted.org/packages/ac/c8/320281aaf809c0bb23bc06f6355f9172d783a57219bd5dc2c9a84080ca94/youtube_dl-2014.10.12.tar.gz"
+      },
+      "2014.10.13": {
+        "sha256": "84f806180ebeb4f7f6f7dc9fa71fdaa5fb34b0b606cface4e33eb7b7f5ffdfc0",
+        "url": "https://files.pythonhosted.org/packages/45/6a/bda3e73c3b7a9d8ec93f1a32e9f313aeb74a2e7f6215472f0bd8ad1d2a54/youtube_dl-2014.10.13.tar.gz"
+      },
+      "2014.10.15": {
+        "sha256": "4c223868e251a3b4bd417194ad2213a213e2a0afb680ea5c86724c306baafd8c",
+        "url": "https://files.pythonhosted.org/packages/44/ed/bb3fb607a5965fac4802f72de93ff0165d38e7efec360ccedbfbe5b2aff5/youtube_dl-2014.10.15.tar.gz"
+      },
+      "2014.10.18": {
+        "sha256": "252c7cfc8d6304ffd4836d3cd07c6362fb37486ca7d9e9c9f65416e95b1cdf23",
+        "url": "https://files.pythonhosted.org/packages/7e/5e/a6a8531107e1d51ed9588643ee362b4a002a0d7c1a7f742fb507740d37ea/youtube_dl-2014.10.18.tar.gz"
+      },
+      "2014.10.23": {
+        "sha256": "9846c7c0b5187b4d72fdda98660c665cc98b0a8806ec916d07712b5891cacac2",
+        "url": "https://files.pythonhosted.org/packages/d7/d3/5e1f1e638a7add15096862950dd7d4d74efb293f5c53d0d36c977a881bdb/youtube_dl-2014.10.23.tar.gz"
+      },
+      "2014.10.24": {
+        "sha256": "aff73a32eda0e21d8c21c060fa103ec85f30f94041fb710213d4d70622b87ae5",
+        "url": "https://files.pythonhosted.org/packages/63/fb/7a15fc06247035cc6bfca4eb7d54121a39b03b24c36c81672d882e8c807b/youtube_dl-2014.10.24.tar.gz"
+      },
+      "2014.10.25": {
+        "sha256": "8211323690013297c825cbe56c487ffa83d8d9e6209b7a00d252844339de0145",
+        "url": "https://files.pythonhosted.org/packages/42/d7/bcc195dcc1d490102f5a7ee4508c8e8305edf536b865bf84acc3419849ca/youtube_dl-2014.10.25.tar.gz"
+      },
+      "2014.10.26": {
+        "sha256": "e3022d25df29d0c09b4866e933390cb4958138bdea43611962a4a02d4f051e8b",
+        "url": "https://files.pythonhosted.org/packages/0b/67/c53675df6e40e83ee3afe327782cf8bb5a952ed94430f65ab77c8bca0f73/youtube_dl-2014.10.26.tar.gz"
+      },
+      "2014.10.26.1": {
+        "sha256": "724a60633011ad3c34f99f5b0109a02b591c423577a2d6d6ebc2d82c904373a1",
+        "url": "https://files.pythonhosted.org/packages/e8/65/a17b11b0f54df485556233c9b5a4c3166febf1292e79b9d644378a022e53/youtube_dl-2014.10.26.1.tar.gz"
+      },
+      "2014.10.26.2": {
+        "sha256": "43e4c17eee1e37be5ab49d7cea43766ba6ddd1d385484868e866df5310e205de",
+        "url": "https://files.pythonhosted.org/packages/70/6f/776c4830f589e42519ba3830295db88afdff6d753b1b3fa447e1dd53254a/youtube_dl-2014.10.26.2.tar.gz"
+      },
+      "2014.10.27": {
+        "sha256": "e0effdae6a14f4a71b8f05e78deee9b4fe12c22f2762b26282ee7d07c79b92a1",
+        "url": "https://files.pythonhosted.org/packages/b2/70/c24585aa83bbddf9c67b47ce8da19f3fbe5642cd3d4a07fbf9b65a28c1af/youtube_dl-2014.10.27.tar.gz"
+      },
+      "2014.10.29": {
+        "sha256": "f8272c82538453e31be557097672542c026403b63b119bf89b8b1ed1e8ade558",
+        "url": "https://files.pythonhosted.org/packages/3a/9e/d05151212bc9ea7cbd7b32fa65ae8a0c8710eb77c029bb5cce360bab8881/youtube_dl-2014.10.29.tar.gz"
+      },
+      "2014.10.30": {
+        "sha256": "7fba8b9d362a06e6bc53b635380bf8763c319a0e9d01310eb51336c82a021e8d",
+        "url": "https://files.pythonhosted.org/packages/18/7f/abab0b3c2988bc4e6d1b13207ea3908ed0e1e22bc63ee51d7c1a772a855c/youtube_dl-2014.10.30.tar.gz"
+      },
+      "2014.11.02.1": {
+        "sha256": "558034ea64d3b2feda4866da60d47d17f998ce93aa910209048dd55205dbab46",
+        "url": "https://files.pythonhosted.org/packages/f1/b7/607456116319d901c4c9772509d57e20f4560c0816b6a8fb1411708d1694/youtube_dl-2014.11.02.1.tar.gz"
+      },
+      "2014.11.04": {
+        "sha256": "a9cebaa8511e91d52153336c8a287909362c518d95a2d284bfb140b28da8548e",
+        "url": "https://files.pythonhosted.org/packages/c4/44/5a643bd383583d9435b9abce947a524bd54ff30be0a16f10793a00dfdb14/youtube_dl-2014.11.04.tar.gz"
+      },
+      "2014.11.09": {
+        "sha256": "b26d8fd3d6e92bd3763869b5e63d3abc39dc316765ac59a3e94d07c797e6a930",
+        "url": "https://files.pythonhosted.org/packages/e9/80/7ea89b8cf2d6cc9480a2f39e1ba9a6095b2622ff49fe279accb6ac71fb6e/youtube_dl-2014.11.09.tar.gz"
+      },
+      "2014.11.12": {
+        "sha256": "7c0a1b4c2c8011d8227ab9f4d9ed0746495f8faa29961224dba98d563b599c98",
+        "url": "https://files.pythonhosted.org/packages/57/b1/5851f78e4acca3be8885a3b1a26c9d47bf60ad60b5185500a4b0e7db780e/youtube_dl-2014.11.12.tar.gz"
+      },
+      "2014.11.12.1": {
+        "sha256": "27d906a390a72701db7e31300d3a83ca86286683f7847659e677d1cc7d12665b",
+        "url": "https://files.pythonhosted.org/packages/4b/10/66474b26e1db4531c69c33b756e9b488e0410355e31b72422ec7a94f9312/youtube_dl-2014.11.12.1.tar.gz"
+      },
+      "2014.11.13": {
+        "sha256": "c0b6b78f2c25444f7378a91464eb9e660b71914b9b5458aabeafadc82621ca19",
+        "url": "https://files.pythonhosted.org/packages/19/8c/5a7af49752841121cfdd62787cfd8f0af1940da0f46e4f9d7538d3332f36/youtube_dl-2014.11.13.tar.gz"
+      },
+      "2014.11.13.1": {
+        "sha256": "cb458b2fa874a7406f8d99890bc4871a6e4b2696443516a8bbd2f9e45c5b9be4",
+        "url": "https://files.pythonhosted.org/packages/96/f2/ffe466ec7db635641a56d5337101441c01918da881d1b30ad9dd43f1c74f/youtube_dl-2014.11.13.1.tar.gz"
+      },
+      "2014.11.13.2": {
+        "sha256": "22a2ff7dc64737fb06c4526d0a203fc7ad504942a500051e4cb7a0899e690951",
+        "url": "https://files.pythonhosted.org/packages/8b/ee/e430160a73d47a03e3cc3eca1be6ee547322174e43a06b11c344b5f31bfb/youtube_dl-2014.11.13.2.tar.gz"
+      },
+      "2014.11.13.3": {
+        "sha256": "e8aaf3888efb94c04efcffb9020e45164ad60d058eaae8399bd900f9e55af121",
+        "url": "https://files.pythonhosted.org/packages/4e/f6/d7cf1f37a3a0a21ddc9d670e7844813fe794515b7aad9165ae3ecf821cef/youtube_dl-2014.11.13.3.tar.gz"
+      },
+      "2014.11.14": {
+        "sha256": "6590120acacff61579a91f20dbc8e9ed1ee8ddb2b0b22552fe65eb643018d0df",
+        "url": "https://files.pythonhosted.org/packages/aa/0b/570c0c03bd61c9a4c751d8275100a0640fe3d8e374235efcddefd1063be6/youtube_dl-2014.11.14.tar.gz"
+      },
+      "2014.11.15": {
+        "sha256": "13e4b555ec9bd86755234979682c58901c765c8daa07d5ac0e177249624ab2ad",
+        "url": "https://files.pythonhosted.org/packages/9c/0c/267af734fc941c5f9384d60fc87ce0d009589de6b691503a949d5e7e0da8/youtube_dl-2014.11.15.tar.gz"
+      },
+      "2014.11.15.1": {
+        "sha256": "89c501a69290ef24cd18fec7e226dc15c603aa1a590c432e260b2d98231c2c42",
+        "url": "https://files.pythonhosted.org/packages/2a/77/fad11aad43c65b6154705be1d2141c19408ec5ac8ccbe5023eed5d999c39/youtube_dl-2014.11.15.1.tar.gz"
+      },
+      "2014.11.16": {
+        "sha256": "7add29391658db82d4aabf048f20ba6e1001cf113d9ef7fbd12d79391002f0a8",
+        "url": "https://files.pythonhosted.org/packages/09/0f/2463371c9f379d96fef7cc87913c9a393fdac701a8362d3602927b1e58e3/youtube_dl-2014.11.16.tar.gz"
+      },
+      "2014.11.20": {
+        "sha256": "3a8d02d50d2651b3f9e0ca5d4905d2d5a3ce43e4e0b9a3ea603728a0d7e810dd",
+        "url": "https://files.pythonhosted.org/packages/41/68/62807174ccc5a0e6ab0daf0640fd528a401d09948d1f0aee48e36348253b/youtube_dl-2014.11.20.tar.gz"
+      },
+      "2014.11.21": {
+        "sha256": "aeec9fa2e507a79cb862d032b3aae07cd4155200406439dd3db402deb15b83cc",
+        "url": "https://files.pythonhosted.org/packages/4b/8b/853d5fb059418526ba80cbe261ecc6b640cc1a4c1697bec5d194f802dbff/youtube_dl-2014.11.21.tar.gz"
+      },
+      "2014.11.21.1": {
+        "sha256": "25af13084f9f2bf82ab9d321db968ee0b032ba4de8bb64d553e0a2d9d61e8880",
+        "url": "https://files.pythonhosted.org/packages/3c/10/8f68a15ef7e03fe07295d8bbed0f2de7f35b10885aefa48ec4e759ec7eb8/youtube_dl-2014.11.21.1.tar.gz"
+      },
+      "2014.11.23": {
+        "sha256": "604c26aa87d96a1eac1d786342f61bb75caebbf92b727e6d75b619dad3857cfc",
+        "url": "https://files.pythonhosted.org/packages/72/97/3d413a4eb2928a32973921d1839977aefde08ef72e01869186ed8945d379/youtube_dl-2014.11.23.tar.gz"
+      },
+      "2014.11.23.1": {
+        "sha256": "ab9346e0b17371bf1453db1bb9efe0b5ca5a88c22cf049219d184ea75bd1288e",
+        "url": "https://files.pythonhosted.org/packages/77/15/3825d017671213a68a826e31344c5a4d68b9aed1806d34140b965fb4f32e/youtube_dl-2014.11.23.1.tar.gz"
+      },
+      "2014.11.25": {
+        "sha256": "e0ed49c3380d637a32a53aac69bcc06e8c4cc35b20939804655e21b75eb8e66c",
+        "url": "https://files.pythonhosted.org/packages/88/ec/3d26de5ea2248e1d0cbb1b3a54c3804791aa9870e6dc8ca4ae230f3e3ff5/youtube_dl-2014.11.25.tar.gz"
+      },
+      "2014.11.25.1": {
+        "sha256": "832fbe9a7d768563640e7df0d98bc6fded5402ffaa1c6685eab24842db7b92d2",
+        "url": "https://files.pythonhosted.org/packages/01/39/d1e584c3a4f583895b8a52ba56f46cf658c782eed171d747c767b96f5e7f/youtube_dl-2014.11.25.1.tar.gz"
+      },
+      "2014.11.26": {
+        "sha256": "81557985dac8e99009cc8b4fe811f769a866923e29c6a92c456d575e34a0097f",
+        "url": "https://files.pythonhosted.org/packages/a0/5a/a83a8448bffbc80b42149b16d2f3de382af82c0c416c4c6b4bbba3bf49b3/youtube_dl-2014.11.26.tar.gz"
+      },
+      "2014.11.26.1": {
+        "sha256": "5596afca3145d1e7bcdd7d32930e4dd28b3a137581ee634e3a15f81e22ca4881",
+        "url": "https://files.pythonhosted.org/packages/c8/dc/05c3bec321dae55bba6161f1767a14cd706231cb34391a5135dbd56454d6/youtube_dl-2014.11.26.1.tar.gz"
+      },
+      "2014.11.26.3": {
+        "sha256": "1b0157570c084e7f355054952b29a79d8f9f7aaefff926e3f2b969ad848a2af3",
+        "url": "https://files.pythonhosted.org/packages/bd/e4/2b752ea5f1b538e7bc5f021d47be89cce0720c3d3aede71bb075580d24f2/youtube_dl-2014.11.26.3.tar.gz"
+      },
+      "2014.11.26.4": {
+        "sha256": "fa1776cd3e00d3027ef2818f3010d658d85729c3a559dacb81a948bdad01dba9",
+        "url": "https://files.pythonhosted.org/packages/bb/c6/38edcd29945057ab8e64d04aa1f0ff70d2d9213b4bc724b659578927e976/youtube_dl-2014.11.26.4.tar.gz"
+      },
+      "2014.11.27": {
+        "sha256": "35d75d699af2291ec2188506bdace0fdf9fe8c38a7737f9820fb757e0666eabd",
+        "url": "https://files.pythonhosted.org/packages/7b/de/1a46a50ee986aa080e369a359db9b5f0f544fe2a5cb9437633de43fd4eb6/youtube_dl-2014.11.27.tar.gz"
+      },
+      "2014.12.01": {
+        "sha256": "2f5b2b2e0cecaeaf2372049ce4f0d9071265d9fdf77dd4e3e1ca31ca32ac7094",
+        "url": "https://files.pythonhosted.org/packages/c1/f0/317e365a3c0c9eb59311274ef3c075e3daea8c44f241ef7fb5f26dbef47a/youtube_dl-2014.12.01.tar.gz"
+      },
+      "2014.12.03": {
+        "sha256": "8026a6165de4e59915156186af99bbce16c62f49ec0f78a8fbbc921682e65eb6",
+        "url": "https://files.pythonhosted.org/packages/62/af/243ed5faf9d0c348762ea28343b882d7c723420c7d67bd007d1c09ad6620/youtube_dl-2014.12.03.tar.gz"
+      },
+      "2014.12.04": {
+        "sha256": "392207351dafe1382db0c8f745d92cdee90518dd242e8a27e83b549423eba538",
+        "url": "https://files.pythonhosted.org/packages/1b/c5/0117abfdeeef1b2d546dba12f3e6807eba1c0050d7b05679fd1954239e4c/youtube_dl-2014.12.04.tar.gz"
+      },
+      "2014.12.04.1": {
+        "sha256": "54d265e73bc93878bda7cb810279c1420c73c42430544e30bd08d05e81ebe003",
+        "url": "https://files.pythonhosted.org/packages/3e/0e/f6775566bd6505c3011f6a801ffbe39a018965d25cceaf25748ae8a38a30/youtube_dl-2014.12.04.1.tar.gz"
+      },
+      "2014.12.04.2": {
+        "sha256": "34f733d685c80e39331d72f94ffee4ff231b5a98c5cb89b52bb0cc991b36ccc0",
+        "url": "https://files.pythonhosted.org/packages/02/54/5fdf9833b8d1510f7463be5e3aa6646d349751a81d1bd8857d3b106820ef/youtube_dl-2014.12.04.2.tar.gz"
+      },
+      "2014.12.06": {
+        "sha256": "e5b1d8a5a1777309310662c3b98325a25a3eb0a4f16fdab751d5dffd3c809735",
+        "url": "https://files.pythonhosted.org/packages/a7/1b/4190e10f7d05bb9a2bc1e33dc579a9a725b78e75e169d3f4f45eb5480160/youtube_dl-2014.12.06.tar.gz"
+      },
+      "2014.12.06.1": {
+        "sha256": "4413b30504da70ae761753c342e638a0c20c5ceecc80348d1dc5d29b90a55318",
+        "url": "https://files.pythonhosted.org/packages/c5/e0/9da66e27e0a49628db18505d433b047ddcf4d09e3d43220762e5af4ab698/youtube_dl-2014.12.06.1.tar.gz"
+      },
+      "2014.12.10": {
+        "sha256": "0726b4df9419ce1eba1741f2fda42239af818f04362ac802c5fdc7ed19bd8fa3",
+        "url": "https://files.pythonhosted.org/packages/ed/cd/455325cce64360f05980691159f0a276e0bb7ec643970f207aba137daf94/youtube_dl-2014.12.10.tar.gz"
+      },
+      "2014.12.10.1": {
+        "sha256": "948b8577815d2219a0c5bea5742dbb4f032f351e5409eeb54124c5d4973bd170",
+        "url": "https://files.pythonhosted.org/packages/ec/5d/59b06b39998738f5fb1d8867236d3ccb27091e74bc0a07cc25876ba192a1/youtube_dl-2014.12.10.1.tar.gz"
+      },
+      "2014.12.10.2": {
+        "sha256": "f407dc8b4b9dcdede05a3195b26aee827a826444fa1975b57e26d03e1e8df33d",
+        "url": "https://files.pythonhosted.org/packages/3c/7b/d5679514d2ff0057e604884ace7e0a83686e4181e8f9a944168175ace512/youtube_dl-2014.12.10.2.tar.gz"
+      },
+      "2014.12.10.3": {
+        "sha256": "df131a4f6df92c92ca60380b3ea9ab35388fac78f8333fec38010f01edcf26f0",
+        "url": "https://files.pythonhosted.org/packages/9b/a2/42969331d3ec2f5227da4b5db0b8f36c2ec9bc47815e831eacf11d2b2851/youtube_dl-2014.12.10.3.tar.gz"
+      },
+      "2014.12.12.1": {
+        "sha256": "dc9cd9e60a3f046258e72a3bf3ec20f687279824e3a940f4469fe44464c870b7",
+        "url": "https://files.pythonhosted.org/packages/48/a6/de71716a9b7d84feb7d28b2c9ef4653152368b048fae44b0160d7160a871/youtube_dl-2014.12.12.1.tar.gz"
+      },
+      "2014.12.12.2": {
+        "sha256": "7ab4020c81aff81af70252c32abadcb35e3f18960fa62884bf78c42598628cfc",
+        "url": "https://files.pythonhosted.org/packages/8d/34/3973be5d46b6c6b7edcfa9ef5cc8add1244ea0c9d63f6a3fd33ca2897eeb/youtube_dl-2014.12.12.2.tar.gz"
+      },
+      "2014.12.12.3": {
+        "sha256": "088dd24bdf03a67ce0dbc41a2d9dc6dd7521dc7bf31cff525ea5cff26db2c39e",
+        "url": "https://files.pythonhosted.org/packages/1d/4d/5305809f227f485e40be1e2397bf6510990994ddd069ee5e2bb5cbfc423d/youtube_dl-2014.12.12.3.tar.gz"
+      },
+      "2014.12.12.4": {
+        "sha256": "89935944697b36bec542827d039c92fd453ae74aa0d1673c55d9a350c51c551b",
+        "url": "https://files.pythonhosted.org/packages/c6/bc/6cc8284f96a5e6d809ab7b7c0b8e72b8169a9625a30417d87be21568a6e4/youtube_dl-2014.12.12.4.tar.gz"
+      },
+      "2014.12.12.5": {
+        "sha256": "e28fcabb841e09b5f0128f9cdc9a55cf29ec72a002b2554529c960ad1ad573a5",
+        "url": "https://files.pythonhosted.org/packages/11/14/36ed1948303c43a8bb84c018846ae270d0c2fc13920b28aa8163dc01af3e/youtube_dl-2014.12.12.5.tar.gz"
+      },
+      "2014.12.12.7": {
+        "sha256": "08d401ffaea4afa1464afbe6b8e980e37b0352259c0dfd9ae8b2f8ae9b8f4b90",
+        "url": "https://files.pythonhosted.org/packages/2a/89/071dbde8048aba388b5b688c9ecc7f795304bfa4cd94cf9cd55c78fe8075/youtube_dl-2014.12.12.7.tar.gz"
+      },
+      "2014.12.13": {
+        "sha256": "6ffe8b2af97d8a1be442fef46c2caa51e4ad9ba089aaa01c7163dd270fce049b",
+        "url": "https://files.pythonhosted.org/packages/e8/4f/da5b93cffcc68cddf247f11acf00a2be4ff03179d9ab93345a0093675a6b/youtube_dl-2014.12.13.tar.gz"
+      },
+      "2014.12.13.1": {
+        "sha256": "29c27eb52234fe8c7b0f49600b5a30c505d6331cba7bbb6b808e7f99a9257549",
+        "url": "https://files.pythonhosted.org/packages/70/c1/f990c464e459051c0c2655707d98a7048eeaa4627f5fe9d20eba2519ac14/youtube_dl-2014.12.13.1.tar.gz"
+      },
+      "2014.12.14": {
+        "sha256": "aabb2248f3974777af65a913c4cf22c15528bbc1e4b0b5adbbc2c2e202fe1ec8",
+        "url": "https://files.pythonhosted.org/packages/b1/4d/a66383bbef97ca2f31d9702e921fcafe85039ba6d5507b56e778d598193f/youtube_dl-2014.12.14.tar.gz"
+      },
+      "2014.12.15": {
+        "sha256": "229450af07abce96de960ef49bcaf950cefcc97b23994538c46540da0186f3ba",
+        "url": "https://files.pythonhosted.org/packages/5d/3e/7e0d46af37a9a8f22200a30c669cc2b6c6d69b3a6252fe4af95fbc19af6e/youtube_dl-2014.12.15.tar.gz"
+      },
+      "2014.12.16": {
+        "sha256": "808860458cd5c902a9d8b5c87b8db2f2d372d54689e449603d3b6799dd98b736",
+        "url": "https://files.pythonhosted.org/packages/0e/5c/db6b97988511b6e299261e203a452d5e181dff3086643a11bc2cc63fe53d/youtube_dl-2014.12.16.tar.gz"
+      },
+      "2014.12.16.1": {
+        "sha256": "be9e25cfc5f0743c7ce3b21930b02e4dae00128bd5a7ef323426ab6a4c8f6a21",
+        "url": "https://files.pythonhosted.org/packages/c2/20/444cc9d05158267e6cad704e353f05063ade7ef7411362fc2090b87414f2/youtube_dl-2014.12.16.1.tar.gz"
+      },
+      "2014.12.16.2": {
+        "sha256": "ed3b9b2243603c05078e27f2d00a15532e72215f1a76d8bfbb4c06d7128cae97",
+        "url": "https://files.pythonhosted.org/packages/c2/67/825f59ab5ff3e5a98656204306d1a1948d4b17b31a7359661bfc82bcc5f7/youtube_dl-2014.12.16.2.tar.gz"
+      },
+      "2015.01.01": {
+        "sha256": "681b8abe428ac35f026f7c28ad1549c3dcbf5eae1c9e614d1db0757ffddf2d87",
+        "url": "https://files.pythonhosted.org/packages/5c/70/b0cb52c6d24047396c8d265556163fc734f057abead66f15d1b550911825/youtube_dl-2015.01.01.tar.gz"
+      },
+      "2015.01.02": {
+        "sha256": "cf4aa4190fcadb7771d0572422c97cd7b5efc12c065fd4fe9607ef30e9dfe425",
+        "url": "https://files.pythonhosted.org/packages/4a/02/db5ad6f1c090d81504681082470bd5aff1bbc717d575633c9f438c469a9d/youtube_dl-2015.01.02.tar.gz"
+      },
+      "2015.01.03": {
+        "sha256": "eb49d099436f3221095c7613f9a9aa158f450acfefb8857bfbe03a5de42c72db",
+        "url": "https://files.pythonhosted.org/packages/93/07/20e9c22c06a794c2d63d7bd80ccdc2436982ac01e10eb6feebe6f3c0aab9/youtube_dl-2015.01.03.tar.gz"
+      },
+      "2015.01.04": {
+        "sha256": "73ddee1d4c2bcdfa8e950375d8ad957e54c0f3a0025fd7e126b0c790a432d423",
+        "url": "https://files.pythonhosted.org/packages/5c/31/97fdcfcc6dc36e6a46ced973afcc804f6743c33cfd9205da784391433cd2/youtube_dl-2015.01.04.tar.gz"
+      },
+      "2015.01.05": {
+        "sha256": "ef6b895cb3b8254919b3fbf7d7708a9da3bad7d2a9ff1dce47945e990322889e",
+        "url": "https://files.pythonhosted.org/packages/b7/c6/85c8e3a5801d3ffbac99068a3c944c9247a3195dbbc28ccc80992f408db9/youtube_dl-2015.01.05.tar.gz"
+      },
+      "2015.01.05.1": {
+        "sha256": "f3ce0ad4fd70292a1fd731b8a33cdb9ff6caf44b2ed7d591622ae673ff3ddf7d",
+        "url": "https://files.pythonhosted.org/packages/86/e0/cf2a1bc7925aca48f32c07bbee9275bd81a7820253bd239f6ea06d689bb6/youtube_dl-2015.01.05.1.tar.gz"
+      },
+      "2015.01.07": {
+        "sha256": "ceeb5b1b02c3ade7139e6009198e49d22190918016639d6999feaadea93c7888",
+        "url": "https://files.pythonhosted.org/packages/28/aa/02e45dddb61cac8a6865e3b399fdd8a8b94c3a688e6532d2152fbee634d2/youtube_dl-2015.01.07.tar.gz"
+      },
+      "2015.01.07.2": {
+        "sha256": "df3a7ee770ac1ba1be8b7b967a79b80fa1125fa7a781132b7d694e9be4114f04",
+        "url": "https://files.pythonhosted.org/packages/64/60/9430c975afa87c946d9cf3b0866e85f55328e1918f8687614599b3aef235/youtube_dl-2015.01.07.2.tar.gz"
+      },
+      "2015.01.08": {
+        "sha256": "01550871394bb08f550c8ead5d2f0cbd8f90266a5106149fd5a822f803bf5c74",
+        "url": "https://files.pythonhosted.org/packages/4c/62/ede9e92baca002c4827b616f2c42a7f76134894402ba16f1f37e440942c3/youtube_dl-2015.01.08.tar.gz"
+      },
+      "2015.01.09": {
+        "sha256": "3762a180baaae06bbcd7962900e24d94abb53136e7acd7755b7ee0c888f044cd",
+        "url": "https://files.pythonhosted.org/packages/a8/91/7ea16839cac9f7c9512a4969016f8a59706772d63df887db5cd9dc2ec561/youtube_dl-2015.01.09.tar.gz"
+      },
+      "2015.01.09.1": {
+        "sha256": "8f9a5bffb5b56e2563feca9fc1c99a06330a20b6e36506acfbf8b80edb267d2d",
+        "url": "https://files.pythonhosted.org/packages/38/e6/0d3aa8389fbe1247f047159a0c65c4b9901f1500fde07a86777b6bac9812/youtube_dl-2015.01.09.1.tar.gz"
+      },
+      "2015.01.09.2": {
+        "sha256": "ff4c5b86df08c502647c90a73ce8e9ff2bc1c259474819eae881d3b068d0e9ff",
+        "url": "https://files.pythonhosted.org/packages/92/ae/d04298788542570bcf4b7fbdda31d35f674f1927efcaf2d242e81127a373/youtube_dl-2015.01.09.2.tar.gz"
+      },
+      "2015.01.10": {
+        "sha256": "d6aede61320f5d3da5c2c3ed402f7622d4c27c857f032fd172560c8a3155ba78",
+        "url": "https://files.pythonhosted.org/packages/3a/1f/d5c03bc948ae817bd55178d026498c702321df80de70633081660204f68b/youtube_dl-2015.01.10.tar.gz"
+      },
+      "2015.01.10.1": {
+        "sha256": "a405c22a1495e9652f6356d6455edb478c1a340ff0bc287bc2d8a1359b094a77",
+        "url": "https://files.pythonhosted.org/packages/2c/2d/605d6b2a5d1828c79860f1cc57cfeb126cc3791774107e572ced6b48e37f/youtube_dl-2015.01.10.1.tar.gz"
+      },
+      "2015.01.10.2": {
+        "sha256": "962eee92e48e8d8d48566d4f61fc2b72ea8c8e1773d8db7353996d50b0cb1daa",
+        "url": "https://files.pythonhosted.org/packages/4b/9b/ea1cbd0698c8414c153d736749662c4533d3fdc236885765004f59b554a3/youtube_dl-2015.01.10.2.tar.gz"
+      },
+      "2015.01.11": {
+        "sha256": "67a6c506f1bc3a404d4e2e8887a32737c6c990fa425843b9a0fe6b937e2044da",
+        "url": "https://files.pythonhosted.org/packages/08/99/90e69da5c32fcffd9e4456a9e605f11978062e4529d588df2d6f22c3b47c/youtube_dl-2015.01.11.tar.gz"
+      },
+      "2015.01.15": {
+        "sha256": "87eb95e13e68329d56e55ba92d512a258fc2244ebf1a9e0590343452492dfdca",
+        "url": "https://files.pythonhosted.org/packages/4d/dd/738bfacec2e3778db11eceb134016342d92c9990f9706ff8d30c5ed9bdda/youtube_dl-2015.01.15.tar.gz"
+      },
+      "2015.01.15.1": {
+        "sha256": "2fd21f33386c074d94cd5c71a6f160f61abccb73dfc99f032c3911b0376dd248",
+        "url": "https://files.pythonhosted.org/packages/2d/6f/95ad853989e65a6fabb8829b4083402955148d1425e6ffa7efa45908847d/youtube_dl-2015.01.15.1.tar.gz"
+      },
+      "2015.01.16": {
+        "sha256": "ce048ee7ab47c178c383bdf34c86c44ca2c56d175d5be37d035e3adb921dac5c",
+        "url": "https://files.pythonhosted.org/packages/83/92/4899c4dbeecf25f5aa4a5e078a737a9f10a14b23f87dcf908a8e22b3b5fc/youtube_dl-2015.01.16.tar.gz"
+      },
+      "2015.01.22": {
+        "sha256": "155d706adaa5470aeb51130c5e34458b9f936524bfeacab0ef73c58dd511b11b",
+        "url": "https://files.pythonhosted.org/packages/e6/91/1bce3782eb0d7fa75e1e00dac9e8a39c50efffdd8aa1f306f8b8e6d07f9c/youtube_dl-2015.01.22.tar.gz"
+      },
+      "2015.01.23": {
+        "sha256": "d40df7e67be485d8710b8924788445246f39d3fc04179daa3c36b6ecf45ef0ab",
+        "url": "https://files.pythonhosted.org/packages/eb/4a/56702695b308efe2a41d69823b637c4d2518dc3d20de29e7cc3ac9cce154/youtube_dl-2015.01.23.tar.gz"
+      },
+      "2015.01.23.1": {
+        "sha256": "681392c735d352969b893a6457cae86d7f141981cc7f28718aaad09a6246d33e",
+        "url": "https://files.pythonhosted.org/packages/ee/4e/f4c7c72f6ce4ce778bb2e95225f74ff1ef71727a9b942cbb831ef8dfa7dc/youtube_dl-2015.01.23.1.tar.gz"
+      },
+      "2015.01.23.2": {
+        "sha256": "de7d3ea559d5ca3951adff825900b247f672be9af1f21dd1d1c9d5eba7276218",
+        "url": "https://files.pythonhosted.org/packages/25/e9/caeff43d2e1fecd097ef8315665d18bb6ef6b8f296e72e10651959ef822e/youtube_dl-2015.01.23.2.tar.gz"
+      },
+      "2015.01.23.3": {
+        "sha256": "297aa7c98c81f0cc0df14c8dc8d8ee43526889c9636bc28135af9dac0e5a6559",
+        "url": "https://files.pythonhosted.org/packages/d3/8f/eff91d8334af8a8fa8c6739a70e7a2fc4ae24768a1ea614dd37ebc7bdd98/youtube_dl-2015.01.23.3.tar.gz"
+      },
+      "2015.01.23.4": {
+        "sha256": "c7a4090970ea81e7bfa34001400c781bdb5af73f7fb92a668afbf50238e27cd9",
+        "url": "https://files.pythonhosted.org/packages/42/c5/66edcf6c9f226118475ce5af7c52b2a85adcb16fca000723e44c64a8c86b/youtube_dl-2015.01.23.4.tar.gz"
+      },
+      "2015.01.25": {
+        "sha256": "a6b6863264e937a4f68fe4a41fe2827c23e13a46ad9320fb3dda7476cb2ce6fc",
+        "url": "https://files.pythonhosted.org/packages/19/be/24d8eac9a9a5b360f943a1a71218eabcf6cb1a9e46499a16a415b7254d54/youtube_dl-2015.01.25.tar.gz"
+      },
+      "2015.01.30.1": {
+        "sha256": "ea754bfe5706c5164f34f8aeb344959cf493b75269676c4c317919ac43ae43f5",
+        "url": "https://files.pythonhosted.org/packages/13/0d/c46076e82e56acfa80ebce79f3cc960f5da5b8fdb2883f6a77713b1c8d91/youtube_dl-2015.01.30.1.tar.gz"
+      },
+      "2015.01.30.2": {
+        "sha256": "1e1a2db66ffda5013a05f56fb537424f4de44d35dbc2f4b2fd3ae275ce582d8e",
+        "url": "https://files.pythonhosted.org/packages/ae/a3/6ebaedb6fb4f2c5f45d2d061b5b76b15044f98ab4e5772240cf6d9c1710d/youtube_dl-2015.01.30.2.tar.gz"
+      },
+      "2015.02.02": {
+        "sha256": "2112ac0b4e3e8352d7b1fc0d7272d07a6b963b9437e6f55162622eedaf1d8cae",
+        "url": "https://files.pythonhosted.org/packages/24/a6/e1e109fb500943ef5fb6f28ce58b7c903e12d92ee4b9ada6e269931fd668/youtube_dl-2015.02.02.tar.gz"
+      },
+      "2015.02.02.2": {
+        "sha256": "58a7e47ac1209e3d65e92c6f2d088723c0cb2a0d481f26dc6c4e8cec84440dd3",
+        "url": "https://files.pythonhosted.org/packages/a3/57/e5c0b848d7c42914b3044c40685eadc1e9f15d5e3fef143de5a065adb7d1/youtube_dl-2015.02.02.2.tar.gz"
+      },
+      "2015.02.02.4": {
+        "sha256": "e247f3e68339feaefcf5a2f3276e094e03a7fee5077f3887d30d79d170a3e589",
+        "url": "https://files.pythonhosted.org/packages/a6/f4/0272170c384eb546f2f1950b33f792dad470489ae2d3bd19cfa14f4fdb2a/youtube_dl-2015.02.02.4.tar.gz"
+      },
+      "2015.02.02.5": {
+        "sha256": "e03523d952d1df13e27fbaee8c98ec80c11f285dafbe1d75c724048997f13d34",
+        "url": "https://files.pythonhosted.org/packages/8a/04/3bd667504dbc18a3abdd62d710425b805439dcce41a65949eb4f0716c99a/youtube_dl-2015.02.02.5.tar.gz"
+      },
+      "2015.02.03": {
+        "sha256": "c33090f0c85471f7e7080e781d56526a16b4b7c5ff60026d494f725d6a5f446e",
+        "url": "https://files.pythonhosted.org/packages/81/a5/bce778829868f0867b6dd812a7febeb3609365cfe27686f88f0278bad357/youtube_dl-2015.02.03.tar.gz"
+      },
+      "2015.02.03.1": {
+        "sha256": "908cffa7aebd8e44774c47f1374d2184c4464aa02db759710ea06971c2791c0a",
+        "url": "https://files.pythonhosted.org/packages/13/f5/4019d8699b191b1ea34eddfe45804dcdec0e97aa04c7bd9f1bba84c6df07/youtube_dl-2015.02.03.1.tar.gz"
+      },
+      "2015.02.04": {
+        "sha256": "899c0a0f8b9f1f1803db12d6dd2060b93a702c9930dc1a1a82ca9f37cb6b6e93",
+        "url": "https://files.pythonhosted.org/packages/ed/9f/497ffe795bc82b891691732a42fdafb7ae29d647c159b036975a6ef12041/youtube_dl-2015.02.04.tar.gz"
+      },
+      "2015.02.06": {
+        "sha256": "6ccc98c5f4aecb14f3fbdb58d4baaf1095c863161e3f8325621ec820796a8c97",
+        "url": "https://files.pythonhosted.org/packages/7b/00/01b6d01506b4c67f5c5db3210184d045bda9f616246f4eebb3cd7d39231d/youtube_dl-2015.02.06.tar.gz"
+      },
+      "2015.02.09": {
+        "sha256": "ab65cd87a782acf79225be0cc1a4e34b586b1f9f51b7d5bb3a8bef44004f2110",
+        "url": "https://files.pythonhosted.org/packages/46/a8/84745fef4db8e8a97b0301b9cec1190be0774f40815cc86dfcabf14e666e/youtube_dl-2015.02.09.tar.gz"
+      },
+      "2015.02.09.1": {
+        "sha256": "79b65e1261d6a91b31d34820d4da2ba1f6d8180a5f8f3489402d19b975ab8169",
+        "url": "https://files.pythonhosted.org/packages/11/a1/49aa151d7ab048eaee566caf80b72e9d13259e96b1f238fbd9634772281e/youtube_dl-2015.02.09.1.tar.gz"
+      },
+      "2015.02.09.2": {
+        "sha256": "e1e9beb10c445aaaedab24cad8e1fdf6f3a38dbf42dda6cf14276dc4c424b525",
+        "url": "https://files.pythonhosted.org/packages/42/0b/5017baa3752ee8527205d2403b88d8a95ddc0cc64e00a00b48344b9907e7/youtube_dl-2015.02.09.2.tar.gz"
+      },
+      "2015.02.09.3": {
+        "sha256": "cb931b8911a4df538bc1f8c9321a186e44075998d4a9618ee889c9f3cd222731",
+        "url": "https://files.pythonhosted.org/packages/18/04/fff391a81efc3a7dcc8584e2ce76cd549a119c103d06bd23f837cd983cb7/youtube_dl-2015.02.09.3.tar.gz"
+      },
+      "2015.02.10": {
+        "sha256": "f94fe85b964d78046cda89c2685cfe8c1946c4cee4df1b545c7d18cf2fe708fe",
+        "url": "https://files.pythonhosted.org/packages/8e/1e/8e7505c9af1c8040388658bcb209747ca25daf6206adec1cdec6b834dfb2/youtube_dl-2015.02.10.tar.gz"
+      },
+      "2015.02.10.1": {
+        "sha256": "8444d58d39bca7022651942724c6fb37789fbb0e733321b59c4203e055ef249d",
+        "url": "https://files.pythonhosted.org/packages/e0/62/a8739502458e6e6848254c0ade137da6a994991352614a3f070d9f4cf950/youtube_dl-2015.02.10.1.tar.gz"
+      },
+      "2015.02.10.2": {
+        "sha256": "2997b22757b33608589e7bb5ff9fd7a0f26da2280a8a66df98e908b719c45193",
+        "url": "https://files.pythonhosted.org/packages/04/66/e538b3737a6caab1a7ea663b426bb3099d1866a5849e3b7c1bb6f7ab8b11/youtube_dl-2015.02.10.2.tar.gz"
+      },
+      "2015.02.10.3": {
+        "sha256": "c19b109dad27edb281825bbed32862cc90aefb992750d5dffcbefaf94672f260",
+        "url": "https://files.pythonhosted.org/packages/25/45/17018682e91892efe376246b133739abdfbd0f6b2e3aef6b77ab6daac402/youtube_dl-2015.02.10.3.tar.gz"
+      },
+      "2015.02.10.4": {
+        "sha256": "11a84e3d6f7678de910f59f6331264b25a22af4461ae9d0623ef50eb206463e7",
+        "url": "https://files.pythonhosted.org/packages/6a/cb/77f6e78e2c82f19c14a1b4ee5360c4c53287305c6c98903f62d2aa66177b/youtube_dl-2015.02.10.4.tar.gz"
+      },
+      "2015.02.10.5": {
+        "sha256": "590a8082b46b1798165ebe2bf95f2492803739f415f064610b61b235e708f36a",
+        "url": "https://files.pythonhosted.org/packages/e8/e7/e200dd525977fa29fe1a59478e1acd40c7eac5a1e2ee8d0c4d94ec13252b/youtube_dl-2015.02.10.5.tar.gz"
+      },
+      "2015.02.11": {
+        "sha256": "f73d768cf85a6037d1550f624c871f6c37da55a395f69076a106676eb222b44d",
+        "url": "https://files.pythonhosted.org/packages/69/86/22deed8d1fe79e98afe8d8759ef15364c6d6f22f0d6b94887782d77fbe41/youtube_dl-2015.02.11.tar.gz"
+      },
+      "2015.02.16": {
+        "sha256": "38d238c9139a73f9300030963d458f7e6aa580e1fe5426b93c9e76d3b7fd643a",
+        "url": "https://files.pythonhosted.org/packages/83/7e/df7b83954cbdbad8a61ce7bbfffac428882a7808a5a0f72cbf64906d7ede/youtube_dl-2015.02.16.tar.gz"
+      },
+      "2015.02.16.1": {
+        "sha256": "ce3d9d64d33cfd06dfa0fbd70d78b76db15cbf6dd09764eacc7fb639a9bd6ccd",
+        "url": "https://files.pythonhosted.org/packages/78/e8/cb49eb95a288ff51274114a94a5cf9fb8d6b4813b52030f282d10a3fd79b/youtube_dl-2015.02.16.1.tar.gz"
+      },
+      "2015.02.17": {
+        "sha256": "efde0e5634e877d95da926b4bc78e6cd1ed95f50deee969e1c1b11cbafa0dd40",
+        "url": "https://files.pythonhosted.org/packages/b3/3d/cb308fcbfe4c78eb3dd192a59bb486b1fb54a86cc04d42d5be04655f907f/youtube_dl-2015.02.17.tar.gz"
+      },
+      "2015.02.17.2": {
+        "sha256": "4f95b5ed146453b3633d0eb9a27c84d7054d14c547d4f76431ddabe75e270f37",
+        "url": "https://files.pythonhosted.org/packages/a0/67/983faae34d0244396313e7b0a34f999bf90588499628b3479dac017addba/youtube_dl-2015.02.17.2.tar.gz"
+      },
+      "2015.02.18": {
+        "sha256": "9d5c4055058dc5a7dcf619609a72ab6e72951650293099c4738b7818efc4c8a2",
+        "url": "https://files.pythonhosted.org/packages/b3/75/7aadf35dec9d02408f0b73b28b5018681e19670510dc1c1d4dbd5f938ec1/youtube_dl-2015.02.18.tar.gz"
+      },
+      "2015.02.18.1": {
+        "sha256": "b55d824144fb8e74cdcaec7cb9a70a65c8c9a6d3e0b0031a6418fa2005923d90",
+        "url": "https://files.pythonhosted.org/packages/24/b4/2b0bf03ed38a81715c260080c0b8db3258db36c7473e2d688ec097c6612f/youtube_dl-2015.02.18.1.tar.gz"
+      },
+      "2015.02.19": {
+        "sha256": "b68192eb370cad4ec18cd4c25c81bbbf7e20eba50a1f0cd9f1892108d2b2f17b",
+        "url": "https://files.pythonhosted.org/packages/7c/03/16cd0ba1e42b20e10ec2c781b79e06aec2ab790624a1a2eaf8ec18449da1/youtube_dl-2015.02.19.tar.gz"
+      },
+      "2015.02.19.1": {
+        "sha256": "3cb58e7e02ef95a98b864353f98f15c4b4be6abb87fe19ed9a9fb6cc460dbedc",
+        "url": "https://files.pythonhosted.org/packages/32/c1/5664f2fd0d04b61392f677cd9e43f421bb84b6c53e72a923892b56bd9c1a/youtube_dl-2015.02.19.1.tar.gz"
+      },
+      "2015.02.19.2": {
+        "sha256": "64415f3d1c9df84b328b8b9915fb3bf5becf997b7fa67877d766cf1be888874b",
+        "url": "https://files.pythonhosted.org/packages/9a/e7/62504f21cf3f2e166b53df2ec536e1600e722c3fdd8a836b720f2a0f7609/youtube_dl-2015.02.19.2.tar.gz"
+      },
+      "2015.02.19.3": {
+        "sha256": "257bec96079bd6d3bb7291e182d6f4e568e0a332c0f04ff1dfdbcb4e6aaea414",
+        "url": "https://files.pythonhosted.org/packages/01/af/60118c8f9b3962e7986c8bf969d3452b63a2f4cdb92ebc3b00a36d3f5419/youtube_dl-2015.02.19.3.tar.gz"
+      },
+      "2015.02.20": {
+        "sha256": "9461a6dc7d0808ca2d60da222f907924e0c633268a19d1d28b933bf7a72c563b",
+        "url": "https://files.pythonhosted.org/packages/41/d5/36a811a66d2376951e3a80a5b58d5395dcf0197b7c1419972870a1e7ed11/youtube_dl-2015.02.20.tar.gz"
+      },
+      "2015.02.21": {
+        "sha256": "c0248b49951e29fd28433e8c93c4ebbc95c7945da5b8f1492abda8dd40c27e79",
+        "url": "https://files.pythonhosted.org/packages/58/04/73433ea6aa55cc87bd9e28a5c806ffd194f2b4874f1d44cfe052814a4e45/youtube_dl-2015.02.21.tar.gz"
+      },
+      "2015.02.23": {
+        "sha256": "303b20f45e8238d0027d6e610adcda8f479b8b48a84001eda6a897ba8fd36741",
+        "url": "https://files.pythonhosted.org/packages/18/db/5d524dd3f4d382eab8bdd6adcce7b444416eb63285e8f0937af701534f60/youtube_dl-2015.02.23.tar.gz"
+      },
+      "2015.02.23.1": {
+        "sha256": "bf189ad9fc7ad1c32d4ebfc258088f178fc907577ccb8fe84be48defc2982cfd",
+        "url": "https://files.pythonhosted.org/packages/6a/d7/688b50ca882c80f15bae22e4572d5d014c95b3a0b43dff8d648e2823b580/youtube_dl-2015.02.23.1.tar.gz"
+      },
+      "2015.02.24": {
+        "sha256": "d21f75b6285665802b073bd7d45d4afe056b23e47ffaf585d09eb70451f2479f",
+        "url": "https://files.pythonhosted.org/packages/72/20/d193111155138cee6975c4066751cb57f16cb434cdee12b05ae0d517a1ad/youtube_dl-2015.02.24.tar.gz"
+      },
+      "2015.02.24.1": {
+        "sha256": "0055256e40490d4d5352b5b37f5267c0b08a66167cf262c9e71ec1ff56b014c2",
+        "url": "https://files.pythonhosted.org/packages/96/ad/cb51b25eb9f1ffd2fb6057d25a64eedff63af02f3d7fa04db991caa1cb24/youtube_dl-2015.02.24.1.tar.gz"
+      },
+      "2015.02.24.2": {
+        "sha256": "4d907b8939f8d2e1351dded3b1e0ea045acb2cd219124979650315548748a9d7",
+        "url": "https://files.pythonhosted.org/packages/97/a9/4880f1131015e2534aa8314787c2d0bccbc0c3bf7982d552fc57703d4033/youtube_dl-2015.02.24.2.tar.gz"
+      },
+      "2015.02.26": {
+        "sha256": "e0d50a842f03a783b305abc544d980ad9d1eb137ea5b8d7f75467dc3c54528cc",
+        "url": "https://files.pythonhosted.org/packages/88/42/0df15b3f5613cd3380f3f31e8a3182b4eb13430a450c53db21499cea2aff/youtube_dl-2015.02.26.tar.gz"
+      },
+      "2015.02.26.1": {
+        "sha256": "35fb95f57dff63c114a2bbe890d802062640051e685a9cd2113043704b984d49",
+        "url": "https://files.pythonhosted.org/packages/26/56/5d65d47378159d17e4d8eaf563bb3b382a26a6a0c99cfdddd7967123e7af/youtube_dl-2015.02.26.1.tar.gz"
+      },
+      "2015.02.26.2": {
+        "sha256": "2137163d974d74ffa65fbdfe4df3b14632ba9965c81d4ce3e5b80a2a84e6dd40",
+        "url": "https://files.pythonhosted.org/packages/6c/20/b70eb601d38375be05dadad1b83266e34001f50b03b08e7dba1bf721462c/youtube_dl-2015.02.26.2.tar.gz"
+      },
+      "2015.02.28": {
+        "sha256": "db99e50c2e92d6cbad585c89247ce340d5f11c595534be792e8efb924d2a1fbb",
+        "url": "https://files.pythonhosted.org/packages/bb/09/b575c8cdf17ba6c58f919389d830e5cb22fc6fc653a5a8a8af8846eba28a/youtube_dl-2015.02.28.tar.gz"
+      },
+      "2015.03.03": {
+        "sha256": "af9800d10ebb3c2f56f703011d24406fb6d44d16f05e3c0ca089ffc1a03c5adc",
+        "url": "https://files.pythonhosted.org/packages/6d/7e/1a4e4d9abf9579d0827224c769958bd6f0d50ab33be2eab2b11852ba5ba4/youtube_dl-2015.03.03.tar.gz"
+      },
+      "2015.03.03.1": {
+        "sha256": "eb816115c048e1009b321193b8981ae068974ef0b7133537c4091c1229d207f5",
+        "url": "https://files.pythonhosted.org/packages/d0/11/914ec8ee3306406f286d6028b49c5ccdc44636b864605eb51223f44cef6b/youtube_dl-2015.03.03.1.tar.gz"
+      },
+      "2015.03.09": {
+        "sha256": "2e06b256c5db2cf676f4727440a936f203e8d4e3027786151f34d351d15cfeaf",
+        "url": "https://files.pythonhosted.org/packages/49/0d/769e8cc672fb01565649b6b5c959090f7db0512c58823940bfdbd6556be7/youtube_dl-2015.03.09.tar.gz"
+      },
+      "2015.03.15": {
+        "sha256": "3371097aa96f137ba4ce67d7c70bbb60138e87b1cffcfcb21b3ad7b74e163fdc",
+        "url": "https://files.pythonhosted.org/packages/f5/c8/55d063159b0a18af5d2dd40963e701cfd94029bfd606f873ba1d89bcb4a2/youtube_dl-2015.03.15.tar.gz"
+      },
+      "2015.03.18": {
+        "sha256": "ae4365606dac827790a34d10b75da0b26fdaf43047899d68a7205acf2ea54e25",
+        "url": "https://files.pythonhosted.org/packages/6d/00/c9121b09b1180d2242e20f09f35c53269e0585d8f187d9846b4faade8199/youtube_dl-2015.03.18.tar.gz"
+      },
+      "2015.03.24": {
+        "sha256": "00b87dcf736c52c5b1fd13ab68ae8f19a6c627d3bb76f2c4cf4abfdd2a9f45ab",
+        "url": "https://files.pythonhosted.org/packages/94/da/eedf614cb5c77d9dd4d840d53d013cb49a01e2da06cc48498fc108a3354d/youtube_dl-2015.03.24.tar.gz"
+      },
+      "2015.03.28": {
+        "sha256": "50fa777d39d4d9ea2ee98be5beadc7ab28fbd0e0aa6e4857e6ca62b5fb1ad637",
+        "url": "https://files.pythonhosted.org/packages/29/78/f7cc6412889ee87f9fb7854dd6c92d82f45b4af98aa72842261cfa9e5221/youtube_dl-2015.03.28.tar.gz"
+      },
+      "2015.04.03": {
+        "sha256": "da62f646117a3ea1c40044b77979803599438986096c56c6eb3ec049221560e5",
+        "url": "https://files.pythonhosted.org/packages/39/18/4c6925b1c403ed1d2c3d96615636f1a3bc77d63027b5379f5fb5baa52a98/youtube_dl-2015.04.03.tar.gz"
+      },
+      "2015.04.09": {
+        "sha256": "785c78ea35448aed247bbaa26c92ce4aa19f7541f7ea9282cdc72aced2630f51",
+        "url": "https://files.pythonhosted.org/packages/55/ed/c8efcc79d6c0f27402ec692890b90d803db8bd131392f7478a6b2910e13a/youtube_dl-2015.04.09.tar.gz"
+      },
+      "2015.04.17": {
+        "sha256": "635cd0d123e8b86fdb6da9840f9d41dc2171b7bfd0ccfd7bae5dadc8bfb99fef",
+        "url": "https://files.pythonhosted.org/packages/39/15/d7916bbe69c2e65b672a42dc4cffd3dfd5130e145b3f1cc29d49f8626110/youtube_dl-2015.04.17.tar.gz"
+      },
+      "2015.04.26": {
+        "sha256": "09ba1ecae70b23a2ef97ff5aad282343a7a5b1c541b1084d9a4cd4559c9cf60b",
+        "url": "https://files.pythonhosted.org/packages/74/88/f9e26da359c1f7b8f728216cb202897df4cd2ed55398ce6021c97d733092/youtube_dl-2015.04.26.tar.gz"
+      },
+      "2015.05.03": {
+        "sha256": "36e96f0e7a15be9172ba63373ee03a8ea0792711730307d209cf09eeb40fba65",
+        "url": "https://files.pythonhosted.org/packages/de/31/d6d386fc18704174f66f15f660c2c0b483a3cd713f337a3297f615576949/youtube_dl-2015.05.03.tar.gz"
+      },
+      "2015.05.04": {
+        "sha256": "8e51f8852ab1eddd2b6e0a965a6cce6d3a74e8f9c0fd2b4240db718b75eaa1b3",
+        "url": "https://files.pythonhosted.org/packages/ad/be/a940fb644cd47cc6bb47a3b19821c8ccdf16f42805c37f637c19fe9fbeb6/youtube_dl-2015.05.04.tar.gz"
+      },
+      "2015.05.10": {
+        "sha256": "c25b5a3d2a3e3b1d0c192231848c9075cf016cb5c6b2fee701e7766c274c6c05",
+        "url": "https://files.pythonhosted.org/packages/cc/cf/9dc94cada0ee7184109cb2c93440301540f1357c373f05b8aafb3ff7f9b9/youtube_dl-2015.05.10.tar.gz"
+      },
+      "2015.05.15": {
+        "sha256": "da108582a9a68646a142bec5466f7bbac43f857efb04967d79a8704f6dde8ba5",
+        "url": "https://files.pythonhosted.org/packages/40/95/a92cb2990a04e33c02daec77274ea19768f543e1e399ee2f55a48e4fe45e/youtube_dl-2015.05.15.tar.gz"
+      },
+      "2015.05.20": {
+        "sha256": "5addda59f6a97cd5f8a8a3db7aef218d73da6d6d141aa21d3710c2ce5c1831ef",
+        "url": "https://files.pythonhosted.org/packages/5e/62/a502e2933072ad3b0305a302b7674ab6b0f3ae379de3cd66ebee980e15b9/youtube_dl-2015.05.20.tar.gz"
+      },
+      "2015.06.15": {
+        "sha256": "546b18a80e547afd29787cf762852f9e95ed715b58e8aeb7424882a89892ebe3",
+        "url": "https://files.pythonhosted.org/packages/ea/3c/85af9df80e0aadabe027a0385d7edeb0f7b852343c5616f9858f3c945b59/youtube_dl-2015.06.15.tar.gz"
+      },
+      "2015.06.25": {
+        "sha256": "231d9c87673f75f432299b87ffaef7e0f76741c22050d5715e8aecfe03598369",
+        "url": "https://files.pythonhosted.org/packages/7d/24/86c18834246389e85af33d91e0725a0e1b91f458b0e34b42273551256748/youtube_dl-2015.06.25.tar.gz"
+      },
+      "2015.07.04": {
+        "sha256": "63f4df9b0132286821ef4ad6f7b2f0c101ba39f41c33e673309a7464bbb04e48",
+        "url": "https://files.pythonhosted.org/packages/e1/be/72b63885d1084740a8f991b078bf8099f6f1592c57a719b33394f6519383/youtube_dl-2015.07.04.tar.gz"
+      },
+      "2015.07.07": {
+        "sha256": "1060a3bcf2cdf8297d217ea20fb1fea254a69e8fd1965d50b7ada7c751ab189d",
+        "url": "https://files.pythonhosted.org/packages/7b/18/9830019214ef373db89adba8437b3ffeb741ee3ad98dbc57d6b8cd5bb07e/youtube_dl-2015.07.07.tar.gz"
+      },
+      "2015.07.18": {
+        "sha256": "ea200a053bcc3df27390300f1e8e8fbc0a4daf5aad1cfffe0aab656222393246",
+        "url": "https://files.pythonhosted.org/packages/20/03/c3bc7103cc4e8e29b8d2d2eeb8ed37e07be57ec1efa1018b92acfc8cbc4d/youtube_dl-2015.07.18.tar.gz"
+      },
+      "2015.07.21": {
+        "sha256": "09bf8b1074deaa967b586c45dcc026d059731ea0c030db8850d8300ec39234c7",
+        "url": "https://files.pythonhosted.org/packages/ae/47/afb9639b686292c8641f047ebc91d607c2162c845b8da93c4f602c61ae2d/youtube_dl-2015.07.21.tar.gz"
+      },
+      "2015.07.28": {
+        "sha256": "a7f46fb2b78c75fbbeec8392aaca4f69640c3a23207c1fe295cb541495befad5",
+        "url": "https://files.pythonhosted.org/packages/78/95/af93730c70cbbe405951bce6f376306085b718a4eeb9f651b77effce7d1b/youtube_dl-2015.07.28.tar.gz"
+      },
+      "2015.08.06.1": {
+        "sha256": "9317c029089eb0e95b97d64e4f9a73196884fbe452f268c860e71bb3b08ea40b",
+        "url": "https://files.pythonhosted.org/packages/22/6e/d25be040ce57bf7b4b9bd1eeab0fae6a1ce9151c398225dd1ce833296db6/youtube_dl-2015.08.06.1.tar.gz"
+      },
+      "2015.08.09": {
+        "sha256": "25fc82aba07826ae0919a1f8fdf1c8a91e29315aab29c279c6853269708d6f4b",
+        "url": "https://files.pythonhosted.org/packages/17/56/225ab8aceb122a00cab06b068c4b070c6d20713a363723b034c8a27c04c6/youtube_dl-2015.08.09.tar.gz"
+      },
+      "2015.08.16": {
+        "sha256": "d27c4a7f34941c0b779a4c5e362f3f14c8c0798f1934410d41fec19b9e180ba3",
+        "url": "https://files.pythonhosted.org/packages/0e/ea/50aa0a512622a5fcc02ed130b9ca46b7d63130cfe5511670cde6c9db91c6/youtube_dl-2015.08.16.tar.gz"
+      },
+      "2015.08.16.1": {
+        "sha256": "c76c5b9a8cb1b6fb0f86c41a00845cdcd63afebe6187b743525b86a148e5e7d2",
+        "url": "https://files.pythonhosted.org/packages/31/28/733ace75b8a2984770323ed4e610b82f56760bd9b10aa182c97f2d690469/youtube_dl-2015.08.16.1.tar.gz"
+      },
+      "2015.08.23": {
+        "sha256": "2ecc3d8ad8dbd40aaedd6db9fe6a02e396624baecbd50c45dce5c85a07462e25",
+        "url": "https://files.pythonhosted.org/packages/14/9e/3481b2f26796678524024f5cbc62ac7618b50f22e483008b5af575e83045/youtube_dl-2015.08.23.tar.gz"
+      },
+      "2015.08.28": {
+        "sha256": "afe8c3ce9da6b698e3f823baaab1ee63cbc367c237d02bd6d64e22c343bbae58",
+        "url": "https://files.pythonhosted.org/packages/ed/f4/9ef5bb10f802867c32d5ca5630f58680d3314d3d3c18139c1b47f81a68d3/youtube_dl-2015.08.28.tar.gz"
+      },
+      "2015.09.03": {
+        "sha256": "999e903689effafa5cb254e5ca2c580f19eeba0f7a80556249137380317498b8",
+        "url": "https://files.pythonhosted.org/packages/fd/2d/06477d5ef232b32357121a7b0fe95ac6981df85381a404ec913bd40f7e43/youtube_dl-2015.09.03.tar.gz"
+      },
+      "2015.09.09": {
+        "sha256": "1b6b8c1748f295c8b1059db5d2b324a528929e86ef69618dea0cfd0b06bba8f0",
+        "url": "https://files.pythonhosted.org/packages/48/30/665254a360863efae048b5a6cba7b1a5704034963e0a0c057632be727f10/youtube_dl-2015.09.09.tar.gz"
+      },
+      "2015.09.22": {
+        "sha256": "20b05704d3d56db4a84b4b3cd4a11f8c58993ee00e3eeb3da708ed3eb2c10b02",
+        "url": "https://files.pythonhosted.org/packages/74/e7/406689a054c1523360d49d40d380fc754f9aaa34b164c042c1f7171e31ff/youtube_dl-2015.09.22.tar.gz"
+      },
+      "2015.09.28": {
+        "sha256": "aa78228c4801b5929c00a20207082b21ad360dd5f3aaf787877bc56690398e2b",
+        "url": "https://files.pythonhosted.org/packages/de/45/ef50bb1ff709d6875e91b2eb96943576a92cac2828b3fab6c96c43399f9f/youtube_dl-2015.09.28.tar.gz"
+      },
+      "2015.10.06": {
+        "sha256": "6a9a713e986b62bf590c45a7555a04cdee00346c5a9c076b1da2af51e7776b07",
+        "url": "https://files.pythonhosted.org/packages/bb/29/1c78ba5a3eb386b8b6de48f4270ff4e73a2629a346529cc4fcd0460bf529/youtube_dl-2015.10.06.tar.gz"
+      },
+      "2015.10.06.1": {
+        "sha256": "c6cd1bb5985aafffcb0967927532d197ad92d7be646d9bd558996775d1ac0bff",
+        "url": "https://files.pythonhosted.org/packages/1f/29/24809de58fbd1d52cc1616b58c438d25e9a445f49b5c6c2ee3fa5cc6ac8b/youtube_dl-2015.10.06.1.tar.gz"
+      },
+      "2015.10.06.2": {
+        "sha256": "02410d9b4885c612dfff40d7fe6a6277de13773595569b395462e84e336f9d2b",
+        "url": "https://files.pythonhosted.org/packages/bd/6f/c94e43d4eb0c7a16a0d3ece8df2bc3b1c2a89e1996e779cf95925524d45a/youtube_dl-2015.10.06.2.tar.gz"
+      },
+      "2015.10.09": {
+        "sha256": "1d229632b5d210fb6e0069940859a0afd0c6b171c99e0ff89c4a79ef5256c462",
+        "url": "https://files.pythonhosted.org/packages/77/80/f5c5fb69e6e5b5cfdcec8d910e7923ddda4d377c3521dfe05e7477fd61ef/youtube_dl-2015.10.09.tar.gz"
+      },
+      "2015.10.12": {
+        "sha256": "74c71e95990fee408ce6b583a9077cadc768f63d41b6a5df8376fb2f1f7b51fb",
+        "url": "https://files.pythonhosted.org/packages/96/8d/560931a09b3cf6803b13eb5d6b3af956cf007edae5517e08a7b39c864b5d/youtube_dl-2015.10.12.tar.gz"
+      },
+      "2015.10.13": {
+        "sha256": "bafbeaee0f81df6e12c7b540b338645fef64a95654aedf0fe20f721f69b106f3",
+        "url": "https://files.pythonhosted.org/packages/b3/17/833e0df73abc1f9a33c75471ebb30d12ba5237f4f45fbe2a4604d22223b3/youtube_dl-2015.10.13.tar.gz"
+      },
+      "2015.10.16": {
+        "sha256": "481b5c5cd772d392c32bbe719242777930f219488ee09229ba27c1d0ff9fdc3f",
+        "url": "https://files.pythonhosted.org/packages/1e/10/9c23ddc7786084d5bf66e2174369e6f17da5d5caafcdd3090bdc12511f3e/youtube_dl-2015.10.16.tar.gz"
+      },
+      "2015.10.18": {
+        "sha256": "ffc20d137574b49f521fd3fee6252e1c69f6cd243d08bc0d5b9c8f0547692e19",
+        "url": "https://files.pythonhosted.org/packages/ca/b9/eb54d46f0dd80762c58a31dda36867c5be3173ddcb0ff55cb90c99b442bc/youtube_dl-2015.10.18.tar.gz"
+      },
+      "2015.10.23": {
+        "sha256": "ab14429126f7feefd3861455583c1da283f083b4cd6af8eedd7c5ad1d63903a7",
+        "url": "https://files.pythonhosted.org/packages/a5/75/a3229a26eeec553f8b163bc5ea84c020396e6992fe83f47cccb48582c100/youtube_dl-2015.10.23.tar.gz"
+      },
+      "2015.10.24": {
+        "sha256": "7bb9c3b136d15a168a3c16047f9c2c8343dae002ff124e40c9baac4a3aca9d4b",
+        "url": "https://files.pythonhosted.org/packages/79/e2/14718c68ad303bd0cc2aa2ec2f5e565148932a36696e01d71b7e110d8c64/youtube_dl-2015.10.24.tar.gz"
+      },
+      "2015.11.01": {
+        "sha256": "ff8620e4173fddcaaf685c04dc741bcd16eda3a17a1dd34b7f9bce72e8f36eed",
+        "url": "https://files.pythonhosted.org/packages/9a/db/0776cbe6d73b5b70e4d4fbe416240492ccc9e173c6db80fd523a5d9fdeb6/youtube_dl-2015.11.01.tar.gz"
+      },
+      "2015.11.02": {
+        "sha256": "3b5c47e39ba5a26ab91f238aa273eaf95ddd1d87d3564e61e8e761d68c739d00",
+        "url": "https://files.pythonhosted.org/packages/28/0b/0f5a99badb0fb14377c4917ced9f7debf84acd4cae694809a567e4ec91ed/youtube_dl-2015.11.02.tar.gz"
+      },
+      "2015.11.10": {
+        "sha256": "9ee51135e654119ce8333d27f92e49163315bf63d66bb94de5130191f8601233",
+        "url": "https://files.pythonhosted.org/packages/5b/6d/c6d8c4651f0d2a428131ebaf137a4a1db35e03e2660053a73f43543b2d1e/youtube_dl-2015.11.10.tar.gz"
+      },
+      "2015.11.13": {
+        "sha256": "fe1fb4a4ace5e13605ec268834c36ec4ee7425060eeda74d58780d28c46ef7f3",
+        "url": "https://files.pythonhosted.org/packages/ae/b5/98e3930478ba02f29d750ff5092960d310e7ee97fb5102224201c27933e1/youtube_dl-2015.11.13.tar.gz"
+      },
+      "2015.11.15": {
+        "sha256": "16827d35d858372e68a43a2e4e85c5c67eb23cb603d18d3c9933ae1f5732b005",
+        "url": "https://files.pythonhosted.org/packages/81/34/6d6d38f0c14249a162f254f79eec48ddffca05a646a3eec519bc686c2662/youtube_dl-2015.11.15.tar.gz"
+      },
+      "2015.11.18": {
+        "sha256": "713311e8af8cad9a585a3714f2314a82e31eb147e8018698bfb113ba4ffe649d",
+        "url": "https://files.pythonhosted.org/packages/18/1f/34a87b66a6c3ad3039edbf91f90de92046c0a3a859fd13d65629b2426ba1/youtube_dl-2015.11.18.tar.gz"
+      },
+      "2015.11.19": {
+        "sha256": "7b3bc7c92f8e146bfb9001d1b3da1e954bb8d18b5dc76fd3e47192b25d54cb7c",
+        "url": "https://files.pythonhosted.org/packages/b8/c0/04a75d715b7eda7894bc2e02f65d7e967d9493542bf0dd877539e52be4c6/youtube_dl-2015.11.19.tar.gz"
+      },
+      "2015.11.21": {
+        "sha256": "e597237ea7c62260ab01ea6b6f6d79d4fe22c2ceb98b060e5ab4b2c78b20d8f8",
+        "url": "https://files.pythonhosted.org/packages/32/3c/531721dabe17b3787ea51821120fca210a1aeee18bc9d95bdc3e76b2c90f/youtube_dl-2015.11.21.tar.gz"
+      },
+      "2015.11.23": {
+        "sha256": "59ed41aa99c58048a1a193239b41603680c6b3dbd4a3c01d259791bdd457465e",
+        "url": "https://files.pythonhosted.org/packages/c6/6b/e5e82603900eafd80dd62e9edb433695571717f3b89caa0bf09a8e82ee8d/youtube_dl-2015.11.23.tar.gz"
+      },
+      "2015.11.24": {
+        "sha256": "94aadace15babe626185c2d24670bf2b5ac995367e5427018c4dce5e7fa9d614",
+        "url": "https://files.pythonhosted.org/packages/b5/4a/0500b76726cec12512ca56ccb17ab423f345d102af137e820fe949f5b6ee/youtube_dl-2015.11.24.tar.gz"
+      },
+      "2015.11.27.1": {
+        "sha256": "5829e9a2703e1505d106306fb880114591ed182a06f967e0c4d3fcb865509217",
+        "url": "https://files.pythonhosted.org/packages/56/a4/6c816e090366394efaca634e8610b9da3edc17091d01028a48ebe61081ed/youtube_dl-2015.11.27.1.tar.gz"
+      },
+      "2015.12.05": {
+        "sha256": "fe638a3e993becafdad3fde226b7608560aca536cc044e95628f1093abc11af8",
+        "url": "https://files.pythonhosted.org/packages/03/cc/939127768b0ba1fc0ec4b89bd4b13f0379927c5bcfed8925ff1326d89b0f/youtube_dl-2015.12.05.tar.gz"
+      },
+      "2015.12.06": {
+        "sha256": "ffe96515609953eab2c1f48aa7feb45a939ea7096b8c79991f021d291bbba907",
+        "url": "https://files.pythonhosted.org/packages/e2/33/450c15de752230310dea033cd080b70d8a8e90d38b5ff725441cdd0bdc7a/youtube_dl-2015.12.06.tar.gz"
+      },
+      "2015.12.09": {
+        "sha256": "fadc42d7d0a51ce34886d7299ee9adec567921ba01d78cf90dcf042e453362fc",
+        "url": "https://files.pythonhosted.org/packages/00/82/294c1929ab9b85473a4d34228accf4caf15410c3a383da962ba60e42df68/youtube_dl-2015.12.09.tar.gz"
+      },
+      "2015.12.10": {
+        "sha256": "a5e0996c9976ed7ae117c69ec157cf92e1626030a4a0fe757109769f73ac230b",
+        "url": "https://files.pythonhosted.org/packages/26/c6/71cc498e615fcd9310a76500ba4f7b5f7fe997cd4d29063588744d2f0bbc/youtube_dl-2015.12.10.tar.gz"
+      },
+      "2015.12.13": {
+        "sha256": "d7f64e55255e6b1fd561342508a8e59d2d2c66a87d12a4464bda49438c890125",
+        "url": "https://files.pythonhosted.org/packages/be/3f/f9a57b631c8456557237b199bf8c74090396cab995958450cfdf67853a29/youtube_dl-2015.12.13.tar.gz"
+      },
+      "2015.12.18": {
+        "sha256": "dec0afe5c4046d48e6e6dc8555d0e3674ebb86a003da52ab8047f248696ae81d",
+        "url": "https://files.pythonhosted.org/packages/b9/41/69a62e1fc2b8e150260214cd1036a29a7c2cfdb31a3058eac9e8f4ec39ae/youtube_dl-2015.12.18.tar.gz"
+      },
+      "2015.12.21": {
+        "sha256": "6836da735b109f2e244d42fb6a1ac30a4b655107d30a3a951bd63a6673e16944",
+        "url": "https://files.pythonhosted.org/packages/33/3f/74e82de0f4979beb5f44477b9f5b638618a47784b8e3cff92ab0d6205107/youtube_dl-2015.12.21.tar.gz"
+      },
+      "2015.12.23": {
+        "sha256": "5d5e6945658e3f7b8ce78e42f4d9fd7559c3863e4000c06b180059f0c2edf2b7",
+        "url": "https://files.pythonhosted.org/packages/f3/08/7a72cb3476486d937fd714f8f5e013daa32890cc90907fe0af49136c7571/youtube_dl-2015.12.23.tar.gz"
+      },
+      "2015.12.29": {
+        "sha256": "0df5f92ca7ecb3e8fedf5fbf767e9d47dcb59bb0dffa224b99f4be68c6c86191",
+        "url": "https://files.pythonhosted.org/packages/29/57/c131bacecb82b3ab127d02597cc0f1a7508e2760eaefab0158be0acb9d46/youtube_dl-2015.12.29.tar.gz"
+      },
+      "2015.12.31": {
+        "sha256": "5dece4761e6b75c2f1ef389b9079645a60b3a15e4b5164a9482655036fb6ab03",
+        "url": "https://files.pythonhosted.org/packages/56/b1/a679653a514b4110059d4106db278bc500376b59870992c4078638d2c311/youtube_dl-2015.12.31.tar.gz"
+      },
+      "2016.01.01": {
+        "sha256": "70ae6ebc7ac0098f1f410a4f877eafbd5578f19790b2443c80c031ba1d8b06b0",
+        "url": "https://files.pythonhosted.org/packages/00/64/31aea43bedfc6fed895f16e02770823454d8d98145fd48bab5a5409d9af6/youtube_dl-2016.01.01.tar.gz"
+      },
+      "2016.01.09": {
+        "sha256": "4dc01f810116898e0520803703fe1d2a4243c9cc893fa1c7218e9441be748a4c",
+        "url": "https://files.pythonhosted.org/packages/85/45/17ec2262f31afc2928880faadf5502611a1c9a626532be3a2301bf1054e3/youtube_dl-2016.01.09.tar.gz"
+      },
+      "2016.01.14": {
+        "sha256": "09e9b55e13dfb6e570dd0064de0717128e491aa4ae83541b7ffc9c07465cb90f",
+        "url": "https://files.pythonhosted.org/packages/fe/a3/b32cc9115f17801e301a1117960da102ae7de089c8866bf1cb648b079e67/youtube_dl-2016.01.14.tar.gz"
+      },
+      "2016.01.15": {
+        "sha256": "11e19c4e0e3579d8db8101c84bd64b2173106759df71160fb70a2e07e18b13ae",
+        "url": "https://files.pythonhosted.org/packages/df/d1/de2e9de9dd2c525160790ffb1b3b4a15c546f7b74241af2de4ecc5f22d43/youtube_dl-2016.01.15.tar.gz"
+      },
+      "2016.01.23": {
+        "sha256": "bcce335b985315577f39f07952ef603c780830f68cb64cac46d9f799983f45e8",
+        "url": "https://files.pythonhosted.org/packages/6c/72/e4fb8b472b8008a3aa80b3d60942f028b0023d7dc29c10575b043b0933db/youtube_dl-2016.01.23.tar.gz"
+      },
+      "2016.01.27": {
+        "sha256": "5bf6f43907bace150c46b265bbc5fc1faf0c445c32f18cd8289ce4dcc7d86363",
+        "url": "https://files.pythonhosted.org/packages/53/c9/bb4a1ee838d9bfa91930625e8ad1900d2280c9d66ac29853d762e54c7d69/youtube_dl-2016.01.27.tar.gz"
+      },
+      "2016.01.29": {
+        "sha256": "f20aec45430f0d55e2b5fdef4d4644475f2b3e44d5d8fd6bb4b6391c9ab88a49",
+        "url": "https://files.pythonhosted.org/packages/45/6a/d1bf817784f4611c71daacd0273e8cb148bf1124079e8d3ec5f6f9b3df6c/youtube_dl-2016.01.29.tar.gz"
+      },
+      "2016.01.31": {
+        "sha256": "267e7d4a49380ff232e7275d6f731563b50cc81b1b1a03f8756d7a6c74a3968c",
+        "url": "https://files.pythonhosted.org/packages/fc/be/c36d3bccf8ccbc70af30189e288491c9ca6228ed9a87d721abb01edd3681/youtube_dl-2016.01.31.tar.gz"
+      },
+      "2016.02.01": {
+        "sha256": "073faf4037ae35d38267e633331c1dd6f66565ed0565ddc79957d95914b52089",
+        "url": "https://files.pythonhosted.org/packages/8e/86/985b05e10832c1b54515e9cf259c0498270d0e377870774b504337c98383/youtube_dl-2016.02.01.tar.gz"
+      },
+      "2016.02.04": {
+        "sha256": "77c1e90637e797608e3386902a6bf4cdfcfa1cc363423e900c4c9d58fe68c1cd",
+        "url": "https://files.pythonhosted.org/packages/be/66/ee095e4fd62c944c6685f16dc0ae426738b5a8a67c4996eb13b3826a6bcd/youtube_dl-2016.02.04.tar.gz"
+      },
+      "2016.02.05": {
+        "sha256": "57a91dd75a7e8377b19bb8cb9eb4d03fc89991ade775015e0f1856514e3201bf",
+        "url": "https://files.pythonhosted.org/packages/5a/b0/771743b7e46dc43aa4dd33d48b90b3f434ddea36de748e58e5cdaf01b6cb/youtube_dl-2016.02.05.tar.gz"
+      },
+      "2016.02.05.1": {
+        "sha256": "5ed8cf8e090771d547589bb56bf763d6fccc51b2137f568beda844ca0af0f695",
+        "url": "https://files.pythonhosted.org/packages/d6/0f/4403203bc51dbc900e8dedd206270069e0dfffa4e2544172d2ba1ceffa83/youtube_dl-2016.02.05.1.tar.gz"
+      },
+      "2016.02.09": {
+        "sha256": "5ec30ff589fcc1509b14375915404efe562cb83537cdf9e732720d499367165c",
+        "url": "https://files.pythonhosted.org/packages/ec/3f/b8dffb05482873b16b2fbe1e0f42cf04267e75c0024f4f911022e0b50a21/youtube_dl-2016.02.09.tar.gz"
+      },
+      "2016.02.09.1": {
+        "sha256": "8591bd1bab9421c51247e7a0cdfbdb14b2a8e0451475b7d5da0d7689d7259eab",
+        "url": "https://files.pythonhosted.org/packages/a4/86/1fbfad54027440c7a015d167049490ac10e082b6d28a0515522d01a56529/youtube_dl-2016.02.09.1.tar.gz"
+      },
+      "2016.02.10": {
+        "sha256": "7c2a4f00a79d2d2c6f57541c6a950ca7f9eff35b6cd8b3faceb9a10718eef161",
+        "url": "https://files.pythonhosted.org/packages/a8/46/97f1b079877d95d4ef68bcb3785cd3eca37f5f19b4049c568e087ad43cdf/youtube_dl-2016.02.10.tar.gz"
+      },
+      "2016.02.13": {
+        "sha256": "99800753c447a941846a411bfc7245eed795f96b8facc0f84182ce477b1a5ae8",
+        "url": "https://files.pythonhosted.org/packages/4a/64/3f63baa7561f2eb217b45bc3dc5da6d9b3bc7939a2429436afbbef3ce2f5/youtube_dl-2016.02.13.tar.gz"
+      },
+      "2016.02.22": {
+        "sha256": "932118b7439e9b23a6f96425f35bf78a6e3260e91b009c3d338641a4d7335722",
+        "url": "https://files.pythonhosted.org/packages/45/24/40a7c8f90c02e891e844b0e2d0183e1a834a7f5eb8850df40a2e9844a37a/youtube_dl-2016.02.22.tar.gz"
+      },
+      "2016.02.27": {
+        "sha256": "a23407d6156427d8688a57552691c1487b4a1ee03bb2169beb3afc6c4d5f25d3",
+        "url": "https://files.pythonhosted.org/packages/ea/38/96e1690dc308f7283745ff71f8171bb5146a346e383086675d2261bd77e7/youtube_dl-2016.02.27.tar.gz"
+      },
+      "2016.03.01": {
+        "sha256": "6bff19935393db2bcc785844d46a1de7859e24b4ef93cad77f8c92dad9a98c42",
+        "url": "https://files.pythonhosted.org/packages/07/a9/eda202a2a2534a7d7b07d426ccd5b0dc5a8c404cb631858e0f939169ce58/youtube_dl-2016.03.01.tar.gz"
+      },
+      "2016.03.06": {
+        "sha256": "0232109ceb2713e27855833ebf8967582a2d0308ac3c14f5bd2d7dbc29fe9a67",
+        "url": "https://files.pythonhosted.org/packages/59/82/74c2e6edd8196a594e90bbfd51bafd9a1b1bdeb59409a6eee2c53c9be1ad/youtube_dl-2016.03.06.tar.gz"
+      },
+      "2016.03.14": {
+        "sha256": "f10d06ac0e73cd20cd9ae74305f68e9bc0f9155dee4fe647cc2abe6ee7422949",
+        "url": "https://files.pythonhosted.org/packages/7f/9a/1c5f87baf14f9e48ca47b636351bdf3daf59abed3773754f68b58bc53740/youtube_dl-2016.03.14.tar.gz"
+      },
+      "2016.03.18": {
+        "sha256": "d847463d9c8b834af7d95bb4a52ad89bcdca6695fa3d185fa33c1e7890b32d67",
+        "url": "https://files.pythonhosted.org/packages/9d/fe/df95428086650d5b962d990a03be7a221b55154c5c296699b3ec130cb7f0/youtube_dl-2016.03.18.tar.gz"
+      },
+      "2016.03.25": {
+        "sha256": "2fcf23115db5db74e5b95bc89bf79233e1011631e18c303de0b123f0273d70d6",
+        "url": "https://files.pythonhosted.org/packages/ad/cf/e8ee1cccbfc6adde2497a2258a32a63d0358602cc344dad0a2a3a7959d2e/youtube_dl-2016.03.25.tar.gz"
+      },
+      "2016.03.26": {
+        "sha256": "dc272daa9ac7e3915376ab1b65868a615cefe5f67e248a620e61a588e950d860",
+        "url": "https://files.pythonhosted.org/packages/fd/fc/ae975f8aeffb4aa948f9234c80f74ad48f4a639015dbaf6423eec76fe9af/youtube_dl-2016.03.26.tar.gz"
+      },
+      "2016.03.27": {
+        "sha256": "b1b467b15634568bf26362fd82ea7c763fc23fc9e1f45afbc0f3e4f0030b4d34",
+        "url": "https://files.pythonhosted.org/packages/f9/2d/5ff2b7bbf4c4d019ebde3b317d7f1ca14c73021927da8d788012e57b071d/youtube_dl-2016.03.27.tar.gz"
+      },
+      "2016.04.01": {
+        "sha256": "742c3c8786b28657cf7e761e72369e7986eeb73295d8b4104dc665091d2bc015",
+        "url": "https://files.pythonhosted.org/packages/ee/bc/1c3d01b3599c94d8c5654cc24380d317da5095259ad50e3dc998699d8940/youtube_dl-2016.04.01.tar.gz"
+      },
+      "2016.04.05": {
+        "sha256": "e6cb7eb25346ba43d5952db7414a449d3a2c15fd47d8a17627ac90820891f3ee",
+        "url": "https://files.pythonhosted.org/packages/8f/5f/3939fb372e1171ad5ae0298155ffde0837e528e08159f8071150a001f37d/youtube_dl-2016.04.05.tar.gz"
+      },
+      "2016.04.06": {
+        "sha256": "6282ca263d9649a37be83e41080f4595cab099e6726b8c4f116fa02dc6dec6f3",
+        "url": "https://files.pythonhosted.org/packages/8e/3e/5b41f16c7348865727715855b15d947c535ca412cd68fe64f6257b291c08/youtube_dl-2016.04.06.tar.gz"
+      },
+      "2016.04.13": {
+        "sha256": "d68d06a43981a277a74a9dce70c474ce74f07edaeea333aa0f2166cd530d390f",
+        "url": "https://files.pythonhosted.org/packages/df/b1/e3249a1f53395f10da34d5e2f8f6021e3a0887f9eb207f461e35d754e6d2/youtube_dl-2016.04.13.tar.gz"
+      },
+      "2016.04.19": {
+        "sha256": "ada82928a2d12f8c15327e070d8f8cce87a668e03869a8cc9661a4d5b6aedda9",
+        "url": "https://files.pythonhosted.org/packages/fa/4d/1864f792a46e10a8c156ff61f136a6642cf73381422c901c0e863b350f23/youtube_dl-2016.04.19.tar.gz"
+      },
+      "2016.04.24": {
+        "sha256": "bc8a1e3b372b4be2ee807044f162f141ae5a1999a179f2f32d50b8294d7b5f90",
+        "url": "https://files.pythonhosted.org/packages/75/63/39cadda092c8ae65bbdd902e3f82eb2a5ae3ab980b5bae3602768983cb57/youtube_dl-2016.04.24.tar.gz"
+      },
+      "2016.05.01": {
+        "sha256": "65ef68c18198d7fd9bff0d891baf9677223a8b076f718daa775a0e0a7f00c4c1",
+        "url": "https://files.pythonhosted.org/packages/56/af/fa100b8866a21ae3b1a12c711c682cd41b00b1ef335ff127259ecc87a70d/youtube_dl-2016.05.01.tar.gz"
+      },
+      "2016.05.10": {
+        "sha256": "8297c952604b3af298ceaad9151fdb07a5a3b3adde1222c68a5d8609e7e4e1a2",
+        "url": "https://files.pythonhosted.org/packages/4b/4b/d4be1411c94003c100f8a44281e031600984f99f7cb55ddf2f1839440d09/youtube_dl-2016.05.10.tar.gz"
+      },
+      "2016.05.16": {
+        "sha256": "e0ce39b9d993ad0e00bcf4154e64da4ce318749fb2c9441ced9b82e3c6141e5d",
+        "url": "https://files.pythonhosted.org/packages/9f/7e/5bdbcc0401e1e477cab5de3a77925b84dd6764cdc53d1dca20fee80831c7/youtube_dl-2016.05.16.tar.gz"
+      },
+      "2016.5.21.2": {
+        "sha256": "bffe6be6ef519fca18698bfd3615e90e69f47f02a585ea6382341c604c986c7e",
+        "url": "https://files.pythonhosted.org/packages/6d/bf/1d9e2ae35cb33d55c80b56859c11b4d3fe02c142241e7e6adcf6d50478f5/youtube_dl-2016.5.21.2.tar.gz"
+      },
+      "2016.5.30.2": {
+        "sha256": "199a93169b7e0ce31593e273aa4d4c69f7acf732acaac619274925e471373736",
+        "url": "https://files.pythonhosted.org/packages/b8/25/4605bf89cd4cb85aad759e2f00c50b79d942dd3a9ca95b0b5bf9074e14cd/youtube_dl-2016.5.30.2.tar.gz"
+      },
+      "2016.6.3": {
+        "sha256": "3c5e7b36362e06905d991c91e794aad4f411d2bcd4a96fe6430a5546fe5cb805",
+        "url": "https://files.pythonhosted.org/packages/dc/e3/aa2c4b8490b7905e03012c3948d47560d9081fbc00421b7676c85c0dc359/youtube_dl-2016.6.3.tar.gz"
+      }
+    }
+  ]
+}

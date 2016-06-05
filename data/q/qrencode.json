@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.01"
+  ],
+  "meta": {
+    "description": "Encodes QR-codes",
+    "homepage": "http://github.com/Arachnid/pyqrencode/tree/master",
+    "license": "http://www.apache.org/licenses/LICENSE-2.0"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "88a564fbd7f33ecbb1d2a3806ee460ba093a3cab204cfba4c2702fcc58ae9115",
+        "url": "https://files.pythonhosted.org/packages/cc/20/05f1dae412d28e070b2036d3731fa0764e106a2b5689bf3151287d429bf6/qrencode-1.0.tar.gz"
+      },
+      "1.01": {
+        "sha256": "fd8cdabd743e2db7a1ad332d4f0fe037e5a7807cb2f1d32da3e39439088bb610",
+        "url": "https://files.pythonhosted.org/packages/28/1d/8154867c22d15c23db429844898221793e00d88cc5a18cf33f4ea03fdf6f/qrencode-1.01.tar.gz"
+      }
+    }
+  ]
+}

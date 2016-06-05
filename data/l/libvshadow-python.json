@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "20160110"
+  ],
+  "meta": {
+    "description": "Python bindings module for libvshadow",
+    "homepage": "https://github.com/libyal/libvshadow/",
+    "license": "GNU Lesser General Public License v3 or later (LGPLv3+)"
+  },
+  "versions": [
+    {
+      "20151005": {
+        "sha256": "3eee5ce600de3a0224ea16e95c55972ec178e14386514c495043527421b0dcbf",
+        "url": "https://files.pythonhosted.org/packages/71/91/e455f5c70a41086a2e00b9f718ae22ad196204b71b754f17e81ddafc9bac/libvshadow-python-20151005.tar.gz"
+      },
+      "20160110": {
+        "sha256": "44b3f803805482e1196b629fbda68c464d206edc7151643ee364eaae2e4a46b8",
+        "url": "https://files.pythonhosted.org/packages/64/fa/d6080f01357b0baca22bb817289361bdceaf10ebd0485948ea593ea99305/libvshadow-python-20160110.tar.gz"
+      }
+    }
+  ]
+}

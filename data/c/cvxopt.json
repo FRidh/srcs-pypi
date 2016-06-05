@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1.8"
+  ],
+  "meta": {
+    "description": "Convex optimization package",
+    "homepage": "http://cvxopt.org",
+    "license": "GNU GPL version 3"
+  },
+  "versions": [
+    {
+      "1.1.6": {
+        "sha256": "1e94066650b825e7e36d56ae81535543001cff86b33680d35f947798c52249a8",
+        "url": "https://files.pythonhosted.org/packages/0a/65/96cea3e25c21775270c59024955d57a5a576ac8157e629ee685141b5ac24/cvxopt-1.1.6.tar.gz"
+      },
+      "1.1.7": {
+        "sha256": "f856ea2e9e2947abc1a6557625cc6b0e45228984f397a90c420b2f468dc4cb97",
+        "url": "https://files.pythonhosted.org/packages/24/42/0cc41cc5c23ff5cde9b3a2a1e89560aeb6af74480e925b4da1e08a1ad2be/cvxopt-1.1.7.tar.gz"
+      },
+      "1.1.8": {
+        "sha256": "bb0a04bca4177a30468aa50404dc6119e91a9aa91fa7edccba34be7776748ae7",
+        "url": "https://files.pythonhosted.org/packages/2e/a1/09cae1ac9906ab2de75e19ae7f5619fd010b8cad2b82eb073852045e07ed/cvxopt-1.1.8.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.5.2"
+  ],
+  "meta": {
+    "description": "pytest plugin to generate curl command line report",
+    "homepage": "https://bitbucket.org/pytest-dev/pytest-curl-report",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.5.0": {
+        "sha256": "1a112bb18efa4b506b57dda2b04133263d34795a53bd9c6f6623f26dbf1f869e",
+        "url": "https://files.pythonhosted.org/packages/d6/e2/3f326e321480ff346ce59a7bdb9884519d5d6364f58ccee829f31db1e992/pytest-curl-report-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "b3da6bcf4131bc6a4a5cf49d75619137b60e35691e3733d793bce8f1456882ac",
+        "url": "https://files.pythonhosted.org/packages/22/a3/4b02886729e1c811a60273caaff5fc5202e9c5e01810c61a59c3a10a8635/pytest-curl-report-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "a99b6cd359ca4226acb959cb45ef3427c8d80d1687fdfa12d6f298f470be7f0e",
+        "url": "https://files.pythonhosted.org/packages/64/bc/79faea56ab204ff1dbd44cef54d4ed992a9f03731fe94e198ff71ea79a1b/pytest-curl-report-0.5.2.tar.gz"
+      }
+    }
+  ]
+}

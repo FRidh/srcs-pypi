@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "A Python version of cowsay",
+    "homepage": "https://github.com/nicolalamacchia/pysay/",
+    "license": "Artistic License 2.0"
+  },
+  "versions": [
+    {
+      "1.5.1": {
+        "sha256": "307d13f80f2a763831c03031c04ffd74695db88fc6e6b88f730e1ef4e200a878",
+        "url": "https://files.pythonhosted.org/packages/d8/93/8c94a7674968dc8dbf4fec8d16fb53a5efbf18efe59529d1527c311dda6f/pysay-1.5.1.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "2306b0b70f9b5e77542d0349019628e69aa34877029d9688d1f02fbf99688700",
+        "url": "https://files.pythonhosted.org/packages/86/2d/9b927fe3af94f2418524fbe26c82e5d6ce247305ccf23ea3333c86e492aa/pysay-2.0.0.tar.gz"
+      }
+    }
+  ]
+}

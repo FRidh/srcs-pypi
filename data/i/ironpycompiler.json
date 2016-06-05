@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.10.1"
+  ],
+  "meta": {
+    "description": "Compile IronPython scripts into a stand-alone .NET assembly",
+    "homepage": "https://github.com/hamukichi/ironpycompiler",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "443d525757aa86ba9d13dab7c3f9a76f126f48b78bd0ab4111e1f26b05331102",
+        "url": "https://files.pythonhosted.org/packages/2d/ff/3b98bcc57eff083c88072f0520087f233f8b2df9faeb39952e0045da8ff0/ironpycompiler-0.10.0.zip"
+      },
+      "0.10.1": {
+        "sha256": "cccc746ba6eea91d26e5825e1a92f14028eb3dc26b97234436e172905c062341",
+        "url": "https://files.pythonhosted.org/packages/1d/8f/d42e2d01c4801376255f31fa35f108652c91ba28220955b6aef7fce09c3e/ironpycompiler-0.10.1.zip"
+      },
+      "0.8.2": {
+        "sha256": "cb13d7ca19fca006a7cae76fe12c448c7672c2bea34eeed4a23508c23182c156",
+        "url": "https://files.pythonhosted.org/packages/e6/fc/d7711155c638c70c99435897ef577fc4dfd42a76420e6f98b7503e12266e/ironpycompiler-0.8.2.zip"
+      },
+      "0.9.0": {
+        "sha256": "97d8504fa7644304c283b2c04c49162eb55811c8a54d5181c361bc173f7265c7",
+        "url": "https://files.pythonhosted.org/packages/9c/86/b8404396e656997bb57edc4a3e39935b8a80883f1b344076b44cc1adbd32/ironpycompiler-0.9.0.zip"
+      }
+    }
+  ]
+}

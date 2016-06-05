@@ -1,0 +1,29 @@
+{
+  "latest_version": [
+    "1.0.3"
+  ],
+  "meta": {
+    "description": "Backport of importlib.import_module() from Python 2.7",
+    "homepage": "UNKNOWN"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "d2643410ef7f034051d243f48d5411ff918100db5e50fc64e5a541da2e189194",
+        "url": "https://files.pythonhosted.org/packages/56/8c/04113ed718202abc33862bcfc86ec956b3aa06ce4adebe559de43bfdd1d6/importlib-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "ab0d51a9f7099f49bb1dbb0175ab73b95cb0070424b47b6580b9ce349b3d400d",
+        "url": "https://files.pythonhosted.org/packages/21/05/a832eb413495499958576c4bb0e4611a927abd4cf1768e6614a40c9ce6ab/importlib-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "24d0966aa76859b288485803f310076512f87377e6c9afe9c28c52a8ccdd328c",
+        "url": "https://files.pythonhosted.org/packages/65/1f/87549f328d46842f44a7812410d5f018a0818a5105c6a1e4910756638341/importlib-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "01fc0a2a1e01990a97b096615c11328fa4306ced1733c98d884160387760d479",
+        "url": "https://files.pythonhosted.org/packages/0e/9c/daad476c540c4c36e7b35cf367331f0acf10d09d112cc5083c3e16a77347/importlib-1.0.3.tar.gz"
+      }
+    }
+  ]
+}

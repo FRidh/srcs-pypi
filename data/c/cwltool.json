@@ -1,0 +1,694 @@
+{
+  "latest_version": [
+    "1.0.20160531173804"
+  ],
+  "meta": {
+    "description": "Common workflow language reference implementation",
+    "homepage": "https://github.com/common-workflow-language/common-workflow-language",
+    "license": "Apache 2.0"
+  },
+  "versions": [
+    {
+      "0.1.20141118163626.cbb1b06": {
+        "sha256": "f70b8e2550772660188a00808fd74dafcb8d5d8c22986300470129e3d22e85bf",
+        "url": "https://files.pythonhosted.org/packages/00/42/da748975556345275d6e8dbc1ab1fcffb98c86ea5166d8c2c569a1fd57a4/cwltool-0.1.20141118163626.cbb1b06.tar.gz"
+      },
+      "0.1.20141118185349.d594c3e": {
+        "sha256": "12afa95f1fdae8ce72a3e56a606e90e461d4002aa14a1813f0f183f23a6074f5",
+        "url": "https://files.pythonhosted.org/packages/2f/10/cf6a4823624f36cefa257c73626d17550aa0857a3b8de832e269d9e8d84b/cwltool-0.1.20141118185349.d594c3e.tar.gz"
+      },
+      "0.1.20141119031726.8dcd753": {
+        "sha256": "b08945d1af8732a8111e42de1bc63bae9bd753deb00e6656c3cea78f1c771c49",
+        "url": "https://files.pythonhosted.org/packages/02/f9/df3dc8bd1ee3878d10a70cfccdf6d0ec31d33246e78afb6843ba26b6daeb/cwltool-0.1.20141119031726.8dcd753.tar.gz"
+      },
+      "0.1.20141125184103.2d72b5c": {
+        "sha256": "15e707031c69246ee1801c14e67091fcb19916972311f3680aa8327767a30b39",
+        "url": "https://files.pythonhosted.org/packages/76/91/79332c87e5fb948533647ba027a42d1d4af7ac072d7d244cbabe2452d490/cwltool-0.1.20141125184103.2d72b5c.tar.gz"
+      },
+      "0.1.20141128210437.24bfcbd": {
+        "sha256": "d63d616f2923b4d2be5f75ada7386f94250ab659513ae68cf0b6359ec5b62c85",
+        "url": "https://files.pythonhosted.org/packages/7e/5f/b7a0f713f16be4fd3a3097377c3aa68a2a8c7a283be83d8634a79ae0f337/cwltool-0.1.20141128210437.24bfcbd.tar.gz"
+      },
+      "0.1.20141205194642.2cec11a": {
+        "sha256": "d3b223a0be58879f8ef8042274a470a45c6c4cb2f71f373a79ae6b62832c3829",
+        "url": "https://files.pythonhosted.org/packages/6d/b3/2fd9cf2313e909a8969a843de50a8014cf960297bc3457dc8099a64a875e/cwltool-0.1.20141205194642.2cec11a.tar.gz"
+      },
+      "0.1.20150123125045.772314e": {
+        "sha256": "b6b910f3de1008bed39b0a0f64ebba4913cc27fa7bdf48560b66a5805a992993",
+        "url": "https://files.pythonhosted.org/packages/20/d6/b72588b5167854534bae724ef9002b5008ebf1df05f89a19f258533e552a/cwltool-0.1.20150123125045.772314e.tar.gz"
+      },
+      "0.1.20150123213120.f1cfee1": {
+        "sha256": "fff183790b74790a3d11a8f8e14fab607ed0051429bc734dea357549084fd61f",
+        "url": "https://files.pythonhosted.org/packages/d4/5e/def7e72744bdc8c861159d81372f154c0559b5a4ca98de5f66048bb63ce4/cwltool-0.1.20150123213120.f1cfee1.tar.gz"
+      },
+      "1.0.20150317015350": {
+        "sha256": "14145032d455bb7b80e0c4b50ac428dc23214b5810dcd423c2e0ecf587fe7d02",
+        "url": "https://files.pythonhosted.org/packages/2b/e2/5ebb8f1104850d67547e680d0ddcc6a42436a116d9130b01bd92aadfef3c/cwltool-1.0.20150317015350.tar.gz"
+      },
+      "1.0.20150318010828": {
+        "sha256": "74b72df9b6a0db65db7fa69917e79297b287a3254a015c77b9ef9fb0ecdacb06",
+        "url": "https://files.pythonhosted.org/packages/bf/82/acf300029bcd2628b823aab463cf5fc38fb4e29572d8db5d80b7afbd8807/cwltool-1.0.20150318010828.tar.gz"
+      },
+      "1.0.20150318015654": {
+        "sha256": "f8f762acc23505f334a4b0e6323b885077a102f56687cb8f374298d81368d8ad",
+        "url": "https://files.pythonhosted.org/packages/78/6c/85ac718fd3bd9cfdb25e2ba7547bfc5428a6229e0e96041afea319e83d81/cwltool-1.0.20150318015654.tar.gz"
+      },
+      "1.0.20150324011020": {
+        "sha256": "e7b1019f3355a237b8f9d11c8173283c91f47e31e17bd7f077a1a40b85d4be38",
+        "url": "https://files.pythonhosted.org/packages/7a/a1/cf058b957813685ae37545bf8c718d6f6829d56b0f72e52772dc057bf1b2/cwltool-1.0.20150324011020.tar.gz"
+      },
+      "1.0.20150324012706": {
+        "sha256": "72ec60e289525282b117d8161749290158e9e2318a3d738fcb8287e6875acca2",
+        "url": "https://files.pythonhosted.org/packages/43/4a/329a102aeeb30552f85e2ea484592a34989560ec6a42496c24348644bfc7/cwltool-1.0.20150324012706.tar.gz"
+      },
+      "1.0.20150324172633": {
+        "sha256": "7b7c82ad0f18303ae9b8c5686f4a5a3998efe9351c3d3e1ebb5162a6d5075e30",
+        "url": "https://files.pythonhosted.org/packages/5e/e9/8d4b98ae5f2e9541176cb00d356521bb769a633e328c23201a909f26cec5/cwltool-1.0.20150324172633.tar.gz"
+      },
+      "1.0.20150324173916": {
+        "sha256": "96a3652d06b88ea662e0333bb8da88d09e55ec1f92a990bb6748a63eec8168c2",
+        "url": "https://files.pythonhosted.org/packages/f0/f5/a6c3b5c5b8b08b1ac9b3e7334b97be2df20e2e7d855ad0ba9e6c37b13310/cwltool-1.0.20150324173916.tar.gz"
+      },
+      "1.0.20150324194338": {
+        "sha256": "6af75cb1242360a57f9026bf3109dee1b3a06cebf384002f847bb7b48ea5320c",
+        "url": "https://files.pythonhosted.org/packages/db/4d/2c276f300508ccb713da1ee6c05483e3e9fb36216cac616d7854531473e1/cwltool-1.0.20150324194338.tar.gz"
+      },
+      "1.0.20150324200038": {
+        "sha256": "635b3cc8242e2635d923cf43e81f9af6d6b7bb7b144eb2ba429d1bc1024f98df",
+        "url": "https://files.pythonhosted.org/packages/3e/7b/20e15a3fdc3cb4481754c43ee7cca87397294a2d81067179d3e2ec610a87/cwltool-1.0.20150324200038.tar.gz"
+      },
+      "1.0.20150324203244": {
+        "sha256": "7dad59b36410c9cbdd1728e869e5fc81ee6b362979b43081e53305c14f47416f",
+        "url": "https://files.pythonhosted.org/packages/8c/a0/113c45dcdbcac36f0ed83dce0bbbd24a5fef6b0a33bebe8049831193d1a1/cwltool-1.0.20150324203244.tar.gz"
+      },
+      "1.0.20150324211351": {
+        "sha256": "a1d7c35697cf402d74f935ca6d376c5be9280dc3728414a291e7898a592a233b",
+        "url": "https://files.pythonhosted.org/packages/89/c3/cd9398ef32db12d7ec5a2b3d1bf3c3257dd8e09fc16465f8f2dffd3731ab/cwltool-1.0.20150324211351.tar.gz"
+      },
+      "1.0.20150326005309": {
+        "sha256": "0915f64253618c2ea0cac7e6ee1a3fb0aeb750841d14ede019949bc288642f88",
+        "url": "https://files.pythonhosted.org/packages/26/43/925d24d3e64995e4144b9037fb01164d6af83931546c3b11c482c0a2a568/cwltool-1.0.20150326005309.tar.gz"
+      },
+      "1.0.20150326211508": {
+        "sha256": "22e02b7c8640e874cb335993d13a2ba7a56158cf8254999ce56fc4ccbcd0c19c",
+        "url": "https://files.pythonhosted.org/packages/78/2f/7188b07c6029ddd472a7b4cc8e5c6cecef71ce4f93fb61d3c07f10e61087/cwltool-1.0.20150326211508.tar.gz"
+      },
+      "1.0.20150327211418": {
+        "sha256": "77ab19ba505f7efe5b9289429ae67e5d9c99c69b33c8c1fcbe4f9ded748856f3",
+        "url": "https://files.pythonhosted.org/packages/ef/ff/4f3a85929b56782eb1ce9f9cabe5c3997bbfb846a9b935364152d9109030/cwltool-1.0.20150327211418.tar.gz"
+      },
+      "1.0.20150331014533": {
+        "sha256": "bfd678b1f62d981fb260946a2bf263aafd9f52f110ad15004a8a3f77e6f76a74",
+        "url": "https://files.pythonhosted.org/packages/b2/db/374e5c798f3b241e6fb896d36f2cb87fbd33c499d1e02b75a918d8da7ec1/cwltool-1.0.20150331014533.tar.gz"
+      },
+      "1.0.20150401014645": {
+        "sha256": "a90beba9132205440945fb883c165031602b640bb8866bb4848c85c50ef01f68",
+        "url": "https://files.pythonhosted.org/packages/63/fe/0afde82ea8efd6dce734940bebaae5c39890a9753e5574271a821ebc9aea/cwltool-1.0.20150401014645.tar.gz"
+      },
+      "1.0.20150403144650": {
+        "sha256": "c13c1ad84f3be0373ce7a952b6ea4e27e2e6749b8c65e47c696c20f75a22649a",
+        "url": "https://files.pythonhosted.org/packages/b7/7f/27d02fa3117fc6a089a7da556910e57de8be8ef959ca42daed7b78234655/cwltool-1.0.20150403144650.tar.gz"
+      },
+      "1.0.20150407211342": {
+        "sha256": "414fad4c20d0eed9e50e8704d15addea503677c4893adc11156b61145fafb701",
+        "url": "https://files.pythonhosted.org/packages/fc/e8/7de027e99c5d186af12ded268b7455d70782c9d4ec3cfbc4eefaecbb7561/cwltool-1.0.20150407211342.tar.gz"
+      },
+      "1.0.20150409193818": {
+        "sha256": "f354fb49c060d865acf63394dc1c49ded102d848ab9e163b29f229fff89e0af2",
+        "url": "https://files.pythonhosted.org/packages/f9/68/d713856cc61850448376e7c5dbfe9d37e65e9fe5d5c3f2cd20750a937cec/cwltool-1.0.20150409193818.tar.gz"
+      },
+      "1.0.20150415152714": {
+        "sha256": "fa51071a4cc491fd557498ee7a983a86e24d8034ebb52e367304cf8bf8df4028",
+        "url": "https://files.pythonhosted.org/packages/24/e9/85aef1cc689a2461b689cef8a2f628352b2bcafc605a46f56eaace4cbb54/cwltool-1.0.20150415152714.tar.gz"
+      },
+      "1.0.20150429022405": {
+        "sha256": "57fec7cf16d8bbf5c26d6f456e6f272e66730421659a0871f242cc94a93cde64",
+        "url": "https://files.pythonhosted.org/packages/0c/d1/220c4c95aa5c32d57128afef81ceeb39b20680b17bbdda8b5f2807283715/cwltool-1.0.20150429022405.tar.gz"
+      },
+      "1.0.20150508023316": {
+        "sha256": "7e235cb179a0c8abc18366e6fa46ff901b1a984896bf5b8c277826a42440d285",
+        "url": "https://files.pythonhosted.org/packages/73/c3/e99c929204e8510338a65290e92ed1475be784f8b2d2d134530babb745ba/cwltool-1.0.20150508023316.tar.gz"
+      },
+      "1.0.20150512154247": {
+        "sha256": "a6bb63e1ee4ab02eafd8d88e1cbb88ada39fd441f7e5922e9b17f05a4c34f887",
+        "url": "https://files.pythonhosted.org/packages/63/d5/13ebe957dc86707876c093350d418ee444d28144e49c30f77a9ad31485d3/cwltool-1.0.20150512154247.tar.gz"
+      },
+      "1.0.20150512164512": {
+        "sha256": "7a3bbda3a66e74fa788829e9c5b78288d0c6358f575bbf26c1c85b091d2b7c45",
+        "url": "https://files.pythonhosted.org/packages/b0/4a/815462363dff610dba815721ac461688422cf9734475bfbb26a52452990f/cwltool-1.0.20150512164512.tar.gz"
+      },
+      "1.0.20150522025529": {
+        "sha256": "009de0d1cbf830ab73566683022e5223ad81eb4cbdc9212dda099c94f59f2b25",
+        "url": "https://files.pythonhosted.org/packages/51/60/3ae6cc2a74b4646354afe4b33ee1c98b9296fe26e29dc490804d10661785/cwltool-1.0.20150522025529.tar.gz"
+      },
+      "1.0.20150525010411": {
+        "sha256": "02ad4fe3accd604883a71608a0d70482397ca7a915e62b35f80aaa07ddd33bb2",
+        "url": "https://files.pythonhosted.org/packages/c3/e2/a43b5d451b690ae9db5c1949d0200bebea4cf83dd0993cabd334e4aa7c70/cwltool-1.0.20150525010411.tar.gz"
+      },
+      "1.0.20150527172438": {
+        "sha256": "d8fcec9686cafd8c70652edc97c05b69c25b98a6e3095aa4641d7df0df5690be",
+        "url": "https://files.pythonhosted.org/packages/96/27/06d5adcfddda38de352bc65ad4a4d8a0401c31c4240481a6f496e506ed5f/cwltool-1.0.20150527172438.tar.gz"
+      },
+      "1.0.20150601172915": {
+        "sha256": "7a139182381dd03d0c3afeb21637fdcb456082c9716a02bd6b752da98cf93879",
+        "url": "https://files.pythonhosted.org/packages/82/fd/b33df5c69ab8dbff86cbd76ce80492b4043091ac04951a6645ae36fce839/cwltool-1.0.20150601172915.tar.gz"
+      },
+      "1.0.20150601200103": {
+        "sha256": "8b20010081b58218c3561a849a24672012731f7df830568d85b9cc087723353f",
+        "url": "https://files.pythonhosted.org/packages/a5/81/05d988718d2ab0466479605bb7cac5cb7a6e7beffe1f50cd1470f22d697c/cwltool-1.0.20150601200103.tar.gz"
+      },
+      "1.0.20150602212140": {
+        "sha256": "cf84a28dc343ee9106245ebd3da81c924131ced3ea608a5f67d0228c8a309ba6",
+        "url": "https://files.pythonhosted.org/packages/54/52/4215f503c12fb1115af75a75eab876aba8003a0f596a7c47c0c78fbef362/cwltool-1.0.20150602212140.tar.gz"
+      },
+      "1.0.20150605134212": {
+        "sha256": "699c625874250810496472e4f0b43926299ff459ec8a3c41cfd2ef23037d8a0e",
+        "url": "https://files.pythonhosted.org/packages/4a/1e/e8929dc5fef4f0bf20c9a466c24ee83a746ff82e2a94bb96321ebd5edf2a/cwltool-1.0.20150605134212.tar.gz"
+      },
+      "1.0.20150606210100": {
+        "sha256": "39d8a71edad10d9c233d4120e7099b752cc93d77b5ddecd8109d2d7be51076b3",
+        "url": "https://files.pythonhosted.org/packages/06/13/d89630374046331cbd2ca4721224643702bd056989e9cc0214edb4407ff3/cwltool-1.0.20150606210100.tar.gz"
+      },
+      "1.0.20150609024148": {
+        "sha256": "0432d938fb2e89f57ddf8bd08247d1fe064be6cf83317634c2e920091dcd3e93",
+        "url": "https://files.pythonhosted.org/packages/a0/d8/d67bc80d29230549b5f50a4ca82ded6d05281e52df47dabcc37b112c5ddc/cwltool-1.0.20150609024148.tar.gz"
+      },
+      "1.0.20150609205603": {
+        "sha256": "e842a9d9eaad6b7786db133975e4bdf8f3d288b9e108f3e098d9ea380916c6ad",
+        "url": "https://files.pythonhosted.org/packages/bc/9f/fe05ff445f65ae541bc8064f756a52293c00ef7014edc0ac5ff5091fbaa0/cwltool-1.0.20150609205603.tar.gz"
+      },
+      "1.0.20150610150530": {
+        "sha256": "371d76229cf7cd1ba56cb75ff5245db033c64e34815f5857afd070054b631acf",
+        "url": "https://files.pythonhosted.org/packages/c3/88/8cf2d100837b5138958e8b6797086dc90a87ad190dfff0a3708480e08575/cwltool-1.0.20150610150530.tar.gz"
+      },
+      "1.0.20150621213723": {
+        "sha256": "5b1860327ff306a272637684dc78b082833bb5c083f03ce446bb6fadc7a094eb",
+        "url": "https://files.pythonhosted.org/packages/34/9e/5bf09ebb0ff0e4b059ce306acc8821ca130e02542f40a9ee9e06f83d46d2/cwltool-1.0.20150621213723.tar.gz"
+      },
+      "1.0.20150621230545": {
+        "sha256": "829355ef89577201b36581e168d07019c5ecb4f9f672ff5cf60ccd6ef8dd1c1a",
+        "url": "https://files.pythonhosted.org/packages/1d/55/526438163640405178af9985dd91db18ef343981c5ffb39383e55a141c38/cwltool-1.0.20150621230545.tar.gz"
+      },
+      "1.0.20150622134207": {
+        "sha256": "d94a5a4090d9b36c7fbfa982c2d0c3a6912617ae2dcf47f24e0062be22ba98dd",
+        "url": "https://files.pythonhosted.org/packages/12/58/99a6937a84ab0a7311c9f97b8193344a317fa4bf19a471246e48d7ba6ee6/cwltool-1.0.20150622134207.tar.gz"
+      },
+      "1.0.20150622144406": {
+        "sha256": "ff2aee6bcfea13e341e530bc4456cd5d1a42b6961756a91f406ebe1344edaa33",
+        "url": "https://files.pythonhosted.org/packages/8a/99/47bdc477eb4b36cd75a85a0211e2e387dacb2bec0e4ca39552cdb3a2e57b/cwltool-1.0.20150622144406.tar.gz"
+      },
+      "1.0.20150622183905": {
+        "sha256": "7793f983c446f2182ceadc9a2e40d20d3065f9222d49581cd18deec06221b2f1",
+        "url": "https://files.pythonhosted.org/packages/28/1b/eaa54df5e166ddb8d0c7dcfc3529377e6ccd4b348e12a34aacedf5228647/cwltool-1.0.20150622183905.tar.gz"
+      },
+      "1.0.20150623020304": {
+        "sha256": "396dd5eb7d617384b3a9fadde113656e48b5f1981473fe2c909c25f514cf1631",
+        "url": "https://files.pythonhosted.org/packages/87/4e/48b6edad37d2478ce8ec295bf91a5fc582528057b481f1171031d1673936/cwltool-1.0.20150623020304.tar.gz"
+      },
+      "1.0.20150623031442": {
+        "sha256": "1ffda98412132370566b3be7cc84b5f042824f29ccad2202e8f577314939bd93",
+        "url": "https://files.pythonhosted.org/packages/69/db/f9b03c63961c3856bc112d69e43089688c489de14165ff269ff5fb84fe68/cwltool-1.0.20150623031442.tar.gz"
+      },
+      "1.0.20150624181807": {
+        "sha256": "20fcc36d8a5de74a1f8ed44c6c600f4093593154689f6bef86e755632d696389",
+        "url": "https://files.pythonhosted.org/packages/b4/c0/e423b544e935e5e365adec784fdfab3a5efa3e3674b00749551ddb1a909b/cwltool-1.0.20150624181807.tar.gz"
+      },
+      "1.0.20150624201710": {
+        "sha256": "1af563b89117c80f8207595aed2c19d85322d73b22136fe72207a2e31b658edc",
+        "url": "https://files.pythonhosted.org/packages/90/ce/b31ba81a1a58274f40942bb5c0e2e8fdd2b438042833450c2be9bdb055f3/cwltool-1.0.20150624201710.tar.gz"
+      },
+      "1.0.20150626032845": {
+        "sha256": "b61471c270afe5d7e29425e30e73522d5623c4423b8ac428e910b96a1cf822fe",
+        "url": "https://files.pythonhosted.org/packages/23/ae/6485958f1dcc134945420615e97d9f8afe09a60478fddeb4c36bd7c35c70/cwltool-1.0.20150626032845.tar.gz"
+      },
+      "1.0.20150626035015": {
+        "sha256": "a80643f042cf517e366306a0fa335e15a9bdf3c19f03b21e3afce81df48a1389",
+        "url": "https://files.pythonhosted.org/packages/5d/2e/dd63352c965142a2dd3984ee8b65c346170430f4f1aa6cdea001ab1722ee/cwltool-1.0.20150626035015.tar.gz"
+      },
+      "1.0.20150626035417": {
+        "sha256": "1915aaac5b31adddd6b6ebee4f72acce10427a1b2e3e4c2b0b5c429594772c5b",
+        "url": "https://files.pythonhosted.org/packages/a2/f9/02bc5301b8ddb62491e1b7264983456ed337cb75615eb43f00e2f35c7db1/cwltool-1.0.20150626035417.tar.gz"
+      },
+      "1.0.20150627015636": {
+        "sha256": "38c225a455d02f29f61136f9d46c01a5b6875e74deedecf8b4624b4bd853005a",
+        "url": "https://files.pythonhosted.org/packages/ec/05/ec5779b036416e05ecdce47e0c4a8209050b40e831e9a19e4a672a8fadf6/cwltool-1.0.20150627015636.tar.gz"
+      },
+      "1.0.20150706174116": {
+        "sha256": "5b0130c9ff44bbbae062da5e0686ed592724b0b0b8a194a2e643c8093edbbbb9",
+        "url": "https://files.pythonhosted.org/packages/6e/43/6279e8736b682454754e7d6126f41cedb602d6774024e26d20c19d82e39f/cwltool-1.0.20150706174116.tar.gz"
+      },
+      "1.0.20150707043955": {
+        "sha256": "2a7d09fe97380e699829e36fe7c59eda7f1a43cbf869a3ed7790616feaef9002",
+        "url": "https://files.pythonhosted.org/packages/91/b2/1f60eecbfafabcf1bbbc1dbc29486ac5751fbbb5919f7a6564b706c18663/cwltool-1.0.20150707043955.tar.gz"
+      },
+      "1.0.20150708115452": {
+        "sha256": "eefcda585a472aaba7e3954e1e1a566c51db5688cd974f99602dc2d32793267b",
+        "url": "https://files.pythonhosted.org/packages/6c/19/49a4adc0f0dbb06e35f86757a49e35342b5bb8930bad149a458f07d30129/cwltool-1.0.20150708115452.tar.gz"
+      },
+      "1.0.20150709135652": {
+        "sha256": "7d877f9dee8b49d5d4e99285c57192b73128ac1a426095a4de9fac9480652e5f",
+        "url": "https://files.pythonhosted.org/packages/f9/ac/300cdfd64db2575c7bdfe65caac544572bf7773a2f1da588bd6733b53e20/cwltool-1.0.20150709135652.tar.gz"
+      },
+      "1.0.20150711153503": {
+        "sha256": "72c1e595b25e8d14e2b830da975364c1e956a341e16cafc1ac6d71aad82c4f7f",
+        "url": "https://files.pythonhosted.org/packages/06/98/a052a48405e4878ed1c09f9ebec3df36ab5cdcedf4dbabf7f034bcfd4126/cwltool-1.0.20150711153503.tar.gz"
+      },
+      "1.0.20150713135958": {
+        "sha256": "426f45d1964ab301ab4405cafae029d02aa81fa19320ed54b5833e602725415a",
+        "url": "https://files.pythonhosted.org/packages/a3/b7/f6f1e269da66a6e08f6d3c913ec24d502fc835838723bd549ef82eb73662/cwltool-1.0.20150713135958.tar.gz"
+      },
+      "1.0.20150713152138": {
+        "sha256": "c55c4dc40008ff7cec57f6898b76e8c50e03b57fe4e02f18405a5a09d17d248d",
+        "url": "https://files.pythonhosted.org/packages/58/d2/d4d5cb3113859e56d567b70bb56fd3c64cab5ad65c870ba377d08087790c/cwltool-1.0.20150713152138.tar.gz"
+      },
+      "1.0.20150713185212": {
+        "sha256": "498df399ce26f100111c47b34cd54bf02e97830036d5bca7dab2890ed5463ff5",
+        "url": "https://files.pythonhosted.org/packages/9e/a5/84bb7e690c9f466813b8edbc44e997d93227ef90a863badd2d1cc67da772/cwltool-1.0.20150713185212.tar.gz"
+      },
+      "1.0.20150714132635": {
+        "sha256": "c7c8b66c12627c2d2c6cedd9250c544fa4af570a4032853bacdb4dfb25ee31f6",
+        "url": "https://files.pythonhosted.org/packages/25/95/fb1e6965f64a051655040dfde4bfc376bd4219bfd36c03dedfc145ae0a9b/cwltool-1.0.20150714132635.tar.gz"
+      },
+      "1.0.20150715173345": {
+        "sha256": "115854204e50e227db9d287c04e1522742530189a1769b0bcb9e86b8491d3a61",
+        "url": "https://files.pythonhosted.org/packages/92/e2/b7b107a1b39c60b794171a618862dcbcef93b4075d08a2cf6b798efc9afd/cwltool-1.0.20150715173345.tar.gz"
+      },
+      "1.0.20150720194125": {
+        "sha256": "e7f8fda69c18a4912e50fb6e5d794727a007e9530886b97f302bff7c121b09e8",
+        "url": "https://files.pythonhosted.org/packages/3a/97/4035f635a7bbcfcc55d0008981be01b1258cc9ec07599a0f8ae2130f8e77/cwltool-1.0.20150720194125.tar.gz"
+      },
+      "1.0.20150722144138": {
+        "sha256": "7e8bdf5cfcadc76d30182409d329269029150272c2c6c36105c07fbf61a41770",
+        "url": "https://files.pythonhosted.org/packages/f5/ab/c8ec8c3fee76ab4b82dfff5564c2652ec46a8dc7f01b068694e50c58b81c/cwltool-1.0.20150722144138.tar.gz"
+      },
+      "1.0.20150723141036": {
+        "sha256": "28fef653d99c2a7035375c364df2b7926a474137ced3ebbf392be672687b718d",
+        "url": "https://files.pythonhosted.org/packages/fd/cb/a04c7b4b72474fc4b97ad0e125ed7b4a9aac1695699f5e55654ef31fa0ca/cwltool-1.0.20150723141036.tar.gz"
+      },
+      "1.0.20150728161219": {
+        "sha256": "905b37b4e75b8d0b1d169b9c8fff4789ec9af67ef0163cd686e40f647da90a82",
+        "url": "https://files.pythonhosted.org/packages/dd/12/0f25090d295bb15871c83c9bf728ed1ad925c35fa5448c6517422c503384/cwltool-1.0.20150728161219.tar.gz"
+      },
+      "1.0.20150808190318": {
+        "sha256": "f6b426ded70d2c19e6d4d6a82234b63e5721f72e933fcfaa88dc7a7fe7c9b46a",
+        "url": "https://files.pythonhosted.org/packages/20/f3/7e45b0c58dda4c047f365830dfff2475857cae1ef3a7da1d539cfaabb953/cwltool-1.0.20150808190318.tar.gz"
+      },
+      "1.0.20150813132038": {
+        "sha256": "df9fbbf33249c236d3084148b2a4a2640ec6cbd12ae42eb1edf1aaf4076cfc7e",
+        "url": "https://files.pythonhosted.org/packages/af/94/52747b430a1de5ec83bd69a4bf143984c2ea77e08d1b227493511efc67f6/cwltool-1.0.20150813132038.tar.gz"
+      },
+      "1.0.20150814015745": {
+        "sha256": "2417ba345a1f0ab9b67e40b3d6fd921b93a72cc29bb0f6217b4f14e97939b29f",
+        "url": "https://files.pythonhosted.org/packages/40/5f/9263b90cf3f1dc6d181879e094a1014d314ae61b6ca7f6b307dfd9be7f83/cwltool-1.0.20150814015745.tar.gz"
+      },
+      "1.0.20150814191928": {
+        "sha256": "7ef4b7fb5822d17aa6f87949eb97647b3e83b69fb597bc7a010c358d1c942fe3",
+        "url": "https://files.pythonhosted.org/packages/cf/3d/5fdc0c3736d61369db532c5eea8c0ef5d6d07d21779db56bb01d40b37760/cwltool-1.0.20150814191928.tar.gz"
+      },
+      "1.0.20150910021332": {
+        "sha256": "98d8e6d9bf6bc93dd98058e7d89e5c65c219f60d7e8b315ab71f9a5dfea86f56",
+        "url": "https://files.pythonhosted.org/packages/f3/5c/06faa84af086769426da5d7f1cb63bfe204f7408df312eddae83edffed34/cwltool-1.0.20150910021332.tar.gz"
+      },
+      "1.0.20150915034626": {
+        "sha256": "04a989857e8c750f7fbf232f534ec9125b31b1e101514a22b5618f9246566a3b",
+        "url": "https://files.pythonhosted.org/packages/3b/0c/d0ebb73d8c6acf3acd7e8cd7bdf2779f19459b3cb95e59fb3ff3d3d85083/cwltool-1.0.20150915034626.tar.gz"
+      },
+      "1.0.20150916041152": {
+        "sha256": "02b7918b83d2c848d2d7f0ad7ae5bb517de84c6ccca7b11b46d912bcad611dcf",
+        "url": "https://files.pythonhosted.org/packages/fa/5b/bd056a691459b5d9001caa55bf5d695d33b42f1d55ece9aa9de5dd75d10d/cwltool-1.0.20150916041152.tar.gz"
+      },
+      "1.0.20150916124227": {
+        "sha256": "00202c8bc9acf34462c63b9dae9da0ad9ed46de767856234c026a784ca451371",
+        "url": "https://files.pythonhosted.org/packages/2e/aa/01e097baf93d1ce7af065437b3d83eb552f4ced784284de4d6bdcdbf315b/cwltool-1.0.20150916124227.tar.gz"
+      },
+      "1.0.20150918080732": {
+        "sha256": "5de32b380fe4091ec259a5f7f2f43a7fbc35f4fb0fd5cd12cca1810686a07a47",
+        "url": "https://files.pythonhosted.org/packages/94/90/55a0611846818f8ec02988d776d1429e5f3f8aef1d18ff8e9f9a4c941eef/cwltool-1.0.20150918080732.tar.gz"
+      },
+      "1.0.20150923183439": {
+        "sha256": "c08623b94a392876f02066203c03b72b04a674b57cb8f56e2491efb9ed6513f4",
+        "url": "https://files.pythonhosted.org/packages/07/9e/c158dcebff4349979e2a4c3c79c76d6bf1123350a12c066fa5d48265b4ed/cwltool-1.0.20150923183439.tar.gz"
+      },
+      "1.0.20150925123259": {
+        "sha256": "8fedd25ff0221b18dc4578fedca50555abc62a6cf612b4443562794374370e82",
+        "url": "https://files.pythonhosted.org/packages/4e/d0/0c6fc81877c1c7ef897205dac117af3e856a1aeee7bd30d37790d5127ee4/cwltool-1.0.20150925123259.tar.gz"
+      },
+      "1.0.20150929170517": {
+        "sha256": "4e81944486d61573afb46fbbeb364bfede1a4a4a91dc7618b8d9e57ffdc782ec",
+        "url": "https://files.pythonhosted.org/packages/90/de/1b3c324ccc001537a526d97be2a18e89e90a71714e9935fe40e3502be01c/cwltool-1.0.20150929170517.tar.gz"
+      },
+      "1.0.20151007133346": {
+        "sha256": "ff86998dc848c6cd7fae13851a46d34bd2258d7fb1fe1b99d7252c681941feba",
+        "url": "https://files.pythonhosted.org/packages/c9/3c/91bf235cc36461437be319285ab3b5888e4fdb69ab0821aeedb2118e3307/cwltool-1.0.20151007133346.tar.gz"
+      },
+      "1.0.20151009020717": {
+        "sha256": "898a7ccdc2e8dd8c11f346aaea1ea5490238df0aff3cdc273c29405387ea5ce7",
+        "url": "https://files.pythonhosted.org/packages/c7/8b/9ba373a1f5a8ecebd06a55d3c62b5e9caffe32e81a57bed6eb9563e784ee/cwltool-1.0.20151009020717.tar.gz"
+      },
+      "1.0.20151012161407": {
+        "sha256": "a4f066a57343f5250c2dae05219fc6589cd793f136457200a1920689a46ab192",
+        "url": "https://files.pythonhosted.org/packages/76/d3/5fa16792f6e853d5bee895685ebd8b8164294198ddfc8b0c2112e3d9382b/cwltool-1.0.20151012161407.tar.gz"
+      },
+      "1.0.20151012173709": {
+        "sha256": "6a2365241b34d6499e442f699e8f116962143f20f52c35014c1bca71b48af3fb",
+        "url": "https://files.pythonhosted.org/packages/08/de/ff690c8f16b934be16694ad8ebe36dc11676d53e3f6e8a4528cf9b759fe6/cwltool-1.0.20151012173709.tar.gz"
+      },
+      "1.0.20151013134821": {
+        "sha256": "bcad1cf62da388d29226999ddeefc9355b69c35b4016593e71e5a5fdfe5ee806",
+        "url": "https://files.pythonhosted.org/packages/83/5b/1904fb3a23363b7556dfe3b3c065be0e49cbf2e4e560e3bb85498cec258e/cwltool-1.0.20151013134821.tar.gz"
+      },
+      "1.0.20151013135545": {
+        "sha256": "fb14b3c72b327a7281a22deb62e08eceddcf11e3c13c5bb1dbe00c6372abd71e",
+        "url": "https://files.pythonhosted.org/packages/3a/ab/fe9e60ea4d4d552afbe18bd83458ced653b8fc17700eda127b82478128a9/cwltool-1.0.20151013135545.tar.gz"
+      },
+      "1.0.20151013173827": {
+        "sha256": "e31556b1d645832af6ccf0858f63ed0d48e37222b68db18d78b79e00ae140ba4",
+        "url": "https://files.pythonhosted.org/packages/49/ac/d6476bb1bb2c300e5c275c6995f2cc6606faa2b55de947196056731d4317/cwltool-1.0.20151013173827.tar.gz"
+      },
+      "1.0.20151022085449": {
+        "sha256": "d6ca21c371118e615a340780a3b84c06d1ead0a447283c8a7f386e46f3de911e",
+        "url": "https://files.pythonhosted.org/packages/2b/d5/40922462fb1a14857e58d0ba76bafa2c514ab7801b5657cb5b4910126e99/cwltool-1.0.20151022085449.tar.gz"
+      },
+      "1.0.20151026181844": {
+        "sha256": "24bb35994504f8feb56a9c29fee62b4a037ae2899f29fd70318ae273e5caae4f",
+        "url": "https://files.pythonhosted.org/packages/f7/3c/4a120b24dcf600b8fd08eb5d23dc18199fd5fc6ceab9ad040c3ded4f561f/cwltool-1.0.20151026181844.tar.gz"
+      },
+      "1.0.20151104062100": {
+        "sha256": "a78f801f6a65a1bc30444c3fb02810a00be225945893d64b4507b0b2104e9e0c",
+        "url": "https://files.pythonhosted.org/packages/4f/d8/d706f4ff574b4cea9b6b0e7d177b8942f016ffcff148fbd2e4eb1daab788/cwltool-1.0.20151104062100.tar.gz"
+      },
+      "1.0.20151110030107": {
+        "sha256": "5453d4145391d056045d42b643c62ef0d94d46e8f3567c6e3945c5c38dd04f29",
+        "url": "https://files.pythonhosted.org/packages/58/09/7c053e65916acb9392601f5837b414e4747d83c96fbc9d3767a73b28fcfb/cwltool-1.0.20151110030107.tar.gz"
+      },
+      "1.0.20151112194920": {
+        "sha256": "7055c5dee9d61375cf736bc4dfb447981ba43eff62722616c512c1472012176b",
+        "url": "https://files.pythonhosted.org/packages/32/2a/2cf0838d3a2d3f8f59a55b77931f4e8853d5fb70cdf607855f979fd53637/cwltool-1.0.20151112194920.tar.gz"
+      },
+      "1.0.20151120220905": {
+        "sha256": "47e92830ac9c26bc59d29716d5cb5ccb5fc851c54fcb0542e4d0b02fe85bfd0f",
+        "url": "https://files.pythonhosted.org/packages/63/95/847abfea08a48ccedfff52b1ea986d0757e8f4e96111efbd2af7b0f0cc9f/cwltool-1.0.20151120220905.tar.gz"
+      },
+      "1.0.20151121025646": {
+        "sha256": "e3ea54f8d9611223a009eaaaeaad402efe33fc60347a7aab018439c5b7e3cae5",
+        "url": "https://files.pythonhosted.org/packages/f8/dc/2280423ffb4d5c7052889da2a46274f164b576d3a95b96442ae0bb0d3bee/cwltool-1.0.20151121025646.tar.gz"
+      },
+      "1.0.20151121032923": {
+        "sha256": "3d3124c23bb14f3ba680f93383804ec41444f0e327e77a9a5f58cbb9e7d25f4e",
+        "url": "https://files.pythonhosted.org/packages/78/49/be117ac630a3147745ad91071ea2e36ef866728686b31626a4b5d8fb61f9/cwltool-1.0.20151121032923.tar.gz"
+      },
+      "1.0.20151122025918": {
+        "sha256": "e63ae9c4352fc3c3b2ff3417f051edefcfe3e94f73025e217bf9c6868a9b3d79",
+        "url": "https://files.pythonhosted.org/packages/be/f0/09d2227d51a46626e5cb05abd6ad02455c8cf786ec47277f15bfec97935c/cwltool-1.0.20151122025918.tar.gz"
+      },
+      "1.0.20151124040259": {
+        "sha256": "e41ef437ff7e228912450e124836b117228a56a6b955232a06592363155f9557",
+        "url": "https://files.pythonhosted.org/packages/70/ff/2c5ee6c4cc90021ebccc903fea6fa6db377f4103678ffad392cf3650eb82/cwltool-1.0.20151124040259.tar.gz"
+      },
+      "1.0.20151124220039": {
+        "sha256": "def0dbaed99d5e1a12aca018290aa2446bc3c34f40c8dbb1fc3e1facf856aed7",
+        "url": "https://files.pythonhosted.org/packages/2e/23/d58c7bf00419597cb64e5f77901f70cc7fc29be45514900dfb51865551f0/cwltool-1.0.20151124220039.tar.gz"
+      },
+      "1.0.20151125172224": {
+        "sha256": "56483f08b122cd69761c5ef0cca94c3bd437102f1809f4c3ce72f46e4bfb1828",
+        "url": "https://files.pythonhosted.org/packages/f2/b9/c83f4e9e1400c32154ee0ce92eb9e9b6fc956b4c8aa3fbd40c7d59b4956a/cwltool-1.0.20151125172224.tar.gz"
+      },
+      "1.0.20151125211848": {
+        "sha256": "39f8acb03d76a26c4d751b3c0b619788c5ba5d02b0ba31b221a5f447eea8315c",
+        "url": "https://files.pythonhosted.org/packages/02/2f/e5ea87f29c7291fc9363f3d22009b96fc96073bf7544c74c79179975666c/cwltool-1.0.20151125211848.tar.gz"
+      },
+      "1.0.20151125221324": {
+        "sha256": "be74db7175dd5582233baf61587b43d697672ad054f6e53690f9579e6831aaf3",
+        "url": "https://files.pythonhosted.org/packages/aa/17/0a8af82f4d0848e9282279d17ab5d196be2213d3c86bd42c533ac4d3c9d1/cwltool-1.0.20151125221324.tar.gz"
+      },
+      "1.0.20151130190253": {
+        "sha256": "e2de081849ef0eef6d9e7acbe1c5109c876c609adaebc3de63d3fbc80fb77e76",
+        "url": "https://files.pythonhosted.org/packages/be/0c/9015bf95fceac20756ad75f2b321d752c61355808b827aac3adbcc0e38cd/cwltool-1.0.20151130190253.tar.gz"
+      },
+      "1.0.20151130204648": {
+        "sha256": "d7fa476d3455e7afa10b2eb68c73f24fab889bf3db872125fbfb7e02bcbd4f04",
+        "url": "https://files.pythonhosted.org/packages/3a/59/79f314c2b74272dc3ea5e90754b9ec3cb35fb817cfb676fa77da23ad65a1/cwltool-1.0.20151130204648.tar.gz"
+      },
+      "1.0.20151209160516": {
+        "sha256": "b5a192f0a9d25f69fb29a7534091d0487d363d8697ba8bb5084f289bb9563da1",
+        "url": "https://files.pythonhosted.org/packages/2f/2c/2e2570436747d4bd2ced24b6d54fb8969b188c54f12080e91bdae2e170a4/cwltool-1.0.20151209160516.tar.gz"
+      },
+      "1.0.20151210154014": {
+        "sha256": "88ab13fe19374682edc50a1ee1c79475ff8ebba80ce131c7fba527b5dd6b4b09",
+        "url": "https://files.pythonhosted.org/packages/61/52/06fb8c731eefdeb7dffe44865108dfaf5175a29d7afa6394b41d6d35b8d5/cwltool-1.0.20151210154014.tar.gz"
+      },
+      "1.0.20151211141743": {
+        "sha256": "003ed2c1a977360881024234049858c1400d270783857aa814d139d113e5a165",
+        "url": "https://files.pythonhosted.org/packages/2e/ea/a952dd938bb5b69a2f9884d479bf30a6a659f5bdab28bcdd859ef75d87c8/cwltool-1.0.20151211141743.tar.gz"
+      },
+      "1.0.20151211155311": {
+        "sha256": "8e95c1f8fefdf5cb115d7da8926497232e531bc7d4f767699a5a2c55d81d99ab",
+        "url": "https://files.pythonhosted.org/packages/49/a2/8bf301f1d0b0f57d72c7818eb58a7012aa90f525c02356f391e863018cba/cwltool-1.0.20151211155311.tar.gz"
+      },
+      "1.0.20160108161501": {
+        "sha256": "71d91e73568429ebc9730b4c325d855471b50462330a48c04508623c5f16f1cc",
+        "url": "https://files.pythonhosted.org/packages/50/38/b47cdcc281d4bc13bad09fd36af0a7a8478856c262c658d1100b885b8d35/cwltool-1.0.20160108161501.tar.gz"
+      },
+      "1.0.20160108200940": {
+        "sha256": "d13d9f4c53856757352be2223f0288e72129177ad6278022903bc1081ba7f31d",
+        "url": "https://files.pythonhosted.org/packages/25/65/0581abf2235564e80ffe4c647977d31fd2cd5053d00fb0d08e93dea537a9/cwltool-1.0.20160108200940.tar.gz"
+      },
+      "1.0.20160115132942": {
+        "sha256": "bda3e0764a491078d8d6a8cb8d948e4166265d4835ce8a7a59dd8e2606afa8ed",
+        "url": "https://files.pythonhosted.org/packages/2b/c6/633d6f9d7435b9d26babd9834f71884310c330110d205986fc7613b15a87/cwltool-1.0.20160115132942.tar.gz"
+      },
+      "1.0.20160126152227": {
+        "sha256": "a040afdf721e66f968d6503f3a182131bdc63b7c1929c61d7ae665680d6c369d",
+        "url": "https://files.pythonhosted.org/packages/58/05/2891c397cd044c63c17b21d6d9919706b9bfd31fca1f183af6925f261154/cwltool-1.0.20160126152227.tar.gz"
+      },
+      "1.0.20160126211726": {
+        "sha256": "10ff0b02949550c743f8cd1342cd0c7cd1569db0bc737ac5a1e36c87a3ab56af",
+        "url": "https://files.pythonhosted.org/packages/da/93/fd0885312894cda09ad4bcb04c7091ec7b6da15ab10e14f468cdc54caed5/cwltool-1.0.20160126211726.tar.gz"
+      },
+      "1.0.20160127144612": {
+        "sha256": "5a209c9502d5a05c6c9998178eaa282160d8fb74ab71ce2cf540403bac08130b",
+        "url": "https://files.pythonhosted.org/packages/8e/b3/c9326f44854d8ca71668070fb09746f4b0c1fe4f5d749de7db3d737eee88/cwltool-1.0.20160127144612.tar.gz"
+      },
+      "1.0.20160128142049": {
+        "sha256": "58a0ead067a941996e613fb343e645681f13a76fbc594df19cad6e4de3bff5a3",
+        "url": "https://files.pythonhosted.org/packages/43/85/80d149d3be68eedab8541e96ed0ca816b49769d74eca221544a40fc835ac/cwltool-1.0.20160128142049.tar.gz"
+      },
+      "1.0.20160129152024": {
+        "sha256": "b35ff28727c3b7dbc48a45994f8581f3d0ece47fde29cd7e119e6f1df64368b0",
+        "url": "https://files.pythonhosted.org/packages/1b/71/9c8693a109a5aeb27af3de4dff23a9c982e1d6f2b6137cb9323d7e8b19ed/cwltool-1.0.20160129152024.tar.gz"
+      },
+      "1.0.20160129161544": {
+        "sha256": "e0f32f155bf419a5d32469bf72445aecc0a03bc442afaf8258ea463e5d6f7cd5",
+        "url": "https://files.pythonhosted.org/packages/d3/48/15d439bc5837f912bf1ebe1ce11676308517581c9dcccd2091a0ceaaafcf/cwltool-1.0.20160129161544.tar.gz"
+      },
+      "1.0.20160129183049": {
+        "sha256": "1370c2548c5bee39b4544d8708e1b6ccf48d0b18fb79f229deda0cd6e3934c83",
+        "url": "https://files.pythonhosted.org/packages/ad/4b/694c5dd4da90205ba00e322cf3f7190d1da36aa2d5fe2857872fdd7a2e5f/cwltool-1.0.20160129183049.tar.gz"
+      },
+      "1.0.20160203144931": {
+        "sha256": "6b248a8963ea87292fcb39b3b84a04638185340976f4402b94eafed4b0947f14",
+        "url": "https://files.pythonhosted.org/packages/3e/9e/37b4e98aa02707e0913e24969c3865b79b29b03093d432b6429283f3d3df/cwltool-1.0.20160203144931.tar.gz"
+      },
+      "1.0.20160203221531": {
+        "sha256": "c03a70a06ae7449bdd56d2d3840253bbe8a707e1dc44beee2d5534eff8c2ec5f",
+        "url": "https://files.pythonhosted.org/packages/4a/71/569de239963474e2bc4aeaa6afffb33f704eeb1e07fa2964b5fdb47c2e75/cwltool-1.0.20160203221531.tar.gz"
+      },
+      "1.0.20160209222805": {
+        "sha256": "dc68dd5ce2c5acfc7464b9360590ad09bc89981247e4ffa8964c490703840564",
+        "url": "https://files.pythonhosted.org/packages/8a/b4/2c8353ef96863e5f80cf77c6adda911b94e63ecb159096852564f4bcb992/cwltool-1.0.20160209222805.tar.gz"
+      },
+      "1.0.20160222205901": {
+        "sha256": "242792cf8fb65ba3630b334d7798fa5d6f6c1550584c7b542c3f42b6dce5697b",
+        "url": "https://files.pythonhosted.org/packages/4f/1b/58d061cd21a46e70971add064cc40c224c75f64e03d829bf12778ed3524e/cwltool-1.0.20160222205901.tar.gz"
+      },
+      "1.0.20160225033850": {
+        "sha256": "925e979e653620504697914604c6a31fd88b368ba7a344873be1bddccf9d2653",
+        "url": "https://files.pythonhosted.org/packages/8a/ca/a6fce07e7f0c34041ff0812bba089f47a53b6babaf1e51070d2c325f299b/cwltool-1.0.20160225033850.tar.gz"
+      },
+      "1.0.20160225040942": {
+        "sha256": "4097e355ed637c0aeb899390a4b9979ccfd4d4bdfbc8bac94286af230b4fc762",
+        "url": "https://files.pythonhosted.org/packages/b5/eb/4579af6d03f66d9c35c41e60931217184d128f8cb93c253adfea612f0c68/cwltool-1.0.20160225040942.tar.gz"
+      },
+      "1.0.20160225202307": {
+        "sha256": "edcbd3c458c3a3e766022c576378fe0a781ea06ac5fdd7c46a03b2836af3b456",
+        "url": "https://files.pythonhosted.org/packages/55/df/5013c785e064c66e378117b66a8fdd1ea3bdb30ad011239197e4896804ef/cwltool-1.0.20160225202307.tar.gz"
+      },
+      "1.0.20160226205952": {
+        "sha256": "e3b6e30da5d83fdd4b11a6c17bb91b8b3c0e0da45739752f5925d986f77f97f6",
+        "url": "https://files.pythonhosted.org/packages/0c/a9/907417be56288e8ebbf2dcf182f202db5a0c08a2ad37e480f95ce84c0752/cwltool-1.0.20160226205952.tar.gz"
+      },
+      "1.0.20160302134341": {
+        "sha256": "ea3f656072b4aebf83128ea458f5e2972a93910f2722f63f6e82751762d36d68",
+        "url": "https://files.pythonhosted.org/packages/78/80/8da2dd56b74169c4cda76b907fbb9c0361d70969707864b7f7a7684f8132/cwltool-1.0.20160302134341.tar.gz"
+      },
+      "1.0.20160304012934": {
+        "sha256": "2c4b852794ab037fd3836ef63eb65b93e1e9ceaae682f7a88bdc0e9b1d214b59",
+        "url": "https://files.pythonhosted.org/packages/4d/5b/26cc4fa666063f80aba64dbf55c347cc55f1baa6d2d617641214dc27ff36/cwltool-1.0.20160304012934.tar.gz"
+      },
+      "1.0.20160307200623": {
+        "sha256": "cc86c5bb89bb6459b4222a37319f5ae1bf0c881c12d6352bd206529f2bef9125",
+        "url": "https://files.pythonhosted.org/packages/03/e6/0cf2f60de29f6be95b9b4540f79263d46a6b35a4513d9c19a0f04e567de1/cwltool-1.0.20160307200623.tar.gz"
+      },
+      "1.0.20160308152645": {
+        "sha256": "b780d123776baa3e1ea890b7b70e5ce81f300bc96397aa8c1f68779cb2e9ec9d",
+        "url": "https://files.pythonhosted.org/packages/60/d3/f574a72562935ab2721d4fb082596c1ab1b26dfd35b02f95919e4a7e8bcb/cwltool-1.0.20160308152645.tar.gz"
+      },
+      "1.0.20160309204538": {
+        "sha256": "3de5cc79e46b7ecc9c87156f412c40319eb6bc490b3e79b6401509817f2027a3",
+        "url": "https://files.pythonhosted.org/packages/da/84/350a35fe6a8847cb68742c18ad2ac03828e32a123f12318078a3e56e6263/cwltool-1.0.20160309204538.tar.gz"
+      },
+      "1.0.20160310140736": {
+        "sha256": "532de10fe75e3ba86bc3316294ca67ef0dd2c77c8379d8179f94b087f8f98b69",
+        "url": "https://files.pythonhosted.org/packages/17/92/a6b057653a1dbd0fcdb0bb9efc9d894ea2f121c48cbdf17fa277ef69bcf5/cwltool-1.0.20160310140736.tar.gz"
+      },
+      "1.0.20160310215251": {
+        "sha256": "d0615b236f6a438f1f498d09f78a0c8d64e7c320223a098e60cdfaaaf8e4ed42",
+        "url": "https://files.pythonhosted.org/packages/7b/5f/ca539613f19bd31b491b18f8345c0a7214ad1f69270763ca9fc1d60c5239/cwltool-1.0.20160310215251.tar.gz"
+      },
+      "1.0.20160311170456": {
+        "sha256": "8b007ab20a6dd501ce71b7377f4fd1667c6110c592255dfa84d25915492e8dbd",
+        "url": "https://files.pythonhosted.org/packages/88/e8/ffb7ba05e7c450d522524147a8fc047b3bde845e400f291011c1abb994d3/cwltool-1.0.20160311170456.tar.gz"
+      },
+      "1.0.20160311201238": {
+        "sha256": "c5e750770664788e1fbd0226e93a6e5a597a8597ae19c054c20d76136730ba04",
+        "url": "https://files.pythonhosted.org/packages/24/61/2ca218b601eecb8563d496689ca209c46a3865ff8f2b8524e04df8099197/cwltool-1.0.20160311201238.tar.gz"
+      },
+      "1.0.20160315233236": {
+        "sha256": "96aa163c59a681873be839c1f1584a8581c710bc56d1ccb686f2f0a4bc868963",
+        "url": "https://files.pythonhosted.org/packages/0c/67/3d60e17aa6f4d72f82550c32e08da280edd72cfb076d0ef3a56a547f7837/cwltool-1.0.20160315233236.tar.gz"
+      },
+      "1.0.20160316150250": {
+        "sha256": "aff48e994d746e658aa1212ccb20ed643288e5b48aa31546faaca0a4667fb2f2",
+        "url": "https://files.pythonhosted.org/packages/4e/80/d7006175c8e135ad7a73e531b2c22478a8f051994afa05f42a86faf9a9b3/cwltool-1.0.20160316150250.tar.gz"
+      },
+      "1.0.20160316204054": {
+        "sha256": "d9f0f394c6eb0cd7f28db2f7765bdbb43b8446bacc49770f60ff577903caa372",
+        "url": "https://files.pythonhosted.org/packages/39/c7/ae50a33f1faf7504da7b07ee6dfce430703faa9eedfb4a49b8a82b262904/cwltool-1.0.20160316204054.tar.gz"
+      },
+      "1.0.20160322201127": {
+        "sha256": "df2afde0a1c8c6b98ac0626e0418305881b4d720bbf16808ab596d6ed2d69806",
+        "url": "https://files.pythonhosted.org/packages/33/6a/a9feac94e2c0dd811b91c0a1922307f1620d06b24dfe17f3c3905b24cb85/cwltool-1.0.20160322201127.tar.gz"
+      },
+      "1.0.20160323212343": {
+        "sha256": "026afd375990a2e8b7a0e081be817890dfa37b342b2ff9e53b31cc636e11897b",
+        "url": "https://files.pythonhosted.org/packages/aa/94/2dc14c204d568eea0395f6fd74f52e2a781412782e7bf34a9e3f0c6d663f/cwltool-1.0.20160323212343.tar.gz"
+      },
+      "1.0.20160325200114": {
+        "sha256": "80badc52d9daffcffe43d2b964b03ecc09a54c0f56ec54c00b5755c57a6daabc",
+        "url": "https://files.pythonhosted.org/packages/c3/44/d3e938bce74f3a09529b1df91536599949414f9dd63e70884c6a95db867d/cwltool-1.0.20160325200114.tar.gz"
+      },
+      "1.0.20160325210917": {
+        "sha256": "9abded65a2103a2eb165571f856fc9391e2fd2d62a47db3ac0ff6b528df6b031",
+        "url": "https://files.pythonhosted.org/packages/47/3e/0e6744c34c06cd4ddd6f656a2247c75876c340ecbb2376bd3d8e14f82081/cwltool-1.0.20160325210917.tar.gz"
+      },
+      "1.0.20160331184641": {
+        "sha256": "74c7b7e458eb8f21d3c440d7dd9e8be76c07333bbdfa1832ec77e3d3a511c7cb",
+        "url": "https://files.pythonhosted.org/packages/4b/9f/bf0ddb881c4aa6ba5065011781b6444c0502743aa4fcd6069b03805f399c/cwltool-1.0.20160331184641.tar.gz"
+      },
+      "1.0.20160408133555": {
+        "sha256": "f60187fc4aee9bc1bf812ad797067fc3cedb1fc4bebac0c8717a445be40caddd",
+        "url": "https://files.pythonhosted.org/packages/7e/48/5cb2dce38e24ba2d45931be9b56a64a4df64e5a7293aadf81afc05e233de/cwltool-1.0.20160408133555.tar.gz"
+      },
+      "1.0.20160411021840": {
+        "sha256": "7cb829b5a0da35a6c33e2b87c05f6ac1cc0fe38cab4343e549872c53c194beff",
+        "url": "https://files.pythonhosted.org/packages/f5/8b/d869f909c6e297fe1a12c34be51557045aa86c5cd5466dc71aeacf03b66a/cwltool-1.0.20160411021840.tar.gz"
+      },
+      "1.0.20160411194133": {
+        "sha256": "07d229f291003a04b4a547f42f27641a495e21220f09159ba5a637bd0a2e31c6",
+        "url": "https://files.pythonhosted.org/packages/f8/82/93b5724fc53644cf3dc432bcb8295b7d62bb63a0baca480fc31a4747f805/cwltool-1.0.20160411194133.tar.gz"
+      },
+      "1.0.20160412203002": {
+        "sha256": "4eec39eb3abd3e88470db51193dfea144f6fea3a474df536ec1a2110d3b886b6",
+        "url": "https://files.pythonhosted.org/packages/65/91/e7c5554748d3c2bb7eb0f46e86bb6f3fd3e08207a8bdde38f8dd3b243b1c/cwltool-1.0.20160412203002.tar.gz"
+      },
+      "1.0.20160413143011": {
+        "sha256": "8460d81f348fd989cb6dc20230f7ee1ed8c99f212dd6ca9103007d00e4c61938",
+        "url": "https://files.pythonhosted.org/packages/86/69/d03c9754d00a0c337d64797c83e63ed9d9b49014c10d6e87b541818f6a30/cwltool-1.0.20160413143011.tar.gz"
+      },
+      "1.0.20160415153333": {
+        "sha256": "86e2ce86b58a4d2348e441c3663b3fa969f1e69ef9775b372cb3a70089563196",
+        "url": "https://files.pythonhosted.org/packages/81/0f/93d867cb14bbb5c16f8448cd5fb60c12510f47e5341e851cf2dfe995278c/cwltool-1.0.20160415153333.tar.gz"
+      },
+      "1.0.20160421140153": {
+        "sha256": "039beea7afba04852309ec0581385b1637fef89147ca57956bdec3349167195e",
+        "url": "https://files.pythonhosted.org/packages/e7/de/d827c8b5e79b079b6961fc16a6033f52dd87ba7acec9f1bb81b0e66b0bcb/cwltool-1.0.20160421140153.tar.gz"
+      },
+      "1.0.20160421171618": {
+        "sha256": "09b789b1ac473d4d07502e2acaa93c0570749371da487fbe0dbfef8b76d3c762",
+        "url": "https://files.pythonhosted.org/packages/35/c8/6bd856eb934b434f5fd682cce7041d3859df772e0684aadcaf63c66a6a47/cwltool-1.0.20160421171618.tar.gz"
+      },
+      "1.0.20160422203349": {
+        "sha256": "f0b0b87dc010e54c4602069927683c5e8692fbeac7e1a3cfc97aafea8fcc6f7c",
+        "url": "https://files.pythonhosted.org/packages/bc/3d/257fbbea1a33a884843535e37997d26453238c2ebdbae3caf5b6dc63528c/cwltool-1.0.20160422203349.tar.gz"
+      },
+      "1.0.20160422204730": {
+        "sha256": "b14201e00c4c6a9d09ce64ff9b7c4409c01930e54dd0f78466d9414059f56c7b",
+        "url": "https://files.pythonhosted.org/packages/0d/50/4b92010907d8aa13edb2cd1ee53db46bc21e3fd10c48347db12d6392b8aa/cwltool-1.0.20160422204730.tar.gz"
+      },
+      "1.0.20160425140546": {
+        "sha256": "c2a77cda737406ae2c64ffea3cf178476d9abfd8f4ec151df7db0903f7eec5ef",
+        "url": "https://files.pythonhosted.org/packages/d5/1a/97baad4c2c687e3a392b7fe93da6b0048fc9a52f1ed3c216a9ab942e4e1b/cwltool-1.0.20160425140546.tar.gz"
+      },
+      "1.0.20160426185417": {
+        "sha256": "24cb31f059187494e894ce6b6abcebec0e7d66eb79dcc10968ce6508055b8904",
+        "url": "https://files.pythonhosted.org/packages/4f/05/04ef8c567cf5bbe4e23537d687696b0999651f9c0b8b04468a352b9b4b95/cwltool-1.0.20160426185417.tar.gz"
+      },
+      "1.0.20160427142240": {
+        "sha256": "4b47b98ffacc2076fa1df6001cf2fb8e0852118672b6fe6f212e9ded5af58ebf",
+        "url": "https://files.pythonhosted.org/packages/b6/4e/5d015bbc4eef04dcd5411e19e4a2788c6a38ae260fd8fe14b34672464932/cwltool-1.0.20160427142240.tar.gz"
+      },
+      "1.0.20160504183010": {
+        "sha256": "f824ac642bef14d5b013697467e899bd630e2a167eb59c4dbc9c60c677aa8b04",
+        "url": "https://files.pythonhosted.org/packages/a3/a1/cc38b07c3645526d0d07e643bba985ceb231ad85bfcf60a766ef57f217d1/cwltool-1.0.20160504183010.tar.gz"
+      },
+      "1.0.20160505211047": {
+        "sha256": "59904f2c4aa53abccb76e19b1d4a4e1979947b1ffd7db1ef78e05988289c7949",
+        "url": "https://files.pythonhosted.org/packages/aa/0a/f3fe8159fc74a2bef0e5e8bbe73126129cddbd7f4af77122aafc00eacb85/cwltool-1.0.20160505211047.tar.gz"
+      },
+      "1.0.20160507101510": {
+        "sha256": "30a822e8d79ab0199da6725fdc1a3ba4ccdb826bc3ef9432d573d02546f5dbd5",
+        "url": "https://files.pythonhosted.org/packages/5b/ad/c1f165804fa7dfb5c43345b1f9797f0267532fb1a73fa42fd6b4a36a60dd/cwltool-1.0.20160507101510.tar.gz"
+      },
+      "1.0.20160510161706": {
+        "sha256": "37e85abea3cd3457a81548e0bfb023d83e3452df44b4c601b13b05c0fce2265f",
+        "url": "https://files.pythonhosted.org/packages/e6/f6/d34e34c28bacbec8a145f1a09b726dc41d23c78b3977c13272344c0a5c92/cwltool-1.0.20160510161706.tar.gz"
+      },
+      "1.0.20160511142738": {
+        "sha256": "fa4a497202da7084a636cedfbc40d21ee03660b2e3476b6ce967b763ef7bac6c",
+        "url": "https://files.pythonhosted.org/packages/8e/5a/7e7a88cf13d6accdf139d588c4dac8f5aa4b31e6c3728b25c47f6e149c56/cwltool-1.0.20160511142738.tar.gz"
+      },
+      "1.0.20160511162129": {
+        "sha256": "3a3f24aa9f11f3d5b8778fef556ba18c82b4e71334c407f9d17a7985d25f890f",
+        "url": "https://files.pythonhosted.org/packages/83/27/033a7514764977e4b03b7bb1fe4a47cb0fe58cc2896158f5606d9670cc81/cwltool-1.0.20160511162129.tar.gz"
+      },
+      "1.0.20160511213450": {
+        "sha256": "847f967564757cf0739cbe2c929f35470cf2fb3a50f4cae14f4fad4b0c84e6d8",
+        "url": "https://files.pythonhosted.org/packages/c7/b0/32171214288c95f2ef06fcba6ee13407ce1017dad135d749603d65d9a67e/cwltool-1.0.20160511213450.tar.gz"
+      },
+      "1.0.20160515155531": {
+        "sha256": "021c8c9e635eeb61fb5372e5593a12cb1f35f0372404e48673eca1943fede5c3",
+        "url": "https://files.pythonhosted.org/packages/83/26/8eed6ae9db5f12a45183ca91d6fc984fa27211ef53fe568d62471787c81c/cwltool-1.0.20160515155531.tar.gz"
+      },
+      "1.0.20160518200809": {
+        "sha256": "9f6f03089efb1ddf9c51ecab2f6c159d1dd8e02d8088bc2d8b95bd75e6cf2aa6",
+        "url": "https://files.pythonhosted.org/packages/87/55/1c4ef406072391c36890e102f82b57ae8cb08b1661a3bbb2b77c394f2b28/cwltool-1.0.20160518200809.tar.gz"
+      },
+      "1.0.20160518201549": {
+        "sha256": "56d48a7821c727a22a0d3bc1e8d0bb0bd6a2341f511cbe7902d86bf56d492c37",
+        "url": "https://files.pythonhosted.org/packages/04/e1/95ba1eadd550118f55a0b95287de811a7830045f052280f368ce93e2decf/cwltool-1.0.20160518201549.tar.gz"
+      },
+      "1.0.20160519182434": {
+        "sha256": "15e3f55fb3973fdcef2b6174737f015a4d1ad54ded9d20cae89e289ce279c223",
+        "url": "https://files.pythonhosted.org/packages/ed/8f/f13bab757c172891d8641262671554823fd48bd1834bffcea98025a75598/cwltool-1.0.20160519182434.tar.gz"
+      },
+      "1.0.20160523144113": {
+        "sha256": "975b0f28fb669f908c109dde47d4b7b1d3042ea54810bedf5001ec6a941edf08",
+        "url": "https://files.pythonhosted.org/packages/44/e7/1db5f5d0c6abdfc92f6496128a7b30367bf53790c4e229b68f8023f1bfd4/cwltool-1.0.20160523144113.tar.gz"
+      },
+      "1.0.20160531173804": {
+        "sha256": "07c99e019dc012265d01539d93eec586bd3c1ad810536505a8d7c82b40ea5f4a",
+        "url": "https://files.pythonhosted.org/packages/c0/2e/9e5a09d77252b55ccc27b2a1534ac4b622543fe6cba0b220eb2e0811c228/cwltool-1.0.20160531173804.tar.gz"
+      }
+    }
+  ]
+}

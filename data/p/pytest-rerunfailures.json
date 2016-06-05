@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "pytest plugin to re-run tests to eliminate flaky failures",
+    "homepage": "https://github.com/pytest-dev/pytest-rerunfailures",
+    "license": "Mozilla Public License 2.0 (MPL 2.0)"
+  },
+  "versions": [
+    {
+      "0.03": {
+        "sha256": "c37c9c3bee93f4d50f6145a134ae971bda57c37faa156dcf6deb2c4e9ff124e0",
+        "url": "https://files.pythonhosted.org/packages/47/9f/4b1dea735b5e419e0b6ba7772699504b3676f22afedafca4a4a8b4b16334/pytest-rerunfailures-0.03.tar.gz"
+      },
+      "0.05": {
+        "sha256": "3fb7e7ec1b9c3bd7ae734c6ae5712b9ac02313a34ced227170d0f638a2b854a2",
+        "url": "https://files.pythonhosted.org/packages/6d/c8/63efac7b3cfd4ff2c488b0fc8cf54decdd8cd422a1614c216da9571bc931/pytest-rerunfailures-0.05.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "4d835c7db49affcc857a4aa138922b66dae5caf83112fb50b0aa537803f79bf5",
+        "url": "https://files.pythonhosted.org/packages/e9/fc/584d4a1ce34bcaa71ba73fcfb1a75edc46535c260361053f14f5afc6d7d7/pytest-rerunfailures-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "afaf6928a3824dc6543c826c18af19f1bce497ef7596dfdbfaffe6558c16abe4",
+        "url": "https://files.pythonhosted.org/packages/15/b1/346bffb2a25ef5aef4e191dc0b95d4eea01a38b8152109449583ccdceccc/pytest-rerunfailures-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "1fffd37a252dc9861a84097eab65584dad962a859c41db2f58fb42d7373efa89",
+        "url": "https://files.pythonhosted.org/packages/38/da/970cd83aa34e709444bdf6ca1122541fceb7d6093bd17c9488f2add7e59a/pytest-rerunfailures-1.0.2.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "46411d14bdd53945ac2cbfc3572c4e2543908fc4620fbcce8c41430580365b89",
+        "url": "https://files.pythonhosted.org/packages/fa/3a/0660b6afb1e01656fd2336884a7248d51c07ca16ab9edca969e82b26b9e3/pytest-rerunfailures-2.0.0.tar.gz"
+      }
+    }
+  ]
+}

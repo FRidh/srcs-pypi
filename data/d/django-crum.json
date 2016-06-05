@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.6.1"
+  ],
+  "meta": {
+    "description": "Django middleware to capture current request and user",
+    "homepage": "https://projects.ninemoreminutes.com/projects/django-crum/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "3d33635452ac3316cfe07eec870434600defff1ab45c8a87b0fbb228f23e4475",
+        "url": "https://files.pythonhosted.org/packages/7c/50/f2f3924387e6a6a1324bafa7e5fb9ee5885584a6aa0d9eb3fefb3df65eb3/django-crum-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "2353a8efde0539c543b41365f50415cd8859b604ac806b67fd36481353f30ee4",
+        "url": "https://files.pythonhosted.org/packages/ed/d0/49e240806f6fb70003506318cffd02fa82daf629fa4838d57e339d952d3e/django-crum-0.5.1.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "a227bc34c2a471df5fe6eb258daa0b7fe097b721ffc689f4f3cedda1e24bfc8d",
+        "url": "https://files.pythonhosted.org/packages/db/60/b2c6ea85a304188ab5a7cc739e6c92fd73b7c7a4e743cba5a6d3c53e071d/django-crum-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "3b811d6e8e3528c0ca1aacbc92075cb4ae7362bd89bf0976261be486710b3056",
+        "url": "https://files.pythonhosted.org/packages/24/e4/d5c19f166a19375fae5417378f05c29cf825a8408515b01bf7b70078d05c/django-crum-0.6.1.tar.gz"
+      }
+    }
+  ]
+}

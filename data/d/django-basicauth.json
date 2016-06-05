@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Basic auth utilities for Django",
+    "homepage": "https://github.com/hirokiky/django-basicauth/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "d764f54d0eff5e266ea087084c5af45837a6aca0ad917a4be62f79ea2eab9e80",
+        "url": "https://files.pythonhosted.org/packages/14/65/77504d4dca8c1aa8302047d1f0639c8971abc2f8f04cf869f542cbd8aa08/django-basicauth-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "25a3cf94219b3e301cc82f285c1cc677ae06f824b36990d7bd019c87beff258e",
+        "url": "https://files.pythonhosted.org/packages/9c/3a/84a3311061248fb4de5219f1bbd2755bcadfd5517d05f739e9da2ae9b004/django-basicauth-0.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.3.3"
+  ],
+  "meta": {
+    "description": "An automated ingestion service for blogs to construct a corpus for NLP research",
+    "homepage": "https://github.com/bbengfort/baleen",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "1b9a43f99c024a2d158adf529c7b48d6392637e2d221c8eae2f1c388fb009428",
+        "url": "https://files.pythonhosted.org/packages/93/9a/0317aa04062d3f17075aca6ecf9d6462a839beb7d253de5e28cc39164b70/baleen-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "23681cb53251b81c6dfc07d808e9dca2ed49e0dc6839b9616b065359a7fc6e4e",
+        "url": "https://files.pythonhosted.org/packages/58/5d/3f0673af58bf0aad50a40d5003595273a25b5371ae5f39955d6aed3628fa/baleen-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "9eef3f43b529af652d94badf6b642a6845dbe26c40d40b9002a7c363173f2d53",
+        "url": "https://files.pythonhosted.org/packages/96/59/79a3a7874ed2f9593d682394563b0e09879918dc9d850aafa336b6308c60/baleen-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "1bd7753031fcf9dbf2018ab7c167a665189db343a70a2d0229a7c21e719d121a",
+        "url": "https://files.pythonhosted.org/packages/df/3f/f0242c309e69556d0f111b38ac3d22b1a1f6eadacb60de1e343d81f5e22b/baleen-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "a28bfbdd28a9dbdd589a5d026f8e5292b08fac90b9d541370d3286e786a73ff4",
+        "url": "https://files.pythonhosted.org/packages/f0/fc/bf2674da3a3f4cfdb0097cf8dd28a76722c7058f9cad2325c6ad23ef8098/baleen-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "62af5a325dc5e378c3e31a444d825ae67150f1dca5ef77c9646a9ffac8e5b500",
+        "url": "https://files.pythonhosted.org/packages/b1/b5/5e11b384815555b6775d49e86438d5b702dfa6e934a1a5341d43f7194d3d/baleen-0.3.3.tar.gz"
+      }
+    }
+  ]
+}

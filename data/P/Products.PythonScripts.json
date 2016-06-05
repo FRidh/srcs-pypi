@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.13.2"
+  ],
+  "meta": {
+    "description": "Provides support for restricted execution of Python scripts in Zope 2",
+    "homepage": "http://pypi.python.org/pypi/Products.PythonScripts",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "2.13.0": {
+        "sha256": "a8339d9e24cd47e666c6c16eb4e4a2441ef6ad076282fbaf64595bbe77781b1c",
+        "url": "https://files.pythonhosted.org/packages/5a/23/3a915021ad9b046c170204f1c5c9914f472d35c01f629ddce162a7a2f82e/Products.PythonScripts-2.13.0.zip"
+      },
+      "2.13.1": {
+        "sha256": "1244d73d435762ac69abe4d0b43b6e3ae5a519b3aea757b4be5a8708016c6aa0",
+        "url": "https://files.pythonhosted.org/packages/67/f5/d3028e5b07508c6ef46b3e4ce0866fd173cbe7a99d9133014c76821bcec4/Products.PythonScripts-2.13.1.zip"
+      },
+      "2.13.2": {
+        "sha256": "c1ae5a73850a7fce5bfa4c1abd598149e9c6dc1f81271b002e4dc6f8fce595b5",
+        "url": "https://files.pythonhosted.org/packages/69/10/354788f825c17a015d189ce0e9c365934383f779b95ad585c170f7becdf8/Products.PythonScripts-2.13.2.zip"
+      }
+    }
+  ]
+}

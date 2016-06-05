@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.3"
+  ],
+  "meta": {
+    "description": "Send summary messages of your Luigi jobs to Slack",
+    "homepage": "https://github.com/hudl/luigi-monitor",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "dfedfcff6b6b37ccec2fd696531262d186638bf520b36920fd0c249ddb4c71fe",
+        "url": "https://files.pythonhosted.org/packages/f8/1c/eb615ccdd7c3b30320c3115bf675f000017304b6fb754bb4f91be0853983/luigi-monitor-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "42d1281da20d399f734a5b7103cf8c6861c176a7203ea4794a16ad1463e53a78",
+        "url": "https://files.pythonhosted.org/packages/e2/b5/6dd8ea2a39a0be5bd51a427091f563b200b835ced588551d5eac70e870c7/luigi_monitor-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "c68f32c8e5f86e0a2f3c2fb10e10789cb3449907abdc09bfec05bf43ae10c015",
+        "url": "https://files.pythonhosted.org/packages/bc/c8/ed196e38a9f01fedeecd4c38916a4f8f89cf1110d10da21d946da7603741/luigi_monitor-0.2.2-py2-none-any.whl"
+      },
+      "0.2.3": {
+        "sha256": "309df9897b2a87e344b0ec223d2bb24602d444a671bbbacd273adb98d62f7349",
+        "url": "https://files.pythonhosted.org/packages/d7/e8/471f1a6f6da6e85011f691512a69f0514bcaa13fa28d5bfef99e739ed06d/luigi_monitor-0.2.3-py2-none-any.whl"
+      }
+    }
+  ]
+}

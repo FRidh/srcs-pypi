@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Wrapper around libguestfs/libvirt for specific workflow",
+    "homepage": "https://github.com/mikewaters/hobo",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "f50fe79ddfa6f59c2b2abbb852a133f2b90696545393ea2aa272f370b63d16d2",
+        "url": "https://files.pythonhosted.org/packages/ad/4a/0e0ee92d5f3107095db84348b4744f18ffbabd50ab5f467ea4b165cb380c/hobo-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "e87e2495bb7afc1110baf894394ab8837274a8cf5a150b2fff3ea45f0ab9a0ad",
+        "url": "https://files.pythonhosted.org/packages/13/24/4a570bb6f8769909e9ec00e28e757c42aefada0c3de7a72452654803b2c7/hobo-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

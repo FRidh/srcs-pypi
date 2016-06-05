@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.7"
+  ],
+  "meta": {
+    "description": "CRC Generator",
+    "homepage": "http://crcmod.sourceforge.net/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.5": {
+        "sha256": "e3b0b6cf669bdefe9e6c7720473ba803b04a8ee766077f4bd046b3dd4d9446bb",
+        "url": "https://files.pythonhosted.org/packages/3d/ec/5760df0c7f03d6e99d6065b5e00da26ed290f2b99c9597ebbb29d52ba15a/crcmod-1.5.tar.gz"
+      },
+      "1.6": {
+        "sha256": "56d27d035ea029c6ed96779ca042c0136d39d106e3c30baa6422738c7d86aaa5",
+        "url": "https://files.pythonhosted.org/packages/c1/35/f63f75068e1e9c4b54522c3fefb7134b5d91917fdc33f17e2889e0f4590c/crcmod-1.6.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "7162e6a0a73aa8f59fd9858b82a9809e37145db35e0185dd5583363834fd80cc",
+        "url": "https://files.pythonhosted.org/packages/af/4e/b0240e521498259933747774d14fbadbd0356529312928cfdd66cb0178d9/crcmod-1.6.1.tar.gz"
+      },
+      "1.7": {
+        "sha256": "dc7051a0db5f2bd48665a990d3ec1cc305a466a77358ca4492826f41f283601e",
+        "url": "https://files.pythonhosted.org/packages/6b/b0/e595ce2a2527e169c3bcd6c33d2473c1918e0b7f6826a043ca1245dd4e5b/crcmod-1.7.tar.gz"
+      }
+    }
+  ]
+}

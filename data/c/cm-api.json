@@ -1,0 +1,50 @@
+{
+  "latest_version": [
+    "11.0.0"
+  ],
+  "meta": {
+    "description": "Cloudera Manager API client",
+    "homepage": "http://cloudera.github.com/cm_api/",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "10.0.0": {
+        "sha256": "9982fabf89ad9cef92bfccd8e27e17884c3667a9bc8a25ab7ea5595f0a695afa",
+        "url": "https://files.pythonhosted.org/packages/2b/d9/103c84676edfca5cf7931c98c31e51dbb7b9154f25d17dd99a608b6d187f/cm_api-10.0.0.tar.gz"
+      },
+      "11.0.0": {
+        "sha256": "c3978d827c2dc91596720a46c6353a6b1333153b60892c5620a408d8ee0a3943",
+        "url": "https://files.pythonhosted.org/packages/57/93/39c89a819f83e0e011eb25f9417e8f7e11a9a95fa13d6ebfc1493c399f97/cm_api-11.0.0.tar.gz"
+      },
+      "3.0.0": {
+        "sha256": "db2643f3cb60cce1e9c190d99487d0bd09aa3ae6c9b0aef7c4fee4dd5bb01f95",
+        "url": "https://files.pythonhosted.org/packages/ec/bd/69d5fc5042a8242d5ae699ce61702482ea9c84724549fba56621e43e02bd/cm_api-3.0.0.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "4dd2ed70c8f697ea84bae6af716181c3637e77948b638ba6149fa8de5aa5cbd6",
+        "url": "https://files.pythonhosted.org/packages/ea/61/4d4823c05e79af994de2e59aaa04b6b7a1b7eddc8f03d57fb8d9a59298a7/cm_api-4.0.0.tar.gz"
+      },
+      "5.0.0": {
+        "sha256": "a15cc0d692c2e8bb925b8506245802370fcffff604ef583a74ccc932c6ee3d37",
+        "url": "https://files.pythonhosted.org/packages/0c/e9/6b8cf242b08036555f4280ea6d7dbb01b107baf7e5e6ff1e4bbfc502cf2c/cm_api-5.0.0.tar.gz"
+      },
+      "6.0.1": {
+        "sha256": "918fb1c8d820690bbdc5c387559bcd983dd8dd04997858a4ed3149a5f5e53d52",
+        "url": "https://files.pythonhosted.org/packages/84/e3/0616f4d8aa342dc34b2e82bbff5fd8f7045eaba78b3c94daf5e66b8f08d8/cm_api-6.0.1.tar.gz"
+      },
+      "6.0.2": {
+        "sha256": "e7f50a5157a5e23426dc371a3ca28412a0e75c32a594d77cf0e532d540f36727",
+        "url": "https://files.pythonhosted.org/packages/fe/66/197524151aaaa080295492d390a5b374d2c67a1aa1551a10fc6cd8324b05/cm_api-6.0.2.tar.gz"
+      },
+      "8.0.0": {
+        "sha256": "8234778b3d46c51d02946dbea8b4e652c65645260cd2fb518854eda1a84ff238",
+        "url": "https://files.pythonhosted.org/packages/85/72/3b8da5e4ccce88e70de963ed128b673004c8c5ee3ec98c195422521f5747/cm_api-8.0.0.tar.gz"
+      },
+      "9.0.0": {
+        "sha256": "aab50f12b95c096896243f57b4cadb30b470c41012571e2d759ca3191830ddf6",
+        "url": "https://files.pythonhosted.org/packages/ef/8f/8d6f3fe12974ff112c18851b946b9ea5a5e0b922533ae96e5e5f34b47b16/cm_api-9.0.0.tar.gz"
+      }
+    }
+  ]
+}

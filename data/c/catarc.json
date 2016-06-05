@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Tool to output uncompressed contents of (multiple) archives to stdout, without writing to disk",
+    "homepage": "http://www.cryto.net/projects/catarc/"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "98d9ec467d8965bb7a14d11c437e036255a124526a6575ca6b707aafb1d981ca",
+        "url": "https://files.pythonhosted.org/packages/09/13/51db75237cb6e45e34de7a097225624f3b05eaa605e4d664857c8c9ef508/catarc-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "f365a972512fcd991fd0c069162c0ab7613decf1fb8f17e4f1aa5bcf82483b71",
+        "url": "https://files.pythonhosted.org/packages/46/9f/f27a1e6695acb574a269c59f4f0291af7784169ffb2726616ef45d9d8bef/catarc-1.1.tar.gz"
+      }
+    }
+  ]
+}

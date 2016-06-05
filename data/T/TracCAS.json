@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "2.0.1"
+  ],
+  "meta": {
+    "description": "A modified authentication plugin to use the Yale CAS system",
+    "homepage": "http://trac-hacks.org/wiki/TracCasPlugin",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "2.0": {
+        "sha256": "67efc74a789ee384f5925089a234b8fa09ed5ac480f9b059b06d63ed5e7797c7",
+        "url": "https://files.pythonhosted.org/packages/7b/5c/91c688d4c0062bdb540ed2f7c54b2ffdbe23bc6898230d0496a8da15f1a2/TracCAS-2.0.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "bcd9f52a024086e04b84568acaeb0ab640d04b40539525cf69f68adb5c5ad0c5",
+        "url": "https://files.pythonhosted.org/packages/83/45/84699b83acdafbd5d160c61aea54a11885506e7cc3fe926058f86979ce48/TracCAS-2.0.1.tar.gz"
+      }
+    }
+  ]
+}

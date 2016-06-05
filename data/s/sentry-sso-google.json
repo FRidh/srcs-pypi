@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Google SSO support for Sentry",
+    "homepage": "https://github.com/educreations/sentry-sso-google",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "465bb444570e41e7e604ec0234874f2e0cb7ce91973fd708919fdd0bf2ebdc8d",
+        "url": "https://files.pythonhosted.org/packages/01/b6/4a5b68fdd47d1281e527e9f919fb0b9a1531bc683544a41bf76331866b4c/sentry-sso-google-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "02334e942e16bc896f8f8ecd0b57eb407ca3c3d3bb328ccfc953de7c87a1fc33",
+        "url": "https://files.pythonhosted.org/packages/f5/15/de65e34fff8184cfa3b02b30407b53d9893a82aacc264511999067564165/sentry-sso-google-1.1.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "cdaab103d71ac7f46bcb1789927753087c62244a1e3ad49a1f5872283b15c31a",
+        "url": "https://files.pythonhosted.org/packages/ee/3d/1d7d90582ef1cc9f0ba01170d1ce011979c71f79201ff400c624415604b8/sentry-sso-google-1.1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "4e69c547ac99174e7b9073e0f804d2f39e21106c16bd0fc917ecf920f1c1b71b",
+        "url": "https://files.pythonhosted.org/packages/4b/05/11dd94d884fe7f2f1688235a728366fc93bbf60dbe2fbb598234449200aa/sentry-sso-google-1.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.0.2"
+  ],
+  "meta": {
+    "description": "Async Redis connection object using Greenlets and Tornado",
+    "homepage": "http://github.com/svrana/gretis",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "346fbffa7be208ea07b821be623cb5e36f3c7f523e16807c7204eeb941a2436d",
+        "url": "https://files.pythonhosted.org/packages/d1/20/18f160c171ae944d9645b2b566245a4b4928907cafcca65fa0ef05405f3e/gretis-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "baa29b150507abc5bec1e5009249c54dbc19592c99174e3c8d84bce8b6caf3ac",
+        "url": "https://files.pythonhosted.org/packages/d3/d1/59c0dbc6e05dcdc926189269b25aa98753c01302b0f89f516fcd8be14d20/gretis-0.0.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Log-Dump is a Python script to dump\n\t\t      and generate all Windows Logon Errors,\n\t\t primary the 4625 and 4771 events on\n\t\tWindows 2008 / 2012 Servers and\n\t\t529 on Windows 2003 Servers",
+    "homepage": "https://github.com/gcavalcante8808"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "8e9a39c9ba002274a0a5fdd006a2e3d5f480c44700301873436f7e023181af7d",
+        "url": "https://files.pythonhosted.org/packages/e5/e8/1467a3ad0ecfb81462c56b4ebcef19511ee7e6c8c6f303fe81db59ffa28e/log-dump-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "57864d3f5b96de80b9f517e7151ae23e49286c249e248cdabde55f993da6dc9c",
+        "url": "https://files.pythonhosted.org/packages/78/5a/dd466474730cf14116fecdedf66dcce7970e67601347155b8ae9d337c245/log-dump-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

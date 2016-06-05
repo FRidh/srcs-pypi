@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "2.0.1"
+  ],
+  "meta": {
+    "description": "Like NetCDF and NCO, but works with NetCDF and other scientific formats",
+    "homepage": "http://github.com/barronh/pseudonetcdf/"
+  },
+  "versions": [
+    {
+      "1.0rc": {
+        "sha256": "af648f3fbffe01f3cb0cf85151cad268409db7303e160f42e486aaf160f28b97",
+        "url": "https://files.pythonhosted.org/packages/62/f0/42d85220142fe9646e178c7e30a752fe5cca08901b1c1eae8a089875d711/PseudoNetCDF-1.0rc.tar.gz"
+      },
+      "2.0.1": {
+        "sha256": "2a46d4475fcb64c6b220065e787c21eac044b1fcc2702ab0ac42346172f2d3cb",
+        "url": "https://files.pythonhosted.org/packages/69/b9/55cab7b33427d5898ee72ffd51729cfa19c372dc0d797b7303b8af803680/PseudoNetCDF-2.0.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.4.1"
+  ],
+  "meta": {
+    "description": "An implementation of django forms using mongoengine",
+    "homepage": "https://github.com/thomwiggers/django-mongoengine-forms/",
+    "license": "New BSD License"
+  },
+  "versions": [
+    {
+      "0.4.0": {
+        "sha256": "1fc5131feb6bf66b8c6774eeda9a81b630cd0513e59d62a7f4be0538c319e200",
+        "url": "https://files.pythonhosted.org/packages/41/d1/7577f2f283d62f0e786ea603c8d3399affc3eb2e794f677a648d4f9835aa/django-mongoengine-forms-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "097a918a649a9d1ba72d51dea5ae67e2fe25bba5449aae476b55751483cf4cd3",
+        "url": "https://files.pythonhosted.org/packages/13/53/dc3291694a899243f28b78d5bd82b992283367511eb2a03635b688a5a5be/django-mongoengine-forms-0.4.1.tar.gz"
+      }
+    }
+  ]
+}

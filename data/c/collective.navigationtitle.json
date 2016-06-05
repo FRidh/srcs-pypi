@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "An add-on for Plone that allows to add a title that is used in navigation elements",
+    "homepage": "https://bluedynamics.com",
+    "license": "GNU General Public Licence"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "0ef3fc711e1be39ca284f68d3c26c6cc5320f517cb1a3890afa73dab99614698",
+        "url": "https://files.pythonhosted.org/packages/49/7b/df148c7eecc9567b9b5660a703761dc1bf93122f3d384c09cb9a06b6ead0/collective.navigationtitle-0.2.zip"
+      },
+      "0.3": {
+        "sha256": "62be88bf595d7ee970f4a94d68c6936d5df268a87c4df67625b1f071d6c5b25c",
+        "url": "https://files.pythonhosted.org/packages/ae/e0/35686226c486cf0da92dd7d37789961bd45752f979c2c53fabb887e42f4c/collective.navigationtitle-0.3.zip"
+      }
+    }
+  ]
+}

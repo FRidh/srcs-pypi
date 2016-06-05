@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "A simple pure Python wrapper around Thread()s and deques",
+    "homepage": "https://github.com/medecau/taskqueue",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "3297a196e64873711c29b656e443fc11b621e624531aef8ff13ade63f5e90c86",
+        "url": "https://files.pythonhosted.org/packages/01/3c/6541791396f824b7172e11361904f5b0a4d63f927307d5f5270b79feb1e7/taskqueue-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "5b457642c061f10b2dc5611dc8ff699ae3b1fd7e41488bb72988eb1c7d5147b9",
+        "url": "https://files.pythonhosted.org/packages/d4/f1/95ced800a479c1e44ca5cc9fd2eca3819c17051e89db1ed4b6861f3c47a1/taskqueue-0.2.tar.gz"
+      },
+      "0.4": {
+        "sha256": "4c9187e2e9b0ece7e8367793161c4e9e8d5a8857e0b0e43fac4364231a67071f",
+        "url": "https://files.pythonhosted.org/packages/c2/3b/6b834711ef0117c9452d6d94c2c2982aaaf9f4502afb8139316a1e0c637e/taskqueue-0.4.tar.gz"
+      }
+    }
+  ]
+}

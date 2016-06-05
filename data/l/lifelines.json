@@ -1,0 +1,214 @@
+{
+  "latest_version": [
+    "0.9.2"
+  ],
+  "meta": {
+    "description": "Survival analysis in Python, including Kaplan Meier, Nelson Aalen and regression",
+    "homepage": "https://github.com/CamDavidsonPilon/lifelines",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "3049b62cdd0e2845add4b868b5e3ecd64c80397d686921ff29057b193b96cc92",
+        "url": "https://files.pythonhosted.org/packages/cc/20/b2c9f73a28801fe07b0665961f21899080b1ca7a81e242565c643d131420/lifelines-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "3f977c7864fb029f5cfb361b3fb0da8ac218ae393d01841d725e8740c72f8001",
+        "url": "https://files.pythonhosted.org/packages/ee/cd/4ee439043390ab149a03b90d099039fbf02190737c37e857a5f1c4b4555b/lifelines-0.2.1.tar.gz"
+      },
+      "0.2.1.1": {
+        "sha256": "e531730bcd86b801d8606faa3ff72bb6f4572aa6c5fa9f137c35271d6f37e7c8",
+        "url": "https://files.pythonhosted.org/packages/a5/0d/a1f2ad789946fab46b5a38b0079dbde1b2ab633ad6198f29a7b5aff9c47a/lifelines-0.2.1.1.tar.gz"
+      },
+      "0.2.2.10": {
+        "sha256": "f15cfd9b6c96205cd42ecf6b7fa21cb3e7c38f2ad516b2de750b2d9d18ce0706",
+        "url": "https://files.pythonhosted.org/packages/ed/e1/9e31084268a24827454b4eb8153c09241f0c06816099dc95b722d1e765d6/lifelines-0.2.2.10.tar.gz"
+      },
+      "0.2.2.11": {
+        "sha256": "66206d8f5aae3ce4af50cb08d6db94e85458769aac6d1aa34515d2e7e12a0e4e",
+        "url": "https://files.pythonhosted.org/packages/d9/6d/e8658a6c792a602e63b68f94af8b4d0ff65bf1d2f028ef3ce3357591ed4d/lifelines-0.2.2.11.tar.gz"
+      },
+      "0.2.2.12": {
+        "sha256": "ae24e9d1e0a0604e90a1a657f2eaadc42baa214fcdd8adad585ad252d663f97a",
+        "url": "https://files.pythonhosted.org/packages/31/60/8a335b565c653f8ce3995847ce2703843e64fa55e62e6fb5ba6737a8165e/lifelines-0.2.2.12.tar.gz"
+      },
+      "0.2.2.2": {
+        "sha256": "f75b2a32e057a7e73b3d61c300107f7804acf8079f05379640caa1ff88879483",
+        "url": "https://files.pythonhosted.org/packages/aa/d4/41d54049fda7d1af9bd03d92cf3a68a178adfeb0793d385103fbf7eae4a8/lifelines-0.2.2.2.tar.gz"
+      },
+      "0.2.2.3": {
+        "sha256": "b0acdd678a3088a8cfe79b9d837c6cbd1c80f28ee884499e47496ae0cd88eef9",
+        "url": "https://files.pythonhosted.org/packages/c9/68/5c8f9eed50831f13175c501902c8703baec8af5c276a18b76edb096064fd/lifelines-0.2.2.3.tar.gz"
+      },
+      "0.2.2.4": {
+        "sha256": "e1410aafc2e481fc54c8143a9c541a9314961e98fc65eba6b403b9156723989f",
+        "url": "https://files.pythonhosted.org/packages/e3/f6/ff998eb0491c778d4f67f6198339236d1417d4c5b5f6b5822c154a8d2216/lifelines-0.2.2.4.tar.gz"
+      },
+      "0.2.2.5": {
+        "sha256": "34c40709d1833b0585499786b0dcb1b32dc637a7b359bde5b80bf222f1939bb3",
+        "url": "https://files.pythonhosted.org/packages/ad/98/1306d28573ed3c3a1c470d17b2fa2f2f20012b0d6f2a8cfbfd1e57e16325/lifelines-0.2.2.5.tar.gz"
+      },
+      "0.2.2.6": {
+        "sha256": "dab7f8bdbeec871c18946bf946f9395df3cb33e1057b3a918c7d1b882f4c9999",
+        "url": "https://files.pythonhosted.org/packages/48/11/1545c119b76a070a740d9e2491fed14e4592236290428dc8d1af25c698e1/lifelines-0.2.2.6.tar.gz"
+      },
+      "0.2.2.7": {
+        "sha256": "8a562e3dc0ac2e9d3dea3b9841a1e7daffc29cb3961e44c3f4be49af3771a49a",
+        "url": "https://files.pythonhosted.org/packages/6a/76/09cfa0b98fc92150462cade3afda8280078b78cf345530b347438994bf8f/lifelines-0.2.2.7.tar.gz"
+      },
+      "0.2.2.8": {
+        "sha256": "63338ae876f92ae547f7099d193720f80cf79a752c97ad5d59793293bc521c39",
+        "url": "https://files.pythonhosted.org/packages/e8/d2/f57d90ad32bd9531d7000fe1204d57be0a22eca84783dda04223949f3115/lifelines-0.2.2.8.tar.gz"
+      },
+      "0.2.2.9": {
+        "sha256": "ef3d284ddd7497766c47a754f6eb35589df869aed5becffe034702869f70e51e",
+        "url": "https://files.pythonhosted.org/packages/ff/da/ee7b6d62dd5de68ea95eeead457f8f4b2c775e63f74b06b16f12961943c4/lifelines-0.2.2.9.tar.gz"
+      },
+      "0.2.3.0": {
+        "sha256": "e6ba8173a4b4eba3ac4ff1a51d6ae5e09a6ff698557a7a1a6cab314e65d4088b",
+        "url": "https://files.pythonhosted.org/packages/e7/e9/db2154c3ce25eda25c553a1d8e7e1682b538fbfc81287fbdd922c2a4be52/lifelines-0.2.3.0.tar.gz"
+      },
+      "0.2.3.0.1": {
+        "sha256": "96adca51c8b91d2dcb1758613daaa54643e2ab7506bbe8bf62a676a48c2990e5",
+        "url": "https://files.pythonhosted.org/packages/af/88/1b102050bc55f3c2fc5cbef5dbeada9b9969f805f2f2ee5abea37591785a/lifelines-0.2.3.0.1.tar.gz"
+      },
+      "0.2.3.0.2": {
+        "sha256": "7c8c622e02ea73dee67b7907151a85af50b076ee8871444a4a4708f1ad866525",
+        "url": "https://files.pythonhosted.org/packages/f6/5e/1242aead602f699ac0669036df755ad1824d87a160fc14d632d185000b15/lifelines-0.2.3.0.2.tar.gz"
+      },
+      "0.2.3.0.3": {
+        "sha256": "2d7e575e383f92fb4760e72edfff80f841c07be58ce1bb928074c7b165c167e6",
+        "url": "https://files.pythonhosted.org/packages/29/f9/967563ec1b6099c6b22dbd5c9c227ff68bebe7992b5863bc4deb3e46eb31/lifelines-0.2.3.0.3.tar.gz"
+      },
+      "0.2.3.0.4": {
+        "sha256": "028718fa483833f2d603290ee56a0073a30b3529468cc46288b4a8e518c05ca9",
+        "url": "https://files.pythonhosted.org/packages/50/ee/02053b5f40532b68d09b0077f93e83434f5b2773a3c503bd0a67bd08249c/lifelines-0.2.3.0.4.tar.gz"
+      },
+      "0.2.3.0.5": {
+        "sha256": "6aba1a52991fd6a4f74edcd52c5eaf3b92a039cc996ca95fd35b00885087c4ae",
+        "url": "https://files.pythonhosted.org/packages/34/ba/e4a7a8aa3d53acbd7ce746f915ae0f60c48138a773692c4fce3fb3b0af75/lifelines-0.2.3.0.5.tar.gz"
+      },
+      "0.2.3.0.6": {
+        "sha256": "4b9d938f88cbe90520607a6e1dc17f6e15fcfce78cb63e7be4ddc485ffd57a0c",
+        "url": "https://files.pythonhosted.org/packages/b7/d6/4d7adf97a69243044e96e20487a93057160604f8d1189c6b1b0a839b4835/lifelines-0.2.3.0.6.tar.gz"
+      },
+      "0.2.3.0.7": {
+        "sha256": "f23216c06a4df7aa9af8ce907691be4735a5602ce43aff23f4a2ba5c426bdc1e",
+        "url": "https://files.pythonhosted.org/packages/45/62/fd33ba2d74db9371d65e4351d217826e702aa847b5bd3711d7657db4b53a/lifelines-0.2.3.0.7.tar.gz"
+      },
+      "0.3.0.0": {
+        "sha256": "b37a53fa70c6ffa596a3f5742af7b0a171f7f33fdf22b1ffcedea305c3b62715",
+        "url": "https://files.pythonhosted.org/packages/46/c6/5687cd9059f3222259db94e6d00355540853441e2b8137ec73d62ecb57b9/lifelines-0.3.0.0.tar.gz"
+      },
+      "0.3.1.0": {
+        "sha256": "a845971401ffe13f491de9ec39bff535e3855c123c1b5d1cba19c2ffae2bdef7",
+        "url": "https://files.pythonhosted.org/packages/d6/77/039d61cb0caabbda11d0ee40e9427910570b04b9a295147174ff68ae72cb/lifelines-0.3.1.0.tar.gz"
+      },
+      "0.3.1.2": {
+        "sha256": "9d24bc70d53f693e195d23bda5baf158e74b9b56bd4e096253d4cb1d34aa9c95",
+        "url": "https://files.pythonhosted.org/packages/3c/d8/c5aee817d4fa9ed2bb56c5e5712e25470339e05c0e2fe1f3bc53934b61fa/lifelines-0.3.1.2.tar.gz"
+      },
+      "0.3.1.5": {
+        "sha256": "dc12c7d6dd04741221b4e116752d08ddc32a63616acf151b36e43c40751ba5bc",
+        "url": "https://files.pythonhosted.org/packages/a5/a5/c8d8477fc4a4812bed1de922006cde8fee126ffebd6558955baf103f06d1/lifelines-0.3.1.5.tar.gz"
+      },
+      "0.3.2.0": {
+        "sha256": "a2b857207433ab48d612dde4f21e9ba1f300ecb014f92ad2cf077e16329d567e",
+        "url": "https://files.pythonhosted.org/packages/53/4b/09d7cf022bb125fb773f10b410a7909fa12552f333189f1eafd08d929716/lifelines-0.3.2.0.tar.gz"
+      },
+      "0.3.2.0.2": {
+        "sha256": "d633cc23640140af4c026eaaab16ed2233381c933d081b5d3bc86fe1d6e5033f",
+        "url": "https://files.pythonhosted.org/packages/dc/05/c4d877e1dffd46c40627e912e762490123673e6173b6b6fcd68e06024eb6/lifelines-0.3.2.0.2.tar.gz"
+      },
+      "0.3.2.1": {
+        "sha256": "65724bd08b160ec55580811864afda4e8d2ceabe8ce5f666920aa3f082f41aaf",
+        "url": "https://files.pythonhosted.org/packages/3b/ee/43fcf74bb1decd193d72845507841d6d355903578f5903e86c4a9af9c55b/lifelines-0.3.2.1.tar.gz"
+      },
+      "0.3.2.2": {
+        "sha256": "34bf0918a3adc6195faf35e146a7a494b7168ccc3e9ebb29a9245d0bb3e383dd",
+        "url": "https://files.pythonhosted.org/packages/72/43/f8636c3803c19838f9e8f3a6c9ce9775b8528dea7ab51008d80bcaf851bb/lifelines-0.3.2.2.tar.gz"
+      },
+      "0.3.2.3": {
+        "sha256": "74f74b022364f2c22451110eaca336e5ace3d6a67676204a6516dd70ef77cc21",
+        "url": "https://files.pythonhosted.org/packages/cc/7a/75a50f787a8f98cffd61278b5aa553b7b394955295b2a8021f715d5287c4/lifelines-0.3.2.3.tar.gz"
+      },
+      "0.4.0.0": {
+        "sha256": "29c486ef1e766501f1b93e98f5df3e22a0c0803b417360fc435a4c84ab86307b",
+        "url": "https://files.pythonhosted.org/packages/5e/7c/7379d8165141a500bb06a6e993047452bc595f7b7fbad5eaa99c39bc925e/lifelines-0.4.0.0.tar.gz"
+      },
+      "0.4.1.1": {
+        "sha256": "2e63a5eed0003d9f8515d2f5aa5d5440aae4033664c19135372072b8a0a00fbb",
+        "url": "https://files.pythonhosted.org/packages/0d/fb/8dd7781dcd31a972908b2ef8d09b5e01b31cf526ca7949c8c0e2f3fbf8f9/lifelines-0.4.1.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "ea2e49829eb8ffb5b810a77836e68ecdbfd7a072cdd5038a55d3c3d994db6d65",
+        "url": "https://files.pythonhosted.org/packages/bf/85/c3e77db763c30ecf236ac215d5899c4b0a43c00b191094c4d746c5f18aa9/lifelines-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "7928853536edb2624977704e80d206f61f5b52ef9ed4a4cd1137dbeb8b919b68",
+        "url": "https://files.pythonhosted.org/packages/cb/bb/f2cedda9ba438828af730c7c29c8a9ac3c99ede6e38f4bac1ed87b6008d4/lifelines-0.4.3.tar.gz"
+      },
+      "0.4.3.1": {
+        "sha256": "52e9dc502a4741795a0655479f87d9e6f688e2709d0cff3ef954ce660f1ac83b",
+        "url": "https://files.pythonhosted.org/packages/e6/15/f6c1109982aabd24cad99d0803f77d7e10db2cf03bb0dcf6b07a43b425de/lifelines-0.4.3.1.tar.gz"
+      },
+      "0.4.4.0": {
+        "sha256": "c9fe3cba1594355e4bcbf06869118ad49ddbcbdc58540381eff8a6acdfd7ec3a",
+        "url": "https://files.pythonhosted.org/packages/07/72/7988066e4faf256294846ff0f23ef27bc31df477b74dea639189bab60330/lifelines-0.4.4.0.tar.gz"
+      },
+      "0.5.0.0": {
+        "sha256": "0f63ff1ecfb08e6422db742b263f7c1f60aeeeea6aa8814fbe1b9a6597691a4b",
+        "url": "https://files.pythonhosted.org/packages/b9/11/0e99d8dd928860c8067b4ddd7d5fa93f7b1fd1c555455f00c327c242d308/lifelines-0.5.0.0.tar.gz"
+      },
+      "0.5.1.0": {
+        "sha256": "b5610d23ba49e0b812884cc4cb15666203dfe16bc660881ad4f863ec4af3539a",
+        "url": "https://files.pythonhosted.org/packages/95/09/ec3e6d67ca264de7ce65e134eacaa1ad7e1ad8140d1126cbb7c0dee375ad/lifelines-0.5.1.0.tar.gz"
+      },
+      "0.6.0.0": {
+        "sha256": "2a8cac2ca13655627ccef12cb769906019c02c418e27cf105e63d2d3b424ee8c",
+        "url": "https://files.pythonhosted.org/packages/4c/bb/b7a0f696de1e4085fc1ad845075c3879b10c533a53343fb256da9a3509d7/lifelines-0.6.0.0.tar.gz"
+      },
+      "0.6.1.0": {
+        "sha256": "808a7499e7dc3eddf7ab640e2889717463cb3786d820786e7cf79bf36e9f3131",
+        "url": "https://files.pythonhosted.org/packages/42/13/49a460a3b6f7e68d4d3659a180a4121680c420c96b94a807abbcaa381009/lifelines-0.6.1.0.tar.gz"
+      },
+      "0.7.0.0": {
+        "sha256": "2358134e26c22eb7ce2c534aae55598c9c6e963743ae6bef2b431163639f07ac",
+        "url": "https://files.pythonhosted.org/packages/32/3c/df9c1e28b8d7a11dd14d4e14458c9ea2f872106ef5934397e2cf5bf9eb52/lifelines-0.7.0.0.tar.gz"
+      },
+      "0.7.1.0": {
+        "sha256": "4cea376fd0a4975668ce0e5e2b3e6fa3b13951ea5172e066b771646a3835c6f2",
+        "url": "https://files.pythonhosted.org/packages/05/9e/3561606ee97553b6debe70110c2064338ea134ce711db0075be570eeb543/lifelines-0.7.1.0.tar.gz"
+      },
+      "0.8.0.0": {
+        "sha256": "d583c0fe0629657fdb076d95afdaf7f3cffc993fe1e82a1eaa8396a7df286a5e",
+        "url": "https://files.pythonhosted.org/packages/4e/19/cd6206ce9d08f1ad7cc67f6865a2377c6751215437461700a2591260d46b/lifelines-0.8.0.0.tar.gz"
+      },
+      "0.8.0.1": {
+        "sha256": "695ec555153386855addaf64f64c505ebda281f9a2b9e24a8f5d7bfd80020dc5",
+        "url": "https://files.pythonhosted.org/packages/1c/af/9e94af3fb201e58589a834de3df8526e9eb7fe11ab724dff39508ae27294/lifelines-0.8.0.1.tar.gz"
+      },
+      "0.8.0.2": {
+        "sha256": "73957e3870651739d5ef613e5ce1204dc7f719cb75bac4d7b0d1766ab3379aad",
+        "url": "https://files.pythonhosted.org/packages/f2/8f/0b72ce9f36e4b11f22c24c119d9c4515d560f884cf05cea6ad68658aee17/lifelines-0.8.0.2.tar.gz"
+      },
+      "0.8.1.0": {
+        "sha256": "500e44bb48739b4f843d71ad74181c13b144fe101186a331818bb2cc590f48ac",
+        "url": "https://files.pythonhosted.org/packages/c4/2e/fc097e66332241708c7e67b87693cea9a265abe3ddcd323e33cc2df10531/lifelines-0.8.1.0.tar.gz"
+      },
+      "0.9.0.0": {
+        "sha256": "8427fd07683deb7ae8642017cfc303c276ca24a7d4a3243185d48591a598ccfe",
+        "url": "https://files.pythonhosted.org/packages/cf/5a/14a39526946f6ae83cde75d43c06ccc9ee6a12c9cc6af754ab34f173f037/lifelines-0.9.0.0.tar.gz"
+      },
+      "0.9.1.0": {
+        "sha256": "b5c0848380a5389bdb33fe75ba852b1ad3371b05a0f9ca59264a7c71ecc77c5d",
+        "url": "https://files.pythonhosted.org/packages/f9/54/9d625dc968a3c86bfa6631d2cc11cff07b87407725f9554c82ca3386aae1/lifelines-0.9.1.0.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "7471e7e982a1f09916f65aebd6f66af2dd98792c6dbcb461d41826232cc0faee",
+        "url": "https://files.pythonhosted.org/packages/11/db/b0193078c498409937804b09ab0495d7d0ff728177e41f691e0b370d896a/lifelines-0.9.2.tar.gz"
+      }
+    }
+  ]
+}

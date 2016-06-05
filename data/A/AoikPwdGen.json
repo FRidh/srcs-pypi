@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.1.0"
+  ],
+  "meta": {
+    "description": "A password generator program divided in 3 phases: generating random bytes, translating the bytes to password, and filtering the password to see if it's desirable. Custom function can be specified for each phase via command argument",
+    "homepage": "https://github.com/AoiKuiyuyou/AoikPwdGen",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "8b3b05f258894ffa30356c9c9b2f45d71ba311c4a97ea7780cda821d1b0b4dd7",
+        "url": "https://files.pythonhosted.org/packages/1a/11/e4bb7acb49e84e319a555794475d947162fba9df9bae7e4531a8e2e444e6/AoikPwdGen-0.1.0-py2.py3-none-any.whl"
+      }
+    }
+  ]
+}

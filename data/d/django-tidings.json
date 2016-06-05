@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Framework for asynchronous email notifications from Django",
+    "homepage": "http://github.com/mozilla/django-tidings",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "d716326d2faee0b8b9f904352cfd6e948573dc3a387e0adb223022e5651d696a",
+        "url": "https://files.pythonhosted.org/packages/d7/35/625de4af0848dfa62042d984fb81836fc5273782ad2ed1e94948f1b7f821/django-tidings-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "c193cbd879fc1bcd53847c918a9900034d87d9f181ea039fc5e9a4ef80562a79",
+        "url": "https://files.pythonhosted.org/packages/a9/3a/494e6986ec78ae698ea575b352d8daba0324d741a953c437c8d4b1690146/django-tidings-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "19b2574da125120d2cb00e9d4719d8c00d629063ad577179b595287c9afc5ad6",
+        "url": "https://files.pythonhosted.org/packages/92/4c/069c4a2b3100661d477fbea75702beeaae5342879c9e3ef19627b4617d0e/django-tidings-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "f5f620c0b597b1af5877e5c81eec22c43d7372e077c45ea3452b6ad1e3f6931a",
+        "url": "https://files.pythonhosted.org/packages/b9/8c/73ae24f35f63f4d10d1ec12a9497ba283d19c924254f3a0c120ac9dc24e8/django-tidings-0.4.tar.gz"
+      },
+      "1.0": {
+        "sha256": "0760d4c1659c1d38dbf81a85b7e86279cb15d4d43287831ceea9ced99a1ba9fb",
+        "url": "https://files.pythonhosted.org/packages/36/67/0e1ee15d18e364c3ad7f4e22acfbdc0c159e3acd716c6d0b71b332d0a51c/django-tidings-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "d5047c39bf2e1d1d4dcdfd28371e3ab354ba6c26168ff11baac9d20409a804d9",
+        "url": "https://files.pythonhosted.org/packages/c2/d5/78d7047a3d45e12d4b87e60e98bc48f30db88e6eca70c0eaa7e6ee90aa24/django-tidings-1.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "latest_version": [
+    "1.7"
+  ],
+  "meta": {
+    "description": "Build NSIS installers for Python applications",
+    "homepage": "http://pynsist.readthedocs.org/en/latest/",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "dd8de3b83df2e993a679ece625c6a8a35fe49adc7cca33cdb012107f2784d6dd",
+        "url": "https://files.pythonhosted.org/packages/dd/a5/714313bdcdd58c492fb45815993e83321ad9845cda42179261534063fd6f/pynsist-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "1b52002bf290f948e0e2a1c58195a696726ace135186f5f592ac17bbb3b06c71",
+        "url": "https://files.pythonhosted.org/packages/d2/ce/b4ee582f31ce9ccab92566c4d6f2f8d97e3139cf3c2a2b5385637a650d69/pynsist-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "2393467828a5eb7f4207b08fdc45c51feafd5aa16e84685d493111a94bd1ab9a",
+        "url": "https://files.pythonhosted.org/packages/78/2c/65d4df069551ca0483a3505223b18aa75fb985d23903cb0f5de0e5523b1d/pynsist-0.3.tar.gz"
+      },
+      "1.0": {
+        "sha256": "6f4dc23a822d629edeadcb569c684e701d5f96b97826166e2d958354a322329a",
+        "url": "https://files.pythonhosted.org/packages/55/cc/11185e709532ea713ca2087eb5b8fb3e4a642294d09dfae7d08f6430e5b3/pynsist-1.0.tar.gz"
+      },
+      "1.5": {
+        "sha256": "b78c04ec6173651a1ef8847153a89205765eb95dc08bd13c95ba72830fb46fbf",
+        "url": "https://files.pythonhosted.org/packages/b7/9e/9436f8135125cf237cd70ae218fae7c05320f8b297371f8629c8dd3984be/pynsist-1.5.tar.gz"
+      },
+      "1.6": {
+        "sha256": "5ea6fcb748d0bb5f308c14a3e773ae2f7e4d7851ea62f8ec9f4a8297672de2be",
+        "url": "https://files.pythonhosted.org/packages/68/97/698095151558ca56f5585490f987d976b13379a28e42046e75b15132025c/pynsist-1.6-py2.py3-none-any.whl"
+      },
+      "1.7": {
+        "sha256": "0ee5ee90f12b60977c0a488faad1d21f0102bac8e2885ff76de39ff64241a02f",
+        "url": "https://files.pythonhosted.org/packages/7f/cf/5a2528c300c341afac34f66e5fbc1636a2ce10a9074ed48d8dde784a1adf/pynsist-1.7-py2.py3-none-any.whl"
+      }
+    }
+  ]
+}

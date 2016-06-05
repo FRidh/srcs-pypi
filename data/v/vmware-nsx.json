@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "2015.1.2"
+  ],
+  "meta": {
+    "description": "VMware NSX library for OpenStack projects",
+    "homepage": "http://launchpad.net/vmware-nsx",
+    "license": ""
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "b3fd6c653d2e9d813c48f4bc9aa46065dc8972317cbf19b15700c50544151d9c",
+        "url": "https://files.pythonhosted.org/packages/e7/b7/c2062be3aef5ec02c51b5373b4b59b7376cb9ca8c44759310496af6622a4/vmware-nsx-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "8df82f6e4c873822d7326363f2f8944e0daeeae6880ab69594c1ac2b7f1fbf3b",
+        "url": "https://files.pythonhosted.org/packages/d3/ae/8b1858e7caabaa4b47f738e5fb890f680e2a2f74801f5b59ef2ad31fb626/vmware-nsx-1.0.1.tar.gz"
+      },
+      "2015.1.2": {
+        "sha256": "fc2854e65612f3ab7f409a1913387b8980b1d5cebdee9eb3e1188e7ab4c2bdf6",
+        "url": "https://files.pythonhosted.org/packages/0e/71/c8df279aefb08e92f400ab0181848a4c369dc8c941108c504b3d26e80701/vmware-nsx-2015.1.2.tar.gz"
+      },
+      "2015.1.2.dev259": {
+        "sha256": "b768fecfe320be52c033dc40cfed335feb0dec5a628277b1ef70fa49292e9fe0",
+        "url": "https://files.pythonhosted.org/packages/4c/33/1c166e16c4f919fc56a13ef00b4ee5ab693b3b76ea3f2569abb45042719e/vmware-nsx-2015.1.2.dev259.tar.gz"
+      }
+    }
+  ]
+}

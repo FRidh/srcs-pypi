@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.dev"
+  ],
+  "meta": {
+    "description": "Tests for checking the gator module and gator daemon",
+    "homepage": "https://code.launchpad.net/~stubbsdm/+junk/gator-tests",
+    "license": "GNU GPLv3"
+  },
+  "versions": [
+    {
+      "0.1.dev": {
+        "sha256": "0fd9cf10eaab7c23f48e03741d6f3264f0fce5b205622f314b44543970036a7d",
+        "url": "https://files.pythonhosted.org/packages/55/94/4bea2b8045cce03fecbafb549842b982ce13ed8d6e0c06b33e37f5e496c5/gator-tests-0.1.dev.tar.gz"
+      },
+      "0.2.dev": {
+        "sha256": "f47a32f8c7eb1cbe02e7787da9ded85cc3ead8e08fc6ad56434acfe797ab1012",
+        "url": "https://files.pythonhosted.org/packages/bb/bc/cdc1c9651687864b68e8c17d49e62e15382ce9c697d4be04d16ade7d3a55/gator-tests-0.2.dev.tar.gz"
+      }
+    }
+  ]
+}

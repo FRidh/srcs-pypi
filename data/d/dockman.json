@@ -1,0 +1,45 @@
+{
+  "latest_version": [
+    "0.4.1"
+  ],
+  "meta": {
+    "description": "A webservice that runs docker builds/deployments on docker webhooks",
+    "homepage": "http://github.com/TronPaul/dockman"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "59613d1405889ea0edd43b2258e5e380ec91ca93d1f817f1751fb634b76a164c",
+        "url": "https://files.pythonhosted.org/packages/1c/29/a2a7c2cbc1b16b08c9ab9bfaf7f456fd028e8e99531a5f7aca7fdc61b336/dockman-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "3daa6b893b78bfd4978d209dbfde7111415079c6b3551ea04bf52821facb62c6",
+        "url": "https://files.pythonhosted.org/packages/f0/df/ee4edabdef9064433af5200dbf0debee49b979654a436795f0da817b17fa/dockman-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "7dc1396f18d939a6cf5b4c2e4626ab4d9756a6000dead4c1ed08cf0873d39ec7",
+        "url": "https://files.pythonhosted.org/packages/15/63/aebf045ff4e4a8ad5da0d4412359efffd85d15f0a394f65fe8a5ac03ae08/dockman-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "a6c700d504db755f0d9adf00fdc4ac1d11c4e270cd1167b77daf9160ace51c5d",
+        "url": "https://files.pythonhosted.org/packages/93/b9/86e02c8abffd2e2f336467185f72854ebe466210fb2185893d15bef7f4b6/dockman-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "91d3da4c6a9afe0a2bb370a9fe27c6b5ea9122bf9551f689e1c95b1b8d3218ff",
+        "url": "https://files.pythonhosted.org/packages/db/f4/1e14c8b6b61b36797068fef228d4f4be322226a3ce1f503f37040077c2bf/dockman-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "cacf01ca1a80ec6907bbd20bfd2f59d98a88f65a8192895e8ad2fed8d6238222",
+        "url": "https://files.pythonhosted.org/packages/93/2b/3f9ffc5cb7711fec73faefc252af4d9dc80410dee98435694abf79011f8d/dockman-0.3.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "00ec1375d47cdc11827d2c2d8ba542cde51783ed31c60b91f02e430fed80ce04",
+        "url": "https://files.pythonhosted.org/packages/9d/27/92cc5e48432f6a8982639e259608c4d508fb4a29bc652f3011f7d37901bf/dockman-0.4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "1738248f1f37d4ac2137a204b96a8c7bae74def509bba49d0efbc9d934329c75",
+        "url": "https://files.pythonhosted.org/packages/f3/d2/459159ea82083dbd20de7d05462815f92dbe65ef73f1fe8a776be1659070/dockman-0.4.1.tar.gz"
+      }
+    }
+  ]
+}

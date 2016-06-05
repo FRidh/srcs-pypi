@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.8"
+  ],
+  "meta": {
+    "description": "make statsd work with flask, django, maple or other server",
+    "homepage": "https://github.com/dantezhu/autostat",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.6": {
+        "sha256": "a8b5c86fffe7be3c666e5cd0860b67097400659ef8d4b93fb102965e5abe0e43",
+        "url": "https://files.pythonhosted.org/packages/68/11/dfbb504a7e9e116b3f51b06e966eb4d69a054bb2bae3ce557a9287e0c0c9/autostat-0.1.6.tar.gz"
+      },
+      "0.1.7": {
+        "sha256": "706ba015abf9e4b776a2e6bd0e1e1901b56c3b9f42bfee0e0103415a5ada51bd",
+        "url": "https://files.pythonhosted.org/packages/93/f4/f9ace1e0eab452bc6e5b865da191d46121b79b018b9afe10f46a82fd9c9e/autostat-0.1.7.tar.gz"
+      },
+      "0.1.8": {
+        "sha256": "71e9afff1212c805100aaa4091425757ae19ad71499500517d2cb9519c82db4a",
+        "url": "https://files.pythonhosted.org/packages/96/e4/3989938367423bc19e65cddab3feb6d7715c35e95f434de07bdd3f9e2a4e/autostat-0.1.8.tar.gz"
+      }
+    }
+  ]
+}

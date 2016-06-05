@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "Mopidy extension for controlling volume on a NAD amplifier",
+    "homepage": "https://github.com/mopidy/mopidy-nad",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "86814993dbca41fb1c2b654866179432a2f644313a07b6c3392b90f010c59112",
+        "url": "https://files.pythonhosted.org/packages/53/d4/d77b64055b73de83be5043029c88c2bf3209f7585b29c579ec21f2469fd7/Mopidy-NAD-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "7c132243f5422567b8c55804bd2735dc18997bc19fb6154763593461893a03af",
+        "url": "https://files.pythonhosted.org/packages/3c/1c/d4293a385f0873d150ae850edd117f21054f4a9357bded4e7026d0caa98a/Mopidy-NAD-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "1a122a516c955e0bdeb6931a72d82e4482e13919cf43b5e1ecd5368b18c38ffd",
+        "url": "https://files.pythonhosted.org/packages/79/64/6ef08b3ae01ebabb748590a1155fbebfa4663f175c5df328dac9fe09cd64/Mopidy-NAD-0.3.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "badabadd2a80973a540a26a96ed4bfa4f2dbca1b9218692ab74c9d10833c0e24",
+        "url": "https://files.pythonhosted.org/packages/57/17/28d20accd08943e25e645a5e504f22fc5f03d14dfd9490876099ae207303/Mopidy-NAD-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "a230e17bb1a571fd46ecca5c9f9a902a6d7e70a95c2b18da3ff5bd6e3f92fef8",
+        "url": "https://files.pythonhosted.org/packages/aa/6a/545e7aab8f32dcacf703777186ec09cca13cb04f4e7daff9e782eecc608d/Mopidy-NAD-1.1.0.tar.gz"
+      },
+      "2.0.0": {
+        "sha256": "1d1548e811f96dd4a109007952cc74053aa12c1cdd641e054eb3569f17e834ca",
+        "url": "https://files.pythonhosted.org/packages/87/27/bfcd8313b5f6ee033d38511c728ffb43f78d6132fe200a84807c0c3448ce/Mopidy-NAD-2.0.0.tar.gz"
+      }
+    }
+  ]
+}

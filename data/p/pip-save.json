@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.1.4"
+  ],
+  "meta": {
+    "description": "A wrapper around pip to add `npm --save` style functionality to pip",
+    "homepage": "https://github.com/kgritesh/pip-save",
+    "license": "ISCL"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "26f581d6524772c8eb9878c1ce1b50b9357a723a31b019d6c0bd2ef6aa86f1ef",
+        "url": "https://files.pythonhosted.org/packages/14/d7/dea581531909d448c3d849d007d6e056202eaa01005dbe532891474972b4/pip-save-0.1.0.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "5bc82f572340f4b0c9e49412903b3d9e55224bd800d5823a47517f985d7e3c7a",
+        "url": "https://files.pythonhosted.org/packages/24/bd/9883b64253dc50f227bbc8b1ac16415265bbd5e00a23b5df99821ae87427/pip-save-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "6e10e76f27e5a4762362f1bc3e246edaf9d96f8addc478e5e32ba6d8c40a1e96",
+        "url": "https://files.pythonhosted.org/packages/5e/aa/c6f50a38068aa3f91a06cc652a9871e63a1d55ec18d2fee3cf3ef80e0cb3/pip-save-0.1.4.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.3"
+  ],
+  "meta": {
+    "description": "collective.portlet.shelf is a portlet for Plone 4 that allows to display Collection's results in a carousel portlet browsing them by subcollections",
+    "homepage": "https://github.com/collective/collective.portlet.shelf",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "1.2": {
+        "sha256": "c9c195961a76e16880645ce7d95805dba672887b3bd505578653076374c93786",
+        "url": "https://files.pythonhosted.org/packages/f1/98/6f1df345c2ae7e61fa9fccd5ce34e7e05edf790096008fa1d40d4d053d80/collective.portlet.shelf-1.2.zip"
+      },
+      "1.3": {
+        "sha256": "8c0f08077b90ad631e8a771ec97cd95a8c189a891ec9b5737b5ed069aa0e0142",
+        "url": "https://files.pythonhosted.org/packages/d9/4a/6dde75a131bd694e6b8afb922fd2022ee0a97316699144c95f4b08487b19/collective.portlet.shelf-1.3.zip"
+      }
+    }
+  ]
+}

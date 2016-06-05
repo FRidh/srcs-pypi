@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.8"
+  ],
+  "meta": {
+    "description": "Tools for sequence and alignment manipulation",
+    "homepage": "http://github.com/faircloth-lab/seqtools/",
+    "license": "http://www.opensource.org/licenses/BSD-3-Clause"
+  },
+  "versions": [
+    {
+      "0.5": {
+        "sha256": "048fa30568d9d3159f717d8f2e95ebd39d4c32f38b68503c66af8a236c831f41",
+        "url": "https://files.pythonhosted.org/packages/eb/f5/cafb60fc9b46bf61a12cbc1fc2d2e2b2ecdd2b5219755de28de1ee47e5cc/seqtools-0.5.tar.gz"
+      },
+      "0.6": {
+        "sha256": "54aed8ddeeed9ce70da5c057b5b5d5aed2f92c66a563ec448b0e7a2028939d5a",
+        "url": "https://files.pythonhosted.org/packages/3d/d9/dd96f2acbf1042b3a92cc200a435954417e504d4c93ae64dc716c831d7ad/seqtools-0.6.tar.gz"
+      },
+      "0.8": {
+        "sha256": "87d73cce516cb6204d68a8a76ad3e092464b0612b28fdd8d0fc3c6490fc3e748",
+        "url": "https://files.pythonhosted.org/packages/df/50/acfb5608eedc3f19946a5b6379c9585b1265bd2c51ffe0b50cc76a899407/seqtools-0.8.tar.gz"
+      }
+    }
+  ]
+}

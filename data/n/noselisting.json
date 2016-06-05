@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2a"
+  ],
+  "meta": {
+    "description": "Plugin for the nose testing framework to list tests without running them",
+    "homepage": "http://pypi.python.org/pypi/noselisting/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "983aa4ca98dbfbef7bbb6a08aa01ef3a5d85a5ff3eff86a0e0b71851fc5a180f",
+        "url": "https://files.pythonhosted.org/packages/3d/d9/6051a1f49597f3969ebcd136c0f90eb53e9b6cf6b70e1ff0cba0212be08f/noselisting-0.1.tar.gz"
+      },
+      "0.2a": {
+        "sha256": "b15afd1a8c028340f88dce7aacb8da634b676e119cf0732eb8c8dff267428f4a",
+        "url": "https://files.pythonhosted.org/packages/32/7c/057a98fdaf5bab0a298e59f5e25fdf82970e5ad582722489bbf97ddfe69a/noselisting-0.2a.tar.gz"
+      }
+    }
+  ]
+}

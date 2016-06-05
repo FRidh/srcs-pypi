@@ -1,0 +1,910 @@
+{
+  "latest_version": [
+    "2016.5.29.11.31"
+  ],
+  "meta": {
+    "description": "libraries for account and server management",
+    "homepage": "https://www.ocf.berkeley.edu",
+    "license": "None"
+  },
+  "versions": [
+    {
+      "1": {
+        "sha256": "6f193bff814677e5f5cdec792445741da7c8d6997a2ff3efca9ab53ff10606fe",
+        "url": "https://files.pythonhosted.org/packages/fb/09/ed6365ff801c3d619022163416f80d469719a51076ac0b2d2bc988006505/ocflib-1.tar.gz"
+      },
+      "10": {
+        "sha256": "e9a36d1d05e8ec4baba53b067148f4306c7b3d0f569c948315e75d77607d716e",
+        "url": "https://files.pythonhosted.org/packages/88/9f/94749d38ec2cad46dfcc1b48d2b4f61615bc696da7e93fc67242b622747f/ocflib-10.tar.gz"
+      },
+      "11": {
+        "sha256": "26d9304663d382e0b51acc333c3ab54df050ed5ab988efd381b94dc7e442d35d",
+        "url": "https://files.pythonhosted.org/packages/d6/58/0b84141fc2366af91560b3335e39c80cda85b2968f070eee40981efb7d12/ocflib-11.tar.gz"
+      },
+      "12": {
+        "sha256": "3fdf87d8dd734194979c4a9e221dc49aac506caa9fc2b99cb8a0fed7e4e34835",
+        "url": "https://files.pythonhosted.org/packages/ff/06/6db81c3e452ac17450d54676a1f7d306bc4bd1a4077a3e0eb91bd4ecfe5e/ocflib-12.tar.gz"
+      },
+      "13": {
+        "sha256": "df20a00eb773ae4826ba66b47dd9ccaafc96346ae282a652eb7ec2b3cc717db7",
+        "url": "https://files.pythonhosted.org/packages/e3/f2/b7f41a62553a7899b89429efbc4a136a11a2202c4d6302e1bf7a617b3ed5/ocflib-13.tar.gz"
+      },
+      "14": {
+        "sha256": "7f7f525bfa38a8b497441097e6aae4cf18bc76c3b69c8e1649a4030e0c6fa0b1",
+        "url": "https://files.pythonhosted.org/packages/ee/f9/d2f011bcd24ef5d706976aff961bb9bf6603adbf25b7a07d89753bfcb52d/ocflib-14.tar.gz"
+      },
+      "15": {
+        "sha256": "0a681c82b558d0d1322896b78f54bde6337985e6fed50178b8ac7f60ae0589c0",
+        "url": "https://files.pythonhosted.org/packages/e0/fe/abd5308f0e31737a820fa45711fa139c56df85e182c93024283e5387d25b/ocflib-15.tar.gz"
+      },
+      "16": {
+        "sha256": "ea7dd63367bef11e66f6782ebb9b53726b9f44b39b04d79922384ae10d967da0",
+        "url": "https://files.pythonhosted.org/packages/44/19/960679f56d231debf9acad4583c261cf1449be078d06c21448e85f6ca862/ocflib-16.tar.gz"
+      },
+      "17": {
+        "sha256": "99d4462d3d6a826a634fc8f61708eb93a34b91a34a62db3f51868a6efaa49981",
+        "url": "https://files.pythonhosted.org/packages/c7/8a/0f07a508fdecff8b2d5d67b69cd61cb63716917a6fb8bd0a7a165a20b7b7/ocflib-17.tar.gz"
+      },
+      "18": {
+        "sha256": "3f5b56b6a19fe639ee93fbf96f1ac64be0e7b460b2d1956335bbb5537b29a9f1",
+        "url": "https://files.pythonhosted.org/packages/fb/1f/609664391429bc17d4987d101f6c171782daedd86f13cfbb225016c26c69/ocflib-18.tar.gz"
+      },
+      "19": {
+        "sha256": "efcbba278fbcc1c060d249c518e9b1fdea7772fa99f382855e802518cedcc385",
+        "url": "https://files.pythonhosted.org/packages/44/b0/a4e1fd29beac2f78695a23d6085b2aa8623e49c3948ff8c95a8c8863f158/ocflib-19.tar.gz"
+      },
+      "20": {
+        "sha256": "c919e0649ae1d71fb96c1c27321ec5078456b86eaebed72a7632ff9e8f236358",
+        "url": "https://files.pythonhosted.org/packages/3b/aa/cfd2fed6bd30ab2403ba3e10c1015c96c89a46f740fe84210ce6c531b4bf/ocflib-20.tar.gz"
+      },
+      "2015.06.21.23.09": {
+        "sha256": "d26cd1b6c8d69687caf938158b83ecb273d762391e3358e731bb2b47042a40f1",
+        "url": "https://files.pythonhosted.org/packages/7d/4b/b2988aad394d0011e728e0fbb78dbae90801cf870a89a7ed65565f62404b/ocflib-2015.06.21.23.09.tar.gz"
+      },
+      "2015.06.21.23.37": {
+        "sha256": "cc283dbc183ef29aadf1ca10adb6319d55a96b0e6828c4d05bd981d0979b385d",
+        "url": "https://files.pythonhosted.org/packages/d7/e0/2c729f43bf9a9c150315d272b2c7a24b0630d28a9332e34d1482a03b2857/ocflib-2015.06.21.23.37.tar.gz"
+      },
+      "2015.06.24.20.49": {
+        "sha256": "45545d56216edb86e02066c69df479f8a24237bc839e54c3e52b7b113b62f467",
+        "url": "https://files.pythonhosted.org/packages/3a/60/8cb83c66a0b9f17b885dbb9f2ec02d115987ffa56e1a5d269ac010e200af/ocflib-2015.06.24.20.49.tar.gz"
+      },
+      "2015.06.26.18.01": {
+        "sha256": "2c9dd6e3ba6ceaa19775e2ced99d6a77e59a63a619d0910af3efa7bde84e6175",
+        "url": "https://files.pythonhosted.org/packages/b2/16/f3365fed7a795410301208e326b3316521add035ac5327b81ba43816ceef/ocflib-2015.06.26.18.01.tar.gz"
+      },
+      "2015.06.28.13.40": {
+        "sha256": "886f24e2cb70b0a07d0ae1cc1f747fe1ed1f702e3e77f35765e90657f679078d",
+        "url": "https://files.pythonhosted.org/packages/3c/bd/12cee1a61df858273007d3f71223500a23f3850b3c38d634da48991919a0/ocflib-2015.06.28.13.40.tar.gz"
+      },
+      "2015.06.28.13.47": {
+        "sha256": "21206f8228ddd55eac62407d16e8e6c9ed9ad05d085e0a1d6354776c0936348e",
+        "url": "https://files.pythonhosted.org/packages/69/b6/6b40afe02e378b2e36bb6ec5c70ee0a48c1a336537599ec4de74eebcee9e/ocflib-2015.06.28.13.47.tar.gz"
+      },
+      "2015.06.28.22.47": {
+        "sha256": "943df7bafa00cc606b1bd91fe02229ae6ebc2f76bc8644a7f01442ad51013d76",
+        "url": "https://files.pythonhosted.org/packages/f0/eb/2b5f49a1309089512006feb8d4e8f708434829547a2183ed9eee7134f58e/ocflib-2015.06.28.22.47.tar.gz"
+      },
+      "2015.06.29.17.30": {
+        "sha256": "ae203c9e7a87b4573ad868d4d53f4dc7a1b00bafe9ba7283e73a6bc9b3af88f5",
+        "url": "https://files.pythonhosted.org/packages/8d/1d/d48fc64332e44064c1b84531fd449dd891eef2f7386bd85260f9651fd8e1/ocflib-2015.06.29.17.30.tar.gz"
+      },
+      "2015.07.03.12.47": {
+        "sha256": "6dea558b5d176aecc46f147f434b0690c5de25d13a2f05f2a7c72cda254266b0",
+        "url": "https://files.pythonhosted.org/packages/83/10/a4936ce5b5b03ab070345d2ae318acbe61d1a4b5548ebd2e452d64a1376e/ocflib-2015.07.03.12.47.tar.gz"
+      },
+      "2015.07.03.15.24": {
+        "sha256": "e8448cd2841c528f51d5c41e40e2b9c5ee5e974eabf7fc2bf8923ed3bcb66433",
+        "url": "https://files.pythonhosted.org/packages/a9/e6/76492358ed609942f98ec31d3501a146377448585e19b0f138b793bc4bdb/ocflib-2015.07.03.15.24.tar.gz"
+      },
+      "2015.07.03.15.47": {
+        "sha256": "06a125b755b9a62216de87921d78b45c5d9aa61bbd8bb8026e1f9f31279f033f",
+        "url": "https://files.pythonhosted.org/packages/28/b8/64a96322023838036b9f87a2e2dcc5c7fa3d3419e9138fcb22905c6207dc/ocflib-2015.07.03.15.47.tar.gz"
+      },
+      "2015.07.03.16.06": {
+        "sha256": "c6456cbc6fc26fc054849d65853da7ae5ca791650292564e3de0753b9b7b2ba2",
+        "url": "https://files.pythonhosted.org/packages/b7/8b/1dc3bdb3b63a1a81058d477123948ec5b5e31903702de6acacb118acd039/ocflib-2015.07.03.16.06.tar.gz"
+      },
+      "2015.07.03.19.07": {
+        "sha256": "ebbbd51f31182eaa82455fa4ae19c612f54599cf88e598b645d5cd8c054cb906",
+        "url": "https://files.pythonhosted.org/packages/cd/b2/29c661db11c875e07acffbb9bdc37e1be283849ee1fdfaeb60c34a7f24ee/ocflib-2015.07.03.19.07.tar.gz"
+      },
+      "2015.07.04.18.04": {
+        "sha256": "401ce454130970e6f81874b3892b7563eb29f9b74ec39df739899d6aad1d89a6",
+        "url": "https://files.pythonhosted.org/packages/10/cd/68e5cefedef1315a1a26c98713ab3b91630491485dd6e9a96b9102e7c42d/ocflib-2015.07.04.18.04.tar.gz"
+      },
+      "2015.07.04.20.30": {
+        "sha256": "2bdd382fe584cca0650e6b43d3fda7d851f7972adb94fd6c4f738079fd375a5f",
+        "url": "https://files.pythonhosted.org/packages/5c/73/21446c9ff4993dd4b08dbb108fdc3ddb7fa97f8b1fe428871ae591a2819f/ocflib-2015.07.04.20.30.tar.gz"
+      },
+      "2015.07.04.22.15": {
+        "sha256": "b5308626b9e02252b02702dbc88492fc0d97dc5e6ba109cae1063e54dff9c939",
+        "url": "https://files.pythonhosted.org/packages/72/10/28c052473690b16341656722cf5df576fb2725d96b68d3dc0e8961216a6f/ocflib-2015.07.04.22.15.tar.gz"
+      },
+      "2015.07.05.21.32": {
+        "sha256": "83e801282365ee3c60b3002a925a8f21657451996f2ef26e6280040592f1ea6b",
+        "url": "https://files.pythonhosted.org/packages/4b/4b/333a1c0f6620c96c69f04086542cb75a7ef418f03c622d770e1f71f0c4b2/ocflib-2015.07.05.21.32.tar.gz"
+      },
+      "2015.07.05.21.56": {
+        "sha256": "9e95dd7fed89b01247fe2a2e77dda4cccd5af5f9edc7620e8dac92a8143b7019",
+        "url": "https://files.pythonhosted.org/packages/28/95/71b16f395bb2ac44014f60997c1c5ee33b611a39299307deff6f7cbb7925/ocflib-2015.07.05.21.56.tar.gz"
+      },
+      "2015.07.06.00.23": {
+        "sha256": "669695296758fb679039b434e27bae9cc0f899b2bdafba885216262c6c250ff4",
+        "url": "https://files.pythonhosted.org/packages/42/9f/76847cddc802c5982ffa59993546e15e9b55672f4f38d6e8d1f0af0fd121/ocflib-2015.07.06.00.23.tar.gz"
+      },
+      "2015.07.07.00.04": {
+        "sha256": "208389240aebc8f790a78dfcf1bfbbb2626e7a6856fb692cc510eced6ed82b9d",
+        "url": "https://files.pythonhosted.org/packages/ed/69/5d09ff586ffcbb4e02d6d2c5daf5dc67eef1ebaf38be40e6093190b35277/ocflib-2015.07.07.00.04.tar.gz"
+      },
+      "2015.07.11.22.23": {
+        "sha256": "69fd1614c98b1da84a63a24806df5e6a3382a4e1d4235e19ec295d5973fcb602",
+        "url": "https://files.pythonhosted.org/packages/7f/d0/c7d44a6dbd12fd030589a05b0922bc2d1602607e0fd460e5f26f54973006/ocflib-2015.07.11.22.23.tar.gz"
+      },
+      "2015.08.01.16.57": {
+        "sha256": "ec3edad730085eca784d90205561780d0202e5bb3623680963027b1904a9564d",
+        "url": "https://files.pythonhosted.org/packages/cf/e7/9fcb6ab30cb92dfeeda5e96fa581081d8b48ee89b0b2574b09dd0e19cf96/ocflib-2015.08.01.16.57.tar.gz"
+      },
+      "2015.10.1.13.37": {
+        "sha256": "a87d9ce1cdac254188b1377e6afa7679b7e61470ec5b85fd84c25fe016764afb",
+        "url": "https://files.pythonhosted.org/packages/8d/82/c19ad3c6eb6839b81d5e22df3cf9233243a00ccc2152a06291d36edceddc/ocflib-2015.10.1.13.37.tar.gz"
+      },
+      "2015.10.11.19.41": {
+        "sha256": "b6a2bf76cf79f01d4789d09eed68e46b76ba68838048f4536cb0b268141bf182",
+        "url": "https://files.pythonhosted.org/packages/9b/33/5bf8286ce9029ac69f5a4433a54b6a2e5bb9d1886e08449b62753bd36981/ocflib-2015.10.11.19.41.tar.gz"
+      },
+      "2015.10.13.1.1": {
+        "sha256": "56be32bdda5de59f17656757061699b6efecce39e3a58e6307f86dbc0cea03d4",
+        "url": "https://files.pythonhosted.org/packages/d8/fa/34d09716ae9e4ac15e32eb664e9924ad95690b772353a986c88007a0d9ed/ocflib-2015.10.13.1.1.tar.gz"
+      },
+      "2015.10.13.1.5": {
+        "sha256": "9385266dcd1d672d0e5bc225dd56a965b56809e20de399543f81d2b848185793",
+        "url": "https://files.pythonhosted.org/packages/69/23/a37a97451be9a1713e7f634e1293258998935ce08b1d82b4f4f8db7e13d2/ocflib-2015.10.13.1.5.tar.gz"
+      },
+      "2015.10.14.10.32": {
+        "sha256": "89aecf3acd07226297f8e63becc35ef7f68223be36cda2937ff4d2ad8ed12aca",
+        "url": "https://files.pythonhosted.org/packages/20/e6/3507c2046fb730538d30c5538b32b8715cb35891726b87f249fcb129aa8c/ocflib-2015.10.14.10.32.tar.gz"
+      },
+      "2015.10.14.13.39": {
+        "sha256": "112a0eea7006a55896da804cae4c1560fe19c2ff2f02e4e367ffea4f67598103",
+        "url": "https://files.pythonhosted.org/packages/2d/8b/9715551138821141127fa2b881ec9d44cfdddf5387631270a2fa2f2005be/ocflib-2015.10.14.13.39.tar.gz"
+      },
+      "2015.10.22.20.37": {
+        "sha256": "4ce460f9256c494d3f2976d37bcd5e28cce11f27c90fc351843d959c5869e711",
+        "url": "https://files.pythonhosted.org/packages/e9/69/28be3f8f08f2374dabaa8c1aa529ae4e566926ef037c76cc228d212458a7/ocflib-2015.10.22.20.37.tar.gz"
+      },
+      "2015.10.28.16.34": {
+        "sha256": "7ad1feb307bf7172ce05d3a9406ceaf6249f12140ebd1ff211c676587f90e3d1",
+        "url": "https://files.pythonhosted.org/packages/5b/a7/fdb97857c7c00ce801e2317e2d72b0785b868ebddcd0b6f340c5b81ee3f0/ocflib-2015.10.28.16.34.tar.gz"
+      },
+      "2015.10.29.1.39": {
+        "sha256": "bae43ec070b1fdea3f9e589b50e9900b1a63cd4b93e0eac073438fa8f55eb943",
+        "url": "https://files.pythonhosted.org/packages/eb/c0/44aa3fb85f35744e5e82912ed2be128090087ef47d45ec40962fbf1ef42e/ocflib-2015.10.29.1.39.tar.gz"
+      },
+      "2015.10.29.18.17": {
+        "sha256": "eca504b56937bdb6e554afe4d09e936424423bd59c18f2c9e272b8ba3907358e",
+        "url": "https://files.pythonhosted.org/packages/cc/43/ba2415baab496642d2d304fd56b86d7943c6b4765e725b087856304a2748/ocflib-2015.10.29.18.17.tar.gz"
+      },
+      "2015.10.4.18.12": {
+        "sha256": "44fabc793030b23c40a6e829ee47b2b37c010599c8896622c88b69e2825d9c97",
+        "url": "https://files.pythonhosted.org/packages/96/67/adae93137cb65a6109e561be86a1fda15f2c8b9a7232552fb8ff12a1b6b3/ocflib-2015.10.4.18.12.tar.gz"
+      },
+      "2015.10.8.12.56": {
+        "sha256": "405c8a49e03c18bce2df259dfc9b83a47bf90ed75450dbea3933e646e541274f",
+        "url": "https://files.pythonhosted.org/packages/15/f2/83e2ed206fd9d8dc6e107cf79ccaee50f23755a89df00b54fe0e3b83c96e/ocflib-2015.10.8.12.56.tar.gz"
+      },
+      "2015.10.9.23.43": {
+        "sha256": "4adc0dda6f4d092692868587bcb39fdc8398f69e0f75f3799e5ea81315082425",
+        "url": "https://files.pythonhosted.org/packages/3c/28/4524d9ec8ce53a7fc2e96fc013cf24af462061d0886c40ef3852bf6a0e4d/ocflib-2015.10.9.23.43.tar.gz"
+      },
+      "2015.11.14.22.28": {
+        "sha256": "2ac4ff0aaf901a5b9129a299a50612dcc828d410943d6dfb22e5c7425231473b",
+        "url": "https://files.pythonhosted.org/packages/e3/a4/cd7d570bdcf94a08bc5eb85d3ceed9c71d35f719534ae1ddcddf4e89f301/ocflib-2015.11.14.22.28.tar.gz"
+      },
+      "2015.11.15.0.25": {
+        "sha256": "1d6109b0378cbb52dcccf6d49bfc5a44853c27829229b63e142da8499cc65cdd",
+        "url": "https://files.pythonhosted.org/packages/70/ea/93d5b30856bf5bf82d234c5d5a0a2aec1a69697617c07380bac930cbb158/ocflib-2015.11.15.0.25.tar.gz"
+      },
+      "2015.11.16.20.48": {
+        "sha256": "d1df3f6579d6938cb6199a2b0a665d9a8d3fe8e635c35950afc4aec4cd7004b8",
+        "url": "https://files.pythonhosted.org/packages/93/c2/cd5d6abeb48c738aac4f8a707e5ffe39799ad41c2d8410aa5338ba798d20/ocflib-2015.11.16.20.48.tar.gz"
+      },
+      "2015.11.21.22.18": {
+        "sha256": "b2b47d9aa438905bfcd55aa534435d7a961e4e6201af6d598833701e824cf00f",
+        "url": "https://files.pythonhosted.org/packages/49/18/6e423213d10622eaafd898a0b5ee0755a3db60e07c2062149f1ad7a264d6/ocflib-2015.11.21.22.18.tar.gz"
+      },
+      "2015.11.23.20.2": {
+        "sha256": "81fa2cd694acfb1237b4d4ae84b787c32d1b8cf4d970c0ed9b90e9f3084fe690",
+        "url": "https://files.pythonhosted.org/packages/70/52/cfed2d3c5e09af3ec897a6c175a62eb6203a8e84032f3e83b80f04717631/ocflib-2015.11.23.20.2.tar.gz"
+      },
+      "2015.11.23.20.23": {
+        "sha256": "fb5447c5c81952e2eeab893f4138a69205468b522c1003f3eedf78a54af6fb03",
+        "url": "https://files.pythonhosted.org/packages/0a/6f/6c81a864a2ecbddacd67dd18b40606c3797f0f1514912e01bf9f21104252/ocflib-2015.11.23.20.23.tar.gz"
+      },
+      "2015.11.24.15.58": {
+        "sha256": "69a3fffab6e0632bdb68c69c6e2b5225214d6f15e0b2cc56f3a4122a78bb4cef",
+        "url": "https://files.pythonhosted.org/packages/f2/c4/29260212c9a01f9810a41966ce3528d97d3110b26b5c3d8ad319c1c4dade/ocflib-2015.11.24.15.58.tar.gz"
+      },
+      "2015.11.24.17.12": {
+        "sha256": "2b8032d986b51c3c9c7985a5f194bf0acbcab2e305dcc130a8de16965133efda",
+        "url": "https://files.pythonhosted.org/packages/8f/ee/6cf7d86ecbf319350e7b3d380b392107d52d28b87a6eacae82dbd7d37a77/ocflib-2015.11.24.17.12.tar.gz"
+      },
+      "2015.11.24.17.54": {
+        "sha256": "c11b43f90bae038654d64936a2570ae4c0a36bac524f9e364f110780f75fd379",
+        "url": "https://files.pythonhosted.org/packages/3c/68/5b88a431ec491a5222eba7295d015bb36b2f34f900cb979ef56bdcbb6674/ocflib-2015.11.24.17.54.tar.gz"
+      },
+      "2015.11.24.17.56": {
+        "sha256": "1008c89f97b2414aa18293a28d1f668b6c7f35f804cd261bfc0a60bf8c2ea839",
+        "url": "https://files.pythonhosted.org/packages/41/20/2d27701ab6e466353446ab928adbe88dcb840ab2d0127dfbe441de76598c/ocflib-2015.11.24.17.56.tar.gz"
+      },
+      "2015.11.24.18.4": {
+        "sha256": "0bad093099ebb29b17c3e8e581247a544369929fe68b3e541d97db417724ae10",
+        "url": "https://files.pythonhosted.org/packages/c4/ba/a419a6c5cbacd1c460b5b2d7f831bcbe9792831afe854a93cdbb63c3c25b/ocflib-2015.11.24.18.4.tar.gz"
+      },
+      "2015.11.24.2.2": {
+        "sha256": "feed3e018d7e0036561778c1d6ac499f7ca6f255f65bb679c20e57c35d048f9a",
+        "url": "https://files.pythonhosted.org/packages/cf/e7/f0e70a66e5b8c8ea4144b6bccc922c34ec051cfcc9c693e4d99923942b12/ocflib-2015.11.24.2.2.tar.gz"
+      },
+      "2015.11.24.2.5": {
+        "sha256": "a3d5c728ec5511e5d5a61b5b1d77cea5f697e8410959978ba81b1757aaacff53",
+        "url": "https://files.pythonhosted.org/packages/9e/c4/408c3dad98e631e13846f1131761cd4f32774a5413d8e2c7ce5a9f882220/ocflib-2015.11.24.2.5.tar.gz"
+      },
+      "2015.11.24.23.21": {
+        "sha256": "b78a7425782d2c564c216b704b13d929405176b5a0ee80841319b927d8b4479d",
+        "url": "https://files.pythonhosted.org/packages/2d/a5/001944c3cd3be7d89ab5f8c0f42836c49aad826649d5c51ef8a84b2cb7ca/ocflib-2015.11.24.23.21.tar.gz"
+      },
+      "2015.11.26.21.24": {
+        "sha256": "2a9be83ceeaf91bc9064f3343f8fde82cdc38480aab0f5e17c5e4328bfa90c23",
+        "url": "https://files.pythonhosted.org/packages/d7/80/5807235e02599854ac66c663d1f8d63271270619216569f2b0add3ccd26e/ocflib-2015.11.26.21.24.tar.gz"
+      },
+      "2015.11.27.18.4": {
+        "sha256": "846c406cce07d0f49377aae491c7f79dde5ce3d0e59f456ef572fd5d4840c719",
+        "url": "https://files.pythonhosted.org/packages/18/4f/4762bb7b39a6a3c03eea1184a648ae5c585c29de06075fcbd5ce5af914bb/ocflib-2015.11.27.18.4.tar.gz"
+      },
+      "2015.11.27.18.8": {
+        "sha256": "8044e1d45bfde4895d4118c4a6f412caad670ddeca42a4775d0ca5ccd6895b3a",
+        "url": "https://files.pythonhosted.org/packages/db/06/7e71007f41204efd2059eb9e7e3f7e2917d838b292db09048a947f68b1df/ocflib-2015.11.27.18.8.tar.gz"
+      },
+      "2015.11.27.19.48": {
+        "sha256": "ab55afb7fe73d5bf671d84f335607c4dcb2a82d8b4dcf2054172dee42d13b7ef",
+        "url": "https://files.pythonhosted.org/packages/4f/c1/415942fa291e9781e9c01e406ff732b80bc619ec25cd64543e6c21e6bce7/ocflib-2015.11.27.19.48.tar.gz"
+      },
+      "2015.11.29.18.4": {
+        "sha256": "0586008a3088fcc6efef76852cfa8b54962f06807e45fff2a790cc83a2ae7aad",
+        "url": "https://files.pythonhosted.org/packages/22/c9/f81a5092e06ac5126ce2ab84102da52affbf14df0d2464411850087f1233/ocflib-2015.11.29.18.4.tar.gz"
+      },
+      "2015.11.29.3.20": {
+        "sha256": "21ff2ad63369f0dbe128d7e3843af32d6c636eac0cb62dd4eb76c7543a2f59a3",
+        "url": "https://files.pythonhosted.org/packages/ca/7e/6801f93a9d3c704bcfece9352055426d7ffe36d38650b1f5331b4792689f/ocflib-2015.11.29.3.20.tar.gz"
+      },
+      "2015.11.3.12.30": {
+        "sha256": "76282631c16f35708c03e576168074c77ecc4dbd6035fcb33606436ad8a47a20",
+        "url": "https://files.pythonhosted.org/packages/db/7f/e4983e856924a38a38276e846069487d6d77bbb1b35ea438e4aa3e003ec4/ocflib-2015.11.3.12.30.tar.gz"
+      },
+      "2015.11.5.11.24": {
+        "sha256": "6a60613d02bf223d33e52c3bdf39e87e70c8f6478226b1dbc9c57f826d7fb062",
+        "url": "https://files.pythonhosted.org/packages/9b/7a/382fc43f4f521947957eb6b4869e8a589af1d6783fd78694124ec5fad48c/ocflib-2015.11.5.11.24.tar.gz"
+      },
+      "2015.11.6.2.30": {
+        "sha256": "99675316abf3c5bfd27217b1a57d86330b5da35ca93adedb590f58e511c1a1dc",
+        "url": "https://files.pythonhosted.org/packages/bc/84/46dde294c5d50270235a7c0c9566cc6ca967595d76a508cda09846147353/ocflib-2015.11.6.2.30.tar.gz"
+      },
+      "2015.11.6.2.32": {
+        "sha256": "0feac6aa7c76892778726e6850bd2371b1e1ff5fa268b77d2a624f6212f652ec",
+        "url": "https://files.pythonhosted.org/packages/6a/07/beafc3f3bba643dc47644dfdaba1bf66c7da6c3cf87b3397923d725b744f/ocflib-2015.11.6.2.32.tar.gz"
+      },
+      "2015.11.6.2.4": {
+        "sha256": "d6132ef32febff53adfd24cfa566dac2eaa1822a1d185c633c8bdbafb88a5555",
+        "url": "https://files.pythonhosted.org/packages/75/64/60b5e92e3f9e21474bd8585286be8b8835bd211769881b80ec5e35a36d7e/ocflib-2015.11.6.2.4.tar.gz"
+      },
+      "2015.11.6.2.7": {
+        "sha256": "cc1283372b9963d30988df8593a0d3e1d735e41630738e2865a5a39edd47ffaa",
+        "url": "https://files.pythonhosted.org/packages/74/a8/d635423ec83e44ce036f0b7df89512e4ad0e5e457a387bb34529356e5634/ocflib-2015.11.6.2.7.tar.gz"
+      },
+      "2015.11.9.0.56": {
+        "sha256": "c824817ad38dd7d747659f3d57497faadb6f73ec1342302d1f57a593d61dceae",
+        "url": "https://files.pythonhosted.org/packages/64/cd/9f67f12db626d2d346f6b672db3a944dffeb57068366ece1653700ff90ba/ocflib-2015.11.9.0.56.tar.gz"
+      },
+      "2015.11.9.0.59": {
+        "sha256": "69ef4a01d0a3d6db5055c82f99616f9786cc1dc7cb64666cae5bc1bee962e013",
+        "url": "https://files.pythonhosted.org/packages/8d/a0/3fee6fa7f7be1ef1358184f0111462613cbcbd7309cfdaf46c1dd2b3f586/ocflib-2015.11.9.0.59.tar.gz"
+      },
+      "2015.12.1.14.37": {
+        "sha256": "6c330c5e26790a24007ed986fb8c76aa1fc8e10919b8f9065e661ba575f9958c",
+        "url": "https://files.pythonhosted.org/packages/16/31/26405b7d01df5e4823a170b579638bfafe1089f96fb013f372b3f0f18ecc/ocflib-2015.12.1.14.37.tar.gz"
+      },
+      "2015.12.10.16.9": {
+        "sha256": "745af4b1c3b50e497ab7e3e1c2f7e63a9d8ab6b2c688e32a3b9f07adc84fe65b",
+        "url": "https://files.pythonhosted.org/packages/cb/c3/170bd85d3f30f74fefc5343c3b7e39242fe491e29d438f81797a4d176ceb/ocflib-2015.12.10.16.9.tar.gz"
+      },
+      "2015.12.10.17.51": {
+        "sha256": "ebdf3ffcae055dc141cd00285bdb8e25c5e73a503113f2fae85f5fffbc2afb10",
+        "url": "https://files.pythonhosted.org/packages/ed/da/2ec4ffcb49085621f9f186b35b6675d11b421c27efb49627802d03b6104b/ocflib-2015.12.10.17.51.tar.gz"
+      },
+      "2015.12.10.18.1": {
+        "sha256": "04664394bbbd0580d662bf59ff7405bf8d134c422ef2d36e6e5fd8c83bea214d",
+        "url": "https://files.pythonhosted.org/packages/6f/74/2aa66b8ad88d7e4367f7725b023dafdc21185ab440b54ec210102fae7cb9/ocflib-2015.12.10.18.1.tar.gz"
+      },
+      "2015.12.11.17.39": {
+        "sha256": "61eb6a3d7011141c032658e5a5f3ed2ae3b3b761babad0d02607c935d2c025aa",
+        "url": "https://files.pythonhosted.org/packages/19/80/145f7c39444a9a99f02d79dc79ac40c731b7ab9844ec8ac8fe7863b2a0d1/ocflib-2015.12.11.17.39.tar.gz"
+      },
+      "2015.12.12.0.52": {
+        "sha256": "ff95d9952496d3520be8280221c973021a9301d8996ee8c0aec1a0c04e548bd1",
+        "url": "https://files.pythonhosted.org/packages/f1/00/b284919ad17588c61b3b621bec8d9909bb1d0e18679b5f1516c50b2803b5/ocflib-2015.12.12.0.52.tar.gz"
+      },
+      "2015.12.12.0.59": {
+        "sha256": "6b11eda5b281e04368de6be8aacfcc4eae49f3b4f9903d9c83492aa705967b1e",
+        "url": "https://files.pythonhosted.org/packages/e8/d9/28dd5c81629d6de904faf6a41ae61d0b1b34d2d2cdb988f30d1a89e78c42/ocflib-2015.12.12.0.59.tar.gz"
+      },
+      "2015.12.22.14.29": {
+        "sha256": "20e4387467c34b3ec026e1d8582fe2044c097c35358139966e81e46cf7b2b3ff",
+        "url": "https://files.pythonhosted.org/packages/13/64/fb0238cc0dad351ba004aef7babc41a3af22c4ae3758d259516848ea4bde/ocflib-2015.12.22.14.29.tar.gz"
+      },
+      "2015.12.22.9.52": {
+        "sha256": "3f9f32d5016a3b5a1a1f970df46b496008de3d16a1f528c925f7b75542ab8abb",
+        "url": "https://files.pythonhosted.org/packages/7d/cc/31f2eb7c7e2843cccade41e7c1c564a7295403a9de73e7ef09c8260de423/ocflib-2015.12.22.9.52.tar.gz"
+      },
+      "2015.12.23.14.2": {
+        "sha256": "545af8f6cd7c9ae38e4f2c6461b662dd77df9daf2dfcc2202e924353a9a4f848",
+        "url": "https://files.pythonhosted.org/packages/ad/c8/6c24466403d58704a7063b085e76a5dff9796f3c20fd1c9e1516bdc0d3a2/ocflib-2015.12.23.14.2.tar.gz"
+      },
+      "2015.12.24.9.32": {
+        "sha256": "63ae2f10518af567e7517f96473b7e8784b09230003c263e8f6d66a228c2debb",
+        "url": "https://files.pythonhosted.org/packages/bd/e1/ebfcb0ffcc462eeabe055c1d473dee5b82678603880be6e48161fe345577/ocflib-2015.12.24.9.32.tar.gz"
+      },
+      "2015.12.24.9.51": {
+        "sha256": "97366862e2c5068762c06b5390eafe5d6f3cb2a87ed8eb5a2a2714b7667d9d59",
+        "url": "https://files.pythonhosted.org/packages/fa/ff/8c9778af1b9c1d0163961b5d0b817695a59817a131df9a5f476fdc3591d1/ocflib-2015.12.24.9.51.tar.gz"
+      },
+      "2015.12.25.11.44": {
+        "sha256": "f765a7e99059eaa492473feaa35c77322945f516fc6aa6525889e420dda5c648",
+        "url": "https://files.pythonhosted.org/packages/95/d0/d1d3b113cd50653be5e94c910921d0280789006c9a0ff20f043a57109517/ocflib-2015.12.25.11.44.tar.gz"
+      },
+      "2015.12.28.15.19": {
+        "sha256": "6a1e6f5a7ebf6c94dbf41d139f4ba68f711a1a2bc73d725b63ec22a0ea3f5199",
+        "url": "https://files.pythonhosted.org/packages/89/ef/8a0c4dd72bcf7393038c29520c962f865afc358d26258cca6d4d685d30f6/ocflib-2015.12.28.15.19.tar.gz"
+      },
+      "2015.12.3.14.57": {
+        "sha256": "40071a41cff1a06de77bb8735ee13ae74ef520316ec57a1d4ffb675220ed23ae",
+        "url": "https://files.pythonhosted.org/packages/a3/e9/41f00d15cf83a015cfff41822c19fe2873b81c188f19055681c099a38b38/ocflib-2015.12.3.14.57.tar.gz"
+      },
+      "2015.12.4.3.5": {
+        "sha256": "9812443d4c68998fb69bed2d5dbb55233c67eefea2798d3be68bb73fb7fc9b7b",
+        "url": "https://files.pythonhosted.org/packages/0b/eb/57461212f7e7ace398d3e9f35066de91bba0047251470b7d9482ac85401f/ocflib-2015.12.4.3.5.tar.gz"
+      },
+      "2015.12.6.0.9": {
+        "sha256": "b515534a0793a86ba722ee0e5d8866674a1b0c227b4e34a29d18c1d37c611016",
+        "url": "https://files.pythonhosted.org/packages/78/ea/f195c5e2161d896e4890a5b7e4ae39c5e87fcd04bb3c22d25104cadb4627/ocflib-2015.12.6.0.9.tar.gz"
+      },
+      "2015.6.21.20.49": {
+        "sha256": "dbf229c915899aa3f1074104cd3d61f66f54281b30da13ed87f48885e52317f4",
+        "url": "https://files.pythonhosted.org/packages/27/ed/cd1abae4a675aa4c39bf13cb873134cddf5982726def9fe0ae9aa28b1353/ocflib-2015.6.21.20.49.tar.gz"
+      },
+      "2015.6.21.20.51": {
+        "sha256": "6d4ff8ef357714743e151a00a2edbf702ad5b7ef1dc16b728407050d1b83683c",
+        "url": "https://files.pythonhosted.org/packages/8a/e2/34556dc038e40d520cbf4aac94d8bacfc8faed7e41a0add57f5a1b52606d/ocflib-2015.6.21.20.51.tar.gz"
+      },
+      "2015.6.21.20.54": {
+        "sha256": "3f194c854671c18b0d3b4a69ad6c109bafa56877fcb22d1df5f78b41270d0f7e",
+        "url": "https://files.pythonhosted.org/packages/1e/3c/674db28f15e494b460ea4f920862bdd8ea20d8cd858d289b2dc1002f6d19/ocflib-2015.6.21.20.54.tar.gz"
+      },
+      "2015.8.1.23.9": {
+        "sha256": "5cae6a6774f052359c9e76552251c19a612113fb1c1502d59a9613e2faf6a3da",
+        "url": "https://files.pythonhosted.org/packages/21/68/c36b8405177196b422580d9570c0b7fc1b31ac9787b00e8c43129ec1928a/ocflib-2015.8.1.23.9.tar.gz"
+      },
+      "2015.8.10.10.53": {
+        "sha256": "a32fcf3ccc0af17695b0cc84f0b4d781423f0ec23ac03b82b711302cccbc1513",
+        "url": "https://files.pythonhosted.org/packages/fc/b6/bcd7e8ffd0be5a27b704c9a032118d949885a7d7237bfa6f208fdf90856a/ocflib-2015.8.10.10.53.tar.gz"
+      },
+      "2015.8.15.19.17": {
+        "sha256": "96542abeb10de0a1266c5113f8a3b94cb9354af0f14933176cd3c48c20488aa4",
+        "url": "https://files.pythonhosted.org/packages/30/98/96d72656f1b399a1d80478fd8c7f73b6cbac798d01845754d64b78e75208/ocflib-2015.8.15.19.17.tar.gz"
+      },
+      "2015.8.16.0.42": {
+        "sha256": "2b9daf14d25421510e427b089e49dae0876070971b9e2de1c5eb774f1e615ae6",
+        "url": "https://files.pythonhosted.org/packages/d3/16/09ea7227bdb247340a408522e9c5b4bb7f427ee42f338830df37ea0111c8/ocflib-2015.8.16.0.42.tar.gz"
+      },
+      "2015.8.16.14.2": {
+        "sha256": "28566d9b921593cce438a5589c2736a871dddc011dd84632cd237d091a0a4ca3",
+        "url": "https://files.pythonhosted.org/packages/d3/9a/74299d214825f3f2f0e760fcc960e0a945f11557173c864329cf313e5749/ocflib-2015.8.16.14.2.tar.gz"
+      },
+      "2015.8.16.22.56": {
+        "sha256": "7e21fa5d0bfc2c07b6ec1f8189299ebad84e54335d87f698fe44c981f50f41c7",
+        "url": "https://files.pythonhosted.org/packages/6b/29/610ac8e491db2e6b41292abf89330c0afe1939300ba229a067e506c7ba9f/ocflib-2015.8.16.22.56.tar.gz"
+      },
+      "2015.8.16.23.11": {
+        "sha256": "a3614a7d327b0d64657b069f8763f116f6c5fc2a451e6da8a7e963cff7c1c53a",
+        "url": "https://files.pythonhosted.org/packages/a0/cc/84cf921e1e2fcf55c48cc2666dbbff1e68c24725588a0276b3206442b830/ocflib-2015.8.16.23.11.tar.gz"
+      },
+      "2015.8.17.23.18": {
+        "sha256": "2d81a26ffa1c73b7a1f3448bfdd633accf26781b6340033d26e8ae59e3a21add",
+        "url": "https://files.pythonhosted.org/packages/72/23/68753d9a5477b354cf6d3cab31e17790f04cb52314ffb838afa4e65b9d08/ocflib-2015.8.17.23.18.tar.gz"
+      },
+      "2015.8.18.0.52": {
+        "sha256": "3ac3f627c3001da255a4171d2836a041139a395de9a01877ba791f6403c3f436",
+        "url": "https://files.pythonhosted.org/packages/c3/4c/b93bd314c1d8b82d975a9d16b13b7ce828d0da96d5dc30cf13fa24cfe018/ocflib-2015.8.18.0.52.tar.gz"
+      },
+      "2015.8.18.0.53": {
+        "sha256": "1d41ce7b18d733eefc2ee13135553b1cb6d7e5b88e44aedc5b2150c118f4bfa1",
+        "url": "https://files.pythonhosted.org/packages/0f/e1/1ba269ff8b86d25873a2c9d7e7fdc68292905815b7d1f7f6f65727931ea5/ocflib-2015.8.18.0.53.tar.gz"
+      },
+      "2015.8.18.0.54": {
+        "sha256": "c0528ee7ad31b75b15aae824211304bfbc17c86ef003ce7eb304dbad8490fdba",
+        "url": "https://files.pythonhosted.org/packages/62/5c/67cf0bf643aaa048112d560cba92451af3ccbe89e2dfa4f2b50f1701b748/ocflib-2015.8.18.0.54.tar.gz"
+      },
+      "2015.8.18.0.57": {
+        "sha256": "7ff6d439e304e44e53477ca7a585441d5c299b2f970466df6108772e64d285ef",
+        "url": "https://files.pythonhosted.org/packages/d1/83/0d2c63bde52505e4339da1f237508892982b01fd06ae1e562f3ac3986abe/ocflib-2015.8.18.0.57.tar.gz"
+      },
+      "2015.8.18.1.0": {
+        "sha256": "9c7c212d2d0d22b3bcc0a54d473ebf8b32d2d1744ab83c3b497a3d21b9779f29",
+        "url": "https://files.pythonhosted.org/packages/66/e7/eb9dcb04dea494d77c1c1dee612a736300c5d3e5c28fa96a5170886c007d/ocflib-2015.8.18.1.0.tar.gz"
+      },
+      "2015.8.18.1.14": {
+        "sha256": "d5319ad1b21fdcf9d12a91d47d971974a3418d3d2234402915d9fa1174a61abf",
+        "url": "https://files.pythonhosted.org/packages/e5/3d/220e50b46263de5d94ea7e70ff2c534f16a76a34c5d9d7fbfd0a257a9bbc/ocflib-2015.8.18.1.14.tar.gz"
+      },
+      "2015.8.18.1.3": {
+        "sha256": "3535c9f5393e87aeb97b81051af72025dd0ee28dc25ce8f4e1a42424ec4c1daa",
+        "url": "https://files.pythonhosted.org/packages/fc/bd/7f19f9c30d890cdd72b07731de0dcb6c67b34b1ac61f05c0e69a5c1e3fd5/ocflib-2015.8.18.1.3.tar.gz"
+      },
+      "2015.8.18.1.7": {
+        "sha256": "d2e5f9f49cc9f9eac74a7dd7736a7a3fe9489ab5f7cd323c40a4e30b2c12bb38",
+        "url": "https://files.pythonhosted.org/packages/e4/9d/29c2de25d58729c1b7a5cdee6da08cc16caad7cd39f2a7d042dde2eff1a8/ocflib-2015.8.18.1.7.tar.gz"
+      },
+      "2015.8.18.10.0": {
+        "sha256": "2292e85cebf6e70c75cc65aafb259600d1043b0225c3a1de50d4f12284e20679",
+        "url": "https://files.pythonhosted.org/packages/ee/23/bd00efce4cafb6117fb03eb397df5ae830e19e88cfc8af93bde95f231782/ocflib-2015.8.18.10.0.tar.gz"
+      },
+      "2015.8.18.10.47": {
+        "sha256": "582ef5acf1dc7023fb5afab10c3d122d22c087b73b8c13d36f0c267b7f23b264",
+        "url": "https://files.pythonhosted.org/packages/a1/4c/f63a4eb3c845de1470a998096110c29d2e3f355b17473f1c3aa902e3ebd1/ocflib-2015.8.18.10.47.tar.gz"
+      },
+      "2015.8.18.9.58": {
+        "sha256": "35df1078b2f3a27f55f8edc41c8baf94840b01b9d1a30b5c46364ad333ebb225",
+        "url": "https://files.pythonhosted.org/packages/e5/c4/93ef448b3af4dd1be9a0845065c91e3bf83a7dc30fba3ad47f2d64042812/ocflib-2015.8.18.9.58.tar.gz"
+      },
+      "2015.8.19.1.46": {
+        "sha256": "245c6f8bee1ddaf52a79844a6f52dde6514367e7dd2bf23ef8025e80880df384",
+        "url": "https://files.pythonhosted.org/packages/50/38/b98e6edabe6ff4f48b8fb658cb8b5d450503fdd47931d20ea0cb99b52e33/ocflib-2015.8.19.1.46.tar.gz"
+      },
+      "2015.8.19.18.59": {
+        "sha256": "6bf53e5b26fc8b7c048188ce021d62891cd43c0f753c6a7b701ca774213de3fd",
+        "url": "https://files.pythonhosted.org/packages/75/30/2f5684939064ca410c35b6c3787cebca492161161aca3e1fe5cf412d28c2/ocflib-2015.8.19.18.59.tar.gz"
+      },
+      "2015.8.19.20.25": {
+        "sha256": "3530327c74bc87a9f3a2a4194269b2a82502b3b3f1d7e267018c76777236b8a6",
+        "url": "https://files.pythonhosted.org/packages/2e/51/a48e4f8f638909893a5190cbfc548da6ffdc94a345e8bc215615fb22bf5b/ocflib-2015.8.19.20.25.tar.gz"
+      },
+      "2015.8.2.15.8": {
+        "sha256": "aa1a7d9555610858d4bde5073ff6996d088f5cfb313d127d447f95887387e12e",
+        "url": "https://files.pythonhosted.org/packages/6d/3d/7f8a549fc06d50a6d2755ba76c9fd39f8c3d6c5a19132befc112baf1ef91/ocflib-2015.8.2.15.8.tar.gz"
+      },
+      "2015.8.20.0.46": {
+        "sha256": "817ec0ea65cdb4250b98813d4f0e5dc8a75a7915e638d89d624831f087e7a9bf",
+        "url": "https://files.pythonhosted.org/packages/6c/82/6db9d74dd193f668f11314b6bf113d10619d22612ddfc14aa51854366785/ocflib-2015.8.20.0.46.tar.gz"
+      },
+      "2015.8.21.16.49": {
+        "sha256": "b4f7218cf7f1223ff04ddf8ab329e992896ce3579a2f06219ef1a5b1ebd73148",
+        "url": "https://files.pythonhosted.org/packages/4b/e9/263c91f5b94547f129e20b40edb54815eae3972e7245b7b56c4025e67eb6/ocflib-2015.8.21.16.49.tar.gz"
+      },
+      "2015.8.21.17.28": {
+        "sha256": "2afe0e1b584e71ed3b0088e0e72524194c24deef78aa6a50ce6c48201b3b83a1",
+        "url": "https://files.pythonhosted.org/packages/aa/21/5765ad2c7c50605a117d1ba2676bd80b46d83197f49ea9f87c11d1d7e90f/ocflib-2015.8.21.17.28.tar.gz"
+      },
+      "2015.8.22.13.45": {
+        "sha256": "e95a3f781897e2656383d2b1ac6f3c07902af45b675e2e142e754c579611541c",
+        "url": "https://files.pythonhosted.org/packages/18/76/e9130301582a5701b0579eeea40f40011a03bf9fd5d823ce40a06bf91838/ocflib-2015.8.22.13.45.tar.gz"
+      },
+      "2015.8.23.0.3": {
+        "sha256": "9d903505e78620cfe8e5a92ba99e7499ad63153e40a6b2683ff69622b3b2bd2b",
+        "url": "https://files.pythonhosted.org/packages/a1/88/25eb368ea4e1e7682e2b06c3a4ad1269e529010c494181b5fabaaedd3d89/ocflib-2015.8.23.0.3.tar.gz"
+      },
+      "2015.8.23.12.35": {
+        "sha256": "40d39bc2f2fee06d000e453d094fcbdc1abb5aeae0c3d59e2f362e8d1d114ce9",
+        "url": "https://files.pythonhosted.org/packages/fc/c4/8f1efa6942518df433b082bf0dd9f6665fa51506450118ce3f28c53b9f96/ocflib-2015.8.23.12.35.tar.gz"
+      },
+      "2015.8.23.16.47": {
+        "sha256": "837dadf013d95365eb990b67c32a3759e353ded9d20382e7a12477e0c9ee826a",
+        "url": "https://files.pythonhosted.org/packages/b7/e6/0016832a67fa807f74900538bc4d6e16aaa4bae942bc4f1267417314078c/ocflib-2015.8.23.16.47.tar.gz"
+      },
+      "2015.8.27.13.3": {
+        "sha256": "fa98337171f50781c0e41fe6482010f836274c91a3eba2e92ccd499f6f8b2b87",
+        "url": "https://files.pythonhosted.org/packages/b0/fb/9e259b4468ad457482066cb108a9474c28a270dcf6c3696a19fde448ef3a/ocflib-2015.8.27.13.3.tar.gz"
+      },
+      "2015.8.27.13.7": {
+        "sha256": "c54250d6d13044d708cb43acbe51e4d3472e9d2c91e7c3dc4ea70c65f63f3046",
+        "url": "https://files.pythonhosted.org/packages/98/49/9adaabd846c0a504dc5cb42cd2982eb998bb5648848d2493235b64678993/ocflib-2015.8.27.13.7.tar.gz"
+      },
+      "2015.8.3.22.21": {
+        "sha256": "37d7b6c94955c2dcb10aacc8fcf2a2642f87a8db0c3f4609aff8fe1b3d4e1110",
+        "url": "https://files.pythonhosted.org/packages/57/12/e708f992dd2ac1c9fd135fd931ade15320bbbfef5969a19afbda9b5c513b/ocflib-2015.8.3.22.21.tar.gz"
+      },
+      "2015.8.31.18.48": {
+        "sha256": "2279b3db3bef01427037e279bd1dc86904576c95393f3fa76b76159e7e7ff377",
+        "url": "https://files.pythonhosted.org/packages/e0/f9/0618e48314ee25be1e2e7d69142c11d077a52ffda2a8c5311fce27d3440e/ocflib-2015.8.31.18.48.tar.gz"
+      },
+      "2015.8.9.0.2": {
+        "sha256": "dc5b341068cb72ab2dbbe4d7abeef306b92433720e661307dad13024798908a2",
+        "url": "https://files.pythonhosted.org/packages/6b/b5/1bccb18b915556117a6238ee0e2899b0e4d4d825af721191a49fe72ec384/ocflib-2015.8.9.0.2.tar.gz"
+      },
+      "2015.8.9.0.50": {
+        "sha256": "36a72d9f822836d94f952e9d0e80c02aa9625ffa7c76242742e3124c772f2500",
+        "url": "https://files.pythonhosted.org/packages/d3/74/b265816a1da7e8b3172dbf0fb8eac1d7a78c84c1222dc9a548a8808b3b85/ocflib-2015.8.9.0.50.tar.gz"
+      },
+      "2015.8.9.23.40": {
+        "sha256": "28312e4ef7c935e4f30163b84d138d292249fcbd7ab2fee79bca91a050b1a2c9",
+        "url": "https://files.pythonhosted.org/packages/e9/e5/3718cedfc27002b8d96702807ae7ad9808257f55057047b54f4316867a05/ocflib-2015.8.9.23.40.tar.gz"
+      },
+      "2015.9.15.16.9": {
+        "sha256": "229e5ef8d8238f95e3ec9f65ce4076305c70c54be2f643bd211f2af0faa2444f",
+        "url": "https://files.pythonhosted.org/packages/f1/3a/bd2e48cc49304822879dfd10c7788398128c71db2abb4f9d91ac5325695d/ocflib-2015.9.15.16.9.tar.gz"
+      },
+      "2015.9.17.0.17": {
+        "sha256": "b3241dfbdffc1bbd1be366cab8362dbc23f26e8e44db7352f2234ce4e46d79dd",
+        "url": "https://files.pythonhosted.org/packages/1d/43/0cb63f3e37d9f433ffa2a9112502032f5c40600a1063b9d0ee7eecd286a5/ocflib-2015.9.17.0.17.tar.gz"
+      },
+      "2015.9.17.20.44": {
+        "sha256": "87d17ef9fc80cbe1b0802e5c2f2090f15965c9b576bffa733bd4d412d33b8b0f",
+        "url": "https://files.pythonhosted.org/packages/b3/a0/f1a2d87333dd67162562be52309d66d27cc1c321d08ffd031ef2ed95d5e6/ocflib-2015.9.17.20.44.tar.gz"
+      },
+      "2015.9.23.16.14": {
+        "sha256": "f78ab69bf13c00b7825f7253e0625c5fb2b6a18d654c4c1e263e210a37e2826d",
+        "url": "https://files.pythonhosted.org/packages/62/e4/7921ba6c55ee94ef01740ffe7fe8b152d920705a74c75ad6842ece310bfe/ocflib-2015.9.23.16.14.tar.gz"
+      },
+      "2015.9.23.16.8": {
+        "sha256": "76e4719360cabb44d7387e71ef5d6a51d49e6c5669282841f13c0e5c1b72f6db",
+        "url": "https://files.pythonhosted.org/packages/32/d3/a6239d9ceeba9e611a6169a97fa915eb95ad496693e2c46ea764499c50b7/ocflib-2015.9.23.16.8.tar.gz"
+      },
+      "2015.9.29.11.50": {
+        "sha256": "bddfd052509548583314d35c54dd2e710ca307f8092ca0fc5da6c9e1d9839c7d",
+        "url": "https://files.pythonhosted.org/packages/ea/24/55d331a0ce26792024729ebf8b20bcfe793088b993ac972c5e983a832f08/ocflib-2015.9.29.11.50.tar.gz"
+      },
+      "2015.9.8.15.30": {
+        "sha256": "eb80883a4d566dee444c1f04ae46c42e097725f8f5147cbfa90967100e97ba46",
+        "url": "https://files.pythonhosted.org/packages/47/11/a88b08557729033abd06ea04af7f9897ac8367edb52028e42e9ecae20958/ocflib-2015.9.8.15.30.tar.gz"
+      },
+      "2015.9.9.19.17": {
+        "sha256": "f6c29132b13ea1d2ad7dcd26cb4de0b87550790328cf9b05a7c7b835385982b8",
+        "url": "https://files.pythonhosted.org/packages/ef/fe/cb1b4e7ddeaca21d64b76015f5dcd334409b2ee1cf7530e209fe35555650/ocflib-2015.9.9.19.17.tar.gz"
+      },
+      "2016.1.18.2.34": {
+        "sha256": "c95fce7e99d4c96590f703ef8609211c352d39543d059e2147519020748e3315",
+        "url": "https://files.pythonhosted.org/packages/38/a9/c51919ef789c95b766b422083e39cde2639fa36daa1136a50602b146b089/ocflib-2016.1.18.2.34.tar.gz"
+      },
+      "2016.1.19.0.8": {
+        "sha256": "736bd9220f8892e4d775cc6567a974a8731aa566908064affc72aa228eb6a6b6",
+        "url": "https://files.pythonhosted.org/packages/bc/e2/c9dcb591ec808752f99f66d6cc0d30acb572acd030cf26a4700bda2145d9/ocflib-2016.1.19.0.8.tar.gz"
+      },
+      "2016.1.19.1.17": {
+        "sha256": "072f2d3eddbb9534c723fc0413673f10fdfc0b2db87a818285445fade6310df6",
+        "url": "https://files.pythonhosted.org/packages/07/60/5aec6c467e5b870df41e9e357b6a17060ac20d140ece4dd0c7f2d2ed12d9/ocflib-2016.1.19.1.17.tar.gz"
+      },
+      "2016.1.19.12.59": {
+        "sha256": "1f3b930069cbde94c3c7a395f5b335a5fca356d430c25e8c322d2aec5b019d1a",
+        "url": "https://files.pythonhosted.org/packages/50/d9/a99e9e334febd730c7a04b266cb83bb79faa4b78e815f413089acf0bf613/ocflib-2016.1.19.12.59.tar.gz"
+      },
+      "2016.1.20.14.12": {
+        "sha256": "419d55ba4aacaceeb74844218afc50258c800941f8b58e43de7a7e4f24d14c57",
+        "url": "https://files.pythonhosted.org/packages/0d/42/87a735ba5699ca9f3717e2326d4b66a9425db4556bbfbcb24c74923654cb/ocflib-2016.1.20.14.12.tar.gz"
+      },
+      "2016.1.20.14.19": {
+        "sha256": "8170623d825775c94f8196cf71f2de1860b02251e685f395c753701c86d647bf",
+        "url": "https://files.pythonhosted.org/packages/5f/63/48023e0bb70d7b8a379673048e6455e830f8b2cd6569223b9018d46d1742/ocflib-2016.1.20.14.19.tar.gz"
+      },
+      "2016.1.20.17.55": {
+        "sha256": "98f132f86d33668f30b14d1ebae7e1887ab11b788066619c01ef60db7ab041c9",
+        "url": "https://files.pythonhosted.org/packages/c0/65/deb9308d58bfa10fbb97d2ec83292b7574464106546bdaf7fb806932bbc2/ocflib-2016.1.20.17.55.tar.gz"
+      },
+      "2016.1.21.22.24": {
+        "sha256": "af2f26edbf7d3d2ae1dd49da25ec336e9c97a330f0c2976acd5f8c46bf673997",
+        "url": "https://files.pythonhosted.org/packages/9f/af/6a220530b79bc4aa8c747db90bcd3c07d4bc43702d57ecb0d4b1ac79cc03/ocflib-2016.1.21.22.24.tar.gz"
+      },
+      "2016.1.22.18.33": {
+        "sha256": "d128753cc76c1ec8b6bdd9770a35cce45f9a119395c349915af7003ae320448e",
+        "url": "https://files.pythonhosted.org/packages/ef/5e/8e0a053bb99b1a45d937661ff5e2d7822684d8772ef8274f853e082dcd43/ocflib-2016.1.22.18.33.tar.gz"
+      },
+      "2016.1.22.23.42": {
+        "sha256": "57f117bbc9fb9258fbbaadcf7dfe5b33662a8ba1bb23938162ff712b997534bb",
+        "url": "https://files.pythonhosted.org/packages/f4/49/95cb30cd78a3d227f2eebb8c9bc1e05c5c812c7d3a9d84192bd5cd0e2adb/ocflib-2016.1.22.23.42.tar.gz"
+      },
+      "2016.1.24.3.5": {
+        "sha256": "b7858a150fc8be2aba7f4e43c910223b8be1efa1b8f2b36af142eb2bdc5685af",
+        "url": "https://files.pythonhosted.org/packages/92/05/c75110c467409e3c5f13f0bdc9000d4be3ec235f6dfd35bb8abf633978fd/ocflib-2016.1.24.3.5.tar.gz"
+      },
+      "2016.2.10.17.18": {
+        "sha256": "be04063d199df15322ff91bd9eae94790f019ee2f96d70347d5efa7badb3a281",
+        "url": "https://files.pythonhosted.org/packages/52/4c/81a2ea0e5c0188e149574cee8c325f5124219d41e25fb253a9407a788a98/ocflib-2016.2.10.17.18.tar.gz"
+      },
+      "2016.2.10.17.34": {
+        "sha256": "0f3e6453ad2fd9ea2503084c1b4b9a9979a6f05fae9645f14e47655593e9ad6f",
+        "url": "https://files.pythonhosted.org/packages/9d/66/cd629daf7cdff5ed6e96fcbd6a754bf53827943ffdec8bde7b72097f57fd/ocflib-2016.2.10.17.34.tar.gz"
+      },
+      "2016.2.10.19.46": {
+        "sha256": "0e6d1614b06a79f195c646773449b89a31ea04de80f791191abe9b94edb40cb6",
+        "url": "https://files.pythonhosted.org/packages/4c/7d/199d598a893a6b148900e125918e1ae7f8a4ddfd92f8381c0fe572656656/ocflib-2016.2.10.19.46.tar.gz"
+      },
+      "2016.2.10.21.35": {
+        "sha256": "67e8801063cbd5039f36238247b7cbaae44712e4a0c3b298101f88de22603b73",
+        "url": "https://files.pythonhosted.org/packages/4f/9c/17e48cb5d68ecb2adcf0df248b015033dca4d71eee5f12f9c5c5bdc0a740/ocflib-2016.2.10.21.35.tar.gz"
+      },
+      "2016.2.11.14.56": {
+        "sha256": "05ef9a2ca8906ccee827fda1854739b39aa5c54561d4521f74d38107b33c8473",
+        "url": "https://files.pythonhosted.org/packages/bb/2e/71099f012f106107640b15f7eea0e5f8fc8ddd5be91fbbe0dcefe1eacc00/ocflib-2016.2.11.14.56.tar.gz"
+      },
+      "2016.2.13.1.23": {
+        "sha256": "6a7566e284e5b2b797bdc185ec8420410d6246faf94be12de0d6d4c1846da83f",
+        "url": "https://files.pythonhosted.org/packages/40/ef/da694e40202f271b50d512d584316ef4e1f27349e7067d50f5fa1d130b4a/ocflib-2016.2.13.1.23.tar.gz"
+      },
+      "2016.2.13.1.57": {
+        "sha256": "75fea59b1fe60ba22680d44be3b3bf7c42db7fa3659e5314280fcea1311e1cd4",
+        "url": "https://files.pythonhosted.org/packages/cd/9d/7131dd88288c3fb2df6b830b73435a4784f7c343865ba716f2a55b633fc7/ocflib-2016.2.13.1.57.tar.gz"
+      },
+      "2016.2.13.1.6": {
+        "sha256": "42e9c05ab2d514ebb49fb826bd177ecda079ae2da1b9e91068f2299796fe320c",
+        "url": "https://files.pythonhosted.org/packages/d7/7b/652212b825e7997d83dd19e9788ffdf895bd33b3810bca6c2c85614701f9/ocflib-2016.2.13.1.6.tar.gz"
+      },
+      "2016.2.13.19.42": {
+        "sha256": "c47f5a7ef1e353797528b702a0506681868aa1d5f38c15bac26404f78f239072",
+        "url": "https://files.pythonhosted.org/packages/27/e3/1cdc4f84f61d6a187124e4ccb8fcbdbb7b3a4b507d644e3388d02deb9f65/ocflib-2016.2.13.19.42.tar.gz"
+      },
+      "2016.2.15.23.52": {
+        "sha256": "47feb8e02e53cbe9ca9cf556d4efd1bf2cbd7d50b5308a3d4b181ca7ea419728",
+        "url": "https://files.pythonhosted.org/packages/a9/1b/c4691bc0a4f3987c643f8fd093df5b8f0a65da93118a29180398f9817c02/ocflib-2016.2.15.23.52.tar.gz"
+      },
+      "2016.2.15.23.57": {
+        "sha256": "bd5d6439db6bac018275410b5cf1b0c48106f6173003bdb7e497fd3c2ac2b6be",
+        "url": "https://files.pythonhosted.org/packages/4d/c3/e8d045d7a9b197b4d4d103a0b5c71afa5d4b8a07d45bc13707c02998bcec/ocflib-2016.2.15.23.57.tar.gz"
+      },
+      "2016.2.18.20.45": {
+        "sha256": "4da68d20dc7ba7d0ae3cec32fe1f5709f6f97d8a12f9f994eab30ea7296295bd",
+        "url": "https://files.pythonhosted.org/packages/d9/7d/588df7cd5acdb7a04eefdb9ce3ca1a00a2fdb61a540565a0669033404813/ocflib-2016.2.18.20.45.tar.gz"
+      },
+      "2016.2.18.21.12": {
+        "sha256": "fd81d88513e98db623a5249844d127272c86aa7f9a63df5daf9a3f0a0e1f79ac",
+        "url": "https://files.pythonhosted.org/packages/88/4b/ca518f77049a6d38900a619409df6bb20dd0a1b28e6a15ef773a4f0074f1/ocflib-2016.2.18.21.12.tar.gz"
+      },
+      "2016.2.18.21.36": {
+        "sha256": "e348a64bbfbb57a6ac8560c91b4709fe73a9c7d83938f0770708b266f08e1f82",
+        "url": "https://files.pythonhosted.org/packages/cb/9e/3fbcd8001b83cf3ced3de2f665603f0f95aa754408751e49619b97b786e7/ocflib-2016.2.18.21.36.tar.gz"
+      },
+      "2016.2.23.18.1": {
+        "sha256": "9bf7a0065608d8f33640da484f23989b6fe9336aa399f020557c60d4b00ea15e",
+        "url": "https://files.pythonhosted.org/packages/8e/f4/95ba733a63c6b5b1237092ea22d5228cd938d7c85377f12e504d89cfd42d/ocflib-2016.2.23.18.1.tar.gz"
+      },
+      "2016.2.23.23.10": {
+        "sha256": "b6b21f8372bb3c92a2e4a2ca21c2a1caa566e7244876b7a16fae570eff7c465f",
+        "url": "https://files.pythonhosted.org/packages/fd/a8/26c9c42f6afd3be86cbae5da23c3ff8b390fcd3c8e1d695f4aae7070a92a/ocflib-2016.2.23.23.10.tar.gz"
+      },
+      "2016.2.24.16.54": {
+        "sha256": "1ae6dd95f53983759f1f5b3efcecb6e5e1e66c6f49ba24444ce006bd1ba89099",
+        "url": "https://files.pythonhosted.org/packages/68/ed/c93206fc93f93dd39a2ab0e34a0ed8f39dc8bca2f6129c1c9167ea0662b3/ocflib-2016.2.24.16.54.tar.gz"
+      },
+      "2016.2.24.16.57": {
+        "sha256": "ea2a9be25e99f97d00097362420a4f2022f17779fda694272f36e0a0df7274cb",
+        "url": "https://files.pythonhosted.org/packages/d2/a3/98c0ebe995bf81e9d50225f4199b97dd6988b117c77f8947d842e713cdbd/ocflib-2016.2.24.16.57.tar.gz"
+      },
+      "2016.2.25.18.4": {
+        "sha256": "9c0182f9f57ee4016e55ca7d943026f2e09ed42ba26b709fe6b55230215da3b0",
+        "url": "https://files.pythonhosted.org/packages/85/4a/6d57a136217eafda6b98dc366fc4cd7211c0e3ac05b02510877182c58953/ocflib-2016.2.25.18.4.tar.gz"
+      },
+      "2016.2.3.13.32": {
+        "sha256": "98a440cb7918170059de06b45807e84314af5ffc9cd81e5b29a8438242ed0850",
+        "url": "https://files.pythonhosted.org/packages/f2/0d/2d51e4b8829003bee5a07c78a582fb39810dc60955d79bc50dacacc3dd9e/ocflib-2016.2.3.13.32.tar.gz"
+      },
+      "2016.2.3.14.15": {
+        "sha256": "e8ddac65491796025c9b4578f56ba0024c7a9dd690cb2f9e642c1484d7eb8f5d",
+        "url": "https://files.pythonhosted.org/packages/75/5b/5c911ccb11b660eff0c8fa016e81db34e7d3306a11a7ad75f2f376bd93c6/ocflib-2016.2.3.14.15.tar.gz"
+      },
+      "2016.2.4.16.50": {
+        "sha256": "dc97be200cea182e759a47ef0d6b4c47801a486d3e4c5e8af8ff36794781ed71",
+        "url": "https://files.pythonhosted.org/packages/9f/77/a65d426454c6e0f8427885d192cf5545929d6fdb66de92bbbb479206f1ee/ocflib-2016.2.4.16.50.tar.gz"
+      },
+      "2016.2.9.16.18": {
+        "sha256": "e7cfa73a596a9d398d501ff7e94dfeb58b1adbe0e26ca678648da74726f08d28",
+        "url": "https://files.pythonhosted.org/packages/94/88/31ec597a75132aef9437c5df24c059aeb2e303613553b1ea6e9676c42e93/ocflib-2016.2.9.16.18.tar.gz"
+      },
+      "2016.3.1.18.39": {
+        "sha256": "5b2cff0f1ec45dbb0f4ee05e57e2b4910b070d2317e0d744dc19f43665637f7f",
+        "url": "https://files.pythonhosted.org/packages/69/cb/3f89c6a43bb1b7f6d091c26901a86654022666febcc1dfaaa7e36e892331/ocflib-2016.3.1.18.39.tar.gz"
+      },
+      "2016.3.1.23.36": {
+        "sha256": "e9fcf9f487cb4c316c64884e2b2ae53e75adcbba57b897e00e8319231ed97031",
+        "url": "https://files.pythonhosted.org/packages/32/6b/64692567a7a34bf9d0751d8a531056d780928235a4cbd5d3587f1e3e23d8/ocflib-2016.3.1.23.36.tar.gz"
+      },
+      "2016.3.15.17.22": {
+        "sha256": "3c690900bb1066889206a0ebe6f95c9fc9e49ebd17e9f7f3630c3bfa4ebb06ec",
+        "url": "https://files.pythonhosted.org/packages/11/67/eebc1664b88aa1e6174924819c3c728641cf967c205144e4282dae13e705/ocflib-2016.3.15.17.22.tar.gz"
+      },
+      "2016.3.16.1.3": {
+        "sha256": "c19a322b7ae76ad4695d7807865cd5ac92050cc8fda36ea883529159bf44bd2b",
+        "url": "https://files.pythonhosted.org/packages/76/28/378a7788e6b31bbeda96fe96981b7b17ab28212d45cc8dc94a280531a859/ocflib-2016.3.16.1.3.tar.gz"
+      },
+      "2016.3.16.1.40": {
+        "sha256": "849e9ba45cc70ff1bdab1fd67127cd7465b382cb38af2729c6df60df825de80f",
+        "url": "https://files.pythonhosted.org/packages/20/00/a0823585a37ab027adec2309462d41d1d918c415f06f687912495a578cb6/ocflib-2016.3.16.1.40.tar.gz"
+      },
+      "2016.3.16.15.58": {
+        "sha256": "6a2cc2a99a3d044127bebb0ab7b1846b101a8598ae9d3ba86b180bfc2451bc39",
+        "url": "https://files.pythonhosted.org/packages/22/55/74477298387ebc6ccd6f306016157778aaf04169fe4a4a373d79acb6a5ed/ocflib-2016.3.16.15.58.tar.gz"
+      },
+      "2016.3.17.2.5": {
+        "sha256": "15797e8d124ab8b57ab10720ac7d8743dfd27128006d24b82fb546e8db705aab",
+        "url": "https://files.pythonhosted.org/packages/8f/45/a53b87ca0686f262c5f78a2b95d41443ae32e782196b45ae289c31191af4/ocflib-2016.3.17.2.5.tar.gz"
+      },
+      "2016.3.2.0.1": {
+        "sha256": "340d0fb9fd3fd1a5dbda93fd308eb8f01b16410772a69c546e3c000594eda7cf",
+        "url": "https://files.pythonhosted.org/packages/82/09/df7147bd6cf1a6513ac3e6abda5e1fbfd3f5ae27c265c9e593aef3494636/ocflib-2016.3.2.0.1.tar.gz"
+      },
+      "2016.3.2.1.17": {
+        "sha256": "aecd89725ef773a576626cf7fb9258eb27fb2068c8786984b2b18f56fd240854",
+        "url": "https://files.pythonhosted.org/packages/f5/04/5627a2f69a1029f89509c395fc9927976ebf5686382cebb92bc1a395dd9b/ocflib-2016.3.2.1.17.tar.gz"
+      },
+      "2016.3.20.23.23": {
+        "sha256": "ecdfe8df5ac89c2bc47c311920c33d0b4e9afb730c6adb0e94633725b59d0e37",
+        "url": "https://files.pythonhosted.org/packages/52/2f/d5b0cda35e076286ffae0aa4872db0bb99c1f48f351811ca971d7cedf9ec/ocflib-2016.3.20.23.23.tar.gz"
+      },
+      "2016.3.23.19.33": {
+        "sha256": "5bb61853fba64b9c4fbfc11baa0eca9e340ef607713fa215df147414054d32c0",
+        "url": "https://files.pythonhosted.org/packages/21/03/7435724b8faac0e48f169f03019bdb415e80d5aacf15b6447671b5e70ad1/ocflib-2016.3.23.19.33.tar.gz"
+      },
+      "2016.3.23.19.42": {
+        "sha256": "d06846c9f7f21b3cca0191d7bba06c7d22411d32ad914b7567938184172690f9",
+        "url": "https://files.pythonhosted.org/packages/6b/b9/590aabbcba15add24031299f45aa605c48e825c4c4a09d0f6202d75e3363/ocflib-2016.3.23.19.42.tar.gz"
+      },
+      "2016.3.29.1.8": {
+        "sha256": "9557ae7dfa4f0757311ad4eee1e62fe7c5c1e556c25aea812f29ee1935504c74",
+        "url": "https://files.pythonhosted.org/packages/ba/0a/2d21626160cd298e8c0e76b6c8de1eafaa8b625ae167f79b9c518bbbf8c2/ocflib-2016.3.29.1.8.tar.gz"
+      },
+      "2016.3.30.22.59": {
+        "sha256": "907bd809d9de883b9ac193ca0499ea16129e258ce2e2f11a43359746076cca9f",
+        "url": "https://files.pythonhosted.org/packages/ca/84/8817561a7449248753904855145a1e647c1a5f8bd2d6af00bad5681ea603/ocflib-2016.3.30.22.59.tar.gz"
+      },
+      "2016.3.31.20.23": {
+        "sha256": "c955d6874da5bb8689d4f0e1ac12cd58180da7d00178e78d5d90fab5200edb30",
+        "url": "https://files.pythonhosted.org/packages/8d/ea/260bea9884cfc8a87c902ee919e2030fcb5aedd11227ce033ab9a35ea777/ocflib-2016.3.31.20.23.tar.gz"
+      },
+      "2016.3.5.22.59": {
+        "sha256": "eb1e1b71f6abaf3564d68e1b7de4b154a4e4eae98df8445c8031b359bb4fa915",
+        "url": "https://files.pythonhosted.org/packages/4d/df/650100f399892fb0b02439a9bfe0aba2a81e6bbf9ce00b43e80a2722cdb5/ocflib-2016.3.5.22.59.tar.gz"
+      },
+      "2016.3.5.23.2": {
+        "sha256": "c88e9cd375059a7027a4de377d71b257685d4adad46bcc5867169d4e22271962",
+        "url": "https://files.pythonhosted.org/packages/bd/35/bef74183d947b55d15d3b22d4ec0a3a7383040766249ce136bed27d97bd4/ocflib-2016.3.5.23.2.tar.gz"
+      },
+      "2016.3.6.2.37": {
+        "sha256": "e19b01fcaa6f12efdf356896ba44e9c1a329098d7e763d32a0429fd6c2d32fc5",
+        "url": "https://files.pythonhosted.org/packages/0c/83/2b7ab87c23d1d40b4932a2f37c1975c3bc832c9d718ad0399a345083a374/ocflib-2016.3.6.2.37.tar.gz"
+      },
+      "2016.3.6.2.39": {
+        "sha256": "3b920f2e494c2cde9fdc983e3276ba3e76953e00edfe9df63f191fb7033686cb",
+        "url": "https://files.pythonhosted.org/packages/47/a2/16ee0414e12ef117b481233650010f46f0a9306aa57a4ad5015bff6375a4/ocflib-2016.3.6.2.39.tar.gz"
+      },
+      "2016.3.7.18.11": {
+        "sha256": "8d1a1984f501b75300b00079a2b1720468af643c9ef08ab0463415f2144678fc",
+        "url": "https://files.pythonhosted.org/packages/1b/54/26473cff541adcc5fd71e49baaed61fd4b66941c048d9f01f3fcf7395a35/ocflib-2016.3.7.18.11.tar.gz"
+      },
+      "2016.3.7.18.14": {
+        "sha256": "582d252c82d880a580b860a2ae0bfe742705449eb5b007bc1f3b5615ef7eed8c",
+        "url": "https://files.pythonhosted.org/packages/5d/82/29b2716ab560a5d3c6f4cda01178dc6a8d366901301b03d768b5ef57fe05/ocflib-2016.3.7.18.14.tar.gz"
+      },
+      "2016.3.9.23.31": {
+        "sha256": "f861cb905e42fccce86b010fb618a6ced4c688260fa01ded23bde1d094765e96",
+        "url": "https://files.pythonhosted.org/packages/b3/71/e43f2bc0e098fab091f65a562e418a0b430e5689a6f1cefc2dfb73e43e23/ocflib-2016.3.9.23.31.tar.gz"
+      },
+      "2016.4.20.23.18": {
+        "sha256": "38ee8d544792a576c60a1c04c2749dd9ab5dc12e2135b7e20b24e9ca71737e68",
+        "url": "https://files.pythonhosted.org/packages/9c/5b/b7d27d2a469752d1ac307cabc0435ad36ef3a9d1dd888b07c389687b5c23/ocflib-2016.4.20.23.18.tar.gz"
+      },
+      "2016.4.20.23.22": {
+        "sha256": "8b2f91f152621a75b876e72b773ef44894f12aaf6fcbcdfd1b713f8969553e6c",
+        "url": "https://files.pythonhosted.org/packages/5f/ba/4ced69974ec08eb333479e2907b11ba72519e02582c15b14aab7e0dd529c/ocflib-2016.4.20.23.22.tar.gz"
+      },
+      "2016.4.28.0.18": {
+        "sha256": "0b1a1077b8146451df6f0b0b88c3a4cf4cd3fac448f6fae5234b81ee7480f899",
+        "url": "https://files.pythonhosted.org/packages/7f/22/ab8f5fe5c5e65a69dadbdd792da58da188d70e031f6377f1b99e1092a0d9/ocflib-2016.4.28.0.18.tar.gz"
+      },
+      "2016.5.10.0.25": {
+        "sha256": "95abafba05384e67d4a54dff5f73446f02d9cc91e1af7b11a6a7a10653ec4a8d",
+        "url": "https://files.pythonhosted.org/packages/fc/75/d32b893886ed001a776f8ff9ad1f613f568bbe9c63ac04f1129b9c952f2e/ocflib-2016.5.10.0.25.tar.gz"
+      },
+      "2016.5.10.23.49": {
+        "sha256": "f2f7469a6994a86592fa799cd385b3229becf215ad687600abdf9df25106b003",
+        "url": "https://files.pythonhosted.org/packages/53/18/d69a0a4ba20109abba3d2533fcd33ae3fb8b4d4ed25f62be7fe91d533563/ocflib-2016.5.10.23.49.tar.gz"
+      },
+      "2016.5.25.14.25": {
+        "sha256": "27bf0b5efb0855ab39542462506b89d947c628468b714b508cf7f8267018294f",
+        "url": "https://files.pythonhosted.org/packages/7c/df/317402f8966bfbc2e9d1ea4c73c0bf4cd0ad100dee4747cc629b9fd23311/ocflib-2016.5.25.14.25.tar.gz"
+      },
+      "2016.5.25.23.0": {
+        "sha256": "a6780fc85c77c19b6c27bba5b27c4086181c6383e76735f97cae81bef98e4ec9",
+        "url": "https://files.pythonhosted.org/packages/22/57/2d79497ace35c6acc83f067f11d12669e07522c17ea39bbce15f25f89031/ocflib-2016.5.25.23.0.tar.gz"
+      },
+      "2016.5.29.11.31": {
+        "sha256": "95220232147cfbab8447edb73c560f32657cd8228701d547da620ad4a0697126",
+        "url": "https://files.pythonhosted.org/packages/6e/2f/987feb7b3d10eac069df3942173c606659f35d5a05f77ea9d372d8a6a736/ocflib-2016.5.29.11.31.tar.gz"
+      },
+      "2016.5.4.0.31": {
+        "sha256": "8536c0d577c9f5cbe0b5c9c3b8469ced4dda0a94e113cf1e6a5790f667a897cf",
+        "url": "https://files.pythonhosted.org/packages/cc/d4/d593c14aa1d58402af9de69a9b8e9724f549847b74165913a96a545d7604/ocflib-2016.5.4.0.31.tar.gz"
+      },
+      "2016.5.6.19.25": {
+        "sha256": "05a47d22dada3ebef1f1d2cfbf445c022357ac6cee1a95c368fb776eccf60ff0",
+        "url": "https://files.pythonhosted.org/packages/bf/7a/cfcecc94822b112d756a009bc78e3ef6b9e0a3ed47501f9fc2e61d17ff96/ocflib-2016.5.6.19.25.tar.gz"
+      },
+      "21": {
+        "sha256": "a6b46170ef6e6945191901530186821b35840bb7ff7ed4ebecec252fc7c9d700",
+        "url": "https://files.pythonhosted.org/packages/15/7d/6fde4afd9e529b54b2f1150ae548a897c0f84d82401e9544a7f6b05383fc/ocflib-21.tar.gz"
+      },
+      "22": {
+        "sha256": "b09e463027cee19896264ee32095412ad276d1558275d79a2b6ab7a13247d61c",
+        "url": "https://files.pythonhosted.org/packages/84/a2/dabaf96ef486a33ac5fedb36c35409d8e2c79d19a18b96350b9b3893829c/ocflib-22.tar.gz"
+      },
+      "23": {
+        "sha256": "ff7ddc05bef549c691d23ac251b1e482887fc9d0c9c178a938958735e03529c5",
+        "url": "https://files.pythonhosted.org/packages/95/30/cbe6396f9ff143a010e160affba5e44878dece4c3b7fddc9602726e181ed/ocflib-23.tar.gz"
+      },
+      "24": {
+        "sha256": "0a3c72cb930145d5032613c4646eb34cfe48045c7132d289c2aa77b5ab8ede7d",
+        "url": "https://files.pythonhosted.org/packages/a1/7a/47203584ef2959bc159436a8e3f1f88271afa6d8d3c7a2da3a951334a6bd/ocflib-24.tar.gz"
+      },
+      "25": {
+        "sha256": "6bc124dcceafd32f38d93cfe6e6f446a1eeb67b09d630589a8d470d2d9510c5f",
+        "url": "https://files.pythonhosted.org/packages/b3/e6/90036b952324e6f466cc42aef73ce11f513f65990ff97d4a5463d1ff3267/ocflib-25.tar.gz"
+      },
+      "26": {
+        "sha256": "7849372b4e0ee00bc3b5f8590cce7381e5612ac4b0e9bbb4b7f4a4c23f2a895b",
+        "url": "https://files.pythonhosted.org/packages/77/79/d14bfa4606649cde76aa060ec047c4e9a61e437e64702fb261348087665d/ocflib-26.tar.gz"
+      },
+      "27": {
+        "sha256": "6036987d521d75599182e7ad153cba1bacb23d302274df1633dfb5c7071dd3c4",
+        "url": "https://files.pythonhosted.org/packages/1f/cc/6de8f013464f36e7a428773ac8daa6c58b555304fcc2c05eb2fa51094535/ocflib-27.tar.gz"
+      },
+      "28": {
+        "sha256": "49a9c15cfc008c3720695385c64fb450ae30854bdcaad4ee3243971981eb81d6",
+        "url": "https://files.pythonhosted.org/packages/15/6e/9369d9d89ad4eb2fc6a04d2f34b000c35e900e04a9057fb96fd3794f4677/ocflib-28.tar.gz"
+      },
+      "29": {
+        "sha256": "6627d11de0e6c180d6527ab84fae17acd345206661a1692fe79549fd9294c0ac",
+        "url": "https://files.pythonhosted.org/packages/83/35/857ea463d4a4df8a43d161b18284ef1e15aa0f602a103518c2bee65c6dec/ocflib-29.tar.gz"
+      },
+      "3": {
+        "sha256": "7b19ee87ccfed779d8a1351bc5494a40e38f96ffa9294a990826392bd97651ec",
+        "url": "https://files.pythonhosted.org/packages/08/10/95c0afb9544f223b8e632865704e0f6b9c1d722276ae482a5933b6b8df1d/ocflib-3.tar.gz"
+      },
+      "30": {
+        "sha256": "92a5273e4846a810c043ab5154d3592d467077c3708d0107a61f276450b141a7",
+        "url": "https://files.pythonhosted.org/packages/f0/04/378ae1bacb4b5939b6a95d35fac73b8017fb31f90a4564c7efa8e745d79e/ocflib-30.tar.gz"
+      },
+      "31": {
+        "sha256": "f1a1f5a4b6f644d03fe642f534f9b8feaf4edc4f6d5c5e33e8a008c356929ef9",
+        "url": "https://files.pythonhosted.org/packages/a8/2b/85ddc3b7aa7c8ba367742392521ee4bb393d481f3a0dc3da117178fddfdd/ocflib-31.tar.gz"
+      },
+      "4": {
+        "sha256": "dee11cc45bc23624f3ef329fba001762b9ea66f74728732a0efcaa48dcbd9801",
+        "url": "https://files.pythonhosted.org/packages/11/98/1264fa39e3faac60e9988c26cd7d5df6b0ced77f674743faa641afec616c/ocflib-4.tar.gz"
+      },
+      "5": {
+        "sha256": "0beed0a03e594c1d6db817831dee9d75ab1423649703bb0d1fa090ffd16e280d",
+        "url": "https://files.pythonhosted.org/packages/6f/87/a45cfec2eef594d77d7c74849f2f6eed00b06c2d8c80263c8d7183b3565f/ocflib-5.tar.gz"
+      },
+      "6": {
+        "sha256": "f5497256308d7ecde3bc7fe5ff8739fb4226bc4b1508f1e2fdeed5803c30d28b",
+        "url": "https://files.pythonhosted.org/packages/be/a8/1ecb69e3b272ed049b65c5e9bca5e4cfcd0ed0a1f45d56d3513921166f2c/ocflib-6.tar.gz"
+      },
+      "7": {
+        "sha256": "a96bf0992e881839ed6a9f82b985af4c1acb33326b211dca169a02c46f8cf7ca",
+        "url": "https://files.pythonhosted.org/packages/3b/65/657c12494eb4bacc248118913fd96553d6d4e76c39428b12836abb8f79d6/ocflib-7.tar.gz"
+      },
+      "8": {
+        "sha256": "d96586ed24f7b494d28ae6ecc31b443d9876596ee5254651ca7d889ca6e8d956",
+        "url": "https://files.pythonhosted.org/packages/37/9e/7d858340853127292efd32ac4cd52b6c17167e4e2a1394341eda0aed3106/ocflib-8.tar.gz"
+      },
+      "9": {
+        "sha256": "2ea3f6b7d1e03ade519702f74104cf2fa8b1d5eb5bfebf9ec56be57e07cfda58",
+        "url": "https://files.pythonhosted.org/packages/9e/8a/34785feea7f069288ddee58a7ae104928ba33da6e1b49be66a2b1fa792b5/ocflib-9.tar.gz"
+      }
+    }
+  ]
+}

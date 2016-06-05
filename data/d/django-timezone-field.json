@@ -1,0 +1,46 @@
+{
+  "latest_version": [
+    "2.0rc1"
+  ],
+  "meta": {
+    "description": "A Django app providing database and form fields for pytz timezone objects",
+    "homepage": "http://github.com/mfogel/django-timezone-field/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.3.1": {
+        "sha256": "d94a4ca6319cec590dc46e9d2b5b2aebcca5265783bcb6011be8dc40c632a4b3",
+        "url": "https://files.pythonhosted.org/packages/3c/7c/d8ebde3c923e948b5a08d30872ca6ddfafb6185864dcf3583b37f136e013/django-timezone-field-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "c14189e15fd41f35cdf71bc84d7d828166fb7b84406d0df7cecc87b62b2faa61",
+        "url": "https://files.pythonhosted.org/packages/2b/1e/a2aa3cd2306b23c45b320242bdd5c0992cd3a2da5d82a81dbe2074a8c02b/django-timezone-field-0.3.2.tar.gz"
+      },
+      "0.4": {
+        "sha256": "26e676bb611662af24a17bb00a25d1bc13bfd2e7640aa7688241ff2643809d82",
+        "url": "https://files.pythonhosted.org/packages/70/3a/61498a201b45ee1df683d47e0dc2b5b43cb0709643eadebf3adc49b7462a/django-timezone-field-0.4.tar.gz"
+      },
+      "1.0": {
+        "sha256": "eee20210615b3a13dbe367d1edda048e72bcd948845c98a961f07dea36171501",
+        "url": "https://files.pythonhosted.org/packages/b0/de/c2771c45468a35b9c22cd93d43f6fb0614cae962e31c531e87d283a4c9f4/django-timezone-field-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "c7f77e2524aca292137209b5fdb4570ef356d1c072db806c0ca4cf1e31ffbeba",
+        "url": "https://files.pythonhosted.org/packages/c1/8e/aa1882440890fee11aac33e15fec898fb7410a1bc595858ca0cb606008e6/django-timezone-field-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "643c498e08234b9b4c1b0e0478f0ff79221e51909a066e8b8ad10bdbb86a16c1",
+        "url": "https://files.pythonhosted.org/packages/2a/fb/0e6bf16165a6d06cba87e8709e61edc75ffa5825150e05c2edf02877073f/django-timezone-field-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "871544a70e2a0e08f482b73a3149a14c2540992f3f1c366f56dc012bec058ba2",
+        "url": "https://files.pythonhosted.org/packages/37/af/bf059b4d1a5288ada7b7f854e85b34af5b9dfb82845e6329735b981baab5/django-timezone-field-1.3.tar.gz"
+      },
+      "2.0rc1": {
+        "sha256": "dbc923f9358eea0ea83e4e8547d8576a2104f42fc8d05ef97e754ad67fd069fb",
+        "url": "https://files.pythonhosted.org/packages/c1/da/8f2ffb4add6d08b9966a47780b3d2d085aa41724298cb43c499f15069944/django-timezone-field-2.0rc1.tar.gz"
+      }
+    }
+  ]
+}

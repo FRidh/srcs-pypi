@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "Syslog protocol (rfc5424 and rfc5425) utilities",
+    "homepage": "http://www.evax.fr/",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "7cdab7b7e3b1f8d86774f50ae4e151a841c61d5c19d4471629dc6a4f752e2137",
+        "url": "https://files.pythonhosted.org/packages/5e/d7/2d90cd81a008ed5e646047510d85a432c0d7b7bdca3cd48842eac50b4c3b/loggerglue-0.9.tar.gz"
+      },
+      "1.0": {
+        "sha256": "0a0519f06f507bdb8255688395ca6666831ec253735dc0cb8347d8e440db8b1d",
+        "url": "https://files.pythonhosted.org/packages/b2/9f/3207874a96613d386aceca1a2ddd449b27ab4f16a925ca5829faa7d0f5ed/loggerglue-1.0.tar.gz"
+      }
+    }
+  ]
+}

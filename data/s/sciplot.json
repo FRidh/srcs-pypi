@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.6.3"
+  ],
+  "meta": {
+    "description": "Pythonic data visualization tool based on matplotlib",
+    "homepage": "https://github.com/boppreh/sciplot",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.4": {
+        "sha256": "b3794f4e24ea3dff740e1b2f9e7b507bd5925b14b7856db3b8bd1b8b8d0f67e9",
+        "url": "https://files.pythonhosted.org/packages/c2/d3/3b054a1f26a8f0acd35205adfe8106ba2bc2283d79bede9db35096cd5c61/sciplot-0.4.win-amd64.zip"
+      },
+      "0.6": {
+        "sha256": "0b8c0c48a6e4b7fdaca7053bcee091bdb83bd24a41e8584b22f8d6bae309381c",
+        "url": "https://files.pythonhosted.org/packages/dc/1b/16a027059292291e7697fbebc8801532458ee6c9fd9ecc85a0c7829ec697/sciplot-0.6.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "fc1552168d20204a9f8abb68b56db49b4ac8efd1fc636cb766532b320f4ee800",
+        "url": "https://files.pythonhosted.org/packages/f1/56/625967dd252bfab92f149ade4e7c4eafece0b3f635c91a0ada5cc79a5cab/sciplot-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "002c2f500dfd4e18cd4e793de716797b215ee2088d8b0eae8d56ec1487d31898",
+        "url": "https://files.pythonhosted.org/packages/5c/06/72a05a29e5d8ce168325f8423b2776805f829797e7de97d1881830cd787e/sciplot-0.6.3.tar.gz"
+      }
+    }
+  ]
+}

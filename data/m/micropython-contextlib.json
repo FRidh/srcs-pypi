@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "3.4.2-3"
+  ],
+  "meta": {
+    "description": "CPython contextlib module ported to MicroPython",
+    "homepage": "https://github.com/micropython/micropython/issues/405",
+    "license": "Python"
+  },
+  "versions": [
+    {
+      "3.4.2-1": {
+        "sha256": "d5fca817d0c5ab95250567b4f7fc93608ab5679540a1463bd032f8f9f8306279",
+        "url": "https://files.pythonhosted.org/packages/35/78/ce3203652a87a66f26de3f55df4acaf73bcb201ccd5ddad500ec035128c3/micropython-contextlib-3.4.2-1.tar.gz"
+      },
+      "3.4.2-2": {
+        "sha256": "e12b75c76d2f25261235b7ad00ad6d326e7f33d6263383b2bd52ae82b5a69479",
+        "url": "https://files.pythonhosted.org/packages/f9/19/389eb434de732f8efc41c54707a84b22e272619e7b94b8d3a64b19457ca0/micropython-contextlib-3.4.2-2.tar.gz"
+      },
+      "3.4.2-3": {
+        "sha256": "a40e4f92ea6c0ff590c129952c9e7aeb91c16e3f1228f5b2b041658ccbe2d531",
+        "url": "https://files.pythonhosted.org/packages/1a/f3/11fa226cd02cedd2adc7edb4a83ffbffdf675232a3c08b7ab3d725b9f1db/micropython-contextlib-3.4.2-3.tar.gz"
+      }
+    }
+  ]
+}

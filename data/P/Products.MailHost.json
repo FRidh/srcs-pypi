@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "2.13.2"
+  ],
+  "meta": {
+    "description": "zope.sendmail integration for Zope 2",
+    "homepage": "http://pypi.python.org/pypi/Products.MailHost",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "2.13.0": {
+        "sha256": "ebc95ba4c585e15a8b909746b4bcf28239656d39ed2a98d5cd80f1f1cf6b27ad",
+        "url": "https://files.pythonhosted.org/packages/3d/1c/1aedc72161b4d84a78559f1d5144412dab882da126f4b8dbc51d83b4308a/Products.MailHost-2.13.0.zip"
+      },
+      "2.13.1": {
+        "sha256": "fe1b4797c4d3c5dd8123f715a75107f966f8b5469169c4c5c68c6b5776dc1199",
+        "url": "https://files.pythonhosted.org/packages/b9/f6/6cc99301b31f964cf11c17f563110e55da0707ab94ce0210823f936007d6/Products.MailHost-2.13.1.zip"
+      },
+      "2.13.2": {
+        "sha256": "5ccd20d7cd7979a7cc4c1db04fafe542f29e1c2cde18f6289a5d0a342e843e3a",
+        "url": "https://files.pythonhosted.org/packages/fa/38/96b5f69c9fa11bc322b641b6517d51434d3b7573426ce1d9621fadc98a05/Products.MailHost-2.13.2.zip"
+      }
+    }
+  ]
+}

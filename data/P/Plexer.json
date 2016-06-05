@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "A simple lexer to tokenize text (for example, a C file)",
+    "homepage": "http://github.com/shawnpresser/plexer/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "6610706416791c0e9b2c9c3027b7080a1e449df340657fa67af430d5539b99d0",
+        "url": "https://files.pythonhosted.org/packages/97/46/5a821f6d527c7fac48a217f3ede4915a385206853f3d9c1c92811e838454/Plexer-0.2.zip"
+      },
+      "0.3": {
+        "sha256": "b75c9b6b190bbd9a96dbeb50b19c9f7e93f5015a2a69d714939a93b3a52dc782",
+        "url": "https://files.pythonhosted.org/packages/94/b5/50de92a868f9d09acb48e9150376093ef1aa9e5420e8227a0ea2733b57dc/Plexer-0.3.zip"
+      },
+      "0.3.1": {
+        "sha256": "3b9c37f4207dd2e6e83f8cf1457b03d94db49c9aa22aa4f27d58c49ebd54ab7f",
+        "url": "https://files.pythonhosted.org/packages/4b/19/f38295fb8e2e1a435844863fc631efc323451400e587e3f396f050d8cf12/Plexer-0.3.1.zip"
+      }
+    }
+  ]
+}

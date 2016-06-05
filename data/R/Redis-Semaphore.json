@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "A distributed semaphore and mutex built on Redis",
+    "homepage": "https://github.com/bluele/redis-semaphore",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "d93b45de296b4929919b082ce1c8b0a4ae4e11e96eb288c9325be562638b26e3",
+        "url": "https://files.pythonhosted.org/packages/08/24/933da50e0e6a89f7aa2f95a9ea06b95b784d483cc1a712abf71e57991fd9/Redis-Semaphore-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "1ea3cc51e79a799655ba2e9869e46a70098a402c21d2d4bf94e4ea8ed76963d2",
+        "url": "https://files.pythonhosted.org/packages/58/d6/31628e754f0ab4d680ee5eb49c0b5dfbf9b355665ac780b9dd67138e72ed/Redis-Semaphore-0.2.0.macosx-10.11-intel.tar.gz"
+      }
+    }
+  ]
+}

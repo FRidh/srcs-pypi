@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "Retrieve information from dist.plone.org to safely and easily pin your egg versions",
+    "homepage": "http://www.redturtle.it/",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.9.0": {
+        "sha256": "065106e5d5a91f5aa6bb7bce5c1eb3ba921b38eadeba30f40019e741dd8ec2d2",
+        "url": "https://files.pythonhosted.org/packages/eb/e8/56e37ccd6ef827df3b02533db7ed434bc6f2b8f9a6f4942c20cd25433cc3/rt.ploneversions-0.9.0.zip"
+      },
+      "0.9.1": {
+        "sha256": "a86b3452e9d18041250ee72aa09d2875cfb90d429f3e13638858826ca6c5b9cb",
+        "url": "https://files.pythonhosted.org/packages/a1/2a/854a4008ab8ba0270357be5cabad4d77966e70661179f27d5e6545d407b1/rt.ploneversions-0.9.1.tar.gz"
+      }
+    }
+  ]
+}

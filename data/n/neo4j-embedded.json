@@ -1,0 +1,53 @@
+{
+  "latest_version": [
+    "1.9.c2"
+  ],
+  "meta": {
+    "description": "Bindings for the embedded version of the neo4j graph database",
+    "homepage": "https://github.com/neo4j/python-embedded"
+  },
+  "versions": [
+    {
+      "1.4.2": {
+        "sha256": "bbd7bc8cc9356c1a77540a9eb7a9d6ef70e6e6b066117c91d8f8027c6a00c0f0",
+        "url": "https://files.pythonhosted.org/packages/5e/3e/19e21fe03e89e4bc82e84b9afb1964183e0e38f661aa9c849e903cd1fb57/neo4j-embedded-1.4.2.tar.gz"
+      },
+      "1.5": {
+        "sha256": "c7a4fa5af5fffb99ef0c19919a847bb11bed7911c5f0515fc64d29ce1bfc9d34",
+        "url": "https://files.pythonhosted.org/packages/c6/2d/9c704bc72d2c5a5899cb1283376a78fd1b7fbed242c11e6a3d076a4c804c/neo4j-embedded-1.5.tar.gz"
+      },
+      "1.5.b2": {
+        "sha256": "b4dca598bc5485e41f6e524395c5a8a3bd13d93788e5ec02e062fee0309aadfd",
+        "url": "https://files.pythonhosted.org/packages/18/aa/eba830e3f6deb1f2a12deac0e9db821266badd15071083bfe94017673c75/neo4j-embedded-1.5.b2.tar.gz"
+      },
+      "1.5.dev115": {
+        "sha256": "21d2efb059c81444267799f29e5208c888e4a5efe6b2e0c50f9f880249ffae9a",
+        "url": "https://files.pythonhosted.org/packages/e8/c9/a8a60a6693e1554dcb0f759b7c1e57aae490c2eed99599f60d992be53ec6/neo4j-embedded-1.5.dev115.tar.gz"
+      },
+      "1.5.dev116": {
+        "sha256": "c5347c89ce65fefcc37670187bdbf0184fbb134a3a9322480148a525f8fd3fac",
+        "url": "https://files.pythonhosted.org/packages/ee/ae/57c6ac907efa971fcb52c88b33476733b724181cbb618b33892de260d8c2/neo4j-embedded-1.5.dev116.tar.gz"
+      },
+      "1.5.dev119": {
+        "sha256": "e8ef6e529f23b3a5fbcef743fa6a7c4e1fe82bc51d69a279b286bbccdb2b05c0",
+        "url": "https://files.pythonhosted.org/packages/43/41/d5000de7ccbb5d342381864c99f0a095b5defbc0893e6eee507883eed67d/neo4j-embedded-1.5.dev119.tar.gz"
+      },
+      "1.6": {
+        "sha256": "44099561a2744784c6649d532564e40c81cac3de967700baa69653685af1a32b",
+        "url": "https://files.pythonhosted.org/packages/fd/bf/d2e06bdd96a910f194373a6a69cac8a0063d5af3f8d828b455a1808617cc/neo4j-embedded-1.6.tar.gz"
+      },
+      "1.6.b1": {
+        "sha256": "7f938c55a0b3e6276604604f3a65fe39531e302f0212216d3378dfe1255f0c60",
+        "url": "https://files.pythonhosted.org/packages/29/99/1164f24b31ff477e3fe3af0626184311c034d7932ac788da38184ce15f42/neo4j-embedded-1.6.b1.tar.gz"
+      },
+      "1.6.b3": {
+        "sha256": "3dced860c0d22e5a3dac13dcdbe764bd25dc8d57a74f1ca5f053bbc943d8d463",
+        "url": "https://files.pythonhosted.org/packages/74/a1/7630f4b7f612a52d4e2b6fd9fa1ff392df58fa5f455960a7d3028fd83115/neo4j-embedded-1.6.b3.tar.gz"
+      },
+      "1.9.c2": {
+        "sha256": "e4d67cef9843e062068dcc7f9236a1f8b70942811187c4bc43287c13939651a8",
+        "url": "https://files.pythonhosted.org/packages/a8/41/49698e01239663b1b5f88ca46082503a1da9b6c96520c74f63c6d036e2a2/neo4j-embedded-1.9.c2.tar.gz"
+      }
+    }
+  ]
+}

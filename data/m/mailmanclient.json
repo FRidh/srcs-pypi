@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Python bindings for the Mailman 3 REST API",
+    "homepage": "http://launchpad.net/mailman.client",
+    "license": "LGPLv3"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "4a0277d7da253834176054e5deb0e5b39fdbbf3ba7767b422d1d956ee9f693f0",
+        "url": "https://files.pythonhosted.org/packages/72/5c/65f1eb0549aa481a49c94364cc50cb22f1613d4197c1b5f7c5992e634514/mailmanclient-1.0.0%2Brev71.tar.gz"
+      },
+      "1.0.0a1": {
+        "sha256": "333309a4afa528f0bd3d8010dc12f47976710126187b68e9d21c6a9c0e7e60ab",
+        "url": "https://files.pythonhosted.org/packages/24/9a/a2a6ab0f8f1dfadff5368792e6ab96e3d65377c2ed0221430de623a3353f/mailmanclient-1.0.0a1.tar.gz"
+      },
+      "1.0.0b1": {
+        "sha256": "e14d9a026bf0df114570a4f1059a036814eb3ea8222c40ce9b782b560ca7d9c2",
+        "url": "https://files.pythonhosted.org/packages/25/1d/5cab87c7d6543052361f1427e6aa6a43dde82ecd7c8732a403ef51ee63b8/mailmanclient-1.0.0b1.tar.gz"
+      },
+      "1.0.0b2": {
+        "sha256": "5a1c24f6db18f90f6f1ee1d393c99bc7e06ad4c3be439b0531c275772c154daa",
+        "url": "https://files.pythonhosted.org/packages/af/a5/cdc60a1c75e0212c37db7c88599d73de478b28590f0303aed8315f633a88/mailmanclient-1.0.0b2.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "85a1faf06b115bd810d31ef661e06eb08d316dc2360a2961e94aafe70a81d2b1",
+        "url": "https://files.pythonhosted.org/packages/30/44/16e1298db8f85d22c05cb4726bc1f55afd2347ee2bb461c76db0aa440b73/mailmanclient-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

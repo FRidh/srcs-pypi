@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "A simple-to-use, template-based configuration file generator",
+    "homepage": "http://www.iglootools.org/genconf",
+    "license": "Apache-2.0"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "204ecf8d5ba73cc98eb782762b0debe12fb8c0ad265dc8825065041d1fc8db0f",
+        "url": "https://files.pythonhosted.org/packages/6f/fe/ae879bf86011edc52f35722e64091df7cd121cdcbb48fdc4cf7276dcea7a/genconf-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "e927a0d4ef96ec0f12ae8546d97d4e117939074b6486a6d66fdbbf4eebac1377",
+        "url": "https://files.pythonhosted.org/packages/45/db/a68fed39b7c93afb5f39f7b052d4c136b4c0b21bae658030d5bd77b1bca7/genconf-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "d42b4c21babdd55248296fce30e47c9cea241dc6f60c2710efc4f8862154be50",
+        "url": "https://files.pythonhosted.org/packages/1f/d5/3becefe038fb2bf74e5f9e757ea4484e1ab35af245d41cb5529711e851da/genconf-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "75b235a6dda6e6dd5f68c52c3c2d27773a96d7a7a002e840934a5650408e2881",
+        "url": "https://files.pythonhosted.org/packages/51/08/6e96f0c0c80971fb8f4a4550b105e70bc3aaaa559ea62a26c894de5bb0dc/genconf-0.4.tar.gz"
+      }
+    }
+  ]
+}

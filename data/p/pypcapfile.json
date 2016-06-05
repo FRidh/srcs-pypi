@@ -1,0 +1,74 @@
+{
+  "latest_version": [
+    "0.11.0"
+  ],
+  "meta": {
+    "description": "Pure Python package for reading and parsing libpcap savefiles",
+    "homepage": "http://kisom.github.com/pypcapfile",
+    "license": "ISC"
+  },
+  "versions": [
+    {
+      "0.10.0": {
+        "sha256": "7b47ae33b186eaaf8ed16c197eb64049739e8e9d731bf648a5f472f544136f4b",
+        "url": "https://files.pythonhosted.org/packages/9d/b5/c9fb9e3da5c2e77521c14b2f6ef7a8ce3a092255ad698e33e3bd07c715d1/pypcapfile-0.10.0.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "b45d5b337dd31849916e000da330ba858e9b63424c0819b35511659b6f8a5f78",
+        "url": "https://files.pythonhosted.org/packages/cc/05/260718a442424f2c975e5bca669ef91c9f2d825fd96145a0867c84b0c7b1/pypcapfile-0.11.0.tar.gz"
+      },
+      "0.2": {
+        "sha256": "c77cd3171adc0266ac6878d2bacabe6aedf7898feb46594f611395de3b73e085",
+        "url": "https://files.pythonhosted.org/packages/32/f4/a5a72821f2c207031925f2caccee2c1ac1dfc79c0c955012e9dc0d7529ff/pypcapfile-0.2.macosx-10.7-intel.tar.gz"
+      },
+      "0.3": {
+        "sha256": "9c2676bdb2d09158ad1483bcb2ee17723e667130cbf7c7c7e7d6cc26f83d8bd7",
+        "url": "https://files.pythonhosted.org/packages/e2/07/fd7b4b3468b497d172cb7f65b0e473d9bad12526d412d0cdd1b3a1467038/pypcapfile-0.3.macosx-10.7-intel.tar.gz"
+      },
+      "0.4": {
+        "sha256": "faff50857b520c09fddef8eb3d3fe91df9ac3b080b2e02e0ef2629ef200b0c95",
+        "url": "https://files.pythonhosted.org/packages/d6/0c/3a2e7939a3db4acd59713a468641daead9332e82bab0ed32f496e5b24f41/pypcapfile-0.4.macosx-10.7-intel.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "d4e19bd528982715d5a64dd428d2a2a4635043f529470e45e329fad2dbf1fa1d",
+        "url": "https://files.pythonhosted.org/packages/16/a8/1fb3cef95d2d366ebfe79b17e07ad5551b25f183566d2ab1e071188ce665/pypcapfile-0.4.1.macosx-10.7-intel.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "13f46511e1b702006df47b56dc5988bfaf61aee70aed0a11bda558cc1eb61fe2",
+        "url": "https://files.pythonhosted.org/packages/19/c1/a454445f5c2577dde3c61331e951dac7b80a553a1cec3ab4ef119e9e9b69/pypcapfile-0.4.3.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "2d1e6e22a9c033c761bfc7cb759e1dd0033dccf0848c7379b0de14528e2d632d",
+        "url": "https://files.pythonhosted.org/packages/0b/d9/06f46822895e829f499ff710350b4d68e08db6eb49e6115e83fb7af647bc/pypcapfile-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "90a0e5db214456a75e8a90117d53576dd7eb53da355d25df7bf0179ce8a70a74",
+        "url": "https://files.pythonhosted.org/packages/1d/5c/70823d3ed09067e95b5d74753c06166a989bb38898b2b2a731456fb64f8b/pypcapfile-0.5.1.tar.gz"
+      },
+      "0.6": {
+        "sha256": "b9d97b36f96bdc67d4f7cbc8ea8137daf1042629e2815b9060938b0ef0060b7c",
+        "url": "https://files.pythonhosted.org/packages/e5/c8/9e0351cc57e060dbdf790c35f07db0cdc95d546d95f0b41568528406ed73/pypcapfile-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "504800a41dd0b43b7fcdd7b242bdc033dd62763b7826be2c87f2778f0afbda7c",
+        "url": "https://files.pythonhosted.org/packages/eb/bf/c04cd4b4a0e7dcbafe14332dfdaee373145e78941522cb6e56fac17e006d/pypcapfile-0.7.tar.gz"
+      },
+      "0.8": {
+        "sha256": "498f46cd8915d59bee1e9e61e212c05a76d6826e32b0f6304b98062c18868463",
+        "url": "https://files.pythonhosted.org/packages/76/c7/7c1b4fd64de11721e546adb19488325a3092f220a3cabf764cd9cdf52e78/pypcapfile-0.8.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "585227b2c0a0b921569efcff6b8208ea12686d61130290075e0e66f5c3133b7c",
+        "url": "https://files.pythonhosted.org/packages/aa/eb/514c91925bb27a601d984209293d6f17dc455e924e1b316558fe35015a10/pypcapfile-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "67fb587f3ed9813cf685a9bbf1367d6ef22674e80441b919a37fc05048870c25",
+        "url": "https://files.pythonhosted.org/packages/af/7c/c0f06046e7ffc3a03b5c9f1484dd626a65807bf10217ae793ef859c78d5e/pypcapfile-0.8.2.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "22a206a2cd24738e652e5f6b5dc6e89a401d23965f7613127dad3affb1024eb1",
+        "url": "https://files.pythonhosted.org/packages/61/61/71c66ccd9cd0cff1dca9ffcc51c3b0e4915d4f8ed9fb3edcd6c85e96dfc4/pypcapfile-0.9.1.tar.gz"
+      }
+    }
+  ]
+}

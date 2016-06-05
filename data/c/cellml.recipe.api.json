@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Recipe to call CMake to build CellML API and Python bindings",
+    "homepage": "http://www.cellml.org/tools/api/",
+    "license": "GPL/LGPL/MPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "32291a6a7e1c13dd5ab7ac33d066bf3b4aa666719341afd3d730bdfc19e0ae47",
+        "url": "https://files.pythonhosted.org/packages/30/b4/09a68209742e1381565d400d87fb6ac40755d125cfd6d801a0814e6668e8/cellml.recipe.api-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "40c4cd5890bbf6f370e001ecc6924d1ea65e85c945e1fdddc8e70652c522a63e",
+        "url": "https://files.pythonhosted.org/packages/f3/06/bcb4d37ca667a77b2ae7fbcba5e754ca4789e74f0ed2ef96141a941b5d9a/cellml.recipe.api-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "d3aa40efc218c3e0a8c491cded15197c2d29cfe8e7dd71e8346dcadea3cf0ef1",
+        "url": "https://files.pythonhosted.org/packages/41/9a/da75246fe5de45a12b0170d0f019581f095d77b157cc249eecaf0c6fc000/cellml.recipe.api-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "c9e853029ebc9d5c45b8ac0e835779ca022cdb7e4cd2235fbf88bb2082070d0f",
+        "url": "https://files.pythonhosted.org/packages/b3/b0/130695e7f99b57c2a4bc7af72d3a8ed7f46488547c14048a57d5ac5c8d89/cellml.recipe.api-0.4.tar.gz"
+      }
+    }
+  ]
+}

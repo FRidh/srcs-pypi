@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "4.0.0"
+  ],
+  "meta": {
+    "description": "Global principal registry component for Zope3",
+    "homepage": "http://pypi.python.org/pypi/zope.principalregistry",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "3.7.0": {
+        "sha256": "097769dfa0bde15ef2d2b10a69b2d567b6833b1e91d64c91fa10a0f54bafd0a9",
+        "url": "https://files.pythonhosted.org/packages/92/29/a57758e0bdf4a4a5f2bcea9d6cd4b6d3c1add65e32935ac4ea750e0e7a9f/zope.principalregistry-3.7.0.tar.gz"
+      },
+      "3.7.1": {
+        "sha256": "95eadc068a01de96f33e9e539dd1841c8ef497ce1c131331a8e047178ae90e16",
+        "url": "https://files.pythonhosted.org/packages/16/76/cdd2ed46b5d427333f4046886b0667b68e7ea6dacbc0d4f3c099ae543f65/zope.principalregistry-3.7.1.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "96c4e79fc47f7aacb34f292dd47d2f70483ec53e080a7bdad555c7e451d549ef",
+        "url": "https://files.pythonhosted.org/packages/c0/ec/bc77a99803509605c66d652d6d60208a1a728644d3a35f989ddd5999757b/zope.principalregistry-4.0.0.tar.gz"
+      },
+      "4.0.0a1": {
+        "sha256": "07248ff73e291858522a7b463a15eb55bf51aec93887a996f842ea640cc7bbff",
+        "url": "https://files.pythonhosted.org/packages/5c/06/b9a3f48cc50a4cb955270dbd53f3981a2fe93ed001e823e12637c6a4e152/zope.principalregistry-4.0.0a1.zip"
+      },
+      "4.0.0a2": {
+        "sha256": "654f0ea2b2a2d6b21d0a32952fd872b6d2437f5cdacb6ad9880872abde0bfdc9",
+        "url": "https://files.pythonhosted.org/packages/85/04/dd46f869f40d54277de398ecde717c0ce667ae8337fe29c6e3be633db554/zope.principalregistry-4.0.0a2.zip"
+      }
+    }
+  ]
+}

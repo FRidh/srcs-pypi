@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Trivial interface to the netctl systemd script",
+    "homepage": "https://github.com/shblythe/python2-netctl",
+    "license": "GPL v3"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "04af82f8ad3f2bdecf9fa90f295de40094a60192558370d2f4d9959a5f6af1ee",
+        "url": "https://files.pythonhosted.org/packages/ae/e0/9758de59dccfd0927f799015e4387499803c149fc91bcb0693bb0de304c0/netctl-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "6d2237003e05cf53c4b56573def888b069f8a5b7a998d3ef63d11f5a23cb5aed",
+        "url": "https://files.pythonhosted.org/packages/8b/e4/1d413da9449653a019391aacc0ed8d7bfddee932b7b50786d8581ff7919c/netctl-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.6.1"
+  ],
+  "meta": {
+    "description": "A Django app for managing scientific publications",
+    "homepage": "https://github.com/lucastheis/django-publications",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.5.0": {
+        "sha256": "9b94cbb46841457e8e1324f12012fbde1ce9739d20e2ef2dbf26e24c28e9f330",
+        "url": "https://files.pythonhosted.org/packages/7f/b8/8721bfef43ba8485c74c621a73380ac49676184b81fd10446beb262cdb2e/django-publications-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "d206807238c190767b8806cc0f227b9f6488c5505fb020b585b87ed373d51b2a",
+        "url": "https://files.pythonhosted.org/packages/00/d0/bd81c69e00027bbcea06a39e3e4049fe89b452f8d364712892be2b4e2df2/django-publications-0.5.1.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "a0f00c56335f4834bde2447a726594ab291bcf0605dab00256bab527cf0c9153",
+        "url": "https://files.pythonhosted.org/packages/ed/b8/6817f62c8a94e87baac9e48095e06417893e43ce40a53907662338b8ca4f/django-publications-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "6faedfaf81c896584b966751d47383d270ba96fc9cb0d32a5b2cdabd1d97036c",
+        "url": "https://files.pythonhosted.org/packages/33/07/df1b9c5e464934c5e6532150dabfa37b830418646ed5df3304c0ce3984d6/django-publications-0.6.1.tar.gz"
+      }
+    }
+  ]
+}

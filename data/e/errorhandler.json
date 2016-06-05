@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "A logging framework handler that tracks when messages above a certain level have been logged",
+    "homepage": "http://www.simplistix.co.uk/software/python/errorhandler",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "895ba61dc3d563d6df1e3da2ea3f11a3a6395f163ea286e1e91f4aa467f7ae9d",
+        "url": "https://files.pythonhosted.org/packages/9c/0a/2098bb20e2a58ae0c4e2d30799f3ab0336c9720822f9ae8a9ccd148a0790/errorhandler-1.0.0.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "4a53a9629e2ebb6b6c880f7146c3dfbe0e5310483936a9c8b311f84564711f37",
+        "url": "https://files.pythonhosted.org/packages/d5/1e/a4e48cb202bf89ed60e8817c54bb620987fd84be7c7f58d2cd199fadc100/errorhandler-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "2baa97a8a256fe72960d196bbdee4404162186f539c4d73b3f1c072db18463e9",
+        "url": "https://files.pythonhosted.org/packages/62/3a/f80955c4741a3b7fed9c7b621adb6d4997a28c5a1ddbb5a367601c95d1b2/errorhandler-1.1.1.tar.gz"
+      }
+    }
+  ]
+}

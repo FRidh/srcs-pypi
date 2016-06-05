@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Redis-backed tagged data store",
+    "homepage": "https://github.com/jdp/taxon",
+    "license": "The MIT License (MIT)\nCopyright (c) 2012 Justin Poliey <justin@getglue.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "8fa970765b786dce3693da716f47a0e6d36103eb83ab7375561faf0a5ce30701",
+        "url": "https://files.pythonhosted.org/packages/39/60/06ab78a9d5d41595122fba76dc780e97bc503f9a4f165f426f928386b329/redis-taxon-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "ce164127836c9b43b836a6bed97b925dbf8a3efcea248ccd22a7fda505cb17d1",
+        "url": "https://files.pythonhosted.org/packages/ba/52/0cd707866a593e28d26b16ba7a6f81364be016139f2676689452a13483e4/redis-taxon-0.2.1.macosx-10.7-intel.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "de5d3f80d4aad11a2d7f3e8496f3e3030de85f98fb84188901943b26b422b283",
+        "url": "https://files.pythonhosted.org/packages/cb/ae/b0aa15301ee35c7ba526655b2b03738c93231512ba123aa84311b7a482a4/redis-taxon-0.2.2.macosx-10.7-intel.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "3cbadf186401e4a99118d4a2a5d0340f89ff6c0865e51c091fbd885e23cc03d6",
+        "url": "https://files.pythonhosted.org/packages/0e/cf/95445323c98e60a786823a358da982f422a45384a89e41c2f592cb29957e/redis-taxon-0.2.3.macosx-10.7-intel.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "2d27b2fc16b6a5c841e6d9c823444f52750ae7b9b331377c3e172a471136ede7",
+        "url": "https://files.pythonhosted.org/packages/e5/c8/a6f285d5136bcdaf1920dd18b4b4523a3308da8525bc1582d6f0609730d0/redis-taxon-0.2.4.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "120b433d7bf8bca4792e84ecef1de985e6cfe1a7a4fab0ca18fcdb284f56d551",
+        "url": "https://files.pythonhosted.org/packages/58/48/4f05f74244c3625e141ed85f4ca5e197edf5df20ddf90b7cda3258a6c926/redis-taxon-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

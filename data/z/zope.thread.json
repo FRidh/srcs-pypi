@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "3.4"
+  ],
+  "meta": {
+    "description": "Zope3 Thread-Local Storage",
+    "homepage": "http://svn.zope.org/zope.thread",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "3.4": {
+        "sha256": "0fbf607fb4600a602c552bb05ea37ee750bfa4909f53009b93d9d0e0636207c5",
+        "url": "https://files.pythonhosted.org/packages/61/22/3f1bd5e62fe3ddfb9b4f21433d5e63107a7e878dc342961fa2c24196b3fe/zope.thread-3.4.tar.gz"
+      },
+      "3.4dev": {
+        "sha256": "598844452128e8b3078567860a08daa0ab44011ad21ea4ca2cc7b51e8b23e49d",
+        "url": "https://files.pythonhosted.org/packages/49/78/734ade364a10bbe289a44c3c1762e98603d7273dc9083502b054cd33fd9f/zope.thread-3.4dev-r73086.tar.gz"
+      }
+    }
+  ]
+}

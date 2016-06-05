@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1a1"
+  ],
+  "meta": {
+    "description": "Populate statsd from rabbitmq",
+    "homepage": "FIXME",
+    "license": "GPL3"
+  },
+  "versions": [
+    {
+      "0.1a0": {
+        "sha256": "63cf8a2dd2840193addf8c83a0eadd0645393d705298e450700a32c32bce47fa",
+        "url": "https://files.pythonhosted.org/packages/03/56/ba0f1d84c448e70bb61889ca2e96f7530f60d30a9b02ec7dd59df9e1e28b/rabbitmq_statsd_bridge-0.1a0.tar.gz"
+      },
+      "0.1a1": {
+        "sha256": "eddd0adce3c48a4ffb380f077251ae9e1a7db2e0a9a1b83ae77d531a5f76fe95",
+        "url": "https://files.pythonhosted.org/packages/55/12/da35aebfdd33ac88e8b9bf9f1b9405cb44f6d613544deedb915353f4aed2/rabbitmq_statsd_bridge-0.1a1.tar.gz"
+      }
+    }
+  ]
+}

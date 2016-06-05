@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "A Twisted thread-pool based wrapper for blocking APIs",
+    "homepage": "https://github.com/lvh/thimble",
+    "license": "Apache 2.0"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "28c91cf7217f1a089b56db8d174206ad2869e3865ed81653f3c33129c3cf30f9",
+        "url": "https://files.pythonhosted.org/packages/52/67/a9c27472269c2655bdc558e41d9c5510d3efdf62c0975fdf432f98cf3d9a/thimble-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "5a0b492f19d5eeb0b9e5cb0fe8d6e6d3b3f620b9ecf7b4c49c84e1089086ff82",
+        "url": "https://files.pythonhosted.org/packages/ed/eb/e24388cb66c85bcf77fba40d0ac8cc12394e395cd37cc55238ed03fe679e/thimble-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "eb0c6e728754444a962aa75fdc13856f5e34fa448a9f531a9e1ff4d40f7897d1",
+        "url": "https://files.pythonhosted.org/packages/3a/9c/ef08fd1b2c1465323196098e91ceb5e8814358547e1bb263d403ce2baa32/thimble-0.2.0.tar.gz"
+      }
+    }
+  ]
+}

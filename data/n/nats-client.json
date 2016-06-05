@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "NATS client for Python 2",
+    "homepage": "https://github.com/nats-io/python-nats",
+    "license": "MIT License"
+  },
+  "versions": [
+    {
+      "0.2.0": {
+        "sha256": "3a6005061c5eb3e06020201590dede93936975ffc38442c85866e0328a3b0387",
+        "url": "https://files.pythonhosted.org/packages/32/18/3168d480fbd4e919ed4042b8e5e99c93f3836cb3c7d1563919cfa58771b7/nats_client-0.2.0.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "b8dd87ba1c122bf308603d9c4a1b083be5af49c2a214f53945ad8ef96c55cb84",
+        "url": "https://files.pythonhosted.org/packages/3b/d3/c4d007321ca05ffb26da57b18d2cc10a9d80a12ce2f69eb3d760e1644693/nats-client-0.2.4.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "34b208b614443141501fcc982f3c3e9f0f5b54323df953b2d696276632a84917",
+        "url": "https://files.pythonhosted.org/packages/36/e5/ccda5dbbf14bd4ed7c15ff9870aadb923bbffb55e688abd52a7f8090db79/nats-client-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

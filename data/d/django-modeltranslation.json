@@ -1,0 +1,138 @@
+{
+  "latest_version": [
+    "0.11"
+  ],
+  "meta": {
+    "description": "Translates Django models using a registration approach",
+    "homepage": "https://github.com/deschler/django-modeltranslation",
+    "license": "New BSD"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "a4ede6fcd1427c8937c0629ba9d7a34f15bbba359ebc0da8cbe77a911322a2d8",
+        "url": "https://files.pythonhosted.org/packages/69/bf/89e796f8ccb5555e0bbaf0635c97c2e210bc448c725b9e66c67572599ab7/django-modeltranslation-0.10.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "b02ef7cf9a3b937e9717d75cf04d8b183878dd87a257dbb4705e339831e49f7e",
+        "url": "https://files.pythonhosted.org/packages/63/e0/b4fff7bd9eee39c3ddd90e593032ab538a2e1d7abf5f4f2e0c44440dbed2/django-modeltranslation-0.10.1.tar.gz"
+      },
+      "0.10.2": {
+        "sha256": "b78801b838578d0b932d50cbbc242edb331e17746d08ada96db94b4a6c7c23f6",
+        "url": "https://files.pythonhosted.org/packages/d4/f1/f96892cbfc5f25e99f45071480e558578082a9d33d76afc220a60cdfadbc/django-modeltranslation-0.10.2.tar.gz"
+      },
+      "0.11": {
+        "sha256": "5c70508f4b81739e8749625097adbf8a7f643f523d9efdf86c75e7a7bb765890",
+        "url": "https://files.pythonhosted.org/packages/04/d8/a87979b5c1b83ce590a54cf6f0cef93b63feb8b987f52c0ac54930ba0c66/django-modeltranslation-0.11.tar.gz"
+      },
+      "0.11rc1": {
+        "sha256": "1a3397d6273bc6edf5f79dc68f603197dd580af9c0786337e98cf2aec1e99df6",
+        "url": "https://files.pythonhosted.org/packages/07/67/33c7025b1170391e2cb1c6c5134cf1fab811216fe1c32642bbb5e7893d0b/django-modeltranslation-0.11rc1.tar.gz"
+      },
+      "0.11rc2": {
+        "sha256": "bac2602ce442a15ac4401767bfde313d212a408cf2bec23498126be4dcb09993",
+        "url": "https://files.pythonhosted.org/packages/0d/3e/fa720ef95ddb5f1fdef34cc48b5356ce5c605f9afdf4a3a885f65803e397/django-modeltranslation-0.11rc2.tar.gz"
+      },
+      "0.2": {
+        "sha256": "9d91d70c48fe887036529a0f8af480885e8c1e01ab2d5ee1c91c4898997f6150",
+        "url": "https://files.pythonhosted.org/packages/71/83/3391d6a94ca396866aee0a1eb801733108a4af43be73a714c99fea323723/django-modeltranslation-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "dea610a72d54eb552b58ed97a99e575ee3de34cc9170d2154d0583ff15c0d53a",
+        "url": "https://files.pythonhosted.org/packages/83/6d/f2583dc69c53bf7875e4b375d686f58feaedcc7f8b650dc0cd46eced65d3/django-modeltranslation-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "9e9b8525148678320a38cc541f960bc814af5beedb88a02710a68a2b56d278d7",
+        "url": "https://files.pythonhosted.org/packages/49/fd/00602d4fe69c10969ac6e8ce9113c8fb3bd14ef6c9bf597dfe0702669b45/django-modeltranslation-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "bcbd081b0b710fde05a685d97a7fc59780a00dc48ae6823fbf926249d8ae4382",
+        "url": "https://files.pythonhosted.org/packages/a3/a4/e1944381a5fb45d24f301469740b445c415269cc9a72dfd1075a424f88f1/django-modeltranslation-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "ade5fc8461b91d256d8711bda81e1992b58294a2efcbd2f38ecc94ae491f3f18",
+        "url": "https://files.pythonhosted.org/packages/5f/10/3aca0fa0b9a7d794faa36199a7271e57b656bc81a9318d508c830c8b76ce/django-modeltranslation-0.3.3.tar.gz"
+      },
+      "0.4.0-alpha1": {
+        "sha256": "0e672766ab08180fe344c3801ac5f6a5bc4e006f7c5b2d10029a586e1ba86647",
+        "url": "https://files.pythonhosted.org/packages/5f/44/2dc6ca4fb76956ba7542f466d33b695d330b59fe6ba9ac4a3957ac28da2c/django-modeltranslation-0.4.0-alpha1.tar.gz"
+      },
+      "0.4.0-beta1": {
+        "sha256": "7596f790a5a260d707735da8c6dedbb766112e92ef86f20823bcdbe7ab857138",
+        "url": "https://files.pythonhosted.org/packages/ad/63/2992b0845de64ac1746557d9310cef2ccd76975a4d77324d7310747ad4c9/django-modeltranslation-0.4.0-beta1.tar.gz"
+      },
+      "0.4.0-beta2": {
+        "sha256": "6aa7fee79ad4bfa64a1f3d307d9311f20c392e2bea9aeff5f40535d66abeee25",
+        "url": "https://files.pythonhosted.org/packages/65/c8/3de8231d33071ed207158f9991c36de087abd6c084e31eb5787407ac99c2/django-modeltranslation-0.4.0-beta2.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "e5c63b9bcc684201725a0ebc123e13976b6a47b2be886951b3007b691816a229",
+        "url": "https://files.pythonhosted.org/packages/79/05/a95801cef2a057aae496feb9f2a7e468396c3b8d60117dfbc57bb85e40fa/django-modeltranslation-0.4.1.tar.gz"
+      },
+      "0.5": {
+        "sha256": "a1cc072fb1533cf3705a3fd11206519aa41cc5131fb3e43f9251c0fc383de6e4",
+        "url": "https://files.pythonhosted.org/packages/a9/86/cc60297f98e6060efa19e9913946cb8ca9d2543dc3c415bb60feebcc6acd/django-modeltranslation-0.5.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "2ef539deae6bc16445e93e2204cea220fb942bc41ee3be5578ff09a7967516c3",
+        "url": "https://files.pythonhosted.org/packages/3b/42/683d8a4669963d519acb3de40e8e5d4627324c355c32fa6c49f6f1794fe4/django-modeltranslation-0.5.1.tar.gz"
+      },
+      "0.5a1": {
+        "sha256": "b0d7f5b6d52a98f9558ff77dc3d64b4f72b31af08bfb036609db7b557dec98f7",
+        "url": "https://files.pythonhosted.org/packages/06/c8/71724caef468ba89661ba989c7f1001df837e3800299296d3f5b27da39ea/django-modeltranslation-0.5a1.tar.gz"
+      },
+      "0.5b1": {
+        "sha256": "27e5527c6782de9bb753fdb87308f93a85b0d9f4f064da1117bb49c2b15cf5a2",
+        "url": "https://files.pythonhosted.org/packages/23/50/120a8c5de0f2208f71f2bd9f3cd156397de38afc8fcd8eba187bbf920d86/django-modeltranslation-0.5b1.tar.gz"
+      },
+      "0.6": {
+        "sha256": "7317e58f6f31aa43d559c2d921776e50d6a9dbd6b7323ea07eaae3e878ec5b10",
+        "url": "https://files.pythonhosted.org/packages/5a/a5/b8a7935c571013d494c565a2c13079713e5cec930391cf12848bbe360815/django-modeltranslation-0.6.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "90c1bec654c36d5b17d989d9b2651e69f028fa47bf68cf21b9c355d852aa2779",
+        "url": "https://files.pythonhosted.org/packages/23/a2/7e9ae9a5ec40acd95eb81eda092bb808532d657ac4f0b5d3ed6353e4ec9e/django-modeltranslation-0.6.1.tar.gz"
+      },
+      "0.7": {
+        "sha256": "bc52a5e9a5c036ba6972f334e6c8c74ec992ead488b84e30630e46ef5623552e",
+        "url": "https://files.pythonhosted.org/packages/6e/ee/4659ca0d024e4433f292250e2249ccb8679e4ad5fb7aba5e55c93b0386fe/django-modeltranslation-0.7.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "4e4541c23849a2bf3669d858a03338dd0f790565c1d0a23d2642734bf285ad04",
+        "url": "https://files.pythonhosted.org/packages/cf/82/6f9e870dfe9d1089d2d0847bb7011d1d16286d576a0372ea621744755e35/django-modeltranslation-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "73d84d915cc88bd59bd7f0e67fa0615377fda40c0ab2174a9a9e1b4d4f727418",
+        "url": "https://files.pythonhosted.org/packages/8b/a8/44dbfbabec37300186c91d88a3035b970a46b6ce7780a50999367dd5a064/django-modeltranslation-0.7.2.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "18fba06ea6b81b1d6609fb1b31caeeafa97166732df80764d742e3bdf8adf95c",
+        "url": "https://files.pythonhosted.org/packages/2f/fc/68c65b93a70530037a037b21fc234426f9d1005472937be052214abbe88c/django-modeltranslation-0.7.3.tar.gz"
+      },
+      "0.8": {
+        "sha256": "a84cd2c7ab8005c2fb7d92d406e544d8d9cef7fd8bd7fb0b15d842a2eff93c48",
+        "url": "https://files.pythonhosted.org/packages/64/2f/65731eeea77f71ef3c5a3105c9d291043d09f83be736a45297281885d0ae/django-modeltranslation-0.8.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "41cf5fa55596669bf131e7af9843dc52fed6185408a6fbba97da4162df5d6c40",
+        "url": "https://files.pythonhosted.org/packages/0e/ed/45023b881a382d0b8d9a2b5f7688f9c4227ce7e49da063ed05c754102b4f/django-modeltranslation-0.8.1.tar.gz"
+      },
+      "0.8b1": {
+        "sha256": "fbdec31b031e2b8c5a9f76d56c5a015ba1b996c6719e22f7ed68008c9fd693a0",
+        "url": "https://files.pythonhosted.org/packages/c9/0b/074d9eed2eea8b97705f38c2383c589316448b19bfd464ac9e67e1ddf0b5/django-modeltranslation-0.8b1.tar.gz"
+      },
+      "0.8b2": {
+        "sha256": "60b58ce69d9e3adc0b4e89698caa9c2e8b7140d3e003e9cc32ef9150b9b88221",
+        "url": "https://files.pythonhosted.org/packages/1d/7f/ae88b9df4843632f9a4ec734602ca6f450f063ede669d532b72ab91390ff/django-modeltranslation-0.8b2.tar.gz"
+      },
+      "0.9": {
+        "sha256": "27f203c7290ad4ff818705ccb0b425104b65ae4cec113abf96613ddfe58be8fb",
+        "url": "https://files.pythonhosted.org/packages/9e/01/d441cf6e79ae464a19985c24f68e20dd636e925fe74eff84b55f43c284bc/django-modeltranslation-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "a85bfbf53de7a5b60a013d310a32bc827b251bcfc8211dfe6fcd20fae1174ccd",
+        "url": "https://files.pythonhosted.org/packages/d5/35/af034d89c42b08db5ea0b8f25009e09e41317feb9def4928eeaf3cc57f52/django-modeltranslation-0.9.1.tar.gz"
+      }
+    }
+  ]
+}

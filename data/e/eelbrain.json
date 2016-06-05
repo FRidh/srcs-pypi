@@ -1,0 +1,462 @@
+{
+  "latest_version": [
+    "0.22.1"
+  ],
+  "meta": {
+    "description": "MEG/EEG analysis tools",
+    "homepage": "https://pythonhosted.org/eelbrain",
+    "license": "GPL3"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "1cce66189697b60a73cc6d197d6775799b37e9414c75c5817830aba6812ce468",
+        "url": "https://files.pythonhosted.org/packages/a2/48/e05cd50b44b47ce4930bbfafe4f274ddc12df75039760589eb98a353354e/eelbrain-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "16a880f50ec5e68c2a53fb5776e2e9b9ae825c796ed68faad5fdfd3eda9e4801",
+        "url": "https://files.pythonhosted.org/packages/32/ec/59863965c7912d84a09745131889b5bf61bf121dd4a36af5603812a3c87c/eelbrain-0.1.1.tar.gz"
+      },
+      "0.1.10": {
+        "sha256": "547166c71f8266c55ef283bb92292fca092f8c9fff7ee996fa45d5ed4be9a730",
+        "url": "https://files.pythonhosted.org/packages/94/bd/af7d8da41538ccfc3f7eaa288a41837c009e30e375942e612da320fbafbc/eelbrain-0.1.10.tar.gz"
+      },
+      "0.1.11": {
+        "sha256": "d08fdeea32c2b677dc742a1f712dd44f3e7cfce2a808e92f5c5ce5dc45762367",
+        "url": "https://files.pythonhosted.org/packages/29/ef/46b2a8692d8b98bdda396dca458127c30388aacbc613f281c8de2ee3dd27/eelbrain-0.1.11.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "c30a0bdaddcaa0db97f94b7fd739729d28b519cf72d91cff120e3e5ab57fe3c6",
+        "url": "https://files.pythonhosted.org/packages/a8/9a/0d40dd96536f162631bcf77310d77983047348b4dc80875f8f36e718e2be/eelbrain-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "5d6c733b420a1fb11614b28f79c1fe28697e7c5db87b87b8efad2a2230c759ef",
+        "url": "https://files.pythonhosted.org/packages/52/31/68ff1a5a2c2f0816efcccf51de603c65ea90ba6fbe4db651995b79a8821b/eelbrain-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "5e0d9a7a0304e1051b524fd9b930e773f0a9c07adc4a31d1d91915dbe6bd7b1b",
+        "url": "https://files.pythonhosted.org/packages/0d/b2/1dea5d440bb454ef2678b2698bf61eeb5e8c89bef787eb1db1f80df129c8/eelbrain-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "2127a4c33971a8c2ee16cb3be213c5e0cb4403f631b1caaa1d2f2450927843f3",
+        "url": "https://files.pythonhosted.org/packages/f2/8e/00348a3d20ea9f3579555ed85a10859f1e51a3c5d4ed840208e0baaaad08/eelbrain-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "96f58287a1dbf49bbc34b79345a91729728dbfb2faa5c8f21d2b8645dfc9b26a",
+        "url": "https://files.pythonhosted.org/packages/df/9b/b12c13a0c54dd05b3b5cd755a0deca03ee00bc5e1e25921cac68d5843e0e/eelbrain-0.1.6.tar.gz"
+      },
+      "0.1.7": {
+        "sha256": "62e2ef73295a058010ece52e88d669271012e2cce837b30924ae1060912bb3aa",
+        "url": "https://files.pythonhosted.org/packages/ad/84/ccd311f603c5e03bb499ec6dff5de4970009534ac67cb8a28f341e283aca/eelbrain-0.1.7.tar.gz"
+      },
+      "0.1.8": {
+        "sha256": "5b347870593d95fd0daca7565d48f85a5edd0e11497a6359a808d6ccda767a10",
+        "url": "https://files.pythonhosted.org/packages/ad/b0/fe71108e63c436e4a9c026755b516c787a7364282331cb7a1e09d0cf6be6/eelbrain-0.1.8.tar.gz"
+      },
+      "0.1.9": {
+        "sha256": "bc4fe6526768a18d2c0fad6367dd9ba93121c7fe528a85921e1667e04e87dcab",
+        "url": "https://files.pythonhosted.org/packages/d1/79/b21e991e56c25ca2b7b26e69efd16952a661e1724d456ae7c822815b71cf/eelbrain-0.1.9.tar.gz"
+      },
+      "0.10.0": {
+        "sha256": "30593442c28a208de877dd90123e5fdd8167f8f462e1ee72612f451f651a1725",
+        "url": "https://files.pythonhosted.org/packages/46/bd/c93f2a8040a87f01c2fed7b8503a326f26313f2b704bdbaa643d5ca0aced/eelbrain-0.10.0.tar.gz"
+      },
+      "0.10.1": {
+        "sha256": "420fff703b668355bb0bce36c2a8ea46642e2de815c5506fe5d24950dc28173b",
+        "url": "https://files.pythonhosted.org/packages/42/0b/4d030e5d6f905f549eaddd3289037c227b15a0427c2630c8feeace26d14b/eelbrain-0.10.1.tar.gz"
+      },
+      "0.10.2": {
+        "sha256": "693db3d32c8eb7ed8495882b6891523f2281074a100a2c36085cfbe7a501b891",
+        "url": "https://files.pythonhosted.org/packages/93/0d/870fbd8b80db1c6f4bb92c872f4a916d06a0a0c2b9a8d3b5d6b5711f9328/eelbrain-0.10.2.tar.gz"
+      },
+      "0.10.3": {
+        "sha256": "63fb7ef692e2fbb701557824fcd1cb3b5d19ec1fc64bfdaefead1330ca922e38",
+        "url": "https://files.pythonhosted.org/packages/04/84/e33e6e33356c4c762934107ee65120942d0634338a3689279c869d3c346f/eelbrain-0.10.3.tar.gz"
+      },
+      "0.10.4": {
+        "sha256": "729478ae5aa63e794d2998989cc69f65dabacf0f509fc12c3f497c76b0d8384f",
+        "url": "https://files.pythonhosted.org/packages/c9/60/a44edc323150944d9a58f63ea24d7b63c4836139c7c39492a503b9031122/eelbrain-0.10.4.tar.gz"
+      },
+      "0.10.5": {
+        "sha256": "cc837fb93825552a7d8865091224bc92ce55946e3b899f06061a764ca18d506d",
+        "url": "https://files.pythonhosted.org/packages/71/73/c401a74f05bb26c4ea2d664b446ae9ae997d75ecc6d6cbd8a07c3899b704/eelbrain-0.10.5.tar.gz"
+      },
+      "0.10.6": {
+        "sha256": "9b16e8de2bc5ba08c3435f7e9b28acf2ad291f403a8ca0cdd7a5adc9de9584cc",
+        "url": "https://files.pythonhosted.org/packages/51/f3/97490dee06d4ca83b23bc96bde8dd5b4d8de1224c7d3cf2f9c69c2dd7faa/eelbrain-0.10.6.tar.gz"
+      },
+      "0.11.0": {
+        "sha256": "9fe02057a26bf8394f17d23f25f025304cb92a82e215e00710a93232c282b41e",
+        "url": "https://files.pythonhosted.org/packages/72/ac/752373b0ec5f20f283ce102dc8ebb54dded9672f193cc28e8816708c2906/eelbrain-0.11.0.tar.gz"
+      },
+      "0.11.1": {
+        "sha256": "93cffc1aee2d79c50a3eeca198b89d17f48dcd6e2b53771a3ee77e5200786e2c",
+        "url": "https://files.pythonhosted.org/packages/c3/43/4bdbc0a08d5feed79b25c11d0db541c89506074c65deab0a4c6df772af66/eelbrain-0.11.1.tar.gz"
+      },
+      "0.11.2": {
+        "sha256": "acc84aa4acc2d539c0e0f4c54005567a60b4839049d6b347d0fa899c51bb7a00",
+        "url": "https://files.pythonhosted.org/packages/24/86/f25823d99bd39f9e1f8a54b01079ccf8b3d43c914a627a9deb7e1b3d71ac/eelbrain-0.11.2.tar.gz"
+      },
+      "0.12.0": {
+        "sha256": "5836b29adc4c505cc2fd999375b7238e412b375032a52b53dd9e2ab297ed8d26",
+        "url": "https://files.pythonhosted.org/packages/4d/a2/07b5a11b3d5bfaa7664607fe59571bb0b5f495db8ca37eb1bf635d94703a/eelbrain-0.12.0.tar.gz"
+      },
+      "0.12.1": {
+        "sha256": "e2ce19c6eae7db294c7f0804d0e9fdd849c9b51b5ebe6b9c90cddec20cb0d4f7",
+        "url": "https://files.pythonhosted.org/packages/3c/68/2c35136fc77fb173513aeae7c8e15aab4b9d81e3df0b60b1c0f6db14b72e/eelbrain-0.12.1.tar.gz"
+      },
+      "0.13.0": {
+        "sha256": "5d6809ce08ee6d5869eda4d32f88c7e7a4408ec87f6a2b8d9bcb7d8581a01df3",
+        "url": "https://files.pythonhosted.org/packages/25/25/17c6c08c9ee67aad5f43fa371c8fbf77dbf924fabbafd1bb53fe57552c4b/eelbrain-0.13.0.tar.gz"
+      },
+      "0.13.1": {
+        "sha256": "b0fc1511c2a76019c3fe1b882237d6a5aaadc08a90d94e33f7fbae094bf94cb3",
+        "url": "https://files.pythonhosted.org/packages/44/1c/21017f0809f642919ad4ba59a0a1b0a8a6567eeda880ed6bf7f691edbd26/eelbrain-0.13.1.tar.gz"
+      },
+      "0.13.2": {
+        "sha256": "eef195e7b2147b377382ad352c0f474b8fb020dd7d14d9587348b9f7165824ce",
+        "url": "https://files.pythonhosted.org/packages/c7/d0/73379d8be4e9fb8d14550056f402fd9bbdb01fe1a944b3a4e1d4532865eb/eelbrain-0.13.2.tar.gz"
+      },
+      "0.14.0": {
+        "sha256": "d5006d45a2f851c3cc1c2b9fca3bee9a7bb71f69002e311f9c7c728c6d6ca381",
+        "url": "https://files.pythonhosted.org/packages/82/cd/7002cfa65af33d29117e82a19a13a81912b1feb73731ed73561f70c4ff4b/eelbrain-0.14.0.tar.gz"
+      },
+      "0.14.1": {
+        "sha256": "89a189126df8eb1748474fba23a045d288bcf527a434b13f04fb53c01e50e02e",
+        "url": "https://files.pythonhosted.org/packages/67/fe/a205ad7d878ccf69504a3418f6c7deafed7d1f9d78ff5db703b8aebacafc/eelbrain-0.14.1.tar.gz"
+      },
+      "0.14.2": {
+        "sha256": "9d78c146590919b0e53fc8b7bfa418955bb23670eee4b167573e4bd21527f66d",
+        "url": "https://files.pythonhosted.org/packages/32/f1/b53d823030a00fc9b3812cc00585cf4981d9912dbff56d9df9a90504a21b/eelbrain-0.14.2.tar.gz"
+      },
+      "0.14.3": {
+        "sha256": "4a75739f2d34c7001b5ecedc3866c6fd19e5cb1ca927d1b102ee0d8e71cd4ad3",
+        "url": "https://files.pythonhosted.org/packages/a2/0d/9a0e51d674aacac71169939ce64038d173d75ecbd431b26154e2aaf9c501/eelbrain-0.14.3.tar.gz"
+      },
+      "0.14.4": {
+        "sha256": "a1dc04d8c6ee22306629327195d967727ac47d8e758df3669c3a239a9c5dfb2f",
+        "url": "https://files.pythonhosted.org/packages/36/0b/bcdcd24008dcc4b9bb0da7394e813c44b86a17fc3fcecc0148a363325ec0/eelbrain-0.14.4.tar.gz"
+      },
+      "0.14.5": {
+        "sha256": "824ab0485b1dcc48c2ca05d18a7c9ebdeaba5737ca8b48110cdac46db48ef59d",
+        "url": "https://files.pythonhosted.org/packages/29/af/b3ee9ae3a747f69303e766af3ac2dc9887d4163dd2c91438b9e6fbf3fe75/eelbrain-0.14.5.tar.gz"
+      },
+      "0.14.6": {
+        "sha256": "01e51eeaf2ba8ed09890f0685b7b793146c359f2104e89e3fd092dcae4492406",
+        "url": "https://files.pythonhosted.org/packages/88/9f/ef12b1e956bb52755ac4ba153cf38206ea7598392bab78da5392a00221bd/eelbrain-0.14.6.tar.gz"
+      },
+      "0.14.7": {
+        "sha256": "57cf99529e670cbf4cda41b41f369782abb5361f477dc4392827179faf5532c2",
+        "url": "https://files.pythonhosted.org/packages/c6/82/af6e67dc0157dc9d1d0c4ee6a1e5a5cddfaf4ef0d3bb14178e7ae2a6b682/eelbrain-0.14.7.tar.gz"
+      },
+      "0.14.8": {
+        "sha256": "879ad55dffa7a893a855f1da04a887efd722ec1dea3fcd65a4b95ff75630bc19",
+        "url": "https://files.pythonhosted.org/packages/9b/18/cc9ca20d3778341ac8fd20b66f026850562edfe945592ab3c265770dea30/eelbrain-0.14.8.tar.gz"
+      },
+      "0.15.0": {
+        "sha256": "dbff7d7936826f7f893ce96832790facd4263eb524a4541642bd7ab26d1ea660",
+        "url": "https://files.pythonhosted.org/packages/f0/3f/a561eb8b2e3c50f658e3218a0d4fe20878205c75c270bd44d01c755653c4/eelbrain-0.15.0-cp27-none-macosx_10_5_x86_64.whl"
+      },
+      "0.15.1": {
+        "sha256": "4fb73ec718575b8300e0195b44dbb7472467351befdcfe00c7ab0f10f8d02099",
+        "url": "https://files.pythonhosted.org/packages/1c/fc/47e7ecc3b0e6ac1a9092dd67b307a76024134e9425b9877c7f07fc183cc6/eelbrain-0.15.1.tar.gz"
+      },
+      "0.15.2": {
+        "sha256": "1280286ea22ae85319bd2f72815172ac3c6bb7279eff4277ef2baeb7956f45b0",
+        "url": "https://files.pythonhosted.org/packages/c6/89/06e43cc9c067495ee0824dc40adec955a25dd9b1a931ed11502686f6201b/eelbrain-0.15.2.tar.gz"
+      },
+      "0.15.3": {
+        "sha256": "297ae167a732227dcdd3c849cdc8869478716f43e391f626f9ee2897698076e1",
+        "url": "https://files.pythonhosted.org/packages/ae/cb/10bfcc77ea266e960080a4961b800dbc8ab1a77f26b3a6b8015c8133cd07/eelbrain-0.15.3.tar.gz"
+      },
+      "0.15.4": {
+        "sha256": "1a643edc5b3fa824a90db87a5aeea3ada2ccf7f8f6c237e264e497236852a7d4",
+        "url": "https://files.pythonhosted.org/packages/13/31/62f950534c9895bd545417697d145e4654f29a5b13c72e685d1e8111be5d/eelbrain-0.15.4.tar.gz"
+      },
+      "0.15.5": {
+        "sha256": "d27b7f507a7916177f5469f861c8e7de576b2a4b26428dbb7c84052eab14c789",
+        "url": "https://files.pythonhosted.org/packages/c8/b5/1936338a64eebf59887221db1ef9392b21a49bfc6c6fad2561e506953a75/eelbrain-0.15.5.tar.gz"
+      },
+      "0.16.0": {
+        "sha256": "39335edb22788b4e0c98e84ac21a76a02f88ac9a8a9415adf1874c2674dc5d18",
+        "url": "https://files.pythonhosted.org/packages/17/1c/e5262e6b9847d41b9f86b12700bed2eac90f65c93c6e8780adf110f29d14/eelbrain-0.16.0.tar.gz"
+      },
+      "0.16.1": {
+        "sha256": "9b3d71895b3277ee569c54ba458dd2be8d16d18c695f5b3075db54f901c0e662",
+        "url": "https://files.pythonhosted.org/packages/2f/e7/ab310fe08599dcd892fd140826ee3799e70f66dfc241f03bdc5e936d2b9a/eelbrain-0.16.1.tar.gz"
+      },
+      "0.16.2": {
+        "sha256": "497a68fd85c6f004207a40b8e101a0cc2ba7361c8e2b1dcae62938e15b24cf76",
+        "url": "https://files.pythonhosted.org/packages/5f/7a/1ba487e1469615562d9e4d87e9746b0dfd240dca0a307fa7628cec9681d3/eelbrain-0.16.2.tar.gz"
+      },
+      "0.17.0": {
+        "sha256": "637daff517145633559acbe4ce696a2b2a9b86f344537c053013fa41fb05e8c3",
+        "url": "https://files.pythonhosted.org/packages/10/53/fb6e5317a5ae810e3956c3b23197990d8983bf8b81df683755ff60fc4b38/eelbrain-0.17.0.tar.gz"
+      },
+      "0.17.1": {
+        "sha256": "0c860cff4275116b213b32541f655207975d7f16d202a17ddd83bf7e84dcb4ee",
+        "url": "https://files.pythonhosted.org/packages/99/6a/fa2154e8f1c1a5994e58954410a0e432cd0a30cc6f4b76786708275324e4/eelbrain-0.17.1.tar.gz"
+      },
+      "0.17.2": {
+        "sha256": "ccd7d5c32c6e0fea3cfbd553a791fe8d87935f7fd3a34c8bab128d268802bf64",
+        "url": "https://files.pythonhosted.org/packages/38/22/d336207709cb518a21107f7514070332689ef70dde9fcee78ab5baf94129/eelbrain-0.17.2.tar.gz"
+      },
+      "0.17.3": {
+        "sha256": "b58406ba73455fe4f82818bf0a680155235b1b901b3ba11f96eee3adc94ff046",
+        "url": "https://files.pythonhosted.org/packages/c8/86/8ea69fd3b89752d7cd143626265b7fb91dc9dd07db65dba652d203cced72/eelbrain-0.17.3.tar.gz"
+      },
+      "0.17.4": {
+        "sha256": "b4fe068302411fc8e437c4250278369c9cf96b8b93e1030f86de4375e248b685",
+        "url": "https://files.pythonhosted.org/packages/0f/32/79d18aa5966479719517b70b98093c2f435cb05b92425567dd6d24a9c3a1/eelbrain-0.17.4.tar.gz"
+      },
+      "0.18.0": {
+        "sha256": "2c1a48362728065218a4adbeed5f7f90b323858e63d78892f7c8804c4cd48518",
+        "url": "https://files.pythonhosted.org/packages/97/36/bb8cdcd19812339eef7d1da1d8604522179d2f5558bf40e923c188676e75/eelbrain-0.18.0.tar.gz"
+      },
+      "0.18.1": {
+        "sha256": "b946a43ea19c770da06806ecd788a7cec7a7cdd57bfbb412141eac5a038fea1c",
+        "url": "https://files.pythonhosted.org/packages/06/0f/8c40ddc4989baf12c7eed265a1221e4be0a55c65b02a70f6ea2f08372beb/eelbrain-0.18.1.tar.gz"
+      },
+      "0.18.2": {
+        "sha256": "6ac0fd47855ce1a46ef004bde98e2bfef47ce08dc81493751d79ee265691b6c3",
+        "url": "https://files.pythonhosted.org/packages/7c/61/54e95e249dcbb7d6c51e5b3c26ce3000788c612972ca0eb27e6796d33cd7/eelbrain-0.18.2.tar.gz"
+      },
+      "0.18.3": {
+        "sha256": "b17fde69d864e9fc3c5e4b8ec37eb35bf310353000b6e89edf9d2286342b686f",
+        "url": "https://files.pythonhosted.org/packages/50/af/b0f69225cf2989b4ed370a5788638b8b4fba7d6df0b98c9dac075c58d17b/eelbrain-0.18.3.tar.gz"
+      },
+      "0.18.4": {
+        "sha256": "4bba4ba7766d0ae38fc2aa25e507fa0c4e0e5eb84e8de77a35341a147f6fd140",
+        "url": "https://files.pythonhosted.org/packages/bc/26/2dc50f5f7d62ddc5052f492cb4258b57f686a60ea8e36085ac47c8d62983/eelbrain-0.18.4.tar.gz"
+      },
+      "0.18.5": {
+        "sha256": "0a5839a60dd5bdbe65b35ff938f95806b044ded5da413e6ed9a787e920f7caf6",
+        "url": "https://files.pythonhosted.org/packages/f9/78/2f88c7650f34341c0dc6a6866e8572880b7ebf5e997ecaf1369506667093/eelbrain-0.18.5.tar.gz"
+      },
+      "0.18.6": {
+        "sha256": "0fb0408d7605a8d6c83da7ea12bf43299cdc804b646254687ea7f390ed96e449",
+        "url": "https://files.pythonhosted.org/packages/42/20/ea1f3b73b008a81af1649b6fda8caae2425f41b0e0b14870799f82dff1c8/eelbrain-0.18.6.tar.gz"
+      },
+      "0.18.7": {
+        "sha256": "0a4dd7f7c3557fe3db86b4d40b9dbde30dbaf905a7d959c3a3d341de4ff40362",
+        "url": "https://files.pythonhosted.org/packages/01/98/c93a4b78e992145dc911b94e8cf44227c851cb3faeaf99f0b53eae2556e7/eelbrain-0.18.7.tar.gz"
+      },
+      "0.18.8": {
+        "sha256": "3c1771896854f5e627755a8a350bb0424d3fdbcfa972ff8875b73591c281ca10",
+        "url": "https://files.pythonhosted.org/packages/57/ed/891f1eebae39330100ea38a82d29920938d26632a342632eea6ea56a134a/eelbrain-0.18.8.tar.gz"
+      },
+      "0.19.0": {
+        "sha256": "bd9ca19d820d695381171097aecc6f4ce93776dd3d4607a86c7e167804dd957c",
+        "url": "https://files.pythonhosted.org/packages/31/59/fef81ea1745a1af1feb1b232c8f837ec6ff396b9716c58446a0468378086/eelbrain-0.19.0.tar.gz"
+      },
+      "0.19.1": {
+        "sha256": "07e68804049bac24f855d2a9fade1e879503fd49ac1af35ec45b1496cd72fe56",
+        "url": "https://files.pythonhosted.org/packages/dd/40/1c3c858d366ddb7acbf65ca5d07ec8d28c328ea515837920bbbb34accf50/eelbrain-0.19.1.tar.gz"
+      },
+      "0.19.2": {
+        "sha256": "be6fd9446d688dc5ce0ca2dca26108d955ee58b8bb6b85a0f9cdd25479221fdd",
+        "url": "https://files.pythonhosted.org/packages/65/7d/1bdfca78d25ddee3f80c7fccfbf7a668c08aa1a195090fa8f8cf3370546f/eelbrain-0.19.2.tar.gz"
+      },
+      "0.19.3": {
+        "sha256": "030784c178c3540024a9c2c8a90e387768f9368575e7c4a23506b64fa1dcf743",
+        "url": "https://files.pythonhosted.org/packages/cb/fa/9a7d4f2734e20bf715414facfe81d886b8defa8367f470c5bc397a55ec90/eelbrain-0.19.3.tar.gz"
+      },
+      "0.19.4": {
+        "sha256": "0175674d8d823c6f3c7ddcdcdc05ec714478a42619642b3a8d0f62763e208039",
+        "url": "https://files.pythonhosted.org/packages/04/74/4c8f5d77081c1746b9df6857a25d1b10fe4374d459cdbc5442dac6984959/eelbrain-0.19.4.tar.gz"
+      },
+      "0.2": {
+        "sha256": "e802d4fcc2e999e0e242aa9efbba9066c197a3bf7eb1b74ac5f76f4c66e937e3",
+        "url": "https://files.pythonhosted.org/packages/9f/95/8701cc1cc1704d53ef039511feb8a5218a073a9ad7b43d29f5150e7151e4/eelbrain-0.2.tar.gz"
+      },
+      "0.20.0": {
+        "sha256": "46b91a936ac33c8ccb425080d537d3bfcf2f1c2c4965a28e10aa6c2fd36f5f45",
+        "url": "https://files.pythonhosted.org/packages/cc/f7/d7afaf9f661320e4aede5d84476d2866410775c6eeb7bded97c45e512bf1/eelbrain-0.20.0.tar.gz"
+      },
+      "0.20.1": {
+        "sha256": "9fe3be3ce474eb26158cc6cebc8e8e9fbe2cac19a316e058f526bb26fee54b5b",
+        "url": "https://files.pythonhosted.org/packages/da/42/fcc2f91c68baaad0437ee4b611750e1f0ea44abd60dcff5c4f737829ffa1/eelbrain-0.20.1.tar.gz"
+      },
+      "0.20.2": {
+        "sha256": "3d27bbd9b4e598245258e8509d30e43625d6c1467851f5cbcaeaac98b89708f2",
+        "url": "https://files.pythonhosted.org/packages/27/d4/a2165202bc3b6d20dd70a5dbf0c7d04ebe4b22749b9bfadfd51e76d37b34/eelbrain-0.20.2.tar.gz"
+      },
+      "0.20.3": {
+        "sha256": "9350528cca1d7042b89c0945bcfdb8b7be84c9fd27e6ceef3bb857855227a27f",
+        "url": "https://files.pythonhosted.org/packages/38/03/145485c8259f5786ced6062435c5a071a8e5fd70914c12bb397f969430f5/eelbrain-0.20.3.tar.gz"
+      },
+      "0.20.4": {
+        "sha256": "aca4964b0401c105878864ed8e2ae17e84099fa0f5adbe1e8ecfc589b3c01743",
+        "url": "https://files.pythonhosted.org/packages/93/4a/1715c2e55e5ceece00498dfd9abe2afe970a41217f1ac81819db7853991b/eelbrain-0.20.4.tar.gz"
+      },
+      "0.20.5": {
+        "sha256": "1ae446a3a724f0c0047c6130382fcaae41dc7f1afb542c7cd65d175530d18b01",
+        "url": "https://files.pythonhosted.org/packages/35/59/95333b72ea3fb22096cb1f318142fce4811c71b65d91e4df4b870c7b4fb0/eelbrain-0.20.5.tar.gz"
+      },
+      "0.20.6": {
+        "sha256": "7594934f56e40485db18e5c0d074879a77ce51dafce8c221e013d8584b4b6e87",
+        "url": "https://files.pythonhosted.org/packages/7a/c9/cb019170ebe383f8b8734c5563f0c1b8788ecd3611be6ead3d6966021547/eelbrain-0.20.6.tar.gz"
+      },
+      "0.20.7": {
+        "sha256": "2ec4eff71e5d757d8064bbb3e068961deb470da5a767ff6b8e2e486774323f82",
+        "url": "https://files.pythonhosted.org/packages/c4/14/f721d6479d988815fbafb75a95246c98c7c029b271bda63cf08b2236f6c0/eelbrain-0.20.7.tar.gz"
+      },
+      "0.20.8": {
+        "sha256": "7d399ee563cce8019b1dd2dd2aab34d2ac6ab0f4f1475bc978aa506598464762",
+        "url": "https://files.pythonhosted.org/packages/4f/4c/281fb02a066c7121211da491bd568fc0491d5ca9fb51295084ef8c2c4674/eelbrain-0.20.8.tar.gz"
+      },
+      "0.21.0": {
+        "sha256": "6f80f5125a4d90bec288d68bb3245a429195da49ba54350afd7a56c6096de49b",
+        "url": "https://files.pythonhosted.org/packages/eb/53/8617a3bda27f088fb5229143b481c3ff6f56ba330558fc41c9630ae044a2/eelbrain-0.21.0.tar.gz"
+      },
+      "0.21.1": {
+        "sha256": "73e11e1200bab22d8cd7058f0dbba099b0b92860f6b5cb239b1b6db751dc5e8a",
+        "url": "https://files.pythonhosted.org/packages/5d/a6/0c49b808ddc23c88c937dfc956f66062fb2ddcec3272b8b436951007d9b5/eelbrain-0.21.1.tar.gz"
+      },
+      "0.21.2": {
+        "sha256": "3829819b69f7ee20eb48d3ee3e3b4f6762990cc1a4fe05f9851a776a3a502b25",
+        "url": "https://files.pythonhosted.org/packages/8a/a9/4c4f8531f182418e07fb6737b9c5013d2b2e8f59eb782bc8ff8cb4e94034/eelbrain-0.21.2.tar.gz"
+      },
+      "0.21.3": {
+        "sha256": "0292a3580380b5ebf9e8df02d85d52fe844b4abb382e5d7878b1c053bcf93ae5",
+        "url": "https://files.pythonhosted.org/packages/81/18/4d0968efc8b0a2d659f7a20fbe40345ec02b54dc3a4219fd2ddc8b76c608/eelbrain-0.21.3.tar.gz"
+      },
+      "0.22.0": {
+        "sha256": "65cdd2d72b462b96b2cff451059b2c9c888d05f5b718f229a236366a1ada9bd7",
+        "url": "https://files.pythonhosted.org/packages/18/8b/14c719b8a41232d88f1e41dd2823d0f706ec5832fd474a7488670e27cc23/eelbrain-0.22.0.tar.gz"
+      },
+      "0.22.1": {
+        "sha256": "2aab273e3cdd408e61a39938a4388f32798276f74dbe99632538accb5b347b36",
+        "url": "https://files.pythonhosted.org/packages/d1/39/5a6cc046d500cd7fcca08d4bacfd902746cfe3d4076f1d10d05d384b5805/eelbrain-0.22.1.tar.gz"
+      },
+      "0.3": {
+        "sha256": "b4eef3a95be334932c84856467500578054e41bd13b7bfc0f97fc98f29e4e4b1",
+        "url": "https://files.pythonhosted.org/packages/be/83/ed949ef735d9fe41279a4b735d3bd1da6659a560fd804c74ea8845e9437f/eelbrain-0.3.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "aba785786e75521315a84bb69ee0d27405e7bc364a81f8b55ef11abe50164534",
+        "url": "https://files.pythonhosted.org/packages/e1/cc/afc8b4cc08d655ca2cc39ef1e00d6e7f56f56130dc1fcbecebd9508d6d4b/eelbrain-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "bbf3c90b02e15ba4016142adc0cb70c6075be0d9e1b58b802f6a77081e50cd44",
+        "url": "https://files.pythonhosted.org/packages/41/d3/b259d1bd5bc2488c108ed6fd92fc73eeb21f7ce4ec75d645137692085c89/eelbrain-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "813970a7c7632a379ee93e1dd832238f35d12d433bb0dbbeac145a7800a320df",
+        "url": "https://files.pythonhosted.org/packages/2f/38/bd1581df2b00c25428b296e0780413973e2412ebba12d9afeb079b9ede1c/eelbrain-0.4.2.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "7d0e7d164b96452209c97e2471d12d4a6cb031b8a1ff86302e53cfc446e6b775",
+        "url": "https://files.pythonhosted.org/packages/10/08/c663b6704b69e976044a22194264b35c21d9a191ca64fa1f9eb9fd007629/eelbrain-0.4.3.tar.gz"
+      },
+      "0.4.4": {
+        "sha256": "354266b1c1bfa3ac96ae7b1c0164b9b9aa85bd0b9f21fc41b2d521f55207643e",
+        "url": "https://files.pythonhosted.org/packages/28/6f/c9d41736419693a26dee92f5a29c9c6f8390bd548aba34322c3e8fe0e7a8/eelbrain-0.4.4.tar.gz"
+      },
+      "0.4.5": {
+        "sha256": "2d1e3d169ecd688758ffc562b2d82fd4af18d4a7249c39ab272fa00fa9aeca29",
+        "url": "https://files.pythonhosted.org/packages/6c/80/bfa244384283d87771f7923e2500c6c65262d8dddb1d53139532e7ade7fd/eelbrain-0.4.5.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "20598e30a73b31e93340e303040eec4647e833e9768f34d7759c669626ce2714",
+        "url": "https://files.pythonhosted.org/packages/15/a5/260d135eb7b8a85ad7e758b7cfe11374f675f940234db6d345814d67320d/eelbrain-0.5.0.tar.gz"
+      },
+      "0.5.1": {
+        "sha256": "2d1c9ea5dc3d9b97d451b396d174f9f27f70440a6c36e520caab4098e4fb61b9",
+        "url": "https://files.pythonhosted.org/packages/9b/1b/ca91fc3f4d2fadb9bfe56dd9340e341ac7de389805e85d600e531cfd3912/eelbrain-0.5.1.tar.gz"
+      },
+      "0.5.2": {
+        "sha256": "2157816261fd6ea3f7330cc95d06e33560567218c0aa3cf2527b4dde4bcb7089",
+        "url": "https://files.pythonhosted.org/packages/e1/ad/4c70a60a61eb93b7ab57352468e798ccfeb804919a41f4c0cd0e8c335337/eelbrain-0.5.2.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "68e6bce7a9ecbbb497617e1a962e6ffbecca6098d5511d5937944a27ad9d26bb",
+        "url": "https://files.pythonhosted.org/packages/e5/55/1b46f4a5c49ded2c273357447cccd4630c9f954179a611ad7f64a712b241/eelbrain-0.5.3.tar.gz"
+      },
+      "0.5.4": {
+        "sha256": "1ca74251e600c93367be8cdd6b98c555534abcc6c051a775f034a7f89065a3e7",
+        "url": "https://files.pythonhosted.org/packages/96/f3/10bb4e5c4da2670977e29db5f751f5d510b8692b8e7b08a618ae13d77847/eelbrain-0.5.4.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "6b80edd3bb358f8dda5fe08a9920f462a7d112240538e304ee56b4e09a8f62da",
+        "url": "https://files.pythonhosted.org/packages/8a/41/ae07f49e4d5858b183cb99b79f9497c04eaddc849497419185099340690f/eelbrain-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "e65d06f95026f56bdd53aa8bfd9c00fbaabc3bcf40219faabca52ef1eb6945bc",
+        "url": "https://files.pythonhosted.org/packages/b0/8a/bcdbdfb9864489517f95e2bf87402b648f79afa681c5c9258f1205c6e2f3/eelbrain-0.6.1.tar.gz"
+      },
+      "0.6.2": {
+        "sha256": "d14f1b8934256135b205e78edd7b969eaaf5b110d189a996ca24430bb18085fe",
+        "url": "https://files.pythonhosted.org/packages/01/8e/69c0c1f22f7a869811e9f41a74b41f732dad75b00de876be977b20c6f124/eelbrain-0.6.2.tar.gz"
+      },
+      "0.6.3": {
+        "sha256": "15b5cfd76d9f0c857608808f784cf601a7d3fd1ffaa74e2d272a70047c4036d4",
+        "url": "https://files.pythonhosted.org/packages/fe/6c/1701f4d85bf01189c9b6d29574eebadce3b9e34f0467c10489d5fe324d89/eelbrain-0.6.3.tar.gz"
+      },
+      "0.6.4": {
+        "sha256": "8fdf57418aa96ca2f5b12bffed4252a7786aa21c37df8b5562d87858ea4d30bc",
+        "url": "https://files.pythonhosted.org/packages/d6/65/2821912bf5d15a7edce3c8f1ae247c6a1a49b87d9dcc59e1b7e1f37f273a/eelbrain-0.6.4.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "ea7174389b1b4520ab6b7da59ef507887b89d567ac57f1e76de65b1f85602742",
+        "url": "https://files.pythonhosted.org/packages/30/71/2b2c2cf451982f3026baffdb38a54088d4d0235209900c9216901f4fbee0/eelbrain-0.7.0.tar.gz"
+      },
+      "0.7.1": {
+        "sha256": "60732da6509b848f3f1b4d648ad44744b390827ff72d5c0fe62fa3de41432aa7",
+        "url": "https://files.pythonhosted.org/packages/15/db/b95cabc36f7630f7172ffd7c369a2035e5badcdc281b869dd14fc25e4388/eelbrain-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "7a4d6a04367ab846014da191cf77cdd91d41aef96c63d0d758d24ae80e5ff469",
+        "url": "https://files.pythonhosted.org/packages/b4/6b/2c23bac02858e90ed675a2a3194866e8ade69c2483567972f8c98a7f9295/eelbrain-0.7.2.tar.gz"
+      },
+      "0.7.3": {
+        "sha256": "bd5394b832fea3c2f4394f1beb56c318b2741814cae197dbee13c27fe5f05e8b",
+        "url": "https://files.pythonhosted.org/packages/65/bc/c604a606620b6f3aafd612ac3ebd5b4be66d5c03ee70fc1acf2822871a69/eelbrain-0.7.3.tar.gz"
+      },
+      "0.7.4": {
+        "sha256": "5b0f653089fa272347a283ea506ba27cb644479ddcf24132b7df3c2f94d35c87",
+        "url": "https://files.pythonhosted.org/packages/37/e5/2ab99a8655fec2a1c4764f8b4bab6b5196c34bc677829ada6864d28f769d/eelbrain-0.7.4.tar.gz"
+      },
+      "0.7.5": {
+        "sha256": "c8b674d30d1dde52e0a20b249c08116b1cae466ef142d19ce289230e00fe2c4d",
+        "url": "https://files.pythonhosted.org/packages/54/89/c35adfe6b1918859a929e90a4db73a60872a8c9491eafefc9a70349165a7/eelbrain-0.7.5.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "40233957b8c3b8d5a4f01c4fae216c668ed466fba0e881dd429113c4a1d2d115",
+        "url": "https://files.pythonhosted.org/packages/cf/e7/3d0c527f7b149c9eb4244ca2f7304431e7a4b80a5f0d935bdf46c6362edf/eelbrain-0.8.0.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "2a34f64cd280062ce96b7349c5933296d7fa1f6cf5783a180d2f5f1dff730220",
+        "url": "https://files.pythonhosted.org/packages/0d/83/530077e9305009f1ca9a3717d185d02274a90f4ce45ddf0a24f408bbc118/eelbrain-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "5d7332382648d50188ed6985c5cf65a1193f30918856ce736852b361c8e01db1",
+        "url": "https://files.pythonhosted.org/packages/54/82/499f684086430d2bd76e120435ffa8b503e120ff64ac108f66f4b1ca5ed5/eelbrain-0.8.2.tar.gz"
+      },
+      "0.8.3": {
+        "sha256": "02f27cb4e7c94c8661ac405ce33f251f8cf4cf968a3f433df56cdfd6864efeda",
+        "url": "https://files.pythonhosted.org/packages/5f/34/c29f44ec1ea81e3b8b254165718a9be24d17b547a1fa64520e2625baa779/eelbrain-0.8.3.tar.gz"
+      },
+      "0.8.4": {
+        "sha256": "109c248818454e2b0050765e68b4d6434ba21c0727f313edf93d003472414239",
+        "url": "https://files.pythonhosted.org/packages/85/54/9dec04aa54d2cb9bd306762df2ac73d594f232f14f76d7ddbe9df0b28a3e/eelbrain-0.8.4.tar.gz"
+      },
+      "0.8.5": {
+        "sha256": "0a8e73e5884f121ec1ca878565d4766ff0033adfe6d5387c1bc913f691322ba6",
+        "url": "https://files.pythonhosted.org/packages/90/73/82cf9a46010bb8aa536e01fba26b09ce76c176525d6fe172646c6c76b50f/eelbrain-0.8.5.tar.gz"
+      },
+      "0.9.0": {
+        "sha256": "5791eb864b80d7ed6fd66bbace8a05331e090140452703ddb1fbe4acf80ae5a6",
+        "url": "https://files.pythonhosted.org/packages/fc/60/7dc80836fd101a2c9e9efb141f1089a73e21b2d29df65f8c0042a00f6380/eelbrain-0.9.0.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "b9bb176a8a576c9235cb5b2e8f8c925faa224cc81dc8a88d9ffe2e8ef0e98db3",
+        "url": "https://files.pythonhosted.org/packages/55/65/12c49ce124a960c72e73427d8a698dd75a8dd2ccbcf0a532f36a65c993e0/eelbrain-0.9.1.tar.gz"
+      },
+      "0.9.2": {
+        "sha256": "314883b94452cee7fb7951bb8a14cfd5110955b0d3a7eeaec0cc61bf969c28c1",
+        "url": "https://files.pythonhosted.org/packages/6d/d3/01980a2901902f09514f26ccbaf7bb6810ba90dbead89fc1b03125ce66f2/eelbrain-0.9.2.tar.gz"
+      }
+    }
+  ]
+}

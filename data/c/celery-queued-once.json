@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Celery base task de-duplicating tasks",
+    "homepage": "UNKNOWN"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "7f170da39689334f627ce5ca540e40964c9b4b1523ace80101531fa1069a7d2b",
+        "url": "https://files.pythonhosted.org/packages/4c/98/0171f0155b260533d445622ae816e0fcb2944e89a021ac06b32241fce945/celery-queued-once-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "b3c9cbbb508509379c67a7fc73203ede4ee7f097fe886a7d46982dc108e8ad76",
+        "url": "https://files.pythonhosted.org/packages/bc/86/6a7d2cf526324b60ab87207298f623023c51edc882d224fe4dc7229b3c4d/celery-queued-once-0.2.tar.gz"
+      }
+    }
+  ]
+}

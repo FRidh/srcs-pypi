@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "4.0.1"
+  ],
+  "meta": {
+    "description": "Tryton module to implement product classification",
+    "homepage": "http://www.tryton.org/",
+    "license": "GPL-3"
+  },
+  "versions": [
+    {
+      "4.0.0": {
+        "sha256": "5514de6a2e2c36af8f13745af636b1d37a339036527ce621afe8fba603098b36",
+        "url": "https://files.pythonhosted.org/packages/21/36/b953da65b9c93fb471efb1c20a2aec36da61b27dc7285bccc6da3bf821a1/trytond_product_classification-4.0.0.tar.gz"
+      },
+      "4.0.1": {
+        "sha256": "3f65cd46891ecb902a57478a015c5aefa3694d7a71d2fb0df8e994b2709e14b8",
+        "url": "https://files.pythonhosted.org/packages/63/2c/3bcb7d41203575b200bafcf526614dabf67d83cb88d15ffec0d5bacb6ee1/trytond_product_classification-4.0.1.tar.gz"
+      }
+    }
+  ]
+}

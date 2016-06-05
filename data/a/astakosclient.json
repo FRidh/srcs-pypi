@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.16"
+  ],
+  "meta": {
+    "description": "A client for the astakos authentication service",
+    "homepage": "http://www.synnefo.org/",
+    "license": "GNU GPLv3"
+  },
+  "versions": [
+    {
+      "0.15": {
+        "sha256": "419a927e3e34c502cca2102bc589bac22ff8149bf2ec5becaee5c85785787eb7",
+        "url": "https://files.pythonhosted.org/packages/b1/ef/15b3c23c83a2a78c6439f9763deee5bc667cf170519fa9c8219bff0f8568/astakosclient-0.15.tar.gz"
+      },
+      "0.16": {
+        "sha256": "fa846fc8f0a111304dc161f01fc5cf312201bd476f2e72c016ce811c605f49af",
+        "url": "https://files.pythonhosted.org/packages/77/65/b3826810b22741db2b8326539796abf249b3cf4c7858fcf70731595dcda8/astakosclient-0.16.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "latest_version": [
+    "0.8.2"
+  ],
+  "meta": {
+    "description": "Optimizing compiler for evaluating mathematical expressions on CPUs and GPUs",
+    "homepage": "http://deeplearning.net/software/theano/",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.3.0": {
+        "sha256": "812ddd1a0e8bb0e081b434f2bc421bee9a2538fc772812975b8cda9bfdc047ab",
+        "url": "https://files.pythonhosted.org/packages/44/7b/9bb32cf116b9627aa0240f829aaba74ddd4ec2b31155f79f1e4e6a52f35f/Theano-0.3.0.tar.gz"
+      },
+      "0.3.0rc4": {
+        "sha256": "c55a628430fcbca59ee29a213c38c1244d1aa7be6f8fbdefa300f2dcdbf0c585",
+        "url": "https://files.pythonhosted.org/packages/8f/51/9bf31bbf2cd01d0994c5d9b30bfc9e107d6e2a859f69e9c9855b7b1d6d1c/Theano-0.3.0rc4.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "bd40fc4d2610a45ff24472a750d7bbecc0adab6908a585257862787d6940ad30",
+        "url": "https://files.pythonhosted.org/packages/f1/c9/eefbc5b39b34b7249a61ba3ba843e46d0698149c7f85860a4a5ac678efe2/Theano-0.3.1.tar.gz"
+      },
+      "0.3.1rc1": {
+        "sha256": "a5c34b3ffc8bf251e049b7496fc7679abf8bdce9298407fa6c2ce65110e47a5c",
+        "url": "https://files.pythonhosted.org/packages/c7/d5/f0b6a90093676e339ab64c77ddaa7da9cab76e186850c4ad455509c50bb0/Theano-0.3.1rc1.tar.gz"
+      },
+      "0.3.1rc2": {
+        "sha256": "8c4bfeaae01047c64260bfd1b0942af97a6ad036ca748d95c1dfe5862f8868c3",
+        "url": "https://files.pythonhosted.org/packages/dc/ca/564725d8480e930f3ae94f471109e9e2fc599749e8fb996c241bd33d6ebe/Theano-0.3.1rc2.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "9373a2036e0ed7012154895068026bde1af7e896bed856e37a82c524069a36af",
+        "url": "https://files.pythonhosted.org/packages/47/47/cc31fa0b19f706e5ce28b65ad9b36452231ea6cc14e5d35243f488190559/Theano-0.4.0.tar.gz"
+      },
+      "0.4.0rc1": {
+        "sha256": "e02edd116c7d091da5ba969508abf124147012f6f5da0cf4fd3b0906340cd89c",
+        "url": "https://files.pythonhosted.org/packages/1d/e9/11e8b140b90324042ce631ff6cfac5962663998069eea6ff0638d74e29be/Theano-0.4.0rc1.tar.gz"
+      },
+      "0.4.0rc2": {
+        "sha256": "c1d67866d96ca96f0dc515c91263a7a24674665c58a0e9f58e2049d6543fbb2d",
+        "url": "https://files.pythonhosted.org/packages/94/d1/38895a146ef06ecc132bda0ee5ef9666a4bc65881117bb4bc8a0f1b49b55/Theano-0.4.0rc2.tar.gz"
+      },
+      "0.4.0rc3": {
+        "sha256": "5f3f2a2fece2c1bfae57955e3a85b647242834669da4ef7493cdfddae6382ad9",
+        "url": "https://files.pythonhosted.org/packages/17/1f/50d05cbe4bbed220d8b9835a70d3e1996122345ae7ebb0fa7fbe36529f9a/Theano-0.4.0rc3.tar.gz"
+      },
+      "0.4.0rc4": {
+        "sha256": "0154a9bcd01006005db0470a755679616278759b982e5a2bcc504c2705d67730",
+        "url": "https://files.pythonhosted.org/packages/73/ec/d60f5c70905fec8fbda3fee76440a4595cba5abf4ed811cae4a665b63629/Theano-0.4.0rc4.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "1dac80269b3ded4282d9689ae201f8bd04adf6832d3d524cf955b575c38ebdb1",
+        "url": "https://files.pythonhosted.org/packages/1f/f9/79322ef24b8e89ed648e59bc6e1783a949d98a4d9784a9b574b91dcf369e/Theano-0.4.1.tar.gz"
+      },
+      "0.4.1rc1": {
+        "sha256": "b40329209d7f86da409f1c68a4ce35ff69d3e6ace58661f8212741019dac5722",
+        "url": "https://files.pythonhosted.org/packages/27/4c/ad42415e8f5304819dfe58e2a03d0ecdb5cf0be833e9cd781fcfd87a9886/Theano-0.4.1rc1.tar.gz"
+      },
+      "0.4.1rc2": {
+        "sha256": "1274bbf4a81fd5fae942479e430cc7b701929e20b0309bd551db7ed92cd9b0c8",
+        "url": "https://files.pythonhosted.org/packages/59/31/a534d0d1c34e39ee02fc1d7432d61e2ba394d0ed168f9b9df757e1206a08/Theano-0.4.1rc2.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "64a3a27c73778320a516cdee8f151371f8c2d5aede69b99f3b253b421aa58713",
+        "url": "https://files.pythonhosted.org/packages/c0/25/db82dbd0357345e321104e294e713a9c42e2738aa5e9a1cfa0811ca58854/Theano-0.5.0.tar.gz"
+      },
+      "0.5.0rc1": {
+        "sha256": "3580b30ee997b530c0c87258036d8dafb6c6b5fdf15ccfe11a306c4e77499b88",
+        "url": "https://files.pythonhosted.org/packages/42/ee/b28868babfe01822a755c9c98098766b06c03fc02783b16027ef1c03fcb7/Theano-0.5.0rc1.tar.gz"
+      },
+      "0.5.0rc2": {
+        "sha256": "b803d243485afb72b9bb3c8da39c3c5cd8e973e68618a27ac94a8791c5e8965d",
+        "url": "https://files.pythonhosted.org/packages/3d/1e/21fe111c10ed08ab0ad007359d7c8aa9e776b06291a2f01e802da6b3d861/Theano-0.5.0rc2.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "aaa75f9a9b7bf50f09ddcc01fb993cf47513179d0a7bee3d96bfeebd66e76083",
+        "url": "https://files.pythonhosted.org/packages/3f/5a/5314e9008d619628550de6e24dc9df57d8e04f1e4d32e3dc64995c3872f9/Theano-0.6.0.tar.gz"
+      },
+      "0.6.0rc1": {
+        "sha256": "9422b549dbc21f4df29fa8f1e01da8724803f0a3bd3ec86dd9430e0a1b40a0a6",
+        "url": "https://files.pythonhosted.org/packages/e9/86/29e07bc203fdeaedd7c34a8e0bbf0924279bf3e4ec74083b170ba03a7b47/Theano-0.6.0rc1.tar.gz"
+      },
+      "0.6.0rc2": {
+        "sha256": "0a9f406e7001a49abe60f3d4ae8499b77c3d3525fbaea4e295ff9fdba3724e11",
+        "url": "https://files.pythonhosted.org/packages/6f/fb/294254148d28f3f8abe15e68390bd6c2a715375247d705780a38354f0755/Theano-0.6.0rc2.tar.gz"
+      },
+      "0.6.0rc3": {
+        "sha256": "d103c900678fc952adafe41a33d826052294a7d437cf92493fed7e7f32ef2189",
+        "url": "https://files.pythonhosted.org/packages/8d/f5/50caeeec666509193668e89c4d39aad2e48130b23450b89b3e7cc9b7c1e2/Theano-0.6.0rc3.tar.gz"
+      },
+      "0.6.0rc5": {
+        "sha256": "013fada7cb95cc9ecdfa55cd65a9aa2cfa79308bae84316c2e48c7182cddb0d3",
+        "url": "https://files.pythonhosted.org/packages/5b/ea/9008488ec5d47c0f41c50aa14e122d398351c6927a791ea50db29c2e06e7/Theano-0.6.0rc5.tar.gz"
+      },
+      "0.7.0": {
+        "sha256": "05b0f6d2467735abea13bdc5c2c1ce3c53f1b89f9ebc5a43abdf71f88cf818b3",
+        "url": "https://files.pythonhosted.org/packages/88/72/b3fd8dd4e9c3a2a810a48d0868da2f7d54b0a622ceb51d3f9d6b07045f1f/Theano-0.7.0.tar.gz"
+      },
+      "0.7.0rc1": {
+        "sha256": "19d651c7b1138186794b2ecb6bb6d34050e480f2bcb65c1c7752635a69d19515",
+        "url": "https://files.pythonhosted.org/packages/90/d3/adc2d58ee610d8b4e8c7f16ab7ee9e2056cc5b0ffb0210f111ffd7b07eb3/Theano-0.7.0rc1.tar.gz"
+      },
+      "0.7.0rc2": {
+        "sha256": "20c52dc66fa63e96f04e11285b26641f2eb21155496a8d6d197b33d40aa0175c",
+        "url": "https://files.pythonhosted.org/packages/70/3b/dcf4670ecab5e23b14d9e9ebaa4e7214bd85540d12cd037fe75c8b4c5e57/Theano-0.7.0rc2.tar.gz"
+      },
+      "0.8.0": {
+        "sha256": "87f117277ebc3a3cd5394d2ae3e65a2aa3f8da3265a33e2a5c1ee63a9e6bceb5",
+        "url": "https://files.pythonhosted.org/packages/02/a9/b1afb2d80acee416c88b2e5785207a73e60310f8b63bff648120b7fdddb2/Theano-0.8.0.tar.gz"
+      },
+      "0.8.0rc1": {
+        "sha256": "823762fbf25a8a6ed59c60783878a848f8456f19e7bca496b012af8a266a8215",
+        "url": "https://files.pythonhosted.org/packages/22/75/a7bdd9fc0a135398197d8df9f426b255d8077e81bc4c9ab6bf1a431fa974/Theano-0.8.0rc1.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "2f1d9ad7ecf136e7978a6720fa9286f7b02221c5599b935e9f7fa14cd29cb19d",
+        "url": "https://files.pythonhosted.org/packages/d2/9a/0834f6ebf3002120f5b8038f79686624ab3dd9fcfa23c5549d7e2b18336d/Theano-0.8.1.tar.gz"
+      },
+      "0.8.2": {
+        "sha256": "7463c8f7ed1a787bf881f36d38a38607150186697e7ce7e78bfb94b7c6af8930",
+        "url": "https://files.pythonhosted.org/packages/30/3d/2354fac96ca9594b755ec22d91133522a7db0caa0877165a522337d0ed73/Theano-0.8.2.tar.gz"
+      }
+    }
+  ]
+}

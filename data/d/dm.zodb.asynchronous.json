@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Utilities to implement asynchronous operations accessing the ZODB",
+    "homepage": "http://pypi.python.org/pypi/dm.zodb.asynchronous",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "735b59bf28864fc3a02a3440afc2ad10ce04d7560f790df60e68a290576f1659",
+        "url": "https://files.pythonhosted.org/packages/b9/37/0e1a08da6c6746a51cbb1018c5c6ad3ed80d155405255551f97899ba5910/dm.zodb.asynchronous-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "7da92f4fd44bb1a965662a6e3f62db2324e09d44260eeed3c2d8e4a3b4703991",
+        "url": "https://files.pythonhosted.org/packages/01/8f/573e4c4ae2870cbb0a33994324494903add6448671f1b0daae4e11530ea0/dm.zodb.asynchronous-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "006e033d2b2e602b5a3ad9e89afe26997cd0ac5da7b417e60a373587c338b644",
+        "url": "https://files.pythonhosted.org/packages/46/dc/2f8c0563cd6d87ce5349374816340c8889d5d3d1e353a45ce0e1cd66aa42/dm.zodb.asynchronous-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

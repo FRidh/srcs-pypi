@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "A tool for applying iptables of linux safely, it rollbacks to  original iptables if you don't type yes in specific time period. This is useful  to void some situation which like blocked your self from accessing SSH remotely",
+    "homepage": "http://bitbucket.org/victorlin/apply_firewall/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "56f271594ad28689477f1bca101b89f74478f1e0b959ed3dc4149bd9a742f549",
+        "url": "https://files.pythonhosted.org/packages/d6/76/d239a82573d00c246438c17cd9e25e009cea8cb72c523b742180034f5b6c/apply_firewall-1.0.zip"
+      }
+    }
+  ]
+}

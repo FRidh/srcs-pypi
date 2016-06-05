@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "Adds an extension to python-slimta for delivery to external processes",
+    "homepage": "http://slimta.org/",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "5b3f390abcc4186eaa611bc0cba9aeaba63c0b4794138a675d3feb6e63827043",
+        "url": "https://files.pythonhosted.org/packages/76/51/619a49e4554305bf69b9f7ec742c02e22fa93f727f0b90f991266f85629f/python-slimta-piperelay-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "7e6a4e35688ab990533dc487a3a295020d06c12e01cdfc7aa313c35405c1fc5b",
+        "url": "https://files.pythonhosted.org/packages/ce/d4/4680215049506aa20a02d9183b1ed3c556b99d280a9137a5e1385426039c/python-slimta-piperelay-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "677dbb8ff815842d6461196c7f61d38a9d3f9739d068055b20310bc6e4eabdce",
+        "url": "https://files.pythonhosted.org/packages/ed/ef/123c6ac9f4f942dc8ee42501bd1d2f8ed50fe03ede52c4cadcae686b3ae7/python-slimta-piperelay-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "991d81012d3192d4c1941c95781a605c453476e8a4bbb8349a929dc94ed03f0f",
+        "url": "https://files.pythonhosted.org/packages/d9/95/c538de2e72e46dd0d0f24d8a7837d2902b40a9dcc75b6f9e2934c195b624/python-slimta-piperelay-0.2.2.tar.gz"
+      }
+    }
+  ]
+}

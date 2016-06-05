@@ -1,0 +1,18 @@
+{
+  "latest_version": [
+    "0.1"
+  ],
+  "meta": {
+    "description": "Since AMAZON RDS not allowed `SELECT INTO OUTFILE` this should do the trick",
+    "homepage": "https://github.com/Bennyelg/mysqldump2csv",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "034ebc608a1ea713f1e89116ec32f6adf78a3b184e3f8844b27858f9bf081085",
+        "url": "https://files.pythonhosted.org/packages/a5/de/d88d9ad22ff3b23ad145f3cac080770fc9fd12675d03be96c986d8f2909b/mysqldump2csv0_1.tar.gz"
+      }
+    }
+  ]
+}

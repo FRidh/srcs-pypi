@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "4.2.0"
+  ],
+  "meta": {
+    "description": "Converting Jupyter Notebooks",
+    "homepage": "http://jupyter.org",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "4.0.0": {
+        "sha256": "472ad15d1a71f1ef00c4094c11bb93638858fc89fb2c5838b3aa6b67d981b437",
+        "url": "https://files.pythonhosted.org/packages/99/c9/22b9392e5a1386971a645d3e12c675905b5b388488d6ff6ae6e376d8af88/nbconvert-4.0.0.tar.gz"
+      },
+      "4.1.0": {
+        "sha256": "e0296e45293dd127d028f678e3b6aba3f1db3283a134178bdb49eea402d4cf1c",
+        "url": "https://files.pythonhosted.org/packages/df/c1/6212cddf63471118c6d52bdd0e58259481bd31cdce6c3141f1de5b32919d/nbconvert-4.1.0.tar.gz"
+      },
+      "4.2.0": {
+        "sha256": "55946d7522741294fcdd50799bd1777d16673ce721fecca0610cdb86749863c6",
+        "url": "https://files.pythonhosted.org/packages/5b/a9/c4c7eac03b347e01b1591eaf1fbf0bb353eee3707180410d1fec1e782a2c/nbconvert-4.2.0.tar.gz"
+      }
+    }
+  ]
+}

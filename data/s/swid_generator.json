@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Application which generates SWID-Tags from Linux installed packages, using tools like DPGK or RPM",
+    "homepage": "https://github.com/strongswan/swidGenerator",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "38bb1051cffbd7b7a745dc62983d4d81ec5676648afbafe4d95eb35808514d64",
+        "url": "https://files.pythonhosted.org/packages/59/78/19354eeb5433cdb2146c585368e7a8aa8f9c044d6ad9b8c6978af45f8c1d/swid_generator-0.1.0.tar.gz"
+      },
+      "0.1.0b1": {
+        "sha256": "918f24c9f39ec8db442650380bc156284b2ab1a9a48d2ae1ede58fd509956059",
+        "url": "https://files.pythonhosted.org/packages/d8/fb/4efe5cb7d5149312f0ab2bca764e29a2c8a2528f06a6fa7d89a13f6122f7/swid_generator-0.1.0b1.tar.gz"
+      },
+      "0.1.0rc1": {
+        "sha256": "1ed230e74f4ce690f3e5099ee7d42bffbcabb9a1c755e0a03f99fa4af5084f32",
+        "url": "https://files.pythonhosted.org/packages/57/14/99a6041788a2df82b2e9653f1ba0664827894e873ee26e8e5d34d78aabb6/swid_generator-0.1.0rc1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "d7cfbae580d5e4b5bff9bd19efbe0d8a5b956b534125942b6badbb5b03fa6492",
+        "url": "https://files.pythonhosted.org/packages/bb/47/07f98bb3d75538dc28cc3a53e1b9ae71c148d0af6ce660540254c78fce15/swid_generator-0.1.1.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "550991b458601bdc9e9ddc197e0137941e5c5d25ab3941fbeca6c554cbadd7ab",
+        "url": "https://files.pythonhosted.org/packages/43/83/275af8030b7c39044eb9d74f8cd9df54fbec42f417311c39628b11869491/swid_generator-0.2.0.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "988234790ac850fc80033094ce707092fe6acbbc97e32a45b221fb09bea43fa1",
+        "url": "https://files.pythonhosted.org/packages/f6/48/3206fd299c6c26fa0c817d606cd7c23dea21c4a77a8861eba13e90446ddd/swid_generator-0.3.0.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "check whether a package name has been used on PyPI",
+    "homepage": "http://github.com/lord63/caniuse",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "a88bcfa0c13edcaa35b31b6ddb826b977a53b8717bc113a20063169a29b25eed",
+        "url": "https://files.pythonhosted.org/packages/2d/c5/139d30b271c65b2bebdbfe3645f21258c216cc6d7cacb8eee50e0c5e6762/caniuse-0.1.0.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "f210169a4ac8c03ea0214d6fe203f2431536e11bfab9b0635b8219fe9468ad9f",
+        "url": "https://files.pythonhosted.org/packages/47/c0/64de8b8da3c45963fbf69c7ce00dea1a3139bab4cefa4cdb83317207269d/caniuse-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "1d6e9df2cbbeef57bf223979591d3f150a2108dd36b4737bded1fe8930dc9797",
+        "url": "https://files.pythonhosted.org/packages/97/c4/289058d05c45032d9a363371f68ad33b3d30c3e667cbef8c965fd5f89553/caniuse-0.2.1.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "65ac683341c9adebb1c0753e5fdab48b8cf0933e97a0c2540f0cd38d04587638",
+        "url": "https://files.pythonhosted.org/packages/81/2d/6eb0d789dd6b04ed0098821a921187907a28fa233161346fd9303b39e4a1/caniuse-0.3.0.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "85fa82495f2d82879d0ac12bf80f181d1bad9241688194fbea94737a42174677",
+        "url": "https://files.pythonhosted.org/packages/0b/63/748f77ba9e6e99a519a68f330f2578804e35537ebba0fac46394d0ce0c11/caniuse-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

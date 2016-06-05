@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.7.2"
+  ],
+  "meta": {
+    "description": "Collective Faceted Navigation provides an user interface which lets an user browse items of a Plone site by selecting amongst pre-defined criteria",
+    "homepage": "http://plone.org/products/faceted-navigation",
+    "license": "GNU GPL"
+  },
+  "versions": [
+    {
+      "0.7.1": {
+        "sha256": "e1d5e8da0001e7d2ef7d09d195631dd4fef37a763cb0d048ed25822c0caf0925",
+        "url": "https://files.pythonhosted.org/packages/20/07/61d0a93b81838897a71c1a7211613c444c7b430a659637f36c6f03938e68/collective.facetednavigation-0.7.1.tar.gz"
+      },
+      "0.7.2": {
+        "sha256": "fff0bc670478569c73dd5b82ac930ad7fc74d34bbc037d625d23b260c731624c",
+        "url": "https://files.pythonhosted.org/packages/0a/65/57abafcb4c05fdc9c6eb8ff147cc1b7b625d5b972213c0012cee00b8baee/collective.facetednavigation-0.7.2.tar.gz"
+      }
+    }
+  ]
+}

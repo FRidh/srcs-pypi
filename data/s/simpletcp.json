@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Simple non-blocking TCP communcation",
+    "homepage": "http://gragas.github.io/simpletcp",
+    "license": "Apache Version 2.0"
+  },
+  "versions": [
+    {
+      "1.0.1": {
+        "sha256": "04a6eafd071da693812bbdbf15c89eb6c97513c39e322427821eb5585ccf4776",
+        "url": "https://files.pythonhosted.org/packages/24/84/d08dfe54111ae23827f5733d7e0f0fee7860844f2722bb46846db37911bd/simpletcp-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "fe2ac604c49295e80af1db143cacb35f7cc51babe20013a99dcba9d6b13a9b62",
+        "url": "https://files.pythonhosted.org/packages/76/67/40272a8ce2e1ae3c379596ede05864288140c2411eb812b2f1182aa87ec9/simpletcp-1.0.2.linux-x86_64.tar.gz"
+      }
+    }
+  ]
+}

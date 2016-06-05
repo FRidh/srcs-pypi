@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.13"
+  ],
+  "meta": {
+    "description": "Randomize the order of the tests within a unittest.TestCase class",
+    "homepage": "https://github.com/nloadholtes/nose-randomize",
+    "license": "GNU LGPL"
+  },
+  "versions": [
+    {
+      "0.10": {
+        "sha256": "f26f02fdaf59f9e72b66aaea80b40670aff364b540cad9487a4944cbf3be7717",
+        "url": "https://files.pythonhosted.org/packages/b9/9d/761e89c1a33f3b5e9598d391534742d17e5457c1671812bd01400a80c162/randomize-0.10.tar.gz"
+      },
+      "0.12": {
+        "sha256": "0912c139faf2053c4389441967a1549d6fd3e4d5326a0f5382410e4b81c1de0b",
+        "url": "https://files.pythonhosted.org/packages/8b/c9/15b8a32abb7495bd472ad83a0b61513e75f00b63e6bebcf8e3d2bbc409bf/randomize-0.12.tar.gz"
+      },
+      "0.13": {
+        "sha256": "eab24e678a0f8b7ca9b8e15e3f330c0a349ffb2631d912e8384bb65abb29095e",
+        "url": "https://files.pythonhosted.org/packages/21/2e/b466da5d4c19cb31eb89fed875f5b39f7910f07aeaa326ab1d798f2f9246/randomize-0.13.tar.gz"
+      },
+      "0.9": {
+        "sha256": "ccf5a3805c602165d534806b53e7d6b71209898b9febb09b25fb400fcda852a1",
+        "url": "https://files.pythonhosted.org/packages/6e/2b/191c6527ae3cd06db60011fbfa71825955dbc82a3e98259629e31fc25930/randomize-0.9.tar.gz"
+      }
+    }
+  ]
+}

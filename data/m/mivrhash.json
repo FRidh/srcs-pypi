@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "A hash table (Python dict compatible) that stores data in remote servers. Performance is optimized by using write-back cache",
+    "homepage": "http://pypi.python.org/pypi/mivrhash/"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "e534f402922287644d6de918f3fe7d43edbe355c0a97e383efc836d61811aefe",
+        "url": "https://files.pythonhosted.org/packages/3f/4d/039b88b28675ee31c9d6feabceac3ed3043ec0a9a4762650ba6c01313826/mivrhash-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "9c18f6a10978665254eedeeaef0e8bf180c3daab5953d23c0539696b9e907ebe",
+        "url": "https://files.pythonhosted.org/packages/f7/ee/05526a7c29c7159e020a080219185c1395f28c5e9cdee8fa5a6b6fcc46f5/mivrhash-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Mutual TLS authentication for Falcon",
+    "homepage": "",
+    "license": "Apache 2.0"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "3bc18d806a2a54e68def9781f87dd545ac3abca62ac3efe149c04f42f0f82293",
+        "url": "https://files.pythonhosted.org/packages/f4/46/0726f11a29a8046ef39a575ae3e5fbbb6c161939f58ab0c26a507160df39/falcon-mutualauth-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "dc9acfc93315a97c4bdf6f7adc4b74b4ee29af81000c1becd6659e6123f55771",
+        "url": "https://files.pythonhosted.org/packages/5e/d4/dbe2dab5d0722af821c58c3da54050ce86deb769336d4cfc8b8181a72e57/falcon-mutualauth-0.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.8"
+  ],
+  "meta": {
+    "description": "An emacs mode for using rope python refactoring library",
+    "homepage": "http://rope.sf.net/ropemacs.html",
+    "license": "GNU GPL"
+  },
+  "versions": [
+    {
+      "0.7": {
+        "sha256": "12d7dc9872f20de757610224999e866aac89ff04864d15a393e937965b70b8f4",
+        "url": "https://files.pythonhosted.org/packages/11/ca/9a6c1eb87754aa0e3cc02d5b6721493a5d7f4a513653840e4558eb9cc9e1/ropemacs-0.7.tar.gz"
+      },
+      "0.8": {
+        "sha256": "e1ae9691d402eaa525f56d37f5fefff8b8fe9892188e49600d01063a5acb535f",
+        "url": "https://files.pythonhosted.org/packages/f2/7f/a771ea2cb2a00e4f0dfa1b938b4880cac06ea4666613d919c5fb5c1a973e/ropemacs-0.8.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "MediaWiki-compatible parser for Python",
+    "homepage": "https://github.com/lambdafu/smc.mw",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "e0351615891b3c7958fe7c79eb062c142c6f9f66a6c41bc5eb7b86ea458b5734",
+        "url": "https://files.pythonhosted.org/packages/1c/d0/1486cbc495bddb5277a478d48f2c7e35fa4b97b348913d8e54ec94e10f14/smc.mw-0.1.zip"
+      },
+      "0.2": {
+        "sha256": "a1fed840515f803841e71f8f1a92416bc4bf19a69dfba5ff32d437c0da40354d",
+        "url": "https://files.pythonhosted.org/packages/59/94/0b1fd8fbb4dea3e304985d0910f6cf81e4527c74379dd4e4b3b3439f9c0e/smc.mw-0.2.zip"
+      },
+      "0.3": {
+        "sha256": "a09e1212b0f8c19339cc573d95b7354dbd9450f49e3a891b1c17834ac059ef2e",
+        "url": "https://files.pythonhosted.org/packages/3c/24/bf79e2983466cd642d47316dc193a756cdab20ae9101f66adc2c053fc6f2/smc.mw-0.3.zip"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "latest_version": [
+    "0.4.4"
+  ],
+  "meta": {
+    "description": "Cron job wrapper that ensures a script gets run from one node in the cluster",
+    "homepage": "https://github.com/maartenq/clustercron",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "cd31ef9757c24cf455a6fca9ca5720ff6c2ea54ca59936cb6d1b5a653c6e9c91",
+        "url": "https://files.pythonhosted.org/packages/4c/c0/72c3dba40aec1dd3cec0f30dec32030086ac24bdc47a938c73b107370ba1/clustercron-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "2026e4dd6869121f1bbf3fe40405bbf5a31a4d9c39e5980ebb4767b39413a039",
+        "url": "https://files.pythonhosted.org/packages/fe/c0/5552ef907798136c108bf82844f1031ad1b1e9430cfc163eca5b9d735c5b/clustercron-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "a6ba80662694a4cdd50ee7404840ba1d085580ef5cc79f935c8507fe938b2fc5",
+        "url": "https://files.pythonhosted.org/packages/ac/8c/c06886388c34d442996e7ba77a0c0d8889bbb1be4fcf853aa5f142dc1d38/clustercron-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "343ae0c6365bc069e946d478e3aa1161b2cd7e9f8cba479afb19abd1c1a90778",
+        "url": "https://files.pythonhosted.org/packages/fe/6e/777bc9aeabc828e96c09d3044b96d55224bf43bfbbe659836e03f2f69b11/clustercron-0.1.3.tar.gz"
+      },
+      "0.2.0.dev2": {
+        "sha256": "12f6aaff2d5fde4a3c84f68368478780f071f9c6c2a0dad2d41c4252a2b98999",
+        "url": "https://files.pythonhosted.org/packages/31/60/b096aa298a0bd159d678add0b5dddc1467ff8bc421055d02ee789f15084c/clustercron-0.2.0.dev2.tar.gz"
+      },
+      "0.3.0": {
+        "sha256": "55e5647ec004b0f08ee106ad164df3f035fb380b847d716414c08cee9ac99015",
+        "url": "https://files.pythonhosted.org/packages/45/f2/e02cae78e9e0a986f970ea1ddc22aa491f8b539fadd10b332b6be2a1c727/clustercron-0.3.0.tar.gz"
+      },
+      "0.3.0.dev1": {
+        "sha256": "2f77a745694ecbfb374326e73bd86891e1a827310c2bb853709400d769f9d3b8",
+        "url": "https://files.pythonhosted.org/packages/d0/14/52487cefc3639c0c3b51da94b81c4b5126bff8e629bf3975e6e61a87fa95/clustercron-0.3.0.dev1.tar.gz"
+      },
+      "0.3.0.dev2": {
+        "sha256": "908597942b617c021e62c0a35427e8fd4476cbdac22337d457516429c30842f0",
+        "url": "https://files.pythonhosted.org/packages/65/ee/6e864a206140a85181ddd0a5040b08113f8e74a8fff2b9cf86e9c431ed1b/clustercron-0.3.0.dev2.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "ca75355c7fbd44da486a4f18ceda9814575f10c62ae76a1c29d7fa283eea3272",
+        "url": "https://files.pythonhosted.org/packages/04/3a/2d1a786c4b338ac429ed359fdef34ca1c3d8b34cb76546fa9edd33b0b154/clustercron-0.3.1.tar.gz"
+      },
+      "0.3.2": {
+        "sha256": "fcf2a2eac944c50a58a253dcd707ae16f66a6fd8572c0e110dc779dc7c629f06",
+        "url": "https://files.pythonhosted.org/packages/b1/85/faf92ecb5ca014f7a5d3955789599e6d3d4aef3ac2ddd4dc042a06cc05b3/clustercron-0.3.2.tar.gz"
+      },
+      "0.3.3": {
+        "sha256": "696cf921591e774d33bed13473dedea0b03934256b1eb7d4bbdd1ecd9b118d09",
+        "url": "https://files.pythonhosted.org/packages/33/43/4226925863600e9cea23a949b7b3bec8240f5da0bed2cad989044624b1cd/clustercron-0.3.3.tar.gz"
+      },
+      "0.3.4": {
+        "sha256": "dc47afb766f1fbcee6c1e75e5489f16ca228d4861347a13d4e2969a298e8f2a7",
+        "url": "https://files.pythonhosted.org/packages/26/97/3372f62cb2808ba244f3f4e3bf14031b5efd9de70a5608a7d4d32ad10858/clustercron-0.3.4.tar.gz"
+      },
+      "0.3.5": {
+        "sha256": "fcf9c49ba9720adf4276cf9f09db611c025c81a720e27cef27327408896aa42d",
+        "url": "https://files.pythonhosted.org/packages/b1/79/ac5edfe7d0d10d35451743ff1772993abcadd89df491e7608e60f7334736/clustercron-0.3.5.tar.gz"
+      },
+      "0.3.5.dev1": {
+        "sha256": "d2a3b91be1886cc8e371c6235347042c4f3866ce71c6756be0d5726d84862835",
+        "url": "https://files.pythonhosted.org/packages/8d/04/e399169bf7678b436c3a1a2b5124f1ef118670c896a0384946d1cd90358a/clustercron-0.3.5.dev1.tar.gz"
+      },
+      "0.3.6": {
+        "sha256": "c7209a253ff1fbb4974947924d3453898cd0e5a591652c6ef4734e978ca91379",
+        "url": "https://files.pythonhosted.org/packages/13/db/9b7fe5e637320b8b20934409379d5e74be9a72d5143edb4e33da359cb7f8/clustercron-0.3.6.tar.gz"
+      },
+      "0.3.6.dev1": {
+        "sha256": "a14ea37492326a3985b558a47b6b8b6cc47ba96032b1a444e30791eebed78153",
+        "url": "https://files.pythonhosted.org/packages/0e/85/420cecc98d40ae6f3260650078c69421570e5d343c1ab4d12b9fe724feee/clustercron-0.3.6.dev1.tar.gz"
+      },
+      "0.3.6.dev2": {
+        "sha256": "456db1bb44093a21b69eb987d17536de1bd4c72b31fc72563004e85dad1ebca0",
+        "url": "https://files.pythonhosted.org/packages/6e/4e/7a2f90915a49bd9b187e79396ecec6ee56381a27b14fe898f294660eefaf/clustercron-0.3.6.dev2.tar.gz"
+      },
+      "0.3.7": {
+        "sha256": "56516e7d378f738c0fd1e3001459ad5bd66ec0c3652f832164d4d064818a44cb",
+        "url": "https://files.pythonhosted.org/packages/0e/7c/cb5dae90ecac8c000d6119c01512042cab302b4a4dd10c3bf7b7b00b37aa/clustercron-0.3.7.tar.gz"
+      },
+      "0.3.7.dev1": {
+        "sha256": "0b4f4c41edb82e5ebfc7da8518a8b06ff07153a467e342aab51312be2b2d9dbc",
+        "url": "https://files.pythonhosted.org/packages/a9/60/265f28847528d3695199cdf547c755083b604fc0e71363e83a82ce3aa187/clustercron-0.3.7.dev1.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "36738e64fc2f8a5089cea1f42e15a0294609d3d60e79a59981eeea0163e61284",
+        "url": "https://files.pythonhosted.org/packages/8c/50/1dd52f962141c0edea90f750f359a7b47152ca6ecd6a252c9e6ef67b7dc2/clustercron-0.4.0-py2.py3-none-any.whl"
+      },
+      "0.4.1": {
+        "sha256": "929f06d61fd01337acd6c9ba73887dd5a1085a7cb8c01589194208fd074eba5d",
+        "url": "https://files.pythonhosted.org/packages/50/a0/a4cc83bc651f4e4fac539b0567e20216cb86691e67623f110300fa049362/clustercron-0.4.1-py2.py3-none-any.whl"
+      },
+      "0.4.2": {
+        "sha256": "b612a5c1dbdc292ec8d545939b3ef59530b6ae59ed71f6f7f1647360d7acea16",
+        "url": "https://files.pythonhosted.org/packages/b3/bb/556086c3fc06ea5b7adb0cd1ae9bea4f9ec1f8d7916e0990ac64b5475629/clustercron-0.4.2-py2.py3-none-any.whl"
+      },
+      "0.4.3": {
+        "sha256": "4610f8f5d2b062876cccab6c411b65fe6bcd66095e9308c57e723e4f68d1f0b4",
+        "url": "https://files.pythonhosted.org/packages/95/89/a01f60f767670dd0d70f3836f5904d8d8fa2ae439324e69bf03d5d54b0b6/clustercron-0.4.3-py2.py3-none-any.whl"
+      },
+      "0.4.4": {
+        "sha256": "29099a2392e2753715ca203e6c74d94b3d57b0d71202b3475c8635b3f18690cd",
+        "url": "https://files.pythonhosted.org/packages/1b/7b/a1c3701b5ef2a2eec314af1aabc5eefd18e8b7f742428edb90be3cfd7ce0/clustercron-0.4.4.tar.gz"
+      }
+    }
+  ]
+}

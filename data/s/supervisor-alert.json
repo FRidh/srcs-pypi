@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Receive notifications for supervisor process events",
+    "homepage": "https://github.com/rahiel/supervisor-alert",
+    "license": "Apache-2.0"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "c1504929c1c8cb3142220538ada0a6d3ba5f0c1c7d036b693d3d58abe580f9d5",
+        "url": "https://files.pythonhosted.org/packages/16/80/5e8eb16f64d4b7ada2f96864fa3089a9c79785037e9b8163e26bb9374d44/supervisor-alert-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "ad74c05432017ab4ac7bf2872beb84076989643f5ca09c5eb532a1f46d9ef6e2",
+        "url": "https://files.pythonhosted.org/packages/37/5d/a19097dae9a80d8cce79ff45a5063f0967db3b62c48549bae3a646101d81/supervisor-alert-0.2.1.tar.gz"
+      },
+      "0.3": {
+        "sha256": "1e967543251923a27cdae020a6bc252cab69b232640191f5882fd573902fdfc6",
+        "url": "https://files.pythonhosted.org/packages/db/2a/f8b76e7329331f67d46d4620561a107fba9d3c9d16bb50649c8cdafba1d6/supervisor-alert-0.3.tar.gz"
+      }
+    }
+  ]
+}

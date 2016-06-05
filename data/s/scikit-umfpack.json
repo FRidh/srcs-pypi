@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Python interface to UMFPACK sparse direct solver",
+    "homepage": "https://scikit-umfpack.github.io/scikit-umfpack",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "798236307390c1ad860c2ea92a36a05c846b05b1657540879068dde5efe415b8",
+        "url": "https://files.pythonhosted.org/packages/1e/fa/2896dedc356d282e0b394dcae2ab7ce2e9eeccec002d2741318da521927e/scikit-umfpack-0.1.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "9ebfb4ac4cd1ec545a9211160c65129a77b6e2fab02d8cfa30b10278f5773fd1",
+        "url": "https://files.pythonhosted.org/packages/cb/5c/1da1181dfda148b8a7f79319a7bac24c71d972a48dd7f197ded7eb944eec/scikit-umfpack-0.2.1.tar.gz"
+      }
+    }
+  ]
+}

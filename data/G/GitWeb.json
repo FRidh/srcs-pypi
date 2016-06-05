@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "WSGI application to serve a git repository",
+    "homepage": "https://github.com/gawel/GitWeb",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "bd7cbc7bc1394140ad8d6238a252d06640ba2f1416bd91f83fb9dbd524459760",
+        "url": "https://files.pythonhosted.org/packages/8e/de/6bb6a5dc48fb96c56cffdc90b23508b066d41e11b6bfe4205e9cc6c2ac90/GitWeb-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "369d6a88a16e024c6ada318d7c73b1e612844347117524fbd7ce6672a977068b",
+        "url": "https://files.pythonhosted.org/packages/6e/7f/446e839ca339b3c3abb4ca26eb332193be2776795df6327e9edc0ae56a6a/GitWeb-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "50869b19e38f87bc253fd2f1b4ed20fc19e4c0ff6d266519ccaa8894e1de2e10",
+        "url": "https://files.pythonhosted.org/packages/3c/5e/8c2a4f9f4b3d13c93ac76c1d0a56fefba702f35fd3250fcb91644cd6accd/GitWeb-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "5b328421a7e169a9900e68a2c8c5b48695f17a4f5c5724286f87bc27f5e96945",
+        "url": "https://files.pythonhosted.org/packages/1f/d7/7d6140837efe561b0bfdd0ef19a42528edb7aa8563e4c72113f26bd4f6bf/GitWeb-0.4.tar.gz"
+      }
+    }
+  ]
+}

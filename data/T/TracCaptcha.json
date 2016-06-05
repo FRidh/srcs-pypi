@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "pluggable captcha infrastructure for Trac with reCAPTCHA included",
+    "homepage": "http://www.schwarz.eu/opensource/projects/trac_captcha",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "b0ae5751e1cfadc1df5421aaac19669e0dc970539c8b375cbcc9626084206eae",
+        "url": "https://files.pythonhosted.org/packages/3d/85/1cdc23c090663cc6fd16fd11c3ffe06a966c81dd01d56bd6f618628171a5/TracCaptcha-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "97cb0c88ca1c045a28a140c94793346e63d516a7b08c06235e3e2f70c61393ec",
+        "url": "https://files.pythonhosted.org/packages/ec/58/adc995c95835480f621bdcbd9d8f8c4d2b9b70f78dd649df00743fb2dbdd/TracCaptcha-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "71ffbc613fe34eeff1a0237a26888d8ea2af03c7619ebb21a2ea9ac45efe2a76",
+        "url": "https://files.pythonhosted.org/packages/f1/ac/ff1db0f49bddbe6836a593c1c5f3109f26cc28d25f8d7ca6cea96df856cd/TracCaptcha-0.2.1.tar.gz"
+      },
+      "0.2.2": {
+        "sha256": "dc962a15aef48ccb86488bb2ff7d457a16ae7cacd0d12bcdcde37c55f2a97964",
+        "url": "https://files.pythonhosted.org/packages/aa/98/1a50ab57a1be0e39dd4bbdffcf6058b739f088e978ffda07b4f045be9235/TracCaptcha-0.2.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "db163b4d05f34611a1e3dfc15398cbe9705670c29163079efab7171dcdd17b57",
+        "url": "https://files.pythonhosted.org/packages/79/64/88ffe474f3634e78bb6340e646f7d97219a687d48e3355b2f899ebb2a078/TracCaptcha-0.3.tar.gz"
+      },
+      "0.3.1": {
+        "sha256": "2368d3893d2808115a7980889006bd0b04fa1f936e1bd1c8d7c581abc0ca1a52",
+        "url": "https://files.pythonhosted.org/packages/47/d9/71df9ef998f56cfb2f85366443c871aa355a9417c13095e11084f0f1af96/TracCaptcha-0.3.1.tar.gz"
+      }
+    }
+  ]
+}

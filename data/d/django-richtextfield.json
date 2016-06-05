@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "A Django model field and widget that renders a customizable WYSIWYG/rich text editor",
+    "homepage": "https://github.com/jaap3/django-richtextfield",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "6d7314d56a7a4db7d70fb457aff888b5e0a7262e01b4a6d2857be37ba7f8a344",
+        "url": "https://files.pythonhosted.org/packages/61/ad/b3d1dca54bf6f0273b0e3f7ff1705ae211ddd82ccab50b0b3b44abb760ed/django-richtextfield-1.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "aea6bdaa928e5fcfaf79c6206d6b266d177fbc29aae788a07e6923d70ea14953",
+        "url": "https://files.pythonhosted.org/packages/7d/4d/da522265e3018880bbe67c7871834ba41ed52e9aa0fa3793beace51b03e1/django-richtextfield-1.0.1.tar.gz"
+      },
+      "1.1": {
+        "sha256": "75edc5de43ea315e54039c96a8c63892167c1c500f20274985007eb3493cecb6",
+        "url": "https://files.pythonhosted.org/packages/ca/f4/f0c67108731bee8aed66051355a8113a93561fca4a15024efa1cad893ff3/django-richtextfield-1.1.tar.gz"
+      }
+    }
+  ]
+}

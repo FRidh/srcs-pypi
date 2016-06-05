@@ -1,0 +1,606 @@
+{
+  "latest_version": [
+    "1.9.0b23"
+  ],
+  "meta": {
+    "description": "Loja Integrada's models for Django ORM",
+    "homepage": "https://github.com/lojaintegrada/LI-Repo",
+    "license": "LIEULA"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "99a8a86acf4f30dbef75d62af9fb3a64b9dd7fcc64cde6f7e9b7dec9fb09a4ae",
+        "url": "https://files.pythonhosted.org/packages/7e/83/490961d235912660bbe7bd938fa2cd94209373f241fb66dcfb31cff57770/li-repo-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "5de79feb2c089a02ecfc47d63ba7b6e0cb393c4b0fe32ff9bca16ce3c82ab92e",
+        "url": "https://files.pythonhosted.org/packages/b4/c8/82dc4abbd5b8962fd780b43cf8a6eb860d824bdce522f08b3ae54e88f14c/li-repo-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "bcf816234073680812ab90823b198661cc5830f1a585046a04aab89ef052ce41",
+        "url": "https://files.pythonhosted.org/packages/ba/fe/973269ccf5b2c1674257375f5d16d09c2cb8420d450d9702ae813163c643/li-repo-1.0.2.tar.gz"
+      },
+      "1.0.3": {
+        "sha256": "61fe9e89e52c96c4734873ed2e0dae7b215d0472a24456906878adf476b37f03",
+        "url": "https://files.pythonhosted.org/packages/f0/04/bb08f5d40d831a4b1e764e223f8f33ed2050941ed1e7f390a1e84b27e221/li-repo-1.0.3.tar.gz"
+      },
+      "1.0.3.1": {
+        "sha256": "0f7e97b471dcd7c5f56506bf135f288ac38ddaa70df7f26193e03e78c97b57d2",
+        "url": "https://files.pythonhosted.org/packages/40/79/e7d07d7e35e7ae18686606f79aaaaa9c586d6c4d312d52b0842e1611012f/li-repo-1.0.3.1.tar.gz"
+      },
+      "1.0.4": {
+        "sha256": "3c77dc5335e2578aa8a8252793baedf028a028f37eec31010eae135727db61ae",
+        "url": "https://files.pythonhosted.org/packages/3e/db/b5dcd677ea5932ccefd0b36c68abd72d860da2cf9fe9b1507b1c2486fc25/li-repo-1.0.4.tar.gz"
+      },
+      "1.0.5": {
+        "sha256": "90cc48d5199e77a1bd11eb8466a36bb7cf8eb57d558e48e0fc59ed47144ea450",
+        "url": "https://files.pythonhosted.org/packages/e7/85/366cf124d19e4d9af0cf44c9988574e20d79c2841e69f95483641f450e69/li-repo-1.0.5.tar.gz"
+      },
+      "1.0.6": {
+        "sha256": "9bbae20dcab4c90eb2237f3aacceb4648abf4ae8faf8ff25467b5ea8c6083bc7",
+        "url": "https://files.pythonhosted.org/packages/10/6f/ab013f1f3ad4e6321401dec0c7970c8075659de5f6b7011310a656b05b91/li-repo-1.0.6.tar.gz"
+      },
+      "1.0.7": {
+        "sha256": "e092bc57c06b225acfbaff0552444307ed02d4f20f72de15e1dbbded378cae4a",
+        "url": "https://files.pythonhosted.org/packages/a2/ad/119217715b31ca22990bd67182367cfbbf0a6607162ad261626c6766a128/li-repo-1.0.7.tar.gz"
+      },
+      "1.0.8": {
+        "sha256": "acf913ce9afdcac7e5a2df22e3c149cd103471993cb9699ccbcf2b1e19f1e5dd",
+        "url": "https://files.pythonhosted.org/packages/8f/b2/44591458906fe13d24b444429b33ed4d298c7f9fdcd01b2b778c4ed40d05/li-repo-1.0.8.tar.gz"
+      },
+      "1.1.-1": {
+        "sha256": "12a53a2551d30cc307e48acdb470770eaefd5db98658c7769e33fc13f5b0f447",
+        "url": "https://files.pythonhosted.org/packages/62/bc/2a6fd14f09938cd15d568e74b1346358495e014d6ab50bfc93a2991f1a67/li-repo-1.1.-1.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "6da8b5a43443f2265a5989a23e0ea8fbf271c1285e8f576af8e1e032077cf521",
+        "url": "https://files.pythonhosted.org/packages/df/bb/45ec150bdcece6afe1babb148b4a9c7a852b74d71291a2f91b2fdda5de69/li-repo-1.1.0.tar.gz"
+      },
+      "1.1.10": {
+        "sha256": "6ca8f26f8bbec3e7fda25983e1f4dcd7f6e59e571f2a071e941ee38bc2494c4e",
+        "url": "https://files.pythonhosted.org/packages/92/a9/a0611c8b9ee2a16b0a30d61aa95052953d23ccdab3835d8d8eb2bc598ecb/li-repo-1.1.10.tar.gz"
+      },
+      "1.1.11": {
+        "sha256": "68d692006f61be99d76c4fb8347143b5a621aaf5f6dddc48cc1debfa1f8b9e4e",
+        "url": "https://files.pythonhosted.org/packages/72/f0/e44df29568b7f4984ff03883cabb407f20e0ac5d60af1a290d58cfe0f8e1/li-repo-1.1.11.tar.gz"
+      },
+      "1.1.12": {
+        "sha256": "5b7ffb5d6b6684ecee03e06f4add3602ae7441bd8020824e3f1edd2210bd2ede",
+        "url": "https://files.pythonhosted.org/packages/ec/1e/def5b8bbec852b97bb7bf8d88a412dcb961d2c70e668a6335fe8bff881e5/li-repo-1.1.12.tar.gz"
+      },
+      "1.1.13": {
+        "sha256": "92fbb78f12ce84388888e12c3f7b9424e1f61b67706f82d8d4cd87c05dc52e6d",
+        "url": "https://files.pythonhosted.org/packages/83/d6/333a392a9d0784dc97246e39eb5cebb54b7695503adb8af3c397717de51f/li-repo-1.1.13.tar.gz"
+      },
+      "1.1.14": {
+        "sha256": "8e5c3b36633e2ee5a5c7bfbf0350dd4ea475aaf459d2370a42c6329469990f59",
+        "url": "https://files.pythonhosted.org/packages/56/2f/bc3ead81cda7da37921ad39def69b17ac75b29c8c94a424fd51cb5b27f0e/li-repo-1.1.14.tar.gz"
+      },
+      "1.1.15": {
+        "sha256": "0f773771b6f9bf2880c2b7cdf4fd97e6559eb9a0b88f1d439b7630f7a7832202",
+        "url": "https://files.pythonhosted.org/packages/cb/06/2b281f3a1dbb3a606de551ed6655a14a79f914690503f83bab3c88a2a23e/li-repo-1.1.15.tar.gz"
+      },
+      "1.1.16": {
+        "sha256": "4fc93e50b1f1f1d4521f1599d42c513093ee97cc43e2ed183e2fb1b07ff16635",
+        "url": "https://files.pythonhosted.org/packages/33/e0/246ef2316ce54ed829248051cae9cd098dcd0920ece96c04f9d56e101503/li-repo-1.1.16.tar.gz"
+      },
+      "1.1.17": {
+        "sha256": "cf6952b2666fa53149b24bed05dd1269360d4011ac3b7116db025dda34397f59",
+        "url": "https://files.pythonhosted.org/packages/56/dd/706e67402fcf2004a32b9cd41ed797545ef7aff8fc46b2ae7f98f7f07f4c/li-repo-1.1.17.tar.gz"
+      },
+      "1.1.18": {
+        "sha256": "7c53beb49db60dba8ba2254aa664f34b7b5db2578720fd0e5089f2bc1dd8f426",
+        "url": "https://files.pythonhosted.org/packages/5e/86/1e192870c0e3d4efbb681aea86d702e4797392ffd637cfb0a7ce71d2d195/li-repo-1.1.18.tar.gz"
+      },
+      "1.1.19": {
+        "sha256": "d6001129dd14351caf06e3c74e9fd3749907d28bf870fa67d98631455278f12e",
+        "url": "https://files.pythonhosted.org/packages/69/80/5f125ce7ad0c33811dc3068df00317d1ff607b6e1bcc0c2e2ec29af81995/li-repo-1.1.19.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "f1b89c0c77b034c408f844b1900cacfdf64ffb6bbe22da2591f5818efdaddec6",
+        "url": "https://files.pythonhosted.org/packages/a2/d5/1890af05bb9178339307741f574179cf20ccc40087c7650bfe8b03f61886/li-repo-1.1.2.tar.gz"
+      },
+      "1.1.20": {
+        "sha256": "475abdeb39a044634094422ad8f0414b57aeaa29f2a80869d66e47556658ad9b",
+        "url": "https://files.pythonhosted.org/packages/a3/8c/fff58af94735c28f105eaca8135b36ff8f19306e68c18fdd8bad11df733c/li-repo-1.1.20.tar.gz"
+      },
+      "1.1.21": {
+        "sha256": "2b5ff8b1be954befa293de8229226dd12497e3060ffe051a74af9f3dddb450a2",
+        "url": "https://files.pythonhosted.org/packages/92/0b/ff37a8dbf06d767e148f92ede4312ff45af265f71594b46c242d87f51604/li-repo-1.1.21.tar.gz"
+      },
+      "1.1.22": {
+        "sha256": "a5a83c0ca14dd1063235e3b52a1c12869cdd98e6ceeab2777682f145f9e1c5ab",
+        "url": "https://files.pythonhosted.org/packages/52/5b/d7c493304089e2597ad7488072e5474bf8ccfae9592359dfe34ba3440088/li-repo-1.1.22.tar.gz"
+      },
+      "1.1.24": {
+        "sha256": "7eb3c434f133e5919e7bfd72f6cc4a7dc5b489edf511a36b1f90a6eb0a6da7b9",
+        "url": "https://files.pythonhosted.org/packages/09/7c/77f2cd3c215f4613ad6939799e4f2edc894e73ac00060f989437e6e62c56/li-repo-1.1.24.tar.gz"
+      },
+      "1.1.25": {
+        "sha256": "75226f2ebd4ee448862bf647e30943e527f1120499d8bc5aa881bffa6dc8cfc6",
+        "url": "https://files.pythonhosted.org/packages/0f/87/9f9759180c749748a1f1beb625a6100e640e6c0757e528a6a4ea5afb7b71/li-repo-1.1.25.tar.gz"
+      },
+      "1.1.26": {
+        "sha256": "829dd6f98c521a9b86b4cb7c4825c1fa4a807d7363732ea84f49c8bc5cb1a2d1",
+        "url": "https://files.pythonhosted.org/packages/b4/d6/660c63e10ba443e51aa21cae33c7f7bff3e653ad5c274f0dc3daa83704a8/li-repo-1.1.26.tar.gz"
+      },
+      "1.1.27": {
+        "sha256": "8302c29ed19d1464bb497e399a775110d267cda92e5e74461ed4531034bf85e2",
+        "url": "https://files.pythonhosted.org/packages/ff/b5/276bf67d765f3a94cc0155f83dc1890d29c3ca760f501eaf0930d2a201cc/li-repo-1.1.27.tar.gz"
+      },
+      "1.1.28": {
+        "sha256": "449257c0bb65fd947334421a4ebb326c4e5763655ab8b3b01db45f9bb8956a02",
+        "url": "https://files.pythonhosted.org/packages/e5/51/10ef07e1c65a263dc9df3c3e24df4deea6cfbf22a3a11c36794f7540f951/li-repo-1.1.28.tar.gz"
+      },
+      "1.1.29": {
+        "sha256": "9086b4cf6d008c4f11475c9da0a2ea5895f24fa44c9c50bc87e07db90f96109e",
+        "url": "https://files.pythonhosted.org/packages/2d/d2/24debdca978eb60a17fba9996234fd6a3c893726133878c8107f67bfdc9a/li-repo-1.1.29.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "343caf60b05d93659c19b124feb654085efeeadca35a711d7bf81a4e63b578f9",
+        "url": "https://files.pythonhosted.org/packages/fa/7c/82b5b860c7e69eb977688cf728cc0e276f41da6a0583aa350a9010318712/li-repo-1.1.3.tar.gz"
+      },
+      "1.1.30": {
+        "sha256": "804b47731a4ac64d41f5e058672e83bf2f1ec495379070417312c12bd3871000",
+        "url": "https://files.pythonhosted.org/packages/ee/5a/a23ac238103c506920d05311f4ba23199853982f1f596fcec6452f659247/li-repo-1.1.30.tar.gz"
+      },
+      "1.1.31": {
+        "sha256": "be270a75a492e8e8d28d059599071cef57432418d8034abe02fbe2435c24e5fa",
+        "url": "https://files.pythonhosted.org/packages/14/4f/0007d905b6a362a4f2d14855bce31c37578fc61278f67954718f480400af/li-repo-1.1.31.tar.gz"
+      },
+      "1.1.32": {
+        "sha256": "69922a0c7f7da5ef94ad3d349cc210e37ee04b953b5a3989cf3269226502eb13",
+        "url": "https://files.pythonhosted.org/packages/38/c1/6bfd3ada4a516bc51cd5f4bbee9d04573ce20a76dfcc6dae4ae1bb1d3208/li-repo-1.1.32.tar.gz"
+      },
+      "1.1.33": {
+        "sha256": "04a8f92c7bc2eee8294753742ccbdc17f8fb14ae1cf873797f75692ae85e7fab",
+        "url": "https://files.pythonhosted.org/packages/7c/de/01ac403a3dc01610fc19ff5bcad15c27b146bc9a1c8a2945de5b2a8d61da/li-repo-1.1.33.tar.gz"
+      },
+      "1.1.34": {
+        "sha256": "b7e5db76b853ac977fc888d6e8cf731161c50e77bcb1a33e2e45b837cb79b395",
+        "url": "https://files.pythonhosted.org/packages/30/70/33e3597e6a29143daf573ca53df58208094ed547feb45f7b980dbdca1172/li-repo-1.1.34.tar.gz"
+      },
+      "1.1.35": {
+        "sha256": "59d53db28ffca7068386765c6ad41a212846b5b4554b96873ea056786a6d6e2c",
+        "url": "https://files.pythonhosted.org/packages/cc/a8/e1520b3a1274fbb6d2516a9fe139976df65ae972aae9763dc903902bf803/li-repo-1.1.35.tar.gz"
+      },
+      "1.1.36": {
+        "sha256": "d45e269495f4e96dd3522915cc2f10c8f30d0653b6dff00b331ab1a2be150e70",
+        "url": "https://files.pythonhosted.org/packages/1e/d8/8c38add6aeb4f49a3141c15f749de48401620d28de04c007f4b7a14edb3f/li-repo-1.1.36.tar.gz"
+      },
+      "1.1.37": {
+        "sha256": "abfbdf2b23c2eb50d2390db5af999ea30a7da2aa6b02c03fb49a58d2bd948839",
+        "url": "https://files.pythonhosted.org/packages/d6/b0/e694c08380ee3374c1a3c3060a30aface1c2ea9cc91993ae7fc88a3f2e6d/li-repo-1.1.37.tar.gz"
+      },
+      "1.1.38": {
+        "sha256": "0a287464f054847545b61a5854d9b43005242e6bd7f4f15c4f8a4c98e9aef8f1",
+        "url": "https://files.pythonhosted.org/packages/e5/2c/1a303a336b7d7279d6fff6bf531e47c372c2f283981efeb4b95c16e55ce5/li-repo-1.1.38.tar.gz"
+      },
+      "1.1.39": {
+        "sha256": "56e9846cfc1465024ef19a68ccf10fbe96c0e039b87da7706fec520a19419dc2",
+        "url": "https://files.pythonhosted.org/packages/3e/59/789e7426c29f1c58b14a8579b20531a453628bb1a5df707f387f8c515ecd/li-repo-1.1.39.tar.gz"
+      },
+      "1.1.40": {
+        "sha256": "8df7df7efbaad38fbdaec3356ed20d18c389f7fa94abe533751f7b898ea43354",
+        "url": "https://files.pythonhosted.org/packages/41/14/ced0072618b7e8ca57d8a7bead720d58352e504765c33e74d92083aae2d0/li-repo-1.1.40.tar.gz"
+      },
+      "1.1.41": {
+        "sha256": "27b404e51d954b0bddd370e497adcd92177c827bbfe71856a52c8d06e6974cda",
+        "url": "https://files.pythonhosted.org/packages/90/66/53d85bb27a5da4dc6da83e37f81c8971b8b206ec91f285e32279b694d2eb/li-repo-1.1.41.tar.gz"
+      },
+      "1.1.42": {
+        "sha256": "76ed3a4c35a1b4e3033a4f4c4e1f23a88c5f78df71b541cf41b45d680c5bf9e9",
+        "url": "https://files.pythonhosted.org/packages/b9/61/e2848d4b082d293ff36eb099a87b9598f1431eb615134665149e86a186ca/li-repo-1.1.42.tar.gz"
+      },
+      "1.1.43": {
+        "sha256": "62330d55963d3de14b7ca5b2ae7651e3001f4d56d73148100e6a01006e7d2183",
+        "url": "https://files.pythonhosted.org/packages/89/dd/94482ec481e6b6240164986418e3687a74fab1b8b328f1338ed0dd35dc2f/li-repo-1.1.43.tar.gz"
+      },
+      "1.1.44": {
+        "sha256": "f639f1c767a60c6960c500c8b787e791d33f66ddaf6780bb63a9698aa43ad5c2",
+        "url": "https://files.pythonhosted.org/packages/44/19/d15409ef971bfb738c39067dbd5c618ad0a82e87ebceeaf43f296d6caee6/li-repo-1.1.44.tar.gz"
+      },
+      "1.1.6": {
+        "sha256": "6b9c10150cd3f196627c701e826aca85472ed7d6ae6050eb775e2772e298828a",
+        "url": "https://files.pythonhosted.org/packages/31/d8/ab405cd3adee560f8a7514963a64b4006db0f3bb8d3c4a1f0273b9e1b70b/li-repo-1.1.6.tar.gz"
+      },
+      "1.1.7": {
+        "sha256": "8ef0e9e2949ba0fbd3bf51fc324ab2a78405aad0835e18848809bd0d8f69dbee",
+        "url": "https://files.pythonhosted.org/packages/bc/d5/e461d9ea13a656c5a7481b719434c3f9f2e3afa127c3333abac112c5747c/li-repo-1.1.7.tar.gz"
+      },
+      "1.1.8": {
+        "sha256": "281245d4f01e716e552be70d9d408774833f631d2f9e35a9d524b58ee5606819",
+        "url": "https://files.pythonhosted.org/packages/97/44/2887eadaa06ba6624ee569a90720f592aad7ec3ae9588e0085d15a764a8c/li-repo-1.1.8.tar.gz"
+      },
+      "1.1.9": {
+        "sha256": "d2ad49dfb6a5012522ba289acedb0e7d52589f97cccc1ecdcfec38aa42f3727c",
+        "url": "https://files.pythonhosted.org/packages/71/e9/19c638b28292bd9610f592585268e37ad27c9fcc25b051d15fbaf20464ab/li-repo-1.1.9.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "3aa5812bdc79708c1c1f7b4749bcfe1e52e7997f6c64040800200feae10cbddd",
+        "url": "https://files.pythonhosted.org/packages/e7/1d/4d7c2fd72f30cbf49b2a4ea9aff52e217234dc11af1652541a59a6bbbba6/li-repo-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "81da4cfbfcf47631496b14bb38596755bd4a329507b4ad20181037e4865d7328",
+        "url": "https://files.pythonhosted.org/packages/a6/20/dbfece0201019fbee600a938917ae1e94fc277fcd6a624cdf7c5e8badc53/li-repo-1.2.2.tar.gz"
+      },
+      "1.2.3": {
+        "sha256": "bd5abb7e506d83179b3d87a1d04997b2a1c2d6333aee716b497e356fc98584e0",
+        "url": "https://files.pythonhosted.org/packages/49/b5/2a21d41cdc7a20a4391c1fb7255269ff31145ace2c1c4164569cbdc82b31/li-repo-1.2.3.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "e42bbde41faf536283c6911f761a14fcde0540b0dcd83f3a3f9f050aa376194a",
+        "url": "https://files.pythonhosted.org/packages/45/7c/c449081f263a6579d59dbf774b9b3a4ba1a3adc8ad4cd33c84f14f04c6e8/li-repo-1.3.0.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "1ad23abc51bc4bf519d56476713a03697efc891f78284a1aecc156ab4147c426",
+        "url": "https://files.pythonhosted.org/packages/92/67/01c1b65e85f153c09342a88e25d00e5aafc3af9bbf4a8579e05fb308884c/li-repo-1.3.1.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "5105d9829aee1cf703034472379d039e06b81fc54169f6ffe90475f837cd1a5d",
+        "url": "https://files.pythonhosted.org/packages/11/22/d4b2179020574fa5fdefaaa02b20260d09cff80fdca299a42c010451003b/li-repo-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "36e9f9ff59137e271ffb9669deacc3296d975dc0fcebacca19f927f0edbc2212",
+        "url": "https://files.pythonhosted.org/packages/e1/20/5b9ae9f4969a564fb287e43fa346f3dbb70dfc20f6acbc406e013b7dd949/li-repo-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "998fe550aebce34a45543bb6b5ad36e073a89817539030a329e491c24b147009",
+        "url": "https://files.pythonhosted.org/packages/fc/3a/08eb964958aba0dda066b17a0a5ee3d9f54bfd4d45bc5a4910cb58f83d2b/li-repo-1.4.2.tar.gz"
+      },
+      "1.4.3": {
+        "sha256": "9a6292fba3f84f448493e9e5bc0b7059c94ba55e0a49c2c750ca68118785c22c",
+        "url": "https://files.pythonhosted.org/packages/23/8f/ee87635b22cdcd18785a85261480b913f4bda74f25d270f5623585027113/li-repo-1.4.3.tar.gz"
+      },
+      "1.4.4": {
+        "sha256": "6f2227649a9a5a8a6a70a17a82d1fa43cfa1a01bc01c9e0781f3f40aa1465b83",
+        "url": "https://files.pythonhosted.org/packages/81/bf/2213b9f2aa1fce8a614b9874fb7db8fa8f5dd47e5c050c39bfb22883c3fc/li-repo-1.4.4.tar.gz"
+      },
+      "1.4.5": {
+        "sha256": "507ba1cad1bfcd0469349de06b0d1a835b6adce378dc0ce93fae645a2c9d6e61",
+        "url": "https://files.pythonhosted.org/packages/16/7d/c83265245e800a716c800de0ace9fbf2ad74692d9025473efd11f2357ef5/li-repo-1.4.5.tar.gz"
+      },
+      "1.4.6": {
+        "sha256": "c2ff9be9a09f30e34c22e3277c02a0bc357285a54216a598abe621059a40f9c9",
+        "url": "https://files.pythonhosted.org/packages/80/72/57f3cbfce089d5f296f17f5f2f55f765fe9142b7c240f23e863a830e85df/li-repo-1.4.6.tar.gz"
+      },
+      "1.4.7": {
+        "sha256": "c7bb891ef2588d5d17ba9c3eaa6021b4f381c1bdc928158b2bcff01dc915aa52",
+        "url": "https://files.pythonhosted.org/packages/46/8e/6651bdec347305b511bbe3ef47e2f5566068e6a3fbb47bb7a055e4b8c813/li-repo-1.4.7.tar.gz"
+      },
+      "1.4.8": {
+        "sha256": "5f6de3459caa971ee57c75d3a7320c9986020f99282a02f0f7daeab0939dcda3",
+        "url": "https://files.pythonhosted.org/packages/91/0a/901e5b49fb2a9ebfb3b99a508f2325135be85e0c2c4ca0b439af9ececf6d/li-repo-1.4.8.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "348f4dfd981566c617056fbdd2c45fa5558048917c836244d6d0dc2497889f7c",
+        "url": "https://files.pythonhosted.org/packages/a2/64/20758fae30041b7dbd5ac794574bdc39b6f9d65ebe2681037f416605bcce/li-repo-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "ea6ea0b332d16c4f019cacb645cb58e712e0aeeb879d9b263e4aabd78d35cb4a",
+        "url": "https://files.pythonhosted.org/packages/52/04/78a3e7b933ad0fd2442794a3b72c882e76678e5a81b49ee6a8ea8b752908/li-repo-1.5.1.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "492c1eec019944073db1becbfcc265bbb2436a2378e2b12073952fc2b9adacc2",
+        "url": "https://files.pythonhosted.org/packages/89/a6/3d37c13a04464336f53b96fa0efaf848e896e762ed1b36ea6b8d8ab16f6b/li-repo-1.6.0.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "d4610ae4aa1566229d2888edb8ef345be56463b5223e6a69d8e19f0707d8bb03",
+        "url": "https://files.pythonhosted.org/packages/73/f0/e6a87cb96a4ce283538f318a4965e6d352eb5d56da53963bd084d3676550/li-repo-1.6.1.tar.gz"
+      },
+      "1.6.10": {
+        "sha256": "f528eac540040afd8d2a18fbab97e7a91bc7bb79a604395c3d6a7bd677e5b483",
+        "url": "https://files.pythonhosted.org/packages/58/98/25b4836034d8fafa8927ff169d25088ad8c0dd65b12b9d2d257979e75f94/li-repo-1.6.10.tar.gz"
+      },
+      "1.6.11": {
+        "sha256": "eff9b95ffbf8485ba167f352b098e7ef2668087e5491da3e2bd9506d788e046d",
+        "url": "https://files.pythonhosted.org/packages/8f/bd/1783518762f6808af163b7fc69376e626495cffc08c839ee4afca34680ff/li-repo-1.6.11.tar.gz"
+      },
+      "1.6.12": {
+        "sha256": "0bdf8a9741f1bfee8926a69f307be88b669d3ee2fafabc437245ca57c28fdd94",
+        "url": "https://files.pythonhosted.org/packages/f5/42/5d98648c5824e17eeef5c28184d0dd9b5eba86b446f2e6ad5b15354139aa/li-repo-1.6.12.tar.gz"
+      },
+      "1.6.13": {
+        "sha256": "2d42b431ccfe6eff1037888ac84e5f0b00a4312ff7247f24755bdefe9513d636",
+        "url": "https://files.pythonhosted.org/packages/1a/0e/63a3c51cb5c717a62238cc9d8dfffba8853d7d08039fb46fed725b4bbc1d/li-repo-1.6.13.tar.gz"
+      },
+      "1.6.14": {
+        "sha256": "1c2672d65bd07d9b5d92c6d34a7782dcab87eb1c3be6523ac791c4d662a37b8d",
+        "url": "https://files.pythonhosted.org/packages/6d/37/322364e75389ccc24526b7605d384d3c9c058864fa1d105c74d7195dd66a/li-repo-1.6.14.tar.gz"
+      },
+      "1.6.15b1": {
+        "sha256": "55663879ad3f89ddb75d4af02f5aedc0c73a9a9e2b307db38cb8149a44545a2c",
+        "url": "https://files.pythonhosted.org/packages/20/e4/e3e1947a58b7c4ca4ba6450ae05499b6ae7ebbb1ae1e703265afc57cb08f/li-repo-1.6.15b1.linux-x86_64.tar.gz"
+      },
+      "1.6.15b10": {
+        "sha256": "dce6c6ff2006602ee36ca2b9b07136a54f9f7ae77ed331674e4e188fb9f5759f",
+        "url": "https://files.pythonhosted.org/packages/3e/af/0513a228bb70153c5630c67bd3d232ec7175762429a66274afa68151b77d/li-repo-1.6.15b10.macosx-10.6-intel.tar.gz"
+      },
+      "1.6.15b11": {
+        "sha256": "2654c4654adb5a0538557234098bd042bef3c82d8a8b01a5072ed5f1e538c286",
+        "url": "https://files.pythonhosted.org/packages/7b/68/a120d4ce14d2999e0ac727956e75e82b2ce21bef013c2e97ca4324e9cf6d/li-repo-1.6.15b11.tar.gz"
+      },
+      "1.6.15b12": {
+        "sha256": "900ac042a894372c1eab4de04cbda7842634ad7b21fc7f2788b563523d597b5d",
+        "url": "https://files.pythonhosted.org/packages/b9/85/67a93959880af4b8603a1a337a7ed1eb57b142dafbe4da76339dadb7ae8b/li-repo-1.6.15b12.macosx-10.6-intel.tar.gz"
+      },
+      "1.6.15b13": {
+        "sha256": "a1e050d257fa17bddebabdb21a623fb1a889f3a6fd474664cbc67c3c52e7f905",
+        "url": "https://files.pythonhosted.org/packages/65/0d/973d93e61bc723c030f9e15b4b5d82265701aab282e93ecc893a1298f288/li-repo-1.6.15b13.tar.gz"
+      },
+      "1.6.15b2": {
+        "sha256": "7d72c9f36366f8450e618befd755b471f5aee9fcac71d4ed9a2f6c48705e4095",
+        "url": "https://files.pythonhosted.org/packages/76/fe/948cc7c527eca301a064106e80e2d76b2e35e5b8328904e87bb641709518/li-repo-1.6.15b2.macosx-10.6-intel.tar.gz"
+      },
+      "1.6.15b3": {
+        "sha256": "6a12c995c6678500fb620051cb16cd41074e7ec9aee8f62071f9503d28e14b4f",
+        "url": "https://files.pythonhosted.org/packages/55/8f/307951ab85d4d9e127fd957fdf9c3d803c6fd14235fe541054f7661daf8e/li-repo-1.6.15b3.macosx-10.6-intel.tar.gz"
+      },
+      "1.6.15b4": {
+        "sha256": "f8fe9c6d79a907ff056362304f66ce2d8ba560d317779aa789f7e18657653f57",
+        "url": "https://files.pythonhosted.org/packages/ee/20/2393babec4aec2bd0cc73b9680d6ed5f30dec38d862786a827d06221507d/li-repo-1.6.15b4.macosx-10.6-intel.tar.gz"
+      },
+      "1.6.15b5": {
+        "sha256": "9ccb23b1abd443c936d056da4a2664415f29a4aee070e61c70298f1dd76b2f26",
+        "url": "https://files.pythonhosted.org/packages/db/24/51ac0a23c99fb44e08c48f74cb658e1004ad58956292378d0673ac8e500c/li-repo-1.6.15b5.macosx-10.6-intel.tar.gz"
+      },
+      "1.6.15b6": {
+        "sha256": "3ba766666585257ae7d1fa78241e1806b39c41c83a9baa1055f4a3716a703c71",
+        "url": "https://files.pythonhosted.org/packages/9d/ab/71f9349313625029fec2e17323fc7e4c3f3761c1786d16c4c493425ebeed/li-repo-1.6.15b6.macosx-10.6-intel.tar.gz"
+      },
+      "1.6.15b7": {
+        "sha256": "4765bf5fa55d9e6e0ee446a4d399f080828825d4dfa132ea0683b54a6cac25fb",
+        "url": "https://files.pythonhosted.org/packages/75/6e/f3d597fdf395104a4ea16ff2e4ed14a8f2bcf97b35e25abeb909372ce274/li-repo-1.6.15b7.tar.gz"
+      },
+      "1.6.15b8": {
+        "sha256": "aeb92a762b9dd75e9ec3d08bed3622bbca35e083d9d768fc07a3bc9c90d7b4ca",
+        "url": "https://files.pythonhosted.org/packages/e8/da/6874014954052aecab9e177a64c825dca4c2e3713a4b43f53bd3331a90b1/li-repo-1.6.15b8.macosx-10.6-intel.tar.gz"
+      },
+      "1.6.15b9": {
+        "sha256": "405ce89ccbb93729d56408848c0de2721e5df18b9a1b53776bce75bd671d0aaf",
+        "url": "https://files.pythonhosted.org/packages/75/ee/ce6837c8cf8aa944670ccb085879a8182fbed750737aa55256bb7a6776e6/li-repo-1.6.15b9.macosx-10.6-intel.tar.gz"
+      },
+      "1.6.17": {
+        "sha256": "fddf21d76afd61ba372abb9a919381bc439e127373b71047183248f5c35fa5b2",
+        "url": "https://files.pythonhosted.org/packages/e5/e7/cc7acfc3c570c64a594b02b333f53ac056c016f6e8343f0042e8b4a59814/li-repo-1.6.17.macosx-10.6-intel.tar.gz"
+      },
+      "1.6.18": {
+        "sha256": "cb782c71b6ff8bdf40efef9df614175a238e84f3d78bd1804db233919a05d33a",
+        "url": "https://files.pythonhosted.org/packages/c9/91/20dcb469451cf3921884a82f90e1b6c4d746243814ea31b057965dc34708/li-repo-1.6.18.macosx-10.6-intel.tar.gz"
+      },
+      "1.6.18b1": {
+        "sha256": "dfca1f2f7d06851425b2eee5f023cfbc212e9ae8d248b15d58206431bf897b8c",
+        "url": "https://files.pythonhosted.org/packages/67/5c/de67496c637ca13c219c6f33fdc2b694316e871edf5e382cc22a76cb3fee/li-repo-1.6.18b1.macosx-10.6-intel.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "60dcfd44118ba0abd07f0de5525a8b21ed99490b44c359930271355575a55376",
+        "url": "https://files.pythonhosted.org/packages/33/31/46321808df654dff23af0318c2f8d1b1565166b8177c174848a5c9e3f41c/li-repo-1.6.2.tar.gz"
+      },
+      "1.6.3": {
+        "sha256": "15eeb8dc38a5bab028816640d70e36cf9ec71777721cb3e059f5177fad3e39d5",
+        "url": "https://files.pythonhosted.org/packages/13/89/076e2ccb3f388147c03ea30b602e4031fda45866eadc5d3452b328dcba6a/li-repo-1.6.3.tar.gz"
+      },
+      "1.6.4": {
+        "sha256": "f0eecfd136904cdaf8409fed2047bca4782c494e75d92b1c2d1e3c51b21526e3",
+        "url": "https://files.pythonhosted.org/packages/bc/0e/6d21ca3f09f6c1b840442376cfd60b372c96e8be91b7d6c23dee361204d9/li-repo-1.6.4.tar.gz"
+      },
+      "1.6.5": {
+        "sha256": "96d1a1a2f541aeeacf1eeb61604bb339c54093e62e71a70e3e078f6f7d31e473",
+        "url": "https://files.pythonhosted.org/packages/5d/51/f651bd312d110da4cdc69600d1af0f18ca1a2605fbe044acb9228b267796/li-repo-1.6.5.tar.gz"
+      },
+      "1.6.6": {
+        "sha256": "f77b98c84584258c145e7ed721c224d375a8c28c555fec7b42aacd35613eba42",
+        "url": "https://files.pythonhosted.org/packages/63/09/9c388724f112158e5aa59eba37b343ea54ee0489d987bd9d5c53c48e9db2/li-repo-1.6.6.tar.gz"
+      },
+      "1.6.7": {
+        "sha256": "4432de052012910219b9eb2a0c2be954c8907f798a5b59347a5e57c4e4eed81f",
+        "url": "https://files.pythonhosted.org/packages/8d/af/a63b7ebb04d36ac541c91f8f851bfc3bfb6ea81facfdd63a5d2c7d297e94/li-repo-1.6.7.tar.gz"
+      },
+      "1.6.8": {
+        "sha256": "8f1f2bce31213660ef6bc08bf124ed9823233c881e576e1c0a14b89a18fca70e",
+        "url": "https://files.pythonhosted.org/packages/fd/5e/04ffb0640ca95b02c2727c309e3a4ec723641fffc04747af3fbaf6038a88/li-repo-1.6.8.tar.gz"
+      },
+      "1.6.9": {
+        "sha256": "24e6d1f96b891ce094e6f6860c2e757cbd7e5dcc7ceeeb0a779c7446bee1682b",
+        "url": "https://files.pythonhosted.org/packages/7d/7f/c42fc1e342bae8816c405ea3cba02a57e914a3aeb827408abc65befc9ce5/li-repo-1.6.9.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "8bc9248cbc84d4979c3d7c013d12848c9fdd6fa45820dd7542b138228902c3ad",
+        "url": "https://files.pythonhosted.org/packages/e9/2a/d61ba1b7eb87635c9b8aa8dfcb8a3f66164055ce024b5b4bf9e5d03749bd/li-repo-1.7.0.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "8814f8097ef629ee9f15c6be16831fbbd391a10c648fdb978dbd2f2733c5ff5a",
+        "url": "https://files.pythonhosted.org/packages/85/5f/c71c4a5fc0850551b357a17cad1d6d8a068f2fa489effe304730778f0aee/li-repo-1.8.0.tar.gz"
+      },
+      "1.8.1": {
+        "sha256": "36d6ec7751c4627b3c50b590654ece798a34b8bda1aa09f61a279408afcf44a6",
+        "url": "https://files.pythonhosted.org/packages/69/20/b8572bee5f7d3f9a135096199f5b1f37b87b53c825a120ab14016b9324cd/li-repo-1.8.1.tar.gz"
+      },
+      "1.8.10": {
+        "sha256": "5ea813820a5f56ed788f7706c52a66b736565c8828f6f025848a8829d5507139",
+        "url": "https://files.pythonhosted.org/packages/97/eb/7d4f34cf4b17e5ff40efdcbbc8539433b23fa3c5e231dab1b65f28708d43/li-repo-1.8.10.tar.gz"
+      },
+      "1.8.2b1": {
+        "sha256": "8396da53dde87b0593877d1c43987ea1e0ab7a2c9133765fd52c51a9c6394633",
+        "url": "https://files.pythonhosted.org/packages/27/96/65eaa7fc9a3800a66a9b918a58299f44fee4d5989184824dff0fbe2a2fcf/li-repo-1.8.2b1.tar.gz"
+      },
+      "1.8.2b2": {
+        "sha256": "0c762c9161322149bc127f880015e919826c5e5ab959a3c24ddb6933fdc4e0fb",
+        "url": "https://files.pythonhosted.org/packages/09/1e/e11afeb386bd09b6445f83b76066b3a18fde3cf32c4c999399f788939269/li-repo-1.8.2b2.tar.gz"
+      },
+      "1.8.3": {
+        "sha256": "c09f5bd23aff53bb677b89b094f46f74fa7eb62604aca48f239ef37f0b6a5a33",
+        "url": "https://files.pythonhosted.org/packages/fc/85/f1aba186fa4d0f6b11a74d94479de1aff202b4fcc1eabc873b31c1066be5/li-repo-1.8.3.tar.gz"
+      },
+      "1.8.4": {
+        "sha256": "d8f750f7e6c3cdd35a5395621b70aff3a3f6702549f331ac91616a0c3259a1b0",
+        "url": "https://files.pythonhosted.org/packages/f5/50/a15c440f5dce970d0771bcef5804bf640d2edd24d40d7bf3ea32de03f2cb/li-repo-1.8.4.linux-x86_64.tar.gz"
+      },
+      "1.8.5": {
+        "sha256": "b7f8e0951f3ae5e818394c02caaec1b7f97d467fef451cdb7ed165921288f148",
+        "url": "https://files.pythonhosted.org/packages/d9/58/1a1a27a8884f5d3d8e112957447e4ca1cd0e0c41e9eade5cf7c08470d7db/li-repo-1.8.5.tar.gz"
+      },
+      "1.8.6": {
+        "sha256": "51caa2d14881dc15e2a1e2fd761c22db31ebbf124d9e4c615dcec546eb972ad2",
+        "url": "https://files.pythonhosted.org/packages/ae/bc/08ebbfd351e350d328e8c1f39c883c4d81d132bfaa08c458d5ffacb90e89/li-repo-1.8.6.tar.gz"
+      },
+      "1.8.7": {
+        "sha256": "80b63acfda15b3da9e9d21a7011dcdfe54db9f5c909a4b5fce4c26a9f696cc73",
+        "url": "https://files.pythonhosted.org/packages/01/7c/457ac7c5c01422e3f4cfaadc7b733702edd465890f24d1670b0a54b2d5f3/li-repo-1.8.7.tar.gz"
+      },
+      "1.8.7b10": {
+        "sha256": "3c8ea66b7ab2770515dba4fa244124c0f7bc9219e99fad84418053f994811d09",
+        "url": "https://files.pythonhosted.org/packages/4a/fd/f44b40cab8716ea12703e1e76d92180c390a4bd29e1e9b8752117c7a5183/li-repo-1.8.7b10.tar.gz"
+      },
+      "1.8.7b11": {
+        "sha256": "0983f9d0957629827313332535cc056af0cb1162657fddca7bb9aad9a5b00888",
+        "url": "https://files.pythonhosted.org/packages/57/5f/96a86c23442cb8123f5a2ae8777a8dd16ed7d1adbfee10dbb9d972955648/li-repo-1.8.7b11.tar.gz"
+      },
+      "1.8.7b12": {
+        "sha256": "65daa20cac3c9cd12e813b1d3addb1fe09ea891ee90654e955eafb4201947cd7",
+        "url": "https://files.pythonhosted.org/packages/c9/f7/8516ab5665df50c7f7abbe835e6d82561c8f72ebd4dbbec520b66a94fa7e/li-repo-1.8.7b12.tar.gz"
+      },
+      "1.8.7b13": {
+        "sha256": "5b3ee3a8bbd3f8ab6dd3c258d68b4def252b201c89a9c661ea7f75615c015f05",
+        "url": "https://files.pythonhosted.org/packages/60/11/df66e7d77abf9564c1e4543e0b26ca75d4618b2fd1cb5232f3c0933fd401/li-repo-1.8.7b13.tar.gz"
+      },
+      "1.8.7b14": {
+        "sha256": "e31f97d1c0e51c7f7f6bddf66cab3de95ed94f0754e685ecb825d84cbbfbdbea",
+        "url": "https://files.pythonhosted.org/packages/e2/b4/daac092596da53b18459f9c1281066bffd87692d17cc3e2ed274f536d16b/li-repo-1.8.7b14.tar.gz"
+      },
+      "1.8.7b2": {
+        "sha256": "d2a7a1a160a16384d473214157adcffd71eb000411b071a6d8ee2a46ff8efc96",
+        "url": "https://files.pythonhosted.org/packages/62/df/46d47121023d9a9c22287200272f10953a74c636c3ff69189f5f2a0df717/li-repo-1.8.7b2.tar.gz"
+      },
+      "1.8.7b3": {
+        "sha256": "f8c1939bc6fee1fff569a3bbbcc3e933cebc796958453fd00053cbd3ada8dbab",
+        "url": "https://files.pythonhosted.org/packages/eb/99/bc611931908f04eaada9ca5baef324b094a0067288e3621e1c44f15c6fe4/li-repo-1.8.7b3.tar.gz"
+      },
+      "1.8.7b4": {
+        "sha256": "1fbcd37703125f25a27b171dfdd4d4e9d8695723afdb2176432d6373a6030e1c",
+        "url": "https://files.pythonhosted.org/packages/d8/97/93292dc2d1aac234a08c5c2b670be042a6aa9a626484050ef90662f77237/li-repo-1.8.7b4.tar.gz"
+      },
+      "1.8.7b5": {
+        "sha256": "78e681280973cf73fe0e190048e76c7d370328c414bbc312fd96f6f4f6e5f210",
+        "url": "https://files.pythonhosted.org/packages/7c/3b/40dcae6dfc451a8c5b59f513f204e414f0189d69eeb982f1172eae78dd84/li-repo-1.8.7b5.tar.gz"
+      },
+      "1.8.7b6": {
+        "sha256": "b82ac791f976960356dc0fd93f9a8207c281e0bbb6f6fc12115a3f0d30e48c26",
+        "url": "https://files.pythonhosted.org/packages/0e/64/2a5f638af21ee80dc062a16c7818adce859e768135e2f2b5877018fb45b1/li-repo-1.8.7b6.tar.gz"
+      },
+      "1.8.7b7": {
+        "sha256": "814139ead641f28be58a2ff0ddb2104d486fd5463b17bcc38426657ba965f9d0",
+        "url": "https://files.pythonhosted.org/packages/25/49/d56999936d79acd59d91c08326c44b1a697f87b2585b21c07d1b08fa40bd/li-repo-1.8.7b7.tar.gz"
+      },
+      "1.8.7b8": {
+        "sha256": "c280af03769cb0921e21ece8c0c281ee46169d4ebf05bb6b169a912bdf20dd1d",
+        "url": "https://files.pythonhosted.org/packages/be/e0/6cb0649fbb1bd1987ee8a82954d68c52c598da4dacf33c30366829c64970/li-repo-1.8.7b8.tar.gz"
+      },
+      "1.8.7b9": {
+        "sha256": "c9c65e5c08e647c361bfb01d1a5bb9b52352dbdc144b8a89353db4919481e705",
+        "url": "https://files.pythonhosted.org/packages/b7/2b/f0f9c3243e64b23bca98dc150cbc39d7d57a0a8cdb865ae62568f32823f9/li-repo-1.8.7b9.tar.gz"
+      },
+      "1.8.8": {
+        "sha256": "0dd891a864da7a676ce9980f30810849b98460182ccfe5cd1fd42eaa3accef0a",
+        "url": "https://files.pythonhosted.org/packages/55/85/ae7157658780d8c46b3bd8847ed1cf8c8463dc652408ab5945985c4a481b/li-repo-1.8.8.tar.gz"
+      },
+      "1.8.9": {
+        "sha256": "34060f5cdf47805c766da1f32b69ad9172708907be63bdb56207894f00cb661c",
+        "url": "https://files.pythonhosted.org/packages/20/93/0619174ccc5d8e3528ae0ac6f5af34b1ee9966f2511c726c8a8b136a2796/li-repo-1.8.9.tar.gz"
+      },
+      "1.9.0b1": {
+        "sha256": "47b81a461990aa9ae13d97aa6799fe2e129e29141513cfa093d8b7fbe1ef150b",
+        "url": "https://files.pythonhosted.org/packages/26/12/d103c1a7704a84169cbd1eb1e66227d216db6737f4ceb85edb454672b6b0/li-repo-1.9.0b1.tar.gz"
+      },
+      "1.9.0b10": {
+        "sha256": "b682393ab1950ed43c010a30de5f4867480218d7ca001b27c8adc04323df7c3d",
+        "url": "https://files.pythonhosted.org/packages/73/22/0570bf90ea254d6991b21a794f9c8efb115f7f3b63aec1d286e7cb55d350/li-repo-1.9.0b10.tar.gz"
+      },
+      "1.9.0b11": {
+        "sha256": "f7efed8d8aaf9461cf71f075d5ffbca45b66118b15796d88e66c8640a6c7dadd",
+        "url": "https://files.pythonhosted.org/packages/ce/f4/4e7c2893b8cc95df067e4588c42075fd992cde3817bf569362c62e7ddda9/li-repo-1.9.0b11.tar.gz"
+      },
+      "1.9.0b12": {
+        "sha256": "c4f9f758af2eff960a1cf6035285ba3a8ef1c02e38f359300c07e748d5da8730",
+        "url": "https://files.pythonhosted.org/packages/48/4c/44bed2ff1e8360aba58eeb8c4cf191b4b6448e3ff5fb6fb56bbe07fd3b5c/li_repo-1.9.0b12-py2-none-any.whl"
+      },
+      "1.9.0b13": {
+        "sha256": "be9072fb659ee18985009ffa58ac7971057e2660624a0590bc53d5d72cc2793f",
+        "url": "https://files.pythonhosted.org/packages/0e/de/257d9efda42f4fc3089ece9ff06ad9e976b89c4b4827a13af33fef1eebf0/li_repo-1.9.0b13-py2-none-any.whl"
+      },
+      "1.9.0b14": {
+        "sha256": "38ba31c845b4be5a5894ce7ce650edfce78a691937393accfee1a2cdeb68899b",
+        "url": "https://files.pythonhosted.org/packages/92/a8/9f506877fcbb0c0230f826ea61b9dbfc37b05d7a16995acc9723cc3e5949/li_repo-1.9.0b14-py2-none-any.whl"
+      },
+      "1.9.0b15": {
+        "sha256": "33f324c6c02fa25f1aca8a916719377fb9115d9ace3475345a34a7320d6cbccf",
+        "url": "https://files.pythonhosted.org/packages/d7/bb/37ecaf77fc71e68331d42392b7bd480c4906c0225a583bdcb1cad89c67b7/li-repo-1.9.0b15.tar.gz"
+      },
+      "1.9.0b16": {
+        "sha256": "dfbbb83ee6166eb309c8cc05b5cee45d40494c24735539a03595c7e50b3ecc5f",
+        "url": "https://files.pythonhosted.org/packages/97/d0/d0f9b844b5d9a89ef313a6c96e46eb8f4269436cb4c58afd183783a2bc92/li-repo-1.9.0b16.tar.gz"
+      },
+      "1.9.0b17": {
+        "sha256": "f64b4b3170de6de7ec03c32b56da2bda8a13662cd9020a49faa7d6d97b48a6a1",
+        "url": "https://files.pythonhosted.org/packages/0c/14/6616bda2a30dfa7c507ccf63602e42e04199da43647ef4eb9cb112b478a2/li-repo-1.9.0b17.tar.gz"
+      },
+      "1.9.0b18": {
+        "sha256": "4a47d697db853b5ea834bad321f4731d418d032bd078944c305b7a038b81066b",
+        "url": "https://files.pythonhosted.org/packages/5b/7c/e1a46f3bb307e502fbee8cfe7a763b842b662cf616de607d0b1b43d7f3c9/li-repo-1.9.0b18.tar.gz"
+      },
+      "1.9.0b19": {
+        "sha256": "60e51a21d73a8a44f50fd8c9eafeb35cdfc06b0cfdcac70f6ad8630a8f663e14",
+        "url": "https://files.pythonhosted.org/packages/c4/3e/c6c10abc4eba47abe043c318a57bda7029991cfc15ee66da1c00d1155fc5/li-repo-1.9.0b19.tar.gz"
+      },
+      "1.9.0b2": {
+        "sha256": "6e073b7222cf30f0ded73b94c22364bc716c2e4ae3ad07fe8a6546cd8c7096d5",
+        "url": "https://files.pythonhosted.org/packages/b8/f8/8a555a5a5e3138e153d7a543ab7ee3d895ddd9942134f531750741033f19/li-repo-1.9.0b2.tar.gz"
+      },
+      "1.9.0b20": {
+        "sha256": "6d1d3513599a7c18064ebeb69bd86639e6a092083351934f2f88109036efbf09",
+        "url": "https://files.pythonhosted.org/packages/e9/1d/61119dadd0e59caeb71605db82f4d0f7356f7be1ccefe6647a038495a1e0/li-repo-1.9.0b20.tar.gz"
+      },
+      "1.9.0b21": {
+        "sha256": "a9d61c8a382246fd5db91e825f238e5b71b73db5c2627dcb9005734205b04704",
+        "url": "https://files.pythonhosted.org/packages/01/f2/7d3d2ed70499ba22a2051ebbd39bb595db4760dd0b1087696a40a7df2932/li-repo-1.9.0b21.tar.gz"
+      },
+      "1.9.0b22": {
+        "sha256": "64415bfa80af7cf82f657e3213ead06bdf5b4005a08d63e991780c46aae8de79",
+        "url": "https://files.pythonhosted.org/packages/cc/e9/cb5ff22b3d6962ee45aaf9e4f6a5e78dd2d60a928a40cb1fa3512b7bb088/li-repo-1.9.0b22.tar.gz"
+      },
+      "1.9.0b23": {
+        "sha256": "4684d9de5362905d086eefd1ddc7b10b724551304b85022cc353544b5135a0b5",
+        "url": "https://files.pythonhosted.org/packages/ad/99/b5e01c8c8674c56255e222414ac45ccd6eaf6bfe28f4cb624dab38945469/li-repo-1.9.0b23.tar.gz"
+      },
+      "1.9.0b3": {
+        "sha256": "968604a878e8a0d92c92e689cb8fde38d5183e3f91cce654b5a50275e049d1d2",
+        "url": "https://files.pythonhosted.org/packages/24/6f/a5347923b03350ecf26d4cfcc92d12d696910f801d329ea202b15bf08201/li-repo-1.9.0b3.tar.gz"
+      },
+      "1.9.0b4": {
+        "sha256": "637457de85de59e56096b860ed6f9655884227261e3c8137aea1f0267fcf61f9",
+        "url": "https://files.pythonhosted.org/packages/a9/a6/466ef27668eacd832afd6a40ab8ee4e3688175fbd9b9b64762d5daeae7e5/li-repo-1.9.0b4.tar.gz"
+      },
+      "1.9.0b5": {
+        "sha256": "0d567130e7c63669d78eb1a4d20e33b6d9da7fcdd783d5143805b502c00d3d28",
+        "url": "https://files.pythonhosted.org/packages/ca/f5/8da799805135bbebbabf63587fc5998a71584b7b10c1fe6d394d16b1d967/li-repo-1.9.0b5.tar.gz"
+      },
+      "1.9.0b6": {
+        "sha256": "baa548fd10d09a6ca65101f9cf7b14cc0c8b4e55354be2b902da655247a5fe33",
+        "url": "https://files.pythonhosted.org/packages/c9/62/e9b9c5d5b6691f245a742a1e316d30f6f3a90313052dc2e274e34d0f063f/li_repo-1.9.0b6-py2-none-any.whl"
+      },
+      "1.9.0b7": {
+        "sha256": "07f62b8aa8682ed7ea5bb97e71f650859349c637c0ab4bd33bc740a964990bb8",
+        "url": "https://files.pythonhosted.org/packages/3d/f1/1b3d2aabb427f3b549d2a426458cb8679037240bdbd352730483dec41ada/li-repo-1.9.0b7.tar.gz"
+      },
+      "1.9.0b8": {
+        "sha256": "8b1bc6d449693b13ba5a1f2965b4276aa6be84c29c3a9a063d00b9cc0364f8ba",
+        "url": "https://files.pythonhosted.org/packages/a0/2e/e7cafef14d3b828d23b550a16b8360e04d8fb8f8ac242b77e5b5e20dab93/li-repo-1.9.0b8.tar.gz"
+      },
+      "1.9.0b9": {
+        "sha256": "fe0d0501dd0ee9edac624f573365625a397b62e09f4996bf45f1ee3d050b0263",
+        "url": "https://files.pythonhosted.org/packages/57/89/42b5508a5f8790f17645f4f93ca32f2f80ca62cd7ce2dff0f344b4606c88/li-repo-1.9.0b9.tar.gz"
+      }
+    }
+  ]
+}

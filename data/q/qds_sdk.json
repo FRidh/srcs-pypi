@@ -1,0 +1,193 @@
+{
+  "latest_version": [
+    "1.9.1"
+  ],
+  "meta": {
+    "description": "Python SDK for coding to the Qubole Data Service API",
+    "homepage": "https://github.com/qubole/qds-sdk-py"
+  },
+  "versions": [
+    {
+      "1.0.10-beta": {
+        "sha256": "83648965c511f1cb523d7a36774a9c5fb18060c1b237cf146393cbf4fd9bb503",
+        "url": "https://files.pythonhosted.org/packages/b4/22/6bf1111ab65782995229329b13583c3ded08a15b351a4f6698fa51161725/qds_sdk-1.0.10-beta.tar.gz"
+      },
+      "1.0.11b1": {
+        "sha256": "99ca367ff056dcc4a3d7ebdf555213027c08da1dff7fd67485ac1429f97d966a",
+        "url": "https://files.pythonhosted.org/packages/c3/4d/c9e798be2f1a1cfbcd07204ab5075dbc87e7ee91d1331b23b02bc96a4b47/qds_sdk-1.0.11b1.tar.gz"
+      },
+      "1.0.12b1": {
+        "sha256": "3875b7770a4876ef806b20fd9a7dcf6360a746d48c78c337bf1a92dbe4f08d56",
+        "url": "https://files.pythonhosted.org/packages/70/84/9ecea5f3b613955e94fde0ffc89fde94e18a4c7c0873daeb5248d75a1bd2/qds_sdk-1.0.12b1.tar.gz"
+      },
+      "1.0.13b1": {
+        "sha256": "0421e9ad64d4690d25b55164013c471decdbf2c28a9dd0d523636521ad6d7be2",
+        "url": "https://files.pythonhosted.org/packages/f0/01/18030f3c01ca84df1477845dc6c1db92384f9057a10082bd26a7866f4859/qds_sdk-1.0.13b1.tar.gz"
+      },
+      "1.0.14b1": {
+        "sha256": "b155984821f412d12a89b265c85f97f5f22385c3eedf365381b39d1254f1de61",
+        "url": "https://files.pythonhosted.org/packages/99/a7/8c3388b449e81e089351d5e3438b452e0e036ce848762c2ccb331954068b/qds_sdk-1.0.14b1.tar.gz"
+      },
+      "1.0.15b1": {
+        "sha256": "f1393c2daffbc40ae277c79c08ef07d385cf13d61e648f7cbbc34bcf2c221a7d",
+        "url": "https://files.pythonhosted.org/packages/54/35/b0c3dc3f9035b1c77a4cedceccac0c3020abf9814ef4c1080832b5036123/qds_sdk-1.0.15b1.tar.gz"
+      },
+      "1.0.16": {
+        "sha256": "9cf7425865d41c24e53918dc3a649d9f463374e6b4678d82515235a10ac0cfd4",
+        "url": "https://files.pythonhosted.org/packages/f9/eb/fd5e3bf30a2da086ca06699e74be709046f140e9ed24e32b922bfc49d031/qds_sdk-1.0.16.tar.gz"
+      },
+      "1.0.17b1": {
+        "sha256": "0987bc6b3dbec8090743d8fbfdbd45ed76fb6baa3506689b1ddc9517bf57b83c",
+        "url": "https://files.pythonhosted.org/packages/98/9d/47bc29ae2ff427b2986fc59cda47f13aca4f00ad6503cb0714ff7e178b11/qds_sdk-1.0.17b1.tar.gz"
+      },
+      "1.0.18": {
+        "sha256": "f1a1c5f6de69f2416e6936154bb260dfc32921d470943d6e960136461e7669e4",
+        "url": "https://files.pythonhosted.org/packages/ea/9a/4fa6cf6d83cc2e55199c4785dd8565efde604b02c9940e3027098a6439d5/qds_sdk-1.0.18.tar.gz"
+      },
+      "1.0.2-beta": {
+        "sha256": "c3c8acd01b20772f6628e24d9d5b018d0ddb96ad7abe6ea9674df4d1c6f9bd1b",
+        "url": "https://files.pythonhosted.org/packages/e8/86/e83c6c05b14e7b320bd2611ea00845c149cac7f07014858adddeb98313ac/qds_sdk-1.0.2-beta.tar.gz"
+      },
+      "1.0.3-beta": {
+        "sha256": "ae60e1af807878047ac865d730e6c3761e517aa48325227621935709e974fa73",
+        "url": "https://files.pythonhosted.org/packages/04/83/8ff8ababe216a85f4b9d6f50b40e29610daae2754b01b4e5283c1cf3bbc3/qds_sdk-1.0.3-beta.tar.gz"
+      },
+      "1.0.5-beta": {
+        "sha256": "dba13bdb472b8b2102158026491f8cc7db11849b6ae5793ccd948088ccfd2fc5",
+        "url": "https://files.pythonhosted.org/packages/7e/b4/e7baef241d509eafd421a6a660d9b74b0d1bf1ff47518978420b54cbfdf5/qds_sdk-1.0.5-beta.tar.gz"
+      },
+      "1.0.6-beta": {
+        "sha256": "5587479585d68bac9423d63fd92afc18c98a0f5c5270a2015bf1ebe85a52296a",
+        "url": "https://files.pythonhosted.org/packages/a9/83/00aa2e02695b1eb114a3a79b703bb721b86fdb8beb02babe351b8f228b16/qds_sdk-1.0.6-beta.tar.gz"
+      },
+      "1.0.7-beta": {
+        "sha256": "cdf555e1dddf97ae2520cdee8d120b6d554bd186fe3fcf6956cdcbb76ea74b20",
+        "url": "https://files.pythonhosted.org/packages/eb/a8/2ce16e687d139e998013cade99e3d131c7b9cf4be53711e7144628e23240/qds_sdk-1.0.7-beta.tar.gz"
+      },
+      "1.0.8-beta": {
+        "sha256": "7c2c8fcbed3d222b5e1f4005c27a07223d7275ba797ef0899c0849662404c76d",
+        "url": "https://files.pythonhosted.org/packages/be/66/5f9c151beb975d888da7b14ba1c76e59e16029cf3fb277d8b8140f04e28c/qds_sdk-1.0.8-beta.tar.gz"
+      },
+      "1.0.9-beta": {
+        "sha256": "c6079b3547d22257c89228fd3d640a275045a9bfd9984587b93099d407a3b09d",
+        "url": "https://files.pythonhosted.org/packages/01/99/e92360bd444d14f5f72e478b2e99d265c651ef81379ede7ecc6a4d5c9405/qds_sdk-1.0.9-beta.tar.gz"
+      },
+      "1.1.0": {
+        "sha256": "a7366eb2efda227448181b48bcc2560a5965b2377783f9e8bff67b7984eee4fd",
+        "url": "https://files.pythonhosted.org/packages/4e/fb/33c4c345d827f886f5ff7736677270e917be1ab7de43b92a5afba62cd4bb/qds_sdk-1.1.0.tar.gz"
+      },
+      "1.1.1": {
+        "sha256": "54adb04f1d0e775314d73dac2f0cf3aebabbc74360d31b26ebf2fa728560a001",
+        "url": "https://files.pythonhosted.org/packages/ce/54/b89e0256e81b0e0ca68dd2b11782e4f6e325f0ebf43efbb3e01a9979a576/qds_sdk-1.1.1.tar.gz"
+      },
+      "1.1.2": {
+        "sha256": "21a171bf455fec6c5e554fb5a47f5fea417692a670c35bafb8cb2d4921831293",
+        "url": "https://files.pythonhosted.org/packages/b3/2a/57cee24805a5da6cbcc412eb7dcfa153ebc2446423d7dd37ecd91308c116/qds_sdk-1.1.2.tar.gz"
+      },
+      "1.1.2rc1": {
+        "sha256": "e53704b52c1d7f7ffc18ef107b14b517f13b57c10fb186abb9759c46c8365800",
+        "url": "https://files.pythonhosted.org/packages/c9/9f/22d1ae21a96f400c707a8a42255831a86e578f7587c5a73e36632094b6e1/qds_sdk-1.1.2rc1.tar.gz"
+      },
+      "1.1.2rc2": {
+        "sha256": "1c9b8513c9bd45782119132314c296a87441da0700811a28cb4e0eaf2a851986",
+        "url": "https://files.pythonhosted.org/packages/dd/1a/fab0bfd0e0554330ff841abcee73c48945d38d3af0095cb5c698346bc466/qds_sdk-1.1.2rc2.tar.gz"
+      },
+      "1.1.3": {
+        "sha256": "bfdeef171c4f516363e6bcedc3a2f1567f3c453cbc1d5a0a10d74faa17e95c80",
+        "url": "https://files.pythonhosted.org/packages/76/2d/a877d1917fc340b5dbf1605cee77f9ac5c6c1d7e041bbf824d1f779758f9/qds_sdk-1.1.3.tar.gz"
+      },
+      "1.2.0": {
+        "sha256": "b79e530fc06d8d3af4797c5abe4e01aac0ffbc53154038ab19f66d709d462b88",
+        "url": "https://files.pythonhosted.org/packages/18/b5/49fd7139fdfe682d75cdf7db9f5cb5d1b3f97ce61046fd95d77bfb5c48da/qds_sdk-1.2.0.tar.gz"
+      },
+      "1.2.1": {
+        "sha256": "409a68b0a3ecc43d28046966527cf1cd8dad93b62d7f38d0c031d665d9497c09",
+        "url": "https://files.pythonhosted.org/packages/83/6a/21c047eb90243125de99349eb921b404d54b6fc0c5606b529688215cd82a/qds_sdk-1.2.1.tar.gz"
+      },
+      "1.2.2": {
+        "sha256": "2837cbb40e85ba73c4fe0648f37badf98ca57cf1ab67edbe835561ab106b7f05",
+        "url": "https://files.pythonhosted.org/packages/f3/5b/40c0b269132952c13e0af7c89196006470aa94d4a76e4f25b241bea8e299/qds_sdk-1.2.2.tar.gz"
+      },
+      "1.3.0": {
+        "sha256": "a2c5b518991f68d0c7c12d8bee888aaab4cf08f90852c075c69d3e1fd586b3de",
+        "url": "https://files.pythonhosted.org/packages/e6/10/7e8a9ef9e9684bfdcbafdfb7c304856852eb155392a9858e36e582ecb464/qds_sdk-1.3.0.tar.gz"
+      },
+      "1.3.0b1": {
+        "sha256": "3b11eb1c891ef6d88ac6f9dcdb86b600740e4727cbf3b9986053ddc48248d64a",
+        "url": "https://files.pythonhosted.org/packages/e7/6d/39278b6fed116d74d8421bdc1fca9a87dd32efca7098bb413acd5f08c19d/qds_sdk-1.3.0b1.tar.gz"
+      },
+      "1.3.0b2": {
+        "sha256": "a6fd233702c5faabc5a53e01a055a49a417fda7b5984b6ba1b7c1ee9c54c382b",
+        "url": "https://files.pythonhosted.org/packages/b3/0d/df6da78e1be8c1c1b8eb751b337237ef70c24506b0d73edc378c8b9c4c7c/qds_sdk-1.3.0b2.tar.gz"
+      },
+      "1.3.1": {
+        "sha256": "27468fc36cc0b604c0b98973174b7b4efa3dfb86f7acbc7121a0d49116693e3c",
+        "url": "https://files.pythonhosted.org/packages/bc/a0/3b98c6a1e9b598a203c3df2fd3efc9b8fdd5a7efc61d5a6407ef633a37d7/qds_sdk-1.3.1.tar.gz"
+      },
+      "1.3.2": {
+        "sha256": "ce2b0805f6ca6828e1c6488bd48482db1828096b566cf38831c232b70da0c992",
+        "url": "https://files.pythonhosted.org/packages/35/a9/2fdbc8b4e277e902e51a6476a87ba0fb4c919d352a5cb77aeab2aaf8fe34/qds_sdk-1.3.2.tar.gz"
+      },
+      "1.3.3": {
+        "sha256": "06c138f231da68d4d9eb224f89db67edad05bba63c875c9b54403098989d020c",
+        "url": "https://files.pythonhosted.org/packages/a5/79/361fc79133044a4f8ea672755cf589b0e8a3f3f1fb6c28e7cd2d6c65d5c2/qds_sdk-1.3.3.tar.gz"
+      },
+      "1.3.4": {
+        "sha256": "a917acce5e822b35cc7aa01a4348f8f3bb7468056086b8501fae29d49189df8a",
+        "url": "https://files.pythonhosted.org/packages/e4/36/c98570cfff52997989db7852450e526e30d90eb65a2c0e96469682720664/qds_sdk-1.3.4.tar.gz"
+      },
+      "1.4.0": {
+        "sha256": "e28a8effd5530a030f001be009cb4a1f29ed5c8e559b792affb9807f1018c617",
+        "url": "https://files.pythonhosted.org/packages/58/01/ffb1cb03bba50f31122c3941df87b2480bd541d1c38f1674a89902e4f637/qds_sdk-1.4.0.tar.gz"
+      },
+      "1.4.1": {
+        "sha256": "6b380af08aa09edcf123e44b07f41e56bc562cd0fe9ec215c75bbd01b4fe8f01",
+        "url": "https://files.pythonhosted.org/packages/75/57/b22919a300209be5f94713acdd41dff25e281e9ce258d12313db81f89302/qds_sdk-1.4.1.tar.gz"
+      },
+      "1.4.2": {
+        "sha256": "4cc443291b2b9b982e972c91046f4e21c2579a360b99468058ed94433c2d0760",
+        "url": "https://files.pythonhosted.org/packages/79/b7/d30aaba25280091d350984a11d56bb66a52aa5c4f6e71f82e444e3388d4b/qds_sdk-1.4.2.tar.gz"
+      },
+      "1.4.3": {
+        "sha256": "47c2a2fcfc9eb35e59fd35a3d9951f354c0de31f88a3ece79e756147b2a5c725",
+        "url": "https://files.pythonhosted.org/packages/be/c5/b6034ffc17154850c35e303328f052625c85308cdf11aeb315e1d08d4663/qds_sdk-1.4.3.tar.gz"
+      },
+      "1.5.0": {
+        "sha256": "622ac4907d49766bf624877fbd3c45856c1a2709532843206b41788d82ba5095",
+        "url": "https://files.pythonhosted.org/packages/1f/2b/203ff948ef3158091e3f3469e331b2eb02cacd23aa8e207f713b454e06cd/qds_sdk-1.5.0.tar.gz"
+      },
+      "1.5.1": {
+        "sha256": "5bb709cb26e77b65f0fcea930a7e5435454a8f21ab24eb671b84a049781b1665",
+        "url": "https://files.pythonhosted.org/packages/27/b1/58c6e17b5d65a0940d30376175ece281154b2be20c018015c5c3eb41b1a4/qds_sdk-1.5.1.tar.gz"
+      },
+      "1.6.0": {
+        "sha256": "029d12016fbf4f30900cbc53953a0e734b0d5758d310ecba126eeb755b0acd59",
+        "url": "https://files.pythonhosted.org/packages/c4/68/2c49b6e30579a54430338ba1249d16b42eba2c6ea225d6a5500cbd18c0df/qds_sdk-1.6.0.tar.gz"
+      },
+      "1.6.1": {
+        "sha256": "7c157ec5c7dedab96c107c15c1843ba0da376911a4d0056269eb1d61bcf6a816",
+        "url": "https://files.pythonhosted.org/packages/b2/2f/01d5c8b6813f69182b2b6e8e1d85feafb143ae7103a469aed8e5a3fea46d/qds_sdk-1.6.1.tar.gz"
+      },
+      "1.6.2": {
+        "sha256": "425a239badb2abda1057a5f088019d2de4464c1834ac4a8827f1303ffa7f543e",
+        "url": "https://files.pythonhosted.org/packages/0a/75/2dca7ef6dd547985f980e0b4b369429c1309195f0fab0700f1c82128d4aa/qds_sdk-1.6.2.tar.gz"
+      },
+      "1.7.0": {
+        "sha256": "4a53bb37e7cc60fc1dad621acb32c63dfe3dcefe43528f5c001eaaf6c5a34b8d",
+        "url": "https://files.pythonhosted.org/packages/3f/0d/12a8ef8ea8b6b6a9e2d6405622de942f54f2fa0ce38d3b3e69b9da75ec03/qds_sdk-1.7.0.tar.gz"
+      },
+      "1.8.0": {
+        "sha256": "4bd91d535c065f040b5e0f2f0acb4887859ec8035b4882d7b152a5a55a5caf9d",
+        "url": "https://files.pythonhosted.org/packages/a8/77/193450124b416cc60866c11aad90c5a2fc1f126113d1374d47d09b9d6796/qds_sdk-1.8.0.tar.gz"
+      },
+      "1.9.0": {
+        "sha256": "6e50bbbe1aa61fdf29485926766080ca22cecd26842579a4fd5e17150e9f9ce3",
+        "url": "https://files.pythonhosted.org/packages/bb/fd/6fb9d49de702e848ab7c0d6d046f3b8e04cd3ced099109faa546c0cb68a3/qds_sdk-1.9.0.tar.gz"
+      },
+      "1.9.1": {
+        "sha256": "66a6cfdcab792d5428a2265bf6f1202f7912d84ae2f7f143ae79b7fa37b937c2",
+        "url": "https://files.pythonhosted.org/packages/40/66/f1012da9c4a2e2832d2a27b3cb11f5ad295c765ddb55c1aff679e48041c3/qds_sdk-1.9.1.tar.gz"
+      }
+    }
+  ]
+}

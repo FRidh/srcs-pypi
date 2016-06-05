@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Cross-debugger inline debugging tracepoints for pdb/winpdb/pydevd/pycharm",
+    "homepage": "https://github.com/davidfraser/dbghelper",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "074fd9196d8fcb2770ef7237e3afbe0712aab25573fe9f08355bfc7b5e269aaf",
+        "url": "https://files.pythonhosted.org/packages/bb/ea/d6809db569205f808203d38cabbbe0f3b3364bfe8ff63bbcb7b24526fc1a/dbghelper-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "a289003e0e0d09a682b6518b0e194c698b9bee98e8fa13cea1d993dac467e7ec",
+        "url": "https://files.pythonhosted.org/packages/d9/99/749ad0ab454813cdc8bdf74a465364645ab81c9a0bda8729b5300f316985/dbghelper-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "005b7d300a65fd471f7dee956032489ca27b2afaca54e25ff3a9f80ea523d268",
+        "url": "https://files.pythonhosted.org/packages/80/2b/903398606a1625f31bc8253667865306bc9d34ff88edeb6caa6e74667b39/dbghelper-0.2.1.tar.gz"
+      },
+      "0.3": {
+        "sha256": "09c4c537ff485811598e269568261093984054fdc61dbfc548a98f9349af0acb",
+        "url": "https://files.pythonhosted.org/packages/cc/af/1c552a9b7a3eadfcbb86d0b5b81c9c313cff399c22ef43621f6eb927b428/dbghelper-0.3.tar.gz"
+      }
+    }
+  ]
+}

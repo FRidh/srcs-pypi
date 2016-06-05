@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "IoT Relay - Relay data between data sources and destinations",
+    "homepage": "http://iot-relay.readthedocs.org",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "6daa59b7da8dfad6058f187e4a0239d53f85edf83c25f3837ba67204ffd5b999",
+        "url": "https://files.pythonhosted.org/packages/7b/c2/8b274bdd559f08611906e7e48edaeebeab4d1507c0976258402bfc939a5b/iotrelay-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "d34e013e8a02f4951f40dc61bacba8fa484c4b016779ed7fb31c060e81eee7a1",
+        "url": "https://files.pythonhosted.org/packages/ef/96/d0a4b17db94dfd18d65889e64ccf58f41f674e71e54a27e84580abd5b013/iotrelay-1.0.1.tar.gz"
+      }
+    }
+  ]
+}

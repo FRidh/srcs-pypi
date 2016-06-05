@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Python module which provides decorators to make dependency injection easy to use",
+    "homepage": "http://fedorapeople.org/cgit/msivak/public_git/python-di.git/",
+    "license": "GPLv2+"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "78cfa1d50776c0fc87c719af5b86c154e68eba8e338e1ce5c8171e2c51c78556",
+        "url": "https://files.pythonhosted.org/packages/7c/a6/d0b611fdf015c419ff2a8a6a04b1a38ebd922f8d02f3953bbe559ad9851d/di-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "239a858a4cc56e2d289ae5a776f8b56e3b434ee6069a1a9c44f9605d91ff251a",
+        "url": "https://files.pythonhosted.org/packages/11/11/6d63561ca0b0ea68b3fe4b9c914d21fbaf0beaad1f828fbf477ef07bdb4c/di-0.3.tar.gz"
+      }
+    }
+  ]
+}

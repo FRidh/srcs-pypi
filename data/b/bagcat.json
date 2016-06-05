@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.0.3"
+  ],
+  "meta": {
+    "description": "A command line utility for managing BagIt packages in Amazon S3",
+    "homepage": "https://github.com/umd-mith/bagcat/"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "debbbdcefc960ad56faa8f3c4aeb131aadf7d3439055266ac219e7247ba42849",
+        "url": "https://files.pythonhosted.org/packages/1b/27/2efa4ef6e9acac10c78a80d8bd14e4126da981400f40355aa21f706fe9e7/bagcat-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "21a5a81c65fe296421f80c596aff4958e6eea47f8fc1dfffee732b7c28792ce0",
+        "url": "https://files.pythonhosted.org/packages/1d/ec/c81477cd0f00d90062f82d52554fac462efef6b4a94f131099700f2271d4/bagcat-0.0.2.tar.gz"
+      },
+      "0.0.3": {
+        "sha256": "a94816a817ba0a1c630425a2f46c716202af9493a448469b826d3ce37fa9103f",
+        "url": "https://files.pythonhosted.org/packages/aa/02/7b835ba187c1ba442b857467652f16b2b63f171276857b87c7783d21f054/bagcat-0.0.3.tar.gz"
+      }
+    }
+  ]
+}

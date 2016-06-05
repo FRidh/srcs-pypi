@@ -1,0 +1,82 @@
+{
+  "latest_version": [
+    "1.14"
+  ],
+  "meta": {
+    "description": "py.test xdist plugin for distributed testing and loop-on-failing modes",
+    "homepage": "https://github.com/pytest-dev/pytest-xdist",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "7d8f3f5b761f883585085f756b634d1a0b29a34cd33ea3bebe205ffb462613e0",
+        "url": "https://files.pythonhosted.org/packages/e9/b7/77575cc7db59670473f085edbba2c55516cfd7a39e4fd3957f40cd2be73d/pytest-xdist-1.0.tar.gz"
+      },
+      "1.1": {
+        "sha256": "27731b05ec1af0e69ecbaa97b734f4ae852611f6035041401f1b26d83a3f3668",
+        "url": "https://files.pythonhosted.org/packages/79/c7/3328bbfe8cb0b8b797406bd66c27cfdeae9da7d3b58acc1a3daf3ecbcb52/pytest-xdist-1.1.tar.gz"
+      },
+      "1.10": {
+        "sha256": "78dc9f949f9917d3666ccaffacbb5fa4a5ab97b613c218628214805bb68d478f",
+        "url": "https://files.pythonhosted.org/packages/65/83/ea6e6ba32c46fc5da203b9392de1d0a48e14634fe06404c3422cccdc4410/pytest-xdist-1.10.tar.gz"
+      },
+      "1.11": {
+        "sha256": "631dbe843ec7cdadaf2398c50343d887078d4f9374a0e30758a35023f865fbe9",
+        "url": "https://files.pythonhosted.org/packages/73/e5/cdf804975b34cf36f78d204ffac25d435a173d6d7856ba982d24d457cf2d/pytest-xdist-1.11.tar.gz"
+      },
+      "1.12": {
+        "sha256": "1e696df146e62564fef2f0a7dabdd2d8f690fe6d68cb7aab0a1a4bd99e041580",
+        "url": "https://files.pythonhosted.org/packages/77/37/c339663c5b490e28a676de20fcbd48eee08c40245f0957ae415bfe5ddea4/pytest-xdist-1.12.tar.gz"
+      },
+      "1.13": {
+        "sha256": "2d78555cf3f3c5e32d9ae7b73178fa04c488bd2b69d65ff6a673ba17d75d8793",
+        "url": "https://files.pythonhosted.org/packages/b1/55/7fbbc2b1c314507b88073723591cc2329f674b7ca82ad4206d17f5f367ae/pytest-xdist-1.13.tar.gz"
+      },
+      "1.13.1": {
+        "sha256": "4382d7a944c1e2b1dc17fee3fd3575495fb10236a3b6e95cc6955db04984bc3c",
+        "url": "https://files.pythonhosted.org/packages/c1/57/da7abd0670cd900cef7397ef4c12bbd749cf66ef7af4962a4dd47fd519b6/pytest-xdist-1.13.1.tar.gz"
+      },
+      "1.14": {
+        "sha256": "4a5e1199122fa29e3017d8d189f59ccc5d82e841474ba2a1eec0e89606153623",
+        "url": "https://files.pythonhosted.org/packages/9e/df/434c91ac13e96dae9bf519eb4d606d99beac835c7f859d2bca923dbb6b80/pytest-xdist-1.14.zip"
+      },
+      "1.2": {
+        "sha256": "11810af1170549a6a39abf13083a9e2f4aa057f452fb1660628039d79175fe80",
+        "url": "https://files.pythonhosted.org/packages/de/6f/32c9e1cbce7883f265e100d47586b3b6fa0bc04b14966324d313aea04239/pytest-xdist-1.2.tar.gz"
+      },
+      "1.3": {
+        "sha256": "4b3f976b2ca8e1e5351cedea5f072d37704d99e644e12af511f3310910c3c617",
+        "url": "https://files.pythonhosted.org/packages/53/42/ac96c6d66b13bc1525ba659a04a8ade9aa4d23d80571a04851e4cc77e291/pytest-xdist-1.3.tar.gz"
+      },
+      "1.4": {
+        "sha256": "7c5498e252965bf30b2868ee93464d1c057d668b67729139ea452453c8db3957",
+        "url": "https://files.pythonhosted.org/packages/ab/69/2539ab3f2f0b495d9499a5fc961ec84776b6dcca547ff9af2f064ba65d75/pytest-xdist-1.4.tar.gz"
+      },
+      "1.5": {
+        "sha256": "5374d72b577562c5f4c8daa13aa0095fe148f5790229b49956713b9004acf156",
+        "url": "https://files.pythonhosted.org/packages/1a/cd/61217a5982da7e7a29cebb488328ff296dc095a7b94f3a9e77128f7b73e8/pytest-xdist-1.5.zip"
+      },
+      "1.6": {
+        "sha256": "f228e2dc8e9d3c953e582210d2168371d9f28743d3f7303985908b5cf001a1ba",
+        "url": "https://files.pythonhosted.org/packages/61/51/4142a1fc7dad84981ac119ef9646bc10552d4b7727f74f6116cad320a0ac/pytest-xdist-1.6.zip"
+      },
+      "1.7": {
+        "sha256": "41d94d0c04812cfb4d0963f0624b9f225ee0d6636a8066b4e4b1fd9954692020",
+        "url": "https://files.pythonhosted.org/packages/47/0a/15b3c6034d12cbe2f7289eee638cfaf43e01388cd990c400473f01edeb41/pytest-xdist-1.7.zip"
+      },
+      "1.7.dev1": {
+        "sha256": "45de2f5a937b501209b0614fdbb1ee2d760c099c31fc536b6438f43da798ec79",
+        "url": "https://files.pythonhosted.org/packages/9a/e8/f840d5ba9aa21e6ddb46dca1ed052958ffd8bac02d84f01458a748325546/pytest-xdist-1.7.dev1.zip"
+      },
+      "1.8": {
+        "sha256": "b02135db7080c0978b7ce5d8f43a5879231441c2062a4791bc42b6f98c94fa69",
+        "url": "https://files.pythonhosted.org/packages/27/b8/241fe2a557e81b006469eb5f1e3c52aba7ed58b9dd4bae69109bdc5217ae/pytest-xdist-1.8.zip"
+      },
+      "1.9": {
+        "sha256": "bde636c6fb50ecd338127e5ac6a135cc99a5a837fe045275b014979b665f5fa7",
+        "url": "https://files.pythonhosted.org/packages/1d/72/f533bbed2857966abb633718ce7c1554173f2da1d35c0c810499982e6006/pytest-xdist-1.9.tar.gz"
+      }
+    }
+  ]
+}

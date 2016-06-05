@@ -1,0 +1,110 @@
+{
+  "latest_version": [
+    "0.2.15"
+  ],
+  "meta": {
+    "description": "Seamlessly serve the static files of your Flask app from Amazon S3",
+    "homepage": "http://github.com/e-dard/flask-s3",
+    "license": "WTFPL"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "e835456fffbcac46c95773d6a928915421f003d2a1838b87a3a43fb9b6ad6d14",
+        "url": "https://files.pythonhosted.org/packages/b9/32/1724ececb44d1efefbebba2a89dcf9776c84dc0e64a9d7bc95b08f44473d/Flask-S3-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "d492684c3f24b3132004627f548938707ec5a1dd1ae0bdbe596048b11b6606c6",
+        "url": "https://files.pythonhosted.org/packages/55/27/efd378edc25b71e9afe2c74b9e678c59d7f05849b0625383ea852af93bd0/Flask-S3-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "a2be7d157a6976972578b6c38cd7bb877d9f3681f67601676aa1dcf892b41257",
+        "url": "https://files.pythonhosted.org/packages/c5/c8/d42adf983d23a63918530b8014fe4f60e6c40e2602e2fdbbd3b3050cc789/Flask-S3-0.1.2.tar.gz"
+      },
+      "0.1.3": {
+        "sha256": "daeeed6aa18b7103a901129ba38882909eec585167d05795dd55098948ba8351",
+        "url": "https://files.pythonhosted.org/packages/ce/67/d510515811ac97f89e8496e4bc410211193731cf412cf3f5052a79cd7a2e/Flask-S3-0.1.3.tar.gz"
+      },
+      "0.1.4": {
+        "sha256": "d19d6e5310bac67c8b6cbf0569d1622d9aa2c99e39cd029b85802cf322a66862",
+        "url": "https://files.pythonhosted.org/packages/0b/1f/75d4d3742ac47822993948e9e5d0be8153fb52d2106621fa9e1d387fbef7/Flask-S3-0.1.4.tar.gz"
+      },
+      "0.1.5": {
+        "sha256": "decf080c3a9cc847086e46a96150bc4398ebfa6a95df23c103705abba71887b4",
+        "url": "https://files.pythonhosted.org/packages/79/2d/b78cacdde84ab145f7475cd1efb5059669f4de1c1198293ad9f4dc658be6/Flask-S3-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "fb01d46e714a3df394c0e6fe14f8826e6b8675d025a97860cd5c9bb851967021",
+        "url": "https://files.pythonhosted.org/packages/29/c2/4eb0e0a3eb1bde57a0da5466a6dd5bdab9e80a9b7ea4c5626486ed6115e9/Flask-S3-0.1.6.tar.gz"
+      },
+      "0.1.7": {
+        "sha256": "ae1be05a6ba2524f3aa56d5af1810bcc3e7a6bd5e81d90ee7370f3dfaa190dbd",
+        "url": "https://files.pythonhosted.org/packages/e5/9b/de99119bcbbb14f41bbd7b09125ad46971d92e39326106cef267c6bf3516/Flask-S3-0.1.7.tar.gz"
+      },
+      "0.2.0": {
+        "sha256": "847b430e1eea0dbf68d2fcbe35ece200ad5e37f106b6e1706016e321472b5234",
+        "url": "https://files.pythonhosted.org/packages/41/00/eb29f6739e21f61dcd848b4cc96b758fccfa29408b40e07cee8771734e37/Flask-S3-0.2.0.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "3d7e52a894b9d94c621038499a8251edd6910b3eec7f0311b2ea6b2ff828b18e",
+        "url": "https://files.pythonhosted.org/packages/00/47/7f68cbb44e8ca2427076d382904c4a3040077dac0b8fe4f4fa883334dee5/Flask-S3-0.2.1.tar.gz"
+      },
+      "0.2.10": {
+        "sha256": "d13103505336287b26ceff3f5702ff4864313b64f63939b147dde36f64780a84",
+        "url": "https://files.pythonhosted.org/packages/97/fa/1dd190848268fb68ac3402e9022451299e42f63499e5e4e38c5b2750e1fc/Flask-S3-0.2.10.linux-x86_64.tar.gz"
+      },
+      "0.2.11.post1": {
+        "sha256": "353e0249f59876086aec7f9b65df175d69c7019a6771917b810bf0461161d651",
+        "url": "https://files.pythonhosted.org/packages/98/9f/8229a6c36e646ae919365f862ce5bf925332da3084c4848b917f1ee2f24b/Flask-S3-0.2.11.post1.linux-x86_64.tar.gz"
+      },
+      "0.2.12": {
+        "sha256": "05b7e75458c2b293eb36b93e4cd050cbf33af30b21652a373749fa8bf664c810",
+        "url": "https://files.pythonhosted.org/packages/da/e1/5eb927a6d340e54e1146b55b5e63999fd211f6e85b620551afa039aa51b3/Flask-S3-0.2.12.linux-x86_64.tar.gz"
+      },
+      "0.2.13": {
+        "sha256": "44a16fccc118e0f423afa352a88a4a55926473d298072c85fd686287fa9294bc",
+        "url": "https://files.pythonhosted.org/packages/dd/b4/833c29a34d8f6e13e94f820a6cf506fa366f576216ac0a5207787e5504ba/Flask-S3-0.2.13.linux-x86_64.tar.gz"
+      },
+      "0.2.14": {
+        "sha256": "47dcc0bf1f2e781df77b5be7d947bc99dd6f89d9b02fbf4c865d66b34f8632fd",
+        "url": "https://files.pythonhosted.org/packages/a8/43/bd4becfcf2f13c4552dbc601871e3d0de1c89761cdd871a5f764370dbb22/Flask-S3-0.2.14.tar.gz"
+      },
+      "0.2.15": {
+        "sha256": "d20cec513173a3216c9269eb4587e798df80a349ed2c66fade7fa8959e5c81f4",
+        "url": "https://files.pythonhosted.org/packages/82/32/80c2843e2e6344b4dc40954e380056cc1df20b0a877bf719eeb1f59876a5/Flask-S3-0.2.15.tar.gz"
+      },
+      "0.2.4": {
+        "sha256": "136758933ac4fd9e3b1ef63e410e6fc98364518ed47e0d4f418f2056f6a3ede9",
+        "url": "https://files.pythonhosted.org/packages/4d/f8/47fbe00e9d652c05d88bb785e4b3512bca320bd1aeb2a1477b5b3f24af34/Flask-S3-0.2.4.tar.gz"
+      },
+      "0.2.5": {
+        "sha256": "8c8f53b68a48ad2406f4b4ec9cd37d65656e517dcde96ca81c78189488fd0343",
+        "url": "https://files.pythonhosted.org/packages/b2/73/31b58517e63ee6ef6d5e99efb6a07777f28def708c664ac0241ab0401ae3/Flask-S3-0.2.5.tar.gz"
+      },
+      "0.2.6": {
+        "sha256": "5f51b82f72ca07997cfcce733c3055bc82d5b912657e270ddf5f8c52095872fb",
+        "url": "https://files.pythonhosted.org/packages/f8/7d/b595fcafc0b311310efd839328aa6ab322bc3e1c51d15453bff3ab201975/Flask-S3-0.2.6.tar.gz"
+      },
+      "0.2.7": {
+        "sha256": "5fee031ad258d1de4a0db85d030bbc268ff2dfda45422f59e836b5aa6bedb5be",
+        "url": "https://files.pythonhosted.org/packages/3b/94/04c821f1b59ae03d9224e94d250e2c355244f5dfd1a6da87bd3e2341b4d5/Flask-S3-0.2.7.tar.gz"
+      },
+      "0.2.7.post1": {
+        "sha256": "932dea2c643fecfbca6404714cc873a628c10c906d360f4da3da7b3c79d001c3",
+        "url": "https://files.pythonhosted.org/packages/c6/f6/d686af4a3551e7a6f0c4c93266c71f5f32a951b083c65c9ce9c9f5a203b2/Flask-S3-0.2.7.post1.tar.gz"
+      },
+      "0.2.7.post2": {
+        "sha256": "dd2d83bf14491a766c3a175c0a709ccf0adf92fa5741014aedeadfa0e2d30ca7",
+        "url": "https://files.pythonhosted.org/packages/91/a9/5ad612c2ea329aaac17608c9f698fdfb7bea3ad719b932cf857f48bdeda1/Flask-S3-0.2.7.post2.tar.gz"
+      },
+      "0.2.8": {
+        "sha256": "775d528a47733f5d82e1ca040650b923f94b946e596008829b0e1f217ca2faf0",
+        "url": "https://files.pythonhosted.org/packages/80/54/0a02b71c442cab97e0edd3a6fbf00f4cf55055f7be77c058a32a8886acbc/Flask-S3-0.2.8.tar.gz"
+      },
+      "0.2.9": {
+        "sha256": "455603dd368b18234f8d7c8d15f0b6160348c0ed24a5125251e86211c5f2fdd9",
+        "url": "https://files.pythonhosted.org/packages/18/95/f5d0885218c3a988e9820609da80c738fac2a4b6c9f4660da1bb3a7c24a3/Flask-S3-0.2.9.tar.gz"
+      }
+    }
+  ]
+}

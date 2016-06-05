@@ -1,0 +1,358 @@
+{
+  "latest_version": [
+    "1.0.1b69"
+  ],
+  "meta": {
+    "description": "A role based admin UI for Django that produces a user friendly and beautiful UI",
+    "homepage": "https://github.com/appressoas/django_cradmin",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "1.0.0-beta.005": {
+        "sha256": "f6cd23fa6b5ed03197ecca21796346ff9827756f4a912773332bccaffa3855c6",
+        "url": "https://files.pythonhosted.org/packages/a6/e3/8fbf416d8fdfb4f459726abfdeba3d3043f07993dcd422e0079d322cc605/django_cradmin-1.0.0-beta.005.tar.gz"
+      },
+      "1.0.0-beta.017": {
+        "sha256": "ff34a9a125ead08ce178860cfcbd8987f11011e995230ffc3435c3db84c407d9",
+        "url": "https://files.pythonhosted.org/packages/5e/eb/f4d7614b630ffadab0561a77d256f87c78f903fb65aa53d310c0b9caa91f/django_cradmin-1.0.0-beta.017.tar.gz"
+      },
+      "1.0.0b18": {
+        "sha256": "fd5a2e7de8e5ffe55014bd62a1b7eff9de96a5d526349753b2fee6ee9fdb194c",
+        "url": "https://files.pythonhosted.org/packages/3c/5d/935a1fabdbefca425ed473c80db8bdbc62fc5be446c372d97befb34f1423/django_cradmin-1.0.0b18.tar.gz"
+      },
+      "1.0.0b22": {
+        "sha256": "d718b197819f9bf438961fed3f7d1cfc33ceaa2925b000daca08c02fc3fec1a7",
+        "url": "https://files.pythonhosted.org/packages/6d/3b/e2c5444bec611cdd1476e24ba544529a8af1deeea9ba71d50541c0621c39/django_cradmin-1.0.0b22.tar.gz"
+      },
+      "1.0.0b24": {
+        "sha256": "804a65d3313db2cfc254495cce5db9fa4753dea3bfe34286d2b1b1dd3513df3f",
+        "url": "https://files.pythonhosted.org/packages/07/32/229dffff628278c82f2796e69ebe0a820bc6a7129480064abde9972658d6/django_cradmin-1.0.0b24.tar.gz"
+      },
+      "1.0.0b28": {
+        "sha256": "60fd844b83d5e71d8b991d4ba4bfa236a0bf8afd05d62691db1f7886593a2055",
+        "url": "https://files.pythonhosted.org/packages/65/6f/f3e7d6ac39e7424291074f896306dfd452da483e41527054bb2bab7de78f/django_cradmin-1.0.0b28.tar.gz"
+      },
+      "1.0.0b29": {
+        "sha256": "d148a493623b2cf599d20997683edfc2b650081273f59dc6598ed055c50ed36a",
+        "url": "https://files.pythonhosted.org/packages/24/0d/10fcd308595050c05104b14fda8d7fc571324947f3f309afb889820d6d7f/django_cradmin-1.0.0b29.tar.gz"
+      },
+      "1.0.0b30": {
+        "sha256": "5012d6902f7c6802ee2af79c3607e0083cc28683900749eb229d715ba33acd0f",
+        "url": "https://files.pythonhosted.org/packages/e1/17/2217fda029ed41bbf1a9b976636db4281ffeca6e130a129cceb2ee7b7053/django_cradmin-1.0.0b30.tar.gz"
+      },
+      "1.0.0b31": {
+        "sha256": "298fea9ec6207855fe7c1bf05ad2f3323a7d1d26067a01b5c77e390aed01cb63",
+        "url": "https://files.pythonhosted.org/packages/3f/3c/d6468547352f8f45c7f6fa5f10573cd121c0d527eb6d4ca79ffa7c6db094/django_cradmin-1.0.0b31.tar.gz"
+      },
+      "1.0.0b32": {
+        "sha256": "2bcc4ef36d6d545eecafeaf20341c05eb24b1c0936515983405a8ba706233b98",
+        "url": "https://files.pythonhosted.org/packages/a7/86/b0fd969181eaaecd8df53a107e572d0a271ed6dca468105bc78da65cb1c2/django_cradmin-1.0.0b32.tar.gz"
+      },
+      "1.0.0b33": {
+        "sha256": "37e0580008f7610edebc3f25f9f5f6a33119e0dc0c4a2ec75212d0b353a8f64d",
+        "url": "https://files.pythonhosted.org/packages/00/1a/2da26ef275b67b48c46c21f16183c2dd4f6d44efcc1ff402dffdac1f278c/django_cradmin-1.0.0b33.tar.gz"
+      },
+      "1.0.0b34": {
+        "sha256": "970cd4ea33d193161334f5a924e6895b3773b90af7a4fd8b51d4cd5f66dbefaf",
+        "url": "https://files.pythonhosted.org/packages/58/75/628485f15e69c8298a0ba864ef8596adc1b22cdd8ada0f638883233120ac/django_cradmin-1.0.0b34.tar.gz"
+      },
+      "1.0.0b35": {
+        "sha256": "b0f6725a18fe55ba8b99e059b4c8f9206904a30fa1acfa363ba60a159fb425a2",
+        "url": "https://files.pythonhosted.org/packages/49/40/006a108597f96104f5daede94298589e58d430d53ad7c2fce417980922a9/django_cradmin-1.0.0b35.tar.gz"
+      },
+      "1.0.0b36": {
+        "sha256": "88d818fa9b7f446829aad00213f8889be7a0376d8b43be6ab56c6c5f31b731fa",
+        "url": "https://files.pythonhosted.org/packages/98/47/f3dcc42b8f3c5e2ce18cc58c0611f4a7590fb2688b7983aec479a62859e2/django_cradmin-1.0.0b36.tar.gz"
+      },
+      "1.0.0b37": {
+        "sha256": "706e02b29b12ed63f9e8b3c129bf43383bb65ed30aca4928981e11825505b2d1",
+        "url": "https://files.pythonhosted.org/packages/9c/4c/17398506e7f883af7a0d3bc5a4799c24187960b46e16fe2ffb23cc04a403/django_cradmin-1.0.0b37.tar.gz"
+      },
+      "1.0.0b38": {
+        "sha256": "9c602a7725af7385e558b88902c5ca2dce8e19f9c04638f34f68b1f394fb229f",
+        "url": "https://files.pythonhosted.org/packages/dd/82/22a06f872d20593be07f8f55953bc18f6db758820ba45068c8a1f088b1ee/django_cradmin-1.0.0b38.tar.gz"
+      },
+      "1.0.0b39": {
+        "sha256": "3ce29468e0ff87f25a32c975b92e915c97302610b6316dd124ee7421999abf37",
+        "url": "https://files.pythonhosted.org/packages/9c/ad/d47d17e86db3808bc1d9bfd0022ef216a7b093594fb16d0d0dd4c55983a3/django_cradmin-1.0.0b39.tar.gz"
+      },
+      "1.0.0b40": {
+        "sha256": "a1655bddd2ad3b7a0552929a6594b135768081b9b214e2d3ce44d90a76894a88",
+        "url": "https://files.pythonhosted.org/packages/2b/e2/b3d5a26c5a8e0621936e3f8971a349cdecf4544a0e7871cf27c3fdad55b1/django_cradmin-1.0.0b40.tar.gz"
+      },
+      "1.0.0b41": {
+        "sha256": "773b2b70076c137cd5a81fd768cbdb997513073818e130d65c8e967383fca49f",
+        "url": "https://files.pythonhosted.org/packages/d3/54/d3a96f71fd691359f0c7c398427cc1eee1daf9907c912b20f2073285c9ca/django_cradmin-1.0.0b41.tar.gz"
+      },
+      "1.0.0b42": {
+        "sha256": "7441401e7ca0c267965c48aa8efb340bc832fc88c35df5dcd1082268a8f34df4",
+        "url": "https://files.pythonhosted.org/packages/ac/b1/ec4e6ff7635e61da5d7ceb92612161b8af6233477734a6ca901d38a922d1/django_cradmin-1.0.0b42.tar.gz"
+      },
+      "1.0.0b43": {
+        "sha256": "54d99e9ad61ae69f848ac06f782b410df01c092cc55fc43636f265153c7917b7",
+        "url": "https://files.pythonhosted.org/packages/db/3d/28fd268d902c4e2a3039380830e584b46682cb761912fb2d3ad3fb8fa73a/django_cradmin-1.0.0b43.tar.gz"
+      },
+      "1.0.0b44": {
+        "sha256": "5d310334892b039adb72cc3c83f595947aa5c189c34c47f8584f17203c962a9a",
+        "url": "https://files.pythonhosted.org/packages/2e/59/906bb821f02b2604c699e14fe8d035772bc2ba264509ac658b15dec1bd81/django_cradmin-1.0.0b44.tar.gz"
+      },
+      "1.0.0b45": {
+        "sha256": "086c8bccb9c0fb6c4cb031582bfe0485116162eb7346c8b290502e15efda0071",
+        "url": "https://files.pythonhosted.org/packages/86/9b/076d7e222bae561eaf0e368681aacd0aa29a6dc8bc1f1eef82006c69f810/django_cradmin-1.0.0b45.tar.gz"
+      },
+      "1.0.0b46": {
+        "sha256": "49e4b4b843dcb67ae3a8c6f7240d2c4f6ce08627f5e94aeab645500347762d6d",
+        "url": "https://files.pythonhosted.org/packages/52/b5/31a5e61d9710990a04628038ccbc83d13c0faa64055a9fedd3f5e5655eb8/django_cradmin-1.0.0b46.tar.gz"
+      },
+      "1.0.0b47": {
+        "sha256": "884baad98c3ea611964d7e30bad996623ab307fe4690bffb427db9f77d5698a5",
+        "url": "https://files.pythonhosted.org/packages/c7/05/98f5dc37e53e40410602371a21c7e601fb81197afab3f25c321fc0d95f21/django_cradmin-1.0.0b47.tar.gz"
+      },
+      "1.0.0b48": {
+        "sha256": "fcf4219c4b421a81597ea0c86e37b4682cf02897cb6c54123ba912824ce81247",
+        "url": "https://files.pythonhosted.org/packages/83/28/5890112f9f27e78475d99d41e99e324a1507fc9359a1a3cd9f08e0e4bd74/django_cradmin-1.0.0b48.tar.gz"
+      },
+      "1.0.0b49": {
+        "sha256": "5dbc39ec96c495968730ee7a4257d97b445058a1e5f2f5248c4ccb27bc672720",
+        "url": "https://files.pythonhosted.org/packages/de/18/671b8aca7e422fe4420b94049647695de5dc3c6f04591ce4ec98dcedb482/django_cradmin-1.0.0b49.tar.gz"
+      },
+      "1.0.0b50": {
+        "sha256": "3542d5d9b8fbaf45214d602be4f9496e8d8cd206e894c39361450b84743cff38",
+        "url": "https://files.pythonhosted.org/packages/77/61/96ca79fa471c7884f32186efc5462671c7df954dd1268400866e8f292af0/django_cradmin-1.0.0b50.tar.gz"
+      },
+      "1.0.0b51": {
+        "sha256": "1606e822601a0bf51fdf6fb679c9b3d7dad6c5097b49aa284911c847e0661574",
+        "url": "https://files.pythonhosted.org/packages/24/ea/e9851999aecbb9074a92dbc8d3b5756165951a7f45e6f308a0bbb52991c5/django_cradmin-1.0.0b51.tar.gz"
+      },
+      "1.0.1b1": {
+        "sha256": "5fe8066140b5b91019a7a31d4925a251f68393e58fc24d1d286bd6314eb87cec",
+        "url": "https://files.pythonhosted.org/packages/0d/fd/dfbad04a69ee122a702a7ef7aed2a4c5842b89593523d35fdc63e599ae49/django_cradmin-1.0.1b1.tar.gz"
+      },
+      "1.0.1b10": {
+        "sha256": "4d43cc27fb4533010e829c4f1aea0d9e7634d3037b8f349e0b53e5085a05d043",
+        "url": "https://files.pythonhosted.org/packages/5b/db/4d259ae9b32a92a373db9849d2e2c775cf81544bce3870d9338d4940e4b1/django_cradmin-1.0.1b10.tar.gz"
+      },
+      "1.0.1b11": {
+        "sha256": "ffb4dbe251e19f44a050c113a8ede03c12d9bfe64dcb35b2878150c4ae9f3414",
+        "url": "https://files.pythonhosted.org/packages/ab/ce/5437e244770a8c3601fb53db75b72d1e7925fc251f0a5b94de2e29976272/django_cradmin-1.0.1b11.tar.gz"
+      },
+      "1.0.1b12": {
+        "sha256": "ae0752113ee9ead442e3ffde3095bd6acca079e49a5860ed55f4903b4f1b896a",
+        "url": "https://files.pythonhosted.org/packages/06/f1/43dc3fb3f39dc27678dab25316bc75848d1210c7ee6e956975723a4c773a/django_cradmin-1.0.1b12.tar.gz"
+      },
+      "1.0.1b13": {
+        "sha256": "62cdb3f5a01926a4d697a3f833bf879ecf3ab7828e759fa46f265cacd798d279",
+        "url": "https://files.pythonhosted.org/packages/cd/23/1b575edb1cad7b9706d3f65bda0e96ab24185eb897b3649280056efabb9a/django_cradmin-1.0.1b13.tar.gz"
+      },
+      "1.0.1b14": {
+        "sha256": "6820e17f516b496f33a36d2910a82be92c695509bd953f34f7eb821b0d55c861",
+        "url": "https://files.pythonhosted.org/packages/2e/86/1750942143d1f013d9f16c8cb817c5606496577a83c4a533a4e64817157f/django_cradmin-1.0.1b14.tar.gz"
+      },
+      "1.0.1b15": {
+        "sha256": "b757c7b2000776bd8716edf8b3163d2eaf219bf0a06b3ac15e832b7e51ce08fe",
+        "url": "https://files.pythonhosted.org/packages/da/50/5b765a62a8c401872e875bf364ff68c5c132c919e1391e8907b22e4193c5/django_cradmin-1.0.1b15.tar.gz"
+      },
+      "1.0.1b16": {
+        "sha256": "8324a80533a3a6776b20630032f241acc5a1985746e6c4398c05a9b0c9f7bcb9",
+        "url": "https://files.pythonhosted.org/packages/35/8b/3d144ef5472a555b434511aed23ff84dffd2ccd995fdf818e853f7065cbc/django_cradmin-1.0.1b16.tar.gz"
+      },
+      "1.0.1b17": {
+        "sha256": "535b66c62a064e8c1a42d35087b56b857b7fd76ae7bc3e2a39be9457bde6377f",
+        "url": "https://files.pythonhosted.org/packages/76/58/2524895b8b0ef69a93f107d1b8273772290d954c76b4da791634a4a74fee/django_cradmin-1.0.1b17.tar.gz"
+      },
+      "1.0.1b18": {
+        "sha256": "3e1960625fa0afae43c2f8b5df3dec2b4546df092c32df61b8160da81331ff57",
+        "url": "https://files.pythonhosted.org/packages/7b/e8/8c5086f26d4113c15b6aea9d48a33e18418cc07edbff3881bd9787994b33/django_cradmin-1.0.1b18.tar.gz"
+      },
+      "1.0.1b19": {
+        "sha256": "2458a1fd8bda59fa06ed72a92c298253b72b476bb530756075ee332a4937ebbc",
+        "url": "https://files.pythonhosted.org/packages/b3/90/bf6f7c4d20c628b30f7dbab6b876daaa7961463545f75fe67931d6bbb95d/django_cradmin-1.0.1b19.tar.gz"
+      },
+      "1.0.1b2": {
+        "sha256": "649f74b40d7a26d004533dec7507828d54ac923bb5b4cb000d25815db684f7ee",
+        "url": "https://files.pythonhosted.org/packages/3d/90/f3a58d556dcdc6ec693dd4b04d6471f8f8c14441504f96edaa132a2cd181/django_cradmin-1.0.1b2.tar.gz"
+      },
+      "1.0.1b20": {
+        "sha256": "317558076f2c32160877696aac3dbab497f20bc4ce5227281a531ed5562d91f5",
+        "url": "https://files.pythonhosted.org/packages/63/30/4fdb3142a595560113ef8a889a6d548d87fc8b87156ae745a3ad02ba6a62/django_cradmin-1.0.1b20.tar.gz"
+      },
+      "1.0.1b21": {
+        "sha256": "c3ab4509a855e1e6feafdcfc430953dfdfd5114edd649526d86a28242f17d812",
+        "url": "https://files.pythonhosted.org/packages/bb/12/11c9decce65d3b23a12be6b987ed3db35d4347675a787a51e65cb18f3bec/django_cradmin-1.0.1b21.tar.gz"
+      },
+      "1.0.1b22": {
+        "sha256": "7d41f0b6b45ba7de21a6d31dfaaccf219c72d77e46a8309d265eb1b777439592",
+        "url": "https://files.pythonhosted.org/packages/67/80/9c3b5cbe5c50982c7e70c4564294590a94fc727e584faff7be4af5f99494/django_cradmin-1.0.1b22.tar.gz"
+      },
+      "1.0.1b23": {
+        "sha256": "0bb146c55e1637e5c88cc70f06af6d12109ee92f007a67086ce4218b42527d54",
+        "url": "https://files.pythonhosted.org/packages/d7/c0/d7079d224cdc56d72ee77510e438c90e07306ba64249b6db5cf15c2f98bb/django_cradmin-1.0.1b23.tar.gz"
+      },
+      "1.0.1b24": {
+        "sha256": "2155ebf8f294d6c79d2e27a165aed19f50aba9a7f2c991d9cee80904c278a850",
+        "url": "https://files.pythonhosted.org/packages/5d/26/bb5b40ab9e173cd10df97736b3b1a469c4b76def7050f2567882a7402a02/django_cradmin-1.0.1b24.tar.gz"
+      },
+      "1.0.1b25": {
+        "sha256": "6973af824e17bf9581ce1cc2efa601ba808f39e9e373aa05d549e41d05d205b8",
+        "url": "https://files.pythonhosted.org/packages/73/f9/7e43d28b2201ff8a8c011d1e34879156c711d5965b11c63d7780323e5933/django_cradmin-1.0.1b25.tar.gz"
+      },
+      "1.0.1b26": {
+        "sha256": "e9807b5e6fa50142fb1175acf6ad3f9a7d2e7013b83acaeeff47dfa83a41b5df",
+        "url": "https://files.pythonhosted.org/packages/19/e8/b0c876ea36fae054dc8cd3317899264c1ee8b9cc07c41c1502695cf1729c/django_cradmin-1.0.1b26.tar.gz"
+      },
+      "1.0.1b27": {
+        "sha256": "1047901d59d170afa6ebd8035f68d23ef8fb77ccc6c2a0fd04ee36d32f71b6c2",
+        "url": "https://files.pythonhosted.org/packages/19/b9/bd8f4bef47db1b6cf4692e2af70e2d8dc2c7edbe3cdef9f618fd675d8f79/django_cradmin-1.0.1b27.tar.gz"
+      },
+      "1.0.1b28": {
+        "sha256": "dc1ee281b588e8a6866930c2898f258121eca1c0ab5396277cec555087dce9f3",
+        "url": "https://files.pythonhosted.org/packages/13/c4/97484eca6fdeb883344aefba7b86b53217f0db221b6d2725c885260dfb8e/django_cradmin-1.0.1b28.tar.gz"
+      },
+      "1.0.1b29": {
+        "sha256": "7a7686014ef91b07ea5a64e7877dcfdb57cf5003f352e24bcc4d97d671b2a41c",
+        "url": "https://files.pythonhosted.org/packages/49/7d/f4442a97402702e70371261fdac57655044f6666d1466e9432d3b780c045/django_cradmin-1.0.1b29.tar.gz"
+      },
+      "1.0.1b3": {
+        "sha256": "f5d2a2c1c24f04618c884c4532f3ecde4b36ecf010c4e71494c38c4d1bff0675",
+        "url": "https://files.pythonhosted.org/packages/2b/72/70ebd6d0c0055c718c063b335287eaa590a1507e5189ed62481f99661417/django_cradmin-1.0.1b3.tar.gz"
+      },
+      "1.0.1b30": {
+        "sha256": "e9d0c7d97ada6b83a64ab2889dd5635735dfb3509ac00cf23ec2dafd65a2f7c5",
+        "url": "https://files.pythonhosted.org/packages/71/98/20f6078569a266bf6e5fd315be2d04fe2ff52a5bd345e7bd4a1d06516cee/django_cradmin-1.0.1b30.tar.gz"
+      },
+      "1.0.1b31": {
+        "sha256": "78160e321205d5997003de54f22dacddc64218f4738d56966c4f9cb073497990",
+        "url": "https://files.pythonhosted.org/packages/6d/57/c4b03df69a4a3d85304bcb2cc5182db0a017aa4522bc94028a4cb187f82a/django_cradmin-1.0.1b31.tar.gz"
+      },
+      "1.0.1b32": {
+        "sha256": "02d43bf993d570bf8ac7f993fe2aea6413542e6de2fe9291a6fae9f79feac85a",
+        "url": "https://files.pythonhosted.org/packages/14/d6/0b750822ca5a43ca25acf7bae916971c00d5adf073ded95614edf13080d4/django_cradmin-1.0.1b32.tar.gz"
+      },
+      "1.0.1b33": {
+        "sha256": "d0c3781fbd6a33336ba203ef55f2111f043f73841038f033acfa1be81c202326",
+        "url": "https://files.pythonhosted.org/packages/db/dc/94f291994503458800c8dc021685d59f913c1550c77f73cc52cd71560108/django_cradmin-1.0.1b33.tar.gz"
+      },
+      "1.0.1b34": {
+        "sha256": "0f0ad7b9b78af34f199a1eabe5ad7f92ff4534040f42a858e0f002ed4018cb26",
+        "url": "https://files.pythonhosted.org/packages/eb/69/af6af299eb01d26091f2e3d098a418deb9a0bbe0d24d1c9ce3a8a23d00d5/django_cradmin-1.0.1b34.tar.gz"
+      },
+      "1.0.1b35": {
+        "sha256": "2111c4b117e17f91c2efbd6811d33e3a2322c3e15ed459d7f1ec5cb9cf8f5136",
+        "url": "https://files.pythonhosted.org/packages/51/f6/2a02281d7044605e8ca87f4546e20adae6f6fbe8ffd1060fcc80f89753e1/django_cradmin-1.0.1b35.tar.gz"
+      },
+      "1.0.1b36": {
+        "sha256": "b87f2045fd19af8c23b3e82932455d63aaef35475c322140afdec96f34297821",
+        "url": "https://files.pythonhosted.org/packages/31/7b/d7985529f52589ffbb4ebd6061652e6a11f4d4d5f40f8590f07600f6d739/django_cradmin-1.0.1b36.tar.gz"
+      },
+      "1.0.1b37": {
+        "sha256": "d36c9cf4a32db56a69489ab37510e70e431f7ea90a275994e5eb39a69e829baf",
+        "url": "https://files.pythonhosted.org/packages/ce/09/0b5f36f07ce9e0a9640d682fb38730f0579f7262218807318040a40c14c8/django_cradmin-1.0.1b37.tar.gz"
+      },
+      "1.0.1b38": {
+        "sha256": "a305ba0ec0d56837d5ad095bceacaec052a536d4c353a28ef01d4cf7adc288b2",
+        "url": "https://files.pythonhosted.org/packages/cd/0f/6e4d7573657ec36e60aa1eed3dae61d1e636ebd34ebff80a2ecbb680945c/django_cradmin-1.0.1b38.tar.gz"
+      },
+      "1.0.1b39": {
+        "sha256": "c387736cea89e124439d19587c8ce69d316ca7c5ad013fab5747f1fd93789a5b",
+        "url": "https://files.pythonhosted.org/packages/1b/c4/bb3e5ba911e66902b7aa8e5889d1567a27bc9aa22332c4f54ba36bcd7fcc/django_cradmin-1.0.1b39.tar.gz"
+      },
+      "1.0.1b4": {
+        "sha256": "5303d71b7f6065e13d60ab4a443810fe3d21f473baf24ab57b9c7d0cbc547b7b",
+        "url": "https://files.pythonhosted.org/packages/87/af/b953eb51e1a5ba6453a26769656c278fcbde562aa5da365f2fe3d3ff010b/django_cradmin-1.0.1b4.tar.gz"
+      },
+      "1.0.1b40": {
+        "sha256": "a70a8cf64b2cf5be062769dac0d68f83c980c43db33bb25dd23e2ba4446365f3",
+        "url": "https://files.pythonhosted.org/packages/11/9c/ceda22f83391bc1112d9db6a92e3d5507d604a371ef521475a4633863322/django_cradmin-1.0.1b40.tar.gz"
+      },
+      "1.0.1b41": {
+        "sha256": "323e2b10ee70275b76a99a27249461a629ca7ecf6099dca57396537a2d9dea72",
+        "url": "https://files.pythonhosted.org/packages/07/7f/4db5c3cd856dbb4f566ba0e8053baf97ccb98fc2a929aee71cfbd5aecf22/django_cradmin-1.0.1b41.tar.gz"
+      },
+      "1.0.1b42": {
+        "sha256": "4e5526925183e88f755c2d8c4ac67ae036f351af2f6a1bc1dd0fef44ac8c458f",
+        "url": "https://files.pythonhosted.org/packages/e3/ad/d55794abb5f97ab70cd3a52a83446b6f2b46c17e75c03a3f4f64ab4313df/django_cradmin-1.0.1b42.tar.gz"
+      },
+      "1.0.1b43": {
+        "sha256": "2835700c07d4332b801931895c9e8bf7af3466c04b557edf747e99b6572539d5",
+        "url": "https://files.pythonhosted.org/packages/af/fb/16f71a6468726b7e2fbd3669f6e27433d60149057f518d12de9ad2424d97/django_cradmin-1.0.1b43.tar.gz"
+      },
+      "1.0.1b44": {
+        "sha256": "691bb848463690be7dcd6fbb7c5e97cc33068e3c91fae6a53ab43c62f2872ff3",
+        "url": "https://files.pythonhosted.org/packages/98/c1/24552fc1b62d56196ced8db7ddcb5f532be5fa19391e59a9a3c0b742f0a4/django_cradmin-1.0.1b44.tar.gz"
+      },
+      "1.0.1b45": {
+        "sha256": "59c57d0709a14c6e5152878d6af5a5b9d370f88e03a0f0a37d1bcdd22e011ad8",
+        "url": "https://files.pythonhosted.org/packages/80/f1/efd7c1f6bed141ef8216b8168becbffeceff0927ce38e808e37219ed533f/django_cradmin-1.0.1b45.tar.gz"
+      },
+      "1.0.1b46": {
+        "sha256": "2534bfdc936b019e4826c38432ce917b38a1326a766bab7b8007612d96568374",
+        "url": "https://files.pythonhosted.org/packages/cf/2d/7bf511759365249474c0a12d61b8e90c53d9cd91da360ae83c7f2a60e199/django_cradmin-1.0.1b46.tar.gz"
+      },
+      "1.0.1b5": {
+        "sha256": "54a1d48bc5aef9cfc9d363b59579f2b40992389bc8032f5b7b605e2d3acde8db",
+        "url": "https://files.pythonhosted.org/packages/f3/25/f37d17de55fe438ad7976e437ab77a0864360c5eb28331088c081cbec100/django_cradmin-1.0.1b5.tar.gz"
+      },
+      "1.0.1b59": {
+        "sha256": "de7d14fd460d94bdd937ae8959ba8aa91f9191abd814af5f5ebeb65100f82c73",
+        "url": "https://files.pythonhosted.org/packages/b6/5f/ed473313cc8254859697a147a44ed8db97a0669dade61866b883b2577101/django_cradmin-1.0.1b59.tar.gz"
+      },
+      "1.0.1b6": {
+        "sha256": "d294b05cdb554f6dd853bfe1bb5a309824de3b8e05067fcf1a3bc1bcab8355be",
+        "url": "https://files.pythonhosted.org/packages/11/31/3b210104abd2a08aadf3e066a193180a94cd1201696e69d584857d18524b/django_cradmin-1.0.1b6.tar.gz"
+      },
+      "1.0.1b60": {
+        "sha256": "792f248c11046559085e627e562bb2997dbd8bee6adf662cb3d8e7a918cde1df",
+        "url": "https://files.pythonhosted.org/packages/46/d1/df4d7807842b6def9ca21b9c768f3eb2d8f116e391d1257748328a213085/django_cradmin-1.0.1b60.tar.gz"
+      },
+      "1.0.1b61": {
+        "sha256": "1095cd4229daf29c1ad01c359bcd8cd3331fbffb5972467827792ef766e7e47e",
+        "url": "https://files.pythonhosted.org/packages/71/92/e2f9eba81bfbdea9f3f4767f49ea152ac235921f118781ae499e257e9dab/django_cradmin-1.0.1b61.tar.gz"
+      },
+      "1.0.1b62": {
+        "sha256": "ae3f1206afdf43b22c8ba625641ea0e05155d27604d2222dc315c444974a14c1",
+        "url": "https://files.pythonhosted.org/packages/fa/07/d90dbdf8f760c56e9edd7e5995b9d63107d4cd7f8fcc02b1d195dd1f5d5d/django_cradmin-1.0.1b62.tar.gz"
+      },
+      "1.0.1b63": {
+        "sha256": "2ee393b92776c890a088c52b428dab703efb268ac98ae2f1fafc4f3aba0b6326",
+        "url": "https://files.pythonhosted.org/packages/a7/df/3f3f22cfeca521eeaba7e7d6825e5109b1c15e1c9c7bc20e9af21477d9a9/django_cradmin-1.0.1b63.tar.gz"
+      },
+      "1.0.1b64": {
+        "sha256": "65fa2d96a5f9fe0afbc96f427b929fcd96b57c5179e6a422b787a5843c5a2d03",
+        "url": "https://files.pythonhosted.org/packages/92/44/7fa52e4babe318fda88142785dcdf6c3bfeaf7a2d3c8d1002cf83e5e98dc/django_cradmin-1.0.1b64.tar.gz"
+      },
+      "1.0.1b65": {
+        "sha256": "497afc059b61939ab2e88710d0b42ce20405dcfbe141cb7fc31a1ebf2964cd79",
+        "url": "https://files.pythonhosted.org/packages/fc/66/0b39964c96ae625cb48d3973010681868edff0b5335e7b91609a20b6b7dd/django_cradmin-1.0.1b65.tar.gz"
+      },
+      "1.0.1b66": {
+        "sha256": "88ef280039ae387d1191b3b4243cdb6b0808452903731146bf6cd502edd5fc7e",
+        "url": "https://files.pythonhosted.org/packages/67/c5/4f124932775006966ab6d03c6cf82e6ff70a51243b72b010ce41b9ccc292/django_cradmin-1.0.1b66.tar.gz"
+      },
+      "1.0.1b67": {
+        "sha256": "88d05042d8f80625eb2b9f50c1d1ec0b12a45ad5416e9765fcc3240b0aab5494",
+        "url": "https://files.pythonhosted.org/packages/d9/02/d6c45b87423090ac26f65834213f36da7041d94dc4b525af307ac38aa583/django_cradmin-1.0.1b67.tar.gz"
+      },
+      "1.0.1b68": {
+        "sha256": "4602254d30adb39295b97d221284c584576c55b7b16e2fbcb15a5237d5113c02",
+        "url": "https://files.pythonhosted.org/packages/95/26/dc5c13e9161d0d696d51c0bdab86a691af6551d916c0cc18cc5df716deaf/django_cradmin-1.0.1b68.tar.gz"
+      },
+      "1.0.1b69": {
+        "sha256": "f3c83085fe9e34d256ba70b3fa0815d9eed92f0729748b315b1b9f15ab61da7a",
+        "url": "https://files.pythonhosted.org/packages/7d/92/bd92c7fc47a73e3b533186b858cdf7789080ee3bd0ad3092e61ebeb460df/django_cradmin-1.0.1b69.tar.gz"
+      },
+      "1.0.1b7": {
+        "sha256": "fd3c8cb0f994ec2503e2d03de9c2c928ff3ffcb8743244d1cbf1a1163b2104a9",
+        "url": "https://files.pythonhosted.org/packages/40/23/bb4be49d54169471ff73d2777e6fea8900d1cd17ecc7e53efa7aa02d9ad7/django_cradmin-1.0.1b7.tar.gz"
+      },
+      "1.0.1b8": {
+        "sha256": "14eec8fe1d2b6477b81a0b339d93d7fdc60d112bb7b62897245a738b013cfb61",
+        "url": "https://files.pythonhosted.org/packages/6b/51/3deaba0efbd16525ebf0e49885c337381b01413fd79f605648b1622c6252/django_cradmin-1.0.1b8.tar.gz"
+      },
+      "1.0.1b9": {
+        "sha256": "2fb0ff589c103b4ac8e50af356f82b5ea6974c9d31cbd4f4a27b3d3f3204d656",
+        "url": "https://files.pythonhosted.org/packages/53/15/3c0cab7f4f6379a75c424526d13dbf83d50bb8910264d684d97024af98e5/django_cradmin-1.0.1b9.tar.gz"
+      }
+    }
+  ]
+}

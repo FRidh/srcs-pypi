@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Deploy Juju services from local charms hosted on Github",
+    "homepage": "https://github.com/frankban/juju-git-deploy"
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "7679e2907a3f42cceecff4e29c0f194e5ff5b170ec5db2afb7e78876c50d703c",
+        "url": "https://files.pythonhosted.org/packages/b3/86/a904ba3d91f79104163ef53aadbc7bcd549a14b4cd124b51d1765c54fab1/juju-git-deploy-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "1d2354f77e9e6dc67817cc128ac700a2ff15d93d797b3ea36244c8c083e56fe8",
+        "url": "https://files.pythonhosted.org/packages/0b/d2/72a6de8c7a8a83c626dafc77a1f1b9ee01e336ecf22660acfc89eb9b6cab/juju-git-deploy-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

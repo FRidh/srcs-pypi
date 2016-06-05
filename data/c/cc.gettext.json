@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "Recipe for manipulating gettext message catalogs",
+    "homepage": "http://python.org/pypi/cc.gettext/",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "0.6": {
+        "sha256": "c19281b485be6c8ada09d21690d335910db72046f442ec37f0a1b7fbfe705d4f",
+        "url": "https://files.pythonhosted.org/packages/29/af/9e28bc099d6e1e2b6d016d45e71a49923fbcd44632059fc78b288e9b0371/cc.gettext-0.6.tar.gz"
+      },
+      "0.7": {
+        "sha256": "1ff041b4c5c7c1271e2c2553b4f26b20fcf9d1125c6dfb23e0fc43df01762fa1",
+        "url": "https://files.pythonhosted.org/packages/ef/64/97ee29932c7e27550ef823b7412697f15f2cd0b8844c91aaed77fb9cda43/cc.gettext-0.7.tar.gz"
+      }
+    }
+  ]
+}

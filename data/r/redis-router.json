@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A redis sharding library/api for your sharding needs",
+    "homepage": "https://github.com/emre/redis-router",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "5124e9cae0e2f304aeb10935ff725fb5a6335fef2eecfa244498d735d8eb429d",
+        "url": "https://files.pythonhosted.org/packages/99/c0/14bb258eb9167e01ea713aa899f0e4003da1e7d856747cf348b3b5098d10/redis-router-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "c31b8c734dc08feac38efee514d11435a430f5b8d1e25a3fe3cc339e00cd9926",
+        "url": "https://files.pythonhosted.org/packages/01/87/1d207e62e85bf3c2379288e98804c968b59bb4f941f2f3327c6f8d603e0a/redis-router-0.2.tar.gz"
+      }
+    }
+  ]
+}

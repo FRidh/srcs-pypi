@@ -1,0 +1,38 @@
+{
+  "latest_version": [
+    "2.1"
+  ],
+  "meta": {
+    "description": "A portable, lightweight MessagePack serializer and deserializer written in pure Python",
+    "homepage": "https://github.com/vsergeev/u-msgpack-python",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.4": {
+        "sha256": "99bc884161359d4409941e35b34030eb3f18fb6dc3f9eae99ac6e36297f49ab4",
+        "url": "https://files.pythonhosted.org/packages/b8/e3/cdab32b53b98c747d647b926a295e483da6582ae8368bef668c981e5432a/u-msgpack-python-1.4.tar.gz"
+      },
+      "1.5": {
+        "sha256": "6d0e24b7fccff406ea185d3aeb679955d757bd5d3f8b840d95cc0edf5a895026",
+        "url": "https://files.pythonhosted.org/packages/79/f4/9503377e0931683cc617cfa90630eea006d055f58755dfb3ff66c28e9af2/u-msgpack-python-1.5.tar.gz"
+      },
+      "1.6": {
+        "sha256": "669d6f6e1b79cf98dd8a344f06218ee3f9c61f6317d82f88445a0b1d69855c3b",
+        "url": "https://files.pythonhosted.org/packages/32/e6/264cfcfe6fa457fa12796d767815fd859b57cec640b1e8637585ee39a192/u-msgpack-python-1.6.tar.gz"
+      },
+      "1.8": {
+        "sha256": "135e90ab9c2e4748621223e9caa24dfc0db35af792d27b5530e0ef69c24652af",
+        "url": "https://files.pythonhosted.org/packages/60/72/20775223d64ca52f74e65bb908045d438eb98d78892c1fea66a3a039a125/u-msgpack-python-1.8.tar.gz"
+      },
+      "2.0": {
+        "sha256": "de8e0a28440e2e76da2f7d162af9e0f7dfc64a090e10640d8f04834cca9927e8",
+        "url": "https://files.pythonhosted.org/packages/08/08/eae42b7f889a8153fe2868f1a54fa924de7b2fe1bb51100f5ae22458ea16/u-msgpack-python-2.0.tar.gz"
+      },
+      "2.1": {
+        "sha256": "66a39ddc6830be29b6d304dee9d4ab37104550ac4565eab1aa4c2bd3d34d759f",
+        "url": "https://files.pythonhosted.org/packages/b7/8d/791f037a0954f98a8eceb09c7c14babb97db0a81c985108bb21939b801eb/u-msgpack-python-2.1.tar.gz"
+      }
+    }
+  ]
+}

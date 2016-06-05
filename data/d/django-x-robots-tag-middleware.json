@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Enables returning the X-Robots-Tag header based on Django settings",
+    "homepage": "http://timlwhite.com",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.1.5": {
+        "sha256": "1a2088466a5977d63ae51b620b1db1d17331ee80895522c1a33bead4ae1f31b8",
+        "url": "https://files.pythonhosted.org/packages/cf/39/32e71c3f620ab086e770e5d2eab84b11860047112c5ad0599ea2169a2457/django-x-robots-tag-middleware-0.1.5.tar.gz"
+      },
+      "0.1.6": {
+        "sha256": "15aa01efcabef2e95aab5da655ab80f21bdefd77f18a23103cccaef12546e397",
+        "url": "https://files.pythonhosted.org/packages/22/d8/9fd014be547965e8518d30d4e4e411e25d27f2573b29cc2a71ef0f013250/django-x-robots-tag-middleware-0.1.6.tar.gz"
+      },
+      "0.1.7": {
+        "sha256": "ef93feacf47be4250c04e74351671df703e443d26ea5cb25d35ea823d20aa0f7",
+        "url": "https://files.pythonhosted.org/packages/f4/6b/ddf73e8f079d01fd61b766d36e80c2b6d60edd940f70d40acf50e9a87a3d/django-x-robots-tag-middleware-0.1.7.tar.gz"
+      },
+      "1.1": {
+        "sha256": "6d2a101c792c3bc1426527047d1b0425434b4a88c2e4e6c8aa7b5797438ee49f",
+        "url": "https://files.pythonhosted.org/packages/dd/d6/d3e415a1bf8ae056ff82e1d7f78560920e4d6c3560a2ecb08f6725b85689/django-x-robots-tag-middleware-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "e2814d65cc0ad45d299d52c54e8e071ab03de55ef349085f3bb2a9f5b8b46bb5",
+        "url": "https://files.pythonhosted.org/packages/11/1d/32afd30bca110ff071ae7f18ecfebf0025d517db0edc9b258dfaa0cbae13/django-x-robots-tag-middleware-1.2.tar.gz"
+      }
+    }
+  ]
+}

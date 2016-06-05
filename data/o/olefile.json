@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.43"
+  ],
+  "meta": {
+    "description": "Python package to parse, read and write Microsoft OLE2 files (Structured Storage or Compound Document, Microsoft Office) - Improved version of the OleFileIO module from PIL, the Python Image Library",
+    "homepage": "http://www.decalage.info/python/olefileio",
+    "license": "BSD"
+  },
+  "versions": [
+    {
+      "0.40": {
+        "sha256": "75e889e2e49a76f7387ea935e54c70fd8762fc56860d86a5695f92111a63c335",
+        "url": "https://files.pythonhosted.org/packages/4a/7f/1efe0592a69585eb1c844a816c362877a241f0ed75735314fe33b9d9b653/olefile-0.40.zip"
+      },
+      "0.41": {
+        "sha256": "1f76a5b8ff0e47dbdd22a4f4aa5bc1c29af0bfb3dc12bc86354ae374ad9192f1",
+        "url": "https://files.pythonhosted.org/packages/ac/a1/f5cf204f1de87c2f59c061075ebc02d702abd415032eece9535126777a48/olefile-0.41.zip"
+      },
+      "0.42.1": {
+        "sha256": "8a3226dba11349b51a2c6de6af0c889324201f14a8c30992b7877109090e36e0",
+        "url": "https://files.pythonhosted.org/packages/8e/32/db0c062319061c6c38067823485ebc6252423cdc3c1d7dec798ad5c989f4/olefile-0.42.1.zip"
+      },
+      "0.43": {
+        "sha256": "57102bf3f19c5fa099c0c7128190fe4bb28cd2760aa08f4b5b7dccf28718b876",
+        "url": "https://files.pythonhosted.org/packages/61/f4/7b52981ee0c3c2521c504fa318466136be8d47bc720ef1eff2aa2f193730/olefile-0.43.tar.gz"
+      }
+    }
+  ]
+}

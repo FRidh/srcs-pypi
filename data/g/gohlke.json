@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Gohlke distribution installer for windows systems",
+    "homepage": "http://github.com/brettjsettle/GohlkeInstaller",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "1.0": {
+        "sha256": "71b19b3f6b7acdb52cc6c5076776e01561a52b4412bd19e21bd9423e28c97804",
+        "url": "https://files.pythonhosted.org/packages/8d/67/412b687ed909ff3e328d10bf254d2bf22a0f5a7d4876823f98f5974a8fe8/gohlke-1.0.zip"
+      },
+      "1.1": {
+        "sha256": "7d21da2c659337658806e517cbaf77adcfb2e4f43412ae38e81189de8b5e3c68",
+        "url": "https://files.pythonhosted.org/packages/b7/4b/eb047120c34ce37d8cefd9fd200e45b455bd6ddd844c23ea8dc141585d33/gohlke-1.1.zip"
+      },
+      "1.2": {
+        "sha256": "74bf6365754171d2e59c2b71d5ea8cb7a5b99b79e83c0633b9cb664f8fefd1d9",
+        "url": "https://files.pythonhosted.org/packages/dd/fe/18ba46469a2d81f95571fdd640c91693026e6376779fcd1ab2c7c6c0fd6c/gohlke-1.2.zip"
+      }
+    }
+  ]
+}

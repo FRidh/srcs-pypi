@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "1.1.17"
+  ],
+  "meta": {
+    "description": "A running environment detecting command line for aliyun EDAS",
+    "homepage": "https://help.aliyun.com/document_detail/edas/quick-start/quick-start.html"
+  },
+  "versions": [
+    {
+      "1.1.13": {
+        "sha256": "bbec0bd56e822329cb2fea92f3af8abaa230e507378577b4ffb5f465f287f15e",
+        "url": "https://files.pythonhosted.org/packages/2c/95/38fc6a01fdfb19efff757bbbf93ffc3d7100c9226aa2047550056807339f/edsd-1.1.13.tar.gz"
+      },
+      "1.1.14": {
+        "sha256": "d7afa2352b38cdfc18b0f38f566b36a7f83ed12371618404994362f4fb34f6e4",
+        "url": "https://files.pythonhosted.org/packages/3e/43/f7460abf69b16d0a5b85d24f96f4571140989d225423e737fe428909a431/edsd-1.1.14.tar.gz"
+      },
+      "1.1.17": {
+        "sha256": "6c49338a0cc6eb798bb62af67d951afd92d01d7e1b31dc520bc8db52ed980961",
+        "url": "https://files.pythonhosted.org/packages/73/a0/d788ad93930ae3fd8d8ad8bdc60eb03d10e6e8a3246680a38998df9713d0/edsd-1.1.17.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "An implementation of pytest.raises as a pytest.mark fixture",
+    "homepage": "https://github.com/Authentise/pytest-raises",
+    "license": ""
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "12e5626b2eb0d8c4befec49a810e2960ad31af3d0cb68ba435ad1963ba8df406",
+        "url": "https://files.pythonhosted.org/packages/b0/c8/295ac4d600ca84a5eb1d3e67a5e7e2f92f53c2d49880a5326d6e613fed28/pytest-raises-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "2302bf4a0ef31a4b7cb4d248127e47dedf42dbb083d442c4b54b4d3e002a3cb1",
+        "url": "https://files.pythonhosted.org/packages/e8/aa/f96100d632f25c2669ff1301f1eee71f8dcb0071f276d35baa8261b7b80f/pytest-raises-0.3.tar.gz"
+      },
+      "0.4": {
+        "sha256": "0702264d5e78cdeaf3b592bebbaeed0575a0a7f156174994a08c527bf626d032",
+        "url": "https://files.pythonhosted.org/packages/5f/f1/cf37a9662e058bfa94d0d591bdef20dd2c6bb1407fdec9078703ce68085a/pytest-raises-0.4.tar.gz"
+      },
+      "0.5": {
+        "sha256": "4fcb0e8a6f5b392e3336302c7ce8f79c0087b79c0b830a017f6d78ee7077f684",
+        "url": "https://files.pythonhosted.org/packages/78/89/96bba4183b97308df961108a8b150e1f414cd95275a01d6f9bec79b41e30/pytest-raises-0.5.tar.gz"
+      }
+    }
+  ]
+}

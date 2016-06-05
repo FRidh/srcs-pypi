@@ -1,0 +1,182 @@
+{
+  "latest_version": [
+    "2.66.0.49"
+  ],
+  "meta": {
+    "description": "New Relic Python Agent",
+    "homepage": "http://newrelic.com/docs/python/new-relic-for-python",
+    "license": "New Relic License"
+  },
+  "versions": [
+    {
+      "1.13.1.31": {
+        "sha256": "1925603e519a7a1abc42701613748572e0749d0c48d3327ca50771347db10290",
+        "url": "https://files.pythonhosted.org/packages/91/d6/03eac64f8b5faf9dffc7b447216ff5c4009ea255e45e3276cef5892b37d5/newrelic-1.13.1.31.tar.gz"
+      },
+      "2.0.0.1": {
+        "sha256": "a294fcffebe1a1677b82ebbb5cdcbdaabe594d737f66db0e320383e03baa5355",
+        "url": "https://files.pythonhosted.org/packages/64/0a/5b470d7e6df63c459f973732f0047ac7cfddaa5a07612022733a4d3922f3/newrelic-2.0.0.1.tar.gz"
+      },
+      "2.10.0.8": {
+        "sha256": "84c5b5ec050a078d17011229dee9c9ad7c40ee86ce5e858839bc94390002ac05",
+        "url": "https://files.pythonhosted.org/packages/93/b5/2e8fe931d56e2001e72f69424e6b3cf1bcf9539e81fa6664ee73de8c3a04/newrelic-2.10.0.8.tar.gz"
+      },
+      "2.10.1.9": {
+        "sha256": "10ad0588c554b81334051d6d3964b3e03cd84d11fd552d03a4360cb962980cae",
+        "url": "https://files.pythonhosted.org/packages/bb/80/04be40063f6ef7f57583a8505e6b0ba7b7541fa60eca412df1117312dc67/newrelic-2.10.1.9.tar.gz"
+      },
+      "2.12.0.10": {
+        "sha256": "b19f7ced58068e84de5744fa886e122997eb403d304860bca08af076b823c344",
+        "url": "https://files.pythonhosted.org/packages/24/94/a00b98a39d715c917701960380d1483c98f4164d0ee67cc67cdda49213b3/newrelic-2.12.0.10.tar.gz"
+      },
+      "2.14.0.11": {
+        "sha256": "a851db06c3546d529c5fa7393ad3aac4c9b8e403b0a3c2d9ede5e3037bc9bfb8",
+        "url": "https://files.pythonhosted.org/packages/80/40/a9eaef71b39e51956476a76f580b361072aec8b427e0f09419814a5cb334/newrelic-2.14.0.11.tar.gz"
+      },
+      "2.18.1.15": {
+        "sha256": "4041318e4480cb33d7bc056ff0b778387a082201eca97af0ba3a085c11a3ef5e",
+        "url": "https://files.pythonhosted.org/packages/5e/3a/8f391452ecc1c28670103da12e17310c4ea86d78b5acf3fc5eeb050860c0/newrelic-2.18.1.15.tar.gz"
+      },
+      "2.2.0.2": {
+        "sha256": "640a0da9a42355119604a29117d0bb025c6b804a38bdee690438e4266e55d6e3",
+        "url": "https://files.pythonhosted.org/packages/95/75/ea7e5813865ad99b6eaa3332d030b186124a2aab909461bf30ba04dd0103/newrelic-2.2.0.2.tar.gz"
+      },
+      "2.2.1.3": {
+        "sha256": "4bf73b48efcf4592c8ab3f4849c121058561f42f0dd5d9e89c70f1ef11a5ee86",
+        "url": "https://files.pythonhosted.org/packages/c7/43/37a5a1f7b9279913f99c0e9c4ef8087aaf2ba95a05c94d43de6b38e91fa3/newrelic-2.2.1.3.tar.gz"
+      },
+      "2.20.0.17": {
+        "sha256": "7c0a9d6f057ba0b6ec0bd6aa0527e54db15cf1b34c1feabbf56a5dd5f26f429c",
+        "url": "https://files.pythonhosted.org/packages/8b/59/229b4ff38d9a9d46aa537b6e40150da893c0208d63cb223c5a374bda94d7/newrelic-2.20.0.17.tar.gz"
+      },
+      "2.20.1.18": {
+        "sha256": "4f9872c341b200fac1a06a53df4ed7454ede183503c6ec7ff4a3d984ba1a420b",
+        "url": "https://files.pythonhosted.org/packages/d1/22/82e5f22442c09bf811cf0b0f64a2ed646c122a58dbb7c034bbfa54149834/newrelic-2.20.1.18.tar.gz"
+      },
+      "2.22.0.19": {
+        "sha256": "aa8869413c21aff441a77582df1e0fdc0f67342760eb7560d33ed3bbed7edf7b",
+        "url": "https://files.pythonhosted.org/packages/e5/83/e0b03d3ed3039b957df586e6b9a22eb0a9decd19f5235fcda399982e431d/newrelic-2.22.0.19.tar.gz"
+      },
+      "2.22.1.20": {
+        "sha256": "f94cbfbfa67570cdae89e62e65d94af7f8882da1d54e8148d73df5be69c6a29e",
+        "url": "https://files.pythonhosted.org/packages/a2/6e/f9bb32198b79959ee64562eb958780750f430c6d76cae8e7c838b02bd8b4/newrelic-2.22.1.20.tar.gz"
+      },
+      "2.24.0.21": {
+        "sha256": "3404dc98f61c91c9718b0ea8ad970cf0e01ace5c24b81a1c1798df8dffe93a25",
+        "url": "https://files.pythonhosted.org/packages/d3/05/4907f6b0db139c03ffac64354f152c1ffdd25454c34870c82e7821b6c96b/newrelic-2.24.0.21.tar.gz"
+      },
+      "2.26.0.22": {
+        "sha256": "fcd27de39fde83595ee892efd91cb0779aacb8105d63fd08876d9de1cc8781ca",
+        "url": "https://files.pythonhosted.org/packages/83/e0/cba00d6a57d4ff3fd735e078a86353ef0b30792b1b79cc047ff785d6a540/newrelic-2.26.0.22.tar.gz"
+      },
+      "2.26.2.24": {
+        "sha256": "b8b9df4beea6052344fdb8aebdc614a8d906b48547a5ff703854b20656c3931e",
+        "url": "https://files.pythonhosted.org/packages/32/79/57eef0a171a0f63a7d6369289b343bfed4f44b985866eafbf4e29a98c7a6/newrelic-2.26.2.24.tar.gz"
+      },
+      "2.28.0.26": {
+        "sha256": "0d18fbf884dc0c01d4a6bbafca9db0f2cfd5ee4143799887dbc80733f8533fe9",
+        "url": "https://files.pythonhosted.org/packages/7a/9d/4dad069955747661ea728a5a65eb7febc403fdd45402f3582d7c93ff406b/newrelic-2.28.0.26.tar.gz"
+      },
+      "2.30.0.27": {
+        "sha256": "71366348102465de996e8a8ad904d2d553c871652872c29fd09796663de9c214",
+        "url": "https://files.pythonhosted.org/packages/41/72/daf7cb0db0e98944ead4c3a29440257606cc375481b421d913ab9d29e19a/newrelic-2.30.0.27.tar.gz"
+      },
+      "2.32.0.28": {
+        "sha256": "8ee13176a2e807920e56a50da40f9af09d299a8282d5480fcc3d6aec4e006af9",
+        "url": "https://files.pythonhosted.org/packages/98/11/36ed7818498d760f19aea9e3bf1cc7690937693133d3f4f2451df31f1578/newrelic-2.32.0.28.tar.gz"
+      },
+      "2.34.0.29": {
+        "sha256": "7b6450e1b7aac94bb0039b93bfae01a0093925b1de73574ae3c2d7995493a876",
+        "url": "https://files.pythonhosted.org/packages/52/49/47025dd37035610767779a2264ce93f491fd7500a87b93a851e380238abb/newrelic-2.34.0.29.tar.gz"
+      },
+      "2.36.0.30": {
+        "sha256": "3dfe6782bab2fba507d0360c3333614e9d2ea465b2012d39a9eca48971bdaadc",
+        "url": "https://files.pythonhosted.org/packages/16/2a/184c0c99ad6a5b1e6d1911ebdadf5d8837856ec665db7e490c56b7273e3f/newrelic-2.36.0.30.tar.gz"
+      },
+      "2.38.0.31": {
+        "sha256": "97cec525e7a36b388b2a5f6a57a33058b21dac74eaa44b56a582cf22fd85b912",
+        "url": "https://files.pythonhosted.org/packages/19/03/85ca4233c76c53a2a5dc235b60c7acf010f49c45b698ab2902ae1922158f/newrelic-2.38.0.31.tar.gz"
+      },
+      "2.38.2.32": {
+        "sha256": "29171e9b5fe3f267456d5846f54d623291ecf72e5819aec716b5c12b5ffee665",
+        "url": "https://files.pythonhosted.org/packages/a9/fd/c8d765233a9092dce8f54dfbca9f83b317f57a5ed26fb622ca9453df0681/newrelic-2.38.2.33.tar.gz"
+      },
+      "2.4.0.4": {
+        "sha256": "6242a0467115912046f82413e783a5afb74b4b7aff409648d0caa60507d48742",
+        "url": "https://files.pythonhosted.org/packages/bc/b7/9193b5bf0d721fe83066cee88beca727a8d3342085325331e952198df97a/newrelic-2.4.0.4.tar.gz"
+      },
+      "2.40.0.34": {
+        "sha256": "27b92a7a00f162e79b5896fe9e589719b985e9cfdf445826cc18856159ce6c1e",
+        "url": "https://files.pythonhosted.org/packages/c0/33/e24ad4f8939c36895c7c77b3cb799c9852981bae4451134600f526e17b85/newrelic-2.40.0.34.tar.gz"
+      },
+      "2.42.0.35": {
+        "sha256": "e24f55566ddd9e2fb2d3d908a32482c2544dc3a285b7f189800a7acf90922d90",
+        "url": "https://files.pythonhosted.org/packages/d6/ca/a39f4cc585f91713e22bb75b92bb55c0214450435f4e90e37afec03c9890/newrelic-2.42.0.35.tar.gz"
+      },
+      "2.44.0.36": {
+        "sha256": "373d3af3e9f0c233932ddcf024f978eed3bd6ceaee9563aedb65c029f7f9b2b7",
+        "url": "https://files.pythonhosted.org/packages/11/9f/61041d49ececb27fad3bdbfe841d00bc30c202438578d392602b58d8be47/newrelic-2.44.0.36.tar.gz"
+      },
+      "2.46.0.37": {
+        "sha256": "1b544e6611b8bd4758191c08c9d42894e71ee1150505a73afac45c4e2fa308ae",
+        "url": "https://files.pythonhosted.org/packages/7b/39/eb1893476cfc0565abc3716fe495e4b0ca78cdae0efaa2fc0fdf8313d2dc/newrelic-2.46.0.37.tar.gz"
+      },
+      "2.48.0.38": {
+        "sha256": "80ad406b0d014282f04449b272e60fa54f4c7cbf36d5ec0039135b8676255622",
+        "url": "https://files.pythonhosted.org/packages/62/51/392627f4fec245acd480b35d8a1c55bcd481c1067f670cc04d6ec5ef23e0/newrelic-2.48.0.38.tar.gz"
+      },
+      "2.50.0.39": {
+        "sha256": "fddd47a8d048e0c5f42eee511a8aaf35891c996d6c959553c7bec8b3ac74b3cb",
+        "url": "https://files.pythonhosted.org/packages/fc/cb/a75b6bd98ccb1db3398192f12b0e8f4a14d30fce203aa9bad7c28ae1963c/newrelic-2.50.0.39.tar.gz"
+      },
+      "2.52.0.40": {
+        "sha256": "59b515bb7dbbcdd307f817ac38854e80839ebfa33c5db797f65450793c945c0d",
+        "url": "https://files.pythonhosted.org/packages/6f/06/068b4f386c3caea445a0128cebefe40443f17fbf04e1a257400093be9a77/newrelic-2.52.0.40.tar.gz"
+      },
+      "2.54.0.41": {
+        "sha256": "85bae839dfaea7d8b860d1f5bfeb78e8612cc1f9f14b36059be2043b41e3700b",
+        "url": "https://files.pythonhosted.org/packages/74/b3/9e86d7f5461d862e9b1e741519f9639ba18603cc61896ba4c30987561132/newrelic-2.54.0.41.tar.gz"
+      },
+      "2.56.0.42": {
+        "sha256": "b58014aa5640e3456ea7dbf33f151a1c4b9df47289768730c0a03061a4713865",
+        "url": "https://files.pythonhosted.org/packages/d3/99/ea0dce5dfc9983394e08a97a9ab988235b195805e2b936becdfa94dd80d0/newrelic-2.56.0.42.tar.gz"
+      },
+      "2.58.0.43": {
+        "sha256": "be8b0116624bd4ea2672b076485e38f9e4427ae94a43d7299aaac0bfa89d98b6",
+        "url": "https://files.pythonhosted.org/packages/a5/60/d9a218bcbdd8ea076be8109d2d5d9f3ef8596c9f9d139c07fbc28000c86b/newrelic-2.58.0.43.tar.gz"
+      },
+      "2.58.1.44": {
+        "sha256": "297962f23f6690b41b769f60ebb9b43b2de4f2318b9c508b92a02f0ab3ed878b",
+        "url": "https://files.pythonhosted.org/packages/69/9c/21ffdec72de14a6e65d8f563fd8e8237035d96e48258bd7a64cff88f1178/newrelic-2.58.1.44.tar.gz"
+      },
+      "2.58.2.45": {
+        "sha256": "593a0f41f016a589e599160a8502267cb3f7747f7dad41367fd73e79bdb002a9",
+        "url": "https://files.pythonhosted.org/packages/58/24/ecca782430f26a6b7a31292aac6567131ff2f4705fb1975f58981f804308/newrelic-2.58.2.45.tar.gz"
+      },
+      "2.6.0.5": {
+        "sha256": "305473f9f54c3db9bad17abc45cc97bf404cce4e813b3ca0e7da38f8d5abec8d",
+        "url": "https://files.pythonhosted.org/packages/6b/98/e0471dbcdea7f02e70a287d6f29cba6b914f5c32b52dfdadb749163e5c28/newrelic-2.6.0.5.tar.gz"
+      },
+      "2.60.0.46": {
+        "sha256": "17d598fccca0845c0337e5276d40d65f951afea6adf9bd9172cff3a87f2ef294",
+        "url": "https://files.pythonhosted.org/packages/e9/1b/772b0713adba04aa26775517e78f79d2d2c994bb0c46f71c8040c835d1de/newrelic-2.60.0.46.tar.gz"
+      },
+      "2.62.0.47": {
+        "sha256": "caeb0692af01f021e0afbac04739627b47f205d6ebe9073b207d563a6709f879",
+        "url": "https://files.pythonhosted.org/packages/97/29/3388f2bcc73f3f06625f72cef3d9f65ee3c7263bdfc45f2174e324c1393c/newrelic-2.62.0.47.tar.gz"
+      },
+      "2.64.0.48": {
+        "sha256": "9ea89da0a16032074dcdc5c39b0b74a821c3c935f5b93781723e7b5dd38e3406",
+        "url": "https://files.pythonhosted.org/packages/20/21/b362dcb2e08516dd037095078ad151617353d185576ba5245d24cd5326d6/newrelic-2.64.0.48.tar.gz"
+      },
+      "2.66.0.49": {
+        "sha256": "f95b90def0c86b6d4f859664ca411bae90da76345f23ed2de40531d39e2b32a1",
+        "url": "https://files.pythonhosted.org/packages/26/db/793e32c9aa24229640ea162fc109a769f3afccf769ab10406ab098457cc1/newrelic-2.66.0.49.tar.gz"
+      },
+      "2.8.0.7": {
+        "sha256": "7456583361ea5598e3e0cf1553e2dfdd38b0960973373acd89107fa7729bd482",
+        "url": "https://files.pythonhosted.org/packages/dc/f2/505f9eafee850835ac1a5bb5a6c24f68d76e8956052f29a2692707bd519b/newrelic-2.8.0.7.tar.gz"
+      }
+    }
+  ]
+}

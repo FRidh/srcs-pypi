@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "3.3.3-2"
+  ],
+  "meta": {
+    "description": "CPython base64 module ported to MicroPython",
+    "homepage": "https://github.com/micropython/micropython/issues/405",
+    "license": "Python"
+  },
+  "versions": [
+    {
+      "0.0.0": {
+        "sha256": "29372586cd478555b9767bf6842137c2217c862fbbdf32216a80b63f488c84a7",
+        "url": "https://files.pythonhosted.org/packages/59/d8/37b15fd0560efbdac65579ce93a0ac59d2b23acc3ccf049ca80091da65f3/micropython-base64-0.0.0.tar.gz"
+      },
+      "0.0.1": {
+        "sha256": "1690afaea84e6bd523f3e8db63308c20d3b854cd89c445888a02c563d4d4c56e",
+        "url": "https://files.pythonhosted.org/packages/fd/e3/a1f77ff4682acae2cf5fb33561f50649c9ad0ec9bcc2f1f0cb48a1740ee0/micropython-base64-0.0.1.tar.gz"
+      },
+      "0.0.2": {
+        "sha256": "9a7dfb5da67d70473b107cb823614ad864c5ae8d0d1d079ce763456f9723f0af",
+        "url": "https://files.pythonhosted.org/packages/c5/d3/79cf598655add3404c3ba251f84e906e89e67cca59d86e0c185e5f186523/micropython-base64-0.0.2.tar.gz"
+      },
+      "3.3.3-1": {
+        "sha256": "7b25db5564187b2f46eebe42cfe1b74e84b4e20bfe0ac96d541b606f43e878ed",
+        "url": "https://files.pythonhosted.org/packages/6a/77/b7adcd7f5515866ba6d23e6dfa95571c688d86e307b0f01935f423fa4c7c/micropython-base64-3.3.3-1.tar.gz"
+      },
+      "3.3.3-2": {
+        "sha256": "e576e78279ca82d36865b5261e7b24097b4f2fc38f807a175a2884cb567da5d4",
+        "url": "https://files.pythonhosted.org/packages/4e/40/4ab325e983e04ed3ef96b709328a56635260622e46790f9ce3001916f948/micropython-base64-3.3.3-2.tar.gz"
+      }
+    }
+  ]
+}

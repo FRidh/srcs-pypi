@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "A modular, loosely coupled micro-framework built on top of Tornado simplifying the creation of web applications and RabbitMQ workers",
+    "homepage": "https://github.com/sprockets/sprockets",
+    "license": "Copyright (c) 2014 AWeber Communications\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification,\nare permitted provided that the following conditions are met:\n\n * Redistributions of source code must retain the above copyright notice, this\n   list of conditions and the following disclaimer.\n * Redistributions in binary form must reproduce the above copyright notice,\n   this list of conditions and the following disclaimer in the documentation\n   and/or other materials provided with the distribution.\n * Neither the name of Sprockets nor the names of its contributors may be used to\n   endorse or promote products derived from this software without specific\n   prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.\nIN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,\nINDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,\nBUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,\nDATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF\nLIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE\nOR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF\nADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": [
+    {
+      "0.1.0": {
+        "sha256": "23f1e925588f5b5722ee07f5019892fbe6b628626a8eca6fce7c37746855212d",
+        "url": "https://files.pythonhosted.org/packages/03/dd/590f1202a4a8032e57580516d56e4000b33364d7b4f2abb6514f48451300/sprockets-0.1.0.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "a44dd967cb5ea657578aaef42e2589326f234810c0d42548056c1cda67c4a10d",
+        "url": "https://files.pythonhosted.org/packages/23/9d/dd816637811799262f5a021d936f7db9b7f8338193a428a98f22437f4bfe/sprockets-0.1.1.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Mail sending Python/CLI interface using markdown or ANSI codes based content",
+    "homepage": "https://github.com/Som-Energia/emili",
+    "license": "GNU General Public License v3 or later (GPLv3+)"
+  },
+  "versions": [
+    {
+      "1.1": {
+        "sha256": "7f99106fff336fc1c34b8ed03d1e8855916932c96f6ff14214f71e7311802f94",
+        "url": "https://files.pythonhosted.org/packages/39/d8/8eaee237c94b216d3fcb8bd62dcf40120cdee84ef97eb6bc47fbb9de3aac/emili-1.1.tar.gz"
+      },
+      "1.2": {
+        "sha256": "b644953eb4e5fc898a1697250485134aa0bb53ea7f230bffe1eae4c1b9818486",
+        "url": "https://files.pythonhosted.org/packages/0e/d7/196fc0d78ffcaea3e6c75e0c41888a6664b9d2505139899d83b48906e8d5/emili-1.2.tar.gz"
+      }
+    }
+  ]
+}

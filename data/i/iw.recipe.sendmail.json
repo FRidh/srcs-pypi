@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2.3"
+  ],
+  "meta": {
+    "description": "ZC buildout recipe to setup zope.sendmail in a Zope2 instance",
+    "homepage": "http://plone.org/products/iw-recipes",
+    "license": "GPL"
+  },
+  "versions": [
+    {
+      "0.2": {
+        "sha256": "6269ffb88d8a7f8c2e1d89144ea2298dcbce70ed7fe4b26a749d34b4c7d82abc",
+        "url": "https://files.pythonhosted.org/packages/5c/79/790487ae8786fe93a9e113c0bef0a1241c5586b99000150cd17703e731ee/iw.recipe.sendmail-0.2.tar.gz"
+      },
+      "0.2.1": {
+        "sha256": "fe712ad49ea5ba006a9590465199ec7f99808ba0065db9a990ef0295beef5e36",
+        "url": "https://files.pythonhosted.org/packages/b5/09/fe56365dd2bba53ca45996098f7573617696ee52f19421bdbc2cc375f2a3/iw.recipe.sendmail-0.2.1.tar.gz"
+      },
+      "0.2.3": {
+        "sha256": "8e7557c1775f84a7e2a78a6895992378ed3ee811eba76268505fbd1d6be57344",
+        "url": "https://files.pythonhosted.org/packages/9d/25/68333955aff83bf191f6365e023fc447fa21294a6dca31c585ebe7274b82/iw.recipe.sendmail-0.2.3.tar.gz"
+      }
+    }
+  ]
+}

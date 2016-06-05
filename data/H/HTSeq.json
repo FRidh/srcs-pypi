@@ -1,0 +1,245 @@
+{
+  "latest_version": [
+    "0.6.1"
+  ],
+  "meta": {
+    "description": "A framework to process and analyze data from high-throughput sequencing (HTS) assays",
+    "homepage": "http://www-huber.embl.de/users/anders/HTSeq/"
+  },
+  "versions": [
+    {
+      "0.3.7": {
+        "sha256": "c6f364f38d8817dfb73d52ca6011c7fb95891ea21c8dd88aa8e327f6afe9f639",
+        "url": "https://files.pythonhosted.org/packages/2e/8c/b385ea245d275145d0dde8f1cd7397b692172ac6dee632ae643f433c6ef2/HTSeq-0.3.7.linux-x86_64.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "5404d4ef434f2c8582a3be4292eab21f5ce3428bd87d55f5813b8779e1c86ce4",
+        "url": "https://files.pythonhosted.org/packages/9b/47/1e1abae8729dffe6ac7c28970c0ba58e4745f691f1622d94c91f09db7d5d/HTSeq-0.4.0.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "1fa10893e54005ea74952342cab624bd100fdd84b47d3af6ec1e1e20ee3205e6",
+        "url": "https://files.pythonhosted.org/packages/59/3e/5d92f526d15c6a51adcf7889ed155546cc5a55fe4438efb926fdc72cfd34/HTSeq-0.4.1.tar.gz"
+      },
+      "0.4.2": {
+        "sha256": "1b722e5704168bd56a657142790b9ce068241cbb3d13852a54480a161954fc8b",
+        "url": "https://files.pythonhosted.org/packages/d8/c9/258c4abb64ac924c1d09b4304c54e808e581964922721f01d7c711ade094/HTSeq-0.4.2.tar.gz"
+      },
+      "0.4.2-p1": {
+        "sha256": "ef1b9f1a6b90649f1ee6efd74f74f70b63aa128b68bf07bd13d1ea9d77433c9d",
+        "url": "https://files.pythonhosted.org/packages/a8/3a/bd67c3123145c086e96c7b9332237c5170a18fb3fbba3814ae0682034d54/HTSeq-0.4.2-p1.tar.gz"
+      },
+      "0.4.2-p2": {
+        "sha256": "6a18126b994786ed57dfec8f161efae75f0b53832ae8ead2976574054636f8cc",
+        "url": "https://files.pythonhosted.org/packages/28/3b/7513ce90116e3f293dc2bd49144f20a5bcd72e315e9e0be4bd7b2cd7df29/HTSeq-0.4.2-p2.tar.gz"
+      },
+      "0.4.2-p3": {
+        "sha256": "014ded2a865a2d096e9c12590a9a0820c3322d9b93c19b5244961354b2e4dfa4",
+        "url": "https://files.pythonhosted.org/packages/ff/39/f947730f5952b7577b12d59e68cd2a6d365532c545854dce4d78047ffa6c/HTSeq-0.4.2-p3.tar.gz"
+      },
+      "0.4.2-p4": {
+        "sha256": "32bee033e0d6c7688959190e898cb63ce832f65b62134fed6de2b3120fadb77b",
+        "url": "https://files.pythonhosted.org/packages/f0/de/568d14f0212014f2ba5da612771dd852d04918d1c303b39cb2c359266a4b/HTSeq-0.4.2-p4.tar.gz"
+      },
+      "0.4.2-p5": {
+        "sha256": "b9b0e1b729a6df49e4006329e1b8249b0c7529cc49d9c65d8d0555563ec1e846",
+        "url": "https://files.pythonhosted.org/packages/38/5a/aa6a707410ff61a79de6d3ce7b7e3bac96996588bfad0aa73a760d0d23c0/HTSeq-0.4.2-p5.tar.gz"
+      },
+      "0.4.3": {
+        "sha256": "25c81b593da379dc0990c6a76e453dc8297287c9593cb8e18a068f8509301285",
+        "url": "https://files.pythonhosted.org/packages/7c/63/4d5ba39d9b1ca70bc641438e5b87d293b5b96ce2628699cb86154e2f4160/HTSeq-0.4.3.tar.gz"
+      },
+      "0.4.3-p1": {
+        "sha256": "e67b2ec9a8c39056d8007926d8bfbcb4f6b0ad89d0bc4d21342e800b93264f1f",
+        "url": "https://files.pythonhosted.org/packages/12/8f/b00f9e21b68f2b1426b168e3fea6c2a3b68b734fb176a45e9b4c595e36ba/HTSeq-0.4.3-p1.tar.gz"
+      },
+      "0.4.3-p2": {
+        "sha256": "85bb99995a585421f81c1c79c085f3f1cd8a50c081731c01ae7e6534e82c8746",
+        "url": "https://files.pythonhosted.org/packages/28/19/f24e4abee7c10193adbc150cf13a013c7a40c1c87a0c74c306178017fe66/HTSeq-0.4.3-p2.tar.gz"
+      },
+      "0.4.3-p3": {
+        "sha256": "fff1e20a711edaa4a179fcc920064cf60d3b37423e306fd902a41a258ce992c5",
+        "url": "https://files.pythonhosted.org/packages/89/d7/5dcf3b95deaaccf3aea4ba6643a88d2b6c436f7d35d12be374834383338a/HTSeq-0.4.3-p3.tar.gz"
+      },
+      "0.4.3-p4": {
+        "sha256": "ac1c9414fe1a3e019621f615a5777ff001412acdf088fe1790a3507b5be56579",
+        "url": "https://files.pythonhosted.org/packages/26/17/1359e310c6dbb1bc9ee7b1af08543ab9ed5230c9eca39100e5e56feb4018/HTSeq-0.4.3-p4.tar.gz"
+      },
+      "0.4.4": {
+        "sha256": "bc4dcf23d5b658f660e314d3788b3c0aa8f4e5d9ab321f9c64c07c59e6dcda77",
+        "url": "https://files.pythonhosted.org/packages/7b/5f/56b4cb7d9e796e59d0bfbe6cf7023d8ff6b000e5f79993ab7b0fcf47cc47/HTSeq-0.4.4.tar.gz"
+      },
+      "0.4.4p1": {
+        "sha256": "0df3f37d0a18f0352394e050cad49cebc5d8f340acbd2a9ed25cffbd4f6a8266",
+        "url": "https://files.pythonhosted.org/packages/03/11/0d9961dde800aa8eb79a41c9ec1a139dc67b6f0d5c8681d5a6a70379b21d/HTSeq-0.4.4p1.tar.gz"
+      },
+      "0.4.4p2": {
+        "sha256": "735b00b29e654773e5d214c4484d20f1ecfb06fb8775786b07157bf49f37e84f",
+        "url": "https://files.pythonhosted.org/packages/93/21/ad613389bce6af916b10ddefd6dafce8726e283b90d54495fef6efcab3a7/HTSeq-0.4.4p2.tar.gz"
+      },
+      "0.4.4p3": {
+        "sha256": "4a605cad1e83eb718440215423db2cd46cb85dffd86eb70ffaf48bd8a8f828a8",
+        "url": "https://files.pythonhosted.org/packages/0f/c8/f37ff2403d85262546d039d17985b740df23233d7cbe1a57f4fbb995e5e3/HTSeq-0.4.4p3.tar.gz"
+      },
+      "0.4.4p4": {
+        "sha256": "3f2cbf2199b6d351b765a6d9b261923074f86927a88c36c5a2f48e0e8a9c1d45",
+        "url": "https://files.pythonhosted.org/packages/c2/fa/a68229c1e4cc0863fe6fe4746cf1b2390949f453d32835bef4d6aa2a46b2/HTSeq-0.4.4p4.tar.gz"
+      },
+      "0.4.4p5": {
+        "sha256": "c216cdee45ec35a6b824f5195e1422d88f98d6055407fdec9e848c784f0cebd9",
+        "url": "https://files.pythonhosted.org/packages/7c/2b/c3fdd22272fa69160f50994f765afcb70c662f9fd6c218f72bbc683f551b/HTSeq-0.4.4p5.tar.gz"
+      },
+      "0.4.4p6": {
+        "sha256": "002aaf6f6ccc2fd9a121fe52551c0947df49ef5b872c2b4a837c2a5d73e8eda3",
+        "url": "https://files.pythonhosted.org/packages/2c/bb/f11f3d852462c30a1050c0dc6ce2387b71dd38b27db10d2f04ae2904136f/HTSeq-0.4.4p6.tar.gz"
+      },
+      "0.4.5": {
+        "sha256": "1d171e4c66bf9878a81be2e17cfaefc3c028e9708c327795937ce0a5d7441d64",
+        "url": "https://files.pythonhosted.org/packages/e1/61/b8c2ec95c148d5c8d0992b0db5526a7c51de2fcc45b77f5456d2e0d04f7f/HTSeq-0.4.5.tar.gz"
+      },
+      "0.4.5p1": {
+        "sha256": "7bd1c090dbb35ee51b381d766d15793121eed4049a67f0f307bfef8b6833b17e",
+        "url": "https://files.pythonhosted.org/packages/9c/21/ac974ebff5363ecae0b19ffa1ca6e72ee5b558fe14d551ef1c095c5767d2/HTSeq-0.4.5p1.tar.gz"
+      },
+      "0.4.5p3": {
+        "sha256": "3cc65954ec8cf59da8e8a1e9c8c6f9d36c1ead9a8bae85a54c1e62126247903e",
+        "url": "https://files.pythonhosted.org/packages/5f/0d/0d1f03d851b8454c512490c0ee63f1ac4c2da9f610b52a070168c6b96b6f/HTSeq-0.4.5p3.tar.gz"
+      },
+      "0.4.5p4": {
+        "sha256": "5b19bce5642661e7ccdce3c4a5db35308dd8f11070ab04b76fb11286dab1ddb2",
+        "url": "https://files.pythonhosted.org/packages/c0/42/cb0161db8725032cb745716f8217d1d2f3d363799a347617f97773f137e3/HTSeq-0.4.5p4.tar.gz"
+      },
+      "0.4.5p5": {
+        "sha256": "33d0c4350de4b21b97b6db14ea3cd91a6aa43065a5a4995471c75a6e17b65da2",
+        "url": "https://files.pythonhosted.org/packages/f2/fb/aa727c4ef4201b94dedc34d34537adeedfaa68123faf7697a497925d3fe0/HTSeq-0.4.5p5.tar.gz"
+      },
+      "0.4.5p6": {
+        "sha256": "54be2a0b4e2a3006def0ad287fc30b9dc8bad8bb9727c3f8502892449f0aa536",
+        "url": "https://files.pythonhosted.org/packages/44/0d/52c8cc82fa0ce6ecf2bb6aee7437130024a1875d9960f8bade2c4230cc63/HTSeq-0.4.5p6.tar.gz"
+      },
+      "0.4.5p7": {
+        "sha256": "dc86759eee9a3f74b202cb38c9ec597c5474137c121dc428929a194683be6366",
+        "url": "https://files.pythonhosted.org/packages/16/e9/97f2348ed11ecf030f2fb28c87616954419ecc9fb2a68c75aaf1288bfddc/HTSeq-0.4.5p7.tar.gz"
+      },
+      "0.4.6": {
+        "sha256": "ddfb88b0ed6ecfb6c235f8ef55ca51c0b8516c9b7fe2be3d4ecc0eaf034c8cce",
+        "url": "https://files.pythonhosted.org/packages/51/45/da48eecf68233675bcb2d12482346fcc62c56ca710a6c30cfcb0d15ebba2/HTSeq-0.4.6.tar.gz"
+      },
+      "0.4.6p1": {
+        "sha256": "0bea549d9b5dae1fdad24b47228b64aeaba69c231ffb6c6290a506e7ca601d96",
+        "url": "https://files.pythonhosted.org/packages/e5/5e/b8a46e39e69d9de3ac75355b3166ace7375bab14ae29c53cbccd084fbb3b/HTSeq-0.4.6p1.tar.gz"
+      },
+      "0.4.6p2": {
+        "sha256": "8155bf748d16bbd0387ef087117500b662999a1c8ce620f0d84272e321dba899",
+        "url": "https://files.pythonhosted.org/packages/e3/ed/d4bae3c8fbcd174e12d216fcb81052e36f35a9eafd5b9142912d56be1c18/HTSeq-0.4.6p2.tar.gz"
+      },
+      "0.4.7": {
+        "sha256": "ecda2d836f30c182fce88fca69969304289e1bac7538d4f17ad5adc83610ea6a",
+        "url": "https://files.pythonhosted.org/packages/28/59/7a07711a1ca17c61f6a6a95dfd0c6a6e1a0a070220648d948bf5bfb5c927/HTSeq-0.4.7.tar.gz"
+      },
+      "0.4.7p1": {
+        "sha256": "bcb8f839c8374586f9d14cd1a0abac41f4b0c6c57d59e29e006103b2e4ccb963",
+        "url": "https://files.pythonhosted.org/packages/33/87/7847860f59bc6707ae5c275e0e2e44b2893e59f5bafb01e9603f4df00a8c/HTSeq-0.4.7p1.tar.gz"
+      },
+      "0.4.7p2": {
+        "sha256": "0198e0394d07bda14ac649923ee37fcc9699eba42e448c20f828b2a2a614770c",
+        "url": "https://files.pythonhosted.org/packages/a6/02/23978ddae1420d5bab413efb37b691efe29b4a043472b77643bce69eda06/HTSeq-0.4.7p2.tar.gz"
+      },
+      "0.4.7p3": {
+        "sha256": "6a9693015e790bb59124c01043d6366529ab1c7c68da85f56432c7eacae17706",
+        "url": "https://files.pythonhosted.org/packages/bc/37/8ba8721d5c324c73d1c58c3bd43a8d0390d15a47391815838c56f5a1a18c/HTSeq-0.4.7p3.tar.gz"
+      },
+      "0.4.7p4": {
+        "sha256": "e5ba5bf1258cda3700f6731e1332a1fbb3063d954b6b75286a49e1df723b1ade",
+        "url": "https://files.pythonhosted.org/packages/ee/ed/809759e4e4b10688c93b5b581a9bf165f3958ed5c50c93757c6797ed3283/HTSeq-0.4.7p4.tar.gz"
+      },
+      "0.5.0": {
+        "sha256": "841185bad086727849aca35a3d6b4f87f195a1f459b3ed818159fb1eb9afa61a",
+        "url": "https://files.pythonhosted.org/packages/b0/16/ef5538640ccede9afd190e014d083ca79b1eebc79a3e960b8a8141bfaa53/HTSeq-0.5.0.tar.gz"
+      },
+      "0.5.0p1": {
+        "sha256": "f403048562c9854a898a91de8ec5cc7103a591c18702ba16672f40166622e57d",
+        "url": "https://files.pythonhosted.org/packages/bc/2f/9e5d2a1b8bbefe44d9f8dac90be34be3e4046843057b90790cfb6cbd82e0/HTSeq-0.5.0p1.tar.gz"
+      },
+      "0.5.0p2": {
+        "sha256": "b9246c0a60220aefa738eb7741ee7479e7acaa4fa9bca2a525b7e4589173dc04",
+        "url": "https://files.pythonhosted.org/packages/08/cc/0065351ca0ff7ca95472dc631c6667c856d09874c28e05846eb26b2c2fa0/HTSeq-0.5.0p2.tar.gz"
+      },
+      "0.5.0p3": {
+        "sha256": "f6b098c38c8d5ee41c62de4535052bb2b3f1e504e5bada449a6194bf3e112f6d",
+        "url": "https://files.pythonhosted.org/packages/3a/7a/348482ed0047dd1c926bfe1124fa9740329a8723e9b3c68d03ef8e1b5b9c/HTSeq-0.5.0p3.tar.gz"
+      },
+      "0.5.0p4": {
+        "sha256": "4fe514ae36cab516c2161256ccc606d2e4898bab00362d679b455d555dc7983f",
+        "url": "https://files.pythonhosted.org/packages/04/be/9a26b8fee8812e03e4c9abf80fc37b84932b5b8589cc4a338021bbdfbbeb/HTSeq-0.5.0p4.tar.gz"
+      },
+      "0.5.1p1": {
+        "sha256": "7e22bfd4dde8aff2c10ec1dc93cf3166d151a34b24f0aff6e9b0e000659c895f",
+        "url": "https://files.pythonhosted.org/packages/a6/ff/13ed7ca6224e9b078c6a18a6f458ed84f5290789cbfe61f5ffbbf9b1a79e/HTSeq-0.5.1p1.tar.gz"
+      },
+      "0.5.1p2": {
+        "sha256": "24cda254accb0dee44eec7dc7f0fda22131ffb4dc3750c45d587bd155f3aba00",
+        "url": "https://files.pythonhosted.org/packages/d0/04/0b6e2f159eadf80fb1eab4ef23e3a7ba98154e1feed042a6eba72d7b6f4b/HTSeq-0.5.1p2.tar.gz"
+      },
+      "0.5.1p3": {
+        "sha256": "9befb0a04fc5a24bcee7268005a4b0d460b44a68e5868a9a0757be97ba059f16",
+        "url": "https://files.pythonhosted.org/packages/cf/f6/ac46106eae3a1d9d476cb7d980bf457037b0609377bbb48ba01754f1811f/HTSeq-0.5.1p3.tar.gz"
+      },
+      "0.5.3": {
+        "sha256": "8e98870e2ad4642993159145b06844aaa24900f94f3d086bb256a572643cadaf",
+        "url": "https://files.pythonhosted.org/packages/4d/3a/c7e0bf6b9061c85c6e5163ea21a01e95ed76a8f2d79d22e16cf78a74ca8f/HTSeq-0.5.3.tar.gz"
+      },
+      "0.5.3p1": {
+        "sha256": "8314d3eca14eb0c71b95db47d951cc68c41259aee0d5cb221b8d7df376e01e81",
+        "url": "https://files.pythonhosted.org/packages/40/a3/ec7bdecc674739e673a2972df2fab9c1e4ee430f6abaefe79030e7df6c8b/HTSeq-0.5.3p1.tar.gz"
+      },
+      "0.5.3p2": {
+        "sha256": "dd586abb16379d43bfd185d40f1dbb5335434ef2e5da7130614fb828def9f7ad",
+        "url": "https://files.pythonhosted.org/packages/f2/ce/cf74de2df2974f076de667631d96730aaa5d880a726f2d0c71cce2153cfc/HTSeq-0.5.3p2.tar.gz"
+      },
+      "0.5.3p3": {
+        "sha256": "e03cc622463aebff2002e189092170e0d6d2e9c04412547d6083304c3376191b",
+        "url": "https://files.pythonhosted.org/packages/89/d7/94e68fff5c27c222fb2fadf78f3eca5cde2a0d2a3f57e916a8f0491fc885/HTSeq-0.5.3p4.tar.gz"
+      },
+      "0.5.3p5": {
+        "sha256": "25244b688e36a66e5ac9068bb14dc39e641e20bad1a23dd1dc4cba81730ee0f9",
+        "url": "https://files.pythonhosted.org/packages/64/95/0cb04b6d224b704ddab4fa67bf1aa2fbd47bd79ddff57e8553762f3be054/HTSeq-0.5.3p5.tar.gz"
+      },
+      "0.5.3p6": {
+        "sha256": "339e5d2edd6abffbba682ccca7463c76c5f50abeb3cfdf8401e3ceff9e5057d1",
+        "url": "https://files.pythonhosted.org/packages/f6/5a/03a9bb7066b4e16a4caccbb916b43cd9a8f727b7274930c3659c9f2769a1/HTSeq-0.5.3p6.tar.gz"
+      },
+      "0.5.3p7": {
+        "sha256": "51992f0c6c6d054b0b08e18b92ac0dc75ca174a674f37f840b1850b4ff10c72a",
+        "url": "https://files.pythonhosted.org/packages/10/bd/6ac098e51c96b9a8184f56313d8b6a3fd550720d6ce33b3b2994e6f0e031/HTSeq-0.5.3p9.tar.gz"
+      },
+      "0.5.4": {
+        "sha256": "8ec27080dd744a669b4f885d550d1de4d0925ec6f081323476bc8f51b5319f1c",
+        "url": "https://files.pythonhosted.org/packages/7f/bf/c666bdb26cddfbde781e759bc279dbb5f20663489120b735a91544e9d7d7/HTSeq-0.5.4.tar.gz"
+      },
+      "0.5.4p1": {
+        "sha256": "532d81931d75f1af8a28152a02d8ce75d6a340c17814afb3d269e7fd025f1a66",
+        "url": "https://files.pythonhosted.org/packages/03/6a/e63a5108e6cc856abe68bbbe82fcdda21f841a37987e9904602ddd50dff9/HTSeq-0.5.4p1.tar.gz"
+      },
+      "0.5.4p2": {
+        "sha256": "9c206256d50be98a061ef611e73890e70d562753ee910f9f7e24c7f1b830866b",
+        "url": "https://files.pythonhosted.org/packages/64/d6/cb6eb07c6a67062c4c9d3fd3e33896a1cef9d7fcfc412383315d98a4a6b1/HTSeq-0.5.4p2.tar.gz"
+      },
+      "0.5.4p3": {
+        "sha256": "19bc75a325e6c93b9e5f01b672c3d73c142de88bfde3ec088a4482f16e0486b6",
+        "url": "https://files.pythonhosted.org/packages/8f/d3/3995ec1e751ba50135c80e78356739c9f9fd528edc1883d2ae502865f6d1/HTSeq-0.5.4p3.tar.gz"
+      },
+      "0.5.4p5": {
+        "sha256": "d25256cf8bf628c31e74e40d8fee7cd7badc398f7b755ae42a4a309453a31ec0",
+        "url": "https://files.pythonhosted.org/packages/dc/01/302a5f4ddee3d0951468eef62d2d29cfc61805c5aa7a12b48825fd2806c0/HTSeq-0.5.4p5.tar.gz"
+      },
+      "0.6.0": {
+        "sha256": "d7af916c77ff2df13bb782db8276e0133a829656b77b51ecbffcc8b9aed420ed",
+        "url": "https://files.pythonhosted.org/packages/6f/65/17615c8703a5b66654365db3a7a5d3cec598b968809f1e14f227b63589c4/HTSeq-0.6.0.tar.gz"
+      },
+      "0.6.1": {
+        "sha256": "9d6464e5a1776e5a2db2660d2d4bc5cba1880b5d17df3a6e9053cc0f9e6743ac",
+        "url": "https://files.pythonhosted.org/packages/3c/6e/f8dc3500933e036993645c3f854c4351c9028b180c6dcececde944022992/HTSeq-0.6.1p1.tar.gz"
+      }
+    }
+  ]
+}

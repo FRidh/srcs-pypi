@@ -1,0 +1,25 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "An app to provide a template loader which pulls templates from [project_dir]/templates",
+    "homepage": "http://bitbucket.org/cliff/django-project-template-loader/"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "89cca661abe86e7423552d3c8f448b21c252c28aecbc521cb64b6380bb2c68a2",
+        "url": "https://files.pythonhosted.org/packages/d4/3b/97fd3812cb0a03d479d079b9d36010366e50504006f45a783642dd688019/django-project-template-loader-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "d3b807a15bb7a25e1b4534ca6cefcc768c27eb21c84051272f3393aaf74af2a4",
+        "url": "https://files.pythonhosted.org/packages/d9/16/d7d28a583bffd0c59833a2f054181086e49c8ec7e59c9009fd00abc78e8c/django-project-template-loader-0.1.1.tar.gz"
+      },
+      "0.1.2": {
+        "sha256": "03435afd01e14184125b36a0d98e7e305703ad3936b71054f29433e1f6e3278d",
+        "url": "https://files.pythonhosted.org/packages/aa/74/55c719af7cfec1ca67a49e503f441e18886e72b22622f25660c18a5cfcf3/django-project-template-loader-0.1.2.tar.gz"
+      }
+    }
+  ]
+}

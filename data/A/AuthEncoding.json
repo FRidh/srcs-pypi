@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "4.0.0"
+  ],
+  "meta": {
+    "description": "Framework for handling LDAP style password hashes",
+    "homepage": "https://github.com/zopefoundation/AuthEncoding",
+    "license": "ZPL 2.1"
+  },
+  "versions": [
+    {
+      "3.0.0": {
+        "sha256": "428940f1f9ae648dd725488bd9c5725b6559de21e2d0c4f0a457c3de697c398d",
+        "url": "https://files.pythonhosted.org/packages/d8/8c/6a5aa6a08fd6e43c54efa1165d82452fee16f1c27595dffc5a1e8cd02099/AuthEncoding-3.0.0.tar.gz"
+      },
+      "4.0.0": {
+        "sha256": "9f5e20b70306561e49efbb1630ac836e17599f8d339bea0b71e8e4b23e2599ae",
+        "url": "https://files.pythonhosted.org/packages/dd/23/6ad2cd74b7dae46cecc6159324a2fcad72181a3b0080beb6ca2c7ffa0fe2/AuthEncoding-4.0.0.zip"
+      }
+    }
+  ]
+}

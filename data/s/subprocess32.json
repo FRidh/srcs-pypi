@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "3.2.7"
+  ],
+  "meta": {
+    "description": "A backport of the subprocess module from Python 3.2/3.3 for use on 2.x",
+    "homepage": "https://github.com/google/python-subprocess32",
+    "license": "PSF license"
+  },
+  "versions": [
+    {
+      "3.2.5": {
+        "sha256": "557b966aaee99647ec2946d8932bf06e0a9bceaab3fa2aa969986b86e770d65d",
+        "url": "https://files.pythonhosted.org/packages/74/07/1ba5035c03b57e231350233018136a57b04e3e0faf24f4a448544f1eb9ab/subprocess32-3.2.5.tar.gz"
+      },
+      "3.2.5rc1": {
+        "sha256": "57b5bb4e734630175ff8baca1f61f6138d488960316b0ac3faf90b288f5c4e8c",
+        "url": "https://files.pythonhosted.org/packages/b4/dd/8689399a9f9aa347cd73f0c33301a9be7e2805ee37191ce8bcdd40a4c3bf/subprocess32-3.2.5rc1.tar.gz"
+      },
+      "3.2.6": {
+        "sha256": "ddf4d46ed2be2c7e7372dfd00c464cabb6b3e29ca4113d85e26f82b3d2c220f6",
+        "url": "https://files.pythonhosted.org/packages/28/8d/33ccbff51053f59ae6c357310cac0e79246bbed1d345ecc6188b176d72c3/subprocess32-3.2.6.tar.gz"
+      },
+      "3.2.7": {
+        "sha256": "1e450a4a4c53bf197ad6402c564b9f7a53539385918ef8f12bdf430a61036590",
+        "url": "https://files.pythonhosted.org/packages/b8/2f/49e53b0d0e94611a2dc624a1ad24d41b6d94d0f1b0a078443407ea2214c2/subprocess32-3.2.7.tar.gz"
+      }
+    }
+  ]
+}

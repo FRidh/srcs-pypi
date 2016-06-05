@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Packages needed to deploy to Heroku using Hello Web App's tutorial",
+    "homepage": "https://github.com/hellowebapp/hellowebapp-deploy",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.0.1": {
+        "sha256": "61b56ae73453e1f0dc34d95e0af0f2b3dfddbd98a5753e518d4955e7f7c917e9",
+        "url": "https://files.pythonhosted.org/packages/2e/f6/bd6ef514267ecf241324875c5666c8ce5a185bd08db2b03e06b9879a5234/hellowebapp-deploy-0.0.1.tar.gz"
+      },
+      "1.0.0": {
+        "sha256": "674876846885f546bc59d65ac9c8514ceae9efa9572c62782e1fdb78ea8ec2b1",
+        "url": "https://files.pythonhosted.org/packages/57/bb/458ab8eeac965c31be061f7e986872ccb6ccca1fa6fce0af9fa8914dc467/hellowebapp-deploy-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "6984e6247678a0c6bea000eea063afe6d1fd7a4186213abec114935c22d8d842",
+        "url": "https://files.pythonhosted.org/packages/0a/56/116488ec1a15d4673dc76addaa42b6b58d150220e9b7d736adc059e1a81c/hellowebapp-deploy-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "200d8da0a03285398b9bad36bb397eb48a9cfd4935500b21b3e0626432c9c3ca",
+        "url": "https://files.pythonhosted.org/packages/fe/e3/24e44c48fb0d2a13b2206c32b4a6b9cf0853c9c8be7ac7a71748a7be0cfe/hellowebapp-deploy-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

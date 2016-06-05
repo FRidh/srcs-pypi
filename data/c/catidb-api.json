@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Client API for CATI data management servers",
+    "homepage": "https://cati.cea.fr",
+    "license": "CeCILL-B"
+  },
+  "versions": [
+    {
+      "1.0.0": {
+        "sha256": "72692dedd91ded07f59521ab1fc774cad9cb4a49eea789bd53346b5adb133537",
+        "url": "https://files.pythonhosted.org/packages/e7/2f/69e9eb0d6dc1c44ab54fa0fc417cb3478a3740784c71b000b804f7e6fde7/catidb_api-1.0.0.tar.gz"
+      },
+      "1.0.1": {
+        "sha256": "aec7f3b0c9dbda463599856cb897dc0937af75b8e6a2c86eef70aa8854a22c4d",
+        "url": "https://files.pythonhosted.org/packages/91/ff/e9e54e8f5d6a96ceba2a23ca2e2d5bc6308de43a058c4bda26a2b6bd09fd/catidb_api-1.0.1.tar.gz"
+      },
+      "1.0.2": {
+        "sha256": "30f5f33f4d05ea9b2ab17aa618127597ffd8cbabbeaf1e9168a8247b7c319398",
+        "url": "https://files.pythonhosted.org/packages/8d/71/71d706235d011ee2a3b1b1f640bb0112366ec80e62a19bbbb8d387f7419d/catidb_api-1.0.2.tar.gz"
+      }
+    }
+  ]
+}

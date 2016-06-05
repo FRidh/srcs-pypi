@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A python wrapper around cve.circl.lu",
+    "homepage": "https://github.com/mrsmn/ares",
+    "license": "Apache v2.0 License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "dbf243d1a714cb0f8886aff849f1f90c892f5af46e61df23edc3cf1e65582b80",
+        "url": "https://files.pythonhosted.org/packages/fc/2e/8138a9ad845cb76f6e5acf2c0d156653fb1f60371258c3b9a647105d0636/ares-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "a8e68fc649fd4c6ec59d84ad6b498e496f5dc5c86089addd244b3d01bc0e2448",
+        "url": "https://files.pythonhosted.org/packages/06/2c/7e7dcfee12df309e0581a5a777a4a921bdf6d7729a9d57f7bb7540cc802a/ares-0.1.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "c149d2fd491211f6ea17eb1fccde45b745f21b5ef334a297d47c1f9f9dabc35a",
+        "url": "https://files.pythonhosted.org/packages/5e/73/5ddf7a925af8f315fb4457a3c0018596a001437900458e96245ef72e6532/ares-0.2.tar.gz"
+      }
+    }
+  ]
+}

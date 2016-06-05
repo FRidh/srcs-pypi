@@ -1,0 +1,22 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "A fastcgi wrapper for weave-minimal (for uberspace)",
+    "homepage": "https://github.com/oa/weave-minimal-uberspace",
+    "license": "Apache License 2.0"
+  },
+  "versions": [
+    {
+      "0.9": {
+        "sha256": "fd7a58fc3ed83b82db6c9fedce271f30107d9dc3d757b31bc32411a2002e1c30",
+        "url": "https://files.pythonhosted.org/packages/b8/09/534f9b0a264a77510e7ad0a0f232cd78c31b138074924e2583555d764502/weave-minimal-uberspace-0.9.tar.gz"
+      },
+      "0.9.1": {
+        "sha256": "4c1f9e1e7b66eb0e26fd1d1d0457b6322312e451891476b8c965061031a91dab",
+        "url": "https://files.pythonhosted.org/packages/94/1d/5ca074a7073df9995be7a8f82a8de660b29672a657c10aff702adcdd6807/weave-minimal-uberspace-0.9.1.tar.gz"
+      }
+    }
+  ]
+}

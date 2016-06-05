@@ -1,0 +1,33 @@
+{
+  "latest_version": [
+    "1.8"
+  ],
+  "meta": {
+    "description": "HTTP-layer support for Scapy",
+    "homepage": "https://github.com/invernizzi/scapy-http"
+  },
+  "versions": [
+    {
+      "1.1": {
+        "sha256": "174c77184afe068c8cdd2be1c7fbfd65d93d328baae495b072dbf5763247efc7",
+        "url": "https://files.pythonhosted.org/packages/6c/88/f33594bf7c9ddacd30666503e77f97bbd6416c90a1ed29c247359afacfb6/scapy-http-1.1.tar.gz"
+      },
+      "1.4": {
+        "sha256": "46178f8e4be8e12b6314f7c900bce1c3d9bfafba34a8463dc713b800af13e41d",
+        "url": "https://files.pythonhosted.org/packages/79/e7/82a0c59313f1f838e138785853cf95d0a015d23f27bea5ffbc5acee0461a/scapy-http-1.4.tar.gz"
+      },
+      "1.6": {
+        "sha256": "b5bf9598677fb76924f5bd87837517c5f0d1b9577645869f785434e778c6fcbd",
+        "url": "https://files.pythonhosted.org/packages/1f/57/3d0d5026065b23ee2669571dcd1213e74a7969d4a3beb9d70da5bb8da0b2/scapy-http-1.6.tar.gz"
+      },
+      "1.7": {
+        "sha256": "26adbbdb64e8381054d8b9363f37e3e44901831d2faea81d2fb30af368e2418b",
+        "url": "https://files.pythonhosted.org/packages/b6/a2/cfd2526ee4a5e2c43b26d0fbccf08dcb11d78804723b70b6e26757569e40/scapy-http-1.7.tar.gz"
+      },
+      "1.8": {
+        "sha256": "fa72d967b7fd82ffbbbf244dc4fda3154a723fd6334006e0f17d4c991b52fa4d",
+        "url": "https://files.pythonhosted.org/packages/f6/5f/d5b60f6b1a1fb2ed28faa01d5c1aaaf5d399caaa4e4fee1cc16abaad5802/scapy-http-1.8.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "latest_version": [
+    "0.8.1"
+  ],
+  "meta": {
+    "description": "A Django based, hourly work logging app which supports job coding, view filtering, csv report generation and an e-mail reminder system",
+    "homepage": "https://www.fi.ncsu.edu/"
+  },
+  "versions": [
+    {
+      "0.8": {
+        "sha256": "b4edd2932a73d55e003a2a95c814c719c09c2a5982b4a5b733be5ed09dd8c166",
+        "url": "https://files.pythonhosted.org/packages/49/26/9fd50560e5455896fee04ff542c051a10136375a32787165a80ff7eeaaca/Worklog-0.8.tar.gz"
+      },
+      "0.8.1": {
+        "sha256": "d3cdc3e0ce429cdd89aeae02e4bba6d156b42c83a949ebd9f92140ebf0392bb2",
+        "url": "https://files.pythonhosted.org/packages/95/7a/20d20117028ca2be628946ffa6675290d2383919f196199a94a2fae6c4d9/Worklog-0.8.1.tar.gz"
+      }
+    }
+  ]
+}

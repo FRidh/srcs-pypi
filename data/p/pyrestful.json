@@ -1,0 +1,30 @@
+{
+  "latest_version": [
+    "0.4.2"
+  ],
+  "meta": {
+    "description": "simple and useful Restful API for Tornado Web Server",
+    "homepage": "https://github.com/rancavil/tornado-rest",
+    "license": "http://www.apache.org/licenses/LICENSE-2.0"
+  },
+  "versions": [
+    {
+      "0.3.1.alpha": {
+        "sha256": "e358403df4006cc83ae8654fa9ea2d9d150dfc4a00d0dbc4202bbb12635994db",
+        "url": "https://files.pythonhosted.org/packages/62/77/a06f2f88659447fe6eb97e097b7c2dba5fb4465997e23c9b786e3eac9e8c/pyrestful-0.3.1.alpha.tar.gz"
+      },
+      "0.3.2.alpha": {
+        "sha256": "15406fa110f87f9cf100c857eed74ef17c5b9a6d0b29fef8c59267eabe74a2e8",
+        "url": "https://files.pythonhosted.org/packages/77/4b/ca4df38459605753cb3dcad556ef5110b71f572837ac53afc772cbe10dab/pyrestful-0.3.2.alpha.tar.gz"
+      },
+      "0.4.0": {
+        "sha256": "52c604977bf09f2978c5ef716e35be3e930f05c453ac5a566f25b19a84683b06",
+        "url": "https://files.pythonhosted.org/packages/51/27/5d842d7d72a2c1172d36c68975a78b578f2706b397143e534e955516af5e/pyrestful-0.4.1.tar.gz"
+      },
+      "0.4.1": {
+        "sha256": "191ff0f7b124291e56158efdcb9fc33d8e4db4957562b2c38c221beb54b2b1ef",
+        "url": "https://files.pythonhosted.org/packages/5b/cb/2474a9385ce8452ef2e23efb81caebc18cc894e27e39b14bec7032617bac/pyrestful-0.4.2.tar.gz"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Server for coordinate trajectories from molecular dynamics simulations",
+    "homepage": "https://github.com/arose/mdsrv",
+    "license": "MIT"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "314ac3d7c3c4d46e8ed247fa82bb1f00775e9b6fc803a36bdd798b09938fb323",
+        "url": "https://files.pythonhosted.org/packages/7a/df/a0be81849b82b4abab5ebba5bea4c3c8fce753d448aea279bd8e8a86960b/MDsrv-0.1.tar.gz"
+      },
+      "0.1.1": {
+        "sha256": "f0a5126ec77b5fe996530eafe6caf6668d6130c1e3583bd966b1b9592d7d6a22",
+        "url": "https://files.pythonhosted.org/packages/76/01/2ab20c1dfb579be6f948d0458ca0810ea7ececbe5a7fadfead9ddff0b550/MDsrv-0.1.1.tar.gz"
+      },
+      "0.1.dev0": {
+        "sha256": "b8bf81b42cfb9d234ebb3e460ba1a38dcd095c8c017e2bf5bdb6cce9c04e815f",
+        "url": "https://files.pythonhosted.org/packages/30/d3/45a6ff8b4dc79a76258fea643e9c522d5669f00e66c38f3ec8ec9399aba0/MDsrv-0.1.dev0.tar.gz"
+      },
+      "0.1.dev1": {
+        "sha256": "3ba05eafafdb2c66312f55b7f79a0608e58c7645972688ac0fd44282817a5699",
+        "url": "https://files.pythonhosted.org/packages/2e/4b/194c5820870d31ea9d09405915f48a2456925d2936cd299a1151d0363853/MDsrv-0.1.dev1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "c90d394b32554e8ad9bad21a66017dec5557e9e6c7dda69f6639309fc01ebc8b",
+        "url": "https://files.pythonhosted.org/packages/d8/f8/2b92ad2832f6b19629d4ae3fb5be4b42817088c2fdd53889cb0ffd464f5c/MDsrv-0.2.tar.gz"
+      }
+    }
+  ]
+}

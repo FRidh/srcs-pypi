@@ -1,0 +1,26 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Cache manager for caching django models by natural keys",
+    "homepage": "https://github.com/shadowfax-chc/django-natural-key-cache",
+    "license": "ISC License"
+  },
+  "versions": [
+    {
+      "0.1": {
+        "sha256": "2d4aa71c426fcbd3e8f0ec03b8e436da3d3e76dd0458f8fb77c12bd57ee94516",
+        "url": "https://files.pythonhosted.org/packages/e9/51/1065f56b22440839b822c3e15ff9c764e9a82d8cb052cbd66ffbdb689fa5/django-natural-key-cache-0.1.tar.gz"
+      },
+      "0.2": {
+        "sha256": "c513c305efc1142322217f919790008588a82ea7a58641ff639b83f9e06f8602",
+        "url": "https://files.pythonhosted.org/packages/90/b2/29b40fa8c1604ca271de2276a4d672ba25ae9c9f4965713c9b2a6da5d5f5/django-natural-key-cache-0.2.tar.gz"
+      },
+      "0.3": {
+        "sha256": "3b6bcba9304e0e8823bbe49f1aeb6ac2eb74f1c7944fde160a4ae3b8ac580258",
+        "url": "https://files.pythonhosted.org/packages/8e/0c/28ed5322862573aa2a2a5b45a048533b1bcb62d5dcf53b3cdb774298e57d/django-natural-key-cache-0.3.tar.gz"
+      }
+    }
+  ]
+}
