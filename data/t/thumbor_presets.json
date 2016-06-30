@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.1.3"
+  ],
+  "meta": {
+    "description": "thumbor-presets\n===============\n\nMake [Thumbor](https://github.com/thumbor/thumbor) urls short and sweet by keeping common\nsizes and filters in settings.\n\nEver felt your inner perfectionist crying when looking at the Thumbor urls? Want to nominate Thumbor for the Guinness World Record for having the longest urls in the universe? So did I. Meet thumbor-presets - a tiny add-on to keep your most common sizes, filters and settings right in the Thumbor's config.\n\nUsage\n-----\n\nInstall this package via PyPi or GitHub:\n```sh\npip install thumbor_presets\n# or\npip install https://github.com/alexmorozov/thumbor-presets\n```\nAdd your common presets to your Thumbor config file:\n```python\n# thumbor.conf\nPRESETS = {\n    'small_thumb': '250x100/smart/filters:grayscale(),watermark(/some/image.jpg)',\n}\n```\nStart a Thumbor instance with a presets-aware app:\n```sh\nthumbor -a thumbor_presets.app.ThumborServiceApp\n```\nAnd you're done! Access your presets the easy way:\n````curl\ncurl http://thumbor_server.com/unsafe/preset/small_thumb/image.jpg\n````\n\nSee also\n--------\n\n* The excellent [thumbor-community/shortener](https://github.com/thumbor-community/shortener) extension also allows you to shorten your urls, though a slightly different way.\n\nRequirements\n------------\n\n* thumbor\n\nLicense\n-------\n\nMIT\n\nAuthors\n-------\n\n`thumbor-presets` was written by [Alex Morozov](mailto:inductor2000@mail.ru)",
+    "homepage": "http://github.com/alexmorozov/thumbor-presets",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "81ae05f6fa03add12aa27fb07a4819a325b60774a4e3e64f584cc40cd7b27d79",
+      "url": "https://files.pythonhosted.org/packages/d3/64/9919f8a1c239a1b5c98a24fd78785d1da70bad8b880b173f12f7ea107efa/thumbor_presets-0.1.0.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "44abf12b39162dc9f205cdb3daf2af491b4d7b239acbf2de9185583aec5e6c46",
+      "url": "https://files.pythonhosted.org/packages/4a/2f/7b43d49b0909cf74675871a2da52e856bb0cd40fd0617fa81ccd98f3ca1f/thumbor_presets-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "3f2def2b87fd2834c9e7977699580dc85923e3a06e6566a4cae9e0b4a30534ed",
+      "url": "https://files.pythonhosted.org/packages/97/c0/1f0ded52e35d05c6802de3eb016770c7a36d231b9aee9ce4c172311b13c3/thumbor_presets-0.1.3.tar.gz"
+    }
+  }
+}

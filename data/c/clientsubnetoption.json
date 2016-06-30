@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "2.1.0"
+  ],
+  "meta": {
+    "description": "EDNS Client Subnet option support for dnspython",
+    "homepage": "https://github.com/opendns/dnspython-clientsubnetoption",
+    "license": "BSD"
+  },
+  "versions": {
+    "2.0.0": {
+      "sha256": "03ab750a08442b404898472b1ca439b3f3f29e817e2253424b1267fc1b9a54da",
+      "url": "https://files.pythonhosted.org/packages/e5/84/e472af853e455270b4b627d0aa56c6eb733cb14f706f1bc89ff7d7d66260/clientsubnetoption-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "b76812bad00bacd3aafabde8325fa0a3452b87ffe9374e5aa93896478e97f24a",
+      "url": "https://files.pythonhosted.org/packages/65/7e/5cf560f14c567e76920477025d3e73cd9b7de0db7a89e333fc8ebaea6821/clientsubnetoption-2.1.0.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "latest_version": [
+    "1.5.1"
+  ],
+  "meta": {
+    "description": "Vagrant wrapper for testing Ansible roles",
+    "homepage": "https://github.com/metacloud/molecule",
+    "license": "MIT"
+  },
+  "versions": {
+    "1.0.1": {
+      "sha256": "6750e16b5e26b0daeca8b3810148f53a350b888d7c542d173eab0f160de3f779",
+      "url": "https://files.pythonhosted.org/packages/da/63/5261e9e5243c1a1742de440141930786ce40e3bb062def0ff59bd14c7646/molecule-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "ae6081e41155e447051c7f119a8362609935923ce2915f10a37d8692f12bf96f",
+      "url": "https://files.pythonhosted.org/packages/c1/3e/99c28482f7e066243e66e0f78997f8e3c1a9b60209a1b4b5603e820ae0a7/molecule-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "0ef5dc3257bbc40bf19974fd78d45a49e29c1d4fa11401266d271f216c01c0c9",
+      "url": "https://files.pythonhosted.org/packages/2b/66/e862df8d9951f8a125b396ae9adebe9bdd7c83629b433e31dcf0d5943662/molecule-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "e0439b564c65741b5292bfccdd73de1ef8367aabf571f952d17a2bbfe007406f",
+      "url": "https://files.pythonhosted.org/packages/5f/12/d9bc9009b9a6622fb9f8255621c8dff676d0e77cb2dd621542fefeb75f5b/molecule-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "71c812a8148aff0baef4def4ecd3fbe310c68a73ac9db4edd19da19b63f79127",
+      "url": "https://files.pythonhosted.org/packages/cd/ab/acf6e725a0d450d07ecc0438811e139565b1982c47a03deb09d119344ec7/molecule-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "2c628154523e5ef8993f8035785e3233fe585aa8469f369ae0213217bbcc8603",
+      "url": "https://files.pythonhosted.org/packages/69/df/fc5b446087bbf58f8bb65ae94029f4ba58cf42fb761e8fb46a5bd4641b99/molecule-1.0.6.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "c184ac4649b97d4343c2b3b0db652ceca542ec8c2ca397b56c026b05e2a5d209",
+      "url": "https://files.pythonhosted.org/packages/31/9d/b1e6d05619e7966c3353426b7d532f4b6fe5c004d364eea402dcef4feae9/molecule-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "e8a5037fe27367cc4b49dd638434f45e7ffa758dda8a88da844baca64174377b",
+      "url": "https://files.pythonhosted.org/packages/75/c2/58c269cbbb34e29dddf568ea8c7b809de3b286579f9edfe45d1b581a7427/molecule-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "de5da9b1718d05f7a113bf9399ab5d51becd0dcd03ba26aa6d56221da3b40fb0",
+      "url": "https://files.pythonhosted.org/packages/44/5b/4470046c6a366ae3870b4d849ce01d8fda1fcab47d6d0e7c3f6e7e4eaf02/molecule-1.1.2.tar.gz"
+    },
+    "1.1.2.dev12": {
+      "sha256": "e17f31de160d2534752d129a1e028348157b8d5e9bb37aed2c195068cc1e8623",
+      "url": "https://files.pythonhosted.org/packages/23/e8/33f05c80c5449f3822668eb9d148276d88bf08e15e8fe57fbc8a3bf24435/molecule-1.1.2.dev12.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "569f5d258b90da4036df07fafdc2a25e52bb937d5041614df4b4f357859adb1e",
+      "url": "https://files.pythonhosted.org/packages/bb/aa/9d47fcf7bfd9448af6264671e2686f62c279a8a9e1d895b0b855ad71284e/molecule-1.1.3.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "14441d286bcd76c075c1eb2001bd7329a6f7f383ba8a3a5554c774dfe72224b7",
+      "url": "https://files.pythonhosted.org/packages/47/56/2169132ee95ddc62eb5b7fd3aadbab65c54e47e14000eac434f6f0d40e44/molecule-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "0c2af521dcad24f6475b094ed2d8730c74da6ac1c85949373aef2ef0aa1fb1d4",
+      "url": "https://files.pythonhosted.org/packages/e7/1b/803a531008100ce1cc757d7a2dff45f7b4f80f4256e6844029e605bdbf0d/molecule-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "bd5672e1189aebd84e35fdab6850e4089afb70315a5789f1abbc116b7985f63c",
+      "url": "https://files.pythonhosted.org/packages/e6/a0/004d477aecfa474c1377c6128c15ee873c121ddd9bb5a7a3942288850c5b/molecule-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "444cc62790a0e823f77f6b9f6a2a3ef3844ed4e1c03feb96af97548f3db1fbfd",
+      "url": "https://files.pythonhosted.org/packages/09/2e/586269aa52cc7fe0afb6e8429ba30058a8863b9a29f5d7577b29208876d5/molecule-1.2.3.tar.gz"
+    },
+    "1.2.4": {
+      "sha256": "f3199d7fda5f60bd5859f0217c2ee8f2114bdb46247128b37ab5df1569d1dd50",
+      "url": "https://files.pythonhosted.org/packages/c4/b8/d2194c5ad8ae1d733a4a9b382f915cacd9cbdfc6b8821fe3ed9a1c93f34d/molecule-1.2.4.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "e82c5b5accb3c79299eaa55955f82cfee475d7fff9e6fb292a7de96f00e77a0d",
+      "url": "https://files.pythonhosted.org/packages/89/40/9d235db55a584a54122cba6cfe1a417284754e6902007dc0a295ff6ac5b9/molecule-1.3.0.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "58768bdec8639c3dc631fcc969fcb459ce6b4945a31b67643ffe84611f433411",
+      "url": "https://files.pythonhosted.org/packages/22/65/fbc674b92a114016a2c1f697f774c871186881067aa0b4a101418547dae9/molecule-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "b4a7f251c2de744e39d4baa05c30307ca8fd2395e68802a30d219fc89f62388b",
+      "url": "https://files.pythonhosted.org/packages/b2/52/9f3612d480d95ae445a328977c1d0f0333eb0c70b2bacf7356b3ea71a3fd/molecule-1.4.1.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "f7289ac916c871796a52e501027da6e59b3e9f48ccc0cc708219c804b6b82066",
+      "url": "https://files.pythonhosted.org/packages/21/98/214fabf2456420aa616440d9ae8fc279f3e89ed6d28db2ffd9b204035f77/molecule-1.4.2.tar.gz"
+    },
+    "1.5.1": {
+      "sha256": "9f5064f95a599ab38fc282d8d57c140716ab2df116b0127c3994cb24de4dee63",
+      "url": "https://files.pythonhosted.org/packages/24/ad/83e8c7244947a0d9d18ac66486a869c09c436258b505d5263dda74d25939/molecule-1.5.1-py2-none-any.whl"
+    }
+  }
+}

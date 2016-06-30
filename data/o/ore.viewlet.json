@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "These are some extensions of the base zope.viewlet model, preconstructed\n    viewlets for container management, and new primitives like a private event\n    channel, and private annotation storage on the viewlet manager, multipage/wizard\n    viewlets, and formlib viewlets",
+    "homepage": "UNKNOWN",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "bd6219d810607e704f18c62b36679b6556df3aad03b7b6e5733f824126d0f8c7",
+      "url": "https://files.pythonhosted.org/packages/65/c8/7afa7d15ea43efd698f8fe9102ff7039610a1ccd2528d465433a057b1ebc/ore.viewlet-0.2.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "72d133ec50d0989d1189b4eaeadc0767319054d2cbf8043dc34f233f03a8f21e",
+      "url": "https://files.pythonhosted.org/packages/4f/eb/4626a0176cdb53004314f737e88de67170fa8916b72d24fc9eecf06155bd/ore.viewlet-0.2.1.tar.gz"
+    }
+  }
+}

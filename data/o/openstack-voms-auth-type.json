@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "VOMS-based authentication for Openstack",
+    "homepage": "https://github.com/enolfc/openstack-voms-auth-type",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "3c1b6aad1ccf16df0de751d8db14535db8cdfd1461277d178de06f2d4c410e4c",
+      "url": "https://files.pythonhosted.org/packages/28/f0/d7012366389aa5e2d1fbd893a150ff7bca6554387da58f48876dbed57853/openstack-voms-auth-type-1.0.linux-x86_64.tar.gz"
+    },
+    "1.1": {
+      "sha256": "5f4da7ea655b4672c4cc058c3f2b83491c190cbb65968fdccb3325d60a85e401",
+      "url": "https://files.pythonhosted.org/packages/b6/c8/e96ca81a2717caf9b1d9d0b4d1ff624cac005e18a3916ba7e805a7d41d9d/openstack-voms-auth-type-1.1.tar.gz"
+    }
+  }
+}

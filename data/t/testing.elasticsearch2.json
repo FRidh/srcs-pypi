@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "automatically setups a elasticsearch instance in a temporary directory, and destroys it after testing",
+    "homepage": "https://github.com/tk0miya/testing.elasticsearch",
+    "license": "Apache License 2.0"
+  },
+  "versions": {
+    "0.9.0": {
+      "sha256": "54c064eb7d4783f49d472876e04cabf89d077b9ada80a2ce9eec54f13a69a751",
+      "url": "https://files.pythonhosted.org/packages/76/e5/44ba03bf9d9eca5813e2ec0a52da67544d1b9029d0dbcc41643fcfc18de6/testing.elasticsearch2-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "bd03ec03974b35e2687622289a90d3081359075e5f9fdf912afa3f925c08da17",
+      "url": "https://files.pythonhosted.org/packages/73/88/153afaeec3238e15d4481c2273e16fe29b94cb7396a97b7f411b31090b77/testing.elasticsearch2-0.9.1.tar.gz"
+    }
+  }
+}

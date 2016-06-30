@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.4.1"
+  ],
+  "meta": {
+    "description": "A partial implementation of the SCIM 2.0 provider specification for use with Django",
+    "homepage": "https://bitbucket.org/atlassian/django_scim",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "7b4d549a1083a3ae20bc23f313f6e150436503a770045b2d9f0f453be0ed9185",
+      "url": "https://files.pythonhosted.org/packages/b0/41/757fca846b02f1c9caea34092079a5b6280581cfa67f7cb6e85ddb813bf7/django_scim-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "30f89d6ecaf73503e408e36275b27a112b2ace9d3eb8557ab7207915fdeddaa6",
+      "url": "https://files.pythonhosted.org/packages/03/f9/2d8d5c70d5813fe1d313f74488f75f8b20e254787c536a276328767c535a/django_scim-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "56ae7706978f18f879f7c936c7cfcb686afeda4eb17c35366d999e41de105bcf",
+      "url": "https://files.pythonhosted.org/packages/2d/89/90220c4d78bf1e4644339af2dbceb39936b0f361abb360a93a7447269235/django_scim-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "eea9e7faff6ff549e12851f55d9e4d9c4c62b3553f5a972da4b78cd32e8a02b5",
+      "url": "https://files.pythonhosted.org/packages/a8/ad/d691279ac2f61fff1b5220ccdcd8344d804017e446ad8a7e30933c6df473/django_scim-0.4.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "ab40f82913512e79b2564a899d7a2f977398c2ddc75e4963e89e4821675f9243",
+      "url": "https://files.pythonhosted.org/packages/1e/79/72c983bdcfbb007abab5d9faf16d3e364c4052fae9d5f82dd64d2f4ef501/django_scim-0.4.1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "latest_version": [
+    "0.11"
+  ],
+  "meta": {
+    "description": "A WSGI middleware which processes ESI directives",
+    "homepage": "http://pypi.python.org/pypi/wesgi",
+    "license": ""
+  },
+  "versions": {
+    "0.10": {
+      "sha256": "3c8202eaffad9ee2ad69f3288039cf21e34a07c1be9cfcb75053d303764f519a",
+      "url": "https://files.pythonhosted.org/packages/11/4a/4a8d3136746feff39b4e9be0453640a427446bc9069144b7d430699b12ea/wesgi-0.10.tar.gz"
+    },
+    "0.11": {
+      "sha256": "42de44d63fedeaef5b6983fa8d84120ec7826d011b5a1abca0cebdd9ddbfdcda",
+      "url": "https://files.pythonhosted.org/packages/ab/0a/07ac7bdf888b3fb43a73eed2b0c6b012f76da71837e545e20b9219bb553c/wesgi-0.11.tar.gz"
+    },
+    "0.5": {
+      "sha256": "c249fc31938ea6a9278bb5d48926484d0150b5fa0031ebc2140ee44bd6392f1a",
+      "url": "https://files.pythonhosted.org/packages/00/8c/56985898ece2a5b65b8997227b16f6c15e6c0e99cb670bfe56e1ba04cb27/wesgi-0.5.tar.gz"
+    },
+    "0.7": {
+      "sha256": "5a06c4e766efbff7f9184ea26c6462e452601a8bf600579037f588a5c3fc560d",
+      "url": "https://files.pythonhosted.org/packages/d2/7a/bbe1b936e61f9c3e5a71d1e1424cc7e57c1da8153ea6f9b790fcd4e07106/wesgi-0.7.tar.gz"
+    },
+    "0.8": {
+      "sha256": "64e19d069225590a1fa1836e10cba56796ea0ca048038ed26e53621b5070e855",
+      "url": "https://files.pythonhosted.org/packages/aa/87/7f8b04f42c9ca5a0a42d00d348744820c9622ca46729ca8280595797f87e/wesgi-0.8.tar.gz"
+    },
+    "0.9": {
+      "sha256": "dad6b40cbd5681c9c563cb667c405a5ab8fa8149ef22f00f47b41b5aef9b4734",
+      "url": "https://files.pythonhosted.org/packages/81/02/bb62768e862808321737a3135d87ffa54a1b7033aed0f15dc07c282fad62/wesgi-0.9.tar.gz"
+    }
+  }
+}

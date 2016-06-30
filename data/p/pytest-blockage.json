@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Disable network requests during a test run",
+    "homepage": "None",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "0d2e023f55cb3d81caf6e9a35d213d29bd162891c4f8161fab25d40f5c581c9d",
+      "url": "https://files.pythonhosted.org/packages/41/11/2698498ef1f68ca6cff7db5b4d791587ab617af4ba545f4d69df142c0181/pytest-blockage-0.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "bc5973bcb787b8dd3572a5c7966edf725f13fc891039cbe872bbb917be5b6ffb",
+      "url": "https://files.pythonhosted.org/packages/ee/d0/28319209a158fbdf0deb548c70e13621ac811ca211e932b7b610200084bb/pytest-blockage-0.2.0.tar.gz"
+    }
+  }
+}

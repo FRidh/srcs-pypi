@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.1.4"
+  ],
+  "meta": {
+    "description": "Provides interface for uploading and distributing software through cvmfs repositories",
+    "homepage": "git://github.com/mknapik/uploader.git",
+    "license": "Apache License"
+  },
+  "versions": {
+    "0.1.2": {
+      "sha256": "3aafa55e06313ccdfd435767e587f5b716992897e677baa87701a8cd01cbefb3",
+      "url": "https://files.pythonhosted.org/packages/47/8a/807c93b474c39b031aaf520e824c01cf8322523fe931558d553b9eafbaaa/stfc_stratum_uploader-0.1.2.linux-x86_64.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "e6ea935498044ed2f244e91221b050fa3af95c75c38ed93652c6f3d843a75136",
+      "url": "https://files.pythonhosted.org/packages/15/fa/a0e9964639ae35599390c7f658ed1fd9da08643ed1b6db0e5177c59e6697/stfc_stratum_uploader-0.1.4.linux-x86_64.tar.gz"
+    }
+  }
+}

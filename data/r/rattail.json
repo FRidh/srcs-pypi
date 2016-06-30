@@ -1,0 +1,780 @@
+{
+  "latest_version": [
+    "0.7.6"
+  ],
+  "meta": {
+    "description": "Retail Software Framework",
+    "homepage": "https://rattailproject.org/",
+    "license": "GNU Affero GPL v3"
+  },
+  "versions": {
+    "0.3.1": {
+      "sha256": "e6e8f294d2014ef9bacf37ba08943ed11b8d2c8613b2ff50afbd30bed2f4d0db",
+      "url": "https://files.pythonhosted.org/packages/83/9b/3497859240f5f42f156e3cba341ca7819683e87b96d34d63360d75b761a9/rattail-0.3.1.tar.gz"
+    },
+    "0.3.10": {
+      "sha256": "339d7f2f1a34a0490bf548b432717e2c5eaa27d7c57eb89ee7edbf65133b680b",
+      "url": "https://files.pythonhosted.org/packages/f6/c1/cd18751dfe15b6374621e551b0ed7a772a9112035da961ec7ad4681bf1a5/rattail-0.3.10.tar.gz"
+    },
+    "0.3.11": {
+      "sha256": "e84077d87e60129e928dd26a66cef13bd087de519bbdfac48c72251b561749b9",
+      "url": "https://files.pythonhosted.org/packages/68/9c/4481910655633d820b90a11b99894751914e3a1f2da60d815108e4b28886/rattail-0.3.11.tar.gz"
+    },
+    "0.3.12": {
+      "sha256": "70dea85c6da4057287924a0303cb2bf5c5e98d2ea8d4f42c0ca4ad5dfd1c9f75",
+      "url": "https://files.pythonhosted.org/packages/22/df/f2ffc8782e919355847562001cfb57f1ddc35827bac63c9b134dade3ccd0/rattail-0.3.12.tar.gz"
+    },
+    "0.3.13": {
+      "sha256": "4fd77f76c66215731e1b4f8442ad30e04abec088c54d870d51b642a63ec8499a",
+      "url": "https://files.pythonhosted.org/packages/f7/a3/d61e75e843eca0dcc8251bdcbda6fc8d675bdd2be2821abac9916cda6a26/rattail-0.3.13.tar.gz"
+    },
+    "0.3.14": {
+      "sha256": "04786298213797fa40f0a4de95c5112a729a0676cc2d5534512c028082ab756b",
+      "url": "https://files.pythonhosted.org/packages/5a/67/346da1f5d2929141c3232cb4e609e73f310947318f77073789240c2c4744/rattail-0.3.14.tar.gz"
+    },
+    "0.3.15": {
+      "sha256": "1b2fcde1567d59dddae952ee66088e4188ba9ec1fa03768df24618d9979d5aae",
+      "url": "https://files.pythonhosted.org/packages/fb/90/08b8a6f970f9d74e0e04deb9365e9d7789efef678431e0b0b2d5c73fa1d8/rattail-0.3.15.tar.gz"
+    },
+    "0.3.16": {
+      "sha256": "ef3baf47d7b1fd2603346c4f231e0e61087f7246b6bc744fa530b9176f6be13c",
+      "url": "https://files.pythonhosted.org/packages/56/7e/322ddc0429343ce546dfaafee890325a52d67819df20eb2f6de4f16e0be6/rattail-0.3.16.tar.gz"
+    },
+    "0.3.17": {
+      "sha256": "6070570bab4201c9273de67589d942dcc19f8d09a6a5bb91acdead12d863b405",
+      "url": "https://files.pythonhosted.org/packages/bf/16/a48a4d26ad61c19bf345c68b105245662800f3fd7aba3c72c8f18e4a05f3/rattail-0.3.17.tar.gz"
+    },
+    "0.3.18": {
+      "sha256": "bdf27eee78242aadae75b1f135a38fb4da38a7d43ef60daa379ade229bb3bee4",
+      "url": "https://files.pythonhosted.org/packages/ed/f1/664a32d984272d4b482a63eaae12077433bd2f93a1c18a76f94377c33c6d/rattail-0.3.18.tar.gz"
+    },
+    "0.3.19": {
+      "sha256": "6bf7fa66cfe01abddcbf00612a935db3e328171c48da3c3ecad385a68b76a26e",
+      "url": "https://files.pythonhosted.org/packages/10/be/252aad44efdd57c17bf5ce2ba7c65c665fa336c6192f9e54e450e6390352/rattail-0.3.19.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "a17d8a95092a670fdd97bd1bdc023909e0b3541e5eb7b9fb886fab4e53a4c508",
+      "url": "https://files.pythonhosted.org/packages/42/14/8e0ddd024c6f49c3c8159a97c785d9dce0ed5fb221985b2748af7e0db83d/rattail-0.3.2.tar.gz"
+    },
+    "0.3.20": {
+      "sha256": "890ef55c449f12c17cae5b4c598a7a6607e8a8ca234a1c82c58386a736b4125b",
+      "url": "https://files.pythonhosted.org/packages/85/0b/799da78b740e2cfc93585be22a7dd6ee24d25efa07a21c9f55b8346aa9ce/rattail-0.3.20.tar.gz"
+    },
+    "0.3.21": {
+      "sha256": "d9639b242ef784a7aa8ee7e3e7f4ff88a1710aa3fc9a2fabe47c32e33f7bf478",
+      "url": "https://files.pythonhosted.org/packages/c0/7c/5e8aef8ad32c57c18caab50dbd86a25a230bbf7247ce1c9f77dc511aad82/rattail-0.3.21.tar.gz"
+    },
+    "0.3.22": {
+      "sha256": "bad191a98586cd2b085e37b5437f19d5ccfb1ffe4d4dbde32ce035e56a8425d4",
+      "url": "https://files.pythonhosted.org/packages/22/20/7fcd3a80f670737a1a3dff0c0bc18b50ece7d1ce40927a51c70da3dcdbd5/rattail-0.3.22.tar.gz"
+    },
+    "0.3.23": {
+      "sha256": "13a7b8272b2057eec7979be6505efab1b422198fb271866d6602d318e0a75da7",
+      "url": "https://files.pythonhosted.org/packages/cd/e0/757284f67121bf3af8dd625b3e3976d34002269d0109ec9e59fbdc3d7638/rattail-0.3.23.tar.gz"
+    },
+    "0.3.24": {
+      "sha256": "1e21649db74f0d27ee7393b386af8342a785b78e721f8de67b27bfda3068aed0",
+      "url": "https://files.pythonhosted.org/packages/36/7b/54fe54b5b23b872cf46541c0fa4d456e08aae2e5c1e330008b265a9b80fc/rattail-0.3.24.tar.gz"
+    },
+    "0.3.25": {
+      "sha256": "ed4127f165fb8b84dbbdbda3bd9409fa4a77051482e65cc67452bd986159863f",
+      "url": "https://files.pythonhosted.org/packages/0a/b7/d08916e902d37edbea5b14ff207fcf77abab31c0bfc749fd73318d29f990/rattail-0.3.25.tar.gz"
+    },
+    "0.3.26": {
+      "sha256": "0aacd904e15880db4232f7187ba219d8a9be2e83055d8bde819a9e91d7108482",
+      "url": "https://files.pythonhosted.org/packages/ae/5e/0cbaf7efcad2863b4d5453dd8a0e6a6df824e2f89140f5dcb089a54ab313/rattail-0.3.26.tar.gz"
+    },
+    "0.3.27": {
+      "sha256": "bd3f04c6487082a20afd6c7462106d256da2640d93d1835e4f200e986530d1d7",
+      "url": "https://files.pythonhosted.org/packages/a6/f7/903d43e169b0a1aaab79a71928125f478fbb7f399ec76cb479a2533246f7/rattail-0.3.27.tar.gz"
+    },
+    "0.3.28": {
+      "sha256": "f83903ce9dcae11ffa1cbc6faab74fa8b3e93fd903cfb4593648363dfd9e2046",
+      "url": "https://files.pythonhosted.org/packages/2e/46/125f8933d1f5509cbad6cb9384fee9ef2f1baaead815de82eb701d0122a2/rattail-0.3.28.tar.gz"
+    },
+    "0.3.29": {
+      "sha256": "fb22d8e2db9c5c4659d72b0fe62f401813d44f5e8e4a1e47b1c68a8752b7da1c",
+      "url": "https://files.pythonhosted.org/packages/9e/15/fd6a1a25be93ecbb95122b060c02484400eabf9744728d9a3c1a44506632/rattail-0.3.29.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "f2abe8c2e3a54535a188e71aaf55e7820fe3bae11b2578adcb13880452726bb5",
+      "url": "https://files.pythonhosted.org/packages/99/52/4e0cadee54e6c8d88b91bfeef949723a4fd55d00b89ab5915cdb7c1d762a/rattail-0.3.3.tar.gz"
+    },
+    "0.3.30": {
+      "sha256": "0c4cce49fe05ededab8fd89acbf9eb2a60f6de7f9fb367b568ee1158e926fc90",
+      "url": "https://files.pythonhosted.org/packages/6e/c5/f3657f9298070cd38657a8a01e04ddfe45f0921d7d082eebde55859e0bde/rattail-0.3.30.tar.gz"
+    },
+    "0.3.31": {
+      "sha256": "0f8386dfe26d2e984526ff375aaabe7f3bc07de85158e4f3f1d2015982652380",
+      "url": "https://files.pythonhosted.org/packages/27/7e/be039a1610e3f78b3b1425de56fecbb008b457a34afbeae96ca7502d1f0f/rattail-0.3.31.tar.gz"
+    },
+    "0.3.32": {
+      "sha256": "2547ae09d5011cd5b44416526107697a79719c5f9a7d49debc9fcd834080c39f",
+      "url": "https://files.pythonhosted.org/packages/c3/cc/37f4f463f895403a0d14f33202a096ee8c53f9ba0f56c403f20ca2402f9e/rattail-0.3.32.tar.gz"
+    },
+    "0.3.33": {
+      "sha256": "99ef76375d5e2a9362488254dfcab539bb3b07a57b15810bd777c815042dc3f8",
+      "url": "https://files.pythonhosted.org/packages/a6/f1/033e4b7c10b52cce709d5499be70259bf399fadf4b11c08f26bdad9f6080/rattail-0.3.33.tar.gz"
+    },
+    "0.3.34": {
+      "sha256": "aa65d06fb36ca2b433c8fb249ae3c1608bc434ad07e7b2a66a70ff6f994d529b",
+      "url": "https://files.pythonhosted.org/packages/72/14/5283837ff443b8b49f7d3472abd4700789fc51b04430be8faf714e190058/rattail-0.3.34.tar.gz"
+    },
+    "0.3.35": {
+      "sha256": "c582a2785f97762dadd3fdfb1b30e3ddd91be86290b49c6971f6128edc302963",
+      "url": "https://files.pythonhosted.org/packages/c1/11/cfdbcbdf611f90cb93151da96c7776d9a960de1ca5d2c515320f9242afb3/rattail-0.3.35.tar.gz"
+    },
+    "0.3.36": {
+      "sha256": "f97d4574638c97aa9c09cb24f4c0fef2e90fafe4208e089993685ae841a3b6d0",
+      "url": "https://files.pythonhosted.org/packages/62/d6/1fced25959c383bd0d9555810d69271c9d912641238a7f8eb82d65684ef0/rattail-0.3.36.tar.gz"
+    },
+    "0.3.37": {
+      "sha256": "24f0dea13dd91ed32da0a04d494a9e72fe0c845d60e6502702de9e993e368201",
+      "url": "https://files.pythonhosted.org/packages/29/2e/c298e35a96ff614a40824c8cc40076c4ecbf3c9b54b3e35dbcb4d5c0e920/rattail-0.3.37.tar.gz"
+    },
+    "0.3.38": {
+      "sha256": "6132b3586d6cf15a862c60d22bfad6a8f3f63f61887c01a252415a90a032bbe9",
+      "url": "https://files.pythonhosted.org/packages/33/34/9672ab9448dd273d3405577a5aab83ecdc1e38f7a56eb904214861927df5/rattail-0.3.38.tar.gz"
+    },
+    "0.3.39": {
+      "sha256": "82f430e2f96afe97ee871828cb55c674838467759aad61b8171abc88532f346d",
+      "url": "https://files.pythonhosted.org/packages/bf/13/acb4681387ea30ab512f11b61269757154b95307e9adaab8fb5318be7ba2/rattail-0.3.39.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "0b1df894c63d08a2420d39fd09874239967a8e1302fe8ace363acb07a50edb9a",
+      "url": "https://files.pythonhosted.org/packages/57/7b/cdcc0d5a921efd015f1d2797fa4402ad490f2fa8ec3046e813dbfbdda034/rattail-0.3.4.tar.gz"
+    },
+    "0.3.40": {
+      "sha256": "d98f9079cd8875d5622bb77b764a066634df45ce210c942f548d7ae9b21fc65a",
+      "url": "https://files.pythonhosted.org/packages/25/e7/3f8be0173fc0d5c8b1f632970c64c533e936442ac7c68aecdac45358791f/rattail-0.3.40.tar.gz"
+    },
+    "0.3.41": {
+      "sha256": "b3a68ace3971fe2424d6bbeea32680dd02605705303505475b2ad5797bb66a4e",
+      "url": "https://files.pythonhosted.org/packages/82/40/e924496b59ce45e6c7ff6827a478b0a75914334ccbfeca0469bdfdad0ad8/rattail-0.3.41.tar.gz"
+    },
+    "0.3.42": {
+      "sha256": "0582d47e75ef369331472e5c78750d156c41c0739bc5547b1b5a275d7f758750",
+      "url": "https://files.pythonhosted.org/packages/8c/37/d7a8045bad7b7aa8c5e16e75a52c0b261e044132f7c5278ce58d3e6fb390/rattail-0.3.42.tar.gz"
+    },
+    "0.3.43": {
+      "sha256": "d52ae4a0d7b29a5c56f5bd5cb1380099cd50674c4380742a458c16415f5c9f00",
+      "url": "https://files.pythonhosted.org/packages/f0/ec/d9b3fcd6d1eb956ddbba4648deb866161bf56a09c43f3e70735b52e9487d/rattail-0.3.43.tar.gz"
+    },
+    "0.3.44": {
+      "sha256": "35bf4ad234c92e08d3c304220149ead317b5b6b55c489a9f659c918e69bdc95f",
+      "url": "https://files.pythonhosted.org/packages/60/64/61bbc37366cadf461f4b34078b8ce74bc991f0396a82c7d4ab13698f3e7d/rattail-0.3.44.tar.gz"
+    },
+    "0.3.45": {
+      "sha256": "dd5d663fdf177dfd1b8f058ed1c78466207dc7fb5c67451a4a5c2eb7403a2d73",
+      "url": "https://files.pythonhosted.org/packages/66/eb/c0df7a258d3deac361ee1323ffafaa9c8059b975a4b187b4157e566f84a8/rattail-0.3.45.tar.gz"
+    },
+    "0.3.46": {
+      "sha256": "01f2d122a8915a2f3a7b411e24fb999926a780bb3f2fc2b70983b18e9707320e",
+      "url": "https://files.pythonhosted.org/packages/f8/50/8ee2be9a69a03650a0a5e9d8bd31eecb4c1791c5ad691818f5f4816536c8/rattail-0.3.46.tar.gz"
+    },
+    "0.3.47": {
+      "sha256": "c1b7b61b4e2474154225840bdf2dec8cb5e5a55e933aa88154d1e850ff6e0a93",
+      "url": "https://files.pythonhosted.org/packages/47/eb/7b8fec6581d674986d1164a8294f07b690c3fa8a88e43a11f25781d9cfca/rattail-0.3.47.tar.gz"
+    },
+    "0.3.48": {
+      "sha256": "b582a4bdf5332e56ce8ef369a38fa89d321d983facfd95f7b4ee7ce7ae555c3f",
+      "url": "https://files.pythonhosted.org/packages/5c/45/fa1e525729e8b59f27b66ade2226e19fbc14d652331189c05e57ee3f8dc2/rattail-0.3.48.tar.gz"
+    },
+    "0.3.49": {
+      "sha256": "1021f6687fe121bf1e8e4ad570f45174f3bf08c90b349e022002dbf07e77c180",
+      "url": "https://files.pythonhosted.org/packages/ce/a8/53614a54a70505f356c2fc7783ea520b95c64c1edf73a8cfaeb2658cde47/rattail-0.3.49.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "aed7f053611259cdc699fc4e4c7a0e010dca3e8fe0c7027f759b87a2978c6b35",
+      "url": "https://files.pythonhosted.org/packages/25/3b/4c92addcbad6b29d563ada31424fccbfeb554f5b7974b4134cb9e2d1e8a1/rattail-0.3.5.tar.gz"
+    },
+    "0.3.50": {
+      "sha256": "477b0dbae18fa9ef9b79ec925314e049c2cc4d872a7e1e25975779dc74aa1415",
+      "url": "https://files.pythonhosted.org/packages/33/6d/53ff1a7eaf59d6f60f43013eae7e3d3abc66994c7260c576f3224ed9b49c/rattail-0.3.50.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "749586206b54ad88187f4989bf6329c2e0096861af6e8f8b6ef1ac17773422de",
+      "url": "https://files.pythonhosted.org/packages/63/73/6d41edbcd65fabb12ece8c3cb0e1a578c5d5143d192d3a79c5ecd478cf79/rattail-0.3.6.tar.gz"
+    },
+    "0.3.7": {
+      "sha256": "561d8b4b255c51c8e10e3f226845638ee3d6bb9cfb88c0228abe40421be3c613",
+      "url": "https://files.pythonhosted.org/packages/30/1e/8fef3aa809d08e49d7b3e036ff381ecf96797965c4c914df84dba401149e/rattail-0.3.7.tar.gz"
+    },
+    "0.3.8": {
+      "sha256": "fda7e7ec016db4d0063615e50333d307a10a51a26cc602399d3e54e5ddf65d97",
+      "url": "https://files.pythonhosted.org/packages/61/c9/e4144ecfb71145de0ee65378f462a31e4dbf4383ce20d8e7da737c9baf05/rattail-0.3.8.tar.gz"
+    },
+    "0.3.9": {
+      "sha256": "e0f01619c7aaba11cceb9e08d0cd877c2b96a2ffce28c33e38261df8d02f55e1",
+      "url": "https://files.pythonhosted.org/packages/67/02/bb7e109e17a55ddb6385f855846474056601168b2ed33024ba7309948012/rattail-0.3.9.tar.gz"
+    },
+    "0.3a1": {
+      "sha256": "ce8a15e9abd541ab3ef2310004710b8272eea41f6ef98c14f492a9c1e612b8cd",
+      "url": "https://files.pythonhosted.org/packages/8f/2e/1d429018e38c5a71b69ac01b368281a7dcd2e5d8de4100e692bd81d987c1/rattail-0.3a1.zip"
+    },
+    "0.3a10": {
+      "sha256": "dede51f40f9242562615f04f25fe4d34fc57e8120473b219613b320fd966a13d",
+      "url": "https://files.pythonhosted.org/packages/fd/b0/7c7b3c15f9dceb8e2307cbb9b1685be3bb0ccb0f23ad226a46cae1cf4f3c/rattail-0.3a10.tar.gz"
+    },
+    "0.3a11": {
+      "sha256": "4984ec6cfdd0d7cc4afe8009538a0ba76eeeab33808f747dea601df57f0dcc70",
+      "url": "https://files.pythonhosted.org/packages/63/b0/affec713153c0c041da9e17e0388acb759d5100e41b6aa3ba41d51200fff/rattail-0.3a11.tar.gz"
+    },
+    "0.3a12": {
+      "sha256": "d83728d8b65831160326350ff8adda4a07c712a1537d12d9036b56dd3bd50ef4",
+      "url": "https://files.pythonhosted.org/packages/fd/5d/59868332734a10630099fa2e0c68d9056c0452e812ce86b0ad773dd9a31f/rattail-0.3a12.tar.gz"
+    },
+    "0.3a13": {
+      "sha256": "4a84c996fca9bec71facbbe3cf75e50782606af99092ba8dc98b89bbcddf8ca1",
+      "url": "https://files.pythonhosted.org/packages/9e/4c/47f49d91355fa8b8201029dcc486549b1b3404e7f656917b6fbcd6275566/rattail-0.3a13.tar.gz"
+    },
+    "0.3a14": {
+      "sha256": "dd018936b41cbffad737a7cd27ee4f185e45c5a2dade9136633bc17003e84ce1",
+      "url": "https://files.pythonhosted.org/packages/64/83/fad6ae25ff86fa4998e70f5cc206ba47283a25df9a2b65d275e06618ecc2/rattail-0.3a14.tar.gz"
+    },
+    "0.3a15": {
+      "sha256": "8e11feaf393bf52e27294be5d0e87e5609850bc5b56bb0431482b514d3c0aa22",
+      "url": "https://files.pythonhosted.org/packages/cd/9e/a9fb447a0e490042dade66d2710f41170344f0ae49ca745a189fa8740687/rattail-0.3a15.tar.gz"
+    },
+    "0.3a16": {
+      "sha256": "8a77d7561edf39ad14fe8d7c17b930d2af76637b5d99134628fa85ec9a6dfd4f",
+      "url": "https://files.pythonhosted.org/packages/ef/77/4bcfead3f3f2c5dd70b36090b29eec23fee65775849758bfc0adc712aad4/rattail-0.3a16.tar.gz"
+    },
+    "0.3a17": {
+      "sha256": "4a87f8fd8c54eb6b19ec84b0cf3f2dd4eb1813991bf472bd2136a7d8f5d0dbfa",
+      "url": "https://files.pythonhosted.org/packages/3b/74/766719bfcf2782077725ff8e0f25cbc24b3d594a49324581612d23e8a7d3/rattail-0.3a17.tar.gz"
+    },
+    "0.3a18": {
+      "sha256": "106c4ae1321216ddb90222950de1d4fddaaf4590eb0c1da72680e2c46eb7e38a",
+      "url": "https://files.pythonhosted.org/packages/c0/02/e5f4270b57907d9a762e01e0071d3e59289f6b77963ed7d4bf1daeac125e/rattail-0.3a18.tar.gz"
+    },
+    "0.3a19": {
+      "sha256": "e4ee44fd28f97cfd8efbf6751f6cc0ca9239f9cbce4dcbd68973ce03a5b39bed",
+      "url": "https://files.pythonhosted.org/packages/57/a0/73c0ec371db81b76ac8e5d953cf3c136d8884d9c8541b825a15b607932d5/rattail-0.3a19.tar.gz"
+    },
+    "0.3a2": {
+      "sha256": "2aec0db7c606cd5dc67064fe2ced046dfa04c90614c88a13628907690fabd3cb",
+      "url": "https://files.pythonhosted.org/packages/28/b1/1b302cc7c61f542394f6954fece062ad7cee7af5cc5b574cd670407cdcee/rattail-0.3a2.zip"
+    },
+    "0.3a20": {
+      "sha256": "939d65b214620188419758b1d4a4b5c7f9cd6fce06f6b7fcf6379e081c500ad9",
+      "url": "https://files.pythonhosted.org/packages/23/79/06de84c5171565326ad3a6715a26eca80f20b1123c9e769b9577ff954a73/rattail-0.3a20.tar.gz"
+    },
+    "0.3a21": {
+      "sha256": "ed35501d5f2364361d26ede9a82bdbe1a24a96fc971d98fd2e8b75f20adfdf6e",
+      "url": "https://files.pythonhosted.org/packages/33/fb/a3ad299e4b171118a843397acade7669a6fe93f684d5861599baefcd63fc/rattail-0.3a21.tar.gz"
+    },
+    "0.3a22": {
+      "sha256": "a92695de458eb820db82eb3c5c9c31dcaae65baea16cbe45c73ca6e083c01ba4",
+      "url": "https://files.pythonhosted.org/packages/63/a0/924f7331097d846428336e748ea3feba5e50baafbd57502a50376754c23b/rattail-0.3a22.tar.gz"
+    },
+    "0.3a23": {
+      "sha256": "3a4972f818b804a31392bbcb439def28521de1bb9787e3fe547314c11a936e24",
+      "url": "https://files.pythonhosted.org/packages/18/f5/b5f6bf7cbd9273f63ba8dc7e563a1f98b816985415caf0db0ca81cdbc2ce/rattail-0.3a23.tar.gz"
+    },
+    "0.3a24": {
+      "sha256": "0c9bfb822ab801edef9c91759a9d9df26256863b2fba1dcd07dad9dd484207dc",
+      "url": "https://files.pythonhosted.org/packages/fc/62/415a635ea86116c93ed63229dba0b48c9f715e7d378c1fbe24246e2dea1d/rattail-0.3a24.tar.gz"
+    },
+    "0.3a25": {
+      "sha256": "0def37cdea6c5970d211b7cbd76b719879743d3996480ea913e98b2902c3206c",
+      "url": "https://files.pythonhosted.org/packages/c0/b4/681a18afdd18549b6c8c01474f418bb3c57fbe158aa71814229e18e134dd/rattail-0.3a25.tar.gz"
+    },
+    "0.3a26": {
+      "sha256": "5d999e5c91fa841619f56a4c42693ce5b6af67c73da0c2f73328bcfcaa1777c6",
+      "url": "https://files.pythonhosted.org/packages/d5/7f/4926c809e3b67722aa21c479386e56d8b05d3a27254e5adc11a67cc9484a/rattail-0.3a26.tar.gz"
+    },
+    "0.3a27": {
+      "sha256": "d6a01d46b7c57582405b25628d490d44cdc3bb6e46ff851a05dcd006c424846f",
+      "url": "https://files.pythonhosted.org/packages/ab/0e/28ebb55f63c57ec0dadba7d7b279f93cbb72d23133f7c9bbe900261119eb/rattail-0.3a27.tar.gz"
+    },
+    "0.3a28": {
+      "sha256": "43fb6bb19f971edc1295eddd04de5f4f4532822261f69c7b2e52bcdfd4fb12bb",
+      "url": "https://files.pythonhosted.org/packages/60/79/a699ab525037a3eb3899f5e36b63d55e5a887c8bf135c0ee9b3812978c76/rattail-0.3a28.tar.gz"
+    },
+    "0.3a29": {
+      "sha256": "2b74a6815dab2c5e31861df90af00d5cef59348b3fd1ac733d60457257ad1d8a",
+      "url": "https://files.pythonhosted.org/packages/8b/6a/faf3e11a3980a35d68a33f2364a64e4db6b40a0e770cd18804a50154144e/rattail-0.3a29.tar.gz"
+    },
+    "0.3a3": {
+      "sha256": "e3524462bddeb43ea9c042608fe70c4744e460666c0ba04006bd195608f2278a",
+      "url": "https://files.pythonhosted.org/packages/f3/8e/f59e74499a5d5200684488c7c6843226e0d1f437999b68e89c390f8a9319/rattail-0.3a3.zip"
+    },
+    "0.3a30": {
+      "sha256": "2a8ffe3285a1be2b8d09602b446b8030224919bd251791a128947b914e1d9431",
+      "url": "https://files.pythonhosted.org/packages/57/50/502205602a4d5cb43977e81d9f5379e9c32d9e5e9717e79cfd97d63b4f13/rattail-0.3a30.tar.gz"
+    },
+    "0.3a31": {
+      "sha256": "378399217d3f01c12417bc9026019567f4944a1f9e36988c56a6e35eb93fc950",
+      "url": "https://files.pythonhosted.org/packages/c0/c6/683988a887b8774ee9f80ba1a4800ab8e7414db2d38f4a0315a9bc9dc420/rattail-0.3a31.tar.gz"
+    },
+    "0.3a32": {
+      "sha256": "295619cb8507c744ffb023d32fb60bdbe1d9f8ef1bf60bbcb0eea6e115631264",
+      "url": "https://files.pythonhosted.org/packages/78/28/6744f856c3cc4482c74bb1eb08206ca8722106fd4b18e3227be556108557/rattail-0.3a32.tar.gz"
+    },
+    "0.3a33": {
+      "sha256": "52d0528e41919892fb87f9f16bf72ccf0558294a1cf751a2e015ed56224f9814",
+      "url": "https://files.pythonhosted.org/packages/52/ee/0622f11f608737ba3f1b1c539763770385999ec3225b4841289db34234d9/rattail-0.3a33.tar.gz"
+    },
+    "0.3a36": {
+      "sha256": "036296c73a8ecc6f1182b28a1863f68d78b4ac2a807b79ba0fe7b7996774d3ef",
+      "url": "https://files.pythonhosted.org/packages/e2/81/73c426dbf8ce7a822ef5012d80082f988cee8d15702849a37a100932b76f/rattail-0.3a36.tar.gz"
+    },
+    "0.3a37": {
+      "sha256": "2614596cf8f369dce5c3439345399781bc1233444bf12dcd8c52da059dbc4e22",
+      "url": "https://files.pythonhosted.org/packages/c2/b6/90a244c4636b2f0a8c5ab764ede8c66cd68f9666fb59318e653b3e758e83/rattail-0.3a37.tar.gz"
+    },
+    "0.3a38": {
+      "sha256": "6443bc5b54447c6add60d8c41490c704dc2a073ed636a02488792a16f8db1408",
+      "url": "https://files.pythonhosted.org/packages/02/99/a783dbc9c65e308352dce0729c40cc035a222931da28350c73dd429edb59/rattail-0.3a38.tar.gz"
+    },
+    "0.3a39": {
+      "sha256": "43c5bf654c727866f9ff40cc49f6c4f0727ce10ed170794732c5084f768c7e15",
+      "url": "https://files.pythonhosted.org/packages/24/a5/e949d563b7bfccc21a18b4aeddfe0d76cdb654a668970e602f1c283716fd/rattail-0.3a39.tar.gz"
+    },
+    "0.3a4": {
+      "sha256": "d9649a1f64a348a1792fb820d1d2bcdb74dd321ff69542f2f9ea6e0298f3784a",
+      "url": "https://files.pythonhosted.org/packages/07/9a/d2759bd82a6f40e95393257baa80d6171870ab30cbe6451d69c8bdf3d437/rattail-0.3a4.tar.gz"
+    },
+    "0.3a40": {
+      "sha256": "f5ffbb63c82d83bc16af3e4a00f993f7c2f311d01b72c28227d1eee8aad2c344",
+      "url": "https://files.pythonhosted.org/packages/1f/27/1986a8e514b4f16059eb20e44f0ecd433279d359e8eb9aba13c3cd9977b8/rattail-0.3a40.tar.gz"
+    },
+    "0.3a41": {
+      "sha256": "3377d6aa488769b967c297b3cec2c88d1369edcdd5a8538ec71ad60066c265a1",
+      "url": "https://files.pythonhosted.org/packages/3c/df/15c266aa769e6101616ff436042429eec633bfde795f10f37d608ae5e4bd/rattail-0.3a41.tar.gz"
+    },
+    "0.3a42": {
+      "sha256": "3404a2baedc74a13591306b9c5c788c14cbc855285f27ec71a7dfc46cc6e7a89",
+      "url": "https://files.pythonhosted.org/packages/03/5c/1b473d34433e7b3efca11eae876dd7cf01634dfa7e4f77dfdb72aefd555b/rattail-0.3a42.tar.gz"
+    },
+    "0.3a43": {
+      "sha256": "2e2591752c2935a1aab7d1d1172568ea88e04147bc715a2457495e542ce8bfd1",
+      "url": "https://files.pythonhosted.org/packages/d2/ae/1ab25f9fb435b0d333de4317b6b08542cccebf2de9fffe33a4fd5e07fde3/rattail-0.3a43.tar.gz"
+    },
+    "0.3a4r1": {
+      "sha256": "37178cf58c309c58bd2af1553c2a52df22c7d8e06523b0d2fb7b80fb0aa94ea6",
+      "url": "https://files.pythonhosted.org/packages/64/09/5305d4708d57432aa4a7d9955eff7286d3f1b90ebba93914540e33826f63/rattail-0.3a4r1.tar.gz"
+    },
+    "0.3a5": {
+      "sha256": "c6e2b86d1bfd991a5b4c6cfb45a7e25ea78fe0a07ba7c2d1b34b6aee41f73fc2",
+      "url": "https://files.pythonhosted.org/packages/da/c1/fee1062e345ec9630f21a56c0293f16f12fddeb6ae1f1d4ee3beaf4afdbe/rattail-0.3a5.tar.gz"
+    },
+    "0.3a6": {
+      "sha256": "cdc781911b2f57ff4a354927291b00344eae247ea34ad373a73e9405da5a4c03",
+      "url": "https://files.pythonhosted.org/packages/d9/d6/5112a71cb3d63f25a5906a6c2f73c5491fc52c52b6447346ba1acc672189/rattail-0.3a6.tar.gz"
+    },
+    "0.3a7": {
+      "sha256": "af00dacca85a5a78cbad6e8038688921cc2f1f5b6e4965dee44894597a4b97ea",
+      "url": "https://files.pythonhosted.org/packages/4e/17/349981ef68a057ef7d8940bdad1961c7c94ee10408582ecd56320e28461f/rattail-0.3a7.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "02b0ae1ccc081231ba5d4c3d1571ac09c6ecaeb0c3668c647733e9aefb886a03",
+      "url": "https://files.pythonhosted.org/packages/70/96/956a3292a9f4823a264c62374f42e3e4dddd3d39cf25856ab1e4128bf7de/rattail-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "1cb0fb63f019e6448f0be01df58e55ecc315a19cb4373f51fe34ded92425f3b0",
+      "url": "https://files.pythonhosted.org/packages/97/72/edea383063b349c35fbd4a7bbcda5734a3599e94bb2f171d81ae9ed1c4d6/rattail-0.4.1.tar.gz"
+    },
+    "0.4.10": {
+      "sha256": "b8a74f8ffe3647edce49ce1ef2768b254aaa25e639045c1bf1b294ad8b93e5db",
+      "url": "https://files.pythonhosted.org/packages/da/46/7092cd901729c2d5d4aa25af6eaf97ad94ed8a388eb5ad7168699db8db64/rattail-0.4.10.tar.gz"
+    },
+    "0.4.11": {
+      "sha256": "1bdb647f3fd658f0725a59c78e94de17856b7468ff24c8a0a0306a2b3175c800",
+      "url": "https://files.pythonhosted.org/packages/50/6d/eed3116d4b54b91a87a83b553dd5b31496d44edd0196976c86ebdbe93f25/rattail-0.4.11.tar.gz"
+    },
+    "0.4.12": {
+      "sha256": "375888c69379233f39a3eee7c9e278b24f80001d13ee1644a72accf5f2c1c646",
+      "url": "https://files.pythonhosted.org/packages/b2/53/2b1e702bd6600dc2a9285a4daf73d479b4019a9553e6bcd0520824bdaad8/rattail-0.4.12.tar.gz"
+    },
+    "0.4.13": {
+      "sha256": "8504ab1745bd43173100c39f83c0a3f7f795b7c03c73d9f78eec3bca867ba076",
+      "url": "https://files.pythonhosted.org/packages/cf/2c/2f0bde01aedd6af84a429076193ef09c4facafa23307d864de29b4ed3c95/rattail-0.4.13.tar.gz"
+    },
+    "0.4.14": {
+      "sha256": "65790acb7ee2761b5f5bfb901a26cae90b723b339983edf068929dd125bdff31",
+      "url": "https://files.pythonhosted.org/packages/e5/8e/3573a9479c0cdc309e8df0f00e089d7bff22c5a351f25e3f086761bbe763/rattail-0.4.14.tar.gz"
+    },
+    "0.4.15": {
+      "sha256": "781881f54ccd7b09cf9d4970420343a60687216d18835828913695f1628cefb6",
+      "url": "https://files.pythonhosted.org/packages/65/f1/a0965aa34d8b7136ca8b77790dc981f984ecd3f2b03645839f48a5afbb90/rattail-0.4.15.tar.gz"
+    },
+    "0.4.16": {
+      "sha256": "a98f395333cff60ece4061eb50f2682d9531973c58a51027ecd61b134384bf34",
+      "url": "https://files.pythonhosted.org/packages/ea/db/162308c4cdf925a1acc20911bc0678ee17adfe327e68e63ac7b9c1a0f9c9/rattail-0.4.16.tar.gz"
+    },
+    "0.4.17": {
+      "sha256": "a0de69bcc321a4b77722e0ce46312539ea02ce7ee91ac6cce3eb37494ac004cc",
+      "url": "https://files.pythonhosted.org/packages/c5/d7/33385256122e29fabd818aecff399041d6ecd3af8c85f5be8af0341320b0/rattail-0.4.17.tar.gz"
+    },
+    "0.4.18": {
+      "sha256": "5b21047431b56be3a2da2e5bcf1cfa22bd9694903f2ce970dbb007d876a2f367",
+      "url": "https://files.pythonhosted.org/packages/bd/4c/f11253960ffd260985a7a75e31552cc1978a8234ed41ec5365180d55c832/rattail-0.4.18.tar.gz"
+    },
+    "0.4.19": {
+      "sha256": "dd6b5a0fb3983ddbfad15964972a44863af01468a1b18b0ba5832ae43665247f",
+      "url": "https://files.pythonhosted.org/packages/6a/4b/7224db8be569e6605e5844c119bb887e36727dd754c54b085c0857b9203f/rattail-0.4.19.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "dc039954b87c53db5b81affd0158ac969e1ab5169898704f60c42d4e0ab8bc22",
+      "url": "https://files.pythonhosted.org/packages/da/00/3cab227a3a2284ece6901d21b134633a52ef646611a004d7d8b6ab0357c8/rattail-0.4.2.tar.gz"
+    },
+    "0.4.20": {
+      "sha256": "aadeff1f77fa1aa0d3bcbef6adfa0afd0a64ec3a6ab2c351854fd7b9d45d8cfc",
+      "url": "https://files.pythonhosted.org/packages/e4/60/d3434edf8dfdc699e347889b7ce6045d28b26d56e685866deb76b69854ea/rattail-0.4.20.tar.gz"
+    },
+    "0.4.21": {
+      "sha256": "4893ce3261c2e87f6bcdd9c396bdc547f14a8079d6220f6d802bb02d6621710c",
+      "url": "https://files.pythonhosted.org/packages/27/e3/312133fd4fde4a223ef9b6fd16c301801ea1514f3f11b29acf4e577e714e/rattail-0.4.21.tar.gz"
+    },
+    "0.4.22": {
+      "sha256": "361dd1f60a64e26da369eaab68a781f1fc57e7c4c8c58fc3c27b86121ee0a3db",
+      "url": "https://files.pythonhosted.org/packages/de/ac/77334ca94146bf38e7fe7d33871e5764948fada5db854a17eec8e9ee62f4/rattail-0.4.22.tar.gz"
+    },
+    "0.4.23": {
+      "sha256": "545f76e8fc0187e1b4d3246ea05ff12e997a2ff0a1b3e9cb621d202998739113",
+      "url": "https://files.pythonhosted.org/packages/9b/03/79a58e5462c4da38a719695a817a8746fc08f4c17c25600327e06a70c691/rattail-0.4.23.tar.gz"
+    },
+    "0.4.24": {
+      "sha256": "ea84e407280500dcc1d7b8139bbe35282451ca8d899590408ff1d19d3c5f1e03",
+      "url": "https://files.pythonhosted.org/packages/fd/6d/0bd5d3faff9540386cce3706b86f6cedc485881c7c81fb01cf765877b101/rattail-0.4.24.tar.gz"
+    },
+    "0.4.25": {
+      "sha256": "2855a41020c41356273ccb2ce624b113f2941f77716395d59e7f57a0b626dc10",
+      "url": "https://files.pythonhosted.org/packages/4e/84/f9820291f968217ae495a8b2c12b08a2b383dc4194df5e4cc908d663ba13/rattail-0.4.25.tar.gz"
+    },
+    "0.4.26": {
+      "sha256": "f7dd54f0e3924ec62cb3c43030cc4b5ecaf88933b6f2aa49b43be8e5e882901c",
+      "url": "https://files.pythonhosted.org/packages/82/fe/9fb6cf5d9361c4e4bcc5ffde2f5ed8db3532168d96df271bb5458c6fb9b8/rattail-0.4.26.tar.gz"
+    },
+    "0.4.27": {
+      "sha256": "516db840dba28bf3302c443a4287779aea22bd7da8f69f2bd480aa1547226c0d",
+      "url": "https://files.pythonhosted.org/packages/b3/fb/3ecc5dbe673eb2b8fc45c7d05848ae8ed3c7b312144749b8eac6f074cc26/rattail-0.4.27.tar.gz"
+    },
+    "0.4.28": {
+      "sha256": "2c0f3886e53f9339e629415e55f11079ab34e20e325e823be367d214ffafb303",
+      "url": "https://files.pythonhosted.org/packages/0a/dc/3361a3cd7535bc6a145db8eae2b3b1747f5c0c631b935f95cc57a6c7f007/rattail-0.4.28.tar.gz"
+    },
+    "0.4.29": {
+      "sha256": "46cf18403af9c961f28b66b023dae8651a691b6c13c345c66384b4ef483bcd41",
+      "url": "https://files.pythonhosted.org/packages/70/23/93db54c7c2e41483006366d5083a1ac4f3c35267947d6c152907fa375e0e/rattail-0.4.29.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "b588a8bcc3832bd3de2e9a08c037018cf699ae3a3939f7bc2e1ed4d8dc2fac32",
+      "url": "https://files.pythonhosted.org/packages/4b/ef/eef3b327f9f8d0c122453bcdc64590f29cbad64b50d0b20ad5999077bf0a/rattail-0.4.3.tar.gz"
+    },
+    "0.4.30": {
+      "sha256": "a952365f089e6a8867abba07c00aab77cfe1c25d3fdc848a32add385fdb2e9a5",
+      "url": "https://files.pythonhosted.org/packages/3a/98/e4dbe7123b6a75d5e61a28f5147efa67acaab46bb2334cc13755f1cc6a38/rattail-0.4.30.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "4db0ecc976de5cdae559b3f5737d28473b7c1e3d1545ada20d848d436b6c6343",
+      "url": "https://files.pythonhosted.org/packages/f7/01/5763e42e2bd0b897556f9f16269dc49d508282fc38d5e94e7e9c9eee968d/rattail-0.4.4.tar.gz"
+    },
+    "0.4.5": {
+      "sha256": "70ff584d1d0cbf67cba271fadadd9ff157b00773d84b11a89d93da25b8c03bad",
+      "url": "https://files.pythonhosted.org/packages/65/6f/9e1b07ddd3e9cabe5ddc35a567dd5fc1a58e7f901a8898c88f4c5794c1e4/rattail-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "705c8384168f025dea5d8d51336b6ca1e4e1cec26d0359cacd062a73a2e657af",
+      "url": "https://files.pythonhosted.org/packages/73/59/0830f9ce2b5739ea23d4623f802a7e4f328bb42aa3f032c8434c4574f741/rattail-0.4.6.tar.gz"
+    },
+    "0.4.7": {
+      "sha256": "9a560dd0aa3e44112e54dda5a8b3d713b3f97ad7a746f7b1ff6ba843d1e7e8e0",
+      "url": "https://files.pythonhosted.org/packages/26/de/bf3fa0371677ce437b2fa9ce50f9f89533a956f1d7ce0d69339d4fcbb447/rattail-0.4.7.tar.gz"
+    },
+    "0.4.8": {
+      "sha256": "4da86aae60ba39ed082e696bb7a901f4f910bbb5134cac8295ec110d3a7b2acd",
+      "url": "https://files.pythonhosted.org/packages/e5/2f/07cb799b7d5582135dbefc098af1fc9137b8ed1edd3075103bf6a86adfac/rattail-0.4.8.tar.gz"
+    },
+    "0.4.9": {
+      "sha256": "f6fe449ff96b68ea8ce0ee8e130a65e37f4141139677002676df7ef28d89cdc5",
+      "url": "https://files.pythonhosted.org/packages/e8/8d/ff8efc4e584c1cabd731779adb0595abc5fe20ae0d34c399f1ca80cef192/rattail-0.4.9.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "e1696fb66fa4ae38a96cb88279bb718ad4f9514097b1a8c8787611174611259c",
+      "url": "https://files.pythonhosted.org/packages/14/1b/d5caaa2d8ea0fbb9cb073fa016e1836722eb5b28cb7a75aec0ed3dc8db92/rattail-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "34357ecf42bb43c09313e40c013f8263f6c973c7f43c42066e9221e5d395753e",
+      "url": "https://files.pythonhosted.org/packages/17/3a/cc6d590aca157fb3b788db2afd4408e6267d1d2f82b02bba8e71ba819880/rattail-0.5.1.tar.gz"
+    },
+    "0.5.10": {
+      "sha256": "546973ddd5521f74997f25b3b6d135d2d02f8128d1ef697661ec6e39c58d50b1",
+      "url": "https://files.pythonhosted.org/packages/61/62/36903b789ca63aab8ed11bae83fe0ad0b9a4f8e886d2137fa2ee1891c37e/rattail-0.5.10.tar.gz"
+    },
+    "0.5.11": {
+      "sha256": "97a464d3be7c1b6b43ecd881b73fb2c5615b0261b8b94b588fb1970931bb379d",
+      "url": "https://files.pythonhosted.org/packages/2e/5e/eff3a01540dcdcd91248cec32c8f169c088eefde8dbe44df408621abc7d4/rattail-0.5.11.tar.gz"
+    },
+    "0.5.12": {
+      "sha256": "c0e3fbcfae5c3d4e4da3dfc92c22efc7e115dd59534b539506cd82e00cb7a2bf",
+      "url": "https://files.pythonhosted.org/packages/1a/47/aef611def7661e73281dfb45cf69095a9064279328882e479fa75fb53555/rattail-0.5.12.tar.gz"
+    },
+    "0.5.13": {
+      "sha256": "baf561f1e9cac344d23edc3b2411ad69712d54124c765b3332e742b707d635dd",
+      "url": "https://files.pythonhosted.org/packages/e5/15/9320ab4aec7502fbc80c256d6aab918178e055c44a380ec768ec767ae2a0/rattail-0.5.13.tar.gz"
+    },
+    "0.5.14": {
+      "sha256": "85a84c67e282239e59e1c70d7ddfe1fe260c82826c75caa525d613b71e7a1b6d",
+      "url": "https://files.pythonhosted.org/packages/22/ea/8f55bc89f1417b41f6fdf55f7429741e8e8f988fbe96dce07a59c0055327/rattail-0.5.14.tar.gz"
+    },
+    "0.5.15": {
+      "sha256": "809244aef2d2ce48fed5fc129833f2f4acadfcb5935b50f10e182e8877b920da",
+      "url": "https://files.pythonhosted.org/packages/b2/a8/883b6909d78057af6ccde8cfd080d0e6bb60fac4fad658ccf49aa2b1ad45/rattail-0.5.15.tar.gz"
+    },
+    "0.5.16": {
+      "sha256": "167f97c32c08a92e53227d596e4ca6baacf89a226272e14f4a13fdfd2d9abd03",
+      "url": "https://files.pythonhosted.org/packages/f2/02/41745f6655869038f8ed76a5c2899b483151b2aab919cd2f98c1f5442daa/rattail-0.5.16.tar.gz"
+    },
+    "0.5.17": {
+      "sha256": "be40be1808042f2c868eb79c4151065283604277e2142ef7592b54aa76be6582",
+      "url": "https://files.pythonhosted.org/packages/be/09/18f962411f21bbedbc831f03938838d5f45e0430844916050729fef629a7/rattail-0.5.17.tar.gz"
+    },
+    "0.5.18": {
+      "sha256": "b71391cb7c58480d5fdd664118284f4b6fcb066809444e496574a1a7bd73760a",
+      "url": "https://files.pythonhosted.org/packages/91/12/0d9fcdf29467dd7b75c1e00a7cecedc25e60d053b02a689e774cb3a251d6/rattail-0.5.18.tar.gz"
+    },
+    "0.5.19": {
+      "sha256": "e1b6c54ea9b1ca76655ccc08f5e9034e83e9b4ca7d831c7ad5169631592ba0f0",
+      "url": "https://files.pythonhosted.org/packages/28/5c/1c8d04b2eaef4b47c03a6777c5411ad63fae1ee832cfd89db1d97ea7b69a/rattail-0.5.19.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "9964b1837fa5cbdd14b2c6b033fd2d377fa30ae0acac8ba7198a900ec5ddadda",
+      "url": "https://files.pythonhosted.org/packages/81/43/158b67abb12055d0b59b868acb6467b95641b834664d2d236268e39f2d9b/rattail-0.5.2.tar.gz"
+    },
+    "0.5.20": {
+      "sha256": "77ca1a996411deb868ee7b6b23eb93b4e02f700ae031c95fb513a89471e1f1a0",
+      "url": "https://files.pythonhosted.org/packages/79/ff/264f4f024e570ee63ebab76ae57198a61a5d53b39959ca9ac88ca60cb53e/rattail-0.5.20.tar.gz"
+    },
+    "0.5.21": {
+      "sha256": "1f67920561dc060cc19a45b91f1e09e5650cec90e97a32410b267573bfced827",
+      "url": "https://files.pythonhosted.org/packages/c7/98/f2d862cb46f426d3603c59cbc58027e25ee2af0a5e2397e1ca403e9300a0/rattail-0.5.21.tar.gz"
+    },
+    "0.5.22": {
+      "sha256": "436afa86a0d76adaa50fceeecf2975b4ffc16559fa14e62325580edd5c977fd2",
+      "url": "https://files.pythonhosted.org/packages/84/86/ff172519d59c4f19422830154af0b3e47071cad81a1c67faeb8ed39e70cb/rattail-0.5.22.tar.gz"
+    },
+    "0.5.23": {
+      "sha256": "a1d2c597e8ce24aa8463d8e4a1bc3a3d3b4049e9ba980531e873e97cdc4561b4",
+      "url": "https://files.pythonhosted.org/packages/cb/9a/98c6a2a70f1c18daf3db58de3d25cbfa64faae1dd10d309f570e08b87e95/rattail-0.5.23.tar.gz"
+    },
+    "0.5.24": {
+      "sha256": "882b20832514bb044bc0d9a74be6fced3f7245103f11b0f5a89ddf4ca10b92d5",
+      "url": "https://files.pythonhosted.org/packages/a8/9e/6015c268f5649b7815b68bec8d064219092a717d700693fac31b05808028/rattail-0.5.24.tar.gz"
+    },
+    "0.5.25": {
+      "sha256": "958da840402fe16ead85e969cf55becd1992e776229de8fdc5277f36642887e3",
+      "url": "https://files.pythonhosted.org/packages/f5/10/d3d40e6351c4e5fcb3c6957351e0a5a17fe4ce81b857625538b25f2a2b63/rattail-0.5.25.tar.gz"
+    },
+    "0.5.26": {
+      "sha256": "64e7e37b1fe7dc56b6e6a9469e702bfd26ab879fec229af56469b6d25f0df945",
+      "url": "https://files.pythonhosted.org/packages/a6/03/5728a2f4ae16fe0916471cc4c8af2f0c5779701da4a9ab4cf50d3f0dcf72/rattail-0.5.26.tar.gz"
+    },
+    "0.5.27": {
+      "sha256": "afa984005f22e9c69462c304a255e3738f1a0df5c1993336ed82823ed95f9c20",
+      "url": "https://files.pythonhosted.org/packages/ed/d8/e1f9cf014937a946e32e2bec0e12c82750d0621e536ef60cefdd3727f75a/rattail-0.5.27.tar.gz"
+    },
+    "0.5.28": {
+      "sha256": "7cf97ff98082f17d6ead8285d0f8ef66f664e69184f1a8972d6e94ca7f86a397",
+      "url": "https://files.pythonhosted.org/packages/1e/6c/acc38d0cfb18732b822c88e7d44aaa9eff1acb893d4b56ca2ebedfc41987/rattail-0.5.28.tar.gz"
+    },
+    "0.5.29": {
+      "sha256": "b011f6fba0cb7a0e358f243e0fcec3aecef38529c6621b242668ba971de09a0a",
+      "url": "https://files.pythonhosted.org/packages/c6/6c/c8963c9b0b34f3b420baaf5add1a7a9e91338b9c6d2c2ff0e37d3645e367/rattail-0.5.29.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "d3b7f11ad922fdd49c9d9bbea57238a89bc27db4489a7ebf806e828e4bd5f72f",
+      "url": "https://files.pythonhosted.org/packages/e2/e8/4cde608e45f72a095c808ec716499077682d5e5ee79d6cd71cca1d7b9f04/rattail-0.5.3.tar.gz"
+    },
+    "0.5.30": {
+      "sha256": "a6cd0dda0060a153af89fa26244c146ca399cc4b74f29f44dbf12f1af6dadee5",
+      "url": "https://files.pythonhosted.org/packages/40/38/f0a835bd3f2622d5b56ddda3538611486fa9e0760e9525fb0883be767982/rattail-0.5.30.tar.gz"
+    },
+    "0.5.31": {
+      "sha256": "2eb4fb928a2ff393bb6ad4ed1a7ae56984e46b603f39fd765a5362cec4e46def",
+      "url": "https://files.pythonhosted.org/packages/d1/70/3e594dfbc2a3b3e20765a2da8f01d33261742e18785488596c0934f57a58/rattail-0.5.31.tar.gz"
+    },
+    "0.5.32": {
+      "sha256": "d5999897c0ee430a43471bd2014222dcdc645697a5555df6f333304e802a067d",
+      "url": "https://files.pythonhosted.org/packages/1f/af/b8d7a68bf1c99e7ac11dcfeb071d5d293b7c94885196d3d9540fdfff1fc1/rattail-0.5.32.tar.gz"
+    },
+    "0.5.33": {
+      "sha256": "ca7d42ae8eb91c1d0ea7d37a2505d93ff66a171fb051d1d57c56a47af9ec42d7",
+      "url": "https://files.pythonhosted.org/packages/cb/b3/c7af3a0a47f3755088db4596110526659fd7ad811c57fc306e49c4a9337a/rattail-0.5.33.tar.gz"
+    },
+    "0.5.34": {
+      "sha256": "a8c05599c2cfab8700d2962402de6a8a3b30c22d0982bb57957e3a00196d74bc",
+      "url": "https://files.pythonhosted.org/packages/05/5a/307b0b191f14ae96d391beba0eedc274ce058e4dafc9b25ecd03543c692f/rattail-0.5.34.tar.gz"
+    },
+    "0.5.35": {
+      "sha256": "ee688b8f366d77bc8827cf7190abda197512671527e30f69ca6b68b7e692a483",
+      "url": "https://files.pythonhosted.org/packages/6d/b7/c82f0ceef9efe4fa9457a30068a032266422888faeebc199079db368614d/rattail-0.5.35.tar.gz"
+    },
+    "0.5.36": {
+      "sha256": "e85860e21442dd68d727decaacd469057225a392737db35603e1a2dd1705af55",
+      "url": "https://files.pythonhosted.org/packages/c9/16/715e23bb78f6c18a94bd5add8909d49bc04c0929f471dd3cd22fa14150c2/rattail-0.5.36.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "44b1f0cc24d275c558e339250b46c311a9c752dc5d41c69ca8272bbb78d1e489",
+      "url": "https://files.pythonhosted.org/packages/39/0d/8262f0251cb76e3a495a3a326df8896c2151eef1d196552caa5af52b04be/rattail-0.5.4.tar.gz"
+    },
+    "0.5.5": {
+      "sha256": "b1f1a50ab5ac87a590b2532ea605d501f10f7ac9ac9ae32c09a22aa88927dc07",
+      "url": "https://files.pythonhosted.org/packages/e5/ee/842dfc41c99fbea2f5fc2f1e4c3637cd3b5e46d30e69402d0d2a0e16d050/rattail-0.5.5.tar.gz"
+    },
+    "0.5.6": {
+      "sha256": "407dad5c011fcf899a340dbc15ca92dc9605c75211a6254b5cf356bc7265b7bf",
+      "url": "https://files.pythonhosted.org/packages/0b/aa/503dd1167880f627647492fc781d29da05acbe1919e067335f3916179ef1/rattail-0.5.6.tar.gz"
+    },
+    "0.5.7": {
+      "sha256": "10a31d663f7a87241b4a8379fd46a4d4135b27a3b87529e84d8026bff650ad4c",
+      "url": "https://files.pythonhosted.org/packages/d7/ec/4d1a538856d87cfa6a9975ebf46bd964466cf02fe393e06fa03776614e0c/rattail-0.5.7.tar.gz"
+    },
+    "0.5.8": {
+      "sha256": "84e47125783ba2c07626f9bb20d829d11595145aa9274e2ce11bd074e90cde39",
+      "url": "https://files.pythonhosted.org/packages/70/98/15eaf2195f2d86603f594bec7424e136705fae9594cfc7be03c0baa290af/rattail-0.5.8.tar.gz"
+    },
+    "0.5.9": {
+      "sha256": "b2be49b1b95880fe5f441750e0f5b7ac32c4166d7e1a7065f5e1cc6933c03530",
+      "url": "https://files.pythonhosted.org/packages/24/d5/03aa459d12819c79373ea91e3ed1797a1ad1679a481555b181d8da163668/rattail-0.5.9.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "b9d7fe5c79df535475f85879ea1dbdf849f6b5a7665d62c91072aebe83d7ff83",
+      "url": "https://files.pythonhosted.org/packages/11/56/a5ca25e2fa89eec6c51f210440cd258deaf942afc9b5900204fe0dd51b41/rattail-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "ce00ba2862312d7e7bed5ae22adff178240a6c5eae854f91efd8935afeabb4e8",
+      "url": "https://files.pythonhosted.org/packages/e0/09/8f3c25d0db65eb340929fcab43b89d4350b9fe1e96f5a4b6136f5192f6f1/rattail-0.6.1.tar.gz"
+    },
+    "0.6.10": {
+      "sha256": "d53720833112414f5fc6f9397ca6f82229b032bbd4ecb1cf78bc2c040208eb6d",
+      "url": "https://files.pythonhosted.org/packages/a6/27/a901016b6425153cc0ce456cdd1142914216df87879216721a9395792a86/rattail-0.6.10.tar.gz"
+    },
+    "0.6.11": {
+      "sha256": "06cd1cb6b9740287fce10bd7bd14d726ea1492e7c4afda79f896a02e3b3a1150",
+      "url": "https://files.pythonhosted.org/packages/35/16/bad1d47706876ea26dfc067d4fb6cc693db1ccb6291a0c0c309c0558ba46/rattail-0.6.11.tar.gz"
+    },
+    "0.6.12": {
+      "sha256": "e5248ccfb6095a8907242a5f76c7fc50c4dafa8bf49df70ab0ade2ebdc48e747",
+      "url": "https://files.pythonhosted.org/packages/56/cb/6d1cff565701c0cd666417da55ac41bb143dd0cf05fe19a1aee280b4aa7c/rattail-0.6.12.tar.gz"
+    },
+    "0.6.13": {
+      "sha256": "a9c6c212890c9f703d05e35cf7e751a052036415c641bc6daa53539552635dff",
+      "url": "https://files.pythonhosted.org/packages/06/19/e1c5f4e4010e6e93bed7295222b312b3353abeaba4666dbb395991165efd/rattail-0.6.13.tar.gz"
+    },
+    "0.6.14": {
+      "sha256": "410a297cf4a8c116f7cdf1e3b69bda6f931b40c74357f687737a31dae28c11a3",
+      "url": "https://files.pythonhosted.org/packages/9e/b5/8dafb1be4660ea0ab5d55c701401d3ea046e2857d829fcd3d02a856883bb/rattail-0.6.14.tar.gz"
+    },
+    "0.6.15": {
+      "sha256": "c43332861f97153fcdcbdc8cb0fccb333f0694507a89b8e16512645b9342e825",
+      "url": "https://files.pythonhosted.org/packages/ca/6d/bd87af30ee1eb8478ed0fe8c3b9c8f44d64050e56f9e7486a5d86300a04b/rattail-0.6.15.tar.gz"
+    },
+    "0.6.16": {
+      "sha256": "d38254600e63c7392b0bbe15a7e8d8706ebd66d9a3ddab67d5b424744bd3c9fd",
+      "url": "https://files.pythonhosted.org/packages/ab/c1/55b282df0549efd7d7243c02116917a978f6e9a4f481aa88c9bd842a1033/rattail-0.6.16.tar.gz"
+    },
+    "0.6.17": {
+      "sha256": "ca4bd8da4f947948264afc382007b601ba70b473bf408fae71649e4f3f2a796b",
+      "url": "https://files.pythonhosted.org/packages/b7/3b/6df5ca35ca40cf89936b18b49382b62c375b83ece9c55f19133d794f334a/rattail-0.6.17.tar.gz"
+    },
+    "0.6.18": {
+      "sha256": "b1ef3655251c1d60a700b0e13eb7fb04e9f0ab35d0ed570d84c7ef45d2b0f67d",
+      "url": "https://files.pythonhosted.org/packages/6c/cc/abb9de9819de26d712dd982feca7f211aa36e1274a9f41ff284080f9ff32/rattail-0.6.18.tar.gz"
+    },
+    "0.6.19": {
+      "sha256": "2c0dbabbb6180dac32e82e8054a8a518b2ee54cd18b9e35f1f906def88a2b4b1",
+      "url": "https://files.pythonhosted.org/packages/25/05/a87ed74aae3fe672febdbff58a97662072c0b3753014467cc1ba6c990142/rattail-0.6.19.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "671b03ea21ecf4b57b1b376fe0b884d40a26196fac1ef920ae9d6cf8e3d070c5",
+      "url": "https://files.pythonhosted.org/packages/9e/6f/35c0d87b8dc2ca72e631f1e108feed6154124e2f9361bac0b4f357417117/rattail-0.6.2.tar.gz"
+    },
+    "0.6.20": {
+      "sha256": "cf3e7b47478898717e0347110dd14e79af520fe8b20ec5796cbf798c8be74c8a",
+      "url": "https://files.pythonhosted.org/packages/f2/45/de9f77d3bd74e7b23f3a7958de5861e1c98f723844bad129776fd5acec03/rattail-0.6.20.tar.gz"
+    },
+    "0.6.21": {
+      "sha256": "d9d3448d0e4c0bc2ad8c90ecfb3b6d6789509885863bec815f7a7c226d2aee55",
+      "url": "https://files.pythonhosted.org/packages/8a/d2/41ad0e6ff79f8a9c2a34d0a99fac079a08547fa5983ff0b47b56b0945828/rattail-0.6.21.tar.gz"
+    },
+    "0.6.22": {
+      "sha256": "4d537bde7e82ae8657dc98250d4462e729d0be51ec3fcf20a80421f3c1fcb6f0",
+      "url": "https://files.pythonhosted.org/packages/70/0a/8eef62c6f4e786d5bdd25e55f49cc0fcf5293d5cac43316022e749ce3137/rattail-0.6.22.tar.gz"
+    },
+    "0.6.23": {
+      "sha256": "3e01a728a2db44d6f0338ebc9d46fc391bd9ca898196298c097a4e3dac7b4466",
+      "url": "https://files.pythonhosted.org/packages/19/5e/b575707f1b34d04f9a29a8bf5fe38e9b0b685349c79eacd0de4cbed89e30/rattail-0.6.23.tar.gz"
+    },
+    "0.6.24": {
+      "sha256": "0a235f17a8ecf8d4b99746caab3fbc5a4c9b6fc30ccc26d0c93d3af3918419d0",
+      "url": "https://files.pythonhosted.org/packages/22/dd/8097a1f4d2e3e0febf36fb0b9294eaa38df685c5808af8aa681c8538b85b/rattail-0.6.24.tar.gz"
+    },
+    "0.6.25": {
+      "sha256": "71da0ead946e6e22bafc1e4c75ade406e2876bad4f9a079572f56a1feef57fc3",
+      "url": "https://files.pythonhosted.org/packages/58/bf/aef589c3f9bbc28c9675ec66cc3898d92b28135880554ddbf95de4404cbb/rattail-0.6.25.tar.gz"
+    },
+    "0.6.26": {
+      "sha256": "6a02e7bd114c5e5584c1e0e2a7cc008e39a5888dcafeb0ac2ce5f96e316c977f",
+      "url": "https://files.pythonhosted.org/packages/bf/84/0ce0300e789c4708fa87b090676dc0661e41575cfba7f85c15ca81354900/rattail-0.6.26.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "80b8575129039d028dee7d5c086e1f71bdc74bba5bf4ebf602110d1c45b9ec5f",
+      "url": "https://files.pythonhosted.org/packages/ff/71/9bf294059cebe94adaac9a0ed485f14b77b5accfd91c747cdd160125391b/rattail-0.6.3.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "8758cc0b0a8f4a24765b060d7b3f5507579fa0611d52efeed930b59d52603fd1",
+      "url": "https://files.pythonhosted.org/packages/44/9b/cfbb24e0228ed62a5095775b30079aff6652479a4a0cb72c093779824a10/rattail-0.6.4.tar.gz"
+    },
+    "0.6.5": {
+      "sha256": "3c08521eb862486b8a2379b9834a72123821bb83274c91e09ad0044f45f90b0f",
+      "url": "https://files.pythonhosted.org/packages/95/ca/7e570d7ec005343ba98afeb970254415dd0e9eacd579627209357f3d950f/rattail-0.6.5.tar.gz"
+    },
+    "0.6.6": {
+      "sha256": "3dd5a3a0f86a02720887cb88b54b895b3b86b8b0df0fa3975f9643fe2ac07793",
+      "url": "https://files.pythonhosted.org/packages/d1/fe/b48a740848ba5c5fbd88ac9969128702f2c830a5ce180eb2040efbad0b25/rattail-0.6.6.tar.gz"
+    },
+    "0.6.7": {
+      "sha256": "c5f1fb3c0f0c2de4fb6145be5aef13cdbf6198472d69d4d7089ea36ea6023f74",
+      "url": "https://files.pythonhosted.org/packages/1f/b7/18834df05d3072d8e50b37c8658e05d01c1bcfaa37c2adb0538475cd7a17/rattail-0.6.7.tar.gz"
+    },
+    "0.6.8": {
+      "sha256": "68a099329877b4c2f80f2932fe62c781093e9a7c47f03cee5fb6c1c469a96bd0",
+      "url": "https://files.pythonhosted.org/packages/1c/9a/852a8d4427ec13b1a8fd6662bfbd145a3e2013f8c71156e86a70cf1b826d/rattail-0.6.8.tar.gz"
+    },
+    "0.6.9": {
+      "sha256": "50505a89888991e13ad2fb5c20d8a970c33180bb1eba03a0a32a22ac25e4d801",
+      "url": "https://files.pythonhosted.org/packages/5b/6f/012445ac1e7aa8c60e67a22615adbba0131f1bc28e7fec880497b09ffd0a/rattail-0.6.9.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "f0ef6bd5861d74e9a5f8e6e3d36623fea71a417eb456ab88a69d61b95a9273d7",
+      "url": "https://files.pythonhosted.org/packages/47/98/f03424fbbe23b62d9eec1ea65812d7a350f4b4b7bf5a4eefdf0b70e8ac22/rattail-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "9a1307fbe0d57c41d5802292a0c740a10129a38425b03eb6b01f374b460f6208",
+      "url": "https://files.pythonhosted.org/packages/cc/bb/00e37c0aeeef999eb833bf40fa6975a8bc0a7689d7d3061d80613ad0f3a6/rattail-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "8b209badeb3147d93fe3f1b1a2f8101e5e2c9264d82815dcbb6de77f52a6f0a9",
+      "url": "https://files.pythonhosted.org/packages/85/62/fb3b4b61a698a156b51bebd4f638bed59bbc62c2c9648f91647ff8f5810f/rattail-0.7.2.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "27f52d8e382967170b8c8f26f7517bb500301b6658f3cdc1d58f9daa8b1bfb5c",
+      "url": "https://files.pythonhosted.org/packages/dc/f5/de6497cb057140bb20709f53d220651c4d0c851dfe6be282af967e3b9157/rattail-0.7.3.tar.gz"
+    },
+    "0.7.4": {
+      "sha256": "1ab2529bf88e5f388f024b16bf12ecfd495046f297a66b71faf7a75fd92c65c4",
+      "url": "https://files.pythonhosted.org/packages/81/f5/e36d55632fa36a692868b2e6550e512df946ca17f8281587b220366f9a8d/rattail-0.7.4.tar.gz"
+    },
+    "0.7.5": {
+      "sha256": "b9cc95c02b17104e2c8567f5816aaf86136c3c257fe5bbf6f3dd3146b6bac7cd",
+      "url": "https://files.pythonhosted.org/packages/55/4d/42f52b40fa403031121050008c4f5628c437d87f6bcae0583e19d2f31b18/rattail-0.7.5.tar.gz"
+    },
+    "0.7.6": {
+      "sha256": "4994921c2cda20fae7cb46ce6d6066a3c7b4c5d60d8d3b6fbbe788a14606f2a9",
+      "url": "https://files.pythonhosted.org/packages/12/55/09fd2f263c2c9986553083a07755f9881ce2b320a7aecf0532277ce6f091/rattail-0.7.6.tar.gz"
+    }
+  }
+}

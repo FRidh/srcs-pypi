@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "1.49"
+  ],
+  "meta": {
+    "description": "CLI tool to run copr",
+    "homepage": "http://fedorahosted.org/copr/",
+    "license": "GPLv2+"
+  },
+  "versions": {
+    "1.45.1": {
+      "sha256": "5b09ac53bcb64ac8996ed1174742d405ff37c9dbeb80a30f559ec3218e8bdae4",
+      "url": "https://files.pythonhosted.org/packages/93/9b/70e2cb46cc0ee4fcf8b322244eedb00641afd53475d0fa6125d94c126229/copr-cli-1.45.1.tar.gz"
+    },
+    "1.46.1": {
+      "sha256": "67bd26f24bb2918ca0985cb4a91420098a37e6297b96699cd7eff7cfbd9414f2",
+      "url": "https://files.pythonhosted.org/packages/b9/57/1bf55d261e22f7a2cfd8fd8c481fb69bdad662f17320f568da41f512fd6e/copr-cli-1.46.1.tar.gz"
+    },
+    "1.49": {
+      "sha256": "65a453b0a6280d5d632bf00edb2d548cca379017aab9b8227164cabe83f808db",
+      "url": "https://files.pythonhosted.org/packages/a9/5e/c353ed4888f4bad81ee966f1618845c22cdd35c1f76412d09c25bf3b8db8/copr-cli-1.49.tar.gz"
+    }
+  }
+}

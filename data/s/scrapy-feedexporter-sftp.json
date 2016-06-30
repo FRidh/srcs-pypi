@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0.4"
+  ],
+  "meta": {
+    "description": "Scrapy extension Feed Exporter Storage Backend to export items to an SFTP server",
+    "homepage": "https://github.com/scrapy-plugins/scrapy-feedexporter-sftp",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.0.3": {
+      "sha256": "8fdc33b2411f7091b5ec03bfec854507ce6af9d0ad8df9191eb821522443249f",
+      "url": "https://files.pythonhosted.org/packages/37/35/a33412f4e709a48528b59e9ec93f1a80be43585ab1e8936292b5f3a83ae3/scrapy-feedexporter-sftp-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "0e5d7c0632d8459a76cf92a55c51c77ab83608527b7eb7ef5625d1d5b6c998fa",
+      "url": "https://files.pythonhosted.org/packages/0d/21/5aaa1bc813f8eaa941c5ab16aa040d27dde8e9b53db088e6c355e35dd666/scrapy-feedexporter-sftp-1.0.4.tar.gz"
+    }
+  }
+}

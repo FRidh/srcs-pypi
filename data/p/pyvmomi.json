@@ -1,0 +1,44 @@
+{
+  "latest_version": [
+    "6.0.0.2016.6"
+  ],
+  "meta": {
+    "description": "VMware vSphere Python SDK",
+    "homepage": "https://github.com/vmware/pyvmomi",
+    "license": "License :: OSI Approved :: Apache Software License"
+  },
+  "versions": {
+    "5.1.0": {
+      "sha256": "7e032d5184073b635010668c98ed6e0bbf712382c240d859f76dd5718694db2e",
+      "url": "https://files.pythonhosted.org/packages/fd/89/b06790e8e20ca222ad73d09619a09389aa6aa0bfd1aacf7130717b26c4bc/pyvmomi-5.1.0.tar.gz"
+    },
+    "5.5.0": {
+      "sha256": "8f81f763efcb44c036fd31a7e997a3c99a5b8468842ce51fd523be8132fda7b0",
+      "url": "https://files.pythonhosted.org/packages/64/6c/e946495154aa2d0ecd8586a15372326f0b42f8735d303fc6097a9ca4eac3/pyvmomi-5.5.0.tar.gz"
+    },
+    "5.5.0-2014.1": {
+      "sha256": "21bcc7a32e26fbcef57b2d5a19d53d5b88fd4ae3a77d66d8a7eb3451cbab73f9",
+      "url": "https://files.pythonhosted.org/packages/d0/ad/f9993f77268d722eea5cac447fc93bcdcf712dc913d607b0fe7eb8449044/pyvmomi-5.5.0-2014.1.tar.gz"
+    },
+    "5.5.0-2014.1.1": {
+      "sha256": "1b4c638ba4b71898f1b6f21405be856e55a2540226a5579e82aaa1d1a61eec62",
+      "url": "https://files.pythonhosted.org/packages/4d/5c/db408a3529a368c432d58a6b4d1684aa79946d85c5e4e9b8167df08484b4/pyvmomi-5.5.0-2014.1.1.tar.gz"
+    },
+    "5.5.0.2014.1.1": {
+      "sha256": "a57bc76a20bc9135b17276ee51564246ca9bf2a3e69eb1040e93ce4719946179",
+      "url": "https://files.pythonhosted.org/packages/06/3e/7ea19cf1992d9497d20709c597ddea9c3c4e928556ae0495fb565a4a4332/pyvmomi-5.5.0.2014.1.1.tar.gz"
+    },
+    "6.0.0": {
+      "sha256": "bc87e4d38584d0c1ace212486e100d6d70707697e4a427002725fd4f34d45cdc",
+      "url": "https://files.pythonhosted.org/packages/b2/50/83d6f237d8dc560be8d84e65e77ae782ca7e4fbad49b67cbb44b666af314/pyvmomi-6.0.0.tar.gz"
+    },
+    "6.0.0.2016.4": {
+      "sha256": "ba04a643407bc752cd37e57843fc28908e5de8c4fe667564b496a32594f2c4e1",
+      "url": "https://files.pythonhosted.org/packages/3c/fb/7086cbc35c3d0ca6f12a2d15f87b2f5d7bfd81b39cba143aa4342330028a/pyvmomi-6.0.0.2016.4.tar.gz"
+    },
+    "6.0.0.2016.6": {
+      "sha256": "b0674174e2799ca4b29daacfb839c68ddd3cc6d92edeb28bf396ce0cb4d23a51",
+      "url": "https://files.pythonhosted.org/packages/af/7f/4e12747e529b61b83ccd3829d5a30a43378ed59360db79a83510d344084d/pyvmomi-6.0.0.2016.6.tar.gz"
+    }
+  }
+}

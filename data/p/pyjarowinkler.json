@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.8"
+  ],
+  "meta": {
+    "description": "Find the Jaro Winkler Distance which indicates the similarity score between two Strings",
+    "homepage": "https://github.com/nap/jaro-winkler-distance",
+    "license": "http://www.apache.org/licenses/"
+  },
+  "versions": {
+    "1.7": {
+      "sha256": "b1f06e9e53edfa761a4900c98484428e58c0991d5cd69270901adf9a2b4715bb",
+      "url": "https://files.pythonhosted.org/packages/13/ad/06c7d682a261c069b7a0f43415feb3f6c542ad697977008eadf09820045b/pyjarowinkler-1.7.tar.gz"
+    },
+    "1.8": {
+      "sha256": "49828834eddae6a078ee1329dca572541192a3f49e407608f4063c692c1ef1df",
+      "url": "https://files.pythonhosted.org/packages/04/c2/d560c1eebd87b668394daee4ac07959bc1a00db56364b86863470a8c23e4/pyjarowinkler-1.8.tar.gz"
+    }
+  }
+}

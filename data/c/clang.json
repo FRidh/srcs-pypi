@@ -1,0 +1,52 @@
+{
+  "latest_version": [
+    "3.8"
+  ],
+  "meta": {
+    "description": "libclang python bindings",
+    "homepage": "https://github.com/llvm-mirror/clang/bindings/python",
+    "license": "License :: OSI Approved :: University of Illinois/NCSA Open Source License"
+  },
+  "versions": {
+    "3.2": {
+      "sha256": "6830ab25f6e3bac4459a1d2c1f9c26de869f9e3b68a944feeb0f0070372fb32c",
+      "url": "https://files.pythonhosted.org/packages/9c/29/d51870836dfb280810c0306cf368524b897d31eaa3a025166830548d4112/clang-3.2.tar.gz"
+    },
+    "3.3": {
+      "sha256": "08e0b1ef4ca3c42d30a77c4bdbbb4e694f161ab53aedccd0190264907e1261e8",
+      "url": "https://files.pythonhosted.org/packages/8d/e3/cce838a95aaac8c678852b4b5dbade82274050189c3e42dd64109215ae04/clang-3.3.tar.gz"
+    },
+    "3.3-svn191928": {
+      "sha256": "dcc44920494a5d53a8808147897a98d47a843808243c99909111b24c97d4d486",
+      "url": "https://files.pythonhosted.org/packages/6d/1e/dc5409ea746e48fdc18748755b5ae4165e292bdb71f760e506fa7bdceae3/clang-3.3-svn191928.tar.gz"
+    },
+    "3.4": {
+      "sha256": "2c3149ad25582817ebdd76764a7fd88df120049b715675c182c55b95671a50d9",
+      "url": "https://files.pythonhosted.org/packages/43/43/bfb36b6be0b00d1e934c2a96537de5b03dbacb05867187a7079f6bb02c2a/clang-3.4.tar.gz"
+    },
+    "3.4.dev192547": {
+      "sha256": "1287e59c0e847059e71c500a73015c3fa5bfcbde40086cd072fa5e80a1d05d02",
+      "url": "https://files.pythonhosted.org/packages/9c/12/6ee20b1499bccc22b63f22dd02bd9a661ca2b1260c028c2af53d6b99d909/clang-3.4.dev192547.tar.gz"
+    },
+    "3.5": {
+      "sha256": "270dd3b988489f4d85aad189c94b152e6bcf6773556a94d0969cdc223c401562",
+      "url": "https://files.pythonhosted.org/packages/50/15/33dadef78b46ea7bc84804a877edb47e216a9b8fb15807fa343222ceb4d8/clang-3.5.tar.gz"
+    },
+    "3.7": {
+      "sha256": "a3aa65d6711cfecfc0cb3b37144ff19509b5cc1f3bdc2d49ded7d99de33b9d1a",
+      "url": "https://files.pythonhosted.org/packages/da/19/b848eaf82d2a13b8bec030cb85ef47898991446554cc59654a5b5311a50e/clang-3.7.tar.gz"
+    },
+    "3.7.dev234764": {
+      "sha256": "2db2ee20b96cec4b1b91f2d6c585705f781e89320c86f7dbe781f43d49b5d286",
+      "url": "https://files.pythonhosted.org/packages/3f/e1/ca9efb29dd74f4eb2ad16b159a162318631d2ff551c8d9806717d48eb97d/clang-3.7.dev234764.tar.gz"
+    },
+    "3.7.dev234765": {
+      "sha256": "d53cee96a7493024b3b27430d907f4da4869baa565f3f47af5656c834acd454a",
+      "url": "https://files.pythonhosted.org/packages/29/fc/17da23a50cd0028bc6b88219dcd8c07ec737627fb971a98db0b3ecbaffae/clang-3.7.dev234765.tar.gz"
+    },
+    "3.8": {
+      "sha256": "8a3f1203c4148348e62ee602f11a5eb0fbb5c462e361b16aee6b4c2836088d5a",
+      "url": "https://files.pythonhosted.org/packages/5a/aa/22c42abe5bc0d6396f0fc7c24b4be793011c7bd6456ba78a4aca23e9cdb7/clang-3.8.tar.gz"
+    }
+  }
+}

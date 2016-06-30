@@ -1,0 +1,112 @@
+{
+  "latest_version": [
+    "3.2.0"
+  ],
+  "meta": {
+    "description": "In-process task scheduler with Cron-like capabilities",
+    "homepage": "https://github.com/agronholm/apscheduler",
+    "license": "MIT"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "9f5b0aa0cae20b123146a897bcf1bc3698e6724fdc63bfe36df253918d1255d5",
+      "url": "https://files.pythonhosted.org/packages/40/46/31703a09b3b173fa09b7ee560d669fa2fcadbdd66635b40eefb8a6ddf3e1/APScheduler-1.0.tar.gz"
+    },
+    "1.01": {
+      "sha256": "4f151cf095798746feb055072c712e990c7df98a9529c9886a1b37b562dc7958",
+      "url": "https://files.pythonhosted.org/packages/b9/93/c16135e568f1cc682dbe108d78d317a90e4fc986a4b556dd3d28163bc466/APScheduler-1.01.tar.gz"
+    },
+    "1.2": {
+      "sha256": "97443afc29c55d216cd499c5c30ca125ab75784c1e8c929a0a94f2d81c35e47c",
+      "url": "https://files.pythonhosted.org/packages/79/7b/734dd46e16ff48eeea9792c0a0d173742180e53ac718c7694252697fa10b/APScheduler-1.2.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "3f0428e3e667752617f780f8d8fdf20bb9cc48aefd05cc9818f1b110111b00ba",
+      "url": "https://files.pythonhosted.org/packages/80/51/36f6a443042af4999a75c0df0d20c7f758d8f18a8bb4b04651115b385ee1/APScheduler-1.2.1.tar.gz"
+    },
+    "1.3": {
+      "sha256": "06e6518ff7de0ed765325c41c50b097d2e5c986e9be6c0205d3d113a3ab6a237",
+      "url": "https://files.pythonhosted.org/packages/f3/9a/f866dc761ad0e24e6cc150f505d0b0bda34a7f197dab88986e45f420f020/APScheduler-1.3.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "4656ffb17e0b76cd212c40b31265da499637229057fc5593f9b340e023d2ccab",
+      "url": "https://files.pythonhosted.org/packages/a8/3c/68ccae1770fd905df328f0465825d0094051de12ebe57f2c5f794f164074/APScheduler-1.3.1.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "64e54fa02e2654f6c69189a777821cb67614b41000b59257a8c513d67578aac8",
+      "url": "https://files.pythonhosted.org/packages/1e/af/f3814863f02aea315ffa5bb9840c876460c8687cb2eeb21d26e94632f99b/APScheduler-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "47a1524cd29ba78d95add8334f45253c923728fe64542e035c31e80eeb47f948",
+      "url": "https://files.pythonhosted.org/packages/88/a1/c4b81e2b8131c18a083c2e6b47319a4c94ebae78bd324ebf8e0b196d7929/APScheduler-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "a1f57007133c90b38b902e7a376d76463e34c2d971fd94f7e03a01d3bf2ba291",
+      "url": "https://files.pythonhosted.org/packages/27/6b/5afa131346e243cef6c7080386509c1f50f66e76326207aac36c827c8c31/APScheduler-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "2475dae1521a30ab234aac6889fd8ba57f32871cd5a18dfe917f760ee057a64d",
+      "url": "https://files.pythonhosted.org/packages/32/72/feb363fe65d1cb5764d153dbcf61b62a65a10f391e12392afeadc63555ee/APScheduler-2.0.3.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "3b4b44387616902ad6d13122961013630eb25519937e5aa7c450de85656c9753",
+      "url": "https://files.pythonhosted.org/packages/09/49/828c768c015ca3ca18b9a2e2029b6acc4c809e37c916659d3b54d69e67b1/APScheduler-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "414b6e59453b27175aadcc9585d5ad97a6d952fd576640806966822d8fa9a78a",
+      "url": "https://files.pythonhosted.org/packages/13/29/2979aa79b2745224798fcc1538d0240e2898f24b9e55e04f667954024e07/APScheduler-2.1.1.tar.gz"
+    },
+    "2.1.2": {
+      "sha256": "2df5a98dd751ee2f0d94f463e6683e6fc657e4410ca03e712d56bb4cde1e3888",
+      "url": "https://files.pythonhosted.org/packages/bc/cf/cef6af9dc536f19c6d99f56729e369a31773635157e030db867ee571164e/APScheduler-2.1.2.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "0ed2b1120e614196557499024748c51c2864426982990684dfa5957703bbaf8f",
+      "url": "https://files.pythonhosted.org/packages/f9/eb/de68471aa1a22de0f5016777629c2c9d2e7277ba1d81d00377cc5044df88/APScheduler-3.0.0.tar.gz"
+    },
+    "3.0.0b1": {
+      "sha256": "e2700585aadf1672e2377ef0874ad2b51cadae14a38b5e8d32f633c1b0b407cd",
+      "url": "https://files.pythonhosted.org/packages/2f/a8/98c23b6c48ed6d85aa3af3492e173382b0f2e8957124aaad6dfa45a82e50/APScheduler-3.0.0b1.tar.gz"
+    },
+    "3.0.0b2": {
+      "sha256": "a19b516fe8b395f9ff14177c8ef067eda04e18d5987456a7e853724a24e91096",
+      "url": "https://files.pythonhosted.org/packages/f3/62/9fc5b5cb015791198ff051767ae68c5336aac306b3a1762db0ad3161c363/APScheduler-3.0.0b2.tar.gz"
+    },
+    "3.0.0rc1": {
+      "sha256": "0a604992b5cfbb860e306178f3827a2e1f945070ee7abd0f9ae03628d91b9de3",
+      "url": "https://files.pythonhosted.org/packages/4d/82/9d2a9f2703d71d1154f623dc032d26f3c00218dddb2f6787a6c275367f96/APScheduler-3.0.0rc1.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "4e71d83578166fdc73d8adb646b40a6a7c70d9f7cb017ca93b0dc2ad51999eb5",
+      "url": "https://files.pythonhosted.org/packages/7e/d8/7b3131f4ed7d6b80217e17e65680219ad09b1182d2e7e2af030a1e6f8609/APScheduler-3.0.1.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "48148179fef21486a3a30e9236f9b4401024fd44e09d6ae23a465ad5783a737b",
+      "url": "https://files.pythonhosted.org/packages/20/ab/a41b590c3ad6184ce43409dee6cb58f5dc4a050884146db44243b0016290/APScheduler-3.0.2.tar.gz"
+    },
+    "3.0.3": {
+      "sha256": "cb22f71682cfcd21d0cb95487756da6870f751cc86014748075dfbda858e88b9",
+      "url": "https://files.pythonhosted.org/packages/e2/a7/ff9f3785f8ff44e8320e4fe3531e0a92d7f730c5b14b0f15f1ebe3e98550/APScheduler-3.0.3.tar.gz"
+    },
+    "3.0.4": {
+      "sha256": "8b9b39e102ad2a003fb8299f306adc225e7f1062af8ea819bb61a1cd8c8552d2",
+      "url": "https://files.pythonhosted.org/packages/4f/5b/fcde1d00902f078900f4f6082e7bba137baeee2b16b46ba37575e2fe59ab/APScheduler-3.0.4.tar.gz"
+    },
+    "3.0.5": {
+      "sha256": "009dcf552035b30ee967f2677d0d7a49a88f2d36291c42669aa069dd549da9e4",
+      "url": "https://files.pythonhosted.org/packages/82/b1/910892d127c0b1b39cb80c86cdbf8da1ad780e172fe1d2fa96b119b339dd/APScheduler-3.0.5.tar.gz"
+    },
+    "3.0.6": {
+      "sha256": "5a1c403cbc1dabfeddf3cc2506365ca5bcc1d8fdc1cd84b2629a444b2856ab7f",
+      "url": "https://files.pythonhosted.org/packages/d5/27/3e9e9aa4871445df08f4f4ec9828877de506b9defb12ca63820cdabb0142/APScheduler-3.0.6.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "96a7ca40dbfb16502b44740c31c935943532f5a13be114e75419ca86fa264486",
+      "url": "https://files.pythonhosted.org/packages/89/52/22f11f5ca425f16409797c5c651de380824a252acd1ced4ef1ee54507bbf/APScheduler-3.1.0.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "5baa1195ba711868fae257612cf80372ff1124014ca896884bf132f75636f638",
+      "url": "https://files.pythonhosted.org/packages/c8/40/16a2df29261992cee18f6cba9731d9101302cc76d24794a332f6e567fe2f/APScheduler-3.2.0.tar.gz"
+    }
+  }
+}

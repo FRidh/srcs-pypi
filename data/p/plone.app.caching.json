@@ -1,0 +1,132 @@
+{
+  "latest_version": [
+    "1.2.10"
+  ],
+  "meta": {
+    "description": "Plone UI and default rules for plone.caching/z3c.caching",
+    "homepage": "https://pypi.python.org/pypi/plone.app.caching",
+    "license": "GPL version 2"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "1f1d1cac99ead71592a752453ee619ade9b40f291818b0145cd0ce7df838a212",
+      "url": "https://files.pythonhosted.org/packages/0d/e9/c82b6c6c7b9b71b2caefeb3499237561323c3907c8188cfc09ba097aa206/plone.app.caching-1.0.zip"
+    },
+    "1.0.1": {
+      "sha256": "4285b89fa929d93b24c585225c041e81a34e4b0c28b43ab61e68d244c2d9ea07",
+      "url": "https://files.pythonhosted.org/packages/4d/4c/1d33002a7e567366407e20668e397fb8a5b5531ddca3c7eea2e3a55c69e5/plone.app.caching-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "53aa8d8fdd5cd1be08e14ee4f7e295a28891d5e23ed987f491fcf58903df8836",
+      "url": "https://files.pythonhosted.org/packages/b3/ec/bda1808c7591a7b663e446a6f798288bf8466997570295d71efbb521872e/plone.app.caching-1.0.2.zip"
+    },
+    "1.0.3": {
+      "sha256": "cfff1fd85ef4fa59044f2f06826f35674cf52ed8a5d8633234ee4ba2738cf0a0",
+      "url": "https://files.pythonhosted.org/packages/0f/00/7a1cd53e2e4f83712a9d5283a754282aac8f90d7e0ccf5e9f0a6987a33d3/plone.app.caching-1.0.3.zip"
+    },
+    "1.0a1": {
+      "sha256": "064fed05aa1946ea5aa8bcbdc0bb0f698119201b7c69c086956c0971ca1a1bc4",
+      "url": "https://files.pythonhosted.org/packages/45/f7/d4c527fbb9927738b8333b62788f5b3d7f6d8ed55b2dec795d809c1d5c50/plone.app.caching-1.0a1.tar.gz"
+    },
+    "1.0b1": {
+      "sha256": "51c5f1bdf02166a45781b75c4f1ccb5fcadda77cfc70bee555da568cb5aa4680",
+      "url": "https://files.pythonhosted.org/packages/d7/7e/e9113ea8f0eafa3f7cdde9af2c03ec0ea56d90b8ffb62a63823082af0c3f/plone.app.caching-1.0b1.zip"
+    },
+    "1.0b2": {
+      "sha256": "345d50cb1817dc753a4766e40807e72a76b5c992b2edd9d3837283e1d475e782",
+      "url": "https://files.pythonhosted.org/packages/00/7a/0ddf1fedfd28ef641b1e7fa32e87391c4d14f6025e7275ea00f8db24414b/plone.app.caching-1.0b2.zip"
+    },
+    "1.1": {
+      "sha256": "12af57e219a75b2222eb6ebd7d788a7d8682d56217dc064684ac2862efb5246e",
+      "url": "https://files.pythonhosted.org/packages/1e/6e/dc29dd832f780fe3bdfca56c2344ad271391263eec219781a84c27f6215d/plone.app.caching-1.1.zip"
+    },
+    "1.1.1": {
+      "sha256": "cbe3429769a6f7acb6f7c42cfa20ced6607ba3420c8d4d8efac6b97d3dbe86ca",
+      "url": "https://files.pythonhosted.org/packages/83/26/2449c6912c956e6d611d549a78fad63a888989747fb7df073378416b58d6/plone.app.caching-1.1.1.zip"
+    },
+    "1.1.10": {
+      "sha256": "4789f690cbf8a30421ca2ebdfef42f4418970eeaf3c2805ec336b3d88e09242d",
+      "url": "https://files.pythonhosted.org/packages/d1/ae/e7847b22bf8028c78c78fc4a5a2fcdf6e8b9d9380040763943311b2bfd7b/plone.app.caching-1.1.10.zip"
+    },
+    "1.1.11": {
+      "sha256": "c3f974e74c37d2ebe980c278b66924ba7edb267c32f9b0fb66c64f94e3a7b49b",
+      "url": "https://files.pythonhosted.org/packages/41/cf/b79c7816d3772f886cf67393c0ed1766778a5030f9fa10ec9dbf372d08bd/plone.app.caching-1.1.11.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "dfad7c0b21eb8589aa142a8c4382cca10cd23c4633b67ebafaa38c47366001b7",
+      "url": "https://files.pythonhosted.org/packages/80/9c/ab870c65243b578fc1087f827f2bdcc85d32aef25bc38098c5cf2c0bdff0/plone.app.caching-1.1.2.zip"
+    },
+    "1.1.3": {
+      "sha256": "c836f730b8220a32b332274a6e3bd944d2db544e3c2a4b6fb22b12191ca666d3",
+      "url": "https://files.pythonhosted.org/packages/65/ca/dad2dd03e4b4a25db69cdebe73cbe3035f37684df3aa87137c20fa01e5f3/plone.app.caching-1.1.3.zip"
+    },
+    "1.1.4": {
+      "sha256": "f18bb3ebf8bb4dc5d5a5ecfbaa54777c82cf38bbe9a702b9840f664f10df3c78",
+      "url": "https://files.pythonhosted.org/packages/4f/db/2f145370a75f4235332f65179cbb22ff3528d80c3c28206327517d7bd708/plone.app.caching-1.1.4.zip"
+    },
+    "1.1.5": {
+      "sha256": "9853a2e1fc335536a6b95a2211d6ec84b60d3a50cc7d764e31d31ec0e9ce7db0",
+      "url": "https://files.pythonhosted.org/packages/3f/9d/5d15c4ac28035c99abf67fb2891ec8fca02c544a412173f111eb5505e2ef/plone.app.caching-1.1.5.zip"
+    },
+    "1.1.6": {
+      "sha256": "8ed7059f9360c73db44bff077a122cd092d7d5b93c9f5d81cfe24ae61523321b",
+      "url": "https://files.pythonhosted.org/packages/e8/cf/28cba023a3fe6fdf917d07fe92b5fd7bed60097b9cc0c8d0b8fcf477538a/plone.app.caching-1.1.6.zip"
+    },
+    "1.1.7": {
+      "sha256": "44c3198b6b1d02d9cd26e51804d60ccbd9f299b6237efec1999caa9f9f862c02",
+      "url": "https://files.pythonhosted.org/packages/e2/90/fac35745ee18d747869c9ae77f807ad5b5afda22b7c82d05af47a2c38644/plone.app.caching-1.1.7.zip"
+    },
+    "1.1.8": {
+      "sha256": "ef13a4f969c1037718616d79931158deda23e711cf2904c270d0d184e77f418b",
+      "url": "https://files.pythonhosted.org/packages/3d/e6/12e99e371024d809ee691d17e33f27207e6f216f60b14c8f2b15c03c9f9d/plone.app.caching-1.1.8.zip"
+    },
+    "1.1.9": {
+      "sha256": "a0907fa0b2ee803f0306245743fd920fbf7c1d4f23a44753c3cc0d428e4e7b88",
+      "url": "https://files.pythonhosted.org/packages/85/ac/0f841e67d52fc8c253a6cea90e75944d10c1c5bf498b4f871ebb626a0727/plone.app.caching-1.1.9.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "f3632b3e2711efcc452b0a735ae7441595e28433a2816db53244e58846acb984",
+      "url": "https://files.pythonhosted.org/packages/da/d9/5a5800f60b50a7db0dcd9248827facfc2549c424087fe5e1443f4b1da416/plone.app.caching-1.2.0.zip"
+    },
+    "1.2.1": {
+      "sha256": "1b85f753bea5184c71fb1bbc619f7406fcfb2b31c6687990c28da6e5f18ffe7d",
+      "url": "https://files.pythonhosted.org/packages/be/18/3190ebc96b65278572c88607d775b9d1b40c4b7418edb6961186e19dd38c/plone.app.caching-1.2.1.zip"
+    },
+    "1.2.10": {
+      "sha256": "e2e2848bf43ba7c13bf64ab2f17f63029cc323fdb7a5a5e41ccf7873fbf22ce7",
+      "url": "https://files.pythonhosted.org/packages/8e/45/7be8f9012c2dab061eb6532f14fc8e33cbe5a9203270b0eac2c2678b5852/plone.app.caching-1.2.10.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "0bb16bd30ba64eb036e94847438ce981c5b2f716e57ee233803be9d8cc8878da",
+      "url": "https://files.pythonhosted.org/packages/da/51/0f8ef68d0a1cbb0740654018212e2fd3a9d4963f5444b62511977332a124/plone.app.caching-1.2.2.zip"
+    },
+    "1.2.3": {
+      "sha256": "876d1beb76ce3284358735ad186f81bea0677dfbb0097c07d23c7a1605d1c68d",
+      "url": "https://files.pythonhosted.org/packages/8b/55/b3a6a0e50fe8c3e5cd2ca4e97dec294ba12aafda0c309c59ed924cc5c0ca/plone.app.caching-1.2.3.tar.gz"
+    },
+    "1.2.4": {
+      "sha256": "cbd43c3b38c36895375c6bb3af874ab5f794fa336bfc37c1b6c2e3bdfedde2e8",
+      "url": "https://files.pythonhosted.org/packages/8f/9c/3b7610a41d07454b4c2807a7e6a3d67df9541a4a3bf46a222fb4bd9ef015/plone.app.caching-1.2.4.tar.gz"
+    },
+    "1.2.5": {
+      "sha256": "9b7fc79229551f787eb2e2b462c70a3ecab6bccb9e14aa84bcfc8f19eceef5b0",
+      "url": "https://files.pythonhosted.org/packages/5b/80/3b9f637e3f39533defc5945b2642f492e15f5929f563ffd7142bfe88e11e/plone.app.caching-1.2.5.tar.gz"
+    },
+    "1.2.6": {
+      "sha256": "4a85cc559b59dcce920c1a9c811b4bcd2bd9628487bf28d0a4e7b9d12a712729",
+      "url": "https://files.pythonhosted.org/packages/05/0d/fa853f6b88a85211549536b746913722738f7d4d6068255ff31427608872/plone.app.caching-1.2.6.tar.gz"
+    },
+    "1.2.7": {
+      "sha256": "d729809869615a4d6c6addd985d87c487a6211b811076c13932563d1a9810b92",
+      "url": "https://files.pythonhosted.org/packages/da/cb/fc6a5a291982a021cce33af14af07ae10c473aa0713589caf3dd8759b81d/plone.app.caching-1.2.7.tar.gz"
+    },
+    "1.2.8": {
+      "sha256": "c66fea9f517b46ab1aeb81f4c2874e03838640d1e3336ee0a0dfd7753bb89f78",
+      "url": "https://files.pythonhosted.org/packages/58/1e/a5fac61d2ff444c4cf84fd76eeded326b484c73455760fbfcb0784e9bb48/plone.app.caching-1.2.8.tar.gz"
+    },
+    "1.2.9": {
+      "sha256": "c691ba8cee0d76e6503d07509d256d509e2cd5973a8b63d6d0531439aa152696",
+      "url": "https://files.pythonhosted.org/packages/1b/fd/e49f67fb1af0f3514ae729309abb9e3418e617e8d52d0cce069d6f22091b/plone.app.caching-1.2.9.tar.gz"
+    }
+  }
+}

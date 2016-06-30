@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.1.3"
+  ],
+  "meta": {
+    "description": "A python wrapper to the USPS api, currently only supports address validation",
+    "homepage": "http://github.com/dstegelman/python-usps",
+    "license": "New BSD License"
+  },
+  "versions": {
+    "0.0.1dev": {
+      "sha256": "ad1cfebd1cd7d6345600605032263835273c49d59075c532394d79c02c5667d3",
+      "url": "https://files.pythonhosted.org/packages/c9/c3/d4f1f05ff0ff11fa4ff0bc1943fcada4877587479e29cb95652bea8c4c2f/python-usps2-0.0.1dev.tar.gz"
+    },
+    "0.1": {
+      "sha256": "ed8ba0b77fcfc0c0c00191d2792c45c383cb4c981110158b722994868aef2384",
+      "url": "https://files.pythonhosted.org/packages/f2/57/4b80f1ff6536a01074d31ed6dae83dbd487433884c1e30c864b8a179be58/python-usps2-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "6affb59c7f656d49adfe6f16698686baeaf4688d4d94b2d4af42427649bd03f8",
+      "url": "https://files.pythonhosted.org/packages/9f/f1/f807dc34aad3763c899a3fd7b31207643cbd4fe10572d8522b025350f0c0/python-usps2-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "354fc928e1d62f0ca683bf694be5a3cfe2ddc2dff47f0e5ac4b58dc1dfe44852",
+      "url": "https://files.pythonhosted.org/packages/9f/db/adae16473ce64a78772c0e5ad83ce594f19a07946b7053288c6ff81c0692/python-usps2-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "ecfc1164b3a2afc7d34c86bf90e152cee0543924212a9da2937fcc9397332a3a",
+      "url": "https://files.pythonhosted.org/packages/e3/4e/c9f1964de0d44bb920478d5e5354b5ae214ad42395d6aa4ccc30d42fd550/python-usps2-0.1.3.tar.gz"
+    }
+  }
+}

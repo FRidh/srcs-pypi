@@ -1,0 +1,428 @@
+{
+  "latest_version": [
+    "0.4.455"
+  ],
+  "meta": {
+    "description": "Dumb downloader that scrapes the web",
+    "homepage": "https://you-get.org/",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "8aff68355d38afc36b3ef0a3bfae16e49c9ff96e313508a93d37a5785979c9bb",
+      "url": "https://files.pythonhosted.org/packages/ea/7f/de2c70fdcb38b67144f720dfcdc5e4e5a31854e351bf8175e7a374848245/you-get-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "b248ed79ad4b1c3eda96a7371ac8442af176b919b1d09ff81517c81801aa7811",
+      "url": "https://files.pythonhosted.org/packages/6b/d2/3dc6859cd016a36b22b1ba45f2e5afe607f1303ff7e6c97fee7cfc8ba398/you-get-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "5d4e59aa87a1f368d7ff5ef05a1df88275359e28f0fd0f600e0b6df3dc8aacf3",
+      "url": "https://files.pythonhosted.org/packages/ec/d6/f6933ec98110c264ad3ebc87ccba1085130f61d629a7f66adc8255836be1/you-get-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "f1b99ddb46c98601b46efc06a65c59e7194a6814333fd8117798d03239c03edd",
+      "url": "https://files.pythonhosted.org/packages/72/44/ff6f6931a3938575be65e07d3bf541ab7d29279f93cb47697c770d9eb702/you-get-0.1.3.linux-x86_64.tar.gz"
+    },
+    "0.2": {
+      "sha256": "4f07d63709cd502ea8374ad663d1256034efd077c2480b2a1df716ee0391a411",
+      "url": "https://files.pythonhosted.org/packages/3c/48/e49f034a3b36323a69f6955c4faebb506609ded2b1a2f0d2c8053fc5b883/you-get-0.2.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "98bc90571e314954b37bf98562cb4f23bfef0852e97e1caf84df4aeeabe3b8e3",
+      "url": "https://files.pythonhosted.org/packages/68/57/8ef832d6c3b52f6604710ced64d8e43450a1c4b9d935275d9ac6747e070f/you-get-0.2.1.tar.gz"
+    },
+    "0.2.10": {
+      "sha256": "d304ba57f0ef9e8e1b13e35e59eafebb7ef56fbeec286964be7de964019b6ab9",
+      "url": "https://files.pythonhosted.org/packages/a0/ae/20692c746dc280d955a1e6b5cd5eb0d5d924570cb27b2dd2148f6347b156/you-get-0.2.10.tar.gz"
+    },
+    "0.2.11": {
+      "sha256": "a6f3c966cba0d63e88dec44b171dada335864de0d05feac4d03c5f7c20594cbb",
+      "url": "https://files.pythonhosted.org/packages/96/91/485b830463cf039ca2c26321c7ecfe1e8e81e1f3675d349c314751a96b2c/you-get-0.2.11.tar.gz"
+    },
+    "0.2.12": {
+      "sha256": "ec3dfd52bcdee43eb6e0516e4b904c05b7502d361465d9b18b8d2e326abc8ca7",
+      "url": "https://files.pythonhosted.org/packages/79/12/5ee389a6054c8c025b76fa4a4d90ff75df0084125ed2af48be50ee789ef9/you-get-0.2.12.tar.gz"
+    },
+    "0.2.13": {
+      "sha256": "c382acee3aea2344826e21581e30a82d120a0a87a9a074e5bb778ee8f3f498e3",
+      "url": "https://files.pythonhosted.org/packages/e6/c5/d2dd9f15632374880319c547ae4b37476539a4efe3cb9ea2906856d70e5b/you-get-0.2.13.tar.gz"
+    },
+    "0.2.14": {
+      "sha256": "c2e647770d92ee04c81449faff19fde6e868e4dc9325f0552c8072d1de27336a",
+      "url": "https://files.pythonhosted.org/packages/c2/b9/7c3fc8eaf6cd1ebf7955fe6dc558ae6129363786358075a0cf554bd9a32d/you-get-0.2.14.tar.gz"
+    },
+    "0.2.15": {
+      "sha256": "227fcfef85e97bf6158ae43a22e8b89ffd45fa7515f1ef5cdef16141bf19f9f7",
+      "url": "https://files.pythonhosted.org/packages/a9/20/ce133eb4f3e69678fd3afca5a883e4bc2078e5f2336b7604ea94f4ac7a17/you-get-0.2.15.tar.gz"
+    },
+    "0.2.16": {
+      "sha256": "1990f8926cc570bc4bfaa13a2b7b1e81f7c70c7acd75236b09d2a1d74809584e",
+      "url": "https://files.pythonhosted.org/packages/e8/81/009c9d4f67210c9b87a4cca39457c4ab61f8bded066e7db0fcb04edf70e3/you-get-0.2.16.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "c3929cdae4c24338c06472473cea7223d68c639b1ad7a684999060c5595f2ade",
+      "url": "https://files.pythonhosted.org/packages/fd/c2/a35d4e66dd68166f54eb82ff8cc11483760fe9651cd8da551e82106175ea/you-get-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "d90ece795c1dd8774070cf359a0edc1fe9bc9a491c3116f142b0c5f14cb5cf38",
+      "url": "https://files.pythonhosted.org/packages/a5/a5/8d48f4b75fc2024515c80296b548f3c4fb91a9159208bbb17c707ee32c0d/you-get-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "4a6b822f7a76aea516bbf28a2c5dc2d662854fd5ac64734172d7b99438b30bb5",
+      "url": "https://files.pythonhosted.org/packages/1e/92/555fecd792fa3564544e0d8215382ac5c79ebe9ae331f7a13c1fac5b75d4/you-get-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "1720f7e339ee9dd5375cf08bbde4996d5895f9421969d1ce3d32d31e8dab4258",
+      "url": "https://files.pythonhosted.org/packages/d1/69/0baee10ca5293b310651ae8f443513749a292a1666237f12d7fafe792107/you-get-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "5f9d5ac786ec1412a49467a1f96db8bc6f5d180aeeb5efe3fd64fa9442749703",
+      "url": "https://files.pythonhosted.org/packages/88/42/cc11d850a6046ed7f2fb097bcf6a9bc446cc63052cffab1f87377e33b943/you-get-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "3ed6b6da0d48d61689c4abf149ec5b0f76242bb1fbdf32c4a6fbba1d6c845b64",
+      "url": "https://files.pythonhosted.org/packages/c9/82/efb4dcae28f00674dc2e7aa1eecb3d42f7098120a74328f43a51bdd5bf54/you-get-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "3fb11f76a03b7b7a9410e3a4af1b3205b3e7f368824065d1fdf5ae55c5e10aca",
+      "url": "https://files.pythonhosted.org/packages/e4/32/b124abcfb38b83fc1cbbe21896e2ec13418be0d7d339f3fc08124316141a/you-get-0.2.8.tar.gz"
+    },
+    "0.2.9": {
+      "sha256": "c1ae4a0911f93e98d44d1c2e626aa5cb9fa1afe0faa7a2024f71591559127809",
+      "url": "https://files.pythonhosted.org/packages/bf/3b/41c085333c1cf2143abc51992cf19396abee34c3ef69237426c039b17cfe/you-get-0.2.9.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "ea574f7f6cf7d2f4b5e65bb42769e9bb315ae1e50daffad66b6ad9b138018abf",
+      "url": "https://files.pythonhosted.org/packages/54/31/e7c5c5c264221cc028dac9c444e2a67c108df443596fb0950d0fa73b91da/you-get-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "60ecd564c2cb7bcb1dad313998cb568b8fb6c9554e19f9fcfc83bf3b66d7c193",
+      "url": "https://files.pythonhosted.org/packages/96/2a/589e4df37173758d30acf7836291e0ee19d04db6b0fa3fb2a22934426f2a/you-get-0.3.1.tar.gz"
+    },
+    "0.3.10": {
+      "sha256": "b45ff0d7162d4fd79fbbfb93e465d6d24a633091808acf8eaddf416b391a91b2",
+      "url": "https://files.pythonhosted.org/packages/7a/c3/6e23897f8d0ac0fb1ac319e5683419d5c022b2c7837b5e7f4145498f9d01/you-get-0.3.10.tar.gz"
+    },
+    "0.3.11": {
+      "sha256": "240b17dbb2a9709fa1f9a71c1b4850a6571d6162d7140c18f9c1cbca2e0ca31f",
+      "url": "https://files.pythonhosted.org/packages/28/43/d5cec76142e1124ab9341a9290435950423e0d4ecf13c8969158b71753a2/you-get-0.3.11.tar.gz"
+    },
+    "0.3.12": {
+      "sha256": "346aebb42c1cfa063cfb94322a8e71e0b0415c69948681aa9e6ca4e3bcb4d619",
+      "url": "https://files.pythonhosted.org/packages/3e/16/4a9ed49ad258a824f425bccc4c02d29a094abfe5525f533a9ec71fff8dd8/you-get-0.3.12.tar.gz"
+    },
+    "0.3.13": {
+      "sha256": "69e8571ac9cf6dd6b919d9f10590b0617eaa15acd82d82b78fcceba6a26c972f",
+      "url": "https://files.pythonhosted.org/packages/f0/32/751ad3e5331af885192f990c3941c64704d6b9a6a553813c00c98f720ac3/you-get-0.3.13.tar.gz"
+    },
+    "0.3.14": {
+      "sha256": "388fa1b61c01eda41deacb7f1905dae76c70bd5674ef7002c09b3e939a260a07",
+      "url": "https://files.pythonhosted.org/packages/46/41/15af3f340f1023f30f644cd36be1ef7cc6df22aef9cc4b61008668ef86ca/you-get-0.3.14.tar.gz"
+    },
+    "0.3.15": {
+      "sha256": "d691898a5ba5f5f85644fbe3be3b39e7586e05630e4e862e69da85400c74b19f",
+      "url": "https://files.pythonhosted.org/packages/11/b5/c91e7487e71591b151070af051714c49113009170efdf3bdc106ddaa0d8d/you-get-0.3.15.tar.gz"
+    },
+    "0.3.16": {
+      "sha256": "e33f69ade9489730d4502aa1894b9ccea5b4b057719c66f77a2b8e3aa77d3a83",
+      "url": "https://files.pythonhosted.org/packages/d6/9b/8ea97dea82c5373e76bd1a8363f88068b66d865067ae8bf6f6254707e08d/you-get-0.3.16.tar.gz"
+    },
+    "0.3.17": {
+      "sha256": "089ef91fce9a052c35f9455ee617c3881459388b01db07d2ed7f3495b41c1b7a",
+      "url": "https://files.pythonhosted.org/packages/1d/e7/e6c7747eccf8dc619a74c44bf11481e2e18e3ace0abf46782676cbd52020/you-get-0.3.17.tar.gz"
+    },
+    "0.3.18": {
+      "sha256": "5e233340081c2fc29d7a64fd8e1ddcc2f5c21922e644e9ff71e16c100d0c0cea",
+      "url": "https://files.pythonhosted.org/packages/73/e6/28da92d0d9235dc3d024648f889acbd4206a67eaf543dea789215eeb059b/you-get-0.3.18.tar.gz"
+    },
+    "0.3.19": {
+      "sha256": "e0d5f437d6b8d054cc33d15a667777feeb98215e2dbb4fe73e5827d3e6478c32",
+      "url": "https://files.pythonhosted.org/packages/a6/fc/120b3117c471a6a853cb2d50a9905c0db6a529745d9b2f3239c2c84d9ab5/you-get-0.3.19.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "5f3179c1dee6915d2dc293989810eff06ed8c98a9a8ce85e29a18968e22d4513",
+      "url": "https://files.pythonhosted.org/packages/ef/ed/2e5242ad11146bf70f5447eb20b9f702a5b178892aafefa1f50139bcba82/you-get-0.3.2.tar.gz"
+    },
+    "0.3.20": {
+      "sha256": "e0b60280e8534678980b46e04597ddebe91cfeef358e458fea9e97f7defae010",
+      "url": "https://files.pythonhosted.org/packages/d5/7a/b8b98397e8ea3d80b21b6a3cdc0b387a125f59de2c4b5d03f731c28c2fab/you-get-0.3.20.tar.gz"
+    },
+    "0.3.21": {
+      "sha256": "9bea490b8eb31b66f8178b2cfabc445cffe5c0e1abb08d209c13cd0749c6d502",
+      "url": "https://files.pythonhosted.org/packages/ae/b6/8480d1220f005bed3aaf2f2982018298d8797e570c05f735851c6f4cfc8f/you-get-0.3.21.tar.gz"
+    },
+    "0.3.22": {
+      "sha256": "04363f07531b26c05bf0fff2a16926a33386feddb43a4aaf7f77c20942d32f1a",
+      "url": "https://files.pythonhosted.org/packages/26/40/6ed131d66e751b7925a35b07217e26568d63adba2518b1eb3ead2b9a766d/you-get-0.3.22.tar.gz"
+    },
+    "0.3.23": {
+      "sha256": "f16ff353171f60f518de46d85c1c568d549f8e84f03e92b2db52ef4f3a2df284",
+      "url": "https://files.pythonhosted.org/packages/6d/19/1b83d0d60808b18d270804c3869eb797ad79003af0e8ff1bf1bfa5e22391/you-get-0.3.23.tar.gz"
+    },
+    "0.3.24": {
+      "sha256": "b3f60ea8c9befe37c245cb137ec38e760227911dd8a8c30121f6e8419fea17c0",
+      "url": "https://files.pythonhosted.org/packages/aa/fb/87de76ab13dbd270df038840a98e109d925bb9bd7c6746586f5c62756736/you-get-0.3.24.tar.gz"
+    },
+    "0.3.25": {
+      "sha256": "7b25816fd6bf30d0b8f8c01ca5fb0f9d873614c38cead30f333bdf3e310385d1",
+      "url": "https://files.pythonhosted.org/packages/44/a8/7e79f39695c914d72469987b829de05d405dace1fa7a2aca669c4bd11d2d/you-get-0.3.25.tar.gz"
+    },
+    "0.3.26": {
+      "sha256": "dd36c4f01da8d3c307c93ac54d7d3ed0fcca31630e452b9e3f14c81e7ac8de39",
+      "url": "https://files.pythonhosted.org/packages/a5/fc/4d05f2af4e24ca64bb79ab753f0ca0b6f596cce5de5e874a4ce4d60e6f6d/you-get-0.3.26.tar.gz"
+    },
+    "0.3.27": {
+      "sha256": "8899ad247e1c78937e61f9d424c7e7f80538ee89e91af77dcb26bad4e919f92a",
+      "url": "https://files.pythonhosted.org/packages/4c/d9/90a9f9c81cb3dee17266746f3603955481ba834fca48a4dfd4c78310a707/you-get-0.3.27.tar.gz"
+    },
+    "0.3.28": {
+      "sha256": "ae6fd86efe16816b63ce471ed2f9e1076a0a5fb45b8cb00b2b5da3c33339e662",
+      "url": "https://files.pythonhosted.org/packages/d8/b4/d91ded910febde149f52e293017db695145980f8a7f7baedc7140e39c0d0/you-get-0.3.28.tar.gz"
+    },
+    "0.3.28.1": {
+      "sha256": "61685e44d651e5fa9f5fce302cb1bfe52653b429e4fdab91222fe07f2e239f99",
+      "url": "https://files.pythonhosted.org/packages/c8/df/9ea806acc3472c28e90129854c7cc0b921ed7e04a0d00f3a09861a1cfa2b/you-get-0.3.28.1.tar.gz"
+    },
+    "0.3.28.2": {
+      "sha256": "c71fde2e73cab4c27456abc1c52cfb29d868aa77b6c976bc0166ca65b0c6c019",
+      "url": "https://files.pythonhosted.org/packages/db/dd/4ebc0def1d1311cb6a2550c0bcef943ec76e9d77dbf573c4e4cf66515add/you-get-0.3.28.2.tar.gz"
+    },
+    "0.3.28.3": {
+      "sha256": "1898d2425ba504e46084d729b261d9b7b113169b09ca8bdc0efc355ce48693f1",
+      "url": "https://files.pythonhosted.org/packages/77/26/1d5d9ac5335cd055d58c7764d9dda83980c397e0f42e04c0c03583e91f33/you-get-0.3.28.3.tar.gz"
+    },
+    "0.3.29": {
+      "sha256": "5d89cecde4cbd53551fabe457b74e18e4983d7dada8933402d87d060a4af3fc3",
+      "url": "https://files.pythonhosted.org/packages/c2/68/3bca778dabe95953903a2a1b9502136c60ba34dcd47f04004ad2e7c99932/you-get-0.3.29.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "adcd7e30abff94f7072cd8c5f069201effd62c7ccad1ba91455ec16b618c2f93",
+      "url": "https://files.pythonhosted.org/packages/86/43/a34058a1fa07008151dcb104b40bbafc2fac39d286ab2bbca434e5d50127/you-get-0.3.3.tar.gz"
+    },
+    "0.3.30": {
+      "sha256": "1b3b3ec47db0bc47e482926ab078855988f3d8801b08a8d63608f408f660ff52",
+      "url": "https://files.pythonhosted.org/packages/67/ae/85dbfc4d51597b9f812724da771eb73a2bdb8ec2e2ba28789788fe8b85fd/you-get-0.3.30.tar.gz"
+    },
+    "0.3.30dev-20140629": {
+      "sha256": "164bc7568f0229eb81e16421f073c5b8393b43c7da54aeb7e900e91a47df3eba",
+      "url": "https://files.pythonhosted.org/packages/c2/bb/448bd97c60870af98da7e28ce68079b17e68a186131e248a76339300f0f3/you-get-0.3.30dev-20140629.tar.gz"
+    },
+    "0.3.30dev-20140716": {
+      "sha256": "2894cc837c97f37403f3c8de372ec11d4f3907f2735dd87a441ae48c6bac9ac7",
+      "url": "https://files.pythonhosted.org/packages/52/8f/89f9472282ca2a64c0f7154cf2d1505086137b00277f489b57da148036a4/you-get-0.3.30dev-20140716.tar.gz"
+    },
+    "0.3.30dev-20140723": {
+      "sha256": "830be07c6f2ca20b640de29bbfb70de203742155ac973bfab35f35d4947bba5d",
+      "url": "https://files.pythonhosted.org/packages/ee/7b/e081fe8019e2a21ee415a8201dd277940ade30a8507b110fa6e53c3efd7f/you-get-0.3.30dev-20140723.tar.gz"
+    },
+    "0.3.30dev-20140730": {
+      "sha256": "eb6eadeee3cd9425e1143f6943d7c94cf8cbc8a640f0c34211b9d43b52bbc203",
+      "url": "https://files.pythonhosted.org/packages/d9/da/72dd36e18bbc91ff256a7957f70b57328fa4bd9517addf2216c40e3bbd3f/you-get-0.3.30dev-20140730.tar.gz"
+    },
+    "0.3.30dev-20140806": {
+      "sha256": "e69c245b7efe98cffedf935532994b3cfa810cadd28e2fd0abe640c98650f625",
+      "url": "https://files.pythonhosted.org/packages/6f/87/78af573dad51bff5eb1410fa619d443a86d1361b779758917ae2fb5ae0eb/you-get-0.3.30dev-20140806.tar.gz"
+    },
+    "0.3.30dev-20140812": {
+      "sha256": "0cdb7aeb971724594f9114db969583c16d22fb77451591dce263ce0d14bc4567",
+      "url": "https://files.pythonhosted.org/packages/00/be/a1ccfc4c2b2bae98dcd4ae7eb4d8c532354276e8de2759350ad18f30d58c/you-get-0.3.30dev-20140812.tar.gz"
+    },
+    "0.3.30dev-20140820": {
+      "sha256": "715ffc0377721b40011a73516edf35034d789a48c2499b4d03ed39035531db14",
+      "url": "https://files.pythonhosted.org/packages/e5/9d/f305277d6f6d5c183bd4b17f40feaf601adbc80d170e007db7d75aa98a62/you-get-0.3.30dev-20140820.tar.gz"
+    },
+    "0.3.30dev-20140907": {
+      "sha256": "52612db3e5cfbb8dbc8f682d1f39e2c41f9931a51ef9d73296cd6669ee46cbe7",
+      "url": "https://files.pythonhosted.org/packages/1e/3f/fc87766233c808ea4d3d04553efdfe4848b8b55fdbe0b5ef3cb9f5535ded/you-get-0.3.30dev-20140907.tar.gz"
+    },
+    "0.3.31": {
+      "sha256": "2f91ff39db7640f910907c4fd3298440daaf1fa07a419edd7c99a82d2ac8a350",
+      "url": "https://files.pythonhosted.org/packages/0f/78/bfafaa851f1285b6a6acc33a08f51d546dc904b2d682377ffc3f17afcde9/you-get-0.3.31.tar.gz"
+    },
+    "0.3.32": {
+      "sha256": "2bfa32cb3516f42bcaecaed39dd079f8d7e12ceaf20702f4fa7c2cf81431eef1",
+      "url": "https://files.pythonhosted.org/packages/21/34/d6603998f3ae1aaad97c29822fb8a7b7bea347668a5c3fdf6c04918fe1ad/you-get-0.3.32.tar.gz"
+    },
+    "0.3.33": {
+      "sha256": "580632b57d336cece399ff194669ad6cb13e6e1cb068de5005d37d2d7be8e020",
+      "url": "https://files.pythonhosted.org/packages/aa/d9/b9729f4d2c791c237c5fcac42986760d43f30cc304da06bbf9287363581b/you-get-0.3.33.tar.gz"
+    },
+    "0.3.34": {
+      "sha256": "3c2afb2aca74176b85bd250f2e3e887daeb535d94eee1bab1508693299d31b23",
+      "url": "https://files.pythonhosted.org/packages/57/6c/a0b4bb72b62052f4c217c1eda6eac331347ab7b1452b9c7c8a7b6845b826/you-get-0.3.34.tar.gz"
+    },
+    "0.3.35": {
+      "sha256": "ae8613daa6f52a9c22f5352e1536f3a637058a37f904bb2b999877dfdc9ccaf8",
+      "url": "https://files.pythonhosted.org/packages/1f/89/aceaebda73331205e80cfa1dd16529dcca982f9966b21f48554feed7d2a5/you-get-0.3.35.tar.gz"
+    },
+    "0.3.36": {
+      "sha256": "39052ee16b3ca56be7c4ed743b64a85c9d8c8abe74daede56083670f334170dc",
+      "url": "https://files.pythonhosted.org/packages/4a/4a/cc7cce3519e5952406cbf0f38e290974700f8835df17e3e8307987a9905d/you-get-0.3.36.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "eff35a348594385a8d0e8cf6e993a5321d8b414a38e13dac93c1ac35f5522aa6",
+      "url": "https://files.pythonhosted.org/packages/fa/eb/d84bdefb8c21d2957e9f5d1fb2359b340bd667b6425d13a4d6ad64579ef9/you-get-0.3.4.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "bcb1a9bfc198d5f93247413b5a93f36ff1bb5c41b72656aa28915322abd20caa",
+      "url": "https://files.pythonhosted.org/packages/81/e7/e8c334dbc03205f0bba6e0eb51447cb28eb9e68dc61282931cb319b19224/you-get-0.3.5.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "044e9cadb75ad1c1e47c6fcfba30437d517b4d131f7459e6680f57e67f581188",
+      "url": "https://files.pythonhosted.org/packages/f1/4d/a5da495665ed1fa7f877f7b3a6ed0786e7f1cba194e0dafd42f5bcd2647b/you-get-0.3.6.tar.gz"
+    },
+    "0.3.7": {
+      "sha256": "f9e75c15e3657f1bbd86162343dfff16175b8f528a658b660dce69560f07f8dd",
+      "url": "https://files.pythonhosted.org/packages/eb/26/3a87b3df5b009d2c42ef2cf338b4ef77562de571fd9112164b7a57e0145d/you-get-0.3.7.tar.gz"
+    },
+    "0.3.8": {
+      "sha256": "f9cf6d80da77b387bbfd8216f806511a88554d8de88115838ce7f3f047dcda87",
+      "url": "https://files.pythonhosted.org/packages/99/61/93525b290d63528e50304f0076ce19ca7ba965bd6a24701cbd6385bbcfb7/you-get-0.3.8.tar.gz"
+    },
+    "0.3.9": {
+      "sha256": "c737c63547fe86b790933623a90bf604480a1235244fb960ceeecf9e0d332ac9",
+      "url": "https://files.pythonhosted.org/packages/bb/b6/2da06d43cc186345a3d2b1b95bb9d40b026130318019bd627c03e30933c9/you-get-0.3.9.tar.gz"
+    },
+    "0.3dev-20121210": {
+      "sha256": "60c2a7cb0b712d2fe787a29897bb63c3eae291bab2444b84b5f549fd39d45d8b",
+      "url": "https://files.pythonhosted.org/packages/43/ef/b09e94d06f95d95eb6f3a443c57ac6c20056857ae26e24178ba61a65cab2/you-get-0.3dev-20121210.tar.gz"
+    },
+    "0.3dev-20121212": {
+      "sha256": "5bdf8a8a77760bc0298aeea411869f811e638c4436b52987ab00b17b9c897c1e",
+      "url": "https://files.pythonhosted.org/packages/44/38/b636f94bfce876383c68d2396b233fd0a2e3ee81b097167d1ef9c1a2377b/you-get-0.3dev-20121212.tar.gz"
+    },
+    "0.3dev-20121217": {
+      "sha256": "9b303e139919432ffaaabcdf15aa19ad9d64e772b7d3a00f11fd6d4849280f83",
+      "url": "https://files.pythonhosted.org/packages/fb/ee/7f9c878e3a38fb6a4d84bd5b63e4fa22a7316513b8a7df6ad1c91428657b/you-get-0.3dev-20121217.tar.gz"
+    },
+    "0.3dev-20121219": {
+      "sha256": "cf5ce1caafe85f2697befdc04e43451d079edaccba84a8fdf5d47f1c1e0fa03e",
+      "url": "https://files.pythonhosted.org/packages/2e/30/7951a833ff3fc66d0dfc2acfeb1d60574f025e24410359b88589761757f6/you-get-0.3dev-20121219.tar.gz"
+    },
+    "0.3dev-20121220": {
+      "sha256": "42b43cf809a6b7e745c8a895fe759628a51c0503338772243b535e22b0f72c5f",
+      "url": "https://files.pythonhosted.org/packages/69/d3/19d1c38544cf69940db50fef5d586d098386b5fff54a26f5fd5bb0165578/you-get-0.3dev-20121220.tar.gz"
+    },
+    "0.3dev-20121221": {
+      "sha256": "17556ae8e2cc3bcc1f6df47b5cff80ff179a6175448a672a9b63149bb6275181",
+      "url": "https://files.pythonhosted.org/packages/a3/6e/93fb55ce38e8bdc8afa9d71bb0d4d2dfbec761c9b26a313362df407f8905/you-get-0.3dev-20121221.tar.gz"
+    },
+    "0.3dev-20121228": {
+      "sha256": "6b55c6c1f97ce8400334313018e8bbb015475bfd8896943546252c3dfee64c5c",
+      "url": "https://files.pythonhosted.org/packages/ef/69/7e06cb624ee6e790bedab1f1ab24986c0540b74b2037b8de4915ad92c393/you-get-0.3dev-20121228.tar.gz"
+    },
+    "0.3dev-20130104": {
+      "sha256": "4a1553d5147176db67d943031574ca32af132206d7b19892762232b68f105bd8",
+      "url": "https://files.pythonhosted.org/packages/0a/e6/1f99fa6c0959d4d4d5ed08bbffbcf8010701ed2e72ec2826dbe8637f88d4/you-get-0.3dev-20130104.tar.gz"
+    },
+    "0.3dev-20130111": {
+      "sha256": "a505906a4bf175ec9308c7173fdac05473260a2cf1b22eeba87291433d149ca2",
+      "url": "https://files.pythonhosted.org/packages/92/18/92db34a0a7c5ab7ac0e445887e0979799074eebee73754a4e0dabeeb5591/you-get-0.3dev-20130111.tar.gz"
+    },
+    "0.3dev-20130118": {
+      "sha256": "d415ef5aa4d8a14291436fabe6cb7542ce80b07dd3a5e176b278ba3ace08ecc1",
+      "url": "https://files.pythonhosted.org/packages/fd/fb/bb5d0fd2b521a9aef4fb60e1501718a74b96706a78678561ccd4504fb9ce/you-get-0.3dev-20130118.tar.gz"
+    },
+    "0.3dev-20130125": {
+      "sha256": "e85a87e0006a6c08e67f4590fae3c0f86e9ac46517685e28f44ee94909bdd9cf",
+      "url": "https://files.pythonhosted.org/packages/a9/53/adc29845626982d609fe12aa9fe73dc795de51352902a98a55e6fcaa391c/you-get-0.3dev-20130125.tar.gz"
+    },
+    "0.3dev-20130201": {
+      "sha256": "72d13bc27685230f9e1018a0db6664f076f554d77762896724e77cf755b32b3b",
+      "url": "https://files.pythonhosted.org/packages/27/f3/d02052d1efc787d12698e579e711d41a84e99f6e97031e2981a4d054bbc3/you-get-0.3dev-20130201.tar.gz"
+    },
+    "0.4.111": {
+      "sha256": "e405984ee18900c0059b5fc7758f74665e883c133e943fb6f40d895e3d406a47",
+      "url": "https://files.pythonhosted.org/packages/63/dd/67b1e97740e9a601feeef77d9fb61d9106a753e055edec64696e6f24a413/you-get-0.4.111.tar.gz"
+    },
+    "0.4.125": {
+      "sha256": "f32277960f79837f8864dafe4b9c5c93c530111fe01974b656d4cfa97c62f56d",
+      "url": "https://files.pythonhosted.org/packages/47/79/75592ceb90cb5a1ff0ad181f323062d62a0b562d060023106d19cffb41a3/you-get-0.4.125.tar.gz"
+    },
+    "0.4.136": {
+      "sha256": "8b18d7576ee9cd0cf91e41538bfc5419f761cf42865057a6eabdbbf3c4006b7a",
+      "url": "https://files.pythonhosted.org/packages/06/58/105b97e42069300c18e467fa2c4c6a526e34b1423166338be99a16b125e1/you-get-0.4.136.tar.gz"
+    },
+    "0.4.156": {
+      "sha256": "1e3a103782446f1ae16a65fe8718400b3dbe507b9250a3f5039ca0719941aab6",
+      "url": "https://files.pythonhosted.org/packages/86/62/666fa030376d46071c27cb49fa68a3ce9bc89af1ea64d01cbee49807e068/you-get-0.4.156.tar.gz"
+    },
+    "0.4.167": {
+      "sha256": "0ae80a9a3cb444e9e45c42534b4591af98acf5415ece35aad1c2855c2aa244b5",
+      "url": "https://files.pythonhosted.org/packages/90/93/030cbc8d67d5a6f149d4b512d233a95c56972a129c3cab398a3c2b7c3a00/you-get-0.4.167.tar.gz"
+    },
+    "0.4.176": {
+      "sha256": "230da52419c831bd721d8d951cbdce29045c1e3ab455fb45161d0e69ceb0e213",
+      "url": "https://files.pythonhosted.org/packages/6d/66/c60d3c8689a0752868ca3a1e5d1aeb5b65feea84a09d525bac62acd5bf58/you-get-0.4.176.tar.gz"
+    },
+    "0.4.192": {
+      "sha256": "c09f639678baa70985fe3ce6884b23739fea34440419186cfeb64e500403034c",
+      "url": "https://files.pythonhosted.org/packages/83/e0/cd8db1297afec567e460d1a6176cc0e12717f12fe0218d110423a051c567/you-get-0.4.192.tar.gz"
+    },
+    "0.4.210": {
+      "sha256": "9ae9fa20b1a57e0e1f9a4235c1967aafced28e0755ebad8a9566789e70dc195f",
+      "url": "https://files.pythonhosted.org/packages/72/10/7b7a0222b11bd56c726b8a553a063be8d331b4a5e6936434cb5c3dbc9344/you-get-0.4.210.tar.gz"
+    },
+    "0.4.217": {
+      "sha256": "37443c5f42f4b1ce8f5843bc0d7b3b857280a53a6cc63486d425a2b61dde0118",
+      "url": "https://files.pythonhosted.org/packages/91/f2/82b9ff5e2a5931c4b5fc06c72f4c4ab81dfe8938cdb9294e3d9178f698e6/you-get-0.4.217.tar.gz"
+    },
+    "0.4.232": {
+      "sha256": "950e823669062ff651d2c7be3c28202bfd5b91a68084d9a9611dadcf133f84e4",
+      "url": "https://files.pythonhosted.org/packages/38/a4/08e1b21e7231ae40a6329669d5f111cabfa13eb8ea2949d35bbe83bfe61f/you-get-0.4.232.tar.gz"
+    },
+    "0.4.236": {
+      "sha256": "a367275a269e8f0936ad36773dd02f4e72f7de4f4d410c1d9260b4c1bc56b992",
+      "url": "https://files.pythonhosted.org/packages/8d/5c/d53a58d72d09284ec1dac2039d8205e04801a16861a8f7c41f9cfd76334e/you-get-0.4.236.tar.gz"
+    },
+    "0.4.245": {
+      "sha256": "f34cab4a946934c87e6ad04d352ce0d93b7784e3c52fd133146b4d9c36c4321f",
+      "url": "https://files.pythonhosted.org/packages/21/f1/afd1e3a8525138d77591e5fc0e47d2a369f4954e51a564ce437ceb11c7ac/you-get-0.4.245.tar.gz"
+    },
+    "0.4.266": {
+      "sha256": "15087c68e7013cc6a06f39251bc49de8ded0ca4562292b5ef96943735b3622a2",
+      "url": "https://files.pythonhosted.org/packages/90/b1/5df4d726671eccd0ebd4f783fb0dd7dde67c7f03e7e6354889cbc218269a/you-get-0.4.266.tar.gz"
+    },
+    "0.4.272": {
+      "sha256": "5d8d2b6418729897a4f4c50d5106d4956be91d1bd6a6aeaed8f7a389d2d72441",
+      "url": "https://files.pythonhosted.org/packages/d5/3c/7e562f5e23d040ef202a24863b3c1239033bd50635d9d046253aa9e050fb/you-get-0.4.272.tar.gz"
+    },
+    "0.4.293": {
+      "sha256": "a38c3682488845c2aa168a9ab5978bee9f3ad681d40df137fde0a9108c4b2ea1",
+      "url": "https://files.pythonhosted.org/packages/fb/23/b12ae51c86f32840ff42fd36c9269c19345d0c9dbaaf3be80a028e1fc3a9/you-get-0.4.293.tar.gz"
+    },
+    "0.4.306": {
+      "sha256": "26ee450b05052666e22b48cb96bdea3e748d47100f8a159506dbe44e1ba329d5",
+      "url": "https://files.pythonhosted.org/packages/51/e8/e65e1e480d1c9e1dc9bf156db3825b547837ba2a2a637a2d042253e5e2fe/you-get-0.4.306.tar.gz"
+    },
+    "0.4.324": {
+      "sha256": "e10ee756f4989b29eda21bd95647d2db499a7206b43815f6c1b376fbdb9aca94",
+      "url": "https://files.pythonhosted.org/packages/eb/d6/04fac03ea265e3f999031d570f83d8106967497b1a5414795d3eedbb6c9d/you-get-0.4.324.tar.gz"
+    },
+    "0.4.330": {
+      "sha256": "89f4ead5e674a1ec4600ef2eb66c8f11cb74dadf90e956744f04b51935540367",
+      "url": "https://files.pythonhosted.org/packages/cb/8c/a7c201adaa2c2ae86d504becdcfe6383fe94267f67cd9c09c2d3b3a0347e/you-get-0.4.330.tar.gz"
+    },
+    "0.4.350": {
+      "sha256": "cc02bc88d6a42fd0f15284855cfc7e920985488041b4c94394abda141bcd0c92",
+      "url": "https://files.pythonhosted.org/packages/63/f1/9464027f053c5f0795bd4cad114ba9e356b9fb21a9da21c9a48fff92cf79/you-get-0.4.350.tar.gz"
+    },
+    "0.4.365": {
+      "sha256": "fb3844c8c8c4633d381cca9e4e5ed3e198f3a11d3d3a622874bd1a7d4b89333e",
+      "url": "https://files.pythonhosted.org/packages/f7/a2/ad3f1f98ae48eaad6a76bd445df86b5733c2673d513ac53992f2dc29c56f/you-get-0.4.365.tar.gz"
+    },
+    "0.4.390": {
+      "sha256": "fc29a8de38c809d6e39061b0898bc180acbd564de3b3704fae73bfedd3031a9e",
+      "url": "https://files.pythonhosted.org/packages/3e/3b/f17ed97110e7e03751bde2abe62ef041a6afd94611608b511000b129c4af/you-get-0.4.390.tar.gz"
+    },
+    "0.4.424": {
+      "sha256": "2d31c0c78fdc6ffdfb50ee21f7d08abbef1a50ca69e23f857f694e97c365cbc3",
+      "url": "https://files.pythonhosted.org/packages/8c/1d/f0e9ee76da4b216f67eaa4b031c53b95e79b57a2a058b445d74e1465d87d/you-get-0.4.424.tar.gz"
+    },
+    "0.4.455": {
+      "sha256": "a76335ba3416e6ed688c4a318a3c5b877429a0c26aa78c6365d1d102c63df94b",
+      "url": "https://files.pythonhosted.org/packages/68/3d/a86bd625bac8cab4dbdf1d5c77643ec94f0f08f0da66f8cafe619e0cdc79/you-get-0.4.455.tar.gz"
+    }
+  }
+}

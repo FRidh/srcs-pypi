@@ -1,0 +1,35 @@
+{
+  "latest_version": [
+    "2016.5.1"
+  ],
+  "meta": {
+    "description": "pure Horizon - without Openstack Dashboard and dependencies",
+    "homepage": "http://www.openstack.org/"
+  },
+  "versions": {
+    "2014.3.0": {
+      "sha256": "0312f338613067218ae1e271aecc79a946264288eee4c0ce9aa8d49c9c8a641d",
+      "url": "https://files.pythonhosted.org/packages/cd/01/6f84a79f3d776d33fc45d9945a71123d324966db03e75f5c4fd4d624806e/leonardo_horizon-2014.3.0.tar.gz"
+    },
+    "2015.1.1.dev5": {
+      "sha256": "6467681f953b42e8d6b6d652451fa733264e651381e429a09c80cc92e697ebfe",
+      "url": "https://files.pythonhosted.org/packages/fc/05/f172578c04b8840ddc244ed0a424e53f178e2b640770e19ce4d4714ffbba/leonardo-horizon-2015.1.1.dev5.tar.gz"
+    },
+    "2015.10.0": {
+      "sha256": "4b34fad02bd6a626195429c427035f3194d711bb8635ee7b269b5168109908e1",
+      "url": "https://files.pythonhosted.org/packages/c8/5a/b5613f0beca3e8776a075495771d88bb7b6c2b264de629d18db12cba8f76/leonardo-horizon-2015.10.0.tar.gz"
+    },
+    "2015.3.0": {
+      "sha256": "1684afeae783b3ed7a6d61271ad7313e668d9a44d5f4046fbbf5a0a8b82b1da4",
+      "url": "https://files.pythonhosted.org/packages/b4/af/b47e7616d8aabe317cc190d597b5b59f7461886bb71db8fff732d32252ef/leonardo-horizon-2015.3.0.tar.gz"
+    },
+    "2016.5.0": {
+      "sha256": "9d957dc5cfb28e16ee67297f934aa78bed8da34e3b0b42177a01471b9e8d6a25",
+      "url": "https://files.pythonhosted.org/packages/f7/de/92fd79dd6ae8fc27f5e086c43811389c4409f8440b424a0f4ae7e0f61909/leonardo-horizon-2016.5.0.tar.gz"
+    },
+    "2016.5.1": {
+      "sha256": "8edb85b46f63a1c69b7e3ad16c2d5c4abf21197702d840fdff17e3719d2964cc",
+      "url": "https://files.pythonhosted.org/packages/23/2d/f85c1d59d8b3db44b6929a99d88117e146802e029cd318c650c0cce0dbdd/leonardo-horizon-2016.5.1.tar.gz"
+    }
+  }
+}

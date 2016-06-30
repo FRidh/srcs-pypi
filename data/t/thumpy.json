@@ -1,0 +1,31 @@
+{
+  "latest_version": [
+    "0.0.7"
+  ],
+  "meta": {
+    "description": "A Python web server that uses PIL to dynamically scale, crop, transform and serve images from S3 or the local filesystem",
+    "homepage": "http://bits.btubbs.com/thumpy"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "796c0f1295053328ee21d5c36b748120dd3a5c11cd7f00c506cbad91381fa1ae",
+      "url": "https://files.pythonhosted.org/packages/5e/d4/032b7384754df4e7f4672724e268ae70eaf7ffd9460345f68b21853b5e3e/thumpy-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "23bfffc4e9dbf4a990965821f4338ff28d40e4ae2e37ff6c81cab728824d69b0",
+      "url": "https://files.pythonhosted.org/packages/e1/34/f2965ded7419077577dc8b8c4d993ea864ad97b91d404593dae4c09c8981/thumpy-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "9022f1534d101786fab57a4e762fc0650dfe6066150be855a7a51d31929009c6",
+      "url": "https://files.pythonhosted.org/packages/5d/a6/051ee89201da0d6e139f66575189aa84fb3ee676b22ac0a4873816c33b58/thumpy-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "22bd84ec019c5bcc7b71aa54256a02548ab864b7ae6977e5f3f636467f217c74",
+      "url": "https://files.pythonhosted.org/packages/77/78/7804ae4ddba6d7e6b2dcdd6274bd0b5496b8e73e52f3783f71792c53382e/thumpy-0.0.4.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "e2db73d937f7fec438a4a41a5a801b95f6c8fea2a57fb9125d3559373d0bb733",
+      "url": "https://files.pythonhosted.org/packages/be/b2/1a5601bb7bbb92106089a51d41969bc1929f9cda403953dc1f031ca3139d/thumpy-0.0.7.tar.gz"
+    }
+  }
+}

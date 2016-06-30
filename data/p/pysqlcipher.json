@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "2.6.4"
+  ],
+  "meta": {
+    "description": "DB-API 2.0 interface for SQLCIPHER 3.x",
+    "homepage": "http://github.com/leapcode/pysqlcipher/",
+    "license": "zlib/libpng"
+  },
+  "versions": {
+    "2.6.3": {
+      "sha256": "409b2730ddda40feb500c67850bd61b53794584ea9b636c42800aad0c32c92bd",
+      "url": "https://files.pythonhosted.org/packages/58/5c/de62fc9a5f61db6d23907caa280b23323c66009b73f439d1cc5b9fcc3983/pysqlcipher-2.6.3.tar.gz"
+    },
+    "2.6.3-1": {
+      "sha256": "9e81f6993c2803b7937b6ab2a6c2203bef8de7e4edfe16c2066687475255e399",
+      "url": "https://files.pythonhosted.org/packages/c3/00/738e326e3751c4e3fc59151223fa17e3635532bb6846d8ea6e06bb792e62/pysqlcipher-2.6.3-1.tar.gz"
+    },
+    "2.6.3.dev1": {
+      "sha256": "aae15a6fdf376eb3705edd8d3fed0ca4d23c8f364a66fc653624942202344a7b",
+      "url": "https://files.pythonhosted.org/packages/72/dc/cfda09d27f4ca6b2224876a651c53f2f0468fd74db62337e316caa998d6a/pysqlcipher-2.6.3.dev1.tar.gz"
+    },
+    "2.6.4": {
+      "sha256": "9acd5e583540da6f9bc3d4f9cbbd37610db05d070adcb413c7c99a9725055a46",
+      "url": "https://files.pythonhosted.org/packages/08/41/a7c72e4bcf35743bf5c79de7845d3146180379897800d90b5ff5e42eb649/pysqlcipher-2.6.4.tar.gz"
+    }
+  }
+}

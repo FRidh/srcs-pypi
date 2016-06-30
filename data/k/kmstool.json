@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.7.0"
+  ],
+  "meta": {
+    "description": "A tool for storing and retrieving encrypted data using the AWS Key Management Service",
+    "homepage": "http://github.com/slank/kmstool",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.6": {
+      "sha256": "2296164bb1e7ba2ce7f0f4c04ce54f0926f3a1ea05dd67b42b47dc37f26f00c4",
+      "url": "https://files.pythonhosted.org/packages/4c/85/2cb2cf872262132fddc8437182ab50a2a264cd1b99170d64ed2848cd2927/kmstool-0.6.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "a0bbfe7f13c110e5b8863e51815a6e8b55225f5cef8f3b5696262860f68d3cde",
+      "url": "https://files.pythonhosted.org/packages/7b/a1/e145aa08389230f73f846b5f60e9e4f77567407c2b8b7b9250b607ece3cf/kmstool-0.6.1.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "8cb11956bcb60a9639a27987a087bc44aa9f3181d0ebb9b94346f28a813c5282",
+      "url": "https://files.pythonhosted.org/packages/80/f1/b6cf4116bdb3234925f809082e40c3b8e00ee7826254be2ed25b9f8c0358/kmstool-0.7.0.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "latest_version": [
+    "3.8.3"
+  ],
+  "meta": {
+    "description": "Fast scalable distributed SCM (revision control, version control) system",
+    "homepage": "https://mercurial-scm.org/",
+    "license": "GNU GPLv2 or any later version"
+  },
+  "versions": {
+    "2.6.2": {
+      "sha256": "55b4a0e20e21ebd7a4341c828d2ec4ba72ba77d61b424e937a7f77c385220e3d",
+      "url": "https://files.pythonhosted.org/packages/dc/27/6f28deb88553717b3da3ac4913411bfe6b1e83d2da845ef9eda73c2d1854/mercurial-2.6.2.tar.gz"
+    },
+    "2.6.3": {
+      "sha256": "12308a4210f1ee1185d03f18757742fa8a2759076c2e713f35432f89bf56911c",
+      "url": "https://files.pythonhosted.org/packages/aa/50/a2b292e84c361e7012bef73bbba0f6c6b93f44b0cd03ae8a1d74bae5706c/mercurial-2.6.3.tar.gz"
+    },
+    "2.7.0": {
+      "sha256": "f56267e254efa755202c8ed447bb6b92a1bc275d8a7c6ca3d70b471b0677bcfa",
+      "url": "https://files.pythonhosted.org/packages/f9/bf/3ae168fecbe4ce7eedc7c6b2d885e350729d33e4c185801f234859d64449/mercurial-2.7.tar.gz"
+    },
+    "2.7.1": {
+      "sha256": "8472bf1302db15bdf2c4393a5e9180cdbf29b3f8ed5b06c06bf5c6ba8f433588",
+      "url": "https://files.pythonhosted.org/packages/41/b2/89e430808477b63814d059c0d5e5da4f77fca80fc185c02ff16bae7174f8/mercurial-2.7.1.tar.gz"
+    },
+    "2.7.2": {
+      "sha256": "b3f067eaa9fdf6818cc78526d4815ab4332252ffa07a2488c8b6939ac6b37c0b",
+      "url": "https://files.pythonhosted.org/packages/07/a2/9ecd35f6616c3a2098967882a06f41325ec5fe1d86582850065704edf140/mercurial-2.7.2.tar.gz"
+    },
+    "2.8": {
+      "sha256": "ff741754f6160e24278ba74afbde2afd4d5cb5ab532b69734629cce68bbe16ef",
+      "url": "https://files.pythonhosted.org/packages/0c/35/04a0c6dc6b26246917ff6a45bde67826fe0e737927769256e6e43d89e8b1/mercurial-2.8.tar.gz"
+    },
+    "2.8.1": {
+      "sha256": "d239a204cc76b6456b4121eaf35e584f33c510855865da0376dd1f708dd33366",
+      "url": "https://files.pythonhosted.org/packages/11/1b/c94100adc61d04ccc955855f72679aca697a1a0d965ebe921357d2a17f0b/mercurial-2.8.1.tar.gz"
+    },
+    "2.8.2": {
+      "sha256": "c8a5baa21140c6cd6749c3b52b5e5e4a14b6b8ee7c518d9d9de09b1952efbe6f",
+      "url": "https://files.pythonhosted.org/packages/68/6e/281ebbf68e6928194b743f51d87e7063bab3becf807baf4aab2e7bf0a751/mercurial-2.8.2.tar.gz"
+    },
+    "2.9": {
+      "sha256": "7078037ec51971c566dcf41c39d3052ecbc7ad1273605c166690ccd8bf80a622",
+      "url": "https://files.pythonhosted.org/packages/c1/57/f9103d0a2114eef0369af49a72ca2819a8ab9fcb8e5a8b4dc3d9ac5a383a/mercurial-2.9.tar.gz"
+    },
+    "2.9.1": {
+      "sha256": "a20fb1434ecbdb070ef955c7c292db9eb2676bfc1ac165e95ba73866623bc01a",
+      "url": "https://files.pythonhosted.org/packages/84/62/875e1999505eb27e9e0182e402a23988fcb88c10bdf39495528ec1ee82fe/mercurial-2.9.1.tar.gz"
+    },
+    "3.0": {
+      "sha256": "640c96556a4524df2169c6706a4f68997c5bf5862b5971b3c2ee13ed4c349cfb",
+      "url": "https://files.pythonhosted.org/packages/11/21/979cf056397cbf08b7386fc70fd99efcb9d5213051d1419af5e13a182a3a/mercurial-3.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "36e48b59a84ef5a222d06596971e955ac8217e56b076dfb94c8ce5a0c29fd705",
+      "url": "https://files.pythonhosted.org/packages/68/fd/afee13aa20138a2a92db1bcc2d1354ef0cb22ea87dac132d75cb899e7f7f/mercurial-3.0.1.tar.gz"
+    },
+    "3.1": {
+      "sha256": "f1ddc279ac2f69f012f38a7a4f1e75dc8f2a8cf97b6029b0bef418a4666fd0e4",
+      "url": "https://files.pythonhosted.org/packages/75/2b/6a995d4571facb057207e4d9efe22657449376c196cf6eb3708182af262b/mercurial-3.1.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "c7e8289840462d6787fab3ad83f317592cf345bf13b86ae30b4461d6f75398d9",
+      "url": "https://files.pythonhosted.org/packages/0f/19/66745566bec4c6d977eb4a85644777d87d7f23cabda6de0770c1e258f813/mercurial-3.1.1.tar.gz"
+    },
+    "3.1.2": {
+      "sha256": "5dbe5ceb3707e378528dc9346af280919760aa1a8bcc27be12c1fe2bafa78d3a",
+      "url": "https://files.pythonhosted.org/packages/37/3e/8216122e15aca366aca9135c9a3a549ddf0c4f8191eb0ca70b61c59a7538/mercurial-3.1.2.tar.gz"
+    },
+    "3.2": {
+      "sha256": "d3a8cd7b46a6d1f934e461d99a9347475b16fbd73886c5a742b853570a66ce7f",
+      "url": "https://files.pythonhosted.org/packages/ff/61/413bcb6be86602b99a9cf646e967ab6babfaf7c5de02be3abe42a850420b/mercurial-3.2.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "26418276fbc36850782f1f4feb30da4a83800b48493082985c4d3ac29ad0ca0f",
+      "url": "https://files.pythonhosted.org/packages/b9/ed/a810fbfb2741bbd81fd5d1ddd0c6d046b04c8b484a5776ba39b5ed310b05/mercurial-3.2.1.tar.gz"
+    },
+    "3.2.2": {
+      "sha256": "afdef765e260d96f7a168d913ced15e0b0673fd7f7508dae3a81b5c7845a218c",
+      "url": "https://files.pythonhosted.org/packages/a6/1d/237717d10c70649129657142de1817da14b819bb152c5cb24d835bac5089/mercurial-3.2.2.tar.gz"
+    },
+    "3.2.3": {
+      "sha256": "c4369320e276d78aada1b5936e96c7bbbbb8154cfba725ef4e8757dcedeaf1ef",
+      "url": "https://files.pythonhosted.org/packages/a6/38/e325f0a15886dc436fa6c0272bce9a873b255bff0451eb9da8830f1b42f8/mercurial-3.2.3.tar.gz"
+    },
+    "3.2.4": {
+      "sha256": "08d4169d02fd24819a7b3203ba85ccf5037dc646e082eb1b21b3c87ed576f6bc",
+      "url": "https://files.pythonhosted.org/packages/26/d4/bdfb0a2a279ef1c74b5f7c63e75e1ede50fddb5821769cfccfafe5ae77f3/mercurial-3.2.4.tar.gz"
+    },
+    "3.3": {
+      "sha256": "306a084b166ab3d01a0d8a2e1b80208fd7c7f71dc46d485d47a9c5c021e9dc77",
+      "url": "https://files.pythonhosted.org/packages/47/6b/8581e42128c796e701b2e695a02359138251e0775c4ff70d8a88adc5a47c/mercurial-3.3.tar.gz"
+    },
+    "3.3-rc": {
+      "sha256": "4c5f3ea069f1c9890866e959870cf7c2d101c0eefc2211998f03aade960136d6",
+      "url": "https://files.pythonhosted.org/packages/86/0d/6d8ece1035efcaaaef2024ebf545f0a8efcec4b9896323a94572945161b9/mercurial-3.3-rc.tar.gz"
+    },
+    "3.3.1": {
+      "sha256": "6f207bc98a8fab4dab6a75b87bc7806cbbb56e7b27f46d832979453986ab45c9",
+      "url": "https://files.pythonhosted.org/packages/d5/cc/77bd45e355df3ae407ddc6bf785a6582700d572bcebb26c249b5e12b9442/mercurial-3.3.1.tar.gz"
+    },
+    "3.3.2": {
+      "sha256": "67c617c740ac706f923371a26f02339b27cd6c36e5d3fb2ccad0dc02361527fa",
+      "url": "https://files.pythonhosted.org/packages/41/ab/bdbe2a6315549f560815b74c654acf3416a97777691bbdaf5f43a976f96d/mercurial-3.3.2.tar.gz"
+    },
+    "3.3.3": {
+      "sha256": "a445367f0dcbaf3a6279bfa743b364e729be0d1f0c852cb6d37f297916ffae13",
+      "url": "https://files.pythonhosted.org/packages/08/61/2a119531da17f208fdf976e4afb12bd4a5443fe7ca179b59e0e7b8bb12af/mercurial-3.3.3.tar.gz"
+    },
+    "3.4": {
+      "sha256": "ff1da0545cdd46ebcf473176d55937a22bb55fff51cdff9d4c2f900fc80baf10",
+      "url": "https://files.pythonhosted.org/packages/3e/4a/b44385c0d01942e3f92e730384ce3cbec7e9a54797fb2abafe662dd60d00/mercurial-3.4.tar.gz"
+    },
+    "3.4-rc": {
+      "sha256": "8cc8668cdb92afdcc6750ab91cab23164df512dc6feb0dd15c5f14a22ee2994d",
+      "url": "https://files.pythonhosted.org/packages/04/e5/f17892a3e56ef67bb35a56a7af9ddf51313fc41b4404ca89b16d52978040/mercurial-3.4-rc.tar.gz"
+    },
+    "3.4.1": {
+      "sha256": "7a8acf7329beda38ceea29c689212574d9a6bfffe24cf565015ea0066f7cee3f",
+      "url": "https://files.pythonhosted.org/packages/d1/c9/2504fa0afee2b8685631a86a98d009a87e6e6cdb5cd48b1ff8df1c4b7420/mercurial-3.4.1.tar.gz"
+    },
+    "3.4.2": {
+      "sha256": "dcc90e4a8476149ecc8af13c08202860b4c9c987a94c4f3c18b28294b6fd8ecd",
+      "url": "https://files.pythonhosted.org/packages/79/45/09f5bd1ded5d21ce12c0af220c0dff06ded29d2c1846177f97be1292f103/mercurial-3.4.2.tar.gz"
+    },
+    "3.5": {
+      "sha256": "b50f6978e7d39fe0cb298fa3fa3e9ce41d2356721d155e5288f9c57e5f13e9a7",
+      "url": "https://files.pythonhosted.org/packages/34/37/b43be8ec78e941a3d62c2576192235ca0ececfa3634af09bea4a12732fc3/mercurial-3.5.tar.gz"
+    },
+    "3.5-rc": {
+      "sha256": "6ba660955f898a3c7370f1330575ea5331a5e394b97afec2d317dfbc4bfc9444",
+      "url": "https://files.pythonhosted.org/packages/94/21/dc3bffae7385e7a2faab925ff60ee3330812ace524494a025a14dbc2370c/mercurial-3.5-rc.tar.gz"
+    },
+    "3.5.1": {
+      "sha256": "997da45da303e399678c5bccd7be39b0fabf29c7e02fd3c8751c2ff88c8a259d",
+      "url": "https://files.pythonhosted.org/packages/b1/1f/82eed3d340cf827ab1e99f935fcf8f950bcea272348582e3b03660870630/mercurial-3.5.1.tar.gz"
+    },
+    "3.5.2": {
+      "sha256": "23fdc038503911b21dc9e556118803f7b1d4150eb14933d2ea3d0ff0dc60ab5d",
+      "url": "https://files.pythonhosted.org/packages/77/6a/e00b2e98eae73d5c2d811204f635e1855c8af9eb6fd67a1fa783c5d2b63f/mercurial-3.5.2.tar.gz"
+    },
+    "3.6": {
+      "sha256": "85b5574f3694373e981926374a758dab2128d6f3c593a72a7c9d2cb371054f39",
+      "url": "https://files.pythonhosted.org/packages/85/e9/8463f82ba511669eb4a5f17d01f0d98acf2248d136d79b276e532877d7c4/mercurial-3.6.tar.gz"
+    },
+    "3.6-rc": {
+      "sha256": "eb6e5069ccd2f12457eaf357b016520913f2613749fcfe6bd07bba11435ac5e6",
+      "url": "https://files.pythonhosted.org/packages/40/45/630bc82c3c3160a3a97c6da42cc2c5d9fcd5bc4dcaed6282a984cbe28c0f/mercurial-3.6-rc.tar.gz"
+    },
+    "3.6.1": {
+      "sha256": "d4647943165affd11baf0705556920481d5346b97604babab6ad76f1744474c6",
+      "url": "https://files.pythonhosted.org/packages/0c/79/61b7f3b22597c3e19cc4c253e73285353cb82081c5af08143e2f9b07d245/mercurial-3.6.1.tar.gz"
+    },
+    "3.6.2": {
+      "sha256": "09c567049c3e30f791db0cf5937346c7ff3568deadf4eb1d4e2f7c80001cb3d6",
+      "url": "https://files.pythonhosted.org/packages/3a/15/34de954b01a2c72ef00e198569e2b09d93c1585fdfe85d857510c7f498a0/mercurial-3.6.2.tar.gz"
+    },
+    "3.6.3": {
+      "sha256": "402731f27256beb9a575a6991ca3d7059976197c905337f4f5729fd940329fa8",
+      "url": "https://files.pythonhosted.org/packages/15/aa/1aba839276b3096a199ea26f778bf33656a0b1e5a944ce005368adf89ed6/mercurial-3.6.3.tar.gz"
+    },
+    "3.7": {
+      "sha256": "888e1522f92bf97053baae7333346586b5fc34c81de14af21c0fbb009c30b933",
+      "url": "https://files.pythonhosted.org/packages/86/f6/9fa1bdf2c3261827827fb7c098989ff18b542795e204ba4787b76c4d7ff5/mercurial-3.7.tar.gz"
+    },
+    "3.7-rc": {
+      "sha256": "e816b63847b0cf8d6cf5f87af0d563e9921e3773956cc0e4555c44343d370653",
+      "url": "https://files.pythonhosted.org/packages/82/c1/102943ec8eefabe79288687ed9e7682604777b8edd5b74d914b37027e474/mercurial-3.7-rc.tar.gz"
+    },
+    "3.7.1": {
+      "sha256": "96d37d1f444a032295e190318b3166e9d05abb55916d2b3adb618a8f16c5cfed",
+      "url": "https://files.pythonhosted.org/packages/5a/9a/bc3b1ac57479deb3bd659c84a4d5e8f75490336fa9b292c2ef47d2f6c678/mercurial-3.7.1.tar.gz"
+    },
+    "3.7.2": {
+      "sha256": "5ba9438d6ab0db93f7b0786ba632138eb64a9dc0d93e30dde2b17b328fdc6d7a",
+      "url": "https://files.pythonhosted.org/packages/31/27/39f5b63fb1bf44ed041efff3ea8d8b7f9aad6b974a1fa584ea88de670146/mercurial-3.7.2.tar.gz"
+    },
+    "3.7.3": {
+      "sha256": "c099c42d74e2d520b61dd372cd996b0fa7605c06617834fd7b13c79b9a9a5b30",
+      "url": "https://files.pythonhosted.org/packages/e8/a0/fe6bf60a314a30299c58a5ed67de9fffeae04731201f10dc2822befb062d/mercurial-3.7.3.tar.gz"
+    },
+    "3.8": {
+      "sha256": "23d5f708d0017ab9ca673889236af937fc485bb6b43450d544376a602d04d3e9",
+      "url": "https://files.pythonhosted.org/packages/ed/10/9ddef0da6de0419ce86a31170a5fe4fe8cbfffe21658f17de9b6077f6816/mercurial-3.8.tar.gz"
+    },
+    "3.8-rc": {
+      "sha256": "2c074acc53b5ef2fac5b039ecaf5498d2976b01f3c51f0e983fad0c6bcd8a0a0",
+      "url": "https://files.pythonhosted.org/packages/46/2c/4c86307936cc4246c094110b79669db438e4415262df9f3607793be98a7a/mercurial-3.8-rc.tar.gz"
+    },
+    "3.8.1": {
+      "sha256": "face1f058de5530b56b0dfd3b4d0b23d89590c588605c06f3d18b79e8c30d594",
+      "url": "https://files.pythonhosted.org/packages/17/6b/cd007f00e36091e3a005b56ba468d532c1d7058e824fecf14b80408cc382/mercurial-3.8.1.tar.gz"
+    },
+    "3.8.2": {
+      "sha256": "cb78b16956140625266a8a6d1fadc7c868969d994086e1ec60279a66bf20bffd",
+      "url": "https://files.pythonhosted.org/packages/9a/80/94f453072fa98d9756a263747dac49351714a1a9bbd3108384d129d81c47/mercurial-3.8.2.tar.gz"
+    },
+    "3.8.3": {
+      "sha256": "f84556cdf9a331984261549d9d08143ab9da33d7c03f0aa323b0ee52d0782a4c",
+      "url": "https://files.pythonhosted.org/packages/56/bc/af1561195d43638d44bc3ac286c21f187430966234bee1f235711d80dfb6/mercurial-3.8.3.tar.gz"
+    }
+  }
+}

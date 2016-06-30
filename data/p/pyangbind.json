@@ -1,0 +1,44 @@
+{
+  "latest_version": [
+    "0.5.4"
+  ],
+  "meta": {
+    "description": "PyangBind is a plugin for pyang which converts YANG datamodels into a Python class hierarchy, such that Python can be used to manipulate data that conforms with a YANG model",
+    "homepage": "https://github.com/robshakir/pyangbind",
+    "license": "Apache"
+  },
+  "versions": {
+    "0.2.0": {
+      "sha256": "6a9d103d19de1c12357900ae6c4f2b38dafbad2d0d39948d251389c2413fa745",
+      "url": "https://files.pythonhosted.org/packages/1e/75/1670067122a39440012f2965a4b8b6f6ea52021ff5a7403ae8afd74c57e8/pyangbind-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "d77a37668061c86a3ebf431e7f8cfc2a39d9ed5bac1668fbbe5d5f842d3e8e8c",
+      "url": "https://files.pythonhosted.org/packages/93/b9/7e74bc1b1c0ea15309fb6db8d59ea105fbea7aa5ac49b4809d19e7f50dfb/pyangbind-0.2.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "f7d6549c15a319136d30e08783de8b0a30933fe7caa2ec82d34fae9ee24d4d81",
+      "url": "https://files.pythonhosted.org/packages/9a/49/913e9045b39bcb2d5ef5a6afe1eb02f9d06354806e7d4312bc5d7fb76a07/pyangbind-0.3.2.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "8f59a86ef30685b1d6c2c6e7b1af928c2705982cf26c398ab5edc50d920f8388",
+      "url": "https://files.pythonhosted.org/packages/5d/2c/c8e9f3a28de8449a394d1006c11ebdc92912fe6f1dfbdf42d6bdd207a5db/pyangbind-0.4.2.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "a1a3542d59cb7d7fae11824985fe2269a11fab567623ef78870bc4ff9a0e0bca",
+      "url": "https://files.pythonhosted.org/packages/05/93/90e985c1eb94e86f6ae736ef895939bd9e834636e3fc72cd543e9596c481/pyangbind-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "f0417b51d79c237b347c4230ba47b8c44ba799013dafb46ba9ac88772c246c3a",
+      "url": "https://files.pythonhosted.org/packages/6b/5a/d26a2b0810ad3a470309182af4a714f250b17d4ea7a768d6a1deeffe65ac/pyangbind-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "cf744140fee6efc96efa68d17fc026f44a0fea6ad17743579b433478b9a94d19",
+      "url": "https://files.pythonhosted.org/packages/17/8a/2f516f51981a3118d3178bf77f97399df3426510cea6d5e0146dd8dfcaae/pyangbind-0.5.2.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "9904e1264b0fc2fa9bd78d90a32f817112163d356c500ba1be5c2ea800abda87",
+      "url": "https://files.pythonhosted.org/packages/e3/6c/28ab8289531e83540f886d1708bc6952667c49fe7e0d127a486ba41a3de3/pyangbind-0.5.4.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Extensions to the upstream python subprocess module",
+    "homepage": "https://github.com/kata198/python-subprocess2",
+    "license": "LGPLv3"
+  },
+  "versions": {
+    "0.2.0": {
+      "sha256": "c0172a3fe4eefed5c6672e7a694cb66893da3d064360173213c8e1befcb3e349",
+      "url": "https://files.pythonhosted.org/packages/b9/5a/2234e3c744d5a691784f9dd1d8ffbb428d444f547e90093451f0fd4f319e/python-subprocess2-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "a851424a7ca69e5f54e4db2e3dbf7e7dd12ca1ecf1a91ec07fbfa09cef2e65f6",
+      "url": "https://files.pythonhosted.org/packages/71/27/1748d6269ddb2f081edd7ff37a1e764ed3f0eb8ce77ba67495cdd2bdb0a6/python-subprocess2-0.2.1.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "55368618db6f4715af97f9036256257b204387ab6112048a0de0edb02491700d",
+      "url": "https://files.pythonhosted.org/packages/f4/66/9739e7dbd81bb50975c69ce51400602ff2aa82315f0e2cb28a8d146b7356/python-subprocess2-1.0.0.tar.gz"
+    }
+  }
+}

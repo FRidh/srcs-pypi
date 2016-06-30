@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "0.2b2"
+  ],
+  "meta": {
+    "description": "An OSC to MQTT bridge based on pyliblo and paho-mqtt",
+    "homepage": "https://github.com/SpotlightKid/osc2mqtt",
+    "license": "MIT License"
+  },
+  "versions": {
+    "0.1b1": {
+      "sha256": "8ecdfb9928206fbdfb88b7e74242af19d67ed270f6e2fc382229cb1b04b777ec",
+      "url": "https://files.pythonhosted.org/packages/b4/3e/e6c4f731ba7273a028d754944b0d263b516362113ca2d0aaacbf1a6574e5/osc2mqtt-0.1b1.tar.gz"
+    },
+    "0.1b2": {
+      "sha256": "6b13d4689ed17c9ab2f1d9ca9dff27f31e9fde222fbc49fc49e8198c0ae4a79b",
+      "url": "https://files.pythonhosted.org/packages/6f/f5/140cd42ec7413d026f5ad30a6089eddd447f6ca5c09f69edeb71e9b6c703/osc2mqtt-0.1b2.tar.gz"
+    },
+    "0.2b1": {
+      "sha256": "ba5aeb5c69d62c1cd6862395bbff7317f0d1425da63b7e59be85703d8513b283",
+      "url": "https://files.pythonhosted.org/packages/c1/ce/000fcdd17359545c97b86064ed08232bd447bb11578c924143598523d409/osc2mqtt-0.2b1.tar.gz"
+    },
+    "0.2b2": {
+      "sha256": "b0dbc19138b26e1589dbdc4b813e70cf0b7be62e02c24188fc19ffa5c0928cf7",
+      "url": "https://files.pythonhosted.org/packages/bf/a3/9291cc13fa090cc6efa741858c53aac637e9765ac245352bab5691ce58e5/osc2mqtt-0.2b2.tar.gz"
+    }
+  }
+}

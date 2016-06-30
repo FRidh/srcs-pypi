@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "0.0.12"
+  ],
+  "meta": {
+    "description": "Toolchain-simplez are a set of tools for working with the education processor\nSimplez. The included tools are:\n\n* sasm: Simplez Assembler\n* ssim: Simplez simulator\n* sreset: Simplez Reset\n* sboot: Simplez loader (a bootloader is needed)",
+    "homepage": "https://github.com/Obijuan/simplez-fpga",
+    "license": "GPLv2"
+  },
+  "versions": {
+    "0.0.10": {
+      "sha256": "018077d69e960588afa70dba77cea87fce21f9b88a82998ee8469933c762f671",
+      "url": "https://files.pythonhosted.org/packages/6e/b5/cf2f0e972a0ca75fb60aa867df2959db2891c5dfff36c9caab43b5620f12/toolchain-simplez-0.0.10.tar.gz"
+    },
+    "0.0.11": {
+      "sha256": "61c5fcab72a0388915ce4c1fcec4a5ad5607cd73050f5bdf8afaab266136ccaa",
+      "url": "https://files.pythonhosted.org/packages/d3/f2/b30db9570c62c22629d5eefbb417a44dbf4422f145f52fc4349ad5d0209a/toolchain-simplez-0.0.11.tar.gz"
+    },
+    "0.0.12": {
+      "sha256": "c931705013e4583344f16216793d9ac0d6f352efd67501bd0b3d622ec98eb340",
+      "url": "https://files.pythonhosted.org/packages/b2/bc/7ec0333da5a206597e4ff6fce9ae7709c6b1524e0c1409fe7c7c6bf0894f/toolchain-simplez-0.0.12.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "5f77c410d14e589871d37786985f0026c8f768dd917cf6a35568ea5c07df1ffe",
+      "url": "https://files.pythonhosted.org/packages/56/d5/47126a298ee97cc20973667dd13f662b1bec54fb11afd82384795a7ccc96/toolchain-simplez-0.0.9.tar.gz"
+    }
+  }
+}

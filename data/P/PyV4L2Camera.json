@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.1a2"
+  ],
+  "meta": {
+    "description": "Simple, libv4l2 based frame grabber",
+    "homepage": "https://gitlab.com/radish/PyV4L2Camera",
+    "license": "GNU Lesser General Public License v3 (LGPLv3)"
+  },
+  "versions": {
+    "0.1a1": {
+      "sha256": "57428e2bf96296edf4c661f44c0f249946b8f40c8574519b07c7df285a5d39bc",
+      "url": "https://files.pythonhosted.org/packages/3f/2f/105f3cdc5d8744723416431eb4dca0e7ab2221b18a006df4bd5fa2091fc8/PyV4L2Camera-0.1a1.tar.gz"
+    },
+    "0.1a2": {
+      "sha256": "5d23f3acbcdd4d155a904dff78f07b1c4f589561c112de16281702a8a4ac799d",
+      "url": "https://files.pythonhosted.org/packages/a7/8a/1cd994b4d9f8319881f32d8385f53d524e4941bcf4f6a2c942cddc7a2521/PyV4L2Camera-0.1a2.linux-x86_64.tar.gz"
+    }
+  }
+}

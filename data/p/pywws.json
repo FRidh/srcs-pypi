@@ -1,0 +1,76 @@
+{
+  "latest_version": [
+    "15.12.0"
+  ],
+  "meta": {
+    "description": "Python software for wireless weather stations",
+    "homepage": "http://jim-easterbrook.github.com/pywws/",
+    "license": "GNU GPL"
+  },
+  "versions": {
+    "12.11_95babb0": {
+      "sha256": "080ba60abf1d439bb432b2a389b239d931bb052d72fb9984f43658f21121fe03",
+      "url": "https://files.pythonhosted.org/packages/fa/b9/fde0995b0b436c18826a1244d71ac7a58e7d499b37f3fa68b886954b45d8/pywws-12.11_95babb0.tar.gz"
+    },
+    "12.12_e27456b": {
+      "sha256": "50fb06006db5c6f4dff548fec68ebfa748ba3b8ad0d3db7afdd087399d9b265c",
+      "url": "https://files.pythonhosted.org/packages/e9/9b/30d5c032ebb1fec1b0a37b9d8c76f41f524ee16713eedbc37825fe97090a/pywws-12.12_e27456b.tar.gz"
+    },
+    "13.03_7f9fc90": {
+      "sha256": "8ff7df02b6e13a6e9b8d15ff3f7781a267069b2a0c92d1d74feaa222b229dcd0",
+      "url": "https://files.pythonhosted.org/packages/b9/aa/b317f61341da2ae22ccbdf71ce3328f2ff3dcd7095e0fe4b00a70f35543a/pywws-13.03_7f9fc90.tar.gz"
+    },
+    "13.06_r1023": {
+      "sha256": "8d0d23ccaece8de2e41d987a4c0fe84844cfeee84ecd327bdcd6948817ac4436",
+      "url": "https://files.pythonhosted.org/packages/3d/2d/c851de95609c07cbb310445d61d36028cd8cc64bd366beb124577e888298/pywws-13.06_r1023.tar.gz"
+    },
+    "13.10-r1085": {
+      "sha256": "44da1f6c2fb8ff2d8bdb544f160c48f41b55a01a3180fcd9da61ec9007948566",
+      "url": "https://files.pythonhosted.org/packages/c0/21/048c1db70c84e238c46523d5ae6fb5825adcd6c926f8ee38ad3b1178d957/pywws-13.10-r1085.tar.gz"
+    },
+    "13.12.dev1118": {
+      "sha256": "6dfc09977ffad0257b45c78108837d3432a01efbb26a982cd66af7becc78cad4",
+      "url": "https://files.pythonhosted.org/packages/6c/d4/dc36609b027d02d083991b906cd1118c54d7a8e82b344fd906394c76325f/pywws-13.12.dev1118.tar.gz"
+    },
+    "14.02.dev1141": {
+      "sha256": "08506ccd1b1d327d1fe9376914a578c249a5514c9334e46e0a1a26b217b2d61a",
+      "url": "https://files.pythonhosted.org/packages/8e/5f/ff41b089479c80cf7865c86d5ccbaec90750813628e00184c4df816dec85/pywws-14.02.dev1141.tar.gz"
+    },
+    "14.03.dev1178": {
+      "sha256": "a6af7f097493b2cc7cccbee48c6ea9d8138e5ceea9dacfa307f7cd041a6c0983",
+      "url": "https://files.pythonhosted.org/packages/50/12/e72b7a2fb2e01fba17802a6836901ea8a3024c92a96936f1a60ab7cd05bd/pywws-14.03.dev1178.tar.gz"
+    },
+    "14.05.dev1208": {
+      "sha256": "18450ff5eb81afd7879f0533b9766d5d727546314a65cfde077ab0e140ea7b99",
+      "url": "https://files.pythonhosted.org/packages/2c/2e/dd7bb95d0c7404ee8df958d6a6ce1de156232a375f8f87b514530c248590/pywws-14.05.dev1208.tar.gz"
+    },
+    "14.06.1": {
+      "sha256": "ed8d32f706ec53ebcbb97a8a752c83e6da755736ae506b899a5ade4e231879aa",
+      "url": "https://files.pythonhosted.org/packages/e5/74/8f0f18381b8cfeb75f30e154ba3f769f8287b3eaa1e4a20e2cde956d0fae/pywws-14.06.1.tar.gz"
+    },
+    "14.06.dev1238": {
+      "sha256": "1aa828bad3083dec55c795c11b7991a18f2adbd2422328a097b622e0af5ca8bc",
+      "url": "https://files.pythonhosted.org/packages/85/fd/ff98aa71510adb520e4dd404a6ea08177ca2163156f76667519da4601f69/pywws-14.06.dev1238.tar.gz"
+    },
+    "14.12.0": {
+      "sha256": "70696f336a2f3f2bce6d2744589892d83d902bebf47b525c5d8dee1fd1e43e1d",
+      "url": "https://files.pythonhosted.org/packages/dd/6f/c7fcdf4afc46fd379ecac96649605f9d9a8e5b21bb5ed72af241dd2e0947/pywws-14.12.0.tar.gz"
+    },
+    "15.01.0": {
+      "sha256": "beb3a3ec301306b9e7e5d9fbd9aabc5108ced09f77f151354a4e83b2d1708db6",
+      "url": "https://files.pythonhosted.org/packages/1a/e3/bdd780abfea9f1c3de4309b8794a9943ac37d6771b98e6df13e681aa3203/pywws-15.01.0.tar.gz"
+    },
+    "15.07.0": {
+      "sha256": "cddc0e909443e66538fd69771d034d5f520f2cfccd64ef14b2ff5daea2a7640d",
+      "url": "https://files.pythonhosted.org/packages/de/67/b29a8ab15fa88c0086dab999fe42163658716f7a6a684c467070d9dd44df/pywws-15.07.0.tar.gz"
+    },
+    "15.11.0": {
+      "sha256": "d40792c6287ef50846ed35a9918ecfdc0806f3d5c03d1a162c7616a42e240d5d",
+      "url": "https://files.pythonhosted.org/packages/cf/19/81de04850140e2553ff36220fec92363080d02b83314e71cb9fd256a9e52/pywws-15.11.0.tar.gz"
+    },
+    "15.12.0": {
+      "sha256": "b5d8b4da8a81aa80e77538f4942249da03bbd1402fb718d8104b14a581b6852c",
+      "url": "https://files.pythonhosted.org/packages/42/cc/45c1bd7d65a59980c0a108ec78a5870cf820716b46a14c24da7adc594183/pywws-15.12.0.tar.gz"
+    }
+  }
+}

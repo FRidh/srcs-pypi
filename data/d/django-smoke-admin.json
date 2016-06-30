@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "django-smoke-admin tests that all admin pages for all registered models responds correctly (HTTP 200)",
+    "homepage": "https://bitbucket.org/Melevir/django-smoke-admin",
+    "license": "MIT License"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "fdc48d0df8e0880f8cc18506aad31a87004209c9e80d727406270ccac1d9b75f",
+      "url": "https://files.pythonhosted.org/packages/1c/d9/181ca182f1aa0be410d6ad6dedf1a093f4609befbfc74c9fb21e442aff1f/django-smoke-admin-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "7325601b632be0ca21e9d4795ba39e09c00be0f8b5a74ce965bc04cbf17946bf",
+      "url": "https://files.pythonhosted.org/packages/ba/a7/e0ef05083723a0d8d4b460b665d1560ae12c69976b0cb286a1ba9e89dc56/django-smoke-admin-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "985a2026326de5cfcdfd76223af1648f147fec5d1af63880627e2f52339ac332",
+      "url": "https://files.pythonhosted.org/packages/cb/0f/db63ddb86998cc926b6c389bd9790f61f66d8b2557653bdf716b74426a1c/django-smoke-admin-0.1.2.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "latest_version": [
+    "3"
+  ],
+  "meta": {
+    "description": "Python client library and toolkit for Neo4j",
+    "homepage": "http://py2neo.org/",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": {
+    "0.96": {
+      "sha256": "f823b86727b593570fdde2156296665f2972501d2204bf68e8913a6eef8986f4",
+      "url": "https://files.pythonhosted.org/packages/34/12/4e96ea261660fec44a6dc60fb533722ac83c3cdc946c3dad2d70e73d0743/py2neo-0.96.tar.gz"
+    },
+    "0.97": {
+      "sha256": "abf53ed30fb94efe533c8250cdff1a25d7d4ea396c68caf31a6d1b5959d1f073",
+      "url": "https://files.pythonhosted.org/packages/61/c4/706d105097cfb86b34bd7b473d58ab7dc808d55df56ad4d3480fe20187a5/py2neo-0.97.tar.gz"
+    },
+    "0.98": {
+      "sha256": "2c0e1f2cda3dede74b2df29a4a4f503c476bf49a16c6909bccf810f6089f00c6",
+      "url": "https://files.pythonhosted.org/packages/0e/c4/c1f665ed2943b40bfa429a24ba26e5d1bba2f02c4746d6bc700cdc367bef/py2neo-0.98.tar.gz"
+    },
+    "0.981": {
+      "sha256": "bc52acdafa2b29a8820c3e0d40ea9587ed7a9bf1ba4fc72eab203337593e2605",
+      "url": "https://files.pythonhosted.org/packages/86/96/acf3c12617537b1822cd0b3f5da2d55d100ba8666b3b1ff93b3fa9daced8/py2neo-0.981.tar.gz"
+    },
+    "0.982": {
+      "sha256": "c911610bdcf521f3f9da915779ad1884883818580624384b2690ce614c29f506",
+      "url": "https://files.pythonhosted.org/packages/be/42/fed4fefb0462f18feb1c2660279e015ab0edc3d2801c8657ef9c17025d4c/py2neo-0.982.tar.gz"
+    },
+    "0.99": {
+      "sha256": "9044a2e4f8741a0b7e3405304a8ba9dcf5a9de8c3dc1d0f6db28783f6f1c6edf",
+      "url": "https://files.pythonhosted.org/packages/9c/61/c96dafec288ee1627d3e611a0ef3b934bedae1e9efcaa6ab69a43485adb4/py2neo-0.99.tar.gz"
+    },
+    "0.991": {
+      "sha256": "0a280dcaf67a601f0767249205c44ee6f7656416e99503f12c874e9bfd86754a",
+      "url": "https://files.pythonhosted.org/packages/89/4c/e7cecb64596574b31b9d27914023529fdb3c8e4ba5e0f3be738171f65a69/py2neo-0.991.tar.gz"
+    },
+    "0.992": {
+      "sha256": "3bde76d4548620ebb0339a0fad58375da7cc36db78bae170db287a0a94a4c778",
+      "url": "https://files.pythonhosted.org/packages/bd/3f/48e243ed567870cfecf1f4acde7415c0348324a384c74c58e48cc1ac942f/py2neo-0.992.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "b95d0e9d9e6f22a85bebb2dafc477e94acc7ba470f0e1e260ea52957f33f0a07",
+      "url": "https://files.pythonhosted.org/packages/67/bb/bb97de896d434a3577ad11136d05c54a3f9619be8d7ea34eed4c3b2cbce0/py2neo-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "a1da3482e8f84651a31740d2d39df941a731515ea1dfbf07f7156536f62f8f3f",
+      "url": "https://files.pythonhosted.org/packages/58/1f/7c51c7945d7c9e793634fa2667f6645581dab5336206098a6fbf1bdb65a2/py2neo-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "8d177f7c983640c2fb39422fe1794c11a916417a3a3f56d6ea47e1e8b3fb5045",
+      "url": "https://files.pythonhosted.org/packages/b2/72/8a14087c4b1e08d927f7b4904f8519c91d8a75f10448f546f6bee80044a7/py2neo-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "0ec7972a3afccc1c6b6f96d0d0b4dfa3bdf2a0da67cac7def08c6afa4f570d4b",
+      "url": "https://files.pythonhosted.org/packages/2b/0b/ae435daef6177e5d159e301ee2f19fee179c4dbbe5c785c80a7c3796ba70/py2neo-1.2.1.tar.gz"
+    },
+    "1.2.10": {
+      "sha256": "07426f4ebf54d4b6bf553558007c169b3c8f42d88144fc2d518386cbece2ef4a",
+      "url": "https://files.pythonhosted.org/packages/e4/e5/7d67402370e24e55b030416779dc112ace2c7448cb06f537b1c59bb9b135/py2neo-1.2.10.tar.gz"
+    },
+    "1.2.11": {
+      "sha256": "c308ab24d6151699d3b2f92ef5ab62940d64052cf88965f25e19629b36fce5f7",
+      "url": "https://files.pythonhosted.org/packages/8b/62/8816809c2ce80f603c32d4daffba4e303dd92870d2515bf0c3a57b932f1f/py2neo-1.2.11.tar.gz"
+    },
+    "1.2.12": {
+      "sha256": "b45453443db3a4666bdf06eda2b080320053c83052b9541bd6e3a0ba9734e251",
+      "url": "https://files.pythonhosted.org/packages/7e/93/954ffd35e22cab405b3b7c0fc44a6840a6f49ccd65fdd14971a51583ef74/py2neo-1.2.12.tar.gz"
+    },
+    "1.2.13": {
+      "sha256": "5d29fa9b1c94b7349172acc317905759186bd49f4afba23ab8bc2f7b7b1777e1",
+      "url": "https://files.pythonhosted.org/packages/f5/50/53a0aaa8a8291c0f6f88f73468596e5b1c276b6025ca99b3603ba96a6636/py2neo-1.2.13.tar.gz"
+    },
+    "1.2.14": {
+      "sha256": "0f0e52d83e7b9aa695e457db61e65bb8a129110ad5951ce46f8694f3c22c1fb4",
+      "url": "https://files.pythonhosted.org/packages/6b/4a/466bb0d3445f7e24f4015d493f8aa6e4c195590a14349b19ce069d5a345a/py2neo-1.2.14.tar.gz"
+    },
+    "1.2.15": {
+      "sha256": "4745d544f1137e417c6dc9b57fd3532fb00eb85c7dca574b22b6589c8bbdbeef",
+      "url": "https://files.pythonhosted.org/packages/bf/4b/13b724e113f47adec1865c7debb2ae845b683d9fad0996b7d6d5151e3a97/py2neo-1.2.15.tar.gz"
+    },
+    "1.2.16": {
+      "sha256": "3c219f0e4d8afd0f06bb66459e32524ab97c014514d99fc8196d1c26fb3eb408",
+      "url": "https://files.pythonhosted.org/packages/75/a9/bc806f6d6201f66f48affcf95647ea2ac4df03e5be2b6babf01e1a32c51f/py2neo-1.2.16.tar.gz"
+    },
+    "1.2.17": {
+      "sha256": "12fcc7409636a9531a2cc1340637439fd9023683b1dde81a1a55a8074d6a9cf6",
+      "url": "https://files.pythonhosted.org/packages/03/a0/206c045f55dc2833503a945bc5f13595af6daf00e252e4e213d60fea2e8e/py2neo-1.2.17.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "3fb78d4b6b5adf472ab17772444c8085ab50c6e0505bc093db955c16f5576bad",
+      "url": "https://files.pythonhosted.org/packages/12/2f/fa9380de4834fe322822096608019b41c2630c260b7a5371a455fa05a8ae/py2neo-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "6e2e5ec40541057ed87077154159e91b840eefe9158024523258acd69b6f72ac",
+      "url": "https://files.pythonhosted.org/packages/3f/f2/29edc2bd614ba098cd9a2be2f1d31b2bf8b8b49a1128b454c4c0e92fe9b1/py2neo-1.2.3.tar.gz"
+    },
+    "1.2.4": {
+      "sha256": "60eb61ed7f4eeaddacace7491a44cb21c1e7a4285598ffa235ec4a4a4edb2eae",
+      "url": "https://files.pythonhosted.org/packages/0c/60/08bf099b9bea434f08a24f47739533620513084609e322ba578d5ee95594/py2neo-1.2.4.tar.gz"
+    },
+    "1.2.5": {
+      "sha256": "d606c7e46254697008160a496713ea701e8a36411fd79bf3d1580f4f7a6e3677",
+      "url": "https://files.pythonhosted.org/packages/a1/cb/e3cfd69ac5b9a90456eb6552d4fbf7c95ae6267fa3542a69481e55c8a7a8/py2neo-1.2.5.tar.gz"
+    },
+    "1.2.6": {
+      "sha256": "3f7b81f96efbf9021c75bf13b7ba7e668dd1b2f3dc4ae22cd80afc033b630e24",
+      "url": "https://files.pythonhosted.org/packages/11/da/75317967b7cbafc256bb46dbc52944482f6f7ee76f5e857932457e00ceec/py2neo-1.2.6.tar.gz"
+    },
+    "1.2.7": {
+      "sha256": "14c18dc8763d7df4485b4ffcd5e26b72e27a1514ae01eecf5f9504f907aece6a",
+      "url": "https://files.pythonhosted.org/packages/7a/e7/1a12f712303d7629656923e58a1b316c87f6a53b23d826235df04ddaaf3f/py2neo-1.2.7.tar.gz"
+    },
+    "1.2.8": {
+      "sha256": "a540fbb5305bb6a91a10156452e2720b065fbdf031cf34e6fb08d8216e28c126",
+      "url": "https://files.pythonhosted.org/packages/1c/61/88b63117b83678a3b56369a63ba64da54f1bda021bd4f9afae85353b1cce/py2neo-1.2.8.tar.gz"
+    },
+    "1.2.9": {
+      "sha256": "e6a171e16bd37d615e96e5653c6f70699d11503907d19566311c525392efb96a",
+      "url": "https://files.pythonhosted.org/packages/d4/dd/75510756e2bd646b7cef2b8bb9236beb01d6ed7e2b889b378f6bd0f25c90/py2neo-1.2.9.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "2972f8f6a154163c5bf891fabc94c54da0d97befcce8cb8c5e829f0a0223fea0",
+      "url": "https://files.pythonhosted.org/packages/1d/c4/a7066f8490f9dea9300234160319ead3acbed51fe6d9a4a29186b03fdb2c/py2neo-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "7009f8d91fef35dadec9adeeca7ad0a21d3531e4f32f6b3b5d479b7ff1636323",
+      "url": "https://files.pythonhosted.org/packages/3e/6a/bce37f1e9873130ce34de3612e01b6b8677d85a813b209c7de653424a7ff/py2neo-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "4dfa38957e2acbb784b01af754cc370e2a2c92b5b105b561b23dcd6ab53a9783",
+      "url": "https://files.pythonhosted.org/packages/4c/7d/c375574287cb8c2490253a6653dd41601b750babfc39bc81505f5aac5d73/py2neo-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "4b6103b24573a240c1fb9d5ac5b96c37c982d19048c6adb76a894654af601e1e",
+      "url": "https://files.pythonhosted.org/packages/59/80/43c504d52181d93893aab1d360c28b26a3b99bff20191a01e8f12190bff4/py2neo-1.3.3.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "1eb1c38be4036bb23fb731b9738f94cbfdb0643c63e1d4c71e9553e733451772",
+      "url": "https://files.pythonhosted.org/packages/2d/ec/d4bdf523446f3a3bf3a45a341e4dfb5123e6548a404d59ac6a7d1475daf2/py2neo-1.3.4.tar.gz"
+    },
+    "1.3.5": {
+      "sha256": "e89d302f6b45f8039b3c47fe1fb2e9ddcf06c03b6388b2194ea4e0f4f77189ba",
+      "url": "https://files.pythonhosted.org/packages/97/f7/a660747c9b94ec08e32476222a4a4fa6b7a9d845c16848078c10a9a5fafd/py2neo-1.3.5.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "15ae0f5af2822f303b9a8ecbf7267568a29a0bea1dd2730f769d56de379af077",
+      "url": "https://files.pythonhosted.org/packages/b9/9f/cfc69dfe2d8c11a8aae17138407708abf9610d0df86796342c70e68c2edd/py2neo-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "429c28c9a772d2a3d62e3673c5dcab7c4b09d4c890f36296f696a2da294e2e13",
+      "url": "https://files.pythonhosted.org/packages/a5/2f/14c8903d7a64efa40b474b2792f22f31dded9f787083985f7c94dacfd5e6/py2neo-1.4.1.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "d28bfdc3844b5b11b85997f41ae5752f3cabbc33c111fb87a202544ebd7fadaf",
+      "url": "https://files.pythonhosted.org/packages/28/3e/6513686d6160851793c2d59fdbe4e7e3d1df56e5559b93ef9ac7f745ef63/py2neo-1.4.2.tar.gz"
+    },
+    "1.4.3": {
+      "sha256": "3cf3b202615def414910f9a9acb70c8f673b755f26f836eb10e0933e4bfaa7a5",
+      "url": "https://files.pythonhosted.org/packages/77/25/b1d18cf7e498253b6361a117dee265812cc33145c57d8df7040c6acd0041/py2neo-1.4.3.tar.gz"
+    },
+    "1.4.4": {
+      "sha256": "3d14606c7dd52b6b44169575e6041c5b8e5096e72d842419ca680b553eb99b5c",
+      "url": "https://files.pythonhosted.org/packages/cf/b2/164763338c409c0872a3de3aced47058a329348d97705f8eb1ab73565207/py2neo-1.4.4.tar.gz"
+    },
+    "1.4.5": {
+      "sha256": "a8c900a05036c0ad6add8bfd2e239b1b83c9b5f1dae712c11807f4d29d72e152",
+      "url": "https://files.pythonhosted.org/packages/0a/70/4774c3d668b6c3a687a53303282b445c1d963c600497a604c969ba9dfec0/py2neo-1.4.5.tar.gz"
+    },
+    "1.4.6": {
+      "sha256": "67a48286ff49e29d71cb8a348d47f4714213c0111f3b8b08e8e941938a7f78de",
+      "url": "https://files.pythonhosted.org/packages/0c/f7/356f0972746336d24a424cbfd4e04054ce3ce5b6382177e55501ff379608/py2neo-1.4.6.tar.gz"
+    },
+    "1.5": {
+      "sha256": "a1cdde32cb1d614262b70ef0dbb1aba168beb9d2bcb7132d936919089c4986f6",
+      "url": "https://files.pythonhosted.org/packages/8f/f3/5c5baca8410a7ef0408998382363916ff20859c8278c0b53a69b99916f41/py2neo-1.5.tar.gz"
+    },
+    "1.5.1": {
+      "sha256": "3f15ede926af84555472eea72fb9bc6d96f20ea868a69b975fdb7da1b4a85d42",
+      "url": "https://files.pythonhosted.org/packages/a9/a9/8f1249c0202c5ab6281a58c7fe0210738dd98fbd0c07b52272996210a47a/py2neo-1.5.1.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "f596988d3437cfb1bc20317d60cd72ead200845f305f8f8a91eff7a993bb47f5",
+      "url": "https://files.pythonhosted.org/packages/88/0a/ee83eb10c17c7ac9dd40cfa31d2a89bec33b2378ef37cb69ab8a14788ad6/py2neo-1.6.0.tar.gz"
+    },
+    "1.6.1": {
+      "sha256": "a66a1c17ac638818faf5bd0caacb45c81061917fc68801ef912284ec08e96573",
+      "url": "https://files.pythonhosted.org/packages/84/c8/a0cd4eda2737f90149922662ce547c2be6260de1f2c0545d99e71117140d/py2neo-1.6.1.tar.gz"
+    },
+    "1.6.2": {
+      "sha256": "a87d073e73f6f0707a04653da16342e9220d756470be5558d2ad18ebdc011ade",
+      "url": "https://files.pythonhosted.org/packages/20/ce/ee4892d46eb482f06e42935c2180e4e1ca6578d05a64b533de2cd3ab7024/py2neo-1.6.2.tar.gz"
+    },
+    "1.6.3": {
+      "sha256": "38aef17361ffc5e994986dca52de5440f7f606dd3ab46c2b8f789b8978907a5c",
+      "url": "https://files.pythonhosted.org/packages/6a/cc/0f7a0cd32629257e62a3771dac1b9b794aef46c3ebf0b72f56cc04882bc8/py2neo-1.6.3.tar.gz"
+    },
+    "1.6.4": {
+      "sha256": "e6bb27fbc457825fec49fd036ee3e6b30cbc670c2031fcc64ac2cec64ee1cefb",
+      "url": "https://files.pythonhosted.org/packages/41/18/c01b70704e46f6cced3bd5a603c24c8eae95d5ad4bfecfc10dbb12c2b281/py2neo-1.6.4.tar.gz"
+    },
+    "2.0": {
+      "sha256": "5414f4a702a523096bcfbb8510ae9221adb77b84209574621c7c0bcf2c5b3861",
+      "url": "https://files.pythonhosted.org/packages/27/5a/2af4c9bf29d44346352489edc9a1f41dd79e03a95e8376bd12274885872c/py2neo-2.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "2cfa970b46d6e0d3f903f9ee94d459c3ec7257921328cdad3a733c44f8749d3c",
+      "url": "https://files.pythonhosted.org/packages/bc/3c/32dbd2989acf87516f2bb8e0e7d58d4a8705eacf97bd20f779b95a804aa7/py2neo-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "19021c7aa8b4894f758b771527c7cba953088e21d4291734886e8b4742a858b9",
+      "url": "https://files.pythonhosted.org/packages/10/75/c8512ed0ee5c756175bbe9692c294dbecb37883bfdefa4408bd4322fd0b3/py2neo-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "e245e2c630d345f55571420ec8b748d3962ea299394e9f84cac942adab50016c",
+      "url": "https://files.pythonhosted.org/packages/4f/3d/fe16f930bfe82ca51426051314da89dc219f5ab4b06344230f76c6cefa5d/py2neo-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "727726b87268ca1e929191b960a5473409e5bd81559ee83a304951104bb6b866",
+      "url": "https://files.pythonhosted.org/packages/3f/88/d5a6558365b153f0f7ed831a4181e0566b1f01390fa0c8cb5d4069a759c2/py2neo-2.0.4.tar.gz"
+    },
+    "2.0.5": {
+      "sha256": "2c04d4223d2d356c4800c586f30c048757334f9391553c852c29aebf2368d101",
+      "url": "https://files.pythonhosted.org/packages/56/c0/aaf218cf88859500ea4c128aeb4ad4a70b6826cbd3dd013ca4c49c40b59d/py2neo-2.0.5.tar.gz"
+    },
+    "2.0.6": {
+      "sha256": "6bb828d6d3e48b4d095b3f7d79dbb690a47633f0a9812eb62f141b042bab3186",
+      "url": "https://files.pythonhosted.org/packages/6d/86/a4d93b7d43bb647d968185dec81e76fcf77bc2bc820b324ba1df81c23800/py2neo-2.0.6.tar.gz"
+    },
+    "2.0.7": {
+      "sha256": "9b154053eb93c7f5fb3ebd48b6a5b99df450d3f2e9c6682153c6f8d59369378c",
+      "url": "https://files.pythonhosted.org/packages/af/be/b1844635bf514dd322da4ca4a8a94aac6fc9d687309546a971a4bbe095e4/py2neo-2.0.7.tar.gz"
+    },
+    "2.0.8": {
+      "sha256": "06167f5a91a0d9b9b73431baacd876f2d507650a681fdce1fcf3b383a9b991c1",
+      "url": "https://files.pythonhosted.org/packages/53/43/f57399929e63115f2dfe539d13c6ad8b9ce1bc03bd58862acbb0ec68715a/py2neo-2.0.8.tar.gz"
+    },
+    "3": {
+      "sha256": "82cab6bb84bda469f017019ee7386dc676ef2909fbbadca5cd81ba278f9ffda3",
+      "url": "https://files.pythonhosted.org/packages/14/8a/6d37a972493237249d4edc52fbfe4db9d8d23f17b97813aab0f9221e4c65/py2neo-3.tar.gz"
+    },
+    "3b1": {
+      "sha256": "1033cd4c1d8e3dd57da033b18d3b8085f76031d7be2c9250e555c10502b6a784",
+      "url": "https://files.pythonhosted.org/packages/d9/0d/e5971d1ede7f7a16fc9fe56e6d9a22edf23b2d11dccbea75846c1720fc35/py2neo-3b1.tar.gz"
+    },
+    "3b2": {
+      "sha256": "b8a9946fc304106030723293c77a4002b1dc41bcc4728105dddd0ec5524d0a7a",
+      "url": "https://files.pythonhosted.org/packages/e8/b5/05879339261b759ad250f1f62363a30f405da3628273a577cdb6a58b97fd/py2neo-3b2.tar.gz"
+    }
+  }
+}

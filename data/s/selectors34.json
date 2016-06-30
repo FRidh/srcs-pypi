@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Backport of the selectors module from Python 3.4",
+    "homepage": "https://github.com/berkerpeksag/selectors34",
+    "license": "Python Software Foundation License"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "9aee3418734cf10f33a56557092364a585c613a4775503e9a5eedc586e8ced50",
+      "url": "https://files.pythonhosted.org/packages/2d/52/953bd67eefc91bd17108b9716f55e6c66147f48036fc8ca480ade7d8f702/selectors34-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "84b3743b9046461aebbcd13c15e79ab91e79acfb6e030b54a0ec6360ae0bbc52",
+      "url": "https://files.pythonhosted.org/packages/e4/8e/dc408503b9162c9e98298754a45a695b17c8065cd1131b35adf5160630e6/selectors34-1.1.tar.gz"
+    }
+  }
+}

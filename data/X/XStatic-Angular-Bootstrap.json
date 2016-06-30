@@ -1,0 +1,31 @@
+{
+  "latest_version": [
+    "0.11.0.7"
+  ],
+  "meta": {
+    "description": "XStatic-Angular-Bootstrap\n-------------------------\n\nAngular-Bootstrap JavaScript library packaged for setuptools (easy_install) / pip.\n\nThis package is intended to be used by **any** project that needs these files.\n\nIt intentionally does **not** provide any extra code except some metadata\n**nor** has any extra requirements. You MAY use some minimal support code from\nthe XStatic base package, if you like.\n\nYou can find more info about the xstatic packaging way in the package `XStatic`.\n\n\nMaintenance\n-----------\n\nTo release this package you must use the xstatic-release tool",
+    "homepage": "UNKNOWN"
+  },
+  "versions": {
+    "0.11.0.1": {
+      "sha256": "9559da67fccb110bca17e87a32034af91b361ffe49007626db4ff92a7e128b61",
+      "url": "https://files.pythonhosted.org/packages/85/1e/0573f974b5bc435928257da272425118a685745ca33f54f09a0978848a3c/XStatic-Angular-Bootstrap-0.11.0.1.tar.gz"
+    },
+    "0.11.0.2": {
+      "sha256": "cbe428bf04c000460776b521f6ace0455e9f3f20135499e9aa2f4af693dc7b3e",
+      "url": "https://files.pythonhosted.org/packages/4f/ec/3b0382ca2ef18002cad5268de61be72b437fcd2416323889059e2d07cf50/XStatic-Angular-Bootstrap-0.11.0.2.tar.gz"
+    },
+    "0.11.0.4": {
+      "sha256": "ef54fe6257fc920a9141f79949a67173c6ab6d65232737808216396ed1920756",
+      "url": "https://files.pythonhosted.org/packages/f2/56/02f2a4cf03221f7422f3711500b4349d3018d048c578d512073b432e5c73/XStatic-Angular-Bootstrap-0.11.0.4.tar.gz"
+    },
+    "0.11.0.5": {
+      "sha256": "077d3852f39f90ff151bec945d4dbfc8e97b1e867cf4b739c307cc318171f112",
+      "url": "https://files.pythonhosted.org/packages/54/d6/7da5c2cd4806a4774747f9e77c7409d369d516a47970ce602d4b04faf35f/XStatic-Angular-Bootstrap-0.11.0.5.tar.gz"
+    },
+    "0.11.0.7": {
+      "sha256": "d20127de40cbc3eb72ac023339e769683902a6e912faac2e6e4df4204712eb85",
+      "url": "https://files.pythonhosted.org/packages/c3/14/cdc651e9e75c90bb02941cb5f289d098cebf20807aa8977fc3947b231512/XStatic-Angular-Bootstrap-0.11.0.7.tar.gz"
+    }
+  }
+}

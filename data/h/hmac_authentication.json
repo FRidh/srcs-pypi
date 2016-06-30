@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Signs and validates HTTP requests based on a shared-secret HMAC signature",
+    "homepage": "https://github.com/18F/hmac_authentication_py",
+    "license": "As a work of the United States Government, this project is in the\npublic domain within the United States.\n\nAdditionally, we waive copyright and related rights in the work\nworldwide through the CC0 1.0 Universal public domain dedication.\n\n## CC0 1.0 Universal Summary\n\nThis is a human-readable summary of the [Legal Code (read the full text)](https://creativecommons.org/publicdomain/zero/1.0/legalcode).\n\n### No Copyright\n\nThe person who associated a work with this deed has dedicated the work to\nthe public domain by waiving all of his or her rights to the work worldwide\nunder copyright law, including all related and neighboring rights, to the\nextent allowed by law.\n\nYou can copy, modify, distribute and perform the work, even for commercial\npurposes, all without asking permission.\n\n### Other Information\n\nIn no way are the patent or trademark rights of any person affected by CC0,\nnor are the rights that other persons may have in the work or in how the\nwork is used, such as publicity or privacy rights.\n\nUnless expressly stated otherwise, the person who associated a work with\nthis deed makes no warranties about the work, and disclaims liability for\nall uses of the work, to the fullest extent permitted by applicable law.\nWhen using or citing the work, you should not imply endorsement by the\nauthor or the affirmer."
+  },
+  "versions": {
+    "0.0.0": {
+      "sha256": "d4b10f76e15558b4305afaf69cae7ce505783530b31340a7ebcaaace6aa85bab",
+      "url": "https://files.pythonhosted.org/packages/8d/66/9d0af37770542a250f6f80605e46be3e347494f6eda4f9f95a4cf86aacbc/hmac_authentication-0.0.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "edc739fe2daa2b0977bb11bc30394d6d324fd5aa7b8cf69c22a25ca4b3368f94",
+      "url": "https://files.pythonhosted.org/packages/8a/69/214136c10cde7d2c5ac1ef2b61632f218a3b63b97e42963ae0e34beffba3/hmac_authentication-1.0.0.tar.gz"
+    }
+  }
+}

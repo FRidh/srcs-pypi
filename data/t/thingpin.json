@@ -1,0 +1,40 @@
+{
+  "latest_version": [
+    "3.0.2"
+  ],
+  "meta": {
+    "description": "Raspberry Pi pin monitor that reports to AWS IoT",
+    "homepage": "https://github.com/mgk/thingpin/blob/master/README.md",
+    "license": "MIT"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "230e6a4c1183ccf65641936b7d98e35ae3f27aea85e1516d28f26f8674ec453f",
+      "url": "https://files.pythonhosted.org/packages/1d/9b/c5f7279d3cfbab6758d32ebfdb29d98af6a10f5641e7cc5d72e7057f8b66/thingpin-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "8adab184aff5a3e1d8b9f11cea084ae6a1820702f5b5f040118b33605e84276e",
+      "url": "https://files.pythonhosted.org/packages/bb/43/e2c799904688d2eb73f25ce0493e8a021a4b4c4b925421ff7d4a29db5b24/thingpin-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "402dc23871c96bd9a25bc5e5e22cfe0a25a05349389cbd3b78ec3d48822c7c94",
+      "url": "https://files.pythonhosted.org/packages/15/d7/6d7d530f2f8dad6192f237df84651d8d77057e456c7bc1b00efdc478b3f2/thingpin-1.2.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "9b173b8a48ae8484a85291885cad418ba9e860754b9473039c88d1dc2d97f8ad",
+      "url": "https://files.pythonhosted.org/packages/07/02/aab632dc89e793ca965cd68356f2461877aa68d12ea1c7f7f14e48645048/thingpin-2.0.1.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "05b0d86d2841ce213033b9947b5246aac3e59623ce7252439df125e22aeb663e",
+      "url": "https://files.pythonhosted.org/packages/a1/4e/d4fa59d02532af694bbdfa26f103af224987c1338d6c8cabfd5e2e40bbc9/thingpin-2.1.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "c7e994ec187849f32cf2f715deb688e17afb87b0c9c3291a7b7520a43828b667",
+      "url": "https://files.pythonhosted.org/packages/b8/95/83d78fddea616d2a8552df54270653db00b296053994a68e9629cf4a082b/thingpin-3.0.1.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "0cb69893d8cc95a7ac0ea5326b1eeaf06337da098405486669f008a04fa6e82f",
+      "url": "https://files.pythonhosted.org/packages/25/a9/77454d79e55c0f6435659617f5d23d257471333201d7bd4fa0fd81b080e1/thingpin-3.0.2.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "11.12.5"
+  ],
+  "meta": {
+    "description": "Detects file modifications to any imported module; useful for auto-restarting during development",
+    "homepage": "https://github.com/ludios/Pyquitter"
+  },
+  "versions": {
+    "11.11.11": {
+      "sha256": "8faf8b198d8e6f49a293d5e68d53fcf68a188709360bd2143c977bca101c6b41",
+      "url": "https://files.pythonhosted.org/packages/37/31/e0356452e9e9f17aa42ef40df65297adae67ab9e87dc087e6828f0f4ca0d/Pyquitter-11.11.11.tar.gz"
+    },
+    "11.12.5": {
+      "sha256": "d2d52639a71f9c7457e1a32d3e765b6040231714b47052b415daf2b4f2e3941c",
+      "url": "https://files.pythonhosted.org/packages/19/e1/609d1d756bbc0aa8dbb6421268847b18373452fe429cd2c60bf49aa70883/Pyquitter-11.12.5.tar.gz"
+    },
+    "11.5.14": {
+      "sha256": "29542614c13d129faac4bd5f7404e28e60b0183c6f4a7156460f4b85d1725f4a",
+      "url": "https://files.pythonhosted.org/packages/02/03/6d38510568dcf469ee14d508e70971c4c24122bb5882c46351a53acf5293/Pyquitter-11.5.14.tar.gz"
+    }
+  }
+}

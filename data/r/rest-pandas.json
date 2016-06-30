@@ -1,0 +1,44 @@
+{
+  "latest_version": [
+    "0.4.0"
+  ],
+  "meta": {
+    "description": "Serves up pandas dataframes via the Django REST Framework for client-side (i.e. d3.js) visualizations",
+    "homepage": "https://github.com/wq/django-rest-pandas",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "a9511c625ed0cb2d383cf77962e39f254967d354bd61e45f9df5c834beabec49",
+      "url": "https://files.pythonhosted.org/packages/a1/d4/85989083007d661938c9a129b9ed85d9827d225e4e11909327b881b7cb20/rest-pandas-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "aafd0987adb42b3d4dc1cab519b21ddfc976bf62e670fc7b0c6e2e8ead1d569f",
+      "url": "https://files.pythonhosted.org/packages/51/47/ea760891e5f74814b8506225f7360e75ab775cedda240a4d12dd98d23a35/rest-pandas-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "055dcc7791bbbf043f7e7da04dbfa02e488d5edf09d8f491bc1c441bb8dc4e38",
+      "url": "https://files.pythonhosted.org/packages/8c/2d/7eb1e25745ff072a20b281c06f6b9523f232cc3db4f46e637f80ec4b6ce3/rest-pandas-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "34138a9d431e48253fae0d754bd9b4287a9dddadf8957b600f04940b6e9f4e94",
+      "url": "https://files.pythonhosted.org/packages/ed/3e/a825c2eee7b3e204da521a79fbee15f77974d696c3dc3afe1ff54fdff22e/rest-pandas-0.2.1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "a9d1b7b6c32cd89cc68d8a259b12cce4c42baceaaccf9421e3a7938090c57803",
+      "url": "https://files.pythonhosted.org/packages/b8/c1/39491f070e400022425676becbba0809946602253d83bf2018095a620228/rest-pandas-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "f7314223df85c9171a8aa2ec116c2dc2fbec83a8a01466e9032507c94d1e3dcf",
+      "url": "https://files.pythonhosted.org/packages/df/f4/38c1dbc7b9d2fc0cf7d15483abf386b5d34548a1f99857901b854caddef3/rest-pandas-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "4ccdf2b653ef335e05ccdcac55a0e94b76edc4350daa116b14ba787cfcc9c74b",
+      "url": "https://files.pythonhosted.org/packages/88/02/c2df5d1d30f4e480739caa4c649a7b6b2a337cb694b775fb727022854018/rest-pandas-0.3.2.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "22a4953c14119040e70ac2af85306aa120c6bea3676ef42adac206659b0028f3",
+      "url": "https://files.pythonhosted.org/packages/8d/7f/3c997bf9bef2cfa696a88aa938239d10262b569fc3dea783deb248f2b35f/rest-pandas-0.4.0.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "latest_version": [
+    "3.8"
+  ],
+  "meta": {
+    "description": "SQL-based implementation of WorldCookery's Recipe content object",
+    "homepage": "http://worldcookery.com/Downloads"
+  },
+  "versions": {
+    "2.8": {
+      "sha256": "3b709ddd85963b7bdcfdbf762f191a22b49758010e95c98b16269b330324cbbc",
+      "url": "https://files.pythonhosted.org/packages/c4/49/05be11b44423fc7072ffc29b51a8c9b903689a62649e3f65efeb626e913b/wc.sqlrecipe-2.8.tar.gz"
+    },
+    "3.8": {
+      "sha256": "0d2a4ff3cd41e043780795ae54cc13fec7811e6989568daecefd93edc7fa9522",
+      "url": "https://files.pythonhosted.org/packages/52/98/63de2d794e83fdb2aa3348e44f89c6710b13c65b47af48ce97838e677e8f/wc.sqlrecipe-3.8.tar.gz"
+    }
+  }
+}

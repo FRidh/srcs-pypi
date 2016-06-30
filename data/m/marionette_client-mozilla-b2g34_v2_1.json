@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Marionette test automation client",
+    "homepage": "https://wiki.mozilla.org/Auto-tools/Projects/Marionette",
+    "license": "MPL"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "3e381064c63dabecc57b8ed2a4ed216f2d5cb7338eff9bb114702893610e74e9",
+      "url": "https://files.pythonhosted.org/packages/2b/ff/ee7d856a97753c71fcc0e2b53b47fa5d455a116886211537a8eb87e8e037/marionette_client-mozilla-b2g34_v2_1-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "9420a70d9f02489ae430acfc6f7492a9b3f79b38e4e8f4f6c42a4a3c332d3a37",
+      "url": "https://files.pythonhosted.org/packages/e0/90/475cd7c82275bc24826e0cfd17946f626ecdf7af31323ea6dff5e818e7a5/marionette_client-mozilla-b2g34_v2_1-0.2.tar.gz"
+    }
+  }
+}

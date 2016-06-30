@@ -1,0 +1,208 @@
+{
+  "latest_version": [
+    "2016.2.1"
+  ],
+  "meta": {
+    "description": "A collection of tools for Python",
+    "homepage": "http://pypi.python.org/pypi/pytools",
+    "license": "MIT"
+  },
+  "versions": {
+    "1": {
+      "sha256": "f83841e1e227311235477a569d880bd49771aeac67301348c608cc5b7ecd4bee",
+      "url": "https://files.pythonhosted.org/packages/43/42/310be754fb4c55d835bf6ba6804c0678f0f314b8b059b639a130adb35c7e/pytools-1.tar.gz"
+    },
+    "10": {
+      "sha256": "710bd36b0e1bb1e07af80fab63e76aa4e980fb0d3492c8bf9576f92c93340ed0",
+      "url": "https://files.pythonhosted.org/packages/46/6f/5174afbd3ba08d506c6767dbc8f3c43fa873e134ba440a31665e9fe5d25c/pytools-10.tar.gz"
+    },
+    "11": {
+      "sha256": "0ed356f87fa93adf12c8ead3017ac42aa88971572a2658947ed3a42dc2f0f47a",
+      "url": "https://files.pythonhosted.org/packages/5b/e5/d8b1597b74ccb8ddc6b72a1954536ee6348de179d157218247063918ac01/pytools-11.tar.gz"
+    },
+    "2": {
+      "sha256": "9c86b473532cc2954bd5bce4135d4847450d2e04945aef60bb8474f454218c4b",
+      "url": "https://files.pythonhosted.org/packages/81/40/0149db69064cb5d3858dd044892d16b5f9ce6b0fddf78712e1361de25208/pytools-2.tar.gz"
+    },
+    "2011.1": {
+      "sha256": "2d4949628f42d155890eb89184b0a46e5bc5b188ae0ef423015941f8955b17fe",
+      "url": "https://files.pythonhosted.org/packages/80/48/b4ae6fd5726dcb8bf89896fa1d3b013f1d301d405bfae3a96d8b1af02b8c/pytools-2011.1.tar.gz"
+    },
+    "2011.2": {
+      "sha256": "501c6175997f36475a719dd38271628cf44ca2eda9a67b00581d122b29ba6ba2",
+      "url": "https://files.pythonhosted.org/packages/72/cd/86099cb2b7babd6642a99d7ef69f25bbff1b28f3086f044a85cc375f0213/pytools-2011.2.tar.gz"
+    },
+    "2011.3": {
+      "sha256": "e84bec34fc80620619e5744c946da21adb117266145b6462b0361c44984b7b44",
+      "url": "https://files.pythonhosted.org/packages/9f/62/7321273e9d6449c816e4235e7139300b75d5922b29031f21f54c2fd5380e/pytools-2011.3.tar.gz"
+    },
+    "2011.4": {
+      "sha256": "a7c291df6393905fdcd8df05cc4053baca40c90e2e94cdc166f4461756f535a6",
+      "url": "https://files.pythonhosted.org/packages/08/9e/663db3d9968ade83db422fcd6a5dfa6b5c783546b8d3bc0c3eb14d6db2b4/pytools-2011.4.tar.gz"
+    },
+    "2011.5": {
+      "sha256": "0727353bc9bb2b1386505f85b43be97efeba4829327e09146a918b404d24057c",
+      "url": "https://files.pythonhosted.org/packages/3a/42/b4418637537f958045603c36305fbc6c6c6900ff707fb635820f675d05ef/pytools-2011.5.tar.gz"
+    },
+    "2012.1": {
+      "sha256": "4738e5c8b3b5e3f03a392f12abb157053e3134fd777752eea334c496bf485136",
+      "url": "https://files.pythonhosted.org/packages/39/fc/24a8a47080a44b95dee5ac135104b8dad77cd22d21d5cbc34f42cff9cb3d/pytools-2012.1.tar.gz"
+    },
+    "2013.1": {
+      "sha256": "4457b881baec65166360d4b3ae6851d55b3464ec369ed30ce2a42e53d5e5ed1b",
+      "url": "https://files.pythonhosted.org/packages/1f/1f/de5256bf17f083e4e5d3dde69ed8192d8b6011e07bc2acfaa4018e6a963e/pytools-2013.1.tar.gz"
+    },
+    "2013.2": {
+      "sha256": "545767386dc93a67ebb0db5bcd9a3fe24abd980e0b939f98f76765191e9980e7",
+      "url": "https://files.pythonhosted.org/packages/a4/8b/10594943b9fcfb4d56d1b6a9d69189e791e38ac8a5da036c9a280d0b3f99/pytools-2013.2.tar.gz"
+    },
+    "2013.3": {
+      "sha256": "171c354ea4c4499c08eab1af72b4ddd6cdc08f5f35899fc483cf621b04e85a9c",
+      "url": "https://files.pythonhosted.org/packages/8d/2d/5e20db90578b2da2b456ae525af70e80d3efb71ed78731118a046fda6265/pytools-2013.3.tar.gz"
+    },
+    "2013.4": {
+      "sha256": "8f5f3a5d3d5aa228f4e0b6d7959827d9a3a2d75b853dc8819135a53089c9e78a",
+      "url": "https://files.pythonhosted.org/packages/52/d3/ac539cae45b57fa0f77b80384a0bcf67520eed1e1534748a43f699aae202/pytools-2013.4.tar.gz"
+    },
+    "2013.5": {
+      "sha256": "5e7e47475bf55fc47d65a7001454511d2c7a279494de50968b8e6688b47ebe9e",
+      "url": "https://files.pythonhosted.org/packages/0d/9a/936cf12dd100483a235d89b6fc8e893ace902c5daefea8d403390ddca5b7/pytools-2013.5.tar.gz"
+    },
+    "2013.5.1": {
+      "sha256": "74e92e3b713d3871bad7a361d0f7d0e47132f2514c413d082ce8ad8f0dceb0eb",
+      "url": "https://files.pythonhosted.org/packages/32/2b/355051f4fd63f89e6f6a016fda5ebd4484b3bf4ad17d40d3c3d6e8fe6d67/pytools-2013.5.1.tar.gz"
+    },
+    "2013.5.2": {
+      "sha256": "dff1a84564ac7d565d2251a6debb7a251b262944841a0e9d6efe7ca5937c2170",
+      "url": "https://files.pythonhosted.org/packages/a6/f4/eba6007e1acc8de0c7d586cfef38d2966f1f015d262d4f1b2d0edeac51ea/pytools-2013.5.2.tar.gz"
+    },
+    "2013.5.3": {
+      "sha256": "165099211f11809360e7b9f2065442c77cba77d5f1cb21056abdc3568bf0428a",
+      "url": "https://files.pythonhosted.org/packages/a9/1a/7f903538fa63dedcfd4231dfaac745c25203e21c360054dc7a2349753c04/pytools-2013.5.3.tar.gz"
+    },
+    "2013.5.4": {
+      "sha256": "30fd2dd423e88301fe0d3ffb97d2c0d69bac102c2afbdf7eff5008158d237030",
+      "url": "https://files.pythonhosted.org/packages/c6/c5/6c2d3a358c230aad9e13d4060af0616174353a1cd66740397ac3ce985871/pytools-2013.5.4.tar.gz"
+    },
+    "2013.5.5": {
+      "sha256": "862ed5cc936ffa6ea5071f417e9d2be4f1fa4236b06da26caddfb4f186d44969",
+      "url": "https://files.pythonhosted.org/packages/8a/64/6ec9eb6e24473bbbcb150d88bf96ca65b5d9a36a2c986af5108118426fbe/pytools-2013.5.5.tar.gz"
+    },
+    "2013.5.6": {
+      "sha256": "e15dc874f9d8b3f13cf6297e509eaffe722c459cd92a39858813b8dba55bc77e",
+      "url": "https://files.pythonhosted.org/packages/8b/b7/92220ad1492bc0338c1fdadc34a5df3125f9e297dd615f68e7d8c227d7d4/pytools-2013.5.6.tar.gz"
+    },
+    "2013.5.7": {
+      "sha256": "00165825fd5792a1929d2a8ef1c1fca9f14607262b4efdb1c936536e7f0020ee",
+      "url": "https://files.pythonhosted.org/packages/45/86/dd23b8c3967a9d4fb27b2260fffc102d1e8d15e7a5a6e1d3c973d7e423cc/pytools-2013.5.7.tar.gz"
+    },
+    "2014.1": {
+      "sha256": "17e107cd3260d4076e3c0e20cc40fd050bcf0c393bbd6b54325bd4b4f9441e8e",
+      "url": "https://files.pythonhosted.org/packages/f3/3e/3948023e849d5cbcf9e49b0cc3861c435b83f9fec77b4d682cecd71ceb12/pytools-2014.1.tar.gz"
+    },
+    "2014.1.1": {
+      "sha256": "c449acb478b922a0e9288c8bc13a4f75d0fdc479aa1ed2e3275e87e023ea5456",
+      "url": "https://files.pythonhosted.org/packages/25/d0/7de6bbda5825a9cf0ebf41638c7998582657a156da2b1ec40e74201017e5/pytools-2014.1.1.tar.gz"
+    },
+    "2014.1.2": {
+      "sha256": "1d9fcb041bc84b0649c9c2fb1818c5814557a54d65c5d4f7151276d04928e0ff",
+      "url": "https://files.pythonhosted.org/packages/48/b2/84f96ae094343cbd2faf263e3878eadbffbb2f63a4b748cabd0f2b8c959b/pytools-2014.1.2.tar.gz"
+    },
+    "2014.2": {
+      "sha256": "dbfe0f37271d6453cddb8193cc6c525a2a42aad6bfb96680a6be5c9adde77674",
+      "url": "https://files.pythonhosted.org/packages/71/62/5ff422c41451443885b1690e20633fd2d5f58fc902b50e2f12123d1ad2a4/pytools-2014.2.tar.gz"
+    },
+    "2014.2.1": {
+      "sha256": "5c730afc8fa090f6960cbc7f2c6261fe85937c1d53e260399b5495bc8bb20b38",
+      "url": "https://files.pythonhosted.org/packages/ca/49/5e41b03b992dda83a24cb158d4b395156ebd4e6a9ee0f594f6075220b503/pytools-2014.2.1.tar.gz"
+    },
+    "2014.3": {
+      "sha256": "c4990633e3523e778018a8b8af04a3ca916305f5847e44401a997fa10f1de707",
+      "url": "https://files.pythonhosted.org/packages/44/f4/63942978dc5337333bd4a6ba901aa011294f5fcdf59c742be1606ee2f829/pytools-2014.3.tar.gz"
+    },
+    "2014.3.1": {
+      "sha256": "e846771620430e3fdb9d5470a22caeb612ceb0d344ef54fbd1acdd24d4d54d2e",
+      "url": "https://files.pythonhosted.org/packages/52/29/a5659e09d97f016b8c9b5e05305ccf27cb638a809cd84602cf7fb1e9bf71/pytools-2014.3.1.tar.gz"
+    },
+    "2014.3.2": {
+      "sha256": "e1a4aee4299fcaf104728e7797c6d6ff3bbf902124b597637cf8fe4fe931a2d4",
+      "url": "https://files.pythonhosted.org/packages/28/30/a903bdf9bfadb332f6edb87d6c45c8e924c4efb0107d821e4b91125bde30/pytools-2014.3.2.tar.gz"
+    },
+    "2014.3.3": {
+      "sha256": "7196402d604ed53107019f17375392e4a2282d045ce2c3fc9551aba7af026f11",
+      "url": "https://files.pythonhosted.org/packages/4c/1b/a376766602016d4b0886b5b184ee4c169e0b7af5285f5cc06789ee4b2d5b/pytools-2014.3.3.tar.gz"
+    },
+    "2014.3.4": {
+      "sha256": "4f0d32acca9c044e3db63aae604552690869917ef2c7ffb0ef965162bf21a5b4",
+      "url": "https://files.pythonhosted.org/packages/65/92/2c38a1d2749b1ee023d4231ca492febbabfd61dcdc7f216cfdc1fbf5380c/pytools-2014.3.4.tar.gz"
+    },
+    "2014.3.5": {
+      "sha256": "62a77a3c1865d5254ce212473da2af04f43d82eb0020ae9a009f97408e74968e",
+      "url": "https://files.pythonhosted.org/packages/2b/ca/483007232b48334f6502f9869d26ab78e1107e62b5d74697ae340dbd277b/pytools-2014.3.5.tar.gz"
+    },
+    "2015.1.1": {
+      "sha256": "930c060cf0ba6f3e7f616af71b7f75c8d5f9e3bc6e0e7e7b0fc41b3c36089ffc",
+      "url": "https://files.pythonhosted.org/packages/e3/08/cc2de0d76b532022bbeccca26816b5cf299d7e5660f192b23a4e63782832/pytools-2015.1.1.tar.gz"
+    },
+    "2015.1.2": {
+      "sha256": "ebf5426c13e14a35d6028b33686017b3e840a4ded8227d547a087cdcacd639f1",
+      "url": "https://files.pythonhosted.org/packages/ee/5b/0ee8ef2b59796f364b0b5902892de151c6bdde98918e0096f3b61d210abd/pytools-2015.1.2.tar.gz"
+    },
+    "2015.1.3": {
+      "sha256": "c29dba78c85e0f4fa1f16ef72d79ce9f7e8234a105f6efe11a4ac06ad2ed4e64",
+      "url": "https://files.pythonhosted.org/packages/89/8f/ddb55a3f896f551b3c71d31a7a028b88629f850682e2861765dc329c5fea/pytools-2015.1.3.tar.gz"
+    },
+    "2015.1.4": {
+      "sha256": "e3869b4c8a80dd96ddafd4c00d2a005e924a6687396ab6560c15296da8c00443",
+      "url": "https://files.pythonhosted.org/packages/f1/4d/24b3c5c7ad3e037b58db42868d51389a9366956ba78619b7755140e4acd5/pytools-2015.1.4.tar.gz"
+    },
+    "2015.1.5": {
+      "sha256": "3b9dcad874518da91a57226620d391ecf5a54986586cedd93115d2e71a5be091",
+      "url": "https://files.pythonhosted.org/packages/ae/b7/52278e9da77a0f7ff198267ce01648633e587d45e586953f5038b91a650e/pytools-2015.1.5.tar.gz"
+    },
+    "2015.1.6": {
+      "sha256": "3ef1f4ddda888919dd81f49e20ef745be371636cfb6cf86737bbe514fb4d607c",
+      "url": "https://files.pythonhosted.org/packages/d6/cc/ba03b022f7be6c0ae902a0f1f5bd4cb662f91532358a6abd4cd3c46f0850/pytools-2015.1.6.tar.gz"
+    },
+    "2016.1": {
+      "sha256": "084feeb68171fc36ddb40f27c4ad5b60d3596716a5f3ad3523257a0d27a351cc",
+      "url": "https://files.pythonhosted.org/packages/f7/ef/f0cafe12914a3738d09786e1ca8c675305815f9829940e5d441243034692/pytools-2016.1.tar.gz"
+    },
+    "2016.2": {
+      "sha256": "54baee0b08944efe52365bfa35be79e70bde874a9b8bcc4c6633f4ef931d2a2f",
+      "url": "https://files.pythonhosted.org/packages/89/84/86e864debc9af9d92f4eecb778f7151c0f2b150a3be921466db26244f8cf/pytools-2016.2.tar.gz"
+    },
+    "2016.2.1": {
+      "sha256": "8939d4a81e17ca30968126e9614100ab38df926b251b96a0b4736234195cca19",
+      "url": "https://files.pythonhosted.org/packages/1a/1e/ce42d53bad97ad16732c8d9ac1dd6ed22a906ea07f291df5f6f90a6c7a2a/pytools-2016.2.1.tar.gz"
+    },
+    "3": {
+      "sha256": "e58183a7c0674d065ae93ee9c7060ac67d3fbc5690e4e85969b478186e4fa7f6",
+      "url": "https://files.pythonhosted.org/packages/4b/3c/4aacb4037ecaafda56e1a93a28198f780635a33f429b80d348798be92dec/pytools-3.tar.gz"
+    },
+    "4": {
+      "sha256": "b168f370bed53a82e1b0263743888451c7edcd2ee9d765bbdd477b7dd4ec0978",
+      "url": "https://files.pythonhosted.org/packages/71/b6/901d15e49f99b472514be912a2742eee8095c3ce53f119d4820df4a347f7/pytools-4.tar.gz"
+    },
+    "5": {
+      "sha256": "1beff0d5ba55f11e493cbd2c1084a2a8c04b6ad8ceca2d43da9bb3df2db5389b",
+      "url": "https://files.pythonhosted.org/packages/02/d1/e4e3e5bd04c34a3f3e8c0319da20f57ffb886cfb4654422bcf2d2dc75210/pytools-5.tar.gz"
+    },
+    "6": {
+      "sha256": "e894be09ef48286d459a0fac8d69d91e62e45eac0667d03d6c1e5bc37e332ea0",
+      "url": "https://files.pythonhosted.org/packages/c7/c3/e3d7280d287366d427b5853cee13be01b2b6df8baa460e7a7390c976abc9/pytools-6.tar.gz"
+    },
+    "7": {
+      "sha256": "a2a5401720a7d637082c2a000bf29d8a9422c2f794791e3efe32de8a83cb60fc",
+      "url": "https://files.pythonhosted.org/packages/4a/e0/8d787ee9b6377da4d91852d84c28f98b044e6f4af6a03bbc9b220e31ff76/pytools-7.tar.gz"
+    },
+    "8": {
+      "sha256": "fa261754fb76134f119f2325e088cac847a5c4a83a55ccf33f255b927315217a",
+      "url": "https://files.pythonhosted.org/packages/5d/96/3820f7161c88127dc6526f8b77ca59e96d5aaad293ef998ff358b9489d69/pytools-8.tar.gz"
+    },
+    "9": {
+      "sha256": "dc160998f3b13b437e78c543800114b7b7842988b6c707216dc9348e00261f47",
+      "url": "https://files.pythonhosted.org/packages/0c/60/157bb14d7e5e75e9b541d43d02c0a63414d434fa32d4eaf46a00844663f8/pytools-9.tar.gz"
+    }
+  }
+}

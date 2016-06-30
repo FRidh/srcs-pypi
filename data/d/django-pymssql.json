@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.7.1"
+  ],
+  "meta": {
+    "description": "Django database backend for Microsoft SQL Server that works on non-Windows systems",
+    "homepage": "https://github.com/aaugustin/django-pymssql",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.7.0": {
+      "sha256": "6d926bd7ea3e8e1fba6f55e52d1b1f330b891f95ee551c0f3864b12220d08f46",
+      "url": "https://files.pythonhosted.org/packages/af/73/27e65d5cdcf335acb6ebeb7d505e7dca1005bac56876986efc161fdc545e/django-pymssql-1.7.0.tar.gz"
+    },
+    "1.7.1": {
+      "sha256": "cdb801c253aedc76052a6ee828dcdda70ffad815080a5b5357453aa2bb96edbf",
+      "url": "https://files.pythonhosted.org/packages/e1/3d/732178407fff0f68f51da045d1528278abfdc2871d9ef0d273c4e01c32ec/django-pymssql-1.7.1.tar.gz"
+    }
+  }
+}

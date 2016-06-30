@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "A simple Flask extension implementing Olin's authentication",
+    "homepage": "https://github.com/wcdolphin/flask-olinauth",
+    "license": "MIT"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "f18c33d703da86884364033980c48603e4e7191bb9cdfeea2e10200ed8404e25",
+      "url": "https://files.pythonhosted.org/packages/34/06/3f3690469091111ed654ed0abaa40be718d8335889a9456a12151f37288a/Flask-OlinAuth-1.0.zip"
+    },
+    "1.0.1": {
+      "sha256": "e6b454b9cedcd2231ef4a2f37a54e1976598f219f3d9997fe8a27b1f488d545e",
+      "url": "https://files.pythonhosted.org/packages/84/1d/60c0c0bf4a745ae7c1c89b1a361fe16d497accd02f6b990eb519ca584056/Flask-OlinAuth-1.0.1.zip"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.3.2"
+  ],
+  "meta": {
+    "description": "Tools to reversibly replace functions / objects with proxy functions / objects for debug, testing, monkey-patching",
+    "homepage": "http://packages.python.org/pyjack/",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "c1d52cd22177863a1711801a6dd6900151e6149ae9fa4706a5be7ef25cfccdbf",
+      "url": "https://files.pythonhosted.org/packages/05/bb/6dfe0e392bc0c1f1cfbd58e33a7e919906a98dee39affa46ec3e5744993e/pyjack-0.0.1.zip"
+    },
+    "0.0.2": {
+      "sha256": "e517ec3d0fcb46dfffbc0746dbb28e08af89abeb013299c2a3037cb3034619ea",
+      "url": "https://files.pythonhosted.org/packages/80/25/4bccbbc098d3084d5dc5418438cd23abe9ac04fdf5e30715262ab9b70afd/pyjack-0.0.2.zip"
+    },
+    "0.3.0": {
+      "sha256": "7286dae52193c393fc3bc654b008fa3cdd38be71e717cf1a1bc47e9b7eb50938",
+      "url": "https://files.pythonhosted.org/packages/d6/6a/d609f9108b520245e6c3c5cf16e226eb1d786b7ffa776f8788833bbc4717/pyjack-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "970db4820af0bbeb13e72abca381065cc4695a21a410863d518b086b9f3afa4e",
+      "url": "https://files.pythonhosted.org/packages/25/88/d3fd058226fd94e7d44d0cb97b1485c422097dee699ba52796cf8809d160/pyjack-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "1c0e55c66f69c89edcc7f24ad806d7712e702fb10adc1868285ec25971c5bf3b",
+      "url": "https://files.pythonhosted.org/packages/1a/8f/b51bba149c353b55a5ccea1d7c3040be22913d2d5bb9057f992e1e87784e/pyjack-0.3.2.tar.gz"
+    }
+  }
+}

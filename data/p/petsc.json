@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "3.7.2"
+  ],
+  "meta": {
+    "description": "PETSc: Portable, Extensible Toolkit for Scientific Computation",
+    "homepage": "http://www.mcs.anl.gov/petsc/",
+    "license": "PETSc"
+  },
+  "versions": {
+    "3.7.1": {
+      "sha256": "4c1ae29e6f58562f08540fbdd5958759f1ff09d561c6f90d6896875f1c771bec",
+      "url": "https://files.pythonhosted.org/packages/ed/67/692027c1bfc2b418eceea8a4d6d505104735ef85c3ac281b118bcb80839d/petsc-3.7.1.tar.gz"
+    },
+    "3.7.2": {
+      "sha256": "ad4cdc761ebc337cd1a461c685c7df12cc90b8a805fc1a63e04f7dd2b2c1d949",
+      "url": "https://files.pythonhosted.org/packages/4c/b8/96f4b32700d653d0e7a6018dcb34c3aac1c7ac0e367a3b9f9dbc05b6797c/petsc-3.7.2.1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "latest_version": [
+    "0.6.1"
+  ],
+  "meta": {
+    "description": "Simple zc.buildout recipe for sources in a git repository",
+    "homepage": "http://github.com/zerok/zerokspot.gitrecipe/"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "4858b2951e33256a42c6fe42d890516e06400b942da216bab20f7a0ab87cfff0",
+      "url": "https://files.pythonhosted.org/packages/a4/33/9e6a864e3dd329b5d8d109256caac3d3ed189aee705c3008efa41b48e216/zerokspot.recipe.git-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "5ce1d95def2a84ae3ed0eb7f55ef00a98cd07c0b15e7a24548e942e99f61c68d",
+      "url": "https://files.pythonhosted.org/packages/f2/dd/57be959968c3c390035e16649e3a88e52fc5bf59ac171bcc41675eaf8a64/zerokspot.recipe.git-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "4b9d98defb2a743c2504a3c9b4581f588c54048873e186598ee221281ff308c7",
+      "url": "https://files.pythonhosted.org/packages/99/b6/10269e4ea398dbf672457486e5eb4038fce798a291f0a23be98ed9ae77b4/zerokspot.recipe.git-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "f3082c9a718b9bc5870c9035c5f71ae2b13c78aaf748c95b4863a6c155575d49",
+      "url": "https://files.pythonhosted.org/packages/92/f5/e9a1669ccce7df23066abd8a11561f65fe4d88698adfda5c8fe20e83c4e7/zerokspot.recipe.git-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "09a184043c2d5a7bb718be5b76a23c46a0a7d33e9fe0159d95300a224245fd64",
+      "url": "https://files.pythonhosted.org/packages/20/6f/34103539c9b17725396816b8abeabcf1416e135fa70a0456ac9225b99b1d/zerokspot.recipe.git-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "775d014e6e90e1b7884f3d7befc2d2b22868c1a3ab665ea6caf7c6652a316b7b",
+      "url": "https://files.pythonhosted.org/packages/25/1a/26184cb69de0ccdbd59caee2ca3479d18f9046456e1a27c80600576c0a79/zerokspot.recipe.git-0.4.2.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "c73d9bb680d8a45a3665690568a60e46b5853fc23d26b6353fbd94f97d056026",
+      "url": "https://files.pythonhosted.org/packages/19/41/176e68bdafc9bf4814fd5582c40e2521252f3fbe65e1fd8718d63e8b7538/zerokspot.recipe.git-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "6331197f478959e7282615c94a8c5349955f7ffe6060e08de19cf3d0a2ddf39b",
+      "url": "https://files.pythonhosted.org/packages/02/63/3a3dc7fbde7d33813bbbb007b4b26b01d1e46f530222be4fabeb23e7be9e/zerokspot.recipe.git-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "616ae3e3f4aa5c8c16efb3100f6aab07bb0f6e52141c492b0b92017cf2dc2138",
+      "url": "https://files.pythonhosted.org/packages/1e/36/490a9d82fb1ff46f353efbf002e8704da31b01bebe0e2f5ae3d0eb13fe57/zerokspot.recipe.git-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "33f568bb36a82863b21dccf1db34c4a8c28599e10be23e86c67100c46aab18a5",
+      "url": "https://files.pythonhosted.org/packages/7d/1a/617f84441d64cc30d36a9cc6d134869f480d2fd969c749c30ce4475580af/zerokspot.recipe.git-0.5.3.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "937c4afa39c0af5da362244097d397a09db068422e1e77f992f2be256c441b77",
+      "url": "https://files.pythonhosted.org/packages/b2/06/623b07af7ab7ae8c2066524fc207fcd06ef2a0d66d6d6611d4e14d5aaeb1/zerokspot.recipe.git-0.5.4.tar.gz"
+    },
+    "0.5.5": {
+      "sha256": "bebe23a1f91d9a769be7833a579b94b17cd7be3022a4312fc4e21e3f2e9e6ddc",
+      "url": "https://files.pythonhosted.org/packages/e2/92/85eefd3fcb1f695525c0c8528f0d0aeb0df341e415177d438c2e81770b09/zerokspot.recipe.git-0.5.5.tar.gz"
+    },
+    "0.5.6": {
+      "sha256": "29058100a9c20b4670199eb32184ae6e3a76929e6640e469bf30a106ec6bbbb5",
+      "url": "https://files.pythonhosted.org/packages/20/6b/63dc5c66a3b72364701d5c690cbe952ff207c5eef6ab6147cc0743c910b4/zerokspot.recipe.git-0.5.6.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "167094c0c10aa96d5093a8e533427bef303094eddac957ebf7b3291ceb94e1e4",
+      "url": "https://files.pythonhosted.org/packages/bc/6c/8f371de05263dcf0518f3481ad23a615bd8a301bc69c527ab4c97bd07c8c/zerokspot.recipe.git-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "0bd7330619156d5b686f839e3219c17ccd1cd3207bbf013c9572c9dfc2cad08a",
+      "url": "https://files.pythonhosted.org/packages/e1/f8/99d0f2b658dda3628f3c20b72bbba47deded2252231aaf9036597f8dfa1b/zerokspot.recipe.git-0.6.1.tar.gz"
+    }
+  }
+}

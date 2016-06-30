@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Consistent hashing implementation compatible with the ketama hash ring",
+    "homepage": "https://github.com/ultrabug/uhashring",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "72d5999006e44a38a1cc0a99e9f5ac81d893948abb32752090936ffd89af7cdb",
+      "url": "https://files.pythonhosted.org/packages/9c/99/aad58687633fc0bdd8de798f44111794ee3f502fbb7c66e07b13c0bda1fc/uhashring-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "e903d39ec2890e84fb289f1f9a6e8568f9d71e1324511797dee0ef5266222036",
+      "url": "https://files.pythonhosted.org/packages/08/bf/3ef22c5b36b8373211defa8e7fc60458bb594327adfd050d929d0e1db692/uhashring-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "24c497c577469eda89cc0e732bfee4d2f7e020a490287ab526cde8306918fa1f",
+      "url": "https://files.pythonhosted.org/packages/27/13/0bb6fd92b9e345b7699fcca34564e2c60f60bc04df0122c7138d746553e3/uhashring-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "da0555e752ce259042d2de8ab7b6b07e280bc3532d76a8589e31dcfdc382e031",
+      "url": "https://files.pythonhosted.org/packages/de/a7/26420bb2a7631a23382828ab6eb74526af10391c93383c33c411c2ba3a3a/uhashring-0.4.tar.gz"
+    }
+  }
+}

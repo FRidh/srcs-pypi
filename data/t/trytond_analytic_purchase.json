@@ -1,0 +1,104 @@
+{
+  "latest_version": [
+    "4.0.1"
+  ],
+  "meta": {
+    "description": "Tryton module to add analytic accounting on purchase",
+    "homepage": "http://www.tryton.org/",
+    "license": "GPL-3"
+  },
+  "versions": {
+    "1.8.1": {
+      "sha256": "113b882cdb31a626c5cc7085093b77c966951b65884582deda47ab0629bf53db",
+      "url": "https://files.pythonhosted.org/packages/3e/99/845682d8cd59e284eadb9637d7ff3b2f0ee14fa0a934f15d209f8e3e475c/trytond_analytic_purchase-1.8.1.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "bb7f70cc4abfaf432a51b4f5636beea8fc597057910691cf89d94f743465d321",
+      "url": "https://files.pythonhosted.org/packages/8a/f9/c5617dbf55eedc47a34ad9ffa6b500576de6b7a8832c986fb6837705738c/trytond_analytic_purchase-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "529d2f22feed03c36d28b89fe3e85998f225d2c7aa42c86607ca90de8dcebe83",
+      "url": "https://files.pythonhosted.org/packages/25/4a/e652fa91740ed216da4938a4765a405f728cf836d18b6393eaaa612891c9/trytond_analytic_purchase-2.0.1.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "0eee4441aabca39cb99fa6125b3435d59ded69c9821edf20d2b5a67303a5bf51",
+      "url": "https://files.pythonhosted.org/packages/4f/a8/1ca5286c171afc7afd4ac0ad89171a49e56f9d5973a4ba3a4e69a60dcd20/trytond_analytic_purchase-2.2.0.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "18ac594b461813270a769bd3549c04f35a701a4018492b63685651f4d7541d94",
+      "url": "https://files.pythonhosted.org/packages/43/3e/f6264e991aadb72b999bd8c918a81e7b0a29606b95185b69e1c489a172ab/trytond_analytic_purchase-2.4.0.tar.gz"
+    },
+    "2.4.1": {
+      "sha256": "9f3bfca6f8cf6c41d88931bea72577a4bece4db57eb76124025b70d3ed4fda0e",
+      "url": "https://files.pythonhosted.org/packages/ac/6d/caa5875bb2cabcc6ab0b5d1f73b09270f6a320cee74b9c3e0c2118e38ab8/trytond_analytic_purchase-2.4.1.tar.gz"
+    },
+    "2.4.2": {
+      "sha256": "ef3147f8efe74140d9058a56c390ef4deeb740b446be85fe9bec1ef18cfeb4ae",
+      "url": "https://files.pythonhosted.org/packages/43/d1/959ebbb4298d0fda091d924ff4fa2fe4bedf5b0bace03045785dd5f04332/trytond_analytic_purchase-2.4.2.tar.gz"
+    },
+    "2.6.0": {
+      "sha256": "62c00305596f49832fc94ad78fc5fdd6f4567b52f7a1e28b1d98385a1d5e924b",
+      "url": "https://files.pythonhosted.org/packages/c2/ca/87a2daaf66fa6c37df11d43a6b0d8731574c55b52ca0fe691e59fd6f3619/trytond_analytic_purchase-2.6.0.tar.gz"
+    },
+    "2.6.1": {
+      "sha256": "674f7ffe9516649f3e4ce703676db0df9b2a10e0c782e35dfbebf872561e99d6",
+      "url": "https://files.pythonhosted.org/packages/a4/ec/f18573974c66ce1f651bf8985d0f594c812f858aecf03da97ddc02e34994/trytond_analytic_purchase-2.6.1.tar.gz"
+    },
+    "2.6.2": {
+      "sha256": "992212344622d8bfb8da02f1f5d74688e2c59965d489a92b6e8f1d040ce65908",
+      "url": "https://files.pythonhosted.org/packages/8a/ce/13603d07f1914b208a369659dc1b54138a80e83e90767649df31df12a9f7/trytond_analytic_purchase-2.6.2.tar.gz"
+    },
+    "2.8.0": {
+      "sha256": "03ee931e09fe1e9235256e1bcd493399728d5da86da2c9cd93cbd7ff53aefff5",
+      "url": "https://files.pythonhosted.org/packages/d0/03/08f6463b75c0063a847a523a72263e257deadd370d6b60764547baf53053/trytond_analytic_purchase-2.8.0.tar.gz"
+    },
+    "2.8.1": {
+      "sha256": "9ee30fcc8fefa52659d7aa692ac9432ba6b6525dbe1c58b01c31414635e193a1",
+      "url": "https://files.pythonhosted.org/packages/6a/7d/47378e784c7ff0502eb372fb155c1e3f3528da665ad94fb024ab17ca0b79/trytond_analytic_purchase-2.8.1.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "3a066939103f60414cc8eed4187efe624394015cdb9873a547bcc6dac834dd91",
+      "url": "https://files.pythonhosted.org/packages/45/eb/2b84bb3ff3587609f73c12e73571a77d2aa2309d317c4a8957e1cb521238/trytond_analytic_purchase-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "253778ac395563341d565a221540ccfa443ecb602c16f19eb5d7d0638a65501d",
+      "url": "https://files.pythonhosted.org/packages/c3/74/dab7440dd30fa75a45e86319f3ab51f61d8f904b01d91cdecf82f74c530d/trytond_analytic_purchase-3.0.1.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "8b7214a8bf4f6a60c69012dd8875e2aa5ff8cee855b4e1e71e224a36ed6c0cd4",
+      "url": "https://files.pythonhosted.org/packages/ad/b6/2a745ffd286a081c291cca980584f1a891708b2fce6cb1340a527f732cd6/trytond_analytic_purchase-3.2.0.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "02f705f992c41257724b0e999da024042ce7aeaa3b610271f4c60c042e540749",
+      "url": "https://files.pythonhosted.org/packages/39/a9/bedadd87df0fdf54c63d43783436176f0280a7cfca8233f914fcadb61f69/trytond_analytic_purchase-3.2.1.tar.gz"
+    },
+    "3.2.2": {
+      "sha256": "e1a8f9bd70c52fef3cddcb4bf1c3320d658b37498f8c7cc770473c64d149108f",
+      "url": "https://files.pythonhosted.org/packages/3b/fc/e33eab086f520ddab0b9c4e271eb2efe8c4131a12dcd3ade97b56276c005/trytond_analytic_purchase-3.2.2.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "c3cc42f34a58e76e5b77f3680b437dda4252d22b97e896146fe1d38f740e704b",
+      "url": "https://files.pythonhosted.org/packages/e7/a3/1675ddd67a6ffeff35e71b51974a49561e05ab816fdfba71aa511663dcf9/trytond_analytic_purchase-3.4.0.tar.gz"
+    },
+    "3.4.1": {
+      "sha256": "e115c09cccbc390261af1b79266cbce3b271500862123993a351ab203aa9a584",
+      "url": "https://files.pythonhosted.org/packages/62/02/4581e000487107965ca3c74aaaacc5f0a06ddd56988347e8cd3544652570/trytond_analytic_purchase-3.4.1.tar.gz"
+    },
+    "3.6.0": {
+      "sha256": "711149c7de8f3cc713b7fa7fe4d85fa1d5081003c2eb0d965d16d96e633b6785",
+      "url": "https://files.pythonhosted.org/packages/3e/70/a1b1e2d3055fc3c0950866ba6307f940ab7fb335c7b40f3a3c6f4237cb43/trytond_analytic_purchase-3.6.0.tar.gz"
+    },
+    "3.8.0": {
+      "sha256": "2d55f20af1b28e04c004b3b60f88351b05eee8bbd24dd099e85a86b9f6d074d4",
+      "url": "https://files.pythonhosted.org/packages/67/44/e58a51f44c4656a9d42fe95cd786c0a4c7dc216b2f17093608cfe4117af9/trytond_analytic_purchase-3.8.0.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "09fbd945030639ed49e6a58cc7eb59d0713da54e80effebb9427ce4ee4ff84ac",
+      "url": "https://files.pythonhosted.org/packages/ff/ad/d39abb720834d2f974b10c65a4d79c378b38b2ead1d8260ca510bf20014f/trytond_analytic_purchase-4.0.0.tar.gz"
+    },
+    "4.0.1": {
+      "sha256": "af328505cf8170afc3ca38dd21a401adb50bfd1c798ffcdddf05597ea9c3d539",
+      "url": "https://files.pythonhosted.org/packages/f8/d1/08b1dd6e820ea6a1f2c3e1da07fa296d979d167d7282d65db800b395a13a/trytond_analytic_purchase-4.0.1.tar.gz"
+    }
+  }
+}

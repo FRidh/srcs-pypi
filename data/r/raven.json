@@ -1,0 +1,652 @@
+{
+  "latest_version": [
+    "5.21.0"
+  ],
+  "meta": {
+    "description": "Raven is a client for Sentry (https://getsentry.com)",
+    "homepage": "https://github.com/getsentry/raven-python",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "9ed89f6a21ea61893d081e53ceaa599bfb09b636353faaed598c7d5f56e801dd",
+      "url": "https://files.pythonhosted.org/packages/cb/0f/c66357af9b567d678e059f0e7a9d14c1c3b90194ff78dd8c32a876e0068e/raven-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "9d4d4564533e53cc23c651fec3068c152dab39518f9cdf8cb688a69d03f887db",
+      "url": "https://files.pythonhosted.org/packages/7d/8f/80fe84a5f7b7e6534ab7d2744a2678bc543ba1e52059075ccd812cee0859/raven-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "37424ca6fd369e6484f3e1c69241c54d337ad5ab5173c00e6cadf5eaa4601974",
+      "url": "https://files.pythonhosted.org/packages/b2/4c/59ed903d291378b39e044efc8ae35d81999588a8853933d8cf83432892fd/raven-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "f630c24dd882f5bbca2ed3d2367d1a7dc818835d6ddd8c84b385c6a6fa4ab9ef",
+      "url": "https://files.pythonhosted.org/packages/e0/f9/0f03cf0e38122d8b9bd3fa8cfd4a1592c29fdc5a39c12f6216dd18256c92/raven-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "354061dfdabe75cfeec8a2ead26bcac9ed8aaac607b5773b2cd01b53bc147024",
+      "url": "https://files.pythonhosted.org/packages/1b/ff/fcf505c43dd692ab20e1243683713527421482e69a26b408a9d09481b791/raven-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "15887a41718a523bce68bdb21f5a0f0addebf9f76b1ed45d1c14380310f7478d",
+      "url": "https://files.pythonhosted.org/packages/d5/fe/22cfe2e8ee4af357ac3a036d9c0c58d059b6aabb1792a99e147e36c11007/raven-0.5.1.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "d0f67dbb828ea92361cab25050161c3d3e1699af81450d4fa28540d6c8de4a5e",
+      "url": "https://files.pythonhosted.org/packages/9e/9a/8ebc048bcae2d8efcf0287dc8da58c1e090035c83748c725c3877493cbf8/raven-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "f6ec979ba0a9601321589110c8d61b5cd83428785d968ae68694cf773fbaba47",
+      "url": "https://files.pythonhosted.org/packages/37/d6/3d23ebd5eaf4b5738cc37098e9433f1ecf72384cff6ff459075dbfe5810b/raven-0.6.1.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "0d639f51c9f82b1edfa6593b2e1d8023a16f73d552f3164fa7c430524988c8d8",
+      "url": "https://files.pythonhosted.org/packages/17/68/8551b76bb40e80e1dccfc3901a80718485edd9da31160ee7cf3f2e9dee11/raven-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "a79b6b869e4a36b743d951d90e6bdd6c4fa6bb2a35982fdbc9068e41553df73c",
+      "url": "https://files.pythonhosted.org/packages/14/2d/e9503fa14498e94f80feba831f285a0f0a95b92e099c25be14d5156374a2/raven-0.7.1.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "952e3ceb670e693f1ec4df076670096297119c89cebe2e48b1c22ab230f1025f",
+      "url": "https://files.pythonhosted.org/packages/90/42/92a33ae3ecebcf003de4bbeafaae07394f74547be121b9b0ae0de5df8a63/raven-1.0.4.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "bd60c26e4f947db51e7b141139fe00fc6e04159ec3462804e87ed712ab5b6068",
+      "url": "https://files.pythonhosted.org/packages/77/62/4d0ef08d45273b29544c758118ab95e7f339d7f41241bf12073187d242f0/raven-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "16884825c3bcc0ecc27aec1ea5d97c31df5b2664fac321d2db88a5a1e71706f5",
+      "url": "https://files.pythonhosted.org/packages/e4/46/5516843270cecd5de7977006bbef566853c28145bcc9e346778bc6e9ea21/raven-1.1.2.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "6134f70d9b506ba669a021acb4c7173d2c4bf26f920c67b1ab84ee3ca0928f8c",
+      "url": "https://files.pythonhosted.org/packages/20/a7/15160917d3053514a3c352a3f7bffc9ee6145de71ed3a6ea0999cd94dc6d/raven-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "bf783b02fe54ddaaf000a72f492fbd6b6d9bd06f49bac63cf498ff69afe4f333",
+      "url": "https://files.pythonhosted.org/packages/d5/e4/a4d260e2a48f329d5b5c24f76809bfbf89d62a78f92c55a73c72df80cc28/raven-1.1.4.tar.gz"
+    },
+    "1.1.5": {
+      "sha256": "0af9a643a0bf109c2da0d97866b33968aba4fa0a85b3eb144e163676585468b9",
+      "url": "https://files.pythonhosted.org/packages/f6/54/51ccf87a0fd85442fee4db18a82964c011214a606cbe0a9f5ac97eb674ce/raven-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "1ba9c1f645663631472be53549bbbe9f58499c869e0623da18056969da99abee",
+      "url": "https://files.pythonhosted.org/packages/71/a5/8dd789b5dc7343dca6d9d5145a66466808b120de81dea27914ad7a22feb5/raven-1.1.6.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "cd206e86d27b8c8d02b767d6679385d3067999d8909dc65f6ea8a61de9ea1242",
+      "url": "https://files.pythonhosted.org/packages/63/ed/158c8a9345e7c9dd30587f6f072a681b626dca5a0e8c711ad33177d322a4/raven-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "0d07767fa1f7e74e01925a6f2220cb83cd1a32f797c247ff112e6ecb4c69b51d",
+      "url": "https://files.pythonhosted.org/packages/7c/9d/c513ee16823d0be6e0f996ecbde559f8fade3f69cd4972313af63bf10ae8/raven-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "15f7bd36b9eb1096aaa01a6a0ded25e2980d23de1b1e0f18aee11809c620fde9",
+      "url": "https://files.pythonhosted.org/packages/c9/d8/779fa52861a3885f873a5d09b8316d64f6efd017543957743d815bcd429c/raven-1.2.2.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "e5f30dd53619eb499bd1ca4e514f0dca337fb95d53fa394426e93318519339aa",
+      "url": "https://files.pythonhosted.org/packages/70/0f/7837288c0e22a902ebba5b5d3b5e7ea3cd581acf67ef8e5edfcb6364fdcb/raven-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "a4722ae617ca5ae419e7fb1d123eb76d66fa2f4b79f9e46938614875c6496605",
+      "url": "https://files.pythonhosted.org/packages/90/e7/573d6d251c09c7ad3813ed8ed05057d6e831da5e4136ec7c4fb52f8c8874/raven-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "36932ce392d9b8fc9f3ea33c6f8a3d6e1760659bf5a3a1a5f2b120c85c421c1f",
+      "url": "https://files.pythonhosted.org/packages/64/5a/f116765344ab36330df4bbbea83936388223d959b6629b6d3fd031134c7d/raven-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "4e2f473c5aa56b4be384a345adf916eba96ad3a7bf81ec0310325fb2f5b0dd5c",
+      "url": "https://files.pythonhosted.org/packages/c1/8b/197b1a10ff3523bf6f75356dad89b684176834e3f574a902ed93cd1b7e23/raven-1.3.3.tar.gz"
+    },
+    "1.3.5": {
+      "sha256": "81ed1c15d681b37bfbcc8127e5fbfd21d2e26852a3b76e09bf3854ec6747d138",
+      "url": "https://files.pythonhosted.org/packages/c7/43/5bba373e667e3c27d474bced6701624507f48f7887a82df2bcd00a2c45b3/raven-1.3.5.tar.gz"
+    },
+    "1.3.6": {
+      "sha256": "3fc8ca5d0721313eb1adcb2f7f67e310ebf9e9cf5116a0ef6c7c2eae483911cf",
+      "url": "https://files.pythonhosted.org/packages/c0/ae/27bc8c48eae4a2d6b031f6df660d3f03d4b73cca052ecd5d57d5729bd7c0/raven-1.3.6.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "b9a88d7c127d82794de747ad181dce35f215026e09dd6e397becc31263f2fe29",
+      "url": "https://files.pythonhosted.org/packages/6f/73/6c558f1844bc9146c37ffb7d1cc7b4be05c4e819dd905bc9f5b7d223d9fc/raven-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "531dc56e7d8804ef8022c3ec3222d6af61e62e87b04fa16ee3d5ef3cd6d2c2dc",
+      "url": "https://files.pythonhosted.org/packages/6f/b9/deb38d2de7f16c0d7ecbbc74c0825c02f1d513c4b287cefd7f8ad4d64db0/raven-1.4.1.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "3ba645d85da876a9f8ed16f05f5475f39b40b2760c761bd9ccf6c5d26bc92fc8",
+      "url": "https://files.pythonhosted.org/packages/1a/0c/76beec5ddffda3a8b8ccab44f25aaf5695e206301a22aaf7ff0fbdda8563/raven-1.4.2.tar.gz"
+    },
+    "1.4.3": {
+      "sha256": "dbf0c4a90466a6da34315281dd595aadbf35f903f7698ad1dcefaa59265aee02",
+      "url": "https://files.pythonhosted.org/packages/fe/c6/43610a9b32f97734ede5d6ec13c67bcce0f79304dc5471d080d35bf0957d/raven-1.4.3.tar.gz"
+    },
+    "1.4.4": {
+      "sha256": "1f224e7fb02e3ecc387bdb3a89c9673b0cbe0df9c082e3efc4c98a2b8828d25b",
+      "url": "https://files.pythonhosted.org/packages/e6/47/75659d95ed6ef31f5895b811344bd1c0ca9f1d4e5aaa6890088e8cc96879/raven-1.4.4.tar.gz"
+    },
+    "1.4.5": {
+      "sha256": "08f2fcd723b3e07e22e9933e0cd863ac9f5a3ed576aec4d44cb5c64fbd4b224e",
+      "url": "https://files.pythonhosted.org/packages/e3/80/0afa3e556169fee12a93723cecb38da477593091743ecab749663af04ab3/raven-1.4.5.tar.gz"
+    },
+    "1.4.6": {
+      "sha256": "ef348fb3722f59fbfb24e8d371dd9b68feef98d58771d812586bbb61b372bc6a",
+      "url": "https://files.pythonhosted.org/packages/95/05/36d1f0da1db5b5dbfb140d98b320cb5b8dbd18dd8116cb444ee4c0b74808/raven-1.4.6.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "fffa5833e90ef850870f087a8aaed36bff26b1c66919a782e92b541a5725d81b",
+      "url": "https://files.pythonhosted.org/packages/0b/53/b19e6f71aff85572133e521db1d2febcfca88b72ac57951e5a84be4d8449/raven-1.5.0.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "e372106a7b63c722dd0bbf0ce8778a7a8fb46d45c532faafb465c18a78ad751b",
+      "url": "https://files.pythonhosted.org/packages/02/53/10564f7094808adfe63b1853717f563c070f71101cd0c84b3ceec32806da/raven-1.6.0.tar.gz"
+    },
+    "1.6.1": {
+      "sha256": "bde198ffd399941ae12d5f70b05f152dd9c62c95312f0e5e078961efa89b992b",
+      "url": "https://files.pythonhosted.org/packages/a5/4e/12ccef8f5be2f9335cbf4e00bf2a40aee169693423d4689e84097cde1837/raven-1.6.1.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "d63c69c79a194f6b7628b24aec137713d8a3f6132fcaaae3d4e56749afb3d275",
+      "url": "https://files.pythonhosted.org/packages/40/86/2922d52de85b3997450bc2ad959b2a2f02150739332aaf63d8c7e41f7271/raven-1.7.0.tar.gz"
+    },
+    "1.7.1": {
+      "sha256": "2b428d7971e06c1d27e681e671ec7fd78748cfb40aca590e95662bf9c073458e",
+      "url": "https://files.pythonhosted.org/packages/5c/4a/6eb487f678c5701b72a5b5a77f78b218c03a7e4e117e9c4dfa16867b9277/raven-1.7.1.tar.gz"
+    },
+    "1.7.2": {
+      "sha256": "6b1cc6fc68e51138d89449759b5873917431e199591ab82c34a4640c15b30000",
+      "url": "https://files.pythonhosted.org/packages/30/1c/bd38feb8b7b9dee1a9310e47115f904bfbe2316f1895db5292568833084c/raven-1.7.2.tar.gz"
+    },
+    "1.7.3": {
+      "sha256": "3aa1776f0f7760b99c4b00dd29685f95760d7acad6e72fc758ea1459d6d318f2",
+      "url": "https://files.pythonhosted.org/packages/ab/1a/0834128b31e242ebb009cdcaae0a1e1edb0eca369f957527ed9b05b77595/raven-1.7.3.tar.gz"
+    },
+    "1.7.4": {
+      "sha256": "126077021d1c2680cdd28a2ef66247f11b82dc8d84092357a44bbd0fc9229bee",
+      "url": "https://files.pythonhosted.org/packages/a9/b6/3d9fb25f37cbce8def6c8c2eeb3f7b8cd68d9cb082bc7a665f63de2dc0c7/raven-1.7.4.tar.gz"
+    },
+    "1.7.5": {
+      "sha256": "5734627917fb67fd9fa4f8886f7c814b3a5098c2dc907841c96712b1222b86ca",
+      "url": "https://files.pythonhosted.org/packages/3a/3c/9a9f59d5966cab8bff6526e9e4c929bf994a594add8eae7a2f9c7a481991/raven-1.7.5.tar.gz"
+    },
+    "1.7.6": {
+      "sha256": "9469f7ba959988b2c2d058575413d214cd6145df4a4845b7475e4fad079a9ae0",
+      "url": "https://files.pythonhosted.org/packages/b0/5c/bde53062d83668f6386706e9dc82934cbc0986daeeb31d8c3c52e211710a/raven-1.7.6.tar.gz"
+    },
+    "1.7.7": {
+      "sha256": "17fe1f569667a1bf2338dca6f112ce701b13b7aa9dfcc851eec36a71ae0dabd6",
+      "url": "https://files.pythonhosted.org/packages/a8/b6/9e4492a1a36b2db1a2097decf0ae42d75135d95b1721524d93883020f56d/raven-1.7.7.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "fffa0ae95348531342aebd906a54e93a8900eee3ef7848daae2c4bd019309213",
+      "url": "https://files.pythonhosted.org/packages/94/58/233dd61f76cd534f566f350a67eb3922569d359ed7f2712a826f49a28757/raven-1.8.0.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "33f512a609c1745ad1941b97dcdbeedc38150415759c00fd821b7758f6cb6262",
+      "url": "https://files.pythonhosted.org/packages/fa/ed/39af9a65315b3681b6578ae00ecd06873d0fc471d44592ce86ea009f4a92/raven-1.8.1.tar.gz"
+    },
+    "1.8.2": {
+      "sha256": "40b7b5ecf285bf76acc9a308a266141e59bb0f40154623adf03741012d4dcb1c",
+      "url": "https://files.pythonhosted.org/packages/55/aa/bc57496d13b76db43c6543b8c168435d746309009d0acbc9e037880d1064/raven-1.8.2.tar.gz"
+    },
+    "1.8.3": {
+      "sha256": "c0318eb2605346d927d9ad6b3a77d0d1b771e4cc03fddf0c486fe5ff03061ec9",
+      "url": "https://files.pythonhosted.org/packages/01/ac/7170e4861fa7bc138358adcb6999798ac777852f17c9f7a4e319b0ffb1f5/raven-1.8.3.tar.gz"
+    },
+    "1.8.4": {
+      "sha256": "abdc563809f449da582104d826795aa2599716833ce7bd4fe758f632dd32a46c",
+      "url": "https://files.pythonhosted.org/packages/06/45/739566f2025abff571142ae513e05e4d1400f72bd65472d9311091efb0d9/raven-1.8.4.tar.gz"
+    },
+    "1.9.0": {
+      "sha256": "a7c08b1b16b9bafbc72f6b5b6ddb525ecd20a092b416ec0527560673da29980b",
+      "url": "https://files.pythonhosted.org/packages/2e/8d/e59cf862dc50e10ecb942db1043e35e4c7cbf61b7857a51a082337fc0a2a/raven-1.9.0.tar.gz"
+    },
+    "1.9.1": {
+      "sha256": "f7d3af8ec83c1d93edae8f7a9de1fb5a082edd87102853e938a1cb32e8c731aa",
+      "url": "https://files.pythonhosted.org/packages/b0/9e/b3eeb3257242839a039caeb9fec701d8251c960616b4547b58d3f8bb4693/raven-1.9.1.tar.gz"
+    },
+    "1.9.2": {
+      "sha256": "2f30351fdabed42cb38081188c550f8affae46f0c9b101bda836f64fad91a0c3",
+      "url": "https://files.pythonhosted.org/packages/e9/b9/fb55a7254564f7b2893ad5018b5fcc2ac98e26f15dffbb0b4565ca3a1d02/raven-1.9.2.tar.gz"
+    },
+    "1.9.3": {
+      "sha256": "c693d67d0c570527a2dc91718e35bf5a8dd37462239294a17bb23bf572d53830",
+      "url": "https://files.pythonhosted.org/packages/63/b6/0043beb1e82c865a13bbaabfa3e5be1fb493a0bc6843d17afb0b5d64e713/raven-1.9.3.tar.gz"
+    },
+    "1.9.4": {
+      "sha256": "7f14e651d321aedaf00635ab106b72520e4a6565d766b8fc64856e662c3acc8c",
+      "url": "https://files.pythonhosted.org/packages/d1/d7/d48d7fc3a7b4cf061351981dda6d1cdc0ec977a1339e3dcf7161501d3f32/raven-1.9.4.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "d9d3458264c7790124296bad2039be9b5c568a46f39962ba21a9ac66b09325b8",
+      "url": "https://files.pythonhosted.org/packages/d1/ca/b31fd97bfeedf637509f54c5cd924c9ba6122be59ad5048c955a63f5d50b/raven-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "d98e655f74233199b4a4d4be506b155b2342ce6ac6b242b15707e19da3e330fc",
+      "url": "https://files.pythonhosted.org/packages/3e/b9/04e725d07bccf1d5d352864667c3b09c5a8a8373925260a14de133522506/raven-2.0.1.tar.gz"
+    },
+    "2.0.10": {
+      "sha256": "16603933d2150c54984c69400c6ce3a09ee9edd3957eb9d33d399804ea201da1",
+      "url": "https://files.pythonhosted.org/packages/ea/82/649180808e8a693ea12bdec958f6829b9aea651b824521c7dc7e9ad57825/raven-2.0.10.tar.gz"
+    },
+    "2.0.11": {
+      "sha256": "d1a430922ebf93b28a4ed7e9d75c77228e740fdd651c3d2b8de78b6b10f975ad",
+      "url": "https://files.pythonhosted.org/packages/ec/40/1ab232b366dbf34526da851461f4bbca23472c9165d6ac71d791a3bf1276/raven-2.0.11.tar.gz"
+    },
+    "2.0.12": {
+      "sha256": "3ab471df39cd3c02a478feed562afefa83d0600d92c7e3adb1e0a8585e816850",
+      "url": "https://files.pythonhosted.org/packages/89/08/17ec1c9bd3789d932c62ae421a89ef0f230482e9d8b384ca88158d3e6e23/raven-2.0.12.tar.gz"
+    },
+    "2.0.12.1": {
+      "sha256": "733e03e45be5e637f0d41aa1c821f96d6f3864d3e27f5393ddee1c597ec34658",
+      "url": "https://files.pythonhosted.org/packages/20/4a/58ac9c030f16595a65ae8af12dde799abb581a1423f593977a13112f8db6/raven-2.0.12.1.tar.gz"
+    },
+    "2.0.12.2": {
+      "sha256": "783c7b56547cb40bcf66cb42b3fbd58a3707159c0ad5c864cd9076972980b3f8",
+      "url": "https://files.pythonhosted.org/packages/37/78/3908b0eb184ddeac2b81fa40a34dc52fbd89dc97c77c5e31dff1cdb89fe9/raven-2.0.12.2.tar.gz"
+    },
+    "2.0.12.3": {
+      "sha256": "6d556c64d982cedf932f4e0e023cc97fa440fc5ff2dac7dcdac373bc1fb66f32",
+      "url": "https://files.pythonhosted.org/packages/82/b8/d27111211ecc2ae4e7617244826e05b6cac82bada177c6dd5149724fd03d/raven-2.0.12.3.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "6d6ab7fdd0100040669c6616b197bbea6a2b10bf1c636f58f871356755b69df7",
+      "url": "https://files.pythonhosted.org/packages/13/b9/378dfba077e9246b68f01300139e48871d47cfb61be3494c73c1071d58aa/raven-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "b12d1ae745c0179f1a31adafc87fcfee4c222d21beb9618b1fda3a7f0676df12",
+      "url": "https://files.pythonhosted.org/packages/35/40/213953321fa87e402743746529397dbd6744794af465eb81a815cf489ebb/raven-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "2d9a69a789ef0b1142e4256b63f6406265aa8bcb1131eb4467ae346ad5f8e886",
+      "url": "https://files.pythonhosted.org/packages/0c/9d/6d58efd681a9522295851230fa2d2526a8bd6fdac0c164b3490b0de5a5a2/raven-2.0.4.tar.gz"
+    },
+    "2.0.5": {
+      "sha256": "b711a45b10c687336d8674de1bb5509d32adf3a42cf50ebde0e3831acb44e2a1",
+      "url": "https://files.pythonhosted.org/packages/d2/33/363656163e24b406723338982f1e05d9b17974ebf7ba83f8bf86664688fd/raven-2.0.5.tar.gz"
+    },
+    "2.0.6": {
+      "sha256": "fe692a94a15c62d9ecea1822a00064e2fcd6ca10f020b40938509cb74923a8f3",
+      "url": "https://files.pythonhosted.org/packages/f0/24/84f2ea5e6b34e4240fe5b252eed994bd042378ee5fa80968991dd8e1f3c3/raven-2.0.6.tar.gz"
+    },
+    "2.0.7": {
+      "sha256": "5a11ec3c3276d4ac8a514dc730a671f333d0fcffe451a1a81de3eb599f734204",
+      "url": "https://files.pythonhosted.org/packages/13/e1/eb02bd4f828b53d81d79110a7887331278925e12ffd1d381ddaabac49509/raven-2.0.7.tar.gz"
+    },
+    "2.0.7.1": {
+      "sha256": "2e2517771388fad89bc21d6999213deb8c29430d2b1cecc7accd3d8e1da700de",
+      "url": "https://files.pythonhosted.org/packages/b1/1b/7925162757a4716dd907e74ef00434468d511f489d7ed15b4bfbaee27adb/raven-2.0.7.1.tar.gz"
+    },
+    "2.0.8": {
+      "sha256": "8da5478d6a7bd59109dd0f0c6a66042d9619590cdcac772d4ad9cd33197362cc",
+      "url": "https://files.pythonhosted.org/packages/14/41/71ed28052622639fc67d22bcb995b892c1bd492da8396c05163401b6c531/raven-2.0.8.tar.gz"
+    },
+    "2.0.9": {
+      "sha256": "5f2667c28d45c2186143cddb355f82dbb5626b87ba42deb19ed288d6dac31905",
+      "url": "https://files.pythonhosted.org/packages/85/23/c5a12e438c55c8b94bd0f72a6d638896edfe3c5403e14db43dd2e5781dad/raven-2.0.9.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "f28cb47e87ab669767ea389ed2b3dfd73d51c209abac46257e6582ebfcd7fb37",
+      "url": "https://files.pythonhosted.org/packages/cb/39/15b86666cae767f4530aa12b5fd126be01e105c9d80788714e33cf808757/raven-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "ceceb84b908305a918ffc7ca4d4fbb7565ca8eedfdeb63bce74f488142b692c6",
+      "url": "https://files.pythonhosted.org/packages/43/72/e79a089598481c3cc04fad9b4af538f319e561237dbbb29f345531623954/raven-3.0.1.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "8ab0a05857efe5236060d6afead2b9f5bb3b808e1f252908fae04cfdbd10e649",
+      "url": "https://files.pythonhosted.org/packages/bd/9f/42d996dc790c6b8587f3f3eaa3d8d4b00c9429693a32987d5b4791558089/raven-3.1.0.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "5ff061a40373b937f562c24ce35aa7139ec9872fd74e04fc7b6a15a9d9baf2af",
+      "url": "https://files.pythonhosted.org/packages/a8/11/510bd43c4459d4abb2174b2382441736c5a39a3523d34400ee2e328f4326/raven-3.1.1.tar.gz"
+    },
+    "3.1.10": {
+      "sha256": "7bc4a12cffbe222698f37439de259c9244dac2a92663f63102c011ef9f622ed4",
+      "url": "https://files.pythonhosted.org/packages/e0/5b/6cffb93885949c36140a3bb86daae56c4280bc63c6a52291c16d083d9afd/raven-3.1.10.tar.gz"
+    },
+    "3.1.11": {
+      "sha256": "efb6ad18330ad2cf3ba6ae96026e3527c2b3f95791b4255e5fb82ff53c39b6f4",
+      "url": "https://files.pythonhosted.org/packages/e1/c4/bcfaabc556889eceb76b249eb34546d451e5ab757e2609be7c33696467ea/raven-3.1.11.tar.gz"
+    },
+    "3.1.12": {
+      "sha256": "bdae9a8f035ccb6a20726e2f5f1ad23b0b8253537af488bb8be9d264e267345c",
+      "url": "https://files.pythonhosted.org/packages/ea/16/c12d41730845fdafb5b844630264d8f4b221c215402f8fe1a89828a055d0/raven-3.1.12.tar.gz"
+    },
+    "3.1.13": {
+      "sha256": "cb9a982d71f409e19a94b8692c482c62809babc827097630dba2ce4de9f1d870",
+      "url": "https://files.pythonhosted.org/packages/09/5e/02c8343fd7a59fae76e6d0074827162448e0b1e16c9e28b8835d45b53fa5/raven-3.1.13.tar.gz"
+    },
+    "3.1.15": {
+      "sha256": "b8b57292c484b69bdb111ad6173836d135fa4c0c00ea623447fe7f3718c752bb",
+      "url": "https://files.pythonhosted.org/packages/d9/98/329c54b463dc465f350ad646e75c18804d114872acd588d980bd2a0459ac/raven-3.1.15.tar.gz"
+    },
+    "3.1.16": {
+      "sha256": "e06426af287e598f81cf8475331943a4987adbf9476cc98084d2d7eb0461fa54",
+      "url": "https://files.pythonhosted.org/packages/39/39/1bd2efca958626b1ec44084fc4bcd5126d81e4ccc1dd9b346131e901e1b2/raven-3.1.16.tar.gz"
+    },
+    "3.1.17": {
+      "sha256": "b702408dbf8089a4aea03a4dcb519b27cf011d24896bcd3ab30a7a3ed44b55b3",
+      "url": "https://files.pythonhosted.org/packages/fd/7d/b127b0eee9d37ee596f54bb4db8993e34abb8f7531dbafcdb9284922da27/raven-3.1.17.tar.gz"
+    },
+    "3.1.2": {
+      "sha256": "912668831de25f2a8e8331eada9cd48c84c69b5f0b180fbd9e05e1c50c8b784e",
+      "url": "https://files.pythonhosted.org/packages/b8/40/4d6204e6b99fa35af35acd86d3083cafb5502447bb02a9949a7ece8a64b2/raven-3.1.2.tar.gz"
+    },
+    "3.1.3": {
+      "sha256": "6aec6a2229163841f21462caa8dce60b03d7c7d4d654894fc8393d8709ef3192",
+      "url": "https://files.pythonhosted.org/packages/16/d1/d2bb6e12cfff6fba417925410d10d3f057820075e66171c09c22c999c8d4/raven-3.1.3.tar.gz"
+    },
+    "3.1.4": {
+      "sha256": "9c61684ca96ea19a1866ce45618d9bed3e243a30720ddb9af4ce72d91062854f",
+      "url": "https://files.pythonhosted.org/packages/6a/65/12c8667e11883376d5463f117966acbc70e6abaf7c9150c61feac038b1c0/raven-3.1.4.tar.gz"
+    },
+    "3.1.5": {
+      "sha256": "7e0bf15d8bdc294f2d0a60d749c5864b3745079b2631c102443212a3b42f0ed0",
+      "url": "https://files.pythonhosted.org/packages/a1/01/3408bcdb58f358584aacadcd3d40826f4167aad4a0c122ad2eacf1e683e6/raven-3.1.5.tar.gz"
+    },
+    "3.1.6": {
+      "sha256": "79714627bc04c28d5649063e7debc9f744d6677d7ae2e494f9c7370367501ae9",
+      "url": "https://files.pythonhosted.org/packages/34/87/2c57951e8e217ac24399ecb4d4bce13e526d1d3d1e448f9a61b65d1bcf48/raven-3.1.6.tar.gz"
+    },
+    "3.1.7": {
+      "sha256": "f81ea5e6f533c6db4afcc46a8c2fdd77322baf598c015f15b726d4a936c4739e",
+      "url": "https://files.pythonhosted.org/packages/16/53/885a1f92c194f97835977afda143855509e2bd1ee7e16a2970df9fac3653/raven-3.1.7.tar.gz"
+    },
+    "3.1.8": {
+      "sha256": "191be1f02257f628cda96a862d75cc263798ea6fa2150e64758b646da64c7124",
+      "url": "https://files.pythonhosted.org/packages/5e/93/bf71231b9d3980d2229a1b07cf152169c3d2d0420b3669c7777c7fba8832/raven-3.1.8.tar.gz"
+    },
+    "3.1.9": {
+      "sha256": "b33638735701619c178cec0d5d68753a0585e13a9d3013b3b815300b47916ccb",
+      "url": "https://files.pythonhosted.org/packages/e7/32/1efaa306d9f5a8e90cb7ad069a1dc26df3405af9a62b2c5a4bd461845f55/raven-3.1.9.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "1c94ae0e365c1b37c5e18c033478fc196f12f52ba8979f7b011d3e083e3125af",
+      "url": "https://files.pythonhosted.org/packages/61/c9/8aa05f09eab1d88c1b0da162e7384ea952c430aaaa075dbfb5bb328b8e46/raven-3.2.0.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "24fe967741d826b5e4dec6a43d5f9d5dae8c3de20df79ccd774c0689e3ef0535",
+      "url": "https://files.pythonhosted.org/packages/6c/c9/300b4b38a85ef7977d819b3cf0818916282f98db24e3e490f66002ef473c/raven-3.2.1.tar.gz"
+    },
+    "3.3.0": {
+      "sha256": "3676d5f49ddb8b09237d3987c2fb93d5e72b85274f56fb6cd2a0ff4faf5d75d0",
+      "url": "https://files.pythonhosted.org/packages/25/a3/d8674b1da392074c30e13b4238090fcd7b31398829bea2fc9edc0d18301c/raven-3.3.0.tar.gz"
+    },
+    "3.3.1": {
+      "sha256": "25461d58f67e7a061d8c8796567b1226695f19ac13a269c87f6c41808dc315cf",
+      "url": "https://files.pythonhosted.org/packages/00/c8/eb058037a82c040283ecee0e9b9406dbd4af1f852858416c77e02c9379e3/raven-3.3.1.tar.gz"
+    },
+    "3.3.10": {
+      "sha256": "f0c28f2785624b8a1bbc772f27e888dea80bd3285e7da05f7cbd2beda204c7ab",
+      "url": "https://files.pythonhosted.org/packages/75/b7/a0a763aede9ad11c42cdcf80b50efc12ae3beefec60b00c2dd9e2fcf9251/raven-3.3.10.tar.gz"
+    },
+    "3.3.11": {
+      "sha256": "4ec10cb70f4d23fe2c3d3d959c832ffbee654ee115816aa261838b8887cec2ed",
+      "url": "https://files.pythonhosted.org/packages/1f/3b/9d2a44a2901c0ae27f4cd3b891752809d8211e5b74abf15d6ad8a8c6ac72/raven-3.3.11.tar.gz"
+    },
+    "3.3.12": {
+      "sha256": "8afcb2b5f21ab71146a786c7e71c883bd32d8191a577d695017b64867b71ccac",
+      "url": "https://files.pythonhosted.org/packages/ae/35/a4de73cc7284ef80d389624109cd6e6157045473d91a76fcbde4a9308a30/raven-3.3.12.tar.gz"
+    },
+    "3.3.2": {
+      "sha256": "c2de7a334b2ea5f4d6f8f293a884a2a40a6f9ef6ffe8a257fc40cf9d4f9878a8",
+      "url": "https://files.pythonhosted.org/packages/d4/f1/7581fbb1f7ff18264d386c57952fbb3befc8120c82f664f51bc5a4812e7f/raven-3.3.2.tar.gz"
+    },
+    "3.3.3": {
+      "sha256": "03a1eeace41d24aafeba6e1b7732220228ee7cb3d0ce7d146ce338b2968b45c1",
+      "url": "https://files.pythonhosted.org/packages/3c/12/08e631b3c1ff76cdf10b8948568f612626d5f07e05de4dee066101136b9f/raven-3.3.3.tar.gz"
+    },
+    "3.3.4": {
+      "sha256": "c7e86d31fee560d73f75fce37e28e53863cae1407315718a66b5723eddcaa22a",
+      "url": "https://files.pythonhosted.org/packages/05/0e/6e6caa299c3cc4a8469608891d5a63ee4518095cec4bce49565e9bb8d82b/raven-3.3.4.tar.gz"
+    },
+    "3.3.5": {
+      "sha256": "59876fde2f460c21457dc6c95d2c75bf3a2b7f5bb20896eaffeee08604ea66d2",
+      "url": "https://files.pythonhosted.org/packages/74/ab/0dbb7a50275df0cf1bf51191462fd282118fbebee073d4d569d8e0bf0ef3/raven-3.3.5.tar.gz"
+    },
+    "3.3.6": {
+      "sha256": "b996f4193be77cbd116540125e3dc5539b74aa3e7ba3b3300e8ebcba7808cd4a",
+      "url": "https://files.pythonhosted.org/packages/3d/a9/7bad09a740fd0305d957f94fab1cfe098825b96a7a4edd1d6a30acfa4ad3/raven-3.3.6.tar.gz"
+    },
+    "3.3.7": {
+      "sha256": "bf13fca1231b32d38ee5bfd7966a7575496f4a7d5c879939a932ec984deefd68",
+      "url": "https://files.pythonhosted.org/packages/a0/d5/93525a60ee3edbbb23b4b1b0c294c4adf781246d8088664d6b11c4c8176b/raven-3.3.7.tar.gz"
+    },
+    "3.3.8": {
+      "sha256": "68cf8a0e48c6098cce19037fe47b4ef51688c4bafb51902efb262939a448e11d",
+      "url": "https://files.pythonhosted.org/packages/cb/2e/20d4d137a038a7b484d0aacb74d3a5b477ae431b7e8b8f0b400d66d7780b/raven-3.3.8.tar.gz"
+    },
+    "3.3.9": {
+      "sha256": "58de5cddff6d23c7850debdbb257ced3135a3fd26ca91c5c369c7919d16e891d",
+      "url": "https://files.pythonhosted.org/packages/47/65/37552945639c48f6732219b209e5706e0ffee4536b1e7bb5fcebe02800c0/raven-3.3.9.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "740be3d0c0f8afc322265ca38ead8d6ada89ecec0674404173506d301174d750",
+      "url": "https://files.pythonhosted.org/packages/d7/4e/319a5b25cb5868c256693dd2a7e3896019d9bbed816aa556498e79dee5ed/raven-3.4.0.tar.gz"
+    },
+    "3.4.1": {
+      "sha256": "c27e40ab3ccf37f30a9f77acb4917370d9341e25abda8e94b9bd48c7127f7d48",
+      "url": "https://files.pythonhosted.org/packages/41/7b/d1f79086b234f981a7ab5b964794781de728587674c63ae6f3975e60dddb/raven-3.4.1.tar.gz"
+    },
+    "3.5.0": {
+      "sha256": "e58b17ae81cda8fcc4f457baaac512a05e4d53577cc07db2bf27bbae3ea8e981",
+      "url": "https://files.pythonhosted.org/packages/bf/01/05b1e0ea52596f0d94b79a5954ddd86f7781a5a168cf82bdf4646273eeaa/raven-3.5.0.tar.gz"
+    },
+    "3.5.1": {
+      "sha256": "76cc6c6e9cf316a40b01131037e313401de5846b8771bfab48df720967cf39a2",
+      "url": "https://files.pythonhosted.org/packages/ec/0b/3b3a4d6bc7f25d820f686a39eccac2d146c990283aea22fbd47e56f4fafb/raven-3.5.1.tar.gz"
+    },
+    "3.5.2": {
+      "sha256": "87e9fe27c86185b558a52768a9e00788d811f86c90aa9a64c6cba3bd326620ae",
+      "url": "https://files.pythonhosted.org/packages/fe/67/e76674350983606581884fccd7851b15ca5a9ec098fbb801c81db9d77ace/raven-3.5.2.tar.gz"
+    },
+    "3.6.0": {
+      "sha256": "14b9467335c4aa372211356065a88cb552d5e768c647012c47efaa2f0ba3d55f",
+      "url": "https://files.pythonhosted.org/packages/70/d0/b34a95d5420ee4b1e5498a846d50c09b7d920f33a60146dfbe32ba8506cd/raven-3.6.0.tar.gz"
+    },
+    "3.6.1": {
+      "sha256": "81690b08e292169b2c025ba8220a69ae74fa023ed8a1098bfd020a04139e9de3",
+      "url": "https://files.pythonhosted.org/packages/dc/2e/ee5c781e09fdd409b23be1a8ce8df070f7a6e6dd46eb09f3f46aa6431aba/raven-3.6.1.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "18de427b9e1b1a41a087e11e8f5c356ccfbf6aa1078bf267f2398e677ea5149c",
+      "url": "https://files.pythonhosted.org/packages/39/dd/ff4909f1ae49ee3a0d935675a5df421a1337c91e82881b1f76db1b96e4f4/raven-4.0.0.tar.gz"
+    },
+    "4.0.1": {
+      "sha256": "8b5d43485a1a9b41a407fd1db068842a30af8eda19e7f97838fcaaa73a144a99",
+      "url": "https://files.pythonhosted.org/packages/f8/28/85a004a8d5a485e84454f1d0c94dd8288aedf0d5ce7c7279280bcee2be2e/raven-4.0.1.tar.gz"
+    },
+    "4.0.2": {
+      "sha256": "8273a7c9da86c9d66220ad36c0da59e4c65baa54d1510da3a513449f7042ab18",
+      "url": "https://files.pythonhosted.org/packages/fb/fb/237c2cf2c5aa3dfd8658702717ca5c849a5e85b621d57e007fdfd94bcba6/raven-4.0.2.tar.gz"
+    },
+    "4.0.3": {
+      "sha256": "ae1c3c050ef01d3ff1f117b62b2af5cf7306049429ceff809b37f88d31bd6718",
+      "url": "https://files.pythonhosted.org/packages/d9/ad/676d0d6a2c05e533fcc5f6c23af28829756b177bc57d37f6409b8b471b2f/raven-4.0.3.tar.gz"
+    },
+    "4.0.4": {
+      "sha256": "6ccc8b4584aef44638f7f39e0d27b6f533ec0d0928e24bd0217fbf2b83a3ae7b",
+      "url": "https://files.pythonhosted.org/packages/03/59/b5fbb6b6acaf0d296a58fb44e67ac90e00844a55b04971675297055b4df2/raven-4.0.4.tar.gz"
+    },
+    "4.1.0": {
+      "sha256": "18b11dcde72469bf4b95087790a037ce09230df362d4b20c60bdd6596500045e",
+      "url": "https://files.pythonhosted.org/packages/b3/ce/1acf457f029ccd40613015db0abeff47d0c33456251efd31aedb73e476a5/raven-4.1.0.tar.gz"
+    },
+    "4.1.1": {
+      "sha256": "c981e37255595589361db8c196524e49c3cde301fbaaefce1eba60883767888a",
+      "url": "https://files.pythonhosted.org/packages/2d/6f/51378732b381ddd4ddad7e70f47ae45f1277b2ab7aeeaa538d618d854994/raven-4.1.1.tar.gz"
+    },
+    "4.2.0": {
+      "sha256": "a8c8fbd5902a081ee26a59460102bead6d4e4b5fe5083a3932d1ed0b6a044b6a",
+      "url": "https://files.pythonhosted.org/packages/a4/e0/05ba3ea330306b07bf6b2906221c626e92d35bf7833d6c1d7fb3c9b5778d/raven-4.2.0.tar.gz"
+    },
+    "4.2.1": {
+      "sha256": "228ef8936a2a809ac827b36b331356333822dcb21aaa09c573e56e48d3492d6a",
+      "url": "https://files.pythonhosted.org/packages/dc/2b/13aedd1af45ed4b1c1d7afa568c9cd28a61201b4b68e6139ebd9dac3e335/raven-4.2.1.tar.gz"
+    },
+    "4.2.2": {
+      "sha256": "235b377c95d2b2a57f8637615f3845b4f712caf92e85932446c53d46b9087ee7",
+      "url": "https://files.pythonhosted.org/packages/95/f5/880dfa21db6c691bdf9c3708b815705de66c32a9630403e44a206312cddc/raven-4.2.2.tar.gz"
+    },
+    "4.2.3": {
+      "sha256": "c65f743aef76d922b765e1cf51e24b128bf834858c2c12f5a69a3c149c0ee77f",
+      "url": "https://files.pythonhosted.org/packages/20/1e/5e2b196da4d749878c4df3689208702059e42bc21727cb5116ffdf922d99/raven-4.2.3.tar.gz"
+    },
+    "5.0.0": {
+      "sha256": "012de5afcd8af43db2d21bc074bc3037ca00f109fdbbebc18a9c6b016f9d63b1",
+      "url": "https://files.pythonhosted.org/packages/c0/60/13c23c7e2504c6959f02a36cd414b3ddf73eda76a22afb5fdf430809c601/raven-5.0.0.tar.gz"
+    },
+    "5.1.0": {
+      "sha256": "2deb74a78d775e3c335ffeb085f82c39db584b380af4b5d9effe09dbd19ad7ff",
+      "url": "https://files.pythonhosted.org/packages/0c/0f/b0769e282021ccfcb2b9784c01bab6dc43bf6026e893713e0b78f95b5697/raven-5.1.0.tar.gz"
+    },
+    "5.1.1": {
+      "sha256": "fc7bea12ab8452b20bb141d6c8aad81645ff8b9bc4db0fff81d03e9bed47405d",
+      "url": "https://files.pythonhosted.org/packages/7f/3f/4752573ec9825667380d6e08fc96ddd1fd7c42d0ac3a3992c2db8ccb7bdd/raven-5.1.1.tar.gz"
+    },
+    "5.10.0": {
+      "sha256": "44766ea56c942c76034b68add1699c927de5c9ea9e4cb77a63e4855297285c82",
+      "url": "https://files.pythonhosted.org/packages/ce/be/c3de37e87b4b555d01c77991d21cb463111588995a2861d8a89237ead5d1/raven-5.10.0.tar.gz"
+    },
+    "5.10.1": {
+      "sha256": "8161db891977453c2adce24b37d11b5bc04f18ea649978ffc4767a74c2218b35",
+      "url": "https://files.pythonhosted.org/packages/56/15/bcf3f38d167e6f69ae3860da5f8f618d4275960a34471e228722accab79a/raven-5.10.1.tar.gz"
+    },
+    "5.10.2": {
+      "sha256": "58d52e16c834f70046f07d53795cafbf2709aef87afa9ca2a9d21be28a6ed92c",
+      "url": "https://files.pythonhosted.org/packages/22/1c/537c848d609029c135e8ce73fc9f793611ecf07ee641088722208413e958/raven-5.10.2.tar.gz"
+    },
+    "5.11.0": {
+      "sha256": "03a55716d30e98780de0fe6c11cb3954744b604a97ee6dcc695dea61b120c108",
+      "url": "https://files.pythonhosted.org/packages/76/11/77ff10becd751441b501233b969e0ccef289e65a9ef678b06a2d0a09559f/raven-5.11.0.tar.gz"
+    },
+    "5.11.1": {
+      "sha256": "581632f59f4d0ab89e3562d36820c0b4c949789be61422d92078f2396db27042",
+      "url": "https://files.pythonhosted.org/packages/d5/d5/4cdd46457786f0764c29e9009027ac390033221f7b70a5c46f1802cc526f/raven-5.11.1.tar.gz"
+    },
+    "5.11.2": {
+      "sha256": "3decaaddc99943af23f4bd9595a8e0f7a3b5c8cf47b86853a94464af693b9b8d",
+      "url": "https://files.pythonhosted.org/packages/6f/33/877d0bc66410d08b99f4c1c44d11082e86fa5c5d85002a529c03aa2fd2f9/raven-5.11.2.tar.gz"
+    },
+    "5.12.0": {
+      "sha256": "45645ea7fce8a37bd581b0a661cdc0889f7f12ce837dff5d9211ccae1bc56210",
+      "url": "https://files.pythonhosted.org/packages/7a/e6/0bc4cbc4260fd2a046ba3aacb9e28e586566f2c743627c7eb9cea7faec62/raven-5.12.0.tar.gz"
+    },
+    "5.13.0": {
+      "sha256": "c63a65419017b64461453d9bc2ccd3cc125a4240cf7f225f88b5caf91eb7c3f2",
+      "url": "https://files.pythonhosted.org/packages/3e/c9/fa64acb27f2878963ae5965a74461cd0195ebab2ba6aea2803c1f7ade8e8/raven-5.13.0.tar.gz"
+    },
+    "5.14.0": {
+      "sha256": "e7ba9a459125d9a618a474028c01557ab07562b56eba6b29be030defb479d781",
+      "url": "https://files.pythonhosted.org/packages/53/1b/a7ed17e66972f9599a520f4d549d44eee6e4e6c78ab88cb3de1a2e42d471/raven-5.14.0.tar.gz"
+    },
+    "5.15.0": {
+      "sha256": "983a4e0b6ecad80330f097c33c0e167069dad50deb3bfc5ea49c5cf66bcd3e29",
+      "url": "https://files.pythonhosted.org/packages/aa/9a/2ab1274005d83f9f67e3b46f29b706b38971559d1fb219013c0926a5999d/raven-5.15.0.tar.gz"
+    },
+    "5.16.0": {
+      "sha256": "8e8b5370ff2aee5bf42a6dc867917474986aa029a30cb6537af4e69fb2816748",
+      "url": "https://files.pythonhosted.org/packages/47/c4/2a8a6675985b62fe06215ca3bf0e1fad2fe86faf7592afd143f9a4b4db7d/raven-5.16.0.tar.gz"
+    },
+    "5.17.0": {
+      "sha256": "3f3d93cd1569f1c278bccb4ab3db4f3cf67e082cfdced90cf0f8ca0ca999499f",
+      "url": "https://files.pythonhosted.org/packages/9d/f5/c46631b07fc27dcf0aa5434e8a33158b8b0ba687201db1fa0f46162e51a5/raven-5.17.0.tar.gz"
+    },
+    "5.18.0": {
+      "sha256": "5d2890bef22297e0d784a84b113a27aa3bfd86b660c541bc09e035a0b5f730a4",
+      "url": "https://files.pythonhosted.org/packages/41/69/a37460270a54cb1a86dc1d1ebd5a5c963c1fad193e3387cbef07e5041fde/raven-5.18.0.tar.gz"
+    },
+    "5.19.0": {
+      "sha256": "cd952238e5a5ffcf0a626f4c2a1326a587b84e24e0e6bca36deef9c9b1c01933",
+      "url": "https://files.pythonhosted.org/packages/5f/f0/948a0590571ccb148a6f7a14844d65302fd886134ed5edcf9dc387747ffa/raven-5.19.0.tar.gz"
+    },
+    "5.2.0": {
+      "sha256": "01f90e5b15a6676d5ea360e09fb0cd926edad7332584c67d83dc4371c10307aa",
+      "url": "https://files.pythonhosted.org/packages/04/04/761c55394e9ab82594249a60e0980f275b54eee0f7cc2cdab0f6b49d109f/raven-5.2.0.tar.gz"
+    },
+    "5.20.0": {
+      "sha256": "8bbade20cc234a37407b41ba1f89daabf2fab8fdc80d1f72d6f924c0e7df9dd4",
+      "url": "https://files.pythonhosted.org/packages/e7/c9/c47c12f3c3610433e4ef295d60a1049b831a1642e31d982a03a9ec116d54/raven-5.20.0.tar.gz"
+    },
+    "5.21.0": {
+      "sha256": "11ed9ed0c0759c608455861dc52a91ca634ace7bee536e61b7d04ad827eeabca",
+      "url": "https://files.pythonhosted.org/packages/41/07/6a104d5909537975b1b2cc7bb388e3aa8d3433e7d9c0b62bcd9aeebd5b79/raven-5.21.0.tar.gz"
+    },
+    "5.3.0": {
+      "sha256": "271c6eda8763b885eb514e3fc2271b59ae62099c8e9371332180059a298e01ba",
+      "url": "https://files.pythonhosted.org/packages/60/ae/5ad4687c231c022ffa8d1aa581a568d15b7c421a07baa81e159c3b6b5ed8/raven-5.3.0.tar.gz"
+    },
+    "5.3.1": {
+      "sha256": "20acfc479a90d1167924663b1615ba329e691534ad167596837a15f61812a72b",
+      "url": "https://files.pythonhosted.org/packages/66/cc/aa1e135af66c1aed9bf8a4152afef5d7e0c7936ad695a249296b27a64ca5/raven-5.3.1.tar.gz"
+    },
+    "5.4.0": {
+      "sha256": "f9d1d68692494f7f9fc5b6208a169107dfeec3cd28a72081fede5fcd215a212b",
+      "url": "https://files.pythonhosted.org/packages/dd/2f/3e2d21bc279bcbc0b9e96eecd814060167efb666222170099fb37141ff6d/raven-5.4.0.tar.gz"
+    },
+    "5.4.1": {
+      "sha256": "be2600cdb3875dccb9eff6849a13d6360214a5bff13f063729ed3eb209fc6325",
+      "url": "https://files.pythonhosted.org/packages/50/45/f242f681454594680dffc83860dd64b42b1729f82d79fd05e6f5c544da6b/raven-5.4.1.tar.gz"
+    },
+    "5.4.2": {
+      "sha256": "3a3fdf3b3441f45d82534443053d3692b4e1b92fa136d827d06762290175f333",
+      "url": "https://files.pythonhosted.org/packages/86/8f/784c6ced6ebd82ca051bb613558d6620ddf25d445d5faf83386167788754/raven-5.4.2.tar.gz"
+    },
+    "5.4.3": {
+      "sha256": "92af7ad042a1f3a60b5b7cae0aeba29ab35050fa00781d1398dadc88549ce373",
+      "url": "https://files.pythonhosted.org/packages/76/b3/4104d9e7bbb68c0df5d783c29c10bcb68c79af83a9ceada6fdc0b93c84c4/raven-5.4.3.tar.gz"
+    },
+    "5.4.4": {
+      "sha256": "80990204d38e9bdaa71537b116d03f0c84983fb460248451f016a231ffc5318f",
+      "url": "https://files.pythonhosted.org/packages/32/19/9339a411dc63996e99eab342ea06852016d99164b1a8fab30156513dd42f/raven-5.4.4.tar.gz"
+    },
+    "5.5.0": {
+      "sha256": "ede426f8d8b4df665f881516602ca0bafbb38eb2d8e2d9a338363aecba41f989",
+      "url": "https://files.pythonhosted.org/packages/9e/05/f7ae62327c0da7e4634f295bfb15fdc6f6d19ab3ab1149f668be02e101bf/raven-5.5.0.tar.gz"
+    },
+    "5.6.0": {
+      "sha256": "ac06679295d118f84dd8a3d5e4a1c93283f9f8204da269f5f1f55253f754c840",
+      "url": "https://files.pythonhosted.org/packages/b7/82/cbfbc1da396e7291964c1e993e0ba9377efc67341c62146a8c69cc2a2647/raven-5.6.0.tar.gz"
+    },
+    "5.7.0": {
+      "sha256": "710b2cc5123ef1a213574b94f78d476215cc1785490e56cb8ea8aa3b92a56fa1",
+      "url": "https://files.pythonhosted.org/packages/65/8c/6be00eabc90e27666616bbe18da03b8cfcb016b3c51151912f707b3d102a/raven-5.7.0.tar.gz"
+    },
+    "5.7.1": {
+      "sha256": "3f2d65a2e8b47eb9933eac2501638a55390f9561caa8292fcdfa7fcc035d3d89",
+      "url": "https://files.pythonhosted.org/packages/dd/e0/58aacc97a8aa79b61591fb05bbd86bbb46563e20bb1e4af80ecaf0ed1a1b/raven-5.7.1.tar.gz"
+    },
+    "5.7.2": {
+      "sha256": "6ee351577bff691a064d093dfbf54a064a8f1d6e136602c5c45780f8a340b3aa",
+      "url": "https://files.pythonhosted.org/packages/0c/5c/6a9c2ebbcd57fb87c1813c17658743f3c749e5349594afbc6158ff2f8ae3/raven-5.7.2.tar.gz"
+    },
+    "5.8.0": {
+      "sha256": "a5629f310e024ea0e4e4026cb7d164aba5a161be7fa5b4286178f5d20d19f501",
+      "url": "https://files.pythonhosted.org/packages/d0/8d/7bc809ec95ac2527b173d90585689b51fd6dcd25e06f383c5b24230e342d/raven-5.8.0.tar.gz"
+    },
+    "5.8.1": {
+      "sha256": "594754ccaf876bfeaa949b39683422b82251bcec710b4ec099abaf2c9ce40fd8",
+      "url": "https://files.pythonhosted.org/packages/3f/37/dc3670f7a39d197e193fce737fb4c8d7da054a523857497ba437d31c5bc5/raven-5.8.1.tar.gz"
+    },
+    "5.9.0": {
+      "sha256": "c545c8bb603bd0a7373e9760c6fb16bb0657d6f356ed1210cbb94ce418f373be",
+      "url": "https://files.pythonhosted.org/packages/63/21/35d9ef3c910ed5b695a46cc8f53b495cfa5aeabf512de661527f5ad4819f/raven-5.9.0.tar.gz"
+    },
+    "5.9.1": {
+      "sha256": "8648f0ad131764b9471ad8ae7e325b52a79457de8c003a2c6e1df7ffc173b593",
+      "url": "https://files.pythonhosted.org/packages/72/97/eb5fad363c9d81c8b11e7f8618215dbfe90131469a286608f155e56b4fe5/raven-5.9.1.tar.gz"
+    },
+    "5.9.2": {
+      "sha256": "cd1c3e106fd3f9ba434f0d961413f54db99e2660aaba3e37a0c4509cdc0b5a8f",
+      "url": "https://files.pythonhosted.org/packages/96/f0/8a20af366173a755329eb9c80f0e062cba410392beea673414c550dbedfc/raven-5.9.2.tar.gz"
+    }
+  }
+}

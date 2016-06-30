@@ -1,0 +1,79 @@
+{
+  "latest_version": [
+    "0.4a30"
+  ],
+  "meta": {
+    "description": "XGBoost Python Package\n======================\n\n|PyPI version| |PyPI downloads|\n\nInstallation\n------------\n\nWe are on `PyPI <https://pypi.python.org/pypi/xgboost>`__ now. For\nstable version, please install using pip:\n\n-  ``pip install xgboost``\n-  Note for windows users: this pip installation may not work on some\n   windows environment, and it may cause unexpected errors. pip\n   installation on windows is currently disabled for further\n   invesigation, please install from github.\n\nFor up-to-date version, please install from github.\n\n-  To make the python module, type ``./build.sh`` in the root directory\n   of project\n-  Make sure you have\n   `setuptools <https://pypi.python.org/pypi/setuptools>`__\n-  Install with ``python setup.py install`` from this directory.\n-  For windows users, please use the Visual Studio project file under\n   `windows folder <../windows/>`__. See also the `installation\n   tutorial <https://www.kaggle.com/c/otto-group-product-classification-challenge/forums/t/13043/run-xgboost-from-windows-and-python>`__\n   from Kaggle Otto Forum.\n\nExamples\n--------\n\n-  Refer also to the walk through example in `demo\n   folder <../demo/guide-python>`__\n-  See also the `example scripts <../demo/kaggle-higgs>`__ for Kaggle\n   Higgs Challenge, including `speedtest\n   script <../demo/kaggle-higgs/speedtest.py>`__ on this dataset.\n\nNote\n----\n\n-  If you want to build xgboost on Mac OS X with multiprocessing support\n   where clang in XCode by default doesn't support, please install gcc\n   4.9 or higher using `homebrew <http://brew.sh/>`__\n   ``brew tap homebrew/versions; brew install gcc49``\n-  If you want to run XGBoost process in parallel using the fork backend\n   for joblib/multiprocessing, you must build XGBoost without support\n   for OpenMP by ``make no_omp=1``. Otherwise, use the forkserver (in\n   Python 3.4) or spawn backend. See the\n   `sklearn\\_parallel.py <../demo/guide-python/sklearn_parallel.py>`__\n   demo.\n\n.. |PyPI version| image:: https://badge.fury.io/py/xgboost.svg\n   :target: http://badge.fury.io/py/xgboost\n.. |PyPI downloads| image:: https://img.shields.io/pypi/dm/xgboost.svg\n   :target: https://pypi.python.org/pypi/xgboost/",
+    "homepage": "https://github.com/dmlc/xgboost"
+  },
+  "versions": {
+    "0.4a12": {
+      "sha256": "2587c714a2acbfebd408d3ab3104807e1a8313fe8e7daf7288bd982649f0e154",
+      "url": "https://files.pythonhosted.org/packages/65/4e/05d8fe3dd568cf57fe76edb3018d2a7d8bc57611b8fef6dd2e4cfb6c794a/xgboost-0.4a12.tar.gz"
+    },
+    "0.4a13": {
+      "sha256": "26c307d47ae35b4bd5cde0075770bd98b644dc0ae471c1b882062e8b2e12cbb2",
+      "url": "https://files.pythonhosted.org/packages/97/7b/344e3b849bb041dca7c6cab66be8007f64cdceebcb41cda9f1e10bc651d9/xgboost-0.4a13.tar.gz"
+    },
+    "0.4a14": {
+      "sha256": "2badab090ea80cb622a41c11849a6ab2a64d515f6a2005b2f2ed182becf47836",
+      "url": "https://files.pythonhosted.org/packages/6c/d7/b7e5027c95f1bd6676062af56bfbd53eee567f8384a4aa582330360a3989/xgboost-0.4a14.tar.gz"
+    },
+    "0.4a15": {
+      "sha256": "d61679623cf043e1d1392e6f74a9b3e5d9f1e6d9cf73b35c953e4143abc533ac",
+      "url": "https://files.pythonhosted.org/packages/16/ac/dd16a3206de8658a5e0076174941ae642ee10c958c53a35a7500993ca936/xgboost-0.4a15.tar.gz"
+    },
+    "0.4a18": {
+      "sha256": "35b1fef405031ea8668f2fa1ba4c53aca4fe6d16e0fabac098fc9829eccac01d",
+      "url": "https://files.pythonhosted.org/packages/b3/ec/110721470306e8c9199c46217cfff5c32ad1e7e8a2dabefa2603d79b32bc/xgboost-0.4a18.tar.gz"
+    },
+    "0.4a19": {
+      "sha256": "03a62506ebe4205b4af6e65309033fdd5493c128e6a794f3b068d052551700b1",
+      "url": "https://files.pythonhosted.org/packages/7a/b4/fa38771ebd221dd83aa37864157daebb7d8446fd6c3614dc6f56932f9643/xgboost-0.4a19.tar.gz"
+    },
+    "0.4a20": {
+      "sha256": "3b53d969021c40250e228f1480c957b9038eb2120788da55365ea037d2161c30",
+      "url": "https://files.pythonhosted.org/packages/cd/4d/9a9341759aa32358b794db9e21cd0825e9107e2fc7a641e285eb1b0b69b8/xgboost-0.4a20.tar.gz"
+    },
+    "0.4a21": {
+      "sha256": "79298b93155d9997342c730158528d892db5b02f743dbf3655a6f24079ece49a",
+      "url": "https://files.pythonhosted.org/packages/92/37/d7b963a6b307941e86758bd3330d62ace0c83eaf60fbacf8486a6e8d72da/xgboost-0.4a21.tar.gz"
+    },
+    "0.4a22": {
+      "sha256": "5b458ded211195acabd1e65521ba87c0adf82ed46cb5c79d43508ab98b1ec07f",
+      "url": "https://files.pythonhosted.org/packages/20/95/c089ee1be6574ed8167f0bfbd5f78c1adc7b1403ba3977d5ae98003882af/xgboost-0.4a22.tar.gz"
+    },
+    "0.4a23": {
+      "sha256": "91b5e021e77b5ecb0a659460c61d41b05032506b8b32f3e5b99d454e47c75548",
+      "url": "https://files.pythonhosted.org/packages/71/aa/206c86bc4be36832f8c73491d972a6c1bcdcd2717f1fb04d0bad0c61ae35/xgboost-0.4a23.tar.gz"
+    },
+    "0.4a24": {
+      "sha256": "0ec2d86d7636ac7bfdab24ad9cb09c9435c2d56c4ec54fccce684566d659cc1b",
+      "url": "https://files.pythonhosted.org/packages/ca/58/2c3265f4824a8c3a33784e7236adb7808d3c647cfe962045fcc53d10d570/xgboost-0.4a24.tar.gz"
+    },
+    "0.4a25": {
+      "sha256": "e5bec09cda7ef35733cb4cc02672a1dc0e824cebd9d0aaf4e99f0158993edf78",
+      "url": "https://files.pythonhosted.org/packages/4f/70/a236e5170ab7f72cf49554400d841a2046d7c712e2cf6524a435612469a4/xgboost-0.4a25.tar.gz"
+    },
+    "0.4a26": {
+      "sha256": "6f2f9200cd018283258622081d0720e4905f2e384839f50987884b353c6550f4",
+      "url": "https://files.pythonhosted.org/packages/4a/cc/9556005199e9f550c97bc1e81bff64431c952a9968f78651ba48b9687243/xgboost-0.4a26.tar.gz"
+    },
+    "0.4a27": {
+      "sha256": "a5710e7cff27cb87639eef1039f907f082241fe89f1f3ce6a10c6b29ad0f7f7d",
+      "url": "https://files.pythonhosted.org/packages/ec/c1/93d27b079b5edd76bc93d6cefcf82e667942bb576a5f764742401febe161/xgboost-0.4a27.tar.gz"
+    },
+    "0.4a28": {
+      "sha256": "081f667cfe78a83ffd2de91aa3a22345eea0571007ce3942b50523b105a28523",
+      "url": "https://files.pythonhosted.org/packages/21/5c/a221a2ea13ee14acd1ddc59e213fc788ebd2e7550249adbb12934367aa58/xgboost-0.4a28.tar.gz"
+    },
+    "0.4a29": {
+      "sha256": "7040c1b87aad12bf51996df02cde9f8c7e9bd70ff681786da61613df4d1109cc",
+      "url": "https://files.pythonhosted.org/packages/7e/16/d47c4ba06a5b4d364a7323013e040f3f21d50db2b50cfc962bad674b873f/xgboost-0.4a29.tar.gz"
+    },
+    "0.4a30": {
+      "sha256": "7adba625ec9f07849362fa21d1e1bacf51ef0afa7c988d123026c911ad7d9b8d",
+      "url": "https://files.pythonhosted.org/packages/58/85/94517fb4933fbc66c87df3f0166c48e421b1d3d082d8d0b29960f4e3b643/xgboost-0.4a30.tar.gz"
+    }
+  }
+}

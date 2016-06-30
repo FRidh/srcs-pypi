@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "2.0.2"
+  ],
+  "meta": {
+    "description": "Python module for scanning information on running processes, including mappings, open file-descriptors, process owner, and other information",
+    "homepage": "https://github.com/kata198/ProcessMappingScanner",
+    "license": "LGPLv3"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "a09c935b3915c65ecd4fcac7eed38d47f5cf1b07053bfe2156ab0347740bc57b",
+      "url": "https://files.pythonhosted.org/packages/81/89/7cb3864802107462858d5ad0a0494d843ead7fbc6964a2172124ed53f211/ProcessMappingScanner-1.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "5148ee4ee83e49fabfbb099852731c6e10cddfc9deebfe0d149a264771ad8f3c",
+      "url": "https://files.pythonhosted.org/packages/3d/fa/cedff6787facd316b4366ca06e72de56704c25396f314e7bae2e41b2daa0/ProcessMappingScanner-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "8fe79ba00aafc3e6408f7e3b2628daa4abf7f925416d09dac42fe64eda45c0c9",
+      "url": "https://files.pythonhosted.org/packages/8f/b7/934bab9b4c9d1c8664ae7f31b457459b298396dd34cbecd1f7596c7d9f8e/ProcessMappingScanner-2.0.2.tar.gz"
+    }
+  }
+}

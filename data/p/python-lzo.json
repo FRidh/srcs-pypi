@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "1.11"
+  ],
+  "meta": {
+    "description": "Python bindings for the LZO data compression library",
+    "homepage": "https://github.com/jd-boyd/python-lzo",
+    "license": "GNU General Public License (GPL)"
+  },
+  "versions": {
+    "1.08": {
+      "sha256": "81d783c64c404af3754f5448fe08fe5749fd6d691ea2265b0ce92068ea3d3ee4",
+      "url": "https://files.pythonhosted.org/packages/26/d2/6d118e3b8d29b61d75dc9279ae8233915aaefaa630f6a6ad3b9924147367/python-lzo-1.08.tar.gz"
+    },
+    "1.09": {
+      "sha256": "ca36414df3bb329cc5d614915b897907cf963c34500135eb02c5d67f9cbee989",
+      "url": "https://files.pythonhosted.org/packages/70/ea/4fc26a0ff65004c7cf27e24f7d2669bcc37d5e941353dfeab81a006f3698/python-lzo-1.09.tar.gz"
+    },
+    "1.10": {
+      "sha256": "105301a5218b5ce906ba951e346e0854fcbe9f0567b4d8f3bb27abe21a950d39",
+      "url": "https://files.pythonhosted.org/packages/23/42/41f7b17aca6a4d738e38f391ef3a64d1060ea57870a6f3961ca8218808c3/python-lzo-1.10.tar.gz"
+    },
+    "1.11": {
+      "sha256": "38a0ea4ceb27cdd8e3526509fe1b7a936e5dfa57c64608fd32085c129e8be386",
+      "url": "https://files.pythonhosted.org/packages/bc/ac/cec925b9367b8f7f18a606d462fe17069fb13b0fd2fe7df0c324a83a8018/python-lzo-1.11.tar.gz"
+    }
+  }
+}

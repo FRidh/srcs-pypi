@@ -1,0 +1,75 @@
+{
+  "latest_version": [
+    "2.0.2"
+  ],
+  "meta": {
+    "homepage": "https://bitbucket.org/cmutel/brightway2",
+    "license": "Copyright (c) 2016, Chris Mutel and ETH Zurich\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without \nmodification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this \nlist of conditions and the following disclaimer. Redistributions in binary \nform must reproduce the above copyright notice, this list of conditions and the \nfollowing disclaimer in the documentation and/or other materials provided \nwith the distribution.\nNeither the name of ETH Zurich nor the names of its contributors may be used \nto endorse or promote products derived from this software without specific \nprior written permission.\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" \nAND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE \nIMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE \nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE \nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL \nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR \nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER \nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, \nOR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE \nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "8847eefcfea34945c5a80261003b6e8902f61218f99249e80468cb8962b16c02",
+      "url": "https://files.pythonhosted.org/packages/67/d9/1dfabbbc2ebea4f3233213d16c5538365c7298795574a681239c665d4f5c/brightway2-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "b8d8afb6af5331a6abd0218ab44f733a91bba2fe0daf75e565c6c16e3674b007",
+      "url": "https://files.pythonhosted.org/packages/6b/4b/6fbd9cb81dcdc7ef14e67b6b228987f46242f09213f403897a406fe45188/brightway2-0.1.1.tar.gz"
+    },
+    "0.10": {
+      "sha256": "60d1f93ba47ba2d006b3a973da3603953eeeb5a0fa873bdd6d7fc82d2db3d5aa",
+      "url": "https://files.pythonhosted.org/packages/19/62/030e2990f3c44d21790fcb4f75264356bccb86fb9a7d58e4147e302c9d03/brightway2-0.10.tar.gz"
+    },
+    "0.14": {
+      "sha256": "d030ccff420218df27042fe5cf41ec5ba6b4cea7901f25fb2e167aad84d5f33a",
+      "url": "https://files.pythonhosted.org/packages/6b/28/a5d0dd640ccced6c569dfe7c2cbff6193f4ef2fbc709d6d013726ca64178/brightway2-0.14.tar.gz"
+    },
+    "0.7": {
+      "sha256": "7ce943e306a9291348bcb4ac18e132fb73e6d9c4499e2e1f014966174b92d6b1",
+      "url": "https://files.pythonhosted.org/packages/db/15/29a6786905fa39dd5a317c8bd1205a71671a5b1326d8c92b7fa690efe712/brightway2-0.7.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "0d9e43849fa6e590416da495bd08252d6878e2d3835095686b8240dc8a8838da",
+      "url": "https://files.pythonhosted.org/packages/88/82/3375affaf9a703e62d2c84a8b8108a976a2748d479a4cf1ed05bec5e3f25/brightway2-0.7.2.tar.gz"
+    },
+    "0.8": {
+      "sha256": "e0398e5ba90022ebeab2a9fa918ef483b3479ce7067c6fd7fea63f69b3854ef6",
+      "url": "https://files.pythonhosted.org/packages/71/be/fccc78e666efa87706016c633190e65d6b8fe6f5c947e03f5035479cf55b/brightway2-0.8.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "f5a229412fba8e958a5081f0ca491c6242194455e9a94a2111a0ae9c8b919ea5",
+      "url": "https://files.pythonhosted.org/packages/4e/a1/836bd2f29a97b6f1352f678afb544f286b7a4b52800d05cab52e02bedf7c/brightway2-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "bc81897af753319ca81166fa110fe99c8c11494a3600d3465349657ded2d02cb",
+      "url": "https://files.pythonhosted.org/packages/1c/67/ecad1fb3a90922624baa4118ecb6b43a1784dd216a16f97ad5480b4fd0bc/brightway2-0.8.2.tar.gz"
+    },
+    "0.9.0-alpha": {
+      "sha256": "26e7fd37729c93104ae8df638a60a0f669a2aa71a1cf14b0b507f5076c9546cd",
+      "url": "https://files.pythonhosted.org/packages/e8/bd/17880d1b2a237cda0a7bd382b2dd2992c3221f3908e7b9e54f1fd6fb5b38/brightway2-0.9.0-alpha.tar.gz"
+    },
+    "0.9.0-alpha2": {
+      "sha256": "9874269a3e80c3d7fb04c05aabee6bdd74b831d5e29c6c8418b2a788fb506e15",
+      "url": "https://files.pythonhosted.org/packages/ac/cf/79958f3abaee3b690d19dca3203927c5d5b69f41bbac1c3fb87c427b6410/brightway2-0.9.0-alpha2.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "6601b9272f94ac866bb4aea60368fadc424f72bfaefe758fad583d39eb0a363d",
+      "url": "https://files.pythonhosted.org/packages/92/ba/08b1926ade8e941990652be2e371b929b47dae1ff30ac3313c44c290b20f/brightway2-0.9.1.tar.gz"
+    },
+    "2.0": {
+      "sha256": "7682e940ce481182f43f48daf90b1759aa03654df61aab1f9d369d815d0ef257",
+      "url": "https://files.pythonhosted.org/packages/27/0c/1f1d2bdee3356b8ef77a7404fd52eeb43d86573c40de0f515c66114c59aa/brightway2-2.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "d5865e8ef67d192660a3b983ba54380ac4b2e09f3bb98833986a6259452e73f6",
+      "url": "https://files.pythonhosted.org/packages/b0/d2/11312eae2effda5a3c002abf944af293565433df3a8ba73bb534775f0de1/brightway2-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "a6469cef1c25e63357d08ab8ffeb1cd9798518c011febb75e21b94412db6fed3",
+      "url": "https://files.pythonhosted.org/packages/a1/23/564534ead9013e8dc7ef263582d4737d31b30695686a1182fb388d7e524d/brightway2-2.0.2.tar.gz"
+    },
+    "2.0.dev3": {
+      "sha256": "49459a8a092e0fc392b611fd33dbb757144f0f0cfdf00d545b29e87f34228865",
+      "url": "https://files.pythonhosted.org/packages/e6/bf/0cb2de455c0ddfe53a25dc8eab78475bf6f8ae4777ece337757aa5e3338a/brightway2-2.0.dev3.tar.gz"
+    }
+  }
+}

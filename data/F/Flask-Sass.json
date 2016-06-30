@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.9"
+  ],
+  "meta": {
+    "description": "A small Flask extension that makes it easy to use Sass with your Flask application",
+    "homepage": "http://dev.ufsoft.org/projects/sass",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.8": {
+      "sha256": "2cfbf4edef31a9e095cfd94479d19a24ef8ba63315ac3aead58ab03f6e6cb324",
+      "url": "https://files.pythonhosted.org/packages/e0/12/db6cd146e2595f88f1627ce21eccd07236a1aa50de56e688cbdce635932c/Flask-Sass-0.8.tar.gz"
+    },
+    "0.9": {
+      "sha256": "0cac3df666eca864d7428a1a07bb5c9bb377fab86dc67bd326c2b14201c32d5c",
+      "url": "https://files.pythonhosted.org/packages/6c/9f/a6dedd5b989fba1d76c0d535ab47e2ce75ce0b20fc64b0a7c360899011db/Flask-Sass-0.9.tar.gz"
+    }
+  }
+}

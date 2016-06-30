@@ -1,0 +1,224 @@
+{
+  "latest_version": [
+    "4.0.1"
+  ],
+  "meta": {
+    "description": "Tryton module for stock supply",
+    "homepage": "http://www.tryton.org/",
+    "license": "GPL-3"
+  },
+  "versions": {
+    "1.2.3": {
+      "sha256": "1190b065d66c38a080f9128d553cab181173fcdfd175a032976e4a2948dd27b4",
+      "url": "https://files.pythonhosted.org/packages/6e/bb/79458ab69854bcc95bfb977553c75cec062d0abc9a1c4597be4b162b0fc2/trytond_stock_supply-1.2.3.tar.gz"
+    },
+    "1.4.3": {
+      "sha256": "198f0b47eed53d94b4fab7906342d6a64b48b4dd6da29273bb49d70446a8d739",
+      "url": "https://files.pythonhosted.org/packages/dd/3e/077c4322ffd72df4583d208715fa95303680d58bcce511829cd214c1de09/trytond_stock_supply-1.4.3.tar.gz"
+    },
+    "1.4.4": {
+      "sha256": "cd68e28b388e0a7b47c89767c11361df8c9849fd81b9118e92d1813a4d2b3a53",
+      "url": "https://files.pythonhosted.org/packages/cd/b3/bac9ed2373440d4c0a0b5a7aef022dc4db2b2c2610afc47bcfcf2819da5f/trytond_stock_supply-1.4.4.tar.gz"
+    },
+    "1.6.2": {
+      "sha256": "094cb4babe218bd763ab43f3f32d30dc4df316a36420c7a24cf426ad3247eb19",
+      "url": "https://files.pythonhosted.org/packages/da/65/4433bc635059d8c389eb0f10ef2e34d5957bcb00524ebd9271deb4829fb0/trytond_stock_supply-1.6.2.tar.gz"
+    },
+    "1.6.3": {
+      "sha256": "b2ebc2f5a186f5cc12bda13d239eddfa0f3f3037db8b444c0769efe2b544ebe9",
+      "url": "https://files.pythonhosted.org/packages/52/8f/de508b54f0c052882bfa19572ebf8fd2311b1897d21119d7645cc7a7d6e1/trytond_stock_supply-1.6.3.tar.gz"
+    },
+    "1.6.4": {
+      "sha256": "05ec2924439e07c4ce04257fba59b4f6e8d6c7c8a555f7fd12b4e55d8699e5a9",
+      "url": "https://files.pythonhosted.org/packages/d8/b4/9e5ae820acbacec5aae8137f75a7a54177c079d1673cbb40348cff3d1212/trytond_stock_supply-1.6.4.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "ce3715bed4bb5fd2a30c92e1a55f811709656354de7c05b33d179b3315f19359",
+      "url": "https://files.pythonhosted.org/packages/ad/b0/1ff0bd769ea0ceee4b82ebae51cd60b05cc8b1a7b90f4e3ad0c9b0ff5c8f/trytond_stock_supply-1.8.1.tar.gz"
+    },
+    "1.8.2": {
+      "sha256": "8f651cbf2b220b7cd0f30b048a898933921c286a31ae54e909e5e5a260c07a77",
+      "url": "https://files.pythonhosted.org/packages/3f/fc/ce3018bfb5c993fd0e6368a8f3a4b47795bcfc9d2a2193e3f58e3827d31e/trytond_stock_supply-1.8.2.tar.gz"
+    },
+    "1.8.3": {
+      "sha256": "b10a875499166a6f4a8eac0cd724dfec14ec4c49f11366a4771139dcb90fd4f3",
+      "url": "https://files.pythonhosted.org/packages/2d/bd/6397d85f12c94de33d29db6cb4fad0f147ae5ca949d9b14bac23eb1e4281/trytond_stock_supply-1.8.3.tar.gz"
+    },
+    "1.8.4": {
+      "sha256": "84c756224df1f16eeb02268b60e44a9590c58cb69c898ebba8281fdfc66453f2",
+      "url": "https://files.pythonhosted.org/packages/4c/17/17eba44a95ea1e9df43553ba94f030a71f5337aa2bf36fcfdace0871110f/trytond_stock_supply-1.8.4.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "35fee30449599f11797350030d27ee0ddfa957e6168e82a97f0cf6766b6f5201",
+      "url": "https://files.pythonhosted.org/packages/46/de/ba0418d808f6abdf75bd5d6296b5b8381b4a77b91bb4920f381d12b1fbfc/trytond_stock_supply-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "12632abfa16222a1766118f9932ed9ac85278c02464acb148d80aa12dd576698",
+      "url": "https://files.pythonhosted.org/packages/83/f9/fd9f13b26c2bf21af0d966594c003026af2b6262ba392afecea8fc600327/trytond_stock_supply-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "d7437310ff5a3e797c06d1d1b5bf319d527fa369a417f7cc3fc7bc22086a357b",
+      "url": "https://files.pythonhosted.org/packages/6d/ff/5c7a1bb0e02eb01e024ec4d4b1bb7355bfad7f620dc17c334e51b0be4952/trytond_stock_supply-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "aee1614b27527ca1f10e526c48f4125fd800ab4883af92eeacad1cad96a2774a",
+      "url": "https://files.pythonhosted.org/packages/03/11/aca98a4d99a5f5975b746bfa6099bf1ba3b007b1243d930889f248db8c4d/trytond_stock_supply-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "bb44bc61df653f32bd7a8a5605e6b7de15bdc7263ed28ebc6b3847a75af6bca0",
+      "url": "https://files.pythonhosted.org/packages/98/3c/becc70b98ffe63d5b463b19138e9612c5c2a9034b8a7de5855db1d919fca/trytond_stock_supply-2.0.4.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "69526f7a04c40add7acea8199fec26603f081df156b22506eff24b7db87dc395",
+      "url": "https://files.pythonhosted.org/packages/7e/0b/8a462e93527833c063499982dfb8618b97130bc07896b482cd2627401d0e/trytond_stock_supply-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "b05c8e8e1a866cae907535762d7bc414ff1823b87659b4c8dc6dc815976aeae4",
+      "url": "https://files.pythonhosted.org/packages/02/9c/c3c34442bc6fc474f4aa471f4a2629d2ea957ac51dace2e9d26f42117cea/trytond_stock_supply-2.2.1.tar.gz"
+    },
+    "2.2.2": {
+      "sha256": "239f565314c31315bef3365cdb031e43bcda7bd75e04a6cef8b1e964c060a632",
+      "url": "https://files.pythonhosted.org/packages/46/f3/f56cc107e80a194110221ba2d7f7706bac1b7549bc1fc38c3d4a18bd9971/trytond_stock_supply-2.2.2.tar.gz"
+    },
+    "2.2.3": {
+      "sha256": "7e92c61e80f60039db35d57f1cf3653e85d3213ca666f7f182c22664394101c7",
+      "url": "https://files.pythonhosted.org/packages/dc/4d/bdd913dffeaa648d9f8a10db4444cdfe6e3398437fb93340aac084264f71/trytond_stock_supply-2.2.3.tar.gz"
+    },
+    "2.2.4": {
+      "sha256": "036e0470d5ef3feaddab8c0c2a42726a09fc25aa1bed29b8f9a91b770127a492",
+      "url": "https://files.pythonhosted.org/packages/19/a8/afdc44e1d107006a29a3b9d71cc9404aece5a52cdfd923dce85fc28eb9c4/trytond_stock_supply-2.2.4.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "1215af6a815ad8d20226d68e26190d539468df7677ca616873aed5b6014c2557",
+      "url": "https://files.pythonhosted.org/packages/da/d5/e7f2fcaf0963819bfead9466c2229948d82accd30a288776c470220b0c6d/trytond_stock_supply-2.4.0.tar.gz"
+    },
+    "2.4.1": {
+      "sha256": "117d09d7a72d209f76f8518382c84e4391c62186ff1b0af51c3a30e1a00a3554",
+      "url": "https://files.pythonhosted.org/packages/15/ba/62bfa0ac67ea967b24191dc370259abba2e3304e51112389a76313451608/trytond_stock_supply-2.4.1.tar.gz"
+    },
+    "2.4.2": {
+      "sha256": "b7218db47b91041624566b6f228232e854f5f7033f20f21f87aaa2f732359ae9",
+      "url": "https://files.pythonhosted.org/packages/08/9a/9fc96a12333a7f3b3e41c860cf43cbfa7c83eddef47d68ca36cae6af00b0/trytond_stock_supply-2.4.2.tar.gz"
+    },
+    "2.4.3": {
+      "sha256": "c9706876f801b15ce49c2027c8e5d931bf1f23263c5c316b4121c3cc35860625",
+      "url": "https://files.pythonhosted.org/packages/1d/a0/f5055a72fd022aa5a0b09e74144db8d930c2afacc6f321140474d7d228a7/trytond_stock_supply-2.4.3.tar.gz"
+    },
+    "2.4.4": {
+      "sha256": "faa6b21e11e0762dcaa14e78cc7e05961a6fc6b68c7154a2a838bc669f8cda61",
+      "url": "https://files.pythonhosted.org/packages/77/c7/da4a0737bedbfee75724d0f9737cae96dbcd5b1ff2508fa7254d9964cc5d/trytond_stock_supply-2.4.4.tar.gz"
+    },
+    "2.4.5": {
+      "sha256": "2a5e9373747d3cbb89956e88be5ddd5c6e5c6e824afbe4c62539c66c0163432b",
+      "url": "https://files.pythonhosted.org/packages/46/93/02f63feb4a3000fc0f141795e3542240a2a2741a3c4bf7e599eac7a22f33/trytond_stock_supply-2.4.5.tar.gz"
+    },
+    "2.6.0": {
+      "sha256": "0d09a2b80ffbb402e13bae6e5268b132b1c185aa7f0c0d15a4f6d4539506dcb2",
+      "url": "https://files.pythonhosted.org/packages/f0/fe/e0adf6715393cd7475b63e473a27ce108246564ef9ef42c64e67ce2c0ea0/trytond_stock_supply-2.6.0.tar.gz"
+    },
+    "2.6.1": {
+      "sha256": "d1da1079e75f359f8e1ce07049ffc17c145c044bb64447d7b337a2956ab0fbcc",
+      "url": "https://files.pythonhosted.org/packages/d4/04/9dec10568acf521ba8d336d4904cd266919e2baf8d6b54aeb71315618a4b/trytond_stock_supply-2.6.1.tar.gz"
+    },
+    "2.6.2": {
+      "sha256": "47d13549f7a91f3bc833df65cfc7d5fb049bdd286de9db14622acbfad705d2f8",
+      "url": "https://files.pythonhosted.org/packages/2f/ca/5dadae12f1aad08142ec4b528e54149910786518596e9b1d91b3e4dfa7a5/trytond_stock_supply-2.6.2.tar.gz"
+    },
+    "2.6.3": {
+      "sha256": "cfa10989c758dfb25bfc8769a9f195882157c686477fe7cfbd013a8939764b04",
+      "url": "https://files.pythonhosted.org/packages/e7/05/a50f2d8e61a1ec3f8c725228f4a6849ac6f137fe37b59c30d4c8ce0c3899/trytond_stock_supply-2.6.3.tar.gz"
+    },
+    "2.6.4": {
+      "sha256": "9c1f00a0c0050df0ff19cd97e4f3d8710bff8351af97042a630c4c2619b7f468",
+      "url": "https://files.pythonhosted.org/packages/a5/c4/ecd4494cae1abe4a8c4f96df999f93291e3614c68de49884962685589e84/trytond_stock_supply-2.6.4.tar.gz"
+    },
+    "2.8.0": {
+      "sha256": "4afdd6082fa20344838653e2a9333e0caafe7a4ce1e0cae0fe12e04ef4f8dcb0",
+      "url": "https://files.pythonhosted.org/packages/b5/d6/dc6e7323e9c18bbd05c7f6cb915aad9368a0477eb1fc37293f0ae07bbcaf/trytond_stock_supply-2.8.0.tar.gz"
+    },
+    "2.8.1": {
+      "sha256": "6ad8a0d9ab59fba4395145fc0b1a47c4256fec44d420c2e9f45f25a9a5a36fe7",
+      "url": "https://files.pythonhosted.org/packages/7d/f4/e3c5181a70bdbcc2d396e9bb92421375810566caa5352fe3a370406b3e60/trytond_stock_supply-2.8.1.tar.gz"
+    },
+    "2.8.2": {
+      "sha256": "ccf721c145754c159ff4d940d0c987b00b377b398e93205707e5326aac870a6f",
+      "url": "https://files.pythonhosted.org/packages/73/a7/299101bc1d211cf7c4513e25bd1d3b170bb20b87e34c56b41ed54f2e85b8/trytond_stock_supply-2.8.2.tar.gz"
+    },
+    "2.8.3": {
+      "sha256": "926469d86551e5f80b80c41eaf777719ebf689ced4ba1228b6e5232b9f05092c",
+      "url": "https://files.pythonhosted.org/packages/0b/29/43a7fc85b0c15b1d3720dcc010caa3e31270c85ac467abc211ec5bbf4f49/trytond_stock_supply-2.8.3.tar.gz"
+    },
+    "2.8.4": {
+      "sha256": "ead27bf748bf87864ca2177029015befdc46139748f0db17554103c90390bc7d",
+      "url": "https://files.pythonhosted.org/packages/71/f7/5f394dc4520917a1210dafe99c0b93c8accd8331fd9cc44a1b26b24429e8/trytond_stock_supply-2.8.4.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "4e9ed55d5817976b36b2b86dc58c3c67e20473f9dbb4d64bc2a8051863547ec4",
+      "url": "https://files.pythonhosted.org/packages/ce/f7/02f57b28b9bc6099df5b5dcda5d17c40cc2bd19a98fa63547e216860c2f2/trytond_stock_supply-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "d26b435738b3f9c63914a7fb481de849b5cbbfb4d07841a493127e13a0a3a891",
+      "url": "https://files.pythonhosted.org/packages/49/79/12aca0697c4b1b4443626342a5016d4784e4e4044a494ab6ed70db8b9fb9/trytond_stock_supply-3.0.1.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "59da191d221620bce8b55c4c27582582b3880c6ab87951008f82d8f60bded0b2",
+      "url": "https://files.pythonhosted.org/packages/54/58/b03a2d675c703579a038c06e07ecbb07442ebfa15413f79b2c746becfb7b/trytond_stock_supply-3.0.2.tar.gz"
+    },
+    "3.0.3": {
+      "sha256": "94ae52bb849020a10f6538f5080195c1c589c009717b9f3809731dd7edf084f6",
+      "url": "https://files.pythonhosted.org/packages/c9/b0/27de542dc7b04c35b228406cf5614a1ee74bcf225cfa993b548f94ab867e/trytond_stock_supply-3.0.3.tar.gz"
+    },
+    "3.0.4": {
+      "sha256": "4d9afa89ddea6af00005ec82d33ec515dd23c61071502daa21f4c1f7457b4f9c",
+      "url": "https://files.pythonhosted.org/packages/96/0f/4de7b59301b5809054523b31fadae7e1392409519256bb78e8d7bd09b41c/trytond_stock_supply-3.0.4.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "c9a055e6acce80be8123ab6ec780eb44fdf1750ae81176ab5a4898fac28ca6a1",
+      "url": "https://files.pythonhosted.org/packages/59/d1/2c616aac17f776fb5da9b343fc051d10c22e985b0ca96b28a75494d89606/trytond_stock_supply-3.2.0.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "97c2a3cfe439c59a203335261fc47cfd1d3e7da6d9afe51cb7f0f2b3f56d298d",
+      "url": "https://files.pythonhosted.org/packages/f4/2f/af0e89702707565a49048775011d2eacf4e82baedad2c8a8d691c51da59a/trytond_stock_supply-3.2.1.tar.gz"
+    },
+    "3.2.2": {
+      "sha256": "6197ee0fbd212c3c082d507c64e5cff21dccb873fb649608454e6a074bb54a74",
+      "url": "https://files.pythonhosted.org/packages/ee/9f/173d564fcb6f5b39adbbdbc037e22a8e466a5d75f613af0cbcd6fa23c6b8/trytond_stock_supply-3.2.2.tar.gz"
+    },
+    "3.2.3": {
+      "sha256": "b9c9c6cfe7ad77cf23c92022687be5b50d28c6fe2ea01efd97e97bd183dc2c44",
+      "url": "https://files.pythonhosted.org/packages/55/c7/d8c1f8b9f6799b99d39bb18136dac4a8c8ff53f2974a08513327b06edc37/trytond_stock_supply-3.2.3.tar.gz"
+    },
+    "3.2.4": {
+      "sha256": "f2b36912d822b794aaafbca64c712237025ca1719b807ef03d1585cd9833f97d",
+      "url": "https://files.pythonhosted.org/packages/d1/d1/c712fb03ad64e7c9a5b1a8df2c4e43a90469afa9d2c188d5d906c5c044d9/trytond_stock_supply-3.2.4.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "b1be8e8685d8dd4e65c14e8c593090f4cbf16efdcbf477a6a36205c2f267e484",
+      "url": "https://files.pythonhosted.org/packages/cb/42/7772a10a38363df7ad563de0d7edb40edf4230ec8ea87f52a5c223b032da/trytond_stock_supply-3.4.0.tar.gz"
+    },
+    "3.4.1": {
+      "sha256": "ec21effba3a84ea9452e426cf15974ee7c106969fe1103f7763fc8bd463d079f",
+      "url": "https://files.pythonhosted.org/packages/15/eb/e26ce6abc07f5a1fc9059d059bb06930518aaba43d57466efb37ef31baad/trytond_stock_supply-3.4.1.tar.gz"
+    },
+    "3.6.0": {
+      "sha256": "2ac543d969535009b0f3dd1086cabe1317f03ddf2a5f89b34718c30b959556ab",
+      "url": "https://files.pythonhosted.org/packages/d8/51/6c1b3832f0835287850e5d2b6664308cb0dc64db8aa90d8a3303ef94b858/trytond_stock_supply-3.6.0.tar.gz"
+    },
+    "3.8.0": {
+      "sha256": "0d562e75d1c15d294825168c3466a8a96d539d6872dfe802488ddb10db6eaf78",
+      "url": "https://files.pythonhosted.org/packages/f7/8d/eff693a94bb9c461d982646ed09837eec533a441a867d36dd440ac02a90f/trytond_stock_supply-3.8.0.tar.gz"
+    },
+    "3.8.1": {
+      "sha256": "e207884087e11e0ec0d139804b95681cec9485077fc9ff6eacd892dc251ba481",
+      "url": "https://files.pythonhosted.org/packages/df/ed/72fda07e96a00816c5ff854fdd03dac1e780735f3407c2f301f60c388985/trytond_stock_supply-3.8.1.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "f8bb17aef10421a6ee53f0cca1e7f1576dd5ed43def0b31243b1b7fe4f1054b1",
+      "url": "https://files.pythonhosted.org/packages/ee/02/9a3e3b7a10fd8c3f239596e3f11ecb89b7fb82ef59cad140728a4947aad6/trytond_stock_supply-4.0.0.tar.gz"
+    },
+    "4.0.1": {
+      "sha256": "a2ea2aa03b68334c0479632c353173e7c7b2cd7fefe4f4b61eed5c7ab415aff1",
+      "url": "https://files.pythonhosted.org/packages/4f/cb/45a55459868a1d9850ea1a00c44fcd768790e66ca1806623b85c5230512e/trytond_stock_supply-4.0.1.tar.gz"
+    }
+  }
+}

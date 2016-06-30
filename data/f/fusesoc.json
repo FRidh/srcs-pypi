@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.4"
+  ],
+  "meta": {
+    "description": "FuseSoC is a package manager and a set of build tools for HDL (Hardware Description Language) code",
+    "homepage": "https://github.com/olofk/fusesoc",
+    "license": "GPLv3"
+  },
+  "versions": {
+    "1.4": {
+      "sha256": "17610c86561d238631b6b2e48f8cd4359b75f28b68d447ec4db477252284ff34",
+      "url": "https://files.pythonhosted.org/packages/fe/19/42be5f4eedac806bc8f583ed68366da7a303e1f235073e8aa32ecc7e7c17/fusesoc-1.4.tar.gz"
+    },
+    "1.4.dev1": {
+      "sha256": "2701fb4c6528511a935caf4e1a5124bfc7259740f4df06b325eccbccb39ba5f5",
+      "url": "https://files.pythonhosted.org/packages/85/8d/5ce96e00fa4d01367ace635c8b6d0c7d0daaa78c497b841a76277b398d42/fusesoc-1.4.dev1.tar.gz"
+    }
+  }
+}

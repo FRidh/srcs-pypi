@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Django application to provide information from Brazilian Institute of Geography and Statistics (IBGE)",
+    "homepage": "https://bitbucket.org/semente/django-ibge/",
+    "license": "GNU General Public License (GPL), Version 3"
+  },
+  "versions": {
+    "0.1.2": {
+      "sha256": "8ce763d312f94ff151cc7210dcc507bee7ee7df09a71d5d5a013867704284dcc",
+      "url": "https://files.pythonhosted.org/packages/c1/4d/7db114ba17e52be1360ba50f2a28947d4d09203d7fccf7073717d795c5fc/django-ibge-0.1.2.tar.gz"
+    },
+    "0.2": {
+      "sha256": "037c68eb55042cd7826a5a5d2d0d801aece7800307f36ed4adf0e5e74159ee50",
+      "url": "https://files.pythonhosted.org/packages/29/ef/a31d616203a8d26e38e20924560cb8cbc510c0dcf09e509535ff7ccb245e/django-ibge-0.2.tar.gz"
+    }
+  }
+}

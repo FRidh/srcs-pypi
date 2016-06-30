@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "2015.1"
+  ],
+  "meta": {
+    "description": "Python wrappers for particle FMMs",
+    "homepage": "http://github.com/inducer/pyfmmlib",
+    "license": "wrapper: MIT/code: GPL2"
+  },
+  "versions": {
+    "2013.1": {
+      "sha256": "bcc30894a99fec25a7fab2ea93ca8d92a2b0fb3bbe33447aad5b3a093ba15afe",
+      "url": "https://files.pythonhosted.org/packages/12/61/8734ff2569a6cf27c185492aa18921abf64498f13d0224b1250a64a8fa94/pyfmmlib-2013.1.tar.gz"
+    },
+    "2013.1.1": {
+      "sha256": "b80ae2d04d45f55c37203933162ac2f5cd160af83e76ed03ec7d480f074c33b8",
+      "url": "https://files.pythonhosted.org/packages/90/f1/480b3e28bfdf0dc3fc20e0f162a7faff0d99993283529148eb206cdd9c2e/pyfmmlib-2013.1.1.tar.gz"
+    },
+    "2015.1": {
+      "sha256": "ebf99adb2e10c225af36787aec1b2770a22a5448451c055dd31e514fb17c5172",
+      "url": "https://files.pythonhosted.org/packages/0e/71/17614ad71be96666e3f96f6e29200853cb36b77c09fd4e2de754127f3536/pyfmmlib-2015.1.tar.gz"
+    }
+  }
+}

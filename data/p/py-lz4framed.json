@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "LZ4Frame library for Python (via C bindings)",
+    "homepage": "https://github.com/Iotic-Labs/py-lz4framed",
+    "license": "Apache License 2.0"
+  },
+  "versions": {
+    "0.9.0": {
+      "sha256": "9ef5b3dc570d9c427ce62cc09bec917480b3b6098d9e610addfec4a0a80c56fc",
+      "url": "https://files.pythonhosted.org/packages/02/f9/c06d56db3508bb65336f5139f4ebdfc8edfabca09f9ad9f06d93f6d1ba30/py-lz4framed-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "a68d0f2f86d90a51c8b5666ac2244c03d90898862165a207e94e8801b97570e0",
+      "url": "https://files.pythonhosted.org/packages/d1/dc/92613fb8a9a588706fab674e0718c0e57844f93c0c10bfc1312cd86d485e/py-lz4framed-0.9.1.tar.gz"
+    }
+  }
+}

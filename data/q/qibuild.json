@@ -1,0 +1,176 @@
+{
+  "latest_version": [
+    "3.12rc4"
+  ],
+  "meta": {
+    "description": "The meta build framework",
+    "homepage": "http://doc.aldebaran.com/qibuild",
+    "license": "BSD"
+  },
+  "versions": {
+    "3.0": {
+      "sha256": "f04c250ec199e56761196504ce629aaaebf76075d9e4fee5c25a646e086ec196",
+      "url": "https://files.pythonhosted.org/packages/8f/61/0ba0ec78ef66dc6ac8f143a0b1eb344022c406f64fd8f379020c305a4cf0/qibuild-3.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "9fba1df88cefc722b7d3d4b4e6b9a3a26b216d0dbefd6aec5fe4b4c064afa632",
+      "url": "https://files.pythonhosted.org/packages/50/6b/4ba7b519eb6bc571f39cc690ba37a7a7cadae3331b90745df4fdc08027ad/qibuild-3.0.1.tar.gz"
+    },
+    "3.1": {
+      "sha256": "51b662c1cd972b2c6ba57fdc4a5a7fe0eb9f3c78a974369eed6b5111735a8de7",
+      "url": "https://files.pythonhosted.org/packages/c0/6a/0173ff67aa39b479c14b15fb763270b95a1a039ca664cf8e5d9dd211aaea/qibuild-3.1.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "ab585f3adb91969a9c32095aae73a546cac6972597beebefde5da664ca8624bc",
+      "url": "https://files.pythonhosted.org/packages/7e/60/f70444f9e9ee03fac70f49b9d535ced61a9239a1861db1ac493c761ac1b7/qibuild-3.1.1.tar.gz"
+    },
+    "3.1.2": {
+      "sha256": "5fe6418b460a3d593161708b378b7a9b4a3cc313de1f467631aa2a478cd01be8",
+      "url": "https://files.pythonhosted.org/packages/64/53/a289b0081d134c9b6cf00d1e6a749b574465c58c01d64c3ec6e59817d3a0/qibuild-3.1.2.tar.gz"
+    },
+    "3.10": {
+      "sha256": "9014686ffea67fdfa1c1c7903ccf58482cf6c7b53ac3894e2ef83809595d29a7",
+      "url": "https://files.pythonhosted.org/packages/ea/01/8b9b0b0fc1eeb26cfb1a0a86bf7557e903da1ee72564e7b2616b701ce033/qibuild-3.10.tar.gz"
+    },
+    "3.10.1": {
+      "sha256": "ff41f6acd80ec1f33ec7657ff44ba37c7b6416c8d6a1fec43effabac8646aafc",
+      "url": "https://files.pythonhosted.org/packages/14/a4/80387f61e7fc342e12f23688814292fdc1cf9bb52cadac5a59605f24f75e/qibuild-3.10.1.tar.gz"
+    },
+    "3.11": {
+      "sha256": "bb740e4c9470d7b8a26aeb1605adfd05b56b74098215d1f86694571f02cf846d",
+      "url": "https://files.pythonhosted.org/packages/a0/49/0440e039fc8f563ea216135e611a8d0bdd9aba37127eb8979a5c545ffc8f/qibuild-3.11.tar.gz"
+    },
+    "3.11.1": {
+      "sha256": "c965bdaf991167514a7bcd5635ca8fe8beeabb58f064f2dfca33c7ba86c51216",
+      "url": "https://files.pythonhosted.org/packages/82/e3/86afca05babbca838336f46076e27fb567fd13e234e4772a643e17c7f785/qibuild-3.11.1.tar.gz"
+    },
+    "3.11.2": {
+      "sha256": "a4108b0c034ec82df250fa9275db6351cc0d60bc0b5b9577e1f9e4a232aab4b0",
+      "url": "https://files.pythonhosted.org/packages/5a/71/b2563a63c1a32edf894f92dd530fac1f4f96a4e408d851339e07007f2ffe/qibuild-3.11.2.tar.gz"
+    },
+    "3.11.4": {
+      "sha256": "69660a263745dff43f8c03f0fd360677985f2affba4791a83922bd48569c14da",
+      "url": "https://files.pythonhosted.org/packages/50/75/546e1431764f07eb7d51653e35ae35a68b53b691566add27a9bd99985935/qibuild-3.11.4.tar.gz"
+    },
+    "3.11.5": {
+      "sha256": "7032ed011034aee6d5068d4ebb490f4d56238ba4d483006be8f352505ed45195",
+      "url": "https://files.pythonhosted.org/packages/fa/9e/0062fec2b175e1e7791318e32ee7497dfcf39499e73b826bf35acdc31b51/qibuild-3.11.5-py2-none-any.whl"
+    },
+    "3.11.6": {
+      "sha256": "d59e9f296a9258c81d6deffb4b084088927d91b1d497362e7d0d0db3ec0f0b1f",
+      "url": "https://files.pythonhosted.org/packages/59/75/4eb8ca5559483dba95b796e3ba395d0555eef25a3695f9c76a46dabd0757/qibuild-3.11.6.tar.gz"
+    },
+    "3.11rc2": {
+      "sha256": "c4460db1338f7d35d1a6578ca0f7e379367a55bec5281cc54ea8812196bd6fc1",
+      "url": "https://files.pythonhosted.org/packages/fa/36/001dc1b4fdfcf0e9deee3d8f886b02f17a71763dccc97d210d2a2418fabc/qibuild-3.11rc2.tar.gz"
+    },
+    "3.12rc2": {
+      "sha256": "e8e9705c6d8a5c6a756697dd835e8b214f724185045eb9e706e0038b373fa241",
+      "url": "https://files.pythonhosted.org/packages/7b/e6/f97ee31348ab2c0a2135a697c884a5bbf1281af0606a46da491d57992e3a/qibuild-3.12rc2.tar.gz"
+    },
+    "3.12rc3": {
+      "sha256": "cee5a1b48c7576de62eac66d28807179561795ee8c8cb5063afaa4b48204335e",
+      "url": "https://files.pythonhosted.org/packages/42/17/e4d219d9342a276ad8658ce6d0129c081c3007fab77e9914665f445805bd/qibuild-3.12rc3.tar.gz"
+    },
+    "3.12rc4": {
+      "sha256": "1e0ff38cc82d6bb45209cad1027c8514d9616467a3afdd04bba2eb3b75daee75",
+      "url": "https://files.pythonhosted.org/packages/54/16/116b4ee11e02ad1a65dd24e18ea13cdff1747e76e2efb8c1890e35289d14/qibuild-3.12rc4.tar.gz"
+    },
+    "3.2": {
+      "sha256": "8fb8a07c864d0f29f13920933306cb70ce3a0e028ed4270785c5e3a29563db7a",
+      "url": "https://files.pythonhosted.org/packages/43/db/48783136d632f6a1d037f3c1f017315732dae17845a477990563585b1723/qibuild-3.2.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "929926a5306346f0118464b6bd9ac7efb425e9fbca6f3102f6288b4777bb55ed",
+      "url": "https://files.pythonhosted.org/packages/f7/6b/1bdf64785500e3ba9687985182069c02fb8290d91eb4c2beed36fb7b4bf5/qibuild-3.2.1.tar.gz"
+    },
+    "3.2.2": {
+      "sha256": "61d0a61132fca35ca806a97bbefa7ba792d1f2fb8313900ef3b40092a2121c7c",
+      "url": "https://files.pythonhosted.org/packages/ab/03/05be432d72c3ff350b7cb25a00fabd6fd90b20ccd87277fd6d6d9f78921b/qibuild-3.2.2.tar.gz"
+    },
+    "3.2.3": {
+      "sha256": "84cbf459a8bb340689235776b5c7700e68e8789e27877487713621ee99a71200",
+      "url": "https://files.pythonhosted.org/packages/8b/6e/b463235b7d8c2594165937d65d001243cf8ec01055e051ce6c04797ca64a/qibuild-3.2.3.tar.gz"
+    },
+    "3.2.4": {
+      "sha256": "d8f540dd41778ded3999468be8b631e80e05be5cb9e7523909e3f3496659f20e",
+      "url": "https://files.pythonhosted.org/packages/a2/18/a39f54c6129a036bb845c49b38a8111b55a9c1eb85936caf06ba84b83b1e/qibuild-3.2.4.tar.gz"
+    },
+    "3.2.5": {
+      "sha256": "dcb50fc7ed7eb3e8a8ca26c87c64c740429b530995801a5db2b43378ee427d06",
+      "url": "https://files.pythonhosted.org/packages/04/1a/26fc6274b73152f63c9c9b0f18c246c01093cf5e0913e8b6462ea88cd8a2/qibuild-3.2.5.tar.gz"
+    },
+    "3.3": {
+      "sha256": "4011ba1b98e6b52a50860bfcdc093974984f1268792229b3fce7a51baf470496",
+      "url": "https://files.pythonhosted.org/packages/b0/d0/ba316c5dbef10da91e4c3db371833d7955bfeb227b46e0e547a4b894438f/qibuild-3.3.tar.gz"
+    },
+    "3.4.1": {
+      "sha256": "7bbd4ffb1927b23e2d104bb43171c16e9377db8918590baa8877372541e42364",
+      "url": "https://files.pythonhosted.org/packages/0c/66/3676fd78a95b2ceb4ebb6a065d03facde5a65b41ee4150be7df583935d90/qibuild-3.4.1.tar.gz"
+    },
+    "3.5": {
+      "sha256": "9fbae2e13655a9e01641ce406006d3b353e3833e644c4b5b98b4a7b9daf14fa0",
+      "url": "https://files.pythonhosted.org/packages/50/bc/308d9aa2d64665f5ea7eb197278d2a281f0761999ef0d23673b1f4cf1fb7/qibuild-3.5.tar.gz"
+    },
+    "3.5.1": {
+      "sha256": "cbdb7a29695a23cfb17810ea33b118bae0b146990461101d16220433c6133f54",
+      "url": "https://files.pythonhosted.org/packages/fb/99/5b5702f69c0a0020f405bb6e75673f5a2c819e736ddc9a2e05a4596df441/qibuild-3.5.1.tar.gz"
+    },
+    "3.5.2": {
+      "sha256": "c33d870770a18c8ca6ab69dddb03eb51bfef3d92e31419fecbda3756ae81b734",
+      "url": "https://files.pythonhosted.org/packages/98/84/fa09e52b3a1d29e55f744f8a71d23c2482fa76bb02234fec4b5ffa716dcd/qibuild-3.5.2.tar.gz"
+    },
+    "3.5.3": {
+      "sha256": "da6f2a733c14c6e49ccb7fcc0b94f76681f89eda364a1e6b4585209832885f13",
+      "url": "https://files.pythonhosted.org/packages/4d/a4/296dd8d4eaaf15e7ddf7b1a5e9993462242513bfa0c6647bf416eb0ab709/qibuild-3.5.3.tar.gz"
+    },
+    "3.6": {
+      "sha256": "ac0192c6676585ab7af77612fba2390fce3a37eedd1554e1e359a02491a150cc",
+      "url": "https://files.pythonhosted.org/packages/3c/b2/ca7fd87c6d3a975e324157e6320f1c2d1ad195f74a550f0b56e7adf74f35/qibuild-3.6.tar.gz"
+    },
+    "3.6.1": {
+      "sha256": "76a207f8d24a82d00db76edbb133828301ed1987c6c2e2c08ff5fb9fca741503",
+      "url": "https://files.pythonhosted.org/packages/78/ed/05d3b5ea97509b19678ec28135b9c42e92a6bc8356803492e1be525b1c76/qibuild-3.6.1.tar.gz"
+    },
+    "3.6.2": {
+      "sha256": "5dc43b28926799c2c9cd10a34bd3545d316284b7a1c4e14acf057b19602b3449",
+      "url": "https://files.pythonhosted.org/packages/9c/98/6667086b33ecb5ea878510a5b77d0ee2640ec70116764d0ab7f51fb2d587/qibuild-3.6.2.tar.gz"
+    },
+    "3.7": {
+      "sha256": "b27f8c922041e00e45292f269e8f75fd112ed0f9109a6654047ba0685f9704a6",
+      "url": "https://files.pythonhosted.org/packages/94/4a/90c6309fd1536205a9777a63466dd4765a1fc71e966c2cbe863220281f91/qibuild-3.7.tar.gz"
+    },
+    "3.7.1": {
+      "sha256": "d7f95d78421c86dae1fe13a3706b2cd92a92155100568829a800c1f614a74c9d",
+      "url": "https://files.pythonhosted.org/packages/6c/78/2019434e18575f9f04e10fa2d3bf6806c2e62b2d94d263e0dae2d51103e3/qibuild-3.7.1.tar.gz"
+    },
+    "3.8": {
+      "sha256": "1ffda23baf7173e61ffaea9632075d76a805479302d3f3ccab7845abd72ab2b6",
+      "url": "https://files.pythonhosted.org/packages/e2/72/9e8e69ee1f4bb5a241b871bff787885bb2d77acd989d7370f110c24bfedb/qibuild-3.8.tar.gz"
+    },
+    "3.8.1": {
+      "sha256": "a96049908247bafd4b19612a8c26e521d165b2131ebb551131f0409178410a59",
+      "url": "https://files.pythonhosted.org/packages/18/6b/0d2937c2376e7fb3e46cf96a312e3787e9caf1a56a8e55f3e91a96226318/qibuild-3.8.1.tar.gz"
+    },
+    "3.8.2": {
+      "sha256": "1c200fc9d9ee67af1e9db1faa764c26f8e7984a04963fb3935938b809c7b2ea8",
+      "url": "https://files.pythonhosted.org/packages/7d/ae/a58dc9eb42afb6f909158e2310a53fdcdd11aa844598a7718ee1801c5a54/qibuild-3.8.2.tar.gz"
+    },
+    "3.8.3": {
+      "sha256": "d57c1e3a431532bbca0a1ead236a161be4048eb8c36f8a3bd84f77f0fd03214e",
+      "url": "https://files.pythonhosted.org/packages/6d/ec/4184853f9b93f7866ec794705f462230d03a91597d1c794158817949ee98/qibuild-3.8.3.tar.gz"
+    },
+    "3.9": {
+      "sha256": "76fd8834a7b105e4c5bc34d20f431f5e5c02dbf85095ab2b1b4c26b5b05fae92",
+      "url": "https://files.pythonhosted.org/packages/e5/5b/5c42c29854a8e45d06e53a1677bd19a17e23a64921c45e2f8cefa9d5a2cb/qibuild-3.9.tar.gz"
+    },
+    "3.9.1": {
+      "sha256": "ce12a528e2067bb8973dca3587c20e51c5bf4d1f054982384f4a26dfcf6534c7",
+      "url": "https://files.pythonhosted.org/packages/be/ff/945c562b0008d47e2810964438ced6c1e6d0239ff30bcbc4bf8ca686864b/qibuild-3.9.1.tar.gz"
+    },
+    "3.9.2": {
+      "sha256": "066ba83412a8da716600ec1f4db6b26ed7596195e76af60d2a9418ab517ef51d",
+      "url": "https://files.pythonhosted.org/packages/03/df/6160ae74beb6524e9b0597243ca1c79f6bfafe517736120b399b38c2e8cc/qibuild-3.9.2.tar.gz"
+    }
+  }
+}

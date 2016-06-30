@@ -1,0 +1,120 @@
+{
+  "latest_version": [
+    "2.0a4.dev0"
+  ],
+  "meta": {
+    "description": "Build and/or configure Varnish Cache with zc.buildout",
+    "homepage": "https://pypi.python.org/pypi/plone.recipe.varnish",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "dfb8200f029ebd8487ba6125355594ff382089688ff26b63a26c173842f65a6f",
+      "url": "https://files.pythonhosted.org/packages/b3/0e/994a9c6b6db494e95ba74d194e4b63107b29c3c0348a507d36e019114165/plone.recipe.varnish-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "75bf20b1cf9fd49651547d0d69e137cdc29466878c6ba2e5675c4812e48affcc",
+      "url": "https://files.pythonhosted.org/packages/e7/43/645cef5cb053e9adaeec0132a2dd44d8e6671383b1e6706c5485f4658176/plone.recipe.varnish-1.0.1.zip"
+    },
+    "1.0.2": {
+      "sha256": "6f593acd3979f9202fa4df1806cc2f477aee9e9a6e220d9cb3c3f09ef24625ca",
+      "url": "https://files.pythonhosted.org/packages/2b/33/564fb0b43feee32dfc2b63cb847a87e9314c1242ea74b6479590811446bf/plone.recipe.varnish-1.0.2.zip"
+    },
+    "1.0b1": {
+      "sha256": "4f0bbd73f164415cba3884ed229bbd2fa15be77f27ed17b7f8c9e342adc6f33c",
+      "url": "https://files.pythonhosted.org/packages/8b/35/6f1f6bfb3a522d18a2307231a061926a31e948eb8fa1d3dd2607e60759b0/plone.recipe.varnish-1.0b1.tar.gz"
+    },
+    "1.0b2": {
+      "sha256": "79b868caa40f455ee52951fac0756951fc1c45b747708c74e344ea89ce840deb",
+      "url": "https://files.pythonhosted.org/packages/9f/68/52181689bd2226b4d4384163a277ded1b2eb9e2108ce25d0c418d282acdd/plone.recipe.varnish-1.0b2.tar.gz"
+    },
+    "1.0b3": {
+      "sha256": "a16adec4a94f6c66c32b2ee16060d597c203f7116767208e9cb6360f5eade843",
+      "url": "https://files.pythonhosted.org/packages/ee/8c/38d188ba52db9bdc5dc8c816b68afcbd830a23d0a6e7b22cc79b0cc5bf5f/plone.recipe.varnish-1.0b3.tar.gz"
+    },
+    "1.0b4": {
+      "sha256": "640f0ca03e7eab6ad8c4dcdb803f76eaeef885ab66855599a8b7573c10238cd4",
+      "url": "https://files.pythonhosted.org/packages/cd/96/fd3df78d9b16ac93cc225646756b2687e967eeff1643d7e865f0d1d7ca41/plone.recipe.varnish-1.0b4.tar.gz"
+    },
+    "1.0rc1": {
+      "sha256": "1188f698e42a03ba8658c0f6ee421a2c5967bcb7147c11f570053ae824ca1120",
+      "url": "https://files.pythonhosted.org/packages/16/ac/57c77f4cdcf0fe6532cf5ae1607607ce4d8012701d96c9f1fe63c4922135/plone.recipe.varnish-1.0rc1.tar.gz"
+    },
+    "1.0rc10": {
+      "sha256": "0901786dee8ef28069016bd5a6599afe229ba7b176fdf874b3a0a4da4793a372",
+      "url": "https://files.pythonhosted.org/packages/1d/0d/fcfd54d946d01dcf2dd01200fcffd231aa38d4de69d5c326e2e5a3778a35/plone.recipe.varnish-1.0rc10.zip"
+    },
+    "1.0rc11": {
+      "sha256": "e17ebc5172f1a024561d9437be45ff68c1a06b07473b70c436e6cccc99ab4bfc",
+      "url": "https://files.pythonhosted.org/packages/d7/f9/d06bfb024208ec3b4d8a13dd3450b50fc5cf1ff9805a0c21b2833b3f0d93/plone.recipe.varnish-1.0rc11.zip"
+    },
+    "1.0rc2": {
+      "sha256": "6ee57d2b238367551a2fc7c7f45d3f041f08fc9f96f68a84c2a69c9dbe561d4b",
+      "url": "https://files.pythonhosted.org/packages/58/e4/89ba75b5bf7c49bedd9bc2087747d66d42fadf889f987b312eaab4fd7f17/plone.recipe.varnish-1.0rc2.tar.gz"
+    },
+    "1.0rc3": {
+      "sha256": "df8f1c96acc4f45ea8ec395613e297f42e64d42f85820f63fc13c2051e551e82",
+      "url": "https://files.pythonhosted.org/packages/8f/fd/277ab679560a5d26e64c296b6e4018584e267c13816b92e67b31ca8e8b9d/plone.recipe.varnish-1.0rc3.tar.gz"
+    },
+    "1.0rc4": {
+      "sha256": "c5e82c3e220bbcc01ef893eb216cd6f499db872a95d0797990530f381bbfe701",
+      "url": "https://files.pythonhosted.org/packages/84/84/a1862bf9fee8d87a623db8e95e57995f0b748d7c9cb836942e4b4367ac81/plone.recipe.varnish-1.0rc4.tar.gz"
+    },
+    "1.0rc6": {
+      "sha256": "507377da9f81803b31e56b48e51334d3997e0e3084702f97290b15e8e627ca95",
+      "url": "https://files.pythonhosted.org/packages/fd/96/7c985fd06441bc8f51062a3ee3db9817ff3ffe416ef12cfbd0eeb9279b9a/plone.recipe.varnish-1.0rc6.zip"
+    },
+    "1.0rc7": {
+      "sha256": "ab9e14752312c9bb7165c0cfcd84c8e39ba76cdeece5ee2b3286d1bcdca64cac",
+      "url": "https://files.pythonhosted.org/packages/ce/f8/3f2ce74539fe2ecd3912b3e62408b2e3ad1d1a16ea4e35c01225afbd58c4/plone.recipe.varnish-1.0rc7.tar.gz"
+    },
+    "1.0rc8": {
+      "sha256": "0823fc73f3eed534d8b7e17ddf063a94098defaf9327dad3f811b48fef55be97",
+      "url": "https://files.pythonhosted.org/packages/87/3e/b3b7c0124738190e3d1486ffbe5db96327f30b38d511a9431f62f3f9324f/plone.recipe.varnish-1.0rc8.zip"
+    },
+    "1.0rc9": {
+      "sha256": "391cd724c77f79a1c00ab8ce5059514775be790c6631100e159f7070ba6c09d0",
+      "url": "https://files.pythonhosted.org/packages/c2/19/628db65e18d30df49018f498d23be781710bfbccdf8045dcbb17d4e9236a/plone.recipe.varnish-1.0rc9.zip"
+    },
+    "1.1": {
+      "sha256": "dffa148617fd794043d1a90b9a6972cbc74bf97a8190699a5e63fb17928ed1fd",
+      "url": "https://files.pythonhosted.org/packages/59/9a/03bb1fba93ab0093334bc6c76ca8045561104884f7c7e6ed1872cc7a89e8/plone.recipe.varnish-1.1.zip"
+    },
+    "1.1b1": {
+      "sha256": "5a0523fdcd7f81a7a161d8182db61d4446dbb84cb47f3a7e5deb8fd65d3bbabe",
+      "url": "https://files.pythonhosted.org/packages/34/e4/de37b84549932426ef0db0dab636e6459cc135f3b386aa9926d026b0bb90/plone.recipe.varnish-1.1b1.zip"
+    },
+    "1.2": {
+      "sha256": "73cbd30e172487a27fcef21485c9957e60491e6ee718d0bce4074ad47423ae78",
+      "url": "https://files.pythonhosted.org/packages/cb/5f/f22f1a69ca4b0c8c511d5efa18c5731882928554295f62d4f29128644d64/plone.recipe.varnish-1.2.zip"
+    },
+    "1.2.1": {
+      "sha256": "ebe12052dd121259844d7264c68a983c2b487bb4ab2c0739619022af7e506657",
+      "url": "https://files.pythonhosted.org/packages/e9/59/9016ed13ab620ce790df1ae9a6dde07d4899e17e1df8f91a83bd3a105761/plone.recipe.varnish-1.2.1.zip"
+    },
+    "1.2.2": {
+      "sha256": "779694bdec990810cead469b597561114fa415d5be589762d352a18c5676a2f8",
+      "url": "https://files.pythonhosted.org/packages/7e/8f/95b7df03272115c7e899c98cb59c732e121f2f2432dcc03eda86f3e54885/plone.recipe.varnish-1.2.2.zip"
+    },
+    "1.3": {
+      "sha256": "5f9f758a8c9f644169c6a48e0bc2fb65711cbfc4602db2636dc7e2fa956bf1a1",
+      "url": "https://files.pythonhosted.org/packages/4f/e3/ccc023ea1c6a5a4e22b857494db6655f4dfb7d22d21d8519b76ed52e0e8f/plone.recipe.varnish-1.3.tar.gz"
+    },
+    "2.0a1": {
+      "sha256": "92a726276356aeb51efb23b03c6d53eb4e3398c68b1d6a932928c9f2be9d4b0c",
+      "url": "https://files.pythonhosted.org/packages/69/cb/10bff42c6885dd9547d1905f722230c1da9003687f885cf26a096219c829/plone.recipe.varnish-2.0a1.zip"
+    },
+    "2.0a2": {
+      "sha256": "bde028551ae950519e0fdefbc9d4c4e7811c63b41059273fb487756fcb01b76f",
+      "url": "https://files.pythonhosted.org/packages/67/0c/c343739b997be457bdd98971329fe82aedc1eac9b39c2a35a9d4890a3c5b/plone.recipe.varnish-2.0a2.tar.gz"
+    },
+    "2.0a3": {
+      "sha256": "0faea49c654f151cbe590de741e1f5a952172e2c25a0c6717d0dece6cf62410e",
+      "url": "https://files.pythonhosted.org/packages/25/59/c70587595595f89e95d88157e31658264f403a7d93e09693d143fe61de9f/plone.recipe.varnish-2.0a3.tar.gz"
+    },
+    "2.0a4.dev0": {
+      "sha256": "91ab5f5a139ba66065cefcc8af2bf77fdd7ba6532142593f532481ba5dc9fe26",
+      "url": "https://files.pythonhosted.org/packages/e3/85/0fcbb3ae6fb376e5e3ef8901a16c57ab52296fb0e59a727d8edc68700156/plone.recipe.varnish-2.0a4.dev0.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "This package uses websockets and facebook API to let you create real-time application (e.g. a facebook-authenticated game). It is based on Fandjango and gevent/websockets using django-gevent-websocket. Readme is still pending. Sorry",
+    "homepage": "https://github.com/luismasuelli/facebook-realtime",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "5393d52f94a025e799840fd1cb07d4820134e33dbe71a074fff49be3401d2b79",
+      "url": "https://files.pythonhosted.org/packages/da/0c/0de25ea7d3ff5a162f45c1d591c86ff880613cc59cc6945c49f1ae385f3e/django-fbrt-0.1.0.linux-x86_64.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "80db1dd88a60677bdea9af23de0985a18971faeaa0463736847f914989e353c1",
+      "url": "https://files.pythonhosted.org/packages/c7/31/1495ed804d40f40c14383533cba65e1be5c08d98691bc637f7230020d6ff/django-fbrt-0.1.1.linux-x86_64.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "3"
+  ],
+  "meta": {
+    "description": "DO NOT USE. THIS WILL BE FOLDED TO MAIN PYCSW. pycsw is an OGC CSW server implementation written in Python",
+    "homepage": "http://pycsw.org/",
+    "license": "MIT"
+  },
+  "versions": {
+    "2.0-dev": {
+      "sha256": "0c10b186af9710084425e263d598c2c0755eb9eff24adfa28ad84c5dbfbb5dda",
+      "url": "https://files.pythonhosted.org/packages/99/f7/85c2a21c5a1ffdb6b64d95da863146a0c2245928acd8193c8ee335388c25/pycsw-hypermap-2.0-dev.tar.gz"
+    },
+    "3": {
+      "sha256": "5e80bd9f889b0a327d7226a968fc65780a4d6c3aa6c4180b0d21eade9af57154",
+      "url": "https://files.pythonhosted.org/packages/08/0a/f3c668980fd6f3f84cf7f3876f9aa4811452d5728f9a1f4d331bb2b76406/pycsw-hypermap-3.tar.gz"
+    }
+  }
+}

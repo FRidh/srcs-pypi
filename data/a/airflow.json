@@ -1,0 +1,132 @@
+{
+  "latest_version": [
+    "1.7.1.3"
+  ],
+  "meta": {
+    "description": "Programmatically author, schedule and monitor data pipelines",
+    "homepage": "https://github.com/airbnb/airflow",
+    "license": "Apache License 2.0"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "74936c06ba199282f81f7fadaa566a06b56ad045657ee9ac194c1f544adc6e01",
+      "url": "https://files.pythonhosted.org/packages/de/77/3ee82c8a64d6602fbbd8a20b67841b7620ba97d7d59fe5655a4942f7024a/airflow-0.1.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "be5aec6857ef4ddce4a1be256a0054ebaacd2a41f306ff5879cf20a0cfce4b5f",
+      "url": "https://files.pythonhosted.org/packages/81/2c/e3a2cc5d5502646e59508f28171234f1e46a02e37023932b126b206fbeb0/airflow-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "67159368acd1324807e32d1a19100bf463cf73a9c75a4fcc21475d0a4fa07982",
+      "url": "https://files.pythonhosted.org/packages/1d/df/19a68ac82d296e079bbbb93105ce8e4e4461a54ddf37af612302c245a883/airflow-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "25cf4d3654c2bafb1ccd4776a793421924ef27a7996f4e7a7f6e8d561f0d7c99",
+      "url": "https://files.pythonhosted.org/packages/16/ee/df3d53b187eeaf02786ef1f15d7184a9054a99ddd182d000229156f5374c/airflow-0.2.3.tar.gz"
+    },
+    "0.3": {
+      "sha256": "e839b10d8247f096d3c621cec7f1cac119ab41768a838981ab99a52ed45ee921",
+      "url": "https://files.pythonhosted.org/packages/3a/a5/ea7003bf26d07637bec258340e25369e70288898302bdf160b7b2f8635ef/airflow-0.3.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "c64ef1e2650a856ff874be6f14b2e3f5378323ddfd7224cddd4837fbf12dad37",
+      "url": "https://files.pythonhosted.org/packages/55/b1/e6ce5d3f17a8add77195831d39b3ac905512ab8b30dc4de4d381c1cc234f/airflow-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "d9032f9fbe1cf860fdb7ad9bda44d10d1185a46430adbcc02c2c89bfe5e0675d",
+      "url": "https://files.pythonhosted.org/packages/f1/a1/75fea419325844c97e84e48c85d4aa7ab946eea76eb0cd1ea55413d9bbc8/airflow-0.3.2.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "abb8531b92b16a7a1dabf58c6baf9321afaba217380dc03d6601ee529153236e",
+      "url": "https://files.pythonhosted.org/packages/36/2d/0ce29f0b5314f39aee78679be6e4b34d06f4c48aea61fe3ecaac88fbae57/airflow-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "e4858311ca3b7b3a1ab3795b9cd4f2180834f9fef05a295f3a163c9f11349626",
+      "url": "https://files.pythonhosted.org/packages/a9/f4/52868a5eb1a457c40fc578ac1b4ef6bf2a727f1b2a2340e2ef6a9b9fe74e/airflow-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "6c3ea9c3537b0302aa813987420a2bd8fa8ac817497397092dc5ef36f216ad47",
+      "url": "https://files.pythonhosted.org/packages/b7/b2/2f4d38e13e1a414584cd297cf1a206c9b9374149039c532423a894db3ff4/airflow-0.4.3.tar.gz"
+    },
+    "0.4.5": {
+      "sha256": "3ae48a8dda56110f95241f92327177988f6e96d228ac48f1b0ef7c90104d740c",
+      "url": "https://files.pythonhosted.org/packages/0e/96/5d3034c41b65db875e851a575f077da144a03902df66d8d6b263bcba6fdf/airflow-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "aa60ef7c665f0611bb5e2d556c0f56fcd8eaff02673cc5c7c12d843cd34ecf40",
+      "url": "https://files.pythonhosted.org/packages/7d/58/962f6930669fe3591def6b40e4294add8194104801e0f1a1739c001e31f9/airflow-0.4.6.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "68f2ae00af9db7ab1c8c6f2cd320b348621e1866c69a2c1c3f9ba70d088a2489",
+      "url": "https://files.pythonhosted.org/packages/30/6e/0bea7dbe9775807a4299fd4b1af7414ec793ec3262c0f9fdeac3f419ef4e/airflow-0.5.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "d16493c227d5fbd9657a0f745b29bca61664243b4e2fe02fffeb881398c6fbca",
+      "url": "https://files.pythonhosted.org/packages/71/7d/7affd13a075b7529ce21172f838bfc5d0a9d38b1c5bafec0e2f61530512c/airflow-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "b28cad2b3725534c0eaec10b454b7005113faf390eec15f820518040198205bd",
+      "url": "https://files.pythonhosted.org/packages/25/a2/f8518701e55ac289b8f21b7967d81fc88f0512b6f26be9ffbaeb2bdea422/airflow-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "3416325ed7bc5405e796a318b177588c8d2d42b8f3a06bc0aba1d67454490679",
+      "url": "https://files.pythonhosted.org/packages/96/05/e59d45abdd9fee9081f3941791fd071ca1657a15d99016baaef37154ff16/airflow-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "e056e715ed7ef0646f1326a219068d0d588a5320b816ec6ee6badc153e71801b",
+      "url": "https://files.pythonhosted.org/packages/c9/e1/24853eb52fb1c23185cb7e0963c00c7f32931a028c6f139d0d166e21a290/airflow-1.1.1.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "c0c0c63fbea45ffe0844fba770d36e0bd5f388a4b98c368173e49a0f9873e13f",
+      "url": "https://files.pythonhosted.org/packages/6b/25/b432969abef5f4be3244019184d3f10542ddfbd573623249b0bf8794493c/airflow-1.2.0.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "bf525452cb9ce5700b5da1c07ae04e38e27038c60e86245b9bcd61855f3c1daf",
+      "url": "https://files.pythonhosted.org/packages/10/af/6442016331de5943ffc66a1da1d988db6630b19594b16212669f66a4d139/airflow-1.3.0.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "84812d4b981ab30a8c006c0bfe6318ae3b661e19c32f516603965958ab46ae6b",
+      "url": "https://files.pythonhosted.org/packages/cd/09/d1eb37316963cd095195f1fc0219f0244a4bbeb2934dcf31bc96c0c001d8/airflow-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "cf1ebe1a54cf8052ad8ee26f050d6f26a28fd61e0ddb6da9aeac7ba04f781072",
+      "url": "https://files.pythonhosted.org/packages/e9/cc/94b60d2fcf639bb6ee43ba26a4939df0b55ac88651e511610d9f29d16460/airflow-1.4.1.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "d3cd36d3fff919161d80778635efa28919dd33d3565dc590f0387d726e2753b9",
+      "url": "https://files.pythonhosted.org/packages/fd/b2/0dfaf0113cc5f671312cf76533b29fd0bd2774507627258d54883a2f67f9/airflow-1.5.0.tar.gz"
+    },
+    "1.5.1": {
+      "sha256": "4ae20b9523cc0b6fefef8a80d68376cc661186f9329faaf648eefef4aeadba0d",
+      "url": "https://files.pythonhosted.org/packages/54/b7/68de0d3f1836a126acfd0a0edd990cfc3ab256daeaf9d1a4a7d09c720afb/airflow-1.5.1.tar.gz"
+    },
+    "1.5.2": {
+      "sha256": "9134c13fec005127305f2506a4dd9ee8e470a363c2ceba6612abccab474b2025",
+      "url": "https://files.pythonhosted.org/packages/ed/13/8eb3af91be3c7eeacf8a826720300a4fedf74bcafe2e01ab90b4045f3c3f/airflow-1.5.2.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "a2df37c82cd9e8212f82162c7a591e892c8b175a5a26b8bb266eea76c8bd055a",
+      "url": "https://files.pythonhosted.org/packages/e1/18/6f79059198d2a54ef0fd6b2d34c8bef310bb10ca3325b0a227e9d0cbcfb0/airflow-1.6.0.tar.gz"
+    },
+    "1.6.1": {
+      "sha256": "099051fd1cee4fba807fa5fe377ad5614b8d2bffc4f8b0ca3cfaed85603292c6",
+      "url": "https://files.pythonhosted.org/packages/cb/6d/ccea57bac9072fe21417e9d0a6f55de65bae009da7ba1d32c49fc7246e74/airflow-1.6.1.tar.gz"
+    },
+    "1.6.2": {
+      "sha256": "91ffeb88b3b455d8670ff934e487cbbd5b9afa92fdbe892b3d99f3910429b608",
+      "url": "https://files.pythonhosted.org/packages/e4/e6/8a995fd9c18684417b35f472642387a440f3db83b32472b662002f4b6978/airflow-1.6.2.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "226d051e5422afed32ddddb521bb8310469ec40aa3ad960e5cf792a09df9d54e",
+      "url": "https://files.pythonhosted.org/packages/58/a4/12ec0ec9179e6dbe17c5579f276a5f101eebc069d28783abd922654d1182/airflow-1.7.0.tar.gz"
+    },
+    "1.7.1.2": {
+      "sha256": "0ff8ec92b4989fb25f2a584d378c3920c0163a2fe577e8c3bba65a7a2d98e87b",
+      "url": "https://files.pythonhosted.org/packages/b5/21/a9cbf3b2f3949a16a7566c2d60855e279410b688b60b82c21b9548ef7f58/airflow-1.7.1.2.tar.gz"
+    },
+    "1.7.1.3": {
+      "sha256": "1221fc9cd46f55b5c9c12f5d6a5af6df392c79323eb15dacad01322b2c77557d",
+      "url": "https://files.pythonhosted.org/packages/a9/6d/ede90358956fd449b830eec80d3754608ece237971adeb917aacf0219226/airflow-1.7.1.3.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2rc2"
+  ],
+  "meta": {
+    "description": "ImageField that crops images that do not fit the expected ratio",
+    "homepage": "http://plone.org/products/cropping-imagefield",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.2rc1": {
+      "sha256": "0004e7b0227e5cbbdd6f0f3a8de12fc75518b86ce14cf8a2a004160af3c1c1ab",
+      "url": "https://files.pythonhosted.org/packages/a7/7a/f3461dc68ef4b6080673aa3f56bba51fc014d1a4859028d79106715795eb/Products.croppingimage-0.2rc1.tar.gz"
+    },
+    "0.2rc2": {
+      "sha256": "d0fde0200fbac22cb63fd02e4622148730aa3e2c91381072ac236247a8f2d137",
+      "url": "https://files.pythonhosted.org/packages/92/c3/4bd91b9239dc8508004c77e7305460beca3b0fb4f517567086cde4052e3c/Products.croppingimage-0.2rc2.tar.gz"
+    }
+  }
+}

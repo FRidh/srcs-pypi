@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Wrapper around low-level FS-related calls, with support for advanced FS stacking",
+    "homepage": "https://github.com/rbarrois/fslib/",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.2.0": {
+      "sha256": "97f157d62b6b7f935b6daf2af929ef95b0a87ddba8be8ee52bc9479a66218312",
+      "url": "https://files.pythonhosted.org/packages/dc/02/3f24fff3e82248a51e77bc8de60ba2968a0c12b87ae97d1b65ab34a5400b/fslib-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "01331f04f497a8447e8ebf889e0e18dcbbb10439930f97a6f34ef363a18dd028",
+      "url": "https://files.pythonhosted.org/packages/d5/a6/90065e9eb4a308d9cf33efb7b583fab79168825f17799d1bfc33c9d57d1b/fslib-0.2.1.tar.gz"
+    }
+  }
+}

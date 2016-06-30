@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "A reliability layer on top of fedmsg",
+    "homepage": "https://github.com/fedora-infra/gilmsg/",
+    "license": "LGPLv2+"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "3d87bc259256ceec6f64dbd3a6c74781ae4719431fc41c895df1dbecc0b055d1",
+      "url": "https://files.pythonhosted.org/packages/20/37/3093f1007f5fa33d7fa61e626a8c658dcec5abd5b89e3db5e888d0b793e0/gilmsg-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "8339eaf9734bd520446b678ca1192aae1ddaabb7ef300eed916adee29b44b82f",
+      "url": "https://files.pythonhosted.org/packages/c9/5a/c613f9e13a1e21e25d3a8d9c7abe813a01ed59ef4668b925f1e2925d37b2/gilmsg-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "bc108b3b45a3c3c1ca517bdfccb9f9cf3e3f4f5d724accf70ecf82acfd2b5166",
+      "url": "https://files.pythonhosted.org/packages/20/9d/c65d5cb72af1e030256de07edd4eee14427671c29a71bdd46e7c7b56d7b4/gilmsg-0.1.2.tar.gz"
+    }
+  }
+}

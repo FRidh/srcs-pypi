@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "1.2.2"
+  ],
+  "meta": {
+    "description": "Advisory exclusive locks, shared locks, and freezes (locked to no-one)",
+    "homepage": "UNKNOWN",
+    "license": "ZPL 2.1"
+  },
+  "versions": {
+    "1.0b": {
+      "sha256": "b61838bf25a3d5687aea23f302c1e505c7e36891bdc02164493d1516b0043422",
+      "url": "https://files.pythonhosted.org/packages/14/ea/e48ecb826edb9f803bb61a63744696c844569e2e4330335051dab5432a49/zope.locking-1.0b.tar.gz"
+    },
+    "1.1b": {
+      "sha256": "01314dac7306ba227c8cc4def03c90778b9de334b510e76a7770aa49d19f1277",
+      "url": "https://files.pythonhosted.org/packages/ec/fa/10a08e1c81a861a8d15bb07b8f7c9e33b52f58d78fddf870e0157024be9b/zope.locking-1.1b.tar.gz"
+    },
+    "1.2": {
+      "sha256": "922b187044a797f2826b4941f9bec1fa5e8c9b32a7c0ce9dde4cc482477a34be",
+      "url": "https://files.pythonhosted.org/packages/2b/69/052d72681ccc314fa3fe079e08000dcef7bf24bd27700e53aa88acd6daa8/zope.locking-1.2.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "5a31e72be936dd9b2bde98e6fa0211cbdc135bd89a0707ae64bf746a9f342645",
+      "url": "https://files.pythonhosted.org/packages/77/30/0d383feac1f84a159b5c53f393bcf3eddff2298def58d2371821c1b49ef1/zope.locking-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "66a94fcda859832a28eb8442f3962008d3023a207bacf3a00015638ce2347f92",
+      "url": "https://files.pythonhosted.org/packages/e6/e8/4330c768e23759c2620a9323093ec578ba770fd4a38920e1ba8498e96587/zope.locking-1.2.2.tar.gz"
+    }
+  }
+}

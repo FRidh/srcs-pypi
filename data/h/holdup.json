@@ -1,0 +1,44 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "A tool to wait for services and execute command. Useful for Docker containers that depend on slow to start services (like almost everything)",
+    "homepage": "https://github.com/ionelmc/python-holdup",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "793582ed4a6a3997d97c98d527346662b5f91c6acb55a76fd5722151cf1782c6",
+      "url": "https://files.pythonhosted.org/packages/67/00/8e3c28ae326cff89e3498a6427386af415a790a8da4b4dd882ad1bf69fe0/holdup-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "da417ea85bad96c5f2aa4c80c66c62fcd6b24569d970c97068f6bd60cef3e231",
+      "url": "https://files.pythonhosted.org/packages/97/11/9d39c2d5a7db137a4e7feacff19f985e91ec56743851cdf2a38fbd39d1a0/holdup-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "b9d785ca48cdf1cf8a12d0f372cad72d547cb9d9e4ebdcadb681501ed0dad3fb",
+      "url": "https://files.pythonhosted.org/packages/e6/b9/8debcef926865d1060d7aba62d1fbe609a97551f4ad8f7e8804d1c5cf0d2/holdup-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "4587d7c3eb388d4f4d339ea78d3c919dfb5d06f726b0f66dd4b1105b338d87fc",
+      "url": "https://files.pythonhosted.org/packages/f6/29/54652c5f45c9dc726eb8e5c8511ee81a92698d634a93474b5fde6988868e/holdup-0.1.3.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "b18822c309efa781427d7d3c89884a6ba2722f74440b5b407441914c524a7772",
+      "url": "https://files.pythonhosted.org/packages/82/d0/2ba42a5a066797ae0e36e8b28aabda9d1c86c0f5eba9a3eeef7209a9691e/holdup-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "7ae50a34e3afe7a287fd97b4eefa1db22fbadd79313fdf8128147cd936c80500",
+      "url": "https://files.pythonhosted.org/packages/94/06/232c44ccfec8e88618a80cac9a9a895c8274ff56a30e602220b7e4c93ce7/holdup-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "293b09ed59515cf86d5684331f224cff71d171d13840aade35c243e2290a44ab",
+      "url": "https://files.pythonhosted.org/packages/81/65/372ce8aef339409e1bed97fae259fd5fd4c18f9e9a0b10c8a8bbd3d21d6a/holdup-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "c8fe61a28aa9dd653e2f38b990bc59d3b806db96e8445186bd499c84d6173803",
+      "url": "https://files.pythonhosted.org/packages/2d/f0/661eadd24830393763cc30f6ed92071942b44a11a35ebc68e8b6f32441bd/holdup-1.2.1.tar.gz"
+    }
+  }
+}

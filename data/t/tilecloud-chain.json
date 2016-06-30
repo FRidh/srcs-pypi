@@ -1,0 +1,96 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "Tools to generates tiles from WMS or Mapnik, to S3, Berkley DB, MBTiles, or local filesystem in WMTS layout using Amazon cloud services",
+    "homepage": "http://github.com/sbrunner/tilecloud-chain",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "5dd556cee674f4e885c6758f5d3c78602722b2f78bd320a7b020f0dd0ce90d01",
+      "url": "https://files.pythonhosted.org/packages/fe/fa/078f689d85644267e5966633d476b0233cc9f01ae8a44f8051c0d1f19a0e/tilecloud-chain-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "fa5ef42dbbe6ee034cc2adbb52f965dd73a05579fdb740f28cd416efccdff485",
+      "url": "https://files.pythonhosted.org/packages/1f/39/626a5a4b47de7b6202aaffcf2cf7d1171a2c907677157f1bf02e074443d3/tilecloud-chain-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "4fdea2412989a4cbbf146e36ee9ae2eda68af9dee3be21ff99901587c9552b7e",
+      "url": "https://files.pythonhosted.org/packages/a6/50/09ac85359e443f7e6bca424cee0146891f28493a9fcaffdcae9592180b86/tilecloud-chain-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "543e8269853718ce6b7de90c0665fc576a15d944fc2d75e663d16dee1c8de8fd",
+      "url": "https://files.pythonhosted.org/packages/93/99/c8140db72895ce929edba2cbd98dfe8d28a80a9491b210e7c3c4f3cda778/tilecloud-chain-0.4.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "f446bd61a3d77a57794e78ef699ff5c898ba2e55e7049f6056bf9ea9b159f46a",
+      "url": "https://files.pythonhosted.org/packages/9b/7b/4e0d8d838ba4e99191a38b86402cc58300636ae0e07b9786236fbbb56d15/tilecloud-chain-0.4.1.tar.gz"
+    },
+    "0.5": {
+      "sha256": "47e268f0b528f752b1b1d6fd9ad561f80286adb69bd2afc4238f76a68aeaf607",
+      "url": "https://files.pythonhosted.org/packages/52/9a/4eb7b515c9ae55547e00b483a8c4acbec1cc7867d54ce2146e02be89f8ae/tilecloud-chain-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "d88d0ec26c105f57407b1eb945247777b655da0abb360e35a682561c729c3e1c",
+      "url": "https://files.pythonhosted.org/packages/60/6c/e98abd35eb7ce0b05ff99dbf6e9837174e2e96b353ea322e3e3af7a94ef2/tilecloud-chain-0.6.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "f41dda6001d19c5e0ae14b722199e8a1fef60e9f68ddbacd9c7f6fd95fe35550",
+      "url": "https://files.pythonhosted.org/packages/29/67/872809e73480304c66b9dfdbd0f12cfcf0de1707f1f458c0bc70a6a8ff42/tilecloud-chain-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "35e427c7ab957a24f92e06e14c9dd2d1e8cbf28d2e5c2b7160c35516b904755b",
+      "url": "https://files.pythonhosted.org/packages/2b/55/3919b0093cdf73fc4740f6c33a19e313e4199c41d5a38d69e3e385412f54/tilecloud-chain-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "1557b10a76c9abe4049c48208545faf73518eb7f852c0c779587fde9b90db275",
+      "url": "https://files.pythonhosted.org/packages/17/cb/b69772f6cc62c6db36f443da21c25f0be97987bd7e2210ed2f6f553dd73e/tilecloud-chain-0.7.2.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "69c5e47f53bb86e48fbd4b3005b38f19d9f03233300dea1951aec9152921f307",
+      "url": "https://files.pythonhosted.org/packages/23/25/22ad9925778f24116cb3de49df815745c2fe7c4287b7261c1e5d854f4067/tilecloud-chain-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "bc9bd2899c85ad20e99146859e3048860448e65c611718611c63e3070948f571",
+      "url": "https://files.pythonhosted.org/packages/91/46/0464d7275271ad85869e5f360d971e0a2c2efd42f8293d2c29526263bc8b/tilecloud-chain-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "b3e261016d2b059df7ad95fa085b293bf3ed49edc5b591b243536074e3590229",
+      "url": "https://files.pythonhosted.org/packages/40/c1/e8eaec904b69f2f779b138528802f48ad5d98e437fe25a0e2f79edc0e2c7/tilecloud-chain-0.8.2.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "a9db58c599a3a3b8dcd51ed2951eafd22ee60511d397474cae2558d217e7563b",
+      "url": "https://files.pythonhosted.org/packages/95/59/86348bf9e03945bf4a42dd57619971fb0735fa76b9fb7cd15a6de3fcb407/tilecloud-chain-0.9.0.tar.gz"
+    },
+    "0.9.0dev1": {
+      "sha256": "473b8ac015a75132e97066ad0c6da6a9b04655e7e50ac7ec79b84468730f6f98",
+      "url": "https://files.pythonhosted.org/packages/c2/c8/254d7687d8c95b236b0a9b7303c9feab3d5ca49f6a6f90aaab966f2afc8f/tilecloud-chain-0.9.0dev1.tar.gz"
+    },
+    "0.9.0dev2": {
+      "sha256": "30f6a3518cad324dab7a22a11098290a2f4923a774b2acd6436ef7f85f0ff2f0",
+      "url": "https://files.pythonhosted.org/packages/18/71/831a4bee0a5bfd2163f42874eee802a64f6bc0f0cca30878a0831910677b/tilecloud-chain-0.9.0dev2.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "4ee1f58db1d2bc7e2b83d663c6d322848c187682a050c9fbae51f90eed0d7754",
+      "url": "https://files.pythonhosted.org/packages/ba/69/54b17b587fbf75b122f33bf6aa79f4be3ae093bc35127391b975452ec620/tilecloud-chain-1.0.0.tar.gz"
+    },
+    "1.0.0dev1": {
+      "sha256": "b8a2c799986df22ad6268feec111cf08e670241803eab0d1753dd1507c380116",
+      "url": "https://files.pythonhosted.org/packages/90/82/b5b46459b9d53a9fd8c3cbf812935bb574cb0b1f638a1afaca02a127df33/tilecloud-chain-1.0.0dev1.tar.gz"
+    },
+    "1.0.0dev2": {
+      "sha256": "c4aedb5940c5dd24d6d3cded7a1b3272f99fcdf8033a4c747a60cc17d275e33f",
+      "url": "https://files.pythonhosted.org/packages/d8/ea/45c51a1d628faf926cb3b11d3fea83d4091899ff26d6c37f72c1d651d2eb/tilecloud-chain-1.0.0dev2.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "e31c98087ae96b3d9c15582f41897c922a3265d9f5861fb002393ebf381a522b",
+      "url": "https://files.pythonhosted.org/packages/3c/85/defea5d4efa7c269c214cc73a3efb5bbb642d25a4c4d339f85aba2974605/tilecloud-chain-1.1.0.tar.gz"
+    },
+    "1.1.0.dev20160323": {
+      "sha256": "39f9b16101e6af1ce9d0126bc880001d371dab199ae8c5ca31fd0991b7f3aa7a",
+      "url": "https://files.pythonhosted.org/packages/a2/63/24e91f71d9301098ba8e92d776e4591f82c5c508061193107f9314bc32ca/tilecloud-chain-1.1.0.dev20160323.tar.gz"
+    }
+  }
+}

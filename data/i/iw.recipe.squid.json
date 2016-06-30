@@ -1,0 +1,44 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "ZC buildout recipe to configure an squid proxy for zope",
+    "homepage": "http://plone.org/products/iw-recipes",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.3": {
+      "sha256": "eb1eb6c81e6fae2ec0acbf55e9e65f343b2827c6a06f520fb3ac9ce8ba087e93",
+      "url": "https://files.pythonhosted.org/packages/9f/bf/838b52ccb74436faf4ad8200eed821111ac564abe022b30ab2458416dc8b/iw.recipe.squid-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "a99c63cff03f7195f031e4842940728805d9f9a9fe476a3a81baf9d5a939fc37",
+      "url": "https://files.pythonhosted.org/packages/81/40/85f7a33160d0c8f5cfe7afea0b19450fe88d66949482a93d3e7da51015f9/iw.recipe.squid-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "917156eb28ed72a373a417b2ace5c8677a5170bc47a95741fc95e22e1cee4ec4",
+      "url": "https://files.pythonhosted.org/packages/68/05/e4465f100ae4425a6d51ed21506e4b5055e25518cbe2cd4c178d009a6933/iw.recipe.squid-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "382d0af25fcac1d0cb856be31330f195bc6d532afe395ec914b562f15694fe37",
+      "url": "https://files.pythonhosted.org/packages/59/1d/ce9415ce4022e032d8faf45f1b6df261cbe1502800a58bb2659dacb8bacd/iw.recipe.squid-0.6.tar.gz"
+    },
+    "0.7": {
+      "sha256": "e5db474f4711db2aa0e949988f4625f06f1e1a583fc8f0bacd1d50f7e90ccaf8",
+      "url": "https://files.pythonhosted.org/packages/16/79/5d7afa95fe6f89d6d6fa3b9d6a7f5feae07b566962f1fc735eb161762606/iw.recipe.squid-0.7.tar.gz"
+    },
+    "0.8": {
+      "sha256": "bb8c092fc6780ebd39a4cb4d5fe939fb796a11a1e8d2753161c2f78aaea5a6d6",
+      "url": "https://files.pythonhosted.org/packages/06/1e/19b8508a613a5c511aec0477f0e0a28c487cc66182a8c63e106664aab47a/iw.recipe.squid-0.8.tar.gz"
+    },
+    "0.9": {
+      "sha256": "386b0ea1bafa7d2b8a7227b9c6c6b5908b47841de08b9f2656d8dc2e4d904ad9",
+      "url": "https://files.pythonhosted.org/packages/ea/7a/9f8c5694a97c4dd33f9a0a396487ce80ca97627d06fe174f0b62a7d2cd35/iw.recipe.squid-0.9.tar.gz"
+    },
+    "1.0": {
+      "sha256": "3935b3066b862fd06de5fc9eb7da4a8827b367ec5387dacfd1704d463cb030a6",
+      "url": "https://files.pythonhosted.org/packages/8a/29/849e2f5046af383eabca18d25de245a9f2710d289e94fd4851d3a7bd568a/iw.recipe.squid-1.0.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Subzilla will post a patch from a Subversion tree to a Bugzilla 3.0 bug, or apply a patch from a Bugzilla bug to a Subversion tree.  As of 0.3, git repositories will also work",
+    "homepage": "http://svn.osafoundation.org/sandbox/jeffrey/subzilla/README.txt"
+  },
+  "versions": {
+    "0.1.1": {
+      "sha256": "19a861a897d9c1a844441459255f84addb343ddd73fcf9e6e4395f29d7b943ae",
+      "url": "https://files.pythonhosted.org/packages/a2/8a/b2d3e5d78ee6d21cb9383b414ee043e625cbf84f2963fdd9f09547f3bd26/subzilla-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "0bb43d0bc43b2dc04d839dfbb3d3fcffe2c9da9cd7145d9e74ccd08251d997e6",
+      "url": "https://files.pythonhosted.org/packages/f4/ef/b1eb64cbbaf9b503363347c3cf213990d54c5325765e54795c47ced01de8/subzilla-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "0a2c1ddd433b4503f432e798fe46af44a5a098f8c29f13364666a807e85d1f3d",
+      "url": "https://files.pythonhosted.org/packages/62/78/4f5d2d83b6740098bbe27a4913d5abf437eb66ff52c917ca9ed0b45f0280/subzilla-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "4ea2cd911f2280a1256b2a48d34ab4d64245b8c82c23d7546f7feba89774e5b5",
+      "url": "https://files.pythonhosted.org/packages/83/f6/d0b927a644c9e9fe08890bc2ad7ce5e59edcf606512079c01e2c1b46196f/subzilla-0.2.2.tar.gz"
+    }
+  }
+}

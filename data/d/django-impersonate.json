@@ -1,0 +1,88 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Django app to allow superusers to impersonate other users",
+    "homepage": "http://bitbucket.org/petersanchez/django-impersonate/",
+    "license": "BSD License"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "e0a8a31812e52f1365e24aa0678d58459106eaac8e01c58384685da836008a5a",
+      "url": "https://files.pythonhosted.org/packages/76/de/302bf116cca5aecf0b4bf016c5c03813ea9fdb6e419708a0f39ed1baaa73/django-impersonate-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "3e71b647b0c83ef09954397aee68c3762f9387736cd308b320067698dd309103",
+      "url": "https://files.pythonhosted.org/packages/26/aa/4033a91da70f49e77afa7f8a02f56976f68d11d2c8908374dc1d221747bd/django-impersonate-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "cf2db8c2a8dd78500d6bae4dd2f34471d98a7477727d9ee020fc1440c6e98dc4",
+      "url": "https://files.pythonhosted.org/packages/f8/da/54c62b6feb251c94f8adc782967b8df94b6297bd2dee61070e8620a1234e/django-impersonate-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "e267138a72b1e4760206ce6cb8ba3be4fea4cbc173d4be683747b1cfef837aa6",
+      "url": "https://files.pythonhosted.org/packages/be/ce/ec2b6e71602a1a87870d8410987baa393f1d8828fd7ae1968838e6e275e3/django-impersonate-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "4c21252efea8e999ea84f41a598e45d343b4d6bce27deb032c9d555e71c568a3",
+      "url": "https://files.pythonhosted.org/packages/db/63/ad5a46c3411f2bd2daf9d40cd7096a495b0a47480b083a681433d003b988/django-impersonate-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "42c45ef160faa35c509741a67c78b583df72002a5a6721e2499039f545fd8004",
+      "url": "https://files.pythonhosted.org/packages/87/5e/63f0d370798ccb3343340572ffdfe0d356df7d41569f4eb1fe6bb10da466/django-impersonate-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "74527fc3b0c45e0adaed96786a433d4e825dbd900ef86e0bdd8ddbc48b3a7388",
+      "url": "https://files.pythonhosted.org/packages/d8/33/14660258db6607612dc2fea903087274ed135a4ecb4dda29dc3db220f6be/django-impersonate-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "0a7049daba72fba3d6b8d4c45b95c635d8543c266ffcd7665341f46ec01e7683",
+      "url": "https://files.pythonhosted.org/packages/39/5a/44403b8f0ae40fe83c3d50964642b5ba902be137d6a696f993573ed08f0b/django-impersonate-0.5.3.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "8b6f46741fad672b3b982e4f48e0629f42b59a1da50501c383cc64d962c41fac",
+      "url": "https://files.pythonhosted.org/packages/9b/41/0e7373bcfac4a27a833306887afcbcb562346b5c6297d754ef9c75789a9a/django-impersonate-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "0804c67f9bfc02138f79902c6a4925ec38690ececd18459300c6ae130eb23b48",
+      "url": "https://files.pythonhosted.org/packages/02/47/9b4ce672fdd9a1cec99347c6c54f7d117ece5b9ffd4310e231f288051aca/django-impersonate-0.7.0.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "6b974ab76333e0ed9bbc4e2033cc34090e10e95c651b19d4726706f2cebbfdd8",
+      "url": "https://files.pythonhosted.org/packages/6a/a0/b4663afae28f6d692c4771949956c172068b3f0d14d9fc5be74c40a8a619/django-impersonate-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "617ddd314b0e4f16c1fbd29f17116859463d31be1c558ceff139370947fab11d",
+      "url": "https://files.pythonhosted.org/packages/ba/b7/795f51b4cc7d9f2b84be22a11e3720ca595546620c5daf04c9e59db985e7/django-impersonate-0.8.1.tar.gz"
+    },
+    "0.9": {
+      "sha256": "d8c8300793e2804458dfcd3ce5820a18b319f080e20cd28e8f13e973827c101e",
+      "url": "https://files.pythonhosted.org/packages/68/a7/f31ceec5105e3132e286a27749882dbcc1901943c963adf5867d159245b0/django-impersonate-0.9.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "e7a7d4ed3b7bf681f739d2d9d4673e57ab36e55a53a9a3ccd37244844d055f7b",
+      "url": "https://files.pythonhosted.org/packages/4a/8c/556164a8abb17f016b13b4d31797cb9c841522603a95cf160c85e5d8b74e/django-impersonate-0.9.1.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "9e878245e454925517134626c6250ccf76275ea01c5b324b1a6cdaea91199985",
+      "url": "https://files.pythonhosted.org/packages/b6/1e/7c1be36d0f460aeda4d8d13e5e1d6413dfb63e0b00d669fa1f5d65dba0c1/django-impersonate-0.9.2.tar.gz"
+    },
+    "0.9b0": {
+      "sha256": "78b116e57b1e2e1fa466e5d4c55ed065990cb2834703a5443950f8038199a9c6",
+      "url": "https://files.pythonhosted.org/packages/04/f6/d06d850f9aeab719a4998eec0fab2db2ae3c58e0de15624af8ac3cc53b1c/django-impersonate-0.9b0.tar.gz"
+    },
+    "0.9b1": {
+      "sha256": "62661e1421f7d6ebb9a2a2b9b2e47985cc6bc7d3a34e5a182fba924c2305c051",
+      "url": "https://files.pythonhosted.org/packages/c7/e8/6644ca8e8e443eeeffa05317aaa957bf0a973c9b46d2abc9a78e16ca0b01/django-impersonate-0.9b1.tar.gz"
+    },
+    "1.0": {
+      "sha256": "acf996803385d72ac019b4eb2320e57893fdcd52d75613fa5c2b1eb4c052114b",
+      "url": "https://files.pythonhosted.org/packages/2d/34/f020fe88688844d9a104525701fd4d6b48aacf7380988ee040a1a36a3be9/django-impersonate-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "42e4ba0864d2fed1f0e678f925653d5be99a1c377ccaeede28f8bd65430dea73",
+      "url": "https://files.pythonhosted.org/packages/bf/c9/e03ccf67bf8bd31b0957c3cd6df6dfd408ed288aed5c9f6cacbba7b85363/django-impersonate-1.0.1.tar.gz"
+    }
+  }
+}

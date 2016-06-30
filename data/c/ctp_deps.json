@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "6.3.5.post5"
+  ],
+  "meta": {
+    "description": "Dynamic Shared Libraries (.so) for CTP",
+    "homepage": "https://github.com/mckelvin/python-ctp-deps",
+    "license": "BSD License"
+  },
+  "versions": {
+    "6.3.5.post2": {
+      "sha256": "a4c0f5c33f041d1984a56dc27b2d0c89bbc53e55557f09e28647976bccf68b9f",
+      "url": "https://files.pythonhosted.org/packages/af/4f/6d014b038d827bd026ad489d90d7f9f221e1b71ce9b9b8fcbe33c8ebb27d/ctp_deps-6.3.5.post2.tar.gz"
+    },
+    "6.3.5.post3": {
+      "sha256": "449954fbe01eec95285265cf1660c8bf888507c7923dde73f3d6494f46ac433e",
+      "url": "https://files.pythonhosted.org/packages/e3/88/74be9a51ae4b9d3d49d5a6ee20c35847c330693f40ff31928d833ec58e3d/ctp_deps-6.3.5.post3.tar.gz"
+    },
+    "6.3.5.post4": {
+      "sha256": "df65e49526319a4e90ee6b3c4b78af2cf6155320ee7414172d39290c982ba04a",
+      "url": "https://files.pythonhosted.org/packages/49/d9/fbda47080758b46904075b53e787bfc5d75f76f537fafb301f05387e680e/ctp_deps-6.3.5.post4.tar.gz"
+    },
+    "6.3.5.post5": {
+      "sha256": "30747b762f571217e837695b2abdc83bce1cceab1e2fd5e64511f7958f6a99cb",
+      "url": "https://files.pythonhosted.org/packages/0a/c3/6dc2fd8bcdf2231daa97b27e7d176f7fb9a8fc2149a412274d2acb40afce/ctp_deps-6.3.5.post5.tar.gz"
+    }
+  }
+}

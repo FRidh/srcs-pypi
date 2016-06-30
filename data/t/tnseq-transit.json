@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "TRANSIT is a tool for the analysis of Tn-Seq data. It provides an easy to use graphical interface and access to three different analysis methods that allow the user to determine essentiality in a single condition as well as between conditions",
+    "homepage": "https://github.com/mad-lab/transit",
+    "license": "GNU GPL"
+  },
+  "versions": {
+    "1.9.20": {
+      "sha256": "ff33d77c7f8bd06891372b0b49a0c5ad52e1d0b07f9550d9f3ec2c96acb48f64",
+      "url": "https://files.pythonhosted.org/packages/6e/53/7c3d9c6227cf9090515e706c3c03e899ba2c9de56d227775cfee83978622/tnseq-transit-1.9.20.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "f1de9c3beeb8e032f974be8c2c104b9e75aba356c2a230f16a6fa359ffc1ba76",
+      "url": "https://files.pythonhosted.org/packages/f3/97/9d9401775c4658af3edd838cf4bcd9c224cabd8aad3a62a1217c4f7ef541/tnseq-transit-2.0.0.tar.gz"
+    }
+  }
+}

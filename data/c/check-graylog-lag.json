@@ -1,0 +1,19 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Nagios plugin to check graylog lag",
+    "homepage": "https://github.com/fungusakafungus/check-graylog-lag"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "5032560bd09d77ef9c99835d3252210295c1f53fca55aff61d39e6cc6200aba9",
+      "url": "https://files.pythonhosted.org/packages/86/2c/66a1a310fadd5619f46a0adc1dd7878d0b636fd43f208b1d0e1ba809b36b/check-graylog-lag-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "0723ea19a3a99905d9ccc4ba83891bad02d8f926ef86a7cdb9e4e8b79ea7f322",
+      "url": "https://files.pythonhosted.org/packages/b3/fc/c7d56253e06100c0e35cf9e24bdd8fa00998ff81ece0116e047a9c5fde86/check-graylog-lag-1.0.1.tar.gz"
+    }
+  }
+}

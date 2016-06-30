@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "POSIX IPC primitives (semaphores, shared memory and message queues) for Python",
+    "homepage": "http://semanchuk.com/philip/posix_ipc/",
+    "license": "http://creativecommons.org/licenses/BSD/"
+  },
+  "versions": {
+    "0.9.7": {
+      "sha256": "4eac786ab7ddf04fbd60e243a8a58f253324f72504fb70d90f115b693f4b27af",
+      "url": "https://files.pythonhosted.org/packages/e8/b7/568d52523a825c3a660dd9bb67af5da5b8cb5bb5a7c6ff1d2aea7cf94606/posix_ipc-0.9.7.tar.gz"
+    },
+    "0.9.8": {
+      "sha256": "271446eb133efb7410eb51265807aa54e0acb8eb7c2abcf027e51b4cb36d36dd",
+      "url": "https://files.pythonhosted.org/packages/3d/72/ccb5ffb26aa22019784f5d44e8a4431adf2de51897c9e8eacdcd4fe5b764/posix_ipc-0.9.8.tar.gz"
+    },
+    "0.9.9": {
+      "sha256": "b3b7e464ebfb524bfe50861067d7fadaa801a76c1975014c1955cc32b3f9f41e",
+      "url": "https://files.pythonhosted.org/packages/35/e7/79259ff0d92bdefa91982c7f396150e45a0560a2954fe93d9011f56791dc/posix_ipc-0.9.9.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "9c93070374ca672725575e5c9874930c8cde69367fb90378b2255e048e31efcb",
+      "url": "https://files.pythonhosted.org/packages/f0/e6/bff62b62b2e75f695b737695951b7a4c1c6595369268a37868f5c34e1c12/posix_ipc-1.0.0.tar.gz"
+    }
+  }
+}

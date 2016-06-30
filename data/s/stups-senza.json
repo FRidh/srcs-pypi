@@ -1,0 +1,528 @@
+{
+  "latest_version": [
+    "1.0.84"
+  ],
+  "meta": {
+    "description": "AWS Cloud Formation deployment CLI",
+    "homepage": "https://github.com/zalando-stups/senza",
+    "license": "Apache License 2.0"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "46e82b8bdb8559c24f28742096fd954b86084a54ab4b2893f1b8a36cf3a471db",
+      "url": "https://files.pythonhosted.org/packages/06/2a/b48a5b303ecc9cdf6319446cc126b375e24026a7ea2fc13cb39ddd36a814/stups-senza-0.1.tar.gz"
+    },
+    "0.10": {
+      "sha256": "14701cb526947a744e70574bc74748d7cc4f2e9475e8385bab208350e95db182",
+      "url": "https://files.pythonhosted.org/packages/31/55/492b1b54ee27fa794666696580499784661cf343caf811ae548a72028acf/stups-senza-0.10.tar.gz"
+    },
+    "0.11": {
+      "sha256": "816c45b6bfaad5f826eea4b6ff075a0e22b3135b1ebedabc8a999d568567050e",
+      "url": "https://files.pythonhosted.org/packages/67/dd/c90cbe9d91c93a03011cf12bf401fcf12f6bee398f49a2e0e2d9e9323d1b/stups-senza-0.11.tar.gz"
+    },
+    "0.12": {
+      "sha256": "ee589465f61a8883b7391130967ffa37f4e1756302bbbfcbc31f1ae934fb94a3",
+      "url": "https://files.pythonhosted.org/packages/a6/3e/a3398311c4ac11deceed15aabba7573bd367c721dabcc78220e80c2e250b/stups-senza-0.12.tar.gz"
+    },
+    "0.13": {
+      "sha256": "6118b8fde6d57ff690ec10c12393f115b77e054f7c49ad75b7cd2528581dae1f",
+      "url": "https://files.pythonhosted.org/packages/67/43/74192bb3b1320dfccdc630af94233c67cfba6c88dadc63500196ce52f226/stups-senza-0.13.tar.gz"
+    },
+    "0.14": {
+      "sha256": "bf30e33575e7dea860ac83316c0ebabd8019eba4acf4fa55ff573c873145fed2",
+      "url": "https://files.pythonhosted.org/packages/9f/9e/3113b7d269440e0aecc551a56f2dd6934fea8a2982eee2c73e92d8905631/stups-senza-0.14.tar.gz"
+    },
+    "0.15": {
+      "sha256": "3bc16a282c751c77b9734580d37b025cf87b3d47483f2314ee9b9a1b26379a5c",
+      "url": "https://files.pythonhosted.org/packages/53/76/bd51ab15a110c207eb69da43edb8aefdb343a87eaa3a1bdfe789d841e03f/stups-senza-0.15.tar.gz"
+    },
+    "0.16": {
+      "sha256": "f594d2f7b7eb800474a6248a305b7b784e7f0494e95d214a72a08956f81b50aa",
+      "url": "https://files.pythonhosted.org/packages/d5/e7/a25edb9729d1452b3ac364668052cce9267302582a556da875ffe115541b/stups-senza-0.16.tar.gz"
+    },
+    "0.17": {
+      "sha256": "d82a6697269b06222be52cdf73bcf30e80dd6aafadde049e864888d9f550c916",
+      "url": "https://files.pythonhosted.org/packages/d5/ca/998ec040ba98481f6a32450a6d6992fa9a9f90910edae86df0184230b90e/stups-senza-0.17.tar.gz"
+    },
+    "0.18": {
+      "sha256": "1a980520be59e2fc560f22b638581350bff0ece077728393699fb26b132bbb69",
+      "url": "https://files.pythonhosted.org/packages/eb/7d/4c098f1fa9b9451a874b618576178077aba1f199905ddff5dfdf95d76901/stups-senza-0.18.tar.gz"
+    },
+    "0.19": {
+      "sha256": "a7a14be904f898b22c94ffa5c57ae0755aed43b8a77d3cb9894152c721433224",
+      "url": "https://files.pythonhosted.org/packages/04/7b/6a70cb8c9d0195f6480aae4e5d6469511c18be24b49cb80ceeac9959a53e/stups-senza-0.19.tar.gz"
+    },
+    "0.2": {
+      "sha256": "765f3b1603d11097a8f4ef68c8aeaf6f8e95d6642fe8c7950f46815e6e93ad7a",
+      "url": "https://files.pythonhosted.org/packages/51/47/95ec089a8ade62bcefa832dee9a0a56420ab5411c4389fdeaf551f89fcb8/stups-senza-0.2.tar.gz"
+    },
+    "0.20": {
+      "sha256": "7ae433a24ce0bea876521dff46b71d9fbded9fce9a181113a22f6d7efe87169e",
+      "url": "https://files.pythonhosted.org/packages/6c/d8/c5be8002b1100e03eb1a71293b6fc54a46c6a57100a18bcc300ef79f465f/stups-senza-0.20.tar.gz"
+    },
+    "0.21": {
+      "sha256": "ff9b76e0b2941947686a0fcd4f913de5bbd7b176a6d40dd07a45ac6e12decd3f",
+      "url": "https://files.pythonhosted.org/packages/cc/f4/3aee24f152138db9c7090c90e1347fcdb21a892946db641381193c7d3541/stups-senza-0.21.tar.gz"
+    },
+    "0.22": {
+      "sha256": "fb1a15dc0f86c61c6e6afb67419798d37cf059b688f1223a0eb13143c76724e6",
+      "url": "https://files.pythonhosted.org/packages/26/db/9e1b9ef21e4235965b1db8122e8bc7ba6ec3ce44668108117fa2f0db413b/stups-senza-0.22.tar.gz"
+    },
+    "0.23": {
+      "sha256": "146a81d3403718dc69a45c139c73320631d4b4d24c810218f73dd36676e715e8",
+      "url": "https://files.pythonhosted.org/packages/47/4d/ce7e5748474d68d6deaadf036b7b7a6158600f5ee6beb2da646417743014/stups-senza-0.23.tar.gz"
+    },
+    "0.24": {
+      "sha256": "2402babc380d783e8664b14bde656ad7d07dfe1400c136fdc6f92d6ddbfe38f8",
+      "url": "https://files.pythonhosted.org/packages/88/fc/19147d784d71daa018ea547a5a542ec965fe02d10fe18076c16b996127ae/stups-senza-0.24.tar.gz"
+    },
+    "0.25": {
+      "sha256": "6e9cf28eab9ed3d1f09b08ddee758113a2df448e6f3ef9f0186e532b4092c0e6",
+      "url": "https://files.pythonhosted.org/packages/cb/b2/20adbf9ace896b31da500e7ed733abf8c54f107cd50418020b2c0782ce9f/stups-senza-0.25.tar.gz"
+    },
+    "0.26": {
+      "sha256": "be088772cd26fa668b1724d210ac8294693b6902163a155be2919aa2e0be2bcf",
+      "url": "https://files.pythonhosted.org/packages/30/22/c2403ce1c4de25cb34e79a7f1a39966643640e721bcad8e51b9dbca74c14/stups-senza-0.26.tar.gz"
+    },
+    "0.27": {
+      "sha256": "075cc8292846f4347528d33b8bc817e6be8d07fce96251c5f0b60a44d2115aba",
+      "url": "https://files.pythonhosted.org/packages/84/f3/23737d36128514f628113d891f4129d19de6fd958ab4cb3542c1b22bb7f4/stups-senza-0.27.tar.gz"
+    },
+    "0.28": {
+      "sha256": "744fb819ce8fd15dce7452ed449eb8af123af2fc5ec3601c41f2f3669ee8a494",
+      "url": "https://files.pythonhosted.org/packages/5c/04/6ff4939ba4c52c9b653f5fb850b112979e32df1140e5693296deddc808ea/stups-senza-0.28.tar.gz"
+    },
+    "0.29": {
+      "sha256": "ec9327a36d2c36a57914e41ee6685200291b08982ecf08d95d5a1393a0c5f7aa",
+      "url": "https://files.pythonhosted.org/packages/12/e1/c8ec13ecea8833652e6c8dcb24b80c9fb9a3de3c4375ef86adf96c97c5cf/stups-senza-0.29.tar.gz"
+    },
+    "0.30": {
+      "sha256": "bc689e2ea487798c697cb940ccc44cd2722025583c3a38971df961ceee9a9e9c",
+      "url": "https://files.pythonhosted.org/packages/7f/92/a06d8d9f90fbaa77d264d98dbccb642699d7a9126a1a7e4028d6e399aa7a/stups-senza-0.30.tar.gz"
+    },
+    "0.31": {
+      "sha256": "8766756f4c1bf1e8abce64c0fe757bf597112ae422e41b3898d391f7810967c9",
+      "url": "https://files.pythonhosted.org/packages/85/c5/54b70537e68adbafd6244f9abf391c15c4509c72a4c1e61a72df1ad8bd32/stups-senza-0.31.tar.gz"
+    },
+    "0.32": {
+      "sha256": "f748f87f1214589c4e7729c8685b20053f7c118a49cfbfa98ab7958f7f842b46",
+      "url": "https://files.pythonhosted.org/packages/ee/e9/831ca61954ad32e48ba4f1614d9f0ae76959381035cee118f5a9b6399eba/stups-senza-0.32.tar.gz"
+    },
+    "0.33": {
+      "sha256": "cc3764fa3ce29bfcbbc07ec41634bab773f08204b7b4cb44e808dbf37bdcc6a3",
+      "url": "https://files.pythonhosted.org/packages/42/8e/46f6afb55b9fb5201cfc7bb5a83079ef6547a1f3a6e4dee3e93804cbafc7/stups-senza-0.33.tar.gz"
+    },
+    "0.34": {
+      "sha256": "db11e705d5b98c22d9e21e043958f7f55de8e8ea84e229b344bbdfd3f492da54",
+      "url": "https://files.pythonhosted.org/packages/16/94/02ee6af47cfd97b1726b25cb8273388559d7b6da2c051886c34d9d9617d4/stups-senza-0.34.tar.gz"
+    },
+    "0.35": {
+      "sha256": "fce37272aebc2a730e4822cc04e38666cf3db3a3a34791e976b83bda0f58e469",
+      "url": "https://files.pythonhosted.org/packages/e9/3a/ae158d04ca3b0e08e629a4f3e3877c8922bc9a5af994aaa98c6947ff7bb2/stups-senza-0.35.tar.gz"
+    },
+    "0.36": {
+      "sha256": "3ab4ab2961ea4f2ed9abcb3ea0981b67bee392196232a4c99637f9fbd9f5c4b6",
+      "url": "https://files.pythonhosted.org/packages/02/bd/ea480b29f1cea6623cd606eeec2a54de0cc2ce2c77ca636b58efcfeb8f39/stups-senza-0.36.tar.gz"
+    },
+    "0.37": {
+      "sha256": "a2e7dc7993fc0d32708e176a8347fba0a8fb5512afbb1f463176ecfcca6b1070",
+      "url": "https://files.pythonhosted.org/packages/16/97/748eb007d446268fea59c85849a4c819604adf87c14ac71035f5fecb8e78/stups-senza-0.37.tar.gz"
+    },
+    "0.39": {
+      "sha256": "58993731244f8bf977b7ccd720c55499d3376b747ab0f445d33622fe398b2e67",
+      "url": "https://files.pythonhosted.org/packages/55/ab/1fc91c7c4123cc0b5d81fe271a53162555e4a1ed591f6ff9ab5c02e11c1d/stups-senza-0.39.tar.gz"
+    },
+    "0.4": {
+      "sha256": "a1664ff571275f65283f627cea40b5bd6dfd9d4e460df85470874185439f3f12",
+      "url": "https://files.pythonhosted.org/packages/09/c6/2449944beb6ffe7abea0f35135029b9e35bfb7cdea518c7c2e3edbfd9865/stups-senza-0.4.tar.gz"
+    },
+    "0.40": {
+      "sha256": "5404edff100ea7ebcd1f5bb7424951dcf588e21ef95e3e93ebb3ac8ed0f7a10a",
+      "url": "https://files.pythonhosted.org/packages/46/04/1156bb75c490a00ba64b6acb317efd71c7a53954869601a830f2d1886712/stups-senza-0.40.tar.gz"
+    },
+    "0.41": {
+      "sha256": "52195da1435595bd2b3ba0671bf7c9fb96ba7314ad31dc366b0b1ca686571acb",
+      "url": "https://files.pythonhosted.org/packages/1b/c2/937d2fcf5ce74f47c4769f36077a1326f817e64b30e9dc268c9c1a734263/stups-senza-0.41.tar.gz"
+    },
+    "0.42": {
+      "sha256": "0b649fe2a4de7998d6f2d7338d09f08497449b96f7a7e1272668c2669be2b2a4",
+      "url": "https://files.pythonhosted.org/packages/30/71/be89789cb717d9c112e7592b1116f140072bc4f23963179c1a49a77fd0f0/stups-senza-0.42.tar.gz"
+    },
+    "0.43": {
+      "sha256": "7d1a40fc5373272c9d83a646a1de3b7995fdd0a83a01dd1a8326b150d826d9d6",
+      "url": "https://files.pythonhosted.org/packages/78/b1/54b3ee0ea6856600a4e9eda8c431e156b685bd7e8dbc48dfc7257d3b580b/stups-senza-0.43.tar.gz"
+    },
+    "0.44": {
+      "sha256": "3406e78c795895754fd62d23c63d8704883060bd02548733f48c58f907308e8d",
+      "url": "https://files.pythonhosted.org/packages/57/49/30c174872711356a46f5d12b581315ee9fbe43256f87f979f9f9a49e4b80/stups-senza-0.44.tar.gz"
+    },
+    "0.45": {
+      "sha256": "dc2ca3860954c9e072bbf47be5a7b882f3530332a5e457ceaefce875ce61443e",
+      "url": "https://files.pythonhosted.org/packages/ce/0e/2eda99fbb0b9de9ee9e262ffb2c9bb999f113e2ec160c9b22f683ea81e90/stups-senza-0.45.tar.gz"
+    },
+    "0.46": {
+      "sha256": "916392a5b1a82232da4d8d1ddad2c65015f07fee9c3e2b6dc336f387f52c0400",
+      "url": "https://files.pythonhosted.org/packages/2f/51/974a6fe7e050da63109afaeacacfa36e9d6cc9db498855da671ee8dcba35/stups-senza-0.46.tar.gz"
+    },
+    "0.48": {
+      "sha256": "a6b830dac9bd55169b169a8c5f79d1a11b4a039bcae758be11d43346c2381da8",
+      "url": "https://files.pythonhosted.org/packages/0e/ae/023bf274577337130eef564d40246e23524863b102793bada1d6f9037191/stups-senza-0.48.tar.gz"
+    },
+    "0.49": {
+      "sha256": "e1f146d3d46526f46fa5fa52db42115a08ba6b4c8d08b09941865b7fc667a34f",
+      "url": "https://files.pythonhosted.org/packages/5e/68/406e2a5dd21a51316ede11c193999290fae0f6f24c2408398f721fbc40d8/stups-senza-0.49.tar.gz"
+    },
+    "0.5": {
+      "sha256": "7e1431c5239989a681f4d1239b10ebc8c66e687b2d979854bb464081ecb51ddc",
+      "url": "https://files.pythonhosted.org/packages/47/8f/936458f431b0e387e23a02f7d12da07b0e0a8b39b19aeaa78f273fca27f0/stups-senza-0.5.tar.gz"
+    },
+    "0.50": {
+      "sha256": "aea47fc6235bb8e0e89759ff7f6875a375e8f74f4df4d84034e394d6ddfe7589",
+      "url": "https://files.pythonhosted.org/packages/d7/d5/0643e82c300635a7a963da55d71fa8be28dcae56352d77544708cf53f721/stups-senza-0.50.tar.gz"
+    },
+    "0.51": {
+      "sha256": "0d481a33299db8d6a2a56fb1092d45323a9b619463c71b9a12064e96fcf1ecc4",
+      "url": "https://files.pythonhosted.org/packages/0b/90/88f005788e9c04abeaabf8ae06cd8be7b6d610967b04d1d4623a2698a5de/stups-senza-0.51.tar.gz"
+    },
+    "0.52": {
+      "sha256": "e11184e5da13e501d9c8f61c09a6636acad4e7afe838901dbcefb956737bd495",
+      "url": "https://files.pythonhosted.org/packages/41/f1/0efab20327f1c5b83f1663cfd52fa1137a26a10906d131a55002a463195b/stups-senza-0.52.tar.gz"
+    },
+    "0.53": {
+      "sha256": "0d39cc7c9efbdd51c854374d3b5a8ad35b9fdc32a4174f3611723ced1986cea7",
+      "url": "https://files.pythonhosted.org/packages/00/eb/ae11b86b6fc0f7d1c881935d17f3425f225fb8e4e2fe4c91a25b6486cd55/stups-senza-0.53.tar.gz"
+    },
+    "0.54": {
+      "sha256": "eefcde9a07065ceeed41873e121cff0c1a4178b491a3a1e34933067bc135b005",
+      "url": "https://files.pythonhosted.org/packages/2d/71/8548e0eb386b0a9b837ab6835e110d24f9aa1286f1b956ff98442d521631/stups-senza-0.54.tar.gz"
+    },
+    "0.55": {
+      "sha256": "017301582aa07267126265337d98396dfd77517d20e00f7bdb4910dbb0118dab",
+      "url": "https://files.pythonhosted.org/packages/73/1b/c89a7f5faf92d259f915e1e7b4d6061b851251babca0672f38396eea5693/stups-senza-0.55.tar.gz"
+    },
+    "0.56": {
+      "sha256": "a28170f00ca6219bc06e1626703a26bc44da1f5fc972b541a409b4bb2634daa6",
+      "url": "https://files.pythonhosted.org/packages/b7/a2/02f38b9434a45b82abd48c52088f02140819e47eb831bd8534386f24ea37/stups-senza-0.56.tar.gz"
+    },
+    "0.57": {
+      "sha256": "5639e49a3cef54ec0c85be32191c28b7cfc5635d988f42ed843f01d6b48434c1",
+      "url": "https://files.pythonhosted.org/packages/86/85/59e8d215c96cdcc26c0af99dbfdd7ff1c9a51e61f5319113b38e1c94114f/stups-senza-0.57.tar.gz"
+    },
+    "0.58": {
+      "sha256": "caca2b4c5d2813055ddb7b838bc22b626e8d6b4f9a2feaf44b31353cc4b02fb3",
+      "url": "https://files.pythonhosted.org/packages/f7/9a/4e9dba34a49785b242b3ef910d750f36354a0fb85b5c771b78165da4fcf6/stups-senza-0.58.tar.gz"
+    },
+    "0.59": {
+      "sha256": "1dce4ddba6855b40660e9847c6821ebee55a6f2e5cc03f6c354329d5163080e5",
+      "url": "https://files.pythonhosted.org/packages/95/7c/353e42b25c91e84f36da2d99078cc99b9e87441e80c72693ea03f342d4d4/stups-senza-0.59.tar.gz"
+    },
+    "0.6": {
+      "sha256": "201694cd36a31f7b374b83a20e8d3e86e04b913c64d0dbea0c51f7b18d1f75e4",
+      "url": "https://files.pythonhosted.org/packages/68/bc/46b2c41e84b55c57660fb4466815696a1705c761ac5782439970a013375d/stups-senza-0.6.tar.gz"
+    },
+    "0.60": {
+      "sha256": "4a6b6ffc3b2c1a510d3ed65c071b2eb7d8ed195fd1a4d6d8ac7c67399b3b942a",
+      "url": "https://files.pythonhosted.org/packages/82/66/2911fff69adc48aa67e9b33684abde056416879b319d28f1dcc611d46be7/stups-senza-0.60.tar.gz"
+    },
+    "0.61": {
+      "sha256": "cb12e4edf04dea02a762478982bb33635abbe5ee3ef3024febd61c1cb7bfa54c",
+      "url": "https://files.pythonhosted.org/packages/5a/12/8148e3a87ddf9f49cc80dcb3d77f916b760736e4fc35123a418f6ea2e6d5/stups-senza-0.61.tar.gz"
+    },
+    "0.62": {
+      "sha256": "6d111ef65501fd17fbfbfcdf876f26e10c58264bbf54cc9f01cc39dbed441cdd",
+      "url": "https://files.pythonhosted.org/packages/cb/44/e2228d0255bc285770884bdef7194c33830f1ef49bc091051ec81f5fb2d4/stups-senza-0.62.tar.gz"
+    },
+    "0.63": {
+      "sha256": "78ff855a6e0c8c6ff9f60a2f1661a1a0556ed02fbad09ff763d215f7979e6247",
+      "url": "https://files.pythonhosted.org/packages/a0/c1/00faee0a1b060b8b1493ebe2bbfe0f2fd085002e82867d1f03358552e8bb/stups-senza-0.63.tar.gz"
+    },
+    "0.64": {
+      "sha256": "0e3ce78d18a70ac61e3e6a192f753025dc5fb2799a6e3320630e5179ae592c76",
+      "url": "https://files.pythonhosted.org/packages/a0/8d/991cc14b899c4d8ca25061af39221b7a6b98167b4e1de958ac093671a50b/stups-senza-0.64.tar.gz"
+    },
+    "0.65": {
+      "sha256": "04699528b840f140a79bc77c6476e48c46033fb646e4ca5c95672a12531a37a9",
+      "url": "https://files.pythonhosted.org/packages/f3/47/ec1529581cc1963664a17805dc01a9d51e3decdbfdbb5cc41ac134e987e2/stups-senza-0.65.tar.gz"
+    },
+    "0.66": {
+      "sha256": "e305e57191fd11f38ddb29137ef8b6aa87b84c642ecfd03c3e697347608d9040",
+      "url": "https://files.pythonhosted.org/packages/fe/be/f389e5169546ca46d2180e990e62fa0e39281dd0965ac783d75538598961/stups-senza-0.66.tar.gz"
+    },
+    "0.67": {
+      "sha256": "63358984e0766719fadec19622e5cddbe2bbd261aafea37d582b345126448063",
+      "url": "https://files.pythonhosted.org/packages/57/10/942b49fe881308ce7efc5c94f3c636681b7c8d9576fa0bae4da4806af58c/stups-senza-0.67.tar.gz"
+    },
+    "0.68": {
+      "sha256": "11d40da5dd6bce0202805f1cb4e7c446baa1ce79fb55611153784d98168608a3",
+      "url": "https://files.pythonhosted.org/packages/40/da/2374134d86307272155bcf4ddfcdd5dbd0ada8c7a886340b7635fef14e70/stups-senza-0.68.tar.gz"
+    },
+    "0.69": {
+      "sha256": "91b3a5f9a2b2cf6fe60830ec4e282a1aae8524bb38b6ee10ea215541bc97122e",
+      "url": "https://files.pythonhosted.org/packages/3d/54/5cd112ac1e673152563fcebc8f8603629f1987894a8acca315a707d838ae/stups-senza-0.69.tar.gz"
+    },
+    "0.7": {
+      "sha256": "b5ba9596ff8b716dceb5247e9861928423c6a6fe5e82071039c459c152070460",
+      "url": "https://files.pythonhosted.org/packages/88/13/1064a23e8d3261deba1c6bdc1a71527e2d49df30e69db8b7e059693d5908/stups-senza-0.7.tar.gz"
+    },
+    "0.70": {
+      "sha256": "e8a82f579ba0b20e48c10bd225e8800d5ad5648a9775511d25cdce8460d75623",
+      "url": "https://files.pythonhosted.org/packages/d5/95/6910bbac2bf379d889d2bc8032f22daeb51069a37717948df245162ececc/stups-senza-0.70.tar.gz"
+    },
+    "0.71": {
+      "sha256": "0774b1a091ff3b38916f0731460e2c9d239a6705dedef7016ef5a1bbf94af400",
+      "url": "https://files.pythonhosted.org/packages/4a/03/6b8c64f78b13260e5e1b8724650ddc5d01169f4f9829704fbd4c007d24f0/stups-senza-0.71.tar.gz"
+    },
+    "0.72": {
+      "sha256": "6a7abce26e3be7b2055b9a6f49dcf76656817634434123cbb4ccd2bca68ffd74",
+      "url": "https://files.pythonhosted.org/packages/2d/66/b4b522d884d980e66b12b8e4de8bd45ba324154adaf1a06f83bed7a87d06/stups-senza-0.72.tar.gz"
+    },
+    "0.73": {
+      "sha256": "991046658913f6b4729726f8f67a371e20f82e8db65aae740472c6b988dcb363",
+      "url": "https://files.pythonhosted.org/packages/0c/62/14bdda53f28290184e5bb93562437f758320fbb14ec3a47d256c8fb9e8ce/stups-senza-0.73.tar.gz"
+    },
+    "0.74": {
+      "sha256": "185b8df98f7398988fbf553ad151615141d5ee29e65761ffe29047942efe8fe0",
+      "url": "https://files.pythonhosted.org/packages/a8/66/2c9688e06841c60a6cd0ada57c8545f9d22bed604628ddcaa2227c931782/stups-senza-0.74.tar.gz"
+    },
+    "0.75": {
+      "sha256": "b2ed24c77d519895fc7f4e33bf09eb133ed4089bbd37a8961605e525c2f561a3",
+      "url": "https://files.pythonhosted.org/packages/7d/56/0b14696ae10fd695046af2759c544a1a738c1f4af012e00df9b7ddb08d26/stups-senza-0.75.tar.gz"
+    },
+    "0.76": {
+      "sha256": "a1a5a5b43d2995b734e256efb7eba96d1a85b835c88a4d56894cbd10ac688aad",
+      "url": "https://files.pythonhosted.org/packages/2d/e9/497beced6bc413a9d091f4be7d669a1e524be4492cbf7a898c0a29c39b8c/stups-senza-0.76.tar.gz"
+    },
+    "0.77": {
+      "sha256": "d8989385735fd63f9e29629163eedcfa77b4f7c5bb04d87a265f0cd9508d5f30",
+      "url": "https://files.pythonhosted.org/packages/4f/f7/3303c25c2264c3d3cd4cd223489fef007011c7f818d104f55d959a4e8233/stups-senza-0.77.tar.gz"
+    },
+    "0.78": {
+      "sha256": "a668203f8bfae75ce83a9533f2414b05971f891545d69a854722be712277030e",
+      "url": "https://files.pythonhosted.org/packages/d4/3d/3a40608760045215a2e5bd15f195e8aaf895f1e3df7e445a4bd93c6b97ed/stups-senza-0.78.tar.gz"
+    },
+    "0.8": {
+      "sha256": "1d0e7d37aefa1a7feef4ef057862a6d89f337f65e75c5bd5595406ae1dfab61b",
+      "url": "https://files.pythonhosted.org/packages/d1/09/0ffe5b14e23393cbd212fc46734ad50aeffb1d5bbff2e6629c9e14863285/stups-senza-0.8.tar.gz"
+    },
+    "0.80": {
+      "sha256": "8d5bf9379d43bea3a0881ae877dd19dc559caa700002dd3fc23141448e5bf38b",
+      "url": "https://files.pythonhosted.org/packages/2a/db/bc7d2beb14d60b17cf643d3c6de034edfacfb309bc07cf1030b92cc519a6/stups-senza-0.80.tar.gz"
+    },
+    "0.81": {
+      "sha256": "2597625403a97c79011624ed83a264f8d3812d233173a81c346226a25e0ed84f",
+      "url": "https://files.pythonhosted.org/packages/f8/12/5eb0d1912d9d29f18bcfc963051699e02943c0beab5f20a409b9eae45a65/stups-senza-0.81.tar.gz"
+    },
+    "0.82": {
+      "sha256": "8ad9f95412d69fad06821e99244f398bd5a7121310ccd23ca5a40e0c69da65e9",
+      "url": "https://files.pythonhosted.org/packages/b3/95/594428796110169458fd984ddc1cdf6072bc009441cc2882ef2d73f7eb38/stups-senza-0.82.tar.gz"
+    },
+    "0.83": {
+      "sha256": "09202269fe9adae5442e70a96c209ec0032a8fc5c85240da753503c1c329df2b",
+      "url": "https://files.pythonhosted.org/packages/a7/82/27749bd9b6456f946b362479110ded6c3304f98cffa42437929589136b4a/stups-senza-0.83.tar.gz"
+    },
+    "0.84": {
+      "sha256": "6e6cad180c004273eedb4a098e977be9aeea03cf7e13b26fc86479a5adff83ff",
+      "url": "https://files.pythonhosted.org/packages/9e/72/e27f44ef6e8487495e9731eaec63e62fe993f3d2328f2be32b28d64dadec/stups-senza-0.84.tar.gz"
+    },
+    "0.85": {
+      "sha256": "e166d4111b8cc3c67df659a5c538ceea9bd31e5f2caf2643ff5d313ad5d629d6",
+      "url": "https://files.pythonhosted.org/packages/00/7d/b54f45881864a2254c873f322f84d63a74f009b7ef152b89b71c75c9b8d2/stups-senza-0.85.tar.gz"
+    },
+    "0.86": {
+      "sha256": "dec84231ce33f2ff070df54269f4f7dcff78d9753996eb2fc71055b4d9d0b763",
+      "url": "https://files.pythonhosted.org/packages/91/66/0fe9edf140451ac84a8cee5db0a03b23b43a7190057d2737eb20f6dcb904/stups-senza-0.86.tar.gz"
+    },
+    "0.87": {
+      "sha256": "ac406db071e9700c992ccf9b18d5a3dfb218c546121734b2242c9df262f6fefe",
+      "url": "https://files.pythonhosted.org/packages/19/02/0e3beec6a530038304c66af6d718b042ddb02238f3a937cd1e4f3c9120c4/stups-senza-0.87.tar.gz"
+    },
+    "0.88": {
+      "sha256": "2a589fadcc7665be377fde24d9c7b5c09bd52f81384a4fc8d99cb6f7eb49875d",
+      "url": "https://files.pythonhosted.org/packages/35/9c/456a509fc1e1f38cdb9ec6e2345a1030ccc1e34d7cc2226d1d45e67ff6ca/stups-senza-0.88.tar.gz"
+    },
+    "0.89": {
+      "sha256": "3b21b5c0c3dd9ff3d1d9253dfff0061e0a0197df9d0a980d7a81d3d25fd1ff69",
+      "url": "https://files.pythonhosted.org/packages/f8/24/10f2d0090e5d455a3e8e8eaf2a012f16d4c44f5242620f792763851986b1/stups-senza-0.89.tar.gz"
+    },
+    "0.9": {
+      "sha256": "62b66d08c161116212b9f39b14c17c6ed96d61625eb592a9dcb244e2f38c62f9",
+      "url": "https://files.pythonhosted.org/packages/ef/17/863249c970da363a6a269c287fb0fd68e27c3c7cc0ee150b8b36c706becf/stups-senza-0.9.tar.gz"
+    },
+    "0.90": {
+      "sha256": "7248113d336d96b61353a87d667537b9dd83a8e07d5288d07fb4424b70911efd",
+      "url": "https://files.pythonhosted.org/packages/dd/ad/ecdb7de1f73ebc53115b1361d9097a5d56467e16b89841313de0a5af23dc/stups-senza-0.90.tar.gz"
+    },
+    "1.0.10": {
+      "sha256": "5af42663ba7a56bdda4ff752e992348eb4420581a9844220fc50449be3e9fa9b",
+      "url": "https://files.pythonhosted.org/packages/0e/e3/6b7d197e66fbdd9a667b4ddd5908a4cc4ebea69774f2442b9b167ca13e83/stups-senza-1.0.10.tar.gz"
+    },
+    "1.0.13": {
+      "sha256": "c3ad8363e17dbef5cbe3b34b95c31de2898c3a6128ccb6ceb7e95e19461c0aa7",
+      "url": "https://files.pythonhosted.org/packages/0b/43/1af112719c2c58760fcb877de1c6744ffe4cf54ebb67f287ce6a3c258832/stups-senza-1.0.13.tar.gz"
+    },
+    "1.0.16": {
+      "sha256": "9014c142be50b3f3a1f35f8fd433dbc4471deab9093345ad9e0107ee4714121b",
+      "url": "https://files.pythonhosted.org/packages/05/1c/8459d92e10a287b54111942a125930512d13dff604fdbd815aa90c9845bb/stups-senza-1.0.16.tar.gz"
+    },
+    "1.0.17": {
+      "sha256": "b91904d996ce5d9c730ec25f74c0aa1d6c13cecb5d76ef87a43f28d48ac11277",
+      "url": "https://files.pythonhosted.org/packages/04/0c/87e6eb8b360fa78e78b9e374aa635374e42f1890470cd05b5ea7ad234677/stups-senza-1.0.17.tar.gz"
+    },
+    "1.0.18": {
+      "sha256": "ed04661f724bc81b58b39a78c99b33bf3df8c51ceeeb79faa9ea93e04017fda5",
+      "url": "https://files.pythonhosted.org/packages/30/5f/874e28ccb524aa603d7f8ec04ae8495550cac0dcca4e39c358e2e3eb1483/stups-senza-1.0.18.tar.gz"
+    },
+    "1.0.19": {
+      "sha256": "8b12ac79f61f6fbef22c2ae3fdfff0ffe2531d85c1ff89f14fd90a395decaae1",
+      "url": "https://files.pythonhosted.org/packages/b7/ea/869072b7133a24121f157a44bf04d48325db564c6e292505492e1e4ab365/stups-senza-1.0.19.tar.gz"
+    },
+    "1.0.20": {
+      "sha256": "8d0a42970003328304c6fd4a1c5d50baed0303e02cbea0cffda1f2824891d13c",
+      "url": "https://files.pythonhosted.org/packages/4a/6a/c57de28d74ad50c31a4aa984a4f634ea7d77e5265a0487aeaba6588bbf9e/stups-senza-1.0.20.tar.gz"
+    },
+    "1.0.22": {
+      "sha256": "aa7185f8b2a68d575fd8a55a726788758a65ecedca47a1a89fb001f648d50f8b",
+      "url": "https://files.pythonhosted.org/packages/60/c8/a56a9a80945c158b4e90594f82b85ab50ce203b3f575363997ef274a15bf/stups-senza-1.0.22.tar.gz"
+    },
+    "1.0.24": {
+      "sha256": "19e34c439cbf420096fbea2f1aa7103a580c555fc09d7942c4260eb9923ccf4b",
+      "url": "https://files.pythonhosted.org/packages/b3/8a/d89330bb848a13be210e6266ab582dd7784957f92e1229eb6fe102aa71f3/stups-senza-1.0.24.tar.gz"
+    },
+    "1.0.25": {
+      "sha256": "1540497395e266d7d6607cb673056bae4376f37f774ffad5b089e4fd5f1d09ae",
+      "url": "https://files.pythonhosted.org/packages/67/8f/d6808868473420215761df1eb1243cd11f632d87e8813f5639c78ee410e1/stups-senza-1.0.25.tar.gz"
+    },
+    "1.0.29": {
+      "sha256": "0bdacc6818a6d667eaea4d2df59fa1d3a29031e64a285f83a4f73dc899fd401e",
+      "url": "https://files.pythonhosted.org/packages/22/16/69c4433424c2b1c4441d34b8acdbae42926d95da140ccb504848c6792097/stups-senza-1.0.29.tar.gz"
+    },
+    "1.0.30": {
+      "sha256": "639eb64293f1fca2103aac12120c03baa8bc7d3dd0d5832c71aa0db6a074e975",
+      "url": "https://files.pythonhosted.org/packages/7c/9c/c6703288f49097103572408b7146be8fb0c2abadac52272d92b78e66c0b9/stups-senza-1.0.30.tar.gz"
+    },
+    "1.0.31": {
+      "sha256": "73a3dda6bcace7d679d982232175ad554ada6a8077a601b0919227961d785bb7",
+      "url": "https://files.pythonhosted.org/packages/77/b0/10b6a3b9ee614990de824b6c5a8bb697729e75349c425d3b3ef10644644f/stups-senza-1.0.31.tar.gz"
+    },
+    "1.0.32": {
+      "sha256": "73a69dcbae53adeda16f43a0984aca11fc50287262a667bf7d976dc8c23e13d7",
+      "url": "https://files.pythonhosted.org/packages/89/c6/eca917c574ef67c9b4b9222d5081ec51b76acc9a563fd353b15d49f415da/stups-senza-1.0.32.tar.gz"
+    },
+    "1.0.34": {
+      "sha256": "1bb551a9cf13ca88b9274b4aa0c9fae1318a0138a45d602dff04336e9da6b5d6",
+      "url": "https://files.pythonhosted.org/packages/7d/b5/c71e85938b270d7f3bddf38a7b8ec789bb5c1d23536dbf44b21acf8a3847/stups-senza-1.0.34.tar.gz"
+    },
+    "1.0.36": {
+      "sha256": "3ce938e65d634e87d6bfa0abfa0d511c2a86120ae5791e04f8a547f5a5ef0e35",
+      "url": "https://files.pythonhosted.org/packages/5c/3f/9b829ce88f7ec0cfef3e837cecb7c593a0e2b9c9471e16105253b51e1e1e/stups-senza-1.0.36.tar.gz"
+    },
+    "1.0.40": {
+      "sha256": "1475cc8498c46b16f24b38f6852c029aad34134dd213d16089aef85e49623335",
+      "url": "https://files.pythonhosted.org/packages/5a/93/6295d3d7df20de5fc118d52a7c00b38e5614e9c32616e8a9791d5ede99fe/stups-senza-1.0.40.tar.gz"
+    },
+    "1.0.42": {
+      "sha256": "efe75b34efdc37c78800c792b14b732dee4a3fee7c38b4a4bf149f4f620c5b46",
+      "url": "https://files.pythonhosted.org/packages/69/17/0933ebb538f70472d6b1c3e0ad1ca3dcacf7b26bb6b93fb338052c1015f8/stups-senza-1.0.42.tar.gz"
+    },
+    "1.0.44": {
+      "sha256": "25d898d1dd733f9ce1210eab185d32ad6607b01efef20fceb729002b1f44915b",
+      "url": "https://files.pythonhosted.org/packages/84/50/f17a61b1598d04b4a0376f8d213286b5f790b85db9c43487e3fcfd174231/stups-senza-1.0.44.tar.gz"
+    },
+    "1.0.45": {
+      "sha256": "c0682f79d7281bdfdbf6acf2473b6bb8386a480c315417c323bd66509b8d42da",
+      "url": "https://files.pythonhosted.org/packages/d8/ba/5139a82dc28939ead06929c055c2f07df3f3e26293ae7153a041d3d0bc53/stups-senza-1.0.45.tar.gz"
+    },
+    "1.0.46": {
+      "sha256": "c8269a8e15b8a25d539cdf878c2fd423440cb55152caafbbfbe045b891e1a5c9",
+      "url": "https://files.pythonhosted.org/packages/35/f2/9fcdaf64f91ea61dc56193600dbf53494273e3b6111bed6e8c9e6ca5fa0a/stups-senza-1.0.46.tar.gz"
+    },
+    "1.0.47": {
+      "sha256": "9dc8244b48b2512499e651b91a7dee4ee8f35919ab4d27511343c2a082b302ad",
+      "url": "https://files.pythonhosted.org/packages/7f/af/0a83271ea201c8c4a20627048cc8a92393b8560ac8150c5ab7f01278998f/stups-senza-1.0.47.tar.gz"
+    },
+    "1.0.51": {
+      "sha256": "8e2eb299440ec4772f2f16d02a046570e9504235762279e7719c31def7179a59",
+      "url": "https://files.pythonhosted.org/packages/e4/98/a376c25f773e37fc59f3d6cf30a97a853d94b5e7f0d761e2d1d416d04f40/stups-senza-1.0.51.tar.gz"
+    },
+    "1.0.52": {
+      "sha256": "30ba737cc6abc60800938bd5dfd07c179c3381fe0ab1cf1f57e301955f6fecc6",
+      "url": "https://files.pythonhosted.org/packages/6a/27/3d1c720a137cfe3d89b37300b5637661741c385a56f6abd8a3e7310248dd/stups-senza-1.0.52.tar.gz"
+    },
+    "1.0.53": {
+      "sha256": "3b7ab0ba6379d39acffb88fcfe42ef1595f0885a6299c56a63db699a14b25eed",
+      "url": "https://files.pythonhosted.org/packages/09/5d/1b6454d433b1df1364fc6c2978d477b6ecc1425f1f9722de173da3fa284e/stups-senza-1.0.53.tar.gz"
+    },
+    "1.0.54": {
+      "sha256": "d200de1f8613cfda76c89df06e9fd15b20497aa55cd35eddb7b6ec1c88d7a8c7",
+      "url": "https://files.pythonhosted.org/packages/20/4e/9d117af321e5ab414841d2791d628391462ad0d10d1f1d0a68a3dea0ad4b/stups-senza-1.0.54.tar.gz"
+    },
+    "1.0.56": {
+      "sha256": "d8ead114211cade94708a489cceebfdaa53b5455d327627b6542af3839893ccb",
+      "url": "https://files.pythonhosted.org/packages/3b/f7/30a6cedc50a35d243a88e1ef3873f4947428f5987d23d76e372fe046b77c/stups-senza-1.0.56.tar.gz"
+    },
+    "1.0.57": {
+      "sha256": "80541ae970028ec92712918a118c356e297045b6d88fdad5c52347002267d9d8",
+      "url": "https://files.pythonhosted.org/packages/bd/4d/b512f06dc14a6cb72cdecd3b8ae924b1b6b317f0d0743db5437a43d04e5c/stups-senza-1.0.57.tar.gz"
+    },
+    "1.0.59": {
+      "sha256": "16885f88d106013a7b07aef498c49c64dd4608082c1a663d20733540d12ed426",
+      "url": "https://files.pythonhosted.org/packages/90/77/795d80683af5501a2ff369ea98301ff4007e94bb0c90e2dc8d623529ab11/stups-senza-1.0.59.tar.gz"
+    },
+    "1.0.60": {
+      "sha256": "a107e1bcaab0899956dbb228eef3b1558450d0757887841e2a2268a4259476df",
+      "url": "https://files.pythonhosted.org/packages/36/e1/1cb6a7d32fcff96aa6280b1df9efff06735449167f9343c49b3b74a21cc3/stups-senza-1.0.60.tar.gz"
+    },
+    "1.0.63": {
+      "sha256": "f284e306bf4aed5fcd34bbb6d430abc67735dab2ae7407e224c949ff730cd58c",
+      "url": "https://files.pythonhosted.org/packages/0f/8f/257edfadb47f2ed208c45632a481e03b0693e0cd8ad5665a6888b7e810de/stups-senza-1.0.63.tar.gz"
+    },
+    "1.0.65": {
+      "sha256": "021a55604473f2cc99750e262bec60d362738c87bbb9198341b73ce1e0533de6",
+      "url": "https://files.pythonhosted.org/packages/f4/85/5cd7f76273afb6e2dceab20a33a6ac829dc0bd752534c5a04fe9be0403b8/stups-senza-1.0.65.tar.gz"
+    },
+    "1.0.66": {
+      "sha256": "3103317d376d6fab77fd0cf52ebd64704472f86c7db8cb6ef17317027b516104",
+      "url": "https://files.pythonhosted.org/packages/42/15/8863da124aea10faac831d47c9055d03083073482514ccc745c1b9590164/stups-senza-1.0.66.tar.gz"
+    },
+    "1.0.67": {
+      "sha256": "77a6bbca061cd4447533f55302cc5748d43ef9b98af5c2de55bb3f2a2794b2b7",
+      "url": "https://files.pythonhosted.org/packages/5f/9f/48e4928be360a2ed559f8272c937eaf69d7b97a14830b3882aff2fc2e6e0/stups-senza-1.0.67.tar.gz"
+    },
+    "1.0.68": {
+      "sha256": "77a481abcb4c54bc5b36a00225aa37cd89ea7cbc0ca51692641e1e8759b67432",
+      "url": "https://files.pythonhosted.org/packages/35/b8/001bb8ab156e09bad1d78eb3b592218940af1e49402667d908c57fa0d1b5/stups-senza-1.0.68.tar.gz"
+    },
+    "1.0.69": {
+      "sha256": "e59942769038fcc7ff4f17269224a76e4ffd940881a7fcd017247242d0c2301b",
+      "url": "https://files.pythonhosted.org/packages/dd/7e/ddadbe4e3f9935819e27e380550f9642290dc8ae2a0454b843d9d35d10e7/stups-senza-1.0.69.tar.gz"
+    },
+    "1.0.72": {
+      "sha256": "9fdc9ad611eceed12cd50a7f1024f9c2f6d51c98ca29217786118efac944cb42",
+      "url": "https://files.pythonhosted.org/packages/ac/aa/4a448d23f080f43780c0eae823bcf8bf9364478fb54c0f922fc1daa079b0/stups-senza-1.0.72.tar.gz"
+    },
+    "1.0.73": {
+      "sha256": "1257d254d41e4cb83efe41e4723cf6c6571cbc242c5c749f317573a4e8e2a486",
+      "url": "https://files.pythonhosted.org/packages/eb/cb/8dfcd577bb818e0c7d3ec1128a582e687cf6ce16244321bd2a0bf05aaa2d/stups-senza-1.0.73.tar.gz"
+    },
+    "1.0.74": {
+      "sha256": "1f0f3d6d7e3537c4f1e821ff6aaf0f45ef712caa53550328b94c08ce0bf254e0",
+      "url": "https://files.pythonhosted.org/packages/63/31/6bb11173b7d033fd3755260922f6078e3afbdd1443284b54b0be97b54069/stups-senza-1.0.74.tar.gz"
+    },
+    "1.0.77": {
+      "sha256": "445e05c904a557ea7937a23ef1302a11e38a578b81c5ce9a40303645c0a0a4eb",
+      "url": "https://files.pythonhosted.org/packages/b6/9c/86ddd69c344e3e09eaeb00fbeff702bd03665aeeeef5adbf5bed85a3492f/stups-senza-1.0.77.tar.gz"
+    },
+    "1.0.79": {
+      "sha256": "24eb9d23615c5c53d3fec00496723ee79d4a70f862c26af1fa1578d9ee96f195",
+      "url": "https://files.pythonhosted.org/packages/b0/cd/4ef4fc01b46e29548f855fa002c82cc4f07605a7dd1fc4678d66d953fcf4/stups-senza-1.0.79.tar.gz"
+    },
+    "1.0.81": {
+      "sha256": "af3798e7ac62425494112ccef9085db1f7a38ceb13a9e916240975a098dde771",
+      "url": "https://files.pythonhosted.org/packages/e1/6a/dbc8498d952e985b5e85355cf95dd949a102b7e0a40216e20ed57b88dce7/stups-senza-1.0.81.tar.gz"
+    },
+    "1.0.84": {
+      "sha256": "8fcdd97ad2ce6473a944bec565dddd3d9643c8a480bdb0339cc4d50e2edbfcd8",
+      "url": "https://files.pythonhosted.org/packages/d7/83/4b3fe5938e0fe54af281e4d935b6689f4cb6ea22e159f34e7c342e6cb477/stups-senza-1.0.84.tar.gz"
+    }
+  }
+}

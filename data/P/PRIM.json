@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "This module implements the Patient Rule Induction Method\n                   (PRIM) for scenario discovery in Python.  This is a\n                   standalone version of the PRIM algorithm implemented in the\n                   EMA Workbench by Jan Kwakkel, which is based on the\n                   sdtoolkit R package developed by RAND Corporation.  All\n                   credit goes to Jan Kwakkel for developing the original code.\n                   This standalone version of PRIM was created and maintained\n                   by David Hadka",
+    "homepage": "https://github.com/Project-Platypus/PRIM",
+    "license": "GNU GPL version 3"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "5505424570edeb1ead1e68595d2d070e727b93dcef16d1b7acaa048d8fd4ecea",
+      "url": "https://files.pythonhosted.org/packages/6f/e3/101d003979230830ea2df95ef520dd9647266c48cd16a1fdea2e50541ded/PRIM-0.1.zip"
+    },
+    "0.2": {
+      "sha256": "42289b6882d53f5af0db6cb2d2b8a6720354e35cb1d4ee55286a52bf1107aa97",
+      "url": "https://files.pythonhosted.org/packages/4c/09/9f312b71c41271ae1488d8f5f8cac51812e84cf07dd6a2732a18aedb7343/PRIM-0.2.zip"
+    },
+    "0.3": {
+      "sha256": "335c4216e912994b09124ceededb7583635c03dfd95df25fb3613a4c354056bf",
+      "url": "https://files.pythonhosted.org/packages/26/a0/712b33409e5eae6d3569e2174badb85fbf2198f23e3c66a3e0db0dfa580f/PRIM-0.3.zip"
+    },
+    "0.4": {
+      "sha256": "a070e2f687a6a9e99f1ecc6adbf392f4370b010f56816108c8db1c0acfb9000f",
+      "url": "https://files.pythonhosted.org/packages/76/ba/1878639915fa525413ce7a7c34e4c712bf8e77f045690f9b4b417dbe7f78/PRIM-0.4.zip"
+    }
+  }
+}

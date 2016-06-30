@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.1.5"
+  ],
+  "meta": {
+    "description": "Pure Python implementation of the squarify treemap layout algorithm, forked to work for python3 since current implementation does not work for it",
+    "homepage": "https://github.com/laserson/squarify",
+    "license": "Apache license, version 2"
+  },
+  "versions": {
+    "0.1.3": {
+      "sha256": "55c2e6b7c5dcd7ee3b1f2066daab72e1a1ba1c7ef75e3e2f63c9f050375fde3f",
+      "url": "https://files.pythonhosted.org/packages/ad/fb/32e50bb71b83fbadad7ca1f6725336e0ab3aa024d5d818430a75756b8434/python3-squarify-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "9422b11c276286746ebb8518b541fa8bea6065039e134c6dbaf82f752bfcd3f9",
+      "url": "https://files.pythonhosted.org/packages/6b/8e/981ebc60f1299e746872fa7917154bbce10b57a6334fafb88fe39f75b912/python3-squarify-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "50ea3b7e617c2377ea29c8c95e6808f22fd3bd5ca384bebe0b21fe0ec1bf06f0",
+      "url": "https://files.pythonhosted.org/packages/bd/db/576cef6ff70a8a98bee133156b63b89a6ed9d9cb260244095338ce53e5e2/python3-squarify-0.1.5.tar.gz"
+    }
+  }
+}

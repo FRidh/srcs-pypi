@@ -1,0 +1,116 @@
+{
+  "latest_version": [
+    "2015.1.0"
+  ],
+  "meta": {
+    "description": "Mistral Project",
+    "homepage": "https://launchpad.net/mistral",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "23933ef3ec48fd3d33aa6ad77c50111ca42f01238464937eac20ebcce5bf212e",
+      "url": "https://files.pythonhosted.org/packages/45/0e/d136756d94e4f097f55348da647cf960253e7314117a2f6b34139720e4b2/mistral-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "622c1fed67f42ec457392dff52ea0fd529df2ba7fcc0c155c620944f2d7a1e09",
+      "url": "https://files.pythonhosted.org/packages/f9/32/e0e89fe1d21b1efbefba74fdd4e9bcd3bb116a7fde92121fda6415f8ea68/mistral-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "0bf8679b5669b580fc288d11918db400196547702525da58cca8b49fc167846a",
+      "url": "https://files.pythonhosted.org/packages/50/69/635f994904e9d88e3c6f2c9bde98a12f26745a702c60545ac70feae31313/mistral-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "45db9cff562f5985434219b5c5eb8d232d05f08ec82536d8d21e9debce75a610",
+      "url": "https://files.pythonhosted.org/packages/ab/20/baefb2b19cbc560f3d482710d2a98e9578f01a2b137830da7ca11e1218c9/mistral-0.0.4.tar.gz"
+    },
+    "0.1": {
+      "sha256": "0cc2f798607df361294acb7a066cd3bc1b00a290056cbd888ef50783fd4c419e",
+      "url": "https://files.pythonhosted.org/packages/3f/e5/5734e039219122f4333403bcf6a85b83210d84bf083bc2dc0addbc49cfd4/mistral-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "f33c3d58284cfe3d63715dc95afd98fef8a8d95f899895b55b1a6926f2147aa0",
+      "url": "https://files.pythonhosted.org/packages/3c/16/b25ea0b708cbb7086710c5e24cace0f903a73d2dbbcae687c543d701ede6/mistral-0.1.1.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "2933ae0ecd244a96128a8ae814b7d506ab1048ef1833811477dc5fc4d462e0ed",
+      "url": "https://files.pythonhosted.org/packages/3c/9b/22f1fe503e061447979c388d04595ca4f4768a4c7c48dd97076b0f7e7652/mistral-1.0.0.tar.gz"
+    },
+    "1.0.0.0b1": {
+      "sha256": "566294a7eb5cc497c1c963eb7a60a23ebbbcf24906ef43ffe6e9811dae32c2ce",
+      "url": "https://files.pythonhosted.org/packages/66/7b/eabd56dd1191ca0311c43d9acc5907ab1d5f8ce614abb56540fb63c2055d/mistral-1.0.0.0b1-py2-none-any.whl"
+    },
+    "1.0.0.0b2": {
+      "sha256": "d33c2f04eaf5cd2c3c21b0e5a6233a174d16a36f6ab46223af21a48db7750394",
+      "url": "https://files.pythonhosted.org/packages/18/0d/a0d0d51783948c25e3d5877933cac7316e5373aee39a522d4247629e781d/mistral-1.0.0.0b2-py2-none-any.whl"
+    },
+    "1.0.0.0b3": {
+      "sha256": "a68f3fa3f4b3c4ca1a42c3b8ac1a2390e94f7f95c801700b9dd89d244a70900c",
+      "url": "https://files.pythonhosted.org/packages/eb/c1/7adf8d4716b0a87b8cc5d21c03e62be355e238dcd591cc1c50036d9e0cf8/mistral-1.0.0.0b3-py2-none-any.whl"
+    },
+    "1.0.0.0rc1": {
+      "sha256": "f3ac6e1886f9beeebefaced343cb5e2884672f71ba1c126000ca0370d0bc2e25",
+      "url": "https://files.pythonhosted.org/packages/9c/94/aea6c5757677a9428b58222e6d1d9819fecf6f836ad7e55c978967327377/mistral-1.0.0.0rc1-py2-none-any.whl"
+    },
+    "1.0.0.0rc2": {
+      "sha256": "c38d4716bbf341d48c6f1db017285c0114cebec3421e9af56225b6da780a032a",
+      "url": "https://files.pythonhosted.org/packages/4c/1c/188c621ce3930e70cf3341e55d1f0d2f8586102b13c81237ea560ba0e640/mistral-1.0.0.0rc2-py2-none-any.whl"
+    },
+    "1.0.1": {
+      "sha256": "44da583a524ec11066becd4622b2110cfd80c30853d20fc003fe40471a29e14f",
+      "url": "https://files.pythonhosted.org/packages/b8/89/a42ea47831970fe2fc87a57dd67c04899375ef2ddc56ab93d5aedf546521/mistral-1.0.1.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "133b53a1d6ea0693521091033dd5b0dc07852cf27d8c7342e14016f3d46d1462",
+      "url": "https://files.pythonhosted.org/packages/8b/c4/53e3ae76bacadeae74fb2996d9d7b376dbbeaf0d1686e17825c843ba0658/mistral-2.0.0.tar.gz"
+    },
+    "2.0.0.0b1": {
+      "sha256": "c212127abf44733c2212da7ff444c282b47c7b59ebc1844d633ace6a994073ba",
+      "url": "https://files.pythonhosted.org/packages/81/8c/400f6aec58ad201fcbd9a6535dc2ec8af4afc8d064c0c575aad16aa7d30c/mistral-2.0.0.0b1-py2-none-any.whl"
+    },
+    "2.0.0.0b2": {
+      "sha256": "76e245b1709064a63f32c931aa4163908981e919a90b5e5fa66bc56ff8b9ee0e",
+      "url": "https://files.pythonhosted.org/packages/e1/64/8225c9c679692c83b6885b2e8be096f11f92a5209c7b75bc879d2af82f01/mistral-2.0.0.0b2-py2-none-any.whl"
+    },
+    "2.0.0.0b3": {
+      "sha256": "2e51870c490591434e3a4ea895b63f5ec381e43ffa2dbae0e63157b3c960c6a2",
+      "url": "https://files.pythonhosted.org/packages/fe/55/f185cb820be139b369ed2625c153529ca21782a17972f21c97416eed99bc/mistral-2.0.0.0b3-py2-none-any.whl"
+    },
+    "2.0.0.0rc1": {
+      "sha256": "3167ebee4ab763490310bcbbda2af3bc93bdf81d5c8f3985181311c89b87eda1",
+      "url": "https://files.pythonhosted.org/packages/4a/8f/5e1b3f2f56ce6efe0e124969e3d57303e7d757a5f880fea55aa3e040a0e4/mistral-2.0.0.0rc1-py2-none-any.whl"
+    },
+    "2.0.0.0rc2": {
+      "sha256": "58a20e870f033b4589d4c42e477d13464ce75f73421c6afe90f42f1a89f1fa0b",
+      "url": "https://files.pythonhosted.org/packages/ef/40/0c71e78183a4f52047ac505b8aec1a7f6a7fde5ab970f5d67c5da0851390/mistral-2.0.0.0rc2-py2-none-any.whl"
+    },
+    "2.0.0.0rc3": {
+      "sha256": "5cc6f208143eb82fb54f585be46cde3bb19e3a16d91afbf8df8d52621d3b10b1",
+      "url": "https://files.pythonhosted.org/packages/96/28/c0a3c68b525866c3c60774f169ddc5789a81788ae629922c24e3f3d0c472/mistral-2.0.0.0rc3-py2-none-any.whl"
+    },
+    "2015.1.0": {
+      "sha256": "adaedb15b2f3cbb2b98ce1f588b8a3edf8d1a7970543edf9d5f467d7237889d1",
+      "url": "https://files.pythonhosted.org/packages/a4/8c/d5b7af21a6901112d16f322c9913ae4d01d5fea9e3044d99ea93ed17da8e/mistral-2015.1.0.tar.gz"
+    },
+    "2015.1.0b1": {
+      "sha256": "bc34dab2b20619026ef9cec9c1e9efab601d7a574e8da9d7c1607db6f89a2ea5",
+      "url": "https://files.pythonhosted.org/packages/6b/81/16e26afce4fddd37a80afb6abfab7a4088b9afccea38d920dec9ce543574/mistral-2015.1.0b1-py2-none-any.whl"
+    },
+    "2015.1.0b2": {
+      "sha256": "a904035d7e0d00a32b8474e1358b1cc2ac09aa51a8758afa97bd308b3a536991",
+      "url": "https://files.pythonhosted.org/packages/d7/ea/f9c15e485018322e7b59c5c7431d59418f37185b0cd7d71ab996715a1c25/mistral-2015.1.0b2-py2-none-any.whl"
+    },
+    "2015.1.0b3": {
+      "sha256": "7a688386a2566f5f69cc82b8e5e7cc1201ec54a4123cdd8d35748594cd25c229",
+      "url": "https://files.pythonhosted.org/packages/c5/0a/2555b554161d7e21d0142905ca3e60a5838062d8f3a45ba5485e661d5649/mistral-2015.1.0b3-py2-none-any.whl"
+    },
+    "2015.1.0rc1": {
+      "sha256": "77b499d0f9cf86e338ef49a5553bbf37ecab4f26edbd48e21ae8dd354576b108",
+      "url": "https://files.pythonhosted.org/packages/19/17/d5cd012635249bce945685ac918ef2068cce46d58618450c1c643482746a/mistral-2015.1.0rc1-py2-none-any.whl"
+    },
+    "3.0.0.0b1": {
+      "sha256": "4cbfd78754c9c34c069536bbde252a4dea008bdf9d988701cc27ac53bd20157c",
+      "url": "https://files.pythonhosted.org/packages/b4/e8/1e3f037d8162e08fb2af1a9c44b64c51579ad922605c77ff524c69e8f73e/mistral-3.0.0.0b1.tar.gz"
+    }
+  }
+}

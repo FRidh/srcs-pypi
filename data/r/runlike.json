@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Reverse-engineer docker run command line arguments based on running containers",
+    "homepage": "https://github.com/assaflavie/runlike/"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "9a0cb5893ff3813db5aaf868cea6d33a1145345cc51887e674b3bdf0d01cb252",
+      "url": "https://files.pythonhosted.org/packages/4a/06/30cfabbc33e2e0a6fcfd460305c17de449e8cda96af1385d59af31f2fb20/runlike-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "a52ba01f775ac07bcc959b3fc3eab16070e745188a46ca4c4cf4334a4e4670ab",
+      "url": "https://files.pythonhosted.org/packages/c5/90/def2c9f12d9282cdeca8b757865e796ef3d372794695cb90b1ee226771ad/runlike-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "7d30343aeeb6f8abab01eee2b6b12e97876f3308afe177c2990ad07cd106aa06",
+      "url": "https://files.pythonhosted.org/packages/16/49/71fd05f985deac40d6b79c5f3c2ffb1a6df382d81e1fa1772b47831269bf/runlike-0.1.2.tar.gz"
+    }
+  }
+}

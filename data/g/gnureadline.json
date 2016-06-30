@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "6.3.3"
+  ],
+  "meta": {
+    "description": "The standard Python readline extension statically linked against the GNU readline library",
+    "homepage": "http://github.com/ludwigschwardt/python-gnureadline",
+    "license": "GNU GPL"
+  },
+  "versions": {
+    "6.2.5": {
+      "sha256": "49b62768c527d7681a7098aab5cdb24b8e64eda6bf02841b7149a95a4f39720d",
+      "url": "https://files.pythonhosted.org/packages/b1/d6/e7ca8d8c8ab877a2ecccc9a4a6179912c67ab3da7b5621d22d8f20c292ef/gnureadline-6.2.5.tar.gz"
+    },
+    "6.3.3": {
+      "sha256": "a259b038f4b625b07e6206bbc060baa5489ca17c798df3f9507875f2bf980cbe",
+      "url": "https://files.pythonhosted.org/packages/3a/ee/2c3f568b0a74974791ac590ec742ef6133e2fbd287a074ba72a53fa5e97c/gnureadline-6.3.3.tar.gz"
+    }
+  }
+}

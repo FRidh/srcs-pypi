@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.0.2"
+  ],
+  "meta": {
+    "description": "Simple script to be used as the --to-cmd/--cc-cmd parameter on git's send-email command",
+    "homepage": "http://github.com/caio/teamcontrol",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "baa355691e2c616727eebba20ff36a584c3d7cc7511f13e2c5adba73f768db94",
+      "url": "https://files.pythonhosted.org/packages/5b/13/c0c124bf98f874b8e8516e54c999dfc1f06e289343c96b98eb5cb617e7ce/teamcontrol-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "e04f160f3c125d5428f15fd26b4ea536df2da9e17945d6e03750a4487a137e33",
+      "url": "https://files.pythonhosted.org/packages/3e/56/9b1321e2fd4ff1bb0d9c64b5e7170630321470c651a469152d8a5e2283d5/teamcontrol-0.0.2.tar.gz"
+    }
+  }
+}

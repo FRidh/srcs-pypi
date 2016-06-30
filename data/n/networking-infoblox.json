@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "2.0.1"
+  ],
+  "meta": {
+    "description": "Contains Neutron drivers for integration with Infoblox grids for IPAM and DNS",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "f35a6a32a96c637c540817906d9737a897ddc72a4919fad7dcdd4b62341dd849",
+      "url": "https://files.pythonhosted.org/packages/2b/54/6711d5ef00ffb2bb8c20895dc251daeaf91ffff04f582ff30599380b51a8/networking-infoblox-1.0.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "d0c7374d79e5cd6a43bf5ab91a12eb83ebed47f3491316a632f9a40495051aa1",
+      "url": "https://files.pythonhosted.org/packages/2b/c0/7b2dab43711f8009fd7569de503c7f4c9c09345f7549e0f608dd55e99b91/networking-infoblox-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "82170de30069e72aa0c6dbd1177497c03c44bd80cc0669aac966140700e156cf",
+      "url": "https://files.pythonhosted.org/packages/e8/1e/25487d729d6c07725388686185cb4c25a93cf849a0c6c4fbbbcc5f78792f/networking-infoblox-2.0.1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "2.0.0"
+  ],
+  "meta": {
+    "description": "OpenStack Gceapi Service",
+    "homepage": "https://launchpad.net/gce-api",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "8162533a441379bbfb0a08ecb6afe4e5d9082b4ede99edf08aa0ff05f03af72d",
+      "url": "https://files.pythonhosted.org/packages/87/91/b61efcfc0e2b1af3ad3df0f6851054ecf76daf7e7744646ce5079ba293e1/gce-api-1.0.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "ab4a02248f9384ad0ca62f83b7d5c9be154773e4bf7b677b8888fcd3df2b104e",
+      "url": "https://files.pythonhosted.org/packages/7f/77/882462e247c12d5931f926809889d7800be4dabeb99c72f0f57232191049/gce-api-2.0.0.tar.gz"
+    }
+  }
+}

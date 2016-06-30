@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "A pytest plugin that reports test results to the BeakerLib framework",
+    "homepage": "https://fedorahosted.org/python-pytest-beakerlib/",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "0ef364f09ae9aa4b6d62ecc0a43da216d05d33fb10738fae554cb2aa9c80f8e5",
+      "url": "https://files.pythonhosted.org/packages/8f/27/f09eba2a9ee85e826c9faa356ad6ff12f7ffdde5eab98d7c3c5ade79c264/pytest-beakerlib-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "ffc5b77e6bc1dede26edaf0fe8c126aa312a275e1257681d1a3827430b755778",
+      "url": "https://files.pythonhosted.org/packages/de/74/81347237644cb9cd1626983cf2d9effd1669bb5299e8f699f1232654c5b2/pytest-beakerlib-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "f591d329e25d11a923011816e8836c714bda8b8f110357bccf084967a3cac8e3",
+      "url": "https://files.pythonhosted.org/packages/95/23/686b64c2e1a66aced4c29ae0bf0621e827acbe88b1f03d43ed19ca6602ef/pytest-beakerlib-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "b8f1f105a6214ed2ed31c021b1562749e0934cd16bbb5d1b68c842d969f87837",
+      "url": "https://files.pythonhosted.org/packages/4b/ab/22cd6204ded62f10b04245b733a80f346c06dad225b53ad8fabd75bcccd8/pytest-beakerlib-0.5.tar.gz"
+    }
+  }
+}

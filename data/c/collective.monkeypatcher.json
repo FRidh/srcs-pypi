@@ -1,0 +1,40 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Support for applying monkey patches late in the startup         cycle by using ZCML configuration actions",
+    "homepage": "http://pypi.python.org/pypi/collective.monkeypatcher",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "91f59c0d57d279bddc5cf623450b0aa79679b0923a17eee410317729be6e669e",
+      "url": "https://files.pythonhosted.org/packages/b5/b7/eed13055e646ab27dbd0744bf572099c9e604073b0e008029635de1de4b9/collective.monkeypatcher-1.0.zip"
+    },
+    "1.0.1": {
+      "sha256": "0bcebaaba4bbae57f2022afdb48a24ecda8e7ce5677b196a5512afb4b7a71fe2",
+      "url": "https://files.pythonhosted.org/packages/83/91/bf4e5ab34050be69416f6bb9b5bd8a5c67ed45439e804148bd4ccce9e0e8/collective.monkeypatcher-1.0.1.zip"
+    },
+    "1.0a1": {
+      "sha256": "9cef16becbd26e825abff8c2b79c6295e779888f09e66c87b08b3409f4279d92",
+      "url": "https://files.pythonhosted.org/packages/93/b7/eea6157378b13d07ac578ace3bde4975e98985dd0c24e57c767b8a36a501/collective.monkeypatcher-1.0a1.tar.gz"
+    },
+    "1.0b1": {
+      "sha256": "52ab4dbf761a56c5f608118c109995d6a8cbc4b006e21a0bf091cd4c2dd0a41f",
+      "url": "https://files.pythonhosted.org/packages/5b/46/46ea02922fd548f4b38ca6e47960b1958092e94bfcb722cbe7ed0d45db9f/collective.monkeypatcher-1.0b1.tar.gz"
+    },
+    "1.0b2": {
+      "sha256": "c7cb6769f0fdcb78fbbc2167fe6034df9c3ca7c976926199c49623d828e05071",
+      "url": "https://files.pythonhosted.org/packages/6b/c1/8418eaaeb32389009547833258f538cca37421557c2fc28f89b34abc9c66/collective.monkeypatcher-1.0b2.tar.gz"
+    },
+    "1.1": {
+      "sha256": "cb6c7880530f8a3ab3287f4201959442352a5bb1b87dd3fe155de57bfc271d90",
+      "url": "https://files.pythonhosted.org/packages/e6/31/1e6b09b0517801d042f23371155e77e0946aaa1e41122873acc616a2052b/collective.monkeypatcher-1.1.zip"
+    },
+    "1.1.1": {
+      "sha256": "54ce01111d959a5db1183ce025bfcf0f16fb2af8ba599ef098156a34c3ab4073",
+      "url": "https://files.pythonhosted.org/packages/33/63/3e7c43d923ab00d6ea3bbad6b85761d4826c563ca76725e34a1049b753ae/collective.monkeypatcher-1.1.1.zip"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.1.0"
+  ],
+  "meta": {
+    "description": "A tool for determining which tickets included in a merge might be at risk of regressions",
+    "homepage": "http://github.com/jwir3/git-risk",
+    "license": "Mozilla Public License v2.0"
+  },
+  "versions": {
+    "0.0.4": {
+      "sha256": "7fd636509867a6d27ab114e24e73903170e561af0a0c39192cb0e93772bee693",
+      "url": "https://files.pythonhosted.org/packages/ca/ac/e80fae4a9ed6d32936280878e1adba4662325fd70480559efbbc0bc8941f/gitrisk-v0.0.4.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "6336e1657cf5b1bead24cf61b14733134b66417868934416c87799d7aadacada",
+      "url": "https://files.pythonhosted.org/packages/a2/df/a1a283f5cf2917e09b903f9bf28227a106c9bec77a3f52e6e82b792de388/gitrisk-0.1.0.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "MonQueue is a Python library that allows you to use MongoDB as a message queue",
+    "homepage": "https://github.com/rexzhang/monqueue",
+    "license": "LGPL"
+  },
+  "versions": {
+    "0.2.2": {
+      "sha256": "4685d43b80eb3a34e267b48acc348827979b2bc16cb2fd7e88e778267f938351",
+      "url": "https://files.pythonhosted.org/packages/44/95/f582f64e015f1cda38eba8a816b87fe3ad64f7c65059ba94fea282a6b142/MonQueue-0.2.2.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "48aab992f50a5447f6d9c710102d5568d427ee1956b9a97a5b3c50fbdadff625",
+      "url": "https://files.pythonhosted.org/packages/18/15/2f4de0e86bb7e3b23f50d157bbc333514afd346d9e90d0096dc14849395e/MonQueue-0.3.0-py2.py3-none-any.whl"
+    },
+    "0.3.1": {
+      "sha256": "aaa7d748868b245a6b2690be4f99a949f0bcf8d7313cc52c918b4c2d85589b99",
+      "url": "https://files.pythonhosted.org/packages/25/35/362a938b4bc393745abcf99de355b5fb8fea1f8c763fe0b1a81164436fad/MonQueue-0.3.1.tar.gz"
+    }
+  }
+}

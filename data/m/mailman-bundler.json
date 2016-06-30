@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "3.0.0"
+  ],
+  "meta": {
+    "description": "Mailman with its admin and archiving interfaces",
+    "homepage": "http://mailman-bundler.readthedocs.org",
+    "license": "GPLv3"
+  },
+  "versions": {
+    "3.0.0": {
+      "sha256": "e11120874fd9f7e616c65754c85e71def94b493ab92e6cc7ced0c15820361012",
+      "url": "https://files.pythonhosted.org/packages/a5/bc/7c9c3f58529cfea653b1c7e43582eb1448e443dcdd138f4abf5ebf386961/mailman-bundler-3.0.0.tar.gz"
+    },
+    "3.0b1": {
+      "sha256": "7468bf9805fb94fdad6b5253abfd967a687667ff310c846b6eef76390a7e812f",
+      "url": "https://files.pythonhosted.org/packages/c9/eb/fbb197d66b3cab10b50a89064fa9cca31c8174b0afa3da1528549e86e9cf/mailman-bundler-3.0b1.tar.gz"
+    },
+    "3.0b2": {
+      "sha256": "a050dbdc6cb27fa7c370466d21e2b681423839009f998cca4d01c3416824559a",
+      "url": "https://files.pythonhosted.org/packages/b1/15/854fe5b4099474623edcdee5a73a6b7f440f0b396936e35c0018c7d3ca42/mailman-bundler-3.0b2.tar.gz"
+    },
+    "3.0b3": {
+      "sha256": "cd4ce06700ac92f818003d8ebf13c8f2610db5c386f039ca65cbb33f1d03d479",
+      "url": "https://files.pythonhosted.org/packages/44/ad/d00557f498894c8e68f5ff3bd303fac7689ba2a8de1493a0af365f350c84/mailman-bundler-3.0b3.tar.gz"
+    },
+    "3.0rc1": {
+      "sha256": "c8ed8a4c92ec6b67142f0bdec4344cd0fccb32ad2f4a304e2677cd9f8b27a4e0",
+      "url": "https://files.pythonhosted.org/packages/3d/cf/6e341c687c974e3778a0f167be5ead9abb5a8592b57a3bff06b181034498/mailman-bundler-3.0rc1.tar.gz"
+    }
+  }
+}

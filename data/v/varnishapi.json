@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "40.16"
+  ],
+  "meta": {
+    "description": "Connect to libvarnish api by ctypes",
+    "homepage": "https://github.com/xcir/python-varnishapi",
+    "license": "BSD"
+  },
+  "versions": {
+    "40.13": {
+      "sha256": "531db8f4b602fd5206bbbbc5bdbc11bca1e613ec413e576a17df6113249a08a0",
+      "url": "https://files.pythonhosted.org/packages/38/1c/abd157c4f93d8ffb0e46fbedc5f51ee4b605e10a687c75bcb5b1e866c88a/varnishapi-40.13.tar.gz"
+    },
+    "40.14": {
+      "sha256": "447bcd443b82013d1e6a3b45e6dfae7a1397557f68f580ea73490a25b63c88fb",
+      "url": "https://files.pythonhosted.org/packages/f8/62/3bb0bb8f7fefb6d828181b604b451706d00691eee305c70445ce440a4636/varnishapi-40.14.tar.gz"
+    },
+    "40.15": {
+      "sha256": "f6bec0863f9ce8c47bdbf492b5718ce5a079db7e87eefeb64d961bb7cafdc87a",
+      "url": "https://files.pythonhosted.org/packages/e8/04/a4ea0d646fdd21dcda425c0e38f65445dfafe355c06f81c07e2619ab215d/varnishapi-40.15.tar.gz"
+    },
+    "40.16": {
+      "sha256": "a889cf1a139e10a24507dba376eeb6aa17803d160c9e4f36c5383f5cfb125f49",
+      "url": "https://files.pythonhosted.org/packages/99/ce/d458c9c73a9cef484e7458ba5f36c43cf90a0557faae7fbb7dffc859a70b/varnishapi-40.16.tar.gz"
+    }
+  }
+}

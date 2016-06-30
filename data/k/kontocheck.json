@@ -1,0 +1,72 @@
+{
+  "latest_version": [
+    "5.8.1"
+  ],
+  "meta": {
+    "description": "Python ctypes wrapper of the konto_check library",
+    "homepage": "http://www.joonis.de/software/fintech/kontocheck",
+    "license": "LGPLv3"
+  },
+  "versions": {
+    "5.2.0": {
+      "sha256": "db6b5569d74146b91e445a2470891c5949fa73fd2cea874581e745c639740df5",
+      "url": "https://files.pythonhosted.org/packages/39/ab/92ca748e5aa76126fe0389a318cf3953f6875245bd2f9fe7f3410767a225/kontocheck-5.2.0.tar.gz"
+    },
+    "5.2.1": {
+      "sha256": "9ea6fb921422c1d42e083d23abdfaa1f58b85697a927e358dbdc8600fbe078cb",
+      "url": "https://files.pythonhosted.org/packages/7f/61/c162a91d62964a8cec726e14bbfde278cd2a9112146593d296993b753da5/kontocheck-5.2.1.tar.gz"
+    },
+    "5.3.0": {
+      "sha256": "da2f21f86b5abc3a9a64fd0c2da6b2f6a35b16f29ebe66e13404c37594d385b7",
+      "url": "https://files.pythonhosted.org/packages/87/20/55a7bd76ca0769a06ef11f2634220eb45d29f4863da7729ab55ecf835516/kontocheck-5.3.0.tar.gz"
+    },
+    "5.4.0": {
+      "sha256": "9a339e6ef16c64ee0506f08bdd8dd1eea8d0de5a64bf60e2107ed8bf6606a8a3",
+      "url": "https://files.pythonhosted.org/packages/1b/01/4928ac068552d6d386bce1e03f7b83dcaa6afaa6cc3b276585629153d779/kontocheck-5.4.0.tar.gz"
+    },
+    "5.4.1": {
+      "sha256": "adb4527437bc5d3c5a5f2dde4c17f49b64d69a4a040662bfeede958a0bae0add",
+      "url": "https://files.pythonhosted.org/packages/62/99/3d933ae2a2c6fc087042eea682db3e1acc5230a5e33f6b24c21c8caad730/kontocheck-5.4.1.tar.gz"
+    },
+    "5.4.2": {
+      "sha256": "a3aa08ad68410d08ad4021ffc8191d5517a9d787dae3459f6c392ff4a8723f7d",
+      "url": "https://files.pythonhosted.org/packages/06/8a/245b16f0d90ead05c20d92784f110cc1fc2fec8ea0a8a6d228a565b9f6e4/kontocheck-5.4.2.tar.gz"
+    },
+    "5.5.1": {
+      "sha256": "53f945c7df41f91e0a0f535d09281e5a9bc1615a9fd2030a0be865d64e060962",
+      "url": "https://files.pythonhosted.org/packages/91/20/bfa805f9a1581c0325157ccd0a846f0800235a121b50a2179212352095f3/kontocheck-5.5.1.tar.gz"
+    },
+    "5.5.10": {
+      "sha256": "4a6ce95313f587e8d6921a14de79a5bed7f5493d028014053f0276d706a45b64",
+      "url": "https://files.pythonhosted.org/packages/ae/b3/5104bd1f33d82b5aaa3bd2fb4e32c8d2fa4c155cf210e5c6c6d670c1d5cd/kontocheck-5.5.10.tar.gz"
+    },
+    "5.5.11": {
+      "sha256": "a2fba5e4984afcd611abbad93b5daaa0ddb217f31924ef9cdff4a64ec90bca70",
+      "url": "https://files.pythonhosted.org/packages/03/12/d314f8c4d44647ce6279fff6b30e26a9391038fba692fc536bfc91d58676/kontocheck-5.5.11.tar.gz"
+    },
+    "5.5.4": {
+      "sha256": "1b16fe48f856e9f8405424214bb9d485ffefa6633de05484ac69db505518cba2",
+      "url": "https://files.pythonhosted.org/packages/05/4f/dd020e841da77a7e627f1d8235e4ea4fc7c0225e39e657fc6aa6768eaedd/kontocheck-5.5.4.tar.gz"
+    },
+    "5.5.5": {
+      "sha256": "9023e096be261db8f5537c1e0c170f58155c38e25a5280cc5858df55bfc1137b",
+      "url": "https://files.pythonhosted.org/packages/8f/64/d26e58cf0f69f05b709c9af77cfdedbaf7b1ef2ea2d5881270fbaac2d9fe/kontocheck-5.5.5.tar.gz"
+    },
+    "5.5.6": {
+      "sha256": "66cadfb8bc0def6851c5642723c6cc883b3650f300cabf793b34ff102afc7403",
+      "url": "https://files.pythonhosted.org/packages/d0/93/fdb728e528bd2bd85d14828874b3d52cbd1abf90fc456ee37bdc175ed91e/kontocheck-5.5.6.tar.gz"
+    },
+    "5.7.0": {
+      "sha256": "392080c2c7d96386b052fe563e89b83459a3ec84de18432180df74e7aa7a9db9",
+      "url": "https://files.pythonhosted.org/packages/58/73/fd5bf2ae060e8a6c89f51ba2b53f7e772304b38e347e47fa1fec3d49e5bb/kontocheck-5.7.0.tar.gz"
+    },
+    "5.8.0": {
+      "sha256": "b12d2d566ce58bf015080379b5f0d19e8da5b73bc840e10d8e28df9648c2863a",
+      "url": "https://files.pythonhosted.org/packages/80/c7/eb308a6ef5bf72588423702028f93fe899fd74d85b2b5b4f049205c4a70e/kontocheck-5.8.0.tar.gz"
+    },
+    "5.8.1": {
+      "sha256": "2736ce53c61dd81147d66951dc678c5fdf7a075fc9f236e576479b2b1f0c81f0",
+      "url": "https://files.pythonhosted.org/packages/be/f0/d0628e036803a5b01ea8d35be99acfdda2405ec7463e5c2951a69bbd8b0e/kontocheck-5.8.1.tar.gz"
+    }
+  }
+}

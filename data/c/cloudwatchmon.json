@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "2.0.4"
+  ],
+  "meta": {
+    "description": "Linux monitoring scripts for CloudWatch",
+    "homepage": "https://github.com/osiegmar/cloudwatch-mon-scripts-python",
+    "license": "Apache License (2.0)"
+  },
+  "versions": {
+    "2.0.2": {
+      "sha256": "842c5ef740e4326e8bab3e23fcdd7be091cb2ce3e375f24e2c9054dbfdeca2c3",
+      "url": "https://files.pythonhosted.org/packages/24/a1/e62f9db0fbb8c2ea1390b1108d02285f741d5e42183eab070903ff7f1f70/cloudwatchmon-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "0eed86709606a9c7002fcbb5d7f89175da2f2e4a55c864aafd77fe645ab5edd6",
+      "url": "https://files.pythonhosted.org/packages/62/60/bdcb49cc824884d1fd236bfb4166a1cdb17ceafaf1a2dcfa249625aaefd7/cloudwatchmon-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "673136202ce1a568d01c8eaf3783b5dfe9be0b4885dc3d4c0d05a0235ba4a56b",
+      "url": "https://files.pythonhosted.org/packages/2c/a6/143885ebfe91a9a9fedf5767f93f20e8a9b2658bec45b0a938a2af5e95e5/cloudwatchmon-2.0.4.tar.gz"
+    }
+  }
+}

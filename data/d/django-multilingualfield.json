@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "A south-compatible suite of django fields that make it easy to manage multiple translations of text-based content (including files/images)",
+    "homepage": "http://github.com/WGBH/django-multilingualfield/",
+    "license": "MIT License, see LICENSE"
+  },
+  "versions": {
+    "0.3": {
+      "sha256": "6f33072c1313215a656a4e9e47cd302422f6b740910b13e7f45debf4e3439f61",
+      "url": "https://files.pythonhosted.org/packages/8d/b0/e6a04334efbf8f72b946a57db30c46b12d5e6a434147e374eb72fec81784/django-multilingualfield-0.3.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "059870879caf20cfa45043493db0e28ea6cfc16fb6e69dab09c5f754f2ba060d",
+      "url": "https://files.pythonhosted.org/packages/c3/d8/f3192ab4e43660263ce52941137fb9f3e03f5927e33d79036ba171544cf8/django-multilingualfield-0.3.1.tar.gz"
+    }
+  }
+}

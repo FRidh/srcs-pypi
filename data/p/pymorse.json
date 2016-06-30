@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "1.2"
+  ],
+  "meta": {
+    "description": "Python bindings for the Modular OpenRobots Simulation Engine (MORSE)",
+    "homepage": "http://morse.openrobots.org",
+    "license": "BSD 3-clauses"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "c6dfee669b04262ee3e9d836d246acdf6185925dd6f72ab5f1c09e437836e9a5",
+      "url": "https://files.pythonhosted.org/packages/3d/e0/d70c4e623ca81011d2dc80d1027bdea759b0c7d7f30d7dc024121605c673/pymorse-1.0.linux-x86_64.tar.gz"
+    },
+    "1.1": {
+      "sha256": "f0305d0295906458b86956cf66639e5069281ea7b997c1dc79294deaf7d7942a",
+      "url": "https://files.pythonhosted.org/packages/38/75/2055148588d0610ea2c474629dc34e6062e578b6ff728279aaf671ba936e/pymorse-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "cfc42d0b04e9b1aa218e6ee32e59bd879ecd141f3164b12c8a6deabb013e79f8",
+      "url": "https://files.pythonhosted.org/packages/51/a3/689c6c4f503fc3d9a10011b3623688d63b0a5ed16881d894061e1ad1e449/pymorse-1.2.tar.gz"
+    }
+  }
+}

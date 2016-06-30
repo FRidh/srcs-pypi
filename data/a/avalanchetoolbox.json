@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    ".4.2"
+  ],
+  "meta": {
+    "description": "Toolbox for identifying and describing branching processes from continuous time series, such as neuronal avalanches",
+    "homepage": "http://code.google.com/p/avalanchetoolbox/",
+    "license": "MIT"
+  },
+  "versions": {
+    ".2": {
+      "sha256": "5f3d39a837333b4e289c50df82d852b4689a44352a3d034370960f30fe681f78",
+      "url": "https://files.pythonhosted.org/packages/04/c1/e501e8ce907fe47e81ca1727746006023979acf2da5d8c5cc6f8fc8921cf/avalanchetoolbox-.2.tar.gz"
+    },
+    ".3": {
+      "sha256": "74200416998016469bbc0980bff8ee7244c1b791d2218c2e76e0d13d3085b6f3",
+      "url": "https://files.pythonhosted.org/packages/29/a8/3df74b318bd8b4ed832f541ff0be794f3619d4a107982e31bbac7c9800f2/avalanchetoolbox-.3.tar.gz"
+    },
+    ".4": {
+      "sha256": "d77d3bde2df8b26198427e7695d45e6b335629947a8a7a7bb14147cc5a9c4157",
+      "url": "https://files.pythonhosted.org/packages/ac/5a/b008582581281844eaddf6dc3e85553cf336c410a9c92e1ae4809d493bf1/avalanchetoolbox-.4.tar.gz"
+    },
+    ".4.1": {
+      "sha256": "2197c3566111fb0e0b0acbdf703ca85ae49cd1d9f9d1875247953f97e5b5bb96",
+      "url": "https://files.pythonhosted.org/packages/32/a6/32c0fef1ce895c67d7139a7fbd8627ae6ab9ce6e1f330b04ddc23e4bea9f/avalanchetoolbox-.4.1.tar.gz"
+    },
+    ".4.2": {
+      "sha256": "a2c1376ffd3adb8f79ae2ea12ef40eec2861f1662823ef624af61c4018d08154",
+      "url": "https://files.pythonhosted.org/packages/cb/22/eb70405ac011e3ceb0601472babd946518bb81fe764da228f359054ab006/avalanchetoolbox-.4.2.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "latest_version": [
+    "0.84.1"
+  ],
+  "meta": {
+    "description": "The rowingdata library to create colorful plots from CrewNerd, Painsled and other rowing data tools",
+    "homepage": "http://rowsandall.wordpress.com",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "3a58ac4ec3745dd3af23c4a46b48077381c22c6fe189d487c028a95dd9637d8f",
+      "url": "https://files.pythonhosted.org/packages/1f/2e/151bb7ddfd2b35be093622ff90f75e5838d1828e961d3eef02348f78af77/rowingdata-0.2.zip"
+    },
+    "0.21": {
+      "sha256": "9ce4245cd900d143eb3493506f76e3c7445f17db3d1b31107ff8c9eb22544f7a",
+      "url": "https://files.pythonhosted.org/packages/16/5d/21b3dd1a9ad85599448a42d5af62fc637c6c13b5f7d85691ae31b1780a39/rowingdata-0.21.zip"
+    },
+    "0.22": {
+      "sha256": "3ff62e73a41ca0b31f1418112f7edeafc32bcb39191470464162f30ae4c6881f",
+      "url": "https://files.pythonhosted.org/packages/bf/4d/fef4bb502f84423d60cc72a138a41fd86bbeee6d3d4e4f20d876da9ea00c/rowingdata-0.22.zip"
+    },
+    "0.23": {
+      "sha256": "217158be9c51924dd70fcde2c556564c66c6a3fafffdd8a4c77735c1d596ac47",
+      "url": "https://files.pythonhosted.org/packages/a2/1f/68adca5a94c64a6e57adaaf49c19adacc6973c718ba7f554b002b22460ff/rowingdata-0.23.zip"
+    },
+    "0.24": {
+      "sha256": "f830c8796211f08107d550021f8fed376c9bf24e3e4c3a384272f20b692a9331",
+      "url": "https://files.pythonhosted.org/packages/0d/df/58e0bf6a8ee4bb17b43419e2c46ef52869b1d4583f395f80aecc3a44042f/rowingdata-0.24.zip"
+    },
+    "0.25": {
+      "sha256": "d4897a969499632b00513ba7967f340da2fe54ed75794fe85c6b50652130ffa5",
+      "url": "https://files.pythonhosted.org/packages/83/6d/8db572e57ae594adb2baf53f416210c2fda505afb174a591b863120ca535/rowingdata-0.25.zip"
+    },
+    "0.3": {
+      "sha256": "de2d21b94b43e691691042b3137612a9cfff339615d341054d11c423f82dc26f",
+      "url": "https://files.pythonhosted.org/packages/86/c9/42e791ba971f70e48c8fae71d90d7851f018b6ff473f0b9c0c774b5a0e44/rowingdata-0.3.zip"
+    },
+    "0.31": {
+      "sha256": "7d95810cddc51ee317dd11e40b780e229e52b75a3b0f8018d276e817773162cb",
+      "url": "https://files.pythonhosted.org/packages/00/80/de2b0bca2fada8bbd2df383da734457593f906bce4018c8402e4b6d13410/rowingdata-0.31.zip"
+    },
+    "0.4": {
+      "sha256": "96c9a2b4b6fcde56740036c49b340dce0824c7c88fd4834d39ba4f742c606a48",
+      "url": "https://files.pythonhosted.org/packages/0c/a2/1a5161235b3b19e4cadb5a19d47bc2e1ca6b12d101d63b685e8cf23abc8d/rowingdata-0.4.zip"
+    },
+    "0.41": {
+      "sha256": "642f014a91aeca2644758ed391d950145912f3862171824efb6440bfc810ea62",
+      "url": "https://files.pythonhosted.org/packages/66/8b/4fc2c21a0350c121bd2c8ddb006f050478337484a9bbb479381180b89fd8/rowingdata-0.41.zip"
+    },
+    "0.42": {
+      "sha256": "66662fc6c2b1975668a979ed0d929ef44d7624bd595bc899cff8516bb479a8a2",
+      "url": "https://files.pythonhosted.org/packages/1c/60/20b35ccdab5d5626f0248e5f1da86a4793fcefb03b0c389db6d93ca73f30/rowingdata-0.42.zip"
+    },
+    "0.43": {
+      "sha256": "f08515fb73270f3c5498b739df7f5dde6f35543feab8d3e04f037056e50ea168",
+      "url": "https://files.pythonhosted.org/packages/0b/da/e44df784f152c8304709ebaaa69c8a37f0315fbec05641fb29b3c1f24fed/rowingdata-0.43.zip"
+    },
+    "0.44": {
+      "sha256": "c5a2d04efdaceb326b713159ea4259b09400e83baa8ef9a823a7ba03d8ffbf45",
+      "url": "https://files.pythonhosted.org/packages/e7/73/0e629afb1529ad3617ad7a4caa4b81e12be686e497a3ab184cfdc286f405/rowingdata-0.44.zip"
+    },
+    "0.45": {
+      "sha256": "a7ef7d712eb393672f53168eee4a9abb5cbe75162a43a519506388477a7a2286",
+      "url": "https://files.pythonhosted.org/packages/f6/95/5ea2d114e29075d4bf1ae9f9f75dac43bb2537bd224153b014d86fda8802/rowingdata-0.45.zip"
+    },
+    "0.5": {
+      "sha256": "1ea6cbe6f97b8b81a77bca6cfeaa7f5819de093a6d88895114d72c6650d71e1e",
+      "url": "https://files.pythonhosted.org/packages/f3/a5/2ea1ab5baba3bf580966d96b66cc4722c3b4cff3a16f0b5897f66f0d2b8f/rowingdata-0.5.zip"
+    },
+    "0.51": {
+      "sha256": "9cc5daf72c1127f0559cc384fa6da29176093b446419082a5555205d655b8827",
+      "url": "https://files.pythonhosted.org/packages/7f/d2/a3e5c290ff036feccfbe3a7cec15aca8411d3cc1d7017c6b86eb2c01a795/rowingdata-0.51.zip"
+    },
+    "0.52": {
+      "sha256": "bce8eb3bc630ce6892a4d5aebad01300635e6ba95616c351270109897ae679d5",
+      "url": "https://files.pythonhosted.org/packages/1a/2c/309387ce74aab31270c5f35d861e0b1b328f72cd2078cc7c29d57584e227/rowingdata-0.52.zip"
+    },
+    "0.53": {
+      "sha256": "677fabcb96b9d47bc000110c1a2d09c8681c4ec8197cfd2da783bb416fe2a6b4",
+      "url": "https://files.pythonhosted.org/packages/20/2c/1500b9a3c738bb062f0725e2804ba0447be2d658509cf291f5911ee301fc/rowingdata-0.53.zip"
+    },
+    "0.6": {
+      "sha256": "986c3a8dfff78123717945707dc0a3bdb50b205cef163bffc88ba776e10d4071",
+      "url": "https://files.pythonhosted.org/packages/b7/16/d64360a4a739f9c9bb01fa163f27960605827e790207ad61ab87480d9d0e/rowingdata-0.6.zip"
+    },
+    "0.62": {
+      "sha256": "52c7da7e64e8d32ba82ff1a34f6f59c27ce13c67ad4172113e84f5a65fe5de32",
+      "url": "https://files.pythonhosted.org/packages/40/65/30892448bf50d99602c0b8d0941a28f4169ae64ef342e963c3c03dc667fa/rowingdata-0.62.zip"
+    },
+    "0.63": {
+      "sha256": "c46d4cc006961e1663d73baae9832505001ce99f881c65b871ed1475ade86058",
+      "url": "https://files.pythonhosted.org/packages/ae/14/a5c8ecd14d60edf6cc7d7c5597f8fd014ec883ec203593214e6b46bcdfa5/rowingdata-0.63.zip"
+    },
+    "0.64": {
+      "sha256": "17741c2d7772de1b9a9770fbf3404dca5807a66b4a0f25dfa1ccba655b08ca81",
+      "url": "https://files.pythonhosted.org/packages/d9/a7/6882d8347517edab96528faab73d2c13c9a9da0da25f91848d932f857360/rowingdata-0.64.zip"
+    },
+    "0.65": {
+      "sha256": "59afe1874aad38fa0087f73b418ac7d7a10d09797c7324bbe826bffc1abacc3a",
+      "url": "https://files.pythonhosted.org/packages/67/45/d237ea89ba92ccb3ec59acecff65635e4a9306b037b2db3423abe6986205/rowingdata-0.65.zip"
+    },
+    "0.66": {
+      "sha256": "44f0146374acd2b2ab08a3fe0d19c80cee8218e183a66a6a01821a074dfed207",
+      "url": "https://files.pythonhosted.org/packages/5b/b1/c5dec880c4e5a1bc7017ba5bbab5742ccf0b6cbd7c0e6769d98b726fcd25/rowingdata-0.66.zip"
+    },
+    "0.67": {
+      "sha256": "22fc216b17f67e14f3a144daee1d0d77ff8c0224ca68efc48cc5f77e66914a87",
+      "url": "https://files.pythonhosted.org/packages/74/e1/de928a90a7d15e1bde0e1caf34f6aa538a55b6f2c655e4fe2e1db60fdfdc/rowingdata-0.67.zip"
+    },
+    "0.67.1": {
+      "sha256": "25b65a16dd62283606983387704c9bb2c38e15692bf96fc8ef93e09ef7601dd7",
+      "url": "https://files.pythonhosted.org/packages/e7/c0/a800e896b7f3b15fd6b778ef0d6da68a181417271f36215e78af059d3f50/rowingdata-0.67.1.zip"
+    },
+    "0.7.1": {
+      "sha256": "1407023fdf053d1baba36a954c57e94cad6dc4cc1ed2c03c1f845497c30ba1e6",
+      "url": "https://files.pythonhosted.org/packages/56/52/014d19878d74e7bd1f44b185b64a8a315e89af012a20f202363b1edc657c/rowingdata-0.7.1.zip"
+    },
+    "0.7.2": {
+      "sha256": "33b1d31c7ef75ccc28b47fa7e8270ae6010fd22625b3a9ff5f370b50daf2054a",
+      "url": "https://files.pythonhosted.org/packages/12/4a/ca95f3cc90e500fac827e7ceb8468b577a466fdc02b50dbb0454e8822feb/rowingdata-0.7.2.zip"
+    },
+    "0.70.3": {
+      "sha256": "9720e8fd81537ab3ca8535655f456a362542f6648c439902c3dbe330331b0324",
+      "url": "https://files.pythonhosted.org/packages/ba/d6/071f3e66bb9c04c4f918491c719a8fafe9ed82898c4e2b94fdf2c138b436/rowingdata-0.70.3.zip"
+    },
+    "0.70.4": {
+      "sha256": "5936f3b68f9afd596ed019461d91b6ea08e8da5b603f1ee8817dd1dc13df1ce8",
+      "url": "https://files.pythonhosted.org/packages/dd/8b/cb23bcefca0614d262b410b1b4fd9720748a0ff9b3e2291cb40d8676ad5e/rowingdata-0.70.4.zip"
+    },
+    "0.70.5": {
+      "sha256": "672f793401474f17999af0daafed09379e9edbdaf944939c65b114d8abb56902",
+      "url": "https://files.pythonhosted.org/packages/95/ff/0b7df1a27964d2fb4c73d9dd0ae18030dc7192763e6d7f2f78ac4f55c1bf/rowingdata-0.70.5.zip"
+    },
+    "0.70.6": {
+      "sha256": "ef235e4b4a3df9ceb8f85c49732784252e82900baee96ea63d2d2022767b486e",
+      "url": "https://files.pythonhosted.org/packages/ce/1e/d14433ec0bfd2d43e8c0a16c4ce6d8c068d027fe4095c5b8c28034519d84/rowingdata-0.70.6.zip"
+    },
+    "0.70.7": {
+      "sha256": "2e267a7b4cff615d66d16a15a1ce64c19841161d512a43e27a886d5c9e53b648",
+      "url": "https://files.pythonhosted.org/packages/00/ff/2afd4503e709586616bbfdd74b02062c235e74eaf608b01873c0dbb2b24e/rowingdata-0.70.7.zip"
+    },
+    "0.70.8": {
+      "sha256": "c718870cc9528a7d5501a88f4f6285302d90e418b45acc26bc6832439bdfe2af",
+      "url": "https://files.pythonhosted.org/packages/a1/b7/d9e69127aee7ca9df506cf4262ded89c2c58df4dba0e929a8bb01ae1d267/rowingdata-0.70.8.zip"
+    },
+    "0.70.9": {
+      "sha256": "191c935fc4227bc2ef9e9c2c6558ac63c8f577a983c37492a4683654bbbc373a",
+      "url": "https://files.pythonhosted.org/packages/a2/0a/dd2399d2e3c241c1092207bfa3922e52c76aa878d7571a57393b9f321920/rowingdata-0.70.9.zip"
+    },
+    "0.71.0": {
+      "sha256": "7146b01a3af31dee89dffd619b2d624e7f46e732078c869db6dd415c108fe901",
+      "url": "https://files.pythonhosted.org/packages/97/6b/3c37bf4cae9d9e108b90193b1a48a66c77729fe2ee0e863a2da5693fffd2/rowingdata-0.71.0.zip"
+    },
+    "0.71.1": {
+      "sha256": "a9aacebc7cd67d839febf460fb1803eb3a7fa1adc36c8b52b21326c73eb9d634",
+      "url": "https://files.pythonhosted.org/packages/58/78/2548eb78a7a8ae88639408cdbed7ad60c5abc267586d3e957b17696db019/rowingdata-0.71.1.zip"
+    },
+    "0.71.3": {
+      "sha256": "27cd5b3105ec5825880047c51d7834299f99548b82613e5fd14607374545bd5e",
+      "url": "https://files.pythonhosted.org/packages/b9/c0/71c25cd30e587a4d1654c452af7c63a98a09cbb959871bea1f5b8136df34/rowingdata-0.71.3.zip"
+    },
+    "0.71.4": {
+      "sha256": "66b0bc37a1842407201f244e5569963adbaa4bd10a69cd89db41c197f0655984",
+      "url": "https://files.pythonhosted.org/packages/2d/7f/31f1a8d6184bfdae73ef625d74d61cff0e9351e44586207756a9c0632799/rowingdata-0.71.4.zip"
+    },
+    "0.71.5": {
+      "sha256": "f15a9151fab902e455338518b32f00630c44b6c72d3b04bd6f2c09ee167b482d",
+      "url": "https://files.pythonhosted.org/packages/de/ab/a8cf182737107f4221bd73f4a64d01fc9885f605278dfa5979c4f4df45fd/rowingdata-0.71.5.zip"
+    },
+    "0.72.0": {
+      "sha256": "18df1111643c6af7275c521614cdbe928a3d34ee20fbef36876dd70e133d1d9a",
+      "url": "https://files.pythonhosted.org/packages/2c/09/e52dc07cb5e6e3f774d920fb667d2475c1e31eda4fbc01c8ab01c091ec32/rowingdata-0.72.0.zip"
+    },
+    "0.73.0": {
+      "sha256": "2945d814ada4636c52cfd40017ec179d7219910eebc851cf3d11d34c2a5ffbec",
+      "url": "https://files.pythonhosted.org/packages/cb/91/1acde623df3e064c3f957baad8eb9fc035e6298e796aee240d3e6b1b5147/rowingdata-0.73.0.zip"
+    },
+    "0.73.1": {
+      "sha256": "9c73c6b83b8bc11c40a127d183ed649354c9a05843ba67e21120a37bb1e45e33",
+      "url": "https://files.pythonhosted.org/packages/7f/a8/c64edaf5e0259e57cfb6c582da8ff5a6f6b19b8d66a69834ed1531f615ec/rowingdata-0.73.1.zip"
+    },
+    "0.73.2": {
+      "sha256": "469c1f0760df4030ca43624ed869eb55c36d999abfb2e552bc17e4982d9a512e",
+      "url": "https://files.pythonhosted.org/packages/51/c9/c932b8ffea83d3033af788824674d7b8e51f3909c00c4985dc795c6d280d/rowingdata-0.73.2.zip"
+    },
+    "0.73.3": {
+      "sha256": "7361584b2dea95bdd34de72b4482f4ec597c8b7e37287d0fc77ba0bb37417d40",
+      "url": "https://files.pythonhosted.org/packages/64/35/f3408ec30ca39dcdcba7af8efccba44a0f1a037a881185a53f26505959e7/rowingdata-0.73.3.zip"
+    },
+    "0.74.1": {
+      "sha256": "cda1ad84ae3a25ff28d2a7e28cef7a7355d2979288dc028caa8527ee524f58ef",
+      "url": "https://files.pythonhosted.org/packages/ef/64/18f9e4f8db7eba40df4db49d805b89c23e6de2307e6f72e12ffef32bdb1f/rowingdata-0.74.1.zip"
+    },
+    "0.74.2": {
+      "sha256": "ac358d4c73c680c76da3495c5f6f50604ea3834dd06a4072540bd53f71166bed",
+      "url": "https://files.pythonhosted.org/packages/44/17/4304730a76e01da8f2e322b35026e5624aecdf31dfbb7218b59123cb3540/rowingdata-0.74.2.zip"
+    },
+    "0.75.1": {
+      "sha256": "98fea7817b57649c2fd906ca77daab143eed3656553c26ed38eccbc07b9cb10a",
+      "url": "https://files.pythonhosted.org/packages/4e/79/0ab4ac70b0cd39d856fe7369543d0fdfcc7953ca8e2e78b6f74619931fc5/rowingdata-0.75.1.zip"
+    },
+    "0.75.2": {
+      "sha256": "8bdcf4e8886c10341e0d1fc7a5363f116215cc201710615fa457e181537ae73c",
+      "url": "https://files.pythonhosted.org/packages/91/f9/7a4d974d03756f7b35bd6998ae8c02da9393284f33a4781d52f445003112/rowingdata-0.75.2.zip"
+    },
+    "0.75.6": {
+      "sha256": "1b51c1c068317fbd75121d62a968dd2682ac6fe9f8af9f6c1d4a3494d78c493c",
+      "url": "https://files.pythonhosted.org/packages/32/1c/dd3df3aea5cb4fba0c8d38fc7ef90e2f62b6bf5cd46d395f6ef98cd0856d/rowingdata-0.75.6.zip"
+    },
+    "0.75.8": {
+      "sha256": "cffccd05c4cf0d54092c9430328194a45b93baae2eaecec93117501afff3a99c",
+      "url": "https://files.pythonhosted.org/packages/87/01/1d9485e5bb7e458727f822c53b034b1a23fef1803f50fb1fb43e07e788d7/rowingdata-0.75.8.zip"
+    },
+    "0.76.1": {
+      "sha256": "969875eff21ce40f46e2858297613be9db6355ca67a9767e2c6258addfbcc308",
+      "url": "https://files.pythonhosted.org/packages/2a/a1/ec6305c60f189d3806f01eb377eb041795aeb3b3d30272922db9acf6cbc2/rowingdata-0.76.1.zip"
+    },
+    "0.76.2": {
+      "sha256": "423cbc951c8cc28fde925358b30296be3087042cd4438229d9e95da189e5d1da",
+      "url": "https://files.pythonhosted.org/packages/9f/56/a9e40e51559531e6e3e22074dadadf0c8ef6f04258dc4fb25badce5b3cea/rowingdata-0.76.2.zip"
+    },
+    "0.76.3": {
+      "sha256": "ee1100fa00935f3771b1e0336732877be6c6692cf95d92e98bab8f57a61ea7c2",
+      "url": "https://files.pythonhosted.org/packages/0f/e5/b86912f84eae50ecae737fe1108f86625fe773f0353c1c772caa10aae9f5/rowingdata-0.76.3.zip"
+    },
+    "0.76.4": {
+      "sha256": "87b6b01c8152ba56bd14b3511f54e327dcb7a1eb8ee1fc25451cd0ba1fc50242",
+      "url": "https://files.pythonhosted.org/packages/de/da/5e78b1221ece6bac4328d05a32d4adae7dad11fa2f9cf9ed23346cae17c3/rowingdata-0.76.4.zip"
+    },
+    "0.77.0": {
+      "sha256": "00764c926499375bd8a0d0c4803022f0acdb21ce19ac0f8bd64373794ece35af",
+      "url": "https://files.pythonhosted.org/packages/3f/0b/2bd1fc0432877c78f1dd3fbeca38e0dc5c67c345b9d36c208aadf6cd3f88/rowingdata-0.77.0.zip"
+    },
+    "0.77.1": {
+      "sha256": "3e5f169919ec4014a58afdce4277ee44a56c8ace1bb5c9c8321f7717703a7975",
+      "url": "https://files.pythonhosted.org/packages/6a/22/78cf775d0e81d08fb2099cc4674c188e0dfef20ed7df87738ece5d6df4cc/rowingdata-0.77.1.zip"
+    },
+    "0.77.2": {
+      "sha256": "23c01c638cb70002d8223ef409e3de1444ecd08b0ba8f36fd86e2af7c541f56a",
+      "url": "https://files.pythonhosted.org/packages/47/d9/31155edf290a55f514c3a531efcbd21a74f4ecf69925ba5aea8bc80c648e/rowingdata-0.77.2.zip"
+    },
+    "0.78.11": {
+      "sha256": "192187839bb15ac5ab05c80318617d3c447b2b3c6341bfa0d25d40787fc2da0f",
+      "url": "https://files.pythonhosted.org/packages/fa/05/1a3ac50ebe876d8d1545885f29c6c96d07c93a3cae7d71559353b5eeb843/rowingdata-0.78.11.zip"
+    },
+    "0.78.12": {
+      "sha256": "b0d1aa9580490a6de4fdad2b59339a38b96bf23b2f9e5230425e9e6c8fd87265",
+      "url": "https://files.pythonhosted.org/packages/7a/23/84451bf3d0f3008a7586f69106b6d5add0c090db5912f0ffa82e0c924952/rowingdata-0.78.12.zip"
+    },
+    "0.78.2": {
+      "sha256": "a851648c7e8429d2b20fa0bc8f6fb4c652a2af6159420d8b94de3cfdfdfa278a",
+      "url": "https://files.pythonhosted.org/packages/b5/d6/0e12a3927264de3e5e44f6801e2a13028ea3f42898d40d3914a4a1c20d83/rowingdata-0.78.2.zip"
+    },
+    "0.78.3": {
+      "sha256": "5a2adfed961d36dc177385e35a656283dc2afa658f40ce6f88842476c631c33f",
+      "url": "https://files.pythonhosted.org/packages/2f/32/3f61a98f47caacb253698b3c4041f3fdc982ec1c067eb1ac52dae6ee2a22/rowingdata-0.78.3.zip"
+    },
+    "0.78.5": {
+      "sha256": "f6aa29848a49c06706d498a7d2bc51ca41e3bff4c3fbb2a5f1a1307573a135b0",
+      "url": "https://files.pythonhosted.org/packages/8f/c4/964fea4431a86822e806b41ff4c58d956f0ea8ed37347f4f8f2ad04bcbd7/rowingdata-0.78.5.zip"
+    },
+    "0.78.6": {
+      "sha256": "729560bb6b053e1797ff878d6a362911766a66336cc078e7bb567e01678dcbf2",
+      "url": "https://files.pythonhosted.org/packages/a8/57/570f9d6284e0cc187c1f949b72eaf0c5aa7f909b565c0a5877fac918d7e9/rowingdata-0.78.6.zip"
+    },
+    "0.78.7": {
+      "sha256": "579dc9ac35b9eaa54384318d17b62cce49dc41a9adb5d3470938c14307df039f",
+      "url": "https://files.pythonhosted.org/packages/76/f9/bb54d08682ee9f4dfb3485199279404e69809dd1e405e05ba13bcaf44945/rowingdata-0.78.7.zip"
+    },
+    "0.78.8": {
+      "sha256": "11ab7fa6111ee167a5c6cc5df5e12b5d751e4d1809dede737ad1cea4db29d467",
+      "url": "https://files.pythonhosted.org/packages/b7/34/8bb11dc9bab29eadc79ebba794205f85dee8d88e7d4c58c68b1e51455a58/rowingdata-0.78.8.zip"
+    },
+    "0.78.9": {
+      "sha256": "05b37f0e5a6466e33018dbaf290107c33ee592afeb461abf71390131e8ca0171",
+      "url": "https://files.pythonhosted.org/packages/70/75/37a4c96066a44ecff63089e32180bbaf37152e7f06029485f06719a506e3/rowingdata-0.78.9.zip"
+    },
+    "0.79.0": {
+      "sha256": "d4f05b64da3dbe7a4eb0a8e38c0596871a277e308ae8c8f43e5a06eef86eb66a",
+      "url": "https://files.pythonhosted.org/packages/56/7b/7ac14d7cefefab3ab825d7e59ba2456d501201327b5a77898fdeeca817c7/rowingdata-0.79.0.zip"
+    },
+    "0.79.2": {
+      "sha256": "4a09f72587261a49f867d7a391b29ff8000330a07d4a9ef338e2a66ce772081d",
+      "url": "https://files.pythonhosted.org/packages/46/7b/79ec0d47c115e22af9abc68b5ad6f03f8d94d5d2c8cc4de69ebac57fbd4d/rowingdata-0.79.2.zip"
+    },
+    "0.79.4": {
+      "sha256": "3bff39f2a52683f03f0055c9f6d02a4509bde2f0599957bf5560d69303be9c19",
+      "url": "https://files.pythonhosted.org/packages/a0/1c/577462edbfe4edf1ba8bc13b68c62649f19e7cccf04f89a3df05b55830f2/rowingdata-0.79.4.zip"
+    },
+    "0.79.6": {
+      "sha256": "5b5c052ba435b9156df05494f2e1764b2dd663753d555e1b215d538df2f40ae4",
+      "url": "https://files.pythonhosted.org/packages/4f/19/2344c5ff08371b04921066865378f7e4eac1ab92aff594bf3bc74f75c56c/rowingdata-0.79.6.zip"
+    },
+    "0.79.7": {
+      "sha256": "b678832d241c7571c80d32b9dd06e24b72b45808e5026ec04e142e391ec6e123",
+      "url": "https://files.pythonhosted.org/packages/c4/e1/eb26c5729e813fed8389d5fb75408077b2e282d29e6d3f85ebeb2b0220da/rowingdata-0.79.7.zip"
+    },
+    "0.79.9": {
+      "sha256": "6fef56d993a7cd3ab2104df9bd68ec574a868517ab6de8d42c62dcd3ef56a5df",
+      "url": "https://files.pythonhosted.org/packages/8c/03/0e785cd858c4693359bf754df2ea9a8a1bc279600b94b8649a926e762289/rowingdata-0.79.9.zip"
+    },
+    "0.80.3": {
+      "sha256": "031bab8e0b0b1770a5171d6c9c504110f2fd6a6eab7c26dcff37f66b09cae6df",
+      "url": "https://files.pythonhosted.org/packages/58/c6/fce143ff2de3a82a6e1eec9344c990e30606cb4038982a07ce563e274a67/rowingdata-0.80.3.zip"
+    },
+    "0.80.4": {
+      "sha256": "2d097a2b0dc990ee97ca34e3f76b9e128d7d92542f58eb082fbf48abfb10e8e7",
+      "url": "https://files.pythonhosted.org/packages/81/f8/e621c2411709efd953bcfb975e06fb6737456ccb6a82f1d2b76765e3e673/rowingdata-0.80.4.zip"
+    },
+    "0.80.5": {
+      "sha256": "28947a0a0bcd44d13ffed375a7125917c645cd0f3d12a31fa98bc28828272408",
+      "url": "https://files.pythonhosted.org/packages/cd/c4/785a4f9a32a852b4143af31fb7d3f98bc448c093138bcfc7f30f0789d632/rowingdata-0.80.5.zip"
+    },
+    "0.80.6": {
+      "sha256": "e8aa3bb52e9dcf4721fe23e69b061615e77976c58e0bc3da6aa80e1700fadcd9",
+      "url": "https://files.pythonhosted.org/packages/6f/a6/fdcf87690ee9b6409c577780e6bae8d5afd48c67ecb31de37bd9f1484984/rowingdata-0.80.6.zip"
+    },
+    "0.80.7": {
+      "sha256": "5550f61cc0b2aa483195243f5ece81a498d716a0d320a55fcf165ec71c3d3589",
+      "url": "https://files.pythonhosted.org/packages/e4/82/05579db06c811309fac194ffad77b40836a08b42e9d401888a0848b709e6/rowingdata-0.80.7.zip"
+    },
+    "0.80.8": {
+      "sha256": "013999e3306364ee6d982d15cf45e8e9c76bc1a425c4a2350b818a4ea17a83a5",
+      "url": "https://files.pythonhosted.org/packages/37/40/e7a09d109e74fd94700826807071786c587d8d0176c20445fb109bd9887b/rowingdata-0.80.8.zip"
+    },
+    "0.81.0": {
+      "sha256": "f35b5daf8f262bfc0fb139df7deb307f1d1e86cc7f71247f28f34964778c4d7a",
+      "url": "https://files.pythonhosted.org/packages/45/d8/ed9c4415546c3279c015d13ee162c9430396d198ea76bacaa46652d18271/rowingdata-0.81.0.zip"
+    },
+    "0.81.1": {
+      "sha256": "c8dd6c762d881c691af930b612c3e0d1589d0628a28b3dab2d88239169c84b98",
+      "url": "https://files.pythonhosted.org/packages/6d/03/8c39e7d58c9f7e7430f26e2b731da7dd06615fcb135f2756b9c6dc997de4/rowingdata-0.81.1.zip"
+    },
+    "0.81.3": {
+      "sha256": "bd16060426d01c1a19185f345368d47269d6acf918f0eb6d5ef3ab13410e9b1f",
+      "url": "https://files.pythonhosted.org/packages/cc/17/60a7149370b6c9d39ebd5b6f7aafc148076ab43034bc8cd27adf91ceb3e2/rowingdata-0.81.3.zip"
+    },
+    "0.81.4": {
+      "sha256": "090d5d9dfdff4a8d0a11bc96c006973abd4d0b15343514792a7104611176eb34",
+      "url": "https://files.pythonhosted.org/packages/79/3f/c3cf14799de0d24db5ab912693132d75b896e7d3defb42b948f07c9dbcf7/rowingdata-0.81.4.zip"
+    },
+    "0.81.5": {
+      "sha256": "9dec4c95b3470a4afe2f9495a4f6856cb58f09f9aad2ad2ddde80a2cf1785b22",
+      "url": "https://files.pythonhosted.org/packages/ed/d0/c1b681fd40e59d09005fbfb02720e055ec9619aa69ffc2336af5f620c4e5/rowingdata-0.81.5.zip"
+    },
+    "0.81.6": {
+      "sha256": "06aa0320d009ba412f47b098e29cba00e71524957a18bcebac6b1b4815aede2a",
+      "url": "https://files.pythonhosted.org/packages/f3/7f/aac4587b905c77575ca50e607526fe901e7806ad2e7e238bc88a7db342c7/rowingdata-0.81.6.zip"
+    },
+    "0.81.7": {
+      "sha256": "02b9b9938a48ef1e866d5363bfeaf85685bf255c8477cbf557d54b8ddeca8cc3",
+      "url": "https://files.pythonhosted.org/packages/a8/a1/5809fffba2e5918d69e0fcc914444a951f56b5c46bcf8bb98818281dae99/rowingdata-0.81.7.zip"
+    },
+    "0.81.8": {
+      "sha256": "33fbc7f3a92cd6c2d3267dba1cb048a5f95eda9668a9cc761139cfc373cf8d46",
+      "url": "https://files.pythonhosted.org/packages/5e/19/dc2def445263a8b5c3150234f3056a3e2ff1192f77abca46da1efed312b0/rowingdata-0.81.8.zip"
+    },
+    "0.82.1": {
+      "sha256": "ec40cd0f111b111ef58bf159b866c185640fbbebfa2a7263ce78f1f1aa70f694",
+      "url": "https://files.pythonhosted.org/packages/a5/3f/0aa37ac4625949e27f9bd2c65750c213858e318a763b6642312835054d58/rowingdata-0.82.1.zip"
+    },
+    "0.82.2": {
+      "sha256": "9e1c5d6e1ff445f0b8e2cb93b649031aa3fdaf6dd98de0140fdd30e687e138db",
+      "url": "https://files.pythonhosted.org/packages/92/69/ccbcaa1d20be5fe03cde69893aa8567e3503a163bd4c3a996296b54ff43c/rowingdata-0.82.2.zip"
+    },
+    "0.82.3": {
+      "sha256": "9ae89becde506a64df9578898c5a46fbb96ff3fd12b0157491dc80c21e63c219",
+      "url": "https://files.pythonhosted.org/packages/cd/91/ca2f25eed865e204e9b041a244a095491a649c94787bf19ee1f996be7fea/rowingdata-0.82.3.zip"
+    },
+    "0.82.5": {
+      "sha256": "bcde8d170c3513f1e770c9efaf2cf96265af55cbf802a582e9bfc6615898d4cf",
+      "url": "https://files.pythonhosted.org/packages/df/54/7f1aca2927e163a348c1c10c8b54391e2100948c6f45c313c5ef46f160a4/rowingdata-0.82.5.zip"
+    },
+    "0.82.6": {
+      "sha256": "05698e64b0b2e9f4efcbf0970409d9f331f35b28bd21529429dc1d46cd2e9c3d",
+      "url": "https://files.pythonhosted.org/packages/ae/f9/807400b7a6b0d977a998b4dfc8919966916c4c1426870d715e896a1ffe21/rowingdata-0.82.6.zip"
+    },
+    "0.83.0": {
+      "sha256": "85e5d1ca4abfbd9abe3f1d5d55c63dc5575f438bc6acc9b4d5a9767d78c6cfc1",
+      "url": "https://files.pythonhosted.org/packages/ea/0d/2a4c82dc5620b66d33ea759be530a63b13ae3aa85adfa9fded895f0a873d/rowingdata-0.83.0.zip"
+    },
+    "0.83.2": {
+      "sha256": "49ba14f6da722221a367b3f5820f957e8de05d1463eeb9ca7de8a0087da76ee3",
+      "url": "https://files.pythonhosted.org/packages/e8/59/f81303b3e459c23e63ea57e784a515b1fd72fb01df2e68f792497c013ce8/rowingdata-0.83.2.zip"
+    },
+    "0.83.3": {
+      "sha256": "cc3ae5cf2d14ce3616d00d338949c125352610798604dc1bf0e9052fde0f7133",
+      "url": "https://files.pythonhosted.org/packages/1e/2f/1d3c719e9eee75ddc304d8edda2c56777dbc75e78c84f391abeb8a31d2f7/rowingdata-0.83.3.zip"
+    },
+    "0.84.0": {
+      "sha256": "9c62ac4be5c0f4d2b9b9dd535aa3d317b6a469ab2514f856af1e705f3c9daa57",
+      "url": "https://files.pythonhosted.org/packages/59/98/04dec9681f58a46fe86e0b43042d8d6ed62342db9d5de8621ea83dbc02b6/rowingdata-0.84.0.zip"
+    },
+    "0.84.1": {
+      "sha256": "7ef43689626f60edef023850de8d101f2a7183afb4e075e1d8ca6eb39286c6f4",
+      "url": "https://files.pythonhosted.org/packages/a2/f6/1e5979a6acfba25c75213df2a54e657ee95126071e15516c98191ea92661/rowingdata-0.84.1.zip"
+    }
+  }
+}

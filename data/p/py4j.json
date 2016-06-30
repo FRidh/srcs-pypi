@@ -1,0 +1,84 @@
+{
+  "latest_version": [
+    "0.10.2.1"
+  ],
+  "meta": {
+    "description": "Enables Python programs to dynamically access arbitrary Java objects",
+    "homepage": "https://www.py4j.org/",
+    "license": "BSD License"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "5900450cb01c581640ae0fc9ffb1f657c8b1808c4951faaed2d2f0d521d59d41",
+      "url": "https://files.pythonhosted.org/packages/fd/99/21418c813a44fca620190809598d6513456807bdbcd58300a84434f93e3c/Py4J-0.1.tar.gz"
+    },
+    "0.10.0": {
+      "sha256": "032cb9082dd748fe6e51f993748739da2b363d2e4bed70c5e4dd7c93c8d2c159",
+      "url": "https://files.pythonhosted.org/packages/1f/b0/882c144fe70cc3f1e55d62b8611069ff07c2d611d99f228503606dd1aee4/py4j-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "f7d4fefae3461abc9e6fd064ac0d1cc0109bb658a2d156f00925b0a66ba9838f",
+      "url": "https://files.pythonhosted.org/packages/73/02/0faf6cbb665ee878b30274745847959201cbfd37ab860f25f0e88fef12bb/py4j-0.10.1.tar.gz"
+    },
+    "0.10.2": {
+      "sha256": "87a3eedfdd38558b438244c0e0a633502f78018b6748cea0a0187463b0cf5dc4",
+      "url": "https://files.pythonhosted.org/packages/49/83/730370a0b2a03f8ee4f191070130dec4fbb24bac13403d5323f718517880/py4j-0.10.2.tar.gz"
+    },
+    "0.10.2.1": {
+      "sha256": "c94d24a0931a14cef29f04b544d2861a61143d8da72c4d5e555c6a9fbff17eac",
+      "url": "https://files.pythonhosted.org/packages/97/09/81e572db035541adefc7c8538b4df958d5fe3e942f2a490cf129945291bf/py4j-0.10.2.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "9c936ed1a0026915e6d6d6d45eb8211d8b56f13b79c7052b2003f045555f21da",
+      "url": "https://files.pythonhosted.org/packages/54/dd/29d51cf9f3a2a318231348e1b39875a789388cb3a13acf75ffeaa217a3da/Py4J-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "a0c38ce67174aa4c0087889b6cea070468776cbbf45390e131e744bcdda6f9e1",
+      "url": "https://files.pythonhosted.org/packages/a5/4b/30117959167e13d02957888fe4c3c2bd70e2a3c88aeda0017b05460fb909/Py4J-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "ec329c1cdf039710b880be4719e7889c8886766e4d3ce82b2336f2bedb309557",
+      "url": "https://files.pythonhosted.org/packages/81/ec/2582e4d9ecaec7b1a7937a53b0cc511164505585b92fb3078d0659a469ad/Py4J-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "095f2e3987db3a77864b4d4dfc0d074cefcd38a8d69aad73637bbb217ec06a48",
+      "url": "https://files.pythonhosted.org/packages/32/6a/6f6428a183669737c9b058c1197739fcaeef14284b8775839952d4e4406a/Py4J-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "1eea3e53f608b7e26178435cb0b408557b21891c437fcf987345931af4a9acff",
+      "url": "https://files.pythonhosted.org/packages/5c/9f/28dd46da97555eb3bf2a0449c21fb979bb50999388d725f27ef91a5d6481/Py4J-0.6.tar.gz"
+    },
+    "0.7": {
+      "sha256": "463f787dcdd6b963ed36176d803df1001089f4e654c22d0e33787066d063be85",
+      "url": "https://files.pythonhosted.org/packages/6c/65/1ad38a4ddcc5bfd03675ed2aaa3f8cd8cee32c2d569a1f587e368ac86678/py4j-0.7.tar.gz"
+    },
+    "0.8": {
+      "sha256": "63bd6feca226d083eddb77269dcea03ad34ea4d09faec026c6615a6911cb85dc",
+      "url": "https://files.pythonhosted.org/packages/5a/98/cb0ac92edfc90743632ee9614582b330bc4e53eda67818c88c1951849fb3/py4j-0.8.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "8199313911f62d0e049e14187a896d6c840e0f145a4955058547471e8f8e1209",
+      "url": "https://files.pythonhosted.org/packages/c3/5f/3d8ce263bc6a70ce9eb533eda5bf74717f6680685c7485dab78fbe7b5d0a/py4j-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "ef401446d9b3dafd589c5e43e9139d091d287dd86ab4d2a04df806e7115a9765",
+      "url": "https://files.pythonhosted.org/packages/57/3f/b030014a1fcf9ef1ee4821ceab8ee6df99972f9faaea84416b0c8de11229/py4j-0.8.2.tar.gz"
+    },
+    "0.8.2.1": {
+      "sha256": "c2c9bcb4d967982b0362e97e4b218b54eca283ac975524c1ba1a27c209dfdcc7",
+      "url": "https://files.pythonhosted.org/packages/1b/ee/cf42337fac85246be602eeefe94dc5f60eadeada8f3fb994d77093a7776e/py4j-0.8.2.1.tar.gz"
+    },
+    "0.9": {
+      "sha256": "7168a5b96de590ef33dafd7fcc815445d5ce30f1fdf7369f2f4dde97bd7b960d",
+      "url": "https://files.pythonhosted.org/packages/e6/89/8601d3ce537bcc1a6c2f4610b15bb04ee6aa7d54babe3879010b90f5ff59/py4j-0.9.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "6fbf995401ce42ea1012ffe29d69411f41891dfe134ae41d20dacc5ae860df3b",
+      "url": "https://files.pythonhosted.org/packages/d9/fc/f08f6654f4f1e89e7c65447f62a9d5865dd413874537a29a28806ff8060a/py4j-0.9.1.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "9a537d6b767316cca7f896623c83e6d8ea11f50d099efdf5077169fdb1e154c4",
+      "url": "https://files.pythonhosted.org/packages/62/48/2366f2c2f39773bfffbb0b382b1d1a19719ae281ec0fef8b20a30add5b4b/py4j-0.9.2.tar.gz"
+    }
+  }
+}

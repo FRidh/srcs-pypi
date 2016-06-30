@@ -1,0 +1,88 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "py.test plugin for regression tests",
+    "homepage": "https://sissource.ethz.ch/uweschmitt/pytest-regtest/tree/master",
+    "license": "http://opensource.org/licenses/GPL-3.0"
+  },
+  "versions": {
+    "0.0.5": {
+      "sha256": "700e7a982ee1cd81f49c18085a89cf572086e9b77fe379e5c154ae18ccb21c6e",
+      "url": "https://files.pythonhosted.org/packages/e2/bc/9f3f873ff2da80956e45a7d25b0d04f106b62ff11e4af8a6ba4f40b1593d/pytest-regtest-0.0.5.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "8cbe3c60b6f0f3dfc38e08350fad51482c317f7756f929c05d8d8de3a2b75b76",
+      "url": "https://files.pythonhosted.org/packages/42/c2/64f3abd4185672250f36f8d6cf75ae4de6ac7648bdf4685740aff47a8c2d/pytest-regtest-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "47ef08785ebad6da37b74035075f4c262ca300913d30ae7420325c869e35145e",
+      "url": "https://files.pythonhosted.org/packages/f7/1b/c2c6c3b09e34b790fef3839d6fe077a0094e700b8eb1bfba6bbf6872f6d1/pytest-regtest-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "e6bd0b198ecdf88cc6a954a9b6f8c5d290cf1f7c23fba40a3d81ea29acfdf7e4",
+      "url": "https://files.pythonhosted.org/packages/a5/a3/e7a4bd4005243132a1abd25bc50d2e2e989855be37d666a16d40f47b142a/pytest-regtest-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "538ca942ff140e589cb8f160ee8e8a724865322c1784aa4d37d96b581059eeb8",
+      "url": "https://files.pythonhosted.org/packages/e2/38/7b562f06413da42502ce3572482ac33e1ba8082e01229389530bee9d6cc8/pytest-regtest-0.2.2.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "ba9f96dd567ce7863da3190279634d6841a2ef68e597df7ef17dcc96b2013ddf",
+      "url": "https://files.pythonhosted.org/packages/2c/e8/8ccc818539eac99c684a77494afca29a6940e395c1012298d511edbf33ff/pytest-regtest-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "b8de2e02731cdbb5aba82d2cddd11e426b56ce0727fba271b8915c5357e77de3",
+      "url": "https://files.pythonhosted.org/packages/d8/ba/7bd32499dc6d8d2bc124ee557d9ac5cb59582c9abe9601fb1dad2f0b31db/pytest-regtest-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "eea30d343a975a5de09429cf3073b7c8a60c44d183bc9211593ab9bca0ec1f66",
+      "url": "https://files.pythonhosted.org/packages/a7/99/653d38d713b5b6a6b784737d452e5eefb0a5c878c2d5f434a9b824cc84de/pytest-regtest-0.4.1.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "0aac99d1c9acc122e770cb2c765ceaeccf74e192b8235aaf835f135341c96d63",
+      "url": "https://files.pythonhosted.org/packages/30/1d/f0a0ee50aa08bc1e310d7b279ed380a26b960e624fa548451d7816a4d7ac/pytest-regtest-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "d5c5a94e8385604cab106e06f4d2e86ea398e17f84fee260b3d5c47e5a3aacc1",
+      "url": "https://files.pythonhosted.org/packages/f1/d0/fd88157de1edd723baa9c79ced33882680f9952a9049d315187c90190e1d/pytest-regtest-0.5.1.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "c6cd8f34dc6125455f536062313def7a6221ec2ca27a411f56d8f799633ea362",
+      "url": "https://files.pythonhosted.org/packages/59/e7/3bc1c33cfca00d2de3f7dfc0840ff5ecd1a05e2a091023b3df8c69d2d71e/pytest-regtest-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "007e2597e5b54a319d2619afe8befc23d53282b28b71287c216094ad2eb83f8e",
+      "url": "https://files.pythonhosted.org/packages/4f/2e/fa8e7b00909135d8c925d8527587da247ea225ac095234f0261b9bc82ce7/pytest-regtest-0.6.1.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "fcc15d639eec6347a72bf4715dc7f3e1d9ccb924c7c3a2709586ee42106a8f0e",
+      "url": "https://files.pythonhosted.org/packages/1b/d1/03305044757e8a2c225246db88c5891ae7c4044fde25fd19abd284e19643/pytest-regtest-0.7.0.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "078b92a92f05961a5055c79ab218bf13bc10e5727e589043d9412303697324ee",
+      "url": "https://files.pythonhosted.org/packages/f3/4c/d9cb68b4d4bdb2825c950492aa85b46ee6ac29bcbf0881dcb281bd9ad57b/pytest-regtest-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "92383377eb0c87264e070187a17994dab90098f7c6de27f10a5733edfb086d10",
+      "url": "https://files.pythonhosted.org/packages/12/af/3ea14ac0d871e0cc522019155b00ed57913bbc81eeae44922aff9a5fd10e/pytest-regtest-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "8639cd679f6a5045fe1a16ff00927c4dd02502113bd6788b4f495335cfa4881f",
+      "url": "https://files.pythonhosted.org/packages/3e/5f/0b4f258fb06c56a8738a3648eecb327bb0cbc4b2f5687f6ade146b416479/pytest-regtest-0.8.2.tar.gz"
+    },
+    "0.8.3": {
+      "sha256": "9aa195fbc7cd52cc949ee18b35f992953587ea98631bbbf5a04538f53522373a",
+      "url": "https://files.pythonhosted.org/packages/76/28/7d7970b858250457d8bfed85f91a532f1b488614a22cecb1888559bb2600/pytest-regtest-0.8.3.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "b46ba49da3d80c8776a2a4d9c8685d5715a2b6edf160ef296250510ba60d18cc",
+      "url": "https://files.pythonhosted.org/packages/db/7e/7ac62727fec37cbb3608bb56e1fdabeae43536e4e18c0da8779018a4e50c/pytest-regtest-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "05a8507e7f19d643a5f22040c53c5c3606db88c372dd8e18b4701197f016bb07",
+      "url": "https://files.pythonhosted.org/packages/5c/ac/82aa10305b244d09c971135bfe64e984af705fa8f10df797b49a007613bb/pytest-regtest-0.9.1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "5.0.0.0b1"
+  ],
+  "meta": {
+    "description": "Puppet building rules for OpenStack images",
+    "homepage": "https://git.openstack.org/cgit/openstack/tripleo-puppet-elements",
+    "license": "Apache License (2.0)"
+  },
+  "versions": {
+    "3.0.0": {
+      "sha256": "1c03ac9730c6011db62eb00fbb3a5359c5939c3d1cbf87ef45d0428725b350c2",
+      "url": "https://files.pythonhosted.org/packages/0f/84/ad304c86aa39c262a38803f7407157b090fce5d1de3e1c1f7d49beffaded/tripleo-puppet-elements-3.0.0.tar.gz"
+    },
+    "5.0.0.0b1": {
+      "sha256": "6b01049f265921173129fb5f76388987894c44824cc63a74ac2b05b8e805e5eb",
+      "url": "https://files.pythonhosted.org/packages/59/f0/6ce82645dd4b0027e7c61af1c2a2892c7ee8fc75efbe849b45d4d1fb48d8/tripleo-puppet-elements-5.0.0.0b1.tar.gz"
+    }
+  }
+}

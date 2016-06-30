@@ -1,0 +1,11 @@
+{
+  "latest_version": [
+    "0.1"
+  ],
+  "meta": {
+    "description": "Projects can depend on this package in order to optimistically depend on\nPillow, but to fall back on PIL if installed, issuing a warning in the process",
+    "homepage": "https://github.com/beanbaginc/pil-or-pillow",
+    "license": "MIT"
+  },
+  "versions": {}
+}

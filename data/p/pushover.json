@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Send messages via https://pushover.net/ to phones",
+    "homepage": "http://github.com/laprice/pushover",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "8bdd4a90db6358de10cc431867e2fa63661fb8f8a654984d6cbde5b2ebb88d22",
+      "url": "https://files.pythonhosted.org/packages/b8/3f/c1ea9e69daa597bea7f99479697a4bc5936468a27988be3327da221342d1/pushover-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "ea4319414d2fa158badbc0dd0c4ba935b86addb9fb50e95f5a0793f2c52d5844",
+      "url": "https://files.pythonhosted.org/packages/23/9c/42f769a4f58e428fb3e5bcc83884d8b9771bcfde022f27a8f2d147e62b74/pushover-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "6e2d896bbb957ae399b6f53e83db1bc409af5e67f5a4b731a7cbb93708d157be",
+      "url": "https://files.pythonhosted.org/packages/38/f4/c355ccfbc60bb37773e3fc3c12602966fa15719d44b6e224adb8f46c7b4a/pushover-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "524365772331a700d8e821e57409061888bdb6caa7e225e6db9a901eb4ae1d8a",
+      "url": "https://files.pythonhosted.org/packages/8b/1d/bbd6d8b5313fd7ac2f9123528360c2f56b6b580bb1d87fc83b135518b40e/pushover-0.4.macosx-10.9-intel.tar.gz"
+    }
+  }
+}

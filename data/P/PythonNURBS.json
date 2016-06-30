@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "PythonNURBS is the Python language binding for the NURBS++ library",
+    "homepage": "http://pypi.python.org/pypi/PythonNURBS",
+    "license": "GPL-3"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "d862cdcb8100d9a7189ab3219656977453634a3726dc790d32133d5840cc421f",
+      "url": "https://files.pythonhosted.org/packages/10/d3/ffae348beb4d7d545aac23a6af07e2e0391ed4ca6be61772ff7628f9b5fb/PythonNURBS-0.1.linux-i686.tar.gz"
+    },
+    "0.2": {
+      "sha256": "f1c6ad301b2f04f792123d20e4e5f3835811dadbbf013a27c9314eed4b9bc8bc",
+      "url": "https://files.pythonhosted.org/packages/20/da/a6c65e1a5c474c83c26ad88ad6b9bd2ef75027938fbed616ccfba5903d00/PythonNURBS-0.2.linux-i686.tar.gz"
+    },
+    "0.3": {
+      "sha256": "c2f6a9ac4da4341ac5982ae75907b74cdb611fdf86d9fe453269594b8c8b4daa",
+      "url": "https://files.pythonhosted.org/packages/a9/ad/c269d6fa4a9ca437f00762d1a5616f6e71d6f534c65833098e5d07e9f9e4/PythonNURBS-0.3.tar.gz"
+    }
+  }
+}

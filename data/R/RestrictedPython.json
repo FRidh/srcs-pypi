@@ -1,0 +1,40 @@
+{
+  "latest_version": [
+    "3.6.0"
+  ],
+  "meta": {
+    "description": "RestrictedPython provides a restricted execution environment for Python, e.g. for running untrusted code",
+    "homepage": "http://pypi.python.org/pypi/RestrictedPython",
+    "license": "ZPL 2.1"
+  },
+  "versions": {
+    "3.4.2": {
+      "sha256": "3b6af39652ab12b04e4a3c798d5d47a08268bb3c1ccf01a8f7393526f84e3dc6",
+      "url": "https://files.pythonhosted.org/packages/0a/7e/801c02a6f90a14ee511c19e39bb56be47e62e40f5e351e381fd42fda5e62/RestrictedPython-3.4.2.tar.gz"
+    },
+    "3.4.3": {
+      "sha256": "a0bd470600bf4b79e87821c40ec4a71cd38ddb426ce89bbd04ce43a6e658044f",
+      "url": "https://files.pythonhosted.org/packages/e4/1c/f62ca7d0a3e04014f7f3d3cd6d4e2e56148d4e87b4560daf10a7fb1295d2/RestrictedPython-3.4.3.tar.gz"
+    },
+    "3.5.0": {
+      "sha256": "3d94f083eac3db9d9883f40fcc19cfe8f67379a63d7c173b5cbd6935786fd6e0",
+      "url": "https://files.pythonhosted.org/packages/ab/1c/94d6f2c7c49f0d17edd233c681b96683ca537a7771b8e862c00a50cf5d6c/RestrictedPython-3.5.0.tar.gz"
+    },
+    "3.5.1": {
+      "sha256": "ac751e15dff1e85afcc2081287722c9133492c15c9daeb34d39d7c47d79fb550",
+      "url": "https://files.pythonhosted.org/packages/55/a6/9ffb464cb774a2cd50c3827ff68089de783ecb4788dab04f4d221b7c1339/RestrictedPython-3.5.1.tar.gz"
+    },
+    "3.5.2": {
+      "sha256": "caba60f1371a71d2951388c87a69675101708cb0c0094472e74b3be91f3c4c3f",
+      "url": "https://files.pythonhosted.org/packages/15/c0/ce2a6eec500822e5a8795480774a66dd2d2a7c0c839da9b67cafabaa8c87/RestrictedPython-3.5.2.zip"
+    },
+    "3.6.0": {
+      "sha256": "0edb2579b4174282bee3997abc6316d122c7ca6dcd02f4423352213cde571434",
+      "url": "https://files.pythonhosted.org/packages/22/f1/557f90f0881f4b2d1d343bcae31f6dfa992a364bd51f1d8ca180249e62ad/RestrictedPython-3.6.0.zip"
+    },
+    "3.6.0a1": {
+      "sha256": "004836bd7f940501685e9b77bcc1501770abf6a22cb87373444f306cb788ebbb",
+      "url": "https://files.pythonhosted.org/packages/57/36/a892ebae7185e7d2a7ef7a0571d1a693092bd600189954eff13d557123da/RestrictedPython-3.6.0a1.zip"
+    }
+  }
+}

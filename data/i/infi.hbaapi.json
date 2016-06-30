@@ -1,0 +1,144 @@
+{
+  "latest_version": [
+    "0.2.8"
+  ],
+  "meta": {
+    "description": "cross-platform bindings to FC-HBA APIs on Windows and Linux",
+    "homepage": "https://github.com/Infinidat/infi.hbaapi",
+    "license": "PSF"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "8c0fa169193e4cd0651bc636b31115050c0f75fd71b9f756cfb2e44f4b1b4d28",
+      "url": "https://files.pythonhosted.org/packages/f2/48/a260786b389bdb46e3cc1ff95128628273d9d44b70f0ee54fa6f552a7162/infi.hbaapi-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "3496715853da5aeb2574a2014c20a2fe1672e1ba9b7c6a71004fe6caecbfd92c",
+      "url": "https://files.pythonhosted.org/packages/99/95/1d283b0680ffda35ea386545635bbce262d2493edefe67238e3429b9c259/infi.hbaapi-0.1.1.tar.gz"
+    },
+    "0.1.16": {
+      "sha256": "9e8feb0b63590c6361694690fa5bbe22c81ad9a9ee306d7843f8fe90964b75d3",
+      "url": "https://files.pythonhosted.org/packages/c0/f4/af652ae99c52aa6dacde5ee527578c74e6e5b6e359d2f34369e1e45f510c/infi.hbaapi-0.1.16.tar.gz"
+    },
+    "0.1.17": {
+      "sha256": "029986016a747616764979b66eb11f63a4149cd5a43286ec16635465e0a464ea",
+      "url": "https://files.pythonhosted.org/packages/a6/56/62fac2fc9d4bc2a783c1a26606c21f1f46b58b994796cc9598e403233269/infi.hbaapi-0.1.17.tar.gz"
+    },
+    "0.1.17-develop-1-gd5096b4": {
+      "sha256": "f6c9638a003305fc0533adb82046b87082de65ee9416e957b225739f82dd842d",
+      "url": "https://files.pythonhosted.org/packages/aa/19/909acd34a520a340b104ab44556d387eba629a9cc94764e3c24ee027b862/infi.hbaapi-0.1.17-develop-1-gd5096b4.tar.gz"
+    },
+    "0.1.18": {
+      "sha256": "338f36333d3e0db4a7d6192f041dde3a42fd0cc9079138027200089b401d7a23",
+      "url": "https://files.pythonhosted.org/packages/37/55/38b7d89539dd3034ebe9a80ea9aa2991dfaee4b717851cf0a221f99a6d7c/infi.hbaapi-0.1.18.tar.gz"
+    },
+    "0.1.19": {
+      "sha256": "49a6edb3a08d74fd94691dc891e6c83291da7b3fe19a08b39dac473a6359a703",
+      "url": "https://files.pythonhosted.org/packages/4c/8c/05600e82720bed70245c16b48eec843c54c4eafbcdb02b9bf86c9fa6acfa/infi.hbaapi-0.1.19.tar.gz"
+    },
+    "0.1.20": {
+      "sha256": "3a902a16b403a00c66a9f8c9ded693a1a55fc11517f6081ab63fc1fe7010e69f",
+      "url": "https://files.pythonhosted.org/packages/68/47/e6782fb6b4d6cd0695374f6ea96afd57f663bb1240e5e7bc061a01461b27/infi.hbaapi-0.1.20.tar.gz"
+    },
+    "0.1.21": {
+      "sha256": "8bdf46459e561e3ed020e6feafc726c8da6f7851133b4a087a6d94014cec5731",
+      "url": "https://files.pythonhosted.org/packages/66/36/45874325c48dd13c598bbde8d33ef65fdfb713c3b169b517050f37a0f0f5/infi.hbaapi-0.1.21.tar.gz"
+    },
+    "0.1.22": {
+      "sha256": "5bd9a5ba62bd7b9c7ba6aee50bf288505fe6f55fcecccc0b15208167893386c0",
+      "url": "https://files.pythonhosted.org/packages/4b/00/76fe5da6432aa9ac38c9c6455e0816b5564d1c6c3d04936a3864111cc8ed/infi.hbaapi-0.1.22.tar.gz"
+    },
+    "0.1.23": {
+      "sha256": "765df9fbb0364900e8e3cfe76005c3bf7f4781a1eb29dee67c903b1dc09ffdd9",
+      "url": "https://files.pythonhosted.org/packages/ce/9e/d3051ea2f31fbd4a884eb1f44bff2a64dfdfb51e99b7b4ff7c5997ed9eac/infi.hbaapi-0.1.23.tar.gz"
+    },
+    "0.1.24": {
+      "sha256": "b31a7bb20549c4ed6024c53ce6396646fa47fe02c45dc1826f3289d099c97e71",
+      "url": "https://files.pythonhosted.org/packages/32/f9/190232af99f46f74e2b89d43974b265fe8c73433763f3c4b059f15bf8fde/infi.hbaapi-0.1.24.tar.gz"
+    },
+    "0.1.25": {
+      "sha256": "87c536dadc1e2168431f43e69c910a83ffab983ebf5562294aa004f91fd9fc12",
+      "url": "https://files.pythonhosted.org/packages/cf/d1/744a34b0fc87d55e09ccda175df9cde7aacc954f907fe65ecc79357dfd3c/infi.hbaapi-0.1.25.tar.gz"
+    },
+    "0.1.26": {
+      "sha256": "978de41e72cb2ba16f42fcffc8681f1faed6e0b1e6c4587864e9f7d805f79e50",
+      "url": "https://files.pythonhosted.org/packages/e7/76/7e6497b3784f865e2e4153d2a5579193e6168abfba6886380822c5d21a91/infi.hbaapi-0.1.26.tar.gz"
+    },
+    "0.1.27": {
+      "sha256": "2d7a4d8602d3183aa5db78d50da6bb401799d3188ce65446abb27077d7d127a2",
+      "url": "https://files.pythonhosted.org/packages/1b/40/cd69e87ac6eb497e9e8171f4b4ed356862d7c54e650e84cc1e78700b0243/infi.hbaapi-0.1.27.tar.gz"
+    },
+    "0.1.28": {
+      "sha256": "08086e2ebecb0cf1e1158e2d1cab827b6b8e510c91ac6ad510cf6dd9032226bb",
+      "url": "https://files.pythonhosted.org/packages/05/eb/94f3ec23e70d6a1a368288162d9f69d3f52fd6ef1517ae5cdd117fe152af/infi.hbaapi-0.1.28.tar.gz"
+    },
+    "0.1.29": {
+      "sha256": "74bdf5fa9291f92125cf3324dd70f6e1b524aca71996d2b639ed9ea24887a6e6",
+      "url": "https://files.pythonhosted.org/packages/c3/76/9cc285df409e2d381ddef158a76f34f933f625762d3c9a6cd61ade609777/infi.hbaapi-0.1.29.tar.gz"
+    },
+    "0.1.30": {
+      "sha256": "2357ebd83b9954d7808df0278c177ce8813955234f708f1f3df4a0f27fd39910",
+      "url": "https://files.pythonhosted.org/packages/b6/4d/3b5ff747923604cf021ee26ebc93962bb3af1a395e43bab2d31426162b59/infi.hbaapi-0.1.30.tar.gz"
+    },
+    "0.1.31": {
+      "sha256": "416fb932888844e15c6b711d883b0716c9560626c41d09744510bc5a5916f850",
+      "url": "https://files.pythonhosted.org/packages/78/c3/8b5ecb2284f634fbd5d38a8857224b62f2b797a807f421a8a39dc5d71c10/infi.hbaapi-0.1.31.tar.gz"
+    },
+    "0.1.33": {
+      "sha256": "e7ad095b27dd1023e3ff5576bd398b67969110e698564e494dfc012f538b42c4",
+      "url": "https://files.pythonhosted.org/packages/89/3a/e1bf4c412b26ded640fdb3aff5ebc45e1c223b212b7c0a9204ffbb91f8ed/infi.hbaapi-0.1.33.tar.gz"
+    },
+    "0.1.34": {
+      "sha256": "538e3cf1c3c458c3317f023ed50a928181a39c0609f060dd1fd7566c5139fa20",
+      "url": "https://files.pythonhosted.org/packages/1c/8a/f436ae0f69b259f5e02b875ddf4f16dd0a8ea7393222136910b3ac60a34c/infi.hbaapi-0.1.34.tar.gz"
+    },
+    "0.1.35": {
+      "sha256": "e171cdbf8ac645ee6cf28a0453e762ebc751f1103a6f38225ca4ab139ecd7395",
+      "url": "https://files.pythonhosted.org/packages/49/6c/d3d4ad4e1aa74b67949f4ee169233b2d6df2d5532847c32eff558c9bd416/infi.hbaapi-0.1.35.tar.gz"
+    },
+    "0.1.36": {
+      "sha256": "66d30d5df1a051a04ac12a4c14c94af643753a21571a475703ab3c06d0a75b46",
+      "url": "https://files.pythonhosted.org/packages/da/ee/a0bfcdb11c6a0a438df02ec2fff50784fdb9125e608c19e79aee32f4e84c/infi.hbaapi-0.1.36.tar.gz"
+    },
+    "0.1.37": {
+      "sha256": "cabef83bb962e78ba0f398a7ea79e0fd589435bce4db2028d24ea1e33cda1373",
+      "url": "https://files.pythonhosted.org/packages/94/32/c3784822ce8cb5cf62999082c3f693a266a458cceb1ff8064a2279d697f2/infi.hbaapi-0.1.37.tar.gz"
+    },
+    "0.2": {
+      "sha256": "e87ce513f02f6885777ed20aac303fcd627026249075faf4558004d8aae07de6",
+      "url": "https://files.pythonhosted.org/packages/16/c2/126521c37a6930f312a96bc5197ed847efe1141945ae033655b92557f8f5/infi.hbaapi-0.2.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "3fb75c14d5fcff3c3f118d6136edf784cf1a38af03a6bb1f85e644e5c21a67af",
+      "url": "https://files.pythonhosted.org/packages/0c/2c/d49bdda7fee4b9353a3f9695fc6fa00981b5f1627c6cfdc1b591dc899ee0/infi.hbaapi-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "4bd317eb499055141cd2eba471fd26798416869c9f57cf2371ba00c7dade51be",
+      "url": "https://files.pythonhosted.org/packages/e8/3b/5349d376ce58b7a5632eed632708e4494288e2f66e9f576aec21921c5411/infi.hbaapi-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "dbb4edc70952a331649b53409034cef9c910938402c396590bfb07f92141547d",
+      "url": "https://files.pythonhosted.org/packages/23/b4/7c33890a584aa6b7b5978cbbd30b3b85ab8cb755b18dc91ed1df82dfac1b/infi.hbaapi-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "ba9dff39cdb4850934cb410715b97e9c566935749a23813e00ad90b5b0b2e620",
+      "url": "https://files.pythonhosted.org/packages/65/81/528090b75998474a201475560386601d6c06b022e9658f6f966b00ea7f7b/infi.hbaapi-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "830696ce27941b3fe23480b45a30126830cd3e444226f0f766a6252ac61ec8f1",
+      "url": "https://files.pythonhosted.org/packages/e6/85/d51b8b5ebd94bf85fae0aeeeacda53f005bbdbd9fca4c4e127d08bc04833/infi.hbaapi-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "9d537eeac3af2f51329c958a5b754987da9928f12dcbdc2d112a0cb2f3083895",
+      "url": "https://files.pythonhosted.org/packages/78/a3/142c8bf6128b1da0944e7a796d2574f0babb5cd48377813279f43e2a3769/infi.hbaapi-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "723922da44bb9559e2f30b378a73483e7c2f94d734f2a3551671e6eb189d83b3",
+      "url": "https://files.pythonhosted.org/packages/f7/f5/5799fefc5c65d18dcf9e18a240aced61ceb62e066b31fa17953b322e6b2c/infi.hbaapi-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "24ee45d6909f8ede42d9a19a9bc29d1717a5a0b80cdfda4bba69ddfafbe36c50",
+      "url": "https://files.pythonhosted.org/packages/78/f6/e5fd6db36efcfbccf0d5686fc624c4bb641ebb746b1b343550eeb3ce9f12/infi.hbaapi-0.2.8.tar.gz"
+    }
+  }
+}

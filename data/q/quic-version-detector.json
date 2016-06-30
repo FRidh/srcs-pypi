@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Simple tool to query QUIC servers for their supported versions",
+    "homepage": "https://github.com/povilasb/quic-version-detector",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1.1": {
+      "sha256": "89ac904b61ab13c90ea605cea091912c3935ba4bea3fc96cfc392ee61b21b514",
+      "url": "https://files.pythonhosted.org/packages/77/fc/bec14353988c5e77be27f62843978a15d493d81e8691b44a771847fab745/quic-version-detector-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "9773ccec4e09e6265a586b0fc003b2b003a5e201a260ebb64e50043654571444",
+      "url": "https://files.pythonhosted.org/packages/d0/99/a0192a2734c1785eeb2f60582a1f0718f0122a374e4152d8788286ce971d/quic-version-detector-0.1.2.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "latest_version": [
+    "0.2.6"
+  ],
+  "meta": {
+    "description": "Nagios plugin to check AWS CloudWatch metrics",
+    "homepage": "https://github.com/FastSociety/nagios-cloudwatch-plugin",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "dcd4ce2141ba7360bb9c8d80c1d7ae05be067cff9d5450aab1d8e9dd0077ae8e",
+      "url": "https://files.pythonhosted.org/packages/1d/c6/83b60cd3980e415a2b3864cb270d546e69221bdebdbf5cda33d83b5f67c3/nagios-cloudwatch-plugin-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "5e788d2362a3a9690ce3ff5a4a2907126a123cbe1f7e6a3721c6776677fd344a",
+      "url": "https://files.pythonhosted.org/packages/a2/67/6d2bb9fb547f5d96db24c67122c9274f832a2740d97740bb12885524df62/nagios-cloudwatch-plugin-0.2.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "05284f1e4668028b3fc6661c62441d461f42cbea0bdcb722daf3d416dc20c844",
+      "url": "https://files.pythonhosted.org/packages/32/9a/7285ae1c4aef5d99dd4c8134ff23f998e17cad6d529168f811b1a92bad7a/nagios-cloudwatch-plugin-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "85d2be16cdf2fc3a8a9ce94d9557660ba28dc3eeedf0abcaff38af738472cb84",
+      "url": "https://files.pythonhosted.org/packages/b1/1b/ccd583b885257ad46fb986eb7093056d4a6a90cf6c8c341f4c72cb5dd8ac/nagios-cloudwatch-plugin-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "49ef2315802652d9fbb900adafd9c7becd382276ded24e27d19aca6d47f1af56",
+      "url": "https://files.pythonhosted.org/packages/8c/a8/11c1281ee64d0d84dfa356fc37b13adbad7e09d67520275a2affab7b69fe/nagios-cloudwatch-plugin-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "a2fef3657c9cdb2d132cde59f24bbd2628ea5412130a3d22d8f41bcdf850220a",
+      "url": "https://files.pythonhosted.org/packages/61/d6/38c04d5b13ce5be3103f489a6f9e769b5681f5b284ffaa91919e8164b2cb/nagios-cloudwatch-plugin-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "b6f73530d9b2ebdd393ac74ce6e17d019413475c4119e0b8a50da5c22bc086a3",
+      "url": "https://files.pythonhosted.org/packages/a9/86/1a07916bbcd139cd2c82bc17ecb5840921a82b4a5ae02257336fd5511a2d/nagios-cloudwatch-plugin-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "7fc800f72d14c5dacadfcf0d8ef9fdcc2379d8ded6cae58b7fc5cb5857f072ea",
+      "url": "https://files.pythonhosted.org/packages/52/b8/4fec806d415470e0894569ec6738709d8d79fcc74d8836d6e5f151001733/nagios-cloudwatch-plugin-0.2.6.tar.gz"
+    }
+  }
+}

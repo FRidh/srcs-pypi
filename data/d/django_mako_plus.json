@@ -1,0 +1,488 @@
+{
+  "latest_version": [
+    "3.3.16"
+  ],
+  "meta": {
+    "description": "Combines Django framework and Mako templating engine, plus a few bonuses",
+    "homepage": "https://github.com/doconix/django-mako-plus",
+    "license": "Apache 2.0"
+  },
+  "versions": {
+    "2.0.1": {
+      "sha256": "e3f55e9e26085479fc7b9d8ab03d7de2df46f0b71c04c4d02559c3bbaf9c86b5",
+      "url": "https://files.pythonhosted.org/packages/98/0e/339da4e46fb6eae72dd306174c620f4dc23a9f4ae8bf3b937747fc35c197/django_mako_plus-2.0.1.tar.gz"
+    },
+    "2.0.10": {
+      "sha256": "f94795315e387f3d890bfde379d0ae67503b7561920bbbd57eeae60db38bccb6",
+      "url": "https://files.pythonhosted.org/packages/4b/c6/dcc335373d5fd1d03be5642fa1d77853db49e40e72f43382508b20dab64c/django_mako_plus-2.0.10.tar.gz"
+    },
+    "2.0.11": {
+      "sha256": "58632fa313ea6988026b597aa463ab272173184306e18c988a540ddab9d4e706",
+      "url": "https://files.pythonhosted.org/packages/5c/fd/a5003d9b3dafbf334d66cf7efe89f2913bef0e6aee62921021835d806d86/django_mako_plus-2.0.11.tar.gz"
+    },
+    "2.0.12": {
+      "sha256": "eb83181d95dc28f32add779c79ae25adb850db71764534d088de33f1eb630fb0",
+      "url": "https://files.pythonhosted.org/packages/1a/3f/11003dd0a6cc5947010b59faa548f82070c919694da29a4e037d5204ed87/django_mako_plus-2.0.12.tar.gz"
+    },
+    "2.0.13": {
+      "sha256": "2ef92e32f96aba4f4e539ee86127b97e14cbb08a168cdf49bf5e89c128da0348",
+      "url": "https://files.pythonhosted.org/packages/8e/c9/38e317753607e8a70ecce8505fa2b1f5e9954b12af9d968a6cde24cd33cf/django_mako_plus-2.0.13.tar.gz"
+    },
+    "2.0.14": {
+      "sha256": "c956c26681145a31e8e5274a1236db51f5d0d00b3bd8b2feda0483d71d5f9a20",
+      "url": "https://files.pythonhosted.org/packages/6a/0e/a7b0b30da9e2841f5096d11cf0c660df647d04150981fad5dc660dc9eb40/django_mako_plus-2.0.14.tar.gz"
+    },
+    "2.0.15": {
+      "sha256": "e9cea0d40c53b1f5d840f59c4b84c90aa1e667ca872050b7cf0fbaff2cb63638",
+      "url": "https://files.pythonhosted.org/packages/e1/f2/71453d60c890cf0eb32810d69b4e342b555d74c43856ea6367d3d682e27f/django_mako_plus-2.0.15.tar.gz"
+    },
+    "2.0.16": {
+      "sha256": "64db3c86c865c23e47124465650c6b902c5fb979e0fa61cdd005a88adfb43b08",
+      "url": "https://files.pythonhosted.org/packages/4c/ae/9a5e5af5607e7d56d0f783c0acc18d5a5499c3439fe757b03bbb166b9a7f/django_mako_plus-2.0.16.tar.gz"
+    },
+    "2.0.17": {
+      "sha256": "a02c91a970bf44b9105c16836f9ffb0c9e70b04e0bbae142ad6ee603a2d8ae7e",
+      "url": "https://files.pythonhosted.org/packages/ce/be/f92fe3630c576cd4651a47ba3d9db53253a6d0ae2edcc9d4a3333c040a93/django_mako_plus-2.0.17.tar.gz"
+    },
+    "2.0.18": {
+      "sha256": "bf6c4021f6079f42d7620fa3fffe2f2b54c2c6e20a7a5d204f1516a196966f67",
+      "url": "https://files.pythonhosted.org/packages/c4/e1/ede7f01d63a18d886960de650bd1386c340ddfb6e2204263a7d9c5a53ccf/django_mako_plus-2.0.18.tar.gz"
+    },
+    "2.0.19": {
+      "sha256": "a294c552a89156c0a590943aee64ded3558207dc31db0f143719a0a9283a18b6",
+      "url": "https://files.pythonhosted.org/packages/09/37/f786c22977fdfd68bdf8424f2c5189f5813f10f26f3cc5ddbe9d1cc90e2b/django_mako_plus-2.0.19.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "be049e4a7c22f70464fa451cce8fb784766a467b98ef75ed1381df1259399d69",
+      "url": "https://files.pythonhosted.org/packages/57/c4/63cefafcb4a2010da1b5009e514547637224ad894e27224510931d1a0509/django_mako_plus-2.0.2.tar.gz"
+    },
+    "2.0.20": {
+      "sha256": "dc86b5cbec2ed7e2f2fdc11f69fc6e42825ad82f9b6c1cc7d6e9800a00a9bd23",
+      "url": "https://files.pythonhosted.org/packages/50/8f/b466653d414710c1ce1c4caa6e7c0029f6a8f9eb96940d77ee62e736d773/django_mako_plus-2.0.20.tar.gz"
+    },
+    "2.0.21": {
+      "sha256": "a12b602aa0a4d3f4f4b743f5cd836907dc83e843757b7a14f2d387be49b1eee7",
+      "url": "https://files.pythonhosted.org/packages/62/1c/28d96c32bbe973ec9a8d62928cfe20f79f166bf0b6e83c5f56cf62b35ce9/django_mako_plus-2.0.21.tar.gz"
+    },
+    "2.0.22": {
+      "sha256": "8d208bc02bc87ac509e8e6697e6e9d30a5bd23f565a784a8fd7c1999419bd234",
+      "url": "https://files.pythonhosted.org/packages/91/ab/63be963ce26de5e288293dd268085a993085f6d48db314f4b1b16656f736/django_mako_plus-2.0.22.tar.gz"
+    },
+    "2.0.23": {
+      "sha256": "0819e93123cd9915f9165e8df02956b2fc10ff8f00f3fe7ab612d1d84e0771fb",
+      "url": "https://files.pythonhosted.org/packages/27/b8/29b087a192aae5c0dd0e1ff9bac69539261d3f129a3f0a4da2d7fb44ded6/django_mako_plus-2.0.23.tar.gz"
+    },
+    "2.0.24": {
+      "sha256": "e1d7058d5c94444ee5a45fe2822a62cb4f444a02cc59b3e5bd095f01a58fee60",
+      "url": "https://files.pythonhosted.org/packages/44/70/070d80048c0cf69de4e342f86fd82dd283b0021f3b399afd07ceee96960c/django_mako_plus-2.0.24.tar.gz"
+    },
+    "2.0.25": {
+      "sha256": "521185fd69eb46a0f3f46d77704360cc5cc3c39e509312b5f2bad7136dc5b426",
+      "url": "https://files.pythonhosted.org/packages/0e/b2/d0e0142e004eb7c79db564e411dbd1884d114ee09c2c49940af7096f0853/django_mako_plus-2.0.25.tar.gz"
+    },
+    "2.0.26": {
+      "sha256": "bf3d1ed8041a4608fa37bd9e84f36c0270075b60a9ff1eb1d9b413f6e04ed533",
+      "url": "https://files.pythonhosted.org/packages/1a/19/0077e08cdf2b2ecf6f83bf73dc26866d9fbb291a080829aa5cd913ce83d4/django_mako_plus-2.0.26.tar.gz"
+    },
+    "2.0.27": {
+      "sha256": "29113bb2aa120b8d7dcb42bff07071b2df704f42169bc7243980405df6c2c208",
+      "url": "https://files.pythonhosted.org/packages/22/64/bfd356b0545a1ca817ad146b5d4e41fcdc0581d50d7014d07d184663de09/django_mako_plus-2.0.27.tar.gz"
+    },
+    "2.0.28": {
+      "sha256": "b3f9c8b5d129110515a043018d7ccbc3af2939e1b3754df1e9b479ada0de468f",
+      "url": "https://files.pythonhosted.org/packages/de/1a/c60ebc8fc859fba4f33838f689389afbfca32e5ef78fe5d6545544fd9748/django_mako_plus-2.0.28.tar.gz"
+    },
+    "2.0.29": {
+      "sha256": "4295f6826fe99636f4f53583a4f0969b9f2c56a6f2ed3b6b029b0d34de9efc16",
+      "url": "https://files.pythonhosted.org/packages/d2/cc/1073792474bdc3f2ff6b5266704c277784ea8e4a4835d1de8a0e02ea33fe/django_mako_plus-2.0.29.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "59304b7a28d979bf49c4adc884745d6f8b76a56e9bb05353472cfa83bb5def6b",
+      "url": "https://files.pythonhosted.org/packages/7d/89/9f83cc52049d1aa3c778fd89c1183cb18eae740fd43b1c30fb1123737725/django_mako_plus-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "e35df6d84e992d0eda93980b8fd8ea1098f7085831102e975b3a5d275d60402a",
+      "url": "https://files.pythonhosted.org/packages/cd/d2/f17234fb3aa36e9a14c1cbe45ac5c2277933faf2954aa9f11a9290184085/django_mako_plus-2.0.4.tar.gz"
+    },
+    "2.0.5": {
+      "sha256": "7f5c9c2ef65b8b87cda512221b8eaac867107fc9248d80d42222521d85cdcde1",
+      "url": "https://files.pythonhosted.org/packages/45/08/36f50c7bea0c50fa0c2ae63ddc9a6d30684a26135b5e03695e989576727c/django_mako_plus-2.0.5.tar.gz"
+    },
+    "2.0.6": {
+      "sha256": "42808014abb26c6a0adeeb5adb6e0d539a6a7f92d4c43e0273d4ca6d6f359844",
+      "url": "https://files.pythonhosted.org/packages/1f/60/3abb713511e7919daf271ebe8d9ee06b7facf121ed00ba32ddab0cdc0527/django_mako_plus-2.0.6.tar.gz"
+    },
+    "2.0.7": {
+      "sha256": "41ebbf6bd8923ba62efd7f5f77d9362b69f0a8021226d288b1ede66d16df14a6",
+      "url": "https://files.pythonhosted.org/packages/a6/70/fc89ad2d192268cd5584a11fbe29fc6cf6115de4aa528fec8290cea9966a/django_mako_plus-2.0.7.tar.gz"
+    },
+    "2.0.8": {
+      "sha256": "0be6c5f7d2734721309ca2e5b0337177826b6f39a5a983366901854feb7b576d",
+      "url": "https://files.pythonhosted.org/packages/79/dc/dbd505ceb33d91f0ab0cb8a545312adf33d919e59662633a1004950696f1/django_mako_plus-2.0.8.tar.gz"
+    },
+    "2.0.9": {
+      "sha256": "c6ce492f33d82d61527f7a13518027b6bced0716e0440d71c2f848c21a284ad8",
+      "url": "https://files.pythonhosted.org/packages/ea/6a/d43c6891ae8509a12e161730f07f676e68d2040869c4a9f0a77119f7b335/django_mako_plus-2.0.9.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "b5e3c477376bbc3bfa454cfc309008da0940b12a0e49427b5ee3a4f999b6e053",
+      "url": "https://files.pythonhosted.org/packages/7d/54/75cb90564a6fc49e0dc85872ef15fa93cbae95fc816c5b15ab169f4d989e/django_mako_plus-2.1.1.tar.gz"
+    },
+    "2.1.2": {
+      "sha256": "492c7febb5e5d5bd85558ba7f10ecf9d69f9fcf5ae12d5d9f8c2a244df37e9a1",
+      "url": "https://files.pythonhosted.org/packages/6a/3e/628d169ee182862b00430ee41331ba68183a238b060c9379683babf299c8/django_mako_plus-2.1.2.tar.gz"
+    },
+    "2.1.3": {
+      "sha256": "da143f906a42488fb516dcbbab90d6b8722cda2d244482bb811b8a9980f76de8",
+      "url": "https://files.pythonhosted.org/packages/d3/ea/6e13a0b43a87941e714196669ff603af1b48eefec5921179b80d0c89f15b/django_mako_plus-2.1.3.tar.gz"
+    },
+    "2.1.4": {
+      "sha256": "1a746c64919eee27e0f373b4389705b974c9cce17a1933084aed2298e06d89e9",
+      "url": "https://files.pythonhosted.org/packages/70/9a/5243a3fdd12e2d26cdb1da52312a5101adba18cd9de079548bd20638309c/django_mako_plus-2.1.4.tar.gz"
+    },
+    "2.1.5": {
+      "sha256": "91280f220e6b1231879c88982223433a972523c99d040588fbe623742b59dcc8",
+      "url": "https://files.pythonhosted.org/packages/db/45/9081bf2f606ed8779480a0241e7a2fd3525a297fbd3099fcf25fda5cbdc3/django_mako_plus-2.1.5.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "4d098f7f9e258c18cb770ff43b1beff3e6c415d12da76251d29410ea0409c651",
+      "url": "https://files.pythonhosted.org/packages/09/44/b0419937db51ba2db48cd8b54dd85993071267ac1ec23d930283fc7c88be/django_mako_plus-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "898f1519c6ed42eac23d2a748a19f84573399fe5262f43702f80f19f1e893c8d",
+      "url": "https://files.pythonhosted.org/packages/c6/f4/1deef6daf18d5b2e98f069ed3c10fb1a659daf1d139300306a50dadbbd09/django_mako_plus-2.2.1.tar.gz"
+    },
+    "2.2.10": {
+      "sha256": "5b9dede5ee4ccc1064a039cb4da879734c680f86b4e586da5bf59e698d749fbf",
+      "url": "https://files.pythonhosted.org/packages/38/5b/caed3431aa79f6a43aa968e263decadfc1f1b088961cf66d680318b0ede5/django_mako_plus-2.2.10.tar.gz"
+    },
+    "2.2.12": {
+      "sha256": "e024efb813fd182d17af927a5e1f50b615525db2817ccbcf83794b0895020397",
+      "url": "https://files.pythonhosted.org/packages/05/d0/752db61e792f7334edb952834c574a4b7533584c51f6ff39c4b7c1f07061/django_mako_plus-2.2.12.tar.gz"
+    },
+    "2.2.13": {
+      "sha256": "4726f3a32ab757b712faa7b5ae092b2080dccff8185be7221e5a692683d6cfe2",
+      "url": "https://files.pythonhosted.org/packages/3c/7d/b11d7a67d2095ed1a6cfc978d7efcbde94038354e5f5ac1da35770a8c146/django_mako_plus-2.2.13.tar.gz"
+    },
+    "2.2.2": {
+      "sha256": "c0ff75e92f507e604e3e6925133024dc46a37d8c575c4f02ff91f4efb6142f3d",
+      "url": "https://files.pythonhosted.org/packages/ad/4f/708ecd8eb4b75adf8d9c173170cf6b6dc5812c7d3793faeeb88d2eba0b45/django_mako_plus-2.2.2.tar.gz"
+    },
+    "2.2.3": {
+      "sha256": "29dc77b9d0b08c73d010c2f94c2bd63eced50e779d436b4b4378edb077b7cd11",
+      "url": "https://files.pythonhosted.org/packages/6b/7e/ede033298a11a6a86125f1e5f779331e7cb8ad6d88bc31d7b6327f575dca/django_mako_plus-2.2.3.tar.gz"
+    },
+    "2.2.4": {
+      "sha256": "7ef7c80e567fc349e0dbce7ed344340446aa643f972e2a9f2ec56f15df4a5a18",
+      "url": "https://files.pythonhosted.org/packages/96/7a/f9706c58f33b18a08e0a14c4b0fefebf079cc4ae74a143d8efe45667d82e/django_mako_plus-2.2.4.tar.gz"
+    },
+    "2.2.5": {
+      "sha256": "d81dae833ed70c2006d1e04558ab1f7f1afe5a07b442780e9863a78924af0ee9",
+      "url": "https://files.pythonhosted.org/packages/29/07/69d6210636746a29bc52679c00f315bf862e97363bb87228f30bc483d192/django_mako_plus-2.2.5.tar.gz"
+    },
+    "2.2.6": {
+      "sha256": "10938a808dd83a9c0a26ed8175eecb78f83d65295e13c576960784c6dbb72174",
+      "url": "https://files.pythonhosted.org/packages/9a/54/1c07e26a8b7d8d8f423485189cc2b7cb1f56bb54bc398cdea655f21d16c5/django_mako_plus-2.2.6.tar.gz"
+    },
+    "2.2.7": {
+      "sha256": "19173edaab0466c88f32d314c20e5e3a664746921ff967b55738f2160893f7b3",
+      "url": "https://files.pythonhosted.org/packages/cb/99/a26cb611b932299c216115231f4c9b43d035a226f7fb8296a9d5a48b4d63/django_mako_plus-2.2.7.tar.gz"
+    },
+    "2.2.8": {
+      "sha256": "70850a1787a7f0621c26f975a969a4e6944d6c7b9461570ad83dea3e3402fc77",
+      "url": "https://files.pythonhosted.org/packages/33/5f/83adc3ffff02e1baafeba01af910acdc0ca271b25d6da6b41babd2e2155a/django_mako_plus-2.2.8.tar.gz"
+    },
+    "2.2.9": {
+      "sha256": "ee511fbfa64d26cfdc90834d5b5c93fe8f40846f142d736b92d15431d8df4ccc",
+      "url": "https://files.pythonhosted.org/packages/e5/b8/09a9906503ac5df5e066f73110386c7cec328a41599e98905247b2ddabaf/django_mako_plus-2.2.9.tar.gz"
+    },
+    "2.3.1": {
+      "sha256": "0d97849a8b45a6922973a5435b209e673776e95ae867abf796a52a2f7b05c3df",
+      "url": "https://files.pythonhosted.org/packages/64/12/663026c20f629fcc4a8f70805fb2f36702f4528e5613642aab939969eb3b/django_mako_plus-2.3.1.tar.gz"
+    },
+    "2.3.2": {
+      "sha256": "6f18065b0435ee9c55427f596d6d9626269805ec9571b06e459978802f7e3091",
+      "url": "https://files.pythonhosted.org/packages/85/d4/8e36ce597303f08c426309cf96316c0b7d8533040f8915b233f99f88cd1c/django_mako_plus-2.3.2.tar.gz"
+    },
+    "2.3.3": {
+      "sha256": "fbee3f0540f06367aa9d90071b73c9c2cbf829494cfd0b643713eb10203c6c01",
+      "url": "https://files.pythonhosted.org/packages/86/93/c2734b9e4444ef2261945c39b7b7ffeb3ff4698321c31c1b6e69e1240273/django_mako_plus-2.3.3.tar.gz"
+    },
+    "2.3.4": {
+      "sha256": "e858084d9348615bdea12f2354de9c1f3acd5d8f81d60d36bec64729950420b9",
+      "url": "https://files.pythonhosted.org/packages/78/dd/12975dae0d0701b7a7a262fe4f50c96ba05d6c14fcf31bf3865d06e7350a/django_mako_plus-2.3.4.tar.gz"
+    },
+    "2.3.5": {
+      "sha256": "5e185dfddfa244cdafd56c7dcaeab0f404af6de1950399574957a0328a4731a3",
+      "url": "https://files.pythonhosted.org/packages/d9/2f/cd395d46d2cf06368c1ce056447f7cd77cf6ef87f5058ca5a8659a49d42b/django_mako_plus-2.3.5.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "ba4b9da1221cde631a4e0b5d3a0d5e672dceb7be421659ff58df67350d5b83bb",
+      "url": "https://files.pythonhosted.org/packages/76/bd/ceb8554177a2714a832c20cd64db1dbd59e3b27fe493339e8a78adab0c70/django_mako_plus-2.4.0.tar.gz"
+    },
+    "2.4.1": {
+      "sha256": "99ffe2321bee62fa2bd394091eac3cc1759937a712dd9dbfc5d7347e4927425b",
+      "url": "https://files.pythonhosted.org/packages/44/3f/5281a226cfe8316579cf912dd3177004f99c5f80db649cb910736bfdab8f/django_mako_plus-2.4.1.tar.gz"
+    },
+    "2.4.10": {
+      "sha256": "4beafd16950d2dd901f80f6b0ecf76a539d9581526be18b6ca98a8bde2035863",
+      "url": "https://files.pythonhosted.org/packages/fd/21/b27a0d20af1e4ffdb277c5ede84257d482f7da183402091e668ea86bce70/django_mako_plus-2.4.10.tar.gz"
+    },
+    "2.4.2": {
+      "sha256": "144699c2bab078fbdf0888ce5f680e1e3fdff89abd4ad80adb77cd2d6b29e406",
+      "url": "https://files.pythonhosted.org/packages/fa/68/16bdb813a36367b8cc69abc013e7f8566606a6913c75c34df2e6a3921052/django_mako_plus-2.4.2.tar.gz"
+    },
+    "2.4.3": {
+      "sha256": "8de41269f090967fb5eb40d75b4bb655b612147924690fc75f293daae91b87c1",
+      "url": "https://files.pythonhosted.org/packages/3d/62/e2848fc4eb38b10367fe6ebe9e5187d508bfac455fc6d7f4fb9fc40b0507/django_mako_plus-2.4.3.tar.gz"
+    },
+    "2.4.4": {
+      "sha256": "19bdac01dd5c497490c0a56da1be7e23be8a70e0a1941b597cadb7bf0baaf87f",
+      "url": "https://files.pythonhosted.org/packages/d4/c7/bc9437bb80bb9344a75709cbec2a6b75d5af7dec53e3c87eee74c39f94df/django_mako_plus-2.4.4.tar.gz"
+    },
+    "2.4.5": {
+      "sha256": "21579a679edae7116248ec6ca3f23d829fd3e89db0d9f7af20229b2649e9f843",
+      "url": "https://files.pythonhosted.org/packages/00/07/9eca9c2ccddfae93f465ea8e2888d52cf687339ed82bf04dab90b9ebc777/django_mako_plus-2.4.5.tar.gz"
+    },
+    "2.4.6": {
+      "sha256": "2a258781c459cd90c2102ce9611d4e7bf33c29a141aac96994c1412e5c615051",
+      "url": "https://files.pythonhosted.org/packages/30/c3/58678952c4d3ba22e75299d9aaa480c9c74372e30b916b9a85a412f2d78e/django_mako_plus-2.4.6.tar.gz"
+    },
+    "2.4.7": {
+      "sha256": "797a0c14d953c9071f8b61f9c6ef9847588434918d3a092b6c3845e087c5b1b2",
+      "url": "https://files.pythonhosted.org/packages/9c/3f/f899898b3998dba29e2dc5adf205d350fea94895cebace848296ad259456/django_mako_plus-2.4.7.tar.gz"
+    },
+    "2.4.8": {
+      "sha256": "e3e169121a8a749f515fab348fcff8a8ff4f6f79a4d77cff26d036104915526e",
+      "url": "https://files.pythonhosted.org/packages/a3/1d/a0b07a4b6608d54333bf5048a10f214040bbe8276d11b73b79357dbd4735/django_mako_plus-2.4.8.tar.gz"
+    },
+    "2.4.9": {
+      "sha256": "44d654c15766b9617a7d2cc52df0519cac8a23a9070ee9718d7b2c151645edd8",
+      "url": "https://files.pythonhosted.org/packages/90/70/9f3aab85ec9864914c87f5da688b86b60ca9a0e1a24e9d88b83be41d9d13/django_mako_plus-2.4.9.tar.gz"
+    },
+    "2.5.1": {
+      "sha256": "2323f35ab113d64c093f09eb42fd2a088f4c32f880f427411f9bb58ccf8571be",
+      "url": "https://files.pythonhosted.org/packages/27/85/48f79956973126001d281aa7eaf443c58b13b9485b3fdac26ffb4da6bbc5/django_mako_plus-2.5.1.tar.gz"
+    },
+    "2.5.2": {
+      "sha256": "8a29804511015be938754f813e28b26b1d9630b837c24498de81ff3db2719bbd",
+      "url": "https://files.pythonhosted.org/packages/9a/32/90cabfb3dbb81e969ea4a1366de84c97631ef6ff0cc2ce1ac29b5ea7bc5e/django_mako_plus-2.5.2.tar.gz"
+    },
+    "2.5.3": {
+      "sha256": "7cf1f41341b1331ba692ea093bcc62945145eff40ec8d21395efc5b6cdf58c6b",
+      "url": "https://files.pythonhosted.org/packages/16/76/ad44b9eb985f8323609899d1c8e2085c44907e1f0e0d35f7a2902d7d57f6/django_mako_plus-2.5.3.tar.gz"
+    },
+    "2.6.1": {
+      "sha256": "0e0497cf5699589eeaa3d291525737dfc7e51b84ff95ff9818aa4d986bc39995",
+      "url": "https://files.pythonhosted.org/packages/79/6f/55fa18e7056446e18f7847c337be3d4b1ba5de139355c0db3d0e94be41a8/django_mako_plus-2.6.1.tar.gz"
+    },
+    "2.6.2": {
+      "sha256": "b430478faf3151ca0965d5e1f1dc012a223f15d22ec82297609df69d7a41a658",
+      "url": "https://files.pythonhosted.org/packages/37/f0/be0bc0db92d34344f2410ec77284cb6f85123aae6b0139c2f3a97342df44/django_mako_plus-2.6.2.tar.gz"
+    },
+    "2.6.3": {
+      "sha256": "c426f4e970d59ed8e26994a2f1695336358ccc4b5eebd019c7561d1b6ba1b781",
+      "url": "https://files.pythonhosted.org/packages/40/b2/f49804c43e2d767ecfea89958f1f46f2d22419ac771e53b0a747269398f3/django_mako_plus-2.6.3.tar.gz"
+    },
+    "2.6.4": {
+      "sha256": "7947dc75eb43d3f329722e49e856ba31c3a6e0072e49dfd96a5942a7963585f0",
+      "url": "https://files.pythonhosted.org/packages/32/56/848d1cf682c4c32d6a258f28754f8e1fc5ff7b2aac331ac729d9178160db/django_mako_plus-2.6.4.tar.gz"
+    },
+    "2.6.5": {
+      "sha256": "e3b94370ab052334c93ac2acfa510703435eb67797416453dd38a3cb43a4016a",
+      "url": "https://files.pythonhosted.org/packages/70/f6/a3376971850b2ff2e9c8621bf1fae6e4d07249555e520cb8d11d8b07ce36/django_mako_plus-2.6.5.tar.gz"
+    },
+    "2.6.6": {
+      "sha256": "c03d4d4d6d4545eb2a06b8e56870c6b8e360a073b4f47148f2ccb41cc0036c6d",
+      "url": "https://files.pythonhosted.org/packages/0e/3c/0d5a89aa173f61a8e83828b4413a4dd382909cabf24e423f29544fa9e1e2/django_mako_plus-2.6.6.tar.gz"
+    },
+    "2.7.1": {
+      "sha256": "f14a1b9bb85bdd1bf30058918e37f606a97201a81de1cd4b64787905c9e701a4",
+      "url": "https://files.pythonhosted.org/packages/4b/65/9b896c58add5726c0db4fe0ad5ed41bfe31b27e87bc9cc1d476463eed154/django_mako_plus-2.7.1.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "49f32d0455a5df14f548a64258e1a42a8e3e6853049eeb70e11b7892e5af9005",
+      "url": "https://files.pythonhosted.org/packages/5f/c5/7f7744a3ead60717896da2cf0a6219b8fbb048c54c8047d3090bba6eca8b/django_mako_plus-3.0.1.tar.gz"
+    },
+    "3.0.10": {
+      "sha256": "497523db623f5f903b30cabaa52713d2082a4d6dda4ea7e95ef40698f5a029e1",
+      "url": "https://files.pythonhosted.org/packages/6c/9b/9981423a392fe0a0d0fcfd11f9aa2dde499af967ff32e7b49274a8371b96/django_mako_plus-3.0.10.tar.gz"
+    },
+    "3.0.11": {
+      "sha256": "7f2cd784b64bb05e1d4a9719bc414ec1e1a698e5032298e137460b33f4af7611",
+      "url": "https://files.pythonhosted.org/packages/cf/ac/3a6ace155220cd9814aa2c70efeb1716b2e36fdbd1559d1a2db7b7d0482b/django_mako_plus-3.0.11.tar.gz"
+    },
+    "3.0.12": {
+      "sha256": "556b12e56396701d130e5ac52abda04a477822cd2b5a02b9527f4c5a17f0323f",
+      "url": "https://files.pythonhosted.org/packages/0f/e6/83b06dfd2f3ef5d517661e05e90cc83295bfc39691fe339cef21bbbc42a6/django_mako_plus-3.0.12.tar.gz"
+    },
+    "3.0.14": {
+      "sha256": "a2e8a2080d5436dc6c3bb8a9c875bbfbe09eff5e46d1a1b03b86b815392b9204",
+      "url": "https://files.pythonhosted.org/packages/33/ff/14da3f28ec47877704e79868f09662b4192f1b58dc4dc7a612dc34076f71/django_mako_plus-3.0.14.tar.gz"
+    },
+    "3.0.15": {
+      "sha256": "1465e55ffce4e99b03f98c473c99903727ef790a5e3cab6181e2ee6ac522b073",
+      "url": "https://files.pythonhosted.org/packages/68/41/256e116168b2773f462018e9ad8ae1af43d9eda859b6f129299828d6d0ce/django_mako_plus-3.0.15.tar.gz"
+    },
+    "3.0.16": {
+      "sha256": "a95482573b85b55e8017cf42c8009f1cd9840244e9bf881543994100002e3bcb",
+      "url": "https://files.pythonhosted.org/packages/4b/8e/1d110455c53b55bdebb1ed579c1fc380b546d1a14b8344f0c0681a34d116/django_mako_plus-3.0.16.tar.gz"
+    },
+    "3.0.17": {
+      "sha256": "bb6e951e7c47db5fd59e5bd3167d6f31ae02e11f8b6e79dd53d855f522d1089c",
+      "url": "https://files.pythonhosted.org/packages/eb/60/7cdd411dc9c74c328231e32b526b301887e1632ec13db3aa2e366dcc1c24/django_mako_plus-3.0.17.tar.gz"
+    },
+    "3.0.18": {
+      "sha256": "f14369ae74f72dbda22ae06d8f737a977e9d3e50d6b0cc96f890445540d1ffeb",
+      "url": "https://files.pythonhosted.org/packages/d3/e7/524902ec2c7a88910af74dbf7eeddb195fb8ed9d5d83d73b4ce90b8f40b4/django_mako_plus-3.0.18.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "217d79ab41c17729dc67301a1341d976615c86f8242277fe6180779718708170",
+      "url": "https://files.pythonhosted.org/packages/93/6a/98a6aa7d0d36b119b70ac72a4cd8cf852448be32c44645c65b8d23d4b2b1/django_mako_plus-3.0.2.tar.gz"
+    },
+    "3.0.3": {
+      "sha256": "215bc296c165cb2119ea8a10835a8b3d08208a53fbd4de6c6d6c333e26c5e38c",
+      "url": "https://files.pythonhosted.org/packages/00/7a/8f4344b621c35a4bf9fbf98eecf04c95968ac2beb9148969d13e56830824/django_mako_plus-3.0.3.tar.gz"
+    },
+    "3.0.4": {
+      "sha256": "91cfeaa396c45c99556b4a00d7935947e1a4994577a6b503a2f81bacd2332e2e",
+      "url": "https://files.pythonhosted.org/packages/d0/a4/225b996d741fa09a62a354e9b7388b7fd69256755869a7394321d41cefbe/django_mako_plus-3.0.4.tar.gz"
+    },
+    "3.0.5": {
+      "sha256": "910bfc44747e266201e98da7a76e571d882a51f8a3332b80a93b455ef90f9d2b",
+      "url": "https://files.pythonhosted.org/packages/f0/85/86c08d6a1fe5da028753393a21557b856801bd2d0ef943a6f135ff6502a6/django_mako_plus-3.0.5.tar.gz"
+    },
+    "3.0.6": {
+      "sha256": "bd16681e6a0b66464601e147da95b94d5e4e1d8d1680a8fd05ef1c8cba813447",
+      "url": "https://files.pythonhosted.org/packages/66/46/11ecd43573b8a7002f4b547d548afba4bee41a57e925e6c03105d4b513de/django_mako_plus-3.0.6.tar.gz"
+    },
+    "3.0.7": {
+      "sha256": "e8988e9435a6e9e1604be8a718571d8b60f0f3baea2b2a10caa50a528449380a",
+      "url": "https://files.pythonhosted.org/packages/f8/ec/3ae7c64efd2e2039e81b7ac45216d905c0b36cf41fbbd604ae682b6f6b93/django_mako_plus-3.0.7.tar.gz"
+    },
+    "3.0.8": {
+      "sha256": "2a5f0c005b276e778d0e80cbe1b4055d3af93a3c2ff05b660753b420c3609461",
+      "url": "https://files.pythonhosted.org/packages/07/cd/efb5a7084256171c0f1d72e500a88d8e0ca32db6120523cb78085f2cc33e/django_mako_plus-3.0.8.tar.gz"
+    },
+    "3.0.9": {
+      "sha256": "f242cff504822d75a1d328b583d0f6978f7cc859450f255979821e3bd1737e17",
+      "url": "https://files.pythonhosted.org/packages/bc/41/dda716691dfc0e476fa0d6465d168a3aa6feb32b9f6200b61c8b1f0415a3/django_mako_plus-3.0.9.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "b1cdb31c0c1a3fb24097ebd7d06e72c0002a5db8a78d6917e78151bea3d002b7",
+      "url": "https://files.pythonhosted.org/packages/c1/ff/d748fe0ab0680d0a719db5f3bb2e1e775a36ecf2390b2bcedad2df5985b1/django_mako_plus-3.1.1.tar.gz"
+    },
+    "3.1.2": {
+      "sha256": "8f5548ff841c23006b733e5d78726d427f639c339f00e20d082e983958c86eee",
+      "url": "https://files.pythonhosted.org/packages/13/31/72729f9ab93d021283c65fa70683569ba22ac5b0cbee0f3cbf44b4ef6982/django_mako_plus-3.1.2.tar.gz"
+    },
+    "3.1.3": {
+      "sha256": "070d6d8517b3db8198120dc5124f76c4d1551e798bd0b562003cdfd8d96e4c06",
+      "url": "https://files.pythonhosted.org/packages/d1/58/648cd55151178e0009ee287688c7632c4762b25ed44de8752ca3238fe2e1/django_mako_plus-3.1.3.tar.gz"
+    },
+    "3.1.4": {
+      "sha256": "40fb2991725bd7e6abbc7ed6e8e0a6c2800e06b0dedfce8d1f450f270d62b6b7",
+      "url": "https://files.pythonhosted.org/packages/5a/66/9dab64a594634448c27a8eacea662b89f9353c57e6b38a1787b3775e54b7/django_mako_plus-3.1.4.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "dc1d6e82a3088bc76de86a07530e0460365e5a2ddb1acfc820464bc25bff3df6",
+      "url": "https://files.pythonhosted.org/packages/35/a9/f919080768bbdfc07e30128439bb49e1a015f0ea3d1b4ba922426be0465f/django_mako_plus-3.2.1.tar.gz"
+    },
+    "3.2.10": {
+      "sha256": "78cfc8ec69fdc0e0e89df0fb7cf83a8cda06ad833110e1da76b30b8e3eb83c25",
+      "url": "https://files.pythonhosted.org/packages/cc/db/f5ce876e2ac0a71a1681aa6a3dbeeba48f04612d369d7c90b9fd55d75245/django_mako_plus-3.2.10.tar.gz"
+    },
+    "3.2.11": {
+      "sha256": "652cd51a66ad0b39f0fcde255c8d520c250c6fa60b7371eafdcfcc64702c2a51",
+      "url": "https://files.pythonhosted.org/packages/3b/18/12bb352d2dd29f5650436b0ebf8d761e6175719896da0e6083343386c0c4/django_mako_plus-3.2.11.tar.gz"
+    },
+    "3.2.12": {
+      "sha256": "cc9dde7086bde681182eb9464f8c530afe9b446e5e6c5de2ec788141fcdabded",
+      "url": "https://files.pythonhosted.org/packages/59/a4/deb1ce9a0f58c4be457f99281ea136422d5388b3f3a31bb4dec60947fbbb/django_mako_plus-3.2.12.tar.gz"
+    },
+    "3.2.13": {
+      "sha256": "ab597165a7e7528f677cb08e7a0f69a405a2d45ba276a26296f70cf6090b90d9",
+      "url": "https://files.pythonhosted.org/packages/5d/ff/d18df1789ec5cd4e21437d32172e91d46a7f233e6680d92a3f92a58a1d21/django_mako_plus-3.2.13.tar.gz"
+    },
+    "3.2.14": {
+      "sha256": "f2eabd2538e17cc13abf60aba99913e638e37a435fc8963e63566216b8ff443d",
+      "url": "https://files.pythonhosted.org/packages/2f/e6/e04d972d8ef81924a54abaacbdd0d50edd3335f67879eb19537c31399c67/django_mako_plus-3.2.14.tar.gz"
+    },
+    "3.2.15": {
+      "sha256": "d4ee41c5c20ef4506abf60d1793a6299d264946ed3c4dd865ebdeaa6f65b3fea",
+      "url": "https://files.pythonhosted.org/packages/89/f3/0d3bde84d776044d55f2c9a8073d2df1894ba285dc06f2e32ed3bef9569c/django_mako_plus-3.2.15.tar.gz"
+    },
+    "3.2.16": {
+      "sha256": "c823113267eb0703cf6effa3dd71f9d028f9371d8599741fbf1045fa36581e98",
+      "url": "https://files.pythonhosted.org/packages/d0/e4/1311236178f6cc78952eb7e58b62d0cb6723e88a0ff2bfa78829922303b4/django_mako_plus-3.2.16.tar.gz"
+    },
+    "3.2.2": {
+      "sha256": "572259b2cf3129643459cd866914d23a6aeeaee92ff97e873e02a06b00a65ccd",
+      "url": "https://files.pythonhosted.org/packages/30/4c/9418235562498493eaae7ff13ea553fd1e2750d2d4c051cc8e8702e7ede1/django_mako_plus-3.2.2.tar.gz"
+    },
+    "3.2.3": {
+      "sha256": "4768d5d71339baaa07186131d5ffe01c7d6fe4f28d25141de47d383336c5a253",
+      "url": "https://files.pythonhosted.org/packages/91/21/e01a10e1204d9b898ad03f3a4e5db9aa6241909c124ea9fafb9d671dca3b/django_mako_plus-3.2.3.tar.gz"
+    },
+    "3.2.4": {
+      "sha256": "94c03fb3b0febcf3e34648f267f847f4fdf366e21de541fcb894ab0293f33280",
+      "url": "https://files.pythonhosted.org/packages/e0/db/f724dab7f7648085a027516ed17f18a015429bad7848f95ead62cef936f2/django_mako_plus-3.2.4.tar.gz"
+    },
+    "3.2.8": {
+      "sha256": "87b4cbf14bb15c02f256aef5541f666c02c4445edfe6d03075ecdf4a2d995875",
+      "url": "https://files.pythonhosted.org/packages/8f/13/8be4e67c37141d30603187877074cb0f5856cc2c6780df5638d5e7c67df4/django_mako_plus-3.2.8.tar.gz"
+    },
+    "3.2.9": {
+      "sha256": "cb31da9bf27deb94243fd9e9f4807c047abbd5c9825d5288a90a1731f5d79f45",
+      "url": "https://files.pythonhosted.org/packages/12/90/d24678079c752b792a8f8b28e51f087248b098fbd6f07bc21448ba1978e9/django_mako_plus-3.2.9.tar.gz"
+    },
+    "3.3.1": {
+      "sha256": "802ae0fed2ede6ec38dbca39a6f63f3b14e608bc7ed60ff18080ec69d6138481",
+      "url": "https://files.pythonhosted.org/packages/23/d4/5ea1496b577c64eac500bfd4aeb482b665703f291b1ed73886efa67d03d7/django_mako_plus-3.3.1.tar.gz"
+    },
+    "3.3.11": {
+      "sha256": "88b64d8dea9d458cc38405af28ff0306a88bacbc81fba87586cf9a4a0306a40f",
+      "url": "https://files.pythonhosted.org/packages/00/99/563fd83ad7099ba51439fb24dec6ff893664dc414a35c46bf6d5fce1c836/django_mako_plus-3.3.11.tar.gz"
+    },
+    "3.3.12": {
+      "sha256": "96611e10fd1e1f6fd2fc73f2bc98d76efe4e200d5f5872269e21548e88dff54e",
+      "url": "https://files.pythonhosted.org/packages/f2/f6/bda3b0ea19b1b5361f74d3930d307982123cb58b961c08e8eccc6ec033e1/django_mako_plus-3.3.12.tar.gz"
+    },
+    "3.3.13": {
+      "sha256": "9ea05465d037d0e23ff87173b2aee362e495ef880f30f413537d4bc8fb2337b1",
+      "url": "https://files.pythonhosted.org/packages/51/20/f28503228b09928e7d4791f89777f3add576d6a106fef0ada15a9649d842/django_mako_plus-3.3.13.tar.gz"
+    },
+    "3.3.14": {
+      "sha256": "c604abee675a7c946ba536bc67525819b6b86992fba90c60dbfc9f85bba69384",
+      "url": "https://files.pythonhosted.org/packages/74/8b/fb5dc124ca8629627d918231878e08b2b3785075e5f3eff01319d6625403/django_mako_plus-3.3.14.tar.gz"
+    },
+    "3.3.15": {
+      "sha256": "a1d9d56be99fd947b784e3ac944e63b748f7d6a46cca662362939abb5f079092",
+      "url": "https://files.pythonhosted.org/packages/e3/41/3150853e0f250047b2f768c12b18869e8a70c87df17b89fa97b5314e69c8/django_mako_plus-3.3.15.tar.gz"
+    },
+    "3.3.16": {
+      "sha256": "e5812f0d7c522811875ba4b1bf2902161cb5bcdbe8fd927e11bffa984a6f786f",
+      "url": "https://files.pythonhosted.org/packages/7e/d0/2b8b6a3299bad60a43a68d0233304c9a4e08b3e59e4e92d2e3cc36a0b5c3/django_mako_plus-3.3.16.tar.gz"
+    },
+    "3.3.3": {
+      "sha256": "9df606678d7569818b1a9f67934ec3d8924091b42a2b8409fab57a3db06c2a9b",
+      "url": "https://files.pythonhosted.org/packages/9d/9b/d9c7f0a54f3cc99374845d222df66747c649a33c51994264a4a33cf52767/django_mako_plus-3.3.3.tar.gz"
+    },
+    "3.3.4": {
+      "sha256": "9c035d23c45c420ebc9dd67337d90111fa67f7375b99cebbfc4fab07a078c9a8",
+      "url": "https://files.pythonhosted.org/packages/fa/49/e821af867bdb65d7100b2af66801d030da69b9a57870001e5853976819ad/django_mako_plus-3.3.4.tar.gz"
+    },
+    "3.3.6": {
+      "sha256": "e45b8fba3b2b554fbcbfe26f4b8bd6d69d3e642c679d44f63fa7a1c9bf9f5721",
+      "url": "https://files.pythonhosted.org/packages/94/50/a4aa7d515fec9d5b704413325f525e533403de3bc4aca9efb6015529ae70/django_mako_plus-3.3.6.tar.gz"
+    },
+    "3.3.7": {
+      "sha256": "69059274f771dbb036fa114fb55b202e599e55c08521804ff890c0246506504b",
+      "url": "https://files.pythonhosted.org/packages/83/0e/59dcfe3fa360eb1a2fb8ff59b23db842e5b88f8b8e089ab2583afb4f6de6/django_mako_plus-3.3.7.tar.gz"
+    },
+    "3.3.9": {
+      "sha256": "59a1428f954bd48e3ce663a488e886e454faafca5d29e74c432a65272b6a1c4c",
+      "url": "https://files.pythonhosted.org/packages/96/ee/ff2b9d31bac2bead38d63646837e19fc3cf6f3f71bca560bbe0760b6f77d/django_mako_plus-3.3.9.tar.gz"
+    }
+  }
+}

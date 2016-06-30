@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "2.0"
+  ],
+  "meta": {
+    "description": "Decorator for profiling individual functions and converting profiling data to the kcachegrind/qcachegrind format",
+    "homepage": "http://pypi.python.org/pypi/profilestats",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "57fbbad5428f93c86f0b6f085cce2c78b97b79d7d7079052afbbd3e92607c5ff",
+      "url": "https://files.pythonhosted.org/packages/12/19/12336051201b7f08c476720f7ab42b22c7951c6b11994c67dc329b3e5239/profilestats-1.0.zip"
+    },
+    "1.0.1": {
+      "sha256": "e9fcc1ccd5ca5e71dd12b2f3e184b4689d54bd7d267f32a071dbc1385de2b9d0",
+      "url": "https://files.pythonhosted.org/packages/dd/c8/2c913a43151195c02ac770b6e2f5f7f83b8c381c1f6c33b09e800e8e007b/profilestats-1.0.1.zip"
+    },
+    "1.0.2": {
+      "sha256": "1c3f0df0ba29ee054ccc794d299497113bbaaf48c71070616abcb2e7f3cd0c33",
+      "url": "https://files.pythonhosted.org/packages/1a/74/473b91a138fe81d83685d681b7f80e9ee459c7e1d5461e0f9471432a3962/profilestats-1.0.2.zip"
+    },
+    "2.0": {
+      "sha256": "d57233fef165d2ca87cbb0d4756bafa34e8c83a717637e461631780b3a6c21de",
+      "url": "https://files.pythonhosted.org/packages/c1/c1/20811cf3f22c5187adb85f58f60a878121604d3544580c4ff24357ec42cf/profilestats-2.0.zip"
+    }
+  }
+}

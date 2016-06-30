@@ -1,0 +1,188 @@
+{
+  "latest_version": [
+    "3.2.0"
+  ],
+  "meta": {
+    "description": "Python Imaging Library (Fork)",
+    "homepage": "http://python-pillow.org",
+    "license": "Standard PIL License"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "be8643522995b49682208c065bf41d46944befe0413a90c279220a324e761f26",
+      "url": "https://files.pythonhosted.org/packages/72/e6/692512c5d9dc97f83a91f8a75806e0b9e910ebd8d6b0b3d6ca9a249c1e26/Pillow-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "e17a3264df5abdfb944307cc67d4ad94b58bc49fc6df80844867d3c8c9128f16",
+      "url": "https://files.pythonhosted.org/packages/ea/dd/20ef35448408caa380cc4e570aaf6c4c4b1655a508c128ec4342e5f22d0c/Pillow-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "96f8b8771524405fb2081ba12382d98bf39b7ec12473d2aea3251cbda646f885",
+      "url": "https://files.pythonhosted.org/packages/ee/b9/e33d12389365e6682cc76bc3ddfd319df40138e916584185ab40f75f1acf/Pillow-1.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "d07a6e160ace99220c18894758d479930077ce95a690240c3b9add642df1f080",
+      "url": "https://files.pythonhosted.org/packages/d3/6e/5790f95cfadad9de79f9b36c9f610d76dc0288dddc8ce55f72dbdf533b62/Pillow-1.3.zip"
+    },
+    "1.4": {
+      "sha256": "a1fda49029a7cdf551b7f73190a9a095678e157ea389e117794c805a12e8cb2d",
+      "url": "https://files.pythonhosted.org/packages/97/b1/bc176add46c7a3c576922aab552a371354793eceb867b63d0b97060e5644/Pillow-1.4.zip"
+    },
+    "1.5": {
+      "sha256": "dcf33a1b239f7e4962472a57efea84a2320d7b259f5d73b4ac79bf906634775e",
+      "url": "https://files.pythonhosted.org/packages/42/38/c205550a701e3ac790992bf3d124b3514a0d1496d898237fec4057e63985/Pillow-1.5.zip"
+    },
+    "1.6": {
+      "sha256": "aafb63bf7252dd93b5930bb511517624c38be8772fcedb5bf7a61a6cac5e9a16",
+      "url": "https://files.pythonhosted.org/packages/35/80/58ec9cfbaa3a71707f5fe4930c6591f08ba4135bf18375419fa1eb8082f2/Pillow-1.6.zip"
+    },
+    "1.7.0": {
+      "sha256": "9e741cacc768b6e215850e9c6acfab7b96dc4c727eb0f0a0fd4df4a47364372d",
+      "url": "https://files.pythonhosted.org/packages/d2/af/3880d7265947e429923f38e5f298113cda2eebc3980cb06fcf6d68d4a6bc/Pillow-1.7.0.zip"
+    },
+    "1.7.1": {
+      "sha256": "3af01f698883a09ed3aae1724b39c970023ba8c78b2fc260946f90e8c531d896",
+      "url": "https://files.pythonhosted.org/packages/70/6a/b30dc124066520f9afeaf42b07e5f6c04521aa0d30389edb4bb8058ba91d/Pillow-1.7.1.zip"
+    },
+    "1.7.2": {
+      "sha256": "359ce254555feeafdd98fcaa096893627a7e38b79642dc31f2a35332087a3bfc",
+      "url": "https://files.pythonhosted.org/packages/10/53/ec3ad7422503a25d465f417ff204482079f094f771ebb2cb45b00ad1e3e6/Pillow-1.7.2.zip"
+    },
+    "1.7.3": {
+      "sha256": "ba299e2c9506652fb18e9f8a0364f1a32dd2da2f0ded37ab778b719be3438cb5",
+      "url": "https://files.pythonhosted.org/packages/18/a5/2587cd64cc0a779ee7d34d165f0d8d1b80b094f334aea87a0309eafc67af/Pillow-1.7.3.zip"
+    },
+    "1.7.4": {
+      "sha256": "9aa3b69dd6b9493b100fc8aadaa02e36e15602d841d79f809d727e1f183af8e8",
+      "url": "https://files.pythonhosted.org/packages/14/9c/ba18bf24876bcb5d0cc674f08ff48a1a4ad8f5af91a5de0caad5fc0d2e9e/Pillow-1.7.4.zip"
+    },
+    "1.7.5": {
+      "sha256": "3f7e97db13265e8c7c8e3bb60d7ad92a404034039e5448587dc6ec0e2b7d592c",
+      "url": "https://files.pythonhosted.org/packages/37/80/f793f16ec5fe22ca0678e222024bdb945964d85aeb4c54f2e626406f8e4b/Pillow-1.7.5.zip"
+    },
+    "1.7.6": {
+      "sha256": "b71c975984299a435d485fa23f61763b1ae0b576098d954fef2142bda035a49c",
+      "url": "https://files.pythonhosted.org/packages/12/bc/32ecfd172731f2193dd8ed01fc4c707be93016520a4c6469078352d2c530/Pillow-1.7.6.tar.gz"
+    },
+    "1.7.7": {
+      "sha256": "4e9a17d62bc221ed932a3bccdf710331f014e0432b61e91e7222b7c93e91de48",
+      "url": "https://files.pythonhosted.org/packages/77/93/d6eabe91dda55ac924c95763568d596e3e6082950a04c24fccf32c12324c/Pillow-1.7.7.zip"
+    },
+    "1.7.8": {
+      "sha256": "907f5342b1df1d277dcc10df2aeabc61099e5a07e0676b9fcd1bb7379890c0ee",
+      "url": "https://files.pythonhosted.org/packages/89/ac/e90ae7f39d78ec10c0861915a7792c6486a90c8909942aef5fcb437dbf84/Pillow-1.7.8.zip"
+    },
+    "2.0.0": {
+      "sha256": "3e70c8f13675284166e4a8d8899107bf67febe676b893eb8d88785c24cca4c15",
+      "url": "https://files.pythonhosted.org/packages/2f/2b/8d8d78b87be8f62ae9244e79d57e32b0fc78ff23ac5ecd75642b9528d948/Pillow-2.0.0.zip"
+    },
+    "2.1.0": {
+      "sha256": "c733088b9a6f856386d3fcff8c54b3c1bc623a69f7481348fe36320513d98076",
+      "url": "https://files.pythonhosted.org/packages/3a/e5/818487cf35069d1da6d78d87cada08ddedb3deb665094b95a49af16ba917/Pillow-2.1.0.zip"
+    },
+    "2.2.0": {
+      "sha256": "a66e71fc18247f0cd213ea829ac55901c3ad4c49c183ec8c98cc8ffaf0196644",
+      "url": "https://files.pythonhosted.org/packages/d6/bd/881059152eb70ab98e2fa49d9e479059ad58965610edf038f07e8f5990bc/Pillow-2.2.0.zip"
+    },
+    "2.2.1": {
+      "sha256": "a8440145d6e08db16f2a03b134b057c4524809e18a06cc8fe0e5e885dc4d8969",
+      "url": "https://files.pythonhosted.org/packages/b4/6d/f313f1bff98f6d1e353918e0a4e8e17a22af86f0ad10c231228342edf74d/Pillow-2.2.1.zip"
+    },
+    "2.2.2": {
+      "sha256": "db49a634e981916c64954ec8da3142b88f1769608550b870b9184986db82a421",
+      "url": "https://files.pythonhosted.org/packages/90/6e/bd5decf0621e47c635448bf45760c06c473ca36fe6152f06dfb6ffa0518e/Pillow-2.2.2.zip"
+    },
+    "2.3.0": {
+      "sha256": "b38e7e32401ae2d949cb4b82c6388cd13e697d1e2f8a1bffce3b834d00fbca13",
+      "url": "https://files.pythonhosted.org/packages/25/b7/b9da63e4d7fcf6efb04c001df1a4d035dbeeb6846d299696a6fec354531f/Pillow-2.3.0.zip"
+    },
+    "2.3.1": {
+      "sha256": "014b9277c76e1e57ea3227ca9fb36f3d9ca3d2680cf11a01f4f900048c68c75f",
+      "url": "https://files.pythonhosted.org/packages/b8/55/c037195a6a48f9308191a53424343181772ad5c5e5d8bd8ac5c759766094/Pillow-2.3.1.zip"
+    },
+    "2.3.2": {
+      "sha256": "06956b4fdedef4190612abf803345b1e5944eb6a494977186ea1d2505129e40d",
+      "url": "https://files.pythonhosted.org/packages/d5/0e/2bc47b035c748b69d4869e3c576220225437274430c45dbac45ee81d7865/Pillow-2.3.2.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "2865c68b3a5638466b1837bf4a67c447e0cfdf7463309a068aad0e90aa03f58a",
+      "url": "https://files.pythonhosted.org/packages/af/0a/be6e83c5ffcd0c9fac582048543eef0bd10e432601ca0d334553cf46e69e/Pillow-2.4.0.zip"
+    },
+    "2.5.0": {
+      "sha256": "32776f3782d5321dc2720a7cc01497c47ffa4d0e07e7f762d8d9bc2d4e2e9d95",
+      "url": "https://files.pythonhosted.org/packages/c9/08/9e9906330f31752a1974d7295335581de0bc2d5caa9022b086b9f4eb084c/Pillow-2.5.0.zip"
+    },
+    "2.5.1": {
+      "sha256": "f101893b44af53e4e534cf367b7e73325c09733a047e969d99029eff88e5e866",
+      "url": "https://files.pythonhosted.org/packages/9f/95/0d9e63f043a77e298338c2e2c091084dbb370a5167dfdb4c67df45a19434/Pillow-2.5.1.zip"
+    },
+    "2.5.2": {
+      "sha256": "572ea8fb67ada4d6afae7dcc7d8d5246b04af7566ad08566350ebf054cb2f4dd",
+      "url": "https://files.pythonhosted.org/packages/d0/6d/bebd72e977c8c185319290450379719c0725c33fb8ab8024f28cb7f8e4f5/Pillow-2.5.2.tar.gz"
+    },
+    "2.5.3": {
+      "sha256": "62ff6c6cb88d4a1d6e856315b1691186b06cb923f18fde86d6abac9eeb9096d1",
+      "url": "https://files.pythonhosted.org/packages/2a/d9/401599ebb738ed0704ca3a58a620e18e0719bbedff3a65dc350732c0d9be/Pillow-2.5.3.zip"
+    },
+    "2.6.0": {
+      "sha256": "18a7d3bfb96bdbbf018744a11bc925b502eb1cfaef47436c6bc6ab5179e4b581",
+      "url": "https://files.pythonhosted.org/packages/d6/f4/662d92f5ff8e12d3664b6db43f0bd4dc78c7354f5f9e7fddb00d681fa258/Pillow-2.6.0.tar.gz"
+    },
+    "2.6.1": {
+      "sha256": "f94342cf8aad63079b3ad8230e234060694a07a166a3a338421f4e3e0e338347",
+      "url": "https://files.pythonhosted.org/packages/9f/53/9dafa3a48ffa25f4e22f40df880b58b99ad53648f0990caf09b1824d5db2/Pillow-2.6.1.tar.gz"
+    },
+    "2.6.2": {
+      "sha256": "6c9b3708b1a35868e5417c04175e4e36d8851819fbdb408bff33ec418e1d5d17",
+      "url": "https://files.pythonhosted.org/packages/90/30/dbbf2029595473b141bec8079289ec1a0a2bcb6abaab58deb93d1f281a27/Pillow-2.6.2.tar.gz"
+    },
+    "2.7.0": {
+      "sha256": "26e9320e73f5821826b6b2408a3bff0a8c29e45159530069a117efd39ef619f8",
+      "url": "https://files.pythonhosted.org/packages/1e/0b/37d3e97928a480d21dcbabebe11b12288b50d9d8448ab760fcde8907141f/Pillow-2.7.0.tar.gz"
+    },
+    "2.8.0": {
+      "sha256": "0cf25b043e0a4c972357402ef395a756bc2c846560344d95adc2f0c5a9e17c17",
+      "url": "https://files.pythonhosted.org/packages/60/50/88af6598d5b8c77ad3649a5c55491a2bac21a304124c43792505b7b6bd28/Pillow-2.8.0.tar.gz"
+    },
+    "2.8.1": {
+      "sha256": "8760c118a0215eba163f7782110e7efcdbb15f8a7321f3f61c5ac0dbbb12c996",
+      "url": "https://files.pythonhosted.org/packages/85/3a/6308c0bfe01410e38d576e6656843398aaa81d953660e8010e0a4727d553/Pillow-2.8.1.tar.gz"
+    },
+    "2.8.2": {
+      "sha256": "2caf5b992bdbe67e05084658b783d4dcb9cf7becda3794d95c89e0575c453c3a",
+      "url": "https://files.pythonhosted.org/packages/fb/10/3d578d949308df84075f298c4cc661e9c9a80a1e6c56c7a112e3311cc8f2/Pillow-2.8.2.tar.gz"
+    },
+    "2.9.0": {
+      "sha256": "0f179d7e75e7c83b6341b9595ca1f394de7081484a9e352ad66d553a1c3daa29",
+      "url": "https://files.pythonhosted.org/packages/62/7d/a6decd77e926197621ca13f63e4f37333a462e1be18a8b5928b692f7ae24/Pillow-2.9.0.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "ad50bef540fe5518a4653c3820452a881b6a042cb0f8bb7657c491c6bd3654bb",
+      "url": "https://files.pythonhosted.org/packages/63/13/5c9ebe1d9e66cd4c7da528151c440871228d275945ad91567be5e9359680/Pillow-3.0.0.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "e15277f0c46347af1d5686c510c80c0a4c4fa4833493e73066f7bb8c1ed1b003",
+      "url": "https://files.pythonhosted.org/packages/9c/99/f7fbf76e39cab684161243d6ce6c757ca9a06768d117bc0be4e9fa130d7e/Pillow-3.1.0.tar.gz"
+    },
+    "3.1.0.rc1": {
+      "sha256": "3e92663882d6b08b2078d6533ec8aaa416a96c777eada425f7305cb6144b1e62",
+      "url": "https://files.pythonhosted.org/packages/91/a8/8ea7bbf6e950531509063b08b30595940f8aef4969becfdb2b81f2941b2d/Pillow-3.1.0-rc1.tar.gz"
+    },
+    "3.1.0rc1": {
+      "sha256": "73393141c9bede1f4ef05a062bc9c554b65dcdeebd14a482bc24e4947e72f445",
+      "url": "https://files.pythonhosted.org/packages/78/31/c4b9378ddc03a194d0810c0191f5014254d98dafbdd83adea8772d404b1d/Pillow-3.1.0rc1-cp26-none-win32.whl"
+    },
+    "3.1.1": {
+      "sha256": "486f4ccddee09429cb1c63ea56c02894aecf9d69acdcaf006c53835df2549fff",
+      "url": "https://files.pythonhosted.org/packages/44/4c/c2adc9c7cb3b061d80b8680c006488e2fb0db8c01deca719962d61d46e5f/Pillow-3.1.1.tar.gz"
+    },
+    "3.1.2": {
+      "sha256": "c593622445503ae1ee361d3a6bb40794e043b43d00c96fcb298ba43ecd375905",
+      "url": "https://files.pythonhosted.org/packages/8f/79/b4706a4269f27c3474a8bb05e94fc322da5709ac75739c3b42beae5f8164/Pillow-3.1.2.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "64b0a057210c480aea99406c9391180cd866fc0fd8f0b53367e3af21b195784a",
+      "url": "https://files.pythonhosted.org/packages/e2/af/0a3981fffc5cd43078eb8b1057702e0dd2d5771e5aaa36cbd140e32f8473/Pillow-3.2.0.tar.gz"
+    }
+  }
+}

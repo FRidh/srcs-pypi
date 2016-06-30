@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Take a HTTP response from requests and adjust the return code based on ISP suspension messages, CDN overload messages and similar",
+    "homepage": "https://github.com/chorsley/requests_reviewer",
+    "license": "ISCL"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "deb4ac307179f2fea2965b29082ad845a0fb0a28c4b7742055bb803e08fd5b47",
+      "url": "https://files.pythonhosted.org/packages/5b/74/96c5de0d6f1ffb138fbccd3e52c3974928cadf36370ed6712d788189f452/requests_reviewer-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "6477c19e9550ddad8db66dfe733376d14f6bb76f9811f9c36eb2a781963ac925",
+      "url": "https://files.pythonhosted.org/packages/8b/8c/0a6f8e23bcf4c1d0d9de192e747bd6472fb02e0233061533a25fb669c6fd/requests_reviewer-0.1.1.tar.gz"
+    }
+  }
+}

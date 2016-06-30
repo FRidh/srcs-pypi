@@ -1,0 +1,16 @@
+{
+  "latest_version": [
+    "0.2-Zope2.9dev"
+  ],
+  "meta": {
+    "description": "The Zope ClockServer product provides a mechanism for users to call Zope object methods without the use of an external clock source (e.g. cron/wget)",
+    "homepage": "http://labs.menttes.com/zope/products/clockserver",
+    "license": "ZPL 2.1"
+  },
+  "versions": {
+    "0.2-Zope2.9dev": {
+      "sha256": "2a4209074c2c6f8c12a396665162c154e8ba14ba82131d539855eb469290333d",
+      "url": "https://files.pythonhosted.org/packages/6d/1b/0cba68d5dc3ddc11d179b4ed3f24104ec899537c9032494b4f6ce87a0700/Products.ClockServer-0.2-Zope2.9dev.tar.gz"
+    }
+  }
+}

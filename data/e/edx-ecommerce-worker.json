@@ -1,0 +1,36 @@
+{
+  "latest_version": [
+    "0.4.0"
+  ],
+  "meta": {
+    "description": "Celery tasks supporting the operations of edX's ecommerce service",
+    "homepage": "https://github.com/edx/ecommerce-worker",
+    "license": "AGPL"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "a2f3a5f45196f01b27f6b220d268d71a422b7908fc7384a90d0820357da06dd5",
+      "url": "https://files.pythonhosted.org/packages/ef/70/a16793793b3f0e4832aac59a93e1ace15111fc90c8718e8c18786a82a0db/edx-ecommerce-worker-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "90f64cdf0751387d46d773bde982ab8ddd1034761b93f2c1169035f598a9c05b",
+      "url": "https://files.pythonhosted.org/packages/d8/37/1131e3e0d87e0287e4f54f83442362f396de3f1d48adfab27b1b3d1660f2/edx-ecommerce-worker-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "feb7fd7bc816e7b3233e1a643dd56f8aa858bbb882c840d0072602bff509e96c",
+      "url": "https://files.pythonhosted.org/packages/2a/ef/a82063d8af0a39509730c326ef48862ab83f3e7f9e143090ff33a488d21e/edx-ecommerce-worker-0.3.0.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "d3cc39119e36f0afa98efca593ff6478da6f6ada60526322d22047b18d836f18",
+      "url": "https://files.pythonhosted.org/packages/f2/4a/e5516f32ad28ae679b4f97236003dde279d3b5cc557b71ed87c2cdadeece/edx_ecommerce_worker-0.3.2-py2-none-any.whl"
+    },
+    "0.3.3": {
+      "sha256": "80aaab0a93aa559c712ac93d90dc9e73bdc03d6190efda71b14bcee6197ee508",
+      "url": "https://files.pythonhosted.org/packages/2d/5d/e19fbda687b90b57a9567767d04346262d297c457c3f3f705cd6db3c6604/edx-ecommerce-worker-0.3.3.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "9c8a251a13a99f7fc770af1e1977b0847c23014234087c5e6cc47a531ba3c0d8",
+      "url": "https://files.pythonhosted.org/packages/32/80/49873b71bfaf6bde09e397162e4e1e69ac83d9946e4574e389888105c2ad/edx-ecommerce-worker-0.4.0.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "1.0.9"
+  ],
+  "meta": {
+    "description": "Coroutines for Twisted with tail call optimization support",
+    "homepage": "http://github.com/eallik/txcoroutine/",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.0.7": {
+      "sha256": "c08e231e37002e152245a581d67889f866864766312f0912879b2aec756daffc",
+      "url": "https://files.pythonhosted.org/packages/57/b9/dcf4b96accf0fbf3c1be7bd0f64f7d27547c4603a0eff01428f4c3caad07/txcoroutine-1.0.7.tar.gz"
+    },
+    "1.0.8": {
+      "sha256": "548bdb228b10a7d007c35eed84e1a30659ce861e06ce457cc309dff428ab8a3b",
+      "url": "https://files.pythonhosted.org/packages/d5/d3/513f26ab839409d1e503491fa02e410868d72d487958c59d12909e1b0298/txcoroutine-1.0.8.tar.gz"
+    },
+    "1.0.9": {
+      "sha256": "70e5091933fc2d46c44d94bb7b7bb06cf74c4e194ec4d452e283b442a5cfa697",
+      "url": "https://files.pythonhosted.org/packages/09/7c/c98c03a4b96f3324551366abc99376e64d3aa2865aa92babd5f99153619d/txcoroutine-1.0.9.tar.gz"
+    }
+  }
+}

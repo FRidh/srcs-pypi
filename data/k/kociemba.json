@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Python/C implementation of Herbert Kociemba's Two-Phase algorithm for solving Rubik's Cube",
+    "homepage": "https://github.com/muodov/kociemba",
+    "license": "GPLv2"
+  },
+  "versions": {
+    "1.0.2": {
+      "sha256": "ba16e89168519c8a2bf47600b9df7fce0482cfc29b7788672124e3c2e3b6c67b",
+      "url": "https://files.pythonhosted.org/packages/18/2a/eb6ef41adf3bac06d43922ca93cbba625a0c58989928c1af532d9bb0284b/kociemba-1.0.2.tar.gz"
+    },
+    "1.1": {
+      "sha256": "02f71bd5396a5d657d3546c7340e51767f69663a8391af7f446dd1f0ab8b934c",
+      "url": "https://files.pythonhosted.org/packages/5b/f6/c676a86a7bd0ad8067df21e2c4fcb51dabd991c09d075b1a25206b205942/kociemba-1.1.tar.gz"
+    }
+  }
+}

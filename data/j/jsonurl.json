@@ -1,0 +1,16 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "A library for serialising and deserialising URL query strings which can represent\n    hierarchical data structures which can also be represented as JSON.  \n    \n    This is convenient, for example, if you wish to have a web API which takes JSON \n    objects as a POST body, but which may also need to respond to GET requests for \n    which a more readable set of parameters would be appropriate",
+    "homepage": "UNKNOWN",
+    "license": "CC0"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "277c5206f8d8bde5d624e3832c64064513d55b24a87f255ddcaca4dfc03e6028",
+      "url": "https://files.pythonhosted.org/packages/32/e1/8fd6eae5ada3ce416ed8a8cf6218b986099731b66536c12ee2fda018339c/jsonurl-1.0.0.tar.gz"
+    }
+  }
+}

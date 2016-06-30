@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Wraps the open-source Stockfish chess engine for easy integration into python",
+    "homepage": "https://github.com/zhelyabuzhsky/stockfish",
+    "license": "GPLv3"
+  },
+  "versions": {
+    "1.0.1": {
+      "sha256": "170b3fde11c4a2d2738e33b937362b67a56dcefc9a8e3e46d8e428bd4ca618be",
+      "url": "https://files.pythonhosted.org/packages/fa/3c/96ba073fda3893127a5562976dd0856815c08a6203000dbf1f17476b91e1/stockfish-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "a61d6e1cb4d825ad6dce2dd75b900eb6babd487892ac58c3f54dc9a0c6b7e7c3",
+      "url": "https://files.pythonhosted.org/packages/fa/5a/cef656a6c3202b8ca43db42f8eda884cb49e14cd2fb5a5474297bef48cff/stockfish-1.0.2.tar.gz"
+    }
+  }
+}

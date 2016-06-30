@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.5.dev"
+  ],
+  "meta": {
+    "description": "A collaborative blogspace for constructing and publishing semantic knowledge networks and ontologies",
+    "homepage": "http://www.gnu.org/software/gnowsys/",
+    "license": "AGPL 3.0"
+  },
+  "versions": {
+    "0.4.dev": {
+      "sha256": "b604ad3ca907fcf1f70966d4515028d2a309761c7d0263349eace5a1ec82e8b3",
+      "url": "https://files.pythonhosted.org/packages/3d/7f/7c1c53bcc672c8f39f83e646844b4468dc25bcffcb3bd8d88189a56ff6ea/gnowsys-studio-0.4.dev.tar.gz"
+    },
+    "0.5.dev": {
+      "sha256": "04963e98b3e47780980ff33a0c432a37f0c159d0f8a328e5f451413310e10ea0",
+      "url": "https://files.pythonhosted.org/packages/89/f3/60667890ffa96cc7a7cf75726c88db457ed17b86eb0ac270f986340770b8/gnowsys-studio-0.5.dev.tar.gz"
+    }
+  }
+}

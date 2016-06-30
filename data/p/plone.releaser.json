@@ -1,0 +1,40 @@
+{
+  "latest_version": [
+    "1.5.3"
+  ],
+  "meta": {
+    "description": "Plone release management utilities",
+    "homepage": "https://github.com/plone/plone.releaser",
+    "license": "GPL"
+  },
+  "versions": {
+    "1.2": {
+      "sha256": "33f96ab210fb57b490c1ef2ad82c65bcfa6e45088d278e97060f10582e83fec2",
+      "url": "https://files.pythonhosted.org/packages/df/ba/1ef36255b7fa3b7de61ef6877e38eb3da6a26e4d31a74cd5b00999f2835a/plone.releaser-1.2.zip"
+    },
+    "1.3": {
+      "sha256": "7796fa02c2fbda6ea282a0a5b74e1329d5173657970758b05470514ddf49b0ad",
+      "url": "https://files.pythonhosted.org/packages/86/b5/5aae991ac91e1b45d1116cb7553d9704ee900230deb34f54ab0cd8320641/plone.releaser-1.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "f55703a39aa4257e5ee8597398ad05628f0cb082ef421683a2e9a8ed452d9b99",
+      "url": "https://files.pythonhosted.org/packages/5d/a9/88d6329219b214b9b818d5ba1612d633aa20ed73e90cbb8faa42f84530a5/plone.releaser-1.4.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "0a46e9f877d709f0e96cd9282eb14e1725958eac18ee1e2889f977fd4bf113d3",
+      "url": "https://files.pythonhosted.org/packages/c0/e5/27cdec65de5bbd95f920ec4a8f21c0cb0b9e00aa5c4e7793246ca6be567f/plone.releaser-1.5.0.tar.gz"
+    },
+    "1.5.1": {
+      "sha256": "8152e7c69aad0cfba61968a0154d9e4981c65b57afe3c70dd85402bb94655e10",
+      "url": "https://files.pythonhosted.org/packages/33/99/5787fcd844b8e2e9eccfd35a126c7a21d1319db4b7b793da49c6c81bae5b/plone.releaser-1.5.1.tar.gz"
+    },
+    "1.5.2": {
+      "sha256": "e4ac2d0bd2acd561c3a36144506ea458623a0be01ae7fed37047186bce024473",
+      "url": "https://files.pythonhosted.org/packages/2e/56/8c0992344efe901a034c4589b13815f3b53335628b1a6f72b77598a9297c/plone.releaser-1.5.2.tar.gz"
+    },
+    "1.5.3": {
+      "sha256": "30983ae2d1340c4402da67eeff0c60b051d0e7c886c9f51cd07627879af0c590",
+      "url": "https://files.pythonhosted.org/packages/bf/f7/1551e7276d101e296a992f634369739b6869baeba3396f78e50579288a1b/plone.releaser-1.5.3.tar.gz"
+    }
+  }
+}

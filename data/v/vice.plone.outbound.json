@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0rc1"
+  ],
+  "meta": {
+    "description": "Plone package for outbound syndication",
+    "homepage": "http://www.openplans.org/projects/vice/",
+    "license": "GPL"
+  },
+  "versions": {
+    "1.0a1": {
+      "sha256": "f97f3768163f3c1df27768eef779ef6fb54437c7f8ab6adcbfdd26bda04d9891",
+      "url": "https://files.pythonhosted.org/packages/5d/88/f50e1473968e8dcb1e2c03b0b8768743c2679b85fb83570a2de3cb18eeda/vice.plone.outbound-1.0a1.tar.gz"
+    },
+    "1.0rc1": {
+      "sha256": "e23a1c43d63d27d801ed5974094367c86f62a2ad7ff13a9926274686ae96d685",
+      "url": "https://files.pythonhosted.org/packages/b6/25/39104ea30509af86b9300653a0438871de710663118d16b5fa07e356e7bd/vice.plone.outbound-1.0rc1.tar.gz"
+    }
+  }
+}

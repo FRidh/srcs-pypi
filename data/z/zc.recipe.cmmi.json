@@ -1,0 +1,84 @@
+{
+  "latest_version": [
+    "1.3.6"
+  ],
+  "meta": {
+    "description": "ZC Buildout recipe for configure/make/make install",
+    "homepage": "http://pypi.python.org/pypi/zc.recipe.cmmi",
+    "license": "ZPL 2.1"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "cf67b027c7e638b0f45a785fa850b1dbeca54c6eaf40fb46d03bcdcd3f0b442d",
+      "url": "https://files.pythonhosted.org/packages/0f/58/8cff77b72c7d11e4278e9826ea77de4f30c310d427667a2ddca868fc6d97/zc.recipe.cmmi-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "f243c9d9b0d7a46a48cb5b3298828f4d94123a8ff7cf28bb141be141296f5aa9",
+      "url": "https://files.pythonhosted.org/packages/7b/1d/40e83a33f3f8afa44e6bf96b3503e83cb8c78fe035079a8c0fd92efdeaa7/zc.recipe.cmmi-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "7509643a87ae78596b244af0c6da88454fd099d686bc8612a4b79d41da16b004",
+      "url": "https://files.pythonhosted.org/packages/2f/52/b1be059018390d992de6e387e3af42f8906a4a1fd3e4a501b190f74683d9/zc.recipe.cmmi-1.1.0.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "e4ec36e547b33311e04a5873caf272e0d6be3b4f185f4ac6d42ec507ba60864c",
+      "url": "https://files.pythonhosted.org/packages/6c/92/1ce6abfc374941d2cb5933d8826c2016b178076cb0a6103e3abcb7039b96/zc.recipe.cmmi-1.1.2.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "90aa8378f673161de28f89172f383f09f2e0f1b9e9de930e45a284e404a32084",
+      "url": "https://files.pythonhosted.org/packages/18/99/4a31db8e78b4328ca5334fdbf8921698b1e9940a178564d8350d1d014c26/zc.recipe.cmmi-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "f876b6c9e11e7800e4e72ccef0abe5cd99b9999517986496bffba19786d3188d",
+      "url": "https://files.pythonhosted.org/packages/ed/6d/ce04481c02953f3b224ebfd0f9bdbcd83242f50dbc148b015e7ada332aa6/zc.recipe.cmmi-1.1.4.tar.gz"
+    },
+    "1.1.5": {
+      "sha256": "a2726b8bf86a8bca1cf1ba338c3aa84a0d6b95b375fe0932218cfbe74f85f36a",
+      "url": "https://files.pythonhosted.org/packages/31/8b/88f245965cef7c535f835f1361b0d0c77425561c457ab099b85891e70e03/zc.recipe.cmmi-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "b8ef22eacfe04ef7c2f47e9a31b1103a06a64f1fd752038a3eed9bf670bfb74b",
+      "url": "https://files.pythonhosted.org/packages/d7/d7/583ec660e377674b5313ac5c0bdcdeed6c3254912cca5e93b3bbd708150a/zc.recipe.cmmi-1.1.6.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "32f3ebc439b8fe3b2ea22f3c35f8baa6e78516291e408ddbc673432c79018c37",
+      "url": "https://files.pythonhosted.org/packages/c8/b5/5670d7cf2ff70eb18965d67e9dace326ab4e5a867af92935476f612aa9cc/zc.recipe.cmmi-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "89754515758a5e7d601478978244f4a8afddf74af4fb94cab4d95fd965fdfe39",
+      "url": "https://files.pythonhosted.org/packages/f8/b6/ad63be61d6a84b68af96d8806d30dd9bb716abc9cade36ebd6bcf8bcefa7/zc.recipe.cmmi-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "7e241ef2fe2a40a295f1f304e59943265c479b1328af3e15da2509c4343a1707",
+      "url": "https://files.pythonhosted.org/packages/bc/40/da7c2d9842f330231cba9ce473a4f5f1aa2adeaa4077a29fe7fbfc615e64/zc.recipe.cmmi-1.2.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "4b5d24f93828a3d8c6138de66843d504424a3196baed8ac9c8d5fcea577a808a",
+      "url": "https://files.pythonhosted.org/packages/da/07/f848d4424a50f80a9c60ab21dbf2490738a93fcb96ebe90838eb591afd4f/zc.recipe.cmmi-1.3.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "3f77351a1eca3d188a60c28cdaeec5b463dab1ad7aebc212621d0ed4f078cf44",
+      "url": "https://files.pythonhosted.org/packages/66/7f/960caca59b6ead57f2eeb2f1738663e4766fb5a5a4b9ad8597c7c218a78f/zc.recipe.cmmi-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "818602eae2904d3b1a349a5f82a85df092583b2d941114c061de6fd95e90721f",
+      "url": "https://files.pythonhosted.org/packages/25/80/778f14af0cde21fea350c112c352d0cfb1ebcbca28738572938fd2e45193/zc.recipe.cmmi-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "57dc3598ab341e865bcccc418842610d3ccb09f4b6793a6b311c2c69fa3ce204",
+      "url": "https://files.pythonhosted.org/packages/86/98/2e1653dc378227bafe5f84a4c4e2ad6d5446c902df2383c6155b1097690e/zc.recipe.cmmi-1.3.3.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "330dd89dd5512ffd440ef330310c0d40ea975c608550dc13c16e19df2f336a31",
+      "url": "https://files.pythonhosted.org/packages/18/c1/582e9a4e8ccd94e0e3c03f7ad7d02c76088c0b91c4bf88d26e56d6605843/zc.recipe.cmmi-1.3.4.tar.gz"
+    },
+    "1.3.5": {
+      "sha256": "7f5b976b90c63300673747af3c6f8ee539dd7d1b75e6f276f5ba212f22056275",
+      "url": "https://files.pythonhosted.org/packages/ee/44/d9baf25a6b0832efe3910ea7a2b0e6a8b7f0e25d1a98296e89c7449df05e/zc.recipe.cmmi-1.3.5.tar.gz"
+    },
+    "1.3.6": {
+      "sha256": "cf1f0a61c48f655793ef5ce38fbac1aa6e6b5dec950c989bcf465c6968a05fdd",
+      "url": "https://files.pythonhosted.org/packages/56/14/d3da592d8dbc34bb1b464275b5a7fa608b0ec917c7523ea4a8c835b884b4/zc.recipe.cmmi-1.3.6.zip"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.5.1"
+  ],
+  "meta": {
+    "description": "A library to convert between AQI value and pollutant concentration (ug/m3 or ppm)",
+    "homepage": "https://github.com/hrbonz/python-aqi",
+    "license": "BSD 3-Clause"
+  },
+  "versions": {
+    "0.4.2": {
+      "sha256": "90896874731d28fe8381e576200279604d74412b76cd071adc371fcb7b3b73d3",
+      "url": "https://files.pythonhosted.org/packages/e4/d0/79fcb1c566d7c665ccae7167faf14c8c518c211583227ed7cd78d8bc8306/python-aqi-0.4.2.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "9b10f83612fe2697ccd66d21e56f0bb110fcb9fb0cb4574d6b3c85a8c8dfaacc",
+      "url": "https://files.pythonhosted.org/packages/ad/37/80c032d17df9724c504d541994c3bfcf4ae4a860f6c212985b14c05e649f/python-aqi-0.5.0.linux-i686.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "860f0d4b2766233929425d903344d618e73e547e90032bbc440333b1db041692",
+      "url": "https://files.pythonhosted.org/packages/13/92/4a65905691f87197d977d2e63d7f0459ff9f2d939db4cde9b7b2c89bc9a4/python-aqi-0.5.1.linux-x86_64.tar.gz"
+    }
+  }
+}

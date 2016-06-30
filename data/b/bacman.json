@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Take snapshots of Postgres and MySQL databases and upload to AWS S3",
+    "homepage": "https://github.com/willandskill/bacman",
+    "license": "BSD licence, see LICENCE.txt"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "6d5054ea0c0383ad2f8c87c80404b65d3f3561a2145861f161bc9c1248a76701",
+      "url": "https://files.pythonhosted.org/packages/70/aa/5584a76f79f7f0a95bc18cbecf4f70716c15f3b6e9eb37b4c9ffe415ce7d/bacman-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "4dbc9b35a3de8d3c576105fb2c36a9650316efa51b10563908eea682b3b08f08",
+      "url": "https://files.pythonhosted.org/packages/36/3d/daf1f4933afd0e21150d8c5b7d0ac3a973a09238359dc61ddfa30bfbcf61/bacman-0.1.1.tar.gz"
+    }
+  }
+}

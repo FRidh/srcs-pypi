@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "SendGrid Backend for Django on GAE using async task queues",
+    "homepage": "https://gitlab.com/futurehaus/django-sendgrid-gae",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "79f7051b5917bca30dfc796f6b7e2777bc2afbf47fc73baf49d49aa61be206db",
+      "url": "https://files.pythonhosted.org/packages/80/23/3490d28b008f96870ddebc8568edc9f575de88ee69171c39439ec27f553b/fh-django-sendgrid-gae-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "0977860af79e914dbb2b9ef4901cb30763946135c41f0e37685a36680e953fb1",
+      "url": "https://files.pythonhosted.org/packages/85/25/54eba601990fd221ee5ab0f414815db297d63496827c3fa69bfe207b0c9b/fh-django-sendgrid-gae-0.1.1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "latest_version": [
+    "1.12.2"
+  ],
+  "meta": {
+    "description": "Python plotting library for collaborative, interactive, publication-quality graphs",
+    "homepage": "https://plot.ly/python/",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "92172f3b5a9ac6ef06f1db88c5c42978ab609ee341431f3733d68be94d62368f",
+      "url": "https://files.pythonhosted.org/packages/68/d2/b9152c267d924498f6e00e8416fda02a3d25a6e4c0df237d4026be64c4e7/plotly-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "56d0ed965a71c35232d98412b1bea48a7530f206d881e168764a5222e3a5efcc",
+      "url": "https://files.pythonhosted.org/packages/43/e5/7c34e7d40ee6b8dac7d7ab09808bbc71028cc259af6cad379390966fbaf1/plotly-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "41eabedf8da342fd5d220b9b6b4136514381ae2c3e8ad66dc3c2f09364924b0e",
+      "url": "https://files.pythonhosted.org/packages/1a/f2/9aefaee35905780794bb58cee0ac80bf0383decc4862db555d4b363a7dc3/plotly-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "aab7caf8095508d9e1b966c8d7abd300ac069b10ec2b47f4fb0fa88996a0e3f4",
+      "url": "https://files.pythonhosted.org/packages/9d/0f/32033ccb2adbaf60c13b094f228d2dd6e4116463b20646c625a59632ab67/plotly-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "a3333b7cb0d07811d3b269f45fc9733b8e78394a5e706315165e4bf0c55e8c54",
+      "url": "https://files.pythonhosted.org/packages/1b/00/c24f2b91415ad994e2d8c0ff0d5311c073deecc691526c76f8fb856d032b/plotly-0.5.1.tar.gz"
+    },
+    "0.5.10": {
+      "sha256": "0d54412520688e57427dffb05d1b025dd260a6a757f3a1159b6211539763a54d",
+      "url": "https://files.pythonhosted.org/packages/4d/0a/4e163f60bb1754fb58310b14d13c19994351d9e368aecdc844d90bf6611c/plotly-0.5.10.tar.gz"
+    },
+    "0.5.11": {
+      "sha256": "6a07f5fe37485c0ce2d0cd7c65a17ef714aadc6b24ebf2333ff693c31255a68f",
+      "url": "https://files.pythonhosted.org/packages/f6/96/1cb63c3e6ff3fa5ff181d5909c7eb8b887a4168fc6895c1c23012ba25eb1/plotly-0.5.11.tar.gz"
+    },
+    "0.5.12": {
+      "sha256": "2fb3d38bd16a57c3aec75f3ac6f109c1362b528d58b0f46c2f635f182ed38220",
+      "url": "https://files.pythonhosted.org/packages/af/90/640cf78574f916069c2ab33f3a980b19378091a27eff3f5d2173ae725d53/plotly-0.5.12.tar.gz"
+    },
+    "0.5.13": {
+      "sha256": "c54475a6241dea1f245f0fdcc8394e86c8b1e759c83e2e126d55c94cd85b49ba",
+      "url": "https://files.pythonhosted.org/packages/63/d8/71fd3d0e088c4ea89e2861fb0de67249991c36bcf9e231c9d98d852f0e53/plotly-0.5.13.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "805d31347cda430bc76a1dd9143860ede98c2a74e8d013c7be92eeef0cab9db9",
+      "url": "https://files.pythonhosted.org/packages/35/97/ac85a09ab84416f510a6118ffccf54b81d3c31403b64d0238d5d775d7431/plotly-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "9821daeaf0b68c4ea0ea9e8c35310346a586bd8571a1d90a19dfc970d2f41f1d",
+      "url": "https://files.pythonhosted.org/packages/89/ec/11452e52f81e09b17e880876deb81b49d379060e60d9b5191650dd01deaa/plotly-0.5.3.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "23ec78bb19bcfd4851d3c3c6e0c31db61bef2202dc1e68b0acc78b4850ddef31",
+      "url": "https://files.pythonhosted.org/packages/7d/ad/f7c002d78bb5df2a9b338325e5cd138356881e46853821c1628dadcfe383/plotly-0.5.4.tar.gz"
+    },
+    "0.5.5": {
+      "sha256": "47fdc4c8661a893d43d2550cb90a729dec581384817ee92e2131649d798fa95f",
+      "url": "https://files.pythonhosted.org/packages/88/80/ed64e5670177f0312dfb9c594f724f85a95f6d76d7053f1a94b5037610b2/plotly-0.5.5.tar.gz"
+    },
+    "0.5.6": {
+      "sha256": "a3ca7448eceedfbfdcdb05dac912977cce059ac03cca44ca8a0f78bf11a9e754",
+      "url": "https://files.pythonhosted.org/packages/c6/1e/25edc6a0c578b9baab702fcded82bca9623919f7b33b6988ca79ab9004a1/plotly-0.5.6.tar.gz"
+    },
+    "0.5.7": {
+      "sha256": "f70447612cb57d024d4550fd0492766955d47c14776b2c1654a67db5b47e443b",
+      "url": "https://files.pythonhosted.org/packages/95/13/16e8a3d8a59df3d22858539f489d1fe3d8c6b67b8bac292fe1bbaedf1521/plotly-0.5.7.tar.gz"
+    },
+    "0.5.8": {
+      "sha256": "cc2aeb71c901423b6449a0142a8b6ac30abff601a5a414ac2ce1924676fbc492",
+      "url": "https://files.pythonhosted.org/packages/5d/f5/dad969f3b1abdc5d58ed7023be110feaf874ddd4999ac6026ff1610ba2b2/plotly-0.5.8.tar.gz"
+    },
+    "0.5.9": {
+      "sha256": "a96f81a4e515eeca8847a12bcf1df0561b98facd8d730a992c4ac4fce1988cf5",
+      "url": "https://files.pythonhosted.org/packages/f6/a4/2d7d5c38140519d5569487c23d98419d721fd76a156797530f7164023059/plotly-0.5.9.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "fd0b3f7394248ff6a2d17063755d1edf7ad5a2b55b4629f2a326a8c08c6cb799",
+      "url": "https://files.pythonhosted.org/packages/8f/ab/f66a5eefd920e29696b683786350c5a30e99c6a6ee822d58fbbd1b358c07/plotly-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "3975137d302abe2e64019a5e56cb2466eb37153296beab35bc184d18d38efa2f",
+      "url": "https://files.pythonhosted.org/packages/20/3a/6f1f7cfebbd27dd4b4130b8008ae7ce25d07fb635da942652a4937580986/plotly-1.0.1.tar.gz"
+    },
+    "1.0.10": {
+      "sha256": "3d1d941278d1d213dd40cafd27ed8b5e18e41f565c480fb1e690f143f03a4564",
+      "url": "https://files.pythonhosted.org/packages/43/5e/9d8699abf6adeb91a4e1cc9f0a5460defb7a7de401efbb518093b438c31d/plotly-1.0.10.tar.gz"
+    },
+    "1.0.11": {
+      "sha256": "aea5e4dd25e3be6ca0758b07e1d05192314ccf066a0d25c3f601457f3d38ed77",
+      "url": "https://files.pythonhosted.org/packages/7c/66/57bd6e02b0a1a76c0056e6c53485ea4c1dd3f1f78636d8cfa9a399fe52f1/plotly-1.0.11.tar.gz"
+    },
+    "1.0.12": {
+      "sha256": "28bc88a615b351a6b5b1d9cb1859ebc6235e37ab475eade4cf5319fa336f3883",
+      "url": "https://files.pythonhosted.org/packages/47/e1/822ccd6b66f7ff2866de649a9032946f060626f80c920098855b98ccc4c1/plotly-1.0.12.tar.gz"
+    },
+    "1.0.13": {
+      "sha256": "bde3780580f710dc2322fba5ae06b0d97749e2f144cd88d21c829d9b4a9f0233",
+      "url": "https://files.pythonhosted.org/packages/51/9f/29556e29c16645543223b0de17dff5678ce139bf642e0e45a4cdf8a7f931/plotly-1.0.13.tar.gz"
+    },
+    "1.0.14": {
+      "sha256": "1700f5286c8a62ca7cfd9f31ad4c60cc03c3b2e05639390591658d61e05607d1",
+      "url": "https://files.pythonhosted.org/packages/d3/6b/3681c29861e70c0f6f27c6e1b488122cc4ac955fc1c698dc8d60fd8c8e96/plotly-1.0.14.tar.gz"
+    },
+    "1.0.15": {
+      "sha256": "fc2377b63dc60df977b6849cfdbe536e4845c8360caf70685dd90d327ece5f2b",
+      "url": "https://files.pythonhosted.org/packages/40/6e/3e733950087c5c9a6ac2cb1c606f9e91f15927b88d81241b074e6399ebd1/plotly-1.0.15.tar.gz"
+    },
+    "1.0.16": {
+      "sha256": "af34cfd63cf34069e15245660775d5c7a687babf48cf3639c00281df6522e0f1",
+      "url": "https://files.pythonhosted.org/packages/7c/8b/af5d9fb22fc6bf53f83655b1fa21148191bdc1f1ed70de9d2b1bc34a446d/plotly-1.0.16.tar.gz"
+    },
+    "1.0.17": {
+      "sha256": "89840a43420df6649865b7a6c1718eed98eb6235380e3f2f679e769bc4be272e",
+      "url": "https://files.pythonhosted.org/packages/02/f2/5aba56d79ccdfe4c00fc715a9e09c24e9c86ace5a0ccf8f6c904aef48523/plotly-1.0.17.tar.gz"
+    },
+    "1.0.18": {
+      "sha256": "4c883357fdb5efea8ab9102d69430eadaa32b07858c8a21b7435bcf6011cec5a",
+      "url": "https://files.pythonhosted.org/packages/f7/8c/8537f89c4adf04f55b0f683bb386a5bf408feb686975fc04b7477e6e6f01/plotly-1.0.18.tar.gz"
+    },
+    "1.0.19": {
+      "sha256": "e806b9cd1282f56e831a1a39e2e89d377b502d35b048a23d438728b8338e9081",
+      "url": "https://files.pythonhosted.org/packages/c9/eb/94aff11ed4ba2f787d69702726fb3eb5b2d79cfe457e85ea6f9a0c39c9e2/plotly-1.0.19.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "78af2f229be4e673b9d20f3898c4babbc2446958697f1300336df8f879d760b5",
+      "url": "https://files.pythonhosted.org/packages/fa/2b/f429ee806f458c80880492c113d2e28365b342f2a38440e2e7997cdf9ad2/plotly-1.0.2.tar.gz"
+    },
+    "1.0.20": {
+      "sha256": "c7762dd0297d11084b79d1aaaae3e314356b11e38c6c8d77102efc8bc52ab080",
+      "url": "https://files.pythonhosted.org/packages/4e/66/dc28b9d27681628075182e9498e25adbbf70f438048b2ea2864962783486/plotly-1.0.20.tar.gz"
+    },
+    "1.0.21": {
+      "sha256": "a1f64a54398f0c33ed5f0cd631d4527c9bf20ddfa78dd3ce7503863763ab91eb",
+      "url": "https://files.pythonhosted.org/packages/07/f6/3ba0be80732bbedcd62c40258f7573c5acc1a6cc3011ccaf523b2c00f8f3/plotly-1.0.21.tar.gz"
+    },
+    "1.0.22": {
+      "sha256": "e38291d4f4e228f906b73070122ae16ab8ac5185ce276b55e7281d0b944d4cea",
+      "url": "https://files.pythonhosted.org/packages/bd/e4/31466f00271c8ef5ef723fda0a693295e90e7db1c44fef138c0af28e524d/plotly-1.0.22.tar.gz"
+    },
+    "1.0.23": {
+      "sha256": "03db396841d00821eb4dd1fd57237e0b1f89650564c2bc3c28ab0dc7c212b036",
+      "url": "https://files.pythonhosted.org/packages/60/74/8ec487e8baadc17ea7f5a4670e8b610aafa838530f126a6de2c165420ccd/plotly-1.0.23.tar.gz"
+    },
+    "1.0.24": {
+      "sha256": "e1b92d9f93fc60a20aff8d07f18da2a4975ca28555ba748289decf8af4680d01",
+      "url": "https://files.pythonhosted.org/packages/b8/b5/e2fa13263ee3ead5820c2ac8ec291617d423b15ed03b92042baa1bcb3902/plotly-1.0.24.tar.gz"
+    },
+    "1.0.25": {
+      "sha256": "941bd92750b55f51274efb9f73c3fe7f7372337859df882531d94ce08d8caff2",
+      "url": "https://files.pythonhosted.org/packages/9b/12/857fa1945971e802894564a0cf58fa594df963194f7e2a18521ead033fb8/plotly-1.0.25.tar.gz"
+    },
+    "1.0.26": {
+      "sha256": "37d00e3f2e6137bd876bb95cf35256273bf6b6924136a58be206be6497a8e0a9",
+      "url": "https://files.pythonhosted.org/packages/b9/1c/0cddedbfba8357f917a6377f0ae58972f37e2455aa98208e985045e6bf8b/plotly-1.0.26.tar.gz"
+    },
+    "1.0.27": {
+      "sha256": "1610e077337d448436d46e58d94b776b6c1aee0a7c510697cc8ae3279166e030",
+      "url": "https://files.pythonhosted.org/packages/0e/73/625b51eb1e0ac40db27bae9cc791a23c1d036dc0a9df8ce9fce75720a9e2/plotly-1.0.27.tar.gz"
+    },
+    "1.0.28": {
+      "sha256": "742a5296c8b6ac0bfbe4329840c11b04ce68e8d496745894cf317a6834bfe877",
+      "url": "https://files.pythonhosted.org/packages/4f/af/da7e4f234b1958820282c1662927bbc95a091a47527a1a78415248fdbb93/plotly-1.0.28.tar.gz"
+    },
+    "1.0.29": {
+      "sha256": "d9f3d933f53e6a54b7d2629f3261972990226c309f5693b12fd1683931a8ee36",
+      "url": "https://files.pythonhosted.org/packages/a7/f9/289445e41293cafcb1df690ba47ae1e724bb717758502452f746205cf184/plotly-1.0.29.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "f5fdd362cef7e457188a776b389865cb30284ba2eae18a71da1b5175f68c66c6",
+      "url": "https://files.pythonhosted.org/packages/e0/e2/d72f6105f2b49f186fad38febb22b3af00de16abe261362d51e75791b15b/plotly-1.0.3.tar.gz"
+    },
+    "1.0.30": {
+      "sha256": "fc1ee787b5eedda992433d2275812a67cef4243a705e7217da5b49a0d82cee6a",
+      "url": "https://files.pythonhosted.org/packages/ad/73/73649221b4196e2e52c1305f3c0e98369ca033336cdf7f97b4a5a90e555d/plotly-1.0.30.tar.gz"
+    },
+    "1.0.31": {
+      "sha256": "13ed6ef64411dd48db58f044d33b0a0d169710199ffbd32df2190d253ff68a13",
+      "url": "https://files.pythonhosted.org/packages/01/6c/37febcb8de17669e11b2242c0e3d53d5fa7536ce53b2a0d855c52659d65e/plotly-1.0.31.tar.gz"
+    },
+    "1.0.32": {
+      "sha256": "0bbad7370d52bf080665b6efdbf4a25c14619e035d4613471327fa1286e8e862",
+      "url": "https://files.pythonhosted.org/packages/e6/37/1624f95be387f3d315a33a08bf589f091ae09d50ef5f5e2fc4326cd3d790/plotly-1.0.32.tar.gz"
+    },
+    "1.0.33": {
+      "sha256": "b1696362a3b0d8564a877ad2130a039f85605783afab9b46e1da1574b4be38a1",
+      "url": "https://files.pythonhosted.org/packages/4e/39/c815b897c69b654824ecc42022f71942cb5b53e53aa671d956a72ab0ccb1/plotly-1.0.33.tar.gz"
+    },
+    "1.0.34": {
+      "sha256": "866e4b661ccf6ecc13d38288595ec7fd63cc5aa590c91c0860837678a99748bc",
+      "url": "https://files.pythonhosted.org/packages/19/99/a903c89224622006d31b3bcb870e8da57554497e06ec16c7639de9dd4d5a/plotly-1.0.34.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "b67283d1b659fee902f78d3bf94951f690d67aa00a462378c2907cc34b86f0d2",
+      "url": "https://files.pythonhosted.org/packages/1a/7f/59e06a24b4d36870599ff114a0ade065d4959010c52dfa49f88d8d44136d/plotly-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "b5948d19e575f2d037d6ff28a41ce30dd9e663376550d77fbc9e44eb84f22f02",
+      "url": "https://files.pythonhosted.org/packages/67/6f/f59bb7d22d11e9e9f20367aebb3a4cbb05ce208acd9010ecbd60a806af2c/plotly-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "bef8f45ce7602b1a7bb05b122aca324eca875261555e73cb6a505011a8f80b3f",
+      "url": "https://files.pythonhosted.org/packages/b6/18/1ec8c3417dbf4361fec72239959269cffbe8be42a67fc2138426e2b8ff85/plotly-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "61eb70abb4ad33750501db8d1ebd3f75a675ca4c5185e3c83f3b4eb7bc41429f",
+      "url": "https://files.pythonhosted.org/packages/ca/62/df415acdda596570441b8073d0c08f3a6c73dbe92d3af4465654e1388d14/plotly-1.0.7.tar.gz"
+    },
+    "1.0.8": {
+      "sha256": "f714df03c1ef81c78dd38241884ba3349faea975bfdde08c5ec7848cd8bfbea6",
+      "url": "https://files.pythonhosted.org/packages/6e/19/436f1b140eb41400a17a8961d799490fc33fc6fabbbcccac6119031c65e7/plotly-1.0.8.tar.gz"
+    },
+    "1.0.9": {
+      "sha256": "e0c3d22bf3dcd485d7202e3628c7cb91a8c9cad7cd24be87e1f34ea8a35df8d4",
+      "url": "https://files.pythonhosted.org/packages/7c/a3/2f357927146814e89b2f50e1b43e823ce4436f4fe82d349102b27062ab5a/plotly-1.0.9.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "5e2c4d738b961ad0767625a9ee0d18aa4f88f09f6b8783511bf73771d2a9d0a2",
+      "url": "https://files.pythonhosted.org/packages/41/0c/be529a70f74c3415c73713d3674e09925628c1d4d4994e1bdd489bbc7a54/plotly-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "6930cd2982fde4ce34d24685f3df05d96c19c408bbd116a98fea7af038a715d2",
+      "url": "https://files.pythonhosted.org/packages/d1/ba/20278b185fed62193a5ebb872f614e19e420bcb834a2b4f69e3def5660f7/plotly-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "42128a5a94e233a8dc910b1f1ee769cbb5f32e8adb91da332d228b583b5c5fcc",
+      "url": "https://files.pythonhosted.org/packages/85/f3/dfb2ec23ff2aa3c4cf236cd64846e7af0d771132a9fd54b299b99d0376c7/plotly-1.1.2.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "b5bdae32da83d96df6127829b79f6809d6245c58cc9a8bdfe45fe93ff0bf5001",
+      "url": "https://files.pythonhosted.org/packages/96/95/ba3985b2d62cc0c49ef5d03e5924bccca0155b189e9b8a9bd6f2ee28be08/plotly-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "d00327289f361847c215680e746bc4ee1b4f48c9724336b052df6962fb1993ac",
+      "url": "https://files.pythonhosted.org/packages/64/d8/9f0726436dad655f7a77da4338528635489c05b9379ea14bc9954752b3e0/plotly-1.1.4.tar.gz"
+    },
+    "1.10.0": {
+      "sha256": "623290b74a2fd75447ac003b0eb4760ea700c370fb0a04dbb8de01921fb595a0",
+      "url": "https://files.pythonhosted.org/packages/2a/7f/74aff937097c6fa9938a5d3a3f0f98a387055a60457507be9d60b1c4dc85/plotly-1.10.0.tar.gz"
+    },
+    "1.11.0": {
+      "sha256": "08affcdfc3a4f32c76ba00733bb6ea692835514d41f97ea98d806956841e8ca9",
+      "url": "https://files.pythonhosted.org/packages/3a/40/e3e673b246561724628e518a93c145a84ec42e7ae19130b1d6ec7d67cb27/plotly-1.11.0.tar.gz"
+    },
+    "1.12.0": {
+      "sha256": "45bc2c925db7db7847ba29e9f9e9f1f239fe098e2ce6f6e315e13660b0c446c8",
+      "url": "https://files.pythonhosted.org/packages/9a/44/73fad490b298d4ae643b35851d73aad0d0ef3e7a96d48ef6f6ecfc856b63/plotly-1.12.0.tar.gz"
+    },
+    "1.12.1": {
+      "sha256": "04febca434976e6daf6effe988b243e8de924b28f39dbc7bb48eea8bd7b2bc15",
+      "url": "https://files.pythonhosted.org/packages/24/51/2edb9bcfabebea75d9893921168026cbc7854dbe11c76e67a449dbe08014/plotly-1.12.1.tar.gz"
+    },
+    "1.12.2": {
+      "sha256": "2c31377bd90aa8a65717e8e218f92f60a93da7665bb9284dfd468f74cedc8008",
+      "url": "https://files.pythonhosted.org/packages/ef/46/5d10d388e2ab7872ee1f1b8ba1d46d2739b14f9a9fe852891a0577801ae9/plotly-1.12.2.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "8c8e7ce8ca7158756cd3b135ade53202d6e6db2ec24971aa3f39d56a4873c597",
+      "url": "https://files.pythonhosted.org/packages/b9/ca/1c474456827b6b3079371c620ca730fe8b41fe281ef032313adabcf612b5/plotly-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "6d819413fb1e5c773234fc8928cb220d40e63e87e2fc6d2e0ca7a3ddf75df44b",
+      "url": "https://files.pythonhosted.org/packages/03/c2/43069b6ab3e933d550b79da37eddf8e475f6935169789a2b4059f9baef40/plotly-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "6cc0a180e93fa2875bf5582c8af32ea607418c50482fa89ad4815a8b92d75548",
+      "url": "https://files.pythonhosted.org/packages/0c/e5/202bb2351e435cc94e7275292bff30ebcb20ef5b820d33fd05119bd5bcd1/plotly-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "87d419daeee854cf545374d1d5a7c67a17d4c86f60d77a54a44c4d62fca1d854",
+      "url": "https://files.pythonhosted.org/packages/43/68/d017ad40929b10048ddcc21783f6c5fddaae8b3b6ae689e173d9bfd3eaa1/plotly-1.2.3.tar.gz"
+    },
+    "1.2.4": {
+      "sha256": "677ab5c911ae165db7abfe40e5eccd3ce122701a76293b4a958fcf53505b543f",
+      "url": "https://files.pythonhosted.org/packages/56/a0/8bccd4c9de6dc453e80c3915e8ac6ab4bfa813cb80ca66bb2c14d429d266/plotly-1.2.4.tar.gz"
+    },
+    "1.2.6": {
+      "sha256": "61278946fe6e7260b5181ea76755547eec97871d01bd7bb1f8534c97ab5004c6",
+      "url": "https://files.pythonhosted.org/packages/c3/a9/bdbaa26137b8e0bcb4461ca74f834b8f07fbe81bda14ae7f05e5d0d16b74/plotly-1.2.6.tar.gz"
+    },
+    "1.2.7": {
+      "sha256": "10655eebaaf66a528677e182765a0dec0bc10f59c7e67c1bc2f52b407b134370",
+      "url": "https://files.pythonhosted.org/packages/c3/50/4cc23198a583232fce6a1df01cb0533c41b472c6101bab6d9bb9b1c473a5/plotly-1.2.7.tar.gz"
+    },
+    "1.2.8": {
+      "sha256": "b891283c8464024f15003f1a925e7c01bfb4c4ee37c5f2f0a7a0b26e81987f56",
+      "url": "https://files.pythonhosted.org/packages/c4/89/4300ef3ea6c92e76ad49674d61e9f65d44869407e7cd38b089774d1d254a/plotly-1.2.8.tar.gz"
+    },
+    "1.2.9": {
+      "sha256": "52671a56663d3c46acd7ee1da18b930c5249a63c968f16f6db86bc187d426275",
+      "url": "https://files.pythonhosted.org/packages/42/60/d350c2e0718b3aa9bd486827b4d5cb5a8d9a9627b51741d857adfcb86cb7/plotly-1.2.9.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "75ab3cd60601600c290ad0012853c5207d4f5b52f61d1bef594dcb5918b51c24",
+      "url": "https://files.pythonhosted.org/packages/3d/32/88ffc11cd07bfb5ff0d3028abbbc740528b76681704bb8bbf2f6187f5fe6/plotly-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "ad2ac0eeff0495922becfd0458519fed53dbb46a31c704814a2630c566fd035a",
+      "url": "https://files.pythonhosted.org/packages/68/76/01c603b9b0b3cfd9e411c08e7f45f58bfe5d819ba73235b3018d6fa86da8/plotly-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "52d1fb740fede6b1e1b6d6de85406b171fda61148f1f4061047eccd6261e1392",
+      "url": "https://files.pythonhosted.org/packages/01/72/8d9cebbb571a866da6293d02d2b5742245f0d659589942d4365e1b84690e/plotly-1.3.2.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "31601e0d5b3486a1741e1b902e327e7beef534a4a66fe20532a6f7316b4adc9a",
+      "url": "https://files.pythonhosted.org/packages/59/ba/9e0c18cf1d89d42167056417f2a614fc8ed76ac450faa92f967a462e4080/plotly-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "b2cfcb304f835b51161d6402a685a100f395ac6a15da648a178e362e5b6dcfa8",
+      "url": "https://files.pythonhosted.org/packages/8a/a7/8d2d7822139adc322d9f36228ee0edafcd118725eaaae1ce0a3cd2faf7e0/plotly-1.4.1.tar.gz"
+    },
+    "1.4.10": {
+      "sha256": "208268225aea323955437c6a65601cae77d9e42fbed98b47994b390aef5334d8",
+      "url": "https://files.pythonhosted.org/packages/c4/a1/d0a8e0fb4fbca5ee58a6ba26c09ff79421cac18541bb3f01ae8eb0ad9090/plotly-1.4.10.tar.gz"
+    },
+    "1.4.11": {
+      "sha256": "4b9de7152ac199c0e1ae2d282b750f3f67cbee83b98ab769029adaae70d93471",
+      "url": "https://files.pythonhosted.org/packages/97/4f/b913aaa294b94d1f63abecb31d72c353c96575cab4755d65d3fa295e5025/plotly-1.4.11.tar.gz"
+    },
+    "1.4.12": {
+      "sha256": "cdc51bd1bf223b0e2fab5b4d28057f033b85ae90e593ed8bc82d79bc3dd2c80b",
+      "url": "https://files.pythonhosted.org/packages/ac/f6/09e7a4f08a9817eb454c25ace1209cd735f5845f978527558a29b5564519/plotly-1.4.12.tar.gz"
+    },
+    "1.4.13": {
+      "sha256": "6ac02568cbf5454c38c77793458bde5e3f7903cc09669d944e5eb3016b101bfe",
+      "url": "https://files.pythonhosted.org/packages/f9/b2/e32e20e6e18ddd84f282fa2c9cfb3255992b3170174e413f902b14743fec/plotly-1.4.13.tar.gz"
+    },
+    "1.4.14": {
+      "sha256": "e617e6cfdb4ac3e15162fbdd714091970c29b742c74a18a2d8db32d6eff31ea7",
+      "url": "https://files.pythonhosted.org/packages/ac/a0/181efcf476a269f15cec9a0e6b881dadb80a38f8cc15a4fc6cc24d7e4894/plotly-1.4.14.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "fa3df534076caa60b986be166c95d2ea052be7ccb7aba8c76bcbf0599d50e8c0",
+      "url": "https://files.pythonhosted.org/packages/de/8c/2ff62a0ef059e90b63ea9917cf0025b0a49ac1f03fe28e7ea2377be2be4f/plotly-1.4.2.tar.gz"
+    },
+    "1.4.3": {
+      "sha256": "36649dc2fcfe14923d56b48033f3ca34492317fcd8f75831882134a8ca459ed9",
+      "url": "https://files.pythonhosted.org/packages/bd/0a/c2f3feee5bc33f0d9af0f7a0931c8995cf0411c7238cab4c4baec72d518a/plotly-1.4.3.tar.gz"
+    },
+    "1.4.4": {
+      "sha256": "13e0b8d07c2388ffeb6f3dafedc5b9eacdb64d919c1b5cc6964c04ff1ae6142f",
+      "url": "https://files.pythonhosted.org/packages/83/11/21c35310bedcc606cf781b0773dd029752cbed0fe5ccc379e208186c3710/plotly-1.4.4.tar.gz"
+    },
+    "1.4.5": {
+      "sha256": "5dc1467a02f1f037542dbfc1aa8bbcc03803bb80fe2c9ce05953adf956c67200",
+      "url": "https://files.pythonhosted.org/packages/3f/c0/7868f4b4515f28f5bb2b0401b4068a53db7a76ef055973d6526ead36eac1/plotly-1.4.5.tar.gz"
+    },
+    "1.4.7": {
+      "sha256": "cb0e9ee1e20df7c1d1d822c2b07b88521030652752909a1feb98505a87785f63",
+      "url": "https://files.pythonhosted.org/packages/01/21/a93dd9b6d64d2eb13a90fa3c971fe74a9de2bb3c6b4d81099fabb1b7b39c/plotly-1.4.7.tar.gz"
+    },
+    "1.4.9": {
+      "sha256": "7ef0e2c60471041d1e812926df802e719f2b343a88b199e64c21f2da51adb432",
+      "url": "https://files.pythonhosted.org/packages/30/a9/7c19edf851808a6e3d6bd2ae152c6e1334daab6493cb961ca346008827da/plotly-1.4.9.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "6d385c95519214418ce7fda087c0e4fe442dd13c9733e3d54d4fb172aa3f9f82",
+      "url": "https://files.pythonhosted.org/packages/af/78/34ff1c0ffd49e6984405913fcfdad5466f68ed87402c93eae79c744327b4/plotly-1.5.0.tar.gz"
+    },
+    "1.6.10": {
+      "sha256": "31f876d2b1a35475d3d34eba0015329450b5ef5c32381d6cb5e811b033969c40",
+      "url": "https://files.pythonhosted.org/packages/87/14/5b8b774c06bc5e8d50f3ac97a3bd880534bee9c0b1196da00d74073e5ba1/plotly-1.6.10.tar.gz"
+    },
+    "1.6.11": {
+      "sha256": "a684545ae7c972b321bcdfa3404ea4d0341ccb825ca844e0f86cb36384941c7b",
+      "url": "https://files.pythonhosted.org/packages/c3/ed/fc7d425726d2dc59818bc9b730a958ba26e3dd552dcc0d69c13aaecb8988/plotly-1.6.11.tar.gz"
+    },
+    "1.6.12": {
+      "sha256": "f0639a076fa0ebbacd0ee978bc8f1396cf453f8f0c5d7cc7b1e33cd2a944cdd7",
+      "url": "https://files.pythonhosted.org/packages/a0/9d/52afa8566f12532fa49a9d709ab413d2f1c4f2212606def81cd4e2e712ce/plotly-1.6.12.tar.gz"
+    },
+    "1.6.13": {
+      "sha256": "87d64f31c85cfbf1733d3265a06c0546743400755fb98808dd9c65637211ec06",
+      "url": "https://files.pythonhosted.org/packages/57/11/6cefcb90952597f465098e5091992d7abf1f655c8d0e7e83012bfcdc1f2d/plotly-1.6.13.tar.gz"
+    },
+    "1.6.14": {
+      "sha256": "9218aca46aab8ce40d548f1c5ac228c0607b6dab813e5229308221b956ca42e0",
+      "url": "https://files.pythonhosted.org/packages/19/c4/27f1089cf8609d3842cd9554663428dc2d98212f83b24bc5e284739ba36b/plotly-1.6.14.tar.gz"
+    },
+    "1.6.15": {
+      "sha256": "1c9de2976f1485133ebda8f2ab02140ccafc2c0039abd0896b008d7f1121eb0a",
+      "url": "https://files.pythonhosted.org/packages/94/14/67554d8a43076667fdb6d01b0b68232e4ab7c856dc1fdba401fd3c192c65/plotly-1.6.15.tar.gz"
+    },
+    "1.6.16": {
+      "sha256": "4e5f9afb6b9893b6e9c37084cebe4fa5e986a1be1b99409c3619917d3d93713b",
+      "url": "https://files.pythonhosted.org/packages/b0/e8/f2efa5bc744eabc8daa2820bee97deb2296d72c9507d519470b9b6780f1a/plotly-1.6.16.tar.gz"
+    },
+    "1.6.17": {
+      "sha256": "2b48020a38f805fdbdb885793299573a0212c01a0b15081a481d0cb6428b54c2",
+      "url": "https://files.pythonhosted.org/packages/4b/c4/a19c914fa26a8311eb6cc26a739d572644217276e711b376404219c80055/plotly-1.6.17.tar.gz"
+    },
+    "1.6.19": {
+      "sha256": "74aa50b1e097049db4c0b496dbb345e78b76bb06c336dcfd37cc1a9d9450f005",
+      "url": "https://files.pythonhosted.org/packages/bf/cf/2a08735a9c22ffec36681eed9f7f6b801d52b47137b68ebffabe9de7f6fd/plotly-1.6.19.tar.gz"
+    },
+    "1.6.4": {
+      "sha256": "3d3ecccf8acf719dec9e492c4d8adec2002dc0eb4b3ca3789476db3674464055",
+      "url": "https://files.pythonhosted.org/packages/84/8f/bf410fcc4fa468ee72bba2b60acb195aea30146034cba2504a0ce7bec6c0/plotly-1.6.4.tar.gz"
+    },
+    "1.6.6": {
+      "sha256": "fdbf95f3e3f44e8b84ba008e9bd952f70e5bfd5b0ae14427ccb1b7e510ad286f",
+      "url": "https://files.pythonhosted.org/packages/85/de/d5d678995384a25bb42a262593cba5b86eb9a9c0b876fa351cdce677421a/plotly-1.6.6.tar.gz"
+    },
+    "1.6.7": {
+      "sha256": "92f2312c664a0f32574920d6b8f2ac2e4b2be721801ac64a11930b0d044cf23d",
+      "url": "https://files.pythonhosted.org/packages/3f/ba/239a7ea3e245766c40260376c1eb8fc0d1f9eb0aea31694a980245609c5f/plotly-1.6.7.tar.gz"
+    },
+    "1.6.8": {
+      "sha256": "16a15e2ddc343f86b07fd70e17a30b686a9ee4e2f5586b9196cf4acfc8e89c86",
+      "url": "https://files.pythonhosted.org/packages/9e/68/f509aca6f1a23141bc0c99ba982ed56b971c3c877f256e7f8b3b7e2e809b/plotly-1.6.8.tar.gz"
+    },
+    "1.6.9": {
+      "sha256": "37a49815094a5df7d21673bbc40d2883deaeb72f86b7a5f325c2d3b20f3ddf51",
+      "url": "https://files.pythonhosted.org/packages/fb/68/90bebb0dca8d7025380b68d6fdd90eca549f8aca519941945b69b6ed0365/plotly-1.6.9.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "016e05e5c18c6e4b152d21bf65056aa7e67536f266ad99e9add74ce2159e0c5c",
+      "url": "https://files.pythonhosted.org/packages/36/4e/26114890f62c6c855f826389168036e5583b6578bb40b33c7ef10d6b5c50/plotly-1.7.0.tar.gz"
+    },
+    "1.7.1": {
+      "sha256": "681eeee4f69ac128300833100d68c24e3b0b671698260f034f22d293e0e34a37",
+      "url": "https://files.pythonhosted.org/packages/08/9c/3e11d7eeeac7eb5477cfc9a249d2188d584e4c0204ff477b1fb99c797a44/plotly-1.7.1.tar.gz"
+    },
+    "1.7.2": {
+      "sha256": "f3d2fb172d7b985b6aaa86b7c84990d5c9482d3467bcd229d3052bf2ddb5f3df",
+      "url": "https://files.pythonhosted.org/packages/fd/71/0554298ca7a5a5cdff97a26ed9556f729900a85b6d883a32454d70cb1678/plotly-1.7.2.tar.gz"
+    },
+    "1.7.3": {
+      "sha256": "f75f05f2d6b603f6730f999c8a9acf39b50ddf51871da99c894e3845bc2fd1ae",
+      "url": "https://files.pythonhosted.org/packages/2e/b5/58fde1726bdcc6064950f5a177ed39cc470961f244111d719561f199a921/plotly-1.7.3.tar.gz"
+    },
+    "1.7.4": {
+      "sha256": "e56908d6f68f218a3fc8bffdd26fecb45d0e9aa8827e86a2f5307f8f10895eb1",
+      "url": "https://files.pythonhosted.org/packages/3c/42/c945fe82aabcef6aa2b0a0f8d4358ee3bb17c0abb1ab4c5a39e64d5cc6ea/plotly-1.7.4.tar.gz"
+    },
+    "1.7.5": {
+      "sha256": "c3b8f1d136ea07414d4879b35d6fcb357ef0f56aa26f0dabbc1920bb0ad30160",
+      "url": "https://files.pythonhosted.org/packages/25/94/d0f935c344d4f85e9f941d19f0b03b286b872246d66b397bc0c653ad626b/plotly-1.7.5.tar.gz"
+    },
+    "1.7.6": {
+      "sha256": "fe802ea010d1dc71318307435c4d158da517c8b990ebec99b75c9d2a07ddfede",
+      "url": "https://files.pythonhosted.org/packages/ba/c7/aa38cc2f38af2d3098375009701537094af775d26dead38cba2edda1ab57/plotly-1.7.6.tar.gz"
+    },
+    "1.7.7": {
+      "sha256": "47c1e124a3f7c047dfb838738e032f153b1bdfdf7a085815f8cc2969ae7a7591",
+      "url": "https://files.pythonhosted.org/packages/6a/08/a10992a3a872792c3c223370f763d3201420ba28ab667d707096318435f7/plotly-1.7.7.tar.gz"
+    },
+    "1.7.9": {
+      "sha256": "97f26681194555a15dc406f1c5854527d5478296d0ae571b5e7fe250a79dfe7e",
+      "url": "https://files.pythonhosted.org/packages/d5/9c/95c21479fd634c3679b235613579a6741db8b28cbc1fb527cdafb7eb1bda/plotly-1.7.9.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "a85701d29eae3261105cf4fe85e0c1e372c797f56bd0a87721921474a686dc87",
+      "url": "https://files.pythonhosted.org/packages/51/fa/bc8c026ea82aa932bf9785f1b5e77e93e10d9f3f49c0665e24794e018ebd/plotly-1.8.0.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "1a4a704335a4286cb9e26862f298bb07a747a62674af894fd451a3582a842680",
+      "url": "https://files.pythonhosted.org/packages/46/01/e58a983643b3aa118637964115817ad5308044c075e0fabe8af87952b5b3/plotly-1.8.1.tar.gz"
+    },
+    "1.8.11": {
+      "sha256": "cbf257508306696163788cb0a9b460c01e8abd3ec9d315191bb1c257ebf1a2f5",
+      "url": "https://files.pythonhosted.org/packages/0c/96/6f85757cc612fa1571a68c92d6aecabe515ff3c446d40b39d4892870c4ce/plotly-1.8.11.tar.gz"
+    },
+    "1.8.12": {
+      "sha256": "1ff9ccf7689854014724b6a0a5fbac243b21796c032f53c698c817c760e5282f",
+      "url": "https://files.pythonhosted.org/packages/02/14/d365e928d7c9255fee1d1a9c0ad30401ce0c8e6219f751b11f62bcd8f0d3/plotly-1.8.12.tar.gz"
+    },
+    "1.8.2": {
+      "sha256": "7c371a17ab0c7a7bfbea686e8ca9e7c3425dd21f679dfedbe326a1b2b64d7446",
+      "url": "https://files.pythonhosted.org/packages/27/05/8ccf49021eb414b01b66a906345c74634d712fdebf6cfb34b34c1dcdabdd/plotly-1.8.2.tar.gz"
+    },
+    "1.8.3": {
+      "sha256": "c47ff49baa2c8a7d3d821cfce3822a7ad6ea341a01c0b61077a0be0d8dda623f",
+      "url": "https://files.pythonhosted.org/packages/97/85/86fb1198e3a1b4890e519c9bc372da3b5f730a15d30816f435866e79bc12/plotly-1.8.3.tar.gz"
+    },
+    "1.8.4": {
+      "sha256": "7995179ccc5ec843a2c7a0da5fa0462340e7a6dee5e433915e9d672362776278",
+      "url": "https://files.pythonhosted.org/packages/63/05/331e62c381ffda3c2e6c1740133e2b223837ba31f38f68806f8635bfcfeb/plotly-1.8.4.tar.gz"
+    },
+    "1.8.5": {
+      "sha256": "8d4dbacffbc12ab50becb7c207aa26ea867aa95f7c46f5c133ea1efd220c3bc1",
+      "url": "https://files.pythonhosted.org/packages/15/5b/1d6a94308bea49284f3090a101e20ad08ded14aa61cdb203a59a89c0ed6b/plotly-1.8.5.tar.gz"
+    },
+    "1.8.6": {
+      "sha256": "aa12af5a0757286e8928ed8cdce8e076c757f613abe264729b40555c52f54628",
+      "url": "https://files.pythonhosted.org/packages/db/c7/e32999ef264f37eb0d1535fa1dc5f1b496458ca31e3342533dec38466353/plotly-1.8.6.tar.gz"
+    },
+    "1.8.8": {
+      "sha256": "2efca84709d89012281c025d8ffd54ea65acd4fcb4b035430d9a72a119bff54f",
+      "url": "https://files.pythonhosted.org/packages/df/52/1ad84ec2f529264add02b2960afef9b805c918a8de8116888e3b12679e74/plotly-1.8.8.tar.gz"
+    },
+    "1.9.0": {
+      "sha256": "fd996dd959989a9a3b513616295c9cf6e3b1e3332bb821525846e221b8f3ac06",
+      "url": "https://files.pythonhosted.org/packages/4c/21/00088beb1951e8c363832f76f2b706068ee781b4062e669f96cb705ef9e5/plotly-1.9.0.tar.gz"
+    },
+    "1.9.1": {
+      "sha256": "3e5c1c1e7fa16f5b328663f10081e1c0e2567ba4fe0d9b09a0732898d1d9df03",
+      "url": "https://files.pythonhosted.org/packages/05/a2/31d8ef046f5a9d08f1006ced4eb8e7d297699ff29a7446fef47658d8c42a/plotly-1.9.1.tar.gz"
+    },
+    "1.9.10": {
+      "sha256": "7760bc5bc237fd6b75091b99762bc6bf3574d0908bf64e3a9d23c257103d6ffa",
+      "url": "https://files.pythonhosted.org/packages/c9/99/9752fa71e938d67273a6ff8840b3514e59898d8112c238fc9ded6a7ad782/plotly-1.9.10.tar.gz"
+    },
+    "1.9.11": {
+      "sha256": "6ae068d07192d17b3751ce045ff58811c35b5a15fafa2deabd72024ec5f4db3e",
+      "url": "https://files.pythonhosted.org/packages/ea/61/923e0b482c3e2336e19c5ccc09c62ba8cc0361acf58ad34dbefc87e6a6b1/plotly-1.9.11.tar.gz"
+    },
+    "1.9.12": {
+      "sha256": "9633ef17acd4ab768b91cec484519281c70b28019942341237add2f42e1aa629",
+      "url": "https://files.pythonhosted.org/packages/3a/77/54c4e1d7ee2319c55e0104543a9f8461036a39a06f0d94fd8a196939570e/plotly-1.9.12.tar.gz"
+    },
+    "1.9.13": {
+      "sha256": "0de109dc7c81d0a44fedbcc8b19af31d41b031f4ba822eab1f3389c6e9cffa69",
+      "url": "https://files.pythonhosted.org/packages/48/a1/c9ced73edf4751912f84c11e55bab94416d4c25a9a864e5a496eb6eb755a/plotly-1.9.13.tar.gz"
+    },
+    "1.9.2": {
+      "sha256": "25528921269fb13545af3ceeafcc25f510057664717d084c049d936e4d8249f6",
+      "url": "https://files.pythonhosted.org/packages/2a/b9/f05a6ff72c1effbd0b8e082e430a988d316c900f747deba2506f02649307/plotly-1.9.2.tar.gz"
+    },
+    "1.9.3": {
+      "sha256": "ddf26ef1f20171aebd9b2ceda423834e1ffeed437744bcd9a37a020d86f69bcb",
+      "url": "https://files.pythonhosted.org/packages/56/6c/299166633fd77b1cb96bcefe8bb96825a9100e360d6e733b2d653089eb54/plotly-1.9.3.tar.gz"
+    },
+    "1.9.4": {
+      "sha256": "ce798b41379a72606603a61d3e718e714677a500820636c0220230dffaca454a",
+      "url": "https://files.pythonhosted.org/packages/2a/95/e57d6c7e5cb13ce2a4103e61b3d27b89df17f0f03d26b6f83d45f37a6bcb/plotly-1.9.4.tar.gz"
+    },
+    "1.9.5": {
+      "sha256": "628679e880caab22e2a46273e85e1d1ce1382b631e1c7bbfe539f804c5269b21",
+      "url": "https://files.pythonhosted.org/packages/8d/b1/e872ecb7a901d88cc36cbeda06f6bc21ed66f895a0bf7e42666be32d9199/plotly-1.9.5.tar.gz"
+    },
+    "1.9.6": {
+      "sha256": "dda34435910787c40e7622aea2992d1b48301d12eef36a7a0bf6d0f93e420305",
+      "url": "https://files.pythonhosted.org/packages/25/af/d9d1d07252bc688656e38d6466d0956a42987505e9dc31f27c03fe9aaa06/plotly-1.9.6.tar.gz"
+    },
+    "1.9.7": {
+      "sha256": "76193e3c97b6d1fca019daa48ea09d2a95959e4f81bb9960744f7d13cee3a30c",
+      "url": "https://files.pythonhosted.org/packages/0a/71/58dfe88bb28593e16e9dc89b4554833903e39cfdc4ea11d158df16cd1c9a/plotly-1.9.7.tar.gz"
+    },
+    "1.9.8": {
+      "sha256": "f8649c363ee20b4aa05af482fb256f5beb3fc37bf45e0b116f026bf531c63fcb",
+      "url": "https://files.pythonhosted.org/packages/43/fb/41a01dd23f1455a52e2e2dfb18d9002fd35e4c4d911698c9f9af77760658/plotly-1.9.8.tar.gz"
+    },
+    "1.9.9": {
+      "sha256": "dd99da29783ef4b3c6ececed5c1b2dfc1007ecd2cee8a9451f163e15502aa4b9",
+      "url": "https://files.pythonhosted.org/packages/27/e7/a28325049522b847eb72032e9a7532172014049a4b869860dfaa32d84e70/plotly-1.9.9.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "latest_version": [
+    "2.8.1"
+  ],
+  "meta": {
+    "description": "Python interface to the R language (embedded R)",
+    "homepage": "http://rpy.sourceforge.net",
+    "license": "GPLv2+"
+  },
+  "versions": {
+    "2.0.8": {
+      "sha256": "3ae9c037c6a80bc159a1e456e914412bc6fd69733b7c53cee22bb17ec9aedb3c",
+      "url": "https://files.pythonhosted.org/packages/03/6f/3ef727c0803a4cda74b6baa0469bc775e66752f36f8b8f9fe426fcd56b4f/rpy2-2.0.8.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "6d8795fe01f841035787503daba409acccc122a92420a12b377b904e9961ea49",
+      "url": "https://files.pythonhosted.org/packages/3c/3e/d3063b5cb4c6494eb77f6a62a24c0c996551e7fd4fdea094613d27ef8373/rpy2-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "a9cdb72c2f569570611bde70c5b39ce582c05911d53b79f6490794435f835c83",
+      "url": "https://files.pythonhosted.org/packages/19/e2/b8c5d022b58ba115377f1fa745cdefa63b6546d3bcbe173b339ab9577d7e/rpy2-2.1.1.tar.gz"
+    },
+    "2.1.2": {
+      "sha256": "04eeeeb09ef4f581989a0e659dbbccdaf4ee13a97b36593a6912aa0753edcb09",
+      "url": "https://files.pythonhosted.org/packages/50/df/c8a034ac1cce7acf11eab7d3ce77346f2b00e3002d40c07953b99428c6c2/rpy2-2.1.2.tar.gz"
+    },
+    "2.1.3": {
+      "sha256": "624a742024c584ce0d215be65f48a47380b0e2ce5f9139db5e9bacde903597e6",
+      "url": "https://files.pythonhosted.org/packages/81/f6/3ef71cc570252d10dc6ec4c08b7bb492f7427aa92f400046f38d77c4b533/rpy2-2.1.3.tar.gz"
+    },
+    "2.1.4": {
+      "sha256": "a0e5f04070bfa4a0935b23242effb9eeeaf1b60365ddf8caf1807d44c8097359",
+      "url": "https://files.pythonhosted.org/packages/38/d1/d4f21552dbaf7a7c5cc4c3b54c51d7a937b928f4cf19686e5a18c9c6a833/rpy2-2.1.4.tar.gz"
+    },
+    "2.1.5": {
+      "sha256": "34bebe72006405442df1bcfeafbefedffc1d6f48389466b3ae37d1baf9dbb3f1",
+      "url": "https://files.pythonhosted.org/packages/86/cf/1a8fc078fb2cfdaeb03cf2c5b8ffc111680d25bb8ce5cf6e488312693298/rpy2-2.1.5.tar.gz"
+    },
+    "2.1.6": {
+      "sha256": "f545ad15569b2f814e5dc12d755c463c3bb73213435883166bc3f7cbed7b36e2",
+      "url": "https://files.pythonhosted.org/packages/2e/01/a75652392524b4a33639f78c73c6d18ef68a09e4708575c8611ad2e6e91e/rpy2-2.1.6.tar.gz"
+    },
+    "2.1.7": {
+      "sha256": "771d2a70b5e76b6ea5f52cf3306d4c69488b4d4f4fcb1e5e29963171751bffd5",
+      "url": "https://files.pythonhosted.org/packages/c2/f0/64c87e45f5ead2bbfb078c92f3d73ce7cf7fd9cda49e3487b284e3213850/rpy2-2.1.7.tar.gz"
+    },
+    "2.1.8": {
+      "sha256": "bf88b8ac074afdcb7b407a69618739a061e1fca8f034abe06fd707e181341c91",
+      "url": "https://files.pythonhosted.org/packages/1e/bc/88b60b108c5c67463e00e56bee66b2004b0f8cb77c76b411d86060885768/rpy2-2.1.8.tar.gz"
+    },
+    "2.1.9": {
+      "sha256": "a294f21739ab483b025655e36282692bf88ae908794694b03050b221ffec1c50",
+      "url": "https://files.pythonhosted.org/packages/31/c1/fc4bb5a68d7d9ae2fc85f3b6a0a8dcb46a2809530222560a990df0c78bd7/rpy2-2.1.9.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "38b9c0a5e582ae0c54067fdd58b4ebf2a238694f98596254840e6e91b767d931",
+      "url": "https://files.pythonhosted.org/packages/6c/53/28733799a55c8de721e2e9ed408e4b0b4a12860f27fe2beea64f8826516d/rpy2-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "7726ac28f7ddf02c96c41697d1433011d5d013ac2f582df3811aaed7b00e5906",
+      "url": "https://files.pythonhosted.org/packages/bc/90/c8d2af086dfeaa9aabdeb4da9e196ac06a3187b1943e20fc9cd17cb3d885/rpy2-2.2.1.tar.gz"
+    },
+    "2.2.2": {
+      "sha256": "a02bb21665654f234589be794fa851f6d7b44ebb3fe179be509680441bbd996b",
+      "url": "https://files.pythonhosted.org/packages/b1/fd/94e1bb028bd455bddf2a6ba5c6d9b23af72c223aef81100518cfa107549f/rpy2-2.2.2.tar.gz"
+    },
+    "2.2.3": {
+      "sha256": "d93d8f17ab5ecb88081aa33df53b6bc25f56761d215a43b4d2b2a8383444e52d",
+      "url": "https://files.pythonhosted.org/packages/7f/14/c79d69df276f67effe19c79749635e0345a154734bd42e62212d7adeca28/rpy2-2.2.3.tar.gz"
+    },
+    "2.2.4": {
+      "sha256": "894e9510365431c706764d2bd982aa009a9ad6ddbac6976e85ca46b20d8f94f9",
+      "url": "https://files.pythonhosted.org/packages/72/e4/ed07b5fe8be72697c55d1c3b8ef5dea2e616c8e4f0c55f785c25c99f5865/rpy2-2.2.4.tar.gz"
+    },
+    "2.2.5": {
+      "sha256": "0f4e0447caa016e4490747003500663fc7ff645000b12b214f299b9d253ad0e8",
+      "url": "https://files.pythonhosted.org/packages/da/62/9c890fddc7e35c3f4787135a947c43b7df1942c6d950c437291afa6a3aae/rpy2-2.2.5.tar.gz"
+    },
+    "2.2.6": {
+      "sha256": "7e6b3ac86edcc66e59a98d5821581e36d4bfe9552d7f2da95610b730e5f0ef28",
+      "url": "https://files.pythonhosted.org/packages/f0/a9/df46e47df182d3333a8b1c45de407fd29dc131df2c7f46740c0706e7cba9/rpy2-2.2.6.tar.gz"
+    },
+    "2.2.7": {
+      "sha256": "e8aeae90607574a00040f9519850244a02589a025dc1257275bb5476240fc65f",
+      "url": "https://files.pythonhosted.org/packages/3b/3d/9d0f039757dc8551bd9f5ef0c52d7bc267183e0e8bbf5c903a584bb8d07b/rpy2-2.2.7.tar.gz"
+    },
+    "2.3.0": {
+      "sha256": "b0e0fefe1fad80b27609b0c4069a088801e74519d3920cb553d761a0a9160af1",
+      "url": "https://files.pythonhosted.org/packages/4d/b8/8f4d9a7e5df21cea45abaf638ded72f7d64327be27fb827eb0288c012b05/rpy2-2.3.0.tar.gz"
+    },
+    "2.3.0alpha1": {
+      "sha256": "c81eb2e079b591e1c7f823079b344b3ceeee0001428c396364d046caa4434e73",
+      "url": "https://files.pythonhosted.org/packages/e2/fb/af039db4ca81bc0f4b84908463de2056152d3c3e13519096f9aa3147e150/rpy2-2.3.0alpha1.tar.gz"
+    },
+    "2.3.0beta1": {
+      "sha256": "72329a2a61e9a6ac7dca6e8216b1fd7bb3428c14a5f8588305473b562f60ab66",
+      "url": "https://files.pythonhosted.org/packages/8e/c1/d7828132ee6db4a8214b08114868d1c6cc590e4cc968e215101301b328ea/rpy2-2.3.0beta1.tar.gz"
+    },
+    "2.3.1": {
+      "sha256": "a842acffb98f25102937422795a372a7759e63dbb1e60fdbba9e6b83f61fee8a",
+      "url": "https://files.pythonhosted.org/packages/8d/f5/7f0387d8f3ada4208f308459ae3ec929fd7da4d656ec77aef1cfda34e5f1/rpy2-2.3.1.tar.gz"
+    },
+    "2.3.10": {
+      "sha256": "728326d6d13107f7156f1f3d6ad3a7d6a19ae4d6801e56708e794196d5b0a509",
+      "url": "https://files.pythonhosted.org/packages/17/6c/17f0cec2fff47ffc1b6019c4967c5858b3efa78894451995da8fbbfdf1fe/rpy2-2.3.10.tar.gz"
+    },
+    "2.3.2": {
+      "sha256": "53693664fadb07e9b09bc328960da8520c476ab3399aa0c95021e2cdfd1f1a1a",
+      "url": "https://files.pythonhosted.org/packages/81/86/4bfa5d7ee0027ebe3d6d0b02151448f7d7e74cb3b5c628c99b3cef1a8cdf/rpy2-2.3.2.tar.gz"
+    },
+    "2.3.3": {
+      "sha256": "bfb8f917c137392839bf9a0329c9d9d5f9d83a06eac671625ee3d221cc29ad05",
+      "url": "https://files.pythonhosted.org/packages/12/29/01cca39f022291fe2436f2a5890131aa791e9af1cf0f090cb7ed884fa6f7/rpy2-2.3.3.tar.gz"
+    },
+    "2.3.4": {
+      "sha256": "79806caec85600d308950e2a517e59acfd1811417c2137ba2d8b37b5fcbaebba",
+      "url": "https://files.pythonhosted.org/packages/58/72/96024f6d612a932072769408a232ed6a6d851a9b45c6f02204dce5d92230/rpy2-2.3.4.tar.gz"
+    },
+    "2.3.5": {
+      "sha256": "e057b32a8f8d5a06478896093b75414d51e9d74add6e543d344f950cf311fa5e",
+      "url": "https://files.pythonhosted.org/packages/ed/8f/f937bf310e9d5049bf3cf6cab4b09db0dec3e381bd8ad5d433646a1492a2/rpy2-2.3.5.tar.gz"
+    },
+    "2.3.6": {
+      "sha256": "a834e54ed6b98e71ef674f96628ab68e17f614db5b6246a9560048493a69f81c",
+      "url": "https://files.pythonhosted.org/packages/aa/18/e5eb0feabaf90a57a36e33cdbedd5c5db139c647b01710443f72d9b3ede9/rpy2-2.3.6.tar.gz"
+    },
+    "2.3.7": {
+      "sha256": "21d420f76ea75d7343e89e34bcc8ee8931842ea8b4597f1ab49855ea2d901d76",
+      "url": "https://files.pythonhosted.org/packages/c1/72/8387d9ca041ba15abb65a0c1b0bec34f6cb5535c007d4895c4d6c73c3de7/rpy2-2.3.7.tar.gz"
+    },
+    "2.3.8": {
+      "sha256": "20789ad6d251159f2aaaa863d5d72eebcfb338fc8dc07b8cca91230ab90dab2a",
+      "url": "https://files.pythonhosted.org/packages/bf/be/130a02cdf1400da1a767f323f7133822b76e2541bacd8399729984f7a4b7/rpy2-2.3.8.tar.gz"
+    },
+    "2.3.9": {
+      "sha256": "b017573d0f53534d56ad50f1bc04119c9c26c4ebfe7063d5d93761f8aeffaa64",
+      "url": "https://files.pythonhosted.org/packages/49/94/33af884d35a9659af1fc7576b108c3a938b48de52814622a58362e53977c/rpy2-2.3.9.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "3cb6360d4d0af7996979f50d0347f5f74fc3fcf98e3ee8057c4c886b358d17e1",
+      "url": "https://files.pythonhosted.org/packages/75/a4/182f9dc82934768680b663968115cc3e7e4a1be24478cbb2e1ed44e22b60/rpy2-2.4.0.tar.gz"
+    },
+    "2.4.1": {
+      "sha256": "60d5e982b7484f474b1b35cff972cd68e1f3861975674acca204d9642cc74117",
+      "url": "https://files.pythonhosted.org/packages/b9/17/c813ec2bc0b42be495153cb61e345fde74330b9e5c2126af12139e83c1a8/rpy2-2.4.1.tar.gz"
+    },
+    "2.4.2": {
+      "sha256": "c88f961e6ea8bbb24dbffab6738a0bc090ca8597ae8292731ae3362e64c839c8",
+      "url": "https://files.pythonhosted.org/packages/04/1e/ec260f547e8624c5eba8b7ee05d19a0d38fdf53e276ed26f8660591fc1f3/rpy2-2.4.2.tar.gz"
+    },
+    "2.4.3": {
+      "sha256": "1d7970d1723d52c4bbd510ee88c0a6b8273a3bba8a05c124fb8be35d75616906",
+      "url": "https://files.pythonhosted.org/packages/72/15/dc243f32266f98b477b9d48f1f5d8d16a7832454679b43e6389bb4fa2c14/rpy2-2.4.3.tar.gz"
+    },
+    "2.4.4": {
+      "sha256": "50ed7510ebf7e6a5dfb67090daca17eb63ed0300cc0b36c6cf7d39e45f58690f",
+      "url": "https://files.pythonhosted.org/packages/8d/54/bd4732701374868ef0a4ebbaa1c6e5137ef4235a3c0469d31ca39ccc811a/rpy2-2.4.4.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "3e39bd649e21f320ff773ef08e0db193b231126f5922ea4f5f54aaf28508638f",
+      "url": "https://files.pythonhosted.org/packages/cd/87/4e29e47711d81d897e5f2ea546a31e555ec11a9bb38360c04cbe3c2f5866/rpy2-2.5.0.tar.gz"
+    },
+    "2.5.1": {
+      "sha256": "a58ac5b7bae8e59f453a12fe7810035d044250b3122ddfd52c3de27269646d63",
+      "url": "https://files.pythonhosted.org/packages/2e/ca/d0c87dbb6103dabce5d58c38965119407148999fb228754d9585a867afaa/rpy2-2.5.1.tar.gz"
+    },
+    "2.5.2": {
+      "sha256": "676b9dd602759388c81697dda1f9ccf74055e71006f9a5c70be8ea4cebc8b640",
+      "url": "https://files.pythonhosted.org/packages/a8/47/171d97aa925d3fa13f43788a1670ab0febbaf3ede17784f00f326eeec5f4/rpy2-2.5.2.tar.gz"
+    },
+    "2.5.3": {
+      "sha256": "8ae76c2ffe31558573de9dbeb481ff24ccec8d64a4f154e05cd6579c07724da3",
+      "url": "https://files.pythonhosted.org/packages/1f/66/67b15d820b737ca7c871ba111dd3c1276fb5564f267ecd5cdd01b1707ec8/rpy2-2.5.3.tar.gz"
+    },
+    "2.5.4": {
+      "sha256": "d521ecdd05cd0c31ab017cb63e9f63c29b524e46ec9063a920f640b5875f8a90",
+      "url": "https://files.pythonhosted.org/packages/9b/12/966d1c73ff5fa94b82c59d8f2728b0edb93525a200fdae5e59973f9580d7/rpy2-2.5.4.tar.gz"
+    },
+    "2.5.5": {
+      "sha256": "5393ab8bf04b0742f100df42633842cd18249c84ac62a83556d6a905f675d52d",
+      "url": "https://files.pythonhosted.org/packages/2b/ee/cadd2702b3d0a65cc765c7fb1d6515fd47a9422b3ffcb9912a810fa43774/rpy2-2.5.5.tar.gz"
+    },
+    "2.5.6": {
+      "sha256": "d0d584c435b5ed376925a95a4525dbe87de7fa9260117e9f208029e0c919ad06",
+      "url": "https://files.pythonhosted.org/packages/a3/f4/8e3eaadd97fb53ce105d46d6da5e889370eb3215a5c3c7258124c915e5c1/rpy2-2.5.6.tar.gz"
+    },
+    "2.6.0": {
+      "sha256": "53e295f3018a781008bffb97cc0c9a7cd361a3d191939f197157827d21a2e4b6",
+      "url": "https://files.pythonhosted.org/packages/d8/de/994dcb74ad4000d24272f83957108b3f7d93f469abc279b22bd37707902c/rpy2-2.6.0.tar.gz"
+    },
+    "2.6.1": {
+      "sha256": "39f15d7f5d51646a6cbf9d5cd1c817d2880301dbb95141947f93361685453e28",
+      "url": "https://files.pythonhosted.org/packages/c1/e2/1b33ab520b012e62bca598c42a5433a334b710ab4e6a9409ae5cb5f09f04/rpy2-2.6.1.tar.gz"
+    },
+    "2.6.1.dev0": {
+      "sha256": "30ba34604cbef40981488ba1bbdfc8ecf3594ca337433c0508651607e626042d",
+      "url": "https://files.pythonhosted.org/packages/33/69/9ff5a1fd10211fae3ad4410db07ac560d3b47f56dd42ee8ad2cba34f058e/rpy2-2.6.1.dev0.tar.gz"
+    },
+    "2.6.2": {
+      "sha256": "2e28886b2a6a138cfc057f9b7cddade253e61c9abb43f0eae20dace58b6dfced",
+      "url": "https://files.pythonhosted.org/packages/6b/7b/ab970547f09811da19200886a10af04e0535811e1ca9ed7f5033e4dd9c45/rpy2-2.6.2.tar.gz"
+    },
+    "2.6.3": {
+      "sha256": "1ee765312de9a924423e9a7448908304a5bd8a1fc50096e7d1686d4c0ddb31de",
+      "url": "https://files.pythonhosted.org/packages/5b/06/b762808433fbca4e54f22a41f1610535667e52750f1726be3a8943418fdf/rpy2-2.6.3.tar.gz"
+    },
+    "2.7.0": {
+      "sha256": "29e53198d44eebd2d07528376f3f7eda2debae51390d46e10f1351b3cde37221",
+      "url": "https://files.pythonhosted.org/packages/3d/9b/b76b3665936204e14174dcac4814d8c91c833e9c3164664d5e89d777dac5/rpy2-2.7.0.tar.gz"
+    },
+    "2.7.1": {
+      "sha256": "46f90dee5e9d9c8e47d329e87c2e776cbc753e362896186d415ed4a8b14fa77b",
+      "url": "https://files.pythonhosted.org/packages/cc/e9/caa964783c1cc7085eae7a5bf442c0972bfa7700bdd1d682629354444d3e/rpy2-2.7.1.tar.gz"
+    },
+    "2.7.2": {
+      "sha256": "b8c376c2bb78a602effa44c654633f7a11b9bcc582aa3d4828a11302bc290e21",
+      "url": "https://files.pythonhosted.org/packages/b8/d2/8ea6a35c67e52dc1dbe9aa890d80fae77a9d3cfb1282588905a90df622e5/rpy2-2.7.2.tar.gz"
+    },
+    "2.7.3": {
+      "sha256": "fc66a4efa113b48ac32cd4578d5fce551722cd64c5eadafdcab36f074e9e785c",
+      "url": "https://files.pythonhosted.org/packages/f7/92/3ec3ebf8a1714ea7af978133f5f4044b7bcfa2690df7ff1038f300d4a698/rpy2-2.7.3.tar.gz"
+    },
+    "2.7.4": {
+      "sha256": "478f40c6775cc04188818d0410cd8340d900bd782ab3fa734cb6c090ecd57ddf",
+      "url": "https://files.pythonhosted.org/packages/4b/a1/f4b62c9a4c52857520768a50fa1a50e50f4308e72432875e799ccb172aa9/rpy2-2.7.4.tar.gz"
+    },
+    "2.7.5": {
+      "sha256": "0d88f7fff21fbef523c8678ed8f850a36052edca4ce702c62f234fdcb52de441",
+      "url": "https://files.pythonhosted.org/packages/98/ba/895121e08c67163efe3245c660931d72e538f8555ef63eb8982128791c6f/rpy2-2.7.5.tar.gz"
+    },
+    "2.7.6": {
+      "sha256": "ea35a2f37fd36e8af069731bf1421fbb2d3f8550bcb55fde3bebf0bcb1b00a5a",
+      "url": "https://files.pythonhosted.org/packages/1c/b5/37859f3995b17db989cd5b65cef388e97e9bd34272209c4628a22461c995/rpy2-2.7.6.tar.gz"
+    },
+    "2.7.7": {
+      "sha256": "bf17d49c83f856a9ca537a7746c5e5edced23c3a181b89b61cb959a5db90339f",
+      "url": "https://files.pythonhosted.org/packages/b4/4b/be413652e888c132a5548b523df4ebd11ee310111bb6f4477f26fef00869/rpy2-2.7.7.tar.gz"
+    },
+    "2.7.8": {
+      "sha256": "4f51bcdddea01a63e624f4b38de4f6b10a2466d82fd7e890791a07b06e51781d",
+      "url": "https://files.pythonhosted.org/packages/32/22/115048816e0d29ec80adcaf97b03dc20c021928fcb70426904e32179031a/rpy2-2.7.8.tar.gz"
+    },
+    "2.7.9": {
+      "sha256": "39e661949ddad0b3ee9c2ac0b85252c54cf8ccb4ed799f07f4d741e72cb64ba1",
+      "url": "https://files.pythonhosted.org/packages/10/50/222aebde292dcd0853d43d9389212b4b111758859d16b6d10a555968e923/rpy2-2.7.9.tar.gz"
+    },
+    "2.8.0": {
+      "sha256": "61abed9a78051e5febfc9a97d7e2cddd6c2bed2034133116517a0bf0656f2e38",
+      "url": "https://files.pythonhosted.org/packages/c3/ce/dc91e8879b84771fda231b0a1b46e09615bd072d1d2b135b3ee5913b66c3/rpy2-2.8.0.tar.gz"
+    },
+    "2.8.1": {
+      "sha256": "1775f503a1709d4b4907c4f59c40eb97fdc8233f71fbb8fb47989ec654d0dfb3",
+      "url": "https://files.pythonhosted.org/packages/89/83/3b6a957bc82bbdeb2fddc3891e756ded109c1c3adfa7a34eeac4f74eca46/rpy2-2.8.1.tar.gz"
+    }
+  }
+}

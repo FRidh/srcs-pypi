@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "py.test plugin for testing Python 3.5+ Tornado code",
+    "homepage": "https://github.com/eukaryote/pytest-tornasync",
+    "license": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "versions": {
+    "0.2.0": {
+      "sha256": "bbed467a0ad42ceabb67f844dd66eb26bbbcd899f97fff0a077da3510bb9c2c9",
+      "url": "https://files.pythonhosted.org/packages/04/30/df41d16e6a150c8bf010d76079286a7bf45337dcec60e8f2c8b77d8d0a82/pytest_tornasync-0.2.0-py3-none-any.whl"
+    },
+    "0.3.0": {
+      "sha256": "4d2db70c1f9d8d8660ccece95bd2f6b438c81cdfa663a2b3a18789f15e9551eb",
+      "url": "https://files.pythonhosted.org/packages/43/70/10a778570c91b3e80da934527e8f3659d33c96a428ef13cc3995b2c6aa32/pytest_tornasync-0.3.0-py3-none-any.whl"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "Generic voting application for Django,\n      based on django-voting by Jonathan Buchanan",
+    "homepage": "https://github.com/tBaxter/django-voting",
+    "license": "LICENSE"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "b4474df5d9ea9c9eed8d7157f7afba1d706c24a0124db33eccdc933c6be92dd0",
+      "url": "https://files.pythonhosted.org/packages/a9/5f/19dc83b2d5d4424be378c878516c2bfb4bd482208e756c1d293cc97f6900/tango-voting-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "850042413b7f4f508d3a8d0d06ee76a866f71d5a89dc6fa4b51e10911cfeb782",
+      "url": "https://files.pythonhosted.org/packages/d9/ae/ae0e5ca4290e3b034871c9f1da13411c1b135ebabaf95fc26b2408cb2aaf/tango-voting-0.3.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "f97b90e5f06d7b7262491f788773e00c67aa6e510b7797dd89947876e3fb1041",
+      "url": "https://files.pythonhosted.org/packages/3f/0e/8909e635b4986c66471e1901975b9f7a6c5c00759a825d1e8b421f5c0ac9/tango-voting-0.3.1.tar.gz"
+    }
+  }
+}

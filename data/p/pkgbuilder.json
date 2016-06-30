@@ -1,0 +1,228 @@
+{
+  "latest_version": [
+    "4.2.9"
+  ],
+  "meta": {
+    "description": "An AUR helper (and library) in Python 3",
+    "homepage": "https://github.com/Kwpolska/pkgbuilder",
+    "license": "3-clause BSD"
+  },
+  "versions": {
+    "2.1.5.10": {
+      "sha256": "42ecdd310b4a860ea2b90cdec60c571bf91f048bc5fe49c9967ef15a07e34ee9",
+      "url": "https://files.pythonhosted.org/packages/77/47/8e8b3479d110a293a5091fe9c19eb910aa47dac720d1c8d946e1ddfa9ecf/pkgbuilder-2.1.5.10.tar.gz"
+    },
+    "2.1.5.11": {
+      "sha256": "88b8dd1632eca01410b6b2c595b70354ab384de87a482302ac02e89f54d2051e",
+      "url": "https://files.pythonhosted.org/packages/0c/2f/9cb984d71770774e20e1792fb35548786ecbf1806aeda69cf04e201bbce5/pkgbuilder-2.1.5.11.tar.gz"
+    },
+    "2.1.5.12": {
+      "sha256": "d2dddf160ffe1a71f7720b4d61e73b1f4d83bd459460783b22d463c3f609996c",
+      "url": "https://files.pythonhosted.org/packages/9c/9c/c993a883484daef643cc29696484e9c1ac39b13b6c9a0f7913f243e95e2b/pkgbuilder-2.1.5.12.tar.gz"
+    },
+    "2.1.5.13": {
+      "sha256": "6a2fd20e5b14c6a61da3266c705224467ebb64b3f0a737710b70bec811a43edc",
+      "url": "https://files.pythonhosted.org/packages/55/89/6a0a91a8aeab024803c145cffe5e03c33b62bb9340e322de4664f031bb22/pkgbuilder-2.1.5.13.tar.gz"
+    },
+    "2.1.5.14": {
+      "sha256": "c5d7d5117edd10434946f1df1fde51421bf85d151466f698c4424be1484fe867",
+      "url": "https://files.pythonhosted.org/packages/45/21/4526bd1af9640d521ed7ac2c784ddf1ed8811e90ffb83546454f445a37c8/pkgbuilder-2.1.5.14.tar.gz"
+    },
+    "2.1.5.3": {
+      "sha256": "5f109d98cea3cfee73e4c00796b04d7405303d7c90593f7fbaeb8f623dc0c0b6",
+      "url": "https://files.pythonhosted.org/packages/26/b9/803dcf2892609e788428428af36af3156fc4b006986b1ba79c095e420ec9/pkgbuilder-2.1.5.3.tar.gz"
+    },
+    "2.1.5.4": {
+      "sha256": "67ffe66be13430597e240a2bf90f36388adec0e3ab1a870df29e966ac4edeb86",
+      "url": "https://files.pythonhosted.org/packages/82/94/abdb9f39a26b5aae8cde8f62aa2f744aa17c58890d5e6c124a2285a24311/pkgbuilder-2.1.5.4.tar.gz"
+    },
+    "2.1.5.5": {
+      "sha256": "1f99c0e30aab2a53750756911181e81588cf3930cc96742493cd4bc90aaed500",
+      "url": "https://files.pythonhosted.org/packages/2e/c2/150d54874ef49747746b51652072d6b747f74a0676967436cfb7909581b1/pkgbuilder-2.1.5.5.tar.gz"
+    },
+    "2.1.5.6": {
+      "sha256": "e34694eb0c5bae9053a3e8c7e644989658252b621aef893c25aa5a42d332bad4",
+      "url": "https://files.pythonhosted.org/packages/9f/3d/cdc9f50a08681636a0fa6fd4ce9a6eb1d3edde7a835d3272a560e5e1670a/pkgbuilder-2.1.5.6.tar.gz"
+    },
+    "2.1.5.7": {
+      "sha256": "3c460cad89b3786eefb981d2b1a2a4cac3e6ed798a9ff705b3b218e38d8be9d8",
+      "url": "https://files.pythonhosted.org/packages/39/03/46c4a0ddfab8139d9a83f5e69ac2de9b0f5bd4d2f996ad2abb3e2f5ffd38/pkgbuilder-2.1.5.7.tar.gz"
+    },
+    "2.1.5.8": {
+      "sha256": "839139d40f9191961c7e4bdaab246173f9dd4b6903fc7555216afe0189584c06",
+      "url": "https://files.pythonhosted.org/packages/ca/8d/965db7b5106df332609ebbcf98e2ce4113a8e23f843f1bbcf205f4ba2148/pkgbuilder-2.1.5.8.tar.gz"
+    },
+    "2.1.5.9": {
+      "sha256": "e8731f915a1b4067f2dd7ad4aa7dccab232975dce615daee7d66291a11508d05",
+      "url": "https://files.pythonhosted.org/packages/51/ee/8b8826ef55cedee48d266825db9796115c4e9718015d360fcd89a124fe05/pkgbuilder-2.1.5.9.tar.gz"
+    },
+    "2.1.6.0": {
+      "sha256": "974c0e0188d773cd332232b991b969ce8b1609bd7e8005c17aa7c9231d562b57",
+      "url": "https://files.pythonhosted.org/packages/c4/fc/8306ebe800a70885ac9d200b787c101f1f2898d3af45ad6e12eaff50e6b6/pkgbuilder-2.1.6.0.tar.gz"
+    },
+    "2.1.6.1": {
+      "sha256": "85a69a71e2a7588723ff067ecb6c5592753fd545e0a0d10f60b66b99125c4354",
+      "url": "https://files.pythonhosted.org/packages/d4/6c/f8f7ddbb507253d00ce34ebe6695b4dcb5a5697d3511459ea5385aee89d8/pkgbuilder-2.1.6.1.tar.gz"
+    },
+    "2.1.6.2": {
+      "sha256": "8697e40f6c5dee28c327ad982eede6885836a4d929869f6c346fb72bd4179c4a",
+      "url": "https://files.pythonhosted.org/packages/42/ff/8dffcf746920b32988bcef27814609c487b0aa17fb02032860f657727012/pkgbuilder-2.1.6.2.tar.gz"
+    },
+    "2.1.6.3": {
+      "sha256": "38449d1461b170a141e567914b732f7c15cda7af45e09ecbf1439ae3520f7b29",
+      "url": "https://files.pythonhosted.org/packages/8b/4a/5489b4d83a2d09dc24a3d8f8cc3affccf21229b02b5d591defc49c1eaba9/pkgbuilder-2.1.6.3.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "1018cd6164573469671427f28e6f158caea71ebaedfaae8217d2f295771d2bb7",
+      "url": "https://files.pythonhosted.org/packages/4a/7b/da0644f066e108f76d69819b3f238ddef0381769c100787f1bede9e2f057/pkgbuilder-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "f88ca4eb47f8922390d4e8f231951b2490eb81d2ac2872cd79bf6c46e9b88558",
+      "url": "https://files.pythonhosted.org/packages/31/9c/317a2257244203ec1f16d8188d2049e821b1bdcfa114bdc52a8e3867f49d/pkgbuilder-3.0.1.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "2713c19553d5a668fcf978608e5713351a6cfd907513a1b43a00de29703e4707",
+      "url": "https://files.pythonhosted.org/packages/25/e3/f32e0208ee7ed45b858461e7635e1e47eda7dcd46d7a6eb44ac643e826e8/pkgbuilder-3.1.0.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "81d9ea24be57ad5cb09cad50fdce14c7daef18342d5fb2bb0ec2cfa1b523914f",
+      "url": "https://files.pythonhosted.org/packages/96/f4/7681108cc388c7d8eb8244cfb0e732608e2fb8eee262a2ac1ff7c7c6a971/pkgbuilder-3.1.1.tar.gz"
+    },
+    "3.1.10": {
+      "sha256": "7ea4a1f46d6877f0ad777dafa025889c425b30785d42a04b10674962c5a70fa6",
+      "url": "https://files.pythonhosted.org/packages/65/a6/440f0698bf0ae1e40abad53bf9330155e14125d852bff90177512f823905/pkgbuilder-3.1.10.tar.gz"
+    },
+    "3.1.11": {
+      "sha256": "96b2a68349ab6804d021ff750106474ce35f152ac63aee7dd99ab62fe25062b6",
+      "url": "https://files.pythonhosted.org/packages/8e/c3/fc67fc2e6736a8d7e401f6834b2e98605b9ca54a13f7a40ed6a256a6f20a/pkgbuilder-3.1.11.tar.gz"
+    },
+    "3.1.12": {
+      "sha256": "a57dec9d6244e6199eb71ff16830863be2eb66374b9d73687faab7e017554dee",
+      "url": "https://files.pythonhosted.org/packages/c9/cf/137da9670c8a3f09dd855ea5c5b808687606e6d5a9ce5612b6e069d17720/pkgbuilder-3.1.12.tar.gz"
+    },
+    "3.1.13": {
+      "sha256": "34db163b0c64e5bab6b15b6c9813c344c09c00219a6f997bf8d2972e18eed98f",
+      "url": "https://files.pythonhosted.org/packages/95/24/33f756c9a39b5c168e5d7031cd84151affbaf846640ab91d95f747af4ed3/pkgbuilder-3.1.13.tar.gz"
+    },
+    "3.1.2": {
+      "sha256": "ecff6ee01d599c1c050ba43b7d6ff5872b695a0f4c7a78a2fc8cc33bab31c1fc",
+      "url": "https://files.pythonhosted.org/packages/c3/7c/4e3b901d63659f634315abbc5f08c6a0f0ddbe4d158fd2126a6e065328ea/pkgbuilder-3.1.2.tar.gz"
+    },
+    "3.1.3": {
+      "sha256": "74c8f684eb239de222bbd199a624800d8303af62a7dfe4cae5a78ba4b5a1798c",
+      "url": "https://files.pythonhosted.org/packages/5b/4a/4af5ad35c52bea70caa3a0f1506b25d785711267f8252fb39e5718171c5c/pkgbuilder-3.1.3.tar.gz"
+    },
+    "3.1.4": {
+      "sha256": "a94d301c7e077a60ca7f5eb0cb57a4cefa868d01571b18ab60aec9e7fd56fd0e",
+      "url": "https://files.pythonhosted.org/packages/a5/a4/18ffbf94f0ebda4331d72c322cdb2c03dfac8099e875e79a41f7024482c9/pkgbuilder-3.1.4.tar.gz"
+    },
+    "3.1.5": {
+      "sha256": "80367f015260d7adab5da9fcc8bf525a1f97fed996bd762cac92580e24cdac86",
+      "url": "https://files.pythonhosted.org/packages/5c/72/caa9b8f148a4424b70c0cde52e13e3c21b68ad7d9da1464caa89eeb20ae8/pkgbuilder-3.1.5.tar.gz"
+    },
+    "3.1.6": {
+      "sha256": "3a2123d644dc1175915ecebe6617a8ed5f2005a506018e6667e2315711175d7a",
+      "url": "https://files.pythonhosted.org/packages/d0/b9/08ce0da3ac2ecf8f2a2fbfbd7525d0c16a716e671a837272b4c378f606bc/pkgbuilder-3.1.6.tar.gz"
+    },
+    "3.1.7": {
+      "sha256": "c2caa0435a420f4356e0ffbfc831adf8166ffb6ebedc97f4eceeab4b530f7f24",
+      "url": "https://files.pythonhosted.org/packages/55/f2/aa9230ac3c928ed101452dc57d6b777d3d38b48025149036380b803d3589/pkgbuilder-3.1.7.tar.gz"
+    },
+    "3.1.8": {
+      "sha256": "87fc3a3a3817fd6b1320a4d4dbe90ed7cc6c94b566d996a9652913547f74c80a",
+      "url": "https://files.pythonhosted.org/packages/cf/6a/3d6b09048350f181327f596c1a429d39ef5d358df287b52223c40546ebb3/pkgbuilder-3.1.8.tar.gz"
+    },
+    "3.1.9": {
+      "sha256": "7cca5e444396f17e7d76b77078e10bd35554b81b92a828e60fe099ea08eb8ce9",
+      "url": "https://files.pythonhosted.org/packages/5e/61/2e7db5ecb982247d86d64d311e62ac6fd80c7ed51d8368c9f7363cb632d6/pkgbuilder-3.1.9.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "4403707e32fdea2ed3145155af644c8bbd05b41ebd9731b455fa8d472cdac8aa",
+      "url": "https://files.pythonhosted.org/packages/a0/f6/8beeff4e428006f0658f3dabefd711c76af6b4f4a12d9c77538be1aab84b/pkgbuilder-3.2.0.tar.gz"
+    },
+    "3.3.0": {
+      "sha256": "ead71ca8d16048d1b004f47882bd07f6163e5000d287d7271a8e6fbdaa5e5e31",
+      "url": "https://files.pythonhosted.org/packages/d5/ed/63e5efba594e0c7a342000f5905f1de67e979f72546a3dd17bbe9818f328/pkgbuilder-3.3.0.tar.gz"
+    },
+    "3.3.1": {
+      "sha256": "29bbb8a1c970f57dbfaadfdac5080e665c49d59812ad3af795ca56f6b69ad519",
+      "url": "https://files.pythonhosted.org/packages/c0/30/9fce8982cd1ca65dca8a4f65c2876ae6865bf3bddcb052dbc41882f8aec9/pkgbuilder-3.3.1.tar.gz"
+    },
+    "3.3.2": {
+      "sha256": "247d4d79be0442bd97fed0b48d2882bb04f59b5279a41dc175f96822d550fb05",
+      "url": "https://files.pythonhosted.org/packages/ed/aa/2fa36b30a3b9bda9598afc6e81f26985aa57c7f3ae530375cb42c86ca823/pkgbuilder-3.3.2.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "802fd9bc630d98c8599f11f7587eacfbe01287cf06afd34ce89459d62956d979",
+      "url": "https://files.pythonhosted.org/packages/e7/41/b1fbcde804af20f866ae87a59c1153328c7a7afc0cba400229c3aad8d8f8/pkgbuilder-3.4.0.tar.gz"
+    },
+    "3.5.0": {
+      "sha256": "82dbf1ce51b3d6297cc745bf1347a7df5fe45013cfc86fc0cf736f679a059b94",
+      "url": "https://files.pythonhosted.org/packages/4b/c2/75b608bf176d51e870596a06471c829d15b0b24b430b18cd3733fb8d9b02/pkgbuilder-3.5.0.tar.gz"
+    },
+    "3.5.1": {
+      "sha256": "3edb36a1717abb016f0406094b529854f7d21c60d3934dec8fee6f528e1d9bd4",
+      "url": "https://files.pythonhosted.org/packages/de/5b/eaf079a4c7ff8d5d99dc9aaa919754316464baabd0f67e59dfb87c7533f8/pkgbuilder-3.5.1.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "568dfd50a76d1769d36dd6e819c2f182b62841a84390ab76115e18eed0e3ecd3",
+      "url": "https://files.pythonhosted.org/packages/dc/c8/4645a9c01b44cf91fa17f90f8f88c1932f247eb77c4b6424a75bfa621586/pkgbuilder-4.0.0.tar.gz"
+    },
+    "4.0.1": {
+      "sha256": "66dc25e34d05464c2e56f30486f0fe3163aa48a36f1becd109e9954f98618773",
+      "url": "https://files.pythonhosted.org/packages/24/7c/228e98fc0a0880407ad2881868e801c2cc5405ee6768fefdca0d99037799/pkgbuilder-4.0.1.tar.gz"
+    },
+    "4.0.2": {
+      "sha256": "835ae44c39553fefada8b4476b9f8e5653b5e399f4331cdbcd32870676a97881",
+      "url": "https://files.pythonhosted.org/packages/7a/8a/ccb4e3e1d6140eb72caaff5fb2b8534aa4470c9fbc59d8d1592e87ccb727/pkgbuilder-4.0.2.tar.gz"
+    },
+    "4.0.3": {
+      "sha256": "f7ba149958437f347caca9813a529cd24c607868c0984c7b2379e0fa87b11b0e",
+      "url": "https://files.pythonhosted.org/packages/59/d1/a34a375e61e05d4e1d64885efa7a3202f3883e33e45f933f45d9550dbf89/pkgbuilder-4.0.3.tar.gz"
+    },
+    "4.1.0": {
+      "sha256": "3e1be36325ae6038e4da92fde9de4bc7e0bc8146c31af753f17018bfe3497fbc",
+      "url": "https://files.pythonhosted.org/packages/8f/08/9e68b0fd399496ecdcf14b398038edfb61e370f6f6f11b85b0c2f33497c3/pkgbuilder-4.1.0.tar.gz"
+    },
+    "4.2.0": {
+      "sha256": "b53cf4849925d2cc2c7591598882cbb65e8e71ceb2ed9b3406757a98322386d1",
+      "url": "https://files.pythonhosted.org/packages/84/9f/5caa4fd59a115049a221db1394756e4a94968837c928e3b99be382217269/pkgbuilder-4.2.0.tar.gz"
+    },
+    "4.2.1": {
+      "sha256": "e1f0fd8dfaee77c5452792527a10f8f7914ec2415f1decd61aa10ccc76077bc9",
+      "url": "https://files.pythonhosted.org/packages/ba/79/f2d2ee1b42a54a34173c9122bf245f177cdfa3f7dca81484b8c515bdab98/pkgbuilder-4.2.1.tar.gz"
+    },
+    "4.2.2": {
+      "sha256": "4898f70c2a96ccc044336e2a3ad1725c41f74bfa50089904353e0826356f6653",
+      "url": "https://files.pythonhosted.org/packages/ea/58/8f7d38f9f99ca7c835cb996f1b10a276883d2857f3bb225181a366010693/pkgbuilder-4.2.2.tar.gz"
+    },
+    "4.2.3": {
+      "sha256": "df0aee4e21f1fd12436a84dc1ce01fb9ef5b0be7b7301abad5c96aabcd3c93b0",
+      "url": "https://files.pythonhosted.org/packages/63/61/a0d565ae3f3abe7ee99c7888bf73dce4372e88ec277f8df6ee5a5d4ad51b/pkgbuilder-4.2.3.tar.gz"
+    },
+    "4.2.4": {
+      "sha256": "0fe602486715d1f735bd680ab15ec15b951944565198968e822f0e6d0a947691",
+      "url": "https://files.pythonhosted.org/packages/44/34/03ae897a19091756e23a1823f4bcdf9d00dfeb605ee13a37a4c93ee9b562/pkgbuilder-4.2.4.tar.gz"
+    },
+    "4.2.5": {
+      "sha256": "fdd15ea65d771008ed8b0fe160d50c48233de76578f04fe1b8e558d4129b0f35",
+      "url": "https://files.pythonhosted.org/packages/04/06/93be445b454841a6345b51c46639d42e058fb1d1679d72e66515173607bd/pkgbuilder-4.2.5.tar.gz"
+    },
+    "4.2.6": {
+      "sha256": "3b81f56608fa0f308a297bafec3cb0a1c5cca83e0d111fcd867666b9da1eb23b",
+      "url": "https://files.pythonhosted.org/packages/df/4f/0b87f1edf80783428e271bdb0feaed76f1a3151fbe633198af0bdaf9c7fa/pkgbuilder-4.2.6.tar.gz"
+    },
+    "4.2.7": {
+      "sha256": "51be6ceec0490884da8065c5db609179b6b3ba5487a4902e04e2b11294bebde6",
+      "url": "https://files.pythonhosted.org/packages/76/c5/96e6b86ac18f5f8b67c960aea65894c100436d37b136071bb27f6c2e00f5/pkgbuilder-4.2.7.tar.gz"
+    },
+    "4.2.8": {
+      "sha256": "d59838a182ef509df71308a03f6856722d23a4df8d73f082ba6309caafb310dd",
+      "url": "https://files.pythonhosted.org/packages/23/dd/7b444a1dfce22a43b8188e39117bd59f7bf2aad075ed70f9c241c04cf301/pkgbuilder-4.2.8.tar.gz"
+    },
+    "4.2.9": {
+      "sha256": "360c8e5ef0548fd908d4534269ba36bafd3871b00cd7bde36daba13ff9f6f36f",
+      "url": "https://files.pythonhosted.org/packages/19/9e/c24124e96e04b59627a15867ccaa6a78a6c159f2b446621e1f71435ae869/pkgbuilder-4.2.9.tar.gz"
+    }
+  }
+}

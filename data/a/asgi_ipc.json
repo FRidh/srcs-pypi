@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "Posix IPC-backed ASGI channel layer implementation",
+    "homepage": "http://github.com/andrewgodwin/asgi_ipc/",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.2.0": {
+      "sha256": "57f35ae1a4960485bd254f9065b94275079e01647e4954a25f9cbea1a359e177",
+      "url": "https://files.pythonhosted.org/packages/38/05/73e79d8c3cada058f042a73ce0c63b8820c96c7cc2b05e32950732e94165/asgi_ipc-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "3f67a4ecd10ecf5d2c205a8ad809021b3873dafddc164940a8ba9c5b8c5eb7a2",
+      "url": "https://files.pythonhosted.org/packages/32/c2/7f860858946851d5e560a6a398257bff4f1a67507aa0c1472184723e4d36/asgi_ipc-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "1915d40b441c339590101cba6e46264f9a0d13c2a8f0c391a89030d703c944b5",
+      "url": "https://files.pythonhosted.org/packages/46/bd/e2fb794c4bdbc22f06dea6b9d912e4286e144eada88ae872588a785a992b/asgi_ipc-0.3.1.tar.gz"
+    }
+  }
+}

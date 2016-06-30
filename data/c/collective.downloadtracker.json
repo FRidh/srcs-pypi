@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0b1"
+  ],
+  "meta": {
+    "description": "It tracks which registered user has downloaded a file (ATFile) at which time. It displays this value in aviewlet below File's title. Administrators are able to delete tracked records",
+    "homepage": "http://pypi.python.org/pypi/collective.downloadtracker",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.0a4": {
+      "sha256": "1ac46cc5622805b4f523bffc1b83fcb10361d76d0b1c0c368a43fb6ec2879589",
+      "url": "https://files.pythonhosted.org/packages/1d/0d/f62db8fd33140b1a40db98c33884f15e00f8eb91a892e2cdf63203d172df/collective.downloadtracker-1.0a4.zip"
+    },
+    "1.0b1": {
+      "sha256": "397b48d9343141c14ba3579a04711917e613d0c90de49bf0d4b11adeb03b3155",
+      "url": "https://files.pythonhosted.org/packages/1f/2c/2cd8401fcf9dfeebc48b9342351708f49a344273eb075983f04c07b4cf13/collective.downloadtracker-1.0b1.zip"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "2.5.1"
+  ],
+  "meta": {
+    "description": "Amber parameter file editor",
+    "homepage": "http://jswails.wikidot.com/parmed",
+    "license": "LGPL (or GPL if released with AmberTools)"
+  },
+  "versions": {
+    "2.1.10": {
+      "sha256": "036702c47dd2f0682bdde02db74678e4628cd773983c99dd2da19479da401c34",
+      "url": "https://files.pythonhosted.org/packages/dd/24/a0d4de0b0ff344795b09fdfcbc0bd3e7207d1554bf5fe20736a78338610d/ParmEd-2.1.10.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "bfa8d8346c519bbc874d7217915a7970dbec84e8790ed2e740e7952f4092a7ea",
+      "url": "https://files.pythonhosted.org/packages/66/3c/f117d1069a26fd6a8153f3061827ea8b47d4ee99beb43850a93c009d0f38/ParmEd-2.5.0.tar.gz"
+    },
+    "2.5.1": {
+      "sha256": "4e514a3804c02bf8b74a15367d7f027f6b2f8a09dadd1edcd1fda296aa2fa86b",
+      "url": "https://files.pythonhosted.org/packages/ee/c3/d59a85593e3bd0ad611567b131211b3d4966f49b9d1ac8ea94eea3c2e78c/ParmEd-2.5.1.tar.gz"
+    }
+  }
+}

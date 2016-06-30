@@ -1,0 +1,160 @@
+{
+  "latest_version": [
+    "0.14.1"
+  ],
+  "meta": {
+    "description": "A pure Python chess library with move generation and validation, Polyglot opening book probing, PGN reading and writing, Gaviota tablebase probing, Syzygy tablebase probing and UCI engine communication",
+    "homepage": "https://github.com/niklasf/python-chess",
+    "license": "GPL3"
+  },
+  "versions": {
+    "0.0.2": {
+      "sha256": "3947efdf9d1e10cc1dbd68833df1d48513c382a08c74fdbeabd4ea76c176bdb6",
+      "url": "https://files.pythonhosted.org/packages/b7/35/07bbe9cb5256ee2ef7e2cc243760d8c58e9920ec4103d39b5384f0e75bcb/python-chess-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "6a07642d16c37b7cd289323a2b2d48eb167b117e6e7a7c05ff4d21b612ea2e4f",
+      "url": "https://files.pythonhosted.org/packages/00/2a/3c0a30cd383bc3bd5d8c551d79d8536f941a641fa17e2837c0aff85fd6c2/python-chess-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "78d271abeb94d591bfe1a8787470e8cf8c0df175e1ddd852f85ad882a707ec20",
+      "url": "https://files.pythonhosted.org/packages/e5/f6/587da1824cb0d9b2568901821f8685d868440251b262b9708adbc329f9f6/python-chess-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "78f400c4e8fc2349e45aaf2761754c9d346ae43cc59aace389203caf625ed1da",
+      "url": "https://files.pythonhosted.org/packages/b9/22/5f75300852979ae7cbb25ee1c46d5bf2d04628b465a58e609f9dbf870d39/python-chess-0.0.5.linux-x86_64.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "c7c7348c5244241d5bb2ac8fcecf53002dadc48d938db728f50ae6c0903f12c5",
+      "url": "https://files.pythonhosted.org/packages/3a/bf/114db9509ce8d88695c6486832249c3b97617d223275a02461ef4e13675f/python-chess-0.0.6.linux-x86_64.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "57ffcb1a721c01db0ebaa194745e42238b48345b7852ee2bb0ee6bd1e0ce1187",
+      "url": "https://files.pythonhosted.org/packages/3a/f3/d8db463e6f771cc47948868752b0d9258c44fa8ef7981be94c4f0ef9daf4/python-chess-0.1.0.tar.gz"
+    },
+    "0.10.0": {
+      "sha256": "5b4252068fa25f37b5729ccd5173dbf7b86432e32b7b322ab5055a5c73c42f6a",
+      "url": "https://files.pythonhosted.org/packages/46/09/8db7810b59fa92515194dc5972fcef3322c554a3bb416c79c768701c24cb/python-chess-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "a9f8d2e80eda578f4176b95eeeb3b91c1db43ab04b8ac5de3c62728f53bfba6e",
+      "url": "https://files.pythonhosted.org/packages/52/0e/103f1bf74f8767a18cc9130f46a484ebc88429f54f2eb82ab088154a4d29/python-chess-0.10.1.tar.gz"
+    },
+    "0.11.0": {
+      "sha256": "611de2c09046b2d4a6e537a607ad18b12433d584a7d2ff99441125ab2559f067",
+      "url": "https://files.pythonhosted.org/packages/47/ca/44e2f809c75d415b77288f360aee3ca87313d2cd762bedbbf20a0946ee51/python-chess-0.11.0.tar.gz"
+    },
+    "0.11.1": {
+      "sha256": "276cc6592d7fe10ef9ea20c79384e41a1a2028f5c49d60003711fa6e638fb86d",
+      "url": "https://files.pythonhosted.org/packages/6f/e8/310ffe8a29c9d0dc244a4e10129bab51ecd42e0d29f8766af89b2d8047df/python-chess-0.11.1.tar.gz"
+    },
+    "0.12.0": {
+      "sha256": "b4ebbc3d8556764caa2941e39771334b472428e672f7e35c286454b2dea71b41",
+      "url": "https://files.pythonhosted.org/packages/13/83/79a783668c722e3561b2172f3b71c42deb55a7696f343a0974b1679490ff/python-chess-0.12.0.tar.gz"
+    },
+    "0.12.1": {
+      "sha256": "40359c663108a242a562b7510aa8adc4544a245027a943b3e751d9578996701f",
+      "url": "https://files.pythonhosted.org/packages/8b/29/fa9800399bd1987a6337040615e43850b701e62dc02f20a1bd7993357eff/python-chess-0.12.1.tar.gz"
+    },
+    "0.12.2": {
+      "sha256": "0fca248165b8314a4f095efa6145d34edcc96a808e2f99a831e30434279602b4",
+      "url": "https://files.pythonhosted.org/packages/34/13/570e4155da127fee2f1b5c3a407dba2025b7992bfc79fe9c0c18b4e37e81/python-chess-0.12.2.tar.gz"
+    },
+    "0.12.3": {
+      "sha256": "6ab5076fdca2eac3b452d0e0fb1c7ccdfd7a05f48b6c9fbad43f5ced061800a0",
+      "url": "https://files.pythonhosted.org/packages/d1/43/2c3edc9ca0542607a9c8c891b70decb9c4884d2d09724ce312a19f5f9701/python-chess-0.12.3.tar.gz"
+    },
+    "0.12.4": {
+      "sha256": "52bcb2b8e8f8b0650a988a83909b402f1f10f4bb8ee2340498fefedeb83cd2af",
+      "url": "https://files.pythonhosted.org/packages/df/e4/105b8e253223199948b4f875d1ec6e33a2b4249b247e7b58396c74d2476e/python-chess-0.12.4.tar.gz"
+    },
+    "0.12.5": {
+      "sha256": "9af39490d1c22aec3a2eb5bfd61350071c3ba37170e345a2560f2b0b04dd91d8",
+      "url": "https://files.pythonhosted.org/packages/f3/7b/779db5f98c81bd919ebfd77bc206e553feb0736ce5565c1d5b495c41849d/python-chess-0.12.5.tar.gz"
+    },
+    "0.13.0": {
+      "sha256": "f6001364f57a5cb204bbebe605bfec52eaa5b947cba4103213ba0fd7bfe5152e",
+      "url": "https://files.pythonhosted.org/packages/62/b6/6458b616e2cb980886a7ee4269ca535e8e3302d32f61676e4806aa8a43a5/python-chess-0.13.0.tar.gz"
+    },
+    "0.13.1": {
+      "sha256": "5ac5a56090d6a7b75490eadf147d8b62ba051553d6cc7a4074f0b9799e637658",
+      "url": "https://files.pythonhosted.org/packages/66/40/34231587fc45eab8f81c4d9e3078ef9c31f9ac1170ecc303182b1c4c94fe/python-chess-0.13.1.tar.gz"
+    },
+    "0.13.2": {
+      "sha256": "30f26a28d5526aa98b1f7adc74c95e4d41bb18f937e8a2f57a081c6c14e023aa",
+      "url": "https://files.pythonhosted.org/packages/5b/37/5378b81ec4f05c521c29efad303a40beaeb1bc69559ff451637592a8aa81/python-chess-0.13.2.tar.gz"
+    },
+    "0.13.3": {
+      "sha256": "be0eda3adf413437ce5b90c16a8df9fb02325da631eeb476913c04bc70b7b641",
+      "url": "https://files.pythonhosted.org/packages/b3/0c/c10c256be0f0683ae8b93ed99fdbe8d6a03e400ce3f222a36c7123dc93c4/python-chess-0.13.3.tar.gz"
+    },
+    "0.14.0": {
+      "sha256": "156bb5191b8e7cdfbc805f497d0a47638c2dd955060d808cec60f8006d328cae",
+      "url": "https://files.pythonhosted.org/packages/6e/2a/e1728566972e1d150157676f5194678b035dc5a89c21f7a25e59b7fdf795/python-chess-0.14.0.tar.gz"
+    },
+    "0.14.1": {
+      "sha256": "c36557d1a6498bd2b85d39754c22658c2ffc8536b7c266565f0931dd675334eb",
+      "url": "https://files.pythonhosted.org/packages/df/34/578455e86b45f6fa7ea3e26f5f1199a6432bf38881123908c4a837563641/python-chess-0.14.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "ea47a9fef410c16bb3bbc87dec3b18b669b3eaa25fe74db09c5bf070e38e8b04",
+      "url": "https://files.pythonhosted.org/packages/e6/66/bc1743544764bab8506a55b5c4b6ccfa99fed98c1d5e45103ccee242e9fa/python-chess-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "3b7eb6a2e9d8e3bc86987a6cd5e1ef6ee075fd1d95a7670b4b0b03fad780df16",
+      "url": "https://files.pythonhosted.org/packages/f0/93/e7ba4be37bb64a0028d87417e32261460b91cf585305b3b5dc62e897b43f/python-chess-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "05fb1c8739d2fa5a6a0b4f4d120e21069268790945ccf388c98f546c646ad1c8",
+      "url": "https://files.pythonhosted.org/packages/23/ad/743f98c5d8d043e2b88e04e11a40fcc8f15c433ef00d221639e28889a86a/python-chess-0.3.1.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "ec8a06bd352f682b845c0ac244412dd9e5286cacf95c7136e186e274a5223ff6",
+      "url": "https://files.pythonhosted.org/packages/9e/d4/a4eba8d5e8e1dd7b3a7b86440e5d99c605d80b907769f056b4c2034f3ab5/python-chess-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "ba24147d2287fd0d8fd13ab54c90df365f6adf73dcbe8e335db28dadb3b5cf9b",
+      "url": "https://files.pythonhosted.org/packages/55/62/45036cf89b062f4da62e9d9a8d87a42bba35259a31a1e13440fd339a9b36/python-chess-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "7ca22fdd948e64091e46ab8d50e1899714c29ed1cc95449ea61dbecc493b0a5a",
+      "url": "https://files.pythonhosted.org/packages/43/f5/141510477c66d5bb4c422b81a2bbe6effab6d0d0e889da3c2a4203f24a93/python-chess-0.4.2.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "007062fe5fd910a3a5485adf52aec13fd6fcc6dc2e61fba31f8b0c5064167b11",
+      "url": "https://files.pythonhosted.org/packages/88/0d/d968890615c2b59804ccb960c0ce5497c1840f108b45b806b777ae52e1cc/python-chess-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "d752c9776a7123e4c30a5ba040d73ab8f5382989e86d74386e7f153f7b3b7832",
+      "url": "https://files.pythonhosted.org/packages/ca/64/799640e105ed630ad03b5416e70edab873752e0cf3c9e7a12ea4cb167c6b/python-chess-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "49f5df6cecc8e17f24afcd552741d2b5b57aba0a08fbd4af19a78ae17f3e3620",
+      "url": "https://files.pythonhosted.org/packages/42/47/7dddc9571ad3202e7f9f4efccc939e1e6af87418e30cf6c845a39a8ae02d/python-chess-0.7.0.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "1636f49ab9318167d2187f457a98852ff478cc6f1651a4d1930a085773be378c",
+      "url": "https://files.pythonhosted.org/packages/02/fd/3e476a33343f80d982f53a25fdda411880909e99109609522a81d49a54ed/python-chess-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "197024b9a7e8f79c7f031e9c656535dff3ec76c1ae213e8fe1d31b4bbfa252d9",
+      "url": "https://files.pythonhosted.org/packages/32/ed/fa3e54eeba07b44a5c0be5d491104809b775224b96aa70da8675a1bb89e5/python-chess-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "84b2b31c1a0aa2d9394277d078aba663d0d4f222effb3b6fec4c7c2b66e9866d",
+      "url": "https://files.pythonhosted.org/packages/55/1a/d300e3efdf2ffbd11f0a62656ff324e87793a48d2a266c6d20f0e912df67/python-chess-0.8.2.tar.gz"
+    },
+    "0.8.3": {
+      "sha256": "bfce5c503c0df72881fe31afeb7a7cd6d035f696189fd400160dc347530eeb06",
+      "url": "https://files.pythonhosted.org/packages/07/27/92c505d3e269a6b4ef9bba5492c66399d91b400de521eb532f585812c9a4/python-chess-0.8.3.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "3bcf13cdee12eec4c2047ad95cc43b98c9d688b8c9596748ff367c19c22db540",
+      "url": "https://files.pythonhosted.org/packages/28/94/595a56777bc9dcde33bf439d27942c81a319cf5f7b5a4a23a5e32d19075e/python-chess-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "1a7b997bf54b72f3192051abe6d433ae81718ac5a96b6f7b319eee9db49853f7",
+      "url": "https://files.pythonhosted.org/packages/46/b2/9f849bad94a231296c0fdb0f0d1bd1a839fd48320df5e60d1375ea9382b0/python-chess-0.9.1.tar.gz"
+    }
+  }
+}

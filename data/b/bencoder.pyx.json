@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Yet another bencode implementation in Cython",
+    "homepage": "https://github.com/whtsky/bencoder.pyx",
+    "license": "BSDv3"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "3c750a3306d60b3d64718640e1f469f4e32a02ba913c3fe31acb3af98df538b7",
+      "url": "https://files.pythonhosted.org/packages/18/b1/19f259f83705c3db0baf5f5696970bad8feedc5740bd5b8ae8a6ae8c7164/bencoder.pyx-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "4af4b4e3042a2900520aa89776e66b68816c7c43f9c2b66c108fb942f509fe47",
+      "url": "https://files.pythonhosted.org/packages/fe/bf/f5b99acf9e28c0d05938546f184f9f75e1d62d2ece4535649b9bbc498818/bencoder.pyx-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "abbe5d8d6c21b14adc965d9c7300c8034994ac4948b5f7b0c3e825d3af9315ff",
+      "url": "https://files.pythonhosted.org/packages/26/2c/d99787391a4f22f3e36d5805c77c7e38ff2a5f5b82b0939a924869301c79/bencoder.pyx-1.1.1.tar.gz"
+    }
+  }
+}

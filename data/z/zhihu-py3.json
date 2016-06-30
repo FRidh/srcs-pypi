@@ -1,0 +1,148 @@
+{
+  "latest_version": [
+    "0.3.17"
+  ],
+  "meta": {
+    "description": "Zhihu UNOFFICIAL API library in python3, with help of bs4, lxml, requests and html2text",
+    "homepage": "https://github.com/7sDream/zhihu-py3",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1.2": {
+      "sha256": "59e6f110b29c0bd001ad5e2e6429b1804ce5c5b08da5cbee3f304c264a8c1cca",
+      "url": "https://files.pythonhosted.org/packages/48/49/ce1b7e605ef48ead0118ef8a58a5a60dc1ba8872e4aba4575ac8d94fcc90/zhihu-py3-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "e430784a5302e0ce2813a9dd53e52716c6afd17ae1c24f0fb1330aa7c3ba1114",
+      "url": "https://files.pythonhosted.org/packages/5f/83/91a8fda4466ef4687147461447f9aec8d7f2dd1ad1a1c4eef06611f20c4b/zhihu-py3-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "b481a8d75239b53ec685438382fd730e9ceb9736dd9a4932f6f9c86f5e4b281f",
+      "url": "https://files.pythonhosted.org/packages/e6/74/d4adb3e57a8c5b9cb3834f531527d01ad0b298579aa2d57b5f1b1678e29c/zhihu-py3-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "7ab29609cfb1f86b3b1314f3ff91a5c2352d1a47a797b7feb75bb3e0ff124f13",
+      "url": "https://files.pythonhosted.org/packages/71/78/bdf48c7a1bf0c78aae5f724ae0e33ee5070407cca2ec21f7804b279e6cda/zhihu-py3-0.1.5.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "ae6298aeb7bf10d6d5d771dd52ffcc849cc9ee3ee45624c1f2f24982dd8beb94",
+      "url": "https://files.pythonhosted.org/packages/fc/92/05b5807e23d3470030bc327f6e31d82669c136ce2c10ce833e2d9335e772/zhihu-py3-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "1e85c8caf33ed521fde0f4cbcbde0cc2730918ea00637bfedfc68d4d4181fbec",
+      "url": "https://files.pythonhosted.org/packages/8b/d7/d947f614440dc7efd64c7359fa89d83c5cd9703d992b1de985d7dda8bd11/zhihu-py3-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "416e01bd7154305159d140fec25a511350e73b7e98d0d9a78d6360ad1629e0a4",
+      "url": "https://files.pythonhosted.org/packages/54/17/70c8ac914a07efdcb09f80f2eadf25e79900f635c1e73cf0dfbb1176cd95/zhihu-py3-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "d5f59e51a91075232afa3f695230221a3c80cd3c87033b21e7e60e33b693f157",
+      "url": "https://files.pythonhosted.org/packages/26/9b/8b31d6e5c7067d1bce105fc81351a54094815ef9ffeeac2d3fbf7c1b5141/zhihu-py3-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "c4b9304cb0417f26ce34c2ecbfb5c5dfb5b27748f8640a6f6e689c22e886d985",
+      "url": "https://files.pythonhosted.org/packages/12/f0/25d8e18b7db68b3baba1637d39bd1130408b94bb9a0bd45c2d9de845bf53/zhihu-py3-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "b1e9ad1ac0398dcf0398af7fd0952b0c9f459e6daea4249786358271c5b81b7b",
+      "url": "https://files.pythonhosted.org/packages/bc/9b/cacef34cee9f109ca0ab161ca692b9844b7a20ebb079299b8cddcfc2bedf/zhihu-py3-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "632aec354a341ba2d5f2f3bdb5d0fe2afea5f353297f4ffd3067616fc1566a21",
+      "url": "https://files.pythonhosted.org/packages/14/26/87589049e7c526e8336c57043f73393a127ee2cfbe0ace1348898eae7893/zhihu-py3-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "c34dfe0e9d5000811d9a42aceb2f40fce6aaa224d7d1ec29c5f1af80a05d6806",
+      "url": "https://files.pythonhosted.org/packages/aa/ad/8768ffbf417e5de6b6e6eb5e143990adb880550990d3efb734f4844f1adf/zhihu-py3-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "7b4ba8fa1c8d91caa46a65d6bb9461c54faac772c06d6e709022ebb8c5a04e03",
+      "url": "https://files.pythonhosted.org/packages/50/80/538a749cafd1ebe58316c524a2f1437cfc9e53afe0171e99ebb5f52bd050/zhihu-py3-0.2.8.tar.gz"
+    },
+    "0.2.9": {
+      "sha256": "98f48f2e98fe26e16cb7b7d624b200b13567f671409b43d46b6eacf839bc2a4f",
+      "url": "https://files.pythonhosted.org/packages/55/1e/9da207d2dfc6c1721da73669ac3c30b63d2968cc04f51892257908e5952f/zhihu-py3-0.2.9.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "3d61bdf4a99cfb0186fd74979f392a86c48e28319a2e96ae7f9cade770e4b6bf",
+      "url": "https://files.pythonhosted.org/packages/74/f8/e96749d9a8251df746e06f8980acecd8b699d242ecaedbe495860660699f/zhihu-py3-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "d085bad857d728bb38e364bde00dd9b0bb265a49e8ef9dbe7c5c4da457af9a92",
+      "url": "https://files.pythonhosted.org/packages/e8/e1/8c97134114b7d35052f2afd5aef58f2d066af4246440c712b02452d77d61/zhihu-py3-0.3.1.tar.gz"
+    },
+    "0.3.10": {
+      "sha256": "65e0582c81ff4f240608abe02e2602679883610fdb2d75f739c48e3c92cef1fb",
+      "url": "https://files.pythonhosted.org/packages/00/48/7f9f25fff980df38cad0e4ed6ae4750e4b313aacb3e9e8567c229ddd9b65/zhihu-py3-0.3.10.tar.gz"
+    },
+    "0.3.10.post1": {
+      "sha256": "58dd2e7174e2b27993f52359e7c0ee4a1bd8d44b330feba205e046b2d2f6b02d",
+      "url": "https://files.pythonhosted.org/packages/7e/12/7e465633950e506918160056cc3e2397d5a575ec64f9cb94b03e98a31a1d/zhihu-py3-0.3.10.post1.tar.gz"
+    },
+    "0.3.11": {
+      "sha256": "844f485aa94d1cc536a80ccbaf16f6d2603aa7206f5f03db7a1fdc4f8ab0532b",
+      "url": "https://files.pythonhosted.org/packages/5d/78/8e717acf04248cec4fa1a661aa5e5ca122359fc14c2075d62d6f0e44daf9/zhihu-py3-0.3.11.linux-x86_64.tar.gz"
+    },
+    "0.3.12": {
+      "sha256": "229e013ac84031376f74752b4308641447ab5eadb67a5f6fee88d18f0b061b73",
+      "url": "https://files.pythonhosted.org/packages/de/7f/32611eba9a7ea4f363fac9159413794bf270c9e2199657e6411150857245/zhihu-py3-0.3.12.tar.gz"
+    },
+    "0.3.13": {
+      "sha256": "dc1683ca72f26a7114c13827ef1f06c98f87a15b7ec34f913ff2cbb421d8efda",
+      "url": "https://files.pythonhosted.org/packages/ca/cc/cc09995019da518903ebf04b914e6be909b99e494b59056c9cccab0265bc/zhihu-py3-0.3.13.linux-x86_64.tar.gz"
+    },
+    "0.3.14": {
+      "sha256": "7f8f70fd04b44170e46377774fc502b80a450728ddfe70b2caa2ea3f9f1bc205",
+      "url": "https://files.pythonhosted.org/packages/69/5a/0c3ce9b4dfd7c580d428a635e3d246b28441c709f9673a00731d3ad62a36/zhihu-py3-0.3.14.linux-x86_64.tar.gz"
+    },
+    "0.3.15": {
+      "sha256": "2149f54eaa74385793b3c8e9c1cc3734d346639a4a618b9fe768304730c4431c",
+      "url": "https://files.pythonhosted.org/packages/5b/91/3aebfdfd413bc4374e3f8a5a684f0e827f0955d843854d54bb119bcf7251/zhihu-py3-0.3.15.tar.gz"
+    },
+    "0.3.16": {
+      "sha256": "2707a939cbd44cfd6007a570a39e16fcc6fa045cfda415699117d47e654ea08f",
+      "url": "https://files.pythonhosted.org/packages/c9/cd/f985f724ec1cdb1b47d303a6168b64b77cfb993ba553d4bcc679e12d2d84/zhihu-py3-0.3.16.tar.gz"
+    },
+    "0.3.17": {
+      "sha256": "c152e4054a8c9770885d3f524039573a86cd48fc0e7bba2165aad915c3e08ce0",
+      "url": "https://files.pythonhosted.org/packages/7b/ec/1e07bef547d886b53f957b4db4423043b41e8330622832d12b760ed6b17a/zhihu-py3-0.3.17.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "ef0b9df1c5e7845499684c65c0ba48bd273514768dae9198fbcb3c9240036b24",
+      "url": "https://files.pythonhosted.org/packages/45/39/a6117de9606e43e48d8f32ebeec0b363c3ae9a4039248c066cbf7d305633/zhihu-py3-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "e00e49f74b7276a770f5d9493dfc2903497da51747946e8dbaa4f46cf2223dcf",
+      "url": "https://files.pythonhosted.org/packages/97/cb/82d40f8224ec8e9cbe11de6615fedfb250edeb8218a4db2b4a7feef94708/zhihu-py3-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "5021864efe933b3f56daaa80eba06d31d2fa21b74de63339d8efc580c553affe",
+      "url": "https://files.pythonhosted.org/packages/3c/f1/99500e583269a82f75df9fb6578d8255bb477350593d7fead9c3b44f09f3/zhihu-py3-0.3.4.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "04acbd44d416804a933b862639bdfab7d5e5ea66b909b0929234e0ed17b21434",
+      "url": "https://files.pythonhosted.org/packages/e4/a5/78f8d48543e8e6f952fd57bf93493f9555c28f51c5ccfa2819f808a804d5/zhihu-py3-0.3.5.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "ad2b252a5b5b714b18e5d2a0a397045281f3999a776a59f2753cc2cdb86dae0d",
+      "url": "https://files.pythonhosted.org/packages/bb/dc/82fb10dd942115e46f847b97c069da9fd06bfedd5c1a69f7fb89fcae7ef9/zhihu-py3-0.3.6.tar.gz"
+    },
+    "0.3.7": {
+      "sha256": "8ddc0067ff316789b4f065c75facf2e421e4ab2f6627a78e6d5bdb8b64fcea07",
+      "url": "https://files.pythonhosted.org/packages/99/66/0e46a52bbf77cd3860194ca1f335386280f1b4c1fb585ba9cfeb7531c28c/zhihu-py3-0.3.7.tar.gz"
+    },
+    "0.3.8": {
+      "sha256": "41e96aeb43ff8fc98a744cb5641b5766e265402fd97c5056925ee7a2b2a4d686",
+      "url": "https://files.pythonhosted.org/packages/2c/fa/65771ad3905555a70e845382639c08af91f25497e251a2f14d4c277f675a/zhihu-py3-0.3.8.tar.gz"
+    },
+    "0.3.9": {
+      "sha256": "44cba276af762d657e8005765f6c2d9ad28db1de68481c1b855d1cefd6822bf5",
+      "url": "https://files.pythonhosted.org/packages/76/b9/0a3ab8ef7f8523ca29288b4a166192ebad77f701f541d64e4c09744cd8af/zhihu-py3-0.3.9.tar.gz"
+    },
+    "0.3.9.post1": {
+      "sha256": "c06245c9983636286bb95339ca253a9943121d37f0a941d35991e657ad7d32b0",
+      "url": "https://files.pythonhosted.org/packages/c3/37/73eaea5a95b29723b1f9a1a019e86637e520d51d0206986d6efa92b46c1a/zhihu-py3-0.3.9.post1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.5.1"
+  ],
+  "meta": {
+    "description": "A FUSE file system for Kubernetes",
+    "homepage": "https://github.com/bspaans/kubefuse",
+    "license": "Apache License v2"
+  },
+  "versions": {
+    "0.3.1": {
+      "sha256": "f388e7b0d3f7e5ee0432d7b7fef1dc1e1d561245fd4c033167c4f72f21c8a5ae",
+      "url": "https://files.pythonhosted.org/packages/ca/28/2aeb3409e17e132441a0e8f5344713507aaef81e409f836165eb45f71e4f/kubefuse-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "f6df782fc60ea790e24230255e26188886f60528cfa114b121b9083589672ee3",
+      "url": "https://files.pythonhosted.org/packages/b0/b4/060d3a60c7dbe18094b6fc099ec8a4c4662ca82c81bbf4843abba731cbbb/kubefuse-0.3.2.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "cd7499d8766b7654349d0bca7f2520f68023996ef24980a043a13ce82651bbe6",
+      "url": "https://files.pythonhosted.org/packages/76/e8/bd0b663ada14300a4e74d90055cd056625ff6fd821150f2d1aab34784465/kubefuse-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "7674e4774308e5819a84b617ecc0f43d4390be44874039edda1958c9a0c78bb6",
+      "url": "https://files.pythonhosted.org/packages/70/59/93093b96b2184cbcc89742107a99a37c9e7ea82a71060e30eb1f92bb3b8c/kubefuse-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "8e485c24ad560536ebe249e5c75f94d228946bc9ff1b3d08ad467af7685e3983",
+      "url": "https://files.pythonhosted.org/packages/07/b2/068d939851c7fb9cd0386eb7f478e4ca6ee17005070ab7cc7d7b33a298e2/kubefuse-0.5.1.tar.gz"
+    }
+  }
+}

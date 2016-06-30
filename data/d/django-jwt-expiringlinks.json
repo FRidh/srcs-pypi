@@ -1,0 +1,27 @@
+{
+  "latest_version": [
+    "0.2.0-dev"
+  ],
+  "meta": {
+    "description": "Django app that uses JWT to manage one-time and expiring links to protected URLs",
+    "homepage": "https://github.com/yunojuno/django-jwt-expiringlinks"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "56d83820ec1d87e4ce6d0316aeaf8a568edcb9e69d709dadedcf96b2a4954067",
+      "url": "https://files.pythonhosted.org/packages/eb/c3/a6065bfc0f0d2422e2b0289853bf2084685d3cdaf8cf36d33929aaf5a253/django-jwt-expiringlinks-0.1.0.macosx-10.10-x86_64.tar.gz"
+    },
+    "0.1.0.dev0": {
+      "sha256": "3f38d28ab27976ad9f23f87145478f91a718f5bc7a330c7214b7c86919a4d5d2",
+      "url": "https://files.pythonhosted.org/packages/6b/3b/731cb0e304003eb3cb0292fd3deec2313a9c591e02a6a86b73fcf715c395/django-jwt-expiringlinks-0.1.0.dev0.macosx-10.10-x86_64.tar.gz"
+    },
+    "0.1.0.dev2": {
+      "sha256": "c137302508fd7fd4aa83da6a9ab012a1c636cc7f20c2917a95a87801640b623b",
+      "url": "https://files.pythonhosted.org/packages/6d/50/9390e8dc85410c9e1baa0c68a820531af61699e26d97d0cf5fcf7781e585/django-jwt-expiringlinks-0.1.0.dev2.macosx-10.11-intel.tar.gz"
+    },
+    "0.2.0-dev": {
+      "sha256": "d29b52a14cd6e88768707eea582b88d8d6feb947837ca976e86c327f3a1d4229",
+      "url": "https://files.pythonhosted.org/packages/2f/4f/2a971b2c826ae2d392017f4108306ef4d87beb467a76f197d3c46a640f46/django-jwt-expiringlinks-0.2.0-dev.tar.gz"
+    }
+  }
+}

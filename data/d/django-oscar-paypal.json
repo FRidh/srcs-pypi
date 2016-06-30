@@ -1,0 +1,128 @@
+{
+  "latest_version": [
+    "0.9.7"
+  ],
+  "meta": {
+    "description": "Integration with PayPal Express, PayPal Payflow Pro and Adaptive Payments for django-oscar",
+    "homepage": "https://github.com/django-oscar/django-oscar-paypal",
+    "license": "Copyright (c) 2011, Tangent Communications PLC and individual contributors.\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification,\nare permitted provided that the following conditions are met:\n\n    1. Redistributions of source code must retain the above copyright notice,\n       this list of conditions and the following disclaimer.\n   \n    2. Redistributions in binary form must reproduce the above copyright\n       notice, this list of conditions and the following disclaimer in the\n       documentation and/or other materials provided with the distribution.\n\n    3. Neither the name of Tangent Communications PLC nor the names of its contributors \n\t   may be used to endorse or promote products derived from this software without\n       specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR\nANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES\n(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\nLOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON\nANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "d64565eaec193bcbed9810c9a47c369863deec2716081bd6e680bbde59af2523",
+      "url": "https://files.pythonhosted.org/packages/28/ab/8f12db694f5236b41ea3891b9494c3c4882b5d360e549a9086bb5ff5af10/django-oscar-paypal-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "53ba0dd253780767676fc4dd2ebb6ff285bb07946175fbd57a9b08d02bb4c699",
+      "url": "https://files.pythonhosted.org/packages/bf/0f/785cf78ba0c15eb3366953dbfa9a39e5f4ac3045416f5d4a420fc10f1449/django-oscar-paypal-0.1.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "62c6bc321ee6d132d9283a3b4090f76fa34604724aaf8307f2fe4903b0c0ca68",
+      "url": "https://files.pythonhosted.org/packages/82/f4/9746963c2822d0285bce7db8490a71db4d1bef8752888e83c031129e9883/django-oscar-paypal-0.2.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "ecdc632f1a02ba57334b848494ba7c42635be25949262eab705f407ae25a688f",
+      "url": "https://files.pythonhosted.org/packages/f2/59/ade3bdb3c8fab9bfe7ee5768da0d7e148464d702e3a9d452c07fa8a89091/django-oscar-paypal-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "bcf8a5927989520faba342367cc242b2ec542bab368fa1293fe79bf5e69577cd",
+      "url": "https://files.pythonhosted.org/packages/a2/34/e0deb378bbe0e710cfdafe69798b6d9c259203b9c4a072d1cb978c50e21c/django-oscar-paypal-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "c424e28cf37dc12f5fab9d2d74a46e1ddc6ba390e4b465096a82e63c6a6d0664",
+      "url": "https://files.pythonhosted.org/packages/c6/16/a21c5153b9c323a0f7a537acad26d7eca76c93240a3e62bcf6246aa2209b/django-oscar-paypal-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "0daacbd9f99cc3227e8d6457325537acb0d7b25a7a10e7a17554260f06499785",
+      "url": "https://files.pythonhosted.org/packages/5f/ae/5136e5fb510db60b6ed96e2a3465d8b7155de795605cb90073bed73716f8/django-oscar-paypal-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "2c99ac226ae87a69afab6b666267efeb1de4dae067c3c718b3beebbba207cf96",
+      "url": "https://files.pythonhosted.org/packages/3a/c7/17af1bf0bb12987cd0933c4399ddd529d8bc3fe627153b3248533eea8f4b/django-oscar-paypal-0.2.5.tar.gz"
+    },
+    "0.3": {
+      "sha256": "8d82636b25cb025e8847161529544d3a30990c0ec98ea87f0a20598746abea8a",
+      "url": "https://files.pythonhosted.org/packages/7d/69/dfebc179616aa0555d516f8da81e00fd2c41d837e788d266c82dc2ca4a48/django-oscar-paypal-0.3.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "dd2da5dd1699751801e20c64bb609c8b7045bdc4aae2c3be3ec6a52d0068134c",
+      "url": "https://files.pythonhosted.org/packages/c7/36/9d342f09c064fe44c2579e6c69aaa1b4e6d0d07e48b59523ac0b01b08838/django-oscar-paypal-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "2e7ba5e1f888e5745b928a7690e67cd6e80e8fe77831e4422cac7292998ff9e4",
+      "url": "https://files.pythonhosted.org/packages/03/fd/a2ac5dd6ae38845725f65aa842ef2cf8ba20ee55d959cf3f3ca2f5c1bab3/django-oscar-paypal-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "c594b69ccc6282a7cd51d8343269cdf6d8fe46762c0e0f3ea2f3f3a8a5017cc6",
+      "url": "https://files.pythonhosted.org/packages/6c/fe/d029fda12fede28a767e635e8c3f18575af7eb9c6e5d27b682059ba09811/django-oscar-paypal-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "e1778fe2f4f91587abe0ea1cfb7bc420d5652d7dde240b572298c26459b2edf6",
+      "url": "https://files.pythonhosted.org/packages/92/72/12b11b15e54da897d7835195d7e39c26252522b28fc9e00aefa35b957570/django-oscar-paypal-0.3.4.tar.gz"
+    },
+    "0.4": {
+      "sha256": "2443a731f05060fd6778d10ef3731fc87f0ae1c2577ae0778987e54ad06aa86a",
+      "url": "https://files.pythonhosted.org/packages/52/fb/b8f3bcbe19836540298ac1f036f22dab416b52762cde2b71bcbd12b8d87c/django-oscar-paypal-0.4.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "4d45231b10f215ca7cb436ea054a5187d4ff15261bf1b86aaeb396dff64ec273",
+      "url": "https://files.pythonhosted.org/packages/8a/8c/63e9e3707611c7f74c3d80ce4320ef8aa7d13bf3fcb04a9fbe66e857c97b/django-oscar-paypal-0.4.1.tar.gz"
+    },
+    "0.5": {
+      "sha256": "a2e2012f0bdb70769827cd957eae91517e8fa527b16dfbeb7033e26c38bd2324",
+      "url": "https://files.pythonhosted.org/packages/cf/fc/e115b193dbd2b4a0499b8df63f6f65d610f8fb44696c8ccb10520959b8f3/django-oscar-paypal-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "c656c1dbf0671c7d2e67aa799760c696bf2656b06f08e6ac4293b77cf2654e08",
+      "url": "https://files.pythonhosted.org/packages/d2/5c/2abe494d76b62256e766bd45cea85bf985a1d11d6430570dfc567d344898/django-oscar-paypal-0.6.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "65fc7195b45f783f8436d3e2f1d81435663066626c2d7d5dd5411b2a0e3c013d",
+      "url": "https://files.pythonhosted.org/packages/4d/32/a14e62d5ab6c16bbe8c5a70ed7d58c7af147ca3de14c34aec885b55f3b46/django-oscar-paypal-0.6.1.tar.gz"
+    },
+    "0.7": {
+      "sha256": "24b4478d6f59289649e052a316564a782449612dcbae6c6080e25ff3af332840",
+      "url": "https://files.pythonhosted.org/packages/8d/e7/34b0deb9c39969899f1a64653538323d5fcef125b159528a5615e60815b2/django-oscar-paypal-0.7.tar.gz"
+    },
+    "0.8": {
+      "sha256": "74535fa1bf760f4e32409d4b8793f3f8d11d08dd7b320c8747078c61184bff10",
+      "url": "https://files.pythonhosted.org/packages/d2/82/eaeef1f495bb8cdf0ef19e7838c620fdeafb2856169db92a2370894a7936/django-oscar-paypal-0.8.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "969351385d0d371a839bb8691a9753179fef9420c973489baa261ae5698dcf61",
+      "url": "https://files.pythonhosted.org/packages/3e/88/8f166734569ffa63ab4c4442123d4c98e114cc2427246239f84c9106036f/django-oscar-paypal-0.8.1.tar.gz"
+    },
+    "0.9": {
+      "sha256": "0be41cc7a68dd37768cf2e11f11dcaed8cbd24702ecfe1a0b961e8c2f24c3277",
+      "url": "https://files.pythonhosted.org/packages/49/01/f76772ee55169164aa17d4473ca8426680c498b3bcc7b175fe59a1e01fa5/django-oscar-paypal-0.9.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "ef55e774d82a0c95f61b332f2965a9334687acbd779cdecd4bb5fe90e0bd9fe3",
+      "url": "https://files.pythonhosted.org/packages/f2/29/95b9a4acc414bd4de7b36ff184cb6d79ac461f92d2c887a83f86b23e18fa/django-oscar-paypal-0.9.1.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "6c520d0587819168b177322fc3c64d6eb1b8a0bcd8606892478831b85baeaae6",
+      "url": "https://files.pythonhosted.org/packages/6f/55/bfd48c6d3f3fd3af67436e62bb99d9f2d852454b7c343b43ec3634b5840c/django-oscar-paypal-0.9.2.tar.gz"
+    },
+    "0.9.3": {
+      "sha256": "15bd0aef70afa7f4017aba96a165ab2cf7490908b5af1dd922dbc988d8705b85",
+      "url": "https://files.pythonhosted.org/packages/a4/7f/220efce9a6997de1d5ce29514a3b33508f42d77f1d41e06c97670756e0b1/django-oscar-paypal-0.9.3.tar.gz"
+    },
+    "0.9.4": {
+      "sha256": "0edcb41ea98be5903b9dfcf6a05e8e177de2d2a8dc10b22f2791a9df61c7e6e7",
+      "url": "https://files.pythonhosted.org/packages/cf/77/76ff7181f164733ecc872c963c188745cc9bd4bf8a01900cb9fa19215ad2/django-oscar-paypal-0.9.4.tar.gz"
+    },
+    "0.9.5": {
+      "sha256": "51465a52ef495fc7f6141e4f0c755b32339af56b975f3a24860359862f4d1b07",
+      "url": "https://files.pythonhosted.org/packages/b4/c5/1889f33a83ea5d42cae409c1008a177ee7015bb024e9710e8d9b3253a523/django-oscar-paypal-0.9.5.tar.gz"
+    },
+    "0.9.6": {
+      "sha256": "27331168e6d2ba41af0fe8c68a86cb0fcaf898f2444a35847561c7773c8e360d",
+      "url": "https://files.pythonhosted.org/packages/fb/f0/9a10493117a63b2e67ef142a5298db8a0e96744574414dbc1131fcf2507d/django-oscar-paypal-0.9.6.tar.gz"
+    },
+    "0.9.7": {
+      "sha256": "44f9b86c945d3aa45b44ef9a7a66f3d728c207d88da8c35eb91be681107b1785",
+      "url": "https://files.pythonhosted.org/packages/2e/6b/cce8532a402379a3b855ad98536e449c2ba2e2a5507fef46dc7fa737abca/django-oscar-paypal-0.9.7.tar.gz"
+    }
+  }
+}

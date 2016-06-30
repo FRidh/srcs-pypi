@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "2.8"
+  ],
+  "meta": {
+    "description": "LinOTP python PAM module",
+    "homepage": "http://www.linotp.org",
+    "license": "GPL v2, (C) LSE Leading Security Experts GmbH"
+  },
+  "versions": {
+    "2.7": {
+      "sha256": "52762faf33851070fed2318770cb882de1a6670f6332eb85e5448a3b3675a67f",
+      "url": "https://files.pythonhosted.org/packages/42/b5/2663063a4814292547638653669c2aa2fe959cc52611a70046d5ccdc67ea/pam_py_linotp-2.7.tar.gz"
+    },
+    "2.7.1": {
+      "sha256": "ee1d824082f865605fa321465bdd046fe26f8c6441585db8dac3eaedf34373ad",
+      "url": "https://files.pythonhosted.org/packages/da/a9/d47ad258657754ce75d1ed9e3b08df0931423c838598b9ae1e5be52f0fb5/pam_py_linotp-2.7.1.tar.gz"
+    },
+    "2.7.2": {
+      "sha256": "a220ea5b2529a7132e4712c8038071ab4708c0e2f7f78a4fe0e79829765ef6ba",
+      "url": "https://files.pythonhosted.org/packages/3d/91/a1e7cc25b9d83c1fee822d83c2aac527a866084435f617e8ee7e979aeae0/pam_py_linotp-2.7.2.tar.gz"
+    },
+    "2.8": {
+      "sha256": "d102c5b36b1dfe9550f0c69ec7f442ee1dba383718351b998bae65728d354b5a",
+      "url": "https://files.pythonhosted.org/packages/9e/9e/637d41ccae38213bee56cee46159d22b0a1fa869d3519421a6732a934d60/pam_py_linotp-2.8.tar.gz"
+    }
+  }
+}

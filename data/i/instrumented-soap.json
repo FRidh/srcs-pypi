@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "Wrapper around suds-jurko that adds django_statsd instrumentation and improved proxy support",
+    "homepage": "https://gitlab.com/thelabnyc/instrumented-soap",
+    "license": "ISC"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "e356e4ee404c5f603c1feabddd0b090b51b1499501e95d972b62b7b4c1e68297",
+      "url": "https://files.pythonhosted.org/packages/a2/e2/e6c3c592ed985d0fb36250bbbf529f34dc27c829198189231c66b681e36e/instrumented-soap-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "f90f609e0dc64686d95ac4a33f93229c2f51fa2d76ad720f1e3e5232427a7556",
+      "url": "https://files.pythonhosted.org/packages/a6/f2/1b0398f245580ba7b30254ee37f5e294ba4ce9921f68b7bbf51f0b38bbf2/instrumented-soap-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "d0def7887b2513b6ac8432f15cb7e84b8e62555c8bcda2fb770483ea8b88cdc7",
+      "url": "https://files.pythonhosted.org/packages/3f/89/0c8b1556f626d2892d32358593be07462925e6a77177ef80e2edfe2b68ef/instrumented-soap-1.0.2.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "2df1c038da25fc60a007d8e4b0f003baa17ce9185d70fbcefeed7b4864d3bd10",
+      "url": "https://files.pythonhosted.org/packages/f7/6d/416e3f95d525b6124fb003447b18d4d2dcd8bbc87eb2cea243f48038ff3d/instrumented-soap-1.1.0.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "latest_version": [
+    "0.4.25"
+  ],
+  "meta": {
+    "description": "A library that allows your python tests to easily mock out the boto library",
+    "homepage": "https://github.com/spulec/moto",
+    "license": "Apache"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "b507c74926cabe9f4c8914af8678b073dc53d4c069befc0cd4362555675b3971",
+      "url": "https://files.pythonhosted.org/packages/88/74/66b89786993f61852e90b207aee3da4694032bcdeeb19c738207dd45da76/moto-0.0.1.tar.gz"
+    },
+    "0.0.10": {
+      "sha256": "96489f3a7b837be7a98941d0e0dac0f8b88e7ed11b7677e0f3743aecb4d7ecca",
+      "url": "https://files.pythonhosted.org/packages/2d/4d/21a4602abc817779c8cfeba605f164cb9d6352e8760135012524fe0dcfb9/moto-0.0.10.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "f717884bbbf1c2759b4c32e3c9d9201fccfab065b727d458b71879e7d51f6fd1",
+      "url": "https://files.pythonhosted.org/packages/1d/ea/b07c3be76f14e8cea54574f049b633d7027dff435c4bb35b97fc93565c8f/moto-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "373b4757f0ec575dbb8a9098ff1b45b405a8921a8871c90faf126ddd994da8c4",
+      "url": "https://files.pythonhosted.org/packages/c7/4a/1c6e0852ddc8408fd9355b8efbb21a9941d9eea4475d76eadcc9c774c7dc/moto-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "ffa16872a70bd2c47fe57b2e58fc289e8a47406a505ff2731046c711a6a9fdbf",
+      "url": "https://files.pythonhosted.org/packages/38/98/668be2cedc60fdbce9ef824ad2e8000d3adbc78792b65d279598c81c2534/moto-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "3105203acc1099a2c5ddc9c0c90f53ae7e953ab76188f405bd750ca9c10a6a44",
+      "url": "https://files.pythonhosted.org/packages/3b/10/5c952095d9d08e5df55e37fdc32d5494ed791d4dc2ac1a9ccb86ad407cf8/moto-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "699299da0a6f4f627eb7202b26075418670db9d9c21fee955b2d20e3cf2daab5",
+      "url": "https://files.pythonhosted.org/packages/95/5b/afa2a64c10ffd701d77d10e563b5f5dfece091af7b90e8dcb6249c1c3b28/moto-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "a90766f472d49040e126e95a18a2085704839558918e93ce436724ba8cbc33e4",
+      "url": "https://files.pythonhosted.org/packages/31/24/e6cee389539e98c72237d9c47f4991c1b19a59413428ff7ff284bb26b866/moto-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "76c782e59daffd10339d19e99df877363147ef284071f54c55f0351a1c94d3e6",
+      "url": "https://files.pythonhosted.org/packages/42/97/20286a1866edc415d77c926fc88ff35bcaeb344cff4f55623650cd1aa588/moto-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "70f51a1d4b602989b668d58d9f65564a75ca775281e7a69d3e34d0e88342a978",
+      "url": "https://files.pythonhosted.org/packages/d7/9d/dbdb1743cc9e625c6d465ce50e5d504860d6fecffc74988388681764930b/moto-0.0.9.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "070b7b2b1c3a5c38ad686b8825d266ba8ab58cb48e06208667427720c262029c",
+      "url": "https://files.pythonhosted.org/packages/9c/6b/5530843c7fcc422f6f4071e8c3a93d23ee5c771d8ba24ced3f669bc44b98/moto-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "163c3ae1994a9d6dfea8848cd73788e5fe7ed46fbe50b62c0f84fb6e9a97399f",
+      "url": "https://files.pythonhosted.org/packages/08/ed/841efc796d689f1c121a2f960f049111de356a264c60709695dc7a4d4776/moto-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "7699b353d9b18891d2dbdc88d6597b42389d588ff9034928bd0a7614987d7e39",
+      "url": "https://files.pythonhosted.org/packages/50/b0/b021f9526c3eb4af68110e62e56e19be74fb82c5fd58b44f9049bc4534d0/moto-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "d09212c0226b329321b3d0a93fba2b15f8de8d3808cc2a89088e5c19687d55ab",
+      "url": "https://files.pythonhosted.org/packages/16/3f/d144a3d612e7410d992c453bb2d23c42a675a7ae5b208c742e81a387c4aa/moto-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "384f7de4991ba4d371e5959d8547f25cde561019c0cb3d566169094fdda194fc",
+      "url": "https://files.pythonhosted.org/packages/6d/da/2cf786270cfcd5cb5f362e9333a068ce1a31cb089d57eeea24c28233e4e5/moto-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "da0730c2cbe53c94c357ef020b0696d318f94686991f6e0f5e73ca4047bfbdf2",
+      "url": "https://files.pythonhosted.org/packages/14/84/6ea7f6031dd82fdca6b686ec4171c33cee59454cee14241767804c3bcdf5/moto-0.1.5.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "3a309a90edfe22148abe1276223fed39ab66e56f25d593baee15f2841d3cae81",
+      "url": "https://files.pythonhosted.org/packages/0d/08/322e0a96fcd7773c5b60a3902c520f6c0ecb9ea5d5c03ec86076d123c873/moto-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "d5061005c315690cb9c2549b687c489c70aed0f61049a3d61e1023b5f52d0509",
+      "url": "https://files.pythonhosted.org/packages/ec/a5/3ad8fd6aeb7a3c5f7833b35dda63349b7d2990863760e848a1a9176c1b2d/moto-0.2.1.tar.gz"
+    },
+    "0.2.10": {
+      "sha256": "4a75d257ea14c561d4b2990cce2d8ee328be7fc6357615e36161c5cc2798514a",
+      "url": "https://files.pythonhosted.org/packages/0c/64/aba52636e616ebd68e667fee79bc8c52106818f541a60d05d604a5d8dcd5/moto-0.2.10.tar.gz"
+    },
+    "0.2.11": {
+      "sha256": "e4e8d7707500592c6e313a10988ad3f4c4dc54f3e19a12271d1ac5e2b186cfac",
+      "url": "https://files.pythonhosted.org/packages/70/10/7c70e3506f490f76d47e614199fcf3ef8964c14a2b53c27af42667730dc1/moto-0.2.11.tar.gz"
+    },
+    "0.2.12": {
+      "sha256": "509666f287d5de1be35224110aaf0ba06dcae89a7d6deae8355b8b46304c130c",
+      "url": "https://files.pythonhosted.org/packages/d9/5e/d5519f18bbe9d07effb7579a1ec556182b38656833b967e98bef62605546/moto-0.2.12.tar.gz"
+    },
+    "0.2.13": {
+      "sha256": "cd05c77e20dfe2cac9d3fd57adc72631330fafdf245763e3876a38996ae80cad",
+      "url": "https://files.pythonhosted.org/packages/9a/83/1f8601acee9d9e4809626996077a001e70b30c484d6eaf9b4b49a02bd0c5/moto-0.2.13.tar.gz"
+    },
+    "0.2.14": {
+      "sha256": "40a5061fdda353364ad626a69e875ab7a1241640f25964015a82156f53ae3605",
+      "url": "https://files.pythonhosted.org/packages/89/fb/1fa00d44cde5bf69880eec703b137a6b909e58f82a78dc861ea5f838eeda/moto-0.2.14.tar.gz"
+    },
+    "0.2.15": {
+      "sha256": "a7fa4e7f9d2a086342afb9858842085133c3e906457126a032a810d27890edfc",
+      "url": "https://files.pythonhosted.org/packages/70/26/70b04d74db29429dfb9e99cfecefc5c221cb46ca841ad26cfc1b81ffebd9/moto-0.2.15.tar.gz"
+    },
+    "0.2.16": {
+      "sha256": "ab3b36cf9fa6d2df632e86522233f5525ad99f37508d4b1d6f23d2d2558c35c1",
+      "url": "https://files.pythonhosted.org/packages/b5/ed/f813a2621d41405ea82f8449e7031ddc2c381d8b76cb8faddee6a1acc850/moto-0.2.16.tar.gz"
+    },
+    "0.2.17": {
+      "sha256": "f5cb9f96b9fff5b82f239cd0628ad596c89d9182ac503676a09425a8742eb8bb",
+      "url": "https://files.pythonhosted.org/packages/5d/ca/5f28ecc821d01e744a909bc281226bb3a0e0355117e42cba841f9400e65f/moto-0.2.17.tar.gz"
+    },
+    "0.2.19": {
+      "sha256": "f5080d5d2bc3202782e89c5436021efa057f3c6efe2aeab266ecf4f3fec80a1e",
+      "url": "https://files.pythonhosted.org/packages/62/ab/8458e90c35e335e7b56b77b0eb3aafef49bb33c8eb757ccda2e5b6121758/moto-0.2.19.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "100078a79349e9ac006440f0c3fc91c95a8ff2c625aa38329c42ef740ed81904",
+      "url": "https://files.pythonhosted.org/packages/6b/39/f39ba7ff6ec4e376f5e32d224aca8c56ba04ecb4bdd5278089c6c1155b43/moto-0.2.2.tar.gz"
+    },
+    "0.2.20": {
+      "sha256": "fe31aa6bd23b24630501763d2420d536cf79677fc70f7dd362e766317404b2bc",
+      "url": "https://files.pythonhosted.org/packages/52/d4/a7925d8c4172cb9b11e771f90b9df478cbc7d0804f7850302d3f83ff76e9/moto-0.2.20.tar.gz"
+    },
+    "0.2.21": {
+      "sha256": "00f03d79431e9c70cc2836625c0b398b7fe6369ba246fdb82cd644f076de472f",
+      "url": "https://files.pythonhosted.org/packages/6d/97/0a6f2e73ca4f0832199d882cdeae7ee2b2d9f18ef20841811a1ce5a31498/moto-0.2.21.tar.gz"
+    },
+    "0.2.22": {
+      "sha256": "59e7caa2a8c26ebea2c5ae3efb76070c700f4e75ea6e53045a38aa03e49fa0be",
+      "url": "https://files.pythonhosted.org/packages/9e/63/ecb4a6d0361cc8b97edcafd13b7af27882e7239f4ff706719afb44f1091a/moto-0.2.22.tar.gz"
+    },
+    "0.2.23": {
+      "sha256": "9ba89bfe80b1c0dbd9885a9496d13260a60499bc62333d55bf031f9e447833a3",
+      "url": "https://files.pythonhosted.org/packages/d7/56/59ed1e5859d289d3298ccf22c2619f7c73a6e5192685044a7a47e9469945/moto-0.2.23.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "f7489b5a7ea134b966ccedc915582e3a57f1632403eadb8bf4413f08397ce918",
+      "url": "https://files.pythonhosted.org/packages/cb/27/c2ab761f46199e32596142fb9ca00d7782348c71056083d0c0b0bbbf8a0d/moto-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "15ab2ecdd766a1f084097f8d241704d52a7c30ed3d1f12cff5c66d041bba555b",
+      "url": "https://files.pythonhosted.org/packages/fa/5f/663f867fb1209287ad00a17ffe137a596d2cf3db33829f6a87963afd534c/moto-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "4517962ea44aae0fe1c5b28a50bffeffee22bcac6a5ae7bc1034548412cc57ff",
+      "url": "https://files.pythonhosted.org/packages/2c/ef/b8be1449e275ae0e596e412e123876555b22b618dfd25f8a63c7c1be72e5/moto-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "783f5dccd075bd82a1a910a25ff488d9e1274b1ef5dc1de81513b77ec40dcaa7",
+      "url": "https://files.pythonhosted.org/packages/50/2f/1cb72f7621f4f880af19a0e4aa7ec176d86b56a60210bc7002ddc805edac/moto-0.2.6.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "109e0dff9bad206e0c5b2276481ab9b2e243ad58d064dd1a811da7697ebc8076",
+      "url": "https://files.pythonhosted.org/packages/0a/58/70a06f843cc3fd377e67328110edd1a6ef7d9ff81aba5845f3b05863bf0f/moto-0.2.7.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "cff681d567a015690fcce605c909f16dc4c07485b4bccf26cfe562f53d33c716",
+      "url": "https://files.pythonhosted.org/packages/91/a6/68d8b70def8e6db31a3bed66c3a0021cd3e8508424ab67fd42b6c3561a96/moto-0.2.8.tar.gz"
+    },
+    "0.2.9": {
+      "sha256": "d815fe12b1e0a0a0c5cdff1c3fda662f22c335364d946b5192691d35ee101daa",
+      "url": "https://files.pythonhosted.org/packages/6f/b7/bdf893ea49d69520c8ab876ac849f9382d60038d37087d0e81adac0f32c4/moto-0.2.9.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "201396cfb6d0ae61b79c6656002a86eb3101c8cbeedae80c718dde886ebff8f4",
+      "url": "https://files.pythonhosted.org/packages/12/26/127ff5b08eaed888a337eeb1e8e1c2062478c8befda074130746dd55e70b/moto-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "53303a5daf64f6f160b6b00f5c08b79dfe9293434a97f24f2e9aac102d10b333",
+      "url": "https://files.pythonhosted.org/packages/7c/4a/c6a0653107844ddc8f45912f32852e814b7065646671f0c30aa0fdf986bd/moto-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "601ea83255431462cef84dda8948b31a4f866c2f66dbe7c5a107ba2d07bbcba5",
+      "url": "https://files.pythonhosted.org/packages/f5/60/d12d0c19af27cd17843bb96227840a96d0e15a50f5cdb02310eb1ac06948/moto-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "54e79da1149b10c80a5cfeadba19bb7ef2efe4e62fec84bb010a6fae0d655ebf",
+      "url": "https://files.pythonhosted.org/packages/8f/c9/2b1e02b794fca8e1af5770235c7a02cff417cb6494f332219e777facd77b/moto-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "2b3a28a136625e338f78b7aa3cf22ad55f36687af22020c3f2a83b312e5dd4b3",
+      "url": "https://files.pythonhosted.org/packages/b8/6f/3ee957e9887586067ef6618e4f1dd38bb9905bb93bc40f4eda4080e0d2b1/moto-0.3.4.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "66025306f406e37a3936aaaae758b402e91c23128a4e7a1005d137351ee6d83a",
+      "url": "https://files.pythonhosted.org/packages/ff/99/b1ad28c77bf6bd8169a4b7c61709683dd544c7bcf2741e789d1e900583bb/moto-0.3.5.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "d21486bf819cad5c2b869f04e40b50940533ec82e3b7367e416833cefc760c8b",
+      "url": "https://files.pythonhosted.org/packages/18/02/86dcfe93f24ab25221486bc6a994988a976d9bbd71ef755bf844240de33c/moto-0.3.6.tar.gz"
+    },
+    "0.3.7": {
+      "sha256": "b2f7a4d34473f406ac1271baf37060dde55629f152ade69343456e2bb26073a2",
+      "url": "https://files.pythonhosted.org/packages/61/45/d4e5b8ea81d5dc0491d33ead48721a72ece5e5d37f79aa2840060679af68/moto-0.3.7.tar.gz"
+    },
+    "0.3.8": {
+      "sha256": "0215034a2834d86ff622c11bcba2570240a54635cda5ec83d48c1e663179b047",
+      "url": "https://files.pythonhosted.org/packages/d7/43/109c95efeb6557e04c178d56498755cc7683dd5f0d421a93c57ae1e4d52c/moto-0.3.8.tar.gz"
+    },
+    "0.3.9": {
+      "sha256": "e6f8f68d18ce6bc650c096d1327d8fe3eccf641bee9c860593a72a4b51cdbe81",
+      "url": "https://files.pythonhosted.org/packages/64/51/86ba1891f70004a5c8807ce5ad16c2e0c09273798eb75926ff7aaea52e0e/moto-0.3.9.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "22b3d93d6e28c8540b0b0a3a21a495cb5eb096b7b79535dea1fc770f983895d5",
+      "url": "https://files.pythonhosted.org/packages/bd/fa/0caf032a1cb8b439af62977ad1afe504277f7c5b2ef152a08749511cc8d5/moto-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "0235e471a4f2563087ca82511dabc75fcef3679bcc2015bfc5132d2b85c71891",
+      "url": "https://files.pythonhosted.org/packages/d1/98/6e707546fc93ef8249d21170a1da475f3d09623f83a6a8e0030705237dfc/moto-0.4.1.tar.gz"
+    },
+    "0.4.10": {
+      "sha256": "29d15b1d18cbf143151c85c661dbb994e17355338e2c9f98d99a4a2a077f224e",
+      "url": "https://files.pythonhosted.org/packages/53/90/1124b24b6792f97d6b25ee69a3268ffbacd8d0e4b29698ffc3887852c499/moto-0.4.10.tar.gz"
+    },
+    "0.4.11": {
+      "sha256": "4e26d27583f12d00a6643251319e5bc052453e0b0d18221af680092f8f1037a6",
+      "url": "https://files.pythonhosted.org/packages/b0/b7/0af12c11ba8cc4f7d762601f0c028bf30875385eff1c7ed1c1eae08efa7e/moto-0.4.11.tar.gz"
+    },
+    "0.4.12": {
+      "sha256": "6c0544c14f08131fc7691bd89927f0acd11c9f83e4c30cca3e7a2abc143ab992",
+      "url": "https://files.pythonhosted.org/packages/3c/bc/90b6181e4f991a9847001a6230b8268ffe8f802333ce84b2918ac434ddf0/moto-0.4.12.tar.gz"
+    },
+    "0.4.13": {
+      "sha256": "df8104e0781a44c433db647b123f4db60df670f371ca0dea0c1b5628d54712be",
+      "url": "https://files.pythonhosted.org/packages/c6/43/4274ed2095dab1fa7708f7fb273e4ae9c49064dd077f22a9be835ecfa721/moto-0.4.13.tar.gz"
+    },
+    "0.4.14": {
+      "sha256": "8d96b44202c514361be54e88bcf1430a395821344f03ea81c4746aa7484ab239",
+      "url": "https://files.pythonhosted.org/packages/3d/7c/73df259d8007254fd5a3a844f5c7813605855f1ac2995a72669941d1ca7d/moto-0.4.14.tar.gz"
+    },
+    "0.4.15": {
+      "sha256": "d39eee9cc2379cdd0e395ecccf93bc2b5879c76cb6994838a3aef27e186f517f",
+      "url": "https://files.pythonhosted.org/packages/f3/28/afcb5729bede5e2c9d593ed2cd4ca3ef0b615b0f4b61b3c05e5df785ef08/moto-0.4.15.tar.gz"
+    },
+    "0.4.16": {
+      "sha256": "ca93d34ba860ff6731a30bb9d199ccd8f2a48da2a63f7c6a0a243e13f59bbb79",
+      "url": "https://files.pythonhosted.org/packages/7f/eb/3cf6bcb2615fac61a728bdce5c0334205c58e30792cc4f22ffb76da92fea/moto-0.4.16.tar.gz"
+    },
+    "0.4.17": {
+      "sha256": "fe021a15c7d0c60461efe1e54d6101fb41da51eba2374c842f5dafe8a6ca1c22",
+      "url": "https://files.pythonhosted.org/packages/ad/2c/786a1c33eb8ef925191f2d208e3a8b479f81dcbac46cbe1e32a179c180a1/moto-0.4.17.tar.gz"
+    },
+    "0.4.18": {
+      "sha256": "ea6e99b6994332cde5430a676af0eb1491422deb72b317ba7303a4ab02f06461",
+      "url": "https://files.pythonhosted.org/packages/cd/11/7da9637899006d5a2db1e826af79a8ecaaa310dea21845ba226a45757290/moto-0.4.18.tar.gz"
+    },
+    "0.4.19": {
+      "sha256": "02b52f1b19d53671f470b470d3cffcafecc9629bedc2145ee153404d4ecc5fce",
+      "url": "https://files.pythonhosted.org/packages/d6/20/55006a7f7aa78b76d0c6d4746d075b9bf093be908aee9aaea15518a19747/moto-0.4.19.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "d6be3345b22a55ea5298a5dbd9f40f5958174515c6069c74b9fcd1cbebc6733c",
+      "url": "https://files.pythonhosted.org/packages/09/24/e0537402f279307690e76910874170d7277b9afd0c04b81720f14868d127/moto-0.4.2.tar.gz"
+    },
+    "0.4.20": {
+      "sha256": "674d68258f16c2e4ae672edb2a1bf5318f45feabd5791e5c81fcc598d203a39d",
+      "url": "https://files.pythonhosted.org/packages/93/8c/ad882678f4bba851a2f73afbcbe00bde787c1188dd20f7a2fb9d85cfcbc3/moto-0.4.20.tar.gz"
+    },
+    "0.4.21": {
+      "sha256": "28b1b51ae3521370bbf01cada4431c1399241da21022577a94ffe4818f54091f",
+      "url": "https://files.pythonhosted.org/packages/80/af/655292124a2e946ce710dbbea997cfb015f32d7394fb20f098212f235d71/moto-0.4.21.tar.gz"
+    },
+    "0.4.22": {
+      "sha256": "07c511f1ebcdf28a4022478bbca6c1e11585f41d0301e8d4525c353d0f7c1d59",
+      "url": "https://files.pythonhosted.org/packages/59/a9/fecba324fe0c936b7696702cca9743cae9660fd9fb41b5ace2a13e6ec221/moto-0.4.22.tar.gz"
+    },
+    "0.4.23": {
+      "sha256": "1ba22f939c73bc1438d7430e7c85bf304bbaffafecd0ef91ada73b5a05734156",
+      "url": "https://files.pythonhosted.org/packages/d3/9d/de33e441f14d739805c038b7318c2a94f0f3f57ef71fd0bd9e9f699ffdce/moto-0.4.23.tar.gz"
+    },
+    "0.4.24": {
+      "sha256": "0731a0992803e565187e259afa8fe128a1a6893d93e99ec60a94dc5928b8c821",
+      "url": "https://files.pythonhosted.org/packages/af/bc/d87ba16e9866257ce4f85c77a0b0b4e581472b9b2c0ac6c80885be7ca33c/moto-0.4.24.tar.gz"
+    },
+    "0.4.25": {
+      "sha256": "076307dee26a4287e69b1074af66bf9b192c72e3d2ae03dad5b397ba0c3c15bf",
+      "url": "https://files.pythonhosted.org/packages/df/9e/0b22ac0abf61711c86ae75a0548825e19cc123b522ff3508cbc43924969d/moto-0.4.25.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "955b0a19d466c917b5c9e97a03df6f10d184dea263efdd7796b1725b4a90a48c",
+      "url": "https://files.pythonhosted.org/packages/6a/90/6d41c4d3f8d9112e56777b0193fd7d528b30e6a2d1e19e04b08bd6f66437/moto-0.4.3.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "b309f54dcef425bc67cbea30e7f3d3fa25bf30071558c277e58b74f24e3a5b3a",
+      "url": "https://files.pythonhosted.org/packages/1e/4b/457e029f4e75c8bbf1f142b258cb9f3192eda51fd30f49763c1df77637d7/moto-0.4.4.tar.gz"
+    },
+    "0.4.5": {
+      "sha256": "7b2eec7e84ac2107c4483fd4bfe315253068aca0e1c61ec3ebde22eaa97979a9",
+      "url": "https://files.pythonhosted.org/packages/14/b3/be587b24a50aa3c8cdc012880b409129b87fb7a5d4d09d0f21cef0e0d8c4/moto-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "f5a9af1682ac819167afead5dd1a59f70df201cb1c81ce966b9c32f586ed346d",
+      "url": "https://files.pythonhosted.org/packages/ce/27/5c981bef5dd9c990eff9b9cf6bfef5120aaf8b085e52d3c63363d7a0fe04/moto-0.4.6.tar.gz"
+    },
+    "0.4.7": {
+      "sha256": "48f9fdb1236ee6ba289925c334e562bfb1d69b2d1eceb83f85d8c62414cf0195",
+      "url": "https://files.pythonhosted.org/packages/81/86/74c63d1db83effe637c1be0798d3758678d7657dcbe219c44f2668a871f2/moto-0.4.7.tar.gz"
+    },
+    "0.4.8": {
+      "sha256": "d72a0427a0112a21f7009e2301ed7cc7c9fb085da1e1615fba4c5f02f6d70bd1",
+      "url": "https://files.pythonhosted.org/packages/40/cf/bf719cabe6bf1957ee9b3b1bc32517652314c37f5b96603857891e607fde/moto-0.4.8.tar.gz"
+    }
+  }
+}

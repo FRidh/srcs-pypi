@@ -1,0 +1,27 @@
+{
+  "latest_version": [
+    "1.3.0"
+  ],
+  "meta": {
+    "description": "Check if a Solar System object is (or was) observable by NASA's K2 mission. This command will query JPL/Horizons to find out",
+    "homepage": "https://github.com/KeplerGO/K2ephem"
+  },
+  "versions": {
+    "1.1.0": {
+      "sha256": "d22efdfd04487ab7fa0b9f728feee1d40f0ee8747e07154f4ab0cdb95d4eff64",
+      "url": "https://files.pythonhosted.org/packages/86/7f/519e7fc26603490c1f61c96fc0a4560fc8defff1baf5f2835c558cc21e14/K2ephem-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "75958133e8729d4eac281c1205b0a35c29e32dd440037cadd76aae1d41f44cc6",
+      "url": "https://files.pythonhosted.org/packages/57/2b/5456d0289cab358af7590bfe84577ee45795756ed6e23c3a699a7ebea89f/K2ephem-1.1.1.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "aa23a027825d93be66140b3333651eeb12e06ebfe670c049dd37e0421bff9590",
+      "url": "https://files.pythonhosted.org/packages/c7/73/9da444d18075d1df1445e9dc5b30696fca9db6c5f3abf8ccb5a35ddfa841/K2ephem-1.2.0.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "a620408ca9a7258a1803279fb4f4dd7cdba5884859a29ec0fc8b188fefce66b8",
+      "url": "https://files.pythonhosted.org/packages/0e/4c/39c112d797ee900fff6c400508811352079523815054e8d3ba0b1f685566/K2ephem-1.3.0.tar.gz"
+    }
+  }
+}

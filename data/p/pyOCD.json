@@ -1,0 +1,88 @@
+{
+  "latest_version": [
+    "0.7.2a1"
+  ],
+  "meta": {
+    "description": "CMSIS-DAP debugger for Python",
+    "homepage": "https://github.com/mbedmicro/pyOCD",
+    "license": "Apache 2.0"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "020512f47b6cb8a51fa1ddaa113e9ddd4afb4aa5605ff8c095cc0cb6258451f1",
+      "url": "https://files.pythonhosted.org/packages/56/96/29616b1201d712122dcddc1830b4ab92ee4cb5e4ec1ac6b80861becd2544/pyOCD-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "c6b98ec53d347e3ae677e27f52056cd55fbd473bd548489b2aa7dcf967146dd7",
+      "url": "https://files.pythonhosted.org/packages/c8/7b/2a0f73d17126b1e1750447ec2b780d0cda77a632775081a464faad994d58/pyOCD-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "f8837ab1d5f88f4cb3e95d17d941f408a1a065d06de70ffc1d645f3558e7941d",
+      "url": "https://files.pythonhosted.org/packages/d3/d9/55d8f5eea7a3f4287151c210f041c524764441e9a0cbf52b8f0ecc2beb85/pyOCD-0.3.zip"
+    },
+    "0.3.1": {
+      "sha256": "eaa4fa3e9eaeb1cb2961cdbf1cfa18621a8bf3f5e2a2aa12034a4158647b6090",
+      "url": "https://files.pythonhosted.org/packages/df/cf/60e8cc3f4aeade061d2ee0eb0b10e253ff6eb235da6fd8b5b2f6969a41c5/pyOCD-0.3.1.zip"
+    },
+    "0.3.2": {
+      "sha256": "b87a6d2d811325b4aefd29ec5363c875afcf46eaa2f189831d88f4939ed7168d",
+      "url": "https://files.pythonhosted.org/packages/94/0a/9b465b863f235cfdf56c7e16537795ce11019b2e18edcc1abad04f9a6787/pyOCD-0.3.2.zip"
+    },
+    "0.3.3": {
+      "sha256": "edf9f7549f14cf449a13617ef3f3893d80a5b60312dddf3b849461d5ec4cefb1",
+      "url": "https://files.pythonhosted.org/packages/93/a2/8b6e8dae8dde133a59c3eb920023918c6bc053af83ab8dd5ad86f543e2af/pyOCD-0.3.3.zip"
+    },
+    "0.4": {
+      "sha256": "88f0d3d9cc0ee794a933537ebb49629d7751f8a2abc1010e17cdddb0f487b274",
+      "url": "https://files.pythonhosted.org/packages/b3/74/e5b422792f83cae04a146a8299b09b8bbb0ef3e3733ac525e74a681cc307/pyOCD-0.4.zip"
+    },
+    "0.4.1": {
+      "sha256": "13a20a20b96ec1ed0bac709d6e37a9a5f47553a8450b4d4c2f3812c78a897994",
+      "url": "https://files.pythonhosted.org/packages/6d/ee/1f1ded503c5dcbcaf0d37d1e128f999f3bc2902ef8838aae117695b761b1/pyOCD-0.4.1.zip"
+    },
+    "0.4.2": {
+      "sha256": "95aec798f93bdd54ea87149b8647075a8db9f876fd19a1f95a19dca4597b3119",
+      "url": "https://files.pythonhosted.org/packages/2a/c9/4a603f4029d6bdb375d5d2873af8ca1a921f02027776c9cf22e6220fcb8a/pyOCD-0.4.2.zip"
+    },
+    "0.4.3": {
+      "sha256": "1bf48afec21d3554a42476f7eed9a2cd8dc10feb3f7506a43d0a535fea89afa5",
+      "url": "https://files.pythonhosted.org/packages/6b/f0/3e4e575181dbabc406299553e7009a8c468973500f285a5ae525e61277ad/pyOCD-0.4.3.zip"
+    },
+    "0.4.4": {
+      "sha256": "3cf96eab0f4bcc3cebfda32f9e8b88ae9a8632355141a64259ef599c6df1bfcd",
+      "url": "https://files.pythonhosted.org/packages/f3/86/332965ec5cf9a47e7ad808949d39792348012717b02243e095b493d14810/pyOCD-0.4.4.zip"
+    },
+    "0.4.5": {
+      "sha256": "659ac0514815ffcc7e9181d1c3dbef29eda5f26767db5a8ef138733b3eb2423c",
+      "url": "https://files.pythonhosted.org/packages/4a/b9/df27027ca7408c1e1ee24b970a3ac057a098681e70bbe5873de5ef2fe90b/pyOCD-0.4.5.zip"
+    },
+    "0.5.0": {
+      "sha256": "424b75df0d20484d40e4ac2b36b515f4241ad687459f0dc6e6c18ee8844c7612",
+      "url": "https://files.pythonhosted.org/packages/99/1a/f9d671f2589e1aa28dbd17fd54cb6fe438ed5aa65c7df811e6069240663b/pyOCD-0.5.0.zip"
+    },
+    "0.5.1": {
+      "sha256": "7eca157e78c32a851d1db1394f9f2ccb4ab38bcd3ea0524c5f109bb589d6550c",
+      "url": "https://files.pythonhosted.org/packages/3a/57/45703948c5c59eff96ef2c83f8b5fb49b9e8fac9fe895dfd8ea257865135/pyOCD-0.5.1.zip"
+    },
+    "0.6.0": {
+      "sha256": "90d9e2da0ea9c3f23d934012c61bf50e295bc03b48c8fd42c340b7a1ecef1d72",
+      "url": "https://files.pythonhosted.org/packages/e3/17/5b52b1e4ccf7e6f378ed410435d825f262a26533ae9afd11da9fdc59afd2/pyOCD-0.6.0.zip"
+    },
+    "0.6.1": {
+      "sha256": "4d4006bf545d0192ec2a10b92d8ea7a15034c7c0739883050252d6a59cb5f964",
+      "url": "https://files.pythonhosted.org/packages/3f/da/a74eda5c7e56b889eca6122ecc0752d67ed5b9d4d9280d6c85816e778f2f/pyOCD-0.6.1.zip"
+    },
+    "0.7.0": {
+      "sha256": "bd8e9007cf1d696ac613bb580b54cdf48cad4b911a465ce04df832012eeefd7e",
+      "url": "https://files.pythonhosted.org/packages/ef/58/d13543821ee3203db983bf5880a82953ad3655f08216af82e88cab670d28/pyOCD-0.7.0.zip"
+    },
+    "0.7.1": {
+      "sha256": "a9caf77110b71ee5668c4001d323c4af2e903afe6532952d056a4ceaf4b635dc",
+      "url": "https://files.pythonhosted.org/packages/cc/05/1be68f04ee71b8b10e24c55c9edc774f6bd3ce3a454981a9f7ea1a26c08d/pyOCD-0.7.1.zip"
+    },
+    "0.7.2a1": {
+      "sha256": "58cfb026f3590afac98dce519f49be34ba12e6f313025b0f5a4d865c7580c4ca",
+      "url": "https://files.pythonhosted.org/packages/7a/78/c3b2c7753a1e2300d948708ddf513f98e2e8ba7a9f5fc4d03c8040d38556/pyOCD-0.7.2a1.zip"
+    }
+  }
+}

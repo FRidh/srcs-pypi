@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "zc.buildout recipe for Zope 2.12+ instances",
+    "homepage": "http://www.simplistix.co.uk/software/zope/zope2instance",
+    "license": "MIT"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "ece2780e4578c02816c4278429c2621cc6c6a111d71cb2ddac4213d4f7cb8676",
+      "url": "https://files.pythonhosted.org/packages/3d/bc/16571172765cf39eece865bec39faa327e68971a2d99d9ac5aee1f0701fe/zope2instance-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "3daff1a3056c8f7469d236c549b2889a82cc015ec648e2847195a2df9702ba67",
+      "url": "https://files.pythonhosted.org/packages/ac/48/9edecbb36e93514b6c6aa5995fc17edf81a10829630f4b5c4ef1970c2f80/zope2instance-1.1.tar.gz"
+    }
+  }
+}

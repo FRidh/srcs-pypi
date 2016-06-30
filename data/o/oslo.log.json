@@ -1,0 +1,160 @@
+{
+  "latest_version": [
+    "3.11.0"
+  ],
+  "meta": {
+    "description": "oslo.log library",
+    "homepage": "http://www.openstack.org",
+    "license": ""
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "940cb828894fb9aac14987119a648a8f568438c4b85fefa5a1cbb592bc702b34",
+      "url": "https://files.pythonhosted.org/packages/f6/6c/a315f218d71f4604572ac6cf29d605d996540a318067cf512b75b74866ea/oslo.log-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "c15ba2d881e5625dbca409fb852ad75dc40f4f699b7bfcf967818f6f3c11e991",
+      "url": "https://files.pythonhosted.org/packages/7f/8f/445fa47057f05fc892037ce7c708d495ba74a510ae28117d4f27a0da0081/oslo.log-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "c32f85824f2634ffbb34fc7bc1dfebdc706b404ff787d97df98ccc508b311e59",
+      "url": "https://files.pythonhosted.org/packages/9b/8d/512cc4f033d15f371e33dbc25a2f52de2f024ec57cf38fe40515eba53b2a/oslo.log-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "31b4b50bf37345e20cee7af2de12ffdd65d3ea7f69afc53e2833be415b334094",
+      "url": "https://files.pythonhosted.org/packages/99/63/7ef92e21bc2bfbcc51bf25e5ce04b41559f3b57d98d683c31f0323f96ea2/oslo.log-0.4.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "3d66e9a70b82bc1c7c0b70114d093620e86bef679177ee1ec668c6e0a1acf52a",
+      "url": "https://files.pythonhosted.org/packages/46/5f/8dad6f1ba81172f7a5ef5e7a1b195b49b4bdb3af0f22c9319ed7bc7b06c6/oslo.log-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "a568d567a99443b617338e4a9f120d3c866896b99e5aad2eff1bcfa448ea7e28",
+      "url": "https://files.pythonhosted.org/packages/19/5d/df46f6df20367fc50b0a402dc98372dcdab55af745adc43223ca41d90154/oslo.log-1.1.0.tar.gz"
+    },
+    "1.10.0": {
+      "sha256": "9f2addc788f8b316a76cd2655e5524ad962b125cd62187896f0b8c2563d75aee",
+      "url": "https://files.pythonhosted.org/packages/d7/ec/57a0e08ad40795dee522ef2056aeeccb9771eba8d380853e0d475c2a223b/oslo.log-1.10.0.tar.gz"
+    },
+    "1.11.0": {
+      "sha256": "a61949ce1b5ba8a5421c9a345ae30013e94fa7f50ddc5dd0861f6e1766abed4b",
+      "url": "https://files.pythonhosted.org/packages/1e/e3/dbca7ecf8bdae2897943aff8f392d3f721cb4555aac8b0db755b488d82b8/oslo.log-1.11.0.tar.gz"
+    },
+    "1.12.0": {
+      "sha256": "c1c108c3fe62a82a8348e56be07e7a931e847067af9194b520d9931a0e894335",
+      "url": "https://files.pythonhosted.org/packages/52/74/a2fc6010683e68a6e8447dada6c1c0affddefcc214498d289cd71f9998e4/oslo.log-1.12.0.tar.gz"
+    },
+    "1.12.1": {
+      "sha256": "5bbf3dba67832ef92a9582f1c2ee4b0c7466779104b8156c5154fe14b249a583",
+      "url": "https://files.pythonhosted.org/packages/c6/b2/becb03595b3c10863c02f0ba307ddd2a3c3b4e0fc576e78897abcdfe7518/oslo.log-1.12.1.tar.gz"
+    },
+    "1.13.0": {
+      "sha256": "7430585565e5524d94fd2830f6da5f48f9b451e546f039fd0ddc25a406d54e50",
+      "url": "https://files.pythonhosted.org/packages/ca/2a/78e77ffaa5c1a831cf2ddf34f4184424a66037b970cadd134af81982e356/oslo.log-1.13.0.tar.gz"
+    },
+    "1.14.0": {
+      "sha256": "19bb0089f9baacf40f5d68e49374176239cfa0d717caf6dc3a98b62b0adf6efd",
+      "url": "https://files.pythonhosted.org/packages/9d/38/fbd82a933223208597bd2b7ab4974cfbc5e3933293f23d3301c02097a920/oslo.log-1.14.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "b99c62a604b4a2dfef5022e0374da679e418887219716ec438391212522336c7",
+      "url": "https://files.pythonhosted.org/packages/92/e7/fd230b20dc17d8c818143f84d953787352131812d567798302f78ec4cac6/oslo.log-1.2.0.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "fcd051a37ba8123c1a5a51dde07b88f2ab558cae9330e80b6bd5917647e23b6a",
+      "url": "https://files.pythonhosted.org/packages/9d/86/4366f3a74a30ec9461d7930b2a7939e8dfd3929acf654b0d6d277065e457/oslo.log-1.3.0.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "bb26803f8bdfcc18c9339528f9af8105b46528f0e4f501acc2711fdfb24cc7fc",
+      "url": "https://files.pythonhosted.org/packages/26/b9/d947a9fcbc7b26f1eb98faa32ec4bea19ccaac470fa463dc9468f13af07a/oslo.log-1.4.0.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "6c02c56acc088d6500c3bcf8c6ae91e73b759fd622a0408dc70ee274d4fac331",
+      "url": "https://files.pythonhosted.org/packages/51/5b/fc3b308a4ec8c060cec23a80b28c80639127e8ea0f74be95c773fcd36460/oslo.log-1.5.0.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "1fb96a077947693c6de15b77d092f7e3d745b3bf7744d2c9b6c594b6b6371eba",
+      "url": "https://files.pythonhosted.org/packages/27/f5/bdd7d90f87079959dec8840fd29e1dd716f35179710b3bc5890f0a67034e/oslo.log-1.6.0.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "dcf2b5bfa5f63d45bb6dba65cccb3d92eb1678df4117ce02c68f32435d49e68a",
+      "url": "https://files.pythonhosted.org/packages/6d/20/715ea322cef801940543f7eada7b8f8a1cf864a312b198b6cd3d6c63596a/oslo.log-1.7.0.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "378ba134261683be2fc09cb509af88b841abfa7b8b3aeb040a1ea7c68dec51f9",
+      "url": "https://files.pythonhosted.org/packages/b7/ce/e01e8d12d3e63957e9ef96e1614a3f53fe76407505ce94b0060eb7c25a3a/oslo.log-1.8.0.tar.gz"
+    },
+    "1.9.0": {
+      "sha256": "686fbc23e5a950677ffebd0348a567601f6615e0b1e76710f68062e5555868f4",
+      "url": "https://files.pythonhosted.org/packages/1f/5d/03505e08bde0cd78b4d704d6b53b33d5152ca6ff9176eb34e19e4610d5d7/oslo.log-1.9.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "d231600e467d4ab9add7b4b8f2bb1fd1e99d3768a8d25c7cffdca9bc174a5779",
+      "url": "https://files.pythonhosted.org/packages/2e/99/b1dd4be612615e22237fffe45b01761c4e254606017eb3c35c30fd25989a/oslo.log-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "713a447bee977a9d3e8bc397357294d5fad3cc0fae085eefa06c65aeb4d5a991",
+      "url": "https://files.pythonhosted.org/packages/71/ec/d6a3f704ae258434d6ecc8d04030bc0564b9a7e9cc5ec4391188e8adc5a1/oslo.log-2.1.0.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "b4b83927d2d83239ec9c7d1343941379423c60446b3afad711ff7252b8df3352",
+      "url": "https://files.pythonhosted.org/packages/19/06/b934c42345ebf1b3d62ff0fc45bd2ee5e8c125e0eea60eb793b9143a2d03/oslo.log-2.2.0.tar.gz"
+    },
+    "2.3.0": {
+      "sha256": "d8730e9a6ce7bb0cb3c6ce9851b520f525567c1d73a2c5adf1c1eefff31023b1",
+      "url": "https://files.pythonhosted.org/packages/a6/13/bd6675b662157d9ef5bf00089262a916adbc50b81413128de95e697116e6/oslo.log-2.3.0.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "639859a9e2b6f14e35c19ae5a2f67ee4ef74090f34fe54b217354914ad575219",
+      "url": "https://files.pythonhosted.org/packages/74/4b/f308568a11e12aa6257afc61dd447ac1d4228726133e05d29b0fa9d160fb/oslo.log-2.4.0.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "c2ba88885ff38f1d7cda5b66bda90dd438ad8586582d73fe98c776db8981ce4f",
+      "url": "https://files.pythonhosted.org/packages/e6/3c/d7136218c2146cd03a9d05a2dfe4c0286ac77d47fa4a1fe7ce2a98e1b61d/oslo.log-3.0.0.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "3ff2643f32e6dd1c5c3822fe90fa6e4ebaa22fdc32991971cefd1ffab773bf2d",
+      "url": "https://files.pythonhosted.org/packages/6a/53/fe3e17c62455e1522dd6a8c21dafe5bc6d46180177becb43080c7257760d/oslo.log-3.1.0.tar.gz"
+    },
+    "3.10.0": {
+      "sha256": "d6b2804dee465285452f2a4326d5fcf0d0593779fe2f2db10b24b2b528f69553",
+      "url": "https://files.pythonhosted.org/packages/51/db/8d31c9e2ffc4397dbf2b6c7eb4b50408d5f7f9ae0f00ec91c2211dce45bc/oslo.log-3.10.0.tar.gz"
+    },
+    "3.11.0": {
+      "sha256": "18ac55b5dfd76d533b1b143cda10858e52398633c7588ce029c7929c3d4e8da8",
+      "url": "https://files.pythonhosted.org/packages/8f/ee/32feb40e1beaddea7b4d57b2ce06fc27097bbe803fa6f559a180d005d2aa/oslo.log-3.11.0.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "6b2802eb1381c960dd10ed6dab5941ecb1e1e2eff39d621844f6ec771c76a4a9",
+      "url": "https://files.pythonhosted.org/packages/3d/1d/783da21667f885c0aad73e47d0334510471747c6eb443292a9df9c9c25d8/oslo.log-3.2.0.tar.gz"
+    },
+    "3.3.0": {
+      "sha256": "b3414b6f3b05f50571d8973543227f0d6445c297ba762262adfc28b704f8efd9",
+      "url": "https://files.pythonhosted.org/packages/c8/fc/ac67e1ee4a284346316f260d91dbe1ca7687c689d0c1490e7f24efbbe70d/oslo.log-3.3.0.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "e15cb82d7c7191677de345afc07b799a0487927f8bc8f906fdad15acf4196453",
+      "url": "https://files.pythonhosted.org/packages/64/3b/cb1e726db86a91ff5a6afefa03d07aab34ad7d439cf2d1df121c2e46a71c/oslo.log-3.4.0.tar.gz"
+    },
+    "3.5.0": {
+      "sha256": "d8f3a92e319159d198515c625cf84e61f2478b97636c2c7002cd5f11e4716a5e",
+      "url": "https://files.pythonhosted.org/packages/93/e6/84baa69e5c6b6cd2bb9c8e475d2f643f2f28026834929622279c65736b89/oslo.log-3.5.0.tar.gz"
+    },
+    "3.6.0": {
+      "sha256": "8b2e9a1a0d8ebc0483accc46f42977e12296ab3a389e454f52d894165f1ab9fb",
+      "url": "https://files.pythonhosted.org/packages/18/6f/27f4aed465a789e1a0a1759e5e086cbc3284056910bcd12224564c0dbcde/oslo.log-3.6.0.tar.gz"
+    },
+    "3.7.0": {
+      "sha256": "aecd627e81fba09e9ea2faee36bd5d0f080612ec3fe2e6fda2e1d54a2c47574b",
+      "url": "https://files.pythonhosted.org/packages/5a/e4/65656f314bcd00c5961529cc0f832daee940c2935e5e8c7f1f7f0ee18c5b/oslo.log-3.7.0.tar.gz"
+    },
+    "3.8.0": {
+      "sha256": "18426723000858220ad7963fbd76b4b5748f890ee910429516042ca44cd55149",
+      "url": "https://files.pythonhosted.org/packages/21/b3/23872c6f0430f055c02ae1add055fcace54a7441a95879fe980abc780ff2/oslo.log-3.8.0.tar.gz"
+    },
+    "3.9.0": {
+      "sha256": "04a3a16fcec870f9b0a71e89693a5f9c4e712727f5c4fe717df8033d79143316",
+      "url": "https://files.pythonhosted.org/packages/11/ad/6e18b95a3de031f14fd6c8158bee4c00b5f9415301e319f8508481abeab8/oslo.log-3.9.0.tar.gz"
+    }
+  }
+}

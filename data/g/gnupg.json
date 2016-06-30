@@ -1,0 +1,108 @@
+{
+  "latest_version": [
+    "2.0.2"
+  ],
+  "meta": {
+    "description": "A Python wrapper for GnuPG",
+    "homepage": "https://github.com/isislovecruft/python-gnupg",
+    "license": "GPLv3+"
+  },
+  "versions": {
+    "1.1.2-2-g543d478": {
+      "sha256": "b158cce9ee7776b4ee21cd234e0cf2fb6d5f847c819dd951de61c9ef1efd2afd",
+      "url": "https://files.pythonhosted.org/packages/98/84/437cda21e720e4d28b3e3fbd69fe65d6aceaf4ab1da35cf87eb5ab4f331f/gnupg-1.1.2-2-g543d478.tar.gz"
+    },
+    "1.1.2-2-g543d478-dirty": {
+      "sha256": "6c74db3f5cc05111cd8203764d231cf92deb237b33223bb98cb853c167616965",
+      "url": "https://files.pythonhosted.org/packages/cf/00/2bb4e7dba029a320d0717632d3b63ac9b57a30d5390f38fed2b2531cdd29/gnupg-1.1.2-2-g543d478-dirty.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "a21dbc51432c0b898de7cb3435ac5cfa34fbbdf928d92f247dab8b5e40c3e6d0",
+      "url": "https://files.pythonhosted.org/packages/90/da/7e4aaa0c11cb5e9d7a74ceb6c0596709504f04204e0c951e3177a013cda8/gnupg-1.1.3.tar.gz"
+    },
+    "1.1.3-1-gc837b73": {
+      "sha256": "e79e366352213321b8a110f8941c262fb12fbf6d827a42764cd67c40c6ada55d",
+      "url": "https://files.pythonhosted.org/packages/af/fd/2d5ee72664b283ddbd20674dd6d2820b67ab308f52af30c805bae39b7d58/gnupg-1.1.3-1-gc837b73.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "2005d241ca7b0c72ee2cd799d4bec7b5f732d094c01e5107d0684029777e842a",
+      "url": "https://files.pythonhosted.org/packages/aa/e3/b3b413756f53132e8c98a41220e8ead143a854cdf707ee39baee856fbca2/gnupg-1.1.4.tar.gz"
+    },
+    "1.1.5": {
+      "sha256": "9d0b863103175dae1dc352cece7f34819fced504df46a56be0a89bf8312a1eba",
+      "url": "https://files.pythonhosted.org/packages/c1/a8/1b5b4c61f6055fa890c445a806257a9070f0bb72706f487ab0735a7482b8/gnupg-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "571723850422c5e53f70f8450018cbcdbc890392cf9d23bf9ebfa50f5b728c84",
+      "url": "https://files.pythonhosted.org/packages/41/a2/a029fb4828e2338d5cbbfdaefb4bf1407cb43aa43a08e612188b5c2ff26f/gnupg-1.1.6.tar.gz"
+    },
+    "1.1.7": {
+      "sha256": "e50ed3b982237c1d4ab9677bde248f629d64a7f62b8e172ea6d648753457afd1",
+      "url": "https://files.pythonhosted.org/packages/2d/c5/fff245e9c98de20156360a11cc368681833d8ddc170ede885bb6e0e186f5/gnupg-1.1.7.tar.gz"
+    },
+    "1.1.8": {
+      "sha256": "c01075f72ed1f00b81a3630ee0eae0611f79199ba0ca1b86ecaec9e55995f6a7",
+      "url": "https://files.pythonhosted.org/packages/6d/55/480fd2fc6031c505e5de64c89814d4e5162e7d0a7a051f006fea8a66c1a4/gnupg-1.1.8.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "cbfd454acdb481129d34194b714ac778c5a03c2f9152f251d911a8ab4f676130",
+      "url": "https://files.pythonhosted.org/packages/67/3d/5ad008b3971ab7f6ed8a537c25320745b347d8be83d85e742b7723c7cea9/gnupg-1.2.0.linux-x86_64.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "625f076a2c1f2f09cf6aae1231d0fa05eff991e7f4a1633edf3c8e031042d718",
+      "url": "https://files.pythonhosted.org/packages/12/29/ce20f7414a2bd92eae965abc1cff66f1380a903eb74b6acc29ed58cc638c/gnupg-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "0062528de9daf02876a0b77749517d4a0a8988eb4fd77d0cf653c364cc3b1142",
+      "url": "https://files.pythonhosted.org/packages/d6/60/57f54e59104c6224446e656d9da7bac14272bbf0ecc90f3e99c2807d8548/gnupg-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "8de8e923d41762ab278a8e75aa6af56b599503ff9e0c354fa8a6e0df0d1e4df9",
+      "url": "https://files.pythonhosted.org/packages/4b/10/98154985e6cf86e0f663d1b4ce8b622716b871a20426237df90b2c0570de/gnupg-1.2.3.tar.gz"
+    },
+    "1.2.4": {
+      "sha256": "6561870fe6dd058001c18b6919f40df068c7f0e7739190cf03d654533ef4655a",
+      "url": "https://files.pythonhosted.org/packages/f7/42/613faecb2aebac2fae5a9e10b0ce355fa196adb7e97175bcaf7ce7b8c46f/gnupg-1.2.4.tar.gz"
+    },
+    "1.2.5": {
+      "sha256": "a2137b0de209311fd8d9a912ddabfbc2083305f6ee56edf080c9cee6e1dd3163",
+      "url": "https://files.pythonhosted.org/packages/c9/ca/411cfbada82d40eb41d207e57ba3cf6cc0c17e8a8be4c85dd343a0d8af85/gnupg-1.2.5.tar.gz"
+    },
+    "1.2.6": {
+      "sha256": "a9f6132b82f70e47c6292c7d69051e42eebfbcb449e73f33e39a99b6651b20b7",
+      "url": "https://files.pythonhosted.org/packages/46/19/91e6849aab6f7f20b72248d58ddfc67e8a041c381b915f33072dfcb6c12c/gnupg-1.2.6.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "2f69c2de808df14343d0db002a534e5a39cdbe3fed823fbc6a4814ffac322fd1",
+      "url": "https://files.pythonhosted.org/packages/7f/60/7db1e8b3b9ec8de24e5afe9bf0380eddb41a01f6a0c43cf5796fced44f1d/gnupg-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "76c79c1ecb490dcb2d641a318b11316988da4b17613ce30a1a5a574ceb568335",
+      "url": "https://files.pythonhosted.org/packages/0e/b7/e9065b7f81f3f7e2fe0d2cd809cbfbac03499a4114a0237f135045163827/gnupg-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "74293d75f90b0ed9b4b50b41cd678fd754f3306ab816f5eea71a226b1ea5c9a6",
+      "url": "https://files.pythonhosted.org/packages/23/64/7c0e8cbb7df31914dfeea25c77e5784d1744181421978e9fbde4d0c44dca/gnupg-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "709f8e477fdab983ebd93946bd2e93047a6b22f30bc9ddba9b09ea4b80754a9b",
+      "url": "https://files.pythonhosted.org/packages/81/02/3b87be38eb08f67210ecee7babd53a7462cde0dc7f72c804716ee0dd3409/gnupg-1.3.3.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "406752593c83cbac17f447a4e48088860ac36f0b4e40101d377f7dc018d11c57",
+      "url": "https://files.pythonhosted.org/packages/b9/91/880b1028f06876f79fbe96e0f03872de3d2af7ed93b296c2f06c0c87f04b/gnupg-1.4.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "d721cc029459bc31770b9ed0e8cad30448af240ba2bbf5f51e899525d05633e1",
+      "url": "https://files.pythonhosted.org/packages/81/1b/d5aa225f093a4501d14722e2ec4d99217c125d03062c8f491649019dae42/gnupg-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "0d1033c3286f74bb3255a72422186a3072a26da6760021ecce7df66ed5e71a19",
+      "url": "https://files.pythonhosted.org/packages/81/5a/b8facf1975f851faf99fc09de281e8dac7062fb1635d965446002bd162fb/gnupg-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "67fa884d7700914ef623721c38c38fbbd9659825b65bcc81884a1772f12713df",
+      "url": "https://files.pythonhosted.org/packages/3d/91/0d1181069007854eb46eaa595be1d8c195e6213cff4750cbc1b79cf8c071/gnupg-2.0.2.tar.gz"
+    }
+  }
+}

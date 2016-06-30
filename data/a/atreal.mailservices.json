@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Send mails from Plone to users and groups",
+    "homepage": "http://www.atreal.net/",
+    "license": "GPL"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "273b419594aa3571c4856748ef71a1fe51fbbf8cd7febab4a790feec4005edc8",
+      "url": "https://files.pythonhosted.org/packages/7c/13/bbb91bf68bb6c9bf5bfd88203038df8be08a979510a073e8b4b70adffe5a/atreal.mailservices-1.0.0.tar.gz"
+    },
+    "1.0.0beta1": {
+      "sha256": "cfcd9d7568f67695e86e403b2334c59f9f05c64cab1a59c633a051a1e9a5c52f",
+      "url": "https://files.pythonhosted.org/packages/f2/dd/82da8f8e0da6de8bdb0d5f4742ae50aa84f57d2c15c3161149b6e7b2a56b/atreal.mailservices-1.0.0beta1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "f4b3ed6affbc95deb3e09beec5aeeb2d5c21a7c5c86c5a271a2c1ca81654e047",
+      "url": "https://files.pythonhosted.org/packages/5d/04/344d2181287520e84ddcc3e6e02c425297dc3a51b275f06e191ee901b8eb/atreal.mailservices-1.1.0.zip"
+    },
+    "1.1.1": {
+      "sha256": "b963d0d41134799ebb987271cbbfae36aa5433b385a9f65c0a823b28b79809cb",
+      "url": "https://files.pythonhosted.org/packages/ae/d2/95f306b9f7fe225a85e8ef62ec421b1d67385e7f4a9f19f09d81c1840a3c/atreal.mailservices-1.1.1.zip"
+    }
+  }
+}

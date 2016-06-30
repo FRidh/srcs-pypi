@@ -1,0 +1,40 @@
+{
+  "latest_version": [
+    "1.8"
+  ],
+  "meta": {
+    "description": "Seamless operability between C++11 and Python",
+    "homepage": "https://github.com/wjakob/pybind11",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "cdd3249114af4a97120bc72645b209e90fe6c654a6903824ae9e1b6b76dd4f47",
+      "url": "https://files.pythonhosted.org/packages/ee/1d/75e412725a95ef00226af81a2562956989689df73d374d3fc7eb65edad51/pybind11-1.0.tar.gz"
+    },
+    "1.2": {
+      "sha256": "6e5abc9a4549ca6307b81301a558eb60e2c78028b2f258b1adef9f3b45de738b",
+      "url": "https://files.pythonhosted.org/packages/3f/29/9a9b11c9ae144ee042502bf81658f9387d1ea7fcbbe09ef84651143d2439/pybind11-1.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "c829bb9ff9267917efab027f6f3cb4e4955c50a4c3ebed9f00c58684b2e5a0a0",
+      "url": "https://files.pythonhosted.org/packages/51/1e/d1c8bfd14b98ba27f1c3f9cb2f58c293cb48be32263519ecc6c9eaebaf0a/pybind11-1.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "8de5625693eb8be4f9ca258b9ec6edd6f7785a02d0552f5a3ffaccf696257bae",
+      "url": "https://files.pythonhosted.org/packages/ec/96/0b5c83253391ce69c4a3629d84c557b3a52998a459361642be011c5a2b62/pybind11-1.4.tar.gz"
+    },
+    "1.5": {
+      "sha256": "ea3008865d31d82dabee9a503ac6fd9190a6a390403494414bf9ab5da48e7326",
+      "url": "https://files.pythonhosted.org/packages/98/cc/4dbe95bcb9636e02e68a5c3b25ee70c65afa7cffb8db886b0d01b3e0be6c/pybind11-1.5.tar.gz"
+    },
+    "1.7": {
+      "sha256": "b81d4f83fdddf99026deefa1d28c6aa9909cb27edce2667d5babc58eb87d12c5",
+      "url": "https://files.pythonhosted.org/packages/85/e8/d04cafd9b219ad19914045b0037498af07b56eac4604d6953805fe5d8fa3/pybind11-1.7.tar.gz"
+    },
+    "1.8": {
+      "sha256": "a647eb05abfec9a6898af240fb2be98451b1e4e725929d49ed3c45188227bc03",
+      "url": "https://files.pythonhosted.org/packages/6a/6e/e99c47a9317d8c5d17472166d1b87bdbff3fb039842137c7e69f96cd57d5/pybind11-1.8.tar.gz"
+    }
+  }
+}

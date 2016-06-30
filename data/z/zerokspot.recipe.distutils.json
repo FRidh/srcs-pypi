@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "Recipe for zc.buildout that downloads one or multiple distutils-archives and installs them",
+    "homepage": "http://github.com/zerok/zerokspot.recipe.distutils/"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "853e900330505d7b8f54bbd01f60f653e496ad39cb5fe461ee30965e71881d7c",
+      "url": "https://files.pythonhosted.org/packages/bc/e0/29aa386cd4eb3f2f8c56ec07acb04fd269bf972065b312fad301163eccb9/zerokspot.recipe.distutils-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "053b06ab8f5644e243654eb85ed7578b913c8926caede050a616eff33808e848",
+      "url": "https://files.pythonhosted.org/packages/06/9a/b72a12a4d4accbe3f949e524c252638fb44fe3f577c1ba0ea7ddbf25203f/zerokspot.recipe.distutils-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "7b06a5c7448faef36a08daffb2134d0a2e5210cdec09fb74c5e8070a28d94045",
+      "url": "https://files.pythonhosted.org/packages/db/93/fdd170de1ff0caa310714b4b2474331b7c04cd77fe93cf6db939a1dfe16b/zerokspot.recipe.distutils-0.1.2.tar.gz"
+    }
+  }
+}

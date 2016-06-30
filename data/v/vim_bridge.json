@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "A Python-to-Vim bridge decorator that allows transparent calls to Python functions in native Vim scripts",
+    "homepage": "http://github.com/nvie/vim_bridge",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.4": {
+      "sha256": "94ac2e1e58abdd7bd480973bc91311988b4e00b4f71af3bc97ed06d31a64461f",
+      "url": "https://files.pythonhosted.org/packages/f2/db/de1f1a639162dd096619ad14a811beecd0f70e6269b57f9a457946ba9fbd/vim_bridge-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "d2cd47ac8e6b052add7b51b2a964e46c6f7696018545c2bf0ad8a3fb16b431e4",
+      "url": "https://files.pythonhosted.org/packages/38/d1/bc58e7dc4f98457593b90f1e6b04b0a1f58875a47a4ce0da29714c4b9b52/vim_bridge-0.5.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "latest_version": [
+    "4.0.1"
+  ],
+  "meta": {
+    "description": "Tryton client",
+    "homepage": "http://www.tryton.org/",
+    "license": "GPL-3"
+  },
+  "versions": {
+    "1.2.10": {
+      "sha256": "e4b2425080d4b9abba7a25711abbcab7ff668ae9d20658f7c070bd8566214f0f",
+      "url": "https://files.pythonhosted.org/packages/74/67/36c035b6510da043a661532016aadabfb7005be983d5d2f41b8292aa6aea/tryton-1.2.10.tar.gz"
+    },
+    "1.2.8": {
+      "sha256": "4f83a9b5725df9674000f6cd85a7e4e440181023f4ce590452ed35c28847ac5f",
+      "url": "https://files.pythonhosted.org/packages/a1/65/a88d2c7cd6fe6d55e4d39ffa2f94e38bfdc7a8eeef42cb43d20f47ff7530/tryton-1.2.8.tar.gz"
+    },
+    "1.2.9": {
+      "sha256": "f80d0d2960ea16529fa75130397df6d2b1ccb2abdb1f6758cde70890d2cbf85f",
+      "url": "https://files.pythonhosted.org/packages/47/e9/02751b2d9391a3c4f28d2e20bd6df85c5820fc92fd486daf139a044e5c71/tryton-1.2.9.tar.gz"
+    },
+    "1.4.10": {
+      "sha256": "51b300f5e106d37eacf09888e7060a725be10bf31ce330d63dd72996eaa8ff2c",
+      "url": "https://files.pythonhosted.org/packages/34/96/74bd884eb1ecddca960538f4b611d63a380216486ce622a296ad31a87dc8/tryton-1.4.10.tar.gz"
+    },
+    "1.4.6": {
+      "sha256": "12b979ef6cbafda66e02ac5c69dfaeba1515ec0745cc900332fb34876ff5e5f3",
+      "url": "https://files.pythonhosted.org/packages/41/31/7758109af4e8bbc87da3d684dadb982ddf3cb1dadce05298d3cf04f84ff5/tryton-1.4.6.tar.gz"
+    },
+    "1.4.7": {
+      "sha256": "1f2c3e3c5b60068180c08cfad33cdc2aacffbc0a8710fa129077f606f63bf5af",
+      "url": "https://files.pythonhosted.org/packages/d3/7c/18eeffc467d7086aca4d264c468c3d2f28bf62f43e776298351c9ff7de23/tryton-1.4.7.tar.gz"
+    },
+    "1.4.8": {
+      "sha256": "c903342c0e8c36c7a2fda2f6fddca1275e5ef696eba22fa3b853629d1862bff6",
+      "url": "https://files.pythonhosted.org/packages/b0/be/346127ca3d7d73d798811c3e35b4ab5a8497b94ecb1253754624af22ed29/tryton-1.4.8.tar.gz"
+    },
+    "1.4.9": {
+      "sha256": "bfeb899ed928ed968130475147a7d4982e226df99195114aee57a6ffd932d05f",
+      "url": "https://files.pythonhosted.org/packages/e4/dc/28009183b148ca3e7d181f4c8d926529cae72569dfba38d912f3cbbbf6ac/tryton-1.4.9.tar.gz"
+    },
+    "1.6.3": {
+      "sha256": "da06608867d5228e0bce137fa2ac087291c8cd2c5056635adf63abea0a63a176",
+      "url": "https://files.pythonhosted.org/packages/5e/e8/50670c820657bf348ac63f401e5680ad903097a7a8d4999e3c8eb16447de/tryton-1.6.3.tar.gz"
+    },
+    "1.6.4": {
+      "sha256": "40127dce58a57539b261f7e72985a93796670b8347ca412418513818a0a65fc6",
+      "url": "https://files.pythonhosted.org/packages/2a/94/cc3a4b4ca4ffc3455e6e25561f36185c7f3696ab7821d8215969648bcb79/tryton-1.6.4.tar.gz"
+    },
+    "1.6.5": {
+      "sha256": "897cff87c88e29edde7b51877400d636f480ec42e98345231dfba1daa5e1d028",
+      "url": "https://files.pythonhosted.org/packages/ed/b2/61ad7874da3f79660938b4098420e44a2c5f9bebd6990251d9193eb42d56/tryton-1.6.5.tar.gz"
+    },
+    "1.6.6": {
+      "sha256": "81578658a7949d0dce4d26f115e5711f3988b3f7bbf16bb814a12be42aaf8a92",
+      "url": "https://files.pythonhosted.org/packages/7f/68/0b168eac115a2fcaf5bc07aaad1c56014985a58b9cbd2dc4bae28d59df7f/tryton-1.6.6.tar.gz"
+    },
+    "1.6.7": {
+      "sha256": "cae1912a7d531a3cfa151281ee1cad7efed85e4f5390deeba7e94f205e1ce459",
+      "url": "https://files.pythonhosted.org/packages/0b/c7/5b4287b2ba7f6287eeab2fbb966c3f5fa4d08ce075fd514c55074db6d79f/tryton-1.6.7.tar.gz"
+    },
+    "1.6.8": {
+      "sha256": "08b5ad6745448bb6c54b8a110619d7c4fbd5a1244a8ec31bae5cecabfd47b0f4",
+      "url": "https://files.pythonhosted.org/packages/12/f0/f325407f831b6ee4f7bda57f8453f28c0a01dbab91de5bf97d5148b65f65/tryton-1.6.8.tar.gz"
+    },
+    "1.6.9": {
+      "sha256": "b06e55eacaa864c6c206c22042c1d2d075f676691782258669565a61fdc6c391",
+      "url": "https://files.pythonhosted.org/packages/c3/bd/8d354f30d86b5eb3fe3064644c6ea12306b91f7b03c54d6edd4b6712e753/tryton-1.6.9.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "50622d058c6e0cbabbe61e230ed0299a80b02c7cfc1ad801910d0f52ecc919bb",
+      "url": "https://files.pythonhosted.org/packages/6b/83/007c433c35067ad71670e2a72bc4d0f14eac1912bd28aa4463f55d7b92e5/tryton-1.8.1.tar.gz"
+    },
+    "1.8.2": {
+      "sha256": "2a4f684134e54dabb384ec47a6f091c111e22dcb55cb35c3fedaf79593d91d7c",
+      "url": "https://files.pythonhosted.org/packages/d8/45/8d5a8011fc3a653d2ccdbfaed970c677e75671a6c1a31e05ba1ec887024a/tryton-1.8.2.tar.gz"
+    },
+    "1.8.3": {
+      "sha256": "d053bed9010ec20142a327569be166522d4a387f67f6c9a435d24d373636ff6f",
+      "url": "https://files.pythonhosted.org/packages/52/5c/1f7f5b46fa280e8f0e920c35eec71c95c7769bed969db3671f854d8421d3/tryton-1.8.3.tar.gz"
+    },
+    "1.8.4": {
+      "sha256": "aecb9ac6d5adc1f1fb47aaba9335ade87a66cb3c8c1e3274ddb63a366ff58b57",
+      "url": "https://files.pythonhosted.org/packages/6c/d6/1e754a57ff84667019445f6f44f5e60e3c490ca8da462971d5cd93ab9ef0/tryton-1.8.4.tar.gz"
+    },
+    "1.8.5": {
+      "sha256": "6e482429d2d81da94623c8a61576b9d187d867ad1d4a410e113bc5bb09a1b623",
+      "url": "https://files.pythonhosted.org/packages/25/6c/8e0f925b703b2c46406d28570d1fe7bf5e4a090f95f084ff79a5d38b9cb9/tryton-1.8.5.tar.gz"
+    },
+    "1.8.6": {
+      "sha256": "d515608d3a914ddb5e80cc05670d69f4e686007a2c46c0d2d033929571400f88",
+      "url": "https://files.pythonhosted.org/packages/20/5f/ad81968db854116964f0a8254619f097117d53e291b6b0c584fce2e0f2c1/tryton-1.8.6.tar.gz"
+    },
+    "1.8.7": {
+      "sha256": "db8adef32b6af274df97ee59bd82334aee04d4ea0147c9942054ea6be67d263b",
+      "url": "https://files.pythonhosted.org/packages/24/10/523b97aaa0d9fb85663ed9ceac3d51c4f3b4ab569a9bc9a3171dd0083d1a/tryton-1.8.7.tar.gz"
+    },
+    "1.8.8": {
+      "sha256": "ed8d0326d566ef6d9d742be5aac833c313b5b1b92d969c8a85892b0fb9cc1108",
+      "url": "https://files.pythonhosted.org/packages/36/22/04e860a1d822f0f2ea7290e48ccf32ec59f74ba65699fe6042ea962a66d3/tryton-1.8.8.tar.gz"
+    },
+    "1.8.9": {
+      "sha256": "5ee450dc2ae63a6c6e9a72a07c8cb09185a53ab09e271943d94e62c15b4c38f7",
+      "url": "https://files.pythonhosted.org/packages/b5/38/863bf62c5982b9a7a870cc8c2a59d1388917f243ab766981e7cc8ac772a8/tryton-1.8.9.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "2f65551befcf1746aaf2f99fb6bf3a1e5118eae616336d6cd38138ea13e9fee7",
+      "url": "https://files.pythonhosted.org/packages/03/86/a35bb352a743d16ef5a0cc7aa3d4c76af0336d139482f7b41a4edc155630/tryton-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "e36a78570464bb25e6df2a764272d130c44ad772bb7fe0088fd17af8e2c10954",
+      "url": "https://files.pythonhosted.org/packages/3b/a6/4f7228c6cf88aecbafae65eb62bae39d94d01f8995f15ef2d43d8c2d3515/tryton-2.0.1.tar.gz"
+    },
+    "2.0.10": {
+      "sha256": "419004a6a621e07d2eed095c585d75db6fee66380dcc1e68c5305b165981e509",
+      "url": "https://files.pythonhosted.org/packages/09/79/e32492ed9a5e41cd3e0db608c4dc38681e1ce63a7d9d64d60c89d9e1145a/tryton-2.0.10.tar.gz"
+    },
+    "2.0.11": {
+      "sha256": "9400f8239ed6fa15548c52ebc3f2c40b4bed659c24c54c817516120b37067c59",
+      "url": "https://files.pythonhosted.org/packages/d8/b7/53ec22e157075dbe5ff0c7f0a061c1635fd52efb31e50b3cb7f113deff02/tryton-2.0.11.tar.gz"
+    },
+    "2.0.12": {
+      "sha256": "d62a9082fa73b76d5341cb358d6ca551b3f6b7a544fa3a005bc46e77a957f014",
+      "url": "https://files.pythonhosted.org/packages/a4/36/bfe23f73bd4ef7de936e07ad2dd27f5c99ac8e69fcfed36f9013eaea2250/tryton-2.0.12.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "7bfbf5966b0b05a3ba05562a8bbeb3916ccb1a28acfe04c309181b07c2ff3914",
+      "url": "https://files.pythonhosted.org/packages/80/17/5bd90b21e50fb71ef4c5918f73ccd36f073b24091b9b8c4c55dc9f758deb/tryton-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "33088d3a5d072bf6d21ec7e7c6d4266ed40e9ef751c0a13db7601757a7721bd8",
+      "url": "https://files.pythonhosted.org/packages/fe/9a/b7112f24405533bd8bc28f09decccc3508e35fc54e9aa9fd8729a19bd5fe/tryton-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "9df7865bf915f32e25c562deaedb2337ebb7d93c924cfef48e6e6decbac72a0f",
+      "url": "https://files.pythonhosted.org/packages/44/34/172669046032e040faac14f78f92da7833baf2fca7a2953c023733a4bb26/tryton-2.0.4.tar.gz"
+    },
+    "2.0.5": {
+      "sha256": "2f1d8541507c7e43d251103d20470e930113172758ee38052c0c23d8c6ac705d",
+      "url": "https://files.pythonhosted.org/packages/25/63/c4f3372ea540bb9fdf19eb2c8e38d6de8a96b4cb04bc8e26432fa11e6247/tryton-2.0.5.tar.gz"
+    },
+    "2.0.6": {
+      "sha256": "689458d64e5147a9c0ace318da90513a5e876687de33be065abac7677b6cb7b9",
+      "url": "https://files.pythonhosted.org/packages/ed/57/7f67eb75d87ece1ced770b2e511d546059e4e0bf97b765aa6b7fac49c049/tryton-2.0.6.tar.gz"
+    },
+    "2.0.7": {
+      "sha256": "d9a3b3870070908a492f205ee7448b9f0e41d13d01177e9db10910d082ad6005",
+      "url": "https://files.pythonhosted.org/packages/f1/c0/4aee9a581b5b1c9b18a197784139de649bc130a02a616d64905c4d5f5dc9/tryton-2.0.7.tar.gz"
+    },
+    "2.0.8": {
+      "sha256": "7a776df1c23f102d99e538189cb06718e1134ae22035fc73d0f1ded879d38b8e",
+      "url": "https://files.pythonhosted.org/packages/28/69/545469a70dcf3aec1137ae451f637c1dfd2305f432ca7cba727cb0a15b98/tryton-2.0.8.tar.gz"
+    },
+    "2.0.9": {
+      "sha256": "219354a3eecd661b7437ad04ac9d7f19b4e6891885f0eeea0713d1c09c9cdffe",
+      "url": "https://files.pythonhosted.org/packages/1d/b8/f2146b4d510680cbbf3b43e77284d8ee98b849c82e76863b1cd4eee69255/tryton-2.0.9.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "c379b886f23d0740c47d172f1794cca7cb377d96814df51f19d29e43b5f6625c",
+      "url": "https://files.pythonhosted.org/packages/17/7a/b0982e74816706fd1303d7817ddfd06bbc5e41d746f9d4609ce031011d72/tryton-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "401fa875fe73e11990aeffd3458a91debec2fce6106be2760e06cc2a2c86cf27",
+      "url": "https://files.pythonhosted.org/packages/63/5f/768b5c0ac1a14700addbc9d82ffa2e247db964c9a858c9bc1eeef8308a0a/tryton-2.2.1.tar.gz"
+    },
+    "2.2.10": {
+      "sha256": "c46561de32b505d25c2ddfe34bc4f33d8ed412a4f0dcbf7307eaf1d8f04725f8",
+      "url": "https://files.pythonhosted.org/packages/8a/9d/90719c2ad0bd83091db6d5f75116fe051dbd6a1e11fe1b2e8dd4802cf309/tryton-2.2.10.tar.gz"
+    },
+    "2.2.11": {
+      "sha256": "32e13e20b038424a77cf2a63e8501f390c1aa93b02203ca3870cf0f1ee484da7",
+      "url": "https://files.pythonhosted.org/packages/46/02/593640e4dae50437744f93dc0e19fff0cb5980d1d350e03b5d9ff772a770/tryton-2.2.11.tar.gz"
+    },
+    "2.2.12": {
+      "sha256": "00ac8c68d01e1e1947ae064d12ebea6a3941c7e868bf476d4a3d0047b29e4700",
+      "url": "https://files.pythonhosted.org/packages/e9/e9/7327e3d4ea4d69963d6c41f8debd08bd552a3236e3ef24de8493b14bc309/tryton-2.2.12.tar.gz"
+    },
+    "2.2.13": {
+      "sha256": "7b237656f66f2c7a426f9d20885927241c2efd9c92df271b889244ed97039bcb",
+      "url": "https://files.pythonhosted.org/packages/1f/47/4c1a8a2843def75dd90c36efebcd66fab588a82e6249adc640b985107f38/tryton-2.2.13.tar.gz"
+    },
+    "2.2.2": {
+      "sha256": "c186e71253d51cfb70a755044f28ced326d2ea6ad75fd167026d4ff0d495e9f8",
+      "url": "https://files.pythonhosted.org/packages/a5/01/b84562a03bdb714a21b0a37dc5a308e4051de89677dd89bbc8589dcb578f/tryton-2.2.2.tar.gz"
+    },
+    "2.2.3": {
+      "sha256": "0e79da22093bb9e26ed7b06ca459662bb022a7dd4aa6d6f69945012640844a5b",
+      "url": "https://files.pythonhosted.org/packages/ab/00/29ee6e95e97df0e07f42a5cdb8baeb3144258c9c3a948f00b143a79de248/tryton-2.2.3.tar.gz"
+    },
+    "2.2.4": {
+      "sha256": "c887490dac5e6e2a4822cc494b5debaf7aae1b46b25c5a9ec0e58890a2086c8f",
+      "url": "https://files.pythonhosted.org/packages/2e/96/af803792c7b5b30670b5540e6c18a006a27bd97160d3a9f760aba6963189/tryton-2.2.4.tar.gz"
+    },
+    "2.2.5": {
+      "sha256": "836dfd52ea7e345313a2da01969266de6c2c8dea70c52f036a08db467f34387f",
+      "url": "https://files.pythonhosted.org/packages/d3/f6/c3cc6f2d34af14ae7d25de01c6cd32bc4cfe46d6737bca69aa37d38c4edd/tryton-2.2.5.tar.gz"
+    },
+    "2.2.6": {
+      "sha256": "6a3d480be67440a6958617b5b75f889b19f7dda049731882684bb05b9f458948",
+      "url": "https://files.pythonhosted.org/packages/8c/bc/482dad0b1526965f8647a6e89c94f18bcbd611141b5d77d17e4a4a1bc6b9/tryton-2.2.6.tar.gz"
+    },
+    "2.2.7": {
+      "sha256": "e8d08138d0acfe7cb28d5a349543359563e1ebd693420af49c7c9d6e28bfbad8",
+      "url": "https://files.pythonhosted.org/packages/01/53/d70bde077e5a764a77114924fece5e8f7509b190cf018ac381b6810b644e/tryton-2.2.7.tar.gz"
+    },
+    "2.2.8": {
+      "sha256": "738ff8965d66e5dce95275999734a8dea7c8f2f6c0c966d1da9ff3d8db92c965",
+      "url": "https://files.pythonhosted.org/packages/f4/e6/6ff89f7dd6d86fd0619a600c46dedde108813beee1834e2107051074b035/tryton-2.2.8.tar.gz"
+    },
+    "2.2.9": {
+      "sha256": "abbf5d243fe05cc4102a548e3cffcff6206b71e2064da3e9c779e6edf9b0a313",
+      "url": "https://files.pythonhosted.org/packages/f3/a7/2ac4e683ac2f7173aa9826d30c7f7e3140a9eba0a9331207265edb831d65/tryton-2.2.9.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "f9035d536760ae129a018b7dcd33225e2b8fea965dcec9bd61c7ec663081cdab",
+      "url": "https://files.pythonhosted.org/packages/42/55/6b3ee70ebbce24e7bee289fd11485d7b020b54c0a3b1f59db7966bfa5e66/tryton-2.4.0.tar.gz"
+    },
+    "2.4.1": {
+      "sha256": "96a4f13677c272c9d8a30ec8c44f087ca30567d1a44bf546e94103dd19acf02f",
+      "url": "https://files.pythonhosted.org/packages/06/cd/cb9f8442fd18d1acb356e5fd5dce42be8fd6a02ef2778512c156645a2cb9/tryton-2.4.1.tar.gz"
+    },
+    "2.4.10": {
+      "sha256": "3be22fde5decca63f1584598c6c1c2b908d3bfe9d62ce9b46ab1f6126f72a675",
+      "url": "https://files.pythonhosted.org/packages/ca/ad/ca593df77ddadcb17fc17856661a649d1913484f0dd935b1883d44128c6e/tryton-2.4.10.tar.gz"
+    },
+    "2.4.11": {
+      "sha256": "9ac4ea7cd11c7655c8fd6b7bab4860851a2aa7c267541fb07a31b71f716ceeda",
+      "url": "https://files.pythonhosted.org/packages/4e/be/41669c555bb12c05f5d522c377061ca833756f70844c0d96bf895a199f55/tryton-2.4.11.tar.gz"
+    },
+    "2.4.12": {
+      "sha256": "87b778f69177b626a677aa102b21877a457229aee1386c4e852323363215730e",
+      "url": "https://files.pythonhosted.org/packages/a3/b7/b38b66e7011a8a799d0486bb3efb0263dced701d72ca2d3ecdd33559d960/tryton-2.4.12.tar.gz"
+    },
+    "2.4.13": {
+      "sha256": "694c25d4d07f93dc2e23c63b89786c7fe4f31707146aa347e04f044f14f062ec",
+      "url": "https://files.pythonhosted.org/packages/35/f2/ba07909a33391cbd1aad1c95f988771b2fae64ea445d88ffc85f00d24bf8/tryton-2.4.13.tar.gz"
+    },
+    "2.4.14": {
+      "sha256": "945f7eb576d8b1c6b24c643b96d05f4c82419aedb1f1cdd1f7509dcfe21f681c",
+      "url": "https://files.pythonhosted.org/packages/f4/2d/fd5236747ef04b42c0adef3b400448ba015d3418ecf9b405f6bbf6779209/tryton-2.4.14.tar.gz"
+    },
+    "2.4.15": {
+      "sha256": "85682a309b007809e96d8a39ec272f72c9dc0c4685df9f28f2b1cbfe805f15a0",
+      "url": "https://files.pythonhosted.org/packages/4e/42/a36ff5dc00a140b69d6bb7a6c9f6c0a6aa99041dd681199f3dabeb245797/tryton-2.4.15.tar.gz"
+    },
+    "2.4.16": {
+      "sha256": "6eaa27fbe336313913960ed646e79fe4ff726522bb1db83f3e7369d47da9caf1",
+      "url": "https://files.pythonhosted.org/packages/af/11/ce30c539a0e82578e7c6821b7c6801527b00471453ec8bb44d2e2d20858e/tryton-2.4.16.tar.gz"
+    },
+    "2.4.2": {
+      "sha256": "77099cd096480218e736cc62cf058e9d1c9ded34da785240804cf3f8b7314cc0",
+      "url": "https://files.pythonhosted.org/packages/63/a2/027670543d1e4444da73eddef01af7bb41e28b95949de9e50284726649ef/tryton-2.4.2.tar.gz"
+    },
+    "2.4.3": {
+      "sha256": "648be5c4b1ae7a4132a48b8b7e0b7e2aad2850b15c161eacd08058ea5001ee02",
+      "url": "https://files.pythonhosted.org/packages/18/e2/7e150d9534d5a3935fbee43b2261ed1321c198e015911fbf57ef0d33631e/tryton-2.4.3.tar.gz"
+    },
+    "2.4.4": {
+      "sha256": "1513d51ee5626b322d8090342bd6cea9c2792fe0c4ca83875a725758ec094531",
+      "url": "https://files.pythonhosted.org/packages/3c/49/c22da553c1acd97d73a09ffbda4cbbf181080fb6b0f9dca71eb565159f9f/tryton-2.4.4.tar.gz"
+    },
+    "2.4.5": {
+      "sha256": "bf2748fcc09ac2a4f54032695df4f46116c9072ba9595811cee579d5ee7ece52",
+      "url": "https://files.pythonhosted.org/packages/e6/b0/8e101a41efd891225d69be8f4a65273d4b6a3afc16ca8150ecbac69827f4/tryton-2.4.5.tar.gz"
+    },
+    "2.4.6": {
+      "sha256": "33d7918bf31bcedd7637552eb95828a8daedf4143692ea7b15b22a9b94085148",
+      "url": "https://files.pythonhosted.org/packages/7a/8c/0f080b34a3201b5c8651b296509e5b194344d942b0c272c93d4a3373d17f/tryton-2.4.6.tar.gz"
+    },
+    "2.4.7": {
+      "sha256": "c9265b7135c301bb78b5c78ac1e4b6943b6efdaea7c0976498388ca9a964dd66",
+      "url": "https://files.pythonhosted.org/packages/55/40/b6ba6fc713ea86d93b1c76be33cfbe828a1be55cc9641323f7f28ff736d3/tryton-2.4.7.tar.gz"
+    },
+    "2.4.8": {
+      "sha256": "1ae55067dfef91634c412ba189aa92215b3ea020de085e4d4789f3dcbe493fe2",
+      "url": "https://files.pythonhosted.org/packages/2f/c8/d6ddd8555668af8e7697e003d8a7406275fa92aa22615f8a985b97f5a18a/tryton-2.4.8.tar.gz"
+    },
+    "2.4.9": {
+      "sha256": "6b7e2099bae54102eabba2c9e572bd0e77ed4aa372143313c6043f6b95dc38c0",
+      "url": "https://files.pythonhosted.org/packages/75/57/8cc915056786e160760c127d7ef764ee6f28ae5febad6da5fc599cb72da4/tryton-2.4.9.tar.gz"
+    },
+    "2.6.0": {
+      "sha256": "2ea49097bea5a0d31721921103502aefc1b6a6f76243e3a8d9dfd8e579ac6fbd",
+      "url": "https://files.pythonhosted.org/packages/9b/da/a441bb1e3aca882e70b5bf3e99a768c58a42983e068ff98b3860dee1a8f9/tryton-2.6.0.tar.gz"
+    },
+    "2.6.1": {
+      "sha256": "0723fd345e4da8170ace2a515c2a6197cc3489dde657cebb133af7341fdc4ca7",
+      "url": "https://files.pythonhosted.org/packages/99/df/27c08ffbce00e4476484c99bd5b3f204e117500a54f07304f01074f412ef/tryton-2.6.1.tar.gz"
+    },
+    "2.6.10": {
+      "sha256": "18582d1aa9d3305ce34558ffed6f0694c7b4eb5ff8fc9ee2ea3430c6bc3304d1",
+      "url": "https://files.pythonhosted.org/packages/6b/11/3c0890a78bbf03a0a17aaf7087cc0c788efa16d668f2114749427c5b252e/tryton-2.6.10.tar.gz"
+    },
+    "2.6.11": {
+      "sha256": "0113a79e2ec643629ea54dc7215c24d5edc30200aa45e0c07c39200ffd0969cc",
+      "url": "https://files.pythonhosted.org/packages/d1/32/b556b8c6afa9ff516c386243c4718c965547451d11849729359b069aaba5/tryton-2.6.11.tar.gz"
+    },
+    "2.6.12": {
+      "sha256": "034235b586c3973c73fb84ecf72be5b5110443249386291b2ee8f5342596821d",
+      "url": "https://files.pythonhosted.org/packages/cc/b4/8be3da08a780df1ee646feef6439719ba88d19395127372b5d97c95e7ba5/tryton-2.6.12.tar.gz"
+    },
+    "2.6.13": {
+      "sha256": "189d4f0f7ce1884f03d2aa54a57546ca46ac3e2325c7f722c38763f4322ba402",
+      "url": "https://files.pythonhosted.org/packages/62/1f/64c31df877800cfabd5489cf4658a9c32d53192085362c396534b9889e94/tryton-2.6.13.tar.gz"
+    },
+    "2.6.14": {
+      "sha256": "7359acaa4ba42f3939f5f4c318b469dba891aeafe2eaf8989916a5bc989cb535",
+      "url": "https://files.pythonhosted.org/packages/fa/ae/6c0a8af42f3e258d74a95ef562b3942615e505394838f8965b49fcf485e5/tryton-2.6.14.tar.gz"
+    },
+    "2.6.15": {
+      "sha256": "d579f680ba23c43d363129a7025bbd038af1d4e5e7fee2ed0f430bdc4698838f",
+      "url": "https://files.pythonhosted.org/packages/14/49/dd9ad10a035e99d32a92017a0f7af97a50b4afceee786ad32e2a84d5cd14/tryton-2.6.15.tar.gz"
+    },
+    "2.6.16": {
+      "sha256": "aec544ad5c6cb494d926e9d066ce86a6630db7548453b2536b06c2885baa781b",
+      "url": "https://files.pythonhosted.org/packages/de/dd/3bf3f7e8c454617d51ebe5120830f8d2c1e35471c13c872cbcee380c4889/tryton-2.6.16.tar.gz"
+    },
+    "2.6.2": {
+      "sha256": "5a3cd51fba4be03ffd5c3404741f082aed4cc32264762ab8f183fb33cc998bc9",
+      "url": "https://files.pythonhosted.org/packages/d8/a0/7ffea9c6d7bb794d9b10a237c374ee3037b31837807492281afe9a9b91fb/tryton-2.6.2.tar.gz"
+    },
+    "2.6.3": {
+      "sha256": "cf12e4b1dbb21f6dae60eba642f7e30cf06753e110279dba42394003737183ec",
+      "url": "https://files.pythonhosted.org/packages/4b/b8/97eee654306d806e56a721af200af01a63b5d1771b4b18a196e6b374e6f2/tryton-2.6.3.tar.gz"
+    },
+    "2.6.4": {
+      "sha256": "aa6a56e5fadaaee09a4fc7b78e2781dde2afee027ca1cfc3b1fd3ba65b6d7425",
+      "url": "https://files.pythonhosted.org/packages/5e/dd/cbea6272495b7d386d41d36a578b5ebf5a3e6555c526a3880a3a448b76b5/tryton-2.6.4.tar.gz"
+    },
+    "2.6.5": {
+      "sha256": "dce722c0a8eecf007a3125b8d45f4df23d17e8dfd1a09b894efc77197f882730",
+      "url": "https://files.pythonhosted.org/packages/bf/58/1828e2d823e312dc19e098f74a2793d547af99f050273af421ae329661d8/tryton-2.6.5.tar.gz"
+    },
+    "2.6.6": {
+      "sha256": "6d6d252afccf5dd4b2a1a5688b8748867ee451cb2b83a50efad5f9a7f2503292",
+      "url": "https://files.pythonhosted.org/packages/10/42/4d9f1373cf39279e63623fdb95f8735f31afa1949e72f9b5533f60e1e827/tryton-2.6.6.tar.gz"
+    },
+    "2.6.7": {
+      "sha256": "4c086c74d0ac75a4856d0d4291b1c09a9179d25c61b3e10a53323fdc153d8f5d",
+      "url": "https://files.pythonhosted.org/packages/97/97/13cc988dffce29d01350ffb27f407ad31fecbd07f944768bb95b7b8d53d5/tryton-2.6.7.tar.gz"
+    },
+    "2.6.8": {
+      "sha256": "37683801e94c629bcdec8279ce731c7673951787ae32a682bb953fbe55e8a130",
+      "url": "https://files.pythonhosted.org/packages/fc/0c/c957cb4f142f0b20f87455ee562ec571b5a1fb023ee87716afa30af7c535/tryton-2.6.8.tar.gz"
+    },
+    "2.6.9": {
+      "sha256": "84b988c358549776bf3a9dc7999eb7e24d8e924fbd15c1c869785d8ed4b610ee",
+      "url": "https://files.pythonhosted.org/packages/e6/63/67e41eb987634f33e4aab407ed2f8149126dc95f713c4f5fefda99db2daf/tryton-2.6.9.tar.gz"
+    },
+    "2.8.0": {
+      "sha256": "35ec8e030a5fd85a5af4b6bd4bfaf86db3362cc8db0705f5177b93d5d84b288d",
+      "url": "https://files.pythonhosted.org/packages/56/1a/a83152c90d4a9b569b11d9903b9e25f20f0218d0b440b83846d35eeec3ce/tryton-2.8.0.tar.gz"
+    },
+    "2.8.1": {
+      "sha256": "ea71d8563f50edb5ac07e518109bf3eba47a1974c3cd0a6c0245be39ccb4eff6",
+      "url": "https://files.pythonhosted.org/packages/f4/46/7f9a75573824c7f7962b473aae7ad2fa450998641b3e3d23c992362d9ff0/tryton-2.8.1.tar.gz"
+    },
+    "2.8.10": {
+      "sha256": "de8d6a373a4efaaf6a7961d215cc2649821e59a6005e9a70ec1a3b50d332a99b",
+      "url": "https://files.pythonhosted.org/packages/a4/2f/bb3f605302b707ada48f6eac6957d9bca5bd3229309b68b60bf5d43f0584/tryton-2.8.10.tar.gz"
+    },
+    "2.8.11": {
+      "sha256": "3f56eb7719213b5aa79384161850da1de64bbc078750c0532a9a9f80028b2bb7",
+      "url": "https://files.pythonhosted.org/packages/f8/a9/d70384ce8e006cd9e3506c65a93cd88a19eef54792683eea07b4d8e4b39f/tryton-2.8.11.tar.gz"
+    },
+    "2.8.12": {
+      "sha256": "3f9794015826e8b48f8681d143c74989e45e50049ec06787030b57cfb6285d14",
+      "url": "https://files.pythonhosted.org/packages/8b/9f/d81cd1c46d76732fa3dcca46148cb7d491037f9bb6ebda24dc0fd5b26c89/tryton-2.8.12.tar.gz"
+    },
+    "2.8.13": {
+      "sha256": "02c4c48dc1e9bb1f98b90272afc8f8057f68b819e490a4d9f8c113eb563c989f",
+      "url": "https://files.pythonhosted.org/packages/0b/a1/f917c219ccd938e17743cb6ca05cb3919e7cb5d93a4f460d0393a82cb42c/tryton-2.8.13.tar.gz"
+    },
+    "2.8.14": {
+      "sha256": "88bbf831fac32a73cd04241e6af1a18955bfcc47528892be6ac25961f2878b3a",
+      "url": "https://files.pythonhosted.org/packages/03/ce/5e5ac6664eb83dc4a4f225ea238e826295caa7392257cc0410ea34eb0908/tryton-2.8.14.tar.gz"
+    },
+    "2.8.15": {
+      "sha256": "fde5c666e8970c252d186e5bc8204256b70e2a7dc8cf3a746c64cd5ec75d8f12",
+      "url": "https://files.pythonhosted.org/packages/27/f0/df3415944b55491f24094843405f7885e9adf5878422f467f9fc307afc4b/tryton-2.8.15.tar.gz"
+    },
+    "2.8.16": {
+      "sha256": "41d3666f8f1008526a6eac34884cb3e2137e048d5a9b7e771af8d8fc43e49961",
+      "url": "https://files.pythonhosted.org/packages/c1/7d/b8377c41d9e454f4f4aaa0cdd9694ebec4ac43715d0956b80d4d7cf5f58f/tryton-2.8.16.tar.gz"
+    },
+    "2.8.2": {
+      "sha256": "7cc1246cde302a1e3f97bd151aca73f3287c3d3d53b432e797c3c2d66ed47eea",
+      "url": "https://files.pythonhosted.org/packages/c3/b2/6cc5f0036eca5fc5cd7abb5491d7d46455290ee967b5c70d6603c8464ac5/tryton-2.8.2.tar.gz"
+    },
+    "2.8.3": {
+      "sha256": "055be89ecc904c1027b0ded6e0398afcacdd673a6032e67bb6919f2ac9f1be3f",
+      "url": "https://files.pythonhosted.org/packages/32/c8/0862e4ae0841d96e7a54e42b3df0aeaca32b4e3740424fd4bf4abde35a90/tryton-2.8.3.tar.gz"
+    },
+    "2.8.4": {
+      "sha256": "15291a677e45518e08090690e429b54c50b3316f75d6601ab730dddf85727201",
+      "url": "https://files.pythonhosted.org/packages/cf/b1/beba346ea5ca2f8d15307a490861cdbf4a829020f353da366070e646e530/tryton-2.8.4.tar.gz"
+    },
+    "2.8.5": {
+      "sha256": "f5f5da4647b187edaa0f0ff12c55546ac5089272bf2bac62671374d399501a39",
+      "url": "https://files.pythonhosted.org/packages/83/4e/7b20e8425d7e36a95cde27ab1d1cc1518f8c25fc1661c8d255dea7a1c743/tryton-2.8.5.tar.gz"
+    },
+    "2.8.6": {
+      "sha256": "edfea483ae11de78eaea2585a886f564940c41344a6a7873cda08196250f12e1",
+      "url": "https://files.pythonhosted.org/packages/8d/c9/90a5cc8bc298a755a3d259b12c2cb4ddc2abe0a31228c562ed5609b199bc/tryton-2.8.6.tar.gz"
+    },
+    "2.8.7": {
+      "sha256": "ed09a251390f7b5f0d58f09e4eba765f7d3572f8057e887b8e7a4227f94c31f5",
+      "url": "https://files.pythonhosted.org/packages/41/ed/5d602368152eddc114f77382024d5a6cc27a4ad1763f1e81b7cc3d13ba7d/tryton-2.8.7.tar.gz"
+    },
+    "2.8.8": {
+      "sha256": "133d270929e49e7c7d1f0e47defff106c2eb9525b53aa4655cb44b899fa8ad57",
+      "url": "https://files.pythonhosted.org/packages/8e/30/9f0dabe115e9592f73c963e6e4780a99eddc4b45db959fd216bb04a460e3/tryton-2.8.8.tar.gz"
+    },
+    "2.8.9": {
+      "sha256": "884a76ab4f39635eb6e6b7d47af023a9c4dc4025183c2e2aedbd5328d7e7a93a",
+      "url": "https://files.pythonhosted.org/packages/9d/06/6a431da433b8df7e08cd2d60bcc6ee136f34291a20e91cb2cef50a95003f/tryton-2.8.9.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "0181dac60848549c730d49c2a798c67bd9c686ceb2a0797a9398449351f0f4d8",
+      "url": "https://files.pythonhosted.org/packages/57/5c/41f1976786b78c7211e779fdcb68f2618b89ea8ddf55df8368144b573066/tryton-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "68276dbec4c9bd696fc01e88703d7954f506b8b7db28c10126d004901f41a8d1",
+      "url": "https://files.pythonhosted.org/packages/ea/78/b203b82b0d2b3248e099ab7677398d7a438f269eac8aa69dc7337570bf29/tryton-3.0.1.tar.gz"
+    },
+    "3.0.10": {
+      "sha256": "270fb37d7112f3cfe53bd445d4c6117148d2d0477480597fc5309f1fc9eaa8fc",
+      "url": "https://files.pythonhosted.org/packages/14/8a/b221269c3b8a39599a5ad982e36d4e55bb1173d2df7444d28e20510bd4c4/tryton-3.0.10.tar.gz"
+    },
+    "3.0.11": {
+      "sha256": "9619a44f0a41ffa4fe0b59f10cf8e5b6215d33c5b811db3526480625fb53188c",
+      "url": "https://files.pythonhosted.org/packages/6f/44/c6356675192a0f98884e3a1386861816689c54ac54ca87969b54092e2f35/tryton-3.0.11.tar.gz"
+    },
+    "3.0.12": {
+      "sha256": "59c9ab1045e7f40bd123564ea6953b3ff791cd4761ef2c66700f35c5efa630a8",
+      "url": "https://files.pythonhosted.org/packages/70/8a/105249973df9e69308c4d889cc06749affe90cdc6fb8be6a38fac7fc16b9/tryton-3.0.12.tar.gz"
+    },
+    "3.0.13": {
+      "sha256": "411e7ae35ee4b9dc5b4d8ebd577a7e6ba646af6d709db9c6f51b14e8026244ce",
+      "url": "https://files.pythonhosted.org/packages/ee/3e/ef2c0006b7ea9b79a3fd5369f4929b1e07209c7e996f52154285f1b15f34/tryton-3.0.13.tar.gz"
+    },
+    "3.0.14": {
+      "sha256": "ee522dc1bccbe2855e0cb6a139bcfd38ee71a3f4417e41164f6c8b7f3fb75f55",
+      "url": "https://files.pythonhosted.org/packages/19/db/e0da978df99d6e5e7bb4aca0a809184c7f0764ec74cb01a977a6b343b60a/tryton-3.0.14.tar.gz"
+    },
+    "3.0.15": {
+      "sha256": "c7ef2b937effd0f52028c56509ced76f29adbb29f45ab6564c6d0432b7830c94",
+      "url": "https://files.pythonhosted.org/packages/56/5a/ca71f99d47aea711b75b2009971d38fff7e901789b2a45c8f858c6e4e80a/tryton-3.0.15.tar.gz"
+    },
+    "3.0.16": {
+      "sha256": "15676ca19941e30af549d177762de5a93b9c7e1c601612e57da969038ec499ec",
+      "url": "https://files.pythonhosted.org/packages/90/a6/9b723faebfccd27529622784ee6bde356e9174e706e7aae66ff5ee452b7e/tryton-3.0.16.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "26c6fe1749ab539f77325576a0f1ee5c647825f535ee031c0e7559cfe01851f6",
+      "url": "https://files.pythonhosted.org/packages/d4/a1/165d72c82b54b53a6867fc7bff834ecb0dd625a1adbf5206494510557edf/tryton-3.0.2.tar.gz"
+    },
+    "3.0.3": {
+      "sha256": "a008a7607568a3656219ef930263073f2f01012ddf98c60817eaf78831025b27",
+      "url": "https://files.pythonhosted.org/packages/3c/d7/5b2428b3b1b3714121435941ff668b91600e60cd2d6af4191bf47e727e76/tryton-3.0.3.tar.gz"
+    },
+    "3.0.4": {
+      "sha256": "5838314b073c87fe38633246ed01410536c3d702949e43ec34c187c70481b6c7",
+      "url": "https://files.pythonhosted.org/packages/63/fc/ab4dbe862be6fcf8ee9ba663c5b01f96777b936a8469b60637b96641843d/tryton-3.0.4.tar.gz"
+    },
+    "3.0.5": {
+      "sha256": "a25b96c6ad8fb08a0e6dae3a9bfdc68fe559060178b0444f9cac5c2bb77d723f",
+      "url": "https://files.pythonhosted.org/packages/89/2b/f4549dd246e3665c40e9ba34999ae7c2ba309df00f74e80783f9ecf9509c/tryton-3.0.5.tar.gz"
+    },
+    "3.0.6": {
+      "sha256": "e4b38fd792e4e7306554f29c349137de318782b07d597b9add38a566aec105ab",
+      "url": "https://files.pythonhosted.org/packages/b2/dc/82a7f1a7ea442cc7d2a5a21427e435fcd49103de7d51b60545e1ba29c9c8/tryton-3.0.6.tar.gz"
+    },
+    "3.0.7": {
+      "sha256": "de3ddd718742a03ea8aed8a33c921d2eb37d8b5345ea496834d4df2fa1ad9d8e",
+      "url": "https://files.pythonhosted.org/packages/d3/c9/6ef68a9e338d879992328486c2a3bf653ad88b56538f2558024c39cd2fe1/tryton-3.0.7.tar.gz"
+    },
+    "3.0.8": {
+      "sha256": "65c868badd330d0a0c3c3e8909beb88786822d79a45dfe0fe84fc95794222c83",
+      "url": "https://files.pythonhosted.org/packages/6a/cb/e6ab2bf26a4edb16926a0dd1612beb675aef3d306386fc6eee86de263f2c/tryton-3.0.8.tar.gz"
+    },
+    "3.0.9": {
+      "sha256": "566d582cf8e26ddce9cba0848f2c4880ddfa958dc2f52badba37efb05045310e",
+      "url": "https://files.pythonhosted.org/packages/78/23/265b35680e4f080831da095b2b5ea366f394cdaf3bc2f68d221cfb27dc47/tryton-3.0.9.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "8160f1118fd024ce23ecd7f094e8015c78b39adbb61d021ccff7017e1deec0ed",
+      "url": "https://files.pythonhosted.org/packages/46/38/6f27922831d39f2b582dd5ae23d8133a307cab8de0511f09350fbc2bf9c5/tryton-3.2.0.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "93ce477508392a87d21cdc09bd56629026c3f76c89975265dbc03292a8ab9430",
+      "url": "https://files.pythonhosted.org/packages/3c/0f/681ee8df2b21f0d8fe9a17fe206ce7ac2eb7d446dda1d09e31c28f6aba26/tryton-3.2.1.tar.gz"
+    },
+    "3.2.10": {
+      "sha256": "f0545ac097ecc572ca60486d4d09764914ca21f3244cd24ffad4d95321aa1253",
+      "url": "https://files.pythonhosted.org/packages/f2/03/a20e34c145bf0eb9a4d9e6784c220821a3de85e1ea51b7f91e11cd540928/tryton-3.2.10.tar.gz"
+    },
+    "3.2.11": {
+      "sha256": "d8d272c4809528b9502779cbbfc48ee085e9c74f2468d9217313edbe38c26811",
+      "url": "https://files.pythonhosted.org/packages/3a/e1/9a4e52bb4062df3920cdc7c3b111dd1257a381f8aa158a605375c91eb108/tryton-3.2.11.tar.gz"
+    },
+    "3.2.12": {
+      "sha256": "048607026db9d0ca409619b324f1c12dd0678c4bdb25ff9e5a3a044932835c31",
+      "url": "https://files.pythonhosted.org/packages/5f/07/6cb3a3e8a55e70b0ac099365c021932265444837b6c4a88297e1d53b8e75/tryton-3.2.12.tar.gz"
+    },
+    "3.2.13": {
+      "sha256": "006329dfb60f7effe3d0a40de3789745affd252028f17e377a7ebc3fd2e9d932",
+      "url": "https://files.pythonhosted.org/packages/d3/7b/e54c5243a5e118043b72be4b3c700c9a9f7dfeeb9bb3475a85727d76adf4/tryton-3.2.13.tar.gz"
+    },
+    "3.2.14": {
+      "sha256": "0789a034527121349adc9a81d9ef5bc4b594dc9db020fd0fee3af461a75f8e33",
+      "url": "https://files.pythonhosted.org/packages/82/d8/00c0c593f1a8e0fae726a4dcf8b24d0c1096f33c9c4e26c9285e72cd34e2/tryton-3.2.14.tar.gz"
+    },
+    "3.2.2": {
+      "sha256": "56214d62d037da6b2b06293e842f3566fb96c02839e7698d655091832fde1245",
+      "url": "https://files.pythonhosted.org/packages/68/e5/38c7fa27b3ea2c01216a9932e13debc9d54f3060ad4308fac740a9f7be46/tryton-3.2.2.tar.gz"
+    },
+    "3.2.3": {
+      "sha256": "954f20350a03bc1076b6bf04db08ac350024aa5a135fd1e0567cd4dd606a140f",
+      "url": "https://files.pythonhosted.org/packages/66/d2/eeb0e07c290d21ef909e0814e28980806a556b22a343f1836e286f9103b1/tryton-3.2.3.tar.gz"
+    },
+    "3.2.4": {
+      "sha256": "9cb84d939e32671bacf83b9c7d0c43e4447feaa7b81b6ccfb11263a7d49c44b7",
+      "url": "https://files.pythonhosted.org/packages/33/58/6b103cc39f2504b69014418823458c0bd05b18d732c6afe9bd972cc5fb50/tryton-3.2.4.tar.gz"
+    },
+    "3.2.5": {
+      "sha256": "2c1f2455ff7d553f87fcc5f1780df1780cdbbd83e3f58df0ea3d6688fff6fc6b",
+      "url": "https://files.pythonhosted.org/packages/9e/87/ce776e984f6696ce34d4311f932b6bf94d178f680156e661f95d862811e8/tryton-3.2.5.tar.gz"
+    },
+    "3.2.6": {
+      "sha256": "b19bfedb3869679485df7d3883d82cf702e17a07d6a2e4e81aba4d78d6948a73",
+      "url": "https://files.pythonhosted.org/packages/96/09/80ebb99e8d52ab5f298e7af270fa9286917f5b6e91d95f0e5a43f63de64f/tryton-3.2.6.tar.gz"
+    },
+    "3.2.7": {
+      "sha256": "27f435968af284d8114c1832b57c807b7335c5b994b9f8012ae88a69c48cec16",
+      "url": "https://files.pythonhosted.org/packages/c0/f8/ccf5f7e66d25583c0cfd148fc0148cdf96ac8b37096be339638ea0ddb81c/tryton-3.2.7.tar.gz"
+    },
+    "3.2.8": {
+      "sha256": "98bb61efeee507b2cf8c2eb48cce895008bebe575da05bdbd3447ce96ac85231",
+      "url": "https://files.pythonhosted.org/packages/cb/30/b845ab0d6e76a34264a8416276fc5aedfb3c1ea442782a55cad9d7702bf7/tryton-3.2.8.tar.gz"
+    },
+    "3.2.9": {
+      "sha256": "b2f44de8fa605469b5da844e600dfecb1733e09862ae2ee2acacb069574478cf",
+      "url": "https://files.pythonhosted.org/packages/fd/a3/9ac63025bacd732bd556e34184003d234990f2f84867306f37a45781b97a/tryton-3.2.9.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "deb32d663272b94e3c1d98723b8f199ccebcdc9f9e190934a3db0270628f4718",
+      "url": "https://files.pythonhosted.org/packages/59/2d/6281e9bf7be57c0609e89569dd145bd8e08dc533cefc268a92364b0d681c/tryton-3.4.0.tar.gz"
+    },
+    "3.4.1": {
+      "sha256": "b3529625f9f6b72d0d8b36f22fd876eca5398e6ca2d2e807c53ef9a9acb4e86c",
+      "url": "https://files.pythonhosted.org/packages/dd/6c/21000131055bd6c6324cbb912002a0e3e1335072a37c22b2081430263d14/tryton-3.4.1.tar.gz"
+    },
+    "3.4.2": {
+      "sha256": "8ad1cf2f31db9efeef4d05d19cb3e20dfdabb02eda2df88abdaaa13c3891e0bf",
+      "url": "https://files.pythonhosted.org/packages/44/50/801923a7e04facadfcc5c5239766b3d3ff2a8dc7ce0ed5e648ec23fa417d/tryton-3.4.2.tar.gz"
+    },
+    "3.4.3": {
+      "sha256": "80d9aa6ac49012e93827d22cfb537ae176c0b94d6e3992724ab65aa17c2dbd76",
+      "url": "https://files.pythonhosted.org/packages/c9/7d/26a0150dd2da4dcba2a0b39358ba28a9016e834ea9fdaf2ed66ad60564cd/tryton-3.4.3.tar.gz"
+    },
+    "3.4.4": {
+      "sha256": "dd57a120c0ab7a8a652e0ba045ceb386746e9d7e30d227b175822115591fdb80",
+      "url": "https://files.pythonhosted.org/packages/8c/12/11ed18bcfa0edf833315a2c72e2e2c785a6d04c5bbdf42b52edf12aba452/tryton-3.4.4.tar.gz"
+    },
+    "3.4.5": {
+      "sha256": "7967f01b13c00ff176787ef80775cc195c9dd4393c3e6245c349fdaff7c0765e",
+      "url": "https://files.pythonhosted.org/packages/83/6d/2398539087e3363b7f46a0188c1c09a9b2068483f21c03277f35b8c8f0b0/tryton-3.4.5.tar.gz"
+    },
+    "3.4.6": {
+      "sha256": "8479820433eecd0a0e9b4530c2a53a981b9fd00ef0b569b885d0c0c03b36bc57",
+      "url": "https://files.pythonhosted.org/packages/19/ba/7bc6b1873d3a61fc2c7d59507e0dccc8c48c16050ca1f54a0a9e6eab8921/tryton-3.4.6.tar.gz"
+    },
+    "3.4.7": {
+      "sha256": "2e9927b0575231b7956b95c27fad7dd1abb3aff25ed6fc17a00b15f949992ff7",
+      "url": "https://files.pythonhosted.org/packages/e3/3b/ed658e7e1501c52853ec4511b1e65dbd7eab260160c3dd76364290ab9e5f/tryton-3.4.7.tar.gz"
+    },
+    "3.4.8": {
+      "sha256": "a69f1900961e5371f137c0f32432afb7317f5942124e1c34bca61ae58b271b42",
+      "url": "https://files.pythonhosted.org/packages/aa/e7/37d51afa3d92f3adfa1b6f5e9d7644a6a3c29480c5fcf3b2694eeb862bf7/tryton-3.4.8.tar.gz"
+    },
+    "3.4.9": {
+      "sha256": "71d86e9eeac4fdbc181a9ab44eb6a7abcebffae167aa6270a4c248893210ab57",
+      "url": "https://files.pythonhosted.org/packages/3a/f6/14c57ca18df808dfe17ff1ccc6cc8d3107d14b03f21c1db7781c911ee757/tryton-3.4.9.tar.gz"
+    },
+    "3.6.0": {
+      "sha256": "f3efb3c5565636bd02d2e5b05da330eb83fa3716c3f2d8171c0ab3c61a290e80",
+      "url": "https://files.pythonhosted.org/packages/8d/32/7e8abe9c7df940e3be6474059d30b0eff6df0a5f1f1af5a31f922aa458a1/tryton-3.6.0.tar.gz"
+    },
+    "3.6.1": {
+      "sha256": "1d8e5bd5d8ecc4185da16832af471905f31b1b3d2770869311a29de6c0ce3304",
+      "url": "https://files.pythonhosted.org/packages/de/f4/c31189c29dd42532251ab61f776a507ddfe7f5fc49cb657f0edfc222cf60/tryton-3.6.1.tar.gz"
+    },
+    "3.6.2": {
+      "sha256": "39f97e0115efb750253d72a910d1d1870910534ce616deb35468336449b72b1f",
+      "url": "https://files.pythonhosted.org/packages/78/9a/942c4b6ca3d71713949fdf15fc3adda44632284ac465f91720de8448b3ee/tryton-3.6.2.tar.gz"
+    },
+    "3.6.3": {
+      "sha256": "be1407b3aa9f9fbdff0ed619f4d3a08cecc7b0149a1080561390729c0613e1af",
+      "url": "https://files.pythonhosted.org/packages/78/0b/6801f0371c79a1949e57c581a80143fb66081363ff0b977923b962cdd6b4/tryton-3.6.3.tar.gz"
+    },
+    "3.6.4": {
+      "sha256": "75a6fb31bd132ac9c3a6d0910a7e8c04c5c42b4de96c8e5bb09437e48aebb699",
+      "url": "https://files.pythonhosted.org/packages/b1/83/ba6c3410ec36d63b89c628926e2bc5252e933d8159b2ef0a091645072e36/tryton-3.6.4.tar.gz"
+    },
+    "3.6.5": {
+      "sha256": "f007716213094753efad9281b996ea7694254806674410362df5099682458356",
+      "url": "https://files.pythonhosted.org/packages/fc/23/6aa5de19c41a26f5c053c4b4c3207d11d4834b5d77f2455d28138c134ca7/tryton-3.6.5.tar.gz"
+    },
+    "3.6.6": {
+      "sha256": "a8c82466b13faaf79241156f0456638ff37aa3363818f9ebf9818b644a4cb795",
+      "url": "https://files.pythonhosted.org/packages/63/10/6aeb316bc5a478033066a29d524962a1eee85beab83375b01e140ef78cb5/tryton-3.6.6.tar.gz"
+    },
+    "3.6.7": {
+      "sha256": "0adb04b1589a69f4f5488bec99167d3a61a6404c4f0d2cb5595ccaea3d516910",
+      "url": "https://files.pythonhosted.org/packages/18/b3/82fb7f270750a360bab750bbff4c990c43024bcf1d412fd6d6423cc6f051/tryton-3.6.7.tar.gz"
+    },
+    "3.6.8": {
+      "sha256": "2829dfd209293f6661c7cc2975bc238cc71522120426e28cdb8979bedbacb114",
+      "url": "https://files.pythonhosted.org/packages/d9/83/fa7badf4f5950fb197e7a949510338845b44283bfdbd6b8e99d01ce6ba3b/tryton-3.6.8.tar.gz"
+    },
+    "3.8.0": {
+      "sha256": "d55875b2501aa760ecb1714ef3f5067af2b85514a198637731ca01b5b00065ec",
+      "url": "https://files.pythonhosted.org/packages/b9/2c/06f8ed8e3ccfdc8917d3d0edf9bb9a9cc0c0fdd3e6a12b0cb611cbfd881b/tryton-3.8.0.tar.gz"
+    },
+    "3.8.1": {
+      "sha256": "d5f9dc5225332b6ffed3acfd00ed081b9da30e56cb69fce65d91e9407f0a35ff",
+      "url": "https://files.pythonhosted.org/packages/e8/f1/a67db6c15534b25d2434d696adbac4444d48a0ed787b61c2085f9e356645/tryton-3.8.1.tar.gz"
+    },
+    "3.8.2": {
+      "sha256": "7ee6d7461cd6de73903f056e0005ae6f988dba8afcca65575d9fa2cc6372fb16",
+      "url": "https://files.pythonhosted.org/packages/f3/e3/1b5295c05bd3b2ae24fe86ba0d6ab191bd379ebf0d1e6e860cda7b570f4c/tryton-3.8.2.tar.gz"
+    },
+    "3.8.3": {
+      "sha256": "119b98ae92b2c3d3b120b1595a43a18606d7a6da8ec7f01a582b87f37cae2833",
+      "url": "https://files.pythonhosted.org/packages/59/c1/7b4022c6a8d1b81999e93a6f0ea6f1e83f27266856e3de9be0456035b7f8/tryton-3.8.3.tar.gz"
+    },
+    "3.8.4": {
+      "sha256": "21ac2bb567407e71b83f247fcfd59035189283f6d0020ef69094f1c7e21ab8a8",
+      "url": "https://files.pythonhosted.org/packages/5c/cd/a9a4bee8fcec50f77adca5d6394068a469a120e9b48a18a1d7e0cb453d43/tryton-3.8.4.tar.gz"
+    },
+    "3.8.5": {
+      "sha256": "ce7e7158435519d5730f81c10048bab7d90b2c26f192f4abdfe19e2ba20658dd",
+      "url": "https://files.pythonhosted.org/packages/48/f4/4e90453bea77ebd4b7d64799b1c8438b5c8ef2fbc392fa875f3e3f49e8d3/tryton-3.8.5.tar.gz"
+    },
+    "3.8.6": {
+      "sha256": "b676c7a58b5429a65e319b611e5e0e6c38d786d3405f7ba9fd513664d89168fd",
+      "url": "https://files.pythonhosted.org/packages/76/0c/efc9695f1819e332791f309381cec25a4293c0ae892faf355e084a1f68f0/tryton-3.8.6.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "aebe36912d23cd1494de39b53791c41031bb2acd65a201574736a5764ac69d35",
+      "url": "https://files.pythonhosted.org/packages/4a/73/daa9ea5a7789ac7e4b269b81aedf50f2978ca2bf6626194698ac46efdf14/tryton-4.0.0.tar.gz"
+    },
+    "4.0.1": {
+      "sha256": "4f4552eac759f6c30eb1a41f5fba00655ba0a57537f122579cb2e58e97aa2e5c",
+      "url": "https://files.pythonhosted.org/packages/99/47/cae741fc4650038f4aafcbf1c0859532364783e7e04a4e84b37c0c0d9bab/tryton-4.0.1.tar.gz"
+    }
+  }
+}

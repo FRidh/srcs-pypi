@@ -1,0 +1,44 @@
+{
+  "latest_version": [
+    "1.6.1"
+  ],
+  "meta": {
+    "description": "Module to expose posix_fallocate(3), posix_fadvise(3) and fallocate(2)",
+    "homepage": "https://github.com/trbs/fallocate",
+    "license": "Python Software Foundation License"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "bfacb9e47f62c3eb4f037056ead920dae6bfc35f0d5a47ccf8720cf25bd87e44",
+      "url": "https://files.pythonhosted.org/packages/1f/c4/30e474036bc7728da3c7298b94d87b83aa1d5c06667c4c5ce87bcf5b8469/fallocate-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "b73dca696cc0cd1bbb63d39ffc2e62dff8ab9272d48cc62d0bc5ed29df511684",
+      "url": "https://files.pythonhosted.org/packages/f9/ab/aae00d626233196b9a0906648078ed1f6119ed415eb5dad2eb1bd00f22fc/fallocate-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "06a2a896c5e61ba8146d66fee7b8a766e2eee2323c85cea30920b059bb8994a9",
+      "url": "https://files.pythonhosted.org/packages/2e/b8/6434d2fbb027f6e7f5657460910809232e6c5efe8cbbbdaaf3016d3349dd/fallocate-1.0.2.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "2291624e64ee876fa53fbbff0212b89fd305ab73feb7117875c409da26484d0a",
+      "url": "https://files.pythonhosted.org/packages/f5/64/c6aafbada6a73faec24e60123aa2e09a06805f25ed38d52bb7a3f51ee9c6/fallocate-1.2.0.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "ff12a31661b297e9ae1a675b64f922c0d2c759521d529bd1afa0d3c6b5ad433d",
+      "url": "https://files.pythonhosted.org/packages/86/5d/a2fc946fd9945f8a5789b6cff5eb5082d5ca518d42c9484a28c15a2f4d22/fallocate-1.4.0.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "3b0abae33f704bad8a07d70255b95d9c89a92098c3b0c5e0578ccf4753b7efa9",
+      "url": "https://files.pythonhosted.org/packages/77/53/37338e0fc7a766e619380db3cdc55f62a5fe81684f2d0ffcc3f67a4d5b87/fallocate-1.5.0.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "e07e46aa34578eb6f7f144f4d7bcf93eaa2245f68955f9ac73d50123c9a4a0d8",
+      "url": "https://files.pythonhosted.org/packages/ab/70/03c4534cc4b7998577db53a75de9b9b54e8ea387a9b97e3b3d72565fc897/fallocate-1.6.0.tar.gz"
+    },
+    "1.6.1": {
+      "sha256": "36c4a94f82b2072a206557549fde9c918d6666c66008cb279ba9709695d33bc5",
+      "url": "https://files.pythonhosted.org/packages/6b/f1/d1e26f3510ca8881d852a87bdda86fbb01fab48e3644fa5473365ce87046/fallocate-1.6.1.tar.gz"
+    }
+  }
+}

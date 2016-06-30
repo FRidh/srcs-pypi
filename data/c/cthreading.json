@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "C implementation of Python 2 threading's Lock, RLock, and Condition",
+    "homepage": "https://github.com/nirs/cthreading",
+    "license": "GNU GPLv2+"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "950abc0f1116cd8cfc9917a48637a79b8da635502868d24126c8ae3f882ff03e",
+      "url": "https://files.pythonhosted.org/packages/61/66/3a52af79d57c96a64ac7d7db69fbf8b11d7d449ba4bee28e31274148df8f/cthreading-0.1.tar.gz"
+    },
+    "0.3": {
+      "sha256": "37fabab25a02848d59f1a1dfee5bd97d3943534b5a966750572859dd7ea5432f",
+      "url": "https://files.pythonhosted.org/packages/40/1d/95a62ac94770eda970494fd2f28ebada34a24a0698ee0d0bd832a3d20eb3/cthreading-0.3.tar.gz"
+    }
+  }
+}

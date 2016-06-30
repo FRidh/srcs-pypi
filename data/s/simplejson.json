@@ -1,0 +1,340 @@
+{
+  "latest_version": [
+    "3.8.2"
+  ],
+  "meta": {
+    "description": "Simple, fast, extensible JSON encoder/decoder for Python",
+    "homepage": "http://github.com/simplejson/simplejson",
+    "license": "MIT License"
+  },
+  "versions": {
+    "1.1": {
+      "sha256": "411c63d189bd14af490daf5bdbbfb3027648446693de4477aa1cbac3b157f687",
+      "url": "https://files.pythonhosted.org/packages/92/76/5232214c0de8412488b2d031de20482eed6046ca355dc81d5683d9800d54/simplejson-1.1.tar.gz"
+    },
+    "1.3": {
+      "sha256": "e68c59d56ba92bded0189a02e39d2483aea20cd23b6ec1b5d8fe1b4900d1cb26",
+      "url": "https://files.pythonhosted.org/packages/e8/bc/14e36f8a8dcd35afac0c02c399061c10fe059d33925dc317c5091a622c23/simplejson-1.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "2fedfe38e6046da334c713202d814811952a00813773c7e1e23cc8d15d157623",
+      "url": "https://files.pythonhosted.org/packages/f3/54/2f1d830ed26876c847ed615d5a3707df9e63f60291e7da4f5ebf96c4c4f6/simplejson-1.4.tar.gz"
+    },
+    "1.5": {
+      "sha256": "df6c8bdb40697051c5bb920eb272d33e9dd54b2ebe72e0f47a9e815a585e8ae1",
+      "url": "https://files.pythonhosted.org/packages/e6/4d/2e7399ada7f1381bf0d486d561eb89dcc13f088518b3d234a8fd9f2efca7/simplejson-1.5.tar.gz"
+    },
+    "1.6": {
+      "sha256": "e901c0e78ceba9b3679ddccad5dd48e6dd84f087dc288a2e24e5c6d875a4f735",
+      "url": "https://files.pythonhosted.org/packages/5b/9b/486809439af7c04c769aa66c7407c6c41c4a69bd9e7db369953b0a4e02a5/simplejson-1.6.tar.gz"
+    },
+    "1.7": {
+      "sha256": "e89889f9465ca3e60c5b8f2dae7c279a29edfb5e894840c95414ddf2980a8dbb",
+      "url": "https://files.pythonhosted.org/packages/78/e2/704d85dd809d6b06e427004f6a841ae9b9c4dd1403c353cba6dd7003cda1/simplejson-1.7.tar.gz"
+    },
+    "1.7.1": {
+      "sha256": "c28aa94f8fdeb8af95069640bc41bb615473944c78af9ef0eda318172dd643cd",
+      "url": "https://files.pythonhosted.org/packages/7b/fc/c9f73105f57fde6731ff696d2425d0b292456fb3ad3542b59d612cb61caa/simplejson-1.7.1.tar.gz"
+    },
+    "1.7.2": {
+      "sha256": "1414aa1bfc73341e39363b8f7755a749dc366b445d3e5a61087f722827e0e67f",
+      "url": "https://files.pythonhosted.org/packages/cc/59/061b1234e45797d3483a6c831ded6428bfddd45ee14fd877df163fba3d72/simplejson-1.7.2.tar.gz"
+    },
+    "1.7.3": {
+      "sha256": "748bc8b9105580bc175f36390a10c9fcff774162fb8267e151b0c8e2c1ce077f",
+      "url": "https://files.pythonhosted.org/packages/a0/17/e681ea7fbca563bf125d72611f7dfb5af8da4f3c9c1e153a841d5b0019ba/simplejson-1.7.3.tar.gz"
+    },
+    "1.7.4": {
+      "sha256": "5ff086ff0fd89203c9cc6201e07e080ac05e972f3cee9188847e12539d8cd707",
+      "url": "https://files.pythonhosted.org/packages/ce/a8/8c94073a26725021dd431bb9cfc20af331332946422eb9b3bd9bb7b525e1/simplejson-1.7.4.tar.gz"
+    },
+    "1.7.5": {
+      "sha256": "c034800782395e399874faf2222aa9bf56c69fcbe849dbc2aab816f61c47cea2",
+      "url": "https://files.pythonhosted.org/packages/48/1d/587e364554fbed54feccaf93c5d272b84f13e1ae7ecbad6008fb8810efb4/simplejson-1.7.5.tar.gz"
+    },
+    "1.8": {
+      "sha256": "2da10b3ed4e225362b008c64ec34f77cdaf2b8f24b828c44848e8ac19f7100b4",
+      "url": "https://files.pythonhosted.org/packages/15/2f/6e050f32add2f49d5d95f57a34521524c9a44a8c5d220b2d845548bc8629/simplejson-1.8.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "94e383c95368179cd61aa3aa171caa38f999f0578dff034d4d72ff02d6d970a5",
+      "url": "https://files.pythonhosted.org/packages/06/b5/4ddb273e222c4adfd682c240218b56482edf5fde6db32bddfe27b15af107/simplejson-1.8.1.tar.gz"
+    },
+    "1.9": {
+      "sha256": "034a75b4a124294c0ab6c8c089b2200f6fd6140a5815ad70563b6579143bf9df",
+      "url": "https://files.pythonhosted.org/packages/fc/b8/b5142475e34dc9b8a495571b846569e9c9f9c5e481a845ebc21de86a48a0/simplejson-1.9.tar.gz"
+    },
+    "1.9.1": {
+      "sha256": "a1151de1d6cb409556ad8a6860ba3b89b10e8b719396276fae4fc06749844453",
+      "url": "https://files.pythonhosted.org/packages/e2/c3/840a6b354dd6350e11850d1734e5b85b702e1503cdd23c01af4100fbcddf/simplejson-1.9.1.tar.gz"
+    },
+    "1.9.2": {
+      "sha256": "64daccbd34c3bbc19a9a9f44d35d6c52a10d28559dd0f626022e9ef6c5b6c54e",
+      "url": "https://files.pythonhosted.org/packages/c0/da/944ecd90b6fab7e68fa720c66b495172d6e1635dd45ba852b5158636ff2b/simplejson-1.9.2.tar.gz"
+    },
+    "1.9.3": {
+      "sha256": "da6e4f66cb54f399eb8825de5e3986adaab9ebd8c47ef5fddda8a47519b2ff7b",
+      "url": "https://files.pythonhosted.org/packages/03/b5/0c05aa0c96191c0a9e802947c07805183a39b7293210a31873cc8a27c081/simplejson-1.9.3.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "0ed526b7400455c54b37484b8023be10b22c6d16b51260b3f7b08fb93106d0b0",
+      "url": "https://files.pythonhosted.org/packages/a2/fe/b8805fa795b0895a86add948936e09ec3ac499ad2e2224f29d6f22fa8aed/simplejson-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "1b6be8708f4d08af9591c8530ec89a8b651a3c260e70b53798d282a41b4c9b37",
+      "url": "https://files.pythonhosted.org/packages/6c/bc/cc266783563ad49861fc88f655212c44986f4b8886bda0d84d0cd358e825/simplejson-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "e8da80425749af6744bbede64c4fb0dd2fb4c2fe35b4da9ab9f641acf94a1a0c",
+      "url": "https://files.pythonhosted.org/packages/c4/24/5e19a239a8e7b82b0e13768c69913f1b9630009e618d6cf21a142cc80d62/simplejson-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "2613ebba282918fefcfe47acf4f0c6ae3c248fa6a70520d3b55ba2d8912016f0",
+      "url": "https://files.pythonhosted.org/packages/52/f9/30592d4803f132c5b79178320d4c34116bcb832bf06854912223b7df53db/simplejson-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "1b6868ab49a15519eb54fbb0901272a612b2c2a3d8820844df6b1b7fc19754f9",
+      "url": "https://files.pythonhosted.org/packages/5a/18/c90285a07ca1867ac388c1fd1c3d0ec76e71d84b98e7555af55c75ec1f05/simplejson-2.0.4.tar.gz"
+    },
+    "2.0.5": {
+      "sha256": "4b7724e2dfff82f2233226cb065513c0c68e069414838d869f4520b395d14af0",
+      "url": "https://files.pythonhosted.org/packages/9e/38/686edaf2e3b64f2028187a90ba34891bc00056a380e66e64561ada156248/simplejson-2.0.5.tar.gz"
+    },
+    "2.0.6": {
+      "sha256": "0e869b83c802e1bd291d610343402f10b892374c8c6d880252a7fc5c675098e9",
+      "url": "https://files.pythonhosted.org/packages/f9/2c/553cb310570a14ef10b34fd7660accf0f6a4d1fefd747c98241a18fcb43d/simplejson-2.0.6.tar.gz"
+    },
+    "2.0.7": {
+      "sha256": "2b349ed73540f8ce68bdfa29e08e3dff9d885027bfa06d6a871a09fe381ddbbe",
+      "url": "https://files.pythonhosted.org/packages/85/9f/3a5a790bb20db716cb84aa7c8c258e9139ec4364eb508165dccf47f7c7b1/simplejson-2.0.7.tar.gz"
+    },
+    "2.0.8": {
+      "sha256": "4185e3f2a4b5d05bff8fca27053336e5b7eb64c8ff17871bb60a6f2255d639be",
+      "url": "https://files.pythonhosted.org/packages/58/a5/15847e5b234954155c9cd8858445ebbfc9ef437c88ebbc18a03fe3abce39/simplejson-2.0.8.tar.gz"
+    },
+    "2.0.9": {
+      "sha256": "abcdf460778beff48ba13faf5b5810cf3803e5c8d872b5fc529226aa56ec93ee",
+      "url": "https://files.pythonhosted.org/packages/da/8c/a45815b421e49acad7d3d0db4ba65ba1e5cfa02a30c794fe55954106cb0b/simplejson-2.0.9.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "11bb12aacb646dcccc0d5a3d0e44e5662caf0e71d2f58c7ace8d2ec03cda903b",
+      "url": "https://files.pythonhosted.org/packages/23/57/4343577e65a5457f9ec9af0a5f1a83cfe93591330240dab0ed78f67df82e/simplejson-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "8c1c833c5b997bf7b75bf9a02a2d2884b8427816228eac0fb84791be44d2f612",
+      "url": "https://files.pythonhosted.org/packages/90/e3/3bc4860dcc593ad06f7992eba9e2ca120217a878605d0e6f8203dadef316/simplejson-2.1.1.tar.gz"
+    },
+    "2.1.2": {
+      "sha256": "d196d78af44acdf47078e320124bfe4cd2cb3bd7b9be7f5587b2e149124cb49c",
+      "url": "https://files.pythonhosted.org/packages/91/c0/0e2b3c28123c6263fe71d74143333688fa68ae40885fb9954154f1448fee/simplejson-2.1.2.tar.gz"
+    },
+    "2.1.3": {
+      "sha256": "5689044e96478b42b4c1e34057f248ca22263de767430e934c6f430f005d7027",
+      "url": "https://files.pythonhosted.org/packages/c1/f5/4971eb42bbda3d80896948b7fc1af05054fee2c98ae5198076466349eb70/simplejson-2.1.3.tar.gz"
+    },
+    "2.1.4": {
+      "sha256": "932ca3fa4550be25cf2e333aae1f31a2d381166e4e7b52d1822d90e672b67f5f",
+      "url": "https://files.pythonhosted.org/packages/2e/78/f20feb31a6ca60c61103061a289e377ea601c8df3cdd97a2b73971974fe6/simplejson-2.1.4.tar.gz"
+    },
+    "2.1.5": {
+      "sha256": "0476e26d3b6d8f0f4a005bc395aa3bfacc30ccb9f44e1691fb4006c2036aa79d",
+      "url": "https://files.pythonhosted.org/packages/cc/e6/70bcd6ab30c2da049f19dbbbbf951017967f2009bf735f753bd8aa1bda48/simplejson-2.1.5.tar.gz"
+    },
+    "2.1.6": {
+      "sha256": "b657d4c83a2ffd9c3bdb511eabd986900182870421dceb6b7b117c5407523927",
+      "url": "https://files.pythonhosted.org/packages/12/e0/7e182b0eefbde10463288ac3c43256710ba67051ec30b985928d722b07ed/simplejson-2.1.6.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "7c19802af7d44171836f9479f791328913bcfeb9bc193c876465dc758c9be2d5",
+      "url": "https://files.pythonhosted.org/packages/aa/dc/7750d522255a070184045090121b98147c250d9a64b0682ef9af0fc4d1e9/simplejson-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "e85c5ae24dd9827113893c1dd2c799528195057388096f0fc45ad4b32b378c26",
+      "url": "https://files.pythonhosted.org/packages/08/aa/49ce621718cb55f27cc9bc85e38cc552bfb90e281889c155b0a59d2b01ec/simplejson-2.2.1.tar.gz"
+    },
+    "2.3.0": {
+      "sha256": "dc026631646d32fda40be754484c67918617db37f517547462aa58ae5d159d34",
+      "url": "https://files.pythonhosted.org/packages/7d/26/0a96584b09faceeb76b690373e9733feb69555ba7d4b29428b7a41848a88/simplejson-2.3.0.tar.gz"
+    },
+    "2.3.1": {
+      "sha256": "3fe0f76301c2fcfc9a5472ad680e780b05cd9aff45ca29d5efc9f8086b347857",
+      "url": "https://files.pythonhosted.org/packages/71/21/ea1e3b63cbb6d63599ae325f54007142f9e3f1b944a0b46d85462bfce743/simplejson-2.3.1.tar.gz"
+    },
+    "2.3.2": {
+      "sha256": "276c1837be470a21178f9e70b0688189e1a4e2d09ea85cef35078b929b605428",
+      "url": "https://files.pythonhosted.org/packages/d7/7e/c1ef4dee569deb136146ecf2ab326829bc73e440bf436e4a5986b4602c06/simplejson-2.3.2.tar.gz"
+    },
+    "2.3.3": {
+      "sha256": "fd9d8625595d74f644186903618dfba00ac6cee34edd02310eadcdb444b04f70",
+      "url": "https://files.pythonhosted.org/packages/75/ea/c5fb0b1c93c7569602130660c031b4110026128be7d4d3df6e58cdc57dda/simplejson-2.3.3.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "ac0f5122a213ef35c3af6464a2885aef5b56a4954f003eac767dd8e077949885",
+      "url": "https://files.pythonhosted.org/packages/75/5f/5b8ccb86152b17dba40755187d0987636b51bf54cf5e5afadfb0b8bb7f69/simplejson-2.4.0.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "2bcf5bedb5328a5633045a7d46784d3393ce940c949c090caf5d75b6d3163466",
+      "url": "https://files.pythonhosted.org/packages/fc/b0/847668a90540ad96d88a8adf48d489468fbb6dbb219567b7ed8fd4d9b8b5/simplejson-2.5.0.tar.gz"
+    },
+    "2.5.1": {
+      "sha256": "999b3c805bc1a4ea4e5e3c4aee54aa6ac793750fca403f2957da9f64bc8a15cf",
+      "url": "https://files.pythonhosted.org/packages/37/78/74c808a0f45f77ba9961c935602d9024ea2a7305402d53253ac73c5a9ba5/simplejson-2.5.1.tar.gz"
+    },
+    "2.5.2": {
+      "sha256": "196dbf614facc5f3e650cc38a18ab64c2df0b502ecf217cbd1c9d840133e70a4",
+      "url": "https://files.pythonhosted.org/packages/f3/e0/8949888568534046c5c847d26c89a05c05f3151ab06728dbeca2d1621002/simplejson-2.5.2.tar.gz"
+    },
+    "2.6.0": {
+      "sha256": "8119b9bfb10b9ca3b0b63f8555b8efd114595ff01ba2d1c34c8aaf91e7d0badc",
+      "url": "https://files.pythonhosted.org/packages/f9/23/59bef8b926cab8d5b83c6713f51fabae10998ed285ad0336d12e3245b186/simplejson-2.6.0.tar.gz"
+    },
+    "2.6.1": {
+      "sha256": "b15befbd41157ec21795efcd960828be193cec6334b3e94bb99e02b32daad17c",
+      "url": "https://files.pythonhosted.org/packages/dc/d8/5281a9ba41b849f5804719e23ace1af9306bc9ff4ee6028ba9a36e93c84c/simplejson-2.6.1.tar.gz"
+    },
+    "2.6.2": {
+      "sha256": "1b28d0896a76d4db1ab759204c039ab1ca4bf28bd30d6bf9c79172454e750dd3",
+      "url": "https://files.pythonhosted.org/packages/a0/21/6600c517d3208d591426ab5da3fd0aaaa278acb820e2949592cd33722057/simplejson-2.6.2.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "56b759f515180d32f126f02c80a9b7e0a2a1296097fbf16058585493bbf0174a",
+      "url": "https://files.pythonhosted.org/packages/e5/68/01d518b9b9b3931b142ac35ffe12cc8d819bef064f0b9baccc78a637193d/simplejson-3.0.0.tar.gz"
+    },
+    "3.0.3": {
+      "sha256": "728f86c3a90a4c403281199bf203c71e39220d310559af1936d34ed29f897b50",
+      "url": "https://files.pythonhosted.org/packages/2a/65/ef11a3b3ed482d4684766e8b03445895e242ac317745647eb5e4b0e77072/simplejson-3.0.3.tar.gz"
+    },
+    "3.0.4": {
+      "sha256": "7a203f532b1ace172283966876f1db62bd1085acc0c3de264b0f9781e8007e73",
+      "url": "https://files.pythonhosted.org/packages/c4/19/3c538f020dc7460722213807c42620b024da0940ae42781c62e0d9c1856a/simplejson-3.0.4.tar.gz"
+    },
+    "3.0.5": {
+      "sha256": "1e1ce6f22d480ee41eeede51adcda71f8505a259ca87789a70784d7402aae2cf",
+      "url": "https://files.pythonhosted.org/packages/49/37/bd51ce20b2007d9b25a0795442673f716f5b95449f4337d1091b264422b8/simplejson-3.0.5.tar.gz"
+    },
+    "3.0.6": {
+      "sha256": "e420b60e2b1376c21d921d2143346100288a1e0e43aa3da99426977ae788b32d",
+      "url": "https://files.pythonhosted.org/packages/26/58/02f68b56647ef61c2d756cb8361247e6900f55bd04af709bc12abf883692/simplejson-3.0.6.tar.gz"
+    },
+    "3.0.7": {
+      "sha256": "3e45a681e5e79eb31f094b31843346ed9a3de4e7f6ebcda10c748b3c45c5597e",
+      "url": "https://files.pythonhosted.org/packages/00/21/2f3234aac78dac7a585cc6c9a1911d4618b20ae7f800b2ae60cb53395555/simplejson-3.0.7.tar.gz"
+    },
+    "3.0.8": {
+      "sha256": "d529cb15b2f7925827d29a111d0628927f8a56b856cc8ad03f722001c438a457",
+      "url": "https://files.pythonhosted.org/packages/32/48/b840c414f83c6b9a7051a5ea8862cfda3f1c43a6cfaf434180cd70bbcf5d/simplejson-3.0.8.tar.gz"
+    },
+    "3.0.9": {
+      "sha256": "69f14eb026844c51bb917dcfbb72d17ce9a9c2f258386b3925a9a3a0ed86d71e",
+      "url": "https://files.pythonhosted.org/packages/5a/d6/5bd5ea7742165a42c6f38a37c736d2a7e0a776017c51a7c7d140934c8982/simplejson-3.0.9.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "10c743fbec819e6ad77999c551f4b620ed498c2dd565c64365f0571b3a252523",
+      "url": "https://files.pythonhosted.org/packages/0b/70/953effcdebfa37dccca2f3f7133e36374893fb3626700df22206424b9457/simplejson-3.1.0.tar.gz"
+    },
+    "3.1.2": {
+      "sha256": "fe532847e08f1158f8109afd349754059e1015830db188d73b01e2ecc0f7e528",
+      "url": "https://files.pythonhosted.org/packages/74/3a/442688ce81f338e744d5cfc23960ec6c201780a44ca3c179f7a7abec3929/simplejson-3.1.2.tar.gz"
+    },
+    "3.1.3": {
+      "sha256": "941a25bbb00b021dbe026b94278d9fab9f4655e11ab76eb3f022a9ee097f0478",
+      "url": "https://files.pythonhosted.org/packages/92/7e/168f2d07999a621af481e4e9f88ae017b2cfa63c59a75b7f86c14e067a60/simplejson-3.1.3.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "a6d2799210ef86519f93bc92ab912548eabe0799377b7c457c04b643a8d1f695",
+      "url": "https://files.pythonhosted.org/packages/0a/b1/afd54fbf20d5de1a86e71e1161672f51927e36668c588a32816f681c2aa7/simplejson-3.2.0.tar.gz"
+    },
+    "3.3.0": {
+      "sha256": "7a8a6bd82e111976aeb06138316ab10847adf612925072eaff8512228bcf9a1f",
+      "url": "https://files.pythonhosted.org/packages/fc/7c/f9cec79ab9c8fc190821c69fdbcb15ecba438ff35f13b3f8d9675efcfd0d/simplejson-3.3.0.tar.gz"
+    },
+    "3.3.1": {
+      "sha256": "054926f2a16e3f1974e4f70bc2c640e4566becf3103ecf4342fa9fb1eb3ba1d8",
+      "url": "https://files.pythonhosted.org/packages/af/9d/c1485e743c61ba19bdf23d30636637a11575fa5a49b9c7cdd02bac4f81bf/simplejson-3.3.1.tar.gz"
+    },
+    "3.3.2": {
+      "sha256": "419f2d6cde682939e20102871d054d65573409d22d8eb098c231a7f208388088",
+      "url": "https://files.pythonhosted.org/packages/c0/14/8e90a20ff8a6de53e041631634aa98468edaf4063928462beb9916f442de/simplejson-3.3.2.tar.gz"
+    },
+    "3.3.3": {
+      "sha256": "bf2cdb00ef60cc16c5ea4f8db4f0a05165d357140574b6ae4d637f4f0b9557ec",
+      "url": "https://files.pythonhosted.org/packages/a8/a8/b2d4b1815471f40178ad45891096e5d816a156587331075207d7581d53c3/simplejson-3.3.3.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "62e2c1abc4af5ff9ba4ee35a4c4a026dad476f1fd39b742f780e2ddbaed54595",
+      "url": "https://files.pythonhosted.org/packages/00/d2/4cf1c749787c526b4177eec3eed9d39f94f6db0a5f3b3b9e438d9fa22cfe/simplejson-3.4.0.tar.gz"
+    },
+    "3.4.1": {
+      "sha256": "46b9b11f53875ca71084770ce3b473c854706313806d163366fe39d7a3bbdf6a",
+      "url": "https://files.pythonhosted.org/packages/b4/ad/03b263b791f6710731af44aaf4c05827ce125b80154360b9a9c89d25598a/simplejson-3.4.1.tar.gz"
+    },
+    "3.5.0": {
+      "sha256": "17c2a179bc2641473bc77c5b45c1c9d2876f43366cfa88a2a518bff328ca7055",
+      "url": "https://files.pythonhosted.org/packages/76/32/f8a9c3c26fbca56b17ed427ef0c584765f928c65c501f4c03890425d1801/simplejson-3.5.0.tar.gz"
+    },
+    "3.5.1": {
+      "sha256": "935a35c2426eb7e1ed9d3b542687cb26041f3926f14cf17481a80f3ecc44e750",
+      "url": "https://files.pythonhosted.org/packages/2f/80/a45df7359706fc09c662f02529d1dffbcf149faaf512d1ebf52d28d583e2/simplejson-3.5.1.tar.gz"
+    },
+    "3.5.2": {
+      "sha256": "655cbbca4e7537b0493c8601b6ac01ead7d4bcc8d01ba69edffda7226a07f7b2",
+      "url": "https://files.pythonhosted.org/packages/db/25/aecbe534b210b0c5f5771e0f4043f2b1985cfd5008e2fda91f20283c7a61/simplejson-3.5.2.tar.gz"
+    },
+    "3.5.3": {
+      "sha256": "a80dc90320e1c1b8eaceaaa755ae2aed382d64a59321ae9f6ddbe0321c02878a",
+      "url": "https://files.pythonhosted.org/packages/40/15/a330ae4a6f78cae7753000d2146a59a6c2cf9ead7b13b68fe949ae487e87/simplejson-3.5.3.tar.gz"
+    },
+    "3.6.0": {
+      "sha256": "ba61967615aaa3fd08d5f96373e6fa4ee5e0319c4083678825bb4f7572169d38",
+      "url": "https://files.pythonhosted.org/packages/1a/5d/ffbb7110f0ae7caffabc0e190aa8c966e77e6956f3f2b7cd462a3acba4fd/simplejson-3.6.0.tar.gz"
+    },
+    "3.6.1": {
+      "sha256": "b6dd165dfca4f122a624614db86ebd8ec011dec3d05911689ebc7e579aa77ada",
+      "url": "https://files.pythonhosted.org/packages/a2/3d/056eed00592dea99ca6c573d20f2397501e25404939d03fba00d7d989438/simplejson-3.6.1.tar.gz"
+    },
+    "3.6.2": {
+      "sha256": "99c092209f88d411858f01b14a97a4fcf8c4f438a685e23d733a3d65de52a35d",
+      "url": "https://files.pythonhosted.org/packages/68/28/dd77e513d2b9e3be7bcc5d36316b675db21ee56784c8e1b0727a83c9666c/simplejson-3.6.2.tar.gz"
+    },
+    "3.6.3": {
+      "sha256": "1e2fe250d0325a6b53ab770376f1729e0bf4883785343bbfab23764419f09d7a",
+      "url": "https://files.pythonhosted.org/packages/a0/71/ee1b3f7592d3ef270f49d01afc5ac654e0b7391f1e388288c02e5b212822/simplejson-3.6.3.tar.gz"
+    },
+    "3.6.4": {
+      "sha256": "e3cc0a68e229b59c0d1054a442e38e5a2d5f18e454d5ee709932cecd073ff759",
+      "url": "https://files.pythonhosted.org/packages/ab/ed/adb65efd60437bc44be4b10030b7c2db0ff53e381be4625e8ba7306cac27/simplejson-3.6.4.tar.gz"
+    },
+    "3.6.5": {
+      "sha256": "2a3189f79d1c7b8a2149a0e783c0b4217fad9b30a6e7d60450f2553dc2c0e57e",
+      "url": "https://files.pythonhosted.org/packages/af/04/b4874d808b6a18d4f368d86044114afcfc0bd02c89284b1bd39cc1372758/simplejson-3.6.5.tar.gz"
+    },
+    "3.7.0": {
+      "sha256": "736fa2691e212db8a273f55c7830645d245c60fa62a60e653cee541bf879771c",
+      "url": "https://files.pythonhosted.org/packages/0e/2b/b3832e26935f4f8da6dcba84c145df4deb66744c0e4b2d5068d7ca0c4c87/simplejson-3.7.0.tar.gz"
+    },
+    "3.7.1": {
+      "sha256": "4b837e37885503776b8d76182aa91e3bb27a3c38a023b14008e4cb63170bebc4",
+      "url": "https://files.pythonhosted.org/packages/61/c4/47c423a77d4fb7a0409f51526279047c805c9d729bb2a369f0949744880d/simplejson-3.7.1.tar.gz"
+    },
+    "3.7.2": {
+      "sha256": "8358ecc05541be4068109acf26a4ae89ba14450d20e92e0973d0d67bea3d7431",
+      "url": "https://files.pythonhosted.org/packages/6d/89/7f13f099344eea9d6722779a1f165087cb559598107844b1ac5dbd831fb1/simplejson-3.7.2.tar.gz"
+    },
+    "3.7.3": {
+      "sha256": "63d7f7b14a20f29f74325a69e6db45925eaf6e3a003eab46c0234fd050a8c93f",
+      "url": "https://files.pythonhosted.org/packages/60/88/5a4a27560d43d4dbe6fdb2d4c0a450f84a998b22dda662662eb4cd275000/simplejson-3.7.3.tar.gz"
+    },
+    "3.8.0": {
+      "sha256": "217e4797da3a9a4a9fbe6722e0db98070b8443a88212d7acdbd241a7668141d9",
+      "url": "https://files.pythonhosted.org/packages/36/c9/746cec37ec357c9882011d1d4ed06e6fe27bea48c4272ebbbc7512bcb7da/simplejson-3.8.0.tar.gz"
+    },
+    "3.8.1": {
+      "sha256": "428ac8f3219c78fb04ce05895d5dff9bd813c05a9a7922c53dc879cd32a12493",
+      "url": "https://files.pythonhosted.org/packages/70/b0/c8169f6c2b7927614bea25636485992248ae0b1d7bc83858a9185461f57b/simplejson-3.8.1.tar.gz"
+    },
+    "3.8.2": {
+      "sha256": "d58439c548433adcda98e695be53e526ba940a4b9c44fb9a05d92cd495cdd47f",
+      "url": "https://files.pythonhosted.org/packages/f0/07/26b519e6ebb03c2a74989f7571e6ae6b82e9d7d81b8de6fcdbfc643c7b58/simplejson-3.8.2.tar.gz"
+    }
+  }
+}

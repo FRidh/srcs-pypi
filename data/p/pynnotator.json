@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "A Python Annotation Framework for VCFs using multiple tools (Ex. VEP, SnpEff and SnpSift) and databases (Ex. 1000genomes, dbSNP and dbnfsp) ",
+    "homepage": "http://github.com/raonyguimaraes/pynnotator",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "6d7e6d803acad9b6c3287e4037ded8a89ffcfff7a8b7c2c7be17751edfe81a4f",
+      "url": "https://files.pythonhosted.org/packages/75/5f/ac72500081672aac33dad9ecc2e40733614358737466fbb952a9a904ac13/pynnotator-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "a83914d91fcd3cba6991b761237cb470bd335c79623afed0e962ef76cd238023",
+      "url": "https://files.pythonhosted.org/packages/b4/84/1b332c9b0f350ab2fed088f933c903047d13e53f6a3201286ef59fc44455/pynnotator-0.1.1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "latest_version": [
+    "0.7.7"
+  ],
+  "meta": {
+    "description": "Minimal Zope/SQLAlchemy transaction integration",
+    "homepage": "http://pypi.python.org/pypi/zope.sqlalchemy",
+    "license": "ZPL 2.1"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "1098f49ab8a5aab453f252984eb492519fa1f595244f1a29d5d70cadffedac5c",
+      "url": "https://files.pythonhosted.org/packages/f4/c0/2d9b30581da2f21043ee4a76074901eec3831cfb300b1e3d9b3ccc23318c/zope.sqlalchemy-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "6b2102e281e7c0c81bc7f4e670cf11ce2e32c9dcf00c2d9668741dbd7d74a5bd",
+      "url": "https://files.pythonhosted.org/packages/44/f3/8eb8761bcf2552db5b415d822180141fb8aa25f2d0a4d204f695458e7111/zope.sqlalchemy-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "b994d783ef03e36afcbc98ab4cc4939f4b6555fd47a3b5860de9637537c700ea",
+      "url": "https://files.pythonhosted.org/packages/45/2c/38b9663192bf7625ce53ac604f9df313d49f07587b0c7b03f0f2f782c1bc/zope.sqlalchemy-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "96fa5dd6e262f52904ee8431bf9d57c27f3dc63581a02d233f2ae4cda202ed1d",
+      "url": "https://files.pythonhosted.org/packages/83/b9/538d3c753829ad354a8b4f964279a166045ed933a0ca33366941ed77ea6a/zope.sqlalchemy-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "48d31b536cb496f48fc69ed73eb9cff7529d35e67d70e444d7df6cf6942c95df",
+      "url": "https://files.pythonhosted.org/packages/6e/3b/ea873de36a64e7a7651eabc4e8623033237dd485f18a5fa96ebf90b6abe6/zope.sqlalchemy-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "c2f75ede919c179ffb88ee71a98540fa0c762b147c23161dd51369afe139c0a0",
+      "url": "https://files.pythonhosted.org/packages/1d/b5/50014eb8f838c0c913d02dc1c4267b67d80d26fd77f5d972ce39679c6fe4/zope.sqlalchemy-0.6.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "2682d47bf628689c3fd29494b9a66567013e9b71577022498250fef99a9b5900",
+      "url": "https://files.pythonhosted.org/packages/7a/62/e12a62e6e1e6453f638314ea70c154ae83914d0030746591d7acd21b41cf/zope.sqlalchemy-0.6.1.tar.gz"
+    },
+    "0.7": {
+      "sha256": "893f8a1bc2f4f74f8dce33ba93eb361f067244bff93b16419d4d9df35e248d83",
+      "url": "https://files.pythonhosted.org/packages/3d/58/5cf008ed435add33c4dfd64d24448b089a5a3885ee124ffec695338aacff/zope.sqlalchemy-0.7.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "0d7a6da803f468d489dd532d575e14861377809dbc8be58cac6376f0320dfa51",
+      "url": "https://files.pythonhosted.org/packages/57/56/afcc016e57a558b185085f4e4b434c1c40fd7d1db26c47162318dca1b718/zope.sqlalchemy-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "6fd08af2158a9fae7c2d4e1d389c49f2c747f0a1dd80a15eaab207702494eceb",
+      "url": "https://files.pythonhosted.org/packages/92/31/86a1d37ed2fbe749ded8aafe0ae928c2777940ae06a5240e6d0af8b66da9/zope.sqlalchemy-0.7.2.zip"
+    },
+    "0.7.3": {
+      "sha256": "3878ad6b7ef236e2ab2b6a8c0300ab9ca704b2a1f28f2d2c6accda73e996d7b6",
+      "url": "https://files.pythonhosted.org/packages/d8/ca/33be5640a71fcce873564679967556ccb8e8c55c08a6aa51863c48033325/zope.sqlalchemy-0.7.3.zip"
+    },
+    "0.7.4": {
+      "sha256": "79a22a53d24a8a10a22b0f5c448ce97dd3c94d74bdaf540ebcd67b449567c51d",
+      "url": "https://files.pythonhosted.org/packages/3f/e3/d15799624305564d231a1c5f7d4a7e53437776d29f33468739cfa2864e59/zope.sqlalchemy-0.7.4.zip"
+    },
+    "0.7.5": {
+      "sha256": "e196d1b2cf796f46e2c6127717e359ddd35d8d084a8ba059f0f0fabff245b9e1",
+      "url": "https://files.pythonhosted.org/packages/da/57/e8554eb4bde5d5670d563bfa041f8f33881486541776253f6c9803a58451/zope.sqlalchemy-0.7.5.zip"
+    },
+    "0.7.6": {
+      "sha256": "52412116ff7c569219dd53ef4eadce9f0ad3e16195aaac867955c3f877bbb06f",
+      "url": "https://files.pythonhosted.org/packages/d0/e0/5df0d7f9f1955e2e2edecbb1367cf1fa76bc2f84d700661ffd4161c7e2e9/zope.sqlalchemy-0.7.6.zip"
+    },
+    "0.7.7": {
+      "sha256": "5da8ff6b060f3a47fc0cbc61cfd6a83b959b5e730f95e492edcf7b9bf3ec987a",
+      "url": "https://files.pythonhosted.org/packages/14/95/47ef5f5fbf5f18dc95d6d39b7dbd690818b541afa724d14ed176e415b134/zope.sqlalchemy-0.7.7.tar.gz"
+    }
+  }
+}

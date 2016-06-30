@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Kibana configuration index (.kibana) command line interface and python API (visualization import/export and mappings refresh)",
+    "homepage": "https://github.com/rfarley3/Kibana"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "0a7c0f86c549cd37201b61c7c628c02027f4bf7296d0111b1780e8cb8427f155",
+      "url": "https://files.pythonhosted.org/packages/60/e4/b814016bd01b2e433cf9286441cf6118040f4bfd9ea32ea53d1194be454a/kibana-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "a1f5aca092ce8eed8bce4f5595b56c1a362c9057c820bd591297dfcc20db0bb3",
+      "url": "https://files.pythonhosted.org/packages/07/ae/fe4beed08174fe63e7881cca65c1df2a0031d6aaa10fb083df595c6bcfe6/kibana-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "60736bf210f1f45ba07ff59706476ef08abbc6ef05fe3ffe554e7a6fc3ac3676",
+      "url": "https://files.pythonhosted.org/packages/6d/35/9a2b9bd7fed4292efd07074b7427503ee80c65aa8023947ba45f3887e53a/kibana-0.4.tar.gz"
+    }
+  }
+}

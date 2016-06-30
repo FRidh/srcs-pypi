@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.25"
+  ],
+  "meta": {
+    "description": "Python interface to the Raspberry Pi PiFace board",
+    "homepage": "http://github.com/bulletmark/pifaceio",
+    "license": "GPLv3"
+  },
+  "versions": {
+    "1.24": {
+      "sha256": "6ac87d548ad64caf43b5354dbaca9fd34c9f902c3b432c47045ce00bc639a2ca",
+      "url": "https://files.pythonhosted.org/packages/44/2d/11c5eee75824ba57776d4c5c0a12c777fece3940ef23ed1307924dd290fd/pifaceio-1.24.tar.gz"
+    },
+    "1.25": {
+      "sha256": "c6bdb7731d2089e27dcf64ecafa1729c41cd1dc44191a6d7ccd0563e4d8f4d83",
+      "url": "https://files.pythonhosted.org/packages/f5/19/0e271b2d5a03bf2a065a3c23a0d01a77bf51ff5d1fb479415844f3f65cc8/pifaceio-1.25.tar.gz"
+    }
+  }
+}

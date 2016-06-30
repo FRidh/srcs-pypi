@@ -1,0 +1,187 @@
+{
+  "latest_version": [
+    "3.18"
+  ],
+  "meta": {
+    "description": "Routines and classes supporting MongoDB environments",
+    "homepage": "https://github.com/jaraco/jaraco.mongodb"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "52853b0e31fb4be95723efe3e550446e3957e759698aa56c62c6ab7a4ffa6443",
+      "url": "https://files.pythonhosted.org/packages/7b/dc/72289556154a6e640f26cc2f8eb3e2b2daf5d14e85d469e6abf3ec50ac34/jaraco.mongodb-1.0.zip"
+    },
+    "2.0": {
+      "sha256": "c34d91299bbab10391a0310fe9f20836a56b366fc9be2c1d2a66d60fa725c4f6",
+      "url": "https://files.pythonhosted.org/packages/ff/ce/a4f5712f4bb92be401bcb3e6bfff29b5945827c1b71e0ac7fec85ea556ff/jaraco.mongodb-2.0.zip"
+    },
+    "2.1": {
+      "sha256": "f572e9943a78cfd829483effac2449d7eb5207d18cc5717b6cd1fba2ce6b9654",
+      "url": "https://files.pythonhosted.org/packages/d5/d1/877d836ada9359924940fb0fc12c441e5562596924cf73cd09145057a447/jaraco.mongodb-2.1.zip"
+    },
+    "2.2": {
+      "sha256": "e27da67f70e23857eb3c1597fd3bbaa94b53f8439fc6b45cc49c343cf91a670f",
+      "url": "https://files.pythonhosted.org/packages/d9/5d/9fd4cde9a8ba4a404082011adba3afdcc9826c87035fe1b85461ecb5f7b6/jaraco.mongodb-2.2.zip"
+    },
+    "2.3": {
+      "sha256": "ed3ca3e6c27b9f28d033680a12896e2d34afd02dc203d029b82aeca2451c6c8d",
+      "url": "https://files.pythonhosted.org/packages/58/00/15536d1666e9cbbcd936324cbd1675ef84955a5d16ee0a2109918443fc6a/jaraco.mongodb-2.3.zip"
+    },
+    "2.4": {
+      "sha256": "1dd189db21023645c5bbe1faad2119fb9628f9c10c43324774d57a18c2ca32d4",
+      "url": "https://files.pythonhosted.org/packages/79/48/8555712bfe108e71019211fd778e3a1a6939cf8b108be371e85f8cd2b684/jaraco.mongodb-2.4.zip"
+    },
+    "2.4.1": {
+      "sha256": "7302cf73fabfd52f57b870396872e38deb687f6a0192d8f047749a80cd34ca2b",
+      "url": "https://files.pythonhosted.org/packages/28/85/92c16165d08440048a5534e4a33bf9ece4a385bd9d15c96dd694e6ed00e0/jaraco.mongodb-2.4.1.zip"
+    },
+    "2.5": {
+      "sha256": "27b88f1dd9d27ba5c31845abbf39aeda55098cc8248ec2cc0bc9c3e95a6362f9",
+      "url": "https://files.pythonhosted.org/packages/09/31/2a526e4f8b81b8a4f63a25c8c9c36bc22bbe762b682a8fe69caf141f9941/jaraco.mongodb-2.5.zip"
+    },
+    "2.6": {
+      "sha256": "92297f6c23d80d5297cb93e10b884273e7244f4692963361cb07b6381ebbbec6",
+      "url": "https://files.pythonhosted.org/packages/3b/4d/125b194cff34e8c9677455724f2485284572880456af1fe04568241d2a22/jaraco.mongodb-2.6.zip"
+    },
+    "2.7": {
+      "sha256": "1eeb33769873044f10a9de9643657de2523d61f9d703e2ce834d84414d02765c",
+      "url": "https://files.pythonhosted.org/packages/69/8e/9a476f4047c57e1fcbb806dc0847c8da671996f5b648f7c1c5ae8ac990ae/jaraco.mongodb-2.7.tar.gz"
+    },
+    "2.8": {
+      "sha256": "b457ecb0f7b6e84737888a5c89ec945abc5c55472ea9c2ac83c5ca6111ce89fe",
+      "url": "https://files.pythonhosted.org/packages/a3/77/e4bf88bd77781a841ee63ed98574bd14c3ab005b0c8a9d69dadc96f99ab4/jaraco.mongodb-2.8.tar.gz"
+    },
+    "2.8.1": {
+      "sha256": "383de267e8ed86ca5a3aa0579bb04f115e5238c9fe2f0ea4903d5964aa486fc8",
+      "url": "https://files.pythonhosted.org/packages/f9/6d/4aa076bb83a78c65aee172445ee3a1a6a9ed517c91a88c8aecb73dbfe7d3/jaraco.mongodb-2.8.1.tar.gz"
+    },
+    "2.9": {
+      "sha256": "f4b0949d56cb850475b1b441b112980598baed90dcdd4a347d236e1df0b2f7b9",
+      "url": "https://files.pythonhosted.org/packages/88/ca/e5af8c73c2dfa33458ffa7351acb18d671b03b78f839e1c897f57ea5b833/jaraco.mongodb-2.9.tar.gz"
+    },
+    "3.0": {
+      "sha256": "45b6097e4685b3f07201f23f8854084134b75f74bda4cb99fc61321a14b6fc80",
+      "url": "https://files.pythonhosted.org/packages/90/61/cd0573e61007e071a7c98e03761cf3726db2edcf770ca125c232d8c2152a/jaraco.mongodb-3.0.tar.gz"
+    },
+    "3.1": {
+      "sha256": "8f9e20c66d1be9026f463df826cf047d0d9df99f347c75aae38452b2a7ebf276",
+      "url": "https://files.pythonhosted.org/packages/4e/d4/304eb26dfeb39ece32ee318acbdce0520346a0fba061f5c3404981bd7192/jaraco.mongodb-3.1.tar.gz"
+    },
+    "3.10": {
+      "sha256": "f60e4d4e8ee387d9dabacdc240b35e40cc5cc92d358c5245c04399bb08e5ccdc",
+      "url": "https://files.pythonhosted.org/packages/4b/a1/e9cd71dedf6da0ef4e807da96985f71305f6db9a89afe7a5f70f765f2044/jaraco.mongodb-3.10.tar.gz"
+    },
+    "3.11": {
+      "sha256": "64c3ddc82986343ba36c742c589ca14d29802768fe3d09bd6ce82c545087e8e5",
+      "url": "https://files.pythonhosted.org/packages/70/9f/edb0b7a2581f2f689829c21306f704b03f5a64a988d0b9dacb1847d13924/jaraco.mongodb-3.11.tar.gz"
+    },
+    "3.12": {
+      "sha256": "8c0ead0d7380611aa66ee3300f3277ba3200974b4693fbaf4d4e3e6f0f1e9ded",
+      "url": "https://files.pythonhosted.org/packages/6b/8b/e81dccb527f3a3a4b65848a495234a9aca3c6ada04f4e1a8c75df951bbcb/jaraco.mongodb-3.12.tar.gz"
+    },
+    "3.13": {
+      "sha256": "6d901e75d36ec6bed0dcafc7c692874421623134a5add550e7d8aeced82ac4cc",
+      "url": "https://files.pythonhosted.org/packages/ef/4b/fb3b9abf781c57ede2b87e176b86751ef606b3fab726183ee308a5ea5272/jaraco.mongodb-3.13.tar.gz"
+    },
+    "3.14": {
+      "sha256": "9ba2a9c9e818d2c1a5dea61b16790b1999e6095fc226f20aee715a3a32fee5de",
+      "url": "https://files.pythonhosted.org/packages/e5/55/efaeb42b931dd30bfa2e3053620677cc152291cc08d9327f693af2d2d07f/jaraco.mongodb-3.14.tar.gz"
+    },
+    "3.15": {
+      "sha256": "3f41b5a0e813be608249d6bd15ee8cc31c222ca7d877eff258edbf4a2636b59a",
+      "url": "https://files.pythonhosted.org/packages/ae/2f/54b2dc65cda5fd8d036bb0d2bb83eece3ae8f97ffcf0830a5601a45a0886/jaraco.mongodb-3.15.tar.gz"
+    },
+    "3.15.1": {
+      "sha256": "2b3a4fc5ca56875826caa769bc4d82e8140acbd473594d470ed8f482b9b09570",
+      "url": "https://files.pythonhosted.org/packages/e1/70/6016d05fe90737a0e6384a4d23342eab29e3506a93485dd9dd9099661dc6/jaraco.mongodb-3.15.1.tar.gz"
+    },
+    "3.15.2": {
+      "sha256": "70b8c07664964dff6432845f6242c5d94abc60ffbe49c1883c7b40adf2f682dc",
+      "url": "https://files.pythonhosted.org/packages/b6/d0/c265084483232a105cdc49f1a399904bf037d2a5a4b98809d754882bf2c4/jaraco.mongodb-3.15.2.tar.gz"
+    },
+    "3.16": {
+      "sha256": "92c6554a5ff21f49b2f40d0ebb65d18374085afd5a061278cbb8dc588d210201",
+      "url": "https://files.pythonhosted.org/packages/08/b6/2e58b38dd5b98ac0554efce78784ea877fb2b6f3501ce628c623bcfe55c8/jaraco.mongodb-3.16.tar.gz"
+    },
+    "3.17": {
+      "sha256": "6f507613bcb6d71627e7d03f273f670cf93de853d8664baf3446964327300dea",
+      "url": "https://files.pythonhosted.org/packages/3c/96/3a8cf0449a99ce1d7246afa5ad889112f0172e46254e6963e7467837dbb6/jaraco.mongodb-3.17.tar.gz"
+    },
+    "3.18": {
+      "sha256": "2d0d244a5bd5e1444f5cdc58fbbc4cf8f549748ead0720b20ba83807d9de5b48",
+      "url": "https://files.pythonhosted.org/packages/8f/a8/f4acc0e323a55b1fff7ee28ad1955ccbb552b721d24a9e292a2be8f08c51/jaraco.mongodb-3.18.tar.gz"
+    },
+    "3.2": {
+      "sha256": "3f8aaab019cdbaa604c1b074659ef744c69f758fe03132c37a4acd9cb00f427d",
+      "url": "https://files.pythonhosted.org/packages/ba/54/94883a03b5a828359baa144a7193d00b42b6e436fb8ee1dae3f5d47ef554/jaraco.mongodb-3.2.tar.gz"
+    },
+    "3.3": {
+      "sha256": "def35d8a605b09de6b95b67fc72daa9372f0115e36c01224422d2b912adf3fe3",
+      "url": "https://files.pythonhosted.org/packages/2e/b2/c4080efb50170773e1eff5c52c55a38efd0b9a775946f4129c90eed284f7/jaraco.mongodb-3.3.tar.gz"
+    },
+    "3.3.1": {
+      "sha256": "41512d43ead4892a17c37b91a03df4cbf091dac99c221dbfcaf90497c3f56e5e",
+      "url": "https://files.pythonhosted.org/packages/33/94/ca1579ada4d81119f60cb0ea6214b5d2fe5660bbdbe951731e571023824f/jaraco.mongodb-3.3.1.tar.gz"
+    },
+    "3.3.2": {
+      "sha256": "0c49ccf5d5285badcbf2efeaba8d443da06036a465f1647c91d63f5230073002",
+      "url": "https://files.pythonhosted.org/packages/e9/32/e78284e791e27f3e76b0eb76da996fc6a67d630e409ff1b42a393346f1f9/jaraco.mongodb-3.3.2.tar.gz"
+    },
+    "3.4": {
+      "sha256": "de5d1787ac2bc8480e4a4d656975413a5ec71c600e7af75bc7b7a404f110b801",
+      "url": "https://files.pythonhosted.org/packages/5d/06/e7d84c4c4a8fc46552b026b5e5d4662b8d7dad08fbc245bb46907462e63b/jaraco.mongodb-3.4.tar.gz"
+    },
+    "3.4.1": {
+      "sha256": "fea282be5efff2b42038e51fde5d256d3b2413bb71c97ee87482558fa09234de",
+      "url": "https://files.pythonhosted.org/packages/cf/c3/1746f17f2273cf69a957212dadad02548baf1cc7fcc73857f2034b9159b6/jaraco.mongodb-3.4.1.tar.gz"
+    },
+    "3.4.2": {
+      "sha256": "04fd157b68aef2176288ff2c1bce763de4db8aceed42b2e2a8bc2b76bf65caff",
+      "url": "https://files.pythonhosted.org/packages/71/db/92b572994fc1af5e807f2fd59c9890cf0ce0f071956890f542a698c273ad/jaraco.mongodb-3.4.2.tar.gz"
+    },
+    "3.5": {
+      "sha256": "4078abf7e09698c891d3183eb96fbc0474f089fa89fd2102daf25afd6381bee6",
+      "url": "https://files.pythonhosted.org/packages/ce/f5/a620323009ba1269b5937767cd9ebc4240a85549c648565a722476dea7e7/jaraco.mongodb-3.5.tar.gz"
+    },
+    "3.6": {
+      "sha256": "e5d01db98470e8baf1b942fc680501cb8fcb608ecda4e1cdef6ee3f77c653488",
+      "url": "https://files.pythonhosted.org/packages/e9/55/f230e209135f264a574abb3036d82d43492a836e0a3c6c9c5a7f29359193/jaraco.mongodb-3.6.tar.gz"
+    },
+    "3.6.1": {
+      "sha256": "d2245fb3dc92eae08baf6b67aab93e6629240e6233591ea3318c61589607ccb9",
+      "url": "https://files.pythonhosted.org/packages/9b/01/b7ce44344f68bf9931f005359cb30cd9414d3be8f85a1ffa456ccfe34bd1/jaraco.mongodb-3.6.1.tar.gz"
+    },
+    "3.7": {
+      "sha256": "12b5e448ab25f67fcb876d6ac9f11561fe78c25238cf7a21b1b2d3ca9ee4779f",
+      "url": "https://files.pythonhosted.org/packages/e0/22/e01ed315d364e1ad6b581fe4c1f0a0f2212e77de3695a55336f4c4e05a22/jaraco.mongodb-3.7.tar.gz"
+    },
+    "3.7.1": {
+      "sha256": "37be071ccb78eb6c9450d12f9828855009e4cc5a5eef0a5fa031c24bbe65d319",
+      "url": "https://files.pythonhosted.org/packages/af/c0/cf95a5f46014f06c94a2dce501195b25505e6b10cee55c4f8aa31a48186c/jaraco.mongodb-3.7.1.tar.gz"
+    },
+    "3.8": {
+      "sha256": "a2ebc4b40f421410a636beedc39074abf210cebf8dd3730d02c85cbabefec60d",
+      "url": "https://files.pythonhosted.org/packages/e1/c3/2026a0f1811fb64fa1b8bc80656f1b84423ae93b6933db921e164e0c0a7a/jaraco.mongodb-3.8.tar.gz"
+    },
+    "3.9": {
+      "sha256": "1f66027e6cb8a5f05117a222a25f11e235f7a5a71b0b61fa6de6e3fa3017c440",
+      "url": "https://files.pythonhosted.org/packages/4b/b5/49abc3d68dc1d18c4eb6f937da6ecaaf6777f0b06528df8cffa2a092e717/jaraco.mongodb-3.9.tar.gz"
+    },
+    "3.9.1": {
+      "sha256": "97c91b3f84b2466cb4b751869607617fe67ba278826ad30cf4bf559b80965d4a",
+      "url": "https://files.pythonhosted.org/packages/c8/eb/3a833f579cd07187aa56346ee4de479ac98653b229abe9971b4278dbd60f/jaraco.mongodb-3.9.1.tar.gz"
+    },
+    "3.9.2": {
+      "sha256": "21cb5eecf3c4b5d54fa42e321a025d441fdea5e53d3ec08f51b55a091f71892e",
+      "url": "https://files.pythonhosted.org/packages/91/b3/328c230ba5676936e49634a101dba1d662d2c9ba123318aac1680d9a552b/jaraco.mongodb-3.9.2.tar.gz"
+    },
+    "3.9.3": {
+      "sha256": "8a80b0b9a818a497d0b741ed3a262d6d162f440046c9595004675fb661281fbf",
+      "url": "https://files.pythonhosted.org/packages/03/0f/6cc0e1918136892f556dc92aca6e3b3917d1fa6fb64cd4ab660545d85739/jaraco.mongodb-3.9.3.tar.gz"
+    },
+    "3.9.4": {
+      "sha256": "b8b17bea8f28a94e23a375ec6bc15938e73c03aeca77ebeb6b0fe1f8d7b99606",
+      "url": "https://files.pythonhosted.org/packages/1d/b6/b53143d8b08a4ccaf182ee78eb364613ccec25cd44e0b116cb146268653e/jaraco.mongodb-3.9.4.tar.gz"
+    }
+  }
+}

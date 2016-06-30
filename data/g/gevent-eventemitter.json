@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "1.4"
+  ],
+  "meta": {
+    "description": "Implements EventEmitter using gevent",
+    "homepage": "https://github.com/rossengeorgiev/gevent-eventemitter",
+    "license": "MIT"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "becde97ab8e50b593a0889111a587fac9b11170f66bee5f7890e95604b09ac02",
+      "url": "https://files.pythonhosted.org/packages/82/1f/4f1a66c6ff86d8abfebebedf7b2cbd92995c53c9282d1c783572d0025005/gevent-eventemitter-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "afae7d527c52a29123988fd5b5770cdfb30eb660b53d5612f067a00f081ec1f4",
+      "url": "https://files.pythonhosted.org/packages/25/ab/5408c12ac896ed586d25477f6927e02714066afe1c3594348d48518da58b/gevent-eventemitter-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "e8d73abf8b85538247d2228aa2f77f957f4f8be4de3d292c1c19dd67aa94df27",
+      "url": "https://files.pythonhosted.org/packages/ce/63/69870edd7c78d1c2e3e08c72af965f13f014ff8c85d025c8d3e36a123ec5/gevent-eventemitter-1.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "7321b5b301faf6ee4238f2a71290f350d70cec1544823761d709ee3dbe66d56d",
+      "url": "https://files.pythonhosted.org/packages/77/ef/8b9e3e692dd0cc3ff060623e609397eacac8ed171f97b1e629f8d2c4d350/gevent-eventemitter-1.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "3fce3f702c01f9c7a87257388b605ed1a93c949562b23af62881011ba25b72b3",
+      "url": "https://files.pythonhosted.org/packages/26/36/5bbe6d5428000386b0a8821acc3e8dbb488120377c03841cd4708c1763fa/gevent-eventemitter-1.4.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "latest_version": [
+    "0.9.3"
+  ],
+  "meta": {
+    "description": "Rate limiting for flask applications",
+    "homepage": "https://flask-limiter.readthedocs.org",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "931647cda722574267caae2750f9b7920169b360bc6f67c888620ad8dd1653a6",
+      "url": "https://files.pythonhosted.org/packages/03/37/9377e8a1ef31e3bf60351e37293364f97a12c82a86f0721c5b821ee79dca/Flask-Limiter-0.0.1.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "f3d535880e6ff8258df03b5707d727e2edc61fc741541fc95cbc5a953ac40093",
+      "url": "https://files.pythonhosted.org/packages/97/9b/ae848472de9457731673882ffadef39576a74f616f1e41359513ceb3d1c9/Flask-Limiter-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "648879e693c3f62d5beb1ad827966b7fbd585d4104e7c78bbf2d1a7eff2f3da9",
+      "url": "https://files.pythonhosted.org/packages/8a/c5/e54ba7efb2299e48bd0ba7528a9333d192bf3def082e3e5738d76bb324fd/Flask-Limiter-0.1.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "37ef2a89da8a9fbfd8c80eeef558babcdac01a67a4e22c3e86f2df76e0164106",
+      "url": "https://files.pythonhosted.org/packages/5c/19/3c78676c5c136ae853128a42842a0470639163e8ff9a7079f2cae65bd89c/Flask-Limiter-0.2.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "da9f25a2d89bd0646123a2c02aafa37efa3de2c5db3ebd568e80ed56d1eaef1a",
+      "url": "https://files.pythonhosted.org/packages/38/48/d648830306b75e7214baed3ca69444cfff0db6a52542852f4b51d9e0bc43/Flask-Limiter-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "25e881a33948b036f2c2a06c006ec36a8273a28d6196c5702ac0393a49cf21e0",
+      "url": "https://files.pythonhosted.org/packages/4d/eb/ab4cea4b95c67247a60b66c7ddd8d0591a9e3ea6a6f8c7280247527ad154/Flask-Limiter-0.2.2.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "ab7153ef2d016e0bb0a7d2a6917bf2aa9559bd91bf18e181e34612398a9e5b15",
+      "url": "https://files.pythonhosted.org/packages/64/e1/470460a1fafe83927fa4789ed9c31b9376f1eccf1a01a8b7c2c0e75238a4/Flask-Limiter-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "f91140aee1a739803c296a668d85c8cc480965e0ec8ac486ec1eadec8362eafb",
+      "url": "https://files.pythonhosted.org/packages/60/31/71d9a843a33f9705b4cdc610e79138b1da023271f15b10ed77dc34c9aa91/Flask-Limiter-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "35659904d6e92e07778cfd4da2467c4c20870cb1384ee89accedd06b99018413",
+      "url": "https://files.pythonhosted.org/packages/03/14/282031139651d9506dc046da5076718d65a789f7891c6f535081f2242a41/Flask-Limiter-0.3.2.tar.gz"
+    },
+    "0.4": {
+      "sha256": "3fe3ec7e0f88839a6052398321893805bb929e4562d0abc5f0df179d8b89b038",
+      "url": "https://files.pythonhosted.org/packages/78/44/2f6a237474e10c91b03d5393338885afd903f46557b0bcef6158ac2d4146/Flask-Limiter-0.4.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "00882708a4f1206f3c2a22e0052212116e78fbbced39659208441b1a34cbf5a6",
+      "url": "https://files.pythonhosted.org/packages/24/61/ccecd1a5a9b17fb8be2e04937f44eda1d9c852bd64bdc49a29805ec9c8fd/Flask-Limiter-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "078d3fc35db5b37a558df98c333dbde480ac6174dc0b0697ea0637cc600b7105",
+      "url": "https://files.pythonhosted.org/packages/fc/1d/ea1bbcd97bf7260700c5a709f418b3e7b97155f1c3e4d838687a58cfa701/Flask-Limiter-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "873270a5f5e6bfc13a32fb9a97f5fea17cd158c51416d1bf210fdabfc0aa6de2",
+      "url": "https://files.pythonhosted.org/packages/b1/bd/1aa6a56d70482a94f184e10af82417b1c9e6be37e4401457b327fc331a88/Flask-Limiter-0.4.3.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "d4121dbaa05de2772b0d816988f95f9cbec74effbc1e7795c2bc78d16aea81a8",
+      "url": "https://files.pythonhosted.org/packages/c2/2a/b4ac9fcb906e1a39d31d3120a42d9790ade6b496819cb61facbb905e1753/Flask-Limiter-0.4.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "326f4eb2d0acb56c6b83c470c83b895ce73a599753441010a54a6301954172de",
+      "url": "https://files.pythonhosted.org/packages/54/dd/20ed4b136001e4663c98072955e4adbdd608a14772fc8c6124b206b88658/Flask-Limiter-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "b446a94ceab59c1654f2b6559539754f281df126a748bdb55295791892d2f91c",
+      "url": "https://files.pythonhosted.org/packages/94/9e/c7273230717ebe526e44a97b7ff4bad119e21e7bd96a81d1a1a81f68aa69/Flask-Limiter-0.6.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "76a11ddf972e51154ae18d1b6cb54682dadf6876910003a786c7b0860d5b2086",
+      "url": "https://files.pythonhosted.org/packages/66/39/ab1a0f6b3b90ddaa148c54a04e8a5c709c51d170d9c3e6447c36c2a5778d/Flask-Limiter-0.6.2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "e4a8d830323a4809191b88c48f82ae3c76cc63c2612fe5ed3fed651297443561",
+      "url": "https://files.pythonhosted.org/packages/9c/b6/d273b7969556713a45886aaaefabfaad189e9fcdefbf915012b2cb7c1edc/Flask-Limiter-0.6.3.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "1445cc2b68d8cc45e04b338a1a833f3c72d14444172f228a9410b50998a59a81",
+      "url": "https://files.pythonhosted.org/packages/50/b5/8b13f9ae622479526fe05fdd238025e05b672fcac567c83c2805a76ac435/Flask-Limiter-0.6.4.tar.gz"
+    },
+    "0.6.5": {
+      "sha256": "77ac8d6b0668262ce816afcf6974ade1e526f123f4fa098aad69d53ce7d52a1a",
+      "url": "https://files.pythonhosted.org/packages/89/77/d4ceaeafeb181db4d1cb509ef98d6974d53f04bcb6a3f75a4c247cf1eaf9/Flask-Limiter-0.6.5.tar.gz"
+    },
+    "0.6.6": {
+      "sha256": "fa2e241ae2c3548806c27dd40c9e6fa911b0711043808c6040a1bedc3aea94ae",
+      "url": "https://files.pythonhosted.org/packages/c5/68/c7f804c120c6b227213ffefea0c59559584d4b293e0c0856934975741544/Flask-Limiter-0.6.6.tar.gz"
+    },
+    "0.7": {
+      "sha256": "5065a1414653228bab222fe37a528bb4656d6fb6cc32835075ec9e3ba6bd6fdb",
+      "url": "https://files.pythonhosted.org/packages/15/c5/d1c5bc47ea9484d8c61a607ac2e6b962e1ba7b330f4b6a4c32c104c1c54c/Flask-Limiter-0.7.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "931e66ae4b1c3c412603c406d1b8047d37d64f22ebd497117bf812fb3150920d",
+      "url": "https://files.pythonhosted.org/packages/05/a6/1440e42bfbb7c10de257f56c07c8ea809d64b7e6cf0b2bc740cf7f39f83e/Flask-Limiter-0.7.1.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "a4f0e600159ec15b460f6f5474cedb5464f4323694fe10fe3504f1f9a8733e15",
+      "url": "https://files.pythonhosted.org/packages/db/9c/49af4c5ff2a68cf2c9e733da085543a941e46b8772871fa3837d7cb1baa1/Flask-Limiter-0.7.3.tar.gz"
+    },
+    "0.7.4": {
+      "sha256": "0049a635f20997008cfc0e19eecb3f8d4e376aef56be37f493577d92d3a94369",
+      "url": "https://files.pythonhosted.org/packages/79/87/b97c33239ee014636157bb4347706bd5b46f6ae528506e3609ed1063d754/Flask-Limiter-0.7.4.tar.gz"
+    },
+    "0.7.5": {
+      "sha256": "cf95c18775e0cb05e270adff22a03a81a5591635284b212f94f3662764238a11",
+      "url": "https://files.pythonhosted.org/packages/fd/4e/571bea29689e1ea50ca7313d086912f81f59e3609840b4e1e976d7f80b06/Flask-Limiter-0.7.5.tar.gz"
+    },
+    "0.7.6": {
+      "sha256": "2731ce90a28f63a787287620f836efc2a55d7cc0056150834920a5d6f9ed9c9c",
+      "url": "https://files.pythonhosted.org/packages/62/44/5c06a1d2b85851e8663477f903c06ba3ac5655a4727435df4f309b3e7d90/Flask-Limiter-0.7.6.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "1f6f96b82e6d538e45873c3577b4836f5da8c46f1621edf25677bc11a2bcb60d",
+      "url": "https://files.pythonhosted.org/packages/5a/30/3b6b3146ac01557ddb987d9597390f108e3c517661bf98f1ed034d2d919d/Flask-Limiter-0.7.8.tar.gz"
+    },
+    "0.7.9": {
+      "sha256": "b852f9b3f6598c0fc1076db98570011df79b62ca52823235400b388329b2895c",
+      "url": "https://files.pythonhosted.org/packages/07/04/454b927da20dffb57080682b573f8b44f177c89d281815f1dbdc99289e28/Flask-Limiter-0.7.9.tar.gz"
+    },
+    "0.8": {
+      "sha256": "87087a42d30d0020af9cdcaa4077f88ed3eafc109a8ee3a6072a2571a826cbcf",
+      "url": "https://files.pythonhosted.org/packages/39/03/4829207cb930593f4bf4012d333f38a9b8fb82dedb9a8bdf7c005fededa6/Flask-Limiter-0.8.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "0af3cd8dad19bac55bd1d11b8ed6ebdb1aa208b964ed90f8b84babb4b1d5998b",
+      "url": "https://files.pythonhosted.org/packages/1d/20/a0f044b95178c742e0e2037baf7db5eb4a28043d91dcc66ed6052b5dcd21/Flask-Limiter-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "3f36dfab464f313bc0e488c05a0eabf9c2f24bc4e7a24d293db4d26a3d353ef1",
+      "url": "https://files.pythonhosted.org/packages/f6/ab/a984bc9ecb113e65a686d4f510d264192be52493341c5baccb24ffb19811/Flask-Limiter-0.8.2.tar.gz"
+    },
+    "0.8.3": {
+      "sha256": "c26da7cd8ca276035aea5c93bfb3c5c0fa61a734742b01d43c1c4ebbef09157b",
+      "url": "https://files.pythonhosted.org/packages/18/5c/1c2f9464204a2c4d0c7034ec1eaad1161a6fc7b421159717777b532184ee/Flask-Limiter-0.8.3.tar.gz"
+    },
+    "0.8.4": {
+      "sha256": "7f016e5489fc7438537ad6fcb715da6f61a18c9a653c309195deb421b5c3d5bf",
+      "url": "https://files.pythonhosted.org/packages/62/c9/42642e153ffad93f42f2dbc7d698ef4c5d9deeebd4c7e1f31979a2b790cd/Flask-Limiter-0.8.4.tar.gz"
+    },
+    "0.8.5": {
+      "sha256": "8ebbc65d348e389847404fa36a5eaeaa7c064938bfc82815953901d7d83de544",
+      "url": "https://files.pythonhosted.org/packages/e2/fa/ee2e5966d7c35da96f80ebc75ab78aaf2a1288c82df45e8edb6b77eb6bb1/Flask-Limiter-0.8.5.tar.gz"
+    },
+    "0.9": {
+      "sha256": "b340a17f68183522cbe59fe6aef9856691ab7fc1172a9e8784fa444af1ac9c50",
+      "url": "https://files.pythonhosted.org/packages/e3/bf/6e229bbfe9dee46de4622f664cfe997b44b567480a94619b7988b6428f66/Flask-Limiter-0.9.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "ba75ba17a7e9b644061671a39a136ccb9b8978394afcf960a76d70ad8a1b68e4",
+      "url": "https://files.pythonhosted.org/packages/0c/48/000dd31212dd1dddb3e5c78e9c9d8cd618bb74e2dffc5077da48e5d743c6/Flask-Limiter-0.9.1.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "3a5dffa79ed9ea4f8bb6c16abd5bd30534644d64b632d545ffdb8e359e2b4e33",
+      "url": "https://files.pythonhosted.org/packages/68/f0/f7f82d95658d2f45f32137ab061c3fdbdd7475c3169fe385483738c6bf6e/Flask-Limiter-0.9.2.tar.gz"
+    },
+    "0.9.3": {
+      "sha256": "8fe5cb813fc3887dcebc53b0952b2116a4fe557b80aa4e008063800448bbc4d9",
+      "url": "https://files.pythonhosted.org/packages/9b/1b/23841342194bdd55e33d85a6f2e023c69d837fb69cee173352b7edba3c1f/Flask-Limiter-0.9.3.tar.gz"
+    }
+  }
+}

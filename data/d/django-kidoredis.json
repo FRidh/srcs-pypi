@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Django redis backend",
+    "homepage": "http://kidosoft.pl",
+    "license": "beerware"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "b4c5d21895b0b7d103667761235eef7db0ea5a0fc0847aacaf9a0a6c311170e5",
+      "url": "https://files.pythonhosted.org/packages/58/cf/dad1f2cce7281894f67f1dc0138155750252f00f8e1a2dc64307771d4e92/django-kidoredis-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "706d8ad0d142f14a8d343eec27be54e0d18c7814118ca74ebbe0f847ebdbb3cc",
+      "url": "https://files.pythonhosted.org/packages/5d/5b/b7b308bc3894fd5c17f3feb4eb5c401aa996cb12594ddd3fe4f1424694ef/django-kidoredis-1.0.1.tar.gz"
+    }
+  }
+}

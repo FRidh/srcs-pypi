@@ -1,0 +1,164 @@
+{
+  "latest_version": [
+    "0.26.0"
+  ],
+  "meta": {
+    "description": "compiling Python code using LLVM",
+    "homepage": "http://numba.github.com",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "6683f26a6bc956c7a7b7782d9f0cff75749ea2745009b3a1b6dc58788cd5e8e6",
+      "url": "https://files.pythonhosted.org/packages/53/22/930629227411baac98ce702387824abf595bdde74c40fab39770d54d1a1e/numba-0.1.tar.gz"
+    },
+    "0.10.0": {
+      "sha256": "0196188c5b14c2a7cf72aef5a3dfe4ef048661a52e415c5cf486bf165bdd07fd",
+      "url": "https://files.pythonhosted.org/packages/20/53/b8e8969d968746db0fecf6170b9f744268ba8ebae610d59ea646c9cdeac7/numba-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "569386f278246f2fc196cbc2fd1374a3d04bf6b5cdced0e3a5a170395f14fea3",
+      "url": "https://files.pythonhosted.org/packages/ae/26/900ba94550b6b12e740fa2d3ae74b1652ba525752581628d5addc921faf2/numba-0.10.1.tar.gz"
+    },
+    "0.11.0": {
+      "sha256": "42ced4b8f6c3d643d5b5e0102b7a5ec3721211441702371fb8be8616a02bc5b0",
+      "url": "https://files.pythonhosted.org/packages/30/23/94d510e80bb19e7239e6c90843d72ead057ac52edee851d692aec46ea776/numba-0.11.0.tar.gz"
+    },
+    "0.12.0": {
+      "sha256": "0a6ee3b425b92133e8c3c1a3a91716df0ff3347fee59df3327272aec23110d17",
+      "url": "https://files.pythonhosted.org/packages/e6/c5/d96168f3030e7c3c3f5679a8efceb1cb4e3b3646d1651c2ad3a73d9103c9/numba-0.12.0.tar.gz"
+    },
+    "0.12.1": {
+      "sha256": "bdf9b366afc3f422fab5cbb6f8052a90a41af8149019b1dc87f039a8db00e095",
+      "url": "https://files.pythonhosted.org/packages/8c/58/7d37fe8d9a7b614852001cce50926b252d04824db593e9635d3c2425f889/numba-0.12.1.tar.gz"
+    },
+    "0.12.2": {
+      "sha256": "9412c14b34b45f199adbc9afc25ec9cc5453de6401a2255b1d6193b694e4ecbf",
+      "url": "https://files.pythonhosted.org/packages/4e/c3/59be48f59d05311f8c40ee372e81ef5e2311cdb432b444beed28880d5ea4/numba-0.12.2.tar.gz"
+    },
+    "0.13.0": {
+      "sha256": "3c61967b945c06586d9b1f95466c0154e3db96b31de0d110317079b2f5cf2c0c",
+      "url": "https://files.pythonhosted.org/packages/8c/e8/7ae7cbc484ff33076ef91e7b06872004218876832b5757ea7a115e3c8cd0/numba-0.13.0.tar.gz"
+    },
+    "0.13.2": {
+      "sha256": "8037d5572e6373a3e2ed5225a09a0879dd1530bfca449b53843843a5aa87929b",
+      "url": "https://files.pythonhosted.org/packages/4f/6c/f1c3477acf3d8f853ab858d67edb0f7f0cb8f64d6390f905007b4fbb28db/numba-0.13.2.tar.gz"
+    },
+    "0.13.3": {
+      "sha256": "ade1d6fa3bada9ffcbe524aebc13fe258f8c18dd21fa66e384728512a6d69f9c",
+      "url": "https://files.pythonhosted.org/packages/da/b2/1d2f277e0a6198992345658cc57fc377832662d86f8a3ab28dca8175eced/numba-0.13.3.tar.gz"
+    },
+    "0.13.4": {
+      "sha256": "147c986c4e2bd4cfd37847e3f8168567df254960718a1755af768fec403a20f0",
+      "url": "https://files.pythonhosted.org/packages/61/c2/125c89b0bfa6a77c751a4dd45d40bda825554f3300518bba423f47b183da/numba-0.13.4.tar.gz"
+    },
+    "0.14.0": {
+      "sha256": "e6f7ff1ddc15334e5222426c40264d0c520987ae97a2fafa58430ed6907b9744",
+      "url": "https://files.pythonhosted.org/packages/1a/52/1903c03174c369cca315e1a012d4bfae3057fc7f36bb2441805f4274ad07/numba-0.14.0.tar.gz"
+    },
+    "0.15.1": {
+      "sha256": "1ac0f075d4e7f9ee461e85d8185a0b769160b1fa51495bf28727dcfe7a15c61c",
+      "url": "https://files.pythonhosted.org/packages/07/b0/522309dc5f70e007c3dcd1173c9fd333284ee573e62aa4ae37d04ca613bb/numba-0.15.1.tar.gz"
+    },
+    "0.16.0": {
+      "sha256": "74da50715fea5a9e7c0584dfc49fce2e151dd0a1f12ad2b640bf7bea55f00fda",
+      "url": "https://files.pythonhosted.org/packages/77/6a/26252b2f4406bdf561a8df4a813c9d2513e0418977a06171ef9ae006581f/numba-0.16.0.tar.gz"
+    },
+    "0.17.0": {
+      "sha256": "a5d7a4a7a88c2892ed78f68d39aa66278381791f746c813d480f73d669db342e",
+      "url": "https://files.pythonhosted.org/packages/ef/26/bd0d6eecb982ca630a4f894fc0cf6e99a6ff0c78ff07e6861fe0847c42ec/numba-0.17.0.tar.gz"
+    },
+    "0.18.1": {
+      "sha256": "e58cfd99c56e22f59293b4da7039bd7ff458eb0d9a6f663d02a862e6b46502b0",
+      "url": "https://files.pythonhosted.org/packages/4f/da/cb6587b0c7f6081bc8a6eac8180a5be64edafc151a76ceecb71c0c8448d8/numba-0.18.1.tar.gz"
+    },
+    "0.18.2": {
+      "sha256": "3ca7f2fff03a86b1f874f762f3709196e3dc96e1465aa6202a42ba431bed6a97",
+      "url": "https://files.pythonhosted.org/packages/4a/0f/c2767cbdbe82809e9123841b30cae65b89e5e60a0bcc86f84425c3657f6a/numba-0.18.2.tar.gz"
+    },
+    "0.19.1": {
+      "sha256": "692320e2d3b273af0ef287fdbab3042bf1f9baa704529dff6574a0a1b7ee3853",
+      "url": "https://files.pythonhosted.org/packages/30/f3/fde43c8c7f5c050d0b2f8bcdcc110c38c5cc93b8671ed96b1b285a88953e/numba-0.19.1.tar.gz"
+    },
+    "0.19.2": {
+      "sha256": "7872a36ac1e0078b7eb00844eb61307d14743ff24bead25c34a4f7644752925f",
+      "url": "https://files.pythonhosted.org/packages/e8/dd/c17294d52a0e50ab35b7951f4a9d0fd7de35e9f1c6fbf3e9bdb191cef6eb/numba-0.19.2.tar.gz"
+    },
+    "0.2": {
+      "sha256": "86ea1d9d31b5ad2d0e2120b4c971887f9bc539dbe27ccf85e33b1737f5b55b3b",
+      "url": "https://files.pythonhosted.org/packages/5a/d8/59b16de1db9c14e3e58f4825d6354ef68c64616cef3fd99e5ddf7a347182/numba-0.2.tar.gz"
+    },
+    "0.20.0": {
+      "sha256": "6e26608bd8ce42dc513f129040e8258a66e0a6ebdfbd0376b31c80f26976a7f2",
+      "url": "https://files.pythonhosted.org/packages/66/b8/fd0ec71a0b0c377a479b8b1eb6375374b43710c592c82bb7c90a1d3f5362/numba-0.20.0.tar.gz"
+    },
+    "0.21.0": {
+      "sha256": "1806d2f6ad49ad891e9ac6fed0cc0b0489cbfcd9ba2dc81081c1c30091e77604",
+      "url": "https://files.pythonhosted.org/packages/d1/b8/0f1230fadc375c6475679d1666a4e21619489db2740f214ef9fce1700f92/numba-0.21.0.tar.gz"
+    },
+    "0.22.0": {
+      "sha256": "b7bc23ef47a4d79b0eb297a314e2592e216aca71ef6dd329e0e21b9460d5bb77",
+      "url": "https://files.pythonhosted.org/packages/eb/3c/c7d1d6ef079b18f25be87e095c6f4065a6398e1c12017332478bee0edd22/numba-0.22.0.tar.gz"
+    },
+    "0.22.1": {
+      "sha256": "8194c41cdf96c16e3b3d246c0381daf4e587d1ada761f410efecb8315c2cdda3",
+      "url": "https://files.pythonhosted.org/packages/6f/e2/f1e8380c378057b97c80b518142771a0c52cae4f69c6f33d02a9ef25227e/numba-0.22.1.tar.gz"
+    },
+    "0.23.0": {
+      "sha256": "d247d017aa4f62dda0c9929cf1d4fbd76a7d3949a91083593674a33e0f6cd7b9",
+      "url": "https://files.pythonhosted.org/packages/07/53/72cfe30c9c0838276dcc37e9ee2b1f1c172d715600763727fd8adb5ef521/numba-0.23.0.tar.gz"
+    },
+    "0.23.1": {
+      "sha256": "80ce9968591db7c93e36258cc5e6734eb1e42826332799746dc6c073a6d5d317",
+      "url": "https://files.pythonhosted.org/packages/c6/0a/b928a873f57ee7d0629d786fc64463dcfc2241348b4d34cafef5928f2f31/numba-0.23.1.tar.gz"
+    },
+    "0.24.0": {
+      "sha256": "f6785fb02a4a6d6f4ce14626d2c83a464ecfccd4b404493ce7a83321f7b761d1",
+      "url": "https://files.pythonhosted.org/packages/9d/3b/b6408b9552d52737a8f3714766d0be73bff75da979dacd11229cc55ad638/numba-0.24.0.tar.gz"
+    },
+    "0.25.0": {
+      "sha256": "b2d370b28d968537bdb16499536265736cbebd21de8cafcf2bfaa56557b2683b",
+      "url": "https://files.pythonhosted.org/packages/64/f3/2d16df363ecede73c2497fb56ee43c6f4958967bed8cd30f6696b705f1ca/numba-0.25.0.tar.gz"
+    },
+    "0.26.0": {
+      "sha256": "84547fdd19783104a37f3662a45b8b32f940b2af55d2eb0467dc782af43420aa",
+      "url": "https://files.pythonhosted.org/packages/6f/b1/e3773ec83b112caddc6d3808326c241f59261f569e6a8db90a2bde89c66e/numba-0.26.0.tar.gz"
+    },
+    "0.3": {
+      "sha256": "2976a457ff09765bdc47f2aabbe44449da87dcff68fb7dafc4e09a226b934957",
+      "url": "https://files.pythonhosted.org/packages/d6/78/3915784d1c1afcc7e497970127cbfc5fc07250277eadb247cc635c8b0f37/numba-0.3.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "d738762cbb7ce40b9c218ee34f53fc198104c9bb180767713ac302ab8832fd2d",
+      "url": "https://files.pythonhosted.org/packages/6b/37/0b218c6a9f645c7a8c315aae872571cc2409945ebad62778cb122dd97262/numba-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "a76de3b46cc3220dde141ed1c158f6fd67edec3eff8446d79f4fa8be45ec3a37",
+      "url": "https://files.pythonhosted.org/packages/d8/c5/e31f9f6b6ed48e12c569f879438dc7bca6187c0b331b2c67b3f67d31e58a/numba-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "7c8c27502785bec56ec8bcd1b8a85797309954e84c4cb22cd869e44b493cadb2",
+      "url": "https://files.pythonhosted.org/packages/95/7b/3e9e8a5d80d9f6ed1d4e593abc70e8d6cbe0772f2f1883703042658c96d5/numba-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "a0d44aa2273afa557bc074ea3e639cbc04a27c532a4254f5523bc2f88c9998c8",
+      "url": "https://files.pythonhosted.org/packages/d6/b8/bb97c937ea487031d5bb0dc990fa6ccf7085d769863c85780e4418eaa0c4/numba-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "6103a0e6a4598569ff3d359eb26df09c80537447df24012a1799b2fc4bb1660a",
+      "url": "https://files.pythonhosted.org/packages/0d/10/665826b5b045914d8bc7ed65863681e600c2a86afb97a8e1a459446e05b0/numba-0.7.2.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "65bb57ee0830fed1d8d33ef52330160436c7edf773c95d61d10e66d3abf112fd",
+      "url": "https://files.pythonhosted.org/packages/de/19/e3e32adc17aedc5da59997be6f2da51343a36992adbab7bbab74f864c2d6/numba-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "5e219745755298ba42a65614a1f791582c3cbc8c6f26372d458f1210a26e1952",
+      "url": "https://files.pythonhosted.org/packages/9a/ea/6a9ac1ea73b5298e51bd4a1993dd7a0c95bc39b82db01596ebd7cc500be1/numba-0.8.1.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "9c715fe7036e701d41158ac53266b79c2fa221e7681fd348423db6a643da59e7",
+      "url": "https://files.pythonhosted.org/packages/1c/01/51e32f756880223ab5307b16b4db253349645342bc5cb8545d3d7bd2a0ce/numba-0.9.0.tar.gz"
+    }
+  }
+}

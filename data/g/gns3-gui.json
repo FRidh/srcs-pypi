@@ -1,0 +1,212 @@
+{
+  "latest_version": [
+    "1.5.0"
+  ],
+  "meta": {
+    "description": "GNS3 graphical interface for the GNS3 server",
+    "homepage": "http://github.com/GNS3/gns3-gui",
+    "license": "GNU General Public License v3 (GPLv3)"
+  },
+  "versions": {
+    "1.2.1": {
+      "sha256": "fe6a65f72d5cded20d0322acdbb340c28cd3a4035963d53af44b54652bb1e6f4",
+      "url": "https://files.pythonhosted.org/packages/1b/da/adf3176b00259a768394f22c52032c44b6331c0e5b1653dc1568c6352ff0/gns3-gui-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "903a2bd7dc2c5ccb3c40b15ef0a7d200f9fed85a6530b447b5ad87498cba9839",
+      "url": "https://files.pythonhosted.org/packages/23/1f/8f7bdf8e324c85e3a1c31c67890c025b3bd43d63984765f5de061e46699c/gns3-gui-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "aecc04e8ee99002f06d54db017c7228ae695f987dbc50321ada0884ad4b9a29c",
+      "url": "https://files.pythonhosted.org/packages/c9/9a/bdb0165115ecc4e39d3ccc6f3f4640a5f64b77eca44680edef4f2d406740/gns3-gui-1.2.3.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "70c8da867c1f69cff4288180b8c09213c9f196de4a2ad16f4863c0f5572abd31",
+      "url": "https://files.pythonhosted.org/packages/78/59/10395a13947d8888883613480cb2a359d8feece648b52085266db02054b1/gns3-gui-1.3.0.tar.gz"
+    },
+    "1.3.0alpha1": {
+      "sha256": "8b266dd4e6405053c23c696e21b4bc688d80e03243d11ed87b3d43e30d89c176",
+      "url": "https://files.pythonhosted.org/packages/04/25/6e63169d76869875133c38c80635709991a7042acafdff33fefa38d2983d/gns3-gui-1.3.0alpha1.tar.gz"
+    },
+    "1.3.0beta1": {
+      "sha256": "be669f961be9fbd63984c9b91a4f946f8ee7c6ff634f3466dcdc14fb552548ef",
+      "url": "https://files.pythonhosted.org/packages/0c/b4/660106f673cfba0ed18ccc0eb8cd820cf319f6a7540174afb8577d070169/gns3-gui-1.3.0beta1.tar.gz"
+    },
+    "1.3.0beta2": {
+      "sha256": "6f8c34a1c472ae5a983b99289bbfaf5b98cbf4fcfc5f54c1c5d2eef4be48e967",
+      "url": "https://files.pythonhosted.org/packages/cb/b3/104c40252ef7ce430a4826c61a5bd381d9aea02e6eb2a0e5fe44da2e720e/gns3-gui-1.3.0beta2.tar.gz"
+    },
+    "1.3.0rc1": {
+      "sha256": "73b3e92f0a5046dc2fb46ac01cbbb9ef1f9eb775cca487d99e0782c2ae7c8b32",
+      "url": "https://files.pythonhosted.org/packages/62/b2/a16d0de0de436c434c763969f3697ffd5bb4eba2169384d0c1262309ad90/gns3-gui-1.3.0rc1.tar.gz"
+    },
+    "1.3.0rc2": {
+      "sha256": "2f8d744c5a70e81237119cd3323fb6d900efa06f76c241417a769f8138c93d2f",
+      "url": "https://files.pythonhosted.org/packages/68/bb/8bc322a693e7cdb266d578698331a4c674e4a6a06d27fb81bcaa030bff62/gns3-gui-1.3.0rc2.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "fbad477574c1e989da589193ce683d3a590b55fbde12fdc1958b818ac0966f15",
+      "url": "https://files.pythonhosted.org/packages/d8/70/755a81ce80ee60abd43820a0ce43696c25495dc095977baf7591f345de74/gns3-gui-1.3.1.tar.gz"
+    },
+    "1.3.1.rc1": {
+      "sha256": "e376b803a313ac2cb0b46bd6937fe3b87d81521f7048a863d429c165a8d74aae",
+      "url": "https://files.pythonhosted.org/packages/46/36/ed583a2ef8d713460a0ce02e12e6d210a1ebbf6eb4d6729b9326e186d26b/gns3-gui-1.3.1.rc1.tar.gz"
+    },
+    "1.3.1.rc2": {
+      "sha256": "71c751eac9e6118e9d4d34afa31496fd21075e7fe9c6d749c768f55624ac8407",
+      "url": "https://files.pythonhosted.org/packages/09/f0/1299e5ea92b11f548ec80c48e46c9ec2f1297247403bcfbb33587163a350/gns3-gui-1.3.1.rc2.tar.gz"
+    },
+    "1.3.1.rc3": {
+      "sha256": "ebcc2074015739cffd88e0f0a72c35335bfab5abb56edcb6ac1fe6a7df850e52",
+      "url": "https://files.pythonhosted.org/packages/08/7a/02d4200e11d22960ae39c8c14195a268b566d1579f94e7cad03730c78a79/gns3-gui-1.3.1.rc3.tar.gz"
+    },
+    "1.3.1.rc4": {
+      "sha256": "33ccd90fcca5a3cf000c3d1a1725bbf2ce9facba8aaf505210f7b439a48c2a3f",
+      "url": "https://files.pythonhosted.org/packages/db/e6/6f120b91095152600e2328dcced8625ac0f705252c29a2459dbfd84bc83c/gns3-gui-1.3.1.rc4.tar.gz"
+    },
+    "1.3.10": {
+      "sha256": "e612cd6d0e460e276fe5cc20e248dff43b32ddd4ec7f4d47f82db21006d30f46",
+      "url": "https://files.pythonhosted.org/packages/6a/4e/ebe8111dab1c599dd61ad796725b479b230dd2febe09f34e8e21507a5a2b/gns3-gui-1.3.10.tar.gz"
+    },
+    "1.3.11": {
+      "sha256": "194a2bff01119ecdec3541e3288785db0b9679f277957b4a281f9566b8de92e6",
+      "url": "https://files.pythonhosted.org/packages/a1/70/67a9464ab77fe5062cc3446abddcbd0bbb4724abe0858c80eaec3e089886/gns3-gui-1.3.11.tar.gz"
+    },
+    "1.3.12": {
+      "sha256": "3a61cfb040672aa7ea630ddacd0c3ea77b4e7ac507a79848ff4801ce3452c959",
+      "url": "https://files.pythonhosted.org/packages/03/56/0c8d3f940244165948f378cffd4c4f27d03d5f50ed403b66405c6a8cd22d/gns3-gui-1.3.12.tar.gz"
+    },
+    "1.3.13": {
+      "sha256": "82715fbc35d2a63dd1044a599442ed581b56af6df87a8bbf23f25ea43ed31e15",
+      "url": "https://files.pythonhosted.org/packages/f4/8b/e88881caf4013cd639f725b52924125c4cd203cdd3709266ce6b5a4202fb/gns3-gui-1.3.13.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "feb8042841aa5202495692b0b79e8a5c21bfdc14e57ac8f97a74020e9a79c7fd",
+      "url": "https://files.pythonhosted.org/packages/8e/06/e80352fd57b5519699b4484cc0b7137353ce16fd8a76471cd59dfb7b1ba6/gns3-gui-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "0e96162f6e6c8f8b00574e947a66644d616809117952ebf863c058618023feff",
+      "url": "https://files.pythonhosted.org/packages/ce/2e/793542ea1014124f94be59c2b88a2e33d5424a3a481bc338c04d587d9cf1/gns3-gui-1.3.3.tar.gz"
+    },
+    "1.3.3dev1": {
+      "sha256": "a612a00836ef563672a24ebbf0d852c03ef7de2f1a9d7c7e0633cf55c1f94161",
+      "url": "https://files.pythonhosted.org/packages/5d/d3/03ea8cf732d4bac142d5b5210493b7fa4942bf01075222adda97ac6210a8/gns3-gui-1.3.3dev1.tar.gz"
+    },
+    "1.3.3rc1": {
+      "sha256": "a1854eaddb164340b1208d98f333b09b3c18fc1474ba8df7cd92ec3b5f7985d8",
+      "url": "https://files.pythonhosted.org/packages/42/b8/7dea418b663d694faa993ecc137b88d7ddf9b448c53eecd0ed929b674db5/gns3-gui-1.3.3rc1.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "38d8d1805859650c7ece71a3f0c0ddf148163bc2892accf9c1422bfa8ce98d31",
+      "url": "https://files.pythonhosted.org/packages/88/72/fbc5d6e9a8c86a20260d10f6e423e1b10dc3aa70a9af37712ea1fee89000/gns3-gui-1.3.4.tar.gz"
+    },
+    "1.3.6": {
+      "sha256": "adb2bc95058a82ebe7ab2e2818badccccd4f24e7f574cd2c3342f7dc2055dda0",
+      "url": "https://files.pythonhosted.org/packages/bb/80/9b60835444790e344fe4603964d7e12866de20a4ff63d3771b2867f62155/gns3-gui-1.3.6.tar.gz"
+    },
+    "1.3.7": {
+      "sha256": "0fd6ea5e3cc213fb3dd64b380b26ea999ba798da11ac86e3da47c83eedf38818",
+      "url": "https://files.pythonhosted.org/packages/e2/71/766adfcbc1223aa8429871f0541744ba471ed3d529a8bba6abad01f4eb37/gns3-gui-1.3.7.tar.gz"
+    },
+    "1.3.8": {
+      "sha256": "b154bce63d26d4114251153b4c27d889e1227b2593b87f2b3eedfc6e8e9af691",
+      "url": "https://files.pythonhosted.org/packages/df/d4/6baedcc270bcd8c61a46b8a4116c43cf74799697769172f687768ec4a444/gns3-gui-1.3.8.tar.gz"
+    },
+    "1.3.9": {
+      "sha256": "c66fa29cac2f7441e1167d977d6f06497857c894ae6912452f0df3192113fffb",
+      "url": "https://files.pythonhosted.org/packages/08/82/d62c8eecf3d4d32c37ce276c6dad1100c9775601b200a63342657236b056/gns3-gui-1.3.9.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "f1d6abf39d8d371813646f42e73cb4e7441885a6af9fff6e3ec0b87225a3084d",
+      "url": "https://files.pythonhosted.org/packages/85/55/a1018b31b97922c25812581a97d2c76e45c3388fc60c410d636cbdcb2d6d/gns3-gui-1.4.0.tar.gz"
+    },
+    "1.4.0alpha1": {
+      "sha256": "73917ca2a6c7a2cc62b67ac536f3ee983200b980ce84bf77210de66581841acd",
+      "url": "https://files.pythonhosted.org/packages/ae/21/efbf50791a7b3e865c95bdefba50aee30cafc48da07d10645334dc6cb574/gns3-gui-1.4.0alpha1.tar.gz"
+    },
+    "1.4.0alpha2": {
+      "sha256": "7d0abe5adc9384a9a228e418731de6826cb6fb8ddba08b063fa11ec3e3207cce",
+      "url": "https://files.pythonhosted.org/packages/2b/4c/8995021a80b8a2c54c10d8756af88597b84d31d8e1f168035ce091949acf/gns3-gui-1.4.0alpha2.tar.gz"
+    },
+    "1.4.0alpha3": {
+      "sha256": "e706c3f8d1a2fd359f071982c43896745c18b623ddfd55b9b356c121a31d9d17",
+      "url": "https://files.pythonhosted.org/packages/17/8e/0710f02276a69f5cec2591d4a2d10ca4423e787d82e73319a2684f1e9d98/gns3-gui-1.4.0alpha3.tar.gz"
+    },
+    "1.4.0alpha4": {
+      "sha256": "2f46d383ac0567a0658200c063841c8d18165b79a9a485030ab8766590d84058",
+      "url": "https://files.pythonhosted.org/packages/26/69/e0ccf92926e6421137a15b6fc264413dd3821ae15b7e91ee1de2a15d78ae/gns3-gui-1.4.0alpha4.tar.gz"
+    },
+    "1.4.0b3": {
+      "sha256": "763b655ac219fe0f3043bd935c20e592f7beec7b23d4ba9a0c2599ad5da568fb",
+      "url": "https://files.pythonhosted.org/packages/39/a8/742787af71233fc97d8307c146e9dcc28c60341fdc67c8a82c9880aac620/gns3-gui-1.4.0b3.tar.gz"
+    },
+    "1.4.0b4": {
+      "sha256": "49e6994e213ed4c6dcda7eda6ec95b1c0dfac9de59c407453c40663281bcc60a",
+      "url": "https://files.pythonhosted.org/packages/a0/19/fdad5dfa7008990a35ade0129d41f99ec6648e84c33346e56e2360406f77/gns3-gui-1.4.0b4.tar.gz"
+    },
+    "1.4.0b5": {
+      "sha256": "047139a4571453ee648b31f0942ffbd24a265983d2d670139efa8986ae08824e",
+      "url": "https://files.pythonhosted.org/packages/9a/0a/6be28e224aeba44088bc58ce20038c9af61bf360431cef2770432410a0e8/gns3-gui-1.4.0b5.tar.gz"
+    },
+    "1.4.0rc1": {
+      "sha256": "bdd0a1bfe7a78d124aa4e05c7101888136113df9cd0248f6405a0df5bf6b71e4",
+      "url": "https://files.pythonhosted.org/packages/1b/ed/b3b7ee3c614511661bdefa16ca3e5828037d3cbe3c487598b3561dbca428/gns3-gui-1.4.0rc1.tar.gz"
+    },
+    "1.4.0rc2": {
+      "sha256": "fd492bfd2e049320503aa9827029bcb58d5534e52c93e3a9fc6c567ebf61f69d",
+      "url": "https://files.pythonhosted.org/packages/62/fc/0071aadfa16cafe1a126b59415fbc55dfc99fc65ba8c972977c2acb7ee3d/gns3-gui-1.4.0rc2.tar.gz"
+    },
+    "1.4.0rc3": {
+      "sha256": "e1704fd54df39cebf29c9d9e40711f1689647e1c176f97ec41a84d4003474614",
+      "url": "https://files.pythonhosted.org/packages/3b/69/e28516ddb209ddfc32ae51377c03b7f1886702bbb616763465502445ae58/gns3-gui-1.4.0rc3.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "113b7b3e0bec184344d255f187d01015ccbe3abcc6e12ce73b5eab4f58c4e3b9",
+      "url": "https://files.pythonhosted.org/packages/4c/75/16b958d125c2a95d388af8803e5a5b99ca0efa632dafb126325bd51c9cff/gns3-gui-1.4.1.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "d8cf07f12a47bd6ebb77d7235232176e9b8e5376f4ac778c965c820f7fcd42f0",
+      "url": "https://files.pythonhosted.org/packages/35/91/484c7af0fec0d0c4d11d612390e9d98f47f8690a1571786f144ffbd6117b/gns3-gui-1.4.2.tar.gz"
+    },
+    "1.4.3": {
+      "sha256": "89f716dfab4dcaadeb7577a9832fd6a9b45ac4c9d17349cf8001bd346aec0c24",
+      "url": "https://files.pythonhosted.org/packages/4b/0a/2ec8d0e83c39803ea1844db8988b8df5579f17d450cf89d4bfed2d81da48/gns3-gui-1.4.3.tar.gz"
+    },
+    "1.4.4": {
+      "sha256": "c9981fd03fcab6281263ffc37fd08b38437d6d611e13acd98631514ed0e4fdc9",
+      "url": "https://files.pythonhosted.org/packages/43/cc/35bac68805f8455bab67561c5fb736113cce8de74533455f1d209d4688f9/gns3-gui-1.4.4.tar.gz"
+    },
+    "1.4.5": {
+      "sha256": "85fda86671204bb0c29d5d357b684b661bd0035aaebfadfe4568c1cb7f778084",
+      "url": "https://files.pythonhosted.org/packages/78/46/629db21b562e280b8c946e15f8c0c886f226313b032d7ac39681ebe4c73b/gns3-gui-1.4.5.tar.gz"
+    },
+    "1.4.6": {
+      "sha256": "e859edb46a52d5c3a314f8320484e7777b3e7535fdf7a0acc07200a2729bf2f2",
+      "url": "https://files.pythonhosted.org/packages/a5/11/0512c83eb5e7224a49efd6901e7ddde33e5196732278b353a6ab287643af/gns3-gui-1.4.6.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "86238a110783fa8917e00f09681afe1f87a11406005cfdf7f61feff65ccddee7",
+      "url": "https://files.pythonhosted.org/packages/09/8d/3845ce23ed1ad99afaf99105160fd6ea19ffe6fee4ad47b9ad3ea0eaed87/gns3-gui-1.5.0.tar.gz"
+    },
+    "1.5.0a1": {
+      "sha256": "d5e99156f3e785c024bc618cdadbbbaef93172736330c46ca67625a25b9d8dd3",
+      "url": "https://files.pythonhosted.org/packages/6e/70/f1cb01af12f72c786bd53111cc8f1c919d37686836566ecb03d2c60a60a9/gns3-gui-1.5.0a1.tar.gz"
+    },
+    "1.5.0a2": {
+      "sha256": "4b515284d6443591a988235324b67562ef04c8148fe0593472ca0e0202331145",
+      "url": "https://files.pythonhosted.org/packages/4d/2e/97fcb26eb37c29ae239cdae6cccc5b8ef9bd931d0924bdee1c92df7d19d1/gns3-gui-1.5.0a2.tar.gz"
+    },
+    "1.5.0b1": {
+      "sha256": "f81bf6d5c43d49af8c273844b1e1c6b2e83b5fd47646922edd059e4f8635c74a",
+      "url": "https://files.pythonhosted.org/packages/7d/8b/4b578a660b8ff0ecdc99f0bbc969e7b15f943354d56791430044a3f1a155/gns3-gui-1.5.0b1.tar.gz"
+    },
+    "1.5.0rc1": {
+      "sha256": "63c795a03b5711f58385a7db19e19ad829f4cd125f37611b3b87db5eaf953e1e",
+      "url": "https://files.pythonhosted.org/packages/f0/c8/9b99b78846a51d0d836e7f88c4c1378217418f9a045d250f3def40430c02/gns3-gui-1.5.0rc1.tar.gz"
+    },
+    "1.5.0rc2": {
+      "sha256": "60df497091a79bd51daba375cefb93385c1ffac18587336be2276279798d43bb",
+      "url": "https://files.pythonhosted.org/packages/a1/d5/61b6ad811f459aeafb58bb894261bfb9a0dc130fa96bf11bad127b9f03e6/gns3-gui-1.5.0rc2.tar.gz"
+    }
+  }
+}

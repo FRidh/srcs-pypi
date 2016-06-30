@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Recipe that builds lxml and dependencies (libxslt, libxml2)",
+    "homepage": "http://svn.plone.org/svn/collective/buildout/plone.recipe.lxml",
+    "license": "ZPL 2.1"
+  },
+  "versions": {
+    "0.3": {
+      "sha256": "27a721b379b5ae82009a4e8d15146f188f399a426598e7e6a60138d5240c3764",
+      "url": "https://files.pythonhosted.org/packages/16/cc/61579705d6b3dee53b51ae5a03aa6ac49b0cddbffe7113d0d54cd186b525/plone.recipe.lxml-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "313e74f3dad4bc443fa3f1d8a60ff9faac73242878588a68230916579cdf71f5",
+      "url": "https://files.pythonhosted.org/packages/a8/29/bf364326b6f674f6ad975b08ce39d7bfd591841df67ad557a1d219d347e3/plone.recipe.lxml-0.4.tar.gz"
+    }
+  }
+}

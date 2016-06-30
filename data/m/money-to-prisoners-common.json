@@ -1,0 +1,168 @@
+{
+  "latest_version": [
+    "4.10.0"
+  ],
+  "meta": {
+    "description": "Django app with common code and assets for Money to Prisoners serivces",
+    "homepage": "https://github.com/ministryofjustice/money-to-prisoners-common",
+    "license": "MIT"
+  },
+  "versions": {
+    "3.0.0": {
+      "sha256": "9cf3e2331cb7f4e8eacb4de2ce49935c6bfd2f3e8e117d4bf7ea048a9d46dd0a",
+      "url": "https://files.pythonhosted.org/packages/fb/71/16838d7d83dbc69b6498892c15eb4c02a10830cf3b20787795132d07cccf/money-to-prisoners-common-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "acdfb7ca5f8cda8770f4420846ddc81ac1d188d87d09651219292042fae1965f",
+      "url": "https://files.pythonhosted.org/packages/43/66/be454ce9cbdf9ad4a070b2bf52cc014e972bb0f2f152429724dd966e4889/money-to-prisoners-common-3.0.1.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "2672fa6e0cadd65749b2881f2bffbc0d509a2392fb9034495b0561c2bd1440cb",
+      "url": "https://files.pythonhosted.org/packages/e8/2a/49f503c18182359fa2eea1eb4c77004705dd8e910c9d60b5c87d34d6fec5/money-to-prisoners-common-3.0.2.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "cc3b152881807821a44a777343564af4b1e8e2b14b644513c94e69e698cbdeab",
+      "url": "https://files.pythonhosted.org/packages/07/64/edce119fa03e57de7c52bbfdcde88b21c6f53d22da0e47339dd52d352edf/money-to-prisoners-common-3.1.0.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "b6c0ca89912b4a17a518e5e382d00a42805e68b6ddf35990a48133448bafe825",
+      "url": "https://files.pythonhosted.org/packages/e8/b2/89d1978f1cd4d8dcf8a0ab1bb9ddf2fca488c6747d9fcca61eb862d17446/money-to-prisoners-common-3.1.1.tar.gz"
+    },
+    "3.10.0": {
+      "sha256": "4615704e02f82415d756a16f9d25dee3608f87400a098cc94dc27882d2c364fa",
+      "url": "https://files.pythonhosted.org/packages/e1/54/864c1c8baf71c9514380f1d69da11ee1e26c8a87bec55fff7599b1589c88/money-to-prisoners-common-3.10.0.tar.gz"
+    },
+    "3.11.0": {
+      "sha256": "ee5fd3c336dabd2e28b240b254da93c8d110e7209b67c5c342af64471dbf5b30",
+      "url": "https://files.pythonhosted.org/packages/17/12/25abee55103e89064d3fb3cea2ca7d726f3a45a9f87a2a8a67588819cea2/money-to-prisoners-common-3.11.0.tar.gz"
+    },
+    "3.12.0": {
+      "sha256": "f93c84cdef49b43ad5857b3888d63884ce04aa89a4739aecfe1a4d169d5068e0",
+      "url": "https://files.pythonhosted.org/packages/5f/6f/da997bfac5454509bd39c1384601f38234aca828058639fd032a228425c8/money-to-prisoners-common-3.12.0.tar.gz"
+    },
+    "3.13.0": {
+      "sha256": "9d32dee5a4813f780c1ebc34357fe18c8ff4a736f324c04f60a1e90410ab676b",
+      "url": "https://files.pythonhosted.org/packages/09/a1/aab22bd219f617dedd9cc5a8e0ab597a21e7abec905fa5158d97ed969669/money-to-prisoners-common-3.13.0.tar.gz"
+    },
+    "3.14.0": {
+      "sha256": "275800f5caa74b3926b64289906bda091ffcdd3c6cec619da516046ba97bbc93",
+      "url": "https://files.pythonhosted.org/packages/99/ac/411f089268525551cf5c8bf68d6c6db83708cf32b18de34995765c2a92a9/money-to-prisoners-common-3.14.0.tar.gz"
+    },
+    "3.15.1": {
+      "sha256": "3dba30f88ac96171be07d8f69f7cce5180c10cad5c22e54b58df7c99afe9c862",
+      "url": "https://files.pythonhosted.org/packages/5e/40/3b9f2def0fd89a933873ed56d5cac8d31aa0dc447c204e57a24f9ba60238/money-to-prisoners-common-3.15.1.tar.gz"
+    },
+    "3.16.0": {
+      "sha256": "4f1ebf99efe60d56fa704b6fa55ca53052ddf81af35154a2bca1cb0d42ccbe69",
+      "url": "https://files.pythonhosted.org/packages/31/17/99ba89fab9ccdc59cf5c592c1849b6b311e3d3228d34386e5748f4abfa39/money-to-prisoners-common-3.16.0.tar.gz"
+    },
+    "3.17.0": {
+      "sha256": "6ae2b28d34f8582c1c6e2d9d53183a8cd6be05fd86eb4a5d8aa4d54c7fcea970",
+      "url": "https://files.pythonhosted.org/packages/37/1e/d9fdd4e8d0a9a226a82a6980a0cf7c6944e08887dc96e253950d4e057b43/money-to-prisoners-common-3.17.0.tar.gz"
+    },
+    "3.18.0": {
+      "sha256": "036f5b1d37b0349c345986eef8f12eeda699f1bc3d1160721f491e401a81477c",
+      "url": "https://files.pythonhosted.org/packages/bc/57/2943c37014ff2bace463880cce932228fcae7424b0d79dfca5808868c376/money-to-prisoners-common-3.18.0.tar.gz"
+    },
+    "3.19.0": {
+      "sha256": "08da84a218b24906b56b55736a58c9a2de40f23c870db75d0fb12a8be2043928",
+      "url": "https://files.pythonhosted.org/packages/23/65/cedadeddb8ffc8dfd5c8825781b8de50603243404b1d626d0016566943b8/money-to-prisoners-common-3.19.0.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "b918ac6cda12eef4aff7452ec277afaa2d79e082fa574b639cea9fb47c4264e3",
+      "url": "https://files.pythonhosted.org/packages/15/68/d33950f5f6e1ade908b588e14e754bbecce4c8c0673f3c689d15c2db3c00/money-to-prisoners-common-3.2.1.tar.gz"
+    },
+    "3.3.0": {
+      "sha256": "ea7caa97b21a0cdc06e16d5d05185eb487dc3d1a17aa981b0e0fc4afa21d5a1f",
+      "url": "https://files.pythonhosted.org/packages/97/3e/1fca2b1b9ec3a9423e31b81389e388b2d3454397309a520eaac6201a91c9/money-to-prisoners-common-3.3.0.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "b542c121666a79554d88f12c73a09a0741115c215195d16a730773e8fb86ba2e",
+      "url": "https://files.pythonhosted.org/packages/11/d5/6dbe895ebe3d2a33c73c816d5521c723c99d29554b5289a903e801699f1b/money-to-prisoners-common-3.4.0.tar.gz"
+    },
+    "3.5.0": {
+      "sha256": "10d9838cdb6d29f8887f704ae9e3f5e6fca27254f11a348778452ea5250d6444",
+      "url": "https://files.pythonhosted.org/packages/39/20/fb959deb9e03dd42f8f774d3cc10de5ed0cf199cf396e5179e1d6f9cf66b/money-to-prisoners-common-3.5.0.tar.gz"
+    },
+    "3.6.0": {
+      "sha256": "c0119539376f471c08e1289787a9bd5a51daeef5cdd47544e7e65f689f7e4607",
+      "url": "https://files.pythonhosted.org/packages/64/b1/f0ac952453f854becd9fe088b991b8613bec91979f6968a973c9e725cbe3/money-to-prisoners-common-3.6.0.tar.gz"
+    },
+    "3.6.1": {
+      "sha256": "76a05d55c0a6d76b6488f0482eabbfd7600d8a893706f39949d048f74137c652",
+      "url": "https://files.pythonhosted.org/packages/69/e1/3bba066d1317c23fba3f86f9aeb9e2b1942e6315a3c39ce9d681fd8224fd/money-to-prisoners-common-3.6.1.tar.gz"
+    },
+    "3.6.2": {
+      "sha256": "5b316f3b2f929a69e293c9c79271f4c05f3f92b4b58a1c4451a5edfc890e5f7e",
+      "url": "https://files.pythonhosted.org/packages/86/cc/6e35f1e82009fa470c49c44ba8b177f46292caf3c0b9acfe95d7f6ec9242/money-to-prisoners-common-3.6.2.tar.gz"
+    },
+    "3.6.3": {
+      "sha256": "a53ef0677bfc79fcbeb6524ee9c6c80f2ef88a3c4ad0785996fc7f26a1a8c0b0",
+      "url": "https://files.pythonhosted.org/packages/76/b4/afb1be5c5bc25906d43eb205f2a1cc3aa74aed70df80fd83f0136ed425ca/money-to-prisoners-common-3.6.3.tar.gz"
+    },
+    "3.6.4": {
+      "sha256": "7c7589dae06cd3669e797ce4faa1b84857efff9b873451537f23437b6766b945",
+      "url": "https://files.pythonhosted.org/packages/7a/58/85b6bd20f86b431ae81cec147b55f2453c764bab98e0ba221b1be26a271a/money-to-prisoners-common-3.6.4.tar.gz"
+    },
+    "3.7.0": {
+      "sha256": "3b89995b883988879ca43660efd3dadd52190ca7eb810ba97ec2cf2c24f743ce",
+      "url": "https://files.pythonhosted.org/packages/19/8a/e935ff75e7b301879e9160297477697dc339959681c2aa2b6dafbfd190f0/money-to-prisoners-common-3.7.0.tar.gz"
+    },
+    "3.8.0": {
+      "sha256": "667f697ac20663aaf407b382396d4423deae45b37bbedb382a21ebf2afafc41b",
+      "url": "https://files.pythonhosted.org/packages/24/46/d791eb1bda5beed27242b18ccf44532b056621c11faf30e10425328f49f6/money-to-prisoners-common-3.8.0.tar.gz"
+    },
+    "3.8.1": {
+      "sha256": "5ec2498fef006e38e8e3d201144b6b76300fd3ee0c32eb62d49d376075f2a9cc",
+      "url": "https://files.pythonhosted.org/packages/4b/3b/fcf03fb2dcfc191d631a7a432c37b25018a6d13a4cb1f7f68fc9f00685fe/money-to-prisoners-common-3.8.1.tar.gz"
+    },
+    "3.8.2": {
+      "sha256": "137152f603ba541c0f7eb7e1212ef4f0ddc8c341b198804cf265c0d84dbef874",
+      "url": "https://files.pythonhosted.org/packages/33/ae/51cd18f537f4723ea360c20c7e4f04fd5f2354f97e4027ce160bc6f8c3b6/money-to-prisoners-common-3.8.2.tar.gz"
+    },
+    "3.9.0": {
+      "sha256": "fcd5bff2d3a1980f4b2a8c0d1aed78c79ed7a093cebeda2491689e12318d9404",
+      "url": "https://files.pythonhosted.org/packages/ee/44/171827850cd69549c05ef636755ca345f2293a736b2d083f069005eaa8fe/money-to-prisoners-common-3.9.0.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "0f8f8df23259c6c95a7695066f60976cecf89e259bb2948fc746b1890ae5e1f3",
+      "url": "https://files.pythonhosted.org/packages/a9/21/2aa995cd857e43296219681a9054b05d3835c4f1eb8c90bc8ceb13ce8087/money-to-prisoners-common-4.0.0.tar.gz"
+    },
+    "4.1.0": {
+      "sha256": "12fb3fbe4d94a8bc992774be3ab6b72b7f18662b325117db926b8376c1e58726",
+      "url": "https://files.pythonhosted.org/packages/e8/db/a7b1af663df9b6949ab2e5889bd68f53ffa7e7874746fc9a405afb0dd75c/money-to-prisoners-common-4.1.0.tar.gz"
+    },
+    "4.10.0": {
+      "sha256": "588dac67075090d983b3c121b865f016db27391e30d3b6c432543b03fc2cb475",
+      "url": "https://files.pythonhosted.org/packages/62/c0/e96c219647b5e2811dd013b60377a50e10186ef4a0aa585be0f5536faed2/money-to-prisoners-common-4.10.0.tar.gz"
+    },
+    "4.2.0": {
+      "sha256": "932f4beba7c6e1bb31b79de7d3f96c5287e5163adb5a7a0ce1923ed7613f7a37",
+      "url": "https://files.pythonhosted.org/packages/31/57/0bd00b4e7f0824568e669a96b4dc8686a568f5c59c834d1a6a1864d22a9f/money-to-prisoners-common-4.2.0.tar.gz"
+    },
+    "4.3.0": {
+      "sha256": "c8a682da3aee89671c0d2a25a9bd2090a019fc1ff8db9367412cc89ecc170b17",
+      "url": "https://files.pythonhosted.org/packages/b0/28/1dce8ab5e7b972c6160789d9ce9c31bb2bc6f33214e2aec0f22cf44e6b41/money-to-prisoners-common-4.3.0.tar.gz"
+    },
+    "4.4.0": {
+      "sha256": "f0eba063aa5162caa157b64295de5edda22b7d7f35ae9428b6d4e29a09689dfd",
+      "url": "https://files.pythonhosted.org/packages/1a/c4/542698516956a0f23beb96e5d028351dd7c7c4374efb7e0b93fea3641f24/money-to-prisoners-common-4.4.0.tar.gz"
+    },
+    "4.5.0": {
+      "sha256": "e34ba9e681166cffef296ec662e3a55fadd9b4c6319840db74fb678560892d98",
+      "url": "https://files.pythonhosted.org/packages/22/a6/c57e9eb408a1e3c512612b586a1f829c9b23a617b9a6b868f783e9b4b84c/money-to-prisoners-common-4.5.0.tar.gz"
+    },
+    "4.6.0": {
+      "sha256": "ceb0b8b79b052b8dfdf8915d28799c6eb579f9778118abe07227a2e378822179",
+      "url": "https://files.pythonhosted.org/packages/98/23/0410b19c27d88bece12468e6b153fd18ad35c678310b8f44929a2ed6c6a5/money-to-prisoners-common-4.6.0.tar.gz"
+    },
+    "4.7.0": {
+      "sha256": "003235798f610a8297cd9a998c9485c88df8bebed9246bc47269b730404a2bc6",
+      "url": "https://files.pythonhosted.org/packages/5c/71/8d01674a0e3f0ad17590962bb23a4369feca9839f24c7dc1f42143a20098/money-to-prisoners-common-4.7.0.tar.gz"
+    },
+    "4.9.0": {
+      "sha256": "6c810ce6b38b07bef44058799a20211e4b7ceb389c60f7a4bd3f29ffa2603115",
+      "url": "https://files.pythonhosted.org/packages/02/9e/beb3f9564d35f1d9ab5e3e6fc2926c04a4009199847c2c598764bfd5d177/money-to-prisoners-common-4.9.0.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "latest_version": [
+    "0.1.dev"
+  ],
+  "meta": {
+    "description": "Django application which allows you to make subscriptions for different model events (create, edit and delete) and send notification(s) when the subscribed event has occurred",
+    "homepage": "http://kami.github.com/django-notifications/",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.1.dev": {
+      "sha256": "0ba659dfb08dac399cff950405c465ae6809d36ba2e884cb1fa48ce627c6f117",
+      "url": "https://files.pythonhosted.org/packages/d5/ff/13da121dbfbe19092bb75baddc7f9f8e370073d76ff9c37e5517139aea34/django_notifications-0.1.dev.tar.gz"
+    }
+  }
+}

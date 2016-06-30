@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "pytest plugin to manage external processes across test runs",
+    "homepage": "http://bitbucket.org/hpk42/pytest-xprocess/",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.7": {
+      "sha256": "395f8b8d9dd2d410e87131e29df3c273ab1e85a9df937969e2dfd182c77355bf",
+      "url": "https://files.pythonhosted.org/packages/4f/77/962a5859f01d41a2a3c8f84d9f5ab541bc7e517c585d6c60a2aae720a6d6/pytest-xprocess-0.7.tar.gz"
+    },
+    "0.8": {
+      "sha256": "abb04c3855fdff779d3873a91077f509f2a94989c856b9e5ed5d469aa8082ed1",
+      "url": "https://files.pythonhosted.org/packages/af/a2/a06a91bd88ec4227b822aea6853adb671ae2f3790cff06bf34f3fff02022/pytest-xprocess-0.8.tar.gz"
+    },
+    "0.9": {
+      "sha256": "d73b7a3194d75cedf16273410fffe95be798759918687474868f9d5fbd230cdd",
+      "url": "https://files.pythonhosted.org/packages/5d/e0/18d1bddfe81a3c6d47d9507602e9b91a7903600921eb0afba88ed2ae7a70/pytest-xprocess-0.9.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "f70e60cadb5ca1ac9500158ab0144dc9533586e1152fce1fe37e70dc03c5f49f",
+      "url": "https://files.pythonhosted.org/packages/a4/3e/5aacf8ec5c94119aa116aadf424165d2bb1f8e010342a5aa6d4cad024224/pytest-xprocess-0.9.1.tar.gz"
+    }
+  }
+}

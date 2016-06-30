@@ -1,0 +1,136 @@
+{
+  "latest_version": [
+    "4.4.2"
+  ],
+  "meta": {
+    "description": "zope.interface extension for defining data schemas",
+    "homepage": "http://pypi.python.org/pypi/zope.schema",
+    "license": "ZPL 2.1"
+  },
+  "versions": {
+    "3.3.0": {
+      "sha256": "9d92066c7e5bf648effac083cfad984ccfd9de11c2f11b35b08b858692c2c6f4",
+      "url": "https://files.pythonhosted.org/packages/27/24/b4b0706e040937d42bf72610ea521123d448ebdfce19ee11ddf1095e03fb/zope.schema-3.3.0.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "92f36606916841a9b0e9da55bb37fb97a7381eca2735d42f67c25b4e401fff6b",
+      "url": "https://files.pythonhosted.org/packages/96/6c/d4e2d89555bbe8e1acfe12910aaad3d957601dc1ca40993bf1346c7ae0d2/zope.schema-3.4.0.tar.gz"
+    },
+    "3.5.0a1": {
+      "sha256": "86c1fd01be4095c16abecef7180d337cb8f5aff00ac143923df448d626324044",
+      "url": "https://files.pythonhosted.org/packages/5a/ef/be366c571e3a4994fbbc767cab5d636f6e660989b3142265abeb459224fb/zope.schema-3.5.0a1.tar.gz"
+    },
+    "3.5.0a2": {
+      "sha256": "849ed3e51ac37cf41af3bac28085441901daac7747178323d3ddb9151f3c4e26",
+      "url": "https://files.pythonhosted.org/packages/ea/5a/b77974f590994b4438b9d8a8a67ada418a0395cf172fcd0122aa5bbed4f2/zope.schema-3.5.0a2.tar.gz"
+    },
+    "3.5.1": {
+      "sha256": "9de43f3432d572f4a5348d39433d64961f1182c5f6789439dd67d2f1244573ed",
+      "url": "https://files.pythonhosted.org/packages/bb/0d/9a8b800cd38576301d9bf95c66003e4da13f2f064d28af848c86bb18ef04/zope.schema-3.5.1.tar.gz"
+    },
+    "3.5.2": {
+      "sha256": "cdf9149725dbe7e19bb779ac29e43dc608e2d207768caa96b5ff9d68cb734fad",
+      "url": "https://files.pythonhosted.org/packages/8f/b3/49a147aeefad4bea6f367bb0f0eaa62083068776cfa618f715f14e9eb6aa/zope.schema-3.5.2.tar.gz"
+    },
+    "3.5.3": {
+      "sha256": "f1c387736d333157310efae951c83909d6405e13478d8b04f9ccb85c36dec18c",
+      "url": "https://files.pythonhosted.org/packages/65/70/a574981427eba5ab0d55317e6c9f547455b4121297a8b8a802fce288aac3/zope.schema-3.5.3.tar.gz"
+    },
+    "3.5.4": {
+      "sha256": "e825cfc10801e8f05e226e691d25092ec2888525728b981167886db38b84ca84",
+      "url": "https://files.pythonhosted.org/packages/5a/86/010bb6269d37ad86d04242fe36f8b330d313f3201bdbcd4de0d983ccbd49/zope.schema-3.5.4.tar.gz"
+    },
+    "3.6.0": {
+      "sha256": "a745e85495a8b013b57d0305d2773b41bdae179285b6aa4e7b26ea2e2261bb3a",
+      "url": "https://files.pythonhosted.org/packages/08/60/55c4921dfb28e6ebd9d0867434d34d8f013bab7e80ad70ae2a565dc765ff/zope.schema-3.6.0.zip"
+    },
+    "3.6.1": {
+      "sha256": "3f6c23dae0c46e5b92fae527b175ac982f4e5a4f6321d6ec6fe0ad91ae8715c8",
+      "url": "https://files.pythonhosted.org/packages/c9/93/b5183b1c92fb046f1346c5d249ad063fc1c319860c359747cd38fd63120c/zope.schema-3.6.1.tar.gz"
+    },
+    "3.6.2": {
+      "sha256": "ce2aab812a8177de84e43355d4066d18389889b1a4694719f24347a0a76295b1",
+      "url": "https://files.pythonhosted.org/packages/b5/7e/d7df5fc8f7dbd282ab66e05e5e6eb4ff5f17efb071fa2ed469efc790f938/zope.schema-3.6.2.tar.gz"
+    },
+    "3.6.3": {
+      "sha256": "6d0dd2fba1ffcbdf3145602d2fb6847a58f6601aa05370ace399190a1468bb00",
+      "url": "https://files.pythonhosted.org/packages/44/43/822d474f8e99acb4c8db060e2c564ba636de435d0e1d700ea459d2ff4bbd/zope.schema-3.6.3.zip"
+    },
+    "3.6.4": {
+      "sha256": "7a98149b796668493620505b5dae1b786b7d51fda46feb35d2de1c35e6104182",
+      "url": "https://files.pythonhosted.org/packages/95/23/15dfcbbf67ae3871a82b17a203f2eaff9b453650061c6f2f4c5d70b5175a/zope.schema-3.6.4.tar.gz"
+    },
+    "3.7.0": {
+      "sha256": "0e8184a0e27d95eac37e8726fa482b3f1463e8f5c7d40dc548efef0d80181535",
+      "url": "https://files.pythonhosted.org/packages/55/b4/592ed38c33a919d438b4214d204bf0f3442f62fd5eb282cc219d2f570be5/zope.schema-3.7.0.zip"
+    },
+    "3.7.1": {
+      "sha256": "45e054c9f5318479f9413b5bd45d45174c6d496768cd4ab5b35467627042690c",
+      "url": "https://files.pythonhosted.org/packages/10/79/c0070f1d4ffc854dd53a5acc0c0aaf261ec1ca0535ca6db343b399817e8e/zope.schema-3.7.1.tar.gz"
+    },
+    "3.8.0": {
+      "sha256": "9d0a6f619b5cbecbcca82173ea6525b4a3d3ef9edefbfb61281b2c0f5efdf7df",
+      "url": "https://files.pythonhosted.org/packages/5d/0c/13a6244e3c18d6b5fb26f19609321bfc04a3e6a0e11f6dfc11b49b0e093f/zope.schema-3.8.0.tar.gz"
+    },
+    "3.8.1": {
+      "sha256": "e0c02b293d26a4253b6cfdf92c5883d766b03b10033366353f13dc8e09192ee6",
+      "url": "https://files.pythonhosted.org/packages/dd/03/7c187d53e957baf1f715f746c1f00d98dc7c4459468cfd5582df92080135/zope.schema-3.8.1.zip"
+    },
+    "4.0.0": {
+      "sha256": "10f020459dc566cc29fac9160490f093a11c19b18fbb5ba398fa55e40e16e470",
+      "url": "https://files.pythonhosted.org/packages/e7/23/614ac23330bc744e5646089f2448ea4e578787390ddcf0d222059341a02e/zope.schema-4.0.0.tar.gz"
+    },
+    "4.0.1": {
+      "sha256": "fa528d489d1734c9c290dda122e98a108ed7427a5fbcd99a390a4a8c88a566fc",
+      "url": "https://files.pythonhosted.org/packages/cd/3e/14d5ae1d8d79b1eff48eeff95d89d0c5aa91929b855f628bdbbdb0e0b5a2/zope.schema-4.0.1.tar.gz"
+    },
+    "4.1.0": {
+      "sha256": "2d6cab5e495c34d9a74f73da94389cacbc6e5333b76a3ceaf6994364c9103fae",
+      "url": "https://files.pythonhosted.org/packages/84/91/d9b6abb789214c159864b31c95d3156c74688daf9554c2ba390976635b79/zope.schema-4.1.0.zip"
+    },
+    "4.1.1": {
+      "sha256": "0569b5a7a9e60e805cd65f4190647ecadd4d4a2825e5cc85ee063e2bc3f1e115",
+      "url": "https://files.pythonhosted.org/packages/8c/de/0606c250340436d15eb3113c66c95a12597c06b9796cfad6bc04f8ccd3bb/zope.schema-4.1.1.zip"
+    },
+    "4.2.0": {
+      "sha256": "b4b5c1492c7accfeabe677f5f4435285e9d5d9a10fab33cd24648180b5b70837",
+      "url": "https://files.pythonhosted.org/packages/a1/10/af6f554a3b2f7fec560129449c3ce6d0bab2ba92f03f53d1766de3565c8c/zope.schema-4.2.0.tar.gz"
+    },
+    "4.2.1": {
+      "sha256": "e48f9a333287a6c2e8d35d11ca59dfb1931f65db1ab0da7ff30e22ad3fe86d4d",
+      "url": "https://files.pythonhosted.org/packages/29/7d/ee04f2f49e0f3e7eef43b0957c4d37f8209ef5a865631e2f1a719668057f/zope.schema-4.2.1.zip"
+    },
+    "4.2.2": {
+      "sha256": "9a68570e5403fb95e90fc4485e1ac5e48aee5bed4e91de32aca599a4dcebd00b",
+      "url": "https://files.pythonhosted.org/packages/2b/53/85997b947d259d4b4683dadef02358b629abec42c973553a5f104692a837/zope.schema-4.2.2.tar.gz"
+    },
+    "4.3.0": {
+      "sha256": "b181d8d4b29520e247a4ec72afb353700cfb548bb48ae2a111e946af56396cbd",
+      "url": "https://files.pythonhosted.org/packages/29/f0/143b614bd0d2c3f64d0ee0627226b9eff534b54f0d7a223e41297d2879ea/zope.schema-4.3.0.zip"
+    },
+    "4.3.1": {
+      "sha256": "ae2e2869a0fe486d2f4ce6b4b2c2ab68cc01bb6daccb219cc1b434f88c717da3",
+      "url": "https://files.pythonhosted.org/packages/24/2b/f0816b63017cd040b97d11f774248237880a11d412dd163f310231b72157/zope.schema-4.3.1.zip"
+    },
+    "4.3.2": {
+      "sha256": "475acdd813b7d8b24fe0efda255fb51623a1a2c7ff774f58b08157a28be76a80",
+      "url": "https://files.pythonhosted.org/packages/95/a7/5a0a5561464a8ce4ffecf9e7f625df3ddb27d8339d8b7b5eae93a40df9ed/zope.schema-4.3.2.zip"
+    },
+    "4.3.3": {
+      "sha256": "2aef479c525d0d06f5aa0a9ea4feb428614f1a039000cc93bd4553ed6b734ebe",
+      "url": "https://files.pythonhosted.org/packages/13/dc/c45780aab4af7a55d8d94b381ecf06edab8ab93d6e46aa248162874a4be7/zope.schema-4.3.3.zip"
+    },
+    "4.4.0": {
+      "sha256": "a94cc84eeeeed140e9463906a9b297f2dc894140de76bd74597a22ac43855196",
+      "url": "https://files.pythonhosted.org/packages/e7/3c/33f495bbdc55fc14a1b88b4fe4cfa5a6a34b9d82dca57bf5158b4bf29263/zope.schema-4.4.0.zip"
+    },
+    "4.4.1": {
+      "sha256": "0260402bb7259a8b2ac2fd87768a2c500b511cb67af1bc168aca8cd3de73fc72",
+      "url": "https://files.pythonhosted.org/packages/ea/68/ec8c659c6c1d217813be98951db840fc5700de89a7a3fa4f6635dd599f19/zope.schema-4.4.1.tar.gz"
+    },
+    "4.4.2": {
+      "sha256": "d32a089d2a774fe67fd19864780e12ebd88d09e89b5c780f6c0795d59b1c24dd",
+      "url": "https://files.pythonhosted.org/packages/0d/b2/41fdc6c42c4320f326c65810eff785247e65e4ea856cff15120e47b93509/zope.schema-4.4.2.tar.gz"
+    }
+  }
+}

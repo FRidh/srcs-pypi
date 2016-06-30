@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Mopidy extension for scrobbling played tracks to Last.fm",
+    "homepage": "https://github.com/mopidy/mopidy-scrobbler",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "f3d4ccde21252c4184e763b17b6c22d4e1546069df9e65aa1d980ddcfab05d17",
+      "url": "https://files.pythonhosted.org/packages/73/c8/475c172a4451ea104f028da9b98f0db2328e57a353df2d40de646db65b96/Mopidy-Scrobbler-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "b9b5327cfb0ee81c4a2a0e6b61655a32304ed49a21206c63296bd75a36effe84",
+      "url": "https://files.pythonhosted.org/packages/98/8b/2ce1c1f35db52adc035b372f4595bff5fdfca47be627455df60cfe7b600a/Mopidy-Scrobbler-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "7951dcf4db088fe755145a16a853546fbf3cf7a408d2120d50580ed3db0a85c3",
+      "url": "https://files.pythonhosted.org/packages/65/4b/4d34f8eac8344ddb72ad983d060219cffa1a764affe6823989f6f481cd5b/Mopidy-Scrobbler-1.1.1.tar.gz"
+    }
+  }
+}

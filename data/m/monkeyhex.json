@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Monkeypatch the python interpreter to print integer results in hex",
+    "homepage": "https://github.com/rhelmot/monkeyhex",
+    "license": "MIT"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "2a3708794b99716aefa7031952632eac9259cbbc1b4fd638fe8e407373fa0c50",
+      "url": "https://files.pythonhosted.org/packages/33/5d/7dd77353d4613d79d598265e15f9a47952026778031a3447a1828971b322/monkeyhex-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "db699ed57553636477e0ceec05f26a7be6726ee26b7b5106032f05e09bed7009",
+      "url": "https://files.pythonhosted.org/packages/6a/31/66c99b48f2e784145257ced551de597135fc0e41a962251e4c991e48be2b/monkeyhex-1.1.tar.gz"
+    }
+  }
+}

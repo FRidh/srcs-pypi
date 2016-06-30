@@ -1,0 +1,192 @@
+{
+  "latest_version": [
+    "0.7.3"
+  ],
+  "meta": {
+    "description": "Admin Controller add-on for basic TG identity model",
+    "homepage": "https://github.com/TurboGears/tgext.admin",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1-r191": {
+      "sha256": "0563801ddeadd772cceb9861135f974b89520a965d6d5e4f20a8ab427df1a464",
+      "url": "https://files.pythonhosted.org/packages/b2/98/4462ea6479a8b70c447ed645f75bcfe6a995c72228ee9ab5a209e0817ee1/tgext.admin-0.1-r191.tar.gz"
+    },
+    "0.1-r198": {
+      "sha256": "f01c3f87de5ea99d7809d5144c8b9ace59f3ab5cb9bd2a943b961129bd6e93a0",
+      "url": "https://files.pythonhosted.org/packages/d6/d1/aabda8f335c9c0e6a525e3228b310d65e33560cc4885001e59d83e79d52f/tgext.admin-0.1-r198.tar.gz"
+    },
+    "0.1-r201": {
+      "sha256": "ddc483db2c9dbbda8c9861df8d7ba8134359bddbea01bb9950ed6446e3bae75a",
+      "url": "https://files.pythonhosted.org/packages/ab/da/c3afb5cc5c6b7a9a649f450152ce6b3192ab9ed3e6dffd3af3f3f2a47b65/tgext.admin-0.1-r201.tar.gz"
+    },
+    "0.1-r202": {
+      "sha256": "4ccd65aa9f43f19fd0e9760bddc35f8d0d3ecf7419b933c529478f0f74cc4385",
+      "url": "https://files.pythonhosted.org/packages/61/7a/518def5d8c20895c1393e40a4a68f48bdb51befa70cc53df80f4b93d3434/tgext.admin-0.1-r202.tar.gz"
+    },
+    "0.1-r203": {
+      "sha256": "f47298c22b970568d26e1e1a1b610ba3e70aecf19374f6acb07cdb3dce8ea883",
+      "url": "https://files.pythonhosted.org/packages/d4/1e/ccdf82f7c58b915a7f2295f9f30191bd81409e1bf6358913a13d0c04f8f5/tgext.admin-0.1-r203.tar.gz"
+    },
+    "0.1-r204": {
+      "sha256": "8ba15940da830548c9fba63910a3ab0b287ee7f9700d736a0b6f600ebde5a21f",
+      "url": "https://files.pythonhosted.org/packages/16/3f/18ba04b51333b2b8fb15fad2854d0b9e23f8f14d5d21f556b0eb039d1ab6/tgext.admin-0.1-r204.tar.gz"
+    },
+    "0.1-r212": {
+      "sha256": "a2a420887bac9b962b2062bf7b8193d625146c9644dc21adf4aa09646db309d7",
+      "url": "https://files.pythonhosted.org/packages/81/7b/8559c8ac88842b92e6bca8018f56deb9cb20dc3ea62e171ad432d2379c5b/tgext.admin-0.1-r212.tar.gz"
+    },
+    "0.1-r213": {
+      "sha256": "a478ac7a2556226a04e56d15e1b09c9255ac3975f76283d61db231d9555e0abd",
+      "url": "https://files.pythonhosted.org/packages/26/30/3b8c288c2769e63b37366bd8586f05f1c5098280ea808889fcbfe90cc7c6/tgext.admin-0.1-r213.tar.gz"
+    },
+    "0.1-r215": {
+      "sha256": "0b654d1676209a21776718344344a0f98b542d9f67efc2369451a14a83531200",
+      "url": "https://files.pythonhosted.org/packages/e9/f0/4ef79c4beb158d2d3180270c6c7cfd15a2608b642e73e176a5f4d1d33d6d/tgext.admin-0.1-r215.tar.gz"
+    },
+    "0.1-r220": {
+      "sha256": "195c7384a37d842f415e9532ecd5aaa765fccacb0d6c24c96983d087f2cdd0b8",
+      "url": "https://files.pythonhosted.org/packages/53/f3/6430a8e2a8c26d7047560cf9dad543a21aa008606db6529bcc4c3e4d31cb/tgext.admin-0.1-r220.tar.gz"
+    },
+    "0.1-r225": {
+      "sha256": "c6707b72ea7abef7d17dd0ef49be4869ae543aefa6bb21ea5b4588c8cea3fb27",
+      "url": "https://files.pythonhosted.org/packages/7d/fa/501047bba21863268bbb00e34b8903a7cd4d2303438f58b9bae1c7dec7f2/tgext.admin-0.1-r225.tar.gz"
+    },
+    "0.1-r228": {
+      "sha256": "a58ab8be7f6624f60183042cd90862cdf2ac7c8c73f87fe8e4b92940fcb23226",
+      "url": "https://files.pythonhosted.org/packages/a6/4d/c4996aeb79c56c439480ed7c74bba40d29cb596740b1fca8c50dc546373e/tgext.admin-0.1-r228.tar.gz"
+    },
+    "0.2-r230": {
+      "sha256": "c905e4f2b1f8534af7486cb65275ae5a141653719a3eee752bc9f7d074eac541",
+      "url": "https://files.pythonhosted.org/packages/a3/de/b1dc6e31e7eb4bd2cbfbc12268e5f028241d5481472bdec4776b7a4dec71/tgext.admin-0.2-r230.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "64ca7dd141a106cea5ecf9796dfbcd159f4bcc64c1d3f1494ff017233df025cb",
+      "url": "https://files.pythonhosted.org/packages/c9/98/0c5f8639e7600e9535fe9102212d1b7d63505a363151931bb530f771aa1f/tgext.admin-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "79ade8a28e18a63d4fe675dc4f30372007fa6fc60f528d5d1797307147536c9b",
+      "url": "https://files.pythonhosted.org/packages/b3/03/627629d3a067cf67484a37e7eca8af82b34bf2341d34ef392f63b6326d33/tgext.admin-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "5122a289e24bb25acc7c6a07aab490a1910d75aa270ca68ef71ccfec76c31c37",
+      "url": "https://files.pythonhosted.org/packages/8e/95/5f0cd0d702a1264c975107dee6c292e51944c80470704700c18f4bdb270c/tgext.admin-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "2fe01355b28759715bcc639ec3344bcd963b7b3c3f9dde5e7662789e5ddd7b62",
+      "url": "https://files.pythonhosted.org/packages/3a/3c/d28f98268222b6567433ebe1dc4b72bacd2c3749d3500d2c51887b7580eb/tgext.admin-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "11be1c47b6ac80cb716e34e3ad4fab075604198e252368b8e7025afb7c423b15",
+      "url": "https://files.pythonhosted.org/packages/3b/57/07fcb815933115c8676fb9b21d698b81dcebdd0051a2801be5b396e07823/tgext.admin-0.2.5.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "1e46c64eb0bbba529f0df219e90798b76a402a9d32cb50fd46777a1dd0432d6f",
+      "url": "https://files.pythonhosted.org/packages/cf/73/16e3eb903162c614545e3ae9e3ada407b0bf7911ab92b18fcfe20932fe59/tgext.admin-0.2.6.tar.gz"
+    },
+    "0.3": {
+      "sha256": "6c00a618c46511312c589988da3e686587073f773687937ef2eb8d5650ccb4cd",
+      "url": "https://files.pythonhosted.org/packages/3b/54/da88f48ed2b9855b701ec31148fcf4b5a04c0aebbad9092f32762aa7ba81/tgext.admin-0.3.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "dd7a413c7e1078a38488b461822d4a919ac7f50be381e9e480ce0cf8abbb5190",
+      "url": "https://files.pythonhosted.org/packages/4d/7b/15d76512ba7f14c71e7d48480fc1122442303f76e60e52164ef4dd216f5a/tgext.admin-0.3.1.tar.gz"
+    },
+    "0.3.10": {
+      "sha256": "8d1a19cb1447532af8a1aca4f29cff8d0d98c2b4f95fc76cbf95cb0463677c73",
+      "url": "https://files.pythonhosted.org/packages/f3/31/47d8dc4af89ca8e94ef2fd16915ce3021531ed9118c22c6e65eb14cc1045/tgext.admin-0.3.10.tar.gz"
+    },
+    "0.3.11": {
+      "sha256": "1fd63da3aa8c35457dc39e1dedc26844f7d59df054f1894ecbe05b845eb83901",
+      "url": "https://files.pythonhosted.org/packages/98/40/43cff62069d49a6f1c60e8e65e9421d5ba9b8b22d3ba0d9871aae23898d7/tgext.admin-0.3.11.tar.gz"
+    },
+    "0.3.12": {
+      "sha256": "286b5089c92ca96628527b060cc0b11b6f04f1ad3bdedae6e53eeea933f365f8",
+      "url": "https://files.pythonhosted.org/packages/bd/c0/789e8a208d8a5857857b47bba6c78723323ce912b7ed4405cc6de048b660/tgext.admin-0.3.12.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "107f89ed8dfc5e5977c41fb5cc45d0a9df172921407ec459ea790a504414f884",
+      "url": "https://files.pythonhosted.org/packages/ac/88/0d254401080b1b833a742ebcc21fe7f0110858417ce1bb78730d4ad7b9ca/tgext.admin-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "6c542108fa377f6778f7e249a9e931ad7f475c71be105a0c239166e888f068b3",
+      "url": "https://files.pythonhosted.org/packages/86/06/802743f33b25cb508583c9b4c47cf8086f5c2638a00373758d8c1b22d49c/tgext.admin-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "e9c31f88a51d83cd132985d5f99dd372915138b6bd47b182c0872bea95499780",
+      "url": "https://files.pythonhosted.org/packages/18/f3/ee0d0ec6255f90690da219bf3acdc938d567b1d7959bf3924bf7fcd50b84/tgext.admin-0.3.4.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "7fe213a2c8ad7f6e2547d7837080c6f88ed16d4ce9059aad180ec5818ddc693b",
+      "url": "https://files.pythonhosted.org/packages/07/bd/0fa4068968197c08149767c50b842a54202e490a69df1cf5fea1c9ff39d9/tgext.admin-0.3.5.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "39e3600a4fefdca6317e06fcd6e21d8dd280e1091b1cdfdd54b61f4b302a4274",
+      "url": "https://files.pythonhosted.org/packages/f9/4d/5e8235b6b7b3201023a221e63d67719749efe6ffac859fc0f03fa7bf4e16/tgext.admin-0.3.6.tar.gz"
+    },
+    "0.3.9": {
+      "sha256": "c50d829e177fe6bec1db263e1b05227130c60593e35075a7488441cf8e927736",
+      "url": "https://files.pythonhosted.org/packages/ef/af/b61509340886c469b02b0d656323b19b224d942dec91c1b2c8a48162183a/tgext.admin-0.3.9.tar.gz"
+    },
+    "0.4": {
+      "sha256": "1586947e40c6ba7adf57cde52119b526cfca2da50c68c35fcff1771d7fa1ef53",
+      "url": "https://files.pythonhosted.org/packages/1a/ec/c79c272d15bb0bfbc2432ed340bb037ed8c6cb0c0cc2f8027ebddc255eea/tgext.admin-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "023f61009b85da29b5eca403905a6a7f4affe739daaf70c92a5794d8e2a675c1",
+      "url": "https://files.pythonhosted.org/packages/bc/98/4cc262a1172826a6f60b426fae8ed7adc277810a61308f9520759d133248/tgext.admin-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "a890d281eec5f2eab9ca235abdec5cf4356ab32e02eb1a5806a36b54e276816c",
+      "url": "https://files.pythonhosted.org/packages/64/00/f3da301f63ce2ad3735894d72e91ddcff4e91091caebefdf9a6aa87a22f7/tgext.admin-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "9b492c69e6e8ed0ee31a30487fb5370fa8e00bb0d713b109d6c5460a71e55845",
+      "url": "https://files.pythonhosted.org/packages/71/df/89be5b5e9d896e51eda45a712b1e9a968257927b3170059eb1ffdc70e0c6/tgext.admin-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "36ac477777efdc848d2c94293257714c77bb81751babfaf931f697fd90c58f7b",
+      "url": "https://files.pythonhosted.org/packages/57/52/aacf198db5916335b403084254bd5bff0584a375ed69994cc1833f7cc761/tgext.admin-0.5.3.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "90b4a9226e1d7b694ce8a5d5499043d507c59add472550830b9700957071fdba",
+      "url": "https://files.pythonhosted.org/packages/f9/30/b258f86cfa84ff46940894bbc0fa626399b21bcdfca5d26ec58cbc9f4035/tgext.admin-0.5.4.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "c2cf639b85ac0fbee339c48612305b9e9996dafc48996ac81e414d66c7aabb77",
+      "url": "https://files.pythonhosted.org/packages/59/92/03724f5892a8fafc820adbe0b60153ecb74a49c1f64298ea60c55a7a2647/tgext.admin-0.6.0.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "4fab10e6c7e50ad2f84ac4516ce773b9cc3eccd46d1c2621fe6506ecce742868",
+      "url": "https://files.pythonhosted.org/packages/a6/05/a7ea45f8ef6c169372ecc6bb452e985985a15de8f312ea47e511e82ea672/tgext.admin-0.6.3.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "ca4684904be9f4544c627d414d50fde31994974cf3086ff7939dd722da627956",
+      "url": "https://files.pythonhosted.org/packages/55/4f/5b7b07818e5b1adb2c6cbc13d833c8c40137c27c93bf41f342a669923443/tgext.admin-0.6.4.tar.gz"
+    },
+    "0.6.5": {
+      "sha256": "cecaf41f56e36dc2bacb7857404b3ff2319e87ffba3e09560869f77a0a31caf4",
+      "url": "https://files.pythonhosted.org/packages/9e/b6/4364e492474d3b54d1ede83a3ec450e9f58864d0d533640ebcff5b20b9fc/tgext.admin-0.6.5.tar.gz"
+    },
+    "0.6.6": {
+      "sha256": "419b7b8bcb7053109ce107087d30f9174189eae49ffac334f346c1fc8602b774",
+      "url": "https://files.pythonhosted.org/packages/b5/a0/8fd38a6c08f3ddef85c17d9a99cc32839b35916c4eced65c4438c2a991b2/tgext.admin-0.6.6.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "1025356197645c219e51e64eb8ce6fc08c87ae2545e78def73dcc20c25cd9421",
+      "url": "https://files.pythonhosted.org/packages/c4/3d/ead51d7b53c5f30074a7de4bb7cff6e3e4b5d52c97f128d25f2e8f5419b9/tgext.admin-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "0b242af86170a9333e221e624a57b2ca87218acba2fe70b3b19af114167b0cf1",
+      "url": "https://files.pythonhosted.org/packages/ea/54/c29f68cbdfcb95a067225fb84fbda78d2304ab9680ccb44e8b5b487de1f2/tgext.admin-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "196659de1fa6ad785d0fb21216e85deb6ea80574c1f12d0a8de7badd21029860",
+      "url": "https://files.pythonhosted.org/packages/e5/3e/2ee154ff3477f7cc42b2bbd7dab8d82118ce826855114d0d210584f3ec68/tgext.admin-0.7.2.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "703c9fd25e026fd30ce7af630b85658d96a3f78cb57f63009608634d174731c2",
+      "url": "https://files.pythonhosted.org/packages/be/15/16c2c5e8fdf717c7936c6858e9112e2d4240c292c2b05457f6adbba42b90/tgext.admin-0.7.3.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "latest_version": [
+    "7.4.4"
+  ],
+  "meta": {
+    "description": "Python version of Google's common library for parsing, formatting, storing and validating international phone numbers",
+    "homepage": "https://github.com/daviddrysdale/python-phonenumbers",
+    "license": "Apache License 2.0"
+  },
+  "versions": {
+    "3.3a1": {
+      "sha256": "da75e963bf93b939a98f9a953ee68d71c638d96205930ee407381f2c6cf0d057",
+      "url": "https://files.pythonhosted.org/packages/3e/64/8e456ce669942a1b4628a3c772d868487e9f746435412469f446f6a848e5/phonenumbers-3.3a1.tar.gz"
+    },
+    "3.5b1": {
+      "sha256": "e5dd1111bd4596fe58862faa0a27d6602473258a0b206d67eb8e42ed56a56762",
+      "url": "https://files.pythonhosted.org/packages/36/dd/492230a56378a0713c7015e0b7a26f6baa60709601bc19e624ffddbe6f60/phonenumbers-3.5b1.tar.gz"
+    },
+    "3.5b2": {
+      "sha256": "eb39def55865d4755ce22b2d1cdb7f5359e0a2ea89763cfef3634cde1aae4ab5",
+      "url": "https://files.pythonhosted.org/packages/1f/dc/2cf4d7f2d7d6e42c6a885f33d54fad825c9e0931bbdb791e9de13c7d6536/phonenumbers-3.5b2.tar.gz"
+    },
+    "3.7b1": {
+      "sha256": "221f9410f7f0f51642ab28eb9aafc64a5b6e462d393e3ca8f7c8399396a01a4a",
+      "url": "https://files.pythonhosted.org/packages/ef/a8/0bc7bfaf49f1225c375eb95c52adc909ec22aea56bba08c1a996755bfc96/phonenumbers-3.7b1.tar.gz"
+    },
+    "3.9b1": {
+      "sha256": "ec78edffcf4db74f39fca4668a7a6e086572a7b7292732a8f3cc0b95c9bf6da1",
+      "url": "https://files.pythonhosted.org/packages/db/05/0d5ee527707dc94ca6f5917846d6047a9983852d4f64cf29bf98179d7bb0/phonenumbers-3.9b1.tar.gz"
+    },
+    "4.0b1": {
+      "sha256": "4239fbdc246f85d3e617c5052004220fe0c6098bcdefe29ae3b1754c03241450",
+      "url": "https://files.pythonhosted.org/packages/42/d2/0980f3aa23c3114ad7e34102960e9bb7fe0dbfeb8ecd2ecfc2394c97ae57/phonenumbers-4.0b1.tar.gz"
+    },
+    "4.1b1": {
+      "sha256": "896c1ab1c13150f8b3c33572117f82919b44d86a15aec664b049ac1fad8c6f86",
+      "url": "https://files.pythonhosted.org/packages/bc/ce/3e849d9946c1b87fdeaf9c64b2a0e8a171a4377cabf6992a9045d52e3e26/phonenumbers-4.1b1.tar.gz"
+    },
+    "4.2b1": {
+      "sha256": "8c4404fbdd04aef7e8a4ef8bb4e7982fd74d69b90e683e7e14f5ca29f6467c03",
+      "url": "https://files.pythonhosted.org/packages/0f/46/29821eb2c1a9be52a9e4b6f6dd5262ee51bb4a99a63648e97d881afa5fd3/phonenumbers-4.2b1.tar.gz"
+    },
+    "4.3b1": {
+      "sha256": "61a39a38de39918e1e5b3c68877ab6976cd063396e849f10e00c80004766020d",
+      "url": "https://files.pythonhosted.org/packages/8f/fc/3ae65af5ea3deeb3cf99e411d6209f7b953109ebbe6e6427f01ab67334aa/phonenumbers-4.3b1.tar.gz"
+    },
+    "4.4b1": {
+      "sha256": "244f2637fb3c3f26b388954bb81355bad6e8616e8ff30757a39c6cdd25a34be4",
+      "url": "https://files.pythonhosted.org/packages/dd/ee/7970aa0e95ecc1da1a3d663c21becc4de3d9f267aa9225c49131c30d82c8/phonenumbers-4.4b1.tar.gz"
+    },
+    "4.5b1": {
+      "sha256": "f6594cc244a17d8e7a5b5cac011be881178aca7f6adbd9b94359f39854776873",
+      "url": "https://files.pythonhosted.org/packages/dd/69/ba9a20056d5dffcf95f68139f95c33a1b53779e6e0a1064086d290520804/phonenumbers-4.5b1.tar.gz"
+    },
+    "4.6b1": {
+      "sha256": "c6fb8c21868f922731302ccc3bfdbd4ef889d47ced64013bebc2222254a07da9",
+      "url": "https://files.pythonhosted.org/packages/f9/a3/0a277da502bb2333440c60021f99e75dcc863c2fae03cef34e5a182356e8/phonenumbers-4.6b1.tar.gz"
+    },
+    "4.7b1": {
+      "sha256": "498d929040742cd61676201abcf7c9098336132a1b375f765a7e0c2e09986d33",
+      "url": "https://files.pythonhosted.org/packages/eb/ab/38031e52ffb2288b368dbad0fa91e923f21eb28a572bc11330b9623b9504/phonenumbers-4.7b1.tar.gz"
+    },
+    "4.8b1": {
+      "sha256": "2742c9616b8f06943c9202ac4c1e3fbac2d7a8bb75e163106461035a8a0cb402",
+      "url": "https://files.pythonhosted.org/packages/78/74/3198f722a3d08ca0d2c141787271d63cfd132c1c9dc707c4ea8209491d50/phonenumbers-4.8b1.tar.gz"
+    },
+    "4.9b1": {
+      "sha256": "122e9cb0a980c1cf2a2d650944babbb389b05a461b6a740b0bfa66522d630d9d",
+      "url": "https://files.pythonhosted.org/packages/8e/6a/e5ed8d77c406048924c2deb9727d77bc44c8c7c35d9063bb2a8a537c360c/phonenumbers-4.9b1.tar.gz"
+    },
+    "5.0b1": {
+      "sha256": "7414dbc3b9ace1dbd0e586568aaed733ad4c9330e9507335b69a03ce659f57ab",
+      "url": "https://files.pythonhosted.org/packages/ef/75/e3876b5d6e50c2d408205e8a8f77424b38c9bab2a015946d93fd31f0fdcc/phonenumbers-5.0b1.tar.gz"
+    },
+    "5.0b2": {
+      "sha256": "99b10d40004e59ad723730004e0cb79cff61c5c3167aca0b680344234024b83d",
+      "url": "https://files.pythonhosted.org/packages/ae/a3/6453dd293293b41779b588c1ec202232b8aae428b1d064b7c9dfe1280cd9/phonenumbers-5.0b2.tar.gz"
+    },
+    "5.1b1": {
+      "sha256": "c42957fa6796940b8c7dfe349d82520919e4a45c8784b1870749ee67de18ff67",
+      "url": "https://files.pythonhosted.org/packages/ec/b1/1a69c6b93d530d4ceb6d802891f36bb3ae1745d2fd7fa2ed5aff78f7e797/phonenumbers-5.1b1.tar.gz"
+    },
+    "5.2b1": {
+      "sha256": "6c60b1f5d4e360f6ef97ad3c10e043ff372b1fbf60866d00376bd0bc3badb418",
+      "url": "https://files.pythonhosted.org/packages/fe/52/cc1376c8ae5da4462ef43187b293d2fd36315e908c862b1fce2df3593e35/phonenumbers-5.2b1.tar.gz"
+    },
+    "5.3b1": {
+      "sha256": "c37e12e378028b485aaf15fac585a597c3de35c165a0c5edad48382fb8f31931",
+      "url": "https://files.pythonhosted.org/packages/60/56/115d3a5379ccc206988f5d2ed8c25cbe17009469441f4edb4bdadfa669af/phonenumbers-5.3b1.tar.gz"
+    },
+    "5.4b1": {
+      "sha256": "136013fb3905b61aa10ec8a14bf5b39a884b4ffd52d536df89ef26115df4cd3e",
+      "url": "https://files.pythonhosted.org/packages/34/63/1cd21c9e81f95ac7463778b5647318d1c2005629f4237f43ceb993f5d64e/phonenumbers-5.4b1.tar.gz"
+    },
+    "5.5b1": {
+      "sha256": "46cd2dcac7e39db338565893e6ea16b1cd2c7782ecd2df5a01098a705b4cc0a6",
+      "url": "https://files.pythonhosted.org/packages/ba/c3/d9c37fe26c1f8b6dfbef0b69ca19cd39c99a4a0a8af0820cb9694ff04041/phonenumbers-5.5b1.tar.gz"
+    },
+    "5.6b1": {
+      "sha256": "14ba342301842b141ff07ce3c46e8caeb87a8d90a2f5407be9e94a6a7be988a2",
+      "url": "https://files.pythonhosted.org/packages/dc/40/194b3c88d802c4e33ed2b711a34186be25c622cf5f9f3d2fe87625fdb8b7/phonenumbers-5.6b1.tar.gz"
+    },
+    "5.7b1": {
+      "sha256": "2e6eb427d6d0326ec31ff19ed9079a61ce5f4370b8b4efbab045ebd839bab001",
+      "url": "https://files.pythonhosted.org/packages/91/ab/375d8e26eecd914d5d2f1cac8687991dde6f4e7943d0cc24eb7799905140/phonenumbers-5.7b1.tar.gz"
+    },
+    "5.7b2": {
+      "sha256": "f64ac8f846b9b9f4ae5d0330352a952485e88899ffec775dd842829d14713fdc",
+      "url": "https://files.pythonhosted.org/packages/93/49/60c8a57e63f4c0226b7db45b04698c30dc769aae919a5f0fd1edde7f8e4c/phonenumbers-5.7b2.tar.gz"
+    },
+    "5.8b1": {
+      "sha256": "b0b068c77071303e34525d4258874f07c1faaed54e336120cb71a7cae09d9651",
+      "url": "https://files.pythonhosted.org/packages/93/f7/f39607bd2ff9a27bdfa736d60c54369f3dfbba3b36bb1a80a54f0bda25e2/phonenumbers-5.8b1.tar.gz"
+    },
+    "5.9.1": {
+      "sha256": "420fc2a0611d398044196b18ba342c50670b89c908839a2f6388591227c70473",
+      "url": "https://files.pythonhosted.org/packages/dc/7a/469c49766d351b8bd7ae10a624fabe5d4eb5b723808ea366f9a587f1f96f/phonenumbers-5.9.1.tar.gz"
+    },
+    "5.9.2": {
+      "sha256": "f0c653eb646f737e3514e4fce65a9554e52668bd63bd29b6f2fedaab34c77952",
+      "url": "https://files.pythonhosted.org/packages/79/3b/58ee185fb5078a786ab265d7477cbd282fa63f4c26298e0d63f1d3c4f169/phonenumbers-5.9.2.tar.gz"
+    },
+    "5.9b1": {
+      "sha256": "64dd8ea0b42f5bbc5f5e9bd42cccc94efcf89e54b7dbc1b073eb8d0681006795",
+      "url": "https://files.pythonhosted.org/packages/c0/21/d5abb2409593b5940f5319f04e8870d3349894f5ee3d16ae9a3934b7829a/phonenumbers-5.9b1.tar.gz"
+    },
+    "6.0.0": {
+      "sha256": "21ea68ca4d07e36b413e119ed3ed24cf74e59735314ddd2ee4beaa0a415e13d2",
+      "url": "https://files.pythonhosted.org/packages/66/ec/efb3d3200cd5ead52a7cbf750b9406740d493ae4a7f3ef8303a42b3a0c58/phonenumbers-6.0.0.tar.gz"
+    },
+    "6.0.0a": {
+      "sha256": "bbc3256ccaa417c6b0262ba57d86245b7fc8227b4fe71d9d245268f02c7dab2d",
+      "url": "https://files.pythonhosted.org/packages/27/8f/bbd210a477e361aeeaeae9e01a2212e639dc8baef7ef2b1ab12828aac72f/phonenumbers-6.0.0a.tar.gz"
+    },
+    "6.1.0": {
+      "sha256": "729f65f7d8cc901ffdaf674dce67f3193e78c01bf3ab91bbe4e9d071b4484b29",
+      "url": "https://files.pythonhosted.org/packages/62/4a/7520e983917455599d49ceb51f1634a1bba6988496b6d0848367c92b2f88/phonenumbers-6.1.0.tar.gz"
+    },
+    "6.2.0": {
+      "sha256": "30ca5cb631339849b9698abea2f2e0c6b11adfdddb62136c02833654d3658777",
+      "url": "https://files.pythonhosted.org/packages/2d/12/69e2b2cfcb1da64792db1517bdecbfeb9677b3e5dc4fffc9cd8e802d7a6f/phonenumbers-6.2.0.tar.gz"
+    },
+    "6.3.0": {
+      "sha256": "b4d28533524e34bf71b49980f6f634496200f2a73b182db9cbfa38760e33e7bb",
+      "url": "https://files.pythonhosted.org/packages/fc/9f/a1b91d5732d40a88aeadfcbe053808da89ef2df790fecd5ac2e7c1e13519/phonenumbers-6.3.0.tar.gz"
+    },
+    "7.0.0": {
+      "sha256": "5ca90e97d62d37895ba7f7cdfed1e398acca3c894a3921d9b622e766a7dd0997",
+      "url": "https://files.pythonhosted.org/packages/cf/a3/fd14196c080be479601a1d560c520625cc5f89fc0d3d5dc6a38720c28623/phonenumbers-7.0.0.tar.gz"
+    },
+    "7.0.1": {
+      "sha256": "d7f1e71c629a93790bd0ac95c8ce32006edd3e7c68659ada06cbef524c8506ec",
+      "url": "https://files.pythonhosted.org/packages/f4/a9/0bc70c5965e2cef7814800a12ffe5105d5bab4a80024434b4517f91a0204/phonenumbers-7.0.1.tar.gz"
+    },
+    "7.0.11": {
+      "sha256": "2211665aaa5e4b7ec6f27e3424d99ef77e3e39f879dd13e90e98a9ab47d2d1a9",
+      "url": "https://files.pythonhosted.org/packages/f5/57/d9741159d8f9f122058bbd4b226107c36968b754b41def950f77dd105a67/phonenumbers-7.0.11.tar.gz"
+    },
+    "7.0.2": {
+      "sha256": "c7eac27c6ab2d1f5a4930918b75ed87f59c4f0365a1593a7a940ce743452f4d6",
+      "url": "https://files.pythonhosted.org/packages/d6/88/79634370abb7ae70b52085730257e596f742d369d9344dce28f34ac81e72/phonenumbers-7.0.2.tar.gz"
+    },
+    "7.0.4": {
+      "sha256": "06577b73028ab8fc3e95be785245c335e0ce50b7b3081f87733c95031cf19f8f",
+      "url": "https://files.pythonhosted.org/packages/15/9a/e2b155076eb422efa6e03238242fd4086a3be03a4da659c9a2f0bdbb1dcf/phonenumbers-7.0.4.tar.gz"
+    },
+    "7.0.5": {
+      "sha256": "6841e85dbdec1d3d12cbc9129ecc6a15caa3e92338c6855e53609fd4117262ef",
+      "url": "https://files.pythonhosted.org/packages/ab/f7/91ce38411cf430200ba770e33eed3e0e2f9ae2449ff8be8ed043575a5f24/phonenumbers-7.0.5.tar.gz"
+    },
+    "7.0.6": {
+      "sha256": "70a811a696587dc276e653426ef15048ef5e0b607b7e1dba245fa8524fa4f2bf",
+      "url": "https://files.pythonhosted.org/packages/d4/43/ba08646430de7cdfe7cc2a7dece259da3dc5d5d81144d6b36b5e49c28ca4/phonenumbers-7.0.6.tar.gz"
+    },
+    "7.0.7": {
+      "sha256": "d6e800747b7f6f2b45b00565159fb2b00ec9415a421f4ec745d29d85d0221048",
+      "url": "https://files.pythonhosted.org/packages/fa/f9/6f8c7426472cf7c19718c2d93bd747d6eed4da54b4afd3e5edc5ba43a717/phonenumbers-7.0.7.tar.gz"
+    },
+    "7.0.8": {
+      "sha256": "4e3f40cb1e58eb5de8b9f861b8b6143ed49110880076b43b342dec5f101bdad8",
+      "url": "https://files.pythonhosted.org/packages/67/0a/d764f9154c708fe361261b45f66a49338cbcb09a527186fa8a0fa328f091/phonenumbers-7.0.8.tar.gz"
+    },
+    "7.0.9": {
+      "sha256": "8ac8387f8044da0012c434b865a6c9ffe37d9631e35b17a244f97cee8577d37e",
+      "url": "https://files.pythonhosted.org/packages/b5/df/1e264780ba88fdd0c4b5ae260d5e45e2d67043267ffcff8e51ca1a54b9a5/phonenumbers-7.0.9.tar.gz"
+    },
+    "7.1.0": {
+      "sha256": "d93f27722950e83f0181cb79339955725e8fe1f9e6ebd6577371ca82a11d91f9",
+      "url": "https://files.pythonhosted.org/packages/b0/a6/9e06085d3de55e4ea208a5aa0cd69e77a04cd5c513b5daeeeb8026adbf9e/phonenumbers-7.1.0.tar.gz"
+    },
+    "7.1.1": {
+      "sha256": "5775d685582ddd62736966d06765ba3334a096250ee9656b8c80ce73fdb9d6be",
+      "url": "https://files.pythonhosted.org/packages/2c/0a/dde66fc396c74db4d0beb96c5f870576d6a3fd5ac82ff1408cbf0d9cc862/phonenumbers-7.1.1.tar.gz"
+    },
+    "7.2.2": {
+      "sha256": "9fbe098b01a022423fa8ac95fe6356322ba83994105439170e3ca7e44df900f2",
+      "url": "https://files.pythonhosted.org/packages/2d/ed/ee0003f4d0a9ef881bf8eb36c4c33263d0102267363a0fe1cfdf3131000e/phonenumbers-7.2.2.tar.gz"
+    },
+    "7.2.3": {
+      "sha256": "5799431ed378c1e7477de8598107519d98f105176f7ede4eae77f98772dfa58a",
+      "url": "https://files.pythonhosted.org/packages/4e/6c/ad300ebd46f05e9a36843df670e2caf020879d68faafe3b5385d2a867b92/phonenumbers-7.2.3.tar.gz"
+    },
+    "7.2.4": {
+      "sha256": "ba5f3a7c3a1fa25593f844f0709a938de61d491d980cf85cbfb931f41f44cf7a",
+      "url": "https://files.pythonhosted.org/packages/67/b6/14fa8d527767adb8e0298ad23b585bb9c36df4c7ac0c8108234bdd836f80/phonenumbers-7.2.4.tar.gz"
+    },
+    "7.2.5": {
+      "sha256": "2fa317b720dc17313724109f62b583f48803ca9487f34af9f500eaebb6eaf791",
+      "url": "https://files.pythonhosted.org/packages/d1/bd/7ca1efcbbe6e242817af6a45a652660f1b57afc1d2f6a737f34442a9ab82/phonenumbers-7.2.5.tar.gz"
+    },
+    "7.2.6": {
+      "sha256": "673a7ea919a9cf5d2f4b784c203c098cf3528215df8bd26f79df2b7ea791c2c4",
+      "url": "https://files.pythonhosted.org/packages/6d/0d/37b5fa0f44a9b500eca782addff51c8645fa96331818757160027506aafb/phonenumbers-7.2.6.tar.gz"
+    },
+    "7.2.7": {
+      "sha256": "50edd33ed1d63de2a67ad0cb9698354a3df6326dbda27bf1fb99402ef0434354",
+      "url": "https://files.pythonhosted.org/packages/69/01/ba106aad4fe79fa988d715e9ef32f8b8daba8bf2881d0389b3faa4a6ec51/phonenumbers-7.2.7.tar.gz"
+    },
+    "7.2.8": {
+      "sha256": "eae307ac31739500397f50e6ecc02b33851d08d52b30a94d00dadd9f4c03204d",
+      "url": "https://files.pythonhosted.org/packages/6e/25/b7b582e82357a94b890296029df62e578261bf76f9992d962dd2bd1d0c5b/phonenumbers-7.2.8.tar.gz"
+    },
+    "7.3.0": {
+      "sha256": "a8eca3ef783c60088ff40a107ab518523002dc33d98960c132f3a5183be31912",
+      "url": "https://files.pythonhosted.org/packages/f7/f5/60cdb1850f1a45b08dfd285863db91b1d49e5d743567367973ee4a8bf9c5/phonenumbers-7.3.0.tar.gz"
+    },
+    "7.3.1": {
+      "sha256": "56cfe25cd6adfa0689b1aac220a27588e2ba24f765463cb762693dc973adc0f7",
+      "url": "https://files.pythonhosted.org/packages/2a/b7/826b3b82bd63859ff264b0a3054dc6ddf3ac92c4eeec51ef0bae0371fdb0/phonenumbers-7.3.1.tar.gz"
+    },
+    "7.3.2": {
+      "sha256": "935a95974bcfaeb691554e93cc169131223db54adfc241a838788b43d25dbff0",
+      "url": "https://files.pythonhosted.org/packages/a8/7e/526a2d230d039e3618e5b50c6696e137b69596faa4aeb37f831c8ebcccac/phonenumbers-7.3.2.tar.gz"
+    },
+    "7.4.0": {
+      "sha256": "07a3ed50f029821fef3411e89f6dc83ca0b6b636eff557bd317801f7b1d94c60",
+      "url": "https://files.pythonhosted.org/packages/a0/8b/e9ab874a69c15ab3d7d7343bc9a98d467885ca75bf8b5d970a040a7d89d8/phonenumbers-7.4.0.tar.gz"
+    },
+    "7.4.1": {
+      "sha256": "eb018dae3a08bc03ec1c048f558bcfdb42f4de9cc611852f852c1d72ab4431e3",
+      "url": "https://files.pythonhosted.org/packages/32/69/fe5a51f6da899fbacfa864db48d0f641052948f1dac674c8053cc752ff43/phonenumbers-7.4.1.tar.gz"
+    },
+    "7.4.2": {
+      "sha256": "51754feaaa59cdf1f62f25b8edad7fd6e4667e764390bcdd16ffbd65122dd7ca",
+      "url": "https://files.pythonhosted.org/packages/29/26/d986cbce56cbfbc182dfe726f086de8d434e181178e3d06f79495b5148b5/phonenumbers-7.4.2.tar.gz"
+    },
+    "7.4.3": {
+      "sha256": "0c15249588905f35e0efaa676c4d2b511a8dd5efa673765ac6b5469cb03f8d9a",
+      "url": "https://files.pythonhosted.org/packages/d7/50/cf4815cf1951135cdc8f3a1f786b22b50627a2cadf3a9acfcdc8bff21a9f/phonenumbers-7.4.3.tar.gz"
+    },
+    "7.4.4": {
+      "sha256": "619a6e89b1854b3134218f0e5be4cf38d1776fc84847fb3e674065b28d7e56a5",
+      "url": "https://files.pythonhosted.org/packages/c4/79/f23826cc83115f5fb147aabd93054cad1ff0835ad120a602e3e83679ddfb/phonenumbers-7.4.4.tar.gz"
+    }
+  }
+}

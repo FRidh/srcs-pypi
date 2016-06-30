@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Binding for the OpenBSD pledge(2) system call",
+    "homepage": "https://gitlab.com/i80and/pypledge",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "5821fcd59b9a3279f9f3850ab68374f9a6ee21e1e5a039b7f0255069dd00a2e9",
+      "url": "https://files.pythonhosted.org/packages/28/a3/f606f1cc4d76f3804d0b092c13b9de7bc4908d32ced0c18ad63f06df7e1a/pypledge-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "2e9af0a5a262870264b54bb5909d02e2a0a97325198a73c85e76b771b05263b1",
+      "url": "https://files.pythonhosted.org/packages/85/01/c36f1a1ab206ad71b1009875bab10670896f34cd949066c7dde233b8bacc/pypledge-0.2.tar.gz"
+    }
+  }
+}

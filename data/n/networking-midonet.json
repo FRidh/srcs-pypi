@@ -1,0 +1,52 @@
+{
+  "latest_version": [
+    "1!1.0.1"
+  ],
+  "meta": {
+    "description": "OpenStack MidoNet Neutron Plugin",
+    "homepage": "https://www.midonet.org",
+    "license": ""
+  },
+  "versions": {
+    "1!1.0.0": {
+      "sha256": "030157ebea788525dcccbc46426f1973e0c0bb27f26ae8a87f97fe9d5bbddaaf",
+      "url": "https://files.pythonhosted.org/packages/a6/2a/1a325287630c3bd5f096b4e657936fc3a74b55ca9bb0bfecd50b20220b70/networking_midonet-1%211.0.0-py2.py3-none-any.whl"
+    },
+    "1!1.0.1": {
+      "sha256": "291c390176ed3e496f29f15428879dd81298cd505f643b10423e52b3deba9536",
+      "url": "https://files.pythonhosted.org/packages/d6/df/a5706f7a1f5808c6aa27a35787dc0cdf3334e56ccf332cf708ca82f7960d/networking_midonet-1.0.1-py2.py3-none-any.whl"
+    },
+    "1.0.1.dev28": {
+      "sha256": "6550a20ccfb47e6ec23b7023df5d4b3e9366d9209bc41ff274849e132ba39e18",
+      "url": "https://files.pythonhosted.org/packages/e3/b1/3a7c1e6a5ec4ae7cd5393faaadecb9b125f9f8d29e21f9f56397b8700c80/networking_midonet-1%211.0.1.dev28-py2.py3-none-any.whl"
+    },
+    "2014.2.2": {
+      "sha256": "7b65145f1ef772b6b7a6b258878c8842d381f8cd77291d0f5f2cd0af7a6d6a96",
+      "url": "https://files.pythonhosted.org/packages/ea/8e/c6563976182d0bd0fc22dc9914165a7231ce3c196f170f20f658d04af220/networking-midonet-2014.2.2.tar.gz"
+    },
+    "2015.1.0": {
+      "sha256": "f6764489af9dd2b192493c55bb9f732e989464c27aff02a37453f63025f4793d",
+      "url": "https://files.pythonhosted.org/packages/01/5f/15b609c0dceb4b5ea80f79d93a68bc92277ca5b23b1d5b04e21bd978cbb6/networking-midonet-2015.1.0.tar.gz"
+    },
+    "2015.1.0b4": {
+      "sha256": "da1e6e011ee14d3662eaf5247b97653cc53255dbb9a0dac635422d09418486df",
+      "url": "https://files.pythonhosted.org/packages/55/70/fa64d313ff47555e0e20a3fa1cf0d99c0337feed3bad6a0bd3b80bf7697f/networking_midonet-2015.1.0b4-py2-none-any.whl"
+    },
+    "2015.1.1": {
+      "sha256": "232604343ab525b0f728be7eec703e35ed849568186191a12e3dc64b1653e518",
+      "url": "https://files.pythonhosted.org/packages/83/9c/99ce40ceada54a952012360959376b691fd321b0fa3b55af44d8bf32f684/networking-midonet-2015.1.1.tar.gz"
+    },
+    "2015.1.4": {
+      "sha256": "ca527e5a0aedd22d5ace3b99e0eafc064e64b0cae5e7bd1499a3fa888a4d6af5",
+      "url": "https://files.pythonhosted.org/packages/aa/fc/23c35ac4c5b8f6f9289eba2de7043f9240dfc1bc88f1be027387b71d8e23/networking-midonet-2015.1.4.tar.gz"
+    },
+    "2015.1.5.dev5": {
+      "sha256": "d91521fcd93979124e79de2d31388fa4eeed84bc88ad5843ef540e6532131ef2",
+      "url": "https://files.pythonhosted.org/packages/c0/bd/aa1b87c073c9d245d8839756732590ef06ac65e423aa4e49226d49909c30/networking-midonet-2015.1.5.dev5.tar.gz"
+    },
+    "2015.1.dev1": {
+      "sha256": "ed245610b452fcbc2872420bec9d4a1e4075bb915fbfb0c8e8129142f331e732",
+      "url": "https://files.pythonhosted.org/packages/ce/96/51a71f86e3768143c3ed0e5350527816018a2260ef408f47c02daf2e237d/networking-midonet-2015.1.dev1.tar.gz"
+    }
+  }
+}

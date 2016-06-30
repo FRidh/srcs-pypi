@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A simple wrapper around python-keyring to store and retrieve sensitive information like passwords and API keys from Shell scripts and Python programs",
+    "homepage": "http://bitbucket.org/sramana/vault",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "2b29d02afc749f7c7c33d89e1aa988e9feba1c82581594e971516cd0548b2e81",
+      "url": "https://files.pythonhosted.org/packages/87/77/e18577e766134fd17193e2db0f4669ba5d9abf898602934775d358df4528/vault-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "173f88fe8f3d6a851885ef00694ef56afa3f70ded9b2b9590e2d847b1a61fa00",
+      "url": "https://files.pythonhosted.org/packages/3d/e5/04ed58385118c2e92f4dc23458a355474e27bf1eb0e684d0f9523d0f6a36/vault-0.2.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "latest_version": [
+    "4.0.0"
+  ],
+  "meta": {
+    "description": "Creates Cloudify Agent Packages",
+    "homepage": "https://github.com/cloudify-cosmo/cloudify-agent-packager",
+    "license": "LICENSE"
+  },
+  "versions": {
+    "3.2": {
+      "sha256": "999848d1c302cd61d0b94714e69d7443f568353c9df5c4da0371c24a99159a8b",
+      "url": "https://files.pythonhosted.org/packages/3a/df/f4046b00e913f503049c02e3dd8238bfd5dd5f46eb0dd6942843c93abc01/cloudify-agent-packager-3.2.tar.gz"
+    },
+    "3.2a2": {
+      "sha256": "c469fdb64ccb5103ca6ac233788dbc962f8bae6d7a296128e2c58c5560c8108c",
+      "url": "https://files.pythonhosted.org/packages/44/33/81a0fff8f5197865cbcad3eecd4fd6ed404f7005614eb4c1971cb1237382/cloudify-agent-packager-3.2a2.tar.gz"
+    },
+    "3.2a3": {
+      "sha256": "402efa1d643ee1f290efc0ce9a084cb40edfb2590dcdd48f5677a99b7ffd9897",
+      "url": "https://files.pythonhosted.org/packages/7b/5b/64453f88496749a836505322fcaf7b24621446d64a3b51b96af01a8b5add/cloudify-agent-packager-3.2a3.tar.gz"
+    },
+    "3.2a4": {
+      "sha256": "6a89c06b4cac8f88cc0788010865b970dee67a5c585d8ea7b39d20e9cb4bb476",
+      "url": "https://files.pythonhosted.org/packages/22/7b/45254c1dc4734e4b9f33a5c34fee2b354c5e71354b3b60c2faaa941513c8/cloudify-agent-packager-3.2a4.tar.gz"
+    },
+    "3.2a5": {
+      "sha256": "62d1b754be580cb37fc79961a45ff107261d1715c2871edf3d2b9319b29ab553",
+      "url": "https://files.pythonhosted.org/packages/18/3a/34d464763e0086a6c2b0e71d78be148807109000079bfabd0ba0e76e09dc/cloudify-agent-packager-3.2a5.tar.gz"
+    },
+    "3.2a6": {
+      "sha256": "f483f3a7a85e76dbc76a9318e10f052ea8ee481aa5e98ba84d98b9472f51315a",
+      "url": "https://files.pythonhosted.org/packages/5f/cd/271b4fd39f1788d9a4e51e0386590b9a27ab0a15ca9c6cd11ea6e3787d99/cloudify-agent-packager-3.2a6.tar.gz"
+    },
+    "3.2a7": {
+      "sha256": "932bb8433c7f896534ec87d5fd779403372dceadb6c13e0b83f6a98f6d928ae5",
+      "url": "https://files.pythonhosted.org/packages/c4/6f/818895baaff7f4c26521db6ca56ae2be306da52f9832e0b0010d440d3b15/cloudify-agent-packager-3.2a7.tar.gz"
+    },
+    "3.2a8": {
+      "sha256": "78fb170d5dade26b060886329ce55c26d0611982e1f6287c8203039e2a04b8f2",
+      "url": "https://files.pythonhosted.org/packages/13/19/10d0854f15bc96c1757e073f393e3665550493569657459ea465e5cfeb45/cloudify-agent-packager-3.2a8.tar.gz"
+    },
+    "3.2rc1": {
+      "sha256": "bf0f126dbcd73b02543f3ee5e02733ea8d79b6edd6946c7ab86e3f5b4f6c1251",
+      "url": "https://files.pythonhosted.org/packages/bb/97/747004487679ec4f770bdc224199fe754f0449605b4adc4e3974a5ff2135/cloudify-agent-packager-3.2rc1.tar.gz"
+    },
+    "3.3a1": {
+      "sha256": "88d462b9fd8e7ecc7f5e2011f78085fc8c7c50208372a7187d2ab2cb3bc9ca4d",
+      "url": "https://files.pythonhosted.org/packages/77/fe/b61aae01a01c6900375f9a075b2459fa7538a52bd47213dd9c8b651ae672/cloudify-agent-packager-3.3a1.tar.gz"
+    },
+    "3.3a2": {
+      "sha256": "e13e5525771fb2c2eba893e2aa6666dbc163a40fa3947763dee46bae6f742900",
+      "url": "https://files.pythonhosted.org/packages/1a/af/a26ad7a0fba05c90cebda84b45ab025d6ff95a3370297a481aa2f7697d77/cloudify-agent-packager-3.3a2.tar.gz"
+    },
+    "3.5.0": {
+      "sha256": "a94d94d8ba7ede42ceef6a1fd99795d309505a7dbb2a61f250f11110af3268d5",
+      "url": "https://files.pythonhosted.org/packages/c8/e1/665c7dfe16ecda0cbccba5a27a1a53cbb70ec32db64d37730280c7a84598/cloudify-agent-packager-3.5.0.tar.gz"
+    },
+    "3.5.1": {
+      "sha256": "5075c66892ca789b2db9a8c313da99a3d81a42f623617feca7bde93434258eb6",
+      "url": "https://files.pythonhosted.org/packages/c8/48/a67489317253ba95db2fb108d2b3cb2548ab3014320038d1feb1860254ce/cloudify-agent-packager-3.5.1.tar.gz"
+    },
+    "3.5.2": {
+      "sha256": "88cd3bc056d260d07c58ab38ddfadedeb82479a135b262628e093a05c1865169",
+      "url": "https://files.pythonhosted.org/packages/e1/15/4935c5c0a0e71954f7dee48de1a8f1037502ad108cb30768d28b7a8e127d/cloudify-agent-packager-3.5.2.tar.gz"
+    },
+    "3.5.3": {
+      "sha256": "fa4da3b2072a05a9d2bbaa35a37622c64e8dc4c83be8b0c57bce9f75382bdd23",
+      "url": "https://files.pythonhosted.org/packages/81/8a/cb244478fd15c690444d70152986a9b22514eeb628b5b5f6f846734c02dc/cloudify-agent-packager-3.5.3.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "cc65c7f22712fdc801e703b43045111f022984e539b4a3b3e1159bb7ccb70267",
+      "url": "https://files.pythonhosted.org/packages/e8/fc/64ba83db556cd8e9814e4334396907e858c71f67bea6486d7d122cd418da/cloudify-agent-packager-4.0.0.tar.gz"
+    }
+  }
+}

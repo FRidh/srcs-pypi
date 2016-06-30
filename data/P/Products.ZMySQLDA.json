@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "3.1.1"
+  ],
+  "meta": {
+    "description": "MySQL Zope2 adapter",
+    "homepage": "http://sourceforge.net/projects/mysql-python",
+    "license": "Zope Public License (ZPL) Version 1.0"
+  },
+  "versions": {
+    "3.0": {
+      "sha256": "98dcbec338a705210d8aa23562bf98b619dad50da5e1277cdecad311f5b66a0c",
+      "url": "https://files.pythonhosted.org/packages/91/38/0cddefaef6582786cbb25d90d1e3b5d8f0a2be112544318cfb172160bee2/Products.ZMySQLDA-3.0.tar.gz"
+    },
+    "3.1": {
+      "sha256": "febd2b1a80dc57bc2d81d97a9a40e959fd8048835368818c7ab5407acf6d444e",
+      "url": "https://files.pythonhosted.org/packages/83/8f/557376affcfce29e03485589f263af6ffb308fdce5b0af5bff6114780e03/Products.ZMySQLDA-3.1.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "b528c647da1f6d454b8bfea786babbfa30acebb4f8cea0ae0974d1fbaff474e4",
+      "url": "https://files.pythonhosted.org/packages/c0/70/c42da1cc4fa537a2f3a747c55812985dd940724264a279eb6b4f13b1e864/Products.ZMySQLDA-3.1.1.tar.gz"
+    }
+  }
+}

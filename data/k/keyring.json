@@ -1,0 +1,395 @@
+{
+  "latest_version": [
+    "9.3"
+  ],
+  "meta": {
+    "description": "Store and access your passwords safely",
+    "homepage": "https://github.com/jaraco/keyring"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "c5e19bfd138034a8d3193a5c5314493e51a90a0c4bb78db87c0a0451aa7327a8",
+      "url": "https://files.pythonhosted.org/packages/aa/bc/8f61aa1822e419dc65c22c9b9bc6044f298f14e30b820c35c2a09efbf6b7/keyring-0.1.tar.gz"
+    },
+    "0.10": {
+      "sha256": "4bac76401aa749746c122e57f50e6bc430596229636caa99a6fb791d0fcaab9d",
+      "url": "https://files.pythonhosted.org/packages/45/94/6a28a95091641bb4706fcb2c02ddcc324ab4b9c3ebbbb9efad889ea8574d/keyring-0.10.zip"
+    },
+    "0.10.1": {
+      "sha256": "18967a5c25fc73b4d14205e3897a8ee13c97f072070f63620c785592801b375c",
+      "url": "https://files.pythonhosted.org/packages/a4/38/e3b315df1ed3cbe01ebd1bf09c808cf6b39d3cca723364329dbde87c512a/keyring-0.10.1.zip"
+    },
+    "0.2": {
+      "sha256": "05585abc75f50e625f46d90c07f7707da19050ddc2a89dfe92081a3ed0328f13",
+      "url": "https://files.pythonhosted.org/packages/f8/da/903dfa345aff02ac332084f9cbb722db38ff1f87aa34a7ab8b5c1fea74d5/keyring-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "bb9fcb99dbf5d89a9ca242def888810b6bbd7b3d08486c8f85750a38e7d71d84",
+      "url": "https://files.pythonhosted.org/packages/96/20/8405a1bcfff3add71f18654f4954950361d1385bd67e121c0b1f08d2492c/keyring-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "01caeb7a388e13b9a93f9f8b912274e14a70c2882b0730ef6ead6303ec8f60be",
+      "url": "https://files.pythonhosted.org/packages/1c/6b/0ec6e6ba676ccb99dcfdf535c9e34ca7563ea467ce2a1277edd5bed66d20/keyring-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "dd943b344f3f4748a12936337e1b974ce713cda177c7cdaeed2a1c912fe660c8",
+      "url": "https://files.pythonhosted.org/packages/0c/b2/c4403909fc7353f415375b3ff54b4bb48989dd67fbc9c055aa533ca26f2b/keyring-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "b604aa35a488a726140033c0278ee419c1acd13d40905bb4c471c30378c04219",
+      "url": "https://files.pythonhosted.org/packages/4b/f5/c205560410b66ef53a26ccf6b2598ebb9c523161a5273c72dbc38faa751b/keyring-0.5.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "67958427296147bf66560627578857ad4202deca419576aacc2dd67939b17ef8",
+      "url": "https://files.pythonhosted.org/packages/ab/08/16e0d89ff30b52faf73c9d213b862bd162657b48ff3e70a7a352cff03443/keyring-0.6.2.tar.gz"
+    },
+    "0.7": {
+      "sha256": "af49710b8d3effdf462078568b376ff51e84469b91da33f6f139c63d234faf68",
+      "url": "https://files.pythonhosted.org/packages/db/e1/c68e7dbdce926c84a0949b0145a4cba0bae092d420019655c0ab1c277c19/keyring-0.7.zip"
+    },
+    "0.7.1": {
+      "sha256": "11487ff2549adfdb1203c113fca56f778aee54e9a0cec2e5d8cbb7289179cf1f",
+      "url": "https://files.pythonhosted.org/packages/dc/04/93d0c5c54520ae1cd209c12455e96210fffc530383315b17884b610b5ba8/keyring-0.7.1.zip"
+    },
+    "0.8": {
+      "sha256": "0880615b5e5250d5a6dc75069a40f40e1234eac3d4ed709022deb0b977d5f5a6",
+      "url": "https://files.pythonhosted.org/packages/89/5f/b570dece7d918e7203b77a05f664d16f01104193811084ff9a252edac828/keyring-0.8.zip"
+    },
+    "0.8.1": {
+      "sha256": "634539e25028e053103432ad4054ea305ffc4424a2e9334ecb1de76b343682b7",
+      "url": "https://files.pythonhosted.org/packages/c8/d3/323e25640e7e7a9265bd50727d33e0b758806cbffb92873b56a82e8df345/keyring-0.8.1.zip"
+    },
+    "0.9": {
+      "sha256": "a4d3d7b78cadb261ba1130ad03456f5a09c530e0b0aa5268d02e3ce57d0eef9f",
+      "url": "https://files.pythonhosted.org/packages/21/cf/b4fb44b996ef3f9d88af428bae93e2a6d946a89dbc81f3fa64b601216ad7/keyring-0.9.zip"
+    },
+    "0.9.1": {
+      "sha256": "ef9fad76daeadd4ea2f8992e768d8dd873c812dd4c226cae1e64ccca4627377b",
+      "url": "https://files.pythonhosted.org/packages/41/82/9a4ab76a46fa4d8cd84f6dd52add506a5b76d3ccc52f6a3df8c2d0976203/keyring-0.9.1.zip"
+    },
+    "0.9.2": {
+      "sha256": "3495c72ec6fdefd6da3a7271acac89903e6ffdfb984a71a3e087c49538351c30",
+      "url": "https://files.pythonhosted.org/packages/7d/34/a0caa8c29fa3db34ad143ed0a038e5e2330c4a676b49964eb3b89165d26b/keyring-0.9.2.zip"
+    },
+    "0.9.3": {
+      "sha256": "57fe0a7155fba97589db169df09bd4eb68e920348baca39705aab17ad4da99da",
+      "url": "https://files.pythonhosted.org/packages/22/ee/48cca8b51704a420280570e209cfa43e4ec433a9fb08a02a3e5e7d50226c/keyring-0.9.3.zip"
+    },
+    "1.0": {
+      "sha256": "628070bfb2daa080c98ddb3057a2f802cd1d15720ca40e54bdb2aa39d97485f9",
+      "url": "https://files.pythonhosted.org/packages/c9/e8/ec8dae086c35390184c620615af723781fc18f7b9b43643b4b0c2fbff0dc/keyring-1.0.zip"
+    },
+    "1.1": {
+      "sha256": "67d482063ff5374042a9878aa9185a7f6a5b06a9ec33312c0c3231583eedae2c",
+      "url": "https://files.pythonhosted.org/packages/cb/5b/6fb39f446bb7b477aa329b6d59fef7ea476a111aeff9b5817e4e837d29a4/keyring-1.1.zip"
+    },
+    "1.1.1": {
+      "sha256": "786550cf8afdea5ede9811ba714775af706b3c61bd8232c7064da2ec54818ba2",
+      "url": "https://files.pythonhosted.org/packages/e5/31/d737e8dc2fd4dbe0ea539bb2f65b321ea787dd4da8d3f68035eb14bf7d70/keyring-1.1.1.zip"
+    },
+    "1.1.2": {
+      "sha256": "2317b2d62979c697344630b05e572272d2c7239421acba1d990d4b01cd00d522",
+      "url": "https://files.pythonhosted.org/packages/5f/66/b2b79f481e435f70a495c741ba96a7af8b0dce71b552d76cadcd73cb2925/keyring-1.1.2.zip"
+    },
+    "1.2": {
+      "sha256": "1a4b17ade8ce4e21f8ffcd860afa99fc6c6732c55a65407432c98b4e2e0358be",
+      "url": "https://files.pythonhosted.org/packages/02/85/95339b93974671b83458d940badc3ef26be9945cb737efeb9809991c1d88/keyring-1.2.zip"
+    },
+    "1.2.1": {
+      "sha256": "5adf2df816d40ef2d06f45141919cc01689b124e54cab2ecf25d23bac816cb86",
+      "url": "https://files.pythonhosted.org/packages/36/40/47ea62271b9f4138d075d783f9404700555ba4e4c2c35161c73e3ed26ac7/keyring-1.2.1.zip"
+    },
+    "1.2.2": {
+      "sha256": "20e4e34f15deca61d5a58edc1d2e5e3720cbdc340726d4918590036db6decfab",
+      "url": "https://files.pythonhosted.org/packages/5c/fb/b6bf830ffd3ab57faab562852056c5131818dbddebdc96eab684d8c24d26/keyring-1.2.2.zip"
+    },
+    "1.2.3": {
+      "sha256": "68d83ee3cd7e1bd24a9f8fbd39919fefa1f05f1329f24f0a086b100b6fb085aa",
+      "url": "https://files.pythonhosted.org/packages/3c/e0/4d54e225b526ffda9476e6a7721b6bf39476feb0f84eee99faf789ea961c/keyring-1.2.3.zip"
+    },
+    "1.2dev": {
+      "sha256": "ac63a7499c0de7dbfd401546b204834899f2659540e1ab6610294e1a3690e324",
+      "url": "https://files.pythonhosted.org/packages/07/38/1bbc3fc985359e2724bfbdaca421f49b73d8d32b6655687ed1d635540c8c/keyring-1.2dev.zip"
+    },
+    "1.3": {
+      "sha256": "8f3a1936b241332289c6c3a7bef0f380de8cd34e7e90fd6b3bb11ff6d51bb961",
+      "url": "https://files.pythonhosted.org/packages/19/e1/68762c41e0dea7848417d8273e02dbd1567a1f61d71aa01d09f27bf44f76/keyring-1.3.zip"
+    },
+    "1.4": {
+      "sha256": "9cd0212067475f47ec8dbcd9b6a11407a61da080cd80747ede0547a108781a0d",
+      "url": "https://files.pythonhosted.org/packages/6c/c9/ab61133a051a241b2cb07569df4e294b17f5403e5b780a32a3a0677499e4/keyring-1.4.zip"
+    },
+    "1.5": {
+      "sha256": "e7065e8584d3b9724413eaa42198f0b6433a3c097b620bb176fd1e340cfb9dda",
+      "url": "https://files.pythonhosted.org/packages/16/d9/76bebb1726ae12ca5814fe357c9916f18b09801b87943f468ac68da725a0/keyring-1.5.zip"
+    },
+    "1.6": {
+      "sha256": "a44a8c0010ddcd8bedb37bc9315e79e9dce6b4873ef9164d202c0ce88a7c7d4c",
+      "url": "https://files.pythonhosted.org/packages/25/c5/ef4161d754da1145f468787169337d2f6c8933ac905c174eecf36101ebad/keyring-1.6.zip"
+    },
+    "1.6.1": {
+      "sha256": "720a53234749edf0c103e61abe07a16b2ad48b46295c96f58fb804158a739a04",
+      "url": "https://files.pythonhosted.org/packages/98/cb/5b95701059ffa5a4c1b3fe1fa98556842325dda9cae407823420361cdb68/keyring-1.6.1.zip"
+    },
+    "2.0": {
+      "sha256": "a6acb1a367d4b74affa75da26325dc661bbcc2615d63cd6d07a3a979e4cbe23d",
+      "url": "https://files.pythonhosted.org/packages/5a/5a/79a6216fac1d974be9b49a518485e7c20cdb68723046181166d0f0f9577f/keyring-2.0.zip"
+    },
+    "2.0.1": {
+      "sha256": "580dc2d454fc67e8f1c2586e579c0ce615cdb8e261fa1c355fc359559ca4b4be",
+      "url": "https://files.pythonhosted.org/packages/42/22/5bcb7734980c85473a5e293f33fc0c92307ac5f0eb79bfbd38a60c5bf1d9/keyring-2.0.1.zip"
+    },
+    "2.0.2": {
+      "sha256": "d7519c84159aa4b387bbe7cfa37555b6b1c067e301d2ae01af7da0191d58f9e7",
+      "url": "https://files.pythonhosted.org/packages/12/9f/255827101f46ae6b889529626fc80084ed4e9cf218ff4ef0b027ed28ce97/keyring-2.0.2.zip"
+    },
+    "2.0.3": {
+      "sha256": "f992b2a7efd7e9b3e874c4c94b58f5b2edcc39fc05946be891a3bf5d9e750f18",
+      "url": "https://files.pythonhosted.org/packages/4e/bd/b92a36b1f01f519ef48eff5ad7d0cbba28365bf1f33c13a5ff99a64b7cb5/keyring-2.0.3.zip"
+    },
+    "2.1": {
+      "sha256": "bafafc762f9e569fcc39befcdcd3ad0dd7df3ceb76d95a1d549f3070e8cb6d27",
+      "url": "https://files.pythonhosted.org/packages/d0/52/1c6e91d312dd0abd852d32f5df863dc0ff236e3cf96f4b2fe78346ea6dec/keyring-2.1.zip"
+    },
+    "2.1.1": {
+      "sha256": "087f400522b426eabce096407975b42c30b0bf6b6c5b06c7a2410a0e95b2fd51",
+      "url": "https://files.pythonhosted.org/packages/80/1d/6a90607ef136ea861ef23b56290ce8c41ec230032deb04f4762c71b1b126/keyring-2.1.1.zip"
+    },
+    "3.0": {
+      "sha256": "f55f33d57678820cf18e96931597040371aa81761558d5c82888bf27c0490ffb",
+      "url": "https://files.pythonhosted.org/packages/ea/66/75c278abdf7a756e77cb27683389901a3d5e36ea2236385c872ddcc27e0a/keyring-3.0.zip"
+    },
+    "3.0.1": {
+      "sha256": "9033fc36f48cbf6d9c193c9d1bad53da358f326ad23a710e99a8fada0e232555",
+      "url": "https://files.pythonhosted.org/packages/94/bc/1c15d9f0a60c181a0ff19dfb10fe4afc4447acf4bcbd78154855cce6619a/keyring-3.0.1.zip"
+    },
+    "3.0.2": {
+      "sha256": "42f8492472e70eeaf2ff0212a8e8d8d5d47650e12645317a5c90f827a55b161b",
+      "url": "https://files.pythonhosted.org/packages/50/06/3be814a645b19a158f9d4336db36a50f4277954b5e5a9e908a55d28cfb31/keyring-3.0.2.zip"
+    },
+    "3.0.3": {
+      "sha256": "f73c17824247e4ccf35f85058dfc1c2aae4905e5e93ceb0e75e6d48784aa4821",
+      "url": "https://files.pythonhosted.org/packages/30/d2/efd8a67df6189b310d1b9740e0ab43664fedc83371faa1db3356803aecd9/keyring-3.0.3.zip"
+    },
+    "3.0.4": {
+      "sha256": "dc1991077953a24b4a1f69ccb7bafe800a1d38050e39474132de407805357860",
+      "url": "https://files.pythonhosted.org/packages/ec/69/a05f9165971ed2e54fde4848ac300419910f13e9518bcb79e74ca962109c/keyring-3.0.4.zip"
+    },
+    "3.0.5": {
+      "sha256": "c3f0665ee2d969170dcd6b9e83e76cc7fca2be5a40943700ce2624a0a02f9658",
+      "url": "https://files.pythonhosted.org/packages/ca/e0/c271455c4c3de0fcfb81b507c29227b5b31761cfd851cb988e7abb0e5145/keyring-3.0.5.zip"
+    },
+    "3.1": {
+      "sha256": "4aa49fa03e6d7b79e1490278c7610f6ff224f58ea8dd90b07541b69d0d178fa0",
+      "url": "https://files.pythonhosted.org/packages/d9/89/f578def6b6cf091b002072914e48411b724109a5882aece0d5c2a3cddcbf/keyring-3.1.zip"
+    },
+    "3.2": {
+      "sha256": "0eb739976a31d607e8af52ce735a09e6b9b18516d809951bf268657fe1658cba",
+      "url": "https://files.pythonhosted.org/packages/fe/cc/8f767fb1bceca498a2c885ccbd1f97b96d104b8e3fd5b53e535126410bd8/keyring-3.2.zip"
+    },
+    "3.2.1": {
+      "sha256": "047962a774393e60b4cf9d119400c7e83b99fa57f1bda898b4f5b4f7a228ab59",
+      "url": "https://files.pythonhosted.org/packages/6f/96/7cd7363664c1f5480e3e45a0a731225df680f3db32929f40aa65a5f2cb9c/keyring-3.2.1.zip"
+    },
+    "3.3": {
+      "sha256": "b42e0d335102cb2cace64289c86faa6686b6addad803b032bf564046e24d1936",
+      "url": "https://files.pythonhosted.org/packages/04/8d/279a1592e33e00b23a4d66d3a98ea02a929a5005426f44b29e2b013203ae/keyring-3.3.zip"
+    },
+    "3.4": {
+      "sha256": "a80a3e1662982d358a9c662cda24c87fe040dd4fb640aa20733fdde1d6768169",
+      "url": "https://files.pythonhosted.org/packages/e7/15/825eb08ed8f749e535179c6e4c943a072988159c28b2ef3eba46bf67927d/keyring-3.4.zip"
+    },
+    "3.5": {
+      "sha256": "a1baec708ce73671201675db5000a19961c8be70cbc426f0eb945311a9f38ece",
+      "url": "https://files.pythonhosted.org/packages/a1/ec/9175874b9e783f4588ff8cce620e9b8bf737e36f3d511e2f9dc40b1a7ed3/keyring-3.5.zip"
+    },
+    "3.6": {
+      "sha256": "0729f7219af2e38fe095de9c1369efb398407c94c8938c7a4b6a532941983a34",
+      "url": "https://files.pythonhosted.org/packages/dd/1b/e60611da99b591a0c1a628c6fb22ab7ecaa31a41a4c1ea1989b73a4daa7c/keyring-3.6.zip"
+    },
+    "3.7": {
+      "sha256": "e187358e6a9b8e63cc2e223f6f9d4c40c972c0076f4aa0d65b8c9eb75edbea02",
+      "url": "https://files.pythonhosted.org/packages/23/0e/6a35ee8a07c55d8ad1b7c5e00c7d3e931bab8c160383db1f5ba521695d62/keyring-3.7.zip"
+    },
+    "3.8": {
+      "sha256": "ef0b1a18aaf6792b73a6a6ce8c2f9c1a01dd27d4a5c0aab277fe3dce96fbaaef",
+      "url": "https://files.pythonhosted.org/packages/1e/a4/8bbb6053d0a2ea07cff4463876a34c4860014ff3d01febfa9207e1589b76/keyring-3.8.zip"
+    },
+    "4.0": {
+      "sha256": "ea93c3cd9666c648263df4daadc5f34aeb27415dbf8e4d76579a8a737f1741cf",
+      "url": "https://files.pythonhosted.org/packages/84/e7/169f583a34af9972590ed2f88b8274f618a08af42da1017b679ff4b5a648/keyring-4.0.zip"
+    },
+    "4.1": {
+      "sha256": "613087be1a0ad2870181ecc145b88459a576b6f434251cd559d41fc7f007760e",
+      "url": "https://files.pythonhosted.org/packages/28/74/e01b8862e1877e471bbd2bbf74901bc87daa7cc205ddde043709101c54c8/keyring-4.1.zip"
+    },
+    "4.1.1": {
+      "sha256": "34f4b7c5359e275c241e5f91e3e94d5df7e1c5c5e208a411d85dc78ad0081a7d",
+      "url": "https://files.pythonhosted.org/packages/6e/c5/ea523c2adb86cc77c5ebc7e9b5faa138814bd449d93e4a3a9a8cb4e0cccc/keyring-4.1.1.zip"
+    },
+    "5.0": {
+      "sha256": "66acfc292b5df51facc8b1926054dff1282f61a100fc740a7bdd33baa94f981e",
+      "url": "https://files.pythonhosted.org/packages/b6/5d/efaca4e2bcb3b6c1063fc608e7c5be50923857751090f7bf96a8007541e1/keyring-5.0.zip"
+    },
+    "5.1": {
+      "sha256": "e704a5f416870f7baeddff21deccdaf7c0702597379e45bbc35d14403855e4a0",
+      "url": "https://files.pythonhosted.org/packages/40/a6/0b1f67282ba7adf4db8fb3d051d01bc3b00f26eddc032669e4bcd20369c8/keyring-5.1.zip"
+    },
+    "5.2": {
+      "sha256": "388019fface10f8e4099327a895f446de56c4c3e6117f5b70d69e591358f5b07",
+      "url": "https://files.pythonhosted.org/packages/ab/fd/fdc964a12c9a886793da4b1a04a167b0df1c1c70a0e82a71095b097d0121/keyring-5.2.zip"
+    },
+    "5.2.1": {
+      "sha256": "8e6145bd0f42e297115836d7021085fb8e1eedcef226bc289a7e79fb3c44b599",
+      "url": "https://files.pythonhosted.org/packages/79/ce/2c2d06954fe7f8a5a2908d3baacdbe0135e7b6e160ceab97e7fc7416cc81/keyring-5.2.1.zip"
+    },
+    "5.3": {
+      "sha256": "ac2b4dc17e6edfb804b09ade15df79f251522e442976ea0c8ea0051474502cf5",
+      "url": "https://files.pythonhosted.org/packages/98/10/ba3c0179f98e0598873bd41312c476aecee41dafac527ab74e68e24927ab/keyring-5.3.zip"
+    },
+    "5.4": {
+      "sha256": "45891cd0af4c4af70fbed7ec6e3964d0261c14188de9ab31030c9d02272e22d2",
+      "url": "https://files.pythonhosted.org/packages/52/80/5bd3fa775cbafd9674afa07892fb19f16a45c1a1bd472e2c74feb5d45366/keyring-5.4.tar.gz"
+    },
+    "5.5": {
+      "sha256": "622be1072e92b855e6621f9e4b0298afdfbc2f388fb6f099605547b4268388f7",
+      "url": "https://files.pythonhosted.org/packages/20/cf/c2e94f4510a4d40b7cf3dc23180533428ab962c2022c4c048362c2f44d12/keyring-5.5.tar.gz"
+    },
+    "5.5.1": {
+      "sha256": "e4171401e0dd9a285a95e6323568001ed1cb039e598e6ea47754cb9855355d33",
+      "url": "https://files.pythonhosted.org/packages/61/c3/86f282e76b446c184c9cbc3accb96f6c1ae2e4af9d5e67ee292eea77d8a6/keyring-5.5.1.tar.gz"
+    },
+    "5.6": {
+      "sha256": "862e8c7ae689bd1e50bf5940c88317c3afad4b71d7c0e0748b273ef769c66adf",
+      "url": "https://files.pythonhosted.org/packages/6a/31/47978c83d5b1365f1ccef5a984f3fa4f5cbf823f5440a8d4e91b335047eb/keyring-5.6.tar.gz"
+    },
+    "5.7": {
+      "sha256": "5d388e459bb18da2e3540e475f5ac4e45eb8da0926c776ee117b5c098af43bc0",
+      "url": "https://files.pythonhosted.org/packages/97/0f/795c733afdc3ca5c053d2e365a218012773475fc963b14e5780139e00a52/keyring-5.7.tar.gz"
+    },
+    "5.7.1": {
+      "sha256": "3df352616b856a3aebd699ab2e946d4a6e3b0219e696d5416bfc4c16530eeac0",
+      "url": "https://files.pythonhosted.org/packages/bd/1a/aee31bcdabf380dfdecae296c07b8059870b5ae30dc027ff0db2b4a3e35f/keyring-5.7.1.tar.gz"
+    },
+    "6.0": {
+      "sha256": "002b835cb20983804745e980439578d998903be8a8d7768556e86b2d79a22e6f",
+      "url": "https://files.pythonhosted.org/packages/e0/9e/a96cfcee3ef3f220b8d3cc04384e66933d87083b2e525fe1e79a8033c98b/keyring-6.0.tar.gz"
+    },
+    "6.1": {
+      "sha256": "128256aa92f0bb810b0b55a611c7b3f895cbdbc5fae6947948339107417f71ca",
+      "url": "https://files.pythonhosted.org/packages/d8/02/e92054a24281f2f27833ac3dfca4c173d4c26778b4acd6023424f6d126ba/keyring-6.1.tar.gz"
+    },
+    "6.1.1": {
+      "sha256": "2ed19c67e4c4d32ef4ff60dfd16b80a5eabb6e980a77b4355787af3e26492a1c",
+      "url": "https://files.pythonhosted.org/packages/8e/16/736bdd209d373350e84616888a67f344d32f503a08295c08d3415e1c69ae/keyring-6.1.1.tar.gz"
+    },
+    "7.0": {
+      "sha256": "0531ea4f7a5942de7ff4d527b69cd95e3d97c75e2350591d8ec6452dc99bbf32",
+      "url": "https://files.pythonhosted.org/packages/c0/49/acfc10759a113451257fae897d3f8b4eaa8f66b2c239c5f671a7d42cf97a/keyring-7.0.tar.gz"
+    },
+    "7.0.1": {
+      "sha256": "610bd659bbb34cca9f45c3cb448639d8b502669c6a1a89b270a9c91ad97c742b",
+      "url": "https://files.pythonhosted.org/packages/d5/b8/6e4e246915555bac04688a5600a7998ee3f67bea0598e77c43aa22dab73b/keyring-7.0.1.tar.gz"
+    },
+    "7.0.2": {
+      "sha256": "e98c3d51d0e17efa1e7d4b2698dd7862f7bde54c5ef717b1ab17acb0ed4ff625",
+      "url": "https://files.pythonhosted.org/packages/b7/d6/7b9c159773ddfb7674dd2a6732c9cc9b4fe07c0a05eba37f824a5a31dfb8/keyring-7.0.2.tar.gz"
+    },
+    "7.1": {
+      "sha256": "043af5b846821584a199d6dcdfa060a10b985a50c5d457405d866fd455a442a0",
+      "url": "https://files.pythonhosted.org/packages/7d/02/882a74f08cabdb0c35eea6267fa722a82e3ac9cd196a640928f01fb0ea27/keyring-7.1.tar.gz"
+    },
+    "7.1.1": {
+      "sha256": "9c213501d51d0a67c242d64525f362f5499712d2ed49c443d441ab82979d016a",
+      "url": "https://files.pythonhosted.org/packages/35/90/a0cc112031621c77665781343f87740a1cdc25dd20ade7d82449ad8d2159/keyring-7.1.1.tar.gz"
+    },
+    "7.1.2": {
+      "sha256": "79ea3184aa7d76ba6d70bfe088c2696dd2c15d52edabf4f08cd7e40ad4e0c5e1",
+      "url": "https://files.pythonhosted.org/packages/d3/c7/988b82ebeebf914baad50ab86b819bf2ecb31c8ee198ff2187fc2795fc96/keyring-7.1.2.tar.gz"
+    },
+    "7.2": {
+      "sha256": "681776a0b3971bb4334f16c31f42698120ca60dcd2d7cfd10f1d4e2176f7f4c2",
+      "url": "https://files.pythonhosted.org/packages/92/19/a7baf8b245729c7798af6bf00b02d92e1e6a5286a4aa032c9f703baebc28/keyring-7.2.tar.gz"
+    },
+    "7.3": {
+      "sha256": "b42cd886c025fb86c09963d6fdb4010b508a5d6dbe278d6c2d8e7cef533b566d",
+      "url": "https://files.pythonhosted.org/packages/ad/9d/a0ca8198f05d7ba223a7b3e3c4b35fbc115d40963989b2c021ce7322dab7/keyring-7.3.tar.gz"
+    },
+    "7.3.1": {
+      "sha256": "2e4d925e49e48a44da836d2dcae42b8e0f899f7386131275708c27452d92b265",
+      "url": "https://files.pythonhosted.org/packages/7d/a9/8c6bf60710781ce13a9987c0debda8adab35eb79c6b5525f7fe5240b7a8a/keyring-7.3.1.tar.gz"
+    },
+    "8.0": {
+      "sha256": "85bf5c6ebc6f216fe80fec0f109ff0c411ab68951298a6d013a7b5dffcd81961",
+      "url": "https://files.pythonhosted.org/packages/7e/70/a39057f2ae0e27319d237fb39e71f1ef89272fd8d6513421324d461f573c/keyring-8.0.tar.gz"
+    },
+    "8.0.1": {
+      "sha256": "48fe4d51a3cd84145a0dcb926268e82cb75a93cf5b111f41081fef6ec507443a",
+      "url": "https://files.pythonhosted.org/packages/dd/cf/d782016512764ab7713d881a30d73d2f5399cc545b79c46d4e5a295cf334/keyring-8.0.1.tar.gz"
+    },
+    "8.1": {
+      "sha256": "a8af5dc445514f577fd9d6fbf7bc247dee951755458891b678abaee05937a83f",
+      "url": "https://files.pythonhosted.org/packages/03/63/1df8d54834f6ce2b16cfbc67314b06714fd46cf266f1c77562f9c604fef9/keyring-8.1.tar.gz"
+    },
+    "8.1.1": {
+      "sha256": "4b86b72ad2ba99b9e385e15a774aa420d7b39336aad5da05f7074167e1540f58",
+      "url": "https://files.pythonhosted.org/packages/9a/dc/6dc86267f181635540b05757ff1d817ecc84de7f5f00a71b6f244ed309fb/keyring-8.1.1.tar.gz"
+    },
+    "8.2": {
+      "sha256": "89d5392dfb82dce6610845a8dc52541ec7e46204fafe242d5c6994216cdc3580",
+      "url": "https://files.pythonhosted.org/packages/7f/dc/d02ac2ea8eb028eeab752181029b0fdfc5152283355a3992fa123769fb46/keyring-8.2.tar.gz"
+    },
+    "8.3": {
+      "sha256": "284f754d86bd176cd44f57fdc33b9d0decc0cdfc38f06eec649b5b1f93e40dc2",
+      "url": "https://files.pythonhosted.org/packages/84/91/347ca6096d477db00f00fb3a02d27acdae52f9818a926ce33b32aea539cb/keyring-8.3.tar.gz"
+    },
+    "8.4": {
+      "sha256": "45c54d972515514bc2464d9eae51e83cdd5955ccb8f6443541b03f0ea6d5196c",
+      "url": "https://files.pythonhosted.org/packages/df/4c/3f4fc0fe1c4e03697169582732e23a59ec474abc66beaa307771136c40db/keyring-8.4.tar.gz"
+    },
+    "8.4.1": {
+      "sha256": "59054102b7454704cf22040e2a41a320b2a46d5de511ba3a46268cf20ad40689",
+      "url": "https://files.pythonhosted.org/packages/60/4a/2b59bf55c0a94d9bc727e2fe3cc8710a4bdc10e235271c570ec49a22425e/keyring-8.4.1.tar.gz"
+    },
+    "8.5": {
+      "sha256": "0f203b6b63aabbdabc5f7dac365ee71fd96e28f06ca2c12053d85f0b90472f2a",
+      "url": "https://files.pythonhosted.org/packages/46/99/eecc8bcb4bfc40061bf79e4c520c7393eb3feccebd7397d5e76153f8c824/keyring-8.5.tar.gz"
+    },
+    "8.5.1": {
+      "sha256": "1e04dc88c868eb8a1bee020ec34edf597c65fe4e8d57828fe8345a6174cbffab",
+      "url": "https://files.pythonhosted.org/packages/ac/a8/dcac1c3f8684dc9c3c2b4ea700e50e34da3dfc146d1f8edd30f72f96c73d/keyring-8.5.1.tar.gz"
+    },
+    "8.6": {
+      "sha256": "92b28d9713ed77bc157680e95a3643a5777f5c3e0690e772c2f2da7df81ce46d",
+      "url": "https://files.pythonhosted.org/packages/4a/59/d8c08a8a42637b102ac70c9d5e175683c247ad13a7e55f9c0ddc8651faf9/keyring-8.6.tar.gz"
+    },
+    "8.6.1": {
+      "sha256": "c9c8376201ed10522104b45b6786e2d5c3ba72148c7f49cefcbf2f1dd8da9018",
+      "url": "https://files.pythonhosted.org/packages/80/bd/4925618784cb8017f96a3ca6432f8b024278210fc00d8631223cce7f533f/keyring-8.6.1.tar.gz"
+    },
+    "8.7": {
+      "sha256": "dd7dd8f9dc24abf7dae9655beed6d2e1f720b0ff18fd292847e79a2e62cd0211",
+      "url": "https://files.pythonhosted.org/packages/54/21/0aee36637f48110b3ac524e9aabf70c004c3d4841cc64242ff0b19cdadd7/keyring-8.7.tar.gz"
+    },
+    "9.0": {
+      "sha256": "1c1222298da2100128f821c57096c69cb6cec0d22ba3b66c2859ae95ae473799",
+      "url": "https://files.pythonhosted.org/packages/b3/57/570bd1ae514dbe2c2764fed003f0118cc2218af3d2576d24fe30e2e959c7/keyring-9.0.tar.gz"
+    },
+    "9.1": {
+      "sha256": "a5812697e2cfbe7ca7eafe1906790e6d97418daa9e7e6cede9f2eadd69c5cbe7",
+      "url": "https://files.pythonhosted.org/packages/c2/8d/a71bba3b79bc602763e57e5295a0e6e56b80ec9390c5eab1f042030de9e2/keyring-9.1.tar.gz"
+    },
+    "9.2": {
+      "sha256": "d518c33897fa3aa02a2afb14fbf371280f1883d62b51f22608479e2787c2676f",
+      "url": "https://files.pythonhosted.org/packages/25/ef/a52b82ed4260cd36594ada4895c5495f5b0f9c908ef2bb45161f536eb8e6/keyring-9.2.tar.gz"
+    },
+    "9.2.1": {
+      "sha256": "c742a3684a5e4f41793fa079eee8e1299d749979ea44a20a5a83db7cbc742a3b",
+      "url": "https://files.pythonhosted.org/packages/0a/48/f39b89ff3156ef61902faf16a74c917097a40b2eb3e03420c388f4a65ed7/keyring-9.2.1.tar.gz"
+    },
+    "9.3": {
+      "sha256": "5c6cc42902c2135e4cb674b9108fc7a9ddb9550466dc332640ca89034984f7c2",
+      "url": "https://files.pythonhosted.org/packages/ff/58/f3393b41852c1a1b12a9fcdfb468f638d0808c3520f23cc7c13f8f6c14e0/keyring-9.3.tar.gz"
+    }
+  }
+}

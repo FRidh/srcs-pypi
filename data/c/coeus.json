@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "coeus API client for Python",
+    "homepage": "http://bioinformatics.ua.pt/coeus/",
+    "license": "CC-BY-NC"
+  },
+  "versions": {
+    "0.1-dev": {
+      "sha256": "aaaef533a919638b9a9160ae06c71f2fcdc57cb2e2015abe3eecd13060ab3625",
+      "url": "https://files.pythonhosted.org/packages/fb/46/1a5582b187b954a9a35935fc2630f854669d420d91e9d04ace0fd209a0ab/coeus-0.1-dev.tar.gz"
+    },
+    "0.2": {
+      "sha256": "b83516afcefda5f51a769fd16c09fb5e8dd4c27560e1a48782599c4e2f908f5f",
+      "url": "https://files.pythonhosted.org/packages/34/26/649d7c01fa1a7cbc69e2506f1c580ca4d9d28613434db9e9ac8ced7287bd/coeus-0.2.tar.gz"
+    }
+  }
+}

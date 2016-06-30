@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Locate slow tests in your django project",
+    "homepage": "http://github.com/scuml/django_bench_runner",
+    "license": "Copyright 2016 Stephen Mitchell\n\nLicensed under the Apache License, Version 2.0 (the \"License\");\nyou may not use this file except in compliance with the License.\nYou may obtain a copy of the License at\n\n   http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software\ndistributed under the License is distributed on an \"AS IS\" BASIS,\nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\nSee the License for the specific language governing permissions and\nlimitations under the License."
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "a76f188402032e9470416d2ff25b6eeb48fceadc393d87cd76cfa4468fee3ee3",
+      "url": "https://files.pythonhosted.org/packages/52/0b/70307eba382ae58c0a641f4983ec8630ceb41f970d8737bdd119c55c2d4d/django_bench_runner-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "d1cf8417bc343e7951a37b48f408f10ab21c4c896ab2a8bfebe4b86a3f43bc34",
+      "url": "https://files.pythonhosted.org/packages/90/f2/2bb2b42c90b778306a3a09f08826a91542c818f86991ba202b8bda843add/django_bench_runner-0.1.1.tar.gz"
+    }
+  }
+}

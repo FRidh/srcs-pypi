@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Imports Alienvault OTX pulses to a MISP instance",
+    "homepage": "https://github.com/gcrahay/otx_misp",
+    "license": "Apache 2.0"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "a40ac5acc4b505169981a40742dc2d80cc7e20760b37fc9c7c1690961ff09229",
+      "url": "https://files.pythonhosted.org/packages/bf/ac/ec34905919b4d6ddff8a3397b70dfc39927b1c89986c5f078ed2c1c2d9df/otx-misp-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "1d933d15c17aaa15c00d222976a49b6610604f6a1c8dbcbffdf02bc2ea4efd2d",
+      "url": "https://files.pythonhosted.org/packages/ab/04/995460fe06cb48bc9658f050f442dc7750d0a1693da3252373b78e66e689/otx-misp-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "093d1f6818086912e2fe880a04501fcdff3932b0dc7c552c9a448874f03161eb",
+      "url": "https://files.pythonhosted.org/packages/42/9d/fabb1c37f33ec2c8f30bdb26edbab0e3729d4222e93a268feeff8ac69d62/otx-misp-0.2.1.linux-x86_64.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "1fb41a11a1de375a05dd8dbcb577a92569a63af48910874e6b708341dde9b7a0",
+      "url": "https://files.pythonhosted.org/packages/8d/23/2c078183cbfdca15b84a7a084b0c187f2906dc9ea1996a08e811c419c1ed/otx-misp-0.2.2.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "8e44f17e8fd7c46cd316612a5afd5899af806a410b60952a0c952f82ad071613",
+      "url": "https://files.pythonhosted.org/packages/70/3c/e5ead6c56d834ffa7e477623eb062013b7ed4a0c4cfa43fbc9b273755117/otx-misp-1.0.0.tar.gz"
+    }
+  }
+}

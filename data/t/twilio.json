@@ -1,0 +1,371 @@
+{
+  "latest_version": [
+    "6.3.dev0"
+  ],
+  "meta": {
+    "description": "Twilio API client and TwiML generator",
+    "homepage": "https://github.com/twilio/twilio-python/"
+  },
+  "versions": {
+    "2.0.1": {
+      "sha256": "84568e91ed7290f8b7f16204acc31a9adc46d057066cb0fb419c27a965dae9e3",
+      "url": "https://files.pythonhosted.org/packages/0b/35/c66ee5ffbe1d0ea6e91d67779c58e7203b00130d839c47b27aa7bedea825/twilio-2.0.1.tar.gz"
+    },
+    "2.0.10": {
+      "sha256": "3d468364ba9802e7e51fbaa920e662c10799b36b91f734fc1c56e3bbfe288fb3",
+      "url": "https://files.pythonhosted.org/packages/2a/b8/1bfda10cedb406ea4f78eca5bac83d7230e8db301af141f22760ed99f8e5/twilio-2.0.10.tar.gz"
+    },
+    "2.0.6": {
+      "sha256": "f8bd06afefa7d1f88cc0a126f961f52a0a1996cc42bca683c2db8f683d3e43e5",
+      "url": "https://files.pythonhosted.org/packages/2c/8c/308a4631d5063a9d2f37022cb217c349c61e3b2f80c6e4f0d89420aa8081/twilio-2.0.6.tar.gz"
+    },
+    "2.0.9": {
+      "sha256": "e1dc18e5d259e21dd9b46f50f12af0a58a3dcd05cefc7a03c9b4e7129fcd84a7",
+      "url": "https://files.pythonhosted.org/packages/c2/42/857314adaadba8fd290629bb45f0e9b1db034f4b3b1ec7a32777abbe6ad4/twilio-2.0.9.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "56264449c8aadf45d3ba5cec723c19eadee3d982d294e7b5719fca0aa5db05ab",
+      "url": "https://files.pythonhosted.org/packages/63/ee/72a281c2baadb0f8dcb37e1f4308944c59e59c5ee97b2b57e28b7d8edb4d/twilio-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "0158dfc624909b483f86fb4b6e4420deac253caad4f515ce88d41be5dafe7a6d",
+      "url": "https://files.pythonhosted.org/packages/30/a9/a20ef19cc078ca8dec4c607f1a2c26f65833b1919d5dcf03201d02ee2a9d/twilio-3.0.1.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "226dc85b606f89e43a56370c62dd9fc5fe526e3642c39eb77d5f38c2c311894a",
+      "url": "https://files.pythonhosted.org/packages/65/04/539de1525ae71f130b7f0305dfb9456b8a7f1d68c88e080a1164960e7f1e/twilio-3.0.2.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "2807ae3f47ad818ac980e2091a030d8300f0c0b565a8a4fb5f315bfa1f8a77bf",
+      "url": "https://files.pythonhosted.org/packages/82/19/e26f9c1b377dd5bc8124ca5074a82afedf5ace0e1ac1baf4f98d3a2e6d1d/twilio-3.1.0.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "f9ea7a58e14798e638c7ebe2a7d116b66703843b56790a0a44f388493d7a4f8f",
+      "url": "https://files.pythonhosted.org/packages/99/37/ca02231f6ec2e50f3c07bf9a954626af84473075a4953aa2da877527c9ea/twilio-3.2.0.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "a0325903e4370aca1be6822856f7b54aee82b7d773d1edb67627f3da4be1a95e",
+      "url": "https://files.pythonhosted.org/packages/45/e6/b0d55b71823e7338bdf20962fa4eb36c930963d3c6ffb90ce05016f673d0/twilio-3.2.1.tar.gz"
+    },
+    "3.2.2": {
+      "sha256": "6e4c096a577c43cca675a7174b2e0cfc9eaabe9fed545055a0cf7802e9f17e26",
+      "url": "https://files.pythonhosted.org/packages/9a/7c/7cb5f19d6fa01c990170b66859a5088e94f17d87cfc56183a0a1162b43d1/twilio-3.2.2.tar.gz"
+    },
+    "3.2.3": {
+      "sha256": "11f95dea6b1a8107e2df5f46f5d905fd57263229a3b43ae56e612381761270ac",
+      "url": "https://files.pythonhosted.org/packages/56/11/e6507f772ef86c8c0bf78cc387be7ead5d8070a8258b18304b0cdfb6454c/twilio-3.2.3.tar.gz"
+    },
+    "3.3.0": {
+      "sha256": "6618dccc43df83afaeb958af2571b38044f740da15d99456ac44b5df2464958d",
+      "url": "https://files.pythonhosted.org/packages/ab/38/385dc454730c835c5096267f837777d97b2425bb41bce2fa596392de0ff8/twilio-3.3.0.tar.gz"
+    },
+    "3.3.1": {
+      "sha256": "87acc0c67be30b761a3474e61994a846d5dba774d3ad1233c852123126de0d25",
+      "url": "https://files.pythonhosted.org/packages/f5/88/a655236bd314ef3c5a09ed50fe1a7d1e116483c37aec58a9d4527d803853/twilio-3.3.1.tar.gz"
+    },
+    "3.3.10": {
+      "sha256": "81153b52f9d83ec5b46d365dc9b4fc25f033c500f1d301a52f966944f2ae12dc",
+      "url": "https://files.pythonhosted.org/packages/16/f0/8464375aaa4a2bbf3e8c8bd96da0c73418caf999c113d4de7a7d3199f8b9/twilio-3.3.10.tar.gz"
+    },
+    "3.3.11": {
+      "sha256": "c9d0a21f03b6a07e74308894385a9c195aad129b414ba52790ca06ea9c527461",
+      "url": "https://files.pythonhosted.org/packages/e1/9d/37b3e46d9aba003ae20b666b998c01b0b52968e4b8c9351b677f7f5f5761/twilio-3.3.11.tar.gz"
+    },
+    "3.3.2": {
+      "sha256": "03c0f3cac8eb936da6e4356488e21bb89ce5c4cf6dd78551c51bd35a6feb0424",
+      "url": "https://files.pythonhosted.org/packages/c3/9c/180146cf196a6379ba94ddf03f80ed8519b95ba8dbe87f4bf7f465bf0ff0/twilio-3.3.2.tar.gz"
+    },
+    "3.3.3": {
+      "sha256": "d28b65d8f3d54135e345071f8d08843e46fe271a5678004a3d824f6f5460e6f5",
+      "url": "https://files.pythonhosted.org/packages/b3/9d/0ba68ed9ec54caa4de07732268e46efc1ca39471777fe3aac187e1072a70/twilio-3.3.3.tar.gz"
+    },
+    "3.3.5": {
+      "sha256": "c985e5a0fd4a9718c40cc970753d7486e9ceb36d3259ecbcb660e2c0b1fef158",
+      "url": "https://files.pythonhosted.org/packages/fe/0c/0c0c4873d5ab371e6fe26a086dd7bd8d06f5cedb336f7f781bc68dc85a36/twilio-3.3.5.tar.gz"
+    },
+    "3.3.6": {
+      "sha256": "66fda3baaf3436bd571eb6d21c315e0ea549db2ccecfb26df2e9bbc942d7b8a9",
+      "url": "https://files.pythonhosted.org/packages/f4/77/a74e8f218001d2ee4cf8f3da7d3390296ac9f57be03f949d647c7811472e/twilio-3.3.6.tar.gz"
+    },
+    "3.3.7": {
+      "sha256": "d27d3d618b4d37cc037491f0d28fc3d854682b97c3807c9f5a583a5656d950fe",
+      "url": "https://files.pythonhosted.org/packages/ed/d5/a7af3061253b65e28df05a7c0ccd9bb9d2bf90ce655174e4a1ca7974f232/twilio-3.3.7.tar.gz"
+    },
+    "3.3.9": {
+      "sha256": "45633de4b503219fd24e4be1548c1fd4b5d390fc7e1cdc07698b1bfc71817bd6",
+      "url": "https://files.pythonhosted.org/packages/1b/f5/e10ea483954af0368b762dbd8f860e597b5b7e38c56429aa04a82dd3038d/twilio-3.3.9.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "2d872e51009bf014f06416a20a6706fdf5988333430e00c57cda258b8f8c7224",
+      "url": "https://files.pythonhosted.org/packages/7c/5b/bc8f468af7c551aea3182cf4f80181999f4708c053a656abe8c1e652fd2b/twilio-3.4.0.tar.gz"
+    },
+    "3.4.1": {
+      "sha256": "1ab58338d9dcfadcc5b2e9e5fccf5b117a7ffb36c260445e3ee0c14d3d87e048",
+      "url": "https://files.pythonhosted.org/packages/bb/d9/b6ea945e84a70fa4c9cbc36f625bf5ee32b9bd27aae830f2333999def9e2/twilio-3.4.1.tar.gz"
+    },
+    "3.4.2": {
+      "sha256": "402fa4afc8810618f3f10b58b960ed66e704373dd3281877dbaf2a7cc19e3e3a",
+      "url": "https://files.pythonhosted.org/packages/a3/56/eb52a8410346509b86432a51b7ce3ad8059e8b08945d942e9b5ee49ba95f/twilio-3.4.2.tar.gz"
+    },
+    "3.4.3": {
+      "sha256": "993c088f1fe1a5a549793e66d52eabd6e3ec547a14b84ede848fe49272cf9ac5",
+      "url": "https://files.pythonhosted.org/packages/03/15/9ba9900767db5953861bb6f6fba7e7c0cb977e66abe58e079070fe20f9e8/twilio-3.4.3.tar.gz"
+    },
+    "3.4.4": {
+      "sha256": "0a9508ef37adf383683b2d0c9db04ddd104ba34b4aa070d4c68952a3a88badcf",
+      "url": "https://files.pythonhosted.org/packages/4d/37/ebd2285902b7ae43fe168db7b5346be588a302f88960d9196a8ce93bfbb6/twilio-3.4.4.tar.gz"
+    },
+    "3.4.5": {
+      "sha256": "f60060d0c3e0b67a11f2af89eac68b1563d740ea871974f0faf9f0874e9da925",
+      "url": "https://files.pythonhosted.org/packages/c1/09/14bed65578a1c9120203b2f704f3700bf8dcc1d73007d33828d16b7fad55/twilio-3.4.5.tar.gz"
+    },
+    "3.5.0": {
+      "sha256": "81e1fff6ecab0fdf5b340461628cfd0c2c7bfbf2a13d52f3c6ebd302cb6bbbb5",
+      "url": "https://files.pythonhosted.org/packages/d9/5d/87668f8ca9fbf91a6ecb05df479b992d545c82bcd9e98f7412896c4a28e8/twilio-3.5.0.tar.gz"
+    },
+    "3.5.1": {
+      "sha256": "737e88255fdbfb2f6a5377b6492d7bfe826a9d33bad10fb3a5c9a5c6538144e8",
+      "url": "https://files.pythonhosted.org/packages/5c/cb/fc8b6fdcc7a9851df2a72d20e054e19371d3bf1a215500720e3ba6589051/twilio-3.5.1.tar.gz"
+    },
+    "3.5.2": {
+      "sha256": "c810dc9301708d8439f609b4cbfbad8869afd4e61a9d3d6183e5848de9a5a1f1",
+      "url": "https://files.pythonhosted.org/packages/2d/98/31702ab1b01473373c1abd4e85bb4b3b3e18a830942b9ef6c8e2b4cc1a42/twilio-3.5.2.tar.gz"
+    },
+    "3.5.3": {
+      "sha256": "c4b36827154437b0ec3daf162233853a914422501525528b3d2a43982b94d749",
+      "url": "https://files.pythonhosted.org/packages/74/d7/ec6bbae3f2214ee44ccef134912b9bab279ca76924acded06273ecabc0aa/twilio-3.5.3.tar.gz"
+    },
+    "3.5.4": {
+      "sha256": "14c316f4d247a02658b7872a9fc792d0c27d3022c3aa6b33494072782f5754c8",
+      "url": "https://files.pythonhosted.org/packages/1a/48/66d18f68910d0d3d173496adeff1e4500317cf73f3782518402b4a9c12f0/twilio-3.5.4.tar.gz"
+    },
+    "3.5.4-rc1": {
+      "sha256": "f8fef38635d9830d07cbbe1d62e9a3b209adc26740af5fa99dd3a39b91a84a92",
+      "url": "https://files.pythonhosted.org/packages/ad/38/fe3258a90ae882f3603834f568ed3e609e4d7b237ab9f7f450427fa10992/twilio-3.5.4-rc1.tar.gz"
+    },
+    "3.6.0": {
+      "sha256": "bdf70983b683ea28ec07039d5d6b13df88ee2089dab32bdfb50af86099bc45ca",
+      "url": "https://files.pythonhosted.org/packages/42/4d/96c637669c64e861b374d1cdf399eb56907fcd8415a20e8e76c570ab7208/twilio-3.6.0.tar.gz"
+    },
+    "3.6.1": {
+      "sha256": "a106ce9c033379a03c90b8970405e4af6347ebb88f0183224bc870b77ee2ba2e",
+      "url": "https://files.pythonhosted.org/packages/b4/8e/d883b60d18c5991401d701dda10ad3a33163f3d6683fd94ca8eb399542bb/twilio-3.6.1.tar.gz"
+    },
+    "3.6.10": {
+      "sha256": "2d814e23b1f6fcf82af2b39e1893b1f079841f5e32f1094ee575d0b354ebf5ba",
+      "url": "https://files.pythonhosted.org/packages/8e/9c/3fdfdd5b74a7828f94d074616b68b5c655de3b8dab6c4bc5df27c3927537/twilio-3.6.10.tar.gz"
+    },
+    "3.6.11": {
+      "sha256": "698b174eb99853528d1bb6007ddc2ec00182a69d365f8cc30eab0d688b31c1bf",
+      "url": "https://files.pythonhosted.org/packages/bd/48/398c9a7f3bf935e0f67cd4a68b2251cea264e6547716c559cccaedf9d8bc/twilio-3.6.11.tar.gz"
+    },
+    "3.6.12": {
+      "sha256": "577d078ef7f76fc1d1fa2188b91345f3efba04d35322aae1fc36d51b47c3f4a3",
+      "url": "https://files.pythonhosted.org/packages/b8/14/573f18a424c19f44240a2d8307113b50b97fd1f0c5614c184d81b9e34b84/twilio-3.6.12.tar.gz"
+    },
+    "3.6.13": {
+      "sha256": "dd14b28d2761a59d3962d965c69a013cf1d3a30427b6adb8f03c4b73d0d5ffb4",
+      "url": "https://files.pythonhosted.org/packages/70/ce/0f4bad1e4e8140fca7a859fce5355cee89232272b1ab63f52398bab03d89/twilio-3.6.13.tar.gz"
+    },
+    "3.6.14": {
+      "sha256": "30c0f96b1508eb95783809751849269e866f9ab13ceff875aadc00082689ba85",
+      "url": "https://files.pythonhosted.org/packages/ba/73/633edafdab553f205bef4f5dbc5e5a12645e045566aa2ec66a2a3630a384/twilio-3.6.14.tar.gz"
+    },
+    "3.6.15": {
+      "sha256": "c678043ddd33afd80ede04d398f0f9f39ac10d25a1a9dbc4eec02f1fd3d83e97",
+      "url": "https://files.pythonhosted.org/packages/89/e8/fca8c5629363d963cdb3cd9679372e47b8353c7ca88841fe118e81f83621/twilio-3.6.15.tar.gz"
+    },
+    "3.6.2": {
+      "sha256": "d440434f9e1a51b15bc7f6a6951304457ee3cfa834ca047763695d5fb8b09bc5",
+      "url": "https://files.pythonhosted.org/packages/46/44/68ee40e61fc727a3e51c1d13522f258f02735e0a602cb02cf1d3479e9a86/twilio-3.6.2.tar.gz"
+    },
+    "3.6.3": {
+      "sha256": "136bee98a860cfab485a35264126c26dffde4f0d01af39a1b6cb116436997dd9",
+      "url": "https://files.pythonhosted.org/packages/6b/7e/a4c44d7293df5b6256d2d3fdd5cf88ca4af082f23f774010e14c8f24c901/twilio-3.6.3.tar.gz"
+    },
+    "3.6.4": {
+      "sha256": "8a1e2059758204bacc206ce6bd63d7a0b0393e31e21a26ca5031bb1c80c0f4a5",
+      "url": "https://files.pythonhosted.org/packages/3b/84/a7dc484d9545542c2896704e80eadc3b62ca209dfae7920bd66aff0b75ac/twilio-3.6.4.tar.gz"
+    },
+    "3.6.5": {
+      "sha256": "51e66ac425651d763eff427e8b00290e63af38d3c258b095e41825b251a30acb",
+      "url": "https://files.pythonhosted.org/packages/00/e2/c4bbc66c90962d473e7e24178663e33971a1143fb983d45122b9995ed460/twilio-3.6.5.tar.gz"
+    },
+    "3.6.6": {
+      "sha256": "cc173c984849749d266fcab7ee093a935407643582111c7180f1ee6e606ce4a2",
+      "url": "https://files.pythonhosted.org/packages/89/63/620a087811a6abac01e8d2bfd30129dbc6649b3a7f0ccb782bdc3367d89f/twilio-3.6.6.tar.gz"
+    },
+    "3.6.7": {
+      "sha256": "ddde4f2c4e92d08edd7b180b69afc144acdf2c76712da953ae177e61606bbed5",
+      "url": "https://files.pythonhosted.org/packages/23/0c/cb091d5221dcf9d4758428a2019bfd546b12de415a37f8f291e915af3aef/twilio-3.6.7.tar.gz"
+    },
+    "3.6.8": {
+      "sha256": "4e4fc9a88b9a1c9cdd767e58aa4c6ccebbb57357799d3b76cebe13c2edc0f323",
+      "url": "https://files.pythonhosted.org/packages/24/a7/6c36e692a738e1876db0d75e06baa9e0fd105d51909fac8b14c501ff7fba/twilio-3.6.8.tar.gz"
+    },
+    "3.6.9": {
+      "sha256": "f4de4930e71d3f3115a4eadc9ee638fd654546a48c880026fafb2732368994be",
+      "url": "https://files.pythonhosted.org/packages/d8/9d/42de811edee9aa864952be5d003e5787c8835da321241892197747495a60/twilio-3.6.9.tar.gz"
+    },
+    "3.7.0": {
+      "sha256": "db4b89de93a49916a9b0ecb1057938b9886086e3290d7589194516925dcc869f",
+      "url": "https://files.pythonhosted.org/packages/74/9d/db57ad59f34e761f2fecf577e2c3e94130bf4eded09cfba1ad80e25f29a5/twilio-3.7.0.tar.gz"
+    },
+    "3.7.1": {
+      "sha256": "31b9e98dc9dee83923657155058be4171c382f7bdba6ce422f10d25660bcaa8a",
+      "url": "https://files.pythonhosted.org/packages/95/96/02ee5564e1893afaf16cdbdb534f34a505fbc34b67d316ec6722585c7a75/twilio-3.7.1.tar.gz"
+    },
+    "3.7.2": {
+      "sha256": "670a06c31bfb485b05cf47d9d022bcdefbbd3f35ee3600c36b023732ae5c5fda",
+      "url": "https://files.pythonhosted.org/packages/6c/77/8484715ce9ca9916166aabab51ae302abd6e434d203510e2d854edc03433/twilio-3.7.2.tar.gz"
+    },
+    "3.7.3": {
+      "sha256": "98339105fc37719f0ca0351fc981897a9a847f2cfeefbf1ebbfc40585b48b7ef",
+      "url": "https://files.pythonhosted.org/packages/7d/78/d0b17829784aa517418ae004145ad26e27eb0dba2e2fbe122ecd59e7c60f/twilio-3.7.3.tar.gz"
+    },
+    "3.8.0": {
+      "sha256": "e0903f7a31097ac653b865f21f2e5924082713876eeb9051f7e57e063c6f7e0f",
+      "url": "https://files.pythonhosted.org/packages/ca/9a/43886b7d7f462943376fc2903fd75c14a18403c571ceddf08ab05c5646b7/twilio-3.8.0.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "b95a96ff916922a5ae13dfbcdb1968db695ebc66f385e255db6ed3736a16be64",
+      "url": "https://files.pythonhosted.org/packages/f3/1c/6b336ddc81e6039cb387f0bf9e21a7f57eca0d0ae13db82018ceeeeec499/twilio-4.0.0.tar.gz"
+    },
+    "4.1.0": {
+      "sha256": "33649c4c960e323b77392fcaeb4c4a2a70f076e35ffe9cc9e48578a1575f6eb9",
+      "url": "https://files.pythonhosted.org/packages/ec/04/bf69df136e6598b1139386e5fb09d9fe645a26aa9fd352e460d754fcdcc8/twilio-4.1.0.tar.gz"
+    },
+    "4.10.0": {
+      "sha256": "72ef9d7062ab6e2f00d16499e48989caa05c5fe739c49c86b8d653b8651223a2",
+      "url": "https://files.pythonhosted.org/packages/d1/67/dbdb59e1553984da7ffe62db8481bb155b1b99f16afd8f04254b52449889/twilio-4.10.0.tar.gz"
+    },
+    "4.2.0": {
+      "sha256": "21c5c97f60506ea271bb0d23a734fc08fb2fc2d7d77ad7af451bdb836de84ce1",
+      "url": "https://files.pythonhosted.org/packages/3d/73/f99f97f3376350c1f1979f5ddc5a3264ce82224b3a3d210ff1750722e842/twilio-4.2.0.tar.gz"
+    },
+    "4.3.0": {
+      "sha256": "1497aa83004e06553a773be8d825ca70b59923c8b3012320917d2d8386c55a12",
+      "url": "https://files.pythonhosted.org/packages/04/d5/2bec45bdc9152e9c20b6f2f5d336ec74ef8b40b6ae0d9c6f4cbaabf30d13/twilio-4.3.0.tar.gz"
+    },
+    "4.4.0": {
+      "sha256": "2d8583c5b82d3cf6a97f6e324fd1fa9b294013ba60c77ad307060053a78eef5d",
+      "url": "https://files.pythonhosted.org/packages/dd/ff/2d21de20a9220907d16559f381b847353eb02fada04e0c979398de17a574/twilio-4.4.0.tar.gz"
+    },
+    "4.5.0": {
+      "sha256": "a8c1580283067ad4ab745fbd173afe9b6c3f7c0e8c7b5dcb75691a7688d344de",
+      "url": "https://files.pythonhosted.org/packages/cb/4c/ff259decf54be431377297c98ae57588a3ce6bd8755aed51d7d1d70b9619/twilio-4.5.0.tar.gz"
+    },
+    "4.6.0": {
+      "sha256": "a19df62378d6e2ec0cd9bdde0349a26d433d09c9577d6587dfef75410da33bd1",
+      "url": "https://files.pythonhosted.org/packages/04/0c/e4b69486c5ffec06a1a0ee4e90a37d514303b6805624ad1e0543bd83194a/twilio-4.6.0.tar.gz"
+    },
+    "4.7.0": {
+      "sha256": "a8a331392731962ccbeb92cd34de53fe21efebf958d8694b4689152d7ae95ce8",
+      "url": "https://files.pythonhosted.org/packages/c8/73/086670f8d40461f6ba7cf4178f8afafd5c6f41a31614180d5494b8a671d7/twilio-4.7.0.tar.gz"
+    },
+    "4.7.dev0": {
+      "sha256": "dff34f6ce7d0ea01d05b4e7fbf7826df4d24727386c1b21a71cb9013d369ca22",
+      "url": "https://files.pythonhosted.org/packages/88/0c/fe0e9275217a2a595b35bba628489a69de585e24a64bf4f9bd303759af32/twilio-4.7.dev0.tar.gz"
+    },
+    "4.8.0": {
+      "sha256": "2fa4ea67d80a98220c9147e3f1b88d7a0c06e71ab78e7dd9edfe24e844764ce1",
+      "url": "https://files.pythonhosted.org/packages/7e/f9/254bcab4fc1fa4351d915dc091ee401126793602bb1fba85c7d1b97d43ec/twilio-4.8.0.tar.gz"
+    },
+    "4.8.dev0": {
+      "sha256": "94a08a7054d12b0c71f07e9d2a63b43e7311920025a6451ca384ceb2d880a376",
+      "url": "https://files.pythonhosted.org/packages/d7/08/49a59d6a909f75013972c99ac96995d781d1db3d9ed9b157d9060c1505ad/twilio-4.8.dev0.tar.gz"
+    },
+    "4.9.0": {
+      "sha256": "326d5b76bc21b25629c7365772eb557bec5db6d0fe221d8be996a7d6f644651a",
+      "url": "https://files.pythonhosted.org/packages/50/4a/1e8be081c4acc8394c31512be690a778008186484952fe5bc05a69aa3045/twilio-4.9.0.tar.gz"
+    },
+    "4.9.1": {
+      "sha256": "f907ccfef82df99c6d7aa3bde9044836aaf806a8fc4b0f0c7295959e97011582",
+      "url": "https://files.pythonhosted.org/packages/c1/8c/3cf64deaab8bdfef8b12f624755c0b695bb01252b22d53e2dcf5eacf9704/twilio-4.9.1.tar.gz"
+    },
+    "4.9.2": {
+      "sha256": "7c9271e374e755f367c9e7c39fcf8c51aa2a189174a7c071ccf185bcedee8a64",
+      "url": "https://files.pythonhosted.org/packages/b1/52/44ef789cd6592360ef54a6fdf076b800b07fe00209ece3de46334cf0bb4b/twilio-4.9.2.tar.gz"
+    },
+    "4.9.dev0": {
+      "sha256": "7448332e3078e9406b579662f866f55a29ce7a8cf1dd43573282585436f205f5",
+      "url": "https://files.pythonhosted.org/packages/29/bd/76e611753d89962faa97253dfccaa46180aad1dba28318f519525ee564e3/twilio-4.9.dev0.tar.gz"
+    },
+    "5.0.0": {
+      "sha256": "354d88a9edb9047d786a7106d327c90365306f8e397859f91913aab12ecffae9",
+      "url": "https://files.pythonhosted.org/packages/85/ff/0ad71fa0970b0048e187b65a2a5d016d6f6fda4b36dbf76f97c8fb96091e/twilio-5.0.0.tar.gz"
+    },
+    "5.0.dev0": {
+      "sha256": "1399308bd32def401540d58e683f319663209b4b4c23235e66f72edb644c821f",
+      "url": "https://files.pythonhosted.org/packages/64/51/33a18c01388a9c6e56be8a754d1412eb67fac28cead3b4dba58d8f1c62aa/twilio-5.0.dev0.tar.gz"
+    },
+    "5.0.dev1": {
+      "sha256": "6e904f5835cdda00e9f94c000083925ad930196173ca49742f258da929ff7837",
+      "url": "https://files.pythonhosted.org/packages/29/48/70df92b1e957ec2fd50cc24c0b94bc87235329e5a819490cf0f259a0193c/twilio-5.0.dev1.tar.gz"
+    },
+    "5.0.dev2": {
+      "sha256": "30d64963dedc8afbb903ab43468c7089eaac2364c7f4b043a03fc680478333e7",
+      "url": "https://files.pythonhosted.org/packages/10/c8/1771f4539b937b46cbd5202ee3f8a592a19349457f9ed9f171629da9e2d4/twilio-5.0.dev2.tar.gz"
+    },
+    "5.0.dev3": {
+      "sha256": "d70eb437d2771541021f7ba8ed915fa69ffda1a200ec285b98cf7b8dce1e1334",
+      "url": "https://files.pythonhosted.org/packages/0d/70/75c51174f458f4b632aea3ec626b42bb2ac11ef27c0995e67cbc4a999f02/twilio-5.0.dev3.tar.gz"
+    },
+    "5.1.0": {
+      "sha256": "8050f68b2e93d1e01e14409e54967eaa5d0e333f0c81199efc065e1492d6e35f",
+      "url": "https://files.pythonhosted.org/packages/8f/50/450e9e32adc03f1be462ff06cd1b787ef0c041766a7748cb66bcd912da9e/twilio-5.1.0.tar.gz"
+    },
+    "5.2.0": {
+      "sha256": "224749c591b7137247a11efc645f2c46ecd66741a64bddb929d0476cbc61b543",
+      "url": "https://files.pythonhosted.org/packages/51/af/e2d5fa1fbaf63efc7c4995e6b81f4219445e213f2c90c06068018b34a193/twilio-5.2.0.tar.gz"
+    },
+    "5.3.0": {
+      "sha256": "7849f334b6d84898965a2aa4ea62e0de0ad5c2457920c82fb340942e806c2817",
+      "url": "https://files.pythonhosted.org/packages/98/04/f4e725ab0a7e8ac6c628cdbecb48945f9a634ef942b7b1eec9fe0dcb3234/twilio-5.3.0.tar.gz"
+    },
+    "5.4.0": {
+      "sha256": "d856d821f151e0d71e3b1d799e8577efa7807b0f44b68ee0563ae9d914e43986",
+      "url": "https://files.pythonhosted.org/packages/77/18/e26498b21bdf5887f450fb071470ed55b5e9eb405263551e0c43b0de91a4/twilio-5.4.0.tar.gz"
+    },
+    "6.0.0rc2": {
+      "sha256": "b5b74ca806a6a5444e185df7c57c833ac531838ae5a0e9e99fed23254ccfd272",
+      "url": "https://files.pythonhosted.org/packages/e0/4e/1ff8908180161dbcc8bbe12aa33408b8eebb9faf8aa8c06f8408d6c08a07/twilio-6.0.0rc2.tar.gz"
+    },
+    "6.0.dev0": {
+      "sha256": "5bd4eedc00b9766b95d4ec811491ff330b1f7df743ae609e8a07e4a17c33eee1",
+      "url": "https://files.pythonhosted.org/packages/bc/be/13c3748254c5b91b72679fb1189585f9d8614945a0695642c48db9d1ae19/twilio-6.0.dev0.tar.gz"
+    },
+    "6.0rc3": {
+      "sha256": "017b71a5a3b0287c5bb861a4adc0cba0fe7b3442448cd3f302f872fe6e62eafe",
+      "url": "https://files.pythonhosted.org/packages/f1/7d/1f50d9777ee54a7426beeb9354f7232ce80159a189978cbb72104fa1ec23/twilio-6.0rc3.tar.gz"
+    },
+    "6.0rc4": {
+      "sha256": "f6461d75676063299e6b53c97c1b6229714c7550467ce697e68d241b3ef6cb8b",
+      "url": "https://files.pythonhosted.org/packages/c8/4c/a3cf9ffdd4ea3c5711bc9308d749780bcc462d548d35ae2a456fabcd4a73/twilio-6.0rc4.tar.gz"
+    },
+    "6.0rc5": {
+      "sha256": "35dedd754baeb45cd1ffc650967b8eb051237cca52aa904b837b25ac25d98dab",
+      "url": "https://files.pythonhosted.org/packages/86/3e/53232738f8403a12f8e2f364c580329260a0197c3a8a43fc1a181c075754/twilio-6.0rc5.tar.gz"
+    },
+    "6.0rc6": {
+      "sha256": "6e3b976f58679bb28f90d13b91833813f6bf28e451cbffde53e8f00721c94476",
+      "url": "https://files.pythonhosted.org/packages/a9/54/aa85b7fbbf4eb1303d364ed1ee7263284c36b05829829d8c525c00f57ea2/twilio-6.0rc6.tar.gz"
+    },
+    "6.0rc7": {
+      "sha256": "e9cb955455ecd7659db68d02f7cfd0839e590539223b4794fb7476dab97fbbc4",
+      "url": "https://files.pythonhosted.org/packages/81/e4/cda9eda69eb46e7eb44ac59a704ae91954fc25aef5a7ce1538b5697ad2d5/twilio-6.0rc7.tar.gz"
+    },
+    "6.1.dev0": {
+      "sha256": "52bef409f380e53479d0c2d2c6743a50cb6b027fc2035cefbd648f582a56984a",
+      "url": "https://files.pythonhosted.org/packages/bb/95/bd979b4eb78aa397b93e614c15020748e89c53953ea44c7c09264196145e/twilio-6.1.dev0.tar.gz"
+    },
+    "6.2.dev0": {
+      "sha256": "c09ee0cfb8fb766dc8db9a333229d32cb9ee30cc5b1d684ba9fd5ae7b69c4940",
+      "url": "https://files.pythonhosted.org/packages/d6/d9/43a60fda8663346584d0666766f4e59ea793e8349b499de32ae0fecd0c79/twilio-6.2.dev0.tar.gz"
+    },
+    "6.3.dev0": {
+      "sha256": "9e236653fafaaf49d01584d162b6a857cf6ad2da9c48e82d1acd9acfc60b6844",
+      "url": "https://files.pythonhosted.org/packages/f4/59/5b0414dafd0ae98209d2f3341055c45ca178831c15eeaa88a26489ebd598/twilio-6.3.dev0.tar.gz"
+    }
+  }
+}

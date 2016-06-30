@@ -1,0 +1,36 @@
+{
+  "latest_version": [
+    "1.2.5"
+  ],
+  "meta": {
+    "description": "allows one to easily encrypt and decrypt files symmetrically using openssl and python3",
+    "homepage": "https://github.com/mverleg/fileenc_openssl",
+    "license": "Revised BSD License (LICENSE.txt)"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "ac55efffabfdd24547822bbb3927ebd10fdb211bb178dec45cfa4af6f3ef5952",
+      "url": "https://files.pythonhosted.org/packages/8d/92/ae1ca4aa262d0cbef252767d9c01eca84fefc88e6ea8da72a03d22d03f23/fileenc-openssl-1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "8b199b92ac5ea2b75cb642edc0ad8b4854c057920ab7d797384615c39bb7e715",
+      "url": "https://files.pythonhosted.org/packages/f8/6d/bf6626e429f92581ba217ec9bddb4db7372c2f559ad379944c304da9c800/fileenc-openssl-1.1.1.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "ec61a4becc85c27d54b99adc29f3bddea3653751c7ebe560ea0776afcc3ba2ed",
+      "url": "https://files.pythonhosted.org/packages/06/1d/b5e8e59d29b417e4e432a4edf5d085acfed4dbbb29918480cbfa81e8c411/fileenc-openssl-1.2.1.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "ccde67f80268d30a8000805dbe56a36e901857e1c59399bcda7c8c2c030b6a02",
+      "url": "https://files.pythonhosted.org/packages/43/f8/b051d3300102369c2080a1ac9cf4678ace5d0ed3e183461efb4c31e2b990/fileenc-openssl-1.2.3.tar.gz"
+    },
+    "1.2.4": {
+      "sha256": "349262c62f045e27930d3782934aa50c81f72bcebcaaeac60456f7fc3b5f6834",
+      "url": "https://files.pythonhosted.org/packages/a2/b3/360a884f336c80093ccf30815b68c3650c99bf0717572d0956770301dce1/fileenc-openssl-1.2.4.tar.gz"
+    },
+    "1.2.5": {
+      "sha256": "431b5b23cff9a9e92601bee8e2a17c2708b56c4471c872b413683fe6321568eb",
+      "url": "https://files.pythonhosted.org/packages/a1/d3/aba4873a39dfe6091e3fe18ba39319b5581ff01a319b2247d7604d31982d/fileenc-openssl-1.2.5.tar.gz"
+    }
+  }
+}

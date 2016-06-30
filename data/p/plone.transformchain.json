@@ -1,0 +1,44 @@
+{
+  "latest_version": [
+    "1.2.0"
+  ],
+  "meta": {
+    "description": "Hook into repoze.zope2 that allows third party packages to register a sequence of hooks that will be allowed to modify the response before it is returned to the browser",
+    "homepage": "https://pypi.python.org/pypi/plone.transformchain",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "cd2ab98879c276c3a1c13e1a816475818d9d33b927fd8f8ae83cad08eb6cb0c2",
+      "url": "https://files.pythonhosted.org/packages/b6/65/fd21a4fbea31e3aa8c82da7efb3834b43dc4ad1e26fe3b1e51c14235cdff/plone.transformchain-1.0.zip"
+    },
+    "1.0.1dev": {
+      "sha256": "de1f5f0faa4437fe408e013fc6f2722e377c6cdf954ed6d859794883d844f298",
+      "url": "https://files.pythonhosted.org/packages/49/2c/8749570875a5d75957ca3d9041aa0f60caedf5a6eb153dfb437e7eb2c6d4/plone.transformchain-1.0.1dev.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "f498a03e272a8ca7adc0d5e7daccf93be96a8048325b5baa94384c0c8e66d698",
+      "url": "https://files.pythonhosted.org/packages/a1/56/e4b479b7ce1a839a87da3c981bd4a626a95cbca44b468db2544003f9e69d/plone.transformchain-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "958d017c3462e1d1b9c1fde10ce8fdde3a69134294a83e4a803bdbfb95e9bdfd",
+      "url": "https://files.pythonhosted.org/packages/ae/91/0d7cc877ef046158602950e70bf879838e11e9b34a57fd0287109c03d61a/plone.transformchain-1.0.3.zip"
+    },
+    "1.0.4": {
+      "sha256": "5e404f6bbea9dc21c73f99f8790dfdb099d65ad8ce0bee4c31d1866824b2b7dd",
+      "url": "https://files.pythonhosted.org/packages/f3/81/4e61dfc6485f1fcdb995051d3cbbb5f48e14af3a0b3dd8425e069eedaf22/plone.transformchain-1.0.4.tar.gz"
+    },
+    "1.0b1": {
+      "sha256": "020fbc9ad44f010799640a7d2cb68f8298266246ab9f68d2775cdcc31cc32bd6",
+      "url": "https://files.pythonhosted.org/packages/9d/fa/fb5336e9a4150c1ec82f40d7103db4828557029487a09b1304303da125ee/plone.transformchain-1.0b1.zip"
+    },
+    "1.1.0": {
+      "sha256": "2a23ca4a1cdfb24df97f62ba4083a1981085785fd7e53361724163b3a6163832",
+      "url": "https://files.pythonhosted.org/packages/70/12/d59c904d1301bc28130ea553e901676148f70df77f8686187c6a8a0f7af8/plone.transformchain-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "8a87bfd54b8d846cd52f7c9ac9c5f64ec6596523a7548eb49e83d171bf6e1bd0",
+      "url": "https://files.pythonhosted.org/packages/ae/05/1a0c8ab59ec8be9450d461e0e75131c4b5bc59bd03e8f0642c120a397fe6/plone.transformchain-1.2.0.tar.gz"
+    }
+  }
+}

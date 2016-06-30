@@ -1,0 +1,36 @@
+{
+  "latest_version": [
+    "0.0.6"
+  ],
+  "meta": {
+    "description": "Backport of Python 3.3's 'lzma' module for XZ/LZMA compressed files",
+    "homepage": "https://github.com/peterjc/backports.lzma",
+    "license": "3-clause BSD License"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "4d94ed80df0e54935cfda68161ab61f30c5e67c920ca5c78ffd7cffe12e54cb1",
+      "url": "https://files.pythonhosted.org/packages/61/75/3edd5bb0c8b8df768426b50900f3331aadd1c5a95c43dca48d77530f8edf/backports.lzma-0.0.1.tar.gz"
+    },
+    "0.0.1b": {
+      "sha256": "2fc9d65b27c44fd260b36afc11f662515dbd917a81e623b34b1cf4ec177eb45e",
+      "url": "https://files.pythonhosted.org/packages/26/04/6f0fe86684272f60f2e647a8f9b160974fc0c3f246ca4d5a3bfcb3952961/backports.lzma-0.0.1b.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "a0966deeb2533e96ea84dc0fb7948aa23421c7f061197133b62665a52dfa64e6",
+      "url": "https://files.pythonhosted.org/packages/fe/2d/6f957a4c289fa0542925c7c17553854d81f348df4223066ec0a8b0d66c88/backports.lzma-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "bac58aec8d39ac3d22250840fb24830d0e4a0ef05ad8f3f09172dc0cc80cdbca",
+      "url": "https://files.pythonhosted.org/packages/fb/36/509421af08c3c7ffbb772150a73a0e3e0ffd32b0635163fb2aa2355ff29e/backports.lzma-0.0.3.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "35e5ed2c5ea835edbceeb94f7ea154e890e207df69e2035e3026af7c0ab624b2",
+      "url": "https://files.pythonhosted.org/packages/d8/3a/39ee3b71e32ff92732c70b70c615c99c9ffeebd15e86f6aee9bbf978532a/backports.lzma-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "c9c97b10fb1941abdd896b9447e3745da59b32750b27c015ddb8eaf3654daaea",
+      "url": "https://files.pythonhosted.org/packages/c9/c0/b038c9abbda5e918fa534e91ef8226793a015f74439889eb5e27971ba15f/backports.lzma-0.0.6.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "A simple customization for Plone contact-info that add recaptcha for anonymous users",
+    "homepage": "http://plone.org/products/collective.captchacontactinfo",
+    "license": "GPL"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "66b43796d45239bac08b86f9cbbb1a3b0ae6d8dc1c8221acb81ce910638809d5",
+      "url": "https://files.pythonhosted.org/packages/9a/e8/54016d1723cfcf5785b1bdd6f410e14787645bb2527065fb36d4ec27add3/collective.captchacontactinfo-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "a972e5de913382b32036db0bc64d7d1e1b24463b83a34f05bf67f5614bfd9597",
+      "url": "https://files.pythonhosted.org/packages/42/f7/a950e536fa1b564ca3b8a17c35978ae323ad5785af07907a81d468f91b37/collective.captchacontactinfo-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "19ba38e4a75a8494e0d11432117bc6eac7bb991b6535e2e2842005b13e9188a7",
+      "url": "https://files.pythonhosted.org/packages/0a/ca/e3a2c32a86bc6b245dccaaab4cf5620563dc7b36c1d441f589f22ecda4c5/collective.captchacontactinfo-1.2.0.zip"
+    },
+    "1.2.1": {
+      "sha256": "a61948c5c69ecba8c87c9bbd58776acefb5e474a7333b53ad7eb154274e57993",
+      "url": "https://files.pythonhosted.org/packages/7f/86/080fa4d04f3f719cd53e2eee319f46a07c9aca298936671a4f6edc9a610a/collective.captchacontactinfo-1.2.1.zip"
+    }
+  }
+}

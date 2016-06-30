@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "2.15.1"
+  ],
+  "meta": {
+    "description": "General astronomical data analysis and Hubble Space Telescope data calibration",
+    "homepage": "http://www.stsci.edu/resources/software_hardware/stsci_python"
+  },
+  "versions": {
+    "2.14": {
+      "sha256": "1be608e760616da7ccf4e182ce51c7b76d28bd778c78abe6d563053b3fc34ceb",
+      "url": "https://files.pythonhosted.org/packages/8c/d7/b6de64594571ac6c5c483142e50dae858657c62a1d8097d82be2cd505e37/stscipython-2.14.tar.gz"
+    },
+    "2.15": {
+      "sha256": "0efb934e33d145c83baca36816949691965a2e2f2a1fed341d604964298ec78b",
+      "url": "https://files.pythonhosted.org/packages/9c/a5/74049cf8c6fa2fc683346a54d81d5e2ef1e7b601a6e0cdd6ba99780e94cb/stscipython-2.15.tar.gz"
+    },
+    "2.15.1": {
+      "sha256": "01cf47194c3309e802c41a50df14a09bf69dbe38b5f47d978ab041a2b55a8e3b",
+      "url": "https://files.pythonhosted.org/packages/35/70/5ff5f04094a807939b1ebcb1a49e4cdab884690e8516d7f56cb1993911c6/stscipython-2.15.1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "latest_version": [
+    "2.2.1a0"
+  ],
+  "meta": {
+    "description": "Tools for interacting with CADC VOSpace",
+    "homepage": "https://github.com/ijiraq/cadcVOFS"
+  },
+  "versions": {
+    "1.10.2": {
+      "sha256": "5dc11ac91370959ebb4036e94a37e98176f091972884755f07c918374c6d3ddf",
+      "url": "https://files.pythonhosted.org/packages/56/8f/f9ab69e686e8d7b840aa415321143b3581879b43a244431a709d8260a38d/vos-1.10.2.tar.gz"
+    },
+    "1.10.3": {
+      "sha256": "dc75e0e06c1b7666173cdcd5119e45539ce996358ab40023b7af8766292c160c",
+      "url": "https://files.pythonhosted.org/packages/69/c7/0c1a1b6cd61286b0ece22732712d3759ddb39875d9da7d52a72299f9d829/vos-1.10.3.tar.gz"
+    },
+    "1.10.4": {
+      "sha256": "7f08af3fc96dbe7068de805c2f1bc2d954499e66116fa6a29a70f59715afec1f",
+      "url": "https://files.pythonhosted.org/packages/30/a9/a498b9a47b04ad1207f2107a8bd17792390bbef6277d6c88a45daa1db2ee/vos-1.10.4.tar.gz"
+    },
+    "1.10.5": {
+      "sha256": "335c5052c24c08e2338970902f79a626b14dbe10f360774bef868854f055ac63",
+      "url": "https://files.pythonhosted.org/packages/4e/0a/d31ec68199e14246542a01b8c165a79b5fa9fa0e71c6144a2c4e20f71d6c/vos-1.10.5.tar.gz"
+    },
+    "1.11.0": {
+      "sha256": "2776a7359788b79f0d34c311730edbeaef4ec0d6def8687ee1d91d3e9f01505b",
+      "url": "https://files.pythonhosted.org/packages/d6/f6/ffefdc7bc1776bba4b95f4e70dd7051294ead48f8180179b38cdcec48e38/vos-1.11.0.tar.gz"
+    },
+    "1.11.1": {
+      "sha256": "101f95f362de6f021c324997653406c6018a0bfb52511681937f9656a70c02d9",
+      "url": "https://files.pythonhosted.org/packages/9c/60/2f80a5c28e7b90fcb432b7a7e1640de7b6aa1b772501fd9a073daabddb7f/vos-1.11.1.tar.gz"
+    },
+    "1.11.2": {
+      "sha256": "2e1ea428bb11b286d1213da48abdf1132791f869f7b9a44abf2e87a9e879c226",
+      "url": "https://files.pythonhosted.org/packages/62/54/39a524f2273e9a92fca7840733641603dbc16954a3868d09ec8104faefaa/vos-1.11.2.tar.gz"
+    },
+    "1.11.3": {
+      "sha256": "7d1e845806e492c4e644ee5de0125df9b37b8ebfa7314d47eaf0b5331e277155",
+      "url": "https://files.pythonhosted.org/packages/f2/d0/12744a2ce7f2e3b8e50504469d025e00bb7f7967b1635ae94636f2651790/vos-1.11.3.tar.gz"
+    },
+    "1.12.2": {
+      "sha256": "d2fa564e6a84a5dc622acdb96c4aa7033d62fdf83f71eed4e53a840a79aed210",
+      "url": "https://files.pythonhosted.org/packages/20/f9/6362d1fe61cfafc673f8ef54ebcd055fe2d4e2f8147704a5236f28943341/vos-1.12.2.tar.gz"
+    },
+    "1.12.3": {
+      "sha256": "0bab00c2d66ba1fe4936ef5f179ff0fe6f8a776b4e2023a59070efc0645216c0",
+      "url": "https://files.pythonhosted.org/packages/b5/f1/72baeaebf336df60ad9b63afe085d2a3607ddabe4aef7b91b6986aebc3a0/vos-1.12.3.tar.gz"
+    },
+    "1.12.4": {
+      "sha256": "d048a81b5f49fdaec0a37b44637097163df784505dfa075418f1ca20c505b8fc",
+      "url": "https://files.pythonhosted.org/packages/67/e4/ec84921c0292207d26bd82826b6b5feafd13888baa1780dc6949f0fdcffa/vos-1.12.4.tar.gz"
+    },
+    "1.12.5": {
+      "sha256": "5927609cd60aa2d92150cd8a68eb046f4412a8f3b50de6a716665dce8a2eecd1",
+      "url": "https://files.pythonhosted.org/packages/4a/ec/6a2c154f3999d20b514b205e8e6e546cd45427867c00cbe096199be1f606/vos-1.12.5.tar.gz"
+    },
+    "1.2.1a": {
+      "sha256": "7f3f828628e9ff6f12489fed4db6309cbd87853f354dd6e6dcc9d275cc2f0b08",
+      "url": "https://files.pythonhosted.org/packages/45/d3/9e05a5f6e21ece74361e57d5dabf9d19e309bad813658e7d4f42a92d0076/vos-1.2.1a.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "3d2f514b19f06b44d50d32b5323d7743608bd2b5193ab10b620950d3a8d85fa0",
+      "url": "https://files.pythonhosted.org/packages/25/ab/5444991cbb5d54a1fcc07d74618a1c1a665e2bb1fdc1b980c27f11ddfa8d/vos-1.2.2.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "640af5cd83e2b26ed2174198465a729ddb7e46f53af0bb63849d72a9d95f7489",
+      "url": "https://files.pythonhosted.org/packages/e4/44/0a9f236867498d00a777e5f033ebaefe505738dba6700c957d65df33e867/vos-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "e26c6527c36052af6033e073e01975d2b79c4ba1afdb376beb564a404bb03b19",
+      "url": "https://files.pythonhosted.org/packages/68/01/be1cf57ec315f0f6f4a67430bb597fe4a8901958c2e459a9355514ed3cbe/vos-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "86c00679f55417525c6cd90ae312b8e13acaa331bacb9e7401c26ea6e821d1b8",
+      "url": "https://files.pythonhosted.org/packages/7d/0f/1dc6b345ba8e8f2db77c0c0a01d39ed15f9616abef4b38e838c334e37eba/vos-1.3.3.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "87f2c4027ff574a7d8ecfda947a863684968d0d57b621cb28a9bc0a445598928",
+      "url": "https://files.pythonhosted.org/packages/9d/be/de1dc51645867915e15fd3e0a30c4155b2a93154bb99f3722a13b03ee113/vos-1.3.4.tar.gz"
+    },
+    "1.3.5": {
+      "sha256": "e38a8195fad88b4341785b553ef1a126e9248deee97ef6b97d60180794fcc1b9",
+      "url": "https://files.pythonhosted.org/packages/02/d5/f29fd4578c1949c207aa743070cf437ea9a0414823e9bebdedbe9a1fd5d7/vos-1.3.5.tar.gz"
+    },
+    "1.3.6": {
+      "sha256": "2da188871b0b88e8c9a4500ae3f5ecbc8af2a44940e4169059e2ea2cb18943f5",
+      "url": "https://files.pythonhosted.org/packages/b5/7c/f96144eab3de959e3a9bc8ff86d18ca79bf55afa437a317cf72c21d8a140/vos-1.3.6.tar.gz"
+    },
+    "1.3.7": {
+      "sha256": "65b4a7b5a7cce5a758b4d49285abf02d52b28019acaf11d68d938fe8d68f7ab9",
+      "url": "https://files.pythonhosted.org/packages/74/c1/d4f8b80405e9f521bfc18360027fcb4d7200a93234c0504fd687388cc258/vos-1.3.7.tar.gz"
+    },
+    "1.3.8": {
+      "sha256": "9fc30855f62d8a7056d894f1fc7be5632d976e40f434251c2091696cc3e0a9ce",
+      "url": "https://files.pythonhosted.org/packages/40/99/91738a69c48c2cd7b7174932c7a9d14db2c40d8c346e37a7cba20477942f/vos-1.3.8.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "a7207915aba37ab826e01b27f5106f34950b17cfefa18f6e242fe568c0f999ac",
+      "url": "https://files.pythonhosted.org/packages/8c/91/a3f060bf3d6be3f36b2756fa6513e24bc6593774adf3983984ead1cb5df3/vos-1.4.0.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "442a649a8c648b9296f218e1ca6ab80587c9b36775eece390125eb2b736a889a",
+      "url": "https://files.pythonhosted.org/packages/ec/69/73523f2e49bf2f57e3b566b38d87c898b9bed8926318ac62677f6f9098cd/vos-1.4.1.tar.gz"
+    },
+    "1.4.10": {
+      "sha256": "f9fcbfd3dfbf627387e3fc66113302b657c2c6e35eb6914c97320bddd90a161a",
+      "url": "https://files.pythonhosted.org/packages/6c/ed/3078657c1a5d328bb2fefbf171fa74a82efad191fbc3f9a9b10058868272/vos-1.4.10.tar.gz"
+    },
+    "1.4.11": {
+      "sha256": "8645f770212e19d6aace0b188ab0edf487256a5cf29812f762d039698862774f",
+      "url": "https://files.pythonhosted.org/packages/23/ea/ce9ac3bec0b4924d8b512c44fb9a1db3b1aae5e5f27856107496b686a6f6/vos-1.4.11.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "6d68ee9c10c056d5cbc1615faa188cec7f807704365d23d30431b92d9e70d0e1",
+      "url": "https://files.pythonhosted.org/packages/e4/77/f5d0a07ec5125094fef432be1a04bb3221d70bd0403a34515e2408ab7eb8/vos-1.4.2.tar.gz"
+    },
+    "1.4.3": {
+      "sha256": "8f9be3c3b771f6febcd327bf06f743f73301f0ccd65d090df177bcc58a944751",
+      "url": "https://files.pythonhosted.org/packages/64/10/922c814cd4a56b7ab4e6b29db9ad078d672787b4f71a9bd0d8877f22302d/vos-1.4.3.tar.gz"
+    },
+    "1.4.4": {
+      "sha256": "83fbccbe99dde6a17473367a8c7a2abf981eefbc510c9185eea366f7633dc05d",
+      "url": "https://files.pythonhosted.org/packages/b6/dc/a0dc7787731d10d8447d07e3ef9c32ca2fac7ce4cb1bb723d72e39ca13c5/vos-1.4.4.tar.gz"
+    },
+    "1.4.5": {
+      "sha256": "2eb34cb589b31c8eb3badfc1486dc92c5252f8e5d85b9f9a2864e25b55608e8d",
+      "url": "https://files.pythonhosted.org/packages/77/f1/7a28e98a1892a943c744040fa1be53c802c6b8526347ef0c2e2019526cdf/vos-1.4.5.tar.gz"
+    },
+    "1.4.6": {
+      "sha256": "cfd9f3ccd93fc0743140e430209a4029a1adce806c466fc563419881ebd73e58",
+      "url": "https://files.pythonhosted.org/packages/a1/33/4ae3d53c3e468948132d3a5e25353e4a25a50dcddf25e4aa3c8387fdd904/vos-1.4.6.tar.gz"
+    },
+    "1.4.7": {
+      "sha256": "3e84838b18174f66ad14d0a1bcfbbb6baad830b6f0394d6a4480e0ce37c6652f",
+      "url": "https://files.pythonhosted.org/packages/4f/b6/ec217be78ff4e8190a44998895316517f10827d6aa4fa9204f1ae723b1b5/vos-1.4.7.tar.gz"
+    },
+    "1.4.8": {
+      "sha256": "58a7d96d1f34f5b621c29cb8364a97b4a092856fb7a11a5cb62a3d971b9d4694",
+      "url": "https://files.pythonhosted.org/packages/86/0b/64616f230a7057712d31e6ff8da2f9f9b57816487698a4487d42843de87e/vos-1.4.8.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "798a0b278a566df523459e40dfaf5d2ec2a78f2246c9607c9aead2c7306f17f3",
+      "url": "https://files.pythonhosted.org/packages/3a/74/0ade438fe0d4488b87cad2bdd5acf95832f31ec095eb50a1ae66af0c8cfc/vos-1.5.0.tar.gz"
+    },
+    "1.5.1": {
+      "sha256": "dcb05b736e01850b756dc80901431bf259321822352438c252f7c689e75fa281",
+      "url": "https://files.pythonhosted.org/packages/76/96/566e452835a05faf78071d0a5d6f968572c691fd08a851e7e05fc500a229/vos-1.5.1.tar.gz"
+    },
+    "1.5.2": {
+      "sha256": "bb621185c749bbeba40e04a1c815b26f07c67dace060301b6c4a4b055ab754e9",
+      "url": "https://files.pythonhosted.org/packages/3e/49/7127d5a9c2da439600396ffc141b76b036067a4770073afe97e1c1cafbf5/vos-1.5.2.tar.gz"
+    },
+    "1.5.3": {
+      "sha256": "49a9b84725d2b5af6fbeae05547abff1462afc734d8512431e39c4248b8f7501",
+      "url": "https://files.pythonhosted.org/packages/62/04/8a401223137422a798db2b2eba747caf0461b2fb52e9ddee67a553afccab/vos-1.5.3.tar.gz"
+    },
+    "1.5.4": {
+      "sha256": "24fc8409229207ef84b828423ab39fa18baf738349e0c578b2dd863dedd284b9",
+      "url": "https://files.pythonhosted.org/packages/c3/32/596af74d7acd0af247923f8b20b5834daf579c11e196633844409d4280f9/vos-1.5.4.tar.gz"
+    },
+    "1.5.5": {
+      "sha256": "86a482067c3e290a8a0c821ecb03a545ae268a2f29b97c1756228dec20b73227",
+      "url": "https://files.pythonhosted.org/packages/ed/a6/85f48e250dc0781f90171b8bf43215bae1191e786a8d0f577c6b880151f3/vos-1.5.5.tar.gz"
+    },
+    "1.5.6": {
+      "sha256": "6b653a148bbb036ee9b4d388690c16c8f724c1f7eb4b43b787cbba28cd7c583b",
+      "url": "https://files.pythonhosted.org/packages/94/ae/ae24ba467efb4638db6d68bad5e83c4882355448dca42617c1e6b8c53357/vos-1.5.6.tar.gz"
+    },
+    "1.5.7": {
+      "sha256": "7935245f20b2d0245142f35cd032d47e4f600a5406aed06d8b0a0d8ddc5ffddf",
+      "url": "https://files.pythonhosted.org/packages/5a/4f/8c169f1a26e7b9d01ab211a1dcfe6a7016cda384dcce0866a9633ff1d0a5/vos-1.5.7.tar.gz"
+    },
+    "1.5.8": {
+      "sha256": "177e11034ac3a566e56c51f5f9b76a73031000c3f6a56634aa7249679e8327c2",
+      "url": "https://files.pythonhosted.org/packages/cb/06/c3c2868d628f5d1e65ea0ada867f15c40b16f3f7352dd6e8674bd5688c5d/vos-1.5.8.tar.gz"
+    },
+    "1.5.9": {
+      "sha256": "1e014ddd2b061ac9525fa957bcd068780f9fbfd7cd852f7b16bcbe736d3fb081",
+      "url": "https://files.pythonhosted.org/packages/eb/12/c3e3c855ae48af0d50fbd7c65fb84c386fff0bcafc3eba11c73ee0174fb5/vos-1.5.9.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "cb73aa620c235ecaaa8aa0f39543aa0b10626d56d1532f908ae7775324703450",
+      "url": "https://files.pythonhosted.org/packages/2a/65/7603abc0dfca79d55bffed3dba7f75a20dec89aa0fbf86c281aabd5c5203/vos-1.6.0.tar.gz"
+    },
+    "1.6.1": {
+      "sha256": "9472607f5f15d3bdca2b5dd749716225e352e507bfd778d91dc6f7ef88ecab23",
+      "url": "https://files.pythonhosted.org/packages/6e/a6/fc356a6f8d5153c866242fa9410925548bcd50bbbda0db7b3752f90a924f/vos-1.6.1.tar.gz"
+    },
+    "1.6.2": {
+      "sha256": "141289cff558fc8d14f1dffc5f66d037e40c1b2c90b9993d8d71ad446b25e20e",
+      "url": "https://files.pythonhosted.org/packages/47/b5/bd696f2e34f0b04d44e6943d9831b2ec95d64a24eb3ddb72f870b6f0b2fc/vos-1.6.2.tar.gz"
+    },
+    "1.6.3": {
+      "sha256": "c5b175d70d3cbdf664b50047d2f95dc08885054abb32b9ab6940be7091d991a3",
+      "url": "https://files.pythonhosted.org/packages/6b/36/2cfafa4331fbb6cf5dd6bb58af37d0f41fa72307c4fb7192c8b9f3fca13a/vos-1.6.3.tar.gz"
+    },
+    "1.6.4a1": {
+      "sha256": "78b0420d4aeea08724136f14c45fb3854e6785b86ce62a065350ed977343a4ad",
+      "url": "https://files.pythonhosted.org/packages/27/a6/59c55961eaf374ebe4062ec9df0ab3952a6ed252e9081645cc9357c0997e/vos-1.6.4a1.tar.gz"
+    },
+    "1.6.4a2": {
+      "sha256": "5f563880ca08b47f65cccd0abf549c5474704bc944cfda3500b5e2fe8aeb12b9",
+      "url": "https://files.pythonhosted.org/packages/e5/6f/13b1dcf5a2aff642c39ebed825ddbf9a0e5d6b5cf187052724b05dddb04a/vos-1.6.4a2.tar.gz"
+    },
+    "1.6.4a3": {
+      "sha256": "4ca88836040f882e000d0fb7d9f53667b6c983bf2e487052ed5a876492e9062a",
+      "url": "https://files.pythonhosted.org/packages/ea/79/4d18ae3ce9d0393e25bc2d562926a9040358bdb9fa3d9109104149c5a0df/vos-1.6.4a3.tar.gz"
+    },
+    "1.6.4a4": {
+      "sha256": "9dbcef1bc7d85a255347401e96423395f514d7bc4794b9e588a02389bc595401",
+      "url": "https://files.pythonhosted.org/packages/4b/c7/e85a43f85aa8d05e385e33607d44f0a03af301543418223537c804532ec6/vos-1.6.4a4.tar.gz"
+    },
+    "1.6.4a5": {
+      "sha256": "6f02b92eda4ae5d486ce7b720d5d0daaf3b3a5c24b62df073a9786e44dedc4f6",
+      "url": "https://files.pythonhosted.org/packages/04/29/437228e0adfe32d1e6418a8e3a3e01afe1a33404d22544bb8290c44b9816/vos-1.6.4a5.tar.gz"
+    },
+    "1.6.4a6": {
+      "sha256": "300379dcbc81b99ef70cefef3fb1c7fa1d1d76bdbfabdc4e51ee2841de444f65",
+      "url": "https://files.pythonhosted.org/packages/66/f5/155a7dcabcff75ee6daf0c753e2ac64c260927155d1c3ce37acc7807ea5a/vos-1.6.4a6.tar.gz"
+    },
+    "1.6.4a7": {
+      "sha256": "9691a44a13175a743755c5ae0a059e855b3140342d5a7cf04659c35e97a414d9",
+      "url": "https://files.pythonhosted.org/packages/80/dc/ed7a206e8206a55136e7ae6000625095d6ba2d99ba5525536e1992f6b3b4/vos-1.6.4a7.tar.gz"
+    },
+    "1.6.4a8": {
+      "sha256": "6c437e4509e36775c80af40b4283966eef7fe21c8780f3db24e16d6a9481c3cc",
+      "url": "https://files.pythonhosted.org/packages/5a/88/12020a0bb7276bcfee8dcc5daa23fbcb014dd9278d7c06ca069e4b1e45dc/vos-1.6.4a8.tar.gz"
+    },
+    "1.6.5": {
+      "sha256": "6ee6214c49ec8c0c35dc1a4180af57bbc6dbc89de27efdbf10946369f6b1ba4b",
+      "url": "https://files.pythonhosted.org/packages/32/72/588fb52ca8e8b0151dc8b6e162000bcac552eaf981f1e90a6d2c541dff4f/vos-1.6.5.tar.gz"
+    },
+    "1.6.5b": {
+      "sha256": "fdbcc8e79e4bb3560153ebccea09ccf6e90bd6e729d1433989ca90f113cfc41d",
+      "url": "https://files.pythonhosted.org/packages/a3/34/d14805964fba9dc7b79ef0491408366944869b87e3fbc34d44854b8556be/vos-1.6.5b.tar.gz"
+    },
+    "1.6.5c": {
+      "sha256": "5b0fbd3c7679665cb458a4cfd0106d14454c44b123d9323d17c9df78bf719181",
+      "url": "https://files.pythonhosted.org/packages/1e/7f/ee2ca980be904ed01807d0f567efd4c1d1d5663b4578f58bdcb777c96a03/vos-1.6.5c.tar.gz"
+    },
+    "1.6.6a1": {
+      "sha256": "cb17d76a11c402abe7e48dd93e8304ffacd254e23ee89e9bd491ff9e382c5bb4",
+      "url": "https://files.pythonhosted.org/packages/a6/9d/030f4413ba07ed99aa23d00f5526e4824fbc50e827cddf97f75d51df2ab9/vos-1.6.6a1.tar.gz"
+    },
+    "1.6.7a": {
+      "sha256": "f8b0a9220acdb627129dd7aa52ce2abe5f6c3baa7d17ecce7815173f1ff70913",
+      "url": "https://files.pythonhosted.org/packages/ad/dc/b01d125a4303cc46735ea128203e7de4bef2c5bb692c998be1958f903206/vos-1.6.7a.tar.gz"
+    },
+    "1.6.7e": {
+      "sha256": "512bc37b4c16b441734e0ef49e2d167fcf3e954a2cb5d0ec54b17380ee6fffdf",
+      "url": "https://files.pythonhosted.org/packages/a6/ba/b72f2f4121bf24121572b12ada2f0f681d06dd6c7111c1d38ac8d59c6431/vos-1.6.7e.tar.gz"
+    },
+    "1.6.7f": {
+      "sha256": "52d5e8d930005c363343c667ecd8e158cfb84b04b012dca3e44d15d7871e6cf2",
+      "url": "https://files.pythonhosted.org/packages/83/12/baf848ed5dc297402c7f2076fe5497bcc2ec38a02b53f893264bc54fe3ee/vos-1.6.7f.tar.gz"
+    },
+    "1.7.0a": {
+      "sha256": "e2944572b8cca39492c4519df9b2b153d5df048448ca4bfa3d83a5a98efb4ae7",
+      "url": "https://files.pythonhosted.org/packages/05/1d/bfe05fff04abeb57be85e33b04930bdce1ac077c9319ab68045d08df4b93/vos-1.7.0a.tar.gz"
+    },
+    "1.7.1": {
+      "sha256": "4de55e702115e2466a1e889efd89e1610f74dae900abf676f8c46f64d2c083e0",
+      "url": "https://files.pythonhosted.org/packages/8e/d5/386e6e5cc3c9c78f0e39917aed6de868b07d76ecd87974d5344ad199e083/vos-1.7.1.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "650caa9bbca47e42b9de2fa7825ebc4a1857abd227fdc6d0e37d7bc1520272d2",
+      "url": "https://files.pythonhosted.org/packages/bc/d5/827502ac3f475481d78bb2bb031413b2767fce0a2e586fc546805aa6fb01/vos-1.8.0.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "8ea19fac1868e601cacb7b0adf30912cee5f59df99910ab93eadf00b70a7e3da",
+      "url": "https://files.pythonhosted.org/packages/3a/50/fe6252d1a417c0e955f9b3e2c7ff52e6a84d9b6c572cd107d00d2e5d1626/vos-1.8.1.tar.gz"
+    },
+    "1.9.0a": {
+      "sha256": "da0eb0de6be5620f5b688b58267f928da3479d48e2684023a303656571d975b9",
+      "url": "https://files.pythonhosted.org/packages/6c/ea/9ba8040afc684d0d30f7e2f6ae4882a2aa7041df08b965c466b9814b27f2/vos-1.9.0a.tar.gz"
+    },
+    "1.9.0b": {
+      "sha256": "bbd0ea8836be1864023cf1bc2f39c83de19f2ca7845f123eecab9ad0dccb441a",
+      "url": "https://files.pythonhosted.org/packages/d1/a9/e0a6b47cc539fb945bca0034fe3e0d0f15ee486d9c4fd03233d38c60ae95/vos-1.9.0b.tar.gz"
+    },
+    "1.9.10": {
+      "sha256": "b76eeef900c58ffca7cdf0e484cf7daa7372c71a841d8c6393c247d5f0ad726e",
+      "url": "https://files.pythonhosted.org/packages/31/ae/95f3d5eb34066ad95822035c9a36398f384903c2a9ae640df0236edc6563/vos-1.9.10.tar.gz"
+    },
+    "1.9.11a": {
+      "sha256": "3448d24847e7b070dd111fccf6c6a9e37dd2b926ca1d499b8be2171ea594fe2c",
+      "url": "https://files.pythonhosted.org/packages/83/59/4cf973dff54786b4eaf8b20fe89182e6f56aab7a093559b8ffa7e1982206/vos-1.9.11a.tar.gz"
+    },
+    "1.9.11c": {
+      "sha256": "485cef2ed3326e797e6e4082ed417304e443c3374115236040fa16a1dabbc020",
+      "url": "https://files.pythonhosted.org/packages/06/c7/4e66300969f2b35ee0464a6a169ac6618cbb6b1ecb2d764b56e4d78aac5d/vos-1.9.11c.tar.gz"
+    },
+    "1.9.11d": {
+      "sha256": "d396a72b5f8878b160ad68948619186a7ed9c5eab425b3d5fd11f2ad2a743f6c",
+      "url": "https://files.pythonhosted.org/packages/4a/e2/d0e897051af9349367741f3f462aaa5dd814be758100fa8bb6ce0ff7fab4/vos-1.9.11d.tar.gz"
+    },
+    "1.9.11e": {
+      "sha256": "00e0748c8f67bf674821517238b38273892bb433a0f22c8763be9df6092db6f3",
+      "url": "https://files.pythonhosted.org/packages/b3/11/5ac5f4d49ab6efec2b285368ffa17f6d35be8f4273f08b17aaa00abb84cd/vos-1.9.11e.tar.gz"
+    },
+    "1.9.11g": {
+      "sha256": "0a9429573be57b5a449c9a97fcb5d791a841cba8cf7fb6a8853b70c07ddbbd29",
+      "url": "https://files.pythonhosted.org/packages/55/34/b05675b612fc8c463a12227d8385618ee9b50a5e0db13c598ebc21480f69/vos-1.9.11g.tar.gz"
+    },
+    "1.9.1a": {
+      "sha256": "43e8e33d8a35c2f78252cfeb13f910117224e50500bf2c0f76fdcadfd8d4a036",
+      "url": "https://files.pythonhosted.org/packages/a3/d1/713d62fb79679c8bba26dcf54d6130eca2e9930c42e34a3a68d4dccc763f/vos-1.9.1a.tar.gz"
+    },
+    "1.9.2": {
+      "sha256": "32732ef88a3f30cd7df896003a9ce604512c85af1029079d6468de6e45916dee",
+      "url": "https://files.pythonhosted.org/packages/d1/63/705351d77463d165e8b4f8f63ba2bda83fbb2372489d170c8f4279078e32/vos-1.9.2.tar.gz"
+    },
+    "1.9.3a": {
+      "sha256": "06302124677282e9355a5a9ab9b746432fc240945f56bc7b0a0cd7176cf065a0",
+      "url": "https://files.pythonhosted.org/packages/c9/44/52c4f67b4b96ca70d7e8f5048152c1e387f8f9984dd5b027c4744273229a/vos-1.9.3a.tar.gz"
+    },
+    "1.9.3b": {
+      "sha256": "5cc6c4119fb9a7d8e325ac1f715ba34d4fbfc1ece03fadaf4c1e20a0c6146988",
+      "url": "https://files.pythonhosted.org/packages/17/0b/e51c8ad5a34d62552aaef46146233cc5d1571b0c039520961e6adb3d5e64/vos-1.9.3b.tar.gz"
+    },
+    "1.9.4a": {
+      "sha256": "7f92455a7e4e87d12fabacdd5f6f1eff2c084a46cf9b5655eed3b1a8a8f4d599",
+      "url": "https://files.pythonhosted.org/packages/41/3a/94ed668a93ed0263857a6cf84f166699f76f3660aa0a37e0b57038f9990b/vos-1.9.4a.tar.gz"
+    },
+    "1.9.4b": {
+      "sha256": "319e2450af2def61031b3673a4f278edbd8ae5ffe69bf5c6c4adbd2d0984925c",
+      "url": "https://files.pythonhosted.org/packages/e8/40/cefc9d18b46e628603611c802d7abd95638c0ba0046d75379b55d0e6c96d/vos-1.9.4b.tar.gz"
+    },
+    "1.9.5": {
+      "sha256": "293068c8b40c1e4b50bef760f0708d3c0f575c023170376e5d571760b13a7964",
+      "url": "https://files.pythonhosted.org/packages/fd/85/b04f50096134a7e904c5abf2eea56aa63059d9fe69a8f481ef292dc080ea/vos-1.9.5.tar.gz"
+    },
+    "1.9.6": {
+      "sha256": "bd91c4e5663fc6c75bec9745d6f5fb78bb2947ea659484e5377aaf5cb76f5879",
+      "url": "https://files.pythonhosted.org/packages/8e/77/bf230af83a5403693d50175e93fb17da09fa6108d2cd80f6c853c3afad7a/vos-1.9.6.tar.gz"
+    },
+    "1.9.7": {
+      "sha256": "51775b86e2a722da351b0dfb4ac0898f745a993859f40d9c0832aee354d9e143",
+      "url": "https://files.pythonhosted.org/packages/5a/81/bdb607f39eedcc88b0c6c9b860b767c29c1ab1503a7d42c006006a79ac6b/vos-1.9.7.tar.gz"
+    },
+    "1.9.9": {
+      "sha256": "cfc23cd0405a38820e5f0dab65b53033950b22dfdff561c81ce50e2ec418c092",
+      "url": "https://files.pythonhosted.org/packages/0c/fc/0e836296e9ed97ad3c321a2bc7e955530d55c052788630037a73e1aadb42/vos-1.9.9.tar.gz"
+    },
+    "2.0.rc2": {
+      "sha256": "4c7929b4b5555b176d4ea3eeca5a96b18e9448042bfbb663fbcd52efbd069207",
+      "url": "https://files.pythonhosted.org/packages/b6/4e/0d118aecb37ecd9e0651c2a57869ff14bb2d2dd7f716e5f62ff680f9a1bf/vos-2.0.rc2.tar.gz"
+    },
+    "2.0.rc3": {
+      "sha256": "6068ae170841f4743fb07ea2c43fc1039f6a265f3c466b668a68de6dd7e69ffd",
+      "url": "https://files.pythonhosted.org/packages/82/06/a737c0edc7a068e2b3a6608bae41d43512589ce388fa7c9d011bb40d8861/vos-2.0.rc3.tar.gz"
+    },
+    "2.1": {
+      "sha256": "daad70513ee59ecc5b5b1f498738296d35968ff774ba8e42eaf16798e7aa0094",
+      "url": "https://files.pythonhosted.org/packages/14/cb/5490c9029ac898486bd6eec5af74e6acffe6766490ba03f9cb6cbacbc38e/vos-2.1.tar.gz"
+    },
+    "2.1.1a0": {
+      "sha256": "5ed39c0465d80acad4f94a6a18c41c9af5948deaed419862e105f470a6bd4c19",
+      "url": "https://files.pythonhosted.org/packages/94/45/083ac52d2e3d3a37301c1e3d4228bf389c6826665f52064a9c8375928e10/vos-2.1.1a0.tar.gz"
+    },
+    "2.1.1b0": {
+      "sha256": "90ee74ff048d891b836dbbf98744146b7d1a6b79ffbbbf92b568867c98700ea9",
+      "url": "https://files.pythonhosted.org/packages/70/e0/f33599072d49bb7316e127355e17a9f4bb9dce8729577a659238c84f6297/vos-2.1.1b0.tar.gz"
+    },
+    "2.1.2": {
+      "sha256": "2f5fe01c37bfbcb4b72648d8265dad7af91cdf1f896741c067fb269d6e6b6d77",
+      "url": "https://files.pythonhosted.org/packages/e3/61/7ee5a5133e0cc2200e7b6b78d5745e9614f49c7910ab87cbcc59f8c9561d/vos-2.1.2.tar.gz"
+    },
+    "2.1.2.a": {
+      "sha256": "3f6c8e5f43ef701f790a71d0bbde13c283ac4f69ecbf52935379864641850bf0",
+      "url": "https://files.pythonhosted.org/packages/cf/1e/3f57c11917a0225ace61fcdfdc554903ab6e5720a0b4bac8049111e36548/vos-2.1.2.a.tar.gz"
+    },
+    "2.1.3": {
+      "sha256": "f263013db40d1dd4072978c32d64e6a0cb96423119131a4de0a9986b332c9b72",
+      "url": "https://files.pythonhosted.org/packages/85/0a/66647496d325b71b2fc6ec501b99133766375f933e91f642a5e52883cddd/vos-2.1.3.tar.gz"
+    },
+    "2.1.4": {
+      "sha256": "5219de89477882c9a4f009014c1a30be267085b9c96ce1f06b3c02ffe1e06384",
+      "url": "https://files.pythonhosted.org/packages/82/7b/bae14f76e4c8a33fe7112015ec199603226cdc7065d105b9a11dff025bcb/vos-2.1.4.tar.gz"
+    },
+    "2.1.5": {
+      "sha256": "d60729929de81fa224d9e6b133594f1d1d53a4b261c0d71d0e139049e30f85f7",
+      "url": "https://files.pythonhosted.org/packages/3b/85/27aa429c820a4f3bdcf2a3fa2db59d056e9a639bf4f5800cb9dabeb93af0/vos-2.1.5.tar.gz"
+    },
+    "2.1.6": {
+      "sha256": "fbf6555ce536808888a3b2a8d2f68c89d9fabfd933bec9498ee6e572acd3c91e",
+      "url": "https://files.pythonhosted.org/packages/93/00/12890519e946a5f67ff780263cbbe8b3dd425e2c9ff79b70e477671067d4/vos-2.1.6.tar.gz"
+    },
+    "2.1.7": {
+      "sha256": "8abae5fff08d4cf557e6db1ac98a8b7ae5dd1cd2850038662586000429287890",
+      "url": "https://files.pythonhosted.org/packages/47/85/89501fb907a3c0594e2526a91ef21d9724b1d474d0c0c89c7ae21e940156/vos-2.1.7.tar.gz"
+    },
+    "2.1.8": {
+      "sha256": "b283379b0f17e16b9c57ebe5fc939e5a5d95b876bb0ddcd6846253787bec883a",
+      "url": "https://files.pythonhosted.org/packages/9a/13/0b399902282a903d582ee44d61a0cb0de0cd22eaecf705772e713f2f6874/vos-2.1.8.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "f58ee89a3f89dfda957f2d60cce5441be8edf9704e03cb7c5ac4b047d931681c",
+      "url": "https://files.pythonhosted.org/packages/da/72/857a54a2e1bcfbfe449940d43ecd3e27b2431393e1b793ec371d1e75efcb/vos-2.2.0.tar.gz"
+    },
+    "2.2.1a0": {
+      "sha256": "44f8d87dae488da327b4f0e687c76843eb2b3db502842fc3e485b5bcd62fe25b",
+      "url": "https://files.pythonhosted.org/packages/99/c3/383f5bf99a34b1d8b5e294f735ed1087544251b7b705e097e99915b7f634/vos-2.2.1a0.tar.gz"
+    }
+  }
+}

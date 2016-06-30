@@ -1,0 +1,204 @@
+{
+  "latest_version": [
+    "3.3.2"
+  ],
+  "meta": {
+    "description": "A worker application that listens to the frigg broker an pick up builds and build them",
+    "homepage": "https://github.com/frigg/frigg-worker",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "0c8526b6303fb115e7a696a26118a97f149f6379550f2a4e25373ca01d940904",
+      "url": "https://files.pythonhosted.org/packages/7c/ee/3f088c394d3c5f01fd242e0247823aa4b47c30a3256b543d5af1901e764f/frigg-worker-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "6c4b8b397c41fd4cdd4ffc8afb681c6df916d44dec266baacbe3bbb3fce889ce",
+      "url": "https://files.pythonhosted.org/packages/a4/cd/c4253fab24f4c58eaf0a4ffdec4c6f299294615fd7b4f6e6ff76a0f84fdf/frigg-worker-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "29ae1eed3e2cf58981ac33c65d8edfd82a38fa1c1eed4d46ca6d4c96457f4f79",
+      "url": "https://files.pythonhosted.org/packages/39/66/4640b76e7f758e0e0ee2b19c6b05ab36e4020f2079cc216aae7ba423333f/frigg-worker-0.2.1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "86abc4da43724c0185f4148bd20d97224cc25cade87d06566c9811ab9ebb0625",
+      "url": "https://files.pythonhosted.org/packages/2d/53/863481ecff9f21d9a6a2b216da228f65e8807d9f9f70d538723943c2d145/frigg-worker-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "20522d2677baeb99f757d1fa93a54d0b0e68077450875b0053e3f5398a915e03",
+      "url": "https://files.pythonhosted.org/packages/55/6c/bcb22cde78c5c2c8e65b9728a85b155b42bce4b71b8a81680d5b0e527b7a/frigg-worker-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "e1aea5c8e016d8ea3a06bfdc736861a74b8973012c0db9eb8684ab0b6f024d37",
+      "url": "https://files.pythonhosted.org/packages/8d/02/cb42d0f63c29bb49481dd288158ea2b6f64016a2286bd4622180e0720bdf/frigg-worker-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "04b4b65b430c6c70dd2889ef7972127d5bcc7964b93a36cd4a22b675d534d32a",
+      "url": "https://files.pythonhosted.org/packages/62/7e/e35b0df6b64e98c62a283c37757bcdfc84aae45c993bbb49ab4759630b47/frigg-worker-0.3.3.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "69af7bc06c8fa8673b05c779cb556967bdfe008f936eebc2157b53cbb80f662e",
+      "url": "https://files.pythonhosted.org/packages/5d/e7/502234a6eaf0f1d7f02a157404e7d62b743d98bcb986d27c351f4f93a981/frigg_worker-0.4.0-py2-none-any.whl"
+    },
+    "0.4.1": {
+      "sha256": "9d11cb940398825b29d83a4ad38a99f94b31e807eaf28c5e3163547f23434fbb",
+      "url": "https://files.pythonhosted.org/packages/b7/8f/94dfb12a0cbe7378d2161621de4c28eb7d3fd5dbc82a2fe5f84ead35beda/frigg_worker-0.4.1-py2-none-any.whl"
+    },
+    "0.4.2": {
+      "sha256": "677b6c97b691eaecbe2345a4d7dda2f24bbbd8dff2f30fcb39f0bd5e42818668",
+      "url": "https://files.pythonhosted.org/packages/21/f1/1158c9e748d96d70f940b7fff67b8049f39bc940e92124088b80ca6d4491/frigg_worker-0.4.2-py2-none-any.whl"
+    },
+    "0.5.0": {
+      "sha256": "f5e7e422ab138c0d8dc9753f7471a0c82ac61878c1078f0dbf2c1df1f21e40e4",
+      "url": "https://files.pythonhosted.org/packages/f7/bd/dbffe60d8f7bcf21e3b9148bc4416f45a245feea1868ba3ad94cbf91d8fc/frigg-worker-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "31af1bc2feb0cbf8e42fd47c5f4616dad5283d3456211384ac457b54b2849550",
+      "url": "https://files.pythonhosted.org/packages/e3/83/146de16a6b84430fe235fba85c1d733c2e0fe5d6d5a0be7f5e87e10a7bb3/frigg-worker-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "5dac3fd80fd812fac592ed1314cfddbd63c27edbd6671767d63993ae41913893",
+      "url": "https://files.pythonhosted.org/packages/15/e0/7978df58730d3ebd4948f07ae8db36899fd46f3f5341faffbfe9d245d5ed/frigg-worker-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "edc4022b0d1fced2d27c24c4531d948fe46b6778af999592f4bc8c88ae68a09a",
+      "url": "https://files.pythonhosted.org/packages/14/b1/567cd58efe278fddb88157186531e9b27f922f04b8e90ccd807dfa18f4ba/frigg-worker-0.6.2.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "1a47a21d2735c9128737c6ae37d0242e82c05666c1c44026eeb5bf8a01690275",
+      "url": "https://files.pythonhosted.org/packages/4d/d4/93f42ab2c5e7f7a9d156029d5d1b62c64b344f07c0ac199796b05768a4a3/frigg-worker-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "000a095f4d9ae041323787658ae481481de145d5540ea2e2049696def1e80704",
+      "url": "https://files.pythonhosted.org/packages/4c/a0/2aba8ef89bf01a49459058b8fa2db3aacbe2de71a796cae6d37ae4a2f359/frigg-worker-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "48803dca978e84b703d0b700252d9538814022b2203623c958c125091085b1e1",
+      "url": "https://files.pythonhosted.org/packages/08/f1/81d25613c928116cd8c03b4cabe1bb085d166336740d56adbb0647f6b417/frigg-worker-0.7.2.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "4d0b3ff33c2c6c5091c35651b04db2854e745c2f79ead75f07ce6b2644756b2f",
+      "url": "https://files.pythonhosted.org/packages/91/ab/50dc1abcda53d9715d9cdb56d0dd5339a129c19871f105487842f60c295b/frigg-worker-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "6897067851a9f46cf1175e504041be90e40bde0b68f3469fa64292609237e9a8",
+      "url": "https://files.pythonhosted.org/packages/f6/ca/2f99774d80691c585ff35790f2245dc0cfe743adc2ca38dbc761ec6e8eb4/frigg-worker-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "4b8c0b554dd868993922a419bcd3c058d1bb19051100c6e87af803896ac8ea60",
+      "url": "https://files.pythonhosted.org/packages/c0/9b/d9db4b690eb23df656b811c9df2a5573fe1c4e723804d8f3738613e3ac9d/frigg-worker-0.8.2.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "0151cdd65e17402912a591e0a7d7d50e19c4f3962ec0fa7099931e4669092142",
+      "url": "https://files.pythonhosted.org/packages/2b/0e/a6f95fc36611b7a9f46060818ee2b6cd5b4e582c07449202eb52d82903b5/frigg-worker-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "eb84c2c03fd727c2092508e22fa7f652953bf220f0390d0e4a09caca82b0651e",
+      "url": "https://files.pythonhosted.org/packages/d0/4e/d0014a9302cf9fd6dc2bcb549381e0e40f81f6b11f69ee80b38d79dd4e88/frigg-worker-0.9.1.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "236504413addd91d0072296df4fc1a62f3b0efa29a0dfb784351988e60148219",
+      "url": "https://files.pythonhosted.org/packages/89/a7/ccf6382b00f89b66874eb907cd1c668cee2c346dda3039405a8b33c41578/frigg-worker-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "077b081a6478168c95fceaa2980ba8d651c9791be356e0dff110a9e41152e2ca",
+      "url": "https://files.pythonhosted.org/packages/5d/05/3e7892222daa6473348aa120ae992c81137f369f75ea94a36ea0b2fcd0ac/frigg-worker-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "cdbc5dbe45ad130f3d9d775f52a6f86cc848f51a85e434007154d399a1954428",
+      "url": "https://files.pythonhosted.org/packages/73/7b/c6ea0fac8f61c73d2a1cfb1c9c42c3374eace798f6cf2ff675b44b64d470/frigg-worker-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "1bc563b0a632576428fdce5ab9ab96b5939adb9b63096d7608caf79e712284c0",
+      "url": "https://files.pythonhosted.org/packages/d5/e6/c3fa86925e3e01d4bd8a66541b02c336eb8782a9ced2a946761087a5d6f1/frigg-worker-1.2.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "40cf133a58f2193a5c2ed8fcdf8d937ba9b437bf1e4c09389401ccb47a88dc5f",
+      "url": "https://files.pythonhosted.org/packages/4c/51/015eed8fc7efc75bed4cb3e5aeb5214bbdfd16622a7e3c39eba8cf222770/frigg-worker-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "f71df05c386ec9a86cd8580f51fc40ec9ef3586241241bc52681db8550753fca",
+      "url": "https://files.pythonhosted.org/packages/4b/72/a4b56d4878d031024ac79b1aec54c52f96a3eeb92fdf19a06ef2b6584ad8/frigg-worker-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "03e1119ea731dc6620a8b4b6a836f8c726ad2d9fe6e79db1a854544fb35ef871",
+      "url": "https://files.pythonhosted.org/packages/f6/75/99fb3a5fa85eb2d528fba068085e28371391e04f9170bed291cb569d1231/frigg-worker-2.1.1.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "257cfc10e45d5aec7c54bb201e3210e23a919c651dfb8270d50a741de1156e60",
+      "url": "https://files.pythonhosted.org/packages/6b/af/b5be96123aa923717d491d9b18ec1c3cc2c46f987bf81782862e9e1c19c1/frigg-worker-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "52624f11cac4ae47d8dc009a956472dad70bff6d4a2223ba633e6631830c4c23",
+      "url": "https://files.pythonhosted.org/packages/10/9f/8ffe6fc4541afdcb3e19bec37df0c8211852f07b03143761553db5c8da01/frigg_worker-2.2.1-py3-none-any.whl"
+    },
+    "2.3.0": {
+      "sha256": "5ecb01c272ce58943f909630ba9856964b950dff28d3787e0713f0207721d2bb",
+      "url": "https://files.pythonhosted.org/packages/95/73/f11f893dec7751862dbc038740855b8027b0ca2147743c856740393ed17f/frigg_worker-2.3.0-py3-none-any.whl"
+    },
+    "2.3.1": {
+      "sha256": "60922869c9a670b851bd8cfdbafc13b3d648f2346360b77a7ca2b155bddde861",
+      "url": "https://files.pythonhosted.org/packages/c2/6c/f558085e563ea7097331bc82270c6d56b8f253d4ae9954f170886080e320/frigg_worker-2.3.1-py3-none-any.whl"
+    },
+    "2.4.0": {
+      "sha256": "6adb9621911c77900d939b5bb32110da5748dc0051cf06e176a00887b0692114",
+      "url": "https://files.pythonhosted.org/packages/f4/e5/eb8b2e74efea129a627f92cecdfc041969395d09d41c6dfdba09d1e7b949/frigg_worker-2.4.0-py3-none-any.whl"
+    },
+    "2.5.0": {
+      "sha256": "3f7cbf326d69b9949ebf04ea517294f40ca10dfb62d73fdb5fe8eb67b2292596",
+      "url": "https://files.pythonhosted.org/packages/81/12/a965cb7fa58e05dd4871a9fa05b87ddb988a6c7949bd42744261411286e2/frigg_worker-2.5.0-py3-none-any.whl"
+    },
+    "2.5.1": {
+      "sha256": "83864a17e53cafd17f2aa977ab7e2cdd903038bf36f84738760d9c12a386a585",
+      "url": "https://files.pythonhosted.org/packages/c4/ff/8c98243c2531381d0ae1c4446e86f93a2ddda0e59fbb6dcc30a587a90e48/frigg_worker-2.5.1-py3-none-any.whl"
+    },
+    "2.5.2": {
+      "sha256": "a77101befd96cd68dde8777ad8536151b1f1b9f599adc040eda7574d245fc825",
+      "url": "https://files.pythonhosted.org/packages/42/bc/48881846ce1c07572a276c3dd91a39f3b52fd9ce991e1149390e4691e7a2/frigg_worker-2.5.2-py3-none-any.whl"
+    },
+    "2.5.3": {
+      "sha256": "6196d133c58ded3e9818226d815de56b04f0a9693b9b940ffabda5cf4111b9b9",
+      "url": "https://files.pythonhosted.org/packages/e1/f8/747bdfd9f7a6f34a094e8e809546eeebf51748bea01f1e54ae6bb8ecaf14/frigg_worker-2.5.3-py3-none-any.whl"
+    },
+    "2.6.0": {
+      "sha256": "ab959d105936c013352618092505da346e0f803e7277ac2415d1d3e43115788e",
+      "url": "https://files.pythonhosted.org/packages/7a/76/86e283be28874ad05d2d314014d080eac114db1a1bf873b182073339e3f6/frigg_worker-2.6.0-py3-none-any.whl"
+    },
+    "2.7.0": {
+      "sha256": "269d008ead619d0b60b6978695af925657e347895a2512d988142c97194ea6c8",
+      "url": "https://files.pythonhosted.org/packages/0f/35/ad85b3bebd9182aeedd5b5226a7d75e0b46a6863f93dd8b4dfa9491c3b89/frigg_worker-2.7.0-py3-none-any.whl"
+    },
+    "3.0.0": {
+      "sha256": "a18ebe689950c4dfff47aeabfe841b47eaba2633600f71444cd06102642164ce",
+      "url": "https://files.pythonhosted.org/packages/5d/c4/48a79b67cb711a5b17d479a769054b0a5688356c6aec73cc951e0a5f7b0a/frigg_worker-3.0.0-py3-none-any.whl"
+    },
+    "3.0.1": {
+      "sha256": "a30d34baa41158025b5a42e4560c06179c1371962a258b4fdcb2cbeb083a99bc",
+      "url": "https://files.pythonhosted.org/packages/74/17/d2d1c264cf8be63f90c901cc15458e9bf66ddc8063dbe0747e13dc062178/frigg_worker-3.0.1-py3-none-any.whl"
+    },
+    "3.2.0": {
+      "sha256": "bf8a6292f79cef334806d542030bde9fdc319959921d72b216bf3858b04e6a9a",
+      "url": "https://files.pythonhosted.org/packages/27/1e/bd41afcbc6546c8e2c0959e9be01ca923c7fb7f399088b2575e9e18211e9/frigg-worker-3.2.0.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "51071add6c4dcc82361ea4d0866a57811b5dfcb05b24a61b40a0b2db3766fd48",
+      "url": "https://files.pythonhosted.org/packages/10/b1/c7a81c15c4b0cf9623986bee949bcb1b3f4faa6e6542140115a5ada8b942/frigg-worker-3.2.1.tar.gz"
+    },
+    "3.2.2": {
+      "sha256": "7b0cc8e87726df0e4e9574eadcf87550f779e93eb938a1b285da91fbd0079b87",
+      "url": "https://files.pythonhosted.org/packages/bd/96/de89ec6b94dc81bd1bce06537dc28a8bfb8e4218a648a5bef595c95c8576/frigg-worker-3.2.2.tar.gz"
+    },
+    "3.3.0": {
+      "sha256": "69556dd9a1c61a22abb3379378e2fffb90e3fec49d5765f9133edf1f9a454410",
+      "url": "https://files.pythonhosted.org/packages/bb/9d/fadfeb4f6c3bcd1b270ede5da986bf345d908c7bc660af9be72870a2ae3c/frigg-worker-3.3.0.tar.gz"
+    },
+    "3.3.1": {
+      "sha256": "febeedf70f5ad097dcbdba4a87c944f1011860345db0e76b211e7a2192797969",
+      "url": "https://files.pythonhosted.org/packages/e4/6c/04154fb0f555b0c227d57727fe74a4ae53bd957b5b881f126f709f5ea4bb/frigg-worker-3.3.1.tar.gz"
+    },
+    "3.3.2": {
+      "sha256": "30e4afa22920877dd0e54b627f94746bc6a53794855734a4e2b662295628d387",
+      "url": "https://files.pythonhosted.org/packages/42/8d/af560d4a34914015097e692a386f750bbd6c2dc59a727d3fe9d9e589b7a9/frigg-worker-3.3.2.tar.gz"
+    }
+  }
+}

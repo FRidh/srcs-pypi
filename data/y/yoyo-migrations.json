@@ -1,0 +1,92 @@
+{
+  "latest_version": [
+    "5.0.2"
+  ],
+  "meta": {
+    "description": "Database schema migration tool using SQL and DB-API",
+    "homepage": "https://bitbucket.org/ollyc/yoyo",
+    "license": "Apache"
+  },
+  "versions": {
+    "1": {
+      "sha256": "2e2bdaf90a9634a52486d0fcb8a45c1043ed13563a89ef0a7cb5731f1c226e84",
+      "url": "https://files.pythonhosted.org/packages/45/ff/69e53ca2738c4c1a55a16f863ff86088eb6faae1464af668d74fe21eda7d/yoyo-migrations-1.tar.gz"
+    },
+    "2": {
+      "sha256": "aa0156cd2f3828dee7625c1bb9d8d0673d5d47d0b52acd453c11d8f20bbf4eb4",
+      "url": "https://files.pythonhosted.org/packages/a4/95/9ff647032e3015136a847b37d813a88cb9c41c3ff33f21b9e8a3bc6d5ed6/yoyo-migrations-2.tar.gz"
+    },
+    "3": {
+      "sha256": "83d713db4de000f2029a8e7aa3c0d600792f47d287eadca96d8b24b1b8342f04",
+      "url": "https://files.pythonhosted.org/packages/f0/e4/e003d456eccace15a9cbd1a276c934b447c0e15349bb23099694e0042f18/yoyo-migrations-3.tar.gz"
+    },
+    "4": {
+      "sha256": "4dd56624c2c966911ab4dbe1efce32c535c55f2c324aef917e3f457ecc76a649",
+      "url": "https://files.pythonhosted.org/packages/a5/44/1389bded90720398579e928185a361d2cea399a334273dda7d82af5b90dd/yoyo-migrations-4.tar.gz"
+    },
+    "4.1.0": {
+      "sha256": "53dc2e77299a3cb0a723007bac1f96cd1cb7935843936f72236c77e409cf5acf",
+      "url": "https://files.pythonhosted.org/packages/dd/75/1e40325a856ef8fd471a992eb6a0f24f46592ce606ed015e5b007615312a/yoyo-migrations-4.1.0.tar.gz"
+    },
+    "4.1.1": {
+      "sha256": "fb07467fc3b12c799a4124bee9ab3f348b01b974b4d9b145bf0ea7fd16ad727f",
+      "url": "https://files.pythonhosted.org/packages/32/bb/18e2ed484c8a7fa84c3380a64532e2e73e0c733ecdd0a4142c1d2302a4e6/yoyo-migrations-4.1.1.tar.gz"
+    },
+    "4.1.2": {
+      "sha256": "e1c531473a13d251c0f0fb487ec89e3d965b0d73044a8cf1265a7940a57120ef",
+      "url": "https://files.pythonhosted.org/packages/0e/89/21fd24c831879f6e6f524ee96618ab1b4eaf176a56ee79cd9f0612130d5f/yoyo-migrations-4.1.2.tar.gz"
+    },
+    "4.1.3": {
+      "sha256": "09454b9bc46705ddc4bd2dbc86e1bf46da764b7206ab241a0b7983e2a12d1d42",
+      "url": "https://files.pythonhosted.org/packages/e9/cc/0ef9d0608d8b6113201c27370d9b9d769c291a49fafbf8d44cc2c22ccdbc/yoyo-migrations-4.1.3.tar.gz"
+    },
+    "4.1.4": {
+      "sha256": "53c6b9907bea1a1bdaed0950386559cd769ee7c7b5f90485064e38f87cfb1c09",
+      "url": "https://files.pythonhosted.org/packages/53/08/7116bc91e03e8a397eddd94a04c47bc8d80bdc69f9d756be1cbf625ab740/yoyo-migrations-4.1.4.tar.gz"
+    },
+    "4.1.5": {
+      "sha256": "8cfaf0320d6ec8c625322a7f174d1bae594ad3628966f74a5d6eb7079fd9ed53",
+      "url": "https://files.pythonhosted.org/packages/04/19/5887eaa300b678d70227e19e59c058cf76f612e46923a6d154d33955489a/yoyo-migrations-4.1.5.tar.gz"
+    },
+    "4.1.6": {
+      "sha256": "6c7c314ac8537bb8cb4f3ab6e0dfc3f2ce79204f44639dcb4db7308fec9d7de7",
+      "url": "https://files.pythonhosted.org/packages/75/85/ddd0783f102606e0e9796a97630b687088d4855a174737cede5a476f2599/yoyo-migrations-4.1.6.tar.gz"
+    },
+    "4.2.0": {
+      "sha256": "87d531079aebdeae8bf72fdced6e4f535c51bc68f690c35b97c5c6d3c018cd8a",
+      "url": "https://files.pythonhosted.org/packages/6a/12/36bdf12469d7834e373210c2be129e827dab0c82279fc12f93323c3b589f/yoyo-migrations-4.2.0.tar.gz"
+    },
+    "4.2.1": {
+      "sha256": "b91f3dc78c71f9123c0fd6435b89c4cc9388107114d9ab457c13edce55465335",
+      "url": "https://files.pythonhosted.org/packages/97/69/9df7cd58652c02b2ce75c382ddd1209d583fde79fe82b086cfe9bf45565e/yoyo-migrations-4.2.1.tar.gz"
+    },
+    "4.2.2": {
+      "sha256": "52679c76a91c76f2046fde6296e5330fffaa57dde7306966c583d7ead1d80596",
+      "url": "https://files.pythonhosted.org/packages/bf/7e/33e107da60c8babe444c8b518a666da6d9bd7f68eb086afd9a3a71ce0471/yoyo-migrations-4.2.2.tar.gz"
+    },
+    "4.2.3": {
+      "sha256": "694d6805e07f572598e1b7471582c59198c42f60cb7c9bcbbda3a5554b4a8ae9",
+      "url": "https://files.pythonhosted.org/packages/1c/c7/8b99a3a9be30d3d224456807b090ae1040285df3dd713123323e771e86d1/yoyo-migrations-4.2.3.tar.gz"
+    },
+    "4.2.4": {
+      "sha256": "a5a42fda330aaec02eb5bedd967f1509d579d18513ea6171abb584e1c8491453",
+      "url": "https://files.pythonhosted.org/packages/72/2e/1a4183cb3e617a9cd97c3bd5b47215669b8bbd6b24790b0620049990e19a/yoyo-migrations-4.2.4.tar.gz"
+    },
+    "4.2.5": {
+      "sha256": "f28b27272ca71e80be3dd41bb730c79ea346b8f319bfcbce9772e5e6dd493d2f",
+      "url": "https://files.pythonhosted.org/packages/4d/a4/47b80a393973a34bed8785ef82f9da21fa827d13dba6d06eb1b574c92538/yoyo-migrations-4.2.5.tar.gz"
+    },
+    "5.0.0": {
+      "sha256": "d1fd8d87eb3bc7d55a8b0ecea45d38a8b425becc213a688191ffc83f147911c2",
+      "url": "https://files.pythonhosted.org/packages/02/81/cb23c18e3e465f7dc2f4a46af0d26285aa4b1d9a5039a1834c528e39537b/yoyo-migrations-5.0.0.tar.gz"
+    },
+    "5.0.1": {
+      "sha256": "d458f78443b1db57eda423e86fe8b245561340a394da5dc83f40d6d1ae4237a4",
+      "url": "https://files.pythonhosted.org/packages/32/09/f33ddf97b61ae3986bcd0cda1d554edff506d45a766deb34ced8e0837ea6/yoyo-migrations-5.0.1.tar.gz"
+    },
+    "5.0.2": {
+      "sha256": "61c272bd2d6ac9fd0a078eeeb67aafa0b8a55dec88d428fe8ba90548d0c7669f",
+      "url": "https://files.pythonhosted.org/packages/58/7e/5be9e39243e05970392d2b24a44f9a0c41489f3e65c39ad9889275e3aa6e/yoyo-migrations-5.0.2.tar.gz"
+    }
+  }
+}

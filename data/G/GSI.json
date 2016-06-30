@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.6.4"
+  ],
+  "meta": {
+    "description": "Python wrapper module around the OpenSSL library (including hack to accept GSI SSL proxies)",
+    "homepage": "UNKNOWN",
+    "license": "GPLv3"
+  },
+  "versions": {
+    "0.4": {
+      "sha256": "7b39cb69224db34b5f731792cd3df664dd00d5b4de4ad2923f0084238bfc7c7d",
+      "url": "https://files.pythonhosted.org/packages/59/1b/509bb466bf20a43335a6d7610962c64ce69d60a66989e73df10344263605/GSI-0.4.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "0d9b5fcc0cc52c31515900306f60112301f885529b342878ee79bf3138451c7d",
+      "url": "https://files.pythonhosted.org/packages/f2/15/3c0f14538e91f8c0a76d6b81c3ac4d5c849b4d7ac824e59eeb21efb55083/GSI-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "a1eb25f46891b3d7ab2790fde8d267ec523eb587fd8d91635f1bbad2f3864f6a",
+      "url": "https://files.pythonhosted.org/packages/53/d2/ab1547c8e4315d643de06a257713c40ac5c8629856e1b1f4588b195215af/GSI-0.6.0.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "eb45c255205d8190d7e0518a0a324915dc85f8585e36e9fc383089cda8f5f6ab",
+      "url": "https://files.pythonhosted.org/packages/77/3a/a5525e7a2820f2c22b99955535668d4712ac6de70b34956851f5701e51e3/GSI-0.6.2.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "0b8809cb032b0b1d7a50591d36a1f7127cb6355cd0f8296a316f4fb9825c4d12",
+      "url": "https://files.pythonhosted.org/packages/d2/22/79be29c7dacc57d382727135e9bcd24f4468c6e6595368c56e5209a7b238/GSI-0.6.4.tar.gz"
+    }
+  }
+}

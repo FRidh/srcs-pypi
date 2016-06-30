@@ -1,0 +1,27 @@
+{
+  "latest_version": [
+    "0.0.4"
+  ],
+  "meta": {
+    "description": "pip multiversion (run command with all pip versions)",
+    "homepage": "https://github.com/russianidiot/pipv.sh.cli"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "98446f3bdc9a59424ccc5f79d4bfc126f8002cd6919b7b459b438305ffd97760",
+      "url": "https://files.pythonhosted.org/packages/41/2f/ba0af275c42e92eba61247206cdf6e1d6860f13e260843d150a06b3fa8f9/pipv-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "8c0291b5e49b61a42fb714ea88434d2594ac3d640022fbd24fd2f9c665f332a2",
+      "url": "https://files.pythonhosted.org/packages/e1/ff/bb4885b95f67093050d16f2ef0f28f33c6b4ab2abf227588096e2ffb6acb/pipv-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "6551c8cf0f5a624cc21652290cefc712f0f6dc9415fe418028cadc3fe29e4572",
+      "url": "https://files.pythonhosted.org/packages/c4/b5/ab952bfe1e946d0d5f574492ec6d2bb63acdeb25828502c9d039e710a027/pipv-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "9e022b7eb77f9bf94b77b377d811ab4378c9cc6da6967fb68ebf80f234006d7f",
+      "url": "https://files.pythonhosted.org/packages/de/14/9b170bf34f0f55d27ac29156727d253cb52fb880e6c19925c5da49c37a73/pipv-0.0.4.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.2b3"
+  ],
+  "meta": {
+    "description": "A Zope2 product which provides facilities for storing sessions in memcached",
+    "homepage": "https://bitbucket.org/ctheune/mcdutils",
+    "license": "ZPL 2.1"
+  },
+  "versions": {
+    "0.2b1": {
+      "sha256": "d1d58ff1395d79f5f0b8ea6b8719149beb22f47099c4a97c15909f6c3727d379",
+      "url": "https://files.pythonhosted.org/packages/55/44/84179e3c1b19d0f16555567316e1dd8573ca9e88dbcbaaf9d1aafe18fff1/Products.mcdutils-0.2b1.tar.gz"
+    },
+    "0.2b2": {
+      "sha256": "55a4d8ff96329a64e91ea2195e406ba5335c921e9840234b55f628792aff2d10",
+      "url": "https://files.pythonhosted.org/packages/a8/9f/fd14863228842020a40a05cab926607cb2a0dc5a75819af7f42fbc7bc3b3/Products.mcdutils-0.2b2.tar.gz"
+    },
+    "0.2b3": {
+      "sha256": "ba861a39131f4b3196661cea97b5a9d09e36c11f52f84decbbecb8dc469e3abd",
+      "url": "https://files.pythonhosted.org/packages/d8/66/e3135e9b1258e9584e047f44dbe2b0cfa7f023078121835c117ee702cfe4/Products.mcdutils-0.2b3.tar.gz"
+    }
+  }
+}

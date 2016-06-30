@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "Perform scripted backups to Amazon S3",
+    "homepage": "https://github.com/mgoodfellow/s3-backup",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.7": {
+      "sha256": "5a6c139c86ef0cf3442a99455527b20e27f1662659c338ffec8e2ad9f98fa2f3",
+      "url": "https://files.pythonhosted.org/packages/6f/b1/adf4736fc47b60d33e2049c5ce0f34441dec840ff5380fb835930718429d/S3Backup-0.7.zip"
+    },
+    "v0.3-alpha": {
+      "sha256": "cb7ea146ccd1ef0ccc1aae7d79244cb7c32de44d712a2f6b29d62662ab24a05a",
+      "url": "https://files.pythonhosted.org/packages/d2/fc/bc0ee541b89c8588963d79274bb591998b6977b37db17a4d5170276a54d4/S3Backup-v0.3-alpha.zip"
+    },
+    "v0.4-alpha": {
+      "sha256": "3cd896328238e55947cde79db4660b92d187c6450171e7ad9b2f67ed94309c27",
+      "url": "https://files.pythonhosted.org/packages/7f/7e/c1c3dbcf282930f3c396e75beb0deb5f67d131b6ebc8f5a98f6554a305b1/S3Backup-v0.4-alpha.zip"
+    },
+    "v0.5-alpha": {
+      "sha256": "0a1d02e55071fa65fdf89709bb0879973add687fb80a5bda183617865d04d92b",
+      "url": "https://files.pythonhosted.org/packages/ae/68/e337c66c85ea3690cf688b1bd1fa8cea463a695216d90e94d5085762e9e6/S3Backup-v0.5-alpha.zip"
+    },
+    "v0.6": {
+      "sha256": "54f37cf04869c1718d21f0bb93f2cac95cdd7342c08fd52cf7af4b38fa612df6",
+      "url": "https://files.pythonhosted.org/packages/e6/b3/7f7b2077fdae80e2c29f1a8e652539f4a1f9ef5de8bd49dab45913c54528/S3Backup-v0.6.zip"
+    }
+  }
+}

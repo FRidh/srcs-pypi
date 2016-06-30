@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "2.2"
+  ],
+  "meta": {
+    "description": "Remote control for LibreOffice Impress with Pebble",
+    "homepage": "https://github.com/LibreOffice/impress_remote/tree/master/pebble",
+    "license": "MPLv2"
+  },
+  "versions": {
+    "2.0": {
+      "sha256": "e6a0a056d29f03741c86b67c416d672f70fca136d1aa983cdf5976ab3e4a61c6",
+      "url": "https://files.pythonhosted.org/packages/c3/f6/16ad30a20ae3a5b68297f50227f2c6ff678a4b3f5d8e56058b603fa81a0c/pebble-remote-2.0.tar.gz"
+    },
+    "2.1": {
+      "sha256": "b79ec711271172207bb34fe8240e82c5e310970d7b5a12e6787f6f8a0faece6e",
+      "url": "https://files.pythonhosted.org/packages/79/db/9d913e83bbcfed371d31fc7df5084e2e6ee37a9a8da3b68bcd9993711a20/pebble-remote-2.1.tar.gz"
+    },
+    "2.2": {
+      "sha256": "50210e89de2dec617f42cf097092eacbaef50232134519cf5964c64e4d77a48a",
+      "url": "https://files.pythonhosted.org/packages/63/28/d09767391fb5c7ea0bec7d12e034218ff65b81028b3b3e03682c45832e2d/pebble-remote-2.2.tar.gz"
+    }
+  }
+}

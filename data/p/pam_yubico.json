@@ -1,0 +1,16 @@
+{
+  "latest_version": [
+    "0.3.0.dev"
+  ],
+  "meta": {
+    "description": "Python PAM module which allows you to integrate the Yubikey into your existing user authentication infrastructure (supports online, failback and offline mode)",
+    "homepage": "http://github.com/Kami/advanced-yubico-pam-module/",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.3.0.dev": {
+      "sha256": "fda0137bf80a5b4971eeb1da261302452e5c76f494a393650868cf64103337a5",
+      "url": "https://files.pythonhosted.org/packages/af/7a/3ef539aaddd9d0c3a718534b6904a78bca25b9f923e0941897ff2d38b134/pam_yubico-0.3.0.dev.tar.gz"
+    }
+  }
+}

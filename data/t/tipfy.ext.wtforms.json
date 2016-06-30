@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "WTForms extension for tipfy",
+    "homepage": "http://www.tipfy.org/",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.5": {
+      "sha256": "cf90ca48ee7329477bb5744af72e4253f41b36bb317318849c8f9d8762b907ad",
+      "url": "https://files.pythonhosted.org/packages/10/16/24f69624968d63f47606b3da58d5a669ac1cb0a5aab147f4b55e20b12769/tipfy.ext.wtforms-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "b5f8cf49e8c2a3791303d69b116f8bbc77aa62690aa220af3702e0ff01fb8adb",
+      "url": "https://files.pythonhosted.org/packages/b0/46/3782a516f02b3f2e2b83d1c9d6a5c87574a48f632590631edd84acd66bfb/tipfy.ext.wtforms-0.6.tar.gz"
+    }
+  }
+}

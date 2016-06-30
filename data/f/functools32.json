@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "3.2.3-2"
+  ],
+  "meta": {
+    "description": "Backport of the functools module from Python 3.2.3 for use on 2.7 and PyPy",
+    "homepage": "https://github.com/MiCHiLU/python-functools32",
+    "license": "PSF license"
+  },
+  "versions": {
+    "3.2.3-1": {
+      "sha256": "6a3b7420432b0817ef192aef341cd766e199801a90ca7fe319f9d5fca40edda2",
+      "url": "https://files.pythonhosted.org/packages/e9/07/09abd35aaaef501a669f1b0bc39004e512dce3abaa1846450a952a09f9eb/functools32-3.2.3-1.tar.gz"
+    },
+    "3.2.3-2": {
+      "sha256": "f6253dfbe0538ad2e387bd8fdfd9293c925d63553f5813c4e587745416501e6d",
+      "url": "https://files.pythonhosted.org/packages/c5/60/6ac26ad05857c601308d8fb9e87fa36d0ebf889423f47c3502ef034365db/functools32-3.2.3-2.tar.gz"
+    }
+  }
+}

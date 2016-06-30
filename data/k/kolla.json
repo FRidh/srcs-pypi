@@ -1,0 +1,48 @@
+{
+  "latest_version": [
+    "3.0.0.0b1"
+  ],
+  "meta": {
+    "description": "Kolla OpenStack Deployment",
+    "homepage": "http://www.openstack.org/",
+    "license": ""
+  },
+  "versions": {
+    "1.1.0": {
+      "sha256": "4e69fa67f6ae8e6708d323b87a330b51a33eaf6f12f57db63928ab04fe44229e",
+      "url": "https://files.pythonhosted.org/packages/1b/10/e1ea69165962ace7934bf966c09c6f12f0e312212d7e3735500ed5a8328d/kolla-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "144c65d77a68b112df9d8ab169aae5bfca9e4d5edca0cc08c61e614de6defaa2",
+      "url": "https://files.pythonhosted.org/packages/43/45/ca776e19e02ac3e698253a8126f2ec376b88af8c89a1e44219048a5b2dd8/kolla-1.1.1.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "8a9d99738bfdf9ccf6438d56448097dfb4bc8a0fc572feb75519895ee8f4122f",
+      "url": "https://files.pythonhosted.org/packages/f1/56/a82038c066938120604cd84aab607f73bccd772152c5d1b4091901d85f65/kolla-2.0.0.tar.gz"
+    },
+    "2.0.0.0rc1": {
+      "sha256": "6b777356895ac7d678c3b87064c267bef8ab2481a0590da1335a6a98adab9efe",
+      "url": "https://files.pythonhosted.org/packages/dc/72/15f3c2b7ee57aa06c251862e2c0fbdf916ac44049fbba325d3450863a3f2/kolla-2.0.0.0rc1-py2-none-any.whl"
+    },
+    "2.0.0.0rc2": {
+      "sha256": "1663b3ab8428c18db75cf2bcbb27c321e37c6f9aeb031387db4ff33967d3aa58",
+      "url": "https://files.pythonhosted.org/packages/06/ce/18698055792abc9989d0f37863b57f34eaa2d8aac7688115fea64bae86db/kolla-2.0.0.0rc2-py2-none-any.whl"
+    },
+    "2.0.0.0rc3": {
+      "sha256": "1407c0c4a1886651a87c0c01de061c2172ee585d7b5960239f1ba0e42b370e96",
+      "url": "https://files.pythonhosted.org/packages/a5/83/217da6daefeabc8441e54adae5a4d57ec4ec0e3e9c5fe463d1425557e858/kolla-2.0.0.0rc3-py2-none-any.whl"
+    },
+    "2.0.0.0rc4": {
+      "sha256": "29f5ea877e5bad9f0f3f97e1fd60ce6ef71d9fb514153ea09a4ecafea418aa9c",
+      "url": "https://files.pythonhosted.org/packages/e4/21/a87fb1e69135d164a34adc27ec26b2cf36e851233842e174922063655e97/kolla-2.0.0.0rc4.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "2396ffe8353991a6c557cc1b6bd2ea39f450be3c8b220a656aa8ec6bad50c061",
+      "url": "https://files.pythonhosted.org/packages/90/d4/39b971cb669436d653269cf7158f94c3ddbc363cd059235fd960bf11b245/kolla-2.0.1.tar.gz"
+    },
+    "3.0.0.0b1": {
+      "sha256": "6ea73b5e0d255d3d32453fe5c535587dcc008d93c5411447b9b648c99f7a00f9",
+      "url": "https://files.pythonhosted.org/packages/ea/b0/83bce4457e183b6762695844bb964f66c1861ca01aea27d1d9da1ad2a4fe/kolla-3.0.0.0b1.tar.gz"
+    }
+  }
+}

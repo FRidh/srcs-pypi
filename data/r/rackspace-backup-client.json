@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.19.3"
+  ],
+  "meta": {
+    "description": "A Python client for the Rackspace Cloud Backup API",
+    "homepage": "https://github.com/rackerlabs/python-cloudbackup-sdk",
+    "license": "Apache License (2.0)"
+  },
+  "versions": {
+    "0.17.2": {
+      "sha256": "49f6747b43f59e608b31f9637d3d15b1dba740c61a18df30621db0bf0114fc10",
+      "url": "https://files.pythonhosted.org/packages/7d/34/dbbd30af63d997808c803c3785a6b8325b69c96174d854f6c8de5fc0f474/rackspace-backup-client-0.17.2.tar.gz"
+    },
+    "0.18.0": {
+      "sha256": "4c53203d54afeeb154f31956e98ab9b7a86431c3e0911729fc8ac2997ab217ce",
+      "url": "https://files.pythonhosted.org/packages/0c/bb/604aed8966bb85ec4dc7ece99bbd1432b4c912c36ac48546e5f2a21af43b/rackspace-backup-client-0.18.0.linux-x86_64.tar.gz"
+    },
+    "0.19.0": {
+      "sha256": "976b94a3a56bf05d62fd643832f5d25ed50255ae4ba5bf7ffed028e56901b7d6",
+      "url": "https://files.pythonhosted.org/packages/d5/80/5b6b87e05c67db5fff4babebccef0e84ab749bdf580563f1b2f4a4bb7e0e/rackspace-backup-client-0.19.0.linux-x86_64.tar.gz"
+    },
+    "0.19.1": {
+      "sha256": "4e45dbe7536ee70d993800c7a2986841633c871890d0bfcd53b00d2d54f568b1",
+      "url": "https://files.pythonhosted.org/packages/0a/80/415c17d3c9060b3a2c5a10cb2d2142b4e638d4c373b1789fd765a24f6824/rackspace-backup-client-0.19.1.linux-x86_64.tar.gz"
+    },
+    "0.19.3": {
+      "sha256": "b8d0192e10b7357e56043b58c77d9cb63a07e261ec1dd79ef8ac610eb6ac99b6",
+      "url": "https://files.pythonhosted.org/packages/7f/82/efede76a26bbce9e95b7a104abf333e0af03e4fdce7efdf438a492cfef98/rackspace-backup-client-0.19.3.tar.gz"
+    }
+  }
+}

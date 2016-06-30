@@ -1,0 +1,148 @@
+{
+  "latest_version": [
+    "0.6.5"
+  ],
+  "meta": {
+    "description": "A native Python client for the Vertica database",
+    "homepage": "https://github.com/uber/vertica-python/",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "716788811f3775e76adfc4642b133a4027208e37a59fad0f8a07de1877ccdbf6",
+      "url": "https://files.pythonhosted.org/packages/8b/31/12613db5e58d080d532027a1689f89fdd0d1d93aed48e4674fa4683eedea/vertica-python-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "c2dc17bb8c7c8a15765c69f7295be9c0daa300740f70cb30447094a1c9552da7",
+      "url": "https://files.pythonhosted.org/packages/33/1b/afbbadcbaa6807268de7df65d97663ee8eded3e3a4b287943dba275588d3/vertica-python-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "a77d7400bb206b911fb9498e5423f5edca0b52c61bc53badb2fbb9526ec14c7b",
+      "url": "https://files.pythonhosted.org/packages/0a/c1/3f10dc63f150ab53978ccc59970dfb2ac066417958f47764ecb23a06653f/vertica-python-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "d9b9234c979b1565ef5524370fbadf6900e56e8001bb0f88b71764cebf067919",
+      "url": "https://files.pythonhosted.org/packages/85/f2/944741e54cfb60d028af13c22d484e34e9886f6a0d36943bcef59b840ecd/vertica-python-0.1.3.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "9f2b32bc09e9de8c70f0ca173365d8afa8d877b1c1fb849ee4f2936e816e5666",
+      "url": "https://files.pythonhosted.org/packages/9a/cf/447b30a8f6e7d69ee9296e5771d4958758d39260edd9322ec9f37b765c33/vertica-python-0.1.4.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "be4846594320284dc66bcf4672d663c22bd11fa5a2ef8ed8094b07d58760c504",
+      "url": "https://files.pythonhosted.org/packages/eb/f0/be2e8bc56a05614433d5d5a2fb3afffde979429eef57f4bfbc42d49f43bd/vertica-python-0.1.5.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "ee03f2eda78425daa0900723b101ada1ff6fd2db0d899f6acc084b31bcdb9776",
+      "url": "https://files.pythonhosted.org/packages/54/cc/9a709d4b02cfe5777baad84f66d85a983ff009ec3d09ffdb190272e32ad3/vertica-python-0.1.7.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "22f1132d3d22ed4a1dbf9dfa3168aeee4cbd07733079f6b85a179de570005b9a",
+      "url": "https://files.pythonhosted.org/packages/88/80/45d0fa4e0918ec47aa20bd7aca5a2521bfd96f4b6a80581a4193296e14ae/vertica-python-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "43d4f89ab8efffc0b9b1b11cd635e45ae9a3763f223d7574f5c2eadbc9affb0b",
+      "url": "https://files.pythonhosted.org/packages/a4/92/6a47b0f39a0cd8b2ac527e8d49f0a0c9e5218dae665ce82fcb72944c0646/vertica-python-0.1.9.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "3df8b8c1d166005b3d7661156705c4ccc5822e0ff2b5a3db6b5abe91415b159a",
+      "url": "https://files.pythonhosted.org/packages/10/8b/3ae0107b8925f747d18573d1b6ec74a3e41262886e6d7cf8873ea20729a9/vertica-python-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "acfea303b332ac5f8e9609ada84aabfb11c4fd6a5c885b3f355e9fb1c6893ac6",
+      "url": "https://files.pythonhosted.org/packages/f1/37/47a432013d5cf235167ba0712647b038f78564c9d386a1b77224f4d7fb43/vertica-python-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "22582ac239c88f658443406b3f8c241eb9e7983e7cb30549628ecccda1288a8f",
+      "url": "https://files.pythonhosted.org/packages/6c/eb/c0dd5f0e5914259191f463d7c6086985da7d00253ddd7f82e614d508167d/vertica-python-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "5637551801d307532c10d13899b8f54d55f26a73d1639002e4d27462dc202f5e",
+      "url": "https://files.pythonhosted.org/packages/48/bd/15142e2dd6baad9cfefab1ce9adc3eaa4d09ae4d45b6e3eb98cf4f7e68d8/vertica-python-0.2.3.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "63e685bac3defef50c774b4fbfcc94bb78fcc0056a63c9e4ee73af4dc81660ae",
+      "url": "https://files.pythonhosted.org/packages/fa/e0/dc81dc2b52d53ced38a620306bf4824cfc84534c20194210679aa11e8e3b/vertica-python-0.3.0.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "8788d36f66709fff23482a2a0d3d4dfbd658a4a4e58adb36b9b79c59331cb2cf",
+      "url": "https://files.pythonhosted.org/packages/51/d1/0a1ba2fa0e7537b8ff0b4d26f09449ea9a265977d35604e9599f56856ac3/vertica-python-0.3.6.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "eb1c33dbba013ac3b29a65a4c8547e974e469c635080332e0ab04a8d65062a20",
+      "url": "https://files.pythonhosted.org/packages/be/a7/ad49109085fb591a8fbff3c413638734cd8ae130a027d52fb1e92fa60e06/vertica-python-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "43badd75dfe9c1349af1b50cda9063792e1281e4e554ad305ae2dff2ac6b8aab",
+      "url": "https://files.pythonhosted.org/packages/57/ec/fcc5b6e5a8d997c9c7c7d65265bdab835f1a3ddf2d8a6c07640043542300/vertica-python-0.4.1.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "ff9d20716d05d55ae764c08d60171aba3339cb90153b3f4acc62fabe88c06a5e",
+      "url": "https://files.pythonhosted.org/packages/8d/be/de7cc25fc3b0e63381476ebc4a94b04abc6c0fa338907c4979da2a962181/vertica-python-0.4.3.tar.gz"
+    },
+    "0.4.5": {
+      "sha256": "1855c423c24ec3eb359da2aa4f6d551eac49b4e44aa6882b868b6646b70d0358",
+      "url": "https://files.pythonhosted.org/packages/f9/d2/af24be2d3d5cda5c529736f2c01fd9e2faa3301f23ee48cf38c01881dd4f/vertica-python-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "a0094c70fae56fc0aa76124dc605800750963e9d37c2e3f0baacadd09ace0bda",
+      "url": "https://files.pythonhosted.org/packages/7e/80/e46eac515b69a4f6d8800dd58cc85fafee0879d7c10fef76ef45d92fc3b3/vertica-python-0.4.6.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "fa83bb8cf3a786f241bc882309b4a88410552c660751075f8ca209d39b26fcb0",
+      "url": "https://files.pythonhosted.org/packages/c8/39/435749a3e6b8267e90dcb94ac6b0433b78b325dd16acb13bea37f2ac5502/vertica-python-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "a9d3188459514d02bb269c0fbc35b92c26bd227dc23b510c04ee790357d94a4e",
+      "url": "https://files.pythonhosted.org/packages/84/8f/532022cd3eab3be5063760623386d40769b91d2d5c93888402e6dfd520cb/vertica-python-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "02ace309674c16477672e1d1e3c8e61c34277615d2491a7430cdbeca0d392557",
+      "url": "https://files.pythonhosted.org/packages/a0/53/b4c708909095cc0348b2baa7f0e9d021726c02353691ab5e48da09663519/vertica-python-0.5.2.tar.gz"
+    },
+    "0.5.4": {
+      "sha256": "f536eb6bdfb14fa0ae3c5155de71f17ccfe14fe2a5e827bf048cff0bf97a5821",
+      "url": "https://files.pythonhosted.org/packages/74/81/e0b7d32032982d0021c1b796cc49b0338fefb49dfcbabf93fd05507b5da3/vertica-python-0.5.4.tar.gz"
+    },
+    "0.5.5": {
+      "sha256": "6551f4dd6c3bfb26c6370333715319ad282b32f27f1a60712bcf446db2321da5",
+      "url": "https://files.pythonhosted.org/packages/07/fb/51706d863b3754b8326a48b60964914b29e1025181af7d0eb588e4e86232/vertica-python-0.5.5.tar.gz"
+    },
+    "0.5.6": {
+      "sha256": "cbb768592ce8feb42df3cca0ab11ba5124afc506362f72a46de0068f89bb3316",
+      "url": "https://files.pythonhosted.org/packages/99/20/3853f1d7351ae0f581f594ff317f946f95c931922b6b42425f687bb659c7/vertica-python-0.5.6.tar.gz"
+    },
+    "0.5.7": {
+      "sha256": "ca1afef3999ded4f6bda12d969f7c12a5d880652891f48253e56528db1f70b6b",
+      "url": "https://files.pythonhosted.org/packages/19/db/ab6e94705908647855e475bd71badace6af8d2c5c68474f9e5799c202412/vertica-python-0.5.7.tar.gz"
+    },
+    "0.5.8": {
+      "sha256": "6b65bad2728726eae3e5d32da966af3e2b05bb4ab2c5157217b79a2cf5e3f75f",
+      "url": "https://files.pythonhosted.org/packages/60/ae/2c055f09b90ccc917eba01561afe8d6e8df72548d626e169acfaee3a82ee/vertica-python-0.5.8.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "b1c820c70394a4e8bab1725e8d78dfd18f57c4497b5680c507e21e565dd62b40",
+      "url": "https://files.pythonhosted.org/packages/20/28/010950c3f1084ced2d7f9706ec41aa63cda4a41ad6b984fb40fb5b08226e/vertica-python-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "9c29b79045b82a23bf7cc26c657fb8932ff757912e16084fbc3fa59d91df52e9",
+      "url": "https://files.pythonhosted.org/packages/19/b8/122d220cda31e9bbf52e8e3331e0673f6fe5a1bf8054d7466b093f447a4a/vertica-python-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "477cb5e63400a637762e50a55e87075f1f900d030cee8c50be9ec2e4604e42b8",
+      "url": "https://files.pythonhosted.org/packages/1d/c3/25bb3505f3e96756dc1de191986b0fefe6e928854384b4299cd1a9f117e4/vertica-python-0.6.2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "3bdeab83dca785d47455bb4e54d5099df089de5bbedc8ae7259000157738d56b",
+      "url": "https://files.pythonhosted.org/packages/ce/f6/a4a607637ad0655d356f0203cea153e13bc20ae2748df8492d5e9eccdfd9/vertica-python-0.6.3.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "7835fc552fc0b885c07c64bd3e260267cebd938002b8336f4d7c8816100c754f",
+      "url": "https://files.pythonhosted.org/packages/25/5b/7931bda3433aef21d45bbd4100c50ebdebaf5764f3a88c6fda4061a5161b/vertica-python-0.6.4.tar.gz"
+    },
+    "0.6.5": {
+      "sha256": "1be8404b73754505345a8383d98ed2b34c7f62a269469968369e45222a70a926",
+      "url": "https://files.pythonhosted.org/packages/23/d9/2447d1c1857af5a1be53c13c6e0be995c5abdb36d7dbdc1bbb7ba6f4e28e/vertica-python-0.6.5.tar.gz"
+    }
+  }
+}

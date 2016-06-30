@@ -1,0 +1,44 @@
+{
+  "latest_version": [
+    "0.7.5"
+  ],
+  "meta": {
+    "description": "UADM - Ubuntu administration scripts. A set of script that allows to automate task and notify the administrator by mail when thing went wrong. Update os, backup directories on a remote samba server, auto reinstall vmware tools on new kernel",
+    "homepage": "https://github.com/pylanglois/uadm",
+    "license": "Copyright (c) Pierre-Yves Langlois and all contributors.\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification,\nare permitted provided that the following conditions are met:\n\n    1. Redistributions of source code must retain the above copyright notice, \n       this list of conditions and the following disclaimer.\n\n    2. Redistributions in binary form must reproduce the above copyright \n       notice, this list of conditions and the following disclaimer in the\n       documentation and/or other materials provided with the distribution.\n\n    3. Neither the name of UADM - Ubuntu administration scripts nor\n       the names of its contributors may be used to endorse or promote products\n       derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR\nANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES\n(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\nLOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON\nANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": {
+    "0.5.0": {
+      "sha256": "67bd66d60d63e300f70a6bad356bbe6a82e90f13bfcdd883528df36bdc231455",
+      "url": "https://files.pythonhosted.org/packages/66/b7/efd9e5e4e1e3ae8da314a5b18ccf11b39ae3c98d839f4507b954e6f38702/uadm-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "44e57597de66b7c0bed4be5a8e430abe6b1b1c86f5746b55f01e6a6d4e021c8c",
+      "url": "https://files.pythonhosted.org/packages/22/3c/2db7917cce8ac2a09812c9b7db6c3ed176d4f1897e2b79fae71a09fc562e/uadm-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "b7610dfb7b5aba0b9095f02de2a3682d7d3d46e0ae33efa96ed779e17968409c",
+      "url": "https://files.pythonhosted.org/packages/9f/8a/50d3b03100402bc24639bd27125d5f2d07a4ffc200ecd4eba2b1af751bf3/uadm-0.6.1.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "8fcbc5863345d20abea7e9e3753055c71b89ed1d8d0b482611b200e493bc1336",
+      "url": "https://files.pythonhosted.org/packages/38/3f/a8eb184aa9e5829e05c8c6afb0b1963eb9c0e1e3ce87165ccf1ef2878668/uadm-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "d62c7997f12faa6d40945e2b081aadc49d8777aa6a624c45aeaf6e9a82554872",
+      "url": "https://files.pythonhosted.org/packages/99/eb/1ee0890e80e563b4eccee43ce6b02ff510d34e457670b3e3de1be285b751/uadm-0.7.2.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "86638409e81919bc5749ec4f38b4857b2704cde9f149133274803ecd027d0796",
+      "url": "https://files.pythonhosted.org/packages/31/e9/e57cae619d287d7dcf20ed14d040be4454d03760617c8947e1810b0987a7/uadm-0.7.3.tar.gz"
+    },
+    "0.7.4": {
+      "sha256": "2dcc8d88e9a7d80184fe1108cedbc06ebba3e6192dab6d859ae25f8bc23605f5",
+      "url": "https://files.pythonhosted.org/packages/b3/fd/8ac98e85964d01692fe09dddbb1e2c483756d938ee97c653a7a6f426ab84/uadm-0.7.4.tar.gz"
+    },
+    "0.7.5": {
+      "sha256": "c0e1d7a8ad54c4f8aee1b5efbadf81104ba5b4efbadf0835d4614a9e2bb71056",
+      "url": "https://files.pythonhosted.org/packages/ef/95/5a51bc5cc57478ae33c686fb6310e3ca1fda2364f47020312f360a67da20/uadm-0.7.5.tar.gz"
+    }
+  }
+}

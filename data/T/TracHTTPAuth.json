@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Use the AccountManager plugin to provide HTTP authentication from Trac itself",
+    "homepage": "http://trac-hacks.org/wiki/HttpAuthPlugin",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "c2191f2d80e36620ca28839b7b4dfcc8ca2ff2295d7e2312f453fb4c52f269ec",
+      "url": "https://files.pythonhosted.org/packages/56/60/a0f0e2cf2aca46b4b794a792b571e86016f5d599a1a816fa17231f5535ed/TracHTTPAuth-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "f4516eab9baa9c90ba82d02d47f90fcb50a9419cda319be4d06d50465645887c",
+      "url": "https://files.pythonhosted.org/packages/81/1d/73aa6dd13a4ffc0d67391f88990010de3c6da2774f9a3970221ffe5f0c3c/TracHTTPAuth-1.0.1.tar.gz"
+    },
+    "1.1": {
+      "sha256": "30b0014405f0f9cf2af368e8d34dffa9da319fc11555712cf5053b062474ed29",
+      "url": "https://files.pythonhosted.org/packages/1f/71/25096b433ab5c29e51112923ee4fc7938964b6b4321dbdecd9443f13f0d6/TracHTTPAuth-1.1.tar.gz"
+    }
+  }
+}

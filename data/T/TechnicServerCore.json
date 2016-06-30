@@ -1,0 +1,35 @@
+{
+  "latest_version": [
+    "0.3.3"
+  ],
+  "meta": {
+    "description": "Custom wrapper that downloads and updates Technic modpacks specifically for servers",
+    "homepage": "http://github.com/GenPage/ServerCore/"
+  },
+  "versions": {
+    "0.3.0-alpha": {
+      "sha256": "741187819c1d84490750ad61dc96a48c09e5b2dd1a840b6c8095455f38fafdea",
+      "url": "https://files.pythonhosted.org/packages/1f/63/2762acd6748a881a5ac9dd276ffabda5a8f313a181a881c7fb0f5b5aed37/TechnicServerCore-0.3.0-alpha.tar.gz"
+    },
+    "0.3.1-alpha": {
+      "sha256": "3a26e69bd974eb4562922cfd31e19867803dd2d78698f206cec8c08f75f7a602",
+      "url": "https://files.pythonhosted.org/packages/e2/df/5131626de12b8b814fb73b0b8e9bbe2ec57eab16bb4d0c604276591a97eb/TechnicServerCore-0.3.1-alpha.tar.gz"
+    },
+    "0.3.1b2": {
+      "sha256": "10fb355156f2f2dcdc6ef9df0dee76bd3d09381cd1775fd59927f67dc929a9c0",
+      "url": "https://files.pythonhosted.org/packages/30/5f/ad8f2c77722082907c9a66695b528d761b03513b216d8aac8f1c8fc3a622/TechnicServerCore-0.3.1b2.tar.gz"
+    },
+    "0.3.1rc1": {
+      "sha256": "38db38759b972283a04728f69b7e97aa76ee4133cbd4739a2cdbd6a9ceebf926",
+      "url": "https://files.pythonhosted.org/packages/8b/de/f027a240549f9224f5ed77a90ba5e96c96e63faee3fabf6cc7a4f2881398/TechnicServerCore-0.3.1rc1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "f6b94d0de829565fa92cda7b1d7dc931f306c5c8cbd3a2540487bae01222628a",
+      "url": "https://files.pythonhosted.org/packages/31/15/0a86bf935ba266031ef6971b5d527a80b4b1fb0a2b4e9a4c25a2476e1392/TechnicServerCore-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "e22d5812ee23243838246c30ef87a2a27739e51466b5d916d2ec138708fd1947",
+      "url": "https://files.pythonhosted.org/packages/cc/6b/355b35295949fd38129c273eb29e8400029760ab4f6e2f7694f8c489f690/TechnicServerCore-0.3.3.tar.gz"
+    }
+  }
+}

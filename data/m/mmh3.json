@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "2.3.1"
+  ],
+  "meta": {
+    "description": "Python wrapper for MurmurHash (MurmurHash3), a set of fast and robust hash functions",
+    "homepage": "http://packages.python.org/mmh3",
+    "license": "Public Domain"
+  },
+  "versions": {
+    "2.0": {
+      "sha256": "787f67a05a9cf9a5ac0b4755e0b0cc2ded5a1541ffde710da43aeebd7a15162b",
+      "url": "https://files.pythonhosted.org/packages/cb/e0/d9459f9d4b56cc78c85f1c1aca54eb0ed89d4ed703da979e09b24806d434/mmh3-2.0.tar.gz"
+    },
+    "2.2": {
+      "sha256": "1c4f2cc8c15e473ec1e30f88619559a653a3068812a5108597ea9ec21a971d71",
+      "url": "https://files.pythonhosted.org/packages/55/54/7130149630120d8ab7c6b395966e908dc9f54e769982e34135db6713846c/mmh3-2.2.tar.gz"
+    },
+    "2.3": {
+      "sha256": "ef9896a8083ffadf92a9e41e3db4d276670cdcddf4b2a4d619d92edb4af6cbdb",
+      "url": "https://files.pythonhosted.org/packages/e9/a3/eca10f533c29f24610432c6e379c1196ce7c21990392d94d07551cb06cda/mmh3-2.3.tar.gz"
+    },
+    "2.3.1": {
+      "sha256": "ecadc3557c093211a70b49814cf91d6833fff403edf2d8405645e227262de928",
+      "url": "https://files.pythonhosted.org/packages/87/a9/d15efdb230b1588b9427c77ce4b608aaf478bd0ebd47b2f6a7a1bc7cce4b/mmh3-2.3.1.tar.gz"
+    }
+  }
+}

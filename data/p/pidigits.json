@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Generate arbitrary number of digits of Pi  or Tau using a streaming algorithm",
+    "homepage": "https://github.com/transmogrifier/pidigits",
+    "license": "Apache License 2.0"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "ec9f501b8a320507014a14a5ca1abb4d5338828228fff10d98c16a488e1ee5fb",
+      "url": "https://files.pythonhosted.org/packages/b1/e8/3836619b1f19207c7aa297cbcc6a78036b84ff591956bdac476e22de8be7/pidigits-0.1.zip"
+    },
+    "0.4": {
+      "sha256": "3bf8d284af90f8416ca6b3c259596c547318a98ea114fe37afb3a201f1983700",
+      "url": "https://files.pythonhosted.org/packages/ed/e8/7f4df99ed2f6d075fdd7bfa5986ae3641c2dd8891bf497cd0edb9e1c6c89/pidigits-0.4.zip"
+    },
+    "0.5": {
+      "sha256": "16c74d29f0d715550195ef262eb0f58ad1e0ab7f3b909cff6d2a162c412e5c9b",
+      "url": "https://files.pythonhosted.org/packages/c5/ab/1de553dcfd8e5912ac908ab2c0846a5a5ef70a704f8caefb4dcd148016c9/pidigits-0.5.zip"
+    }
+  }
+}

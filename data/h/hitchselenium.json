@@ -1,0 +1,80 @@
+{
+  "latest_version": [
+    "0.5.2"
+  ],
+  "meta": {
+    "description": "Plugin to run Selenium with firefox using the Hitch testing framework",
+    "homepage": "https://hitchtest.readthedocs.org/",
+    "license": "AGPL"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "033202e955dfc702fd6faf1aa731a7ef3f5b8efbb9002f3640b2affa9d5b372e",
+      "url": "https://files.pythonhosted.org/packages/97/a8/e519c8172213d8dcf762c98e0e62aa99d564cf69a21a3d7006526d721a3d/hitchselenium-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "fcc21464814ed430ff711da1dd93c7589539e49d6f246fc79000d9762690f603",
+      "url": "https://files.pythonhosted.org/packages/2e/e4/58df9185c865a15c03c90c0a2e976f72c001f0734247840373c37ddd7c7a/hitchselenium-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "7abd8b674d63aec26f0adfca818ec5b1dac81797c8127b8cb59b330eca721f91",
+      "url": "https://files.pythonhosted.org/packages/21/03/68fd1e7b665e63b9e87d6d35995d6fc58a8a178973a6f07539a916e35189/hitchselenium-0.3.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "1cd42011ab49657533984cc04c00eb955866a3f134ffa4b24c88319f029390f3",
+      "url": "https://files.pythonhosted.org/packages/f2/5c/35b7d001b7a33eec995f7fb9a117716c2dcbe5e06882331f38f97a366f5a/hitchselenium-0.3.1.tar.gz"
+    },
+    "0.4": {
+      "sha256": "e064a619ac62c06a1ac09878df0e3b394bab25710b551c0375ff9fe17af487e4",
+      "url": "https://files.pythonhosted.org/packages/0f/56/a98d4c618f440245ecc1add92e770c361e1a67b91f7c1db8067e55b20d78/hitchselenium-0.4.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "e438d13f6c6f000d010337b4062bd17a4c5ed47540f6f9fbf7b76021092235c8",
+      "url": "https://files.pythonhosted.org/packages/a8/6f/993947cf9b571ead250a0ba1b876ab06a960bf84f6e129897742b7517aaa/hitchselenium-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "1d828735cc1618a7c21ae254bb0aa672aff971b1c5f97bf2b6f8278ef4fc3a41",
+      "url": "https://files.pythonhosted.org/packages/7f/ca/06901f707c21bcd74b97419175ba295ef955caff5e65ecbec462391165b4/hitchselenium-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "267b4db4b719ae12140a711bf438c19f7305c53f00d9a9f32ce42a49ca9bae47",
+      "url": "https://files.pythonhosted.org/packages/9c/86/6085c4eeede00381930f085217fc5a82b47f4bdce3bfe3be436399997cf0/hitchselenium-0.4.3.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "4a8118765d1469d6f8fd741ba06393bf58c43f664d3b9d438275e9e26e52c331",
+      "url": "https://files.pythonhosted.org/packages/42/99/0f96f742afa2fa0f4a26b41fbb7cb805dcb9e19399ddeddadc8ba3b1242b/hitchselenium-0.4.4.tar.gz"
+    },
+    "0.4.5": {
+      "sha256": "eedb7a4fb5e6dcd5311c66f2ffff7e70ab0bf426a08fd9ea16841439635deac6",
+      "url": "https://files.pythonhosted.org/packages/1e/a4/614892a91e17abac6a42199ee9a1be96a742d055e58fca4f6a54e0ec4d77/hitchselenium-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "be5f15356c96861943f403100c48451d003be6d1ba996a0c4008873b85a1de0a",
+      "url": "https://files.pythonhosted.org/packages/63/9d/f027e9f20ad67f562171e17e42785f3f8358ac8b041992de61c95df1aebb/hitchselenium-0.4.6.tar.gz"
+    },
+    "0.4.7": {
+      "sha256": "efe4932bef5d4851523b0c8e161e5de5e17009f3dc3f13a2706c1445c122cf61",
+      "url": "https://files.pythonhosted.org/packages/2f/1e/f8e580f437d43d53c1fe63ff93e8f0e31264bbaf344c6aeb97d0b6b04429/hitchselenium-0.4.7.tar.gz"
+    },
+    "0.4.8": {
+      "sha256": "764a71497cfff138ab6481f504a1b526f27156a410f95ac319202e84c8140dca",
+      "url": "https://files.pythonhosted.org/packages/61/f4/800a51f56eb58f655e012dec2d54b98a062a4b56cb63934304bc0c2ce9f1/hitchselenium-0.4.8.tar.gz"
+    },
+    "0.4.9": {
+      "sha256": "580538fd343223ec0171e94f4873609f58bd555a627aeee02b3171dd55fd4d41",
+      "url": "https://files.pythonhosted.org/packages/b4/ef/c15e9eaf7b950f57c3933a60c6fc0b8d5b91db11c4c6cad424a122030cd6/hitchselenium-0.4.9.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "ce6d79bf99cefb45caa8668c7410d8a2bc4f11af634732ff348e3348af94ea3f",
+      "url": "https://files.pythonhosted.org/packages/7f/9c/7e198b45ed43eb6b5accb54a96692370776becde2ec4719ac59b0f4f5c5c/hitchselenium-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "ba9d718ab1a731a2e13925c6ed010d8cfd6e32d088b56898fce2e26bc014a9f8",
+      "url": "https://files.pythonhosted.org/packages/23/26/bc2a7bf3dc794c7cc81b8b2fe2155b522794391042576d00a6d8ad719612/hitchselenium-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "0a6b54b543edb4b91506ca1adf77375a8304370727dadc5d74af6ff1f730e6f5",
+      "url": "https://files.pythonhosted.org/packages/29/56/e78b170b00646e6ce5eeb7a2c3a9efd75ee3d4050e5eb98b08abed8c3bb3/hitchselenium-0.5.2.tar.gz"
+    }
+  }
+}

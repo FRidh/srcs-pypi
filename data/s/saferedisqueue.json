@@ -1,0 +1,40 @@
+{
+  "latest_version": [
+    "4.0b0"
+  ],
+  "meta": {
+    "description": "A small wrapper around Redis that provides access to a FIFO queue",
+    "homepage": "https://github.com/hellp/saferedisqueue",
+    "license": "Copyright (c) 2013, Fabian Neumann, ferret go GmbH\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n\n    * Redistributions of source code must retain the above copyright notice,\n      this list of conditions and the following disclaimer.\n\n    * Redistributions in binary form must reproduce the above copyright\n      notice, this list of conditions and the following disclaimer in the\n      documentation and/or other materials provided with the distribution.\n\n    * Neither the name of the ferret go GmbH nor the names of its contributors\n      may be used to endorse or promote products derived from this software\n      without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\"\nAND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\nIMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE\nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL\nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\nOR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "6a12e76fd238b0875f6742ffc0d199d7ee43875259b308ec583665cefcfc1302",
+      "url": "https://files.pythonhosted.org/packages/4e/0f/254b78599005dbdce4414b783627c0214740c757c71cc6f409eac7bbfc32/saferedisqueue-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "67a916f296608db0235008b854c655e414564db4b5c39753fbd6489840eaef71",
+      "url": "https://files.pythonhosted.org/packages/82/16/99aff89b3b3e3bc12b2f6b02df59c30f36c4ecd34a9fd85f514dbc2810ed/saferedisqueue-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "548c62b6c93f1be8649a858991c631ce8b31c97c8a8f412361929069fef6f28b",
+      "url": "https://files.pythonhosted.org/packages/55/f4/8db1473e8ea465feb23a7a16e75e0ca55f20bf0c1406901afa09f5646f06/saferedisqueue-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "979fb73fef0070a14f4bfbb517f8c475e2429fd32dbcd79d2521cadf0924f054",
+      "url": "https://files.pythonhosted.org/packages/bc/47/82e34262b8548b90b942896aac11970bcf9366d2b1bad26ca76a5b4ad841/saferedisqueue-1.2.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "530c49aabe237c82ef3bbb05dff4aeca39f6c3e8c49081aea23458ed288d9c9f",
+      "url": "https://files.pythonhosted.org/packages/13/1d/9116448c9c1ce4a35ff1f2ccf33f5c95781bd0f6e10d35d3d7c55eeecd7f/saferedisqueue-2.0.0.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "c9205b94707d1607584a1a0afc60e42f922ed2b5a1dda6eb249bb05f78b36573",
+      "url": "https://files.pythonhosted.org/packages/57/46/8608a8a839829bf16791c3058fa759dc6e121fdb23fa022a5641e909c2cc/saferedisqueue-3.0.0.tar.gz"
+    },
+    "4.0b0": {
+      "sha256": "10f42fce4ac1ac27209c4861f02f144467acfa4299c507142636495649fe0e24",
+      "url": "https://files.pythonhosted.org/packages/79/3f/54dc4efed419cac0686ebdf911794c4dcdd2215111cca6bec47120e868f0/saferedisqueue-4.0b0.tar.gz"
+    }
+  }
+}

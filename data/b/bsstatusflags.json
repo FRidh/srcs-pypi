@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.1.0"
+  ],
+  "meta": {
+    "description": "Set/get/del/exists status flag using Redis",
+    "homepage": "https://github.com/battleserver/bsstatusflags",
+    "license": "Apache License Version 2.0"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "5b641ea97624623a261f645d460b8a9cd8d437f783af69bf93af411f72f0d4c8",
+      "url": "https://files.pythonhosted.org/packages/fe/4f/4c0e0487729fb695fde98fe44e9068ddb8fee375b0eba7b8782ec377a066/bsstatusflags-0.0.1.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "52b4de47170cce6def31f12f3fc7f8e20a0dfb9a534a48a86488fb9d7ba4c324",
+      "url": "https://files.pythonhosted.org/packages/6c/87/4d20d89278b58383f3af7af3da16d1e87e1e6daf7419439ac7389e599639/bsstatusflags-0.1.0.tar.gz"
+    }
+  }
+}

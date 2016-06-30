@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.2.1"
+  ],
+  "meta": {
+    "description": "Control caching of Plone sites",
+    "homepage": "http://svn.plone.org/svn/collective/Products.CacheSetup",
+    "license": "ZPL"
+  },
+  "versions": {
+    "1.2": {
+      "sha256": "0377c7b6ebfe06387393213b7f7e1c28b2b7720059286d4f9303043f38a178f1",
+      "url": "https://files.pythonhosted.org/packages/66/d5/216bbef8e557f2ead4c7fa21ff8229fb168817351d08e78a90e127bf725d/Products.CacheSetup-1.2.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "bb0575e82d3883eb3deceb8ad05c5d9ac62c850cb248ea87d5ca2bc4ebf0f581",
+      "url": "https://files.pythonhosted.org/packages/ac/0c/0e5893d3ca0b4ba641bd5ed85ac1ba4246f955b392933e9b56ccc1525822/Products.CacheSetup-1.2.1.tar.gz"
+    }
+  }
+}

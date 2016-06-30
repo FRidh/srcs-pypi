@@ -1,0 +1,27 @@
+{
+  "latest_version": [
+    "1.0.3"
+  ],
+  "meta": {
+    "description": "A wrapper script for Borg backup software that creates and prunes backups",
+    "homepage": "https://torsion.org/borgmatic"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "9173ba4e0901e4e028feebe32bd225a1b36079b329f00b2b5c1f3461eee362ec",
+      "url": "https://files.pythonhosted.org/packages/56/bb/7b12310d4dc470f708e9e99ac8cd1e1718d28f39f7b2d6d6119ef6c46521/borgmatic-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "3f891869cc640d42a1c0d95d2765a2c576551ff3cc5fb6a82779c8faf18e2112",
+      "url": "https://files.pythonhosted.org/packages/d1/a9/b00e4747cd76804c8d4fd096ca3fd4ea14e286433e7a43a41df96ca5a962/borgmatic-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "07220c35ed4f1fa35a45c22df67c452ac8ff003ab0d3550ab8e10c3a672fe711",
+      "url": "https://files.pythonhosted.org/packages/42/3c/f8000225bed38b1cda86145187e743ad33929ba337d97796b764b890de95/borgmatic-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "d222f5f64bf79531627aa17ef3b37053327d3c52cadae14bb0c49399707391a7",
+      "url": "https://files.pythonhosted.org/packages/f8/ab/79355082c1f53a9bada04e6d51adddd01d351acfd64090ef7ddda67c0cbd/borgmatic-1.0.3.tar.gz"
+    }
+  }
+}

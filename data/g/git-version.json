@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.5"
+  ],
+  "meta": {
+    "description": "Make git version information (e.g. git tag name, git commit id, ...) available to your C++ or python source files. A simple use case scenario is to output this version information when the application is called with \"--version\"",
+    "homepage": "https://github.com/smessmer/gitversion",
+    "license": "GPLv3"
+  },
+  "versions": {
+    "1.4": {
+      "sha256": "8ea017be6da3433304890eb462652e5d72b5c531bd51d08c51459ddcb579781a",
+      "url": "https://files.pythonhosted.org/packages/90/64/68609a6907a7f301ff994a688bfdcf399b10737864e9b958bcfa45db4a0c/git-version-1.4.linux-x86_64.tar.gz"
+    },
+    "1.5": {
+      "sha256": "1a4f30dd066d02cd6622869f39fd964e6fd9f0a270120eaa1acae033648a69a1",
+      "url": "https://files.pythonhosted.org/packages/85/0d/6deee9562b136129de401c7b72900b513ff002b682c0537e8053210daadd/git-version-1.5.linux-x86_64.tar.gz"
+    }
+  }
+}

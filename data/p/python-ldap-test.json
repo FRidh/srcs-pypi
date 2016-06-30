@@ -1,0 +1,40 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Tool for testing code speaking with LDAP server. Allows to easily configure and run an embedded, in-memory LDAP server. Uses UnboundID LDAP SDK through Py4J",
+    "homepage": "https://github.com/zoldar/python-ldap-test/",
+    "license": "LICENSE.txt"
+  },
+  "versions": {
+    "0.0.7": {
+      "sha256": "9cc4db0eacde957a9e77c42e3254ce29e4e627299f3773a47c9ef3791757ceb0",
+      "url": "https://files.pythonhosted.org/packages/75/98/a0bd90d80dfc8450a7a321db4c35a0106576048588528741005d0f5c75c2/python-ldap-test-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "3059cb7a52817fd0a6643c7ed19c9f94d817858fc892070159ad9e1afe6c1099",
+      "url": "https://files.pythonhosted.org/packages/31/61/133eca3fd623fb66b43d0083ca023d9c6ec95bcba6c0473f69fc2d364e63/python-ldap-test-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "878cfc5cdfe7beaf2c31696cb66d051f5539f0834e0e106ab78f53323430b5c6",
+      "url": "https://files.pythonhosted.org/packages/85/22/0a2afb0d380e1c8ac08cd1e6be4ae6b8fc1964849d53b0072dbb65685f1f/python-ldap-test-0.0.9.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "b6eaf27dcbb8125b7f7987525cc154b7a9ce8f273cb9f2b35b9657d4b01159f2",
+      "url": "https://files.pythonhosted.org/packages/74/03/630ae44006bf264726a7b565a54dd7251f83a1b2028a4911e27b76e5590c/python-ldap-test-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "aac5eedea155ce6f2addda3962c846825d06bb2c73b328da2211d89324681f79",
+      "url": "https://files.pythonhosted.org/packages/68/04/d7167942a1e11848723719b5bfab15375d6b0dcc3999863018770dd456ec/python-ldap-test-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "eed9e26ff509628eb34306e826ecc64252bf525e2cfe593f883c922fd2832ddc",
+      "url": "https://files.pythonhosted.org/packages/1d/58/61d56c7735b640d7fe9b499e3f8b3e38907c5e94a3a3429dbb11297f2169/python-ldap-test-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "ad5c3af7e3eb3fec64d2895c573b270437f2746c401df3770375aa478fd724a6",
+      "url": "https://files.pythonhosted.org/packages/29/91/cfaf787229eced4a84eed16d29fb740cd1006f4859341ba79314878b20b4/python-ldap-test-0.2.1.tar.gz"
+    }
+  }
+}

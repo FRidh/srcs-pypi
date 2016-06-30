@@ -1,0 +1,88 @@
+{
+  "latest_version": [
+    "0.10.0"
+  ],
+  "meta": {
+    "description": "Advanced GPIO for the Raspberry Pi. Extends RPi.GPIO with PWM, GPIO interrups, TCP socket interrupts, command line tools and more",
+    "homepage": "https://github.com/metachris/RPIO",
+    "license": "LGPLv3+"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "30bce71503d92a2b28c417ec84fbf767faef3edb02c7e2a9790bb9ec31dbc6db",
+      "url": "https://files.pythonhosted.org/packages/c5/9f/d2e9e6086cb893a5437c5da799bed3af508db780d0f3785a12adeac577a6/RPIO-0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "86f3d7a1e66303a12ebc8cbd7719d121d57a153cbacadb4e056fdc9a926b07bb",
+      "url": "https://files.pythonhosted.org/packages/9e/33/1f9c8657324920914d8ba21f05ff87202b3fcfc19951acd6e53a1caca24f/RPIO-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "878fe4350cdd1f9bb19315c67887e0a81adf3ef7bf9fca846028f45a7dc6d294",
+      "url": "https://files.pythonhosted.org/packages/f7/00/d391b3a0ec0111b3a0ade0b2532c473a4a4c51a5daac1d4d21c9c93366f6/RPIO-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "1211066855dcc2936351725b4ab197242b69e57ad8e33c4445d1c7a8ec472f2a",
+      "url": "https://files.pythonhosted.org/packages/52/d2/ad469895bc76b52998c746ad4fd05aae5d27fc258ef468f5ac0314bd7fc6/RPIO-0.1.3.tar.gz"
+    },
+    "0.1.5": {
+      "sha256": "d00879e72fa9241e6a680b6f37741e2e79141f726d02442ab04d47bb5785b8dc",
+      "url": "https://files.pythonhosted.org/packages/2c/19/8b9a967e26290cbb58c2597c5a8f5fa015cc9807ce291410504c9a7e9e50/RPIO-0.1.5.tar.gz"
+    },
+    "0.1.6": {
+      "sha256": "a2ca1b1a72e027046ba808ed6c91ffeb06c81a8dd45d9c9d50b62e2aeac522cb",
+      "url": "https://files.pythonhosted.org/packages/e0/7c/43ce65da9c0bb6e02f32238a3ee9377bc1edd610cd46e7f37ff426fbea9c/RPIO-0.1.6.tar.gz"
+    },
+    "0.1.7": {
+      "sha256": "4b9281aa8b758917fafad68c630f0098492aa235b53e021e35df787bea7a1090",
+      "url": "https://files.pythonhosted.org/packages/a6/b8/a19771433e67f680a79df13eb1449304f239a63eaa3c84fbbf57db9bb5ad/RPIO-0.1.7.tar.gz"
+    },
+    "0.10.0": {
+      "sha256": "b89f75dec9de354681209ebfaedfe22b7c178aacd91a604a7bd6d92024e4cf7e",
+      "url": "https://files.pythonhosted.org/packages/29/05/6884572923c57ff488fdf5c4ab887deb9edb2515afbcb49be087c95ac698/RPIO-0.10.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "6efc6279a5b72c012059b5aefd4435f3397d8bcd895cf4a7f655c5593351ec2e",
+      "url": "https://files.pythonhosted.org/packages/c8/c5/7732d2847313babc9abc712da8d72b818355cb84c76085c5a26a7d300219/RPIO-0.5.1.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "cfc069ab0c664b42f2e32e549829314f21f19514ce5c90e55b20aac32b0bca01",
+      "url": "https://files.pythonhosted.org/packages/83/8c/08ed7de593dd5f681e8e9b32cf77f9db864c8c4bae3bf1e20f7950bb652a/RPIO-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "b2b8793bf28864539a8b94d86afb4315855e238cda54063e9468bfe30ac16d83",
+      "url": "https://files.pythonhosted.org/packages/55/93/e452a60582d0752c4a22e687f9f6cf5dc92290af00f23cc9be4eb32147b5/RPIO-0.6.2.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "8ce3587bbaf828d76219518f5ea05ee930455d9db841595880fbf07905bd0f84",
+      "url": "https://files.pythonhosted.org/packages/35/e3/0d5099aedbf65903f706881cd0493139a4c8ee158b72214fe19ae366d80d/RPIO-0.6.4.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "da7385a921ed908d33054ed59f5dc738fbb929a2b771629ea7998dc37e2f65ff",
+      "url": "https://files.pythonhosted.org/packages/cb/72/0ac496102a621d71c86701ec42e2fe5a5313573fb29c41450471f6c480bc/RPIO-0.7.1.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "ea42fa9b32ffc27bc6deb824fdca80762350e48cf89f9452c6fea31752901e2e",
+      "url": "https://files.pythonhosted.org/packages/9c/18/d6a92abd5db481a87cbc98d025755b09e5fe296348cd8e868cefef8fcc7d/RPIO-0.8.0.tar.gz"
+    },
+    "0.8.3": {
+      "sha256": "96285c48327b225a30a7146491c4a0a6ffbf7b63f19805722e9962f30e4f4b04",
+      "url": "https://files.pythonhosted.org/packages/d5/6c/f1c6feb04c76593d50fafef05f4b213b211a12eff0e6be52ae6d25dc86dd/RPIO-0.8.3.tar.gz"
+    },
+    "0.8.4": {
+      "sha256": "512e147dc1656139bbc331b3baee90033dbcd5e50fc83d8a2ed1974619c9a6b4",
+      "url": "https://files.pythonhosted.org/packages/32/6c/02adc6c64b45e227267399163d416d8d912a19c96d2e448c8316c43129a8/RPIO-0.8.4.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "9973331c8574903516ad3fa45d99df3d0095b6ed6b510b056a9ad95d49e8c1fb",
+      "url": "https://files.pythonhosted.org/packages/d7/bb/39a1a9225b005d69dc279dd93011d59c7dc965e2b07368f7cc41332a7715/RPIO-0.9.1.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "2cb12a34ec15a19da9ef1b14e2e983fc970bf83cc1855e106014877b8470b2ed",
+      "url": "https://files.pythonhosted.org/packages/55/bf/fb48fadd757fefed768e9367749a3431701556ef148dff50ba5bf40a3e57/RPIO-0.9.2.tar.gz"
+    },
+    "0.9.6": {
+      "sha256": "6c9e6ff917344fbeaf678e2bccb511e088e90a11f10a2a93dc87ba10f1ea376f",
+      "url": "https://files.pythonhosted.org/packages/95/41/2b7b9055a16e4bb3522d3551618da68f5974b9a2f8c901a87ecb270cff11/RPIO-0.9.6.tar.gz"
+    }
+  }
+}

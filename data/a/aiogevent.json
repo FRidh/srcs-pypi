@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "asyncio API (PEP 3156) implemented on top of gevent",
+    "homepage": "https://pypi.python.org/pypi/aiogevent",
+    "license": "Apache License 2.0"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "b31ae4e9f5d301886c744460156a1d5d17cd1edb20218a8131c445902107b995",
+      "url": "https://files.pythonhosted.org/packages/57/70/4e640a343654b03566d5c25696d19f078116fc549a3270a4c0eef9e22e75/aiogevent-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "a2f857fbbc576251df4734eb6120dc057e94e8fb6f1f79bfcdbff24816d915ce",
+      "url": "https://files.pythonhosted.org/packages/43/f9/b9949a861d966cf26883df737e957ac35af7cb60ea2bc5e66c2d803f543c/aiogevent-0.2.tar.gz"
+    }
+  }
+}

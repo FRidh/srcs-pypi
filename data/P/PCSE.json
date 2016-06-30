@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "5.1.1"
+  ],
+  "meta": {
+    "description": "Framework for developing crop simulation models, includes an implementation of the WOFOST crop simulation model",
+    "homepage": "http://github.com/ajwdewit/pcse/",
+    "license": "EUPL"
+  },
+  "versions": {
+    "5.1.0": {
+      "sha256": "b2f01d167d778ff8f15bd28f41221c44dd47e91ab11272fafda428d9dc7b8911",
+      "url": "https://files.pythonhosted.org/packages/b9/73/6e08364effa014a4f5443c45f060e16de5a7c50bbded69e34ed83586349c/PCSE-5.1.0.tar.gz"
+    },
+    "5.1.1": {
+      "sha256": "d94cae8d2d7715bfa3e3a2252de79dafc0c6003391554abffc04b10a98875161",
+      "url": "https://files.pythonhosted.org/packages/7f/a2/add6d1ad5df06fa76710c2168049d80f3633bfb75efb05dbf7e504eeb900/PCSE-5.1.1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "latest_version": [
+    "1.8"
+  ],
+  "meta": {
+    "description": "Convert LaTeX or TeX source to PDF or DVI, and escape strings for LaTeX",
+    "homepage": "http://www.profv.de/python-tex/"
+  },
+  "versions": {
+    "1.4": {
+      "sha256": "9912110e586b0b63abf7eb1512c02f2a3d3f8bee530a249a67ae91f6f0560cf9",
+      "url": "https://files.pythonhosted.org/packages/c2/3d/88b074fc02034d88cd0977b71aaaad3a346aa5652d0f9e59bb14359cd110/tex-1.4.tar.gz"
+    },
+    "1.5": {
+      "sha256": "30317e19223b306927c94300236d1ae0df44dadfed462a86fcb77350cd53922d",
+      "url": "https://files.pythonhosted.org/packages/f1/59/232af1c3215f62b5497dd9e2de889f726171b7b3196298b8d4f6c7e52c72/tex-1.5.tar.gz"
+    },
+    "1.6": {
+      "sha256": "8cbcbdf7ab74935cfdf453333d12e47397b2c78824f62fe928454604119e6a54",
+      "url": "https://files.pythonhosted.org/packages/0b/7f/5a50c72b4beded90fa9265ff4735bbdddb763278ce04b2f75dc004f36a50/tex-1.6.tar.gz"
+    },
+    "1.7": {
+      "sha256": "1ad7500183519e151b6fa086bb8591bcf99ab0cf9d414b88edd37716b3601a04",
+      "url": "https://files.pythonhosted.org/packages/d7/4e/4dc81e8fe95ab9d81aec7f481df1a9d8a11c054ccf322a74000bf86c4003/tex-1.7.tar.gz"
+    },
+    "1.8": {
+      "sha256": "b6950860c733b37b7c3631228abd3a70d8f75a96c3a2f17eac61158185dd224d",
+      "url": "https://files.pythonhosted.org/packages/97/64/7f5d45a782be53b88e5d0963b1ef9a9fc3c6ff409fbbd2006418c5b285ff/tex-1.8.tar.gz"
+    }
+  }
+}

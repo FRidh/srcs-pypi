@@ -1,0 +1,228 @@
+{
+  "latest_version": [
+    "0.13.6"
+  ],
+  "meta": {
+    "description": "Node.js virtual environment builder",
+    "homepage": "https://github.com/ekalinin/nodeenv",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.10.0": {
+      "sha256": "9e6de65f0bf670a197ad3b513a9dc00390e69a44b7ed5790c22e1d91b93f38af",
+      "url": "https://files.pythonhosted.org/packages/81/38/9b0bfcfaa7db321cb43f6c525314d8bccc7b88fcf86e8caca2923a7bc3e0/nodeenv-0.10.0.tar.gz"
+    },
+    "0.11.0": {
+      "sha256": "24cb673761feb07abc72a0251b6652c103f011dc90556438f02cdf2d1dea250e",
+      "url": "https://files.pythonhosted.org/packages/eb/87/285f3f20304d3b87fb2e5b1f41384d9a50b63fa1ad48232af40d6afb5bc2/nodeenv-0.11.0.tar.gz"
+    },
+    "0.11.1": {
+      "sha256": "2933390f9bbec22ed4c7863649d2c4b90c954620a5aa02879a07b820d8e4752d",
+      "url": "https://files.pythonhosted.org/packages/36/da/145c6a44ab202f74d348c1821d1b479037147bf599826e7428481d4df733/nodeenv-0.11.1.tar.gz"
+    },
+    "0.12.0": {
+      "sha256": "0f53af09d3a8670967226fbb62ac37567788d1c899ca676a1ba7b77f019292da",
+      "url": "https://files.pythonhosted.org/packages/35/f0/99bc668ca2f90475a048b94b09f03e7b6dcf4a26b9c74446104a3a90d76e/nodeenv-0.12.0.tar.gz"
+    },
+    "0.12.1": {
+      "sha256": "d698de6f15bb512b650efc27a022f13a9e2581ca397b1e798d6c0d28f0b9c329",
+      "url": "https://files.pythonhosted.org/packages/0f/8e/666c20f8093245fb6242795577648a37638d15b18a673e988b9f5f1a505c/nodeenv-0.12.1.tar.gz"
+    },
+    "0.12.2": {
+      "sha256": "9ad48b12824d40e6be0491a3654b6b236869cd074eae757a11743054555e6df5",
+      "url": "https://files.pythonhosted.org/packages/ad/e7/b038983d2a8c8d85fa916df1f40901f947ae05c199c1c0233077b3d5463f/nodeenv-0.12.2.tar.gz"
+    },
+    "0.12.3": {
+      "sha256": "4fc5945f5a39e36a304ecb973b02f536c660060eed2a810ac491f2c9f8bddfda",
+      "url": "https://files.pythonhosted.org/packages/63/75/3388f4a1f9a8c9b3b4def2712b77ef91383fc4d3d165469aa1d854222c93/nodeenv-0.12.3.tar.gz"
+    },
+    "0.13.0": {
+      "sha256": "a4a732f9acc1bf774b612a0f100a35ab228bad72de8d26c5587f2b121729bd4e",
+      "url": "https://files.pythonhosted.org/packages/65/8e/642830d500bfe5251deadc507d8da6c9cca068f3f98a57809bf57ad05b92/nodeenv-0.13.0.tar.gz"
+    },
+    "0.13.1": {
+      "sha256": "cfea656752b3967841f7c300a1c9756526013ee19f3ac47db2b77134ff38b509",
+      "url": "https://files.pythonhosted.org/packages/95/c0/07546abf59f52d77077231ac0b5ffd22e8ef43feb3aa5192948f205d99ed/nodeenv-0.13.1.tar.gz"
+    },
+    "0.13.2": {
+      "sha256": "626881a22f252635fe2bc72b554e1fbb2b80bcd626103de21ed112ea0c024e37",
+      "url": "https://files.pythonhosted.org/packages/a3/ed/0d186d80a965479b3082809443aca9281e09a14df56b21bfa41835e17269/nodeenv-0.13.2.tar.gz"
+    },
+    "0.13.3": {
+      "sha256": "41133782411be0c500e04e997b211823f862fe1b9387adf172bc476b5ede0df2",
+      "url": "https://files.pythonhosted.org/packages/91/18/bfb465752661ceb1a3c16dbf005205cb6f2ad844fefc515228e4c0495099/nodeenv-0.13.3.tar.gz"
+    },
+    "0.13.4": {
+      "sha256": "fec5b65ccbeb32c1dd595ff39a5b535c6be21851f6402e98e98c7e2e2402641a",
+      "url": "https://files.pythonhosted.org/packages/59/67/d2e38a55bcdb51eed8373d0d7f9dacb7a74683600a859bedc2ff6e2278fe/nodeenv-0.13.4.tar.gz"
+    },
+    "0.13.5": {
+      "sha256": "e2d78049dc38d4be20552dc03b70156d80940507dc9c201c76f2d611ab1f6d95",
+      "url": "https://files.pythonhosted.org/packages/5a/53/ab057cfea8f1266cd173f58ae11690cd96dff1d1811193f0f1303f739efd/nodeenv-0.13.5.tar.gz"
+    },
+    "0.13.6": {
+      "sha256": "feaafb0486d776360ef939bd85ba34cff9b623013b13280d1e3770d381ee2b7f",
+      "url": "https://files.pythonhosted.org/packages/4e/98/7678dda681857af016eae588f8172ea4ea687aeb3dcda6ac05899493ba4b/nodeenv-0.13.6.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "0b6a01f9badb1c95d8cbee2b1ae2e4954c1985e912a376d5a96347422cc38afe",
+      "url": "https://files.pythonhosted.org/packages/6a/30/1be980d8f9f656ef0cf3fd587bc20809faa3da8daf955c2d59f5da0f014c/nodeenv-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "d5967b978461a5f8647d10508708e54e652357f89b04e44e1057e49647e2016e",
+      "url": "https://files.pythonhosted.org/packages/ec/41/2a36589f216e7942df5953a0f3ea831707a5064288535177d39f7b3e413a/nodeenv-0.3.1.tar.gz"
+    },
+    "0.3.10": {
+      "sha256": "b662b53f7b0c07eb8baac5e48452c06e3651a4c6f32c2815039a92d2a9d96bbc",
+      "url": "https://files.pythonhosted.org/packages/74/74/3e185f9f947942ec4b849469512d05c4e01bc9f65691ec4f75f8d26b8c64/nodeenv-0.3.10.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "06be7f361cf2b5c166a0bbceff55ed859a6cd2d7b34a3e4c418331f1ba942cfb",
+      "url": "https://files.pythonhosted.org/packages/c5/b3/3d04c852a309f37b299b7dbfbc74e2bc5a17d408e17d9c7cd81b6c2d99e2/nodeenv-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "14df962fed7dadcf9b2efbb7032d1854ee11b395c31eec849a5b010b756c9dbc",
+      "url": "https://files.pythonhosted.org/packages/59/6b/5ea32caacfb3f8f56467be380e2e9d58ef1c7a1b94811e656c127473aaa5/nodeenv-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "e02cf611ac18697324b0c1fe9fc5e62497e9eb0825b00b294d438f01282be09b",
+      "url": "https://files.pythonhosted.org/packages/16/b9/c4b65bc5e08a9be12d23a5f6c7e26e1b81b1ae218766ec0ae9184f246595/nodeenv-0.3.4.tar.gz"
+    },
+    "0.3.5": {
+      "sha256": "539ffc971fce933468066523f264f81a99870862d0711f75285ad70b54b47fce",
+      "url": "https://files.pythonhosted.org/packages/9c/21/39fb98ca59afe82472d62321ca5f102a7e3134cba5ac5631e85ca86faf0f/nodeenv-0.3.5.tar.gz"
+    },
+    "0.3.6": {
+      "sha256": "bbc1fdef14157bddef67a696490f282ba3c8d12b5ab316ed361de4ee38e9b5f0",
+      "url": "https://files.pythonhosted.org/packages/f2/00/09ebdd9114cef71726d70ba26e9848552f48cc7d39d5db72044533496e19/nodeenv-0.3.6.tar.gz"
+    },
+    "0.3.7": {
+      "sha256": "90ff9da576a9f2a4cf09ffbf2b96b261c8405481e86d45fbd3abce4953234445",
+      "url": "https://files.pythonhosted.org/packages/7c/84/f3a868f1bd079c77339d9619069f03d40994afee877013053fd341572560/nodeenv-0.3.7.tar.gz"
+    },
+    "0.3.8": {
+      "sha256": "c4287524b66160cea6732e5b9f37fe303bd40599773f0403177e95a7beeb92fc",
+      "url": "https://files.pythonhosted.org/packages/56/f1/219a7e62ebb2f2cda14d232954295257155fa5731c6a3a99514b0a0a051f/nodeenv-0.3.8.tar.gz"
+    },
+    "0.3.9": {
+      "sha256": "aefa8e78ba7d74680df1aa8fddd45407cdd726bb8f24977de0983aa16780bc4b",
+      "url": "https://files.pythonhosted.org/packages/53/c2/9b379f6c783ea7e7ca83988abe1ef8cadbcb6bc3ffeaed67b7e5a4f0a1ae/nodeenv-0.3.9.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "44c678d693bec9d5370c834f9150857ca37783be68f31afe8ba22da992209cb2",
+      "url": "https://files.pythonhosted.org/packages/17/f9/4217c099283e5624f328c252ac0f8968be9c3132abd0ddb1c4aae34a2040/nodeenv-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "8251d23cdf9cb23ad82d0a1ff7bad65c53d4f0b1c5081aa594bfee4667fb8dc6",
+      "url": "https://files.pythonhosted.org/packages/52/b2/9b61111e47d77f3ef818fbe45c477963c89216f129e0456774a49cf60a73/nodeenv-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "db69a6f891c03be540d44b7d9d539b3e2f1a9a7d7bed505f9804842584d028dc",
+      "url": "https://files.pythonhosted.org/packages/15/1e/8b5f6d83a8cf6597101a4db5b5ffc82eaae85416dd18de43d0bab3aef491/nodeenv-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "205748e8647d3de85869936f683de876db0dfa4ae51a4e9a3c926087aab140cf",
+      "url": "https://files.pythonhosted.org/packages/ba/1a/2ad3713fdd460adac514d3109c9391245f4aee7fe0d48a7f66c5bf61c25b/nodeenv-0.4.3.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "04c347537716ca645335343d1a202207cf1a8ff9a7c8d42c0f4c8a720a47630d",
+      "url": "https://files.pythonhosted.org/packages/7f/ba/d960fd4f51246371288b4aff938dfd8fa72007136d2c817fa3c0797aa12e/nodeenv-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "e4fb9ec370173c32b5e9cd6292b9a731dd25485c9f89673f03e3d61a359a606c",
+      "url": "https://files.pythonhosted.org/packages/b7/a6/d3cb1812dbd2714ee83beec69f58f48c8d0c98dc904e94d6197029a686f6/nodeenv-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "8bffa682542a107b5e7af4be11fba1a640167eb30f2383ff944c39b4264db73b",
+      "url": "https://files.pythonhosted.org/packages/b8/9c/9de7dda81ef9f4f464555007aa7b0e84e9a94941bc8fc6fe691919ed6c23/nodeenv-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "37f5bdedb7d8add2d25d6528495ffa5b72f63764880bdb7e1c5d250c16d82d22",
+      "url": "https://files.pythonhosted.org/packages/8e/66/2449a22a0b6a816a229b838c371f07745dfcb583afb046564937e2d22b8c/nodeenv-0.5.3.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "43fa6043da03471093fbe494dfa01bf333241289f25a08260619e18a7b1f06c7",
+      "url": "https://files.pythonhosted.org/packages/85/2a/5e286ae719592e7f698326fe857ed380e36527734b4f9e641baf4b8ee4df/nodeenv-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "2b170100f37c97c39741a8bf0edf8ee02faa7b8a263efb050545feba46559987",
+      "url": "https://files.pythonhosted.org/packages/40/de/9a86aea8e9b7b01a5310f7af4fc4743347fcec65aa2db53d7241e5e834f6/nodeenv-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "733b36a535927fdb223da8962349663462777e319aa105f115b6712bd69888d5",
+      "url": "https://files.pythonhosted.org/packages/87/99/4688154ddb9a70e65ad9762e6b2029a7ca5f89c72a70bf4276f080bc3a8a/nodeenv-0.6.2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "38362dc875e50d121b9ed61b4989c3837c5ebd4864580771aeb695ffc6532082",
+      "url": "https://files.pythonhosted.org/packages/92/58/93f96d1d9f64fead7670cdf48c06b545c2d8ad0341a0b1be3e9517fec688/nodeenv-0.6.3.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "425ac3e9a102d94144bf86175c1d444897b429f65131a6710c1b0410b5961669",
+      "url": "https://files.pythonhosted.org/packages/95/fe/675169bee7e85cf4000f64a24e63cf3c5a41b665c1dd056f99456a9fa94e/nodeenv-0.6.4.tar.gz"
+    },
+    "0.6.5": {
+      "sha256": "7aca75d6aaee3447a81b062d14618888e0d7196714278d018cd56cda0333948d",
+      "url": "https://files.pythonhosted.org/packages/77/40/9a933b3583d5a96c27cac0c216d3b4011c517574451ea01194fbfcf7d0b4/nodeenv-0.6.5.tar.gz"
+    },
+    "0.6.6": {
+      "sha256": "ceeb8e53c201aa3934a6824a85cf78cd6de5a4d06f67584eec8f51131e711fc3",
+      "url": "https://files.pythonhosted.org/packages/17/db/9c705005a85734efb93c1bd17839bf172cf10c38bd7aa84f1034c6605b05/nodeenv-0.6.6.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "5e619bced19bee9e475090775bdb44f3588dbd71c93ec9f31e58f5b689235d42",
+      "url": "https://files.pythonhosted.org/packages/e9/d9/07f9f63bf70075884e8e24d14973bb95fe37ac23c44a69a307897a8dd0b8/nodeenv-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "0a77929729fbc4b26c230b309c0c720aae0e1b8a33d29f407d3e1f96595390b8",
+      "url": "https://files.pythonhosted.org/packages/a3/3a/3c5a28768a9bd2758fbf1b2129198dc9ea0a08d07208968152933d50cd05/nodeenv-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "26fa273b65fcdfe4c8c7d6a867870d6ab493600e098ace2327751bd703886322",
+      "url": "https://files.pythonhosted.org/packages/c4/4a/34518bbce3c04a813a38ed8cc772e75b32aa69b38290140a28e3136af14d/nodeenv-0.7.2.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "8cb488990450aa6ab14043d47cbce062674178af2d682a12109a539da7795da1",
+      "url": "https://files.pythonhosted.org/packages/ce/1d/9915ce857802212d96a80031a4f05124c100c6901450fbc9e5682a7e3563/nodeenv-0.7.3.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "752071b4d8bb563df3a2a9d44769cc20b7a30cbb9eab48e7925fd826cacb8d3d",
+      "url": "https://files.pythonhosted.org/packages/d0/29/e3570e208efd6a91da1a523b4196eb023179be6ed80574021f998b1ee0af/nodeenv-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "5382b8cd38509959f509d6f9f7de2d23f694bc05bb79e1dccfaf6dfae1e11909",
+      "url": "https://files.pythonhosted.org/packages/4f/d6/30741e0dced5467767d6e1d21cce238f5f42db6d2c241ebf55ab72438e43/nodeenv-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "8346967f28cdfbf8c4390df5b8bd2b363adce2d5ddb4769d7c7fbc09c60cc103",
+      "url": "https://files.pythonhosted.org/packages/81/bf/7a92612db76e15774b969275d7151e4374258ef8ae4ec820a912df6c7f76/nodeenv-0.8.2.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "d02cb19165c399b169aece98634482462f44c9acf687db9c24264dd228b5a83f",
+      "url": "https://files.pythonhosted.org/packages/69/8f/348abc05a552e5281bb4dbab7b36f80c3085a4e463dde3cb9eb60483e427/nodeenv-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "e26322fc6b665621618428479ceb3a7a93660617b41f53792c440d7116ddfaea",
+      "url": "https://files.pythonhosted.org/packages/ee/af/9e22a2202852d2a51754a7ffc0fb178895d3e31958a4a2f9294a405ebb4f/nodeenv-0.9.1.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "fc87e7c6563911246e46526ea63cd68b81083f9ad74dfdbf072aecbb8c0d618c",
+      "url": "https://files.pythonhosted.org/packages/54/96/997175ae5b2a43ae637043f8cc7b29537d7fb74b986e0916df18b75e1111/nodeenv-0.9.2.tar.gz"
+    },
+    "0.9.3": {
+      "sha256": "53a20d7c307cbde3d520981fd8c58eb1a9b4ac4258a4ed94c3d2302e47fc5ceb",
+      "url": "https://files.pythonhosted.org/packages/50/3b/b848dc895a32c72b2ca9cba6f388390b2b4a7ed55328b45345982b0e6489/nodeenv-0.9.3.tar.gz"
+    },
+    "0.9.4": {
+      "sha256": "af84297303d9ff4855581b89de18d39f26075ed22cdec43f2689456f40dcc739",
+      "url": "https://files.pythonhosted.org/packages/3e/e5/9e795031118138e9c01a1334823d5a190996abcfa37132092d21db0137ba/nodeenv-0.9.4.tar.gz"
+    },
+    "0.9.5": {
+      "sha256": "b1f53d8eddd7d74eefcdd5676f479b5d5e2c8792b31e88f7ee28e5faf107feea",
+      "url": "https://files.pythonhosted.org/packages/16/b3/b566138f50563bf4a5dc517bf4f44abb32c449985dedb2c1f1c407c00300/nodeenv-0.9.5.tar.gz"
+    },
+    "0.9.6": {
+      "sha256": "c6c2d5145c03bc8e0348d6ca96260090fe816073e1359287d71b5eecc3a35884",
+      "url": "https://files.pythonhosted.org/packages/32/c4/80487fbbf66b95f680add3576e6d1226a7d899f1cac602a242186c261363/nodeenv-0.9.6.tar.gz"
+    }
+  }
+}

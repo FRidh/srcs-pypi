@@ -1,0 +1,272 @@
+{
+  "latest_version": [
+    "1.1.0-pre6"
+  ],
+  "meta": {
+    "description": "Scrooge thrift generator pants plugins",
+    "homepage": "https://github.com/pantsbuild/pants",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": {
+    "0.0.29": {
+      "sha256": "231c42518a46c34e3f231af3073717daf20e722c158642d37786a69a85401334",
+      "url": "https://files.pythonhosted.org/packages/f6/14/9c102fe2fc11211afe0e23ab3f49690821a82a3f817ba332de5bf9c8c108/pantsbuild.pants.contrib.scrooge-0.0.29.tar.gz"
+    },
+    "0.0.30": {
+      "sha256": "5f0a4b617eeb4b070e75e9930fabc3af1f4172d39bff1b078b2dc182d7674ee1",
+      "url": "https://files.pythonhosted.org/packages/c3/a3/55ebe7116a49ec76ec0533cacb06f3821ffc2cbb47195a0c6efdf8b96ece/pantsbuild.pants.contrib.scrooge-0.0.30.tar.gz"
+    },
+    "0.0.31": {
+      "sha256": "26e8adc83c8cd26fc8336830347559e489c955b298fd41dfccb313d194fa8c80",
+      "url": "https://files.pythonhosted.org/packages/3b/aa/6bf22a89f0f93cf7bc848e1d9c604f49f9369e733c1a1bb966296b4d17de/pantsbuild.pants.contrib.scrooge-0.0.31.tar.gz"
+    },
+    "0.0.32": {
+      "sha256": "6866e35c977698d9162474806e36caa11c9f450a1310641ee484800eb4345fcc",
+      "url": "https://files.pythonhosted.org/packages/96/1d/b46762ba1308bb9cef212626620ac2e489185e2a56b60025ca41f11769d3/pantsbuild.pants.contrib.scrooge-0.0.32.tar.gz"
+    },
+    "0.0.33": {
+      "sha256": "553df0ad359712c13745f0f111e53b4a957e4ac0c0065e43848eee0b1d24c2ce",
+      "url": "https://files.pythonhosted.org/packages/3f/2a/40003b666e943d42807f2246ae402ce3f7533375e928d038899ee9cf980a/pantsbuild.pants.contrib.scrooge-0.0.33.tar.gz"
+    },
+    "0.0.34": {
+      "sha256": "d287c789ff54af14c60cd48851af6ed70f38d131ea14086980307fe2a2205e1e",
+      "url": "https://files.pythonhosted.org/packages/f4/89/17696be72e6e4806b7759c7b931123c5b228edd4dd36b891d4dd73c3ce85/pantsbuild.pants.contrib.scrooge-0.0.34.tar.gz"
+    },
+    "0.0.35": {
+      "sha256": "596a3837fd1263aa266188de9bf27e9c0aed9001121324c8c7eeb6f26cac3075",
+      "url": "https://files.pythonhosted.org/packages/97/56/a09b32ba415e3bf9d8c58445d8122d83d83d80d4786516937f011db8f0fb/pantsbuild.pants.contrib.scrooge-0.0.35.tar.gz"
+    },
+    "0.0.36": {
+      "sha256": "f468fc1b0d56fa6e0aba5b93a2ab7d3b251d1fa7d816cb9a0254b2d3d0854f78",
+      "url": "https://files.pythonhosted.org/packages/83/5f/bc5e85450eea5084ee5360415f4e2dd8386b5871f9003dd34e1c608f85a3/pantsbuild.pants.contrib.scrooge-0.0.36.tar.gz"
+    },
+    "0.0.37": {
+      "sha256": "6279e8785b21bf05db505ffe93dfc85b2d715e4f990dd994c16bf7a1c3853ce1",
+      "url": "https://files.pythonhosted.org/packages/7c/bc/efaec364b9f842fbd7890d970a9a828befdb18ee144eddb02785ff63176e/pantsbuild.pants.contrib.scrooge-0.0.37.tar.gz"
+    },
+    "0.0.38": {
+      "sha256": "6ab16e05fca6a0ab58687c6947b686ecc2dc33df5bbcc197aa6ae0b97924f260",
+      "url": "https://files.pythonhosted.org/packages/de/3a/8b0357cac8e76b79fb68a69abcbb7a90fa768fef87557a40fcbb26919cf6/pantsbuild.pants.contrib.scrooge-0.0.38.tar.gz"
+    },
+    "0.0.39": {
+      "sha256": "f4c80ba6afbd37e838352b3af881a577d4c253ca21d79235fb953caed15110e3",
+      "url": "https://files.pythonhosted.org/packages/67/fd/14dfe120b898eb78689094b3183e1783f1d108c6f121e3206e97cf819fb1/pantsbuild.pants.contrib.scrooge-0.0.39.tar.gz"
+    },
+    "0.0.40": {
+      "sha256": "6e6fc1f7e6ac3ec0fdee535ac521046b6cb21a671c0e120465d5fa770df2cfbb",
+      "url": "https://files.pythonhosted.org/packages/4e/57/073bcb759ffba899b76ef1c73d14a94c9a3a0c35b2af3808ac29194a3258/pantsbuild.pants.contrib.scrooge-0.0.40.tar.gz"
+    },
+    "0.0.41": {
+      "sha256": "338cae3fc376745c8d6f921d39ef92aa53b9bbf7afa65796985dba1c0bb253a4",
+      "url": "https://files.pythonhosted.org/packages/e6/b2/7ba5134b3fa0a9d83c825ad28ada0391d6b5fe61c74b8fd048d75b57652f/pantsbuild.pants.contrib.scrooge-0.0.41.tar.gz"
+    },
+    "0.0.42": {
+      "sha256": "f6e1830ad6766c8bffdd9dc3c696c69182a8d9d26c36b706b7273c1907c16122",
+      "url": "https://files.pythonhosted.org/packages/a8/e7/9c97bb01a31fbab680972a31d39bf73c17eaa4ba7e756575a26c061f571a/pantsbuild.pants.contrib.scrooge-0.0.42.tar.gz"
+    },
+    "0.0.43": {
+      "sha256": "fb30de7013f8e0a4735d7ec39ac13e7506e23f2ac6b0dafb069aee41a0e690a5",
+      "url": "https://files.pythonhosted.org/packages/17/83/ffd86fe1581778e4bbba6f2777a9b1c28c7cc81dbe07c6a61b5b24376ac0/pantsbuild.pants.contrib.scrooge-0.0.43.tar.gz"
+    },
+    "0.0.44": {
+      "sha256": "290f7fe31e5027efbe144ae77785e90eb3632753a84deed95d2660e64be1baf8",
+      "url": "https://files.pythonhosted.org/packages/34/72/d8ff9da4fc901763f09380d714b3321fdf7375cae70b3bb7cff4156c3146/pantsbuild.pants.contrib.scrooge-0.0.44.tar.gz"
+    },
+    "0.0.45": {
+      "sha256": "a42162564a338fec367de04ee52e8759c42dcf2b256e62b5fe6d44f36fc0f832",
+      "url": "https://files.pythonhosted.org/packages/e8/48/9902a348b60e985396d440b8f0673447b73438272ede070f925fad04985e/pantsbuild.pants.contrib.scrooge-0.0.45.tar.gz"
+    },
+    "0.0.46": {
+      "sha256": "5920f81a7d38fb6b2540adcf0ab2e9bca7379b11e895394d016fd420b7663db5",
+      "url": "https://files.pythonhosted.org/packages/5a/ff/90f171d3558de3a7baba4f73ea25506b5eb9c4f7de72b4292be008347027/pantsbuild.pants.contrib.scrooge-0.0.46.tar.gz"
+    },
+    "0.0.47": {
+      "sha256": "ef0b7f66905f918f7f9f6e3309b014b96b9d9e8b07a6e8f1d3f584f82baf228c",
+      "url": "https://files.pythonhosted.org/packages/2f/1b/9015d34823e5b075de88f8fa1476b14b5278f9a89fe96a2357ea744180b5/pantsbuild.pants.contrib.scrooge-0.0.47.tar.gz"
+    },
+    "0.0.48": {
+      "sha256": "4ef3768d1b10877f0c0376e6dde0ed14b4506252b472204ab0fac4306b72d9a7",
+      "url": "https://files.pythonhosted.org/packages/a8/9b/a33ac73769d4b892d64b6d8f1dfe9b9f2e15823ce9b102ed5d877fade1cf/pantsbuild.pants.contrib.scrooge-0.0.48.tar.gz"
+    },
+    "0.0.49": {
+      "sha256": "5c5fce6d8bcf6d83d43572dff3ebda7e9a8094d2791ec6771c59be18cb566622",
+      "url": "https://files.pythonhosted.org/packages/c5/e0/0ed4bd736c1db141c43f17f60edc9ecced324fcde41532b302362844da03/pantsbuild.pants.contrib.scrooge-0.0.49.tar.gz"
+    },
+    "0.0.50": {
+      "sha256": "f4dfa3ba2233bcfda7c8af0202b65018a391a18fca0683f20fa26e1f05df554d",
+      "url": "https://files.pythonhosted.org/packages/4b/2b/6ef8224456a6581a665952c9f70a73d866d95a51d45218025a1b2779809f/pantsbuild.pants.contrib.scrooge-0.0.50.tar.gz"
+    },
+    "0.0.51": {
+      "sha256": "7f2f365f779fa35ebf7b04fe2db73b383afe830ed4a503ce62ea0b7190529a56",
+      "url": "https://files.pythonhosted.org/packages/b8/69/336f8992715127b6572158d2d9927c77db39562614993081e629d426ab8c/pantsbuild.pants.contrib.scrooge-0.0.51.tar.gz"
+    },
+    "0.0.52": {
+      "sha256": "af271890a274c564994b94b703e7bcb3f62ba1f4632a96d2e3032bb3e5429360",
+      "url": "https://files.pythonhosted.org/packages/ff/57/b99abd9b6c2d54c0fefd60005e3a6021ba941093438ea1d3804835630b1a/pantsbuild.pants.contrib.scrooge-0.0.52.tar.gz"
+    },
+    "0.0.53": {
+      "sha256": "903544bc3dc87f1b1144405638909fa5d1847cf1be32f29767ad1028ca6a07ac",
+      "url": "https://files.pythonhosted.org/packages/c7/1c/0e5c4e00f616508eb5f6de58c25eca2f8ba703d213b7009c8764ee9d4352/pantsbuild.pants.contrib.scrooge-0.0.53.tar.gz"
+    },
+    "0.0.54": {
+      "sha256": "8c668dc64332957034875d6e55b8bdc1bc3b878922ef6797b8b3ef601e84bdab",
+      "url": "https://files.pythonhosted.org/packages/7e/a1/96db13cf7d0466ddad479d3a01daf6a2c7a3ae6d78189277674e2f907600/pantsbuild.pants.contrib.scrooge-0.0.54.tar.gz"
+    },
+    "0.0.55": {
+      "sha256": "4ee26ea6f92cdc04af7eee10a626efa6dcfa5cc5064d26eac132170ded9caeab",
+      "url": "https://files.pythonhosted.org/packages/56/0b/59ba20a6fd97ff8b781f6c10863d9fa4308c6b2024228f715f1ec3bdf0d6/pantsbuild.pants.contrib.scrooge-0.0.55.tar.gz"
+    },
+    "0.0.56": {
+      "sha256": "42e7249c1b720fe9ca5a7c1e6b9597a27c31a276d812afe97c88c5569cc47b29",
+      "url": "https://files.pythonhosted.org/packages/4a/13/afcd3819a7184f2892e1950b195227d3f571a680f8cc94336f2665dad631/pantsbuild.pants.contrib.scrooge-0.0.56.tar.gz"
+    },
+    "0.0.57": {
+      "sha256": "d9128bc97ea58143727cf69c54e894ac1b487929bb7a59c2b3d654c881685d4e",
+      "url": "https://files.pythonhosted.org/packages/f4/2d/be84c964c6cb6bfbc99da1b3b8ae6853fafd390b6c6dd11fc04dd41d8fb9/pantsbuild.pants.contrib.scrooge-0.0.57.tar.gz"
+    },
+    "0.0.58": {
+      "sha256": "b8375517c6e8c3c33327eb57b4ae0e79d2d3246d13f1937e315a7d48fb0272be",
+      "url": "https://files.pythonhosted.org/packages/37/9a/7abd0ff622bb1130261abb7f1c61d426562a53905261493fd308a50c9c20/pantsbuild.pants.contrib.scrooge-0.0.58.tar.gz"
+    },
+    "0.0.59": {
+      "sha256": "58c0dfdd14f87438d8496ecdd6829275cd234240620a6b1e74bbf1ca7e94b298",
+      "url": "https://files.pythonhosted.org/packages/70/15/8477c236e6a48b1141bdf539d3a461327b9453170d6c657cd4fa67388e63/pantsbuild.pants.contrib.scrooge-0.0.59.tar.gz"
+    },
+    "0.0.60": {
+      "sha256": "f767169146908092710d10648a72b76698f1ad811af50b7b5bdc138354324267",
+      "url": "https://files.pythonhosted.org/packages/14/37/7a3b18cfcea56daf7faa3e6a08edafcc37a819dd68e3fc43be4e9ec6011a/pantsbuild.pants.contrib.scrooge-0.0.60.tar.gz"
+    },
+    "0.0.61": {
+      "sha256": "12ed7ec6825bd597617633319b72f3aa1d128d851315a3c18729e4e5b243dcc4",
+      "url": "https://files.pythonhosted.org/packages/fd/c3/d4c8fe6a5fbc3844685a2f6c7c1fd3b7a3432b87acd8d87f8652621fe746/pantsbuild.pants.contrib.scrooge-0.0.61.tar.gz"
+    },
+    "0.0.62": {
+      "sha256": "9c3cd9adfc4268b88d7787177347c01dfc519418c32f572bb662699bcdff8e4d",
+      "url": "https://files.pythonhosted.org/packages/44/8d/f28745b408a16d82336fff906367eede43e80922317371a1ddcd28ba7f4d/pantsbuild.pants.contrib.scrooge-0.0.62.tar.gz"
+    },
+    "0.0.63": {
+      "sha256": "af015860b9f33d7e90c9960c6e3415462a1080cdd2d814d70558d7b6c86ec5ee",
+      "url": "https://files.pythonhosted.org/packages/bb/bc/af93f3fbe2623ef2e825fb2a8f9b765e098be304796c69c2750c072a7368/pantsbuild.pants.contrib.scrooge-0.0.63.tar.gz"
+    },
+    "0.0.64": {
+      "sha256": "c7fb26b48edec9f8357a62ee802b51ab03c74c6546dbfb6c214d685a626ba29e",
+      "url": "https://files.pythonhosted.org/packages/12/26/b652b1c3621abe52c868bc7737aa66118ab381e792cd5000bc73750f0796/pantsbuild.pants.contrib.scrooge-0.0.64.tar.gz"
+    },
+    "0.0.65": {
+      "sha256": "991d5a46d3d4c277e53d47c5dd38754b70ce02ff40a6567bf696febecdc45654",
+      "url": "https://files.pythonhosted.org/packages/c1/b2/7311f6111469e8eb8fca57bd56b42346dcb1a14eed92d41328e4cce60a35/pantsbuild.pants.contrib.scrooge-0.0.65.tar.gz"
+    },
+    "0.0.66": {
+      "sha256": "14c7f532c15216b9548b1d5f79e4949801220eeae01c3ebd90d3ce08960516f5",
+      "url": "https://files.pythonhosted.org/packages/a8/a8/3aa40bd2c5f78e1e4a731b019ead1b7a3396f72801261046f0bb0b399321/pantsbuild.pants.contrib.scrooge-0.0.66.tar.gz"
+    },
+    "0.0.67": {
+      "sha256": "f3fc9e9547a7c18b11eb7e8e02d269750dc8f1c242a7e55b87c0ba7045be8309",
+      "url": "https://files.pythonhosted.org/packages/91/88/ba3e5e7644e6f6febc09ba6f7124a077306107b664f96f2e4e7782476d45/pantsbuild.pants.contrib.scrooge-0.0.67.tar.gz"
+    },
+    "0.0.68": {
+      "sha256": "86a01fd42bd19cd9966925e54c70c6b322b2fb2630e69bf85326e3888870b4f2",
+      "url": "https://files.pythonhosted.org/packages/f2/cc/2552f78e270a415ecfca9e6ef304572cdcc5987a0633fae4f8afc63972fe/pantsbuild.pants.contrib.scrooge-0.0.68.tar.gz"
+    },
+    "0.0.69": {
+      "sha256": "2bca00965055db8281992aec537400f47d2ad39d482e9086d4855c145a3f9d86",
+      "url": "https://files.pythonhosted.org/packages/36/45/d37b65fad3e3f1fb3108d10c82e11baaf839974473c844040a22f5757363/pantsbuild.pants.contrib.scrooge-0.0.69.tar.gz"
+    },
+    "0.0.70": {
+      "sha256": "f4da84b86a6d05b3ee773dbb4230fbf994e7eebb4de46fab5b9932bb3d097f7a",
+      "url": "https://files.pythonhosted.org/packages/75/5d/29967c2a483e7b9258e724060bdd88ca4158738b1e1f3ded9e5b040d73d3/pantsbuild.pants.contrib.scrooge-0.0.70.tar.gz"
+    },
+    "0.0.71": {
+      "sha256": "9f927f34fd32927fa3a40fd97b6e7e38e1cf1fb38113ff79952db76d35f52dd4",
+      "url": "https://files.pythonhosted.org/packages/af/cc/81e230324c765a212702a1f5942be103e19b7b0ade2df80d864dc64ed2bc/pantsbuild.pants.contrib.scrooge-0.0.71.tar.gz"
+    },
+    "0.0.72": {
+      "sha256": "4afd05f620ece428ffb449f539829e9cf716e5e0057f026f352bd4534afab9d9",
+      "url": "https://files.pythonhosted.org/packages/35/60/c09b7d61fc1df5aa0c977c64176226e9910b9a13d1c6fa221da01415d532/pantsbuild.pants.contrib.scrooge-0.0.72.tar.gz"
+    },
+    "0.0.73": {
+      "sha256": "c7543d7a7e7ca5316b0773e088d6be824383fe9c629cd8a79187e04d6d94a637",
+      "url": "https://files.pythonhosted.org/packages/21/80/df3a6c19e44a2718ee33e64cdb4f51e89f5f002ea98b4ef5865bc656c90a/pantsbuild.pants.contrib.scrooge-0.0.73.tar.gz"
+    },
+    "0.0.74": {
+      "sha256": "b17a60dcff5ab81d01e6c2b5512b1459775ff8adf8f6b7058f9d826fe69df6b6",
+      "url": "https://files.pythonhosted.org/packages/8a/9a/7b99c2b9c47445e2bbea93a8bec5eada33423045dbeb2749ada5fe6a21d1/pantsbuild.pants.contrib.scrooge-0.0.74.tar.gz"
+    },
+    "0.0.75": {
+      "sha256": "c96a99e378fc81c10426e1200195ef93cfd58dae42390b4a5f2242f7dd011336",
+      "url": "https://files.pythonhosted.org/packages/72/80/d82a3f545ff4ec3ef63506d0032819f18c1a2393b2c3f2dd5f91eb035294/pantsbuild.pants.contrib.scrooge-0.0.75.tar.gz"
+    },
+    "0.0.76": {
+      "sha256": "7cda7f971ae2e8772ce1200f89a47cc21646205f37cfd694b2b83cabd2e2a6f8",
+      "url": "https://files.pythonhosted.org/packages/65/84/ec539c3fe289880c338cb9940b9a0266547a12aada9c2b6927c3e0f5e93c/pantsbuild.pants.contrib.scrooge-0.0.76.tar.gz"
+    },
+    "0.0.77": {
+      "sha256": "c057f8f6782c29ecde4cbabc3e07e3c4ec3ecfef1302fc48bce9672e29a8b4e6",
+      "url": "https://files.pythonhosted.org/packages/a1/eb/a389f6a3bb434d5c476d7e7740742bed44136401e259800f998d2da90e05/pantsbuild.pants.contrib.scrooge-0.0.77.tar.gz"
+    },
+    "0.0.79": {
+      "sha256": "87433d156e50d64beb9c449d367888049728e8bda388f2a47694644dff0873a7",
+      "url": "https://files.pythonhosted.org/packages/5a/b7/d88b8b2f5c3adf16445ae5578ddec6afeae33c116029a0db8355faf96875/pantsbuild.pants.contrib.scrooge-0.0.79.tar.gz"
+    },
+    "0.0.80": {
+      "sha256": "12c6c4f77d38200f618a9b035c5a98a5c2bf6b1f87ace137edb009319050adc4",
+      "url": "https://files.pythonhosted.org/packages/d3/b0/aa95e1c1fb0152ef94c910efa865c49acc185bcb59acfaa1c36406813da0/pantsbuild.pants.contrib.scrooge-0.0.80.tar.gz"
+    },
+    "0.0.81": {
+      "sha256": "5a5de9102176832afe70b1b45b75d5b1d92e58fd6eaabb92c6a01af6c69e1962",
+      "url": "https://files.pythonhosted.org/packages/62/02/2eb97135b056f6ac086d524c1df0f9234ec8a45ddaf5a3d12064b5bce568/pantsbuild.pants.contrib.scrooge-0.0.81.tar.gz"
+    },
+    "0.0.82": {
+      "sha256": "8f2e3dbd269010ee86a983969584745654f5563edc50d00fd468a853f50fc317",
+      "url": "https://files.pythonhosted.org/packages/db/38/4fe5fc00c518d713dfc61f3af6a10c4608e53935f8b1dc68eedb4dbd0b0e/pantsbuild.pants.contrib.scrooge-0.0.82.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "ea2489f588dbcf8b76e372d4f4caac1b91e9dd600f93810386c97f84e7838558",
+      "url": "https://files.pythonhosted.org/packages/b7/13/c45164ec21e9e31715d67a8e8faccf70a18c0b32421358491072d9a7b291/pantsbuild.pants.contrib.scrooge-1.0.0.tar.gz"
+    },
+    "1.0.0-rc2": {
+      "sha256": "7194fb552fc2d247eb9ecc89e145df3e88930b4c40c3149394be4d88fbab5fa6",
+      "url": "https://files.pythonhosted.org/packages/15/14/11ff05f5f8263c507c3bde729e90741f78c402e416fa523ccbd37429af2a/pantsbuild.pants.contrib.scrooge-1.0.0-rc2.tar.gz"
+    },
+    "1.0.0-rc3": {
+      "sha256": "550d6de1d4ac66ba36685e823df429e9184e768c45091ad55218af09f0622303",
+      "url": "https://files.pythonhosted.org/packages/16/ec/0351de08c8f03d090834b58452881fe8d72cde7acfb6f2de5e1931658ce7/pantsbuild.pants.contrib.scrooge-1.0.0-rc3.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "0317c16fa24641ac19872a0432b8e0b7db74b6254d6403ebe0ebcadaecfb2c25",
+      "url": "https://files.pythonhosted.org/packages/1c/ae/2244c9038d32dd889dc1a1e8d277b029b943d7db8d46938219950a7ca426/pantsbuild.pants.contrib.scrooge-1.0.1.tar.gz"
+    },
+    "1.0.1-rc0": {
+      "sha256": "f99485c2a4d450bccf1ea9479cfa430a34e3023ae29979bbfe8d1a3ebd82992e",
+      "url": "https://files.pythonhosted.org/packages/d2/e7/2b74f9da2d5a02a91750c0c35bbf3252445bf3a3dc60f2dfcbbeaf2e5775/pantsbuild.pants.contrib.scrooge-1.0.1-rc0.tar.gz"
+    },
+    "1.1.0-pre0": {
+      "sha256": "b3934bdcb4ec9ac7102788396962cd3b4d82941fbddedb01abcab50dc5a24729",
+      "url": "https://files.pythonhosted.org/packages/bd/89/25ca354a4a057316aee386e2ef158f013ffd2fd1f7c32805ec67e8acf693/pantsbuild.pants.contrib.scrooge-1.1.0-pre0.tar.gz"
+    },
+    "1.1.0-pre1": {
+      "sha256": "a77df7cd47f2100ceb4cefe271675a11cfefc2324b75e7dbbdccfbf1a9d7934b",
+      "url": "https://files.pythonhosted.org/packages/58/f6/8a4691a0f8000f9f450e3d1e8b7b68ab7945d54f26044f6c664bcec83cf0/pantsbuild.pants.contrib.scrooge-1.1.0-pre1.tar.gz"
+    },
+    "1.1.0-pre2": {
+      "sha256": "c6c9e90438a23b6c5392e30a50a07db348c830d49871a5c693edb0d06cf05c69",
+      "url": "https://files.pythonhosted.org/packages/72/5e/0968add3d568eea7b00758ef8a74bd5ad60a8bf9abacd9fbc60ebc7aaff7/pantsbuild.pants.contrib.scrooge-1.1.0-pre2.tar.gz"
+    },
+    "1.1.0-pre3": {
+      "sha256": "20cb42d27613f2ac5f9cecefd0941be7943372b9f920d96d710adae229148fe7",
+      "url": "https://files.pythonhosted.org/packages/78/d2/fe72412eb08892b5580f9d819a19b7dd6b214f4d3eb66ef6c6d4de0942b2/pantsbuild.pants.contrib.scrooge-1.1.0-pre3.tar.gz"
+    },
+    "1.1.0-pre4": {
+      "sha256": "feaf757b051c676a14a349b82f12078a9d69c1382043afb38857bcb975f10103",
+      "url": "https://files.pythonhosted.org/packages/25/c3/9249e60326d5ea2949ed7eb7399b3fc8b7ea3c1cbbcb53bef4962dd49b4a/pantsbuild.pants.contrib.scrooge-1.1.0-pre4.tar.gz"
+    },
+    "1.1.0-pre5": {
+      "sha256": "f4b5a4ce10a8e95ad46e1589af89b8cdc39a24d22d9e6f6d979dadf5600f58f3",
+      "url": "https://files.pythonhosted.org/packages/5d/45/81dadfef20d7f053138e654259bf6965aaa98acc608c267031fa5e3028a5/pantsbuild.pants.contrib.scrooge-1.1.0-pre5.tar.gz"
+    },
+    "1.1.0-pre6": {
+      "sha256": "f1970f5aba4108eaabec889a85a0e661835b38b5bb9e785cb7cb79b8764b53e7",
+      "url": "https://files.pythonhosted.org/packages/1f/a9/b8a8c524927da1dd0f6dc390b7869f5aa9e5a8dd34b662fbd4c952ab5597/pantsbuild.pants.contrib.scrooge-1.1.0-pre6.tar.gz"
+    }
+  }
+}

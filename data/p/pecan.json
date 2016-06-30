@@ -1,0 +1,144 @@
+{
+  "latest_version": [
+    "1.1.2"
+  ],
+  "meta": {
+    "description": "A WSGI object-dispatching web framework, designed to be lean and fast, with few dependencies",
+    "homepage": "http://github.com/pecan/pecan",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.2.0": {
+      "sha256": "14f5b773eb23d2a2bdcc332dc005f795f8e5bea90c07e0152e0589ad656b5efd",
+      "url": "https://files.pythonhosted.org/packages/7e/a0/db16abccfa15936986ed28021eef53217684638d68d234a440eb1a58f6f0/pecan-0.2.0.tar.gz"
+    },
+    "0.2.0a": {
+      "sha256": "f568b13c2083e090b3f2f386f9867216de70b7db95d147ab61166bac45170f4b",
+      "url": "https://files.pythonhosted.org/packages/40/7c/3fa88b6b1be5785847ea3b832279c7f6d32416294791fe6b70459e455d56/pecan-0.2.0a.tar.gz"
+    },
+    "0.2.0b2": {
+      "sha256": "967cfee58882af58b1b34c5224774b064f6401d4bff9183a7d46d3a118bf35f6",
+      "url": "https://files.pythonhosted.org/packages/59/4c/496cec0769741971fe9b3809205aa085c0292ebf55e4c0ecc71f17318cf7/pecan-0.2.0b2.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "1c567c14ae8902dd3c43f9a6ff59c8e519a455b929e9136aa570d78fa780f423",
+      "url": "https://files.pythonhosted.org/packages/40/b2/753d76418150a50190dfd7cb0e908dd5ee9f09a1514c32b0f3ac91056646/pecan-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "2ed11e49eda5f9921bb95f929de24ea1a4f707aca95d737fd6c7cb1173a151fe",
+      "url": "https://files.pythonhosted.org/packages/7e/75/78dab5eca086bf23377e2d19257b40d5df44d34d0f98f7000d6662dd8eac/pecan-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "ea5d7dd5b5c86620b7ed43a712dd5dc9932e2c259e5dcf22555cbe2c1a2acb8a",
+      "url": "https://files.pythonhosted.org/packages/8c/9d/4c5ce3cad3835255bba3863cf26014e9f1022f80b5da2f3b29010702846c/pecan-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "8e0fec0a4290e3a549b846e50c690c056106c8d16dd17d60078b9da9e783ac9e",
+      "url": "https://files.pythonhosted.org/packages/c9/25/66b07d8c034ea7eaa5732a55e795bc020cb119dce23c5f8f208bc63351f3/pecan-0.2.4.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "281a942a46a0245f0f9e579d9139a37dc3a381b0f9c7fe82977ddce765ac2fbf",
+      "url": "https://files.pythonhosted.org/packages/53/46/aa9d6c47fce0d60c300e6ee995e315b0d17a9961d35cc2f4b85ce1aa14dc/pecan-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "e98bb39b1502193644dd2ce038bbe717cb351097fa88c71b32f2bdea35d0ef56",
+      "url": "https://files.pythonhosted.org/packages/76/a2/dfd8ed85b0cdd6c7893b3f1bb309e67fc125811cd485ad819b248f387757/pecan-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "2804a27f4a297df4285eda18d5615273abdca4ebe9858a8696278d23d683170f",
+      "url": "https://files.pythonhosted.org/packages/c1/f9/5f0717cc3942349febc479b46e22c85dc3e180de57dbdb4cf148211851e7/pecan-0.3.2.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "82b3cc3e003466ad4cd00ce3238fe402bb544c7d40d0df39faf71f414646cf83",
+      "url": "https://files.pythonhosted.org/packages/e3/d2/f811fb76607f0ef8b10f99559906692e8e034f924ee1477b6138e20ca24f/pecan-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "72aea7ffe4085944beec4134ad8bff31fcea13cf900f11e9b31f7470863916f8",
+      "url": "https://files.pythonhosted.org/packages/fe/65/a9d9567c2c860e0c94e44409fcc15e1a454ed8a928d890b468f2e6e08a9a/pecan-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "a421bba3984e4844a73e80d82f9a4bfc7d15534cafbc1defbc2ef58c0dd74e70",
+      "url": "https://files.pythonhosted.org/packages/55/b5/8cbabcf7fc37f06f8a7e697467e36698c6e14693f17c4870f690190bef0f/pecan-0.4.3.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "40589a098179b818e352b28d8f7b130db988454cf0937d8405c36b9ffde151c5",
+      "url": "https://files.pythonhosted.org/packages/75/d1/066aa3ce129d24d33c65e7f576ed7217beb54eb1c435f1123ec77b2cdbfe/pecan-0.4.4.tar.gz"
+    },
+    "0.4.5": {
+      "sha256": "e015753edecb68a0ce164d47b3234e49badd0ab827f6c79150f56f13f28f2c59",
+      "url": "https://files.pythonhosted.org/packages/09/cd/106034321ee3e47987c24d211a478a839de20b9c40fe472e04ab2b900e63/pecan-0.4.5.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "726d000cc2b5078de560a9a69e29637c59fc93b6707b292a56bdb0a466555922",
+      "url": "https://files.pythonhosted.org/packages/a8/a2/97ff058003010989601543d68bcd014383ef821ee35558fa9025ba9dbd08/pecan-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "7b471add51e62cee5848fa8db4b37b17b505718312284790b050ba96408a33ae",
+      "url": "https://files.pythonhosted.org/packages/c1/cd/62440e0e298b6f7c7df08a598083b5e5d7cca2f6a0541be04fa1ef878ba1/pecan-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "a9df89ae474ce1d379080cf3ef1e8a4a71981dd35400278ede7fb2735800fdbd",
+      "url": "https://files.pythonhosted.org/packages/8c/a8/61aefbfc14326199cd442c66651e6975505ff66344d52c849dcd7c63a833/pecan-0.6.1.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "c4779a89881ca10aa548cdb110dd92cd9d176a32ac6d55b654b28e2e5b3c52ac",
+      "url": "https://files.pythonhosted.org/packages/64/67/2b43ca106a72446b7dac27fd8a1b3fb7c6395397e33dccb33fb465e9aab3/pecan-0.7.0.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "7347566b6c4dbe14cd8c4d4b1d0e2d932c891e7f775d3168f7d14d1007657f6d",
+      "url": "https://files.pythonhosted.org/packages/fe/16/8bca3eb7786f5c9bb3bd0da2a008f50f6f93c28cc1711d3e2ba397261d40/pecan-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "43070d34ecdbcf6f742cf1293b4281b5f090bd428d040e111e51198b6b4a79da",
+      "url": "https://files.pythonhosted.org/packages/a5/91/867f756c31e0be4bcc1a69131c47d0508d50b01cb6e3cbdf406423c6511d/pecan-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "90e18907fec2b23c6690395f26539a6ebfa49743026a73e97d03ca3a803707f2",
+      "url": "https://files.pythonhosted.org/packages/ff/9d/cc80dba2aeff8b0b3282481d9f33ec0cf5599d71e8594294acc0700d9c7a/pecan-0.8.2.tar.gz"
+    },
+    "0.8.3": {
+      "sha256": "ca6c31e1fb98e4ae780a44a40a88eacb7a19172d3f64d4e31f32049a784a1281",
+      "url": "https://files.pythonhosted.org/packages/ac/d1/2af6cec61222994be50c33952296b81a1f58961adb75b0ddf92651a3c059/pecan-0.8.3.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "d26be0e451c5999504599a9a741534caa0fba97d9bb8991c951f63b79a30b933",
+      "url": "https://files.pythonhosted.org/packages/73/c0/42b990561634378a6cee447b8a0bc4cd79e50adcd993a8c19b3de13eb239/pecan-0.9.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "b8f4f3bd86ed472f26310a086a7f3776225c9ecfd8b24a96dd31b1ccce3feaa0",
+      "url": "https://files.pythonhosted.org/packages/ba/2f/d840c48b802d9bf7437fd680b7c895185d56b8a76047a77431ceb2b1f069/pecan-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "40a08c048257886821c3a1a8a9bfc50a4b1b0514ce0ab1b3c6e2b504a4ba36ee",
+      "url": "https://files.pythonhosted.org/packages/2a/74/7b3079dbc688737b4b66c93eff11f6485d4fe41fe1dc05468ecfdd5b0fe2/pecan-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "09ec440bd20821ba1170667ce9994712701416eaa6044cfe7c647aa5e291c5bd",
+      "url": "https://files.pythonhosted.org/packages/56/ac/1c4573e12ee005f381318f11d2b56bbfb269816c3dfa03871d8541dd4986/pecan-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "8d6c99709a9e0ba0752b23e0b4759b7b33e8d8650ee45c1f5f5fa2a596af4b11",
+      "url": "https://files.pythonhosted.org/packages/7b/23/fb5033273ccb39dc70d4a0e94367c983c2bdd9b87210083f1cb53c4cea3a/pecan-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "0ecaa56bd3e1643af671dda9c293992b0e086c52cd7d19ab37bd56169a6effa8",
+      "url": "https://files.pythonhosted.org/packages/ce/ab/faf15ad665d95241faf61c1a18fec1f5491e69908ca82229dd68ec4659c1/pecan-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "b7c4c9c02b36ff018fc0bc7e720efc0a215e02c3d78c15c38c7829711e787341",
+      "url": "https://files.pythonhosted.org/packages/9a/8b/4e6f15b61329e3dee113f5c4dceae349ec8c14eafc30eec8fec2b5968b24/pecan-1.0.5.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "9a1fde107633dffc265c9e8373e8afbdaaa59e5b01e194afb13bbbff03c4a1f1",
+      "url": "https://files.pythonhosted.org/packages/b9/50/6cf0ba00e5a11cd99e31614def4e251e36f37213026f1b01dc5d603d4384/pecan-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "b58bb807e5aaf0a2627e05819cf39a1cbced55bfee20743354cc6b10101ff76d",
+      "url": "https://files.pythonhosted.org/packages/d3/2a/20f6529e96caf0e5995d254f66d77d7520833c4a5a4c71fd104a22d05686/pecan-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "e7969d9068d0185997f4affca86755771e5db2edf7aa6238be2bebfb4dd6e662",
+      "url": "https://files.pythonhosted.org/packages/15/91/12a8685437ba07a9fb0ef23a5af9ac3a0b8d01100c7aa97156b95a5cf4ce/pecan-1.1.2.tar.gz"
+    }
+  }
+}

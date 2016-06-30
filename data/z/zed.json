@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "1.0.3"
+  ],
+  "meta": {
+    "description": "Thin wrapper for integrating ZeroMQ sockets into the Twisted reactor",
+    "homepage": "https://github.com/cocagne/zed",
+    "license": "MIT"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "fa3b2fc8cb6fb1ef997fd811670d80d864ce3a11ba99c9c7a901f0ce79e1828f",
+      "url": "https://files.pythonhosted.org/packages/ed/a8/6f4ff8ea2c52c829389868b6fe55fabd183d1974b3cb4b897048b015f7a0/zed-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "fe0ac8209e56b3148b3f68ef519cfca37d054f47778c287e0d8e5132e1c00fb3",
+      "url": "https://files.pythonhosted.org/packages/7c/89/5dd1f940e34b41e206e50d16edc6a51fa2642f533dd20da17fe270619721/zed-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "a97061673ffabe495e42950defea445e6b06b53a25519f444478c60ee8f085ca",
+      "url": "https://files.pythonhosted.org/packages/76/e6/5bf7e81b6970ac65f061795d2f8cd34818cbb02967f6b541043bba5bfae9/zed-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "67b0b7daabd99faf817305a3b04c9f5d6c12a4b672bffc5a9ec78f33719015a7",
+      "url": "https://files.pythonhosted.org/packages/f7/57/0258001132fa6aaa8e8d97717a1588b88c8adffa4e9ba88114dd641317f6/zed-1.0.3.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "1.0"
+  ],
+  "meta": {
+    "description": "An Ajax based Zope/Python prompt for Plone",
+    "homepage": "http://plone.org/products/clouseau",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.8.3dev": {
+      "sha256": "d8f55a4ec5257b5fec33e29c37647c13590f21018a0cfc455267d8ccfeed58a0",
+      "url": "https://files.pythonhosted.org/packages/15/a3/7e93bf9ab79bab9d31b86622301d165042151eb32245fac65f577488a628/Products.Clouseau-0.8.3dev.tar.gz"
+    },
+    "0.8.4dev": {
+      "sha256": "22288ccaa703407a8796ab59cc4eb42dec3039888b613e886d2ed0c9630a5343",
+      "url": "https://files.pythonhosted.org/packages/52/40/7baa724ec799529e5768234b20a199dcaf519eda257eeb8baa19667d313f/Products.Clouseau-0.8.4dev.tar.gz"
+    },
+    "0.9": {
+      "sha256": "e66abc05c5dbcdeea922863fb2e66606dab2b146d882ea2a6aa15119e6826d9e",
+      "url": "https://files.pythonhosted.org/packages/49/81/65fa6ee95bf576fe56b0430ea81dd914f869b5337bf6243929b45b7ba30f/Products.Clouseau-0.9.tar.gz"
+    },
+    "1.0": {
+      "sha256": "7417b3a84fc2572b3e0d0a9ff4b4efd057f9d5319176f168e085ccd45e9ebea9",
+      "url": "https://files.pythonhosted.org/packages/55/c7/c72dd007fabc95a2d1be48120a9c58052a35256a4a0d5cc4435eee16e770/Products.Clouseau-1.0.tar.gz"
+    }
+  }
+}

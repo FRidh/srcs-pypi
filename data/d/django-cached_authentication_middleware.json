@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "A drop in replacement for django's built in AuthenticationMiddleware that utilizes caching",
+    "homepage": "https://github.com/ui/django-cached_authentication_middleware",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "7eacad5b411dd9c5141f0f043a5f9838e3b110055ed17d37d380e763e0c7609d",
+      "url": "https://files.pythonhosted.org/packages/32/5e/d49b0cb3ab49b6fc228649a8f3d0bcb38623b723c508355e3f45d406854d/django-cached_authentication_middleware-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "cc01d37453d6b0ec3099c4de6563fa21987bc2e4ef1cac73fae738996f0f08d6",
+      "url": "https://files.pythonhosted.org/packages/9b/b1/aa0d1c577def1a07c302e5c40676f20881061fd7841e05c1ac636aea4c59/django-cached_authentication_middleware-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "3db4140c7cfd9d7ae65039d4682907a17bddb53fcd69a7ff7c2afd0e29c12367",
+      "url": "https://files.pythonhosted.org/packages/54/00/7b0ca1c3230fb6c91057001ca9b8e9848eaf8d99fefee798e74590b6213e/django-cached_authentication_middleware-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "7b71ec566b2a2d2666dfe62d2d404c194b1b15ab01103dd766895c30b0a3774c",
+      "url": "https://files.pythonhosted.org/packages/83/2c/dd829201c3f57b650325b0f7b72c59333eee903a9776fba272c022e99640/django-cached_authentication_middleware-0.2.1.tar.gz"
+    }
+  }
+}

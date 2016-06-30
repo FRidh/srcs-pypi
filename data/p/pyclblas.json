@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "0.8.1"
+  ],
+  "meta": {
+    "description": "Python Bindings for the OpenCL BLAS library (clBLAS)",
+    "homepage": "https://github.com/jroose/pyclblas",
+    "license": "Apache 2.0"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "2737abf849a3aebb3b95e62a8fdee0b4c341ee6c3c2413979a5f90401c1d1d57",
+      "url": "https://files.pythonhosted.org/packages/8b/02/eb282a892fa966ec7a00157b6732e1dc55ce8b90aea3ab415232ddd19221/pyclblas-0.1.0.linux-x86_64.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "f71cf9e877bc45f741eddfa7757fb608a3e55e37e9cc5b8bf9e288782f047ff9",
+      "url": "https://files.pythonhosted.org/packages/47/c3/eed6bab4079c99f88e97fbb408909eb8e80d94d3189c0dea2d119ea69149/pyclblas-0.5.0.linux-x86_64.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "920519022e8e9adb0c46b2ff446f2dab6ec030d5c4b3632d3e6a61fb15b6188f",
+      "url": "https://files.pythonhosted.org/packages/3a/46/24ae80c97ebf8025ca66856668c4becdcf93dec84a27c7f02e2b59a7eac5/pyclblas-0.8.0.linux-x86_64.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "54a57a1c2046be42ad32d053e6aa7b700e2aa9a80ec8b123550cb19b415bc0ad",
+      "url": "https://files.pythonhosted.org/packages/aa/c5/b941962b4eb97d5e4a3dae1f831c2b0997f1ac34bd65829310da7dfc89ea/pyclblas-0.8.1.linux-x86_64.tar.gz"
+    }
+  }
+}

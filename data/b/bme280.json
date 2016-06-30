@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Python Driver for the BME280 Temperature/Pressure/Humidity Sensor from Bosch",
+    "homepage": "https://github.com/kbrownlees/bme280",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "ceaf7d15887f7e575dff8db871ed795c2e483c97c54f100a59e90208c1f1df0f",
+      "url": "https://files.pythonhosted.org/packages/c6/91/40fac5354cd6878c6ea27c1629864ec0e548c6c3802f54764112f8ae9a23/bme280-0.1.0.tar.gz"
+    },
+    "0.2": {
+      "sha256": "0a91574572e9844567a3e7431b10358f14f8ea2b9abb4521e88cdc6e0f780d76",
+      "url": "https://files.pythonhosted.org/packages/bd/70/6d78deb771ec537a3f7f9c3f010bcdedc586925273070827ca2a037b6184/bme280-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "c006d4b0aec08d251ccf9c301964c5847f9e296493b12ad38a701eb9411f18cc",
+      "url": "https://files.pythonhosted.org/packages/d6/16/d2fcf8372d21efaebd2abb9f29fb77547c16aea0955b07ec412298568bd3/bme280-0.3.tar.gz"
+    }
+  }
+}

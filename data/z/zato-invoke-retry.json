@@ -1,0 +1,16 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "Zato 1.1 service providing invoke_retry & invoke_async_methods for retrying invocations, blockingly or in background (https://zato.io/docs/index.html)",
+    "homepage": "https://zato.io",
+    "license": "GNU Lesser General Public License v3 (LGPLv3)"
+  },
+  "versions": {
+    "1.1.1": {
+      "sha256": "956c0aede4fe8134ccaf8fb0fbd8d876165a8d1f12f16a799cc5e69f017c783b",
+      "url": "https://files.pythonhosted.org/packages/a6/09/c4c03ae244dcb752fbde467dc8cdb2d044e4e361b6bfca97da7af34fa1da/zato-invoke-retry-1.1.1.tar.gz"
+    }
+  }
+}

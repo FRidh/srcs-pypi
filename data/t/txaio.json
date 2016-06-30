@@ -1,0 +1,80 @@
+{
+  "latest_version": [
+    "2.5.1"
+  ],
+  "meta": {
+    "description": "Compatibility API between asyncio/Twisted/Trollius",
+    "homepage": "https://github.com/crossbario/txaio",
+    "license": ""
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "4b38afc5d416b23426ed4e7f582d949317df5173c50efec999f2cc97ed368a57",
+      "url": "https://files.pythonhosted.org/packages/30/41/4256660369de8e0f3546b56b407f52f94bc69413c9446401670da13d9429/txaio-1.0.0.zip"
+    },
+    "1.0.2": {
+      "sha256": "f3bd869a54e3e510d0d958ab168151a3003c0701c6362caf67a01c786ea82afc",
+      "url": "https://files.pythonhosted.org/packages/d3/23/8121de82a1f567474b2f3d44b96ba8b97aa09806a2162131f667ab03a122/txaio-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "530d777682bba5ac78f8bb41b99bee2b3e7f920e54010098181f0b68bde1767e",
+      "url": "https://files.pythonhosted.org/packages/34/b5/b6439b8ab9f5c312bcbcad7e350bcf00c9cb133bcc8764de47308e6b21b3/txaio-1.0.3.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "3b1f312d7c4357ce70b92c43f6f335419b4ddb1606839552e8298ffeac366dda",
+      "url": "https://files.pythonhosted.org/packages/b6/4e/3ba1db6d37a0bd1e345ecc41f0f4dc2b4c0eebf73474574f753342a6f456/txaio-1.1.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "4e00ac40a3bb2c2b20284fb6a9c66e8c11a5324b84e7a0fd2963a8716cacc6f4",
+      "url": "https://files.pythonhosted.org/packages/f1/1f/34f450b08b3731cfd69780a48b7064958a7850d75782b1624d15f2bb07df/txaio-2.0.0.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "235981ac0a62400562bae7fbcb601d032f42629276a71e9051ea2b63c4d8db3d",
+      "url": "https://files.pythonhosted.org/packages/e2/5a/f60289a18e7b88c93691fbd8d1834aa8b669f098f3683127a24f8cb45693/txaio-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "b6d73b2a975f950f338a6029fae5b24fb79c12ff038bc9bdcb47203bdace5f19",
+      "url": "https://files.pythonhosted.org/packages/a4/38/38d0b61f2aa529986c494da4b5fff7d250c2a9e7751a8faacb71f35be3c7/txaio-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "a0c20535e0a3197a55c58615ef40ff7c0c5edb81ddcbd8924e1a6587112041a9",
+      "url": "https://files.pythonhosted.org/packages/68/36/8170a441658f3aec82d19214f1e88f39090a9e6e69814587134943dbf969/txaio-2.0.4.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "b94e3dbc83760b68955160fc61a2c34e2798f7a90c41672560f40dfd2946a864",
+      "url": "https://files.pythonhosted.org/packages/28/d0/40d54350cb337eb8044f1fbc188a8ba63db32ba08b9ca4ba50bdcc61aa43/txaio-2.1.0.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "5aa536f69d7a52bfe528863e783f20a70138269ed97d134222fdab6afa0dfe14",
+      "url": "https://files.pythonhosted.org/packages/3c/e8/d1f868bfa3dba325850af0e0f56523de2a3702d335d3c0eea88fd38a7d6b/txaio-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "6eee00c397d8193d15313dfc36da3eac8d64edf0b92fe3b67cd5a735ffc3074b",
+      "url": "https://files.pythonhosted.org/packages/92/98/b0f7f7d2a6025131f0bb111030a0fc2cc40b1b94f59eeb347e903695ad9b/txaio-2.2.1.tar.gz"
+    },
+    "2.2.2": {
+      "sha256": "8e7811289f39e9399c8a740f19a29df4b4f15b1bd33182129159c1ec73a73f2a",
+      "url": "https://files.pythonhosted.org/packages/5e/c1/f6200b7d185e8e3cd25c839f3499875c46702178e741f115d00c7648139a/txaio-2.2.2.tar.gz"
+    },
+    "2.3.0": {
+      "sha256": "70a2b6c6816ce530119e5005cda96842f5be2a17b97acd9238ece014a6fde238",
+      "url": "https://files.pythonhosted.org/packages/29/2a/796bd4456d619d5ea4c944044b71466d7c4fe0e5ec8da808ba0cf5e4d339/txaio-2.3.0.tar.gz"
+    },
+    "2.3.1": {
+      "sha256": "1111c87bff73e22c2067318cbb267781e2f651c485d21783b25e1e768eabab67",
+      "url": "https://files.pythonhosted.org/packages/f4/a4/ee266a64e77e26f717db06b148198e2594d3c5c4dd982619cb7f87720ece/txaio-2.3.1.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "9ea2d1e21ec03cfb72827a2d71d700eee3729109a984b14f150c586923e91593",
+      "url": "https://files.pythonhosted.org/packages/99/87/e9e820e85af2018399b18de6fa767150a48f1646fa059498adb8f3a09fe1/txaio-2.4.0.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "997a75e7a677d47256ddf59d252e004b0ac2fe4cfecdeb85e72cd4b84a21799e",
+      "url": "https://files.pythonhosted.org/packages/91/c9/b2873e5a3e84c1b91a2d59b6d1efbc741da3bccc8c35e11f9e64365bd092/txaio-2.5.0.tar.gz"
+    },
+    "2.5.1": {
+      "sha256": "625076477182e2dde78b79d0b2b0d6b3cecb0e24fe0ea7eaf2abd26a4c0dd1de",
+      "url": "https://files.pythonhosted.org/packages/45/e1/f7d88767d65dbfc20d4b4aa0dad657dbbe8ca629ead2bef24da04630a12a/txaio-2.5.1.tar.gz"
+    }
+  }
+}

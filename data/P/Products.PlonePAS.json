@@ -1,0 +1,288 @@
+{
+  "latest_version": [
+    "5.0.11"
+  ],
+  "meta": {
+    "description": "PlonePAS modifies the PluggableAuthService for use by Plone",
+    "homepage": "https://pypi.python.org/pypi/Products.PlonePAS",
+    "license": "ZPL"
+  },
+  "versions": {
+    "3.0": {
+      "sha256": "61dd00d9d20896718ef2e43f9c6208c5d07693a491d038dc66c5b8e07140b547",
+      "url": "https://files.pythonhosted.org/packages/e3/7b/5cf0d7f8db905257a408d861155375f471a3ddf4564331948e2f6fd46c70/Products.PlonePAS-3.0.tar.gz"
+    },
+    "3.0b6": {
+      "sha256": "61cdcd768fc1c274bb6bd29290bb3008879e4b67b59d1c2dbca903d33af7dea1",
+      "url": "https://files.pythonhosted.org/packages/29/d4/d459fab35d720803f62895846c5c2ef298c455eb28b213c7639a9ea53a54/Products.PlonePAS-3.0b6.tar.gz"
+    },
+    "3.0b7": {
+      "sha256": "8461141a7898ab508d4c3ca12804b595bfed278882fc7017673b39dc77fe3014",
+      "url": "https://files.pythonhosted.org/packages/fd/86/c7b409aada73bc48922b42c753354545313016b8c7e9a3a0c9b76632d5c2/Products.PlonePAS-3.0b7.tar.gz"
+    },
+    "3.0rc1": {
+      "sha256": "9c6f127013fa45df8d82eaa28ef3f39a90e376bf45ab46a93d773809f2b5f5e3",
+      "url": "https://files.pythonhosted.org/packages/c6/45/5aeeb747ada186f3481d8dde9f33464c5ec2437064fe5b979797d2bf25a5/Products.PlonePAS-3.0rc1.tar.gz"
+    },
+    "3.0rc2": {
+      "sha256": "b3992218efad75857b3af0942390a222a45de00ccc160a2b080c296b83b92fa7",
+      "url": "https://files.pythonhosted.org/packages/5e/54/1c859545c57548774f5869b42fe8de076f5f2610db146ae553c0892b8743/Products.PlonePAS-3.0rc2.tar.gz"
+    },
+    "3.1": {
+      "sha256": "a91936dbebc983dde4e5c2e84653657e92643ef23260281bd87aae434f79aaf8",
+      "url": "https://files.pythonhosted.org/packages/a2/73/1ec9847fac6d4b54bc91e4bf5890fef67f25830fdea7f0e594dfe54d3679/Products.PlonePAS-3.1.tar.gz"
+    },
+    "3.10": {
+      "sha256": "0396dbf153bf38185d4478a40dc15e59d96c680856e5ce6a282c94afca9a0eee",
+      "url": "https://files.pythonhosted.org/packages/28/bd/5a6b0657df52a566752ebc5f70fe54abb43451e0bfe227849386af07f48e/Products.PlonePAS-3.10.zip"
+    },
+    "3.11": {
+      "sha256": "a0c85ab1e1aa67bf41d9f69fe97c4c9f66b67af89313fb57bcdf0a984018611a",
+      "url": "https://files.pythonhosted.org/packages/ed/31/c119f3542ddd7b68dfa394d41158b4b427f6c428ecc23fce8afa21503b51/Products.PlonePAS-3.11.zip"
+    },
+    "3.12": {
+      "sha256": "941406ace776e289501b124b719ce9f135c51719bfc903f995cc5133940cee59",
+      "url": "https://files.pythonhosted.org/packages/db/9a/e41d6583ca35505389ac6e55827d42dfa67ad4c748be068766ac6b8fec6d/Products.PlonePAS-3.12.zip"
+    },
+    "3.13": {
+      "sha256": "9d21e7600115539f2e393e6c92ee5bde6c7a0cfdf14e6421c64b8a421bae371a",
+      "url": "https://files.pythonhosted.org/packages/b7/4c/61533ee93847022808a06562d71c8c166e79cd163b6ec0624ab25190a18a/Products.PlonePAS-3.13.zip"
+    },
+    "3.14": {
+      "sha256": "3ea7a432c33a7c4e0d31d5915e29c15ccc2835b7fcf44ed457ed708c29f271c1",
+      "url": "https://files.pythonhosted.org/packages/11/f3/4d6f8c6f1c7bb3b49993990c2bd8d682f92992a6990c9835331efc73a518/Products.PlonePAS-3.14.tar.gz"
+    },
+    "3.2": {
+      "sha256": "ec32288b3d13e9e8ad3058b0bed4f2db0ee1b93348235f5e489ca374ccedf27d",
+      "url": "https://files.pythonhosted.org/packages/3b/36/1174b55a9fa13060e5670db476bc1311bc1db759b4c9f1b6f76ea730ae6a/Products.PlonePAS-3.2.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "370fb3b01e66d0248c7bc4cec150aee78c93c96f809d73e677e7c15be4fe4871",
+      "url": "https://files.pythonhosted.org/packages/86/0e/8e4dcb01b86464c10f9455ff7b4db9c9ae2f77a0b94df1f29fc698ebb1c2/Products.PlonePAS-3.2.1.zip"
+    },
+    "3.3": {
+      "sha256": "218377b6629c53a3c302bde5ae6b36a1914f8c33deebf38fefc8fc9cb95f9a83",
+      "url": "https://files.pythonhosted.org/packages/64/cf/4fcbb130f79a0878a530cc3da582bd0936c96875e7f0c478c7094cddf0d8/Products.PlonePAS-3.3.tar.gz"
+    },
+    "3.4": {
+      "sha256": "22828c34472c1e7e69a9334c252718358c2dd8e9a7ed705c0cdffb7f3b449387",
+      "url": "https://files.pythonhosted.org/packages/05/63/7d318c17e5a8026a19dae26e8a4ccb355c7af3ab9feba3bbc122e8eff7b8/Products.PlonePAS-3.4.tar.gz"
+    },
+    "3.5": {
+      "sha256": "cd1b707d0d6b8e216c7f0bda06224f1736b0cab0f0b4fab536dc5099474d862f",
+      "url": "https://files.pythonhosted.org/packages/a1/ca/c7ccc6bbcf3f6ff240172533fb8e2d83fab863ffe0372ad033cbec6f52a1/Products.PlonePAS-3.5.tar.gz"
+    },
+    "3.6": {
+      "sha256": "a57070c2f2542b6ba750e8c31dcde601a78081b31dd05138fb47a54e27a0c41e",
+      "url": "https://files.pythonhosted.org/packages/06/6a/0cd65365bd1dbd361d00afa06500c3dbb602256b2bc6a53b5f2009126c67/Products.PlonePAS-3.6.tar.gz"
+    },
+    "3.7": {
+      "sha256": "717054842fb6421c135fe8b696872912746af25118281d3838096b8d28bce257",
+      "url": "https://files.pythonhosted.org/packages/d7/31/6b3cb01ef5e172d42785a93d687ff23c2566b6d6393f2ff290bd2a33a8af/Products.PlonePAS-3.7.zip"
+    },
+    "3.8": {
+      "sha256": "82da0b29a250f2dc1edf2173318c1d5ce27a23b2522430f2e3db135c77a2b021",
+      "url": "https://files.pythonhosted.org/packages/92/b0/c3acd770fe547af9ec26f2548d0f803bb810dbdccddcdc2acc38736c8dcc/Products.PlonePAS-3.8.zip"
+    },
+    "3.9": {
+      "sha256": "40c06914a813cdbe9481f764041343141fa576543c8d20f6224403860b973665",
+      "url": "https://files.pythonhosted.org/packages/0b/6a/adc60c84ea541116268a242bd7b4343caf324baff7debc138560a1e61f37/Products.PlonePAS-3.9.zip"
+    },
+    "4.0": {
+      "sha256": "66061e7a368f08d63949c83790ca4010571789e7978bc0c118c149dba29ea2ce",
+      "url": "https://files.pythonhosted.org/packages/5f/c7/d9ae0fe5634e18eccd184177ee132b669d13f03813f6589176ac1a067a88/Products.PlonePAS-4.0.zip"
+    },
+    "4.0.1": {
+      "sha256": "e016983c9c16ab5c9bea138fb292af9f42daf766a328f742a85e12f40b968dd8",
+      "url": "https://files.pythonhosted.org/packages/c4/69/b65ff2c966e07cb599f2a903321bc35e21e443dd36b60576eff345886847/Products.PlonePAS-4.0.1.zip"
+    },
+    "4.0.10": {
+      "sha256": "5da5376501b44c9b69c14c1692f8a208a450960291956cd2b24f74f6623a5d9e",
+      "url": "https://files.pythonhosted.org/packages/31/4b/dfc7fd1a29a260afca29ec11a462b38628e45a03adec6a156ee7980c8baa/Products.PlonePAS-4.0.10.tar.gz"
+    },
+    "4.0.11": {
+      "sha256": "f9be8e96e3df4ae5759d6f27a544f3901fe29cf3e073e7c6f5a43b11af71287f",
+      "url": "https://files.pythonhosted.org/packages/db/0c/54cb761c0eb0aa51c451491d081ccedf69215b4e7b38c31c64199259a865/Products.PlonePAS-4.0.11.tar.gz"
+    },
+    "4.0.12": {
+      "sha256": "d1342ea136c8ab424509d121b8933df4d583fd7efe184e4c3f838575ed65f171",
+      "url": "https://files.pythonhosted.org/packages/55/0b/90dd761ee864a2ca5dcc276b1b2406d9538be1a616b51841f3c62e6e0ed7/Products.PlonePAS-4.0.12.zip"
+    },
+    "4.0.13": {
+      "sha256": "87e5e1b89fa5091bce099df07085f14e3282646c5f28eff70622465b718ac1f5",
+      "url": "https://files.pythonhosted.org/packages/f4/6d/a72219af569e6f2abc5e3dd12b39e41359bfd13e6d6f9d89aee44c301118/Products.PlonePAS-4.0.13.zip"
+    },
+    "4.0.14": {
+      "sha256": "b738d341e1435c24345cc368d2cb11298cce66dfaedc6f1f9e75f6e13888fd93",
+      "url": "https://files.pythonhosted.org/packages/48/d0/9077554cf8afa9d4db70ace17f23529e5cf72abb870e285bb7b5befc8a43/Products.PlonePAS-4.0.14.zip"
+    },
+    "4.0.15": {
+      "sha256": "3ef5af3294b1bbcabc23005e8c2b32e41ac61c6d073e5512a2ca954ffe76833c",
+      "url": "https://files.pythonhosted.org/packages/c1/11/f96dacd3836da77995e12659d0aa25d27581659dd0eaf4085346c989c70c/Products.PlonePAS-4.0.15.zip"
+    },
+    "4.0.16": {
+      "sha256": "dca5a0961f7fbcd6eed5453a52c514f579e9bba6328567e58b246a61b032f77c",
+      "url": "https://files.pythonhosted.org/packages/73/d7/743188568b2efcffd9d47aae59b8a05409aed7ee9804b1158c13d8fdf905/Products.PlonePAS-4.0.16.zip"
+    },
+    "4.0.2": {
+      "sha256": "92fe5bffb9ccae05c7fb069e08c51905c6b77cd57088670c3dabdd8a8f2fc0d9",
+      "url": "https://files.pythonhosted.org/packages/6b/c3/31834223346818a2794d74401f373b83a0bdefcf682393a1d765b919754f/Products.PlonePAS-4.0.2.zip"
+    },
+    "4.0.3": {
+      "sha256": "ed1b8ee6e0930b0fdf82d11d46971d5a94ce7c72d74d01a2587251535959e268",
+      "url": "https://files.pythonhosted.org/packages/f4/ff/df628c67366333381bb31869ffb1f8080dc0f3b74ec5687e0f4960229e12/Products.PlonePAS-4.0.3.zip"
+    },
+    "4.0.4": {
+      "sha256": "c55c786f374f871c09b2d503bbbe80c5a47734ca953f457e41b35a61d8d139da",
+      "url": "https://files.pythonhosted.org/packages/40/c5/443812aa37d66f897207cd50c1bd87cf64a3f3ab5e2e99e0b12ca6421c1c/Products.PlonePAS-4.0.4.zip"
+    },
+    "4.0.5": {
+      "sha256": "ae50ba3838a24bee0b80264c40386a5fbd73f43318f9035101bf935cfc9e7b9f",
+      "url": "https://files.pythonhosted.org/packages/ef/c9/d8f8b9f4ff0c681e6c8df0363d7cd0272163d29b81c87afedc7e26262110/Products.PlonePAS-4.0.5.zip"
+    },
+    "4.0.6": {
+      "sha256": "02d9d1421112ee22a7bd89b60a3f6d659532f5626d7aeed7f90d7f0292b32b58",
+      "url": "https://files.pythonhosted.org/packages/bd/fd/e102a06987104fafb25890737cd6e8eb14d20f1deabe72236c0c843c3f43/Products.PlonePAS-4.0.6.zip"
+    },
+    "4.0.7": {
+      "sha256": "17378d39e940d3aa9dcbce2a6fff4b4356e51b84c4198b0ac5b1a770af4b9284",
+      "url": "https://files.pythonhosted.org/packages/4d/0c/50fa8f729df1c943e06b24b98ea0c244ec549b512af97b0f782873c9e0dd/Products.PlonePAS-4.0.7.zip"
+    },
+    "4.0.8": {
+      "sha256": "c789dca3964906d981c5378af90b647529aa8894b6a7eaa458f8723f75ba1941",
+      "url": "https://files.pythonhosted.org/packages/af/00/58b36101d5290e67d8a80e9e8d899deea363ee96f996396b0aab3e6b271c/Products.PlonePAS-4.0.8.zip"
+    },
+    "4.0.9": {
+      "sha256": "4e5adfb9f2f937124f1edfb20c669c482178eb878268421175d29e56d8d412bb",
+      "url": "https://files.pythonhosted.org/packages/24/bb/86358b58ad262307ffa39e6915b141570353d375a69c5352549231d7d11e/Products.PlonePAS-4.0.9.zip"
+    },
+    "4.0a1": {
+      "sha256": "75978cf81d76e199b5c215315f1ee372846097c9d06f314bc94455010a849bd1",
+      "url": "https://files.pythonhosted.org/packages/bd/57/94610677fcb906abe43ffcbe50eeb522b69757c886e8face4559a61f30d7/Products.PlonePAS-4.0a1.zip"
+    },
+    "4.0a2": {
+      "sha256": "e711006dc1d4c698e6e4b5343be28b83ea71e3ab2575f6eaa36eeecd46e69583",
+      "url": "https://files.pythonhosted.org/packages/93/f7/d253806e9b6730e25fe8b2d7b2e356c5104b99c4c4c8a2a8902696fedd53/Products.PlonePAS-4.0a2.zip"
+    },
+    "4.0b1": {
+      "sha256": "385107ee5af8c15739f0b9db05faec12b5ada12e439421f0b343e3007f914e1d",
+      "url": "https://files.pythonhosted.org/packages/af/75/6071abd6a01f3b38761420d816720d77cff95198fde1df1c05815346cf3e/Products.PlonePAS-4.0b1.zip"
+    },
+    "4.0b2": {
+      "sha256": "b5be4a82be1ab2a9c1d3920cb6a6202f16048bfd76e4fe85df707919d70b0383",
+      "url": "https://files.pythonhosted.org/packages/c5/28/e5d14581bc2d7856a055ddb870afa8dd136ac83fa5a0db7021a931c8c70f/Products.PlonePAS-4.0b2.zip"
+    },
+    "4.0b3": {
+      "sha256": "82fdb9086affe4a48a2d400bd85bb4bf9dd2236e4de0b047251998e172415e54",
+      "url": "https://files.pythonhosted.org/packages/2f/cb/bdde8e44351b5055f54a88368ddefb24a4ab5c9c8a90fc1ad5e9f77d3181/Products.PlonePAS-4.0b3.zip"
+    },
+    "4.0b4": {
+      "sha256": "d7533ba25c6e08f38480ebce967d4c1355e36f788e51ad1f85685d1f798b78ba",
+      "url": "https://files.pythonhosted.org/packages/b2/aa/178502337442cf7f42c564e862d50b03443ecd9656021b3985f41e3c9b7a/Products.PlonePAS-4.0b4.zip"
+    },
+    "4.0b5": {
+      "sha256": "f8b2b88f8190dcd458532e8051eb90ff3a02ba2142fd80d4fa860916448937c4",
+      "url": "https://files.pythonhosted.org/packages/2e/e9/cbcacc79106025f8957b03890a0826ca2b59ae97c4c16d96065aa496c2f3/Products.PlonePAS-4.0b5.zip"
+    },
+    "4.0b6": {
+      "sha256": "b6f6dd7f5f9680f62b66beb2c79565fde8536197fb26d12bd272389f4b614266",
+      "url": "https://files.pythonhosted.org/packages/68/41/762c1c551d46e14e9187ddf41627a05fa2367ed998be931e8c7a120e0acf/Products.PlonePAS-4.0b6.zip"
+    },
+    "4.0b7": {
+      "sha256": "3fb3fbf3ae961449ed7024d3b64f0824eb4680b8057a11d15c04b8af1dc017ff",
+      "url": "https://files.pythonhosted.org/packages/56/72/cce7c3b0e79bdc1105a5990ce3aecd2af4f7e3daa5cf429df202ee5b382c/Products.PlonePAS-4.0b7.zip"
+    },
+    "4.0b8": {
+      "sha256": "49d61695dcfe34597d8e60e7741b2ca938bb45c9d03545cd5128bcd040c5bc46",
+      "url": "https://files.pythonhosted.org/packages/f9/20/59b9c5186cc2401acd98eb33d23873e2ddf4bcd3453fc715beca54dd5c98/Products.PlonePAS-4.0b8.zip"
+    },
+    "4.0b9": {
+      "sha256": "3b371a61504a1d9fa5ecda49a30efd1861e14f9c8f63a1cfda824df8376a7303",
+      "url": "https://files.pythonhosted.org/packages/74/15/c0dd0be619c4db530d5f12b505637fb6732f89eec645228295770364e9b8/Products.PlonePAS-4.0b9.zip"
+    },
+    "4.1": {
+      "sha256": "14d14c4988d6ac8616e2b2cc5374cae4c4d028246e68a45408ff5e8e6d49ed86",
+      "url": "https://files.pythonhosted.org/packages/9b/05/19234a48f548f1af469ee47e2edc60bf224185b981a395456a7753209d3f/Products.PlonePAS-4.1.zip"
+    },
+    "4.1.1": {
+      "sha256": "6ea0ff3bee4fa7186ce21b7dc629b6c20689c8d8bf283d51307a5e91957e9d23",
+      "url": "https://files.pythonhosted.org/packages/4f/0b/7c47e6b5f9c75e7172c6231f978eae1ddf01be101c1991e7794dd9145069/Products.PlonePAS-4.1.1.zip"
+    },
+    "4.1.2": {
+      "sha256": "3af3410366e1ded2a52543ab3a5ee80b2bd3b8b03239ad8d383d8e224a33872c",
+      "url": "https://files.pythonhosted.org/packages/dc/94/c9399f4d74ac5f89a83839807611d735774ac7fedc492c39c18b04e4525f/Products.PlonePAS-4.1.2.zip"
+    },
+    "4.1.3": {
+      "sha256": "f29015fd568d4d55c70b59a86ba01eb53c51bcc564c09cbb7cdcac337484b8bd",
+      "url": "https://files.pythonhosted.org/packages/0e/d7/eb656b7e69fcafe6200eddbfb76cd3b98d210642ce161b6ca610e13b9f5a/Products.PlonePAS-4.1.3.zip"
+    },
+    "4.1.4": {
+      "sha256": "988810b88aa78073c480b20853223aed049ffe66889cdcfc6472879d39ae17cb",
+      "url": "https://files.pythonhosted.org/packages/ba/b4/7725855a290c8a31baef37f8d6aee828d02d1ab011f46fdb5e04ecb5bc0d/Products.PlonePAS-4.1.4.zip"
+    },
+    "4.1.5": {
+      "sha256": "201517582542fc2ec6d8f8263ecf69ecde3e3bdef94a847d75d77fb03a433690",
+      "url": "https://files.pythonhosted.org/packages/59/d7/7144f8f7f4f89a02e707cbeba192c2afcbf5657f60383f216df8254c93f0/Products.PlonePAS-4.1.5.zip"
+    },
+    "4.1.6": {
+      "sha256": "126b0aae5786164ef90053c4f78e569518e37b6a994acdb0c1ed4455aaaebf0d",
+      "url": "https://files.pythonhosted.org/packages/38/d3/974c3445c1be72165acd273c6d98fdace7bf717c05c68dea9cfc241660b4/Products.PlonePAS-4.1.6.tar.gz"
+    },
+    "4.1a1": {
+      "sha256": "076679542ed2efc7fe94bea7d24ffbf6824a1f02abb8c8c3dbf755aa69471299",
+      "url": "https://files.pythonhosted.org/packages/2e/32/cbaa718f4c3de0fa20d16571e6a0f5d3d57231221594d3e1fb74df3ddf73/Products.PlonePAS-4.1a1.zip"
+    },
+    "4.1a2": {
+      "sha256": "85101b6c29236305af903a55052064122d97a55ec6599b458c8a90e41d30d14f",
+      "url": "https://files.pythonhosted.org/packages/aa/53/5437774ba0347ba8cbc55718cbefaac0202ada15902d99acee8a004d5456/Products.PlonePAS-4.1a2.zip"
+    },
+    "5.0": {
+      "sha256": "841450c3dddfe3d2c5f8a73018b35ff64b4b1c4d809b5c616b85db0f0dcb9ca2",
+      "url": "https://files.pythonhosted.org/packages/74/cf/0cf7fd8993b4e2de09bf76509f0a64fb19ffb14891f63d515b42bbcb7785/Products.PlonePAS-5.0.zip"
+    },
+    "5.0.1": {
+      "sha256": "f75615f984b7411d1815c51b87ff0ef27b63f819d750d7b96b8ff6710031e19e",
+      "url": "https://files.pythonhosted.org/packages/eb/00/9f48c556f10e81d997a43a108609de52b57f2ccdf5b86ed7c4ad2967c51e/Products.PlonePAS-5.0.1.zip"
+    },
+    "5.0.10": {
+      "sha256": "07904fca2160571f4b6b082eb850e44090478952b1425b4857fd509d410b8cc7",
+      "url": "https://files.pythonhosted.org/packages/bd/e8/38a27bd6aee1ab3ac7140b2b9718becdf6aaf1250e9ed0cd5ca73e213375/Products.PlonePAS-5.0.10.tar.gz"
+    },
+    "5.0.11": {
+      "sha256": "8b06d0729d85e07ed531c8d5510d203ab1fcdfe68cb9056ac7d184f41c0fd844",
+      "url": "https://files.pythonhosted.org/packages/38/86/7d597df105a0a0da0a771fc8ea9c8f291829f69f33165796560c78e3cf6f/Products.PlonePAS-5.0.11.tar.gz"
+    },
+    "5.0.2": {
+      "sha256": "a29b46a4c15898d517a207c6591604097de6748f38d399088705599f4f407225",
+      "url": "https://files.pythonhosted.org/packages/2e/ee/39666b354e2b1f0a0a543c6cbd3453806ed0f4c59f4b0071a3a12dbf4aa5/Products.PlonePAS-5.0.2.tar.gz"
+    },
+    "5.0.3": {
+      "sha256": "c871b56ad180c441f306ae2ef684ce0f9be412620ef0109ce6dde703f7d1a3d2",
+      "url": "https://files.pythonhosted.org/packages/a0/29/e6e3afaaa92a786cbd7c961fc758285db110add9151b3ec7b7bfff480c90/Products.PlonePAS-5.0.3.tar.gz"
+    },
+    "5.0.4": {
+      "sha256": "1c185c4637e69da1fae0cc3762c31de4db8d53339ee2252d0fb77e5000ffd5a4",
+      "url": "https://files.pythonhosted.org/packages/0c/2b/b4e956386292d006ac9a33cff94f0ce31cbc8be0c5316529590a2044d9fc/Products.PlonePAS-5.0.4.tar.gz"
+    },
+    "5.0.5": {
+      "sha256": "d36829725ea61369adb11e4e20a5070cf2bbc2307b0c206b51a74910619fa09f",
+      "url": "https://files.pythonhosted.org/packages/28/57/7dffb3f0236b5086278d41b34c3004b772d3889daf059e78d40ce0346817/Products.PlonePAS-5.0.5.tar.gz"
+    },
+    "5.0.6": {
+      "sha256": "3bf06e321b21f5ae052b42e08c0235bd49f20741d4a63c2d013e9df8665d261b",
+      "url": "https://files.pythonhosted.org/packages/ca/ac/4631205249b0ed4df347edabc3f24dc94e784ef4dbebb5f4467437c4291c/Products.PlonePAS-5.0.6.tar.gz"
+    },
+    "5.0.7": {
+      "sha256": "cde4f03f2541a77f362050049f5302e1f3133cc500cf849e0f8e740d9d5c954a",
+      "url": "https://files.pythonhosted.org/packages/4e/48/12017ead98f4e618bfafb853a47423c1af57b3d347425da5e30043e9aa81/Products.PlonePAS-5.0.7.tar.gz"
+    },
+    "5.0.8": {
+      "sha256": "322469084d726feae66faead7939fd9e07b9aeb5de09e32622e3a3a1198a5b8b",
+      "url": "https://files.pythonhosted.org/packages/1b/b9/01342879436b050cdbf9b90ec8fd89838ab6137e790136b3fe12203fc92b/Products.PlonePAS-5.0.8.tar.gz"
+    },
+    "5.0.9": {
+      "sha256": "fb24166c470c4eb7b87b8cfc687cc831e583d502ee31fdffa68380ab91eeb1c6",
+      "url": "https://files.pythonhosted.org/packages/c1/96/f4e6d035efd88f26fc4e2b57637c024d3bb48989512091d3cc1c2ee8ea95/Products.PlonePAS-5.0.9.zip"
+    }
+  }
+}

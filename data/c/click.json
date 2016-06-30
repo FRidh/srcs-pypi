@@ -1,0 +1,139 @@
+{
+  "latest_version": [
+    "6.6"
+  ],
+  "meta": {
+    "description": "A simple wrapper around optparse for powerful command line utilities",
+    "homepage": "http://github.com/mitsuhiko/click"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "9f8290d502cf11fad5ccc64d19f2724abcbc11549e6a8e2cdafc530109f198b4",
+      "url": "https://files.pythonhosted.org/packages/1a/65/bde2803d3f5d217fde361f7773d51d5c9b1332181f740bdd7adb2462607c/click-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "6a63700f090f0602c1f98e98c536e49e7db1f3d27de80c9bd55ab6eaf1470c57",
+      "url": "https://files.pythonhosted.org/packages/bb/aa/c8b583d8d7cc5e21c8da30de6d8c605652836b4ef33b2b57c37f6a017c09/click-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "cdb62b2de39a2a92cc505dea476ee89c7ecfbe1bcc5df3f9e8001bedcc296571",
+      "url": "https://files.pythonhosted.org/packages/35/19/29f7f3ff89929a0a5b938a2a63ecb0d02e6faa4e9a6d84bcedbcc638e212/click-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "98dee5f24b7043c9393f6b6015ba3bb4b45fdfe544aaa1c23d81c14c2c0e3a0b",
+      "url": "https://files.pythonhosted.org/packages/1c/4d/98210295b2f14097de14db6be528af60ba9a3ef60b7e9efb207b08cdea1a/click-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "396ef5db7722d6930c85aa7b3f3600550605a80a9ea4cc3468b18a29c4f58193",
+      "url": "https://files.pythonhosted.org/packages/72/de/ab7b1f0952b411a61bb155d3dbf6271e4d39841cb7b124b75f82117157a4/click-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "d7aa6a90114fa1cec7e2cea56901a85ba47ddacbc0e45ca8474fa95cde28ff7b",
+      "url": "https://files.pythonhosted.org/packages/82/46/e17055162fd9baa4ec7a4064ec313091fea3e3dad4047bf63b46471998ac/click-0.5.1.tar.gz"
+    },
+    "0.6": {
+      "sha256": "2d2677d09378a4739ae325327741ea182e9c03c7e5643f1e02ba9058e2a84825",
+      "url": "https://files.pythonhosted.org/packages/3f/e3/18d6042b27cc41d4ca0ac9ce035d0d3d9cde2d6f0902d3f6f08d04aff596/click-0.6.tar.gz"
+    },
+    "0.7": {
+      "sha256": "9ae357a9c48764c16ec0ed814c0a420c80c04ed08c858fd99f906e398355651c",
+      "url": "https://files.pythonhosted.org/packages/b4/7b/d57f1bc99f0776d79cfc1969a9e1eaffefe0fab153c5bd5abd1445b4805f/click-0.7.tar.gz"
+    },
+    "1.0": {
+      "sha256": "396ffe2561331b7b68e2780a088f9be3d41c33cbfb6e5911e2178533ea6d31da",
+      "url": "https://files.pythonhosted.org/packages/69/f4/c8b37e427b1810069b84db6aba7cb5c6e569d64e762add3f77183a5c49b0/click-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "7d847fbbc4d227229dbc195f6bce58055e08a75b4273f089c548b3ff680c42ca",
+      "url": "https://files.pythonhosted.org/packages/0a/37/9c433ae49db7d89bdab56e33d712837f6bd9d76d697d0f532ba449998ad7/click-1.1.tar.gz"
+    },
+    "2.0": {
+      "sha256": "33a984fe73aa8c6bf69c38098b69dd38405529db54baf4c8cf64c50b2dee644f",
+      "url": "https://files.pythonhosted.org/packages/f3/78/915ee51099f8244181e6a85628ad836c0b505ee2efc0323b3554055544e2/click-2.0.tar.gz"
+    },
+    "2.1": {
+      "sha256": "163b97686c36492f24f5e5cca917d4f45c46bae4ff0c347bf9945cedba877fcd",
+      "url": "https://files.pythonhosted.org/packages/26/ef/9152572c7d926c587aa75c7d39030422a7d1cec883f02965797b48ec1352/click-2.1.tar.gz"
+    },
+    "2.2": {
+      "sha256": "bd2925d5b7aa9b3b4cab0041e3dc5fae7399afd23b60e4c41f9b5af16f5a3b4e",
+      "url": "https://files.pythonhosted.org/packages/30/05/12c666a6c55e315d70897f80005a8fc09c17f1d4137dd25667d849e16088/click-2.2.tar.gz"
+    },
+    "2.3": {
+      "sha256": "f11fd65f1a0fc7cc7927d550fe035a788354f67c9dc34242ed981aaeb9433665",
+      "url": "https://files.pythonhosted.org/packages/90/b3/85bdfbdf0191ab1e691ec0530a1d65c9f5354a1caf635abdc1eb1bc59ac4/click-2.3.tar.gz"
+    },
+    "2.4": {
+      "sha256": "fe09336d002cb66dac1289808a7023eeffd90a29607bf00f1eda5397a1c0d545",
+      "url": "https://files.pythonhosted.org/packages/a9/19/87bff1b8e670e2763043bbc0125449ab9861bd20a40e348f7ba47539d8b2/click-2.4.tar.gz"
+    },
+    "2.5": {
+      "sha256": "791885554ec2cef9926b4ad69ca2aeb52979fdc7f3520af0203a4e8c548c6428",
+      "url": "https://files.pythonhosted.org/packages/6b/ca/8441cb224f040af2a71056b6de5d7bfdfe60c580931f6226587ef7617870/click-2.5.tar.gz"
+    },
+    "2.6": {
+      "sha256": "2167051d75e885c8c16ba641f243cd971c65d0cd62e2f504b8b4843d4ca93603",
+      "url": "https://files.pythonhosted.org/packages/fc/92/403b0389319c017d9971570b6fc868e789fba31d96c53799ba726bae6a34/click-2.6.tar.gz"
+    },
+    "3.0": {
+      "sha256": "b63f7c9e485e39f314e4cb6bf864547d5dd2559db518f09017220d352e1a537f",
+      "url": "https://files.pythonhosted.org/packages/8d/f7/e4a41b165fbe0a1c52db0cfc1e2f4452fcbdfa240c66fd0300a3acc858b9/click-3.0.tar.gz"
+    },
+    "3.1": {
+      "sha256": "e174693d89d4c2914b5f7a04a1fbf55864e4be168267303d156699d1455fe942",
+      "url": "https://files.pythonhosted.org/packages/03/7b/4e36fd53099764fa70b5e56f2e089bfd9f433fb8da873326b5d8ee8b1820/click-3.1.tar.gz"
+    },
+    "3.2": {
+      "sha256": "51106b31333604f20c9617bc290883e9b43ca156942dcca2afc21cfcc39ae6bc",
+      "url": "https://files.pythonhosted.org/packages/ee/0b/4bb57fb1115590ab62faf8552f3aaa4b9caf18af7b272abc379a31604371/click-3.2.tar.gz"
+    },
+    "3.3": {
+      "sha256": "f79c8c04d7eb50071bcad67fd23f3c10fab6c72d56857adf848367806845d6e5",
+      "url": "https://files.pythonhosted.org/packages/15/0f/9070074d2bdabf216f99b922a5c85ef1bfc304236086d3bf77c6b35eacfc/click-3.3.tar.gz"
+    },
+    "4.0": {
+      "sha256": "f49e03611f5f2557788ceeb80710b1c67110f97c5e6740b97edf70245eea2409",
+      "url": "https://files.pythonhosted.org/packages/7b/61/80731d6bbf0dd05fe2fe9bac02cd7c5e3306f5ee19a9e6b9102b5784cf8c/click-4.0.tar.gz"
+    },
+    "4.1": {
+      "sha256": "e339ed09f25e2145314c902a870bc959adcb25653a2bd5cc1b48d9f56edf8ed8",
+      "url": "https://files.pythonhosted.org/packages/4c/eb/dc135683e4865bbcba60b09b158bf491756a1c36d0e2820002235bf72a8a/click-4.1.tar.gz"
+    },
+    "5.0": {
+      "sha256": "46bd6c21828bf8ab43cbc8f14fb649f781dc9061573ea9a0a2698e4d23f87ed8",
+      "url": "https://files.pythonhosted.org/packages/3e/4f/e66a06ab731ba91faa60142d4e465fde941104fe9b6d27d1b9548f03ec64/click-5.0.tar.gz"
+    },
+    "5.1": {
+      "sha256": "678c98275431fad324275dec63791e4a17558b40e5a110e20a82866139a85a5a",
+      "url": "https://files.pythonhosted.org/packages/b7/34/a496632c4fb6c1ee76efedf77bb8d28b29363d839953d95095b12defe791/click-5.1.tar.gz"
+    },
+    "6.0": {
+      "sha256": "3972ee95a32181e9069040414dd7c77001e9404c3c4d295300cdca06a8db026d",
+      "url": "https://files.pythonhosted.org/packages/e6/d3/6168c106f28e263bd21facaba53d8430eb9651e7e33d68a9ff630b9dc9bd/click-6.0.tar.gz"
+    },
+    "6.1": {
+      "sha256": "9c59312c0349c26779bedfa4447ba9e4457929c65b4e921c6898d6af3632b126",
+      "url": "https://files.pythonhosted.org/packages/ed/b7/01b0c30d4940594a1a25664d9764db02a16441dbd5c0eaf0fea14e41acd9/click-6.1.tar.gz"
+    },
+    "6.2": {
+      "sha256": "fba0ff70f5ebb4cebbf64c40a8fbc222fb7cf825237241e548354dabe3da6a82",
+      "url": "https://files.pythonhosted.org/packages/bc/99/bdd231c8c5f411e1bfdef262085c34de7189fb35414b9db14ba94a97cc1c/click-6.2.tar.gz"
+    },
+    "6.3": {
+      "sha256": "b720d9faabe193287b71e3c26082b0f249501288e153b7e7cfce3bb87ac8cc1c",
+      "url": "https://files.pythonhosted.org/packages/f7/52/59fef62b1927215be58b5a76c114a87883d5dbf2a600b47cb221a43d3c34/click-6.3.tar.gz"
+    },
+    "6.4": {
+      "sha256": "6eb86ac0e44e60b3085e7b87797fe2adf745dbea38b78d7db1f17ec96ca016ed",
+      "url": "https://files.pythonhosted.org/packages/50/b5/6e007052e13d7a38a15b527e5849a369cc70a772dc1ff088546c29261c26/click-6.4.tar.gz"
+    },
+    "6.5": {
+      "sha256": "596b81cda1d84d8cb57ceefd17a78d084c60b134819067b0721a3b0f53dc3ad2",
+      "url": "https://files.pythonhosted.org/packages/c5/69/cfba82517e863d6403560e7a6e0085ea67d7fa1fd618938b0bb28a34a870/click-6.5.tar.gz"
+    },
+    "6.6": {
+      "sha256": "cc6a19da8ebff6e7074f731447ef7e112bd23adf3de5c597cf9989f2fd8defe9",
+      "url": "https://files.pythonhosted.org/packages/7a/00/c14926d8232b36b08218067bcd5853caefb4737cda3f0a47437151344792/click-6.6.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "latest_version": [
+    "0.4.31"
+  ],
+  "meta": {
+    "description": "Fast implementation of asyncio event loop on top of libuv",
+    "homepage": "http://github.com/MagicStack/uvloop",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.4.1": {
+      "sha256": "4c3dc7c9d857362f8bfdca0e19df88b9c5abcc4c842d96ecdc3d8f921b5b58d6",
+      "url": "https://files.pythonhosted.org/packages/ce/d1/c8c1e491fc7a90ce6914f485b6cdc031f269d70d50464bda122ea4049e71/uvloop-0.4.1.tar.gz"
+    },
+    "0.4.10": {
+      "sha256": "2e278686bc02cc89658730c497a21ed9057464611e46b9b1ccadc074b49b16ac",
+      "url": "https://files.pythonhosted.org/packages/93/06/c63b046f822e5c134bd740b11eff22630db3a21452b854adc2294daa1dbd/uvloop-0.4.10.tar.gz"
+    },
+    "0.4.11": {
+      "sha256": "7e0e764dc3c92aece6ec7638c6ececfad29c7e3244a7ddc7746d521a34f9aa83",
+      "url": "https://files.pythonhosted.org/packages/39/2a/561a11103dde5ea77609f9f5f251fc290afee22b448ba68ddd2e21f194db/uvloop-0.4.11.tar.gz"
+    },
+    "0.4.12": {
+      "sha256": "bff6086ca164908d5b1c0db9bf33f8c87b0334a04aeb4773c542224fdfa4b933",
+      "url": "https://files.pythonhosted.org/packages/75/49/34adb38fba0fd6609e12af6b395357e069aa2f6d90f7c2c91dd9f0dd53d3/uvloop-0.4.12.tar.gz"
+    },
+    "0.4.13": {
+      "sha256": "46ac1d2d66c217b770bf7086fa6fce9b16f506655e788df9634fa24b028cf6a3",
+      "url": "https://files.pythonhosted.org/packages/7f/50/68ab5114d7d82f65ad4db888405a7838ebb45fcdf0db2ab6aed419013fae/uvloop-0.4.13.tar.gz"
+    },
+    "0.4.14": {
+      "sha256": "484f975a987b7c8180b02754535573d15389318408d4bd121551e4ec446a250c",
+      "url": "https://files.pythonhosted.org/packages/c1/f9/a95e183fece7200a071d3029587ba5ce4cb1877e266e6bc9b9bc086771dd/uvloop-0.4.14.tar.gz"
+    },
+    "0.4.15": {
+      "sha256": "39027ef43a0102c0e3437edcbbd9aee0515c0836089de1760467fc21733e8bf9",
+      "url": "https://files.pythonhosted.org/packages/4e/50/18e5b4b807771918ef639e237dc7a52b0f8baaf3a6d0fe97c1d982261860/uvloop-0.4.15.tar.gz"
+    },
+    "0.4.16": {
+      "sha256": "0a2e9035b863276b3df7f270fb52a27532e63c22b0b726289b466f73c8b7af9d",
+      "url": "https://files.pythonhosted.org/packages/8e/d7/7ebafcd8e999f994a9bbb51d4ac0a9e0e215dda391c92888ec70f7161bbd/uvloop-0.4.16.tar.gz"
+    },
+    "0.4.17": {
+      "sha256": "66f082b8f04ab4e3f4484da973ca07978c9c8584ce3f5b85350953e34f6a8970",
+      "url": "https://files.pythonhosted.org/packages/6f/da/df5d69a91a15b9fc3825f229be4a146bb959cc168e55332ea154bebf7064/uvloop-0.4.17.tar.gz"
+    },
+    "0.4.18": {
+      "sha256": "181141e622da6138f281e9269af2704db60731e87291b8ffd2cda0dbb289c404",
+      "url": "https://files.pythonhosted.org/packages/33/1e/0dd8cf3d64b20f3ae821c661199fe53bb4ffa0fd24e8344c10adc0b07700/uvloop-0.4.18.tar.gz"
+    },
+    "0.4.19": {
+      "sha256": "4853e43e7c4c06e5d32f8aec5e823e0949aa1f3f080bd998c73bcf9294ac372c",
+      "url": "https://files.pythonhosted.org/packages/34/17/08d8849f8dc303165d10db4889bb71c35e54ad04df3ddc99118a8e8a1759/uvloop-0.4.19.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "abd221b5b00a9882c4f5b34978e7f73ad55f7742226b7379607691cdda4f1084",
+      "url": "https://files.pythonhosted.org/packages/7c/4f/164b2c7281af52bfc5ed2adb6e31cab0077e4155b4a692f2df29b66cb76d/uvloop-0.4.2.tar.gz"
+    },
+    "0.4.20": {
+      "sha256": "b39afbc242eafff7471337468b28c4164f55d130f8194e0fb4a8b2eb71cb1298",
+      "url": "https://files.pythonhosted.org/packages/c5/85/e5d62e52094053cf2ad12a4811ab6f68ef7ae5312bf431ef750cc5dc2b7a/uvloop-0.4.20.tar.gz"
+    },
+    "0.4.21": {
+      "sha256": "aca14bf99c1dd3298803f4c7739e9d8ee1828795266ed06a2c31e48ce9e7e517",
+      "url": "https://files.pythonhosted.org/packages/99/ca/906342cc64cf7bc898878d504394f885627cd5baa6f160cd6cae335cd234/uvloop-0.4.21.tar.gz"
+    },
+    "0.4.22": {
+      "sha256": "a1ce233f28c17452680f6281e5efdd7fbd6d866a448a82923e7e1065ee290935",
+      "url": "https://files.pythonhosted.org/packages/27/b8/c3233433b5b90c712253a280d4e5cc8ccd9fb115e1c30a2eb444f9d732bd/uvloop-0.4.22.tar.gz"
+    },
+    "0.4.23": {
+      "sha256": "47c100da05a2906878827656aea4f584375d6939060de32f86b2f172fe6c177c",
+      "url": "https://files.pythonhosted.org/packages/94/6f/6308c4ed20145892341d545212957567e10e459af69c87a934c6c088411f/uvloop-0.4.23.tar.gz"
+    },
+    "0.4.24": {
+      "sha256": "3ba853b920d9c7ef78e2898adb4c0cc252e5c41ab793ccb230cc99c3995b45d4",
+      "url": "https://files.pythonhosted.org/packages/82/05/a162fbbd4213fb844f1ab8f2dc18f285dd507fcb440742466bc8dcac404f/uvloop-0.4.24.tar.gz"
+    },
+    "0.4.25": {
+      "sha256": "22fb1ba75f6d35a36fbfe2b67537948cfe476eda18096f3acdd1f903f99fb9e9",
+      "url": "https://files.pythonhosted.org/packages/e6/45/413bdf83bf61975f2602e1f1844c1c7f9f4196f78ae4c075839ac06367ea/uvloop-0.4.25.tar.gz"
+    },
+    "0.4.26": {
+      "sha256": "4f6ca1555b9492f4b44a0de6ac3a77a60e9d63e0b97f410b11dccbb282aed79a",
+      "url": "https://files.pythonhosted.org/packages/b3/c0/aa02843f0b24d10604a402957b871292ea0717716961f9d2eacdc8ca1334/uvloop-0.4.26.tar.gz"
+    },
+    "0.4.27": {
+      "sha256": "ee0925027c2f8b53aed09c427745b9f96d8ead6eb2d333298ce3f41f0f084b14",
+      "url": "https://files.pythonhosted.org/packages/54/47/b49a47ee825a59e6ee2e43a177a1787a06c7ca3bde7fb1a1be0dd035a370/uvloop-0.4.27.tar.gz"
+    },
+    "0.4.28": {
+      "sha256": "94b6a18e5e3272213a74c0876d12532c14a521602186c010c3a948be07a2726e",
+      "url": "https://files.pythonhosted.org/packages/a5/a8/ae70fb1e73f239c7faebff0a7bcfa6570214b178197cfce837d24a753dd8/uvloop-0.4.28.tar.gz"
+    },
+    "0.4.29": {
+      "sha256": "08576d9e8da48eac7af8f42087357211fcdeb3bf547ccd4b20be6b2b7d70c0da",
+      "url": "https://files.pythonhosted.org/packages/95/8b/df43909e26c8b6e1edf46bd3383a50120c85fb81af470c7c19b8c4672992/uvloop-0.4.29.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "115e3b3342f1ab5bab00055f38f6bb80788a20f1c4774ec32b83d6c92245e543",
+      "url": "https://files.pythonhosted.org/packages/04/23/9ac3dfc86fb668b063999c07b64b08883c0a98b156989b78ea435831c22d/uvloop-0.4.3.tar.gz"
+    },
+    "0.4.30": {
+      "sha256": "62d95872acd9ea022d73cf2c47af1eab51b47f4cf7917ece419769d68a0d6320",
+      "url": "https://files.pythonhosted.org/packages/81/2d/27e695ec3fb1eb4e1c8676ee8caae38a26723a4e723dae00ac215f41dfb1/uvloop-0.4.30.tar.gz"
+    },
+    "0.4.31": {
+      "sha256": "25a11dcc61062d9e39faa5a7a3713616fae56e7841ad14b5a31257a272d2822b",
+      "url": "https://files.pythonhosted.org/packages/cb/d9/9871e573c30f414e89a4af83c7866bba6a9d4f9df560249da19db9abde17/uvloop-0.4.31.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "32561e9053cb8d3ec2b143e2eb2cbe677e10ad2762df53cf9165f5a3c66ba0f4",
+      "url": "https://files.pythonhosted.org/packages/9c/36/8d5e4741a2419d6bc1fca6bef81770fec27f02b6b62f6f323ee36da09555/uvloop-0.4.4.tar.gz"
+    },
+    "0.4.5": {
+      "sha256": "0c92ee0de7b64bef0c00235ffc54c62d209a4ad252ed144330193e6413898a4a",
+      "url": "https://files.pythonhosted.org/packages/8b/a5/781a73367f2e00a01bfd9d501bfb255302dcd09927c74602704e22ac1a15/uvloop-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "8331ba2d5d4f1bebeb84c31efe9e6e0a23b18c273bee0a63096362da1de9519f",
+      "url": "https://files.pythonhosted.org/packages/83/64/da8b55c689ab12cc29a7750b40c6d373e41228fdf53301885a6b9ffdc105/uvloop-0.4.6.tar.gz"
+    },
+    "0.4.7": {
+      "sha256": "6cdbdfe85778654ae74683ee936e7fac5f091cf1f1e1be561b407b94f3ecb6b5",
+      "url": "https://files.pythonhosted.org/packages/1d/67/2538cbb4abb717f35d84e7f42581091c6034e313602ad0b0ef0272424603/uvloop-0.4.7.tar.gz"
+    },
+    "0.4.8": {
+      "sha256": "c1eb3a1108b5706f4d8c25bca24e2f93d57f3411d938983e3ec06ca5efb5403c",
+      "url": "https://files.pythonhosted.org/packages/b0/37/44e73e20bac980aa736db2dc756ed2af2991da5a56650165a834f6cae639/uvloop-0.4.8.tar.gz"
+    },
+    "0.4.9": {
+      "sha256": "e399fa2a03be2544313cbaae3a5b1ab0cf813330da26334d80aa4eb927e086e0",
+      "url": "https://files.pythonhosted.org/packages/31/1c/68d66aeea88e81793ed823c88af2125fbffbf06ac3c10f619064fe20524e/uvloop-0.4.9.tar.gz"
+    }
+  }
+}

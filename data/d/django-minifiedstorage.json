@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Simple minified storage for django static assets",
+    "homepage": "http://github.com/askholme/django_minifiedstorage",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "1dbfba57592a85e34b023496f182e92113de62b33a2f13987238aa31ad3d93a8",
+      "url": "https://files.pythonhosted.org/packages/f6/7d/0ac9daf868c3316a0d8e2740cd77c866638173394aafb2a3cc17663231d1/django-minifiedstorage-0.1.macosx-10.9-x86_64.tar.gz"
+    },
+    "0.2": {
+      "sha256": "f5180b0479692307f3c58cea4a3dc2621fa0cd781b2fead71e8d9b7fb52845f0",
+      "url": "https://files.pythonhosted.org/packages/14/44/e05be4d8314f0b74e6f02dd8c12dcc60d019152e9e720358cfee2b5cff4d/django-minifiedstorage-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "3fd5f30b94cf246c9ca70359682d90ff6c4e0cfb0fc8fa4f8626e4e842d295d5",
+      "url": "https://files.pythonhosted.org/packages/a3/32/04ed610b4844072fa0cc9a6a1a8540adb7e73394ac2a8c532966bfc76834/django-minifiedstorage-0.3.tar.gz"
+    }
+  }
+}

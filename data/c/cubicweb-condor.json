@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "adds facilities to interact with the Condor batch job queue manager",
+    "homepage": "http://www.cubicweb.org/project/cubicweb-condor",
+    "license": "LGPL"
+  },
+  "versions": {
+    "0.3.0": {
+      "sha256": "498ea4389a60543e08e0f61a819c52f293abffe276d021d7fd4fe84bc028ccda",
+      "url": "https://files.pythonhosted.org/packages/38/71/a5a94f396972ebba8736f0bbcd990f17405a9b16b7548e22c17affcd7d76/cubicweb-condor-0.3.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "5e69ad6cf424be72ac30522b2752446e45839080c90d62ba18c58d9ff7a4c2d3",
+      "url": "https://files.pythonhosted.org/packages/8e/bb/58f75c2ffcecdbec0242889ac433a13d4b48719433e354714688dc5558fd/cubicweb-condor-1.0.0.tar.gz"
+    }
+  }
+}

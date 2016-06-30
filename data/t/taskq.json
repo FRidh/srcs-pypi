@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Priority queue with task categorisation support",
+    "homepage": "https://github.com/shendo/taskq",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "4e830b5c84b08c49de19015b0e1531aec7cee93386b46f073130018f58c866d4",
+      "url": "https://files.pythonhosted.org/packages/1e/d8/4b78391c80b49481ea5d9c9d08d8a55b32274e8421b343d496ed39314743/taskq-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "dbc000ba2432aa2a8750fbc3da41dde6b0bb7a39a4629f65f8af9f2385b46db7",
+      "url": "https://files.pythonhosted.org/packages/13/66/0b2ea5b5342e1c049db93f07a9ca9b318f1bc19d2933320555f48e275422/taskq-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "24ce799f0359d2d7081b12fcdab31adf3b5cda2886ba9000f9c09f627541c16f",
+      "url": "https://files.pythonhosted.org/packages/83/41/6b4bb212e1fd91ff114057056dc0e8b58fb0972293ccf5442b6767829059/taskq-0.3.tar.gz"
+    }
+  }
+}

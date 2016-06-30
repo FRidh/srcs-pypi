@@ -1,0 +1,620 @@
+{
+  "latest_version": [
+    "2.2.32"
+  ],
+  "meta": {
+    "description": "Engine de pagamentos da Loja Integrada",
+    "homepage": "https://github.com/lojaintegrada/LI-Pagador",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.0.7": {
+      "sha256": "91a3f0fce06391eeef5c20bff126e0527321769902c7614789fcb170998bf705",
+      "url": "https://files.pythonhosted.org/packages/42/b8/27ea6b1a9b544e26191ec5a85bd01459831cce69921d46d8efccf140d291/li-pagador-0.0.7.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "8e046e8ff30eb401fde24fa994a521b4c068c3cd64bf74e7b34fa780d1bd34a2",
+      "url": "https://files.pythonhosted.org/packages/aa/87/f19e1d10c621bdfb909f9761ee231f8128be326b90419e5ce670d1d1a1fe/li-pagador-0.0.8.tar.gz"
+    },
+    "0.0.9": {
+      "sha256": "56092d6e6113cd77c079e4f7b7f65b60fdda3e4f8929625d4e46e81a353e5853",
+      "url": "https://files.pythonhosted.org/packages/86/85/0bb79ce58118dd26120b19f17e9642a72d3252d9e9441ba24298441dd286/li-pagador-0.0.9.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "28a54628f9e3f28db7a254e5b0aeb46d9051be253d8dd6e272642544f167ebbd",
+      "url": "https://files.pythonhosted.org/packages/b7/b3/be255dee0506e4e725b95020994cb57909b9f42ba3f77f16304ca295dde5/li-pagador-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "940dfd78cc125eb063bd08c84709db6ff36afd2e51c479e88fd55c8edfae817b",
+      "url": "https://files.pythonhosted.org/packages/57/ad/6794f9cc5d9e5f9ccb1df6eb02963315d4e41038c8638faab3d6594f2b0c/li-pagador-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "3c42a709e919a2d723270e23481babe41fa30cd7deca0da527f66be7ac9059da",
+      "url": "https://files.pythonhosted.org/packages/cc/5d/a811931a990008ea1eda00ecc3346947df1c569fd3d51f2869c1c24b6fb1/li-pagador-1.0.2.tar.gz"
+    },
+    "1.0.2.1": {
+      "sha256": "9436cf1afa5fa1d43fc94b44aa2f68c05f85691130fb27c51357d86c9e485f42",
+      "url": "https://files.pythonhosted.org/packages/b7/12/60460495989358b6bc51d5a80ac59cbecf68e4e0d12176d63fcb3f1200f4/li-pagador-1.0.2.1.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "ec87937181a26d3fb1b733a143bc087d6103a5c7040647535c6f97a4bcbeca9f",
+      "url": "https://files.pythonhosted.org/packages/04/2f/9fafe5de81d7bf72c115b539b57b29945a702e806a1ee59a2ab6770ef637/li-pagador-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "0f2026820fe6cb5d9b37681d0b8a8542f5408d543997d4749daa2856b04f8d2e",
+      "url": "https://files.pythonhosted.org/packages/41/56/434114df7e3d6acb218123e0a2b5b4c18c3c9e641763175b184c1c5157cd/li-pagador-1.0.4.tar.gz"
+    },
+    "1.0.4.1": {
+      "sha256": "9366527ffb197a09491b5483b234eb3b2263203b0c17641c2e9624f36bef3b22",
+      "url": "https://files.pythonhosted.org/packages/ef/25/55d938c851c4051e4177d1b922ba8cfbb96bba95a3d4bfc074fa934772ac/li-pagador-1.0.4.1.tar.gz"
+    },
+    "1.0.4.2": {
+      "sha256": "e06f07cf27ed669184a82b0b8d07ef03943b69f5700e28ea8d0673bc2c7e62f8",
+      "url": "https://files.pythonhosted.org/packages/a7/b2/754df20d0413d5d5b0590d78aabccbb13b75b5d9c679e24e44d828b7ea06/li-pagador-1.0.4.2.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "d7fb74fa2d8e1be92d9f5f78915b89713a9c022a106ccea666cd24e81245cb62",
+      "url": "https://files.pythonhosted.org/packages/b5/c1/18dc014aacd3429af9aa25d2ae5231a2b0dc6161db0e31567b53693370d4/li-pagador-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "39cc6bef0fcc36940dabb49cd537d04dcbfc40b35c4042a4e446b59be002404b",
+      "url": "https://files.pythonhosted.org/packages/b5/a7/6ac7bf790edb071b111db770c2c9bfc0f4b86aba811a92bf988819eb49dc/li-pagador-1.0.6.tar.gz"
+    },
+    "1.0.7": {
+      "sha256": "36408b71469b348ff309a4a4623933a3fab7cecd6644a49e79617c716e0f18cf",
+      "url": "https://files.pythonhosted.org/packages/b1/5a/c49dec4ff72357a14c45480ab4d33ef24dbf86293d5c09b1d5f91ef3ae4d/li-pagador-1.0.7.tar.gz"
+    },
+    "1.0.8": {
+      "sha256": "a1a5dd033e8c445517d3ecb0d58be5adc853ffc0fdcd76f45deba6f39412de6b",
+      "url": "https://files.pythonhosted.org/packages/37/c2/cf29bf48d7bbdf09baa4d3261a9c578b503f1c7b425905014099423e6157/li-pagador-1.0.8.tar.gz"
+    },
+    "1.0.9": {
+      "sha256": "b0cb0974f902e2e475e8f5ec31306c63ede492df36d674c33096bccb52e48e80",
+      "url": "https://files.pythonhosted.org/packages/a8/53/d3b51cbf140ebbe554e13c53a1d4ee19ba55df859800a110b209b651762f/li-pagador-1.0.9.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "8a8c4841e76835b2c13bb27e1ad0fbced871db78ec2b650be91ed4435953c71a",
+      "url": "https://files.pythonhosted.org/packages/03/d5/cab8ff43bd09530448c26e2a880cf663d802fb1aa0139a53063796217bda/li-pagador-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "d65c1070dec82279ae86545d01e42dc0284375ab51766b0b6c67f374f91d0c48",
+      "url": "https://files.pythonhosted.org/packages/d0/81/2fdec59f9e85cb4af10598959e3063c4ac3bd7f9a6b3fc5ce8cafca63803/li-pagador-1.1.1.tar.gz"
+    },
+    "1.1.10": {
+      "sha256": "a6c554fe5566339a33577630692e07355b7cfbfff01bd10b4c4f12e31b2a02b4",
+      "url": "https://files.pythonhosted.org/packages/fe/f5/84c1b76297179e237017d88537ee2b5834cfc463cd25f67129e2463aa136/li-pagador-1.1.10.tar.gz"
+    },
+    "1.1.11": {
+      "sha256": "8a12f76f132752019d2b771a56d1d52c586df9122884596034f9e2fe95303626",
+      "url": "https://files.pythonhosted.org/packages/3f/df/f156ce4fb9aaf7803b1eae61f6def5c8b73e9bed2732bc9bc8d2c96431a3/li-pagador-1.1.11.tar.gz"
+    },
+    "1.1.12": {
+      "sha256": "5cba1b745c721ae47813110bbcdc11cda0564b601c264ac965463f6e66cdadc8",
+      "url": "https://files.pythonhosted.org/packages/3d/4b/e13d1f08abfa59e3cd2374bdc2f8b66b912be3a9695ff60f3360e37a51c9/li-pagador-1.1.12.tar.gz"
+    },
+    "1.1.13": {
+      "sha256": "49d83a1f66f2724d2274df051c6c89a8d9f9ef05dc8b96e6428195dfeee8fec2",
+      "url": "https://files.pythonhosted.org/packages/4a/cb/a022e42966464040c35d727a1ab6132e2e749d28cbce9e70916c453bbfb7/li-pagador-1.1.13.tar.gz"
+    },
+    "1.1.14": {
+      "sha256": "040fabf3b32e7ae5c0f4da1f8fc5fec970e4e319d1d153dc49987b96a853e7ad",
+      "url": "https://files.pythonhosted.org/packages/3d/00/1a4f8814fbae7f19ee6b513bf6f5e3a3a431d96baf155ad66e819eb76019/li-pagador-1.1.14.tar.gz"
+    },
+    "1.1.15": {
+      "sha256": "c04d956aa523e358b5995d92fed0cc2b6f67eff8d003669ce5255b18aef5a2fb",
+      "url": "https://files.pythonhosted.org/packages/12/aa/aadf5888a0295985ebba1f00b75f618b7d8c4a3cfbeecb10829c433ac591/li-pagador-1.1.15.tar.gz"
+    },
+    "1.1.16": {
+      "sha256": "a9ef8ff34cfb97b2bf80ac01bc8dbe735a92016cd9f7338210369c993bc85745",
+      "url": "https://files.pythonhosted.org/packages/28/ad/3f793eb4bd601989d8026130e34749740977f9db12cca2f6e9dda65f045f/li-pagador-1.1.16.tar.gz"
+    },
+    "1.1.17": {
+      "sha256": "7f3d792b1f895e806a4aac1736956e998e571409a2e9207cb97b1b890a24a99f",
+      "url": "https://files.pythonhosted.org/packages/df/a5/fa447353fc6b4cbebaa548ff013f45ba4de96a6e658e1843182a37184104/li-pagador-1.1.17.tar.gz"
+    },
+    "1.1.18": {
+      "sha256": "c5f81276e83b1f3635afab567851c45cdca3c8a6b85902b4df7f1e519156f8de",
+      "url": "https://files.pythonhosted.org/packages/61/b1/c89ba679a30f6d6541ba3a4a68b0a45426778c7bf4b08fdc2b232f415f64/li-pagador-1.1.18.tar.gz"
+    },
+    "1.1.19": {
+      "sha256": "f84a36c8141d3daa3957ca74d0d0c09c932e7cba50dfcb0462d2467ddeb38d6e",
+      "url": "https://files.pythonhosted.org/packages/e4/9c/3fb70bfc3fe78066971ab6b00cd4b01907843473f0407719fee00c2c3e1f/li-pagador-1.1.19.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "7f8248ea7ccbc1fd39bfcdf6ce5368e5b6bcd0fc5dd2141863d4fef44546fcc1",
+      "url": "https://files.pythonhosted.org/packages/43/31/44368ae55ca2dddb48c8befb9a2f7fedb51c6aa926bdadba6d580dc1c846/li-pagador-1.1.2.tar.gz"
+    },
+    "1.1.20": {
+      "sha256": "0547d8de45c42a6a4f32390256b1766ebd5d93b85fa13f25086abbbdf1441f17",
+      "url": "https://files.pythonhosted.org/packages/41/c3/476d7530df77b15712c9deb1b07493613a91b01eea27a730cbb71280577d/li-pagador-1.1.20.tar.gz"
+    },
+    "1.1.21": {
+      "sha256": "f19b75ad740dad072a2ea77812c1194680a21b095dcc06cdd4521af6e43ee52f",
+      "url": "https://files.pythonhosted.org/packages/74/8a/e3355b30b67328a4f89e12653a6fe18674572062e23921a7888ec5599e12/li-pagador-1.1.21.tar.gz"
+    },
+    "1.1.22": {
+      "sha256": "594fc58ef4b905c9b41d221361580d3c128736d03d0b90c4b22bc0b4bfc3ee85",
+      "url": "https://files.pythonhosted.org/packages/15/02/0d296ab45dab893bdb124ae199e67267bc56527903b763347206553fdc20/li-pagador-1.1.22.tar.gz"
+    },
+    "1.1.23": {
+      "sha256": "b489faecfd4dbc1fbf4ce4e5f16b224d4eb2da20f60051990f8cf0c55f4770f5",
+      "url": "https://files.pythonhosted.org/packages/ee/1d/e302d4e3cfe67be62fc8e83bf5212b0df37bb9763bda09798767b47be1ce/li-pagador-1.1.23.tar.gz"
+    },
+    "1.1.24": {
+      "sha256": "f46640c5ac561331fe218578b493a6a2ad12d49b527a4ba02f9f982382d53513",
+      "url": "https://files.pythonhosted.org/packages/4c/e5/c3cd8efbce9d984ba40e50298f2adf7911a81cc7605cfba0a48e18d677ef/li-pagador-1.1.24.tar.gz"
+    },
+    "1.1.25": {
+      "sha256": "c7248fed3a1ebb6ae7c7fa61375285cd23788ce72b65a90ce9250925c0694a6a",
+      "url": "https://files.pythonhosted.org/packages/34/b5/4261fa2135b74302e59b892f154ef49dd65cc7cf3e961f706e8f1bcafca3/li-pagador-1.1.25.tar.gz"
+    },
+    "1.1.26": {
+      "sha256": "050b5beb5f809e7303136b9278b530a3496c7c177c670803ab5a03fff36d17ef",
+      "url": "https://files.pythonhosted.org/packages/11/3f/fcd2f1a62d9ece15af777428b1ea0ea17fc04117dd9fc3275178e92ffcb9/li-pagador-1.1.26.tar.gz"
+    },
+    "1.1.27": {
+      "sha256": "7c6a930accfb19960adceea5025c546bf4926469e3cb9c6c3df901a95e94d7d9",
+      "url": "https://files.pythonhosted.org/packages/de/2f/3e2b375234da5af36bfdcf8d4469b4d70e3d51d25bb3b1eb872f507b4148/li-pagador-1.1.27.tar.gz"
+    },
+    "1.1.28": {
+      "sha256": "24069f61b2e0cb5499e417b9ab8328424b7d54d6e8bf1842e0a54bc9f2b03e93",
+      "url": "https://files.pythonhosted.org/packages/9a/12/1e50780c83021f8f932bb67e9c6c2497450497032304d14b2cc91fac1ef4/li-pagador-1.1.28.tar.gz"
+    },
+    "1.1.29": {
+      "sha256": "a67ec274be213992c2146ab05d03dd773e3324d60e80cc57cd345e47e87a2cf1",
+      "url": "https://files.pythonhosted.org/packages/e3/2a/15ab37816b7d44d834efcaf50883e4900af55420dce58994300a3e27d8f3/li-pagador-1.1.29.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "5623ae37993fb7544b7d6c6c3b91d1924767b66452570396360f5719ca8e2611",
+      "url": "https://files.pythonhosted.org/packages/04/13/c5ccf7a5a72ad68be4c754ec6ac015ff804d935f4515a6d38c7595e0d946/li-pagador-1.1.3.tar.gz"
+    },
+    "1.1.3.1": {
+      "sha256": "3e7f85908e0ee56fa35d963d0b89b0527089705f00d96ef333ba2fac1b1885b4",
+      "url": "https://files.pythonhosted.org/packages/d5/e8/5e3bd79508e5a809281e546bb1f811536e3e504f9c93a622cd16ebe72517/li-pagador-1.1.3.1.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "41b2acd3ef7bdef0bfdfa76994237b24aa42b32752dcffc481c5836b28f52cd6",
+      "url": "https://files.pythonhosted.org/packages/08/73/45a7c610e46b81e0e10b7bb4a86764e4b5878a347baea382cf14a0c5e2ea/li-pagador-1.1.4.tar.gz"
+    },
+    "1.1.5": {
+      "sha256": "7c6888d730669bd742f28c4d02112966a868afb68c32c7a438839d4fb7967dcb",
+      "url": "https://files.pythonhosted.org/packages/cd/7a/332392f9253d152af94a4d979de6bad0ed378225b1401fd6292ec34d6ac9/li-pagador-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "1c16bc7eaf138d71f6448189d29a71f533bb9179003ee52baaf62c7104418d15",
+      "url": "https://files.pythonhosted.org/packages/0c/e5/395b5cd3dd25b2009a165082d9212dfdcac80a5eb444af2d56c32ffe5d60/li-pagador-1.1.6.tar.gz"
+    },
+    "1.1.7": {
+      "sha256": "4c7c0cce26eded015659f55c6ecbd0ab8eddf3c37b35a80ff9cd078dc631ba18",
+      "url": "https://files.pythonhosted.org/packages/3b/9f/b52fe5c4bc2256bdf519f44b50fd7a902c591e1267dc4795e6573c2e534b/li-pagador-1.1.7.tar.gz"
+    },
+    "1.1.8": {
+      "sha256": "0cbc658a69ffc94803bbf5fb9637220634b645b53c1ebdcdb38f93f4170fcbda",
+      "url": "https://files.pythonhosted.org/packages/99/ed/a9b5d19fdefe1bca708c0f5ff62d6629cb8893c9129c3fadb9e285444537/li-pagador-1.1.8.tar.gz"
+    },
+    "1.1.9": {
+      "sha256": "c1e8ae74279513c6ccf6b8f263abbfe4f4f068cebe400bed155ece2b1706e78c",
+      "url": "https://files.pythonhosted.org/packages/00/ee/5d703e319167bc390cb935295b1434afa5ac823bd4bb667679133df52182/li-pagador-1.1.9.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "17441ee49ee9a34959e06ae8daaf20f7aec32a441165a1e1729f68e3dfa510ee",
+      "url": "https://files.pythonhosted.org/packages/34/20/286786d8594126056ba3211ff8e4088be34cbf21f0dc399df1f75becf04b/li-pagador-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "8437e1a40c4f56df03ba8486f230739b9d7bed7ae3408d3ef5fa0db70d6af0a6",
+      "url": "https://files.pythonhosted.org/packages/26/43/93cb8842a77566dc3b0272fc7ed265a4f97b8ea3e23379543abd585513d0/li-pagador-1.2.1.tar.gz"
+    },
+    "1.2.2": {
+      "sha256": "b5edbe8392d2e5ddce1ef63bbfa5e13a85f4aede9b29abc14083c28149f344a6",
+      "url": "https://files.pythonhosted.org/packages/18/73/1f25292acdeb54e6c5ca93ee82f7184d441db861c946c6e46e67127b47a7/li-pagador-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "5017375c61084a580c2c8d22e7ff59a8d763f510599a2e49ce53125b467e52ad",
+      "url": "https://files.pythonhosted.org/packages/08/00/34a1efb998423c0af08ab6d5b54fff65af957cca82a474f117521aa0d969/li-pagador-1.2.3.tar.gz"
+    },
+    "1.2.4": {
+      "sha256": "d6f5aec8b8a242d8dc2b0bf56069447da9fbf6bb138943120d0e6f8fa3a20674",
+      "url": "https://files.pythonhosted.org/packages/03/13/7881a2b7fa4b5089be9538441717146e56770566ee6a8f08be590caebd28/li-pagador-1.2.4.tar.gz"
+    },
+    "1.2.5": {
+      "sha256": "e3ba375127fa31e51f429ee71cd4edf449997ef57c8fbebec0adbd9570413c67",
+      "url": "https://files.pythonhosted.org/packages/d9/e4/9b44e14be677a46566834c60f685ab486a9830e1c6b6f6ce4247b000ea18/li-pagador-1.2.5.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "d0f919103cc1d091e7defe2bd17665405705ae9ac43f0591aeb5ba25c3c91bb6",
+      "url": "https://files.pythonhosted.org/packages/81/7b/3dbeda000a1db2e7b68f3e13a3d8131c5d34747629643ed05f6611741817/li-pagador-2.0.0.tar.gz"
+    },
+    "2.0.0.dev0": {
+      "sha256": "bb52586ca1f82872329179a20237dd502dcac971799263be304ecf37405a5024",
+      "url": "https://files.pythonhosted.org/packages/85/b8/878bffb476142be0e3fc22d3f74901a6e412f084817306e6dc15095359ab/li-pagador-2.0.0.dev0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "02547f2409b39e87df33008d106681ef21ab785d41f2a2e632c7145b77f60929",
+      "url": "https://files.pythonhosted.org/packages/37/dd/aad808b9954adf9063f552842492f3c43d4454cceee3f0bb8169ebd6b961/li-pagador-2.0.1.tar.gz"
+    },
+    "2.0.10": {
+      "sha256": "96af9e8177710f3f1b8753b465a1414df679436ced2eff11a66a6a99f0a0f05a",
+      "url": "https://files.pythonhosted.org/packages/56/01/bf5a0ffcc4fb7f18b500f9ded28cafc23e1bebc9aec2e27f1dc4563744d9/li-pagador-2.0.10.tar.gz"
+    },
+    "2.0.11": {
+      "sha256": "f257216e710432d6ecad7acfda5fa5eb3c3f2255547aaac6e597a024f18ce8b6",
+      "url": "https://files.pythonhosted.org/packages/48/96/6532d4f199961c94f96b55b163a98cdb38ea9eb657e366581ec0e16b6323/li-pagador-2.0.11.tar.gz"
+    },
+    "2.0.12": {
+      "sha256": "989987ae5c3507756232c3bda9fc6f1d4b02a22e8084a74db31a1becbe258df7",
+      "url": "https://files.pythonhosted.org/packages/f0/57/d23dae0351b8be22f4ccaae51653758e9a919df492c9ccf001034481ee36/li-pagador-2.0.12.tar.gz"
+    },
+    "2.0.13": {
+      "sha256": "9aa9f19c990bcb978b77fea61c83e2f22097d5c526feffd12297adcb90ccd64a",
+      "url": "https://files.pythonhosted.org/packages/33/39/7df22e221beab4643c9de40f93223b5e6cb72b348d0ba08b0664d0265c4e/li-pagador-2.0.13.tar.gz"
+    },
+    "2.0.14": {
+      "sha256": "17bf9573df798e1e60554e0caab37e9ded19cce6576fce2e56bb35069cdab8db",
+      "url": "https://files.pythonhosted.org/packages/ca/dc/c6685657a93941ea68f55a1046c00ba19d0af2d8e1f4be7c5b8156d0614e/li-pagador-2.0.14.tar.gz"
+    },
+    "2.0.15": {
+      "sha256": "b5254f7bea6b7597213020ff6a2400ccd8be0078b05662c87f2778e088ee4c71",
+      "url": "https://files.pythonhosted.org/packages/31/83/57d45780855bc60628690c79f19ac665131863cdd34831d3a0de8b7318b9/li-pagador-2.0.15.tar.gz"
+    },
+    "2.0.17": {
+      "sha256": "3337356209f4575cbf9db4eb32c7e0a63a87b5cb83f10a887e5066ad76f6e52e",
+      "url": "https://files.pythonhosted.org/packages/82/86/da87e7b8a00a69fba765003a4b7f8832eb2b7636b475a727a8e8d46ca991/li-pagador-2.0.17.tar.gz"
+    },
+    "2.0.19": {
+      "sha256": "cf8ba1e9696eee61b465345d7124f3d1a86cc415fbeca40fafcbe3c559424a4d",
+      "url": "https://files.pythonhosted.org/packages/b9/6b/a74b9853456fb05711efc5ff679ed1b78fddfe63150301cd31ef588ce247/li-pagador-2.0.19.tar.gz"
+    },
+    "2.0.20": {
+      "sha256": "d91ff9494664f93f3bbc160ea3ca412106bb38cb4195c8649b69f96e77e0ad9c",
+      "url": "https://files.pythonhosted.org/packages/8a/c8/c43f04327b752979614d0c9863410058e1432f0fcc7fd481130bb0434077/li-pagador-2.0.20.tar.gz"
+    },
+    "2.0.21": {
+      "sha256": "30bdcfc16fef6ce2612a7669a922cec9e40c008a7eb2434eea4e59915281979a",
+      "url": "https://files.pythonhosted.org/packages/67/01/d26cbc48c56a51d47dc6da01489a7a4bc31215d768e58893e1748189af5c/li-pagador-2.0.21.tar.gz"
+    },
+    "2.0.22": {
+      "sha256": "542ccc998df96e7d14b1fa48632d0186bd4d38dcc271e480b64e548adfe40dc3",
+      "url": "https://files.pythonhosted.org/packages/65/3a/f2799ef4dd10c86fd06b96687ae228733b2911e8cd0058b7faa5351dc5c1/li-pagador-2.0.22.tar.gz"
+    },
+    "2.0.23": {
+      "sha256": "1983524a369203a5d0dfcccbcaf81558e8e7b162f97e616d7d500e6c02f38823",
+      "url": "https://files.pythonhosted.org/packages/70/ca/e20603b061e16ea7bd8ec37e79aae6a754afb76cc0aeb1f742600c593304/li-pagador-2.0.23.tar.gz"
+    },
+    "2.0.24": {
+      "sha256": "9ea7c8ceb1896cebccb8cf4c73726e72fea3a69c59a3eaa5132702ef6281bcd7",
+      "url": "https://files.pythonhosted.org/packages/61/e8/b7243a55499a72a493a99383f2531a9d40fa103af571e1c7cc313cb720c7/li-pagador-2.0.24.tar.gz"
+    },
+    "2.0.25": {
+      "sha256": "3b959767993eb71c36692fe5ae6aad0bf3f70e14119675ecb94436d046ded5fb",
+      "url": "https://files.pythonhosted.org/packages/94/1e/9f2433d15036f4a6ebb8f77b85753e442836f096035fa610ffc04f88e26d/li-pagador-2.0.25.tar.gz"
+    },
+    "2.0.26": {
+      "sha256": "c00552c6f144da78ebb6a8f65567a114001b5c81ecd08b072f97b6dee6b42884",
+      "url": "https://files.pythonhosted.org/packages/b6/9e/4dbba3e13258c12c58243e03039d02c5d68e21b1735e52827993136c8912/li-pagador-2.0.26.tar.gz"
+    },
+    "2.0.27": {
+      "sha256": "f9cb80573b20b5446ca0122b0fb9f3ff83e97058b3c54f3db468a26ad4113f8f",
+      "url": "https://files.pythonhosted.org/packages/cc/38/f2b71dd548fc175a7701b6bb4326ea1d4628e06d4383d014a9cd306e3f0d/li-pagador-2.0.27.tar.gz"
+    },
+    "2.0.28": {
+      "sha256": "4c38da440817ed37161e2422b924ff76910780da8e2dff9bd9d76d7e53928f4f",
+      "url": "https://files.pythonhosted.org/packages/fd/08/d234f385647767708f253aca930d95a06637cbdf08a5f0444b066e8d8088/li-pagador-2.0.28.tar.gz"
+    },
+    "2.0.29": {
+      "sha256": "7f5e0e3b96faf7a92051b98769e6266f733ef20f2959c1fac5c705a5c96b2919",
+      "url": "https://files.pythonhosted.org/packages/31/3e/96d0364e88bce450c3aa7a4398c94bc97b71c7a24d0b478f65a62b85d587/li-pagador-2.0.29.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "545a43191ee5d13b356642393950fa70b6ce7c1cbda905a0db62cc58964e8c5b",
+      "url": "https://files.pythonhosted.org/packages/8f/40/5529636658d0a2fd6abb3f617853ef31c9d8d7c26940f4a022408f99d23c/li-pagador-2.0.3.tar.gz"
+    },
+    "2.0.30": {
+      "sha256": "ce1012e0f4fc8420e98349570923e685b15cd13c5fcaed688f33952df25f401d",
+      "url": "https://files.pythonhosted.org/packages/c6/e0/6129fc1de5826cb16085843040cac73721397c1b99a918fc3a5138348b3c/li-pagador-2.0.30.tar.gz"
+    },
+    "2.0.31": {
+      "sha256": "a7500834e657a80fbb27ecc33edadd9bbdd9858b42df9598ff02a03985b296c2",
+      "url": "https://files.pythonhosted.org/packages/5f/8a/f1e844a58d5b6631ac546dda08ad04c83dcb0cab21fcc251fc81d3d81df6/li-pagador-2.0.31.tar.gz"
+    },
+    "2.0.32": {
+      "sha256": "2bfdd40f6d488d8515ffb78be1167be392a226abac14ab91847986abc49a7692",
+      "url": "https://files.pythonhosted.org/packages/87/ff/48a636a64638ce60e33489833ac412b2a2462c3d4456edb3b4b90baa86cd/li-pagador-2.0.32.tar.gz"
+    },
+    "2.0.33": {
+      "sha256": "ca2b02c7d12b15b27f0767a6a41b5618400857c8a397a38af940fa3e2adbe801",
+      "url": "https://files.pythonhosted.org/packages/48/49/e41dd685604b08a1a01fc4fb88cc8ea3dc201892153436b8bca482881677/li-pagador-2.0.33.tar.gz"
+    },
+    "2.0.34": {
+      "sha256": "104e2d73b5dd793bdda8410d980cbe81e0f6668093c36001f6dcf935de6f4010",
+      "url": "https://files.pythonhosted.org/packages/a1/24/23db2d8779479f794ed4df97da08d59da70ad36b6b324e24387d8c5f4b89/li-pagador-2.0.34.tar.gz"
+    },
+    "2.0.35": {
+      "sha256": "80da73ee5a4e961bf85cadbcc36434eb7be75fc327ee5364e4cb726a662869d4",
+      "url": "https://files.pythonhosted.org/packages/a0/a9/21388ac6f0a5006a5b2f5f53115c01404cb9e66424f319774ee241069b1d/li-pagador-2.0.35.tar.gz"
+    },
+    "2.0.36": {
+      "sha256": "9133a99ef557d5d65463c99c5444d4bdb4c075850c0c78d95566c2275f2ca89b",
+      "url": "https://files.pythonhosted.org/packages/ca/59/0e979af6354afcd9e10a50e9733907b190d6698a736663da64c0fd7bb826/li-pagador-2.0.36.tar.gz"
+    },
+    "2.0.37": {
+      "sha256": "9ade5b442cb9dbf52815f096bf48a0e1986988a6b5b2704c7efe6ff1d532af1e",
+      "url": "https://files.pythonhosted.org/packages/48/75/eafa02067e6328f7bd3dd744f944b94f01fd29a126ba252fdea3969afe3d/li-pagador-2.0.37.tar.gz"
+    },
+    "2.0.38": {
+      "sha256": "b98b016ec8afeadbb404dee84c1bbf6d17c29678d5275b7b436701c0dac2ee5b",
+      "url": "https://files.pythonhosted.org/packages/ed/5a/074726f8fefd79980757b47e656a58f605f42acebd04f4fd1d472837f252/li-pagador-2.0.38.tar.gz"
+    },
+    "2.0.39": {
+      "sha256": "90440d40a251684fba7161f7256ffd2fe0d3c48dc408f73af4abaad1f69b2029",
+      "url": "https://files.pythonhosted.org/packages/40/c2/34df70b9579829dc54b15a9712458bf6e96c6fba003b2c76dcdb469fd2ef/li-pagador-2.0.39.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "541422d8f3ccaca42849784d4719ebf1cb05b2d4bb54c414bcfd9db1b5e9ef3a",
+      "url": "https://files.pythonhosted.org/packages/78/76/650a10417b5987184e928c556c6bd5ce23cfa762ac85c91b72529d77eb98/li-pagador-2.0.4.tar.gz"
+    },
+    "2.0.40": {
+      "sha256": "771726e821503ba48e9a7daa269d1b643bb6a7215d98752161577147997141b7",
+      "url": "https://files.pythonhosted.org/packages/53/3c/b709597d6c53842f4677636edd1e373fa7495a06342e40c07adc0b2a0c54/li-pagador-2.0.40.tar.gz"
+    },
+    "2.0.41": {
+      "sha256": "d1748d35bad59a770b38cb696cdc4d6a16c1b8c61505634db03acedd8ec3ec48",
+      "url": "https://files.pythonhosted.org/packages/9c/6e/f5f8951ded38cd79381c190332f81a6aedf8fc108cd65be5c93ae49e7016/li-pagador-2.0.41.tar.gz"
+    },
+    "2.0.42": {
+      "sha256": "39ab6269501d4435fc60098c577ccdd5cb6c2564e34845a193b93301a2754cc1",
+      "url": "https://files.pythonhosted.org/packages/ed/a6/17c71cbce638ddbbd1b95bb8c16838adf53c5076a35bfd43a1821284349a/li-pagador-2.0.42.tar.gz"
+    },
+    "2.0.43": {
+      "sha256": "37ff82c2502682f34e8379308410f833eb474d9798fcde3a1704aee1c1c45b47",
+      "url": "https://files.pythonhosted.org/packages/f3/22/a0a999bfccec666cdb909d115dd54bb32de8e24ceb1af9c30c42d9b93ed7/li-pagador-2.0.43.tar.gz"
+    },
+    "2.0.44": {
+      "sha256": "6152a4698986aff494c8d4ee7b9485b96b7d6e978b6cd9d309ce4838f83971eb",
+      "url": "https://files.pythonhosted.org/packages/89/ca/eb0a22bb12bfd764972f3df0bc298f083ee9af136f7fbac3c3eb6e196455/li-pagador-2.0.44.tar.gz"
+    },
+    "2.0.45": {
+      "sha256": "36d9e4af4d4c00e19151f4da60e18e84f0d682ed005c50159ae0da578f156fe0",
+      "url": "https://files.pythonhosted.org/packages/07/a2/ba66cc491e8b0aa8fb14b55f969cce4e5ce560b2e3c2b9044d6f9d5d0530/li-pagador-2.0.45.tar.gz"
+    },
+    "2.0.46": {
+      "sha256": "6b36624689bc50c48fc44b466d915addb8c372e0fd5573de554ed775dd381255",
+      "url": "https://files.pythonhosted.org/packages/f0/c8/a94003d9018ef226bbbdc8d480d337e0330ca66eaab1bb23bc8f4f3145e0/li-pagador-2.0.46.tar.gz"
+    },
+    "2.0.47": {
+      "sha256": "2c7b539e6f25e0724b77d0f26d0e9d61dcbdd1c14e0021c75a27391ea9ad7b01",
+      "url": "https://files.pythonhosted.org/packages/b1/ac/8537384ae47369a10b83168de88dc6df79c8fd874a284dc66576bbc1a83c/li-pagador-2.0.47.tar.gz"
+    },
+    "2.0.48": {
+      "sha256": "55ea3605d21df339e98dcb69b536e803fe2c71b78d52256a1bb14d294bd55be7",
+      "url": "https://files.pythonhosted.org/packages/25/98/1c9f3e7c23805c57033391b049e273a2c56c4503a45f8e198646296f9da9/li-pagador-2.0.48.tar.gz"
+    },
+    "2.0.49": {
+      "sha256": "13abba94cb35bf80e58c41897404c370df7ff8108c1b456776be4ecb24015894",
+      "url": "https://files.pythonhosted.org/packages/f0/23/ca915b899f8f9ecdde45c18914b7a58aa9063adbd55f48ae26fe86fe4f02/li-pagador-2.0.49.tar.gz"
+    },
+    "2.0.5": {
+      "sha256": "7a6c2206ad5300a883d5f210c245c9667c6896aca00bf5c82289ac96f766bf77",
+      "url": "https://files.pythonhosted.org/packages/c9/00/948a59d679b42ccf42c43cdd576b8e358d1c59531f9471664025205f5125/li-pagador-2.0.5.tar.gz"
+    },
+    "2.0.50": {
+      "sha256": "91f6f822bda287e987f912582b142dcdda3442f6de1baf22c2fb9e536246c83f",
+      "url": "https://files.pythonhosted.org/packages/53/a4/1dc82b38e2826b40e8ed14d6acd44676b9a2928ce51ee410023a5bb35d4b/li-pagador-2.0.50.tar.gz"
+    },
+    "2.0.51": {
+      "sha256": "f342d24441d19e6888669bb066cfa1a71fd27cde729b84289b5c6163fda0aeff",
+      "url": "https://files.pythonhosted.org/packages/a8/6b/fc9583dc8d68eb675f7f70cc5ebd3e7f112b904be29a28b77b084e5fa27a/li-pagador-2.0.51.tar.gz"
+    },
+    "2.0.52": {
+      "sha256": "850a29293af9171313b440e3cb55cff5918870e5aa914b170c05daf7f3762a28",
+      "url": "https://files.pythonhosted.org/packages/54/db/c6700215b43db3a463352f6ac14d06671a97242ba56e0ca1db7d57a91637/li-pagador-2.0.52.tar.gz"
+    },
+    "2.0.53": {
+      "sha256": "09c29f47ccec74cc466a5247ccd8064348395c9f1e5ffc649561f455d6c29470",
+      "url": "https://files.pythonhosted.org/packages/56/a9/7a23573ba5e3b3d690733b9ded7345a60d1f66353af6a1160a3b8e135e31/li-pagador-2.0.53.tar.gz"
+    },
+    "2.0.54": {
+      "sha256": "822016748ae92ee829d2fe45e3eadce5013d0944b5510f80788548904a6fcdf5",
+      "url": "https://files.pythonhosted.org/packages/26/46/1886eb822dfa41909db80ffe6a3dd5e91a94a328413d39ac76aa1124ecdc/li-pagador-2.0.54.tar.gz"
+    },
+    "2.0.55": {
+      "sha256": "73038184da8eb0ab777d49e137a69dd6f3a9abdf8fdab58892fb2366465b88d3",
+      "url": "https://files.pythonhosted.org/packages/c6/e8/4be2bc00f110429bde71790eb6ae3821d2107b22f725c3dfd8d862a16ac4/li-pagador-2.0.55.tar.gz"
+    },
+    "2.0.56": {
+      "sha256": "96ef858ff42290e3f8f57b3456c93c8b2d02c9690bc7817ada4a222454c7f5a5",
+      "url": "https://files.pythonhosted.org/packages/42/40/2767685777fa336a93d5b41c630c7911e8b53f1593883067a494f3f8a1e4/li-pagador-2.0.56.tar.gz"
+    },
+    "2.0.57": {
+      "sha256": "fe0e1bb3fa7693acdac6f64ac7a10cf059f87ea70f638f4d2af75bd283d10c65",
+      "url": "https://files.pythonhosted.org/packages/90/36/8c3261cd4fe0cc5a38531d4cf8a6c68c59182e13d6bc18d33654f913eb55/li-pagador-2.0.57.tar.gz"
+    },
+    "2.0.58": {
+      "sha256": "f9279971e8fccb243bb10865f72d559db908d5abe6f316d4e11c1bb44c52a25e",
+      "url": "https://files.pythonhosted.org/packages/4a/08/4293723e9069e6074ef3769a352c36c36e772939e7f7cbaa3491d31859f6/li-pagador-2.0.58.tar.gz"
+    },
+    "2.0.59": {
+      "sha256": "de4805cc0c69062eee58d092a76a58760c8386d670967b896df3c027e6f808a4",
+      "url": "https://files.pythonhosted.org/packages/c6/93/41a85471de8b756b12e9af31313d16314488ca58c7a37e2f796b7556fa30/li-pagador-2.0.59.tar.gz"
+    },
+    "2.0.6": {
+      "sha256": "3e26dadf46d214b731ae61fa09057dd0d470ee649a9b97df7e7d5eefd9c9d96f",
+      "url": "https://files.pythonhosted.org/packages/0c/1d/d53c2a44e8b6ba54a4d986af7ad7254571aa1a35537f6d6a5bf71feca902/li-pagador-2.0.6.tar.gz"
+    },
+    "2.0.60": {
+      "sha256": "e5faa4b83ce4d9812095841aa11bf4723627468d0a4302ae0a9d910a872816d9",
+      "url": "https://files.pythonhosted.org/packages/5f/eb/9af996a996e78ebe7f3e1b08387983e2db7b65fbbb751c521ce08176736f/li-pagador-2.0.60.tar.gz"
+    },
+    "2.0.61": {
+      "sha256": "49312a8734e9a79d7f4d525fcef946a257de5b9c7d39372d9ebcb2a02554f824",
+      "url": "https://files.pythonhosted.org/packages/4a/78/9ea905d13bee5d68085088600d86e2fa9e743566ab22341086136ac59620/li-pagador-2.0.61.tar.gz"
+    },
+    "2.0.62": {
+      "sha256": "49b93462c00b5ffc3006b9d65e9f72fd6ba91b0b3bcb7dc243dcc4582b918620",
+      "url": "https://files.pythonhosted.org/packages/48/77/bd22ab0ff84368b0c26506475fcb39cff41357c7fef352e9dca7010bf0fe/li-pagador-2.0.62.tar.gz"
+    },
+    "2.0.63": {
+      "sha256": "508a7141c992d29373314e0c83c35919f529e6ab1c83790589952d534a3ddf6a",
+      "url": "https://files.pythonhosted.org/packages/0c/7c/dd7cf66b44823d6ce3ff220e1b3477828dbea626cc916e0e2c1365bcce97/li-pagador-2.0.63.tar.gz"
+    },
+    "2.0.64": {
+      "sha256": "b71ad8134377ab0e4f40d0cc1ea03b201f5e566d25d317fdeda50b00a275c7de",
+      "url": "https://files.pythonhosted.org/packages/67/0a/ce0ab7ad21c0884dbdae8e6d01575fac0b4c47c68531653f05d127c51dae/li-pagador-2.0.64.tar.gz"
+    },
+    "2.0.65": {
+      "sha256": "32a381376c9f86590ecd95591fe92d48e17a8b8d2f7ebc4f2b6fb3363dc99705",
+      "url": "https://files.pythonhosted.org/packages/78/69/47fba0dde56af8291f00cd30905a139feb921ba9cc4bdd1c6a8d046372c8/li-pagador-2.0.65.tar.gz"
+    },
+    "2.0.7": {
+      "sha256": "40ba78a67a897928372ba1795557b8fd595dcab6bce7d2689c9721f41ebc1664",
+      "url": "https://files.pythonhosted.org/packages/28/f2/014359e542a6430d1b9dc22e83455764816d8d56672ffa3cdb0249c86573/li-pagador-2.0.7.tar.gz"
+    },
+    "2.0.8": {
+      "sha256": "279fe3bcecfbd747405c933231960dde48896b0e5cd7bf7fb2569443ee2e83c1",
+      "url": "https://files.pythonhosted.org/packages/38/c8/c299bcea90310a45dbbabde55cf3a4a85dc4f69e8e80166e09b292e7005e/li-pagador-2.0.8.tar.gz"
+    },
+    "2.0.9": {
+      "sha256": "6239530e0c92ea34820b1dbf4f5ca0979737d84726136da695562e138864ceef",
+      "url": "https://files.pythonhosted.org/packages/a4/94/7faba5f218b676cffdbd79761f9de9d107dad4da74f0223952396fd1eb65/li-pagador-2.0.9.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "82409dcd82f585ba3bde6aa05267a69d3d68b372272fd741ee143938cb396185",
+      "url": "https://files.pythonhosted.org/packages/06/b6/0dc36f09ee49294ec4d675ad80a93aff0913142a908f6a60de51e84fec0b/li-pagador-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "ba641f8634f195338d8c20478b70f6321f63506481164e515d5c1552a8b1f6b3",
+      "url": "https://files.pythonhosted.org/packages/02/66/967d0d7af51ea97d058515abcab0eba6ca138150865f4ec24c3c7e36f539/li-pagador-2.1.1.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "7b7afd02aa3bc4fe70279f6029620fafed3d718bfedd2d861e6998b8f13572c0",
+      "url": "https://files.pythonhosted.org/packages/8a/ea/9d79dde9df4b9b035eb8635f444e4474ad9870372efa541d89786fcf4abd/li-pagador-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "2ba796c2330d82dfe108f99f85d4332492d3d57090cc3762157e923c1749a36c",
+      "url": "https://files.pythonhosted.org/packages/6c/39/190d2ce92d1553cf23a0d63472f13633bbe37551b47fc540ecb4b96b20f3/li-pagador-2.2.1.tar.gz"
+    },
+    "2.2.10": {
+      "sha256": "9dccec18d6d07f37f89ea5a781b51a6f16c71ff7be8668ed6c4d739de51952ff",
+      "url": "https://files.pythonhosted.org/packages/34/26/9675855112b2d25083939caaefade73dfe9b9e705d8c8a15ec13521182bf/li-pagador-2.2.10.tar.gz"
+    },
+    "2.2.11": {
+      "sha256": "999ca916c60c23b7b69f7d706bc1580f36c6fa78bb10e6dfdd66bde5e2902766",
+      "url": "https://files.pythonhosted.org/packages/89/62/ccecdc2c3834dd2f2f10d2d9546c9d721663204294de253be69598e910b4/li-pagador-2.2.11.tar.gz"
+    },
+    "2.2.12": {
+      "sha256": "b00474591765335b2aa995ca549178f221c2bb18f66548a28acda1667d811476",
+      "url": "https://files.pythonhosted.org/packages/ce/ae/ced0eff8d9b1669695a2a0995279d5280ba71c363f09b90f25119e5d0534/li-pagador-2.2.12.tar.gz"
+    },
+    "2.2.13": {
+      "sha256": "36034591a0257093254b9afdfde8b932ceb74984f18419b9d1231f45719b22c9",
+      "url": "https://files.pythonhosted.org/packages/97/12/ad1390b6f8d56b1b4c92b845d3fc8ad6577d542d29581ec2792236c822b8/li-pagador-2.2.13.tar.gz"
+    },
+    "2.2.14": {
+      "sha256": "167e9475cde3c7fbc3239a86c789f113174f0015b0c678de628f618178dd9969",
+      "url": "https://files.pythonhosted.org/packages/ef/16/a95664e0037dade9153a402a1dbe0c73d383b66b970c7890904a0d44c33e/li-pagador-2.2.14.tar.gz"
+    },
+    "2.2.15": {
+      "sha256": "1dd8b72b873e7205a476b3607cabe5c6f8e7c585a438eaf583fcd68b37651c44",
+      "url": "https://files.pythonhosted.org/packages/22/f0/0910740f5532ddc0657a58d2638175a5de5093136a1a35c3d532ac1e5ba8/li-pagador-2.2.15.tar.gz"
+    },
+    "2.2.16": {
+      "sha256": "d611af55c53bda40280685fd7b7a193e48374423e81f6f9f6d6017c0634adadd",
+      "url": "https://files.pythonhosted.org/packages/00/c6/2f33e8b85e1886c6d81d1b18577467fd8d2cb9f4c94762d5352385470067/li-pagador-2.2.16.tar.gz"
+    },
+    "2.2.17": {
+      "sha256": "5e990e5fdd4bfb94e1f7f8a3224d370fad90d833b8a86b775303ba78c2f738d4",
+      "url": "https://files.pythonhosted.org/packages/f9/5a/45d3b6be037cfe16ecc4ad5c1104884967ee341bdd8afea5027511d9bd64/li-pagador-2.2.17.tar.gz"
+    },
+    "2.2.18": {
+      "sha256": "9ca623a4543589e87431688d2ff05c84e424f9025569706578e3104f996f1c2d",
+      "url": "https://files.pythonhosted.org/packages/fc/ea/bd129b239ea56f18b28655a81d3f9beeb62e34f9c689dc677f89ddabaf95/li-pagador-2.2.18.tar.gz"
+    },
+    "2.2.19": {
+      "sha256": "bf56319856d3af0b59de5620e1a4055c4a9dfa8d6e787a4bb8175cdca6126835",
+      "url": "https://files.pythonhosted.org/packages/46/5a/b43950132b08ec978a74ecb2baf30aabf89d0877810dac1382ba6a3d8f89/li-pagador-2.2.19.tar.gz"
+    },
+    "2.2.2": {
+      "sha256": "963a97e650b8fa0acc82eb1c5fcdb36376ade1a94afa26419a948a624d2f9994",
+      "url": "https://files.pythonhosted.org/packages/38/d7/96fec41f5b28e9fecca38af00113ba9cd8c435ce9af98eecd6ee1addc69c/li-pagador-2.2.2.tar.gz"
+    },
+    "2.2.20": {
+      "sha256": "e5ca69d7a1ff0d1f3f287254b15040fa29425300fb9e239b42c346323e28f762",
+      "url": "https://files.pythonhosted.org/packages/98/51/a32de32d5cdeb6f00aa8bdccbbf27ccadfda45f8daf39c62eddcb64441a6/li-pagador-2.2.20.tar.gz"
+    },
+    "2.2.21": {
+      "sha256": "461a77ee617577688c4c9462574e4924ee4c0f84ab0e6d37f13a606517a196be",
+      "url": "https://files.pythonhosted.org/packages/de/49/191506c63abe049179b4371bc37d5425844455fd95f3ea168cbeffb11a59/li-pagador-2.2.21.tar.gz"
+    },
+    "2.2.22": {
+      "sha256": "c2dc149730fc8d147e4c0e1d6c44f3822537bafa99a788bfc228a524b5567c0b",
+      "url": "https://files.pythonhosted.org/packages/fe/33/f45cbe86cd61db6bbae2e8da31bdd73373bbc137943beb1da492c5ae10bc/li-pagador-2.2.22.tar.gz"
+    },
+    "2.2.23": {
+      "sha256": "99a362f2e8878e0ad79fa5a7baa666340a7bfa6ef2f1314256233b03dd50de06",
+      "url": "https://files.pythonhosted.org/packages/9a/19/d787c442cf0c3371d8037f19c765b58805996c9c2f963f1968b36198e920/li-pagador-2.2.23.tar.gz"
+    },
+    "2.2.24": {
+      "sha256": "320580d159337f00bbb14237f5af80cb1b6ab1b3f8c50343c1ca3f2f1c245357",
+      "url": "https://files.pythonhosted.org/packages/e9/da/7f331a8ca3d9095c1999dad3fa3ee7ac6f08d014abefd504753d29255439/li-pagador-2.2.24.tar.gz"
+    },
+    "2.2.25": {
+      "sha256": "4eb201156bf85b0e224abbb4c182b53852a769da828ae50cbb0982381c2846d7",
+      "url": "https://files.pythonhosted.org/packages/69/55/b7cb44db05ba6f37e9221f469225563b89fdc7856f5c888cff0c9ade6435/li-pagador-2.2.25.tar.gz"
+    },
+    "2.2.26": {
+      "sha256": "c8cd9b6ca698a07d31ef0a5a6fb484c329a8d4da51129bf03eea398adeccf5a1",
+      "url": "https://files.pythonhosted.org/packages/6a/00/60b2073e9dd69775537cecf4b5112c5cdd3f8bed7a9b76b1e31cdd382598/li-pagador-2.2.26.tar.gz"
+    },
+    "2.2.27": {
+      "sha256": "66fe5c9928202b2c46dc73a4285ce96b6697c7c5ad3f2f58b0cfd52fc96c3893",
+      "url": "https://files.pythonhosted.org/packages/42/49/c22396823730cba1d969cf13062a4c62a7ced0674cb6b636094017f7d24c/li-pagador-2.2.27.tar.gz"
+    },
+    "2.2.28": {
+      "sha256": "d78d15f1bf9d611b40f5489f8b62120c54f44a85aeccb2be018f36c8be36d1af",
+      "url": "https://files.pythonhosted.org/packages/c6/a6/ff88370d883fd9a6674cb777707f4e3348f3c060668f901439b10ffa6c53/li-pagador-2.2.28.tar.gz"
+    },
+    "2.2.29": {
+      "sha256": "a7d0c29a594cc09ab7d28aca866b369eacb14f88de13142c43590010703567a3",
+      "url": "https://files.pythonhosted.org/packages/ef/eb/da9f1ad7dae42b54aa9ccfbfcec2a6968645f1d8d133634b1c87222202f5/li-pagador-2.2.29.tar.gz"
+    },
+    "2.2.3": {
+      "sha256": "cc07a3775c1d47addb183d66238bde59abe10503505369d206c3d2294cdd2379",
+      "url": "https://files.pythonhosted.org/packages/17/0d/6248c1e2c7110c87f016894c0cdeff7316b1b6e53b82bba9366cfab1eccc/li-pagador-2.2.3.tar.gz"
+    },
+    "2.2.30": {
+      "sha256": "2c543c4188a604cb597f361992d6063423f6da7e4f11b20008f642d1330c524b",
+      "url": "https://files.pythonhosted.org/packages/34/d8/91080a497c2e4a825fb76a65672582821871fa45b3960c3dc981cf5b6fc9/li-pagador-2.2.30.tar.gz"
+    },
+    "2.2.31": {
+      "sha256": "e68c35324b7f8561c9f61b4c19d8e46ef677be2a2203fddf3a0da8295a58a825",
+      "url": "https://files.pythonhosted.org/packages/75/2d/348f8b7e6f39fb086185c9c896e893e56c8c903fbb3e96409c30ff0b929a/li-pagador-2.2.31.tar.gz"
+    },
+    "2.2.32": {
+      "sha256": "02096f091885823bf00c6d5b4444d83ee11afd58c316fbb58f5dbe503ee7f795",
+      "url": "https://files.pythonhosted.org/packages/17/dc/26f8afb3075e53ac4fe21021a611f9029766356a5b558c80ce9ab2e3034a/li-pagador-2.2.32.tar.gz"
+    },
+    "2.2.4": {
+      "sha256": "dbbae9a54fc3e21e01d1db2c2dcfbdc183d6df6e38958f5b63d56b532c2a738b",
+      "url": "https://files.pythonhosted.org/packages/48/c8/f85ccc5a644570a4329469574f2c9c0457ddc71b9db254fbd7a46d89d7c8/li-pagador-2.2.4.tar.gz"
+    },
+    "2.2.5": {
+      "sha256": "0ed3ae3d809aae45930f82388a1c070499e1637a96ea86e6d05f411c9a66321a",
+      "url": "https://files.pythonhosted.org/packages/cf/76/153f1021825874950f2a681581914aef232bdf0407853507f5861fb2b203/li-pagador-2.2.5.tar.gz"
+    },
+    "2.2.6": {
+      "sha256": "8a57e6046c437f56c54d813d1116e99a051c6f131985b1ca6baa0035108db46b",
+      "url": "https://files.pythonhosted.org/packages/06/2e/cda5306803829d480bf940128f76cbd7de2057446b26e7292ea777aa7054/li-pagador-2.2.6.tar.gz"
+    },
+    "2.2.7": {
+      "sha256": "25d264c28cf7573f35ff0a487612b983dd707af12977d2ce3e250a1a83a6b79f",
+      "url": "https://files.pythonhosted.org/packages/12/fa/238ee5e3b2ccb5e7cdacb5490efb20329dea7e5f49d0bfd3ab992299001d/li-pagador-2.2.7.tar.gz"
+    },
+    "2.2.8": {
+      "sha256": "d7f80a293baaa2433d41b68d93f0df31950cca595dfbe4853a3426a77b34aa44",
+      "url": "https://files.pythonhosted.org/packages/cc/a0/882adbb36427be15dfaaa1f0e2a4c17a9d9a9ea2030158dfe076926e0ca6/li-pagador-2.2.8.tar.gz"
+    },
+    "2.2.9": {
+      "sha256": "8a9147c1db4f2df2dc79f1d2b0900655e7a73dbfb3676e53548f688797a84638",
+      "url": "https://files.pythonhosted.org/packages/bc/09/5d03ad7fe3b505a39b99f62d5d7945a5087dd2ed459101d659b484fca8dd/li-pagador-2.2.9.tar.gz"
+    }
+  }
+}

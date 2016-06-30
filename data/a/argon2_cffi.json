@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "16.1.0"
+  ],
+  "meta": {
+    "description": "The secure Argon2 password hashing algorithm",
+    "homepage": "https://argon2-cffi.readthedocs.org/",
+    "license": "MIT"
+  },
+  "versions": {
+    "15.0.0": {
+      "sha256": "b6087d04602fa0f92a55f86b93444a73be69b07c49f1005bbbb4c5fa368f03f6",
+      "url": "https://files.pythonhosted.org/packages/f8/a3/2ac0119a5de23259c70c2b9a89010826883aab10e2e05132d9217fb8b637/argon2_cffi-15.0.0.tar.gz"
+    },
+    "15.0.0b5": {
+      "sha256": "42dac34f893990755f8278b68da1e94c22cc0dc77f653673bcaac36cb8c3346f",
+      "url": "https://files.pythonhosted.org/packages/59/3b/c736cb9883f7f1c11d98d4c0deef10af0922caec9380a8a16e751adc6244/argon2_cffi-15.0.0b5.tar.gz"
+    },
+    "15.0.1": {
+      "sha256": "2cabe7d49daedfb0592a791f0bfa6d1c30c390ccf5d765cd2a8fed8ad7b38e06",
+      "url": "https://files.pythonhosted.org/packages/7a/77/c0e41da2817d9c4d88ed2e5e9d863d9106c5e5eccb00be3606a34961e515/argon2_cffi-15.0.1.tar.gz"
+    },
+    "16.0.0": {
+      "sha256": "109fe8d69f54f5bbd38691bd3decb6fa0b9cef87e3378e1009fce7dbfaec680f",
+      "url": "https://files.pythonhosted.org/packages/07/21/c023aeb70fe0b2966f4d50a2a9f5d948a7d9039f923c46225b0f39a6123e/argon2_cffi-16.0.0.tar.gz"
+    },
+    "16.1.0": {
+      "sha256": "57765157ea65c1bc6a7b19bcc54f5aa4af57817f1a349c59339a720edc2b1c3f",
+      "url": "https://files.pythonhosted.org/packages/81/2a/e1df75308a46a519ef773e89c2fa1622b446418613336d88431a084a3714/argon2_cffi-16.1.0.tar.gz"
+    }
+  }
+}

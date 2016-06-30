@@ -1,0 +1,80 @@
+{
+  "latest_version": [
+    "0.8"
+  ],
+  "meta": {
+    "description": "Flake8 and pylama plugin that checks the ordering of import statements",
+    "homepage": "https://github.com/public/flake8-import-order",
+    "license": "LGPLv3"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "627ad27876384b2a98738c43bf0d8c8f0ab1738559d34702c86d33ae3b12f54d",
+      "url": "https://files.pythonhosted.org/packages/65/73/4bd7368d086f0d2c95de6c5b6a8583fcb6200e56c132b6829029d457052d/flake8-import-order-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "15c5893e84c5d35223aeda0ab320bd9813635e59dc9a7eb70f1e3b46696d0fcf",
+      "url": "https://files.pythonhosted.org/packages/93/7a/65092efb713d1369daa7b00b4fc0b2e68a2877f9a858b3ac56885098f3b0/flake8-import-order-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "fa4e7fbb233b58cf9abb1e27b5bd4813d836bfceeb835e1df087648920ab3d16",
+      "url": "https://files.pythonhosted.org/packages/95/0b/95201d0b71d5c8f5ec5b132ca7de1550a5f48fe0a2fc1bf13b88534d3836/flake8-import-order-0.3.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "2adec85e0a554c0037babea2e8567287e0021551c7b8bcefb14310b468dba139",
+      "url": "https://files.pythonhosted.org/packages/62/0e/b9c202031f7fbeb907cbe28d0ac6ff3117b5ebe3d3b7d401873887451463/flake8-import-order-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "0cf32b2195850b36d621ae9ecab8eba040adb104112bbdfb744b30a3d8dbb01c",
+      "url": "https://files.pythonhosted.org/packages/c9/18/3254f55c75a141b2e2289f245f28bb6c9220b1960ce25f79810e25b07740/flake8-import-order-0.3.2.tar.gz"
+    },
+    "0.4": {
+      "sha256": "1144eec6d76bf20546780ebfc27ea83e2790a1d926a3dc6919ff1ad4526e1567",
+      "url": "https://files.pythonhosted.org/packages/53/31/d71165a299ea3da3af526f2523d7544081c2397aab0904abd6ff48b2b80a/flake8-import-order-0.4.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "8cd8375d508f2410165cf98e69884938a103d44d591be751d79c01b348c1a03d",
+      "url": "https://files.pythonhosted.org/packages/16/90/acdbdb024c243ab72bd7aad127a7ca66cb01de5aab3fee90e4aefd2092b4/flake8-import-order-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "1e56196d35fe4975d566aa6d8497556afc5d1ea904e18deae4a10ce61cc54554",
+      "url": "https://files.pythonhosted.org/packages/dd/45/fa158abe12a765bce1fda76f84cff956b4c34553817085fb64957edd2582/flake8-import-order-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "0f19010227795ab434176a6f5746de4cc12acfc09831e5c1d8394684822b79d0",
+      "url": "https://files.pythonhosted.org/packages/59/a8/79e64e4ed9a4a405a6f42bb010422aa5c6077aea69ccdd77b801f991b721/flake8-import-order-0.4.3.tar.gz"
+    },
+    "0.5": {
+      "sha256": "b117817ab31e7a2fba2994954de78866191fa286650e66f50fc21882561906e1",
+      "url": "https://files.pythonhosted.org/packages/9e/2e/491905f5739ab0177096207cd06819050657754b73339bd290f6aa513371/flake8-import-order-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "bde93ba727feb76d1572dff31b821d531bf24561a49e942ddb5ca867ee46fc5d",
+      "url": "https://files.pythonhosted.org/packages/d4/a3/54511f79d6e8b0940962cbee9e3951692aa7c90b9c998bc881eee17754d3/flake8-import-order-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "a88f0aa078beb5ceb18d1816df3f18928dafbf000243d11f3c2de60bd515bff9",
+      "url": "https://files.pythonhosted.org/packages/36/79/33336b619a47305dcccf3e5f0e7c00e298eb9bd01a29f90d89844990c6c9/flake8-import-order-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "f304ff2d51a9736d59d8f4c829b43f73693010e3cc0724ee6af0a3a275f968a5",
+      "url": "https://files.pythonhosted.org/packages/a4/49/ab4aef14d34d169f3092f8db8e3d071d6cbbb61901408c1b829b61bfb363/flake8-import-order-0.5.3.tar.gz"
+    },
+    "0.6": {
+      "sha256": "9bc55fa8840a80793a5e6733003e29f5e6b6fe812a4d5ccbbabf02bedee4c17e",
+      "url": "https://files.pythonhosted.org/packages/6c/ee/524f5fc0cc96387b78daa84afd514ee0e7813a6f500e81eeeb5c89768d27/flake8-import-order-0.6.linux-x86_64.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "91084b5385092d31900b19a60661c686f7b8072f269c01885d917a91d4ab25e3",
+      "url": "https://files.pythonhosted.org/packages/7f/80/36dd9af5e154a6741f4313362a4b642745885899b922774c0220fae78bc2/flake8-import-order-0.6.1.tar.gz"
+    },
+    "0.7": {
+      "sha256": "657276c3cde2c208c5b1074c70d4a3a7afe4bc9e5e2ba9fc4983a65adfa8e4cb",
+      "url": "https://files.pythonhosted.org/packages/a6/54/9aeea04f883d3ff18ebd69cfe8a3f866d41cad0f6624ca9296e6b5b8bcdd/flake8-import-order-0.7.tar.gz"
+    },
+    "0.8": {
+      "sha256": "e9ceee1afd1144bff11cc4d23e6c630f9311f34c13912cf3f3a08ae90bb0d937",
+      "url": "https://files.pythonhosted.org/packages/18/2f/5efcf6f5dc074334b5d02627bf58bf8cefaf63e68ba5fbae51cb8cf34110/flake8-import-order-0.8.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "5.5.0.post1"
+  ],
+  "meta": {
+    "description": "This package installs an script to install PyQt5",
+    "homepage": "https://pypi.python.org/pypi/pyqt5-installer",
+    "license": "GPL"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "df4af7eda928792149fff3bee16ebb032847e4541dcde6c953fdff8484907590",
+      "url": "https://files.pythonhosted.org/packages/fb/78/b3e13df5fead7a13c8fec7e4a65ecaf0be3c531dc2a8b6fd1f5572e9333c/pyqt5-installer-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "e9f8a9001ca838590d1d55ef9595b05e58cba7352b453b980a76f22551f958ab",
+      "url": "https://files.pythonhosted.org/packages/31/2f/7cd5419cd0041a3d0e478a6139a4cf4a6c7a88035335fde5135d7389b63e/pyqt5-installer-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "f6be0d54a4ef5996180917708a0f9fd3048a7eecc9dd1709a8f39659cd5c7dbe",
+      "url": "https://files.pythonhosted.org/packages/0a/d4/566bede585a98b829c6d9814fba936386b78a75ab27a71709a928a7d561e/pyqt5-installer-1.2.tar.gz"
+    },
+    "5.5.0": {
+      "sha256": "e60c0ae996afd8148eb601de9b89676143062a3a9dfa412ca31e86d50b13e84b",
+      "url": "https://files.pythonhosted.org/packages/d6/f0/181e1763aeb8baa192fa25cd7ad49bb68e170fb471c53516eb1b4486b002/pyqt5-installer-5.5.0.tar.gz"
+    },
+    "5.5.0.post1": {
+      "sha256": "8025543e12d1890e21d032fb5a0ab5f5745961fbb49493e437957189ae855e04",
+      "url": "https://files.pythonhosted.org/packages/33/d1/d99aaa99bad8422f3231af2d0aa790fc4b56d91a3627acc144a2190b185a/pyqt5-installer-5.5.0.post1.tar.gz"
+    }
+  }
+}

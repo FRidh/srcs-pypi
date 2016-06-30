@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "zc.buildout recipe that downloads and installs OpenOffice.org",
+    "homepage": "http://svn.zope.org/z3c.recipe.openoffice",
+    "license": "ZPL 2.1"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "066c6ad9d858eeb80b877a9274ed82fa7cc434839d9082fbded62f8784e8fd92",
+      "url": "https://files.pythonhosted.org/packages/ee/fe/36d758853292893b047afbdc8dfa36f7785277ba7063752c3be76ea9bec5/z3c.recipe.openoffice-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "5f74d56488a52bffe0d9a3fdfab1de5333b76fc773d0645c0db92276c3310ca3",
+      "url": "https://files.pythonhosted.org/packages/9c/6b/ad39fa05a5243f80eeed7f5414853060a80b25fe8623b99d5aecf1e0b5fc/z3c.recipe.openoffice-0.3.tar.gz"
+    }
+  }
+}

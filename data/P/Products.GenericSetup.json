@@ -1,0 +1,156 @@
+{
+  "latest_version": [
+    "1.8.3"
+  ],
+  "meta": {
+    "description": "Read Zope configuration state from profile dirs / tarballs",
+    "homepage": "https://pypi.python.org/pypi/Products.GenericSetup",
+    "license": "ZPL 2.1 (http://www.zope.org/Resources/License/ZPL-2.1)"
+  },
+  "versions": {
+    "1.3.2": {
+      "sha256": "8000cb4875d8f2e0dc78c74e36efd72151146f752126bee35f1931243d7dac79",
+      "url": "https://files.pythonhosted.org/packages/b1/33/d013cf543d10fccccb24777dbc89d76d80117170660ee419fa22377542af/Products.GenericSetup-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "949968aecc34ad0d61d23f010b293f1b05cd81f34a5490811cac4c562832f8ff",
+      "url": "https://files.pythonhosted.org/packages/49/91/ac46f7fd5e29d41bef9ab3d7decfd9c02342131cab52e1d5e25a27d3bb87/Products.GenericSetup-1.3.3.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "bfbeba7fab28743b103ac80aa50f9a061111eba905794257ad5bb5c0c964c774",
+      "url": "https://files.pythonhosted.org/packages/0f/48/3e4d17fa0ef67583c7e360abb678b95369360589474b8aae79f05da7c16a/Products.GenericSetup-1.3.4.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "23162faae2e75982abc63505ecda1130d320b6abd13d7ce0dea7fcddb82b966c",
+      "url": "https://files.pythonhosted.org/packages/31/ba/b03b5a7a18bd3d82a798352cdb7386fad0229841ac589ff2c626682171d2/Products.GenericSetup-1.4.0.tar.gz"
+    },
+    "1.4.0-beta": {
+      "sha256": "cf057d59eb4a632e9cf03c4984f72bedb7f882c8022ee70026688c35f3cdd3c0",
+      "url": "https://files.pythonhosted.org/packages/e6/6a/722bb4caa5ef2b05a546e1cc7a059c0ae8e3148b6f1c55ac1a2dd5ca8c24/Products.GenericSetup-1.4.0-beta.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "f288b55fd768eb08963971fa66f971cd7ffc74700a7bd15694e4e48e7751a815",
+      "url": "https://files.pythonhosted.org/packages/3c/2e/215bac346f0ef00518b6012a7a478b9b0911b7aa42d1add73b0b3d1a3b1b/Products.GenericSetup-1.4.1.tar.gz"
+    },
+    "1.4.2.2": {
+      "sha256": "d1f3f6bf820916ad52f05058c4b319e35478ab293978b46c55d284aaf8be31f4",
+      "url": "https://files.pythonhosted.org/packages/18/c7/f820ef0fd2b5973bd717eff530f8110e5113250e5e322c89f729a2714370/Products.GenericSetup-1.4.2.2.tar.gz"
+    },
+    "1.4.3": {
+      "sha256": "3daf4c170993007d3ea7ffa3108060054474f9b9dd6bad2c6dbba3069b67604e",
+      "url": "https://files.pythonhosted.org/packages/37/08/82ee883376792b2a5b66fffd4cda98c4148a6ac4befbc022dabf5d5cfa7d/Products.GenericSetup-1.4.3.tar.gz"
+    },
+    "1.4.4": {
+      "sha256": "8bbb9b9415163a019f72c3b7cae06ee0aa6edba2d66c0fcb09c071a01a41d11d",
+      "url": "https://files.pythonhosted.org/packages/45/68/b28db103e83a077d442e77eeb617b2887c7a1a76993307bf94729021467a/Products.GenericSetup-1.4.4.tar.gz"
+    },
+    "1.4.5": {
+      "sha256": "450e7840a54d9a133eea76db37864f867a925e4381eacc59e7f9cd7325dccbbe",
+      "url": "https://files.pythonhosted.org/packages/34/02/d724dfe0265b40afad23c2368319b8ccae6482d51941062a86b3a69004da/Products.GenericSetup-1.4.5.tar.gz"
+    },
+    "1.4.6": {
+      "sha256": "57c61399176dc434dc23edc09de943039767c41235b25279fb9f224ab5233b8f",
+      "url": "https://files.pythonhosted.org/packages/55/80/86d9002e200dbf795c3130f76b2290389fb73b4b21cbbb9e0930cb455c27/Products.GenericSetup-1.4.6.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "00eb60b4199ce7fd079b5756462f191d8e907f8b0084a93616e6850634e92abb",
+      "url": "https://files.pythonhosted.org/packages/75/15/8e24ef8890b58990aa26043a34130b8f9987fde51843bd5a514521f69e08/Products.GenericSetup-1.5.0.tar.gz"
+    },
+    "1.5.0b1": {
+      "sha256": "1d98261207150d5ad3a1482249beedf624ae0299dab4d1ebe8e3b04138ae9852",
+      "url": "https://files.pythonhosted.org/packages/2b/5e/68e7831cfa54720408bfb6ef2dce03ab9b29688d2231eedc56def160dfb1/Products.GenericSetup-1.5.0b1.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "3b2e8fece168920455a8b4481f3bb5e3f25ebed99525ffb23800f9c44144ebf2",
+      "url": "https://files.pythonhosted.org/packages/f7/49/b78cccb3b8f9fc237d620ad7c486d93a0f1ee26cca14dd554b206780f2e5/Products.GenericSetup-1.6.0.tar.gz"
+    },
+    "1.6.0b1": {
+      "sha256": "e71ba697ee0ef92b5427bb872d037f03a8f4da3a7f2c5bb075cca9abe3ee3393",
+      "url": "https://files.pythonhosted.org/packages/f9/c3/363b3a6cd0638b3714b80a8c3c927c62b63d8481fad606f6d5df19c00605/Products.GenericSetup-1.6.0b1.tar.gz"
+    },
+    "1.6.1": {
+      "sha256": "c1a32c61b192e0a968a89e6f9bebe934aa3a16ca794aee4b1613ee937548e1da",
+      "url": "https://files.pythonhosted.org/packages/cf/51/98d95c47e7426e528af4cd918a75df817f2224b5304382cc4dc0fdc0a7a2/Products.GenericSetup-1.6.1.tar.gz"
+    },
+    "1.6.2": {
+      "sha256": "35196e43090445ec3db89b2127f0cae874542d6b17b9ece0a982096338da2181",
+      "url": "https://files.pythonhosted.org/packages/80/b1/d4ebe267395346bd7fce849e8ee41ae8d4411e0b7122bbb0a9c34b96f205/Products.GenericSetup-1.6.2.tar.gz"
+    },
+    "1.6.3": {
+      "sha256": "a5d83a5fd912492a6cad25421c1c4426bf0220f7385b84bb779305bd5eedbbee",
+      "url": "https://files.pythonhosted.org/packages/fd/c6/e8aaacc2901a1c2d3c0b7c0b4749aa7dbcc72f8471cc7f18c2969f2a7ca9/Products.GenericSetup-1.6.3.tar.gz"
+    },
+    "1.6.4": {
+      "sha256": "30a4314f3625eaad73df91a61e587f3c8b90513feb895d4cb2b8e9305071e30e",
+      "url": "https://files.pythonhosted.org/packages/2c/bc/0d34a923cbaf8e5850fe159828c9010a617d902a4ac91f7bc4b7c4708687/Products.GenericSetup-1.6.4.tar.gz"
+    },
+    "1.6.5": {
+      "sha256": "3bfd23c353b1aee9a0a5d479f12ae55634c76e1d4705ae6446fcd1df9d10b49e",
+      "url": "https://files.pythonhosted.org/packages/a9/a2/e8d3fbb446a868b100ca70e82901b7abf5004840765afbe84f194cca234a/Products.GenericSetup-1.6.5.tar.gz"
+    },
+    "1.6.6": {
+      "sha256": "70c7224a0d2ce25faeb82c8f517c9a9abbea2466bad5608f31bff39471d9e2e8",
+      "url": "https://files.pythonhosted.org/packages/43/63/0dbeeb1734c556c6c258c3d9c7c125035ac40f84c8bfa096dcf3058c185d/Products.GenericSetup-1.6.6.tar.gz"
+    },
+    "1.6.7": {
+      "sha256": "60227bef94c75d7928f9532f159ccb991eb32503e8f815bae9f07ee3231a5d6b",
+      "url": "https://files.pythonhosted.org/packages/d0/5c/2ff9fa0b6a6bc42b1c5d182becb85788402f37452167f3094c722631e518/Products.GenericSetup-1.6.7.tar.gz"
+    },
+    "1.6.8": {
+      "sha256": "b617ae2f3e915871da92c78532f2cf76f095690b234ca75a6ea28673f8d85832",
+      "url": "https://files.pythonhosted.org/packages/33/51/683f390367b332cf08d13983d3287ded582a7c33278958b0bb6fa362e9a8/Products.GenericSetup-1.6.8.tar.gz"
+    },
+    "1.6.9": {
+      "sha256": "ffd8fc47e318a543f60dfaa3ff90c8625cb8e00092c33e3d5f458d0bd43215ea",
+      "url": "https://files.pythonhosted.org/packages/3e/c1/ef7478a3b63e159ae6d749316265e54817355a5eed0bed2ba45f64f13022/Products.GenericSetup-1.6.9.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "dbdef8e11a1e501425a04adc0a40a56a138fe0db498a0bc08c6aba8a833567a2",
+      "url": "https://files.pythonhosted.org/packages/86/9d/718a510163d47833bb08cc747bd2b6378f1dc0e74af7d601f84c75aa9073/Products.GenericSetup-1.7.0.tar.gz"
+    },
+    "1.7.1": {
+      "sha256": "ffbf4068bdfb43d1b8c3a50c0ada326f300e5d43d594302607a9803e0e5622ad",
+      "url": "https://files.pythonhosted.org/packages/4f/20/6b6e307589438ce8a96b10cf57738a1d0294a59ca3be21c0d872d315dab3/Products.GenericSetup-1.7.1.tar.gz"
+    },
+    "1.7.2": {
+      "sha256": "bddcf397ad0faa6a04ea36a2cc541c6b400982fd6c9feb05dc2b63d75e06d7fd",
+      "url": "https://files.pythonhosted.org/packages/c8/1b/7e1d4869e6876feb93bd36133f7cc3d4b2242a26aada74f39f37bcda0b58/Products.GenericSetup-1.7.2.tar.gz"
+    },
+    "1.7.3": {
+      "sha256": "180bc1bf43e4efa84c65db2c9ae9f187b14e66a19e6632275a5915e658c001f7",
+      "url": "https://files.pythonhosted.org/packages/55/e4/e4e70b666dcc03c028f726437f7f69253bbc86c68a5eaf56a4dceb8e47d1/Products.GenericSetup-1.7.3.tar.gz"
+    },
+    "1.7.4": {
+      "sha256": "f9f6f16a298e1569d5c98a0c5df8c988e9ca18cba6c201696d33fe9581f2756f",
+      "url": "https://files.pythonhosted.org/packages/f1/d2/1cb40ff80126685df79512a337d7e96383773dfbc627d4c63e2ad9103a38/Products.GenericSetup-1.7.4.tar.gz"
+    },
+    "1.7.5": {
+      "sha256": "9d36142f08b120d45df2beb0538e4deaaedfa7bdaf7c43cbea547a22ea74dfbb",
+      "url": "https://files.pythonhosted.org/packages/92/fb/e2cc0039c9c21a60cc6f7d323ced8b3c731f3c97d9190da655fae7b6ed14/Products.GenericSetup-1.7.5.zip"
+    },
+    "1.7.6": {
+      "sha256": "e33fe443728d30d1c46a1d0d695d0695cd33b2e3ac1b538153268195b9ab4a83",
+      "url": "https://files.pythonhosted.org/packages/b9/f5/c59c2ab45f726728276132ad79424ca753e76538eea205e414166204d859/Products.GenericSetup-1.7.6.tar.gz"
+    },
+    "1.7.7": {
+      "sha256": "b7daeaa9c13ec4f65c094d91bb70d764305bb2e8619e9295385f00c187ada11a",
+      "url": "https://files.pythonhosted.org/packages/f6/39/237efec8281c1a3b4066990c597d9e0431a62b1a8665afb387dfdc8a33e1/Products.GenericSetup-1.7.7.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "2a031a0331a172c6217b159c52d2e957f79010429180ebfb2dcb6ed9cf6aae0e",
+      "url": "https://files.pythonhosted.org/packages/e4/f2/37a240555d212cb4203112a21f21d03440f9bba1f8fbe7389725e2cce1f9/Products.GenericSetup-1.8.0.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "8f5b266ba900fbdade2fa36544c7125190f45dc39e59ea9149d71d9a771e5705",
+      "url": "https://files.pythonhosted.org/packages/c9/6a/b581cd2f3ae9d731eca9c38fb30d2b66b961a48dd5e6b51344954481330a/Products.GenericSetup-1.8.1.tar.gz"
+    },
+    "1.8.2": {
+      "sha256": "4d8ad07fad3571b4d7ea2a49816565ccad257a5d3eea3bb4c0c216ad422c24c7",
+      "url": "https://files.pythonhosted.org/packages/0b/9b/314dd34de72175d93977d164ae2ca81ec3cc55b158ac16b64523cac1bb14/Products.GenericSetup-1.8.2.tar.gz"
+    },
+    "1.8.3": {
+      "sha256": "1594633ced1eac635969d4f1778c76ce9ebc4c4c7f7751d0d3d1726ea4def6ac",
+      "url": "https://files.pythonhosted.org/packages/51/47/f63f5739d0ea62e899bf2f4ca61c30e0f063bcb97f608dd98918799551dc/Products.GenericSetup-1.8.3.tar.gz"
+    }
+  }
+}

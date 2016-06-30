@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "0.0.4"
+  ],
+  "meta": {
+    "description": "WSGI app mapping requesting User Agent to arbitrary value through user defined module. Utilizes Wurfl to deliver requesting device info",
+    "homepage": "http://github.com/praekelt/wsgi-ua-mapper",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "32f049995ddbab2dd72285f2433519de2a10d82072e1320288f219a0d9250a4e",
+      "url": "https://files.pythonhosted.org/packages/57/e7/67294e2f143aba7668dca05591a69e33961b569427566ebb91aad0ccc9f4/wsgi-ua-mapper-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "ba698656da3889103ea696153be2647d2c2ed3b6c975aab5d22424992367b31e",
+      "url": "https://files.pythonhosted.org/packages/95/dc/730ad6d8a47317d24b55666de9151c1ec01a0c3efcc59a93301c243d28cf/wsgi-ua-mapper-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "91cd05dedcb334a326b534c8de888b60970982e57c51b8457fbbbc3c006423e7",
+      "url": "https://files.pythonhosted.org/packages/7f/ce/b2bc6b642f6bba8b02fe5c0886deb4d86bf49c9e0a975851475d3ed38cc4/wsgi-ua-mapper-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "1421a3e6434f4bdd3d0200fa25a9e43ad3574cf817361957d7fbed4d701fec67",
+      "url": "https://files.pythonhosted.org/packages/c6/4c/6d657232ee71735993399b3286e3014489227928af52d4d98ba057a628fb/wsgi-ua-mapper-0.0.4.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "A thread-safe queue object which is interchangeable with the stdlib Queue. Any overflow goes into a compressed file to keep excessive amounts of queued items out of memory",
+    "homepage": "http://pypi.python.org/pypi/filequeue",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.2.2": {
+      "sha256": "caf35ff5d266a4471f8650604efe214828b0b05c9f1310f8469b1404ab127fad",
+      "url": "https://files.pythonhosted.org/packages/ed/47/6614b9ffa5fa13f1b58218c36aa462a0c8ef09fd3965fc650340006ff930/filequeue-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "ec3d257da624cd255a68b25b520e0f0a24a0b49e621c54e53ed6654e3a122b7e",
+      "url": "https://files.pythonhosted.org/packages/df/f7/c7150b97cb493a0d5333edd5f90c9266112be0663b25a8b795f90a4e384a/filequeue-0.2.3.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "93f1a6f2db7d6ba636044f9b47258c50cb6700a0ec72166957cbee994d16d821",
+      "url": "https://files.pythonhosted.org/packages/27/88/6a92609853cc4e7438d797239eec56dc33ba9b18161a6491e759848feba7/filequeue-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "05fa842f38ac82e67f60f94f173e9f94350f5e08c95f33711fb5b22be43e88f6",
+      "url": "https://files.pythonhosted.org/packages/e7/b0/c328daa67b5b6c9da1b2a72a1ebf05f7d6a9070959399b4a3d69a50d2b5f/filequeue-0.3.1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "An extensible library for managing object-level permissions with support for SQLAlchemy, Peewee, Pony, and Django",
+    "homepage": "https://github.com/jmcarp/guardrail",
+    "license": "Copyright (c) 2015 Joshua Carp\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "7a74d3ed2253509f3b6b39928d43af66ad5ab67bfc951b22d936b8cd8e4e6ee8",
+      "url": "https://files.pythonhosted.org/packages/d8/d3/d4e71c0074492f13cc07869542bce7202652e6f2e21f3157220bfab39ae8/guardrail-0.1.0.macosx-10.5-x86_64.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "e2016b5555f4efc7c1876ad94ef8033b35d7c89970d96e27494f89a7ba08fb43",
+      "url": "https://files.pythonhosted.org/packages/23/ef/0dd6a4a149f8df00bcf01668c504de2040f7b5057f936d960db1bc5dd9b1/guardrail-0.1.1.macosx-10.5-x86_64.tar.gz"
+    }
+  }
+}

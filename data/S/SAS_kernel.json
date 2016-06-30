@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "1.1.1"
+  ],
+  "meta": {
+    "description": "A SAS kernel for IPython",
+    "homepage": "https://github.com/sassoftware/sas_kernel"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "8065372a85c5dac552a3045a8a98006059c77728745f506811034308bcad347b",
+      "url": "https://files.pythonhosted.org/packages/38/cc/e21566fb196be4a4bd78d5c2fd70eee119fb9cb68f6d4009a8240ad87307/SAS_kernel-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "14f8c8c3c331a759dd3715395e212d03c53e23fae3e2e36a38210d8a7050113f",
+      "url": "https://files.pythonhosted.org/packages/43/74/30f08bfebb1e234dee9d361fa95559dbf1b16dd0c623c5c6fdf665464fde/SAS_kernel-1.1.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "9f079c98ac53f1afc39e5c9ecc9d345af390458f3df912ca3fc73d0ba2bf214b",
+      "url": "https://files.pythonhosted.org/packages/92/ce/fee6822709e24b6ecedf54189f1c75e630a3b5e2ad3f75f882575d037630/SAS_kernel-1.1.1.tar.gz"
+    }
+  }
+}

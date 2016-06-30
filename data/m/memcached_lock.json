@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Implements a distributed lock on top of memcached",
+    "homepage": "http://www.amix.dk/",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "17d6b42022ae03c86b14945732cb511dedde323b9ffe24a8e894c741b5d57edd",
+      "url": "https://files.pythonhosted.org/packages/b2/c3/2e4e2bcff9e5de3a1557666331116e33fb3a927c155e27fdb24557f1a2cf/memcached_lock-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "e0cd3a78e97385ebdc1258a18c3ee8de3f3de569921fcc028e58fd03bf90e086",
+      "url": "https://files.pythonhosted.org/packages/00/e2/834c0eb93271edea18b2969c2892f47bebd986029ebab39ff33421c66e33/memcached_lock-1.1.tar.gz"
+    }
+  }
+}

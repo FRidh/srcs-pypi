@@ -1,0 +1,76 @@
+{
+  "latest_version": [
+    "2.11"
+  ],
+  "meta": {
+    "description": "Get the latest B2G nightly builds for a specific device",
+    "homepage": "http://github.com/ahal/getb2g",
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "3a459cc13480d9f1bc92c49c61e2b5c1c4bbbeccca8ce665f18725dcb7475494",
+      "url": "https://files.pythonhosted.org/packages/c8/c7/849d86736c6c14a33760739744ac33bbed686280e26d30df55235223f651/getb2g-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "31ee8bcd661a390b547a680e475f406ebb59d00f42b02d190c98b3d49960184e",
+      "url": "https://files.pythonhosted.org/packages/08/14/adc6249c48fa6fae2bfb52a8524369454a1ea064aa41ead031569b8d61e8/getb2g-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "ce39c614cfc2a850a233a335af31be72e180ba5e2dcbbd330a46d0ec34993223",
+      "url": "https://files.pythonhosted.org/packages/b3/58/277bfa3bb091b5e46b9e9355b94622ce797f6bc547f28f1a6ff03f3fb609/getb2g-1.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "7e276fa928e33a9d7493d7fac7837316f02c9d4d7c901090176c9cf8a2f0af8d",
+      "url": "https://files.pythonhosted.org/packages/ab/82/78199bf2a2e40155a87a53d8d0358d49e63bcb29e8a27b0e695493364f37/getb2g-1.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "8fbf668beaea48473dbd85eb4da841074b69a12e83ae1b7ea77cb2bb08c006d2",
+      "url": "https://files.pythonhosted.org/packages/c9/b1/4bdc32171d0514678c303a04eaecbdd04f2e137e4afb0233ef3bbee7af77/getb2g-1.4.tar.gz"
+    },
+    "2.0": {
+      "sha256": "266c3425d8bd73cfa2b676d9a92a3364321bb6432eb9d9668a4f56aab6028fd8",
+      "url": "https://files.pythonhosted.org/packages/f9/b6/5f73507efd820f89ba56e3a85aabe5c4886e00ed070a9d0eb1b0bd595f84/getb2g-2.0.tar.gz"
+    },
+    "2.1": {
+      "sha256": "70c658e16d450ed23c1db2cd4c56d2ba0f6ccef393b348785cdecac95bdd541c",
+      "url": "https://files.pythonhosted.org/packages/c3/33/0b50dbc36adb2a4bfd48376626ea3994debaf8fb97601d99fe3f8957e4e2/getb2g-2.1.tar.gz"
+    },
+    "2.10": {
+      "sha256": "6be18e332c656d40edf6863c37863f6f6256c7e2494a466fe46c071d342b00a3",
+      "url": "https://files.pythonhosted.org/packages/33/98/f905dc7581d84cb7ca9f45f10f3fbaff2509afdff6cefc68efbfc6dc2563/getb2g-2.10.tar.gz"
+    },
+    "2.11": {
+      "sha256": "ad8207f65ff379a5cbd43a29fd3f1aff054fbbda5c53635e4a485d4fc55b0c96",
+      "url": "https://files.pythonhosted.org/packages/74/39/190050a551f940e10b8e4e9b28e7d499067b5090d9536222c0fd94713cac/getb2g-2.11.tar.gz"
+    },
+    "2.2": {
+      "sha256": "410e14a27b2f152a85cf790ade023e72b3f94b48ae6c681ffa8ea3e47ad3edda",
+      "url": "https://files.pythonhosted.org/packages/a1/0b/3047cc010a31e46cbac56e14d162653ab199ff7604b1bfc8a8cc2261fe2f/getb2g-2.2.tar.gz"
+    },
+    "2.3": {
+      "sha256": "71335437bf217f7eef61d3996cddb9833cea3eceec07b2bc87abf3368b4b0e88",
+      "url": "https://files.pythonhosted.org/packages/c1/f2/42dd946fe7d33eeb15fb37b863ec7c00c29496490dbb87a87ac03fca03e2/getb2g-2.3.tar.gz"
+    },
+    "2.4": {
+      "sha256": "2cf02e40c07315757c1f1887eb91c9266c9df8f50c96fc83cfcc2bc4a82b18c2",
+      "url": "https://files.pythonhosted.org/packages/2f/5d/74595489599d5e20d1758395983e35f5fb4e7affb8bf53e037f32ee3a205/getb2g-2.4.tar.gz"
+    },
+    "2.5": {
+      "sha256": "fc8e8f71e705d4efbb6a6e6fc8f49082a334b834c18c818e65e8daa227464b02",
+      "url": "https://files.pythonhosted.org/packages/14/00/2f2791e7ffd1070c88f3cd998e585d7fd39f130f65ae050372244518f58d/getb2g-2.5.tar.gz"
+    },
+    "2.6": {
+      "sha256": "211c60867af10a25acdb232250f393ce50709161efac143b4b378d03e3c19948",
+      "url": "https://files.pythonhosted.org/packages/e2/51/2bc5ecba0b11f79170594c447bbc7ae00aae0a93c69fa31ece58bf2f06ce/getb2g-2.6.tar.gz"
+    },
+    "2.7": {
+      "sha256": "4c2f26e2303464e1f43ae6e72d1ea887c8426ea2110ea7c56a8536acd2a6c544",
+      "url": "https://files.pythonhosted.org/packages/2b/c9/02a9f092224c1ee5431757a0896367be8abb0680f9a18b21f7f4e13454e8/getb2g-2.7.tar.gz"
+    },
+    "2.8": {
+      "sha256": "ca70ce8fb83b5a003eaba0615410df56d7b58bd55953b38593386570f9c67b98",
+      "url": "https://files.pythonhosted.org/packages/f9/28/be2e3225ad87800a7dd34607a52d251445de0a180c975eba0a318c796c3a/getb2g-2.8.tar.gz"
+    }
+  }
+}

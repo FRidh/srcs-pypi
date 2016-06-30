@@ -1,0 +1,27 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "AgentZero lets you create, connect, bind, and modify zeromq sockets in runtime with ease.\nIt works great with gevent, making it possible to create network applications with simple code that performs complex operations",
+    "homepage": "http://canary.is"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "c1dd2bb322d381e9e73e52ed72ca05aee124cc71bd5e5defb67d5fa85e21bb75",
+      "url": "https://files.pythonhosted.org/packages/de/76/348d30259c2b8f113d9a71f92b6804938ecbe48f7de0416b9c2e69ef8eb3/agentzero-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "3be8a9204720f57e4a88052a6e906fe979254bee086f5c2bb645dc035b4c37db",
+      "url": "https://files.pythonhosted.org/packages/f4/e0/4fa212ad99301a71d7d6473cd719af46d2d28dfdd3091bf460ce9cf2ede1/agentzero-0.0.2.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "b88b99a9732175b2f67f9f523968df59a2822348354270a3107e7eecc9b8acda",
+      "url": "https://files.pythonhosted.org/packages/ff/9c/deaef0612c1e8edb6611a0278cfe2193d28c8feb752b0704eb903415e796/agentzero-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "0b9eb26db082bf2d9cd49b03f441780bf1819c6eda9e468f008925f27914d32e",
+      "url": "https://files.pythonhosted.org/packages/24/d8/ffde1e252a490ae57258fab2fa3c647823ea1e0fec57b943bb5652ebcf43/agentzero-0.1.1.tar.gz"
+    }
+  }
+}

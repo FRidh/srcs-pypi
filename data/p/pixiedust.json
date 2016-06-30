@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.9"
+  ],
+  "meta": {
+    "description": "Misc helpers for Spark Python Notebook",
+    "homepage": "https://github.com/ibm-cds-labs/spark.samples/tree/master/pixiedust",
+    "license": "Apache 2.0"
+  },
+  "versions": {
+    "0.7": {
+      "sha256": "98fec0ec104e0dc3e49395efca3a6f95d979d4e6ef28ca1aee113556f616775e",
+      "url": "https://files.pythonhosted.org/packages/b5/3f/ff2151b4d4c57681d01af43ba74e1680c2d891637b05e88cd900a0bb161a/pixiedust-0.7.tar.gz"
+    },
+    "0.8": {
+      "sha256": "5f7534ae9dd5706a594a6a642f4b6ba3cd495adbf5a9560958b31c8333bf24c3",
+      "url": "https://files.pythonhosted.org/packages/86/2a/1cafb00d163784142f07ea8cb354c187706e00c39f1eafb037c9bc8e0662/pixiedust-0.8.tar.gz"
+    },
+    "0.9": {
+      "sha256": "dafe764669d7ea32977681fb4f1b88b62347b67339e6b58bbc069becf28e540e",
+      "url": "https://files.pythonhosted.org/packages/47/d1/3eb35921245f5e311c3c63c3225a4a3302df6f8ed7c999ce2b1f6b402f8a/pixiedust-0.9.tar.gz"
+    }
+  }
+}

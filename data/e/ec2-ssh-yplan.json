@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "1.5.1"
+  ],
+  "meta": {
+    "description": "SSH into EC2 instances via tag name",
+    "homepage": "https://github.com/YPlan/ec2-ssh",
+    "license": "MIT"
+  },
+  "versions": {
+    "1.3.0": {
+      "sha256": "87a264425ad62145d00775f8925adebae94fb8e8aa2b8e9a453e4d808cedfd53",
+      "url": "https://files.pythonhosted.org/packages/11/bf/21b6cd88c900c4c95b81722ad8c9f8a03b1deda1d60746928e7423668f9b/ec2-ssh-yplan-1.3.0.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "9972fed9fe473347dcbdc55adeb991af999b698514bb39743a066c735d66c6f7",
+      "url": "https://files.pythonhosted.org/packages/d5/24/f2fd70e1a9e6e8c0fda5e522e1ed7e4d667ede1fe8a2de7c855c47df2329/ec2-ssh-yplan-1.4.0.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "3cec5513c426b296acc5515b8781ee79c47f1f7000647c6a38cedaa5cd9d7df0",
+      "url": "https://files.pythonhosted.org/packages/b8/29/fce61f1ca3b8e1734bcaf31009f7d524dbc2afb93d493e0e77cd9dd5fd53/ec2-ssh-yplan-1.5.0.tar.gz"
+    },
+    "1.5.1": {
+      "sha256": "d6281f6d00b6375883dd2947715f8b5042fb0557e7546034ee64a614daf7d6bf",
+      "url": "https://files.pythonhosted.org/packages/c5/1f/636c1f63e1f2f702c53acefb30dfea82238d33b8189ff6338f4eae22a87b/ec2-ssh-yplan-1.5.1.tar.gz"
+    }
+  }
+}

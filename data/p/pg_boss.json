@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "1.0dev2"
+  ],
+  "meta": {
+    "description": "Create, configure, and control PostgreSQL clusters in Python",
+    "homepage": "http://python.projects.postgresql.org"
+  },
+  "versions": {
+    "0.9": {
+      "sha256": "adea22541a59678e4d4b17c24ba4d4b0bfa1cf777596418e29183f9f572cabe7",
+      "url": "https://files.pythonhosted.org/packages/c1/92/2d457bfc5eebf8ea63e4cc222fd373657b45a224200bee106ee3fc9efe30/pg_boss-0.9.tar.gz"
+    },
+    "1.0dev1": {
+      "sha256": "931f68d224910ed9f003e355299db74b252420cde101bc5d546d55f1cc78ee85",
+      "url": "https://files.pythonhosted.org/packages/3c/74/635d9b8210107a68aee49a905a752393552368f8938415acec656d0362f0/pg_boss-1.0dev1.tar.gz"
+    },
+    "1.0dev2": {
+      "sha256": "e17c658163190892dc9b962d37055728b9540a1c8797ed75f702ec1c73a67d5e",
+      "url": "https://files.pythonhosted.org/packages/8b/06/3254b1708c84488d5ed671da0c7b73c911d243979c18648831a95fa52ff7/pg_boss-1.0dev2.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Automatically create a python package upload it on github, set up continuous integration so you can focus on code",
+    "homepage": "https://github.com/Carreau/pipcreate",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "5a0c443566100f216e216f24f08704c273a907a89476e6ec344493dc26a175f7",
+      "url": "https://files.pythonhosted.org/packages/4d/16/d832689fb7815ae1e0a988fe3c21ce55ebd3db4ad8d04918aa8186437825/pipcreate-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "f693ab5373873bb070b8e4b10cd6d9bb86f37883e6399de15e2c4e1439f1a826",
+      "url": "https://files.pythonhosted.org/packages/49/8a/f2fb18d355080c6cf9fe1bac3008ba569f642b604630984c1b5fce57b1d7/pipcreate-0.1.1.tar.gz"
+    }
+  }
+}

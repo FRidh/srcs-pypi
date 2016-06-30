@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "4.0.1"
+  ],
+  "meta": {
+    "description": "Tryton module to add stock warning on sale",
+    "homepage": "http://www.tryton.org/",
+    "license": "GPL-3"
+  },
+  "versions": {
+    "3.8.0": {
+      "sha256": "6bb9b8e13b91843aa0029fe82573e9822959fbbdd20c15e1253ab723471ff6ef",
+      "url": "https://files.pythonhosted.org/packages/0b/51/6380f965bcd9b35cb59986855a6987d6b75074654745d08fdd36235920aa/trytond_sale_stock_quantity-3.8.0.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "7d14c37a7cc5c8f1ab7c29a428f4b77001148aa1329d24ab11cbee395c984d89",
+      "url": "https://files.pythonhosted.org/packages/14/26/854c597fd8dce9ee2aa634211e47c255771f720811b13a74a73fd819d009/trytond_sale_stock_quantity-4.0.0.tar.gz"
+    },
+    "4.0.1": {
+      "sha256": "83fafc196ec14a701cb52f8863185fcf041f897d4ed291169714c6f16a665d1a",
+      "url": "https://files.pythonhosted.org/packages/95/72/40670151bcbf6b9192f27f9aebdf0630a7d4dc121c57493530cb2a5418fe/trytond_sale_stock_quantity-4.0.1.tar.gz"
+    }
+  }
+}

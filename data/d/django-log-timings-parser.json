@@ -1,0 +1,16 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Parses your web server access logs, resolves your URLs against your django project, and tells you what URLs take a long time",
+    "homepage": "UNKNOWN",
+    "license": "GPLv3"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "3c394ad7f8bf97d2a71348c4daeb2a399534471da24391e1c7c1576bf6d51c20",
+      "url": "https://files.pythonhosted.org/packages/b9/1f/1411ea84cd2182a0bb09f4770b77a7cc2cedc2ddb8acc1df152cb1f4f5f5/django-log-timings-parser-1.0.0.tar.gz"
+    }
+  }
+}

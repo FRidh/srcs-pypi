@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "pytest plugin for writing functional tests with pexpect and docker",
+    "homepage": "https://github.com/nvbn/pytest-docker-pexpect",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "051d51df76076f8da617ac485323df2b1a58f9a68adc99e909663915501ec6f6",
+      "url": "https://files.pythonhosted.org/packages/f7/1a/da7fedc9fa1d93ba04438af16b3c206233b18d5d69a35b3d9e49ede23d37/pytest-docker-pexpect-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "a4feacedae759b5ecaa135fab9eb6fb175587766ff67e6f0e38f05c3e8ac8d10",
+      "url": "https://files.pythonhosted.org/packages/19/a6/8e349019aba98471e4c09c6bf4bb4e0c383241c0ccef363d0de508883653/pytest-docker-pexpect-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "502f8ccc4bfbfcbced6639610ba0073cc4af19b4b50e8d7c602331fa2efd8342",
+      "url": "https://files.pythonhosted.org/packages/d9/cd/c5f7c112a6b5ce93f65b50523692fb09289c0a8788829ac7db54d91a696b/pytest-docker-pexpect-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "6393654f7af0e6f8ac9bc960e3d1f897f0894e2db8cbd1ae5b1e11c623cccb61",
+      "url": "https://files.pythonhosted.org/packages/20/10/77946eeabde09c4ee3edf46e817c90e60dfb231a3379b4b5b40ec3c47912/pytest-docker-pexpect-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "575feab236234bc5b71c092beab70715e9132fd4b56319c0c5d1ec4b0e180d68",
+      "url": "https://files.pythonhosted.org/packages/42/07/04ceb7a77e6d76c2dbefbfa434600d524534f261a6bd89cdda8b3aa3cff0/pytest-docker-pexpect-0.5.tar.gz"
+    }
+  }
+}

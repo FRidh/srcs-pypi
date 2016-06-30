@@ -1,0 +1,128 @@
+{
+  "latest_version": [
+    "3.4rc1"
+  ],
+  "meta": {
+    "description": "Contains necessary decorators and utility methods for writing Cloudify plugins",
+    "homepage": "UNKNOWN",
+    "license": "LICENSE"
+  },
+  "versions": {
+    "3.0": {
+      "sha256": "f5fa3fbbf4ea08c7e566abab049b5717b5f3628d5573199f72f3a66de0c18364",
+      "url": "https://files.pythonhosted.org/packages/7c/0a/fee6355215c455ba544e83d6986360461e8c46bbf51445f0cc29af66ebbc/cloudify-plugins-common-3.0.tar.gz"
+    },
+    "3.1": {
+      "sha256": "9e3d09a9f2bcbe8d0e8512b6d80e3a766ace44c8ad331ea775f0e05e6ca19476",
+      "url": "https://files.pythonhosted.org/packages/a8/c2/447bae34caf865062a481a0e94e4a1095c8dc167ac8c25a16c3807345230/cloudify-plugins-common-3.1.tar.gz"
+    },
+    "3.1rc2": {
+      "sha256": "618d7b8bb2d0d2cf338df871c22504993147c1fa097ccb2281110d85e5e011b2",
+      "url": "https://files.pythonhosted.org/packages/df/f1/6cf7f8fcab006efac6aa8c81264879bbd4f5cbbf63f5c705cc1d45f102df/cloudify-plugins-common-3.1rc2.tar.gz"
+    },
+    "3.2": {
+      "sha256": "b258368c0e946ff4d927f37c5bc9bbff435aab1fee4c6e798b0a9f4087aaf063",
+      "url": "https://files.pythonhosted.org/packages/12/df/f9c5d23a7a03a808ad9d41295732365b4e4526de41a242850a63e4606b32/cloudify-plugins-common-3.2.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "08d153ef89846b8214cc7dbaa4b66c7a2109937d992a8045a68df15f0f39afe4",
+      "url": "https://files.pythonhosted.org/packages/dd/de/16ef5592468fe94028d95ac6907c8b53c541a01eadce81c16f4d0d2c2b6a/cloudify-plugins-common-3.2.1.tar.gz"
+    },
+    "3.2a1": {
+      "sha256": "9dcd636d853025497ea49a1022713776c8ea1c5d05c251ed60562bd8add654aa",
+      "url": "https://files.pythonhosted.org/packages/c5/38/6adfd83454db5fff63c50211ff072c943a3e3a691253814c9c88d0f538f5/cloudify-plugins-common-3.2a1.tar.gz"
+    },
+    "3.2a2": {
+      "sha256": "f1eaa16bd3f80369c0b92e28b9058d518b1a1d2097df4e29a4c8f1ff32b8e511",
+      "url": "https://files.pythonhosted.org/packages/2d/d8/56223583a5db2107072bf1899eef1de5226f14d1c1fa124b12f9f2fe2eca/cloudify-plugins-common-3.2a2.tar.gz"
+    },
+    "3.2a3": {
+      "sha256": "12b3e41b0a5bacc4684aa3e30776c199cc5864e3c66a44d753f41aadbbc771cb",
+      "url": "https://files.pythonhosted.org/packages/b7/92/029c9b55f35d36e3d09c01e9e4f42e7a7b5ac5b5971e5805390529b67a45/cloudify-plugins-common-3.2a3.tar.gz"
+    },
+    "3.2a4": {
+      "sha256": "5960cb0dcb5072a6a4d508af6f805a11ebc49ba9838ceabf51f8288acd2e8f93",
+      "url": "https://files.pythonhosted.org/packages/e3/78/e641ba9bb895669f9f7cf250ad43b9f6e032b6d3dabf8dfddb8676149988/cloudify-plugins-common-3.2a4.tar.gz"
+    },
+    "3.2a5": {
+      "sha256": "2b06f298b032489bb63505247d37599aa481ef91e4a89fe44644daedd2a6a298",
+      "url": "https://files.pythonhosted.org/packages/f7/5a/1f4954b3f4b16d730c2f762e5c0317d3a2d067c508c0dacd1148304149e8/cloudify-plugins-common-3.2a5.tar.gz"
+    },
+    "3.2a6": {
+      "sha256": "47762ee2c8510a29a938b2d639dc70310ea002dc1f3b76d28f3c69dff590badd",
+      "url": "https://files.pythonhosted.org/packages/1c/e6/198aa2de5f729a6e5003863671a0951c4146288f3363fd10e2e57037af0a/cloudify-plugins-common-3.2a6.tar.gz"
+    },
+    "3.2a7": {
+      "sha256": "da31d076e40f98ef1af7d1dfa88e02df45411d34b35f0a4a655f7f29113fbd07",
+      "url": "https://files.pythonhosted.org/packages/d5/c2/576dbbd2aca2c61bb55c81459d0aa8639374b740124ffdd5e59c49299256/cloudify-plugins-common-3.2a7.tar.gz"
+    },
+    "3.2a8": {
+      "sha256": "543ac945f1cdb824544a875e6f793e5db312db3f493fe3a8590055209f1d6ae6",
+      "url": "https://files.pythonhosted.org/packages/ea/92/26c43441aba40e27f1a3c87b693441d79f720235575ae8256d0f62b01193/cloudify-plugins-common-3.2a8.tar.gz"
+    },
+    "3.2rc1": {
+      "sha256": "20b6f729e1e4f765a5d0bad53bdc2e9da60cd334ead5ae1ec58355e7b4ec9393",
+      "url": "https://files.pythonhosted.org/packages/4f/a2/076004eae17e509209e87a15693a69c11bb8df01321e2f43cae7f0472006/cloudify-plugins-common-3.2rc1.tar.gz"
+    },
+    "3.3": {
+      "sha256": "249165e37772ecc1dbd165d92c6e497a508e51a44c78bc840b2d98aeaa3650d8",
+      "url": "https://files.pythonhosted.org/packages/41/53/27c87a3cfb38ce71ce951cdce8b07289c3fb15c328596266b20cc665cd5d/cloudify-plugins-common-3.3.tar.gz"
+    },
+    "3.3.1": {
+      "sha256": "879ca4d66e5c329b63d9d97bd4491342f4856592cab5f8e29457c115b6693e38",
+      "url": "https://files.pythonhosted.org/packages/2e/bb/631a601d41c2d92d4a464fdb5922021708b52b4c6095ad9cdff43c8538e4/cloudify-plugins-common-3.3.1.tar.gz"
+    },
+    "3.3a1": {
+      "sha256": "7a066bb58216373e27029c657804549c78f4a2ba28d35a50d758594b7b9276e6",
+      "url": "https://files.pythonhosted.org/packages/0d/e1/94beb7fa9802554276fefb4586b3f79882d417bdc0c01e49f1873af21fb8/cloudify-plugins-common-3.3a1.tar.gz"
+    },
+    "3.3a2": {
+      "sha256": "8c198fb33d122de7fa7fe6be04be703a8172bfdf7602c1ae58fda38ab6b93b54",
+      "url": "https://files.pythonhosted.org/packages/2b/43/9f35a97b390c196beeda89d5b651a76f01a9b85eb010cf8ef774be0eab77/cloudify-plugins-common-3.3a2.tar.gz"
+    },
+    "3.3a4": {
+      "sha256": "4a2250c75dbeb894c86aed9703b4010b4b51dcebb5b05ece48079fe744983388",
+      "url": "https://files.pythonhosted.org/packages/bd/fe/98fb235bfc703745d6b73d7e769f404f993c5e8e38a9d29f0287031ed331/cloudify-plugins-common-3.3a4.tar.gz"
+    },
+    "3.3a5": {
+      "sha256": "4a6cf7dc4a2448ae9c7bfe6dea3d65dea006dcd14a703f4462009616f34c8b63",
+      "url": "https://files.pythonhosted.org/packages/f2/92/9cb6607a9c4a981123f6f825bfddba8c4f4b93fb7fbdb022ee70281e0d0d/cloudify-plugins-common-3.3a5.tar.gz"
+    },
+    "3.3a6": {
+      "sha256": "7e65222a8b86551a4c36b75e6be7af652c5b02fff913131c683e07b66ea06cb2",
+      "url": "https://files.pythonhosted.org/packages/5f/13/eb86f2694a979f249eb6450e89075d7b0a05ad3a444f734f40d5976fc4f3/cloudify-plugins-common-3.3a6.tar.gz"
+    },
+    "3.3a7": {
+      "sha256": "e7cabd9a9b8b14cc57a1d6b6ca5c8d1a89efbd57e8d1d0d13c9819d87ab7f8b4",
+      "url": "https://files.pythonhosted.org/packages/f1/80/60e6b9550bb3c7600cde2f51b7a1885666575ca1aa9713241893b1b4625a/cloudify-plugins-common-3.3a7.tar.gz"
+    },
+    "3.3rc1": {
+      "sha256": "017c8534ed3cee5f0f724b835645714514552ff1f04f3527646b09a2b1b4a7c1",
+      "url": "https://files.pythonhosted.org/packages/b4/af/d604a964e53a62ad3a53f88acc73cbf777b566033fa27198688338d581b9/cloudify-plugins-common-3.3rc1.tar.gz"
+    },
+    "3.4a1": {
+      "sha256": "cfe1bc3254f2b3a419a8b77aac079c8d57e8b48f0bd3bc3d19d2643809deebc3",
+      "url": "https://files.pythonhosted.org/packages/35/6a/fcdf620c49a92c8b5ad156e184ec0132e1b06df0ea1a9c5344f64308e609/cloudify-plugins-common-3.4a1.tar.gz"
+    },
+    "3.4a2": {
+      "sha256": "7b0bcdd88a43db2b092a2c303bb940e7ff4b2e2d4a643bf9b23afc2d4b6cbf01",
+      "url": "https://files.pythonhosted.org/packages/08/39/2aeee094d19133298334b90bd8e1226791f45d60df19c108f6b2a919a281/cloudify-plugins-common-3.4a2.tar.gz"
+    },
+    "3.4a3": {
+      "sha256": "6b40af9b6f75a419927ecdaafafaf4b1d03a063ebc79d580fad45d14875f5354",
+      "url": "https://files.pythonhosted.org/packages/24/bb/ea2ae3547a27eed2cdfea6be5c79198c39fab2bff4a3ff3910624eeb20f9/cloudify-plugins-common-3.4a3.tar.gz"
+    },
+    "3.4a4": {
+      "sha256": "f1681cc8f06f49576b19bd8acaa461d6c71aea1002b58c5a6757b139f3f6b513",
+      "url": "https://files.pythonhosted.org/packages/05/88/5f70b1ca7a0945cf3171722d1b69c07042d3f0fe2bed750b0ab5d6c52c39/cloudify-plugins-common-3.4a4.tar.gz"
+    },
+    "3.4a5": {
+      "sha256": "fb2697feb0101cfa3dcc6ee81272bd021da29cdb0dbffa4ae94fd7493db6d570",
+      "url": "https://files.pythonhosted.org/packages/7b/da/6f7585bd119d3007eb4884cf0aedc7eaf4a3713ca7df47fc1af7f00c64d9/cloudify-plugins-common-3.4a5.tar.gz"
+    },
+    "3.4rc1": {
+      "sha256": "94c0e20ba681c652614ee88d0c4b4ba9f0d9ed3e649d3114c78c2f5017bff4dc",
+      "url": "https://files.pythonhosted.org/packages/c2/dd/ba6f9088688eabeffdb54b4c97ae93ef0b9a6ee0f2c1b5a24e151abe22c2/cloudify-plugins-common-3.4rc1.tar.gz"
+    }
+  }
+}

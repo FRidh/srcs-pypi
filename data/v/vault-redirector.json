@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Python/Twisted application to redirect Hashicorp Vault client requests to the active node in a HA cluster",
+    "homepage": "https://github.com/manheim/vault-redirector-twisted",
+    "license": ""
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "6f161a25653845807bcd8f1ae06cd7e8f831938e47cc2b6b9cbaeb23e145d5e2",
+      "url": "https://files.pythonhosted.org/packages/16/8e/d1e9120ccd5f7b5f17bf3022dedcc17313212388e170c5027c38f228e5ce/vault-redirector-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "552b05c7886a57e76b652ba3efaa60f209ecaedf5ff716cb8f7eacb2301d23fa",
+      "url": "https://files.pythonhosted.org/packages/36/8e/64612837b0b912cf6c229f815f55d45e6ccf09a915c5a3010016be0fb92f/vault-redirector-0.1.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "7591cf078b2cfa9446a338dd1604605d86daf0014da30aae6d90d648b47cbea1",
+      "url": "https://files.pythonhosted.org/packages/49/fb/00c00fe069eec9f6e80eb902ecb8608670f34f1baa8a9aecc29c0309d218/vault-redirector-0.2.0.tar.gz"
+    }
+  }
+}

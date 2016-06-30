@@ -1,0 +1,76 @@
+{
+  "latest_version": [
+    "1.3.3"
+  ],
+  "meta": {
+    "description": "A set of utilities for multiprocessing using\nzeromq. Includes process creation and management, output\nredirection, message passing, inter-process locks, logging,\nand a process-tree-wide event system",
+    "homepage": "https://bitbucket.org/cbillington/zprocess/",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "28cd4b84d64b0d3b1fde3c0847f5dee7357c49f0147df182b86482acb550351e",
+      "url": "https://files.pythonhosted.org/packages/af/b4/dfa1edf9818287adeeaf0ffb7bf471cf631ad532073281e37d456f38e177/zprocess-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "2ceca52f27705bc5aede07261a906146d7e04f29ea9ac8b97a597907ef4e551a",
+      "url": "https://files.pythonhosted.org/packages/c9/11/195281c71987c3bc0106375e6f4009ea0e3a8a1636f678061b308e992edf/zprocess-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "1ed383496ba4487c543f59579791c31a5f55d48fea16cefdd3dad88a6f54ef0d",
+      "url": "https://files.pythonhosted.org/packages/88/55/fe094bd210ff04192517fa3653b15892bf54412b72f9f4a93eb819834f6e/zprocess-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "5de854ce658728ea0860a63d15a6bb56e0b96abcc712c22717f548bf45b3336e",
+      "url": "https://files.pythonhosted.org/packages/61/c3/a1e8d5273ae1dc15e0feb8c99c445043846762a6238226e5f87a45e6ce50/zprocess-1.1.2.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "087afdfc2afe89c99f26eeb35b2edb667d6f83fa0cd6fd116043d5bfbe0a6ea0",
+      "url": "https://files.pythonhosted.org/packages/4c/2d/fe95636ac99541a1929213be95775f20441786a0b0f663c99d148ac65579/zprocess-1.1.3.tar.gz"
+    },
+    "1.1.3-dev": {
+      "sha256": "c127bb7ade3f7a79285d70081283f4e60c7cc60bba101412307feb78020bfe31",
+      "url": "https://files.pythonhosted.org/packages/10/fb/e6c491415bb91c02cb36f79fd3065c82c18d5a2ec479f4656c4732c688e4/zprocess-1.1.3-dev.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "c16f56f7dbf3c14d0f8a9e5e296857d01f9bbb0d48af250f4aa5e59a2713c99d",
+      "url": "https://files.pythonhosted.org/packages/c8/95/ae94402c8f52ebe66bb25489c9811cd07c6c39eeff3815f591c1ef5557fb/zprocess-1.1.4.tar.gz"
+    },
+    "1.1.5": {
+      "sha256": "6386e68f837b0380aef4142740da31c0e55dc4f3a64faa14b05add8c21bf78b4",
+      "url": "https://files.pythonhosted.org/packages/dc/88/1dfa5b74ead2b70d78ea2dec1e65da73f073a4dad61678e3a605571e6c11/zprocess-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "75c19c4775e59f3bc4cbb294f4857088f4a4d1a52aa707b55adf1a4cd0313cd4",
+      "url": "https://files.pythonhosted.org/packages/3f/1e/a520e288c2f26172f6e815534d3967c1a974a98d5ad51e3b2526596a3238/zprocess-1.1.6.tar.gz"
+    },
+    "1.1.7": {
+      "sha256": "378cb8959af81f0854f2d152036c94079986a21f00c5886f3fbc625332305dc3",
+      "url": "https://files.pythonhosted.org/packages/8a/13/57385b65b28a5263ee0a8f06a04e32eeea2f56523420507b3ca4baa56d48/zprocess-1.1.7.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "17db9b14bdbde8d99b0255697067eaa4a75c7945c2f529388aad55f9c5fbfbcd",
+      "url": "https://files.pythonhosted.org/packages/0a/9f/bbee5a6df7b114a26e502a45d88fbe293d465028e108fce9b514de00af09/zprocess-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "6e0ef742774f16971ad74d2ccd8a72a55deca65d9d6064708d58c34190146223",
+      "url": "https://files.pythonhosted.org/packages/c3/5f/7a34f2781ebbcb3a4cb07721e167ff593ba37868f09f3c25af5064f059c6/zprocess-1.2.1.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "5b036383cc0b5cc96b52870f46f219b1a64c86a39ab69c53960281a99c0ee41e",
+      "url": "https://files.pythonhosted.org/packages/d1/05/f909f1f34b1cbf3fde267d69d6ec8a0c5a61eb9c046b683812f57464cef4/zprocess-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "727f4e84011c1645535f669ffad3284e6ec4105e447c3e140cf5bab01285b3e3",
+      "url": "https://files.pythonhosted.org/packages/f4/08/3a599e9357c9b9e4bdf3c13293d45c702e10ba55f02c6c20f4ca156e245c/zprocess-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "10628332b71f4be3477eb3461cc117b1aabb65cc56e3b628a1cd24359ca621e3",
+      "url": "https://files.pythonhosted.org/packages/41/8f/f5a2425fd862d277bee1fe61617b35b27cf694d62ef0e41fb34787514301/zprocess-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "09b6a18b013820b9eac13b824be923d7b4944b7d40af09f829da9c5e3926bda0",
+      "url": "https://files.pythonhosted.org/packages/28/25/567623a433295ed155a7cd30e6fc8fd38bae2dbed2c0ea60cd8202a74c2e/zprocess-1.3.3.tar.gz"
+    }
+  }
+}

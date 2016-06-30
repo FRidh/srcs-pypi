@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "1.12"
+  ],
+  "meta": {
+    "description": "Python wrappers to WCSLIB",
+    "homepage": "http://www.stsci.edu/resources/software_hardware/pyraf/stsci_python"
+  },
+  "versions": {
+    "1.10-4.7": {
+      "sha256": "1475307ef163574fee3316de78b128d4732ebd486fb7bfccdb31a14ca6567cec",
+      "url": "https://files.pythonhosted.org/packages/f5/40/fce479ea1e3daf75632f7cd389c6ec1887c3c39ab8b123e9bfb828568eb8/pywcs-1.10-4.7.tar.gz"
+    },
+    "1.10.2": {
+      "sha256": "55caac7616a433454e05fc85015aeae74760f4b2af265773f81679d9109c573f",
+      "url": "https://files.pythonhosted.org/packages/99/a6/060978807aae28254da04ef8918e466586143ea6f486d16b19959bbca462/pywcs-1.10.2.tar.gz"
+    },
+    "1.12": {
+      "sha256": "fcd4a2ac9db4d1be6fe108f8d3bf2f0f1d6087e2dfa593ec112a6e207acbc1f4",
+      "url": "https://files.pythonhosted.org/packages/63/a6/7b510ed55c68384731caa2411faf8dfed47b05cb46d9b1b4ba99e3b06587/pywcs-1.12.tar.gz"
+    }
+  }
+}

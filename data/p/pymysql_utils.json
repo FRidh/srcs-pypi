@@ -1,0 +1,136 @@
+{
+  "latest_version": [
+    "0.51"
+  ],
+  "meta": {
+    "description": "Thin wrapper around pymysql. Provides Python iterator for queries. Abstracts away cursor",
+    "homepage": "https://github.com/paepcke/pymysql_utils",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "0b03ea97b4ae4d4f71a58664f71564a99224a802fc3aba4da2639d669c31725e",
+      "url": "https://files.pythonhosted.org/packages/65/4c/0d230dce52997b32389474cd19e51aa064059bf776d44c697e12abd48054/pymysql_utils-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "1e0ed5aee6d5219eee7828690db4e9b161a4c428b649600a4ce96e0729c78529",
+      "url": "https://files.pythonhosted.org/packages/3f/fb/3018a20c15dd6bbbe67e7e170fa0d46a6576744c8505fa1bccfa4981091a/pymysql_utils-0.2.linux-x86_64.tar.gz"
+    },
+    "0.21": {
+      "sha256": "f100c79a956be9f1be7f25d368e3c19f67c0fa551d6b76770955dbe423788956",
+      "url": "https://files.pythonhosted.org/packages/ce/b3/ccf0a88bf8314b87179495ad8f67679fc4542949f361f3cc263a48f4e82d/pymysql_utils-0.21.tar.gz"
+    },
+    "0.22": {
+      "sha256": "5b3c7cb860a6672f1b86bd205666486c08c53b254bb201739dad9050d2a8fb97",
+      "url": "https://files.pythonhosted.org/packages/7a/c4/ed842d0d6fdbded9c68060e87596d98733e5f76e170dd9f0d6c53ffd69cf/pymysql_utils-0.22.tar.gz"
+    },
+    "0.23": {
+      "sha256": "5d446b7af013ec17fa68f94b2c71930cdba23f0aec4e2dcb68dd6bb8248ad248",
+      "url": "https://files.pythonhosted.org/packages/8c/6d/f1e469aeb281fd4a1cd86bf23b47f8e7a253864339a427b541dcdefcac26/pymysql_utils-0.23.tar.gz"
+    },
+    "0.24": {
+      "sha256": "a672cf309f2714234a5ef192bb4b34e69ce969bba5eb1e2aca524611be892a43",
+      "url": "https://files.pythonhosted.org/packages/00/c4/2d5fdec9651b83c19ec07039da1d18bd6cc2d22be41f0a2c4a52a677d816/pymysql_utils-0.24.tar.gz"
+    },
+    "0.25": {
+      "sha256": "a1bf94058d9b1d69f7f84d86901edd7862d067c66b4887fa84c882f5cc8eac8e",
+      "url": "https://files.pythonhosted.org/packages/dc/9c/97cf8ea741b8c6eeabe69d642a66390c603a774db74c3ea1fa9468cf1541/pymysql_utils-0.25.tar.gz"
+    },
+    "0.26": {
+      "sha256": "2ea9f0ab367645e31d73d95079a4297b0ceccef79c6106c03c6b0b0fb4ab371c",
+      "url": "https://files.pythonhosted.org/packages/51/64/29ccd7fe61983e52dafe88cdf8f14145f9af12f54b2665829bed6c28ca59/pymysql_utils-0.26.tar.gz"
+    },
+    "0.27": {
+      "sha256": "cd646253553d800d57c2ae27ddbd6d4672e73e392aa08c3613cc8af49a2e383b",
+      "url": "https://files.pythonhosted.org/packages/e4/ad/053425774d9ce82b3b501735c2039bb61c360a0d7e0e8d36b8b1d502392e/pymysql_utils-0.27.tar.gz"
+    },
+    "0.28": {
+      "sha256": "71fdac6ac1fd8503eb4c871c61d7a1afc039c69819f8f211dfd8e069ed8ec32e",
+      "url": "https://files.pythonhosted.org/packages/6a/ba/56f6c4648caf31d29ea31a537cf2a3eb1e3df5028fbb1baec1b363d1e60f/pymysql_utils-0.28.tar.gz"
+    },
+    "0.29": {
+      "sha256": "b480e17281958b17571ff288b77aac1f91b2bb39a7847a9afc2181261e94d12f",
+      "url": "https://files.pythonhosted.org/packages/8d/2e/22263097b32ee67a387af82e8b9b2a3aeb9410d377bf3c6181c740224ed9/pymysql_utils-0.29.tar.gz"
+    },
+    "0.30": {
+      "sha256": "9beeeffd402f959aa8a0e39e284c3f10a679d29362d76e65cb3bde493d5fe260",
+      "url": "https://files.pythonhosted.org/packages/57/47/f10dfb0893e38720193ce8dd974b90e2831e31e8cab80801e2e349b5fd4c/pymysql_utils-0.30.tar.gz"
+    },
+    "0.31": {
+      "sha256": "1176d181e2c6af9ea482d9a96e67ce409403a2af676f9fe162e01a3bcc7a5b83",
+      "url": "https://files.pythonhosted.org/packages/5d/f3/48521857c423709adddb49d6a8b5b18499786c29a3ac299a4c43f6245edf/pymysql_utils-0.31.tar.gz"
+    },
+    "0.32": {
+      "sha256": "cd5186e6743b256bce9d09184ed4fb97463be7c5ff799ab7114869cabc63c6d4",
+      "url": "https://files.pythonhosted.org/packages/67/86/7d539fb3a3a22a8522adf249d2b3164d790f3170b6f0951d98cb8ffe439f/pymysql_utils-0.32.tar.gz"
+    },
+    "0.33": {
+      "sha256": "ca3d4936393a42e21e892316d1aaf673385c01c3117c6ab1e246637e2d118111",
+      "url": "https://files.pythonhosted.org/packages/b1/c7/e60a8c42d0c31d074e747329a6d2473ba2ea7a333631912cc97c90bf7790/pymysql_utils-0.33.tar.gz"
+    },
+    "0.34": {
+      "sha256": "5c53e816cca50cc68613cc29924229b72a5cc5372e767f02c5ceb60a08d87ba2",
+      "url": "https://files.pythonhosted.org/packages/e5/23/f5155c96adfa156fa5865d63f3102a73727556c8b9935b333d2d3d0d1890/pymysql_utils-0.34.tar.gz"
+    },
+    "0.35": {
+      "sha256": "ced7330ff163bf6658037fd17b5d2f9c1e89c5925c555b72f3cc4d4387ad4115",
+      "url": "https://files.pythonhosted.org/packages/89/05/84c8f5d5f717c003bdb12b83bd981a122b7dc48fd017cddad052b942f4e4/pymysql_utils-0.35.tar.gz"
+    },
+    "0.36": {
+      "sha256": "1ab9d7f746f08d793a4bb1f26f66354e6fb2f9d96d589fad5885efc36ace4e20",
+      "url": "https://files.pythonhosted.org/packages/b6/3d/bf1cd21c4d90b690b0a2792a7e0fea7a0db209d1279804748c9340656307/pymysql_utils-0.36.tar.gz"
+    },
+    "0.37": {
+      "sha256": "e9a21b3ea2fec4e3e6ec47a1bd03c3c8ceb75fa2e101064bbf014bcabfc7291d",
+      "url": "https://files.pythonhosted.org/packages/f9/ed/9a43ed4591f9d0de507614b78c0cbceaa60f74382242918f9795656794e5/pymysql_utils-0.37.tar.gz"
+    },
+    "0.38": {
+      "sha256": "d952ae9f9b274c10050028f33186c39b83cc29a0d1031bbe5606f8786769b111",
+      "url": "https://files.pythonhosted.org/packages/02/49/3e4cb35261728992d04acad9e948742cfb3dd9f7b45427090c0eec3bd614/pymysql_utils-0.38.tar.gz"
+    },
+    "0.39": {
+      "sha256": "f8e3a124b964331d3b88dfcfec89c00d8b0b98d67267e7b7180d6dfdef7f8fa6",
+      "url": "https://files.pythonhosted.org/packages/95/e9/06bb5dae090bf180742af55c3eebad0638472309f5446fec2375cce5af18/pymysql_utils-0.39.tar.gz"
+    },
+    "0.40": {
+      "sha256": "6f33db19970f16f4c78208852746ec5219c8dd90019bcf9e8d3f1684b939b5d6",
+      "url": "https://files.pythonhosted.org/packages/b3/36/b59305f63f120ae22723de37bd00435241e17e788324042e26149bde87fc/pymysql_utils-0.40.tar.gz"
+    },
+    "0.41": {
+      "sha256": "bc3e96499cb10fb9a801770d0a1831384c2ecdce5ab2e5ec737a71086760099e",
+      "url": "https://files.pythonhosted.org/packages/cc/47/3168fe666d81d04d7cc5e2f0d923ad1c8766dc8b32b449dd44b2eec312ab/pymysql_utils-0.41.tar.gz"
+    },
+    "0.42": {
+      "sha256": "aaef86314b867b480a005e741bc14692214575f34496360a8f8d9dbbca2461f9",
+      "url": "https://files.pythonhosted.org/packages/ea/30/dfdeef9330137efcf62efbaff065db4e388acbe3fd6396bb2e4aa9d66f55/pymysql_utils-0.42.tar.gz"
+    },
+    "0.44": {
+      "sha256": "4c80958f2d107de30c0bd40a539b6fb24cd729576a1c13ebbc49ea305303a625",
+      "url": "https://files.pythonhosted.org/packages/26/ea/8e6a5590e419acf0f0b3947b06c40ca112e307eeec7a52797960be171daf/pymysql_utils-0.44.tar.gz"
+    },
+    "0.45": {
+      "sha256": "3c5d270f3d867b2cd66b8b879b7679b81ffc8799f2cc0e033531ff100b9e3842",
+      "url": "https://files.pythonhosted.org/packages/9b/f4/7c0c76e4b52229c68aa1485dc40ac913203768dbc20562ab0de6e5d64ace/pymysql_utils-0.45.tar.gz"
+    },
+    "0.46": {
+      "sha256": "3c5a46e4532a85912c5ce786dd5a1d76a9bb62077801f084c72152415e219e53",
+      "url": "https://files.pythonhosted.org/packages/4c/32/75ca355ac7237d5e470d46160c47ee97e2468c921f16b4cba4633ed163ef/pymysql_utils-0.46.linux-x86_64.tar.gz"
+    },
+    "0.47": {
+      "sha256": "eb2fe6e1415c550b42144f5daca370d4dfb2b79cde0f2a173dfec22c49066d25",
+      "url": "https://files.pythonhosted.org/packages/0c/79/a702c9b7c813767106aa5ac8102a2a5aa587000015cc4fb08345b3926808/pymysql_utils-0.47.tar.gz"
+    },
+    "0.48": {
+      "sha256": "5b970b2c9eff971ff16d30c8055ae99a459bc835c414e9cd8422b8bb68faebc0",
+      "url": "https://files.pythonhosted.org/packages/76/89/a5161dca8ac8787e2ca470adc9ac1ec4a1b8d7c9f561a7c441100f783825/pymysql_utils-0.48.tar.gz"
+    },
+    "0.49": {
+      "sha256": "5ec9c67a70125592425331e8f4894deb4e6d6a60977f7243f725dc6e424b6e87",
+      "url": "https://files.pythonhosted.org/packages/c6/f4/e3d287f0a7a2f3913b62a0a39ce046c0c4be83141ddb0c4ee26974ea39b3/pymysql_utils-0.49.tar.gz"
+    },
+    "0.51": {
+      "sha256": "4a0f4248e0292bd07e686307bfdbf5eda33ab238148b519c8162582edcf2393e",
+      "url": "https://files.pythonhosted.org/packages/a8/8c/55a56eeb9e400b671d6b317980e97a3a3a45e580bf4a66003cace7fb266b/pymysql_utils-0.51.tar.gz"
+    }
+  }
+}

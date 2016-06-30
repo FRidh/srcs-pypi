@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "XML bomb protection with modified expat parser",
+    "homepage": "https://bitbucket.org/tiran/defusedexpat",
+    "license": "PSFL"
+  },
+  "versions": {
+    "0.3": {
+      "sha256": "0ecc7f343192fe461aa479f0ffbd5628aecf9e3bdc7df4335aa2b1f2f6ee8e07",
+      "url": "https://files.pythonhosted.org/packages/b5/a5/b6849a0ddf44711693b78fe3e08b69ddf4489a33b3869c272fcf2ed1a085/defusedexpat-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "43622e7fc95a55049a1b755d421cd1ef05e854609db0313cd826a3b873a6debd",
+      "url": "https://files.pythonhosted.org/packages/c1/6b/5885b434e95ebfa35b7c4fa48019c8c676f7475e01074da84e0840e521df/defusedexpat-0.4.tar.gz"
+    }
+  }
+}

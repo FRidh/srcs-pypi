@@ -1,0 +1,84 @@
+{
+  "latest_version": [
+    "0.8.4"
+  ],
+  "meta": {
+    "description": "Easier test setup for Zope 3 projects and other Python packages",
+    "homepage": "http://pypi.python.org/pypi/z3c.testsetup",
+    "license": "ZPL 2.1"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "f4ad0fd654769e585c3fdfe5f7ec5467ea86aee26ade0f5a63da1452f5db3a5a",
+      "url": "https://files.pythonhosted.org/packages/51/2b/57ca43ad08ab61ebc349247d306e25efff6ec2972b50ed520ae14f597b85/z3c.testsetup-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "74b54ced20f2356bdddb4310dbc284d8bfee375cdde87686a975ee6f7e3cfa98",
+      "url": "https://files.pythonhosted.org/packages/74/4b/b729c9107b6550e340d2497a60323f81cfed8281bed8a4749b32809215bc/z3c.testsetup-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "dce27d88f60fbc2e8d1810423434d2329bf142a09908c553c23952bd728d156f",
+      "url": "https://files.pythonhosted.org/packages/5b/11/742fbde1186ac69cca72e4f6830c7f642941785c2707e02ed9230cbdd941/z3c.testsetup-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "9e71fc4a5bcd13fdab6bfdaeec2fb92aa09114d63253f342856e35467d15f1f5",
+      "url": "https://files.pythonhosted.org/packages/6e/5c/b192acf23fd868dda893a9055e63839f50edd75a562177ed9cc6af897904/z3c.testsetup-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "7197e1c1149d2dad0df482abcb701dc4059ef814813976a28ede05d0b5b4c879",
+      "url": "https://files.pythonhosted.org/packages/b6/d7/7d5b24dd50c158709a6f1b9f4ac0c08c5d1a303143e150ab93d3806db3e9/z3c.testsetup-0.2.3.tar.gz"
+    },
+    "0.2.3dev-r84450": {
+      "sha256": "4ba9654c6f50ecf863980cdea36fc512805623b676b8ac454a5c9d80fb2d7afb",
+      "url": "https://files.pythonhosted.org/packages/9e/61/916ae3b59e048ca18dde5824d384f631e0fa1fd5986d57dd201260549773/z3c.testsetup-0.2.3dev-r84450.tar.gz"
+    },
+    "0.3": {
+      "sha256": "b806ef66c905f0bd11556780f7b28f637db632988592898c02a98e155f737b12",
+      "url": "https://files.pythonhosted.org/packages/77/08/9445fe9aef65d22cd4f31c8e113e8ce1566aa87418c5d2925abd49647fb6/z3c.testsetup-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "41fa895d6592a94b00def7e2ac02f7768095e321b02982ff9737b7fd7deca372",
+      "url": "https://files.pythonhosted.org/packages/1a/e0/18c3d56dc8659f3e078b670c7ab14e6b1c5bb0601d6922b0bb7cc2e8f129/z3c.testsetup-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "aed855185ec362b1023e2d7b1e1ec2841cffc9b537c739f5f8defa8b2bf74ec8",
+      "url": "https://files.pythonhosted.org/packages/fe/f1/dc0d0526a8c62819194c90052f1d9cb548cb1aaf4ab1acf772358dbc9244/z3c.testsetup-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "129d5d11f8455a39286f530ee678b2c5f27d53bb73e848599df6531b6e938d29",
+      "url": "https://files.pythonhosted.org/packages/48/80/05aa9e43ddc3bdc52dc1754b3aedff0ff78c7f6f9edbcb57e9e0c2409953/z3c.testsetup-0.5.1.tar.gz"
+    },
+    "0.6": {
+      "sha256": "31db3165e8f212f9b70c412d0721ba8ed3b6efdd39afcc4990ad1c3b4b7ac246",
+      "url": "https://files.pythonhosted.org/packages/1b/ed/7c5b8b7d187b972522e920ca1898f502b627c353b595bc8e1458d6c6bc3f/z3c.testsetup-0.6.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "39c3de54ae442105141ed620c51b37400cec98c9bd174feab659ac8e7f1bb2d9",
+      "url": "https://files.pythonhosted.org/packages/96/d0/66c8517ae25fa43fe744e92aa768fcd1be29fc09ad1c76bee10ff2b1ee03/z3c.testsetup-0.6.1.tar.gz"
+    },
+    "0.7": {
+      "sha256": "b6068608447320f58a82e4c530fb0d2d54d4094baf0308c9cf41c5d1ebc5b752",
+      "url": "https://files.pythonhosted.org/packages/d1/77/82448762f1e4f4c2453fd6b9859a97deb8b27a11323497512f79545e678d/z3c.testsetup-0.7.tar.gz"
+    },
+    "0.8": {
+      "sha256": "9c0bfac979b83712104e5fe51b8487a4950c0f2f4e5d091eda6cc5ce8ff02f2b",
+      "url": "https://files.pythonhosted.org/packages/15/ae/7b90447422058122ec03fba14f44563337021ed67820cbd5a59c9c6df240/z3c.testsetup-0.8.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "82ea43e441af44dbcfbed0d683be3541d6a8c47183ed3cc5c52b199d4c8a7ba5",
+      "url": "https://files.pythonhosted.org/packages/01/56/aa9c21bf4e78b3b18f6aa5fd234e43451ae5c1411357ac6bd53b392e3647/z3c.testsetup-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "6108b6a2a6c13d5f5f13fee4e976233965dc6b3ced9770372adcf733c9c5fd7b",
+      "url": "https://files.pythonhosted.org/packages/22/b0/f3d924d3e11773ddb1714d6296b932407a8fac0204ffaf4b34f809cde64e/z3c.testsetup-0.8.2.tar.gz"
+    },
+    "0.8.3": {
+      "sha256": "83427f14593817d96b104599066b6179adaa96a68c3ae781fab2c0a61c954a86",
+      "url": "https://files.pythonhosted.org/packages/60/ec/6e2951eee958993e975485a679e955f0b67380cd4277d0565dc4de8d597f/z3c.testsetup-0.8.3.tar.gz"
+    },
+    "0.8.4": {
+      "sha256": "f44b09c7fea54dcd37661f8926dd59a987562e9eab999745be3377300cacf6fb",
+      "url": "https://files.pythonhosted.org/packages/5a/2c/b167ef93266400c778d8ecde6926f6799035441a67344d11eceb66681057/z3c.testsetup-0.8.4.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.35"
+  ],
+  "meta": {
+    "description": "Ultra fast JSON encoder and decoder for Python",
+    "homepage": "http://www.esn.me",
+    "license": "BSD License"
+  },
+  "versions": {
+    "1.34": {
+      "sha256": "96deb519ddf253b925ad177cc142f021133893c7c843b364ddd52bfa2ff8be87",
+      "url": "https://files.pythonhosted.org/packages/69/e2/779d99e624ae531218ec5443f7083eece1980dd72a1da6668851c3f8ffd2/ultrajson-1.34.tar.gz"
+    },
+    "1.35": {
+      "sha256": "316c94c0566896bdeaf0c620b797cfd734d265c8c7bb1af1915f0db191caf9f9",
+      "url": "https://files.pythonhosted.org/packages/82/bd/9c5868030ea2b335e26cfd536481d1ac1143af747cf9449a174717c53ed1/ultrajson-1.35.macosx-10.6-intel.tar.gz"
+    }
+  }
+}

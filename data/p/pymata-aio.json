@@ -1,0 +1,100 @@
+{
+  "latest_version": [
+    "2.13"
+  ],
+  "meta": {
+    "description": "A Python Protocol Abstraction Library For Arduino Firmata using Python asyncio",
+    "homepage": "https://github.com/MrYsLab/pymata-aio/wiki",
+    "license": "GNU General Public License v3 (GPLv3)"
+  },
+  "versions": {
+    "1.00": {
+      "sha256": "f6b54420883fdc41239255a567aac581c037e9e21b906cadafbbffaefff67223",
+      "url": "https://files.pythonhosted.org/packages/cc/c6/f5f8435b30a74fd0af29a96c7bd0e48df1e9802042222c2997c8c9385e7d/pymata-aio-1.00.tar.gz"
+    },
+    "1.1": {
+      "sha256": "ba12efd5e16b275aee851d0c5ef2c2d8bd6c83e20e46d3d44039d4722e009bbd",
+      "url": "https://files.pythonhosted.org/packages/9d/29/814165ab2fd3a48eb88e46cf5e4748eb88fa81bfa8a2c833df85e04ee210/pymata-aio-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "241f1bfbc31581728b0b1f7f40e558abca41e2b5519185cca4ebdf091f4882bd",
+      "url": "https://files.pythonhosted.org/packages/41/0d/a65c3bf24694014e3c95c4687cf56b4fc61df6e8445c0acbc85701b13dba/pymata-aio-1.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "aaf31de407f01e01d2c12ebb29044cb337fc34779d7c2c879e41d579b996b062",
+      "url": "https://files.pythonhosted.org/packages/71/17/e697b4f9882421450ccae83649b964b602e15817b91f8a34d286f53f2203/pymata-aio-1.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "38f8bbdb64b65183b9172f88d711168d30f48754a4b37eff76e4f38d7e240395",
+      "url": "https://files.pythonhosted.org/packages/26/7d/bfe67524761c0b67476f9cd40917f67b773d2c3e9e0681120baa32c9e89c/pymata-aio-1.4.tar.gz"
+    },
+    "1.5": {
+      "sha256": "b1cf406a7543b2b6c3d6acca549271d65062913eaad51de5b31b35813d95ede1",
+      "url": "https://files.pythonhosted.org/packages/c4/b5/9b375bbf0263842ba1ef442dead29181fbc3e8d3a7f5bf661757f584dfc7/pymata-aio-1.5.tar.gz"
+    },
+    "1.6": {
+      "sha256": "eb04cb96e8281ef16564187c9573f3c5bfaf20cb1f646d8ae45018b3415eedf5",
+      "url": "https://files.pythonhosted.org/packages/8e/9f/88bc45fd2d222e79ec4a8230242dc686200bf3c8f48f0f9213003c1c3f91/pymata-aio-1.6.tar.gz"
+    },
+    "1.7": {
+      "sha256": "fcc2b9dd0559a9841c38a231c2d5316410df96675f39f66a7d931e4e0c554d06",
+      "url": "https://files.pythonhosted.org/packages/82/cf/fea93c19b2c88b534370387bc91d8cc87768de5f9484bef6ae19e5030b2c/pymata-aio-1.7.tar.gz"
+    },
+    "1.8": {
+      "sha256": "d5df676dc42ef187d92319bbeb009c29646c252f8127a3a2fa1e1f389c7b075d",
+      "url": "https://files.pythonhosted.org/packages/50/d3/a1bafffa13120a62bc90b52d18d2b9164e238318ab5a536dcdbe45e19745/pymata-aio-1.8.tar.gz"
+    },
+    "1.9": {
+      "sha256": "763be5e546ed0ae866e6a6fe41026bc25b80a6a67ba22f059100f5f21515fbb4",
+      "url": "https://files.pythonhosted.org/packages/01/90/2b5221241b37e4310418bae505d711f8063750939ea4ed748ad674beee0b/pymata-aio-1.9.tar.gz"
+    },
+    "2.1": {
+      "sha256": "eaf024dd4bb493aff8a815e754e1abfb88587b98ca0279fdbbbb0e384c3db258",
+      "url": "https://files.pythonhosted.org/packages/3f/a5/783e15786e491ebdf8f1efe1790103fe0fccca7f507c313430d47d9a6188/pymata-aio-2.1.tar.gz"
+    },
+    "2.10": {
+      "sha256": "3e17115bb4d5fdc1fb867978b8e2a712c079e79aac7048253ee4f8bdeb1abf15",
+      "url": "https://files.pythonhosted.org/packages/39/1b/7f4f8c5b7b3a295fbea3ce0999858a27a6d8b556603638ab061f5a8e6a73/pymata-aio-2.10.tar.gz"
+    },
+    "2.11": {
+      "sha256": "178975f64aeb602c4433c6f966562a5021173e1db04e5a25c5a824cef3fdaa51",
+      "url": "https://files.pythonhosted.org/packages/be/98/389c2d99a91fc3c73c539f4047329fdaba15eda98f95bac2fd57dbc7ae8d/pymata-aio-2.11.tar.gz"
+    },
+    "2.12": {
+      "sha256": "8ecde7a4fec5314f828b342139a35c14e835effa406e220ce106161df7843d6e",
+      "url": "https://files.pythonhosted.org/packages/ca/2c/0c82b70d30733c6c9ced21d1126e749a6df2f4951fc41b5ebbc997669454/pymata-aio-2.12.tar.gz"
+    },
+    "2.13": {
+      "sha256": "2e797e03379f81fba2eeb4851b97520776b57f6bc90683808d5bc4e064b83862",
+      "url": "https://files.pythonhosted.org/packages/d6/e7/0463dec9011d09ec5ec52451e9e71bfb436e0e762731c71337e4f902e5f5/pymata-aio-2.13.tar.gz"
+    },
+    "2.2": {
+      "sha256": "f4c581fa0d3f3672d5e63b2584302ca44334ab453b9b8cf4ba1c53f38f8a6e99",
+      "url": "https://files.pythonhosted.org/packages/d4/61/60d068b3fc7fc197d835bdc91f85d92b2c8ffa2237d61ba9d99f94662fe7/pymata-aio-2.2.tar.gz"
+    },
+    "2.4": {
+      "sha256": "d08ac81de6877b2deb0bd82a09e2ec063669d6e7a2bf803f11cacfd6069ff428",
+      "url": "https://files.pythonhosted.org/packages/0d/62/e163233e3db64c62293d412d47519adf9499b4f404abd226b602a4508e2b/pymata-aio-2.4.tar.gz"
+    },
+    "2.5": {
+      "sha256": "005053f474f5e48d0648c6e6ca7220c96edb0530ef1e445a94f10f1c8c2d0cd2",
+      "url": "https://files.pythonhosted.org/packages/90/fa/6bb44a8b9d469a8eca8ddc959c475755a683845f492e149b98457cd67f81/pymata-aio-2.5.tar.gz"
+    },
+    "2.6": {
+      "sha256": "2118a0bf67de0292db2ac32116bdab6ebf580dade8766eea410df349496de616",
+      "url": "https://files.pythonhosted.org/packages/92/df/8fc555458e3ee73d5980a51de685db5c7a6f421e4cd114af3285ab692103/pymata-aio-2.6.tar.gz"
+    },
+    "2.7": {
+      "sha256": "b0c5f70f082c7e015c587a017942a63980dfbfe3cabd3bdd850b82c3aa4e05d7",
+      "url": "https://files.pythonhosted.org/packages/20/64/9d99b23b2723f492e82a365f0b538be9cde468961630b7b74f253f55be9a/pymata-aio-2.7.tar.gz"
+    },
+    "2.8": {
+      "sha256": "4a77f86bd734ddd7683b0c094d9318b6a3bf9b343d381e933377e3af77d2f278",
+      "url": "https://files.pythonhosted.org/packages/64/0e/ca5fbdd947725315f38a9daffb6ca1ea95c18c3b34a089d65f1f9fa9ae22/pymata-aio-2.8.tar.gz"
+    },
+    "2.9": {
+      "sha256": "704c212839431f16e9752c321356442d9cdf73eaf1f55598974b3bdf5b36a255",
+      "url": "https://files.pythonhosted.org/packages/3e/7d/408a27849cc04a2bdb9e97ca4cba036daf21958f7f4c6cf9f86ff1ce6a25/pymata-aio-2.9.tar.gz"
+    }
+  }
+}

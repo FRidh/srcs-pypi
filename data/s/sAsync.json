@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.9.1"
+  ],
+  "meta": {
+    "description": "SQLAlchemy done Asynchronously, with a convenient transacting database access broker and persistent dictionaries, and arrays",
+    "homepage": "http://edsuom.com/sAsync.html",
+    "license": "Apache License (2.0)"
+  },
+  "versions": {
+    "0.7": {
+      "sha256": "c49dd76a8a4a544f0c4ff6f8e58d7a290932179a94fc97500d252031f7ecee15",
+      "url": "https://files.pythonhosted.org/packages/6e/be/10d7a6e2a350a69e48a7204c3ed826e621432ba992b1e29281c7df63dbb6/sAsync-0.7.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "95a10f916f46eb3cdb17c16165f09333031376bf5b117963d969bd2f26ec8953",
+      "url": "https://files.pythonhosted.org/packages/ae/70/26faab3fa7cfe0f0b0284522ae2bd856d324d2e168d67c637b068eab5df4/sAsync-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "9f1a48ae880b445dc913dfe87688ab1387ad36cdd8d3f821336041937704cf99",
+      "url": "https://files.pythonhosted.org/packages/15/ad/c5698640e4189a61a08e3c4c414f102e0117d40efdbae63035bb7237f283/sAsync-0.8.2.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "19373eb95a7ad42f2705bb9b437de0e43fefaa312e2222bc6e9cdb3c559ea21d",
+      "url": "https://files.pythonhosted.org/packages/ce/44/09d2d57b072fa6b21d52e1a6f186751f53e2ab4508d8d26ef2cbf884bf33/sAsync-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "a5adc28a091874644ca0c541ef1c1bc5d4132d741ceb1c9557384d004e66a928",
+      "url": "https://files.pythonhosted.org/packages/d4/55/561f916d9d4a0ef1120d74da4e60703d18fbbc0f0ee5f3529fe8c3a445cb/sAsync-0.9.1.tar.gz"
+    }
+  }
+}

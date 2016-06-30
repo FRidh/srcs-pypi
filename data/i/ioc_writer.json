@@ -1,0 +1,19 @@
+{
+  "latest_version": [
+    "0.3.2"
+  ],
+  "meta": {
+    "description": "API providing a limited CRUD for manipulating OpenIOC formatted Indicators of Compromise",
+    "homepage": "http://www.github.com/mandiant/ioc_writer/"
+  },
+  "versions": {
+    "0.2.2": {
+      "sha256": "852d0a1242402cc99ac556e9d41c4b276ef02c6d77c396427094d4f85c4133c8",
+      "url": "https://files.pythonhosted.org/packages/27/12/d8d1d088251f23ec910627d6df2d23040a5b66a2e2f9f3150bc81fd92531/ioc_writer-0.2.2.zip"
+    },
+    "0.3.2": {
+      "sha256": "235e41c3c43ea50ff69968f8cb0fee4a1d93ca7bf8cc51fcb60bf32e0b0935b2",
+      "url": "https://files.pythonhosted.org/packages/e0/c5/8a2a0aaa0eaf4eb5b9a7d5b3a22424b62e18caf943f95267337aab32ca32/ioc_writer-0.3.2.tar.gz"
+    }
+  }
+}

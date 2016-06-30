@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2.9"
+  ],
+  "meta": {
+    "description": "Bindings for PortAudio v19, the cross-platform audio input/output stream library",
+    "homepage": "http://people.csail.mit.edu/hubert/pyaudio/",
+    "license": "MIT License"
+  },
+  "versions": {
+    "0.2.8": {
+      "sha256": "4f85367cf79657616684487037957ac38582ecc5389b89420fe61d901b719551",
+      "url": "https://files.pythonhosted.org/packages/06/d1/3d202c9187fb78ad6d4f8b476a8cc0ded7c1b47ca33d5dab73b959faf123/pyaudio-0.2.8.tar.gz"
+    },
+    "0.2.9": {
+      "sha256": "bfd694272b3d1efc51726d0c27650b3c3ba1345f7f8fdada7e86c9751ce0f2a1",
+      "url": "https://files.pythonhosted.org/packages/d0/dc/ffb9ce5e3f19bd289902915a9f68b7d199216065f8ea17d5b5e8e4ad86ee/PyAudio-0.2.9.tar.gz"
+    }
+  }
+}

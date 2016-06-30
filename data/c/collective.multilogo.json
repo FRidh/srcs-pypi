@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "A Plone extension package providing wiewlet with user defined multiple portal logos",
+    "homepage": "http://svn.plone.org/svn/collective/collective.multilogo",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "aa0b268fe846f7bcc49771840ca020bca74dc187cb9e2969aadcd198f5ef65b4",
+      "url": "https://files.pythonhosted.org/packages/cd/b0/1b15fe5befbfb16a1926c57c969286ecf171af67fa803d24a072fb4f2c68/collective.multilogo-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "56f084bdbd415a16391b3ec2deed4f7b73816785ac8a331401b0b36b7d4caa05",
+      "url": "https://files.pythonhosted.org/packages/1a/5c/a2c5f6e07fd51297de1ce5c4a2848b22d23b717366f3b2d9430ab64667f8/collective.multilogo-0.2.zip"
+    },
+    "0.2.1": {
+      "sha256": "7236104327ea61e1ad1f158cf8af2883974127bd404ff4705cca93112b81dacc",
+      "url": "https://files.pythonhosted.org/packages/bf/68/3ddfea619971a4c35fe1e4672020b17e99f0891f983fe4044db94863c806/collective.multilogo-0.2.1.zip"
+    }
+  }
+}

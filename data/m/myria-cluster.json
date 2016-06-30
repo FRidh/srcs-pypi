@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "0.1.2"
+  ],
+  "meta": {
+    "description": "CLI to deploy the Myria parallel database on Amazon EC2",
+    "homepage": "https://github.com/uwescience/myria-ec2-ansible/tarball/0.1.2",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "34789de084a8b35cee9ee749fd1195e28958fcd9ca0a60bcb1bcb7181d9ef2cb",
+      "url": "https://files.pythonhosted.org/packages/a5/74/c298b3b5ff6fe54f393241e870a8a74ab9cb24e165ce88d5999484383e40/myria-cluster-0.1.0.tar.gz"
+    },
+    "0.1.0.1": {
+      "sha256": "0c1649cfc42384c8d96971b344481ce4965fbfc47575816a888fe9eb4e70b596",
+      "url": "https://files.pythonhosted.org/packages/0a/08/bacf478b624c05abf4932ac2909cee21e7e535d6dc94711840cb5f113685/myria-cluster-0.1.0.1.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "ce6d4fd9f129d8d3d4887db0d863ae19f3db3af65962e8525be5c4054da68540",
+      "url": "https://files.pythonhosted.org/packages/f0/d3/65c3bcfdec30afbb5639a48a010dd972c9c93faf8823f5a28bb69ad37730/myria-cluster-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "dd509e06c16a34754646f74785d93bdf45c4e70e098097b9ec2c5d690ff85e01",
+      "url": "https://files.pythonhosted.org/packages/09/4c/1ec9fabe66db1680e0a0af06ac68b32f6225c0466efee51fcd9e9f9f31ed/myria-cluster-0.1.2.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "0.4"
+  ],
+  "meta": {
+    "description": "Small WSGI development server based on werkzeug",
+    "homepage": "http://projects.wagner-flo.net/wsgi-serve/"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "2b49003ca8f52f2f6bf69e16747041a1c733301cbff9226579bd3064b61b2beb",
+      "url": "https://files.pythonhosted.org/packages/d8/e2/2d903e0eb8f3063355279d6121d63c600e462129ac3aa9de47de13866d04/wsgi-serve-0.1.tar.gz"
+    },
+    "0.3": {
+      "sha256": "a320988c2340922e449cba2125e2deda1c54d053580c3ae51d341ecfce1a4b3d",
+      "url": "https://files.pythonhosted.org/packages/a7/78/07d8f99d92c2feacf1bd4ca921e80fbdb37ec051f834f0d13823c52ac657/wsgi-serve-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "55a0b7e5647512b8495548176be1b6de4604d870af4bc152e4728a451bfcacd6",
+      "url": "https://files.pythonhosted.org/packages/48/69/abeb63aeacca76fa76d190ff0b5f3c6c026e9c3abf24779bd02cd41cf373/wsgi-serve-0.4.tar.gz"
+    }
+  }
+}

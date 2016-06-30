@@ -1,0 +1,40 @@
+{
+  "latest_version": [
+    "0.7"
+  ],
+  "meta": {
+    "description": "Lightweight library for software auto-update for applications frozen with pyinstaller",
+    "homepage": "https://github.com/phfaist/updater4pyi/",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "b185e5fa9b1bd92b3c5f31ef36c6d413cbae604052ec686b52fa817845fb9405",
+      "url": "https://files.pythonhosted.org/packages/13/7c/5016369328865850c96048b8910c0c80e9cc1d8fb826be6b162ebe8d01df/updater4pyi-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "05688c5a89cabced25de8563a1dd80ac95a373e46d521f8002acbacbc0630fb1",
+      "url": "https://files.pythonhosted.org/packages/a1/4c/dd296bade2e076e2ba294a0bac4cf37b7475844b4ebc8fadf804c11a601a/updater4pyi-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "4f2eda8c56ac033745d49ca0402cf9c62c200caeb649612f6233a1bb29a87813",
+      "url": "https://files.pythonhosted.org/packages/ee/9a/570755a2c42bc876bbd062ccd7e78dbb3c3ef31d0db3044464b45dd46571/updater4pyi-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "18a1f11909d9396a3f26545d3178d78e2b8104a2904bb7fec562ce32ebde9674",
+      "url": "https://files.pythonhosted.org/packages/6c/82/2b9885bc86a97f1f1e88e4edee72b1c4198cb4b76ee473b6eff1ca9f1985/updater4pyi-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "6fd92af2bf3eaf7101a4aa3aacf186e102302e05d2db1adcfcf634c598214198",
+      "url": "https://files.pythonhosted.org/packages/11/c0/3b79a6bf96ff01f8ec38cab25f4249dc4640a6b2216760ed0c48d2681a1f/updater4pyi-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "d86caef9a3001dd10d1e6ae28b25e5c15e4f1e6a5956d1c622ebb26303d02fdb",
+      "url": "https://files.pythonhosted.org/packages/31/b7/b326b8b5cad5b8325aabcd55cf6b47c8b7d2bda651656773d014dd9a5c24/updater4pyi-0.6.tar.gz"
+    },
+    "0.7": {
+      "sha256": "6c58fbba44d2b3c7723d0fb30b5b434c79aab8845c79877e02c47ec8566097b0",
+      "url": "https://files.pythonhosted.org/packages/d3/e1/5db73d0f2fd6d0844ce31870db40c015732185689b3a4427c1dae6dc09f1/updater4pyi-0.7.macosx-10.6-x86_64.tar.gz"
+    }
+  }
+}

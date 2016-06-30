@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "1.8.1"
+  ],
+  "meta": {
+    "description": "Avro is a serialization and RPC framework",
+    "homepage": "http://avro.apache.org/",
+    "license": "Apache License 2.0"
+  },
+  "versions": {
+    "1.7.6": {
+      "sha256": "2e969f67a542f715e74c32a26e0dd3da9dd87b59e7598b4aab5986f300ba0406",
+      "url": "https://files.pythonhosted.org/packages/5d/d4/40efd62e9f2ed5e93c02a56aa02febd801422de664e3a8ca3f3d7863de07/avro-python3-1.7.6.tar.gz"
+    },
+    "1.7.7": {
+      "sha256": "b0a738e7a2b4bbe63029262fa1cd7c08a572341d267d543a08853e526356c1ea",
+      "url": "https://files.pythonhosted.org/packages/da/ed/598c1ebaac3ff624e1358cbd9a33c6d1e6ba8d7a81a9e22be192e5186c0b/avro-python3-1.7.7.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "2e396a2fa4928e7c99b49cd3b338fa4c2844ee29bf0bdf6e883a57b988981b6f",
+      "url": "https://files.pythonhosted.org/packages/e9/47/b4f8462521f90b64ad0fd26b16eb8a1b98336a2e829f7c02b7d363023d64/avro-python3-1.8.0.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "c14b5fd60b974fc12dc98d5995987f85afd882b8b63e9533e487c3a28ad7535d",
+      "url": "https://files.pythonhosted.org/packages/7d/7a/90ff9b8013e21942009380e7b86cf19d3dc83adb7042b735f016ca7e2b68/avro-python3-1.8.1.tar.gz"
+    }
+  }
+}

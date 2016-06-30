@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "1.12a17"
+  ],
+  "meta": {
+    "description": "A Cython based Python module to control devices over VXI11 protocol",
+    "homepage": "http://www-cont.j-parc.jp/"
+  },
+  "versions": {
+    "1.11.3.5": {
+      "sha256": "67fc133b398b86e7dbc91588e71285b9acdaf96cb8caa46cfcdce949a4af0627",
+      "url": "https://files.pythonhosted.org/packages/27/e6/2e9c79cd165d548828c046377bfd9105f49ca6153cdea8e8dfe18ccfb6f0/PyVXI11-1.11.3.5.tar.gz"
+    },
+    "1.12a16": {
+      "sha256": "1cf7eff39dacc654e4c48715d0c9f2c10fbbbccf1bdf9e3c4620c6d444d4a820",
+      "url": "https://files.pythonhosted.org/packages/36/d6/bb96aa68df909951315d1d915daedf7e69a1ff1fa49ebd5f95cb5e1dba4a/PyVXI11-1.12a16.tar.gz"
+    },
+    "1.12a17": {
+      "sha256": "d50585a43c13d12b1aee498e1360e5626c4985feba8ec2a2ded0c72b22790635",
+      "url": "https://files.pythonhosted.org/packages/26/86/ab8efd71f4ab22ff81c5da049145e5dd11b99c3135013c83b5ab3f2389af/PyVXI11-1.12a17.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "latest_version": [
+    "0.40"
+  ],
+  "meta": {
+    "description": "Simple cron-like parser, which determines if current datetime matches conditions",
+    "homepage": "https://github.com/kipe/pycron"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "3a9305b48375b8549fa31728a2d0b026b88a00a73c077ec108e0d30990a7ade5",
+      "url": "https://files.pythonhosted.org/packages/a4/a2/591095c4d9a25282f638605acc85c624ef3c530f5fbd313f24eeeb717501/pycron-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "4a5c2339ce9ad3a735eff588de99bb13230fb8e1520d4345f18853189b52c3cb",
+      "url": "https://files.pythonhosted.org/packages/c3/5c/4109fd482207d7cbca1b3236c5cbb50f8d1211b6a4876e50a685e5e1d53c/pycron-0.3.tar.gz"
+    },
+    "0.31": {
+      "sha256": "e2f614487648c45f68fece548ff2561c12c45ee8d718532be51e026d74982b86",
+      "url": "https://files.pythonhosted.org/packages/20/35/177fa64f1da04af8f23356e1994f29f0ed607c66b5b774eb6b58ac2d9214/pycron-0.31.tar.gz"
+    },
+    "0.32": {
+      "sha256": "af42aa492f9a250d41be0c59bd357b0c66a50a1efbe7ba1b578e1bc21f59e9d9",
+      "url": "https://files.pythonhosted.org/packages/12/c1/42e2c2154f4b304426331b73a655846ce8479812efd0f73c0cf4eda77933/pycron-0.32.tar.gz"
+    },
+    "0.40": {
+      "sha256": "817ec1d7328b42e18b695145983b4f634ffa703bac48c248c08b498034897ae5",
+      "url": "https://files.pythonhosted.org/packages/ce/2f/ff88c5bda53aee33196f97832686c973bcf72a5f0f207af44f570626af34/pycron-0.40.tar.gz"
+    }
+  }
+}

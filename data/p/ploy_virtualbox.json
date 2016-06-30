@@ -1,0 +1,36 @@
+{
+  "latest_version": [
+    "1.2.0"
+  ],
+  "meta": {
+    "description": "Plugin for ploy to provision virtual machines using VirtualBox",
+    "homepage": "http://github.com/ployground/ploy_virtualbox",
+    "license": "BSD 3-Clause License"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "1efa592a54b9f87f8cb8cac2421589d01fc595ed8cb33448dc98839374bdf225",
+      "url": "https://files.pythonhosted.org/packages/a5/ed/ec52d7df47d407c565efc688016185ab9b1788f928e9bc9922c9e000e904/ploy_virtualbox-1.0.0.zip"
+    },
+    "1.0b2": {
+      "sha256": "d8b484c218ff9f665121b9c85754b13eceb2b8597f5600f9fb51f05621324dba",
+      "url": "https://files.pythonhosted.org/packages/82/75/e98b6b5e8fd1ac93a8d0f042989a259b96d5be6a7306362644455cfb32bd/ploy_virtualbox-1.0b2.zip"
+    },
+    "1.0b3": {
+      "sha256": "0915603edf1e1b95d19b2d2cc3ed81bb6f129ff9c38e92026f6a38a1f8fee4a4",
+      "url": "https://files.pythonhosted.org/packages/8f/49/8274c84af244b290f5dbd5d612278bd6641bd6dd966128c13843954db58a/ploy_virtualbox-1.0b3.zip"
+    },
+    "1.0b4": {
+      "sha256": "332dbe6e9d73aeb308f8e13cb663660cb19b4430b064fb261701e664ee696d44",
+      "url": "https://files.pythonhosted.org/packages/ec/54/b63f2e69168de123347a1ee84797813d1d9156e2706f2210c7528a05fcac/ploy_virtualbox-1.0b4.zip"
+    },
+    "1.1.0": {
+      "sha256": "1956e2e305bde601ddf24154c356db1ffa31ead12f1cb78b0542a3ee1c23218e",
+      "url": "https://files.pythonhosted.org/packages/0e/42/f52fee2a1a00405df18559c448aac1353eb0d642c38f0df37361321bd11f/ploy_virtualbox-1.1.0.zip"
+    },
+    "1.2.0": {
+      "sha256": "a76b2d7e078076757383788dea0eaa6f5b9df536b704576b173764dba71bb5d0",
+      "url": "https://files.pythonhosted.org/packages/3d/d6/7652572a895f488fe5a9ff7b4cad49292fcd1c87d83df602c26479c22c7f/ploy_virtualbox-1.2.0.tar.gz"
+    }
+  }
+}

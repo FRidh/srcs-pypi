@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "asyncio event loop scheduling callbacks in eventlet",
+    "homepage": "http://aiogreen.readthedocs.org/",
+    "license": "Apache License 2.0"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "ae3c1c7d887f71a3ba06b6f3ebe0c4d19298009954a46d56af5aaacd3600133f",
+      "url": "https://files.pythonhosted.org/packages/5d/33/bae75ded4c791ffa85613d2a27acbe41ec8f4c97815d54c01a4ec873294e/aiogreen-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "afb60f1c909140064685d7d2321caca77fe596cdd64875640acb49925f01c972",
+      "url": "https://files.pythonhosted.org/packages/a3/f2/3d5a8fffe45c93bfe5ba728f9ea97929e39dbd2660f18156f944b92c3c83/aiogreen-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "5c959c4bbdaaeee9eedf6924244d20ff8931e62cef5d79d3b9de6b52c607658a",
+      "url": "https://files.pythonhosted.org/packages/24/bd/d964fe9f298c038ea5f359414e4d48d06239e72163d3578f227bd2f858e3/aiogreen-0.3.tar.gz"
+    }
+  }
+}

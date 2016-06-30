@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "This is a Python wrapper around the HLSVDPRO function/library.\nThis function fits time domain data to a model function that is a set of\nlorentzian decaying sinusoids using the state space approach. The original SVD\nFortran code for this was written by Rasmus Munk Larsen and released as PROPACK\nSVD. Teresa Laudadio and Diana Sima adapted it into HLSVDPRO",
+    "homepage": "http://scion.duhs.duke.edu/vespa/",
+    "license": "http://creativecommons.org/licenses/BSD/"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "de1ef27c36f40f3ce704f23a7af1b3ab89f4c86978d014b67182d0131ec41c27",
+      "url": "https://files.pythonhosted.org/packages/c1/1d/63a0bca41b4a1586611ab4c705bb8d2e2b97f5553706aece7a2c8910ed30/hlsvdpro-1.0.0-py2.py3-none-macosx_10_9_x86_64.whl"
+    },
+    "1.0.1": {
+      "sha256": "7f1cc76b350e78baed57a47f617059e8dea3e4862435ccf3e778abe63838874f",
+      "url": "https://files.pythonhosted.org/packages/1b/94/6a569076a9e811f720acec56816d7a8e6bde88a849ead25a0ee0569ddae1/hlsvdpro-1.0.1-py2.py3-none-macosx_10_9_x86_64.whl"
+    }
+  }
+}

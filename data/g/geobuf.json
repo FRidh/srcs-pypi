@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "Geobuf is a compact binary geospatial format for lossless compression of GeoJSON and TopoJSON data",
+    "homepage": "https://github.com/mapbox/pygeobuf",
+    "license": "MIT"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "e5eb83ed0ba3dc119c0868040a870c8aa56796fa126a8e5772522b7120215315",
+      "url": "https://files.pythonhosted.org/packages/c6/4b/6f01607b92c496765e360fe46d8ca94c65d813720478464eefd934ddc9e6/geobuf-1.0.0-py2-none-any.whl"
+    },
+    "1.1.0": {
+      "sha256": "daa87156272d8045825903119e1a23eeef32d6158db730c7647cf5f4c8700bf6",
+      "url": "https://files.pythonhosted.org/packages/d9/34/76d1199c20e1e1eec7534f98d09b965f79025ee889dc45226890716ea283/geobuf-1.1.0.tar.gz"
+    }
+  }
+}

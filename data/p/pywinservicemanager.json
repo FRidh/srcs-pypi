@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "Windows Service Manager Module that wraps for the win32service api",
+    "homepage": "https://github.com/belvedere-trading/pywinservicemanager",
+    "license": "PyWinServiceManager - Wrapper for the win32service api\n\n   Copyright 2015 Team Belvedere, LLC\n\n   Licensed under the Apache License, Version 2.0 (the \"License\");\n   you may not use this file except in compliance with the License.\n   You may obtain a copy of the License at\n\n       http://www.apache.org/licenses/LICENSE-2.0\n\n   Unless required by applicable law or agreed to in writing, software\n   distributed under the License is distributed on an \"AS IS\" BASIS,\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n   See the License for the specific language governing permissions and\n   limitations under the License."
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "f0d1c18295eb8c6982635b84999631e81aec6de0fe293747725701397103b676",
+      "url": "https://files.pythonhosted.org/packages/1f/fd/3ac3390cf0025ffaf96c87dbe91e52ce03a11d6c837defe954c362df94cd/pywinservicemanager-1.0.0.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "068c181160bcf076079185095a027d86b147ed4b17ab24696adf0e66ae058804",
+      "url": "https://files.pythonhosted.org/packages/36/52/4ce48459a6c96978b715002e8a85defb2e3f7fee9e6e7b73e60ae5daf6df/pywinservicemanager-1.0.2.zip"
+    }
+  }
+}

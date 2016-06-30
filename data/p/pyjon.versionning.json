@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.4.2"
+  ],
+  "meta": {
+    "description": "Versionning system taking Python objects (likely from an ORM like SQL Alchemy) and saving those objects in a repository with synchronisation facility",
+    "homepage": "UNKNOWN",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.3": {
+      "sha256": "fd5341e471ff91931d2f3a98ee1ffadc4643fca30d1cb64b0f9c78d8129b1241",
+      "url": "https://files.pythonhosted.org/packages/90/3d/7a3b9151e3f0cbba3ca40dfd5d9b6b83c09b96b6ff078dd63981b22d79bf/pyjon.versionning-0.3.tar.gz"
+    },
+    "0.3dev": {
+      "sha256": "1b286b6e0391445c4f9754e03b8bd14973cddc7c2d8c3514c31f1b381e002e3c",
+      "url": "https://files.pythonhosted.org/packages/54/fe/585905bec4fc0487dba2c739e23ed02b1835959f18ce39d6c60f6fcef043/pyjon.versionning-0.3dev.tar.gz"
+    },
+    "0.4": {
+      "sha256": "03159e007b69d21c301d8c90868c1d7e59beb04b6365788cb659a0c8c7ac8f82",
+      "url": "https://files.pythonhosted.org/packages/f0/b5/c52b0c8d4065374e1d3a49c2a7215046a1b5a9acc284fc68086262afd6b8/pyjon.versionning-0.4.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "50ae16fcb221994bbf7f8c3518c0633a242a6e4cbe368b17dcc15e4715134b2a",
+      "url": "https://files.pythonhosted.org/packages/dd/6e/56841a2f217c8224454e8b2dd8291c33a46df4377b553cedc1498ad2685f/pyjon.versionning-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "43f21a54dbb7b0f11ab0d1dd31af23a2a96d7e1858c674c88219bc742cdde2a5",
+      "url": "https://files.pythonhosted.org/packages/d7/e7/04878d2b8534d6f443b1ec64d5352c5f27da60c1d0aec3c17f8c2f4d0637/pyjon.versionning-0.4.2.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "latest_version": [
+    "0.2.8"
+  ],
+  "meta": {
+    "description": "The 'jsondata' package provides for the modular in-memory processing of JSON data by trees, branches, pointers, and patchesCurrent version supports JSON/RFC7951, JSON pointer / RFC6901, and JSON patch / RFC6902. The syntax primitives of underlying layers are provided by the imported packages 'json' and 'jsonschema' in conformance to related ECMA and RFC standards and proposals.  The data is represented by in-memory tree structures with dynamically added and/or removed branches. The data could be validated by JSON schemas, and stored by serialization for later reuse",
+    "homepage": "https://sourceforge.net/projects/jsondata/",
+    "license": "Artistic-License-2.0 + Forced-Fairplay-Constraints"
+  },
+  "versions": {
+    "0.0.4": {
+      "sha256": "337a1fcc6b57b844dd580536af37196088c948575dad8064d2b0674697f8d2c5",
+      "url": "https://files.pythonhosted.org/packages/5b/27/f755d43224a1eecf365cb3be2792dc4bd2d43e5483c1b27db7638762e894/jsondata-0.0.4.linux-x86_64.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "6b548134c82f92c21b1b1465f8f2aacfd2b8aa023981376df7a3f6c5be3360a7",
+      "url": "https://files.pythonhosted.org/packages/30/b4/663852c3f9b2e67e6a2f3c285a368cb588bb304bf68aae6d698ea5cff936/jsondata-0.0.6.linux-x86_64.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "f5f83fceb11c2c89687c72656e47809f3baa0ecf9fc6ab53bafa3fe022c5218b",
+      "url": "https://files.pythonhosted.org/packages/b6/fc/7d5601b7891c93cd8dc5098d0c78c841b34db12c014b27f9fd35c6bdbaca/jsondata-0.0.7.linux-x86_64.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "5c9186a3ff615c46a1b4c9a128166b85d8f8505e5fa323f8bedfaee26c4dd1dc",
+      "url": "https://files.pythonhosted.org/packages/3d/f6/2a12ad4971db501da50881588c3d79077883abf29a1ab85627e22c024192/jsondata-0.1.0.linux-x86_64.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "276dbd817f06a93c2afcb7060690d658324ee4ec30dcd32bc7ab4add7e8ae8d5",
+      "url": "https://files.pythonhosted.org/packages/ee/a5/413047042aeaeac50c6901e927612bfd66f38be552844b96970bab7cf502/jsondata-0.1.1.linux-x86_64.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "22dbc186567ffdde216b1c124468b4ac05f9b3d089b177cffbd6b908d6666e03",
+      "url": "https://files.pythonhosted.org/packages/9e/43/f6ef8629b7f11690212d0a77ddec634fa866c2caff1dc94d4dbeb39a1be6/jsondata-0.1.2.linux-x86_64.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "c15da6fca1d7a41c51933d5a5c5610ce8c2edd797b1043e02e7a0d05614d8063",
+      "url": "https://files.pythonhosted.org/packages/5c/34/5bd58a0919fffe3dce9df00cae1fbe7d399703c87293b52c98f246aeccf7/jsondata-0.1.3.linux-x86_64.tar.gz"
+    },
+    "0.1.4": {
+      "sha256": "477deee1dd698de42402100cd90be0cce9eb3cbf09fb2f67bf5d9976751b5e4c",
+      "url": "https://files.pythonhosted.org/packages/fd/c2/b209f35a7d34b8807288881e5bd72ae68b49121701c616de566ceb94c446/jsondata-0.1.4.linux-x86_64.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "dcd5c2a71ca7a412cae7752175593a6f02257837650a3dc1071100f62802301b",
+      "url": "https://files.pythonhosted.org/packages/79/d6/51393a41b161bbce9a2aa39314220fd506ae66e6876a6e4db082ede21163/jsondata-0.2.0.linux-x86_64.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "8df48187ace4bd4c69293e6549e58b97697558e4bad458186b029f9d4b593870",
+      "url": "https://files.pythonhosted.org/packages/c4/b7/c083b577bddaee34fbd0ddc48bafdb3a5efdd13477df9b96c0e3a2492b15/jsondata-0.2.2.linux-x86_64.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "936fb293a59e895d13d06a401a361ee5fabcdfe205d4ba811c1641679577d4fd",
+      "url": "https://files.pythonhosted.org/packages/17/49/7d9cd2901c8719c44ab652bbdce099ad83575eb663e88c21e2c67c9d151c/jsondata-0.2.3.linux-x86_64.tar.gz"
+    },
+    "0.2.7": {
+      "sha256": "e27d9af3387aa8c2f00cae3c0453fdbc75ec10cd1663ca0e267b497d3ae0df31",
+      "url": "https://files.pythonhosted.org/packages/17/94/be8dfe0e3e7406ffb814d8055d471e2f5df18fedbef77bc511baf557a14b/jsondata-0.2.7.linux-x86_64.tar.gz"
+    },
+    "0.2.8": {
+      "sha256": "6392b94197810c6776e30e8f434a2fce93d0c76a543837afc32b8d34d36bae96",
+      "url": "https://files.pythonhosted.org/packages/9d/22/8944afaaa0187ee54919940c15fd658da5694c847db99d92e5a0ab48ea21/jsondata-0.2.8.linux-x86_64.tar.gz"
+    }
+  }
+}

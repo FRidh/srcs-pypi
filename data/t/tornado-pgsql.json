@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Asynchronous PostgreSQL client for the Tornado Web Server",
+    "homepage": "https://github.com/ardevelop/ardaemon",
+    "license": "MIT License"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "f8e06b1566d71536a38e6ddbca8f38fb77debfd95a333192a7df5bcb36866f09",
+      "url": "https://files.pythonhosted.org/packages/30/28/84323a0328a53aa045cc5077bf9423bff723d1361b1adf7cfb16c2bdc4be/tornado-pgsql-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "e5d327fab8a64c94ba87bff59e63c72b4e5ee0401257fbeb084f3900f5644c4c",
+      "url": "https://files.pythonhosted.org/packages/c6/c2/427cdfb29340e52d63709a61a6db20c3969eff48658556f92cf295032e58/tornado-pgsql-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "29f469feb31b551c1debe643f3141f33e7a8b554e6fb80be6d54082069a5739c",
+      "url": "https://files.pythonhosted.org/packages/63/6d/e0bfcc2f71342a3429f5458344a06d0e8282e52f8c65b9f90f76534ff84c/tornado-pgsql-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "245f7aca9dd1c190be18b2048596adc5e9ec341f6bca6617b2f5ff2191fafb09",
+      "url": "https://files.pythonhosted.org/packages/a8/57/5dc44e6e99daa00267c8ea721972fdfeac47280ad23d5b4ea13a0eeb660f/tornado-pgsql-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "33ecbfbe8d088fb52f89be4eb259a188bca6bc518bdb873979b9821692f2b484",
+      "url": "https://files.pythonhosted.org/packages/39/e5/7e048a91ba85cd98d0de942b25a4fd60485e4f8d6be4aa4a20f8aebd5494/tornado-pgsql-0.5.tar.gz"
+    }
+  }
+}

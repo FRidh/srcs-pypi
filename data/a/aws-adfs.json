@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "0.0.3"
+  ],
+  "meta": {
+    "description": "AWS Cli authenticator via ADFS - small command-line tool to authenticate via ADFS and assume chosen role",
+    "homepage": "https://github.com/venth/aws-adfs"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "cbe36c45ef43e127f7a2947cfd8cbee353cac15ecac737a46fe2a70fc8e1fbd8",
+      "url": "https://files.pythonhosted.org/packages/d0/1c/c9c056cf9efc1ddbd9f5b14ffc4913d911ba8d5de633497d7bbfb64312bd/aws-adfs-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "0b632a99ad053a64bb660edf6e14a3f1cbe0c0c8b9dde899101f96076c85ff4e",
+      "url": "https://files.pythonhosted.org/packages/fc/b9/d97904a6bf685830f8aaaa52836986b537b879fde9d8bf38af37f90140d3/aws-adfs-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "c37ba1259b5c9388032eaed5074df11bd22ba13f6b9969852667dfa22bdce57a",
+      "url": "https://files.pythonhosted.org/packages/be/95/b78b39573eb42c72f4923b5e46b7f9a496dc5156dfdf700fb832f07440fe/aws-adfs-0.0.3.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "Configurable notifications for trac tickets tied to workflow actions",
+    "homepage": "http://trac-hacks.org/wiki/WorkflowNotificationPlugin",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "3047a6d618bddc4749ee1a67fab82942e42e3cdc51d5378f2c1c173ca5db35b4",
+      "url": "https://files.pythonhosted.org/packages/ed/95/6d3ada4f6594bef77b8249c2316f97f9dee9a161e74ffd32b44f865b3355/trac-WorkflowNotificationPlugin-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "2f4e337b097306caca9d871b76bf4bb252e6c1c60c9d1d01f4832299ca6843e0",
+      "url": "https://files.pythonhosted.org/packages/5b/85/bce9ca9b28d5e9aec082406a14039b8e716afea32a0a362ad5ac613ffe1c/trac-WorkflowNotificationPlugin-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "9e2010337029a9adc1ee85d1246990d437c591663663ba358222e3a735ea8d9a",
+      "url": "https://files.pythonhosted.org/packages/b9/61/76c82ff85c64e7129765dfabe74c141891cca206b20abd2ed5e14671e851/trac-WorkflowNotificationPlugin-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "238f4a55b769e6d2c88b8c7cba706e970c2f126237e1560179f9b649fb941375",
+      "url": "https://files.pythonhosted.org/packages/56/75/2ff5be9eecd8b31a898908834a17bb397a68ba11d7ca10118844404d4950/trac-WorkflowNotificationPlugin-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "0c42372e0ee9bb7eb86140b4eba48d1f1a18e782e87489b1551ce3017ab1f03e",
+      "url": "https://files.pythonhosted.org/packages/5f/74/a88bbe2eff32983258a6ad00dfc189e011abd741d992898aeeb5c490264c/trac-WorkflowNotificationPlugin-0.5.tar.gz"
+    }
+  }
+}

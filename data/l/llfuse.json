@@ -1,0 +1,92 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Python bindings for the low-level FUSE API",
+    "homepage": "https://bitbucket.org/nikratio/python-llfuse/",
+    "license": "LGPL"
+  },
+  "versions": {
+    "0.29": {
+      "sha256": "2d09858862089e3c9115fdc10fbd1fe5e68d1c03be742d2da5136c85ca39194a",
+      "url": "https://files.pythonhosted.org/packages/f4/72/b107abd4a4d80876c66a5d74ed4e90da42394c5be16b5ca71e8c2e730de7/llfuse-0.29.7.tar.bz2"
+    },
+    "0.30": {
+      "sha256": "624ded2a9ffe878206acf2a999dcf57743c24817f5ad6b27df486dd2aed4f22f",
+      "url": "https://files.pythonhosted.org/packages/b1/aa/66835537cc7426b5c775228a9bdc90fc6c2473f4cd5d0eb5a5231bfe7964/llfuse-0.30.tar.bz2"
+    },
+    "0.31": {
+      "sha256": "eb14a832e914999dbcf4bab7e4d56650fa8c26d9fe071dba662245811934bb23",
+      "url": "https://files.pythonhosted.org/packages/78/15/150f1835dd85a436016d49f523f6fe0b2beaf61d5d9d5bf059faf6e02750/llfuse-0.31.tar.bz2"
+    },
+    "0.32": {
+      "sha256": "641afd918266d328fb2911bb89251da6fea3966365db2772194898f6b98a7548",
+      "url": "https://files.pythonhosted.org/packages/ea/bd/ad9528aeb335060d0858d335b44c93d3d2bec445d7f7629a4395a4e822d1/llfuse-0.32.tar.bz2"
+    },
+    "0.33": {
+      "sha256": "5853edb65ad9c7fffc895569b40ce65063723f205611bc1b3ff1a718120271a5",
+      "url": "https://files.pythonhosted.org/packages/f4/cf/18e52d452785f7d63b4d26afa21f0b460e8f65d923b78d833d9f64a34453/llfuse-0.33.tar.bz2"
+    },
+    "0.34": {
+      "sha256": "a55cfba8052412ce37348927c8fabcda38b986bf59bdb568d4d2d927440ca24b",
+      "url": "https://files.pythonhosted.org/packages/f9/c1/ed8dd565abe7580d8ae3337abe3230716fffbe1d07895b8077352d408787/llfuse-0.34.tar.bz2"
+    },
+    "0.35": {
+      "sha256": "cb84a6234a25b8f7d2275dce28609d71126d588871fdee8b26e567e6fae60929",
+      "url": "https://files.pythonhosted.org/packages/37/40/a148ebc079b5c9397c1350cd04f86f4c48090b8b71dbe73c8bbdb3c7ad5a/llfuse-0.35.tar.bz2"
+    },
+    "0.36": {
+      "sha256": "08b3a2511ff7c1ea67b91d11f108bda6be9f2e5ca7d4efc52ac8734e1580f52b",
+      "url": "https://files.pythonhosted.org/packages/b0/af/0b4bfb01ed8aab95979aa007ecf56cca8647d170896ff9893bc403d76bf5/llfuse-0.36.tar.bz2"
+    },
+    "0.37": {
+      "sha256": "5598fb35eeba990a5749793626294117a54d996511b7304ea2f26c050631fca5",
+      "url": "https://files.pythonhosted.org/packages/9a/18/b4fa4214710fa06fba410187750bd2f6eec65501abb08660338a623e0070/llfuse-0.37.tar.bz2"
+    },
+    "0.37.1": {
+      "sha256": "047f29c2d0363766807ba21b72a68f66022eddde642e7c7f167145fa1a2b6782",
+      "url": "https://files.pythonhosted.org/packages/b6/0b/ac7c8c4e9b28827c93032caa771ec5325ea31dbb7700f74d9d2448dbadf5/llfuse-0.37.1.tar.bz2"
+    },
+    "0.38": {
+      "sha256": "8c8b6bacae4f22dfb686f2ebbb87faa44e1302c482d01ce32e1c5d7410e11e04",
+      "url": "https://files.pythonhosted.org/packages/e9/0e/fd02b7a3066357e39b611e2ba04d9a708ae53e89050f5b8a7257969dcca5/llfuse-0.38.tar.bz2"
+    },
+    "0.39": {
+      "sha256": "4d9029efd461b7da099904d1cba193bd11964613263c38e97e9027174424995c",
+      "url": "https://files.pythonhosted.org/packages/b3/6f/64c9a19c4263df21143b24c743f2526995f87a1c16cd16a6b02d7c2fc15c/llfuse-0.39.tar.bz2"
+    },
+    "0.40": {
+      "sha256": "ee8b1125a6f2ab904d617d7602d86c0e3f69e40316cb1ae3abc33c218d3da857",
+      "url": "https://files.pythonhosted.org/packages/94/e0/2fcd57eb793b402e226f37ea82197b463160361be2819dc034e4f08ffb71/llfuse-0.40.tar.bz2"
+    },
+    "0.41": {
+      "sha256": "58079acce2ed03305bfea998cfad7c5d1815c85c263e0a21f692d4cdb7d01bde",
+      "url": "https://files.pythonhosted.org/packages/4a/90/2acffd3616c0eb2fdf1c7b975e78f7c74ebd7a96fb72a033843d030263dd/llfuse-0.41.tar.bz2"
+    },
+    "0.41.1": {
+      "sha256": "4ad1bc6439b048e472160c46b2a72aec5d549c1920ff789237088cb312c7b4c6",
+      "url": "https://files.pythonhosted.org/packages/20/d9/fb8f7f0ee09b37fc368755ab083f07016a756b3904b2d05cb29c33192c5f/llfuse-0.41.1.tar.bz2"
+    },
+    "0.42": {
+      "sha256": "0fa12d2e1d368232601fb3602be6b942b3f60ec00d85cfe91645cf7dcd3a5ab8",
+      "url": "https://files.pythonhosted.org/packages/4b/9f/6d7e78238ec1a252a8ce59dfb047546fa7f28ddbd40bf2f788b9adfc1ff3/llfuse-0.42.tar.bz2"
+    },
+    "0.42.1": {
+      "sha256": "8ee9f190682d1c94e6522e77064fcdb4c7b07e71a6b9d1193ac1527972a98b59",
+      "url": "https://files.pythonhosted.org/packages/3a/2d/b364dd7d5adc191d24a3109f1dca3524428289e258c1bc1419bd3a7c7503/llfuse-0.42.1.tar.bz2"
+    },
+    "0.43": {
+      "sha256": "550c23c99ab1da711e816bdd980d588de174e143bc96cdb1f11c6ae6af35c7a1",
+      "url": "https://files.pythonhosted.org/packages/db/4d/ab9cf8c1b426f490aa958fc53d1b54c7157c01cb1c2726817470a2da5684/llfuse-0.43.tar.bz2"
+    },
+    "1.0": {
+      "sha256": "fa521ce77a8c0ac1c8c21e6d4b0705dacc0ddd627439c2b3827c674909c027d2",
+      "url": "https://files.pythonhosted.org/packages/ad/2b/e26984e73c79b5dd0455a37632e073cb0971a4c2a94a71bf893dc9382827/llfuse-1.0.tar.bz2"
+    },
+    "1.1": {
+      "sha256": "e250d59f3ed0d91a6bdcf81ab8af5ade994de3abb96bc5e64cd465a8265e9ffb",
+      "url": "https://files.pythonhosted.org/packages/bb/17/8f5d98f5f005cd041635fc6836ad8a91f92dea4d41459f13763f630924c6/llfuse-1.1.tar.bz2"
+    }
+  }
+}

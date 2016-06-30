@@ -1,0 +1,148 @@
+{
+  "latest_version": [
+    "4.0.1"
+  ],
+  "meta": {
+    "description": "Tryton module to add FIFO cost method",
+    "homepage": "http://www.tryton.org/",
+    "license": "GPL-3"
+  },
+  "versions": {
+    "1.2.2": {
+      "sha256": "d154a19ecc6f656939b231359eb6d2ead85d265dd7c8dc2f4233aa2e1e985603",
+      "url": "https://files.pythonhosted.org/packages/9a/c4/f783b721198473883812006434f2438c31dcbbcd67ec35a0592e1862f460/trytond_product_cost_fifo-1.2.2.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "9888303ef4509144382a8fee76a344a0359accf7605539384431b0aba2bcc68c",
+      "url": "https://files.pythonhosted.org/packages/1d/f9/0c5db388e1444ea04e22d6f915839e6aab9ae8c56e94bcce1ad9f60ef2d4/trytond_product_cost_fifo-1.4.2.tar.gz"
+    },
+    "1.6.1": {
+      "sha256": "50e24be6e0c5f1cbf4eacbd20a174a97ead45996c2fd4f81f20378a1c37f01ca",
+      "url": "https://files.pythonhosted.org/packages/a9/4c/90a25f05238d7cf1a4c9eb1d3aa25095cf94b3cfda679713ab947c9774f3/trytond_product_cost_fifo-1.6.1.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "6b31bbe58c2f3889f1754a8369688513ba1103ba703336e8d23b1ec241d9c7e1",
+      "url": "https://files.pythonhosted.org/packages/4d/bb/c424f0ab39ede7c6d19210d036b2888c9c6b2694c8ea7ba1d7703296de39/trytond_product_cost_fifo-1.8.1.tar.gz"
+    },
+    "1.8.2": {
+      "sha256": "8d19f6a08249ce80352cce1e79b1cf692a6cf5236a74328b1e4a938c8076a476",
+      "url": "https://files.pythonhosted.org/packages/e9/10/fa67f967fc5beb7bb91ebb96005fd947da834200afd1d84588cee2eff675/trytond_product_cost_fifo-1.8.2.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "0ce52c3db2b12c5ae044fdbbd201f03d42c5c0cf6aaddb7313a3ef8a6312aa93",
+      "url": "https://files.pythonhosted.org/packages/26/51/1573faacfa464cab048167d4ee28367521a3a54d1d5578430ae70c9808de/trytond_product_cost_fifo-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "f91fa3b1e7391b565ef8b7c14968657a03164794b2f745596452886629caa6d9",
+      "url": "https://files.pythonhosted.org/packages/85/4e/2a4ec2f3ca2d3efcc2fb1002589b6e5c2a7ae014507e7b9d90775d8d0d2c/trytond_product_cost_fifo-2.0.1.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "0f47eb2e7b7097b0075555b2aacdb6f9d4b279b9ebe39f2189ab71894bff22ff",
+      "url": "https://files.pythonhosted.org/packages/be/76/77790175ff3955503519fc96525769cdb11d22a864c005ece69149e2f0b7/trytond_product_cost_fifo-2.2.0.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "2bfe689e937a9f5008d6050c8363132bd6528c96b604bf0fb5f592270239fc6e",
+      "url": "https://files.pythonhosted.org/packages/de/5a/111a49616775667481b84054137ef2f1666eb237a920cece24a9f85362ca/trytond_product_cost_fifo-2.4.0.tar.gz"
+    },
+    "2.6.0": {
+      "sha256": "cf248c130c27d31c21d5fa3c780b0946044c207da428d6b0a7921989e9aa25e7",
+      "url": "https://files.pythonhosted.org/packages/4e/17/d50946fa2eb6b96fd0160e68d04577e897087f27a0df8385375f0c651a47/trytond_product_cost_fifo-2.6.0.tar.gz"
+    },
+    "2.6.1": {
+      "sha256": "476da16b5501d642282e347ef8764e52311b7a7cb33bd0a543abaeb24b408c47",
+      "url": "https://files.pythonhosted.org/packages/56/da/d5689eb00a4eea393cdffe2cfb99128b47a54b789c9fcf72e8cf4677811a/trytond_product_cost_fifo-2.6.1.tar.gz"
+    },
+    "2.6.2": {
+      "sha256": "58ffe4564b08bee34c3929580824c145cdd3e25715ea444ec78488fa5e43b804",
+      "url": "https://files.pythonhosted.org/packages/06/fc/36f4b53096c31d21c3532bc7ce3eb9034f2ea8d84d63ce07c70ebc4908d6/trytond_product_cost_fifo-2.6.2.tar.gz"
+    },
+    "2.8.0": {
+      "sha256": "dc40cb0b8a99700cfd6ac7810e57005a7fd43df5ab14e66406a7a2e764a3ef6a",
+      "url": "https://files.pythonhosted.org/packages/a0/21/f065ed31416470e210d4d652333712d9065f7cefe4aa4f5d7cbe7c61c1af/trytond_product_cost_fifo-2.8.0.tar.gz"
+    },
+    "2.8.1": {
+      "sha256": "c6a39ff60cf72ce6e1de8711da6e30b194f9c3f720e6503536b4c2fb0b5258bd",
+      "url": "https://files.pythonhosted.org/packages/91/cf/9f01a9c287da81e5544165b98c8265f8ccc83e34848c16bd81749e7fd9e9/trytond_product_cost_fifo-2.8.1.tar.gz"
+    },
+    "2.8.2": {
+      "sha256": "e20108ee6bf0ae13a46570107fc7f80ea7ed9aa89ace8cfea6d8299d2ee71072",
+      "url": "https://files.pythonhosted.org/packages/d7/e2/0939d6e05130939ae2305bc0c41ce8b1a91799b2b24d750ce139c918ac9f/trytond_product_cost_fifo-2.8.2.tar.gz"
+    },
+    "2.8.3": {
+      "sha256": "d6372f3f7841f86d7035590df48be8e89fb36c28687804e81fc25545a3b8efe8",
+      "url": "https://files.pythonhosted.org/packages/ed/e0/6e6f25f1e7f1d9f1e6724b71bc3eb474490d474e52be5b70a04abb0ccd34/trytond_product_cost_fifo-2.8.3.tar.gz"
+    },
+    "2.8.4": {
+      "sha256": "afb96f00832c1bbdc1519edc7d5c1d2db8b267f08b6b31c2e8bba2d49c804d7b",
+      "url": "https://files.pythonhosted.org/packages/a8/49/21952a7347f878feae4f53f8409936ad128c6454c65a3e3a6d413fe4874b/trytond_product_cost_fifo-2.8.4.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "8a69ab5318593270863cc65cbc6a87a6aeb79857486bce3e953e76ade73a88db",
+      "url": "https://files.pythonhosted.org/packages/1c/1a/0758ddcfc56f27d195b0b2d0c1de2affc2535d05077958f06bd9341243ec/trytond_product_cost_fifo-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "b0f6dde8e9c41d4cea6e43ca315f82c1a24c73442a00b4ecd0a8f8e9653154d3",
+      "url": "https://files.pythonhosted.org/packages/2b/29/e76e9365462a31e5d0e8944105b7a49cdfaddad900bffdebe403ac66983d/trytond_product_cost_fifo-3.0.1.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "0becc7d7988a67711f04c83d797c2002ccf81f026e9b389db2c5596f8e90248d",
+      "url": "https://files.pythonhosted.org/packages/8a/62/ce0972cea3e4b8b2c129bc0a5da133f998b78748a26b92a4ddf148817bf3/trytond_product_cost_fifo-3.0.2.tar.gz"
+    },
+    "3.0.3": {
+      "sha256": "12f2541c8cd2eb20161d8d316dc75d336aad5e1ef7d19426cd9f117a0de1ba4f",
+      "url": "https://files.pythonhosted.org/packages/ca/75/5afe03a1da557399fadea5f0a6c1b531169758661930711662fed74cceeb/trytond_product_cost_fifo-3.0.3.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "1c72472af9ce40209339665f114897f323880cc8e6a3ef78ff0c01f336309795",
+      "url": "https://files.pythonhosted.org/packages/ff/bb/fcc90908d0b60005f5271f036156be38cc6a95126aefba8e5b3824751503/trytond_product_cost_fifo-3.2.1.tar.gz"
+    },
+    "3.2.2": {
+      "sha256": "b04685beb4cf108b7b874ec96f5be05cf4f219b9a94d8aca0adfab984ae65529",
+      "url": "https://files.pythonhosted.org/packages/9c/69/8de6d5c28d52c8c8f7afd8edc0f5aa7a1f65089412e6ad19d3e335a2dece/trytond_product_cost_fifo-3.2.2.tar.gz"
+    },
+    "3.2.3": {
+      "sha256": "b15831fdaf9ef17e3c11c4c258f5cd98bf5ff8aedc7018290dd8a6175b57a195",
+      "url": "https://files.pythonhosted.org/packages/e8/84/168ac86b66eeb4b25603d2c043752a36c5126b352f4de225d2a5d3a85c17/trytond_product_cost_fifo-3.2.3.tar.gz"
+    },
+    "3.2.4": {
+      "sha256": "22f0e59168e7863628b88d8512747cd72a22b65bb31af4ca544009795d3ae485",
+      "url": "https://files.pythonhosted.org/packages/3e/7d/a41d64788bba65d1ddf25f9aaf423a0a569a9fb1848baccb1932721f8632/trytond_product_cost_fifo-3.2.4.tar.gz"
+    },
+    "3.2.5": {
+      "sha256": "a36eba4e7bd39a4277b6977f658e033546ae54c3291ecbda7b76ad318a26ea9b",
+      "url": "https://files.pythonhosted.org/packages/0f/22/b48420fba92854d3eca7ff5f59bc4f64cc33905f331138ca6af614ed42b6/trytond_product_cost_fifo-3.2.5.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "8a240f1afc3dbe5761a6591bf86dd54cc73ed1202999bbc303b2ead665220656",
+      "url": "https://files.pythonhosted.org/packages/25/38/f7f87f4ec5b846d16f092b47d13ec49403decdea7274ec6c0fa78d5716da/trytond_product_cost_fifo-3.4.0.tar.gz"
+    },
+    "3.4.1": {
+      "sha256": "f922feef3aa8f1a788ae7cbee894733b75876e7aaa17e5b6b4dc467ef5b0c0b9",
+      "url": "https://files.pythonhosted.org/packages/3f/9c/30368383d4c320c8e985d7619e5c16585658c70653d0877f3cd6f82f1ab7/trytond_product_cost_fifo-3.4.1.tar.gz"
+    },
+    "3.4.2": {
+      "sha256": "b6009c168c25ec34de912b25b95cdcf8b86d21561ae0b45f637be9258e97d9d5",
+      "url": "https://files.pythonhosted.org/packages/c6/b5/39b964432be8661cce2dded911eeb2bd675b92cc19ddce94a01f4ebf26bb/trytond_product_cost_fifo-3.4.2.tar.gz"
+    },
+    "3.6.0": {
+      "sha256": "937e9030e3844bc7cd652b16a3f45d4e2a3ccce3a38ae288da22735efc5ed96f",
+      "url": "https://files.pythonhosted.org/packages/85/2e/b15c7b05209e7e13c10e2c32fe46277ef543765dbc38c28e82d0ff903efa/trytond_product_cost_fifo-3.6.0.tar.gz"
+    },
+    "3.6.1": {
+      "sha256": "66d76ff4353a8f0e04e0e4ab90e0080c973f21af8e4b283cfeb0ff7db9284c90",
+      "url": "https://files.pythonhosted.org/packages/ef/6c/8d43f2f0f09cb8c9f10f97967e992472d17825fe14007f98ff172138f6b5/trytond_product_cost_fifo-3.6.1.tar.gz"
+    },
+    "3.8.0": {
+      "sha256": "bd44d68e4e062f596b56442de90cb8a7422e250b4af01e51a8ee0a09ac906d3d",
+      "url": "https://files.pythonhosted.org/packages/66/60/2b306f0b9dab063118fc94a354895fbcacf0bc4211b146351e1d4aad8962/trytond_product_cost_fifo-3.8.0.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "d3cb9554cb4f398729007321e516dc824aa97d7674cf95080c58dd34126efc3e",
+      "url": "https://files.pythonhosted.org/packages/05/c6/46d13726cf07818bfcb6ba578c4757ef15ad10d85c6973bcd3a1c4986bbe/trytond_product_cost_fifo-4.0.0.tar.gz"
+    },
+    "4.0.1": {
+      "sha256": "84681e014bc87e08b54c0a99485a6fba67b41a0373571f778d0109dc20d8bb65",
+      "url": "https://files.pythonhosted.org/packages/e5/f5/9d6273e4891ebb693d5873f6fe475d552ceb37300501224cf987a4c2ea4c/trytond_product_cost_fifo-4.0.1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "2.2.1"
+  ],
+  "meta": {
+    "description": "Utility for printing dmesg/kmsg/printk timestamps, taking into account drift",
+    "homepage": "https://github.com/kata198/printk-timestamp-converter",
+    "license": "LGPLv2"
+  },
+  "versions": {
+    "2.1.0": {
+      "sha256": "f6a7d2f0394e6a40302ee2bbbb6d53cb38e96fbee05cf6687afdc1da4b0bce89",
+      "url": "https://files.pythonhosted.org/packages/9a/ec/a0ec514b058a88373c6e594129c110b626e60756518c7d3eb24b7184e175/printk-timestamp-converter-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "af3564d9f2a79b1c740ae880923a0999586765cca725ab86104f92af571b1398",
+      "url": "https://files.pythonhosted.org/packages/81/db/7ec6cd9a03a9d1f5ff1c5ed4c543de3cc6af66a1ae8c4bff9721e89e5e3e/printk-timestamp-converter-2.1.1.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "4df63ca31cb64817ed024f312be4516c34e904fca1185405114a330a8385180a",
+      "url": "https://files.pythonhosted.org/packages/73/57/0b9c5b4c5d3172db658e95a0080b9b2beec4a5f6cf242497407c3a4fd4e0/printk-timestamp-converter-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "796f13098f69334acf967d7d39bdbd062aba0c52a5ec168119497e93972a5a80",
+      "url": "https://files.pythonhosted.org/packages/a7/3b/5032980e093b6155f2c4798415b6302355497ebd38ca3c18ca421c695a06/printk-timestamp-converter-2.2.1.tar.gz"
+    }
+  }
+}

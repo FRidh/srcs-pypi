@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2.6"
+  ],
+  "meta": {
+    "description": "Mopidy extension to persist queue across server restarts",
+    "homepage": "https://github.com/bardoloi/mopidy-qsaver",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "0cac658dcd12ab2d89196a9dcc9f0eb5290a495ee3e50908b49c5329721d49a7",
+      "url": "https://files.pythonhosted.org/packages/db/df/969a3cc8e5ef716ddd4135410a8696533a51e87106c77277a03853adad64/Mopidy-Qsaver-0.1.0.tar.gz"
+    },
+    "0.2.6": {
+      "sha256": "076661bf5bac8a062c4ed7c09fc4eb8bcf957e841b12e638a12fb4cb0725801b",
+      "url": "https://files.pythonhosted.org/packages/8d/25/62d06abd6cf2ce34ec51941776a9fc4f4560c69f7d62806a93d174db9b58/Mopidy-Qsaver-0.2.6.tar.gz"
+    }
+  }
+}

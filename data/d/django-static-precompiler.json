@@ -1,0 +1,87 @@
+{
+  "latest_version": [
+    "1.4"
+  ],
+  "meta": {
+    "description": "Django template tags to compile all kinds of static files (SASS, LESS, Stylus, CoffeeScript, Babel, LiveScript, Handlebars)",
+    "homepage": "https://github.com/andreyfedoseev/django-static-precompiler"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "b7dc5c668980f2ba3225fb4c7baf777a45c926541405ed896fa608f3b1527c88",
+      "url": "https://files.pythonhosted.org/packages/68/0c/ba15a146de21455d60a6f589ba977ec41d9a8a9c64485caedf9ac6f7ab07/django-static-precompiler-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "a975bfe2721c014c5448d7ca697447e465613a177eb671e0a9e872a891457cd4",
+      "url": "https://files.pythonhosted.org/packages/98/fc/47e34d3eb3f6f069c00e5c1ee6e80fc7075994c9ec998674963514d59ac9/django-static-precompiler-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "cf28e3952a09576395a030e658064b15e25a48799155a3ca1a0ba79b110a3d54",
+      "url": "https://files.pythonhosted.org/packages/f1/81/704015d8158daee6654ef154f64ce7a6f3b180ca368b15116ef2aa48c153/django-static-precompiler-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "90f8c5b06c4329e81657dbf21d1b4175cd2e15dee80442121c27cb55e26c7464",
+      "url": "https://files.pythonhosted.org/packages/c8/e4/892e5efb2073e16e57e4a5ea98c33ace6f0d43ac42affe9bc3e4d4ac306e/django-static-precompiler-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "4906f5b57f325c1625e90738cbdcb94d426a9eb9190d151ef26418d41cc8e0c8",
+      "url": "https://files.pythonhosted.org/packages/87/55/7454930188695f9db3d85fcd418d73d3f54c75164ec32502b2f2b4c12c36/django-static-precompiler-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "d7d42954b2e3d00247daa8f68da360a15d1b76c9e29ab2e50577aaff2662dce8",
+      "url": "https://files.pythonhosted.org/packages/84/c0/bad013f083f0f4a600edab8056db16a8d8daa4bdf707c443e9cfa720ad0c/django-static-precompiler-0.5.1.tar.gz"
+    },
+    "0.5.2": {
+      "sha256": "ffc56827aa5b37f9603c54771d21f307a42dce4538233f7e3ad7e0d8f0a64300",
+      "url": "https://files.pythonhosted.org/packages/02/a5/4906f5d7b46fc59fdd4894a69bc54eef0495f583e697fa22cc731f00cf85/django-static-precompiler-0.5.2.tar.gz"
+    },
+    "0.5.3": {
+      "sha256": "19b82d71c6242a9c2a8765e8c77f0c8a72ffa3d39fdf19da3987f8fdfe785372",
+      "url": "https://files.pythonhosted.org/packages/56/b1/11db6a4c013f83babde77618d98d1832291295ecaf1ab3e89e3421a14700/django-static-precompiler-0.5.3.tar.gz"
+    },
+    "0.6": {
+      "sha256": "1ed4c4338648714149283a59f6270999fedc93bcbe5a44ebf2da91c3a18e0e72",
+      "url": "https://files.pythonhosted.org/packages/3f/69/38d3a581560c21a0a3e6f45ac08d734cdde9ffd49711c1faf095e110af0e/django-static-precompiler-0.6.tar.gz"
+    },
+    "0.7": {
+      "sha256": "d7f040efc0a6ca3b99634840ebe37bd50c8413ebe57aa4037d331984e4c8e00f",
+      "url": "https://files.pythonhosted.org/packages/af/91/128a057609f5d38e43c6e3a7bd53acefc8fad8d1cb3cefac397d4b1b47cf/django-static-precompiler-0.7.tar.gz"
+    },
+    "0.8": {
+      "sha256": "c58645482fa85da6a005f4dadf4f8df680f90b2e21e7c331a692950381b9bfc8",
+      "url": "https://files.pythonhosted.org/packages/d9/00/c61ed84fff7433dc6924ef9b4c1f7681c1713a3faa1432b2063ef89c066c/django-static-precompiler-0.8.tar.gz"
+    },
+    "0.9": {
+      "sha256": "3d8f1763bbabcf4f53105f5af65004969e91de858a4351f652f0669379457d16",
+      "url": "https://files.pythonhosted.org/packages/a6/39/d5afdc0ca0dedeb8d1375055bf24024883dc4b851c8ad2cfc0b242a139bc/django-static-precompiler-0.9.tar.gz"
+    },
+    "1.0": {
+      "sha256": "412df048f00d75b322dbb55303366e49ad0a6bf93a09556cd955ec2c708f0c39",
+      "url": "https://files.pythonhosted.org/packages/64/9c/1c9dba3eea867466d269df2cf07296fbc8b38fdca9a5f182c8ef9a88c190/django-static-precompiler-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "21b2db96afd7a7da46a3a803d830deb20655187a3f800832c42f4d2cb6ed8199",
+      "url": "https://files.pythonhosted.org/packages/c0/a8/6710198463ff58713ccd74b71698ed2aa9cdfbf6030e86aa6f740ff3bb3e/django-static-precompiler-1.0.1.tar.gz"
+    },
+    "1.1": {
+      "sha256": "92cadfd41556db601f0c57e0bb6a30fec9c3d6782741eeb65911476830c887a0",
+      "url": "https://files.pythonhosted.org/packages/a3/65/55452d2051e68dd0983ff6426b5d8f3b1a64ce29279a9ec3e6af3bd2f9e7/django-static-precompiler-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "98e8328e45cc1a3de6c2d1d717e8046d0f160147b327ed7f5f710df30196b86f",
+      "url": "https://files.pythonhosted.org/packages/8d/8a/accdb71414a7df27f2eaec2335acd523520c163f131056eb5a2b687b4b85/django-static-precompiler-1.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "a2299ba00cc267072ac2a81be89b021ec232499ac9f8ac072f077272754ce11e",
+      "url": "https://files.pythonhosted.org/packages/51/11/d9d2c8ed34366900b87486b121d04edd1f2af77cf48003e8ca4c44772f11/django-static-precompiler-1.3.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "8477e8846f4409fa9d55e09f58f0e88c26e4c539e022ce912808bd2d1ea70102",
+      "url": "https://files.pythonhosted.org/packages/ef/49/cf13914f4c3acead9787b4387216edea18eaf7e895aeaf120fa5f311bf2c/django-static-precompiler-1.3.1.tar.gz"
+    },
+    "1.4": {
+      "sha256": "4e432814e1c1ebc0fb29696322a318b92f9a7b1a0b4fa6c592ee73a968614504",
+      "url": "https://files.pythonhosted.org/packages/53/99/02aa6ca2e4c0640aa6be2ccd775e22e86f838c0715340786fc4b1bbd5418/django-static-precompiler-1.4.tar.gz"
+    }
+  }
+}

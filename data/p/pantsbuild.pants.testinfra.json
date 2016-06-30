@@ -1,0 +1,296 @@
+{
+  "latest_version": [
+    "1.1.0-pre6"
+  ],
+  "meta": {
+    "description": "Test support for writing pants plugins",
+    "homepage": "https://github.com/pantsbuild/pants",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": {
+    "0.0.24": {
+      "sha256": "45819b5b2e2a24dd9b7c3537c978c4963813a73c3cdf477ba0dc1c574f187c97",
+      "url": "https://files.pythonhosted.org/packages/69/12/5e99c4ad2d5b76b810ee6233e3a113fbc82ec88bac194f183a2d5834fe91/pantsbuild.pants.testinfra-0.0.24.tar.gz"
+    },
+    "0.0.25": {
+      "sha256": "e34f8910f57b6ddf50205e3d2b0975d1858d785de398edd7049c79abd7b48162",
+      "url": "https://files.pythonhosted.org/packages/7c/fa/22a370009ad657e08da3440099f4fa9aefabacc09bda2ead1470896fd6dd/pantsbuild.pants.testinfra-0.0.25.tar.gz"
+    },
+    "0.0.26": {
+      "sha256": "0dadf55f779482e29308c35f6efa10aa6c1761c31ce5a4e14b7bb9c38868521e",
+      "url": "https://files.pythonhosted.org/packages/b5/81/9b5e9be0b62bdb387722ef23b5bb90c5b6faf7f3032c7f38330b7e8bfbfa/pantsbuild.pants.testinfra-0.0.26.tar.gz"
+    },
+    "0.0.27": {
+      "sha256": "2e7d8dfb729d68fd15b13a5ee4f3295265c7cbe46278151953f97036fa2063b6",
+      "url": "https://files.pythonhosted.org/packages/ac/c1/5cc80307420e7114cb1428fc2be6bf6c38ea3276d6d14bb1fe6c7e91e07b/pantsbuild.pants.testinfra-0.0.27.tar.gz"
+    },
+    "0.0.28": {
+      "sha256": "3864c108b7c4c4a15ca4a1637dbc8fe623ca1acb04ebac0cb564b67552a0c0ad",
+      "url": "https://files.pythonhosted.org/packages/93/23/a4bd76bc7c8c71bb74a3d3b90de6169b234e5fda115c6c6d85442e4c8ede/pantsbuild.pants.testinfra-0.0.28.tar.gz"
+    },
+    "0.0.29": {
+      "sha256": "f9bd2d358b17a2b7e89daddb4a757cf2dc46f8d4722f6249095fa6e634d589b4",
+      "url": "https://files.pythonhosted.org/packages/2a/4e/cc28c757305c3420970fad707c38e8a76847dfb30af3e72b7f86b6fe4ed7/pantsbuild.pants.testinfra-0.0.29.tar.gz"
+    },
+    "0.0.30": {
+      "sha256": "9722292aaf47a9ab1e67f02e9fb73b6eece5100856f55aa7c86c207e12b5f0fb",
+      "url": "https://files.pythonhosted.org/packages/22/9d/88d9a7b1923c5e68399b0ccc58c0634f8db8762470c00680955d5e0520a4/pantsbuild.pants.testinfra-0.0.30.tar.gz"
+    },
+    "0.0.31": {
+      "sha256": "936d74fef339a177a875a12e468aca68f60c79abf654487bb26b6b39b0e993ff",
+      "url": "https://files.pythonhosted.org/packages/5b/36/0e6f0b24e6fd7b52a800a5d332408f6bab3c2adcb51e90bc0569e1a5e6eb/pantsbuild.pants.testinfra-0.0.31.tar.gz"
+    },
+    "0.0.32": {
+      "sha256": "01f7bf87cecde728609e4713dc398f5d376e45d6d606b49900de01aaa5146ff8",
+      "url": "https://files.pythonhosted.org/packages/c5/0a/9042949c3490542157ee5a71f63b355a8b94c0d8bb96af2d2531899cab50/pantsbuild.pants.testinfra-0.0.32.tar.gz"
+    },
+    "0.0.33": {
+      "sha256": "c74ecce70995766a4b465236067185a3a4138fbb2047bcb5048315bd0064d07f",
+      "url": "https://files.pythonhosted.org/packages/30/1c/6157e54fd70f963f207bc935cb7da93172ff3e886b48e96f19e26624a7d0/pantsbuild.pants.testinfra-0.0.33.tar.gz"
+    },
+    "0.0.34": {
+      "sha256": "df5fedb1c432904405f12cd4776db18c8428feb3460f6e2d271a3a5e7db6c323",
+      "url": "https://files.pythonhosted.org/packages/4c/a3/ca7f173ccb8d067b6fb2fd4acf7a25a58ca8abece9275a0e767e85b5e551/pantsbuild.pants.testinfra-0.0.34.tar.gz"
+    },
+    "0.0.35": {
+      "sha256": "d02f309bf37d085a1e1eb4e0826066b759b37942ab08b256a4aa005f4e1bf795",
+      "url": "https://files.pythonhosted.org/packages/9a/c1/24fd886d12dd9f6bc4346cda333c096bafeba10953578342f469133f4a40/pantsbuild.pants.testinfra-0.0.35.tar.gz"
+    },
+    "0.0.36": {
+      "sha256": "b7cb8156d824cdd6b22e70d810e2d0f228ab3cb71465c532b37ce22b2d8cea0b",
+      "url": "https://files.pythonhosted.org/packages/02/d4/9cb33fb65d79b8bb16c003f2caf3e8ba83ef212d94e2625579386fb2bb9e/pantsbuild.pants.testinfra-0.0.36.tar.gz"
+    },
+    "0.0.37": {
+      "sha256": "aaddc8365c209327a6e27d571f7a17df0f9d4fff288ee9caf41db50fa1fcc202",
+      "url": "https://files.pythonhosted.org/packages/16/b3/37baf40d781321887d8c133607aca84469c52eb2b7882ba9b995276f2ea2/pantsbuild.pants.testinfra-0.0.37.tar.gz"
+    },
+    "0.0.38": {
+      "sha256": "0bf5d2ff8f8a7c49a79f65fd25ab382d309d10b8ca31b737885c680e80ab1eb6",
+      "url": "https://files.pythonhosted.org/packages/60/6c/50371e81284342fdae6fd6527f3b820dfb6cf70ec2cbc18e2ec63501f552/pantsbuild.pants.testinfra-0.0.38.tar.gz"
+    },
+    "0.0.39": {
+      "sha256": "1c3fa800c1c4991b31db3dd69c7ce37debdf183310c34472532fb81e6ffdb7b5",
+      "url": "https://files.pythonhosted.org/packages/8a/23/027ce058cc53df3ed471ae43cc9afa9e48bed1dc7cb225e4c55041127487/pantsbuild.pants.testinfra-0.0.39.tar.gz"
+    },
+    "0.0.40": {
+      "sha256": "a41a9ecf0a6b2fe3a811999540bb9fccba9f091197a5eedf42283459d286ff86",
+      "url": "https://files.pythonhosted.org/packages/ea/9c/26c025deb1808ac74171c39aeda4101ddaf9a70f333bd27f5c24de20170c/pantsbuild.pants.testinfra-0.0.40.tar.gz"
+    },
+    "0.0.41": {
+      "sha256": "c6e0cc45f643d7e63b7101714758bf3b245553ec22df8d174ae35b5a7b103668",
+      "url": "https://files.pythonhosted.org/packages/62/0b/829aaf340def678879a1de8ecbdd15084ad86ed4de8468b2c4d017e86cab/pantsbuild.pants.testinfra-0.0.41.tar.gz"
+    },
+    "0.0.42": {
+      "sha256": "4a2582c896fed3afe6dd2420517a65a681c0a924903566883bb2bf25c544ff52",
+      "url": "https://files.pythonhosted.org/packages/ad/bb/e296e128b47daa4c0faa0d85d3277a93b8c8cff430e983420a5908f2d7fc/pantsbuild.pants.testinfra-0.0.42.tar.gz"
+    },
+    "0.0.43": {
+      "sha256": "ce47c83c74f6fba5e37823a3621798bf607d9b0b8c2df023123983250ccac9a4",
+      "url": "https://files.pythonhosted.org/packages/cb/33/8056137f45c68d0d0f04169fda06de2cd4bcb678cef54288b99592bee822/pantsbuild.pants.testinfra-0.0.43.tar.gz"
+    },
+    "0.0.44": {
+      "sha256": "b02459d47934fd3b7bfaec642275a2d8db7219ef745cde5ef2180311e32b57e8",
+      "url": "https://files.pythonhosted.org/packages/d4/55/2a0a07855406c09f5b295775546094bc007a1a5f27e07f0eb29a3cbcc74b/pantsbuild.pants.testinfra-0.0.44.tar.gz"
+    },
+    "0.0.45": {
+      "sha256": "02f5d8e7c56696e5c3c9616594bf296f6e4d03f0e95ffdb5eee838446b7d4caf",
+      "url": "https://files.pythonhosted.org/packages/fb/df/72120323180973caa81410d79c00af538557ad5c317aca979d682935b7b4/pantsbuild.pants.testinfra-0.0.45.tar.gz"
+    },
+    "0.0.46": {
+      "sha256": "206c55c08f9d71a986c054a2866a83050122dccc86b70a67e0b5bcfc25d569e4",
+      "url": "https://files.pythonhosted.org/packages/48/72/ba3883ea3e49a5e0732a0589b11d2621d1a0a4c28e61438bf55744042b85/pantsbuild.pants.testinfra-0.0.46.tar.gz"
+    },
+    "0.0.47": {
+      "sha256": "09021d733be11e237d1370ca402b416273b877f1af0a3f9067f89d991250f7e2",
+      "url": "https://files.pythonhosted.org/packages/c9/28/fae42ce0809dd6ebd0872a47c652a2c4bd864da268e85947e8e46bc17fbd/pantsbuild.pants.testinfra-0.0.47.tar.gz"
+    },
+    "0.0.48": {
+      "sha256": "50270b9c66f4c9a0947b184a6087b4314f3d70d32a073f678efc19ff953ded9a",
+      "url": "https://files.pythonhosted.org/packages/64/b7/8b5616f78de2adad90c9e4c6818b6223a592698b21fd4ce250c1dd82d288/pantsbuild.pants.testinfra-0.0.48.tar.gz"
+    },
+    "0.0.49": {
+      "sha256": "2521ca75389994bcb6905edf0fa6bcfec62c28dbbb9be631e740c77b429aa5e1",
+      "url": "https://files.pythonhosted.org/packages/d4/db/ac19c786480a4160084cf4497a10a73e2b592ec55f2f206e6904e1658a00/pantsbuild.pants.testinfra-0.0.49.tar.gz"
+    },
+    "0.0.50": {
+      "sha256": "ecb7b9912ae4c5056e2974031131dc6e838e04ec9cfda53f9346127a48378dc0",
+      "url": "https://files.pythonhosted.org/packages/2d/53/7f72203ebcb303ebbdbc747dd79f4ba6cba2c178f1a4cc85fbde7067f65e/pantsbuild.pants.testinfra-0.0.50.tar.gz"
+    },
+    "0.0.51": {
+      "sha256": "4c0616ee4f5bc7b3bafd498714115f3436ab2ac024133c30804e97c4b1018b93",
+      "url": "https://files.pythonhosted.org/packages/33/2f/cc8820063814b289f9b01cb7ed0befb77eae731aac0b14cd46dd338312e9/pantsbuild.pants.testinfra-0.0.51.tar.gz"
+    },
+    "0.0.52": {
+      "sha256": "10a0c0f5bfb4234cfafdb279f6427dc52b030414ad1daeb98a25731bd1ab02a7",
+      "url": "https://files.pythonhosted.org/packages/0e/5b/173c7622434db35644fece49a8a712f909b2f0246792a69e81fed5c664a4/pantsbuild.pants.testinfra-0.0.52.tar.gz"
+    },
+    "0.0.53": {
+      "sha256": "4cbf3c33446cc1ecad954fed85ef1b26ca53a1b810fde17666c70fa2ea06ff6e",
+      "url": "https://files.pythonhosted.org/packages/0e/b6/06c492b00f4bca411efd9441255d824b8624507d9ee1a34c3683af5289bf/pantsbuild.pants.testinfra-0.0.53.tar.gz"
+    },
+    "0.0.54": {
+      "sha256": "1ffc40ec2879f2763f906413d6fa78489979b8c192109711e99ca73eb349cc02",
+      "url": "https://files.pythonhosted.org/packages/c8/17/0bdc7752152b7f9f73bf6ef7d547e68cc28fecec3b76f2e78d8ff0f10c38/pantsbuild.pants.testinfra-0.0.54.tar.gz"
+    },
+    "0.0.55": {
+      "sha256": "e67935c0e43a4258ae7968a7e2f40674586313bd21c1486fa8bc909a02fc18f5",
+      "url": "https://files.pythonhosted.org/packages/df/74/a7cf25863da1d45005d9e7b3726af7bf44cb3dcc97182fade6ae0d51e5a0/pantsbuild.pants.testinfra-0.0.55.tar.gz"
+    },
+    "0.0.56": {
+      "sha256": "7f358c68faaf2cf829eaa06062cdca03dad6c51d03549323e7933273e87babe6",
+      "url": "https://files.pythonhosted.org/packages/1b/b0/b4a32d0e8e3646acb22d0350efc2561efd5ae3e1eab4b5aa35508ded1aa1/pantsbuild.pants.testinfra-0.0.56.tar.gz"
+    },
+    "0.0.57": {
+      "sha256": "35d98370691a449d7f448c3e759aa2ca41e1f94b815ce14f037dc00c9db87fd3",
+      "url": "https://files.pythonhosted.org/packages/86/0b/62b7762e23ec8dafc3ddd5797fc6b27e7b5f48463de04a5d46e73cc7fe38/pantsbuild.pants.testinfra-0.0.57.tar.gz"
+    },
+    "0.0.58": {
+      "sha256": "457a1810e969af77b9fb2358fe66d14224caaa84f5c492ea366a194ff285c403",
+      "url": "https://files.pythonhosted.org/packages/08/19/3b91d6ea98cd70cb5aea781a679bc88c13fbdea081b8030b470f4b05fb0d/pantsbuild.pants.testinfra-0.0.58.tar.gz"
+    },
+    "0.0.59": {
+      "sha256": "7034075c8973969ead28686781bf64a6423d123523798338e76da2e5fa025346",
+      "url": "https://files.pythonhosted.org/packages/49/b6/2c0278486ac15ca14edf15c812b86934eaa1888b0b92c933a8ad2f360846/pantsbuild.pants.testinfra-0.0.59.tar.gz"
+    },
+    "0.0.60": {
+      "sha256": "5ea4935a3780be3dc62a585363871784af52323dbbb16edcdcd6268a86cdf39f",
+      "url": "https://files.pythonhosted.org/packages/22/32/fa9b3324ffd9c4f6a7f9705a452d8153ebf6f528e8abe4b307a55a540d6c/pantsbuild.pants.testinfra-0.0.60.tar.gz"
+    },
+    "0.0.61": {
+      "sha256": "b81677bb0365b09cb7b79d25005c8407a37039d83d45dc842ce785249c38976a",
+      "url": "https://files.pythonhosted.org/packages/65/3d/834f9c76480df08032aef0a57bf3d6f92bf28f3e183e3785f75dd537e774/pantsbuild.pants.testinfra-0.0.61.tar.gz"
+    },
+    "0.0.62": {
+      "sha256": "7275acbc4c49d8b10a498f566b0019273fe8652069cae3dee01aa1a5f1bb81cd",
+      "url": "https://files.pythonhosted.org/packages/e0/0f/c86907fbe94b320c964e5f82d462674a89a7be4154134b5b5ce6be2220b8/pantsbuild.pants.testinfra-0.0.62.tar.gz"
+    },
+    "0.0.63": {
+      "sha256": "630006b578bb912245fa0bef84bb4b62cb56d54d7686da4ab608b09b061d43f6",
+      "url": "https://files.pythonhosted.org/packages/94/d0/b153da59d6daa115a90ad98a631b8be1c37c76a7a13ca4d173c20e8989cc/pantsbuild.pants.testinfra-0.0.63.tar.gz"
+    },
+    "0.0.64": {
+      "sha256": "514a65feb563dd60e40170b3a4d17b4ce73ca9a5866e0e7823a4bb68e02c82cb",
+      "url": "https://files.pythonhosted.org/packages/51/87/6fd2edb5e922eea6dc3ad7be45e92630ba17302f1b5eca327b673b23126e/pantsbuild.pants.testinfra-0.0.64.tar.gz"
+    },
+    "0.0.65": {
+      "sha256": "29b1a05ca199efe61072cc6f0f36f02afd9f7a1c29c62acd3220d57aad3b566d",
+      "url": "https://files.pythonhosted.org/packages/04/f6/e56cf4f142afd9239d76ec4c386ee967fdc11625077af41d842d8795c73b/pantsbuild.pants.testinfra-0.0.65.tar.gz"
+    },
+    "0.0.66": {
+      "sha256": "36db0a6c539be95d7f4b10e64d94979b84b81c628b0469a9f07d7e36df2d0a26",
+      "url": "https://files.pythonhosted.org/packages/0c/c2/6b3e2f09e25365e99a65d0640045930f280d73d14b8d1e67cf92cce5763a/pantsbuild.pants.testinfra-0.0.66.tar.gz"
+    },
+    "0.0.67": {
+      "sha256": "847c59ce8e200c0ae1b1439b08e7110ad3ec0bd64964fb042dd2817e16a27764",
+      "url": "https://files.pythonhosted.org/packages/fe/0f/c78811c453b4c46a943e203fac06dd7f6f1633f583a00ea8152c436f0420/pantsbuild.pants.testinfra-0.0.67.tar.gz"
+    },
+    "0.0.68": {
+      "sha256": "e0a8a172c1184834c99141bfc49c1766d03e222fc3749266757b25b5b4e0f667",
+      "url": "https://files.pythonhosted.org/packages/18/d8/4483a085270cca5b3a55af01eff629a4b90373e805d0c125f485b81cdf98/pantsbuild.pants.testinfra-0.0.68.tar.gz"
+    },
+    "0.0.69": {
+      "sha256": "087fd51248aeaf7eb18d2ad2423d2a93ec42c3fb63e94aab4299ac796b637f82",
+      "url": "https://files.pythonhosted.org/packages/e7/5b/cb645f494fef82d26e16b8a67c7ce38d073ef4835d62cf306e86ff536596/pantsbuild.pants.testinfra-0.0.69.tar.gz"
+    },
+    "0.0.70": {
+      "sha256": "7f334d422d749cadf176c8587c38002de931bc4ca741b8a7fe6a034f7d6ce633",
+      "url": "https://files.pythonhosted.org/packages/5a/d5/dcbed5a895881a443d38a0d809d13a6266bc8a40bff53bdd1d9b95b680f2/pantsbuild.pants.testinfra-0.0.70.tar.gz"
+    },
+    "0.0.71": {
+      "sha256": "c80526e3c113d1c1b4983516cea64c9261ffaa0bdc9760793f1df108ffde1e3a",
+      "url": "https://files.pythonhosted.org/packages/35/1b/6b202bb383864cf0b8b5a0ce1ef0007b191d8a19a5deb84eac1eff8414b4/pantsbuild.pants.testinfra-0.0.71.tar.gz"
+    },
+    "0.0.72": {
+      "sha256": "aecbfaa7e545e7e872423b22b7ac9db9384fa2309623a6019a509015a89c52db",
+      "url": "https://files.pythonhosted.org/packages/95/cc/245686307318fdf0c4e96e323732c27cad1bf6303af170ecb8c6d56ad70c/pantsbuild.pants.testinfra-0.0.72.tar.gz"
+    },
+    "0.0.73": {
+      "sha256": "0a401dbc7e6fd47750a2a4d6a9b863f2dc722eed168649f3842579bb3f6f731f",
+      "url": "https://files.pythonhosted.org/packages/e6/22/0052cea7c6139f6b4997ab0b631322ac32ad152bb8cc6d56e1b060bbceaf/pantsbuild.pants.testinfra-0.0.73.tar.gz"
+    },
+    "0.0.74": {
+      "sha256": "edb1447b02670597e0536232cbc1ad6baf7155472ab7fbc8827521940f1dce39",
+      "url": "https://files.pythonhosted.org/packages/a6/08/04bc5806ae12843567e87790e0f769dd5bc80486c661f85418a0cdd80dcd/pantsbuild.pants.testinfra-0.0.74.tar.gz"
+    },
+    "0.0.75": {
+      "sha256": "8b5642d7cfbe140009f710c58ffa81023229f7ea30dec42580fe0c3c3e01f152",
+      "url": "https://files.pythonhosted.org/packages/6b/40/f08fb463cddc9b1cf84089ebea8f2b10c3afeec4c2e9e4e95c3abd07f06f/pantsbuild.pants.testinfra-0.0.75.tar.gz"
+    },
+    "0.0.76": {
+      "sha256": "c8f905cce5551cd2e671b75c48e6318b5ef1d0276c0d3f3db6a2f9e474495abb",
+      "url": "https://files.pythonhosted.org/packages/d5/3e/d69d07a5f89ad1c4c07bcc30977588b8aa2b300f69dc2dce1a58b51bb54e/pantsbuild.pants.testinfra-0.0.76.tar.gz"
+    },
+    "0.0.77": {
+      "sha256": "feace1d309a07eed6e9e914b8bf2858b5f624b083aaffff7b8d480674b34a1f1",
+      "url": "https://files.pythonhosted.org/packages/0d/b3/49e93398f5ff0b40bd72209683748422f0312b9dbf7923032dbc5135ec9e/pantsbuild.pants.testinfra-0.0.77.tar.gz"
+    },
+    "0.0.79": {
+      "sha256": "ecc69b9d3266edf4941d551b3393f786b49c941d953fa483c8d2439a9d0dfe2a",
+      "url": "https://files.pythonhosted.org/packages/9d/c2/d4fd620a5e5c32939836e3e387b769593d22024cdf9b4ec9cb3dbefb59ad/pantsbuild.pants.testinfra-0.0.79.tar.gz"
+    },
+    "0.0.80": {
+      "sha256": "7a252dd17b3ebbd4cc1b008e4bfee660dbfd85e6e61e829f3c75e2e9353df248",
+      "url": "https://files.pythonhosted.org/packages/a5/68/472a1e709e0c38971cf8d07ddb8498ef1a3eb932e121765677dfb010e8cc/pantsbuild.pants.testinfra-0.0.80.tar.gz"
+    },
+    "0.0.81": {
+      "sha256": "8c71828d4f1634084168aa1859316134abf75dbb98b15bdec3a71719a8deb228",
+      "url": "https://files.pythonhosted.org/packages/2b/e4/2a5065f2f42c48e547056717251c50bd67fc53d900f2f3fa77d9a29fb410/pantsbuild.pants.testinfra-0.0.81.tar.gz"
+    },
+    "0.0.82": {
+      "sha256": "11c7005b6615bd25042cafb9cb6697d298154fb69642fca8f3389d963bf28eae",
+      "url": "https://files.pythonhosted.org/packages/05/ca/036de20bd0b599d26448cb8eac3388d21e1164a19d0dd3fb827bcf8ffba7/pantsbuild.pants.testinfra-0.0.82.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "3d314de470f234730bee98b069aa69df050c57cf02e3793966eb214722073cb2",
+      "url": "https://files.pythonhosted.org/packages/a1/7f/3ad6227d2993df0169c6e594db031c302f0d23d81e2c182cd68420451b3c/pantsbuild.pants.testinfra-1.0.0.tar.gz"
+    },
+    "1.0.0-rc1": {
+      "sha256": "a2b2984ceca1e64325917f7624237058ca4432105ebad4e7dd1d94f7ff87bbf8",
+      "url": "https://files.pythonhosted.org/packages/45/32/5831a7de7d72a16c981ceb6a3ffc93e180c7374cbd29b4bcf6ab3ccd74e2/pantsbuild.pants.testinfra-1.0.0-rc1.tar.gz"
+    },
+    "1.0.0-rc2": {
+      "sha256": "00b1343bbe2239bb00351ecb00324396aaa9a51ae52475419786ccbba0e92260",
+      "url": "https://files.pythonhosted.org/packages/2d/ef/85593f49c229130aac7e0afafe720d3256a0b38d15bc61b8dbb1e4786ba5/pantsbuild.pants.testinfra-1.0.0-rc2.tar.gz"
+    },
+    "1.0.0-rc3": {
+      "sha256": "9c04da723919d55b367b8c9b0c53c0ff809393a67e62f07639efced264d44000",
+      "url": "https://files.pythonhosted.org/packages/24/6f/a1dbbce69eafba24b3c908291d216bbe197390840e270dc0c33ab3d5bcee/pantsbuild.pants.testinfra-1.0.0-rc3.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "40218b95a2e1c62226647d2fe9203a3265034a34f9a7d762ab9da31e968a3aa6",
+      "url": "https://files.pythonhosted.org/packages/42/ea/6d955fc091a2a335a7c9bad868f1411cd52d68b04e9326c7bce8d6dbb3b1/pantsbuild.pants.testinfra-1.0.1.tar.gz"
+    },
+    "1.0.1-rc0": {
+      "sha256": "e18525e04f0e10c2e4af8dcae95519b6abc443bea79b42ab876fb012e5e067ac",
+      "url": "https://files.pythonhosted.org/packages/7f/01/e37ac0f6cdc0cafd46db600a97278107e94c1a2e8542165d60d679eb2563/pantsbuild.pants.testinfra-1.0.1-rc0.tar.gz"
+    },
+    "1.1.0-pre0": {
+      "sha256": "c907ae5d6a9fba5bfae964b04a802df23e6559a2eb3b793c66860388f91c2203",
+      "url": "https://files.pythonhosted.org/packages/45/fd/2537e5946cf25e04672b8b9cd851c40bef6cb41ea8425252ee1c0b1dfd60/pantsbuild.pants.testinfra-1.1.0-pre0.tar.gz"
+    },
+    "1.1.0-pre1": {
+      "sha256": "67722c5de05cb72088164b78ffd8f09063ee81ca492d0cb0bc2848c2f2980f2a",
+      "url": "https://files.pythonhosted.org/packages/e8/18/f6495b08cde6cda8637843ae0aefce519797f103dd0259862d09a92a1b8a/pantsbuild.pants.testinfra-1.1.0-pre1.tar.gz"
+    },
+    "1.1.0-pre2": {
+      "sha256": "64e42de4c6866ae133f617162ad08458b50f8aa46d6fc0c2064ca003c132cb77",
+      "url": "https://files.pythonhosted.org/packages/7c/e7/78085799101d20d0edbd51c92ce83ec80bf12b6e5c52cd02df0fd2b5b895/pantsbuild.pants.testinfra-1.1.0-pre2.tar.gz"
+    },
+    "1.1.0-pre3": {
+      "sha256": "d1683263fa40a4573ea8c17e6dcb33f4ee319f10a72dfd2a6b76b331511db8eb",
+      "url": "https://files.pythonhosted.org/packages/0e/7a/4f0d238ea2dbaf194f656df1a3ed4358d1a023a29661858d3275bc23b17d/pantsbuild.pants.testinfra-1.1.0-pre3.tar.gz"
+    },
+    "1.1.0-pre4": {
+      "sha256": "81ef3f7896070cf4b2e431c3233bc3512df514f84063acb49f7dc8b55da31837",
+      "url": "https://files.pythonhosted.org/packages/ab/a2/c5047935737d1d82a28d155988a60fb8b61f07109fe7d07cac94c2058fa9/pantsbuild.pants.testinfra-1.1.0-pre4.tar.gz"
+    },
+    "1.1.0-pre5": {
+      "sha256": "f2f5995a0c5aa2f9a5ac12e72f6e4c6166eb3e8af789a706989d50459bfb5125",
+      "url": "https://files.pythonhosted.org/packages/d3/a3/5ed88d2267f0221d5d538dad53811a4c1ec8535a6ea3d984197a40828d5d/pantsbuild.pants.testinfra-1.1.0-pre5.tar.gz"
+    },
+    "1.1.0-pre6": {
+      "sha256": "de8fb93f4e69a49245eed6e8dc8657d00d6929464e5853818d17351d09f788fd",
+      "url": "https://files.pythonhosted.org/packages/44/27/2e735da9ce7da1543045764cb786a9ccc6c4109690ef65154d597e6edd04/pantsbuild.pants.testinfra-1.1.0-pre6.tar.gz"
+    }
+  }
+}

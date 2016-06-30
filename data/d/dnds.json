@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Calculate dN/dS ratio precisely (Ka/Ks) using a codon-by-codon counting method",
+    "homepage": "https://github.com/adelq/dnds",
+    "license": "MIT"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "c5e1f9404270f49801001b2b3e0ebf8bf7366be2dbf59b52e2239045d5d99a58",
+      "url": "https://files.pythonhosted.org/packages/e6/fb/d9cea72a03e8567c6453897721c7c88aa5f8f568b5b8b17023710517c82d/dnds-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "893b1415ac8d968ef54208f821523f76cbfdee0f50be2149ce466b8bbd427434",
+      "url": "https://files.pythonhosted.org/packages/2d/da/c4b5acd3746da00e9bc3ef4fdf5a2d9b10d5bb0f89a3cced6f249052c258/dnds-1.0.1.tar.gz"
+    }
+  }
+}

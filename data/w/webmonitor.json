@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Monitors a website by retrieving it periodically, complains if its down",
+    "homepage": "http://github.com/mbr/webmonitor",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "e3b015b37634b10d6e3f8ae8481668fe40e687b959fbd7780739a7d7472f7c41",
+      "url": "https://files.pythonhosted.org/packages/6f/02/375ffbc2734d2205120693b328bd805c3decae6299c179c552c3e7dd5cab/webmonitor-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "d9894140486d757fe9ea2f01e0d45ada5cb05cecba3d3e27100417ecac01af40",
+      "url": "https://files.pythonhosted.org/packages/07/bb/acd95c4645ba9dd6c9c393dffa90cfeeb436ace2560a3a5fd9053b566f52/webmonitor-0.3.tar.gz"
+    }
+  }
+}

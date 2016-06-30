@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "8.0.0"
+  ],
+  "meta": {
+    "description": "Unicodedata backport for python 2 updated to the latest unicode version",
+    "homepage": "http://github.com/mikekap/unicodedata2",
+    "license": "Apache License 2.0"
+  },
+  "versions": {
+    "7.0.0": {
+      "sha256": "0ce7a9cb004b035c489598d52e67bddaf4510c573082fc472dd02dbf71fbce3d",
+      "url": "https://files.pythonhosted.org/packages/b6/f5/2fa095f58ab3d76e30b89d8e79731381f8cdc4ef06f2fbbba8abcc555fb2/unicodedata2-7.0.0.tar.gz"
+    },
+    "7.0.0.post2": {
+      "sha256": "5cd688f482a503621aa2dcff701e7968564715785ed966c97474076140d96232",
+      "url": "https://files.pythonhosted.org/packages/bb/0e/8647c580a8a6b56ec31e63ed90a7b7facdcad1a0f014e48b02590de38b02/unicodedata2-7.0.0.post2.tar.gz"
+    },
+    "8.0.0": {
+      "sha256": "83ade023678f55a35650cd12213c9fd8b38e2af90d4a8c71ce92a04e609e95c2",
+      "url": "https://files.pythonhosted.org/packages/c9/46/e694c4f2ce0f638747a386a6bdedaafaa23ce845df64f0016f95fe0e54c0/unicodedata2-8.0.0.tar.gz"
+    }
+  }
+}

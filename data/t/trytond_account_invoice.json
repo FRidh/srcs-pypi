@@ -1,0 +1,308 @@
+{
+  "latest_version": [
+    "4.0.1"
+  ],
+  "meta": {
+    "description": "Tryton module for invoicing",
+    "homepage": "http://www.tryton.org/",
+    "license": "GPL-3"
+  },
+  "versions": {
+    "1.4.4": {
+      "sha256": "665ac6221d317288b1627e6b41dca2ae2812a0f9779ea39d6b69fc6ff763b712",
+      "url": "https://files.pythonhosted.org/packages/b6/ec/407279f9baa2768a8a4f81dcadb62b9adfb56a1046745a9f9ab1029383cd/trytond_account_invoice-1.4.4.tar.gz"
+    },
+    "1.6.2": {
+      "sha256": "a4151489bfe00345e046ee86b1695f9569d3434f449314060303951ebd0e9714",
+      "url": "https://files.pythonhosted.org/packages/0b/9b/68d92785bc6d8d02b794bd1d8b8099652b00f21b67583e714a7930996163/trytond_account_invoice-1.6.2.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "32f71c7fde7205086aea77ca7dc4f42d8cba5d156a7b1a86991c472cbdacc09a",
+      "url": "https://files.pythonhosted.org/packages/28/97/af09176b5c7a6a73dccee63d61a7f481841bce64b4f5d1e02bf21ad3c4d3/trytond_account_invoice-1.8.1.tar.gz"
+    },
+    "1.8.2": {
+      "sha256": "237e4e7a2fd27056cba028de2d4b7fc407e070654e368bce254177ffa99d9ab8",
+      "url": "https://files.pythonhosted.org/packages/96/f1/c601fce4b44fa431bdca25b863af7d1b6edf0c9020ac9cd0eb76762b52b0/trytond_account_invoice-1.8.2.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "97427e5a910ef8b151281f807155459f704f4bb07e4879730733e32f7be84824",
+      "url": "https://files.pythonhosted.org/packages/59/43/84875e24dd7febcfc9cd7510202cc0e4c5befb4a96bfac3934fa521f1032/trytond_account_invoice-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "f6eb966c1053f3f0b138df99d20b79c3febd76a032687a0fa2e84d0b30f468aa",
+      "url": "https://files.pythonhosted.org/packages/5a/de/67b5fa5276d09ff2d52ca3aee29ded2a6e5e2463dc773a042e7294775b55/trytond_account_invoice-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "6880b25e7e9c163f23dada547aba4c17e581ebb82dd13383384b2222416b8fd1",
+      "url": "https://files.pythonhosted.org/packages/c0/7e/411a165e9b63ef17f4437c0d6656f8262e436b5c68ea44ccaf16c0f3873d/trytond_account_invoice-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "d110b8de1b26d413d617eaeda20e33d11494e2c6154597bd36bec9e4c8e06a97",
+      "url": "https://files.pythonhosted.org/packages/d2/2a/cf74b91b4503dc8e152f7e247a9fa5bf82b6ad0377a8a340a1071877edf4/trytond_account_invoice-2.0.3.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "67f730f5c933f4464e7af8012f6e1abebf2ea9b1d81ab493c724e52b42cce5d4",
+      "url": "https://files.pythonhosted.org/packages/6d/68/22411aa2b75ff28da8e8e59efa3b9f9f059a10bbe8585b428e6bf96b17fc/trytond_account_invoice-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "ac04268dd52a1e29500ff453891590e60f4e6c36c398a68464c8b205c9ddbed6",
+      "url": "https://files.pythonhosted.org/packages/e1/1b/3c53fe1692835ab3c017e4d9f644f2531c28c98b7ab06cbeb25d304572c4/trytond_account_invoice-2.2.1.tar.gz"
+    },
+    "2.2.2": {
+      "sha256": "282453323496c1225b79857693c4737b73f16d4203b3a418c4a6e1c6c93cb580",
+      "url": "https://files.pythonhosted.org/packages/bb/cc/607d10f86dacb4393031948945a36da1901101b686f060c459bcf7411f83/trytond_account_invoice-2.2.2.tar.gz"
+    },
+    "2.2.3": {
+      "sha256": "21ed4cdc24abe107dde472ec033e749b4fce586ae41a893dbb23fdb85b01133a",
+      "url": "https://files.pythonhosted.org/packages/89/75/543d39e679bd86cdf275bdf0b45581eff5207e5b3c458463cb6861d1cb8a/trytond_account_invoice-2.2.3.tar.gz"
+    },
+    "2.2.4": {
+      "sha256": "9ecbbc77a6b1fc052d1b5b00c5fe6f7e1707708d8cb8bc452d8c87e2aa0d903b",
+      "url": "https://files.pythonhosted.org/packages/06/49/1f04afe04fcebc4a0c8677194c584ba72024df18dccb35872134a619730b/trytond_account_invoice-2.2.4.tar.gz"
+    },
+    "2.2.5": {
+      "sha256": "b5a4e1d01d51130c1d7f02b4e4afd1ca96363a9d95ffc4ad1cb76625e2484fb8",
+      "url": "https://files.pythonhosted.org/packages/dc/ec/b140271480ada029b56fa1b03fcd077059578e263080a8665be40268d265/trytond_account_invoice-2.2.5.tar.gz"
+    },
+    "2.2.6": {
+      "sha256": "a8c944ef48a431157e4b09e98ad2d88ccea7cd51d3e67047665a565e380bf0af",
+      "url": "https://files.pythonhosted.org/packages/5e/4d/fe651a23e6b6e077bbb9042847f99f83410c92c90359ab66eba5ab4af712/trytond_account_invoice-2.2.6.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "f7b8f288d552e8a52cf7f245720c756f9bd7dfa7df0ef3dca14533bf3de24e0f",
+      "url": "https://files.pythonhosted.org/packages/6d/68/cafd260a807b8caaf802d38504d82cbde04234274343077f239cd691e883/trytond_account_invoice-2.4.0.tar.gz"
+    },
+    "2.4.1": {
+      "sha256": "8eae98a70a4396390b5a19edf434c8e8ac1c89027199afd111f74547a1bbfa24",
+      "url": "https://files.pythonhosted.org/packages/0f/c1/9692c4dff6a8529c46f9564a8bb8f8d5f4c471c01c40c5c998225fed17b3/trytond_account_invoice-2.4.1.tar.gz"
+    },
+    "2.4.2": {
+      "sha256": "1b6a42d68348405a43eca3b72ed84eea487ff5523ad0ee78c947c006ca70c07b",
+      "url": "https://files.pythonhosted.org/packages/d8/8f/9570e51c488759da968aafdbd542d543d99afc9643a79ff6ca843cd63150/trytond_account_invoice-2.4.2.tar.gz"
+    },
+    "2.4.3": {
+      "sha256": "07a0ffe656950a18ff4128dd47dfa5a5b66399ad729e97b49a4b40d8bccccc45",
+      "url": "https://files.pythonhosted.org/packages/31/4b/dc57afba5995a4c74f101adc60c3000bad6fe79c8ff39ed74205edd05a2a/trytond_account_invoice-2.4.3.tar.gz"
+    },
+    "2.4.4": {
+      "sha256": "7c70785f6cc5fb95914d1b56a00ef13d858d4a9bf8bbbd13545e6003cdfcef64",
+      "url": "https://files.pythonhosted.org/packages/ab/cb/32db07027196553609f4b3fa2e54a692f99522ba0a5d4bb839a49f42b2ee/trytond_account_invoice-2.4.4.tar.gz"
+    },
+    "2.4.5": {
+      "sha256": "e3bce1eaaee57618eaab1a6869861a154778dd3e8f307e7e2ef61d884ca47c06",
+      "url": "https://files.pythonhosted.org/packages/ae/e2/a2943ce6f5d2306e4d5f008776e060b439af032a6be500a759b9e06119f6/trytond_account_invoice-2.4.5.tar.gz"
+    },
+    "2.4.6": {
+      "sha256": "40c6fc44bc895ef868c2b51e3e57e824fcbc1066bb28163b84fa7cb1859b1b47",
+      "url": "https://files.pythonhosted.org/packages/c9/e5/4aec1547389fb239b617f36ddaa5895283a88ff148e6d806be8f0bcb0419/trytond_account_invoice-2.4.6.tar.gz"
+    },
+    "2.6.0": {
+      "sha256": "841ef79fa2e8dae35fb43ee47fcda09973c1099b6396fe09a7c9f44c9039c5d1",
+      "url": "https://files.pythonhosted.org/packages/70/1b/edc264ae6b0fffc4c053baf523ca18d5d34c30686a2fed7f3e4ece4bc27b/trytond_account_invoice-2.6.0.tar.gz"
+    },
+    "2.6.1": {
+      "sha256": "e26e839d070b200eb8632d27375de2b5638c9b68f9091b9ab11726603263dc00",
+      "url": "https://files.pythonhosted.org/packages/4c/d7/a39d504995a34620ccd1beb74704408778e3864a4500556eccc36fec11f2/trytond_account_invoice-2.6.1.tar.gz"
+    },
+    "2.6.10": {
+      "sha256": "3cd03b641340cadba154810e95f2316ab6e5ac4f8cacb9f895ba5a3c80848a0f",
+      "url": "https://files.pythonhosted.org/packages/3b/d5/8f09ee511e76e5b1f8d8dd923ef22313a40c0e5436cde48b56e2b5ae1dd9/trytond_account_invoice-2.6.10.tar.gz"
+    },
+    "2.6.2": {
+      "sha256": "9feb79a7181b2acd123978597f401d411e5f6a9307981f53de7451d4c57e2e09",
+      "url": "https://files.pythonhosted.org/packages/cc/bf/4b91da99ba748a707591390110c6d8ae97d8a922ea9d9099d3f82c20e72d/trytond_account_invoice-2.6.2.tar.gz"
+    },
+    "2.6.3": {
+      "sha256": "f97f75af2cf6dcb121c208115b9f474908b3d9792fa3dc38ad45c1ccd01d50b9",
+      "url": "https://files.pythonhosted.org/packages/13/6e/b51b4c11c42b35789e9d24dca774156643711877805fb0ef20e9ea15a303/trytond_account_invoice-2.6.3.tar.gz"
+    },
+    "2.6.4": {
+      "sha256": "4940014366a952acb7582c2de9632d068c4fbe57c22a2004a9014162e660f4a8",
+      "url": "https://files.pythonhosted.org/packages/47/d1/b0c701d12928a03d12dcfb5fba5931be38ea8f8e7eb25e0de781d81f64d6/trytond_account_invoice-2.6.4.tar.gz"
+    },
+    "2.6.5": {
+      "sha256": "cb5e70366303050ee91fbfd6afe47614e1d31de27667b157e3d569baef8ab615",
+      "url": "https://files.pythonhosted.org/packages/c9/66/192299cdf6662bc3b35b00a05448ee6ecaff304b0a1a20d06f5512a4fe82/trytond_account_invoice-2.6.5.tar.gz"
+    },
+    "2.6.6": {
+      "sha256": "293a49adcc2c7783856df43d2a1233e904a6b5191c5d1e685a1017bbba2faf85",
+      "url": "https://files.pythonhosted.org/packages/27/c9/ffbbb6783cdaced3bc00662b04c8a6972dda272c42b6fbf791556ee9663e/trytond_account_invoice-2.6.6.tar.gz"
+    },
+    "2.6.7": {
+      "sha256": "96db1fd491e081e0f2a05a1cd8df24ced762b52dbdd84432e36fa772a23d94da",
+      "url": "https://files.pythonhosted.org/packages/3c/00/d841c6056240c7812ff38b466cfe0044af5f124e07a105c543552747b97d/trytond_account_invoice-2.6.7.tar.gz"
+    },
+    "2.6.8": {
+      "sha256": "05d8999c11939a7cff5a4f400bcf94ff6914d7f31de9f2ec27052ce0f3c9d9b8",
+      "url": "https://files.pythonhosted.org/packages/09/41/36369a7c02e744d8a198b318f7f10f7fbb1244c8226dae7ebf09efc77b14/trytond_account_invoice-2.6.8.tar.gz"
+    },
+    "2.6.9": {
+      "sha256": "756152570febaa13f24eba71542300e877276f8517492d8e85ee0d9aa86127dd",
+      "url": "https://files.pythonhosted.org/packages/43/21/9e61c0dfbe8fa8d9ccb9897ab2ed02ccd6fd4893bbee90fff4a32018485a/trytond_account_invoice-2.6.9.tar.gz"
+    },
+    "2.8.0": {
+      "sha256": "530293c4813659d9210e46d9a4d20e6ce245e1bcbf49d5e8f87d56345fb154a5",
+      "url": "https://files.pythonhosted.org/packages/98/aa/5e244d702de49e687b1fea42fd6402afb840edb74e1d8b52eea9cec9423a/trytond_account_invoice-2.8.0.tar.gz"
+    },
+    "2.8.1": {
+      "sha256": "7a6b7d51d7dd695bee3abefb0b3cc748b1e4fbd2e7131407e2a7913729bf2171",
+      "url": "https://files.pythonhosted.org/packages/60/53/3713c6de0c1672bd25ca7be36e5a06dedfb6075eed3f24f73fed2b60b283/trytond_account_invoice-2.8.1.tar.gz"
+    },
+    "2.8.10": {
+      "sha256": "37f4270fbd371bc18a41ce58d9dbbb410f3997064ad6aa06701beedb6b547bbd",
+      "url": "https://files.pythonhosted.org/packages/84/e2/ddb12f6cb3e8b2de94fc21df1cac8d3ff192ec9d9c48526da230ee49f0ed/trytond_account_invoice-2.8.10.tar.gz"
+    },
+    "2.8.2": {
+      "sha256": "9f2c546d815c035aa8979e7a9e9c9380444faa7bf94470cdb664a495c2beb80d",
+      "url": "https://files.pythonhosted.org/packages/30/3e/02503733b1bfefd94f44e31c12776c314d0363f942ea35d29f1176464748/trytond_account_invoice-2.8.2.tar.gz"
+    },
+    "2.8.3": {
+      "sha256": "a3ea64d3f963fad7fa2372c035ebe27f1c385a62a3dc975833e70ea14b739438",
+      "url": "https://files.pythonhosted.org/packages/35/a4/ac5c9f5c5d02cc7d9ed1254e7a16c2b76052b22f15b9c6ed89365cbd9f06/trytond_account_invoice-2.8.3.tar.gz"
+    },
+    "2.8.4": {
+      "sha256": "cc32e0b1d164d4428b9c072e1cbfdc19a40a6136d6cc60564bdf644225b04f19",
+      "url": "https://files.pythonhosted.org/packages/ad/26/80fe4b65a896ec71393e26bd6e3576e654927af9d84cc91edd0b33790e40/trytond_account_invoice-2.8.4.tar.gz"
+    },
+    "2.8.5": {
+      "sha256": "2f464bc9c3cee0875e1f12c0c873ce28c806aa1bddc065628cd4f3391ce676e7",
+      "url": "https://files.pythonhosted.org/packages/31/7c/fd17f89cbf6e1ad93461449bf856804bba60256d02b09e0bf1801f3383c1/trytond_account_invoice-2.8.5.tar.gz"
+    },
+    "2.8.6": {
+      "sha256": "2e9a8370d236fbdf2d0d7a4e3ac13f207e6ddd40313a06b90d5d8c6ed28e8204",
+      "url": "https://files.pythonhosted.org/packages/b8/83/80a1ea2cd2d7f15dca904983a8fbadc11940a83e91c4d302ba1d0c496e78/trytond_account_invoice-2.8.6.tar.gz"
+    },
+    "2.8.7": {
+      "sha256": "e304d6e9890d6c903cdd59a99b792253c01629c54e0e107cb8f9ded5c1e66476",
+      "url": "https://files.pythonhosted.org/packages/c0/cf/b4dc5d2a34ef198f600420d4ec37481f7946281f637a404f85cfb5d6a663/trytond_account_invoice-2.8.7.tar.gz"
+    },
+    "2.8.8": {
+      "sha256": "b0794cf13b50ecddd6d13316cbcc9eb17b8f8c98900b95cc08ef2efb030e1315",
+      "url": "https://files.pythonhosted.org/packages/bc/9f/e9448f25aab26a9b62815252a123fbc5fbf2b376110cb8f1b855a8f51d87/trytond_account_invoice-2.8.8.tar.gz"
+    },
+    "2.8.9": {
+      "sha256": "8a9c3823656a29e49fc21cb777a38a8bb014dbce6c6bcb74d7a1bd174efdffec",
+      "url": "https://files.pythonhosted.org/packages/5a/b5/ce01d5eb5bcc28eafdcb77536f34d5b2170fbc1e9d8a99ddcd4f86db2486/trytond_account_invoice-2.8.9.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "021b61133358a37ee19bff17c621b1b139e9b5dd00b9843cc3bfaf22e945e2d5",
+      "url": "https://files.pythonhosted.org/packages/21/ce/1032cbc0e7469787ddf929d5812c6689e97bc51ec10359191d878fc1ceb0/trytond_account_invoice-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "0f0f98dc350c03bde39e18de76854ad3c36e8695d83f5e2f28a7d2de41d4d6e8",
+      "url": "https://files.pythonhosted.org/packages/64/49/6ee048c07ebfd1b5b1a26140c58f00660972fa02b1d79e34221d2efaca01/trytond_account_invoice-3.0.1.tar.gz"
+    },
+    "3.0.2": {
+      "sha256": "dcbe20c544f1921e9c67a43fc6613fa34ffb66976b06481a7fc99eafa61b37f0",
+      "url": "https://files.pythonhosted.org/packages/41/7f/21b4ff61e3734e3573fb8472bb777ed913992fb27a1ae3bd9888c8f4293e/trytond_account_invoice-3.0.2.tar.gz"
+    },
+    "3.0.3": {
+      "sha256": "df6b0f809cc80174866e65666d2a9c1c873e6148cafb217a7b183a6ffa5e1733",
+      "url": "https://files.pythonhosted.org/packages/9b/07/afed7f0c9bd6186542bb24fbf053a50cc264c333d182b8147ca646ffe907/trytond_account_invoice-3.0.3.tar.gz"
+    },
+    "3.0.4": {
+      "sha256": "ef81580ca48cbb6df871ba45a8c20c6fabda426e661fbd8fefef8a3cc3f9595b",
+      "url": "https://files.pythonhosted.org/packages/09/ee/2025e7cc29215c0019459cc6fe9d12ed23d04c29bcb000385ae0c261be19/trytond_account_invoice-3.0.4.tar.gz"
+    },
+    "3.0.5": {
+      "sha256": "4934d76c75c12007c46aa7a790a2cec6543f0e56f2a9b299bf8b6686e365e911",
+      "url": "https://files.pythonhosted.org/packages/8c/66/fd7be0e6e60628100dc2acbb4847779216ab40e6c09f61650c7a19295715/trytond_account_invoice-3.0.5.tar.gz"
+    },
+    "3.0.6": {
+      "sha256": "9047875024574f25934d01f00bdf866f89b94c061550b51518b4cab0ec8f1fc7",
+      "url": "https://files.pythonhosted.org/packages/4b/7d/44326c8a9186b2a260e0fe6446949847414dd7c6abda9d24eb13fea15b15/trytond_account_invoice-3.0.6.tar.gz"
+    },
+    "3.0.7": {
+      "sha256": "2ce9da1abaf6e3413eda06e9f26c57a768fc365bac924271954eccccf7a98e58",
+      "url": "https://files.pythonhosted.org/packages/fb/11/bf6049224e81266ebb7c953bf965bbad026d799ab3bed4dfe96e8286bf7c/trytond_account_invoice-3.0.7.tar.gz"
+    },
+    "3.0.8": {
+      "sha256": "f0ef40b60d89915e208e4bcd6bb963e787ee8609a67e282f93fb5a0929187df8",
+      "url": "https://files.pythonhosted.org/packages/b2/52/f2cc72d7aa809d821fbe0d1514523f3772204a3325aeb08393cb2bafdf4c/trytond_account_invoice-3.0.8.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "0fb68cc37443e79df6f08a6d43c010f5cd36deabe8e09b00033a7e0d60d2966a",
+      "url": "https://files.pythonhosted.org/packages/7f/fd/b6a7e30fe9a155b5f2a345aa7d583a2136b13bc8ffcaf1e8e9708eebbb9a/trytond_account_invoice-3.2.0.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "49082f491ca21fa778bf5fa041072fd5e1048d64bcf787961dc218f35f728506",
+      "url": "https://files.pythonhosted.org/packages/ce/c4/555a3ec2250c37bc8a6a6a2ac841257ad683e3d841b0e95d684fadcf34c7/trytond_account_invoice-3.2.1.tar.gz"
+    },
+    "3.2.2": {
+      "sha256": "c40d9b3f73cb3f5e3fa2dd7919ce766275ac76e595d31318b38042e70379bb12",
+      "url": "https://files.pythonhosted.org/packages/5c/f1/5adfad50ea21f8b4b2853d3e49be87b3aad330726fa253bce2f151024149/trytond_account_invoice-3.2.2.tar.gz"
+    },
+    "3.2.3": {
+      "sha256": "64206adad90dd8772fa1ced9593e3e7b50bbacff1ed8f3f325a7480bb0b23088",
+      "url": "https://files.pythonhosted.org/packages/86/7a/49f721c3fa2391f0cfec07ba08d0cef6d559765b7f6b642a8f90bfab17ff/trytond_account_invoice-3.2.3.tar.gz"
+    },
+    "3.2.4": {
+      "sha256": "75fd44a8651a7f7c84e870bff51c2b5c6bbf5fdffe5dd8ebfa4963bffeb269d4",
+      "url": "https://files.pythonhosted.org/packages/ea/c0/5261d98eb50f6dc9ed3834486e9198f8ade97a87b12f6255b374e1bbacb3/trytond_account_invoice-3.2.4.tar.gz"
+    },
+    "3.2.5": {
+      "sha256": "c17d634a2118301f5952bcde49f52f4a140215565c788d0cd74a1a9d8f73cddc",
+      "url": "https://files.pythonhosted.org/packages/00/0f/f21084cc76e1a29875ca0644dbf55ec1feb9ff710eea47a47b785d97e54a/trytond_account_invoice-3.2.5.tar.gz"
+    },
+    "3.2.6": {
+      "sha256": "15deaddf8dbd3809594c9b418d56f521cbb0104ad8d3869132810774ce15e52f",
+      "url": "https://files.pythonhosted.org/packages/88/87/5868ac9b69fd9d126af7e08ad9f3ffcc3b5cc3a8370976f482f063170a54/trytond_account_invoice-3.2.6.tar.gz"
+    },
+    "3.4.0": {
+      "sha256": "7345dca4bb065fed1ee3917228317b49ebae41365d616381b8d1a6166d4f3477",
+      "url": "https://files.pythonhosted.org/packages/ad/99/342542e96eb2969936e259c6bd33a9b30b304143a3d1500b91e8e7e0e553/trytond_account_invoice-3.4.0.tar.gz"
+    },
+    "3.4.1": {
+      "sha256": "86996dec1022975ad6ff2b3ee55a3ca9b017d01a2e3a7169ea358eeb93fca2ee",
+      "url": "https://files.pythonhosted.org/packages/d7/77/6abecc5994d3c90b7b69afcd9c88510e715fad985b86b8603f5ef9eee330/trytond_account_invoice-3.4.1.tar.gz"
+    },
+    "3.4.2": {
+      "sha256": "e880cded92c9ffdee3d507976ab641457564c107369af946790fb9bec785be4a",
+      "url": "https://files.pythonhosted.org/packages/40/d3/4b51ff4db51df36f2dda4992abe9f6e78796ae697634368b5fc8f1a3a979/trytond_account_invoice-3.4.2.tar.gz"
+    },
+    "3.4.3": {
+      "sha256": "4c8e4d9c6f2e718ee99c929a3e09c69a2490f8157fd81f809814d887325e598f",
+      "url": "https://files.pythonhosted.org/packages/08/d4/820aa5db8e69c426a0aa693aedc7f2413a97e299e26b41e0154db25fc4b5/trytond_account_invoice-3.4.3.tar.gz"
+    },
+    "3.6.0": {
+      "sha256": "8b43aa7505e21d8335d43c3646654bd700ceace9581a829e50bd6ac1b82795be",
+      "url": "https://files.pythonhosted.org/packages/e4/68/75b4d0a8ffeafe2460adffbee08428db1ab37791a422a676e6421679dfc9/trytond_account_invoice-3.6.0.tar.gz"
+    },
+    "3.6.1": {
+      "sha256": "60b76a4584c83b781cf704720aa89b75e3594c58526e91d6c38eb5057e38fb81",
+      "url": "https://files.pythonhosted.org/packages/92/01/fe02fe2a9327fe6affb48cfb2a93c738ec7ed041820b3b690944252e7144/trytond_account_invoice-3.6.1.tar.gz"
+    },
+    "3.6.2": {
+      "sha256": "210f1f8d204e1981d4e26c1d74eec66aa56411426fb6b9e7bc973e899f0b460a",
+      "url": "https://files.pythonhosted.org/packages/a6/f7/69e8bbc4635f7d3345a896e47078526a8fa76e560b85aad8cccdbc15fb6c/trytond_account_invoice-3.6.2.tar.gz"
+    },
+    "3.6.3": {
+      "sha256": "c14e621136aa1db140ffb37fcf1434bccc0ef172bcbc4bf2954f7ad56632d4bb",
+      "url": "https://files.pythonhosted.org/packages/cb/5e/8f7244032df24756bd1ebf2020e5d37568661d79c261360e2f76f37713d9/trytond_account_invoice-3.6.3.tar.gz"
+    },
+    "3.6.4": {
+      "sha256": "9c2c2e14862151a3f70bcad96cfbd9bb87ea8fcbb4d4ebc82e561a936e304d88",
+      "url": "https://files.pythonhosted.org/packages/af/0a/5768b642e43a230457f56d40901f6bf3095ca55e22a079170721c927b536/trytond_account_invoice-3.6.4.tar.gz"
+    },
+    "3.8.0": {
+      "sha256": "06b6a8a6b428412f6b6ee8b99796837c4a5979d561104ee6109c8119b650c6db",
+      "url": "https://files.pythonhosted.org/packages/d8/81/72c8bc1168a9fe2f910d056c25da937a00c7f5d0765cef7deba7185185e9/trytond_account_invoice-3.8.0.tar.gz"
+    },
+    "3.8.1": {
+      "sha256": "436a70ff2656f20c76ecfedfb2504b65ee1e241cf154c970e3d54fb65560c140",
+      "url": "https://files.pythonhosted.org/packages/96/96/01a9b9457181e2a25fe23dda6536901d68ccbed3224eaa756b3819674628/trytond_account_invoice-3.8.1.tar.gz"
+    },
+    "3.8.2": {
+      "sha256": "7f4bf88ebcfeb058f41bc501e7381a1a452ec8703427a43bbd14b72a281b84f0",
+      "url": "https://files.pythonhosted.org/packages/eb/c3/647b25837bd6e6577dcfa7bd19e71a8f3af09f6d49b51f9ebfe5dc1f08ac/trytond_account_invoice-3.8.2.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "0dda72ff2c9cd0014ac6b7083e57d2209002b16987bbdfc966498947ec835e05",
+      "url": "https://files.pythonhosted.org/packages/56/1f/c8bc1e2a41c1716d181732ae5c40c6ed9e44db66fcd3e423d640eae6d447/trytond_account_invoice-4.0.0.tar.gz"
+    },
+    "4.0.1": {
+      "sha256": "7bc99fe87efd33d69d06763ecb7f53c65de5a7ab3b2df6463f33fa975c48f60b",
+      "url": "https://files.pythonhosted.org/packages/a1/8f/501dd87a0d614fdfac8c756d0f1f42abe3e807990a404a639005cc8ce8f9/trytond_account_invoice-4.0.1.tar.gz"
+    }
+  }
+}

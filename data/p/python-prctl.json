@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "1.6.1"
+  ],
+  "meta": {
+    "description": "Python(ic) interface to the linux prctl syscall",
+    "homepage": "http://github.com/seveas/python-prctl"
+  },
+  "versions": {
+    "1.5.0": {
+      "sha256": "57335a54a7d657c1407448305a56a13cead840802c743fcd915bc382f9ce4fff",
+      "url": "https://files.pythonhosted.org/packages/e5/4b/3b22c7066e9ba49d0d22677b81d64e7a145b30637ab56976ac7c26301c38/python-prctl-1.5.0.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "c7d4a290c0f2ec30b65051864c230063cd806d5d95239dd60b721109d1b9dc75",
+      "url": "https://files.pythonhosted.org/packages/09/73/4874f8a927657378d7a20cbdf21692ee08fd641e97e7e401c3a0dca8f2f8/python-prctl-1.6.0.tar.gz"
+    },
+    "1.6.1": {
+      "sha256": "c421350bfe64cb8dd05d7a5b657317e2e45daad573e6e2f0af3e7ca459768d9e",
+      "url": "https://files.pythonhosted.org/packages/2c/a6/a866caf122908583f5f5e27217ca7f956c616e48e35cdb2a4a60ab4c7ad8/python-prctl-1.6.1.tar.gz"
+    }
+  }
+}

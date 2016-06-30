@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.1b2"
+  ],
+  "meta": {
+    "description": "Sample remember based custom member implementation",
+    "homepage": "http://plone.org/products/remember",
+    "license": "GPL"
+  },
+  "versions": {
+    "1.1b1": {
+      "sha256": "44f4467728bc7e95a3ed6135015c76c4480da32a5663ec29261361109a769873",
+      "url": "https://files.pythonhosted.org/packages/b4/0d/41637a43b5131cc4bcc4acd596556f3de9f93da889ce24e6cebf66699c54/Products.sampleremember-1.1b1.tar.gz"
+    },
+    "1.1b2": {
+      "sha256": "d7191e4a2c99c99d135aeb8eeecfc49f678cba264f8480294ab82b25f695cfe8",
+      "url": "https://files.pythonhosted.org/packages/da/bf/683422d55048b4046c3e00e543060ee86004459f5ec01cf7d0081bd6a1c0/Products.sampleremember-1.1b2.tar.gz"
+    }
+  }
+}

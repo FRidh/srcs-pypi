@@ -1,0 +1,40 @@
+{
+  "latest_version": [
+    "0.8"
+  ],
+  "meta": {
+    "description": "convert each readgroup id to a json file from a BAM",
+    "homepage": "https://github.com/jeremiahsavage/bam_readgroup_to_json/",
+    "license": "Apache 2.0"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "ba1e168c49b7d03d6a69b54ef64c1e6719f1af30286a7f32dd682486a921d1f5",
+      "url": "https://files.pythonhosted.org/packages/14/c8/a3fcb01534a3c42fb9fbfea0ae05b9e929ed4793b38ece6b6bbd1c765cc5/bam_readgroup_to_json-0.2-py2.py3-none-any.whl"
+    },
+    "0.3": {
+      "sha256": "e910f5013ac34fba73c7aedf206307cdda272337045324512bd3f1762605809f",
+      "url": "https://files.pythonhosted.org/packages/ff/e3/152b3a8cd76a604527a5a5542742b9b543870b45477a45489608d8730296/bam_readgroup_to_json-0.3-py2.py3-none-any.whl"
+    },
+    "0.4": {
+      "sha256": "2eb8156c8f6fac45f756a9301062847c4df5af40db050ac5d0f33f51d01aed95",
+      "url": "https://files.pythonhosted.org/packages/94/ea/6e56a93bcf816f6893d902c000d26862c175a7c9d31ba80886f5d8c4fb28/bam_readgroup_to_json-0.4-py2.py3-none-any.whl"
+    },
+    "0.5": {
+      "sha256": "f6fdfe04985a46232b2b711a6fc61d7ea4fcaded73deac524f1172f978dd0e0e",
+      "url": "https://files.pythonhosted.org/packages/f7/75/749d75a6229ef78526b7ad9c5e6d4e6d9f87b3105f10d1db1361fc535dfd/bam_readgroup_to_json-0.5-py2.py3-none-any.whl"
+    },
+    "0.6": {
+      "sha256": "afaf47120b1f95129009d8ede09ebee8bf573df0dc80043042caf1e5bc326d39",
+      "url": "https://files.pythonhosted.org/packages/0a/8c/86d9e77b1f4c7a9f24de3dca4ea573b9d4f3596ac83220914998f96e8ea3/bam_readgroup_to_json-0.6-py2.py3-none-any.whl"
+    },
+    "0.7": {
+      "sha256": "9fe7f9de76bfe64f6ce20e2038f81d2bdf9dc36800fc157a8d15ce00a5220ea8",
+      "url": "https://files.pythonhosted.org/packages/55/d1/fcac184f2303b86071a793b08046b0a6bb9cc58de1388e19b2cf0020c715/bam_readgroup_to_json-0.7-py2.py3-none-any.whl"
+    },
+    "0.8": {
+      "sha256": "30a6f13d3b94972802fd526854a35e1808467cd55f07beb429824bf2c61f4d92",
+      "url": "https://files.pythonhosted.org/packages/f6/be/8c3c6a3512d31f858ce0de5a27387b09396b9b75ff99f795edc9e683635a/bam_readgroup_to_json-0.8-py2.py3-none-any.whl"
+    }
+  }
+}

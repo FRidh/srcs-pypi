@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "4.0.2"
+  ],
+  "meta": {
+    "description": "a simple but quite powerful Python spell checking library for GtkTextViews based on Enchant",
+    "homepage": "http://koehlma.github.com/projects/pygtkspellcheck.html",
+    "license": "GPLv3+"
+  },
+  "versions": {
+    "3.0": {
+      "sha256": "9c81b321aa5e223c0490b91b05f8d954d1afe76c8c50f80d05f8aa47b74798ed",
+      "url": "https://files.pythonhosted.org/packages/db/68/c022170a31b64194b5b5ba3cc2eee1d78227cabd4d64ccf57e8287b9204b/pygtkspellcheck-3.0.tar.gz"
+    },
+    "4.0": {
+      "sha256": "77fca2908a1ca67be45ffe4cc2e50ad11758588214b8aca28f984c6b5c6be234",
+      "url": "https://files.pythonhosted.org/packages/59/fb/abf35be4b0a3b0c3a0d4d93cb11848c9fe6c431fa86cc815048237f26ee3/pygtkspellcheck-4.0.tar.gz"
+    },
+    "4.0.1": {
+      "sha256": "a00f562e3d64415627c3b461035f1ecbeb0fcd172914220f295d683990429511",
+      "url": "https://files.pythonhosted.org/packages/3b/29/89210a0acb9ba33d8fdca5b43db6887dcffbb6a6fa7bc85959144f622d27/pygtkspellcheck-4.0.1.tar.gz"
+    },
+    "4.0.2": {
+      "sha256": "da3762a7c4c23de1762eb697cbc2819441e34fb7f3a9a418f38367e73d9bf850",
+      "url": "https://files.pythonhosted.org/packages/0c/52/3203e76d9ba7b5ed0ac35f5f787be3bbfa7953b56f0b291483c9948bc885/pygtkspellcheck-4.0.2.tar.gz"
+    },
+    "4.0a": {
+      "sha256": "1042c5eab1d3b66d0d478e7e66f30b68e19c44b8d7f4452e5d3260eceb0b9b2f",
+      "url": "https://files.pythonhosted.org/packages/f4/94/43ac30d00ae4d288be81ad7c39f24e4957ef8b3b2dbbc92e53b8b0f0dc55/pygtkspellcheck-4.0a.tar.gz"
+    }
+  }
+}

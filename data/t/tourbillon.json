@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "A Python agent for collecting metrics and store them into an InfluxDB",
+    "homepage": "https://github.com/tourbillonpy/tourbillon-agent",
+    "license": "ASF"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "43b6a990978b58444b92c0a2116fde16ef867f67e1225d8b022a918be83a64e5",
+      "url": "https://files.pythonhosted.org/packages/0e/91/6a51b469821b21b3b2b5403239bde137e1688067a3cb35e3f30b7c402090/tourbillon-0.2-py2.py3-none-any.whl"
+    },
+    "0.4": {
+      "sha256": "985f94bbcc6b13b1ffef7a4dc768a96167f361af3037aba4e9d99776d0a6da6e",
+      "url": "https://files.pythonhosted.org/packages/05/92/1cf2033c43c706bc867b847d01e9ec8ce4c8cd5aaf0ef4112bb364aa77e1/tourbillon-0.4.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "f686d773cf7314ced99d9e9e05efe75303e39e5f772bed188abbc4c9a29be669",
+      "url": "https://files.pythonhosted.org/packages/2f/08/12a30bc55aa9187fa90adeb8faeeba48f231f3ac631ee50570f0fdeb70cb/tourbillon-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "7ae623858b6f1ba0d720793d154ff7de6dfc7df1f897f191d9933df9a23e2985",
+      "url": "https://files.pythonhosted.org/packages/fd/2d/7d9dbf51465516947b34c74bc3d115eafe03fea027278610b2dffd3806db/tourbillon-0.4.2.tar.gz"
+    },
+    "0.5": {
+      "sha256": "69bbdc82d46902762c73e14972361b80441016fd631ee969a72e91770dc291fa",
+      "url": "https://files.pythonhosted.org/packages/48/30/80362a35c914454b674ea3ec09d5ceebe2e8826104b0f80b385a553ae6cb/tourbillon-0.5.tar.gz"
+    }
+  }
+}

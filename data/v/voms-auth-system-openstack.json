@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "VOMS-based authentication for Openstack",
+    "homepage": "https://github.com/IFCA/voms-auth-system-openstack",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "e2a697f6f0a274c2891da94cc71a6c10d02bd6e5f8a23a0eddefecb1f773d06b",
+      "url": "https://files.pythonhosted.org/packages/ed/58/91db0b4f7c49dd611d75c7db014f4600414be9f8b54e560a3903c51545c9/voms-auth-system-openstack-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "1f0aabbbcef5c9fd5f348a6432cae8ec184a49a5c4e68057336eeb8f083e20e1",
+      "url": "https://files.pythonhosted.org/packages/ed/00/b678006d41d0673f05add0d6a024e2c10e7b3a1829716779561984dbc88a/voms-auth-system-openstack-1.1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "django-email-bandit is a Django email backend for hijacking email sending in a test environment",
+    "homepage": "https://github.com/caktus/django-email-bandit",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "02c9b55d4fd5f3f0511aab3af2f8514e506b7e36c7db51ed6720c0d031d0105a",
+      "url": "https://files.pythonhosted.org/packages/9b/0c/042abb14e86558f60ea03216d068142bd5ea763de064c8e7fdd20c1eb31e/django-email-bandit-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "66bdc7f74bbf137bebc4cd18beb49f60b5eb77eeffae31b9f26c260f02040040",
+      "url": "https://files.pythonhosted.org/packages/8a/83/d9fd8f570b054d95efeadad829da58e194073bfece50fd273f9239e00f7a/django-email-bandit-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "c762699dd2d1127c65a30c2b2ee2a42d84ab2aac35b628780011637df31a7f10",
+      "url": "https://files.pythonhosted.org/packages/26/86/9df9ebff5effd11604ebf3bd47f061df80196709b31347d8b4fa205bf28b/django-email-bandit-0.3.tar.gz"
+    },
+    "1.0": {
+      "sha256": "6c30e796adb975ad09378044436253f49e60668412075d4169ed7248ddc8a672",
+      "url": "https://files.pythonhosted.org/packages/09/a9/8e93304fd524c6b5179083ebc12385c4ae3022f6c027fb133a3eea2de583/django-email-bandit-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "f24aa901d42e16e7a0c35a3fa0f846a5afa40b5218a6f174952971daed59c595",
+      "url": "https://files.pythonhosted.org/packages/35/6d/2f56c48ed487da41595770f0272cb2466fdb3d02444237490820ab15807d/django-email-bandit-1.1.tar.gz"
+    }
+  }
+}

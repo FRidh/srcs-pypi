@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "2.8"
+  ],
+  "meta": {
+    "description": "Perform various checks on gettext files",
+    "homepage": "https://github.com/flashcode/msgcheck",
+    "license": "GPL3"
+  },
+  "versions": {
+    "2.6": {
+      "sha256": "b8df685fcfdf90b53c4efedc0efc67f441a728feb280e84f9910bcc4fc55066f",
+      "url": "https://files.pythonhosted.org/packages/c0/7c/75af8b6c7aa9e5c871a7e2d7de7f94f91e28d64946aeb797eddc7f2f8392/msgcheck-2.6.tar.gz"
+    },
+    "2.7": {
+      "sha256": "fdb53f49a3ea22811c157ef2ac947a52cf617000dc64d1ea0085da4c2255c168",
+      "url": "https://files.pythonhosted.org/packages/dd/15/75d82efe7c9621f7ffddea689df8d5ffea31d3f59b6a071b5ccdeda40381/msgcheck-2.7.tar.gz"
+    },
+    "2.8": {
+      "sha256": "0aba4e5e3cd56685a3eff795f67c5c934c69161ae127674a3350b84939165d7a",
+      "url": "https://files.pythonhosted.org/packages/ed/b1/b0bd69d951e9e74318d3823617495b1a857ffcd647b36f01f6e6a750b223/msgcheck-2.8.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "A c++/cython statsd encoder.  It doesn't make any network calls; it just handles batch encoding",
+    "homepage": "UNKNOWN",
+    "license": "MIT"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "6c3893fea471fc012f9f318ead314efa1662a07a79ca773423b7f41236cf5ba7",
+      "url": "https://files.pythonhosted.org/packages/21/f8/12183eb101fb29f3be278d1da39a14121ca6a730e12b02a6e548ec7f527a/cystatsd-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "8fbe828ebd10c653251c8af42355d9391b45e7ef932b3196286e4d01269255cb",
+      "url": "https://files.pythonhosted.org/packages/1e/3b/d89111b177e2f286e6bb518d60e001cbb4c7d70ff82651d2cf5972c5ac8c/cystatsd-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "7dc7d04d3c56406aefff4f2679385dcb94c267d4133331d92ef00e700b47aa18",
+      "url": "https://files.pythonhosted.org/packages/90/a4/b552edaea2f8b1deb2b0add40c17c2a204624be540e8ef3bf3197d073a20/cystatsd-1.0.2.tar.gz"
+    }
+  }
+}

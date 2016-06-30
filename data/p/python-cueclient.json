@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0.0"
+  ],
+  "meta": {
+    "description": "Message Broker Provisioning Service Cue Client",
+    "homepage": "http://www.openstack.org/",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": {
+    "0.9.0": {
+      "sha256": "7425d5b96e3ef2aa150bf40aea4a413b6a0179bb4d6ec77d37204837ac15616b",
+      "url": "https://files.pythonhosted.org/packages/f2/1b/36bba90e3345a294454dd229e4fae18c0f12068ad6a01fdd8e1ec1b20db8/python-cueclient-0.9.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "62e899c379a7e6df18a60d37c6056be3374527d53aea7dc5c99220fc9c86f10d",
+      "url": "https://files.pythonhosted.org/packages/37/ad/1b9bdc53787a2b77428b67597cc26a83823ec638cc9d98dbf4ea0975b2d6/python-cueclient-1.0.0.tar.gz"
+    }
+  }
+}

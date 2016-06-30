@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.3.2"
+  ],
+  "meta": {
+    "description": "txriak is a Twisted module that communicates with the\n                     HTTP interface of Basho Technologies Riak data store",
+    "homepage": "http://bitbucket.org/asi/txriak",
+    "license": "Apache 2.0"
+  },
+  "versions": {
+    "0.1.1": {
+      "sha256": "ac190aef6a96ad4f77d030ab8e87f5c01dd54b1f92491955cf65f5d017006eec",
+      "url": "https://files.pythonhosted.org/packages/1e/6b/a3eda1f0af17a54766abc62b53c5536552b882ead07d2ffb8c10f536e22d/txriak-0.1.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "b9bae83e3a4c81b59abdfa14a939fda5e20e7f0b8f8073f629c0d111b506654a",
+      "url": "https://files.pythonhosted.org/packages/e8/1d/724474dd0c6eabb32c74dda877275a7bdf04f6e214f309c3ed9ea4d3950b/txriak-0.3.2.tar.gz"
+    }
+  }
+}

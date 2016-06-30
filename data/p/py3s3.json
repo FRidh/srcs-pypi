@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.2.4"
+  ],
+  "meta": {
+    "description": "A bare bones package for uploading to and downloading from AWS S3 from within Python 3.3+",
+    "homepage": "http://github.com/logston/py3s3",
+    "license": "Copyright (c) 2014, Paul Logston\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without modification,\nare permitted provided that the following conditions are met:\n\n* Redistributions of source code must retain the above copyright notice, this\n  list of conditions and the following disclaimer.\n\n* Redistributions in binary form must reproduce the above copyright notice, this\n  list of conditions and the following disclaimer in the documentation and/or\n  other materials provided with the distribution.\n\n* Neither the name of the Paul Logston nor the names of its\n  contributors may be used to endorse or promote products derived from\n  this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND\nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR\nANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES\n(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\nLOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON\nANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS\nSOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+  },
+  "versions": {
+    "0.2.2": {
+      "sha256": "2285a954c5778709b069e052ef7fe1ba075133e8354aa87b3ea87a110fe9c0ef",
+      "url": "https://files.pythonhosted.org/packages/8d/d8/58f31a71419238e8315926e67a15209ee85e08d22d95b5b3bafc043ec713/py3s3-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "5ed5ca7071b07264048412c849524db56f99249e273832fa18c8ef8f4d02207c",
+      "url": "https://files.pythonhosted.org/packages/8c/74/28f239105e15a289eb7d2bcef79f2f4159742317ae3c54d4f186a0b76be6/py3s3-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "695f653cc5e59f7dc28ad037406aafbdd9c10182082575fe7ef140663983875a",
+      "url": "https://files.pythonhosted.org/packages/7c/b1/535bf1d18a260bc3a8add1fa5583ba3d48c0eceac37c7a310acf08b6ba42/py3s3-0.2.4.tar.gz"
+    }
+  }
+}

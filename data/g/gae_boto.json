@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "13.10.1"
+  ],
+  "meta": {
+    "description": "A recreation of Amazon Boto library that is is compatible with Google App Engine and easier to use",
+    "homepage": "https://github.com/pizzapanther/gae_boto",
+    "license": "BSD"
+  },
+  "versions": {
+    "13.10": {
+      "sha256": "aa29bb229047ab2327ef4d84f0685a9081dbd864c17ad35d1fa25b8628721beb",
+      "url": "https://files.pythonhosted.org/packages/c8/33/4586a6413201d14300a68a73bd2d7583b8d4df73def36b06ced741f6a87b/gae_boto-13.10.tar.gz"
+    },
+    "13.10.1": {
+      "sha256": "72ba270750f01ce526631e00f84f971a9242c25acdbd5e1ccb2d99c1d354af45",
+      "url": "https://files.pythonhosted.org/packages/d4/4c/03850dc94e26f6288cf712f972503aa2860b440ca1e38e12df73c5bbfc47/gae_boto-13.10.1.tar.gz"
+    }
+  }
+}

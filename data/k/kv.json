@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "KV provides a dictionary-like interface on top of SQLite",
+    "homepage": "https://github.com/mgax/kv",
+    "license": "BSD License"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "9c268b426e33635ea63207cf5bcc44cf7668f8dd92f5a3eb8486afe982034648",
+      "url": "https://files.pythonhosted.org/packages/76/9c/e2f6ce6816e085cb4deff53d0bbd331cae4a5810108deccfd4411275b95d/kv-0.1.zip"
+    },
+    "0.2": {
+      "sha256": "b8e7c54e91963a25a27ff4c3105873e653dd99347c841dffb397d0243562588e",
+      "url": "https://files.pythonhosted.org/packages/4b/5e/412656f8a7903f9b0f735d31fe14cba641a305d06bfdd28941ccefdd1195/kv-0.2.zip"
+    }
+  }
+}

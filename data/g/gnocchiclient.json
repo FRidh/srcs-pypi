@@ -1,0 +1,36 @@
+{
+  "latest_version": [
+    "2.3.1"
+  ],
+  "meta": {
+    "description": "Python client library for Gnocchi",
+    "homepage": "http://www.openstack.org/",
+    "license": "None"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "c1f818001e2971e074b9d78a7f57a7876cf90ea1bce9049916874bc1fed08722",
+      "url": "https://files.pythonhosted.org/packages/c2/a1/9da2e555372a056d2e6a7b6f00f16caddc412f14bfff08a7d89750d440c0/gnocchiclient-1.0.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "1f810cd455df2b20bfe8c00a614281a95bb72da9be90fbf38db3bfc0a9a2885d",
+      "url": "https://files.pythonhosted.org/packages/e3/aa/5b3c0ee15e2bd07cf85d5d4764714673bfc5149daf6af0488762aea44901/gnocchiclient-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "7f1a5b4ef51074fbd1e191c29d14b69609382c4b2d62be01cbaa1ff67e590a6f",
+      "url": "https://files.pythonhosted.org/packages/cf/c5/4dc000e1c026e1fb883a9ce358c1b23a20aef4237763dee10dc79d12b8fe/gnocchiclient-2.1.0.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "0d1fb6272b86798822bfe2eab2e498d380424476ecbc2180add7343e192260ae",
+      "url": "https://files.pythonhosted.org/packages/5e/8d/4f74bb7739f3b15222423d24874fb755799683c64001eaf2f7237432c6cd/gnocchiclient-2.2.0.tar.gz"
+    },
+    "2.3.0": {
+      "sha256": "e57614ec3c0c05002d40e4628c7604bbc7d99342301f7d4ef666a7dff7569a1c",
+      "url": "https://files.pythonhosted.org/packages/48/fc/cdebcdedb7ab4021f82909724d8b003c3462098cde57466835cd2e232d48/gnocchiclient-2.3.0.tar.gz"
+    },
+    "2.3.1": {
+      "sha256": "0e3c3e0324186a83f8c852d77c48344c3c24185eda20b9ff680f76823538105a",
+      "url": "https://files.pythonhosted.org/packages/a6/88/cc376e8075b9b94f75b749177ce3a1c868866ff57d4f4afe5b940a8ab094/gnocchiclient-2.3.1.tar.gz"
+    }
+  }
+}

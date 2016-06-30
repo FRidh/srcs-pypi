@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "0.2.3"
+  ],
+  "meta": {
+    "description": "Aggregate values in FITS headers",
+    "homepage": "http://www.stsci.edu/resources/software_hardware/pyraf/stsci_python"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "9c83571b5fd5c04f738e0c6e207266eb4f520f344ffd350cc5990fe22fd4f1e2",
+      "url": "https://files.pythonhosted.org/packages/45/b0/a17f7d4d2e910ba7baee9cff23833ac135890b1b189754a6379fccc72e36/fitsblender-0.2.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "5ad19794ed17c6abeca340df17d86d77eb1e2e356bac27940c87ccf00826064a",
+      "url": "https://files.pythonhosted.org/packages/d2/8e/d8530b8f4633a9451fe1c9ac241418dea90a68a8212683ffd0c010d51f17/fitsblender-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "052d2dc2ffb6f42fffba14cfb4140063d0540123fda3a4193bec19528a191560",
+      "url": "https://files.pythonhosted.org/packages/2f/10/f6da891868a67cdf31e1173c0da42e5a8dad16ab029d0617254e611597ac/fitsblender-0.2.3.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "latest_version": [
+    "2.1.0"
+  ],
+  "meta": {
+    "description": "Command Line Interface Formulation Framework",
+    "homepage": "https://launchpad.net/python-cliff",
+    "license": ""
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "f9c31cefd2cd19e904b31fc35bad04007fbe59208e6fcb6dec06ba6d60e9ba2c",
+      "url": "https://files.pythonhosted.org/packages/40/f7/13dd2fb8a2dba3bc4fdfb2e6826013829a8b7df588ef27bce20134059659/cliff-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "da26ddcfd0d0b291102d4368d17f08fc5de8856012d4b91918dadd8b26143478",
+      "url": "https://files.pythonhosted.org/packages/26/fb/3d7bcf8e96f5aa400ab01cd7d01200bcfd8be5f87287ca940881cb494d27/cliff-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "95177dc2cb6c59bca790e394a24dc0be02bec7921ffa6fa00ac8425c918ae142",
+      "url": "https://files.pythonhosted.org/packages/45/b5/25da1d8ac14a3b1de5688c53f28e89500087a343721edadf75f083b03a59/cliff-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "a439c6826a0ea0585ba1e40b02d456177e7068d0f49ce15ca8c3879885592e31",
+      "url": "https://files.pythonhosted.org/packages/0c/0f/ab6a185c23f7a33ccdd0d5de48d56670e10882a038ea664ae32ae669d919/cliff-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "d6fa71ead77870561779eb60c25975f034f575f44b136900d99442ed3f142ba7",
+      "url": "https://files.pythonhosted.org/packages/51/6c/e5f74303225e7c6cdecbd952f8aa1854cbd6f4fc6005b3977eac0de26acd/cliff-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "99e40809e3839f79eae10be45d6362b312687c9ad6b17bb09e2518b592b3cb4f",
+      "url": "https://files.pythonhosted.org/packages/87/32/1eec3e4973456c8367d6334239aa53769b5f8a62dcdb5da4464941d61476/cliff-0.5.1.tar.gz"
+    },
+    "0.6": {
+      "sha256": "836df93ee1a010213497e034028e159456ed362be9a469dd163be901b30efad7",
+      "url": "https://files.pythonhosted.org/packages/5d/bf/09d0b4648d3c340b698dbcd7e1d051dcdc7e88a177d9843d277dee57961e/cliff-0.6.tar.gz"
+    },
+    "0.7": {
+      "sha256": "c793bb98a2c5ec08f3a5ad380a2cad1eb4762aef9c6e8731be714cef4ec06798",
+      "url": "https://files.pythonhosted.org/packages/24/d0/e9b61247bf196aed3aa3bd869785c250b124a532f568f13d748bc494d0e7/cliff-0.7.tar.gz"
+    },
+    "1.0": {
+      "sha256": "427bf1a1bcb25a0f81cef485b8aff389b25a824cc9711f3d8bcec8b6cf1c11c0",
+      "url": "https://files.pythonhosted.org/packages/23/71/76f0a6eb4c36a2d4fb0370d26a1bf925eba15d7e0e417419c48fa2902265/cliff-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "8b7e370521cc5674f4ce2288afc6e81053abe1f1c5e1ab2c5ca3b48cafa37513",
+      "url": "https://files.pythonhosted.org/packages/07/58/950197346bf9a210b339799dc7370339b14c4b21b8fbf996b5685024774d/cliff-1.1.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "4d104c1ce239620651652b4cae499fb85eabcfdd38be5cdd1fcc801ba2a8aa83",
+      "url": "https://files.pythonhosted.org/packages/49/52/0d2631290bbdd6d77ee2fb111075183d2c0df486f73d99923cecd8bea8ef/cliff-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "2b6801e75f350ea5569aae2cc39559e79e235786849ea5281d2b73c878819f65",
+      "url": "https://files.pythonhosted.org/packages/2c/32/76ccf65a467c25183c3a35b5eb38e9873e8a625dd558704fb73b0fb7aa9a/cliff-1.1.2.tar.gz"
+    },
+    "1.10.0": {
+      "sha256": "209882e199fdf98aeed0db44b922aa688e5a66d81c45148a5743804f9aa680e1",
+      "url": "https://files.pythonhosted.org/packages/a1/97/a26f0bfb2fba067502c5bee7fc78c4c1a4c875155a2a903d8c08949dfd9b/cliff-1.10.0.tar.gz"
+    },
+    "1.10.1": {
+      "sha256": "ddfec39bf0de7b53666045c946d495ca070e538e5f92dc19588596c9bcc52c6e",
+      "url": "https://files.pythonhosted.org/packages/23/98/4b045f12988e9b8f4d38f6f6b0ca307a132e7cdc9710b7fa5b3fab181afd/cliff-1.10.1.tar.gz"
+    },
+    "1.11.0": {
+      "sha256": "b09b7af34e359dabe33d56dbf9febc514841759b30f527026a386bde4c6f8020",
+      "url": "https://files.pythonhosted.org/packages/0a/d8/b9b6547a728a800f49e8ee4d5d954a521d19c02368a9aa3838bfe146426f/cliff-1.11.0.tar.gz"
+    },
+    "1.12.0": {
+      "sha256": "7609abc1789522fc4e228ea5567a9fd1db3963850396178adca3332cdd9c929a",
+      "url": "https://files.pythonhosted.org/packages/7a/3d/f741c8fff7e25b51227d0bd7f57a9fc3e36c230a6f713e06830283d68c47/cliff-1.12.0.tar.gz"
+    },
+    "1.13.0": {
+      "sha256": "2b92d12cf1aa59c0cf1914b4b6b02b78daadac890a53d0e6b71b5220661ab9e0",
+      "url": "https://files.pythonhosted.org/packages/79/73/ac43a3774b313803f48af67a01ee29f184f385a3aa727bea25a7fb78f3a7/cliff-1.13.0.tar.gz"
+    },
+    "1.14.0": {
+      "sha256": "8aaea62a7ccfad406bc765765a4b6aef9883dacf90bccaaf15c87598b17c1017",
+      "url": "https://files.pythonhosted.org/packages/a5/ae/548c6bb21bbad0d5283becd763795d8b5e47a0d277bd5309e405eb0bbfdc/cliff-1.14.0.tar.gz"
+    },
+    "1.15.0": {
+      "sha256": "f5ba6fe0940547549947d5a24ca3354145a603d3a9ba054f209d20b66dc02be7",
+      "url": "https://files.pythonhosted.org/packages/bc/14/0c4a9a8534a87d84084d87f8c504191ef6dfb3188566431cd1d5fcaaecb8/cliff-1.15.0.tar.gz"
+    },
+    "1.16.0": {
+      "sha256": "2cbf1b0a5da35f06f661c420ec42850b69757f16bc9e880408cf86988613ac60",
+      "url": "https://files.pythonhosted.org/packages/2f/e3/66c074802b38be4c83c87ba2741cd626a4e5261a15c8d9355f3a4b7aaec9/cliff-1.16.0.tar.gz"
+    },
+    "1.17.0": {
+      "sha256": "ac1fd642decb24b74f704158694bed465103147da37b35af989050d45b91a111",
+      "url": "https://files.pythonhosted.org/packages/d5/c0/e30dfae0a58e977e084d56123f45ae77f79b7c60878fba637eb7fcca18df/cliff-1.17.0.tar.gz"
+    },
+    "1.2": {
+      "sha256": "b92dd1f8db4c6db98809cf79e8398b81c6a66b54db283a6c817eb4468b611377",
+      "url": "https://files.pythonhosted.org/packages/22/de/81c2dd03035738b594748caf5f3af1ea879c0041ce893da3fdce7213936a/cliff-1.2.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "b2807148ffa93c0cc94d2322977de5cf93c9c49b3cc257744f6be33ec1d2ee65",
+      "url": "https://files.pythonhosted.org/packages/a5/cd/41f32a4927d27b449d03d4556fddfaa688956f3de78cc38d845abf31d910/cliff-1.2.1.tar.gz"
+    },
+    "1.3": {
+      "sha256": "762ef3046a96676a176e686a2a1cbb7e1db95f754578eca309e3c648c6a16a31",
+      "url": "https://files.pythonhosted.org/packages/8f/6e/b4ae4b8fc1acc2dad8228ccd60097eb8ef62f0d259f85c5299f59a856e36/cliff-1.3.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "a4741428d719c44353a6d9e6961eedfb815b2685f2a144fe194318076877722a",
+      "url": "https://files.pythonhosted.org/packages/38/b5/66e8139f50ca953c86aa4beaaf1461762478be070981de8464367447f2df/cliff-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "7c0250b5139993d04dcbb8b9d05376094b7271586b3698b4764c7c6f4697e0f8",
+      "url": "https://files.pythonhosted.org/packages/33/77/9ed527312b4efbed0cdc9aaba020a080f3633bc8e6463b7bb8c4e89e1eb1/cliff-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "46bb798f73f76e2ed63b53f4da5bfb6624d8efaf88f98e6e7a1aa711e1f259fe",
+      "url": "https://files.pythonhosted.org/packages/0d/7c/61ec8a40cdbb456f48a789f9748d0592f7f9b93c957f189c631f6db3bd3c/cliff-1.3.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "e5650c92bdd7917f850fc3ac11bd3ad4abd0cb0be4654770b29b63f288bea316",
+      "url": "https://files.pythonhosted.org/packages/0f/e5/59e7a47f972231442936ff5eb3914b94ebdcc3650343040e23ffb78cb7c8/cliff-1.4.tar.gz"
+    },
+    "1.4.1": {
+      "sha256": "44e927f702b3b38de548b7542fcbcd078839f21251042ad6208c5e174f2355c4",
+      "url": "https://files.pythonhosted.org/packages/29/39/9e9180522062cbdea526a0bc2f7a5501c81560dc1746032546343ec15909/cliff-1.4.1.tar.gz"
+    },
+    "1.4.2": {
+      "sha256": "5644b368005347127e075fdfb23ad79295dfa93b72e26801c57196ba8212366a",
+      "url": "https://files.pythonhosted.org/packages/86/03/bc4a3a00f8cd022c2b713bd22ff228733711213906fd73be411852c135ad/cliff-1.4.2.tar.gz"
+    },
+    "1.4.3": {
+      "sha256": "9123f3dc82b98a948b9a7ca54fd65bbfa18b2b28f6eaa229f08e60948b937385",
+      "url": "https://files.pythonhosted.org/packages/8b/22/c34b2c4cf3b2593e875f9af7931c792523fa1b236c34a60cf2a8bb7a1e90/cliff-1.4.3.tar.gz"
+    },
+    "1.4.4": {
+      "sha256": "9d15f2b59ac4bbb04eb11cd1fe5d5f30a2e0769afc0a4c675ca205b50fae567f",
+      "url": "https://files.pythonhosted.org/packages/31/5b/c544f36838806769204eb9c233fdd30a2cbff5b9b44fcafead7a7e06116f/cliff-1.4.4.tar.gz"
+    },
+    "1.4.5": {
+      "sha256": "0ec2c40e899cbb4d478aa946e1430600bf596ca2a3f12162a9514e9d580935ec",
+      "url": "https://files.pythonhosted.org/packages/43/b0/01c19bb246d9f0616f3228eec90547d1d24be0ed9f23402d88a1aa03b265/cliff-1.4.5.tar.gz"
+    },
+    "1.5.2": {
+      "sha256": "e81e31b04b085362ca8727fe87e0c624e32a1fb508ec6a87bf1545421b211aec",
+      "url": "https://files.pythonhosted.org/packages/dd/64/abb38950a83f561a09c9305d5741a48f273330420e62690b62ecdd5f272a/cliff-1.5.2.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "6ac926760d250cabeeec4aa6fb62eda1670e61d1956b2e85402738d989c34580",
+      "url": "https://files.pythonhosted.org/packages/a0/5b/912cec0a4c4a7cae7edec8b5c0595d15b409653e0f70341227e103a6e4da/cliff-1.6.0.tar.gz"
+    },
+    "1.6.1": {
+      "sha256": "657402aa11b66f2e9cb075b9487907c3e053f0e50ae43a9e0aedf2dba7a6355e",
+      "url": "https://files.pythonhosted.org/packages/e6/9a/a5e99e4c622b281684a83b7bc06b3da11ec72c1b218dc1d4e2ba1acaf6fa/cliff-1.6.1.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "09985c73fbccff921fe7ce2ae60135f3aae7b304dc939155999a97fb0345f3f2",
+      "url": "https://files.pythonhosted.org/packages/08/97/301a98ebe3c69106f19e8d14c452d0e34d13ae2e5ce37ea35264d4bcb679/cliff-1.7.0.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "a761e19cf9375739a5db94bba6fbcd2ed1a23484190740bb9631eeb01efdfebf",
+      "url": "https://files.pythonhosted.org/packages/c0/0a/b668be9932a3146b962d5c356132a36a673b9f42883df4f1a8dce106a6f3/cliff-1.8.0.tar.gz"
+    },
+    "1.9.0": {
+      "sha256": "38f731fd585975f4a3aa8025d3be564bb8439fc1e0f96b6b1e442a9e0dc4d1ce",
+      "url": "https://files.pythonhosted.org/packages/a4/d6/dfc062480b1c9d19a5e0b8ede9b0334a0e0ea58d5e96f143e1d041e73234/cliff-1.9.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "6e219dc3ed80a23e3dc5c88b741f3997b8450581c1d2572bde14b2dfa556d782",
+      "url": "https://files.pythonhosted.org/packages/23/80/bd8e87608c4536a729e0b791982711b61918818d8658ae3cb7c898f77c00/cliff-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "0c3d100cbf47d168bdca70acf890f1fc024abdadac13ede1336b0f8075403dea",
+      "url": "https://files.pythonhosted.org/packages/ad/18/80beb6a034212522ec4fa5c1758cf1e8515959d0b26d8685c773c9a6ef7e/cliff-2.1.0.tar.gz"
+    }
+  }
+}

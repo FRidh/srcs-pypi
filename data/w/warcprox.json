@@ -1,0 +1,36 @@
+{
+  "latest_version": [
+    "2.0.dev9"
+  ],
+  "meta": {
+    "description": "WARC writing MITM HTTP/S proxy",
+    "homepage": "https://github.com/internetarchive/warcprox",
+    "license": "GPL"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "a7cd960e5a7b77bb8db02c9e33653bfb90ce41580cade3df312e73b4a43fb671",
+      "url": "https://files.pythonhosted.org/packages/d4/17/ddf8c6813b4b350677952d3e91752ca2513e3a7f8ca252f44b8475fb4565/warcprox-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "971e79a95cf72b3072899b378d6e675a75ccd76774fc81fdd2c93dc625ffac76",
+      "url": "https://files.pythonhosted.org/packages/41/bb/1ae355c0867c49a830c0ae610994a3ced9918f3efc8ad5e0b0e18aa578cd/warcprox-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "bf2e80a99379ee6443a6368c05a6667563425721ffed21e8cbbd02da54540d89",
+      "url": "https://files.pythonhosted.org/packages/43/2d/12073a1b78dc401a7bb9f361461ccf66d48b581e1a64c8de3c2bb30e6347/warcprox-1.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "702695d7529cef392631c3dd5cacdfee892cd124c57ddb2d1c793f09857c6c4b",
+      "url": "https://files.pythonhosted.org/packages/b6/aa/4b2615bd53757334fdd24e5a240c529b4c8bc4770d3cdf97e2260de9eab0/warcprox-1.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "39a50e9ad06f0250b1e4b0821840072d49c8077734a6293a5ad804b36c76c5c7",
+      "url": "https://files.pythonhosted.org/packages/08/77/8edbcd19009a0f3699442c0fbb792928b9d2dbf17f8a959a12f58b8155b3/warcprox-1.4.tar.gz"
+    },
+    "2.0.dev9": {
+      "sha256": "726a8e72f1a713281bd3a519c9eb41ba46e99f192915a8ef03907474c077dd59",
+      "url": "https://files.pythonhosted.org/packages/ff/c4/533986e4c76030ed119ab3401ad09bc2e8002ca49e51f5297c9608426487/warcprox-2.0.dev9.tar.gz"
+    }
+  }
+}

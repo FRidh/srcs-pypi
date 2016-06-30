@@ -1,0 +1,264 @@
+{
+  "latest_version": [
+    "2.0.10"
+  ],
+  "meta": {
+    "description": "The Plone calendar framework",
+    "homepage": "https://github.com/plone/plone.app.event",
+    "license": "GPL"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "7e83b745f935e4d3428c9eb521b8daff1aaa3aad102ee1993f80c227b0d1ecd5",
+      "url": "https://files.pythonhosted.org/packages/2a/8f/97d1ab0c87619d343ceca6596393d07caf9341006c6eb437026f17261aea/plone.app.event-1.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "ace23c43a6dfcb349ab59887e0a6672204de8f8f8eaa8b0f54b30209e302b815",
+      "url": "https://files.pythonhosted.org/packages/d9/fc/7aefe1eca24850a5b04a92a7207042d9fc195d52e3b690793e5707bd04cd/plone.app.event-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "de3bc3aa65951e0f30ba6157377a531c1fe33af4e31f526d67af39c269a241b5",
+      "url": "https://files.pythonhosted.org/packages/c5/6f/c897fcd3c6f622f4685888d281a4ab0cc7f42cbbea39936ccdb6d535ef76/plone.app.event-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "e0149f7c3495255999d5e6ab1fef7931db3affb73b65dbba75e5c1209a256fe4",
+      "url": "https://files.pythonhosted.org/packages/2f/38/26f0ea4253d50bb9e14b449c0314f4d68d580e403d4107ebc76a03b9f80b/plone.app.event-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "bc7801a11f754c9e3c89db704a86ccd2ecc2e752f08678efbca24fb73c00398b",
+      "url": "https://files.pythonhosted.org/packages/ec/d5/f64f9b188ab03fa78f615e0429cf3ae1763feb734605e88b1c414532dea2/plone.app.event-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "c02ac90a1e6fe4920aaca7892b3ade26808091c5569ca3ffe49135629df641b4",
+      "url": "https://files.pythonhosted.org/packages/c8/b1/90752a0338420952023f293e8f9ef6218de1023cb91778f3ff13d52db269/plone.app.event-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "bb8e0c32d5edcf404e40dd399ae061d998833ac143c83ff82b7b868fc8c045b4",
+      "url": "https://files.pythonhosted.org/packages/62/1b/494bfdb165e82346b0da69744282252b06e834d6f4c5f4f0b184787f051d/plone.app.event-1.0.6.tar.gz"
+    },
+    "1.0a1": {
+      "sha256": "23b0387d0f283ebd693cec969df08818b73e5e058ce7f4fd41b7101d8b0a57ee",
+      "url": "https://files.pythonhosted.org/packages/98/09/dec8bf491a296a72b0bf9a20b5778eae1b66afb4f680c38c4e8cfb0fbd18/plone.app.event-1.0a1.zip"
+    },
+    "1.0a2": {
+      "sha256": "1a47a38f226d08cb7c31c8b73a7327ac94ddfb0ccc923ce0f9b508076b564adf",
+      "url": "https://files.pythonhosted.org/packages/3c/6d/d933c53b8d5e080aca4b83bac3355600767017c7fec3a00fc2ac6ef62ec0/plone.app.event-1.0a2.zip"
+    },
+    "1.0b1": {
+      "sha256": "47d6f58f98a200a185062f8de58f2bf0453be185ac5fafb5eb69a68f68eb8a11",
+      "url": "https://files.pythonhosted.org/packages/2f/c1/f8f7da4a67a4ae73b007efb400d3c52cf9d33a786a8306c01329dbde397f/plone.app.event-1.0b1.tar.gz"
+    },
+    "1.0b2": {
+      "sha256": "9906a39c36633d4b76dbfee785022c4df5d11f00c40e158479a81d85b030b082",
+      "url": "https://files.pythonhosted.org/packages/a9/41/ff4dfa323e1bec5807cbd9d47e173fb8e32ae49b5d2386a772e0f2a394da/plone.app.event-1.0b2.tar.gz"
+    },
+    "1.0b3": {
+      "sha256": "0114d25a2868092029f6254452760d52282b193eb0bd5cbbe941dfb27113c0d5",
+      "url": "https://files.pythonhosted.org/packages/25/3d/f9e2e774eda466b15093436e0c2bd7e7eb42700b5ff386c8fa1358bee8e2/plone.app.event-1.0b3.tar.gz"
+    },
+    "1.0b4": {
+      "sha256": "a86790ac69a2f145845a7c8dd32244694dc8355ffdda581496e3976491e032ce",
+      "url": "https://files.pythonhosted.org/packages/3e/c4/d9dd63b7fd68866e7437336650887791446a6c66629a2f172017388474e1/plone.app.event-1.0b4.tar.gz"
+    },
+    "1.0b5": {
+      "sha256": "0c2d5822a01d68da24933faf68b34df21b52e6f77af8d3ff472165dbed1f688f",
+      "url": "https://files.pythonhosted.org/packages/9d/84/ef062a09f0125340bae14e2c399644a86c6024c00aea0971649753f08f45/plone.app.event-1.0b5.tar.gz"
+    },
+    "1.0b6": {
+      "sha256": "bab9121c695d81fdf20a11885be3eceb8d0f928054e5d77c75f9acb6da59ff48",
+      "url": "https://files.pythonhosted.org/packages/cc/ea/f5732b4a228ae5dccb024c4467428649d24106455557e0f1ece7523f33ba/plone.app.event-1.0b6.tar.gz"
+    },
+    "1.0b7": {
+      "sha256": "9e9afbda7692ec154f2f303312f1472582ca7179aff53b9709c845999a9abbfc",
+      "url": "https://files.pythonhosted.org/packages/d7/24/4594bd9be0fc8c4065f11d57a01ee0e89c14ec8a8b03f366333983ff8b32/plone.app.event-1.0b7.tar.gz"
+    },
+    "1.0b8": {
+      "sha256": "e326f81c54a9d7b1e7e7c4715b86711670ca4af505f4cfdb758510544537bb60",
+      "url": "https://files.pythonhosted.org/packages/c6/af/d24a4f87f3ce37fc2105958b2049dc9a44083cf91ef467468d293391b4e2/plone.app.event-1.0b8.tar.gz"
+    },
+    "1.0rc1": {
+      "sha256": "94721c54fab2ffa762df2c6635e70482756acccf22a260eff50de053c1a97ea4",
+      "url": "https://files.pythonhosted.org/packages/4f/3d/5d58e9dd0663a3da37d926b145c20c3aad5e8aad786d66214e0af9cf2292/plone.app.event-1.0rc1.tar.gz"
+    },
+    "1.0rc2": {
+      "sha256": "d01af2380575fc336ced3d9d640bfbb4b23b7ea2dd78154e4716e85e0b43fff1",
+      "url": "https://files.pythonhosted.org/packages/76/e2/f66e9fce9acc62c54086155f5b4224ef8183f081b18ddd68ac464216b576/plone.app.event-1.0rc2.tar.gz"
+    },
+    "1.0rc3": {
+      "sha256": "c63ff6ae57102767a3edf9ce0ff2214e233ab34c693684efc42d196c1b001471",
+      "url": "https://files.pythonhosted.org/packages/cd/0b/7d2d957f86f63e421bc48d6f572c7107ef4b0aa85a67b3a0c5724abd6604/plone.app.event-1.0rc3.tar.gz"
+    },
+    "1.1": {
+      "sha256": "ff675f6272248509c5863bad2beeda7af5f6e4718d8ddf8db783b01507de6668",
+      "url": "https://files.pythonhosted.org/packages/ad/c6/177f59e70e3e270ab5bae7f7b2a2ca591f68ca737baa43c196d4c5f1b48a/plone.app.event-1.1.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "9cfd420eda2ee1137b5d5afde6b6da10e7961e24d1cafa096aeeed3b5884e4a3",
+      "url": "https://files.pythonhosted.org/packages/bc/b8/b32968b068afd365d281179800e8d81921d6a0f6060cf58a04c3d1403a14/plone.app.event-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "de696e1c91c7286f67ce876f6178e88e0ee64e15487bb3c0c03d3c7c6d047bff",
+      "url": "https://files.pythonhosted.org/packages/87/63/2f6c9a6da1f3f77a65af12e2c198d07bc26a90a56843448f8c40d48a16b1/plone.app.event-1.1.2.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "69668d335f8f495ddd34fd90fa30343a3b2767c443f17b9f989f0dba63a1be7e",
+      "url": "https://files.pythonhosted.org/packages/be/b2/cfb944c7f83574caccfe07f9fbcaf26cde8641289400e32e470071904cee/plone.app.event-1.1.3.tar.gz"
+    },
+    "1.1.4": {
+      "sha256": "9118e759d4c64b3f8e571fd05afa203c8c1711e22414233a29874e090152eae5",
+      "url": "https://files.pythonhosted.org/packages/29/c3/47128d18ed802a7e6428455db47c6e7ced8164a347f23106ba6df434ef29/plone.app.event-1.1.4.tar.gz"
+    },
+    "1.1.5": {
+      "sha256": "9e07d5f5fa8706f0db750884c7f4979266e259b56000d0e4ac27877d0525da42",
+      "url": "https://files.pythonhosted.org/packages/d6/0a/dfffa81f036ed19d2ad17af6b865018778c20fa4eded55a58e5796c08e28/plone.app.event-1.1.5.tar.gz"
+    },
+    "1.1.6": {
+      "sha256": "6e45bba6ea5c4b960018a5af50edd91df59a25a021e27b48094ecc9892d694c1",
+      "url": "https://files.pythonhosted.org/packages/ce/46/0955d7f9e8763f87805c2b7eddffc3ecb28f28b0c63bbaeb4337447cf4a2/plone.app.event-1.1.6.tar.gz"
+    },
+    "1.1.a1": {
+      "sha256": "c3b0c10b44313ede183811088653eb4417acb42c23dcf3984b3a7b169c03e3e2",
+      "url": "https://files.pythonhosted.org/packages/b9/d4/16125c51c8e6a7bb5a524de84673d5c50126bdde4b40497be208bd163c7a/plone.app.event-1.1.a1.tar.gz"
+    },
+    "1.1b1": {
+      "sha256": "90eb18b51ed5c4f5c197c26cc774fe385340ca02d1557d362bb60506983f7b1f",
+      "url": "https://files.pythonhosted.org/packages/fc/1e/7f8012e12b2c91ea97eaf3383956fdcc3e0e5c55c4d1117b6418581bca3f/plone.app.event-1.1b1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "cddbef6b5a86b4b8152a80a7be0e7fc12e1f101c7057e19cab0a3b1145b9a54f",
+      "url": "https://files.pythonhosted.org/packages/b0/b5/8b4b9d0ccddb9b68e72f14ac03795008d7ec7bc8383aa7ede0e3bb31e8fa/plone.app.event-1.2.zip"
+    },
+    "1.2.1": {
+      "sha256": "202b938ee3e92c6ea238fc02b822b57b4b94b686869886063729ccc55e20a600",
+      "url": "https://files.pythonhosted.org/packages/ae/7e/f2d716ab9663143adcfce0215a2bb9a681751240b911342c6d3076e0632c/plone.app.event-1.2.1.zip"
+    },
+    "1.2.2": {
+      "sha256": "39a40f8c9ae68c8e0afe78f2446123408642c88c4c3ea557eebcf9b7fa39c314",
+      "url": "https://files.pythonhosted.org/packages/21/f9/4c2d8fc03d889aaef1b7e5bc0eb50c209b301d155821cb4cbb82da58e320/plone.app.event-1.2.2.tar.gz"
+    },
+    "1.2.3": {
+      "sha256": "966121666e03bf5ba01d91a73990a649aacda1b540754e959d22a1b93e10fa8a",
+      "url": "https://files.pythonhosted.org/packages/d9/8f/6b2b92d4325d828dd82495c9c9e438442c1e84c61665fcebcaa09b8bf93f/plone.app.event-1.2.3.tar.gz"
+    },
+    "1.2.4": {
+      "sha256": "21031110ef07731693c9866010edfb8f33c9c474fc58347aaf16c988b282fcd9",
+      "url": "https://files.pythonhosted.org/packages/7b/fe/735ed782874d4f69f27340d33347c075068239ade73bbbd9ba2f18767ed9/plone.app.event-1.2.4.tar.gz"
+    },
+    "1.2.5": {
+      "sha256": "e746c188d1ff16272e5b37c86e9f2e612edadcf2444979b1a8f9f251594bebc0",
+      "url": "https://files.pythonhosted.org/packages/cb/f5/4bc04ab9aaa3841a991b56f0a4cf081df2f24d0f6b88a4a677dc681e9439/plone.app.event-1.2.5.tar.gz"
+    },
+    "1.2.6": {
+      "sha256": "d5d6618ae070c47807d550925993422a124c2b4442a7e75d750bd2b2b0a023f0",
+      "url": "https://files.pythonhosted.org/packages/e7/b5/7df31cf7f410e9b618c664b7a216819ba2e7c8d649731c0f14476eec3215/plone.app.event-1.2.6.tar.gz"
+    },
+    "1.2.7": {
+      "sha256": "52e596b1c8c48cd63df4694c233bb6ead5c9a6341b5138afc8b9edb11a696710",
+      "url": "https://files.pythonhosted.org/packages/f5/03/88167d92f0e9a96f4ad8776c86e0443690ef54d6d84600121a9761fc6a50/plone.app.event-1.2.7.tar.gz"
+    },
+    "2.0": {
+      "sha256": "1744caf1ccd4fb126be8619ec461e7a71d6f87488d0c0f13adff53afc2808d97",
+      "url": "https://files.pythonhosted.org/packages/bb/04/68b16b7e02d7c67d1fa4a4ab5a8ed468c689ece56aba68f5939c60334fa5/plone.app.event-2.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "8c110093c446a0793ef23616c37cb9b408452c45ae4b058e9aac5d9e28455b26",
+      "url": "https://files.pythonhosted.org/packages/09/bc/0017e64c6e1470ba8c973fe669a3e905bc33462b25f6031a3b2871171dd5/plone.app.event-2.0.1.tar.gz"
+    },
+    "2.0.10": {
+      "sha256": "8d29062676bd147b895f6cbf966b36a4c90e4f28ce030a2e2843c80ca1c9fc6d",
+      "url": "https://files.pythonhosted.org/packages/a7/81/391321e56d429571a2bea7745283dd29572e238b056aa8d4ad0250757f25/plone.app.event-2.0.10.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "66424d461f91c1240e403c4044e420e784e44da5f9fa6f666e63258c39a626cf",
+      "url": "https://files.pythonhosted.org/packages/ff/b4/d207c1eabe21b6e315b9f50028b4cbd3e89d149dd457a7405ec464ca5ff8/plone.app.event-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "a2c2c65560204e6d35e8e74c45ca6a1854157897b819ed632fab29260a12346a",
+      "url": "https://files.pythonhosted.org/packages/83/b3/e21f4f3a87f44e61af88134c4f6cb1b960a7a7f6c432de72722cafdb3e29/plone.app.event-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "9f71b192641c67d660b444b6e703f2af9e0fab58677d42f4dcc94ab3c40853e4",
+      "url": "https://files.pythonhosted.org/packages/69/cd/86aa54e37170f2489a8733f7f77f08f1d26fdab9739839d272cacdce1e21/plone.app.event-2.0.4.tar.gz"
+    },
+    "2.0.5": {
+      "sha256": "b328b07cc7ded93469a77c329e1e90c3c4e7c7926f19a4d70534cf3d98df0712",
+      "url": "https://files.pythonhosted.org/packages/7c/c1/02d8e74dca0c322311ac19593eb4fe9edc86cecb24a2d9c2d0ce289cce81/plone.app.event-2.0.5.tar.gz"
+    },
+    "2.0.6": {
+      "sha256": "af087c4f1ccc99aaeb80ca08c504fdb60b5eb7a0db6acef3975ab6938107c2b2",
+      "url": "https://files.pythonhosted.org/packages/49/5d/1d67a34b045da9d7667a02f5c49e59bd16773be86de75f3e4fbf0c33f498/plone.app.event-2.0.6.tar.gz"
+    },
+    "2.0.7": {
+      "sha256": "22b3449a4d7e92de47959377a4ad4566999c8bfa50db9f3875dcdbc9c7608564",
+      "url": "https://files.pythonhosted.org/packages/14/99/ac602273ace6a27c128ed4fb68856262c8dc24d599693c02d1a9d3a3ad86/plone.app.event-2.0.7.tar.gz"
+    },
+    "2.0.8": {
+      "sha256": "498d7c4f80cecf5f616541148653b60b0f926a1b0dc56cfc23af6145ac99ee25",
+      "url": "https://files.pythonhosted.org/packages/15/22/e6ebf38a5b5e2a35f95c0d85310e148aaf546d853ed24f7b6815eb5a0569/plone.app.event-2.0.8.tar.gz"
+    },
+    "2.0.9": {
+      "sha256": "3daffb35fc8060cd879efee7b258e70d5dbc3032fd2ca7d4cb94127f86ec13c0",
+      "url": "https://files.pythonhosted.org/packages/ba/bf/5a2f567189230ad9f0927dc9688b8cf351d253e4292dad323ed9c317a0e0/plone.app.event-2.0.9.tar.gz"
+    },
+    "2.0a1": {
+      "sha256": "26f1ec240638fc2ac798b746a4660e781c263b9976a49890882a981ab3eb36ef",
+      "url": "https://files.pythonhosted.org/packages/ac/56/093d5cf630da5f75161b361066f2e0383658ce49b52fd301173a31195e05/plone.app.event-2.0a1.tar.gz"
+    },
+    "2.0a10": {
+      "sha256": "c17396eaf5dc6047a40ed364424db600d382aedef484bb99e7dbd4d9c8aa9939",
+      "url": "https://files.pythonhosted.org/packages/41/ab/8ea98b7631f3c7ce4f85c80a8dd79c35c9c3ae66acf157d0a7e0b11c65cd/plone.app.event-2.0a10.tar.gz"
+    },
+    "2.0a11": {
+      "sha256": "10dc2a77781ceb7b082e25d9e7d58cf10522dc135d910c4b74d5d3d5a794f524",
+      "url": "https://files.pythonhosted.org/packages/61/32/9f2fa0800417aa08eb635a5b363c9e397c59af21523f3ffb511a2a74525c/plone.app.event-2.0a11.tar.gz"
+    },
+    "2.0a12": {
+      "sha256": "8d283a2de8c9c7c15760264cc0df193acbc51bc5c0f3b9ff6ef748ae6eba80b6",
+      "url": "https://files.pythonhosted.org/packages/22/eb/f266bcb0c2bd54bc77b5e9deb07828f2f8430f61e65e524edb99bd1399f8/plone.app.event-2.0a12.tar.gz"
+    },
+    "2.0a13": {
+      "sha256": "65fdcad67753c451e0b935b1cb91261700837d6927196e6e6738560123cef0c9",
+      "url": "https://files.pythonhosted.org/packages/f0/84/a9cc470450d20802caa67ae54aba890f245851f927ddc4def1261da10712/plone.app.event-2.0a13.tar.gz"
+    },
+    "2.0a2": {
+      "sha256": "230f0531a809576145bcc596ee803dfe7344307b989961064c054a770ca943c1",
+      "url": "https://files.pythonhosted.org/packages/bd/b5/12feb5196f6352169436abef6d17faf0ef5a112d400dd3a246489241b08d/plone.app.event-2.0a2.zip"
+    },
+    "2.0a3": {
+      "sha256": "21fba2126b4157c35810732c0571444b062ee46c1f517f679722da05117db405",
+      "url": "https://files.pythonhosted.org/packages/81/e0/fca4afbbd05e173f79b06590a8b2f7a8096ea6c17b3f2a68a8bd89215dd1/plone.app.event-2.0a3.tar.gz"
+    },
+    "2.0a4": {
+      "sha256": "32265af3e40ab228c67d1322aa045596a3f43113e990374d23c8350c36e3bdce",
+      "url": "https://files.pythonhosted.org/packages/91/a0/dd8d00c9932d059360c0f89eaa3dd3d3ecd71f0e5b827de4fe7787102bd0/plone.app.event-2.0a4.tar.gz"
+    },
+    "2.0a5": {
+      "sha256": "0499bc47174e577e95c0bbcc0a2ba4ca984a6fdf4fa9e1995c434ef879fb8cda",
+      "url": "https://files.pythonhosted.org/packages/bb/df/2b27b7d2b7e6137338381933cb20c6f20a063d81fb158c142e14f595eb70/plone.app.event-2.0a5.zip"
+    },
+    "2.0a6": {
+      "sha256": "dc24ab7a949ad915d3b3d6c119e71a91b94f780d4422fe3dbe1ea5c50b3b22cb",
+      "url": "https://files.pythonhosted.org/packages/e9/e2/f3c81fadba82e122815d1951d9061b1b0246d979146a24bcc0fbaf995ae8/plone.app.event-2.0a6.tar.gz"
+    },
+    "2.0a7": {
+      "sha256": "70cd0a57ff3270f25e389f992d149a4faffcf970f4caaf2d9e34e136fbf03cae",
+      "url": "https://files.pythonhosted.org/packages/28/7b/199d513c440bc27b71df7821a41e14b69256cff88128dfb7b6a0dda1e9a3/plone.app.event-2.0a7.zip"
+    },
+    "2.0a8": {
+      "sha256": "c4fed34a8a670fd95b142b5cb5a2fb730eecf5f5d0c1a05465d35e0792276d82",
+      "url": "https://files.pythonhosted.org/packages/e1/32/4b0936986e1f2406a373305b6e1595d1a0945e49e6d2dd417574a4046827/plone.app.event-2.0a8.zip"
+    },
+    "2.0a9": {
+      "sha256": "489b8fb291eedcfedc91e631f44d99e89d1648c293e13a96323cb23d481fff2c",
+      "url": "https://files.pythonhosted.org/packages/b6/81/16d4e734ce0e44ff915432d7f795eb3897807ea14d5352d1b69e724912b4/plone.app.event-2.0a9.tar.gz"
+    },
+    "2.0b1": {
+      "sha256": "240720b693add796be657c86e3bfb2b29c8a99aaef35c833dc488665171d5117",
+      "url": "https://files.pythonhosted.org/packages/86/cc/e531d80a0798869384ab506a4d90daaff3e71cada655ab75b2a8378f18da/plone.app.event-2.0b1.tar.gz"
+    },
+    "2.0b2": {
+      "sha256": "9869bbbec487f0faa2f9c670d4e756ccf438048efc982982d4669e3efb341187",
+      "url": "https://files.pythonhosted.org/packages/ce/a1/316d517f93391c570885efe5b009959ea9be7dcb955fde2e5da328903b86/plone.app.event-2.0b2.tar.gz"
+    }
+  }
+}

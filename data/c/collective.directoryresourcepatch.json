@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Patch for DirectoryResource to allow traversal",
+    "homepage": "http://svn.plone.org/svn/collective/collective.directoryresourcepatch/",
+    "license": "GPL"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "da5bed0aa9205dd1febb9ffc75fad48c831e119491001ad73dd81bfae382d227",
+      "url": "https://files.pythonhosted.org/packages/5c/a2/3a27341414aab6997b9a2af65b5bbb645bbdde428d242fc1edb58cd7f1d0/collective.directoryresourcepatch-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "b506efb48ed77f1f5de5c5dda7afe06ba59c4444033d563fbfb92eed17eedce2",
+      "url": "https://files.pythonhosted.org/packages/6b/94/61727a2e2afeaad80e321e33801834124636f96e9d25513e084882065b38/collective.directoryresourcepatch-1.1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.7"
+  ],
+  "meta": {
+    "description": "A YANG (RFC 6020) validator and converter",
+    "homepage": "https://github.com/mbj4668/pyang",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.6": {
+      "sha256": "bf3c6e8c9682a4f1f0ffa6225192b4fb3ec1aba7b1941b8249f0370864521c77",
+      "url": "https://files.pythonhosted.org/packages/9c/38/af583b81303d9d3f2cc1fc31d61b025e5483e346b4c23e9cf91dfbb1c6a2/pyang-1.6.tar.gz"
+    },
+    "1.7": {
+      "sha256": "cf5ddd645fd1fd6ae2389bb6bfc19ae516793d9d3b12d599deab33b54e74b64c",
+      "url": "https://files.pythonhosted.org/packages/bf/fa/92a0088b9dbddc677c2a41beb3a7d16fa83c705875cc066facec189f0c63/pyang-1.7.tar.gz"
+    }
+  }
+}

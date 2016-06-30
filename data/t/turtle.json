@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.0.2"
+  ],
+  "meta": {
+    "description": "Turtle is an HTTP proxy whose purpose is to throttle connections to\nspecific hostnames to avoid breaking terms of usage of those API\nproviders (like del.icio.us, technorati and so on)",
+    "homepage": "http://adroll.com/labs",
+    "license": "MIT License"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "dde5f807efa8a377f0beed67cff90802f29a6bd9ee93cf63058b9182cb09fcc8",
+      "url": "https://files.pythonhosted.org/packages/02/bd/bb496396b18d42786b73357de99733370515dd0e69d24b500d1fec35e9d1/turtle-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "edff7868ddfeba60cb2dcc3fb2218f29fd042ab697dcac0723e3e16a330979dd",
+      "url": "https://files.pythonhosted.org/packages/ff/f0/21a42e9e424d24bdd0e509d5ed3c7dfb8f47d962d9c044dba903b0b4a26f/turtle-0.0.2.tar.gz"
+    }
+  }
+}

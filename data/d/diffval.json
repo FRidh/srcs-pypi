@@ -1,0 +1,27 @@
+{
+  "latest_version": [
+    "0.14"
+  ],
+  "meta": {
+    "description": "Validates tests by comparing real output against expected output",
+    "homepage": "http://efw.ssl.berkeley.edu/packages/diffval"
+  },
+  "versions": {
+    "0.11": {
+      "sha256": "fd5946be465cf469e833ac21fe61556996032224c6b4728c84e43bcc91d92f30",
+      "url": "https://files.pythonhosted.org/packages/70/bd/9c9b5f7ca2b769ab468479d2d0cb63d774a92e97cbdc1a4ab2a67ccd23f3/diffval-0.11.tar.gz"
+    },
+    "0.12": {
+      "sha256": "783ed61f53de8bd80dded9fc23ac634df841e339b9a3da1578e07bbbeb8493aa",
+      "url": "https://files.pythonhosted.org/packages/a7/1d/7a0ec88e678abd78e19a83aecf2fa3e7fdfc3cd026f1d8b8b3501195c581/diffval-0.12.linux-i686.tar.gz"
+    },
+    "0.13": {
+      "sha256": "5328b2d862b77fd55a58e1717190080934b5c8ac106761308f98a7f57b5645ac",
+      "url": "https://files.pythonhosted.org/packages/02/80/8265305a0415aef72230569b4c8728ff30c60060f8364393cda29a05070c/diffval-0.13.linux-i686.tar.gz"
+    },
+    "0.14": {
+      "sha256": "f2b42bee8dc5bd32f96dea4e2255592ee5e6d52a7cbc4e00f78e6b840490e3a0",
+      "url": "https://files.pythonhosted.org/packages/08/9c/80c6b3f46c092220bdaf75d341848207bcba85c8613ea706e54cf372a253/diffval-0.14.linux-i686.tar.gz"
+    }
+  }
+}

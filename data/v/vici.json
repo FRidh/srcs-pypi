@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "5.4.1dev3"
+  ],
+  "meta": {
+    "description": "Native Python interface for strongSwan's VICI protocol",
+    "homepage": "https://wiki.strongswan.org/projects/strongswan/wiki/Vici",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "915f9c2acd205b75c3c09ab6f52933fc1742841fb90b28d8b7c446a74cd58b02",
+      "url": "https://files.pythonhosted.org/packages/3e/e5/1c39b0ebb4b9c52d273c2508b96125d94cbb62bc05cc4ccf703a889c0dcb/vici-0.0.1.tar.gz"
+    },
+    "5.4.0": {
+      "sha256": "f730e7dd2efe70d3d304a5f8a8dc86a997b547be8fb2a14283c99fb23bd2808a",
+      "url": "https://files.pythonhosted.org/packages/ea/fe/ea10cd7cc73115e137b5cdb4794597588afbffea82a78212986e3b78f92f/vici-5.4.0.tar.gz"
+    },
+    "5.4.1dev3": {
+      "sha256": "a574399517dee1ac38cb0f2b72a5a3b280c83e327819c304ecc1c8e44e68c5db",
+      "url": "https://files.pythonhosted.org/packages/f8/2d/6ce29268ca96808f44b8fd5d260a75572f4750cdc7e6ebad9180d0758092/vici-5.4.1dev3.tar.gz"
+    }
+  }
+}

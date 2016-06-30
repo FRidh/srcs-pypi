@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Run arbitrary commands from buildout",
+    "homepage": "http://www.python.org/pypi/plone.recipe.command",
+    "license": "GPL"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "f98d844c4e550a09fda348b86a1c5104f0775936d24cd2e7876e278902d1c64f",
+      "url": "https://files.pythonhosted.org/packages/05/cd/09600406949e4ff22953f6d46dee478147e74d8d34fc1711efaccb008605/plone.recipe.command-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "18871d87255de65f8d179e82c842e50504502a20e3ad8c24a60467b65c371f5b",
+      "url": "https://files.pythonhosted.org/packages/c5/6d/b0751ece698a27b2dfe5599aee4b202a56a414593ef0c072d1ba302d3c4f/plone.recipe.command-1.1.zip"
+    }
+  }
+}

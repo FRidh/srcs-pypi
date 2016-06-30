@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "A simple Django app to send text messages using the Nexmo api",
+    "homepage": "https://github.com/thibault/django-nexmo",
+    "license": "WTFPL"
+  },
+  "versions": {
+    "1.0.0": {
+      "sha256": "79ec542063c2300b75ebbc12e86c5c67ef81d02873a28740a1ea61dbac6cc6e9",
+      "url": "https://files.pythonhosted.org/packages/86/6c/1abcaa6994a83686a1108d8186cddb38f1c17739f718be8c603e7dd842f0/django-nexmo-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "f17bdf046326725332a0e38cde5732326183f96c9bb6953c92a640f33b898e87",
+      "url": "https://files.pythonhosted.org/packages/3d/0c/dc8f2a596c71cf523f1cdc546c4172c94c5c267db8f5bf35954b34fedffd/django-nexmo-1.0.1.tar.gz"
+    }
+  }
+}

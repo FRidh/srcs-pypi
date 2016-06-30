@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.9"
+  ],
+  "meta": {
+    "description": "A console XMPP client",
+    "homepage": "http://poez.io/",
+    "license": "zlib"
+  },
+  "versions": {
+    "0.8": {
+      "sha256": "e596093dc324bb1f1e0d9a0c2c1b3de409394b2b463694fff5a004e78c87b31a",
+      "url": "https://files.pythonhosted.org/packages/08/9d/fd7612299d376629f74fbd604a0ead0d4355f0bc62f66ecbf2486af65c4b/poezio-0.8.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "c46b86a09c34ad18400072646c19795d5a8dd20903132d7e6ed26755fceee270",
+      "url": "https://files.pythonhosted.org/packages/d5/dd/0ceec11207316eda77825949785aa0b64af4d25804c4482cd1f3b4f0a3dd/poezio-0.8.1.tar.gz"
+    },
+    "0.9": {
+      "sha256": "fb1df4d71bdd3777f8b0ee082a7010686d103126f150110f27ada97704f4c1d2",
+      "url": "https://files.pythonhosted.org/packages/ab/b3/957dddb6a6c2b95a44fde654f37718758cc1ac814e043ca45b3ffd39c28c/poezio-0.9.tar.gz"
+    }
+  }
+}

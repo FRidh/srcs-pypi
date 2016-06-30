@@ -1,0 +1,36 @@
+{
+  "latest_version": [
+    "9.0.0"
+  ],
+  "meta": {
+    "description": "Command line interface and Python API wrapper for Fuel",
+    "homepage": "http://mirantis.com",
+    "license": "None"
+  },
+  "versions": {
+    "6.1.0": {
+      "sha256": "ada2790684c9fd89469e246c256169eb37e1515d5da2029891afc9ad6e293550",
+      "url": "https://files.pythonhosted.org/packages/6c/ad/72af15b22cba155c5ab36f437fc2705767168d75b0ce77cc62ca4c26b9ff/python-fuelclient-6.1.0.tar.gz"
+    },
+    "6.1.2": {
+      "sha256": "feec9ddb5d9a4d1ff0783a2e10ef2fc2078784bfa52dafc5cf2b52d2aab8f0ce",
+      "url": "https://files.pythonhosted.org/packages/2a/79/e7423e500d6b93a9aed323e89a2a912857d90f90430c0867462be8eef206/python-fuelclient-6.1.2.tar.gz"
+    },
+    "6.1.3": {
+      "sha256": "5ebb36f9b3154e3ef5112bd236f58f2f35cb01610bfb174f1b22a25b2fea677d",
+      "url": "https://files.pythonhosted.org/packages/a8/7a/67f9e1dd3e621f3d57248313b5d92116900c40e099fd957bdfa9f442376c/python-fuelclient-6.1.3.tar.gz"
+    },
+    "7.0.0": {
+      "sha256": "c88ba9ffb70b0e44d93efa16ece293da84cf9cd5a7600f87c21fa9ca1d32d28a",
+      "url": "https://files.pythonhosted.org/packages/07/3f/eb5521fb0deacb702e8f69c43e0b365d93c6eaee1e6e78b4bd7b7f3b71bf/python-fuelclient-7.0.0.tar.gz"
+    },
+    "8.0.0": {
+      "sha256": "542565346a3b85b521db1e384d01ed18b4fdefad739254ba581e44d4a461adaf",
+      "url": "https://files.pythonhosted.org/packages/6c/68/4c715e4e81c154c06128e1a4e549509ba595e4d8616a0cdbe0618fde2bdc/python-fuelclient-8.0.0.tar.gz"
+    },
+    "9.0.0": {
+      "sha256": "a09e3526d9f5bb2aa1182cc6b207c31bc20b8c86a4f23c31cc06d679ffb131dd",
+      "url": "https://files.pythonhosted.org/packages/53/2e/94df81419a9ceca873cb37caf43313b44e130468306477c0e942ccc32072/python-fuelclient-9.0.0.tar.gz"
+    }
+  }
+}

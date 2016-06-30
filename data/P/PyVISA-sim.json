@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources",
+    "homepage": "https://github.com/hgrecco/pyvisa-sim",
+    "license": "MIT License"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "6d8c9f3f3125fac550427baa91c1d469b44a5f740188b2a4df6bdfdb2fa8c432",
+      "url": "https://files.pythonhosted.org/packages/73/5e/cf653b2f16627b27c26f1a7d2acee64082bd75edb5ab845cff566560e73b/PyVISA-sim-0.1.zip"
+    },
+    "0.2": {
+      "sha256": "bd47b6367ff0f02b273efe52d8762cd10674bd93cdc97f7133d0324bcf07c1bb",
+      "url": "https://files.pythonhosted.org/packages/37/d0/73293f89c2567832e47e32bb30d6645e2d61aad1fa78266640838a707694/PyVISA-sim-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "37fc9dcf7af42b1fe53d1c82d1f46a53b3ffbd23b40032d06440dbab8e13ffd1",
+      "url": "https://files.pythonhosted.org/packages/8f/d6/f3b4582bb5bc6687de816a58051962234338b8f811d0e0c404bb789a2336/PyVISA-sim-0.3.tar.gz"
+    }
+  }
+}

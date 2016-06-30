@@ -1,0 +1,39 @@
+{
+  "latest_version": [
+    "0.7.1"
+  ],
+  "meta": {
+    "description": "Common API for reading and writing soundfiles.   \n* Uses installed packages if found (scikits.audiolab)  \n* Implements reading uncompressed formats correctly in any format.  \n* The data is independent of the encoding. All data is presented as float64  \n* Bitdepth is handled automatically depending on the the actual data",
+    "homepage": "https://github.com/gesellkammer/sndfileio"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "04c6ad0d099da2adbeee16c7ad6742b52efcbe9215b7bd87d4ee73e6f8d9af3a",
+      "url": "https://files.pythonhosted.org/packages/bf/e4/d6049f63f039cf924ba403be2a46758a27404ae037f9dc9e4a4df9dd7014/sndfileio-0.1.zip"
+    },
+    "0.2": {
+      "sha256": "a992c38b24a7d0958a3b61a14c7249457ca7819c7be46009745217388c896d3e",
+      "url": "https://files.pythonhosted.org/packages/4b/36/3ed3a130f3308c10e8d49670c32afd05e38ef5987a44b10ec4f45ee77cc8/sndfileio-0.2.zip"
+    },
+    "0.3": {
+      "sha256": "46f2e056bb72ff34847d70fb474839cb748fa47c0a10440c15bc03e2394ea75a",
+      "url": "https://files.pythonhosted.org/packages/37/94/f8d465d88f43cc1e838940e3de9b282267036f5fd155fb33cc212ec0b8da/sndfileio-0.3.zip"
+    },
+    "0.3.1": {
+      "sha256": "579cd37be6cd897216d3da4127f2c381408b35d056f8d8dd1332effce4827212",
+      "url": "https://files.pythonhosted.org/packages/cb/f3/d8b9d5f59f6263331b4cc506bfb151e29e25a85a949d09f09d55af3378a5/sndfileio-0.3.1.zip"
+    },
+    "0.4-": {
+      "sha256": "ce59178471e107e1de7214a29496407d471e4721f9033997b2d9ce12befc8173",
+      "url": "https://files.pythonhosted.org/packages/c0/6d/79f0f1e526d591badae26e4a19e2f9a8e34764bbfed7c65bf15a45012299/sndfileio-0.4-.zip"
+    },
+    "0.7": {
+      "sha256": "bc244b42e6b23ab4804b8714ebc284410a137dd7b5d86e46f486e7681cce1f91",
+      "url": "https://files.pythonhosted.org/packages/f8/91/748858dba44e01ed79dd56313e27f4681c2d055f238ed1e55ba01cd25b82/sndfileio-0.7.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "8ff3d7be243693c8faf537f9e46fe85f7c97dde1bd8812f8ade44e5751825390",
+      "url": "https://files.pythonhosted.org/packages/10/a5/b73fbef06657f54b17373972ee4037fae1e1a110ad3d047ebd03c4878da9/sndfileio-0.7.1.tar.gz"
+    }
+  }
+}

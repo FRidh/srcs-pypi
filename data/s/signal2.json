@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "ctypes wrapper around sigaction() and sigqueue()",
+    "homepage": "http://bitbucket.org/antocuni/signal2",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "0ab0305de8cf1ee4ae91fc92aa4b61714704b223f52dcfb993fc937a17f695c2",
+      "url": "https://files.pythonhosted.org/packages/cb/98/b13b234365159ef3010d4747c3f3e78934cc9304db9f152270ad05bd031c/signal2-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "5b5a85ac8f62be5477e2b6f030576182485e106e9a4852c84bb05739f666f5a3",
+      "url": "https://files.pythonhosted.org/packages/57/76/79d6e9ab71facb9da084347e509af251c1fd57c88851aeca9efb7f44bb2e/signal2-0.2.tar.gz"
+    }
+  }
+}

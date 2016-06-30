@@ -1,0 +1,36 @@
+{
+  "latest_version": [
+    "2016.1"
+  ],
+  "meta": {
+    "description": "A Graph Partitioning Package",
+    "homepage": "http://mathema.tician.de/software/pymetis",
+    "license": "wrapper: MIT/METIS: Apache 2"
+  },
+  "versions": {
+    "0.91": {
+      "sha256": "11df0499142b2d4192922bd27938c1217b5e417613afc790af988e61cb8560dd",
+      "url": "https://files.pythonhosted.org/packages/53/2c/3d9a67e2ed036d9e22581b312547f37a2bbcb539cd183c22bf618ac87abd/PyMetis-0.91.tar.gz"
+    },
+    "0.92": {
+      "sha256": "894b01185eb452262083fc8b780e4a06b4d7be37574fe1e5b97af9466a4d7e15",
+      "url": "https://files.pythonhosted.org/packages/82/d2/649619ea804d6d13cf14425147f13f7f7254e998a1b35e7a9db741022f9e/PyMetis-0.92.tar.gz"
+    },
+    "2011.1": {
+      "sha256": "a7ee72923e919d082babda4a613e07e063be78c05fdf23d30ce2608eb09aaf41",
+      "url": "https://files.pythonhosted.org/packages/82/06/d289da025d8795d8f3e16e22da902e31ae73f33b2cd1c057ee9259e47222/PyMetis-2011.1.tar.gz"
+    },
+    "2011.1.1": {
+      "sha256": "c8077dc0077179343bea8e80cd4f98ab4f3f97f078bf7336f0d4a60e5e167bac",
+      "url": "https://files.pythonhosted.org/packages/7c/84/1b7efb82103a3d2e1464a3dbe9713653f316d1b787d13bb134ec25ff3ae9/PyMetis-2011.1.1.tar.gz"
+    },
+    "2014.1": {
+      "sha256": "547fbb6f1e281aaad48e72f61cd896d5a1944cae423d710e2aa3ab5853efb513",
+      "url": "https://files.pythonhosted.org/packages/b8/ef/bf995da84ed166e38407f50f318fff1b562e9a33def9b42393ab73a3d66a/PyMetis-2014.1.tar.gz"
+    },
+    "2016.1": {
+      "sha256": "1d61a59c1c19da9325e6088c9a51aad0892f2122ff1ece7a0884f1abd7fa9a68",
+      "url": "https://files.pythonhosted.org/packages/f8/fe/52e0db02f25234ca4ed719f8e642ba4c95cef69afafc0f641aaf0e0c2139/PyMetis-2016.1.tar.gz"
+    }
+  }
+}

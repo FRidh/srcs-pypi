@@ -1,0 +1,44 @@
+{
+  "latest_version": [
+    "0.5.1"
+  ],
+  "meta": {
+    "description": "A psycopg2 wrapper using pandas DataFrame to perform CRUD operations with PostgreSQL",
+    "homepage": "https://www.github.com/marcelluz/pypostgres",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "f17ea1bfc05deaf73da342a1c45e39ab8cf8421741a9a62efc0ee90c739a6e56",
+      "url": "https://files.pythonhosted.org/packages/a7/81/f2c8d2ab32617792af1644dc4a84c8582d76de6c1edeb25e42f7e489f176/pypostgres-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "8ce8310c833a8fc4fb9fa9df5446819cedf538a08dabae467d35a862f5a4e356",
+      "url": "https://files.pythonhosted.org/packages/e9/8e/b6043ab75150385a42d151b9c68508866f08af0f2f5f4d32bb01e9616135/pypostgres-0.2.tar.gz"
+    },
+    "0.4": {
+      "sha256": "cd1cee7c8668e41961fb4fc395bae3ce5bdfa2440c60802dad2712ef21f0d04b",
+      "url": "https://files.pythonhosted.org/packages/41/cb/bbab482fe232d0664fff3715dee52364f75e327599a6b599a7eda899def8/pypostgres-0.4.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "3e4d6a5c849f1cd1fce1b59e51cb4cf2c6d482f6026edebb4f03b8c73e2e5784",
+      "url": "https://files.pythonhosted.org/packages/44/3c/8c49de02925e32f593a75c4f3306988ec694594612367e1af95422f45beb/pypostgres-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "a7fe8d16305caea7629fa6e9c55c930102ad0962a9e16771bd121e3729b2e8bd",
+      "url": "https://files.pythonhosted.org/packages/96/28/cc7e3498e59899d5740e2171870c6c7185df06d0094204a0a1152e1ca7e5/pypostgres-0.4.2.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "2664fe966042592c37813f686b123aba8da4095258e69cc0556c64c30efcd479",
+      "url": "https://files.pythonhosted.org/packages/67/89/31448a74b0a57c704f5acc8a272f08cf6e6561c73e3dfbb8b6985bd35e74/pypostgres-0.4.3.tar.gz"
+    },
+    "0.5": {
+      "sha256": "d3f15d0e996f6f96b9ca43a7bdef8bedcae6c313c34732950fef468df5e01f99",
+      "url": "https://files.pythonhosted.org/packages/7b/19/d7760321d0a1af9a28fd17767e3442625e3083906d7b26edb1c70a480bf8/pypostgres-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "66b2de774c81634853b1fb0eb3fa1fa6b8c3f83f4326b23118382c9d4f6a56a9",
+      "url": "https://files.pythonhosted.org/packages/14/2b/26f7adc0ea7dd53b55913ab9bb6c7ee6ad8d2682870034fef40eb4818130/pypostgres-0.5.1.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "latest_version": [
+    "0.0.2"
+  ],
+  "meta": {
+    "description": "Relayer is a library to emit kafka messages and group logs to relay them to kafka for log aggregation",
+    "homepage": "https://github.com/wizeline/relayer"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "e6e0ec128f65ae732b5c766991110ab0be9fdd5f825ea5187a27788c7d865c4f",
+      "url": "https://files.pythonhosted.org/packages/5a/f4/fe61c98a73d009299ec534b6340c23e8743f2e4b83515908521170707cdc/relayer-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "b707ed226a2da762d7091fdf86d5454802f5e31145d2bf87297067c43b83b910",
+      "url": "https://files.pythonhosted.org/packages/fc/49/9858b3ef2503ffa844b7fccf551a1c86295ed38cc82321cdf8d565cedf7c/relayer-0.0.2.tar.gz"
+    }
+  }
+}

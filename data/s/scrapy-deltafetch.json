@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "1.1.0"
+  ],
+  "meta": {
+    "description": "Scrapy middleware to ignore previously crawled pages",
+    "homepage": "http://github.com/scrapy-plugins/scrapy-deltafetch",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.9.1": {
+      "sha256": "cb5d3aa6002e53f83c297da72151bfa649befdf1769a908a1575a95983ac5ffe",
+      "url": "https://files.pythonhosted.org/packages/b2/79/adaa11c3cb93f8c8cc76a6378126c0438e4c370c669dd67221e90ea3338d/scrapy_deltafetch-0.9.1-py2.py3-none-any.whl"
+    },
+    "0.9.2": {
+      "sha256": "2ad8c2c049c8948e99596116c50fa4ad93e504ad772ac0768db66033e7f36fce",
+      "url": "https://files.pythonhosted.org/packages/b3/55/d2ce7c1e6e2412265f5f8092673904fdd16ebd86b3a78412bfa75d75a025/scrapy-deltafetch-0.9.2.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "1c901ae261fff68f69311919f3b62293ffc299d54d54bae47bbc70fb3aa17d7f",
+      "url": "https://files.pythonhosted.org/packages/85/54/dfe30be88b55f99a1834740102fe0ea160255a2918d6776d164f7055fd51/scrapy-deltafetch-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "c9fe002622e86bd3b513f5db774475b1681786fe6c35294b29e6a8aeb1fd76a3",
+      "url": "https://files.pythonhosted.org/packages/84/a5/747d1bb92bd4a160ec065416210c4049878d288b4518ffe07ef3f5f75825/scrapy-deltafetch-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "8f2161a94175d06200d26061437fcc6ad1c65d84c3e8d9fcdbc522b6cb6935d3",
+      "url": "https://files.pythonhosted.org/packages/be/14/9524294b65a1582c128ddbb2fcc64102c492ee98abaf98fb174005692345/scrapy-deltafetch-1.1.0.tar.gz"
+    }
+  }
+}

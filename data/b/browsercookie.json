@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.6.3"
+  ],
+  "meta": {
+    "description": "Loads cookies from your browser into a cookiejar object so can download with urllib and other libraries the same content you see in the web browser",
+    "homepage": "https://bitbucket.org/richardpenman/browsercookie",
+    "license": "lgpl"
+  },
+  "versions": {
+    "0.6.1": {
+      "sha256": "8adc1b8e347dc64d4de6d026b0ab6a282f400cb084e55b66f6d92cf16c169cc3",
+      "url": "https://files.pythonhosted.org/packages/fe/02/42344f40d6b5e335312ca6ba2c1920e780956030d16ebcbe3bb43c0e1bd8/browsercookie-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "4728455b88c1602a096b5540817f110aa6780a5b67d2be1d46afbff569372a4f",
+      "url": "https://files.pythonhosted.org/packages/08/bf/d18f64b627ba7495da71429a5486399a69dd529c22c2c4fcb354d3c75985/browsercookie-0.6.2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "9de65faef047af534641b3a8684043341d201a2fe439c6d7ef0b1ff2459e12ac",
+      "url": "https://files.pythonhosted.org/packages/58/51/33b44a8444678db68ff49f3c065b247da30d5c00031a37f947f9635117a9/browsercookie-0.6.3.tar.gz"
+    }
+  }
+}

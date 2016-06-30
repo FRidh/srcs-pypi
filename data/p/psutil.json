@@ -1,0 +1,184 @@
+{
+  "latest_version": [
+    "4.3.0"
+  ],
+  "meta": {
+    "description": "psutil is a cross-platform library for retrieving information onrunning processes and system utilization (CPU, memory, disks, network)in Python",
+    "homepage": "https://github.com/giampaolo/psutil",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1.1": {
+      "sha256": "25c6caffbf00d8be77489391a784654e99fcbaf2a5278e80f748be4112ee0188",
+      "url": "https://files.pythonhosted.org/packages/69/e4/7e36e3e6cbc83b76f1c93a63d4c053a03ca99f1c99b106835cb175b5932a/psutil-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "4a13d7f760b043b263346e48823b1dfd4c202e97b23483e481e5ff696e74509e",
+      "url": "https://files.pythonhosted.org/packages/6e/51/56198d83577106bf89cb23bffcb273f923aea8d5ffe03e3fce55f830c323/psutil-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "43e327934b4a273da20d3a5797d6abcaab37914f61499d96fcf9e8e1ae75442b",
+      "url": "https://files.pythonhosted.org/packages/1d/4f/dcfe500fd43e3d6b26d253cb0d7e6e3a7d80224b5059bd50c482aff62eef/psutil-0.1.3.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "8de8efa92162c94f623297f522e440e818dc7b832f421f9f490324bc7d5d0d92",
+      "url": "https://files.pythonhosted.org/packages/58/20/3457e441edc1625c6e1dbfcf780d2b22f2e9caa8606c3fd8ce6c48104e87/psutil-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "bd33f5f9e04b7677a932cc90d541ceec0050080d1b053ed39488ef39cb0fb4f4",
+      "url": "https://files.pythonhosted.org/packages/9b/62/03133a1b4d1439227bc9b27389fc7d1137d111cbb15197094225967e21cf/psutil-0.2.1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "d70e16e60a575637f9d75a1005a8987d239700c0955134d4c8666a5aefbe16b8",
+      "url": "https://files.pythonhosted.org/packages/f2/5c/4e74b08905dab9474a53534507e463fe8eec98b2fc0d29964b0c6a7f959d/psutil-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "4b0ecc77d6c503449af3d2f0a41ad4cb8338e173f5d655a8239e41b1a49bc278",
+      "url": "https://files.pythonhosted.org/packages/88/46/a933ab20c6d9b0ca5704b60307b9e80bdc119b759e89b74a2609b4c10eb6/psutil-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "33002c38f916835c949ae39a84f3f6d09ce01818ed805dfd61f8f3844c395c9d",
+      "url": "https://files.pythonhosted.org/packages/a0/cd/00550e16a2a0357a9c24946160e60fc947bbe23bc276aff1b4d3e7b90345/psutil-0.4.1.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "b10d1c19b9d334bea9f025f3b82b5664d642d26ba32ae0e71e7e20c5a6b4164f",
+      "url": "https://files.pythonhosted.org/packages/3f/eb/e4115c3ecc189fd345b9a50d521e2ff76990bfb12a91921e93ea6398feef/psutil-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "f660d244a08373f5e89633650970819a59463b37af1c9d205699fb0d0608986d",
+      "url": "https://files.pythonhosted.org/packages/aa/06/6ebc13a14c0961d7bb8184da530448d8fc198465eb5ecd1ad36c761807d2/psutil-0.5.1.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "e918763243371f69bc98b601769df7337e196029dcdb797224f0ede474e17b94",
+      "url": "https://files.pythonhosted.org/packages/3c/9f/0de622fc62e74f4c154656440c02c8a24a01a997d605a744272eb0d93742/psutil-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "52eba795281cdd1079f13ded6a851f6d029551ddf552eadc9a2ee3eb26fe994d",
+      "url": "https://files.pythonhosted.org/packages/4f/e6/989cb0b2f7f0ebe3ab0e7144b78db17387810f1526e98498be96fb755fa9/psutil-0.6.1.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "95089802017ee629b84332deeb367f7f775b42e827ee283d46b7e99d05120d71",
+      "url": "https://files.pythonhosted.org/packages/0b/8c/aeb6acf5a4610f8d5bb29ade04081d8672c2294c3cefa1f0422c6398bc66/psutil-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "5236f649318a06dcff8b86947c888d4510abce1783923aa5455b2d62df7204c7",
+      "url": "https://files.pythonhosted.org/packages/8c/75/1eeb93df943b70c2e18bf412b32d18af3577da831f2bfe8c7d29f8853a67/psutil-0.7.1.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "af776ebeaf2420709b1ab741f664c048dcfc2890e3e7d151ae868fbdc3d47920",
+      "url": "https://files.pythonhosted.org/packages/ed/7e/dd4062bfbe9b735793a5e63a38d83ba37292c4ada3615fe54403c54e3260/psutil-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "ba4c81622434836f6645e8d04e221ca5b22a9bd508c29989407f116b917be5b3",
+      "url": "https://files.pythonhosted.org/packages/94/50/7c9e94cf6cdbf4e4e41d2e318094c2b0d58d3bb9196017fb6e4897adf277/psutil-1.0.1.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "31b4b411d3f6960d26dac1f075709ff6d36f60216bf1f2b47fc4dc62a2d0aa6f",
+      "url": "https://files.pythonhosted.org/packages/f6/71/1f9049fc7936f7f48f0553abd8bf8394f4ad2d9fb63a881b3a653b67abd6/psutil-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "a5201e4c2a9b57e9e5d8de92b3a4006d093eedd9b56915b8279f365aaedd0f48",
+      "url": "https://files.pythonhosted.org/packages/8d/0d/1a4bfc94f9cc783a510b3fc7efd5a2ef39858b3a2b6ab40a094a1ca8a54d/psutil-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "adeb1afcb46327bed6603aa8981dce863f052043a52f003e2742ec7c3739677a",
+      "url": "https://files.pythonhosted.org/packages/e4/b1/34a4bd75027d08c8db4f6301d6562e333c8d9131dca08b7f76f05aeae00a/psutil-1.1.2.tar.gz"
+    },
+    "1.1.3": {
+      "sha256": "5e1164086a7ed3b863ebd12315d35086e22252b328401fce901a0862050ef98c",
+      "url": "https://files.pythonhosted.org/packages/93/fa/1f70b7fcdff77348f4e79d84cc9b568596874ca34940ede78c63d503a095/psutil-1.1.3.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "c3a2b02e92363837499680760b674b3bf3bd03dd9528a5dc41392625a61b162a",
+      "url": "https://files.pythonhosted.org/packages/77/89/8ee72ae2b5e3c749e43a9c1e95d61eceff022ab7c929cdde8a3b7539a707/psutil-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "508e4a44c8253a386a0f86d9c9bd4a1b4cbb2f94e88d49a19c1513653ca66c45",
+      "url": "https://files.pythonhosted.org/packages/8a/45/3b9dbd7a58482018927f756de098388ee252dd230143ddf486b3017117b1/psutil-1.2.1.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "38af34b0f40a4f50988a7401b7111ae4468beb5bcce0fbae409504dd3d5f2e8d",
+      "url": "https://files.pythonhosted.org/packages/9c/2c/d4380234ddc21ecfb03691a982f5f26b03061e165658ac455b61886fe3ff/psutil-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "d1e3ce46736d86164b6d72070f2cbaf86dcf9db03066b7f36a7b302e334a8d01",
+      "url": "https://files.pythonhosted.org/packages/6c/d1/69431c4fab9b5cecaf28f2f2e0abee21805c5783c47143db5f0f7d42dbec/psutil-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "bf812a4aa6a41147d0e96e63d826eb7582fda6b54ad8f22534354b7f8ac45593",
+      "url": "https://files.pythonhosted.org/packages/64/4b/70601d39b8e445265ed148affc49f7bfbd246940637785be5c80e007fa6e/psutil-2.1.1.tar.gz"
+    },
+    "2.1.2": {
+      "sha256": "897e5163e0669001bf8bcb0557362f14703356336519082a93c38d54e5b392e4",
+      "url": "https://files.pythonhosted.org/packages/53/6a/8051b913b2f94eb00fd045fe9e14a7182b6e7f088b12c308edd7616a559b/psutil-2.1.2.tar.gz"
+    },
+    "2.1.3": {
+      "sha256": "b434c75f01715777391f10f456002e33d0ca14633f96fdbd9ff9139b42d9452c",
+      "url": "https://files.pythonhosted.org/packages/fe/a3/7cf43f28bbb52c4d680378f99e900ced201ade5073ee3a7b30e7f09e3c66/psutil-2.1.3.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "b15cc9e7cad0991bd1cb806fa90ea85ba3a95d0f1226625ecef993294ad61521",
+      "url": "https://files.pythonhosted.org/packages/ba/e4/760f64a8a5a5f1b95f3ce17c0d51134952f930caf1218e6ce21902f6c4ab/psutil-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "a0e9b96f1946975064724e242ac159f3260db24ffa591c3da0a355361a3a337f",
+      "url": "https://files.pythonhosted.org/packages/df/47/ee54ef14dd40f8ce831a7581001a5096494dc99fe71586260ca6b531fe86/psutil-2.2.1.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "a43cc84c6a2406e8f23785c68a52b792d95eb91e2b43be40f7c814bf80dc5979",
+      "url": "https://files.pythonhosted.org/packages/ba/18/c5bb52abb67194aabadfd61286b538ee8856c7cb9c0e92dd64c1b132bf5e/psutil-3.0.0.tar.gz"
+    },
+    "3.0.1": {
+      "sha256": "3f213b9ceed3c3068a973e04d7a8b2a29d1076abcb5ef45382517bfc6b808801",
+      "url": "https://files.pythonhosted.org/packages/aa/5d/cbd3b7227fe7a4c2c77e4031b6c43961563a3ecde2981190e5afe959be51/psutil-3.0.1.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "4cdfeb2a328b6f8a2937f9b21f513c8aeda96dc076ecafda424f5c401dbad876",
+      "url": "https://files.pythonhosted.org/packages/ce/d2/ab7f80718b4eafb2e474b8b410274d2c0d65341b963d730e653be9ed0ec8/psutil-3.1.0.tar.gz"
+    },
+    "3.1.1": {
+      "sha256": "d3290bd4a027fa0b3a2e2ee87728056fe49d4112640e2b8c2ea4dd94ba0cf057",
+      "url": "https://files.pythonhosted.org/packages/8d/b3/954de176aa8e3a7782bae52ce938f24726c2c68d0f4c60d159271b6b293d/psutil-3.1.1.tar.gz"
+    },
+    "3.2.0": {
+      "sha256": "06f9d255f8b12a6a04aa2b468ec453c539f54a464d110b3458c32b0152a5c943",
+      "url": "https://files.pythonhosted.org/packages/1d/3a/d396274e6f086e342dd43401d4012973af98c00b3aabdb5cc4a432df660e/psutil-3.2.0.tar.gz"
+    },
+    "3.2.1": {
+      "sha256": "7f6bea8bfe2e5cfffd0f411aa316e837daadced1893b44254bb9a38a654340f7",
+      "url": "https://files.pythonhosted.org/packages/cd/5f/4fae1036903c01929c48ded6800a8705106ee20f9e39e3f2ad5d1824e210/psutil-3.2.1.tar.gz"
+    },
+    "3.2.2": {
+      "sha256": "f9d848e5bd475ffe7fa3ab1c20d249807e648568af64bb0058412296ec990a0c",
+      "url": "https://files.pythonhosted.org/packages/dc/b2/ab65a2209b996c891209b8a7444a0c825125fba850efaec07b95bccb3ff5/psutil-3.2.2.tar.gz"
+    },
+    "3.3.0": {
+      "sha256": "421b6591d16b509aaa8d8c15821d66bb94cb4a8dc4385cad5c51b85d4a096d85",
+      "url": "https://files.pythonhosted.org/packages/fe/69/c0d8e9b9f8a58cbf71aa4cf7f27c27ee0ab05abe32d9157ec22e223edef4/psutil-3.3.0.tar.gz"
+    },
+    "3.4.1": {
+      "sha256": "c7443659674c87d1f9feecee0dfeea765da02181c58d532e0633337e42180c89",
+      "url": "https://files.pythonhosted.org/packages/a5/56/c64187a9a6889e622f7ec687254cdb3cc3c706e11bba9244e6ac781ecf38/psutil-3.4.1.tar.gz"
+    },
+    "3.4.2": {
+      "sha256": "b17fa01aa766daa388362d0eda5c215d77e03a8d37676b68971f37bf3913b725",
+      "url": "https://files.pythonhosted.org/packages/7b/58/2675697b6831e6ac4b7b7bc4e5dcdb24a2f39f8411186573eb0de16eb6d5/psutil-3.4.2.tar.gz"
+    },
+    "4.0.0": {
+      "sha256": "1a7c672f9ee79c84ff16b8de6f6040080f0e25002ac47f115f4a54aa88e5cfcd",
+      "url": "https://files.pythonhosted.org/packages/c4/3b/44bcae6c0fc53362bb7325fde25a73b7fd46541b57c89b7556ca81b08e7e/psutil-4.0.0.tar.gz"
+    },
+    "4.1.0": {
+      "sha256": "c6abebec9c8833baaf1c51dd1b0259246d1d50b9b50e9a4aa66f33b1e98b8d17",
+      "url": "https://files.pythonhosted.org/packages/71/9b/6b6f630ad4262572839033b69905d415ef152d7701ef40aa98941ba75b38/psutil-4.1.0.tar.gz"
+    },
+    "4.2.0": {
+      "sha256": "544f013a0aea7199e07e3efe5627f5d4165179a04c66050b234cc3be2eca1ace",
+      "url": "https://files.pythonhosted.org/packages/a6/bf/5ce23dc9f50de662af3b4bf54812438c298634224924c4e18b7c3b57a2aa/psutil-4.2.0.tar.gz"
+    },
+    "4.3.0": {
+      "sha256": "86197ae5978f216d33bfff4383d5cc0b80f079d09cf45a2a406d1abb5d0299f0",
+      "url": "https://files.pythonhosted.org/packages/22/a8/6ab3f0b3b74a36104785808ec874d24203c6a511ffd2732dd215cf32d689/psutil-4.3.0.tar.gz"
+    }
+  }
+}

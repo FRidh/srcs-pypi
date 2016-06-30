@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "This is a Python binding to the tokenizer Ucto. Tokenisation is one of the first step in almost any Natural Language Processing task, yet it is not always as trivial a task as it appears to be. This binding makes the power of the ucto tokeniser available to Python. Ucto itself is a regular-expression based, extensible, and advanced tokeniser written in C++ (https://languagemachines.github.io/ucto)",
+    "homepage": "https://github.com/proycon/python-ucto",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "270a4e71ab3f57605d07ff4e2798fdf1150ed604907a876b17a5537cc2eb435a",
+      "url": "https://files.pythonhosted.org/packages/c3/19/a1d68c6e0f6a9efc4a8dcec255de31154ddda21dfaaa8017fdd91c294903/python-ucto-0.2.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "684f7ab5920adcf3e5b37dc9c00f114233baf44886b257706eb25487b7ac593e",
+      "url": "https://files.pythonhosted.org/packages/51/a4/da9d30419b1573264ddbdfb15ab5b1cb83da1e035241a8294662dd6ca2e2/python-ucto-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "999c688f79ecac55f564a07e90b574022b1324ed636231cd15237f869b78a035",
+      "url": "https://files.pythonhosted.org/packages/f5/90/3b176187272604f79552f1d37ebecc2d703521d13d61f413e818b879648e/python-ucto-0.2.2.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "81e63e3b7b14ea74b6f68538aa5ae3a8860b7061dcb88207465d08f65a052ee8",
+      "url": "https://files.pythonhosted.org/packages/7e/50/7d90d2e3719dd17479e58579bdc723a6d587324a51fad0c0a10d68853fe8/python-ucto-0.2.4.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "262b7dfd94df8d9aead423965195ceb6a764714b0a165a751578d859ba18bc4a",
+      "url": "https://files.pythonhosted.org/packages/56/15/213646a466803b15124f9f15a380d40c0c476c656c9fce04d556b83080e9/python-ucto-0.3.0.tar.gz"
+    }
+  }
+}

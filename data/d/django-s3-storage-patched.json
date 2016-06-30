@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.9.6.2"
+  ],
+  "meta": {
+    "description": "Django Amazon S3 file storage",
+    "homepage": "https://github.com/etianen/django-s3-storage",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.9.6": {
+      "sha256": "c4eec19c31f89d5e68cdaac620cd4ea77596869b474335ecd26bf26ef1864d07",
+      "url": "https://files.pythonhosted.org/packages/3e/bf/e03d1aa698ee3e34adbef64e3fa93d0eeef165cc6a1143aa48937792f08c/django-s3-storage-patched-0.9.6.tar.gz"
+    },
+    "0.9.6.2": {
+      "sha256": "c148549f53300c88d60c54a4bec81248b1d05254a993aa9f5382de62bc826e84",
+      "url": "https://files.pythonhosted.org/packages/1e/11/1f0ef01d0ed1f1ccac9c87ce59294c7498f3cbfa92e1dee6c9eea82c7555/django-s3-storage-patched-0.9.6.2.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "2.0.2"
+  ],
+  "meta": {
+    "description": "Lightweight & modular queue and cron system for Django",
+    "homepage": "https://chris-lamb.co.uk/projects/django-lightweight-queue",
+    "license": "BSD"
+  },
+  "versions": {
+    "1": {
+      "sha256": "aa360638d3d6b6219d4bd75c1cd5c209b1b221cda26536aa303d5ab2985669a8",
+      "url": "https://files.pythonhosted.org/packages/71/78/2fc84d08cb6625d3a1cdfaf41aebd4507d40158efaaf9a938d1d40b5f23f/django-lightweight-queue-1.tar.gz"
+    },
+    "2": {
+      "sha256": "8e9660e553e32cb8037fd551c01956541598e42f6b3174ecbaf686e343029c5b",
+      "url": "https://files.pythonhosted.org/packages/b2/16/bd8cdf376f716a70ae66d5854e0df04afc79b22ba2104a62e99a2ddfb413/django-lightweight-queue-2.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "3f86b47db2e0aad07c826e898d4ce1904ccc842938d832f796fed11fa88d4dc0",
+      "url": "https://files.pythonhosted.org/packages/ba/c1/65d930634f751a3c40c52e2a0c837e32ba98b5f2afc868ba522f23ae1eb9/django-lightweight-queue-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "e21274783a5a559cd698b1d921fdcca50617040c619ec312a431d71b6fc3dd5f",
+      "url": "https://files.pythonhosted.org/packages/8b/14/2d2af6bde99c71d56fdc51738f22e6743bf0b6253a527a7235cbe38e83d6/django-lightweight-queue-2.0.2.tar.gz"
+    }
+  }
+}

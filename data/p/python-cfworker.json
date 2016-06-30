@@ -1,0 +1,36 @@
+{
+  "latest_version": [
+    "1.6.0"
+  ],
+  "meta": {
+    "description": "This module makes it easier to deploy Python workers by wrapping Flask and multiprocess functionality into a single module. When instanced, your app will be serving http via Flask, as well as performing work",
+    "homepage": "https://github.com/bbertka/python-cfworker",
+    "license": "Apache"
+  },
+  "versions": {
+    "1.1": {
+      "sha256": "9c579c3510a4a531ee42e8e2b5f127b4ef91557f276d6581cb91406bf0aeb2e6",
+      "url": "https://files.pythonhosted.org/packages/d3/9f/95c80a81ee722ddac4000b8cb4c2883a766f9bc68ffa4b7e44c5ab22c982/python-cfworker-1.1.tar.gz"
+    },
+    "1.3": {
+      "sha256": "6deaa2c2ad655db480e1e7141ca820ec99f4d58ce0fc68c51f24af99fddd13a7",
+      "url": "https://files.pythonhosted.org/packages/00/eb/5a7444ce152fe2e4c29f9de438c21a5097b5b36cc5df8ad0ecb28b744778/python-cfworker-1.3.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "d28b7ef4324a0aa17b8cd28bd249a737d01638f3a4fa075f92172fbe44026242",
+      "url": "https://files.pythonhosted.org/packages/6b/80/91faaadbbfc18c7ddf47e823c83ae86aeea646cc598f08a047992ba56e9a/python-cfworker-1.3.1.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "516acb33dc1f7ce0752c37970122edd5ace1bce7ef0b73218793db2b2e9bdbf1",
+      "url": "https://files.pythonhosted.org/packages/b6/56/f03bb2ce526a936597a93f549c70ec5a3935378727f84474eda1ca418302/python-cfworker-1.4.0.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "43cbe829f757efabb92e41e965aad4a81034a9b5d1c3808716f293a2bf6fe18c",
+      "url": "https://files.pythonhosted.org/packages/7d/bf/2d2e02394fc80d01e09ce811f6ec41ba6981f078f60e1d7e45972b959ab1/python-cfworker-1.5.0.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "2845e3349dfb37e0a4c5186ac15475559e4a0dc3bc06814e6c34948d703f6a09",
+      "url": "https://files.pythonhosted.org/packages/bf/b5/1fedfd224622570d0d4ea1c7955ee58db9bfb544a6309f769ede455de33d/python-cfworker-1.6.0.tar.gz"
+    }
+  }
+}

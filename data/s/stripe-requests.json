@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.9.1-rc1"
+  ],
+  "meta": {
+    "description": "Stripe python bindings using requests",
+    "homepage": "https://github.com/allanlei/stripe-requests",
+    "license": "The MIT License\n\nCopyright (c) 2010-2011 Stripe (http://stripe.com)\nCopyright (c) 2013 Allan Lei<allanlei@helveticode.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."
+  },
+  "versions": {
+    "1.9.1-dev": {
+      "sha256": "94411b4a1a5ee84a0752402382a653303aecae146f22c2c5077aa241fbe2e274",
+      "url": "https://files.pythonhosted.org/packages/ab/12/75bdcebaebdf284aa1415d4a1ad88fc6dd42fda8fdd041c6b601836f9bfc/stripe-requests-1.9.1-dev.tar.gz"
+    },
+    "1.9.1-rc1": {
+      "sha256": "776503bd5b74479ca47b5a6338cb02de644755ca2f8f8d5e42ea76ca3e000ef5",
+      "url": "https://files.pythonhosted.org/packages/b9/c2/d467a13dab60d75d5f8a47f3dae126496f830d3bd2c229dcd4cb69c3d270/stripe-requests-1.9.1-rc1.tar.gz"
+    }
+  }
+}

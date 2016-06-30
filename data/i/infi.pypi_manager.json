@@ -1,0 +1,164 @@
+{
+  "latest_version": [
+    "0.4.34"
+  ],
+  "meta": {
+    "description": "mirror distributions from pypi.python.org to our local djangopypi server",
+    "homepage": "https://github.com/Infinidat/infi.pypi_manager",
+    "license": "PSF"
+  },
+  "versions": {
+    "0.3": {
+      "sha256": "81bfdf2aadb887712a343dff61303fc1818e1bde91bbf3baa7e02920cf4d6af5",
+      "url": "https://files.pythonhosted.org/packages/d4/4b/9f7db45fa27666f914ab10992754d1343443491fe0d26e4ad4fdf888aa5a/infi.pypi_manager-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "570a23ab7eed5e3019b36d69730f4c7208077451aaf23f6d4fb4e6c28f63fa35",
+      "url": "https://files.pythonhosted.org/packages/15/39/3d7a291320ce7898ba33ec43c5a23f549d5194172e3fdaaf0ad03cc53d41/infi.pypi_manager-0.4.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "3e13a0409ebe6b6857617df06f97fd86dc09dc212312f64ade43e454bc01661b",
+      "url": "https://files.pythonhosted.org/packages/f3/f7/01179124576c9b32dcbe96e341f6478d8bfa528ca37295e407427b32b18c/infi.pypi_manager-0.4.1.tar.gz"
+    },
+    "0.4.10": {
+      "sha256": "737dd962186718d744b26e63dc3297c6ed255baae3feb556e27d1bca9e1b90bc",
+      "url": "https://files.pythonhosted.org/packages/75/2a/0676c490c6701f8606bf6a26468182f98e1b600efbbbb99f17da56a4dba4/infi.pypi_manager-0.4.10.tar.gz"
+    },
+    "0.4.11": {
+      "sha256": "ef84d5699e00c6eba1dd554aace20c5de59d79f0ac3a1ceaee10723afd235f21",
+      "url": "https://files.pythonhosted.org/packages/20/9a/8287283a7a09d91d14026b889eccb7313d9f12e158216fbe0cabd8019aa8/infi.pypi_manager-0.4.11.tar.gz"
+    },
+    "0.4.11.post1.gd2e0b2a": {
+      "sha256": "5eef6fdecc4b26ab29d4712b5dc421763d9bdcd01e1c04b1a1c7949d4f85c8b8",
+      "url": "https://files.pythonhosted.org/packages/47/40/c0ca2a5ba55b705afeac8d94b2b84e03c7949c9b50774320a8589d36d824/infi.pypi_manager-0.4.11.post1.gd2e0b2a.tar.gz"
+    },
+    "0.4.11.post2.g89deb64": {
+      "sha256": "76ddd1ca6ed0a8bd28a24e918ec2c386ba9698642b367bd0b046bbe9e8de7564",
+      "url": "https://files.pythonhosted.org/packages/c9/2b/2129f96d0b685eeb2e3f7729120e62ebec56a60c36943892c4e6d58a6016/infi.pypi_manager-0.4.11.post2.g89deb64.tar.gz"
+    },
+    "0.4.12": {
+      "sha256": "858c510f46041733d587b3fbde2046a9b304c6118571ea7a07c207e6d5c5332d",
+      "url": "https://files.pythonhosted.org/packages/5d/9e/64913a8c804ee3a70ff8a5a077c52a5ad9aee26669785edb299f605ea5d4/infi.pypi_manager-0.4.12.tar.gz"
+    },
+    "0.4.13": {
+      "sha256": "d98f73f60262ad690b54a600c6e6cbe1e1c060192d62dda58b2fcf69a24233e6",
+      "url": "https://files.pythonhosted.org/packages/4d/46/f5db8b9e4e3da1ee72f173c2be714f30d396d99fe7dcd47b87e5bc326216/infi.pypi_manager-0.4.13.tar.gz"
+    },
+    "0.4.14": {
+      "sha256": "546cadfb52a3317444730fb20b98436b7a8702201962a026a08700bf95196271",
+      "url": "https://files.pythonhosted.org/packages/74/fd/e6d3548b6358716601d5df5cce500ad11bf8bf070ca61c9834886909b462/infi.pypi_manager-0.4.14.tar.gz"
+    },
+    "0.4.15": {
+      "sha256": "7dc29348d2940babefa7edebfdf56e17f0fa91d92b907e306ba28e931e43eb8d",
+      "url": "https://files.pythonhosted.org/packages/a8/79/3caef59487fe1f266000ecb1e9cced1b835a0de1920f4d5e4cd9926ecf06/infi.pypi_manager-0.4.15.tar.gz"
+    },
+    "0.4.16": {
+      "sha256": "34fad63c6def6ffb2dcdf0d0ff3ef42eeca27c9373793b8c23309d8e49831da3",
+      "url": "https://files.pythonhosted.org/packages/59/48/b8233d2586ee1ee98687da4be6cf3cd7d4ab4a6bb561ebd4e1dde2f11b84/infi.pypi_manager-0.4.16.tar.gz"
+    },
+    "0.4.17": {
+      "sha256": "9311ff07d8a0521b86eba540071d7e20955e704badfc2c332772a62a11009bb9",
+      "url": "https://files.pythonhosted.org/packages/43/80/d825d4713aaa45a8b7f3b944623d8576bd61b6d58c15a59cf22c62771f72/infi.pypi_manager-0.4.17.tar.gz"
+    },
+    "0.4.18": {
+      "sha256": "91581d00f5b9dc932a68551324c43038d775e71b66cef6aaeb6b0b81f82ff3d8",
+      "url": "https://files.pythonhosted.org/packages/27/a7/b3e1e34b204ff4742ad443c16bc0319a34434d51b66eaf8a304973f37b5c/infi.pypi_manager-0.4.18.tar.gz"
+    },
+    "0.4.19": {
+      "sha256": "4ded13816eee27ffc7a6c50bb8693ce294c923d51848d21b9d20aae703a969bd",
+      "url": "https://files.pythonhosted.org/packages/48/ab/2d987fade69ab917cd7730448de66f3eda8ddc0fc92efcf35c212128796f/infi.pypi_manager-0.4.19.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "99cc4cd82f60c01b14f5113a03076c58bb4cbd4d5c9a7aaf5a92b5dc146295b6",
+      "url": "https://files.pythonhosted.org/packages/a5/f9/ba1aab4251068b5febda18bb08cebd8260af3126d35d29bd98505233b186/infi.pypi_manager-0.4.2.tar.gz"
+    },
+    "0.4.20": {
+      "sha256": "2926e9963df1e931d92345e50aea026166ccaea0f69c042bdf4aba4fc56e8490",
+      "url": "https://files.pythonhosted.org/packages/de/d3/47f9da12381c573a6a4a47a9b12827548e5d8e6f821baf1a2b841dea98a1/infi.pypi_manager-0.4.20.tar.gz"
+    },
+    "0.4.21": {
+      "sha256": "d945d130e7ec4cf109f23d526e09c4141653532c09b5eb0d137963710e0a215c",
+      "url": "https://files.pythonhosted.org/packages/48/9c/ac4550f22c27993f2debfd3f271ee06785f77d088d1351bffe5da6d9d645/infi.pypi_manager-0.4.21.tar.gz"
+    },
+    "0.4.22": {
+      "sha256": "049cff5790b5cb9cc6fb98ea9526359f2dd4c143ad3f32cfc8a6604ca21fd4de",
+      "url": "https://files.pythonhosted.org/packages/f2/c8/99cd4706ce14b5b8652b2c719dcbb7f76d80a77e44c47edbf17cd79c4e5f/infi.pypi_manager-0.4.22.tar.gz"
+    },
+    "0.4.23": {
+      "sha256": "1b5f9adc3fd216460da9c7ff84d73869ec15cc51908dbc37e97bbf501fb3772b",
+      "url": "https://files.pythonhosted.org/packages/bd/51/ca12ea1063bc40ee8cc11397fbd451d213eb41baf179a6ecc247d8223efd/infi.pypi_manager-0.4.23.tar.gz"
+    },
+    "0.4.24": {
+      "sha256": "c6ba433238d39f5ec5f6f435ff9253ac0ce2eeb72d946b11c5825e30b5527e85",
+      "url": "https://files.pythonhosted.org/packages/c6/56/475c013bc480cc25019cefa1c305cab984af8da3dca3f644b847b40f8313/infi.pypi_manager-0.4.24.tar.gz"
+    },
+    "0.4.25": {
+      "sha256": "4e0f4f7def1b4f5378a5f5d7f582856ca3302ae45aededa6469c2b3df0544a6a",
+      "url": "https://files.pythonhosted.org/packages/9a/d7/02d1785e9bf87d29900fdf311fca5769b0db0d3e4a6a8f596e6802ed0e00/infi.pypi_manager-0.4.25.tar.gz"
+    },
+    "0.4.26": {
+      "sha256": "4f507e970b828bbb135b26750b0daa8ff94fa26913a19863bce9c9c232733b1c",
+      "url": "https://files.pythonhosted.org/packages/f5/0b/8173d679f7eb4a8b2a8e26fdc2608c05482f9322cd80a85b1a726038ba35/infi.pypi_manager-0.4.26.tar.gz"
+    },
+    "0.4.27": {
+      "sha256": "48f2ca0fe791c3ab5e57b892929f1d7a11d13d6370a73d7f1a43b407d56babd9",
+      "url": "https://files.pythonhosted.org/packages/06/3c/3daaa0d695d66966b6f63ec1cce723c34359291457f5c4ccf47dc95a8926/infi.pypi_manager-0.4.27.tar.gz"
+    },
+    "0.4.28": {
+      "sha256": "391ca6bbf7dc501133845cc589c835fdc366a1be6f3083497f9e44913653d7eb",
+      "url": "https://files.pythonhosted.org/packages/93/66/8cf920dce62c995c186998bbe613e637f6b7e77acd738f1ac282bd7e7281/infi.pypi_manager-0.4.28.tar.gz"
+    },
+    "0.4.29": {
+      "sha256": "3284ced05c1b29d014a7c19e2642844b412b9328d89f54d84ee3d6ea1fdf8021",
+      "url": "https://files.pythonhosted.org/packages/77/35/515c3bcea61337b7fba33baa60dd9d612f6971c63f9962e943074399bdbf/infi.pypi_manager-0.4.29.tar.gz"
+    },
+    "0.4.3": {
+      "sha256": "ee4e9b31c48fd54f568b65d1980302f8ec8d0f98376b85227f222042f704a87d",
+      "url": "https://files.pythonhosted.org/packages/fb/44/07984571a646225f5fefe632ad8d0dccd890aa73dc3cee05ee019b9ee463/infi.pypi_manager-0.4.3.tar.gz"
+    },
+    "0.4.30": {
+      "sha256": "fce1f3427eea88d1d219560f77743b4cc8de8e437b680f549405d433a7ee53b2",
+      "url": "https://files.pythonhosted.org/packages/5f/06/7e08fdcc3745cae2430ed0bde275bdffbc3bcd13e4c16a2ec9bddce9371e/infi.pypi_manager-0.4.30.tar.gz"
+    },
+    "0.4.31": {
+      "sha256": "bebcceb09a7162533bc1d1488c96de585b1b4913d088f957ff0dbf030d9f7532",
+      "url": "https://files.pythonhosted.org/packages/af/7b/11e21fb09ad55daa01387644febb882e62470f6e84179c1437acf317e3f8/infi.pypi_manager-0.4.31.tar.gz"
+    },
+    "0.4.32": {
+      "sha256": "79577bae0548da256851b42bee04f3be203d3c78075c43d08e833bfc80f73658",
+      "url": "https://files.pythonhosted.org/packages/d3/05/ac28e887d03d020b2aa63822acc8ea69d5a828a9b092750317fd0ee7a0be/infi.pypi_manager-0.4.32.tar.gz"
+    },
+    "0.4.33": {
+      "sha256": "0f59ae63c6d73b7c44ad6e89cc10b40969ad9786372217d573a89c36375d6915",
+      "url": "https://files.pythonhosted.org/packages/4d/cf/87dc6a21a06e132fdd664c70561f75bcc59c40ebebf1a4d9a5ded528b40b/infi.pypi_manager-0.4.33.tar.gz"
+    },
+    "0.4.34": {
+      "sha256": "9979189d5a649befcc068fab6bb31a8b203421d95288ffb22562dc6c3a96df1b",
+      "url": "https://files.pythonhosted.org/packages/35/bb/7cc6ab77d1dc6e3210f912699cf5bffafa270643bacc66ed7e9c3a6ce3ce/infi.pypi_manager-0.4.34.tar.gz"
+    },
+    "0.4.4": {
+      "sha256": "5ec86f602c5496e6c3b25017318b2726fc66a7f6961e2eb55c1c174249de2264",
+      "url": "https://files.pythonhosted.org/packages/da/a1/fe998ccf70956e2d22bb2a058d88642107798530e88bf4674fec8ae2a5a2/infi.pypi_manager-0.4.4.tar.gz"
+    },
+    "0.4.5": {
+      "sha256": "2fb9cd7c7f77c7e16df5be3669da2878ebd4eead06138c0857483523b5eaf212",
+      "url": "https://files.pythonhosted.org/packages/d1/3e/30147cbceecc476746a0ace94687cafdc27c9856db270482d7478eec1855/infi.pypi_manager-0.4.5.tar.gz"
+    },
+    "0.4.6": {
+      "sha256": "483c7fe75b6df1cc37c08f1703ae1025d2181e7c3b6cdd52dccd4e1494eb2d69",
+      "url": "https://files.pythonhosted.org/packages/6a/0a/239a8d1baafae9ee4273ec04017a215233bec93f124b18a6c374f9b0fa6d/infi.pypi_manager-0.4.6.tar.gz"
+    },
+    "0.4.7": {
+      "sha256": "223b484607a19df40144c1579023f7262ddb0751cde0f6d45cf29f83f275a648",
+      "url": "https://files.pythonhosted.org/packages/3e/d0/daa7654b2d6705a8a30728c8d82b2d97e55f4c6665377cb27dc9cd4b86bf/infi.pypi_manager-0.4.7.tar.gz"
+    },
+    "0.4.8": {
+      "sha256": "6a260ac0123a75b6c36290df01bcf2b0fdec4de1b16bc124f62539e93002de91",
+      "url": "https://files.pythonhosted.org/packages/95/24/a8e6f74a9a2e3630554cb1b832574da3cf32b5f5c87fd42949938add4c07/infi.pypi_manager-0.4.8.tar.gz"
+    },
+    "0.4.9": {
+      "sha256": "0a12c75a212b9b835bc18aad63019ed7f9f0ad9b57cdc72e0ca2a9818112f820",
+      "url": "https://files.pythonhosted.org/packages/1b/bc/8c499e74a0f2feead63d011b66a08e26d3d5bd0e4b65bc06f17761d489f3/infi.pypi_manager-0.4.9.tar.gz"
+    }
+  }
+}

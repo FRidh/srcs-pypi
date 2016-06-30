@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.3.0"
+  ],
+  "meta": {
+    "description": "Reference parsing and formatting library. Designed for Bible references, but can be used for any reference with 'Book ch:vs' or 'Book ch.vs' format, where ch and vs are numbers",
+    "homepage": "https://github.com/BlackEarth/bref",
+    "license": "LGPL 3.0"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "e1d35ea967467c34edbb690a3189e9d0bf004212ae605ca1c7a34766a834f461",
+      "url": "https://files.pythonhosted.org/packages/4f/03/56b307e49be022a08ea53a13a11c60aef43c1e3734363fdd60bbf7a35da0/bref-0.1.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "53b9d1e207993534c4119b36e0dc7edcd91bf05ffe9d05578bfb0122c28c339f",
+      "url": "https://files.pythonhosted.org/packages/56/97/47bf9f5b481a21ea7fe826f97d3e17a635106c7d9dc1526450840c62719a/bref-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "7dfef1534e4399764e25584135283b63dab511d7547be5ef0ba1057c6e7c0d8b",
+      "url": "https://files.pythonhosted.org/packages/90/69/e4dfcb65628d5ea4d01a7078f8170830a3b6deb6d7c70525dd9070779443/bref-0.3.0.tar.gz"
+    }
+  }
+}

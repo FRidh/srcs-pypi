@@ -1,0 +1,68 @@
+{
+  "latest_version": [
+    "1.3.0"
+  ],
+  "meta": {
+    "description": "automatically setups a postgresql instance in a temporary directory, and destroys it after testing",
+    "homepage": "https://github.com/tk0miya/testing.postgresql",
+    "license": "Apache License 2.0"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "18c0942d2c49d3601ced5d7217b20afc09c03f45843a6848d25d291592c124f8",
+      "url": "https://files.pythonhosted.org/packages/41/13/dbdf079ca7ae616cfd54035e46f6929651f3c592b5da2ff410dd0d9dc15f/testing.postgresql-0.1.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "e41f6360967b3878fd20ee212e85797d8aaa4e8c3bce4a60997a1bd929bd2ca6",
+      "url": "https://files.pythonhosted.org/packages/4e/74/e6e3b8dbe7af0d8710a111adf0fdbfbb4704860dfe2aba418e83a24ed8f3/testing.postgresql-1.0.0.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "f33ff40056c11fea6dcb20d1240b0f86a9b0a0b3ad90a458d40b506ddc9f592a",
+      "url": "https://files.pythonhosted.org/packages/f5/c7/7c25dcfa40cf1623ca2e65808b96bf676eab2b26561716a3b28dc4714404/testing.postgresql-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "7b95b7574dd6c1cb5ed55fae4edda43f97d55a5241a2509253643bb58770ceb8",
+      "url": "https://files.pythonhosted.org/packages/5d/17/39bfc3fef47814558c9e05fa88d62a8f1856ce07f23c8716fd3ed99aeadc/testing.postgresql-1.0.2.tar.gz"
+    },
+    "1.0.3": {
+      "sha256": "fdf84ca48c71d8202a4da78c71a9a2b17c1434a150f05f6d27f55a0f919f69d4",
+      "url": "https://files.pythonhosted.org/packages/0c/bd/17bd214bae977c95533165f2104c4da9109f6f390a25a64a170f850ab9aa/testing.postgresql-1.0.3.tar.gz"
+    },
+    "1.0.4": {
+      "sha256": "f034ac8d8b5f6df8813c5f10442413aff47d1a46ed37920a724c8a547a0f5a16",
+      "url": "https://files.pythonhosted.org/packages/0e/3b/63a9d4505f8600621a4775b5b19dbbca67755103ceac08937e31f07a4c24/testing.postgresql-1.0.4.tar.gz"
+    },
+    "1.0.5": {
+      "sha256": "1ad60aded80713702c3ba25147b8ae46db02b0513bd0c7400be73fd978dda6a9",
+      "url": "https://files.pythonhosted.org/packages/80/02/09015493ac53011ba177585c0b979db4ba8702b9b5d6ed70d460dd397625/testing.postgresql-1.0.5.tar.gz"
+    },
+    "1.0.6": {
+      "sha256": "f39671481605244b00d70dd30892087d762bc5dc4cd0966602fab53df8a677e0",
+      "url": "https://files.pythonhosted.org/packages/1c/d1/e1046a4c4264c377044d3f91aac75f9c23ee8f073270442ed02a54b4b642/testing.postgresql-1.0.6.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "b3dc878da92b7518ee1f41de62162a97fdd9edaca20df6a46ad146ae89baf7e2",
+      "url": "https://files.pythonhosted.org/packages/6f/f2/64bdb0ebed1c7c7eb66133848cd139e2e3bca6d44f1b474bc9f2474caef7/testing.postgresql-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "f63a09e53d80fd32d181ff4938286236119c35d556a6a68faf6531301fbe0780",
+      "url": "https://files.pythonhosted.org/packages/da/2c/dcae39b98402bf25609ac5a8a8f0b41531cd1b90fccbe62bc12bd75c1960/testing.postgresql-1.1.1.tar.gz"
+    },
+    "1.1.2": {
+      "sha256": "0a7645f45532bd4c891aeaddec053187e02c473b7afa7ae31b1bcceb828e735e",
+      "url": "https://files.pythonhosted.org/packages/06/22/364eb8b969a98df84a38f8dfcf362035706ed1871e01c4622281dd2abb79/testing.postgresql-1.1.2.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "4fa559d3671b73fd1cf0e68f304468cc8394a5fbf2be5416d10bbd20df37c374",
+      "url": "https://files.pythonhosted.org/packages/49/20/7866887ca1fd478ea1de8e91ab557e9865b6cc97a9e94773007a1b50fce9/testing.postgresql-1.2.0.tar.gz"
+    },
+    "1.2.1": {
+      "sha256": "6d9fe894e101d28a824d66a913427fa1ebe37699cb6e43c12e1a99c1e7b27634",
+      "url": "https://files.pythonhosted.org/packages/10/4c/8886f4a5db9ca9bc360dd781b6374733b9fdd2dda8d3809278b203a74c24/testing.postgresql-1.2.1.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "8e1a69760369a7a8ffe63a66b6d95a5cd82db2fb976e4a8f85ffd24fbfc447d8",
+      "url": "https://files.pythonhosted.org/packages/3a/5b/3bf1323697c4f4f0e8fb5c14d082dc2f005385ea139b19646c0fc9f1dbb7/testing.postgresql-1.3.0.tar.gz"
+    }
+  }
+}

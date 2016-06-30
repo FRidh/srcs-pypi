@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2.0"
+  ],
+  "meta": {
+    "description": "Simple Django middleware for submitting timings and exceptions to Datadog",
+    "homepage": "https://github.com/tom-dalton-fanduel/fdjangodog",
+    "license": "BSD"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "5a93f2b99db2fd5c0b48af06f6a22069841e0dd95b6f7da700d8594efd2ae3ff",
+      "url": "https://files.pythonhosted.org/packages/a9/f8/dd4191b3e5afd96c9a87dc673b07b38abd52c6716e411266649f492c23f1/fdjangodog-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "802100a89ef226f88583ad06a7c6b8600d955d79cee4ffb2abc447993c866992",
+      "url": "https://files.pythonhosted.org/packages/9c/5a/5f63251491bb709d302ff1300d8fff5d670eefb55e0c3ebeeb89ba2873a0/fdjangodog-0.2.0.tar.gz"
+    }
+  }
+}

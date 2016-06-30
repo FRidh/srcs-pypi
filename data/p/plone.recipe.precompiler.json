@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "zc.buildout recipe to precompile python and po files",
+    "homepage": "https://github.com/plone/plone.recipe.precompiler",
+    "license": "GPL v 2"
+  },
+  "versions": {
+    "0.3": {
+      "sha256": "bfcfaef3b93ece4b823d137175cf4ee0fdd7d2d3defee9f37d5f639e324cdea6",
+      "url": "https://files.pythonhosted.org/packages/f3/19/7e08ac729ba436dd66c69c1fe9dc1ae1cb051342930209ac50b0bb8a1587/plone.recipe.precompiler-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "ee3dcd617bd42fbde5ce42561e539d8a71f4a02e100b441980e519bdfc6f8760",
+      "url": "https://files.pythonhosted.org/packages/1f/c5/d8a02e03230e8d37b8bb833aada565a0c1c63b845a3be644c02fd4347271/plone.recipe.precompiler-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "fe9f34c504154640953c561f32f8084524a19b78c6230790dedb33616d57f08b",
+      "url": "https://files.pythonhosted.org/packages/e1/1b/1c5608afd91211efbbc1ebf1a2097cbead411d580c24d16e768d13af56d3/plone.recipe.precompiler-0.5.zip"
+    },
+    "0.6": {
+      "sha256": "19d6d30a7711bb21e5accb4cd7467caa3df1e3fed8a3bcf9cab7b7bc9f2b2260",
+      "url": "https://files.pythonhosted.org/packages/bb/dc/adec418f4dc1a08b18031dbdacdd01aca424567a8db52cf80b9cdb170b49/plone.recipe.precompiler-0.6.zip"
+    }
+  }
+}

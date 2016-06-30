@@ -1,0 +1,31 @@
+{
+  "latest_version": [
+    "0.4.0"
+  ],
+  "meta": {
+    "description": "This package provides a QueryList class with django ORM-esque filtering, excluding, and getting for lists. It also provides BetterDict, a dot lookup/assignment capable wrapper for dicts that is 100% backwards compatible",
+    "homepage": "https://github.com/thomasw/querylist"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "0ce7a087e66fb7999473092493c2700e80f3a23adcfd25292e1c4c12f7919437",
+      "url": "https://files.pythonhosted.org/packages/6c/d8/02456a77b6164d3489605a6c7aaeef96137419a6734b4ffcf2d851e9598d/querylist-0.0.1.tar.gz"
+    },
+    "0.1.0": {
+      "sha256": "b62a250f315e207bc49b8f28723c8516d06178a10a18ddb77bea423e3611e8da",
+      "url": "https://files.pythonhosted.org/packages/10/68/84afdefe62fc7dc71e338515f605354122b1c3a9a029c73b85b0d29f06b6/querylist-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "4a3e1b0d29526e508537a361097b4568e661af562d73794a63d4dfecfb8fc6c2",
+      "url": "https://files.pythonhosted.org/packages/3b/6d/c22d6f7c0255190449b7f11048be76218df2fbd99dc52d49a27014a74821/querylist-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "d9d9750d553e6e2c54fe280b9e7c9aa7ca0504479f33232c0d80bbcde6749836",
+      "url": "https://files.pythonhosted.org/packages/8b/bf/6154c30059139d3e37d88327924abe9c9caba7cad0f76f41aee31e2a94c7/querylist-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "fd6167e10e93ddb901960b6dac9cf5936d87ab384feea278b07070c287511dd5",
+      "url": "https://files.pythonhosted.org/packages/96/25/3b073a6a5ea1c4d3cfbe9e5f4059ee1beed65c83282361d796a1dd6f4ac4/querylist-0.4.0.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.3.1"
+  ],
+  "meta": {
+    "description": "authentication plugin for cubicweb instances behind a trusted reverse proxy managing authentication  (eg. apache + kerberos)",
+    "homepage": "http://www.cubicweb.org/project/cubicweb-trustedauth",
+    "license": "LGPL"
+  },
+  "versions": {
+    "0.2.1": {
+      "sha256": "1df287a32c0afcbd5c45280ed8214155d1ab9571819458090c01be888b3550bd",
+      "url": "https://files.pythonhosted.org/packages/63/f6/4df41a5f8396395ea3e463471ed5ae6900a841fb099c5bdcdefc3575f8ce/cubicweb-trustedauth-0.2.1.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "5bdc1a397a1051744edb1d2b57b28b6c68967a6964f5757cc2d545b689836b74",
+      "url": "https://files.pythonhosted.org/packages/3e/c3/df6d09efe48887438daf57f03190f8f51e0fb7ff05db35b969cf9a1b87d0/cubicweb-trustedauth-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "52723fd117cb35416fa4639fbc1a823651100da937dc84c21bd698dde71fa719",
+      "url": "https://files.pythonhosted.org/packages/47/5b/d9a4d0d69c89c48731d7daa2de95bc7c97deff82638ed5b220ce346a5384/cubicweb-trustedauth-0.3.1.tar.gz"
+    }
+  }
+}

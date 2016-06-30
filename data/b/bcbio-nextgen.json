@@ -1,0 +1,172 @@
+{
+  "latest_version": [
+    "0.9.8"
+  ],
+  "meta": {
+    "description": "Best-practice pipelines for fully automated high throughput sequencing analysis",
+    "homepage": "https://github.com/chapmanb/bcbio-nextgen",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "4f5ebc031f97f5b1dda0c121cbb0d097f373b4a75867d8eb0a0ffd77c815f270",
+      "url": "https://files.pythonhosted.org/packages/90/b4/bb05fa6c09806f2719dce479ec31a88ad1d221635869b16db8ec83734f7b/bcbio-nextgen-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "c45b1801d170fa9ba6839f39757e5bb53a988bf79358fcaba18214395a281d31",
+      "url": "https://files.pythonhosted.org/packages/9e/07/a813761539d957db2b49b65e4f9561a3dfcd5794f0a4f5024567df7cfe77/bcbio-nextgen-0.2.tar.gz"
+    },
+    "0.4a": {
+      "sha256": "a30493df08398c599b390447a722202fac3f8072c8637f7b6b4df4c693650348",
+      "url": "https://files.pythonhosted.org/packages/0e/49/246923a06b97219180d601b7b57fba2ccf7c2a203ed4fd83d95a90614a39/bcbio-nextgen-0.4a.tar.gz"
+    },
+    "0.5a": {
+      "sha256": "5b0cb2e6d39d3cb3cec638ccb17942216a02554215436dbeea82de88bb703d3a",
+      "url": "https://files.pythonhosted.org/packages/1b/86/07a58792badfcc88f06f80a3ff0271c1fb5ed63967db858993a2bd01a4f2/bcbio-nextgen-0.5a.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "8c42681f2c2e3594fe82b79061852c86a1561a2792557044cf9dcd09215e23b2",
+      "url": "https://files.pythonhosted.org/packages/25/1a/53dce1139fb636f098a44e752984b28a0ad3ba29846f82f4a35f912009a8/bcbio-nextgen-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "735dedad8d2e0b7a9414c376dc48d1956c88a714003768ebff128c840e08590f",
+      "url": "https://files.pythonhosted.org/packages/a4/c0/bac1aa31690cbe10fe0dd61c9c2d3067e24f875af778f8e3b7eb71bba89f/bcbio-nextgen-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "9d30182f3c4f880f153303e8925cb36ef05b833c09a4ed601a41032084d1ab0e",
+      "url": "https://files.pythonhosted.org/packages/54/a8/294b8b612fbf5daf2b6bb2b0ed16acf05325e14868bd0873c1a638e829c8/bcbio-nextgen-0.6.2.tar.gz"
+    },
+    "0.6.3": {
+      "sha256": "36126b21bd0c130425e611a294cd64216f9c6f694ce57c219d8c92704a66bdd7",
+      "url": "https://files.pythonhosted.org/packages/42/52/a2c108454f73a4c4f26bdc60e9ae4f0e39dce1a5a028cad9dc9b3342f2dd/bcbio-nextgen-0.6.3.tar.gz"
+    },
+    "0.6.4": {
+      "sha256": "c0606791c99d6d9bffa1741256101080ee0f686918ab50f4462aae0c63d4e7f0",
+      "url": "https://files.pythonhosted.org/packages/cd/a7/23656a7e8496f336a87dbb1b5d0ee02ad97314dff7bb6fc710c571b10d5c/bcbio-nextgen-0.6.4.tar.gz"
+    },
+    "0.6.5": {
+      "sha256": "3365e65de83649a53f7921612fc88449b0954e47396c906632cac6d7c843bea6",
+      "url": "https://files.pythonhosted.org/packages/a1/47/b90385c1a709c47540bd3d89955dc7095112c9475a8ef177bd5cc89c416f/bcbio-nextgen-0.6.5.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "af49bd520e7d0c20ef2a5a40dd6942864e639189cd137230c07ad523285cfe8c",
+      "url": "https://files.pythonhosted.org/packages/a4/16/893513acd5a000c52caeb2a4e1a73bd509ca68fe7ebbd8c2640c20a94e59/bcbio-nextgen-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "420f2df81677a85fc04521918dda031378e4a69c741e02caf681a727b4551174",
+      "url": "https://files.pythonhosted.org/packages/67/33/0e73cd1eb421de225133e49611df59d74a4323c2e5eb8233dd1ba37c5fb0/bcbio-nextgen-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "ac8f0b98887a54611fe24078dcd8e0ec1823e902b9d84e9c7ffcd4d682dd331b",
+      "url": "https://files.pythonhosted.org/packages/7d/58/141f458d7d87ece7617734b4af5384083c8eca4889f5e5cf58d8b2061d5a/bcbio-nextgen-0.7.2.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "0b6b29928f2ce94c5d8d351f302771eea1ac677132737bafd68b9e9d9250cef2",
+      "url": "https://files.pythonhosted.org/packages/4e/e2/4b79494eb9009a25d3e4f7177481c673fbb13073b4dbcd49436e14a21c10/bcbio-nextgen-0.7.3.tar.gz"
+    },
+    "0.7.4": {
+      "sha256": "078dbe25415083ca91eadb6bdd8e5af33603a9ec06723bc6f32a11ed9995d2f0",
+      "url": "https://files.pythonhosted.org/packages/e5/bd/f241e01c73ea4a559453e253e2873b762570f6508d341115828740baa072/bcbio-nextgen-0.7.4.tar.gz"
+    },
+    "0.7.5": {
+      "sha256": "f4afd820f9f7e2457171ccb22f55cc28a37e08361695eece61397b23c5d9a74f",
+      "url": "https://files.pythonhosted.org/packages/dc/8c/1a3069f894e8e3a96abd1ad8373b8444403ef2a8590af7da2b1297a91dcc/bcbio-nextgen-0.7.5.tar.gz"
+    },
+    "0.7.6": {
+      "sha256": "c0a52c5d957bc180fc5406362fed6f6361683b6f36e38d2b3e16fc10d3c81fcd",
+      "url": "https://files.pythonhosted.org/packages/3c/00/cd089625b82d0bdbdcd1586943215bf7dc400fa969cfa0cc9d91f31f14a9/bcbio-nextgen-0.7.6.tar.gz"
+    },
+    "0.7.7": {
+      "sha256": "cda5d73d24ea4a217956c886ceb7dc7bc94493c9b812f2bc76a92a0628b28785",
+      "url": "https://files.pythonhosted.org/packages/a1/d2/9d42dc312944f16f16ee4bc681282d4d5780d3c847a42c569e2f8515084d/bcbio-nextgen-0.7.7.tar.gz"
+    },
+    "0.7.8": {
+      "sha256": "c5043ca4e08bd274e99284eefc2a1ea060e3bdfffa461d3322d237226c4c6cf8",
+      "url": "https://files.pythonhosted.org/packages/59/8e/7ee38b036eb4a5aca69c87240f37f258935970c6019ec1d6976a55f3c43a/bcbio-nextgen-0.7.8.tar.gz"
+    },
+    "0.7.9": {
+      "sha256": "ae168a2aaf893b6d8b5e6e1c0c02441ccfd6d262e808278e02883449bc2e15c2",
+      "url": "https://files.pythonhosted.org/packages/4a/43/30a04e4310af185731103fe7cef346c7845beb1815f78c7d6bb06c2008f4/bcbio-nextgen-0.7.9.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "93ef5aef7b11891b8c8e422e6dbcdfecdd5c7783fc52af83e57bae128cb97070",
+      "url": "https://files.pythonhosted.org/packages/39/16/1b482d3ce7c8019170dbb57366d25d4edef5426f7afb9c41681bf1eefdd8/bcbio-nextgen-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "64dbec604de5ae7a2c30d33633fd9a6dd49fc843100770b691d0fae00a2a440e",
+      "url": "https://files.pythonhosted.org/packages/0a/ab/5d08edea02995bb2ac541f93f2fde345bda1fd698db51d530e8c6ef799d4/bcbio-nextgen-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "c11a49709eb5111763d20d61fb1c0b1e5eba15b7481dc5483043c70ead9d0f1d",
+      "url": "https://files.pythonhosted.org/packages/e5/dc/16102e9b8b33dee3da0baa9c8a217afd12c62e3113257f4f12e90f78345e/bcbio-nextgen-0.8.2.tar.gz"
+    },
+    "0.8.3": {
+      "sha256": "f76f8d7560535cfcc2ed7d0c71633a1cdc5950d3f987d289f67dc8818c7bc390",
+      "url": "https://files.pythonhosted.org/packages/89/37/ec78b367793f642c18e18e9c745f78ba8915f3c439a550f7ee98658e9c5e/bcbio-nextgen-0.8.3.tar.gz"
+    },
+    "0.8.4": {
+      "sha256": "f850429420baa60ff4853d6cea44b50d7f2eb0e01e4f1a7c344ea1f264d1f01f",
+      "url": "https://files.pythonhosted.org/packages/0c/53/ccd73a90da3a6f40fc5a4445f680a746a2c312740a6333512bb545492d08/bcbio-nextgen-0.8.4.tar.gz"
+    },
+    "0.8.5": {
+      "sha256": "533f14dc0121bbb8941a80240028712bcdaee4cefef7c0e50b8a4f53dd0b3329",
+      "url": "https://files.pythonhosted.org/packages/6b/71/e23ecfc068f31073b8e6f6124f373172b4a0ed4ea378b6035d57a66bdf78/bcbio-nextgen-0.8.5.tar.gz"
+    },
+    "0.8.6": {
+      "sha256": "fa7295765a56bd3d1ed0ae4129340d8879343b9a38a27ff188da679ff47d4ed7",
+      "url": "https://files.pythonhosted.org/packages/0f/e6/a8cd04ba5d0d7c56948d6d60995ae9d25b518850f07473014c86c75bf35e/bcbio-nextgen-0.8.6.tar.gz"
+    },
+    "0.8.7": {
+      "sha256": "b0e8ff39ba1d1db0fd79e18af34798a27c3278cb3f4042cfa29d680509f7f6cf",
+      "url": "https://files.pythonhosted.org/packages/67/0e/07624aac63f5880e054358df38351cd1dbc27ce883e593e84d3ce45b05fb/bcbio-nextgen-0.8.7.tar.gz"
+    },
+    "0.8.8": {
+      "sha256": "ad1fb039542fb806a832b3fae8ce1fea373647df41a2627eb745d2577f8084f7",
+      "url": "https://files.pythonhosted.org/packages/76/96/736cf2cd2ce04a683e93cfcbeb6fb506f0c5f778c90973ae1e7dedf3fe04/bcbio-nextgen-0.8.8.tar.gz"
+    },
+    "0.8.9": {
+      "sha256": "ac478806553b0e9364dbac5480404e7b6fa1fb6eaf3384fffbb0368c2de754e5",
+      "url": "https://files.pythonhosted.org/packages/d6/a9/1509d203cf16d94ca148df16f58541b02d0da30354c1c634b04858b6b63d/bcbio-nextgen-0.8.9.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "26f33c781b8251c948a7a72ecdcdb1b998c5c9e4f9d8da1443586e6b49fca65e",
+      "url": "https://files.pythonhosted.org/packages/f5/0c/55a4d47997a5b754d4f9072f70a7e3ac9173703c542f433f038ec86cb17c/bcbio-nextgen-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "662eafe88d5bf847c99b4fd1fc590f6ba78f4d0d895f01ab3e3a25a402fab7b4",
+      "url": "https://files.pythonhosted.org/packages/e5/81/769499ad121b39cd71e65e306eb07d8f3af1dc8f6ff4db513515d54a9bc2/bcbio-nextgen-0.9.1.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "6db7c5ecf03190f2b4d52c85daa819c909a471ceb32cb1868f6d88541f7b9e65",
+      "url": "https://files.pythonhosted.org/packages/31/86/1d2c03d9e72fa7b57d8b937d4adb134c8fee77d14533ce9d8a122f6ade9b/bcbio-nextgen-0.9.2.tar.gz"
+    },
+    "0.9.3": {
+      "sha256": "d109e2077c83e327573d12f286179cd4adab7a21949435943eac497d61651bf9",
+      "url": "https://files.pythonhosted.org/packages/d6/64/1433ac732c4aef46f372ca24ca35885d9074a4ac08f9ac6459cab0b079ea/bcbio-nextgen-0.9.3.tar.gz"
+    },
+    "0.9.4": {
+      "sha256": "924acdb2eaaae25f1af6007942121de7f18fb37edd1da4ff98e50958a12a3224",
+      "url": "https://files.pythonhosted.org/packages/4b/78/6a058027a7221918918c828d823431d54323886e9463e0f0894fcc8aa0ae/bcbio-nextgen-0.9.4.tar.gz"
+    },
+    "0.9.4a0": {
+      "sha256": "dd7f7daa77f1c3bda4868a9fba8a8248702abac14e8b6bce1891ddf4a62bee8e",
+      "url": "https://files.pythonhosted.org/packages/d8/bd/96a98ff06cf63ef15e57e5dacda8b3fb82a7cc1ecbe815a661f174233110/bcbio-nextgen-0.9.4a0.tar.gz"
+    },
+    "0.9.5": {
+      "sha256": "ca9dea2c4393859a91091b481fafca2dbed8075dbef2ad9d20fbaf0ca43f38d5",
+      "url": "https://files.pythonhosted.org/packages/52/a0/391f6e8a059dfccf575f1f1e83ebf8892c0e58ba20e4dc1bb176a0106559/bcbio-nextgen-0.9.5.tar.gz"
+    },
+    "0.9.6": {
+      "sha256": "9d17ed30a831270723577df6837319d551fa1cf69adfaee620847ea455722e3a",
+      "url": "https://files.pythonhosted.org/packages/2c/51/248ee5d81d87a840ed16871a716df0743162800ffdbbde2a220e5aef3b5e/bcbio-nextgen-0.9.6.tar.gz"
+    },
+    "0.9.7": {
+      "sha256": "8b2960e800550805bf8aca1bed1fdc901efb4b0ed4e258a12fb1aa5273f5540c",
+      "url": "https://files.pythonhosted.org/packages/04/ab/ea3503c78061042ccb61cce862f4cd68d2c564e8f296acf2f71f8dbcc6fc/bcbio-nextgen-0.9.7.tar.gz"
+    },
+    "0.9.8": {
+      "sha256": "41e152b58f19d4b97e887169b0bc1520c3885ac7bc3b81fe94cf3d8d9187eda1",
+      "url": "https://files.pythonhosted.org/packages/2c/ff/da0d27f43a045fbef606b20c311dd6003fa17964964907b88e0cafb38cfd/bcbio-nextgen-0.9.8.tar.gz"
+    }
+  }
+}

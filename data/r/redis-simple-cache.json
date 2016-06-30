@@ -1,0 +1,44 @@
+{
+  "latest_version": [
+    "0.0.8"
+  ],
+  "meta": {
+    "description": "redis-simple-cache is a pythonic interface for creating a cache over redis. It provides simple decorators that can be added to any function to cache its return values",
+    "homepage": "https://github.com/vivekn/redis-simple-cache",
+    "license": "3-clause BSD"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "2cdfd5379ee4a1afb12523c5ad538008561d3d3a1deb63af67c25a2c71d495e0",
+      "url": "https://files.pythonhosted.org/packages/e6/0a/85d3106585d47d90d7d3e804c86e98c5efa7d80d218d5c9452121296b76d/redis-simple-cache-0.0.1.tar.gz"
+    },
+    "0.0.2": {
+      "sha256": "c7f4ce7779afbb31c117636878484c61ae631497cb09c193f98a44878657c851",
+      "url": "https://files.pythonhosted.org/packages/fd/e1/c1b557c8c9a89d2b913d112e7b49a804c422a82e5a0108f300fd5a9d2f34/redis-simple-cache-0.0.2.tar.gz"
+    },
+    "0.0.3": {
+      "sha256": "41a4223321494d8d8c62f23567446047bb494b5072f40c34bfc8e9b0a866e029",
+      "url": "https://files.pythonhosted.org/packages/dc/7b/7c2acd0cb96ef964557be1e6e6bd994629405cd386a5062d4812c2de227e/redis-simple-cache-0.0.3.tar.gz"
+    },
+    "0.0.4": {
+      "sha256": "c106e4bd97117a7a64e4615699b8a143b062727c05c8eb238f9a3f0c96b1f556",
+      "url": "https://files.pythonhosted.org/packages/58/2d/5528ae8a2b6b7bdd41be3381be2cfec19c6c0f6bd21207d90e15de7a2aa5/redis-simple-cache-0.0.4.tar.gz"
+    },
+    "0.0.5": {
+      "sha256": "a98cb374656bc53457323367c18bcb33ae84db2e6657c164f5f8c1b2febc2088",
+      "url": "https://files.pythonhosted.org/packages/fe/6f/c854b4472fd8b75e2c8ca0f3f871c3f163497ea44cee309d7b4c718e68d9/redis-simple-cache-0.0.5.tar.gz"
+    },
+    "0.0.6": {
+      "sha256": "16cec79743409c004fb8cfc7981a4b6921671bb2cf806d70c0b4186f7e4c4dc3",
+      "url": "https://files.pythonhosted.org/packages/2a/24/98f59ee96b787e0d630282e7dc64412659c1faf883a98cd30a99f913e16a/redis-simple-cache-0.0.6.tar.gz"
+    },
+    "0.0.7": {
+      "sha256": "d7305773c03d4935b20d149b19fb456f46916358c5dcd1947951c7587bf6e6f2",
+      "url": "https://files.pythonhosted.org/packages/d6/57/a4a46581169f9e09582e74b0280839c09c692dbc78d3d4bec2d3ba37c793/redis-simple-cache-0.0.7.macosx-10.10-intel.tar.gz"
+    },
+    "0.0.8": {
+      "sha256": "da3840787e997b78a0f64da16e6a7f658dd6a24d9757cbd3049500d672685d47",
+      "url": "https://files.pythonhosted.org/packages/14/b3/a0206b5f0e5f9b8469df71d350d2b965b6d47b4e54af3b57e475d5c963da/redis-simple-cache-0.0.8.macosx-10.10-intel.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "latest_version": [
+    "3.1.0"
+  ],
+  "meta": {
+    "description": "Client Library for OpenStack Identity",
+    "homepage": "http://docs.openstack.org/developer/python-keystoneclient",
+    "license": "None"
+  },
+  "versions": {
+    "0.1.1": {
+      "sha256": "bf8265ba5b8291787174f7e27ca7d027071e9aa12e01e649cbbb7841f005aa78",
+      "url": "https://files.pythonhosted.org/packages/7d/b7/078a29ac59c2e3bc512a17df4e177ec4cec7971c056ab0c4be752937e2b8/python-keystoneclient-0.1.1.tar.gz"
+    },
+    "0.1.2": {
+      "sha256": "160274b335ce5543f48f92bc3c50f9c225d4bd0a31295c1062b10a304647d784",
+      "url": "https://files.pythonhosted.org/packages/81/df/8d290722fbc159abb762635f5dde7ef8525588c68d44da452a1242b57128/python-keystoneclient-0.1.2.tar.gz"
+    },
+    "0.1.3": {
+      "sha256": "96881b3552774c541ef8c040b2397ee6457081661f4fc271c3839fa41591c24b",
+      "url": "https://files.pythonhosted.org/packages/1d/86/c7f686e70854fc5890793da65af649f3b97845f5af31906c14cace10119c/python-keystoneclient-0.1.3.tar.gz"
+    },
+    "0.10.0": {
+      "sha256": "a49e0feb2d41a757e77640fa381911ee9c99947865e508293d472debb3713354",
+      "url": "https://files.pythonhosted.org/packages/fb/a6/d71f4629e896015f19de21d12c0d315fac410bc3f0758aa409a01535a00f/python-keystoneclient-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "259ce783dadb69cb48bfb02ed26c7d1ce3d5ad504e9e53c326e958a1e4ddadde",
+      "url": "https://files.pythonhosted.org/packages/85/fe/7667ab5e4aad4e8495d3ff08fc317decbe168606004c0bffc738fe47902c/python-keystoneclient-0.10.1.tar.gz"
+    },
+    "0.11.0": {
+      "sha256": "99f99bd1a6b886e4655e414d82515a3c7ea0788fa80a3e33463778e13e576fe4",
+      "url": "https://files.pythonhosted.org/packages/e7/54/f0e8b02d8f6003377f378358e0518501845cf215e745289e9eddfef2ec4d/python-keystoneclient-0.11.0.tar.gz"
+    },
+    "0.11.1": {
+      "sha256": "263f274ac5c04f94442b5f85b0119673ba4cf21030a5accc8f4692e168b6a301",
+      "url": "https://files.pythonhosted.org/packages/33/5b/458f3d8e652a4ae5627725c9a5ca88492cb52e6bcc1175ddd07a12fdeb0d/python-keystoneclient-0.11.1.tar.gz"
+    },
+    "0.11.2": {
+      "sha256": "3e074f64ba2b85dfa430ccfcf207376ba105cf8177e74f5cc227a7332e135796",
+      "url": "https://files.pythonhosted.org/packages/04/9b/8745ae684d331371ce5545048688b5c62690411c532793c47c57c36c75e5/python-keystoneclient-0.11.2.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "fff5ccf478846f89af609cfe149ffd397505860a02e0cd7a2127dcab2dcc6fe9",
+      "url": "https://files.pythonhosted.org/packages/82/03/b6ad53bf432293859362fbd9137a1c5e55796da325c47bbc4c182df3866f/python-keystoneclient-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "ab0bad758450cb50a91eca71cf738b88f4443a7f9aef317ad50447c3caeba692",
+      "url": "https://files.pythonhosted.org/packages/e0/7b/b01a7111d6603086b9bc4ddfc9c23887e321e82fcc517f7c4c008c4449df/python-keystoneclient-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "8dc4ec5864c4b72c07f29cf2089f0f394880d8e0b0f420c06479bb268ac0e346",
+      "url": "https://files.pythonhosted.org/packages/3a/37/d4c76e83b2715a6ba95336c7c507f664b5ef1c28c8bc96971116864e1ef7/python-keystoneclient-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "10b98946aaa98e97f032ca44848a5d84bc61d6f0b4186c635704087e72c08818",
+      "url": "https://files.pythonhosted.org/packages/e6/ae/f802846145661a6137fdd2d592092909a3a7bb4ca02c41fed2e49296c5b3/python-keystoneclient-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "1286a32cc08436410e00704177e3e5ced6ba88ac4eab62a6a55cbad7cadc6cc0",
+      "url": "https://files.pythonhosted.org/packages/c7/ad/45ea2008b7160ad49cef29ca3215dc4e9d8b5dbbfd4b2695de0e5f2be134/python-keystoneclient-0.2.4.tar.gz"
+    },
+    "0.2.5": {
+      "sha256": "3985ab402b3b63510f387df639658687ee001c047ed710bee9a46219ebc31e2b",
+      "url": "https://files.pythonhosted.org/packages/98/71/c098bd4f7e6203658dd6deaad3827651f7f58e47c44ff554de03ac611db9/python-keystoneclient-0.2.5.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "4f7096aac6ceb848530cfd6b61a6a2228c064d9999d5d4d69d4da20ab76239aa",
+      "url": "https://files.pythonhosted.org/packages/34/e8/41a991d2413c524d72a47322dc5f5830f9154a8bba7ab891171ccbc51cf5/python-keystoneclient-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "bfc149b2d161bfe168be0fde41d9e75f2c0a99b9f398672f92c7c54c6f62fa26",
+      "url": "https://files.pythonhosted.org/packages/d0/c9/2772f5198d5770f62d13cd6f4cb00de39149d70b83ea74288fcb83e12eec/python-keystoneclient-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "cfa6766fd3141cd4dbb5ebf126a4b14095dd0aafee71a753fff9f6a0b4ab8a65",
+      "url": "https://files.pythonhosted.org/packages/83/fb/6b5db4eb9d591f7e44c46e8c78e8bd3f17980862d9c99db0ecf9fe838c53/python-keystoneclient-0.3.2.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "7b77bf2febd14d18e045e617fc2f6fa3eaf00fda987cb94302b726a867fe6285",
+      "url": "https://files.pythonhosted.org/packages/e8/e6/c018bf31fef38e61577f379f9b9e5b4c003e21efb93f9fe5dd41d33d13e7/python-keystoneclient-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "bc9b27000e5bbfbb06030a69af81e08ced99568d97fd257972ef80637f6e0704",
+      "url": "https://files.pythonhosted.org/packages/02/af/22fe35ee248aa1974e41fc5985d19757ce665f24a7cec21811da82059593/python-keystoneclient-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "e5ce59a0f1d622d379ff15d16cdb6da89ffe88715ef502741200c92791e72181",
+      "url": "https://files.pythonhosted.org/packages/8b/c2/05ff29263d060a0fdc60e3208089f2dd7ca63f5f9f4181b8b33f0210a3f7/python-keystoneclient-0.4.2.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "7fb25d00c3ba4183d090e971b1f3d6a7c7d8da8e986d30e3c9e82b9b9306e1e9",
+      "url": "https://files.pythonhosted.org/packages/d9/96/fc857ba406480f78b8c03c5828a0b50aa4c6e79638cfebf46cbb2a58c663/python-keystoneclient-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "201f94c24531ae85a491b4bca166920401de9b2e945d64a46fd7a144996ca26e",
+      "url": "https://files.pythonhosted.org/packages/00/8e/f31b105ec426288bd3aa49e358f0edcb49f3681a545a06e88c2234785e6e/python-keystoneclient-0.5.1.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "9cfe5e851fbfce0a63438003c3a1f436b8e07bf694740b330859ffcad1d5fba6",
+      "url": "https://files.pythonhosted.org/packages/bb/13/efaaba6d8e7ccb02b08fcd00519b1dd14ef229c31b2f0da754979aaf7f74/python-keystoneclient-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "0d38a508b788f0fa65eff7dfecd91e734a5b65667584c269a4fcd3c7a191caca",
+      "url": "https://files.pythonhosted.org/packages/9f/e9/9b9e0ee76f05ce9e83f551cc76581b097d40629a6a699adadb6de2ec0f55/python-keystoneclient-0.7.0.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "176a5e2c28fd0513783b2c8a21b8540d73d7c49706aa3651fea28d0e5029a062",
+      "url": "https://files.pythonhosted.org/packages/fe/d7/063d02ae121001c7a53bc1dd3d1149f7094d0ae518e8397ad3367b08f136/python-keystoneclient-0.7.1.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "6a34e10e67f375c82fefbb787072767da976520b302021b5d7237bd78e93f8cf",
+      "url": "https://files.pythonhosted.org/packages/9b/cf/11eaeae96cf32d46bc565a43007289a5ce37e7e971ef0991574509201794/python-keystoneclient-0.8.0.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "e90aade567c3a159d22e4f21befd3d425a0832d738d63433620ad90d1aab35ac",
+      "url": "https://files.pythonhosted.org/packages/4a/4a/a20e28abbd88fbec3ec72c8b5a7390674f27ebd1db397e6408edec4c6acd/python-keystoneclient-0.9.0.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "6d960d2196efc7a181519a77f757a27ceeeac71f41f624318ae7f1088d2e6db4",
+      "url": "https://files.pythonhosted.org/packages/59/51/e83598c59a490277308cd779c36fb0734448c3d54a101134f647e4634848/python-keystoneclient-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "30224d92f8e3cdadbd8b07326eee527b292c3881e311a202eb538bcfffeeb74d",
+      "url": "https://files.pythonhosted.org/packages/2b/0c/17171d27218ccf466b0d334b26ab855dd071535a859a1d40ce6bb8007622/python-keystoneclient-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "60fe8347f2a30a2e22f7a8cba9aed5c6f4a2ee78955d0a1cfdcd529a12ff9a05",
+      "url": "https://files.pythonhosted.org/packages/2b/f4/182e1b2f51a593f0980484a60476d9e6b2938a39697abd45b39cc66e157f/python-keystoneclient-1.1.1.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "c2776f59b79202e7ad5d709021fecce541bec53dbf2e652fffe8406b0019c054",
+      "url": "https://files.pythonhosted.org/packages/76/76/ad1a1df009d921d91339e6f034fa1f59c563ff054984414d504b22ce2a59/python-keystoneclient-1.2.0.tar.gz"
+    },
+    "1.3.0": {
+      "sha256": "c009445d9a36fa788a14b093f67501091b246fefccb30fb63925e6e4fbeaac04",
+      "url": "https://files.pythonhosted.org/packages/8b/73/f936346c1b042343d02741013d5b4282062bd0e319c68db44bc0306fe512/python-keystoneclient-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "8a421dbdf01251119164bf6baa0ef78b261e5dd4d3508748e47b77d7652e7e92",
+      "url": "https://files.pythonhosted.org/packages/6b/5b/416a69af2ca19ea04f79c0f4ec269d0b06b841e3c22294b3a4571f323f4a/python-keystoneclient-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "1b2fd5ceeefd8d75ee749acd2c3dd8805c833c89828075b814392069cd5ae1eb",
+      "url": "https://files.pythonhosted.org/packages/4b/51/b1dc6174a5ef738333fe66ac8889b795f7cb7fbb95db25e91a8c6c6c073c/python-keystoneclient-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "a1ecb2fd2631a64cfb8bd6bc5adcf19bfcdc488023e05082dc73dc18013a6f7e",
+      "url": "https://files.pythonhosted.org/packages/2f/c4/7bc62c315db812e0f00158ff3cbd33d75010bb44998db5aa88bdeb3012b1/python-keystoneclient-1.3.3.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "a4d21f9057283ea71d907405ab73222321f0443bf0227f4130bdb86ab9bce097",
+      "url": "https://files.pythonhosted.org/packages/49/9e/feff8bf41da8986ed1620336078938c7721d21ba7e1f76dbd533a3d48614/python-keystoneclient-1.3.4.tar.gz"
+    },
+    "1.4.0": {
+      "sha256": "f525fc2431dc3eb863490d4d026d4dfb24e3b5a57496557cb6b5e7ebe9a7f9b0",
+      "url": "https://files.pythonhosted.org/packages/3e/f0/d88e54de9d552dc9bf518712b51426afe22a244f8241d0828c843b8f9d3d/python-keystoneclient-1.4.0.tar.gz"
+    },
+    "1.5.0": {
+      "sha256": "7e2da00b5f65b60a84b5891b8070a5e3ff12f76da8e6be23cc4d97287325cff7",
+      "url": "https://files.pythonhosted.org/packages/35/9e/d11d817855c1100fcd4666c8341afcb4af5c38be969f26501c8b988ea730/python-keystoneclient-1.5.0.tar.gz"
+    },
+    "1.6.0": {
+      "sha256": "45ac3b13b8b63ab62cb3fbfcaf46a2241d8053dfe17961db911c45c1f23d06ff",
+      "url": "https://files.pythonhosted.org/packages/a2/1a/7c78d7fcad728637ea220fa28b359462c551641f39d1a8a74295dd7f46fa/python-keystoneclient-1.6.0.tar.gz"
+    },
+    "1.7.0": {
+      "sha256": "281b008e8814dd954ababdf3beb0eb967e36f463ae4ebd42ba1173fb5550fede",
+      "url": "https://files.pythonhosted.org/packages/dd/74/4c5012b6357fce37a247a9cb955aed940bd0a880fbe9e58c562e949c7205/python-keystoneclient-1.7.0.tar.gz"
+    },
+    "1.7.1": {
+      "sha256": "8457fb65cc88ce009bf757643a27ac00fd5805c7f42d56743d1b6dfc26861e79",
+      "url": "https://files.pythonhosted.org/packages/b4/78/3e73abf0db57eb7f97fbb6f7d52e478b1a433f5725efd0a545da89b518c6/python-keystoneclient-1.7.1.tar.gz"
+    },
+    "1.7.2": {
+      "sha256": "d862183e0e53e7d0696a71ad9b6a9ff9f96b7f445564357de722604ca14fd6d2",
+      "url": "https://files.pythonhosted.org/packages/c6/94/f57597c2362915b4bf937f9bae174ba6e670a99e12afa25d615a6dad3395/python-keystoneclient-1.7.2.tar.gz"
+    },
+    "1.7.3": {
+      "sha256": "805a317c92cd8700a4733ee80f383b2187de75aeb8e9895015799628df97c68f",
+      "url": "https://files.pythonhosted.org/packages/79/bb/82be40ffd7ac6436625632c2186c2d226bdd51fda6be232ae296f694c394/python-keystoneclient-1.7.3.tar.gz"
+    },
+    "1.7.4": {
+      "sha256": "0bcf562831c4552851f1fa5562f068efd339186a746baae1786498917dc78803",
+      "url": "https://files.pythonhosted.org/packages/16/79/6d3d291160ee29b363e3ff5093cdd9c17cce5a6bfc0d41fb38f9429989ce/python-keystoneclient-1.7.4.tar.gz"
+    },
+    "1.8.0": {
+      "sha256": "df2e8b06c8ecbebe7662041bf03ecf52cc2fcdb35ec992ea61ee9b4554ea393e",
+      "url": "https://files.pythonhosted.org/packages/97/e8/99ffec7a6943f2a11b8ec444e379717c2aec6615cdb8603d5303a97d8d84/python-keystoneclient-1.8.0.tar.gz"
+    },
+    "1.8.1": {
+      "sha256": "4429b973fc45636d1f7117791d930391a432b4d0db76eafb75f918a8e6d68cf0",
+      "url": "https://files.pythonhosted.org/packages/7f/12/4d032d7e5c5c0a645e5b8f3ac262dfcf399c1b4aa0906db91afba84620c7/python-keystoneclient-1.8.1.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "6c8895cc15c3ee42a7aea588da297b31e68eaf7af1dfd89eae9ed4c95da17500",
+      "url": "https://files.pythonhosted.org/packages/1e/ca/4f29b95eca89d15f06b78cf2ff23a96d7b57ad540de485e8c0c3aece7a9a/python-keystoneclient-2.0.0.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "936dcf8d8297ea527c61aae5b282f91031922b4c8d1b5c85a61f8698e09cd47d",
+      "url": "https://files.pythonhosted.org/packages/92/0b/94170c0f0ffe6212948aa346b04b7e4fc8f2da8a1f9b0996bf564597f2d2/python-keystoneclient-2.1.0.tar.gz"
+    },
+    "2.1.1": {
+      "sha256": "9778aaccd142acbd545647d173aa66f3ef092bf579d43b95bc9550fbd6d7bf38",
+      "url": "https://files.pythonhosted.org/packages/12/de/336141c09eb3868b240faea134324bbbe28c087804992a15aef243acacbc/python-keystoneclient-2.1.1.tar.gz"
+    },
+    "2.1.2": {
+      "sha256": "8f4a251c574e93a51302bf2af4985cbdefe1919d821de7614e303bcbcd2bce78",
+      "url": "https://files.pythonhosted.org/packages/1a/65/e3d6934550da748bbaa5a04a7b144297252ca738de770d456b7d65274704/python-keystoneclient-2.1.2.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "b2cbe8e0fcbabc4b20c88c02ad80a876e83cc986f6d11cb5d82f41455e7e8f1c",
+      "url": "https://files.pythonhosted.org/packages/1e/c9/5f59c5a382a445ac813423ed08296573193c764cfa5bc56b3536e48c3914/python-keystoneclient-2.2.0.tar.gz"
+    },
+    "2.3.0": {
+      "sha256": "e152058c1b0e600b7360fa9c2fd263ea5937b1824d0f3741282559c7a7775bf1",
+      "url": "https://files.pythonhosted.org/packages/d5/5b/fbd7aac30f5a025a8605db56cf421c9df4ca1ce904ed619d64c7b73839d4/python-keystoneclient-2.3.0.tar.gz"
+    },
+    "2.3.1": {
+      "sha256": "89e93551071cf29780eeafe7a61114cd36b1c2192813d3c2a58a348a6a3ac6ff",
+      "url": "https://files.pythonhosted.org/packages/31/af/9a0ef2d8572cccaec9364d808db249adc600b5dc1a130f9f1f6724bd0758/python-keystoneclient-2.3.1.tar.gz"
+    },
+    "3.0.0": {
+      "sha256": "1013ee198b1ff6b9e12e95e81561407e8820d202a103caabbd9f2d1f29086771",
+      "url": "https://files.pythonhosted.org/packages/91/6a/4ee1bc98d4a3e4b88b5a8e8909706daff7147d4d991c5d1eb0f80ee419c1/python-keystoneclient-3.0.0.tar.gz"
+    },
+    "3.1.0": {
+      "sha256": "8ddd7efe422981368c1e97c1358dd8dcadd114813d055e2a3ce3f081590a6624",
+      "url": "https://files.pythonhosted.org/packages/45/9e/de957806f2f04f195ebb6dda5e963335c1c2050d4c4ad1069e9695d0b67a/python-keystoneclient-3.1.0.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "latest_version": [
+    "0.0.6"
+  ],
+  "meta": {
+    "description": "DHClientList is a tool to get the current client list of a DHCP server. With it one can check who is connected to the local network. To do this one must provide the DHCP server address (IP in local network and port), username and password. The resulting list items contains the host name, MAC address, IP and lease time",
+    "homepage": "https://github.com/leonardosantos/dhclientlist",
+    "license": "LICENSE.txt"
+  },
+  "versions": {
+    "0.0.1": {
+      "sha256": "2ea16cbd06da658f7e0ddb56fb355dccc8ad5aeb0040aad6d4698ccd9e6408c0",
+      "url": "https://files.pythonhosted.org/packages/c4/0e/34e0180f963db167f9de04cbd25db3c534d920034a76ae050578c03f336a/dhclientlist-0.0.1.zip"
+    },
+    "0.0.2": {
+      "sha256": "acd353ac8b8dd203790162507d36b5751579be135fce6806524fcaf8a6b34fd6",
+      "url": "https://files.pythonhosted.org/packages/c6/78/9bc91661d1e97cb8b8defe4f8f7f7ae342e6326d4c1f03141e17e4a9bcca/dhclientlist-0.0.2.zip"
+    },
+    "0.0.3": {
+      "sha256": "cf8cfeb491ecf3ed54ae8915c1936b54819688a6d393e2fd35e13a4d61087653",
+      "url": "https://files.pythonhosted.org/packages/68/92/f1781f05ae27b296d6c247a11091719b5d1db3703ec7ddbf8d4f0f3d0af1/dhclientlist-0.0.3.zip"
+    },
+    "0.0.4": {
+      "sha256": "209d8948e8d532c71c706e900c45b6e04ecbb3f529f430e1289fe1bc67f17b08",
+      "url": "https://files.pythonhosted.org/packages/c2/2f/43f31acfd48abaaecbe20c85cfac90b21cc50da5c23992b31e7af3c90244/dhclientlist-0.0.4.zip"
+    },
+    "0.0.5": {
+      "sha256": "c56e2f8ecc50e7b1deb6fb912c68e8e2ef49a2701230909ba12af163205ef8bd",
+      "url": "https://files.pythonhosted.org/packages/ab/a5/7efc15e342dbf2752399c67c71dc975b75dca8411878bad312a7c1a30992/dhclientlist-0.0.5.zip"
+    },
+    "0.0.6": {
+      "sha256": "728cef51f50cdc6ee4afe0e025f046bf74ea7d76cb48f9e173ac31b44c124585",
+      "url": "https://files.pythonhosted.org/packages/b0/9b/4cf2148a586956e3dc87ec7f7c974832ce817f695c36b8e3ace7ef42a6d9/dhclientlist-0.0.6.zip"
+    }
+  }
+}

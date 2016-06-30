@@ -1,0 +1,23 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "A Django App for preserving revisions of modified Model Objects",
+    "homepage": "http://github.com/analytehealth/chronicler"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "d9cc1fdd755e4597f239f3435e35d095fe07546a30c0997862f3f8a174399d5d",
+      "url": "https://files.pythonhosted.org/packages/41/74/dbbf67a7a1a86db73d3f950fbfbda3adce4cfe0bf90393ffd23bde51280d/chronicler-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "586ea5b6be256ff00ca5e02f07329c1b93cf8d530b382859cdf9177fe74834f0",
+      "url": "https://files.pythonhosted.org/packages/23/d4/d8bd3787f45e4e51dabc18c660e4ad23fae03c1c0cccf27377715afc7305/chronicler-0.2.tar.gz"
+    },
+    "0.2b0": {
+      "sha256": "6e3115b793dd27dee2c79cbe27e44775fbe2a94c2293b530efd25e5088a9d3b3",
+      "url": "https://files.pythonhosted.org/packages/5d/fc/0c827ec83a7e2b60f08ccf7b4134d98399ccf4128c81120c4a918831b227/chronicler-0.2b0.tar.gz"
+    }
+  }
+}

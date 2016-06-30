@@ -1,0 +1,16 @@
+{
+  "latest_version": [
+    "0.6.0"
+  ],
+  "meta": {
+    "description": "This is specific kind of lock, that allows only one operation at the time (read or write) by any number of callers",
+    "homepage": "devzone.itadmin.pl",
+    "license": "BSD license (http://opensource.org/licenses/bsd-license.php); owner: Web Harvesting Solutions Ltd; year: 2013"
+  },
+  "versions": {
+    "0.6.0": {
+      "sha256": "1d9a43bb20b0ce3d5aa8942109dd3b32e330e793fa4503cbad9b029727bb3d12",
+      "url": "https://files.pythonhosted.org/packages/fe/53/df84d2e5993fd9f78f4f2ab2198684846c4d5b1c57f2014af0c629addf3b/whs.utils.rwlock-0.6.0.tar.gz"
+    }
+  }
+}

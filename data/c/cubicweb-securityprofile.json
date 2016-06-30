@@ -1,0 +1,16 @@
+{
+  "latest_version": [
+    "0.2.2"
+  ],
+  "meta": {
+    "description": "A SecurityProfile is a way to easily give membership to a set of\ngroups to several users: define your SecurityProfile, say that it\ngives_membership to the CWGroups you're interested in, and link your\nusers to the profile.\n\nThis cube also adds:\n\n* a security_officers CWGroup which has rights to manage\n  SecurityProfiles and the relations used by that entity\n\n* the possibility to map some attributes from an LDAP directory to\n  define which SecurityProfiles a user is linked to",
+    "homepage": "http://www.cubicweb.org/project/cubicweb-securityprofile",
+    "license": "LGPL"
+  },
+  "versions": {
+    "0.2.2": {
+      "sha256": "ae7f90a287e9a60c4f4da0fa91e52066cc4277e546113fe9b9c2faf1067fd97f",
+      "url": "https://files.pythonhosted.org/packages/93/8f/c0c5543be9012ee01f90f9ceda3b2d35cf1ae3bd4a5449d805894a338a9e/cubicweb-securityprofile-0.2.2.tar.gz"
+    }
+  }
+}

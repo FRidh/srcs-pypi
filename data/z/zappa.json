@@ -1,0 +1,172 @@
+{
+  "latest_version": [
+    "0.18.1"
+  ],
+  "meta": {
+    "description": "Serverless WSGI With AWS Lambda + API Gateway",
+    "homepage": "https://github.com/Miserlou/Zappa",
+    "license": "MIT License"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "a5c2d84fd38bd982bec7dd4ee4fd6f501a836eb742bbf1036b53bf9748dc84ab",
+      "url": "https://files.pythonhosted.org/packages/35/ec/7b8f4e29f8c775edf58744da87a2d92afce18b3dc6a59b700de7762933b5/zappa-0.1.0.tar.gz"
+    },
+    "0.10.0": {
+      "sha256": "d352563130d5216e4ac009a8d33ed1679c3c0eeeccdec45c4be00d3f5e1658ee",
+      "url": "https://files.pythonhosted.org/packages/d1/8b/864ff40b9aa9eb83bcecab5685dbb73781dfce52e9fe19e11676db767b35/zappa-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "d0a94bcd3c1081f9c9fb14d4eeb681ab046c9c008d14916ad34bcd8770206ad5",
+      "url": "https://files.pythonhosted.org/packages/0f/d7/35dd193ec9a0284ce542ecb257325d0c8359517d96fad6b4acb50ee48abd/zappa-0.10.1.tar.gz"
+    },
+    "0.10.2": {
+      "sha256": "52805bafd0e3d9ad39b175d59608dbbbe4b527e9093d08f58ca0b71d3ef8f4ee",
+      "url": "https://files.pythonhosted.org/packages/8c/76/cc2e399e3e6162aced36281446db29181a6413ef202a2ec7e6406da3ef12/zappa-0.10.2.tar.gz"
+    },
+    "0.10.3": {
+      "sha256": "a020d46eb82dfbb5e060781f4e9674062e8bfbb8b584fbad16529ea25eccef2b",
+      "url": "https://files.pythonhosted.org/packages/a2/b8/6a66d57edca7ea6efe5d435041baa26f6265b9ae9f333e862d5088177423/zappa-0.10.3.tar.gz"
+    },
+    "0.10.4": {
+      "sha256": "4af1ecd399937264a8ab7054db09438beac442dedd26231d853b0fcf6e3da8f1",
+      "url": "https://files.pythonhosted.org/packages/e7/47/2aabcc5b46e97b3b9d5ce88356ee1ab311d5b5110a88c79b22afc70e3350/zappa-0.10.4.tar.gz"
+    },
+    "0.11.0": {
+      "sha256": "daea321086ffc6c4cf8ed5f5da30d5676ad6cf5311e9e166c75cc54991a6e316",
+      "url": "https://files.pythonhosted.org/packages/ec/9a/c6eadcfda4609780ce0069b52ac778515761c3c82ba4eca29f7db42fbdfc/zappa-0.11.0.tar.gz"
+    },
+    "0.11.1": {
+      "sha256": "1554c89c639da234b3498ba2dda8ec15894e52fd93452c6a484e82fffb7c60f8",
+      "url": "https://files.pythonhosted.org/packages/9b/bd/e9fb3571772e0e062c07e9eaae23d980b5d17a042129efbfb0dd248a8436/zappa-0.11.1.tar.gz"
+    },
+    "0.11.2": {
+      "sha256": "849b2efd15f23ae19f576cf184c186b08a52eb80a222b9fd820517b88428ba81",
+      "url": "https://files.pythonhosted.org/packages/64/0b/1dea3891689a61dd62bc76eadfa8ebf488b34fefa03b39f039c8890de5fa/zappa-0.11.2.tar.gz"
+    },
+    "0.12.0": {
+      "sha256": "2f623eac1d08fbd3355f8518ca555064454b1f02987eb413323d87614ead540d",
+      "url": "https://files.pythonhosted.org/packages/ac/dd/8dad997c6ecddcaa4c7f6140f1ae08ed47be91df7cf278df4d234284c2c2/zappa-0.12.0.tar.gz"
+    },
+    "0.13.0": {
+      "sha256": "a5d5fd078ae3b5dc0e93e897fd5902827fa8239a7ff57d7cdf6b88d16dcf399b",
+      "url": "https://files.pythonhosted.org/packages/75/b6/2b22fe50806d429a3673b33c98b9c395fff84c2cdfdeeb0587f4ec989629/zappa-0.13.0.tar.gz"
+    },
+    "0.13.1": {
+      "sha256": "07cf290b01fdbba36e410a4a24e46e02d36bff250af7463dfedf5a82a3aedf32",
+      "url": "https://files.pythonhosted.org/packages/6a/5c/6a06986fb43bf5b2174c0028556624e427f88dffbaa2091e5a143770dfb3/zappa-0.13.1.tar.gz"
+    },
+    "0.14.0": {
+      "sha256": "2fffd25f33aa09b476cdde1b3de6875820910234f8c3e660aa5bb76a47f9444e",
+      "url": "https://files.pythonhosted.org/packages/84/24/b5c4fb4839cd7cb577a57764bf66e28c76ad4fcbd80b838959cdb9fbabba/zappa-0.14.0.tar.gz"
+    },
+    "0.14.1": {
+      "sha256": "6ddb7feb204f2701184e2be0fdbad98fc690d280f7228ae06ba5c20963189b7a",
+      "url": "https://files.pythonhosted.org/packages/81/fc/782d43796f4448282584edc828d7077da97cb070074588218450667fe6a2/zappa-0.14.1.tar.gz"
+    },
+    "0.14.2": {
+      "sha256": "13e3ed11cd93c1058490adc19a958d5208df9a38f72c37ab36ec7afedc201e84",
+      "url": "https://files.pythonhosted.org/packages/21/02/2980884698dc3dfdd7dd23fc469e5348e38eb2657bd9a4d4b12d2ab4ab37/zappa-0.14.2.tar.gz"
+    },
+    "0.14.3": {
+      "sha256": "0febd4d7469e848046262ba1a8dcab4aa01942e942d03e9c3041bba639100f1e",
+      "url": "https://files.pythonhosted.org/packages/9e/da/f59475c8f5f778654cd8eb934b8cda439c8fabae267f93e40b06aad2625b/zappa-0.14.3.tar.gz"
+    },
+    "0.14.4": {
+      "sha256": "c781a0081dcf1153ab6fadf6eb97d35edd89aba14e6f5fb433e76caf7a429214",
+      "url": "https://files.pythonhosted.org/packages/77/0f/3451e4767a5eca1a30c409e8f1e4df89b3f0336b7915ca5df2c1d911f070/zappa-0.14.4.tar.gz"
+    },
+    "0.15.0": {
+      "sha256": "008845604cba3c6e9f3108ce165a42ee2f70d14dff56f17fca3ac420d6191ed2",
+      "url": "https://files.pythonhosted.org/packages/c0/86/4c977e0943eea390db30442889525225c25c4fc33029ba87f3cc2632c85a/zappa-0.15.0.tar.gz"
+    },
+    "0.15.1": {
+      "sha256": "6b27188ab0a49fe47bd352d94cba43492115eb1e06a300320883aea0f88190cf",
+      "url": "https://files.pythonhosted.org/packages/f8/76/5281dddb0997f21902ff298c04a10031e95838985f384206307295389e6e/zappa-0.15.1.tar.gz"
+    },
+    "0.15.2": {
+      "sha256": "0e8f74f50e8674d4365ab702f0a31728b15dc57aaeb27b0f8b2e7892f30aa470",
+      "url": "https://files.pythonhosted.org/packages/03/51/bf3a24ab566a49e6f424647ce946a3f7450e22738a63f020ecf06e7c4d51/zappa-0.15.2.tar.gz"
+    },
+    "0.16.0": {
+      "sha256": "4daf07a6c1176dccf778f739d7b09600ba0746c64f4ce07ca44b5a9734e2ed07",
+      "url": "https://files.pythonhosted.org/packages/c6/e4/96db9553c6fafb5ebe9a708a32979cb0f72d09fdfb70f5ffc065fb471c62/zappa-0.16.0.tar.gz"
+    },
+    "0.17.0": {
+      "sha256": "958a7e0827429e548117057a54fef67aa97c1042539a048b8fc0bf96283ae93c",
+      "url": "https://files.pythonhosted.org/packages/d5/88/3e3449e6a799c88dc4abb8358216fb206d07b8d28c8a78196dc448709040/zappa-0.17.0.tar.gz"
+    },
+    "0.17.1": {
+      "sha256": "9a44597c1e5c75a6ef306ba49044bcb21918b5446ceb7ee6be7e48df24d05b54",
+      "url": "https://files.pythonhosted.org/packages/fd/34/0589ceaf7132dd5a2d8b9206d2837d2eafbcc3c375735c3b83c74781c576/zappa-0.17.1.tar.gz"
+    },
+    "0.17.2": {
+      "sha256": "f58fe0f005cb52c06e3a857918d96a8f944b21a0325298874f2faa1338c406e5",
+      "url": "https://files.pythonhosted.org/packages/4f/35/365253f91b7a6fcb82385a5338c00da7ec17028281e9531c26bb9dcc90d1/zappa-0.17.2.tar.gz"
+    },
+    "0.17.3": {
+      "sha256": "4b310ca929f1ea449a86d44cd85bd60003e939e8e36939dee21d9c3b057f3d16",
+      "url": "https://files.pythonhosted.org/packages/9f/e6/4c4cbe855b4f399c475e0d58c77413500c993aba57cd1bd11fa8dddac3cb/zappa-0.17.3.tar.gz"
+    },
+    "0.17.4": {
+      "sha256": "1b50af62e859ee3d5bda9f26ca795961825a700544b67b87f8426aa0032e8832",
+      "url": "https://files.pythonhosted.org/packages/78/d9/5ccf5be4321191dd31d9b6a4fe397121b404d908e1371161323bda11254c/zappa-0.17.4.tar.gz"
+    },
+    "0.17.5": {
+      "sha256": "3b11b9242239151ba763f72446993e49fbde146b8df8e1ee9baf8d18cb57d91f",
+      "url": "https://files.pythonhosted.org/packages/b6/a5/0e432677eba4895b7066de94d0a22bbfad1f247b1a9af0ff57b68b4128d3/zappa-0.17.5.tar.gz"
+    },
+    "0.17.6": {
+      "sha256": "d167993938466d6167f646b237308ba188e804a36b96cb4a78f448cc24b69515",
+      "url": "https://files.pythonhosted.org/packages/ef/fd/107e070586fb563932fc8434578950b17242d70296147806f1ba643e4c7d/zappa-0.17.6.tar.gz"
+    },
+    "0.18.0": {
+      "sha256": "cbbfac0807cd4ca6dfba7e83aee86e8ff4990d6296a5288f4818125e8118ea64",
+      "url": "https://files.pythonhosted.org/packages/f2/21/6b59f37911228f09d4f7ee22a4b3616c0ff432a71bbaf437ef0b65f26ded/zappa-0.18.0.tar.gz"
+    },
+    "0.18.1": {
+      "sha256": "afd2a84e754336cb0372085fc370e4687c8574c9065c8ddb5e96fe551b511012",
+      "url": "https://files.pythonhosted.org/packages/81/e8/41c3b248234cc281b618f4d1198d4a68475a8a927cd5655d4b0b68b581ba/zappa-0.18.1.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "065cd48634c45ff5b8dd10566e458b0a5ae266e5d6b49f52f1c06c215d680039",
+      "url": "https://files.pythonhosted.org/packages/d8/d0/a227b10b2d0a8855ee765159c8c76d3ed09d8c8e14f2900d3a04a9d83225/zappa-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "9d7d390620ff4a542782eb14b8439feda6dc757bc50b3d2fcf68f62fe81cb7e6",
+      "url": "https://files.pythonhosted.org/packages/89/4f/c750c3f06da33b697916846a2b09a78bb9b6e81d195d9784ff94e305228a/zappa-0.2.2.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "65ace55837a164e166be33e3bf57228434fc4c7c1da1715699674164ab9884a6",
+      "url": "https://files.pythonhosted.org/packages/4a/7d/212525a2f0dfc8645b9bfd49667031d89e9ad9c851b9f6812ef584d4ab9d/zappa-0.3.0.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "5cad8fc563d0b0611d22465332334612b1aeda88a4af226995f054556750d93a",
+      "url": "https://files.pythonhosted.org/packages/ee/23/d6cdb2d6aadf9a0a019e6ad71b8fbde0d0e951e705df82851d025ac15e55/zappa-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "32a7ab423f59a03fb999d6483f346e49765e681264acb46281077dde642c7769",
+      "url": "https://files.pythonhosted.org/packages/b7/93/8d63f11c15b7ae80ef7a2c31bfa4a9fb2f6a76a799d51dd00aa6387a17c0/zappa-0.4.1.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "ea9bc3f67c0fabf289af69a09d9c16e64c83bf5189ad4a32bc5368f83d50aa0a",
+      "url": "https://files.pythonhosted.org/packages/0c/d2/54f502423606ab46c384e35180ff23119fff9f3e5074675c6eedfcb878ea/zappa-0.5.0.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "c790d8a76b723b1a89be2c2455b9814890061df65aebd9c0ae74b66edfb34771",
+      "url": "https://files.pythonhosted.org/packages/84/c2/d9ef218ba85097a2f06649b0687e27fe69f8aa865d983ed9ce1d12e67f97/zappa-0.6.0.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "94a260bd429ee18cb6526f306aadb986ce8755adc04857c22c278278a0e79a94",
+      "url": "https://files.pythonhosted.org/packages/05/a4/5dc7d24eeec8dc94fa05d1abf5c9bd9b40c1d58ea98d473f52dfe4cb54ff/zappa-0.7.0.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "f9c38548529df7a4f413c36c674663206f2f9c2653499b830ac07afea85dec38",
+      "url": "https://files.pythonhosted.org/packages/ae/3c/0aa027876b81fdced817c7419c2ac9350a0d54e766b69b68f03a0f2104c6/zappa-0.8.0.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "596c1e4ea440f9849d6e38abb9c73ae2c299e561f7bd25459b7072a52e64ae3e",
+      "url": "https://files.pythonhosted.org/packages/14/27/aa6c5259faa509de92618d674c56e07903501d0d0d72b83c2b5747475ebf/zappa-0.9.0.tar.gz"
+    }
+  }
+}

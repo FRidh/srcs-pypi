@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.1"
+  ],
+  "meta": {
+    "description": "Flask SqlAlchemy router for stateful master-slave replication",
+    "homepage": "https://github.com/peterdemin/python-flask-replicated",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "6626aa583e4375f01076b2d5ec2b46e1081c605cc7f8368530a7e9337975e5ec",
+      "url": "https://files.pythonhosted.org/packages/ae/ed/9863a7307b1eaeb50e2a9e96577b001afd040658f0c62812424c27614483/flask_replicated-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "e08700f5ad02dfeae07797c3c1dbba2365a286660ff93d1e10cde5e2348edb09",
+      "url": "https://files.pythonhosted.org/packages/9e/7e/9c9b7d6638c05db5dab8414baee67cd30ced08b5b96ffebfefa01b49b3bf/flask_replicated-1.1.tar.gz"
+    }
+  }
+}

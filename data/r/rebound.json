@@ -1,0 +1,428 @@
+{
+  "latest_version": [
+    "2.19.1"
+  ],
+  "meta": {
+    "description": "An open-source multi-purpose N-body code",
+    "homepage": "http://github.com/hannorein/rebound",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.1.10": {
+      "sha256": "1fce1c2dcd9e0c4ec42caa5acc9e3969bb023e8a1bf8ffcd636f3207f8bee312",
+      "url": "https://files.pythonhosted.org/packages/c4/5b/ebd6dbe0942fcaa9ff9cb288c1e7ffc35f081c4e290fe8c53b953d1e1cf9/rebound-0.1.10.tar.gz"
+    },
+    "0.1.11": {
+      "sha256": "e1e97bd5739caa6f684fb51bf382138e396ef94b8d12dee8d6083730db7b9e9f",
+      "url": "https://files.pythonhosted.org/packages/02/1a/3ba1e86a0aa561621848159cfedba96cc78a22daacceb791187ae6904f7e/rebound-0.1.11.tar.gz"
+    },
+    "0.1.12": {
+      "sha256": "3aa7a07ef240781565070eac400f3e633a54b7ef565d7aae7c9d6ed25d871c9a",
+      "url": "https://files.pythonhosted.org/packages/df/51/4ecbfc88ae7d14997da2a3ddb9f9177d6601d73a40089cfad7563a7d2d0b/rebound-0.1.12.tar.gz"
+    },
+    "0.1.13": {
+      "sha256": "cb0ad86c6392cd94a72c5c4c70ac1f9647f99bc5c93534e9cd37379f116eb3f8",
+      "url": "https://files.pythonhosted.org/packages/70/b2/e3d0c1e5c6c7fbfca2d97c53e7a3924a26a088312d506925244735ffdd42/rebound-0.1.13.tar.gz"
+    },
+    "0.1.14": {
+      "sha256": "646c6f67e173af83502ade808b7085fb21793e45fa209e335c118a9fcb231205",
+      "url": "https://files.pythonhosted.org/packages/b9/52/dfd13ec505d5aef931296163166787c2928b9aa7b8c78efda697ba368eab/rebound-0.1.14.tar.gz"
+    },
+    "0.1.15": {
+      "sha256": "8dd43e4d709446ded0d34295725b1c82282719ee7fa06b4c9589bb656fbdaac8",
+      "url": "https://files.pythonhosted.org/packages/37/6c/2e4fbd9740a6f4925d367739837196e36ce078277ec1e62e9157342bf085/rebound-0.1.15.tar.gz"
+    },
+    "0.1.16": {
+      "sha256": "db00e1f34dbcf577991262e043654801a7e5a3a9b917c69fee3f8c51db0c8421",
+      "url": "https://files.pythonhosted.org/packages/eb/6f/aba37e9e1b8ab11f5fbb20fbe89c7026fd0d4d2909adab73caf2bfffaadf/rebound-0.1.16.tar.gz"
+    },
+    "0.1.17": {
+      "sha256": "5cc936ae366d398ee3470314531175ac9273fb6b2bad35381ed68c02c9ec12a1",
+      "url": "https://files.pythonhosted.org/packages/c0/2c/91249770c10d61d8931081c732f7bf11654e919f0940eee59cbc034c43b6/rebound-0.1.17.tar.gz"
+    },
+    "0.1.18": {
+      "sha256": "72c3a709f84b47a8405719a957cd8ab766ef16492438154094a040637c0ce0a2",
+      "url": "https://files.pythonhosted.org/packages/88/24/72ea58b450ef3c8b9e6029e63df4ebf8b31d9c913466df3b9d5406c8c363/rebound-0.1.18.tar.gz"
+    },
+    "0.1.19": {
+      "sha256": "c3e1d49183eca7eb4119dc05e0f6aae8c6c6ce45eb5153e33ff5e4688c31d76b",
+      "url": "https://files.pythonhosted.org/packages/2f/74/f6a7ff4315fe724858019fa139f98d3b7d9db5dac520d95a719140bc96f5/rebound-0.1.19.tar.gz"
+    },
+    "0.1.20": {
+      "sha256": "a718cc214f3f432a60c3a47ff04f61af2aa0740cde28a5147d2a041c5733a684",
+      "url": "https://files.pythonhosted.org/packages/00/b3/e7787f0b577f3d4c708beac55968a515fadcb4815d48eb1aa611d90e6ee5/rebound-0.1.20.tar.gz"
+    },
+    "0.1.21": {
+      "sha256": "5dc0235ef5471a78a2655a956026078a9b28db8414fc9fa09e79e13e9c95ddf4",
+      "url": "https://files.pythonhosted.org/packages/6a/8e/21b32ff757bdaae5fc1be475c43eedbc72025c57e73294c017d2b3338ee7/rebound-0.1.21.tar.gz"
+    },
+    "0.1.22": {
+      "sha256": "025fda847ae11204390ac21a3a3b277308abecaf2d830e44d2eeaf10384eb51f",
+      "url": "https://files.pythonhosted.org/packages/62/98/3ed91a2fc24529f76cfd2ffce34f470fc9613ad757bd1c9ff0ea382c8e83/rebound-0.1.22.tar.gz"
+    },
+    "0.1.23": {
+      "sha256": "ff72c5c304eca2b04b9efcd3c27671dea1bb54c8e034deff9e9531df3d49871d",
+      "url": "https://files.pythonhosted.org/packages/66/17/85bcf323507d49f2d8e3dbbacce7075750c389f1bd93f933e9d58f51b213/rebound-0.1.23.tar.gz"
+    },
+    "0.1.24": {
+      "sha256": "21ecf6103425c10130340b2d1cd75f8fd29e98122262d23564ee3361b016a9d4",
+      "url": "https://files.pythonhosted.org/packages/45/0e/7bbd297275e7182165307cfbda99f9b3a0f1511fba63481c4d39afd75f92/rebound-0.1.24.tar.gz"
+    },
+    "0.1.25": {
+      "sha256": "dd0cd70517e7d79e57af89b726591e9ec621425e78159ec9adf997711e067e07",
+      "url": "https://files.pythonhosted.org/packages/cc/a4/7b0265fb9c38290fe803745d66f0639ffe6391a988e091ecfce885da8d16/rebound-0.1.25.tar.gz"
+    },
+    "0.1.26": {
+      "sha256": "2ceb2313669d036ac652495f30e8f47caa07d399ec5ed3e08b53c0dcef0e84f9",
+      "url": "https://files.pythonhosted.org/packages/0d/56/5bcad14db390c5fd866d7f8cf44e2a0bf5896d311e32a39ff6eba0271a82/rebound-0.1.26.tar.gz"
+    },
+    "0.1.27": {
+      "sha256": "2f8e316898f9df91f44e9989ce9a9a47937e6e929a6d52819fd68f12b52da9a6",
+      "url": "https://files.pythonhosted.org/packages/37/8b/92931893cc6d53dbdc48984bba47e0361de7f1998ca5ad74108e7ba66141/rebound-0.1.27.tar.gz"
+    },
+    "0.1.30": {
+      "sha256": "164a0d466b646e59400113564d2a46960602ebaa47e9b135707dd95cb64b5bd0",
+      "url": "https://files.pythonhosted.org/packages/82/22/644d5dbea24cf3d8aa0fbb2b57f7a3a27c5d7999cee6b9ef37d00e01fb1e/rebound-0.1.30.tar.gz"
+    },
+    "0.1.31": {
+      "sha256": "b30045d9435f9154e352e2cb0767a1692e270cfe5f8cc7a61c3fe21da1d5834d",
+      "url": "https://files.pythonhosted.org/packages/ac/6d/fed2b1e3432aeb08bb9974077f908c10c2fe010621efd68b920a5211591d/rebound-0.1.31.tar.gz"
+    },
+    "0.1.32": {
+      "sha256": "d5b57401a0005aca88c63dd34b7dc8cfe6a69dd9cf03efd3c9a54fcc308a6f60",
+      "url": "https://files.pythonhosted.org/packages/52/e8/ea6be96c0d47503000ea1b089fb06a6a786c26389e3d23ae807f0930a183/rebound-0.1.32.tar.gz"
+    },
+    "0.1.33": {
+      "sha256": "1c3aabec073c7f78548622e7685c7d2aefa453026381a6ee04f4098266e12978",
+      "url": "https://files.pythonhosted.org/packages/e2/46/6140a71f38c407a9dd25a4ddf12ab0f4b6c23d337bdc3a56cc04256e54ac/rebound-0.1.33.tar.gz"
+    },
+    "0.1.34": {
+      "sha256": "acc6df948792a81f0907e55f4ce4650f34775c503bf2219434f6c6e695ad8b9d",
+      "url": "https://files.pythonhosted.org/packages/b9/81/325f6291a2e0cdcd034ab637fc1c0b9316ec8d15f4e98c9e22e9946e7253/rebound-0.1.34.tar.gz"
+    },
+    "0.1.35": {
+      "sha256": "c27e602ab78e3b19bf68ab86ca69079f2f173a469cf1d2c86fd0b046b881212d",
+      "url": "https://files.pythonhosted.org/packages/49/ed/d5664d90080970af5b9279d2d32f908a4fcc0d37afd6830e2891bd7003ae/rebound-0.1.35.tar.gz"
+    },
+    "0.1.36": {
+      "sha256": "11fdce74698c11707d6df1b91fbd56880e85a0a0d55fd0df89577b48c8bb8b85",
+      "url": "https://files.pythonhosted.org/packages/6a/b8/e047370f9d70d34eb3cc9829074f10513fb7ef4f1654720575d395b8aebd/rebound-0.1.36.tar.gz"
+    },
+    "0.1.8": {
+      "sha256": "f8c44b65c14a6fb77bdf0b118cb6c5701ec2d0ca48417efde59bc2666d47d96e",
+      "url": "https://files.pythonhosted.org/packages/90/24/91842e23a26ab828e3918e34e12ff6f39ce44074d66a0e7e17b487aa90ff/rebound-0.1.8.tar.gz"
+    },
+    "0.1.9": {
+      "sha256": "b58419f4a759e8149851db5a93a2cf881d6f93923a1d01e64c46e392a1078225",
+      "url": "https://files.pythonhosted.org/packages/ba/76/3bc679f6fa9951ae2cb4f7d96f3abe666dd0617eadf32aa1cf5f878f4ea2/rebound-0.1.9.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "a7d464e0f14553567e19d2194c3a01ab1dd6c73a8a5e9c0048738a88ea77f7b7",
+      "url": "https://files.pythonhosted.org/packages/35/64/3de6e9b0c7d4cbe1fb5d6ec66fc57031a44cb4f11f4996c2ad88ac43d3cb/rebound-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "234571206489e02238665980a5be0162ed9e8d0e3e7f0065962bc7f98e5b32d9",
+      "url": "https://files.pythonhosted.org/packages/a2/ce/fd6329665a46e59a4c062e9b60e99ec6258eae8a79d1ad2bcd7435141fd9/rebound-0.2.1.tar.gz"
+    },
+    "0.2.2": {
+      "sha256": "c20ce2a14b3b41b9771112b0515ba33873f937a8df14487397052c426d027bc4",
+      "url": "https://files.pythonhosted.org/packages/76/6f/98a7fea2f8386a54b6bd91196a96ec3ee9ce815aadba692528cd38acce04/rebound-0.2.2.tar.gz"
+    },
+    "0.2.3": {
+      "sha256": "ff3fe6fdf6b49ee291ea37d32ce9def59902a776ac4d3321ebd17723bad51a52",
+      "url": "https://files.pythonhosted.org/packages/ec/4d/f7b7dab030fd0335be59c23f297ff346f13a41e5153d2c8faa7c84c96b1e/rebound-0.2.3.tar.gz"
+    },
+    "0.2.4": {
+      "sha256": "d88ae0768aa352aaeebd86ffd0d705411a7103de3c8fee330f1901761db7423b",
+      "url": "https://files.pythonhosted.org/packages/41/a5/fc16922780fab0359b561f7b991f71ed7812ec84cf54479b7ca0e5ccf448/rebound-0.2.4.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "46507800f3bc6eaaae6466fa85993b11ba8f5437c1a517792503dfbaaf1d01e4",
+      "url": "https://files.pythonhosted.org/packages/3e/70/1bd1a095e788d25e1fa59294242b9132a3a7d810eec10eff33c82d0f2d3d/rebound-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "db5b932cd3f91863a1902dde665938a3bebeee1459e8ef3e92f6b258a04266e1",
+      "url": "https://files.pythonhosted.org/packages/42/9c/25e217087a73edd684ba9d2d73795bf49553cc45b6065da6ac2f4f7e87c1/rebound-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "f9ecce6a21fb3646cb78282f0ca6a90861826019ce722e6e2e3d6f8587b14121",
+      "url": "https://files.pythonhosted.org/packages/2c/f8/ae4a932bd120e5f439c82cf456b11296866071fb5a20c6d60280a7d7038c/rebound-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "45657d3ea576e406e641a6d956604cd88aa29bec7adfb798b1a239416ff73173",
+      "url": "https://files.pythonhosted.org/packages/66/d9/94b20319ec59dd9b473bd98736ebce6b492f266e374d1a5fd7f0cee4e194/rebound-0.3.3.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "0b371171a80d50ab1f5efc9619fff82102587af5f1d0813140eec6613acea66b",
+      "url": "https://files.pythonhosted.org/packages/2e/c4/34b92a9fa0f6e8d162e60316507c897b245b70c7792558d1a64f61063f52/rebound-0.4.0.tar.gz"
+    },
+    "0.4.1": {
+      "sha256": "29ec3898867896ecec53489ba8c41298f1ec7afb3e1af0f645f6239875c572eb",
+      "url": "https://files.pythonhosted.org/packages/af/1b/9957c23a72e7a34030cf05b90dfdfe67b7f35ce0fcbaff97410c29f9b605/rebound-0.4.1.tar.gz"
+    },
+    "0.4.2": {
+      "sha256": "8941344797422875999142f5d39f36c208737e380c1dd7c414069fef2e91d5ce",
+      "url": "https://files.pythonhosted.org/packages/ab/e4/33d924b0a219b5e0969f349ed970e00c219caf59546ba318948375054f4f/rebound-0.4.2.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "cc1060cb9fce8416a4e64ff2cdc564726a7f4e7eb65ee64deb02572d6495ae51",
+      "url": "https://files.pythonhosted.org/packages/45/98/8044c6b3dbdbf3ac99d38ada61284d0a378386e868ed802c8ace31694343/rebound-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "99fed933f1303c0affb0ffbba5ee92aa5dadb73899f640fc6516d3ff1078dee8",
+      "url": "https://files.pythonhosted.org/packages/88/57/2e4fbf6ee85c9b17a8a95ce8382866e05ed8d25095644205749737bf3383/rebound-1.1.0.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "2d41ecd494d1820ed8f476984ed17dfeb526bf01ef713e72d5b4d5257fdce25d",
+      "url": "https://files.pythonhosted.org/packages/25/b8/3b6de5daedd6ca328c4cb41fc632c95c6322e0fc03cb84b7b50e3c751a2b/rebound-1.2.0.tar.gz"
+    },
+    "2.0.0": {
+      "sha256": "95cddb5e50af793902cd95e12fa8efe2c88b5db6b9e3204a091b456c7b4485eb",
+      "url": "https://files.pythonhosted.org/packages/b4/2b/2b009d7e26d934899483b80bc0e238a076676729c446a339be3315bc4b7b/rebound-2.0.0.tar.gz"
+    },
+    "2.0.1": {
+      "sha256": "642cd8ccbba8ae3c9c3e6c9c9b62ae09a6c3be539a4d28fb8c26584e18dbaba2",
+      "url": "https://files.pythonhosted.org/packages/2c/47/42473fafefe41151dbbae9dcfcdc7b2c9a7561c406c358210e2929b7f743/rebound-2.0.1.tar.gz"
+    },
+    "2.0.2": {
+      "sha256": "ee9b23b11d2301980cd14b0d87a7fb171409af91d852da39fe5043f203986916",
+      "url": "https://files.pythonhosted.org/packages/b6/88/49e57ae81679d23f46cb61bcbdc640020084d20874e87d8fed6d74d3056b/rebound-2.0.2.tar.gz"
+    },
+    "2.0.3": {
+      "sha256": "6765c244b3865ffaa99b7ae316ae5e083a56ad4e6ca4942ef07ddaf2be30a18c",
+      "url": "https://files.pythonhosted.org/packages/82/3c/b4587b4623df8d60d6455f39887436c2a6c99787f2b83199c9544a1cf1b0/rebound-2.0.3.tar.gz"
+    },
+    "2.0.4": {
+      "sha256": "faf95e8477dd272bd7174d297d02b51c03b7af04be7470c8398e9adbca06def1",
+      "url": "https://files.pythonhosted.org/packages/cf/98/e4cd35d761e4f25cc5c426bd7f92739563279b9b551ac93f37ba7da5fb68/rebound-2.0.4.tar.gz"
+    },
+    "2.0.5": {
+      "sha256": "590f7d5fb595bb9db459a216aa3e1952e103e7b99b8b8ab30176140608c9acb8",
+      "url": "https://files.pythonhosted.org/packages/aa/2f/8ed802db7fc94e4ed29c8ee70017cf3b2300b1cf6451e23b66f0c5e8a4e5/rebound-2.0.5.tar.gz"
+    },
+    "2.1.0": {
+      "sha256": "d723f70ff59a081e0d70fab3225d07a8f0d881b8d50d52026823dc63fabcc17e",
+      "url": "https://files.pythonhosted.org/packages/be/99/db959acd7cee608d709abbec6523a9ddacfcc6a2eb4ed450996863851ad4/rebound-2.1.0.tar.gz"
+    },
+    "2.10.0": {
+      "sha256": "bc65d67b8e8ab3ac85ebb58a64471095e59e6ed2bbac17056bb9e1207632baad",
+      "url": "https://files.pythonhosted.org/packages/a8/c8/e7917a5223ffb268509ef0a02d05b881643a34276bf9d8f5076e6d408f5a/rebound-2.10.0.tar.gz"
+    },
+    "2.10.1": {
+      "sha256": "0e9d2469cb4412ac4b19de57902c6c4c8e0e693712904e4c1ec4f9f39621213f",
+      "url": "https://files.pythonhosted.org/packages/53/ec/002ee61d4e76284c549685bca5c5128a85cd83b691e2be6c5b90fdb65c28/rebound-2.10.1.tar.gz"
+    },
+    "2.11.0": {
+      "sha256": "3c0d75817bca73a1f5ac829379c8a845be8f358c6d91badbe5c03e7ed65bf591",
+      "url": "https://files.pythonhosted.org/packages/97/9d/bd4d1ea8d02cd005940896af027fbf61df45f81f7994a722b92d6f18601c/rebound-2.11.0.tar.gz"
+    },
+    "2.11.1": {
+      "sha256": "de4ac0ecb020388902f2df0397a0e62c4639064320723315593a4073c39df033",
+      "url": "https://files.pythonhosted.org/packages/ad/d8/763cd90e07d98b6c083f00f9c8760e551752b173122e8f0586e2277b540e/rebound-2.11.1.tar.gz"
+    },
+    "2.12.0": {
+      "sha256": "ea7bde561c71c8b70a238ef1e666db89d741a0f7ba260a956a8e91ebaae0db0a",
+      "url": "https://files.pythonhosted.org/packages/ab/91/56610b1e455e71ba9af56d4d98cc1feb2a5f161256443d0b9feba3002430/rebound-2.12.0.tar.gz"
+    },
+    "2.12.1": {
+      "sha256": "7a7d212d28b495c860fb64da0d6f618aecc3bd2f64f5003903600c119bfab6f3",
+      "url": "https://files.pythonhosted.org/packages/2c/c8/5b5b10c8d42e075bf3a9ee3a897773bda9ce457051fc4025bc270f2ecd28/rebound-2.12.1.tar.gz"
+    },
+    "2.13.0": {
+      "sha256": "448b4a9904720c6bea4fa399e6b18249ae153d70d4970fe4c666f2a85fe6fe80",
+      "url": "https://files.pythonhosted.org/packages/c0/03/de294ef03db67e0978828fddd4ad547cd7d35263a2eec113186249012fb9/rebound-2.13.0.tar.gz"
+    },
+    "2.13.1": {
+      "sha256": "190d1867286e66e4e5d16cfa57a977553406fc289fda721c2e4e7daa0c633409",
+      "url": "https://files.pythonhosted.org/packages/7f/14/f10c53ae8b56c0f5a02fe9af6013dab259685f6db217b00343b0b90cf516/rebound-2.13.1.tar.gz"
+    },
+    "2.13.10": {
+      "sha256": "9492eaeb78d766ab244a7176cd8a2e58fad67d02297a8dfcce62003f125160ef",
+      "url": "https://files.pythonhosted.org/packages/67/ed/a04af07b39fdd7c93f1d6dbde035452eec37e1d9828915d803e68e8caf2f/rebound-2.13.10.tar.gz"
+    },
+    "2.13.2": {
+      "sha256": "a8fb3299d889d9ba18006f94660cbedc016da475afa1c8660855a622354cc2eb",
+      "url": "https://files.pythonhosted.org/packages/d3/37/1b965298b590460a27a936d02276a83fb9334274ce6ba644c3a9286c5267/rebound-2.13.2.tar.gz"
+    },
+    "2.13.3": {
+      "sha256": "fe699d0e732475651e69f24f9c7474b6fa76885e150bff635a284677c1854e9e",
+      "url": "https://files.pythonhosted.org/packages/80/4b/f65d02fd26746b832440f1b2c93de0da9ea59c63873833b94927519afa97/rebound-2.13.3.tar.gz"
+    },
+    "2.13.4": {
+      "sha256": "732ae36be92823913215f5c097b526efa931931b32937dabc4cab87c33e035ac",
+      "url": "https://files.pythonhosted.org/packages/1e/0b/4195cd1b08fa643331faf2877ea432b7cbf26062d41252418e91f8b1b6de/rebound-2.13.4.tar.gz"
+    },
+    "2.13.6": {
+      "sha256": "16458f011ed00145d81d61eac9e45555bb5ea36527bac27124279c1f09c0face",
+      "url": "https://files.pythonhosted.org/packages/38/eb/644c7bdf1fb679be01a7846691f154b3e14abbb15d7b798f35ef1f9c890f/rebound-2.13.6.tar.gz"
+    },
+    "2.13.7": {
+      "sha256": "c61f12293be5300cf048462887f583293880b8dcbb575a7763fbe7ef42c4e6c0",
+      "url": "https://files.pythonhosted.org/packages/c3/89/3caf28013554f52076359ce9cd143e1bb62ebb9e394abc96add6292a2c90/rebound-2.13.7.tar.gz"
+    },
+    "2.13.8": {
+      "sha256": "9e42d50672292c2994ef1143edad1a3d1e93d532f0ca020f87df3fa506c10db1",
+      "url": "https://files.pythonhosted.org/packages/0b/23/39f20463486e0d14b8be317c5f12744be3f20eac90e668cc859f0c0da58b/rebound-2.13.8.tar.gz"
+    },
+    "2.13.9": {
+      "sha256": "0d6ac39752f58d01e7c7e95f75062b8c95b3be839cbc194526df455f436f981a",
+      "url": "https://files.pythonhosted.org/packages/d2/a3/b6a0bcc52da3bcd3e3a4d36a077eedae7639632e0f13687ac9b1a1d9a731/rebound-2.13.9.tar.gz"
+    },
+    "2.14.0": {
+      "sha256": "fc69512b87066b1d00862dae3e128680cac34632025fcd2d6d4cb81d7e10c3f1",
+      "url": "https://files.pythonhosted.org/packages/63/e6/ce3f8d99785f7d02b877f08d68cc4a5a3959961350cfa0980886842a68ec/rebound-2.14.0.tar.gz"
+    },
+    "2.14.1": {
+      "sha256": "5cf3ce1077c382d41da274b08418b03b7dca1940b2ed838c9912bafebeecd9b8",
+      "url": "https://files.pythonhosted.org/packages/1d/1f/23d13511f5323d1de7685bcd4d35e016e867a34a86080d8ad8d156317309/rebound-2.14.1.tar.gz"
+    },
+    "2.14.2": {
+      "sha256": "794ec9269d5e9b5b7da57ec5addeec4cd0d316f858c8b456dfda284631daeb24",
+      "url": "https://files.pythonhosted.org/packages/fd/17/f0661f5895bd01cd4c89e4c918b3ef7e7fd9ad806d4b6082185148a84c80/rebound-2.14.2.tar.gz"
+    },
+    "2.14.3": {
+      "sha256": "9838474ff1e06b773e3dfeb8ca0b062a0b2d6f180acdbe4a0817011adb660354",
+      "url": "https://files.pythonhosted.org/packages/87/e1/3714651b3d329f0a090dc845c1c467276ba66e82d5bf2d4a4854454f412e/rebound-2.14.3.tar.gz"
+    },
+    "2.14.5": {
+      "sha256": "6bb04074627ccde22bfc366b3b2c8636bc7ec8194ee3097dabf2b1cc20a9569a",
+      "url": "https://files.pythonhosted.org/packages/6f/e5/97503c7c876b2656c6739a177fd180eb2a4bf93ca25dc8b8bf6a6c54e6ca/rebound-2.14.5.tar.gz"
+    },
+    "2.14.6": {
+      "sha256": "84a0f97627056e1ab2cfc48b0ed7321c1ccdd97173e9a831964872c0d6a25bd6",
+      "url": "https://files.pythonhosted.org/packages/37/6c/4a41d3842e07f30aab16ddf4b69444c23f0cf077c115d92b02db0c8befa9/rebound-2.14.6.tar.gz"
+    },
+    "2.14.7": {
+      "sha256": "5769183d452ffe1e29e3810c2724c82a58e655c5ef77953e49a23382e808e95d",
+      "url": "https://files.pythonhosted.org/packages/8c/da/5774be95f964558ace7bc682f03873a8280f4e64ab961b9a612617a486cc/rebound-2.14.7.tar.gz"
+    },
+    "2.15.0": {
+      "sha256": "f8f99d17ca6a073e281fed79c92f7280cf0143307dd7a66acf9a5c29c5681971",
+      "url": "https://files.pythonhosted.org/packages/b0/9c/3cdb7f9376688a28292624aa7bd504598979ce4eff57b29cfa7c9690f5ef/rebound-2.15.0.tar.gz"
+    },
+    "2.16.0": {
+      "sha256": "eaa611c5f1b19f18cfc3110b4999c3f4236dc25e7a5d0a306520e2d3512bf6ab",
+      "url": "https://files.pythonhosted.org/packages/27/d2/79f9689f9709a354048a3bf471a138a87a677c383932f637901d6b5e9c45/rebound-2.16.0.tar.gz"
+    },
+    "2.16.1": {
+      "sha256": "a9b5f9a46f287ae29777d6b27794a75b61e1bda5b7637223c90838f20ff33ae0",
+      "url": "https://files.pythonhosted.org/packages/1f/ab/639a2c920ebf4ae6182c476d87c5a367741cc9a9c3141c330e7364073dab/rebound-2.16.1.tar.gz"
+    },
+    "2.16.2": {
+      "sha256": "de00c3f3c5d4713ce7424219fb8067da7825b24f28eec0ea9c9b3ee12fc19c1f",
+      "url": "https://files.pythonhosted.org/packages/5b/bd/509f826811818fa88ccfe3cceef5b3d65ca0ffb7855a42d9c3463c5c9861/rebound-2.16.2.tar.gz"
+    },
+    "2.16.3": {
+      "sha256": "284cf1dbd26e38c5242af1e51f9e922ba52a7b1c0b4e08cacaad5b03b6bfe7d9",
+      "url": "https://files.pythonhosted.org/packages/74/10/532e6dae369807ac675da84b04ce26ef6ff3727f5302c1a1aa620b236d8f/rebound-2.16.3.tar.gz"
+    },
+    "2.16.4": {
+      "sha256": "e9cece2e6963efa1f856e2b895170004f87cacb7227c6586f6b3418537e2480f",
+      "url": "https://files.pythonhosted.org/packages/5a/1d/f05028f52d237d491680d1c711fdd6236b3cd13880aef09da259c9dedba9/rebound-2.16.4.tar.gz"
+    },
+    "2.16.5": {
+      "sha256": "b5ed02ed84c9b131d4c0e0f289696a7d8553661ebc5a249d9756bcec70747b60",
+      "url": "https://files.pythonhosted.org/packages/88/e2/560d1ee04851624767bf332e4e09e17df5b7017b3bb30ded70f885c26502/rebound-2.16.5.tar.gz"
+    },
+    "2.16.6": {
+      "sha256": "cca60c5bdf9d1b6f50a4568c6353e1b324cec8a16433b93f86754e673e6b174b",
+      "url": "https://files.pythonhosted.org/packages/55/46/9222b4431d292b1ffd76bd952170fe6c32ea34c709d7763626250afe3f25/rebound-2.16.6.tar.gz"
+    },
+    "2.17.0": {
+      "sha256": "0340ee19354dac6e5e65e615ab3b13b73a8f4cbe626714ba970a44538fa30d36",
+      "url": "https://files.pythonhosted.org/packages/08/ec/47f19aaa0c7ed0d1eade94c5b264e6c91f7971fab8840a18f2ba28ee6721/rebound-2.17.0.tar.gz"
+    },
+    "2.18.0": {
+      "sha256": "991fcab6948fe84f0c9365591aadd4c30ec6f7e459634302eea597554238939f",
+      "url": "https://files.pythonhosted.org/packages/2d/a9/7b7b20d5a87ffb5def18143f671bc140266faa1533100074368c40b4cd04/rebound-2.18.0.tar.gz"
+    },
+    "2.18.1": {
+      "sha256": "b8f1ef7bcfd323f1627e959386f12f573f75d20c637612e572189555da001fcb",
+      "url": "https://files.pythonhosted.org/packages/27/d1/bb76808b79f2245e2f2ab829af36505e218f4351610d74313d9760304b79/rebound-2.18.1.tar.gz"
+    },
+    "2.18.2": {
+      "sha256": "9cb870741b2265e0dd864c2b01859d4e3ad70af08f846db940c826ac3a9894cf",
+      "url": "https://files.pythonhosted.org/packages/25/31/2983f9e4d26fdc071af2723cf61ac5ba0ecd3b634886c08a1bf9fb1e7480/rebound-2.18.2.tar.gz"
+    },
+    "2.18.3": {
+      "sha256": "f9927d48571bb474fa701482ac3560e12b087d2ccf1c54843a5e65cdbc0e85b0",
+      "url": "https://files.pythonhosted.org/packages/c3/bc/1d6808fec57e46f414c5b9bf0ccd77bf512157b69c883142c59ed70a5e4c/rebound-2.18.3.tar.gz"
+    },
+    "2.18.5": {
+      "sha256": "54af6c74eb157a64208db5706daafba29f94afe178dd9733b18782ae1edd39bf",
+      "url": "https://files.pythonhosted.org/packages/fc/90/7e5713b5a62b0d0c0f1047b304db349066f45dcbe4b93d8fea33cfed787b/rebound-2.18.5.tar.gz"
+    },
+    "2.18.6": {
+      "sha256": "f42b2c7c75bcfa391f784ac954e0ab90eb8465e3c234e3ca24ea6720b90cb6a2",
+      "url": "https://files.pythonhosted.org/packages/f1/e5/91281a927dcad07a8c0ec3a33c98d67a13c30a8bc79495d0c37db9c1c997/rebound-2.18.6.tar.gz"
+    },
+    "2.18.7": {
+      "sha256": "3af6232692024c16e3010f29c38c612bec770e740e826de2de12789e93e421b7",
+      "url": "https://files.pythonhosted.org/packages/54/83/ade28b4dc6c7bbdb6afa554fea5237ea5a686eeda39e807e6f2cc63bbe43/rebound-2.18.7.tar.gz"
+    },
+    "2.18.8": {
+      "sha256": "6906ccaca5652db14954a2c8fce0b4f6e496320719b214fd0993a36a24628f02",
+      "url": "https://files.pythonhosted.org/packages/7b/dc/9656299b7007861d4bfde13c34745c6c77dd1af496691a030703780c1822/rebound-2.18.8.tar.gz"
+    },
+    "2.18.9": {
+      "sha256": "7094edfd4424c58a4e2047cc4cfcaa64eb3b5c82ebcd158ad5b65cb3ab457ca3",
+      "url": "https://files.pythonhosted.org/packages/7c/be/9d35eaf575b7cfcff3c3aed3458a145307e3cc1152a4b4905b966c937126/rebound-2.18.9.tar.gz"
+    },
+    "2.19.0": {
+      "sha256": "51ef0efdcb5126ef3871cc736cb9224e1970ea8973d46c271d51d6f95f6d738e",
+      "url": "https://files.pythonhosted.org/packages/1d/93/f209f23a2e205a7d4ca3b90d1b25ce2d3dc1ab751b0b99105d8c53e36c8e/rebound-2.19.0.tar.gz"
+    },
+    "2.19.1": {
+      "sha256": "24dd43f226fb4f028f4ebf0022ea03c89681fcf91e6df26b0255f1299442d65e",
+      "url": "https://files.pythonhosted.org/packages/98/72/6b6b521645151400d683e16d79bced080fb34a4c345220d8e691e0dca285/rebound-2.19.1.tar.gz"
+    },
+    "2.2.0": {
+      "sha256": "86216e04e78ca315c3595b147863c1095051edec161eba598c23f2d6a67fae69",
+      "url": "https://files.pythonhosted.org/packages/34/5d/6f93ec5026135a4b5266be1a81550d55fa297588c72f558a9a5d258f0bf1/rebound-2.2.0.tar.gz"
+    },
+    "2.2.1": {
+      "sha256": "372d6f4a3b80d461d501a066a4b5c525684d16b1853103f24eae3d07ee49b96e",
+      "url": "https://files.pythonhosted.org/packages/0c/ec/3c91f8061afa7ec7d11d42bd3755ba8d16d30b1f12425e62c99bb86b43e5/rebound-2.2.1.tar.gz"
+    },
+    "2.3.0": {
+      "sha256": "560c66541e0a47eafe41d84b837502a59d9fc7ca281e0808dbc87c6c34cf1a4a",
+      "url": "https://files.pythonhosted.org/packages/80/b1/cc0f59fcf1400e4d2533cf20f17f6d715e157d61c472ffcdd9270b7af0d5/rebound-2.3.0.tar.gz"
+    },
+    "2.4.0": {
+      "sha256": "24bd759db0349cb3c5c72f2eb2fbd5d57774d7275a29c6221ee53d554f243a11",
+      "url": "https://files.pythonhosted.org/packages/27/8d/5568c9fc140651d286ddb4e23f954342593d7c24f603199d1b382ed70018/rebound-2.4.0.tar.gz"
+    },
+    "2.5.0": {
+      "sha256": "36837b31c6ecb4c78dc07182ffebd9bc96ad5653f4f3c2ab7a42e5f8a471e4a3",
+      "url": "https://files.pythonhosted.org/packages/fc/af/4e88f0a092e869f9617d44df2dd4882582f5e74219057a3aaa9e1f3f2764/rebound-2.5.0.tar.gz"
+    },
+    "2.6.0": {
+      "sha256": "049313032480d086398edeea26641fb8ed7f9b927aeb548978b9aa74254f6de4",
+      "url": "https://files.pythonhosted.org/packages/26/bf/47bd3395acafc75bdf77155cfbef373e7680f6aa74ef1b5004603c86a071/rebound-2.6.0.tar.gz"
+    },
+    "2.7.0": {
+      "sha256": "8b5e4fb9cf57ce9371cabc5fed990f308c34d202451b58a78ce9a185d2e93792",
+      "url": "https://files.pythonhosted.org/packages/3f/13/156103eb7005edc7202476d2d35bd69f95da98e5fb815dd2becc10950dbd/rebound-2.7.0.tar.gz"
+    },
+    "2.7.1": {
+      "sha256": "def3db565c5a77a00e18cc3873104f17db02b92ca392b36a92fedca3a8a0d0b3",
+      "url": "https://files.pythonhosted.org/packages/fb/06/839bf6e5ea6e3c2b0a04763be77d02bb1dc01f9abd1f1374d81da1853450/rebound-2.7.1.tar.gz"
+    },
+    "2.7.2": {
+      "sha256": "91e27d8505749a9d142aa6de35bb4fe79698a32ae50ef52652f3485de7ece352",
+      "url": "https://files.pythonhosted.org/packages/98/c0/2825b87af07e0211681440309459b1476d20a9f9b317ae24e9498766ccb7/rebound-2.7.2.tar.gz"
+    },
+    "2.7.3": {
+      "sha256": "0deea0d544b536729ab0517a8c32275133fbde5cadd7409d4b2e254e0e27592d",
+      "url": "https://files.pythonhosted.org/packages/84/87/22533f477c7d092690001514107e467064eb78d771cbafd48f41ff78c52e/rebound-2.7.3.tar.gz"
+    },
+    "2.8.0": {
+      "sha256": "d7ee35cbc67e02c174083a5643ce25ac28230c5bf65e869b062d1526b445685c",
+      "url": "https://files.pythonhosted.org/packages/b1/b9/a8a28ef15b88d8336902525ea982694e3bdf267a8bf5f8447f97e8fe7784/rebound-2.8.0.tar.gz"
+    },
+    "2.9.0": {
+      "sha256": "044689e208dbfed729d950ae5469887e996e663b38593346138f9d536a026c3b",
+      "url": "https://files.pythonhosted.org/packages/0c/df/826c6c06f825fa903e68b467f955719c83adf50f37a695a30c6577afd844/rebound-2.9.0.tar.gz"
+    }
+  }
+}

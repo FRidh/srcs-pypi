@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.7.7-SNAPSHOT"
+  ],
+  "meta": {
+    "description": "Avro is a serialization and RPC framework",
+    "homepage": "http://hadoop.apache.org/avro",
+    "license": "Apache License 2.0"
+  },
+  "versions": {
+    "1.7.7-SNAPSHOT": {
+      "sha256": "5de213b998f8925632e685ad32851e2a3ed4bfd52bcdc75f68b192c2389206f8",
+      "url": "https://files.pythonhosted.org/packages/03/07/9ba6803df5ed341bfbb02524f6861ee5e8087d491915146cfe0b642542a0/avro-python3-snapshot-1.7.7-SNAPSHOT.tar.gz"
+    },
+    "1.7.7-SNAPSHOT-rc1": {
+      "sha256": "41a996d58478d7b1776ffd8a3393bbd4253ecb381d78b70e92be8120c87f95c3",
+      "url": "https://files.pythonhosted.org/packages/18/db/e778358630e76cc6bfdc54558bdbedbdbb559288ba83756736aafdfc42b9/avro-python3-snapshot-1.7.7-SNAPSHOT-rc1.tar.gz"
+    }
+  }
+}

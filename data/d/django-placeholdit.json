@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "1.0.2"
+  ],
+  "meta": {
+    "description": "A fully featured drop-in replacement of placehold.it for Django",
+    "homepage": "https://github.com/stevelacey/django-placeholdit",
+    "license": "Copyright (c) 2015 Steve Lacey <steve@stevelacey.net>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."
+  },
+  "versions": {
+    "1.0.1": {
+      "sha256": "9847e1d63ebd59e255c70bfc2da942c1ba3c2e56927f8e2807404dbf54520366",
+      "url": "https://files.pythonhosted.org/packages/63/00/b9122323b460a2565552d1a6c2d5a0d9d427e373407108d79a5de78bf209/django-placeholdit-1.0.1.tar.gz"
+    },
+    "1.0.2": {
+      "sha256": "432b36aee8a36dfadc32e6198530b30459c27cdec741aec66907e6f428100dbe",
+      "url": "https://files.pythonhosted.org/packages/69/ef/5552c281e8c276244ee3103f18f2dfd20c145ffacd2771141ebac2d61668/django-placeholdit-1.0.2.tar.gz"
+    }
+  }
+}

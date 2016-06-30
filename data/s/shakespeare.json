@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.6"
+  ],
+  "meta": {
+    "description": "A full open set of Shakespeare's works along with anciallary material, a variety of tools and a python api",
+    "homepage": "http://www.openshakespeare.org/",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.3": {
+      "sha256": "910f53b3097b52538d7a429ba79e692702b54e75d4ee3f61e1edeb090fa1ada2",
+      "url": "https://files.pythonhosted.org/packages/05/ea/3304562a14cdaf6343d5c4defdf8968f35d2c5a47f4d6c32ecb23e945031/shakespeare-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "dfde235e8e350041034f9f4de9b2eda58e2171b98f9cbce09ddd698458f49b52",
+      "url": "https://files.pythonhosted.org/packages/14/f6/1e486fd9bc5acbd757ce90ff68d7daab8bb248fd6f6e4c0b48bd9baa4c29/shakespeare-0.4.tar.gz"
+    },
+    "0.6": {
+      "sha256": "f393d09d07ea4d0e19957838046b3601ad09e0a5bd1c5ad0454240eacff393be",
+      "url": "https://files.pythonhosted.org/packages/a4/45/699c3869c2590579d0ef89df3cbd28b17eb77a14dd9f1841c51cd7d4dc1c/shakespeare-0.6.tar.gz"
+    }
+  }
+}

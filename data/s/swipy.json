@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.5"
+  ],
+  "meta": {
+    "description": "SWI Prolog Python Bindings + RDFLib Store",
+    "homepage": "http://github.com/wwaites/swipy",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "085b80324fd22e4b3dc924a22167b5aae130e95f5900f411ad0cc3504ec2b9af",
+      "url": "https://files.pythonhosted.org/packages/c7/eb/18726b5be86df684f79bf180e9e179a150383db07e9263411f8b7b045605/swipy-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "9ed290120981f3b9d8a02b6578b27db8be83b91f6d2d72511208c233a627863a",
+      "url": "https://files.pythonhosted.org/packages/66/fa/ed9b90c18830c436b9e26d65f7696e228b7b3ac1775b2c87fb7e5e0d8218/swipy-0.2.linux-x86_64.tar.gz"
+    },
+    "0.5": {
+      "sha256": "3d570eaababa4f5f9be3053a02eab681398f1ee76f47db0f6a3ba40a07a9ad20",
+      "url": "https://files.pythonhosted.org/packages/07/84/44adf732ca43ec481a7b180f8e3b165a76dac563b5840e103d131aa4eebc/swipy-0.5.linux-i686.tar.gz"
+    }
+  }
+}

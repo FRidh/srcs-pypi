@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "django-authtkt is used to share auth between more than one django site (a kind of SSO auth)",
+    "homepage": "https://github.com/bearstech/django-authtkt",
+    "license": "GPL"
+  },
+  "versions": {
+    "0.2": {
+      "sha256": "caf7da1abb7c118416bbd5b121a8726c8f060f6f87d31f8956f6548e4b0a93d8",
+      "url": "https://files.pythonhosted.org/packages/ab/ba/260d3ba9e78de2bb625649c4701fff86d2103faf3b81eea611ea44288886/django-authtkt-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "339c30ff5da1500784e173c1cc15894e03d2e0270ddcf339ba7ca90ea6d4d652",
+      "url": "https://files.pythonhosted.org/packages/ac/c8/3736057656386b35f04f255cf384ba321c063317e971c605accb1063df26/django-authtkt-0.3.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.2"
+  ],
+  "meta": {
+    "description": "Sync pagure and github issues to jira, via fedmsg",
+    "homepage": "https://pagure.io/sync-to-jira",
+    "license": "LGPLv2+"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "452b3a5b38798b602ff7a5c539a7dff9cc8270e4cfd04832c433387af862c0db",
+      "url": "https://files.pythonhosted.org/packages/9e/07/f2bf1bcb0dc47665a24cd7f0d07ae0a891b5b1ee31ea40f48bf41730e890/sync2jira-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "60d649da41d523a6a65f8c0da0d420232e0f6d4fa5018cc3bc8560938986d56a",
+      "url": "https://files.pythonhosted.org/packages/33/d4/c7c00f0a4e253a04a7e4bbe2d5367755fb50d3101063476a2bd486094900/sync2jira-0.2.tar.gz"
+    }
+  }
+}

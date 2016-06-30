@@ -1,0 +1,40 @@
+{
+  "latest_version": [
+    "1.6"
+  ],
+  "meta": {
+    "description": "Push logs to S3",
+    "homepage": "https://github.com/m-messiah/s3logs",
+    "license": "MIT"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "9a75e5b2443bdfefdae9c7ae9f5253ef239064ee7f77399a213d1133f18d275f",
+      "url": "https://files.pythonhosted.org/packages/83/7a/9839f50f38076232590ee1d306d8490ebcca9134afe76347260d8426257f/s3logs-1.0.tar.gz"
+    },
+    "1.1": {
+      "sha256": "72d02e1a6846f150511c11a52a343f7877e36708bd44d7c2bc54e848bed81e48",
+      "url": "https://files.pythonhosted.org/packages/a3/7a/762baa0d50f0f415c65168a2475cbc962106ac9f9d478b86fe2bebf7f781/s3logs-1.1.tar.gz"
+    },
+    "1.2": {
+      "sha256": "a25a6d76ca3d8e3a585805452b73fdb04d19effa982a19d2adf0a0cfcfb2e27b",
+      "url": "https://files.pythonhosted.org/packages/f7/5a/c56124b911ea2566af1df1afd35248a60feea4d17ee16e0d89cd818633a6/s3logs-1.2.tar.gz"
+    },
+    "1.3": {
+      "sha256": "63784c914811922cde82c214e61a7b6fbed87f3357f7a2645fb4174f2b47f2d3",
+      "url": "https://files.pythonhosted.org/packages/f9/a8/412657fa703f3a1ecec04fd367f70726b3acf2078c220a1c92d875b2ef3c/s3logs-1.3.tar.gz"
+    },
+    "1.4": {
+      "sha256": "5cd691260978599d9bb8c07c83ff8168ee5ab80acd674a435dbb1b625a6a901d",
+      "url": "https://files.pythonhosted.org/packages/e8/78/2fa0ec41a8128b21fc4a334c4ce4bd2540f4d4ddda0dfdf72103f60cbcc5/s3logs-1.4.macosx-10.11-x86_64.tar.gz"
+    },
+    "1.5": {
+      "sha256": "9a8d4876707b748bab24f97853abb4eeda52fb2a22a74a6c9661c39afbcdbb94",
+      "url": "https://files.pythonhosted.org/packages/f9/4a/72535159cd598a2ab9cc344c95dac8477ec78c9baa030778d83fc6bbb7fb/s3logs-1.5.macosx-10.11-x86_64.tar.gz"
+    },
+    "1.6": {
+      "sha256": "2e87c98c397af111bd74b0b2bfd5d3bb48172d39d6961b0f4ce2d157a8cb30e8",
+      "url": "https://files.pythonhosted.org/packages/c5/f2/32d4042e9b680f672efeea3e2e979ba213143fef9eb5cd9f81e14b05b808/s3logs-1.6.macosx-10.11-x86_64.tar.gz"
+    }
+  }
+}

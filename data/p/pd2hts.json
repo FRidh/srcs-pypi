@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.1.1"
+  ],
+  "meta": {
+    "description": "Read and write Pandas objects from/to Hydrognomon timeseries files",
+    "homepage": "https://github.com/openmeteo/pd2hts",
+    "license": "GPL3"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "4b18c4bce5116a0ef5aa4a28dcfce977fc4d3566e4e23cb07ccae3657894e353",
+      "url": "https://files.pythonhosted.org/packages/ae/bb/71c01acc95f956b56eccc24496a0698216db179caacf37a3c9ae3d187641/pd2hts-0.1.0.tar.gz"
+    },
+    "0.1.1": {
+      "sha256": "8320b99912ce5fb54e8aa344ba84cf22da20695e2986cdc756749651dec2bb29",
+      "url": "https://files.pythonhosted.org/packages/cc/de/6a7657c38558d9dc3d590487941063cada1e9cbdadb598b43672789874ad/pd2hts-0.1.1.tar.gz"
+    },
+    "0.1a1": {
+      "sha256": "fa48c39a6bf47d372288bf91275f0fe5d86b2dfd52f95157f95c8635fd9a5fc5",
+      "url": "https://files.pythonhosted.org/packages/1b/00/3d1356b44f676a953221e0ef28e31d3de87855b20bd0afff20cea9936fcf/pd2hts-0.1a1.tar.gz"
+    }
+  }
+}

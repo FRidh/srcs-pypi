@@ -1,0 +1,768 @@
+{
+  "latest_version": [
+    "0.11.9.dev20160616212308"
+  ],
+  "meta": {
+    "description": "An extensible, easy to use continuous build tool for Python",
+    "homepage": "http://pybuilder.github.io",
+    "license": "Apache License"
+  },
+  "versions": {
+    "0.10.0": {
+      "sha256": "50d47a1a2b8e1a2b17c71ee228065983e1fc55d110d02fae3cfbada51873b094",
+      "url": "https://files.pythonhosted.org/packages/3c/39/3e4117e29dfd1330428eaa453e60d8fb213885474faf337c030df3f36415/pybuilder-0.10.0.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "75c19fafa624f4339bf005b8c5a1da978216ab59d165d29862ef25c369cc7323",
+      "url": "https://files.pythonhosted.org/packages/06/59/918fcef96995515b7801757d8987492bf031fd9eadc342c2608ec6bde314/pybuilder-0.10.1.tar.gz"
+    },
+    "0.10.10": {
+      "sha256": "61f74623c399b0b9713cea7781b2e2f6c2e1ee13543e1d9bc63edc0e6c055ef0",
+      "url": "https://files.pythonhosted.org/packages/25/0d/5dca9e325f0da38d8cfa7dfbfb0648ef791115693e4e1f9febc7e3d878d0/pybuilder-0.10.10.tar.gz"
+    },
+    "0.10.11": {
+      "sha256": "d84b9e117234699ebc50a2f6f2c189064c90229115991a4d2cc6d52a141a4e28",
+      "url": "https://files.pythonhosted.org/packages/00/87/29c08ece871aa668cbc9849f0e7418d71ea13cdd034178c17d958c3beef0/pybuilder-0.10.11.tar.gz"
+    },
+    "0.10.12": {
+      "sha256": "2a95c266aff1472d70e1b318aaa0be4d38dbc4412e6f6d88b92cdbae05db5628",
+      "url": "https://files.pythonhosted.org/packages/9e/c4/51a6e4b0a97b17dcfb0db950af74f585cff0fead93032db5518e549ece3b/pybuilder-0.10.12.tar.gz"
+    },
+    "0.10.13": {
+      "sha256": "690737e2812aac6c59dccff39c1fbce43ce037cd0fd39bbe3c410176c792009f",
+      "url": "https://files.pythonhosted.org/packages/20/8e/be448bcbca156bec08c31efd63f934e1bbe60de65f2196720857a1b1c26e/pybuilder-0.10.13.tar.gz"
+    },
+    "0.10.14": {
+      "sha256": "5197ff0c0fc45ff8f1e0b61bb3ebf561fbfa7ab29597c437cf1fc7dd24aa81b4",
+      "url": "https://files.pythonhosted.org/packages/db/cb/d553b47553a8383cab7c31d212b04d4369f1fec3bed91b8a926d912abf4f/pybuilder-0.10.14.tar.gz"
+    },
+    "0.10.15": {
+      "sha256": "ae98ae26211a237c699b480032a0c9fdf2edaf7f6a10136d612adb1ba9c5a16f",
+      "url": "https://files.pythonhosted.org/packages/96/81/14942d6bd2f3daefb79e00c5f16bd819b2a96d80a35d5685afb8c39613ef/pybuilder-0.10.15.tar.gz"
+    },
+    "0.10.16": {
+      "sha256": "c1279e4e8b1eaca9baff8cdb7d289072410fcb41f8547e6d7b055fa6a3edaf3e",
+      "url": "https://files.pythonhosted.org/packages/16/f8/22713e7db29db109e7f6938e8ea8371b35ffd5074e318812cf771bfdd8c5/pybuilder-0.10.16.tar.gz"
+    },
+    "0.10.17": {
+      "sha256": "67538ea153c59796be650257d8ab7f855d7656ae78a3bdbf71470a3d4aa11b3b",
+      "url": "https://files.pythonhosted.org/packages/20/74/518a0efcbbc7d1588015c53fd35209dd7b48241f2a17b8f720ea94b4e9fc/pybuilder-0.10.17.tar.gz"
+    },
+    "0.10.18": {
+      "sha256": "88f1fa442c10443279a48047c09848269139e2645b6fd3ee06aa665d330f738b",
+      "url": "https://files.pythonhosted.org/packages/0e/2c/e1bd3561160d4ce8a6798872f20ec38ea4ed2c840b7e3b50d87be46e3b31/pybuilder-0.10.18.tar.gz"
+    },
+    "0.10.19": {
+      "sha256": "5d0781bbc80fdf8ad4998e13023612cc0df62e2be8107065e8223168deadb651",
+      "url": "https://files.pythonhosted.org/packages/c5/fa/ced7d3271ea6655a61357a907f62a58e8da11da2cfb639d160be9a3df567/pybuilder-0.10.19.tar.gz"
+    },
+    "0.10.2": {
+      "sha256": "d721a1247730908dfc8672b632b3245418cfe996b64fa70a1c13c6d1eae74f02",
+      "url": "https://files.pythonhosted.org/packages/6b/1e/6e04e5844054c23ecad85bb5c94915fe2f9ecc9b590921a4e6d81ef5b711/pybuilder-0.10.2.tar.gz"
+    },
+    "0.10.20": {
+      "sha256": "0b529727157ed2af41b7aebdf65459b30e9f6ee3fd5247abed2a8d3b636c0e32",
+      "url": "https://files.pythonhosted.org/packages/9d/d6/e40e3d140a408e20d8d4f5b517016099d0099fa23869d7b0f26db33b4d42/pybuilder-0.10.20.tar.gz"
+    },
+    "0.10.21": {
+      "sha256": "3195c2e2c78a098d6add03c1760dda5aa5852190ea379a43387935dca3cc5332",
+      "url": "https://files.pythonhosted.org/packages/17/cb/1cbbb35c4f728986171cfa4999d317c93305459ae207cac5ff0228d8e09a/pybuilder-0.10.21.tar.gz"
+    },
+    "0.10.22": {
+      "sha256": "8ecb3baf7c1ff3ad5d0973d9ab484084ad83481cd1e509ad7cbbfeed7c83ac42",
+      "url": "https://files.pythonhosted.org/packages/7e/b2/54cd6848812aaffa97f9e59d5e1129808e662fcdb1015c2ebbedf9bbf817/pybuilder-0.10.22.tar.gz"
+    },
+    "0.10.23": {
+      "sha256": "96998cc4808630939d5238650ec35fba1d29c62be71251ba18013b1db9afe508",
+      "url": "https://files.pythonhosted.org/packages/dc/6d/d1d0d47be8b28d06561f7b0f0c83183e493afbca071122f074d983c85c97/pybuilder-0.10.23.tar.gz"
+    },
+    "0.10.24": {
+      "sha256": "8978e25c6502aead82290b2c26be88af0233d12ac8eaa2a473fc897940cdc641",
+      "url": "https://files.pythonhosted.org/packages/1b/36/338a8dbb0ca7ff47241ac6d309d3ca1b30dad6c18363e3c1a83c46068bd3/pybuilder-0.10.24.tar.gz"
+    },
+    "0.10.25": {
+      "sha256": "4ae9222992b543f5f59d96e24f7f33f4b39d293c2e8247d231c811b0533acb71",
+      "url": "https://files.pythonhosted.org/packages/ed/b5/fef35d877d68bfaf30028ae0dcc2dd8ef537214b94b47a2bf5fceba6c8d5/pybuilder-0.10.25.tar.gz"
+    },
+    "0.10.26": {
+      "sha256": "4c8c7df92865d6e543ebebfe7a0c1dcf3434b93a3c9fd41ad42e66665c90dc7c",
+      "url": "https://files.pythonhosted.org/packages/fd/56/6cc5aa5507e34a4b9ce87833e9cb0511b61c19cddba5ba80d4e1e8589d10/pybuilder-0.10.26.tar.gz"
+    },
+    "0.10.27": {
+      "sha256": "c5d5f16532c17260624cb8c1790ded474eb54a8b5102c6ae1f24e2fb1f7ef7dc",
+      "url": "https://files.pythonhosted.org/packages/dd/23/1896b1809b7b1875e8c0e31ab9df920b95602ec5129b7e2ebb9ea0039036/pybuilder-0.10.27.tar.gz"
+    },
+    "0.10.28": {
+      "sha256": "69a956a70b86cf786b7e6bd575116cc74857908cdd7165df674cbb65361815fb",
+      "url": "https://files.pythonhosted.org/packages/18/6f/9c24b1bac996ad5ec0c78ba00f7771dd30e6644585efda00743b26a8c63b/pybuilder-0.10.28.tar.gz"
+    },
+    "0.10.29": {
+      "sha256": "10d81112685dc596288957417c3aab61ae4de8180429fde6f3ef0a6f607bcd6b",
+      "url": "https://files.pythonhosted.org/packages/af/c2/a11d9702a6b362d945d97376714b231751fceadce077cfe945db4ff066ac/pybuilder-0.10.29.tar.gz"
+    },
+    "0.10.3": {
+      "sha256": "677f31074f2b43b9868f0339c24e56cb1057885079289390deec608a27b02a04",
+      "url": "https://files.pythonhosted.org/packages/62/79/a7c5e2d0e4af3f882345c53163383b7e7bb8513d54f2cab502f8da541abb/pybuilder-0.10.3.tar.gz"
+    },
+    "0.10.30": {
+      "sha256": "b6e048289a582ada7a6d20e361bef8b343cac05f8957ac39cf63dc08bddd2359",
+      "url": "https://files.pythonhosted.org/packages/cb/ea/b3a7c15bea12985b1af4d04316f2b88327f54179c710e120d2b97761f0a3/pybuilder-0.10.30.tar.gz"
+    },
+    "0.10.31": {
+      "sha256": "4003f8a4a1a03aaff91fb72619edd0e7f78c5317c1a30af84ba8c16478bc1052",
+      "url": "https://files.pythonhosted.org/packages/18/70/a5d1224a378152d2a81233bd790545658a0fa3e29014724d0466a00a7ffe/pybuilder-0.10.31.tar.gz"
+    },
+    "0.10.32": {
+      "sha256": "a8ddae71e85d6d1a73834fb80ed55cb7aed5b23507493ee424c5b92b044f625f",
+      "url": "https://files.pythonhosted.org/packages/e4/fb/ffc7d5020e98b1c9612972f39af67fea1efdd70d3a1d77c8bd88493c3473/pybuilder-0.10.32.tar.gz"
+    },
+    "0.10.33": {
+      "sha256": "1f0373bdf3a011b9112d9668014c04e4ba0eb9c80cf88032724b122d3e879580",
+      "url": "https://files.pythonhosted.org/packages/b8/f9/541bbd62d669b210cf61ae7eb76dc7e6f1037ef0bf877a88b662574017ad/pybuilder-0.10.33.tar.gz"
+    },
+    "0.10.34": {
+      "sha256": "28c7ff44579b60a68836403b5c0f2be56a57f9a46c88b64120133a31e27dd0e5",
+      "url": "https://files.pythonhosted.org/packages/18/4c/d5b601bd802de955762384439b7fc491dfe63a20423385ffce60be1858ce/pybuilder-0.10.34.tar.gz"
+    },
+    "0.10.35": {
+      "sha256": "4c952a54796bea7e7ed7ba83c174b14d635fe0dc7efefc744ee1fd5efa2396de",
+      "url": "https://files.pythonhosted.org/packages/7a/ef/3079042fc47b9ff63550972639144d01a404f303ef830633948e79b3ec3e/pybuilder-0.10.35.tar.gz"
+    },
+    "0.10.36": {
+      "sha256": "8fba74f615fff784e77b4181838c1aac1adb38be3cf1c14e2edb2fb4d800be73",
+      "url": "https://files.pythonhosted.org/packages/38/19/e4b0f57deba87f2247debd04c2c3acda3b93d4aec6354ac5e630732627f7/pybuilder-0.10.36.tar.gz"
+    },
+    "0.10.37": {
+      "sha256": "cb8510262a6822a5cf9f684f32cf34c9569aad279e903480f790258449b774f6",
+      "url": "https://files.pythonhosted.org/packages/b6/4c/8d26e0bcdde7ac5ba39597cbf496f1d6cbc34f4ac5b10ad17896ff7c98a6/pybuilder-0.10.37.tar.gz"
+    },
+    "0.10.38": {
+      "sha256": "e01f04c533e3ef0102d1f1b23729d9e43a88e270e1adacc4f57f281c3dee5cc3",
+      "url": "https://files.pythonhosted.org/packages/f8/43/c799cbd3746f1b3383b652d4c24a0ae0589f0e8e4b76d1172d89ea2061e4/pybuilder-0.10.38.tar.gz"
+    },
+    "0.10.39": {
+      "sha256": "6e3396017e0de2c9f30ce15178b8796b0fb0dc7e960f9c6ec2d6341ecf3d3aa8",
+      "url": "https://files.pythonhosted.org/packages/5b/85/e8abedd87dfaeff07dfd893fbb7f147754f3fd8739b0ed6956dee212c0f2/pybuilder-0.10.39.tar.gz"
+    },
+    "0.10.4": {
+      "sha256": "355943eeed28651ac6760e9b85c6779d8c930832f16deb302967f7eccff44afa",
+      "url": "https://files.pythonhosted.org/packages/5b/d1/0c945b0ae6e6e5ab20860823754155e7667e1b8634e85ada9df92045d61d/pybuilder-0.10.4.tar.gz"
+    },
+    "0.10.40": {
+      "sha256": "18a2151120a26fb1707d9aaf4508d6865db0ce7cfc32afb24c0dc855ed85890e",
+      "url": "https://files.pythonhosted.org/packages/a2/bf/ecbb216a66a5275bf3b7f2ba41b2b1763d76be522043f001965a7dc95980/pybuilder-0.10.40.tar.gz"
+    },
+    "0.10.41": {
+      "sha256": "75e3541dd15b6a461575699fb5920455683bce3137196234c6da06934dedaf21",
+      "url": "https://files.pythonhosted.org/packages/d7/33/bd019da1c5f2cfad5f0d6144b90770951637eaa07105ce787a3add7edb14/pybuilder-0.10.41.tar.gz"
+    },
+    "0.10.42": {
+      "sha256": "7bee12063868fe899ff445de6c287c11891d5afb1d8d48e61f65121270a329f5",
+      "url": "https://files.pythonhosted.org/packages/fe/c4/be31f0379c6b8552269973138b76f2478d18870a8b494ef7411eed8f3bb1/pybuilder-0.10.42.tar.gz"
+    },
+    "0.10.43": {
+      "sha256": "4bd0ae3fa78f40cd5a02302877869a226b011f223979ce98bf5e7676a346d1f4",
+      "url": "https://files.pythonhosted.org/packages/87/e2/0a5736507d6f04966adc4962b016b999dee283e86c9bf480c3849b20f699/pybuilder-0.10.43.tar.gz"
+    },
+    "0.10.44": {
+      "sha256": "e190587fa2fc841e36685a49386e3ebcbb05747d1a58cedf73895984a9e16f9f",
+      "url": "https://files.pythonhosted.org/packages/c1/35/ae4a2fd947dcd41d87c50af4c21496c5bebaface44a50950d10120027cc9/pybuilder-0.10.44.tar.gz"
+    },
+    "0.10.45": {
+      "sha256": "d0e9e2f3da580e0d5fec15edcd243decb4df071e13f97499ad519eb48bcdadec",
+      "url": "https://files.pythonhosted.org/packages/3a/cb/22b98ee6d7004fb452da1e200c6f86504a618c5ed661825271e5f8bda397/pybuilder-0.10.45.tar.gz"
+    },
+    "0.10.46": {
+      "sha256": "113e0191bf034b00107d6480862e262906549fbe8765934dd9ee7b17844bd4e7",
+      "url": "https://files.pythonhosted.org/packages/45/c7/705ed58b638ec1f2e9138776e7ebecd76449b4f5f722e8c339d604c7c97a/pybuilder-0.10.46.tar.gz"
+    },
+    "0.10.47": {
+      "sha256": "116d0781c70b7005507bd131edb92a64628a094cdc6018bc0cbcc9c57de63622",
+      "url": "https://files.pythonhosted.org/packages/6c/e1/564375ddd52bcc8fcff322802955ad41aa5926187f80895d6f3cdfcf0e6a/pybuilder-0.10.47.tar.gz"
+    },
+    "0.10.48": {
+      "sha256": "17d1c3cb925da806b1e07ece03957e0f65c5cdb391dcb675cb733636d6f59ca5",
+      "url": "https://files.pythonhosted.org/packages/5f/76/bad9334c80ab27e1c4460cb319a3cdcc59a563313cbb47273a80ba08efc7/pybuilder-0.10.48.tar.gz"
+    },
+    "0.10.49": {
+      "sha256": "57c871d88aa07ea03ac65e02c4ddc5cb2e3c4e3450dd4834cb2f3f2c6bfff7aa",
+      "url": "https://files.pythonhosted.org/packages/60/f3/baa462f0c4b1efc3f3917fa97292db167e3653161a56bfa7183fa7163276/pybuilder-0.10.49.tar.gz"
+    },
+    "0.10.5": {
+      "sha256": "f16e7cf52b5dad2405edb3c3545dbe6c6291e4256c436e27f95a37d650c262e0",
+      "url": "https://files.pythonhosted.org/packages/f4/e4/5837e939027327d9c707077299dd6388f418b28d6ea7d605fab8ebb45dbe/pybuilder-0.10.5.tar.gz"
+    },
+    "0.10.50": {
+      "sha256": "6a0000115f4183ef686c7caf8f0887932c0f49f8407135a78648ea4554768aaa",
+      "url": "https://files.pythonhosted.org/packages/70/04/cab6324d81e8d2523f276e199cf7ebb3366271dfba1eb4165972c3544004/pybuilder-0.10.50.tar.gz"
+    },
+    "0.10.51": {
+      "sha256": "df9265af92e676c7f79651216b792f3ba1a66f49aaf87cacdcb82f50b2ca35b9",
+      "url": "https://files.pythonhosted.org/packages/86/39/d738e882889cd7cde88a2cfa6156d46b6e80d648120c5e5d16415371b751/pybuilder-0.10.51.tar.gz"
+    },
+    "0.10.52": {
+      "sha256": "9e085afd32938d13464e5b38ab52ae3a583396a45b037f8bcb741acb033d5a89",
+      "url": "https://files.pythonhosted.org/packages/e6/48/b07f07caa2a593fcdbccf9139e361e789255b32a5f2dddc38384624958a7/pybuilder-0.10.52.tar.gz"
+    },
+    "0.10.53": {
+      "sha256": "ee37367b87aa678b5e2996716fed6ca5882d8212a4cffa6688cef47b108b5e60",
+      "url": "https://files.pythonhosted.org/packages/b6/cb/92bff5be2d9c8845bcc7bc16ab8b70711a282e8b6c1383fb058d66d87eea/pybuilder-0.10.53.tar.gz"
+    },
+    "0.10.54": {
+      "sha256": "4d8d47461b35d91d2237eb1bd249c454b1742b08f1d39f84344412474f310e8d",
+      "url": "https://files.pythonhosted.org/packages/a3/36/84d05d893ac6b22063ec8b7cb461687aeba05677144989b75108e9ae023e/pybuilder-0.10.54.tar.gz"
+    },
+    "0.10.55": {
+      "sha256": "5cb60f321b4babc23d33501bed0160ec8064a5e767036c14d8419dc359bf74d0",
+      "url": "https://files.pythonhosted.org/packages/3f/11/5e855c66e406ab89f7d7b3db0c0585befb4837e3f557c5601225f3621820/pybuilder-0.10.55.tar.gz"
+    },
+    "0.10.56": {
+      "sha256": "bad5bab674c58712a88a9b2bf029a8465329f3d959a55d33c2b6cd8b06ba24b2",
+      "url": "https://files.pythonhosted.org/packages/a3/34/658b42a5e86404fc51928306c52b88569fb3b7d152c68e07dc5c79aae7ec/pybuilder-0.10.56.tar.gz"
+    },
+    "0.10.57": {
+      "sha256": "d272356b99de586f6a341703e4823942bd7714f64509827208ccc766ee5f5ea3",
+      "url": "https://files.pythonhosted.org/packages/02/78/9eb3fb672fdfae2f73d6acc3e06342a779c4b0af26151f8619d50aa934f6/pybuilder-0.10.57.tar.gz"
+    },
+    "0.10.58": {
+      "sha256": "846a021b37c91de646f1741309423c2d2bada07d87975cf3f12b3fcbb8bd2802",
+      "url": "https://files.pythonhosted.org/packages/07/cd/f076394f9175a0bfbf9625a9eb1ea0b064284c1e492d6dbad848cd68e09b/pybuilder-0.10.58.tar.gz"
+    },
+    "0.10.59": {
+      "sha256": "1eebcb78b23c9715a1f6785f34b8886c2b4f94342ec2ef8c06347c917ae6002c",
+      "url": "https://files.pythonhosted.org/packages/17/2a/0f74ce12d8b77d7f778fbe2ba23db918380b52be5bd5a3b636c4a1ccb191/pybuilder-0.10.59.tar.gz"
+    },
+    "0.10.6": {
+      "sha256": "f9f096cc8460425e524106b3df1e3c197642e448fd8c53cf7caeac41d0ffc619",
+      "url": "https://files.pythonhosted.org/packages/e5/74/faecbb389ce8c671db2aa2ca9d021c1b728869e66eb81e9d46c1f9d5d668/pybuilder-0.10.6.tar.gz"
+    },
+    "0.10.60": {
+      "sha256": "e1cd734cffc0ff670a00a59b44c68abea643324e6926124028eb571776c18e97",
+      "url": "https://files.pythonhosted.org/packages/01/d0/e034d8daf27c6db374383df0aa7ad729d91c01f072c428d3a29c963cacf9/PyBuilder-0.10.60.tar.gz"
+    },
+    "0.10.61": {
+      "sha256": "7efd20b471e0dcf4a583ab43902b75fa4c55db139e331f07da33d195a78f09f0",
+      "url": "https://files.pythonhosted.org/packages/98/05/58cbedef7ce84c231b99bdcca308755537ccdddc7286d7c0f7ca8367c521/PyBuilder-0.10.61.tar.gz"
+    },
+    "0.10.62": {
+      "sha256": "60878b53f3ff21baa9ae379954a5b6a0dadc25bf8ca2b19213e6477d157afdd5",
+      "url": "https://files.pythonhosted.org/packages/87/2e/afdec45b4913b8fc16bbc8a79cd32a7b77783c252abc7adb29bddf335dec/PyBuilder-0.10.62.tar.gz"
+    },
+    "0.10.63": {
+      "sha256": "50d11b72f0fa58e30ad0c38b3a17b99566f7b508318e9fd5ea599b7bfbe83115",
+      "url": "https://files.pythonhosted.org/packages/af/b9/6d9516f2910ea17c39846c85f065e544cf25ed451339de17e79238bd9af2/PyBuilder-0.10.63.tar.gz"
+    },
+    "0.10.7": {
+      "sha256": "379a4b0ce7689f1d66a6fdc48202209db78ffdf93cad38a5bb554e593434a104",
+      "url": "https://files.pythonhosted.org/packages/a9/c7/809e406552a5902a2efddf984411f98497e4904f1c9b36902038edd2d85d/pybuilder-0.10.7.tar.gz"
+    },
+    "0.10.8": {
+      "sha256": "a32058551849c56e35ddb9aadf26c5ee52f3e3ebfe3bd68630a25b0f9e7b2fe5",
+      "url": "https://files.pythonhosted.org/packages/9e/26/6f04c366ff08c831e858efca3e0d94f529236c6297ea7a2f7fcf7ae4cbf4/pybuilder-0.10.8.tar.gz"
+    },
+    "0.10.9": {
+      "sha256": "a5d972a88d8ac6ab1ea7e0020f5c1a31f90c9c1da160af6d19a11e961ca829e7",
+      "url": "https://files.pythonhosted.org/packages/6c/07/e7433ce8b1bb1085e8a275c284188859d09056e7ffb8dfda8e75eb48cd1f/pybuilder-0.10.9.tar.gz"
+    },
+    "0.11.0": {
+      "sha256": "594065f406cfd84ff4d883d97bb1d6e8f47b680a6790be1467811b10cb135a5c",
+      "url": "https://files.pythonhosted.org/packages/f0/a9/235b577f6cc36fec27d1828397aec58625a6fe37e3a98fe2a6a5a44da52a/PyBuilder-0.11.0.tar.gz"
+    },
+    "0.11.1": {
+      "sha256": "d1a82afee541275cfaaa51479515e800ab28d23ad2607ccb5581c9b6ac113cbd",
+      "url": "https://files.pythonhosted.org/packages/12/7f/a4ad51b3b59af9164c6894aa1827c820b4c469e4d60f26cb00df0d45e195/PyBuilder-0.11.1.tar.gz"
+    },
+    "0.11.2": {
+      "sha256": "311900bb7062a87a0302e2f544ef30aa167d22af9bfd3269d818f6d278d60d0f",
+      "url": "https://files.pythonhosted.org/packages/c3/67/a14db4be3c233ac610cef384a3981ac3ae3dce1cd86ef64308811d72e1f0/PyBuilder-0.11.2.linux-x86_64.tar.gz"
+    },
+    "0.11.2.dev20151016141748": {
+      "sha256": "c9e197ac99964016157301464cb3357465caa2c9da168f4c5999d8df3dc0924e",
+      "url": "https://files.pythonhosted.org/packages/64/fa/2e34ced83222430300e46cbf28cc035b04aed695e3d3207139a8930145a3/PyBuilder-0.11.2.dev20151016141748.linux-x86_64.tar.gz"
+    },
+    "0.11.3": {
+      "sha256": "eceaf699fae8a45afe24293371ea2a451734c5f0826d7b3a5961c48eeb11ab2a",
+      "url": "https://files.pythonhosted.org/packages/b8/e1/71fdcaa0aec3c194bf25fc09e204ba38b6c7a1d80aba87f671469f6ab6ef/PyBuilder-0.11.3.tar.gz"
+    },
+    "0.11.3.dev20151022121841": {
+      "sha256": "aecba663d4416cdf1d64ac2c2553ee586de55bf4f9b136e105bffc43e9073737",
+      "url": "https://files.pythonhosted.org/packages/88/a7/cac8d5a8401f85b2d7f0d8523e385c35e6c881882429b8cf9b57cf8c360d/PyBuilder-0.11.3.dev20151022121841.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151027182948": {
+      "sha256": "47bed3ce74de1bcb0e899b6dc53fe2ab75821d66b895119997587bd0f4f62224",
+      "url": "https://files.pythonhosted.org/packages/bf/5d/6b033f78dc09e585934f1847d0e2a9e9a1c9722e39a9bc351de897ec81e0/PyBuilder-0.11.3.dev20151027182948.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151029132911": {
+      "sha256": "cac7f6815ec65cf423f8e9fa5dd8b6859e05baed12160e28df476d091219b3d2",
+      "url": "https://files.pythonhosted.org/packages/7f/32/05749a60fa237c2a56cbaf8a5ee694bdbeb6c6484705cff6cb68dfa59d52/PyBuilder-0.11.3.dev20151029132911.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151103133359": {
+      "sha256": "6ee520fdf09d9ab09d425ddcc7c5ead0a22f4d8c51cc91d86d5f2a99702d4c16",
+      "url": "https://files.pythonhosted.org/packages/a9/b7/9e02828454d36776a610f399c7cf0caa11b2c1a8b34f3f34ca630c9c25af/PyBuilder-0.11.3.dev20151103133359.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151104233318": {
+      "sha256": "a518bfa9efe5a74e30a329cf977700a54202d966251d68060040fccfd6a16a0c",
+      "url": "https://files.pythonhosted.org/packages/06/d5/04597237e73a5b91b84d1e0a43bec91ff8734067a5d0664d7c69c2ccdfaa/PyBuilder-0.11.3.dev20151104233318.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151105183948": {
+      "sha256": "48abe00d56379ad5f71c07d575497987b7f0e0fc5724ddc73840d363b6361ac3",
+      "url": "https://files.pythonhosted.org/packages/19/75/d304ad05bf7efd31a17f8e8ee32dcfb54c428ba2850ddfbb3c80a1ae99fa/PyBuilder-0.11.3.dev20151105183948.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151106044629": {
+      "sha256": "d7a92a3036755dfed5c5c6c074b2dc98d10eb0b82616e433f354ea16f798594a",
+      "url": "https://files.pythonhosted.org/packages/7f/2b/01195cf4ca3ef7153ec95c880029a9d205aa5d25b8fbcc4745095ae02a3c/PyBuilder-0.11.3.dev20151106044629.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151106175530": {
+      "sha256": "025ddbe2286d692437b5dc750d0ab8df3045e4d7a912a146917275f8db60aa58",
+      "url": "https://files.pythonhosted.org/packages/8c/9b/de46581b5136249e163a10ddff5a78b48188922f68bf94e32cd6a3a19e02/PyBuilder-0.11.3.dev20151106175530.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151106175655": {
+      "sha256": "f4f81b70e8c4bd5f0585ef5a705ed13b5dea386ed745b77f7322f254770525c3",
+      "url": "https://files.pythonhosted.org/packages/dd/0a/324df7c540d11cba317b5b1d280bb965478759a18b6ccc7acc27bad35d2b/PyBuilder-0.11.3.dev20151106175655.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151106182202": {
+      "sha256": "d09e352e7eb226e479eefb492a4c622cfe44482289f385417434710d414cd632",
+      "url": "https://files.pythonhosted.org/packages/52/53/88e891beeac014608bf46f00d6beee8bb6a1ef35b55dcccd22e8ebe1580d/PyBuilder-0.11.3.dev20151106182202.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151106182410": {
+      "sha256": "a89fef832fa38154e3f1b8c85b6d89a86f5d7f404dd8df8eb369fec88cf88b21",
+      "url": "https://files.pythonhosted.org/packages/b8/2a/ac135a7e3a8cbc16bc41cf69ac7501e6968a9e9893b0f95589ceed2ddbce/PyBuilder-0.11.3.dev20151106182410.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151111033537": {
+      "sha256": "074f3010845a0ab747e10d6a59a8c68593eacf366cbc55a0405cc5719e0ac9a7",
+      "url": "https://files.pythonhosted.org/packages/28/45/1b784960e33942f584c948e1b0130f2a478586206834002bc95a06187c21/PyBuilder-0.11.3.dev20151111033537.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151111220224": {
+      "sha256": "91be2afd327479f8fe4827365bb93e5d974ffd74297b1f5d262063a16d5d041e",
+      "url": "https://files.pythonhosted.org/packages/41/39/e18a2d914348d1403eacfb170600c790165597abd3d5aff1382fade0cef9/PyBuilder-0.11.3.dev20151111220224.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151112204412": {
+      "sha256": "9456b446d7f3529b6a53a8f35087e51a2c06f4aade3778a5e5d82dcfbfd326c1",
+      "url": "https://files.pythonhosted.org/packages/82/72/32db98c97ecb823510e2a8b5809e9ebb95c7d7730777cb956f83a358a161/PyBuilder-0.11.3.dev20151112204412.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151113125756": {
+      "sha256": "0a29de871733c1927cacba9b53ec1dcc915bf3f80ec06523ef0c205cd797d0df",
+      "url": "https://files.pythonhosted.org/packages/7c/fa/b771fb6ee13875614f5ebcee116b809dcf97ac849dbbad64bab4b5f2c89f/PyBuilder-0.11.3.dev20151113125756.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151113202900": {
+      "sha256": "fbf65afc034818fcb55db2a0beccda5ef2ba4c2c903f3f695329e0db7b6404e5",
+      "url": "https://files.pythonhosted.org/packages/6a/87/6ac3b1aad87bfbf9d36a653efdf89c876a53360ffc369b225126cfd3e82a/PyBuilder-0.11.3.dev20151113202900.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151113203515": {
+      "sha256": "0f6bc47c8d967e9286d390923013d1abeb8e6bc5889b45c97ead3a37a23d6944",
+      "url": "https://files.pythonhosted.org/packages/41/02/4605cbdcc2e679fcadf2f3a8d881fa406dee7ba33d6c8c40b8a6a89f081c/PyBuilder-0.11.3.dev20151113203515.linux-x86_64.tar.gz"
+    },
+    "0.11.3.dev20151114112735": {
+      "sha256": "806d674f4318c5c66db0bc8486242e08af2c1151ed5c19d52b8b237f98511b13",
+      "url": "https://files.pythonhosted.org/packages/cb/ae/8276f44a7a53cbc9c2e72efef4fb4dbf672d9838866e1c7cfa43d45b4ff6/PyBuilder-0.11.3.dev20151114112735.tar.gz"
+    },
+    "0.11.3.dev20151120125739": {
+      "sha256": "88f2664d2b57728704831e234272f4928e9f88f2a556953b2764cbeb91a915fb",
+      "url": "https://files.pythonhosted.org/packages/bc/91/9a58d5b84582ce818e20f9719b43e64898009f35d5c879b56c2797099ca7/PyBuilder-0.11.3.dev20151120125739.tar.gz"
+    },
+    "0.11.3.dev20151121180006": {
+      "sha256": "cabeeab7acf41d093f6693553c15e07356b9ca35bebe95b570921826d1e05942",
+      "url": "https://files.pythonhosted.org/packages/33/93/ee5aaee70e9ef39e26be50582f30f3a9da3246266dd7188adbdb60eb0c91/PyBuilder-0.11.3.dev20151121180006.tar.gz"
+    },
+    "0.11.3.dev20151123161642": {
+      "sha256": "fbc582351fd0d0f5d405a69acabcae538de149711e977414c48b83eb21c4d4dd",
+      "url": "https://files.pythonhosted.org/packages/c1/9f/6dc3acafe6148806a2157befc3f475b21d2fadf8d09aa2cf09c332a700b8/PyBuilder-0.11.3.dev20151123161642.tar.gz"
+    },
+    "0.11.3.dev20151123211844": {
+      "sha256": "3d5301343dd82615a148e659f2304ece3b0f354ab29ae51eb6ccc1f150388dac",
+      "url": "https://files.pythonhosted.org/packages/7d/d1/b301990e44fec07b60f16810e61c01dfd8e4cf1051027a6a74e6d1e64000/PyBuilder-0.11.3.dev20151123211844.tar.gz"
+    },
+    "0.11.3.dev20151123213047": {
+      "sha256": "e7c0096eb99e51b3b199663ff49e3e4e77fe3ceebab48dd97fa075eba82a1d3f",
+      "url": "https://files.pythonhosted.org/packages/6c/de/c23760bfb1a6d8586c8679fb90929a084f66d0d6791afee43812fee4b3c5/PyBuilder-0.11.3.dev20151123213047.tar.gz"
+    },
+    "0.11.3.dev20151124060943": {
+      "sha256": "6c8ea337898e5b9867209bb9bc8951f34d7a60cc2483484a245495c3e5060be6",
+      "url": "https://files.pythonhosted.org/packages/86/73/933a80e4285600d6ab1731858e59dbd8992ac34d93a4a877be78b305cb50/PyBuilder-0.11.3.dev20151124060943.tar.gz"
+    },
+    "0.11.3.dev20151127024752": {
+      "sha256": "52cd125416b15f84b450a91aff93b7f9695a27fcfc4253fad8e5675391522c63",
+      "url": "https://files.pythonhosted.org/packages/e5/96/e83e5bd6d649757907f93806e46c1daa1fbc51fdd0d08bb369fec628fb43/PyBuilder-0.11.3.dev20151127024752.tar.gz"
+    },
+    "0.11.3.dev20151127024924": {
+      "sha256": "fc58112c74f210e77528b6905838d3f01e4488e43c78652c513ae32b5f038a8b",
+      "url": "https://files.pythonhosted.org/packages/c8/58/5926a67804b37be5601aec8f19d8d6de8473733a03c67bef09eac2419c8f/PyBuilder-0.11.3.dev20151127024924.tar.gz"
+    },
+    "0.11.3.dev20151127203045": {
+      "sha256": "e3e42d61a98f605d59126a072e5e440bf5cd892952dfdf73a954240a65e4c1b3",
+      "url": "https://files.pythonhosted.org/packages/7f/ef/b3aec0ab4c9618c58a9ec807b6c0d79b3f4b54ac3c1f3eb871ef11d6ad5d/PyBuilder-0.11.3.dev20151127203045.tar.gz"
+    },
+    "0.11.3.dev20151128112637": {
+      "sha256": "db1ef60eb45eff162a6c328b5d36e25f9821f98ad5d25ee07c0ecb94c46885ca",
+      "url": "https://files.pythonhosted.org/packages/f6/a6/4e246790c12a77265261786aac602afa910985703951bdd59d5c5de44eb4/PyBuilder-0.11.3.dev20151128112637.tar.gz"
+    },
+    "0.11.3.dev20151128114423": {
+      "sha256": "82ee010f0036dbe326a1506701375c07125385fc3d94c3a0445030ff4731013d",
+      "url": "https://files.pythonhosted.org/packages/88/1d/79b0770ca11e68e1f45a05a9810f08b4df709961960b02daab2d2a6fd98c/PyBuilder-0.11.3.dev20151128114423.tar.gz"
+    },
+    "0.11.3.dev20151130225131": {
+      "sha256": "6cc19d5dfaac3f6ac4298ac5ad754e665f3efe871f86391ffa552a4d091a58df",
+      "url": "https://files.pythonhosted.org/packages/84/90/655d081bb2b2f5d1635de2adb70300ed4580751ebe7b949210e304b4fe56/PyBuilder-0.11.3.dev20151130225131.tar.gz"
+    },
+    "0.11.3.dev20151201235650": {
+      "sha256": "9e0bd60c6164ecf3adfd8e14bc2573b5038bf4006942c84487645d1ab0f5603f",
+      "url": "https://files.pythonhosted.org/packages/ce/97/fa519753ce325773a7bf657ee8afcc4f9c39a02ab5aa390e596480807262/PyBuilder-0.11.3.dev20151201235650.tar.gz"
+    },
+    "0.11.3.dev20151203064552": {
+      "sha256": "0e0aae5b889dae1cc80b2e98dd4f3ba14258d122aa3ef83f91d6a4b1bc4bba48",
+      "url": "https://files.pythonhosted.org/packages/a6/ba/6757cc98e8d7acb879122ba1e8a1a6e4fde6744b6c7b4b8ce938a4619481/PyBuilder-0.11.3.dev20151203064552.tar.gz"
+    },
+    "0.11.3.dev20151204075835": {
+      "sha256": "7bec632c3665a2927b62df2a7a605bd9290efc9039cd04dce1acbfd4b618c2ab",
+      "url": "https://files.pythonhosted.org/packages/41/dc/ae38257e8170c1b37c4d21d6dabd91e7ae0f2b00c56dc3e3c1580cbc580f/PyBuilder-0.11.3.dev20151204075835.tar.gz"
+    },
+    "0.11.3.dev20151204105758": {
+      "sha256": "4a3937ef6c7d4597fa10df82c8d845ca0ee7daf8645c1f39283668d1b8c096d1",
+      "url": "https://files.pythonhosted.org/packages/da/ea/276bb653bee46d19569e47f6ddd0174c4f035f046e415c0b297b43374f09/PyBuilder-0.11.3.dev20151204105758.tar.gz"
+    },
+    "0.11.3.dev20151204134832": {
+      "sha256": "6f6db6184777c1a584d93a5cdb5b0470644f413762a0dfe29041bccc98262ac5",
+      "url": "https://files.pythonhosted.org/packages/05/69/4c3516b98426c6a148e6b982ca6f8abf65e741542be113f8f91468fe7a37/PyBuilder-0.11.3.dev20151204134832.tar.gz"
+    },
+    "0.11.3.dev20151205062433": {
+      "sha256": "c9f62c74ce5c81b0d3e2191b5a74c1b183c27bb54e3d9bca6b9b19cdbe4efe3e",
+      "url": "https://files.pythonhosted.org/packages/a7/48/23daa34e20379adba02f43e4e0cb048a7fccd7e3acb2867235a9ef1ce031/PyBuilder-0.11.3.dev20151205062433.tar.gz"
+    },
+    "0.11.3.dev20151206194809": {
+      "sha256": "f2065e1bce237fecac58d5978126c6df081ceee1af41c6a7abfcbce1faef9875",
+      "url": "https://files.pythonhosted.org/packages/ba/d3/8b185bb57fe63a451df385fb7415a44ecb47f03329fc32830ef8e621601c/PyBuilder-0.11.3.dev20151206194809.tar.gz"
+    },
+    "0.11.3.dev20151218041700": {
+      "sha256": "0078aa04427bd73a764585ba90be5339eea34059990642f7aaaf4203b14c9402",
+      "url": "https://files.pythonhosted.org/packages/97/63/6b13a45535ae7bb3fcae65b3c37a093127d7737e7938952ad4be122b0523/PyBuilder-0.11.3.dev20151218041700.tar.gz"
+    },
+    "0.11.3.dev20151218121613": {
+      "sha256": "5e82c6ca0c8c531a6f6d84dbcc7d2274b1249895425f20dc46b684cd508443a1",
+      "url": "https://files.pythonhosted.org/packages/a1/eb/9794d78644f13d0a0436592083aa8541c6d6431bc748896e86d2ebb19371/PyBuilder-0.11.3.dev20151218121613.tar.gz"
+    },
+    "0.11.3.dev20151219185848": {
+      "sha256": "85b2fe1790bdf593fc7754124a5dea625db71469eb414df52426dd724f75473a",
+      "url": "https://files.pythonhosted.org/packages/c2/22/6a047a47782c63946699bb42787c367ab328c9983a422451328588f76081/PyBuilder-0.11.3.dev20151219185848.tar.gz"
+    },
+    "0.11.3.dev20151221184221": {
+      "sha256": "784fb80cdbcfc292a3ee87a12f251d24570b7cb68cd35a42825aec84b6c696f4",
+      "url": "https://files.pythonhosted.org/packages/ef/65/d0e4717adb9e94c54deda915913d391bbe769e786ed47c4276cc9332aa40/PyBuilder-0.11.3.dev20151221184221.tar.gz"
+    },
+    "0.11.3.dev20151227033129": {
+      "sha256": "859276666302e236e336e2336301b6a59726895bafad9235d600696a2c33068b",
+      "url": "https://files.pythonhosted.org/packages/85/77/ae03022e94c65b5cf6625b7ba6b727cbfe3c7f3622b2c5f215723a1a681f/PyBuilder-0.11.3.dev20151227033129.tar.gz"
+    },
+    "0.11.4": {
+      "sha256": "1d79d03f126de3d22a427090d8fc58f36aa03346b51bb46d9471036920787005",
+      "url": "https://files.pythonhosted.org/packages/3e/ce/cb419cb1e7febe2ac3eda10da484662c71c7b82c77ae156a5f103e530d93/PyBuilder-0.11.4.tar.gz"
+    },
+    "0.11.4.dev20151229071718": {
+      "sha256": "a2b91e719c2c64c038603d0839ffcf58b83204ee78c7c4716a287a6dd3bcf99c",
+      "url": "https://files.pythonhosted.org/packages/ef/29/dc20be3a5201c2c74369a1f3c45237afc4ced10cdcb927abc4d12af5eb5b/PyBuilder-0.11.4.dev20151229071718.tar.gz"
+    },
+    "0.11.4.dev20151229084350": {
+      "sha256": "2e5a539bb4635d1bc023e7d0417ff989bf1c5ece1632a0adc13133f47ca9dba0",
+      "url": "https://files.pythonhosted.org/packages/24/48/bcb6e7f96a2fb028099094e01beebb8fd838f8cb09f832672a56b708671a/PyBuilder-0.11.4.dev20151229084350.tar.gz"
+    },
+    "0.11.4.dev20151230092131": {
+      "sha256": "091e31f1240f0211dbaef32ee7aa86376f8dffe5b21ef733d10d8aede944de3a",
+      "url": "https://files.pythonhosted.org/packages/d7/34/f8009740e33220862e74b6790f6119a377f266baeb417fb643143e65ad31/PyBuilder-0.11.4.dev20151230092131.tar.gz"
+    },
+    "0.11.4.dev20160108175801": {
+      "sha256": "31c244718c864ac3d895f765761abc7f3a2b1e8a41c31e9d708dec962aa78294",
+      "url": "https://files.pythonhosted.org/packages/ba/70/ce6a221d60ef8b08fce3713cac557019d65a1418a488282a574bc6d80731/PyBuilder-0.11.4.dev20160108175801.tar.gz"
+    },
+    "0.11.4.dev20160112154339": {
+      "sha256": "02286684a4dd083aefb601763a7214b6ad45462e214b74b5e91fdf42e61c061f",
+      "url": "https://files.pythonhosted.org/packages/0f/e6/9d8509d2f2c424483a5248775994a9a84a3e48bb045ea4acd9a7d038f91f/PyBuilder-0.11.4.dev20160112154339.tar.gz"
+    },
+    "0.11.5": {
+      "sha256": "1134e3adb2f844e29dc3c022b18763c95780d20caceafc8bcb6f58ea7a67a904",
+      "url": "https://files.pythonhosted.org/packages/3d/9d/1e9a4fbe52ffe10efa33fde6d3d496294deb96029cfc61639702499cd4b1/PyBuilder-0.11.5.tar.gz"
+    },
+    "0.11.5.dev20160115122502": {
+      "sha256": "70e71c8eb7bfe3e5799c92aade26834d85aab53a8d656471d24334b5eab7a6dd",
+      "url": "https://files.pythonhosted.org/packages/97/3a/7c15d451f125c77d1dddc2c5c0097ea0df73babc4e8c133e2216db5040b2/PyBuilder-0.11.5.dev20160115122502.tar.gz"
+    },
+    "0.11.5.dev20160124090533": {
+      "sha256": "b17b7a1b8d8825790e3e30bbc0528a0f5920d6e437ef2e541a39c67a22c28125",
+      "url": "https://files.pythonhosted.org/packages/45/f9/b2a6667d3ffe6c5d3772b6bd730f7feaad27840eda5c1c14037730c18ef5/PyBuilder-0.11.5.dev20160124090533.tar.gz"
+    },
+    "0.11.5.dev20160125160434": {
+      "sha256": "931df912ed3fc027d2e0460ea41cd3042ccf85e05cba9a2f547da54575ff2666",
+      "url": "https://files.pythonhosted.org/packages/ca/7a/29b0198aa34a8c2505f8b74d8e22bcd3193af2b81b19b08b5a03923d24aa/PyBuilder-0.11.5.dev20160125160434.tar.gz"
+    },
+    "0.11.6": {
+      "sha256": "54f7b4cfaa4601af66f8ee06e6455e6196fc080bfd47c9301b7c9128dfba3e4b",
+      "url": "https://files.pythonhosted.org/packages/8f/fe/35666614959654c7d6f49c4b12b8743599e6f4b0b154b3138b9d8d4291bd/PyBuilder-0.11.6.tar.gz"
+    },
+    "0.11.6.dev20160125161221": {
+      "sha256": "c05259900b15b42024a71442449aac9782abf8ce5488b914ef70d6aa4d40aaf5",
+      "url": "https://files.pythonhosted.org/packages/66/da/aa53b29a6134ec9f5c073b1a2a9a1091b943246a901be16455aa7aef2c2a/PyBuilder-0.11.6.dev20160125161221.tar.gz"
+    },
+    "0.11.6.dev20160129104253": {
+      "sha256": "d982e97f51e32f213c2c9ee9b8874a55ec7e301df80f8e63c79e2c2a17de131a",
+      "url": "https://files.pythonhosted.org/packages/e5/21/13140cff6bc88b4ad088d2d703742941195124075823d030a19ea71fa0c3/PyBuilder-0.11.6.dev20160129104253.tar.gz"
+    },
+    "0.11.7": {
+      "sha256": "7d4d690ba446b27abcd6b51e25b0df2d654df298c36b8c8f2b038c4fa5b1fa09",
+      "url": "https://files.pythonhosted.org/packages/05/e0/d24241c35095bdb066b4151e9308298580620477e83b97e2ca7729d1bb10/PyBuilder-0.11.7.tar.gz"
+    },
+    "0.11.7.dev20160129104901": {
+      "sha256": "e1240c5bb8a0e91f669f6e131c61592ee4c65bd37db5a96ee6ddc97cca583d99",
+      "url": "https://files.pythonhosted.org/packages/93/71/b62fe942648e2c5ca6a24984ee5c81ba21a4270bfc316a8b45e18369d46d/PyBuilder-0.11.7.dev20160129104901.tar.gz"
+    },
+    "0.11.7.dev20160208083541": {
+      "sha256": "a681a2d812a1ca01fffb6f1c5f597a23998cf96614aa5168a700a4a65e0aefe5",
+      "url": "https://files.pythonhosted.org/packages/ba/70/477ae250a67a17fa4c6ba26b47a24caabd5dbc536ecaf5beec967e26865e/PyBuilder-0.11.7.dev20160208083541.tar.gz"
+    },
+    "0.11.7.dev20160208083736": {
+      "sha256": "f113dcf979826ef3b5c0a0d7148299c048bd8adb9b9bcd05f2cd223fb651998b",
+      "url": "https://files.pythonhosted.org/packages/e1/17/a3befe6db8ddee39666d597777a2d61c8f82e26c14e57da84864f3c2e296/PyBuilder-0.11.7.dev20160208083736.tar.gz"
+    },
+    "0.11.7.dev20160208084247": {
+      "sha256": "ebf6909fe69f56fb4f33307059964b4e0840a7246e60533224ca740395d171e5",
+      "url": "https://files.pythonhosted.org/packages/6d/75/52b590f91dad886c2817bcfc553d6b112f28deafacc2d658613b84640fc8/PyBuilder-0.11.7.dev20160208084247.tar.gz"
+    },
+    "0.11.7.dev20160211175726": {
+      "sha256": "aa8f1ed42d36a9b8f47807544d96f2348c951892ca5d787f9da4ea9abac42d3a",
+      "url": "https://files.pythonhosted.org/packages/f6/5a/9cd9941950a026944c8218a9cf6cc0fa13d819ba920a6046d30f5e0b1cfe/PyBuilder-0.11.7.dev20160211175726.tar.gz"
+    },
+    "0.11.7.dev20160215160007": {
+      "sha256": "246e8978a89947ec194836f595ab52ea35696278088aff2cebef24174485e293",
+      "url": "https://files.pythonhosted.org/packages/77/ab/e0b24ccca9e72057423e2c5d7c1e0bd182e6d55a86dbc80f69cd8a1c632e/PyBuilder-0.11.7.dev20160215160007.tar.gz"
+    },
+    "0.11.7.dev20160218022215": {
+      "sha256": "4ba2a9f5bd7c311003fbb4b4d5ee099a6f77f278a3b2a0e27c2b14ca69e04aa1",
+      "url": "https://files.pythonhosted.org/packages/dc/65/f99a84c50fddb6a22770c7427264d60acd86a7ecbea92c311ebdd6d9578d/PyBuilder-0.11.7.dev20160218022215.tar.gz"
+    },
+    "0.11.7.dev20160218062718": {
+      "sha256": "58cc1f186dd0c7352a0a2095889ca0cd793bdc7aca450117e7777980c3c5351a",
+      "url": "https://files.pythonhosted.org/packages/bf/e7/0ecad74f2c06e1d8c1b7c0afd2c329c9868a62117b19d4e949d7d18ef560/PyBuilder-0.11.7.dev20160218062718.tar.gz"
+    },
+    "0.11.7.dev20160218114426": {
+      "sha256": "40c607fca872b96d9f365b0e0a0fa57d783ddbcf222c810ba68999a05d345594",
+      "url": "https://files.pythonhosted.org/packages/d5/9f/592084307474d777a448f97fc4345329f12a711c6c58b99c20ef2e59a30f/PyBuilder-0.11.7.dev20160218114426.tar.gz"
+    },
+    "0.11.8": {
+      "sha256": "c6e238636e05f004bc47027c1fd1364f186e675264f2016d72fb1a2ad7706573",
+      "url": "https://files.pythonhosted.org/packages/b7/a8/81439d123c3291fbe5072ada9378b9932e8ddd26bf1b9f3e4c181bf065da/PyBuilder-0.11.8.tar.gz"
+    },
+    "0.11.8.dev20160224130200": {
+      "sha256": "167293a67463c34cb2ea0e78d504e469c74a3323d3d3c5ca20d7ff42042a986a",
+      "url": "https://files.pythonhosted.org/packages/71/0b/956199fff4d7433e98ed52bcb4fff7e9bd2e27d4382f86c5303360685d51/PyBuilder-0.11.8.dev20160224130200.tar.gz"
+    },
+    "0.11.8.dev20160310172951": {
+      "sha256": "d00dc318669ad3c7b923d302a0c84d12822e04438184134e25aadb130b80da29",
+      "url": "https://files.pythonhosted.org/packages/27/4e/d85f2fe3487530cb1ad13cadd6e8efa12a4b00fcfcf112e876a90cb50866/PyBuilder-0.11.8.dev20160310172951.tar.gz"
+    },
+    "0.11.8.dev20160316081429": {
+      "sha256": "f33475d4ecf2c42fb33082cefbf27d21008b4a5966c476fe051f9db18a0cb109",
+      "url": "https://files.pythonhosted.org/packages/73/02/03ffad3abd6e51b58aa0c2288911d0d28b1c34a373e1828f852fab7ae981/PyBuilder-0.11.8.dev20160316081429.tar.gz"
+    },
+    "0.11.8.dev20160316082904": {
+      "sha256": "3eb9cfff369a2eceaa02dc3acc0c3217836a7100503eb58f54a15c6e295be306",
+      "url": "https://files.pythonhosted.org/packages/8b/46/58bebddaa0507d68c28d140be8479e2272892aae850ab18fbe7ea300b3e1/PyBuilder-0.11.8.dev20160316082904.tar.gz"
+    },
+    "0.11.8.dev20160322140435": {
+      "sha256": "3e7a6d2ce19e00ef679e2d5fff0e4c77e3a78de2afb1fbd85e5ae1c97fda9f65",
+      "url": "https://files.pythonhosted.org/packages/92/d6/7ba0b9e07e7ffecd0892e4278512866e64592d4687801311bf412a50e50f/PyBuilder-0.11.8.dev20160322140435.tar.gz"
+    },
+    "0.11.8.dev20160323083918": {
+      "sha256": "2023ea5430290aa9f769547c852d5aba1cd1b366389f96719cac4a37a343138f",
+      "url": "https://files.pythonhosted.org/packages/7a/4a/6aa6ae240ca3cef37bb25dae8023e26c7480e3939a88f412543f990e3b9d/PyBuilder-0.11.8.dev20160323083918.tar.gz"
+    },
+    "0.11.9.dev20160324115053": {
+      "sha256": "fcaf1ec85d161b582d365baa786b53854124ac8bdc9af1460b79a7ec29943cdd",
+      "url": "https://files.pythonhosted.org/packages/1a/42/7d2c27346af9929d6373d1cd4f3c521edab7c46be9805fdd7a2bb9303ca6/PyBuilder-0.11.9.dev20160324115053.tar.gz"
+    },
+    "0.11.9.dev20160413224224": {
+      "sha256": "8a1671be947719170ca33beddb22a5f22d3cc33dafe849044d320afb49d5f577",
+      "url": "https://files.pythonhosted.org/packages/6b/9e/1518ee19ff110821ced574dd42ec1a2c096c5eac938e8b21350eccb202ff/PyBuilder-0.11.9.dev20160413224224.tar.gz"
+    },
+    "0.11.9.dev20160415063857": {
+      "sha256": "916a00ce08f1a16b1087b085f9595cb0852fe093e5ac4fa4cd704db55a8e6fb4",
+      "url": "https://files.pythonhosted.org/packages/0f/20/e2514ef06bd4e29121485057e846846f274c7611981f6e604991724eb88b/PyBuilder-0.11.9.dev20160415063857.tar.gz"
+    },
+    "0.11.9.dev20160415103703": {
+      "sha256": "f7c5b9b03362ebed8e098224ede1c725a9931915c8cca426f38ff2acd046a64c",
+      "url": "https://files.pythonhosted.org/packages/7c/38/6d38f44952cf7520ac48ae6a504c82c5788ae0e213bbd9ed6386010725eb/PyBuilder-0.11.9.dev20160415103703.tar.gz"
+    },
+    "0.11.9.dev20160415131545": {
+      "sha256": "79a864aff43abca7f41d9aaa20bf68abb97a2486d559a00241e7ee9add20fdba",
+      "url": "https://files.pythonhosted.org/packages/eb/c8/04e0f2159ecc6e216bf1b7385fb9189ad223dfd93d890c91d47e6d5c1bf2/PyBuilder-0.11.9.dev20160415131545.tar.gz"
+    },
+    "0.11.9.dev20160415133030": {
+      "sha256": "37be1a3f4baa068cc0203e5ef3cbb5899e4ef1ce64e2043129afff617546b650",
+      "url": "https://files.pythonhosted.org/packages/4c/e5/e3ce3e7c50e3589143612edd7ade2beb14c1d845e566d139785f53f7bad5/PyBuilder-0.11.9.dev20160415133030.tar.gz"
+    },
+    "0.11.9.dev20160509172725": {
+      "sha256": "9e1c7e087da194fa803fd92d6760ba13afb56f8c717994e290085bf161b79c7a",
+      "url": "https://files.pythonhosted.org/packages/aa/0d/79444d863468e27e6da96ca85efd7d01c914be73c4df69ac072e1b5b13ce/PyBuilder-0.11.9.dev20160509172725.tar.gz"
+    },
+    "0.11.9.dev20160601143849": {
+      "sha256": "28805f3a6c93accbe68c96c90ace5f46564513a863d273de40e29a069619f62e",
+      "url": "https://files.pythonhosted.org/packages/7b/04/241549ed8ca6583a3e692bfa6d7ecfbb5399dba9ef9072055818a06eb4b7/PyBuilder-0.11.9.dev20160601143849.tar.gz"
+    },
+    "0.11.9.dev20160615110908": {
+      "sha256": "c50f6613a120fd75669b1d4827bd640da200e29b50bef38defbafd0898abeb0a",
+      "url": "https://files.pythonhosted.org/packages/a6/57/b6f9cf5ce940fb4654484f693e5fd0acec2882a5f1620f1bedf6ea066f08/PyBuilder-0.11.9.dev20160615110908.tar.gz"
+    },
+    "0.11.9.dev20160616212048": {
+      "sha256": "b58d56ed7876737295f046863add5d5999c870d1ea57f251654d9cd5d7cafa72",
+      "url": "https://files.pythonhosted.org/packages/18/ee/a00c6641cf3f8cba8f8a416214475e6d66284e5720ee032b6745beb4a9a7/PyBuilder-0.11.9.dev20160616212048.tar.gz"
+    },
+    "0.11.9.dev20160616212308": {
+      "sha256": "594a0869e260a76233cbd79d50585c747837b0cd8684354ff263f877662a1b1b",
+      "url": "https://files.pythonhosted.org/packages/a7/d8/20e5f6c318564352ef5938f75c6abb3f78c579e1acd389bdbe51238e1e31/PyBuilder-0.11.9.dev20160616212308.tar.gz"
+    },
+    "0.6.5": {
+      "sha256": "8c8e6684414b2c25449f93ad98633b5dd6e64576da511426122e54cd96387318",
+      "url": "https://files.pythonhosted.org/packages/d3/a5/affe6b7318867c75aaed64819389c5f7e67f740a4288b0748f199cc89a98/pybuilder-0.6.5.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "20ae42e27bdfe38ef1b7bffcc7a7d836a350a1fba812bfc984ae93df400bcbf4",
+      "url": "https://files.pythonhosted.org/packages/75/bb/a3505a61a01179659b3db86646e0f1cd4a419496961e98a92df91a4d0570/pybuilder-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "d93172b3932f3792be2a5653e445eb948e678fb891fc4026888ea093976afe85",
+      "url": "https://files.pythonhosted.org/packages/01/7e/e1c6fab594ef9308eb64659a8c445a4769beb81729a13565e0d65c7767ea/pybuilder-0.7.2.tar.gz"
+    },
+    "0.7.3": {
+      "sha256": "da6b16ab3f4236b4ae0ced0246add4afc5b14bc607e95fcb79fbaf078357db0a",
+      "url": "https://files.pythonhosted.org/packages/71/4e/a164d1923a0bb834e0163d36a8b796ef3de7810840c6091a35dea9776846/pybuilder-0.7.3.tar.gz"
+    },
+    "0.7.4": {
+      "sha256": "3d31d3eff718df3fe7bd75625d9ee86c46918ef7da81d46dfd624e562d5e906f",
+      "url": "https://files.pythonhosted.org/packages/b8/26/b4c8a4d7bb7836a2d5e674f8b7f445f358eabe2b5aa4dfbb26bd3619cdad/pybuilder-0.7.4.tar.gz"
+    },
+    "0.7.5": {
+      "sha256": "298db23d8c1480940f6fbc9b70a0280475c14a00d2f66e250dd65e340fe2543a",
+      "url": "https://files.pythonhosted.org/packages/ec/78/afd935c34a1754aa99c863e5bacc137e20fe41ae1305c48b6c3aa6d0f924/pybuilder-0.7.5.tar.gz"
+    },
+    "0.7.6": {
+      "sha256": "709074187b8a0c00ff043bd57aa274f30bcbbffaf6b9ca1a559779590a2d2a3d",
+      "url": "https://files.pythonhosted.org/packages/f6/84/af318ac64ba7ac83cb34d6d3f5e59437532567ae2c09c534452981d38509/pybuilder-0.7.6.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "bfd216a7a4ba097f6982fd37a7cc38a7ee84bc8420be19557e62ac732c449864",
+      "url": "https://files.pythonhosted.org/packages/1c/d8/7573a24ebc1b5b392e639f2d0c44ecf34751dd647be1550ed84ee46a33d4/pybuilder-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "a295e8f4ae0f9ad0343a080acb9319dc3277bc1bbcc8cff1a25bb70ba9f75830",
+      "url": "https://files.pythonhosted.org/packages/54/52/5e768064b9dfac18f692f738334ae2e35d8cea726da722fe82b1f90e1f1e/pybuilder-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "c97fb923f166669c41e7a16aac8bc4ef804a6f6844f996eaf856480266067156",
+      "url": "https://files.pythonhosted.org/packages/d9/a3/00e4f5000933c8db3cd9b9bf1e2bb7859f5da922539fd0ae83f0a92ed926/pybuilder-0.8.2.tar.gz"
+    },
+    "0.8.3": {
+      "sha256": "32cdc14a028344b3745a206b96b83683b38ad204f800c1b6a96ac5b735f2544f",
+      "url": "https://files.pythonhosted.org/packages/4c/8e/230aafd18083044588fc42c65df8f101a284bf94bb7a95657027cf6e5610/pybuilder-0.8.3.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "982ce5966d3af119d49c614f4e3c3e68e05231c94e49938331e45bd0255f7d7d",
+      "url": "https://files.pythonhosted.org/packages/23/a4/00a459021d87255ebe22f1cba045b0529c2aba4856583e405f519f4d2594/pybuilder-0.9.1.tar.gz"
+    },
+    "0.9.10": {
+      "sha256": "fb54d0684d1246828d673e260c1599ff15c322cfd6e2005fe650a9d1de44b8b1",
+      "url": "https://files.pythonhosted.org/packages/cd/ea/c7bc8c8f6f008543ec6aa7d52248a7f9586fb55979e34646c4c00a169466/pybuilder-0.9.10.tar.gz"
+    },
+    "0.9.11": {
+      "sha256": "36ebbf712fe6dbaabe77691d564cdc92f3cd08d461b8667fb630517fcceec867",
+      "url": "https://files.pythonhosted.org/packages/67/b0/46f93c6c9304a01c3225ce563cf6225ddf7c8cb6484aa38fb1b151047778/pybuilder-0.9.11.tar.gz"
+    },
+    "0.9.12": {
+      "sha256": "e5b583803b1fead26011fcf8600d624f77f1745743c9523724d49687a396917a",
+      "url": "https://files.pythonhosted.org/packages/87/5d/36ddfaf16a62dfd3d85028fad5c55a6d7d613e00433ff02e033c4755425f/pybuilder-0.9.12.tar.gz"
+    },
+    "0.9.13": {
+      "sha256": "6a01e0767dc41fb030168a43ca8794f3ae74e83bff1c28104b7948d9bb3deae9",
+      "url": "https://files.pythonhosted.org/packages/7a/9f/44a7b86c3895d57f5efbf3e89546cf27fe80397f668ca79a13d7b1799862/pybuilder-0.9.13.tar.gz"
+    },
+    "0.9.14": {
+      "sha256": "1db49e08406b26b918158e6393c7dbea2017a22f99e928666f484de8acf90e29",
+      "url": "https://files.pythonhosted.org/packages/ca/68/16ae6c4da8ede4c9710dd92bfbb308599c2f48e184b6bebc67a8e2aad584/pybuilder-0.9.14.tar.gz"
+    },
+    "0.9.15": {
+      "sha256": "39d4962d4b7973f1b3a947274905114927c4d4c62f2eba819692c01e91c18c22",
+      "url": "https://files.pythonhosted.org/packages/45/2b/723811790913a473eab059c787841ab006cf8919fe44f2d759a6c391a867/pybuilder-0.9.15.tar.gz"
+    },
+    "0.9.16": {
+      "sha256": "b28661bf2326039bd0f7871842857a9c692ee35f65bc7fae53c272de51ad9772",
+      "url": "https://files.pythonhosted.org/packages/f0/7b/0c8e2694845759de0bfc569cf3a294a1f0c5a215f26c91500050701d03f4/pybuilder-0.9.16.tar.gz"
+    },
+    "0.9.17": {
+      "sha256": "063ed5af1ffc5439604b865aef2ef974f2ec7b5642891f506cc2931cd8c7250d",
+      "url": "https://files.pythonhosted.org/packages/70/f8/63367e7fef7a6630b2af97f1ec1016353662aabcd06513d87dc09a69fe76/pybuilder-0.9.17.tar.gz"
+    },
+    "0.9.18": {
+      "sha256": "1d014b5958e4beae954af72406e630ec51320e698617228db9fa55fbf2dfe9ab",
+      "url": "https://files.pythonhosted.org/packages/61/3c/dbdba8c3e38f31aa2c268799474002959841ac32d5490d6ad58fd108ae7a/pybuilder-0.9.18.tar.gz"
+    },
+    "0.9.19": {
+      "sha256": "1f7b31bacf7b08d747564030ed01f1d416393ded87e726fa6014cb1b312babec",
+      "url": "https://files.pythonhosted.org/packages/2e/d0/8f8fbc9a318dc43801bdca42c66de08111b6f749dbd3289a723ffa55b408/pybuilder-0.9.19.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "65e6843f8e828885114ec511fe73c90ec411c99161a2f1d0fa5c4a4194cdf6d0",
+      "url": "https://files.pythonhosted.org/packages/73/27/9dcc83ea3a80817546de22f901850490afa99d94e032c5e451d692f65380/pybuilder-0.9.2.tar.gz"
+    },
+    "0.9.20": {
+      "sha256": "6cbb9ae017d5b81e6c068906770707b2bebe9299641988ccb7bd7c75ce05f3f8",
+      "url": "https://files.pythonhosted.org/packages/ce/b5/372ed85fb1bcc5a1143e695e2ade2e8b64f5152100189c47c532f96e8f7d/pybuilder-0.9.20.tar.gz"
+    },
+    "0.9.21": {
+      "sha256": "65f41c0474cba04a510d8ac378dc6380ab8311593633a080c34dc3e26b86b186",
+      "url": "https://files.pythonhosted.org/packages/6e/98/1e80b6e71224fad9ce9e17baaea045ef53aea6c501090c33aaebee18cee9/pybuilder-0.9.21.tar.gz"
+    },
+    "0.9.22": {
+      "sha256": "412c0d27c2ea173877158a461f6dbc0b668a27de11bc2189b4183f53b3df130b",
+      "url": "https://files.pythonhosted.org/packages/9f/67/2409edcd02a6d6b9e6aaba3e54c1c9afdd0eba888fafab099ec2dbfa5b03/pybuilder-0.9.22.tar.gz"
+    },
+    "0.9.23": {
+      "sha256": "2d5110368df1024e84c6921aedc5227ffeea9865bc6534bf6d1f9e5492815048",
+      "url": "https://files.pythonhosted.org/packages/e0/e4/96b799566f837aba684c1ef3370c85de94206537fdf860a9fafbdb904048/pybuilder-0.9.23.tar.gz"
+    },
+    "0.9.24": {
+      "sha256": "a770909782559f13cbab8eee1949274e087e269d2b3fb87410653bb455a0d0dd",
+      "url": "https://files.pythonhosted.org/packages/88/4c/c3fe0dd57b2b9182a22250b59d7f77a19dc1507b73eb34b9df4776f6daa6/pybuilder-0.9.24.tar.gz"
+    },
+    "0.9.25": {
+      "sha256": "a7fd86c4d54273178c295e201b7751a3c312b0346616ad82677739374b2cf5d5",
+      "url": "https://files.pythonhosted.org/packages/83/b8/7f95c6c3269644e63a1e6ad4be4284dcd8405c9cffa42ef4239afb32d154/pybuilder-0.9.25.tar.gz"
+    },
+    "0.9.26": {
+      "sha256": "fab53304e3c9f07d7673cf8e94c99e53ba1c42549892aea0e395014b4895df8d",
+      "url": "https://files.pythonhosted.org/packages/00/86/f13a86f810b49d4b932d03f167a1c727f690721250a27da476d8e516fca3/pybuilder-0.9.26.tar.gz"
+    },
+    "0.9.3": {
+      "sha256": "84b405c537d3ab9354aaeed2f87016e38ec3762adab69b6d66dd6e3813188e43",
+      "url": "https://files.pythonhosted.org/packages/3b/52/148ad386a71eeb68fa2cdfe52962dd7ed30791477feafeadac8655fbb4b2/pybuilder-0.9.3.tar.gz"
+    },
+    "0.9.4": {
+      "sha256": "6016a298f396cb84351a43350ec67b601a91c960916cd96191a8e0c85cef9d4c",
+      "url": "https://files.pythonhosted.org/packages/ab/88/fe701456dda7c4c6bb0e3cfd79a3df91ce03a1765293c210871dc1f1a246/pybuilder-0.9.4.tar.gz"
+    },
+    "0.9.5": {
+      "sha256": "98e890bf3efaa6d2a2afeb9a862e5427d421b52d876d3d54bd11c21968639566",
+      "url": "https://files.pythonhosted.org/packages/0c/4d/ac66874e1a131c5f5862e12904b535361b1496dece4638be9706fca2d21f/pybuilder-0.9.5.tar.gz"
+    },
+    "0.9.6": {
+      "sha256": "88e54e1bd4251904c501e059eccda7368190cd3198bf3cdadeb4979879f3fce5",
+      "url": "https://files.pythonhosted.org/packages/c6/2f/8f5f76b3662f21a31f533bee6eecbc47d37c2f5bcc348243e2d40b658584/pybuilder-0.9.6.tar.gz"
+    },
+    "0.9.7": {
+      "sha256": "36feafd5b77c05d23d158c7581c19e6fafd304c73f402f7988b75ab1a1dd9cb9",
+      "url": "https://files.pythonhosted.org/packages/a4/53/761667a8b8b49127b688e2bd70914cc25b97ce63c5d3a2a7dcf40b204447/pybuilder-0.9.7.tar.gz"
+    },
+    "0.9.8": {
+      "sha256": "e3d19dbfbace247f731964cd9a89ca0055ea6ac99fe96f6fd9687405a67c11d4",
+      "url": "https://files.pythonhosted.org/packages/95/49/7b6e0cd23597ce94262fd70ed9872f0f92974f9da3c3b70b90ea9d2e9b6f/pybuilder-0.9.8.tar.gz"
+    },
+    "0.9.9": {
+      "sha256": "b1ff5878772513952d3ff8aee1f4fe397164d9fdd60c6264d1055f678b75270d",
+      "url": "https://files.pythonhosted.org/packages/9f/a1/a52e483de504d09a0dd16a38d52f4cfbb51f8272b5dfe89bba81d20f52d5/pybuilder-0.9.9.tar.gz"
+    }
+  }
+}

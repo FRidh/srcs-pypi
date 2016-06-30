@@ -1,0 +1,36 @@
+{
+  "latest_version": [
+    "0.8.2"
+  ],
+  "meta": {
+    "description": "pytest plugin to generate random data inspired by QuickCheck",
+    "homepage": "https://bitbucket.org/pytest-dev/pytest-quickcheck",
+    "license": "Apache License 2.0"
+  },
+  "versions": {
+    "0.5": {
+      "sha256": "8ef3c07aa91f6af8c89c5f7c5b286edc70827822dc51be0fd32d3c3c7065b0a4",
+      "url": "https://files.pythonhosted.org/packages/b8/80/aac74f33ab79fa9ce31b4c07d7f1b53e745cfa96bf26f18d8abcb4221872/pytest-quickcheck-0.5.tar.gz"
+    },
+    "0.6": {
+      "sha256": "eacb2e4a215643e0feb77194a34b44ba3b7e31bccd658a4414876e5a4dbade85",
+      "url": "https://files.pythonhosted.org/packages/27/7b/d9119bc7cb9054aeac4986fd45a8255d79dd88d351191d74fe06a3c28938/pytest-quickcheck-0.6.tar.gz"
+    },
+    "0.7": {
+      "sha256": "f9846de4d599008a5bc93bc333b96c369b5a64b83de03754d15f7f3c74bff200",
+      "url": "https://files.pythonhosted.org/packages/84/ce/b3fcff60568f000f3d0f739a040122625305e14ec9ee7281412b633842a8/pytest-quickcheck-0.7.tar.gz"
+    },
+    "0.8": {
+      "sha256": "53375baed9be2c47b2072287d6b66eb1a7f81458850fc8aabc9238659235a1b5",
+      "url": "https://files.pythonhosted.org/packages/bb/27/2bcb44186207cc7a35582eca0ce81fc78e9f4160c0e3172f76080f0d318f/pytest-quickcheck-0.8.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "a8453c24c188f39c27a256a52bce8f7cbc5ff69d0b5c3aec9c9eedb2cf12d2a1",
+      "url": "https://files.pythonhosted.org/packages/9c/b1/2d372e3cfe6fa87519a939cc285ce62b16dbadb425a16c1abf53176b09ce/pytest-quickcheck-0.8.1.tar.gz"
+    },
+    "0.8.2": {
+      "sha256": "036aad7ac5553a4416d9e85a9bfea6d989f6d7bf2a0f5798ae9f5addf827fc10",
+      "url": "https://files.pythonhosted.org/packages/50/87/e71a357f077f191483528889a116e3562f325a99cec41edb44f3ffae516b/pytest-quickcheck-0.8.2.tar.gz"
+    }
+  }
+}

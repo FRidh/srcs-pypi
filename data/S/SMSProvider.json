@@ -1,0 +1,32 @@
+{
+  "latest_version": [
+    "2.8.1"
+  ],
+  "meta": {
+    "description": "LinOTP2 modules for submitting SMS messages",
+    "homepage": "http://www.linotp.org",
+    "license": "AGPLv3, (C) LSE Leading Security Experts GmbH"
+  },
+  "versions": {
+    "2.7": {
+      "sha256": "698d9f75a52eff499450cd7d131c20f67f509d058615e120f63e5eded1f3de30",
+      "url": "https://files.pythonhosted.org/packages/73/68/c8f26ed5e1c09608c828c93081d256d985e656e3853ec24119b77b20ff38/SMSProvider-2.7.tar.gz"
+    },
+    "2.7.1": {
+      "sha256": "32ad1f127e1bcd9be34e887c804f4e1c71104284103d8635f42660a0df176ffe",
+      "url": "https://files.pythonhosted.org/packages/1f/7c/3841f1e160a40aaaff62f352e3afcebdd6078ae5d06d233051259f0a4761/SMSProvider-2.7.1.tar.gz"
+    },
+    "2.7.2": {
+      "sha256": "3a4f2d546d6879fb444bfb298ba833d475c7c676eb4674908b7fb8ef5e79e3b2",
+      "url": "https://files.pythonhosted.org/packages/40/78/45757799a9c8db3ee41263a02e17bbff7799eba01af112748dec9a9f21f3/SMSProvider-2.7.2.tar.gz"
+    },
+    "2.8": {
+      "sha256": "11ed20c73a0b42a7325f7550f58f66f7aaf398377f35138c55e41d36d618deb4",
+      "url": "https://files.pythonhosted.org/packages/4d/d3/ab01b913b8cc9daefa55320d0e79b77c9931a010e13cb382eeede340df71/SMSProvider-2.8.tar.gz"
+    },
+    "2.8.1": {
+      "sha256": "546676992e1741fb258ae42b6b62e89ee74ddcb5a761461750306bf54ada1629",
+      "url": "https://files.pythonhosted.org/packages/59/30/ee459641a9c10338f8b360ea4925ded5e4b914d9cdf545aea6ff706bec5b/SMSProvider-2.8.1.tar.gz"
+    }
+  }
+}

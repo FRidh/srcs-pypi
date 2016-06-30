@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "2.1"
+  ],
+  "meta": {
+    "description": "py.test plugin to remove stale byte code files",
+    "homepage": "https://bitbucket.org/gocept/pytest-remove-stale-bytecode/",
+    "license": "ZPL 2.1"
+  },
+  "versions": {
+    "1.0": {
+      "sha256": "71986186047eb60900c0d83d1d4cc9e9782a7ac5b90f9ee53cb05f8bd6b05a6e",
+      "url": "https://files.pythonhosted.org/packages/da/77/895186b26bd44b7427bcc7556afaa87b934327bd031eae487e36b6af1e91/pytest-remove-stale-bytecode-1.0.zip"
+    },
+    "2.0": {
+      "sha256": "8e17f2a61185ff352e5fb5ea7fd8b73e2ce4232f93879e049cee4ab4e3f9970d",
+      "url": "https://files.pythonhosted.org/packages/a7/7a/dcd389a11086ef73fe675cb854d03826832fd9d8792a92adcb7bb3392a40/pytest-remove-stale-bytecode-2.0.zip"
+    },
+    "2.1": {
+      "sha256": "88b3d9d1d195d74a5de877c2fcb30f82ff08b540bc43535e6710073617b69579",
+      "url": "https://files.pythonhosted.org/packages/3d/29/8389e329a55beb7b752d94fc28e9acaf6c3e6791f17cec86736a47853294/pytest-remove-stale-bytecode-2.1.zip"
+    }
+  }
+}

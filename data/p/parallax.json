@@ -1,0 +1,28 @@
+{
+  "latest_version": [
+    "1.0.1"
+  ],
+  "meta": {
+    "description": "Execute commands and copy files over SSH to multiple machines at once",
+    "homepage": "https://github.com/krig/parallax/",
+    "license": "BSD"
+  },
+  "versions": {
+    "1.0.0a1": {
+      "sha256": "d32adbfd68c73c7bbacbb82b96c2aa78b9b8e10ea62ddb7b8e1fbeaa719c6cef",
+      "url": "https://files.pythonhosted.org/packages/58/f9/7c2c54297cf5649c6b1b442b641e964eb4bc59b772178b2f358601681adb/parallax-1.0.0a1.tar.gz"
+    },
+    "1.0.0a2": {
+      "sha256": "a8829dc7bc1d740c94c0e0a63c9330613a619e4172c1bc42e3724d8399a69f57",
+      "url": "https://files.pythonhosted.org/packages/9e/5b/e5355112bc7f2e6c575cdd79dab3ab551b16a945ce5eca6cabf307f44fd7/parallax-1.0.0a2.linux-x86_64.tar.gz"
+    },
+    "1.0.0a3": {
+      "sha256": "81fb350fc777f55c913f04fb3bf9ec11c290ae1b61a2a559ff1678f88e53fc9f",
+      "url": "https://files.pythonhosted.org/packages/e4/ad/81df163b0887c96fa4262afc171c7cf7c4dbff5837d3a7958cd977b635d6/parallax-1.0.0a3.linux-x86_64.tar.gz"
+    },
+    "1.0.1": {
+      "sha256": "a4d2c9883f48e139b55a6aea06562b406e0ef61c016472d6b069ee46c9a8acf2",
+      "url": "https://files.pythonhosted.org/packages/ad/bc/9dd1fc7113080092e3d7f13e69c894570fb20ba1801022de550c712c35f0/parallax-1.0.1.linux-x86_64.tar.gz"
+    }
+  }
+}

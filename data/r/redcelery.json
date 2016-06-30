@@ -1,0 +1,16 @@
+{
+  "latest_version": [
+    "3.1.18"
+  ],
+  "meta": {
+    "description": "Patches for celery which attempt to mitigate issues with its use of redis connections causing workers to hang",
+    "homepage": "https://github.com/reversefold/redcelery",
+    "license": "MIT"
+  },
+  "versions": {
+    "3.1.18": {
+      "sha256": "fd225e5751b204dd379b4246afac598bdc3f203d09774dd907d06e505f0521f2",
+      "url": "https://files.pythonhosted.org/packages/f6/17/00f9e29d49820809619566b96f6b937584233b1fae2577fec5a9261280e7/redcelery-3.1.18.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "latest_version": [
+    "0.11.11"
+  ],
+  "meta": {
+    "description": "ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order",
+    "homepage": "https://bitbucket.org/ruamel/yaml",
+    "license": "MIT license"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "44899b021468120150aa8ff9c8eaa63cb04e88ba9323c1a3fbe185e9dd05fed0",
+      "url": "https://files.pythonhosted.org/packages/38/ec/894aae77d32198e9d7cc3f024c8a59b9da394e05f5d907cb274e030203bf/ruamel.yaml-0.1.tar.gz"
+    },
+    "0.10": {
+      "sha256": "b9bcc5232820d12cf7d2a7df277eca6e2dcff40cd4cbedf4a41b5b008a5eb601",
+      "url": "https://files.pythonhosted.org/packages/e1/4c/10954ed9cd58f1461bbf330d0327671adc2c976a0024a27beb3c2504fa6f/ruamel.yaml-0.10.tar.gz"
+    },
+    "0.10.1": {
+      "sha256": "b3a87f6d0763f59d3845069136e2867c7a475887b4f3db0f773cc31117ff001b",
+      "url": "https://files.pythonhosted.org/packages/5c/96/e9a7d221980c5d1267f48c19412bb6f113d953d9e473611beca04ffda29b/ruamel.yaml-0.10.1.tar.gz"
+    },
+    "0.10.10": {
+      "sha256": "aade4ccce962d977a5e1ba4f9af91cbd4b2ca45872fbe6d2f64c6a5e96f9a151",
+      "url": "https://files.pythonhosted.org/packages/46/af/f3526eee200428d0239b0543d3de9d0948850de1b3cdee0f98a7e7b843d8/ruamel.yaml-0.10.10.tar.gz"
+    },
+    "0.10.11": {
+      "sha256": "da642f5e8c932db3e3a1ba54a1b6f7f20d1ddaac01936fdc200ae74cb1d51791",
+      "url": "https://files.pythonhosted.org/packages/3e/e3/001e22a471e65f7d14e08342a15dea8e45f55bc6ce84f26354199da9df3e/ruamel.yaml-0.10.11.tar.gz"
+    },
+    "0.10.12": {
+      "sha256": "2bfd7d00c0ca859dbf1a7abca79969eedd25c76a976b7d40f94e1891a6e73f2c",
+      "url": "https://files.pythonhosted.org/packages/1e/fc/9931abc77b598be6a37f400a2e6ddf372fd0942aa1f6ea16f17d4fc1df15/ruamel.yaml-0.10.12.tar.gz"
+    },
+    "0.10.13": {
+      "sha256": "562b52d3a8d328961a7abd8d6de7967bc212cf6528d8cb81bf9db55469b13565",
+      "url": "https://files.pythonhosted.org/packages/9e/c4/a7b8832418274bbf13d95c70ffe331b8904624b09408168d06be467cfb5e/ruamel.yaml-0.10.13.tar.gz"
+    },
+    "0.10.14": {
+      "sha256": "3f8b5522891c3d6e9cd5711651310d126b80dbb4f69a047fa4e9b20bf1f5c85f",
+      "url": "https://files.pythonhosted.org/packages/4c/e9/3b2a1299f88bf3176a35b445ce4e3b6cf2cd1c0dfc7cbea2446eb6a5f322/ruamel.yaml-0.10.14.tar.gz"
+    },
+    "0.10.15": {
+      "sha256": "128d37f3bf42e078bb32251292e7cf07539f1b3c55ff7aeab2257b5d694c63d2",
+      "url": "https://files.pythonhosted.org/packages/54/31/1e357240b30bbd0043cefae37be37975835926cb417428202806ed2119a5/ruamel.yaml-0.10.15.tar.gz"
+    },
+    "0.10.16": {
+      "sha256": "25033ef916e051cb16c9c526fa7922222398845a084d1f6a8f2eac0850482efe",
+      "url": "https://files.pythonhosted.org/packages/15/ff/b01f32568dc336b0b6a94008186277eee1c9252af174da215cbc76ddbf5f/ruamel.yaml-0.10.16.tar.gz"
+    },
+    "0.10.17": {
+      "sha256": "97d5d220f105f1a5e59897ad9060e26bf2eb5baa4a39f792996bce73ef678a57",
+      "url": "https://files.pythonhosted.org/packages/32/db/8fb4b47b64ad36aa376ccc265472f4149e67a1381d33b3fc43d478921cb2/ruamel.yaml-0.10.17.tar.gz"
+    },
+    "0.10.18": {
+      "sha256": "4b557e756eab8ff214bae724e210d0b7726963c014614d75ec30934b4b792089",
+      "url": "https://files.pythonhosted.org/packages/ec/5b/23c2881ced9f896aefb4d6a36d681ede9338efa01f52438add30a12a53eb/ruamel.yaml-0.10.18.tar.gz"
+    },
+    "0.10.19": {
+      "sha256": "39a153bd1d143934be4e9cfaff4ef90c04dcaea5c97a68d2500d001f5617b9a5",
+      "url": "https://files.pythonhosted.org/packages/85/58/5b97edfff117d2ecba1a9ce95a139ee1186a334cc147d87ad70925af0bb1/ruamel.yaml-0.10.19.tar.gz"
+    },
+    "0.10.2": {
+      "sha256": "27e28bdb6c9bba0db99fe4cb8b55d3aaaa699b13f11970a1bb81e37cf769d725",
+      "url": "https://files.pythonhosted.org/packages/e1/a7/26c09d5c63c9e9d1837751c7e17fafb2ab4c8753a35d19fde64d902bafcf/ruamel.yaml-0.10.2.tar.gz"
+    },
+    "0.10.20": {
+      "sha256": "d14990b19ffebec3f05a26d9c1fdc9bfb427175a6c7042b11b7ffc13dfecb2a1",
+      "url": "https://files.pythonhosted.org/packages/1a/d1/e745c09b1a800ba455bf057553ae389f7139c4d182da30654bb5feb1b303/ruamel.yaml-0.10.20.tar.gz"
+    },
+    "0.10.21": {
+      "sha256": "e48333a01d66f6ffaf6e1c7e663c4d98ac02fcbcc7041583c2cbc6e962885eb3",
+      "url": "https://files.pythonhosted.org/packages/1e/db/7d510ce5773234aaba5af18ba3e337330737beb3de3384769691c40e033f/ruamel.yaml-0.10.21.tar.gz"
+    },
+    "0.10.22": {
+      "sha256": "e2a41bdccf4dd8343a5153d23e11c5e6be5b4e55f1f02a98d20d76f2425c29df",
+      "url": "https://files.pythonhosted.org/packages/a5/41/a21925b0aee04ea60a0a560fd8575611e6f68b37ebd126031c35f1ac1238/ruamel.yaml-0.10.22.tar.gz"
+    },
+    "0.10.23": {
+      "sha256": "895347f81297f5542e1071092c6760ed13d86547764ebbaedbc2972eb8385dd8",
+      "url": "https://files.pythonhosted.org/packages/e1/fe/0021f94b54f7aa5a730b765f5a4eead9675be98c7f46c206c240fb9ef819/ruamel.yaml-0.10.23.tar.gz"
+    },
+    "0.10.23.dev0": {
+      "sha256": "f5dfdc5702c2a0b3e03a69d51ad27c2478d8bde81c9830b284738c9415e48f19",
+      "url": "https://files.pythonhosted.org/packages/74/25/08402e4fdf394e347f844b881a99b9370c9c664c29743e1a159096387001/ruamel.yaml-0.10.23.dev0.tar.gz"
+    },
+    "0.10.4": {
+      "sha256": "be21e2855ee96c149c7b7b61ade0a66a8e0d389489d17ef300a35311cd2e825f",
+      "url": "https://files.pythonhosted.org/packages/02/b7/ab7fab5ded2e0b04c86f22f52c0a88cfb91f4e1b3a340fcdd31c8a4bbdd5/ruamel.yaml-0.10.4.tar.gz"
+    },
+    "0.10.5": {
+      "sha256": "24247dc7f19f6730d5afd14f6504ef76631f73634f44a4978c4fc38571af6054",
+      "url": "https://files.pythonhosted.org/packages/98/b1/d924fe972dcb9d23e6fa7040f4009850530e6a043bdaa04047d426ab31b0/ruamel.yaml-0.10.5.tar.gz"
+    },
+    "0.10.6": {
+      "sha256": "bbfb6e604da6e145843a9fb5f5a6a0edadf9ee394f5eec2a69419972738b522a",
+      "url": "https://files.pythonhosted.org/packages/e6/b4/d09f5ffb7163e2fa70ad452dfdc577f1946820f5d718c823de90bd6a10e6/ruamel.yaml-0.10.6.tar.gz"
+    },
+    "0.10.7": {
+      "sha256": "7cdd868013c39fa3593e80e23fc7d0c440062088244bf9cb1dc5c971376149d7",
+      "url": "https://files.pythonhosted.org/packages/43/9e/65384de268e2cff109fc339ef68f9b6908ff24427e465b3ba84b28555b95/ruamel.yaml-0.10.7.tar.gz"
+    },
+    "0.10.8": {
+      "sha256": "8eb077078f42212fe96284b2caf79e385a18315af1180e1b8fb5f938195870ff",
+      "url": "https://files.pythonhosted.org/packages/22/f0/35f3d9992aa2362da9b82de5ab736c080521f2c1cc99dcfb1da24b37e283/ruamel.yaml-0.10.8.tar.gz"
+    },
+    "0.10.9": {
+      "sha256": "1ad579a599ef7ec4d8b127f01ec095f77f4704cc00887bc833353635e15a7bb7",
+      "url": "https://files.pythonhosted.org/packages/32/66/5398b1c22329fa8a5a6c4a806d96809110393039a49199f0f16b16ba25f8/ruamel.yaml-0.10.9.tar.gz"
+    },
+    "0.11.0": {
+      "sha256": "e55b5547d89dba782206489d2fbdcff2d0d7048272cf254eaf8af008193d0ee1",
+      "url": "https://files.pythonhosted.org/packages/ff/8f/15600e8a437667471afabc29f26ca95242cd65fdeb98fef1e239bd1c86c9/ruamel.yaml-0.11.0.tar.gz"
+    },
+    "0.11.1": {
+      "sha256": "9f4a953959b7f137e78abc5f079c85c136cddebf373af532c6465913b9610c7c",
+      "url": "https://files.pythonhosted.org/packages/c1/55/cb40fed42db413c228efc7a4415a38f5690b2abec6f4b1475e61bb1079f6/ruamel.yaml-0.11.1.tar.gz"
+    },
+    "0.11.10": {
+      "sha256": "de84d4417ed5775753b068539b94ae0155c3b50c816f44d890851fa70b6e58a1",
+      "url": "https://files.pythonhosted.org/packages/80/87/0095ead60f27fcd35a2bbf19329148a7f9ff10690b9ac22f0cfdbebe3c2c/ruamel.yaml-0.11.10.tar.gz"
+    },
+    "0.11.11": {
+      "sha256": "ceb179bacbf32cd42449b102f962939ebae303f0418d4588368d0c0b374ff3a3",
+      "url": "https://files.pythonhosted.org/packages/fc/f1/7530ac8594453fc850e53580256f3152a8d8f2bb351bc3d0df8d7b53dbde/ruamel.yaml-0.11.11.tar.gz"
+    },
+    "0.11.2": {
+      "sha256": "01070e2bf489e1a806e0a9d83cb8c1888bc50158a8253d572c98942b7f480a04",
+      "url": "https://files.pythonhosted.org/packages/eb/c9/f41d3a311ab072fa2fbe6193dc169a4311df2a961ff1f1220dd08ba83de3/ruamel.yaml-0.11.2.tar.gz"
+    },
+    "0.11.3": {
+      "sha256": "d7ef84a0f3fde486023faca3066716f2770d90e9d1f54f08d8062977a1555612",
+      "url": "https://files.pythonhosted.org/packages/14/be/7f9643e80c6e5eb45118e08ba27198a71fb12adc890550a58a7464a64a13/ruamel.yaml-0.11.3.tar.gz"
+    },
+    "0.11.5": {
+      "sha256": "bb9d5d3a2e8c854e5f312d7df62bfd35782be9b9aa6f27c1a752e663a782eafd",
+      "url": "https://files.pythonhosted.org/packages/08/46/88cbbadaed13eb48d0e83046aa05a0a88876bfc40a30dbb057014c55c594/ruamel.yaml-0.11.5.tar.gz"
+    },
+    "0.11.6": {
+      "sha256": "e45177885eba56942a497d4b7bf9c7fd5f1aa2ab3ebfb85a224205006209cd46",
+      "url": "https://files.pythonhosted.org/packages/d5/b2/019e665121b127f2c2ff7615a657f52a3ed94d9184e67c28fecab9012f4d/ruamel.yaml-0.11.6.tar.gz"
+    },
+    "0.11.7": {
+      "sha256": "c89363e16c9eafb9354e55d757723efeff8682d05e56b0881450002ffb00a344",
+      "url": "https://files.pythonhosted.org/packages/f0/85/36931437a58010067837946bd31823072c827657e1a3c50ba5f4848163d4/ruamel.yaml-0.11.7.tar.gz"
+    },
+    "0.11.8": {
+      "sha256": "65a93b4c432dbe92f4deaa4d1f65b6416812fc6843e053bd614f7e4f1a0deeab",
+      "url": "https://files.pythonhosted.org/packages/33/b2/93efcd71df61a41a467c1602869f88bbda645221876c36b212e91b6d3cd5/ruamel.yaml-0.11.8.tar.gz"
+    },
+    "0.11.9": {
+      "sha256": "4060cdd2aec8b3bf1bbcf6959092fb177897a14e4b8757fafdc7518d9fced2e8",
+      "url": "https://files.pythonhosted.org/packages/e1/84/43e61fd454823088fcdb5f4421eb2fc1d6d9360c92ff36db4eaddd48acfe/ruamel.yaml-0.11.9.tar.gz"
+    },
+    "0.2": {
+      "sha256": "2d39e05a6136ccb4bd861792648232528a0b5d93c0f50354abd532bdf93222fc",
+      "url": "https://files.pythonhosted.org/packages/d0/33/c96dcd85b80297bf9ecfcd2cc887409cdadbe8026e2d3d0f108c94d0172b/ruamel.yaml-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "466d10d5bde0de3f0673cc701e6f3e491995aac1402f9ad35dcaea7e72b08555",
+      "url": "https://files.pythonhosted.org/packages/f7/58/b2d53e10f00ff6b4487e4822d41b003c9065cc06156f4d4d2307da9f910c/ruamel.yaml-0.3.tar.gz"
+    },
+    "0.4": {
+      "sha256": "3026f04dfdc791e5e1fe32c05d52cd41b70857a030b15c36298e8f9cfb79d10d",
+      "url": "https://files.pythonhosted.org/packages/8b/f7/639bb5b927b8b9dea1a591416359df0fca3ad77955ab71d7ab36b8bbc15b/ruamel.yaml-0.4.tar.gz"
+    },
+    "0.5": {
+      "sha256": "5af3547b8d254b2c872d65454b857a6e32c4f12c0669fbc060b5a1731c883267",
+      "url": "https://files.pythonhosted.org/packages/2e/ae/d23c11bb2b641d78027fb52eef127e352311472f45b1625f37c7694c57ca/ruamel.yaml-0.5.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "21745ed7e580f5f242120ddc1aedd73aab11982ac66f7a517a92d8cc7b42d356",
+      "url": "https://files.pythonhosted.org/packages/9b/d2/2e7dd563176705f362914915651a7773a38b8ed523469dca0a6c63dcbbf1/ruamel.yaml-0.5.1.tar.gz"
+    },
+    "0.6": {
+      "sha256": "196d577219eff18cf074461b7826b75b36632c9344ea061a46dcc01e4d6e8c50",
+      "url": "https://files.pythonhosted.org/packages/4b/f3/0c8f1412b431b3c713c257ce4834f4c5f07d082541db29079fb8fd223911/ruamel.yaml-0.6.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "417e9ed95500eee5e7a7c14c32ad7b268dc9fe6c166b824329c61338628f4784",
+      "url": "https://files.pythonhosted.org/packages/8e/41/dc919bd305f795577e6a416279225a39a724660eaed5cce3a64ed148e737/ruamel.yaml-0.6.1.tar.gz"
+    },
+    "0.7": {
+      "sha256": "2446074b0b1d953cbf7f973301c427002eb40bbd5fbfb7c132a4dbc4387c7e07",
+      "url": "https://files.pythonhosted.org/packages/4a/c6/87db7a198d795e364f000e3c1610eeff1ede9adfef7feb99cac99f72bee1/ruamel.yaml-0.7.tar.gz"
+    },
+    "0.7.1": {
+      "sha256": "b37943f42917b719926116aa88dd5111d87f8db9907193a7c8ce6c307eff6d3e",
+      "url": "https://files.pythonhosted.org/packages/e2/62/9c04f39ff045cdf6d00ff9ed7a460aad2f4e2987365eadfcdce39c84dc3f/ruamel.yaml-0.7.1.tar.gz"
+    },
+    "0.7.2": {
+      "sha256": "512bc470ecac8aacc9a7e832b407de1518d5df37fbfb10d98573cc561aa060d1",
+      "url": "https://files.pythonhosted.org/packages/be/5a/8a36bcb79f443faf6efd5fb5932cf703d3259631c5da3928cd282ef79cb5/ruamel.yaml-0.7.2.tar.gz"
+    },
+    "0.8": {
+      "sha256": "e8beccd6a7447cd0d4e0b6529788f5fcb8b25aaeae15a35b9f18420e2fc31d9d",
+      "url": "https://files.pythonhosted.org/packages/5f/49/9c59b0f46d30c58a1e36a85bd406619eb388e13945d9554339e3eb7aee89/ruamel.yaml-0.8.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "0606d5070f58b1809e114438937c0203531e4060ec44a1d4b7d460f679b39ff6",
+      "url": "https://files.pythonhosted.org/packages/38/49/8d067f16d1ad964960e758e2a5f60d9255a20d47e5057b6ff66bd73dbece/ruamel.yaml-0.9.1.tar.gz"
+    },
+    "0.9.2": {
+      "sha256": "974fe238087ffdaf7ad9bf2fad5f0f43f750e1910d0ceba95fe64cafe2457460",
+      "url": "https://files.pythonhosted.org/packages/05/42/5f390604ca3b881e1f50e99b186e4608028784a56234694f6c298a031c4f/ruamel.yaml-0.9.2.tar.gz"
+    },
+    "0.9.4": {
+      "sha256": "1ae47329c0b413be5c50d139fc80afd27cd816ca62c7f8a54197e0c45aeea9c0",
+      "url": "https://files.pythonhosted.org/packages/85/9f/f7dd835b64572a704c71d0a3c69aa8728b9a8b8075c8ef56479e66012cc7/ruamel.yaml-0.9.4.tar.gz"
+    },
+    "0.9.5": {
+      "sha256": "46e1c172b94c5685b935cd72ec4cb617411c9af8dd6b8b34ad8b5e43a1c3fd8f",
+      "url": "https://files.pythonhosted.org/packages/5d/13/546a0f77741f4c7d3fa551435d7c230007c0445e091ce93d6c7c17fdfa5a/ruamel.yaml-0.9.5.tar.gz"
+    },
+    "0.9.6": {
+      "sha256": "9730ba3f094e4f49f279aa0d0d2caf0b99cd80f4fff9d04f565597d678aa9163",
+      "url": "https://files.pythonhosted.org/packages/5e/d2/c0c2cbbdfb089b61ac1562522fdb7e5bf2bc8cc69b9a666a3b49eb27b7d8/ruamel.yaml-0.9.6.tar.gz"
+    },
+    "0.9.7": {
+      "sha256": "9a49dbaac2d87613962c8fa8d02fa7a609e9cd80e350fd7f417e25d222a9f273",
+      "url": "https://files.pythonhosted.org/packages/08/2e/36ad3bba826620494292ad7c14beb21695e6da91705f50cf228fb0fa4409/ruamel.yaml-0.9.7.tar.gz"
+    },
+    "0.9.8": {
+      "sha256": "0c1c373d99c0cb4f5de1b5b3f9526030436c201de1ac1cc05766e35a8667bf69",
+      "url": "https://files.pythonhosted.org/packages/29/71/ac3ab7be172ca88b6d16134578c9124e0b5ed157a3681e5181d9ca9bb3ec/ruamel.yaml-0.9.8.tar.gz"
+    }
+  }
+}

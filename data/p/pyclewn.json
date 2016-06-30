@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "2.3"
+  ],
+  "meta": {
+    "description": "A Vim front-end to the gdb and pdb debuggers",
+    "homepage": "http://pyclewn.sourceforge.net/",
+    "license": "GNU GENERAL PUBLIC LICENSE Version 2"
+  },
+  "versions": {
+    "2.1": {
+      "sha256": "4e6dccb6afa07e34202cc8cba4fc63a53d432b2dbc3f1a08c1945bbdd2a2a855",
+      "url": "https://files.pythonhosted.org/packages/ea/3d/6f614f37b77a1f951143640208e49398f71d65687e26cbce7a0b37bc2713/pyclewn-2.1.tar.gz"
+    },
+    "2.2": {
+      "sha256": "eeabc01bc4f69ef8128c5631ae450b8254e9acafeaf4cc811a82f770dfd3be36",
+      "url": "https://files.pythonhosted.org/packages/1c/02/3700891fcee6ece9ff1af4a2fd90975c274516fcffcdda1c5166fc7904db/pyclewn-2.2.tar.gz"
+    },
+    "2.3": {
+      "sha256": "a4da63da6e576234bea968d094f1b0fbeb408c8d341e01d2f427fb4d44c46918",
+      "url": "https://files.pythonhosted.org/packages/d0/07/9bbe5f9c79d47e39dd932acad608101d9eac35d3ea09eb275b32e86f8022/pyclewn-2.3.tar.gz"
+    }
+  }
+}

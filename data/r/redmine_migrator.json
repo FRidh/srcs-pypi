@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "Migrate Redmine data from SQLite to Postgres with consistent type conversion",
+    "homepage": "https://redmine-migrator.readthedocs.org/en/latest/",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "d7fb92fdd5fcac5ea918e77cbe93c07a48b273df86a8623330d11176a4b01410",
+      "url": "https://files.pythonhosted.org/packages/59/56/c3a0d64f313242377b9b2d1fe2fa1bcdf8d5498843829949f7c08c6cc7d2/redmine_migrator-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "2a3e5132055b27e08fc82efa93c4d5e3271d8f9c9adb8d6626403de227a0ad3c",
+      "url": "https://files.pythonhosted.org/packages/09/dc/f35a301c97defaccc8fbaf8affe620b932fb0204bd98d85e7264c581e664/redmine_migrator-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "32d1bfb3331728c33bd532df3f224e072c118c4769d43f73964c7a677c3755a3",
+      "url": "https://files.pythonhosted.org/packages/7c/91/0c347c3d0a994162b759e61aeedb225f0f685b26575dc369b3a54c2279c2/redmine_migrator-0.3.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "latest_version": [
+    "5.1.5"
+  ],
+  "meta": {
+    "description": "IPython HTML widgets for Jupyter",
+    "homepage": "http://ipython.org",
+    "license": "BSD"
+  },
+  "versions": {
+    "4.0.0": {
+      "sha256": "d0fd8e647224edcc889b1a960bbd658ea94145b6e926701f3f0df2ece10e4b7c",
+      "url": "https://files.pythonhosted.org/packages/d5/10/74163dbe22c8391603d03d97c595158295a6a12d80bf06e01611c3f36c43/ipywidgets-4.0.0.tar.gz"
+    },
+    "4.0.1": {
+      "sha256": "7760334e4382e4364abb1ec409669c8da6e6842175c5a5028a4f7f748b34b65a",
+      "url": "https://files.pythonhosted.org/packages/69/81/b393462f233dd8f23f2a3e6481ca61b4ec2cb17886e0a60cc9c2dba4e1fc/ipywidgets-4.0.1.tar.gz"
+    },
+    "4.0.2": {
+      "sha256": "ae6208c6d5b89fd41e159814d25955ee9bf153013a1d538e5ac238aa556bdca9",
+      "url": "https://files.pythonhosted.org/packages/56/be/c22f25a4596a73d8287f8e7fc65faec4f534bcc90774b305bfc8740bcf2e/ipywidgets-4.0.2.tar.gz"
+    },
+    "4.0.3": {
+      "sha256": "2703239500817e43feb0907a7e0f76c79b8a9ccdcae5973e80f02cb2206fcfcd",
+      "url": "https://files.pythonhosted.org/packages/cc/9b/2b30cb33045121e3b741d3aaf1db7864543a2b2e0e2d9571c38313e9c730/ipywidgets-4.0.3.tar.gz"
+    },
+    "4.1.0": {
+      "sha256": "df1b409e216e5c5d25f7db4c4fb6b6aab0cf83f03b2d81d6ade0a79182021589",
+      "url": "https://files.pythonhosted.org/packages/60/6f/900b5176ef6d76b56f907a178e27e8629818aed23839b8157e2decb13e66/ipywidgets-4.1.0.tar.gz"
+    },
+    "4.1.1": {
+      "sha256": "ceeb325e45ade9537c2d115fed9d522e5c6e90bb161592e2f0807375dc661028",
+      "url": "https://files.pythonhosted.org/packages/bb/51/8a01ff344cf82288a66bbca2eae882834f45156bfb32f8ceaac6728d122a/ipywidgets-4.1.1.tar.gz"
+    },
+    "5.0.0": {
+      "sha256": "ccf993965dd06f65299e27eb8fed0130fce6b0c6547fdb2b1c87861f6a4fae7f",
+      "url": "https://files.pythonhosted.org/packages/67/02/8102f3a42f55f7e3281b174de0834ed9368fdc65a89495efda731c96f57b/ipywidgets-5.0.0.tar.gz"
+    },
+    "5.0.0.b1": {
+      "sha256": "41a56793a8499a8267e2e35ccaa27ed85dff7ba6f3e9d61ae9d22dbfbf1d5fe4",
+      "url": "https://files.pythonhosted.org/packages/2a/fb/82c09beec3cc09d8f9495e1120d099518db9b76ef3a24757bdb59c8014da/ipywidgets-5.0.0.b1.tar.gz"
+    },
+    "5.0.0.b2": {
+      "sha256": "77ffbc0bcd081897ca1abdf1f5f0be072465f77de88f43ae6e65f51011e782b5",
+      "url": "https://files.pythonhosted.org/packages/db/12/2ae9a0cdbff356c732dfa83fbc60f48877b0530539135c9b526d2b9d4444/ipywidgets-5.0.0.b2.tar.gz"
+    },
+    "5.0.0.b3": {
+      "sha256": "2493b60f456cdb8f6dcda8c5ba0df3da8d7d2c427b6035e7b44d57dd5df6ac1d",
+      "url": "https://files.pythonhosted.org/packages/67/7e/e7fe7fa913e9180c3bfa80fc1ead305aa0d1a69c8f99a1754a47f39033e7/ipywidgets-5.0.0.b3.tar.gz"
+    },
+    "5.0.0.b4": {
+      "sha256": "6d1b241a1cce8bb6f5a55ce72f2e437f067ab190c36b0ad51086a09e61bf6b03",
+      "url": "https://files.pythonhosted.org/packages/73/51/36f54e10009350993a2c7aca7a44393e6fb017d536e320691fb886d8f63f/ipywidgets-5.0.0.b4.tar.gz"
+    },
+    "5.0.0.b5": {
+      "sha256": "b9ae2ec60f4448289f4ea33f87fcb0fe0904e07d8f80901301b78c450d7ac4c7",
+      "url": "https://files.pythonhosted.org/packages/f9/56/984e54f5920f34bf9f12201ddfcbc47542ec4b0f0fcafd02ccfc068532a1/ipywidgets-5.0.0.b5.tar.gz"
+    },
+    "5.0.0b1": {
+      "sha256": "c6e121c89cafecd7724ebd2bfa5cb2ac548cac008852b50610523455f4e3733a",
+      "url": "https://files.pythonhosted.org/packages/14/0d/7dd804a302b76ecc95f2aab97156031ba6c28e7672472188cdf04be50f6d/ipywidgets-5.0.0b1-py2.py3-none-any.whl"
+    },
+    "5.0.0b2": {
+      "sha256": "0e5bdc7d61752ef2c2c3106bc933eef9547f4eb51e7d55fdc899c9f8691d9bfa",
+      "url": "https://files.pythonhosted.org/packages/d2/2d/580c41c14e70ae9a43aba86df1e7fede0aeda81d0c596d2206b7550323cc/ipywidgets-5.0.0b2-py2.py3-none-any.whl"
+    },
+    "5.0.0b3": {
+      "sha256": "c0021b8c59f32cf33aad416ab8e3d65965545f5df0f365214f87e1b61f10a584",
+      "url": "https://files.pythonhosted.org/packages/8e/95/f0784317cb99f8275d8c913866044b443beac7a70a44470c7c2104fbe115/ipywidgets-5.0.0b3-py2.py3-none-any.whl"
+    },
+    "5.0.0b4": {
+      "sha256": "502833494561786c16a3b3cd896daf9046ced9c30afe3b89e48737235787bd07",
+      "url": "https://files.pythonhosted.org/packages/2a/22/e65f89ebba8dad20fa8957241db60dd9fbb12eef6c75cd8856d5dbdd02a0/ipywidgets-5.0.0b4-py2.py3-none-any.whl"
+    },
+    "5.0.0b5": {
+      "sha256": "66cd8e9121e15239fd0ed5d9bbc99aadd4e47a2abd4c7c371a0b5f50a7e77568",
+      "url": "https://files.pythonhosted.org/packages/cf/1f/e30910b6d112a215b98099d553e708cef1039cc8ce36c08242da7043daf6/ipywidgets-5.0.0b5-py2.py3-none-any.whl"
+    },
+    "5.1.0": {
+      "sha256": "16c02c5b645fb731364c9cc0dd30c2670b288f5d540743a2ce5357f7efb6b395",
+      "url": "https://files.pythonhosted.org/packages/30/48/db4697cfcc3966c93be753e6d4b98cdccbea8daa884289e1bf1ac0dfc457/ipywidgets-5.1.0.tar.gz"
+    },
+    "5.1.1": {
+      "sha256": "9495164699482997eb56cffb4ae098eb7ed7a196fc9e067567b6abb5c6095222",
+      "url": "https://files.pythonhosted.org/packages/dc/91/2efb33ffb5f5a7b5084f5565bda3132834d7696af905b9d907bb4b8137af/ipywidgets-5.1.1.tar.gz"
+    },
+    "5.1.2": {
+      "sha256": "139c22754b6c41c03f55abd1b7f4aa5dc0cfd7f959cbf99e1560af6005c40a2e",
+      "url": "https://files.pythonhosted.org/packages/58/dc/87f41a3e9c1364def452c7cd953c201588958db4bddb6fb2aed634a9770b/ipywidgets-5.1.2.tar.gz"
+    },
+    "5.1.3": {
+      "sha256": "316f9d90121901dc7b1cbba67175f9d628a5e2fce076d0c45f54331a2c9ada87",
+      "url": "https://files.pythonhosted.org/packages/16/db/35c60fd41f2ead21dd9a31d24656b30757986d0aaf26f2ab0b7a3de120fd/ipywidgets-5.1.3.tar.gz"
+    },
+    "5.1.4": {
+      "sha256": "0e5c105a88395e472d667bcc6f1dcb4244050f0dfd2e60f06ce765193d068226",
+      "url": "https://files.pythonhosted.org/packages/c6/92/d41aeb0c87a40ed9633115a0c4e4c9fde24f150a8f7ca58f9745aefd0bb6/ipywidgets-5.1.4.tar.gz"
+    },
+    "5.1.5": {
+      "sha256": "9590407ed96c3ac4fe22b4d18eb59854de83d1f6a007522b8d63373ed06e1eaf",
+      "url": "https://files.pythonhosted.org/packages/71/af/328e6c1bb0c4c9a0f8e14daf7b9a05320667e2eb3a1bd3efa18200496df4/ipywidgets-5.1.5.tar.gz"
+    }
+  }
+}

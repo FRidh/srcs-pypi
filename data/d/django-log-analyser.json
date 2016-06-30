@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "A simple Django app to analyse RDS logs using pgbadger",
+    "homepage": "https://github.com/squadrun/log_analyser",
+    "license": "MIT License"
+  },
+  "versions": {
+    "0.1.3": {
+      "sha256": "0089214fb37ebcadd15948c9ad1dc79f06628ce3add3d5b5c1acf0ee0f9d4ace",
+      "url": "https://files.pythonhosted.org/packages/77/33/80688cb6a196faf7978c28d3e8e2f31df2ac109033e15dba79fd8342a8a6/django-log-analyser-0.1.3.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "d52b959e0058da3fa401e271fa877a535e1a4625b7c29c01d914bc7520f30a60",
+      "url": "https://files.pythonhosted.org/packages/78/c5/91fe4fae5f85b22b146672be1c99f73d048b06e995d64f2efd486eb22926/django-log-analyser-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "08805bbd5fa8621ed64510c4bbdf62bee56c6ec5e304c2f6099e5d10f879af4b",
+      "url": "https://files.pythonhosted.org/packages/40/b0/1c602e1be9f8d5ffb91a1764685dd2490e263da69b16c1326698705ddab1/django-log-analyser-0.2.1.tar.gz"
+    }
+  }
+}

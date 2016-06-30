@@ -1,0 +1,156 @@
+{
+  "latest_version": [
+    "1.3.4"
+  ],
+  "meta": {
+    "description": "A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, webapp2, and Falcon",
+    "homepage": "https://github.com/sloria/webargs",
+    "license": "Copyright 2014-2016 Steven Loria and contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "42df165d2d08a635c008b815b3ad582d7e61315108c82dec1351fa19aae4e8c9",
+      "url": "https://files.pythonhosted.org/packages/9c/5a/16b266d1cb4cbb0e857dd951246bc9df20707377f94e7d54e6e41488f433/webargs-0.1.0.tar.gz"
+    },
+    "0.10.0": {
+      "sha256": "97e610055c2abe8d34de65d7ce91232ef71499e3db3acd5dc3dc613d0584c887",
+      "url": "https://files.pythonhosted.org/packages/d5/56/9aedf38a14973c53e4f79b16d2788809974aaca71c513b2c1652d1922f88/webargs-0.10.0.tar.gz"
+    },
+    "0.11.0": {
+      "sha256": "9a1209cba03f47f5a8ac0878c6181bc28c032d9223dcefa54f3b6bf8d170c094",
+      "url": "https://files.pythonhosted.org/packages/64/d9/ded8129be0bc7b4dfdec95e62987a3a4579d918f47f9b818976533c0f69f/webargs-0.11.0.tar.gz"
+    },
+    "0.12.0": {
+      "sha256": "cd5a08e19cf92e18cdd46ee5e02b535e62b8c749f486befb4dec31c7ca1923c0",
+      "url": "https://files.pythonhosted.org/packages/a1/d4/d3a2f6b8f0c2009e76569901dc32086b7eadc149a8d75fa2fb9667f7284c/webargs-0.12.0.tar.gz"
+    },
+    "0.13.0": {
+      "sha256": "fd58360ec5e302e958773bc7472c1c93298913445402f54c8d86fa81ea96d0e5",
+      "url": "https://files.pythonhosted.org/packages/5d/a5/ca43ffd3bd3d8ef42687642d3042078c15639bb06de34239c4ec5af07bb0/webargs-0.13.0.tar.gz"
+    },
+    "0.14.0": {
+      "sha256": "4572066ea8750dab720f32658145d1437f99387daa4b3d19126b68e02825394a",
+      "url": "https://files.pythonhosted.org/packages/23/1e/2a9c864c3e6809b50f3dbe5c8b5a87e5870d548f882f4e86671bf98343c3/webargs-0.14.0.tar.gz"
+    },
+    "0.15.0": {
+      "sha256": "2ae78f3beb6eac80470990acc0fc75863d3208beb3a419437c9e101c05757d05",
+      "url": "https://files.pythonhosted.org/packages/03/b4/631937eacbe4b18d21e90a602a932c69be0f04fb68c0ef478db40374eda1/webargs-0.15.0.tar.gz"
+    },
+    "0.16.0": {
+      "sha256": "c1ace4994aaf370639b25454427a6657466d01705608b63bbde306e5d6d4d90b",
+      "url": "https://files.pythonhosted.org/packages/a2/19/a8f2225e0a89b3cc0dff9fd43a6f401adae641a9a36eddba80c3f4ac073b/webargs-0.16.0.tar.gz"
+    },
+    "0.17.0": {
+      "sha256": "7549312cb91261ec7e6cc6ac15c51b9df7ea8fa6aba057193968d30a77f55f41",
+      "url": "https://files.pythonhosted.org/packages/97/ec/90730cdc335d1bd00fecaaba44551f54d08e39bda5d5089ff2ee99a5f7ce/webargs-0.17.0.tar.gz"
+    },
+    "0.18.0": {
+      "sha256": "fa39104600a611e6ecd1ec872dc449b09e3353ae36a6ef8f93af8259df5b4192",
+      "url": "https://files.pythonhosted.org/packages/3a/c3/d847ab6e46727de38f0dd5287ccb7c2ecf3e73148b5b88fcd59964d5daef/webargs-0.18.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "becd7ec4f8c7838e8eb6b462a3e24ae90740cff891288e37b447c07a8684af84",
+      "url": "https://files.pythonhosted.org/packages/ec/be/b32df8cfc2c1a757091789d94e3aabe2e2546089b84e627101f585bc0745/webargs-0.2.0.tar.gz"
+    },
+    "0.3.0": {
+      "sha256": "87d1ceb0ba441c91f6f0ba54df0028e12725e2cc0bf61de7bb0b4d79321dc161",
+      "url": "https://files.pythonhosted.org/packages/59/76/2cb628ed1967d928704ae6218b47894ba433cad0057f3432625c41ab11f2/webargs-0.3.0.tar.gz"
+    },
+    "0.3.1": {
+      "sha256": "792ce398020601c2fd66044fa8be590377cae5f7c826337e5fefd07ae4b2d371",
+      "url": "https://files.pythonhosted.org/packages/85/77/7cfe76b5ba406f538803199b0ec5a00bdf79c5663bd120dc344f622b554f/webargs-0.3.1.tar.gz"
+    },
+    "0.3.2": {
+      "sha256": "2e74aaae8fe6d50f8c41db8ae10237ef78bb6ee5f0728a8217101b275584a988",
+      "url": "https://files.pythonhosted.org/packages/6b/d6/1161e5a456e47285db181683efabfbfd8ff7442c74f68bd8263a5617132d/webargs-0.3.2.tar.gz"
+    },
+    "0.3.3": {
+      "sha256": "0ad8f0b85d3e601b09872fbece9396b4cd7c1f1028394d545cd2193016420607",
+      "url": "https://files.pythonhosted.org/packages/90/a4/b4a5d5d762dd9b86ef6d6feba8802f6ff2508c87781897320371d70dd42a/webargs-0.3.3.tar.gz"
+    },
+    "0.3.4": {
+      "sha256": "56bb67bfae7563a6353b6c8558359a108405a4bb3027d452b1d3a6dfeb17822d",
+      "url": "https://files.pythonhosted.org/packages/ba/68/6a84af12f26bd40977e30a7ef5b867fb3ba9712983039a0024270fbf912e/webargs-0.3.4.tar.gz"
+    },
+    "0.4.0": {
+      "sha256": "ffa9bdea1f2545090e6edd31e42e32c1ef01cb56258a8499658daff99cd67730",
+      "url": "https://files.pythonhosted.org/packages/75/bf/74157dd1c3a0716710a0a951c02a44e11fc0fd6b39be44202648d804b163/webargs-0.4.0.tar.gz"
+    },
+    "0.5.0": {
+      "sha256": "d9a885cda3edb828bef9745a3bd527537f033a6a56f07510fe50f88e92c85f42",
+      "url": "https://files.pythonhosted.org/packages/80/48/b3c1a909184672ead2cc03495138a684618438f4ea6c7fb9b2fbd0a4a606/webargs-0.5.0.tar.gz"
+    },
+    "0.5.1": {
+      "sha256": "909ca5b9db48943bf7f3ff894f54aa4faad902bdd343d059464d524148e455fd",
+      "url": "https://files.pythonhosted.org/packages/09/7c/b460f1553f30a6f15fd8ae97fe5a9c007dac183293f9308853a1d0bc8dfd/webargs-0.5.1.tar.gz"
+    },
+    "0.6.0": {
+      "sha256": "606e62a43c864baa9c3c20d97e287ed31e36d348246a9cf4fa6a2fa8507f5228",
+      "url": "https://files.pythonhosted.org/packages/4b/7f/b8d6ba2a2c8b932441ece9b14708dcc1d1913f9d87338eb07e9b6c27bf47/webargs-0.6.0.tar.gz"
+    },
+    "0.6.1": {
+      "sha256": "5a0c8f948c7791e02218daf3008a83d9dbad3f5bf08d460548231da200d2a68a",
+      "url": "https://files.pythonhosted.org/packages/3b/1a/bb9d01cbb7de92eea5ff713555eea634289acbb33327da84cb8b68173bce/webargs-0.6.1.tar.gz"
+    },
+    "0.6.2": {
+      "sha256": "ea25e4019e90d5e366561e47b25ded985a4054055145c7dfd26349fe23b36deb",
+      "url": "https://files.pythonhosted.org/packages/e0/e4/e0ed8f0b05600ffbedeb52a5092b88edcf3a75b0ae754664d55e96de1b16/webargs-0.6.2.tar.gz"
+    },
+    "0.7.0": {
+      "sha256": "5eca09a17cf1bb27dda0b611e935ad578ce72c017c0308e735dcf130c20c3754",
+      "url": "https://files.pythonhosted.org/packages/9c/52/338ef3f3b6d82ee811b9ceea76c8d3b7279247cd2bf0660853be26ea6d5f/webargs-0.7.0.tar.gz"
+    },
+    "0.8.0": {
+      "sha256": "6364140645d3dab37cba7c72176f79c935ee03ebbc5f7ed9cfe9db89ab98b73c",
+      "url": "https://files.pythonhosted.org/packages/5e/65/e8e857549205b8bfc75f92d82ec9eebad857b6d8ac697acbed9a01342469/webargs-0.8.0.tar.gz"
+    },
+    "0.8.1": {
+      "sha256": "31a5b24e2621223164b6d38ce40d38fc133652d2af21c0e93a86a04a14bc51bd",
+      "url": "https://files.pythonhosted.org/packages/37/89/3cb3152e2e7b3783ddf162b7041636f5fdbee6d4e24f0dfb132f4b9a8ec6/webargs-0.8.1.tar.gz"
+    },
+    "0.9.0": {
+      "sha256": "d7d6ea92988313214b9b3f0ac8d16285439b69df9731ff895b84106468780965",
+      "url": "https://files.pythonhosted.org/packages/be/e7/08b205e2d048c834b4587972631da2601dfee979a6586ecffa9916eaa6a8/webargs-0.9.0.tar.gz"
+    },
+    "0.9.1": {
+      "sha256": "e1ff205814cc8ded4bb6cae15a7abd91ae2333d362994e77fec776e358891efc",
+      "url": "https://files.pythonhosted.org/packages/d0/7d/1c52f3245b62332f8ae8a1d5a3153d1126788c4c5490e735d1d49184953c/webargs-0.9.1.tar.gz"
+    },
+    "1.0.0": {
+      "sha256": "840c2908b1343f14f90cdb17db2e28f38cd32b2136fb3f1dec64ce14e527d476",
+      "url": "https://files.pythonhosted.org/packages/e3/08/e058b0216330fc464a661adf1b2cc2ef5c6ca5b37888099aabda6320935d/webargs-1.0.0.tar.gz"
+    },
+    "1.1.0": {
+      "sha256": "1cf25c41cb14779b74592376ed816c19c533263417d25032cf4195a48a488f4c",
+      "url": "https://files.pythonhosted.org/packages/ad/75/5699050afcb99c4db4b521ec8a6d12f4503647ae4fe83c8940bacba4f836/webargs-1.1.0.tar.gz"
+    },
+    "1.1.1": {
+      "sha256": "b4536344e66ca66da2c4ec9520e22553fd3020e7120ea33f8122f4a1cd566b85",
+      "url": "https://files.pythonhosted.org/packages/3f/34/02c060ec6dd064799387b2112bf4a7cb5d3ee5112b2dbe87514e9e918b06/webargs-1.1.1.tar.gz"
+    },
+    "1.2.0": {
+      "sha256": "1777899ef9906fe3688df24e3c2bcd541273a190fe8131c58ca21a2fdbad79b5",
+      "url": "https://files.pythonhosted.org/packages/48/bf/f3e1fd9b32f522fa7d79e387e00b171005ec815e9721b745258db6f7074a/webargs-1.2.0-py2.py3-none-any.whl"
+    },
+    "1.3.0": {
+      "sha256": "c2a268eafe3d46cb68cc3fff6178a0d713f0d237c45565e66ba76977378e8645",
+      "url": "https://files.pythonhosted.org/packages/af/b4/1ace53b35770db0e2977b4b3bb7fd02778f95f10855a63b4e804943ebe0a/webargs-1.3.0.tar.gz"
+    },
+    "1.3.1": {
+      "sha256": "d64d9cbfe3f048bbe99ba40b94521760e77fedead5a06fee1c98398697a568c0",
+      "url": "https://files.pythonhosted.org/packages/eb/31/ef68357cdd2f6c413f120bf7454e125155134d967bc2612bc4591dcbb5fa/webargs-1.3.1.tar.gz"
+    },
+    "1.3.2": {
+      "sha256": "f918a7fb431611c2e06c2288190d1a668cd935214b306dd5b8b432c9bccb36e5",
+      "url": "https://files.pythonhosted.org/packages/2e/45/416db0df1c634a372a05ebe0cef2927f098c0d0fbf86c55ec9a8f3296cb8/webargs-1.3.2.tar.gz"
+    },
+    "1.3.3": {
+      "sha256": "63d940913ce304feef929b7e44adf7e6e30395744590e38183875e5900862266",
+      "url": "https://files.pythonhosted.org/packages/10/ae/7acac9d879e9771ec98a99b8e7bb6beaeeabe5163703eb9c07d89124fb85/webargs-1.3.3.tar.gz"
+    },
+    "1.3.4": {
+      "sha256": "a073a3933d2934a502531e7a692a4e52b54cdd194157442e1832b9c19036b796",
+      "url": "https://files.pythonhosted.org/packages/cb/94/b123fbcb9dbf598204c6010a8ea2d4bce3e594e4a0b51d7a86e019aadad7/webargs-1.3.4.tar.gz"
+    }
+  }
+}

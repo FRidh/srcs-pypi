@@ -1,0 +1,15 @@
+{
+  "latest_version": [
+    "0.0"
+  ],
+  "meta": {
+    "description": "A tool to wait for services and execute command. Useful for Docker containers that depend on slow to start services (like almost everything)",
+    "homepage": "https://pypi.python.org/pypi/holdup/"
+  },
+  "versions": {
+    "0.0": {
+      "sha256": "8685c733935f93f092192f97126988603fa4088d3c38ec415ceda4fbe641752b",
+      "url": "https://files.pythonhosted.org/packages/55/a9/0a161d98698cf13993dae1a4bfc8de05b7667e5bbe3c2f635f33bc969a5a/python-holdup-0.0.tar.gz"
+    }
+  }
+}

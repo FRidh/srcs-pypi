@@ -1,0 +1,20 @@
+{
+  "latest_version": [
+    "0.0.2.post2"
+  ],
+  "meta": {
+    "description": "Base wrappers for creating a REST API with Bottle",
+    "homepage": "http://glow.dev.ramcloud.io/sjohnson/rest-api-template",
+    "license": "Unlicense"
+  },
+  "versions": {
+    "0.0.2.post1": {
+      "sha256": "e637731266b884fa748c2f70f7a6d9b4c475e9f00f61ef3aed87b02888b39155",
+      "url": "https://files.pythonhosted.org/packages/24/f4/fcbd0841cf37b51f767e691d172716713fb8f9161e153c1c5b3065d93998/restify-0.0.2.post1.tar.gz"
+    },
+    "0.0.2.post2": {
+      "sha256": "0c62c44c775bf1178574626bd0ad70d6b7df16cf8d548669ca9bf26a0d71aae2",
+      "url": "https://files.pythonhosted.org/packages/95/20/9e78db86fd87d33342e29c1b7536a57ad5e255134ae799bce829a98d5d24/restify-0.0.2.post2.tar.gz"
+    }
+  }
+}

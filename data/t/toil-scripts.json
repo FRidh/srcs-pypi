@@ -1,0 +1,323 @@
+{
+  "latest_version": [
+    "2.0a5.dev329"
+  ],
+  "meta": {
+    "description": "A repository of genomic workflows developed by the UCSC Computational Genomics lab",
+    "homepage": "https://github.com/BD2KGenomics/toil-scripts"
+  },
+  "versions": {
+    "2.0a1.dev145": {
+      "sha256": "78014e0d83f2dd8761592c346fbcdd093668678605527d097c7457bf947bb276",
+      "url": "https://files.pythonhosted.org/packages/22/0b/358a573b5c0eadcf680b22352515fa61fff959e7b0364520ae40fb9cd6f7/toil-scripts-2.0a1.dev145.tar.gz"
+    },
+    "2.0a1.dev146": {
+      "sha256": "177e236f81ed27219440592a1d08746402aa0104680871750b02cda75c30aa66",
+      "url": "https://files.pythonhosted.org/packages/fd/00/29345e1142970fa1e05b6f3aea14f67e8f6107a79256c54cc5a707a1414c/toil-scripts-2.0a1.dev146.tar.gz"
+    },
+    "2.0a1.dev148": {
+      "sha256": "50e77b03875e1ab10a9e38d14ed0675560b5e197ad0b5bfb8102a31c60f54edc",
+      "url": "https://files.pythonhosted.org/packages/16/22/dbb5b07768efba88659cf6a5a433871ae12ea33920a931cbfbe7ca717eac/toil-scripts-2.0a1.dev148.tar.gz"
+    },
+    "2.0a1.dev149": {
+      "sha256": "29b3433121f63dc05efaf4c737fb87ea0a37f69e326e29fb4dcbb9c48ae261b6",
+      "url": "https://files.pythonhosted.org/packages/6f/8f/7d984ea45e151fb1f24610b09656d49ce0409f61a487988fa8eac2aceb9c/toil-scripts-2.0a1.dev149.tar.gz"
+    },
+    "2.0a1.dev150": {
+      "sha256": "0d77b6b2f860f3f4429b617d3ad997d19b52126c0300d15c74e07781ec6d38a9",
+      "url": "https://files.pythonhosted.org/packages/48/b8/515470280f6948a919eca15828e87eb492d1f91659a52af15b7535dd6ee9/toil-scripts-2.0a1.dev150.tar.gz"
+    },
+    "2.0a1.dev151": {
+      "sha256": "6a91a03255574a752f7e2682d14c9c09e43bbf7259a074e803ca0df06417354b",
+      "url": "https://files.pythonhosted.org/packages/b8/ad/43c0b5d2f0a595d50a21fb55bcea793e2725b85085f979a850f0fb327084/toil-scripts-2.0a1.dev151.tar.gz"
+    },
+    "2.0a1.dev152": {
+      "sha256": "2410c31fa3eb53713b8bf287d8f426a9696b3cd2fcecc539de0554fa2a999233",
+      "url": "https://files.pythonhosted.org/packages/ee/dd/8d75e62eb8c74d4fa3235f6730ccaa1ecd66cb91db7eed256a0b58f015c0/toil-scripts-2.0a1.dev152.tar.gz"
+    },
+    "2.0a1.dev160": {
+      "sha256": "7b7c9b0d78ab0653530a88d5c744f460b298a70b9fbb4c0d7b32f7ca64ac395a",
+      "url": "https://files.pythonhosted.org/packages/99/f8/84af9bcec0f9fce36d3c802e781844520aebf82a0391e93718269b5a1034/toil-scripts-2.0a1.dev160.tar.gz"
+    },
+    "2.0a1.dev161": {
+      "sha256": "4595ecc07641948819726a38a56af9d6b094645301411d88294959cbcdd1033a",
+      "url": "https://files.pythonhosted.org/packages/43/8f/972e9d427d1f445d8a7b6515e983af76e133b807c900ae313c00d830fb0d/toil-scripts-2.0a1.dev161.tar.gz"
+    },
+    "2.0a1.dev162": {
+      "sha256": "15e5f62d62f4fc9a6d583764c35b8e2fba275a90218e79f42b656e266e79964b",
+      "url": "https://files.pythonhosted.org/packages/e4/37/836a42974773b1707fc555f6f0973c2dee6948bb46d38cd138d6851f498f/toil-scripts-2.0a1.dev162.tar.gz"
+    },
+    "2.0a1.dev164": {
+      "sha256": "d7d34c54080e58385eab450fac2f8952a64fdec66d51b392493452d00b06a325",
+      "url": "https://files.pythonhosted.org/packages/5b/73/cec831cf0a1c612b540ba6552002ae360f0a568b8857fc7917a1146a66e4/toil-scripts-2.0a1.dev164.tar.gz"
+    },
+    "2.0a2.dev168": {
+      "sha256": "47e341b0651829af5d3314e30e4703a051063bfd64efd7abff76daa07ed2d697",
+      "url": "https://files.pythonhosted.org/packages/dc/71/c463d1fbae87d32a8897b44744a85bf2475fd5a6955626ffc21edc11950d/toil-scripts-2.0a2.dev168.tar.gz"
+    },
+    "2.0a2.dev169": {
+      "sha256": "e6d3f6f85fe41bce20a33c5c2f4c1aa20a2da7673252f82d5c948e4befd586b2",
+      "url": "https://files.pythonhosted.org/packages/ed/42/b9a015bad6e35e18c12a6aaa6cbaf45b4cf74221c001ba096dddb969bf6f/toil-scripts-2.0a2.dev169.tar.gz"
+    },
+    "2.0a2.dev170": {
+      "sha256": "505d193c451aa2ffd8a5e7a58cfcf2bfc09b3638bc009d82bdbdd410b368d90e",
+      "url": "https://files.pythonhosted.org/packages/36/da/beaa8ad765bec854aa20f238c037f81bad7a71d322eb85d95342decf1baa/toil-scripts-2.0a2.dev170.tar.gz"
+    },
+    "2.0a2.dev174": {
+      "sha256": "b8b8d53b0b75839de30a0f7f06bb7cf0c7a1fee397f66bcbe4a44df8d992a6b5",
+      "url": "https://files.pythonhosted.org/packages/23/00/abb4e71a7a35ff2471c362917ae6abee519b792d94b5750ddbde6b7ce967/toil-scripts-2.0a2.dev174.tar.gz"
+    },
+    "2.0a2.dev176": {
+      "sha256": "684d7af8c511eda09b65602eae9e7c68f5dd37c24bbd01a34968b60ceb6633a3",
+      "url": "https://files.pythonhosted.org/packages/3e/20/cd9b0d0fb734587127c5d5e7a495f31ea0ef2882e57880fe768b35cb442f/toil-scripts-2.0a2.dev176.tar.gz"
+    },
+    "2.0a2.dev177": {
+      "sha256": "e7e63947818b8c793c105e72f189f75514d2e44b2780cdad3ef3b0eb24954727",
+      "url": "https://files.pythonhosted.org/packages/4c/f3/d7d3a5a62b6a139aa01875832d4575f795d30212a418237872b7b6bc991f/toil-scripts-2.0a2.dev177.tar.gz"
+    },
+    "2.0a2.dev178": {
+      "sha256": "bc6d538e58d0017c3210708732e785aab666f63209cc65b9c76bd312f1f5fee8",
+      "url": "https://files.pythonhosted.org/packages/10/f3/477de59b8a63c0f197f664cf61ded889ce0e2a5c0d76dde8d747df0caebe/toil-scripts-2.0a2.dev178.tar.gz"
+    },
+    "2.0a2.dev179": {
+      "sha256": "e7dd2933fd6a83dabad0b240383f2a23d485316fc639fa969a78d7c645fbfbf5",
+      "url": "https://files.pythonhosted.org/packages/2e/b2/5e91d18fd4b8292d8e503880891d75e319c18196e02cb4955550bc96978b/toil-scripts-2.0a2.dev179.tar.gz"
+    },
+    "2.0a2.dev186": {
+      "sha256": "9b6d7579b48b96aa489cf6ee0a169198de3a3e0294211288f3a6080c223a9485",
+      "url": "https://files.pythonhosted.org/packages/59/ec/67255ba9496cb7898e55e86275f5ee2aeb6757872c5d53faaf64ea29f5c8/toil-scripts-2.0a2.dev186.tar.gz"
+    },
+    "2.0a2.dev191": {
+      "sha256": "f9311d34d710ea851a57291be71986300f64fee4cc98bd8e8b5a510b795ed273",
+      "url": "https://files.pythonhosted.org/packages/53/f5/6e31004e2509a68058fe573e4e3eb841be5cfff52ba807dc004feb411b45/toil-scripts-2.0a2.dev191.tar.gz"
+    },
+    "2.0a2.dev193": {
+      "sha256": "5b7a31169c0648b5f098a01c9d3bab98aaccffd20a311080abccff005b75982d",
+      "url": "https://files.pythonhosted.org/packages/47/1e/2747e053b84dec41524bc2f311edfe8f9b83ceeec57d03eb827e355e1758/toil-scripts-2.0a2.dev193.tar.gz"
+    },
+    "2.0a2.dev196": {
+      "sha256": "f3a6d89dde013a7cedc36ded5f4f3271cc3047c3b6b605368aeef3610db8b082",
+      "url": "https://files.pythonhosted.org/packages/f5/f7/bb4676b491697d0c5673f0623c1c7088c2733484d217f5a5205c85275ef3/toil-scripts-2.0a2.dev196.tar.gz"
+    },
+    "2.0a2.dev199": {
+      "sha256": "07501be937f0cf757a1dce17a7aa0a3f95e13e646fcc3bb536492ba14241209a",
+      "url": "https://files.pythonhosted.org/packages/f7/d6/18ee3d33eea4d9ca52abec789296c97b0707f317b0aa570f04a887d8f138/toil-scripts-2.0a2.dev199.tar.gz"
+    },
+    "2.0a2.dev203": {
+      "sha256": "1a686dc339ce7a623ff182d12ee27399060207061f47c923137a3ab73b634497",
+      "url": "https://files.pythonhosted.org/packages/91/45/ec256120361957c106237d77f9c7e2920b8e836a32f2c2dbead200cb1faa/toil-scripts-2.0a2.dev203.tar.gz"
+    },
+    "2.0a2.dev204": {
+      "sha256": "5b87310e3ce6d052951adbca0ccfc47112121e15d5e09d5caab4f48e215beddc",
+      "url": "https://files.pythonhosted.org/packages/a9/18/921c01d12b3d97aa1d62202be2689acf80f54c631c6410598c1c84a0e3ff/toil-scripts-2.0a2.dev204.tar.gz"
+    },
+    "2.0a2.dev206": {
+      "sha256": "4e6cf89bfdee05cf8efa359d2ad81c198ad35fe77fc10ea6ad0dd06cde588fdb",
+      "url": "https://files.pythonhosted.org/packages/bb/1c/6c0fbd23a0970a3206e45631690092956e1197342ad32283dec506ab27ac/toil-scripts-2.0a2.dev206.tar.gz"
+    },
+    "2.0a2.dev210": {
+      "sha256": "b63df6b604d80fcf655ef364a5ed844ddd195b1362ab4314669fa6c146fb92b4",
+      "url": "https://files.pythonhosted.org/packages/42/f1/48951505e6fd97a3e001c730161f0b8954963cd3136e1570a2d73fdd9c6c/toil-scripts-2.0a2.dev210.tar.gz"
+    },
+    "2.0a2.dev213": {
+      "sha256": "425d76f211890c45096d71d9b1c4892826b6c215f6fbadcbf55ef9ce3b733126",
+      "url": "https://files.pythonhosted.org/packages/d9/17/1d4869e643dcd005c63853981adac1bf69b6e4741de44f5c8a280e008d72/toil-scripts-2.0a2.dev213.tar.gz"
+    },
+    "2.0a2.dev214": {
+      "sha256": "d22533cfca0c060f4e4184b4f615d04d710f535802614766a784ed038c1d4005",
+      "url": "https://files.pythonhosted.org/packages/8f/9b/28b5c837adf3b541c512cdfee1613f63d5a39a79e8ca71e58e96344c9cac/toil-scripts-2.0a2.dev214.tar.gz"
+    },
+    "2.0a2.dev215": {
+      "sha256": "0206626dcf788a1de4ef183cda0163fb885ecfd4470d94d66fd92995f6abecb3",
+      "url": "https://files.pythonhosted.org/packages/63/ed/94ea32e4459acac79b2a349bb4b32c841b54a251ce958d5ab339a4f17df3/toil-scripts-2.0a2.dev215.tar.gz"
+    },
+    "2.0a2.dev220": {
+      "sha256": "78a7f407ba16c25df6bedc48d4b5b38a84d3fb8c6aae740ad30fb5360d7464a9",
+      "url": "https://files.pythonhosted.org/packages/c4/fb/89b119f35049744ca9c5628bebe3b242d5b8a4b68a5e2b16e29ef7c03b42/toil-scripts-2.0a2.dev220.tar.gz"
+    },
+    "2.0a2.dev222": {
+      "sha256": "118a7333ba30d2aba02ba1ffb32b68b66bdab457ff26831a677bda4ade5c08bc",
+      "url": "https://files.pythonhosted.org/packages/d2/26/8d8357b2bc280683dc72a542f22f5392899beb083a6a26fcdd2325655763/toil-scripts-2.0a2.dev222.tar.gz"
+    },
+    "2.0a2.dev224": {
+      "sha256": "c3e83870bc38e3485c6c07ff916f490e5f1cccf97fac64f91ade7beaceca94a9",
+      "url": "https://files.pythonhosted.org/packages/29/83/3c092ef398c08a18f506bf8eb5b86b07a1f3494483c283db4ef2603d265d/toil-scripts-2.0a2.dev224.tar.gz"
+    },
+    "2.0a2.dev226": {
+      "sha256": "abf4f294430269da5e95a2624628af04331fce243bd14d0a9d0aca813902602b",
+      "url": "https://files.pythonhosted.org/packages/d7/43/4b3516337d8229849fc48a410a4d48630ffa124909b026121d82df94835b/toil-scripts-2.0a2.dev226.tar.gz"
+    },
+    "2.0a3.dev216": {
+      "sha256": "67b9940c39addc6f1fa4e3782079a7e9533bb5087b0e261b1deb1095bec9e28d",
+      "url": "https://files.pythonhosted.org/packages/c6/2c/49684da87e40f6abef81ddde1948652aa5821abf8c4a7d41b6f4d50bd1c6/toil-scripts-2.0a3.dev216.tar.gz"
+    },
+    "2.0a3.dev219": {
+      "sha256": "6c147956be396a1a31f0a6e4f237d3ba136c1bf8a9cb5e2dfcb343f311d114ca",
+      "url": "https://files.pythonhosted.org/packages/bc/96/01379adb668afb5d393cc498583c27bd499bee011ee369075d54f4008926/toil-scripts-2.0a3.dev219.tar.gz"
+    },
+    "2.0a3.dev227": {
+      "sha256": "ccc2edee5d578083fd9992cc6f1906f8feb3cd7240699ff11eb58ea881b81924",
+      "url": "https://files.pythonhosted.org/packages/fa/be/cca83d154ec03d8f2af6f297ed0cf8b93f206620e891368ea84a51810a97/toil-scripts-2.0a3.dev227.tar.gz"
+    },
+    "2.0a3.dev228": {
+      "sha256": "c52755bd4cec34d7b34deeed9cd958201448879526811bdc0c1ce1ae2c36c68f",
+      "url": "https://files.pythonhosted.org/packages/57/53/0cfd15fbd4a9712bb1dd0e80777ef8d9ac0dfb12835a9a22aeddf65c3075/toil-scripts-2.0a3.dev228.tar.gz"
+    },
+    "2.0a3.dev229": {
+      "sha256": "629348d19998c1e7da8016c943ce0b422c8b2ccd8827e0a7c42f5241d437038b",
+      "url": "https://files.pythonhosted.org/packages/cd/1c/d9761506ee3c1da4cef01ebf05947a1b6e7d228ae8febbc538d1f1b2b61e/toil-scripts-2.0a3.dev229.tar.gz"
+    },
+    "2.0a3.dev230": {
+      "sha256": "17f7349db9279eda1d98e6cf0ed63cd51cb81ce64f33d6be68e5cf9d4bc96e08",
+      "url": "https://files.pythonhosted.org/packages/54/66/bde1455f73a0f29bc40eec4d15ae000f3a802817f56656c1f7ddc04c1808/toil-scripts-2.0a3.dev230.tar.gz"
+    },
+    "2.0a3.dev231": {
+      "sha256": "30da8f3d191d755eefdb38995b3d3c9b73f51f83e2745ee425e6fbb2bd98c6f6",
+      "url": "https://files.pythonhosted.org/packages/2c/47/5f55e00260f58923c738f0d19884c975b4b9275e3eabcbf05fde5db8a66a/toil-scripts-2.0a3.dev231.tar.gz"
+    },
+    "2.0a3.dev232": {
+      "sha256": "c2817cea0a6a4df700c012d52c959cc4b68173ad5375a71969f0c8439847bddc",
+      "url": "https://files.pythonhosted.org/packages/45/ff/f0a20f2aaedd40a1b9615df67bf55e489cebb7b538c69dd69c4171c6ebe5/toil-scripts-2.0a3.dev232.tar.gz"
+    },
+    "2.0a3.dev234": {
+      "sha256": "a4554bb6ad0ad35da9ba7f93b4644ca98cb8c0f35c8d94e97518c0d46fa088e5",
+      "url": "https://files.pythonhosted.org/packages/a4/b2/936acf58d81bc13c8cf187dbafbb3193220d173048a2ec52ab540c83b40a/toil-scripts-2.0a3.dev234.tar.gz"
+    },
+    "2.0a3.dev241": {
+      "sha256": "b075b01450dca99e52276c3e970d7b7c9fd43b6ef454f838b025c3c4527b71b7",
+      "url": "https://files.pythonhosted.org/packages/a3/de/1d5b79a905992906f5a53ab359442b144bbeba35fc5802d927efce15e78c/toil-scripts-2.0a3.dev241.tar.gz"
+    },
+    "2.0a3.dev245": {
+      "sha256": "d204915ca095b981ea8ddf7d8e01224854599ada1ec4520ec34e9e41f455a4ae",
+      "url": "https://files.pythonhosted.org/packages/5f/98/44d13abb1bc04da22925eba46e1200ec48e1754edf2987e6ecaee041c586/toil-scripts-2.0a3.dev245.tar.gz"
+    },
+    "2.0a3.dev247": {
+      "sha256": "1e827c6c12d85f9f3215298b35f4f8f30565f2937cbf255655a630cd2a590042",
+      "url": "https://files.pythonhosted.org/packages/12/ce/5bdc135e6377d56c6f93c4277959ef4af4e4f66c07aa2dd567f8bcffa8d5/toil-scripts-2.0a3.dev247.tar.gz"
+    },
+    "2.0a4.dev236": {
+      "sha256": "3beede7ff17a08f19ae4b0c89c8ca661756df8a5914214313861e5ed79e1f0fc",
+      "url": "https://files.pythonhosted.org/packages/80/2b/dc871a6f652c6466e4a48d4b30bec215d843bf94e869a0313027f3c15ba6/toil-scripts-2.0a4.dev236.tar.gz"
+    },
+    "2.0a4.dev237": {
+      "sha256": "1af53124c8e68f702589405bad765128e48ad07307a2e5c6596d49b1303c3fec",
+      "url": "https://files.pythonhosted.org/packages/06/81/a16398865d6b226e8586f735c461b385beb87c71931bf82a4e8f0b50cfbb/toil-scripts-2.0a4.dev237.tar.gz"
+    },
+    "2.0a4.dev240": {
+      "sha256": "d7b6b009db63516bf50a9029d45cef89eb06f523358d45c56e93b564614d451e",
+      "url": "https://files.pythonhosted.org/packages/17/0c/8b365be326c7f80e2eb893b1a25688315c19c2e10657a19e6c5a9c4dc3a4/toil-scripts-2.0a4.dev240.tar.gz"
+    },
+    "2.0a4.dev246": {
+      "sha256": "8aaa4b2dec76ffb04d710f55ac9a92ba8cc1fe5ee29ac3a803fcc1a15e441931",
+      "url": "https://files.pythonhosted.org/packages/30/0b/74ce4a4b82058acc7be3f10dcf8e797e9757c1667f53848aa7cb8ea4b73b/toil-scripts-2.0a4.dev246.tar.gz"
+    },
+    "2.0a4.dev251": {
+      "sha256": "63c90d263565afb103f7dd4be3daf06f0e1d9f2c4b9d2c7220a973e3fc282215",
+      "url": "https://files.pythonhosted.org/packages/0d/19/8527fac817bcfbf75aea471e3f8b39998208f708cb2a55a93f1b76624aa3/toil-scripts-2.0a4.dev251.tar.gz"
+    },
+    "2.0a5.dev259": {
+      "sha256": "677565f3c91dd216ffc9c8ebfee8f65df54dccc484199c0570a6c017b8a0eae0",
+      "url": "https://files.pythonhosted.org/packages/1d/d6/02c9a9370978f7d84abdf7044e82e0fbd07a078063d81e6a4e2263195961/toil-scripts-2.0a5.dev259.tar.gz"
+    },
+    "2.0a5.dev263": {
+      "sha256": "9bbe4bd16e79977b09663a700f37f9bad6fcb2daba8f7c116a4b2f11c3a5ba72",
+      "url": "https://files.pythonhosted.org/packages/3f/ee/740d61a2fc219c0c2daea38a049397ce5b034f1549814b7b520625732bba/toil-scripts-2.0a5.dev263.tar.gz"
+    },
+    "2.0a5.dev268": {
+      "sha256": "05c14f12cb8624a8689e7449ce41d1716e0835f9e4517b7bb870723237ca18d5",
+      "url": "https://files.pythonhosted.org/packages/1f/b9/042849cf3b32c9291986f80c061fd71ccd3ef3ab5dc6f1aa6797104718dc/toil-scripts-2.0a5.dev268.tar.gz"
+    },
+    "2.0a5.dev270": {
+      "sha256": "f91168a9057aae6267af6697e44e1e2bff0d403d69417ea7184213e077963e95",
+      "url": "https://files.pythonhosted.org/packages/20/6d/5e9a4c65d4006557d704968f1eac49af62d2cce84868d4819ec3cffa5806/toil-scripts-2.0a5.dev270.tar.gz"
+    },
+    "2.0a5.dev284": {
+      "sha256": "117a1dab67266eacc031913f45e980bb2328e16c0e3d2733e01eb6ff5f082159",
+      "url": "https://files.pythonhosted.org/packages/bf/73/aac57c4580a68d0e8a6fb9ae59ebd33f3067cc9307185d6b41d435ca0f46/toil-scripts-2.0a5.dev284.tar.gz"
+    },
+    "2.0a5.dev286": {
+      "sha256": "f25f9eb4a4c03cc3f51e383b0bef117dd9592736efa55e6fc048c2ded1069511",
+      "url": "https://files.pythonhosted.org/packages/eb/52/d82fc3a455c0f0977dd9a84bec6549ce39ff8a53ca4fb92104a0eba6e40d/toil-scripts-2.0a5.dev286.tar.gz"
+    },
+    "2.0a5.dev287": {
+      "sha256": "dd35ddc8d7cb13a82e320deab3f9ace22f549b08de8629e2dcee63d5389c75bf",
+      "url": "https://files.pythonhosted.org/packages/f6/2f/cf41e3edfe17234e0c58af0afa80ea1272811dbf6b3f5191a2eaaf975a16/toil-scripts-2.0a5.dev287.tar.gz"
+    },
+    "2.0a5.dev288": {
+      "sha256": "072a06a9ce950fd76d2912a88c6d139378b1a5cab41fe2546dbc8acba57ad761",
+      "url": "https://files.pythonhosted.org/packages/9d/66/81e26f69560555375d52ac4d14520980cbccc2f5069e4b8cf46bc4a1e259/toil-scripts-2.0a5.dev288.tar.gz"
+    },
+    "2.0a5.dev289": {
+      "sha256": "8ff67ca8cea8d8f04243cf2f538c1cfc84c20a0ceb9df1c1a57e96a420b752eb",
+      "url": "https://files.pythonhosted.org/packages/29/a7/b7f164e90597393fe42b56be618ac97a63a426adfad4aeab89146e4f9c72/toil-scripts-2.0a5.dev289.tar.gz"
+    },
+    "2.0a5.dev290": {
+      "sha256": "aefd1f2a639726b216bd243af3e28649f44772feb692ce04a75cb755514daa86",
+      "url": "https://files.pythonhosted.org/packages/1e/af/4c52b9e6b943036bb3aa4c6020c9eed49262eb4b5b7739875e90575c41bd/toil-scripts-2.0a5.dev290.tar.gz"
+    },
+    "2.0a5.dev292": {
+      "sha256": "5f37c9c5abcc5e0cab10a2437e4df6d4162a73c711810b52917c0f7b63c47798",
+      "url": "https://files.pythonhosted.org/packages/52/b5/866eb1fb82d95fad2c35c589e579645c6d0a3c66ef5c43ee83d89179ff78/toil-scripts-2.0a5.dev292.tar.gz"
+    },
+    "2.0a5.dev293": {
+      "sha256": "5944a3c201936af92c22a0fddd656a6b8ef88255514558273cbc48cfe9c83827",
+      "url": "https://files.pythonhosted.org/packages/72/db/add5f193c7338d6db55b2838eaa902b0679631b3afe216681a5948642723/toil-scripts-2.0a5.dev293.tar.gz"
+    },
+    "2.0a5.dev294": {
+      "sha256": "e70b728e4d3204ef66bad7b0ec52e1456bfbcc9c1ec5de40804e59863c3fa0aa",
+      "url": "https://files.pythonhosted.org/packages/7f/e5/c3520d6ab0c7ef944f9e4ee92dca949499a2383323249d1bd3106622010f/toil-scripts-2.0a5.dev294.tar.gz"
+    },
+    "2.0a5.dev295": {
+      "sha256": "6ed08c7f7553a8d24d991ac53f7ce28a316c5700b3761e132a8585c55d15dafe",
+      "url": "https://files.pythonhosted.org/packages/da/d1/a433a1fa3521fde7feecb41cc145169f6be5bbb98b2eca3b95c6ff04569b/toil-scripts-2.0a5.dev295.tar.gz"
+    },
+    "2.0a5.dev296": {
+      "sha256": "4bc1b7d5568db43cc39e118b1e9b5b6d7cfb038f97045055771de093d3c688e0",
+      "url": "https://files.pythonhosted.org/packages/c0/92/78294709a3613041d4d07a9a327cc570d9b8b1bc59abb4d52e8d4e98162f/toil-scripts-2.0a5.dev296.tar.gz"
+    },
+    "2.0a5.dev300": {
+      "sha256": "43587e50d054b66e72abbfd3c514f62da30a771defc78a068d635cb5cf03b4bd",
+      "url": "https://files.pythonhosted.org/packages/56/0e/6337536c81fbf620ad59f9d232b6255d50329a29233832ee40b8fb5c5bb6/toil-scripts-2.0a5.dev300.tar.gz"
+    },
+    "2.0a5.dev301": {
+      "sha256": "d273c0cf99f05442920eac9d0edf1863b800c4f1b56db38ec9020dbf621a11c1",
+      "url": "https://files.pythonhosted.org/packages/17/cd/4001d71c9fb399a6c5b6bc5f8081f063c2956da1d29edab75b7a453c037a/toil-scripts-2.0a5.dev301.tar.gz"
+    },
+    "2.0a5.dev302": {
+      "sha256": "b4e17ff5f529982342b88b2eede8aeb795c78d2d6f3fd839af80031e7e5aacf1",
+      "url": "https://files.pythonhosted.org/packages/3d/d3/2b7a7f2706e68de34fb6d682b967ec3ebf16546f7f14538a067f1fd15101/toil-scripts-2.0a5.dev302.tar.gz"
+    },
+    "2.0a5.dev304": {
+      "sha256": "618d6e27aa4ef050d786114790b8234ceaf9fbdf0a5af655fd15e97fbaa1b49e",
+      "url": "https://files.pythonhosted.org/packages/3c/7d/fa8f9ec7a2a719bb2e91186d703af8a2f696a8a822553c1d81cfcd233162/toil-scripts-2.0a5.dev304.tar.gz"
+    },
+    "2.0a5.dev305": {
+      "sha256": "6e6df6361d93197263605ed7da0343ad893d5ee61e04c659d56169a3916c02c1",
+      "url": "https://files.pythonhosted.org/packages/e0/76/c708d78f4b7808bdd7cfe004f965fffbadb1e1c7139498e9b670500a2cf8/toil-scripts-2.0a5.dev305.tar.gz"
+    },
+    "2.0a5.dev306": {
+      "sha256": "c147c4db743b0f15ced11eaf04537a899aee87361815309de840eb1ca4d4da38",
+      "url": "https://files.pythonhosted.org/packages/67/95/1b3b13d719668553e98fd850b800d58855027c64f425ffb99ded7a7b867c/toil-scripts-2.0a5.dev306.tar.gz"
+    },
+    "2.0a5.dev309": {
+      "sha256": "ec04fabe99caf93730da24d1bf0f16ff5e16a1088894a22483b4be3c08cae701",
+      "url": "https://files.pythonhosted.org/packages/1b/62/c5b55c0bd9785b0f7e2ee11f5668d4e34350e33dae4141b732ddcf57682a/toil-scripts-2.0a5.dev309.tar.gz"
+    },
+    "2.0a5.dev317": {
+      "sha256": "7ffedf378dbcee0451159a2c7bda2a47c436dc3930585e2a5202bba72790b6cd",
+      "url": "https://files.pythonhosted.org/packages/57/b9/248a0cc9a7ea854358bd0c437f163699ac1b95d610b1dcfcea53e3923f88/toil-scripts-2.0a5.dev317.tar.gz"
+    },
+    "2.0a5.dev318": {
+      "sha256": "b0a1d481844e5229478bcda4f1490e496dbe5745f9acc6d2439c65c9264d0b5a",
+      "url": "https://files.pythonhosted.org/packages/cb/bd/020cc00ac344e8786db401b29925ca0da34fe9b4cddffa85374c8fe596d0/toil-scripts-2.0a5.dev318.tar.gz"
+    },
+    "2.0a5.dev326": {
+      "sha256": "998f6300180ba9015f325b85a0cc40a6a59bc117b870e9dbd92e043c3b707b87",
+      "url": "https://files.pythonhosted.org/packages/33/27/f26fe56142b0145c8e7ef5abad75efc229275fbcba6cee4cc75f12ce2096/toil-scripts-2.0a5.dev326.tar.gz"
+    },
+    "2.0a5.dev329": {
+      "sha256": "9f29ec13c9244f1cc928755561f2f6977ebb18b9e6daa718d2478dc421974b10",
+      "url": "https://files.pythonhosted.org/packages/26/73/3b833c2da1ccfe6701be5006c0af58ebe5a9a6a57a5a3a68ac787a13258c/toil-scripts-2.0a5.dev329.tar.gz"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.2.1"
+  ],
+  "meta": {
+    "description": "Thrift SASL Python module that implements SASL transports for Thrift (`TSaslClientTransport`)",
+    "homepage": "https://github.com/cloudera/thrift_sasl",
+    "license": "Apache License, Version 2.0"
+  },
+  "versions": {
+    "0.1.0": {
+      "sha256": "fdadc82a91e84b5e8d41dbe5972584d442217e38ffc315ffa7d245f6746cbbd0",
+      "url": "https://files.pythonhosted.org/packages/5b/e4/371dbc680035ec788d40216b9daf0526a79b329070ba7272d4e3fc4d2c4e/thrift_sasl-0.1.0.tar.gz"
+    },
+    "0.2.0": {
+      "sha256": "ca2a338bfceba2b8a916c0daf9ea3d32ca0d2fceab895dbfad3be380d91b239f",
+      "url": "https://files.pythonhosted.org/packages/0f/d6/ac7fcc6dbc1475aa3b23dbee126788d59b487054e3f458c446f3ce15d1d7/thrift_sasl-0.2.0.tar.gz"
+    },
+    "0.2.1": {
+      "sha256": "dabbca1868731b95713704c97f15b26c4e069af698e40fd99f09d3c6659dfda7",
+      "url": "https://files.pythonhosted.org/packages/80/36/16dfe92d32df63cc2b7b7be8d0e4a736617b7e52daaa7f83ae386a89d179/thrift_sasl-0.2.1.tar.gz"
+    }
+  }
+}

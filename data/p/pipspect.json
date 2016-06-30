@@ -1,0 +1,24 @@
+{
+  "latest_version": [
+    "0.3"
+  ],
+  "meta": {
+    "description": "A small CLI tool to inspect your modules, especially those installed via pip",
+    "homepage": "https://github.com/tohyongcheng/pipspect",
+    "license": "MIT"
+  },
+  "versions": {
+    "0.1": {
+      "sha256": "c53cc8b136cb667cb1b5ec3ad9fde8bf940bd611c3a79d3613d2498b045d0c9b",
+      "url": "https://files.pythonhosted.org/packages/88/d7/2717f1b3a6cf50cbf09f1c75cafa582c771f1a47623b9409a9a1111a6b93/pipspect-0.1.tar.gz"
+    },
+    "0.2": {
+      "sha256": "cfe4f90097056e51bb6496f28da1bd0189d670f35a330d7d452a5e09f57d9d13",
+      "url": "https://files.pythonhosted.org/packages/6e/0f/ec42bed7ab8020ae89adc06cc23c309323e76cc30ac2d2d4bf1c9fb2a739/pipspect-0.2.tar.gz"
+    },
+    "0.3": {
+      "sha256": "14de16c9a462a7a34056f7fbee7fa1b873b20a382201c43419fe038654824684",
+      "url": "https://files.pythonhosted.org/packages/ab/87/e6addc36ef783a6b65ef1bf34e30a423c32c0e2f15a352b414263e55f2d9/pipspect-0.3.tar.gz"
+    }
+  }
+}
